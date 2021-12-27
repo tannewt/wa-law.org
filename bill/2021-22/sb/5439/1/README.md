@@ -3,11 +3,17 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5439.xml)
 ## Section 1
 The legislature finds that:
-(a) Increasing broadband access to unserved areas of the state provides a public benefit to the citizens of Washington by allowing full participation in society and the modern economy, and enabling access to health care, education, and essential services, including public safety;
-(b) Achieving affordable and quality broadband access for all Washingtonians will require sustained investment, research, local and community participation, and partnerships between private, public, and nonprofit entities;
-(c) Providing for additional coordination across sectors to increase broadband access in unserved areas is in the best interest of the state; and
-(d) Expanding broadband access, especially broadband conduit along roadways, provides commensurate benefits to the transportation system and motor vehicle users in terms of reducing congestion by allowing for more telework, and laying the foundation for a transportation system increasingly more reliant on autonomous vehicles.
-(2) Therefore, the legislature intends to expand broadband access to unserved areas throughout the state by increasing broadband infrastructure coordination opportunities, including a registry for broadband infrastructure projects, allowing installation of infrastructure during state road construction projects, and further mapping of broadband deployment locations.
+
+    a. Increasing broadband access to unserved areas of the state provides a public benefit to the citizens of Washington by allowing full participation in society and the modern economy, and enabling access to health care, education, and essential services, including public safety;
+
+    b. Achieving affordable and quality broadband access for all Washingtonians will require sustained investment, research, local and community participation, and partnerships between private, public, and nonprofit entities;
+
+    c. Providing for additional coordination across sectors to increase broadband access in unserved areas is in the best interest of the state; and
+
+    d. Expanding broadband access, especially broadband conduit along roadways, provides commensurate benefits to the transportation system and motor vehicle users in terms of reducing congestion by allowing for more telework, and laying the foundation for a transportation system increasingly more reliant on autonomous vehicles.
+
+2. Therefore, the legislature intends to expand broadband access to unserved areas throughout the state by increasing broadband infrastructure coordination opportunities, including a registry for broadband infrastructure projects, allowing installation of infrastructure during state road construction projects, and further mapping of broadband deployment locations.
+
 
 ## Section 2
 > This section modifies existing section [43.330.409](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
@@ -133,6 +139,36 @@ If the department and the service provider are unable to agree on the cost of th
 7. The department may adopt rules to implement this section.
 
 8. All lease money paid to the department under this section shall be deposited in the motor vehicle fund created in RCW 46.68.070.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [47.04](/rcw/47_public_highways_and_transportation/47.04_general_provisions.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.04_general_provisions.md) for context.
+
+1. If notice is given to relevant service providers as outlined in RCW 47.04.045 and no providers are ready or able to participate in coordination of the installation of personal wireless service facilities or broadband conduit during road construction projects, the department may enlist its contractors to install facilities or conduit as part of road construction projects in order to:
+
+    a. Reduce future traffic impacts to the traveling public on the roadway;
+
+    b. Support the vehicle miles traveled reduction and congestion management goals of the state by allowing for more telework; and
+
+    c. Proactively prepare the transportation system for the widespread development and use of autonomous vehicles.
+
+2. [Empty]
+
+    a. The department may allow nonprofit service providers to use a right-of-way for the installation of broadband infrastructure in rural and unserved areas at no cost to the provider.
+
+    b. If the department reaches an agreement with a nonprofit service provider that allows the service provider to install broadband infrastructure at no charge, there must be quantifiable commensurate benefit to the transportation system and motor vehicle users from the use of the broadband conduit, as described in section 1(1)(d) of this act.
+
+3. As used in this section:
+
+    a. "Broadband conduit" has the same meaning as in RCW 47.04.045.
+
+    b. "Broadband infrastructure" has the same meaning as in RCW 43.330.530.
+
+    c. "Nonprofit service provider" means a service provider no part of the income of which is distributable to its members, directors, or officers.
+
+    d. "Rural area" means a county with a population density of fewer than 100 persons per square mile or a county smaller than 225 square miles, as determined by the office of financial management and published each year by the department for the period July 1st to June 30th.
+
+    e. "Unserved areas" has the same meaning as in RCW 43.330.530.
 
 
 ## Section 8

@@ -3,16 +3,27 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5434.xml)
 ## Section 1
 The legislature finds that:
-(1) Washingtonians expect voter registration requirements and processes to ensure only eligible people under Article VI, section 1 of the Washington state Constitution and chapter 29A.08 RCW be granted the ability to vote in elections conducted in the state of Washington.
-(2) Article VI, section 1 of the Washington state Constitution explicitly states that all persons 18 years of age or older who are United States citizens and who have lived in the state, county, and precinct 30 days immediately preceding the election at which they offer to vote shall be entitled to vote at all elections.
-(3) Same-day voter registration laws enable people 18 years of age or older who are United States citizens to submit an address change to their voter registration within 30 days of an election at which they offer to vote.
-(4) Voters need additional assurance that only one ballot per voter will be accepted by local elections officials, even if more than one ballot is returned for a voter.
-(5) To meet eligibility requirements to vote, including when a person is provided an opportunity to register to vote through obtaining a driver's license or identicard with the department of licensing, a person must submit a signed attestation that they are a United States citizen on their voter registration form.
-(6) Financial barriers exist for applicants of enhanced driver's licenses, which require proof of United States citizenship, and disproportionately affect low-income people.
-(7) All eligible people in Washington state should have access to voter registration methods that provide the greatest level of confidence that they are eligible to vote.
-(8) Local elections officials should have immediate access to comprehensive tools and information to conduct thorough searches of potentially duplicate voter registrations and active registrations of deceased voters.
-(9) Misinformation and disinformation, as well as incomplete information about the level of voter fraud committed in Washington state, contributes to an ongoing lack of trust in election integrity.
-(10) In order to defer future acts of voter fraud, the legislature requires more detailed accounts of the number of potential cases of improper voting referred to county prosecuting attorneys and of those cases compared to the number of cases found to be fraudulent.
+
+1. Washingtonians expect voter registration requirements and processes to ensure only eligible people under Article VI, section 1 of the Washington state Constitution and chapter 29A.08 RCW be granted the ability to vote in elections conducted in the state of Washington.
+
+2. Article VI, section 1 of the Washington state Constitution explicitly states that all persons 18 years of age or older who are United States citizens and who have lived in the state, county, and precinct 30 days immediately preceding the election at which they offer to vote shall be entitled to vote at all elections.
+
+3. Same-day voter registration laws enable people 18 years of age or older who are United States citizens to submit an address change to their voter registration within 30 days of an election at which they offer to vote.
+
+4. Voters need additional assurance that only one ballot per voter will be accepted by local elections officials, even if more than one ballot is returned for a voter.
+
+5. To meet eligibility requirements to vote, including when a person is provided an opportunity to register to vote through obtaining a driver's license or identicard with the department of licensing, a person must submit a signed attestation that they are a United States citizen on their voter registration form.
+
+6. Financial barriers exist for applicants of enhanced driver's licenses, which require proof of United States citizenship, and disproportionately affect low-income people.
+
+7. All eligible people in Washington state should have access to voter registration methods that provide the greatest level of confidence that they are eligible to vote.
+
+8. Local elections officials should have immediate access to comprehensive tools and information to conduct thorough searches of potentially duplicate voter registrations and active registrations of deceased voters.
+
+9. Misinformation and disinformation, as well as incomplete information about the level of voter fraud committed in Washington state, contributes to an ongoing lack of trust in election integrity.
+
+10. In order to defer future acts of voter fraud, the legislature requires more detailed accounts of the number of potential cases of improper voting referred to county prosecuting attorneys and of those cases compared to the number of cases found to be fraudulent.
+
 
 ## Section 2
 > This section modifies existing section [29A.08.140](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
@@ -34,6 +45,16 @@ The legislature finds that:
     b. A registered voter who fails to update his or her residential address by this deadline may vote according to his or her previous registration address.
 
 3. To register or update a voting address in person at a county auditor's office, a voting center, or other location designated by the county auditor, a person must appear in person at a county auditor's office, a voting center, or other location designated by the county auditor at a time when the facility is open and complete the voter registration application by providing the information required by RCW 29A.08.010.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [29A.08](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
+
+1. The Washington state patrol, in coordination with the office of the secretary of state and local elections officials, must conduct an audit of signatures on returned voter ballot envelopes from the 2020 general election. Such audit must include a comparison to measure the accuracy of signatures on voter registrations against signatures on ballot return envelopes using a sample size of between 5,000 to 10,000 voter registration signatures randomly selected from each county based on the number of registered voters therein.
+
+2. The Washington state patrol must report the result of the audit to the legislature and the secretary of state by December 1, 2021.
+
+3. This section expires July 1, 2022.
 
 
 ## Section 4
@@ -130,5 +151,18 @@ The office of the secretary of state shall search the statewide voter registrati
 If a voter is suspected of voting in two or more counties in an election, the county auditors in each county shall cooperate without delay to determine the voter's county of residence. The county auditor of the county of residence of the voter suspected of voting in two or more counties shall take action under RCW 29A.84.010 without delay.
 
 
+## Section 8
+> This section adds a new section to an existing chapter [29A.84](/rcw/29A_elections/29A.84_crimes_and_penalties.md). Here is the [modified chapter](rcw/29A_elections/29A.84_crimes_and_penalties.md) for context.
+
+By December 31st of each year, the Washington association of prosecuting attorneys shall compile and report a list of all cases prosecuted within the state of Washington involving violations of this title. Such a list shall include:
+
+1. The number of cases referred to prosecutors in the previous 12 months with a description of the allegations and circumstances;
+
+2. The number of prosecutions initiated based on the referrals; and
+
+3. The number of and the current status or ultimate outcome of the cases to date.
+
+
 ## Section 11
 This act may be known and cited as the voter confidence act.
+

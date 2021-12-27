@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the success of persons with behavioral health needs being released from confinement in a prison, jail, juvenile rehabilitation facility, state hospital, and other state and local institutions can be increased with access to continuity of medical assistance, supportive services, and other targeted assistance. The legislature finds that this act provides strategies to prevent interruption of medical assistance benefits and to allow for a seamless transfer between systems of care. The legislature further finds that this act removes stigmatizing language from the program created under RCW 72.09.370 and 71.24.470 and creates a work group to study how to expand the cost-effective strategies of this program to other populations and settings to enhance recovery, reduce recidivism, and improve safety.
 
+
 ## Section 2
 > This section modifies existing section [74.09.670](/rcw/74_public_assistance/74.09_medical_care.md). Here is the [modified chapter](rcw/74_public_assistance/74.09_medical_care.md) for context.
 
@@ -37,10 +38,14 @@ The economic services administration within the department shall adopt standardi
 
 
 ## Section 4
-(1) The health care authority shall apply for a waiver allowing the state to provide medicaid services to persons who are confined in a correctional institution as defined in RCW 9.94.049 or confined in a state hospital or other treatment facility up to 30 days prior to the person's release or discharge to the community. The purpose is to create continuity of care and provide reentry services.
-(2) The health care authority shall consult with the work group established under section 9 of this act about how to optimize the waiver application and its chance of success, including by limiting its scope if deemed appropriate.
-(3) The health care authority shall inform the governor and relevant committees of the legislature in writing when the waiver application is submitted and update them as to progress of the waiver at appropriate points.
-(4) No provision of this section may be interpreted to require the health care authority to provide medicaid services to persons who are confined in a correctional institution, state hospital, or other treatment facility up to 30 days prior to the person's release or discharge unless the health care authority obtains final approval for its waiver application from the centers for medicare and medicaid services.
+1. The health care authority shall apply for a waiver allowing the state to provide medicaid services to persons who are confined in a correctional institution as defined in RCW 9.94.049 or confined in a state hospital or other treatment facility up to 30 days prior to the person's release or discharge to the community. The purpose is to create continuity of care and provide reentry services.
+
+2. The health care authority shall consult with the work group established under section 9 of this act about how to optimize the waiver application and its chance of success, including by limiting its scope if deemed appropriate.
+
+3. The health care authority shall inform the governor and relevant committees of the legislature in writing when the waiver application is submitted and update them as to progress of the waiver at appropriate points.
+
+4. No provision of this section may be interpreted to require the health care authority to provide medicaid services to persons who are confined in a correctional institution, state hospital, or other treatment facility up to 30 days prior to the person's release or discharge unless the health care authority obtains final approval for its waiver application from the centers for medicare and medicaid services.
+
 
 ## Section 5
 > This section modifies existing section [9.94.049](/rcw/09_crimes_and_punishments/9.094_prisoners—correctional_institutions.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094_prisoners—correctional_institutions.md) for context.
@@ -102,8 +107,47 @@ The economic services administration within the department shall adopt standardi
 5. For purposes of this section, "participant in the  reentry community **services** program" means a person who has been identified under RCW 72.09.370 as **a person** who: (a) Is reasonably believed to **present a danger** to himself or herself or others **if released to the community without supportive services**; and (b) has a mental disorder.
 
 
+## Section 9
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. The authority shall convene a reentry services work group to consider ways to improve reentry services for persons with an identified behavioral health services need. The work group shall:
+
+    a. Advise the authority on its waiver application under section 6 of this act;
+
+    b. Develop a plan to assure notifications of the person's release date, current location, and other appropriate information are provided to the person's managed care organization before the person's scheduled release from confinement, or as soon as practicable thereafter, in accordance with RCW 74.09.555;
+
+    c. Consider the value of expanding, replicating, or adapting the essential elements of the reentry community services program under RCW 72.09.370 and 71.24.470 to benefit new populations, such as:
+
+        i. A larger group of incarcerated persons in the department of corrections than those who currently have the opportunity to participate;
+
+        ii. State hospital patients committed under criminal insanity laws under chapter 10.77 RCW;
+
+        iii. Involuntary treatment patients committed under chapter 71.05 RCW;
+
+        iv. Persons committed to juvenile rehabilitation;
+
+    v. Persons confined in jail; and
+
+    vi. Other populations recommended by the work group;
+
+    d. Consider whether modifications should be made to the reentry community services program;
+
+    e. Identify potential costs and savings for the state and local governments which could be realized through the use of telehealth technology to provide behavioral health services, expansion or replication of the reentry community services program, or other reentry programs which are supported by evidence;
+
+    f. Consider the sustainability of reentry or diversion services provided by pilot programs funded by contempt fines in Trueblood, et al., v. Washington State DSHS, No. 15-35462;
+
+    g. Recommend a means of funding expanded reentry services; and
+
+    h. Consider incorporation of peer services into the reentry community services programs.
+
+2. The authority shall invite participation in the work group by stakeholders including but not limited to representatives from: Disability rights Washington; behavioral health advocacy organizations; behavioral health peers; reentry community services providers; community behavioral health agencies; advocates for persons with developmental disabilities; the department of corrections; the department of children, youth, and families; the Washington association of sheriffs and police chiefs; prosecutors; defense attorneys; the Washington state association of counties; King county behavioral health and recovery division; the department of social and health services; state hospital employees who serve patients committed under chapters 10.77 and 71.05 RCW; the public safety review panel under RCW 10.77.270; managed care organizations; behavioral health administrative services organizations; jail administrators; the Washington statewide reentry council; the Washington state senate; the Washington state house of representatives; and the Washington state institute for public policy.
+
+3. The work group must provide a progress report to the governor and appropriate committees of the legislature by July 1, 2022, and a final report by December 1, 2023.
+
+
 ## Section 10
 The Washington state institute for public policy shall update its previous evaluations of the reentry community services program under RCW 72.09.370 and 71.24.470, and broaden its cost-benefit analysis to include impacts on the use of public services, and other factors. The institute shall collaborate with the work group established under section 9 of this act to determine research parameters and help the work group answer additional research questions including, but not limited to, the potential cost, benefit, and risks involved in expanding or replicating the reentry community services program; and what modifications to the program are most likely to prove advantageous based on the current state of knowledge about evidence-based, research-based, and promising programs. The department of corrections, health care authority, administrative office of the courts, King county, and department of social and health services must cooperate with the institute to facilitate access to data or other resources necessary to complete this work. The institute must provide a preliminary report by July 1, 2022, and a final report by November 1, 2023, to the governor and relevant committees of the legislature.
+
 
 ## Section 11
 > This section modifies existing section [72.09.270](/rcw/72_state_institutions/72.09_department_of_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.09_department_of_corrections.md) for context.

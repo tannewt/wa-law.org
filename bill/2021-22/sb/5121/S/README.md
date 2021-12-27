@@ -95,3 +95,4 @@
 
 ## Section 3
 The changes to restrictions on partial confinement and the graduated reentry program under sections 1 and 2 of this act apply prospectively and retroactively to persons currently serving a sentence in any facility or institution either operated by the state or utilized under contract.
+

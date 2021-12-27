@@ -2,11 +2,16 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5295.xml)
 ## Section 1
-(1) The legislature finds that gas and electrical companies face transformational change brought on by new technology, rapidly changing costs, emerging opportunities for customers, and public policy mandates. Policy mandates, such as chapter 19.405 RCW, the clean energy transformation act, mean these companies must find innovative and creative solutions to equitably serve their customers.
-(2) The legislature finds that the traditional regulatory construct is neither adaptable, nor well suited to adjusting to rapidly changing societal expectations and public policy objectives, and therefore hinders the ability of gas and electrical companies to effectively evolve to meet new challenges and opportunities.
-(3) In particular, the legislature finds that traditional cost of service regulation may lead to a significant delay in recovery of costs for gas and electrical companies. This regulatory lag creates barriers to companies making the investments necessary to meet public policy objectives and expectations. The traditional regulatory process results in a backward-looking annual cycle of rate cases that may limit the ability of gas and electrical companies and customers in achieving the state's energy policy goals.
-(4) It is the intent of the legislature that the regulatory construct should require a forward-looking orientation for regulation consistent with state policy objectives that focus on planning, flexibility, and fair allocation of risks, while fostering and supporting a culture that delivers performance and cost control in this new industry environment.
-(5) It is the intent of the legislature that the regulation of gas and electrical companies transform toward multiyear rate plans and performance-based rate making to provide certainty and stability to customers and gas and electrical companies, with those plans focused on ensuring alignment of public policy objectives, investment, safety, and reliability.
+1. The legislature finds that gas and electrical companies face transformational change brought on by new technology, rapidly changing costs, emerging opportunities for customers, and public policy mandates. Policy mandates, such as chapter 19.405 RCW, the clean energy transformation act, mean these companies must find innovative and creative solutions to equitably serve their customers.
+
+2. The legislature finds that the traditional regulatory construct is neither adaptable, nor well suited to adjusting to rapidly changing societal expectations and public policy objectives, and therefore hinders the ability of gas and electrical companies to effectively evolve to meet new challenges and opportunities.
+
+3. In particular, the legislature finds that traditional cost of service regulation may lead to a significant delay in recovery of costs for gas and electrical companies. This regulatory lag creates barriers to companies making the investments necessary to meet public policy objectives and expectations. The traditional regulatory process results in a backward-looking annual cycle of rate cases that may limit the ability of gas and electrical companies and customers in achieving the state's energy policy goals.
+
+4. It is the intent of the legislature that the regulatory construct should require a forward-looking orientation for regulation consistent with state policy objectives that focus on planning, flexibility, and fair allocation of risks, while fostering and supporting a culture that delivers performance and cost control in this new industry environment.
+
+5. It is the intent of the legislature that the regulation of gas and electrical companies transform toward multiyear rate plans and performance-based rate making to provide certainty and stability to customers and gas and electrical companies, with those plans focused on ensuring alignment of public policy objectives, investment, safety, and reliability.
+
 
 ## Section 2
 > This section modifies existing section [80.28.005](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
@@ -62,6 +67,56 @@
 16. **"Third rate year" means the consecutive 12-month period, if any, that commences on the second anniversary of the rate effective date.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+1. A gas or electrical company shall file a multiyear rate plan as provided in this chapter and the commission shall approve the proposal, with or without conditions, or reject it. The commission shall approve a proposal for a multiyear rate plan if the commission finds that the plan establishes just and reasonable rates for the gas or electrical company, is lawful, is supported by an appropriate record, and is consistent with the public interest in light of all the information available to the commission at the time of the commission's decision.
+
+2. A gas or electric company may propose and the commission may approve any proposal to recover from ratepayers up to five percent of the total approved revenue requirement approved by the commission for the initial rate year for tariffs that expand the affordability of services available to customers including, but not limited to: (a) Bill assistance programs for low-income residential customers; or (b) one or more special rates for low-income residential customers to reduce the energy burden of those customers.
+
+3. Subject to RCW 80.04.130, the commission has the authority, upon its own motion, upon complaint, or upon notice, to enter upon a hearing concerning such a proposal and the reasonableness and justness of the proposal.
+
+4. Unless the commission finds that the multiyear rate plan is not just and reasonable or not in the public interest, the commission shall accept a proposal filed by a gas or electrical company in support of, or an alternative proposal presented by parties in response to, a multiyear rate plan filing that seeks to recover the company's annual revenue requirement in each future rate year on the basis of a budget approved by the company, a forecast, a clean energy implementation plan approved under RCW 19.405.060, a price index, a fixed escalation rate, or another formula, individually or in combination.
+
+5. In considering a multiyear rate plan proposal, the commission shall minimize regulatory lag in each future rate year to the fullest extent possible while maintaining rates that are fair, just, reasonable, and sufficient.
+
+6. The commission shall separately approve rates for each of the initial rate year, the second rate year and, if applicable, the third rate year, and the fourth rate year. Consistent with RCW 80.04.250, the commission shall ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that has filed a multiyear rate plan pursuant to this section that is or will be used and useful for service in this state by or during each rate year of the multiyear rate plan. For the initial rate year, the commission shall, at a minimum, ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that has filed a multiyear rate plan pursuant to this section that is used and useful for service in this state as of the rate effective date.
+
+7. The commission may, by order, establish terms, conditions, and procedures for a multiyear rate plan and ensure that rates remain just and reasonable during the course of the plan, including terms and procedures for rate adjustment during the term of the plan.
+
+8. [Empty]
+
+    a. The gas or electrical company is bound by the terms of the multiyear rate plan approved by the commission for as long as the actual rate of return of the gas or electrical company remains within .5 percent of the rate of return authorized by the commission in the multiyear rate plan for such a company.
+
+    b. If adjusted quarterly financial reports demonstrate that the actual rate of return of a gas or electrical company operating under a multiyear rate plan approved by the commission pursuant to this section remains within .5 percent of the rate of return authorized by the commission in the multiyear rate plan for such a company, the company may not file revised tariffs in the subsequent calendar quarter of the multiyear rate plan, the effect of which is to change rates affected by the multiyear rate plan.
+
+    c. If adjusted quarterly financial reports demonstrate that the actual rate of return of a gas or electrical company operating under a multiyear rate plan approved by the commission pursuant to this section is more than .5 percent less than the rate of return authorized by the commission in the multiyear rate plan for such a company, the company may file any of the following in the subsequent calendar quarter of the multiyear rate plan, the effect of which could be to change rates affected by the multiyear rate plan:
+
+        i. Proposed modifications to the existing multiyear rate plan for approval or rejection by the commission within four months of the date of filing of such a modification;
+
+        ii. A request for deferral of costs of the utility for later determination by the commission;
+
+        iii. A general rate case; or
+
+        iv. A new multiyear rate plan in accordance with this section.
+
+    d. For the purposes of this subsection, a quarterly financial report must depict gas or electric operations of a gas or electrical company, respectively, under normal temperature and power supply conditions during the reporting period. Such a quarterly financial report must follow the methods approved by the commission for reporting financial results of operations.
+
+9. The commission may, in approving a multiyear rate plan, determine a set of reasonable and applicable performance measures that can be used to assess a gas or electrical company operating under a multiyear rate plan. These performance measures may be proposed by the gas or electrical company in its initial application.
+
+10. Nothing in this section precludes any gas or electrical company from making filings required or permitted by the commission.
+
+11. A gas or electrical company may defer, without interest, any new costs, unknown at the time of the approval of any multiyear rate plan then in effect, that are associated with compliance of any governmental policy or plan not in existence as of the rate effective date and implemented during a multiyear rate plan. Recovery of these deferred costs must be addressed in the next applicable rate case or multiyear rate plan of the applicable gas or electrical company.
+
+12. The commission shall align, to the extent practical, the timing of approval of a multiyear rate plan of an electrical company submitted pursuant to this section with the clean energy implementation plan of the electrical company filed pursuant to RCW 19.405.060.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+The provisions of RCW 80.28.005 and section 3 of this act, inclusive, may not be construed to limit the existing rate-making authority of the commission.
+
+
 ## Section 5
 > This section modifies existing section [80.28.068](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
 
@@ -96,5 +151,74 @@
     e. **"Vulnerable populations" has the same meaning as defined in RCW 19.405.020.**
 
 
+## Section 6
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+1. [Empty]
+
+    a. Gas and electrical companies maintain programs offering incentives for single-family and multifamily housing owners to have conservation and energy efficiency measures financed and installed at their premises. The owners of single-family and multifamily rental housing may be reluctant to participate in these programs when they are required to financially supplement the company's incentive to fully fund cost-effective conservation and energy efficiency measures. By not participating in a gas or electrical company's programs, single-family and multifamily rental housing owners expose tenants to higher energy bills and deny greater reductions in energy consumption by gas and electrical.
+
+    b. It is the intent of this section to: Incentivize and enable gas and electrical companies to access conservation and energy efficiency opportunities in single-family and multifamily rental housing in a manner that reduces the energy burden of customers, especially low-income customers, vulnerable populations, and customers in highly impacted communities; benefit the premises owner by enhancing the value of their property, and treat capital investments in conservation and energy efficiency comparably to capital investment in generation resources.
+
+2. The commission shall allow a gas or electrical company to invest in programs that achieve energy conservation and improve the efficiency of energy end use of single-family and multifamily rental housing in lieu of requiring a contribution from the premises owner to finance measures that would be cost-effective. The commission shall allow a gas or electrical company to earn a return on cost-effective investments made under this section over a duration of time that reduces the customer's energy burden and minimizes the investment's impact on the customer's bill, while providing a return on equity that incentivizes the company to make such an investment.
+
+3. A gas or electrical company shall prioritize investments made under this section on single-family and multifamily rental housing to reduce the energy burden of low-income customers, vulnerable populations, and customers in highly impacted communities consistent with RCW 19.405.040(8).
+
+4. An investment by a gas or electrical company made under this section must be secured through the meter and recovered through the regular billing paid by the tenant, including any successor tenant, or premises owner. If the bill is paid by the premises owner, the investment of a gas or electrical company must be recovered pursuant to a site-specific services agreement. The investment of a gas or electrical company must be recovered as any other energy charge, including being subject to collection, until the authorized return on the investment has been fully recovered. An investment made by a gas or electrical company under this section must be designated as an "energy savings charge" as a line item on the regular customer billing.
+
+5. A gas or electrical company shall provide the premises owner with sufficient information for the owner to provide a tenant who is responsible for paying the gas or electric bill as required under this subsection. At least 30 days prior to the commencement of work to install conservation measures at the premises, the premises owner shall notify a tenant of the owner's authorization for a gas or electrical company to install conservation measures at the premises inhabited by the tenant under a financial arrangement provided under this section. The notice must include a description of the work to be performed and the expected benefits of the conservation measures.
+
+6. [Empty]
+
+    a. On or before December 31st, beginning two full calendar years subsequent to the first installation of conservation measures funded under this section and every two years thereafter, a gas or electrical company must complete a measure performance report, using data accessed from advanced meter infrastructure, for conservation measures completed and in service during the previous two years. The report must present the following information in aggregated form:
+
+        i. An estimate of the annual energy savings using normalized weather conditions;
+
+        ii. An estimate of energy cost savings realized based on the estimate in (a)(i) of this subsection and a comparison between savings to the charges assessed under subsection (4) of this section;
+
+        iii. An updated assessment of the payback period for the full cost of the installed conservation measures based on the estimated energy savings in (a)(i) of this subsection; and
+
+        iv. Any supporting data verifying energy savings estimates in (a)(i) of this subsection, including measurable data available through deployment of advanced meter infrastructure if available.
+
+    b. A gas or electrical company must submit its performance-based report to the commission and the Washington State University energy program.
+
+7. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Cost-effective" has the same meaning as defined in RCW 80.52.030.
+
+    b. "Energy burden" has the same meaning as defined in RCW 19.405.020.
+
+    c. "Highly impacted communities" has the same meaning as defined in RCW 19.405.020.
+
+    d. "Low-income" has the same meaning as defined in RCW 19.405.020.
+
+    e. "Vulnerable populations" has the same meaning as defined in RCW 19.405.020.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+1. A gas company or electrical company may enter into one or more written agreements with organizations that represent interests of customers belonging to a highly impacted community or vulnerable populations to assist these organizations with the costs of participating in regulatory proceedings conducted by the commission. The agreement must govern the manner in which financial assistance may be provided to the organization representing customer interests of vulnerable populations or a highly impacted community. More than one gas company, electrical company, or organization representing customer interests of vulnerable populations or a highly impacted community may join in a single agreement. Any agreement entered into under this section must be approved by the commission before any financial assistance is provided under the agreement.
+
+2. In administering an agreement entered into under subsection (1) of this section, the commission by rule or order may determine:
+
+    a. The amount of financial assistance that may be provided to any organization representing customer interests of vulnerable populations or a highly impacted community;
+
+    b. The manner in which the financial assistance is distributed;
+
+    c. The manner in which the financial assistance is recovered in the rates of the gas company or electrical company under subsection (3) of this section; and
+
+    d. Other matters necessary to administer the agreement.
+
+3. The commission shall allow a gas company or electrical company that provides financial assistance under this section to recover the amounts provided in rates. The commission shall allow a gas company or electrical company to defer inclusion of those amounts in rates if the gas company or electrical company so elects. An agreement under this section may not provide for payment of any amounts to the commission.
+
+4. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Highly impacted community" has the same meaning as defined in RCW 19.405.020.
+
+    b. "Vulnerable populations" has the same meaning as defined in RCW 19.405.020.
+
+
 ## Section 8
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

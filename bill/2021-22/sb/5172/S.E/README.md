@@ -2,10 +2,14 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5172-S.E.xml)
 ## Section 1
-In order to stabilize, strengthen, and protect our state's agricultural workforce and economy, it is the intent of the legislature to pass the laws necessary to protect farmworkers and to provide agricultural employers with certainty and predictability. 
+In order to stabilize, strengthen, and protect our state's agricultural workforce and economy, it is the intent of the legislature to pass the laws necessary to protect farmworkers and to provide agricultural employers with certainty and predictability.
+
 The legislature intends to address the historical exceptions of agricultural work from overtime standards from both the federal fair labor standards act and the state minimum wage act when they were enacted over 70 years ago. Excluded from the opportunity to earn overtime pay, farmworkers across our state remain among our state's poorest workers. A United States department of labor study in 2016 found that nationally, 30 percent of farmworker families live below the poverty line, almost double the poverty rate of American families overall. The state department of health found that the current novel coronavirus pandemic has had a significant and disproportionate impact on farmworkers. The virus' risks to essential farmworkers from potential workplace exposures are compounded by systemic barriers to testing, prevention measures, and medical care.
+
 The legislature also intends to avoid disruptions within the state's vital agricultural sector. While Washington is well known as the national leader in apple production, the state's agricultural sector is incredibly diverse: Over 300 crops are harvested, and a variety of livestock are raised on over 35,000 farms across the state. The robust size of our agricultural sector means our state overall ranks in the top 10 nationally in the size of our farm labor force. Agriculture is a cornerstone of our state economy. Uncertainty from recent legal decisions regarding overtime standards are compounding the pandemic's disruptions to the food chain and the safety challenges of operating during a public health crisis.
+
 The legislature intends to provide clear overtime standards to reduce litigation between parties in this key sector of the state's economy during the challenges and additional costs brought on by the novel coronavirus and to protect the security of our food supply chain. This act's transitional approach is reasonable to achieve the legislature's purpose of increasing the safety of an at risk and essential workforce, increasing the public welfare of low-income individuals by removing a historical barrier to their earning potential, and maintaining the food security and economic security provided by a stable agricultural sector.
+
 
 ## Section 2
 > This section modifies existing section [49.46.130](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
@@ -93,4 +97,36 @@ In determining the proportion of compensation representing commissions, all earn
     b. A straight commission, a salary plus commission, or a salary plus bonus applied to gross salary.
 
 5. No public agency shall be deemed to have violated subsection (1) of this section with respect to the employment of any employee in fire protection activities or any employee in law enforcement activities (including security personnel in correctional institutions) if: (a) In a work period of twenty-eight consecutive days the employee receives for tours of duty which in the aggregate exceed two hundred forty hours; or (b) in the case of such an employee to whom a work period of at least seven but less than twenty-eight days applies, in his or her work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his or her work period as two hundred forty hours bears to twenty-eight days; compensation at a rate not less than one and one-half times the regular rate at which he or she is employed.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [49.46](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
+
+1. The overtime requirements of RCW 49.46.130 apply to hours worked by an agricultural employee for an employer engaged in dairy cattle and milk production activities described in code 112120 of the North American industry classification system.
+
+2. Beginning January 1, 2022, any agricultural employee other than employees described in subsection (1) of this section shall not be employed for more than 55 hours in any one workweek unless the agricultural employee receives one and one-half times that agricultural employee's regular rate of pay for all hours worked over 55 in any one workweek.
+
+3. Beginning January 1, 2023, any agricultural employee other than employees described in subsection (1) of this section shall not be employed for more than 48 hours in any one workweek unless the agricultural employee receives one and one-half times that agricultural employee's regular rate of pay for all hours worked over 48 in any one workweek.
+
+4. Beginning January 1, 2024, any agricultural employee other than employees described in subsection (1) of this section shall not be employed for more than 40 hours in any one workweek unless the agricultural employee receives one and one-half times that agricultural employee's regular rate of pay for all hours worked over 40 in any one workweek.
+
+5. For the purposes of this section, "agricultural employee" means any individual employed: (a) On a farm, in the employ of any person, in connection with the cultivation of the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and furbearing animals and wildlife, or in the employ of the owner or tenant or other operator of a farm in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment; (b) in packing, packaging, grading, storing or delivering to storage, or to market or to a carrier for transportation to market, any agricultural or horticultural commodity; or (c) commercial canning, commercial freezing, or any other commercial processing, or with respect to services performed in connection with the cultivation, raising, harvesting, and processing of oysters or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption.
+
+6. The payment of compensation or provision of compensatory time off in addition to a salary required under this section shall not be a factor in determining whether a person is exempt under RCW 49.46.010(3)(c).
+
+
+## Section 5
+> This section adds a new section to an existing chapter [49.48](/rcw/49_labor_regulations/49.48_wages—payment—collection.md). Here is the [modified chapter](rcw/49_labor_regulations/49.48_wages—payment—collection.md) for context.
+
+1. No damages, statutory or civil penalties, attorneys' fees and costs, or other type of relief may be granted against an employer to an agricultural employee seeking unpaid overtime due to the agricultural employee's historical exclusion from overtime under RCW 49.46.130(2)(g), as it existed on November 4, 2020.
+
+2. This section applies retroactively to claims filed after November 5, 2020, and before the effective date of this section.
+
+3. This section does not apply to agricultural employees entitled to backpay or other relief as a result of being a member in the class of plaintiffs in Martinez-Cuevas v. DeRuyter Bros. Dairy, 196 Wn.2d 506 (2020).
+
+4. [Empty]
+
+    a. For the purposes of this section, "agricultural employee" means any individual employed: (i) On a farm, in the employ of any person, in connection with the cultivation of the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and furbearing animals and wildlife, or in the employ of the owner or tenant or other operator of a farm in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment; (ii) in packing, packaging, grading, storing or delivering to storage, or to market or to a carrier for transportation to market, any agricultural or horticultural commodity; or (iii) in commercial canning, commercial freezing, or any other commercial processing, or with respect to services performed in connection with the cultivation, raising, harvesting, and processing of oysters or in connection with any agricultural or horticultural commodity after its delivery to a terminal market for distribution for consumption.
+
+    b. For the purposes of this section, "agricultural employee" does not include any employee exempt under RCW 49.46.010(3)(c).
 

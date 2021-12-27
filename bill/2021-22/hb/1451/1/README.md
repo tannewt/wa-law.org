@@ -60,29 +60,55 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 
 ## Section 5
-(1) By September 1, 2022, the department of children, youth, and families must submit a report to the governor and appropriate committees of the legislature, pursuant to RCW 43.01.036. The report must include an implementation plan to meet the early childhood education and assistance program entitlement under RCW 43.216.556. The implementation plan shall include the following:
-(a) Details for how all eligible children as defined in RCW 43.216.505 and entitled to the program under RCW 43.216.510 and 43.216.556 will access a full day program by the 2026-27 school year;
-(b) In collaboration with the office of the superintendent of public instruction, a description of how the early childhood education and assistance program, and transitional kindergarten funding streams, may be braided to create high-quality integrated preschool classrooms;
-(i) The plan should also include braiding or other funding combinations of other existing program funding streams that serve three and four-year old children, funded by federal or state dollars including, but not limited to:
+1. By September 1, 2022, the department of children, youth, and families must submit a report to the governor and appropriate committees of the legislature, pursuant to RCW 43.01.036. The report must include an implementation plan to meet the early childhood education and assistance program entitlement under RCW 43.216.556. The implementation plan shall include the following:
+
+    a. Details for how all eligible children as defined in RCW 43.216.505 and entitled to the program under RCW 43.216.510 and 43.216.556 will access a full day program by the 2026-27 school year;
+
+    b. In collaboration with the office of the superintendent of public instruction, a description of how the early childhood education and assistance program, and transitional kindergarten funding streams, may be braided to create high-quality integrated preschool classrooms;
+
+        i. The plan should also include braiding or other funding combinations of other existing program funding streams that serve three and four-year old children, funded by federal or state dollars including, but not limited to:
+
 (A) The working connections child care subsidy;
+
 (B) Head start;
+
 (C) Developmental preschool programs;
+
 (D) Early childhood intervention and prevention services;
+
 (E) Local government funded preschool programs; and
+
 (F) Title I.
-(ii) The plan must describe how, when braided or otherwise combined program funding streams can build high-quality, inclusive preschool programs that can be delivered in a variety of public or private settings including, but not limited to:
+
+        ii. The plan must describe how, when braided or otherwise combined program funding streams can build high-quality, inclusive preschool programs that can be delivered in a variety of public or private settings including, but not limited to:
+
 (A) School districts;
+
 (B) Educational service districts;
+
 (C) Community and technical colleges;
+
 (D) Local governments;
+
 (E) Nonprofit organizations;
+
 (F) Agencies as defined in RCW 43.216.010; and
+
 (G) Other community-based and school-based settings;
-(c) An outline of how the department of children, youth, and families will maintain or increase the diversity of program workforce and maintain an emphasis on eliminating racial and ethnic disproportionality and disparities in early childhood education;
-(d) By geographic location across the state, a description of future program resource needs, costs, and phase-in timelines including workforce development and salary and benefit needs to successfully recruit and retain providers, capital and facilities expansion, native language and dual language access, rural access, the impact on infant and toddler child care, and availability of combined or braided programs in (b) of this subsection. Multiple recommendations on how these future needs may be met must be included, as well as a description of how comprehensive services may be delivered in a combined or braided preschool model, recognizing that not all children or families will need the same suite of comprehensive services;
-(e) Estimates of unmet need by geographic location, by age and by type of program, including part day, full day, and extended day;
-(f) Cost and recommended timelines to convert part day programs to full day programs, including recommendations for optional, part-day participation in the program in order to support parental choice;
-(g) Identification of the need for and a phase-in approach to providing voluntary summer school options;
-(h) Recommendation for income eligibility including but not limited to income eligibility for free and reduced-price lunch granted under 7 C.F.R. Sec. 245.6; and
-(i) A tool kit for potential preschool program operators to implement a high-quality, inclusive preschool program serving three and four-year old children, as outlined in this section. This tool kit must be made available on the department of children, youth, and families' public website, in a consumer-friendly format and translated to support dual-language communities.
-(2) This section expires September 1, 2022.
+
+    c. An outline of how the department of children, youth, and families will maintain or increase the diversity of program workforce and maintain an emphasis on eliminating racial and ethnic disproportionality and disparities in early childhood education;
+
+    d. By geographic location across the state, a description of future program resource needs, costs, and phase-in timelines including workforce development and salary and benefit needs to successfully recruit and retain providers, capital and facilities expansion, native language and dual language access, rural access, the impact on infant and toddler child care, and availability of combined or braided programs in (b) of this subsection. Multiple recommendations on how these future needs may be met must be included, as well as a description of how comprehensive services may be delivered in a combined or braided preschool model, recognizing that not all children or families will need the same suite of comprehensive services;
+
+    e. Estimates of unmet need by geographic location, by age and by type of program, including part day, full day, and extended day;
+
+    f. Cost and recommended timelines to convert part day programs to full day programs, including recommendations for optional, part-day participation in the program in order to support parental choice;
+
+    g. Identification of the need for and a phase-in approach to providing voluntary summer school options;
+
+    h. Recommendation for income eligibility including but not limited to income eligibility for free and reduced-price lunch granted under 7 C.F.R. Sec. 245.6; and
+
+    i. A tool kit for potential preschool program operators to implement a high-quality, inclusive preschool program serving three and four-year old children, as outlined in this section. This tool kit must be made available on the department of children, youth, and families' public website, in a consumer-friendly format and translated to support dual-language communities.
+
+2. This section expires September 1, 2022.
+

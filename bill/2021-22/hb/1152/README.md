@@ -1,5 +1,6 @@
 # HB 1152 - Comp public health districts
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1152&Year=2021)
+
 Supporting measures to create comprehensive public health districts.
 
 ## Revisions

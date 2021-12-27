@@ -1,5 +1,6 @@
 # HB 1315 - Domestic violence/workplace
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1315&Year=2021)
+
 Creating a task force to identify the role of the workplace in helping curb domestic violence.
 
 ## Revisions

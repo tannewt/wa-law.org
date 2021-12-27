@@ -1,5 +1,6 @@
 # HB 1272 - Health system transparency
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1272&Year=2021)
+
 Concerning health system transparency.
 
 ## Revisions

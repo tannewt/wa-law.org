@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1525.SL.xml)
 ## Section 1
 The legislature has previously recognized that garnishees have no responsibility for the situation leading to the garnishment of a debtor's wages, funds, or other property, but that the garnishment process is necessary for the enforcement of obligations. The legislature has further recognized the importance of reducing or offsetting the administrative burden on the garnishee to the extent that that can be accomplished consistent with the goal of effectively enforcing debtors' unpaid obligations. At the same time, debtors must be afforded the exemptions to which they are statutorily entitled and protected from garnishments that violate Washington law.
+
 By establishing automatic exemption amounts and specifying when and how much a garnishee bank is required to hold and release, the legislature intends to ease the burden on garnishees while protecting debtors from situations in which the entirety of their bank accounts are frozen before they have any opportunity to assert certain rightful exemptions.
+
 
 ## Section 2
 > This section modifies existing section [6.15.010](/rcw/06_enforcement_of_judgments/6.15_personal_property_exemptions.md). Here is the [modified chapter](rcw/06_enforcement_of_judgments/6.15_personal_property_exemptions.md) for context.

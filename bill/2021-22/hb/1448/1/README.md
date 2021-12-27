@@ -2,9 +2,12 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1448.xml)
 ## Section 1
-(1) The legislature finds that volunteer firefighters provide a valuable service for communities. In some areas of the state, particularly in more rural areas, a fire protection district may rely solely on volunteer firefighters to provide this critical service.
-(2) The legislature further finds that volunteer firefighters may receive some reimbursement for their contributions. These payments are not equivalent to compensation for their volunteer duties, and volunteers do not expect acceptance of such reimbursement to impact their eligibility or potential benefits under the unemployment insurance system if they were to lose their primary employment.
-(3) The legislature therefore intends to exclude such payments received for service as a volunteer firefighter from unemployment insurance eligibility and benefit determinations.
+1. The legislature finds that volunteer firefighters provide a valuable service for communities. In some areas of the state, particularly in more rural areas, a fire protection district may rely solely on volunteer firefighters to provide this critical service.
+
+2. The legislature further finds that volunteer firefighters may receive some reimbursement for their contributions. These payments are not equivalent to compensation for their volunteer duties, and volunteers do not expect acceptance of such reimbursement to impact their eligibility or potential benefits under the unemployment insurance system if they were to lose their primary employment.
+
+3. The legislature therefore intends to exclude such payments received for service as a volunteer firefighter from unemployment insurance eligibility and benefit determinations.
+
 
 ## Section 2
 > This section modifies existing section [50.04.310](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
@@ -48,3 +51,4 @@
 
 ## Section 4
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this act. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+

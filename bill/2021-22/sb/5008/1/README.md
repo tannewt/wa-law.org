@@ -3,15 +3,25 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5008.SL.xml)
 ## Section 1
 This section is the tax preference performance statement for the tax preference contained in section 2, chapter . . ., Laws of 2021 (section 2 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
-(1) The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a), and also to create low-income ratepayer tax and utility rate relief under RCW 82.32.808(2)(e).
-(2) The legislature's specific public policy objectives are to:
-(a) Increase investment in energy efficiency and conservation programs;
-(b) Support efforts by utilities to acquire all cost-effective energy conservation and noncarbon-emitting energy resources as required under state law; and
-(c) Increase funds dedicated to low-income ratepayer assistance and weatherization in Washington.
-(3) To support the objectives in subsection (2) of this section, it is the legislature's intent to make permanent the exemption from business and occupation tax amounts received by utilities in the form of credits against power contracts or received from the Bonneville power administration for energy conservation purposes, if the tax savings are used by utilities for low-income ratepayer assistance or weatherization programs. This exemption will induce utilities to invest funds in energy conservation and efficiency programs, thereby reducing the amount of electric energy that such utilities must either generate or purchase, thereby reducing energy costs to utilities and customers. Further, state laws mandating utilities to acquire energy through both energy conservation and noncarbon-emitting resources can increase the cost of energy to ratepayers. Therefore, it is the legislature's intent that this exemption from the business and occupation tax apply only to the extent the tax amounts that would otherwise be owed on credits or refunds from the Bonneville power administration are used by a utility for low-income ratepayer assistance or weatherization, and that the funds generated for low-income ratepayer assistance or weatherization be additive to any existing funds used by the utility for those purposes.
-(4) To measure the effectiveness of the exemption provided in this act in achieving the specific public policy objectives described in subsection (2) of this section, the joint legislative audit and review committee must, at a minimum:
-(a) Evaluate the average annual investment in energy conservation projects by Washington state utilities that have power contracts with the Bonneville power administration; and
-(b) Evaluate the average additional funds from the tax savings resulting from this act that are dedicated to low-income ratepayer assistance and weatherization by Washington state utilities that have power contracts with the Bonneville power administration.
+
+1. The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a), and also to create low-income ratepayer tax and utility rate relief under RCW 82.32.808(2)(e).
+
+2. The legislature's specific public policy objectives are to:
+
+    a. Increase investment in energy efficiency and conservation programs;
+
+    b. Support efforts by utilities to acquire all cost-effective energy conservation and noncarbon-emitting energy resources as required under state law; and
+
+    c. Increase funds dedicated to low-income ratepayer assistance and weatherization in Washington.
+
+3. To support the objectives in subsection (2) of this section, it is the legislature's intent to make permanent the exemption from business and occupation tax amounts received by utilities in the form of credits against power contracts or received from the Bonneville power administration for energy conservation purposes, if the tax savings are used by utilities for low-income ratepayer assistance or weatherization programs. This exemption will induce utilities to invest funds in energy conservation and efficiency programs, thereby reducing the amount of electric energy that such utilities must either generate or purchase, thereby reducing energy costs to utilities and customers. Further, state laws mandating utilities to acquire energy through both energy conservation and noncarbon-emitting resources can increase the cost of energy to ratepayers. Therefore, it is the legislature's intent that this exemption from the business and occupation tax apply only to the extent the tax amounts that would otherwise be owed on credits or refunds from the Bonneville power administration are used by a utility for low-income ratepayer assistance or weatherization, and that the funds generated for low-income ratepayer assistance or weatherization be additive to any existing funds used by the utility for those purposes.
+
+4. To measure the effectiveness of the exemption provided in this act in achieving the specific public policy objectives described in subsection (2) of this section, the joint legislative audit and review committee must, at a minimum:
+
+    a. Evaluate the average annual investment in energy conservation projects by Washington state utilities that have power contracts with the Bonneville power administration; and
+
+    b. Evaluate the average additional funds from the tax savings resulting from this act that are dedicated to low-income ratepayer assistance and weatherization by Washington state utilities that have power contracts with the Bonneville power administration.
+
 
 ## Section 2
 > This section modifies existing section [82.04.310](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.

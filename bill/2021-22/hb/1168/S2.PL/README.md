@@ -2,75 +2,144 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1168-S2.PL.xml)
 ## Section 1
-(1) Over the last decade, forestland and rangeland wildfires have grown larger and increased in intensity and destructiveness throughout Washington state. The annual acres burned in our state illustrates this alarming trend. In the 1990s, an average of 86,000 acres burned annually. In the 2000s, the average annual acres burned increased to 189,000. In the last five years, the annual average grew to more than 488,000 acres burned. This trajectory of escalation continued last year, with wildfires burning more than 812,000 acres.
-(2) Recent wildfires have devastated state, federal, tribal, and private lands, destroyed homes and property, and taken lives. These fires have also released greenhouse gases, destroyed critical fish and wildlife habitat, filled our skies with harmful smoke, polluted our waters, damaged our economy, increased the risk of flooding and landslides, created a critical need for reforestation, and threatened the natural resources needed for essential industries and rural economies.
-(3) Catastrophic wildfires have significant negative impacts on fish and wildlife habitat, including the loss and degradation of places to shelter and feed, water quality and quantity, and soil nutrients. Washington's fish and wildlife are part of a fire-adapted landscape, but catastrophic wildfires threaten their health and recovery.
-(4) The increase in these uncharacteristic wildfires are the result of a combination of climate change-driven drought, hotter temperature, and windstorms; human development patterns and land use planning and activities; and where uncharacteristic fires occur in forests, by past fire suppression and departures from native ecosystem structure and function. Uncharacteristic wildfire risk is addressed through scientifically informed landscape-level treatments designed to restore forest ecosystem and watershed resilience. 
-(5) Wildfires result in significant greenhouse gas emissions. Wildfires have become one of the largest sources of black carbon in the last five years. From 2014-2018, wildfires in Washington state generated 39.2 million metric tons of carbon, the equivalent of more than 8.5 million cars on the road a year. In 2015, when 1.13 million acres burned in Washington, wildfires were the second largest source of greenhouse gas emissions, second only to transportation.
-(6) The legislature has recognized our forests, as well as the manufacturing and utilization of wood products, as a natural carbon solution and critical component of our state's carbon reduction strategy pursuant to chapter 120, Laws of 2020. Uncharacteristic wildfires threaten the ability of our forests to sequester carbon, and they threaten the stability and long-term viability of our forest products industry.
-(7) The Washington state department of natural resources' 20-year forest health strategic plan and climate risk assessment finds that carbon emissions from wildfires are anticipated to increase if there is no change in forest management practices. Unless the state significantly increases active forest management across land ownerships to reduce the risk and intensity of wildfires, wildfire emissions will erode efforts to achieve our state's greenhouse gas emissions reduction goals. In addition to reducing fuel loads, many effective forest health treatments retain and restore older, large fire-resilient trees across the landscape that play an important role in carbon sequestration, enhancing climate resilience and ecosystem services, and mitigating climate change.
-(8) Wildfires inflict huge costs to the state budget, the budgets of partner agencies, and our economy. From 2014-2019, agencies in Washington annually spent nearly $150 million fighting wildfires. In 2015, firefighting costs were more than $342 million. In 2019, firefighting costs were more than $172 million. And suppression costs are only a small portion of the full economic impact. According to a 2018 report by the nonprofit headwater's economics, suppression costs account for only nine percent of the total cost of wildfires when factoring in disaster recovery, lost business, lost infrastructure, and timber damage, and public health impacts.
-(9) Over one-half of Washington is forested, providing significant environmental and economic value. Over $4,900,000,000 in wages and $200,000,000 in taxes are paid by the forest products' sector each year. Opportunities exist to boost our rural economies through wildfire preparation and preparedness that maintain and attract private sector investments and employment in rural communities.
-(10) Wildfires are significant threats to life and property. Over the last five years, wildfires in Washington have taken five lives, including four firefighters and the life of a one-year old boy. In 2020 alone, 298 homes were destroyed by wildfires in our state. More than 1,100 homes have been destroyed this decade. Communities in every corner of Washington have felt the impact and devastation of flames and smoke. In 2020, the town of Malden, Washington was forever scarred by rangeland wildfire. Approximately 80 percent of the town's structures burned down in the Babb Road fire, including the city hall, post office, and fire station.
-(11) Wildfire smoke has significant negative impacts on public health. For the second time in the last three years, Washington state had the worst air quality in the world due to wildfires. Communities in every corner of the state felt the impact. Exposure to particulate matter in wildfire smoke has been associated with a wide range of damaging health effects. The particulates in this smoke make those breathing the air wheeze, cough, shorten their breath, and experience sore eyes and throats, diminishing health and quality of life. Other adverse health outcomes are more severe, including increases in asthma-related hospitalizations, chronic and acute respiratory and cardiovascular health problems, and premature death.
-(12) Historical forest management, legacy wildfire suppression responses, and a rapidly changing climate have increased the risk of catastrophic wildfires throughout the state. It is the policy of the state to encourage prudent and responsible forest resource management to maintain the health of forests and ecosystems in Washington state. Increasing the pace and scale of forest restoration through fuel reduction, thinning, and the use of prescribed fire on federal, state, tribal, and private lands pursuant to the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, and RCW 79.10.520 will reduce the risk of catastrophic wildfires.
-(13) In 2020, more than 1,300,000 acres of national forest system land in eastern Washington were considered in need of treatments to restore forest health and reduce the risk of wildfire hazard potential. Many of these lands are adjacent to populated communities, private lands, and state trust lands.
-(14) In 2020, 166,000 acres of department of natural resources' land and 74,000 acres of other state-owned lands in eastern Washington were in need of forest health treatment. These forestlands provide critical fish and wildlife habitat, natural and cultural resources, recreation, raw materials for the forest industry, and funding for counties and schools. From 2011-2020, 102,700 forested acres of department of natural resources' managed trust lands have burned.
-(15) Tribal lands and communities have been significantly impacted by wildfires and unhealthy forests. Approximately 494,000 acres of tribal lands in eastern Washington need forest health treatments. These forestlands provide critical fish and wildlife habitat, natural and cultural resources, and economic opportunities.
-(16) Washington state has nearly eight million acres of private forestlands. Forested acres are declining statewide with a loss of 394,000 acres between 2007 and 2019. Small forestland owners account for 15 percent of total forest acres. Small forestland owner forested acres declined 3.7 percent from 2,990,000 acres in 2007 to 2,880,000 million acres in 2019. The number of small forestland owners increased 8.5 percent from 201,000 in 2007 to 218,000 in 2019. The number of small forestland owner parcels increased 2.1 percent from 256,500 to 261,800. This rapid land use change creates significant challenges for implementing forest health and wildfire response actions in the wildland urban interface. In eastern Washington alone, approximately 288,000 acres owned by small forestland owners are in need of immediate forest health treatment. These forestlands provide critical raw materials for the forest industry, rural economic opportunities, fish and wildlife habitat, cultural resources, and recreation. A coordinated interagency response is needed to address the multifaceted challenge posed by increasing parcelization, forest fragmentation, loss of economic viability, and changes in landowner assistance needs.
-(17) The legislature finds that increasing the pace and scale of science-based forest health activities to reduce hazardous fuels and restore fire resilient forests, including through mechanical thinning and prescribed burning, on federal, state, tribal, and private lands, will reduce the risk and severity of wildfires, protect cultural and archaeological resources, improve fish and wildlife habitat, expand recreational opportunities, protect air and water quality, create rural economic opportunities, provide critical wood products, and increase long-term carbon sequestration on our natural resource lands.
-(18) Increased development in the wildland urban interface has also increased the number of people living in areas that are at risk of wildfire. In Washington, over 2,000,000 homes are currently at risk of wildfire. Communities and homeowners can take actions that reduce the risk of loss in the event of wildfire including, but not limited to, home hardening, creating defensible space, and building potential control lines or strategic fuel breaks.
-(19) Long-term, sustainable investment in wildfire response, forest restoration, and community resilience is of utmost importance to the health and safety of our environment, our economy, our communities, and the well-being of every resident.
-(20) It is the intent of the legislature to take immediate action to fully fund the wildland fire protection 10-year strategic plan. Strategies to accomplish these goals include, but are not limited to:
-(a) Upgrading our capability to attack wildfires with critical air and ground resources;
-(b) Providing needed wildfire resources to state wildfire response and local fire service districts;
-(c) Working with each state utility, local publicly owned electric utility, and electrical cooperative to reduce wildfire risk and develop consistent approaches and shared data related to fire prevention, safety, vegetation management, and energy distribution systems; and
-(d) Improving wildfire detection in areas at risk of wildfire through new technologies and equipment.
-(21) Furthermore, it is the intent of the legislature to take immediate action to increase the pace and scale of forest management across different land ownerships and fully fund the 20-year forest health strategic plan and activities developed to facilitate implementation of the Washington state forest action plan. Strategies to accomplish these goals include, but are not limited to:
-(a) Restoring to health a minimum of 1,250,000 acres of forestland in need of immediate action to become more resilient and improve watershed health;
-(b) Increasing prescribed fire and other fuel reduction projects through proven forestry practices and the operation of prescribed fire crews;
-(c) Establishing potential control lines and strategic fuel breaks around communities with high wildfire risk;
-(d) Increasing funding for the small forestland owner office for technical assistance and support for small forestland owners and funding an integrated small forestland owner forest health program in support of extending management and control of wildfire from homes through the wildland urban interface to small forestland owner holdings; and
-(e) Monitoring forest health conditions and effectiveness of treatments throughout the state, including ecological function and reducing catastrophic wildfires.
-(22) Furthermore, it is the intent of the legislature to take immediate action to help communities become more resilient to wildfire. Strategies to accomplish these goals include, but are not limited to:
-(a) Increasing funding for cost share programs for home hardening, fuels reduction, and community resilience programs in communities at risk of wildfire;
-(b) Reducing wildfire risk to wildland urban interfaces; and
-(c) Ensuring our state's most vulnerable populations are not disproportionately burdened by the impact and consequences of wildfire.
-(23) The legislature intends to provide $125,000,000 per biennium over the next four biennia for a total of $500,000,000 and that these investments will help protect the state's people, environment, and economy.
+1. Over the last decade, forestland and rangeland wildfires have grown larger and increased in intensity and destructiveness throughout Washington state. The annual acres burned in our state illustrates this alarming trend. In the 1990s, an average of 86,000 acres burned annually. In the 2000s, the average annual acres burned increased to 189,000. In the last five years, the annual average grew to more than 488,000 acres burned. This trajectory of escalation continued last year, with wildfires burning more than 812,000 acres.
+
+2. Recent wildfires have devastated state, federal, tribal, and private lands, destroyed homes and property, and taken lives. These fires have also released greenhouse gases, destroyed critical fish and wildlife habitat, filled our skies with harmful smoke, polluted our waters, damaged our economy, increased the risk of flooding and landslides, created a critical need for reforestation, and threatened the natural resources needed for essential industries and rural economies.
+
+3. Catastrophic wildfires have significant negative impacts on fish and wildlife habitat, including the loss and degradation of places to shelter and feed, water quality and quantity, and soil nutrients. Washington's fish and wildlife are part of a fire-adapted landscape, but catastrophic wildfires threaten their health and recovery.
+
+4. The increase in these uncharacteristic wildfires are the result of a combination of climate change-driven drought, hotter temperature, and windstorms; human development patterns and land use planning and activities; and where uncharacteristic fires occur in forests, by past fire suppression and departures from native ecosystem structure and function. Uncharacteristic wildfire risk is addressed through scientifically informed landscape-level treatments designed to restore forest ecosystem and watershed resilience.
+
+5. Wildfires result in significant greenhouse gas emissions. Wildfires have become one of the largest sources of black carbon in the last five years. From 2014-2018, wildfires in Washington state generated 39.2 million metric tons of carbon, the equivalent of more than 8.5 million cars on the road a year. In 2015, when 1.13 million acres burned in Washington, wildfires were the second largest source of greenhouse gas emissions, second only to transportation.
+
+6. The legislature has recognized our forests, as well as the manufacturing and utilization of wood products, as a natural carbon solution and critical component of our state's carbon reduction strategy pursuant to chapter 120, Laws of 2020. Uncharacteristic wildfires threaten the ability of our forests to sequester carbon, and they threaten the stability and long-term viability of our forest products industry.
+
+7. The Washington state department of natural resources' 20-year forest health strategic plan and climate risk assessment finds that carbon emissions from wildfires are anticipated to increase if there is no change in forest management practices. Unless the state significantly increases active forest management across land ownerships to reduce the risk and intensity of wildfires, wildfire emissions will erode efforts to achieve our state's greenhouse gas emissions reduction goals. In addition to reducing fuel loads, many effective forest health treatments retain and restore older, large fire-resilient trees across the landscape that play an important role in carbon sequestration, enhancing climate resilience and ecosystem services, and mitigating climate change.
+
+8. Wildfires inflict huge costs to the state budget, the budgets of partner agencies, and our economy. From 2014-2019, agencies in Washington annually spent nearly $150 million fighting wildfires. In 2015, firefighting costs were more than $342 million. In 2019, firefighting costs were more than $172 million. And suppression costs are only a small portion of the full economic impact. According to a 2018 report by the nonprofit headwater's economics, suppression costs account for only nine percent of the total cost of wildfires when factoring in disaster recovery, lost business, lost infrastructure, and timber damage, and public health impacts.
+
+9. Over one-half of Washington is forested, providing significant environmental and economic value. Over $4,900,000,000 in wages and $200,000,000 in taxes are paid by the forest products' sector each year. Opportunities exist to boost our rural economies through wildfire preparation and preparedness that maintain and attract private sector investments and employment in rural communities.
+
+10. Wildfires are significant threats to life and property. Over the last five years, wildfires in Washington have taken five lives, including four firefighters and the life of a one-year old boy. In 2020 alone, 298 homes were destroyed by wildfires in our state. More than 1,100 homes have been destroyed this decade. Communities in every corner of Washington have felt the impact and devastation of flames and smoke. In 2020, the town of Malden, Washington was forever scarred by rangeland wildfire. Approximately 80 percent of the town's structures burned down in the Babb Road fire, including the city hall, post office, and fire station.
+
+11. Wildfire smoke has significant negative impacts on public health. For the second time in the last three years, Washington state had the worst air quality in the world due to wildfires. Communities in every corner of the state felt the impact. Exposure to particulate matter in wildfire smoke has been associated with a wide range of damaging health effects. The particulates in this smoke make those breathing the air wheeze, cough, shorten their breath, and experience sore eyes and throats, diminishing health and quality of life. Other adverse health outcomes are more severe, including increases in asthma-related hospitalizations, chronic and acute respiratory and cardiovascular health problems, and premature death.
+
+12. Historical forest management, legacy wildfire suppression responses, and a rapidly changing climate have increased the risk of catastrophic wildfires throughout the state. It is the policy of the state to encourage prudent and responsible forest resource management to maintain the health of forests and ecosystems in Washington state. Increasing the pace and scale of forest restoration through fuel reduction, thinning, and the use of prescribed fire on federal, state, tribal, and private lands pursuant to the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, and RCW 79.10.520 will reduce the risk of catastrophic wildfires.
+
+13. In 2020, more than 1,300,000 acres of national forest system land in eastern Washington were considered in need of treatments to restore forest health and reduce the risk of wildfire hazard potential. Many of these lands are adjacent to populated communities, private lands, and state trust lands.
+
+14. In 2020, 166,000 acres of department of natural resources' land and 74,000 acres of other state-owned lands in eastern Washington were in need of forest health treatment. These forestlands provide critical fish and wildlife habitat, natural and cultural resources, recreation, raw materials for the forest industry, and funding for counties and schools. From 2011-2020, 102,700 forested acres of department of natural resources' managed trust lands have burned.
+
+15. Tribal lands and communities have been significantly impacted by wildfires and unhealthy forests. Approximately 494,000 acres of tribal lands in eastern Washington need forest health treatments. These forestlands provide critical fish and wildlife habitat, natural and cultural resources, and economic opportunities.
+
+16. Washington state has nearly eight million acres of private forestlands. Forested acres are declining statewide with a loss of 394,000 acres between 2007 and 2019. Small forestland owners account for 15 percent of total forest acres. Small forestland owner forested acres declined 3.7 percent from 2,990,000 acres in 2007 to 2,880,000 million acres in 2019. The number of small forestland owners increased 8.5 percent from 201,000 in 2007 to 218,000 in 2019. The number of small forestland owner parcels increased 2.1 percent from 256,500 to 261,800. This rapid land use change creates significant challenges for implementing forest health and wildfire response actions in the wildland urban interface. In eastern Washington alone, approximately 288,000 acres owned by small forestland owners are in need of immediate forest health treatment. These forestlands provide critical raw materials for the forest industry, rural economic opportunities, fish and wildlife habitat, cultural resources, and recreation. A coordinated interagency response is needed to address the multifaceted challenge posed by increasing parcelization, forest fragmentation, loss of economic viability, and changes in landowner assistance needs.
+
+17. The legislature finds that increasing the pace and scale of science-based forest health activities to reduce hazardous fuels and restore fire resilient forests, including through mechanical thinning and prescribed burning, on federal, state, tribal, and private lands, will reduce the risk and severity of wildfires, protect cultural and archaeological resources, improve fish and wildlife habitat, expand recreational opportunities, protect air and water quality, create rural economic opportunities, provide critical wood products, and increase long-term carbon sequestration on our natural resource lands.
+
+18. Increased development in the wildland urban interface has also increased the number of people living in areas that are at risk of wildfire. In Washington, over 2,000,000 homes are currently at risk of wildfire. Communities and homeowners can take actions that reduce the risk of loss in the event of wildfire including, but not limited to, home hardening, creating defensible space, and building potential control lines or strategic fuel breaks.
+
+19. Long-term, sustainable investment in wildfire response, forest restoration, and community resilience is of utmost importance to the health and safety of our environment, our economy, our communities, and the well-being of every resident.
+
+20. It is the intent of the legislature to take immediate action to fully fund the wildland fire protection 10-year strategic plan. Strategies to accomplish these goals include, but are not limited to:
+
+    a. Upgrading our capability to attack wildfires with critical air and ground resources;
+
+    b. Providing needed wildfire resources to state wildfire response and local fire service districts;
+
+    c. Working with each state utility, local publicly owned electric utility, and electrical cooperative to reduce wildfire risk and develop consistent approaches and shared data related to fire prevention, safety, vegetation management, and energy distribution systems; and
+
+    d. Improving wildfire detection in areas at risk of wildfire through new technologies and equipment.
+
+21. Furthermore, it is the intent of the legislature to take immediate action to increase the pace and scale of forest management across different land ownerships and fully fund the 20-year forest health strategic plan and activities developed to facilitate implementation of the Washington state forest action plan. Strategies to accomplish these goals include, but are not limited to:
+
+    a. Restoring to health a minimum of 1,250,000 acres of forestland in need of immediate action to become more resilient and improve watershed health;
+
+    b. Increasing prescribed fire and other fuel reduction projects through proven forestry practices and the operation of prescribed fire crews;
+
+    c. Establishing potential control lines and strategic fuel breaks around communities with high wildfire risk;
+
+    d. Increasing funding for the small forestland owner office for technical assistance and support for small forestland owners and funding an integrated small forestland owner forest health program in support of extending management and control of wildfire from homes through the wildland urban interface to small forestland owner holdings; and
+
+    e. Monitoring forest health conditions and effectiveness of treatments throughout the state, including ecological function and reducing catastrophic wildfires.
+
+22. Furthermore, it is the intent of the legislature to take immediate action to help communities become more resilient to wildfire. Strategies to accomplish these goals include, but are not limited to:
+
+    a. Increasing funding for cost share programs for home hardening, fuels reduction, and community resilience programs in communities at risk of wildfire;
+
+    b. Reducing wildfire risk to wildland urban interfaces; and
+
+    c. Ensuring our state's most vulnerable populations are not disproportionately burdened by the impact and consequences of wildfire.
+
+23. The legislature intends to provide $125,000,000 per biennium over the next four biennia for a total of $500,000,000 and that these investments will help protect the state's people, environment, and economy.
+
 
 ## Section 2
-(1) The wildfire response, forest restoration, and community resilience account is created in the state treasury. All receipts from moneys directed to the account must be deposited in the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for carrying out the purposes of this act and for no other purposes.
-(2) Expenditures from the account may be made to state agencies, federally recognized tribes, local governments, fire and conservation districts, nonprofit organizations, forest collaboratives, and small forestland owners, consistent with the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, and the Washington state forest action plan.
-(3) The wildfire response, forest restoration, and community resilience account may only be used to monitor, track, and implement the following purposes:
-(a) Fire preparedness activities consistent with the goals contained in the state's wildland fire protection 10-year strategic plan including, but not limited to, funding for firefighting capacity and investments in ground and aerial firefighting resources, equipment, and technology, and the development and implementation of a wildland fire aviation support plan in order to expand and improve the effectiveness and cost-efficiency of the department's wildland fire aviation program;
-(b) Fire prevention activities to restore and improve forest health and reduce vulnerability to drought, insect infestation, disease, and other threats to healthy forests including, but not limited to, silvicultural treatments, seedling development, thinning and prescribed fire, and postfire recovery activities to stabilize and prevent unacceptable degradation to natural and cultural resources and minimize threats to life and property resulting from the effects of a wildfire. Funding priority under this subsection must be given to programs, activities, or projects aligned with the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, and the Washington state forest action plan across any combination of local, state, federal, tribal, and private ownerships;
-(c) Fire protection activities for homes, properties, communities, and values at risk including, but not limited to: Potential control lines or strategic fuel breaks in forests and rangelands near communities; improved warning and communications systems to prepare for wildfires; increased engagement with non-English speaking communities in their home language for community preparedness; and the national fire protection association's fire wise USA and the fire-adapted communities network programs to help communities take action before wildfires.
-(4) Appropriations for forest health activities funded by the wildfire response, forest restoration, and community resilience account shall not be less than 25 percent of the biennial appropriated funding.
-(5) Appropriations for community resilience activities funded by the wildfire response, forest restoration, and community resilience account shall not be less than 15 percent of the biennial appropriated funding.
-(6) Funding may not be used for emergency fire costs or suppression costs as defined in RCW 76.04.005.
-(7) To the maximum extent possible, workforce development investments from the wildfire response, forest restoration, and community resilience account should prioritize historically marginalized, underrepresented, rural, and low-income communities.
-(8) Any expenditures from the wildfire response, forest restoration, and community resilience account for forest health treatments on federal lands must be additive to the baseline accomplishments and outputs already funded through the federal government and outlined in the annual work plans of the United States forest service, bureau of land management, the national park service, and/or the United States fish and wildlife service.
-(9) The department may solicit the forest health advisory committee established in RCW 76.06.200 and wildland fire advisory committee established in RCW 76.04.179 to provide recommendations for investments under this section. In assessing investments and developing recommendations for communities that will be impacted based on ecological, public infrastructure, and life safety needs as set forth in the 20-year forest health strategic plan and the wildland fire protection 10-year strategic plan, the forest health advisory committee and wildland fire advisory committee must use environmental justice or equity focused tools, such as the Washington tracking network's environmental health disparities tool to identify highly impacted communities. This identification must be used as a factor in determining recommendations for investments under this section. "Highly impacted communities" has the same meaning as defined in RCW 19.405.020.
-(10) To the maximum extent practicable and where consistent with the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, or the Washington state forest action plan and landowner objectives, forest health treatments funded through the wildfire response, forest restoration, and community resilience account shall seek to utilize the value of any merchantable materials to help offset treatment costs.
+1. The wildfire response, forest restoration, and community resilience account is created in the state treasury. All receipts from moneys directed to the account must be deposited in the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for carrying out the purposes of this act and for no other purposes.
+
+2. Expenditures from the account may be made to state agencies, federally recognized tribes, local governments, fire and conservation districts, nonprofit organizations, forest collaboratives, and small forestland owners, consistent with the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, and the Washington state forest action plan.
+
+3. The wildfire response, forest restoration, and community resilience account may only be used to monitor, track, and implement the following purposes:
+
+    a. Fire preparedness activities consistent with the goals contained in the state's wildland fire protection 10-year strategic plan including, but not limited to, funding for firefighting capacity and investments in ground and aerial firefighting resources, equipment, and technology, and the development and implementation of a wildland fire aviation support plan in order to expand and improve the effectiveness and cost-efficiency of the department's wildland fire aviation program;
+
+    b. Fire prevention activities to restore and improve forest health and reduce vulnerability to drought, insect infestation, disease, and other threats to healthy forests including, but not limited to, silvicultural treatments, seedling development, thinning and prescribed fire, and postfire recovery activities to stabilize and prevent unacceptable degradation to natural and cultural resources and minimize threats to life and property resulting from the effects of a wildfire. Funding priority under this subsection must be given to programs, activities, or projects aligned with the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, and the Washington state forest action plan across any combination of local, state, federal, tribal, and private ownerships;
+
+    c. Fire protection activities for homes, properties, communities, and values at risk including, but not limited to: Potential control lines or strategic fuel breaks in forests and rangelands near communities; improved warning and communications systems to prepare for wildfires; increased engagement with non-English speaking communities in their home language for community preparedness; and the national fire protection association's fire wise USA and the fire-adapted communities network programs to help communities take action before wildfires.
+
+4. Appropriations for forest health activities funded by the wildfire response, forest restoration, and community resilience account shall not be less than 25 percent of the biennial appropriated funding.
+
+5. Appropriations for community resilience activities funded by the wildfire response, forest restoration, and community resilience account shall not be less than 15 percent of the biennial appropriated funding.
+
+6. Funding may not be used for emergency fire costs or suppression costs as defined in RCW 76.04.005.
+
+7. To the maximum extent possible, workforce development investments from the wildfire response, forest restoration, and community resilience account should prioritize historically marginalized, underrepresented, rural, and low-income communities.
+
+8. Any expenditures from the wildfire response, forest restoration, and community resilience account for forest health treatments on federal lands must be additive to the baseline accomplishments and outputs already funded through the federal government and outlined in the annual work plans of the United States forest service, bureau of land management, the national park service, and/or the United States fish and wildlife service.
+
+9. The department may solicit the forest health advisory committee established in RCW 76.06.200 and wildland fire advisory committee established in RCW 76.04.179 to provide recommendations for investments under this section. In assessing investments and developing recommendations for communities that will be impacted based on ecological, public infrastructure, and life safety needs as set forth in the 20-year forest health strategic plan and the wildland fire protection 10-year strategic plan, the forest health advisory committee and wildland fire advisory committee must use environmental justice or equity focused tools, such as the Washington tracking network's environmental health disparities tool to identify highly impacted communities. This identification must be used as a factor in determining recommendations for investments under this section. "Highly impacted communities" has the same meaning as defined in RCW 19.405.020.
+
+10. To the maximum extent practicable and where consistent with the 20-year forest health strategic plan, the wildland fire protection 10-year strategic plan, or the Washington state forest action plan and landowner objectives, forest health treatments funded through the wildfire response, forest restoration, and community resilience account shall seek to utilize the value of any merchantable materials to help offset treatment costs.
+
 
 ## Section 3
-(1) By December 1st of each even-numbered year, and in compliance with RCW 43.01.036, the department must report to the governor and legislature on the following:
-(a) The type and amount of the expenditures made, by fiscal year, and for what purpose, from the wildfire response, forest restoration, and community resilience account created in section 2 of this act;
-(b) The amount of unexpended and unobligated funds in the wildfire response, forest restoration, and community resilience account and recommendations for the disbursement to local districts;
-(c) Progress on implementation of the wildland fire protection 10-year strategic plan including, but not limited to, how investments are reducing human-caused wildfire starts, lowering the size and scale and geography of catastrophic wildfires, reducing the communities, landscapes, and population at risk, and creating resilient landscapes and communities;
-(d) Progress on implementation of the 20-year forest health strategic plan as established through the forest health assessment and treatment framework pursuant to RCW 76.06.200 including, but not limited to: Assessment of fire prone lands and communities that are in need of forest health treatments; forest health treatments prioritized and conducted by landowner type, geography, and risk level; estimated value of any merchantable materials from forest health treatments; and number of acres treated by treatment type, including the use of prescribed fire;
-(e) Progress on developing markets for forest residuals and biomass generated from forest health treatments.
-(2) The department must include recommendations on any adjustments that may be necessary or advisable to the mechanism of funding dispensation as created under this act.
-(3) The report required in this section should support existing department assessments pursuant to RCW 79.10.530 and 76.06.200.
-(4)(a)(i) Prior to the determination of the 2025-2034 sustainable harvest calculation as required by RCW 79.10.320, the department must hire an independent third-party contractor to assist it in updating its forest inventory by increasing the intensity of forest sample plots on all forestlands over the next two biennium. The department's sustainable harvest calculation technical advisory committee must be involved in the design, development, and implementation of this forest inventory update.
-(ii) For purposes of this subsection, "forest inventory" means the collection of sample data to estimate a range of forest attributes including, but not limited to, standing volume, stored carbon, habitat attributes, age classes, tree species, and other inventory attributes, including information needed to estimate rates of tree growth and associated carbon sequestration on department lands.
-(iii) The department's sustainable harvest calculation technical advisory committee must bring forward recommendations for regular maintenance and updates to the forest inventory on a ten-year basis.
-(b) Prior to the determination of the 2025-2034 sustainable harvest calculation as required by RCW 79.10.320, the department must hire a third-party contractor to review, analyze, and advise the department's forest growth and yield modeling, specific to all types of forested acres managed by the department. The department's sustainable harvest calculation technical advisory committee must be involved in the design, review, and analysis of the department's forest growth and yield modeling.
-(c) Prior to the determination of the 2025-2034 sustainable harvest calculation as required by RCW 79.10.320 and in the absence of any litigation, pending or in progress, against the department's sustainable harvest calculation, the joint legislative audit and review committee established in chapter 44.28 RCW must oversee and conduct an independent review of the methodologies and data being utilized by the department in the development of the sustainable harvest calculation, including the associated forest inventory, forest growth, harvest and yield data, and modeling techniques that impact harvest levels. In carrying out the review, the joint legislative audit and review committee shall:
-(i) Retain one or more contractors with expertise in forest inventories, forest growth and yield modeling, and operational research modeling in forest harvest scheduling to conduct the technical review;
-(ii) Be a member of department's sustainable harvest calculation technical advisory committee, along with one of its contractors selected in (c)(i) of this subsection; and
-(iii) Prior to the department's determination of the sustainable harvest under RCW 79.10.320, ensure that a completed independent review and report with findings and recommendations is submitted to the board of natural resources and the legislature.
-(d) Upon receiving the report from the joint legislative audit and review committee required under (c)(iii) of this subsection, the board of natural resources shall determine whether modifications are necessary to the sustainable harvest calculation prior to approving harvest level under RCW 79.10.320.
+1. By December 1st of each even-numbered year, and in compliance with RCW 43.01.036, the department must report to the governor and legislature on the following:
+
+    a. The type and amount of the expenditures made, by fiscal year, and for what purpose, from the wildfire response, forest restoration, and community resilience account created in section 2 of this act;
+
+    b. The amount of unexpended and unobligated funds in the wildfire response, forest restoration, and community resilience account and recommendations for the disbursement to local districts;
+
+    c. Progress on implementation of the wildland fire protection 10-year strategic plan including, but not limited to, how investments are reducing human-caused wildfire starts, lowering the size and scale and geography of catastrophic wildfires, reducing the communities, landscapes, and population at risk, and creating resilient landscapes and communities;
+
+    d. Progress on implementation of the 20-year forest health strategic plan as established through the forest health assessment and treatment framework pursuant to RCW 76.06.200 including, but not limited to: Assessment of fire prone lands and communities that are in need of forest health treatments; forest health treatments prioritized and conducted by landowner type, geography, and risk level; estimated value of any merchantable materials from forest health treatments; and number of acres treated by treatment type, including the use of prescribed fire;
+
+    e. Progress on developing markets for forest residuals and biomass generated from forest health treatments.
+
+2. The department must include recommendations on any adjustments that may be necessary or advisable to the mechanism of funding dispensation as created under this act.
+
+3. The report required in this section should support existing department assessments pursuant to RCW 79.10.530 and 76.06.200.
+
+4. [Empty]
+
+    a. [Empty]
+
+        i. Prior to the determination of the 2025-2034 sustainable harvest calculation as required by RCW 79.10.320, the department must hire an independent third-party contractor to assist it in updating its forest inventory by increasing the intensity of forest sample plots on all forestlands over the next two biennium. The department's sustainable harvest calculation technical advisory committee must be involved in the design, development, and implementation of this forest inventory update.
+
+        ii. For purposes of this subsection, "forest inventory" means the collection of sample data to estimate a range of forest attributes including, but not limited to, standing volume, stored carbon, habitat attributes, age classes, tree species, and other inventory attributes, including information needed to estimate rates of tree growth and associated carbon sequestration on department lands.
+
+        iii. The department's sustainable harvest calculation technical advisory committee must bring forward recommendations for regular maintenance and updates to the forest inventory on a ten-year basis.
+
+    b. Prior to the determination of the 2025-2034 sustainable harvest calculation as required by RCW 79.10.320, the department must hire a third-party contractor to review, analyze, and advise the department's forest growth and yield modeling, specific to all types of forested acres managed by the department. The department's sustainable harvest calculation technical advisory committee must be involved in the design, review, and analysis of the department's forest growth and yield modeling.
+
+    c. Prior to the determination of the 2025-2034 sustainable harvest calculation as required by RCW 79.10.320 and in the absence of any litigation, pending or in progress, against the department's sustainable harvest calculation, the joint legislative audit and review committee established in chapter 44.28 RCW must oversee and conduct an independent review of the methodologies and data being utilized by the department in the development of the sustainable harvest calculation, including the associated forest inventory, forest growth, harvest and yield data, and modeling techniques that impact harvest levels. In carrying out the review, the joint legislative audit and review committee shall:
+
+        i. Retain one or more contractors with expertise in forest inventories, forest growth and yield modeling, and operational research modeling in forest harvest scheduling to conduct the technical review;
+
+        ii. Be a member of department's sustainable harvest calculation technical advisory committee, along with one of its contractors selected in (c)(i) of this subsection; and
+
+        iii. Prior to the department's determination of the sustainable harvest under RCW 79.10.320, ensure that a completed independent review and report with findings and recommendations is submitted to the board of natural resources and the legislature.
+
+    d. Upon receiving the report from the joint legislative audit and review committee required under (c)(iii) of this subsection, the board of natural resources shall determine whether modifications are necessary to the sustainable harvest calculation prior to approving harvest level under RCW 79.10.320.
+
 
 ## Section 4
 > This section modifies existing section [76.06.200](/rcw/76_forests_and_forest_products/76.06_forest_insect_and_disease_control.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.06_forest_insect_and_disease_control.md) for context.
@@ -117,31 +186,56 @@
 
 
 ## Section 5
-(1) The legislature finds that satisfying the goals identified in section 1 of this act to increase the pace and scale of forest health treatments and improve wildfire prevention and response requires increasing the workforce that is needed to perform this critical work. This need creates an opportunity to develop employment and career pathways across the state, including in rural communities throughout Washington. Investments to support and further develop the forest sector workforce are recommended in both the department's 2019 "plan for climate resilience" and the department of commerce's 2020 report "Washington's green economy."
-(2) The department and the department of commerce shall jointly develop and implement, as appropriate and in consultation with centers of excellence, higher education, secondary education, and workforce development centers, initiatives to develop a forest health workforce necessary to implement the goals of this section. Initiatives may include, but are not limited to:
-(a) Creating a new or making an existing grant program available to nonprofits, labor organizations, state agencies, community and technical colleges, institutions of higher education, private sector employers, skills centers, or other training and education institutions that have qualifications and experience in the development of training programs, such as secondary and postsecondary courses, relevant to the workforce needs of the forest sector. Grants must be awarded on a competitive basis with priority funding for programs that meet urgent forest health and wildfire suppression skills gaps and demonstrate a lack of available workforce in underserved communities. Grants awarded may be used for activities such as internships, Washington state registered apprenticeship programs, recognized preapprenticeships, career launch, and other relevant career connect Washington activities, and postsecondary bridge programs for forest sector or skill relevant trades that provide:
-(i) On the job training;
-(ii) Hard and soft skills development;
-(iii) Test preparation for trade apprenticeship;
-(iv) Advanced training in the forest sector relating to jobs such as: Hand crews; wildland firefighters; fire safety; equipment operators; timber operators; mill workers; mill or forestry technicians; mechanics; loggers; timber fallers; commercial truck drivers; foresters; ecologists; biologists; or other workforce needs in support of forest restoration and wildfire response;
-(b) Developing education programs for elementary, secondary, and higher education students that: (i) Inform people about the role of forestry, fire, vegetation management, and ecological restoration; (ii) increase the awareness of opportunities for careers in the forest sector and exposure of students to those careers through various work-based learning opportunities inside and outside the classroom; (iii) connect students in pathways to careers in the forest sector; and (iv) incorporate opportunities for secondary students to earn industry recognized credentials and dual credit in career and technical education courses;
-(c) Developing regional education, industry, and workforce development collaborations, including recruiting and building industry awareness and coordinating candidate development particularly in areas that are traditionally underrepresented in natural resource industries and specifically in forestry;
-(d) Building additional statewide response. The department shall develop a recruiting and outreach program across the state to encourage people to volunteer with their local fire departments. The department shall expand existing training programs to meet increased interest and need in wildfire response and forest health work; and
-(e) Developing a program to train local building and construction trade members and contractors to be deployed during periods requiring surge capacity for wildland fire suppression including:
-(i) As wildland firefighters who meet the requirements of being utilized by the department; and
-(ii) As heavy equipment operators who meet the requirements to be utilized by the department as required by RCW 76.04.181.
-(3) The commissioner and the director of the department of commerce must direct their staff to develop a plan for tracking, maintaining, and publicly reporting on the following:
-(a) A working definition of the forest sector workforce, including the job skills, certifications, and experience required;
-(b) Recommendations for the training, recruitment, and retention of the current and anticipated forest sector workforce necessary to implement the goals of this act;
-(c) The identification of gaps and barriers to a full forest sector workforce pool, including:
-(i) Estimates of forest sector workforce jobs created and retained as well as any reductions in the forest sector workforce;
-(ii) An estimate of the number of needed private contractors to implement the goals of this act, an inventory of local and regional private contractors trained to carry out wildfire response and forest health work, and a list of local private contractors utilized annually for wildfire response and forest health work; and
-(iii) An inventory of existing training facilities and programs that support ongoing and anticipated forest sector, or related sectors, as identified in subsection (2)(a)(iv) of this section;
-(d) Recommendations for addressing identified barriers or other needs to otherwise continue the development of a forest workforce necessary to implement the goals of this act.
-(4) The department and the department of corrections shall jointly develop opportunities to expand existing programs to provide the additional wildfire, forest health, and silvicultural capacity necessary to implement the goals of this act, including a postrelease program that helps formerly incarcerated individuals who served on state fire response crews obtain employment in wildfire suppression and forest management.
-(5) The department shall utilize existing programs such as the Washington conservation corps, Washington veterans corps, Washington service corps, customized and on-the-job training, or similar programs to expand opportunities and promote family wage careers in the forest sector workforce.
-(6) To the maximum extent possible, workforce development programs and policies should prioritize historically marginalized, underrepresented, rural, and low-income communities.
-(7) The department and the department of commerce, working with the forest health advisory committee, must assist forestland owners and forest products companies grow existing and develop new market opportunities for the utilization of material produced as a result of forest health treatments funded through the wildfire response, forest restoration, and community resilience account to improve the economic benefit of the treatments while increasing the speed, efficiency, and impact of forest restoration on the landscape.
+1. The legislature finds that satisfying the goals identified in section 1 of this act to increase the pace and scale of forest health treatments and improve wildfire prevention and response requires increasing the workforce that is needed to perform this critical work. This need creates an opportunity to develop employment and career pathways across the state, including in rural communities throughout Washington. Investments to support and further develop the forest sector workforce are recommended in both the department's 2019 "plan for climate resilience" and the department of commerce's 2020 report "Washington's green economy."
+
+2. The department and the department of commerce shall jointly develop and implement, as appropriate and in consultation with centers of excellence, higher education, secondary education, and workforce development centers, initiatives to develop a forest health workforce necessary to implement the goals of this section. Initiatives may include, but are not limited to:
+
+    a. Creating a new or making an existing grant program available to nonprofits, labor organizations, state agencies, community and technical colleges, institutions of higher education, private sector employers, skills centers, or other training and education institutions that have qualifications and experience in the development of training programs, such as secondary and postsecondary courses, relevant to the workforce needs of the forest sector. Grants must be awarded on a competitive basis with priority funding for programs that meet urgent forest health and wildfire suppression skills gaps and demonstrate a lack of available workforce in underserved communities. Grants awarded may be used for activities such as internships, Washington state registered apprenticeship programs, recognized preapprenticeships, career launch, and other relevant career connect Washington activities, and postsecondary bridge programs for forest sector or skill relevant trades that provide:
+
+        i. On the job training;
+
+        ii. Hard and soft skills development;
+
+        iii. Test preparation for trade apprenticeship;
+
+        iv. Advanced training in the forest sector relating to jobs such as: Hand crews; wildland firefighters; fire safety; equipment operators; timber operators; mill workers; mill or forestry technicians; mechanics; loggers; timber fallers; commercial truck drivers; foresters; ecologists; biologists; or other workforce needs in support of forest restoration and wildfire response;
+
+    b. Developing education programs for elementary, secondary, and higher education students that: (i) Inform people about the role of forestry, fire, vegetation management, and ecological restoration; (ii) increase the awareness of opportunities for careers in the forest sector and exposure of students to those careers through various work-based learning opportunities inside and outside the classroom; (iii) connect students in pathways to careers in the forest sector; and (iv) incorporate opportunities for secondary students to earn industry recognized credentials and dual credit in career and technical education courses;
+
+    c. Developing regional education, industry, and workforce development collaborations, including recruiting and building industry awareness and coordinating candidate development particularly in areas that are traditionally underrepresented in natural resource industries and specifically in forestry;
+
+    d. Building additional statewide response. The department shall develop a recruiting and outreach program across the state to encourage people to volunteer with their local fire departments. The department shall expand existing training programs to meet increased interest and need in wildfire response and forest health work; and
+
+    e. Developing a program to train local building and construction trade members and contractors to be deployed during periods requiring surge capacity for wildland fire suppression including:
+
+        i. As wildland firefighters who meet the requirements of being utilized by the department; and
+
+        ii. As heavy equipment operators who meet the requirements to be utilized by the department as required by RCW 76.04.181.
+
+3. The commissioner and the director of the department of commerce must direct their staff to develop a plan for tracking, maintaining, and publicly reporting on the following:
+
+    a. A working definition of the forest sector workforce, including the job skills, certifications, and experience required;
+
+    b. Recommendations for the training, recruitment, and retention of the current and anticipated forest sector workforce necessary to implement the goals of this act;
+
+    c. The identification of gaps and barriers to a full forest sector workforce pool, including:
+
+        i. Estimates of forest sector workforce jobs created and retained as well as any reductions in the forest sector workforce;
+
+        ii. An estimate of the number of needed private contractors to implement the goals of this act, an inventory of local and regional private contractors trained to carry out wildfire response and forest health work, and a list of local private contractors utilized annually for wildfire response and forest health work; and
+
+        iii. An inventory of existing training facilities and programs that support ongoing and anticipated forest sector, or related sectors, as identified in subsection (2)(a)(iv) of this section;
+
+    d. Recommendations for addressing identified barriers or other needs to otherwise continue the development of a forest workforce necessary to implement the goals of this act.
+
+4. The department and the department of corrections shall jointly develop opportunities to expand existing programs to provide the additional wildfire, forest health, and silvicultural capacity necessary to implement the goals of this act, including a postrelease program that helps formerly incarcerated individuals who served on state fire response crews obtain employment in wildfire suppression and forest management.
+
+5. The department shall utilize existing programs such as the Washington conservation corps, Washington veterans corps, Washington service corps, customized and on-the-job training, or similar programs to expand opportunities and promote family wage careers in the forest sector workforce.
+
+6. To the maximum extent possible, workforce development programs and policies should prioritize historically marginalized, underrepresented, rural, and low-income communities.
+
+7. The department and the department of commerce, working with the forest health advisory committee, must assist forestland owners and forest products companies grow existing and develop new market opportunities for the utilization of material produced as a result of forest health treatments funded through the wildfire response, forest restoration, and community resilience account to improve the economic benefit of the treatments while increasing the speed, efficiency, and impact of forest restoration on the landscape.
+
 
 ## Section 6
 > This section modifies existing section [76.06.150](/rcw/76_forests_and_forest_products/76.06_forest_insect_and_disease_control.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.06_forest_insect_and_disease_control.md) for context.
@@ -179,13 +273,37 @@
     b. **An estimate of the acres of at-risk forests on each national forest and the number of acres treated**.
 
 
+## Section 7
+> This section adds a new section to an existing chapter [76.13](/rcw/76_forests_and_forest_products/76.13_stewardship_of_nonindustrial_forests_and_woodlands.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.13_stewardship_of_nonindustrial_forests_and_woodlands.md) for context.
+
+1. There is established an integrated small forestland owner forest health program that promotes the coordination and delivery of services with federal, state, and local agencies, including local fire districts, conservation districts, and community wildfire resilience coalitions, forest landowner associations, colleges and universities, landowner assistance organizations, consultants, forest resource-related industries, and environmental organizations to nonindustrial forests and woodland owners, hereafter referred to as small forestland owners.
+
+2. Under the state forester's direction, the program must:
+
+    a. Integrate existing landowner assistance forest health programs consistent with the recommendations of "Washington's Small Forest Landowners in 2020, Status, Trends and Recommendations after 20 years of Forests & Fish, January 2021" (the report required by chapter 457, Laws of 2019), to more efficiently and effectively reach the diversity of small forestland owner audiences to take forest health action;
+
+    b. Identify and remove barriers to technical assistance, funding, and forest health management planning;
+
+    c. Increase education and outreach to small forestland owners; and
+
+    d. Distribute funding effectively to move high wildfire risk areas to lower risk.
+
+3. Priority areas for forest health treatment under the Washington state forest action plan, the 10-year forest health strategic plan, and the wildland fire protection 10-year strategic plan may not prohibit technical support or stewardship plan support for small forestland owner lands outside the designated emphasis areas.
+
+
 ## Section 8
 The department must develop and implement a wildland fire aviation support plan, as recommended by the wildland fire protection 10-year strategic plan, in order to expand and improve the effectiveness and cost-efficiency of the department's wildland fire aviation program. The wildland fire aviation support plan must include:
-(1) Recommendations for the addition of air assets in order for the department to increase its initial attack capability and maintain and improve on the department's ability to manage fires to meet 10-year wildland fire protection and 20-year forest health strategic plan goals;
-(2) Development of a next-generation rotor wing platform strategy to ensure the availability and use of the latest firefighting aviation technology and provide a path for either the upgrade or replacement, or both, of the department's legacy aircraft;
-(3) Evaluation of opportunities to increase the use of contract air assets;
-(4) Evaluation of costs and benefits to increase dedicated air resources during peak fire season when there may be limited available supply due to wildfire activity in other states; and
-(5) Strategies to upgrade retardant loading and processing infrastructure to improve tanker turnaround time, including support for development of infrastructure to accommodate very large air tankers, at a port with an international airport within a county east of the crest of the Cascade mountains that does not share a border with another state.
+
+1. Recommendations for the addition of air assets in order for the department to increase its initial attack capability and maintain and improve on the department's ability to manage fires to meet 10-year wildland fire protection and 20-year forest health strategic plan goals;
+
+2. Development of a next-generation rotor wing platform strategy to ensure the availability and use of the latest firefighting aviation technology and provide a path for either the upgrade or replacement, or both, of the department's legacy aircraft;
+
+3. Evaluation of opportunities to increase the use of contract air assets;
+
+4. Evaluation of costs and benefits to increase dedicated air resources during peak fire season when there may be limited available supply due to wildfire activity in other states; and
+
+5. Strategies to upgrade retardant loading and processing infrastructure to improve tanker turnaround time, including support for development of infrastructure to accommodate very large air tankers, at a port with an international airport within a county east of the crest of the Cascade mountains that does not share a border with another state.
+
 
 ## Section 9
 > This section modifies existing section [72.64.160](/rcw/72_state_institutions/72.64_labor_and_employment_of_prisoners.md). Here is the [modified chapter](rcw/72_state_institutions/72.64_labor_and_employment_of_prisoners.md) for context.
@@ -198,8 +316,11 @@ The department must develop and implement a wildland fire aviation support plan,
 ## Section 10
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
 
+
 ## Section 11
 This act may be known and cited as the wildfire response, forest restoration, and community resilience act.
 
+
 ## Section 12
 Sections 1 through 3, 5, and 8 of this act are each added to chapter 76.04 RCW and codified with the subchapter heading of "wildfire response, forest restoration, and community resilience."
+

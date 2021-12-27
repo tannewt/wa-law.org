@@ -4,6 +4,7 @@
 ## Section 1
 Amid an unprecedented and ongoing need for benefits and stresses on our unemployment insurance trust fund during the COVID-19 public health emergency, the legislature intends to continue assessing the funding levels of the unemployment insurance trust fund and the unemployment insurance premium rates authorized under this act. The legislature will continue to consider recommendations from the employment security department's unemployment insurance advisory committee and other impacted Washingtonians to ensure a healthy unemployment insurance trust fund that can maintain critical economic support to Washington workers and businesses while bolstering the state's economy.
 
+
 ## Section 2
 > This section modifies existing section [28B.50.030](/rcw/28B_higher_education/28B.050_community_and_technical_colleges.md). Here is the [modified chapter](rcw/28B_higher_education/28B.050_community_and_technical_colleges.md) for context.
 
@@ -80,6 +81,24 @@ The definitions in this section apply throughout this chapter unless the context
 22. "Technical college" includes those higher education institutions with the mission of conducting occupational education, basic skills, literacy programs, and offering on short notice, when appropriate, programs that meet specific industry needs. For purposes of this chapter, technical colleges shall include the following college districts as created in RCW 28B.50.040: The twenty-fifth college district, the twenty-sixth college district, the twenty-seventh college district, the twenty-eighth college district, and the twenty-ninth college district.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [50.04](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
+
+"Public health emergency" means a declaration or order that covers the jurisdiction where the unemployed individual was working on the date the individual became unemployed concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+1. The president of the United States has declared a national or regional emergency;
+
+2. The governor of Washington declared a state of emergency under RCW 43.06.010(12); or
+
+3. The governor or state executive of another state where the unemployed individual was working at the time of the declaration declared a state of emergency.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [50.04](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
+
+"Department" means the employment security department, unless the context clearly indicates otherwise.
+
+
 ## Section 5
 > This section modifies existing section [50.04.323](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
 
@@ -102,6 +121,22 @@ The definitions in this section apply throughout this chapter unless the context
 4. The resulting weekly benefit amount payable after reduction under this section, if not a multiple of one dollar, shall be reduced to the next lower multiple of one dollar.
 
 5. Any ambiguity in subsection (1) of this section should be construed in a manner consistent with 26 U.S.C. Sec. 3304 (a)(15) .
+
+
+## Section 6
+> This section adds a new section to an existing chapter [50.12](/rcw/50_unemployment_compensation/50.12_administration.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.12_administration.md) for context.
+
+1. By December 1, 2021, and annually thereafter until December 1, 2025, and in compliance with RCW 43.01.036, the department must report to the governor and the appropriate committees of the legislature on the following:
+
+    a. Status of the unemployment trust fund, including any federal advances required for trust fund solvency;
+
+    b. An analysis of the impact of the minimum weekly benefit amount increase, including comparing wages earned and benefits claimed for those individuals receiving the minimum weekly benefit amount and the average claim duration for those individuals.
+
+2. By December 1, 2021, and in compliance with RCW 43.01.036, the department must report to the governor and the appropriate committees of the legislature a review of the amount of wages subject to tax. This review shall include an analysis of the equitable treatment of employers based on the amount of wages subject to tax, including a comparison of the percentage of wages subject to tax for small, medium, and large businesses and examples of how changes to the amount of wages subject to tax would impact trust fund balances and employer contributions.
+
+3. The department must use an existing unemployment insurance advisory committee comprising of members of business and members of labor to consult in the development of this report, including any evidentiary assumptions underlying the report. The report must be specifically discussed in a minimum of two meetings of the committee each year prior to submitting the report. The report must also include a section for committee members to respond directly to the contents of the report.
+
+4. This section expires January 31, 2026.
 
 
 ## Section 7
@@ -560,5 +595,12 @@ Unless the context clearly requires otherwise, the definitions in this section a
 2. **Any** amount of shared work benefits **that is paid or** reimbursed by the federal government is not charged to experience rating accounts of employers or to employers who are liable for payments in lieu of contributions. The **employment security** department shall remove charges for any amount of shared work benefits **that is paid or** reimbursed by the federal government .
 
 
+## Section 25
+> This section adds a new section to an existing chapter [50.60](/rcw/50_unemployment_compensation/50.60_shared_work_compensation_plans—benefits.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.60_shared_work_compensation_plans—benefits.md) for context.
+
+Affected employees may participate, as appropriate, in training, including employer-sponsored training or training funded under the workforce innovation and opportunity act, to enhance job skills if such program has been approved by the employment security department.
+
+
 ## Section 26
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this act. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+

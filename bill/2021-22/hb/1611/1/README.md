@@ -4,10 +4,21 @@
 ## Section 1
 The legislature finds that, for highly capable students, access to accelerated learning and enhanced instruction is access to a basic education. The legislature has directed school districts to prioritize equitable identification of low-income students for participation in highly capable programs and services. The research literature strongly supports using universal screening and multiple criteria to equitably identify students for highly capable programs. There are multiple approaches to implementing universal screening and the use of multiple criteria. The legislature intends all school districts to use best practices and does not intend to prescribe a single method.
 
+
 ## Section 2
 > This section modifies existing section [28A.185.020](/rcw/28A_common_school_provisions/28A.185_highly_capable_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.185_highly_capable_students.md) for context.
 
 District practices for identifying  highly capable students must prioritize equitable identification of low-income students. Access to accelerated learning and enhanced instruction through the program for highly capable students does not constitute an individual entitlement for any particular student.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28A.185](/rcw/28A_common_school_provisions/28A.185_highly_capable_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.185_highly_capable_students.md) for context.
+
+1. The legislature intends to allocate state funding for the highly capable program based on five percent of each school district's student population. The legislature does not intend to limit highly capable services to five percent of the student population. Districts may identify and serve more than five percent of their students for highly capable programs and services.
+
+2. Supplemental funds provided by the state for the state basic education program for highly capable students under RCW 28A.150.260 are categorical funding to identify and provide services to highly capable students as determined by a school district under RCW 28A.185.030. Basic education funding and categorical funding must be used to identify students and provide programs and services for highly capable students.
+
+3. Each school district must conduct universal screenings in accordance with RCW 28A.185.030 to find students who need further assessment for potential highly capable program placement.
 
 
 ## Section 4

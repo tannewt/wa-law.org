@@ -1,5 +1,6 @@
 # HB 1219 - Youth counsel/dependency
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1219&Year=2021)
+
 Concerning the appointment of counsel for youth in dependency court proceedings.
 
 ## Revisions

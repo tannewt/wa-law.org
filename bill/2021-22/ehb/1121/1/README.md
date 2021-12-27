@@ -2,8 +2,64 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1121.SL.xml)
 ## Section 1
-(1) The legislature recognizes that the COVID-19 pandemic illuminated the need for an emergency waiver program that would prevent students from being unduly impacted by unforeseen disruptions to coursework and assessments that are beyond the student's control. The legislature finds that a new and ongoing emergency waiver program would ensure the state is better prepared to respond to future emergencies at both the state and local levels.
-(2) Therefore, the legislature intends to provide the state board of education with the authority to establish an emergency waiver program to allow school districts to waive certain graduation requirements on an individual student basis after the district makes a good faith effort to help the student meet the requirements. The legislature further intends for the emergency waiver program to be administered in an equitable manner and in furtherance of the opportunity for students to graduate ready for success in postsecondary education, gainful employment, and civic engagement, and equipped with the skills to be a lifelong learner, consistent with the purpose of the high school diploma as established in RCW 28A.230.090(1).
+1. The legislature recognizes that the COVID-19 pandemic illuminated the need for an emergency waiver program that would prevent students from being unduly impacted by unforeseen disruptions to coursework and assessments that are beyond the student's control. The legislature finds that a new and ongoing emergency waiver program would ensure the state is better prepared to respond to future emergencies at both the state and local levels.
+
+2. Therefore, the legislature intends to provide the state board of education with the authority to establish an emergency waiver program to allow school districts to waive certain graduation requirements on an individual student basis after the district makes a good faith effort to help the student meet the requirements. The legislature further intends for the emergency waiver program to be administered in an equitable manner and in furtherance of the opportunity for students to graduate ready for success in postsecondary education, gainful employment, and civic engagement, and equipped with the skills to be a lifelong learner, consistent with the purpose of the high school diploma as established in RCW 28A.230.090(1).
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.230](/rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
+
+1. Beginning with the class of 2020, the state board of education may authorize school districts to grant individual student emergency waivers from credit and subject area graduation requirements established in RCW 28A.230.090, the graduation pathway requirement established in RCW 28A.655.250, or both if:
+
+    a. The student's ability to complete the requirement was impeded due to a significant disruption resulting from a local, state, or national emergency;
+
+    b. The school district demonstrates a good faith effort to support the individual student in meeting the requirement before considering an emergency waiver;
+
+    c. The student was reasonably expected to graduate in the school year when the emergency waiver is granted; and
+
+    d. The student has demonstrated skills and knowledge indicating preparation for the next steps identified in their high school and beyond plan under RCW 28A.230.090 and for success in postsecondary education, gainful employment, and civic engagement.
+
+2. A school district that is granted emergency waiver authority under this section shall:
+
+    a. Maintain a record of courses and requirements waived as part of the individual student record;
+
+    b. Include a notation of waived credits on the student's high school transcript;
+
+    c. Maintain records as necessary and as required by rule of the state board of education to document compliance with subsection (1)(b) of this section;
+
+    d. Report student level emergency waiver data to the office of the superintendent of public instruction in a manner determined by the superintendent of public instruction in consultation with the state board of education;
+
+    e. Determine if there is disproportionality among student subgroups receiving emergency waivers and, if so, take appropriate corrective actions to ensure equitable administration. At a minimum, the subgroups to be examined must include those referenced in RCW 28A.300.042(3). If further disaggregation of subgroups is available, the school district shall also examine those subgroups; and
+
+    f. Adopt by resolution a written plan that describes the school district's process for students to request or decline an emergency waiver, and a process for students to appeal within the school district a decision to not grant an emergency waiver.
+
+3. [Empty]
+
+    a. By November 1, 2021, and annually thereafter, the office of the superintendent of public instruction shall provide the data reported under subsection (2) of this section to the state board of education.
+
+    b. The state board of education, by December 15, 2021, and within existing resources, shall provide the education committees of the legislature with a summary of the emergency waiver data provided by the office of the superintendent of public instruction under this subsection (3) for students in the graduating classes of 2020 and 2021. The summary must include the following information:
+
+        i. The total number of emergency waivers requested and issued, by school district, including an indication of what requirement or requirements were waived. Information provided in accordance with this subsection (b)(i) must also indicate the number of students in the school district grade cohort of each student receiving a waiver; and
+
+        ii. An analysis of any concerns regarding school district implementation, including any concerns related to school district demonstrations of good faith efforts as required by subsection (1)(b) of this section, identified by the state board of education during its review of the data.
+
+4. The state board of education shall adopt and may periodically revise rules for eligibility and administration of emergency waivers under this section. The rules may include:
+
+    a. An application and approval process that allows school districts to apply to the state board of education to receive authority to grant emergency waivers in response to an emergency;
+
+    b. Eligibility criteria for meeting the requirements established in subsection (1) of this section;
+
+    c. Limitations on the number and type of credits that can be waived; and
+
+    d. Expectations of the school district regarding communication with students and their parents or guardians.
+
+5. For purposes of this section:
+
+    a. "Emergency" has the same meaning as "emergency or disaster" in RCW 38.52.010. "Emergency" may also include a national declaration of emergency by an authorized federal official.
+
+    b. "School district" means any school district, charter school established under chapter 28A.710 RCW, tribal compact school operated according to the terms of state-tribal education compacts authorized under chapter 28A.715 RCW, private school, state school established under chapter 72.40 RCW, and community and technical college granting high school diplomas.
+
 
 ## Section 3
 > This section modifies existing section [28A.655.250](/rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md) for context.

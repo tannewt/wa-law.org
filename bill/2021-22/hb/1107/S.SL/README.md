@@ -308,3 +308,13 @@ Subsection (6) of this section
 
 7. The department may adopt rules to implement this section.
 
+
+## Section 6
+> This section adds a new section to an existing chapter [82.12](/rcw/82_excise_taxes/82.12_use_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.12_use_tax.md) for context.
+
+1. Except as otherwise provided in this section, the provisions of this chapter do not apply to the use of a vessel exempt from registration under RCW 88.02.570(12).
+
+2. The use of a vessel exempt from registration under RCW 88.02.570(12) for chartering with a captain or crew is subject to the tax imposed in RCW 82.12.020 based on the reasonable bare rental value of the vessel as provided in RCW 82.12.010(7)(c).
+
+3. This section expires January 1, 2029.
+

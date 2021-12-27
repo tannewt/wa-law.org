@@ -3,9 +3,13 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1623.xml)
 ## Section 1
 The legislature finds that states such as Texas and California recently experienced decreased power supply reliability and rolling blackouts due to weather events, inadequate dispatchable generating resources, and other factors. Several studies have shown that the Northwest will experience a large energy capacity shortfall by 2030.
+
 The legislature finds that the electric grid is undergoing profound changes. The grid is changing from one built to deliver to the customer electricity from centralized electric generation plants to one with intermittent energy resources like windmills and solar panels dispersed geographically across a broad landscape. The generating resources on the old grid could be turned up or down, on or off as required. The new grid cannot, without extensive energy storage, be turned up or down in response to customer demand.
+
 The transmission and distribution infrastructure, the sticks and wires of the grid, are being asked to meet increasingly complex service requirements and loads. The changing demand includes, but is not limited to, vehicle charging, serving other specialized technology that requires high power quality, electrification of natural gas utility services, electricity deployed on the customer side of the meter through net metering, community solar programs, and the growth of demand response programs.
+
 Further, the clean energy transformation act requires that utilities making investments in new resources after May of 2019, rely on renewable resources and energy storage to the maximum extent feasible, while transitioning away from dispatchable coals and natural gas fired generation. Current law provides no policy guidance or value propositions for replacing thermal generation like coal and natural gas fired plants with storage resources that can store and redispatch renewable energy. The region needs to maintain and increase firm dispatchable capacity and related ancillary services to address the energy adequacy challenges created by a deeply decarbonized grid.
+
 
 ## Section 2
 > This section modifies existing section [19.280.065](/rcw/19_business_regulations—miscellaneous/19.280_electric_utility_resource_plans.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.280_electric_utility_resource_plans.md) for context.

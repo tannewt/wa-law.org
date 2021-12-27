@@ -4,6 +4,7 @@
 ## Section 1
 Many Washington communities see a need for teacher and staff housing closer to schools and other workplaces and are exploring teacher housing as a way to attract and retain teachers in communities with housing affordability and traffic and transportation pressures. The intent of the legislature is to enable communities to provide teacher housing and expand century-old authority available to rural second-class districts to all school districts.
 
+
 ## Section 2
 > This section modifies existing section [28A.335.240](/rcw/28A_common_school_provisions/28A.335_school_districts_property.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.335_school_districts_property.md) for context.
 

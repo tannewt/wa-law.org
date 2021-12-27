@@ -1,5 +1,6 @@
 # SB 5234 - Long-term care trust repeal
-*Status: First reading, referred to Health & Long Term Care.*
+*Status: First reading, referred to Health & Long Term Care.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5234&Year=2021)
+
 Repealing the long-term services and supports trust program and the premium assessment on wages.
 
 ## Revisions

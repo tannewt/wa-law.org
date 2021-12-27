@@ -101,6 +101,22 @@ A person, firm, corporation, business, union, or other organization shall not:
 5. The procedures and sanctions in this section are not exclusive; nothing in this section prevents the state agency or educational institution administering the contracts from pursuing such procedures or sanctions as are otherwise provided by statute, rule, or contract provision.
 
 
+## Section 5
+> This section adds a new section to an existing chapter [39.19](/rcw/39_public_contracts_and_indebtedness/39.019_office_of_minority_and_womens_business_enterprises.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.019_office_of_minority_and_womens_business_enterprises.md) for context.
+
+1. The director or director's designee may apply for and obtain a superior court order approving and authorizing a subpoena in advance of its issuance. The application may be made in the county where the subpoenaed person resides or is found, or the county where the subpoenaed documents, records, or evidence are located, or in Thurston county. The application must:
+
+    a. State that an order is sought under this section;
+
+    b. Adequately specify the documents, records, evidence, or testimony; and
+
+    c. Include a declaration made under oath that an investigation is being conducted for a lawfully authorized purpose related to an investigation within the office's authority and that the subpoenaed documents, records, evidence, or testimony are reasonably related to an investigation within the office's authority.
+
+2. When an application under this section is made to the satisfaction of the court, the court must issue an order approving the subpoena. An order under this subsection constitutes authority of law for the agency to subpoena the documents, records, evidence, or testimony.
+
+3. The director or director's designee may seek approval and a court may issue an order under this section without prior notice to any person, including the person to whom the subpoena is directed and the person who is the subject of an investigation. An application for court approval is subject to the fee and process set forth in RCW 36.18.012(3).
+
+
 ## Section 6
 > This section modifies existing section [39.19.200](/rcw/39_public_contracts_and_indebtedness/39.019_office_of_minority_and_womens_business_enterprises.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.019_office_of_minority_and_womens_business_enterprises.md) for context.
 

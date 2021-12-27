@@ -1,6 +1,16 @@
 # House Bill 1003
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1003.xml)
+## Section 1
+> This section adds a new section to an existing chapter [29A.36](/rcw/29A_elections/29A.36_ballots_and_other_voting_forms.md). Here is the [modified chapter](rcw/29A_elections/29A.36_ballots_and_other_voting_forms.md) for context.
+
+1. The secretary of state shall design a watermark for inclusion on official ballots in any election subject to this title. The watermark must be sufficient to prove that the ballot is an official ballot and not a reproduction.
+
+2. Each ballot printed by a county auditor must include the watermark designed under this section.
+
+3. This section does not preclude a county auditor from printing a replacement ballot when requested by a voter under this title. Replacement ballots must be identical in form to all original official ballots, including a watermark.
+
+
 ## Section 3
 > This section modifies existing section [29A.40.180](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
 

@@ -1,3 +1,22 @@
 # House Bill 1598
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1598.xml)
+## Section 1
+> This section adds a new section to an existing chapter [50B.04](/rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md). Here is the [modified chapter](rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md) for context.
+
+1. Upon the death of a qualified individual, regardless of the qualified individual's status as an eligible beneficiary, the cash value of any unclaimed benefit units attributed to the qualified individual may be transferred as a property interest and distributed to any beneficiary identified by the qualified individual as provided in subsection (2) of this section. If the qualified individual fails to identify a beneficiary, the cash value of any unclaimed benefit must be transferred to the estate of the qualified individual. The cash value of each unclaimed benefit unit is the cash value on the date of the death of the deceased qualified individual.
+
+2. The employment security department, the health care authority, and the department of social and health services shall establish procedures to allow for the transfer of the cash value of any unclaimed benefit units attributed to a deceased qualified individual under subsection (1) of this section. The procedures shall require:
+
+    a. The employment security department to identify any person who has paid the premium assessment for at least three years in which the person worked at least 500 hours during each year and provide the person's contact information to the department of social and health services;
+
+    b. The department of social and health services to contact persons identified in (a) of this subsection (2) and communicate the requirements for becoming a qualified individual and an explanation that the person may designate a beneficiary to receive the cash value of any unclaimed benefit upon the death of the person in the event that the person meets the qualifications to become a qualified individual under RCW 50B.04.050. The department of social and health services shall send periodic reminders to persons who have not designated a beneficiary. When identifying a beneficiary, the person may also identify a bank account in which the cash value payment may be deposited;
+
+    c. The department of social and health services to adopt methods for receiving notices of the death of a qualified individual, verifying the person's death and the person's status as a qualified individual, and verifying the named beneficiary's identity or the identity of the executor or personal representative of the estate of the deceased qualified individual;
+
+    d. The health care authority to communicate to the department of social and health services the number of unclaimed benefit units attributed to any deceased qualified individual; and
+
+    e. The department of social and health services to calculate the cash value of any unclaimed benefit units attributed to the deceased qualified individual and distribute the payment to the named beneficiary, the identified bank account, or the estate of the deceased qualified individual.
+
+3. The beneficiary identified by the deceased qualified individual or the executor or personal representative of the estate of the deceased qualified individual is responsible for informing the department of social and health services of the death of a qualified individual and for providing any necessary information to the department of social and health services to assist it in performing its functions to disburse the cash value of the unclaimed benefit units. Nothing in this section establishes an affirmative duty for any agency to actively determine the death of the qualified individual prior to notification by the beneficiary identified by the deceased qualified individual or the executor or personal representative of the estate of the deceased qualified individual.
+

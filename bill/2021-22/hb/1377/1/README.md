@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1377.xml)
 ## Section 1
 The legislature finds that while voting by mail in Washington has increased turnout in elections, this increase in turnout has come at the expense of ballot security. No longer do voters have the privacy of a voting booth or the security of a polling place, but instead they are subject to potential intimidation, electioneering, and fraud while filling out and casting a ballot.
+
 The legislature further finds that trust in the electoral system across the United States has declined due to credible allegations of voter fraud, ballot tampering, and foreign interference in elections. As a result, it is important to institute an electoral process that not only secures the vote from fraud, tampering, and interference, but also restores trust that the outcomes are legitimate and that the election was free and fair.
+
 Accordingly, the legislature intends to ensure ballot security and restore trust in electoral outcomes by reimplementing in-person voting in Washington, while continuing to provide ballot access to those who most need it by allowing for limited absentee voting.
+
 
 ## Section 2
 > This section modifies existing section [29A.04.008](/rcw/29A_elections/29A.04_general_provisions.md). Here is the [modified chapter](rcw/29A_elections/29A.04_general_provisions.md) for context.
@@ -718,209 +721,314 @@ Anyone who, without authorization, removes from a **polling place or** voting ce
 Any person who willfully defaces, removes, or destroys any of the supplies or materials that the person knows are intended both for use in a **polling place or** voting center and for enabling a voter to prepare his or her ballot is guilty of a class C felony punishable under RCW 9A.20.021.
 
 
+## Section 41
+> This section adds a new section to an existing chapter [29A.04](/rcw/29A_elections/29A.04_general_provisions.md). Here is the [modified chapter](rcw/29A_elections/29A.04_general_provisions.md) for context.
+
+"Poll-site ballot counting device" and other similar terms mean a device programmed to accept voted ballots at a polling place for the purpose of tallying and storing the ballots on election day.
+
+
 ## Section 42
 The intent of this chapter is to require state and local election officials to designate and use polling places and disability access voting locations in all elections and permanent registration locations that are accessible to elderly and disabled persons. County auditors shall:
-(1) Make modifications such as installation of temporary ramps or relocation of polling places within buildings, where appropriate;
-(2) Designate new, accessible polling places to replace those that are inaccessible; and
-(3) Continue to use polling places and voter registration locations which are accessible to elderly and disabled persons.
+
+1. Make modifications such as installation of temporary ramps or relocation of polling places within buildings, where appropriate;
+
+2. Designate new, accessible polling places to replace those that are inaccessible; and
+
+3. Continue to use polling places and voter registration locations which are accessible to elderly and disabled persons.
+
 
 ## Section 43
 The secretary of state shall establish procedures to assure that, in any primary or election, any disabled or elderly voter assigned to an inaccessible polling place will, upon advance request of that voter, either be permitted to vote at an alternative accessible polling place not overly inconvenient to that voter or be provided with an alternative means of casting a ballot on the day of the primary or election. The county auditor shall make any reasonable accommodations in voting procedures necessary to allow the use of alternative polling places by elderly or disabled voters under this section.
 
+
 ## Section 44
-(1) County auditors shall seek alternative polling places or other low-cost alternatives including, but not limited to, procedural changes and assistance from local disabled groups, service organizations, and other private sources before incurring costs for modifications under this chapter.
-(2) The cost of those modifications to buildings or other facilities, including signs designating disabled accessible parking and entrances, that are necessary to permit the use of those facilities for polling places under this chapter or any procedures established under section 43 of this act are treated as election costs and prorated under RCW 29A.04.410.
+1. County auditors shall seek alternative polling places or other low-cost alternatives including, but not limited to, procedural changes and assistance from local disabled groups, service organizations, and other private sources before incurring costs for modifications under this chapter.
+
+2. The cost of those modifications to buildings or other facilities, including signs designating disabled accessible parking and entrances, that are necessary to permit the use of those facilities for polling places under this chapter or any procedures established under section 43 of this act are treated as election costs and prorated under RCW 29A.04.410.
+
 
 ## Section 45
 Polling places for the various voting precincts may be located outside the boundaries of the respective precincts, when the officers conducting the primary or election shall deem it feasible. However, such polling places must be located within a reasonable distance of their respective precincts. The purpose of this section is to furnish adequate voting facilities at readily accessible and identifiable locations, and nothing in this section affects the number, method of selection, or duties of precinct election officers.
 
+
 ## Section 46
 The legislative authority of each county, municipality, and special district shall, at the request of the county auditor, make its facilities available for use as polling places for primaries, special elections, and state general elections held within that county. When, in the judgment of the county auditor, a facility of a county, municipality, or special district would provide a location for a polling place that would best satisfy the requirements of this chapter, the auditor must notify the legislative authority of that county, municipality, or district of the number of facilities needed for use as polling places. Payment for polling places and any other conditions or obligations regarding these polling places shall be provided for by contract between the county auditor and the county, municipality, or district.
+
 
 ## Section 47
 Each state agency and entity of local government must permit the use of any of its buildings and the most suitable locations therein as polling places or disability access voting locations when required by a county auditor to provide accessible places in each precinct.
 
+
 ## Section 48
 No later than April 1st of each even-numbered year, each county auditor must submit to the secretary of state a list showing the number of polling places in the county and specifying any that have been found inaccessible. The auditor shall indicate the reasons for inaccessibility, and what efforts have been made pursuant to this chapter to locate alternative polling places or to make the existing facilities temporarily accessible. If a county auditor's list shows, for two consecutive reporting periods, that no polling places have been found inaccessible, the auditor need not submit further reports unless the secretary of state specifically reinstates the requirement for that county. Notice of reinstatement must be in writing and delivered at least 60 days before the reporting date.
 
+
 ## Section 49
 Each polling place must be accessible unless:
-(1) The county auditor has determined that it is inaccessible, that no alternative accessible polling place is available, that no temporary modification of that polling place or any alternative polling place is possible, and that the county auditor has complied with the procedures established under section 43 of this act; or
-(2) The secretary of state determines that a state of emergency exists that would otherwise interfere with the efficient administration of the primary or election.
+
+1. The county auditor has determined that it is inaccessible, that no alternative accessible polling place is available, that no temporary modification of that polling place or any alternative polling place is possible, and that the county auditor has complied with the procedures established under section 43 of this act; or
+
+2. The secretary of state determines that a state of emergency exists that would otherwise interfere with the efficient administration of the primary or election.
+
 
 ## Section 50
 County auditors shall, as feasible, solicit and use the assistance of disabled voters in reviewing sites and recommending inexpensive remedies to improve accessibility.
 
+
 ## Section 51
 Each county auditor shall include a notice of the accessibility of polling places in the notice of election published under chapter 29A.52 RCW.
 
+
 ## Section 52
 The delivery of an absentee ballot for any primary or election is subject to the following qualifications:
-(1)(a) An absentee ballot may be picked up at the office of the issuing officer by:
-(i) The registered voter personally; or
-(ii) A member of the registered voter's immediate family.
-(b) If the voter is a resident of a health care facility, as defined by RCW 70.37.020, on election day, the voter may apply by messenger for an absentee ballot and the messenger may pick up the voter's absentee ballot.
-(2) Except as noted in subsection (1) of this section, the issuing officer must mail or deliver the absentee ballot directly to each voter.
+
+1. [Empty]
+
+    a. An absentee ballot may be picked up at the office of the issuing officer by:
+
+        i. The registered voter personally; or
+
+        ii. A member of the registered voter's immediate family.
+
+    b. If the voter is a resident of a health care facility, as defined by RCW 70.37.020, on election day, the voter may apply by messenger for an absentee ballot and the messenger may pick up the voter's absentee ballot.
+
+2. Except as noted in subsection (1) of this section, the issuing officer must mail or deliver the absentee ballot directly to each voter.
+
 
 ## Section 53
 The absentee ballots must be reported at a minimum on a congressional and legislative district basis. Absentee ballots may be counted by congressional or legislative district or by individual precinct, except as required under RCW 29A.60.230. These returns must be added to the total of the votes cast at the polling places.
 
+
 ## Section 54
 The qualifications of any absentee voter may be challenged before the voted ballot is received. The board has the authority to determine the legality of any absentee ballot challenged under this section. Challenged ballots must be handled in accordance with chapter 29A.08 RCW.
+
 
 ## Section 55
 No person may interfere with a voter in any way within the polling place. Interfering with a voter attempting to vote is a violation of RCW 29A.84.510. This section does not prevent the voter from receiving assistance in preparing his or her ballot as specifically permitted in this chapter.
 
+
 ## Section 56
 At any election, general or special, or at any primary, any political party or committee may designate a person other than a precinct election officer, for each polling place to check a list of registered voters of the precinct to determine who has and who has not voted. The lists must be furnished by the party or committee concerned.
+
 
 ## Section 57
 Any voter may take into the voting booth or voting device any printed or written material to assist in casting his or her vote. The voter may not use this material to electioneer and must remove the material when he or she leaves the polls or the disability access voting location.
 
+
 ## Section 58
 No ballots other than those prepared by the county auditor may be used in any polling place or disability access voting location. No voter is entitled to vote more than once at a primary or a general or special election, except that if a voter incorrectly marks a ballot, he or she may return it and be issued a new ballot. The precinct election officers shall void the incorrectly marked ballot and return it to the county auditor.
+
 
 ## Section 59
 Paper records produced by electronic voting devices are subject to all the requirements of this chapter and chapter 29A.60 RCW for ballot handling, preservation, reconciliation, transit to the counting center, and storage. The paper records must be preserved in the same manner and for the same period of time as ballots.
 
+
 ## Section 60
-(1) At the direction of the county auditor, a team or teams composed of a representative of at least two major political parties must stop at designated polling places and pick up the sealed containers of voted, untallied ballots for delivery to the counting center. There may be more than one delivery from each polling place. Two precinct election officials, representing two major political parties, shall seal the voted ballots in containers furnished by the county auditor and properly identified with his or her address with uniquely prenumbered seals. Before the ballots are given to the teams of representatives, the representatives must show a government-issued photo identification card to prove their identity.
-(2) At the counting center or the collection stations where the sealed ballot containers are delivered by the designated representatives of the major political parties, the county auditor or a designated representative of the county auditor shall receive the sealed ballot containers, record the time, date, precinct name or number, and seal number of each ballot container, and ensure that the seal has not been tampered with.
+1. At the direction of the county auditor, a team or teams composed of a representative of at least two major political parties must stop at designated polling places and pick up the sealed containers of voted, untallied ballots for delivery to the counting center. There may be more than one delivery from each polling place. Two precinct election officials, representing two major political parties, shall seal the voted ballots in containers furnished by the county auditor and properly identified with his or her address with uniquely prenumbered seals. Before the ballots are given to the teams of representatives, the representatives must show a government-issued photo identification card to prove their identity.
+
+2. At the counting center or the collection stations where the sealed ballot containers are delivered by the designated representatives of the major political parties, the county auditor or a designated representative of the county auditor shall receive the sealed ballot containers, record the time, date, precinct name or number, and seal number of each ballot container, and ensure that the seal has not been tampered with.
+
 
 ## Section 61
 The county auditor must provide in each polling place a sufficient number of voting booths or voting devices along with any supplies necessary to enable the voter to mark or register the voter's choices on the ballot and within which the voters may cast their votes in secrecy.
 
+
 ## Section 62
 At all primaries and elections, general or special, in all counties the polls must be kept open from 7:00 a.m. to 8:00 p.m. All qualified electors who are in line at the polling place at 8:00 p.m. must be allowed to cast their votes. The precinct election officers shall identify the last person in line at that time. The polls for a precinct must remain open continuously until that person has voted, at which point the precinct election officers shall announce that the polls for that precinct are closed.
+
 
 ## Section 63
 A registered voter is not allowed to vote in the precinct in which the voter is registered at any election or primary for which the voter has already cast an absentee ballot. A registered voter who has requested an absentee ballot for a primary or special or general election but chooses to vote at the voter's precinct polling place in that primary or election may cast a provisional ballot. The canvassing board may not count the ballot if it finds that the voter has also voted by absentee ballot in that primary or election.
 
+
 ## Section 64
-(1) No later than the day before a primary or election, the county auditor shall provide to the inspector, or one of the judges of each precinct or to one of the inspectors of a polling place where more than one precinct will be voting, all of the ballots, precinct lists of registered voters, and other supplies necessary for conducting the election or primary.
-(2) Upon closing the registration files preceding an election, the county auditor shall deliver the precinct lists of registered voters to the inspector or one of the judges of each precinct or group of precincts located at the polling place before the polls open.
-(3) In precincts where votes are cast on paper ballots, the following supplies, in addition to those specified in subsection (1) of this section, must be provided:
-(a) Two tally books in which the names of the candidates must be listed in the order in which they appear on the sample ballots and in each case have the proper party designation at the head thereof; and
-(b) Two certificates or two sample ballots prepared as blanks, for recording the unofficial results by the precinct election officers.
+1. No later than the day before a primary or election, the county auditor shall provide to the inspector, or one of the judges of each precinct or to one of the inspectors of a polling place where more than one precinct will be voting, all of the ballots, precinct lists of registered voters, and other supplies necessary for conducting the election or primary.
+
+2. Upon closing the registration files preceding an election, the county auditor shall deliver the precinct lists of registered voters to the inspector or one of the judges of each precinct or group of precincts located at the polling place before the polls open.
+
+3. In precincts where votes are cast on paper ballots, the following supplies, in addition to those specified in subsection (1) of this section, must be provided:
+
+    a. Two tally books in which the names of the candidates must be listed in the order in which they appear on the sample ballots and in each case have the proper party designation at the head thereof; and
+
+    b. Two certificates or two sample ballots prepared as blanks, for recording the unofficial results by the precinct election officers.
+
 
 ## Section 65
-(1) Each county auditor shall provide voting and registration instructions, printed in large type, to be conspicuously displayed at each polling place and permanent registration facility.
-(2) The county auditor shall make information available for deaf persons throughout the state by telecommunications.
-(3) Each polling place must provide at least one voting unit certified by the secretary of state that provides access to individuals who are blind or visually impaired, enabling them to vote with privacy and independence.
+1. Each county auditor shall provide voting and registration instructions, printed in large type, to be conspicuously displayed at each polling place and permanent registration facility.
+
+2. The county auditor shall make information available for deaf persons throughout the state by telecommunications.
+
+3. Each polling place must provide at least one voting unit certified by the secretary of state that provides access to individuals who are blind or visually impaired, enabling them to vote with privacy and independence.
+
 
 ## Section 66
 The precinct election officers for each precinct shall meet at the designated polling place at the time set by the county auditor.
 
+
 ## Section 67
 Before opening the polls for a precinct, the voting equipment must be inspected to determine if it has been properly prepared for voting. If the voting equipment is capable of direct tabulation of each voter's choices, the precinct election officers must verify that no votes have been registered for any issue or office to be voted on at that primary or election. Every ballot box must be carefully examined by the election judges to determine that it is empty. The ballot box must then be sealed or locked with a unique numbered seal at the time of final preparation and logic and accuracy testing. A log must be made of all device numbers and seal numbers. The ballot box may not be opened before the certification of the primary or election except in the manner and for the purposes provided under this title.
+
 
 ## Section 68
 At all primaries and elections, the flag of the United States must be conspicuously displayed in front of each polling place.
 
+
 ## Section 69
 The precinct election officers, immediately before they start to issue ballots or permit a voter to vote, shall announce at the place of voting that the polls for that precinct are open.
+
 
 ## Section 70
 The precinct election officers shall periodically examine the voting devices to determine if they have been tampered with.
 
+
 ## Section 71
-(1) A voter desiring to vote must give his or her name to the precinct election officer who has the precinct list of registered voters.
-(2) Any person desiring to vote at any primary or election is required to provide valid photo identification to the election officer before being issued a ballot or being permitted to enter the voting booth. The identification required in this section must be a driver's license, state identification card, tribal identification card, or a voter identification issued by a county elections officer. A tribal identification card is not required to include a residential address or an expiration date to be considered valid under this section.
-(3) Upon receiving valid identification from the voter, the precinct election officer shall announce the voter's name to the precinct election officer who has the copy of the inspector's poll book for that precinct. If the right of this voter to participate in the primary or election is not challenged, the voter must be issued a ballot or permitted to enter a voting booth or to operate a voting device. The number of the ballot or the voter must be recorded by the precinct election officers. If the right of the voter to participate is challenged, RCW 29A.08.810 and 29A.08.820 apply to that voter.
+1. A voter desiring to vote must give his or her name to the precinct election officer who has the precinct list of registered voters.
+
+2. Any person desiring to vote at any primary or election is required to provide valid photo identification to the election officer before being issued a ballot or being permitted to enter the voting booth. The identification required in this section must be a driver's license, state identification card, tribal identification card, or a voter identification issued by a county elections officer. A tribal identification card is not required to include a residential address or an expiration date to be considered valid under this section.
+
+3. Upon receiving valid identification from the voter, the precinct election officer shall announce the voter's name to the precinct election officer who has the copy of the inspector's poll book for that precinct. If the right of this voter to participate in the primary or election is not challenged, the voter must be issued a ballot or permitted to enter a voting booth or to operate a voting device. The number of the ballot or the voter must be recorded by the precinct election officers. If the right of the voter to participate is challenged, RCW 29A.08.810 and 29A.08.820 apply to that voter.
+
 
 ## Section 72
 Provisional ballots must be issued, along with a provisional ballot outer envelope and a security envelope, to voters as appropriate under this title. The provisional ballot outer envelope must include a place for the voter's name; registered address, both present and former if applicable; date of birth; reason for the provisional ballot; the precinct number and the precinct polling location at which the voter has voted; and a space for the county auditor to list the disposition of the provisional ballot. The provisional ballot outer envelope must also contain a declaration as required for absentee ballot outer envelopes under RCW 29A.40.091; a place for the voter to sign the oath; and a summary of the applicable penalty provisions of this chapter. The voter shall vote the provisional ballot in secrecy and, when done, place the provisional ballot in the security envelope, then place the security envelope into the outer envelope, and return it to the precinct election official. The election official shall ensure that the required information is completed on the outer envelope, have the voter sign it in the appropriate space, and place the envelope in a secure container. The official shall then give the voter written information advising the voter how to ascertain whether the vote was counted and, if applicable, the reason why the vote was not counted.
 
+
 ## Section 73
-(1) Any person desiring to vote at any primary or election is required to sign his or her name on the appropriate precinct list of registered voters. If the voter registered using a mark, or can no longer sign his or her name, the election officers shall require the voter to be identified by another registered voter. The precinct election officers shall then record the voter's name.
-(2) On signing the precinct list of registered voters or being issued a ballot, the voter shall, without leaving the polling place or disability access location, proceed to one of the voting booths or voting devices to cast his or her vote. When county election procedures so provide, the election officers may tear off and retain the numbered stub from the ballot before delivering it to the voter. If an election officer has not already done so, when the voter has finished, he or she shall either (a) remove the numbered stub from the ballot, place the ballot in the ballot box, and return the number to the election officers, or (b) deliver the entire ballot to the election officers, who shall remove the numbered stub from the ballot and place the ballot in the ballot box. For a partisan primary in a jurisdiction using the physically separate ballot format, the voter shall also return unvoted party ballots to the precinct election officers, who shall void the unvoted party ballots and return them to the county auditor. If poll-site ballot counting devices are used, the voter shall put the ballot in the device.
+1. Any person desiring to vote at any primary or election is required to sign his or her name on the appropriate precinct list of registered voters. If the voter registered using a mark, or can no longer sign his or her name, the election officers shall require the voter to be identified by another registered voter. The precinct election officers shall then record the voter's name.
+
+2. On signing the precinct list of registered voters or being issued a ballot, the voter shall, without leaving the polling place or disability access location, proceed to one of the voting booths or voting devices to cast his or her vote. When county election procedures so provide, the election officers may tear off and retain the numbered stub from the ballot before delivering it to the voter. If an election officer has not already done so, when the voter has finished, he or she shall either (a) remove the numbered stub from the ballot, place the ballot in the ballot box, and return the number to the election officers, or (b) deliver the entire ballot to the election officers, who shall remove the numbered stub from the ballot and place the ballot in the ballot box. For a partisan primary in a jurisdiction using the physically separate ballot format, the voter shall also return unvoted party ballots to the precinct election officers, who shall void the unvoted party ballots and return them to the county auditor. If poll-site ballot counting devices are used, the voter shall put the ballot in the device.
+
 
 ## Section 74
-(1) A voter voting on an electronic voting device may not leave the device during the voting process, except to request assistance from the precinct election officers, until the voting process is completed.
-(2) Any voter may take printed or written material into the voting device to assist in casting his or her vote. The voter may not use this material to electioneer and must remove it when he or she leaves the polling place.
+1. A voter voting on an electronic voting device may not leave the device during the voting process, except to request assistance from the precinct election officers, until the voting process is completed.
+
+2. Any voter may take printed or written material into the voting device to assist in casting his or her vote. The voter may not use this material to electioneer and must remove it when he or she leaves the polling place.
+
 
 ## Section 75
 As each voter casts his or her vote, the precinct election officers shall insert in the poll books or precinct list of registered voters opposite that voter's name, a notation to credit the voter with having participated in that primary or election. No record may be made of a voter's party affiliation in a partisan primary. The precinct election officers shall record the voter's name so that a separate record is kept.
 
+
 ## Section 76
-(1) Voting must be secret except to the extent necessary to assist sensory or physically disabled voters.
-(2) If any voter declares in the presence of the election officers that because of sensory or physical disability he or she is unable to register or record his or her vote, he or she may designate a person of his or her choice or two election officers from opposite political parties to enter the voting machine booth with him or her and record his or her vote as he or she directs.
-(3) A person violating this section is guilty of a misdemeanor.
+1. Voting must be secret except to the extent necessary to assist sensory or physically disabled voters.
+
+2. If any voter declares in the presence of the election officers that because of sensory or physical disability he or she is unable to register or record his or her vote, he or she may designate a person of his or her choice or two election officers from opposite political parties to enter the voting machine booth with him or her and record his or her vote as he or she directs.
+
+3. A person violating this section is guilty of a misdemeanor.
+
 
 ## Section 77
-(1) Paper ballots may be tabulated at the precinct polling place before the closing of the polls. The tabulation of ballots, paper or otherwise, must be open to the public, but no persons except those employed and authorized by the county auditor may touch a ballot card or ballot container or operate vote tallying equipment.
-(2) The results of the tabulation of paper ballots at the polls must be delivered to the county auditor as soon as the tabulation is complete.
+1. Paper ballots may be tabulated at the precinct polling place before the closing of the polls. The tabulation of ballots, paper or otherwise, must be open to the public, but no persons except those employed and authorized by the county auditor may touch a ballot card or ballot container or operate vote tallying equipment.
+
+2. The results of the tabulation of paper ballots at the polls must be delivered to the county auditor as soon as the tabulation is complete.
+
 
 ## Section 78
-(1) An individual who votes in an election for federal office as a result of a federal or state court order or any other order extending the time for closing the polls may vote in that election only by casting a provisional ballot. As to court orders extending the time for closing the polls, this section does not apply to any voters who were present in the polling place at the statutory closing time and are permitted to vote under this chapter. This section does not, by itself, authorize any court to order that any individual be permitted to vote or to extend the time for closing the polls, but this section is intended to comply with 52 U.S.C. Sec. 21082(c) with regard to federal elections.
-(2) Any ballot cast under subsection (1) of this section must be separated and held apart from other provisional ballots cast by those not affected by the order.
+1. An individual who votes in an election for federal office as a result of a federal or state court order or any other order extending the time for closing the polls may vote in that election only by casting a provisional ballot. As to court orders extending the time for closing the polls, this section does not apply to any voters who were present in the polling place at the statutory closing time and are permitted to vote under this chapter. This section does not, by itself, authorize any court to order that any individual be permitted to vote or to extend the time for closing the polls, but this section is intended to comply with 52 U.S.C. Sec. 21082(c) with regard to federal elections.
+
+2. Any ballot cast under subsection (1) of this section must be separated and held apart from other provisional ballots cast by those not affected by the order.
+
 
 ## Section 79
 At each precinct immediately after the last qualified voter has cast his or her vote, the precinct election officers shall render unusable and secure in a container all unused ballots for that precinct and return them to the county auditor.
 
+
 ## Section 80
 Immediately after the unused ballots are secure, the precinct election officers shall count the number of voted ballots and make a record of any discrepancy between this number and the number of voters who signed the poll book for that precinct or polling place, complete the certifications in the poll book, prepare the ballots for transfer to the counting center if necessary, and seal the voting devices.
+
 
 ## Section 81
 The precinct list of registered voters for each precinct or group of precincts delivered to the precinct election officers for use on the day of an election held in that precinct shall be returned by them to the county auditor upon the completion of the count of the votes cast in the precinct at that election. While in possession of the county auditor they shall be open to public inspection under such reasonable rules and regulations as may be prescribed therefor.
 
+
 ## Section 82
 In precincts where poll-site ballot counting devices are used, the election officers, before initializing the device for voting, must proceed as follows:
-(1) They must verify that the device is placed where it can be conveniently attended by the election officers and conveniently operated by the voters;
-(2) They must verify that the number or other designating mark on the device's seal agrees with the control number provided by the elections department. If the numbers do not agree, the officers must at once notify the elections department and delay initializing the device. The polls may be opened pending reexamination of the device;
-(3) If the numbers do agree, the officers shall proceed to initialize the device and verify that the public counter registers "000." If the counter is found to register a number other than "000," one of the judges must at once set the counter at "000" and confirm that the ballot box is empty;
-(4) Before processing any ballots through a poll-site ballot counting device, a zero report must be produced. The inspector and at least one of the judges must carefully verify that zero ballots have been run through the poll-site ballot counting device and that all vote totals for each office are zero. If the totals are not zero, the inspector must either reset the device to zero or contact the elections department to reset the device and allow voting to continue using the auxiliary or emergency device.
+
+1. They must verify that the device is placed where it can be conveniently attended by the election officers and conveniently operated by the voters;
+
+2. They must verify that the number or other designating mark on the device's seal agrees with the control number provided by the elections department. If the numbers do not agree, the officers must at once notify the elections department and delay initializing the device. The polls may be opened pending reexamination of the device;
+
+3. If the numbers do agree, the officers shall proceed to initialize the device and verify that the public counter registers "000." If the counter is found to register a number other than "000," one of the judges must at once set the counter at "000" and confirm that the ballot box is empty;
+
+4. Before processing any ballots through a poll-site ballot counting device, a zero report must be produced. The inspector and at least one of the judges must carefully verify that zero ballots have been run through the poll-site ballot counting device and that all vote totals for each office are zero. If the totals are not zero, the inspector must either reset the device to zero or contact the elections department to reset the device and allow voting to continue using the auxiliary or emergency device.
+
 
 ## Section 83
 Whenever poll-site ballot counting devices are used, the devices may either be included with the supplies required in this chapter or they may be delivered to the polling place separately. All poll-site ballot counting devices must be sealed with a unique numbered seal at the time of final preparation and logic and accuracy testing. A log must be made of all seal numbers and device numbers used.
 
+
 ## Section 84
 The programmed memory pack for each poll-site ballot counting device must be sealed into the device during final preparation and logic and accuracy testing. Except in the case of a device breakdown, the memory pack must remain sealed in the device until after the polls have closed and all reports and telephonic or electronic transfer of results are completed. After all reporting is complete, the precinct election officers responsible for transferring the sealed voted ballots under RCW 29A.60.110 must ensure that the memory pack is returned to the elections department. If the entire poll-site ballot counting device is returned, the memory pack must remain sealed in the device. If the poll-site ballot counting device is to remain at the polling place, the precinct election officer shall break the seal on the device and remove the memory pack and seal and return it along with the irregularly voted ballots and special ballots to the elections department on election day.
+
 
 ## Section 85
 Each poll-site ballot counting device must be programmed to return all blank ballots and overvoted ballots to the voter for private reexamination. The election officer must take whatever steps are necessary to ensure that the secrecy of the ballot is maintained. The precinct election officer must provide information and instruction on how to properly mark the ballot. The voter may remark the original ballot, request a new ballot under this chapter, or choose to complete a special ballot envelope and return the ballot as a special ballot.
 
+
 ## Section 86
 If a poll-site ballot counting device fails to operate at any time during polling hours or disability access voting hours, voting must continue, and the ballots must be deposited for later tabulation in a secure ballot compartment separate from the tabulated ballots.
 
+
 ## Section 87
-(1) At least 10 days prior to any primary or election, general or special, the county auditor shall appoint one inspector and two judges of election for each precinct or each combination of precincts temporarily consolidated as a single precinct for that primary or election. Except as provided in subsection (4) of this section, the persons appointed must be among those whose names are contained on the lists furnished by the chairpersons of the county central committees of the political parties entitled to representation thereon. Such precinct election officers, whenever possible, should be residents of the precinct in which they serve.
-(2) The county auditor may delete from the lists of names submitted to the auditor by the chairpersons of the county central committees:
-(a) The names of those persons who indicate to the auditor that they cannot or do not wish to serve as precinct election officers for the primary or election or who otherwise cannot so serve; and
-(b) The names of those persons who lack the ability to conduct properly the duties of an inspector or judge of election after training in that proper conduct has been made available to them by the auditor.
-(3) The lists which are submitted to the auditor in a timely manner under this chapter, less the deletions authorized by this section, constitute the official nomination lists for inspectors and judges of election.
-(4) If the number of persons whose names are on the official nomination list for a political party is not sufficient to satisfy the requirements of subsection (5) of this section as it applies to that political party or is otherwise insufficient to provide the number of precinct election officials required from that political party, the auditor must notify the chair of the party's county central committee regarding the deficiency. The chair may, within five business days of being notified by the auditor, add to the party's nomination list the names of additional persons belonging to that political party who are qualified to serve on the election boards. To the extent that, following this procedure, the number of persons whose names appear on the official nomination lists of the political parties is insufficient to provide the number of election inspectors and judges required for a primary or election, the auditor may appoint a properly trained person whose name does not appear on such a list as an inspector or judge of election for a precinct.
-(5) The county auditor shall designate the inspector and one judge in each precinct from that political party which polled the highest number of votes in the county for its candidate for president at the last preceding presidential election and one judge from that political party polling the next highest number of votes in the county for its candidate for president at the same election. The provisions of this subsection apply only if the number of names on the official nomination list for inspectors and judges of election for a political party is sufficient to satisfy the requirements imposed by this subsection.
+1. At least 10 days prior to any primary or election, general or special, the county auditor shall appoint one inspector and two judges of election for each precinct or each combination of precincts temporarily consolidated as a single precinct for that primary or election. Except as provided in subsection (4) of this section, the persons appointed must be among those whose names are contained on the lists furnished by the chairpersons of the county central committees of the political parties entitled to representation thereon. Such precinct election officers, whenever possible, should be residents of the precinct in which they serve.
+
+2. The county auditor may delete from the lists of names submitted to the auditor by the chairpersons of the county central committees:
+
+    a. The names of those persons who indicate to the auditor that they cannot or do not wish to serve as precinct election officers for the primary or election or who otherwise cannot so serve; and
+
+    b. The names of those persons who lack the ability to conduct properly the duties of an inspector or judge of election after training in that proper conduct has been made available to them by the auditor.
+
+3. The lists which are submitted to the auditor in a timely manner under this chapter, less the deletions authorized by this section, constitute the official nomination lists for inspectors and judges of election.
+
+4. If the number of persons whose names are on the official nomination list for a political party is not sufficient to satisfy the requirements of subsection (5) of this section as it applies to that political party or is otherwise insufficient to provide the number of precinct election officials required from that political party, the auditor must notify the chair of the party's county central committee regarding the deficiency. The chair may, within five business days of being notified by the auditor, add to the party's nomination list the names of additional persons belonging to that political party who are qualified to serve on the election boards. To the extent that, following this procedure, the number of persons whose names appear on the official nomination lists of the political parties is insufficient to provide the number of election inspectors and judges required for a primary or election, the auditor may appoint a properly trained person whose name does not appear on such a list as an inspector or judge of election for a precinct.
+
+5. The county auditor shall designate the inspector and one judge in each precinct from that political party which polled the highest number of votes in the county for its candidate for president at the last preceding presidential election and one judge from that political party polling the next highest number of votes in the county for its candidate for president at the same election. The provisions of this subsection apply only if the number of names on the official nomination list for inspectors and judges of election for a political party is sufficient to satisfy the requirements imposed by this subsection.
+
 
 ## Section 88
 At the same time the officer having jurisdiction of the election appoints the inspector and two judges as provided in section 87 of this act, he or she may appoint one or more persons to act as clerks if in his or her judgment such additional persons are necessary, except that in precincts in which voting machines are used, the judges of election shall perform the duties required to be performed by clerks. Each clerk appointed shall represent a major political party. The political party representation of a single set of precinct election officers shall, whenever possible, be equal but, in any event, no single political party shall be represented by more than a majority of one at each polling place. The election officer having jurisdiction of the election may designate at what hour the clerks must report for duty. The hour may vary among the precincts according to the judgment of the appointing officer.
 
+
 ## Section 89
 The precinct committee officer of each major political party shall certify to the officer's county chair a list of those persons belonging to the officer's political party qualified to act upon the election board in the officer's precinct. By the first day of June each year, the chair of the county central committee of each major political party shall certify to the officer having jurisdiction of the election a list of those persons belonging to the county chair's political party in each precinct who are qualified to act on the election board therein. The county chair shall compile this list from the names certified by the various precinct committee officers unless no names or not a sufficient number of names have been certified from a precinct, in which event the county chair may include therein the names of qualified members of the county chair's party selected by the county chair. The county chair shall also have the authority to substitute names of persons recommended by the precinct committee officers if in the judgment of the county chair such persons are not qualified to serve as precinct election officers.
+
 
 ## Section 90
 If no election officers have been appointed for a precinct, or if at the hour for opening the polls none of those appointed is present at the polling place therein, the county auditor may appoint the election board for that precinct. One of the judges may perform the duties of clerk of election. The inspector shall have the power to fill any vacancy that may occur in the board of judges, or by absence or refusal to serve of either of the clerks after the polls shall have been opened.
 
+
 ## Section 91
 There must be just one set of election officers at any one time in each precinct, except as provided in this section. In every precinct using paper ballots having 200 or more registered voters there shall be appointed, and in every precinct having less than 200 registered voters, there may be appointed, at a state primary or state general election, two or more sets of precinct election officers as provided in this chapter. The officer in charge of the election may appoint one or more counting boards at his or her discretion, when he or she decides that because of a long or complicated ballot or because of the number of expected voters, there is need of additional counting board or boards to improve the speed and accuracy of the count. In making such appointments, one or more sets of precinct election officers shall be designated as the counting board or boards, the first of which shall consist of an inspector, two judges, and a clerk and the second set, if activated, shall consist of two judges and two clerks. The duties of the counting board or boards shall be the count of ballots cast and the return of the election records and supplies to the officer having jurisdiction of the election. One set of precinct election officers shall be designated as the receiving board which shall have all other powers and duties imposed by law for such elections. Nothing in this section prevents the county auditor from appointing relief or replacement precinct election officers at any time during election day. Relief or replacement precinct election officers must be of the same political party as the officer they are relieving or replacing.
+
 
 ## Section 92
 The inspector and judges of election in each precinct shall conduct the elections therein and receive, deposit, and count the ballots cast thereat and make returns to the proper canvassing board or officer except that when two or more sets of precinct election officers are appointed, the ballots shall be counted by the counting board or boards as provided in this title and RCW 29A.84.730.
 
+
 ## Section 93
 All of the provisions of this chapter relating to counting boards may be applied on an optional basis to any other primary or election, regular or special, at the discretion of the officer in charge of the election.
+
 
 ## Section 94
 The inspector is the chair of the board and is responsible for administering all necessary oaths that may be required in the progress of the election.
 
+
 ## Section 95
-(1) The inspector, judges, and clerks of election, before entering upon the duties of their offices, must take and subscribe the prescribed oath or affirmation, as administered to them by any person authorized to administer oaths and verified under the hand of the person by whom such oath or affirmation is administered. If no such person is present, the inspector must administer the same to the judges and clerks, and one of the judges must administer the oath to the inspector. The county auditor shall furnish two copies of the proper form of oath to each precinct election officer, one copy thereof, after execution, to be placed and transmitted with the election returns.
-(2) The following is the form of the oath or affirmation to be taken by each inspector: "I, (full name), do swear (or affirm) that I will duly attend to the ensuing election, during the continuance thereof, as an inspector, and that I will not receive any ballot or vote from any person other than such as I firmly believe to be entitled to vote at such election, without requiring such evidence of the right to vote as is directed by law; nor will I vexatiously delay the vote of, or refuse to receive, a ballot from any person whom I believe to be entitled to vote; but that I will in all things truly, impartially, and faithfully perform my duty therein to the best of my judgment and abilities; and that I am not, directly nor indirectly, interested in any bet or wager on the result of this election."
-(3) The following is the form of the oath to be taken by the judges: "We, (full name), do swear (or affirm) that we will as judges duly attend the ensuing election, during the continuance thereof, and faithfully assist the inspector in carrying on the same; that we will not give our consent to the receipt of any vote or ballot from any person, other than one whom we firmly believe to be entitled to vote at such election; and that we will make a true and perfect return of the said election and will in all things truly, impartially, and faithfully perform our duty respecting the same to the best of our judgment and abilities; and that we are not directly nor indirectly interested in any bet or wager on the result of this election."
-(4) The following is the form of the oath to be taken by the clerks: "We, and each of us, (full name), do swear (or affirm) that we will impartially and truly write down the name of each elector who votes at the ensuing election, and also the name of the county and precinct wherein the elector resides; that we will carefully and truly write down the number of votes given for each candidate at the election as often as his or her name is read to us by the inspector and in all things truly and faithfully perform our duty respecting the same to the best of our judgment and abilities, and that we are not directly nor indirectly interested in any bet or wager on the result of this election."
+1. The inspector, judges, and clerks of election, before entering upon the duties of their offices, must take and subscribe the prescribed oath or affirmation, as administered to them by any person authorized to administer oaths and verified under the hand of the person by whom such oath or affirmation is administered. If no such person is present, the inspector must administer the same to the judges and clerks, and one of the judges must administer the oath to the inspector. The county auditor shall furnish two copies of the proper form of oath to each precinct election officer, one copy thereof, after execution, to be placed and transmitted with the election returns.
+
+2. The following is the form of the oath or affirmation to be taken by each inspector: "I, (full name), do swear (or affirm) that I will duly attend to the ensuing election, during the continuance thereof, as an inspector, and that I will not receive any ballot or vote from any person other than such as I firmly believe to be entitled to vote at such election, without requiring such evidence of the right to vote as is directed by law; nor will I vexatiously delay the vote of, or refuse to receive, a ballot from any person whom I believe to be entitled to vote; but that I will in all things truly, impartially, and faithfully perform my duty therein to the best of my judgment and abilities; and that I am not, directly nor indirectly, interested in any bet or wager on the result of this election."
+
+3. The following is the form of the oath to be taken by the judges: "We, (full name), do swear (or affirm) that we will as judges duly attend the ensuing election, during the continuance thereof, and faithfully assist the inspector in carrying on the same; that we will not give our consent to the receipt of any vote or ballot from any person, other than one whom we firmly believe to be entitled to vote at such election; and that we will make a true and perfect return of the said election and will in all things truly, impartially, and faithfully perform our duty respecting the same to the best of our judgment and abilities; and that we are not directly nor indirectly interested in any bet or wager on the result of this election."
+
+4. The following is the form of the oath to be taken by the clerks: "We, and each of us, (full name), do swear (or affirm) that we will impartially and truly write down the name of each elector who votes at the ensuing election, and also the name of the county and precinct wherein the elector resides; that we will carefully and truly write down the number of votes given for each candidate at the election as often as his or her name is read to us by the inspector and in all things truly and faithfully perform our duty respecting the same to the best of our judgment and abilities, and that we are not directly nor indirectly interested in any bet or wager on the result of this election."
+
 
 ## Section 96
 The fees of officers of election shall be as follows:
-(1) To the judges and clerks of an election not less than the minimum hourly wage per hour as provided under RCW 49.46.020, the exact amount to be fixed by the respective boards of county commissioners for each county.
-(2) To inspectors, the rate paid to judges and clerks plus an additional two hours' compensation.
-(3) The precinct election officer picking up the election supplies and returning the election returns to the county auditor shall be entitled to additional compensation, the exact amount to be determined by the respective boards of county commissioners for each county.
+
+1. To the judges and clerks of an election not less than the minimum hourly wage per hour as provided under RCW 49.46.020, the exact amount to be fixed by the respective boards of county commissioners for each county.
+
+2. To inspectors, the rate paid to judges and clerks plus an additional two hours' compensation.
+
+3. The precinct election officer picking up the election supplies and returning the election returns to the county auditor shall be entitled to additional compensation, the exact amount to be determined by the respective boards of county commissioners for each county.
+

@@ -51,6 +51,12 @@ For all voter registrations, the registrant shall sign the following oath:
 6. For purposes of this section, "prepaid postage" means any method of return postage paid by the county or state.
 
 
+## Section 4
+> This section adds a new section to an existing chapter [29A.04](/rcw/29A_elections/29A.04_general_provisions.md). Here is the [modified chapter](rcw/29A_elections/29A.04_general_provisions.md) for context.
+
+"Total confinement" has the same meaning as in RCW 9.94A.030, but a sentence of total confinement does not include confinement imposed as a sanction for a community custody violation under RCW 9.94A.633(1).
+
+
 ## Section 5
 > This section modifies existing section [10.64.140](/rcw/10_criminal_procedure/10.064_judgments_and_sentences.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.064_judgments_and_sentences.md) for context.
 

@@ -3,58 +3,147 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5115.xml)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Assisted living facility" has the same meaning as in RCW 18.20.020.
-(2) "Child care provider" means a provider who receives compensation for providing child care services on a regular basis, including an eligible child care provider as defined in 42 U.S.C. Sec. 9858n, as of the effective date of this section.
-(3) "Child of the employee" is a child under the age of 18 and includes a biological, adopted, or foster child, a stepchild, a child's spouse, or a child to whom the employee stands in loco parentis, is a legal guardian, or is a de facto parent.
-(4) "Department" means the department of labor and industries.
-(5) "Employee" has the same meaning as in RCW 49.46.010.
-(6) "Employer" means any person, firm, corporation, partnership, business trust, legal representative, or other business entity which engages in any business, industry, profession, or activity in this state and employs 50 or more employees.
-(7) "Family member" has the same meaning as in RCW 49.46.210.
-(8) "Farm work" means work performed on a farm, in the employ of any person, in connection with the cultivation of the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and furbearing animals and wildlife, or in the employ of the owner or tenant or other operator of a farm in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment. For the purposes of this subsection, "farm work" includes floriculture.
-(9) "Food distribution work" means work where the primary duties include transporting food from food producers or manufacturers to food warehouses or food service operators and retailers.
-(10) "Food manufacturing work" means work performed for an employer whose North American industry classification code is within "311."
-(11) "Food processing work" means work handling or processing of any food in any manner of preparation for sale for an employer required to be licensed by the department of agriculture under chapter 69.07 RCW.
-(12) "Frontline employee" includes the following employees:
-(a) First responders, including law enforcement officers, firefighters, emergency medical service providers, paramedics, and ambulance drivers;
-(b) Employees employed at a hospital, health care facility, nursing home, or assisted living facility who interact in person with patients or other members of the general public as part of their job duties;
-(c) Employees performing food processing, food manufacturing, food distribution, farm, and meat packing work;
-(d) Maintenance, janitorial, and food service workers at any facility treating patients diagnosed with the infectious or contagious disease that is the subject of the public health emergency;
-(e) Drivers and operators employed by a transit agency or any other public entity authorized under state law to provide mass transportation services to the general public;
-(f) Employees working at a child care facility licensed by the department of children, youth, and families under chapter 43.216 RCW, if the employee has in-person interaction with children or other members of the general public as part of their job duties;
-(g) Employees employed by a retail store that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees. For the purposes of this subsection, "retail store" means a business whose North American industry classification code is within "44-45;"
-(h) Employees employed by a hotel, motel, or other transient accommodation licensed under chapter 70.62 RCW that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees;
-(i) Employees employed by a restaurant, if the employee has in-person interaction with the general public as part of their job duties or works in the kitchen of the restaurant and has in-person interaction with other employees. For the purposes of this subsection, "restaurant" has the same meaning as in RCW 66.04.010;
-(j) Home care aides certified under chapter 18.88B RCW and home health aides that provide services under chapter 70.126 RCW that primarily work in the home of the individual receiving care;
-(k)(i) Corrections officers and correctional support employees working at a correctional institution.
-(ii) For the purposes of this subsection (12)(k):
+
+1. "Assisted living facility" has the same meaning as in RCW 18.20.020.
+
+2. "Child care provider" means a provider who receives compensation for providing child care services on a regular basis, including an eligible child care provider as defined in 42 U.S.C. Sec. 9858n, as of the effective date of this section.
+
+3. "Child of the employee" is a child under the age of 18 and includes a biological, adopted, or foster child, a stepchild, a child's spouse, or a child to whom the employee stands in loco parentis, is a legal guardian, or is a de facto parent.
+
+4. "Department" means the department of labor and industries.
+
+5. "Employee" has the same meaning as in RCW 49.46.010.
+
+6. "Employer" means any person, firm, corporation, partnership, business trust, legal representative, or other business entity which engages in any business, industry, profession, or activity in this state and employs 50 or more employees.
+
+7. "Family member" has the same meaning as in RCW 49.46.210.
+
+8. "Farm work" means work performed on a farm, in the employ of any person, in connection with the cultivation of the soil, or in connection with raising or harvesting any agricultural or horticultural commodity, including raising, shearing, feeding, caring for, training, and management of livestock, bees, poultry, and furbearing animals and wildlife, or in the employ of the owner or tenant or other operator of a farm in connection with the operation, management, conservation, improvement, or maintenance of such farm and its tools and equipment. For the purposes of this subsection, "farm work" includes floriculture.
+
+9. "Food distribution work" means work where the primary duties include transporting food from food producers or manufacturers to food warehouses or food service operators and retailers.
+
+10. "Food manufacturing work" means work performed for an employer whose North American industry classification code is within "311."
+
+11. "Food processing work" means work handling or processing of any food in any manner of preparation for sale for an employer required to be licensed by the department of agriculture under chapter 69.07 RCW.
+
+12. "Frontline employee" includes the following employees:
+
+    a. First responders, including law enforcement officers, firefighters, emergency medical service providers, paramedics, and ambulance drivers;
+
+    b. Employees employed at a hospital, health care facility, nursing home, or assisted living facility who interact in person with patients or other members of the general public as part of their job duties;
+
+    c. Employees performing food processing, food manufacturing, food distribution, farm, and meat packing work;
+
+    d. Maintenance, janitorial, and food service workers at any facility treating patients diagnosed with the infectious or contagious disease that is the subject of the public health emergency;
+
+    e. Drivers and operators employed by a transit agency or any other public entity authorized under state law to provide mass transportation services to the general public;
+
+    f. Employees working at a child care facility licensed by the department of children, youth, and families under chapter 43.216 RCW, if the employee has in-person interaction with children or other members of the general public as part of their job duties;
+
+    g. Employees employed by a retail store that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees. For the purposes of this subsection, "retail store" means a business whose North American industry classification code is within "44-45;"
+
+    h. Employees employed by a hotel, motel, or other transient accommodation licensed under chapter 70.62 RCW that remains open to the general public during the public health emergency, if the employee has in-person interaction with the general public as part of their job duties or has in-person interaction with other employees;
+
+    i. Employees employed by a restaurant, if the employee has in-person interaction with the general public as part of their job duties or works in the kitchen of the restaurant and has in-person interaction with other employees. For the purposes of this subsection, "restaurant" has the same meaning as in RCW 66.04.010;
+
+    j. Home care aides certified under chapter 18.88B RCW and home health aides that provide services under chapter 70.126 RCW that primarily work in the home of the individual receiving care;
+
+    k. [Empty]
+
+        i. Corrections officers and correctional support employees working at a correctional institution.
+
+        ii. For the purposes of this subsection (12)(k):
+
 (A) "Correctional institution" has the same meaning as in RCW 9.94.049.
+
 (B) "Corrections officer" means any corrections agency employee whose primary job function is to provide custody, safety, and security of prisoners in jails and detention facilities.
+
 (C) "Correctional support employee" means any employee who provides food services or janitorial services in a correctional institution;
-(l) Educational employees, including classroom teachers, paraeducators, principals, librarians, and other educational support staff, of any school district that are required to be physically present at a school where classes are being taught in person, if the employee has in-person interaction with students or other employees as part of their job duties;
-(m) Employees of institutions of higher education that are required to be physically present on campus when classes are being taught in person, if the employee has in-person interaction with students or the general public as part of their job duties. For the purposes of this subsection, "institution of higher education" has the same meaning as in RCW 28B.10.016;
-(13) "Health care facility" has the same meaning as in RCW 9A.50.010.
-(14) "Health emergency pay" means an additional sum equal to 25 percent of the state's minimum wage, as established under RCW 49.46.020, that is added to the employee's pay for each hour worked.
-(15) "Lower paid frontline employees" means those employees who earn less than the state's minimum wage, plus one dollar, and who are frontline employees.
-(16) "Meat packing work" means work slaughtering animals and processing and packaging meat products for sale and the rendering of animal by-products.
-(17) "Nursing home" means a nursing home licensed under chapter 18.51 RCW.
-(18) "Public health emergency" means a declaration or order that covers the jurisdiction where the individual or business performs work concerning any infectious or contagious diseases, including a pandemic and is issued as follows:
-(a) The president of the United States has declared a national or regional emergency; or
-(b) The governor of Washington has declared a state of emergency under RCW 43.06.010(12).
-(19) "School" has the same meaning as in RCW 28A.210.070.
-(20) "State minimum wage" means the most recent minimum wage in effect pursuant to RCW 49.46.020.
+
+    l. Educational employees, including classroom teachers, paraeducators, principals, librarians, and other educational support staff, of any school district that are required to be physically present at a school where classes are being taught in person, if the employee has in-person interaction with students or other employees as part of their job duties;
+
+    m. Employees of institutions of higher education that are required to be physically present on campus when classes are being taught in person, if the employee has in-person interaction with students or the general public as part of their job duties. For the purposes of this subsection, "institution of higher education" has the same meaning as in RCW 28B.10.016;
+
+13. "Health care facility" has the same meaning as in RCW 9A.50.010.
+
+14. "Health emergency pay" means an additional sum equal to 25 percent of the state's minimum wage, as established under RCW 49.46.020, that is added to the employee's pay for each hour worked.
+
+15. "Lower paid frontline employees" means those employees who earn less than the state's minimum wage, plus one dollar, and who are frontline employees.
+
+16. "Meat packing work" means work slaughtering animals and processing and packaging meat products for sale and the rendering of animal by-products.
+
+17. "Nursing home" means a nursing home licensed under chapter 18.51 RCW.
+
+18. "Public health emergency" means a declaration or order that covers the jurisdiction where the individual or business performs work concerning any infectious or contagious diseases, including a pandemic and is issued as follows:
+
+    a. The president of the United States has declared a national or regional emergency; or
+
+    b. The governor of Washington has declared a state of emergency under RCW 43.06.010(12).
+
+19. "School" has the same meaning as in RCW 28A.210.070.
+
+20. "State minimum wage" means the most recent minimum wage in effect pursuant to RCW 49.46.020.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [51.32](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. For frontline employees who are covered under this title, there exists a prima facie presumption that any infectious or contagious diseases which are the subject of a public health emergency are occupational diseases under RCW 51.08.140 during a public health emergency.
+
+2. The frontline employee must provide verification, as required by the department by rule, to the department and the self-insured employer that the employee has contracted the infectious or contagious disease that is the subject of the public health emergency.
+
+3. This presumption of occupational disease may be rebutted by clear and convincing evidence that:
+
+    a. The exposure to the infectious or contagious disease which is the subject of the public health emergency occurred from other employment or nonemployment activities; or
+
+    b. The employee was working from the employee's home, on leave from the employee's employment, or some combination thereof, for a period of 14 or more consecutive days immediately prior to the employee's injury, occupational disease, or period of incapacity resulted from exposure to the disease which is the subject of the public health emergency.
+
+4. RCW 51.32.090(7) does not apply to an occupational disease under this section except that no worker shall receive compensation for or during the day on which the occupational disease was contracted. For the purposes of this section, "contracted" means whichever date occurs first of the following:
+
+    a. The date that the worker first missed work due to symptoms of the infectious or contagious disease;
+
+    b. The date the worker was quarantined by a medical provider or public health official; or
+
+    c. The date the worker received a positive test result confirming contraction of the infectious or contagious disease.
+
+5. [Empty]
+
+    a. When a determination involving the presumption established in this section is appealed to the board of industrial insurance appeals and the final decision allows the claim of benefits, the board of industrial insurance appeals shall order that all reasonable costs of the appeal, including attorneys' fees and witness fees, be paid to the worker or the worker's beneficiary by the opposing party. If the opposing party is a state fund employer, the costs and fees are paid by the employer.
+
+    b. When a determination involving the presumption established in this section is appealed to any court and the final decision allows the claim for benefits, the court shall order that all reasonable costs of appeal, including attorneys' fees and witness fees, be paid to the worker or the worker's beneficiary by the opposing party.
+
+    c. When reasonable costs of the appeal must be paid by the department under this section in a state fund case, the costs shall be paid from the accident fund and charged to the costs of the claim.
+
+6. Costs of the payments under this section shall not affect the experience rating of employers insured by the state fund. These costs shall be paid from the accident fund.
+
+7. As used in this section:
+
+    a. "Frontline employee" has the same meaning as in section 1 of this act.
+
+    b. "Public health emergency" has the same meaning as in section 1 of this act.
+
 
 ## Section 3
-(1) During a public health emergency, if an employer requires its employees or contractors to wear personal protective equipment, such as gloves, goggles, face shields, or face masks, the employer must provide the required equipment at no cost to the employees.
-(2) Every employer that does not have a requirement for its employees and contractors to wear personal protective equipment subject to subsection (1) of this section, must accommodate its employee's or contractor's voluntary use of protective devices or equipment, including gloves, goggles, face shields, and face masks, as the employee or contractor deems necessary, during a public health emergency, as long as:
-(a) The use of these protective devices and equipment does not introduce hazards to the work environment and is consistent with the provisions of chapter 49.17 RCW and corresponding rules established by the department, as of the effective date of this section; and
-(b) The use of facial coverings does not interfere with an employer's security requirements.
-(3) An employer may not apply to the director of the department, under RCW 49.17.080, for a temporary order granting a variance from this section.
-(4) For the purposes of this section, "public health emergency" has the same meaning as in section 1 of this act.
+1. During a public health emergency, if an employer requires its employees or contractors to wear personal protective equipment, such as gloves, goggles, face shields, or face masks, the employer must provide the required equipment at no cost to the employees.
+
+2. Every employer that does not have a requirement for its employees and contractors to wear personal protective equipment subject to subsection (1) of this section, must accommodate its employee's or contractor's voluntary use of protective devices or equipment, including gloves, goggles, face shields, and face masks, as the employee or contractor deems necessary, during a public health emergency, as long as:
+
+    a. The use of these protective devices and equipment does not introduce hazards to the work environment and is consistent with the provisions of chapter 49.17 RCW and corresponding rules established by the department, as of the effective date of this section; and
+
+    b. The use of facial coverings does not interfere with an employer's security requirements.
+
+3. An employer may not apply to the director of the department, under RCW 49.17.080, for a temporary order granting a variance from this section.
+
+4. For the purposes of this section, "public health emergency" has the same meaning as in section 1 of this act.
+
 
 ## Section 4
 During a public health emergency, no person shall discharge or in any manner discriminate against any employee who:
-(1) Raises a reasonable concern to the employer, the employer's agent, other employees, the employee's family, a government agency, or the public, including concerns raised through print, online, social, or any other media about infection control in the workplace of any disease that is the subject of the public health emergency; or
-(2) Files any written notice or institutes or causes to be instituted any proceeding pursuant to section 7 of this act or has testified or is about to testify in any such proceeding.
+
+1. Raises a reasonable concern to the employer, the employer's agent, other employees, the employee's family, a government agency, or the public, including concerns raised through print, online, social, or any other media about infection control in the workplace of any disease that is the subject of the public health emergency; or
+
+2. Files any written notice or institutes or causes to be instituted any proceeding pursuant to section 7 of this act or has testified or is about to testify in any such proceeding.
+
 
 ## Section 5
 > This section modifies existing section [49.58.060](/rcw/49_labor_regulations/49.58_washington_equal_pay_and_opportunities_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.58_washington_equal_pay_and_opportunities_act.md) for context.
@@ -87,32 +176,84 @@ During a public health emergency, no person shall discharge or in any manner dis
 
 
 ## Section 7
-(1)(a) A relator, on behalf of the department, and in the name of the department, may bring a whistleblower action in court for violations of section 4 of this act, including equitable relief, penalties, and any relief specified in rule. The granting of relief shall be subject to the same conditions and limitations that apply to the department, including any requirements for conference and conciliation and any conditions and limitations specified in rule, including penalty amounts. The action may allege multiple violations that have affected different employees aggrieved by the same employer. The relator must follow the procedures specified in subsection (2) of this section.
-(b) A relator that prevails in a whistleblower action is entitled to an award of reasonable attorneys' fees and costs.
-(c) No whistleblower action may be brought if the department, regarding the same facts as alleged in the whistleblower action, issued a citation or notice of assessment, or otherwise resolved the complaint.
-(d) A whistleblower action must be commenced within the same period of time that the department would have to take action based on the same set of alleged facts. The statute of limitations for bringing a whistleblower action is tolled from the date a relator files a notice with the department or the date the department commences an investigation.
-(e) The requirements of Rule 23 of the superior court rules of civil procedure do not apply to a whistleblower action brought under this section.
-(f) The right to bring a whistleblower action under this section may not be impaired by any private agreement.
-(g) A whistleblower action is a public action and does not preclude a cause of action by an individual or individuals or operate as an estoppel for relief based on the same set of alleged facts, except that a court may not permit a double recovery.
-(h) An employee of the entity alleged to have violated section 4 of this act may designate in writing a representative organization to initiate a whistleblower action on the person's behalf.
-(2)(a) No action under subsection (1) of this section may be commenced before written notice of the claim has been submitted by the relator to the department via online submission and the relator has notified the employer by certified mail. The notice must be construed in the light most favorable to the relator, and must include the name, address, and contact information of the alleged violator; the name and contact information of the relator or the relator's legal counsel, should one exist; and a brief statement of the underlying claim.
-(b) Within 30 days of receiving the notification under subsection (1) of this section from the relator, the department must notify the relator of its intent to investigate or not investigate the alleged violation. If the department intends to investigate the alleged violation, it must make a determination within 90 days of receiving the notice under subsection (1) of this section. Upon receiving notice that the department does not intend to investigate, or if the department does not make a determination within 90 days, the relator may commence a whistleblower action.
-(c) If the department objects to being represented by a particular attorney proposed by the relator, the department may file an objection to the attorney general. Upon finding, after notice and hearing, that, based on the attorney's past conduct while representing a client or clients, the attorney does not meet the required professional standards of representatives, or, alternatively, if the attorney fails to zealously pursue the remedies available under this chapter, the attorney general may, within 30 days of receiving the objection, order that the whistleblower action may not be filed or maintained by the particular attorney on behalf of the relator.
-(3)(a) The department may intervene in a whistleblower action and proceed with any and all claims in the action:
-(i) As of right within 30 days after the filing of the whistleblower action;
-(ii) For good cause shown, as determined by the court, after the expiration of the 30-day period.
-(b) If the department intervenes in a whistleblower action, the department shall have primary responsibility for litigating the action and shall not be bound by an act of the relator in bringing the action. If the department proposes to settle a whistleblower action, the department must give notice to the relator. If the department proposes to dismiss a whistleblower action, it must give notice to the relator and the relator must have an opportunity to be heard. The department may dismiss or settle the action if the court determines that the dismissal or settlement is fair, adequate, reasonable, and in the public interest.
-(c) If the department does not intervene, the relator shall have the right to litigate the action. The court must review and approve any settlement. The proposed settlement must be submitted to the department at the same time that it is submitted to the court, and the agency may present to the court its position on the proposed settlement or intervene as provided in (a) of this subsection. The court shall approve a settlement only upon a determination that it is fair, adequate, reasonable, and in the public interest.
-(d) Any settlement of a whistleblower action may not be confidential.
-(4)(a) Penalty amounts recovered in a whistleblower action must be distributed as follows:
-(i) If the department has not intervened, 40 percent to the relator and 60 percent to the agency;
-(ii) If the department has intervened, 20 percent to the relator and 80 percent to the agency.
-(b) Amounts distributed to the department shall be used for enforcement of chapter 49.17 RCW and education about the rights and obligations enforceable through this section by the agency.
-(c) Damages recovered in a whistleblower action must be awarded to the department for distribution to aggrieved employees. The department may request the appointment of an administrative law judge or special master to assist in the distribution of the amounts.
-(5) This section does not limit the department's right to seek restitution and damages, where available, for aggrieved employees as part of a whistleblower action in which it has intervened.
-(6) For the purposes of this section, the following definitions apply:
-(a) "Person" means any natural person, partnership, corporation, association, or other legal entity, including any local or political subdivision of the state.
-(b) "Relator" means a person who brings or seeks to bring an action under this section related to a violation of section 4 of this act.
+1. [Empty]
+
+    a. A relator, on behalf of the department, and in the name of the department, may bring a whistleblower action in court for violations of section 4 of this act, including equitable relief, penalties, and any relief specified in rule. The granting of relief shall be subject to the same conditions and limitations that apply to the department, including any requirements for conference and conciliation and any conditions and limitations specified in rule, including penalty amounts. The action may allege multiple violations that have affected different employees aggrieved by the same employer. The relator must follow the procedures specified in subsection (2) of this section.
+
+    b. A relator that prevails in a whistleblower action is entitled to an award of reasonable attorneys' fees and costs.
+
+    c. No whistleblower action may be brought if the department, regarding the same facts as alleged in the whistleblower action, issued a citation or notice of assessment, or otherwise resolved the complaint.
+
+    d. A whistleblower action must be commenced within the same period of time that the department would have to take action based on the same set of alleged facts. The statute of limitations for bringing a whistleblower action is tolled from the date a relator files a notice with the department or the date the department commences an investigation.
+
+    e. The requirements of Rule 23 of the superior court rules of civil procedure do not apply to a whistleblower action brought under this section.
+
+    f. The right to bring a whistleblower action under this section may not be impaired by any private agreement.
+
+    g. A whistleblower action is a public action and does not preclude a cause of action by an individual or individuals or operate as an estoppel for relief based on the same set of alleged facts, except that a court may not permit a double recovery.
+
+    h. An employee of the entity alleged to have violated section 4 of this act may designate in writing a representative organization to initiate a whistleblower action on the person's behalf.
+
+2. [Empty]
+
+    a. No action under subsection (1) of this section may be commenced before written notice of the claim has been submitted by the relator to the department via online submission and the relator has notified the employer by certified mail. The notice must be construed in the light most favorable to the relator, and must include the name, address, and contact information of the alleged violator; the name and contact information of the relator or the relator's legal counsel, should one exist; and a brief statement of the underlying claim.
+
+    b. Within 30 days of receiving the notification under subsection (1) of this section from the relator, the department must notify the relator of its intent to investigate or not investigate the alleged violation. If the department intends to investigate the alleged violation, it must make a determination within 90 days of receiving the notice under subsection (1) of this section. Upon receiving notice that the department does not intend to investigate, or if the department does not make a determination within 90 days, the relator may commence a whistleblower action.
+
+    c. If the department objects to being represented by a particular attorney proposed by the relator, the department may file an objection to the attorney general. Upon finding, after notice and hearing, that, based on the attorney's past conduct while representing a client or clients, the attorney does not meet the required professional standards of representatives, or, alternatively, if the attorney fails to zealously pursue the remedies available under this chapter, the attorney general may, within 30 days of receiving the objection, order that the whistleblower action may not be filed or maintained by the particular attorney on behalf of the relator.
+
+3. [Empty]
+
+    a. The department may intervene in a whistleblower action and proceed with any and all claims in the action:
+
+        i. As of right within 30 days after the filing of the whistleblower action;
+
+        ii. For good cause shown, as determined by the court, after the expiration of the 30-day period.
+
+    b. If the department intervenes in a whistleblower action, the department shall have primary responsibility for litigating the action and shall not be bound by an act of the relator in bringing the action. If the department proposes to settle a whistleblower action, the department must give notice to the relator. If the department proposes to dismiss a whistleblower action, it must give notice to the relator and the relator must have an opportunity to be heard. The department may dismiss or settle the action if the court determines that the dismissal or settlement is fair, adequate, reasonable, and in the public interest.
+
+    c. If the department does not intervene, the relator shall have the right to litigate the action. The court must review and approve any settlement. The proposed settlement must be submitted to the department at the same time that it is submitted to the court, and the agency may present to the court its position on the proposed settlement or intervene as provided in (a) of this subsection. The court shall approve a settlement only upon a determination that it is fair, adequate, reasonable, and in the public interest.
+
+    d. Any settlement of a whistleblower action may not be confidential.
+
+4. [Empty]
+
+    a. Penalty amounts recovered in a whistleblower action must be distributed as follows:
+
+        i. If the department has not intervened, 40 percent to the relator and 60 percent to the agency;
+
+        ii. If the department has intervened, 20 percent to the relator and 80 percent to the agency.
+
+    b. Amounts distributed to the department shall be used for enforcement of chapter 49.17 RCW and education about the rights and obligations enforceable through this section by the agency.
+
+    c. Damages recovered in a whistleblower action must be awarded to the department for distribution to aggrieved employees. The department may request the appointment of an administrative law judge or special master to assist in the distribution of the amounts.
+
+5. This section does not limit the department's right to seek restitution and damages, where available, for aggrieved employees as part of a whistleblower action in which it has intervened.
+
+6. For the purposes of this section, the following definitions apply:
+
+    a. "Person" means any natural person, partnership, corporation, association, or other legal entity, including any local or political subdivision of the state.
+
+    b. "Relator" means a person who brings or seeks to bring an action under this section related to a violation of section 4 of this act.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [49.17](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.
+
+1. During a public health emergency:
+
+    a. An employer with more than 50 employees at a workplace or worksite, within 24 hours of learning that five percent or more of their employees at the workplace or worksite in this state have tested positive for the infectious or contagious disease that is the subject of the public health emergency, or have symptoms of the infectious or contagious disease that is the subject of the public health emergency, must report the positive tests or symptomatic workers to the department in a form prescribed by the department.
+
+    b. An employer with 50 or fewer employees at a workplace or worksite, within 24 hours of learning that 10 percent or more of their employees at the workplace or worksite in this state have tested positive for the infectious or contagious disease that is the subject of the public health emergency, or have symptoms of the infectious or contagious disease that is the subject of the public health emergency, must report the positive tests or symptomatic workers to the department in a form prescribed by the department.
+
+    c. The reports required in (a) and (b) of this subsection may not include any employee names or personal identifying information.
+
+2. The department may use the reports in subsection (1) of this section to identify potential clusters of infections at specific workplaces or industries and investigate workplaces for violations of chapter 49.17 RCW.
+
+3. This section does not require an employee to disclose any medical condition or diagnosis to their employer.
+
+4. This section does not alter or eliminate any other reporting obligations an employer has under state or federal law.
+
 
 ## Section 9
 > This section modifies existing section [50A.15.010](/rcw/50A_family_and_medical_leave/50A.15_benefits.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.15_benefits.md) for context.
@@ -154,9 +295,17 @@ Employees are eligible for family and medical leave benefits as provided in this
     b. The minimum weekly benefit shall not be less than **$100** per week except that if the employee's average weekly wage at the time of family or medical leave is less than **$100** per week, the weekly benefit shall be the employee's full wage.
 
 
+## Section 11
+> This section adds a new section to an existing chapter [50A.15](/rcw/50A_family_and_medical_leave/50A.15_benefits.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.15_benefits.md) for context.
+
+The department may adopt rules to implement the provisions of RCW 50A.15.010.
+
+
 ## Section 12
-(1) In addition to the requirements of RCW 49.46.020, every employer shall provide its lower paid frontline employees with health emergency pay during a public health emergency. The health emergency pay is not required for hours of work performed when the employee is earning overtime pay as required by RCW 49.46.130.
-(2) The department may enforce the requirements of this section under the provisions of chapter 49.48 RCW and may treat the requirements as a "wage payment requirement" as provided in RCW 49.48.082.
+1. In addition to the requirements of RCW 49.46.020, every employer shall provide its lower paid frontline employees with health emergency pay during a public health emergency. The health emergency pay is not required for hours of work performed when the employee is earning overtime pay as required by RCW 49.46.130.
+
+2. The department may enforce the requirements of this section under the provisions of chapter 49.48 RCW and may treat the requirements as a "wage payment requirement" as provided in RCW 49.48.082.
+
 
 ## Section 13
 > This section modifies existing section [49.46.020](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
@@ -175,23 +324,40 @@ Employees are eligible for family and medical leave benefits as provided in this
 
 
 ## Section 14
-(1) In addition to the requirements of RCW 49.46.210, every employer shall provide each of its employees paid sick leave on an annual basis, in the amounts specified in subsection (2) of this section, during a public health emergency when:
-(a) The employee is absent or unable to work or telework due to a need for leave because:
-(i) The employee is subject to a federal, state, or local quarantine or isolation order related to the infectious or contagious disease;
-(ii) The employee has been advised by a health care provider to self-quarantine due to concerns related to the infectious or contagious disease; or
-(iii) The employee is experiencing symptoms of the infectious or contagious disease and seeking a medical diagnosis;
-(b) The employee is caring for a family member who is subject to an order as described in (a)(i) of this subsection or has been advised as described in (a)(ii) of this subsection;
-(c) The employee is caring for a child of the employee if the child's school or place of care has been closed, or the child's child care provider is unavailable, due to a public health emergency; or
-(d) The employee is experiencing any other substantially similar condition specified by the secretary of the United States department of health and human services in consultation with the secretary of the United States department of treasury and the secretary of the United States department of labor, or the Washington state department of health.
-(2) The amount of hours of paid sick time to which an employee is entitled to under this section is:
-(a) For full-time employees, 80 hours;
-(b) For part-time employees, a number of hours equal to the number of hours that such employee works, on average, over a two-week period.
-(3) Paid sick time under this section shall not carry over to a subsequent year.
-(4) An employee is entitled to use the paid sick leave provided in this section with no restriction on the length of their employment.
-(5) Employers are not prevented from providing more generous paid sick leave policies than provided in this section.
-(6) This section does not require an employer to provide financial or other reimbursement for accrued and unused paid sick leave to any employee upon the employee's termination, resignation, retirement, or other separation from employment.
-(7) The provisions of RCW 49.46.210(1) (f), (g), (h), and (i) apply equally to the paid sick leave under this section.
-(8) The department may enforce the provisions of this section under chapter 49.46 RCW and corresponding rules established by the department.
+1. In addition to the requirements of RCW 49.46.210, every employer shall provide each of its employees paid sick leave on an annual basis, in the amounts specified in subsection (2) of this section, during a public health emergency when:
+
+    a. The employee is absent or unable to work or telework due to a need for leave because:
+
+        i. The employee is subject to a federal, state, or local quarantine or isolation order related to the infectious or contagious disease;
+
+        ii. The employee has been advised by a health care provider to self-quarantine due to concerns related to the infectious or contagious disease; or
+
+        iii. The employee is experiencing symptoms of the infectious or contagious disease and seeking a medical diagnosis;
+
+    b. The employee is caring for a family member who is subject to an order as described in (a)(i) of this subsection or has been advised as described in (a)(ii) of this subsection;
+
+    c. The employee is caring for a child of the employee if the child's school or place of care has been closed, or the child's child care provider is unavailable, due to a public health emergency; or
+
+    d. The employee is experiencing any other substantially similar condition specified by the secretary of the United States department of health and human services in consultation with the secretary of the United States department of treasury and the secretary of the United States department of labor, or the Washington state department of health.
+
+2. The amount of hours of paid sick time to which an employee is entitled to under this section is:
+
+    a. For full-time employees, 80 hours;
+
+    b. For part-time employees, a number of hours equal to the number of hours that such employee works, on average, over a two-week period.
+
+3. Paid sick time under this section shall not carry over to a subsequent year.
+
+4. An employee is entitled to use the paid sick leave provided in this section with no restriction on the length of their employment.
+
+5. Employers are not prevented from providing more generous paid sick leave policies than provided in this section.
+
+6. This section does not require an employer to provide financial or other reimbursement for accrued and unused paid sick leave to any employee upon the employee's termination, resignation, retirement, or other separation from employment.
+
+7. The provisions of RCW 49.46.210(1) (f), (g), (h), and (i) apply equally to the paid sick leave under this section.
+
+8. The department may enforce the provisions of this section under chapter 49.46 RCW and corresponding rules established by the department.
+
 
 ## Section 15
 > This section modifies existing section [49.46.210](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
@@ -248,26 +414,91 @@ Employees are eligible for family and medical leave benefits as provided in this
 
 
 ## Section 16
-(1) In addition to the requirements of RCW 49.46.210 and section 14 of this act, every employer, with 50 or more employees, shall provide each of its employees 12 weeks of emergency child care leave on an annual basis, in the amounts specified in subsection (2) of this section, during a public health emergency when the employee is absent or unable to work or telework when the employee is caring for a child of the employee because the child's school or place of care has been closed, or the child's child care provider is unavailable, due to a public health emergency. For the purposes of this section, a school is closed when the school does not allow the child to physically attend class in person for the full day.
-(2)(a) The first 10 days of leave taken under this section shall be unpaid leave; however, the employee may substitute any paid time off offered by an employer under the employer's established policy.
-(b) For each hour of emergency child care leave that is paid leave under this section, an employee shall be paid at least two-thirds of the employee's normal hourly compensation or salary, not to exceed $200 per day or an aggregate of $10,000 annually.
-(3) Emergency child care leave under this section shall not carry over to a subsequent year.
-(4) An employee is entitled to use the emergency child care leave provided in this section after 90 days of employment with the employer, with no restriction on the minimum number of hours worked.
-(5) Employers are not prevented from providing more generous paid leave policies than provided in this section.
-(6) This section does not require an employer to provide financial or other reimbursement for accrued and unused emergency child care leave to any employee upon the employee's termination, resignation, retirement, or other separation from employment.
-(7)(a) An employer may require employees to give reasonable notice of an absence from work, so long as such notice does not interfere with an employee's lawful use of emergency child care leave.
-(b) For absences exceeding three days, an employer may require verification that an employee's use of emergency child care leave is for an authorized purpose. If an employer requires verification, verification must be provided to the employer within a reasonable time period during or after the leave. An employer's requirements for verification may not result in an unreasonable burden or expense on the employee and may not exceed privacy or verification requirements otherwise established by law.
-(c) An employer may not require, as a condition of an employee taking emergency child care leave, that the employee search for or find a replacement worker to cover the hours during which the employee is on paid leave.
-(d) The employer is responsible for providing regular notification to employees about the amount of emergency child care leave available to the employee.
-(8) An employer may not adopt or enforce any policy that counts the use of emergency child care leave time as an absence that may lead to or result in discipline against the employee.
-(9) An employer may not discriminate or retaliate against an employee for the employee's exercise of any rights under this chapter, including the use of emergency child care leave.
-(10) The department may enforce the provisions of this section under the provisions of chapter 49.46 RCW and the corresponding rules established by the department.
+1. In addition to the requirements of RCW 49.46.210 and section 14 of this act, every employer, with 50 or more employees, shall provide each of its employees 12 weeks of emergency child care leave on an annual basis, in the amounts specified in subsection (2) of this section, during a public health emergency when the employee is absent or unable to work or telework when the employee is caring for a child of the employee because the child's school or place of care has been closed, or the child's child care provider is unavailable, due to a public health emergency. For the purposes of this section, a school is closed when the school does not allow the child to physically attend class in person for the full day.
+
+2. [Empty]
+
+    a. The first 10 days of leave taken under this section shall be unpaid leave; however, the employee may substitute any paid time off offered by an employer under the employer's established policy.
+
+    b. For each hour of emergency child care leave that is paid leave under this section, an employee shall be paid at least two-thirds of the employee's normal hourly compensation or salary, not to exceed $200 per day or an aggregate of $10,000 annually.
+
+3. Emergency child care leave under this section shall not carry over to a subsequent year.
+
+4. An employee is entitled to use the emergency child care leave provided in this section after 90 days of employment with the employer, with no restriction on the minimum number of hours worked.
+
+5. Employers are not prevented from providing more generous paid leave policies than provided in this section.
+
+6. This section does not require an employer to provide financial or other reimbursement for accrued and unused emergency child care leave to any employee upon the employee's termination, resignation, retirement, or other separation from employment.
+
+7. [Empty]
+
+    a. An employer may require employees to give reasonable notice of an absence from work, so long as such notice does not interfere with an employee's lawful use of emergency child care leave.
+
+    b. For absences exceeding three days, an employer may require verification that an employee's use of emergency child care leave is for an authorized purpose. If an employer requires verification, verification must be provided to the employer within a reasonable time period during or after the leave. An employer's requirements for verification may not result in an unreasonable burden or expense on the employee and may not exceed privacy or verification requirements otherwise established by law.
+
+    c. An employer may not require, as a condition of an employee taking emergency child care leave, that the employee search for or find a replacement worker to cover the hours during which the employee is on paid leave.
+
+    d. The employer is responsible for providing regular notification to employees about the amount of emergency child care leave available to the employee.
+
+8. An employer may not adopt or enforce any policy that counts the use of emergency child care leave time as an absence that may lead to or result in discipline against the employee.
+
+9. An employer may not discriminate or retaliate against an employee for the employee's exercise of any rights under this chapter, including the use of emergency child care leave.
+
+10. The department may enforce the provisions of this section under the provisions of chapter 49.46 RCW and the corresponding rules established by the department.
+
+
+## Section 17
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Beginning July 1, 2021, a credit against the tax due under this chapter is allowed for any employer who meets the public health emergency paid sick or child care leave requirements under sections 14 and 16 of this act. The credit is equal to the full amount of wages paid by the employer in qualifying public health emergency paid sick or child care leave in the previous calendar quarter as reported to the employment security department and provided in this section.
+
+2. A credit under this section may not be claimed if a federal tax credit is available for wages paid under the same qualifying public health emergency.
+
+3. The credit under this section may be used against any tax due under this chapter and may be carried forward to future reporting periods for a maximum of one year. No refunds may be granted for credits under this section.
+
+4. Credits earned under this section may be claimed only on returns filed electronically with the department using the department's online tax filing service or other method of electronic reporting as the department may authorize. No application is required to claim the credit, but the taxpayer must keep records necessary for the department to determine eligibility under this section.
+
+5. No person may claim a credit against taxes due under both this chapter and chapter 82.16 RCW for amounts paid toward the same qualifying public health emergency sick or child care leave hours.
+
+6. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Public health emergency" has the same meaning as in section 1 of this act.
+
+    b. "Qualifying public health emergency" means any public health emergency in which an employer is required to provide paid sick or child care leave to its employees as provided in sections 14 and 16 of this act.
+
+    c. "Qualifying wages" means any wages paid by an employer in which a credit may be claimed under this section.
+
+
+## Section 18
+> This section adds a new section to an existing chapter [82.16](/rcw/82_excise_taxes/82.16_public_utility_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.16_public_utility_tax.md) for context.
+
+1. Beginning July 1, 2021, a credit against the tax due under this chapter is allowed for any employer who meets the public health emergency paid sick or child care leave requirements under sections 14 and 16 of this act. The credit is equal to the full amount of wages paid by the employer in qualifying public health emergency paid sick or child care leave in the previous calendar quarter as provided in this section.
+
+2. A credit under this section may not be claimed if a federal tax credit is available for wages paid under the same qualifying public health emergency.
+
+3. The credit under this section may be used against any tax due under this chapter and may be carried forward to future reporting periods for a maximum of one year. No refunds may be granted for credits under this section.
+
+4. Credits earned under this section may be claimed only on returns filed electronically with the department using the department's online tax filing service or other method of electronic reporting as the department may authorize. No application is required to claim the credit, but the taxpayer must keep records necessary for the department to determine eligibility under this section.
+
+5. No person may claim a credit against taxes due under both this chapter and chapter 82.04 RCW for amounts paid toward the same qualifying public health emergency sick or child care leave hours.
+
+6. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Public health emergency" has the same meaning as in section 1 of this act.
+
+    b. "Qualifying public health emergency" means any public health emergency in which an employer is required to provide paid sick or child care leave to its employees as provided in sections 14 and 16 of this act.
+
+    c. "Qualifying wages" means any wages paid by an employer in which a credit may be claimed under this section.
+
 
 ## Section 19
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to sections 17 and 18 of this act.
 
+
 ## Section 20
 The department may adopt rules to implement the provisions of sections 1, 4, 7, 12, 14, and 16 of this act.
 
+
 ## Section 21
 This chapter may be known and cited as the health emergency labor standards act.
+

@@ -1,5 +1,6 @@
 # SB 5321 - College bound scholarship
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5321&Year=2021)
+
 Expanding access to the college bound scholarship.
 
 ## Revisions

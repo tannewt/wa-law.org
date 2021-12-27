@@ -27,7 +27,7 @@ for row in sections.find_all("tr"):
 
 all_citations = set()
 
-section_pattern = re.compile("\\(([a-z]+|[0-9]+)\\)")
+section_pattern = re.compile("\\(([a-z]+|[0-9]+|[A-Z]+)\\)")
 
 count = 0
 for title in titles:
@@ -98,8 +98,8 @@ for title in titles:
 
             # print()
     #print(titles)
-    if count > 9:
-        break
+    # if count > 42:
+    #     break
     count += 1
 
 ordered = sorted(all_citations)
@@ -173,15 +173,23 @@ with top_readme.open("w") as rm:
                                 if result.start() != last_end:
                                     break
                                 if last_end > 0:
-                                    f.write(" [Empty]\n")
+                                    f.write(" [Empty]\n\n")
                                 last_end = result.end()
                                 group = result.group(1)
                                 if group.isnumeric():
                                     f.write(group + ".")
-                                elif group[0] == "i" and last_group != "h":
-                                    f.write("    " * 2 + group + ".")
+                                elif ((group[0] == "i" and last_group != "h") or
+                                      (group[0] == "v" and last_group != "u") or
+                                      (group[0] == "x" and last_group != "w")):
+                                    f.write("    " * 2 + group + ". ")
+                                elif ((group[0] == "I" and last_group != "H") or
+                                      (group[0] == "V" and last_group != "U") or
+                                      (group[0] == "X" and last_group != "W")):
+                                    f.write("    " * 4 + group + ". ")
+                                elif group.isupper():
+                                    f.write("    " * 3 + group + ". ")
                                 else:
-                                    f.write("    " * 1 + group + ".")
+                                    f.write("    " * 1 + group + ". ")
                                 last_group = group
                             f.write(paragraph[last_end:])
                             f.write("\n\n")

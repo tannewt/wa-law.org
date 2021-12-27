@@ -55,6 +55,34 @@ The activities performed by research and development laboratories and commercial
 15. "Research and development" means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, "commercial sales" excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed **$1,000,000**.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [82.60](/rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md). Here is the [modified chapter](rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md) for context.
+
+1. Application for deferral of taxes under this chapter must be made before initiation of the construction of the investment project or acquisition of equipment or machinery. The application must be made to the department in a form and manner prescribed by the department. The application must contain information regarding the location of the investment project, the applicant's average employment in the state for the prior year, estimated or actual new employment related to the project, estimated or actual wages of employees related to the project, estimated or actual costs, time schedules for completion and operation, and other information required by the department. The department must rule on the application within 60 days.
+
+2. The department may not accept applications for the deferral under this chapter after June 30, 2031.
+
+3. This section expires July 1, 2031.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [82.60](/rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md). Here is the [modified chapter](rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md) for context.
+
+1. The department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters 82.08, 82.12, and 82.14 RCW on each eligible investment project.
+
+2. The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium.
+
+3. This section expires July 1, 2031.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [82.60](/rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md). Here is the [modified chapter](rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md) for context.
+
+1. The recipient of a deferral certificate under section 4 of this act must begin meaningful construction on an eligible investment project within two years of receiving a deferral certificate, unless construction was delayed due to circumstances beyond the recipient's control. Lack of funding is not considered a circumstance beyond the recipient's control.
+
+2. If the recipient does not begin meaningful construction on an eligible investment project within two years of receiving a deferral certificate, the deferral certificate issued under section 4 of this act is invalid and taxes deferred under this chapter are due immediately.
+
+
 ## Section 6
 > This section modifies existing section [82.60.049](/rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md). Here is the [modified chapter](rcw/82_excise_taxes/82.60_tax_deferrals_for_investment_projects_in_rural_counties.md) for context.
 

@@ -2,22 +2,38 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5323.xml)
 ## Section 1
-(1) Except as provided in this section, from July 1, 2021, through June 30, 2023, all state employees of the executive branch, including employees of state agencies, boards and commissions, and state institutions of higher education, are subject to mandatory furloughs as follows:
-(a) 12 days of furlough from July 1, 2021, through June 30, 2022; and
-(b) 12 days of furlough from July 1, 2022, through June 30, 2023.
-(2) For purposes of subsection (1) of this section, furloughs are required for all state employees in positions designated by the employing entity as not requiring backfill. State employees include:
-(a) Employees in classified service, as defined in RCW 41.06.020;
-(b) Managers, as defined in RCW 41.06.022; and
-(c) Employees in positions exempt from state civil service law, as provided in chapter 41.06 RCW.
-(3) Furloughs shall be applied as follows:
-(a) For full-time employees, one furlough day is equal to eight hours.
-(b) For part-time employees, furloughs are prorated according to the employee's full-time equivalent percentage.
-(4) The following employees are not subject to subsection (1) of this section:
-(a) Employees who are in agency or higher education institution designated backfill positions;
-(b) Employees of the University of Washington medical center and Harborview medical center;
-(c) Elected officials whose salaries are set by the citizens' commission on salaries for elected officials; and
-(d) Employees in positions covered by a collective bargaining agreement if the collective bargaining agreement prevents the implementation of subsection (1) of this section.
-(5) The office of financial management may adopt rules, if needed, to implement this section and to address any employment impacts.
+1. Except as provided in this section, from July 1, 2021, through June 30, 2023, all state employees of the executive branch, including employees of state agencies, boards and commissions, and state institutions of higher education, are subject to mandatory furloughs as follows:
+
+    a. 12 days of furlough from July 1, 2021, through June 30, 2022; and
+
+    b. 12 days of furlough from July 1, 2022, through June 30, 2023.
+
+2. For purposes of subsection (1) of this section, furloughs are required for all state employees in positions designated by the employing entity as not requiring backfill. State employees include:
+
+    a. Employees in classified service, as defined in RCW 41.06.020;
+
+    b. Managers, as defined in RCW 41.06.022; and
+
+    c. Employees in positions exempt from state civil service law, as provided in chapter 41.06 RCW.
+
+3. Furloughs shall be applied as follows:
+
+    a. For full-time employees, one furlough day is equal to eight hours.
+
+    b. For part-time employees, furloughs are prorated according to the employee's full-time equivalent percentage.
+
+4. The following employees are not subject to subsection (1) of this section:
+
+    a. Employees who are in agency or higher education institution designated backfill positions;
+
+    b. Employees of the University of Washington medical center and Harborview medical center;
+
+    c. Elected officials whose salaries are set by the citizens' commission on salaries for elected officials; and
+
+    d. Employees in positions covered by a collective bargaining agreement if the collective bargaining agreement prevents the implementation of subsection (1) of this section.
+
+5. The office of financial management may adopt rules, if needed, to implement this section and to address any employment impacts.
+
 
 ## Section 2
 > This section modifies existing section [28B.50.465](/rcw/28B_higher_education/28B.050_community_and_technical_colleges.md). Here is the [modified chapter](rcw/28B_higher_education/28B.050_community_and_technical_colleges.md) for context.
@@ -257,3 +273,4 @@ From July 1, 2011, through June 29, 2013, salaries for all positions under this 
 
 ## Section 9
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

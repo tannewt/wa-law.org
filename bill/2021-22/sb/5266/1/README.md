@@ -2,12 +2,18 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5266.xml)
 ## Section 1
-(1) The legislature makes the following findings:
-(a) Nicotine is a highly addictive substance, particularly for children and youth under 21 years of age, whose brains are still developing. Currently, there is no limit in the United States on nicotine levels of vapor products. While other nations limit the nicotine content of vapor products to not more than two percent nicotine, vapor products commonly sold in this state and accessed by youth contain five percent nicotine. Vapor products that deliver high levels of nicotine are fueling youth addiction to nicotine and have created an epidemic. The 2019 national youth tobacco survey found that about 27 percent of high school students reported current use of electronic cigarettes and, among electronic cigarette users, about one-third reported using electronic cigarettes on 20 or more of the preceding 30 days.
-(b) Research consistently shows that flavors and associated advertising contribute to the appeal, initiation, and use of tobacco products, including vapor products, particularly among adolescents and young adults. Evidence also suggests that the 2009 flavored cigarette ban did achieve its objective of reducing adolescent tobacco use, but effects were likely diminished by the continued availability of menthol cigarettes and other flavored tobacco products. Preliminary data from the national youth tobacco survey show that more than one-quarter of high school students were current electronic cigarette users in 2019 and the overwhelming majority of youth electronic cigarette users cited the use of popular fruit and menthol or mint flavors. A health impact review performed by the state board of health in 2019 concluded that eliminating flavored vapor products would likely decrease initiation and use of vapor products and other tobacco products among youth and young adults, thereby improving health outcomes.
-(c) Early research from Stanford University school of medicine indicates that teenagers and young adults that vape are five to seven times more likely to be infected with COVID-19 compared to those who do not use vapor products.
-(d) While the long-term health effects of vapor products are unknown, current data suggests they are harmful to human health. Vapor products have been shown to impair lung function in several ways, such as by inhibiting ciliary beating, impairing immune function, and causing toxicity to epithelial cells.
-(2) Therefore, the legislature intends to ban the sale of flavored vapor products and enact additional regulatory protections to protect the health of youth and young adults in Washington state.
+1. The legislature makes the following findings:
+
+    a. Nicotine is a highly addictive substance, particularly for children and youth under 21 years of age, whose brains are still developing. Currently, there is no limit in the United States on nicotine levels of vapor products. While other nations limit the nicotine content of vapor products to not more than two percent nicotine, vapor products commonly sold in this state and accessed by youth contain five percent nicotine. Vapor products that deliver high levels of nicotine are fueling youth addiction to nicotine and have created an epidemic. The 2019 national youth tobacco survey found that about 27 percent of high school students reported current use of electronic cigarettes and, among electronic cigarette users, about one-third reported using electronic cigarettes on 20 or more of the preceding 30 days.
+
+    b. Research consistently shows that flavors and associated advertising contribute to the appeal, initiation, and use of tobacco products, including vapor products, particularly among adolescents and young adults. Evidence also suggests that the 2009 flavored cigarette ban did achieve its objective of reducing adolescent tobacco use, but effects were likely diminished by the continued availability of menthol cigarettes and other flavored tobacco products. Preliminary data from the national youth tobacco survey show that more than one-quarter of high school students were current electronic cigarette users in 2019 and the overwhelming majority of youth electronic cigarette users cited the use of popular fruit and menthol or mint flavors. A health impact review performed by the state board of health in 2019 concluded that eliminating flavored vapor products would likely decrease initiation and use of vapor products and other tobacco products among youth and young adults, thereby improving health outcomes.
+
+    c. Early research from Stanford University school of medicine indicates that teenagers and young adults that vape are five to seven times more likely to be infected with COVID-19 compared to those who do not use vapor products.
+
+    d. While the long-term health effects of vapor products are unknown, current data suggests they are harmful to human health. Vapor products have been shown to impair lung function in several ways, such as by inhibiting ciliary beating, impairing immune function, and causing toxicity to epithelial cells.
+
+2. Therefore, the legislature intends to ban the sale of flavored vapor products and enact additional regulatory protections to protect the health of youth and young adults in Washington state.
+
 
 ## Section 4
 > This section modifies existing section [70.345.020](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
@@ -229,19 +235,105 @@
 **Except as provided in RCW 70.345.090 and 70.345.180, all** license fees collected and funds collected by the board from the imposition of monetary penalties pursuant to this chapter must be deposited into the youth tobacco and vapor products prevention account created in RCW 70.155.120.
 
 
+## Section 12
+> This section adds a new section to an existing chapter [70.345](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
+
+A fee of $250 must accompany each vapor product manufacturer's license application and license renewal application under RCW 70.345.020.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [70.345](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
+
+A vapor product may not be sold or offered for sale if the product has nicotine salts or other ingredients that result in nicotine concentrations that exceed any of the following comparative levels of nicotine:
+
+1. Twenty milligrams of nicotine per milliliter of liquid;
+
+2. Nicotine that is equivalent to two percent of the total volume of the liquid; or
+
+3. Twenty thousand parts per million of nicotine in the liquid.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [70.345](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
+
+1. Licensed vapor product distributors and manufacturers who sell vapor products in this state must submit under oath to the department of health a complete list of all constituent substances and the amounts and sources thereof in each vapor product offered for sale, distributed, or manufactured in the state, including all:
+
+    a. Additives;
+
+    b. Thickening agents;
+
+    c. Preservatives;
+
+    d. Compounds;
+
+    e. Nicotine content; and
+
+    f. Any other substance used in the production and processing of each vapor product.
+
+2. Disclosures must be completed for every vapor product constituent substance, regardless of whether such a constituent substance is an original constituent present in each vapor product, emitted during the use of the vapor product, or it is reasonably foreseeable that it will be present in the vapor product during the product's expected presale shelf life, or will develop in a vapor product after purchase without any action taken by the consumer. All disclosures must include the amounts and sources of each constituent substance. Constituent substance disclosures must be accompanied by a signed declaration under penalty of perjury certifying the completeness and accuracy of the information provided.
+
+3. No vapor product shall be sold, offered for sale, distributed, or manufactured in this state unless a constituent disclosure has been submitted to the department of health in a manner determined by the department.
+
+4. The board and department of health may use constituent disclosures for the purposes of enforcement, investigation, research, and public information, and for any other matter intended to protect the public health.
+
+5. The department of health may adopt rules to implement the provisions of this section.
+
+
+## Section 15
+> This section adds a new section to an existing chapter [70.345](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
+
+1. A retailer, manufacturer, delivery seller, or distributor licensed under this chapter may not sell, offer for sale, or possess with the intent to sell or offer for sale flavored vapor products, or any product that he or she knows or reasonably should know will be used with or in a vapor product to create a flavored vapor product.
+
+2. This section applies to all persons who sell vapor products in this state including, but not limited to, cigarette and tobacco product retailers, vapor product retailers, manufacturers, delivery sellers, and distributors licensed under this chapter.
+
+3. There is a rebuttable presumption that a vapor product is a flavored vapor product if a delivery seller, distributor, manufacturer, or retailer, or any agent or employee of a delivery seller, distributor, manufacturer, or retailer, in the course of their agency or employment, has made a statement or claim directed to consumers or to the public that the vapor product has or produces a taste or smell other than tobacco including, but not limited to, text, color, or images, or any combination thereof, on the product's labeling or packaging used to explicitly or implicitly communicate that the vapor product has a taste or smell other than tobacco.
+
+
+## Section 16
+> This section adds a new section to an existing chapter [70.345](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
+
+A city, town, county, or local health jurisdiction may limit the location of licensed vapor product retailers within a certain perimeter of schools and youth-orientated programs and activities if the city, town, county, or local health jurisdiction determines that such restriction may reduce underage access and addiction.
+
+
 ## Section 17
-(1) A person may not sell, offer for sale, or possess with the intent to sell or offer for sale any menthol-flavored tobacco product. This section applies to all persons who sell tobacco products in this state including, but not limited to, cigarette and tobacco product retailers, wholesalers, and distributors licensed under chapter 82.24 or 82.26 RCW.
-(2) There is a rebuttable presumption that a tobacco product is a menthol-flavored tobacco product if a manufacturer or any of the manufacturer's agents or employees, in the course of their agency or employment, has made a statement or claim directed to consumers or to the public that the tobacco product has or produces a characterizing flavor including, but not limited to, text, color, or images, or any combination thereof, on the product's labeling or packaging used to explicitly or implicitly communicate that the tobacco product has a characterizing flavor.
-(3) For the purposes of this section and section 18 of this act:
-(a) "Tobacco product" means:
-(i) Any product containing, made, or derived from tobacco or nicotine that is intended for human consumption, whether smoked, heated, chewed, absorbed, dissolved, inhaled, snorted, sniffed, or ingested by any other means including, but not limited to, cigarettes, cigars, little cigars, chewing tobacco, pipe tobacco, bidis, or snuf; and
-(ii) Any device or component, part, or accessory that delivers nicotine alone or combined with other substances to the person using the device including, but not limited to, electronic cigarettes, cigars, or pipes, whether or not the device or component is sold separately.
-(b) "Tobacco product" does not include any product approved by the United States food and drug administration for sale as a tobacco cessation product, medical device, or for other therapeutic purposes when such product is marketed and sold solely for such an approved purpose.
+1. A person may not sell, offer for sale, or possess with the intent to sell or offer for sale any menthol-flavored tobacco product. This section applies to all persons who sell tobacco products in this state including, but not limited to, cigarette and tobacco product retailers, wholesalers, and distributors licensed under chapter 82.24 or 82.26 RCW.
+
+2. There is a rebuttable presumption that a tobacco product is a menthol-flavored tobacco product if a manufacturer or any of the manufacturer's agents or employees, in the course of their agency or employment, has made a statement or claim directed to consumers or to the public that the tobacco product has or produces a characterizing flavor including, but not limited to, text, color, or images, or any combination thereof, on the product's labeling or packaging used to explicitly or implicitly communicate that the tobacco product has a characterizing flavor.
+
+3. For the purposes of this section and section 18 of this act:
+
+    a. "Tobacco product" means:
+
+        i. Any product containing, made, or derived from tobacco or nicotine that is intended for human consumption, whether smoked, heated, chewed, absorbed, dissolved, inhaled, snorted, sniffed, or ingested by any other means including, but not limited to, cigarettes, cigars, little cigars, chewing tobacco, pipe tobacco, bidis, or snuf; and
+
+        ii. Any device or component, part, or accessory that delivers nicotine alone or combined with other substances to the person using the device including, but not limited to, electronic cigarettes, cigars, or pipes, whether or not the device or component is sold separately.
+
+    b. "Tobacco product" does not include any product approved by the United States food and drug administration for sale as a tobacco cessation product, medical device, or for other therapeutic purposes when such product is marketed and sold solely for such an approved purpose.
+
 
 ## Section 18
-(1) The liquor and cannabis board shall enforce this chapter and may suspend or revoke the license of a cigarette or tobacco retailer, wholesaler, or distributor licensed under chapter 82.24 or 82.26 RCW for a violation or violations of section 17 of this act. If the board makes an initial decision to suspend or revoke a license, the licensee may request a hearing subject to chapter 34.05 RCW.
-(2) The liquor and cannabis board may conduct random and unannounced inspections of a cigarette or tobacco retailer, wholesaler, or distributor licensed under chapter 82.24 or 82.26 RCW to ensure compliance with this chapter. The board may conduct such inspections with local law enforcement.
-(3) Menthol-flavored tobacco products sold, offered for sale, or possessed in violation of this chapter are subject to seizure and forfeiture by the liquor and cannabis board.
+1. The liquor and cannabis board shall enforce this chapter and may suspend or revoke the license of a cigarette or tobacco retailer, wholesaler, or distributor licensed under chapter 82.24 or 82.26 RCW for a violation or violations of section 17 of this act. If the board makes an initial decision to suspend or revoke a license, the licensee may request a hearing subject to chapter 34.05 RCW.
+
+2. The liquor and cannabis board may conduct random and unannounced inspections of a cigarette or tobacco retailer, wholesaler, or distributor licensed under chapter 82.24 or 82.26 RCW to ensure compliance with this chapter. The board may conduct such inspections with local law enforcement.
+
+3. Menthol-flavored tobacco products sold, offered for sale, or possessed in violation of this chapter are subject to seizure and forfeiture by the liquor and cannabis board.
+
+
+## Section 19
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Beginning with business activities occurring on or after July 1, 2021, a vapor products surcharge is imposed as follows:
+
+    a. Upon every person engaging within this state in business as a manufacturer of vapor products, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the value of the manufactured vapor products, including by-products, multiplied by the rate of 4.4 percent;
+
+    b. Upon every person engaging within this state in business as a vapor product distributor licensed under RCW 70.345.020, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the value of the manufactured vapor products, including by-products, multiplied by the rate of 4.4 percent.
+
+2. Beginning with business activities occurring on or after July 1, 2021, a tobacco products surcharge is imposed as follows:
+
+    a. Upon every person engaging within this state in business as a manufacturer of tobacco products, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the value of the manufactured tobacco products, including by-products, multiplied by the rate of 4.4 percent;
+
+    b. Upon every person engaging within this state in business as a tobacco product distributor licensed under RCW 82.26.190, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the value of the manufactured tobacco products, including by-products, multiplied by the rate of 4.4 percent.
+
 
 ## Section 20
 > This section modifies existing section [82.25.005](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
@@ -367,6 +459,24 @@ The department may by rule establish the invoice detail required under RCW 82.25
 1. A retailer that obtains vapor products from an unlicensed distributor or any other person that is not licensed under chapter 70.345 RCW must be licensed both as a retailer and a distributor . For the purposes of this subsection, "person" includes both persons defined in chapter 445, Laws of 2019 and any person immune from state taxation, such as the United States or its instrumentalities, and federally recognized Indian tribes and enrolled tribal members, conducting business within Indian country.
 
 2. Every distributor licensed under chapter 70.345 RCW may sell vapor products to retailers located in Washington only if the retailer has a current retailer's license under chapter 70.345 RCW.
+
+
+## Section 26
+> This section adds a new section to an existing chapter [82.25](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. The legislature intends to create a tax credit so that vapor products taxed at the wholesale level under the law as it existed immediately before the effective date of this section are not also taxed in a retail sale under the provisions of this act.
+
+2. Except as provided in subsection (3) of this section, a tax credit is established and available to distributors with respect to vapor products:
+
+    a. In their possession on the effective date of this section on which tax was paid to the state by the distributor pursuant to the law as it existed immediately before the effective date of this section; or
+
+    b. Returned to the distributor by a retailer, other purchaser, or consignee, on or after the effective date of this section, if tax on the vapor products was previously paid by the distributor to the state pursuant to the law as it existed immediately before the effective date of this section.
+
+3. Nothing in this section authorizes a tax credit for vapor products that are expired, destroyed, unsellable, or that are not held for sale by the distributor and intended to ultimately be sold by a licensee at retail.
+
+4. Credit allowed under this section must be determined based on the tax rate in effect for the period for which the tax imposed by this chapter, for which a credit is sought, was paid.
+
+5. To be eligible for a tax credit under this section, a distributor shall apply for the credit to the department on a form and in a manner required by the department. The department may establish requirements related to distributors documenting and claiming a tax credit pursuant to this section in order to determine eligibility.
 
 
 ## Section 27
@@ -495,8 +605,40 @@ The definitions in this section apply throughout this chapter unless the context
 7. This section does not apply to a motor carrier or freight forwarder as defined in Title 49 U.S.C. Sec. 13102 or an air carrier as defined in Title 49 U.S.C. Sec. 40102.
 
 
+## Section 31
+> This section adds a new section to an existing chapter [82.25](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. A bundled transaction that includes a vapor product is subject to the tax imposed under this chapter on the entire selling price of the bundled transaction.
+
+2. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Bundled transaction" means:
+
+        i. The sale of two or more products where the products are otherwise distinct and identifiable, are sold for one nonitemized price, and at least one product is a vapor product subject to the tax under this chapter; and
+
+        ii. A vapor product provided free of charge with the required purchase of another product. A vapor product is provided free of charge if the sales price of the product purchased does not vary depending on the inclusion of the vapor product provided free of charge.
+
+    b. "Distinct and identifiable products" does not include packaging such as containers, boxes, sacks, bags, and bottles, or materials such as wrapping, labels, tags, and instruction guides, that accompany the sale of the products and are incidental or immaterial to the sale thereof.
+
+
+## Section 32
+> This section adds a new section to an existing chapter [82.25](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. The taxes imposed by this chapter do not apply to the sale of vapor products by an Indian retailer during the effective date of a vapor product tax contract subject to RCW 43.06.510 or a vapor product tax agreement under RCW 43.06.515.
+
+2. The definitions in RCW 43.06.505 apply to this section.
+
+
+## Section 33
+> This section adds a new section to an existing chapter [70.345](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
+
+For the purpose of carrying into the effect the provisions of this chapter according to their true intent or supplying any deficiency therein, the board and the department of health may adopt those rules as are deemed necessary or advisable.
+
+
 ## Section 35
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 36
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

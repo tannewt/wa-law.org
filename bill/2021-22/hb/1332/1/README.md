@@ -130,9 +130,15 @@
 
 
 ## Section 2
-(1) The COVID-19 property tax deferral loan account is created in the custody of the state treasurer. Only the state treasurer or the treasurer's designee may make expenditures from the account. Expenditures from the account do not require an appropriation. Expenditures from the account may be made only for loans to local governments under this section.
-(2) Between the effective date of this section and June 30, 2021, the state treasurer may make interest-free loans from the account to cities and counties. A city or county may apply to the state treasurer for an interest-free loan from the COVID-19 property tax deferral loan account in an amount not to exceed the city's or county's revenue delay as a result of property tax deferrals made under RCW 84.56.020(10)(b). The application under this section must be made in a form and manner determined by the state treasurer. The amount of each loan is determined by the treasurer, who may prorate loan amounts if loan applications exceed the account balance.
-(3) A city or county that receives a loan under this section must repay the loan to the state treasurer within one calendar year from the date of the loan.
-(4) Cities and counties may spend moneys loaned under this section exclusively for local government uses authorized in statute.
-(5) After the end of fiscal year 2022, the state treasurer shall transfer to the state general fund the entire balance of the account, whether from loan repayments or unexpended balance. The state treasurer must also transfer to the state general fund any loan repayments received after that date.
-(6) This section expires July 1, 2023.
+1. The COVID-19 property tax deferral loan account is created in the custody of the state treasurer. Only the state treasurer or the treasurer's designee may make expenditures from the account. Expenditures from the account do not require an appropriation. Expenditures from the account may be made only for loans to local governments under this section.
+
+2. Between the effective date of this section and June 30, 2021, the state treasurer may make interest-free loans from the account to cities and counties. A city or county may apply to the state treasurer for an interest-free loan from the COVID-19 property tax deferral loan account in an amount not to exceed the city's or county's revenue delay as a result of property tax deferrals made under RCW 84.56.020(10)(b). The application under this section must be made in a form and manner determined by the state treasurer. The amount of each loan is determined by the treasurer, who may prorate loan amounts if loan applications exceed the account balance.
+
+3. A city or county that receives a loan under this section must repay the loan to the state treasurer within one calendar year from the date of the loan.
+
+4. Cities and counties may spend moneys loaned under this section exclusively for local government uses authorized in statute.
+
+5. After the end of fiscal year 2022, the state treasurer shall transfer to the state general fund the entire balance of the account, whether from loan repayments or unexpended balance. The state treasurer must also transfer to the state general fund any loan repayments received after that date.
+
+6. This section expires July 1, 2023.
+

@@ -4,26 +4,46 @@
 ## Section 1
 The legislature recognizes that the COVID-19 pandemic continues to impact the delivery of education across the state, as school districts resume in-person instructional models with heightened efforts to protect the health and well-being of students and staff and address the pandemic's impact on student learning. The legislature also recognizes that state funding formulas are largely driven by enrollment, and the pandemic has resulted in unforeseen, temporary enrollment declines in many districts. Funding declines due to temporary, unforeseen changes in enrollment can affect a district's ability to maintain the staffing and resources needed to deliver education services. Stabilization funding in the 2020-21 school year provided important support for schools to maintain services amid enrollment declines. With this act and in the omnibus operating appropriations act, the legislature intends to extend stabilizing funding to districts that have seen temporary enrollment declines due to the COVID-19 pandemic.
 
+
 ## Section 2
-(1) If a local education agency's combined state revenue generated in the 2021-22 school year is less than what its combined state revenue would be using 2019-20 annual average enrollment values and formulas in place for the 2021-22 school year, then the superintendent of public instruction must provide a proportional enrollment stabilization amount to the local education agency in the 2021-22 school year.
-(2) The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
-(a) "Combined state revenue" means the combined amount from the following allocations to local education agencies:
-(i) General apportionment allocations as described in RCW 28A.150.260;
-(ii) Special education allocations as described in RCW 28A.150.390. Allocations for special education enrollment above 2021-22 levels in kindergarten through 12th grades must be based on an excess cost multiplier of 0.995;
-(iii) Learning assistance program allocations as described in RCW 28A.150.260(10)(a). Learning assistance program allocations based on 2019-20 enrollments must include the prior years' free or reduced-price meal percentages used for allocations in the 2020-21 school year;
-(iv) Transitional bilingual program allocations as described in RCW 28A.150.260(10)(b);
-(v) Highly capable program allocations as described in RCW 28A.150.260(10)(c);
-(vi) Career and technical education and skill centers allocations as described in RCW 28A.150.260 (4)(c), (7), and (9);
-(vii) Allocations to support institutional education for residential schools as defined by RCW 28A.190.005 and of juveniles in detention facilities as identified by RCW 28A.190.010;
-(viii) Dropout reengagement program allocations for eligible students under RCW 28A.175.100;
-(ix) Alternative learning experience allocations as described in RCW 28A.232.020; and
-(x) Running start allocations as described in RCW 28A.600.310.
-(b) "Local education agency" means a school district, charter school, or state-tribal education compact school established under chapter 28A.715 RCW.
-(c) "Local education agency low enrollment impact" is equal to a local education agency's combined state revenue that would be generated using 2019-20 annual average enrollment values and formulas in place for the 2021-22 school year minus its combined state revenue generated in the 2021-22 school year, if the difference is greater than zero.
-(d) "Proportional enrollment stabilization amount" for a local education agency is equal to the statewide net enrollment impact multiplied by its local education agency low enrollment impact divided by the statewide low enrollment impact.
-(e) "Statewide low enrollment impact" is the sum of local education agency low enrollment impacts for all local education agencies.
-(f) "Statewide net enrollment impact" is equal to the combined state revenue that would be generated statewide using 2019-20 annual average enrollment values and formulas in place for the 2021-22 school year minus the combined state revenue generated statewide in the 2021-22 school year.
-(3) Enrollment stabilization amounts allocated under this section are not part of the state's program of basic education but may be used for any allowable cost within any of the programs.
+1. If a local education agency's combined state revenue generated in the 2021-22 school year is less than what its combined state revenue would be using 2019-20 annual average enrollment values and formulas in place for the 2021-22 school year, then the superintendent of public instruction must provide a proportional enrollment stabilization amount to the local education agency in the 2021-22 school year.
+
+2. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Combined state revenue" means the combined amount from the following allocations to local education agencies:
+
+        i. General apportionment allocations as described in RCW 28A.150.260;
+
+        ii. Special education allocations as described in RCW 28A.150.390. Allocations for special education enrollment above 2021-22 levels in kindergarten through 12th grades must be based on an excess cost multiplier of 0.995;
+
+        iii. Learning assistance program allocations as described in RCW 28A.150.260(10)(a). Learning assistance program allocations based on 2019-20 enrollments must include the prior years' free or reduced-price meal percentages used for allocations in the 2020-21 school year;
+
+        iv. Transitional bilingual program allocations as described in RCW 28A.150.260(10)(b);
+
+    v. Highly capable program allocations as described in RCW 28A.150.260(10)(c);
+
+    vi. Career and technical education and skill centers allocations as described in RCW 28A.150.260 (4)(c), (7), and (9);
+
+    vii. Allocations to support institutional education for residential schools as defined by RCW 28A.190.005 and of juveniles in detention facilities as identified by RCW 28A.190.010;
+
+    viii. Dropout reengagement program allocations for eligible students under RCW 28A.175.100;
+
+        ix. Alternative learning experience allocations as described in RCW 28A.232.020; and
+
+    x. Running start allocations as described in RCW 28A.600.310.
+
+    b. "Local education agency" means a school district, charter school, or state-tribal education compact school established under chapter 28A.715 RCW.
+
+    c. "Local education agency low enrollment impact" is equal to a local education agency's combined state revenue that would be generated using 2019-20 annual average enrollment values and formulas in place for the 2021-22 school year minus its combined state revenue generated in the 2021-22 school year, if the difference is greater than zero.
+
+    d. "Proportional enrollment stabilization amount" for a local education agency is equal to the statewide net enrollment impact multiplied by its local education agency low enrollment impact divided by the statewide low enrollment impact.
+
+    e. "Statewide low enrollment impact" is the sum of local education agency low enrollment impacts for all local education agencies.
+
+    f. "Statewide net enrollment impact" is equal to the combined state revenue that would be generated statewide using 2019-20 annual average enrollment values and formulas in place for the 2021-22 school year minus the combined state revenue generated statewide in the 2021-22 school year.
+
+3. Enrollment stabilization amounts allocated under this section are not part of the state's program of basic education but may be used for any allowable cost within any of the programs.
+
 
 ## Section 4
 > This section modifies existing section [28A.500.015](/rcw/28A_common_school_provisions/28A.500_local_effort_assistance.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.500_local_effort_assistance.md) for context.

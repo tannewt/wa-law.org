@@ -100,5 +100,7 @@ A voucher must be provided in conjunction with additional transition support pro
 ## Section 3
 Pursuant to RCW 9.94A.729, the department of corrections shall recalculate the earned release date for any offender currently serving a term in a facility or institution either operated by the state or utilized under contract. The earned release date shall be recalculated whether the offender is currently incarcerated or is sentenced after the effective date of this section, and regardless of the offender's date of offense. For offenders whose offense was committed prior to the effective date of this section, the recalculation shall not extend a term of incarceration beyond that to which an offender is currently subject. This act applies retroactively and prospectively, regardless of the date of an offender's underlying offense.
 
+
 ## Section 4
 The department of corrections' recalculations of earned time pursuant to sections 1 and 2 of this act do not create any expectations that the percentage of earned release time will be revised before July 1, 2021, and offenders have no reason to conclude that the maximum percentage of earned release time is an entitlement or creates any liberty interest. The department of corrections is authorized to take the time reasonably necessary to complete the recalculations of earned release time after the effective date of this section.
+

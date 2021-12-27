@@ -132,41 +132,69 @@
 
 
 ## Section 5
-(1) For the twenty-four months following the effective date of this section, state agencies of the legislative, executive, and judicial branches shall not establish new staff positions or fill vacant existing staff positions except as specifically authorized by this section.
-(2) The following activities of state agencies are exempt from subsection (1) of this section:
-(a) Direct custody, supervision, and patient care in corrections, juvenile rehabilitation, institutional care of veterans, the mentally ill, developmentally disabled, state hospitals, the special commitment center, and the schools for the blind and the deaf;
-(b) Direct protective services to children and other vulnerable populations in the department of social and health services;
-(c) Washington state patrol investigative services and field enforcement;
-(d) Hazardous materials response and emergency cleanup;
-(e) Emergency public health and patient safety response and the public health laboratory;
-(f) Military operations and emergency management within the military department;
-(g) Firefighting;
-(h) Enforcement officers in the department of fish and wildlife, the liquor and cannabis board, the gambling commission, and the department of natural resources;
-(i) Park rangers at the parks and recreation commission;
-(j) Seasonal employment by natural resources agencies to the extent that employment levels do not exceed the prior fiscal year;
-(k) Seasonal employment in the department of transportation maintenance programs to the extent that employment levels do not exceed the prior fiscal year;
-(l) Employees hired on a seasonal basis by the department of agriculture for inspection and certification of agricultural products and for insect detection;
-(m) Activities directly related to tax and fee collection, revenue generation, auditing, and recovery;
-(n) In institutions of higher education, any positions directly related to academic programs, as well as positions not funded from state funds or tuition;
-(o) Operations of the state lottery and liquor and cannabis board business enterprises;
-(p) The unemployment insurance program of the employment security department; and
-(q) Activities that are necessary to receive or maintain federal funds by the state.
-(3) The exemptions specified in subsection (2) of this section do not require the establishment of new staff positions or the filling of vacant existing staff positions in the activities specified.
-(4) Exceptions to this section may be granted under section 9 of this act.
+1. For the twenty-four months following the effective date of this section, state agencies of the legislative, executive, and judicial branches shall not establish new staff positions or fill vacant existing staff positions except as specifically authorized by this section.
+
+2. The following activities of state agencies are exempt from subsection (1) of this section:
+
+    a. Direct custody, supervision, and patient care in corrections, juvenile rehabilitation, institutional care of veterans, the mentally ill, developmentally disabled, state hospitals, the special commitment center, and the schools for the blind and the deaf;
+
+    b. Direct protective services to children and other vulnerable populations in the department of social and health services;
+
+    c. Washington state patrol investigative services and field enforcement;
+
+    d. Hazardous materials response and emergency cleanup;
+
+    e. Emergency public health and patient safety response and the public health laboratory;
+
+    f. Military operations and emergency management within the military department;
+
+    g. Firefighting;
+
+    h. Enforcement officers in the department of fish and wildlife, the liquor and cannabis board, the gambling commission, and the department of natural resources;
+
+    i. Park rangers at the parks and recreation commission;
+
+    j. Seasonal employment by natural resources agencies to the extent that employment levels do not exceed the prior fiscal year;
+
+    k. Seasonal employment in the department of transportation maintenance programs to the extent that employment levels do not exceed the prior fiscal year;
+
+    l. Employees hired on a seasonal basis by the department of agriculture for inspection and certification of agricultural products and for insect detection;
+
+    m. Activities directly related to tax and fee collection, revenue generation, auditing, and recovery;
+
+    n. In institutions of higher education, any positions directly related to academic programs, as well as positions not funded from state funds or tuition;
+
+    o. Operations of the state lottery and liquor and cannabis board business enterprises;
+
+    p. The unemployment insurance program of the employment security department; and
+
+    q. Activities that are necessary to receive or maintain federal funds by the state.
+
+3. The exemptions specified in subsection (2) of this section do not require the establishment of new staff positions or the filling of vacant existing staff positions in the activities specified.
+
+4. Exceptions to this section may be granted under section 9 of this act.
+
 
 ## Section 6
 For the twenty-four months following the effective date of this section, state agencies of the legislative, executive, and judicial branches shall not enter into any contracts or other agreements for the acquisition of personal services not related to an emergency or other catastrophic event that requires government action to protect life or public safety. This section does not apply to personal services contracts or other agreements for the acquisition of personal services where the costs are funded exclusively from private or federal grants, where the costs are for tax and fee collection, where the costs are for revenue generation and auditing activities, where the costs are necessary to receive or maintain federal funds by the state, or, in institutions of higher education, where the costs are not funded from state funds or tuition. Exceptions to this section may be granted under section 9 of this act. This section does not apply to the unemployment insurance program of the employment security department.
 
+
 ## Section 7
 For the twenty-four months following the effective date of this section, state agencies of the legislative, executive, and judicial branches shall not enter into any contracts or other agreements for the acquisition of any item of equipment the cost of which exceeds five thousand dollars and is not related to an emergency or other catastrophic event that requires government action to protect life or public safety. Exceptions to this section may be granted under section 9 of this act. This section does not apply to the unemployment insurance program of the employment security department, to costs that are for tax and fee collection, for revenue generation and audit activities, for receiving or maintaining federal funds by the state, or, in institutions of higher education, to costs not funded from state funds or tuition.
+
 
 ## Section 8
 For the twenty-four months following the effective date of this section, state agencies of the legislative, executive, and judicial branches shall not make expenditures for the cost or reimbursement of out-of-state travel or out-of-state training by state employees where the travel or training is not related to (1) an emergency or other catastrophic event that requires government action to protect life or public safety, or (2) direct service delivery, and the travel or training occurs after the effective date of this section and before July 1, 2021. This section does not apply to travel expenditures when the costs are funded exclusively from private or federal grants. Exceptions to this section may be granted under section 9 of this act. This section does not apply to the unemployment insurance program of the employment security department, to costs that are for tax and fee collection, for revenue generation and audit activities, for receiving or maintaining federal funds by the state, or, in institutions of higher education, to costs not funded from state funds or tuition.
 
+
 ## Section 9
-(1) Exceptions to sections 5 through 8 of this act may be granted for the critically necessary work of an agency as provided in this section.
-(2) For agencies of the executive branch, the exceptions shall be subject to approval by the director of financial management. For agencies of the judicial branch, the exceptions shall be subject to approval of the chief justice of the supreme court. For the house of representatives and the senate, the exceptions shall be subject to approval of the chief clerk of the house of representatives and the secretary of the senate, respectively, under the direction of the senate committee on facilities and operations and the executive rules committee of the house of representatives. For other legislative agencies, the exceptions shall be subject to approval of both the chief clerk of the house of representatives and the secretary of the senate under the direction of the senate committee on facilities and operations and the executive rules committee of the house of representatives.
-(3) Exceptions approved under subsection (2) of this section shall take effect no sooner than five business days following notification of the chair and ranking minority member of the ways and means committees in the house of representatives and the senate. The person approving exceptions under subsection (2) of this section shall send the exceptions to the legislature for consideration every thirty days from the effective date of this section, or earlier should volume or circumstances so necessitate.
+1. Exceptions to sections 5 through 8 of this act may be granted for the critically necessary work of an agency as provided in this section.
+
+2. For agencies of the executive branch, the exceptions shall be subject to approval by the director of financial management. For agencies of the judicial branch, the exceptions shall be subject to approval of the chief justice of the supreme court. For the house of representatives and the senate, the exceptions shall be subject to approval of the chief clerk of the house of representatives and the secretary of the senate, respectively, under the direction of the senate committee on facilities and operations and the executive rules committee of the house of representatives. For other legislative agencies, the exceptions shall be subject to approval of both the chief clerk of the house of representatives and the secretary of the senate under the direction of the senate committee on facilities and operations and the executive rules committee of the house of representatives.
+
+3. Exceptions approved under subsection (2) of this section shall take effect no sooner than five business days following notification of the chair and ranking minority member of the ways and means committees in the house of representatives and the senate. The person approving exceptions under subsection (2) of this section shall send the exceptions to the legislature for consideration every thirty days from the effective date of this section, or earlier should volume or circumstances so necessitate.
+
 
 ## Section 10
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

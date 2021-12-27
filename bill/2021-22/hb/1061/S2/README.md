@@ -4,6 +4,15 @@
 ## Section 1
 The legislature intends that this act help reduce the number of former foster youth with developmental disabilities discharged into homelessness or inappropriately placed in hospitals. The legislature further intends that the steps taken under this act maximize the use of the most cost-effective services for former foster youth with developmental disabilities.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [74.13](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
+
+1. The department shall collaborate with the developmental disabilities administration of the department of social and health services to determine the number of enrolled clients of the developmental disabilities administration of the department of social and health services ages 16 through 21 years old who are functionally eligible for medicaid waiver services, who are also defined as dependent children under chapter 13.34 RCW, and who may exit dependency proceedings under chapter 13.34 RCW after reaching the maximum age for dependent children.
+
+2. By November 15th, and in compliance with RCW 43.01.036, the department shall submit an annual report to the appropriate committees of the legislature that provides the number of children and youth identified under subsection (1) of this section and other relevant information related to best serving these youth.
+
+
 ## Section 3
 > This section modifies existing section [74.13.341](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
 
@@ -24,5 +33,12 @@ The legislature intends that this act help reduce the number of former foster yo
 3. If **children who are subject to an open dependency proceeding under chapter 13.34 RCW and** who are the subject of **either shared planning** meeting **described under this section** may qualify for **services provided by the** developmental **disabilities administration** pursuant to Title 71A RCW, the department shall direct these youth to apply for these services and provide assistance in the application process.
 
 
+## Section 4
+> This section adds a new section to an existing chapter [71A.12](/rcw/71A_developmental_disabilities/71A.12_state_services.md). Here is the [modified chapter](rcw/71A_developmental_disabilities/71A.12_state_services.md) for context.
+
+When there is funded capacity for services provided through a medicaid waiver administered by the department, and to the extent consistent with federal law and federal funding requirements, priority for that waiver shall be provided to eligible individuals who exited a dependency proceeding under chapter 13.34 RCW within the last two years.
+
+
 ## Section 5
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

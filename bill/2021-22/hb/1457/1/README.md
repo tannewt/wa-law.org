@@ -12,10 +12,17 @@
 
 
 ## Section 2
-(1) Subject to the availability of amounts appropriated for this specific purpose in the omnibus transportation appropriations act, the joint transportation committee shall oversee a consultant study to recommend:
-(a) An effective department of transportation strategy, and specific limited access highway corridors, that could be used to address missing fiber connections and inadequate broadband service in parts of the state underserved by broadband facilities;
-(b) The most promising planning and financing tools that could be used by the department of transportation to provide the state with greater ability to install conduit in anticipation of future broadband fiber occupancy by others;
-(c) Opportunities for mutually beneficial partnerships between the department of transportation and broadband service providers that could provide broadband services for transportation purposes such as intelligent transportation systems, cooperative automated transportation/autonomous vehicles, transportation demand management, and highway maintenance activities; and
-(d) Strategies for the mitigation of potential safety, operations, and preservation impacts to transportation related to the recommendations made in (a) through (c) of this subsection.
-(2) The study must also include an examination of any state and federal laws and regulations that could prevent or limit the implementation of these recommendations, as well as recommendations for modifications to the applicable state laws and regulations.
-(3) The joint transportation committee shall consult with the department of transportation, the Washington statewide broadband office, and other state agencies and local jurisdictions, as necessary, during development of the study's recommendations to ensure the relevance and applicability of the recommendations to the state.
+1. Subject to the availability of amounts appropriated for this specific purpose in the omnibus transportation appropriations act, the joint transportation committee shall oversee a consultant study to recommend:
+
+    a. An effective department of transportation strategy, and specific limited access highway corridors, that could be used to address missing fiber connections and inadequate broadband service in parts of the state underserved by broadband facilities;
+
+    b. The most promising planning and financing tools that could be used by the department of transportation to provide the state with greater ability to install conduit in anticipation of future broadband fiber occupancy by others;
+
+    c. Opportunities for mutually beneficial partnerships between the department of transportation and broadband service providers that could provide broadband services for transportation purposes such as intelligent transportation systems, cooperative automated transportation/autonomous vehicles, transportation demand management, and highway maintenance activities; and
+
+    d. Strategies for the mitigation of potential safety, operations, and preservation impacts to transportation related to the recommendations made in (a) through (c) of this subsection.
+
+2. The study must also include an examination of any state and federal laws and regulations that could prevent or limit the implementation of these recommendations, as well as recommendations for modifications to the applicable state laws and regulations.
+
+3. The joint transportation committee shall consult with the department of transportation, the Washington statewide broadband office, and other state agencies and local jurisdictions, as necessary, during development of the study's recommendations to ensure the relevance and applicability of the recommendations to the state.
+

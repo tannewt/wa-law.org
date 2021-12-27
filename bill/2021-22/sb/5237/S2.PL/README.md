@@ -4,61 +4,106 @@
 ## Section 1
 This act may be known and cited as the fair start for kids act.
 
+
 ## Section 2
-(1) The legislature finds that high quality child care and early learning is critical to a child's success in school and life. The legislature recognizes that COVID-19 has devastated the existing child care industry, making it unduly burdensome for families to find care. The legislature recognizes that without immediate action to support child care providers, and without expanded access to affordable child care, especially infant and school-age care, parents will not be able to return to work while children lose valuable learning opportunities. In order to bolster a full economic recovery, the legislature finds that every child deserves a fair start.
-(2) The legislature finds that access to affordable child care increases economic growth and labor force participation. The legislature further finds that an affordable, accessible system of high quality child care is necessary to the health of Washington's economy because employers benefit when parents have safe, stable, and appropriate care for their children. The legislature recognizes that too many working parents are forced to reduce their hours, decline promotional opportunities, or leave the workforce completely due to a lack of affordable and appropriate child care. The legislature finds that a report commissioned by the department of commerce in 2019 found that working parents in Washington forego $14,000,000,000 each year directly due to child care scarcity. The legislature recognizes that this disproportionally impacts women in the workforce and that in September 2020 alone, 78,000 men left the workforce, compared to 600,000 women.
-(3) The legislature recognizes that quality child care can be a
+1. The legislature finds that high quality child care and early learning is critical to a child's success in school and life. The legislature recognizes that COVID-19 has devastated the existing child care industry, making it unduly burdensome for families to find care. The legislature recognizes that without immediate action to support child care providers, and without expanded access to affordable child care, especially infant and school-age care, parents will not be able to return to work while children lose valuable learning opportunities. In order to bolster a full economic recovery, the legislature finds that every child deserves a fair start.
+
+2. The legislature finds that access to affordable child care increases economic growth and labor force participation. The legislature further finds that an affordable, accessible system of high quality child care is necessary to the health of Washington's economy because employers benefit when parents have safe, stable, and appropriate care for their children. The legislature recognizes that too many working parents are forced to reduce their hours, decline promotional opportunities, or leave the workforce completely due to a lack of affordable and appropriate child care. The legislature finds that a report commissioned by the department of commerce in 2019 found that working parents in Washington forego $14,000,000,000 each year directly due to child care scarcity. The legislature recognizes that this disproportionally impacts women in the workforce and that in September 2020 alone, 78,000 men left the workforce, compared to 600,000 women.
+
+3. The legislature recognizes that quality child care can be a
 stabilizing factor for children experiencing homelessness, and is a
 proven protective factor against the impacts of trauma they may
 experience. Access to child care is also a necessary support for
 families with young children in resolving homelessness and securing
 employment.
-(4) The legislature finds that the scarcity of child care, exacerbated by COVID-19, most significantly impacts families furthest from opportunity. The legislature recognizes that there are additional barriers to accessing this foundational support for immigrant communities and families whose first language is not English, families who have children with disabilities, rural communities, or other child care deserts. The legislature recognizes that high quality, inclusive child care and early learning programs have been shown to reduce the opportunity gap for low-income children and black, indigenous, and children of color while consistently improving outcomes for all children both inside and outside of the classroom.
-(5) The legislature finds that without access to comprehensive, high quality prenatal to five services, children often enter kindergarten without the social-emotional, physical, cognitive, and language skills they need to be successful and fall behind their peers, facing compounding developmental challenges throughout their K-12 education. The legislature finds that cascading impacts of inaccessible child care and early learning programs create systemic barriers for children and their families that result in higher special education needs, greater likelihood of needing to repeat grades, increased child welfare and juvenile justice involvement, reduced high school graduation rates, limited postsecondary education attainment, and greater barriers to employment in adulthood.
-(6) The legislature finds the vast majority of child care providers are small businesses and nonprofit organizations. In addition to adhering to federal, state, and local regulations to ensure healthy and safe environments for children, the legislature recognizes that child care providers must ensure their employees are adequately compensated and supported. However, the legislature acknowledges that the reduced staffing ratios for health and safety, additional cost of personal protective equipment and extra cleaning supplies, increased use of substitutes needed during COVID-19-related absences, and increased technology demands during school closures from the pandemic are further straining the viability of the child care business model in Washington state.
-(7) The legislature finds that the health and stability of the early learning workforce is pivotal to any expansion of child care in Washington state. The legislature recognizes that the child care workforce, predominantly comprised of women of color, is structurally afflicted by low wages, limited or no health care, and a severe lack of retirement benefits. The legislature further recognizes that the threat of COVID-19 compounds these underlying issues, forcing providers to navigate increased stress, anxiety, and behavioral issues all while risking their lives to care for children. The legislature recognizes that families, friends, and neighbors who provide care are a critical component of the child care system. The legislature finds that child care workers are essential and deserve to be compensated and benefited accordingly.
-(8) Therefore, the legislature resolves to respond to the COVID-19 crisis by first stabilizing the child care industry and then expanding access to a comprehensive continuum of high quality early childhood development programs, including infant and school-age child care, preschool, parent and family supports, and prenatal to three services. The legislature recognizes this continuum as critical to meeting different families' needs and offering every child in Washington access to a fair start.
-(9) The legislature recognizes that the federal government has provided substantial additional funding through the coronavirus response and relief supplemental appropriations act, P.L. 116-260, division M., and the American rescue plan act of 2021. The purpose of the additional federal funding is to ensure access to affordable child care and stabilize and support child care providers affected by COVID-19. Therefore, it is the intent of the legislature to use the additional federal funding to supplement state funding in order to accelerate these investments.
-(10) The legislature recognizes the strengths that multilingual, diverse early learning providers and caregivers contribute to early learning across the state. Therefore, the legislature intends to expand language access services to create an inclusive early learning system that specifically supports underserved providers.
-(11) The legislature intends to expand eligibility for existing child care and preschool programs to increase access. The legislature recognizes that expansion must be accompanied by an investment to make child care more affordable. Therefore, the legislature intends to eliminate copayments for low-income families and limit copayments for any family on subsidy to no more than seven percent of their income.
-(12) The legislature further intends to stabilize, support, and grow the diverse early learning workforce by funding living wages and affordable health benefits while providing training, infant and early childhood mental health consultation, shared business services, and a variety of other supports that recognize the critical role that early learning providers serve for all Washington children.
-(13) The legislature intends to accelerate Washington's economic recovery from the devastating impacts of COVID-19 by dramatically expanding access to affordable, high quality child care and preschool, in order to get parents back to work and provide every child with a fair start.
+
+4. The legislature finds that the scarcity of child care, exacerbated by COVID-19, most significantly impacts families furthest from opportunity. The legislature recognizes that there are additional barriers to accessing this foundational support for immigrant communities and families whose first language is not English, families who have children with disabilities, rural communities, or other child care deserts. The legislature recognizes that high quality, inclusive child care and early learning programs have been shown to reduce the opportunity gap for low-income children and black, indigenous, and children of color while consistently improving outcomes for all children both inside and outside of the classroom.
+
+5. The legislature finds that without access to comprehensive, high quality prenatal to five services, children often enter kindergarten without the social-emotional, physical, cognitive, and language skills they need to be successful and fall behind their peers, facing compounding developmental challenges throughout their K-12 education. The legislature finds that cascading impacts of inaccessible child care and early learning programs create systemic barriers for children and their families that result in higher special education needs, greater likelihood of needing to repeat grades, increased child welfare and juvenile justice involvement, reduced high school graduation rates, limited postsecondary education attainment, and greater barriers to employment in adulthood.
+
+6. The legislature finds the vast majority of child care providers are small businesses and nonprofit organizations. In addition to adhering to federal, state, and local regulations to ensure healthy and safe environments for children, the legislature recognizes that child care providers must ensure their employees are adequately compensated and supported. However, the legislature acknowledges that the reduced staffing ratios for health and safety, additional cost of personal protective equipment and extra cleaning supplies, increased use of substitutes needed during COVID-19-related absences, and increased technology demands during school closures from the pandemic are further straining the viability of the child care business model in Washington state.
+
+7. The legislature finds that the health and stability of the early learning workforce is pivotal to any expansion of child care in Washington state. The legislature recognizes that the child care workforce, predominantly comprised of women of color, is structurally afflicted by low wages, limited or no health care, and a severe lack of retirement benefits. The legislature further recognizes that the threat of COVID-19 compounds these underlying issues, forcing providers to navigate increased stress, anxiety, and behavioral issues all while risking their lives to care for children. The legislature recognizes that families, friends, and neighbors who provide care are a critical component of the child care system. The legislature finds that child care workers are essential and deserve to be compensated and benefited accordingly.
+
+8. Therefore, the legislature resolves to respond to the COVID-19 crisis by first stabilizing the child care industry and then expanding access to a comprehensive continuum of high quality early childhood development programs, including infant and school-age child care, preschool, parent and family supports, and prenatal to three services. The legislature recognizes this continuum as critical to meeting different families' needs and offering every child in Washington access to a fair start.
+
+9. The legislature recognizes that the federal government has provided substantial additional funding through the coronavirus response and relief supplemental appropriations act, P.L. 116-260, division M., and the American rescue plan act of 2021. The purpose of the additional federal funding is to ensure access to affordable child care and stabilize and support child care providers affected by COVID-19. Therefore, it is the intent of the legislature to use the additional federal funding to supplement state funding in order to accelerate these investments.
+
+10. The legislature recognizes the strengths that multilingual, diverse early learning providers and caregivers contribute to early learning across the state. Therefore, the legislature intends to expand language access services to create an inclusive early learning system that specifically supports underserved providers.
+
+11. The legislature intends to expand eligibility for existing child care and preschool programs to increase access. The legislature recognizes that expansion must be accompanied by an investment to make child care more affordable. Therefore, the legislature intends to eliminate copayments for low-income families and limit copayments for any family on subsidy to no more than seven percent of their income.
+
+12. The legislature further intends to stabilize, support, and grow the diverse early learning workforce by funding living wages and affordable health benefits while providing training, infant and early childhood mental health consultation, shared business services, and a variety of other supports that recognize the critical role that early learning providers serve for all Washington children.
+
+13. The legislature intends to accelerate Washington's economic recovery from the devastating impacts of COVID-19 by dramatically expanding access to affordable, high quality child care and preschool, in order to get parents back to work and provide every child with a fair start.
+
 
 ## Section 101
-(1) The fair start for kids account is created in the state treasury. Moneys in the account may be spent only after appropriation.
-(2) Expenditures from the account may be used only for child care and early learning purposes.
+1. The fair start for kids account is created in the state treasury. Moneys in the account may be spent only after appropriation.
+
+2. Expenditures from the account may be used only for child care and early learning purposes.
+
 
 ## Section 102
-(1) The spending goals and strategies for the fair start for kids account created under section 101 of this act include, but are not limited to:
-(a) Increasing child care subsidy rates, with the goal of moving toward the full cost of providing high quality child care;
-(b) Expanding health care coverage through state sponsorship of child care workers on the Washington health benefit exchange and providing consumer assistance through navigators, as well as any other expansions of access to affordable health care for staff in child care centers, family home providers, outdoor nature-based care, and early childhood education and assistance program staff;
-(c) Increasing child care and early learning providers' compensation;
-(d) Implementing the provisions of collective bargaining agreements for family child care providers negotiated pursuant to RCW 41.56.028;
-(e) Supporting and expanding access to the early childhood education and assistance program to reach state-funded entitlement required in RCW 43.216.556;
-(f) Making child care affordable for families;
-(g) Providing resources and supports for family, friend, and neighbor caregivers that better reflect the full cost of care;
-(h) Providing child care subsidies for families working to
+1. The spending goals and strategies for the fair start for kids account created under section 101 of this act include, but are not limited to:
+
+    a. Increasing child care subsidy rates, with the goal of moving toward the full cost of providing high quality child care;
+
+    b. Expanding health care coverage through state sponsorship of child care workers on the Washington health benefit exchange and providing consumer assistance through navigators, as well as any other expansions of access to affordable health care for staff in child care centers, family home providers, outdoor nature-based care, and early childhood education and assistance program staff;
+
+    c. Increasing child care and early learning providers' compensation;
+
+    d. Implementing the provisions of collective bargaining agreements for family child care providers negotiated pursuant to RCW 41.56.028;
+
+    e. Supporting and expanding access to the early childhood education and assistance program to reach state-funded entitlement required in RCW 43.216.556;
+
+    f. Making child care affordable for families;
+
+    g. Providing resources and supports for family, friend, and neighbor caregivers that better reflect the full cost of care;
+
+    h. Providing child care subsidies for families working to
 resolve homelessness;
-(i) Providing professional development opportunities and supporting the substitute pool for child care and early learning providers;
-(j) Delivering infant and early childhood mental health consultation services;
-(k) Establishing prekindergarten through third grade systems coordinators at educational service districts;
-(l) Supporting youth development programs serving children and youth ages birth through 12 including, but not limited to, expanded learning opportunities, mentoring, school-age child care, and wraparound supports or integrated student supports;
-(m) Awarding grants and loans through the early learning facilities grant and loan program established under chapter 43.31 RCW;
-(n) Funding special designations in the working connections child care programs, early childhood education and assistance programs, and birth to three early childhood education and assistance programs including designations established in sections 302, 304, 305, and 404 of this act;
-(o) Supporting costs for transparent data collection and information technology systems operated by the department and department contractors, in particular, to ensure equitable systemic service provision and outcomes;
-(p) Providing access to learning technology;
-(q) Providing child care resource and referral services;
-(r) Conducting quality rating and improvement system activities through the early achievers program;
-(s) Expanding prenatal to three services and supports, including the birth to three early childhood education and assistance program and the in-home parent skill-based programs established in RCW 43.216.130;
-(t) Building and delivering a family resource and referral linkage system;
-(u) Allowing the exploration of options to provide regulatory relief and make licensing more affordable for child care providers;
-(v) Administering comprehensive shared services hubs to allow the ongoing pooling and shared use of services by licensed or certified child care centers and family home providers;
-(w) Training department staff to ensure consistent and equitable application of child care licensing and quality standards across the state including antibias and antiracist training;
-(x) Providing incentives and supports for child care providers to become licensed;
-(y) Studying and evaluating options to incentivize business participation in child care and early learning systems;
-(z) Providing start-up grants to eligible organizations as described in RCW 43.31.575 who provide or commit to providing the early childhood education and assistance program or working connections child care. Start-up grants must be used for one-time start-up costs associated with the start-up of a new child care or early childhood education and assistance program site; and
-(aa) Recognizing the benefits of the diverse workforce and facilitating communication in the three most commonly spoken languages by developing a language access plan that centers on equity and access for immigrants, multilingual providers, caregivers, and families.
-(2) This section does not interfere with, impede, or in any way diminish the right of family child care providers to bargain collectively with the state through the exclusive bargaining representatives as provided for under RCW 41.56.028.
+
+    i. Providing professional development opportunities and supporting the substitute pool for child care and early learning providers;
+
+    j. Delivering infant and early childhood mental health consultation services;
+
+    k. Establishing prekindergarten through third grade systems coordinators at educational service districts;
+
+    l. Supporting youth development programs serving children and youth ages birth through 12 including, but not limited to, expanded learning opportunities, mentoring, school-age child care, and wraparound supports or integrated student supports;
+
+    m. Awarding grants and loans through the early learning facilities grant and loan program established under chapter 43.31 RCW;
+
+    n. Funding special designations in the working connections child care programs, early childhood education and assistance programs, and birth to three early childhood education and assistance programs including designations established in sections 302, 304, 305, and 404 of this act;
+
+    o. Supporting costs for transparent data collection and information technology systems operated by the department and department contractors, in particular, to ensure equitable systemic service provision and outcomes;
+
+    p. Providing access to learning technology;
+
+    q. Providing child care resource and referral services;
+
+    r. Conducting quality rating and improvement system activities through the early achievers program;
+
+    s. Expanding prenatal to three services and supports, including the birth to three early childhood education and assistance program and the in-home parent skill-based programs established in RCW 43.216.130;
+
+    t. Building and delivering a family resource and referral linkage system;
+
+    u. Allowing the exploration of options to provide regulatory relief and make licensing more affordable for child care providers;
+
+    v. Administering comprehensive shared services hubs to allow the ongoing pooling and shared use of services by licensed or certified child care centers and family home providers;
+
+    w. Training department staff to ensure consistent and equitable application of child care licensing and quality standards across the state including antibias and antiracist training;
+
+    x. Providing incentives and supports for child care providers to become licensed;
+
+    y. Studying and evaluating options to incentivize business participation in child care and early learning systems;
+
+    z. Providing start-up grants to eligible organizations as described in RCW 43.31.575 who provide or commit to providing the early childhood education and assistance program or working connections child care. Start-up grants must be used for one-time start-up costs associated with the start-up of a new child care or early childhood education and assistance program site; and
+
+    aa. Recognizing the benefits of the diverse workforce and facilitating communication in the three most commonly spoken languages by developing a language access plan that centers on equity and access for immigrants, multilingual providers, caregivers, and families.
+
+2. This section does not interfere with, impede, or in any way diminish the right of family child care providers to bargain collectively with the state through the exclusive bargaining representatives as provided for under RCW 41.56.028.
+
 
 ## Section 103
 > This section modifies existing section [43.88.055](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
@@ -247,43 +292,82 @@ The education legacy trust account is created in the state treasury. Money in th
 ## Section 106
 Beginning July 1, 2023, and subject to the availability of amounts appropriated for this specific purpose, rates paid under sections 302, 305, and 404 of this act and RCW 43.216.578 must be adjusted every two years according to an inflationary increase. The inflationary increase must be calculated by applying the rate of the increase in the inflationary adjustment index to the rates established in sections 302, 305, and 404 of this act and RCW 43.216.578. Any funded inflationary increase must be included in the rate used to determine inflationary increases in subsequent years. For the purposes of this section, "inflationary adjustment index" means the implicit price deflator averaged for each fiscal year, using the official current base rate, compiled by the bureau of economic analysis, United States department of commerce.
 
+
 ## Section 201
-(1) It is the intent of the legislature to increase working families' access to affordable, high quality child care and to support the expansion of the workforce to support businesses and the statewide economy.
-(2) Beginning October 1, 2021, a family is eligible for working connections child care when the household's annual income is at or below 60 percent of the state median income adjusted for family size and:
-(a) The child receiving care is: (i) Less than 13 years of age; or (ii) less than 19 years of age and has a verified special need according to department rule or is under court supervision; and
-(b) The household meets all other program eligibility requirements.
-(3) Beginning July 1, 2025, a family is eligible for working connections child care when the household's annual income is above 60 percent and at or below 75 percent of the state median income adjusted for family size and:
-(a) The child receiving care is: (i) Less than 13 years of age; or (ii) less than 19 years of age and has a verified special need according to department rule or is under court supervision; and
-(b) The household meets all other program eligibility requirements.
-(4) Beginning July 1, 2027, and subject to the availability of amounts appropriated for this specific purpose, a family is eligible for working connections child care when the household's annual income is above 75 percent of the state median income and is at or below 85 percent of the state median income adjusted for family size and:
-(a) The child receiving care is: (i) Less than 13 years of age; or (ii) less than 19 years of age and has a verified special need according to department rule or is under court supervision; and
-(b) The household meets all other program eligibility requirements.
-(5)(a) Beginning July 1, 2021, through June 30, 2023, the department must calculate a monthly copayment according to the following schedule:
+1. It is the intent of the legislature to increase working families' access to affordable, high quality child care and to support the expansion of the workforce to support businesses and the statewide economy.
+
+2. Beginning October 1, 2021, a family is eligible for working connections child care when the household's annual income is at or below 60 percent of the state median income adjusted for family size and:
+
+    a. The child receiving care is: (i) Less than 13 years of age; or (ii) less than 19 years of age and has a verified special need according to department rule or is under court supervision; and
+
+    b. The household meets all other program eligibility requirements.
+
+3. Beginning July 1, 2025, a family is eligible for working connections child care when the household's annual income is above 60 percent and at or below 75 percent of the state median income adjusted for family size and:
+
+    a. The child receiving care is: (i) Less than 13 years of age; or (ii) less than 19 years of age and has a verified special need according to department rule or is under court supervision; and
+
+    b. The household meets all other program eligibility requirements.
+
+4. Beginning July 1, 2027, and subject to the availability of amounts appropriated for this specific purpose, a family is eligible for working connections child care when the household's annual income is above 75 percent of the state median income and is at or below 85 percent of the state median income adjusted for family size and:
+
+    a. The child receiving care is: (i) Less than 13 years of age; or (ii) less than 19 years of age and has a verified special need according to department rule or is under court supervision; and
+
+    b. The household meets all other program eligibility requirements.
+
+5. [Empty]
+
+    a. Beginning July 1, 2021, through June 30, 2023, the department must calculate a monthly copayment according to the following schedule:
+
 If the household's income is:
+
 Then the household's maximum monthly copayment is:
+
 At or below 20 percent of the state median income
+
 Waived to the extent allowable under federal law; otherwise, a maximum of $15
+
 Above 20 percent and at or below 36 percent of the state median income
+
 $65
+
 Above 36 percent and at or below 50 percent of the state median income
+
 $115 until December 31, 2021, and $90 beginning January 1, 2022
+
 Above 50 percent and at or below 60 percent of the state median income
+
 $115
-(b) Beginning July 1, 2023, the department must calculate a monthly copayment according to the following schedule:
+
+    b. Beginning July 1, 2023, the department must calculate a monthly copayment according to the following schedule:
+
 If the household's income is:
+
 Then the household's maximum monthly copayment is:
+
 At or below 20 percent of the state median income
+
 Waived to the extent allowable under federal law; otherwise, a maximum of $15
+
 Above 20 percent and at or below 36 percent of the state median income
+
 $65
+
 Above 36 percent and at or below 50 percent of the state median income
+
 $90
+
 Above 50 percent and at or below 60 percent of the state median income
+
 $165
-(c) Beginning July 1, 2025, the department must calculate a maximum monthly copayment of $215 for households with incomes above 60 percent and at or below 75 percent of the state median income.
-(d) Subject to the availability of amounts appropriated for this specific purpose, the department shall adopt a copayment model for households with annual incomes above 75 percent of the state median income and at or below 85 percent of the state median income. The model must calculate a copayment for each household that is no greater than seven percent of the household's countable income within this income range.
-(e) The department may adjust the copayment schedule to comply with federal law.
-(6) The department must adopt rules to implement this section, including an income phase-out eligibility period.
+
+    c. Beginning July 1, 2025, the department must calculate a maximum monthly copayment of $215 for households with incomes above 60 percent and at or below 75 percent of the state median income.
+
+    d. Subject to the availability of amounts appropriated for this specific purpose, the department shall adopt a copayment model for households with annual incomes above 75 percent of the state median income and at or below 85 percent of the state median income. The model must calculate a copayment for each household that is no greater than seven percent of the household's countable income within this income range.
+
+    e. The department may adjust the copayment schedule to comply with federal law.
+
+6. The department must adopt rules to implement this section, including an income phase-out eligibility period.
+
 
 ## Section 202
 > This section modifies existing section [43.216.136](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
@@ -340,9 +424,12 @@ $165
 
 
 ## Section 203
-(1) The legislature finds that eligibility guidelines for the national school lunch program require free meals for children with household incomes at or below 130 percent of the federal poverty level and that this income level is approximately equivalent to 36 percent of the state median income for a household of three. The legislature further finds that eligibility guidelines require reduced-price meals for children with household incomes at or below 185 percent of the federal poverty level and that this income level is approximately equivalent to 50 percent of the state median income for a household of three.
-(2) Therefore, the legislature intends to raise the maximum family income for children entitled to enroll in the early childhood education and assistance program to 36 percent of the state median income beginning July 1, 2026. Beginning in the 2030-31 school year, the legislature intends to raise the maximum family income for children entitled to enroll in this program to 50 percent of the state median income. It is the intent of the legislature to standardize income eligibility levels for assistance programs in order to help families and social workers better understand the benefits for which families qualify and to simplify and align state systems wherever feasible.
-(3) The legislature further intends to support educational service districts to help school districts partner with early childhood education and assistance program contractors and providers to expand access.
+1. The legislature finds that eligibility guidelines for the national school lunch program require free meals for children with household incomes at or below 130 percent of the federal poverty level and that this income level is approximately equivalent to 36 percent of the state median income for a household of three. The legislature further finds that eligibility guidelines require reduced-price meals for children with household incomes at or below 185 percent of the federal poverty level and that this income level is approximately equivalent to 50 percent of the state median income for a household of three.
+
+2. Therefore, the legislature intends to raise the maximum family income for children entitled to enroll in the early childhood education and assistance program to 36 percent of the state median income beginning July 1, 2026. Beginning in the 2030-31 school year, the legislature intends to raise the maximum family income for children entitled to enroll in this program to 50 percent of the state median income. It is the intent of the legislature to standardize income eligibility levels for assistance programs in order to help families and social workers better understand the benefits for which families qualify and to simplify and align state systems wherever feasible.
+
+3. The legislature further intends to support educational service districts to help school districts partner with early childhood education and assistance program contractors and providers to expand access.
+
 
 ## Section 204
 > This section modifies existing section [43.216.505](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
@@ -425,18 +512,28 @@ Children enrolled in the early childhood education and assistance program under 
 
 
 ## Section 206
-(1) The department shall adopt rules that allow a child to enroll in the early childhood education and assistance program, as space is available and subject to the availability of amounts appropriated for this specific purpose, when the child is not eligible under RCW 43.216.505 and the child turns three years old at any time during the school year when the child:
-(a) Has a family income at or below 50 percent of the state median income or meets at least one risk factor criterion adopted by the department in rule; and
-(b) Has received services from or participated in:
-(i) The early head start or a successor federal program providing comprehensive services for children from birth through two years of age;
-(ii) The early support for infants and toddlers program or received class C developmental services;
-(iii) The birth to three early childhood education and assistance program; or
-(iv) The early childhood intervention and prevention services program.
-(2) Children enrolled in the early childhood education and assistance program under this section are not eligible children as defined in RCW 43.216.505 and are not part of the state-funded entitlement required in RCW 43.216.556.
+1. The department shall adopt rules that allow a child to enroll in the early childhood education and assistance program, as space is available and subject to the availability of amounts appropriated for this specific purpose, when the child is not eligible under RCW 43.216.505 and the child turns three years old at any time during the school year when the child:
+
+    a. Has a family income at or below 50 percent of the state median income or meets at least one risk factor criterion adopted by the department in rule; and
+
+    b. Has received services from or participated in:
+
+        i. The early head start or a successor federal program providing comprehensive services for children from birth through two years of age;
+
+        ii. The early support for infants and toddlers program or received class C developmental services;
+
+        iii. The birth to three early childhood education and assistance program; or
+
+        iv. The early childhood intervention and prevention services program.
+
+2. Children enrolled in the early childhood education and assistance program under this section are not eligible children as defined in RCW 43.216.505 and are not part of the state-funded entitlement required in RCW 43.216.556.
+
 
 ## Section 207
-(1) The department must consult, and obtain the advice and consent of, the governing bodies of the state's federally recognized tribes in developing an agreed-upon definition of the term "Indian" for the purposes of RCW 43.216.505 and, by July 1, 2024, must adopt the definition in rule.
-(2) This section expires December 1, 2030.
+1. The department must consult, and obtain the advice and consent of, the governing bodies of the state's federally recognized tribes in developing an agreed-upon definition of the term "Indian" for the purposes of RCW 43.216.505 and, by July 1, 2024, must adopt the definition in rule.
+
+2. This section expires December 1, 2030.
+
 
 ## Section 208
 > This section modifies existing section [43.216.556](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
@@ -473,40 +570,84 @@ Children enrolled in the early childhood education and assistance program under 
 
 
 ## Section 302
-(1) For the 2021-22 school year, rates for the early childhood education and assistance program must be set at a level at least 10 percent higher than the rates established in section 225, chapter 415, Laws of 2019.
-(2) It is the intent of the legislature that rate increases shall be informed by the department's 2020 early childhood education and assistance program rate study.
-(3) This section expires June 30, 2027.
+1. For the 2021-22 school year, rates for the early childhood education and assistance program must be set at a level at least 10 percent higher than the rates established in section 225, chapter 415, Laws of 2019.
+
+2. It is the intent of the legislature that rate increases shall be informed by the department's 2020 early childhood education and assistance program rate study.
+
+3. This section expires June 30, 2027.
+
 
 ## Section 303
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department shall administer two complex needs funds to promote inclusive, least restrictive environments and to support contractors and providers serving children who have developmental delays, disabilities, behavioral needs, or other unique needs. The department shall work collaboratively with the office of the superintendent of public instruction and providers to best serve children. One fund must support early childhood education and assistance program contractors and providers and birth to three early childhood education and assistance program contractors and providers, and one fund must support licensed or certified child care providers and license-exempt child care programs.
-(2) Support may include staffing, programming, therapeutic services, and equipment or technology support. Additional support may include activities to assist families with children expelled or at risk of expulsion from child care, and to help families transition in and out of child care.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall administer two complex needs funds to promote inclusive, least restrictive environments and to support contractors and providers serving children who have developmental delays, disabilities, behavioral needs, or other unique needs. The department shall work collaboratively with the office of the superintendent of public instruction and providers to best serve children. One fund must support early childhood education and assistance program contractors and providers and birth to three early childhood education and assistance program contractors and providers, and one fund must support licensed or certified child care providers and license-exempt child care programs.
+
+2. Support may include staffing, programming, therapeutic services, and equipment or technology support. Additional support may include activities to assist families with children expelled or at risk of expulsion from child care, and to help families transition in and out of child care.
+
 
 ## Section 304
-(1) Beginning July 1, 2022, the department shall provide supports to aid eligible providers in providing trauma-informed care. Trauma-informed care supports may be used by eligible providers for the following purposes:
-(a) Additional compensation for individual staff who have an infant and early childhood mental health or other child development specialty credential;
-(b) Trauma-informed professional development and training;
-(c) The purchase of screening tools and assessment materials;
-(d) Supportive services for children with complex needs that are offered as fee-for-service within local communities; or
-(e) Other related expenses.
-(2) The department must adopt rules to implement this section.
-(3) For the purposes of this section, "eligible provider" means: (a) An employee or owner of a licensed or certified child care center or outdoor nature-based care accepting state subsidy; (b) an employee or owner of a licensed family home provider accepting state subsidy; (c) a contractor or provider of the early childhood education and assistance program or birth to three early childhood education and assistance program; (d) a license-exempt child care program; or (e) an early achievers coach.
+1. Beginning July 1, 2022, the department shall provide supports to aid eligible providers in providing trauma-informed care. Trauma-informed care supports may be used by eligible providers for the following purposes:
+
+    a. Additional compensation for individual staff who have an infant and early childhood mental health or other child development specialty credential;
+
+    b. Trauma-informed professional development and training;
+
+    c. The purchase of screening tools and assessment materials;
+
+    d. Supportive services for children with complex needs that are offered as fee-for-service within local communities; or
+
+    e. Other related expenses.
+
+2. The department must adopt rules to implement this section.
+
+3. For the purposes of this section, "eligible provider" means: (a) An employee or owner of a licensed or certified child care center or outdoor nature-based care accepting state subsidy; (b) an employee or owner of a licensed family home provider accepting state subsidy; (c) a contractor or provider of the early childhood education and assistance program or birth to three early childhood education and assistance program; (d) a license-exempt child care program; or (e) an early achievers coach.
+
 
 ## Section 305
-(1) Beginning July 1, 2022, the department shall establish a dual language designation and provide subsidy rate enhancements or site-specific grants for licensed or certified child care providers who are accepting state subsidy; early childhood education and assistance program contractors; or birth to three early childhood education and assistance program contractors. It is the intent of the legislature to allow uses of rate enhancements or site-specific grants to include increased wages for individual staff who provide bilingual instruction, professional development training, the purchase of dual language and culturally appropriate curricula and accompanying training programs, instructional materials, or other related expenses.
-(2) The department must consult with a culturally and linguistically diverse stakeholder advisory group to develop criteria for the dual language designation.
-(3) The department must adopt rules to implement this section.
+1. Beginning July 1, 2022, the department shall establish a dual language designation and provide subsidy rate enhancements or site-specific grants for licensed or certified child care providers who are accepting state subsidy; early childhood education and assistance program contractors; or birth to three early childhood education and assistance program contractors. It is the intent of the legislature to allow uses of rate enhancements or site-specific grants to include increased wages for individual staff who provide bilingual instruction, professional development training, the purchase of dual language and culturally appropriate curricula and accompanying training programs, instructional materials, or other related expenses.
+
+2. The department must consult with a culturally and linguistically diverse stakeholder advisory group to develop criteria for the dual language designation.
+
+3. The department must adopt rules to implement this section.
+
 
 ## Section 306
-(1) In order to expand the supply of critically needed after-hours care to meet the needs of parents and caregivers and a round-the-clock economy, the department of children, youth, and families, in consultation with diverse stakeholders, must develop a rate model for nonstandard child care hours and submit the model to the governor and the appropriate committees of the legislature by January 1, 2022.
-(2) This section expires June 30, 2022.
+1. In order to expand the supply of critically needed after-hours care to meet the needs of parents and caregivers and a round-the-clock economy, the department of children, youth, and families, in consultation with diverse stakeholders, must develop a rate model for nonstandard child care hours and submit the model to the governor and the appropriate committees of the legislature by January 1, 2022.
+
+2. This section expires June 30, 2022.
+
 
 ## Section 307
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department shall distribute early childhood equity grants to eligible applicants. Eligible applicants include play and learn groups, licensed or certified child care centers and family home providers, license-exempt child care programs, and early childhood education and assistance program contractors. The equity grants are intended to serve as a step toward expanding access to early learning statewide and transforming Washington's early learning system to make it more inclusive and equitable. The department shall administer the early childhood equity grants to support inclusive and culturally and linguistically specific early learning and early childhood and parent support programs across the state.
-(2) The department must conduct an equitable process to prioritize grant applications for early childhood equity grant assistance. An eligible applicant may receive an early childhood equity grant once every two years. When conducting the equitable grant process, the department must:
-(a) Solicit project applications from a racially and geographically diverse pool of eligible applicants statewide;
-(b) Provide application materials in the five most commonly spoken languages in the state and broadly communicate using a variety of strategies to reach diverse communities;
-(c) Require applicants to demonstrate their proposed uses of early childhood equity grant funds to incorporate either inclusive practices or culturally and linguistically supportive and relevant practices, or both, into early learning program design, delivery, education, training, and evaluation; and
-(d) Provide technical assistance to any applicant who needs it.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall distribute early childhood equity grants to eligible applicants. Eligible applicants include play and learn groups, licensed or certified child care centers and family home providers, license-exempt child care programs, and early childhood education and assistance program contractors. The equity grants are intended to serve as a step toward expanding access to early learning statewide and transforming Washington's early learning system to make it more inclusive and equitable. The department shall administer the early childhood equity grants to support inclusive and culturally and linguistically specific early learning and early childhood and parent support programs across the state.
+
+2. The department must conduct an equitable process to prioritize grant applications for early childhood equity grant assistance. An eligible applicant may receive an early childhood equity grant once every two years. When conducting the equitable grant process, the department must:
+
+    a. Solicit project applications from a racially and geographically diverse pool of eligible applicants statewide;
+
+    b. Provide application materials in the five most commonly spoken languages in the state and broadly communicate using a variety of strategies to reach diverse communities;
+
+    c. Require applicants to demonstrate their proposed uses of early childhood equity grant funds to incorporate either inclusive practices or culturally and linguistically supportive and relevant practices, or both, into early learning program design, delivery, education, training, and evaluation; and
+
+    d. Provide technical assistance to any applicant who needs it.
+
+
+## Section 308
+> This section adds a new section to an existing chapter [43.330](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the department, in collaboration with the department of children, youth, and families, shall provide or contract to provide remote or in-person technical assistance to employers interested in supporting their employees' access to high quality child care.
+
+2. Technical assistance may include guidance related to:
+
+    a. Operating a licensed child care center at or near the workplace for the benefit of employees;
+
+    b. Financing and construction of a licensed child care center at or near the workplace for the benefit of employees;
+
+    c. Providing financial assistance to employees for licensed or certified child care providers and license-exempt child care program expenses;
+
+    d. Encouraging access and support for low-wage employees;
+
+    e. Sponsoring dependent care flexible spending accounts for employees; and
+
+    f. Developing a "bring your infant to work" program and other family-friendly work policies for employees.
+
 
 ## Section 309
 > This section modifies existing section [43.216.090](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
@@ -523,41 +664,66 @@ Children enrolled in the early childhood education and assistance program under 
 ## Section 310
 Subject to the availability of amounts appropriated for this specific purpose, the department, in consultation with community-based programs, shall provide or contract to provide, or both, resources and supports for inclusive and culturally and linguistically relevant play and learn groups. Play and learn groups offer parents and other caregivers culturally responsive opportunities to support their children's early learning, build relationships that reduce isolation and encourage socialization, and promote kindergarten readiness.
 
+
 ## Section 311
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department shall provide professional development supports to aid eligible providers in reaching the professional education and training standards adopted by the department. Professional development supports may include:
-(a) Department-required trainings for child care providers conducted by department-approved trainers;
-(b) Trainings for license-exempt family, friend, and neighbor child care providers conducted by department-approved trainers;
-(c) Early achievers scholarships;
-(d) Community-based training pathways and systems developed under RCW 43.216.755;
-(e) Supporting a nonprofit organization that provides relationship-based professional development support to family, friend, and neighbor caregivers, child care centers, and licensed family home providers, and their work to help providers start their businesses; and
-(f) Other professional development activities such as updating training content, data collection and reporting, trainer recruitment, retention, program monitoring, and trainings delivered by department-approved trainers on topics such as small business management, antibias and antiracist training, providing care for children with developmental disabilities, social-emotional learning, implementing inclusionary practices in early learning environments, infant and toddler care, dual language program development, and providing trauma-informed care.
-(2) For the purposes of this section, "eligible provider" means: (a) An owner of a licensed or certified child care center, licensed or certified outdoor nature-based care, or licensed family home provider accepting state subsidy; (b) an employee of a licensed or certified child care center, licensed or certified outdoor nature-based care, or a licensed family home provider; (c) a contractor or provider of the early childhood education and assistance program or birth to three early childhood education and assistance program; or (d) an early achievers coach.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall provide professional development supports to aid eligible providers in reaching the professional education and training standards adopted by the department. Professional development supports may include:
+
+    a. Department-required trainings for child care providers conducted by department-approved trainers;
+
+    b. Trainings for license-exempt family, friend, and neighbor child care providers conducted by department-approved trainers;
+
+    c. Early achievers scholarships;
+
+    d. Community-based training pathways and systems developed under RCW 43.216.755;
+
+    e. Supporting a nonprofit organization that provides relationship-based professional development support to family, friend, and neighbor caregivers, child care centers, and licensed family home providers, and their work to help providers start their businesses; and
+
+    f. Other professional development activities such as updating training content, data collection and reporting, trainer recruitment, retention, program monitoring, and trainings delivered by department-approved trainers on topics such as small business management, antibias and antiracist training, providing care for children with developmental disabilities, social-emotional learning, implementing inclusionary practices in early learning environments, infant and toddler care, dual language program development, and providing trauma-informed care.
+
+2. For the purposes of this section, "eligible provider" means: (a) An owner of a licensed or certified child care center, licensed or certified outdoor nature-based care, or licensed family home provider accepting state subsidy; (b) an employee of a licensed or certified child care center, licensed or certified outdoor nature-based care, or a licensed family home provider; (c) a contractor or provider of the early childhood education and assistance program or birth to three early childhood education and assistance program; or (d) an early achievers coach.
+
 
 ## Section 312
 When the secretary elects to engage in negotiated rule making pursuant to RCW 34.05.310(2)(a), the department must include the largest organization representing child care center owners and directors; the largest organization representing supervisors, teachers, and aides; and other affected interests before adopting requirements that affect child care center licensees.
 
+
 ## Section 313
 The department may waive the limit, as established in RCW 43.216.010(1)(c), that restricts family home providers from serving not more than 12 children. The department must establish conditions for such waivers by rule and must assess, at a minimum, the provider's available square footage and staffing capabilities prior to issuing any waiver of the limit of 12 children.
 
+
 ## Section 314
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department shall establish a grant program to expand child care in child care deserts. Grants must be used for one-time costs associated with the opening of a child care site, including program costs, for providers who are newly licensed or are in the process of becoming licensed.
-(2) The department must use the child care industry insights dashboard from the child care industry assessment as a tool to identify areas in which additional investments are needed in order to expand existing child care capacity to meet family demand and reduce child care deserts.
-(3) This section expires June 30, 2026.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall establish a grant program to expand child care in child care deserts. Grants must be used for one-time costs associated with the opening of a child care site, including program costs, for providers who are newly licensed or are in the process of becoming licensed.
+
+2. The department must use the child care industry insights dashboard from the child care industry assessment as a tool to identify areas in which additional investments are needed in order to expand existing child care capacity to meet family demand and reduce child care deserts.
+
+3. This section expires June 30, 2026.
+
 
 ## Section 401
-(1) The legislature finds that parental relationships and healthy interactions in the first few years of life help shape the development of babies' and toddlers' brains and bodies. Eighty percent of the brain is developed by the age of three and parents are a child's first teachers.
-(2) The legislature finds that the federal family first prevention services act (P.L. 115-123) offers the state the opportunity to leverage federal funding for certain programs, including in-home parent skill-based programs, substance use disorder support, and mental health interventions. Culturally relevant, evidence-based programs that may qualify for these federal funds are limited. Therefore, state support may be necessary to serve traditionally underrepresented communities and increase positive engagement from parents and caregivers of children from before birth to age three.
-(3) The legislature finds that small teacher-child ratios for infant and toddler care, as well as the existence of child care deserts with low levels of access to care for the birth to three age group, contribute to higher expenses for providers and families with babies and young children.
-(4) Therefore, the legislature intends to expand parent and family education and support, incentivize the provision of infant and toddler care, and make early therapeutic and preventative services more readily available to families and young children.
+1. The legislature finds that parental relationships and healthy interactions in the first few years of life help shape the development of babies' and toddlers' brains and bodies. Eighty percent of the brain is developed by the age of three and parents are a child's first teachers.
+
+2. The legislature finds that the federal family first prevention services act (P.L. 115-123) offers the state the opportunity to leverage federal funding for certain programs, including in-home parent skill-based programs, substance use disorder support, and mental health interventions. Culturally relevant, evidence-based programs that may qualify for these federal funds are limited. Therefore, state support may be necessary to serve traditionally underrepresented communities and increase positive engagement from parents and caregivers of children from before birth to age three.
+
+3. The legislature finds that small teacher-child ratios for infant and toddler care, as well as the existence of child care deserts with low levels of access to care for the birth to three age group, contribute to higher expenses for providers and families with babies and young children.
+
+4. Therefore, the legislature intends to expand parent and family education and support, incentivize the provision of infant and toddler care, and make early therapeutic and preventative services more readily available to families and young children.
+
 
 ## Section 402
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department shall administer a prenatal to three family engagement strategy to support expectant parents, babies and toddlers from birth to three years of age, and their caregivers.
-(2) Components of the prenatal to three family engagement strategy must include supports and services to improve maternal and infant health outcomes, reduce and mitigate trauma, promote attachment and other social-emotional assets, strengthen parenting skills, and provide early supports to help maximize healthy and robust childhood development and reduce isolation. Services and supports may include:
-(a) In-home parent skill-based programs and training established in RCW 43.216.130;
-(b) Facilitated play and learn groups;
-(c) Parent peer-support groups, including groups designed for families with children with complex needs; families whose primary home language is not English; incarcerated parents; families coping with substance use disorder or mental health support needs; black, indigenous, and families of color; or other specific needs; and
-(d) Other prenatal to age three programs and services.
-(3) Continuity of services for babies and toddlers are important for early childhood brain development. Therefore, the services and supports described in this section may be made available to biological parents, foster parents, kinship care providers, and other family, friend, and neighbor caregivers.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall administer a prenatal to three family engagement strategy to support expectant parents, babies and toddlers from birth to three years of age, and their caregivers.
+
+2. Components of the prenatal to three family engagement strategy must include supports and services to improve maternal and infant health outcomes, reduce and mitigate trauma, promote attachment and other social-emotional assets, strengthen parenting skills, and provide early supports to help maximize healthy and robust childhood development and reduce isolation. Services and supports may include:
+
+    a. In-home parent skill-based programs and training established in RCW 43.216.130;
+
+    b. Facilitated play and learn groups;
+
+    c. Parent peer-support groups, including groups designed for families with children with complex needs; families whose primary home language is not English; incarcerated parents; families coping with substance use disorder or mental health support needs; black, indigenous, and families of color; or other specific needs; and
+
+    d. Other prenatal to age three programs and services.
+
+3. Continuity of services for babies and toddlers are important for early childhood brain development. Therefore, the services and supports described in this section may be made available to biological parents, foster parents, kinship care providers, and other family, friend, and neighbor caregivers.
+
 
 ## Section 403
 > This section modifies existing section [43.216.578](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
@@ -578,18 +744,28 @@ To be eligible for the birth to three early childhood education and assistance p
 
 
 ## Section 404
-(1) The legislature finds that our state suffers from an extreme shortage of infant child care, impacting the ability of parents to participate in the workforce. Further, parents returning to work after using paid family leave to care for a new child struggle to find readily available, high quality care during a time of critical growth and brain development for young children. Therefore, the legislature intends to incentivize the provision of high quality infant care.
-(2) Beginning July 1, 2022, the department shall provide an infant rate enhancement for licensed or certified child care providers and birth to three early childhood education and assistance program contractors who are:
-(a) Accepting state subsidy;
-(b) In good standing with the early achievers quality rating and improvement system; and
-(c) Caring for a child between the ages of birth and 11 months.
-(3) The department must adopt rules to implement this section.
+1. The legislature finds that our state suffers from an extreme shortage of infant child care, impacting the ability of parents to participate in the workforce. Further, parents returning to work after using paid family leave to care for a new child struggle to find readily available, high quality care during a time of critical growth and brain development for young children. Therefore, the legislature intends to incentivize the provision of high quality infant care.
+
+2. Beginning July 1, 2022, the department shall provide an infant rate enhancement for licensed or certified child care providers and birth to three early childhood education and assistance program contractors who are:
+
+    a. Accepting state subsidy;
+
+    b. In good standing with the early achievers quality rating and improvement system; and
+
+    c. Caring for a child between the ages of birth and 11 months.
+
+3. The department must adopt rules to implement this section.
+
 
 ## Section 405
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department shall administer early therapeutic and preventative services and programs, such as the early childhood intervention and prevention services program, and other related services for children who are:
-(a) Between the ages of birth and five years; and
-(b) Referred by a child welfare worker, a department of social and health services social worker, a primary care physician, a behavioral health provider, or a public health nurse due to: (i) Risk of child abuse or neglect; (ii) exposure to complex trauma; or (iii) significant developmental delays.
-(2) Subject to the availability of amounts appropriated for this specific purpose, the department shall make all reasonable efforts to deliver early therapeutic and preventative services and programs statewide. These services and programs must focus first on children and families furthest from opportunity as defined by income and be delivered by programs that emphasize greater racial equity.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall administer early therapeutic and preventative services and programs, such as the early childhood intervention and prevention services program, and other related services for children who are:
+
+    a. Between the ages of birth and five years; and
+
+    b. Referred by a child welfare worker, a department of social and health services social worker, a primary care physician, a behavioral health provider, or a public health nurse due to: (i) Risk of child abuse or neglect; (ii) exposure to complex trauma; or (iii) significant developmental delays.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the department shall make all reasonable efforts to deliver early therapeutic and preventative services and programs statewide. These services and programs must focus first on children and families furthest from opportunity as defined by income and be delivered by programs that emphasize greater racial equity.
+
 
 ## Section 501
 > This section modifies existing section [43.216.010](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
@@ -810,5 +986,7 @@ The department shall:
 ## Section 601
 Nothing in this act changes the department's responsibility to collectively bargain over mandatory subjects consistent with RCW 41.56.028(3) or limits the legislature's authority to make programmatic modifications to licensed child care and early learning programs consistent with legislative reservation of rights under RCW 41.56.028(4)(d).
 
+
 ## Section 603
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to ensure Washington's transportation infrastructure can support the safe and efficient movement of people and goods. Primary funding for transportation infrastructure efforts comes from the state portion of the fuel tax and fees for registering motor vehicles. This is an unsustainable model of funding in light of the trend to adopt laws that are meant to reduce vehicle miles traveled, reduce the quantity of emissions of greenhouse gases per distance traveled in the transportation sector, and reduce the sale of fossil fuels. There is an immediate need for additional funding to address a backlog in preservation and maintenance on the existing transportation system. The legislature intends to establish an additional funding source that would not be subject to bonding, and therefore offer greater flexibility and efficiency in addressing transportation infrastructure needs. The legislature finds that dedicating the sales tax revenue on vehicle sales to the transportation budget would reinforce the state's ability to provide the twenty-first century transportation system that the people of Washington can and should expect.
 
+
 ## Section 2
 > This section modifies existing section [82.08.020](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
 
@@ -112,6 +113,18 @@ It is the intent of the legislature to ensure Washington's transportation infras
 5. For purposes of the tax imposed in this section, "person" includes anyone within the definition of "buyer," "purchaser," and "consumer" in RCW 82.08.010.
 
 6. **Beginning July 1, 2022, and every year thereafter 100 percent of all use tax revenue collected under subsection (1) of this section on the use of each new and used vehicle in this state, but excluding retail car rentals taxed under RCW 82.08.020, must be deposited into the transportation preservation and maintenance account.**
+
+
+## Section 4
+> This section adds a new section to an existing chapter [46.68](/rcw/46_motor_vehicles/46.68_disposition_of_revenue.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.68_disposition_of_revenue.md) for context.
+
+1. The transportation preservation and maintenance account is created in the state treasury. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for transportation projects, programs, or activities.
+
+2. All sales and use tax revenues on new and used vehicles deposited into the transportation preservation and maintenance account pursuant to RCW 82.08.020 and 82.12.020 must be used exclusively on a cash funding basis for transportation projects, programs, and activities, including reducing the reliance on transportation-related debt obligations pursuant to subsection (3) of this section. All sales and use tax revenues on new and used vehicles deposited into the transportation preservation and maintenance account pursuant to RCW 82.08.020 and 82.12.020 cannot be used for any new revenue bond issues or used as a source for any other type of debt or similar type of financing mechanism.
+
+3. Part of the purpose in the allocation of additional resources from the sales and use tax revenues on new and used vehicles into the transportation preservation and maintenance account pursuant to RCW 82.08.020 and 82.12.020 is to lower the overall reliance on debt financing for transportation projects and infrastructure. Beginning December 1, 2023, and each two years thereafter, the state treasurer must prepare a report that shows the impact of this act on the reliance of debt financing for transportation appropriations.
+
+4. Nothing in this section may be construed so as to violate any terms or conditions contained in any highway construction bond issues now or hereafter authorized by statute and whose payment is by such statute pledged to be paid from any excise taxes on fuel.
 
 
 ## Section 5

@@ -195,6 +195,12 @@ If a judgment and sentence or subsequent order to pay does not include the state
 8. For purposes of this section, "domestic violence" means the same as in RCW 10.99.020.
 
 
+## Section 8
+> This section adds a new section to an existing chapter [10.01](/rcw/10_criminal_procedure/10.001_general_provisions.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.001_general_provisions.md) for context.
+
+A defendant who has been ordered to pay fines and who has not willfully failed to pay the obligation, as described in RCW 9.94A.6333 and 9.94B.040, may at any time petition the sentencing court for remission of the payment of fines or of any unpaid portion thereof. If it appears to the satisfaction of the court that payment of the amount due will impose manifest hardship on the defendant or the defendant's immediate family, the court may remit all or part of the amount due in fines, modify the method of payment under RCW 10.01.170, or convert the unpaid amounts to community restitution hours, if the jurisdiction operates a community restitution program, at the rate of no less than the state minimum wage established in RCW 49.46.020 for each hour of community restitution. Manifest hardship exists where the defendant is indigent as defined in RCW 10.01.160(3).
+
+
 ## Section 9
 > This section modifies existing section [10.01.160](/rcw/10_criminal_procedure/10.001_general_provisions.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.001_general_provisions.md) for context.
 
@@ -447,6 +453,12 @@ Upon conviction or a plea of guilty in any court organized under this title or T
 4. **Upon motion by the offender, the court shall waive all but one previously imposed fee under this section.**
 
 
+## Section 20
+> This section adds a new section to an existing chapter [3.66](/rcw/03_district_courts—courts_of_limited_jurisdiction/3.66_jurisdiction_and_venue.md). Here is the [modified chapter](rcw/03_district_courts—courts_of_limited_jurisdiction/3.66_jurisdiction_and_venue.md) for context.
+
+"Legal financial obligation" means a sum of money that is ordered by a district or municipal court of the state of Washington for legal financial obligations which may include restitution to the victim, court costs, county or interlocal drug funds, court-appointed attorneys' fees, and costs of defense, fines, and any other financial obligation that is assessed to the offender as a result of a conviction. Legal financial obligations may also include payment to a public agency of the expense of an emergency response to the incident resulting in the conviction, subject to RCW 38.52.430.
+
+
 ## Section 21
 > This section modifies existing section [10.01.170](/rcw/10_criminal_procedure/10.001_general_provisions.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.001_general_provisions.md) for context.
 
@@ -483,3 +495,4 @@ Upon a showing by any convicted person or the state that five years have elapsed
 
 ## Section 25
 Nothing in this act requires the courts to refund or reimburse amounts previously paid towards legal financial obligations or interest on legal financial obligations.
+

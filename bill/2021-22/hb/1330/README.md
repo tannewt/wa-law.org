@@ -1,5 +1,6 @@
 # HB 1330 - Electric bicycles/sales tax
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1330&Year=2021)
+
 Providing a retail sales and use tax exemption for the purchase of electric bicycles and related cycling equipment.
 
 ## Revisions

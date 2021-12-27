@@ -21,6 +21,12 @@
 2. If the applicant desires to drive a motorcycle or a motor-driven cycle he or she must qualify for a motorcycle endorsement under RCW 46.20.500 through 46.20.515.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [46.20](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
+
+The department shall provide an instructional poster, video, tutorial, or document with information on the late merge zipper method, as described in RCW 46.20.130(1)(b), to be available for viewing to all driver's license renewal applicants who request a driver's license renewal at a driver licensing office.
+
+
 ## Section 3
 > This section modifies existing section [46.82.420](/rcw/46_motor_vehicles/46.82_driver_training_schools.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.82_driver_training_schools.md) for context.
 

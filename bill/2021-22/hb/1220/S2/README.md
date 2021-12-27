@@ -33,6 +33,18 @@ The following goals are adopted to guide the development and adoption of compreh
 13. Historic preservation. Identify and encourage the preservation of lands, sites, and structures, that have historical or archaeological significance.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [35A.21](/rcw/35A_optional_municipal_code/35A.21_provisions_affecting_all_code_cities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.21_provisions_affecting_all_code_cities.md) for context.
+
+A code city may not prohibit emergency housing, permanent supportive housing, or indoor emergency shelters in multifamily, commercial, mixed use, or form-based zones where short-term rentals are allowed. This requirement does not preclude a code city from implementing regulations to mitigate neighborhood or community impacts of specific facility types. A code city may allow indoor emergency housing, permanent supportive housing, or indoor emergency shelters in other zones.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [35.21](/rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md) for context.
+
+A city may not prohibit emergency housing, permanent supportive housing, or indoor emergency shelters in multifamily, commercial, mixed use, or form-based zones where short-term rentals are allowed. This requirement does not preclude a city from implementing regulations to mitigate neighborhood or community impacts of specific facility types. A city may allow indoor emergency housing, permanent supportive housing, or indoor emergency shelters in other zones.
+
+
 ## Section 5
 > This section modifies existing section [36.70A.030](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 
@@ -117,4 +129,34 @@ Unless the context clearly requires otherwise, the definitions in this section a
 30. "Very low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below fifty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
 
 31. "Wetland" or "wetlands" means areas that are inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas. Wetlands do not include those artificial wetlands intentionally created from nonwetland sites, including, but not limited to, irrigation and drainage ditches, grass-lined swales, canals, detention facilities, wastewater treatment facilities, farm ponds, and landscape amenities, or those wetlands created after July 1, 1990, that were unintentionally created as a result of the construction of a road, street, or highway. Wetlands may include those artificial wetlands intentionally created from nonwetland areas created to mitigate conversion of wetlands.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+In addition to ordinances, development regulations, and other official controls adopted or amended, a city or county should consider policies to encourage the construction of accessory dwelling units as a way to meet affordable housing goals. These policies could include, but are not limited to:
+
+1. The city or county may not require the owner of a lot on which there is an accessory dwelling unit to reside in or occupy the accessory dwelling unit or another housing unit on the same lot;
+
+2. The city or county may require the owner not to use the accessory dwelling unit for short-term rentals;
+
+3. The city or county may not count residents of accessory dwelling units against existing limits on the number of unrelated residents on a lot;
+
+4. The city or county may not establish a minimum gross floor area for accessory dwelling units that exceeds the state building code;
+
+5. The city or county must make the same allowances for accessory dwelling units' roof decks, balconies, and porches to encroach on setbacks as are allowed for the principal unit;
+
+6. The city or county must apply abutting lot setbacks to accessory dwelling units on lots abutting zones with lower setback requirements;
+
+7. The city or county must establish an amnesty program to help owners of unpermitted accessory dwelling units to obtain a permit;
+
+8. The city or county must permit accessory dwelling units in structures detached from the principal unit, must allow an accessory dwelling unit on any lot that meets the minimum lot size required for the principal unit, and must allow attached accessory dwelling units on any lot with a principal unit that is nonconforming solely because the lot is smaller than the minimum size, as long as the accessory dwelling unit would not increase nonconformity of the residential use with respect to building height, bulk, or lot coverage;
+
+9. The city or county may not establish a maximum gross floor area requirement for accessory dwelling units that are less than 1,000 square feet or 60 percent of the principal unit, whichever is greater, or that exceeds 1,200 square feet;
+
+10. A city or county must allow accessory dwelling units to be converted from existing structures, including but not limited to detached garages, even if they violate current code requirements for setbacks or lot coverage;
+
+11. A city or county may not require public street improvements as a condition of permitting accessory dwelling units; and
+
+12. A city or county may not require installation of a new or separate utility connection between an accessory dwelling unit and a utility unless unusual site conditions make it unavoidable, and if such connection is necessary, the connection fees of capacity charges must be consistent with water availability requirements, water system plans, small water system management plans, or established policies adopted by the water or sewer utility provider.
 

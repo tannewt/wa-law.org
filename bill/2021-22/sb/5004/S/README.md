@@ -60,9 +60,15 @@
 
 
 ## Section 2
-(1) The joint legislative audit and review committee must review the tax exemption under section 1 of this act to identify any changes in consumer behavior and determine whether the exemption results in an unanticipated decrease in state revenue. The review must include:
-(a) An assessment of the amount of new qualifying patients or designated providers under RCW 69.51A.010 occurring after the effective date of this section as compared to prior years;
-(b) Any changes in the amount of sales of tax-exempt products identified in section 1 of this act; and
-(c) Any other information the joint legislative audit and review committee deems necessary to assess any changes in consumer behavior or revenue collections resulting from the tax exemption under section 1 of this act.
-(2) The joint legislative audit and review committee may access data from the department of revenue, the department of health, or any other state agency as necessary to complete its review of the tax exemption under section 1 of this act.
-(3) The joint legislative audit and review committee must submit a report of its findings to the legislature by December 1, 2024.
+1. The joint legislative audit and review committee must review the tax exemption under section 1 of this act to identify any changes in consumer behavior and determine whether the exemption results in an unanticipated decrease in state revenue. The review must include:
+
+    a. An assessment of the amount of new qualifying patients or designated providers under RCW 69.51A.010 occurring after the effective date of this section as compared to prior years;
+
+    b. Any changes in the amount of sales of tax-exempt products identified in section 1 of this act; and
+
+    c. Any other information the joint legislative audit and review committee deems necessary to assess any changes in consumer behavior or revenue collections resulting from the tax exemption under section 1 of this act.
+
+2. The joint legislative audit and review committee may access data from the department of revenue, the department of health, or any other state agency as necessary to complete its review of the tax exemption under section 1 of this act.
+
+3. The joint legislative audit and review committee must submit a report of its findings to the legislature by December 1, 2024.
+

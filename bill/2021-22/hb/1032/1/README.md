@@ -4,6 +4,7 @@
 ## Section 1
 The legislature intends to provide an enhanced retirement benefit for members of the teachers' retirement system and school employees' retirement system plans 2 and 3 during the extraordinary COVID-19 global pandemic. Enhanced retirement provisions under this act are only in effect while the governor's emergency COVID-19 proclamations 20.05 and 20.09 are in effect. No members of the teachers' retirement system or school employees' retirement system plans 2 and 3 are eligible to apply for retirement under this act after the governor's emergency COVID-19 proclamations 20.05 and 20.09 are rescinded.
 
+
 ## Section 2
 > This section modifies existing section [41.32.765](/rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md) for context.
 

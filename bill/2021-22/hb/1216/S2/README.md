@@ -2,8 +2,10 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1216-S2.xml)
 ## Section 1
-(1) The legislature finds that preservation and enhancement of city trees and urban forests contributes multiple benefits, including stormwater management, carbon sequestration, local air and water quality enhancements, and fish and wildlife habitat, and is a cost-effective way to meet these objectives. The legislature further finds that climate change is impacting our state in numerous ways, including summer heat waves, heavier winter rains, and lower air quality, all of which can be improved by increased tree canopy. The legislature further finds that modern and well-crafted urban forestry programs can have significant additional benefits related to human health, especially when delivered in highly impacted communities with higher health disparities and that also have lower existing tree canopy. Significant research exists demonstrating health benefits of trees and green spaces, including air and water quality improvements, positive emotional responses to being in nature, physical activity, and social cohesion through interacting in public green spaces. Furthermore, the legislature finds that Washington state faces continued urgency in adequately protecting essential salmon habitat, which is necessary to promote salmon recovery and thus help protect our endangered southern resident killer whale population. It is the intent of the legislature to enhance urban forestry programs that maximize cobenefits related to human health and salmon recovery.
-(2) The legislature further recognizes that the existing evergreen communities act, in chapter 76.15 RCW and related programs in state law, established a successful framework for supporting urban forestry in Washington state. That act established the need for tools including canopy assessment and regional tree canopy analysis, and targeted technical assistance to support cities and counties seeking to deliver impactful urban forestry programs. The legislature intends to modernize and add capacity to the evergreen communities act by utilizing information and analysis around environmental health disparities and salmon recovery plans, and increasing capacity for the delivery of an urban forestry program in order to strengthen and enhance the impacts of this act and to expand participation to include federally recognized tribes and other community-based organizations.
+1. The legislature finds that preservation and enhancement of city trees and urban forests contributes multiple benefits, including stormwater management, carbon sequestration, local air and water quality enhancements, and fish and wildlife habitat, and is a cost-effective way to meet these objectives. The legislature further finds that climate change is impacting our state in numerous ways, including summer heat waves, heavier winter rains, and lower air quality, all of which can be improved by increased tree canopy. The legislature further finds that modern and well-crafted urban forestry programs can have significant additional benefits related to human health, especially when delivered in highly impacted communities with higher health disparities and that also have lower existing tree canopy. Significant research exists demonstrating health benefits of trees and green spaces, including air and water quality improvements, positive emotional responses to being in nature, physical activity, and social cohesion through interacting in public green spaces. Furthermore, the legislature finds that Washington state faces continued urgency in adequately protecting essential salmon habitat, which is necessary to promote salmon recovery and thus help protect our endangered southern resident killer whale population. It is the intent of the legislature to enhance urban forestry programs that maximize cobenefits related to human health and salmon recovery.
+
+2. The legislature further recognizes that the existing evergreen communities act, in chapter 76.15 RCW and related programs in state law, established a successful framework for supporting urban forestry in Washington state. That act established the need for tools including canopy assessment and regional tree canopy analysis, and targeted technical assistance to support cities and counties seeking to deliver impactful urban forestry programs. The legislature intends to modernize and add capacity to the evergreen communities act by utilizing information and analysis around environmental health disparities and salmon recovery plans, and increasing capacity for the delivery of an urban forestry program in order to strengthen and enhance the impacts of this act and to expand participation to include federally recognized tribes and other community-based organizations.
+
 
 ## Section 2
 > This section modifies existing section [76.15.005](/rcw/76_forests_and_forest_products/76.15_urban_forest_management.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.15_urban_forest_management.md) for context.
@@ -113,6 +115,130 @@ The department may enter into agreements with one or more nonprofit organization
 > This section modifies existing section [76.15.060](/rcw/76_forests_and_forest_products/76.15_urban_forest_management.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.15_urban_forest_management.md) for context.
 
 The department **must encourage urban planting and care through establishment and long-term management of trees, encouraging varieties that are site-appropriate and provide the best combination of energy and water conservation, fire safety and other safety, wildlife habitat, stormwater management**, and aesthetic value. The department may provide technical assistance in developing programs in tree planting for energy conservation in areas of the state where such programs are most cost-effective. **The department must conduct analyses and prioritize target regions for delivery of programs, policies, and activities that include criteria related to human health and salmon recovery data as provided in section 9 of this act.**
+
+
+## Section 9
+> This section adds a new section to an existing chapter [76.15](/rcw/76_forests_and_forest_products/76.15_urban_forest_management.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.15_urban_forest_management.md) for context.
+
+1. The department must conduct analyses of the needs and opportunities related to urban forestry in Washington by assessing tree canopy cover and urban forestry inventory data.
+
+    a. The department must utilize existing recent tree canopy study and inventory data when available.
+
+    b. The department may add additional canopy analysis in regions where adequate data is not available through internal analysis and the use of research consultants as needed.
+
+    c. In collaboration with local governments, the department may conduct prioritized inventories of urban forests where adequate data is not available.
+
+2. The department must identify priority regions for the implementation of urban forestry programs. Priority must be determined through the use and review of analyses and tools including, but not limited to, the following:
+
+    a. Canopy analysis and inventory of urban and community forestry data as determined in subsection (1)(a) of this section;
+
+    b. Health disparity mapping tools that identify highly impacted communities such as the department of health's Washington tracking network. Communities should be identified at the census tract level;
+
+    c. Salmon and orca recovery data including, but not limited to, the Puget Sound partnership action agenda and other regional and statewide salmon and orca recovery plans and efforts, to target program delivery in areas where there are significant opportunities related to salmon and orca habitat and health; and
+
+    d. The department's 20-year forest health strategic plan.
+
+3. The department may consult with external experts as part of the review and analysis that will determine priority regions for the purposes of this chapter. Consultation may be conducted with experts such as: Other state agencies; a statewide organization representing urban and community forestry programs; health experts; salmon recovery experts; and other technical experts as needed.
+
+4. The department must consult with the appropriate tribes in watersheds where urban forestry work is taking place.
+
+5. The department shall, through its analysis and consultation, seek to identify areas where urban forestry will generate the greatest confluence of benefits in relation to canopy needs, health disparities, and salmon habitat.
+
+6. The department must ensure a minimum of 50 percent of the resources used in delivering the policies, programs, and activities of this chapter are benefiting vulnerable populations and are delivered in or within one-quarter mile of highly impacted communities as identified by the tools described in subsection (2)(b) of this section, and scale these resources so the most resources are allocated to the highest impacted communities within these areas. This includes resources for establishing and maintaining new trees as well as maintenance of existing tree canopy.
+
+7. The department shall conduct a statewide inventory of urban and community forests using urban forest inventory and assessment protocols established by the United States forest service to produce statistically relevant estimates of the quantity, health, composition, and benefits of urban trees and forests. Inventory data must be maintained and periodically updated.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [76.15](/rcw/76_forests_and_forest_products/76.15_urban_forest_management.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.15_urban_forest_management.md) for context.
+
+1. The department must provide technical assistance and capacity building resources and opportunities to cities, counties, federally recognized tribes, and other public and private entities in the development and coordination of policies, programs, and activities for the promotion of urban and community forestry.
+
+2. The department may use existing urban and community forestry inventory tools or develop additional tools to assist cities, counties, federally recognized tribes, and other public and private entities to collect urban and community forest tree data that informs urban and community forestry management, planning, and policy development.
+
+3. The department shall strive to enable Washington cities' urban forest managers to access carbon markets by working to ensure tools developed under this section are compatible with existing and developing urban forest carbon market reporting protocols.
+
+4. The department may use existing tools to assist communities to develop urban forestry management plans. Management plans may include, but not be limited to, the following elements:
+
+    a. Inventory and assessment of the jurisdiction's urban and community forests utilized as a dynamic management tool to set goals, implement programs, and monitor outcomes that may be adjusted over time;
+
+    b. Canopy cover goals;
+
+    c. Reforestation and tree canopy expansion goals within the city's, town's, and county's boundaries;
+
+    d. Restoration of public forests;
+
+    e. Achieving forest stand and diversity goals;
+
+    f. Maximizing vegetated stormwater management with trees and other vegetation that reduces runoff, increases soil infiltration, and reduces stormwater pollution;
+
+    g. Environmental health goals specific to air quality, habitat for wildlife, and energy conservation;
+
+    h. Vegetation management practices and programs to prevent vegetation from interfering with or damaging utilities and public facilities;
+
+    i. Prioritizing planting sites;
+
+    j. Standards for tree selection, siting, planting, and pruning;
+
+    k. Scheduling maintenance and stewardship for new and established trees;
+
+    l. Staff and volunteer training requirements emphasizing appropriate expertise and professionalism;
+
+    m. Guidelines for protecting existing trees from construction-related damage and damage related to preserving territorial views;
+
+    n. Integrating disease and pest management;
+
+    o. Wood waste utilization;
+
+    p. Community outreach, participation, education programs, and partnerships with nongovernment organizations;
+
+    q. Time frames for achieving plan goals, objectives, and tasks;
+
+    r. Monitoring and measuring progress toward those benchmarks and goals;
+
+    s. Consistency with the urban wildland interface codes developed by the state building code council;
+
+    t. Emphasizing landscape and revegetation plans in residential and commercial development areas where tree retention objectives are challenging to achieve; and
+
+    u. Maximizing building heating and cooling energy efficiency through appropriate siting of trees for summer shading, passive solar heating in winter, and for wind breaks.
+
+5. The department may use existing tools to assist communities to develop urban forestry ordinances. Ordinances may include, but not be limited to, the following elements:
+
+    a. Tree canopy cover, density, and spacing;
+
+    b. Tree conservation and retention;
+
+    c. Vegetated stormwater runoff management using native trees and appropriate nonnative, nonnaturalized vegetation;
+
+    d. Clearing, grading, protection of soils, reductions in soil compaction, and use of appropriate soils with low runoff potential and high infiltration rates;
+
+    e. Appropriate tree siting and maintenance for vegetation management practices and programs to prevent vegetation from interfering with or damaging utilities and public facilities;
+
+    f. Native species and nonnative, nonnaturalized species diversity selection to reduce disease and pests in urban forests;
+
+    g. Tree maintenance;
+
+    h. Street tree installation and maintenance;
+
+    i. Tree and vegetation buffers for riparian areas, critical areas, transportation and utility corridors, and commercial and residential areas;
+
+    j. Tree assessments for new construction permitting;
+
+    k. Recommended forest conditions for different land use types;
+
+    l. Variances for hardship and safety;
+
+    m. Variances to avoid conflicts with renewable solar energy infrastructure, passive solar building design, and locally grown produce; and
+
+    n. Permits and appeals.
+
+6. The department may consult with the department of commerce in the process of providing technical assistance, on issues including, but not limited to, intersections between urban forestry programs and growth management act planning.
+
+7. The department may use existing and develop additional innovative tools to facilitate successful implementation of urban forestry programs including, but not limited to, comprehensive tool kit packages (tree kits) that can easily be shared, locally adapted, and used by cities, counties, tribes, and community stakeholders.
+
+8. The department must encourage communities to include participation and input by vulnerable populations through community organizations and members of the public for urban and community forestry plans in the regions where they are based.
+
+9. Delivery of resources must be targeted based on the analysis and prioritization provided in section 9 of this act.
 
 
 ## Section 11
@@ -377,3 +503,4 @@ When administering funds under this chapter, the recreation and conservation fun
 
 ## Section 25
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

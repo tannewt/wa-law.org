@@ -1,5 +1,6 @@
 # HB 1117 - Comp. planning/salmon
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1117&Year=2021)
+
 Promoting salmon recovery through revisions to the state's comprehensive planning framework.
 
 ## Revisions

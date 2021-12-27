@@ -1,6 +1,24 @@
 # House Bill 1571
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1571.xml)
+## Section 1
+> This section adds a new section to an existing chapter [68.50](/rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md). Here is the [modified chapter](rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md) for context.
+
+1. A county coroner having jurisdiction over human remains pursuant to RCW 68.50.010 shall, upon knowledge that the remains are of an indigenous person, cooperate with law enforcement to attempt to identify and immediately contact family members and any affected tribes, tribal organizations, and communities prior to removal or disturbance of the remains, except as deemed necessary by the county coroner and law enforcement to preserve evidence for any ongoing criminal investigation. Efforts to contact family members and affected tribes, tribal organizations, and communities must include an attempt to facilitate contact through the regional liaison for missing and murdered indigenous persons pursuant to RCW 43.43.874 within 10 days of the county coroner having jurisdiction over the remains.
+
+2. If contact is successfully made, the county coroner shall afford an opportunity for a family member or a representative from any affected tribes, tribal organizations, or communities to visit the remains for the purpose of conducting any spiritual practices or ceremonies to honor or recognize the indigenous person's passing. A family member or representative's activities may not interfere with or jeopardize the integrity of any ongoing criminal investigation. The county coroner and the lead investigator from the law enforcement agency of jurisdiction must provide the family member or representative with a list containing any conduct the family member or representative is prohibited from doing when interacting with the remains, including an explanation of why the conduct is prohibited. The family member or representative may not conduct any practices or ceremonies until the county coroner and the lead investigator provide their authorization.
+
+3. For the purposes of this section, "affected tribes" has the same meaning as in RCW 68.50.645.
+
+4. Nothing in this section may be construed to contradict the sovereignty or rights of any federally recognized Indian tribe whose traditional lands and territories included parts of Washington.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.101](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
+
+The criminal justice training commission shall collaborate with the two liaisons for missing and murdered indigenous persons pursuant to RCW 43.43.874 to provide training to law enforcement officers and county coroners in tribal sovereignty, customs, culture, traditions, and spirituality, to facilitate compliance with section 1 of this act.
+
+
 ## Section 3
 > This section modifies existing section [36.24.155](/rcw/36_counties/36.024_county_coroner.md). Here is the [modified chapter](rcw/36_counties/36.024_county_coroner.md) for context.
 
@@ -36,34 +54,60 @@
 
 
 ## Section 5
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department of commerce's office of crime victims advocacy shall award grant funding to establish a pilot project providing wraparound services to indigenous persons who are survivors of trafficking.
-(2) The department shall establish a competitive grant program to award funding for the pilot project by September 1, 2022.
-(3) Public agencies, nonprofit community groups, and nonprofit treatment providers, including organizations which provide services such as shelter, counseling, and case management, are eligible to compete for grant funding.
-(4) The grant recipient shall use the grant funds to develop or maintain a center capable of providing wraparound services to at least 50 indigenous persons who are survivors of trafficking, including:
-(a) Short-term and long-term shelter;
-(b) Food;
-(c) Nonemergency health care;
-(d) Mental health counseling and treatment;
-(e) Substance abuse prevention, assessment, and treatment;
-(f) Case management and care coordination;
-(g) Education and special education services;
-(h) Vocational training;
-(i) Legal services, protection, and advocacy; and
-(j) Transportation.
-(5) The grant recipient shall provide a report to the department on the results of the pilot project by October 1, 2023. The department shall provide a report on the pilot project to the governor and appropriate committees of the legislature by December 1, 2023.
-(6) This section expires January 1, 2024.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department of commerce's office of crime victims advocacy shall award grant funding to establish a pilot project providing wraparound services to indigenous persons who are survivors of trafficking.
+
+2. The department shall establish a competitive grant program to award funding for the pilot project by September 1, 2022.
+
+3. Public agencies, nonprofit community groups, and nonprofit treatment providers, including organizations which provide services such as shelter, counseling, and case management, are eligible to compete for grant funding.
+
+4. The grant recipient shall use the grant funds to develop or maintain a center capable of providing wraparound services to at least 50 indigenous persons who are survivors of trafficking, including:
+
+    a. Short-term and long-term shelter;
+
+    b. Food;
+
+    c. Nonemergency health care;
+
+    d. Mental health counseling and treatment;
+
+    e. Substance abuse prevention, assessment, and treatment;
+
+    f. Case management and care coordination;
+
+    g. Education and special education services;
+
+    h. Vocational training;
+
+    i. Legal services, protection, and advocacy; and
+
+    j. Transportation.
+
+5. The grant recipient shall provide a report to the department on the results of the pilot project by October 1, 2023. The department shall provide a report on the pilot project to the governor and appropriate committees of the legislature by December 1, 2023.
+
+6. This section expires January 1, 2024.
+
 
 ## Section 6
-(1) Subject to the availability of amounts appropriated for this specific purpose, the department of commerce's office of crime victims advocacy shall award grant funding to increase the visibility and accessibility of services and resources for indigenous persons who are survivors of trafficking.
-(2) The office of crime victims advocacy shall establish a competitive grant program to award funding by September 1, 2022.
-(3) Local agencies, nonprofit community groups, and nonprofit treatment providers currently engaged in providing services or resources to survivors of human trafficking are eligible to compete for grant funding.
-(4) The department shall award 10 grants, five to eligible applicants in cities west of the crest of the Cascade mountains and five to eligible applicants in cities east of the crest of the Cascade mountains.
-(5) Grant recipients shall collaborate with the two liaisons for missing and murdered indigenous persons pursuant to RCW 43.43.874 to develop and implement a campaign to increase the visibility and accessibility of services and resources for indigenous persons who are survivors of human trafficking, including:
-(a) Development of methods to help convey information discreetly and effectively, such as through the use of easily recognizable logos and symbols;
-(b) Increased signage for relevant antitrafficking hotlines in frequently visited areas, such as truck stops, gas stations, and hotels; and
-(c) Increased online promotion.
-(6) Grant recipients shall provide a report to the department on the results of their campaigns by October 1, 2023. The department shall provide a report to the governor and appropriate committees of the legislature by December 1, 2023.
-(7) This section expires January 1, 2024.
+1. Subject to the availability of amounts appropriated for this specific purpose, the department of commerce's office of crime victims advocacy shall award grant funding to increase the visibility and accessibility of services and resources for indigenous persons who are survivors of trafficking.
+
+2. The office of crime victims advocacy shall establish a competitive grant program to award funding by September 1, 2022.
+
+3. Local agencies, nonprofit community groups, and nonprofit treatment providers currently engaged in providing services or resources to survivors of human trafficking are eligible to compete for grant funding.
+
+4. The department shall award 10 grants, five to eligible applicants in cities west of the crest of the Cascade mountains and five to eligible applicants in cities east of the crest of the Cascade mountains.
+
+5. Grant recipients shall collaborate with the two liaisons for missing and murdered indigenous persons pursuant to RCW 43.43.874 to develop and implement a campaign to increase the visibility and accessibility of services and resources for indigenous persons who are survivors of human trafficking, including:
+
+    a. Development of methods to help convey information discreetly and effectively, such as through the use of easily recognizable logos and symbols;
+
+    b. Increased signage for relevant antitrafficking hotlines in frequently visited areas, such as truck stops, gas stations, and hotels; and
+
+    c. Increased online promotion.
+
+6. Grant recipients shall provide a report to the department on the results of their campaigns by October 1, 2023. The department shall provide a report to the governor and appropriate committees of the legislature by December 1, 2023.
+
+7. This section expires January 1, 2024.
+
 
 ## Section 7
 > This section modifies existing section [68.50.320](/rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md). Here is the [modified chapter](rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md) for context.

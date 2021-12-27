@@ -227,5 +227,24 @@
         iv. Landscape maintenance and horticultural services.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [82.08](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
+
+1. The tax levied by RCW 82.08.020 does not apply to a grantee's receipt of amounts received as grants that are deductible under RCW 82.04.4339.
+
+2. Nothing in this section may be construed to:
+
+    a. Imply that the tax levied by RCW 82.08.020 applies to any circumstance not described in subsection (1) of this section; or
+
+    b. Provide an exemption from the tax levied by RCW 82.08.020 for the grantee's use of grant proceeds to acquire products in a transaction meeting the definition of "retail sale" in RCW 82.04.050.
+
+3. For purposes of this section, the following definitions apply:
+
+    a. "Grantee" means the recipient of a grant deductible under RCW 82.04.4339.
+
+    b. "Product" means the same as in RCW 82.32.023.
+
+
 ## Section 6
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

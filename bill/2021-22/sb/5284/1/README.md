@@ -41,11 +41,26 @@
 5. **For the purposes of allowing the department of social and health services to prioritize services and existing individualized technical assistance to individuals advancing to at least minimum wage employment, the department of labor and industries may share information, such as individuals' contact information and expiration dates of special certificates with the department of social and health services.**
 
 
+## Section 4
+> This section adds a new section to an existing chapter [71A.10](/rcw/71A_developmental_disabilities/71A.10_general_provisions.md). Here is the [modified chapter](rcw/71A_developmental_disabilities/71A.10_general_provisions.md) for context.
+
+1. The department must continue supportive services, technical assistance, and other programs under chapter 71A.12 RCW.
+
+2. The department must prioritize individuals, utilizing the expiration dates of the special certificates, for the provision of individual technical assistance to an individual, prior to the expiration date of the individual's special certificate, and may utilize the individual technical assistance to allow for an effective transition into at least minimum wage employment or other services.
+
+
 ## Section 5
 By October 1, 2021, the department of labor and industries and the department of social and health services must submit a report to the appropriate committees of the legislature with the following information:
-(a) The number of special certificates remaining;
-(b) The number of individuals who were employed under a special certificate who have contacted the department of social and health services to receive individual technical assistance and services and the assistance and services that were provided;
-(c) The number of individuals who continued to be employed after the expiration of the individual's special certificate, a description of alternative employment or other services, including services under chapter 71A.12 RCW, if any, that were provided to those individuals; and
-(d) Any recommendations on providing employment services or other assistance to persons with disabilities.
-(2) The report must be provided annually until all remaining special certificates have expired.
-(3) This section expires December 1, 2024.
+
+    a. The number of special certificates remaining;
+
+    b. The number of individuals who were employed under a special certificate who have contacted the department of social and health services to receive individual technical assistance and services and the assistance and services that were provided;
+
+    c. The number of individuals who continued to be employed after the expiration of the individual's special certificate, a description of alternative employment or other services, including services under chapter 71A.12 RCW, if any, that were provided to those individuals; and
+
+    d. Any recommendations on providing employment services or other assistance to persons with disabilities.
+
+2. The report must be provided annually until all remaining special certificates have expired.
+
+3. This section expires December 1, 2024.
+

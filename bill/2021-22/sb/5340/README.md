@@ -1,5 +1,6 @@
 # SB 5340 - School board director qualif
-*Status: Senate Rules "X" file.*
+*Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5340&Year=2021)
+
 Concerning qualifications for school board directors.
 
 ## Revisions

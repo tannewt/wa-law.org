@@ -1,5 +1,6 @@
 # SB 5249 - Mastery-based learning
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5249&Year=2021)
+
 Supporting mastery-based learning.
 
 ## Revisions

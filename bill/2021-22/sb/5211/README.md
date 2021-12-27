@@ -1,5 +1,6 @@
 # SB 5211 - Tax increment financing
-*Status: Senate Rules "X" file.*
+*Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5211&Year=2021)
+
 Authorizing tax increment financing for local governments.
 
 ## Revisions

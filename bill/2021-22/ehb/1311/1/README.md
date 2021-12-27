@@ -49,5 +49,20 @@
 5. As of July 28, 2019, a person certified under this chapter holding the title of chemical dependency professional is considered to hold the title of substance use disorder professional until such time as the person's present certification expires or is renewed.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [49.04](/rcw/49_labor_regulations/49.04_apprenticeship.md). Here is the [modified chapter](rcw/49_labor_regulations/49.04_apprenticeship.md) for context.
+
+Educational requirements for an apprenticeship for substance use
+disorder professionals must be defined by the secretary of health
+under RCW 18.205.100.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [18.205](/rcw/18_businesses_and_professions/18.205_substance_use_disorder_professionals.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.205_substance_use_disorder_professionals.md) for context.
+
+All education requirements established as defined by the secretary under RCW 18.205.100 credited by an approved education program for participants in the apprenticeship program for substance use disorder professionals must meet or exceed competency requirements established by the secretary.
+
+
 ## Section 5
 The department of health may adopt any rules necessary to implement this act.
+

@@ -1,6 +1,18 @@
 # Senate Bill 5487
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5487.xml)
+## Section 1
+> This section adds a new section to an existing chapter [28A.315](/rcw/28A_common_school_provisions/28A.315_organization_and_reorganization_of_school_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.315_organization_and_reorganization_of_school_districts.md) for context.
+
+1. To encourage efficient administration in the delivery of K-12 education, qualifying school districts are eligible for a consolidation incentive in the form of enhanced state funding assistance for infrastructure enhancement and modernization.
+
+2. To qualify for a consolidation incentive, two or more whole school districts with contiguous territory must reorganize to form a new school district pursuant to RCW 28A.315.235. At least one of the participating school districts must have 1,000 or fewer full-time equivalent students enrolled at the time the consolidation is approved.
+
+3. Upon consolidation, the new school district's computed state funding assistance percentage as calculated under RCW 28A.525.166 must be increased by 10 percentage points, not to exceed 100 percent, for 10 consecutive years.
+
+4. The office of the superintendent of public instruction must administer consolidation planning grants to eligible districts and provide technical assistance as needed within appropriations for this purpose. Districts seeking consolidation planning grants must provide a brief statement describing the efficiencies that the school district intends to realize through consolidation, as well as any barriers to consolidation that the school district can identify. If applications for consolidation planning grants exceed funds available, the office of the superintendent of public instruction must prioritize planning grants for school districts with the fewest enrolled students.
+
+
 ## Section 2
 > This section modifies existing section [28A.525.166](/rcw/28A_common_school_provisions/28A.525_bond_issues.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.525_bond_issues.md) for context.
 
@@ -71,3 +83,4 @@ PROVIDED, That in the event the state funding assistance percentage to any schoo
 
 ## Section 3
 The sum of $200,000, or as much thereof as may be necessary, is appropriated for the fiscal biennium ending June 30, 2023, from the common school construction fund to the office of the superintendent of public instruction for the purposes of administering consolidation planning grants to assist school districts in accessing consolidation incentives for infrastructure enhancements and modernization.
+

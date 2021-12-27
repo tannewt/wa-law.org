@@ -67,3 +67,4 @@ Within and subject to the limitations imposed by RCW 84.52.050 as amended, the r
 
 ## Section 4
 This act applies to taxes levied for collection in calendar years 2022 through 2026.
+

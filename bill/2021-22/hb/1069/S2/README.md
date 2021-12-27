@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the COVID-19 pandemic, as recognized by emergency proclamations issued by the governor, has resulted in an unprecedented drop in local government revenues. The legislature intends to provide local governments with increased flexibility in the use of existing revenues in order to enable local governments to continue to provide essential services and to facilitate economic recovery through December 31, 2023.
 
+
 ## Section 2
 > This section modifies existing section [82.14.310](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
 

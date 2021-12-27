@@ -3,33 +3,105 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1163.xml)
 ## Section 1
 By constitutional design, Washington's citizen legislature meets in regular session only during specified periods, rather than year-round. The legislature finds that this design promotes democracy by ensuring that legislators remain citizens of the communities that they represent. By likewise constitutional design, the appropriation authority is vested in the legislature, on the basis that tax revenues must be deposited in the state treasury and that legislation is required to authorize expenditures of moneys in the state treasury. The legislature finds that the legislature has assigned certain budgeting and expenditure powers and duties to the executive branch in the budget and accounting act, chapter 43.88 RCW and related statutes, and that these tasks are appropriately vested in the executive branch as within the governor's duty to see that the laws are faithfully executed.
+
 The legislature further finds that given the part-time design of our citizen legislature, it is appropriate to establish procedures for increased oversight of these delegations during the legislative interim. Given the crises facing the state and nation from COVID-19, as well as other unforeseeable but inevitable fiscal and practical challenges that the state will experience in the future, a process for legislative budget oversight will protect taxpayers and government alike.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Committee" means the joint legislative fiscal oversight committee created in section 3 of this act.
-(2) "Current allotments" means the most recent quarterly allotment schedule approved by the office of financial management.
-(3) "Estimated resources" means the total of beginning fund balances and forecasted revenues according to the most recent forecast of the economic and revenue forecast council, plus net transfers in and out that are not accounted for in the forecast but are required by the state Constitution or statute, including the enacted omnibus appropriations act.
-(4) "Near-general fund/outlook" means the state general fund, the education legacy trust account, the opportunity pathways account, and the workforce education investment account.
-(5) "State general fund" means the accounting entity consisting of all state taxes and other state revenues deposited in the general fund created in RCW 43.79.010, excluding federal revenues accounted for in the general fund—federal and revenues deposited in the general fund—local.
+
+1. "Committee" means the joint legislative fiscal oversight committee created in section 3 of this act.
+
+2. "Current allotments" means the most recent quarterly allotment schedule approved by the office of financial management.
+
+3. "Estimated resources" means the total of beginning fund balances and forecasted revenues according to the most recent forecast of the economic and revenue forecast council, plus net transfers in and out that are not accounted for in the forecast but are required by the state Constitution or statute, including the enacted omnibus appropriations act.
+
+4. "Near-general fund/outlook" means the state general fund, the education legacy trust account, the opportunity pathways account, and the workforce education investment account.
+
+5. "State general fund" means the accounting entity consisting of all state taxes and other state revenues deposited in the general fund created in RCW 43.79.010, excluding federal revenues accounted for in the general fund—federal and revenues deposited in the general fund—local.
+
 
 ## Section 3
 The joint legislative fiscal oversight committee is established.
-(1) The purpose of the committee is to provide legislative oversight of the budgeting and expenditure process during periods when the legislature is not in session. The committee reviews budget deficit analyses under section 5 of this act and unanticipated receipts proposals under section 10 of this act.
-(2) The committee consists of:
-(a) Six members of the house of representatives, three from each of the largest caucuses, appointed by the speaker of the house of representatives, who must include the chair of the house appropriations committee or successor operating budget committee and the ranking minority member of that committee, and the chair of the house of representatives transportation committee and the ranking minority member of that committee; and
-(b) Six members of the senate, three from each of the largest caucuses, appointed by the president of the senate, who must include the chair of the senate ways and means committee or successor operating budget committee and the ranking minority member of that committee, and the chair of the senate transportation committee and the ranking minority member of that committee.
-(3) The committee is led by cochairs designated by the committee members from among its membership, one from the house of representatives and one from the senate. The cochairs may not be from the same political party. Either cochair may convene a meeting of the committee subject to the conditions set out in section 5 or 10 of this act.
-(4) Staff support for the committee is provided by the senate committee services and the house of representatives office of program research.
-(5) Due to the time-sensitive nature of committee business, remote participation in committee hearings by committee members is permitted to the extent that it can be technologically supported by legislative staff. When participating remotely via videoconference, teleconference, or other continuous means of audio communication, members are considered present for purposes of a quorum and voting.
+
+1. The purpose of the committee is to provide legislative oversight of the budgeting and expenditure process during periods when the legislature is not in session. The committee reviews budget deficit analyses under section 5 of this act and unanticipated receipts proposals under section 10 of this act.
+
+2. The committee consists of:
+
+    a. Six members of the house of representatives, three from each of the largest caucuses, appointed by the speaker of the house of representatives, who must include the chair of the house appropriations committee or successor operating budget committee and the ranking minority member of that committee, and the chair of the house of representatives transportation committee and the ranking minority member of that committee; and
+
+    b. Six members of the senate, three from each of the largest caucuses, appointed by the president of the senate, who must include the chair of the senate ways and means committee or successor operating budget committee and the ranking minority member of that committee, and the chair of the senate transportation committee and the ranking minority member of that committee.
+
+3. The committee is led by cochairs designated by the committee members from among its membership, one from the house of representatives and one from the senate. The cochairs may not be from the same political party. Either cochair may convene a meeting of the committee subject to the conditions set out in section 5 or 10 of this act.
+
+4. Staff support for the committee is provided by the senate committee services and the house of representatives office of program research.
+
+5. Due to the time-sensitive nature of committee business, remote participation in committee hearings by committee members is permitted to the extent that it can be technologically supported by legislative staff. When participating remotely via videoconference, teleconference, or other continuous means of audio communication, members are considered present for purposes of a quorum and voting.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [43.88](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
+
+1. After each regular forecast of the economic and revenue forecast council under RCW 82.33.020, the governor must conduct an analysis of the near-general fund/outlook to determine whether there is a cash deficit of the general fund as defined in RCW 43.88.050 for either fiscal year of the current biennium, or a near-general fund/outlook budget deficit of the current biennium, or both.
+
+2. A near-general fund/outlook budget deficit of the current biennium occurs when the total of current allotments and other projected disbursements from the near-general fund/outlook will exceed estimated total resources for the fiscal biennium. In calculating the budget deficit, the governor must:
+
+    a. Exclude federal moneys that are received and appropriated as "general fund—federal" and "general fund—local;"
+
+    b. Exclude other federal funding provided to the state, unless the funding is expressly provided to the state for the general support of state government or general state revenue replacement;
+
+    c. Exclude other state accounts and reserves outside the state general fund, including but not limited to the budget stabilization account; and
+
+    d. Rely on the most recent forecast of the economic and revenue forecast council.
+
+3. Within 15 days of each revenue forecast, the governor must report the results of the analysis to the joint legislative fiscal oversight committee created in section 3 of this act.
+
+4. If the governor's analysis projects a near-general fund/outlook budget deficit of the current biennium, the governor's analysis must include a proposed executive branch response to the deficit under the authority granted in this chapter.
+
+5. The definitions in section 2 of this act apply in this section.
+
 
 ## Section 5
-(1) If the governor's analysis under section 4 of this act projects either a cash deficit of the state general fund under RCW 43.88.050 or a near-general fund/outlook budget deficit of the current biennium under section 4 of this act, then within 15 days of receiving the governor's analysis the committee must hold a public hearing on the projected deficit and the governor's proposed response.
-(2) Within five days after the hearing the committee must provide a written recommendation to the governor on the proposed executive branch response. The committee may adopt a recommendation on behalf of the committee if seven members vote to do so. The response to a committee recommendation may also include a minority report. If members do not adopt a recommendation on behalf of the committee, the committee must transmit to the governor any recommendations submitted by individual committee members.
-(3) Any member of the committee may initiate a declaratory judgment action under chapter 7.24 RCW to determine whether the governor is obligated to implement across-the-board reductions under this section and section 6 of this act.
+1. If the governor's analysis under section 4 of this act projects either a cash deficit of the state general fund under RCW 43.88.050 or a near-general fund/outlook budget deficit of the current biennium under section 4 of this act, then within 15 days of receiving the governor's analysis the committee must hold a public hearing on the projected deficit and the governor's proposed response.
+
+2. Within five days after the hearing the committee must provide a written recommendation to the governor on the proposed executive branch response. The committee may adopt a recommendation on behalf of the committee if seven members vote to do so. The response to a committee recommendation may also include a minority report. If members do not adopt a recommendation on behalf of the committee, the committee must transmit to the governor any recommendations submitted by individual committee members.
+
+3. Any member of the committee may initiate a declaratory judgment action under chapter 7.24 RCW to determine whether the governor is obligated to implement across-the-board reductions under this section and section 6 of this act.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [43.88](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
+
+1. If the governor projects either a cash deficit of the general fund as defined in RCW 43.88.050 or a budget deficit of the current biennium for the near-general fund/outlook as provided in section 4 of this act, then within 15 days of the date by which the joint legislature fiscal oversight committee must present its recommendations on the governor's response under section 5 of this act, the governor must initiate across-the-board reductions of allotments of state general fund appropriations as provided in this section.
+
+2. The requirements of subsection (1) of this section do not apply if:
+
+    a. Pursuant to a vote under section 5 of this act the committee has recommended that the governor not implement the reductions; or
+
+    b. Pursuant to RCW 43.88.110, the legislature has authorized the liquidation of any cash deficit over multiple fiscal periods.
+
+3. [Empty]
+
+    a. For a cash deficit in the general fund under RCW 43.88.050, the allotment reductions must be sufficient to liquidate the deficit in the current fiscal year.
+
+    b. For a budget deficit of the near-general fund/outlook under section 4 of this act, the allotment reductions must be sufficient to liquidate the deficit in the current fiscal biennium.
+
+4. Allotment reductions must be uniform across allotments of state general fund appropriations except as specifically provided in this section.
+
+5. Allotments for the following purposes are exempt from reduction under this section:
+
+    a. Basic education allocations to school districts under chapter 28A.150 RCW;
+
+    b. State debt service payments; and
+
+    c. The state's contributions to public pension systems, to the extent those contributions are necessary to maintain systematic funding.
+
+6. If the legislature in the omnibus operating appropriations act has specified different permissible levels of reduction for different appropriations categories pursuant to section 7 of this act, then the governor may implement allotment reductions of varying percentage. The governor may reduce allotments of these categories by varying percentage rates, according to the limits established in the appropriations act. However, the allotment reduction percentage must be uniform within each category. Where the legislature in the omnibus appropriations act has declared that a portion of an appropriation is provided solely for a specific purpose, then the allotment reduction percentage applies to the amount so provided, unless otherwise specified in the appropriations act.
+
 
 ## Section 7
 To facilitate implementation of budget reduction options under section 6 of this act by specifying relative budget priorities, the legislature in the omnibus operating appropriations act may establish reduction categories for each section containing an appropriation from the general fund and near-general fund/outlook. For each reduction category, the legislature may specify a maximum percentage for allotment reductions made under section 6 of this act. The maximum percentages established must allow for allotment reductions sufficient to liquidate deficits under section 6 of this act.
+
 
 ## Section 8
 > This section modifies existing section [43.88.110](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
@@ -84,16 +156,28 @@ This data may be incorporated into the existing accounting system or into a sepa
 
 
 ## Section 10
-(1) Within five days after the governor has transmitted to the committee an agency's request under RCW 43.79.270(1) (as recodified by this act) for an allotment revision, the governor must either submit to the committee his or her own proposal for recommended allotment revisions, or inform the committee that the agency's request stands as the governor's proposal.
-(2) If the amount to be spent under the proposed allotment revision is less than $5,000,000 and the expenditure is not subject to subsection (3) of this section, then 15 days after the submittal to the committee the governor may issue the approved allotment revision under RCW 43.79.270 (as recodified by this act) unless both committee cochairs notify the governor of intent to hold a public hearing on the proposal under subsection (4) of this section.
-(3) The requirements of subsection (4) of this section apply if:
-(a) The amount to be spent under the proposed allotment revision exceeds $5,000,000; or
-(b) Regardless of the amount of the individual proposed allotment revision, the cumulative total of proposed biennial expenditures to be spent through the unanticipated receipts process from the same federal or other nonstate funding source for the proposed allotment exceeds $25,000,000. For purposes of this subsection, "same federal funding source" includes a single congressional appropriation or a series of congressional appropriations that address substantially the same purpose or event.
-(4)(a) Within five days of receipt of the governor's proposal for an allotment revision under subsection (1) of this section, either committee cochair may notify the governor of an intent to hold a public hearing on the governor's proposed expenditure.
-(b) The hearing must take place within 15 days of receipt of the governor's proposal.
-(c) The committee may reject the governor's proposed allotment revision if seven members vote to do so, in which case the delegation of authority to the governor under RCW 43.79.280 (as recodified by this act) is suspended and the governor must deposit any actually received federal or nonstate moneys in the appropriate account in the treasury, where they must remain in nonallotted status until appropriated. However, if the committee votes to reject the governor's proposed allotment revisions, the governor may submit a new or revised proposal for the same nonstate moneys, subject to the requirements of subsection (1) of this section. The committee's rejection may include recommendations to the governor on the resubmittal.
-(d) If the committee votes to approve the proposed expenditure, or if a majority of the committee does not take action at the hearing on the proposed expenditure, or if no hearing is held under this subsection within 15 days of receipt of the governor's proposal, then the governor may approve the proposed allotment revision under RCW 43.79.280 (as recodified by this act).
-(e) Committee recommendations transmitted to the governor may include a minority report. If a majority of the committee members do not adopt a recommendation on behalf of the committee, the committee must transmit to the governor any recommendations submitted by individual committee members.
+1. Within five days after the governor has transmitted to the committee an agency's request under RCW 43.79.270(1) (as recodified by this act) for an allotment revision, the governor must either submit to the committee his or her own proposal for recommended allotment revisions, or inform the committee that the agency's request stands as the governor's proposal.
+
+2. If the amount to be spent under the proposed allotment revision is less than $5,000,000 and the expenditure is not subject to subsection (3) of this section, then 15 days after the submittal to the committee the governor may issue the approved allotment revision under RCW 43.79.270 (as recodified by this act) unless both committee cochairs notify the governor of intent to hold a public hearing on the proposal under subsection (4) of this section.
+
+3. The requirements of subsection (4) of this section apply if:
+
+    a. The amount to be spent under the proposed allotment revision exceeds $5,000,000; or
+
+    b. Regardless of the amount of the individual proposed allotment revision, the cumulative total of proposed biennial expenditures to be spent through the unanticipated receipts process from the same federal or other nonstate funding source for the proposed allotment exceeds $25,000,000. For purposes of this subsection, "same federal funding source" includes a single congressional appropriation or a series of congressional appropriations that address substantially the same purpose or event.
+
+4. [Empty]
+
+    a. Within five days of receipt of the governor's proposal for an allotment revision under subsection (1) of this section, either committee cochair may notify the governor of an intent to hold a public hearing on the governor's proposed expenditure.
+
+    b. The hearing must take place within 15 days of receipt of the governor's proposal.
+
+    c. The committee may reject the governor's proposed allotment revision if seven members vote to do so, in which case the delegation of authority to the governor under RCW 43.79.280 (as recodified by this act) is suspended and the governor must deposit any actually received federal or nonstate moneys in the appropriate account in the treasury, where they must remain in nonallotted status until appropriated. However, if the committee votes to reject the governor's proposed allotment revisions, the governor may submit a new or revised proposal for the same nonstate moneys, subject to the requirements of subsection (1) of this section. The committee's rejection may include recommendations to the governor on the resubmittal.
+
+    d. If the committee votes to approve the proposed expenditure, or if a majority of the committee does not take action at the hearing on the proposed expenditure, or if no hearing is held under this subsection within 15 days of receipt of the governor's proposal, then the governor may approve the proposed allotment revision under RCW 43.79.280 (as recodified by this act).
+
+    e. Committee recommendations transmitted to the governor may include a minority report. If a majority of the committee members do not adopt a recommendation on behalf of the committee, the committee must transmit to the governor any recommendations submitted by individual committee members.
+
 
 ## Section 11
 > This section modifies existing section [43.79.280](/rcw/43_state_government—executive/43.079_state_funds.md). Here is the [modified chapter](rcw/43_state_government—executive/43.079_state_funds.md) for context.

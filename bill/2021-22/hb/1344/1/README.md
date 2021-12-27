@@ -1101,8 +1101,22 @@ Numbers in the first horizontal row of each seriousness category represent sente
     h. An offender released or discharged under this section may be returned to the institution at the discretion of the board if the offender is found to have violated a condition of community custody. The offender is entitled to a hearing pursuant to RCW 9.95.435. The board shall set a new minimum term of incarceration not to exceed five years.
 
 
+## Section 7
+> This section adds a new section to an existing chapter [10.95](/rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md) for context.
+
+1. A person, who was sentenced prior to the effective date of this section, under this chapter or any prior law, to a term of life without the possibility of parole for an offense committed on or after his or her 16th birthday and prior to his or her 25th birthday, shall be returned to the sentencing court or the sentencing court's successor for sentencing consistent with RCW 10.95.030. Release and supervision of a person resentenced under this section is governed by RCW 10.95.030.
+
+2. The court shall provide an opportunity for victims and survivors of victims of any crimes for which the offender has been convicted to present a statement personally or by representation.
+
+3. The court's order setting a minimum term is subject to review to the same extent as a minimum term decision by the parole board before July 1, 1986.
+
+4. A resentencing under this section shall not reopen the defendant's conviction to challenges that would otherwise be barred by RCW 10.73.090, 10.73.100, 10.73.140, or other procedural barriers.
+
+
 ## Section 8
 This act applies retroactively to persons incarcerated on the effective date of this section, regardless of the date of the offense or conviction.
 
+
 ## Section 9
 This act does not create any right or entitlement to release from incarceration before the end of a term of incarceration imposed by the court.
+

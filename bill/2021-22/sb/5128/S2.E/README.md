@@ -3,8 +3,27 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5128-S2.E.xml)
 ## Section 1
 The legislature recognizes that the COVID-19 pandemic has significantly changed the delivery of education across the state, as school districts transition to remote learning environments to protect the health of students and staff. The legislature also recognizes that the role of transportation services has evolved alongside remote learning programs to help students equitably access the instructional program of basic education. As permitted by emergency proclamation, many school districts have adapted to remote learning by transporting meals, learning materials, and technology supports directly to students' homes or neighborhoods. Other school districts have used transportation resources to bring students to learning centers or other agencies where support services are provided.
+
 This flexibility has allowed school districts to creatively use the resources at their disposal to equitably address the needs of students during an ongoing emergency.
+
 With this act, the legislature intends to temporarily suspend rider eligibility criteria for an expanded list of qualifying transportation services, so that all students can access necessary supports during the COVID-19 emergency. The legislature also intends to provide a mechanism for calculating student transportation funding immediately following the COVID-19 emergency, so that the temporary drop in student ridership does not impact future transportation allocations. Finally, the legislature intends to appropriate additional relief funds to backfill reductions in state funding allocations resulting from transportation declines caused by the COVID-19 emergency.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.160](/rcw/28A_common_school_provisions/28A.160_student_transportation.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
+
+1. If a school or school district is providing full remote or partial remote instruction under the authority of RCW 28A.150.290 due to a local, state, or national emergency that causes a substantial disruption to full in-person instruction then, in addition to the transportation services allowed under this chapter, the district may use student transportation allocations to provide the following expanded services to students, regardless of whether those students would qualify as eligible students under RCW 28A.160.160:
+
+    a. Delivery of educational services necessary to provide students with the opportunity to equitably access educational services during the period of remote instruction. Delivery of educational services include the transportation of materials, hardware, and other supports that assist students in accessing remote instruction, internet connectivity, or the curriculum;
+
+    b. Delivery of meals to students; and
+
+    c. Providing for the transportation of students to and from learning centers or other public or private agencies where educational and support services are being provided to students during the period of remote instruction. "Providing for" includes the provision of payments to allow students to use public transit to access the educational and support services.
+
+2. Nothing in this section is intended to limit a district's ability to use transportation allocations to pay for fixed transportation costs, such as school bus maintenance and basic administrative, regulatory, safety, or operational expenses.
+
+3. If a district provides expanded services under subsection (1) of this section, the district must track by a separate accounting code the expenditures incurred by the district in providing such services. This data must be included in the report required under RCW 28A.160.170(2).
+
 
 ## Section 3
 > This section modifies existing section [28A.160.170](/rcw/28A_common_school_provisions/28A.160_student_transportation.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
@@ -42,14 +61,31 @@ Each district shall submit the information required in this section on a timely 
 3. **If a school or school district provided full remote or partial remote instruction under the authority of RCW 28A.150.290 due to a local, state, or national emergency that caused a substantial disruption to full in-person instruction, the superintendent of public instruction may use the student transportation data from the last reporting period in which the school district provided full in-person instruction to calculate transportation allocations. Such data may only be used until the subsequent reporting period when updated ridership data is available.**
 
 
+## Section 5
+> This section adds a new section to an existing chapter [28A.710](/rcw/28A_common_school_provisions/28A.710_charter_schools.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.710_charter_schools.md) for context.
+
+Sections 2 and 4(3) of this act govern school operation and management under RCW 28A.710.040 and apply to charter schools established under this chapter.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [28A.715](/rcw/28A_common_school_provisions/28A.715_state-tribal_education_compacts_authority.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.715_state-tribal_education_compacts_authority.md) for context.
+
+Sections 2 and 4(3) of this act govern school operation and management under RCW 28A.715.020 and apply to state-tribal compact schools established under this chapter.
+
+
 ## Section 7
-(1) The public schools emergency transportation relief account is created in the state treasury. Money in the account may be spent only after appropriation. Expenditures from the account may only be used to backfill reductions in state funding allocations resulting from transportation declines caused by a declared statewide emergency, provided that such reductions have not been backfilled through receipt of federal emergency relief funds, and must be attributable to documented allowable uses for transportation-related services as established under section 2 of this act.
-(2) A charter school, state-tribal compact school, or school district may not receive expenditures from the public schools emergency transportation relief account if the school or school district meets the minimum parameters for in-person learning recommended by the department of health and does not offer in-person learning at or above the recommended level.
-(3) Any funds that remain in the public schools emergency transportation relief account at the end of the 2021-2023 fiscal biennia must be deposited into the state general fund.
-(4) The public schools emergency transportation relief account is intended to be the payor of last resort, and as such no charter school, state-tribal compact school, or school district may receive expenditures from the account until the school or school district has demonstrated there are no available federal relief funds that can be used to address allowable transportation costs.
+1. The public schools emergency transportation relief account is created in the state treasury. Money in the account may be spent only after appropriation. Expenditures from the account may only be used to backfill reductions in state funding allocations resulting from transportation declines caused by a declared statewide emergency, provided that such reductions have not been backfilled through receipt of federal emergency relief funds, and must be attributable to documented allowable uses for transportation-related services as established under section 2 of this act.
+
+2. A charter school, state-tribal compact school, or school district may not receive expenditures from the public schools emergency transportation relief account if the school or school district meets the minimum parameters for in-person learning recommended by the department of health and does not offer in-person learning at or above the recommended level.
+
+3. Any funds that remain in the public schools emergency transportation relief account at the end of the 2021-2023 fiscal biennia must be deposited into the state general fund.
+
+4. The public schools emergency transportation relief account is intended to be the payor of last resort, and as such no charter school, state-tribal compact school, or school district may receive expenditures from the account until the school or school district has demonstrated there are no available federal relief funds that can be used to address allowable transportation costs.
+
 
 ## Section 8
 The sum of $100,000,000 is appropriated for fiscal year 2021, from the general fund account—state to the public schools emergency transportation relief account created in section 7 of this act for the purposes of backfilling reductions in state funding allocations resulting from transportation declines caused by a declared statewide emergency, provided that such reductions have not been backfilled through receipt of federal emergency relief funds, and must be attributable to documented allowable uses for transportation-related services as established under section 2 of this act.
+
 
 ## Section 11
 > This section modifies existing section [43.84.092](/rcw/43_state_government—executive/43.084_investments_and_interfund_loans.md). Here is the [modified chapter](rcw/43_state_government—executive/43.084_investments_and_interfund_loans.md) for context.

@@ -3,12 +3,69 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1218-S.SL.xml)
 ## Section 1
 The legislature finds that:
-(1) Residents in licensed long-term care facilities have been disproportionately impacted and isolated by the COVID-19 pandemic and over 50 percent of all COVID-19 deaths in Washington have been associated with long-term care facilities;
-(2) According to a University of Washington report, social isolation creates a "double pandemic" that disrupts care and exacerbates the difficulties of dementia, depression, suicide risk, chronic health conditions, and other challenges faced by long-term care residents and providers;
-(3) A "digital divide" exists in many parts of Washington, particularly for older adults of color with low incomes and those in rural communities;
-(4) Residents with sensory limitations, mental illness, intellectual disabilities, dementia, cognitive limitations, traumatic brain injuries, or other disabilities may not be able to fully utilize digital tools which exacerbates their social isolation;
-(5) Long-term care facilities already have the legal responsibility to care for their residents in a manner and in an environment that promotes the maintenance or enhancement of each resident's quality of life. A resident should have a safe, clean, comfortable, and homelike environment as detailed in chapter 70.129 RCW; and
-(6) The COVID-19 pandemic has exposed systematic weaknesses in the state's long-term care system and there is a need to enact additional measures to protect and improve the health, safety, and quality of life of residents.
+
+1. Residents in licensed long-term care facilities have been disproportionately impacted and isolated by the COVID-19 pandemic and over 50 percent of all COVID-19 deaths in Washington have been associated with long-term care facilities;
+
+2. According to a University of Washington report, social isolation creates a "double pandemic" that disrupts care and exacerbates the difficulties of dementia, depression, suicide risk, chronic health conditions, and other challenges faced by long-term care residents and providers;
+
+3. A "digital divide" exists in many parts of Washington, particularly for older adults of color with low incomes and those in rural communities;
+
+4. Residents with sensory limitations, mental illness, intellectual disabilities, dementia, cognitive limitations, traumatic brain injuries, or other disabilities may not be able to fully utilize digital tools which exacerbates their social isolation;
+
+5. Long-term care facilities already have the legal responsibility to care for their residents in a manner and in an environment that promotes the maintenance or enhancement of each resident's quality of life. A resident should have a safe, clean, comfortable, and homelike environment as detailed in chapter 70.129 RCW; and
+
+6. The COVID-19 pandemic has exposed systematic weaknesses in the state's long-term care system and there is a need to enact additional measures to protect and improve the health, safety, and quality of life of residents.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [18.20](/rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md) for context.
+
+The department must require an assisted living facility that is subject to a stop placement order or limited stop placement order under RCW 18.20.190 to publicly post in a conspicuous place at the facility a standardized notice that the department has issued a stop placement order or limited stop placement order for the facility. The standardized notice shall be developed by the department to include the date of the stop placement order or limited stop placement order, any conditions placed upon the facility's license, contact information for the department, contact information for the administrator or provider of the assisted living facility, and a statement that anyone may contact the department or the administrator or provider for further information. The notice must remain posted until the department has terminated the stop placement order or limited stop placement order.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [18.20](/rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md) for context.
+
+1. The department shall require each assisted living facility to:
+
+    a. Create and regularly maintain a current resident roster containing the name and room number of each resident and provide a written copy immediately upon an in-person request from any long-term care ombuds;
+
+    b. Create and regularly maintain current, accurate, and aggregated contact information for all residents, including contact information for the resident representative, if any, of each resident. The contact information for each resident must include the resident's name, room number, and, if available, telephone number and email address. The contact information for each resident representative must include the resident representative's name, relationship to the resident, phone number, and, if available, email and mailing address;
+
+    c. Record and update the aggregated contact information required by this section, upon receipt of new or updated contact information from the resident or resident representative; and
+
+    d. Upon the written request of any long-term care ombuds that includes reference to this section and the relevant legal functions and duties of long-term care ombuds, provide a copy of the aggregated contact information required by this section within 48 hours, or within a reasonable time if agreed to by the requesting long-term care ombuds by electronic copy to the secure email address or facsimile number provided in the written request.
+
+2. In accordance with the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, the department shall inform assisted living facilities that:
+
+    a. Any long-term care ombuds is authorized to request and obtain from assisted living facilities the information required by this section in order to perform the functions and duties of long-term care ombuds as set forth in federal and state laws;
+
+    b. The state long-term care ombuds program and all long-term care ombuds are considered a "health oversight agency," so that the federal health insurance portability and accountability act and chapter 70.02 RCW do not preclude assisted living facilities from providing the information required by this section when requested by any long-term care ombuds, and pursuant to these laws, the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, facilities are not required to seek or obtain consent from residents or resident representatives prior to providing the information required by this section in accordance with the requirements of this section;
+
+    c. The information required by this section, when provided by an assisted living facility to a requesting long-term care ombuds, becomes property of the state long-term care ombuds program and is subject to all state and federal laws governing the confidentiality and disclosure of the files, records, and information maintained by the state long-term care ombuds program or any local long-term care ombuds entity; and
+
+    d. The assisted living facility may not refuse to provide or unreasonably delay providing the resident roster, the contact information for a resident or resident representative, or the aggregated contact information required by this section on any basis, including on the basis that the facility must first seek or obtain consent from one or more of the residents or resident representatives.
+
+3. Nothing in this section shall interfere with or diminish the authority of any long-term care ombuds to access facilities, residents, and resident records as otherwise authorized by law.
+
+4. For the purposes of this section, "resident representative" has the same meaning as in RCW 70.129.010.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [18.20](/rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md) for context.
+
+1. Each assisted living facility shall be responsive to incoming communications and respond within a reasonable time to phone and electronic messages.
+
+2. Each assisted living facility must have a communication system, including a sufficient quantity of working telephones and other communication equipment, to ensure that residents have 24-hour access to communications with family, medical providers, and others, and also to allow for emergency contact to and from facility staff. The telephones and communication equipment must provide for auditory privacy, not be located in a staff office or station, be accessible and usable by persons with hearing loss and other disabilities, and not require payment for local calls. An assisted living facility is not required to provide telephones at no cost in each resident room.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [18.20](/rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.020_assisted_living_facilities.md) for context.
+
+1. Each assisted living facility shall develop and maintain a comprehensive disaster preparedness plan to be followed in the event of a disaster or emergency, including fires, earthquakes, floods, infectious disease outbreaks, loss of power or water, and other events that may require sheltering in place, evacuations, or other emergency measures to protect the health and safety of residents. The facility shall review the comprehensive disaster preparedness plan annually, update the plan as needed, and train all employees when they begin work in the facility on the comprehensive disaster preparedness plan and related staff procedures.
+
+2. The department shall adopt rules governing the comprehensive disaster preparedness plan. At a minimum, the rules must address: Timely communication with the residents' emergency contacts; timely communication with state and local agencies, long-term care ombuds, and developmental disabilities ombuds; contacting and requesting emergency assistance; on-duty employees' responsibilities; meeting residents' essential needs; procedures to identify and locate residents; and procedures to provide emergency information to provide for the health and safety of residents. In addition, the rules shall establish standards for maintaining personal protective equipment and infection control capabilities, as well as department inspection procedures with respect to the plans.
+
 
 ## Section 6
 > This section modifies existing section [18.51.009](/rcw/18_businesses_and_professions/18.051_nursing_homes.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.051_nursing_homes.md) for context.
@@ -22,6 +79,42 @@ RCW 70.129.007, 70.129.105,  70.129.150 through 70.129.170**, and section 20 of 
 1. Each citation for a violation specified in RCW 18.51.060 which is issued pursuant to this section , or a copy or copies thereof, shall be prominently posted, as prescribed in regulations issued by the director, until the violation is corrected to the satisfaction of the department up to a maximum of one hundred twenty days. The citation or copy shall be posted in a place or places in plain view of the patients in the nursing home, persons visiting those patients, and persons who inquire about placement in the facility.
 
 2. **The department shall require a nursing home that is subject to a stop placement order or limited stop placement order under RCW 18.51.060 to publicly post in a conspicuous place at the nursing home a standardized notice that the department has issued a stop placement order or limited stop placement order for the nursing home. The standardized notice shall be developed by the department to include the date of the stop placement order or limited stop placement order, any conditions placed upon the nursing home's license, contact information for the department, contact information for the administrator or provider of the nursing home, and a statement that anyone may contact the department or the administrator or provider for further information. The notice must remain posted until the department has terminated the stop placement order or limited stop placement order.**
+
+
+## Section 8
+> This section adds a new section to an existing chapter [18.51](/rcw/18_businesses_and_professions/18.051_nursing_homes.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.051_nursing_homes.md) for context.
+
+1. The department shall require each nursing home to:
+
+    a. Create and regularly maintain a current resident roster containing the name and room number of each resident and provide a written copy immediately upon an in-person request from any long-term care ombuds;
+
+    b. Create and regularly maintain current, accurate, and aggregated contact information for all residents, including contact information for the resident representative, if any, of each resident. The contact information for each resident must include the resident's name, room number, and, if available, telephone number and email address. The contact information for each resident representative must include the resident representative's name, relationship to the resident, phone number, and, if available, email and mailing address;
+
+    c. Record and update the aggregated contact information required by this section, upon receipt of new or updated contact information from the resident or resident representative; and
+
+    d. Upon the written request of any long-term care ombuds that includes reference to this section and the relevant legal functions and duties of long-term care ombuds, provide a copy of the aggregated contact information required by this section within 48 hours, or within a reasonable time if agreed to by the requesting long-term care ombuds, by electronic copy to the secure email address or facsimile number provided in the written request.
+
+2. In accordance with the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, the department shall inform nursing homes that:
+
+    a. Any long-term care ombuds is authorized to request and obtain from nursing homes the information required by this section in order to perform the functions and duties of long-term care ombuds as set forth in federal and state laws;
+
+    b. The state long-term care ombuds program and all long-term care ombuds are considered a "health oversight agency," so that the federal health insurance portability and accountability act and chapter 70.02 RCW do not preclude nursing homes from providing the information required by this section when requested by any long-term care ombuds, and pursuant to these laws, the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, nursing homes are not required to seek or obtain consent from residents or resident representatives prior to providing the information required by this section in accordance with the requirements of this section;
+
+    c. The information required by this section, when provided by a nursing home to a requesting long-term care ombuds, becomes property of the state long-term care ombuds program and is subject to all state and federal laws governing the confidentiality and disclosure of the files, records, and information maintained by the state long-term care ombuds program or any local long-term care ombuds entity; and
+
+    d. The nursing home may not refuse to provide or unreasonably delay providing the resident roster, the contact information for a resident or resident representative, or the aggregated contact information required by this section, on any basis, including on the basis that the nursing home must first seek or obtain consent from one or more of the residents or resident representatives.
+
+3. Nothing in this section shall interfere with or diminish the authority of any long-term care ombuds to access nursing homes, residents, and resident records as otherwise authorized by law.
+
+4. For the purposes of this section, "resident representative" has the same meaning as in RCW 70.129.010.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [18.51](/rcw/18_businesses_and_professions/18.051_nursing_homes.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.051_nursing_homes.md) for context.
+
+1. Each nursing home must be responsive to incoming communications and respond within a reasonable time to phone and electronic messages.
+
+2. Each nursing home must have a communication system, including a sufficient quantity of working telephones and other communication equipment to ensure that residents have 24-hour access to communications with family, medical providers, and others, and also to allow for emergency contact to and from facility staff. The telephones and communication equipment must provide for auditory privacy, not be located in a staff office or station, be accessible and usable by persons with hearing loss and other disabilities, and not require payment for local calls. A nursing home is not required to provide telephones at no cost in each resident room.
 
 
 ## Section 10
@@ -46,10 +139,138 @@ The facility shall maintain an organized record system containing a record for e
 Resident records shall be available to the staff members directly involved with the resident and to appropriate representatives of the department. The facility shall protect resident records against destruction, loss, and unauthorized use. The facility shall keep a resident's record after the resident is discharged as provided in RCW 18.51.300.
 
 
+## Section 11
+> This section adds a new section to an existing chapter [18.51](/rcw/18_businesses_and_professions/18.051_nursing_homes.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.051_nursing_homes.md) for context.
+
+1. Each nursing home shall develop and maintain a comprehensive disaster preparedness plan to be followed in the event of a disaster or emergency, including fires, earthquakes, floods, infectious disease outbreaks, loss of power or water, and other events that may require sheltering in place, evacuations, or other emergency measures to protect the health and safety of residents. The nursing home shall review the comprehensive disaster preparedness plan annually, update the plan as needed, and train all employees when they begin work in the nursing home on the comprehensive disaster preparedness plan and related staff procedures.
+
+2. The department shall adopt rules governing the comprehensive disaster preparedness plan. At a minimum, the rules must address the following if not already adequately addressed by federal requirements for emergency planning: Timely communication with the residents' emergency contacts; timely communication with state and local agencies, long-term care ombuds, and developmental disabilities ombuds; contacting and requesting emergency assistance; on-duty employees' responsibilities; meeting residents' essential needs; procedures to identify and locate residents; and procedures to provide emergency information to provide for the health and safety of residents. In addition, the rules shall establish standards for maintaining personal protective equipment and infection control capabilities, as well as department inspection procedures with respect to the plans.
+
+
 ## Section 12
 > This section modifies existing section [74.42.460](/rcw/74_public_assistance/74.42_nursing_homes—resident_care_operating_standards.md). Here is the [modified chapter](rcw/74_public_assistance/74.42_nursing_homes—resident_care_operating_standards.md) for context.
 
 The facility shall have a written staff organization plan and detailed written procedures to meet potential emergencies and disasters. The facility shall clearly communicate and periodically review the plan and procedures with the staff and residents. The plan and procedures shall be posted at suitable locations throughout the facility. **The planning requirement of this section shall complement the comprehensive disaster preparedness planning requirement of section 11 of this act.**
+
+
+## Section 13
+> This section adds a new section to an existing chapter [70.97](/rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md) for context.
+
+The department shall require an enhanced services facility that is subject to a stop placement order or limited stop placement order under RCW 70.97.110 to publicly post in a conspicuous place at the facility a standardized notice that the department has issued a stop placement order or limited stop placement order for the facility. The standardized notice shall be developed by the department to include the date of the stop placement order or limited stop placement order, any conditions placed upon the facility's license, contact information for the department, contact information for the administrator or provider of the facility, and a statement that anyone may contact the department or the administrator or provider for further information. The notice must remain posted until the department has terminated the stop placement order or limited stop placement order.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [70.97](/rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md) for context.
+
+1. The department shall require each enhanced services facility to:
+
+    a. Create and regularly maintain a current resident roster containing the name and room number of each resident and provide a written copy immediately upon an in-person request from any long-term care ombuds;
+
+    b. Create and regularly maintain current, accurate, and aggregated contact information for all residents, including contact information for the resident representative, if any, of each resident. The contact information for each resident must include the resident's name, room number, and, if available, telephone number and email address. The contact information for each resident representative must include the resident representative's name, relationship to the resident, phone number, and, if available, email and mailing address;
+
+    c. Record and update the aggregated contact information required by this section, upon receipt of new or updated contact information from the resident or resident representative; and
+
+    d. Upon the written request of any long-term care ombuds that includes reference to this section and the relevant legal functions and duties of long-term care ombuds, provide a copy of the aggregated contact information required by this section within 48 hours, or within a reasonable time if agreed to by the requesting long-term care ombuds, by electronic copy to the secure email address or facsimile number provided in the written request.
+
+2. In accordance with the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, the department shall inform enhanced services facilities that:
+
+    a. Any long-term care ombuds is authorized to request and obtain from enhanced services facilities the information required by this section in order to perform the functions and duties of long-term care ombuds as set forth in federal and state laws;
+
+    b. The state long-term care ombuds program and all long-term care ombuds are considered a "health oversight agency," so that the federal health insurance portability and accountability act and chapter 70.02 RCW do not preclude enhanced services facilities from providing the information required by this section when requested by any long-term care ombuds, and pursuant to these laws, the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, facilities are not required to seek or obtain consent from residents or resident representatives prior to providing the information required by this section in accordance with the requirements of this section;
+
+    c. The information required by this section, when provided by an enhanced services facility to a requesting long-term care ombuds, becomes property of the state long-term care ombuds program and is subject to all state and federal laws governing the confidentiality and disclosure of the files, records, and information maintained by the state long-term care ombuds program or any local long-term care ombuds entity; and
+
+    d. The enhanced services facility may not refuse to provide or unreasonably delay providing the resident roster, the contact information for a resident or resident representative, or the aggregated contact information required by this section, on any basis, including on the basis that the enhanced services facility must first seek or obtain consent from one or more of the residents or resident representatives.
+
+3. Nothing in this section shall interfere with or diminish the authority of any long-term care ombuds to access facilities, residents, and resident records as otherwise authorized by law.
+
+4. For the purposes of this section, "resident representative" has the same meaning as in RCW 70.129.010.
+
+
+## Section 15
+> This section adds a new section to an existing chapter [70.97](/rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md) for context.
+
+1. Each enhanced services facility must be responsive to incoming communications and respond within a reasonable time to phone and electronic messages.
+
+2. Each enhanced services facility must have a communication system, including a sufficient quantity of working telephones and other communication equipment to assure that residents have 24-hour access to communications with family, medical providers, and others, and also to allow for emergency contact to and from facility staff. The telephones and communication equipment must provide for auditory privacy, not be located in a staff office or station, be accessible and usable by persons with hearing loss and other disabilities, and not require payment for local calls. An enhanced services facility is not required to provide telephones at no cost in each resident room.
+
+
+## Section 16
+> This section adds a new section to an existing chapter [70.97](/rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.097_enhanced_services_facilities.md) for context.
+
+1. Each enhanced services facility shall develop and maintain a comprehensive disaster preparedness plan to be followed in the event of a disaster or emergency, including fires, earthquakes, floods, infectious disease outbreaks, loss of power or water, and other events that may require sheltering in place, evacuations, or other emergency measures to protect the health and safety of residents. The enhanced services facility must review the comprehensive disaster preparedness plan annually, update the plan as needed, and train all employees when they begin work in the enhanced services facility on the comprehensive disaster preparedness plan and related staff procedures.
+
+2. The department shall adopt rules governing the comprehensive disaster preparedness plan. At a minimum, the rules must address: Timely communication with the residents' emergency contacts; timely communication with state and local agencies, long-term care ombuds, and developmental disabilities ombuds; contacting and requesting emergency assistance; on-duty employees' responsibilities; meeting residents' essential needs; procedures to identify and locate residents; and procedures to provide emergency information to provide for the health and safety of residents. In addition, the rules shall establish standards for maintaining personal protective equipment and infection control capabilities, as well as department inspection procedures with respect to the plans.
+
+
+## Section 17
+> This section adds a new section to an existing chapter [70.128](/rcw/70_public_health_and_safety/70.128_adult_family_homes.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.128_adult_family_homes.md) for context.
+
+1. The department shall require each adult family home to:
+
+    a. Create and regularly maintain a current resident roster containing the name and room number of each resident and provide a written copy immediately upon an in-person request from any long-term care ombuds;
+
+    b. Create and regularly maintain current, accurate, and aggregated contact information for all residents, including contact information for the resident representative, if any, of each resident. The contact information for each resident must include the resident's name, room number, and, if available, telephone number and email address. The contact information for each resident representative must include the resident representative's name, relationship to the resident, phone number, and, if available, email and mailing address;
+
+    c. Record and update the aggregated contact information required by this section, upon receipt of new or updated contact information from the resident or resident representative; and
+
+    d. Upon the written request of any long-term care ombuds that includes reference to this section and the relevant legal functions and duties of long-term care ombuds, provide a copy of the aggregated contact information required by this section within 48 hours, or within a reasonable time if agreed to by the requesting long-term care ombuds, by electronic copy to the secure email address or facsimile number provided in the written request.
+
+2. In accordance with the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, the department shall inform adult family homes that:
+
+    a. Any long-term care ombuds is authorized to request and obtain from adult family homes the information required by this section in order to perform the functions and duties of long-term care ombuds as set forth in federal and state laws;
+
+    b. The state long-term care ombuds program and all long-term care ombuds are considered a "health oversight agency," so that the federal health insurance portability and accountability act and chapter 70.02 RCW do not preclude adult family homes from providing the information required by this section when requested by any long-term care ombuds, and pursuant to these laws, the federal older Americans act, federal regulations, and state laws that govern the state long-term care ombuds program, adult family homes are not required to seek or obtain consent from residents or resident representatives prior to providing the information required by this section in accordance with the requirements of this section;
+
+    c. The information required by this section, when provided by an adult family home to a requesting long-term care ombuds, becomes property of the state long-term care ombuds program and is subject to all state and federal laws governing the confidentiality and disclosure of the files, records, and information maintained by the state long-term care ombuds program or any local long-term care ombuds entity; and
+
+    d. The adult family home may not refuse to provide or unreasonably delay providing the resident roster, the contact information for a resident or resident representative, or the aggregated contact information required by this section, on any basis, including on the basis that the adult family home must first seek or obtain consent from one or more of the residents or resident representatives.
+
+3. Nothing in this section shall interfere with or diminish the authority of any long-term care ombuds to access facilities, residents, and resident records as otherwise authorized by law.
+
+4. For the purposes of this section, "resident representative" has the same meaning as in RCW 70.129.010.
+
+
+## Section 18
+> This section adds a new section to an existing chapter [70.128](/rcw/70_public_health_and_safety/70.128_adult_family_homes.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.128_adult_family_homes.md) for context.
+
+The department must require an adult family home that is subject to a stop placement order or limited stop placement order under RCW 70.128.160 to publicly post in a conspicuous place at the adult family home a standardized notice that the department has issued a stop placement order or limited stop placement order for the adult family home. The standardized notice shall be developed by the department to include the date of the stop placement order or limited stop placement order, any conditions placed upon the adult family home's license, contact information for the department, contact information for the administrator or provider of the adult family home, and a statement that anyone may contact the department or the administrator or provider for further information. The notice must remain posted until the department has terminated the stop placement order or limited stop placement order.
+
+
+## Section 19
+> This section adds a new section to an existing chapter [70.129](/rcw/70_public_health_and_safety/70.129_long-term_care_resident_rights.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.129_long-term_care_resident_rights.md) for context.
+
+The department of social and health services and the department of health, in collaboration with the state office of the long-term care ombuds and representatives of long-term care facilities, shall develop training materials to educate the leadership and staff of local health jurisdictions on the state's long-term care system. The training materials must provide information to assist local health jurisdiction personnel when establishing and enforcing public health measures in long-term care facilities and nursing homes, including:
+
+1. All applicable state and federal resident rights, including the due process rights of residents; and
+
+2. The process for local health jurisdiction personnel to report abuse and neglect in facilities and nursing homes, including during periods when visitation may be limited.
+
+
+## Section 20
+> This section adds a new section to an existing chapter [70.129](/rcw/70_public_health_and_safety/70.129_long-term_care_resident_rights.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.129_long-term_care_resident_rights.md) for context.
+
+1. In circumstances in which limitations must be placed on resident visitation due to a public health emergency or other threat to the health and safety of the residents and staff of a facility or nursing home, residents must still be allowed access to an essential support person, subject to reasonable limitations on such access tailored to protecting the health and safety of essential support persons, residents, and staff.
+
+2. The facility or nursing home must allow private, in-person access to the resident by the essential support person in the resident's room. If the resident resides in a shared room, and the roommate, or the roommate's resident representative, if any, does not consent or the visit cannot be conducted safely in a shared room, then the facility or nursing home shall designate a substitute location in the facility or nursing home for the resident and essential support person to visit.
+
+3. The facility or nursing home shall develop and implement reasonable conditions on access by an essential support person tailored to protecting the health and safety of the essential support person, residents, and staff, based upon the particular public health emergency or other health or safety threat.
+
+4. The facility or nursing home may temporarily suspend an individual's designation as an essential support person for failure to comply with these requirements or reasonable conditions developed and implemented by the facility or nursing home that are tailored to protecting that health and safety of the essential support person, residents, and staff, based upon the particular public health emergency or other health or safety threat. Unless immediate action is necessary to prevent an imminent and serious threat to the health or safety of residents or staff, the facility or nursing home shall attempt to resolve the concerns with the essential support person and the resident prior to temporarily suspending the individual's designation as an essential support person. The suspension shall last no longer than 48 hours during which time the facility or nursing home must contact the department for guidance and must provide the essential support person:
+
+    a. Information regarding the steps the essential support person must take to resume the visits, such as agreeing to comply with reasonable conditions tailored to protecting the health and safety of the essential support person, residents, and staff, based upon the particular public health emergency or other health or safety threat;
+
+    b. The contact information for the long-term care ombuds program; and
+
+    c. As appropriate, the contact information for the developmental disabilities ombuds, the agency responsible for the protection and advocacy system for individuals with developmental disabilities, and the agency responsible for the protection and advocacy system for individuals with mental illness.
+
+5. For the purposes of this section, "essential support person" means an individual who is:
+
+    a. At least 18 years of age;
+
+    b. Designated by the resident, or by the resident's representative, if the resident is determined to be incapacitated or otherwise legally incapacitated; and
+
+    c. Necessary for the resident's emotional, mental, or physical well-being during situations that include, but are not limited to, circumstances involving compassionate care or end-of-life care, circumstances where visitation from a familiar person will assist with important continuity of care or the reduction of confusion and anxiety for residents with cognitive impairments, or other circumstances where the presence of an essential support person will prevent or reduce significant emotional distress to the resident.
 
 
 ## Section 22
@@ -246,4 +467,70 @@ The resident has the right to privacy in communications, including the right to:
 1. A long-term care facility must fully disclose to residents the facility's policy on accepting medicaid as a payment source. The policy shall clearly state the circumstances under which the facility provides care for medicaid eligible residents and for residents who may later become eligible for medicaid.
 
 2. The policy under this section must be provided to residents orally and in writing prior to admission, in a language that the resident or **resident** representative understands. The written policy must be in type font no smaller than fourteen point and written on a page that is separate from other documents. The policy must be signed and dated by the resident or **resident** representative **to the extent provided by law**, if the resident lacks capacity. The facility must retain a copy of the disclosure. Current residents must receive a copy of the policy consistent with this section by July 26, 2009.
+
+
+## Section 30
+> This section adds a new section to an existing chapter [70.01](/rcw/70_public_health_and_safety/70.001_general_provisions.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.001_general_provisions.md) for context.
+
+1. The department of health and the department of social and health services shall develop a report and guidelines on epidemic disease preparedness and response for long-term care facilities. In developing the report and guidelines, the department of health and the department of social and health services shall consult with interested stakeholders, including but not limited to:
+
+    a. Local health jurisdictions;
+
+    b. Advocates for consumers of long-term care;
+
+    c. Associations representing long-term care facility providers; and
+
+    d. The office of the state long-term care ombuds.
+
+2. The report must identify best practices and lessons learned about containment and mitigation strategies for controlling the spread of the infectious agent. At a minimum, the report must consider:
+
+    a. Visitation policies that balance the psychosocial and physical health of residents;
+
+    b. Timely and adequate access to personal protective equipment and other infection control supplies so that employees in long-term care facilities are prioritized for distribution in the event of supply shortages;
+
+    c. Admission and discharge policies and standards; and
+
+    d. Rapid and accurate testing to identify infectious outbreaks for:
+
+        i. Resident cohorting and treatment;
+
+        ii. Contact tracing purposes; and
+
+        iii. Protecting the health and well-being of residents and employees.
+
+3. In developing the report, the department of health and the department of social and health services shall work with the stakeholders identified in subsection (1) of this section to:
+
+    a. Ensure that any corresponding federal rules and guidelines take precedence over the state guidelines;
+
+    b. Avoid conflict between federal requirements and state guidelines;
+
+    c. Develop a timeline for implementing the guidelines and a process for communicating the guidelines to long-term care facilities, local health jurisdictions, and other interested stakeholders in a clear and timely manner;
+
+    d. Consider options for targeting available resources towards infection control when epidemic disease outbreaks occur in long-term care facilities;
+
+    e. Establish methods for ensuring that epidemic preparedness and response guidelines are consistently applied across all local health jurisdictions and long-term care facilities in Washington state. This may include recommendations to the legislature for any needed statutory changes;
+
+    f. Develop a process for maintaining and updating epidemic preparedness and response guidelines as necessary; and
+
+    g. Ensure appropriate considerations for each unique provider type.
+
+4. By December 1, 2021, the department of health and the department of social and health services shall provide a draft report and guidelines on COVID-19 as outlined in subsection (2) of this section to the health care committees of the legislature.
+
+5. By July 1, 2022, the department of health and the department of social and health services shall finalize the report and guidelines on COVID-19 and provide the report to the health care committees of the legislature.
+
+6. Beginning December 1, 2022, and annually thereafter, the department of health and the department of social and health services shall:
+
+    a. Review the report and any corresponding guidelines;
+
+    b. Make any necessary changes regarding COVID-19 and add information about any emerging epidemic of public health concern; and
+
+    c. Provide the updated report and guidelines to the health care committees of the legislature. When providing the updated guidelines to the legislature, the department of health and the department of social and health services may include recommendations to the legislature for any needed statutory changes.
+
+7. For purposes of this section, "long-term care facilities" includes:
+
+    a. Licensed skilled nursing facilities, assisted living facilities, adult family homes, and enhanced services facilities;
+
+    b. Certified community residential services and supports; and
+
+    c. Registered continuing care retirement communities.
 

@@ -3,150 +3,281 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5142.xml)
 ## Section 1
 The legislature finds that good oral health is an integral piece of overall health and well-being. Without treatment, dental disease compromises overall health and requires increasingly costly interventions. However, most dental disease can be prevented at little cost through routine dental care and disease prevention.
+
 Dental-related issues are a leading reason that Washingtonians seek care in hospital emergency departments, which has become the source of care for many, especially uninsured and low-income populations.
+
 It is the intent of the legislature to expand access to oral health care for all Washingtonians through an evidence-based mid-level dental provider called a dental therapist. Dental therapy is a strategy to address racial and ethnic disparities in health and rural health care access gaps. Dental therapists are also a strategy to increase workforce diversity in health care and expand career opportunities for existing members of the dental care workforce such as dental hygienists.
+
 It is the legislature's intent that dental therapists will meet the needs of local communities as they work under the direction of a licensed Washington dentist. The legislature intends for dental therapists to be incorporated into the dental care workforce and used to effectively treat more patients.
+
 It is the intent of the legislature to follow the national commission on dental accreditation's standards for dental therapy education. This will ensure that dental therapists are trained to the highest quality standards and provide state-to-state consistency. It is the intent of the legislature that incorporating the commission on dental accreditation's standards for dental therapy education will pave the way for Washington education institutions to become accredited programs and for students to qualify for financial aid.
+
 It is also the intent of the legislature to provide an efficient and reasonable pathway, through a limited license, for federally certified dental health aide therapists or tribally licensed dental therapists to become a Washington state licensed dental therapist.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Close supervision of a dentist" means that a supervising dentist:
-(a) Has personally examined and diagnosed the patient and has personally authorized the procedures to be performed;
-(b) Is continuously on-site while the procedure in question is being performed; and
-(c) Is capable of responding immediately in the event of an emergency.
-(2) "Committee" means the dental hygiene examining committee established in chapter 18.29 RCW.
-(3) "Dental therapist" means a person licensed to practice dental therapy under this chapter.
-(4) "Dental therapy" means the services and procedures specified in section 5 of this act.
-(5) "Dentist" means a person licensed to practice dentistry under chapter 18.32 RCW.
-(6) "Denturist" means a person licensed to engage in the practice of denturisum under chapter 18.30 RCW.
-(7) "Department" means the department of health.
-(8) "General supervision" means that a supervising dentist has examined and diagnosed the patient and provided subsequent instructions to be performed by the assistive personnel but does not require that the dentist be physically present in the treatment facility.
-(9) "Off-site supervision" means supervision that does not require the dentist to be physically present or to personally examine or diagnose the patient.
-(10) "Practice plan contract" means a document that is signed by a dentist and a dental therapist and outlines the functions the dentist authorizes the dental therapist to perform and the level and type of dentist supervision that is required.
-(11) "Secretary" means the secretary of health.
+
+1. "Close supervision of a dentist" means that a supervising dentist:
+
+    a. Has personally examined and diagnosed the patient and has personally authorized the procedures to be performed;
+
+    b. Is continuously on-site while the procedure in question is being performed; and
+
+    c. Is capable of responding immediately in the event of an emergency.
+
+2. "Committee" means the dental hygiene examining committee established in chapter 18.29 RCW.
+
+3. "Dental therapist" means a person licensed to practice dental therapy under this chapter.
+
+4. "Dental therapy" means the services and procedures specified in section 5 of this act.
+
+5. "Dentist" means a person licensed to practice dentistry under chapter 18.32 RCW.
+
+6. "Denturist" means a person licensed to engage in the practice of denturisum under chapter 18.30 RCW.
+
+7. "Department" means the department of health.
+
+8. "General supervision" means that a supervising dentist has examined and diagnosed the patient and provided subsequent instructions to be performed by the assistive personnel but does not require that the dentist be physically present in the treatment facility.
+
+9. "Off-site supervision" means supervision that does not require the dentist to be physically present or to personally examine or diagnose the patient.
+
+10. "Practice plan contract" means a document that is signed by a dentist and a dental therapist and outlines the functions the dentist authorizes the dental therapist to perform and the level and type of dentist supervision that is required.
+
+11. "Secretary" means the secretary of health.
+
 
 ## Section 3
 No person may practice dental therapy or represent himself or herself as a dental therapist without being licensed by the department under this chapter. Every person licensed to practice dental therapy in this state shall renew their license and comply with administrative procedures, administrative requirements, continuing education requirements, and fees provided in RCW 43.70.250 and 43.70.280.
 
+
 ## Section 4
-(1) The department shall issue a license to practice as a dental therapist to any applicant who:
-(a) Pays any applicable fees established by the secretary under RCW 43.70.110 and 43.70.250;
-(b) Successfully completes a dental therapist program that is accredited or has received initial accreditation by the American dental association's commission on dental accreditation;
-(c) Passes an examination approved by the committee;
-(d) Submits, on forms provided by the secretary, the applicant's name, address, and other applicable information as determined by the secretary; and
-(e) Completes a preceptorship consisting of 400 hours under the close supervision of a dentist followed by 300 hours completed under general supervision of a dentist.
+1. The department shall issue a license to practice as a dental therapist to any applicant who:
+
+    a. Pays any applicable fees established by the secretary under RCW 43.70.110 and 43.70.250;
+
+    b. Successfully completes a dental therapist program that is accredited or has received initial accreditation by the American dental association's commission on dental accreditation;
+
+    c. Passes an examination approved by the committee;
+
+    d. Submits, on forms provided by the secretary, the applicant's name, address, and other applicable information as determined by the secretary; and
+
+    e. Completes a preceptorship consisting of 400 hours under the close supervision of a dentist followed by 300 hours completed under general supervision of a dentist.
+
 After completion of the 400 hours under close supervision, the supervising dentist must review the dental therapist's performance and determine whether the dental therapist may continue to the 300 hours under general supervision.
-(2)(a) The secretary shall establish the date and location of the examination. Applicants who meet the education requirements for licensure must be scheduled for the next examination following the filing of the application. The secretary shall establish by rule the examination application deadline.
-(b) The examination must contain subjects appropriate to the scope of practice and questions on laws in the state of Washington regulating dental therapy practice.
-(c) The committee shall establish by rule the requirements for a reexamination if the applicant has failed the examination.
-(d) The committee may approve an examination prepared or administered by a private testing agency or association of licensing authorities.
-(3) The secretary in consultation with the committee must establish by rule the procedures to implement this section.
+
+2. [Empty]
+
+    a. The secretary shall establish the date and location of the examination. Applicants who meet the education requirements for licensure must be scheduled for the next examination following the filing of the application. The secretary shall establish by rule the examination application deadline.
+
+    b. The examination must contain subjects appropriate to the scope of practice and questions on laws in the state of Washington regulating dental therapy practice.
+
+    c. The committee shall establish by rule the requirements for a reexamination if the applicant has failed the examination.
+
+    d. The committee may approve an examination prepared or administered by a private testing agency or association of licensing authorities.
+
+3. The secretary in consultation with the committee must establish by rule the procedures to implement this section.
+
 
 ## Section 5
-(1) Subject to the limitations in this section, a licensed dental therapist may provide the following services and procedures under the supervision of a licensed dentist as provided under section 6 of this act and to the extent the supervising dentist authorizes the service or procedure to be provided by the dental therapist:
-(a) Oral health instruction and disease prevention education, including nutritional counseling and dietary analysis;
-(b) Preliminary charting of the oral cavity;
-(c) Making radiographs;
-(d) Mechanical polishing;
-(e) Prophylaxis;
-(f) Periodontal scaling and root planing;
-(g) Application of topical preventative or prophylactic agents, including fluoride and pit and fissure sealants;
-(h) Pulp vitality testing;
-(i) Application of desensitizing medication or resin;
-(j) Fabrication of athletic mouth guards;
-(k) Placement of temporary restorations;
-(l) Fabrication of soft occlusal guards;
-(m) Tissue conditioning and soft reline;
-(n) Atraumatic restorative therapy and interim restorative therapy;
-(o) Dressing changes;
-(p) Tooth reimplantation;
-(q) Administration of local anesthetic;
-(r) Administration of nitrous oxide;
-(s) Emergency palliative treatment of dental pain;
-(t) The placement and removal of space maintainers;
-(u) Cavity preparation;
-(v) Restoration of primary and permanent teeth;
-(w) Placement of temporary crowns;
-(x) Preparation and placement of preformed crowns;
-(y) Pulpotomies on primary teeth;
-(z) Indirect and direct pulp capping on primary and permanent teeth;
-(aa) Stabilization of reimplanted teeth;
-(bb) Extractions of primary teeth;
-(cc) Suture placement and removal;
-(dd) Brush biopsies;
-(ee) Minor adjustments and repairs on removable prostheses;
-(ff) Recementing of permanent crowns;
-(gg) Oral evaluation and assessment of dental disease and the formulation of an individualized treatment plan;
-(hh) The supervision of expanded function dental auxiliaries and dental assistants. However, a dental therapist may supervise no more than a total of four expanded function dental auxiliaries and dental assistants at any one time in any one practice setting. A dental therapist may not supervise an expanded function dental auxiliary or dental assistant with respect to tasks that the dental therapist is not authorized to perform;
-(ii) Nonsurgical extractions of periodontally diseased permanent teeth with tooth mobility of plus 3 to plus 4 if the teeth are not unerupted, are not impacted, are not fractured, and do not need to be sectioned for removal; and
-(jj) The dispensation and oral administration of drugs pursuant to subsection (2) of this section.
-(2)(a) A dental therapist may dispense and orally administer the following drugs within the parameters of the practice plan contract established in section 6 of this act: Nonnarcotic analgesics, anti-inflammatories, preventive agents, and antibiotics.
-(b) The authority to dispense and orally administer drugs extends only to the drugs identified in this subsection and may be further limited by the practice plan contract.
-(c) The authority to dispense includes the authority to dispense sample drugs within the categories established in this subsection if the dispensing is permitted under the practice plan contract.
-(d) A dental therapist may not dispense or administer narcotic drugs as defined in chapter 69.50 RCW.
-(e) A dental therapist does not have the authority to prescribe drugs.
-(3) A dental therapist may only provide services and procedures in which they have been educated.
-(4) A dental therapist may not provide any service or procedure that is not both authorized by this section and been authorized by the supervising dentist via inclusion in the dental therapist's practice plan contract.
+1. Subject to the limitations in this section, a licensed dental therapist may provide the following services and procedures under the supervision of a licensed dentist as provided under section 6 of this act and to the extent the supervising dentist authorizes the service or procedure to be provided by the dental therapist:
+
+    a. Oral health instruction and disease prevention education, including nutritional counseling and dietary analysis;
+
+    b. Preliminary charting of the oral cavity;
+
+    c. Making radiographs;
+
+    d. Mechanical polishing;
+
+    e. Prophylaxis;
+
+    f. Periodontal scaling and root planing;
+
+    g. Application of topical preventative or prophylactic agents, including fluoride and pit and fissure sealants;
+
+    h. Pulp vitality testing;
+
+    i. Application of desensitizing medication or resin;
+
+    j. Fabrication of athletic mouth guards;
+
+    k. Placement of temporary restorations;
+
+    l. Fabrication of soft occlusal guards;
+
+    m. Tissue conditioning and soft reline;
+
+    n. Atraumatic restorative therapy and interim restorative therapy;
+
+    o. Dressing changes;
+
+    p. Tooth reimplantation;
+
+    q. Administration of local anesthetic;
+
+    r. Administration of nitrous oxide;
+
+    s. Emergency palliative treatment of dental pain;
+
+    t. The placement and removal of space maintainers;
+
+    u. Cavity preparation;
+
+    v. Restoration of primary and permanent teeth;
+
+    w. Placement of temporary crowns;
+
+    x. Preparation and placement of preformed crowns;
+
+    y. Pulpotomies on primary teeth;
+
+    z. Indirect and direct pulp capping on primary and permanent teeth;
+
+    aa. Stabilization of reimplanted teeth;
+
+    bb. Extractions of primary teeth;
+
+    cc. Suture placement and removal;
+
+    dd. Brush biopsies;
+
+    ee. Minor adjustments and repairs on removable prostheses;
+
+    ff. Recementing of permanent crowns;
+
+    gg. Oral evaluation and assessment of dental disease and the formulation of an individualized treatment plan;
+
+    hh. The supervision of expanded function dental auxiliaries and dental assistants. However, a dental therapist may supervise no more than a total of four expanded function dental auxiliaries and dental assistants at any one time in any one practice setting. A dental therapist may not supervise an expanded function dental auxiliary or dental assistant with respect to tasks that the dental therapist is not authorized to perform;
+
+        ii. Nonsurgical extractions of periodontally diseased permanent teeth with tooth mobility of plus 3 to plus 4 if the teeth are not unerupted, are not impacted, are not fractured, and do not need to be sectioned for removal; and
+
+    jj. The dispensation and oral administration of drugs pursuant to subsection (2) of this section.
+
+2. [Empty]
+
+    a. A dental therapist may dispense and orally administer the following drugs within the parameters of the practice plan contract established in section 6 of this act: Nonnarcotic analgesics, anti-inflammatories, preventive agents, and antibiotics.
+
+    b. The authority to dispense and orally administer drugs extends only to the drugs identified in this subsection and may be further limited by the practice plan contract.
+
+    c. The authority to dispense includes the authority to dispense sample drugs within the categories established in this subsection if the dispensing is permitted under the practice plan contract.
+
+    d. A dental therapist may not dispense or administer narcotic drugs as defined in chapter 69.50 RCW.
+
+    e. A dental therapist does not have the authority to prescribe drugs.
+
+3. A dental therapist may only provide services and procedures in which they have been educated.
+
+4. A dental therapist may not provide any service or procedure that is not both authorized by this section and been authorized by the supervising dentist via inclusion in the dental therapist's practice plan contract.
+
 
 ## Section 6
-(1) A dental therapist may only practice dental therapy under the supervision of a dentist licensed under chapter 18.32 RCW and pursuant to a written practice plan contract with the supervising dentist. A dental therapist may not practice independently. In circumstances authorized by the supervising dentist in the written practice plan contract, a dental therapist may provide services without the prior examination or diagnosis of a dentist and without the dentist being personally on site when services are provided. The contract must, at a minimum, contain the following elements:
-(a) The level of supervision required and circumstances when the prior knowledge and consent of the supervising dentist is required;
-(b) Practice settings where services and procedures may be provided;
-(c) Any limitations on the services or procedures the dental therapist may provide;
-(d) Age and procedure-specific practice protocols, including case selection criteria, assessment guidelines, and imaging frequency;
-(e) Procedures for creating and maintaining dental records for patients treated by the dental therapist;
-(f) A plan to manage medical emergencies in each practice setting where the dental therapist provides care;
-(g) A quality assurance plan for monitoring care provided by the dental therapist or, including patient care review, referral follow-up, and a quality assurance chart review;
-(h) Protocols for administering and dispensing medications, including the specific circumstances under which the medications may be dispensed and administered;
-(i) Criteria relating to the provision of care to patients with specific medical conditions or complex medical histories, including requirements for consultation prior to the initiation of care; and
-(j) Specific written protocols governing situations where the dental therapist encounters a patient requiring treatment that exceeds the dental therapist's scope of practice or capabilities and protocols for referral of patients requiring evaluation and treatment by dentists, denturists, physicians, advanced registered nurse practitioners, or other health care providers.
-(2) The dental therapist shall accept responsibility for all services and procedures provided by the dental therapist or any auxiliary dental providers the dental therapist is supervising pursuant to the practice plan contract.
-(3) A supervising dentist who knowingly permits a dental therapist to provide a service or procedure that is not authorized in the practice plan contract, or any dental therapist who provides a service or procedure that is not authorized in the practice plan contract, commits unprofessional conduct for purposes of chapter 18.130 RCW.
-(4) A dentist who enters into a written practice plan contract with a dental therapist shall:
-(a) Directly provide or arrange for another dentist, denturist, or specialist to provide any necessary advanced procedures or services needed by the patient or any treatment that exceeds the dental therapist's scope of practice or capabilities;
-(b) Ensure that he or she or another dentist is available to the dental therapist for timely communication during treatment if needed.
-(5) A dental therapist shall perform only those services authorized by the supervising dentist and written practice plan contract and shall maintain an appropriate level of contact with the supervising dentist.
-(6) Practice plan contracts must be signed and maintained by both the supervising dentist and the dental therapist.
-(7) A supervising dentist may supervise no more than a total of five dental therapists at any one time.
+1. A dental therapist may only practice dental therapy under the supervision of a dentist licensed under chapter 18.32 RCW and pursuant to a written practice plan contract with the supervising dentist. A dental therapist may not practice independently. In circumstances authorized by the supervising dentist in the written practice plan contract, a dental therapist may provide services without the prior examination or diagnosis of a dentist and without the dentist being personally on site when services are provided. The contract must, at a minimum, contain the following elements:
+
+    a. The level of supervision required and circumstances when the prior knowledge and consent of the supervising dentist is required;
+
+    b. Practice settings where services and procedures may be provided;
+
+    c. Any limitations on the services or procedures the dental therapist may provide;
+
+    d. Age and procedure-specific practice protocols, including case selection criteria, assessment guidelines, and imaging frequency;
+
+    e. Procedures for creating and maintaining dental records for patients treated by the dental therapist;
+
+    f. A plan to manage medical emergencies in each practice setting where the dental therapist provides care;
+
+    g. A quality assurance plan for monitoring care provided by the dental therapist or, including patient care review, referral follow-up, and a quality assurance chart review;
+
+    h. Protocols for administering and dispensing medications, including the specific circumstances under which the medications may be dispensed and administered;
+
+    i. Criteria relating to the provision of care to patients with specific medical conditions or complex medical histories, including requirements for consultation prior to the initiation of care; and
+
+    j. Specific written protocols governing situations where the dental therapist encounters a patient requiring treatment that exceeds the dental therapist's scope of practice or capabilities and protocols for referral of patients requiring evaluation and treatment by dentists, denturists, physicians, advanced registered nurse practitioners, or other health care providers.
+
+2. The dental therapist shall accept responsibility for all services and procedures provided by the dental therapist or any auxiliary dental providers the dental therapist is supervising pursuant to the practice plan contract.
+
+3. A supervising dentist who knowingly permits a dental therapist to provide a service or procedure that is not authorized in the practice plan contract, or any dental therapist who provides a service or procedure that is not authorized in the practice plan contract, commits unprofessional conduct for purposes of chapter 18.130 RCW.
+
+4. A dentist who enters into a written practice plan contract with a dental therapist shall:
+
+    a. Directly provide or arrange for another dentist, denturist, or specialist to provide any necessary advanced procedures or services needed by the patient or any treatment that exceeds the dental therapist's scope of practice or capabilities;
+
+    b. Ensure that he or she or another dentist is available to the dental therapist for timely communication during treatment if needed.
+
+5. A dental therapist shall perform only those services authorized by the supervising dentist and written practice plan contract and shall maintain an appropriate level of contact with the supervising dentist.
+
+6. Practice plan contracts must be signed and maintained by both the supervising dentist and the dental therapist.
+
+7. A supervising dentist may supervise no more than a total of five dental therapists at any one time.
+
 
 ## Section 7
 Nothing in this chapter prohibits or affects:
-(1) The practice of dental therapy by an individual otherwise licensed under this title and performing services within his or her scope of practice;
-(2) The practice of dental therapy in the discharge of official duties on behalf of the United States government, including, but not limited to, the armed forces, coast guard, public health service, veterans' bureau, or bureau of Indian affairs;
-(3) The practice of dental therapy pursuant to an education program described in section 4 of this act;
-(4) The practice of dental therapy under the supervision of a dentist necessary to meet the clinical experience or preceptorship requirements of section 4 of this act; or
-(5) The practice of federally certified dental health aide therapists or tribally licensed dental therapists practicing in clinics operated by an Indian health service, Indian health service direct, tribal 638, or an urban Indian health program system of care, as those terms are defined in the Indian health care improvement act, Title 25 U.S.C. Sec. 1603(12), (25) and (29).
+
+1. The practice of dental therapy by an individual otherwise licensed under this title and performing services within his or her scope of practice;
+
+2. The practice of dental therapy in the discharge of official duties on behalf of the United States government, including, but not limited to, the armed forces, coast guard, public health service, veterans' bureau, or bureau of Indian affairs;
+
+3. The practice of dental therapy pursuant to an education program described in section 4 of this act;
+
+4. The practice of dental therapy under the supervision of a dentist necessary to meet the clinical experience or preceptorship requirements of section 4 of this act; or
+
+5. The practice of federally certified dental health aide therapists or tribally licensed dental therapists practicing in clinics operated by an Indian health service, Indian health service direct, tribal 638, or an urban Indian health program system of care, as those terms are defined in the Indian health care improvement act, Title 25 U.S.C. Sec. 1603(12), (25) and (29).
+
 
 ## Section 8
-(1) A dental therapist may practice only in the following settings:
-(a) Federally qualified health centers, federally qualified health center look-alikes, or nonprofit clinics;
-(b) School-based health clinics;
-(c) Long-term care facilities;
-(d) Correctional institutions;
-(e) Hospitals;
-(f) Clinics operated by accredited schools of dentistry, dental therapy, or dental hygiene; and
-(g) Clinics operated by an Indian health service, Indian health service direct, tribal 638, or an urban Indian health program system of care, as those terms are defined in the Indian health care improvement act, Title 25 U.S.C. Sec. 1603(12), (25) and (29).
-(2) A dental therapist may not work in any other setting that is not listed in this section.
+1. A dental therapist may practice only in the following settings:
+
+    a. Federally qualified health centers, federally qualified health center look-alikes, or nonprofit clinics;
+
+    b. School-based health clinics;
+
+    c. Long-term care facilities;
+
+    d. Correctional institutions;
+
+    e. Hospitals;
+
+    f. Clinics operated by accredited schools of dentistry, dental therapy, or dental hygiene; and
+
+    g. Clinics operated by an Indian health service, Indian health service direct, tribal 638, or an urban Indian health program system of care, as those terms are defined in the Indian health care improvement act, Title 25 U.S.C. Sec. 1603(12), (25) and (29).
+
+2. A dental therapist may not work in any other setting that is not listed in this section.
+
 
 ## Section 9
 Chapter 18.130 RCW governs the unlicensed practice, the issuance and denial of licenses, and the discipline of persons licensed under this chapter. The dental quality assurance commission is the disciplining authority under this chapter.
 
+
 ## Section 10
-(1) The department shall issue a limited license to any applicant who, as determined by the secretary:
-(a) Holds a valid license, certification, or recertification in another state, Canadian province, or has been certified or licensed by a federal or tribal governing board in the previous two years, that allows a substantially equivalent, but not the entire scope of practice in section 5 of this act;
-(b) Is currently engaged in active practice in another state, Canadian province, or tribe;
-(c) Files with the secretary documentation certifying that the applicant:
-(i) Has graduated from a dental therapy school accredited by the commission on dental accreditation or has graduated from a dental therapy education program that the dental hygiene examining committee determines is substantially equivalent to an accredited education program;
-(ii) Has successfully completed the national dental therapy examination, or until such time that that exam is developed, the national dental hygiene examination; and
-(iii) Is licensed or certified to practice in another state or Canadian province, or has been certified or licensed by a federal or tribal governing board in the previous two years;
-(d) Provides such information as the secretary deems necessary pertaining to the conditions and criteria of the uniform disciplinary act, chapter 18.130 RCW;
-(e) Demonstrates to the secretary knowledge of Washington state law pertaining to the practice of dental therapy; and
-(f) Pays any required fees.
-(2) The term of the limited license issued under this section is 18 months.
-(3) A person practicing with a limited license granted under this section has the authority to perform only those dental therapy procedures in section 5 of this act that he or she was licensed or certified to practice in their previous state, tribe, or Canadian province.
-(4) Upon demonstration of competency in all procedures in section 5 of this act, the limited license holder may apply for licensure as a dental therapist under section 4 of this act.
-(5) For the purposes of this section, "active practice" means 560 hours of practice in the preceding 24 months.
+1. The department shall issue a limited license to any applicant who, as determined by the secretary:
+
+    a. Holds a valid license, certification, or recertification in another state, Canadian province, or has been certified or licensed by a federal or tribal governing board in the previous two years, that allows a substantially equivalent, but not the entire scope of practice in section 5 of this act;
+
+    b. Is currently engaged in active practice in another state, Canadian province, or tribe;
+
+    c. Files with the secretary documentation certifying that the applicant:
+
+        i. Has graduated from a dental therapy school accredited by the commission on dental accreditation or has graduated from a dental therapy education program that the dental hygiene examining committee determines is substantially equivalent to an accredited education program;
+
+        ii. Has successfully completed the national dental therapy examination, or until such time that that exam is developed, the national dental hygiene examination; and
+
+        iii. Is licensed or certified to practice in another state or Canadian province, or has been certified or licensed by a federal or tribal governing board in the previous two years;
+
+    d. Provides such information as the secretary deems necessary pertaining to the conditions and criteria of the uniform disciplinary act, chapter 18.130 RCW;
+
+    e. Demonstrates to the secretary knowledge of Washington state law pertaining to the practice of dental therapy; and
+
+    f. Pays any required fees.
+
+2. The term of the limited license issued under this section is 18 months.
+
+3. A person practicing with a limited license granted under this section has the authority to perform only those dental therapy procedures in section 5 of this act that he or she was licensed or certified to practice in their previous state, tribe, or Canadian province.
+
+4. Upon demonstration of competency in all procedures in section 5 of this act, the limited license holder may apply for licensure as a dental therapist under section 4 of this act.
+
+5. For the purposes of this section, "active practice" means 560 hours of practice in the preceding 24 months.
+
 
 ## Section 11
 > This section modifies existing section [18.32.030](/rcw/18_businesses_and_professions/18.032_dentistry.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.032_dentistry.md) for context.
@@ -702,3 +833,4 @@ As used in this chapter, the following terms have the meanings indicated unless 
 
 ## Section 29
 The department of health shall adopt any rules necessary to implement this act.
+

@@ -2,23 +2,70 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1550.xml)
 ## Section 1
-(1) The legislature makes the following findings:
-(a) Nicotine is a highly addictive substance, particularly for children and youth under 21 years of age, whose brains are still developing. The 2019 national youth tobacco survey found that about 27 percent of high school students reported current use of electronic cigarettes and, among electronic cigarette users, about one-third reported using electronic cigarettes on 20 or more of the preceding 30 days. Washington state healthy youth survey data is similar, including 30 percent of 12th graders using e-cigarettes and vapor products. Many of those vapor products have very high nicotine levels, increasing youth addiction, in addition to numerous ingredients with well documented potential health effects identified in a formal health impact review by the state board of health;
-(b) Early research from Stanford University school of medicine indicates that teenagers and young adults that vape are five to seven times more likely to be infected with COVID-19 compared to those who do not use vapor products;
-(c) While the long-term health effects of vapor products are unknown, current data suggests they are harmful to human health. Vapor products have been shown to impair lung function in several ways, such as by inhibiting ciliary beating, impairing immune function, and causing toxicity to epithelial cells;
-(d) Youth and young adults who use vapor products are far more likely to begin smoking tobacco cigarettes than those who do not vape; 
-(e) The health and economic costs on the state of Washington and its residents from addiction to tobacco products are well documented. The centers for disease control reports that cigarette smoking is responsible for one in five deaths annually nationwide and overall mortality among smokers is about three times higher than similar people who never smoked;
-(f) Consumers often use vapor products interchangeably with cigarettes or other tobacco products. Nicotine is the common denominator; creating and sustaining addiction across Washington state. A meta-analysis by the American public health association found that vaping was not associated with increased smoking cessation, and further research shows most people who vape continue to use tobacco concurrently;
-(g) Washington state grants preferential business and occupation tax treatment to encourage manufacturing of useful substances or products in Washington. Cigarette, vapor, and tobacco manufacturers have benefited from this preference despite the high health effects and costs on the state government from their products;
-(h) In 2019, the legislature enacted a vapor products tax based on milliliters of liquid in each product which was intended to both reduce youth access by raising the price of many youth-attractive vapor products and to dedicate the funding to a foundational public health services account for: Nicotine and substance use prevention, cessation, enforcement, and education; and public health services. The structure of the tax as enacted, however, did not significantly raise the price of very low-cost sealed vapor products that are very popular with youth under 21 years of age and fueling the epidemic of youth vaping and nicotine addiction. Nor did the structure of the tax provide the expected significant funding for the foundational public health services account; and
-(i) The tobacco and vape industries have specifically targeted marketing toward Black, indigenous, people of color, LGBTQ, and other marginalized communities. As a result, these communities experience higher rates of nicotine use and resulting health disparities.
-(2) Therefore, the legislature intends to protect the health of youth and young adults in Washington state by:
-(a) Changing from a per milliliter tax to a more effective vapor product tax structure using an excise tax that will have a greater deterrent effect on purchases made by persons under the age of 21 while being more fair to stores that limit entry and purchases to adults over 21 years of age and increase the price of presealed high nicotine products that are heavily used by youth under 21 years of age;
-(b) Stopping rewarding and encouraging manufacturers of nicotine addicting vapor and tobacco products through preferential tax rates for products that are amongst the deadliest products sold to Washington residents and which impose tremendous economic burdens on the state's health care systems;
-(c) Discouraging the manufacture, processing, and distribution of nicotine addicting vapor and tobacco products and have them bear an increased share of the costs they cause on the state through a business and occupation tax surcharge;
-(d) Significantly improving funding for programs that prevent and reduce nicotine addiction amongst youth and populations or communities that have disparately high nicotine addiction and use of tobacco or vapor products, and related educational and foundational public health services programs;
-(e) Providing other means of reducing youth addiction to nicotine and access to nicotine products; and
-(f) Adjusting the distribution of the foundational public health services account to include an emphasis on community-based strategies addressing health inequity.
+1. The legislature makes the following findings:
+
+    a. Nicotine is a highly addictive substance, particularly for children and youth under 21 years of age, whose brains are still developing. The 2019 national youth tobacco survey found that about 27 percent of high school students reported current use of electronic cigarettes and, among electronic cigarette users, about one-third reported using electronic cigarettes on 20 or more of the preceding 30 days. Washington state healthy youth survey data is similar, including 30 percent of 12th graders using e-cigarettes and vapor products. Many of those vapor products have very high nicotine levels, increasing youth addiction, in addition to numerous ingredients with well documented potential health effects identified in a formal health impact review by the state board of health;
+
+    b. Early research from Stanford University school of medicine indicates that teenagers and young adults that vape are five to seven times more likely to be infected with COVID-19 compared to those who do not use vapor products;
+
+    c. While the long-term health effects of vapor products are unknown, current data suggests they are harmful to human health. Vapor products have been shown to impair lung function in several ways, such as by inhibiting ciliary beating, impairing immune function, and causing toxicity to epithelial cells;
+
+    d. Youth and young adults who use vapor products are far more likely to begin smoking tobacco cigarettes than those who do not vape;
+
+    e. The health and economic costs on the state of Washington and its residents from addiction to tobacco products are well documented. The centers for disease control reports that cigarette smoking is responsible for one in five deaths annually nationwide and overall mortality among smokers is about three times higher than similar people who never smoked;
+
+    f. Consumers often use vapor products interchangeably with cigarettes or other tobacco products. Nicotine is the common denominator; creating and sustaining addiction across Washington state. A meta-analysis by the American public health association found that vaping was not associated with increased smoking cessation, and further research shows most people who vape continue to use tobacco concurrently;
+
+    g. Washington state grants preferential business and occupation tax treatment to encourage manufacturing of useful substances or products in Washington. Cigarette, vapor, and tobacco manufacturers have benefited from this preference despite the high health effects and costs on the state government from their products;
+
+    h. In 2019, the legislature enacted a vapor products tax based on milliliters of liquid in each product which was intended to both reduce youth access by raising the price of many youth-attractive vapor products and to dedicate the funding to a foundational public health services account for: Nicotine and substance use prevention, cessation, enforcement, and education; and public health services. The structure of the tax as enacted, however, did not significantly raise the price of very low-cost sealed vapor products that are very popular with youth under 21 years of age and fueling the epidemic of youth vaping and nicotine addiction. Nor did the structure of the tax provide the expected significant funding for the foundational public health services account; and
+
+    i. The tobacco and vape industries have specifically targeted marketing toward Black, indigenous, people of color, LGBTQ, and other marginalized communities. As a result, these communities experience higher rates of nicotine use and resulting health disparities.
+
+2. Therefore, the legislature intends to protect the health of youth and young adults in Washington state by:
+
+    a. Changing from a per milliliter tax to a more effective vapor product tax structure using an excise tax that will have a greater deterrent effect on purchases made by persons under the age of 21 while being more fair to stores that limit entry and purchases to adults over 21 years of age and increase the price of presealed high nicotine products that are heavily used by youth under 21 years of age;
+
+    b. Stopping rewarding and encouraging manufacturers of nicotine addicting vapor and tobacco products through preferential tax rates for products that are amongst the deadliest products sold to Washington residents and which impose tremendous economic burdens on the state's health care systems;
+
+    c. Discouraging the manufacture, processing, and distribution of nicotine addicting vapor and tobacco products and have them bear an increased share of the costs they cause on the state through a business and occupation tax surcharge;
+
+    d. Significantly improving funding for programs that prevent and reduce nicotine addiction amongst youth and populations or communities that have disparately high nicotine addiction and use of tobacco or vapor products, and related educational and foundational public health services programs;
+
+    e. Providing other means of reducing youth addiction to nicotine and access to nicotine products; and
+
+    f. Adjusting the distribution of the foundational public health services account to include an emphasis on community-based strategies addressing health inequity.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Beginning with business activities occurring on or after October 1, 2021, a vapor products surcharge is imposed as follows:
+
+    a. Upon every person engaging within this state in business as a manufacturer of vapor products or as a processor of vapor products for hire, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the value of the manufactured or processed vapor products, including by-products, multiplied by the rate of 4.4 percent;
+
+    b. Upon every person engaging within this state in business as a vapor product distributor as defined in RCW 82.25.005, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the gross proceeds of sales of the vapor products multiplied by the rate of 4.4 percent.
+
+2. Beginning with business activities occurring on or after October 1, 2021, a tobacco products surcharge is imposed as follows:
+
+    a. Upon every person engaging within this state in business as a manufacturer of tobacco products or as a processor of tobacco products for hire, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the value of the manufactured or processed tobacco products, including by-products, multiplied by the rate of 4.4 percent;
+
+    b. Upon every person engaging within this state in business as a tobacco product distributor licensed under RCW 82.26.190, in addition to the tax imposed under RCW 82.04.240, a surcharge equal to the gross proceeds of sales of tobacco products multiplied by the rate of 4.4 percent.
+
+3. The money collected under this section must be deposited into the foundational public health services account created in RCW 82.25.015.
+
+4. As provided in RCW 82.04.440, a multiple activities tax credit is available for a person who is engaged in business as both a manufacturer or processor for hire and as a distributor of vapor products or tobacco products.
+
+5. For purposes of this section:
+
+    a. "Processor of tobacco products for hire" means a person who would be a manufacturer of tobacco products except the person performs labor on materials owned by another person.
+
+    b. "Processor of vapor products for hire" means any person who would be a manufacturer of vapor products except the person performs labor on materials owned by another person.
+
+    c. "Tobacco products" has the same meaning as in RCW 82.26.010.
+
+    d. "Vapor product" has the same meaning as in RCW 82.25.005.
+
 
 ## Section 3
 > This section modifies existing section [82.04.440](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
@@ -194,6 +241,48 @@ The department may by rule establish the invoice detail required under RCW 82.25
 2. Every distributor licensed under chapter 70.345 RCW may sell vapor products to retailers located in Washington only if the retailer has a current retailer's license under chapter 70.345 RCW.
 
 
+## Section 12
+> This section adds a new section to an existing chapter [82.25](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. The legislature intends to create a tax credit so that vapor products taxed at the wholesale level under the law as it existed immediately before the effective date of this section are not also taxed in a retail sale under the provisions of this act.
+
+2. Except as provided in subsection (3) of this section, a tax credit is established and available to distributors with respect to vapor products:
+
+    a. In their possession on the effective date of this section on which tax was paid to the state by the distributor pursuant to the law as it existed immediately before the effective date of this section; or
+
+    b. Returned to the distributor by a retailer, other purchaser, or consignee, on or after the effective date of this section, if tax on the vapor products was previously paid by the distributor to the state pursuant to the law as it existed immediately before the effective date of this section.
+
+3. Nothing in this section authorizes a tax credit for vapor products that are expired, destroyed, unsellable, or that are not held for sale by the distributor and intended to ultimately be sold by a licensee at retail.
+
+4. Credit allowed under this section must be determined based on the tax rate in effect for the period for which the tax imposed by this chapter, for which a credit is sought, was paid.
+
+5. To be eligible for a tax credit under this section, a distributor shall apply for the credit to the department on a form and in a manner required by the department. The department may establish requirements related to distributors documenting and claiming a tax credit pursuant to this section in order to determine eligibility.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [82.25](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. A bundled transaction that includes a vapor product is subject to the tax imposed under this chapter on the entire selling price of the bundled transaction.
+
+2. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Bundled transaction" means:
+
+        i. The sale of two or more products where the products are otherwise distinct and identifiable, are sold for one nonitemized price, and at least one product is a vapor product subject to the tax under this chapter; and
+
+        ii. A vapor product provided free of charge with the required purchase of another product. A vapor product is provided free of charge if the sales price of the product purchased does not vary depending on the inclusion of the vapor product provided free of charge.
+
+    b. "Distinct and identifiable products" does not include packaging such as containers, boxes, sacks, bags, and bottles, or materials such as wrapping, labels, tags, and instruction guides, that accompany the sale of the products and are incidental or immaterial to the sale thereof.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [82.25](/rcw/82_excise_taxes/82.25_tax_on_vapor_products.md). Here is the [modified chapter](rcw/82_excise_taxes/82.25_tax_on_vapor_products.md) for context.
+
+1. The taxes imposed by this chapter do not apply to the sale of vapor products by an Indian retailer during the effective date of a vapor product tax contract subject to RCW 43.06.510 or a vapor product tax agreement under RCW 43.06.515.
+
+2. The definitions in RCW 43.06.505 apply to this section.
+
+
 ## Section 15
 > This section modifies existing section [82.32.145](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
 
@@ -250,3 +339,4 @@ The department may by rule establish the invoice detail required under RCW 82.25
 
 ## Section 16
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

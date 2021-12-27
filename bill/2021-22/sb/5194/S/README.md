@@ -3,83 +3,151 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5194-S.xml)
 ## Section 1
 The legislature recognizes that student completion rates for workforce training certification and degree programs at community and technical colleges are far lower than desirable to ensure that students may utilize the opportunities of postsecondary education to lift themselves and their families out of poverty and to meet our state's student achievement council road map goals, including for 70 percent of Washington residents to have a postsecondary certification or degree to meet workforce needs. The legislature recognizes that first-generation college-attending students, students with disabilities, and underrepresented minority students face far greater obstacles to apply, remain in school, and complete programs. This disparate impact greatly affects our state's commitment to equity.
+
 The legislature recognizes that offering tuition financial support to first-generation and underrepresented minority students is necessary for students to enroll and attend college but must also be accompanied by proven supports for them to complete their degrees or workforce training programs.
+
 The legislature recognizes that there are mentorship and advising programs based on strong evidence that have been proven to be successful in greatly increasing retention and degree or workforce training completion rates for first-generation students, underrepresented minority students, students with disabilities, and for all students at community and technical colleges. It is the legislature's intent that successful programs such as guided pathways, integrated basic education skills and training, and mentoring programs along with improved advising for students be implemented at all community and technical colleges with the goal of doubling completion rates (as measured by completion in six years) for students in the next eight years. To accomplish this goal, the legislature intends to achieve full implementation of research-based programs to improve student outcomes, such as guided pathways. The legislature affirms that all students receiving Washington college grants, college bound scholarships, or federal Pell grants should receive the supports, including mentoring, that have been proven to increase completion rates.
+
 The legislature further finds that research establishes that students from underrepresented minorities are far more likely to complete degrees or workforce training certification programs if the faculty and staff of the college reflect the diversity of the student body. Therefore, the legislature intends for the state's community and technical colleges to develop and implement plans to increase faculty and staff diversity.
+
 
 ## Section 2
 The legislature finds that there is a need to expand investments in community and technical colleges for the purpose of guaranteeing both equitable access and educational success for all residents of the state, particularly for students from communities of color and low-income communities. The legislature finds further that equality of opportunity for all students requires investments to support services that are critical to: The success of students of color and low-income students; provide systemwide equity initiatives intended to make community and technical college campuses welcoming, benevolent places; overcome the digital divide for all students; and provide qualified and available counseling throughout the community and technical college system. The legislature also finds that a more full-time, stable, fairly compensated, and diverse community and technical college faculty is necessary to enhance student success and to improve the mentoring available for a diverse student body. The legislature also finds that resources for student aid and workforce investment need to be adequate to meet the needs of all students in the state, particularly those from families of color and low-income families.
 
+
 ## Section 3
-(1) Beginning July 30, 2022, all community and technical colleges must submit, on an annual basis, strategic plans to the state board for community and technical colleges for achieving diversity, equity, and inclusion on their campuses.
-(2) Colleges must create their strategic plans using an inclusive process of stakeholders including, but not limited to, classified staff, faculty, administrative exempt staff, students, and community organizations. Colleges are encouraged to use campus climate surveys to develop and update strategic plans for diversity, equity, and inclusion. The state board for community and technical colleges shall develop a model campus climate survey tool relating to diversity, equity, and inclusion, and may contract for carrying out surveys at individual colleges.
-(3) In addition to planning, each community and technical college shall include in its diversity program opportunities for students from historically marginalized communities to form student-based organizations, and to use community-based organizations, that permit students to work together to mentor and assist one another in navigating the educational system and to access trained mentors using evidence-based mentoring strategies.
-(4) Each community and technical college shall establish a culturally appropriate outreach program to communities of color, students with disabilities, neurodiverse communities, and low-income communities designed to assist potential students to understand the opportunities available in the community and technical college system and to assist with navigating the student aid system. Outreach programs shall include partnerships with appropriate community-based organizations and use research and supports from the student achievement council.
-(5) Each college shall assess its progress towards meeting the goals of diversity, equity, and inclusion. The assessment may include available information on the impact of professional development programs for faculty and staff pertaining to diversity, equity, inclusion, and antiracism and related campus climate assessments. The assessment must detail progress on each goal, describe obstacles encountered and suggested through data analysis, prioritize goals in the strategic plan for the following year, and identify resources needed for continued progress. Each college must report its assessment to the state board for community and technical colleges.
+1. Beginning July 30, 2022, all community and technical colleges must submit, on an annual basis, strategic plans to the state board for community and technical colleges for achieving diversity, equity, and inclusion on their campuses.
+
+2. Colleges must create their strategic plans using an inclusive process of stakeholders including, but not limited to, classified staff, faculty, administrative exempt staff, students, and community organizations. Colleges are encouraged to use campus climate surveys to develop and update strategic plans for diversity, equity, and inclusion. The state board for community and technical colleges shall develop a model campus climate survey tool relating to diversity, equity, and inclusion, and may contract for carrying out surveys at individual colleges.
+
+3. In addition to planning, each community and technical college shall include in its diversity program opportunities for students from historically marginalized communities to form student-based organizations, and to use community-based organizations, that permit students to work together to mentor and assist one another in navigating the educational system and to access trained mentors using evidence-based mentoring strategies.
+
+4. Each community and technical college shall establish a culturally appropriate outreach program to communities of color, students with disabilities, neurodiverse communities, and low-income communities designed to assist potential students to understand the opportunities available in the community and technical college system and to assist with navigating the student aid system. Outreach programs shall include partnerships with appropriate community-based organizations and use research and supports from the student achievement council.
+
+5. Each college shall assess its progress towards meeting the goals of diversity, equity, and inclusion. The assessment may include available information on the impact of professional development programs for faculty and staff pertaining to diversity, equity, inclusion, and antiracism and related campus climate assessments. The assessment must detail progress on each goal, describe obstacles encountered and suggested through data analysis, prioritize goals in the strategic plan for the following year, and identify resources needed for continued progress. Each college must report its assessment to the state board for community and technical colleges.
+
 
 ## Section 4
-(1) In order to improve the degree and workforce certification completion rates for students, each community and technical college shall fully implement guided pathways. At a minimum, guided pathways implementation must include:
-(a) Comprehensive mapping of student educational pathways with student end goals in mind. These must include transparent and clear career paths that are tightly aligned to the skills sought by employers. Pathways must align course sequences to show clear paths for students, alignment with K-12 and university curriculum, and skill sets needed to enter the workforce;
-(b) Dedicated advising and career counseling that helps students make informed program choices and develop completion plans. Advising services must include processes that help students explore possible career and educational choices while also emphasizing early planning. Advising must be culturally competent and with an emphasis on helping historically underserved, low-income, and students of color navigate their education;
-(c) Data analytics that measure student learning as well as program and service outcomes. Data must be used to inform program development, the creation and further refinement of student pathways, and to provide opportunities for early intervention to help students succeed; and
-(d) A student success support infrastructure using programs that the state board for community and technical colleges finds have been effective in closing equity gaps among historically underserved student populations and improve student completion rates. The student success support program must be based on research or documented evidence of success at institutions with comparable student populations. In tandem with guided pathways implementation, student success support programs may include evidence-based elements such as:
-(i) Equity competent academic advising services;
-(ii) Equity competent career development programming;
-(iii) Clear information regarding financial aid and financial literacy; and
-(iv) Inclusive curriculum and teaching practices.
-(2)(a) The Washington state institute for public policy shall complete an evaluation of the guided pathways model. To the extent possible, the institute shall complete a preliminary report that evaluates the effect of the guided pathways model on early student outcomes including, but not limited to, student retention and persistence, college remediation, and science, technology, engineering, and mathematics coursework. The preliminary report must review the implementation of the guided pathways model in Washington and any available evidence of the effectiveness of the guided pathways model. The preliminary report must be submitted by December 15, 2023.
-(b) The Washington state institute for public policy shall complete a final report that evaluates the effect of the guided pathways on longer-term student outcomes including, but not limited to, degree completion, time to degree, transfer to four-year institutions, employment, and earnings, to the extent possible. The final report must be submitted by December 15, 2029.
-(c) Both the preliminary and final reports must consider differences in outcomes by racial and ethnic subgroups and socioeconomic status.
+1. In order to improve the degree and workforce certification completion rates for students, each community and technical college shall fully implement guided pathways. At a minimum, guided pathways implementation must include:
+
+    a. Comprehensive mapping of student educational pathways with student end goals in mind. These must include transparent and clear career paths that are tightly aligned to the skills sought by employers. Pathways must align course sequences to show clear paths for students, alignment with K-12 and university curriculum, and skill sets needed to enter the workforce;
+
+    b. Dedicated advising and career counseling that helps students make informed program choices and develop completion plans. Advising services must include processes that help students explore possible career and educational choices while also emphasizing early planning. Advising must be culturally competent and with an emphasis on helping historically underserved, low-income, and students of color navigate their education;
+
+    c. Data analytics that measure student learning as well as program and service outcomes. Data must be used to inform program development, the creation and further refinement of student pathways, and to provide opportunities for early intervention to help students succeed; and
+
+    d. A student success support infrastructure using programs that the state board for community and technical colleges finds have been effective in closing equity gaps among historically underserved student populations and improve student completion rates. The student success support program must be based on research or documented evidence of success at institutions with comparable student populations. In tandem with guided pathways implementation, student success support programs may include evidence-based elements such as:
+
+        i. Equity competent academic advising services;
+
+        ii. Equity competent career development programming;
+
+        iii. Clear information regarding financial aid and financial literacy; and
+
+        iv. Inclusive curriculum and teaching practices.
+
+2. [Empty]
+
+    a. The Washington state institute for public policy shall complete an evaluation of the guided pathways model. To the extent possible, the institute shall complete a preliminary report that evaluates the effect of the guided pathways model on early student outcomes including, but not limited to, student retention and persistence, college remediation, and science, technology, engineering, and mathematics coursework. The preliminary report must review the implementation of the guided pathways model in Washington and any available evidence of the effectiveness of the guided pathways model. The preliminary report must be submitted by December 15, 2023.
+
+    b. The Washington state institute for public policy shall complete a final report that evaluates the effect of the guided pathways on longer-term student outcomes including, but not limited to, degree completion, time to degree, transfer to four-year institutions, employment, and earnings, to the extent possible. The final report must be submitted by December 15, 2029.
+
+    c. Both the preliminary and final reports must consider differences in outcomes by racial and ethnic subgroups and socioeconomic status.
+
 
 ## Section 5
-(1) By July 1, 2023, each community and technical college shall establish a faculty diversity program designed to provide for the retention and recruitment of faculty from diverse racial, ethnic, and cultural backgrounds. The program must meet minimum standards established by the state board for community and technical colleges.
-(2) The standards for faculty diversity programs under this section developed by the state board for community and technical colleges must be based on the 17 steps for diversity and equity in hiring and professional development in the hiring process developed by the collective of professionals from the Washington state community and technical colleges. In developing the standards, the state board for community and technical colleges must also consider model faculty diversity programs from other institutions, including recommended methods for mentoring students, staff, and members of the community to become faculty in the system. The standards must also include requirements for consultation with students from diverse backgrounds and faculty bargaining representatives in their development and implementation.
-(3) As part of the assessment requirements in section 3(5) of this act, the community and technical colleges shall report to the state board for community and technical colleges an annual assessment of progress toward faculty diversity goals.
+1. By July 1, 2023, each community and technical college shall establish a faculty diversity program designed to provide for the retention and recruitment of faculty from diverse racial, ethnic, and cultural backgrounds. The program must meet minimum standards established by the state board for community and technical colleges.
+
+2. The standards for faculty diversity programs under this section developed by the state board for community and technical colleges must be based on the 17 steps for diversity and equity in hiring and professional development in the hiring process developed by the collective of professionals from the Washington state community and technical colleges. In developing the standards, the state board for community and technical colleges must also consider model faculty diversity programs from other institutions, including recommended methods for mentoring students, staff, and members of the community to become faculty in the system. The standards must also include requirements for consultation with students from diverse backgrounds and faculty bargaining representatives in their development and implementation.
+
+3. As part of the assessment requirements in section 3(5) of this act, the community and technical colleges shall report to the state board for community and technical colleges an annual assessment of progress toward faculty diversity goals.
+
 
 ## Section 6
-(1) By December 31, 2023, and except as provided in subsection (3) of this section, the state board for community and technical colleges must create a plan to achieve a systemwide ratio, determined by employee headcount, of full-time, tenure-track faculty to nontenure-track faculty of at least 70 percent and establish equal-pay-for-equal-work for all faculty members by the end of the 2030-31 academic year. The state board for community and technical colleges must develop this systemwide plan in collaboration with academic employee collective bargaining representatives. To support the state board for community and technical colleges' planning process, each community and technical college district must develop, in collaboration with academic employee bargaining representatives at the college, a college-level plan to achieve these goals at each college and provide it to the state board for community and technical colleges by November 1, 2023.
-(2) The plan must: Include as nontenure-track faculty all academic employees who are not tenured or on the tenure track, including all associate, adjunct, contingent, and part-time faculty; create new, full-time tenure-track faculty positions and more opportunities for nontenure-track faculty; include an assessment of the total cost necessary to meet the goals identified in the plan; and include as part of the planning process open public meetings to ensure inclusion of student and community member perspectives and ideas.
-(3) The plan may suggest a goal of less than 70 percent tenure-track faculty after consultation with stakeholders. If the recommended goal is less than 70 percent, the state board for community and technical colleges must identify how a lower threshold of tenure-track faculty will assist the system in meeting the educational needs of students, goals for improved student success, and ensuring equitable outcomes.
-(4) The state board for community and technical colleges shall include implementation funding for the plan as part of the budget submittal to the office of financial management for the 2023-25 biennial budget.
-(5) The standards used in this section to determine equal-pay-for-equal-work must be based on the instructional work of the faculty, including direct student support, time in class, preparation for class, grading and assessment, and office hours equivalent to those required for full-time tenure-track faculty under the relevant collective bargaining agreement.
-(6) For the purposes of this section, "academic employee" has the same meaning as in RCW 28B.50.489.
+1. By December 31, 2023, and except as provided in subsection (3) of this section, the state board for community and technical colleges must create a plan to achieve a systemwide ratio, determined by employee headcount, of full-time, tenure-track faculty to nontenure-track faculty of at least 70 percent and establish equal-pay-for-equal-work for all faculty members by the end of the 2030-31 academic year. The state board for community and technical colleges must develop this systemwide plan in collaboration with academic employee collective bargaining representatives. To support the state board for community and technical colleges' planning process, each community and technical college district must develop, in collaboration with academic employee bargaining representatives at the college, a college-level plan to achieve these goals at each college and provide it to the state board for community and technical colleges by November 1, 2023.
+
+2. The plan must: Include as nontenure-track faculty all academic employees who are not tenured or on the tenure track, including all associate, adjunct, contingent, and part-time faculty; create new, full-time tenure-track faculty positions and more opportunities for nontenure-track faculty; include an assessment of the total cost necessary to meet the goals identified in the plan; and include as part of the planning process open public meetings to ensure inclusion of student and community member perspectives and ideas.
+
+3. The plan may suggest a goal of less than 70 percent tenure-track faculty after consultation with stakeholders. If the recommended goal is less than 70 percent, the state board for community and technical colleges must identify how a lower threshold of tenure-track faculty will assist the system in meeting the educational needs of students, goals for improved student success, and ensuring equitable outcomes.
+
+4. The state board for community and technical colleges shall include implementation funding for the plan as part of the budget submittal to the office of financial management for the 2023-25 biennial budget.
+
+5. The standards used in this section to determine equal-pay-for-equal-work must be based on the instructional work of the faculty, including direct student support, time in class, preparation for class, grading and assessment, and office hours equivalent to those required for full-time tenure-track faculty under the relevant collective bargaining agreement.
+
+6. For the purposes of this section, "academic employee" has the same meaning as in RCW 28B.50.489.
+
 
 ## Section 7
-(1) Subject to the availability of amounts appropriated for this specific purpose, the college board shall administer a pilot program to increase student access to mental health counseling and services.
-(2) The college board, in collaboration with the selection committee, shall select eight community or technical colleges to participate in the pilot program, with half of the participating colleges located outside of the Puget Sound area. Each participating college must receive a grant to implement one or more strategies to increase student access to mental health counseling and services, including substance abuse disorder counseling and services.
-(3)(a) A selection committee consisting of the following shall assist with the application selection process:
-(i) One community or technical college president;
-(ii) One community or technical college vice president for student services or student instruction;
-(iii) Two faculty counselors employed at a community or technical college; and
-(iv) One community or technical college student.
-(b) The selection committee may consult with representatives of an entity within the University of Washington school of social work that has expertise in suicide prevention and the department of health in developing selection criteria.
-(4) Community and technical colleges wishing to participate in the pilot program shall apply to the college board. Applicants that demonstrate a partnership with external community providers must be prioritized, including those who provide crisis services and substance use disorder treatment and counseling. In addition, applications that demonstrate plans to include one or more of the following strategies recommended by the community and technical college counselors task force must be prioritized:
-(a) Improve equity, diversity, and inclusion in counseling services, such as by diversifying the counselor workforce by adopting equity-centered recruiting, training, and retention practices or by providing equity training and awareness for all counselors;
-(b) Meet mental health needs of students through an all-campus effort;
-(c) Engage students to help increase mental health and counseling awareness and promote help-seeking behavior through student groups and other methods;
-(d) Increase the visibility of counseling services on campus;
-(e) Increase or expand external partnerships with community service providers;
-(f) Adopt the use of telebehavioral health, especially in under resourced communities;
-(g) Develop an assessment of counseling services to inform improvements and ensure counseling services are meeting student needs; or
-(h) Implement counseling approaches grounded in theory that have evidence of being effective.
-(5) Colleges selected to participate in the pilot program shall submit a joint report to the appropriate committees of the legislature and in accordance with RCW 43.01.036 by November 1, 2023. The report must include:
-(a) Information on which colleges were selected for the pilot program, how much grant funding was received per college, and what strategies each implemented to increase student access to mental health counseling and services;
-(b) Demographic data of students accessing mental health counseling and services, including those students who are considered underrepresented or traditionally have limited access to mental health counseling and services;
-(c) Whether the mental health counseling and services provided are meeting the demand of students in terms of type and availability, and whether mental health needs are served by a community partnership versus on-campus services;
-(d) Information and data on the effectiveness of each strategy used to increase student access to mental health counseling and services, including substance abuse disorder counseling and services, such as the number of additional students served, reduced wait times for counseling appointments, or other data that reflects expanded access; and
-(e) Lessons learned and recommendations for improving student access to mental health counseling and services at community and technical colleges, including whether there were any strategies implemented that proved more effective than others in increasing access.
-(6) For purposes of this section, the definitions in RCW 28B.50.030 apply.
-(7) The pilot program expires July 1, 2025.
-(8) This section expires January 1, 2026.
+1. Subject to the availability of amounts appropriated for this specific purpose, the college board shall administer a pilot program to increase student access to mental health counseling and services.
+
+2. The college board, in collaboration with the selection committee, shall select eight community or technical colleges to participate in the pilot program, with half of the participating colleges located outside of the Puget Sound area. Each participating college must receive a grant to implement one or more strategies to increase student access to mental health counseling and services, including substance abuse disorder counseling and services.
+
+3. [Empty]
+
+    a. A selection committee consisting of the following shall assist with the application selection process:
+
+        i. One community or technical college president;
+
+        ii. One community or technical college vice president for student services or student instruction;
+
+        iii. Two faculty counselors employed at a community or technical college; and
+
+        iv. One community or technical college student.
+
+    b. The selection committee may consult with representatives of an entity within the University of Washington school of social work that has expertise in suicide prevention and the department of health in developing selection criteria.
+
+4. Community and technical colleges wishing to participate in the pilot program shall apply to the college board. Applicants that demonstrate a partnership with external community providers must be prioritized, including those who provide crisis services and substance use disorder treatment and counseling. In addition, applications that demonstrate plans to include one or more of the following strategies recommended by the community and technical college counselors task force must be prioritized:
+
+    a. Improve equity, diversity, and inclusion in counseling services, such as by diversifying the counselor workforce by adopting equity-centered recruiting, training, and retention practices or by providing equity training and awareness for all counselors;
+
+    b. Meet mental health needs of students through an all-campus effort;
+
+    c. Engage students to help increase mental health and counseling awareness and promote help-seeking behavior through student groups and other methods;
+
+    d. Increase the visibility of counseling services on campus;
+
+    e. Increase or expand external partnerships with community service providers;
+
+    f. Adopt the use of telebehavioral health, especially in under resourced communities;
+
+    g. Develop an assessment of counseling services to inform improvements and ensure counseling services are meeting student needs; or
+
+    h. Implement counseling approaches grounded in theory that have evidence of being effective.
+
+5. Colleges selected to participate in the pilot program shall submit a joint report to the appropriate committees of the legislature and in accordance with RCW 43.01.036 by November 1, 2023. The report must include:
+
+    a. Information on which colleges were selected for the pilot program, how much grant funding was received per college, and what strategies each implemented to increase student access to mental health counseling and services;
+
+    b. Demographic data of students accessing mental health counseling and services, including those students who are considered underrepresented or traditionally have limited access to mental health counseling and services;
+
+    c. Whether the mental health counseling and services provided are meeting the demand of students in terms of type and availability, and whether mental health needs are served by a community partnership versus on-campus services;
+
+    d. Information and data on the effectiveness of each strategy used to increase student access to mental health counseling and services, including substance abuse disorder counseling and services, such as the number of additional students served, reduced wait times for counseling appointments, or other data that reflects expanded access; and
+
+    e. Lessons learned and recommendations for improving student access to mental health counseling and services at community and technical colleges, including whether there were any strategies implemented that proved more effective than others in increasing access.
+
+6. For purposes of this section, the definitions in RCW 28B.50.030 apply.
+
+7. The pilot program expires July 1, 2025.
+
+8. This section expires January 1, 2026.
+
 
 ## Section 8
-(1) It is the intent of the legislature to provide clear minimum standards to ensure qualified faculty counselors while also providing flexibility to allow for differences in criteria required by hiring institutions. Faculty counselor responsibilities may include meeting the mental health needs of students, crisis intervention, and providing associated student support functions. Beginning September 1, 2021, the minimum hiring standards for a counselor must include:
-(a) A graduate or professional degree from a regionally accredited institution in counseling psychology, school counseling, clinical social work, or a related field;
-(b) Completion of appropriate graduate coursework with content covering assessment and testing, career counseling, crisis intervention and management, legal and ethical issues in counseling, lifespan development, multicultural counseling, theories of counseling, and treatment planning;
-(c) Completion of a supervised practicum and internship at the graduate level; and
-(d) Standards established by the state board for community and technical colleges.
-(2) The state board for community and technical colleges may develop a process for hiring faculty counselors who do not meet the minimum standards provided in this section if the faculty counselor agrees to meet these requirements within two years from the date of first hire.
-(3) The requirements and standards imposed through this section do not apply to an individual employed by a college district as a counselor before September 1, 2021. Counselors who began employment at one college district prior to September 1, 2021, and moved employment to a different college district after that date may carry the exemptions from the requirements and standards imposed through this section to their new place of employment.
+1. It is the intent of the legislature to provide clear minimum standards to ensure qualified faculty counselors while also providing flexibility to allow for differences in criteria required by hiring institutions. Faculty counselor responsibilities may include meeting the mental health needs of students, crisis intervention, and providing associated student support functions. Beginning September 1, 2021, the minimum hiring standards for a counselor must include:
+
+    a. A graduate or professional degree from a regionally accredited institution in counseling psychology, school counseling, clinical social work, or a related field;
+
+    b. Completion of appropriate graduate coursework with content covering assessment and testing, career counseling, crisis intervention and management, legal and ethical issues in counseling, lifespan development, multicultural counseling, theories of counseling, and treatment planning;
+
+    c. Completion of a supervised practicum and internship at the graduate level; and
+
+    d. Standards established by the state board for community and technical colleges.
+
+2. The state board for community and technical colleges may develop a process for hiring faculty counselors who do not meet the minimum standards provided in this section if the faculty counselor agrees to meet these requirements within two years from the date of first hire.
+
+3. The requirements and standards imposed through this section do not apply to an individual employed by a college district as a counselor before September 1, 2021. Counselors who began employment at one college district prior to September 1, 2021, and moved employment to a different college district after that date may carry the exemptions from the requirements and standards imposed through this section to their new place of employment.
+
 
 ## Section 9
 > This section modifies existing section [28B.92.030](/rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md). Here is the [modified chapter](rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md) for context.
@@ -125,6 +193,16 @@ As used in this chapter:
 6. "Office" means the office of student financial assistance.
 
 7. "Tuition growth factor" means an increase of no more than the average annual percentage growth rate of the median hourly wage for Washington for the previous fourteen years as the wage is determined by the federal bureau of labor statistics.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [28B.92](/rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md). Here is the [modified chapter](rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md) for context.
+
+1. The Washington college grant stipend program is created. All eligible students may be eligible for student support stipends for housing, transportation, food, and medical care. The amount of stipend awards is subject to the availability of amounts appropriated for this specific purpose.
+
+2. Eligible students may use the stipends to cover the cost of books, materials, or equipment required for the completion of their course of study but not covered by other sources of student aid.
+
+3. The office shall adopt rules regarding the distribution and awarding of stipends.
 
 
 ## Section 11
@@ -283,3 +361,4 @@ Whenever used in this chapter:
 
 ## Section 14
 This act may be known and cited as the our colleges our future act of 2021.
+

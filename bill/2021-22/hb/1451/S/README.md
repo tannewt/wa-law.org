@@ -64,3 +64,11 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 4. School districts and approved community‑based early learning providers may contract with the department to provide services under the program. The department shall collaborate with school districts, community‑based providers, and educational service districts to promote an adequate supply of approved providers.
 
+
+## Section 5
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. The department must consult, and obtain the advice and consent of, the governing bodies of the state's federally recognized tribes in developing an agreed-upon definition of the term "Indian" for the purposes of RCW 43.216.505 and, by July 1, 2024, must adopt the definition in rule.
+
+2. This section expires December 1, 2030.
+

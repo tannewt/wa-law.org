@@ -4,6 +4,19 @@
 ## Section 1
 The legislature intends that this act help reduce the number of former foster youth with developmental disabilities discharged into homelessness or inappropriately placed in hospitals. The legislature further intends that the steps taken under this act maximize the use of the most cost-effective services for former foster youth with developmental disabilities.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [74.13](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
+
+1. The department shall collaborate with the developmental disabilities administration of the department of social and health services to determine the number of individuals under 21 years old who are functionally and financially eligible for medicaid waiver services administered by the developmental disabilities administration of the department of social and health services, who are also defined as dependent children under chapter 13.34 RCW, and who are expected to exit dependency proceedings under chapter 13.34 RCW after reaching either:
+
+    a. The maximum age for dependent children; or
+
+    b. The maximum eligible age to receive extended foster care services as defined in RCW 74.13.020.
+
+2. By November 15th, and in compliance with RCW 43.01.036, the department shall submit an annual report to the appropriate committees of the legislature that provides the number of children and youth identified under subsection (1) of this section and other relevant information related to best serving these youth.
+
+
 ## Section 3
 > This section modifies existing section [74.13.341](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
 

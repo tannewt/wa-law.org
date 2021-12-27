@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1560.xml)
 ## Section 1
 The state of Washington relies on the provisions of RCW 69.50.4011, 69.50.4013, 69.50.4014, and 69.41.030 to prohibit the unlawful possession of drugs by its citizens. Though none of these offenses contain a mens rea element, the Washington supreme court has examined and upheld this statutory structure in the past, recognizing the legislature's authority to maintain strict liability in relation to the possession of controlled substances and other crimes. Furthermore, the legislature historically has not considered it necessary to establish an express mens rea element, as defendants have long relied on the availability of the affirmative defense of unwitting possession to protect against prosecution for unknowingly possessing illicit substances.
+
 In light of the Washington supreme court's recent decision in State v. Blake, Docket No. 96873-0 (February 25, 2021), which invalidated the crime of unlawful possession of a controlled substance due to its lack of a mens rea element, the legislature intends to amend relevant statutory provisions in order to restore the crime of unlawful possession of a controlled substance and to preserve the applicability of other similarly structured drug crimes. To that end, the legislature intends to establish an express mental state requirement for crimes related to unlawful possession of controlled substances, counterfeit substances, and legend drugs.
+
 
 ## Section 2
 > This section modifies existing section [69.50.4011](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.

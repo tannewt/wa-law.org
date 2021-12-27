@@ -1,6 +1,24 @@
 # House Bill 1175
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1175.xml)
+## Section 1
+> This section adds a new section to an existing chapter [84.36](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
+
+1. Beginning with taxes levied for collection in calendar year 2023, real property is exempt from ad valorem taxation levied for a given year if that property was used as a host home for at least 90 days in that year.
+
+2. A claim for exemption under subsection (1) of this section may be made and filed by the owner of the host home at any time during the year for exemption from taxes payable the following year upon forms as prescribed by the department. The forms must require a person to provide sufficient evidence to support their eligibility to receive the exemption and the form may require a person to provide verification from the host home program that the real property was used as a host home as required in subsection (1) of this section. The claim for exemption must be submitted to the county assessor no later than December 31st of each year for exemption from taxes payable the following year.
+
+3. [Empty]
+
+    a. The county assessor must evaluate each claim for exemption to determine a person's eligibility for the exemption. If the county assessor finds that a person meets the qualifications established in subsection (1) of this section, the claim for exemption must be approved. If the county assessor finds that a person does not meet the qualifications established in subsection (1) of this section, the claim for exemption must be denied, but the denial is subject to appeal under the provisions of RCW 84.48.010 and 84.40.038. The county assessor must notify the applicant of either determination.
+
+    b. A claim for exemption approved under (a) of this subsection (3) is valid for one year and provides for the exemption from taxes payable in the year following the year in which the claim was due. A person must file a new claim as provided in subsection (2) of this section for each year for which that person is eligible for the exemption.
+
+4. The county assessor must accept any late claim for exemption made within three years after the due date of payment of taxes for which an exemption is sought. If the county assessor approves such a claim, the application constitutes a claim for refund under chapter 84.69 RCW.
+
+5. For purposes of this section, "host home" and "host home program" have the same meaning as in RCW 74.15.020.
+
+
 ## Section 2
 > This section modifies existing section [84.69.020](/rcw/84_property_taxes/84.69_refunds.md). Here is the [modified chapter](rcw/84_property_taxes/84.69_refunds.md) for context.
 
@@ -47,3 +65,4 @@ The county treasurer of each county must make all refunds determined to be autho
 
 ## Section 3
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

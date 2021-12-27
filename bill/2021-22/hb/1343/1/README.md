@@ -77,6 +77,24 @@ The definitions in this section apply throughout this chapter unless the context
 22. "Technical college" includes those higher education institutions with the mission of conducting occupational education, basic skills, literacy programs, and offering on short notice, when appropriate, programs that meet specific industry needs. For purposes of this chapter, technical colleges shall include the following college districts as created in RCW 28B.50.040: The twenty-fifth college district, the twenty-sixth college district, the twenty-seventh college district, the twenty-eighth college district, and the twenty-ninth college district.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [50.04](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
+
+"Public health emergency" means a declaration or order that covers the jurisdiction where the unemployed individual was working on the date the individual became unemployed concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+1. The president of the United States has declared a national or regional emergency;
+
+2. The governor of Washington declared a state of emergency under RCW 43.06.010(12); or
+
+3. The governor or state executive of another state where the unemployed individual was working at the time of the declaration declared a state of emergency.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [50.04](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
+
+"Department" means the employment security department, unless the context clearly indicates otherwise.
+
+
 ## Section 4
 > This section modifies existing section [50.16.030](/rcw/50_unemployment_compensation/50.16_funds.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.16_funds.md) for context.
 
@@ -463,8 +481,26 @@ Benefits paid to employees of "nonprofit organizations" shall be financed in acc
 2. **Any** amount of shared work benefits **that is paid or** reimbursed by the federal government is not charged to experience rating accounts of employers or to employers who are liable for payments in lieu of contributions. The **employment security** department shall remove charges for any amount of shared work benefits **that is paid or** reimbursed by the federal government .
 
 
+## Section 20
+> This section adds a new section to an existing chapter [50.60](/rcw/50_unemployment_compensation/50.60_shared_work_compensation_plans—benefits.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.60_shared_work_compensation_plans—benefits.md) for context.
+
+Affected employees may participate, as appropriate, in training, including employer-sponsored training or training funded under the workforce innovation and opportunity act, to enhance job skills if such program has been approved by the employment security department.
+
+
+## Section 21
+> This section adds a new section to an existing chapter [50.24](/rcw/50_unemployment_compensation/50.24_contributions_by_employers.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.24_contributions_by_employers.md) for context.
+
+1. An employer whose place or places of business were closed or restricted in operations as a result of proclamation 20-05 or related governor proclamations or orders may defer quarterly payment of contributions under this chapter for up to two calendar quarters.
+
+2. An employer that defers payment under subsection (1) of this section may not be subject to penalties or interest on the deferred payment.
+
+3. This section expires December 31, 2022.
+
+
 ## Section 22
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this act. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
 
+
 ## Section 23
 The sum of $500,000,000 is appropriated from the budget stabilization account for the fiscal year ending June 30, 2021, and is provided solely for expenditure into the unemployment insurance trust fund, from which the employment security department may spend it solely for purposes of this act. If sections 11 through 15, 18, 19 and 21 of this act are not enacted by June 30, 2021, the appropriation in this section shall lapse. If an appropriation from the budget stabilization account of at least the amount in this section is enacted by June 30, 2021, in House Bill No. . . . (H-0436/21) for the purposes of this act, then the appropriation in this section shall lapse.
+

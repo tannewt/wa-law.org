@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to make technical changes to replace the term "marijuana" with "cannabis" throughout the Revised Code of Washington. The legislature finds that the use of the term "marijuana" in the United States has discriminatory origins and should be replaced with the more scientifically accurate term "cannabis." This act is technical in nature and no substantive legal changes are intended or implied.
 
+
 ## Section 2
 > This section modifies existing section [9.01.210](/rcw/09_crimes_and_punishments/9.001_general_provisions.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.001_general_provisions.md) for context.
 
@@ -1780,6 +1781,12 @@ Records in the medical **cannabis** authorization database established in RCW 69
 3. Funding for the **cannabis** social equity technical assistance competitive grant program must be provided through the dedicated **cannabis** account under RCW 69.50.540. Additionally, the department may solicit, receive, and expend private contributions to support the grant program.
 
 4. The department may adopt rules to implement this section.
+
+
+## Section 35
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+"Cannabis," except as otherwise provided in this title, has the meaning provided in RCW 69.50.101.
 
 
 ## Section 36
@@ -5715,4 +5722,16 @@ The provisions of this chapter do not apply with respect to land used in the gro
     b. In addition to sales as defined in subsection (3)(a) of this section, consideration may be given to cost, cost less depreciation, reconstruction cost less depreciation, or capitalization of income that would be derived from prudent use of the property, as limited by law or ordinance. Consideration should be given to any agreement, between an owner of rental housing and any government agency, that restricts rental income, appreciation, and liquidity; and to the impact of government restrictions on operating expenses and on ownership rights in general of such housing. In the case of property of a complex nature, or being used under terms of a franchise from a public agency, or operating as a public utility, or property not having a record of sale within five years and not having a significant number of sales of similar property in the general area, the provisions of this subsection must be the dominant factors in valuation. When provisions of this subsection are relied upon for establishing values the property owner must be advised upon request of the factors used in arriving at such value.
 
     c. In valuing any tract or parcel of real property, the true and fair value of the land, exclusive of structures thereon must be determined; also the true and fair value of structures thereon, but the valuation may not exceed the true and fair value of the total property as it exists. In valuing agricultural land, growing crops must be excluded. For purposes of this subsection (3)(c), "growing crops" does not include **cannabis** as defined under RCW 69.50.101.
+
+
+## Section 166
+> This section adds a new section to an existing chapter [69.50](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
+
+The board must use expedited rule making under RCW 34.05.353 to replace the term "marijuana" with the term "cannabis" throughout Title 314 WAC.
+
+
+## Section 167
+> This section adds a new section to an existing chapter [69.50](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
+
+The term "marijuana" as used under federal law generally refers to the term "cannabis" used throughout the Revised Code of Washington.
 

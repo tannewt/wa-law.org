@@ -1,5 +1,6 @@
 # SB 5079 - Mobile home closure notices
-*Status: Senate Rules "X" file.*
+*Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5079&Year=2021)
+
 Extending the closure notice period for manufactured/mobile home communities.
 
 ## Revisions

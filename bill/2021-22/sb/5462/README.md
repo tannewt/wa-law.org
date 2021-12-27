@@ -1,5 +1,6 @@
 # SB 5462 - State data breach claims
-*Status: First reading, referred to Environment, Energy & Technology.*
+*Status: First reading, referred to Environment, Energy & Technology.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5462&Year=2021)
+
 Concerning claims due to a breach of the security of a state database or information technology system.
 
 ## Revisions

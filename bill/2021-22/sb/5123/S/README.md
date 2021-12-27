@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5123-S.xml)
 ## Section 1
 The legislature finds that successful rehabilitation of youth adjudicated of sex offenses is the best path to reducing recidivism. The legislature recognizes the great and long-lasting harm caused to victims by problem sexual behaviors committed by youth and affirms the need to ensure that such behaviors are not repeated. The legislature finds that the consequences for youth adjudicated of sex offenses can last into adulthood and throughout their entire lives. The legislature finds that requiring youth to register as sex offenders is associated with mental health struggles, including depression, anxiety, and suicidal ideation, as well as the increased likelihood of becoming a target of sexual abuse by adults. The legislature finds that researchers from the Johns Hopkins University and other academic institutions found that registration and notification policies for minors failed to improve community safety and that evidence-based prevention and intervention policies would provide increased community safety.
+
 The legislature finds that while adults can petition for relief of registration for offenses committed as minors, the legal process is overly cumbersome, expensive, and challenging to the point that many never request removal and remain on the registry their entire lives. The legislature finds that Black, Hispanic, and American Indian individuals are overly represented in the population of registered juvenile sex offenders in Washington state. The legislature declares that the response to sex offenses committed by youth should be developmentally appropriate and driven by research. The legislature therefore intends to increase community safety by reforming juvenile sex offender registration policy and related areas to redirect the focus toward practices that increase prevention and promote successful intervention strategies.
+
 
 ## Section 2
 > This section modifies existing section [9A.44.130](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
@@ -150,14 +152,23 @@ For all  sex offenses or kidnapping offenses committed by a juvenile **as descri
 
 
 ## Section 4
-(1) The legal obligation to register as a sex offender is extinguished when the sex offense was committed while under the age of 18 unless the duty to register was imposed:
-(a) After an adjudication of a class A or class B sex offense committed when the person was age 16 or 17;
-(b) After committing a sex offense and, on the offense date, had a prior conviction for a sex offense or had a deferred disposition for a sex offense as defined by RCW 9A.44.128;
-(c) After a conviction of a sex offense in adult court pursuant to RCW 13.04.030(1)(e)(v);
-(d) After an out-of-state, tribal, or federal conviction;
-(e) After committing a kidnapping offense; or
-(f) Pursuant to the exceptions in RCW 9A.44.140.
-(2) By August 1, 2021, the Washington association of sheriffs and police chiefs and the Washington state patrol shall remove all persons from the sex offender registry whose obligation to register is based on an offense committed while the person was under 18 years of age, unless the individual has a legal obligation to register under subsection (1) of this section.
+1. The legal obligation to register as a sex offender is extinguished when the sex offense was committed while under the age of 18 unless the duty to register was imposed:
+
+    a. After an adjudication of a class A or class B sex offense committed when the person was age 16 or 17;
+
+    b. After committing a sex offense and, on the offense date, had a prior conviction for a sex offense or had a deferred disposition for a sex offense as defined by RCW 9A.44.128;
+
+    c. After a conviction of a sex offense in adult court pursuant to RCW 13.04.030(1)(e)(v);
+
+    d. After an out-of-state, tribal, or federal conviction;
+
+    e. After committing a kidnapping offense; or
+
+    f. Pursuant to the exceptions in RCW 9A.44.140.
+
+2. By August 1, 2021, the Washington association of sheriffs and police chiefs and the Washington state patrol shall remove all persons from the sex offender registry whose obligation to register is based on an offense committed while the person was under 18 years of age, unless the individual has a legal obligation to register under subsection (1) of this section.
+
 
 ## Section 5
 By August 1, 2021, the Washington state patrol shall notify all persons whose obligation to register as a sex offender is extinguished by this act. For persons enrolled in school or higher education, the Washington state patrol shall provide similar notice to the school's or institution's designated recipient of records under RCW 9A.44.138.
+

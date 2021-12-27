@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds people participating in their government, especially through public comment, is an essential part of developing public policy. The legislature further finds that there are numerous developing technologies that can be used to facilitate public comment, especially for those with disabilities, underserved communities, and those who face time or distance challenges when traveling to public meetings. Therefore, the legislature intends to encourage public agencies to make use of remote access tools as fully as practicable to encourage public engagement and better serve their communities.
 
+
 ## Section 2
 > This section modifies existing section [42.30.010](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
 
@@ -18,6 +19,14 @@ The people of this state do not yield their sovereignty to the agencies which se
 1. All meetings of the governing body of a public agency shall be open and public and all persons shall be permitted to attend any meeting of the governing body of a public agency, except as otherwise provided in this chapter.
 
 2. **Public agencies are encouraged to provide for the increased ability of the public to observe and participate in the meetings of governing bodies through real-time telephonic, electronic, internet, or other readily available means of remote access that do not require an additional cost to access the meeting.**
+
+
+## Section 4
+> This section adds a new section to an existing chapter [42.30](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. Public agencies are encouraged to make an audio or video recording of, or to provide an online streaming option for, all regular meetings of its governing body, and to make recordings of these meetings available online for a minimum of six months.
+
+2. This section does not alter a local government's recordkeeping requirements under chapter 42.56 RCW.
 
 
 ## Section 5
@@ -70,6 +79,18 @@ This subsection (1)(i) does not permit a governing body to hold an executive ses
 2. Before convening in executive session, the presiding officer of a governing body shall publicly announce the purpose for excluding the public from the meeting place, and the time when the executive session will be concluded. The executive session may be extended to a stated later time by announcement of the presiding officer. **The announced purpose of excluding the public must be entered into the minutes of the meeting required by RCW 42.30.035.**
 
 
+## Section 6
+> This section adds a new section to an existing chapter [42.30](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. Except in an emergency situation, the governing body of a public agency shall provide an opportunity at or before every regular meeting for public comment. The public comment required under this section may be taken orally at a public meeting, or by providing an opportunity for written testimony to be submitted before or at the meeting. If the governing body accepts written testimony, this testimony must be distributed to the governing body. The governing body may set a reasonable deadline for the submission of written testimony before the meeting.
+
+2. Upon the request of any individual who will have difficulty attending a meeting of the governing body of a public agency by reason of disability, limited mobility, or for any other reason that makes physical attendance at a meeting difficult, the governing body shall, when feasible, provide an opportunity for that individual to provide oral comment at the meeting remotely if oral comment from other members of the public will be accepted at the meeting.
+
+3. Nothing in this section prevents a governing body from allowing public comment on items not on the meeting agenda.
+
+4. Nothing in this section diminishes the authority of governing bodies to deal with interruptions under RCW 42.30.050, limits the ability of the governing body to put limitations on the time available for public comment or on how public comment is accepted, or requires a governing body to accept public comment that renders orderly conduct of the meeting unfeasible.
+
+
 ## Section 7
 > This section modifies existing section [42.30.900](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
 
@@ -78,3 +99,4 @@ This chapter may be **known and** cited as the **Washington state open public me
 
 ## Section 8
 This act may be known and cited as the Heather "Newsbrooke" Brooke, Ph.D. act.
+

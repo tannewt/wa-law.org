@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the homestead exemption is intended to protect the homeowner's equity in a home against unsecured creditors. The legislature finds that changes to the homestead exemption are necessary to modernize the law and to address the case of Wilson v. Rigby, 909 F.3d 306 (2018) and to adopt the reasoning in In re Good, 588 B.R. 573 (Bankr. W.D. Wash. 2018).
 
+
 ## Section 2
 > This section modifies existing section [6.13.010](/rcw/06_enforcement_of_judgments/6.13_homesteads.md). Here is the [modified chapter](rcw/06_enforcement_of_judgments/6.13_homesteads.md) for context.
 

@@ -1,5 +1,6 @@
 # HB 1108 - Foreclosure assistance
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1108&Year=2021)
+
 Maintaining funding and assistance for homeowners navigating the foreclosure process.
 
 ## Revisions

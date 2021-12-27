@@ -1,5 +1,6 @@
 # SB 5227 - Diversity, etc./higher ed.
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5227&Year=2021)
+
 Requiring diversity, equity, inclusion, and antiracism training and assessments at institutions of higher education.
 
 ## Revisions

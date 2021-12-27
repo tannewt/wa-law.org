@@ -2,10 +2,14 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5295-S.xml)
 ## Section 1
-(1) The legislature finds that gas and electrical companies face transformational change brought on by new technology, rapidly changing costs, emerging opportunities for customers, and public policy mandates. Policy mandates, such as chapter 19.405 RCW, the clean energy transformation act, mean these companies must find innovative and creative solutions to equitably serve their customers.
-(2) The legislature finds that the traditional regulatory construct is neither adaptable, nor well suited to adjusting to rapidly changing societal expectations and public policy objectives, and therefore hinders the ability of gas and electrical companies to effectively evolve to meet new challenges and opportunities.
-(3) It is the intent of the legislature that the regulatory construct should require a forward-looking orientation for regulation consistent with state policy objectives that focus on planning, flexibility, and fair allocation of risks, while fostering and supporting a culture that delivers performance and cost control in this new industry environment.
-(4) It is the intent of the legislature that the regulation of gas and electrical companies transform toward multiyear rate plans and performance-based rate making to provide certainty and stability to customers and gas and electrical companies, with those plans focused on ensuring alignment of public policy objectives, investment, safety, and reliability.
+1. The legislature finds that gas and electrical companies face transformational change brought on by new technology, rapidly changing costs, emerging opportunities for customers, and public policy mandates. Policy mandates, such as chapter 19.405 RCW, the clean energy transformation act, mean these companies must find innovative and creative solutions to equitably serve their customers.
+
+2. The legislature finds that the traditional regulatory construct is neither adaptable, nor well suited to adjusting to rapidly changing societal expectations and public policy objectives, and therefore hinders the ability of gas and electrical companies to effectively evolve to meet new challenges and opportunities.
+
+3. It is the intent of the legislature that the regulatory construct should require a forward-looking orientation for regulation consistent with state policy objectives that focus on planning, flexibility, and fair allocation of risks, while fostering and supporting a culture that delivers performance and cost control in this new industry environment.
+
+4. It is the intent of the legislature that the regulation of gas and electrical companies transform toward multiyear rate plans and performance-based rate making to provide certainty and stability to customers and gas and electrical companies, with those plans focused on ensuring alignment of public policy objectives, investment, safety, and reliability.
+
 
 ## Section 2
 > This section modifies existing section [80.28.005](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
@@ -57,6 +61,48 @@
 14. **"Third rate year" means the consecutive 12-month period, if any, that commences on the second anniversary of the rate effective date.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+1. Beginning January 1, 2022, every general rate case filing of a gas or electrical company must include a proposal for a multiyear rate plan as provided in this chapter. The commission shall approve, approve with conditions, or reject, a proposal for, an alternative proposal presented by parties in response to, a multiyear rate plan, or any combination thereof. The commission's consideration of a proposal for a multiyear rate plan is subject to the same standards applicable to other rate filings made under this title.
+
+2. A gas or electrical company may propose and the commission may approve any proposal to recover from ratepayers up to five percent of the total approved revenue requirement approved by the commission for the initial rate year for tariffs that expand the affordability of services available to customers including, but not limited to: (a) Bill assistance programs for low-income residential customers; or (b) one or more special rates for low-income residential customers to reduce the energy burden of those customers.
+
+3. [Empty]
+
+    a. The commission shall separately approve rates for each of the initial rate year, the second rate year and, if applicable, the third rate year, and the fourth rate year.
+
+    b. The commission shall ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that has filed a multiyear rate plan pursuant to this section that is or will be used and useful for service in this state by or during each rate year of the multiyear rate plan. For the initial rate year, the commission shall, at a minimum, ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that has filed a multiyear rate plan pursuant to this section that is used and useful for service in this state as of the rate effective date. The commission may order refunds to customers if property expected to be used and useful by the rate effective date when the commission approves a multiyear rate plan is in fact not used and useful by such a date.
+
+    c. The commission shall project the operating expenses for rate-making purposes of any gas or electrical company that has filed a multiyear rate plan pursuant to this section for each rate year of the multiyear rate plan.
+
+    d. In ascertaining and determining the fair value of property of a gas or electrical company pursuant to (b) of this subsection and projecting the operating expenses of a gas or electrical company pursuant to (c) of this subsection, the commission may use any standard, formula, method, or theory of valuation reasonably calculated to arrive at fair, just, reasonable, and sufficient rates.
+
+    e. If the commission approves a multiyear rate plan with a duration of three or four years, then the gas or electrical company must update its power costs as of the rate effective date of the third rate year. The proceeding to update the gas or electrical company's power costs is subject to the same standards that apply to other rate filings made under this title.
+
+4. The commission may, by order, establish terms, conditions, and procedures for a multiyear rate plan and ensure that rates remain just and reasonable during the course of the plan, including terms and procedures for rate adjustment during the term of the plan.
+
+5. The gas or electrical company is bound by the terms of the multiyear rate plan approved by the commission for each of the initial rate year and the second rate year. A gas or electrical company may file any of the following for the third rate year and fourth rate year, if any, of a multiyear rate plan, the effect of which could be to change rates affected by the multiyear rate plan:
+
+    a. A general rate case; or
+
+    b. A new multiyear rate plan in accordance with this section.
+
+6. The commission may, in approving a multiyear rate plan, determine a set of reasonable and applicable performance measures that can be used to assess a gas or electrical company operating under a multiyear rate plan. These performance measures may be proposed by the gas or electrical company in its initial application or by any other party to the proceeding in its response to the company's filing.
+
+7. Nothing in this section precludes any gas or electrical company from making filings required or permitted by the commission.
+
+8. A gas or electrical company may defer, without interest, any new costs, unknown at the time of the approval of any multiyear rate plan then in effect, that are associated with compliance of any governmental policy or plan not in existence as of the rate effective date and implemented during a multiyear rate plan. Recovery of these deferred costs must be addressed in the next applicable rate case or multiyear rate plan of the applicable gas or electrical company.
+
+9. The commission shall align, to the extent practical, the timing of approval of a multiyear rate plan of an electrical company submitted pursuant to this section with the clean energy implementation plan of the electrical company filed pursuant to RCW 19.405.060.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+The provisions of RCW 80.28.005 and section 3 of this act, inclusive, may not be construed to limit the existing rate-making authority of the commission.
+
+
 ## Section 5
 > This section modifies existing section [80.28.068](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
 
@@ -91,5 +137,30 @@
     e. **"Vulnerable populations" has the same meaning as defined in RCW 19.405.020.**
 
 
+## Section 6
+> This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
+
+1. A gas company or electrical company may enter into one or more written agreements with organizations that represent interests of customers belonging to a highly impacted community or vulnerable populations to assist these organizations with the costs of participating in regulatory proceedings conducted by the commission. The agreement must govern the manner in which financial assistance may be provided to the organization representing customer interests of vulnerable populations or a highly impacted community. More than one gas company, electrical company, or organization representing customer interests of vulnerable populations or a highly impacted community may join in a single agreement. Any agreement entered into under this section must be approved by the commission before any financial assistance is provided under the agreement.
+
+2. In administering an agreement entered into under subsection (1) of this section, the commission by rule or order may determine:
+
+    a. The amount of financial assistance that may be provided to any organization representing customer interests of vulnerable populations or a highly impacted community;
+
+    b. The manner in which the financial assistance is distributed;
+
+    c. The manner in which the financial assistance is recovered in the rates of the gas company or electrical company under subsection (3) of this section; and
+
+    d. Other matters necessary to administer the agreement.
+
+3. The commission shall allow a gas company or electrical company that provides financial assistance under this section to recover the amounts provided in rates. The commission shall allow a gas company or electrical company to defer inclusion of those amounts in rates if the gas company or electrical company so elects. An agreement under this section may not provide for payment of any amounts to the commission.
+
+4. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Highly impacted community" has the same meaning as defined in RCW 19.405.020.
+
+    b. "Vulnerable populations" has the same meaning as defined in RCW 19.405.020.
+
+
 ## Section 7
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

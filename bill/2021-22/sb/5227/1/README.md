@@ -3,8 +3,94 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5227.xml)
 ## Section 1
 The legislature finds that a postsecondary credential such as a degree, apprenticeship, or certificate is increasingly necessary to obtain a job that offers a good salary and advancement opportunities and that increasing the number of students in Washington who obtain such a credential is essential to the state's economic success. The legislature also recognizes that equity gaps remain among postsecondary students and that those gaps particularly impact students from historically marginalized communities.
+
 The legislature finds that developing and maintaining a culture of belonging and support for students, faculty, and staff at institutions of higher education is essential to student success, and that faculty and staff play a key role. The legislature therefore seeks to ensure that public institutions of higher education provide faculty and staff, as well as students, with training to give them tools to address matters related to antiracism, diversity, equity, and inclusion.
+
 The legislature further finds it necessary to regularly analyze the impact of that training on the campus community and to identify any measures needed to increase diversity, equity, and inclusion. Accordingly, the legislature intends that each public institution of higher education annually assess the learning, working, and living environment on campus that students, faculty, and staff experience to better understand the evolving state of diversity, equity, and inclusion.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. Each institution of higher education must:
+
+    a. Develop and establish a professional development program on diversity, equity, inclusion, and antiracism for faculty and staff. If possible, this program must be developed and delivered by campus faculty experts chosen by the faculty union or, if the institution has no faculty union, then by the faculty senate. If that is not possible, whatever consultant the institution hires must be approved by campus faculty experts. Efforts should be made to ensure the program is developed and delivered by individuals with innate and acquired experience and expertise in the field of diversity, equity, and inclusion;
+
+    b. Provide professional development training on diversity, equity, inclusion, and antiracism to faculty and staff beginning with the 2022-23 academic year;
+
+    c. Develop clear learning objectives for professional development program participants and provide those objectives to the student achievement council by July 1, 2022, and, subsequently, if there is a meaningful change in objectives or by request by the student achievement council;
+
+    d. Create an evaluation for program participants, with assistance from the student achievement council, that must be conducted before and after participation in the professional development program, and a follow-up evaluation to be conducted at a later date. The evaluation forms, and curriculum, must be shared with the student achievement council by July 1, 2022. The before-and-after evaluations must capture participant's level of satisfaction with the program and the degree to which they acquired the knowledge intended by the institution of higher education. The follow-up evaluation must focus on participants' behavior and how they apply what they learned in the program to their jobs. Curriculum must only be submitted again if there is a meaningful change or by request of the student achievement council; and
+
+    e. [Empty]
+
+        i. Share completed evaluations of program participants annually with the student achievement council and (ii) submit curriculum and other pertinent information regarding the program beginning July 1, 2023, and, subsequently, if there is a meaningful change in evaluation or by request of the student achievement council.
+
+2. The purpose of each professional development program curriculum must be rooted in eliminating structural racism and promoting diversity, equity, and inclusion while improving outcomes for students from historically marginalized communities. Institutions of higher education may further develop a curriculum that is reflective of the needs of the campus community.
+
+3. Beginning with the 2022-23 academic year, every faculty and staff member at an institution of higher education must participate in the program annually, regardless of whether they are full-time or part-time employees. All faculty and staff must complete an evaluation before and after participation in the program. Part-time faculty and staff may provide proof of attendance and completion to other institutions of higher education employers to receive credit for participation.
+
+4. The education data center, established in RCW 43.41.400, and the student achievement council may collaborate for the purpose of conducting analysis on the impact of the professional development program for faculty and staff on the campus community. Data from annual data-sharing agreements established in section 3(7) of this act may be used.
+
+5. The student achievement council shall conduct further quantitative or qualitative analysis of the professional development programs, through participant evaluation data, use of focus groups, or other methods. The student achievement council may determine promising practices based their analysis.
+
+6. The student achievement council must develop a report on their analysis of the professional development programs and submit it to the higher education committees of the legislature by December 31, 2024, and biennially thereafter.
+
+7. The student achievement council and institutions of higher education shall adopt rules as necessary or appropriate for effecting the provisions of this section, and not in conflict with this chapter, in accordance with the provisions of chapter 34.05 RCW, the administrative procedure act.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. [Empty]
+
+    a. The four-year institutions of higher education as defined in RCW 28B.10.016 shall conduct a campus climate assessment to understand the current state of diversity, equity, and inclusion in the learning, working, and living environment on campus for students, faculty, and staff.
+
+    b. The state board for community and technical colleges shall conduct a uniform campus climate assessment of community and technical colleges to understand the current state of diversity, equity, and inclusion in the learning, working, and living environment on each campus for students, faculty, and staff.
+
+2. Findings must include an evaluation of student and employee attitudes and awareness of campus diversity, equity, and inclusion issues and, if needed, should provide recommendations for improving measures to address diversity, equity, and inclusion and eliminating structural racism on campus. College and university diversity officers may be consulted in the development of recommendations.
+
+3. The four-year institutions of higher education and the state board for community and technical colleges shall report their findings to the student achievement council annually beginning July 1, 2022.
+
+4. Diversity, equity, and inclusion campus climate assessments that have been and will be conducted annually may fulfill the requirements in this section.
+
+5. Each student advisory committee established under RCW 28B.15.190, and selected student representatives at each community and technical college, shall assist administrators in the development of the campus climate assessment and provide recommendations based on the results of the campus climate assessment. If a student advisory committee, or the selected student representatives at a community and technical college, disagree as to the method and form of the campus climate assessment or to an institution of higher education's recommendations resulting from the assessment's results, then the institution of higher education must change the assessment or recommendations to accommodate the student advisory committee or selected student representatives.
+
+6. The student achievement council must develop a report on campus climate assessment results and submit it to the higher education committees of the legislature by December 31, 2024, and biennially thereafter. The report must include a summary of each campus climate assessment on diversity, equity, and inclusion. The report must also include pertinent aggregated data on each campus's student and faculty population, and opportunities to improve outcomes based on assessment results and data. To develop the report, the student achievement council shall enter annual data-sharing agreements as set forth in subsection (7) of this section.
+
+7. The education data center, established in RCW 43.41.400, shall include the student achievement council in their annual data-sharing agreements with institutions of higher education. The annual data-sharing agreements must ensure access to necessary disaggregated data for the purpose of developing the biannual report and conducting analysis of the impact of professional development programs for faculty and staff established in section 2 of this act. Data collected and received by the student achievement council is private and confidential and must only be used for statistical analysis, research, and evaluation purposes.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. Each institution of higher education must:
+
+    a. Develop and establish a program on diversity, equity, inclusion, and antiracism for students;
+
+    b. Provide training on diversity, equity, inclusion, and antiracism to students beginning with the 2024-25 academic year;
+
+    c. Develop clear learning objectives for program participants and provide those objectives to the student achievement council by July 1, 2024, and, subsequently, if there is a meaningful change in objectives or by request by the student achievement council;
+
+    d. Create an evaluation for program participants, with assistance from the student achievement council, that must be conducted before and after participation in the program, and a follow-up evaluation to be conducted at a later date. The evaluation forms, and curriculum, must be shared with the student achievement council by July 1, 2024. The before-and-after evaluations must capture participant's level of satisfaction with the program and the degree to which they acquired the knowledge intended by the institution of higher education. The follow-up evaluation must focus on participants' behavior and how they apply what they learned in the program. Curriculum must only be submitted again if there is a meaningful change or by request of the student achievement council; and
+
+    e. [Empty]
+
+        i. Share completed evaluations of program participants annually with the student achievement council; and (ii) submit curriculum and other pertinent information regarding the program beginning July 1, 2025, and, subsequently, if there is a meaningful change in evaluation or by request of the student achievement council.
+
+2. The purpose of each program curriculum must be rooted in eliminating structural racism and promoting diversity, equity, and inclusion while improving outcomes for campus community members from historically marginalized communities. Prior to the establishment of a program on diversity, equity, inclusion, and antiracism for students, institutions of higher education shall use the data and evaluation of the professional development program established under section 2 of this act, together with the results of the campus climate assessment established under section 3 of this act, to determine the professional development program's impact and create an impactful and relevant program geared toward students and the needs of the campus community.
+
+3. Beginning with the 2024-25 academic year, every student at an institution of higher education must participate in the program annually, regardless of whether they are full-time or part-time students. All students must complete an evaluation before and after participation in the program. Part-time students may provide proof of attendance and completion to other institutions of higher education to receive credit for participation.
+
+4. The education data center, established in RCW 43.41.400, and the student achievement council may collaborate for the purpose of conducting analysis on the impact of the program. Data from annual data-sharing agreements established in section 3(7) of this act may be used.
+
+5. The student achievement council shall use results from the campus climate assessments, established in section 3 of this act, to conduct an analysis of the program. The student achievement council may determine promising practices based on their analysis.
+
+6. The student achievement council must develop a report on their analysis of the programs and submit it to the higher education committees of the legislature by December 31, 2026, and biennially thereafter.
+
+7. The student achievement council and institutions of higher education shall adopt rules as necessary or appropriate for effecting the provisions of this section, and not in conflict with this chapter, in accordance with the provisions of chapter 34.05 RCW, the administrative procedure act.
+
 
 ## Section 5
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

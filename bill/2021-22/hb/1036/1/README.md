@@ -2,153 +2,292 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1036.xml)
 ## Section 1
-(1) The legislature finds that rapid innovations in low carbon transportation technologies, including electric vehicles and clean transportation fuels, are at the threshold of widespread commercial deployment. In order to help prompt the use of clean fuels, other states have successfully implemented programs that reduce the carbon intensity of their transportation fuels. California and Oregon have both implemented low carbon fuel standards that are similar to the program created in this act; after enacting their programs, neither state has experienced disruptions to fuel markets or significant impacts to the costs of transportation fuels, and both states have experienced biofuel sector growth and have successfully sited large biofuel projects that had originally been planned for Washington. Washington state has extensively studied the potential impact of a clean fuels program, and most projections show that a low carbon fuel standard would decrease greenhouse gas and conventional air pollutant emissions, while positively impacting the state's economy.
-(2) The legislature further finds that the health and welfare of the people of the state of Washington is threatened by the prospect of crumbling or swamped coastlines, rising water, and more intense forest fires caused by higher temperatures and related droughts, all of which are intensified and made more frequent by the volume of greenhouse gas emissions. As of 2015, the transportation sector contributes forty-three percent of Washington's greenhouse gas emissions, and the legislature's interest in the life cycle of the fuels used in the state arises from a concern for the effects of the production and use of these fuels on Washington's environment and public health, including its air quality, snowpack, and coastline.
-(3) Therefore, it is the intent of the legislature to support the deployment of clean transportation fuel technologies through a carefully designed program that reduces the carbon intensity of fuel used in Washington, in order to:
-(a) Reduce levels of conventional air pollutants from diesel and gasoline that are harmful to public health;
-(b) Reduce greenhouse gas emissions associated with transportation fuels, which are the state's largest source of greenhouse gas emissions; and
-(c) Create jobs and spur economic development based on innovative clean fuel technologies.
+1. The legislature finds that rapid innovations in low carbon transportation technologies, including electric vehicles and clean transportation fuels, are at the threshold of widespread commercial deployment. In order to help prompt the use of clean fuels, other states have successfully implemented programs that reduce the carbon intensity of their transportation fuels. California and Oregon have both implemented low carbon fuel standards that are similar to the program created in this act; after enacting their programs, neither state has experienced disruptions to fuel markets or significant impacts to the costs of transportation fuels, and both states have experienced biofuel sector growth and have successfully sited large biofuel projects that had originally been planned for Washington. Washington state has extensively studied the potential impact of a clean fuels program, and most projections show that a low carbon fuel standard would decrease greenhouse gas and conventional air pollutant emissions, while positively impacting the state's economy.
+
+2. The legislature further finds that the health and welfare of the people of the state of Washington is threatened by the prospect of crumbling or swamped coastlines, rising water, and more intense forest fires caused by higher temperatures and related droughts, all of which are intensified and made more frequent by the volume of greenhouse gas emissions. As of 2015, the transportation sector contributes forty-three percent of Washington's greenhouse gas emissions, and the legislature's interest in the life cycle of the fuels used in the state arises from a concern for the effects of the production and use of these fuels on Washington's environment and public health, including its air quality, snowpack, and coastline.
+
+3. Therefore, it is the intent of the legislature to support the deployment of clean transportation fuel technologies through a carefully designed program that reduces the carbon intensity of fuel used in Washington, in order to:
+
+    a. Reduce levels of conventional air pollutants from diesel and gasoline that are harmful to public health;
+
+    b. Reduce greenhouse gas emissions associated with transportation fuels, which are the state's largest source of greenhouse gas emissions; and
+
+    c. Create jobs and spur economic development based on innovative clean fuel technologies.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly indicates otherwise.
-(1) "Carbon dioxide equivalents" has the same meaning as defined in RCW 70A.45.010.
-(2) "Carbon intensity" means the quantity of life-cycle greenhouse gas emissions, per unit of fuel energy, expressed in grams of carbon dioxide equivalent per megajoule (gCO2e/MJ).
-(3) "Clean fuels program" means the requirements established under this chapter.
-(4) "Cost" means an expense connected to the manufacture, distribution, or other aspects of the provision of a transportation fuel product.
-(5) "Credit" means a unit of measure generated when a transportation fuel with a carbon intensity that is less than the applicable standard adopted by the department under section 3 of this act is produced, imported, or dispensed for use in Washington, such that one credit is equal to one metric ton of carbon dioxide equivalents.
-(6) "Deficit" means a unit of measure generated when a transportation fuel with a carbon intensity that is greater than the applicable standard adopted by the department under section 3 of this act is produced, imported, or dispensed for use in Washington, such that one deficit is equal to one metric ton of carbon dioxide equivalents.
-(7) "Department" means the department of ecology.
-(8) "Electric utility" means a consumer-owned utility or investor-owned utility, as those terms are defined in RCW 19.29A.010.
-(9) "Greenhouse gas" has the same meaning as defined in RCW 70A.45.010.
-(10) "Military tactical vehicle" means a motor vehicle owned by the United States department of defense or the United States military services and that is used in combat, combat support, combat service support, tactical or relief operations, or training for such operations.
-(11) "Motor vehicle" has the same meaning as defined in RCW 46.04.320.
-(12) "Price" means the amount of payment or compensation provided as consideration for a specified quantity of transportation fuel by a consumer or end user of the transportation fuel.
-(13)(a) "Tactical support equipment" means equipment using a portable engine, including turbines, that meets military specifications, owned by the United States military services or its allies, and that is used in combat, combat support, combat service support, tactical or relief operations, or training for such operations.
-(b) "Tactical support equipment" includes, but is not limited to, engines associated with portable generators, aircraft start carts, heaters, and lighting carts.
-(14) "Transportation fuel" means electricity and any liquid or gaseous fuel sold, supplied, offered for sale, or used for the propulsion of a motor vehicle or that is intended for use for transportation purposes.
+
+1. "Carbon dioxide equivalents" has the same meaning as defined in RCW 70A.45.010.
+
+2. "Carbon intensity" means the quantity of life-cycle greenhouse gas emissions, per unit of fuel energy, expressed in grams of carbon dioxide equivalent per megajoule (gCO2e/MJ).
+
+3. "Clean fuels program" means the requirements established under this chapter.
+
+4. "Cost" means an expense connected to the manufacture, distribution, or other aspects of the provision of a transportation fuel product.
+
+5. "Credit" means a unit of measure generated when a transportation fuel with a carbon intensity that is less than the applicable standard adopted by the department under section 3 of this act is produced, imported, or dispensed for use in Washington, such that one credit is equal to one metric ton of carbon dioxide equivalents.
+
+6. "Deficit" means a unit of measure generated when a transportation fuel with a carbon intensity that is greater than the applicable standard adopted by the department under section 3 of this act is produced, imported, or dispensed for use in Washington, such that one deficit is equal to one metric ton of carbon dioxide equivalents.
+
+7. "Department" means the department of ecology.
+
+8. "Electric utility" means a consumer-owned utility or investor-owned utility, as those terms are defined in RCW 19.29A.010.
+
+9. "Greenhouse gas" has the same meaning as defined in RCW 70A.45.010.
+
+10. "Military tactical vehicle" means a motor vehicle owned by the United States department of defense or the United States military services and that is used in combat, combat support, combat service support, tactical or relief operations, or training for such operations.
+
+11. "Motor vehicle" has the same meaning as defined in RCW 46.04.320.
+
+12. "Price" means the amount of payment or compensation provided as consideration for a specified quantity of transportation fuel by a consumer or end user of the transportation fuel.
+
+13. [Empty]
+
+    a. "Tactical support equipment" means equipment using a portable engine, including turbines, that meets military specifications, owned by the United States military services or its allies, and that is used in combat, combat support, combat service support, tactical or relief operations, or training for such operations.
+
+    b. "Tactical support equipment" includes, but is not limited to, engines associated with portable generators, aircraft start carts, heaters, and lighting carts.
+
+14. "Transportation fuel" means electricity and any liquid or gaseous fuel sold, supplied, offered for sale, or used for the propulsion of a motor vehicle or that is intended for use for transportation purposes.
+
 
 ## Section 3
-(1) The department shall adopt rules that establish standards that reduce carbon intensity in transportation fuels used in Washington. The standards established by the rules must be based on the carbon intensity of gasoline and gasoline substitutes and the carbon intensity of diesel and diesel substitutes.
-(2)(a) The rules adopted under this section must reduce the greenhouse gas emissions attributable to each unit of the fuels to ten percent below 2017 levels by 2028 and twenty percent below 2017 levels by 2035.
-(b) The rules must establish a start date for the clean fuels program of no later than January 1, 2023.
-(c) By December 31, 2031, the department must adopt updated rules that reduce the greenhouse gas emissions attributable to each unit of transportation fuels applicable to each year through 2050. The department must adopt rules that set the greenhouse gas emissions attributable to each unit of transportation fuel in the year 2050 so that total emissions from transportation sources in 2050 are consistent with the state achieving the emissions limits established in RCW 70A.45.020.
-(3)(a) Transportation fuels exported from Washington are not subject to the greenhouse gas emissions reduction requirements in this section.
-(b) Electricity is not subject to the greenhouse gas emissions reduction requirements in this section.
-(4) To the extent the requirements of this chapter conflict with the requirements of chapter 19.112 RCW, the requirements of this chapter prevail.
+1. The department shall adopt rules that establish standards that reduce carbon intensity in transportation fuels used in Washington. The standards established by the rules must be based on the carbon intensity of gasoline and gasoline substitutes and the carbon intensity of diesel and diesel substitutes.
+
+2. [Empty]
+
+    a. The rules adopted under this section must reduce the greenhouse gas emissions attributable to each unit of the fuels to ten percent below 2017 levels by 2028 and twenty percent below 2017 levels by 2035.
+
+    b. The rules must establish a start date for the clean fuels program of no later than January 1, 2023.
+
+    c. By December 31, 2031, the department must adopt updated rules that reduce the greenhouse gas emissions attributable to each unit of transportation fuels applicable to each year through 2050. The department must adopt rules that set the greenhouse gas emissions attributable to each unit of transportation fuel in the year 2050 so that total emissions from transportation sources in 2050 are consistent with the state achieving the emissions limits established in RCW 70A.45.020.
+
+3. [Empty]
+
+    a. Transportation fuels exported from Washington are not subject to the greenhouse gas emissions reduction requirements in this section.
+
+    b. Electricity is not subject to the greenhouse gas emissions reduction requirements in this section.
+
+4. To the extent the requirements of this chapter conflict with the requirements of chapter 19.112 RCW, the requirements of this chapter prevail.
+
 
 ## Section 4
 The rules adopted by the department to achieve the greenhouse gas emissions reductions per unit of fuel energy specified in section 3 of this act must include, but are not limited to, the following:
-(1) Standards for greenhouse gas emissions attributable to the transportation fuels throughout their life cycles, including but not limited to emissions from the production, storage, transportation, and combustion of transportation fuels and from changes in land use associated with transportation fuels and any permanent greenhouse gas sequestration activities.
-(a) The rules adopted by the department under this subsection (1) may:
-(i) Include provisions to address the efficiency of a fuel as used in a powertrain as compared to a reference fuel;
-(ii) Consider carbon intensity calculations for transportation fuels developed by national laboratories or used by similar programs in other states; and
-(iii) Consider changes in land use and any permanent greenhouse gas sequestration activities associated with the production of any type of transportation fuel.
-(b) The rules adopted by the department under this subsection (1) must:
-(i) Neutrally consider the life-cycle emissions associated with transportation fuels with respect to the political jurisdiction in which the fuels originated and may not discriminate against fuels on the basis of having originated in another state or jurisdiction. Nothing in this subsection may be construed to prohibit inclusion or assessment of emissions related to fuel production, storage, transportation, or combustion or associated changes in land use in determining the carbon intensity of a fuel;
-(ii) Measure greenhouse gas emissions associated with electricity based on a mix of generation resources specific to each electric utility participating in the clean fuels program. The department may apply an asset-controlling supplier emission factor certified or approved by a similar program to reduce the greenhouse gas emissions associated with transportation fuels in another state; and
-(iii) Include procedures for setting and adjusting the amounts of greenhouse gas emissions per unit of fuel energy that is assigned to transportation fuels under this subsection.
-(c) If the department determines that it is necessary for purposes of accurately measuring greenhouse gas emissions associated with transportation fuels, the department may require transportation fuel suppliers to submit data or information to be used for purposes of calculating greenhouse gas emissions that is different from or additional to the greenhouse gas emissions data reported under RCW 70A.15.2200(5)(a)(iii).
-(d) If the department determines that it is necessary for purposes of accurately measuring greenhouse gas emissions associated with electricity supplied to retail customers by an electric utility, the department may require electric utilities participating in the clean fuels program to submit data or information to be used for purposes of calculating greenhouse gas emissions that is different from or additional to the fuel mix disclosure information submitted under chapter 19.29A RCW. To the extent practicable, rules adopted by the department may allow data requested of utilities to be submitted in a form and manner consistent with other required state or federal data submissions;
-(2) Provisions allowing for the achievement of limits on the greenhouse gas emissions intensity of transportation fuels in section 3 of this act to be achieved by any combination of credit generating activities capable of meeting such standards, consistent with the limitations of subsection (3)(a) of this section. Where such provisions would not produce results counter to the emission reduction goals of the program or prove administratively burdensome for the department, the rules should provide each participant in the clean fuels program with the opportunity to demonstrate appropriate carbon intensity values taking into account both emissions from production facilities and elsewhere in the production cycle, including changes in land use and permanent greenhouse gas sequestration activities;
-(3)(a) Methods for assigning compliance obligations and methods for tracking tradable credits. The department may assign the generation of a credit when a fuel with associated life-cycle greenhouse gas emissions that are lower than the applicable per-unit standard adopted by the department under section 3 of this act is produced, imported, or dispensed for use in Washington, or when specified activities are undertaken that support the reduction of greenhouse gas emissions associated with transportation in Washington;
-(b) Mechanisms that allow credits to be traded and to be banked for future compliance periods; and
-(c) Procedures for verifying the validity of credits and deficits generated under the clean fuels program;
-(4) Mechanisms to elect to participate in the clean fuels program for persons associated with the supply chains of transportation fuels that are eligible to generate credits consistent with subsection (3) of this section, including producers, importers, distributors, users, or retailers of such fuels;
-(5) Mechanisms for persons associated with the supply chains of transportation fuels that are used for purposes that are exempt from the clean fuels program compliance obligations, including but not limited to electricity and fuels used by aircraft, vessels, railroad locomotives, and other exempt fuels specified in section 5 of this act, to elect to participate in the clean fuels program by earning credits for the production, import, distribution, use, or retail of exempt fuels with associated life-cycle greenhouse gas emissions lower than the per-unit standard established in section 3 of this act;
-(6) Cost containment mechanisms.
-(a) Cost containment mechanisms may include, but are not limited to:
-(i) A credit clearance market designed to make credits available for sale to regulated persons after the conclusion of a compliance period at a department-determined price;
-(ii) Similar procedures that provide a means of compliance with the clean fuels program requirements in the event that a regulated person has not been able to acquire sufficient volumes of credits at the end of a compliance period; or
-(iii) Similar procedures that ensure that credit prices do not significantly exceed credit prices in other jurisdictions that have adopted similar programs to reduce the carbon intensity of transportation fuels.
-(b) Any cost containment mechanisms must be designed to provide financial disincentive for regulated persons to rely on the cost containment mechanism for purposes of program compliance instead of seeking to generate or acquire sufficient credits under the program;
-(7) Authority for the department to designate an entity to aggregate and use unclaimed credits associated with persons that elect not to participate in the clean fuels program under subsection (4) of this section.
+
+1. Standards for greenhouse gas emissions attributable to the transportation fuels throughout their life cycles, including but not limited to emissions from the production, storage, transportation, and combustion of transportation fuels and from changes in land use associated with transportation fuels and any permanent greenhouse gas sequestration activities.
+
+    a. The rules adopted by the department under this subsection (1) may:
+
+        i. Include provisions to address the efficiency of a fuel as used in a powertrain as compared to a reference fuel;
+
+        ii. Consider carbon intensity calculations for transportation fuels developed by national laboratories or used by similar programs in other states; and
+
+        iii. Consider changes in land use and any permanent greenhouse gas sequestration activities associated with the production of any type of transportation fuel.
+
+    b. The rules adopted by the department under this subsection (1) must:
+
+        i. Neutrally consider the life-cycle emissions associated with transportation fuels with respect to the political jurisdiction in which the fuels originated and may not discriminate against fuels on the basis of having originated in another state or jurisdiction. Nothing in this subsection may be construed to prohibit inclusion or assessment of emissions related to fuel production, storage, transportation, or combustion or associated changes in land use in determining the carbon intensity of a fuel;
+
+        ii. Measure greenhouse gas emissions associated with electricity based on a mix of generation resources specific to each electric utility participating in the clean fuels program. The department may apply an asset-controlling supplier emission factor certified or approved by a similar program to reduce the greenhouse gas emissions associated with transportation fuels in another state; and
+
+        iii. Include procedures for setting and adjusting the amounts of greenhouse gas emissions per unit of fuel energy that is assigned to transportation fuels under this subsection.
+
+    c. If the department determines that it is necessary for purposes of accurately measuring greenhouse gas emissions associated with transportation fuels, the department may require transportation fuel suppliers to submit data or information to be used for purposes of calculating greenhouse gas emissions that is different from or additional to the greenhouse gas emissions data reported under RCW 70A.15.2200(5)(a)(iii).
+
+    d. If the department determines that it is necessary for purposes of accurately measuring greenhouse gas emissions associated with electricity supplied to retail customers by an electric utility, the department may require electric utilities participating in the clean fuels program to submit data or information to be used for purposes of calculating greenhouse gas emissions that is different from or additional to the fuel mix disclosure information submitted under chapter 19.29A RCW. To the extent practicable, rules adopted by the department may allow data requested of utilities to be submitted in a form and manner consistent with other required state or federal data submissions;
+
+2. Provisions allowing for the achievement of limits on the greenhouse gas emissions intensity of transportation fuels in section 3 of this act to be achieved by any combination of credit generating activities capable of meeting such standards, consistent with the limitations of subsection (3)(a) of this section. Where such provisions would not produce results counter to the emission reduction goals of the program or prove administratively burdensome for the department, the rules should provide each participant in the clean fuels program with the opportunity to demonstrate appropriate carbon intensity values taking into account both emissions from production facilities and elsewhere in the production cycle, including changes in land use and permanent greenhouse gas sequestration activities;
+
+3. [Empty]
+
+    a. Methods for assigning compliance obligations and methods for tracking tradable credits. The department may assign the generation of a credit when a fuel with associated life-cycle greenhouse gas emissions that are lower than the applicable per-unit standard adopted by the department under section 3 of this act is produced, imported, or dispensed for use in Washington, or when specified activities are undertaken that support the reduction of greenhouse gas emissions associated with transportation in Washington;
+
+    b. Mechanisms that allow credits to be traded and to be banked for future compliance periods; and
+
+    c. Procedures for verifying the validity of credits and deficits generated under the clean fuels program;
+
+4. Mechanisms to elect to participate in the clean fuels program for persons associated with the supply chains of transportation fuels that are eligible to generate credits consistent with subsection (3) of this section, including producers, importers, distributors, users, or retailers of such fuels;
+
+5. Mechanisms for persons associated with the supply chains of transportation fuels that are used for purposes that are exempt from the clean fuels program compliance obligations, including but not limited to electricity and fuels used by aircraft, vessels, railroad locomotives, and other exempt fuels specified in section 5 of this act, to elect to participate in the clean fuels program by earning credits for the production, import, distribution, use, or retail of exempt fuels with associated life-cycle greenhouse gas emissions lower than the per-unit standard established in section 3 of this act;
+
+6. Cost containment mechanisms.
+
+    a. Cost containment mechanisms may include, but are not limited to:
+
+        i. A credit clearance market designed to make credits available for sale to regulated persons after the conclusion of a compliance period at a department-determined price;
+
+        ii. Similar procedures that provide a means of compliance with the clean fuels program requirements in the event that a regulated person has not been able to acquire sufficient volumes of credits at the end of a compliance period; or
+
+        iii. Similar procedures that ensure that credit prices do not significantly exceed credit prices in other jurisdictions that have adopted similar programs to reduce the carbon intensity of transportation fuels.
+
+    b. Any cost containment mechanisms must be designed to provide financial disincentive for regulated persons to rely on the cost containment mechanism for purposes of program compliance instead of seeking to generate or acquire sufficient credits under the program;
+
+7. Authority for the department to designate an entity to aggregate and use unclaimed credits associated with persons that elect not to participate in the clean fuels program under subsection (4) of this section.
+
 
 ## Section 5
-(1) The rules adopted under sections 3 and 4 of this act must include exemptions for, at minimum, the following transportation fuels:
-(a) Fuels used in volumes below thresholds adopted by the department;
-(b) Fuels used for the propulsion of all aircraft, vessels, and railroad locomotives; and
-(c) Fuels used for the operation of military tactical vehicles and tactical support equipment.
-(2)(a) The rules adopted under sections 3 and 4 of this act must exempt the following transportation fuels from greenhouse gas emission intensity reduction requirements until January 1, 2028:
-(i) Special fuel used off-road in vehicles used primarily to transport logs;
-(ii) Dyed special fuel used in vehicles that are not designed primarily to transport persons or property, that are not designed to be primarily operated on highways, and that are used primarily for construction work including, but not limited to, mining and timber harvest operations; and
-(iii) Dyed special fuel used for agricultural purposes exempt from chapter 82.38 RCW.
-(b) Prior to January 1, 2028, fuels identified in this subsection (2) are eligible to generate credits, consistent with subsection (5) of this section. Beginning January 1, 2028, the fuels identified in this subsection (2) are subject to the greenhouse gas emission intensity reduction requirements applicable to transportation fuels specified in section 3 of this act.
-(3) The department may adopt rules to specify the standards for persons to qualify for the exemptions provided in this section. The department may implement the exemptions under subsection (2) of this section to align with the implementation of exemptions for similar fuels exempt from chapter 82.38 RCW.
-(4) The rules adopted under sections 3 and 4 of this act may include exemptions in addition to those described in subsections (1) and (2) of this section, but only if such exemptions are necessary, with respect to the relationship between the program and similar greenhouse gas emissions requirements or low carbon fuel standards, in order to avoid:
-(a) Mismatched incentives across programs;
-(b) Fuel shifting between markets; or
-(c) Other results that are counter to the intent of this chapter.
-(5) Nothing in this chapter precludes the department from adopting rules under sections 3 and 4 of this act that allow the generation of credits associated with electric or alternative transportation infrastructure that existed prior to the effective date of this section or to the start date of program requirements.
+1. The rules adopted under sections 3 and 4 of this act must include exemptions for, at minimum, the following transportation fuels:
+
+    a. Fuels used in volumes below thresholds adopted by the department;
+
+    b. Fuels used for the propulsion of all aircraft, vessels, and railroad locomotives; and
+
+    c. Fuels used for the operation of military tactical vehicles and tactical support equipment.
+
+2. [Empty]
+
+    a. The rules adopted under sections 3 and 4 of this act must exempt the following transportation fuels from greenhouse gas emission intensity reduction requirements until January 1, 2028:
+
+        i. Special fuel used off-road in vehicles used primarily to transport logs;
+
+        ii. Dyed special fuel used in vehicles that are not designed primarily to transport persons or property, that are not designed to be primarily operated on highways, and that are used primarily for construction work including, but not limited to, mining and timber harvest operations; and
+
+        iii. Dyed special fuel used for agricultural purposes exempt from chapter 82.38 RCW.
+
+    b. Prior to January 1, 2028, fuels identified in this subsection (2) are eligible to generate credits, consistent with subsection (5) of this section. Beginning January 1, 2028, the fuels identified in this subsection (2) are subject to the greenhouse gas emission intensity reduction requirements applicable to transportation fuels specified in section 3 of this act.
+
+3. The department may adopt rules to specify the standards for persons to qualify for the exemptions provided in this section. The department may implement the exemptions under subsection (2) of this section to align with the implementation of exemptions for similar fuels exempt from chapter 82.38 RCW.
+
+4. The rules adopted under sections 3 and 4 of this act may include exemptions in addition to those described in subsections (1) and (2) of this section, but only if such exemptions are necessary, with respect to the relationship between the program and similar greenhouse gas emissions requirements or low carbon fuel standards, in order to avoid:
+
+    a. Mismatched incentives across programs;
+
+    b. Fuel shifting between markets; or
+
+    c. Other results that are counter to the intent of this chapter.
+
+5. Nothing in this chapter precludes the department from adopting rules under sections 3 and 4 of this act that allow the generation of credits associated with electric or alternative transportation infrastructure that existed prior to the effective date of this section or to the start date of program requirements.
+
 
 ## Section 6
-(1) The rules adopted under sections 3 and 4 of this act may allow the generation of credits from activities that support the reduction of greenhouse gas emissions associated with transportation in Washington, including but not limited to:
-(a) Carbon capture and sequestration projects, including but not limited to:
-(i) Innovative crude oil production projects that include carbon capture and sequestration;
-(ii) Refinery investments in carbon capture and sequestration; or
-(iii) Direct air capture projects;
-(b) The fueling of electric vehicles using electricity certified by the department to have a carbon intensity of zero. Such electricity must include, at minimum:
-(i) Electricity for which a renewable energy credit or other environmental attribute has been retired or used only for purposes of the clean fuels program; and
-(ii) Electricity produced using a zero emission resource, including but not limited to solar, wind, geothermal, or the industrial combustion of biomass consistent with RCW 70A.45.020(3), that is directly supplied as a transportation fuel by the generator of the electricity; and
-(c) The use of smart vehicle charging technology that results in the fueling of an electric vehicle during times when the carbon intensity of grid electricity is comparatively low.
-(2) The rules adopted under sections 3 and 4 of this act must allow the generation of credits from the provision of zero emission vehicle refueling infrastructure and other low carbon fuel infrastructure including, but not limited to, fast charging battery electric vehicle infrastructure and hydrogen electric vehicle refueling infrastructure.
-(3) The rules adopted by the department may establish limits for the number of credits that may be earned each year by persons participating in the program for some or all of the activities specified in subsections (1) and (2) of this section. Any limits established under this subsection must take into consideration the return on investment required in order for an activity specified in subsection (1) or (2) of this section to be financially viable.
+1. The rules adopted under sections 3 and 4 of this act may allow the generation of credits from activities that support the reduction of greenhouse gas emissions associated with transportation in Washington, including but not limited to:
+
+    a. Carbon capture and sequestration projects, including but not limited to:
+
+        i. Innovative crude oil production projects that include carbon capture and sequestration;
+
+        ii. Refinery investments in carbon capture and sequestration; or
+
+        iii. Direct air capture projects;
+
+    b. The fueling of electric vehicles using electricity certified by the department to have a carbon intensity of zero. Such electricity must include, at minimum:
+
+        i. Electricity for which a renewable energy credit or other environmental attribute has been retired or used only for purposes of the clean fuels program; and
+
+        ii. Electricity produced using a zero emission resource, including but not limited to solar, wind, geothermal, or the industrial combustion of biomass consistent with RCW 70A.45.020(3), that is directly supplied as a transportation fuel by the generator of the electricity; and
+
+    c. The use of smart vehicle charging technology that results in the fueling of an electric vehicle during times when the carbon intensity of grid electricity is comparatively low.
+
+2. The rules adopted under sections 3 and 4 of this act must allow the generation of credits from the provision of zero emission vehicle refueling infrastructure and other low carbon fuel infrastructure including, but not limited to, fast charging battery electric vehicle infrastructure and hydrogen electric vehicle refueling infrastructure.
+
+3. The rules adopted by the department may establish limits for the number of credits that may be earned each year by persons participating in the program for some or all of the activities specified in subsections (1) and (2) of this section. Any limits established under this subsection must take into consideration the return on investment required in order for an activity specified in subsection (1) or (2) of this section to be financially viable.
+
 
 ## Section 7
-(1) Except where otherwise provided in this chapter, the department shall seek to adopt rules that are harmonized with the regulatory standards, exemptions, reporting obligations, and other clean fuels program compliance requirements of other states that:
-(a) Have adopted low carbon fuel standards or similar greenhouse gas emissions requirements applicable specifically to transportation fuels; and
-(b)(i) Supply, or have the potential to supply, significant quantities of transportation fuel to Washington markets; or
-(ii) To which Washington supplies, or has the potential to supply, significant quantities of transportation fuel.
-(2) The department must establish and periodically consult a stakeholder advisory panel, including representatives of forestland and agricultural landowners, for purposes of soliciting input on how to best incentivize and allot credits for the sequestration of greenhouse gases through activities on agricultural and forestlands in a manner that is consistent with the goals and requirements of this chapter.
+1. Except where otherwise provided in this chapter, the department shall seek to adopt rules that are harmonized with the regulatory standards, exemptions, reporting obligations, and other clean fuels program compliance requirements of other states that:
+
+    a. Have adopted low carbon fuel standards or similar greenhouse gas emissions requirements applicable specifically to transportation fuels; and
+
+    b. [Empty]
+
+        i. Supply, or have the potential to supply, significant quantities of transportation fuel to Washington markets; or
+
+        ii. To which Washington supplies, or has the potential to supply, significant quantities of transportation fuel.
+
+2. The department must establish and periodically consult a stakeholder advisory panel, including representatives of forestland and agricultural landowners, for purposes of soliciting input on how to best incentivize and allot credits for the sequestration of greenhouse gases through activities on agricultural and forestlands in a manner that is consistent with the goals and requirements of this chapter.
+
 
 ## Section 8
-(1)(a) Each producer or importer of any amount of a transportation fuel that is ineligible to generate credits consistent with the requirements of section 4(3) of this act must register with the department.
-(b) Producers, importers, distributors, users, and retailers of transportation fuels that are eligible to generate credits consistent with section 4(3) of this act must register with the department if they elect to participate in the clean fuels program.
-(c) Other persons must register with the department to generate credits from other activities that support the reduction of greenhouse gas emissions associated with transportation in Washington.
-(2) Each transaction transferring ownership of transportation fuels for which clean fuels program participation is mandated or has been chosen must be accompanied by documentation, in a format approved by the department, that assigns the clean fuels program compliance responsibility associated with the fuels, including the assignment of associated credits.
-(3) The department may adopt rules requiring the periodic reporting of information to the department by persons associated with the supply chains of transportation fuels participating in the clean fuels program. To the extent practicable, the rules must establish reporting procedures and timelines that are consistent with similar programs in other states that reduce the greenhouse gas emission intensity of transportation fuel and with procedures and timelines of state programs requiring similar information to be reported by regulated parties, including electric utilities.
-(4) RCW 70A.15.2510 applies to records or information submitted to the department under this chapter.
+1. [Empty]
+
+    a. Each producer or importer of any amount of a transportation fuel that is ineligible to generate credits consistent with the requirements of section 4(3) of this act must register with the department.
+
+    b. Producers, importers, distributors, users, and retailers of transportation fuels that are eligible to generate credits consistent with section 4(3) of this act must register with the department if they elect to participate in the clean fuels program.
+
+    c. Other persons must register with the department to generate credits from other activities that support the reduction of greenhouse gas emissions associated with transportation in Washington.
+
+2. Each transaction transferring ownership of transportation fuels for which clean fuels program participation is mandated or has been chosen must be accompanied by documentation, in a format approved by the department, that assigns the clean fuels program compliance responsibility associated with the fuels, including the assignment of associated credits.
+
+3. The department may adopt rules requiring the periodic reporting of information to the department by persons associated with the supply chains of transportation fuels participating in the clean fuels program. To the extent practicable, the rules must establish reporting procedures and timelines that are consistent with similar programs in other states that reduce the greenhouse gas emission intensity of transportation fuel and with procedures and timelines of state programs requiring similar information to be reported by regulated parties, including electric utilities.
+
+4. RCW 70A.15.2510 applies to records or information submitted to the department under this chapter.
+
 
 ## Section 9
-(1)(a) Fifty percent of the revenues generated by an electric utility from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program must be expended by the electric utility on transportation electrification projects, which may include projects to support the production and provision of renewable hydrogen as a transportation fuel or used in the production of a transportation fuel.
-(b) Sixty percent of the revenues described in (a) of this subsection, or thirty percent of the revenues generated by an electric utility from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program, must be expended by the electric utility on transportation electrification projects, which may include projects to support the production and provision of renewable hydrogen as a transportation fuel or used in the production of a transportation fuel, located within or directly benefiting a federally designated nonattainment or maintenance area, a federally designated nonattainment or maintenance area that existed as of the effective date of this section, a disproportionately impacted community identified by the department of health, or an area designated by the department as being at risk of nonattainment, if such a nonattainment or maintenance area or disproportionately impacted community is within the service area of the utility.
-(2) The department may adopt requirements for the expenditure of revenues from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program that are applicable to the fifty percent of revenues not subject to the requirements of subsection (1) of this section. Any requirements for the expenditure of revenues from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program must be developed in consultation with electric utilities.
-(3) Electric utilities that participate in the clean fuels program must annually provide information to the department accounting for and briefly describing all expenditures of revenues generated from credits earned under the clean fuels program.
-(4) The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
-(a) "Renewable hydrogen" means hydrogen produced using renewable resources both as the source for the hydrogen and the source for the energy input into the production process.
-(b) "Renewable resource" means: (i) Water; (ii) wind; (iii) solar energy; (iv) geothermal energy; (v) renewable natural gas as defined in RCW 54.04.190; (vi) renewable hydrogen; (vii) wave, ocean, or tidal power; (viii) biodiesel fuel that is not derived from crops raised on land cleared from old growth or first growth forests where the clearing occurred after December 7, 2006; or (ix) biomass energy.
+1. [Empty]
+
+    a. Fifty percent of the revenues generated by an electric utility from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program must be expended by the electric utility on transportation electrification projects, which may include projects to support the production and provision of renewable hydrogen as a transportation fuel or used in the production of a transportation fuel.
+
+    b. Sixty percent of the revenues described in (a) of this subsection, or thirty percent of the revenues generated by an electric utility from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program, must be expended by the electric utility on transportation electrification projects, which may include projects to support the production and provision of renewable hydrogen as a transportation fuel or used in the production of a transportation fuel, located within or directly benefiting a federally designated nonattainment or maintenance area, a federally designated nonattainment or maintenance area that existed as of the effective date of this section, a disproportionately impacted community identified by the department of health, or an area designated by the department as being at risk of nonattainment, if such a nonattainment or maintenance area or disproportionately impacted community is within the service area of the utility.
+
+2. The department may adopt requirements for the expenditure of revenues from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program that are applicable to the fifty percent of revenues not subject to the requirements of subsection (1) of this section. Any requirements for the expenditure of revenues from credits earned from the electricity supplied to retail customers by an electric utility under the clean fuels program must be developed in consultation with electric utilities.
+
+3. Electric utilities that participate in the clean fuels program must annually provide information to the department accounting for and briefly describing all expenditures of revenues generated from credits earned under the clean fuels program.
+
+4. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Renewable hydrogen" means hydrogen produced using renewable resources both as the source for the hydrogen and the source for the energy input into the production process.
+
+    b. "Renewable resource" means: (i) Water; (ii) wind; (iii) solar energy; (iv) geothermal energy; (v) renewable natural gas as defined in RCW 54.04.190; (vi) renewable hydrogen; (vii) wave, ocean, or tidal power; (viii) biodiesel fuel that is not derived from crops raised on land cleared from old growth or first growth forests where the clearing occurred after December 7, 2006; or (ix) biomass energy.
+
 
 ## Section 10
-(1) Beginning May 1, 2025, and each May 1st thereafter, the department must post a report on the department's website that includes the following information regarding the previous calendar year of clean fuels program activities:
-(a) The program-wide number of credits and deficits generated by entities participating in the clean fuels program;
-(b) The volumes of each transportation fuel and average price per credit used to comply with the requirements of the clean fuels program;
-(c) The best estimate or range in probable costs or cost savings attributable to the clean fuels program per gallon of gasoline and per gallon of diesel, as determined by an independent consultant whose services the department has contracted. The estimate or range in probable costs or cost savings from the independent consultant must be announced in a press release to the news media at the time that the report under this subsection (1) is posted to the department's website, and must be simultaneously reported to the transportation committees of the house of representatives and the senate;
-(d) The total greenhouse gas emissions reductions attributable to the clean fuels program; and
-(e) The range in the probable cost per ton of greenhouse gas emissions reductions attributable to fuels supported by the clean fuels program, taking into account the information in (c) and (d) of this subsection.
-(2) Nothing in this section prohibits the department from posting information described in subsection (1) of this section on a more frequent basis than once per year.
-(3) By May 1, 2025, and each May 1st thereafter, the department must submit the report required under subsection (1) of this section to the appropriate committees of the house of representatives and senate.
+1. Beginning May 1, 2025, and each May 1st thereafter, the department must post a report on the department's website that includes the following information regarding the previous calendar year of clean fuels program activities:
+
+    a. The program-wide number of credits and deficits generated by entities participating in the clean fuels program;
+
+    b. The volumes of each transportation fuel and average price per credit used to comply with the requirements of the clean fuels program;
+
+    c. The best estimate or range in probable costs or cost savings attributable to the clean fuels program per gallon of gasoline and per gallon of diesel, as determined by an independent consultant whose services the department has contracted. The estimate or range in probable costs or cost savings from the independent consultant must be announced in a press release to the news media at the time that the report under this subsection (1) is posted to the department's website, and must be simultaneously reported to the transportation committees of the house of representatives and the senate;
+
+    d. The total greenhouse gas emissions reductions attributable to the clean fuels program; and
+
+    e. The range in the probable cost per ton of greenhouse gas emissions reductions attributable to fuels supported by the clean fuels program, taking into account the information in (c) and (d) of this subsection.
+
+2. Nothing in this section prohibits the department from posting information described in subsection (1) of this section on a more frequent basis than once per year.
+
+3. By May 1, 2025, and each May 1st thereafter, the department must submit the report required under subsection (1) of this section to the appropriate committees of the house of representatives and senate.
+
 
 ## Section 11
-(1) In consultation with the department and the department of agriculture, the department of commerce must develop a periodic fuel supply forecast to project the availability of fuels necessary for compliance with clean fuels program requirements.
-(2) Based upon the estimates in subsection (3) of this section, the fuel supply forecast must include a prediction by the department of commerce regarding whether sufficient credits will be available to comply with clean fuels program requirements.
-(3) The fuel supply forecast for each upcoming compliance period must include, but is not limited to, the following:
-(a) An estimate of the volume of each transportation fuel available in Washington;
-(b) An estimate of the total banked credits and deficits from previous compliance periods; and
-(c) An estimate of the number of credits needed to meet the applicable clean fuels program requirements during the forecasted compliance period.
-(4) The department of commerce must finalize a fuel supply forecast for an upcoming compliance period by no later than ninety days prior to the start of the compliance period.
+1. In consultation with the department and the department of agriculture, the department of commerce must develop a periodic fuel supply forecast to project the availability of fuels necessary for compliance with clean fuels program requirements.
+
+2. Based upon the estimates in subsection (3) of this section, the fuel supply forecast must include a prediction by the department of commerce regarding whether sufficient credits will be available to comply with clean fuels program requirements.
+
+3. The fuel supply forecast for each upcoming compliance period must include, but is not limited to, the following:
+
+    a. An estimate of the volume of each transportation fuel available in Washington;
+
+    b. An estimate of the total banked credits and deficits from previous compliance periods; and
+
+    c. An estimate of the number of credits needed to meet the applicable clean fuels program requirements during the forecasted compliance period.
+
+4. The department of commerce must finalize a fuel supply forecast for an upcoming compliance period by no later than ninety days prior to the start of the compliance period.
+
 
 ## Section 12
-(1) The department may require that persons that are required or elect to register or report under this chapter pay a fee. If the department elects to require program participants to pay a fee, the department must, after an opportunity for public review and comment, adopt rules to establish a process to determine the payment schedule and the amount of the fee charged. The amount of the fee must be set so as to equal but not exceed the projected direct and indirect costs to the department for developing and implementing the program and the projected direct and indirect costs to the department of commerce to carry out its responsibilities under section 11 of this act. The department and the department of commerce must prepare a biennial workload analysis and provide an opportunity for public review of and comment on the workload analysis. The department shall enter into an interagency agreement with the department of commerce to implement this section.
-(2) The clean fuels program account is created in the state treasury. All receipts from fees and penalties received under the program created in this chapter must be deposited into the account. Moneys in the account may be spent only after appropriation. The department may only use expenditures from the account for carrying out the program created in this chapter.
+1. The department may require that persons that are required or elect to register or report under this chapter pay a fee. If the department elects to require program participants to pay a fee, the department must, after an opportunity for public review and comment, adopt rules to establish a process to determine the payment schedule and the amount of the fee charged. The amount of the fee must be set so as to equal but not exceed the projected direct and indirect costs to the department for developing and implementing the program and the projected direct and indirect costs to the department of commerce to carry out its responsibilities under section 11 of this act. The department and the department of commerce must prepare a biennial workload analysis and provide an opportunity for public review of and comment on the workload analysis. The department shall enter into an interagency agreement with the department of commerce to implement this section.
+
+2. The clean fuels program account is created in the state treasury. All receipts from fees and penalties received under the program created in this chapter must be deposited into the account. Moneys in the account may be spent only after appropriation. The department may only use expenditures from the account for carrying out the program created in this chapter.
+
 
 ## Section 13
-(1) By December 1, 2029, the joint legislative audit and review committee must analyze the impacts of the initial five years of clean fuels program implementation and must submit a report summarizing the analysis to the legislature. The analysis must include, at minimum, the following components:
-(a) Costs and benefits, including environmental and public health costs and benefits, associated with this chapter for categories of persons participating in the clean fuels program or that are most impacted by air pollution, as defined in consultation with the departments of ecology and health and as measured on a census tract scale. This component of the analysis must, at minimum, assess the costs and benefits of changes in the following metrics since the start of the program:
-(i) Levels of greenhouse gas emissions and criteria air pollutants for which the United States environmental protection agency has established national ambient air quality standards;
-(ii) Fuel prices; and
-(iii) Total employment in categories of industries generating credits or deficits. The categories of industries assessed must include but are not limited to electric utilities, oil refineries, and other industries involved in the production of high carbon fuels, industries involved in the delivery and sale of high carbon fuels, biofuel refineries, and industries involved in the delivery and sale of low carbon fuels;
-(b) An evaluation of the information calculated and provided by the department under section 10(1) of this act; and
-(c) A summary of the estimated total statewide costs and benefits attributable to the clean fuels program, including state agency administrative costs and regulated entity compliance costs. For purposes of calculating the benefits of the program, the summary may rely, in part, on a constant value of the social costs attributable to greenhouse gas emissions, as identified in contemporary internationally accepted estimates of such global social cost. This summary must include an estimate of the total statewide costs of the program per ton of greenhouse gas emissions reductions achieved by the clean fuels program.
-(2) This section expires June 30, 2030.
+1. By December 1, 2029, the joint legislative audit and review committee must analyze the impacts of the initial five years of clean fuels program implementation and must submit a report summarizing the analysis to the legislature. The analysis must include, at minimum, the following components:
+
+    a. Costs and benefits, including environmental and public health costs and benefits, associated with this chapter for categories of persons participating in the clean fuels program or that are most impacted by air pollution, as defined in consultation with the departments of ecology and health and as measured on a census tract scale. This component of the analysis must, at minimum, assess the costs and benefits of changes in the following metrics since the start of the program:
+
+        i. Levels of greenhouse gas emissions and criteria air pollutants for which the United States environmental protection agency has established national ambient air quality standards;
+
+        ii. Fuel prices; and
+
+        iii. Total employment in categories of industries generating credits or deficits. The categories of industries assessed must include but are not limited to electric utilities, oil refineries, and other industries involved in the production of high carbon fuels, industries involved in the delivery and sale of high carbon fuels, biofuel refineries, and industries involved in the delivery and sale of low carbon fuels;
+
+    b. An evaluation of the information calculated and provided by the department under section 10(1) of this act; and
+
+    c. A summary of the estimated total statewide costs and benefits attributable to the clean fuels program, including state agency administrative costs and regulated entity compliance costs. For purposes of calculating the benefits of the program, the summary may rely, in part, on a constant value of the social costs attributable to greenhouse gas emissions, as identified in contemporary internationally accepted estimates of such global social cost. This summary must include an estimate of the total statewide costs of the program per ton of greenhouse gas emissions reductions achieved by the clean fuels program.
+
+2. This section expires June 30, 2030.
+
 
 ## Section 14
 > This section modifies existing section [46.25.100](/rcw/46_motor_vehicles/46.25_uniform_commercial_drivers_license_act.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.25_uniform_commercial_drivers_license_act.md) for context.
@@ -374,3 +513,4 @@ The department shall notify the transportation committees of the legislature if 
 
 ## Section 23
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

@@ -1,5 +1,6 @@
 # SB 5166 - Supp. transportation budget
-*Status: First reading, referred to Transportation.*
+*Status: First reading, referred to Transportation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5166&Year=2021)
+
 Making 2019-2021 supplemental transportation appropriations.
 
 ## Revisions

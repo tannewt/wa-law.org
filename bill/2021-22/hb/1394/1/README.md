@@ -1,6 +1,14 @@
 # House Bill 1394
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1394.xml)
+## Section 1
+> This section adds a new section to an existing chapter [9A.49](/rcw/09A_washington_criminal_code/9A.49_lasers.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.49_lasers.md) for context.
+
+1. A person is guilty of unlawful discharge of a laser in the first degree if he or she knowingly and maliciously discharges a laser at a person and as a result causes any form of full or partial visual or ophthalmic degradation to one or both eyes of that person.
+
+2. Unlawful discharge of a laser in the first degree is a class A felony.
+
+
 ## Section 2
 > This section modifies existing section [9A.49.020](/rcw/09A_washington_criminal_code/9A.49_lasers.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.49_lasers.md) for context.
 
@@ -549,4 +557,16 @@ Unlawful Use of Prohibited Aquatic Animal Species (RCW 77.15.253(3))
 Vehicle Prowl 1 (RCW 9A.52.095)
 
 Violating Commercial Fishing Area or Time 1 (RCW 77.15.550(3)(b))
+
+
+## Section 7
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+In a criminal case where:
+
+1. The defendant has been convicted of unlawful discharge of a laser in the first degree under section 1 of this act; and
+
+2. There has been a special allegation pleaded and proven beyond a reasonable doubt that the offense was committed against a law enforcement officer or other employee of a law enforcement agency who was performing his or her official duties at the time of the offense;
+
+the court shall make a finding of fact of the special allegation, or if a jury trial is had, the jury shall, if it finds the defendant guilty, also find a special verdict as to the special allegation.
 

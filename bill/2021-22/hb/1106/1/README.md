@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that Washington state has a Target Zero goal of no deaths on its highways. According to the traffic safety commission's 2019 Target Zero plan, "There has been no meaningful reduction in motorcycle fatalities for at least the last 15 years." Researchers at the safe transportation research and education center at the University of California Berkeley, after evaluating thousands of motorcycle collisions in California, concluded that "lane-splitting motorcyclists were much less often injured during their collisions. They were considerably less likely to suffer head injury, torso injury, extremity injury, and fatal injury than riders who were not lane-splitting." The legislature intends with this act to provide new options to save lives by giving operators of motorcycles a way to legally avoid being rear-ended by other vehicles.
 
+
 ## Section 2
 > This section modifies existing section [46.61.608](/rcw/46_motor_vehicles/46.61_rules_of_the_road.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.61_rules_of_the_road.md) for context.
 
@@ -20,3 +21,4 @@ The legislature finds that Washington state has a Target Zero goal of no deaths 
 
 ## Section 3
 This act may be known and cited as the lane sharing for safety act.
+

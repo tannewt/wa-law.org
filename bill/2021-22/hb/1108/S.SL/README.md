@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that whether mediation, reporting, and payment provisions of the foreclosure fairness act apply to any particular beneficiary in a given year is tied to the number of trustee's sales and number of notices of trustee's sale recorded in the preceding year. The legislature further finds that, due to the federal foreclosure moratorium in place from at least March of 2020 through December of 2020 and into the year 2021, it is likely that, absent legislative action, the mediation, reporting, and payment provisions of the foreclosure fairness act will apply to very few if any beneficiaries in calendar year 2021 or 2022 because the threshold numbers that trigger application of these provisions will not be met. The legislature therefore intends to put in place a temporary stopgap remedy so that vital assistance provisions of the foreclosure fairness act are not lost at the very time that foreclosure activity is likely to be increasing.
 
+
 ## Section 2
 > This section modifies existing section [61.24.005](/rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md). Here is the [modified chapter](rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md) for context.
 
@@ -293,9 +294,12 @@ RCW 61.24.163 does not apply to deeds of trust:
 
 
 ## Section 8
-(1) During the 2021 calendar year, the provisions of RCW 61.24.163 do not apply to any federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), that certifies to the department under penalty of perjury that it was not a beneficiary of deeds of trust in more than 250 trustee sales of owner-occupied residential real property that occurred in this state during 2019. A federally insured depository institution certifying that RCW 61.24.163 does not apply pursuant to this subsection must do so no later than 30 days after the effective date of this section.
-(2) During the 2022 calendar year, the provisions of RCW 61.24.163 do not apply to any federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), that certifies to the department under penalty of perjury that it was not a beneficiary of deeds of trust in more than 250 trustee sales of owner-occupied residential property that occurred in this state during 2019. A federally insured depository institution certifying that RCW 61.24.163 does not apply pursuant to this subsection must do so no later than January 31, 2022.
-(3) This section expires December 31, 2022.
+1. During the 2021 calendar year, the provisions of RCW 61.24.163 do not apply to any federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), that certifies to the department under penalty of perjury that it was not a beneficiary of deeds of trust in more than 250 trustee sales of owner-occupied residential real property that occurred in this state during 2019. A federally insured depository institution certifying that RCW 61.24.163 does not apply pursuant to this subsection must do so no later than 30 days after the effective date of this section.
+
+2. During the 2022 calendar year, the provisions of RCW 61.24.163 do not apply to any federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), that certifies to the department under penalty of perjury that it was not a beneficiary of deeds of trust in more than 250 trustee sales of owner-occupied residential property that occurred in this state during 2019. A federally insured depository institution certifying that RCW 61.24.163 does not apply pursuant to this subsection must do so no later than January 31, 2022.
+
+3. This section expires December 31, 2022.
+
 
 ## Section 9
 > This section modifies existing section [61.24.172](/rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md). Here is the [modified chapter](rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md) for context.
@@ -333,8 +337,40 @@ The department shall enter into interagency agreements to contract with the Wash
 8. **After the effective date of section 11 of this act, the requirements of this section apply only with respect to notices of trustee's sale for which remittance and reporting on a notice of default for that same residential real property was not made pursuant to section 11 of this act.**
 
 
+## Section 11
+> This section adds a new section to an existing chapter [61.24](/rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md). Here is the [modified chapter](rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md) for context.
+
+1. Except as provided in subsections (6) and (7) of this section, beginning January 1, 2022, and every quarter thereafter, every beneficiary issuing notices of default, or causing notices of default to be issued on its behalf, on residential real property under this chapter must:
+
+    a. Report to the department, on a form approved by the department, the total number of residential real properties for which the beneficiary has issued a notice of default during the previous quarter, together with the street address, city, and zip code;
+
+    b. Remit the amount required under subsection (2) of this section; and
+
+    c. Report and update beneficiary contact information for the person and work group responsible for the beneficiary's compliance with the requirements of the foreclosure fairness act created in this chapter.
+
+2. For each residential real property for which a notice of default has been issued, the beneficiary issuing the notice of default, or causing the notice of default to be issued on the beneficiary's behalf, shall remit $250 to the department to be deposited, as provided under RCW 61.24.172, into the foreclosure fairness account. The $250 payment is required per property and not per notice of default. The beneficiary shall remit the total amount required in a lump sum each quarter.
+
+3. Reporting and payments under subsections (1) and (2) of this section are due within 45 days of the end of each quarter.
+
+4. For purposes of this section, "residential real property" includes residential real property with up to four dwelling units, whether or not the property or any part thereof is owner occupied.
+
+5. The department, including its officials and employees, may not be held civilly liable for damages arising from any release of information or the failure to release information related to the reporting required under this section, so long as the release was without gross negligence.
+
+6. Beginning on January 1, 2023, this section does not apply to any beneficiary or loan servicer that is a federally insured depository institution, as defined in 12 U.S.C. Sec. 461(b)(1)(A), and that certifies under penalty of perjury that it has issued, or has directed a trustee or authorized agent to issue, fewer than 250 notices of default in the preceding year.
+
+7. This section does not apply to association beneficiaries subject to chapter 64.32, 64.34, or 64.38 RCW.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [42.56](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
+
+Information obtained by the department of commerce under section 11 of this act that reveals the name or other personal information of the borrower or the street address of the residential real property on which a notice of default was issued is exempt from disclosure under this chapter.
+
+
 ## Section 13
 RCW 61.24.173 (Required payment for each property subject to notice of trustee's sale—Residential real property—Exceptions—Deposit into foreclosure fairness account) and 2018 c 306 s 7 & 2016 c 196 s 2 are each repealed.
 
+
 ## Section 14
 The repeal in section 13 of this act does not affect any existing right acquired or liability or obligation incurred under the section repealed or under any rule or order adopted under that section, nor does it affect any proceeding instituted under that section.
+

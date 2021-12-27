@@ -1,5 +1,6 @@
 # SB 5229 - Health equity continuing ed.
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5229&Year=2021)
+
 Concerning health equity continuing education for health care professionals.
 
 ## Revisions

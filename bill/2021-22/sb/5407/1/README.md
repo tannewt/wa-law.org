@@ -1,6 +1,30 @@
 # Senate Bill 5407
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5407.xml)
+## Section 1
+> This section adds a new section to an existing chapter [9A.56](/rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md) for context.
+
+1. A person is guilty of theft of a firearm from a residence, store, shop, sales outlet, or vehicle if he or she commits a theft of any firearm from a residence, store, shop, or sales outlet where firearms are sold, or from any vehicle.
+
+2. This section applies regardless of the value of the firearm taken in the theft.
+
+3. Each firearm taken in the theft under this section is a separate offense.
+
+4. [Empty]
+
+    a. For the purposes of this section, "theft" has the same meaning as defined in RCW 9A.56.020.
+
+    b. The defense allowed against the prosecution for theft under RCW 9A.56.020 shall apply to the crime of theft of a firearm.
+
+5. For the purposes of this section:
+
+    a. "Firearm" means any firearm as defined in RCW 9.41.010.
+
+    b. "Vehicle" means any vehicle as defined in RCW 46.04.670.
+
+6. Theft of a firearm from a residence, store, shop, sales outlet, or vehicle is a class B felony.
+
+
 ## Section 2
 > This section modifies existing section [9.94A.515](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
 

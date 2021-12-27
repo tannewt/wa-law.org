@@ -1,6 +1,20 @@
 # Substitute House Bill 1194 as Recommended by Children, Youth & Families
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1194-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [13.34](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
+
+1. If a child is placed out of the home of a parent, guardian, or legal custodian following a shelter care hearing, the court shall order the petitioner to provide regular visitation with the parent, guardian, or legal custodian, and siblings. Early, consistent, and frequent visitation is crucial for maintaining parent-child relationships and allowing family reunification. The court shall order a visitation plan individualized to the needs of the family with a goal of providing the maximum parent, child, and sibling contact possible.
+
+2. Visitation under this section shall not be limited as a sanction for a parent's failure to comply with recommended services during shelter care.
+
+3. Visitation under this section may only be limited where necessary to ensure the health, safety, or welfare of the child.
+
+4. The first visit under this section must take place within 72 hours of removal, unless the court finds that extraordinary circumstances require delay.
+
+5. The court shall advise the petitioner that the failure to provide court-ordered visitation may result in a finding at the dispositional hearing that the petitioner failed to make reasonable efforts to finalize the permanency plan. The lack of sufficient contracted visitation providers will not excuse the failure to provide court-ordered visitation.
+
+
 ## Section 2
 > This section modifies existing section [13.34.067](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
 

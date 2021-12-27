@@ -4,65 +4,156 @@
 ## Section 1
 This act may be known and cited as the free and fair elections act of 2021.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [29A.04](/rcw/29A_elections/29A.04_general_provisions.md). Here is the [modified chapter](rcw/29A_elections/29A.04_general_provisions.md) for context.
+
+"Polling place voting" means voting conducted at polling places for precincts.
+
+
 ## Section 3
-(1) Counties must establish polling place voting in each precinct within the county.
-(2) If no polling place facilities are available within a precinct, precinct election officers must work with county election officers to establish an alternate polling place outside the precinct. However, the alternate facility must be located within a reasonable distance of the voting precinct.
+1. Counties must establish polling place voting in each precinct within the county.
+
+2. If no polling place facilities are available within a precinct, precinct election officers must work with county election officers to establish an alternate polling place outside the precinct. However, the alternate facility must be located within a reasonable distance of the voting precinct.
+
 
 ## Section 4
 Upon establishing polling place voting pursuant to section 3 of this act, the county election officers must provide pertinent information regarding polling place locations and voting procedures to county voters.
 
+
 ## Section 5
 Polling places must be accessible to elderly and disabled persons.
+
 
 ## Section 6
 A person may not interfere with a voter attempting to vote at a polling place. Interfering with a voter attempting to vote is a violation of RCW 29A.84.510.
 
+
 ## Section 7
 Any voter may take into the voting booth or voting device any printed or written material to assist in casting his or her vote. A voter must not use this material to electioneer and must remove the material when he or she leaves the polling place.
+
 
 ## Section 8
 At any election or primary, a political party may designate a person, other than a precinct election officer, for each polling place to check a list of registered voters of the precinct to determine who has and who has not voted. The county central committee chair of a political party may appoint election observers to observe elections at polling places.
 
+
 ## Section 9
 Ballots may not be used in any polling place other than those prepared by the county election officer. A voter is not entitled to vote more than once at a primary or election, except that if a voter incorrectly marks a ballot, he or she may return it and be issued a new ballot. Precinct election officers shall void incorrectly marked ballots and return them to the county election officer.
+
 
 ## Section 10
 Paper records produced by electronic voting devices are subject to all the requirements of this chapter and chapter 29A.60 RCW for ballot handling, preservation, reconciliation, transit to the counting center, and storage. Paper records must be preserved in the same manner and for the same period as ballots.
 
+
 ## Section 11
-(1) At the direction of the county election officer, designated election officers must stop at designated polling places and pick up sealed containers of voted, untallied ballots for delivery to the counting center. Two precinct election officers must seal the voted ballots in containers furnished by the county election officer and properly identified with uniquely prenumbered seals.
-(2) At the counting center where sealed ballot containers are delivered, the county election officer or a designated representative must receive the sealed ballot containers, record the time, date, precinct name or number, and seal number of each ballot container.
+1. At the direction of the county election officer, designated election officers must stop at designated polling places and pick up sealed containers of voted, untallied ballots for delivery to the counting center. Two precinct election officers must seal the voted ballots in containers furnished by the county election officer and properly identified with uniquely prenumbered seals.
+
+2. At the counting center where sealed ballot containers are delivered, the county election officer or a designated representative must receive the sealed ballot containers, record the time, date, precinct name or number, and seal number of each ballot container.
+
 
 ## Section 12
 The county election officer must provide in each polling place a sufficient number of voting booths or voting devices along with any supplies necessary to enable voters to mark or register their choices on ballots and cast their votes in secrecy.
 
+
 ## Section 13
-(1) During election day for all primaries and elections, polling places must be kept open continuously from 7:00 a.m. to 8:00 p.m.
-(2) All qualified electors who are at polling places at eight o'clock p.m. must be allowed to cast their votes.
-(3) The precinct election officers, immediately before they start to issue ballots or permit a voter to vote, shall announce that the polling place for that precinct is open. At 8:00 p.m., or at the time when all qualified electors at the polling place pursuant to subsection (2) of this section have voted, the precinct election officers shall announce that the polling place for that precinct is closed.
+1. During election day for all primaries and elections, polling places must be kept open continuously from 7:00 a.m. to 8:00 p.m.
+
+2. All qualified electors who are at polling places at eight o'clock p.m. must be allowed to cast their votes.
+
+3. The precinct election officers, immediately before they start to issue ballots or permit a voter to vote, shall announce that the polling place for that precinct is open. At 8:00 p.m., or at the time when all qualified electors at the polling place pursuant to subsection (2) of this section have voted, the precinct election officers shall announce that the polling place for that precinct is closed.
+
 
 ## Section 14
 A registered voter may not be allowed to vote in the precinct in which he or she is registered at any election or primary for which that voter has cast an absentee ballot. A registered voter who has requested an absentee ballot for a primary or election, but chooses to vote at the voter's precinct polling place in that primary or election, must cast a provisional ballot. The canvassing board must not count a provisional ballot if it finds that the voter has also voted by mail in that primary or election.
 
+
 ## Section 15
 No later than the day before a primary or election, the county election officer must provide to precinct election officers at each polling place the following materials:
-(1) Ballots;
-(2) Precinct list of registered voters;
-(3) Voting and registration instructions, printed in large type, to be conspicuously displayed at each polling place; and
-(4) Accessible voting equipment.
+
+1. Ballots;
+
+2. Precinct list of registered voters;
+
+3. Voting and registration instructions, printed in large type, to be conspicuously displayed at each polling place; and
+
+4. Accessible voting equipment.
+
 
 ## Section 16
 Precinct election officers for each precinct must meet at designated polling places at the time set by the county election officer.
 
+
 ## Section 17
-(1) Before opening the polling place for a precinct, the voting equipment must be inspected to determine if it has been properly prepared for voting. If the voting equipment is capable of direct tabulation of each voter's choices, the precinct election officers shall verify that no votes have been registered for any issue or office to be voted on at that primary or election. The precinct election officers must periodically examine the voting devices to determine that no one has tampered with the devices.
-(2) Any ballot box must be carefully examined by election officers to determine that it is empty. The ballot box must then be sealed or locked. The ballot box must not be opened before the polling place is closed on the day of the primary or election.
+1. Before opening the polling place for a precinct, the voting equipment must be inspected to determine if it has been properly prepared for voting. If the voting equipment is capable of direct tabulation of each voter's choices, the precinct election officers shall verify that no votes have been registered for any issue or office to be voted on at that primary or election. The precinct election officers must periodically examine the voting devices to determine that no one has tampered with the devices.
+
+2. Any ballot box must be carefully examined by election officers to determine that it is empty. The ballot box must then be sealed or locked. The ballot box must not be opened before the polling place is closed on the day of the primary or election.
+
 
 ## Section 18
 At all primaries and elections, the flag of the United States must be conspicuously displayed in front of each polling place.
 
+
 ## Section 19
 Any voting equipment approved by the office of the secretary of state for voting in a polling place must be capable of producing a paper record with a manual audit capacity for the system.
+
+
+## Section 21
+> This section adds a new section to an existing chapter [29A.08](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
+
+1. Any person desiring to vote at any primary or election is required to provide identification to the election officer before signing the poll book. The identification required in this section can be satisfied by providing a valid photo identification, such as a driver's license or state identification card, student identification card, or tribal identification card, or a voter's voter identification issued by a county election officer.
+
+2. Any individual who desires to vote in person but cannot provide identification as required by this section must be issued a provisional ballot.
+
+3. The secretary of state may adopt rules to carry out this section.
+
+
+## Section 22
+> This section adds a new section to an existing chapter [29A.08](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
+
+1. Each county auditor shall provide at least one place in the county at which it accepts applications for and issues Washington voter identification cards to registered Washington electors, which are under state law valid only for purposes of voter identification under section 21 of this act and available only to registered electors of this state. No fee may be charged or collected for the application for or issuance of a Washington voter identification card.
+
+2. No person is eligible for a Washington voter identification card if such person has a valid unexpired driver's license or identification card issued under chapter 46.20 RCW.
+
+3. The Washington voter identification card must be captioned "WASHINGTON VOTER IDENTIFICATION CARD" and must contain a prominent statement that under Washington law it is valid only as identification for voting purposes. The Washington voter identification card must be laminated, must contain a digital color photograph of the applicant, and must include the following information:
+
+    a. Full legal name;
+
+    b. Address of residence;
+
+    c. Date of birth;
+
+    d. Date identification card was issued;
+
+    e. Sex;
+
+    f. Height;
+
+    g. Weight;
+
+    h. Eye color;
+
+    i. County where the identification card was issued, including a county number to be assigned for each county by the secretary of state; and
+
+    j. Such other information or identification as required by rule of the secretary of state.
+
+4. The application for a Washington voter identification card must elicit the information required under subsection (3) of this section and such other information as may be required by the secretary of state. The application must be signed and affirmed by the applicant. It is a misdemeanor for any applicant to make a false statement or knowingly conceal a material fact or otherwise commit a fraud in an application for a Washington voter identification card.
+
+5. The following information must be presented and verified before a Washington voter identification card is issued:
+
+    a. A photo identity document, or a nonphoto identity document which includes the applicant's full legal name and date of birth;
+
+    b. Documentation showing the person's date of birth;
+
+    c. Evidence that the person is registered to vote in Washington; and
+
+    d. Documentation showing the person's name and address of principal residence.
+
+6. A Washington voter identification card remains valid so long as a person resides in the same county and remains qualified to vote. It is the duty of a person who moves his or her residence within the state outside of the county in which a Washington voter identification card was issued to surrender his or her card to the auditor of the county of his or her new residence; and such person may, after such surrender, apply for and receive a new card if such person is otherwise eligible under this section. It is the duty of a person who moves his or her residence outside the state or who ceases to be qualified to vote to surrender his or her card to the county auditor by which it was issued.
+
+7. The secretary of state shall provide each county auditor with the necessary equipment, forms, supplies, and training for the production of the Washington voter identification cards and shall maintain such equipment.
+
+8. The secretary of state may adopt rules for the implementation of this section.
+
 
 ## Section 23
 > This section modifies existing section [29A.40.160](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
@@ -172,6 +263,84 @@ Any voting equipment approved by the office of the secretary of state for voting
 5. The county auditor's name may not appear on the security envelope, the return envelope, or on any voting instructions or materials included with the ballot if he or she is a candidate for office during the same year.
 
 6. For purposes of this section, "prepaid postage" means any method of return postage paid by the county or state.
+
+
+## Section 28
+> This section adds a new section to an existing chapter [29A.40](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
+
+1. Each county auditor shall maintain in his or her office, open for public inspection, a record of the requests he or she has received for absentee ballots under this chapter.
+
+2. The information from the requests must be recorded and lists of this information must be available no later than twenty-four hours after their receipt.
+
+3. This information about absentee voters must be available according to the date of the requests and by legislative district. It must include the name of each applicant, the address and precinct in which the voter maintains a voting residence, the date on which an absentee ballot was issued to this voter, if applicable, the type of absentee ballot, and the address to which the ballot was or is to be mailed, if applicable.
+
+4. The auditor shall make copies of these records available to the public for the actual cost of production and copying.
+
+
+## Section 29
+> This section adds a new section to an existing chapter [29A.40](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
+
+The qualifications of any absentee voter may be challenged before the voted ballot is received. The canvassing board has the authority to determine the legality of any absentee ballot challenged under this section. Challenged ballots must be handled in accordance with chapter 29A.08 RCW.
+
+
+## Section 30
+> This section adds a new section to an existing chapter [29A.40](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
+
+The information on the envelopes or instructions for overseas voters and service voters must explain that:
+
+1. Return postage is free if the ballot is mailed through the United States postal service, United States armed forces postal service, or the postal service of a United States foreign embassy;
+
+2. The date of the signature is considered the date of mailing;
+
+3. The envelope must be signed by election day;
+
+4. The signed declaration on the envelope is the equivalent of voter registration;
+
+5. A voter may fax a voted ballot and the accompanying envelope if the voter agrees to waive secrecy. The ballot will be counted if the original documents are received before the certification of the election; and
+
+6. A voter may obtain a ballot via electronic mail, which the voter may print out, vote, and return by mail. In order to facilitate the electronic acquisition of ballots by overseas and service voters, the ballot instructions must include the web site of the office of the secretary of state.
+
+
+## Section 31
+> This section adds a new section to an existing chapter [29A.40](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
+
+1. A person who knowingly collects voted or unvoted absentee ballots from another person is guilty of a class C felony punishable under RCW 9A.20.021. An election official, a United States postal service worker, or any other person who is allowed by law to transmit United States mail is deemed not to have collected an early ballot if the official, worker, or other person is engaged in official duties.
+
+2. This section does not apply to a:
+
+    a. Family member;
+
+    b. Household member; or
+
+    c. Caregiver, of the voter.
+
+3. For the purposes of this section:
+
+    a. "Caregiver" means a person who provides medical or health care assistance to the voter in a residence, nursing care institution, hospice facility, assisted living center, assisted living facility, assisted living home, residential care institution, adult day health care facility, or adult foster care home.
+
+    b. "Collects" means to gain possession or control of an early ballot.
+
+    c. "Family member" means a person who is related to the voter by blood, marriage, adoption, or legal guardianship.
+
+    d. "Household member" means a person who resides at the same residence as the voter.
+
+
+## Section 32
+> This section adds a new section to an existing chapter [29A.08](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
+
+1. In order to vote in any primary, special election, or general election, a person who is not registered to vote in Washington must submit a registration application that is physically or electronically received by an election official no later than the close of business 14 days before the day of the primary, special election, or general election.
+
+2. [Empty]
+
+    a. In order to change a residence address for voting in any primary, special election, or general election, a person who is already registered to vote in Washington may update his or her registration by:
+
+        i. Submitting an address change using a registration application or making notification via any non-in-person method that is received by election officials no later than the close of business 14 days before the day of the primary, special election, or general election; or
+
+        ii. Appearing in person, at a county auditor's office, the division of elections if in a separate city from the county auditor's office, a voting center, or other location designated by the county auditor, no later than the close of business 14 days before the day of the primary, special election, or general election to be in effect for that primary, special election, or general election.
+
+    b. A registered voter who fails to update his or her residential address by this deadline may vote according to his or her previous registration address.
+
+3. To register or update a voting address in person at a county auditor's office, a voting center, or other location designated by the county auditor, a person must appear in person at a county auditor's office, a voting center, or other location designated by the county auditor at a time when the facility is open and complete the voter registration application by providing the information required by RCW 29A.08.010.
 
 
 ## Section 33

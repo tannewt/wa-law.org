@@ -1,5 +1,6 @@
 # HB 1176 - Student fines and fees
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1176&Year=2021)
+
 Concerning access to higher education.
 
 ## Revisions

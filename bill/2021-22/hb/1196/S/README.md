@@ -341,17 +341,38 @@ Unless the context clearly indicates otherwise, the following terms, whenever us
     j. "Telemedicine" means the delivery of health care services through the use of interactive audio and video technology, permitting real-time communication between the patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "telemedicine" **includes** audio-only **telemedicine**, **but does not include** facsimile or email.
 
 
+## Section 6
+> This section adds a new section to an existing chapter [74.09](/rcw/74_public_assistance/74.09_medical_care.md). Here is the [modified chapter](rcw/74_public_assistance/74.09_medical_care.md) for context.
+
+1. The authority shall adopt rules regarding medicaid fee-for-service reimbursement for services delivered through audio-only telemedicine. Except as provided in subsection (2) of this section, the rules must establish a manner of reimbursement for audio-only telemedicine that is consistent with RCW 74.09.325.
+
+2. The rules shall require rural health clinics to be reimbursed for audio-only telemedicine at the encounter rate.
+
+3. For purposes of this section, "audio-only telemedicine" means the delivery of health care services through the use of audio-only telephone technology, permitting real-time communication between a patient at the originating site and the provider, for the purpose of diagnosis, consultation, or treatment. For purposes of this section only, "audio-only telemedicine" does not include the use of facsimile or email.
+
+
 ## Section 7
-(1) The insurance commissioner, in collaboration with the Washington state telehealth collaborative and the health care authority, shall study and make recommendations regarding:
-(a) Preliminary utilization trends for audio-only telemedicine;
-(b) Qualitative data from health carriers, including medicaid managed care organizations, on the burden of compliance and enforcement requirements for audio-only telemedicine;
-(c) Preliminary information regarding whether requiring reimbursement for audio-only telemedicine has affected the incidence of fraud;
-(d) Proposed methods to measure the impact of audio-only telemedicine on access to health care services for historically underserved communities and geographic areas;
-(e) In consultation with the department of labor and industries, the extent to which telemedicine reimbursement requirements should be extended to industrial insurance and other programs administered by the department of labor and industries;
-(f) An evaluation of the relative costs to providers and facilities of providing audio-only telemedicine services as compared to audio-video telemedicine services and in-person services; and
-(g) Any other issues the insurance commissioner deems appropriate.
-(2) The insurance commissioner must report his or her findings and recommendations to the appropriate committees of the legislature by November 15, 2023.
-(3) This section expires January 1, 2024.
+1. The insurance commissioner, in collaboration with the Washington state telehealth collaborative and the health care authority, shall study and make recommendations regarding:
+
+    a. Preliminary utilization trends for audio-only telemedicine;
+
+    b. Qualitative data from health carriers, including medicaid managed care organizations, on the burden of compliance and enforcement requirements for audio-only telemedicine;
+
+    c. Preliminary information regarding whether requiring reimbursement for audio-only telemedicine has affected the incidence of fraud;
+
+    d. Proposed methods to measure the impact of audio-only telemedicine on access to health care services for historically underserved communities and geographic areas;
+
+    e. In consultation with the department of labor and industries, the extent to which telemedicine reimbursement requirements should be extended to industrial insurance and other programs administered by the department of labor and industries;
+
+    f. An evaluation of the relative costs to providers and facilities of providing audio-only telemedicine services as compared to audio-video telemedicine services and in-person services; and
+
+    g. Any other issues the insurance commissioner deems appropriate.
+
+2. The insurance commissioner must report his or her findings and recommendations to the appropriate committees of the legislature by November 15, 2023.
+
+3. This section expires January 1, 2024.
+
 
 ## Section 8
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

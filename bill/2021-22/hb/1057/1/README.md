@@ -4,6 +4,7 @@
 ## Section 1
 Stationary air sources that emit noxious odors or other air contaminants have repeatedly been found to impair the ability of the public to utilize publicly owned recreational facilities, parks, and common spaces. The legislature finds that unimpaired use of publicly owned open spaces is important for public health. Enforcement of the clean air act's prohibition on air pollution in the context of the public's enjoyment of publicly owned spaces has been difficult due to uncertainty concerning the scope of the term "enjoyment of life and property" as used in the clean air act's definition of "pollution." Therefore, it is the intent of the legislature to clarify that unreasonable interference with enjoyment of life and property, as those terms are used in the clean air act, includes unreasonable interference with the public's enjoyment and use of public properties including, but not limited to, bicycle or pedestrian trails, parks, and town commons.
 
+
 ## Section 2
 > This section modifies existing section [70A.15.1030](/rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md) for context.
 

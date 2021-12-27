@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5383.xml)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has made it clear that equitable access to education can only happen with equitable access to reliable broadband. Under Article IX, section 1 of the state Constitution, it is the paramount duty of the state to make ample provision for the education of all children residing within the state of Washington. Increasing broadband access to unserved areas of the state is of vital importance to increasing educational opportunities in the parts of our state that without broadband access cannot safely participate in our educational system.
+
 The legislature further finds that in order to achieve our constitutional duty to provide equitable access to education, we must allow our public utility districts to provide retail telecommunications services to people in an area where no broadband provider is serving or has plans to serve in the near future.
+
 
 ## Section 2
 > This section modifies existing section [54.16.330](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
@@ -89,4 +91,10 @@ The legislature further finds that in order to achieve our constitutional duty t
         ii. **An analysis on the effectiveness of the broadband service plans required in RCW 54.16.330(10); and**
 
         iii. **Any recommendations to improve the provision of retail telecommunications services in unserved areas.**
+
+
+## Section 4
+> This section adds a new section to an existing chapter [42.56](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
+
+A broadband service plan submitted by a broadband service provider to the governor's statewide broadband office established in RCW 43.330.532 in accordance with the requirements under RCW 54.16.330(10) are exempt from disclosure under this chapter.
 

@@ -1,5 +1,6 @@
 # HB 1365 - Schools/computers & devices
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1365&Year=2021)
+
 Procuring and supporting appropriate computers and devices for public school students and instructional staff.
 
 ## Revisions

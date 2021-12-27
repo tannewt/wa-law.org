@@ -4,10 +4,62 @@
 ## Section 1
 The legislature finds that some communities are encountering negative impacts to the environment and water quality caused when people are unable to find permanent housing. There is a need to improve government accountability by focusing resources on the problem of illicit dischargers of wastewater into storm drains that flow into critical aquifers that provide drinking water, bodies of water, flood ways, and flood zones. This act provides some tools to help communities address issues surrounding illicit discharges connected to vehicles setting up residence on public property never intended for this purpose. This act adds flexibility to existing funding sources, keeping in mind the restrictions of Article VIII, section 7 of the state Constitution that aid can be provided to support the poor and infirm, and empowers the department of ecology and local governments to apply meaningful enforcement that results in improved conditions and safer communities.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [90.48](/rcw/90_water_rights—environment/90.48_water_pollution_control.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.48_water_pollution_control.md) for context.
+
+1. As a supplementary component of the requirements of municipal stormwater permits issued under this chapter, each permittee must establish a program to identify and prevent illicit discharges from vehicles used as residences into critical aquifers, municipal stormwater systems, and connected waters in portions of the jurisdiction covered by the permit that include the activities described in sections 3 and 4 of this act.
+
+2. Each permittee must establish a program to identify and report to the department locations where there is a substantial potential for pollution from illicit discharges arising from people residing in vehicles that are parked overnight in parking lots or on public rights-of-way and highways as defined in RCW 47.04.010 that are near sources of drinking water, critical aquifers, and stormwater drains that flow directly to flood plains or waters of the state. The program may include:
+
+    a. Notification and outreach to operators or inhabitants of vehicles regarding available options for the safe and legal disposal of wastewater;
+
+    b. Enforcement of the provisions of section 3 of this act;
+
+    c. The provision of wastewater disposal options consistent with section 4 of this act; and
+
+    d. Orders for vehicles to be moved while providing other locations to legally park.
+
+3. For the purposes of this section, "permittee" means a city or county that is required to obtain a municipal stormwater general permit issued by the department under this chapter.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [90.48](/rcw/90_water_rights—environment/90.48_water_pollution_control.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.48_water_pollution_control.md) for context.
+
+1. Local governments may enact an ordinance to prohibit overnight parking of recreational vehicles or other motor vehicles to prevent the illicit discharge of human waste or other chemicals from vehicles on public rights-of-way, highways, or parking lots that are adjacent to critical aquifers, state waters, or stormwater infrastructure that connects directly to state waters without pretreatment.
+
+2. The provisions of subsection (1) of this section do not apply to locations featuring on-site infrastructure intended to allow the pumpout or draining of wastewater from recreational vehicles.
+
+3. Local governments may conduct outreach focused for persons that own, operate, or inhabit a vehicle in violation of subsection (1) of this section. Outreach offered under this subsection may include personal interactions or the conspicuous placement of notices on vehicle entry doors or windshields, with the intention of informing the person regarding available wastewater disposal options, other locations to park that are less environmentally sensitive, or information about services that provide housing. Information provided to persons in violation of subsection (1) of this section must include information regarding the location of nearby facilities or services allowing for the disposal of wastewater from recreational vehicles, and the cost of such service, if this information is available.
+
+4. [Empty]
+
+    a. There is a presumption that a substantial potential to pollute exists, consistent with the standard in RCW 90.48.120(1), when a vehicle is allowed to park overnight for more than 24 hours with a person residing in the vehicle.
+
+    b. In addition to the authority granted to the department in RCW 90.48.120, a local government may notify a person who owns, operates, or inhabits a vehicle described in subsection (1) of this section of the local government's determination that there is a substantial potential of violation of the provisions of this chapter. The local government may direct that the vehicle be moved. The ordinance may provide anywhere from 24 hours to seven days' notice before a violation will be issued under this section dependent on the threat to public and environmental health particular to the circumstances. If a motor vehicle is equipped with wastewater storage capacity, the local government may allow a person to produce a copy of a receipt or other credible evidence demonstrating that the person used available legal wastewater disposal options for the vehicle either after receiving the notice or in the 14 days prior to receiving the notice. The failure to cease parking in targeted portions of a jurisdiction or to file a copy of a receipt or other credible evidence with the local government after receiving a notice of determination is subject to a class 3 civil infraction under RCW 7.80.120.
+
+    c. Local governments are encouraged to prioritize enforcement in areas near drinking water sources, critical aquifers, and where elevated levels of fecal coliform have been found in receiving waters or stormwater infrastructure.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [90.48](/rcw/90_water_rights—environment/90.48_water_pollution_control.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.48_water_pollution_control.md) for context.
+
+1. In order to address illicit discharges of wastewater from motor vehicles equipped with wastewater storage capacity, each city with a population of at least 600,000, as determined by the office of financial management, must either:
+
+    a. Make available and post information on its website regarding facilities or services allowing for low-cost or no-cost disposal of domestic wastewater from recreational vehicle and other motor vehicle wastewater storage tanks; or
+
+    b. Post information on the city's website regarding privately owned resources within the jurisdictional boundaries of the city that provide services specified in (a) of this subsection to the public.
+
+2. Local governments not subject to the provisions in subsection (1) of this section are authorized to provide such services as well.
+
+
 ## Section 5
-(1) The department of ecology must compile and make available on its website a resource that lists or maps locations where the pumpout of domestic wastewater is made available for vehicles at low-cost or no-cost to the vehicle operator.
-(2) The department of ecology must investigate water quality impacts associated with concentrations of vehicles reported to the department of ecology by cities and counties and the department of transportation, continue monitoring areas of concern, and take appropriate action to reduce or stop illicit discharges and to mitigate negative impacts of illicit discharges using available resources.
-(3) The department of ecology and the Washington state patrol may enforce the provisions of this chapter with respect to illicit discharges as provided in RCW 90.48.144.
+1. The department of ecology must compile and make available on its website a resource that lists or maps locations where the pumpout of domestic wastewater is made available for vehicles at low-cost or no-cost to the vehicle operator.
+
+2. The department of ecology must investigate water quality impacts associated with concentrations of vehicles reported to the department of ecology by cities and counties and the department of transportation, continue monitoring areas of concern, and take appropriate action to reduce or stop illicit discharges and to mitigate negative impacts of illicit discharges using available resources.
+
+3. The department of ecology and the Washington state patrol may enforce the provisions of this chapter with respect to illicit discharges as provided in RCW 90.48.144.
+
 
 ## Section 6
 > This section modifies existing section [90.48.144](/rcw/90_water_rights—environment/90.48_water_pollution_control.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.48_water_pollution_control.md) for context.

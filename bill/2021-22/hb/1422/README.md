@@ -1,5 +1,6 @@
 # HB 1422 - Sexual health ed./dates
-*Status: First reading, referred to Education.*
+*Status: First reading, referred to Education.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1422&Year=2021)
+
 Extending comprehensive sexual health education compliance dates by one year.
 
 ## Revisions

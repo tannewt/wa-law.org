@@ -4,6 +4,7 @@
 ## Section 101
 The legislature finds that the assets in the local law enforcement officers' and firefighters' retirement system benefits improvement account, when combined with the excess funding in the law enforcement officers' and firefighters' plan 2 retirement fund, are sufficient to fund a benefit improvement for members of the law enforcement officers' and firefighters' plan 2 without increasing the short-term cost for members, employers, or the state. As such, it is the intent of the legislature to increase the retirement allowance for active members with more than 15 years of service and to provide a one-time payment to retired members.
 
+
 ## Section 102
 > This section modifies existing section [41.26.802](/rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md) for context.
 
@@ -28,6 +29,20 @@ The legislature finds that the assets in the local law enforcement officers' and
     c. **Two percent of such member's final average salary for years of service above 26.**
 
 
+## Section 104
+> This section adds a new section to an existing chapter [41.26](/rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md) for context.
+
+1. Law enforcement officers' and firefighters' plan 2 retirees with at least 15 years of service credit, and the beneficiary of a retiree with at least 15 years of service credit that is eligible for benefits under the plan 2 provisions of this chapter, on the effective date of this section shall be eligible to receive the plan 2 lump sum defined benefit pursuant to the conditions established in this section.
+
+2. A law enforcement officers' and firefighters' plan 2 beneficiary that was eligible for a death benefit under RCW 41.26.048 and the plan 2 provisions of this chapter, on the effective date of this section shall be eligible to receive the plan 2 lump sum defined benefit pursuant to the conditions established in this section.
+
+3. The lump sum defined benefit is $20,000 per eligible member or survivor, payable on January 3, 2022. In the case of multiple survivor beneficiaries, the lump sum defined benefit shall be divided equally.
+
+4. If a member dies after the effective date of this section but before distribution of the lump sum defined benefit created in this section occurs, the distribution shall be made according to the member's beneficiary designation under this chapter.
+
+5. The lump sum defined benefit created in this section is subject to RCW 41.26.053.
+
+
 ## Section 105
 > This section modifies existing section [41.45.0604](/rcw/41_public_employment_civil_service_and_pensions/41.45_actuarial_funding_of_state_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.45_actuarial_funding_of_state_retirement_systems.md) for context.
 
@@ -42,341 +57,635 @@ The legislature finds that the assets in the local law enforcement officers' and
 
 ## Section 201
 The legislature intends to improve the actuarial soundness of the teachers' retirement system plan 1 while also continuing the state commitment to maintain the actuarial soundness of benefits promised to members of the law enforcement officers' and firefighters' retirement system plan 1 by merging the assets, liabilities, and membership of both plans into a new merged plan with two benefit tiers.
+
 The legislature further intends that this merger of assets, liabilities, and membership, and any administrative changes necessary to implement the merger, be accomplished in a way that does not impact benefits provided to members of either the teachers' retirement system plan 1 or the law enforcement officers' and firefighters' retirement system plan 1.
+
 The legislature further intends that the merger of assets, liabilities, and membership of the teachers' retirement system plan 1 and the law enforcement officers' and firefighters' retirement system plan 1 be administered in a way consistent with plan qualification requirements in the federal internal revenue code.
+
 
 ## Section 202
 A retirement system is hereby created for the purpose of merging the assets, liabilities, and membership of the teachers' retirement system plan 1 and the law enforcement officers' and firefighters' retirement system plan 1.
+
 This retirement system shall be known as the merged LEOFF 1/TRS 1 retirement plan, and by this name all of its business shall be transacted and all of its funds invested and all of its cash, securities, and other property held.
+
 
 ## Section 203
 The assets, liabilities, and membership of the law enforcement officers' and firefighters' retirement system plan 1 are hereby merged with the teachers' retirement system plan 1 into the merged LEOFF 1/TRS 1 retirement plan. The merged plan shall consist of two tiers based on benefits and prior plan membership.
-(1)(a)(i) All liabilities of the teachers' retirement system plan 1 as defined in chapter 41.32 RCW and as funded pursuant to chapter 41.45 RCW are made liabilities of the merged LEOFF 1/TRS 1 retirement plan. This includes all benefits payable to the teachers' retirement system plan 1 members pursuant to chapter 41.32 RCW. All pension benefits, including survivor benefits, payable to members of the teachers' retirement system plan 1 pursuant to chapter 41.32 RCW must be paid from the merged LEOFF 1/TRS 1 retirement plan fund established in RCW 41.50.075(6).
-(ii) The membership and benefits of the former teachers' retirement system plan 1 shall be administered as a separate tier within the merged system, and members of this tier will not be eligible for the benefits of the other tier.
-(b)(i) All liabilities of the law enforcement officers' and firefighters' retirement system plan 1, as defined in chapter 41.26 RCW and as funded pursuant to chapter 41.45 RCW, are made liabilities of the merged LEOFF 1/TRS 1 retirement plan. All pension benefits, including survivor benefits, payable to members of the law enforcement officers' and firefighters' retirement system plan 1 pursuant to chapter 41.26 RCW must be paid from the merged LEOFF 1/TRS 1 retirement plan fund established in RCW 41.50.075(6).
-(ii) The membership and benefits of the former law enforcement officers' and firefighters' retirement system plan 1 shall be administered as a separate tier within the merged system, and members of this tier will not be eligible for the benefits of the other tier.
-(c) All liabilities for the law enforcement officers' and firefighters' retirement system plan 1 medical benefits provided pursuant to RCW 41.26.150 remain liabilities of employers, as defined in RCW 41.26.030(11)(a).
-(d) All assets of both plans are merged as described in RCW 41.50.075.
-(2) This merger is contingent on the receipt of a favorable private letter ruling and determination letter from the federal internal revenue service as described in section 301 of this act.
+
+1. [Empty]
+
+    a. [Empty]
+
+        i. All liabilities of the teachers' retirement system plan 1 as defined in chapter 41.32 RCW and as funded pursuant to chapter 41.45 RCW are made liabilities of the merged LEOFF 1/TRS 1 retirement plan. This includes all benefits payable to the teachers' retirement system plan 1 members pursuant to chapter 41.32 RCW. All pension benefits, including survivor benefits, payable to members of the teachers' retirement system plan 1 pursuant to chapter 41.32 RCW must be paid from the merged LEOFF 1/TRS 1 retirement plan fund established in RCW 41.50.075(6).
+
+        ii. The membership and benefits of the former teachers' retirement system plan 1 shall be administered as a separate tier within the merged system, and members of this tier will not be eligible for the benefits of the other tier.
+
+    b. [Empty]
+
+        i. All liabilities of the law enforcement officers' and firefighters' retirement system plan 1, as defined in chapter 41.26 RCW and as funded pursuant to chapter 41.45 RCW, are made liabilities of the merged LEOFF 1/TRS 1 retirement plan. All pension benefits, including survivor benefits, payable to members of the law enforcement officers' and firefighters' retirement system plan 1 pursuant to chapter 41.26 RCW must be paid from the merged LEOFF 1/TRS 1 retirement plan fund established in RCW 41.50.075(6).
+
+        ii. The membership and benefits of the former law enforcement officers' and firefighters' retirement system plan 1 shall be administered as a separate tier within the merged system, and members of this tier will not be eligible for the benefits of the other tier.
+
+    c. All liabilities for the law enforcement officers' and firefighters' retirement system plan 1 medical benefits provided pursuant to RCW 41.26.150 remain liabilities of employers, as defined in RCW 41.26.030(11)(a).
+
+    d. All assets of both plans are merged as described in RCW 41.50.075.
+
+2. This merger is contingent on the receipt of a favorable private letter ruling and determination letter from the federal internal revenue service as described in section 301 of this act.
+
 
 ## Section 204
 The merger of assets, liabilities, and membership of the teachers' retirement system plan 1 and the law enforcement officers' and firefighters' retirement system plan 1 in section 203 of this act does not impact the disability boards established in RCW 41.26.110 (as recodified by this act) or any official action of those boards.
 
+
 ## Section 205
 Sections 206 through 220 of this act apply only to the law enforcement officers' and firefighters' plan 1 tier of the retirement system created in this chapter.
 
+
 ## Section 206
 As used in this chapter, unless a different meaning is plainly required by the context:
+
 As used in this chapter, unless a different meaning is plainly required by the context:
-(1) "Accumulated contributions" means the employee's contributions made by a member, including any amount paid under RCW 41.50.165(2), plus accrued interest credited thereon.
-(2) "Actuarial reserve" means a method of financing a pension or retirement plan wherein reserves are accumulated as the liabilities for benefit payments are incurred in order that sufficient funds will be available on the date of retirement of each member to pay the member's future benefits during the period of retirement.
-(3) "Actuarial valuation" means a mathematical determination of the financial condition of a retirement plan. It includes the computation of the present monetary value of benefits payable to present members, and the present monetary value of future employer and employee contributions, giving effect to mortality among active and retired members and also to the rates of disability, retirement, withdrawal from service, salary and interest earned on investments.
-(4) "Basic salary" for plan 1 members, means the basic monthly rate of salary or wages, including longevity pay but not including overtime earnings or special salary or wages, upon which pension or retirement benefits will be computed and upon which employer contributions and salary deductions will be based.
-(5) "Beneficiary" for plan 1 members, means any person in receipt of a retirement allowance, disability allowance, death benefit, or any other benefit described herein.
-(6)(a) "Child" or "children" means an unmarried person who is under the age of eighteen or mentally or physically disabled as determined by the department, except a person who is disabled and in the full time care of a state institution, who is:
-(i) A natural born child;
-(ii) A stepchild where that relationship was in existence prior to the date benefits are payable under this chapter;
-(iii) A posthumous child;
-(iv) A child legally adopted or made a legal ward of a member prior to the date benefits are payable under this chapter; or
-(v) An illegitimate child legitimized prior to the date any benefits are payable under this chapter.
-(b) A person shall also be deemed to be a child up to and including the age of twenty years and eleven months while attending any high school, college, or vocational or other educational institution accredited, licensed, or approved by the state, in which it is located, including the summer vacation months and all other normal and regular vacation periods at the particular educational institution after which the child returns to school.
-(7) "Department" means the department of retirement systems created in chapter 41.50 RCW.
-(8) "Director" means the director of the department.
-(9) "Disability board" for plan 1 members means either the county disability board or the city disability board established in section 220 of this act.
-(10) "Disability leave" means the period of six months or any portion thereof during which a member is on leave at an allowance equal to the member's full salary prior to the commencement of disability retirement. The definition contained in this subsection shall apply only to plan 1 members.
-(11) "Disability retirement" for plan 1 members, means the period following termination of a member's disability leave, during which the member is in receipt of a disability retirement allowance.
-(12) "Domestic partners" means two adults who have registered as domestic partners under RCW 26.60.020.
-(13) "Employee" means any law enforcement officer or firefighter as defined in subsections (16) and (18) of this section.
-(14) "Employer" means the legislative authority of any city, town, county, or district or the elected officials of any municipal corporation that employs any law enforcement officer and/or firefighter, any authorized association of such municipalities, and, except for the purposes of RCW 41.26.150 (as recodified by this act), any labor guild, association, or organization, which represents the firefighters or law enforcement officers of at least seven cities of over 20,000 population and the membership of each local lodge or division of which is composed of at least sixty percent law enforcement officers or firefighters as defined in this chapter.
+
+1. "Accumulated contributions" means the employee's contributions made by a member, including any amount paid under RCW 41.50.165(2), plus accrued interest credited thereon.
+
+2. "Actuarial reserve" means a method of financing a pension or retirement plan wherein reserves are accumulated as the liabilities for benefit payments are incurred in order that sufficient funds will be available on the date of retirement of each member to pay the member's future benefits during the period of retirement.
+
+3. "Actuarial valuation" means a mathematical determination of the financial condition of a retirement plan. It includes the computation of the present monetary value of benefits payable to present members, and the present monetary value of future employer and employee contributions, giving effect to mortality among active and retired members and also to the rates of disability, retirement, withdrawal from service, salary and interest earned on investments.
+
+4. "Basic salary" for plan 1 members, means the basic monthly rate of salary or wages, including longevity pay but not including overtime earnings or special salary or wages, upon which pension or retirement benefits will be computed and upon which employer contributions and salary deductions will be based.
+
+5. "Beneficiary" for plan 1 members, means any person in receipt of a retirement allowance, disability allowance, death benefit, or any other benefit described herein.
+
+6. [Empty]
+
+    a. "Child" or "children" means an unmarried person who is under the age of eighteen or mentally or physically disabled as determined by the department, except a person who is disabled and in the full time care of a state institution, who is:
+
+        i. A natural born child;
+
+        ii. A stepchild where that relationship was in existence prior to the date benefits are payable under this chapter;
+
+        iii. A posthumous child;
+
+        iv. A child legally adopted or made a legal ward of a member prior to the date benefits are payable under this chapter; or
+
+    v. An illegitimate child legitimized prior to the date any benefits are payable under this chapter.
+
+    b. A person shall also be deemed to be a child up to and including the age of twenty years and eleven months while attending any high school, college, or vocational or other educational institution accredited, licensed, or approved by the state, in which it is located, including the summer vacation months and all other normal and regular vacation periods at the particular educational institution after which the child returns to school.
+
+7. "Department" means the department of retirement systems created in chapter 41.50 RCW.
+
+8. "Director" means the director of the department.
+
+9. "Disability board" for plan 1 members means either the county disability board or the city disability board established in section 220 of this act.
+
+10. "Disability leave" means the period of six months or any portion thereof during which a member is on leave at an allowance equal to the member's full salary prior to the commencement of disability retirement. The definition contained in this subsection shall apply only to plan 1 members.
+
+11. "Disability retirement" for plan 1 members, means the period following termination of a member's disability leave, during which the member is in receipt of a disability retirement allowance.
+
+12. "Domestic partners" means two adults who have registered as domestic partners under RCW 26.60.020.
+
+13. "Employee" means any law enforcement officer or firefighter as defined in subsections (16) and (18) of this section.
+
+14. "Employer" means the legislative authority of any city, town, county, or district or the elected officials of any municipal corporation that employs any law enforcement officer and/or firefighter, any authorized association of such municipalities, and, except for the purposes of RCW 41.26.150 (as recodified by this act), any labor guild, association, or organization, which represents the firefighters or law enforcement officers of at least seven cities of over 20,000 population and the membership of each local lodge or division of which is composed of at least sixty percent law enforcement officers or firefighters as defined in this chapter.
+
 Except as otherwise specifically provided in this chapter, "employer" does not include a government contractor. For purposes of this subsection, a "government contractor" is any entity, including a partnership, limited liability company, for-profit or nonprofit corporation, or person, that provides services pursuant to a contract with an "employer." The determination whether an employer-employee relationship has been established is not based on the relationship between a government contractor and an "employer," but is based solely on the relationship between a government contractor's employee and an "employer" under this chapter.
-(15)(a) "Final average salary" means (i) for a member holding the same position or rank for a minimum of twelve months preceding the date of retirement, the basic salary attached to such same position or rank at time of retirement; (ii) for any other member, including a civil service member who has not served a minimum of twelve months in the same position or rank preceding the date of retirement, the average of the greatest basic salaries payable to such member during any consecutive twenty-four month period within such member's last ten years of service for which service credit is allowed, computed by dividing the total basic salaries payable to such member during the selected twenty-four month period by twenty-four; (iii) in the case of disability of any member, the basic salary payable to such member at the time of disability retirement; (iv) in the case of a member who hereafter vests pursuant to RCW 41.26.090 (as recodified by this act), the basic salary payable to such member at the time of vesting.
-(b) In calculating final average salary under (a) of this subsection, the department of retirement systems shall include:
-(i) Any compensation forgone by a member employed by a state agency or institution during the 2009-2011 fiscal biennium as a result of reduced work hours, mandatory or voluntary leave without pay, temporary reduction in pay implemented prior to December 11, 2010, or temporary layoffs if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer; and
-(ii) Any compensation forgone by a member employed by the state or a local government employer during the 2011-2013 fiscal biennium as a result of reduced work hours, mandatory leave without pay, temporary layoffs, or reductions to current pay if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer. Reductions to current pay shall not include elimination of previously agreed upon future salary increases.
-(16) "Firefighter" means:
-(a) Any person who is serving on a full time, fully compensated basis as a member of a fire department of an employer and who is serving in a position which requires passing a civil service examination for firefighter, and who is actively employed as such;
-(b) Anyone who is actively employed as a full time firefighter where the fire department does not have a civil service examination;
-(c) Supervisory firefighter personnel;
-(d) Any full time executive secretary of an association of fire protection districts authorized under RCW 52.12.031;
-(e) The executive secretary of a labor guild, association or organization (which is an employer under subsection (14) of this section), if such individual has five years previous membership in a retirement system established in chapter 41.16 or 41.18 RCW;
-(f) Any person who is serving on a full time, fully compensated basis for an employer, as a fire dispatcher, in a department in which, on March 1, 1970, a dispatcher was required to have passed a civil service examination for firefighter;
-(g) Any person who on March 1, 1970, was employed on a full time, fully compensated basis by an employer, and who on May 21, 1971, was making retirement contributions under the provisions of chapter 41.16 or 41.18 RCW; and
-(h) Any person who is employed on a full-time, fully compensated basis by an employer as an emergency medical technician that meets the requirements of RCW 18.71.200 or 18.73.030(12), and whose duties include providing emergency medical services as defined in RCW 18.73.030.
-(17) "General authority law enforcement agency" means any agency, department, or division of a municipal corporation, political subdivision, or other unit of local government of this state, and any agency, department, or division of state government, having as its primary function the detection and apprehension of persons committing infractions or violating the traffic or criminal laws in general, but not including the Washington state patrol. Such an agency, department, or division is distinguished from a limited authority law enforcement agency having as one of its functions the apprehension or detection of persons committing infractions or violating the traffic or criminal laws relating to limited subject areas, including but not limited to, the state departments of natural resources and social and health services, the state gambling commission, the state lottery commission, the state parks and recreation commission, the state utilities and transportation commission, the state liquor and cannabis board, and the state department of corrections. A general authority law enforcement agency under this chapter does not include a government contractor.
-(18) "Law enforcement officer" beginning January 1, 1994, means any person who is commissioned and employed by an employer on a full time, fully compensated basis to enforce the criminal laws of the state of Washington generally, with the following qualifications:
-(a) No person who is serving in a position that is basically clerical or secretarial in nature, and who is not commissioned shall be considered a law enforcement officer;
-(b) Only those deputy sheriffs, including those serving under a different title pursuant to county charter, who have successfully completed a civil service examination for deputy sheriff or the equivalent position, where a different title is used, and those persons serving in unclassified positions authorized by RCW 41.14.070 except a private secretary will be considered law enforcement officers;
-(c) Only such full time commissioned law enforcement personnel as have been appointed to offices, positions, or ranks in the police department which have been specifically created or otherwise expressly provided for and designated by city charter provision or by ordinance enacted by the legislative body of the city shall be considered city police officers;
-(d) The term "law enforcement officer" also includes the executive secretary of a labor guild, association or organization (which is an employer under subsection (14) of this section) if that individual has five years previous membership in the retirement system established in chapter 41.20 RCW; and
-(e) The term "law enforcement officer" also includes a person employed on or after January 1, 1993, as a public safety officer or director of public safety, so long as the job duties substantially involve only either police or fire duties, or both, and no other duties in a city or town with a population of less than ten thousand. The provisions of this subsection (18)(e) shall not apply to any public safety officer or director of public safety who is receiving a retirement allowance under this chapter as of May 12, 1993.
-(19) "Medical services" for plan 1 members, shall include the following as minimum services to be provided. Reasonable charges for these services shall be paid in accordance with RCW 41.26.150 (as recodified by this act).
-(a) Hospital expenses: These are the charges made by a hospital, in its own behalf, for
-(i) Board and room not to exceed semiprivate room rate unless private room is required by the attending physician due to the condition of the patient.
-(ii) Necessary hospital services, other than board and room, furnished by the hospital.
-(b) Other medical expenses: The following charges are considered "other medical expenses", provided that they have not been considered as "hospital expenses".
-(i) The fees of the following:
+
+15. [Empty]
+
+    a. "Final average salary" means (i) for a member holding the same position or rank for a minimum of twelve months preceding the date of retirement, the basic salary attached to such same position or rank at time of retirement; (ii) for any other member, including a civil service member who has not served a minimum of twelve months in the same position or rank preceding the date of retirement, the average of the greatest basic salaries payable to such member during any consecutive twenty-four month period within such member's last ten years of service for which service credit is allowed, computed by dividing the total basic salaries payable to such member during the selected twenty-four month period by twenty-four; (iii) in the case of disability of any member, the basic salary payable to such member at the time of disability retirement; (iv) in the case of a member who hereafter vests pursuant to RCW 41.26.090 (as recodified by this act), the basic salary payable to such member at the time of vesting.
+
+    b. In calculating final average salary under (a) of this subsection, the department of retirement systems shall include:
+
+        i. Any compensation forgone by a member employed by a state agency or institution during the 2009-2011 fiscal biennium as a result of reduced work hours, mandatory or voluntary leave without pay, temporary reduction in pay implemented prior to December 11, 2010, or temporary layoffs if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer; and
+
+        ii. Any compensation forgone by a member employed by the state or a local government employer during the 2011-2013 fiscal biennium as a result of reduced work hours, mandatory leave without pay, temporary layoffs, or reductions to current pay if the reduced compensation is an integral part of the employer's expenditure reduction efforts, as certified by the employer. Reductions to current pay shall not include elimination of previously agreed upon future salary increases.
+
+16. "Firefighter" means:
+
+    a. Any person who is serving on a full time, fully compensated basis as a member of a fire department of an employer and who is serving in a position which requires passing a civil service examination for firefighter, and who is actively employed as such;
+
+    b. Anyone who is actively employed as a full time firefighter where the fire department does not have a civil service examination;
+
+    c. Supervisory firefighter personnel;
+
+    d. Any full time executive secretary of an association of fire protection districts authorized under RCW 52.12.031;
+
+    e. The executive secretary of a labor guild, association or organization (which is an employer under subsection (14) of this section), if such individual has five years previous membership in a retirement system established in chapter 41.16 or 41.18 RCW;
+
+    f. Any person who is serving on a full time, fully compensated basis for an employer, as a fire dispatcher, in a department in which, on March 1, 1970, a dispatcher was required to have passed a civil service examination for firefighter;
+
+    g. Any person who on March 1, 1970, was employed on a full time, fully compensated basis by an employer, and who on May 21, 1971, was making retirement contributions under the provisions of chapter 41.16 or 41.18 RCW; and
+
+    h. Any person who is employed on a full-time, fully compensated basis by an employer as an emergency medical technician that meets the requirements of RCW 18.71.200 or 18.73.030(12), and whose duties include providing emergency medical services as defined in RCW 18.73.030.
+
+17. "General authority law enforcement agency" means any agency, department, or division of a municipal corporation, political subdivision, or other unit of local government of this state, and any agency, department, or division of state government, having as its primary function the detection and apprehension of persons committing infractions or violating the traffic or criminal laws in general, but not including the Washington state patrol. Such an agency, department, or division is distinguished from a limited authority law enforcement agency having as one of its functions the apprehension or detection of persons committing infractions or violating the traffic or criminal laws relating to limited subject areas, including but not limited to, the state departments of natural resources and social and health services, the state gambling commission, the state lottery commission, the state parks and recreation commission, the state utilities and transportation commission, the state liquor and cannabis board, and the state department of corrections. A general authority law enforcement agency under this chapter does not include a government contractor.
+
+18. "Law enforcement officer" beginning January 1, 1994, means any person who is commissioned and employed by an employer on a full time, fully compensated basis to enforce the criminal laws of the state of Washington generally, with the following qualifications:
+
+    a. No person who is serving in a position that is basically clerical or secretarial in nature, and who is not commissioned shall be considered a law enforcement officer;
+
+    b. Only those deputy sheriffs, including those serving under a different title pursuant to county charter, who have successfully completed a civil service examination for deputy sheriff or the equivalent position, where a different title is used, and those persons serving in unclassified positions authorized by RCW 41.14.070 except a private secretary will be considered law enforcement officers;
+
+    c. Only such full time commissioned law enforcement personnel as have been appointed to offices, positions, or ranks in the police department which have been specifically created or otherwise expressly provided for and designated by city charter provision or by ordinance enacted by the legislative body of the city shall be considered city police officers;
+
+    d. The term "law enforcement officer" also includes the executive secretary of a labor guild, association or organization (which is an employer under subsection (14) of this section) if that individual has five years previous membership in the retirement system established in chapter 41.20 RCW; and
+
+    e. The term "law enforcement officer" also includes a person employed on or after January 1, 1993, as a public safety officer or director of public safety, so long as the job duties substantially involve only either police or fire duties, or both, and no other duties in a city or town with a population of less than ten thousand. The provisions of this subsection (18)(e) shall not apply to any public safety officer or director of public safety who is receiving a retirement allowance under this chapter as of May 12, 1993.
+
+19. "Medical services" for plan 1 members, shall include the following as minimum services to be provided. Reasonable charges for these services shall be paid in accordance with RCW 41.26.150 (as recodified by this act).
+
+    a. Hospital expenses: These are the charges made by a hospital, in its own behalf, for
+
+        i. Board and room not to exceed semiprivate room rate unless private room is required by the attending physician due to the condition of the patient.
+
+        ii. Necessary hospital services, other than board and room, furnished by the hospital.
+
+    b. Other medical expenses: The following charges are considered "other medical expenses", provided that they have not been considered as "hospital expenses".
+
+        i. The fees of the following:
+
 (A) A physician or surgeon licensed under the provisions of chapter 18.71 RCW;
+
 (B) An osteopathic physician and surgeon licensed under the provisions of chapter 18.57 RCW;
+
 (C) A chiropractor licensed under the provisions of chapter 18.25 RCW.
-(ii) The charges of a registered graduate nurse other than a nurse who ordinarily resides in the member's home, or is a member of the family of either the member or the member's spouse.
-(iii) The charges for the following medical services and supplies:
+
+        ii. The charges of a registered graduate nurse other than a nurse who ordinarily resides in the member's home, or is a member of the family of either the member or the member's spouse.
+
+        iii. The charges for the following medical services and supplies:
+
 (A) Drugs and medicines upon a physician's prescription;
+
 (B) Diagnostic X-ray and laboratory examinations;
+
 (C) X-ray, radium, and radioactive isotopes therapy;
+
 (D) Anesthesia and oxygen;
+
 (E) Rental of iron lung and other durable medical and surgical equipment;
+
 (F) Artificial limbs and eyes, and casts, splints, and trusses;
+
 (G) Professional ambulance service when used to transport the member to or from a hospital when injured by an accident or stricken by a disease;
+
 (H) Dental charges incurred by a member who sustains an accidental injury to his or her teeth and who commences treatment by a legally licensed dentist within ninety days after the accident;
+
 (I) Nursing home confinement or hospital extended care facility;
+
 (J) Physical therapy by a registered physical therapist;
+
 (K) Blood transfusions, including the cost of blood and blood plasma not replaced by voluntary donors;
+
 (L) An optometrist licensed under the provisions of chapter 18.53 RCW.
-(20) "Member" means any firefighter, law enforcement officer, or other person as would apply under subsections (16) or (18) of this section whose membership is transferred to the Washington law enforcement officers' and firefighters' retirement system on or after March 1, 1970, and every law enforcement officer and firefighter who is employed in that capacity on or after such date.
-(21) "Plan 1" means the law enforcement officers' and firefighters' retirement system, plan 1 providing the benefits and funding provisions covering persons who first became members of the system prior to October 1, 1977.
-(22) "Position" means the employment held at any particular time, which may or may not be the same as civil service rank.
-(23) "Regular interest" means such rate as the director may determine.
-(24) "Retiree" for persons who establish membership in the retirement system on or after October 1, 1977, means any member in receipt of a retirement allowance or other benefit provided by this chapter resulting from service rendered to an employer by such member.
-(25) "Retirement fund" means the "Washington law enforcement officers' and firefighters' retirement system fund" as provided for herein.
-(26) "Retirement system" means the "Washington law enforcement officers' and firefighters' retirement system" provided herein.
-(27) "Service" for plan 1 members, means all periods of employment for an employer as a firefighter or law enforcement officer, for which compensation is paid, together with periods of suspension not exceeding thirty days in duration. For the purposes of this chapter service shall also include service in the armed forces of the United States as provided in RCW 41.26.190 (as recodified by this act). Credit shall be allowed for all service credit months of service rendered by a member from and after the member's initial commencement of employment as a firefighter or law enforcement officer, during which the member worked for seventy or more hours, or was on disability leave or disability retirement. Only service credit months of service shall be counted in the computation of any retirement allowance or other benefit provided for in this chapter.
-(a) For members retiring after May 21, 1971 who were employed under the coverage of a prior pension act before March 1, 1970, "service" shall also include (i) such military service not exceeding five years as was creditable to the member as of March 1, 1970, under the member's particular prior pension act, and (ii) such other periods of service as were then creditable to a particular member under the provisions of RCW 41.18.165, 41.20.160, or 41.20.170. However, in no event shall credit be allowed for any service rendered prior to March 1, 1970, where the member at the time of rendition of such service was employed in a position covered by a prior pension act, unless such service, at the time credit is claimed therefor, is also creditable under the provisions of such prior act.
-(b) A member who is employed by two employers at the same time shall only be credited with service to one such employer for any month during which the member rendered such dual service.
-(28) "Service credit month" means a full service credit month or an accumulation of partial service credit months that are equal to one.
-(29) "Service credit year" means an accumulation of months of service credit which is equal to one when divided by twelve.
-(30) "State actuary" or "actuary" means the person appointed pursuant to RCW 44.44.010(2).
-(31) "State elective position" means any position held by any person elected or appointed to statewide office or elected or appointed as a member of the legislature.
-(32) "Surviving spouse" means the surviving widow or widower of a member. "Surviving spouse" shall not include the divorced spouse of a member except as provided in RCW 41.26.162 (as recodified by this act).
+
+20. "Member" means any firefighter, law enforcement officer, or other person as would apply under subsections (16) or (18) of this section whose membership is transferred to the Washington law enforcement officers' and firefighters' retirement system on or after March 1, 1970, and every law enforcement officer and firefighter who is employed in that capacity on or after such date.
+
+21. "Plan 1" means the law enforcement officers' and firefighters' retirement system, plan 1 providing the benefits and funding provisions covering persons who first became members of the system prior to October 1, 1977.
+
+22. "Position" means the employment held at any particular time, which may or may not be the same as civil service rank.
+
+23. "Regular interest" means such rate as the director may determine.
+
+24. "Retiree" for persons who establish membership in the retirement system on or after October 1, 1977, means any member in receipt of a retirement allowance or other benefit provided by this chapter resulting from service rendered to an employer by such member.
+
+25. "Retirement fund" means the "Washington law enforcement officers' and firefighters' retirement system fund" as provided for herein.
+
+26. "Retirement system" means the "Washington law enforcement officers' and firefighters' retirement system" provided herein.
+
+27. "Service" for plan 1 members, means all periods of employment for an employer as a firefighter or law enforcement officer, for which compensation is paid, together with periods of suspension not exceeding thirty days in duration. For the purposes of this chapter service shall also include service in the armed forces of the United States as provided in RCW 41.26.190 (as recodified by this act). Credit shall be allowed for all service credit months of service rendered by a member from and after the member's initial commencement of employment as a firefighter or law enforcement officer, during which the member worked for seventy or more hours, or was on disability leave or disability retirement. Only service credit months of service shall be counted in the computation of any retirement allowance or other benefit provided for in this chapter.
+
+    a. For members retiring after May 21, 1971 who were employed under the coverage of a prior pension act before March 1, 1970, "service" shall also include (i) such military service not exceeding five years as was creditable to the member as of March 1, 1970, under the member's particular prior pension act, and (ii) such other periods of service as were then creditable to a particular member under the provisions of RCW 41.18.165, 41.20.160, or 41.20.170. However, in no event shall credit be allowed for any service rendered prior to March 1, 1970, where the member at the time of rendition of such service was employed in a position covered by a prior pension act, unless such service, at the time credit is claimed therefor, is also creditable under the provisions of such prior act.
+
+    b. A member who is employed by two employers at the same time shall only be credited with service to one such employer for any month during which the member rendered such dual service.
+
+28. "Service credit month" means a full service credit month or an accumulation of partial service credit months that are equal to one.
+
+29. "Service credit year" means an accumulation of months of service credit which is equal to one when divided by twelve.
+
+30. "State actuary" or "actuary" means the person appointed pursuant to RCW 44.44.010(2).
+
+31. "State elective position" means any position held by any person elected or appointed to statewide office or elected or appointed as a member of the legislature.
+
+32. "Surviving spouse" means the surviving widow or widower of a member. "Surviving spouse" shall not include the divorced spouse of a member except as provided in RCW 41.26.162 (as recodified by this act).
+
 
 ## Section 207
 The term "minimum medical and health standards" means minimum medical and health standards adopted by the department under this chapter.
 
+
 ## Section 208
-(1) Notwithstanding section 206 of this act, all firefighters and law enforcement officers employed as such on or after March 1, 1970, on a full time fully compensated basis in this state shall be members of the retirement system established by this chapter with respect to all periods of service as such, to the exclusion of any pension system existing under any prior act.
-(2) Any employee serving as a law enforcement officer or firefighter on March 1, 1970, who is then making retirement contributions under any prior act shall have his or her membership transferred to the system established by this chapter as of such date. Upon retirement for service or for disability, or death, of any such employee, his or her retirement benefits earned under this chapter shall be computed and paid. In addition, his or her benefits under the prior retirement act to which he or she was making contributions at the time of this transfer shall be computed as if he or she had not transferred. For the purpose of such computations, the employee's creditability of service and eligibility for service or disability retirement and survivor and all other benefits shall continue to be as provided in such prior retirement act, as if transfer of membership had not occurred. The excess, if any, of the benefits so computed, giving full value to survivor benefits, over the benefits payable under this chapter shall be paid whether or not the employee has made application under the prior act. If the employee's prior retirement system was the Washington public employees' retirement system, payment of such excess shall be made by that system; if the employee's prior retirement system was the statewide city employees' retirement system, payment of such excess shall be made by the employer which was the member's employer when his or her transfer of membership occurred: PROVIDED, That any death in line of duty lump sum benefit payment shall continue to be the obligation of that system as provided in RCW 41.44.210; in the case of all other prior retirement systems, payment of such excess shall be made by the employer which was the member's employer when his or her transfer of membership occurred.
-(3) All funds held by any firefighters' or police officers' relief and pension fund shall remain in that fund for the purpose of paying the obligations of the fund. The municipality shall continue to levy the dollar rate as provided in RCW 41.16.060, and this dollar rate shall be used for the purpose of paying the benefits provided in chapters 41.16 and 41.18 RCW. The obligations of chapter 41.20 RCW shall continue to be paid from whatever financial sources the city has been using for this purpose.
+1. Notwithstanding section 206 of this act, all firefighters and law enforcement officers employed as such on or after March 1, 1970, on a full time fully compensated basis in this state shall be members of the retirement system established by this chapter with respect to all periods of service as such, to the exclusion of any pension system existing under any prior act.
+
+2. Any employee serving as a law enforcement officer or firefighter on March 1, 1970, who is then making retirement contributions under any prior act shall have his or her membership transferred to the system established by this chapter as of such date. Upon retirement for service or for disability, or death, of any such employee, his or her retirement benefits earned under this chapter shall be computed and paid. In addition, his or her benefits under the prior retirement act to which he or she was making contributions at the time of this transfer shall be computed as if he or she had not transferred. For the purpose of such computations, the employee's creditability of service and eligibility for service or disability retirement and survivor and all other benefits shall continue to be as provided in such prior retirement act, as if transfer of membership had not occurred. The excess, if any, of the benefits so computed, giving full value to survivor benefits, over the benefits payable under this chapter shall be paid whether or not the employee has made application under the prior act. If the employee's prior retirement system was the Washington public employees' retirement system, payment of such excess shall be made by that system; if the employee's prior retirement system was the statewide city employees' retirement system, payment of such excess shall be made by the employer which was the member's employer when his or her transfer of membership occurred: PROVIDED, That any death in line of duty lump sum benefit payment shall continue to be the obligation of that system as provided in RCW 41.44.210; in the case of all other prior retirement systems, payment of such excess shall be made by the employer which was the member's employer when his or her transfer of membership occurred.
+
+3. All funds held by any firefighters' or police officers' relief and pension fund shall remain in that fund for the purpose of paying the obligations of the fund. The municipality shall continue to levy the dollar rate as provided in RCW 41.16.060, and this dollar rate shall be used for the purpose of paying the benefits provided in chapters 41.16 and 41.18 RCW. The obligations of chapter 41.20 RCW shall continue to be paid from whatever financial sources the city has been using for this purpose.
+
 
 ## Section 209
-(1) Notwithstanding any other provision of law after February 19, 1974, no law enforcement officer or firefighter, may become eligible for coverage in the pension system established by this chapter, until the individual has met and has been certified as having met minimum medical and health standards: PROVIDED, That an elected sheriff or an appointed chief of police or fire chief, shall not be required to meet the age standard: PROVIDED FURTHER, That in cities and towns having not more than two law enforcement officers and/or not more than two firefighters and if one or more of such persons do not meet the minimum medical and health standards as required by the provisions of this chapter, then such person or persons may join any other pension system that the city has available for its other employees: AND PROVIDED FURTHER, That for one year after February 19, 1974, any such medical or health standard now existing or hereinafter adopted, insofar as it establishes a maximum age beyond which an applicant is to be deemed ineligible for coverage, shall be waived as to any applicant for employment or reemployment who is otherwise eligible except for his or her age, who has been a member of any one or more of the retirement systems created by chapter 41.20 RCW and who has restored all contributions which he or she has previously withdrawn from any such system or systems.
-(2) This section shall not apply to persons who initially establish membership in the retirement system on or after July 1, 1979.
+1. Notwithstanding any other provision of law after February 19, 1974, no law enforcement officer or firefighter, may become eligible for coverage in the pension system established by this chapter, until the individual has met and has been certified as having met minimum medical and health standards: PROVIDED, That an elected sheriff or an appointed chief of police or fire chief, shall not be required to meet the age standard: PROVIDED FURTHER, That in cities and towns having not more than two law enforcement officers and/or not more than two firefighters and if one or more of such persons do not meet the minimum medical and health standards as required by the provisions of this chapter, then such person or persons may join any other pension system that the city has available for its other employees: AND PROVIDED FURTHER, That for one year after February 19, 1974, any such medical or health standard now existing or hereinafter adopted, insofar as it establishes a maximum age beyond which an applicant is to be deemed ineligible for coverage, shall be waived as to any applicant for employment or reemployment who is otherwise eligible except for his or her age, who has been a member of any one or more of the retirement systems created by chapter 41.20 RCW and who has restored all contributions which he or she has previously withdrawn from any such system or systems.
+
+2. This section shall not apply to persons who initially establish membership in the retirement system on or after July 1, 1979.
+
 
 ## Section 210
 By July 31, 1971, the department of retirement systems shall adopt minimum medical and health standards for membership coverage into the Washington law enforcement officers' and firefighters' retirement system act. In adopting such standards the department of retirement systems shall consider existing standards recommended by the international association of chiefs of police and the international association of firefighters, and shall adopt equal or higher standards, together with appropriate standards and procedures to insure uniform compliance with this chapter. The standards when adopted shall be published and distributed to each employer, and each employer shall adopt certification procedures and such other procedures as are required to insure that no law enforcement officer or firefighter receives membership coverage unless and until he or she has actually met minimum medical and health standards: PROVIDED, That an elected sheriff or an appointed chief of police, fire chief, or director of public safety shall not be required to meet the age standard. The department of retirement systems may amend the minimum medical and health standards as experience indicates, even if the standards as so amended are lower or less rigid than those recommended by the international associations mentioned above. The cost of the medical examination contemplated by this section is to be paid by the employer.
 
+
 ## Section 211
 Nothing in sections 207, 209, and 210 of this act shall apply to any firefighters or law enforcement officers who are employed as such on or before August 1, 1971, as long as they continue in such employment; nor to promotional appointments after becoming a member in the police or fire department of any employer nor to the reemployment of a law enforcement officer or firefighter by the same or a different employer within six months after the termination of his or her employment, nor to the reinstatement of a law enforcement officer or firefighter who has been on military or disability leave, disability retirement status, or leave of absence status. Nothing in this chapter shall be deemed to prevent any employer from adopting higher medical and health standards than those which are adopted by the department of retirement systems.
 
+
 ## Section 212
-(1) A two hundred fourteen thousand dollar death benefit shall be paid to the member's estate, or such person or persons, trust or organization as the member shall have nominated by written designation duly executed and filed with the department. If there be no such designated person or persons still living at the time of the member's death, such member's death benefit shall be paid to the member's surviving spouse or domestic partner as if in fact such spouse or domestic partner had been nominated by written designation, or if there be no such surviving spouse or domestic partner, then to such member's legal representatives.
-(2) The benefit under this section shall be paid only when death occurs: (a) As a result of injuries sustained in the course of employment; or (b) as a result of an occupational disease or infection that arises naturally and proximately out of employment covered under this chapter. The determination of eligibility for the benefit shall be made consistent with Title 51 RCW by the department of labor and industries. The department of labor and industries shall notify the department of retirement systems by order under RCW 51.52.050.
-(3)(a) Beginning July 1, 2010, and every year thereafter, the department shall determine the following information:
-(i) The index for the 2008 calendar year, to be known as "index A;"
-(ii) The index for the calendar year prior to the date of determination, to be known as "index B;" and
-(iii) The ratio obtained when index B is divided by index A.
-(b) The value of the ratio obtained shall be the annual adjustment to the original death benefit and shall be applied beginning every July 1st. In no event, however, shall the annual adjustment:
-(i) Produce a benefit which is lower than two hundred fourteen thousand dollars;
-(ii) Exceed three percent in the initial annual adjustment; or
-(iii) Differ from the previous year's annual adjustment by more than three percent.
-(c) For the purposes of this section, "index" means, for any calendar year, that year's average consumer price index — Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.
+1. A two hundred fourteen thousand dollar death benefit shall be paid to the member's estate, or such person or persons, trust or organization as the member shall have nominated by written designation duly executed and filed with the department. If there be no such designated person or persons still living at the time of the member's death, such member's death benefit shall be paid to the member's surviving spouse or domestic partner as if in fact such spouse or domestic partner had been nominated by written designation, or if there be no such surviving spouse or domestic partner, then to such member's legal representatives.
+
+2. The benefit under this section shall be paid only when death occurs: (a) As a result of injuries sustained in the course of employment; or (b) as a result of an occupational disease or infection that arises naturally and proximately out of employment covered under this chapter. The determination of eligibility for the benefit shall be made consistent with Title 51 RCW by the department of labor and industries. The department of labor and industries shall notify the department of retirement systems by order under RCW 51.52.050.
+
+3. [Empty]
+
+    a. Beginning July 1, 2010, and every year thereafter, the department shall determine the following information:
+
+        i. The index for the 2008 calendar year, to be known as "index A;"
+
+        ii. The index for the calendar year prior to the date of determination, to be known as "index B;" and
+
+        iii. The ratio obtained when index B is divided by index A.
+
+    b. The value of the ratio obtained shall be the annual adjustment to the original death benefit and shall be applied beginning every July 1st. In no event, however, shall the annual adjustment:
+
+        i. Produce a benefit which is lower than two hundred fourteen thousand dollars;
+
+        ii. Exceed three percent in the initial annual adjustment; or
+
+        iii. Differ from the previous year's annual adjustment by more than three percent.
+
+    c. For the purposes of this section, "index" means, for any calendar year, that year's average consumer price index — Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.
+
 
 ## Section 213
-(1) Subject to subsections (2) and (3) of this section, the right of a person to a retirement allowance, disability allowance, or death benefit, to the return of accumulated contributions, the retirement, disability or death allowance itself, any optional benefit, any other right accrued or accruing to any person under the provisions of this chapter, and the moneys in the fund created under this chapter, are hereby exempt from any state, county, municipal, or other local tax and shall not be subject to execution, garnishment, attachment, the operation of bankruptcy or insolvency laws, or any other process of law whatsoever, whether the same be in actual possession of the person or be deposited or loaned and shall be unassignable.
-(2) On the written request of any person eligible to receive benefits under this section, the department may deduct from such payments the premiums for life, health, or other insurance. The request on behalf of any child or children shall be made by the legal guardian of such child or children. The department may provide for such persons one or more plans of group insurance, through contracts with regularly constituted insurance carriers or health care service contractors.
-(3) Subsection (1) of this section shall not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department of retirement systems to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
+1. Subject to subsections (2) and (3) of this section, the right of a person to a retirement allowance, disability allowance, or death benefit, to the return of accumulated contributions, the retirement, disability or death allowance itself, any optional benefit, any other right accrued or accruing to any person under the provisions of this chapter, and the moneys in the fund created under this chapter, are hereby exempt from any state, county, municipal, or other local tax and shall not be subject to execution, garnishment, attachment, the operation of bankruptcy or insolvency laws, or any other process of law whatsoever, whether the same be in actual possession of the person or be deposited or loaned and shall be unassignable.
+
+2. On the written request of any person eligible to receive benefits under this section, the department may deduct from such payments the premiums for life, health, or other insurance. The request on behalf of any child or children shall be made by the legal guardian of such child or children. The department may provide for such persons one or more plans of group insurance, through contracts with regularly constituted insurance carriers or health care service contractors.
+
+3. Subsection (1) of this section shall not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department of retirement systems to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
+
 
 ## Section 214
 No bond of any kind shall be required of a claimant appealing to the superior court, the court of appeals, or the supreme court from a decision of the director affecting such claimant's right to retirement or disability benefits.
 
+
 ## Section 215
-(1) The annual compensation taken into account in calculating retiree benefits under this system shall not exceed the limits imposed by section 401(a)(17) of the federal internal revenue code for qualified trusts.
-(2) The department shall adopt rules as necessary to implement this section.
+1. The annual compensation taken into account in calculating retiree benefits under this system shall not exceed the limits imposed by section 401(a)(17) of the federal internal revenue code for qualified trusts.
+
+2. The department shall adopt rules as necessary to implement this section.
+
 
 ## Section 216
 Notwithstanding any provision to the contrary, persons who fail to:
-(1) Establish allowable membership service not previously credited;
-(2) Restore all or a part of that previously credited membership service represented by withdrawn contributions; or
-(3) Restore service credit represented by a lump sum payment in lieu of benefits, before the deadline established by statute, may do so under the conditions set forth in RCW 41.50.165.
+
+1. Establish allowable membership service not previously credited;
+
+2. Restore all or a part of that previously credited membership service represented by withdrawn contributions; or
+
+3. Restore service credit represented by a lump sum payment in lieu of benefits, before the deadline established by statute, may do so under the conditions set forth in RCW 41.50.165.
+
 
 ## Section 217
 A member shall not receive a disability retirement benefit under RCW 41.26.120 (as recodified by this act), 41.26.125 (as recodified by this act), 41.26.130 (as recodified by this act), or 41.26.470 if the disability is the result of criminal conduct by the member committed after April 21, 1997.
 
+
 ## Section 218
 Any employer, member or beneficiary who shall knowingly make false statements or shall falsify or permit to be falsified any record or records of the retirement system in an attempt to defraud the retirement system, is guilty of a class B felony punishable according to chapter 9A.20 RCW.
 
+
 ## Section 219
-(1) At the time of retirement, plan 1 members may purchase an optional actuarially equivalent life annuity benefit from the LEOFF 1/TRS 1 retirement plan fund established in RCW 41.50.075. A minimum payment of twenty-five thousand dollars is required.
-(2) Subject to rules adopted by the department, a member purchasing an annuity under this section must pay all of the cost with an eligible rollover, direct rollover, or trustee-to-trustee transfer from an eligible retirement plan.
-(a) The department shall adopt rules to ensure that all eligible rollovers and transfers comply with the requirements of the internal revenue code and regulations adopted by the internal revenue service. The rules adopted by the department may condition the acceptance of a rollover or transfer from another plan on the receipt of information necessary to enable the department to determine the eligibility of any transferred funds for tax-free rollover treatment or other treatment under federal income tax law.
-(b) "Eligible retirement plan" means a tax qualified plan offered by a governmental employer.
-(3) Plan 1 members whose retirement was effective prior to the effective date of this section, may purchase an annuity under this section between January 1, 2022, and June 1, 2022.
+1. At the time of retirement, plan 1 members may purchase an optional actuarially equivalent life annuity benefit from the LEOFF 1/TRS 1 retirement plan fund established in RCW 41.50.075. A minimum payment of twenty-five thousand dollars is required.
+
+2. Subject to rules adopted by the department, a member purchasing an annuity under this section must pay all of the cost with an eligible rollover, direct rollover, or trustee-to-trustee transfer from an eligible retirement plan.
+
+    a. The department shall adopt rules to ensure that all eligible rollovers and transfers comply with the requirements of the internal revenue code and regulations adopted by the internal revenue service. The rules adopted by the department may condition the acceptance of a rollover or transfer from another plan on the receipt of information necessary to enable the department to determine the eligibility of any transferred funds for tax-free rollover treatment or other treatment under federal income tax law.
+
+    b. "Eligible retirement plan" means a tax qualified plan offered by a governmental employer.
+
+3. Plan 1 members whose retirement was effective prior to the effective date of this section, may purchase an annuity under this section between January 1, 2022, and June 1, 2022.
+
 
 ## Section 220
-(1) All claims for disability shall be acted upon and either approved or disapproved by either type of disability board authorized to be created in this section.
-(a) Each city having a population of twenty thousand or more shall establish a disability board having jurisdiction over all members employed by those cities and composed of the following five members: Two members of the city legislative body to be appointed by the mayor; one active or retired firefighter employed by or retired from the city to be elected by the firefighters employed by or retired from the city who are subject to the jurisdiction of the board; one active or retired law enforcement officer employed by or retired from the city to be elected by the law enforcement officers employed by or retired from the city who are subject to the jurisdiction of the board; and one member from the public at large who resides within the city to be appointed by the other four members designated in this subsection. Only those active or retired firefighters and law enforcement officers who are subject to the jurisdiction of the board have the right to elect under this section. All firefighters and law enforcement officers employed by or retired from the city are eligible for election. Each of the elected members shall serve a two year term. If there are either no firefighters or law enforcement officers under the jurisdiction of the board eligible to vote, a second eligible employee representative shall be elected by the law enforcement officers or firefighters eligible to vote. The members appointed pursuant to this subsection shall serve for two year terms: PROVIDED, That cities of the first class only, shall retain existing firefighters' pension boards established pursuant to RCW 41.16.020 and existing boards of trustees of the relief and pension fund of the police department as established pursuant to RCW 41.20.010 which such boards shall have authority to act upon and approve or disapprove claims for disability.
-(b) Each county shall establish a disability board having jurisdiction over all members employed by or retired from an employer within the county and not employed by a city in which a disability board is established. The county disability board so created shall be composed of five members to be chosen as follows: One member of the legislative body of the county to be appointed by the county legislative body; one member of a city or town legislative body located within the county which does not contain a city disability board established pursuant to (a) of this subsection to be chosen by a majority of the mayors of such cities and towns within the county which does not contain a city disability board; one active firefighter or retired firefighter employed by or retired from an employer within the county to be elected by the firefighters employed or retired from an employer within the county who are not employed by or retired from a city in which a disability board is established and who are subject to the jurisdiction of that board; one law enforcement officer or retired law enforcement officer employed by or retired from an employer within the county to be elected by the law enforcement officers employed in or retired from an employer within the county who are not employed by or retired from a city in which a disability board is established and who are subject to the jurisdiction of that board; and one member from the public at large who resides within the county but does not reside within a city in which a city disability board is established, to be appointed by the other four members designated in this subsection. However, in counties with a population less than sixty thousand, the member of the disability board appointed by a majority of the mayors of the cities and towns within the county that do not contain a city disability board must be a resident of one of the cities and towns but need not be a member of a city or town legislative body. Only those active or retired firefighters and law enforcement officers who are subject to the jurisdiction of the board have the right to elect under this section. All firefighters and law enforcement officers employed by or retired from an employer within the county who are not employed by or retired from a city in which a disability board is established are eligible for election. All members appointed or elected pursuant to this subsection shall serve for two year terms. If there are no firefighters under the jurisdiction of the board eligible to vote, a second eligible employee representative shall be elected by the law enforcement officers eligible to vote. If there are no law enforcement officers under the jurisdiction of the board eligible to vote, a second eligible representative shall be elected by the firefighters eligible to vote.
-(2) The members of both the county and city disability boards shall not receive compensation for their service upon the boards but the members shall be reimbursed by their respective county or city for all expenses incidental to such service as to the amount authorized by law.
-(3) The disability boards authorized for establishment by this section shall perform all functions, exercise all powers, and make all such determinations as specified in this chapter.
+1. All claims for disability shall be acted upon and either approved or disapproved by either type of disability board authorized to be created in this section.
+
+    a. Each city having a population of twenty thousand or more shall establish a disability board having jurisdiction over all members employed by those cities and composed of the following five members: Two members of the city legislative body to be appointed by the mayor; one active or retired firefighter employed by or retired from the city to be elected by the firefighters employed by or retired from the city who are subject to the jurisdiction of the board; one active or retired law enforcement officer employed by or retired from the city to be elected by the law enforcement officers employed by or retired from the city who are subject to the jurisdiction of the board; and one member from the public at large who resides within the city to be appointed by the other four members designated in this subsection. Only those active or retired firefighters and law enforcement officers who are subject to the jurisdiction of the board have the right to elect under this section. All firefighters and law enforcement officers employed by or retired from the city are eligible for election. Each of the elected members shall serve a two year term. If there are either no firefighters or law enforcement officers under the jurisdiction of the board eligible to vote, a second eligible employee representative shall be elected by the law enforcement officers or firefighters eligible to vote. The members appointed pursuant to this subsection shall serve for two year terms: PROVIDED, That cities of the first class only, shall retain existing firefighters' pension boards established pursuant to RCW 41.16.020 and existing boards of trustees of the relief and pension fund of the police department as established pursuant to RCW 41.20.010 which such boards shall have authority to act upon and approve or disapprove claims for disability.
+
+    b. Each county shall establish a disability board having jurisdiction over all members employed by or retired from an employer within the county and not employed by a city in which a disability board is established. The county disability board so created shall be composed of five members to be chosen as follows: One member of the legislative body of the county to be appointed by the county legislative body; one member of a city or town legislative body located within the county which does not contain a city disability board established pursuant to (a) of this subsection to be chosen by a majority of the mayors of such cities and towns within the county which does not contain a city disability board; one active firefighter or retired firefighter employed by or retired from an employer within the county to be elected by the firefighters employed or retired from an employer within the county who are not employed by or retired from a city in which a disability board is established and who are subject to the jurisdiction of that board; one law enforcement officer or retired law enforcement officer employed by or retired from an employer within the county to be elected by the law enforcement officers employed in or retired from an employer within the county who are not employed by or retired from a city in which a disability board is established and who are subject to the jurisdiction of that board; and one member from the public at large who resides within the county but does not reside within a city in which a city disability board is established, to be appointed by the other four members designated in this subsection. However, in counties with a population less than sixty thousand, the member of the disability board appointed by a majority of the mayors of the cities and towns within the county that do not contain a city disability board must be a resident of one of the cities and towns but need not be a member of a city or town legislative body. Only those active or retired firefighters and law enforcement officers who are subject to the jurisdiction of the board have the right to elect under this section. All firefighters and law enforcement officers employed by or retired from an employer within the county who are not employed by or retired from a city in which a disability board is established are eligible for election. All members appointed or elected pursuant to this subsection shall serve for two year terms. If there are no firefighters under the jurisdiction of the board eligible to vote, a second eligible employee representative shall be elected by the law enforcement officers eligible to vote. If there are no law enforcement officers under the jurisdiction of the board eligible to vote, a second eligible representative shall be elected by the firefighters eligible to vote.
+
+2. The members of both the county and city disability boards shall not receive compensation for their service upon the boards but the members shall be reimbursed by their respective county or city for all expenses incidental to such service as to the amount authorized by law.
+
+3. The disability boards authorized for establishment by this section shall perform all functions, exercise all powers, and make all such determinations as specified in this chapter.
+
 
 ## Section 221
 Sections 222 through 240 of this act apply only to the teachers' retirement system plan 1 tier of the retirement system created in this chapter.
 
+
 ## Section 222
 As used in this chapter, unless a different meaning is plainly required by the context:
-(1) "Accumulated contributions" means the sum of all regular annuity contributions and, except for the purpose of withdrawal at the time of retirement, any amount paid under RCW 41.50.165(2) with regular interest thereon.
-(2) "Actuarial equivalent" means a benefit of equal value when computed upon the basis of such mortality tables and regulations as shall be adopted by the director and regular interest.
-(3) "Adjustment ratio" means the value of index A divided by index B.
-(4) "Annual increase" means, initially, fifty-nine cents per month per year of service which amount shall be increased each July 1st by three percent, rounded to the nearest cent.
-(5) "Annuity" means the moneys payable per year during life by reason of accumulated contributions of a member.
-(6) "Beneficiary" for plan 1 members, means any person in receipt of a retirement allowance or other benefit provided by this chapter.
-(7) "Contract" means any agreement for service and compensation between a member and an employer.
-(8) "Creditable service" means membership service plus prior service for which credit is allowable.
-(9) "Department" means the department of retirement systems created in chapter 41.50 RCW.
-(10) "Dependent" means receiving one-half or more of support from a member.
-(11) "Director" means the director of the department.
-(12) "Disability allowance" means monthly payments during disability.
-(13) "Earnable compensation" means:
-(a) All salaries and wages paid by an employer to an employee member of the retirement system for personal services rendered during a fiscal year. In all cases where compensation includes maintenance the employer shall fix the value of that part of the compensation not paid in money.
-(b) For an employee member of the retirement system teaching in an extended school year program, two consecutive extended school years, as defined by the employer school district, may be used as the annual period for determining earnable compensation in lieu of the two fiscal years.
-(c) "Earnable compensation" also includes the following actual or imputed payments, which are not paid for personal services:
-(i) Retroactive payments to an individual by an employer on reinstatement of the employee in a position, or payments by an employer to an individual in lieu of reinstatement in a position which are awarded or granted as the equivalent of the salary or wages which the individual would have earned during a payroll period shall be considered earnable compensation and the individual shall receive the equivalent service credit.
-(ii) If a leave of absence, without pay, is taken by a member for the purpose of serving as a member of the state legislature, and such member has served in the legislature five or more years, the salary which would have been received for the position from which the leave of absence was taken shall be considered as compensation earnable if the employee's contribution thereon is paid by the employee. In addition, where a member has been a member of the state legislature for five or more years, earnable compensation for the member's two highest compensated consecutive years of service shall include a sum not to exceed thirty-six hundred dollars for each of such two consecutive years, regardless of whether or not legislative service was rendered during those two years.
-(d) For members employed less than full time under written contract with a school district, or community college district, in an instructional position, for which the member receives service credit of less than one year in all of the years used to determine the earnable compensation used for computing benefits due under RCW 41.32.497 (as recodified by this act), 41.32.498 (as recodified by this act), and 41.32.520 (as recodified by this act), the member may elect to have earnable compensation defined as provided in RCW 41.32.345 (as recodified by this act). For the purposes of this subsection, the term "instructional position" means a position in which more than seventy-five percent of the member's time is spent as a classroom instructor (including office hours), a librarian, a psychologist, a social worker, a nurse, a physical therapist, an occupational therapist, a speech language pathologist or audiologist, or a counselor. Earnable compensation shall be so defined only for the purpose of the calculation of retirement benefits and only as necessary to insure that members who receive fractional service credit under RCW 41.32.270 (as recodified by this act) receive benefits proportional to those received by members who have received full-time service credit.
-(e) "Earnable compensation" does not include:
-(i) Remuneration for unused sick leave authorized under RCW 41.04.340, 28A.400.210, or 28A.310.490;
-(ii) Remuneration for unused annual leave in excess of two hundred forty hours as authorized by RCW 43.01.044 and 43.01.041.
-(14) "Employed" or "employee" means a person who is providing services for compensation to an employer, unless the person is free from the employer's direction and control over the performance of work. The department shall adopt rules and interpret this subsection consistent with common law.
-(15) "Employer" means the state of Washington, the school district, or any agency of the state of Washington by which the member is paid. Except as otherwise specifically provided in this chapter, "employer" does not include a government contractor. For purposes of this subsection, a "government contractor" is any entity, including a partnership, limited liability company, for-profit or nonprofit corporation, or person, that provides services pursuant to a contract with an employer. The determination whether an employer-employee relationship has been established is not based on the relationship between a government contractor and an employer, but is based solely on the relationship between a government contractor's employee and an employer under this chapter.
-(16) "Fiscal year" means a year which begins July 1st and ends June 30th of the following year.
-(17) "Former state fund" means the state retirement fund in operation for teachers under chapter 187, Laws of 1923, as amended.
-(18) "Index" means, for any calendar year, that year's annual average consumer price index, Seattle, Washington area, for urban wage earners and clerical workers, all items compiled by the bureau of labor statistics, United States department of labor.
-(19) "Index A" means the index for the year prior to the determination of a postretirement adjustment.
-(20) "Index B" means the index for the year prior to index A.
-(21) "Index year" means the earliest calendar year in which the index is more than sixty percent of index A.
-(22) "Local fund" means any of the local retirement funds for teachers operated in any school district in accordance with the provisions of chapter 163, Laws of 1917 as amended.
-(23) "Member" means any teacher included in the membership of the retirement system who has not been removed from membership under RCW 41.32.878 or 41.32.768. Also, any other employee of the public schools who, on July 1, 1947, had not elected to be exempt from membership and who, prior to that date, had by an authorized payroll deduction, contributed to the member reserve.
-(24) "Member account" or "member's account" for purposes of plan 3 means the sum of the contributions and earnings on behalf of the member in the defined contribution portion of plan 3.
-(25) "Member reserve" means the fund in which all of the accumulated contributions of members are held.
-(26) "Membership service" means service rendered subsequent to the first day of eligibility of a person to membership in the retirement system: PROVIDED, That where a member is employed by two or more employers the individual shall receive no more than one service credit month during any calendar month in which multiple service is rendered.
-(27) "Pension" means the moneys payable per year during life from the pension reserve.
-(28) "Pension reserve" is a fund in which shall be accumulated an actuarial reserve adequate to meet present and future pension liabilities of the system and from which all pension obligations are to be paid.
-(29) "Prior service" means service rendered prior to the first date of eligibility to membership in the retirement system for which credit is allowable.
-(30) "Prior service contributions" means contributions made by a member to secure credit for prior service.
-(31) "Public school" means any institution or activity operated by the state of Washington or any instrumentality or political subdivision thereof employing teachers, except the University of Washington and Washington State University.
-(32) "Regular contributions" means the amounts required to be deducted from the compensation of a member and credited to the member's individual account in the member reserve.
-(33) "Regular interest" means such rate as the director may determine.
-(34) "Retiree" means any person who has begun accruing a retirement allowance or other benefit provided by this chapter resulting from service rendered to an employer while a member.
-(35) "Retirement allowance" means monthly payments based on the sum of annuity and pension, or any optional benefits payable in lieu thereof.
-(36) "Retirement system" means the Washington state teachers' retirement system.
-(37) "Separation from service or employment" occurs when a person has terminated all employment with an employer. Separation from service or employment does not occur, and if claimed by an employer or employee may be a violation of RCW 41.32.055, when an employee and employer have a written or oral agreement to resume employment with the same employer following termination. Mere expressions or inquiries about postretirement employment by an employer or employee that do not constitute a commitment to reemploy the employee after retirement are not an agreement under this section.
-(38) "Service" means the time during which a member has been employed by an employer for compensation.
-(a) If a member is employed by two or more employers the individual shall receive no more than one service credit month during any calendar month in which multiple service is rendered.
-(b) As authorized by RCW 28A.400.300, up to forty-five days of sick leave may be creditable as service solely for the purpose of determining eligibility to retire under RCW 41.32.470 (as recodified by this act).
-(c) As authorized in RCW 41.32.065, service earned in an out-of-state retirement system that covers teachers in public schools may be applied solely for the purpose of determining eligibility to retire under RCW 41.32.470 (as recodified by this act).
-(39) "Service credit month" means a full service credit month or an accumulation of partial service credit months that are equal to one.
-(40) "Service credit year" means an accumulation of months of service credit which is equal to one when divided by twelve.
-(41) "State actuary" or "actuary" means the person appointed pursuant to RCW 44.44.010(2).
-(42) "State elective position" means any position held by any person elected or appointed to statewide office or elected or appointed as a member of the legislature.
-(43) "Substitute teacher" means:
-(a) A teacher who is hired by an employer to work as a temporary teacher, except for teachers who are annual contract employees of an employer and are guaranteed a minimum number of hours; or
-(b) Teachers who either (i) work in ineligible positions for more than one employer or (ii) work in an ineligible position or positions together with an eligible position.
-(44) "Teacher" means any person qualified to teach who is engaged by a public school in an instructional, administrative, or supervisory capacity. The term includes state, educational service district, and school district superintendents and their assistants and all employees certificated by the superintendent of public instruction; and in addition thereto any full time school doctor who is employed by a public school and renders service of an instructional or educational nature.
+
+1. "Accumulated contributions" means the sum of all regular annuity contributions and, except for the purpose of withdrawal at the time of retirement, any amount paid under RCW 41.50.165(2) with regular interest thereon.
+
+2. "Actuarial equivalent" means a benefit of equal value when computed upon the basis of such mortality tables and regulations as shall be adopted by the director and regular interest.
+
+3. "Adjustment ratio" means the value of index A divided by index B.
+
+4. "Annual increase" means, initially, fifty-nine cents per month per year of service which amount shall be increased each July 1st by three percent, rounded to the nearest cent.
+
+5. "Annuity" means the moneys payable per year during life by reason of accumulated contributions of a member.
+
+6. "Beneficiary" for plan 1 members, means any person in receipt of a retirement allowance or other benefit provided by this chapter.
+
+7. "Contract" means any agreement for service and compensation between a member and an employer.
+
+8. "Creditable service" means membership service plus prior service for which credit is allowable.
+
+9. "Department" means the department of retirement systems created in chapter 41.50 RCW.
+
+10. "Dependent" means receiving one-half or more of support from a member.
+
+11. "Director" means the director of the department.
+
+12. "Disability allowance" means monthly payments during disability.
+
+13. "Earnable compensation" means:
+
+    a. All salaries and wages paid by an employer to an employee member of the retirement system for personal services rendered during a fiscal year. In all cases where compensation includes maintenance the employer shall fix the value of that part of the compensation not paid in money.
+
+    b. For an employee member of the retirement system teaching in an extended school year program, two consecutive extended school years, as defined by the employer school district, may be used as the annual period for determining earnable compensation in lieu of the two fiscal years.
+
+    c. "Earnable compensation" also includes the following actual or imputed payments, which are not paid for personal services:
+
+        i. Retroactive payments to an individual by an employer on reinstatement of the employee in a position, or payments by an employer to an individual in lieu of reinstatement in a position which are awarded or granted as the equivalent of the salary or wages which the individual would have earned during a payroll period shall be considered earnable compensation and the individual shall receive the equivalent service credit.
+
+        ii. If a leave of absence, without pay, is taken by a member for the purpose of serving as a member of the state legislature, and such member has served in the legislature five or more years, the salary which would have been received for the position from which the leave of absence was taken shall be considered as compensation earnable if the employee's contribution thereon is paid by the employee. In addition, where a member has been a member of the state legislature for five or more years, earnable compensation for the member's two highest compensated consecutive years of service shall include a sum not to exceed thirty-six hundred dollars for each of such two consecutive years, regardless of whether or not legislative service was rendered during those two years.
+
+    d. For members employed less than full time under written contract with a school district, or community college district, in an instructional position, for which the member receives service credit of less than one year in all of the years used to determine the earnable compensation used for computing benefits due under RCW 41.32.497 (as recodified by this act), 41.32.498 (as recodified by this act), and 41.32.520 (as recodified by this act), the member may elect to have earnable compensation defined as provided in RCW 41.32.345 (as recodified by this act). For the purposes of this subsection, the term "instructional position" means a position in which more than seventy-five percent of the member's time is spent as a classroom instructor (including office hours), a librarian, a psychologist, a social worker, a nurse, a physical therapist, an occupational therapist, a speech language pathologist or audiologist, or a counselor. Earnable compensation shall be so defined only for the purpose of the calculation of retirement benefits and only as necessary to insure that members who receive fractional service credit under RCW 41.32.270 (as recodified by this act) receive benefits proportional to those received by members who have received full-time service credit.
+
+    e. "Earnable compensation" does not include:
+
+        i. Remuneration for unused sick leave authorized under RCW 41.04.340, 28A.400.210, or 28A.310.490;
+
+        ii. Remuneration for unused annual leave in excess of two hundred forty hours as authorized by RCW 43.01.044 and 43.01.041.
+
+14. "Employed" or "employee" means a person who is providing services for compensation to an employer, unless the person is free from the employer's direction and control over the performance of work. The department shall adopt rules and interpret this subsection consistent with common law.
+
+15. "Employer" means the state of Washington, the school district, or any agency of the state of Washington by which the member is paid. Except as otherwise specifically provided in this chapter, "employer" does not include a government contractor. For purposes of this subsection, a "government contractor" is any entity, including a partnership, limited liability company, for-profit or nonprofit corporation, or person, that provides services pursuant to a contract with an employer. The determination whether an employer-employee relationship has been established is not based on the relationship between a government contractor and an employer, but is based solely on the relationship between a government contractor's employee and an employer under this chapter.
+
+16. "Fiscal year" means a year which begins July 1st and ends June 30th of the following year.
+
+17. "Former state fund" means the state retirement fund in operation for teachers under chapter 187, Laws of 1923, as amended.
+
+18. "Index" means, for any calendar year, that year's annual average consumer price index, Seattle, Washington area, for urban wage earners and clerical workers, all items compiled by the bureau of labor statistics, United States department of labor.
+
+19. "Index A" means the index for the year prior to the determination of a postretirement adjustment.
+
+20. "Index B" means the index for the year prior to index A.
+
+21. "Index year" means the earliest calendar year in which the index is more than sixty percent of index A.
+
+22. "Local fund" means any of the local retirement funds for teachers operated in any school district in accordance with the provisions of chapter 163, Laws of 1917 as amended.
+
+23. "Member" means any teacher included in the membership of the retirement system who has not been removed from membership under RCW 41.32.878 or 41.32.768. Also, any other employee of the public schools who, on July 1, 1947, had not elected to be exempt from membership and who, prior to that date, had by an authorized payroll deduction, contributed to the member reserve.
+
+24. "Member account" or "member's account" for purposes of plan 3 means the sum of the contributions and earnings on behalf of the member in the defined contribution portion of plan 3.
+
+25. "Member reserve" means the fund in which all of the accumulated contributions of members are held.
+
+26. "Membership service" means service rendered subsequent to the first day of eligibility of a person to membership in the retirement system: PROVIDED, That where a member is employed by two or more employers the individual shall receive no more than one service credit month during any calendar month in which multiple service is rendered.
+
+27. "Pension" means the moneys payable per year during life from the pension reserve.
+
+28. "Pension reserve" is a fund in which shall be accumulated an actuarial reserve adequate to meet present and future pension liabilities of the system and from which all pension obligations are to be paid.
+
+29. "Prior service" means service rendered prior to the first date of eligibility to membership in the retirement system for which credit is allowable.
+
+30. "Prior service contributions" means contributions made by a member to secure credit for prior service.
+
+31. "Public school" means any institution or activity operated by the state of Washington or any instrumentality or political subdivision thereof employing teachers, except the University of Washington and Washington State University.
+
+32. "Regular contributions" means the amounts required to be deducted from the compensation of a member and credited to the member's individual account in the member reserve.
+
+33. "Regular interest" means such rate as the director may determine.
+
+34. "Retiree" means any person who has begun accruing a retirement allowance or other benefit provided by this chapter resulting from service rendered to an employer while a member.
+
+35. "Retirement allowance" means monthly payments based on the sum of annuity and pension, or any optional benefits payable in lieu thereof.
+
+36. "Retirement system" means the Washington state teachers' retirement system.
+
+37. "Separation from service or employment" occurs when a person has terminated all employment with an employer. Separation from service or employment does not occur, and if claimed by an employer or employee may be a violation of RCW 41.32.055, when an employee and employer have a written or oral agreement to resume employment with the same employer following termination. Mere expressions or inquiries about postretirement employment by an employer or employee that do not constitute a commitment to reemploy the employee after retirement are not an agreement under this section.
+
+38. "Service" means the time during which a member has been employed by an employer for compensation.
+
+    a. If a member is employed by two or more employers the individual shall receive no more than one service credit month during any calendar month in which multiple service is rendered.
+
+    b. As authorized by RCW 28A.400.300, up to forty-five days of sick leave may be creditable as service solely for the purpose of determining eligibility to retire under RCW 41.32.470 (as recodified by this act).
+
+    c. As authorized in RCW 41.32.065, service earned in an out-of-state retirement system that covers teachers in public schools may be applied solely for the purpose of determining eligibility to retire under RCW 41.32.470 (as recodified by this act).
+
+39. "Service credit month" means a full service credit month or an accumulation of partial service credit months that are equal to one.
+
+40. "Service credit year" means an accumulation of months of service credit which is equal to one when divided by twelve.
+
+41. "State actuary" or "actuary" means the person appointed pursuant to RCW 44.44.010(2).
+
+42. "State elective position" means any position held by any person elected or appointed to statewide office or elected or appointed as a member of the legislature.
+
+43. "Substitute teacher" means:
+
+    a. A teacher who is hired by an employer to work as a temporary teacher, except for teachers who are annual contract employees of an employer and are guaranteed a minimum number of hours; or
+
+    b. Teachers who either (i) work in ineligible positions for more than one employer or (ii) work in an ineligible position or positions together with an eligible position.
+
+44. "Teacher" means any person qualified to teach who is engaged by a public school in an instructional, administrative, or supervisory capacity. The term includes state, educational service district, and school district superintendents and their assistants and all employees certificated by the superintendent of public instruction; and in addition thereto any full time school doctor who is employed by a public school and renders service of an instructional or educational nature.
+
 
 ## Section 223
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
 
+
 ## Section 224
 Substitute teachers may apply to the department to receive service credit or credit for earnable compensation or both after the end of the last day of instruction of the school year during which the service was performed.
-(1) The application must:
-(a) Include a list of the employers the substitute teacher has worked for;
-(b) Include proof of hours worked and compensation earned; and
-(c) Be made prior to retirement.
-(2) If the department accepts the substitute teacher's application for service credit, the substitute teacher may obtain service credit by paying the required contribution to the retirement system. The employer must pay the required employer contribution upon notice from the department that the substitute teacher has made contributions under this section.
-(3) The department shall charge interest prospectively on employee contributions that are submitted under this section more than six months after the end of the school year, for which the substitute teacher is seeking service credit. The interest rate charged to the employee shall take into account interest lost on employer contributions delayed for more than six months after the end of the school year.
-(4) Each employer shall quarterly notify each substitute teacher it has employed during the school year of the number of hours worked by, and the compensation paid to, the substitute teacher.
-(5) The department shall adopt rules implementing this section.
-(6) If a substitute teacher as defined in section 222 of this act applies to the department under this section for credit for earnable compensation earned from an employer the substitute teacher must make contributions for all periods of service for that employer.
+
+1. The application must:
+
+    a. Include a list of the employers the substitute teacher has worked for;
+
+    b. Include proof of hours worked and compensation earned; and
+
+    c. Be made prior to retirement.
+
+2. If the department accepts the substitute teacher's application for service credit, the substitute teacher may obtain service credit by paying the required contribution to the retirement system. The employer must pay the required employer contribution upon notice from the department that the substitute teacher has made contributions under this section.
+
+3. The department shall charge interest prospectively on employee contributions that are submitted under this section more than six months after the end of the school year, for which the substitute teacher is seeking service credit. The interest rate charged to the employee shall take into account interest lost on employer contributions delayed for more than six months after the end of the school year.
+
+4. Each employer shall quarterly notify each substitute teacher it has employed during the school year of the number of hours worked by, and the compensation paid to, the substitute teacher.
+
+5. The department shall adopt rules implementing this section.
+
+6. If a substitute teacher as defined in section 222 of this act applies to the department under this section for credit for earnable compensation earned from an employer the substitute teacher must make contributions for all periods of service for that employer.
+
 
 ## Section 225
 The department is empowered within the limits of this chapter and, with regard to restoration of service credit under RCW 41.50.165(2), to decide on all questions of eligibility covering membership, service credit, and benefits.
 
+
 ## Section 226
-(1) Any teacher, as defined under section 222 of this act, who is first employed by a public school on or after June 7, 1984, shall become a member of the retirement system if otherwise eligible.
-(2) Any person who before June 7, 1984, has established service credit under chapter 41.40 RCW while employed in an educational staff associate position and who is employed in such a position on or after June 7, 1984, has the following options:
-(a) To remain a member of the public employees' retirement system notwithstanding the provisions of RCW 41.32.240 (as recodified by this act) or 41.32.780; or
-(b) To irrevocably elect to join the retirement system under this chapter and to receive service credit for previous periods of employment in any position included under section 222 of this act. This service credit and corresponding employee contribution shall be computed as though the person had then been a member of the retirement system under this chapter. All employee contributions credited to a member under chapter 41.40 RCW for service now to be credited to the retirement system under this chapter shall be transferred to the system and the member shall not receive any credit nor enjoy any rights under chapter 41.40 RCW for those periods of service. The member shall pay any difference between the employee contributions made under chapter 41.40 RCW and transferred under this subsection and what would have been required under this chapter, including interest as set by the director. The member shall be given until July 1, 1989, to make the irrevocable election permitted under this section. The election shall be made by submitting written notification as required by the department requesting credit under this section and by remitting any necessary proof of service or payments within the time set by the department.
+1. Any teacher, as defined under section 222 of this act, who is first employed by a public school on or after June 7, 1984, shall become a member of the retirement system if otherwise eligible.
+
+2. Any person who before June 7, 1984, has established service credit under chapter 41.40 RCW while employed in an educational staff associate position and who is employed in such a position on or after June 7, 1984, has the following options:
+
+    a. To remain a member of the public employees' retirement system notwithstanding the provisions of RCW 41.32.240 (as recodified by this act) or 41.32.780; or
+
+    b. To irrevocably elect to join the retirement system under this chapter and to receive service credit for previous periods of employment in any position included under section 222 of this act. This service credit and corresponding employee contribution shall be computed as though the person had then been a member of the retirement system under this chapter. All employee contributions credited to a member under chapter 41.40 RCW for service now to be credited to the retirement system under this chapter shall be transferred to the system and the member shall not receive any credit nor enjoy any rights under chapter 41.40 RCW for those periods of service. The member shall pay any difference between the employee contributions made under chapter 41.40 RCW and transferred under this subsection and what would have been required under this chapter, including interest as set by the director. The member shall be given until July 1, 1989, to make the irrevocable election permitted under this section. The election shall be made by submitting written notification as required by the department requesting credit under this section and by remitting any necessary proof of service or payments within the time set by the department.
+
 Any person, not employed as an educational staff associate on June 7, 1984, may, before June 30 of the fifth school year after that person's return to employment as a teacher, request and establish membership and credit under this subsection.
+
 
 ## Section 227
 This section designates charter schools established under chapter 28A.710 RCW as employers and charter school employees as members, and applies only if the department of retirement systems receives determinations from the internal revenue service and the United States department of labor that participation does not jeopardize the status of these retirement systems as governmental plans under the federal employees' retirement income security act and the internal revenue code.
 
+
 ## Section 228
 The deductions from salaries of members of the retirement system for their contributions to the system are not considered diminution of pay and every member is conclusively presumed to consent thereto as a condition of employment. All contributions to the member reserve shall be credited to the individual for whose account the deductions from salary were made. Regular interest shall be credited to each member's account at least annually.
+
 
 ## Section 229
 A retired teacher upon returning to service in the public schools of Washington may elect to again become a member of the retirement system: PROVIDED, That if such a retired teacher elects to be restored to membership he or she must establish two full years of service credit before he or she will be eligible to retire under the provision of a formula other than the one in effect at the time of his or her previous retirement: PROVIDED FURTHER, That where any such right to again retire is exercised to become effective before a member has established two full years of service credit he or she may elect to retire only under the provisions of the formula in effect at the time of his or her previous retirement: AND PROVIDED FURTHER, That this section shall not apply to any individual who has returned to service as of September 27, 1973.
 
+
 ## Section 230
-(1) Subject to subsections (2) and (3) of this section, the right of a person to a pension, an annuity, a retirement allowance, or disability allowance, to the return of contributions, any optional benefit or death benefit, any other right accrued or accruing to any person under the provisions of this chapter and the moneys in the various funds created by this chapter shall be unassignable, and are hereby exempt from any state, county, municipal or other local tax, and shall not be subject to execution, garnishment, attachment, the operation of bankruptcy or insolvency laws, or other process of law whatsoever whether the same be in actual possession of the person or be deposited or loaned.
-(2) This section shall not be deemed to prohibit a beneficiary of a retirement allowance who is eligible:
-(a) Under RCW 41.05.080 from authorizing monthly deductions therefrom for payment of premiums due on any group insurance policy or plan issued for the benefit of a group comprised of public employees of the state of Washington or its political subdivisions;
-(b) Under a group health care benefit plan approved pursuant to RCW 28A.400.350 or 41.05.065 from authorizing monthly deductions therefrom, of the amount or amounts of subscription payments, premiums, or contributions to any person, firm, or corporation furnishing or providing medical, surgical, and hospital care or other health care insurance; or
-(c) Under this system from authorizing monthly deductions therefrom for payment of dues and other membership fees to any retirement association composed of retired teachers and/or public employees pursuant to a written agreement between the director and the retirement association.
+1. Subject to subsections (2) and (3) of this section, the right of a person to a pension, an annuity, a retirement allowance, or disability allowance, to the return of contributions, any optional benefit or death benefit, any other right accrued or accruing to any person under the provisions of this chapter and the moneys in the various funds created by this chapter shall be unassignable, and are hereby exempt from any state, county, municipal or other local tax, and shall not be subject to execution, garnishment, attachment, the operation of bankruptcy or insolvency laws, or other process of law whatsoever whether the same be in actual possession of the person or be deposited or loaned.
+
+2. This section shall not be deemed to prohibit a beneficiary of a retirement allowance who is eligible:
+
+    a. Under RCW 41.05.080 from authorizing monthly deductions therefrom for payment of premiums due on any group insurance policy or plan issued for the benefit of a group comprised of public employees of the state of Washington or its political subdivisions;
+
+    b. Under a group health care benefit plan approved pursuant to RCW 28A.400.350 or 41.05.065 from authorizing monthly deductions therefrom, of the amount or amounts of subscription payments, premiums, or contributions to any person, firm, or corporation furnishing or providing medical, surgical, and hospital care or other health care insurance; or
+
+    c. Under this system from authorizing monthly deductions therefrom for payment of dues and other membership fees to any retirement association composed of retired teachers and/or public employees pursuant to a written agreement between the director and the retirement association.
+
 Deductions under (a) and (b) of this subsection shall be made in accordance with rules that may be adopted by the director.
-(3) Subsection (1) of this section shall not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department of retirement systems to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
+
+3. Subsection (1) of this section shall not prohibit the department from complying with (a) a wage assignment order for child support issued pursuant to chapter 26.18 RCW, (b) an order to withhold and deliver issued pursuant to chapter 74.20A RCW, (c) a notice of payroll deduction issued pursuant to RCW 26.23.060, (d) a mandatory benefits assignment order issued by the department, (e) a court order directing the department of retirement systems to pay benefits directly to an obligee under a dissolution order as defined in RCW 41.50.500(3) which fully complies with RCW 41.50.670 and 41.50.700, or (f) any administrative or court order expressly authorized by federal law.
+
 
 ## Section 231
-(1) A one hundred fifty thousand dollar death benefit shall be paid to the member's estate, or such person or persons, trust or organization as the member has nominated by written designation duly executed and filed with the department. If no such designated person or persons are still living at the time of the member's death, the member's death benefit shall be paid to the member's surviving spouse as if in fact the spouse had been nominated by written designation, or if there is no surviving spouse, then to the member's legal representatives.
-(2) The benefit under this section shall be paid only where death occurs as a result of (a) injuries sustained in the course of employment; or (b) an occupational disease or infection that arises naturally and proximately out of employment covered under this chapter. The determination of eligibility for the benefit shall be made consistent with Title 51 RCW by the department of labor and industries. The department of labor and industries shall notify the department of retirement systems by order under RCW 51.52.050.
+1. A one hundred fifty thousand dollar death benefit shall be paid to the member's estate, or such person or persons, trust or organization as the member has nominated by written designation duly executed and filed with the department. If no such designated person or persons are still living at the time of the member's death, the member's death benefit shall be paid to the member's surviving spouse as if in fact the spouse had been nominated by written designation, or if there is no surviving spouse, then to the member's legal representatives.
+
+2. The benefit under this section shall be paid only where death occurs as a result of (a) injuries sustained in the course of employment; or (b) an occupational disease or infection that arises naturally and proximately out of employment covered under this chapter. The determination of eligibility for the benefit shall be made consistent with Title 51 RCW by the department of labor and industries. The department of labor and industries shall notify the department of retirement systems by order under RCW 51.52.050.
+
 
 ## Section 232
 A member shall not receive a disability retirement benefit under RCW 41.32.540 (as recodified by this act), 41.32.550 (as recodified by this act), 41.32.790, or 41.32.880 if the disability is the result of criminal conduct by the member committed after April 21, 1997.
 
+
 ## Section 233
-(1) Any person who shall knowingly make false statements or shall falsify or permit to be falsified any record or records of the retirement system, except under subsection (2) of this section, in any attempt to defraud such system as a result of such act, is guilty of a class B felony punishable according to chapter 9A.20 RCW.
-(2) Any person who shall knowingly make false statements or shall falsify or permit to be falsified any record or records of the retirement systems related to a member's separation from service and qualification for a retirement allowance under RCW 41.32.480 (as recodified by this act) in any attempt to defraud that system as a result of such an act, is guilty of a gross misdemeanor.
+1. Any person who shall knowingly make false statements or shall falsify or permit to be falsified any record or records of the retirement system, except under subsection (2) of this section, in any attempt to defraud such system as a result of such act, is guilty of a class B felony punishable according to chapter 9A.20 RCW.
+
+2. Any person who shall knowingly make false statements or shall falsify or permit to be falsified any record or records of the retirement systems related to a member's separation from service and qualification for a retirement allowance under RCW 41.32.480 (as recodified by this act) in any attempt to defraud that system as a result of such an act, is guilty of a gross misdemeanor.
+
 
 ## Section 234
 RCW 43.01.044 shall not result in any increase in retirement benefits. The rights extended to state officers and employees under RCW 43.01.044 are not intended to and shall not have any effect on retirement benefits under this chapter.
 
+
 ## Section 235
-(1) The annual compensation taken into account in calculating retiree benefits under this system shall not exceed the limits imposed by section 401(a)(17) of the federal internal revenue code for qualified trusts.
-(2) The department shall adopt rules as necessary to implement this section.
+1. The annual compensation taken into account in calculating retiree benefits under this system shall not exceed the limits imposed by section 401(a)(17) of the federal internal revenue code for qualified trusts.
+
+2. The department shall adopt rules as necessary to implement this section.
+
 
 ## Section 236
 Notwithstanding any provision to the contrary, persons who fail to:
-(1) Establish allowable membership service not previously credited;
-(2) Restore all or a part of that previously credited membership service represented by withdrawn contributions; or
-(3) Restore service credit represented by a lump sum payment in lieu of benefits, before the deadline established by statute, may do so under the conditions set forth in RCW 41.50.165.
+
+1. Establish allowable membership service not previously credited;
+
+2. Restore all or a part of that previously credited membership service represented by withdrawn contributions; or
+
+3. Restore service credit represented by a lump sum payment in lieu of benefits, before the deadline established by statute, may do so under the conditions set forth in RCW 41.50.165.
+
 
 ## Section 237
 Those members subject to this chapter who became disabled in the line of duty and who received or are receiving benefits under Title 51 RCW or a similar federal workers' compensation program shall receive or continue to receive service credit subject to the following:
-(1) No member may receive more than one month's service credit in a calendar month.
-(2) No service credit under this section may be allowed after a member separates or is separated without leave of absence.
-(3) Employer contributions shall be paid by the employer at the rate in effect for the period of the service credited.
-(4) Employee contributions shall be collected by the employer and paid to the department at the rate in effect for the period of service credited.
-(5) Contributions shall be based on the regular compensation which the member would have received had the disability not occurred. If contribution payments are made retroactively, interest shall be charged at the rate set by the director on both employee and employer contributions. Service credit shall not be granted until the employee contribution has been paid.
-(6) The service and compensation credit shall not be granted for a period to exceed twenty-four consecutive months.
-(7) Should the legislature revoke the service credit authorized under this section or repeal this section, no affected employee is entitled to receive the credit as a matter of contractual right.
+
+1. No member may receive more than one month's service credit in a calendar month.
+
+2. No service credit under this section may be allowed after a member separates or is separated without leave of absence.
+
+3. Employer contributions shall be paid by the employer at the rate in effect for the period of the service credited.
+
+4. Employee contributions shall be collected by the employer and paid to the department at the rate in effect for the period of service credited.
+
+5. Contributions shall be based on the regular compensation which the member would have received had the disability not occurred. If contribution payments are made retroactively, interest shall be charged at the rate set by the director on both employee and employer contributions. Service credit shall not be granted until the employee contribution has been paid.
+
+6. The service and compensation credit shall not be granted for a period to exceed twenty-four consecutive months.
+
+7. Should the legislature revoke the service credit authorized under this section or repeal this section, no affected employee is entitled to receive the credit as a matter of contractual right.
+
 
 ## Section 238
 A member who has not purchased service credit under the provisions of RCW 41.32.813 or 41.32.868 may elect under this section to apply service credit earned in an out-of-state retirement system that covers teachers in public schools solely for the purpose of determining the time at which the member may retire. The benefit shall be actuarially reduced to recognize the difference between the age a member would have first been able to retire based on service in the state of Washington and the member's retirement age.
 
+
 ## Section 239
-(1) A member eligible to retire under RCW 41.32.480 (as recodified by this act), 41.32.765, or 41.32.875 may, at the time of filing a written application for retirement with the department, apply to the department to make a one-time purchase of up to five years of additional service credit.
-(2) To purchase additional service credit under this section, a member shall pay the actuarial equivalent value of the resulting increase in the member's benefit.
-(3) Subject to rules adopted by the department, a member purchasing additional service credit under this section may pay all or part of the cost with a lump sum payment, eligible rollover, direct rollover, or trustee-to-trustee transfer from an eligible retirement plan. The department shall adopt rules to ensure that all lump sum payments, rollovers, and transfers comply with the requirements of the internal revenue code and regulations adopted by the internal revenue service. The rules adopted by the department may condition the acceptance of a rollover or transfer from another plan on the receipt of information necessary to enable the department to determine the eligibility of any transferred funds for tax-free rollover treatment or other treatment under federal income tax law.
-(4) Additional service credit purchased under this section is not membership service and shall be used exclusively to provide the member with a monthly annuity that is paid in addition to the member's retirement allowance.
+1. A member eligible to retire under RCW 41.32.480 (as recodified by this act), 41.32.765, or 41.32.875 may, at the time of filing a written application for retirement with the department, apply to the department to make a one-time purchase of up to five years of additional service credit.
+
+2. To purchase additional service credit under this section, a member shall pay the actuarial equivalent value of the resulting increase in the member's benefit.
+
+3. Subject to rules adopted by the department, a member purchasing additional service credit under this section may pay all or part of the cost with a lump sum payment, eligible rollover, direct rollover, or trustee-to-trustee transfer from an eligible retirement plan. The department shall adopt rules to ensure that all lump sum payments, rollovers, and transfers comply with the requirements of the internal revenue code and regulations adopted by the internal revenue service. The rules adopted by the department may condition the acceptance of a rollover or transfer from another plan on the receipt of information necessary to enable the department to determine the eligibility of any transferred funds for tax-free rollover treatment or other treatment under federal income tax law.
+
+4. Additional service credit purchased under this section is not membership service and shall be used exclusively to provide the member with a monthly annuity that is paid in addition to the member's retirement allowance.
+
 
 ## Section 240
 A member may purchase additional benefits subject to the following:
-(1) The member shall pay all reasonable administrative and clerical costs; and
-(2) The member shall make a member reserve contribution to be actuarially converted to a monthly benefit at the time of retirement.
+
+1. The member shall pay all reasonable administrative and clerical costs; and
+
+2. The member shall make a member reserve contribution to be actuarially converted to a monthly benefit at the time of retirement.
+
 
 ## Section 241
-(1) The state investment board has the full power to invest, reinvest, manage, contract, sell, or exchange investment money in the merged LEOFF 1/TRS 1 retirement plan fund.
+1. The state investment board has the full power to invest, reinvest, manage, contract, sell, or exchange investment money in the merged LEOFF 1/TRS 1 retirement plan fund.
+
 All investment and operating costs of the state investment board and the state treasurer associated with these funds shall be paid under RCW 43.08.190, 43.33A.160, 43.79A.040, and 43.84.160. With the exception of these expenses, the earnings from the investment of the funds shall be retained by the funds.
-(2) All investments made by the state investment board shall be made with the exercise of that degree of judgment and care under RCW 43.33A.140 and the investment policy established by the state investment board.
-(3) As deemed appropriate by the state investment board, money in the funds may be commingled for investment.
+
+2. All investments made by the state investment board shall be made with the exercise of that degree of judgment and care under RCW 43.33A.140 and the investment policy established by the state investment board.
+
+3. As deemed appropriate by the state investment board, money in the funds may be commingled for investment.
+
+
+## Section 242
+> This section adds a new section to an existing chapter [41.26](/rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md) for context.
+
+1. The assets of the law enforcement officers' and firefighters' system plan 1 retirement fund transferred to the merged LEOFF 1/TRS 1 retirement plan fund by RCW 41.50.075 shall fund the law enforcement officers' and firefighters' system plan 1 lump sum defined benefit created by this section.
+
+2. Law enforcement officers' and firefighters' plan 1 active members, term-vested members, retirees, and survivors eligible for benefits under the plan 1 provisions of this chapter on the effective date of this section shall be eligible to receive the plan 1 lump sum defined benefit pursuant to the conditions established in this section.
+
+3. The lump sum defined benefit is $20,000 per member or survivor, payable on January 3, 2022, or the member's retirement date, whichever is later. In the case of multiple survivor beneficiaries, the lump sum defined benefit shall be divided equally.
+
+4. If a member is active or term-vested, interest on the lump sum defined benefit as determined by the director of retirement systems shall accumulate from January 3, 2022, until distribution to the participant upon retirement from service or for disability. For the purposes of this section, a "term-vested member" is a member who has rendered five years of service, has not withdrawn his or her member contributions, and who has not applied for retirement.
+
+5. If a member dies after the effective date of this section but before distribution of the lump sum defined benefit created in this section occurs, the distribution shall be made according to the member's beneficiary designation under this chapter.
+
+6. The lump sum defined benefit created in this section is subject to RCW 41.26.053.
+
+7. If section 203 of this act is held to be invalid, recipients of the lump sum defined benefit provided by this section shall no longer be entitled to this benefit and shall be required to return any funds received according to the provisions of RCW 41.50.135, 41.50.136, 41.50.137, and 41.50.138.
+
+
+## Section 301
+> This section adds a new section to an existing chapter [41.50](/rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md) for context.
+
+1. The merger of the assets, liabilities, and membership of the teachers' retirement system plan 1 and the law enforcement officers' and firefighters' retirement system plan 1 in section 203 of this act may not impact benefits for members of these plans. Specifically, each member of each of these plans is entitled to receive benefits immediately after the merger on the effective date of this section that are equal to the benefits the member would have been entitled to receive immediately before the merger in accordance with plan terms. If the director determines that any provision of this act directly impacts benefits for members of the teachers' retirement system plan 1 or benefits for members of the law enforcement officers' and firefighters' retirement system plan 1, then the department is instructed to administer this act in a way that neither reduces, nor grants additional benefits, for members of those plans. The department may also conduct rule making for this purpose as provided in RCW 41.50.050.
+
+2. The department must submit a request for both a private letter ruling and a determination letter from the federal internal revenue service indicating the qualified status of the merged plan that results from the merger of assets, liabilities, and membership in section 203 of this act.
+
 
 ## Section 302
 > This section modifies existing section [41.50.110](/rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md) for context.
@@ -2115,9 +2424,13 @@ If any dependent is under the age of eighteen years at the time of the occurrenc
 
 
 ## Section 801
-(1) The merger of the assets, liabilities, and membership of the teachers' retirement system plan 1 and the law enforcement officers' and firefighters' retirement system plan 1 as provided in section 203 of this act must be administered so as to comply with the internal revenue code, Title 26 U.S.C., and specifically with plan qualification requirements imposed on governmental plans by section 401(a) of the internal revenue code.
+1. The merger of the assets, liabilities, and membership of the teachers' retirement system plan 1 and the law enforcement officers' and firefighters' retirement system plan 1 as provided in section 203 of this act must be administered so as to comply with the internal revenue code, Title 26 U.S.C., and specifically with plan qualification requirements imposed on governmental plans by section 401(a) of the internal revenue code.
+
 Any section or provision of this act that is susceptible to more than one construction must be interpreted so as to meet this requirement.
-(2) If the federal internal revenue service issues a determination letter stating that any section of this act is in conflict with the plan qualification requirements for governmental plans in section 401(a) of the internal revenue code, and the conflict cannot be resolved through administrative action or statutory change, then sections 201 through 703 of this act are null and void.
+
+2. If the federal internal revenue service issues a determination letter stating that any section of this act is in conflict with the plan qualification requirements for governmental plans in section 401(a) of the internal revenue code, and the conflict cannot be resolved through administrative action or statutory change, then sections 201 through 703 of this act are null and void.
+
 
 ## Section 802
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

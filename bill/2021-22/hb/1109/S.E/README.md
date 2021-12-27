@@ -1,6 +1,61 @@
 # Engrossed Substitute House Bill 1109 as Recommended by Public Safety
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1109-S.E.xml)
+## Section 1
+> This section adds a new section to an existing chapter [5.70](/rcw/05_evidence/5.70_dna_evidence.md). Here is the [modified chapter](rcw/05_evidence/5.70_dna_evidence.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the association must, in consultation with the office of the attorney general, collect information on the investigational status of any sexual assault case where the sexual assault kit was in the possession of the law enforcement agency and a request for forensic examination had not been submitted by the law enforcement agency to the Washington state patrol crime laboratory as of July 24, 2015. The association must work with law enforcement agencies to update the investigational status of each open case not less than semiannually. Beginning in 2022, the association must submit reports on the information collected pursuant to this section to the governor and appropriate committees of the legislature by January 1st and July 1st of each year.
+
+2. For the purposes of this section:
+
+    a. "Association" means the Washington association of sheriffs and police chiefs.
+
+    b. "Investigational status" means:
+
+        i. The agency case or incident number;
+
+        ii. The date the request for forensic examination of the sexual
+assault kit was submitted to the Washington state patrol crime
+laboratory;
+
+        iii. The date the forensic examination was complete and reported
+to the law enforcement agency;
+
+        iv. Whether the case is open or closed;
+
+    v. For open cases, whether the case remains:
+
+(A) An active investigation;
+
+(B) Open pending forensic examination results; or
+
+(C) Open and inactive, in which case the agency must include a brief description as to why the case is inactive; and
+
+    vi. For closed cases, whether the case was closed as a result of:
+
+(A) A referral for prosecution where charges were filed or the prosecutor is reviewing the case;
+
+(B) A referral for prosecution where the prosecutor declined to file charges based on the case being legally insufficient;
+
+(C) A referral for prosecution where the prosecutor declined to files charges because the case failed to meet prosecutorial charging standards;
+
+(D) After reviewing the results of the forensic examination, there was no evidence that a crime occurred, or there was lack of probable cause that a crime occurred;
+
+(E) The inability to locate the victim or lack of victim participation; or
+
+(F) Any other reason, in which case the agency must include a brief description as to why the case closed.
+
+3. Nothing in this section may be interpreted to require any law enforcement agency to disclose any information that would jeopardize an active criminal investigation.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [5.70](/rcw/05_evidence/5.70_dna_evidence.md). Here is the [modified chapter](rcw/05_evidence/5.70_dna_evidence.md) for context.
+
+1. For any sexual assault kit under RCW 5.70.050 where forensic analysis has generated a profile that has resulted in a hit in the combined DNA index system, the office of the attorney general may request information from the applicable law enforcement agency and prosecuting attorney as to the case status of any related criminal investigation and prosecution, including information as provided under section 1(2)(b) of this act as well as any other relevant information. The law enforcement agency and prosecuting attorney shall provide requested case status updates to the office of the attorney general. The office of the attorney general shall consult with the Washington association of sheriffs and police chiefs when developing any procedures for requesting and collecting case status updates under this section.
+
+2. Nothing in this section may be interpreted to require any law enforcement agency or prosecuting attorney to disclose any information that would jeopardize an active criminal investigation or prosecution.
+
+
 ## Section 3
 > This section modifies existing section [43.101.278](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
 

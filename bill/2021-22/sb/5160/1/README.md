@@ -4,6 +4,115 @@
 ## Section 1
 Therefore, it is the intent of the legislature with this act to expand upon and preserve some of these protections for tenants within the governor's eviction moratorium, provide legal representation for qualifying tenants in eviction cases, and ensure tenants and landlords have adequate opportunities to access state and local rental assistance programs to both reimburse landlords for unpaid rent and preserve tenancies.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+The definitions in this section apply throughout sections 3 through 5 of this act unless the context clearly requires otherwise.
+
+1. "Dwelling unit" has the same meaning as defined in RCW 59.18.030, and includes a manufactured/mobile home or a mobile home lot as defined in RCW 59.20.030.
+
+2. "Eviction moratorium" refers to the governor of the state of Washington's proclamation 20.19-5, proclaiming a moratorium on certain evictions for all counties throughout Washington state on December 31, 2020, and any subsequent orders extending or amending such proclamation until it expires or is terminated by the governor of the state of Washington.
+
+3. "Landlord" has the same meaning as defined in RCW 59.18.030 and 59.20.030.
+
+4. "Public health emergency" refers to the governor of the state of Washington's proclamation 20-05, proclaiming a state of emergency for all counties throughout Washington state on February 29, 2020, and any subsequent orders extending or amending such proclamation due to COVID-19 until the proclamation expires or is terminated by the governor of the state of Washington. "Public health emergency" also refers to any proclamation declaring a state of emergency for all counties in Washington state.
+
+5. "Rent" has the same meaning as defined in RCW 59.18.030.
+
+6. "Reprisal or retaliatory action" has the same meaning as defined in RCW 59.18.240.
+
+7. "Tenant" refers to any individual renting a dwelling unit or lot primarily for living purposes, including any individual with a tenancy subject to chapter 59.18 or 59.20 RCW or any individual residing in transient lodging, such as a hotel or motel or camping area as their primary dwelling, for more than 14 days. "Tenant" does not include a person entering onto land without permission of the landowner or lessor.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. [Empty]
+
+    a. Until two years after expiration of any public health emergency, a landlord may not terminate a tenancy or refuse to renew a rental agreement pursuant to RCW 59.12.030 (1) or (2), 59.18.200, or 59.18.220 unless:
+
+        i. The landlord intends to sell the rental dwelling unit or the property on which the rental dwelling sits or intends to occupy the rental dwelling unit as their primary residence; or
+
+        ii. The landlord and tenant reside in the same dwelling unit.
+
+    b. When the landlord seeks to terminate a tenancy or refuse to renew a rental agreement as allowed under (a)(i) of this subsection, the landlord must provide at least 60 days' notice to the tenant in the form of an affidavit signed under penalty of perjury.
+
+2. If a tenant has any unpaid rent that accrued between March 1, 2020, and the governor's eviction moratorium expiration date, and except as provided in subsection (1) of this section, there is a rebuttable presumption that any notice issued to a tenant under RCW 59.12.030 (1) or (2), 59.18.200, or 59.18.220 constitutes a reprisal or retaliatory action. A landlord may not take any adverse action against a tenant who raises the tenant's rights under this section.
+
+3. A landlord in violation of this section is liable in a civil action for up to four and one-half times the monthly rent of the real property at issue, as well as court costs and reasonable attorneys' fees. A court must impose this penalty in an amount necessary to deter future violations, payable to the tenant bringing the action.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. A tenant's right to possession of a dwelling unit used primarily for residential purposes cannot be conditioned on satisfaction of any rent that accrued between March 1, 2020, and the governor's eviction moratorium expiration date.
+
+2. A tenant who has been adversely impacted during any public health emergency may elect to terminate their tenancy upon a 20-day written notice, which includes a statement that the tenant is terminating their tenancy due to COVID-19. Any tenant who elects to terminate their tenancy under this subsection must not be assessed any penalty, early termination fee, or any other amount for the failure to continue their tenancy for a predetermined amount of time. Any deposit paid by the tenant must not be deemed forfeited by the tenant's election to terminate the tenant's tenancy under this subsection. However, if rent is still owed after the tenant elects to terminate their tenancy as authorized under this subsection, the landlord may apply deposit funds to the outstanding rent amount or any other charges consistent with RCW 59.18.280.
+
+3. For rent that accrued between March 1, 2020, and the governor's eviction moratorium expiration date, a tenant's nonpayment of rent must not be a factor in any housing decision affecting a tenant's right or ability to occupy a rental dwelling unit. A tenant's early termination of a prior lease in accordance with subsection (2) of this section may not be a factor in any housing decision affecting the tenant's right or ability to occupy a rental dwelling unit. This subsection applies equally to tenants and prospective tenants.
+
+4. A landlord may not charge or impose any late fees or other charges against any tenant for the nonpayment of rent that became due during any public health emergency.
+
+5. [Empty]
+
+    a. A landlord may not deny, discourage application for, or otherwise make unavailable any rental dwelling unit based on a tenant's or prospective tenant's medical history including, but not limited to, the tenant's or prospective tenant's prior or current exposure or infection to the COVID-19 virus.
+
+    b. A landlord may not inquire about, consider, or require disclosure of a tenant's or prospective tenant's medical records or history, unless such disclosure is necessary to evaluate a reasonable accommodation request or reasonable modification request under RCW 49.60.222.
+
+    c. A violation of this subsection (5) constitutes a violation of chapter 49.60 RCW.
+
+6. A landlord in violation of this section is liable in a civil action for up to four and one-half times the monthly rent of the real property at issue, as well as court costs and reasonable attorneys' fees. A court must impose this penalty in an amount necessary to deter future violations, payable to the tenant bringing the action.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. [Empty]
+
+    a. Before taking any collection action to seek any remaining unpaid rent that accrued either between March 1, 2020, and the governor's eviction moratorium expiration date or during any public health emergency, a landlord must first offer the tenant a repayment plan that considers and is based on the individual financial, health, or other circumstances of the tenant's household and whether a tenant is able to meet their other necessary life-sustaining financial obligations after the requirements of a repayment plan, including payments for food, utilities, work-related expenses, child support, medical care, child care, or other similar necessities.
+
+    b. For purposes of this section, "collection action" means any attempts to collect, or threats to collect, through a collection agency, by filing an unlawful detainer or other judicial action, withholding any portion of a security deposit, billing or invoicing, reporting to credit bureaus, reporting to tenant screening companies, or by any other means.
+
+2. Any repayment plan entered into under this section must:
+
+    a. Not require payment until 60 days after the repayment plan is offered to the tenant;
+
+    b. Cover rent only and not any late fees, attorneys' fees, or any other fees and charges;
+
+    c. Allow for payments from any source of income as defined in RCW 59.18.255(5) or from pledges by nonprofit organizations, churches, religious institutions, or governmental entities;
+
+    d. Not include provisions or be conditioned on: The tenant's compliance with the rental agreement, payment of attorneys' fees, court costs, or other costs related to litigation if the tenant defaults on the rental agreement; a requirement that the tenant apply for governmental benefits or provide proof of receipt of governmental benefits; or the tenant's waiver of any rights to a notice under RCW 59.12.030 or related provisions before a writ of restitution is issued.
+
+3. [Empty]
+
+    a. If a tenant knowingly refuses the offer of a repayment plan, fails to respond to the offer of a repayment plan, or defaults on any rent owed under a repayment plan entered under this section, the landlord may proceed with an unlawful detainer action pursuant to RCW 59.12.030(3) and subject to any prefiling conciliation and formal mediation requirements if the unlawful detainer action would be filed in a county superior court operating an eviction resolution program in accordance with order no. 25700-B-639 of the Washington supreme court and any standing order of the superior court.
+
+    b. It is a defense to an eviction under RCW 59.12.030 that a landlord did not offer a repayment plan under this section. This defense is not available if a landlord demonstrates by a preponderance of the evidence to a court that the tenant was offered, and knowingly refused or failed to respond to or comply with, a repayment plan in conformity with this section.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. The court must appoint an attorney for an indigent tenant at any show cause hearing or scheduled trial. Subject to the availability of amounts appropriated for this specific purpose, the state shall pay the costs of legal services provided by an attorney appointed pursuant to this subsection. The office of civil legal aid is responsible for implementation of this subsection as provided in section 7 of this act.
+
+2. For purposes of this section, "indigent" means any person who, at any stage of a court proceeding, is:
+
+    a. Receiving one of the following types of public assistance: Temporary assistance for needy families, aged, blind, or disabled assistance benefits, medical care services under RCW 74.09.035, pregnant women assistance benefits, poverty-related veterans' benefits, food stamps or food stamp benefits transferred electronically, refugee resettlement benefits, medicaid, or supplemental security income;
+
+    b. Receiving an annual income, after taxes, of 200 percent or less of the current federally established poverty level; or
+
+    c. Unable to pay the anticipated cost of counsel for the matter before the court because his or her available funds are insufficient to pay any amount for the retention of counsel.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [2.53](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
+
+1. Money appropriated by the legislature for legal services provided by an attorney appointed pursuant to section 6 of this act must be administered by the office of civil legal aid established under RCW 2.53.020. The office of civil legal aid must enter into contracts with attorneys and agencies for the provision of legal services under section 6 of this act to remain within appropriated amounts.
+
+2. The legislature recognizes that the office of civil legal aid needs time to properly implement the right to attorney legal representation for indigent tenants under section 6 of this act. Within 90 days after the effective date of this section, the office of civil legal aid must submit to the appropriate legislative committees and the administrative office of the courts a plan to fully implement the tenant representation program under section 6 of this act within 12 months of the effective date of this section.
+
+
 ## Section 8
 > This section modifies existing section [59.18.057](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
 
@@ -108,6 +217,12 @@ You must mail, fax, or hand deliver your response letter to your Landlord's lawy
 . . . . . . . . . (Fax - required if available)
 
 If you respond to this Summons, you will be notified of your hearing date in a document called an "Order to Show Cause." This is usually mailed to you. If you get notice of a hearing, . If you do not show up, your landlord can evict you. Your landlord might also charge you more money. If you move before the court date, you must tell your landlord or the landlord's attorney.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [43.185C](/rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md) for context.
+
+The department must authorize landlords access to any statewide rental assistance program administered by the department, if feasible, and establish application and eligibility requirements and any conditions on the receipt of funds as the department deems appropriate by rule.
 
 
 ## Section 11
@@ -260,5 +375,24 @@ PHONE
 This chapter shall regulate and determine legal rights, remedies, and obligations arising from any rental agreement between a landlord and a tenant regarding a mobile home lot and including specified amenities within the mobile home park, mobile home park cooperative, or mobile home park subdivision, where the tenant has no ownership interest in the property or in the association which owns the property, whose uses are referred to as a part of the rent structure paid by the tenant. All such rental agreements shall be unenforceable to the extent of any conflict with any provision of this chapter. Chapter 59.12 RCW shall be applicable only in implementation of the provisions of this chapter and not as an alternative remedy to this chapter which shall be exclusive where applicable: PROVIDED, That the provision of RCW 59.12.090, 59.12.100, and 59.12.170 shall not apply to any rental agreement included under the provisions of this chapter. RCW 59.18.055 **, sections 6 and 16 of this act, 59.18.365, 59.18.370, and 59.18.380** through 59.18.410 shall be applicable to any action of forcible entry or detainer or unlawful detainer arising from a tenancy under the provisions of this chapter, except when a mobile home, manufactured home, or park model or a tenancy in a mobile home lot is abandoned. Rentals of mobile homes, manufactured homes, or park models themselves are governed by the residential landlord-tenant act, chapter 59.18 RCW.
 
 
+## Section 16
+> This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
+
+1. Except as provided under subsection (2) of this section, the court must allow access to unlawful detainer case records filed under this chapter only as follows:
+
+    a. To a party to the action, including a party's attorney;
+
+    b. To a person who provides the court with the names of at least one plaintiff and one defendant and the address of the premises, including the apartment or unit number, if any;
+
+    c. To a resident of the premises who provides the court with the name of one of the parties or the case number and shows proof of residency;
+
+    d. To a person by order of the court, which may be granted ex parte, on a showing of good cause.
+
+2. A court must automatically and permanently seal any unlawful detainer action unless, within 60 days after the complaint is filed, the landlord prevails at the show cause hearing or trial or any default or default judgment for the landlord is not vacated or set aside.
+
+3. This section does not prohibit the court from issuing an order that prohibits access to the court record in an unlawful detainer action filed under this chapter if stipulated by the parties to the action.
+
+
 ## Section 18
 Sections 2 through 5 of this act supersede any other provisions within chapter 59.18 or 59.12 RCW, or chapter 59.20 RCW as applicable, that conflict with sections 2 through 5 of this act.
+

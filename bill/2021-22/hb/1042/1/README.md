@@ -15,3 +15,4 @@
 
 ## Section 2
 This act applies to child custody proceedings or proceedings to enforce a child custody determination pending as of the effective date of this section, or commenced on or after the effective date of this section.
+

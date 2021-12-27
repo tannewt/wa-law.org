@@ -3,114 +3,207 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1189-S.E.xml)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Assessed value of real property" means the valuation of taxable real property as placed on the last completed assessment roll prepared pursuant to Title 84 RCW.
-(2) "Increment area" means the geographic area within which regular property tax revenues are to be apportioned to pay public improvement costs, as authorized under this chapter.
-(3) "Increment value" means 100 percent of any increase in the true and fair value of real property in an increment area that is placed on the tax rolls after the increment area is created.
-(4) "Local government" means any city, town, county, port district, or any combination thereof.
-(5) "Ordinance" means any appropriate method of taking legislative action by a local government.
-(6) "Public improvement costs" means the costs of:
-(a) Design, planning, acquisition, required permitting, required environmental studies and mitigation, seismic studies or surveys, archaeological studies or surveys, land surveying, site preparation, construction, reconstruction, rehabilitation, improvement, and installation of public improvements and other directly related costs;
-(b) Relocating, maintaining, and operating property pending construction of public improvements;
-(c) Relocating utilities as a result of public improvements;
-(d) Financing public improvements, including capitalized interest for up to six months following completion of construction, legal and other professional services, taxes, insurance, principal and interest costs on general indebtedness issued to finance public improvements, and any necessary debt service reserves;
-(e) Expenses incurred in revaluing real property for the purpose of determining the tax allocation base value by a county assessor under chapter 84.41 RCW and expenses incurred by a county treasurer under chapter 84.56 RCW in apportioning the taxes and complying with this chapter and other applicable law. For purposes of this subsection (6)(e), "expenses incurred" means actual staff and software costs directly related to the implementation and ongoing administration of increment areas under this chapter; and
-(f) Administrative expenses and feasibility studies reasonably necessary and related to these costs, including related costs that may have been incurred before adoption of the ordinance authorizing the public improvements and the use of tax increment financing to fund the costs of the public improvements.
-(7) "Public improvements" means:
-(a) Infrastructure improvements owned by a local government within or outside of and serving the increment area that include:
-(i) Street and road construction and maintenance;
-(ii) Water and sewer system construction and improvements;
-(iii) Sidewalks and other nonmotorized transportation improvements and streetlights;
-(iv) Parking, terminal, and dock facilities;
-(v) Park and ride facilities supportive of transit facilities;
-(vi) Park and community facilities and recreational areas;
-(vii) Stormwater and drainage management systems;
-(viii) Electric, broadband, or rail service;
-(ix) Mitigation of brownfields; or
-(b) Expenditures for any of the following purposes:
-(i) Purchasing, rehabilitating, retrofitting for energy efficiency, and constructing housing for the purpose of creating or preserving long-term affordable housing;
-(ii) Purchasing, rehabilitating, retrofitting for energy efficiency, and constructing child care facilities serving children and youth that are low-income, homeless, or in foster care;
-(iii) Providing maintenance and security for the public improvements; or
-(iv) Historic preservation activities authorized under RCW 35.21.395.
-(8) "Regular property taxes" means regular property taxes as defined in RCW 84.04.140, except: (a) Regular property taxes levied by port districts or public utility districts specifically for the purpose of making required payments of principal and interest on general indebtedness; and (b) regular property taxes levied by the state for the support of the common schools under RCW 84.52.065. Regular property taxes do not include excess property tax levies that are exempt from the aggregate limits for junior and senior taxing districts as provided in RCW 84.52.043. "Regular property taxes" does not include excess property taxes levied by local school districts.
-(9) "Tax allocation base value" means the assessed value of real property located within an increment area for taxes imposed in the year in which the increment area is first designated.
-(10) "Tax allocation revenues" means those revenues derived from the imposition of regular property taxes on the increment value.
-(11) "Taxing district" means a governmental entity that levies or has levied for it regular property taxes upon real property located within a proposed or approved increment area.
+
+1. "Assessed value of real property" means the valuation of taxable real property as placed on the last completed assessment roll prepared pursuant to Title 84 RCW.
+
+2. "Increment area" means the geographic area within which regular property tax revenues are to be apportioned to pay public improvement costs, as authorized under this chapter.
+
+3. "Increment value" means 100 percent of any increase in the true and fair value of real property in an increment area that is placed on the tax rolls after the increment area is created.
+
+4. "Local government" means any city, town, county, port district, or any combination thereof.
+
+5. "Ordinance" means any appropriate method of taking legislative action by a local government.
+
+6. "Public improvement costs" means the costs of:
+
+    a. Design, planning, acquisition, required permitting, required environmental studies and mitigation, seismic studies or surveys, archaeological studies or surveys, land surveying, site preparation, construction, reconstruction, rehabilitation, improvement, and installation of public improvements and other directly related costs;
+
+    b. Relocating, maintaining, and operating property pending construction of public improvements;
+
+    c. Relocating utilities as a result of public improvements;
+
+    d. Financing public improvements, including capitalized interest for up to six months following completion of construction, legal and other professional services, taxes, insurance, principal and interest costs on general indebtedness issued to finance public improvements, and any necessary debt service reserves;
+
+    e. Expenses incurred in revaluing real property for the purpose of determining the tax allocation base value by a county assessor under chapter 84.41 RCW and expenses incurred by a county treasurer under chapter 84.56 RCW in apportioning the taxes and complying with this chapter and other applicable law. For purposes of this subsection (6)(e), "expenses incurred" means actual staff and software costs directly related to the implementation and ongoing administration of increment areas under this chapter; and
+
+    f. Administrative expenses and feasibility studies reasonably necessary and related to these costs, including related costs that may have been incurred before adoption of the ordinance authorizing the public improvements and the use of tax increment financing to fund the costs of the public improvements.
+
+7. "Public improvements" means:
+
+    a. Infrastructure improvements owned by a local government within or outside of and serving the increment area that include:
+
+        i. Street and road construction and maintenance;
+
+        ii. Water and sewer system construction and improvements;
+
+        iii. Sidewalks and other nonmotorized transportation improvements and streetlights;
+
+        iv. Parking, terminal, and dock facilities;
+
+    v. Park and ride facilities supportive of transit facilities;
+
+    vi. Park and community facilities and recreational areas;
+
+    vii. Stormwater and drainage management systems;
+
+    viii. Electric, broadband, or rail service;
+
+        ix. Mitigation of brownfields; or
+
+    b. Expenditures for any of the following purposes:
+
+        i. Purchasing, rehabilitating, retrofitting for energy efficiency, and constructing housing for the purpose of creating or preserving long-term affordable housing;
+
+        ii. Purchasing, rehabilitating, retrofitting for energy efficiency, and constructing child care facilities serving children and youth that are low-income, homeless, or in foster care;
+
+        iii. Providing maintenance and security for the public improvements; or
+
+        iv. Historic preservation activities authorized under RCW 35.21.395.
+
+8. "Regular property taxes" means regular property taxes as defined in RCW 84.04.140, except: (a) Regular property taxes levied by port districts or public utility districts specifically for the purpose of making required payments of principal and interest on general indebtedness; and (b) regular property taxes levied by the state for the support of the common schools under RCW 84.52.065. Regular property taxes do not include excess property tax levies that are exempt from the aggregate limits for junior and senior taxing districts as provided in RCW 84.52.043. "Regular property taxes" does not include excess property taxes levied by local school districts.
+
+9. "Tax allocation base value" means the assessed value of real property located within an increment area for taxes imposed in the year in which the increment area is first designated.
+
+10. "Tax allocation revenues" means those revenues derived from the imposition of regular property taxes on the increment value.
+
+11. "Taxing district" means a governmental entity that levies or has levied for it regular property taxes upon real property located within a proposed or approved increment area.
+
 
 ## Section 2
-(1) A local government may designate an increment area under this chapter and use the tax allocation revenues to pay public improvement costs, subject to the following conditions:
-(a) The local government must adopt an ordinance designating an increment area within its boundaries and describing the public improvements proposed to be paid for, or financed with, tax allocation revenues;
-(b) The local government may not designate increment area boundaries such that the entirety of its territory falls within an increment area;
-(c) A local government can create no more than three active increment areas at any given time and they may not physically overlap by including the same land in more than one increment area at any time;
-(d) The ordinance must set a sunset date for the increment area, which may be no more than 25 years after the adoption of the ordinance designating the increment area;
-(e) The ordinance must indicate whether the local government intends to issue bonds or other obligations, payable in whole or in part, from tax allocation revenues to finance the public improvement costs, and must estimate the maximum amount of obligations contemplated;
-(f) The ordinance must provide that the increment takes effect on June 1st following the adoption of the ordinance in (a) of this subsection; and
-(g) The local government must make a finding that:
-(i) The public improvements proposed to be paid or financed with tax allocation revenues are expected to encourage private development within the increment area and to increase the assessed value of real property within the increment area;
-(ii) Private development that is anticipated to occur within the increment area as a result of the proposed public improvements will be permitted consistent with the permitting jurisdiction's applicable zoning and development standards;
-(iii) The private development would not reasonably be expected to occur solely through private investment within the reasonably foreseeable future without the proposed public improvements; and
-(iv) The increased assessed value within the increment area that could reasonably be expected to occur without the proposed public improvements would be less than the increase in the assessed value estimated to result from the proposed development with the proposed public improvements.
-(2) In considering whether to designate an increment area, the legislative body of the local government must prepare a project analysis that shall include, but need not be limited to, the following:
-(a) A statement of objectives of the local government for the designated increment area;
-(b) A statement as to the property within the increment area, if any, that the local government may intend to acquire;
-(c) The duration of the increment area;
-(d) Identification of all parcels to be included in the area;
-(e) A description of the expected private development within the increment area, including a comparison of scenarios with the proposed public improvements and without the proposed public improvements;
-(f) A description of the public improvements, estimated public improvement costs, and the estimated amount of bonds or other obligations expected to be issued to finance the public improvement costs and repaid with tax allocation revenues;
-(g) The assessed value of real property listed on the tax roll as certified by the county assessor under RCW 84.52.080 from within the increment area and an estimate of the increment value and tax allocation revenues expected to be generated;
-(h) An estimate of the job creation reasonably expected to result from the public improvements and the private development expected to occur in the increment area; and
-(i) An assessment of any impacts and any necessary mitigation to address the impacts identified on the following:
-(i) Affordable and low-income housing;
-(ii) The local business community;
-(iii) The local school districts; and
-(iv) The local fire service.
-(3) The local government may charge a private developer a fee sufficient to cover the cost of the project analysis and establishing the increment area, including staff time, professionals and consultants, and other administrative costs related to establishing the increment area.
-(4) Nothing in this section prohibits a local government from entering into an agreement under chapter 39.34 RCW with another local government for the administration or other activities related to tax increment financing authorized under this section.
-(5) If the project analysis indicates that an increment area will impact at least 20 percent of the assessed value in a fire district, the local government must negotiate a mitigation plan with the fire district prior to implementing the increment area.
-(6) The local government may reimburse the assessor and treasurer for their costs as provided in section 1(6)(e) of this act.
-(7) Prior to the adoption of an ordinance authorizing creation of an increment area, the local government must:
-(a) Hold at least two public briefings for the community solely on the tax increment project that include the description of the increment area, the public improvements proposed to be financed with the tax allocation revenues, and a detailed estimate of tax revenues for the participating local governments and taxing districts, including the amounts allocated to the increment public improvements. The briefings must be announced at least two weeks prior to the date being held, including publishing in legal newspaper of general circulation and posting information on the local government website and all local government social media sites; and
-(b) Submit the project analysis to the office of the treasurer for review and consider any comments that the treasurer may provide upon completion of their review of the project analysis as provided under this subsection. The treasurer must complete the review within 90 days of receipt of the project analysis and may consult with other agencies and outside experts as necessary. Upon completing their review, the treasurer must promptly provide to the local government any comments regarding suggested revisions or enhancements to the project analysis that the treasurer deems appropriate based on the requirements in section 2(2).
+1. A local government may designate an increment area under this chapter and use the tax allocation revenues to pay public improvement costs, subject to the following conditions:
+
+    a. The local government must adopt an ordinance designating an increment area within its boundaries and describing the public improvements proposed to be paid for, or financed with, tax allocation revenues;
+
+    b. The local government may not designate increment area boundaries such that the entirety of its territory falls within an increment area;
+
+    c. A local government can create no more than three active increment areas at any given time and they may not physically overlap by including the same land in more than one increment area at any time;
+
+    d. The ordinance must set a sunset date for the increment area, which may be no more than 25 years after the adoption of the ordinance designating the increment area;
+
+    e. The ordinance must indicate whether the local government intends to issue bonds or other obligations, payable in whole or in part, from tax allocation revenues to finance the public improvement costs, and must estimate the maximum amount of obligations contemplated;
+
+    f. The ordinance must provide that the increment takes effect on June 1st following the adoption of the ordinance in (a) of this subsection; and
+
+    g. The local government must make a finding that:
+
+        i. The public improvements proposed to be paid or financed with tax allocation revenues are expected to encourage private development within the increment area and to increase the assessed value of real property within the increment area;
+
+        ii. Private development that is anticipated to occur within the increment area as a result of the proposed public improvements will be permitted consistent with the permitting jurisdiction's applicable zoning and development standards;
+
+        iii. The private development would not reasonably be expected to occur solely through private investment within the reasonably foreseeable future without the proposed public improvements; and
+
+        iv. The increased assessed value within the increment area that could reasonably be expected to occur without the proposed public improvements would be less than the increase in the assessed value estimated to result from the proposed development with the proposed public improvements.
+
+2. In considering whether to designate an increment area, the legislative body of the local government must prepare a project analysis that shall include, but need not be limited to, the following:
+
+    a. A statement of objectives of the local government for the designated increment area;
+
+    b. A statement as to the property within the increment area, if any, that the local government may intend to acquire;
+
+    c. The duration of the increment area;
+
+    d. Identification of all parcels to be included in the area;
+
+    e. A description of the expected private development within the increment area, including a comparison of scenarios with the proposed public improvements and without the proposed public improvements;
+
+    f. A description of the public improvements, estimated public improvement costs, and the estimated amount of bonds or other obligations expected to be issued to finance the public improvement costs and repaid with tax allocation revenues;
+
+    g. The assessed value of real property listed on the tax roll as certified by the county assessor under RCW 84.52.080 from within the increment area and an estimate of the increment value and tax allocation revenues expected to be generated;
+
+    h. An estimate of the job creation reasonably expected to result from the public improvements and the private development expected to occur in the increment area; and
+
+    i. An assessment of any impacts and any necessary mitigation to address the impacts identified on the following:
+
+        i. Affordable and low-income housing;
+
+        ii. The local business community;
+
+        iii. The local school districts; and
+
+        iv. The local fire service.
+
+3. The local government may charge a private developer a fee sufficient to cover the cost of the project analysis and establishing the increment area, including staff time, professionals and consultants, and other administrative costs related to establishing the increment area.
+
+4. Nothing in this section prohibits a local government from entering into an agreement under chapter 39.34 RCW with another local government for the administration or other activities related to tax increment financing authorized under this section.
+
+5. If the project analysis indicates that an increment area will impact at least 20 percent of the assessed value in a fire district, the local government must negotiate a mitigation plan with the fire district prior to implementing the increment area.
+
+6. The local government may reimburse the assessor and treasurer for their costs as provided in section 1(6)(e) of this act.
+
+7. Prior to the adoption of an ordinance authorizing creation of an increment area, the local government must:
+
+    a. Hold at least two public briefings for the community solely on the tax increment project that include the description of the increment area, the public improvements proposed to be financed with the tax allocation revenues, and a detailed estimate of tax revenues for the participating local governments and taxing districts, including the amounts allocated to the increment public improvements. The briefings must be announced at least two weeks prior to the date being held, including publishing in legal newspaper of general circulation and posting information on the local government website and all local government social media sites; and
+
+    b. Submit the project analysis to the office of the treasurer for review and consider any comments that the treasurer may provide upon completion of their review of the project analysis as provided under this subsection. The treasurer must complete the review within 90 days of receipt of the project analysis and may consult with other agencies and outside experts as necessary. Upon completing their review, the treasurer must promptly provide to the local government any comments regarding suggested revisions or enhancements to the project analysis that the treasurer deems appropriate based on the requirements in section 2(2).
+
 
 ## Section 3
-(1) Public improvements that are financed under this chapter may be undertaken and coordinated with other programs or efforts undertaken by the local government and other taxing districts and may be funded in part from revenue sources other than tax allocation revenues.
-(2) Public improvements that are constructed by a private developer must meet all applicable state and local laws.
+1. Public improvements that are financed under this chapter may be undertaken and coordinated with other programs or efforts undertaken by the local government and other taxing districts and may be funded in part from revenue sources other than tax allocation revenues.
+
+2. Public improvements that are constructed by a private developer must meet all applicable state and local laws.
+
 
 ## Section 4
 The local government designating the increment area must:
-(1) Publish notice in a legal newspaper of general circulation within the jurisdiction of the local government that describes the public improvements, describes the boundaries of the increment area, and identifies the location and times where the ordinance and other public information concerning the public improvement may be inspected; and
-(2) Deliver a certified copy of the ordinance to the county treasurer, the county assessor, and the governing body of each taxing district within which the increment area is located.
+
+1. Publish notice in a legal newspaper of general circulation within the jurisdiction of the local government that describes the public improvements, describes the boundaries of the increment area, and identifies the location and times where the ordinance and other public information concerning the public improvement may be inspected; and
+
+2. Deliver a certified copy of the ordinance to the county treasurer, the county assessor, and the governing body of each taxing district within which the increment area is located.
+
 
 ## Section 5
 Apportionment of taxes shall be as follows:
-(1) Commencing in the calendar year following the passage of the ordinance, the county treasurer shall distribute receipts from regular property taxes imposed on real property located in the increment area as follows:
-(a) Each taxing district shall receive that portion of its regular property taxes produced by the rate of tax levied by or for the taxing district on the tax allocation base value for that increment area;
-(b) The local government that designated the increment area shall be entitled to receive an additional amount equal to the amount derived from the regular property taxes levied by or for each taxing district upon the increment value within the increment area. The local government that designated the increment area may agree to receive less than the full amount of this portion, as long as bond debt service, reserve, and other bond covenant requirements are satisfied, in which case the balance of these tax receipts shall be allocated to the taxing districts that imposed regular property taxes, or have regular property taxes imposed for them, in the increment area for collection that year in proportion to their regular tax levy rates for collection that year. The local government may request that the treasurer transfer this additional portion of the property taxes to its designated agent. The portion of the tax receipts distributed to the local government or its agent under this subsection (1)(b) may only be expended to finance public improvement costs associated with the public improvements financed in whole or in part by tax increment financing; and
-(c) This section shall not apply to any receipts from the regular property taxes levied by:
-(i) The state for the support of the common schools under RCW 84.52.065;
-(ii) Local school district excess levies; and
-(iii) Port districts or public utility districts specifically for the purpose of making required payments of principal and interest or general indebtedness.
-(2) The apportionment of tax allocation revenues must cease when the taxing district certifies to the county assessor in writing that tax allocation revenues are no longer necessary or obligated to pay public improvement costs, but in no event shall the apportionment of tax allocation revenues continue beyond the sunset date established pursuant to section 2(1)(d) of this act. Any excess tax allocation revenues and earnings on the tax allocation revenues remaining at the time the apportionment of tax receipts terminates must be returned to the county treasurer and distributed to the taxing districts that imposed regular property taxes, or had regular property taxes imposed for it, in the increment area for collection that year, in proportion to the rates of their regular property tax levies for collection that year.
-(3) The apportionment and distribution of portions of the regular property taxes levied by or for each taxing district upon the increment value within the increment area pursuant to and subject to the requirements of this chapter is declared to be a public purpose of and benefit each such taxing district.
-(4) The apportionment and distribution of portions of the regular property taxes levied by or for each taxing district upon the increment value within the increment area pursuant to this section shall not affect or be deemed to affect the rate of taxes levied by or within any such taxing district or the consistency of any such levies with the uniformity requirement of Article VII, section 1 of the state Constitution.
+
+1. Commencing in the calendar year following the passage of the ordinance, the county treasurer shall distribute receipts from regular property taxes imposed on real property located in the increment area as follows:
+
+    a. Each taxing district shall receive that portion of its regular property taxes produced by the rate of tax levied by or for the taxing district on the tax allocation base value for that increment area;
+
+    b. The local government that designated the increment area shall be entitled to receive an additional amount equal to the amount derived from the regular property taxes levied by or for each taxing district upon the increment value within the increment area. The local government that designated the increment area may agree to receive less than the full amount of this portion, as long as bond debt service, reserve, and other bond covenant requirements are satisfied, in which case the balance of these tax receipts shall be allocated to the taxing districts that imposed regular property taxes, or have regular property taxes imposed for them, in the increment area for collection that year in proportion to their regular tax levy rates for collection that year. The local government may request that the treasurer transfer this additional portion of the property taxes to its designated agent. The portion of the tax receipts distributed to the local government or its agent under this subsection (1)(b) may only be expended to finance public improvement costs associated with the public improvements financed in whole or in part by tax increment financing; and
+
+    c. This section shall not apply to any receipts from the regular property taxes levied by:
+
+        i. The state for the support of the common schools under RCW 84.52.065;
+
+        ii. Local school district excess levies; and
+
+        iii. Port districts or public utility districts specifically for the purpose of making required payments of principal and interest or general indebtedness.
+
+2. The apportionment of tax allocation revenues must cease when the taxing district certifies to the county assessor in writing that tax allocation revenues are no longer necessary or obligated to pay public improvement costs, but in no event shall the apportionment of tax allocation revenues continue beyond the sunset date established pursuant to section 2(1)(d) of this act. Any excess tax allocation revenues and earnings on the tax allocation revenues remaining at the time the apportionment of tax receipts terminates must be returned to the county treasurer and distributed to the taxing districts that imposed regular property taxes, or had regular property taxes imposed for it, in the increment area for collection that year, in proportion to the rates of their regular property tax levies for collection that year.
+
+3. The apportionment and distribution of portions of the regular property taxes levied by or for each taxing district upon the increment value within the increment area pursuant to and subject to the requirements of this chapter is declared to be a public purpose of and benefit each such taxing district.
+
+4. The apportionment and distribution of portions of the regular property taxes levied by or for each taxing district upon the increment value within the increment area pursuant to this section shall not affect or be deemed to affect the rate of taxes levied by or within any such taxing district or the consistency of any such levies with the uniformity requirement of Article VII, section 1 of the state Constitution.
+
 
 ## Section 6
-(1) A local government designating an increment area may incur general indebtedness, and issue general obligation bonds or notes to finance the public improvements and retire the indebtedness, in whole or in part, from tax allocation revenues it receives.
-(2) The general indebtedness incurred under subsection (1) of this section may be payable from tax allocation revenues and any other sources available to the local government for payment of the public improvement costs, including without limitation: Other tax revenues; the full faith and credit of the local government; nontax income, revenues, fees, and rents from the public improvements; and contributions, grants, and nontax resources.
-(3) In addition to the requirements in subsection (1) of this section, a local government designating an increment area and authorizing the use of tax increment financing may require the nonpublic participant to provide adequate security to protect the public investment in the public improvement within the increment area.
+1. A local government designating an increment area may incur general indebtedness, and issue general obligation bonds or notes to finance the public improvements and retire the indebtedness, in whole or in part, from tax allocation revenues it receives.
+
+2. The general indebtedness incurred under subsection (1) of this section may be payable from tax allocation revenues and any other sources available to the local government for payment of the public improvement costs, including without limitation: Other tax revenues; the full faith and credit of the local government; nontax income, revenues, fees, and rents from the public improvements; and contributions, grants, and nontax resources.
+
+3. In addition to the requirements in subsection (1) of this section, a local government designating an increment area and authorizing the use of tax increment financing may require the nonpublic participant to provide adequate security to protect the public investment in the public improvement within the increment area.
+
 
 ## Section 7
 A direct or collateral attack on the designation of the increment area or the allocation of regular property tax revenues in conformance with applicable legal requirements, including this chapter, may not be commenced more than 30 days after publication of notice as required by section 4 of this act.
 
+
 ## Section 8
-(1) A local government may issue revenue bonds to fund revenue-generating public improvements, or portions of public improvements, that are located within an increment area and that it is authorized to provide or operate. Whenever revenue bonds are to be issued, the legislative authority of the local government shall create or have created a special fund or funds from which, along with any reserves created pursuant to RCW 39.44.140, the principal and interest on these revenue bonds shall exclusively be payable. The legislative authority of the local government may obligate the local government to set aside and pay into the special fund or funds a fixed proportion or a fixed amount of the revenues from the public improvements that are funded by the revenue bonds. This amount or proportion is a lien and charge against these revenues, subject only to operating and maintenance expenses. The local government shall have due regard for the cost of operation and maintenance of the public improvements that are funded by the revenue bonds, and shall not set aside into the special fund or funds a greater amount or proportion of the revenues that in its judgment will be available over and above the cost of maintenance and operation and the amount or proportion, if any, of the revenue previously pledged. The local government may also provide that revenue bonds payable out of the same source or sources of revenue may later be issued on a parity with any revenue bonds being issued and sold.
-(2) Revenue bonds issued under this section are not an indebtedness of the local government issuing the bonds, and the interest and principal on the bonds shall only be payable from the revenues lawfully pledged to meet the principal and interest requirements and any reserves created pursuant to RCW 39.44.140. The owner or bearer of a revenue bond or any interest coupon issued under this section shall not have any claim against the local government arising from the bond or coupon except for payment from the revenues lawfully pledged to meet the principal and interest requirements and any reserves created pursuant to RCW 39.44.140. The substance of the limitations included in this subsection shall be plainly printed, written, or engraved on each bond issued under this section.
-(3) Revenue bonds with a maturity in excess of 25 years shall not be issued under this section.
-(4) The legislative authority of the local government shall by resolution determine for each revenue bond issue the amount, date, form, terms, conditions, denominations, maximum fixed or variable interest rate or rates, maturity or maturities, redemption rights, registration privileges, manner of execution, manner of sale, callable provisions, if any, and covenants including the refunding of existing revenue bonds. Facsimile signatures may be used on the bonds and any coupons. Refunding revenue bonds may be issued in the same manner as revenue bonds are issued.
-(5) The authority to issue revenue bonds under this section is supplementary and in addition to any authority otherwise existing. Nothing in this section limits a local government in the issuance of revenue bonds that are otherwise authorized by law for the construction of additions, betterments, or extensions of utilities within the increment area.
-(6) Notwithstanding anything to the contrary in this section, revenue bonds issued to finance public improvements may be issued in accordance with chapter 39.46 RCW.
+1. A local government may issue revenue bonds to fund revenue-generating public improvements, or portions of public improvements, that are located within an increment area and that it is authorized to provide or operate. Whenever revenue bonds are to be issued, the legislative authority of the local government shall create or have created a special fund or funds from which, along with any reserves created pursuant to RCW 39.44.140, the principal and interest on these revenue bonds shall exclusively be payable. The legislative authority of the local government may obligate the local government to set aside and pay into the special fund or funds a fixed proportion or a fixed amount of the revenues from the public improvements that are funded by the revenue bonds. This amount or proportion is a lien and charge against these revenues, subject only to operating and maintenance expenses. The local government shall have due regard for the cost of operation and maintenance of the public improvements that are funded by the revenue bonds, and shall not set aside into the special fund or funds a greater amount or proportion of the revenues that in its judgment will be available over and above the cost of maintenance and operation and the amount or proportion, if any, of the revenue previously pledged. The local government may also provide that revenue bonds payable out of the same source or sources of revenue may later be issued on a parity with any revenue bonds being issued and sold.
+
+2. Revenue bonds issued under this section are not an indebtedness of the local government issuing the bonds, and the interest and principal on the bonds shall only be payable from the revenues lawfully pledged to meet the principal and interest requirements and any reserves created pursuant to RCW 39.44.140. The owner or bearer of a revenue bond or any interest coupon issued under this section shall not have any claim against the local government arising from the bond or coupon except for payment from the revenues lawfully pledged to meet the principal and interest requirements and any reserves created pursuant to RCW 39.44.140. The substance of the limitations included in this subsection shall be plainly printed, written, or engraved on each bond issued under this section.
+
+3. Revenue bonds with a maturity in excess of 25 years shall not be issued under this section.
+
+4. The legislative authority of the local government shall by resolution determine for each revenue bond issue the amount, date, form, terms, conditions, denominations, maximum fixed or variable interest rate or rates, maturity or maturities, redemption rights, registration privileges, manner of execution, manner of sale, callable provisions, if any, and covenants including the refunding of existing revenue bonds. Facsimile signatures may be used on the bonds and any coupons. Refunding revenue bonds may be issued in the same manner as revenue bonds are issued.
+
+5. The authority to issue revenue bonds under this section is supplementary and in addition to any authority otherwise existing. Nothing in this section limits a local government in the issuance of revenue bonds that are otherwise authorized by law for the construction of additions, betterments, or extensions of utilities within the increment area.
+
+6. Notwithstanding anything to the contrary in this section, revenue bonds issued to finance public improvements may be issued in accordance with chapter 39.46 RCW.
+
 
 ## Section 9
 This chapter supplements and neither restricts nor limits any powers that the state or any local government might otherwise have under any laws of this state.
+
 
 ## Section 10
 > This section modifies existing section [84.55.010](/rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md) for context.
@@ -160,3 +253,4 @@ This chapter supplements and neither restricts nor limits any powers that the st
 
 ## Section 13
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

@@ -202,3 +202,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 7. The employment security department shall adopt rules for determining the hours worked and the wages of individuals who elect coverage under this section and rules for enforcement of this section.
 
+
+## Section 6
+> This section adds a new section to an existing chapter [50B.04](/rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md). Here is the [modified chapter](rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md) for context.
+
+A federally recognized tribe may elect coverage under RCW 50B.04.080. The employment security department shall adopt rules to implement this section.
+

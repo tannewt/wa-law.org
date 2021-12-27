@@ -525,9 +525,51 @@ Each  public body shall **maintain and make available** the following informatio
 The alternative public works contracting procedures authorized under this chapter are limited to public works contracts signed before July 1, **2031**. Methods of public works contracting authorized under this chapter shall remain in full force and effect until completion of contracts signed before July 1, **2031**.
 
 
+## Section 19
+> This section adds a new section to an existing chapter [39.10](/rcw/39_public_contracts_and_indebtedness/39.010_alternative_public_works_contracting_procedures.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.010_alternative_public_works_contracting_procedures.md) for context.
+
+In addition to the general contractor/construction manager requirements established in this chapter, public bodies utilizing the general contractor/construction manager method for a heavy civil construction project must also comply with the following requirements:
+
+1. The heavy civil construction general contractor/construction manager contract solicitation must:
+
+    a. Provide the reasons for using the general contractor/construction manager procedure, including a clear statement that the public body is electing to procure the project as a heavy civil construction project;
+
+    b. Indicate the minimum percentage of the cost of the work to construct the project that will constitute the negotiated self-perform portion of the project;
+
+    c. Indicate whether the public body will allow the price to be paid for the negotiated self-perform portion of the project to be deemed a cost of the work to which the general contractor/construction manager's percent fee applies; and
+
+    d. Require proposals to indicate the proposer's fee for the negotiated self-perform portion of the project;
+
+2. As part of the negotiation of the maximum allowable construction cost established in RCW 39.10.370(1), the general contractor/construction manager shall submit a proposed construction management and contracting plan, which must include, at a minimum:
+
+    a. The scope of work and cost estimates for each bid package;
+
+    b. A proposed price and scope of work for the negotiated self-perform portion of the project;
+
+    c. The bases used by the general contractor/construction manager to develop all cost estimates, including the negotiated self-perform portion of the project; and
+
+    d. The general contractor/construction manager's updated inclusion plan for small business entities, disadvantaged business enterprises, and any other disadvantaged or underutilized businesses as the public body may designate in the public solicitation of proposals, as subcontractors and suppliers for the project;
+
+3. The public body and general contractor/construction manager may negotiate the scopes of work to be procured by bid and the price and scope of work for the negotiated self-perform portion of the project, if any;
+
+4. The negotiated self-perform portion of the project must not exceed 50 percent of the cost of the work to construct the project;
+
+5. Notwithstanding any contrary provision of this chapter, for a project that a public body has elected to procure as a heavy civil construction project under this chapter, at least 30 percent of the cost of the work to construct the project included in the negotiated maximum allowable construction cost must be procured through competitive sealed bidding in which bidding by the general contractor/construction manager or its subsidiaries is prohibited;
+
+6. Subject to the limitation of subsection (5) of this section, the public body may additionally negotiate with the general contractor/construction manager to determine on which scopes of work the general contractor/construction manager will be permitted to bid, if any;
+
+7. The public body and general contractor/construction manager shall negotiate, to the public body's satisfaction, a fair and reasonable inclusion plan;
+
+8. If the public body is unable to negotiate to its reasonable satisfaction a component of this section, negotiations with the firm must be terminated and the public body shall negotiate with the next highest scored firm and continue until an agreement is reached or the process is terminated; and
+
+9. For a project procured as a heavy civil construction project, an independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs as outlined in the contract. The public body shall define the scope of the audit in the contract.
+
+
 ## Section 20
-(1) The capital projects advisory review board shall coordinate and consult with the office of minority and women's business enterprises, the department of enterprise services, the office of equity, community stakeholders and advocates, and subject matter experts to create best practices guidelines for increasing and sustaining access to contracting opportunities in alternative public works for minority, women, and veteran-owned businesses, and small businesses. In creating the guidelines, the board shall take into consideration the barriers to participation identified in the local government contracting report produced pursuant to section 16, chapter 434, Laws of 2019, information and recommendations from the 2019 Washington state disparity study and disparity studies of any other public body in Washington state, and successful diversity and inclusion policies being implemented by state and local governmental agencies. The best practices shall address, at a minimum, guidelines for use of race-neutral and race-conscious programs, elements of successful inclusion plans, the use of aspirational inclusion goals, evaluation of inclusion plans in the contract award process, and the evaluation of inclusion plans and past performance in public body certification and project approval processes under RCW 39.10.270 and 39.10.280. The board shall make the best practices guidelines available on its website by June 30, 2022, and should have a plan to update the practices to keep them relevant for use. Additionally, by June 30, 2022, the board shall report to the appropriate committees of the legislature regarding any recommendations for changes to state law that are advisable based upon the best practices guidelines.
-(2) This section expires July 1, 2023.
+1. The capital projects advisory review board shall coordinate and consult with the office of minority and women's business enterprises, the department of enterprise services, the office of equity, community stakeholders and advocates, and subject matter experts to create best practices guidelines for increasing and sustaining access to contracting opportunities in alternative public works for minority, women, and veteran-owned businesses, and small businesses. In creating the guidelines, the board shall take into consideration the barriers to participation identified in the local government contracting report produced pursuant to section 16, chapter 434, Laws of 2019, information and recommendations from the 2019 Washington state disparity study and disparity studies of any other public body in Washington state, and successful diversity and inclusion policies being implemented by state and local governmental agencies. The best practices shall address, at a minimum, guidelines for use of race-neutral and race-conscious programs, elements of successful inclusion plans, the use of aspirational inclusion goals, evaluation of inclusion plans in the contract award process, and the evaluation of inclusion plans and past performance in public body certification and project approval processes under RCW 39.10.270 and 39.10.280. The board shall make the best practices guidelines available on its website by June 30, 2022, and should have a plan to update the practices to keep them relevant for use. Additionally, by June 30, 2022, the board shall report to the appropriate committees of the legislature regarding any recommendations for changes to state law that are advisable based upon the best practices guidelines.
+
+2. This section expires July 1, 2023.
+
 
 ## Section 21
 > This section modifies existing section [43.131.407](/rcw/43_state_government—executive/43.131_washington_sunset_act_of_1977.md). Here is the [modified chapter](rcw/43_state_government—executive/43.131_washington_sunset_act_of_1977.md) for context.

@@ -33,3 +33,4 @@
 
 ## Section 2
 This act applies prospectively and retroactively beginning March 1, 2020.
+

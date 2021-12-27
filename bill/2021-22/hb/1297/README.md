@@ -1,5 +1,6 @@
 # HB 1297 - Working families tax exempt.
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1297&Year=2021)
+
 Concerning working families tax exemption.
 
 ## Revisions

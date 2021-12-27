@@ -1,5 +1,6 @@
 # SB 5368 - Rural economic development
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5368&Year=2021)
+
 Encouraging rural economic development.
 
 ## Revisions

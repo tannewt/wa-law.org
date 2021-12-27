@@ -1,6 +1,72 @@
 # Senate Bill 5269
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5269.xml)
+## Section 1
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Ordinances, development regulations, and other official controls adopted pursuant to subsection (2) or (3) of this section are only required to apply in the portions of cities and counties that are within urban growth areas designated under this chapter.
+
+2. [Empty]
+
+    a. All counties planning under RCW 36.70A.040, and all cities located within a county planning under RCW 36.70A.040, must provide by ordinance and incorporate into their development regulations, zoning regulations, and other official controls, authorization for the development of duplexes, triplexes, quadplexes, sixplexes, townhouses, and cottage clusters in areas zoned for detached single-family residential use.
+
+        i. Duplexes must be allowed on all lots or parcels;
+
+        ii. Triplexes must be allowed on 80 percent of lots or parcels;
+
+        iii. Quadplexes must be allowed on 70 percent of lots or parcels;
+
+        iv. Sixplexes must be allowed on 50 percent of lots or parcels;
+
+    v. Townhouses must be allowed on 60 percent of lots or parcels; and
+
+    vi. Cottage clusters must be allowed on 70 percent of lots or parcels.
+
+    b. A middle housing type is considered "allowed" on a lot or parcel when the following criteria are met:
+
+        i. The middle housing type is a permitted use on that lot or parcel under the same administrative process as a detached single-family dwelling in the same zone;
+
+        ii. The lot or parcel has sufficient square footage to allow the middle housing type within the applicable minimum lot size requirement;
+
+        iii. Maximum density requirements do not prohibit the development of the middle housing type on the subject lot or parcel; and
+
+        iv. The applicable siting or design standards do not individually or cumulatively cause unreasonable costs, fees, or delays to the development of that middle housing type.
+
+3. All counties planning under RCW 36.70A.040, and all cities located within a county planning under RCW 36.70A.040, must provide by ordinance and incorporate into their development regulations, zoning regulations, and other official controls, the following parking regulations:
+
+    a. For lots or parcels with a duplex, a city or county may not require off-street parking spaces;
+
+    b. For lots or parcels of less than 3,000 square feet, a city or county may not require off-street parking spaces;
+
+    c. For lots or parcels greater than or equal to 3,000 square feet and less than 6,000 square feet, a city or county may not require more than one off-street parking space total;
+
+    d. For lots or parcels greater than or equal to 6,000 square feet, a city or county may not require more than 0.5 times the number of dwelling units on the lot;
+
+    e. A city or county may not require more than 0.5 off‐street parking spaces per townhouse dwelling unit;
+
+    f. A city or county may not require more than 0.5 off‐street parking spaces per dwelling unit in a cottage cluster;
+
+    g. A city or county may allow on‐street parking credits to satisfy off‐street parking requirements;
+
+    h. A city or county may allow, but may not require, off‐street parking to be provided as a garage or carport; and
+
+    i. A city or county must apply the same off‐street parking surfacing, dimensional, landscaping, access, and circulation standards that apply to single‐family detached dwellings in the same zone.
+
+4. Nothing in this section prohibits cities or counties from permitting single-family residences.
+
+5. Ordinances, amendments to development regulations, and other nonproject actions taken by a city or county to implement the actions specified in subsections (2) and (3) of this section are not subject to administrative or judicial appeal under chapter 43.21C RCW.
+
+6. Ordinances, development regulations, and other official controls adopted pursuant to subsection (2) or (3) of this section apply to conversions of existing buildings in addition to new developments.
+
+7. If adopted by December 31, 2025, amendments to development regulations and other nonproject actions taken by a city or county to implement this section are not subject to administrative, quasi-judicial or judicial appeals under this chapter.
+
+8. For the purposes of this section:
+
+    a. "Cottage clusters" means groupings of no fewer than four detached housing units per acre with a footprint of less than 900 square feet each and that include a common courtyard.
+
+    b. "Townhouses" means a dwelling unit constructed in a row of two or more attached units, where each dwelling unit is located on an individual lot or parcel and shares at least one common wall with an adjacent unit.
+
+
 ## Section 2
 > This section modifies existing section [84.55.010](/rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md) for context.
 

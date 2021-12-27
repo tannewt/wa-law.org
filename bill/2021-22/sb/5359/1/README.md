@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to ensure Washington's transportation infrastructure can support the safe and efficient movement of people and goods. Primary funding for transportation infrastructure efforts comes from the state portion of the fuel tax and fees for registering motor vehicles, which have economic and political vulnerabilities that can limit their reliability. The legislature intends to establish an additional funding source that would not be subject to bonding, and therefore offer greater flexibility and efficiency in addressing transportation infrastructure needs. The legislature finds that dedicating the sales tax revenue on vehicle sales to the transportation budget would reinforce the state's ability to provide the 21st century transportation system that the people of Washington can and should expect.
 
+
 ## Section 2
 > This section modifies existing section [82.08.020](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
 
@@ -130,6 +131,20 @@ It is the intent of the legislature to ensure Washington's transportation infras
 (D) **Bicycles as defined in RCW 46.04.071; and**
 
 (E) **Snowmobiles as defined in RCW 46.04.546.**
+
+
+## Section 4
+> This section adds a new section to an existing chapter [46.68](/rcw/46_motor_vehicles/46.68_disposition_of_revenue.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.68_disposition_of_revenue.md) for context.
+
+1. The congestion relief and safety account is created in the state treasury. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for transportation projects, programs, or activities based on the percentage of historical spending of 18th amendment restricted funds and noneighteenth amendment restricted funds as determined under subsection (2) of this section.
+
+2. By November 1st of each even-numbered year, the joint transportation committee must determine the historical percentage spent from 18th amendment restricted funds and noneighteenth amendment restricted funds based on the three most recently completed fiscal biennia. This information must be transmitted to the office of financial management and the house and senate transportation committees of the legislature to be used in the development of their respective omnibus transportation appropriations.
+
+3. All sales and use tax revenues on new and used vehicles deposited into the congestion relief and safety account pursuant to RCW 82.08.020 and 82.12.020 must be used exclusively on a cash funding basis for transportation projects, programs, and activities, including reducing the reliance on transportation-related debt obligations pursuant to subsection (4) of this section. All sales and use tax revenues on new and used vehicles deposited into the congestion relief and safety account pursuant to RCW 82.08.020 and 82.12.020 may not be used for any new revenue bond issues or used as a source for any other type of debt or similar type of financing mechanism.
+
+4. Part of the purpose in the allocation of additional resources from the sales and use tax revenues on new and used vehicles into the congestion relief and safety account pursuant to RCW 82.08.020 and 82.12.020 is to lower the overall reliance on debt financing for transportation projects and infrastructure. Beginning December 1, 2023, and each two years thereafter, the state treasurer must prepare a report that shows the impact of this act on the reliance of debt financing for transportation appropriations.
+
+5. Nothing in this section may be construed so as to violate any terms or conditions contained in any highway construction bond issues now or hereafter authorized by statute and whose payment is by such statute pledged to be paid from any excise taxes on fuel.
 
 
 ## Section 6

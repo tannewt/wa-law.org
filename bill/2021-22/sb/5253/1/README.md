@@ -2,11 +2,68 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5253.xml)
 ## Section 1
-(1) The purpose of this act is to implement the recommendations of the pollinator health task force created by section 3, chapter 353, Laws of 2019, entitled "Recommendations of the Pollinator Health Task Force - for Pollinator Health in Washington" (November 2020).
-(2) The task force provided recommendations to help prioritize and enact policy changes for pollinators in Washington. The recommendations are organized under five broad categories: (a) Habitat; (b) pesticides; (c) education; (d) managed pollinators; and (e) research.
-(3) The task force met for the first time the same week that the Asian giant hornet was first discovered in Washington and the week after the Houdini fly was also reported for the first time in Washington. Asian giant hornets primarily hunt honey bees and destroy entire honey bee hives. The Houdini fly threatens native mason bee populations as well as managed mason bees. Washington is home to over 400 different species of native bees, 65 species of butterflies, as well as moths, wasps, beetles, flies, and hummingbirds. The loss of pollinators, managed and unmanaged, can lead to decreased yields of many fruits, nuts, and vegetables. Washington is currently the top producer in the United States of apples, sweet cherries, alfalfa, blueberries, and pears. In Washington state, honey bees and other pollinators are responsible for the production of tree fruits, small fruits, and other crops.
-(4) The legislature intends to clarify and update the description of farm and agricultural land as it is used under the property tax open space program. The inclusion of pollinator habitat to the definition of "open space land" is designed to clarify that the protection of pollinator habitat be included in the description of farm and agriculture land as it is used under the property tax open space program. The amendments to RCW 84.34.020, as provided in section 10 of this act, are intended to clarify an ambiguity in an existing tax preference, and are therefore exempt from the requirements of RCW 82.32.805 and 82.32.808.
-(5) The legislature intends by this act to implement various recommendations from the pollinator health task force to protect and expand the habitat upon which pollinators depend, by providing technical and financial assistance to public and private landowners, and by coordinating with state agencies and local governments in promoting practices to ensure sustainable, healthy populations of managed and native pollinators.
+1. The purpose of this act is to implement the recommendations of the pollinator health task force created by section 3, chapter 353, Laws of 2019, entitled "Recommendations of the Pollinator Health Task Force - for Pollinator Health in Washington" (November 2020).
+
+2. The task force provided recommendations to help prioritize and enact policy changes for pollinators in Washington. The recommendations are organized under five broad categories: (a) Habitat; (b) pesticides; (c) education; (d) managed pollinators; and (e) research.
+
+3. The task force met for the first time the same week that the Asian giant hornet was first discovered in Washington and the week after the Houdini fly was also reported for the first time in Washington. Asian giant hornets primarily hunt honey bees and destroy entire honey bee hives. The Houdini fly threatens native mason bee populations as well as managed mason bees. Washington is home to over 400 different species of native bees, 65 species of butterflies, as well as moths, wasps, beetles, flies, and hummingbirds. The loss of pollinators, managed and unmanaged, can lead to decreased yields of many fruits, nuts, and vegetables. Washington is currently the top producer in the United States of apples, sweet cherries, alfalfa, blueberries, and pears. In Washington state, honey bees and other pollinators are responsible for the production of tree fruits, small fruits, and other crops.
+
+4. The legislature intends to clarify and update the description of farm and agricultural land as it is used under the property tax open space program. The inclusion of pollinator habitat to the definition of "open space land" is designed to clarify that the protection of pollinator habitat be included in the description of farm and agriculture land as it is used under the property tax open space program. The amendments to RCW 84.34.020, as provided in section 10 of this act, are intended to clarify an ambiguity in an existing tax preference, and are therefore exempt from the requirements of RCW 82.32.805 and 82.32.808.
+
+5. The legislature intends by this act to implement various recommendations from the pollinator health task force to protect and expand the habitat upon which pollinators depend, by providing technical and financial assistance to public and private landowners, and by coordinating with state agencies and local governments in promoting practices to ensure sustainable, healthy populations of managed and native pollinators.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.23](/rcw/43_state_government—executive/43.023_department_of_agriculture.md). Here is the [modified chapter](rcw/43_state_government—executive/43.023_department_of_agriculture.md) for context.
+
+1. The department shall create and chair a pollinator health task force. The department shall appoint the members of the task force, which must include, but is not limited to, representatives of the following interests, organizations, and state agencies:
+
+    a. The conservation commission;
+
+    b. The department of natural resources;
+
+    c. The department of fish and wildlife;
+
+    d. The state parks and recreation commission;
+
+    e. The Washington state department of transportation;
+
+    f. The state noxious weed control board;
+
+    g. The tree fruit industry;
+
+    h. The seed industry;
+
+    i. The berry industry;
+
+    j. Other agricultural industries dependent upon pollinators;
+
+    k. Washington State University;
+
+    l. Pesticide distributors and applicators;
+
+    m. Conservation organizations;
+
+    n. Organizations representing beekeepers or apiarists;
+
+    o. A member of the public from west of the crest of the Cascade mountains; and
+
+    p. A member of the public from east of the crest of the Cascade mountains.
+
+2. One or more representatives of Washington tribes must also be invited to participate on the task force.
+
+3. One youth representative from an organization that encourages students to engage in agricultural education must also be invited to participate on the task force when available.
+
+4. The task force shall build upon existing pollinator research and pollinator habitat plans at the national and state level including, but not limited to, the state-managed pollinator plan, to assist with the development of an implementation plan to implement the state pollinator health strategy.
+
+5. The task force shall assist, as practicable, with implementation of the recommendations of the task force submitted to the legislature in November 2020.
+
+6. The department shall provide the implementation plan to the appropriate committees of the senate and house of representatives by December 31, 2021, in compliance with RCW 43.01.036.
+
+7. The department shall provide information related to implementation of the state pollinator health strategy and a recommendation of whether to extend the task force beyond January 1, 2024, to the appropriate committees of the senate and house of representatives by December 1, 2022, in compliance with RCW 43.01.036.
+
+8. This section expires January 1, 2024.
+
 
 ## Section 3
 > This section modifies existing section [43.23.300](/rcw/43_state_government—executive/43.023_department_of_agriculture.md). Here is the [modified chapter](rcw/43_state_government—executive/43.023_department_of_agriculture.md) for context.
@@ -38,6 +95,26 @@
     k. **Develop guidelines for allowing beekeeping on state managed lands so that impacts to wild pollinators from honey bees may be minimized.**
 
 
+## Section 4
+> This section adds a new section to an existing chapter [17.21](/rcw/17_weeds_rodents_and_pests/17.21_washington_pesticide_application_act.md). Here is the [modified chapter](rcw/17_weeds_rodents_and_pests/17.21_washington_pesticide_application_act.md) for context.
+
+1. The department shall continue to evaluate and update, as necessary, pesticide regulatory and education programs focused on measures to protect pollinator health. This work by the department, when appropriate, must be coordinated with Washington State University pesticide education programs to limit duplication and ensure consistent information sharing.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the department must:
+
+    a. Evaluate and adapt pesticide training and drift reduction technical assistance programs to include up-to-date protection measures for pollinators;
+
+    b. Support Washington State University's pesticide education programs continued incorporation of pollinator protection measures during their training and certification classes;
+
+    c. Coordinate with Washington State University on presented research, new protection measures, technological advancements, and any other significant science-based information for reducing pollinator health impacts associated with pesticides;
+
+    d. Coordinate with pollinator health staff in the department and at Washington State University to conduct investigations and share annual findings from pesticide-related investigations with the pollinator health task force;
+
+    e. Evaluate and, if necessary, update the pesticide civil penalty matrix related to pollinator death or damage due to the misuse of pesticides and ensure pollinator health protections are included when evaluating either pesticide investigation violations or penalties, or both;
+
+    f. Evaluate the inclusion of pollinator protection course materials for pesticide license credit issuance. When possible, the department must provide credits for pesticide courses focused on pollinator protection measures.
+
+
 ## Section 5
 > This section modifies existing section [17.24.081](/rcw/17_weeds_rodents_and_pests/17.24_insect_pests_and_plant_diseases.md). Here is the [modified chapter](rcw/17_weeds_rodents_and_pests/17.24_insect_pests_and_plant_diseases.md) for context.
 
@@ -54,6 +131,18 @@ It shall be unlawful for a person to:
 5. Introduce or move into this state, or to move or dispose of in this state, a plant, plant product, or other item included in a quarantine, except under rules as may be prescribed by the department, after a quarantine order has been adopted under this chapter against a place, nursery, orchard, vineyard, apiary, other agricultural establishment, county of this state, another state, territory, or a foreign country as to a plant pest, bee pest, or noxious weed or genetically engineered plant or plant pest organism, until such quarantine is removed**;**
 
 6. **Introduce or move nonnative managed bumble bees into this state to be used in open-field agricultural use**.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [28B.30](/rcw/28B_higher_education/28B.030_washington_state_university.md). Here is the [modified chapter](rcw/28B_higher_education/28B.030_washington_state_university.md) for context.
+
+The Washington State University extension program must develop a pollinator extension education and outreach program and develop a statewide, science-based, pollinator education plan to educate beekeepers, agricultural producers, land managers, licensed pesticide applicators, other professionals, and the public. The plan should emphasize pollinator best management practices for both native and managed species.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [39.04](/rcw/39_public_contracts_and_indebtedness/39.004_public_works.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.004_public_works.md) for context.
+
+If a public works project includes landscaping, at least 25 percent of the landscaping must be pollinator habitat. For purposes of this section, "pollinator habitat" means an area of land that is or may be developed as habitat beneficial for the feeding, nesting, and reproduction of all pollinators, including honey bees. The department of agriculture, in consultation with the conservation commission, must develop landscape standards guidelines that include a list of native forage plants that are pollen-rich or nectar-rich and beneficial for all pollinators, including honey bees, and how pollinator plants and habitat should be designed and maintained after installation.
 
 
 ## Section 8

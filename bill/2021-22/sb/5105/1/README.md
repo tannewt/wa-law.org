@@ -105,27 +105,86 @@ The office may:
     f. **Establish a process to report noncompliance or lack of improvement**.
 
 
+## Section 4
+> This section adds a new section to an existing chapter [43.06D](/rcw/43_state_government—executive/43.006D_office_of_equity.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006D_office_of_equity.md) for context.
+
+1. A community advisory board is created within the office to advise the office on its priorities and timelines.
+
+2. The director must appoint members to the community advisory board. No more than 20 voting members may be appointed. The voting members must support diverse representation by geography and identity and include, but not be limited to, a representative of the commission on African American affairs, the commission on Asian Pacific American affairs, the commission on Hispanic affairs, the federally recognized tribes, the human rights commission, the LGBTQ commission, the women's commission, and a member of the disability community nominated by the chair of the governor's committee on disability issues and employment.
+
+3. The community advisory board shall, among other duties determined by the director, provide guidance to the office on standards and performance measures.
+
+4. The community advisory board is staffed by the office.
+
+5. Board members shall be entitled to compensation of $50 per day for each day spent conducting official business and to reimbursement for travel expenses as provided by RCW 43.03.050 and 43.03.060.
+
+6. The community advisory board may adopt bylaws for the operation of its business for the purposes of this chapter.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [43.06D](/rcw/43_state_government—executive/43.006D_office_of_equity.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006D_office_of_equity.md) for context.
+
+Each agency shall:
+
+1. Designate an agency diversity, equity, and inclusion liaison who reports directly to the head of the agency, within existing resources to serve as the liaison between the agency and the office;
+
+2. Apply an equity lens, as developed by the office in accordance with RCW 43.06D.040, to assess existing and proposed agency policies, services and service delivery, practices, programs, and budget decisions using the assessment tools developed by the office under RCW 43.06D.040;
+
+3. Develop and submit a diversity, equity, and inclusion plan to the office, in accordance with RCW 43.06D.040;
+
+4. Develop and maintain written language access policies and plans;
+
+5. Collaborate with the office to establish performance measures in accordance with RCW 43.06D.040;
+
+6. Provide data and information requested by the office in accordance with standards established pursuant to RCW 43.06D.040; and
+
+7. Submit a response to the office's report on agency performance, under RCW 43.06D.040.
+
+
 ## Section 6
-(1) The governor's interagency coordinating council on health disparities must reconvene the office of equity task force in July 2024 to evaluate the implementation of the office of equity and review, at a minimum:
-(a) The level of staffing and funding provided to the office of equity for its operation;
-(b) Guidance to the office of equity from the community advisory board;
-(c) The office of equity's strategic plan;
-(d) The broad strategic goals and standards for the enterprise related to diversity, equity, and inclusion;
-(e) Agency-specific performance measures and outcomes; and
-(f) The state of diversity, equity, and inclusion efforts across the enterprise.
-(2) The task force shall include:
-(a) The chair of the interagency coordinating council on health disparities, or the chair's designee, who shall serve as the chair of the task force;
-(b) Two members of the house of representatives, appointed by the speaker of the house of representatives;
-(c) Two members from the senate, appointed by the president of the senate;
-(d) A representative from the office of the governor, appointed by the governor;
-(e) A representative from the office of financial management's diversity, equity, and inclusion council, appointed by the governor;
-(f) A representative from the office of minority and women's business enterprises, appointed by the director of the office of minority and women's business enterprises;
-(g) A representative from each ethnic commission, appointed by the director of each respective commission;
-(h) A representative from the women's commission, appointed by the director of the women's commission;
-(i) A representative from the human rights commission, appointed by the director of the human rights commission;
-(j) A representative from the LGBTQ commission, appointed by the director of the LGBTQ commission;
-(k) The director of the governor's office of Indian affairs, or the director's designee; and
-(l) A member of the disability community, appointed by the chair of the governor's committee on disability issues and employment.
-(3) The task force must submit a report to the governor and legislature by October 31, 2025. At a minimum, the report must summarize the review conducted under subsection (1) of this section and provide any recommended changes to the office of equity's operations and strategies.
-(4) Nonlegislative members of the task force must be reimbursed for expenses incurred in the performance of their duties in accordance with RCW 43.03.050 and 43.03.060. Legislative members must be reimbursed for expenses incurred in accordance with RCW 44.04.120.
-(5) This section expires July 1, 2026.
+1. The governor's interagency coordinating council on health disparities must reconvene the office of equity task force in July 2024 to evaluate the implementation of the office of equity and review, at a minimum:
+
+    a. The level of staffing and funding provided to the office of equity for its operation;
+
+    b. Guidance to the office of equity from the community advisory board;
+
+    c. The office of equity's strategic plan;
+
+    d. The broad strategic goals and standards for the enterprise related to diversity, equity, and inclusion;
+
+    e. Agency-specific performance measures and outcomes; and
+
+    f. The state of diversity, equity, and inclusion efforts across the enterprise.
+
+2. The task force shall include:
+
+    a. The chair of the interagency coordinating council on health disparities, or the chair's designee, who shall serve as the chair of the task force;
+
+    b. Two members of the house of representatives, appointed by the speaker of the house of representatives;
+
+    c. Two members from the senate, appointed by the president of the senate;
+
+    d. A representative from the office of the governor, appointed by the governor;
+
+    e. A representative from the office of financial management's diversity, equity, and inclusion council, appointed by the governor;
+
+    f. A representative from the office of minority and women's business enterprises, appointed by the director of the office of minority and women's business enterprises;
+
+    g. A representative from each ethnic commission, appointed by the director of each respective commission;
+
+    h. A representative from the women's commission, appointed by the director of the women's commission;
+
+    i. A representative from the human rights commission, appointed by the director of the human rights commission;
+
+    j. A representative from the LGBTQ commission, appointed by the director of the LGBTQ commission;
+
+    k. The director of the governor's office of Indian affairs, or the director's designee; and
+
+    l. A member of the disability community, appointed by the chair of the governor's committee on disability issues and employment.
+
+3. The task force must submit a report to the governor and legislature by October 31, 2025. At a minimum, the report must summarize the review conducted under subsection (1) of this section and provide any recommended changes to the office of equity's operations and strategies.
+
+4. Nonlegislative members of the task force must be reimbursed for expenses incurred in the performance of their duties in accordance with RCW 43.03.050 and 43.03.060. Legislative members must be reimbursed for expenses incurred in accordance with RCW 44.04.120.
+
+5. This section expires July 1, 2026.
+

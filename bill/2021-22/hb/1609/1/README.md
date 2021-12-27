@@ -2,13 +2,34 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1609.xml)
 ## Section 1
-(1) The legislature finds that the COVID-19 pandemic has required businesses that are permitted to continue operating to make drastic, costly changes to their operations to protect employees and customers. Some of the changes businesses were required to adopt are consistent with federal occupational safety and health administration requirements; however, the department of labor and industries has adopted rules and the governor has issued changing proclamations and guidance during the pandemic that go beyond the federal occupational safety and health administration requirements. The legislature further finds Washington is a "state-plan state" for purposes of the federal occupational safety and health administration. To maintain its state-plan status, Washington's safety and health standards must be at least as effective as those standards adopted or recognized by the occupational safety and health administration.
-(2) The legislature therefore intends to limit the ability of the department of labor and industries to adopt rules regulating health or safety standards for employers in response to a public health emergency when:
-(a) The occupational safety and health administration has not first adopted rules or issued guidance applicable to employers related to the public health emergency; and
-(b) The department of labor and industries' rules are more restrictive or exceed the scope of the rules or guidance issued by the occupational safety and health administration. 
-(3) The legislature further intends to prohibit the department of labor and industries from issuing civil penalties for alleged violations of any health or safety standard adopted by the department in response to the emergency proclamation if:
-(a) The occupational safety and health administration has not first adopted rules, guidance, or policies related to the public health emergency that require the imposition of civil penalties for violation of those rules, guidance, or policies; or
-(b) The civil penalty is for an alleged violation of a health or safety standard that is more restrictive or exceeds the scope of the rules, guidance, or policy issued by the occupational safety and health administration.
+1. The legislature finds that the COVID-19 pandemic has required businesses that are permitted to continue operating to make drastic, costly changes to their operations to protect employees and customers. Some of the changes businesses were required to adopt are consistent with federal occupational safety and health administration requirements; however, the department of labor and industries has adopted rules and the governor has issued changing proclamations and guidance during the pandemic that go beyond the federal occupational safety and health administration requirements. The legislature further finds Washington is a "state-plan state" for purposes of the federal occupational safety and health administration. To maintain its state-plan status, Washington's safety and health standards must be at least as effective as those standards adopted or recognized by the occupational safety and health administration.
+
+2. The legislature therefore intends to limit the ability of the department of labor and industries to adopt rules regulating health or safety standards for employers in response to a public health emergency when:
+
+    a. The occupational safety and health administration has not first adopted rules or issued guidance applicable to employers related to the public health emergency; and
+
+    b. The department of labor and industries' rules are more restrictive or exceed the scope of the rules or guidance issued by the occupational safety and health administration.
+
+3. The legislature further intends to prohibit the department of labor and industries from issuing civil penalties for alleged violations of any health or safety standard adopted by the department in response to the emergency proclamation if:
+
+    a. The occupational safety and health administration has not first adopted rules, guidance, or policies related to the public health emergency that require the imposition of civil penalties for violation of those rules, guidance, or policies; or
+
+    b. The civil penalty is for an alleged violation of a health or safety standard that is more restrictive or exceeds the scope of the rules, guidance, or policy issued by the occupational safety and health administration.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [49.17](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.
+
+1. [Empty]
+
+    a. In the event of a public health emergency for which an emergency proclamation has been issued under RCW 43.06.010, the department may not adopt rules regulating specific health or safety standards for employers in response to the public health emergency or under the emergency proclamation, if the occupational safety and health administration has not first adopted rules or issued guidance on specific health or safety standards applicable to employers related to the public health emergency.
+
+    b. If the occupational safety and health administration has adopted rules, guidance, or policies, regulating specific health or safety standards for employers in response to the public health emergency, the department may adopt rules, guidance, or policies equivalent to the occupational safety and health administration's specific rule, guidance, or policy. The department's rules, guidance, or policies adopted under this section may not be more restrictive or exceed the scope of the specific rules, guidance, or policies that have been adopted or issued by the occupational safety and health administration.
+
+2. To be in compliance with this section, the department shall repeal or revise any department rules, guidance, or policies that are more restrictive or exceed the scope of the specific rules, guidance, or policies adopted or issued by the occupational safety and health administration.
+
+3. Nothing in this section precludes the department from providing advice to employers related to health and safety in response to the public health emergency.
+
 
 ## Section 3
 > This section modifies existing section [49.17.180](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.

@@ -46,6 +46,7 @@ The operator and the driver of a  ride‑sharing vehicle  shall be held to a rea
 ## Section 4
 The department of transportation and the commute trip reduction board shall prepare a report regarding, and an update to, the statutes governing the commute trip reduction program, within existing resources. The department of transportation shall provide the transportation committees of the legislature with the report and update by October 1, 2021.
 
+
 ## Section 5
 > This section modifies existing section [82.04.355](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
 

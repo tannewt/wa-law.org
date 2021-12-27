@@ -4,6 +4,7 @@
 ## Section 1
 The use of credit scoring to calculate rates for personal lines of insurance is unfair and has a disproportionate economic impact on the poor and communities of color in our state. Consequently, no insurer engaged in writing personal lines of insurance including property and casualty coverage shall, in connection with underwriting of those lines of insurance, refuse to issue or renew a private insurance policy based upon an individual's credit information or history including, but not limited to, a numerical credit-based insurance score or other credit rating of an applicant or insured. Furthermore, no insurer shall file rates for personal lines of insurance based upon credit information including, but not limited to, a numerical credit-based insurance score or other credit rating of an applicant or insured.
 
+
 ## Section 2
 > This section modifies existing section [48.18.547](/rcw/48_insurance/48.018_the_insurance_contract.md). Here is the [modified chapter](rcw/48_insurance/48.018_the_insurance_contract.md) for context.
 
@@ -82,4 +83,20 @@ The use of credit scoring to calculate rates for personal lines of insurance is 
 .
 
 3. The commissioner may adopt rules to implement this section.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [48.19](/rcw/48_insurance/48.019_rates.md). Here is the [modified chapter](rcw/48_insurance/48.019_rates.md) for context.
+
+If an insurer's filed rates and rating rules for personal insurance use credit history:
+
+1. On or after January 1, 2022, the commissioner shall disapprove an insurer's filing of rates and rating rules for any type of personal insurance that uses credit history to determine its rates unless:
+
+    a. The filing has the effect of removing credit history from the rates and rating rules for that type of insurance; or
+
+    b. The insurer previously submitted a filing to remove the use of credit history from its rates and rating rules for that type of insurance and the commissioner approved that filing.
+
+2. Prior to January 1, 2023, if an insurer's filed rates and rating rules for personal insurance use credit history, the insurer must submit a filing to remove the use of credit from its rates and rating rules.
+
+3. Effective January 1, 2023, insurers must not use credit history to determine premiums for personal insurance policies issued or renewed.
 

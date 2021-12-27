@@ -23,3 +23,4 @@
 
 ## Section 2
 This act applies prospectively only and not retroactively. It applies only to taxes imposed under RCW 82.14.525 that are imposed on or after the effective date of this section.
+

@@ -2,9 +2,12 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1274-S.xml)
 ## Section 1
-(1) The legislature finds that the advent of the COVID-19 pandemic has increased the needs of the people of Washington for state services. From unemployment benefits to information on the incidence of disease in the state, Washingtonians have increasingly turned to state government for vital services and information.
-(2) The legislature further finds that the state's information technology infrastructure is outdated and with insufficient capacity to handle the increased demand and has, in many cases, not been adequate to enable the state to provide the needed services effectively and efficiently.
-(3) Therefore, the legislature intends to migrate the state's information technology toward cloud services, which will deliver the capacity, security, resiliency, disaster recovery capability, and data analytics necessary to allow the state to provide Washingtonians the services they require during this pandemic and in the future.
+1. The legislature finds that the advent of the COVID-19 pandemic has increased the needs of the people of Washington for state services. From unemployment benefits to information on the incidence of disease in the state, Washingtonians have increasingly turned to state government for vital services and information.
+
+2. The legislature further finds that the state's information technology infrastructure is outdated and with insufficient capacity to handle the increased demand and has, in many cases, not been adequate to enable the state to provide the needed services effectively and efficiently.
+
+3. Therefore, the legislature intends to migrate the state's information technology toward cloud services, which will deliver the capacity, security, resiliency, disaster recovery capability, and data analytics necessary to allow the state to provide Washingtonians the services they require during this pandemic and in the future.
+
 
 ## Section 2
 > This section modifies existing section [43.105.020](/rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md). Here is the [modified chapter](rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md) for context.
@@ -83,22 +86,43 @@ The legislature and the judiciary, which are constitutionally recognized as sepa
 
 
 ## Section 4
-(1)(a) A task force on cloud transition is established, with members as provided in this subsection.
-(i) The president of the senate shall appoint one member from each of the two largest caucuses of the senate;
-(ii) The speaker of the house of representatives shall appoint one member from each of the two largest caucuses of the house of representatives;
-(iii) The state chief information officer;
-(iv) The state chief information security officer; and
-(v) The president of the senate and the speaker of the house of representatives jointly shall appoint:
+1. [Empty]
+
+    a. A task force on cloud transition is established, with members as provided in this subsection.
+
+        i. The president of the senate shall appoint one member from each of the two largest caucuses of the senate;
+
+        ii. The speaker of the house of representatives shall appoint one member from each of the two largest caucuses of the house of representatives;
+
+        iii. The state chief information officer;
+
+        iv. The state chief information security officer; and
+
+    v. The president of the senate and the speaker of the house of representatives jointly shall appoint:
+
 (A) Two representatives from the represented employees' bargaining unit for state employees;
+
 (B) One representative from a company providing third-party cloud computing services;
+
 (C) One representative from a trade association representing cloud computing providers; and
+
 (D) One member from the state board for community and technical colleges.
-(b) The task force shall be chaired by the state chief information officer, who shall convene the initial meeting.
-(2) The task force shall review the following issues:
-(a) The impacts on labor of transitioning to third-party cloud computing services;
-(b) The retraining needs that the existing workforce may require to maintain employment in the information technology sector and deliver cloud computing services effectively within state government; and
-(c) The optimal method for delivering such training.
-(3) Staff support for the task force, including administration of task force meetings, must be provided by the office of the chief information officer. Additional staff support for legislative members of the task force must be provided by senate committee services and the house of representatives office of program research.
-(4) Legislative members of the task force are reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
-(5) The task force shall report its findings and recommendations to the governor and the appropriate committees of the legislature by November 30, 2021.
-(6) This section expires December 31, 2021.
+
+    b. The task force shall be chaired by the state chief information officer, who shall convene the initial meeting.
+
+2. The task force shall review the following issues:
+
+    a. The impacts on labor of transitioning to third-party cloud computing services;
+
+    b. The retraining needs that the existing workforce may require to maintain employment in the information technology sector and deliver cloud computing services effectively within state government; and
+
+    c. The optimal method for delivering such training.
+
+3. Staff support for the task force, including administration of task force meetings, must be provided by the office of the chief information officer. Additional staff support for legislative members of the task force must be provided by senate committee services and the house of representatives office of program research.
+
+4. Legislative members of the task force are reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+5. The task force shall report its findings and recommendations to the governor and the appropriate committees of the legislature by November 30, 2021.
+
+6. This section expires December 31, 2021.
+

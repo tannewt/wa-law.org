@@ -1,5 +1,6 @@
 # HB 1295 - Institutional ed./release
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1295&Year=2021)
+
 Providing public education to youth in or released from institutional education facilities. 
 
 ## Revisions

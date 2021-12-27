@@ -2,9 +2,12 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1462.xml)
 ## Section 1
-(1) The legislature finds that in 2020, the legislature enacted Engrossed Substitute Senate Bill No. 5385, which requires regulated health carriers, public employee and school employee health plans, and medicaid managed care plans to reimburse a provider for health care services provided through telemedicine at the same rate as health care services provided in person, unless an exception is met. However, the legislature finds that since its enactment there has been some controversy as to the meaning of the term rate.
-(2) The legislature finds that the office of the insurance commissioner issued an interpretative statement on December 15, 2020, stating that beginning on January 1, 2021, the law requires health carriers to pay providers the same total compensation, also called "allowed amount", for telemedicine services as they would for in-person services, unless negotiation has been undertaken as allowed by the law.
-(3) Therefore, the legislature intends to codify the office of the insurance commissioner's interpretive statement and confirm that the intent of the law is to require health carriers to pay providers the same total compensation for telemedicine services as they would for in-person services unless negotiation has been undertaken as allowed by the law.
+1. The legislature finds that in 2020, the legislature enacted Engrossed Substitute Senate Bill No. 5385, which requires regulated health carriers, public employee and school employee health plans, and medicaid managed care plans to reimburse a provider for health care services provided through telemedicine at the same rate as health care services provided in person, unless an exception is met. However, the legislature finds that since its enactment there has been some controversy as to the meaning of the term rate.
+
+2. The legislature finds that the office of the insurance commissioner issued an interpretative statement on December 15, 2020, stating that beginning on January 1, 2021, the law requires health carriers to pay providers the same total compensation, also called "allowed amount", for telemedicine services as they would for in-person services, unless negotiation has been undertaken as allowed by the law.
+
+3. Therefore, the legislature intends to codify the office of the insurance commissioner's interpretive statement and confirm that the intent of the law is to require health carriers to pay providers the same total compensation for telemedicine services as they would for in-person services unless negotiation has been undertaken as allowed by the law.
+
 
 ## Section 2
 > This section modifies existing section [48.43.735](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.

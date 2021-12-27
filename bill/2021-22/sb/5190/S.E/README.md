@@ -194,6 +194,49 @@ With respect to claims that have an effective date on or after January 4, 2004:
 ## Section 5
 If any part of sections 1 through 4 of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of sections 1 through 4 of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of sections 1 through 4 of this act. Rules adopted under sections 1 through 4 of this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
 
+
+## Section 6
+> This section adds a new section to an existing chapter [51.32](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. For health care employees who are covered under this title, there exists a prima facie presumption that any infectious or contagious diseases which are the subject of a public health emergency are occupational diseases under RCW 51.08.140 during a public health emergency. There is a presumption that the health care employee contracted or was exposed to the disease at the health care facility.
+
+2. The health care employee must provide verification, as required by the department by rule, to the department or the self-insurer that the employee is in quarantine or has contracted the disease after exposure to the infectious or contagious disease that is the subject of the public health emergency.
+
+3. This presumption of occupational disease may be rebutted by clear and convincing evidence that:
+
+    a. The exposure to the infectious or contagious disease which is the subject of the public health emergency occurred from other employment or nonemployment activities; or
+
+    b. The employee was working from the employee's home or other location not under the employer's control, on leave from the employee's employment, or some combination thereof, for the period of quarantine outlined for the disease immediately prior to the employee's date of disease contraction or period of incapacity resulting from exposure to the disease which is the subject of the public health emergency.
+
+4. For health care employees whose claims are allowed under this section, temporary total disability benefits as provided in RCW 51.32.090 shall be payable beginning the first day the worker is directed to quarantine or is unable to work due to the exposure or contraction of the disease, whichever comes first. If leave or similar benefits are paid to the worker as part of a federal or state program for these employees during the public health emergency, total temporary disability benefits are not payable for the same period of time covered by this federal or state program.
+
+5. [Empty]
+
+    a. When a determination involving the presumption established under this section is appealed to the board of industrial insurance appeals and the final decision allows the claim of benefits, the board of industrial insurance appeals shall order that all reasonable costs of the appeal, including attorneys' fees and witness fees, be paid to the worker or the worker's beneficiary by the opposing party. If the opposing party is a state fund employer or retrospective rating group, the costs and fees are paid by the employer or retrospective rating group.
+
+    b. When a determination involving the presumption established in this section is appealed to any court and the final decision allows the claim for benefits, the court shall order that all reasonable costs of appeal, including attorneys' fees and witness fees, be paid to the worker or the worker's beneficiary by the opposing party. If the opposing party is a state fund employer or retrospective rating group, the costs and fees are paid by the employer or retrospective rating group.
+
+    c. When reasonable costs of the appeal must be paid by the department as the opposing party in a state fund case, the costs shall be paid from the accident fund and charged to the costs of the claim.
+
+6. Costs of claims allowed under this section shall not affect the experience rating of employers insured by the state fund.
+
+7. For purposes of this section:
+
+    a. "Health care employee" means an employee of any health care facility or other organization that provides emergency or medical services who may have direct contact with any person who has been exposed to or tested positive for any infectious or contagious diseases which are the subject of a public health emergency.
+
+    b. "Health care facility" has the same meaning as in RCW 9A.50.010.
+
+    c. "Public health emergency" means a declaration or order that covers the jurisdiction where the employee was working on the date of exposure concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+        i. The president of the United States has declared a national or regional emergency; or
+
+        ii. The governor of Washington declared a state of emergency under RCW 43.06.010(12).
+
+8. The presumption in subsection (1) of this section takes effect on the day the national, regional, or state emergency is declared and continues until this declaration is revoked.
+
+9. The provisions of RCW 51.28.055 concerning time limits for filing claims for occupational disease apply to claims covered under this section.
+
+
 ## Section 7
 > This section modifies existing section [51.52.130](/rcw/51_industrial_insurance/51.52_appeals.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.52_appeals.md) for context.
 
@@ -210,4 +253,14 @@ If any part of sections 1 through 4 of this act is found to be in conflict with 
 2. In an appeal to the superior or appellate court involving the presumption established under RCW 51.32.185, the attorney's fee **and costs** shall be payable as set forth under RCW 51.32.185.
 
 3. **In an appeal to the superior or appellate court involving the presumption established under section 6 of this act, the attorneys' fees and costs shall be payable as set forth under section 6 of this act.**
+
+
+## Section 8
+> This section adds a new section to an existing chapter [51.32](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. Where an appealing party, other than the department or a self-insured employer, is ordered to pay attorneys' fees and costs and that party fails, refuses, or neglects to comply with the award, which has become final and is not subject to review or appeal, the director or any person entitled to compensation under the order may institute proceedings for injunctive or other appropriate relief for enforcement of the order. These proceedings may be instituted in the superior court for the county in which the claimant resides, or, if the claimant is not then a resident of this state, in the superior court for the county in which that party may be served with process.
+
+2. The court shall ensure compliance to the order by proper means, enjoining compliance upon the person obligated to comply with the compensation order. The court may issue such writs and processes as are necessary to carry out its orders.
+
+3. A proceeding under this section does not preclude other methods of enforcement provided for in this title.
 

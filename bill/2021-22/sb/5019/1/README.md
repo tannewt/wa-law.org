@@ -4,6 +4,7 @@
 ## Section 1
 The legislature recognizes the necessity to clarify existing law regarding the recording of documents with county recording departments and county auditors. Recording standards and practices vary from county to county, which creates confusion and liability. County recorders, real estate firms, title and escrow companies, and consumer groups need simplified and standardized recording standards and fees. It is the intent of the legislature that the secretary of state have the authority to create regulations for consistent recording of documents by county auditors.
 
+
 ## Section 2
 > This section modifies existing section [65.24.010](/rcw/65_recording_registration_and_legal_publication/65.24_uniform_real_property_electronic_recording_act.md). Here is the [modified chapter](rcw/65_recording_registration_and_legal_publication/65.24_uniform_real_property_electronic_recording_act.md) for context.
 
@@ -50,4 +51,54 @@ The definitions in this section apply throughout this chapter unless the context
     g. **Standards for the certification of recorded documents including imaged paper documents and documents that are received by the recording officer in an electronic form; and**
 
     h. **Standards on the documentation and recording of boundary line adjustments for real property**.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [65.24](/rcw/65_recording_registration_and_legal_publication/65.24_uniform_real_property_electronic_recording_act.md). Here is the [modified chapter](rcw/65_recording_registration_and_legal_publication/65.24_uniform_real_property_electronic_recording_act.md) for context.
+
+1. The secretary of state, as chief archivist, shall make reasonable rules in accordance with federal and state laws, to provide for the uniform recording of documents in cooperation with the commission established in this chapter.
+
+2. In addition to the rule-making authority granted otherwise by this section, the secretary of state may make rules governing the following:
+
+    a. Recording duties of county recorders and county auditors;
+
+    b. Recording standards for the creation of certified copies for use as evidence;
+
+    c. Recording standards for documents related to eminent domain;
+
+    d. Recording standards for documents related to community property;
+
+    e. Recording standards for documents related to unfit dwellings, buildings, and structures;
+
+    f. Recording standards for court summons served and court judgments;
+
+    g. Recording standards for documents related to military discharge;
+
+    h. Recording standards for documents related to boundaries and plats not otherwise under the rule-making authority of another state agency;
+
+    i. Recording standards for documents related to liens;
+
+    j. Recording standards for documents related to mortgages, deeds of trust, and real estate contracts;
+
+    k. Recording standards for documents related to the uniform commercial code;
+
+    l. Recording standards for documents related to real property and conveyances;
+
+    m. Standards to be used in recording, registration, and legal publication under this chapter;
+
+    n. Recording standards for documents related to cemetery property;
+
+    o. Standards for fee waivers including but not limited to documents for veterans, and support of dependent children;
+
+    p. Recording standards for documents related to mines, minerals, and petroleum;
+
+    q. Recording standards for documents related to public lands, including tidelands, and shorelines;
+
+    r. Recording standards for documents related to excise tax on real estate;
+
+    s. Recording standards for documents related to property tax;
+
+    t. Recording standards for documents prepared in foreign countries; and
+
+    u. Recording standards for documents not identified in (a) through (t) of this subsection.
 

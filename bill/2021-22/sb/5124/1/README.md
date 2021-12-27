@@ -1,6 +1,20 @@
 # Senate Bill 5124 - Session Law Chapter 179 Year 2021
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5124.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [18.36A](/rcw/18_businesses_and_professions/18.036A_naturopathy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.036A_naturopathy.md) for context.
+
+1. Beginning July 1, 2022, the secretary shall issue a certification as a colon hydrotherapist to any applicant who:
+
+    a. Has completed education and training requirements established by the board. At a minimum, education and training requirements must address proper technique, the use of appropriate equipment, and safety and consent procedures; and
+
+    b. Has successfully passed an examination approved by the board.
+
+2. The board may recognize certification or accreditation by a professional organization as satisfying any of the requirements in subsection (1) of this section if the organization's standards are substantially equivalent to or more stringent than those established under subsection (1) of this section.
+
+3. A colon hydrotherapist may not practice colon hydrotherapy unless the colon hydrotherapist has established an affiliation with one or more naturopaths licensed under this chapter. A colon hydrotherapist must submit the names of all naturopaths with which the colon hydrotherapist is affiliated to the board on a schedule established by the board. A colon hydrotherapist may practice in a location other than the office of a naturopath. A colon hydrotherapist may only perform colon hydrotherapy on patients who have been referred to the colon hydrotherapist by a naturopath with whom the colon hydrotherapist is affiliated and only according to the plan of care delegated from the naturopath to the colon hydrotherapist.
+
+
 ## Section 3
 > This section modifies existing section [18.36A.060](/rcw/18_businesses_and_professions/18.036A_naturopathy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.036A_naturopathy.md) for context.
 

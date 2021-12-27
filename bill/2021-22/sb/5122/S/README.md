@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5122-S.xml)
 ## Section 1
 The legislature finds that the goal of the juvenile justice system should be to protect public safety, connect youth with age-appropriate services that reduce the risk of recidivism, and provide meaningful rehabilitation so all youth can have the opportunity for success in life. The legislature declares that responses to problematic behaviors of youth should be guided by evidence-based practices and that policy changes to the system should be strongly rooted in eliminating racial inequities.
+
 The legislature recognizes that a scientific consensus has developed that demonstrates that youth continue to develop neurologically until age 26. The legislature finds that youth ages eight through 12 are less capable of making fully informed decisions and youth ages 18 and 19 are particularly susceptible to outside factors influencing their decision making. The legislature recognizes that on January 18, 2021, the Washington state board of health released a review regarding the health impacts of raising the age of the juvenile court's jurisdiction to likely decrease the juvenile criminal legal system's involvement for some youth ages eight through 12 and to likely decrease the adult criminal legal system's involvement for some emerging adults ages 18 and 19. The board further found very strong evidence that this would decrease juvenile recidivism and improve health outcomes, access to employment opportunities, housing access, and economic stability.
+
 The legislature recognizes the important role that local governments play in ensuring access to justice in the juvenile court system. The legislature recognizes that increased jurisdiction in juvenile court may increase expenses for juvenile court systems despite significant offset savings in the adult system through reduced adult caseloads. The legislature intends to partner with local governments, courts, and other stakeholders to ensure successful implementation of this act.
+
 
 ## Section 2
 > This section modifies existing section [9A.04.050](/rcw/09A_washington_criminal_code/9A.04_preliminary_article.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.04_preliminary_article.md) for context.
@@ -2764,8 +2767,52 @@ The juvenile shall be advised that a diversion agreement shall constitute a part
 5. Youth courts shall give any victims of a juvenile the opportunity to be notified, present, and heard in any youth court proceeding.
 
 
+## Section 23
+> This section adds a new section to an existing chapter [13.04](/rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md) for context.
+
+1. A county may choose to increase the age of juvenile court jurisdiction within the county to 18 or 19 years of age sooner than the dates required in this act, and in doing so may choose to increase the age in a phased manner, provided that the authorities within the county agree that capacity exists within the county to provide for adequate safety, rehabilitative programming, and efficient court processing for the affected persons during the transition period. Each county and juvenile court shall cooperate with the office of juvenile justice within the department of children, youth, and families in its role as statewide monitor of the transition under section 24 of this act so that the office of juvenile justice may provide accurate information to the governor and the legislature.
+
+2. This section expires June 30, 2026.
+
+
+## Section 24
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. The office of juvenile justice within the department shall monitor the implementation of this act across the state and report on the progress of counties and their readiness to move forward to full implementation while providing for adequate safety, rehabilitative programming, and efficient court processing for affected persons. The office of juvenile justice shall deliver a report to the governor and relevant committees of the legislature annually by December 1st regarding the implementation of this act, and may make recommendations if appropriate.
+
+2. This section expires June 30, 2026.
+
+
 ## Section 25
 The Washington state institute for public policy must assess the impact of this act on community safety, health impacts, racial disproportionality, recidivism, state expenditures, and youth rehabilitation, to the extent possible, and submit, in compliance with RCW 43.01.036, a preliminary report to the governor and the appropriate committees of the legislature by December 1, 2028, and a final report to the governor and the appropriate committees of the legislature by December 1, 2033.
 
+
+## Section 26
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. The office of juvenile justice within the department, in consultation with the department of corrections, Washington association of sheriffs and police chiefs, office of public defense, Washington association of prosecuting attorneys, superior court judges' association, association of juvenile court administrators, Washington state association of counties, minority and justice commission, two different community organizations representing the interests of incarcerated persons, and three different community organizations that offer services to youth that may be involved in the juvenile justice system, shall:
+
+    a. Consider the implications, including necessary funding, of expanding juvenile jurisdiction by this act to encompass persons 18 years of age beginning in fiscal year 2023 and 19 years of age beginning in calendar year 2025;
+
+    b. On or before December 1, 2022, report to the governor and appropriate committees of the legislature on the status and plan for the expansion, including necessary funding, measures necessary to avoid a negative impact on the state's child protection response, and specific milestones related to operations and policy, including:
+
+        i. Identification of and a timeline for structural and systemic changes within the juvenile justice system for the juvenile rehabilitation division, the department for children, youth, and families, the department of corrections, and the juvenile court pursuant to chapter 13.04 RCW;
+
+        ii. An operations and business plan that defines benchmarks, including possible changes to resource allocations;
+
+        iii. Review of the estimated costs avoided by the state with the reduction of recidivism and conduct an analysis of costs savings reinvestment options; and
+
+        iv. A clearly defined path for geographic consistency and court alternatives and training needs; and
+
+    c. Provide status update reports to the appropriate committees of the legislature on or before December 1, 2023, December 1, 2024, and December 1, 2025.
+
+2. The office of juvenile justice within the department shall review the December 1, 2022, report, the plan for expansion, the necessary funding, and the subsequent status reports as required by subsection (1) of this section to determine whether adequate funding and supports are in place to implement the expansion of juvenile jurisdiction to encompass persons 18 and 19 years of age in accordance with the effective date of this section, and shall:
+
+    a. On or before December 1, 2023, December 1, 2024, and December 1, 2025, issue findings as to whether the milestones identified in subsection (1)(b) of this section related to operations and policy have been met and whether an appropriate funding plan has been developed; and
+
+    b. On or before December 1, 2022, December 1, 2023, December 1, 2024, and December 1, 2025, recommend legislation to amend the timeline for the rollout of the expansion unless adequate funding and supports for the expansion are available and milestones related to policy and operations have been met.
+
+
 ## Section 27
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

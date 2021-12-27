@@ -1,6 +1,12 @@
 # Substitute House Bill 1113 as Recommended by Education
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1113-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [28A.225](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+The superintendent of public instruction may adopt rules necessary to carry out the purposes of this chapter.
+
+
 ## Section 2
 > This section modifies existing section [28A.225.015](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
 

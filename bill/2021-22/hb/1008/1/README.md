@@ -1,6 +1,40 @@
 # House Bill 1008
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1008.xml)
+## Section 1
+> This section adds a new section to an existing chapter [9.02](/rcw/09_crimes_and_punishments/9.002_abortion.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.002_abortion.md) for context.
+
+1. No person may intentionally perform or induce, or attempt to perform or induce, an abortion on a pregnant woman if the person has knowledge that the pregnant woman is seeking the abortion, in whole or in part, because of any of the following:
+
+    a. A test result indicating Down syndrome in an unborn child;
+
+    b. A prenatal diagnosis of Down syndrome in an unborn child; or
+
+    c. Any other reason to believe that an unborn child has Down syndrome.
+
+2. Whoever violates subsection (1) of this section is subject to the penalties established in RCW 9.02.120.
+
+3. The Washington medical commission or the board of osteopathic medicine and surgery, as applicable, must revoke the license of a physician who has violated subsection (1) of this section.
+
+4. Any physician who violates subsection (1) of this section is liable in a civil action for compensatory and exemplary damages, as well as reasonable attorneys' fees, to the person, or the representative of the estate of any person, who sustains injury, death, or loss to person or property as the result of the intentional performance or inducement, or the attempted performance or inducement, of the abortion. In any action under this subsection, the court may also award injunctive or other equitable relief that the court considers appropriate.
+
+5. A pregnant woman on whom an abortion is intentionally performed or induced, or attempted to be performed or induced, in violation of subsection (1) of this section is not guilty of violating subsection (1) of this section or attempting to commit, conspiring to commit, or complicity in committing a violation of subsection (1) of this section.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [9.02](/rcw/09_crimes_and_punishments/9.002_abortion.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.002_abortion.md) for context.
+
+1. The attending physician performing or inducing an abortion must indicate in a report to the department of health that the attending physician does not have knowledge that the pregnant woman was seeking the abortion, in whole or in part, because of any of the following:
+
+    a. A test result indicating Down syndrome in an unborn child;
+
+    b. A prenatal diagnosis of Down syndrome in an unborn child; or
+
+    c. Any other reason to believe that an unborn child has Down syndrome.
+
+2. The department of health shall adopt rules to facilitate the submission of the reports, including establishing reporting forms and allowing for the incorporation of reporting into existing reporting requirements for hospitals and facilities where abortions are performed or induced.
+
+
 ## Section 3
 > This section modifies existing section [9.02.110](/rcw/09_crimes_and_punishments/9.002_abortion.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.002_abortion.md) for context.
 
@@ -35,3 +69,4 @@ For purposes of this chapter:
 
 ## Section 5
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

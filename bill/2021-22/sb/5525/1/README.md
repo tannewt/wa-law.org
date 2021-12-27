@@ -13,3 +13,4 @@
 
 ## Section 2
 This act applies to all written orders under section 1 of this act retroactive to January 1, 2020.
+

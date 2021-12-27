@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that whether mediation, reporting, and payment provisions of the foreclosure fairness act apply to any particular beneficiary in a given year is tied to the number of trustee's sales and number of notices of trustee's sale recorded in the preceding year. The legislature further finds that, due to the federal foreclosure moratorium in place from at least March of 2020 through December of 2020 and into the year 2021, it is likely that, absent legislative action, the mediation, reporting, and payment provisions of the foreclosure fairness act will apply to very few if any beneficiaries in calendar year 2021 or 2022 because the threshold numbers that trigger application of these provisions will not be met. The legislature therefore intends to put in place a temporary stopgap remedy so that vital assistance provisions of the foreclosure fairness act are not lost at the very time that foreclosure activity is likely to be increasing.
 
+
 ## Section 2
 > This section modifies existing section [61.24.005](/rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md). Here is the [modified chapter](rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md) for context.
 

@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that transparency and fiscal responsibility are important principles for state government, including election administration. The legislature finds that advisory votes are nonbinding after-the-fact polls that do not aid transparency, are costly to taxpayers, cause confusion and frustration among voters, and provide little, if any, useful feedback for the legislature. The legislature finds that there are more effective ways for the public to participate in the legislative process, and to be educated about the decisions the legislature makes without contributing to long ballots, which can lead to choice fatigue and voters abstaining from down-ballot races that determine who shall serve in the government closest the people.
 
+
 ## Section 2
 > This section modifies existing section [29A.32.070](/rcw/29A_elections/29A.32_voters_pamphlets.md). Here is the [modified chapter](rcw/29A_elections/29A.32_voters_pamphlets.md) for context.
 
@@ -102,4 +103,14 @@ The voters' pamphlet published or distributed under RCW 29A.32.010 must contain:
 9. **A pie chart prepared by the legislative evaluation and accountability program showing total budgeted funds for the state operating budget by functional areas of government for the most recent biennium; and**
 
 10. Any additional information pertaining to elections as may be required by law or in the judgment of the secretary of state is deemed informative to the voters.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [29A.32](/rcw/29A_elections/29A.32_voters_pamphlets.md). Here is the [modified chapter](rcw/29A_elections/29A.32_voters_pamphlets.md) for context.
+
+1. The office of financial management, in consultation with the secretary of state, the attorney general, and any other appropriate state or local agency, shall prepare a fiscal impact statement for each bill enacted under RCW 29A.32.031(8). Fiscal impact statements must be written in clear and concise language, avoid legal and technical terms when possible, and be filed with the secretary of state no later than the 10th day of August. Fiscal impact statements may include easily understood graphics.
+
+2. A fiscal impact statement must describe any projected increase or decrease in revenues, costs, expenditures, or indebtedness that the state or local governments will experience. Where appropriate, a fiscal impact statement may include both estimated dollar amounts and a description placing the estimated dollar amounts into context. A fiscal impact statement must include a summary not to exceed 100 words, and a more detailed statement that includes the assumptions that were made to develop the fiscal impacts.
+
+3. Fiscal impact statements must be available online from the secretary of state's website and included in the state voters' pamphlet. Additional information may be posted on the website of the office of financial management.
 

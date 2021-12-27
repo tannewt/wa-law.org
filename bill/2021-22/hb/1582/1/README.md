@@ -35,3 +35,4 @@
 
 ## Section 3
 This act may be known and cited as the empowering Washington voters act.
+

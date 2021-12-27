@@ -2,17 +2,30 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1044-S2.xml)
 ## Section 2
-(1)(a) Subject to the availability of amounts appropriated for this specific purpose, the Washington state institute for public policy shall study enrollment, completion, and recidivism rates of incarcerated individuals in the postsecondary education system postrelease.
-(b) The goal of the study is to understand whether participation in postsecondary education while incarcerated contributes to greater enrollment and completion of postsecondary education and reduced recidivism postrelease. The scope of the study shall focus on postrelease enrollment and completion trends in the community and technical college sector for formerly incarcerated individuals of all ages. The timeline of the study may include data from 2015 to the present, to the extent possible. The study's findings shall be divided into a preliminary and final report. The reports shall complement similar studies conducted at the University of Washington or elsewhere. To the extent that it is not duplicative of other studies, the Washington state institute for public policy shall study the following:
-(i) For the preliminary report, which is due October 1, 2024:
+1. [Empty]
+
+    a. Subject to the availability of amounts appropriated for this specific purpose, the Washington state institute for public policy shall study enrollment, completion, and recidivism rates of incarcerated individuals in the postsecondary education system postrelease.
+
+    b. The goal of the study is to understand whether participation in postsecondary education while incarcerated contributes to greater enrollment and completion of postsecondary education and reduced recidivism postrelease. The scope of the study shall focus on postrelease enrollment and completion trends in the community and technical college sector for formerly incarcerated individuals of all ages. The timeline of the study may include data from 2015 to the present, to the extent possible. The study's findings shall be divided into a preliminary and final report. The reports shall complement similar studies conducted at the University of Washington or elsewhere. To the extent that it is not duplicative of other studies, the Washington state institute for public policy shall study the following:
+
+        i. For the preliminary report, which is due October 1, 2024:
+
 (A) Patterns and any effects on postrelease enrollment and participation in the community and technical college system by individuals who, while incarcerated, participated in postsecondary education programs, including those individuals that completed some coursework but did not earn a degree or certificate; and
+
 (B) Differential outcomes for individuals participating in different types of postsecondary education courses, certificate programs, and degree programs.
-(ii) For the final report, which is due October 1, 2027, a continuation of the preliminary report in addition to:
+
+        ii. For the final report, which is due October 1, 2027, a continuation of the preliminary report in addition to:
+
 (A) Changes in enrollment and completion of postsecondary education courses, certificate programs, and degree programs due to the changes and expansion of educational programming in this act, to the extent possible; and
+
 (B) Recidivism outcomes beyond incarceration for those incarcerated individuals that participated in postsecondary certificate and degree programs while incarcerated, including arrests, charges, and convictions.
-(iii) The preliminary and final reports shall be submitted to the appropriate committees of the legislature and in accordance with RCW 43.01.036.
-(iv) The department of corrections, the student achievement council, the state board for community and technical colleges, and the education research and data center shall provide data necessary to conduct the study.
-(2) This section expires January 1, 2029.
+
+        iii. The preliminary and final reports shall be submitted to the appropriate committees of the legislature and in accordance with RCW 43.01.036.
+
+        iv. The department of corrections, the student achievement council, the state board for community and technical colleges, and the education research and data center shall provide data necessary to conduct the study.
+
+2. This section expires January 1, 2029.
+
 
 ## Section 3
 > This section modifies existing section [72.09.270](/rcw/72_state_institutions/72.09_department_of_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.09_department_of_corrections.md) for context.
@@ -174,6 +187,14 @@
 6. Any funds collected by the department under this section shall be used solely for the creation, maintenance, or expansion of  postsecondary education degree programs **for incarcerated individuals**.
 
 
+## Section 6
+> This section adds a new section to an existing chapter [72.68](/rcw/72_state_institutions/72.68_transfer_removal_transportation—detention_contracts.md). Here is the [modified chapter](rcw/72_state_institutions/72.68_transfer_removal_transportation—detention_contracts.md) for context.
+
+1. In determining whether to transfer an incarcerated individual to a different facility in the state, the department shall consider whether the incarcerated individual is enrolled in a vocational or educational program, including those operated by approved outside providers, which cannot be continued at the receiving facility. The department shall work with the incarcerated individual's case manager, counselor, education navigator, or other appropriate person to attempt to meet the needs of the department and the incarcerated individual regarding transfer.
+
+2. Nothing in this section creates a vested right in programming, education, or other services.
+
+
 ## Section 7
 > This section modifies existing section [72.68.010](/rcw/72_state_institutions/72.68_transfer_removal_transportation—detention_contracts.md). Here is the [modified chapter](rcw/72_state_institutions/72.68_transfer_removal_transportation—detention_contracts.md) for context.
 
@@ -194,6 +215,30 @@
     b. Should any of these requirements in this subsection not be met, the contract with the private correctional entity shall be terminated.
 
 3. If directed by the governor, the secretary shall, in carrying out this section and RCW 43.06.350, adopt rules under chapter 34.05 RCW to effect the transfer of **incarcerated individuals** requesting transfer to foreign countries.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [72.09](/rcw/72_state_institutions/72.09_department_of_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.09_department_of_corrections.md) for context.
+
+1. The department, the state board for community and technical colleges, the student achievement council, and the Washington statewide reentry council, in collaboration with an organization representing the presidents of the public four-year institutions of higher education, shall submit a combined report, pursuant to RCW 43.01.036, by December 1, 2021, and annually thereafter, to the appropriate committees of the legislature having oversight over higher education issues and correctional matters.
+
+2. At a minimum, the combined report must include:
+
+    a. The number of incarcerated individuals served in the department's postsecondary education system, the number of individuals not served, the number of individuals leaving the department's custody without a high school equivalency who were in the department's custody longer than one year, and the number of individuals released without any postsecondary education, each disaggregated by demographics;
+
+    b. A review of the department's identification and assessment of incarcerated individuals with learning disabilities, traumatic brain injuries, and other cognitive impairments or disabilities that may limit their ability to participate in educational programming, including general educational development testing and postsecondary education. The report shall identify barriers to the identification and assessment of these individuals and include recommendations that will further facilitate access to educational programming for these individuals;
+
+    c. An identification of issues related to ensuring that credits earned in credit-bearing courses are transferable. The report must also include the number of transferable credits awarded and the number of credits awarded that are not transferable;
+
+    d. A review of policies on transfer, in order to create recommendations to institutions and the legislature that to ensure postsecondary education credits earned while incarcerated transfer seamlessly upon postrelease enrollment in a postsecondary education institution. The review must identify barriers or challenges on transferring credits experienced by individuals and the number of credits earned while incarcerated that transferred to the receiving colleges postrelease;
+
+    e. The number of individuals participating in correspondence courses and completion rates of correspondence courses, disaggregated by demographics;
+
+    f. An examination of the collaboration between correctional facilities, the educational programs, and the institutions, with the goal of ensuring that roles and responsibilities are clearly defined, including the roles and responsibilities of each entity in relation to ensuring incarcerated individual access to, and accommodations in, educational programming; and
+
+    g. A review of the partnerships with nonprofit organizations at state correctional facilities that provide accredited certificate and degree granting programs and those that provide reentry services in support of educational programs and goals.
+
+3. The report shall strive to include, where possible, the voices and experiences of current or formerly incarcerated individuals.
 
 
 ## Section 9
@@ -218,3 +263,4 @@
 
 ## Section 10
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

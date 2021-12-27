@@ -65,6 +65,76 @@ The following goals are adopted to guide the development and adoption of compreh
 6. If a local jurisdiction's master program does not include land necessary for buffers for critical areas that occur within shorelines of the state, as authorized by RCW 90.58.030(2)(d), then the local jurisdiction shall continue to regulate those critical areas and their required buffers pursuant to RCW 36.70A.060(2).
 
 
+## Section 3
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. The requirements of the greenhouse gas emissions reduction subelement of the climate change and resiliency element set forth in RCW 36.70A.070 apply only to those counties, and the cities within those counties, that meet either of the following criteria on or after January 1, 2021:
+
+    a. A county with a population density of at least 100 people per square mile and a population of at least 200,000; or
+
+    b. A county with a population density of at least 75 people per square mile and an annual growth rate of at least 1.75 percent as determined by the office of financial management.
+
+2. Once a county meets either of the sets of criteria set forth in subsection (1) of this section, the requirement to conform with the greenhouse gas emissions reduction subelement of the climate change and resiliency element set forth in RCW 36.70A.070 remains in effect, even if the county no longer meets one of these sets of criteria.
+
+3. If the population of a county that previously had not been required to conform with the greenhouse gas emissions reduction subelement of the climate change and resiliency element set forth in RCW 36.70A.070 changes sufficiently to meet either of the sets of criteria set forth in subsection (1) of this section, the county, and the cities within that county, shall adopt a greenhouse gas emissions reduction subelement of the climate change and resiliency element set forth in RCW 36.70A.070 at the next scheduled update of the comprehensive plan as set forth in RCW 36.70A.130.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [70A.45](/rcw/70A_environmental_health_and_safety/70A.045_limiting_greenhouse_gas_emissions.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.045_limiting_greenhouse_gas_emissions.md) for context.
+
+1. The department of commerce, in consultation with the department of ecology, the department of health, and the department of transportation, shall publish guidelines that specify the proportionate reductions in greenhouse gas emissions associated with passenger cars and light trucks that must be accomplished within the geographical area of each regional transportation planning organization or metropolitan planning organization, as those terms are described in chapter 47.80 RCW, that comprises one or more jurisdictions described in section 3 of this act or, for cities and counties described in section 3 of this act that are not members of a regional transportation planning organization or a metropolitan planning organization, the proportionate reductions in greenhouse gas emissions associated with passenger cars and light trucks that must be accomplished within each such city and county, in order to achieve proportionate shares of the statewide greenhouse gas emissions reductions set forth in RCW 70A.45.020(1), allowing for consideration of the emissions reductions achieved through the adoption of statewide programs. The guidelines must prioritize reductions in communities that have experienced disproportionate harm due to air pollution and may draw upon the most recent health disparities data from the department of health to identify high pollution areas and disproportionately burdened communities. In addition to a total proportionate share, the department of commerce shall also publish an advisory proportionate share for each county and city described in section 3 of this act in order to aid the regional transportation planning organization or metropolitan planning organization in allocating reductions. The guidelines must be based on:
+
+    a. The most recent greenhouse gas emissions report prepared by the department of ecology and the department of commerce pursuant to RCW 70A.45.020(2); and
+
+    b. The most recent city and county population estimates prepared by the department of commerce pursuant to RCW 43.62.035.
+
+2. The department of commerce, in consultation with the department of transportation, shall publish guidelines that specify the proportionate reductions in passenger car and light truck vehicle miles traveled that must be accomplished within the geographical area of each regional transportation planning organization or metropolitan planning organization, as those terms are described in chapter 47.80 RCW, that comprises one or more jurisdictions described in section 3 of this act or, for cities and counties described in section 3 of this act that are not members of a regional transportation planning organization or a metropolitan planning organization, those cities and counties, in order to achieve their proportionate shares of the transportation sector's, passenger car and light truck segment, proportionate share of overall greenhouse gas emissions that must be accomplished in order to achieve the statewide greenhouse gas emissions reductions set forth in RCW 70A.45.020(1). In addition to a total proportionate share of reduction of vehicle miles traveled for each regional transportation planning organization and metropolitan planning organization, the department of commerce shall also publish an advisory proportionate share for each county and city described in section 3 of this act in order to aid each regional transportation planning organization and metropolitan planning organization in allocating reductions.
+
+The guidelines must be based on:
+
+    a. The most recent greenhouse gas emissions report prepared by the department of ecology and the department of commerce pursuant to RCW 70A.45.020(2);
+
+    b. The most recent city and county population estimates prepared by the department of commerce pursuant to RCW 43.62.035; and
+
+    c. The most recent summary of vehicle miles traveled as compiled by the department of transportation.
+
+3. The department of commerce shall first publish the guidelines described in subsections (1) and (2) of this section no later than December 31, 2025. The department of commerce shall update these guidelines every four years thereafter based on the most recently available data.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. A greenhouse gas emissions reduction subelement required by RCW 36.70A.070 becomes effective when approved by the department as provided in this section. The department shall strive to achieve final action on a submitted greenhouse gas emissions reduction subelement within 180 days of receipt and shall post an annual assessment related to this performance benchmark on the agency website.
+
+2. Upon receipt of a proposed greenhouse gas emissions reduction subelement, the department shall:
+
+    a. Provide notice to and opportunity for written comment by all interested parties of record as a part of the local government review process for the proposal and to all persons, groups, and agencies that have requested in writing notice of proposed greenhouse gas emissions reduction subelements. The comment period shall be at least 30 days, unless the department determines that the level of complexity or controversy involved supports a shorter period;
+
+    b. In the department's discretion, conduct a public hearing during the 30-day comment period in the jurisdiction proposing the greenhouse gas emissions reduction subelement;
+
+    c. Within 15 days after the close of public comment, request the local government to review the issues identified by the public, interested parties, groups, and agencies and provide a written response as to how the proposal addresses the identified issues;
+
+    d. Within 30 days after receipt of the local government response pursuant to (c) of this subsection, make written findings and conclusions regarding the consistency of the proposal with the policy of RCW 36.70A.070 and, after they are adopted, the applicable guidelines adopted by the department pursuant to section 5 of this act and any reduction allocations made pursuant to RCW 36.70A.100, provide a response to the issues identified in (c) of this subsection, and either approve the greenhouse gas emissions reduction subelement as submitted, recommend specific changes necessary to make the greenhouse gas emissions reduction subelement approvable, or deny approval of the greenhouse gas emissions reduction subelement in those instances where no alteration of the greenhouse gas emissions reduction subelement appears likely to be consistent with the policy of RCW 36.70A.070 and the applicable guidelines. The written findings and conclusions shall be provided to the local government, and made available to all interested persons, parties, groups, and agencies of record on the proposal;
+
+    e. If the department recommends changes to the proposed greenhouse gas emissions reduction subelement, within 90 days after the department mails the written findings and conclusions to the local government, require the local government to:
+
+        i. Agree to the proposed changes by written notice to the department; or
+
+        ii. Submit an alternative greenhouse gas emissions reduction subelement. If, in the opinion of the department, the alternative is consistent with the purpose and intent of the changes originally submitted by the department and with this chapter it shall approve the changes and provide notice to all recipients of the written findings and conclusions. If the department determines the proposed greenhouse gas emissions reduction subelement is not consistent with the purpose and intent of the changes proposed by the department, the department may resubmit the proposed greenhouse gas emissions reduction subelement for public and agency review pursuant to this section or reject the proposed greenhouse gas emissions reduction subelement.
+
+3. The department shall approve a proposed greenhouse gas emissions reduction subelement unless it determines that the proposed greenhouse gas emissions reduction subelement is not consistent with the policy of RCW 36.70A.070 and, after they are adopted, the applicable guidelines.
+
+4. A greenhouse gas emissions reduction subelement takes effect when and in such form as approved or adopted by the department. The effective date is 14 days from the date of the department's written notice of final action to the local government stating the department has approved or rejected the proposed greenhouse gas emissions reduction subelement. The department's written notice to the local government must conspicuously and plainly state that it is the department's final decision and that there will be no further modifications to the proposed greenhouse gas emissions reduction subelement. The department shall maintain a record of each greenhouse gas emissions reduction subelement, the action taken on any proposed greenhouse gas emissions reduction subelement, and any appeal of the department's action. The department's approved document of record constitutes the official greenhouse gas emissions reduction subelement.
+
+5. Promptly after approval or disapproval of a local government's greenhouse gas emissions reduction subelement, the department shall publish a notice consistent with RCW 36.70A.290 that the greenhouse gas emissions reduction subelement has been approved or disapproved. This notice must be filed for all greenhouse gas emissions reduction subelements.
+
+6. The department's final decision to approve or reject a proposed greenhouse gas emissions reduction subelement or amendment by a local government planning under RCW 36.70A.040 may be appealed according to the following provisions:
+
+    a. The department's final decision to approve or reject a proposed greenhouse gas emissions reduction subelement or amendment by a local government planning under RCW 36.70A.040 may be appealed to the growth management hearings board by filing a petition as provided in RCW 36.70A.290.
+
+    b. A decision of the growth management hearings board concerning an appeal of the department's final decision to approve or reject a proposed greenhouse gas emissions reduction subelement or amendment must be based solely on whether or not the adopted or amended greenhouse gas emissions reduction subelement, any adopted amendments to other elements of the comprehensive plan necessary to carry out the subelement, and any adopted or amended development regulations necessary to implement the subelement, comply with the goal set forth in RCW 36.70A.020(14) as it applies to greenhouse gas emissions reductions, RCW 36.70A.070(9) excluding RCW 36.70A.070(9)(b), the guidelines adopted under section 5 of this act applicable to the greenhouse gas emissions reduction subelement, or chapter 43.21C RCW.
+
+
 ## Section 7
 > This section modifies existing section [36.70A.320](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 
@@ -169,4 +239,16 @@ The comprehensive plan of each county or city  adopted pursuant to RCW 36.70A.04
 3. The organization shall review the regional transportation plan biennially for currency and forward the adopted plan along with documentation of the biennial review to the state department of transportation.
 
 4. All transportation projects, programs, and transportation demand management measures within the region that have an impact upon regional facilities or services must be consistent with the plan and with the adopted regional growth and transportation strategies.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [47.80](/rcw/47_public_highways_and_transportation/47.80_regional_transportation_planning_organizations.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.80_regional_transportation_planning_organizations.md) for context.
+
+The department shall compile, maintain, and publish a summary of the vehicle miles traveled annually in each city in the state, and in the unincorporated portions of each county in the state.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [90.58](/rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md) for context.
+
+The department shall update its shoreline master program guidelines to require shoreline master programs to address the impact of sea level rise and increased storm severity on people, property, and shoreline natural resources and the environment.
 

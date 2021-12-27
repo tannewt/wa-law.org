@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5153.xml)
 ## Section 1
 Washington state data shows that students of color, students who experience poverty, homelessness, or foster care, and students with disabilities have the highest rates of absences. Students who are chronically absent, defined as missing 10 percent or more of scheduled instructional days, are more likely not to read at grade level by the third grade and are less likely to graduate.
+
 Absences can be an indicator to educators that a student's academic and social-emotional needs may not be met through the district, school, or classroom culture or climate. Absences can also cue educators that a student and their family may need additional support.
+
 The legislature finds that a multitiered system of support that is inclusive of attendance ensures students benefit from nurturing environments and equitable access to instruction and supports that are culturally and linguistically responsive, universally designed, and differentiated to meet their unique needs. Such a system includes data-based decision making; team-driven leadership; family, student, and community engagement; delivery of a continuum of supports; and evidenced-based practices. Implementation of tiered supports will reduce absences, improve student success, and reduce the number of students that are referred to juvenile court for truancy. As such, the legislature intends to promote the expectation for and ability of school districts to use tiered supports for the purposes of increasing positive attendance.
+
 
 ## Section 101
 > This section modifies existing section [28A.225.015](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
@@ -232,6 +235,22 @@ The number of petitions filed by a school district with the juvenile court and, 
 3. A report required under this section shall not disclose the name or other identification of a **student** or parent.
 
 4. The K-12 data governance group shall develop the data protocols and guidance for school districts in the collection of data to provide a clearer understanding of actions taken under RCW 28A.225.030.
+
+
+## Section 109
+> This section adds a new section to an existing chapter [28A.225](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+The superintendent of public instruction may adopt rules necessary to carry out the purposes of this chapter, including:
+
+1. RCW 28A.225.015;
+
+2. RCW 28A.225.018;
+
+3. RCW 28A.225.020;
+
+4. RCW 28A.225.025; and
+
+5. RCW 28A.225.030.
 
 
 ## Section 201

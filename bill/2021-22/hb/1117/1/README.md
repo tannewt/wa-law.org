@@ -2,16 +2,26 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1117.xml)
 ## Section 1
-(1) The legislature finds that:
-(a) Salmon and other anadromous fish have a special historical, economic, and cultural importance to Washington;
-(b) As a consequence of their centrality to treaty-protected rights reserved to Indian tribes, and the efforts required to be undertaken in order to preserve those rights and recover threatened and endangered species, the preservation and recovery of salmonid populations is a uniquely important legislative priority;
-(c) Nontribal commercial and recreational fishing and salmon viewing contribute significantly to the economic and social stability and well-being of Washington residents;
-(d) By including salmon in front-end planning undertaken under the growth management act, local governments will avoid or reduce risks that litigation against them will arise related to violations of treaty rights and comanager relationships; and
-(e) Ensuring that future development, redevelopment, and population growth are compatible with the long-term survival and recovery of anadromous fish species is essential to Washington's continued vibrancy and quality of life.
-(2) Therefore, it is the intent of the legislature to support the protection of salmon through:
-(a) The adoption and state support of net ecological gain at the WRIA scale and incorporation of key components of the local salmon recovery plan through local government growth and shoreline planning efforts;
-(b) Ensuring that proportional compensatory mitigation for impacts that are predicted to occur with a high degree of likelihood over the expected life of the project to wetlands, water, and fish and wildlife habitat conservation areas and other elements of the environment that affect salmon habitat achieves its desired outcomes; and
-(c) Providing local governments the full resources needed in the form of funding and technical support to achieve the goals and requirements of this act.
+1. The legislature finds that:
+
+    a. Salmon and other anadromous fish have a special historical, economic, and cultural importance to Washington;
+
+    b. As a consequence of their centrality to treaty-protected rights reserved to Indian tribes, and the efforts required to be undertaken in order to preserve those rights and recover threatened and endangered species, the preservation and recovery of salmonid populations is a uniquely important legislative priority;
+
+    c. Nontribal commercial and recreational fishing and salmon viewing contribute significantly to the economic and social stability and well-being of Washington residents;
+
+    d. By including salmon in front-end planning undertaken under the growth management act, local governments will avoid or reduce risks that litigation against them will arise related to violations of treaty rights and comanager relationships; and
+
+    e. Ensuring that future development, redevelopment, and population growth are compatible with the long-term survival and recovery of anadromous fish species is essential to Washington's continued vibrancy and quality of life.
+
+2. Therefore, it is the intent of the legislature to support the protection of salmon through:
+
+    a. The adoption and state support of net ecological gain at the WRIA scale and incorporation of key components of the local salmon recovery plan through local government growth and shoreline planning efforts;
+
+    b. Ensuring that proportional compensatory mitigation for impacts that are predicted to occur with a high degree of likelihood over the expected life of the project to wetlands, water, and fish and wildlife habitat conservation areas and other elements of the environment that affect salmon habitat achieves its desired outcomes; and
+
+    c. Providing local governments the full resources needed in the form of funding and technical support to achieve the goals and requirements of this act.
+
 
 ## Section 2
 > This section modifies existing section [36.70A.030](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
@@ -133,6 +143,22 @@ The following goals are adopted to guide the development and adoption of compreh
 14. **Salmon recovery. Support the recovery and enhancement of salmon stocks through the achievement of net ecological gain from planning under this chapter in accordance with rules adopted pursuant to this act in order to fulfill Washington's tribal treaty obligations, support nontribal commercial and recreational fisheries, and achieve the delisting and recovery of threatened or endangered salmon and steelhead runs under the federal endangered species act.**
 
 
+## Section 5
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. In consultation with Indian tribes and governments planning under RCW 36.70A.040, the department of fish and wildlife, in collaboration with the Washington state academy of sciences, shall adopt rules that establish criteria for net ecological gain and consistency with the applicable regional salmon recovery plans that counties and cities planning under RCW 36.70A.040 must meet through adoption of their comprehensive plans in order to support salmon recovery.
+
+2. The rules adopted under this section must address the key components of salmon recovery plans that local governments have authority over, such as the restoration and protection elements of the recovery plans.
+
+3. The rules adopted under this section must ensure that, where appropriate, the interjurisdictional coordination process required by RCW 36.70A.100 addresses the issue of salmon recovery.
+
+4. The rules adopted under this section must not require or assume that the proponents of individual private projects will be responsible for achieving net ecological gain. Rules adopted under this section must ensure that individual private projects achieve no net loss of ecological function, and that net ecological gain is achieved through the appropriate selection of publicly funded projects, and voluntary projects whose purpose is salmon recovery but which may receive funding from either public or private sources.
+
+5. The department of fish and wildlife shall monitor progress towards the goals set forth in the regional salmon recovery plans. In addition, the department of fish and wildlife shall also monitor and report the progress that each jurisdiction planning under RCW 36.70A.040 has made toward achieving no net loss of ecological function and net ecological gain. As part of this ongoing monitoring effort, the department of fish and wildlife, in consultation with the affected local governments, shall first establish the current environmental baseline conditions within each county and city planning under RCW 36.70A.040, identify any monitoring data gaps and make recommendations to fill those gaps, and monitor the degree to which each jurisdiction is successful at achieving net ecological gains, and no net losses through individual projects, over time.
+
+6. The department of fish and wildlife shall provide a report of its monitoring under this section to the governor, the appropriate committees of the legislature, and the local governments subject to this act, no later than October 15th of every even-numbered year, beginning in 2022.
+
+
 ## Section 6
 > This section modifies existing section [36.70A.060](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 
@@ -209,5 +235,16 @@ The following goals are adopted to guide the development and adoption of compreh
 4. A mitigation plan may be approved through a memorandum of agreement between the project proponent and either the department of ecology or the department of fish and wildlife, or both.
 
 
+## Section 8
+> This section adds a new section to an existing chapter [90.58](/rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md) for context.
+
+Mitigation imposed under this chapter and consistent with chapter 43.21C RCW must apply the mitigation hierarchy requirement by requiring that projects avoid impacts where avoidance is reasonably attainable, minimize impacts where avoidance is not reasonably attainable, and use compensatory mitigation where avoidance and minimization are not reasonably attainable. When using compensatory mitigation, regulations must ensure that measures to mitigate by compensating for the impact by replacing, enhancing, or providing substitute resources or environments result in no net loss of ecological function under a range of compensatory mitigation implementation scenarios, including compensatory mitigation implementation scenarios in which:
+
+1. The ecological functions and services provided by impacted elements of the environment are superior to the ecological functions and services provided by the mitigation measures; and
+
+2. Mitigation measures do not function as successfully as designed, intended, or expected.
+
+
 ## Section 9
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

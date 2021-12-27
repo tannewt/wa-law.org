@@ -4,6 +4,65 @@
 ## Section 1
 It is in the interest of the legislature to promote human rights and access to a living wage with adequate worker protections for all workers, including those in agriculture.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [49.30](/rcw/49_labor_regulations/49.30_agricultural_labor.md). Here is the [modified chapter](rcw/49_labor_regulations/49.30_agricultural_labor.md) for context.
+
+1. The department shall establish an agricultural labor work group composed of members as specified in subsection (3) of this section.
+
+2. The work group is charged with formulating policies related to agricultural labor issues and specifically related to creating safer working conditions and a living wage for agricultural workers. The work group must examine state protections for collective bargaining. The work group's policy on wage issues must address when paying piece rate, hourly rates, and overtime wages is appropriate for agricultural workers in specific agricultural industries, taking into consideration:
+
+    a. The seasonal nature of the work in a particular industry;
+
+    b. The tasks workers are required to perform;
+
+    c. The level of risks to human health and safety involved and other working conditions;
+
+    d. Worker benefits typically offered in the particular industry; and
+
+    e. Any other factors the work group finds appropriate when determining appropriate living wages for agricultural workers.
+
+3. [Empty]
+
+    a. The work group consists of the following voting members appointed by the governor:
+
+        i. Four members representing agricultural employers' interests, one of whom must be an agricultural employer. The members must include representation of employers from the dairy, tree fruit, cattle, and wheat industries, all of whom shall be appointed from a list of at least four names submitted by a recognized statewide organization of agricultural employers;
+
+        ii. Four members representing agricultural workers' interests, one of whom must be an agricultural worker. The members must include representation of workers from the dairy, tree fruit, cattle, and wheat industries, all of whom shall be appointed from a list of at least four names submitted by a recognized statewide organization of agricultural workers;
+
+        iii. One representative from the agricultural services industry; and
+
+        iv. One representative from a statewide labor organization.
+
+    b. The following members must be included in the work group as ex officio members:
+
+        i. The director of the department or the director's designee; and
+
+        ii. The director of the department of agriculture or the director's designee.
+
+    c. The work group may invite other state agencies to participate as ex officio members as needed.
+
+4. The department must convene the work group's first meeting by September 1, 2021.
+
+5. [Empty]
+
+    a. When the work group reaches an agreement on a policy determination for appropriate living wages for agricultural workers, through consensus or majority vote and subject to (b) of this subsection, the work group's determination must be incorporated into the department's wage and hour policies and rules.
+
+    b. The work group will not be deemed to have reached an agreement on a policy determination for appropriate living wages for agricultural wages unless at least 75 percent of the work group's voting members representing agricultural workers agree to the policy determination.
+
+    c. The work group may use facilitators to assist the work group in achieving its goals and coming to agreement.
+
+6. The members of the work group shall serve without compensation, but are entitled to travel expenses as provided in RCW 43.03.050 and 43.03.060.
+
+7. The work group may use personnel and facilities of the department as needed without charge. The expenses of the work group shall be paid by the department.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [49.30](/rcw/49_labor_regulations/49.30_agricultural_labor.md). Here is the [modified chapter](rcw/49_labor_regulations/49.30_agricultural_labor.md) for context.
+
+For causes of action for overtime wage claims filed on or after November 5, 2020, by agricultural workers in the dairy farm industry, a court may not award overtime wages retroactively for overtime wages that were not paid to the workers prior to November 5, 2020.
+
+
 ## Section 4
 > This section modifies existing section [49.46.130](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
 
@@ -49,6 +108,9 @@ In determining the proportion of compensation representing commissions, all earn
 
 
 ## Section 5
-(1) Section 3 of this act takes effect only if the work group specified in section 2 of this act reaches an agreement on a policy determination for appropriate living wages for agricultural workers by July 1, 2024.
-(2) Section 4 of this act takes effect only if the work group specified in section 2 of this act fails to reach an agreement on a policy determination for appropriate living wages for agricultural workers by July 1, 2024.
-(3) The office of the governor must provide written notice of the effective date of sections 3 and 4 of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the office of the governor.
+1. Section 3 of this act takes effect only if the work group specified in section 2 of this act reaches an agreement on a policy determination for appropriate living wages for agricultural workers by July 1, 2024.
+
+2. Section 4 of this act takes effect only if the work group specified in section 2 of this act fails to reach an agreement on a policy determination for appropriate living wages for agricultural workers by July 1, 2024.
+
+3. The office of the governor must provide written notice of the effective date of sections 3 and 4 of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the office of the governor.
+

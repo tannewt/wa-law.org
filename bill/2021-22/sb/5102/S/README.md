@@ -61,5 +61,12 @@
 On any industrial injury claim where the self-insured employer or injured worker has requested a determination by the department, the self-insurer must submit all medical reports and any other specified information not previously submitted to the department. When the department requests information from a self-insurer by  mail, the self-insurer shall **electronically** submit all information in its possession concerning a claim within **five** working days from the date of receipt of such  notice.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [51.52](/rcw/51_industrial_insurance/51.52_appeals.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.52_appeals.md) for context.
+
+In proceedings before the board, each party shall be limited to presenting the testimony of one medical expert witness of the same medical specialty, except the attending physician, unless good cause is shown by the presenting party that a second medical specialist is necessary to assist the trier of fact to understand the evidence.
+
+
 ## Section 4
 Sections 1 and 2 of this act apply prospectively to all claims regardless of the date of injury.
+

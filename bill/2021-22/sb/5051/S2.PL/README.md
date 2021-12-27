@@ -555,6 +555,12 @@ When a hearing is requested in relation to a certification action of a Washingto
 5. Every individual, legal entity, and agency of federal, state, or local government is immune from civil liability, whether direct or derivative, for providing information to the commission in good faith.
 
 
+## Section 22
+> This section adds a new section to an existing chapter [43.101](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
+
+The commission must develop policies, procedures, and rules to ensure that the goals of this act are fully implemented as intended and in a timely manner, and to provide appropriate clarity to affected persons and entities as to how the commission will process complaints, investigations, and hearings, and impose sanctions, related to officer decertification. The commission must work in collaboration with interested parties and entities in developing the policies, procedures, and rules, and must take into account issues regarding when and how the commission may appropriately exercise authority in relation to simultaneous investigations and disciplinary processes, and how the commission may exercise available remedies in a manner that is appropriate to case circumstances and consistent with the goals of this act. The policies, procedures, and rules must be completed by June 30, 2022.
+
+
 ## Section 23
 > This section modifies existing section [41.56.905](/rcw/41_public_employment_civil_service_and_pensions/41.56_public_employees_collective_bargaining.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.56_public_employees_collective_bargaining.md) for context.
 
@@ -623,17 +629,37 @@ The provisions of this chapter apply to:
 2. Each agency, and each employee and position therein, not expressly excluded or exempted under the provisions of RCW 41.06.070 **or otherwise excluded or exempted in this chapter**.
 
 
+## Section 26
+> This section adds a new section to an existing chapter [41.06](/rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md) for context.
+
+In addition to the exemptions set forth in RCW 41.06.070, the provisions of this chapter do not apply in the Washington state criminal justice training commission to two confidential secretaries involved in managing the confidential records under RCW 43.101.135 and 43.101.400.
+
+
 ## Section 27
 No later than December 1, 2022, the criminal justice training commission shall submit a written report to the governor and the appropriate committees of the legislature detailing progress of implementation of this act.
 
+
 ## Section 28
 No later than December 1, 2021, the criminal justice training commission shall submit a written report to the governor and the appropriate committees of the legislature detailing the following:
-(1) The average total number of peace officers each year who must complete the basic law enforcement academy training and the certification process without delay in order to begin work as full-time officers;
-(2) The other categories of officers, and the average total number of such officers, who must complete the basic law enforcement academy training, the certification process, or both, prior to being authorized to enforce the criminal laws of this state on a part-time, as called-upon, or volunteer basis;
-(3) Recommendations for amendments to update and align definitions and categorization of types officers as set forth in statute and administrative rule, to eliminate ambiguity or inconsistencies and provide better clarity for law enforcement agencies, the criminal justice training commission, and the public as to the different types of officers, their authority, and their obligations to fulfill the requirements of chapter 43.101 RCW and other chapters;
-(4) The current backlog for admission to the basic law enforcement academy and the approach taken by the criminal justice training commission to prioritize admission to training when there is insufficient capacity to meet the demand;
-(5) The current and projected need for the number of basic law enforcement academy classes in order to meet the requirements of chapter 43.101 RCW and other chapters, and recommended funding to meet the projected need; and
-(6) Any other related recommendations.
+
+1. The average total number of peace officers each year who must complete the basic law enforcement academy training and the certification process without delay in order to begin work as full-time officers;
+
+2. The other categories of officers, and the average total number of such officers, who must complete the basic law enforcement academy training, the certification process, or both, prior to being authorized to enforce the criminal laws of this state on a part-time, as called-upon, or volunteer basis;
+
+3. Recommendations for amendments to update and align definitions and categorization of types officers as set forth in statute and administrative rule, to eliminate ambiguity or inconsistencies and provide better clarity for law enforcement agencies, the criminal justice training commission, and the public as to the different types of officers, their authority, and their obligations to fulfill the requirements of chapter 43.101 RCW and other chapters;
+
+4. The current backlog for admission to the basic law enforcement academy and the approach taken by the criminal justice training commission to prioritize admission to training when there is insufficient capacity to meet the demand;
+
+5. The current and projected need for the number of basic law enforcement academy classes in order to meet the requirements of chapter 43.101 RCW and other chapters, and recommended funding to meet the projected need; and
+
+6. Any other related recommendations.
+
+
+## Section 30
+> This section adds a new section to an existing chapter [10.93](/rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md) for context.
+
+A general authority Washington law enforcement agency or limited authority Washington law enforcement agency is prohibited from considering the application for any office, place, position, or employment within the agency if the applicant has not provided the agency a document, voluntarily and knowingly signed by the applicant, that authorizes each prior employer to release any and all information relating to the applicant's employment, and further releasing and holding harmless the agency and each prior employer from any and all liability that may potentially result from the release and use of such information provided.
+
 
 ## Section 31
 > This section modifies existing section [43.101.200](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.

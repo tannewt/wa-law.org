@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1419.xml)
 ## Section 1
 The legislature intends to prioritize serving students through a more just and racially equitable education system that prioritizes the whole child. Key to this effort is attracting, recruiting, preparing, and retaining a diverse, skilled, responsive, and reflective educator workforce. Washington state and school districts will strive to hire an educator workforce that reflects the diversity of the students they teach and will establish systems to retain their educator workforce as critical teaching skills and practices are cultivated and developed over time. A fair and equitable salary allocation to districts is foundational to this work.
+
 This act develops a salary allocation model that more closely matches the salaries of the teachers who are hired by school districts. To accomplish this, each district will continue to annually report the experience and education of their teaching staff. State funding will be allocated accordingly to keep up with the increasing costs of a stable teaching force as they gain experience or attain additional education or degrees across their career and avoid creating disincentives that prevent districts from hiring the best teacher, while simultaneously meeting state expectations for class size.
+
 
 ## Section 2
 > This section modifies existing section [28A.150.412](/rcw/28A_common_school_provisions/28A.150_general_provisions.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.150_general_provisions.md) for context.

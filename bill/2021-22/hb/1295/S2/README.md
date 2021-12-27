@@ -3,10 +3,15 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1295-S2.xml)
 ## Section 1
 The legislature finds that students in Washington's secure facilities have been unable to access the education and supports they need to make life-changing academic progress. As a result, these students have experienced dismal graduation and recidivism rates, and have lost invaluable opportunities for hope and transformation.
+
 In 2020, the legislature enacted chapter 226, Laws of 2020, and established the task force on improving institutional education programs and outcomes. The task force efforts resulted in a series of well-considered recommendations that inform this act and, perhaps more importantly, offer a new opportunity to make critical policy advances for students and dedicated staff that are too often overlooked.
+
 The legislature acknowledges that institutional education facilities are part of the public school system and that the students in secure facilities deserve full access to the state's basic education program and its promise of an opportunity to graduate with a meaningful diploma that prepares them for postsecondary education, gainful employment, and citizenship.
+
 The legislature finds that key reforms are needed to the institutional education system, including the development of an education program that is both student-centered and anchored in the principle that student improvement through education must be the system's primary objective. The legislature further finds that an effective institutional education system must have sufficient funding and proper administrative structures to assure effective functionality, oversight, and accountability.
+
 The legislature, therefore, intends to establish new and modified requirements for the institutional education system that promote student success through improved agency and education provider practices, updated credit-awarding practices, new data collection and reporting requirements, and the development of expert recommendations that will create an implementable blueprint for successfully meeting complex student needs and improving education and postrelease outcomes.
+
 
 ## Section 2
 > This section modifies existing section [28A.150.200](/rcw/28A_common_school_provisions/28A.150_general_provisions.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.150_general_provisions.md) for context.
@@ -26,10 +31,215 @@ The legislature, therefore, intends to establish new and modified requirements f
     e. Statewide salary allocations necessary to hire and retain qualified staff for the state's statutory program of basic education.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Institutional education facility" means residential habilitation centers operated by the department of social and health services, state long-term juvenile institutions operated by the department of children, youth, and families, state-operated community facilities, county juvenile detention centers, and facilities of the department of corrections that incarcerate juveniles committed as adults.
+
+2. "Institutional education program" means the program of education that is provided to youth in institutional education facilities as a mandatory component of the program of basic education under RCW 28A.150.200.
+
+3. "Institutional education provider" or "provider" means a school district, educational service district, or other entity providing education services to youth in an institutional education facility.
+
+4. "Postresident youth" means a person who is under the age of 21 and a former resident of an institutional education facility. A postresident youth may be a public school student or a person who is eligible to be a public school student but who is not enrolled in a school or otherwise receiving basic education services.
+
+5. "Residential school" means the following institutional education facilities: Green Hill school, Naselle Youth Camp, Echo Glen, Lakeland Village, Rainier school, Yakima Valley school, Fircrest school, the Child Study and Treatment Center and Secondary School of western state hospital, and other schools, camps, and centers established by the department of social and health services or the department of children, youth, and families for the diagnosis, confinement, and rehabilitation of juveniles committed by the courts or for the care and treatment of persons who are exceptional in their needs by reason of mental or physical deficiency. "Residential school" does not include the state schools for the blind, the Washington state center for childhood deafness and hearing loss, or adult correctional institutions.
+
+6. "School district" has the same meaning as in RCW 28A.315.025 and includes any educational service district that has entered into an agreement to provide a program of education for residents at an institutional education facility on behalf of the school district as a cooperative service program pursuant to RCW 28A.310.180.
+
+7. "Youth" means a person who is under the age of 21 who is a resident of an institutional education facility. A youth may be a public school student or a person who is eligible to be a public school student but who is not enrolled in a school or otherwise receiving basic education services.
+
+
 ## Section 5
-(1) The office of the superintendent of public instruction shall examine the dropout prevention, intervention, and retrieval system established under chapter 28A.175 RCW, including associated rules. The purpose of the examination is to recommend new or modified dropout reengagement requirements and practices that will promote credit earning and high school completion by youth and postresident youth.
-(2) Findings and recommendations resulting from the examination required by this section must be submitted by November 1, 2021, to the governor and the appropriate committees of the house of representatives and the senate in accordance with RCW 43.01.036.
-(3) This section expires June 30, 2022.
+1. The office of the superintendent of public instruction shall examine the dropout prevention, intervention, and retrieval system established under chapter 28A.175 RCW, including associated rules. The purpose of the examination is to recommend new or modified dropout reengagement requirements and practices that will promote credit earning and high school completion by youth and postresident youth.
+
+2. Findings and recommendations resulting from the examination required by this section must be submitted by November 1, 2021, to the governor and the appropriate committees of the house of representatives and the senate in accordance with RCW 43.01.036.
+
+3. This section expires June 30, 2022.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+1. Institutional education providers shall annually deliver to all staff providing an institutional education program one day of professional development that builds pedagogical strategies to navigate the intersectionality of factors impacting student learning, including trauma, and physical, mental, and behavioral health in order to achieve academic milestone progression. At a minimum, the professional development must include training on the following topics:
+
+    a. The cognitive, psychosocial, and emotional development of adolescents;
+
+    b. Mental and behavioral health literacy;
+
+    c. The complex needs of students involved in the juvenile justice system, including the trauma associated with incarceration;
+
+    d. Racial literacy and cultural competency, as defined in RCW 28A.410.260; and
+
+    e. Working with adolescents with many adverse childhood experiences.
+
+2. In addition to the professional learning allocations provided in RCW 28A.150.415, the legislature shall provide and the superintendent of public instruction shall allocate to institutional education providers one professional learning day of funding to provide the professional development required under this section.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+With respect to students in institutional education facilities governed by this chapter, the department of children, youth, and families must:
+
+1. Identify data needed by the department and institutional education facilities to evaluate the facilities' administrative and operational role in providing education to students and supporting students' educational outcomes. This data must include attendance, discipline rates, course and certificate completion rates, and other educational metrics;
+
+2. Analyze, and make a plan to resolve, department and institutional education facilities policies and practices that suspend the provision of educational services to a student as a disciplinary action, so that students are never denied the opportunity to engage in educational activities; and
+
+3. Review and resolve department and institutional education facility policies and practices that create barriers to students participating in meaningful learning opportunities, for example, career and technical education and postsecondary opportunities, in whatever location and format those opportunities are provided.
+
+4. In meeting the requirements of this section, the department of children, youth, and families must seek input from institutional education providers.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [28A.300](/rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md) for context.
+
+1. [Empty]
+
+    a. Beginning July 1, 2022, and every three years thereafter, the office of the superintendent of public instruction shall report on the funding and services provided in support of youth pursuant to Washington's every student succeeds act consolidated plan, Title I, part D: Prevention and intervention programs for children and youth who are neglected, delinquent, or at-risk, and the education outcomes resulting from the funding and provided services.
+
+    b. The purpose of the report is to inform the legislature of progress toward the goals established in the consolidated plan and provide the legislature with the opportunity to determine whether subsequent legislation should be enacted to ensure the education needs of youth and postresident youth.
+
+2. Reports required by this section must be submitted to the appropriate committees of the house of representatives and the senate in accordance with RCW 43.01.036.
+
+3. For purposes of this section, "postresident youth" and "youth" have the same meanings as in section 3 of this act.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+1. The legislature intends to ensure that institutional education facilities include efficient systems to minimize learning loss and maximize credit accrual during transitions for youth and postresident youth. The legislature intends also for the report required by this section to inform its understanding of policy and funding changes that may be necessary to accomplish the objective of improving institutional education programs and outcomes.
+
+2. The office of the superintendent of public instruction shall modify or establish requirements and supports for the provision of public education to youth and postresident youth. In meeting the requirements of this section, the office of the superintendent of public instruction shall:
+
+    a. Adopt rules requiring institutional education providers at state long-term juvenile institutions and state-operated community facilities to conduct an individualized education program review for each newly admitted youth who either does not have an individualized education program or does not have an individualized education program that has been reviewed in a meeting with the youth, parent or guardian, and applicable school personnel in the previous 12 months;
+
+    b. Adopt rules requiring institutional education providers to, upon admission of a youth to an institutional education facility, conduct a review and assessment of needed services for each facility transition the youth experiences within the juvenile justice system; and
+
+    c. Adopt, for youth in state long-term juvenile institutions and state-operated community facilities, rules to implement accountability measures for special education services delivered by institutional education providers, including the establishment of mediation and appeals options related to special education services that recognize the unique situation of youth and postresident youth.
+
+3. A summary of any adopted or pending rules developed in accordance with this section must be submitted to the appropriate committees of the legislature in accordance with RCW 43.01.036 by November 1, 2021, in time for any needed legislative action during the 2022 regular legislative session.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+1. The office of the superintendent of public instruction shall
+
+annually collect and post on its website data related to institutional education programs, disaggregated by gender, race, ethnicity, and age, including data on:
+
+    a. Individualized education programs;
+
+    b. Access to relevant instruction that is aligned with the youth's high school and beyond plan and any unmet graduation requirements;
+
+    c. Student attendance;
+
+    d. Metrics of student education status upon the beginning of residency in an institutional education facility;
+
+    e. Student education progress during residency in an institutional education facility;
+
+    f. Student education attainment during residency in an institutional education facility; and
+
+    g. Long-term education and workforce outcomes of youth in and released from institutional education facilities as provided annually by the education data center under RCW 43.41.400.
+
+2. [Empty]
+
+    a. The office of the superintendent of public instruction shall also annually recommend modifications to the state board of education for changes to annual school improvement plan requirements in WAC 180-16-220 that would allow plans for state long-term juvenile institutions to be formatted for the specific needs and circumstances of institutional settings. In meeting the requirements of this subsection (2)(a), the office of the superintendent of public instruction shall seek input from institutional education providers and the department of children, youth, and families.
+
+    b. In meeting the requirements of this section, the office of the superintendent of public instruction may make recommendations to the state board of education for changes to annual school improvement plan requirements based upon data collected under this section, other provisions of law, or both.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+The office of the superintendent of public instruction must provide a copy of the disaggregated data provided under section 10(1) of this act to the board of directors of each school district that provides education services to youth and postresident youth for the purpose of giving the board the opportunity to:
+
+1. Review the performance of the institutional education provider; and
+
+2. Make changes to annual school improvement plans required by WAC 180-16-220, or other policies and procedures as necessary to improve youth and postresident youth outcomes.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
+
+1. [Empty]
+
+    a. The office of the superintendent of public instruction and the department of children, youth, and families shall jointly develop recommendations for the establishment, implementation, and funding of a reformed institutional education system that successfully meets the education and support needs of persons in and released from secure settings. Recommendations developed under this subsection (1) must be based on the foundational concept that every student can succeed if given the necessary supports. The recommendations must address:
+
+        i. The establishment of an organizational and accountability structure for institutional education that is focused on meeting complex student needs and improving student outcomes;
+
+        ii. The establishment of an equitable, long-term funding model for institutional education that sustainably supports the organizational and accountability structure established under (a)(i) of this subsection (1); and
+
+        iii. The development of a regular and ongoing review of system performance and education outcomes.
+
+    b. The recommendations developed under this subsection (1) must also include the following:
+
+        i. The content and structure of common education, information, and support systems that would include a common, culturally competent curriculum, improve system efficacy, and minimize the negative academic impacts of transitions;
+
+        ii. A coordinated staffing model for institutional education facility and institutional education provider operations and effectiveness in meeting student needs, and a mechanism for developing subsequent recommendations for improvements to the model;
+
+        iii. Practices to ensure that there is a robust program of education advocates for youth in all institutional education facilities;
+
+        iv. Practices for shared data tracking and goal setting for youth progress and learning needs;
+
+    v. Promoting the effective delivery of tiered supports in institutional education facilities in coordination with state and county facility operators, institutional education providers, and community-based organizations delivering those services;
+
+    vi. Promoting the development of an operational safety strategy for safe learning environments for students and staff;
+
+    vii. Promoting operations that prioritize education delivery;
+
+    viii. Maximizing youth and postresident youth access to: (A) Career and technical education and postsecondary education pathways that occur at institutional education facilities and at off-site locations; and (B) mastery-based learning that leads to credit accrual and graduation pathways;
+
+        ix. Establishing new or modified requirements and procedures for the successful release of youth from institutional education facilities by recommending an effective team-based transition process with identified preresident and postresident transition services and supports that include, but are not limited to, basic needs, social-emotional support, and academic support;
+
+    x. Establishing and supporting youth advisory, leadership, and mentoring programs to ensure pathways for youth and postresident youth involvement and development;
+
+    xi. Identifying and establishing culturally responsive parent engagement strategies that support the education and well-being of youth and postresident youth and families;
+
+    xii. Examining and expanding opportunities to include enrichment activities in institutional education programs and offer enrichment opportunities that promote academic and career goals; and
+
+    xiii. Developing partnerships with postsecondary institutions, career and technical education programs, and community-based organizations, and identify ways to incorporate those partnerships into education services delivered by institutional education providers.
+
+    c. In developing the recommendations required by this subsection (1), the office of the superintendent of public instruction and the department of children, youth, and families shall consult with the advisory group established in subsection (3) of this section.
+
+2. The superintendent of public instruction and the secretary of the department of children, youth, and families shall, by August 15, 2021, jointly designate an entity to facilitate the process of developing recommendations required by subsection (1) of this section, and the advisory group established in subsection (3) of this section. The office of the superintendent of public instruction is responsible for contracts or other agreements necessary to secure the services of the designated entity. The designated entity must: (a) Be a nonprofit and nonpartisan organization with content expertise in improving education for incarcerated young people, including education program delivery, system structure, accountability, and school finance; and (b) have experience facilitating complex cross-agency facilitation.
+
+3. [Empty]
+
+    a. The institutional education structure and accountability advisory group is established for the purpose of providing advice, assistance, and information to the office of the superintendent of public instruction and the department of children, youth, and families in meeting the requirements of subsection (1) of this section. The advisory group must consist of representatives from the following, but other members may be added by request of the superintendent of public instruction or the secretary of the department of children, youth, and families:
+
+        i. The state board of education;
+
+        ii. A statewide organization representing counties;
+
+        iii. The administrative office of the courts;
+
+        iv. The office of the education ombuds;
+
+    v. The educational opportunity gap oversight and accountability committee;
+
+    vi. A statewide organization representing teachers;
+
+    vii. A statewide organization representing classified education staff;
+
+    viii. Nonprofit organizations representing the interest of youth and families involved in the juvenile justice system;
+
+        ix. Persons who are or have been involved in the juvenile justice system and their families; and
+
+    x. A statewide organization representing state employees.
+
+    b. In recognition of the need to ensure representation on the advisory group, persons serving under (a)(ix) of this subsection are eligible for travel expense reimbursement. Other members of the advisory group are not entitled to expense reimbursement.
+
+4. Staff support for the advisory group must be provided by the entity selected under subsection (2) of this section.
+
+5. [Empty]
+
+    a. Recommendations required by this section must, in accordance with RCW 43.01.036, be provided to the governor and the education and fiscal committees of the house of representatives and the senate, by November 1, 2022. The recommendations should include a plan and a phased timeline for their implementation in different types of institutional education facilities, including state long-term juvenile institutions, state-operated community facilities, residential habilitation centers, and county juvenile detention centers.
+
+    b. By December 15, 2021, the office of the superintendent of public instruction and the department of children, youth, and families shall, in accordance with RCW 43.01.036, provide an interim report on progress made in achieving the requirements of this section to the governor and the education and fiscal committees of the house of representatives and the senate.
+
+6. This section expires June 30, 2023.
+
 
 ## Section 13
 > This section modifies existing section [43.41.400](/rcw/43_state_government—executive/43.041_office_of_financial_management.md). Here is the [modified chapter](rcw/43_state_government—executive/43.041_office_of_financial_management.md) for context.
@@ -69,3 +279,4 @@ A program of education shall be provided for by the several counties and school 
 
 ## Section 16
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

@@ -1,5 +1,6 @@
 # ESB 5164 - Persistent offenders/robbery
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5164&Year=2021)
+
 Resentencing of individuals sentenced as a persistent offender due to a robbery in the second degree conviction.
 
 ## Revisions

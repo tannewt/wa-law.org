@@ -50,6 +50,11 @@ section_pattern = re.compile("\\(([a-z]+|[0-9]+)\\)")
 sections_through_pattern = re.compile("([0-9]+) through ([0-9]+)")
 sections_pattern = re.compile("([0-9]+)")
 
+# Keep track of what paths have already been amended. This makes sure we copy
+# the original back in place for the original amendment. Without it, we'll add
+# multiple copies of amendments over time.
+amended = set()
+
 def format_lists(paragraph):
     new_paragraph = []
     for line in paragraph:
@@ -90,11 +95,12 @@ def amend_section(revision_path, citation, section_citation, new_text):
     if f is None:
         return None
     new = revision_path / f
-    if new.exists():
+    if new.exists() and new in amended:
         existing_text = new.read_text().split("\n")
     else:
         new.parent.mkdir(parents=True, exist_ok=True)
         existing_text = f.read_text().split("\n")
+        amended.add(new)
     new_chapter = []
     in_section = False
     section_header = "## " + ".".join(citation)
@@ -117,11 +123,12 @@ def delete_section(revision_path, citation, section_citation):
     if f is None:
         return None
     new = revision_path / f
-    if new.exists():
+    if new.exists() and new in amended:
         existing_text = new.read_text().split("\n")
     else:
         new.parent.mkdir(parents=True, exist_ok=True)
         existing_text = f.read_text().split("\n")
+        amended.add(new)
     new_chapter = []
     in_section = False
     section_header = "## " + ".".join(citation)
@@ -133,17 +140,19 @@ def delete_section(revision_path, citation, section_citation):
             new_chapter.append(line)
 
     new.write_text("\n".join(new_chapter))
+    return new
 
 def add_section(revision_path, citation, section_citation, new_text):
     f = section_path(citation)
     if f is None:
         return None
     new = revision_path / f
-    if new.exists():
+    if new.exists() and new in amended:
         existing_text = new.read_text().split("\n")
     else:
         new.parent.mkdir(parents=True, exist_ok=True)
         existing_text = f.read_text().split("\n")
+        amended.add(new)
 
     new_chapter = []
     for line in existing_text:
@@ -156,6 +165,7 @@ def add_section(revision_path, citation, section_citation, new_text):
     new_chapter.append("")
 
     new.write_text("\n".join(new_chapter))
+    return new
 
 def new_chapter(revision_path, citation, chapter_name, contents):
     print("new chapter", citation, chapter_name)
@@ -228,7 +238,7 @@ for start_year in range(2021, 2023, 2):
     print(count, "bill docs")
 
     url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year}"
-    legislation = requests.get(url)
+    legislation = requests.get(url, expire_after=24*60*60)
     legislation = BeautifulSoup(legislation.text, "xml")
     count = 0
     bills_by_sponsor = {}
@@ -256,9 +266,6 @@ for start_year in range(2021, 2023, 2):
             if bill_id != bill.BillId.text:
                 continue
             full_info = bill
-        # if bill_number in ("1336", ):
-        #     print(full_info)
-        #     print()
         sponsor_id = full_info.PrimeSponsorID.text
         if bill_number not in docs_by_number:
             print(bill_number, "missing doc")
@@ -320,6 +327,8 @@ for start_year in range(2021, 2023, 2):
     #     gitlab_user = sponsor_info.Email.text.lower().split("@")[0]
     #     for bill_number in bills_by_sponsor[sponsor]:
     for i, bill_number in enumerate(bills_by_number):
+            # if bill_number != "1000":
+            #     continue
             sponsor = sponsor_by_bill_number[bill_number]
             # Ignore follow up legislation info for now.
             bill = bills_by_sponsor[sponsor][bill_number][0]
@@ -350,7 +359,8 @@ for start_year in range(2021, 2023, 2):
             bill_readme = []
 
             bill_readme.append("# " + bill_id + " - " + short_description)
-            bill_readme.append("*Status: " + bill.HistoryLine.text + "*")
+            bill_readme.append("*Status: " + bill.HistoryLine.text + "* | " + f"[leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2021)")
+            bill_readme.append("")
             bill_readme.append(bill.LongDescription.text)
             bill_readme.append("")
             bill_readme.append("## Revisions")
@@ -418,7 +428,7 @@ for start_year in range(2021, 2023, 2):
                                 sections[section_number] = lines
                                 sections_handled += 1
                                 revision_readme.append("## Section " + section_number)
-                                revision_readme.extend(lines)
+                                revision_readme.extend(format_lists(lines))
                                 revision_readme.append("")
                             else:
                                 pass
@@ -485,7 +495,24 @@ for start_year in range(2021, 2023, 2):
                             if rcw_citation[0] is None:
                                 print(section, section.attrs)
                                 continue
-                            add_section(revision_path, get_citation(section), section_citation, section_lines)
+                            amended_path = add_section(revision_path, get_citation(section), section_citation, section_lines)
+
+                            revision_readme.append("## Section " + section_number)
+                            if amended_path:
+                                revision_readme.append("> This section adds a new section to an existing chapter [" +
+                                                       ".".join(rcw_citation[:2]) +
+                                                       "](/" +
+                                                       str(section_path(rcw_citation)) +
+                                                       "). Here is the [modified chapter](" +
+                                                       str(amended_path.relative_to(revision_path)) +
+                                                       ") for context.")
+                            else:
+                                revision_readme.append("> This section adds a new section to an unknown chapter " +
+                                                       ".".join(rcw_citation[:2]))
+
+                            revision_readme.append("")
+                            revision_readme.extend(format_lists(section_lines))
+                            revision_readme.append("")
                             sections_handled += 1
                         elif section["action"] == "addchap":
                             c = get_citation(section)
@@ -578,7 +605,7 @@ for start_year in range(2021, 2023, 2):
         # print("------------------------")
         # print()
 
-    print(bills_by_status)
+    print(bills_by_status.keys())
     biennium_readme.append("## In Committee")
     for committee in bills_by_status["committee"]:
         biennium_readme.append("### " + committee)

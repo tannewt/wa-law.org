@@ -1,6 +1,238 @@
 # Engrossed Senate Bill 5476 - Session Law Chapter 311 Year 2021
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5476.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. The authority, in collaboration with the substance use recovery services advisory committee established in subsection (2) of this section, shall establish a substance use recovery services plan. The purpose of the plan is to implement measures to assist persons with substance use disorder in accessing outreach, treatment, and recovery support services that are low barrier, person centered, informed by people with lived experience, and culturally and linguistically appropriate. The plan must articulate the manner in which continual, rapid, and widespread access to a comprehensive continuum of care will be provided to all persons with substance use disorder.
+
+2. [Empty]
+
+    a. The authority shall establish the substance use recovery services advisory committee to collaborate with the authority in the development and implementation of the substance use recovery services plan under this section. The authority must appoint members to the advisory committee who have relevant background related to the needs of persons with substance use disorder. The advisory committee shall be reflective of the community of individuals living with substance use disorder, including persons who are Black, indigenous, and persons of color, persons with co-occurring substance use disorders and mental health conditions, as well as persons who represent the unique needs of rural communities. The advisory committee shall be convened and chaired by the director of the authority, or the director's designee. In addition to the member from the authority, the advisory committee shall include:
+
+        i. One member and one alternate from each of the two largest caucuses of the house of representatives, as appointed by the speaker of the house of representatives;
+
+        ii. One member and one alternate from each of the two largest caucuses of the senate, as appointed by the president of the senate;
+
+        iii. One representative of the governor's office;
+
+        iv. At least one adult in recovery from substance use disorder who has experienced criminal legal consequences as a result of substance use;
+
+    v. At least one youth in recovery from substance use disorder who has experienced criminal legal consequences as a result of substance use;
+
+    vi. One expert from the addictions, drug, and alcohol institute at the University of Washington;
+
+    vii. One outreach services provider;
+
+    viii. One substance use disorder treatment provider;
+
+        ix. One peer recovery services provider;
+
+    x. One recovery housing provider;
+
+    xi. One expert in serving persons with co-occurring substance use disorders and mental health conditions;
+
+    xii. One expert in antiracism and equity in health care delivery systems;
+
+    xiii. One employee who provides substance use disorder treatment or services as a member of a labor union representing workers in the behavioral health field;
+
+    xiv. One representative of the association of Washington health plans;
+
+    xv. One expert in diversion from the criminal legal system to community-based care for persons with substance use disorder;
+
+    xvi. One representative of public defenders;
+
+    xvii. One representative of prosecutors;
+
+    xviii. One representative of sheriffs and police chiefs;
+
+    xix. One representative of a federally recognized tribe; and
+
+    xx. One representative of local governments.
+
+    b. The advisory committee may create subcommittees with expanded participation.
+
+    c. In its collaboration with the advisory committee to develop the substance use recovery services plan, the authority must give due consideration to the recommendations of the advisory committee. If the authority determines that any of the advisory committee's recommendations are not feasible to adopt and implement, the authority must notify the advisory committee and offer an explanation.
+
+    d. The advisory committee must convene as necessary for the development of the substance use recovery services plan and to provide consultation and advice related to the development and adoption of rules to implement the plan. The advisory committee must convene to monitor implementation of the plan and advise the authority.
+
+3. The plan must consider:
+
+    a. The points of intersection that persons with substance use disorder have with the health care, behavioral health, criminal, civil legal, and child welfare systems as well as the various locations in which persons with untreated substance use disorder congregate, including homeless encampments, motels, and casinos;
+
+    b. New community-based care access points, including crisis stabilization services and the safe station model in partnership with fire departments;
+
+    c. Current regional capacity for substance use disorder assessments, including capacity for persons with co-occurring substance use disorders and mental health conditions, each of the American society of addiction medicine levels of care, and recovery support services;
+
+    d. Barriers to accessing the existing behavioral health system and recovery support services for persons with untreated substance use disorder, especially indigent youth and adult populations, persons with co-occurring substance use disorders and mental health conditions, and populations chronically exposed to criminal legal system responses, and possible innovations that could improve the quality and accessibility of care for those populations;
+
+    e. Evidence-based, research-based, and promising treatment and recovery services appropriate for target populations, including persons with co-occurring substance use disorders and mental health conditions;
+
+    f. Options for leveraging existing integrated managed care, medicaid waiver, American Indian or Alaska Native fee-for-service behavioral health benefits, and private insurance service capacity for substance use disorders, including but not limited to coordination with managed care organizations, behavioral health administrative services organizations, the Washington health benefit exchange, accountable communities of health, and the office of the insurance commissioner;
+
+    g. Framework and design assistance for jurisdictions to assist in compliance with the requirements of RCW 10.31.110 for diversion of individuals with complex or co-occurring behavioral health conditions to community-based care whenever possible and appropriate, and identifying resource gaps that impede jurisdictions in fully realizing the potential impact of this approach;
+
+    h. The design of recovery navigator programs in section 2 of this act, including reporting requirements by behavioral health administrative services organizations to monitor the effectiveness of the programs and recommendations for program improvement;
+
+    i. The proposal of a funding framework in which, over time, resources are shifted from punishment sectors to community-based care interventions such that community-based care becomes the primary strategy for addressing and resolving public order issues related to behavioral health conditions;
+
+    j. Strategic grant making to community organizations to promote public understanding and eradicate stigma and prejudice against persons with substance use disorder by promoting hope, empathy, and recovery;
+
+    k. Recommendations for diversion to community-based care for individuals with substance use disorders, including persons with co-occurring substance use disorders and mental health conditions, across all points of the sequential intercept model;
+
+    l. Recommendations regarding the appropriate criminal legal system response, if any, to possession of controlled substances;
+
+    m. Recommendations regarding the collection and reporting of data that identifies the number of persons law enforcement officers and prosecutors engage related to drug possession and disparities across geographic areas, race, ethnicity, gender, age, sexual orientation, and income. The recommendations shall include, but not be limited to, the number and rate of persons who are diverted from charges to recovery navigator services or other services, who receive services and what type of services, who are charged with simple possession, and who are taken into custody; and
+
+    n. The design of a mechanism for referring persons with substance use disorder or problematic behaviors resulting from substance use into the supportive services described in section 2 of this act.
+
+4. The plan and related rules adopted by the authority must give due consideration to persons with co-occurring substance use disorders and mental health conditions and the needs of youth. The plan must include the substance use outreach, treatment, and recovery services outlined in sections 2 through 4 of this act which must be available in or accessible by all jurisdictions. These services must be equitably distributed across urban and rural settings. If feasible and appropriate, service initiation shall be made available on demand through 24-hour, seven days a week peer recovery coach response, behavioral health walk-in centers, or other innovative rapid response models. These services must, at a minimum, incorporate the following principles: Establish low barriers to entry and reentry; improve the health and safety of the individual; reduce the harm of substance use and related activity for the public; include integrated and coordinated services; incorporate structural competency and antiracism; use noncoercive methods of engaging and retaining people in treatment and recovery services, including contingency management; consider the unique needs of rural communities; and have a focus on services that increase social determinants of health.
+
+5. In developing the plan, the authority shall:
+
+    a. Align the components of the plan with previous and ongoing studies, plans, and reports, including the Washington state opioid overdose and response plan, published by the authority, the roadmap to recovery planning grant strategy being developed by the authority, and plans associated with federal block grants; and
+
+    b. Coordinate its work with the efforts of the blue ribbon commission on the intersection of the criminal justice and behavioral health crisis systems and the crisis response improvement strategy committee established in chapter . . ., Laws of 2021 (Engrossed Second Substitute House Bill No. 1477).
+
+6. The authority must submit a preliminary report by December 1, 2021, regarding progress toward the substance use recovery services plan. The authority must submit the final substance use recovery services plan to the governor and the legislature by December 1, 2022. After submitting the plan, the authority shall adopt rules and enter into contracts with providers to implement the plan by December 1, 2023. In addition to seeking public comment under chapter 34.05 RCW, the authority must adopt rules in accordance with the recommendations of the substance use recovery services advisory committee as provided in subsection (2) of this section.
+
+7. In consultation with the substance use recovery services advisory committee, the authority must submit a report on the implementation of the substance use recovery services plan to the appropriate committees of the legislature and governor by December 1st of each year, beginning in 2023. This report shall include progress on the substance use disorder continuum of care, including availability of outreach, treatment, and recovery support services statewide.
+
+8. For the purposes of this section, "recovery support services" means a collection of resources that sustain long-term recovery from substance use disorder, including for persons with co-occurring substance use disorders and mental health conditions, recovery housing, permanent supportive housing, employment and education pathways, peer supports and recovery coaching, family education, technological recovery supports, transportation and child care assistance, and social connectedness.
+
+9. This section expires December 31, 2026.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Each behavioral health administrative services organization shall establish a recovery navigator program. The program shall provide community-based outreach, intake, assessment, and connection to services and, as appropriate, long-term intensive case management and recovery coaching services, to youth and adults with substance use disorder, including for persons with co-occurring substance use disorders and mental health conditions, who are referred to the program from diverse sources and shall facilitate and coordinate connections to a broad range of community resources for youth and adults with substance use disorder, including treatment and recovery support services.
+
+2. The authority shall establish uniform program standards for behavioral health administrative services organizations to follow in the design of their recovery navigator programs. The uniform program standards must be modeled upon the components of the law enforcement assisted diversion program and address project management, field engagement, biopsychosocial assessment, intensive case management and care coordination, stabilization housing when available and appropriate, and, as necessary, legal system coordination. The authority must adopt the uniform program standards from the components of the law enforcement assisted diversion program to accommodate an expanded population of persons with substance use disorders, including persons with co-occurring substance use disorders and mental health conditions, and allow for referrals from a broad range of sources. In addition to accepting referrals from law enforcement, the uniform program standards must provide guidance for accepting referrals on behalf of persons with substance use disorders, including persons with co-occurring substance use disorders and mental health conditions, from various sources including, but not limited to, self-referral, family members of the individual, emergency department personnel, persons engaged with serving homeless persons, including those living unsheltered or in encampments, fire department personnel, emergency medical service personnel, community-based organizations, members of the business community, harm reduction program personnel, faith-based organization staff, and other sources within the criminal legal system, as outlined within the sequential intercept model. In developing response time requirements within the statewide program standards, the authority shall require, subject to the availability of amounts appropriated for this specific purpose, that responses to referrals from law enforcement occur immediately for in-custody referrals and shall strive for rapid response times to other appropriate settings such as emergency departments.
+
+3. Subject to the availability of amounts appropriated for this specific purpose, the authority shall provide funding to each behavioral health administrative services organization for the development of its recovery navigator program. Before receiving funding for implementation and ongoing administration, each behavioral health administrative services organization must submit a program plan that demonstrates the ability to fully comply with statewide program standards. The authority shall establish a schedule for the regular review of behavioral health administrative services organizations' programs. The authority shall arrange for technical assistance to be provided by the LEAD national support bureau to all behavioral health administrative services organizations.
+
+4. Each behavioral health administrative services organization must have a substance use disorder regional administrator for its recovery navigator program. The regional administrator shall be responsible for assuring compliance with program standards, including staffing standards. Each recovery navigator program must maintain a sufficient number of appropriately trained personnel for providing intake and referral services, conducting comprehensive biopsychosocial assessments, providing intensive case management services, and making warm handoffs to treatment and recovery support services along the continuum of care. Program staff must include people with lived experience with substance use disorder to the extent possible. The substance use disorder regional administrator must assure that staff who are conducting intake and referral services and field assessments are paid a livable and competitive wage and have appropriate initial training and receive continuing education.
+
+5. Each recovery navigator program must submit quarterly reports to the authority with information identified by the authority and the substance use recovery services advisory committee. The reports must be provided to the substance use recovery services advisory committee for discussion at meetings following the submission of the reports.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish a grant program to:
+
+    a. Provide treatment services for low-income individuals with substance use disorder who are not eligible for medical assistance programs under chapter 74.09 RCW, with priority for the use of the funds for very low-income individuals; and
+
+    b. Provide treatment services that are not eligible for federal matching funds to individuals who are enrolled in medical assistance programs under chapter 74.09 RCW.
+
+2. In establishing the grant program, the authority shall consult with the substance use recovery services advisory committee established in section 1 of this act, behavioral health administrative services organizations, managed care organizations, and regional behavioral health providers to adopt regional standards that are consistent with the substance use recovery services plan developed under section 1 of this act to provide sufficient access for youth and adults to meet each region's needs for:
+
+    a. Opioid use disorder treatment programs;
+
+    b. Low-barrier buprenorphine clinics;
+
+    c. Outpatient substance use disorder treatment;
+
+    d. Withdrawal management services, including both subacute and medically managed withdrawal management;
+
+    e. Secure withdrawal management and stabilization services;
+
+    f. Inpatient substance use disorder treatment services;
+
+    g. Inpatient co-occurring disorder treatment services; and
+
+    h. Behavioral health crisis walk-in and drop-off services.
+
+3. Funds in the grant program must be used to reimburse providers for the provision of services to individuals identified in subsection (1) of this section. The authority may use the funds to support evidence-based practices and promising practices that are not reimbursed by medical assistance or private insurance, including contingency management. In addition, funds may be used to provide assistance to organizations to establish or expand services as reasonably necessary and feasible to increase the availability of services to achieve the regional access standards developed under subsection (2) of this section, including such items as training and recruitment of personnel, reasonable modifications to existing facilities to accommodate additional clients, start-up funding, and similar forms of assistance. Funds may not be used to support the ongoing operational costs of a provider or organization, except in relation to payments for specific service encounters with an individual identified in subsection (1) of this section or for noninsurance reimbursable services.
+
+4. The authority must establish regional access standards under subsection (2) of this section, subject to the availability of amounts appropriated for this specific purpose, by January 1, 2023, and begin distributing grant funds by March 1, 2023.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish the expanded recovery support services program to increase access to recovery services for individuals in recovery from substance use disorder.
+
+2. In establishing the program, the authority shall consult with the substance use recovery services advisory committee established in section 1 of this act, behavioral health administrative services organizations, regional behavioral health providers, and regional community organizations that support individuals in recovery from substance use disorders, including individuals with co-occurring substance use disorders and mental health conditions, to adopt regional expanded recovery plans that are consistent with the substance use recovery services plan developed under section 1 of this act to provide sufficient access for youth and adults to meet each region's needs for:
+
+    a. Recovery housing;
+
+    b. Employment pathways, support, training, and job placement, including evidence-based supported employment program services;
+
+    c. Education pathways, including recovery high schools and collegiate recovery programs;
+
+    d. Recovery coaching and substance use disorder peer support;
+
+    e. Social connectedness initiatives, including the recovery café model;
+
+    f. Family support services, including family reconciliation services;
+
+    g. Technology-based recovery support services;
+
+    h. Transportation assistance; and
+
+    i. Legal support services.
+
+3. Funds in the expanded recovery support services program must be used to reimburse providers for the provision of services to individuals in recovery from substance use disorders, including individuals with co-occurring substance use disorders and mental health conditions. In addition, the funds may be used to provide assistance to organizations to establish or expand recovery support services as reasonably necessary and feasible to increase the availability of services to achieve the regional expanded recovery plans developed under subsection (2) of this section, including such items as training and recruitment of personnel, reasonable modifications to existing facilities to accommodate additional clients, and similar forms of assistance.
+
+4. The authority must establish regional expanded recovery plans under subsection (2) of this section, subject to the availability of amounts appropriated for this specific purpose, by January 1, 2023, and begin distributing grant funds by March 1, 2023.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish a homeless outreach stabilization transition program to expand access to modified assertive community treatment services provided by multidisciplinary behavioral health outreach teams to serve people who are living with serious substance use disorders or co-occurring substance use disorders and mental health conditions, are experiencing homelessness, and whose severity of behavioral health symptom acuity level creates a barrier to accessing and receiving conventional behavioral health services and outreach models.
+
+    a. In establishing the program, the authority shall consult with behavioral health outreach organizations who have experience delivering this service model in order to establish program guidelines regarding multidisciplinary team staff types, service intensity and quality fidelity standards, and criteria to ensure programs are reaching the appropriate priority population.
+
+    b. Funds for the homeless outreach stabilization transition program must be used to reimburse organizations for the provision of multidisciplinary outreach services to individuals who are living with substance use disorders or co-occurring substance use and mental health disorders and are experiencing homelessness or transitioning from homelessness to housing. The funds may be used to provide assistance to organizations to establish or expand services as reasonably necessary to create a homeless outreach stabilization transition program, including items such as training and recruitment of personnel, outreach and engagement resources, client engagement and health supplies, medications for people who do not have access to insurance, and similar forms of assistance.
+
+    c. The authority must establish one or more homeless outreach stabilization transition programs by January 1, 2024, and begin distributing grant funds by March 1, 2024.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish a project for psychiatric outreach to the homeless program to expand access to behavioral health medical services for people who are experiencing homelessness and living in permanent supportive housing.
+
+    a. In establishing the program, the authority shall consult with behavioral health medical providers, homeless service providers, and permanent supportive housing providers that support people living with substance use disorders, co-occurring substance use and mental health conditions, and people who are currently or have formerly experienced homelessness.
+
+    b. Funds for the project for psychiatric outreach to the homeless program must be used to reimburse organizations for the provision of medical services to individuals who are living with or in recovery from substance use disorders, co-occurring substance use and mental health disorders, or other behavioral and physical health conditions. Organizations must provide medical services to people who are experiencing homelessness or are living in permanent supportive housing and would be at risk of homelessness without access to appropriate services. The funds may be used to provide assistance to organizations to establish or expand behavioral health medical services as reasonably necessary to create a project for psychiatric outreach to the homeless program, including items such as training and recruitment of personnel, outreach and engagement resources, medical equipment and health supplies, medications for people who do not have access to insurance, and similar forms of assistance.
+
+    c. The authority must establish one or more projects for psychiatric outreach to the homeless programs by January 1, 2024, and begin distributing grant funds by March 1, 2024.
+
+3. Subject to the availability of amounts appropriated for this specific purpose, the authority shall increase contingency management resources for opioid treatment networks that are serving people living with co-occurring stimulant use and opioid use disorder.
+
+4. Subject to the availability of amounts appropriated for this specific purpose, the authority shall develop a plan for implementing a comprehensive statewide substance misuse prevention effort. The plan must be completed by January 1, 2024.
+
+5. Subject to the availability of amounts appropriated for this specific purpose, the authority shall administer a competitive grant process to broaden existing local community coalition efforts to prevent substance misuse by increasing relevant protective factors while decreasing risk factors. Coalitions are to be open to all stakeholders interested in substance misuse prevention, including, but not limited to, representatives from people in recovery, law enforcement, education, behavioral health, parent organizations, treatment organizations, organizations serving youth, prevention professionals, and business.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [43.101](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
+
+1. Beginning July 1, 2022, all law enforcement personnel required to complete basic law enforcement training under RCW 43.101.200 must receive training on law enforcement interaction with persons with substance use disorders, including persons with co-occurring substance use disorders and mental health conditions, and referral to treatment and recovery services and the unique referral processes for youth, as part of the basic law enforcement training. The training must be developed by the commission in collaboration with the University of Washington behavioral health institute and agencies that have expertise in the area of working with persons with substance use disorders, including law enforcement diversion of such individuals to community-based care. In developing the training, the commission must also examine existing courses certified by the commission that relate to persons with a substance use disorder, and should draw on existing training partnerships with the Washington association of sheriffs and police chiefs.
+
+2. The training must consist of classroom instruction or internet instruction and shall replicate likely field situations to the maximum extent possible. The training should include, at a minimum, core instruction in all of the following:
+
+    a. Proper procedures for referring persons to the recovery navigator program in accordance with section 2 of this act;
+
+    b. The etiology of substance use disorders, including the role of trauma;
+
+    c. Barriers to treatment engagement experienced by many with such disorders who have contact with the legal system;
+
+    d. How to identify indicators of substance use disorder and how to respond appropriately in a variety of common situations;
+
+    e. Conflict resolution and de-escalation techniques for potentially dangerous situations involving persons with a substance use disorder;
+
+    f. Appropriate language usage when interacting with persons with a substance use disorder;
+
+    g. Alternatives to lethal force when interacting with potentially dangerous persons with a substance use disorder;
+
+    h. The principles of recovery and the multiple pathways to recovery; and
+
+    i. Community and state resources available to serve persons with substance use disorders and how these resources can be best used by law enforcement to support persons with a substance use disorder in their communities.
+
+3. In addition to incorporation into the basic law enforcement training under RCW 43.101.200, training must be made available to law enforcement agencies, through electronic means, for use during in-service training.
+
+
 ## Section 8
 > This section modifies existing section [69.50.4011](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
 
@@ -91,6 +323,16 @@ Except as provided in RCW 69.50.401(2)(c) or as otherwise authorized by this cha
     a. A violation of this section involving the sale, delivery, or possession with intent to sell or deliver is a class B felony punishable according to chapter 9A.20 RCW.
 
     b. A violation of this section involving possession is a misdemeanor. **The prosecutor is encouraged to divert such cases for assessment, treatment, or other services.**
+
+
+## Section 13
+> This section adds a new section to an existing chapter [10.31](/rcw/10_criminal_procedure/10.031_warrants_and_arrests.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.031_warrants_and_arrests.md) for context.
+
+1. For all individuals who otherwise would be subject to arrest for possession of a counterfeit substance under RCW 69.50.4011, possession of a controlled substance under RCW 69.50.4013, possession of 40 grams or less of marijuana under RCW 69.50.4014, or possession of a legend drug under RCW 69.41.030(2)(b), in lieu of jail booking and referral to the prosecutor, law enforcement shall offer a referral to assessment and services available pursuant to RCW 10.31.110 or other program or entity responsible for receiving referrals in lieu of legal system involvement, which may include the recovery navigator program established under section 2 of this act.
+
+2. If law enforcement agency records reflect that an individual has been diverted to referral for assessment and services twice or more previously, officers may, but are not required to, make additional diversion efforts.
+
+3. Nothing in this section precludes prosecutors from diverting or declining to file any charges for possession offenses that are referred under RCW 69.50.4011, 69.50.4013, 69.50.4014, or 69.41.030(2)(b) in the exercise of their discretion.
 
 
 ## Section 14
@@ -1280,33 +1522,55 @@ Such court commissioner shall have power, authority, and jurisdiction, concurren
 ## Section 21
 The State v. Blake reimbursement account is created in the state treasury. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for state and local government costs resulting from the supreme court's decision in State v. Blake, No. 96873-0 (Feb. 25, 2021), and to reimburse individuals for legal financial obligations paid in connection with sentences that have been invalidated as a result of the decision.
 
+
 ## Section 22
 The appropriations in this section are provided to the health care authority community behavioral health program and are subject to the following conditions and limitations:
-(1) The following sums, or so much thereof as may be necessary, are each appropriated: $25,000,000 from the state general fund for the fiscal year ending June 30, 2022; and $20,000,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to contract with behavioral health administrative service organizations to implement the statewide recovery navigator program established in section 2 of this act and for related technical assistance to support this implementation. This includes funding for recovery navigator teams to provide community-based outreach and case management services based on the law enforcement assisted diversion model and for technical assistance support from the law enforcement assisted diversion national support bureau.
-(2) The following sums, or so much thereof as may be necessary, are each appropriated: $1,673,000 from the state general fund for the fiscal year ending June 30, 2022; $3,114,000 from the state general fund for the fiscal year ending June 30, 2023; and $3,890,000, from the general fund-federal account for the fiscal biennium ending June 30, 2023. The amounts in this subsection are provided solely for the authority to implement clubhouse services in every region of the state.
-(3) The following sums, or so much thereof as may be necessary, are each appropriated: $5,000,000 from the state general fund for the fiscal year ending June 30, 2022; and $7,500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to implement the homeless outreach stabilization team program, pursuant to section 5(1) of this act.
-(4) The following sums, or so much thereof as may be necessary, are each appropriated: $2,500,000 from the state general fund for the fiscal year ending June 30, 2022; and $2,500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to expand efforts to provide opioid use disorder medication in city, county, regional, and tribal jails.
-(5) The following sums, or so much thereof as may be necessary, are each appropriated: $500,000 from the state general fund for the fiscal year ending June 30, 2022; and $500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to expand opioid treatment network programs for people with co-occurring opioid and stimulant use disorder.
-(6) The following sums, or so much thereof as may be necessary, are each appropriated: $1,400,000 from the state general fund for the fiscal year ending June 30, 2022; and $1,400,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for behavioral health administrative service organizations to develop regional recovery navigator program plans pursuant to section 2 of this act and to establish positions focusing on regional planning to improve access to and quality of regional behavioral health services with a focus on integrated care.
-(7) The following sums, or so much thereof as may be necessary, are each appropriated: $75,000 from the state general fund for the fiscal year ending June 30, 2022; and $75,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to contract with an organization with expertise in supporting efforts to increase access to and improve quality in recovery housing and recovery residences. This funding shall be used to increase recovery housing availability through partnership with private landlords, increase accreditation of recovery residences statewide, operate a grievance process for resolving challenges with recovery residences, and conduct a recovery capital outcomes assessment for individuals living in recovery residences.
-(8) The following sums, or so much thereof as may be necessary, are each appropriated: $500,000 from the state general fund for the fiscal year ending June 30, 2022; and $500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to provide short-term housing vouchers for individuals with substance use disorders.
-(9) The following sums, or so much thereof as may be necessary, are each appropriated: $250,000 from the state general fund for the fiscal year ending June 30, 2022; and $250,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to issue grants for substance use disorder family navigator services.
-(10) The following sums, or so much thereof as may be necessary, are each appropriated: $200,000 from the state general fund for the fiscal year ending June 30, 2022; and $200,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to convene and provide staff and contracted services support to the recovery oversight committee established in section 1 of this act.
-(11) The following sums, or so much thereof as may be necessary, are each appropriated: $2,565,000 from the state general fund for the fiscal year ending June 30, 2022; and $2,565,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for staff and contracted services support for the authority to develop and implement the recovery services plan established in section 1 of this act and to carry out other requirements of this act. Within these amounts, funding is provided for the authority to:
-(a) Establish an occupational nurse consultant position within the authority to provide contract oversight, accountability, performance improvement activities, and to ensure medicaid managed care organization plan compliance with provisions in law and contract related to care transitions work with local jails.
-(b) Establish a position within the authority to create and oversee a program to initiate and support emergency department programs for inducing medications for patients with opioid use disorder paired with a referral to community-based outreach and case management programs. 
+
+1. The following sums, or so much thereof as may be necessary, are each appropriated: $25,000,000 from the state general fund for the fiscal year ending June 30, 2022; and $20,000,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to contract with behavioral health administrative service organizations to implement the statewide recovery navigator program established in section 2 of this act and for related technical assistance to support this implementation. This includes funding for recovery navigator teams to provide community-based outreach and case management services based on the law enforcement assisted diversion model and for technical assistance support from the law enforcement assisted diversion national support bureau.
+
+2. The following sums, or so much thereof as may be necessary, are each appropriated: $1,673,000 from the state general fund for the fiscal year ending June 30, 2022; $3,114,000 from the state general fund for the fiscal year ending June 30, 2023; and $3,890,000, from the general fund-federal account for the fiscal biennium ending June 30, 2023. The amounts in this subsection are provided solely for the authority to implement clubhouse services in every region of the state.
+
+3. The following sums, or so much thereof as may be necessary, are each appropriated: $5,000,000 from the state general fund for the fiscal year ending June 30, 2022; and $7,500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to implement the homeless outreach stabilization team program, pursuant to section 5(1) of this act.
+
+4. The following sums, or so much thereof as may be necessary, are each appropriated: $2,500,000 from the state general fund for the fiscal year ending June 30, 2022; and $2,500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to expand efforts to provide opioid use disorder medication in city, county, regional, and tribal jails.
+
+5. The following sums, or so much thereof as may be necessary, are each appropriated: $500,000 from the state general fund for the fiscal year ending June 30, 2022; and $500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to expand opioid treatment network programs for people with co-occurring opioid and stimulant use disorder.
+
+6. The following sums, or so much thereof as may be necessary, are each appropriated: $1,400,000 from the state general fund for the fiscal year ending June 30, 2022; and $1,400,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for behavioral health administrative service organizations to develop regional recovery navigator program plans pursuant to section 2 of this act and to establish positions focusing on regional planning to improve access to and quality of regional behavioral health services with a focus on integrated care.
+
+7. The following sums, or so much thereof as may be necessary, are each appropriated: $75,000 from the state general fund for the fiscal year ending June 30, 2022; and $75,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to contract with an organization with expertise in supporting efforts to increase access to and improve quality in recovery housing and recovery residences. This funding shall be used to increase recovery housing availability through partnership with private landlords, increase accreditation of recovery residences statewide, operate a grievance process for resolving challenges with recovery residences, and conduct a recovery capital outcomes assessment for individuals living in recovery residences.
+
+8. The following sums, or so much thereof as may be necessary, are each appropriated: $500,000 from the state general fund for the fiscal year ending June 30, 2022; and $500,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to provide short-term housing vouchers for individuals with substance use disorders.
+
+9. The following sums, or so much thereof as may be necessary, are each appropriated: $250,000 from the state general fund for the fiscal year ending June 30, 2022; and $250,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to issue grants for substance use disorder family navigator services.
+
+10. The following sums, or so much thereof as may be necessary, are each appropriated: $200,000 from the state general fund for the fiscal year ending June 30, 2022; and $200,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the authority to convene and provide staff and contracted services support to the recovery oversight committee established in section 1 of this act.
+
+11. The following sums, or so much thereof as may be necessary, are each appropriated: $2,565,000 from the state general fund for the fiscal year ending June 30, 2022; and $2,565,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for staff and contracted services support for the authority to develop and implement the recovery services plan established in section 1 of this act and to carry out other requirements of this act. Within these amounts, funding is provided for the authority to:
+
+    a. Establish an occupational nurse consultant position within the authority to provide contract oversight, accountability, performance improvement activities, and to ensure medicaid managed care organization plan compliance with provisions in law and contract related to care transitions work with local jails.
+
+    b. Establish a position within the authority to create and oversee a program to initiate and support emergency department programs for inducing medications for patients with opioid use disorder paired with a referral to community-based outreach and case management programs.
+
 
 ## Section 23
 The appropriation in this section is provided to the administrative office of the courts and is subject to the following conditions and limitations:
+
 The following sums, or so much thereof as may be necessary, are each appropriated: $2,250,000 from the state general fund for the fiscal year ending June 30, 2022; and $2,250,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely to fund grants for therapeutic courts operated by municipalities and district courts. The administrative office of the courts must allocate grant funding based upon a formula established by the administrative office of the courts. The formula must distribute the grant funding equitably between those therapeutic courts located east of the crest of the Cascade mountains and those therapeutic courts located west of the crest of the Cascade mountains. Multiple jurisdictions served by a single municipal court or district court may apply for funds as a single entity. Local jurisdictions receiving grant funding for therapeutic courts must use funding to identify individuals before the courts with substance use disorders or other behavioral health needs and engage those individuals with community-based therapeutic interventions.
+
 
 ## Section 24
 The appropriation in this section is provided to the department of commerce and is subject to the following conditions and limitations:
+
 The following sums, or so much thereof as may be necessary, are each appropriated: $500,000 from the state general fund for the fiscal year ending June 30, 2022; and $1,000,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the department to provide grants for the operational costs of new staffed recovery residences which serve individuals with substance use disorders who require more support than a level 1 recovery residence.
+
 
 ## Section 25
 The appropriation in this section is provided to the criminal justice training commission and is subject to the following conditions and limitations:
+
 The following sums, or so much thereof as may be necessary, are each appropriated: $150,000 from the state general fund for the fiscal year ending June 30, 2022; and $150,000 from the state general fund for the fiscal year ending June 30, 2023. The amounts in this subsection are provided solely for the commission to compensate trainer time to deliver the curriculum related to law enforcement interactions with persons with a substance use disorder pursuant to section 7 of this act.
+
 
 ## Section 30
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

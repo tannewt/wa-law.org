@@ -1,6 +1,64 @@
 # Substitute House Bill 1156 as Recommended by State Government & Tribal Relations
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1156-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [29A.52](/rcw/29A_elections/29A.52_primaries_and_elections.md). Here is the [modified chapter](rcw/29A_elections/29A.52_primaries_and_elections.md) for context.
+
+1. Except as provided in subsections (2) and (3) of this section, a county, city, town, school district, fire district, or port district may conduct its elections using ranked choice voting. A county, city, town, school district, fire district, or port district that adopts ranked choice voting may, but need not, use ranked choice voting for all offices in an election.
+
+2. A city, town, school district, fire district, or port district that has voters in more than one county may conduct an election using ranked choice voting only if:
+
+    a. Another city, town, or district that lies entirely within at least two of the counties in which the city, town, or district has voters uses ranked choice voting; or
+
+    b. A court orders the use of ranked choice voting as provided in this section as a remedy under RCW 29A.92.110.
+
+3. Ranked choice voting may not be used in an election for an office for which two or fewer candidates are competing.
+
+4. An election using ranked choice voting must meet the following requirements:
+
+    a. The county auditor shall design the ballot to allow a voter to rank the candidates for a particular office in order of preference, including one write-in candidate;
+
+    b. The county auditor must allow a voter to rank at least five candidates per office. The secretary of state must adopt rules that determine the maximum number of candidates per office that a voter is allowed to rank on a ballot;
+
+    c. A voter does not need to rank the maximum number of candidates. The county auditor shall count a ballot regardless of how many candidates the voter has ranked. The county auditor shall not assign votes for rankings made by a voter that are greater than the maximum number of rankings allowed for each office;
+
+    d. If a voter skips one or more numbers in ranking candidates, or ranks an invalid write-in candidate, the county auditor shall assign any votes after the skipped number to the voter's next-highest ranked candidates as if the voter had not skipped the number;
+
+    e. If a voter provides the same number ranking to more than one candidate, the county auditor may not assign that vote ranking to any candidate and may not assign a vote for any subsequent number ranking for that office;
+
+    f. If the election is a single-winner contest, including an election in which multiple positions with the same name, district number, or title are dealt with as separate offices, the winner of each contest must be determined using the instant runoff voting method, as defined in this section and further provided in secretary of state rules. If the election is a multiple-winner contest in which the positions are not dealt with as separate offices, the winners must be determined using the single transferable vote method, as defined in this section and further provided in secretary of state rules;
+
+    g. If the requisite number of officers have not been elected, or selected to continue to further rounds of vote tabulation, by reason of two or more persons having an equal and highest number of votes for the same office, the official empowered by state law to issue the original certificate of election shall resolve the tie using the tie-breaking method selected by the county, city, town, or district as provided in RCW 29A.60.221.
+
+5. A county, city, town, or district that conducts an election using ranked choice voting must either:
+
+    a. Eliminate the primary for the election; or
+
+    b. Hold a primary using the single transferable vote method to winnow candidates for the election to a final list of five candidates.
+
+6. A county, city, town, or district that adopts ranked choice voting before 2022 shall implement ranked choice voting for elections beginning in 2024. A county, city, town, or district that adopts ranked choice voting during or after 2022 must implement ranked choice voting within two years following its adoption.
+
+7. The county auditor whose county encompasses a county, city, town, or district that adopts ranked choice voting shall assist with the implementation of the system. If a city, town, or district has voters in two or more counties, each county auditor in which the city, town, or district has voters shall assist with implementation.
+
+8. The secretary of state, before July 1, 2023, and in consultation with the ranked choice voting work group created in section 15 of this act, shall adopt rules to administer this section. The secretary's rules must address, at minimum:
+
+    a. Procedures for administering an election that includes voters in more than one county as provided in subsection (2) of this section;
+
+    b. Procedures for tabulating votes under the instant runoff voting method and single transferable vote method as provided in subsection (4) of this section; and
+
+    c. The maximum number of candidates a voter is allowed to rank for each office as provided in subsection (4) of this section.
+
+9. The secretary of state shall develop educational materials for the public and provide training for county auditors to implement ranked choice voting.
+
+10. As used in this section:
+
+    a. "Ranked choice voting" means a system of counting votes in which votes are tabulated based on a voter's ranking of candidates in order of preference as provided in this section.
+
+    b. "Instant runoff voting method" means a system of counting votes in which the ballots are counted in rounds simulating a series of runoffs until two candidates remain or until one candidate has a majority of all votes counting in that round. The candidate having the greatest number of votes is declared the winner.
+
+    c. "Single transferable vote method" means a system of counting votes in which a winning threshold is calculated based on the number of seats to be filled and the number of votes cast so that no more than the correct number of candidates can win. The ballots must be counted in rounds, with surplus votes transferred from winning candidates and candidates with the fewest votes eliminated according to the methodology established by the secretary of state in rules adopted under subsection (8) of this section, until the number of candidates remaining equals the number of seats to be filled.
+
+
 ## Section 2
 > This section modifies existing section [29A.60.221](/rcw/29A_elections/29A.60_canvassing.md). Here is the [modified chapter](rcw/29A_elections/29A.60_canvassing.md) for context.
 
@@ -9,6 +67,12 @@
 2. **Except as provided in subsection (3) of this section, i**f the requisite number of any federal, state, county, city, district, or precinct officers have not been elected by reason of two or more persons having an equal and highest number of votes for one and the same office, the official empowered by state law to issue the original certificate of election shall give notice to the several persons so having the highest and equal number of votes to attend at the appropriate office at the time to be appointed by that official, who shall then and there proceed publicly to decide by lot which of those persons will be declared duly elected, and the official shall make out and deliver to the person thus duly declared elected a certificate of election.
 
 3. **The secretary of state may adopt rules to provide for at least three methods to resolve a tie occurring at any point during an election conducted using ranked choice voting as provided in section 1 of this act, including the lot method described in this section. A county, city, town, or district conducting an election as provided in section 1 of this act shall choose in advance of the election which method of resolving a tie will be used. If the secretary of state does not adopt rules under this section, the county, city, town, or district shall resolve any tie using the lot method described in this section.**
+
+
+## Section 3
+> This section adds a new section to an existing chapter [29A.04](/rcw/29A_elections/29A.04_general_provisions.md). Here is the [modified chapter](rcw/29A_elections/29A.04_general_provisions.md) for context.
+
+"Primary" or "primary election" means a procedure for winnowing candidates for public office to a final list of two as part of a special or general election, or to a final list of five in a county, city, town, or district election that uses ranked choice voting as provided in section 1 of this act. Each voter has the right to cast a vote for any candidate for each office without any limitation based on party preference or affiliation, of either the voter or the candidate.
 
 
 ## Section 5
@@ -97,14 +161,33 @@ The purpose of this section is to establish the holding of a primary, subject to
 3. **If the school board uses ranked choice voting as provided in section 1 of this act, the school board shall choose whether to deal with the positions of school directors as separate offices for elections purposes.**
 
 
+## Section 13
+> This section adds a new section to an existing chapter [52.14](/rcw/52_fire_protection_districts/52.14_commissioners.md). Here is the [modified chapter](rcw/52_fire_protection_districts/52.14_commissioners.md) for context.
+
+A board of fire commissioners may conduct an election for fire commissioner using ranked choice voting as provided in section 1 of this act.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [53.12](/rcw/53_port_districts/53.12_commissioners—elections.md). Here is the [modified chapter](rcw/53_port_districts/53.12_commissioners—elections.md) for context.
+
+A port commission may conduct an election for port commissioner using ranked choice voting as provided in section 1 of this act.
+
+
 ## Section 15
-(1) A ranked choice voting work group is created.
-(2) The work group shall consist of:
-(a) A member from the office of the secretary of state, chosen by the secretary;
-(b) A member from the Washington state association of county auditors, chosen by the association; and
-(c) A member from an organization with expertise in ranked choice voting. The governor shall solicit applications and choose the organization for the work group. The organization shall choose its member for the work group.
-(3) The work group shall advise and aid the secretary of state in drafting rules to implement this act, as provided in section 1 of this act.
-(4) This section expires December 1, 2023.
+1. A ranked choice voting work group is created.
+
+2. The work group shall consist of:
+
+    a. A member from the office of the secretary of state, chosen by the secretary;
+
+    b. A member from the Washington state association of county auditors, chosen by the association; and
+
+    c. A member from an organization with expertise in ranked choice voting. The governor shall solicit applications and choose the organization for the work group. The organization shall choose its member for the work group.
+
+3. The work group shall advise and aid the secretary of state in drafting rules to implement this act, as provided in section 1 of this act.
+
+4. This section expires December 1, 2023.
+
 
 ## Section 17
 > This section modifies existing section [29A.92.070](/rcw/29A_elections/29A.92_voting_rights_act.md). Here is the [modified chapter](rcw/29A_elections/29A.92_voting_rights_act.md) for context.
@@ -161,5 +244,7 @@ The purpose of this section is to establish the holding of a primary, subject to
 
 
 ## Section 20
-(1) Subject to the availability of amounts appropriated for this specific purpose, the secretary of state may provide grants to county auditors and local governments to adopt ranked choice voting as provided in part I of this act.
-(2) Subject to the availability of amounts appropriated for this specific purpose, the secretary of state may provide grants to a political subdivision to make changes to its electoral system as a remedy in response to one or more notices submitted under chapter 29A.92 RCW.
+1. Subject to the availability of amounts appropriated for this specific purpose, the secretary of state may provide grants to county auditors and local governments to adopt ranked choice voting as provided in part I of this act.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the secretary of state may provide grants to a political subdivision to make changes to its electoral system as a remedy in response to one or more notices submitted under chapter 29A.92 RCW.
+

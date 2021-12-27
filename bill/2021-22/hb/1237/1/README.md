@@ -2,25 +2,44 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1237.SL.xml)
 ## Section 1
-(1) This act is intended to provide a common definition for family resource centers across Washington state in an effort to establish a core set of principles for existing and newly forming family resource centers.
-(2) The legislature finds that family resource centers are effective in supporting communities when adhering to the following principles:
-(a) Equality;
-(b) Mutual respect;
-(c) Families are resources to other families and the community;
-(d) Strengthening families' cultural, racial, and linguistic identities;
-(e) Embedding programs in the community;
-(f) Fairness;
-(g) Responsiveness;
-(h) Accountability;
-(i) Mobilization of formal and informal resources; and
-(j) Flexibility.
-(3) The legislature further finds that families and parents are primarily responsible for supporting children's development and well-being at all ages and stages, and for preparing a child for success in school and life. However, many families may benefit from voluntary preventative or enriching support.
-(4) The legislature finds that family resource centers play a critical role in:
-(a) Preventing child abuse and neglect;
-(b) Strengthening children and families;
-(c) Connecting family-impacting agencies and programs;
-(d) Creating opportunities for community-level coordination; and
-(e) Creating connections to resources and support systems.
+1. This act is intended to provide a common definition for family resource centers across Washington state in an effort to establish a core set of principles for existing and newly forming family resource centers.
+
+2. The legislature finds that family resource centers are effective in supporting communities when adhering to the following principles:
+
+    a. Equality;
+
+    b. Mutual respect;
+
+    c. Families are resources to other families and the community;
+
+    d. Strengthening families' cultural, racial, and linguistic identities;
+
+    e. Embedding programs in the community;
+
+    f. Fairness;
+
+    g. Responsiveness;
+
+    h. Accountability;
+
+    i. Mobilization of formal and informal resources; and
+
+    j. Flexibility.
+
+3. The legislature further finds that families and parents are primarily responsible for supporting children's development and well-being at all ages and stages, and for preparing a child for success in school and life. However, many families may benefit from voluntary preventative or enriching support.
+
+4. The legislature finds that family resource centers play a critical role in:
+
+    a. Preventing child abuse and neglect;
+
+    b. Strengthening children and families;
+
+    c. Connecting family-impacting agencies and programs;
+
+    d. Creating opportunities for community-level coordination; and
+
+    e. Creating connections to resources and support systems.
+
 
 ## Section 3
 > This section modifies existing section [43.330.010](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.

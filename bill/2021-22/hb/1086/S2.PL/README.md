@@ -2,137 +2,242 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1086-S2.PL.xml)
 ## Section 1
-(1) The legislature finds that:
-(a) According to the federal substance abuse and mental health services administration's 2019 report, one in five adults in the United States will experience some form of mental illness this year and one in thirteen will need substance use disorder treatment;
-(b) Fewer than half of all individuals needing behavioral health treatment receive those services;
-(c) An untreated behavioral health need can have long-term negative impacts on an individual's health, well-being, and productivity;
-(d) The state has made significant investments in the efficacy of the publicly funded behavioral health system and its providers;
-(e) Behavioral health parity is required by both state and federal law;
-(f) All patients deserve to be treated and cared for with dignity and respect;
-(g) Patients often cross local and administrative boundaries when seeking effective behavioral health care;
-(h) Individuals with behavioral health needs are disproportionately involved with the criminal justice system; and
-(i) Providing robust community-based services can prevent expensive hospitalizations.
-(2) The legislature intends to create the state office of the behavioral health consumer advocacy that shall:
-(a) Advocate for all patients seeking privately and publicly funded behavioral health services;
-(b) Advocate for all patients receiving inpatient behavioral health services from a behavioral health provider or facility;
-(c) Assure that patients are afforded all of the rights given to them by state and federal laws;
-(d) Maintain independence and be free from all conflicts of interest;
-(e) Provide consistent quality services across the state; and
-(f) Retain an office within the boundaries of the region served by each behavioral health administrative services organization.
+1. The legislature finds that:
+
+    a. According to the federal substance abuse and mental health services administration's 2019 report, one in five adults in the United States will experience some form of mental illness this year and one in thirteen will need substance use disorder treatment;
+
+    b. Fewer than half of all individuals needing behavioral health treatment receive those services;
+
+    c. An untreated behavioral health need can have long-term negative impacts on an individual's health, well-being, and productivity;
+
+    d. The state has made significant investments in the efficacy of the publicly funded behavioral health system and its providers;
+
+    e. Behavioral health parity is required by both state and federal law;
+
+    f. All patients deserve to be treated and cared for with dignity and respect;
+
+    g. Patients often cross local and administrative boundaries when seeking effective behavioral health care;
+
+    h. Individuals with behavioral health needs are disproportionately involved with the criminal justice system; and
+
+    i. Providing robust community-based services can prevent expensive hospitalizations.
+
+2. The legislature intends to create the state office of the behavioral health consumer advocacy that shall:
+
+    a. Advocate for all patients seeking privately and publicly funded behavioral health services;
+
+    b. Advocate for all patients receiving inpatient behavioral health services from a behavioral health provider or facility;
+
+    c. Assure that patients are afforded all of the rights given to them by state and federal laws;
+
+    d. Maintain independence and be free from all conflicts of interest;
+
+    e. Provide consistent quality services across the state; and
+
+    f. Retain an office within the boundaries of the region served by each behavioral health administrative services organization.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Behavioral health provider or facility" means:
-(a) A behavioral health provider, as defined in RCW 71.24.025, to the extent it provides behavioral health services;
-(b) A licensed or certified behavioral health agency, as defined in RCW 71.24.025;
-(c) A long-term care facility, as defined in RCW 43.190.020, in which adults or children with behavioral health conditions reside;
-(d) A state hospital, as defined in RCW 72.23.010; or
-(e) A facility or agency that receives funds from the state to provide behavioral health treatment services to adults or children with a behavioral health condition.
-(2) "Contracting advocacy organization" means the organization selected by the office pursuant to section 3 of this act.
-(3) "Department" means the department of commerce.
-(4) "Office" means the state office of behavioral health consumer advocacy.
+
+1. "Behavioral health provider or facility" means:
+
+    a. A behavioral health provider, as defined in RCW 71.24.025, to the extent it provides behavioral health services;
+
+    b. A licensed or certified behavioral health agency, as defined in RCW 71.24.025;
+
+    c. A long-term care facility, as defined in RCW 43.190.020, in which adults or children with behavioral health conditions reside;
+
+    d. A state hospital, as defined in RCW 72.23.010; or
+
+    e. A facility or agency that receives funds from the state to provide behavioral health treatment services to adults or children with a behavioral health condition.
+
+2. "Contracting advocacy organization" means the organization selected by the office pursuant to section 3 of this act.
+
+3. "Department" means the department of commerce.
+
+4. "Office" means the state office of behavioral health consumer advocacy.
+
 
 ## Section 3
-(1) By July 1, 2022, the department shall establish the state office of behavioral health consumer advocacy to provide behavioral health consumer advocacy services to patients, residents, and clients of behavioral health providers or facilities. Prior to the establishment and operation of the office, the department shall solicit recommendations from members of the behavioral health community for options to rename the office and the certified behavioral health consumer advocates in a way that shows respect for the community that the office and the advocates serve. Prior to the office beginning operations, the department must rename the office and the certified behavioral health consumer advocates from the options proposed by the community. The department shall contract with a private nonprofit organization to provide behavioral health consumer advocacy services, according to the standards established by the office. The department shall assure all program and staff support necessary to enable the contracting advocacy organization to effectively protect the interests of persons with behavioral health needs in accordance with this chapter. The department shall select the organization through a competitive bidding process and shall assure that the selected organization (a) has demonstrated financial stability and meets the qualifications for the duties identified in this chapter, and (b) does not have any conflicts of interest that would interfere with the duties identified in this chapter. The department shall encourage persons who have lived experience with behavioral health conditions or who are a family member of a person with behavioral health conditions to apply.
-(2) Following the selection of the organization to carry out the ministerial functions of the office, the department shall not initiate the procurement of a new contract except upon a showing of cause. Prior to ending the contract and conducting a new competitive bidding process, the department shall provide an opportunity for comment by the contracting advocacy organization and to appeal the reselection to the department.
-(3) The office shall adopt rules to carry out the purposes of this chapter, including:
-(a) Establishing standards for the contracting advocacy organization to use when certifying behavioral health consumer advocates;
-(b) Establishing procedures consistent with this act for appropriate access by behavioral health consumer advocates to behavioral health providers or facilities; and
-(c) Establishing procedures consistent with section 14 of this act to protect the confidentiality of the records of patients, residents, clients, providers, and complainants.
+1. By July 1, 2022, the department shall establish the state office of behavioral health consumer advocacy to provide behavioral health consumer advocacy services to patients, residents, and clients of behavioral health providers or facilities. Prior to the establishment and operation of the office, the department shall solicit recommendations from members of the behavioral health community for options to rename the office and the certified behavioral health consumer advocates in a way that shows respect for the community that the office and the advocates serve. Prior to the office beginning operations, the department must rename the office and the certified behavioral health consumer advocates from the options proposed by the community. The department shall contract with a private nonprofit organization to provide behavioral health consumer advocacy services, according to the standards established by the office. The department shall assure all program and staff support necessary to enable the contracting advocacy organization to effectively protect the interests of persons with behavioral health needs in accordance with this chapter. The department shall select the organization through a competitive bidding process and shall assure that the selected organization (a) has demonstrated financial stability and meets the qualifications for the duties identified in this chapter, and (b) does not have any conflicts of interest that would interfere with the duties identified in this chapter. The department shall encourage persons who have lived experience with behavioral health conditions or who are a family member of a person with behavioral health conditions to apply.
+
+2. Following the selection of the organization to carry out the ministerial functions of the office, the department shall not initiate the procurement of a new contract except upon a showing of cause. Prior to ending the contract and conducting a new competitive bidding process, the department shall provide an opportunity for comment by the contracting advocacy organization and to appeal the reselection to the department.
+
+3. The office shall adopt rules to carry out the purposes of this chapter, including:
+
+    a. Establishing standards for the contracting advocacy organization to use when certifying behavioral health consumer advocates;
+
+    b. Establishing procedures consistent with this act for appropriate access by behavioral health consumer advocates to behavioral health providers or facilities; and
+
+    c. Establishing procedures consistent with section 14 of this act to protect the confidentiality of the records of patients, residents, clients, providers, and complainants.
+
 
 ## Section 4
 The state office of behavioral health consumer advocacy shall assure performance of the following activities, as authorized in contract:
-(1) Selection of a name for the contracting advocacy organization to use for the advocacy program that it operates pursuant to contract with the office. The name must be selected by the statewide advisory council established in this section and must be separate and distinguishable from that of the office;
-(2) Certification of behavioral health consumer advocates by October 1, 2022, and coordination of the activities of the behavioral health consumer advocates throughout the state according to standards adopted by the office;
-(3) Provision of training regarding appropriate access by behavioral health consumer advocates to behavioral health providers or facilities according to standards adopted by the office;
-(4) Establishment of a toll-free telephone number, website, and other appropriate technology to facilitate access to contracting advocacy organization services for patients, residents, and clients of behavioral health providers or facilities;
-(5) Establishment of a statewide uniform reporting system to collect and analyze data relating to complaints and conditions provided by behavioral health providers or facilities for the purpose of identifying and resolving significant problems, with permission to submit the data to all appropriate state agencies on a regular basis;
-(6) Establishment of procedures consistent with the standards adopted by the office to protect the confidentiality of the office's records, including the records of patients, residents, clients, providers, and complainants;
-(7) Establishment of a statewide advisory council, a majority of which must be composed of people with lived experience, that shall include:
-(a) Individuals with a history of mental illness including one or more members from the black community, the indigenous community, or a community of color;
-(b) Individuals with a history of substance use disorder including one or more members from the black community, the indigenous community, or a community of color;
-(c) Family members of individuals with behavioral health needs including one or more members from the black community, the indigenous community, or a community of color;
-(d) One or more representatives of an organization representing consumers of behavioral health services;
-(e) Representatives of behavioral health providers and facilities, including representatives of facilities offering inpatient and residential behavioral health services;
-(f) One or more certified peer specialists;
-(g) One or more medical clinicians serving individuals with behavioral health needs;
-(h) One or more nonmedical providers serving individuals with behavioral health needs;
-(i) One representative from a behavioral health administrative services organization;
-(j) Other community representatives, as determined by the office; and
-(k) One representative from a labor union representing workers who work in settings serving individuals with behavioral health conditions;
-(8) Monitoring the development of and recommend improvements in the implementation of federal, state, and local laws, rules, regulations, and policies with respect to the provision of behavioral health services in the state and advocate for consumers;
-(9) Development and delivery of educational programs and information statewide to patients, residents, and clients of behavioral health providers or facilities, and their families on topics including, but not limited to, the execution of mental health advance directives, wellness recovery action plans, crisis services and contacts, peer services and supports, family advocacy and rights, and involuntary treatment; and
-(10) Reporting to the office, the legislature, and all appropriate public agencies regarding the quality of services, complaints, problems for individuals receiving services from behavioral health providers or facilities, and any recommendations for improved services for behavioral health consumers.
+
+1. Selection of a name for the contracting advocacy organization to use for the advocacy program that it operates pursuant to contract with the office. The name must be selected by the statewide advisory council established in this section and must be separate and distinguishable from that of the office;
+
+2. Certification of behavioral health consumer advocates by October 1, 2022, and coordination of the activities of the behavioral health consumer advocates throughout the state according to standards adopted by the office;
+
+3. Provision of training regarding appropriate access by behavioral health consumer advocates to behavioral health providers or facilities according to standards adopted by the office;
+
+4. Establishment of a toll-free telephone number, website, and other appropriate technology to facilitate access to contracting advocacy organization services for patients, residents, and clients of behavioral health providers or facilities;
+
+5. Establishment of a statewide uniform reporting system to collect and analyze data relating to complaints and conditions provided by behavioral health providers or facilities for the purpose of identifying and resolving significant problems, with permission to submit the data to all appropriate state agencies on a regular basis;
+
+6. Establishment of procedures consistent with the standards adopted by the office to protect the confidentiality of the office's records, including the records of patients, residents, clients, providers, and complainants;
+
+7. Establishment of a statewide advisory council, a majority of which must be composed of people with lived experience, that shall include:
+
+    a. Individuals with a history of mental illness including one or more members from the black community, the indigenous community, or a community of color;
+
+    b. Individuals with a history of substance use disorder including one or more members from the black community, the indigenous community, or a community of color;
+
+    c. Family members of individuals with behavioral health needs including one or more members from the black community, the indigenous community, or a community of color;
+
+    d. One or more representatives of an organization representing consumers of behavioral health services;
+
+    e. Representatives of behavioral health providers and facilities, including representatives of facilities offering inpatient and residential behavioral health services;
+
+    f. One or more certified peer specialists;
+
+    g. One or more medical clinicians serving individuals with behavioral health needs;
+
+    h. One or more nonmedical providers serving individuals with behavioral health needs;
+
+    i. One representative from a behavioral health administrative services organization;
+
+    j. Other community representatives, as determined by the office; and
+
+    k. One representative from a labor union representing workers who work in settings serving individuals with behavioral health conditions;
+
+8. Monitoring the development of and recommend improvements in the implementation of federal, state, and local laws, rules, regulations, and policies with respect to the provision of behavioral health services in the state and advocate for consumers;
+
+9. Development and delivery of educational programs and information statewide to patients, residents, and clients of behavioral health providers or facilities, and their families on topics including, but not limited to, the execution of mental health advance directives, wellness recovery action plans, crisis services and contacts, peer services and supports, family advocacy and rights, and involuntary treatment; and
+
+10. Reporting to the office, the legislature, and all appropriate public agencies regarding the quality of services, complaints, problems for individuals receiving services from behavioral health providers or facilities, and any recommendations for improved services for behavioral health consumers.
+
 
 ## Section 5
-(1) A certified behavioral health consumer advocate shall:
-(a) Identify, investigate, and resolve complaints made by, or on behalf of, patients, residents, and clients of behavioral health providers or facilities relating to administrative action, inaction, or decisions that may adversely affect the health, safety, welfare, and rights of these individuals;
-(b) Assist and advocate on behalf of patients, residents, and clients of behavioral health providers or facilities before government agencies and seek administrative, legal, and other remedies on their behalf, if appropriate;
-(c) Inform patients, residents, and clients or their representatives about applicable patient and resident rights, and provide information, as appropriate, to patients, residents, clients, family members, guardians, resident representatives, and others regarding the rights of patients and residents;
-(d) Make recommendations through the office and the contracting advocacy organization for improvements to the quality of services provided to patients, residents, and clients of behavioral health providers or facilities; and
-(e) With the consent of the patient, resident, or client, involve family members, friends, or other designated individuals in the process of resolving complaints.
-(2) Nothing in this section shall be construed to grant a certified behavioral health consumer advocate:
-(a) Statutory or regulatory licensing or sanctioning authority; or
-(b) Binding adjudicative authority.
+1. A certified behavioral health consumer advocate shall:
+
+    a. Identify, investigate, and resolve complaints made by, or on behalf of, patients, residents, and clients of behavioral health providers or facilities relating to administrative action, inaction, or decisions that may adversely affect the health, safety, welfare, and rights of these individuals;
+
+    b. Assist and advocate on behalf of patients, residents, and clients of behavioral health providers or facilities before government agencies and seek administrative, legal, and other remedies on their behalf, if appropriate;
+
+    c. Inform patients, residents, and clients or their representatives about applicable patient and resident rights, and provide information, as appropriate, to patients, residents, clients, family members, guardians, resident representatives, and others regarding the rights of patients and residents;
+
+    d. Make recommendations through the office and the contracting advocacy organization for improvements to the quality of services provided to patients, residents, and clients of behavioral health providers or facilities; and
+
+    e. With the consent of the patient, resident, or client, involve family members, friends, or other designated individuals in the process of resolving complaints.
+
+2. Nothing in this section shall be construed to grant a certified behavioral health consumer advocate:
+
+    a. Statutory or regulatory licensing or sanctioning authority; or
+
+    b. Binding adjudicative authority.
+
 
 ## Section 6
-(1) For state hospitals as defined in RCW 72.23.010, the state office of behavioral health consumer advocacy shall work with the department of social and health services to:
-(a) Establish specialized training for behavioral health consumer advocates to work with forensic and criminal justice involved populations at the state hospitals;
-(b) Create procedures and protocols that ensure that behavioral health consumer advocates have access to all state hospital patients and their families or guardians as needed to perform their duties, including persons who are awaiting admission to the state hospitals while in jail;
-(c) Establish guidelines for how the state office of behavioral health consumer advocacy will work and collaborate with existing state employees who serve in an ombuds or advocate role for the state hospitals and ensure all legal requirements for these personnel are maintained; and
-(d) Develop a direct reporting structure to the governor's office about any systemic issues that are discovered within the course of the advocates' duties within the state hospitals.
-(2) The state office of behavioral health consumer advocacy shall complete this work in collaboration with the department of social and health services by July 1, 2023, and prior to the deployment of behavioral health consumer advocates within the state hospitals.
-(3) The state office of behavioral health consumer advocacy shall make strong efforts to encourage individuals with lived experience specific to the state hospitals to undergo training to fulfill behavioral health consumer advocate positions at the state hospitals.
+1. For state hospitals as defined in RCW 72.23.010, the state office of behavioral health consumer advocacy shall work with the department of social and health services to:
+
+    a. Establish specialized training for behavioral health consumer advocates to work with forensic and criminal justice involved populations at the state hospitals;
+
+    b. Create procedures and protocols that ensure that behavioral health consumer advocates have access to all state hospital patients and their families or guardians as needed to perform their duties, including persons who are awaiting admission to the state hospitals while in jail;
+
+    c. Establish guidelines for how the state office of behavioral health consumer advocacy will work and collaborate with existing state employees who serve in an ombuds or advocate role for the state hospitals and ensure all legal requirements for these personnel are maintained; and
+
+    d. Develop a direct reporting structure to the governor's office about any systemic issues that are discovered within the course of the advocates' duties within the state hospitals.
+
+2. The state office of behavioral health consumer advocacy shall complete this work in collaboration with the department of social and health services by July 1, 2023, and prior to the deployment of behavioral health consumer advocates within the state hospitals.
+
+3. The state office of behavioral health consumer advocacy shall make strong efforts to encourage individuals with lived experience specific to the state hospitals to undergo training to fulfill behavioral health consumer advocate positions at the state hospitals.
+
 
 ## Section 7
-(1) The certified behavioral health consumer advocates shall have appropriate access to behavioral health providers or facilities to effectively carry out the provisions of this chapter, with provisions made for the privacy of patients, residents, and clients, according to the rules, policies, and procedures developed under section 3 of this act.
-(2) Nothing in this chapter restricts, limits, or increases any existing right of any organizations or individuals not described in subsection (1) of this section to enter or provide assistance to patients, residents, and clients of behavioral health providers or facilities.
-(3) Nothing in this chapter restricts any right or privilege of a patient, resident, or client of a behavioral health provider or facility to receive visitors of their choice.
+1. The certified behavioral health consumer advocates shall have appropriate access to behavioral health providers or facilities to effectively carry out the provisions of this chapter, with provisions made for the privacy of patients, residents, and clients, according to the rules, policies, and procedures developed under section 3 of this act.
+
+2. Nothing in this chapter restricts, limits, or increases any existing right of any organizations or individuals not described in subsection (1) of this section to enter or provide assistance to patients, residents, and clients of behavioral health providers or facilities.
+
+3. Nothing in this chapter restricts any right or privilege of a patient, resident, or client of a behavioral health provider or facility to receive visitors of their choice.
+
 
 ## Section 8
-(1) Every behavioral health provider or facility shall post in a conspicuous location a notice providing the toll-free phone number and website of the contracting advocacy organization, as well as the name, address, and phone number of the office of the appropriate local behavioral health consumer advocate and a brief description of the services provided by the contracting advocacy organization. The form of the notice must be approved by the office. This information must also be distributed to the patients, residents, and clients of behavioral health providers or facilities, upon application for behavioral health services and upon admission to a behavioral health provider or facility. The information shall also be provided to the family members and legal guardians of the patients, residents, or clients of a behavioral health provider or facility, as allowed by state and federal privacy laws.
-(2) Every behavioral health provider or facility must provide access to a free telephone for the express purpose of contacting the contracting advocacy organization.
+1. Every behavioral health provider or facility shall post in a conspicuous location a notice providing the toll-free phone number and website of the contracting advocacy organization, as well as the name, address, and phone number of the office of the appropriate local behavioral health consumer advocate and a brief description of the services provided by the contracting advocacy organization. The form of the notice must be approved by the office. This information must also be distributed to the patients, residents, and clients of behavioral health providers or facilities, upon application for behavioral health services and upon admission to a behavioral health provider or facility. The information shall also be provided to the family members and legal guardians of the patients, residents, or clients of a behavioral health provider or facility, as allowed by state and federal privacy laws.
+
+2. Every behavioral health provider or facility must provide access to a free telephone for the express purpose of contacting the contracting advocacy organization.
+
 
 ## Section 9
 The contracting advocacy organization shall develop and submit, for approval by the office, a process to train and certify all behavioral health consumer advocates, whether paid or volunteer, authorized by this chapter as follows:
-(1) Certified behavioral health consumer advocates must have training or experience in the following areas:
-(a) Behavioral health and other related social services programs;
-(b) The legal system, including differences in state or federal law between voluntary and involuntary patients, residents, or clients;
-(c) Advocacy and supporting self-advocacy;
-(d) Dispute or problem resolution techniques, including investigation, mediation, and negotiation; and
-(e) All applicable patient, resident, and client rights established by either state or federal law.
-(2) A certified behavioral health consumer advocate may not have been employed by any behavioral health provider or facility within the previous twelve months, except as a certified peer specialist or where prior to the effective date of this section the person has been employed by a regional behavioral health consumer advocate.
-(3) No certified behavioral health consumer advocate or any member of a certified behavioral health consumer advocate's family may have, or have had, within the previous twelve months, any significant ownership or financial interest in the provision of behavioral health services.
+
+1. Certified behavioral health consumer advocates must have training or experience in the following areas:
+
+    a. Behavioral health and other related social services programs;
+
+    b. The legal system, including differences in state or federal law between voluntary and involuntary patients, residents, or clients;
+
+    c. Advocacy and supporting self-advocacy;
+
+    d. Dispute or problem resolution techniques, including investigation, mediation, and negotiation; and
+
+    e. All applicable patient, resident, and client rights established by either state or federal law.
+
+2. A certified behavioral health consumer advocate may not have been employed by any behavioral health provider or facility within the previous twelve months, except as a certified peer specialist or where prior to the effective date of this section the person has been employed by a regional behavioral health consumer advocate.
+
+3. No certified behavioral health consumer advocate or any member of a certified behavioral health consumer advocate's family may have, or have had, within the previous twelve months, any significant ownership or financial interest in the provision of behavioral health services.
+
 
 ## Section 10
-(1) The contracting advocacy organization shall develop and submit for approval by the office referral procedures for the organization and all certified behavioral health consumer advocates to refer any complaint, in accordance with a mutually established working agreement, to an appropriate state or local government agency. The appropriate agency shall respond to any complaint referred to it by a certified behavioral health consumer advocate, in accordance with a mutually established working agreement.
-(2) State agencies shall review a complaint against a behavioral health provider or facility which was referred to it by a certified behavioral health consumer advocate, in accordance with a mutually established working agreement, and shall forward to that certified behavioral health consumer advocate a summary of the results of the review or investigation and action proposed or taken.
-(3) State agencies that regulate or contract with behavioral health providers or facilities shall adopt necessary rules to effectively work in coordination with the contracting advocacy organization.
+1. The contracting advocacy organization shall develop and submit for approval by the office referral procedures for the organization and all certified behavioral health consumer advocates to refer any complaint, in accordance with a mutually established working agreement, to an appropriate state or local government agency. The appropriate agency shall respond to any complaint referred to it by a certified behavioral health consumer advocate, in accordance with a mutually established working agreement.
+
+2. State agencies shall review a complaint against a behavioral health provider or facility which was referred to it by a certified behavioral health consumer advocate, in accordance with a mutually established working agreement, and shall forward to that certified behavioral health consumer advocate a summary of the results of the review or investigation and action proposed or taken.
+
+3. State agencies that regulate or contract with behavioral health providers or facilities shall adopt necessary rules to effectively work in coordination with the contracting advocacy organization.
+
 
 ## Section 11
-(1) The contracting advocacy organization shall develop and implement working agreements with the protection and advocacy agency, the long-term care ombuds, the developmental disabilities ombuds, the corrections ombuds, and the children and family ombuds, and work in cooperation to assure efficient, coordinated service.
-(2) The contracting advocacy organization shall develop working agreements with each managed care organization, behavioral health administrative services organization, the state psychiatric hospitals, all appropriate state and local agencies, and other such entities as necessary to carry out their duties. Working agreements must include:
-(a) The roles of the contracting advocacy organization and the agency or entity in complaint investigations, complaint referral criteria, and a process for sharing information regarding complaint review and investigation, as appropriate; and
-(b) Processes and procedures to assure timely and seamless information sharing among all interested parties and that the contracting advocacy organization is responsive to all local information requests.
+1. The contracting advocacy organization shall develop and implement working agreements with the protection and advocacy agency, the long-term care ombuds, the developmental disabilities ombuds, the corrections ombuds, and the children and family ombuds, and work in cooperation to assure efficient, coordinated service.
+
+2. The contracting advocacy organization shall develop working agreements with each managed care organization, behavioral health administrative services organization, the state psychiatric hospitals, all appropriate state and local agencies, and other such entities as necessary to carry out their duties. Working agreements must include:
+
+    a. The roles of the contracting advocacy organization and the agency or entity in complaint investigations, complaint referral criteria, and a process for sharing information regarding complaint review and investigation, as appropriate; and
+
+    b. Processes and procedures to assure timely and seamless information sharing among all interested parties and that the contracting advocacy organization is responsive to all local information requests.
+
 
 ## Section 12
-(1) No certified behavioral health consumer advocate is liable for good faith performance of responsibilities under this chapter.
-(2) No discriminatory, disciplinary, or retaliatory action may be taken against an employee or volunteer of a behavioral health provider or facility, or a patient, resident, or client of a behavioral health provider or facility, for any communication made, or information given or disclosed, to aid the certified behavioral health consumer advocate in carrying out duties and responsibilities under this chapter, unless the same was done maliciously or without good faith. This subsection is not intended to infringe on the rights of the employer to supervise, discipline, or terminate an employee or volunteer for other reasons, and shall serve as a defense to any action in libel or slander.
-(3) All communications by a certified behavioral health consumer advocate, if reasonably related to the requirements of that individual's responsibilities under this chapter and done in good faith, are privileged and confidential, subject to the procedures established by the office.
-(4) A representative of the contracting advocacy organization is exempt from being required to testify in court as to any confidential matters except upon the express consent of the client, resident, or patient that is subject to the court proceedings, or their representatives, as applicable.
+1. No certified behavioral health consumer advocate is liable for good faith performance of responsibilities under this chapter.
+
+2. No discriminatory, disciplinary, or retaliatory action may be taken against an employee or volunteer of a behavioral health provider or facility, or a patient, resident, or client of a behavioral health provider or facility, for any communication made, or information given or disclosed, to aid the certified behavioral health consumer advocate in carrying out duties and responsibilities under this chapter, unless the same was done maliciously or without good faith. This subsection is not intended to infringe on the rights of the employer to supervise, discipline, or terminate an employee or volunteer for other reasons, and shall serve as a defense to any action in libel or slander.
+
+3. All communications by a certified behavioral health consumer advocate, if reasonably related to the requirements of that individual's responsibilities under this chapter and done in good faith, are privileged and confidential, subject to the procedures established by the office.
+
+4. A representative of the contracting advocacy organization is exempt from being required to testify in court as to any confidential matters except upon the express consent of the client, resident, or patient that is subject to the court proceedings, or their representatives, as applicable.
+
 
 ## Section 13
 It is the intent of the legislature that:
-(1) Regional behavioral health ombuds programs existing prior to this act be integrated into this new statewide program and the ombuds from those programs be assessed and certified by the contracting advocacy organization as behavioral health consumer advocates, and for the state office of behavioral health consumer advocacy to provide the regional behavioral health ombuds programs with any additional training they may need to meet the requirements of section 5 of this act;
-(2) There shall be a behavioral health consumer advocate office within the boundaries of the region served by each behavioral health administrative services organization;
-(3) Federal medicaid requirements be complied with; and
-(4) The department annually expend at least the amount expended on regional behavioral health ombuds services prior to the effective date of this section on the office and for the procurement of services from the contracting advocacy organization under this chapter.
+
+1. Regional behavioral health ombuds programs existing prior to this act be integrated into this new statewide program and the ombuds from those programs be assessed and certified by the contracting advocacy organization as behavioral health consumer advocates, and for the state office of behavioral health consumer advocacy to provide the regional behavioral health ombuds programs with any additional training they may need to meet the requirements of section 5 of this act;
+
+2. There shall be a behavioral health consumer advocate office within the boundaries of the region served by each behavioral health administrative services organization;
+
+3. Federal medicaid requirements be complied with; and
+
+4. The department annually expend at least the amount expended on regional behavioral health ombuds services prior to the effective date of this section on the office and for the procurement of services from the contracting advocacy organization under this chapter.
+
 
 ## Section 14
-(1) All records and files of the office, the contracting advocacy organization, and any certified behavioral health consumer advocates related to any complaint or investigation made pursuant to carrying out their duties and the identities of complainants, witnesses, patients, residents, or clients and information that could reasonably identify any of these individuals shall remain confidential unless disclosure is authorized in writing by the subject of the information, or the subject's guardian or legal representative.
-(2) No disclosures of records and files related to a complaint or investigation may be made to any organization or individual outside the office or the contracting advocacy organization without the written consent of any named witnesses, complainants, patients, residents, or clients unless the disclosure is made without the identity of any of these individuals and without information that could reasonably identify any of these individuals unless such disclosure is required in carrying out its duties under this chapter.
-(3) Notwithstanding subsections (1) and (2) of this section, disclosures of records and files may be made pursuant to a court order.
-(4) All disclosures must be compliant with state and federal privacy laws applicable to the type of information that is sought for disclosure.
+1. All records and files of the office, the contracting advocacy organization, and any certified behavioral health consumer advocates related to any complaint or investigation made pursuant to carrying out their duties and the identities of complainants, witnesses, patients, residents, or clients and information that could reasonably identify any of these individuals shall remain confidential unless disclosure is authorized in writing by the subject of the information, or the subject's guardian or legal representative.
+
+2. No disclosures of records and files related to a complaint or investigation may be made to any organization or individual outside the office or the contracting advocacy organization without the written consent of any named witnesses, complainants, patients, residents, or clients unless the disclosure is made without the identity of any of these individuals and without information that could reasonably identify any of these individuals unless such disclosure is required in carrying out its duties under this chapter.
+
+3. Notwithstanding subsections (1) and (2) of this section, disclosures of records and files may be made pursuant to a court order.
+
+4. All disclosures must be compliant with state and federal privacy laws applicable to the type of information that is sought for disclosure.
+
 
 ## Section 15
 > This section modifies existing section [71.24.045](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
@@ -200,3 +305,4 @@ It is the intent of the legislature that:
 
 ## Section 20
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

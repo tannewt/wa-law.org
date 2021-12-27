@@ -1,5 +1,6 @@
 # HB 1234 - Weapons/government buildings
-*Status: First reading, referred to Civil Rights & Judiciary.*
+*Status: First reading, referred to Civil Rights & Judiciary.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1234&Year=2021)
+
 Prohibiting weapons in state capitol buildings and grounds and certain other governmental buildings and facilities.
 
 ## Revisions

@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that transparency and fiscal responsibility are important principles for state government, including election administration. The legislature finds that advisory votes are nonbinding after-the-fact polls that do not aid transparency, are costly to taxpayers, cause confusion and frustration among voters, and provide little, if any, useful feedback for the legislature. The legislature finds that there are more effective ways for the public to participate in the legislative process, and to be educated about the decisions the legislature makes without contributing to long ballots, which can lead to choice fatigue and voters abstaining from down-ballot races that determine who shall serve in the government closest the people.
 
+
 ## Section 2
 > This section modifies existing section [29A.32.070](/rcw/29A_elections/29A.32_voters_pamphlets.md). Here is the [modified chapter](rcw/29A_elections/29A.32_voters_pamphlets.md) for context.
 

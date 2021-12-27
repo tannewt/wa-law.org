@@ -53,6 +53,30 @@ The definitions in this section apply throughout this chapter unless the context
 8. **A public utility district may provide retail telecommunications services or telecommunications facilities within the district's limits or without the district's limits by contract with another public utility district, any political subdivision of the state authorized to provide retail telecommunications services in the state, or with any federally recognized tribe located in the state of Washington.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [54.16](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+
+1. Before providing retail telecommunications services, a public utility district must report to its governing body and to the state broadband office the following about the area to be served by the public utility district:
+
+    a. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+    b. The location of where retail telecommunications services will be provided;
+
+    c. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+    d. Expected costs of providing retail telecommunications services to customers to be served by the public utility district;
+
+    e. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+    f. Sources of funding for the project that will supplement any grant or loan awards; and
+
+    g. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+2. The state broadband office must post a review of the proposed project on their website.
+
+3. For the purposes of this section, "unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
+
+
 ## Section 4
 > This section modifies existing section [54.16.425](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 
@@ -71,6 +95,102 @@ The definitions in this section apply throughout this chapter unless the context
 4. The county must distribute the amounts received under this section to all property taxing districts, including the state, in appropriate tax code areas in the same proportion as it would distribute property taxes from taxable property.
 
 5. By December 1, 2019, and annually thereafter, the department of revenue must submit a report to the appropriate legislative committees detailing the amount of payments made under this section and the amount of property tax that would be owed on the property comprising the broadband **infrastructure** used in providing retail **telecommunications services**.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [35.27](/rcw/35_cities_and_towns/35.027_towns.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.027_towns.md) for context.
+
+1. A town may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the town and its inhabitants with telecommunications services. The town has full authority to regulate and control the use, distribution, and price of the services.
+
+2. [Empty]
+
+    a. Before providing telecommunications services pursuant to subsection (1) of this section, a town must examine and report to its governing body and to the state broadband office the following about the area to be served by the town:
+
+        i. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+        ii. The location of where retail telecommunications services will be provided;
+
+        iii. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+        iv. Expected costs of providing retail telecommunications services to customers to be served by the town;
+
+    v. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+    vi. Sources of funding for the project that will supplement any grant or loan awards; and
+
+    vii. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+    b. The state broadband office must post a review of the proposed project on its website.
+
+3. For purposes of this section:
+
+    a. "Telecommunications" has the same meaning as defined in RCW 80.04.010.
+
+    b. "Unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [35.23](/rcw/35_cities_and_towns/35.023_second-class_cities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.023_second-class_cities.md) for context.
+
+1. A second-class city may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the second-class city and its inhabitants with telecommunications services. The second-class city has full authority to regulate and control the use, distribution, and price of the services.
+
+2. [Empty]
+
+    a. Before providing telecommunications services pursuant to subsection (1) of this section, a second-class city must examine and report to its governing body and to the state broadband office the following about the area to be served by the second-class city:
+
+        i. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+        ii. The location of where retail telecommunications services will be provided;
+
+        iii. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+        iv. Expected costs of providing retail telecommunications services to customers to be served by the second-class city;
+
+    v. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+    vi. Sources of funding for the project that will supplement any grant or loan awards; and
+
+    vii. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+    b. The state broadband office must post a review of the proposed project on its website.
+
+3. For purposes of this section:
+
+    a. "Telecommunications" has the same meaning as defined in RCW 80.04.010.
+
+    b. "Unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+1. A county may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the county and its inhabitants with telecommunications services. The county has full authority to regulate and control the use, distribution, and price of the services.
+
+2. [Empty]
+
+    a. Before providing telecommunications services pursuant to subsection (1) of this section, a county must examine and report to its governing body and to the state broadband office the following about the area to be served by the county:
+
+        i. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+        ii. The location of where retail telecommunications services will be provided;
+
+        iii. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+        iv. Expected costs of providing retail telecommunications services to customers to be served by the county;
+
+    v. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+    vi. Sources of funding for the project that will supplement any grant or loan awards; and
+
+    vii. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+    b. The state broadband office must post a review of the proposed project on its website.
+
+3. For purposes of this section:
+
+    a. "Telecommunications" has the same meaning as defined in RCW 80.04.010.
+
+    b. "Unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
 
 
 ## Section 8
@@ -123,6 +243,30 @@ A port district with telecommunications facilities for use in the provision of w
     c. Nothing in this subsection (8) is intended to limit or otherwise restrict any other authority provided by law.
 
 9. **A port district may provide retail telecommunications services within or without the district's limits.**
+
+
+## Section 10
+> This section adds a new section to an existing chapter [53.08](/rcw/53_port_districts/53.08_powers.md). Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
+
+1. Before providing retail telecommunications services, a port district must report to its governing body and to the state broadband office the following about the area to be served by the port district:
+
+    a. An assessment of the current availability of broadband infrastructure and its adequacy to provide high-speed internet access and other advanced telecommunications services to end users;
+
+    b. The location of where retail telecommunications services will be provided;
+
+    c. Evidence relating to the unserved nature of the community in which retail telecommunications services will be provided;
+
+    d. Expected costs of providing retail telecommunications services to customers to be served by the port district;
+
+    e. Evidence that proposed telecommunications infrastructure will be capable of scaling to greater download and upload speeds to meet state broadband goals under RCW 43.330.536;
+
+    f. Sources of funding for the project that will supplement any grant or loan awards; and
+
+    g. A strategic plan to maintain long-term operation of the infrastructure, and the expected installation charges and monthly costs for end users.
+
+2. The state broadband office must post a review of the proposed project on their website.
+
+3. For the purposes of this section, "unserved" means an area of Washington in which households and businesses lack access to broadband service at a minimum 100 megabits per second download speed and at a minimum 20 megabits per second upload speed.
 
 
 ## Section 11
@@ -217,3 +361,4 @@ A port district with telecommunications facilities for use in the provision of w
 
 ## Section 12
 This act may be known and cited as the public broadband act.
+

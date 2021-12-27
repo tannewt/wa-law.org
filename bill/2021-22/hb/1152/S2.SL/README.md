@@ -4,6 +4,69 @@
 ## Section 1
 The legislature finds that everyone in Washington state, no matter what community they live in, should be able to rely on a public health system that is able to support a standard level of public health service. Like public safety, there is a foundational level of public health delivery that must exist everywhere for services to work. A strong public health system is only possible with intentional investments into our state's public health system. Services should be delivered efficiently, equitably, and effectively, in ways that make the best use of technology, science, expertise, and leveraged resources and in a manner that is responsive to local communities.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [43.70](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
+
+1. The public health advisory board is established within the department. The advisory board shall:
+
+    a. Advise and provide feedback to the governmental public health system and provide formal public recommendations on public health;
+
+    b. Monitor the performance of the governmental public health system;
+
+    c. Develop goals and a direction for public health in Washington and provide recommendations to improve public health performance and to achieve the identified goals and direction;
+
+    d. Advise and report to the secretary;
+
+    e. Coordinate with the governor's office, department, state board of health, local health jurisdictions, and the secretary;
+
+    f. Evaluate public health emergency response and provide recommendations for future response, including coordinating with relevant committees, task forces, and stakeholders to analyze the COVID-19 public health response; and
+
+    g. Evaluate the use of foundational public health services funding by the governmental public health system.
+
+2. The public health advisory board shall consist of representatives from each of the following appointed by the governor:
+
+    a. The governor's office;
+
+    b. The director of the state board of health or the director's designee;
+
+    c. The secretary of the department or the secretary's designee;
+
+    d. The chair of the governor's interagency council on health disparities;
+
+    e. Two representatives from the tribal government public health sector selected by the American Indian health commission;
+
+    f. One member of the county legislative authority from a eastern Washington county selected by a statewide association representing counties;
+
+    g. One member of the county legislative authority from a western Washington county selected by a statewide association representing counties;
+
+    h. An organization representing businesses in a region of the state;
+
+    i. A statewide association representing community and migrant health centers;
+
+    j. A statewide association representing Washington cities;
+
+    k. Four representatives from local health jurisdictions selected by a statewide association representing local public health officials, including one from a jurisdiction east of the Cascade mountains with a population between 200,000 and 600,000, one from a jurisdiction east of the Cascade mountains with a population under 200,000, one from a jurisdiction west of the Cascade mountains with a population between 200,000 and 600,000, and one from a jurisdiction west of the Cascade mountains with a population less than 200,000;
+
+    l. A statewide association representing Washington hospitals;
+
+    m. A statewide association representing Washington physicians;
+
+    n. A statewide association representing Washington nurses;
+
+    o. A statewide association representing Washington public health or public health professionals; and
+
+    p. A consumer nonprofit organization representing marginalized populations.
+
+3. In addition to the members of the public health advisory board listed in subsection (2) of this section, there must be four nonvoting ex officio members from the legislature consisting of one legislator from each of the two largest caucuses in both the house of representatives and the senate.
+
+4. Staff support for the public health advisory board, including arranging meetings, must be provided by the department.
+
+5. Legislative members of the public health advisory board may be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+6. The public health advisory board is a class one group under chapter 43.03 RCW.
+
+
 ## Section 3
 > This section modifies existing section [70.05.030](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
 
@@ -298,4 +361,76 @@ The legislature finds that everyone in Washington state, no matter what communit
     l. **Any decision by the board of health related to the setting or modification of permit, licensing, and application fees may only be determined by the city and county elected officials on the board.**
 
 2. **A local board of health comprised solely of elected officials may retain this composition if the local health jurisdiction had a public health advisory committee or board with its own bylaws established on January 1, 2021. By January 1, 2022, the public health advisory committee or board must meet the requirements established in section 7 of this act for community health advisory boards. Any future changes to local board of health composition must meet the requirements of subsection (1) of this section.**
+
+
+## Section 7
+> This section adds a new section to an existing chapter [70.46](/rcw/70_public_health_and_safety/70.046_health_districts.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.046_health_districts.md) for context.
+
+1. A community health advisory board shall:
+
+    a. Provide input to the local board of health in the recruitment and selection of an administrative officer, pursuant to RCW 70.05.045, and local health officer, pursuant to RCW 70.05.050;
+
+    b. Use a health equity framework to conduct, assess, and identify the community health needs of the jurisdiction, and review and recommend public health policies and priorities for the local health jurisdiction and advisory board to address community health needs;
+
+    c. Evaluate the impact of proposed public health policies and programs, and assure identified health needs and concerns are being met;
+
+    d. Promote public participation in and identification of local public health needs;
+
+    e. Provide community forums and hearings as assigned by the local board of health;
+
+    f. Establish community task forces as assigned by the local board of health;
+
+    g. Review and make recommendations to the local health jurisdiction and local board of health for an annual budget and fees; and
+
+    h. Review and advise on local health jurisdiction progress in achieving performance measures and outcomes to ensure continuous quality improvement and accountability.
+
+2. The advisory board shall consist of nine to 21 members appointed by the local board of health. The local health officer and a member of the local board of health shall serve as ex officio members of the board.
+
+3. The advisory board must be broadly representative of the character of the community. Membership preference shall be given to tribal, racial, ethnic, and other minorities. The advisory board must consist of a balance of members with expertise, career experience, and consumer experience in areas impacting public health and with populations served by the health department. The board's composition shall include:
+
+    a. Members with expertise in and experience with:
+
+        i. Health care access and quality;
+
+        ii. Physical environment, including built and natural environments;
+
+        iii. Social and economic sectors, including housing, basic needs, education, and employment;
+
+        iv. Business and philanthropy;
+
+    v. Communities that experience health inequities;
+
+    vi. Government; and
+
+    vii. Tribal communities and tribal government.
+
+    b. Consumers of public health services;
+
+    c. Community members with lived experience in any of the areas listed in (a) of this subsection; and
+
+    d. Community stakeholders, including nonprofit organizations, the business community, and those regulated by public health.
+
+4. The local health jurisdiction and local board of health must actively recruit advisory board members in a manner that solicits broad diversity to assure representation from marginalized communities including tribal, racial, ethnic, and other minorities.
+
+5. Advisory board members shall serve for staggered three-year terms. This does not preclude any member from being reappointed.
+
+6. The advisory board shall, at the first meeting of each year, select a chair and vice chair. The chair shall preside over all advisory board meetings and work with the local health jurisdiction administrator, or their designee, to establish board meeting agendas.
+
+7. Staffing for the advisory board shall be provided by the local health jurisdiction.
+
+8. The advisory board shall hold meetings monthly, or as otherwise determined by the advisory board at a place and time to be decided by the advisory board. Special meetings may be held on call of the local board of health or the chairperson of the advisory board.
+
+9. Meetings of the advisory board are subject to the open public meetings act, chapter 42.30 RCW, and meeting minutes must be submitted to the local board of health.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [43.20](/rcw/43_state_government—executive/43.020_state_board_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.020_state_board_of_health.md) for context.
+
+1. The state board of health shall adopt rules establishing the appointment process for the members of local boards of health who are not elected officials. The selection process established by the rules must:
+
+    a. Be fair and unbiased; and
+
+    b. Ensure, to the extent practicable, that the membership of local boards of health include a balanced representation of elected officials and nonelected people with a diversity of expertise and lived experience.
+
+2. The rules adopted under this section must go into effect no later than one year after the effective date of this section.
 

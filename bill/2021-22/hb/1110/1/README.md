@@ -3,9 +3,13 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1110.xml)
 ## Section 1
 The legislature finds that:
-(1) Washington's public health system faces significant challenges. For Washington to have effective health boards, the boards need to have balanced representation of elected officials with nonelected individuals who have knowledge of health and public health issues and knowledge of diversity through lived experiences. Health inequities for people of color, Native Americans, low-income individuals and families, and those in rural communities with limited health services can be exacerbated by lack of representation on health boards. It is recognized that better health outcomes will occur when appointments for nonelected board of health positions are made using an equity lens. Further, consumers of public health tend to be not well represented as members of local health boards. There is a clear need for broader representation of consumers that face large health inequities or are direct recipients of public health services, such as the special supplemental nutrition program for women, infants, and children; the supplemental nutrition program; home visiting; or treatment services.
-(2) The lack of expertise and lived experience on local health boards has led to politics infecting public health during the COVID-19 pandemic with local public health department leaders and workers resigning, retiring, or being fired, and communities being left sick and vulnerable.
-(3) The legislature therefore intends for Washington to have local health boards that balance representation of elected officials and nonelected people with a diversity of expertise and lived experience and have a decision-making process that is inclusive and puts public health and people ahead of politics to improve health outcomes.
+
+1. Washington's public health system faces significant challenges. For Washington to have effective health boards, the boards need to have balanced representation of elected officials with nonelected individuals who have knowledge of health and public health issues and knowledge of diversity through lived experiences. Health inequities for people of color, Native Americans, low-income individuals and families, and those in rural communities with limited health services can be exacerbated by lack of representation on health boards. It is recognized that better health outcomes will occur when appointments for nonelected board of health positions are made using an equity lens. Further, consumers of public health tend to be not well represented as members of local health boards. There is a clear need for broader representation of consumers that face large health inequities or are direct recipients of public health services, such as the special supplemental nutrition program for women, infants, and children; the supplemental nutrition program; home visiting; or treatment services.
+
+2. The lack of expertise and lived experience on local health boards has led to politics infecting public health during the COVID-19 pandemic with local public health department leaders and workers resigning, retiring, or being fired, and communities being left sick and vulnerable.
+
+3. The legislature therefore intends for Washington to have local health boards that balance representation of elected officials and nonelected people with a diversity of expertise and lived experience and have a decision-making process that is inclusive and puts public health and people ahead of politics to improve health outcomes.
+
 
 ## Section 2
 > This section modifies existing section [70.05.030](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
@@ -301,5 +305,18 @@ The legislature finds that:
 3. The county legislative authority may appoint elected officials from cities and towns and persons other than elected officials **who do not meet the criteria in subsection (2) of this section** as members of the health district board so long as persons **selected under subsection (2) of this section continue to constitute at least one-half of the total membership of the board**.
 
 
+## Section 6
+> This section adds a new section to an existing chapter [43.20](/rcw/43_state_government—executive/43.020_state_board_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.020_state_board_of_health.md) for context.
+
+1. The state board of health shall adopt rules establishing the appointment process for the members of local boards of health who are not elected officials. The selection process established by the rules must:
+
+    a. Be fair and unbiased; and
+
+    b. Ensure, to the extent practicable, that the membership of local boards of health include a balanced representation of elected officials and nonelected people with a diversity of expertise and lived experience.
+
+2. The rules adopted under this section must go into effect no later than one year after the effective date of this section.
+
+
 ## Section 7
 Local boards of health in existence on the effective date of this section must comply with the requirements of this act as soon as practicable, but no later than six months following the effective date of the rules adopted under section 6 of this act.
+

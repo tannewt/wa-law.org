@@ -1,6 +1,12 @@
 # Senate Bill 5243
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5243.xml)
+## Section 1
+> This section adds a new section to an existing chapter [19.27](/rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md) for context.
+
+Any building permit applications submitted with plans, computations or specifications prepared, stamped and signed by a professional engineer or architect, licensed under the laws of the state of Washington, in the specific discipline as appropriate, shall be deemed complete by the city or county building department with authority under RCW 19.27.050. The department may review the application for general compliance with the zoning or other land use control ordinances in effect and shall not impose substantial modifications or conditions on submittals prepared, stamped, and signed by a licensed architect, landscape architect, soils engineer, civil engineer, structural engineer, or combination thereof.
+
+
 ## Section 2
 > This section modifies existing section [36.70B.030](/rcw/36_counties/36.070B_local_project_review.md). Here is the [modified chapter](rcw/36_counties/36.070B_local_project_review.md) for context.
 

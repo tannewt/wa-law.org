@@ -19,6 +19,18 @@
 3. **Amounts** in this section must be increased annually by the United States implicit price deflator for state and local government construction provided by the office of financial management.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [43.31](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
+
+1. Subject to the availability of amounts appropriated from the fair start for kids account created in RCW 43.216.--- (section 101, chapter . . . (House Bill No. 1213), Laws of 2021) for this specific purpose, the department shall award start-up grants to eligible organizations as described in RCW 43.31.575 who provide or commit to providing the early childhood education and assistance program or working connections child care.
+
+    a. To be eligible for grants under this section, the organization must commit to being an active participant in good standing with the early achievers program as described in chapter 43.216 RCW. Start-up grants are limited to one grant per location per eligible organization. After receiving a start-up grant and upon enrollment in the early achievers program, the site must continue to be an active participant in good standing with the early achievers program as described in chapter 43.216 RCW for at least five years.
+
+    b. Start-up grant funds provided under this section must be used for one-time start-up costs associated with the start up of a new child care or early childhood education and assistance program site. Eligible uses of grant funds include the purchase of equipment, supplies, fixtures and furnishings, dual language programming, and the cost of other goods and services associated with operations that are necessary to meet foundational quality standards for early learning programs as established by the department of children, youth, and families.
+
+2. The department shall adopt rules to implement this section. When developing rules for start-up grants, the department must use the child care cost estimate model developed pursuant to section 6, chapter 368, Laws of 2019 to inform the start-up grant parameters.
+
+
 ## Section 3
 > This section modifies existing section [43.31.565](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
 
@@ -75,3 +87,4 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 ## Section 5
 Section 2 of this act takes effect if chapter . . . (House Bill No. 1213), Laws of 2021 is enacted by the effective date of this section.
+

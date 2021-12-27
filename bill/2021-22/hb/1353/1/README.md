@@ -23,6 +23,18 @@ Unless the context clearly requires otherwise, the definitions in this section a
     b. **An economic development mission**.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [82.73](/rcw/82_excise_taxes/82.73_washington_main_street_program_tax_incentives.md). Here is the [modified chapter](rcw/82_excise_taxes/82.73_washington_main_street_program_tax_incentives.md) for context.
+
+Beginning July 1, 2021, a program, as defined under RCW 82.73.010(6)(b), and designated, as described in RCW 43.360.010 through 43.360.050:
+
+1. Must be a nonprofit organization under Title 26 U.S.C. Sec. 501(c)(3) or (c)(6) of the federal internal revenue code;
+
+2. Must be located in a rural county, as defined in RCW 43.160.020; and
+
+3. May not have had a main street program designated within the same county on or before December 31, 2020.
+
+
 ## Section 3
 > This section modifies existing section [43.360.030](/rcw/43_state_government—executive/43.360_washington_main_street_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.360_washington_main_street_program.md) for context.
 

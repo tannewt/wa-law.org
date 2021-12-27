@@ -29,6 +29,22 @@ Each school district board of directors is hereby granted and shall**, subject t
 5. As used in this section and RCW 28A.600.205, "knowingly" means having actual knowledge of or acting with deliberate ignorance or reckless disregard for the prohibition involved.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [28A.600](/rcw/28A_common_school_provisions/28A.600_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.600_students.md) for context.
+
+1. Rules and policies adopted in accordance with RCW 28A.600.200 by a school district board of directors or a voluntary nonprofit entity must:
+
+    a. Require students to provide birth certificates as a prerequisite for determining eligibility for athletic activities with separate classifications for male and female students; and
+
+    b. Prohibit male students from competing with and against female students in athletic activities with separate classifications for male and female students if the athletic activity is:
+
+        i. Intended for female students; and
+
+        ii. An individual competition sport.
+
+2. For the purposes of this section, "male students" means students whose sex assigned at birth, as evidenced by the student's birth certificate, was male.
+
+
 ## Section 3
 > This section modifies existing section [28A.640.020](/rcw/28A_common_school_provisions/28A.640_sexual_equality.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.640_sexual_equality.md) for context.
 

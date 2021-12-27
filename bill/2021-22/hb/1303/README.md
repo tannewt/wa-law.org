@@ -1,5 +1,6 @@
 # HB 1303 - Personal information sale
-*Status: First reading, referred to Finance.*
+*Status: First reading, referred to Finance.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1303&Year=2021)
+
 Concerning the regulation and taxation of the sale of Washingtonian's personal information and related data.
 
 ## Revisions

@@ -1,6 +1,18 @@
 # Senate Bill 5225 - Session Law Chapter 305 Year 2021
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5225.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [36.70C](/rcw/36_counties/36.070C_judicial_review_of_land_use_decisions.md). Here is the [modified chapter](rcw/36_counties/36.070C_judicial_review_of_land_use_decisions.md) for context.
+
+1. The superior court may transfer the judicial review of a land use decision to the court of appeals upon finding that all parties have consented to the transfer to the court of appeals and agreed that the judicial review can occur based upon an existing record. Transfer of cases pursuant to this section does not require the filing of a motion for discretionary review with the court of appeals.
+
+2. Upon stipulation and consent to transfer, the parties waive the right to seek an award of attorneys' fees and costs under RCW 4.84.370, except as may be awarded following an appeal to the supreme court.
+
+3. RCW 36.70C.090 does not apply to a matter transferred to the court of appeals pursuant to this section.
+
+4. This section expires June 30, 2026.
+
+
 ## Section 2
 > This section modifies existing section [34.05.518](/rcw/34_administrative_law/34.05_administrative_procedure_act.md). Here is the [modified chapter](rcw/34_administrative_law/34.05_administrative_procedure_act.md) for context.
 

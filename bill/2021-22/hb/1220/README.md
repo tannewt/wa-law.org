@@ -1,5 +1,6 @@
 # HB 1220 - Emergency shelters & housing
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1220&Year=2021)
+
 Supporting emergency shelters and housing through local planning and development regulations.
 
 ## Revisions

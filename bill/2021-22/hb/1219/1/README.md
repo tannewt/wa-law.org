@@ -2,10 +2,14 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1219.xml)
 ## Section 1
-(1) The legislature recognizes that dependency proceedings determine many critical aspects of a child's future, including whether the child may remain at home with their family, whether and how often the child sees their parents and siblings if they do not remain with their family, where the child attends school, and how long the child remains in state care. Children and youth, regardless of age, have many legal rights at stake in these proceedings, including a right to maintain family relationships, a right to freedom from harm, and a right to reasonable safety. Standards-based representation by a well-qualified attorney can be invaluable in protecting and advancing the child's legal rights and, where articulable, stated interests. Attorneys can advise and assist children and youth in presenting their experiences and position to the court, improving the court's comprehensive decision making.
-(2) The legislature further recognizes that appointing attorneys to provide standards-based legal representation for children and youth in dependency proceedings has been shown to result in more timely permanency for children and youth, increased school and placement stability, and increased contact with parents and siblings.
-(3) The legislature finds that the current system for child legal representation is inadequate and has resulted in a patchwork system that varies by county leading to many children and youth not having equal access to the court process. This is particularly true when significant events, such as the COVID-19 pandemic, result in sudden changes to court rules and procedures.
-(4) The legislature further finds that Black and Indigenous children and youth and other youth of color are much more likely to be removed from their parents' care, placed into foster care, and remain in the child welfare system longer than White children. Systemic racism contributes to this overrepresentation and to the lack of meaningful access to the court process for children and their families. It is the intent of the legislature to ensure that any expansion of legal representation actively combat this disproportionality.
+1. The legislature recognizes that dependency proceedings determine many critical aspects of a child's future, including whether the child may remain at home with their family, whether and how often the child sees their parents and siblings if they do not remain with their family, where the child attends school, and how long the child remains in state care. Children and youth, regardless of age, have many legal rights at stake in these proceedings, including a right to maintain family relationships, a right to freedom from harm, and a right to reasonable safety. Standards-based representation by a well-qualified attorney can be invaluable in protecting and advancing the child's legal rights and, where articulable, stated interests. Attorneys can advise and assist children and youth in presenting their experiences and position to the court, improving the court's comprehensive decision making.
+
+2. The legislature further recognizes that appointing attorneys to provide standards-based legal representation for children and youth in dependency proceedings has been shown to result in more timely permanency for children and youth, increased school and placement stability, and increased contact with parents and siblings.
+
+3. The legislature finds that the current system for child legal representation is inadequate and has resulted in a patchwork system that varies by county leading to many children and youth not having equal access to the court process. This is particularly true when significant events, such as the COVID-19 pandemic, result in sudden changes to court rules and procedures.
+
+4. The legislature further finds that Black and Indigenous children and youth and other youth of color are much more likely to be removed from their parents' care, placed into foster care, and remain in the child welfare system longer than White children. Systemic racism contributes to this overrepresentation and to the lack of meaningful access to the court process for children and their families. It is the intent of the legislature to ensure that any expansion of legal representation actively combat this disproportionality.
+
 
 ## Section 2
 > This section modifies existing section [13.34.090](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
@@ -75,6 +79,94 @@ For the purposes of child abuse prevention and treatment act (42 U.S.C. Secs. 51
 9. The court shall remove any person from serving as a court-appointed special advocate or volunteer guardian ad litem if the court is notified that the person has been removed from another county's registry pursuant to the disposition of a grievance or if the court is otherwise made aware that the individual was found by a court to have made a materially false statement that he or she knows to be false during an official proceeding under oath.
 
 
+## Section 5
+> This section adds a new section to an existing chapter [2.53](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
+
+1. The statewide children's legal representation program is established within the office of civil legal aid. The children's legal representation program shall ensure the provision of standards-based representation informed by best practice models, rigorous data analysis, race and other equity considerations that cause or perpetuate racial and other disparities in the child welfare system, involvement of stakeholders, including youth and young adults impacted by the system.
+
+2. The statewide children's legal representation program is responsible for implementation of section 6 of this act and RCW 2.53.045 except that it is the court's responsibility to appoint attorneys in dependency proceedings.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [13.34](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
+
+1. [Empty]
+
+    a. The court shall appoint an attorney for a child in a dependency proceeding six months after granting a petition to terminate the parent and child relationship pursuant to RCW 13.34.180 and when there is no remaining parent with parental rights. Legal representation provided by attorneys appointed pursuant to this section shall conform to rules of professional conduct, the standards of practice, caseload limits, and training guidelines adopted by the children's representation work group established by the Washington state supreme court commission on children in foster care as requested in section 9 of this act.
+
+    b. The court may appoint one attorney to a group of siblings, unless there is a conflict of interest, or such representation is otherwise inconsistent with the rules of professional conduct.
+
+    c. Subject to availability of amounts appropriated for this specific purpose, the state shall pay the costs of legal services provided by an attorney appointed pursuant to (a) of this subsection.
+
+    d. The office of civil legal aid is responsible for implementation of (a) through (c) of this subsection as provided in RCW 2.53.045.
+
+    e. Legal services provided by an attorney pursuant to (a) of this subsection do not include representation of the child in any appellate proceedings relative to the termination of the parent and child relationship.
+
+2. [Empty]
+
+    a. The court may appoint an attorney to represent the child's position in any dependency action on its own initiative, or upon the request of a parent, the child, a guardian ad litem, a caregiver, or the department.
+
+    b. [Empty]
+
+        i. If the court has not already appointed an attorney for a child, or the child is not represented by a privately retained attorney:
+
+(A) The child's caregiver, or any individual, may refer the child to an attorney for the purposes of filing a motion to request appointment of an attorney at public expense; or
+
+(B) The child or any individual may retain an attorney for the child for the purposes of filing a motion to request appointment of an attorney at public expense.
+
+        ii. Nothing in this subsection changes or alters the confidentiality provisions of RCW 13.50.100.
+
+    c. The department and the child's guardian ad litem shall each notify a child of the child's right to request an attorney and shall ask the child whether the child wishes to have an attorney. The department and the child's guardian ad litem shall notify the child and make this inquiry immediately after:
+
+        i. The date of the child's 12th birthday; or
+
+        ii. Assignment of a case involving a child age 12 or older.
+
+    d. The department and the child's guardian ad litem shall repeat the notification and inquiry at least annually and upon the filing of any motion or petition affecting the child's placement, services, or familial relationships.
+
+    e. The notification and inquiry is not required if the child has already been appointed an attorney.
+
+    f. The department shall note in the child's individual service and safety plan, and the guardian ad litem shall note in his or her report to the court, that the child was notified of the right to request an attorney and indicate the child's position regarding appointment of an attorney.
+
+    g. At the first regularly scheduled hearing after:
+
+        i. The date of the child's 12th birthday; or
+
+        ii. The date that a dependency petition is filed pursuant to this chapter on a child age 12 or older;
+
+the court shall inquire whether the child has received notice of his or her right to request an attorney from the department and the child's guardian ad litem. The court shall make an additional inquiry at the first regularly scheduled hearing after the child's 15th birthday. No inquiry is necessary if the child has already been appointed an attorney.
+
+3. Subject to the availability of amounts appropriated for this specific purpose:
+
+    a. Pursuant to the phase-in schedule set forth in (b) of this subsection (3), the court must appoint an attorney for every child in a dependency proceeding. Appointment must be made at the same time that counsel is appointed for the child's parent, guardian, or legal custodian. If no appointment of counsel is made for the child's parent, guardian, or legal custodian, then appointment must be made at or before the commencement of the shelter care hearing.
+
+    b. The statewide children's legal representation program shall develop a schedule for court appointment of attorneys for every child in dependency proceedings that will be phased in on a county-by-county basis over a six-year period. The schedule required under this subsection must:
+
+        i. Prioritize implementation in counties that have:
+
+(A) No current practice of appointment of attorneys for children in dependency cases; or
+
+(B) Significant prevalence of racial disproportionality or disparities in the number of dependent children compared to the general population, or both;
+
+        ii. Include representation in at least:
+
+(A) Three counties beginning January 1, 2022;
+
+(B) Eight counties beginning January 1, 2023;
+
+(C) Fifteen counties beginning January 1, 2024;
+
+(D) Twenty counties beginning January 1, 2025; and
+
+(E) Thirty counties beginning January 1, 2026;
+
+        iii. Achieve full statewide implementation by January 1, 2027.
+
+    c. The statewide children's legal representation program is responsible for the recruitment, training, and oversight of attorneys providing standards-based representation pursuant to (a) and (b) of this subsection as provided in RCW 2.53.045.
+
+4. Attorneys representing children pursuant to this section must provide legal services according to the rules of professional conduct, the Washington state bar association standards for indigent defense services, the standards of practice, caseload limits, and training guidelines adopted by the children's representation work group established by the Washington state supreme court commission on children in foster care as provided in section 9 of this act.
+
+
 ## Section 7
 > This section modifies existing section [2.53.045](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
 
@@ -83,4 +175,26 @@ For the purposes of child abuse prevention and treatment act (42 U.S.C. Secs. 51
 2. The **statewide children's legal representation program** shall enter into contracts with attorneys and agencies for the provision of legal services under **section 5 of this act** to remain within appropriated amounts.
 
 3. Prior to distributing state funds under subsection (2) of this section, the **statewide children's legal representation program** must verify that attorneys providing legal representation to children under **section 5 of this act** meet the standards of practice,  caseload limits **, and training guidelines adopted by the children's representation work group established by the Washington state supreme court commission on children in foster care as provided in section 9 of this act**.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [2.53](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
+
+1. The Washington state center for court research shall convene stakeholders, including youth and young adults, to identify the relevant outcome measures and data collection methods that appropriately protect attorney-client privilege to effectively assess:
+
+    a. The number of youth for whom attorneys are appointed pursuant to section 6(3) of this act; and
+
+    b. The short and longitudinal impact of standards-based legal representation on case outcomes including family reunification, number of placement changes, and placement with kin of appointment of standards-based representation disaggregated by race, ethnicity, age, disability status, sexual and gender identity, and geography.
+
+2. By November 30, 2022, and in compliance with RCW 43.01.036, the Washington state center for court research shall submit an annual report to the appropriate committees of the legislature and the governor outlining the outcome measures identified under this section.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [2.53](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
+
+1. The legislature recognizes that substantial changes have occurred that inform the best practices related to representation of children and youth in dependency cases, including new understandings relating to equity, disproportionality, cultural competency, and trauma-informed representation. The legislature further recognizes the role that training, supportive supervision, and competitive compensation structures play in recruiting and retaining a diverse pool of well-qualified attorneys. The legislature further recognizes that standards-based representation continues to be necessary to ensure effective representation of the stated and legal interests of children and youth involved in the child welfare system.
+
+2. The legislature therefore respectfully requests that the supreme court's commission on children in foster care review and update, where appropriate, the standards of practice, caseload limits, and training guidelines, referenced in RCW 2.53.045 and section 6 of this act. The updated standards shall be developed by December 31, 2021.
+
+3. This section expires July 1, 2022.
 

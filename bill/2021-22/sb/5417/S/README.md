@@ -4,20 +4,42 @@
 ## Section 1
 The COVID-19 pandemic that arrived in Washington in 2020 led to historic economic disruptions and devastating health impacts in the state. In an effort to assist businesses and employees whose assets and livelihoods have been impacted by the strategies used to protect the public's health, the legislature finds that steps must be taken in the public interest to support the most severely impacted industries. The hospitality industry has suffered some of the most devastating impacts of any sector of the state's economy. The legislature finds that assisting this sector of the state's economy to survive and recover from the effects of the pandemic and the steps taken to combat its spread are an urgent priority that is in the best interests of the state and its residents. The legislature intends that these revisions at the same time continue to promote regulation of an orderly market for liquor sales while maintaining protection of public health and efficient collection of taxes and fees.
 
+
 ## Section 2
-(1) The board must implement the provisions of this section as expeditiously as possible. Liquor licensees may conduct activities authorized under this section before completion by the board of actions the board plans to take in order to implement this act, such as adoption of rules or completion of information system changes necessary to allow licensees to apply for required endorsements. However, licensees must comply with board rules when they take effect.
-(2) The following licensees may sell alcohol products at retail for curbside and takeout service or delivery or both under liquor and cannabis board licenses and endorsements: Beer and wine restaurants; spirits, beer, and wine restaurants; taverns; domestic wineries; domestic breweries and microbreweries; distilleries; snack bars; nonprofit arts licensees; and caterers.
-(3) Spirits, beer, and wine restaurant licensees may sell premixed cocktails and cocktail kits for takeout or curbside service and for delivery. The board may establish by rule the manner in which cocktails for off-premises consumption must be provided. This subsection does not authorize sale of full bottles of spirits by licensees for off-premises consumption, with the exception of mini-bottles as part of cocktail kits. Mini-bottle sales authorized under this subsection as part of cocktail kits are exempt from the spirits license issuance fee under RCW 66.24.630(4)(a) and the tax on each retail sale of spirits under RCW 82.08.150.
-(4) Spirits, beer, and wine restaurant licensees may sell wine by the glass or premixed wine and spirits cocktails for takeout or curbside service and delivery. Beer and wine restaurant licensees may sell wine or premixed wine drinks by the glass for takeout or curbside service and for delivery. The board may establish by rule the manner in which wine by the glass for off-premises consumption must be provided.
-(5) Licensees that were authorized by statute or rule before January 1, 2020, to sell growlers for on-premises consumption may sell growlers for off-premises consumption through curbside, takeout, or delivery service. Sale of growlers under this subsection must meet federal alcohol and tobacco tax and trade bureau requirements.
-(6) Licensees must obtain from the board an endorsement to their license in order to conduct activities authorized under subsections (2) through (5) of this section. The board may adopt rules governing the manner in which the activities authorized under this section must be conducted. Licensees must not be charged a fee in order to obtain an endorsement required under this section.
-(7) Beer and wine specialty shops licensed under RCW 66.24.371 and domestic breweries and microbreweries may sell prefilled growlers for off-premises consumption through takeout or curbside service and delivery, provided that prefilled growlers are sold the same day they are prepared for sale and not stored overnight for sale on future days.
-(8) The board must adopt or revise current rules to allow for outdoor service of alcohol by on-premises licensees holding licenses issued by the board for the following license types: Beer and wine restaurants; spirits, beer, and wine restaurants; taverns; domestic wineries; domestic breweries and microbreweries; distilleries; snack bars; and private clubs licensed under RCW 66.24.450 and 66.24.452. The board may adopt requirements providing for clear accountability at locations where multiple licensees use a shared space for serving customers.
-(9) The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
-(a) "Board" means the liquor and cannabis board.
-(b) "Growlers" means sanitary containers brought to the premises by the purchaser or furnished by the licensee and filled by the retailer at the time of sale.
-(c) "Mini-bottles" means original factory-sealed containers holding not more than 50 milliliters of a spirituous beverage.
-(10) This section expires July 1, 2023.
+1. The board must implement the provisions of this section as expeditiously as possible. Liquor licensees may conduct activities authorized under this section before completion by the board of actions the board plans to take in order to implement this act, such as adoption of rules or completion of information system changes necessary to allow licensees to apply for required endorsements. However, licensees must comply with board rules when they take effect.
+
+2. The following licensees may sell alcohol products at retail for curbside and takeout service or delivery or both under liquor and cannabis board licenses and endorsements: Beer and wine restaurants; spirits, beer, and wine restaurants; taverns; domestic wineries; domestic breweries and microbreweries; distilleries; snack bars; nonprofit arts licensees; and caterers.
+
+3. Spirits, beer, and wine restaurant licensees may sell premixed cocktails and cocktail kits for takeout or curbside service and for delivery. The board may establish by rule the manner in which cocktails for off-premises consumption must be provided. This subsection does not authorize sale of full bottles of spirits by licensees for off-premises consumption, with the exception of mini-bottles as part of cocktail kits. Mini-bottle sales authorized under this subsection as part of cocktail kits are exempt from the spirits license issuance fee under RCW 66.24.630(4)(a) and the tax on each retail sale of spirits under RCW 82.08.150.
+
+4. Spirits, beer, and wine restaurant licensees may sell wine by the glass or premixed wine and spirits cocktails for takeout or curbside service and delivery. Beer and wine restaurant licensees may sell wine or premixed wine drinks by the glass for takeout or curbside service and for delivery. The board may establish by rule the manner in which wine by the glass for off-premises consumption must be provided.
+
+5. Licensees that were authorized by statute or rule before January 1, 2020, to sell growlers for on-premises consumption may sell growlers for off-premises consumption through curbside, takeout, or delivery service. Sale of growlers under this subsection must meet federal alcohol and tobacco tax and trade bureau requirements.
+
+6. Licensees must obtain from the board an endorsement to their license in order to conduct activities authorized under subsections (2) through (5) of this section. The board may adopt rules governing the manner in which the activities authorized under this section must be conducted. Licensees must not be charged a fee in order to obtain an endorsement required under this section.
+
+7. Beer and wine specialty shops licensed under RCW 66.24.371 and domestic breweries and microbreweries may sell prefilled growlers for off-premises consumption through takeout or curbside service and delivery, provided that prefilled growlers are sold the same day they are prepared for sale and not stored overnight for sale on future days.
+
+8. The board must adopt or revise current rules to allow for outdoor service of alcohol by on-premises licensees holding licenses issued by the board for the following license types: Beer and wine restaurants; spirits, beer, and wine restaurants; taverns; domestic wineries; domestic breweries and microbreweries; distilleries; snack bars; and private clubs licensed under RCW 66.24.450 and 66.24.452. The board may adopt requirements providing for clear accountability at locations where multiple licensees use a shared space for serving customers.
+
+9. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Board" means the liquor and cannabis board.
+
+    b. "Growlers" means sanitary containers brought to the premises by the purchaser or furnished by the licensee and filled by the retailer at the time of sale.
+
+    c. "Mini-bottles" means original factory-sealed containers holding not more than 50 milliliters of a spirituous beverage.
+
+10. This section expires July 1, 2023.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [66.08](/rcw/66_alcoholic_beverage_control/66.08_liquor_and_cannabis_board—general_provisions.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.08_liquor_and_cannabis_board—general_provisions.md) for context.
+
+1. The board must adopt rules authorizing licensees with a delivery endorsement to photograph or scan customer identification in lieu of obtaining a physical signature to document liquor product delivery and verify the age of customers.
+
+2. The board must consider revising current rules in order to provide greater flexibility regarding food service menu requirements that businesses holding a license issued by the board under Title 66 RCW must provide in conjunction with alcohol sales. This subsection does not apply to licensees that were not required to provide food service under rules in effect on January 1, 2020. The purpose of this subsection is to ease food menu requirements to make it more feasible financially for licensees to comply with the board's food service requirements but not replace food safety requirements in rule adopted by the department of health in chapter 246-215 WAC.
+
 
 ## Section 4
 > This section modifies existing section [66.24.175](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
@@ -46,15 +68,22 @@ The COVID-19 pandemic that arrived in Washington in 2020 led to historic economi
 
 
 ## Section 5
-(1) The liquor and cannabis board must contract with an independent entity to conduct a study of the impacts of privileges granted by this act to businesses licensed by the board under Title 66 RCW. The study must examine relevant issues including, but not limited to, the following:
-(a) Quantitative measures of impact such as liquor sales data, licensee locations, enforcement activity, hospital and other health provider visits for alcohol-related causes, underage drinking, alcohol dependence treatment, alcohol-related traffic violations, and motor vehicle crash deaths or injuries;
-(b) Qualitative investigation of relevant impacts using methods such as key informant interviews and supplemental data collection with licensees, law enforcement, behavioral health service providers, youth prevention and intervention specialists, and revenue stakeholders; and
-(c) Additional issues deemed relevant to the goals and results of this act.
-(2) The study authorized by this section must be started by January 1, 2022. A report with findings and any recommendations must be provided to the legislature and the governor by December 1, 2022.
-(3) This section expires July 1, 2023.
+1. The liquor and cannabis board must contract with an independent entity to conduct a study of the impacts of privileges granted by this act to businesses licensed by the board under Title 66 RCW. The study must examine relevant issues including, but not limited to, the following:
+
+    a. Quantitative measures of impact such as liquor sales data, licensee locations, enforcement activity, hospital and other health provider visits for alcohol-related causes, underage drinking, alcohol dependence treatment, alcohol-related traffic violations, and motor vehicle crash deaths or injuries;
+
+    b. Qualitative investigation of relevant impacts using methods such as key informant interviews and supplemental data collection with licensees, law enforcement, behavioral health service providers, youth prevention and intervention specialists, and revenue stakeholders; and
+
+    c. Additional issues deemed relevant to the goals and results of this act.
+
+2. The study authorized by this section must be started by January 1, 2022. A report with findings and any recommendations must be provided to the legislature and the governor by December 1, 2022.
+
+3. This section expires July 1, 2023.
+
 
 ## Section 6
 The sum of $150,000, or as much thereof as may be necessary, is appropriated for the fiscal biennium ending June 30, 2023, from the liquor revolving fund to the liquor and cannabis board for the purposes of section 5 of this act.
+
 
 ## Section 7
 > This section modifies existing section [66.24.630](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
@@ -177,5 +206,7 @@ The sum of $150,000, or as much thereof as may be necessary, is appropriated for
 
 
 ## Section 9
-(1) This act contains a temporary tax exemption for restaurants which sell cocktail kits containing mini-bottles of spirits. This temporary tax exemption is intended to avoid administrative costs for the state which are expected to exceed the value of the tax collected during the time until the exemption expires on July 1, 2023.
-(2) This act is exempt from the provisions of RCW 82.32.805 and 82.32.808.
+1. This act contains a temporary tax exemption for restaurants which sell cocktail kits containing mini-bottles of spirits. This temporary tax exemption is intended to avoid administrative costs for the state which are expected to exceed the value of the tax collected during the time until the exemption expires on July 1, 2023.
+
+2. This act is exempt from the provisions of RCW 82.32.805 and 82.32.808.
+

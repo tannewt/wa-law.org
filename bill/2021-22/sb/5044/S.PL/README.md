@@ -2,8 +2,40 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5044-S.PL.xml)
 ## Section 1
-(1) The legislature finds that state resources have been invested to: (a) Identify model standards for cultural competency; (b) incorporate these cultural competency standards into both the standards for effective teaching and the standards of practice for paraeducators; (c) develop cultural competency training programs for school district staff from paraeducators to administrators; and (d) develop a plan for the creation and delivery of cultural competency training for school board directors and superintendents.
-(2) The legislature plans to continue the important work of dismantling institutional racism in public schools and recognizes the importance of increasing equity, diversity, inclusion, antiracism, and cultural competency training throughout the entire public school system by providing training programs for classified staff, certificated instructional staff, certificated administrative staff, superintendents, and school directors that will be provided in an ongoing manner.
+1. The legislature finds that state resources have been invested to: (a) Identify model standards for cultural competency; (b) incorporate these cultural competency standards into both the standards for effective teaching and the standards of practice for paraeducators; (c) develop cultural competency training programs for school district staff from paraeducators to administrators; and (d) develop a plan for the creation and delivery of cultural competency training for school board directors and superintendents.
+
+2. The legislature plans to continue the important work of dismantling institutional racism in public schools and recognizes the importance of increasing equity, diversity, inclusion, antiracism, and cultural competency training throughout the entire public school system by providing training programs for classified staff, certificated instructional staff, certificated administrative staff, superintendents, and school directors that will be provided in an ongoing manner.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.415](/rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md) for context.
+
+The definitions in this section apply throughout sections 3 and 5 through 7 of this act and RCW 28A.410.260 and 28A.415.445 unless the context clearly requires otherwise.
+
+1. "Cultural competency" includes knowledge of student cultural histories and contexts, as well as family norms and values in different cultures; knowledge and skills in accessing community resources and community and parent outreach; and skills in adapting instruction to students' experiences and identifying cultural contexts for individual students.
+
+2. "Diversity" describes the presence of similarities and differences within a given setting, collective, or group based on multiple factors including race and ethnicity, gender identity, sexual orientation, disability status, age, educational status, religion, geography, primary language, culture, and other characteristics and experiences.
+
+3. "Equity" includes developing, strengthening, and supporting procedural and outcome fairness in systems, procedures, and resource distribution mechanisms to create equitable opportunities for all individuals. The term also includes eliminating barriers that prevent the full participation of individuals and groups.
+
+4. "Inclusion" describes intentional efforts and consistent sets of actions to create and sustain a sense of respect, belonging, safety, and attention to individual needs and backgrounds that ensure the full access to engagement and participation in available activities and opportunities.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28A.345](/rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md) for context.
+
+1. The Washington state school directors' association shall:
+
+    a. Develop cultural competency, diversity, equity, and inclusion standards for school director governance;
+
+    b. Collaborate with the Washington professional educator standards board to compare and align the standards for school director governance developed under (a) of this subsection with the standards of practice developed under RCW 28A.410.260. The review must include the educational opportunity gap oversight and accountability committee and may include the office of equity established under RCW 43.06D.020; and
+
+    c. Maintain the final cultural competency, diversity, equity, and inclusion standards for school director governance on its website at no cost to school districts.
+
+2. By November 1, 2030, and every 10 years thereafter, the Washington state school directors' association shall review the definitions in section 2 of this act and the cultural competency, diversity, equity, and inclusion standards for school director governance developed under subsection (1) of this section and report, in compliance with RCW 43.01.036, to the appropriate committees of the legislature with any recommendations for revising the definitions in section 2 of this act.
+
+3. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in section 2 of this act.
+
 
 ## Section 4
 > This section modifies existing section [28A.410.260](/rcw/28A_common_school_provisions/28A.410_certification.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.410_certification.md) for context.
@@ -25,6 +57,34 @@
 4. For  purposes of this section, "cultural **competency," "diversity," "equity," and "inclusion" have the same meaning as in section 2 of this act**.
 
 
+## Section 5
+> This section adds a new section to an existing chapter [28A.345](/rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md) for context.
+
+1. The Washington state school directors' association shall identify or develop and periodically update governance training programs that align with the cultural competency, diversity, equity, and inclusion standards for school director governance developed under section 3 of this act. The governance training programs must also include building government-to-government relationships with federally recognized tribes, multicultural education, and principles of English language acquisition. Governance training programs may be developed in collaboration with other entities.
+
+2. Beginning with the 2022 calendar year, the Washington state school directors' association shall provide a governance training program identified or developed under subsection (1) of this section at the frequency necessary for school directors to meet the requirement in section 7 of this act.
+
+3. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in section 2 of this act.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [28A.410](/rcw/28A_common_school_provisions/28A.410_certification.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.410_certification.md) for context.
+
+1. In establishing policies and requirements for the preparation and certification of educators under RCW 28A.410.210, the Washington professional educator standards board shall require that the programs of courses, requirements, and other activities leading to educator certification incorporate the cultural competency, diversity, equity, and inclusion standards of practice developed under RCW 28A.410.260 and include the foundational elements of cultural competence, focusing on multicultural education and principles of English language acquisition, including information regarding best practices to implement the tribal history and culture curriculum.
+
+2. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in section 2 of this act.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [28A.343](/rcw/28A_common_school_provisions/28A.343_school_director_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.343_school_director_districts.md) for context.
+
+1. Except as provided otherwise by this subsection (1), beginning with the 2022 calendar year, each member of a board of directors shall complete a governance training program once per term of elected office. If the director is appointed or elected to a first term of office, the director must complete a governance training required by this subsection (1) within two years of appointment or certification of the election in which they were elected.
+
+2. Governance training programs completed by directors in accordance with subsection (1) of this section must be aligned with the cultural competency, diversity, equity, and inclusion standards for school director governance developed under section 3 of this act and provided by the Washington state school directors' association.
+
+3. For purposes of this section, "cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in section 2 of this act.
+
+
 ## Section 8
 > This section modifies existing section [28A.415.445](/rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md) for context.
 
@@ -41,6 +101,12 @@
     a. **"Cultural competency," "diversity," "equity," and "inclusion" have the same meaning as in section 2 of this act.**
 
     b. **"School district staff" includes classified staff, certificated instructional staff, certificated administrative staff, and superintendents.**
+
+
+## Section 9
+> This section adds a new section to an existing chapter [28A.710](/rcw/28A_common_school_provisions/28A.710_charter_schools.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.710_charter_schools.md) for context.
+
+Sections 7 and 8 of this act govern school operation and management under RCW 28A.710.040 and apply to charter schools established under chapter 28A.710 RCW.
 
 
 ## Section 10

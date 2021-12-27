@@ -899,3 +899,4 @@ DATE . . . . . . . BUYER . . . . . . . . . BUYER
 
 ## Section 2
 This act applies to real estate transactions entered into on or after January 1, 2022.
+

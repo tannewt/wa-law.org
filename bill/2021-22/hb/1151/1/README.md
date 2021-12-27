@@ -23,6 +23,18 @@ The department shall establish a consolidated emergency assistance program for f
 6. During a state of emergency and pursuant to an order from the governor **under this subsection**, benefits under this program may be extended to individuals and families without children **and may be provided for more than one period of time within any consecutive 12-month period, as established in an order from the governor. Adjustments to the program under this subsection remain in effect until either the state of emergency ceases, the order expires, or the governor issues an order terminating these adjustments, whichever occurs first**.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [74.04](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
+
+1. To assist with family-related expenses, households with children receiving food benefits under this title, who are not simultaneously receiving temporary assistance for needy families, are eligible to receive a one-time cash benefit in the final month of eligibility when the household's food benefits terminate due to exceeding the gross income limit or when the household requests voluntary closure.
+
+2. For households receiving a cash benefit under subsection (1) of this section, the department shall provide transitional food assistance for a period of five months when eligibility for food benefits ceases due to exceeding the gross income limit or when the household requests voluntary closure.
+
+3. If necessary, the department shall extend the household's food benefit certification until the end of the transition period.
+
+4. The amount of the cash benefit issued by the department under subsection (1) of this section must be set in accordance with available funds appropriated for this purpose.
+
+
 ## Section 3
 > This section modifies existing section [74.04.770](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
 
@@ -43,3 +55,4 @@ The department is authorized to establish rateable reductions and grant maximums
 
 ## Section 4
 If specific funding for the purposes of section 2 of this act, referencing section 2 of this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, section 2 of this act is null and void.
+

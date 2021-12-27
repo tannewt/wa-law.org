@@ -4,9 +4,12 @@
 ## Section 1
 This act may be known and cited as the keeping families together act.
 
+
 ## Section 2
-(1) The legislature recognizes that children and families are better served when the state provides support to allow children to be cared for by their loved ones and in their communities. The legislature finds that decades of research show that Black and Indigenous children are still disproportionately removed from their families and communities despite reform efforts.
-(2) For these reasons, it is the intent of the legislature to safely reduce the number of children in foster care and reduce racial bias in the system by applying a standard criteria for determining whether to remove a child from a parent when necessary to prevent imminent physical harm to the child due to child abuse or neglect, including that which results from sexual abuse, sexual exploitation, or a pattern of severe neglect.
+1. The legislature recognizes that children and families are better served when the state provides support to allow children to be cared for by their loved ones and in their communities. The legislature finds that decades of research show that Black and Indigenous children are still disproportionately removed from their families and communities despite reform efforts.
+
+2. For these reasons, it is the intent of the legislature to safely reduce the number of children in foster care and reduce racial bias in the system by applying a standard criteria for determining whether to remove a child from a parent when necessary to prevent imminent physical harm to the child due to child abuse or neglect, including that which results from sexual abuse, sexual exploitation, or a pattern of severe neglect.
+
 
 ## Section 3
 > This section modifies existing section [13.34.040](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
@@ -324,3 +327,4 @@ If after making reasonable efforts to provide notification, child protective ser
 
 ## Section 11
 Where feasible, the department of children, youth, and families shall apply for federal waivers that would reimburse the department for the cost of providing maintenance payments for relatives or other suitable persons caring for a child who have indicated a desire to become a licensed foster parent, provided that the person has received an initial license from the department.
+

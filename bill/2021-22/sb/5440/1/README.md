@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5440.xml)
 ## Section 1
 The legislature finds that the manufacturing industry in Washington is an important source of jobs that pay significantly more than the average state wage. The legislature also finds that even prior to the coronavirus pandemic, the manufacturing industry had lost more than 43,000 jobs during the 21st century, while other leading Washington industries have collectively added hundreds of thousands of jobs. The legislature further finds that the coronavirus pandemic has exposed the detriments of limited manufacturing capacity at times when the people need a reliable supply of basic core products and goods.
+
 It is the intent of the legislature to encourage a resurgence of manufacturing capacity in Washington and the creation of family-wage jobs by reducing the tax burden on the manufacturing industry. It is intended that this act will not only enhance the security of the public by promoting self-sufficiency, but also draw new industries to Washington.
+
 
 ## Section 2
 > This section modifies existing section [82.04.240](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.

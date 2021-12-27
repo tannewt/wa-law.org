@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to make technical changes to replace the term "marijuana" with "cannabis" throughout the Revised Code of Washington. The legislature finds that the use of the term "marijuana" in the United States has discriminatory origins and should be replaced with the more scientifically accurate term "cannabis." This act is technical in nature and no substantive legal changes are intended or implied.
 
+
 ## Section 2
 > This section modifies existing section [9.01.210](/rcw/09_crimes_and_punishments/9.001_general_provisions.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.001_general_provisions.md) for context.
 
@@ -1780,6 +1781,12 @@ Records in the medical **cannabis** authorization database established in RCW 69
 3. Funding for the **cannabis** social equity technical assistance competitive grant program must be provided through the dedicated **cannabis** account under RCW 69.50.540. Additionally, the department may solicit, receive, and expend private contributions to support the grant program.
 
 4. The department may adopt rules to implement this section.
+
+
+## Section 35
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+"Cannabis," except as otherwise provided in this title, has the meaning provided in RCW 69.50.101.
 
 
 ## Section 36

@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to assure all voters in the state that only legitimate votes are counted in Washington state elections.
 
+
 ## Section 2
 > This section modifies existing section [29A.60.185](/rcw/29A_elections/29A.60_canvassing.md). Here is the [modified chapter](rcw/29A_elections/29A.60_canvassing.md) for context.
 
@@ -48,3 +49,4 @@ It is the intent of the legislature to assure all voters in the state that only 
 
 ## Section 3
 Within 30 days of the effective date of this section, the company, as defined in section 2 of this act, must perform an audit of the 2020 general election.
+

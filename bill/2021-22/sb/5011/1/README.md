@@ -65,6 +65,122 @@ As used in this chapter unless the context otherwise requires:
 17. **"Tangible medium" means a writing, copy of a writing, facsimile, or a physical reproduction, each on paper or on other tangible material.**
 
 
+## Section 2
+> This section adds a new section to an existing chapter [64.32](/rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md) for context.
+
+1. Notwithstanding any inconsistent provision in the governing documents, notice to the association of apartment owners, board of directors, or any apartment owner or occupant of an apartment under this chapter shall be in writing and shall be provided to the recipient by personal delivery, public or private mail or delivery service, or by electronic transmission as provided in this section: PROVIDED, That if this chapter requires different or additional notice requirements for particular circumstances, those requirements shall apply.
+
+2. Notice in a tangible medium shall be provided as follows:
+
+    a. Notice to the association of apartment owners or board of directors shall be addressed to the association's registered agent at its registered office, to the association at its principal office shown in its most recent annual report, or to an address provided by the association to the apartment owners.
+
+    b. Notice to an apartment owner or occupant shall be addressed to the apartment address unless the apartment owner has requested, in a writing delivered to the association, that notices be sent to an alternate address.
+
+3. Notice in an electronic transmission shall be provided as follows:
+
+    a. Notice to the association of apartment owners, the board of directors, or apartment owners by electronic transmission is effective only upon those who have consented, in writing, to receive electronically transmitted notices under this chapter and have designated the address, location, or system to which such notices may be electronically transmitted, provided that such notice otherwise complies with any other requirements of this chapter and applicable law.
+
+    b. Notice under this subsection includes any materials that accompany the notice.
+
+    c. Owners who have consented to receipt of electronically transmitted notices may revoke this consent by delivering a revocation to the association of apartment owners in writing.
+
+    d. The consent of any apartment owner is revoked if the association is unable to electronically transmit two consecutive notices and this inability becomes known to the secretary of the association of apartment owners or any other person responsible for giving the notice. The inadvertent failure by the association of apartment owners to treat this inability as a revocation does not invalidate any meeting or other action.
+
+    e. Notice to apartment owners who have consented to receipt of electronically transmitted notices may be provided by posting the notice on an electronic network and delivering to the apartment owner separate notice of the posting, together with comprehensible instructions regarding how to obtain access to the posting on the electronic network.
+
+4. Notice is effective as follows:
+
+    a. Notice provided in a tangible medium is effective as of the date of hand delivery, deposit with the carrier, or when sent by fax.
+
+    b. Notice provided in an electronic transmission is effective as of the date it:
+
+        i. Is electronically transmitted to an address, location, or system designated by the recipient for that purpose; or
+
+        ii. Has been posted on an electronic network and separate notice of the posting has been sent to the recipient containing instructions regarding how to obtain access to the posting on the electronic network.
+
+5. The ineffectiveness of a good faith effort to deliver notice by an authorized means does not invalidate action taken at or without a meeting.
+
+6. This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede 15 U.S.C. Sec. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. Sec. 7003(b).
+
+
+## Section 3
+> This section adds a new section to an existing chapter [64.32](/rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md) for context.
+
+1. Apartment owners may vote at a meeting in person, by absentee ballot pursuant to subsection (3)(d) of this section, or by a proxy pursuant to subsection (5) of this section.
+
+2. When a vote is conducted without a meeting, apartment owners may vote by ballot pursuant to subsection (6) of this section.
+
+3. At a meeting of apartment owners the following requirements apply:
+
+    a. Apartment owners or their proxies who are present in person may vote by voice vote, show of hands, standing, written ballot, or any other method for determining the votes of apartment owners, as designated by the person presiding at the meeting.
+
+    b. If only one of several apartment owners of an apartment is present, that apartment owner is entitled to cast all the votes allocated to that apartment. If more than one of the apartment owners are present, the votes allocated to that apartment may be cast only in accordance with the agreement of a majority in interest of the apartment owners, unless the declaration expressly provides otherwise. There is a majority agreement if any one of the apartment owners casts the votes allocated to the apartment without protest being made promptly to the person presiding over the meeting by any of the other apartment owners of the apartment.
+
+    c. Unless a greater number or fraction of the votes in the association is required under this chapter or the declaration or organizational documents, a majority of the votes cast determines the outcome of any action of the association.
+
+    d. Whenever proposals or board members are to be voted upon at a meeting, an apartment owner may vote by duly executed absentee ballot if:
+
+        i. The name of each candidate and the text of each proposal to be voted upon are set forth in a writing accompanying or contained in the notice of meeting; and
+
+        ii. A ballot is provided by the association for such purpose.
+
+4. When an apartment owner votes by absentee ballot, the association must be able to verify that the ballot is cast by the apartment owner having the right to do so.
+
+5. Except as provided otherwise in the declaration or organizational documents, the following requirements apply with respect to proxy voting:
+
+    a. Votes allocated to an apartment may be cast pursuant to a directed or undirected proxy duly executed by an apartment owner in the same manner as provided in RCW 24.06.110.
+
+    b. If an apartment is owned by more than one person, each apartment owner of the apartment may vote or register protest to the casting of votes by the other apartment owners of the apartment through a duly executed proxy.
+
+    c. An apartment owner may revoke a proxy given pursuant to this section only by actual notice of revocation to the secretary or the person presiding over a meeting of the association or by delivery of a subsequent proxy. The death or disability of an apartment owner does not revoke a proxy given by the apartment owner unless the person presiding over the meeting has actual notice of the death or disability.
+
+    d. A proxy is void if it is not dated or purports to be revocable without notice.
+
+    e. Unless stated otherwise in the proxy, a proxy terminates eleven months after its date of issuance.
+
+6. Unless prohibited or limited by the declaration or organizational documents, an association may conduct a vote without a meeting. In that event, the following requirements apply:
+
+    a. The association must notify the apartment owners that the vote will be taken by ballot.
+
+    b. The notice must state:
+
+        i. The time and date by which a ballot must be delivered to the association to be counted, which may not be fewer than fourteen days after the date of the notice, and which deadline may be extended in accordance with (g) of this subsection;
+
+        ii. The percent of votes necessary to meet the quorum requirements;
+
+        iii. The percent of votes necessary to approve each matter other than election of board members; and
+
+        iv. The time, date, and manner by which apartment owners wishing to deliver information to all apartment owners regarding the subject of the vote may do so.
+
+    c. The association must deliver a ballot to every apartment owner with the notice.
+
+    d. The ballot must set forth each proposed action and provide an opportunity to vote for or against the action.
+
+    e. A ballot cast pursuant to this section may be revoked only by actual notice to the association of revocation. The death or disability of an apartment owner does not revoke a ballot unless the association has actual notice of the death or disability prior to the date set forth in (b)(i) of this subsection.
+
+    f. Approval by ballot pursuant to this subsection is valid only if the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting authorizing the action.
+
+    g. If the association does not receive a sufficient number of votes to constitute a quorum or to approve the proposal by the date and time established for return of ballots, the board of directors may extend the deadline for a reasonable period not to exceed eleven months upon further notice to all members in accordance with (b) of this subsection. In that event, all votes previously cast on the proposal must be counted unless subsequently revoked as provided in this section.
+
+    h. A ballot or revocation is not effective until received by the association.
+
+    i. The association must give notice to apartment owners of any action taken pursuant to this subsection within a reasonable time after the action is taken.
+
+    j. When an action is taken pursuant to this subsection, a record of the action, including the ballots or a report of the persons appointed to tabulate such ballots, must be kept with the minutes of meetings of the association.
+
+7. If the governing documents require that votes on specified matters affecting the common interest community be cast by lessees rather than apartment owners of leased apartments:
+
+    a. This section applies to lessees as if they were apartment owners;
+
+    b. Apartment owners that have leased their apartments to other persons may not cast votes on those specified matters; and
+
+    c. Lessees are entitled to notice of meetings, access to records, and other rights respecting those matters as if they were apartment owners.
+
+8. Apartment owners must also be given notice, in the manner provided in section 2 of this act, of all meetings at which lessees may be entitled to vote.
+
+9. In any vote of the apartment owners, votes allocated to an apartment owned by the association must be cast in the same proportion as the votes cast on the matter by apartment owners other than the association.
+
+
 ## Section 5
 > This section modifies existing section [64.34.332](/rcw/64_real_property_and_conveyances/64.34_condominium_act.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.34_condominium_act.md) for context.
 
@@ -181,6 +297,44 @@ A meeting of the association must be held at least once each year. Special meeti
 8. The provisions of this section may be varied or waived as provided in the declaration if all units of a condominium are restricted to nonresidential use.
 
 
+## Section 8
+> This section adds a new section to an existing chapter [64.34](/rcw/64_real_property_and_conveyances/64.34_condominium_act.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.34_condominium_act.md) for context.
+
+1. Notwithstanding any inconsistent provision in the governing documents, notice to the association, board of directors, or any owner or occupant of a unit under this chapter shall be in writing and shall be provided to the recipient by personal delivery, public or private mail or delivery service, or by electronic transmission as provided in this section: PROVIDED, That if this chapter requires different or additional notice requirements for particular circumstances, those requirements shall apply.
+
+2. Notice in a tangible medium shall be provided as follows:
+
+    a. Notice to the association or board of directors shall be addressed to the association's registered agent at its registered office, to the association at its principal office shown in its most recent annual report, or to an address provided by the association to the unit owners.
+
+    b. Notice to a unit owner or occupant shall be addressed to the unit address unless the unit owner has requested, in a writing delivered to the association, that notices be sent to an alternate address.
+
+3. Notice in an electronic transmission shall be provided as follows:
+
+    a. Notice to the association, the board of directors, or unit owners by electronic transmission is effective only upon those who have consented, in writing, to receive electronically transmitted notices under this chapter and have designated the address, location, or system to which such notices may be electronically transmitted, provided that such notice otherwise complies with any other requirements of this chapter and applicable law.
+
+    b. Notice under this subsection includes any materials that accompany the notice.
+
+    c. Owners who have consented to receipt of electronically transmitted notices may revoke this consent by delivering a revocation to the association in writing.
+
+    d. The consent of any owner is revoked if the association is unable to electronically transmit two consecutive notices and this inability becomes known to the secretary of the association or any other person responsible for giving the notice. The inadvertent failure by the association to treat this inability as a revocation does not invalidate any meeting or other action.
+
+    e. Notice to unit owners who have consented to receipt of electronically transmitted notices may be provided by posting the notice on an electronic network and delivering to the unit owner separate notice of the posting, together with comprehensible instructions regarding how to obtain access to the posting on the electronic network.
+
+4. Notice is effective as follows:
+
+    a. Notice provided in a tangible medium is effective as of the date of hand delivery, deposit with the carrier, or when sent by fax.
+
+    b. Notice provided in an electronic transmission is effective as of the date it:
+
+        i. Is electronically transmitted to an address, location, or system designated by the recipient for that purpose; or
+
+        ii. Has been posted on an electronic network and separate notice of the posting has been sent to the recipient containing instructions regarding how to obtain access to the posting on the electronic network.
+
+5. The ineffectiveness of a good faith effort to deliver notice by an authorized means does not invalidate action taken at or without a meeting.
+
+6. This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede 15 U.S.C. Sec. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. Sec. 7003(b).
+
+
 ## Section 10
 > This section modifies existing section [64.38.035](/rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md) for context.
 
@@ -193,4 +347,120 @@ A meeting of the association must be held at least once each year. Special meeti
 3. The notice of any meeting shall state the time and place of the meeting and the business to be placed on the agenda by the board of directors for a vote by the owners, including the general nature of any proposed amendment to the articles of incorporation, bylaws, any budget or changes in the previously approved budget that result in a change in assessment obligation, and any proposal to remove a director.
 
 4. Except as provided in this subsection, all meetings of the board of directors shall be open for observation by all owners of record and their authorized agents. The board of directors shall keep minutes of all actions taken by the board, which shall be available to all owners. Upon the affirmative vote in open meeting to assemble in closed session, the board of directors may convene in closed executive session to consider personnel matters; consult with legal counsel or consider communications with legal counsel; and discuss likely or pending litigation, matters involving possible violations of the governing documents of the association, and matters involving the possible liability of an owner to the association. The motion shall state specifically the purpose for the closed session. Reference to the motion and the stated purpose for the closed session shall be included in the minutes. The board of directors shall restrict the consideration of matters during the closed portions of meetings only to those purposes specifically exempted and stated in the motion. No motion, or other action adopted, passed, or agreed to in closed session may become effective unless the board of directors, following the closed session, reconvenes in open meeting and votes in the open meeting on such motion, or other action which is reasonably identified. The requirements of this subsection shall not require the disclosure of information in violation of law or which is otherwise exempt from disclosure.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [64.38](/rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md) for context.
+
+1. Notwithstanding any inconsistent provision in the governing documents, notice to the association of apartment owners, board, or any apartment owner or occupant of an apartment under this chapter shall be in writing and shall be provided to the recipient by personal delivery, public or private mail or delivery service, or by electronic transmission as provided in this section: PROVIDED, That if this chapter requires different or additional notice requirements for particular circumstances, those requirements shall apply.
+
+2. Notice in a tangible medium shall be provided as follows:
+
+    a. Notice to the association or board shall be addressed to the association's registered agent at its registered office, to the association at its principal office shown in its most recent annual report, or to an address provided by the association to the apartment owners.
+
+    b. Notice to a lot owner or occupant shall be addressed to the lot address unless the owner has requested, in a writing delivered to the association, that notices be sent to an alternate address.
+
+3. Notice in an electronic transmission shall be provided as follows:
+
+    a. Notice to the association, the board, or lot owners by electronic transmission is effective only upon those who have consented, in writing, to receive electronically transmitted notices under this chapter and have designated the address, location, or system to which such notices may be electronically transmitted, provided that such notice otherwise complies with any other requirements of this chapter and applicable law.
+
+    b. Notice under this subsection includes any materials that accompany the notice.
+
+    c. Owners who have consented to receipt of electronically transmitted notices may revoke this consent by delivering a revocation to the association in writing.
+
+    d. The consent of any lot owner is revoked if the association is unable to electronically transmit two consecutive notices and this inability becomes known to the secretary of the association of apartment owners or any other person responsible for giving the notice. The inadvertent failure by the association of apartment owners to treat this inability as a revocation does not invalidate any meeting or other action.
+
+    e. Notice to lot owners who have consented to receipt of electronically transmitted notices may be provided by posting the notice on an electronic network and delivering to the owner separate notice of the posting, together with comprehensible instructions regarding how to obtain access to the posting on the electronic network.
+
+4. Notice is effective as follows:
+
+    a. Notice provided in a tangible medium is effective as of the date of hand delivery, deposit with the carrier, or when sent by fax.
+
+    b. Notice provided in an electronic transmission is effective as of the date it:
+
+        i. Is electronically transmitted to an address, location, or system designated by the recipient for that purpose; or
+
+        ii. Has been posted on an electronic network and separate notice of the posting has been sent to the recipient containing instructions regarding how to obtain access to the posting on the electronic network.
+
+5. The ineffectiveness of a good faith effort to deliver notice by an authorized means does not invalidate action taken at or without a meeting.
+
+6. This chapter modifies, limits, and supersedes the federal electronic signatures in global and national commerce act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede 15 U.S.C. Sec. 7001(c) or authorize electronic delivery of any of the notices described in 15 U.S.C. Sec. 7003(b).
+
+
+## Section 12
+> This section adds a new section to an existing chapter [64.38](/rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md) for context.
+
+1. Owners may vote at a meeting in person, by absentee ballot pursuant to subsection (3)(d) of this section, or by a proxy pursuant to subsection (5) of this section.
+
+2. When a vote is conducted without a meeting, owners may vote by ballot pursuant to subsection (6) of this section.
+
+3. At a meeting of owners the following requirements apply:
+
+    a. Owners or their proxies who are present in person may vote by voice vote, show of hands, standing, written ballot, or any other method for determining the votes of owners, as designated by the person presiding at the meeting.
+
+    b. If only one of several owners of a lot is present, that lot owner is entitled to cast all the votes allocated to that lot. If more than one of the lot owners are present, the votes allocated to that lot may be cast only in accordance with the agreement of a majority in interest of the lot owners, unless the declaration expressly provides otherwise. There is a majority agreement if any one of the lot owners casts the votes allocated to the lot without protest being made promptly to the person presiding over the meeting by any of the other lot owners of the lot.
+
+    c. Unless a greater number or fraction of the votes in the association is required under this chapter or the declaration or organizational documents, a majority of the votes cast determines the outcome of any action of the association.
+
+    d. Whenever proposals or board members are to be voted upon at a meeting, an owner may vote by duly executed absentee ballot if:
+
+        i. The name of each candidate and the text of each proposal to be voted upon are set forth in a writing accompanying or contained in the notice of meeting; and
+
+        ii. A ballot is provided by the association for such purpose.
+
+4. When an owner votes by absentee ballot, the association must be able to verify that the ballot is cast by the owner having the right to do so.
+
+5. Except as provided otherwise in the declaration or organizational documents, the following requirements apply with respect to proxy voting:
+
+    a. Votes allocated to a lot may be cast pursuant to a directed or undirected proxy duly executed by a lot owner in the same manner as provided in RCW 24.06.110.
+
+    b. If a lot is owned by more than one person, each lot owner of the lot may vote or register protest to the casting of votes by the other lot owners of the lot through a duly executed proxy.
+
+    c. An owner may revoke a proxy given pursuant to this section only by actual notice of revocation to the secretary or the person presiding over a meeting of the association or by delivery of a subsequent proxy. The death or disability of an owner does not revoke a proxy given by the owner unless the person presiding over the meeting has actual notice of the death or disability.
+
+    d. A proxy is void if it is not dated or purports to be revocable without notice.
+
+    e. Unless stated otherwise in the proxy, a proxy terminates eleven months after its date of issuance.
+
+6. Unless prohibited or limited by the declaration or organizational documents, an association may conduct a vote without a meeting. In that event, the following requirements apply:
+
+    a. The association must notify the owners that the vote will be taken by ballot.
+
+    b. The notice must state:
+
+        i. The time and date by which a ballot must be delivered to the association to be counted, which may not be fewer than fourteen days after the date of the notice, and which deadline may be extended in accordance with (g) of this subsection;
+
+        ii. The percent of votes necessary to meet the quorum requirements;
+
+        iii. The percent of votes necessary to approve each matter other than election of board members; and
+
+        iv. The time, date, and manner by which owners wishing to deliver information to all owners regarding the subject of the vote may do so.
+
+    c. The association must deliver a ballot to every owner with the notice.
+
+    d. The ballot must set forth each proposed action and provide an opportunity to vote for or against the action.
+
+    e. A ballot cast pursuant to this section may be revoked only by actual notice to the association of revocation. The death or disability of an owner does not revoke a ballot unless the association has actual notice of the death or disability prior to the date set forth in (b)(i) of this subsection.
+
+    f. Approval by ballot pursuant to this subsection is valid only if the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting authorizing the action.
+
+    g. If the association does not receive a sufficient number of votes to constitute a quorum or to approve the proposal by the date and time established for return of ballots, the board may extend the deadline for a reasonable period not to exceed eleven months upon further notice to all members in accordance with (b) of this subsection. In that event, all votes previously cast on the proposal must be counted unless subsequently revoked as provided in this section.
+
+    h. A ballot or revocation is not effective until received by the association.
+
+    i. The association must give notice to owners of any action taken pursuant to this subsection within a reasonable time after the action is taken.
+
+    j. When an action is taken pursuant to this subsection, a record of the action, including the ballots or a report of the persons appointed to tabulate such ballots, must be kept with the minutes of meetings of the association.
+
+7. If the governing documents require that votes on specified matters affecting the common interest community be cast by lessees rather than owners of leased lots:
+
+    a. This section applies to lessees as if they were owners;
+
+    b. Owners that have leased their lots to other persons may not cast votes on those specified matters; and
+
+    c. Lessees are entitled to notice of meetings, access to records, and other rights respecting those matters as if they were owners.
+
+8. Owners must also be given notice, in the manner provided in section 11 of this act, of all meetings at which lessees may be entitled to vote.
+
+9. In any vote of the lot owners, votes allocated to a lot owned by the association must be cast in the same proportion as the votes cast on the matter by lot owners other than the association.
 

@@ -407,6 +407,26 @@ The term of the easement is thirty years or a period of less than thirty years i
 5. A final decision on applications for an easement must be made within **sixty** days after the department receives the completed application and after all applicable regulatory permits for the aquatic easement have been acquired.  Upon request of the applicant, the department may reach a decision on an application within **thirty** days and charge an additional fee for an expedited processing. The fee for an expedited processing is ten percent of the combined total of the easement charge and administrative costs.
 
 
+## Section 504
+> This section adds a new section to an existing chapter [79A.05](/rcw/79A_public_recreational_lands/79A.05_parks_and_recreation_commission.md). Here is the [modified chapter](rcw/79A_public_recreational_lands/79A.05_parks_and_recreation_commission.md) for context.
+
+1. Until July 1, 2030, the charge for the term of an easement granted for local public utility lines owned by a nongovernmental entity must be determined as follows and must be paid in advance upon grant of the easement:
+
+    a. No more than five thousand dollars for individual easement crossings that are no longer than one mile in length;
+
+    b. No more than twelve thousand five hundred dollars for individual easement crossings that are more than one but less than five miles in length; or
+
+    c. No more than twenty thousand dollars for individual easement crossings that are five miles or more in length.
+
+2. The term of the easement is thirty years or a period of less than thirty years if requested by the person or entity seeking the easement.
+
+3. In addition to the charge for the easement under subsection (1) of this section, the commission may recover its administrative costs incurred in receiving an application for the easement, approving the easement, and reviewing plans for and construction of the public utility lines. For the purposes of this subsection, "administrative costs" is equivalent to twenty percent of the fee for the easement as determined under subsection (1) of this section. When multiple public utility lines are owned by the same entity and are authorized under the same easement, the administrative fee for the easement must be equal to twenty percent of the easement fee for the single longest public utility line. Administrative costs recovered by the commission must be deposited into the state parks renewal and stewardship account.
+
+4. Applicants under this section providing a residence with an individual service connection for electrical, natural gas, cable television, or telecommunications service are not required to pay the charge for the easement under subsection (1) of this section but shall pay administrative costs under subsection (3) of this section.
+
+5. A final decision on applications for an easement must be made within sixty days after the commission receives the completed application and after all applicable regulatory permits for the easement have been acquired. Upon request of the applicant, the commission may reach a decision on an application within thirty days and charge an additional fee for an expedited processing. The fee for an expedited processing is ten percent of the combined total of the easement charge and administrative costs.
+
+
 ## Section 601
 > This section modifies existing section [54.16.300](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 
@@ -520,8 +540,45 @@ A public utility district by resolution may combine two or more of its separate 
 
 
 ## Section 701
-(1) This section is the tax preference performance statement for the tax preference in section 702 of this act. This performance statement is intended only to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes the tax preference as intended to expand internet service in unserved areas of Washington, as indicated in RCW 82.32.808(2)(f).
-(3) It is the legislature's specific public policy objective to expand access to the internet in unserved areas of Washington and thereby provide more access to educational opportunities.
-(4) If a review finds that the number of individuals receiving internet access in unserved areas of Washington has increased by ten percent in ten years compared to the number of individuals receiving such access on the effective date of this section, then the legislature intends to extend the expiration date of the tax preference.
-(5) In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to data provided by the governor's statewide broadband office, the utilities and transportation commission, the public works board, the community economic revitalization board, the national telecommunications and information administration, and the federal communications commission.
+1. This section is the tax preference performance statement for the tax preference in section 702 of this act. This performance statement is intended only to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes the tax preference as intended to expand internet service in unserved areas of Washington, as indicated in RCW 82.32.808(2)(f).
+
+3. It is the legislature's specific public policy objective to expand access to the internet in unserved areas of Washington and thereby provide more access to educational opportunities.
+
+4. If a review finds that the number of individuals receiving internet access in unserved areas of Washington has increased by ten percent in ten years compared to the number of individuals receiving such access on the effective date of this section, then the legislature intends to extend the expiration date of the tax preference.
+
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to data provided by the governor's statewide broadband office, the utilities and transportation commission, the public works board, the community economic revitalization board, the national telecommunications and information administration, and the federal communications commission.
+
+
+## Section 702
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Subject to the limitations in this section, a credit is allowed against the taxes imposed under this chapter for the capital costs associated with providing broadband service to unserved areas using broadband infrastructure, including taxes paid under chapters 82.08 and 82.12 RCW.
+
+2. A person claiming the credit for taxes paid under chapters 82.08 and 82.12 RCW on the capital costs associated with providing broadband service to unserved areas using broadband infrastructure must have paid the taxes under chapters 82.08 and 82.12 RCW in order to claim the credit under this section.
+
+3. The credit under this section is equal to fifty percent of the capital costs, including associated sales and use taxes paid, to be divided equally over fifteen years.
+
+4. Credits earned under this section may be claimed against taxes due or paid for the calendar year in which the tax contribution is made. The amount of credit claimed for a reporting period may not exceed the tax otherwise due under this chapter for that reporting period and is limited to five million dollars total per person claiming a credit.
+
+5. Any amount of tax credit allowable under this section not claimed by the person in any calendar year may be carried over and claimed against the person's tax liability for the next succeeding calendar year. Any credit remaining unused in the next succeeding calendar year may be carried forward and claimed against the person's tax liability for the second succeeding calendar years and may be carried forward and claimed against the person's tax liability for the next thirteen succeeding calendar years from the year the credit was first claimed, but may not be carried over for any calendar year thereafter.
+
+6. Credits are available on a first-in-time basis. The department must disallow any credits, or portions thereof, that would cause the total amount of credits claimed under this section to exceed fifty million dollars. If this limitation is reached, the department must provide notice on its web site that the statewide limit has been met. In addition, the department must provide written notice to any person who has claimed tax credits in excess of the limitation in this subsection. The notice must indicate the amount of tax due and provide that the tax be paid within thirty days from the date of the notice. The department may not assess penalties and interest as provided in chapter 82.32 RCW on the amount due in the initial notice if the amount due is paid by the due date specified in the notice, or any extension thereof.
+
+7. To claim a credit under this section, a person must electronically file with the department all returns, forms, and any other information required by the department in an electronic format as provided or approved by the department. Any return, form, or information required to be filed in an electronic format under this section is not filed until received by the department in an electronic format. As used in this subsection, "returns" has the same meaning as "return" in RCW 82.32.050.
+
+8. No application is necessary for the tax credit. The person must keep records necessary for the department to verify eligibility under this section.
+
+9. A person receiving a credit under this section must provide to the department, upon request, such information needed to verify eligibility for credit under this section, including information regarding capital costs that are claimed for credits under this section.
+
+10. The department may not allow any credit under this section before July 1, 2021.
+
+11. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Broadband" or "broadband service" has the same meaning as provided in RCW 43.330.530.
+
+    b. "Broadband infrastructure" has the same meaning as provided in RCW 43.330.530.
+
+    c. "Unserved areas" has the same meaning as provided in RCW 43.330.530.
+

@@ -284,3 +284,9 @@ Because you have filed this voluntary waiver of firearm rights, effective immedi
 
 3. The forms must be made available on the administrator for the courts website, at all county clerk offices, and must also be made widely available at firearm and ammunition dealers and health care provider locations.
 
+
+## Section 6
+> This section adds a new section to an existing chapter [9.41](/rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md) for context.
+
+Mental health professionals and substance use disorder professionals as defined in RCW 9.41.010 are encouraged to discuss the voluntary waiver of firearm rights with their patients if the mental health professional or substance use disorder professional reasonably believes that a discussion will avoid or minimize an imminent danger to the health or safety of the individual or any other individual; however, there is no obligation to do so.
+

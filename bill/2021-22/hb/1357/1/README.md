@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that service and overseas voters have the right to vote for their elected officials. To effectuate this right, service and overseas voters must have access to the same ballot materials as voters present in the state with sufficient time to thoughtfully consider candidates and issues before casting a ballot. Accordingly, the legislature intends to ensure that voters' pamphlets are distributed to service and overseas voters at the same time as the ballot.
 
+
 ## Section 2
 > This section modifies existing section [29A.32.010](/rcw/29A_elections/29A.32_voters_pamphlets.md). Here is the [modified chapter](rcw/29A_elections/29A.32_voters_pamphlets.md) for context.
 
@@ -32,3 +33,4 @@ Fiscal impact statements must be available online from the secretary of state's 
 
 ## Section 5
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

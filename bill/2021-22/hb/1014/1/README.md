@@ -1,6 +1,16 @@
 # House Bill 1014
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1014.xml)
+## Section 1
+> This section adds a new section to an existing chapter [29A.52](/rcw/29A_elections/29A.52_primaries_and_elections.md). Here is the [modified chapter](rcw/29A_elections/29A.52_primaries_and_elections.md) for context.
+
+1. The general election for governor must be conducted in accordance with this section.
+
+2. After each federal decennial census, the redistricting commission must assign each county a number of electoral votes for the election for governor. The commission must use the "method of equal proportions" that is used to apportion seats for the federal house of representatives under 2 U.S.C. Sec. 2b. Each county must receive at least one electoral vote. There must be a total of 147 electoral votes allocated amongst the counties.
+
+3. Each county's electoral votes are assigned to the candidate for governor who received the most votes in that county. After receiving vote totals as provided in this title, the secretary of state shall certify as the winner of the election the candidate who receives the most electoral votes statewide. If two or more candidates tie for the most electoral votes, whomever of those candidates who has received the most votes statewide in the popular vote shall be certified as the winner.
+
+
 ## Section 2
 > This section modifies existing section [29A.64.021](/rcw/29A_elections/29A.64_recounts.md). Here is the [modified chapter](rcw/29A_elections/29A.64_recounts.md) for context.
 

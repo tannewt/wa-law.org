@@ -2,9 +2,12 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5271-S.xml)
 ## Section 1
-(1) The legislature finds that the COVID-19 pandemic, a public health crisis, has placed an oversized burden on Washington's health care providers and health care facilities, as they care for communities and families.
-(2) The legislature further finds that during the pandemic, the law should accurately reflect the realities of the challenging practice conditions. It is fair and appropriate to give special consideration to the challenges arising during the pandemic, such as evolving and sometimes conflicting direction from health officials regarding treatment for COVID-19 infected patients, supply chain shortages of personal protective equipment and testing supplies, and a proclamation on nonurgent procedures resulting in delayed or missed health screenings and diagnoses.
-(3) The legislature intends, during the period of the declared state of emergency due to the COVID-19 pandemic, to amend the current standard of care law governing health care providers to give special consideration to additional relevant factors.
+1. The legislature finds that the COVID-19 pandemic, a public health crisis, has placed an oversized burden on Washington's health care providers and health care facilities, as they care for communities and families.
+
+2. The legislature further finds that during the pandemic, the law should accurately reflect the realities of the challenging practice conditions. It is fair and appropriate to give special consideration to the challenges arising during the pandemic, such as evolving and sometimes conflicting direction from health officials regarding treatment for COVID-19 infected patients, supply chain shortages of personal protective equipment and testing supplies, and a proclamation on nonurgent procedures resulting in delayed or missed health screenings and diagnoses.
+
+3. The legislature intends, during the period of the declared state of emergency due to the COVID-19 pandemic, to amend the current standard of care law governing health care providers to give special consideration to additional relevant factors.
+
 
 ## Section 2
 > This section modifies existing section [7.70.040](/rcw/07_special_proceedings_and_actions/7.070_actions_for_injuries_resulting_from_health_care.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.070_actions_for_injuries_resulting_from_health_care.md) for context.

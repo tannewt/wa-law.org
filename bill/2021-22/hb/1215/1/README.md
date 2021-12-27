@@ -2,12 +2,120 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1215.xml)
 ## Section 1
-(1) The legislature recognizes that parents are uniquely and exclusively suited to making decisions about their children, including education decisions. It is imperative that Washington state empowers and supports parents and students to choose the educational environment that best suits their needs.
-(2) The legislature finds that the state has authorized many education options including traditional public schools, charter schools, home-based instruction, and private schools. Parents with means can enroll their children in private schools, forego an income to provide home-based instruction, or move and enroll their children in better school districts. At the same time, there are many parents who do not have the means to choose the option that is best for their children. This increases inequity in the education system with the parents and children with the least means, but the most need, trapped in a failing school or a school that does not otherwise meet their needs.
-(3) The legislature recognizes that the paramount duty of the state is to make ample provision for the education of all children residing within its borders, without distinction or preference on account of race, color, economic status, or sex.
-(4) The legislature realizes the need to provide for in-person or hybrid schooling models for optimum learning for students, especially when public schools are not offering these options, for example during the COVID-19 pandemic.
-(5) The legislature finds that with the recent United States supreme court decision in Espinoza v. Montana Department of Revenue, 140 S.Ct. 2246 (2020), now is the time to remedy years of discrimination against students who are not in the public school system.
-(6) The legislature, therefore, intends to establish a voucher program that addresses educational inequities for students both inside and outside the public school system. The program will empower parents to choose the educational environment that best suits their children's unique needs regardless of income level or zip code by providing K-12 education scholarships.
+1. The legislature recognizes that parents are uniquely and exclusively suited to making decisions about their children, including education decisions. It is imperative that Washington state empowers and supports parents and students to choose the educational environment that best suits their needs.
+
+2. The legislature finds that the state has authorized many education options including traditional public schools, charter schools, home-based instruction, and private schools. Parents with means can enroll their children in private schools, forego an income to provide home-based instruction, or move and enroll their children in better school districts. At the same time, there are many parents who do not have the means to choose the option that is best for their children. This increases inequity in the education system with the parents and children with the least means, but the most need, trapped in a failing school or a school that does not otherwise meet their needs.
+
+3. The legislature recognizes that the paramount duty of the state is to make ample provision for the education of all children residing within its borders, without distinction or preference on account of race, color, economic status, or sex.
+
+4. The legislature realizes the need to provide for in-person or hybrid schooling models for optimum learning for students, especially when public schools are not offering these options, for example during the COVID-19 pandemic.
+
+5. The legislature finds that with the recent United States supreme court decision in Espinoza v. Montana Department of Revenue, 140 S.Ct. 2246 (2020), now is the time to remedy years of discrimination against students who are not in the public school system.
+
+6. The legislature, therefore, intends to establish a voucher program that addresses educational inequities for students both inside and outside the public school system. The program will empower parents to choose the educational environment that best suits their children's unique needs regardless of income level or zip code by providing K-12 education scholarships.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.150](/rcw/28A_common_school_provisions/28A.150_general_provisions.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.150_general_provisions.md) for context.
+
+1. The K-12 education scholarship program is established. The goal of the voucher program is to empower parents to choose an educational environment and program that will prepare their students for postsecondary education, gainful employment or entrepreneurship, and a successful future, regardless of the parents' income level or zip code, by providing funding that includes only those minimum state controls necessary to ensure the proper administration of the program.
+
+2. The council must administer the program in accordance with this section and section 3 of this act.
+
+3. To apply for the program, the parent of an eligible student must submit an application to the council in the manner and by the deadline set by the council.
+
+4. The council must award 130,000 scholarships of $7,000 each as follows: (a) 25 percent of the scholarships must be awarded to eligible students in special populations, for example homeless, foster students, students from low-income households, and students receiving special education services; and (b) the remaining scholarships must be geographically distributed to students across the state regardless of race, color, economic status, or sex.
+
+5. To participate in the program and receive a scholarship award, the parent of an eligible student must sign, and submit to the council, an agreement that obligates the parent to:
+
+    a. Enroll the participating student in a private school or comply with the home-based instruction requirements of RCW 28A.225.010 and 28A.200.010;
+
+    b. [Empty]
+
+        i. Use the scholarship award only for the participating student and only for the following purposes:
+
+(A) Tuition, fees, or both at a private school;
+
+(B) Textbooks required by a private school;
+
+(C) Tutoring and other services with a direct nexus to academics;
+
+(D) Curricula and other materials necessary to provide home-based instruction;
+
+(E) Tuition, fees, or both for a private online learning program;
+
+(F) Fees for nationally standardized norm-referenced achievement tests, advanced placement examinations, and any examinations related to college or university admission;
+
+(G) Uniforms required to attend a private school; and
+
+(H) Costs for annual standardized testing or the academic progress assessment required under RCW 28A.200.010 for participating students receiving home-based instruction.
+
+        ii. Not use the scholarship award for the following purposes:
+
+(A) Computer hardware or other technological devices;
+
+(B) Transportation of the student; or
+
+(C) Consumable educational supplies, including paper, and pens or markers; and
+
+    c. Withdraw from or not enroll in the public school the participating student attends or is eligible to attend, and release the public school and, if applicable, the school district, from all obligations to provide an education or education services to the participating student.
+
+6. Agreements signed and submitted to the council automatically renew annually unless:
+
+    a. The parent of a participating student submits a request in writing to the council to withdraw from the program or fails to comply with the provisions of the agreement. The termination of an agreement due to a failure to comply with its provisions must be based on a willful disregard of program requirements and may not be based upon a good-faith error by a parent;
+
+    b. The participating student graduates from high school or earns a high school equivalency certificate under RCW 28B.50.536; or
+
+    c. The participating student is ineligible to attend a public school in the state.
+
+7. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Agreement" means the contract developed by the council and signed by the parent of an eligible student that is consistent with the requirements of this section and section 3 of this act and establishes the obligations of the parent and the council.
+
+    b. "Council" means the student achievement council created under chapter 28B.77 RCW.
+
+    c. "Eligible student" means a person residing in Washington who is at least five years of age and less than 21 years of age, unless the person is ineligible to attend a public school in the state.
+
+    d. "Home-based instruction" has the same meaning as in RCW 28A.225.010.
+
+    e. "Parent" means a parent, guardian, or other person or entity having legal custody of a child.
+
+    f. "Participating student" means a student whose parent has submitted a signed agreement to the council and been awarded scholarship funds.
+
+    g. "Private school" means a school approved under chapter 28A.195 RCW.
+
+    h. "Program" means the K-12 education scholarship program.
+
+    i. "Public school" has the same meaning as in RCW 28A.150.010.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28B.77](/rcw/28B_higher_education/28B.077_student_achievement_council.md). Here is the [modified chapter](rcw/28B_higher_education/28B.077_student_achievement_council.md) for context.
+
+1. The council must administer the K-12 education scholarship program established under section 2 of this act in accordance with this section and section 2 of this act.
+
+2. In administering the K-12 education scholarship program the council must:
+
+    a. Create and implement an application process that includes a standard application form and annual deadlines;
+
+    b. Review and prioritize applications;
+
+    c. Notify applicants of their award status before July 1st of the application school year;
+
+    d. Develop an agreement and process to receive signed agreements;
+
+    e. Develop and implement a method of awarding scholarship funds to the parent of a participating student; and
+
+    f. Create and implement a process to automatically renew the agreement of the parent of a participating student if the requirements in section 2 of this act are met.
+
+3. The council may not add additional eligibility, agreement, or other requirements that impose barriers or burdens to parents applying for the K-12 education scholarship program.
+
+4. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Agreement" has the same meaning as in section 2 of this act.
+
+    b. "Participating student" has the same meaning as in section 2 of this act.
+
 
 ## Section 4
 > This section modifies existing section [83.100.230](/rcw/83_estate_taxation/83.100_estate_and_transfer_tax_act.md). Here is the [modified chapter](rcw/83_estate_taxation/83.100_estate_and_transfer_tax_act.md) for context.

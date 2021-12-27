@@ -84,12 +84,18 @@
 
 
 ## Section 3
-(1) There is levied and collected a tax on the distribution and sale of low-proof beverages equal to 99 cents per gallon.
-(a) A distillery or craft distillery that self-distributes low-proof beverages under the terms of its license shall pay the tax imposed by this section on sales to retailers.
-(b) A distillery or craft distillery that sells low-proof beverages directly to consumers under the terms of its license shall pay the tax imposed by this section on those sales.
-(2) The taxes on spirits in RCW 82.08.150 (1) through (7) do not apply to the sale of low-proof beverages.
-(3) The spirits retail license issuance fee in RCW 66.24.630(4) does not apply to sales of low-proof beverages.
-(4) For the purposes of this section, "low-proof beverage" and "spirits" have the same meaning as provided in chapter 66.04 RCW.
+1. There is levied and collected a tax on the distribution and sale of low-proof beverages equal to 99 cents per gallon.
+
+    a. A distillery or craft distillery that self-distributes low-proof beverages under the terms of its license shall pay the tax imposed by this section on sales to retailers.
+
+    b. A distillery or craft distillery that sells low-proof beverages directly to consumers under the terms of its license shall pay the tax imposed by this section on those sales.
+
+2. The taxes on spirits in RCW 82.08.150 (1) through (7) do not apply to the sale of low-proof beverages.
+
+3. The spirits retail license issuance fee in RCW 66.24.630(4) does not apply to sales of low-proof beverages.
+
+4. For the purposes of this section, "low-proof beverage" and "spirits" have the same meaning as provided in chapter 66.04 RCW.
+
 
 ## Section 4
 > This section modifies existing section [82.08.150](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.

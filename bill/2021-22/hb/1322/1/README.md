@@ -155,4 +155,5 @@ subsection, charge** a fee for each decal covering the actual cost of the decal*
 
 
 ## Section 8
-(2) This section expires June 30, 2024.
+2. This section expires June 30, 2024.
+

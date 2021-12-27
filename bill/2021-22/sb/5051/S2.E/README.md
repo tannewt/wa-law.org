@@ -607,5 +607,18 @@ The provisions of this chapter apply to:
 2. Each agency, and each employee and position therein, not expressly excluded or exempted under the provisions of RCW 41.06.070 **or otherwise excluded or exempted in this chapter**.
 
 
+## Section 25
+> This section adds a new section to an existing chapter [41.06](/rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md) for context.
+
+In addition to the exemptions set forth in RCW 41.06.070, the provisions of this chapter do not apply in the Washington state criminal justice training commission to two confidential secretaries involved in managing the confidential records under RCW 43.101.135 and 43.101.400.
+
+
 ## Section 26
 No later than December 1, 2022, the criminal justice training commission shall submit a written report to the governor and the appropriate committees of the legislature detailing progress of implementation of this act.
+
+
+## Section 28
+> This section adds a new section to an existing chapter [10.93](/rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md) for context.
+
+A general authority Washington law enforcement agency or limited authority Washington law enforcement agency is prohibited from considering the application for any office, place, position, or employment within the agency if the applicant has not provided the agency a document, voluntarily and knowingly signed by the applicant, that authorizes each prior employer to release any and all information relating to the applicant's employment, and further releasing and holding harmless the agency and each prior employer from any and all liability that may potentially result from the release and use of such information provided.
+

@@ -1,6 +1,50 @@
 # House Bill 1095
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1095.xml)
+## Section 1
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. This chapter does not apply to any person with respect to the value proceeding or accruing from a qualifying grant received on or after February 29, 2020.
+
+2. For purposes of this section, "qualifying grant" means an amount received, or relief from debt or other legal obligation received, that:
+
+    a. Is received under a government-funded program either directly from a government entity, or through a nongovernmental third-party entity authorized by a government entity to distribute the program funds, or, in the case of relief from debt or other legal obligation, is received from a private entity under circumstances where, in exchange for providing the relief, the private entity receives some form of direct financial benefit from a government entity;
+
+    b. Is provided to address the impacts of conditions giving rise to an official proclamation of a national emergency by the president of the United States or an official proclamation of a state of emergency by the governor of this state; and
+
+    c. Is not an amount received:
+
+        i. Under a contract, including a sole source contract, for the acquisition of specific goods or services, or both, by purchase, lease, or barter, that was solicited and established in accordance with procurement laws or regulations; or
+
+        ii. For manufacturing, extracting, or making sales of products, when the amount received is determined based on the quantity of products manufactured, extracted, or sold. For purposes of this subsection (2)(c)(ii), "products" has the same meaning as in RCW 82.32.023.
+
+3. For purposes of a grant awarded to address the impacts of conditions giving rise to a national emergency or state of emergency, the exemption under this section applies only if the legislation authorizing the grant or the associated legislative history, public records created by the grantor, or the terms of the underlying grant agreement between the grantor and grantee, clearly indicate that the grant was established to address the impacts of conditions giving rise to a national emergency or state of emergency.
+
+4. For purposes of this section, "government" means any national, tribal, state, or local government.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [82.16](/rcw/82_excise_taxes/82.16_public_utility_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.16_public_utility_tax.md) for context.
+
+1. This chapter does not apply to any person with respect to the value proceeding or accruing from a qualifying grant received on or after February 29, 2020.
+
+2. For purposes of this section, "qualifying grant" means an amount received, or relief from debt or other legal obligation received, that:
+
+    a. Is received under a government-funded program either directly from a government entity, or through a nongovernmental third-party entity authorized by a government entity to distribute the program funds, or, in the case of relief from debt or other legal obligation, is received from a private entity under circumstances where, in exchange for providing the relief, the private entity receives some form of direct financial benefit from a government entity;
+
+    b. Is provided to address the impacts of conditions giving rise to an official proclamation of a national emergency by the president of the United States or an official proclamation of a state of emergency by the governor of this state; and
+
+    c. Is not an amount received:
+
+        i. Under a contract, including a sole source contract, for the acquisition of specific goods or services, or both, by purchase, lease, or barter, that was solicited and established in accordance with procurement laws or regulations; or
+
+        ii. When the amount received or accrued during a tax reporting period is determined based on the amount of business actually conducted during that tax reporting period, such as the quantity, volume, or weight of products sold or transported, or the number of passengers transported. For purposes of this subsection (2)(c)(ii), "products" has the same meaning as in RCW 82.32.023 and includes electrical energy, water, natural gas, manufactured gas, and transporting persons or property.
+
+3. For purposes of a grant awarded to address the impacts of conditions giving rise to a national emergency or state of emergency, the exemption under this section applies only if the legislation authorizing the grant or the associated legislative history, public records created by the grantor, or the terms of the underlying grant agreement between the grantor and grantee, clearly indicate that the grant was established to address the impacts of conditions giving rise to a national emergency or state of emergency.
+
+4. For purposes of this section, "government" means any national, tribal, state, or local government.
+
+
 ## Section 3
 > This section modifies existing section [82.04.050](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
 
@@ -215,5 +259,26 @@
         iv. **Landscape maintenance and horticultural services.**
 
 
+## Section 4
+> This section adds a new section to an existing chapter [82.08](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
+
+1. The tax levied by RCW 82.08.020 does not apply to a grantee's receipt of a qualifying grant that is exempt from business and occupation tax under section 1 of this act.
+
+2. Nothing in this section may be construed to:
+
+    a. Imply that the tax levied by RCW 82.08.020 applies to any circumstance not described in subsection (1) of this section; or
+
+    b. Provide an exemption from the tax levied by RCW 82.08.020 for the grantee's use of a qualifying grant to acquire products in a transaction meeting the definition of "retail sale" in RCW 82.04.050.
+
+3. For purposes of this section, the following definitions apply:
+
+    a. "Grantee" means the recipient of a qualifying grant.
+
+    b. "Product" means the same as in RCW 82.32.023.
+
+    c. "Qualifying grant" means the same as in section 1 of this act.
+
+
 ## Section 7
 This act applies both prospectively and retroactively to February 29, 2020.
+

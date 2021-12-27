@@ -1,6 +1,106 @@
 # Substitute House Bill 1411 - Session Law Chapter 219 Year 2021 as Recommended by Health Care & Wellness
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1411-S.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [43.20A](/rcw/43_state_government—executive/43.020A_department_of_social_and_health_services.md). Here is the [modified chapter](rcw/43_state_government—executive/43.020A_department_of_social_and_health_services.md) for context.
+
+1. Where the department is required to screen a long-term care worker, contracted provider, or licensee through a background check to determine whether the person has a history that would disqualify the person from having unsupervised access to, working with, or providing supervision, care, or treatment to vulnerable adults or children, the department may not automatically disqualify a person on the basis of a criminal record that includes a conviction of any of the following crimes once the specified amount of time has passed for the particular crime:
+
+    a. Selling marijuana to a person under RCW 69.50.401 after three years or more have passed between the most recent conviction and the date the background check is processed;
+
+    b. Theft in the first degree under RCW 9A.56.030 after 10 years or more have passed between the most recent conviction and the date the background check is processed;
+
+    c. Robbery in the second degree under RCW 9A.56.210 after five years or more have passed between the most recent conviction and the date the background check is processed;
+
+    d. Extortion in the second degree under RCW 9A.56.130 after five years or more have passed between the most recent conviction and the date the background check is processed;
+
+    e. Assault in the second degree under RCW 9A.36.021 after five years or more have passed between the most recent conviction and the date the background check is processed; and
+
+    f. Assault in the third degree under RCW 9A.36.031 after five years or more have passed between the most recent conviction and the date the background check is processed.
+
+2. The provisions of subsection (1) of this section do not apply where the department is performing background checks for the department of children, youth, and families.
+
+3. The provisions of subsection (1) of this section do not apply to department employees or applicants for department positions except for positions in the state-operated community residential program.
+
+4. Notwithstanding subsection (1) of this section, a long-term care worker, contracted provider, or licensee may not provide, or be paid to provide, care to children or vulnerable adults under the medicare or medicaid programs if the worker is excluded from participating in those programs by federal law.
+
+5. The department, a contracted provider, or a licensee, when conducting a character, competence, and suitability review for the purpose of hiring, licensing, certifying, contracting with, permitting, or continuing to permit a person to be employed in any position caring for or having unsupervised access to vulnerable adults or children, may, in its sole discretion, determine whether to consider any of the convictions identified in subsection (1) of this section. If the department or a consumer directed employer as defined in RCW 74.39A.009 determines that an individual with any of the convictions identified in subsection (1) of this section is qualified to provide services to a department client as an individual provider as defined in RCW 74.39A.240, the department or the consumer directed employer must provide the client, and their guardian if any, with the results of the state background check for their determination of character, suitability, and competence of the individual before the individual begins providing services. The department, a contracted provider, or a licensee, when conducting a character, competence, and suitability review for the purpose of hiring, licensing, certifying, contracting with, permitting, or continuing to permit a person to be employed in any position caring for or having unsupervised access to vulnerable adults or children, has a rebuttable presumption that its exercise of discretion under this section or the refusal to exercise such discretion was appropriate. This subsection does not create a duty for the department to conduct a character, competence, and suitability review.
+
+6. For the purposes of the section:
+
+    a. "Contracted provider" means a provider, and its employees, contracted with the department or an area agency on aging to provide services to department clients under programs under chapter 74.09, 74.39, 74.39A, or 71A.12 RCW. "Contracted provider" includes area agencies on aging and their subcontractors who provide case management.
+
+    b. "Licensee" means a nonstate facility or setting that is licensed or certified, or has applied to be licensed or certified, by the department and includes the licensee and its employees.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [74.39A](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
+
+1. The department shall facilitate a work group dedicated to expanding the long-term care workforce while continuing to recognize the importance of protecting vulnerable adults, racial equity in client choice, just compensation for unpaid care work while preserving choice for those who wish to be informal caregivers without pay, and paid services. The work group shall identify recommendations on informed choice through a process by which older adults and people with disabilities may hire a trusted individual with a criminal record that would otherwise disqualify the person from providing paid home care services under this chapter. The work group's recommendations on the informed choice process shall include:
+
+    a. Client safety;
+
+    b. Client direction;
+
+    c. Racial equity;
+
+    d. Cultural competence;
+
+    e. Economic consequences of unpaid caregiving on caregivers and people receiving care;
+
+    f. Categories of eligible workers (family, friend, trusted individuals, or others);
+
+    g. Disqualifying crimes, if any;
+
+    h. Mechanisms for consideration (attestation, petition, other); and
+
+    i. Workforce development.
+
+2. [Empty]
+
+    a. The work group shall consist of:
+
+        i. Two representatives from the department;
+
+        ii. Two representatives from community-based organizations that represent people with criminal records;
+
+        iii. One representative from a community-based organization that represents Black communities;
+
+        iv. Two representatives, one from the west side of the Cascade mountains and one from the east side of the Cascade mountains, from federally recognized tribes;
+
+    v. One representative from a community-based organization that represents immigrant populations or persons of color;
+
+    vi. Three representatives from the union representing the majority of long-term care workers in Washington;
+
+    vii. One representative of a consumer-directed employer;
+
+    viii. One representative of an association representing area agencies on aging in Washington;
+
+        ix. One representative from the office of the state long-term care ombuds;
+
+    x. One representative from the office of the state developmental disability ombuds;
+
+    xi. One representative of an association representing medicaid home care agencies;
+
+    xii. One representative from the Washington state attorney general's office;
+
+    xiii. Four representatives from organizations representing seniors and individuals with physical or developmental disabilities;
+
+    xiv. Two representatives who are current or previous consumers of personal care services and who represent the diversity of the disability community; and
+
+    xv. Two representatives who receive unpaid care from individuals who are unable to become medicaid paid home care workers because of disqualifying convictions.
+
+    b. The department shall invite the participation of persons with expertise in the background check process to provide advice and consultation to the work group with respect to the development of the proposed process under subsection (1) of this section.
+
+    c. Appointments to the work group shall be made by the department. The department shall convene the meetings of the work group and serve as the facilitator.
+
+3. The work group shall devote at least one meeting to reviewing and analyzing racial disparities relevant to the work group's direction under subsection (1) of this section, including disparities in charges and disqualifications in providing paid home care services under this chapter.
+
+4. The work group must submit its recommendations to the legislature by December 1, 2022. The recommendations must include a proposed process for clients to hire a trusted individual with a criminal record. The proposed process must include a recommended communication strategy to inform older adults and people with disabilities in Washington about the process.
+
+5. This section expires July 1, 2023.
+
+
 ## Section 3
 > This section modifies existing section [9.97.020](/rcw/09_crimes_and_punishments/9.097_certificates_of_restoration_of_opportunity.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.097_certificates_of_restoration_of_opportunity.md) for context.
 
@@ -266,5 +366,7 @@ Each adult family home provider, applicant, and each resident manager shall have
 ## Section 8
 The department of social and health services and the department of health may adopt rules to implement this act.
 
+
 ## Section 9
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

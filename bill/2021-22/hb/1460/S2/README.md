@@ -163,5 +163,60 @@ The **digital equity** opportunity program is created to **advance broadband ado
 5. **No grant under the digital equity opportunity program created under this section may be awarded based on a formula or criteria that give preference to urban areas over rural areas, including the use of criteria that afford increased weight the greater the density of population.**
 
 
+## Section 5
+> This section adds a new section to an existing chapter [43.330](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. Subject to the availability of funds appropriated for this purpose, the department shall establish a digital equity planning grant program.
+
+2. This program shall provide grants to local governments, institutions of higher education, or other entities who have entered into an agreement with a local government, to fund the development of a digital equity plan for a discrete geographic region of the state. Priority must be given for grant applications accompanied by express support from community or neighborhood-based nonprofit organizations, public development authorities, federally recognized Indian tribes in the state, or other community partners and partners from the categories of institutions outlined in RCW 43.330.421. Only the director or the director's designee may authorize expenditures.
+
+3. An applicant must submit an application to the department in order to be eligible for funding under this section.
+
+4. The department must evaluate and rank applications using objective criteria such as the number of underserved population served and subjective criteria such as the degree of support and engagement evidenced by the community who will be served.
+
+5. No planning grant under this section may be awarded based on a formula or criteria that give preference to urban areas over rural areas, including the use of criteria that afford increased weight the greater the density of population.
+
+6. The department shall develop criteria for what the digital equity plans must include.
+
+7. The department may adopt rules to implement this section.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [43.330](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. The Washington digital equity forum is established and its purpose is to develop recommendations to advance digital connectivity in Washington state. In developing its recommendations, the forum must:
+
+    a. Develop goals that are consistent with the goals of the governor's statewide broadband office, as provided in RCW 43.330.536;
+
+    b. Strengthen public-private partnerships;
+
+    c. Solicit public input through public hearings or informational sessions;
+
+    d. Work to increase collaboration and communication between local, state, and federal governments and agencies; and
+
+    e. Recommend reforms to current universal service mechanisms.
+
+2. The directors of the governor's statewide broadband office and the Washington state office of equity are responsible for appointing participating members of the digital equity forum and no appointment may be made unless each director concurs in the appointment. In making appointments, the directors must prioritize appointees representing:
+
+    a. Federally recognized tribes;
+
+    b. State agencies involved in digital equity; and
+
+    c. Underserved and unserved communities, including historically disadvantaged communities.
+
+3. A majority of the participating members appointed by the directors must appoint an administrative chair for the forum.
+
+4. In addition to members appointed by the directors, four legislators may serve on the digital equity forum in an ex officio capacity. Legislative participants must be appointed as follows:
+
+    a. The speaker of the house of representatives must appoint one member from each of the two largest caucuses of the house of representatives; and
+
+    b. The president of the senate must appoint one member from each of the two largest caucuses of the senate.
+
+5. Each member of the digital equity forum shall serve without compensation but may be reimbursed for travel expenses as authorized in RCW 43.03.050 and 43.03.060.
+
+6. Staff for the digital equity forum must be provided by the governor's statewide broadband office and the Washington state office of equity. The governor's statewide broadband office and the Washington state office of equity are jointly responsible for transmitting the recommendations of the digital equity forum to the legislature, consistent with RCW 43.01.036, by October 28, 2022, and every even-numbered year thereafter.
+
+
 ## Section 7
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

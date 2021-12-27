@@ -111,11 +111,54 @@ All who have the privilege of working for the people of Washington state can hav
 **The disclosure by former state officers and high-level employees of their postemployment income sources will strengthen transparency and confidence in the integrity of government.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [42.52](/rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md) for context.
+
+1. The postemployment disclosure statement required under RCW 42.52.080(6) must include the following information:
+
+    a. The name of the person leaving state service;
+
+    b. The position held in state government before leaving state service and the name of the most recent employer agency; and
+
+    c. An acknowledgment that the person has reviewed RCW 42.52.080 and 42.52.090, and for former executive branch employees, RCW 42.52.100.
+
+2. If, following state service, the person leaving state service receives compensation from an employer or other entity that does business with the state or takes action to influence any state policy, rule, legislative matter, or action, the postemployment disclosure statement required under RCW 42.52.080(6) must also include the following information:
+
+    a. The name and address of the new employer or source of compensation following state service;
+
+    b. The name of the supervisor at the new employer, if any, or other identifying information of the principal of the employing or contracting entity;
+
+    c. The date such new employment begins or began; and
+
+    d. A description of anticipated postemployment duties at the new employer or employing business or provided by a contract.
+
+3. The person must date the statement and sign it under oath. An electronic signature is permitted if the form is filed electronically.
+
+4. [Empty]
+
+    a. The statement is required during the twelve-month period after the date the person leaves state service and takes a new employment position or receives compensation during that same period. The information in the statement is public information.
+
+    b. The person shall submit the statement to the respective ethics board no later than 14 days after the person leaves state service to take a compensated employment position or takes the compensated employment position, whichever occurs earlier.
+
+    c. If during the 12-month period a person changes employers or sources of employment compensation to another employer that does business with the state or takes action to influence any state policy, rule, legislative matter, or action, he or she shall submit a new statement within 45 days.
+
+    d. For the purposes of this section and the statement required by it, compensation does not mean income received through the person's retirement or investment accounts, social security, or similar sources.
+
+5. The ethics boards shall collaborate as necessary to design a uniform postemployment statement that permits online filing and on a process to send copies of filed statements to the executive ethics board. The ethics boards may adopt the statement and filing process by rule.
+
+6. The legislative ethics board and the commission on judicial conduct shall provide a copy of filed postemployment statements to the executive ethics board. Postemployment statements must be made available online in a searchable database on the executive ethics board website. The other ethics boards and the public disclosure commission shall link to the database on their respective websites. "Searchable database" means copies of statements are posted on the executive ethics board's website and can be searched by the names of the employee or state officer, former employer, and if required to be disclosed under subsection (2) of this section, the new employer.
+
+7. The ethics boards may adopt rules to implement this section with any initial rules adopted by July 1, 2022.
+
+
 ## Section 4
 The ethics boards may begin the rulemaking process under sections 1 and 3 of this act on the effective date of this section.
+
 
 ## Section 5
 This act applies to state officers and employees who were employed in state positions on or after the effective date of this section.
 
+
 ## Section 7
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

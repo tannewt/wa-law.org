@@ -2,8 +2,10 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1591.xml)
 ## Section 1
-The legislature finds that the population of Washington state has become increasingly diverse over the last several decades. The legislature also finds that, as the demographics of our state change, historically and currently marginalized communities still do not have the same opportunities to meet parity as their nonmarginalized counterparts across nearly every measure, including education, poverty, employment, health, and more. Inequities based on race, ethnicity, gender, and other characteristics continue to be deep, pervasive, and persistent, and they come at a great economic and social cost. The legislature finds that the state education system must identify and coordinate effective strategies that focus on eliminating systemic barriers for historically and currently marginalized groups. 
+The legislature finds that the population of Washington state has become increasingly diverse over the last several decades. The legislature also finds that, as the demographics of our state change, historically and currently marginalized communities still do not have the same opportunities to meet parity as their nonmarginalized counterparts across nearly every measure, including education, poverty, employment, health, and more. Inequities based on race, ethnicity, gender, and other characteristics continue to be deep, pervasive, and persistent, and they come at a great economic and social cost. The legislature finds that the state education system must identify and coordinate effective strategies that focus on eliminating systemic barriers for historically and currently marginalized groups.
+
 The legislature finds that charter schools, many of which serve higher percentages of students from marginalized groups than schools statewide, face barriers in access to extracurricular activities and enrichments beyond the program of basic education because they are unable to access local enrichment levies. With this act, the legislature intends to provide state local effort assistance funding to charter schools to improve access to extracurricular activities and enrichments beyond the program of basic education for their students.
+
 
 ## Section 2
 > This section modifies existing section [28A.500.015](/rcw/28A_common_school_provisions/28A.500_local_effort_assistance.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.500_local_effort_assistance.md) for context.
@@ -44,5 +46,7 @@ The legislature finds that charter schools, many of which serve higher percentag
 
 
 ## Section 3
-(1) The state must provide full calendar year local effort assistance funding to eligible charter public schools in the 2022 calendar year. If local effort assistance distributions for the 2022 calendar year under RCW 28A.500.040 begin prior to the effective date of this section, then the first month's distribution to a charter public school must include the sum of the monthly percentages from April to the first month's distribution under RCW 28A.500.040.
-(2) This section expires June 30, 2024.
+1. The state must provide full calendar year local effort assistance funding to eligible charter public schools in the 2022 calendar year. If local effort assistance distributions for the 2022 calendar year under RCW 28A.500.040 begin prior to the effective date of this section, then the first month's distribution to a charter public school must include the sum of the monthly percentages from April to the first month's distribution under RCW 28A.500.040.
+
+2. This section expires June 30, 2024.
+

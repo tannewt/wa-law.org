@@ -1,6 +1,14 @@
 # House Bill 1109
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1109.xml)
+## Section 1
+> This section adds a new section to an existing chapter [5.70](/rcw/05_evidence/5.70_dna_evidence.md). Here is the [modified chapter](rcw/05_evidence/5.70_dna_evidence.md) for context.
+
+1. For any sexual assault kit under RCW 5.70.050 where forensic analysis has generated a profile that has resulted in a hit in the combined DNA index system, the applicable law enforcement agency and prosecuting attorney shall, upon request of the office of the attorney general, report changes in case status as to any related criminal investigation and prosecution to the office of the attorney general in accordance with policies and procedures established under subsection (2) of this section.
+
+2. The office of the attorney general shall establish policies and procedures for the reporting requirement under this section. The office of the attorney general may consult with the sexual assault forensic examination best practices advisory group in determining the types of information required for status updates under this section. The office of the attorney general shall submit semiannual reports on the status of investigations and prosecutions for sexual assault cases under this section to the sexual assault forensic examination best practices advisory group, the appropriate committees of the legislature, and the governor. The initial reports must be submitted by December 1, 2021, and by July 31, 2022, and subsequent reports must be submitted by January 31st and July 31st of each year thereafter.
+
+
 ## Section 2
 > This section modifies existing section [43.101.278](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
 

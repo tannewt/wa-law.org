@@ -2,8 +2,68 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5216.xml)
 ## Section 1
-(1) The legislature finds that Washington has among the largest number of tax preferences (i.e., credits, exemptions, deductions, and preferential rates) in the nation due in large part to the unique nature of the state's tax structure. The legislature finds that measuring and assessing the efficacy of such preferences is essential to ensure the most effective use of public resources, and that public access to easily available data is vital to conduct such evaluations.
-(2) The legislature finds that comprehensive analysis and evaluation of the efficacy of tax preferences assists lawmakers and the public in understanding the benefits of specific tax policy decisions to taxpayers, local economies, and the state. The legislature further finds the relevant information critical for such analysis is frequently not reported to the state department of revenue by taxpayers or is not publicly available. The legislature further finds the lack of accurate and ascertainable information has prevented the joint legislative audit and review committee tax preference performance review process from achieving the rigor of evaluation necessary to draw firm conclusions. The legislature further finds that this also limits the ability of lawmakers to access data of material importance for assessing proposed tax preference legislation or to fairly and accurately evaluate the merits of existing tax preferences. The legislature further finds that Washington state has been a leader among states since passage of the public disclosure act by initiative in 1972 in public disclosure of government records, state budget documents, and campaign finance and spending. The legislature further finds that similar leadership in the area of the public disclosure of tax preferences would allow the legislature and the public to assess the true impact of current tax policy or proposed tax legislation in a manner that is currently unattainable due to aggregated, anonymous data. Therefore, the legislature intends to establish consistent standards for the collection of data for the purposes of improving analysis of tax preferences and their benefits and public policy objective outcomes for taxpayers and relevant industries. The legislature further intends to make such information subject to public disclosure wherever possible to enable and improve lawmakers' and the public's understanding of the benefits and costs of tax preferences while ensuring that the release of such information does not cause economic harm to taxpayers claiming such preferences.
+1. The legislature finds that Washington has among the largest number of tax preferences (i.e., credits, exemptions, deductions, and preferential rates) in the nation due in large part to the unique nature of the state's tax structure. The legislature finds that measuring and assessing the efficacy of such preferences is essential to ensure the most effective use of public resources, and that public access to easily available data is vital to conduct such evaluations.
+
+2. The legislature finds that comprehensive analysis and evaluation of the efficacy of tax preferences assists lawmakers and the public in understanding the benefits of specific tax policy decisions to taxpayers, local economies, and the state. The legislature further finds the relevant information critical for such analysis is frequently not reported to the state department of revenue by taxpayers or is not publicly available. The legislature further finds the lack of accurate and ascertainable information has prevented the joint legislative audit and review committee tax preference performance review process from achieving the rigor of evaluation necessary to draw firm conclusions. The legislature further finds that this also limits the ability of lawmakers to access data of material importance for assessing proposed tax preference legislation or to fairly and accurately evaluate the merits of existing tax preferences. The legislature further finds that Washington state has been a leader among states since passage of the public disclosure act by initiative in 1972 in public disclosure of government records, state budget documents, and campaign finance and spending. The legislature further finds that similar leadership in the area of the public disclosure of tax preferences would allow the legislature and the public to assess the true impact of current tax policy or proposed tax legislation in a manner that is currently unattainable due to aggregated, anonymous data. Therefore, the legislature intends to establish consistent standards for the collection of data for the purposes of improving analysis of tax preferences and their benefits and public policy objective outcomes for taxpayers and relevant industries. The legislature further intends to make such information subject to public disclosure wherever possible to enable and improve lawmakers' and the public's understanding of the benefits and costs of tax preferences while ensuring that the release of such information does not cause economic harm to taxpayers claiming such preferences.
+
+
+## Section 101
+> This section adds a new section to an existing chapter [82.32](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
+
+In determining a taxpayer's taxable amount, a taxpayer required to file a return with the department to report taxes due under chapter 82.04 or 82.16 RCW must separately report the amount of any tax deduction on such return. For purposes of this section, "deduction" has the same meaning as in section 102 of this act.
+
+
+## Section 102
+> This section adds a new section to an existing chapter [82.32](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
+
+1. The department must establish a reporting code to uniquely identify selected business tax incentives. The department may, at its sole discretion, establish reporting codes to uniquely identify any other tax preferences reported to the department on a return required under this chapter.
+
+2. Subsection (1) of this section applies only to returns filed electronically.
+
+3. The department must establish unique reporting codes described under subsection (4) of this section by January 1, 2023.
+
+4. [Empty]
+
+    a. For purposes of this section and except as provided in (c) of this subsection, "selected business tax incentive" means any of the tax preferences specified in (b) of this subsection, if the department determines that all or a majority of the taxpayers entitled or likely to claim the tax preference are businesses.
+
+    b. Selected business tax incentives are limited to the following tax preferences meeting the requirements in (a) of this subsection:
+
+        i. Deductions and credits under chapters 82.04 and 82.16 RCW;
+
+        ii. Sales and use tax exemptions and credits. This subsection (4)(b)(ii) does not include exclusions from the definition of retail sale, selling price, or other definitional exclusions; and
+
+        iii. Preferential business and occupation tax rates.
+
+    c. "Selected business tax incentive" does not include any tax preference:
+
+        i. Enacted as part of the revenue act of 1935 (chapter 180, Laws of 1935);
+
+        ii. Enacted for the purposes of ensuring compliance with the state Constitution or the Constitution or laws of the United States;
+
+        iii. Enacted for the purpose of eliminating multiple taxation of the same activity, transaction, or income;
+
+        iv. That requires taxpayers to file a tax preference report under RCW 82.32.534; or
+
+    v. That is obsolete or redundant.
+
+    d. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+        i. "Business" means a person engaging in business but does not include:
+
+(A) A nonprofit entity;
+
+(B) A public entity, including any entity created by one or more governments; or
+
+(C) An individual in his or her capacity as an employee.
+
+        ii. "Deduction" means a tax preference that allows specified amounts to be deducted from the measure of tax, and the statute authorizing the deduction explicitly contains some form of the word "deduct."
+
+        iii. "Preferential business and occupation tax rate" means a reduced tax rate under chapter 82.04 RCW provided to a specified group of taxpayers otherwise taxable under a nonpreferential rate within an existing tax classification rather than to all taxpayers within the existing tax classification, regardless of whether the reduced tax rate applies to activities that were formerly taxed at a lower rate in addition to activities that were formerly taxed at a higher rate. "Preferential business and occupation tax rate" does not include the general rates for persons engaging in business as an extractor, extractor for hire, manufacturer, or processor for hire; persons making retail sales; persons making wholesale sales; persons engaging in the activities taxed under RCW 82.04.280(1) (b) or (g); or persons engaging in activities taxed under RCW 82.04.290(2)(a).
+
+        iv. "Taxpayer" means a person who is registered with the department to file returns for any of the taxes imposed in chapter 82.04, 82.08, 82.12, or 82.16 RCW. With respect to sales and use tax exemptions, "taxpayer" also includes any person regardless of whether the person is registered with the department for tax purposes.
+
+5. The department must by rule provide a list of all selected business incentives and must endeavor to keep the rule up-to-date.
+
 
 ## Section 201
 > This section modifies existing section [82.32.330](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.

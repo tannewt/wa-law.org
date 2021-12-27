@@ -3,11 +3,17 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5439-S.E.xml)
 ## Section 1
 The legislature finds that:
-(a) Increasing broadband access to unserved areas of the state provides a public benefit to the citizens of Washington by allowing full participation in society and the modern economy, and enabling access to health care, education, and essential services, including public safety;
-(b) Achieving affordable and quality broadband access for all Washingtonians will require sustained investment, research, local and community participation, and partnerships between private, public, and nonprofit entities;
-(c) Providing for additional coordination across sectors to increase broadband access in unserved areas is in the best interest of the state; and
-(d) Expanding broadband access, especially broadband conduit along roadways, provides commensurate benefits to the transportation system and motor vehicle users in terms of reducing congestion by allowing for more telework, and laying the foundation for a transportation system increasingly more reliant on autonomous vehicles.
-(2) Therefore, the legislature intends to expand broadband access to unserved areas throughout the state by increasing broadband infrastructure coordination opportunities, including collaboration between the statewide broadband office and the department of transportation, proactively facilitating installation of infrastructure during state road construction projects and studying recommendations related to the department of transportation's role in broadband service expansion efforts.
+
+    a. Increasing broadband access to unserved areas of the state provides a public benefit to the citizens of Washington by allowing full participation in society and the modern economy, and enabling access to health care, education, and essential services, including public safety;
+
+    b. Achieving affordable and quality broadband access for all Washingtonians will require sustained investment, research, local and community participation, and partnerships between private, public, and nonprofit entities;
+
+    c. Providing for additional coordination across sectors to increase broadband access in unserved areas is in the best interest of the state; and
+
+    d. Expanding broadband access, especially broadband conduit along roadways, provides commensurate benefits to the transportation system and motor vehicle users in terms of reducing congestion by allowing for more telework, and laying the foundation for a transportation system increasingly more reliant on autonomous vehicles.
+
+2. Therefore, the legislature intends to expand broadband access to unserved areas throughout the state by increasing broadband infrastructure coordination opportunities, including collaboration between the statewide broadband office and the department of transportation, proactively facilitating installation of infrastructure during state road construction projects and studying recommendations related to the department of transportation's role in broadband service expansion efforts.
+
 
 ## Section 2
 > This section modifies existing section [43.330.532](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
@@ -77,6 +83,28 @@ The legislature finds that:
     f. Any proposed legislative and policy initiatives.
 
 
+## Section 5
+> This section adds a new section to an existing chapter [47.44](/rcw/47_public_highways_and_transportation/47.44_franchises_on_state_highways.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.44_franchises_on_state_highways.md) for context.
+
+1. The department is directed to adopt and maintain an agency policy that requires the department to proactively provide broadband facility owners with information about planned state highway projects to enable collaboration between broadband facility owners and the department to identify opportunities for the installation of broadband facilities during the appropriate phase of these projects when such opportunities exist.
+
+2. If no owners are ready or able to participate in coordination of the installation of broadband infrastructure concurrently with state highway projects, the department may enlist its contractors to install broadband conduit as part of road construction projects in order to directly benefit the transportation system and motor vehicle users by:
+
+    a. Reducing future traffic impacts to the traveling public on the roadway;
+
+    b. Supporting the vehicle miles traveled reduction and congestion management goals of the state by allowing for more telework; or
+
+    c. Proactively preparing the transportation system for the widespread development and use of autonomous vehicles.
+
+3. Broadband facility owners must first obtain a franchise granted by the department pursuant to RCW 47.44.010 and 47.44.020 before installing broadband facilities within the department's conduit. The costs for installation and maintenance of such broadband facilities shall be the responsibility of the broadband facility owner.
+
+4. As used in this section:
+
+    a. "Broadband conduit" means a conduit used to support broadband infrastructure, including fiber optic cables.
+
+    b. "Broadband infrastructure" has the same meaning as in RCW 43.330.530.
+
+
 ## Section 6
 > This section modifies existing section [47.52.001](/rcw/47_public_highways_and_transportation/47.52_limited_access_facilities.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.52_limited_access_facilities.md) for context.
 
@@ -88,13 +116,20 @@ The legislature finds that:
 
 
 ## Section 7
-(1) Subject to the availability of amounts appropriated for this specific purpose in the omnibus transportation appropriations act, the joint transportation committee shall oversee a consultant study to recommend:
-(a) An effective department of transportation strategy, and specific state highway corridors, that could be used to address missing fiber connections and inadequate broadband service in parts of the state underserved by broadband facilities;
-(b) The most promising planning and financing tools that could be used by the department of transportation to provide the state with greater ability to install conduit in anticipation of future broadband fiber occupancy by others;
-(c) Opportunities for mutually beneficial partnerships between the department of transportation and broadband service providers that could provide broadband services for transportation purposes such as intelligent transportation systems, cooperative automated transportation/autonomous vehicles, transportation demand management, and highway maintenance activities; and
-(d) Strategies for the mitigation of potential safety, operations, and preservation impacts to transportation related to the recommendations made in (a) through (c) of this subsection.
-(2) The study must also include an examination of any state and federal laws and regulations that could prevent or limit the implementation of these recommendations, as well as recommendations for modifications to the applicable state laws and regulations.
-(3) The joint transportation committee shall consult with the department of transportation, the Washington statewide broadband office, and other state agencies and local jurisdictions, as necessary, during development of the study's recommendations to ensure the relevance and applicability of the recommendations to the state.
+1. Subject to the availability of amounts appropriated for this specific purpose in the omnibus transportation appropriations act, the joint transportation committee shall oversee a consultant study to recommend:
+
+    a. An effective department of transportation strategy, and specific state highway corridors, that could be used to address missing fiber connections and inadequate broadband service in parts of the state underserved by broadband facilities;
+
+    b. The most promising planning and financing tools that could be used by the department of transportation to provide the state with greater ability to install conduit in anticipation of future broadband fiber occupancy by others;
+
+    c. Opportunities for mutually beneficial partnerships between the department of transportation and broadband service providers that could provide broadband services for transportation purposes such as intelligent transportation systems, cooperative automated transportation/autonomous vehicles, transportation demand management, and highway maintenance activities; and
+
+    d. Strategies for the mitigation of potential safety, operations, and preservation impacts to transportation related to the recommendations made in (a) through (c) of this subsection.
+
+2. The study must also include an examination of any state and federal laws and regulations that could prevent or limit the implementation of these recommendations, as well as recommendations for modifications to the applicable state laws and regulations.
+
+3. The joint transportation committee shall consult with the department of transportation, the Washington statewide broadband office, and other state agencies and local jurisdictions, as necessary, during development of the study's recommendations to ensure the relevance and applicability of the recommendations to the state.
+
 
 ## Section 8
 > This section modifies existing section [47.44.010](/rcw/47_public_highways_and_transportation/47.44_franchises_on_state_highways.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.44_franchises_on_state_highways.md) for context.

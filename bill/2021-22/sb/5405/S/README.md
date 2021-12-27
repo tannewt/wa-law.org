@@ -1,6 +1,12 @@
 # Substitute Senate Bill 5405 as Recommended by Ways & Means
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5405-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [44.28](/rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md) for context.
+
+The joint committee shall incorporate a racial equity analysis into performance audits, sunset reviews, and other audits or reports conducted by the joint committee. The joint committee shall note in its audits, reviews, and reports if a racial equity analysis is not necessary or appropriate. The joint committee may work with the office of equity, the governor's office of Indian affairs, the LGBTQ commission, the Washington state women's commission, and the ethnic commissions to design the racial equity analysis required under this section.
+
+
 ## Section 2
 > This section modifies existing section [44.28.005](/rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md) for context.
 

@@ -4,6 +4,25 @@
 ## Section 1
 The legislature finds and declares that, due to technological advances since the 1971 adoption of the open public meetings act, elected officials no longer conduct the public's business solely at in-person meetings, but can and do utilize telephonic and other electronic methods to efficiently conduct the business of state and local government remotely. Further, limitations on public gatherings required as the result of a disaster or emergency, for example, to assist in preventing the spread of infectious diseases, may affirmatively necessitate the use of technology and the avoidance of in-person attendance at public meetings for the conduct of governmental business. It is the policy of the state that a governing body's actions, including deliberations, shall be taken and conducted in the open. When the public cannot observe and participate in person, it may limit participation in democracy. Therefore, this act shall be construed in favor of ensuring access by the public to observe elected officials when they meet pursuant to this act. It is the intent of this act to modernize and update the open public meetings act emergency procedures to reflect technological advances, while maintaining the act's public policy that governing body's actions and deliberations be taken and conducted openly while balancing public safety in emergency conditions. Governing bodies are encouraged to adopt resolutions or ordinances establishing where and how meetings will be held in the event of an emergency, in order to allow the public to more easily learn about and observe public agency action in an emergent situation.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [42.30](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. If, after the declaration of an emergency by a local or state government or agency, or by the federal government, a public agency determines that it cannot hold a meeting of the governing body with members or public attendance in person with reasonable safety because of the emergency, the public agency may:
+
+    a. Hold a remote meeting of the governing body without a physical location; or
+
+    b. Hold a meeting of the governing body at which the physical attendance by some or all members of the public is limited due to a declared emergency.
+
+2. During a remote meeting, members of the governing body may appear or attend by phone or by other electronic means that allows real-time verbal communication without being in the same physical location. For a remote meeting or a meeting at which the physical attendance by some or all members of the public is limited due to a declared emergency, the public agency must provide an option for the public to listen to the proceedings telephonically or by using a readily available alternative in real-time that does not require any additional cost for participation. Free readily available options include, but are not limited to, broadcast by the public agency on a locally available cable television station that is available throughout the jurisdiction or other electronic, internet, or other means of remote access that does not require any additional cost for access. The public agency may also allow the other electronic means of remote access.
+
+3. No action may be taken at a remote meeting or a meeting at which the physical attendance by some or all members of the public is limited due to a declared emergency if the public agency has not provided an option for the public to listen to proceedings pursuant to subsection (2) of this section, except for an executive session as authorized in this chapter.
+
+4. Notice of a remote meeting without a physical location or a meeting at which the physical attendance by some or all members of the public is limited due to a declared emergency must be provided in accordance with this chapter and must include instructions on how the public may listen live to proceedings and on how the public may access any other electronic means of remote access offered by the public agency.
+
+5. A remote meeting or a meeting at which the physical attendance by some or all members of the public is limited due to a declared emergency that is held under the provisions of this section shall be considered open and public in compliance with the requirements of this chapter. Nothing in this section alters the ability of public agencies to take expedited action in response to an emergency as provided for in RCW 42.30.070.
+
+
 ## Section 3
 > This section modifies existing section [42.30.040](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
 

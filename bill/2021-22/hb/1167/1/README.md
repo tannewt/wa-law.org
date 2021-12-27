@@ -8,5 +8,7 @@ There shall be in the county of Grant, three judges of the superior court; in th
 
 
 ## Section 2
-(1) The additional judicial position created by section 1 of this act is effective only if Thurston county, through its duly constituted legislative authority, documents its approval of the additional position and its agreement that it will pay out of county funds, without reimbursement from the state, the expenses of the additional judicial position as provided by state law and the state Constitution.
-(2) The judicial position created by section 1 of this act is effective November 1, 2021.
+1. The additional judicial position created by section 1 of this act is effective only if Thurston county, through its duly constituted legislative authority, documents its approval of the additional position and its agreement that it will pay out of county funds, without reimbursement from the state, the expenses of the additional judicial position as provided by state law and the state Constitution.
+
+2. The judicial position created by section 1 of this act is effective November 1, 2021.
+

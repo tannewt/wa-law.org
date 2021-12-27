@@ -137,3 +137,4 @@ Except as provided in RCW 17.21.203, it is unlawful for a person to use or super
 
 ## Section 15
 By December 31, 2022, the department of agriculture shall report to the legislature, in accordance with RCW 43.01.036, on the status of the fee structure for pesticide licenses. At a minimum, the report must include an outlook for potential future fee needs and describe how the department of agriculture has engaged with the regulated community on the topic of pesticide license fees in coordination with a stakeholder work group.
+

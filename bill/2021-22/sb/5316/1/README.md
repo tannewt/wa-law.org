@@ -4,6 +4,41 @@
 ## Section 1
 The legislature finds that by constitutional design Washington's legislature has since statehood been a citizen legislature comprising individuals who conduct the people's business and then return to Washington's diverse communities to resume their lives as private individuals. The constitutional design of a part-time citizen legislature relies on the effective delegation of state fiscal authority to the executive branch and effective executive branch implementation of its authority to make expenditures on behalf of the state, along with appropriate oversight of this delegation and implementation. Therefore, the legislature finds it necessary to clarify delegated powers to the executive branch to effectively manage the state's finances while the legislature is not in session and to provide oversight during the legislative interim. Specifically, the legislature finds the power delegated to the governor to accept and expend unanticipated revenues requires a defined oversight board to prevent infringement on the legislature's sole constitutional power to appropriate state funds. Therefore, the legislature intends to revise the powers and processes to manage the state's finances and creates a joint legislative committee to provide legislative input and oversight of executive branch spending activities while the legislature is not in session.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
+
+1. There is hereby created a joint select committee to be known as the joint legislative interim budget committee with the following eight members:
+
+    a. The majority and minority leaders of the senate;
+
+    b. The speaker and the minority leader of the house of representatives;
+
+    c. Two additional members of the senate with one member from each of the two largest caucuses of the senate appointed by their respective leaders. These senators must be current members of the ways and means committee; and
+
+    d. Two additional members of the house of representatives with one member from each of the major caucuses of the house of representatives appointed by their respective leaders. These representatives must be current members of the appropriations or capital budget committees.
+
+2. The cochairs of the committee are the leaders of the two largest caucuses of the senate in even-numbered years and the leaders of the two largest caucuses of the house of representatives in odd-numbered years.
+
+3. Staff support for the committee is provided by the senate committee services and the house of representatives office of program research.
+
+4. Members of the committee serve without additional compensation, but must be reimbursed for travel expenses in accordance with RCW 44.04.120. The expenses of the committee are paid jointly by the senate and the house of representatives and expenditures are subject to approval by the senate facilities and operations committee and the house of representatives executive rules committee, or their successor committees.
+
+5. The committee shall meet regularly, at least monthly, unless the needs of the committee dictate more or less frequent meetings. The committee may conduct its meetings by conference telephone call, video call, or similar communications equipment so that all persons participating in the meeting can hear each other at the same time. The committee shall adopt rules and procedures for its orderly operation. The activities of the committee are suspended during regular or special legislative sessions.
+
+6. The committee, during the interim between sessions of the legislature, exercise the following powers:
+
+    a. Act on requests to spend any unanticipated revenues from the federal government or from other sources awarded or actually received pursuant to RCW 43.79.270;
+
+    b. Study and review laws, rules, and issues related to the financial management of the state and make recommendations to the legislature; and
+
+    c. Exercise powers and perform any other duties prescribed to it by law.
+
+7. The committee may require a requesting state agency, department, board, or commission to appear before the committee, submit additional information, or engage in other activities necessary for the committee to review and comment on requests.
+
+8. Action by the committee requires the affirmative vote of at least six members of the committee. Actions of the committee include approving or rejecting a request, in whole or in part. If the committee is unable to meet or vote on a request, the request is deemed rejected.
+
+
 ## Section 3
 > This section modifies existing section [43.79.270](/rcw/43_state_government—executive/43.079_state_funds.md). Here is the [modified chapter](rcw/43_state_government—executive/43.079_state_funds.md) for context.
 

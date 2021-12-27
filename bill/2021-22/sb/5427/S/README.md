@@ -22,8 +22,11 @@
 ## Section 2
 By December 1, 2022, and in compliance with RCW 43.01.036, the employment security department must submit a report to the legislature that details the impacts of any flexibilities utilized in claimant job search methods, monitoring, and outcomes.
 
+
 ## Section 3
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 4
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this act. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+

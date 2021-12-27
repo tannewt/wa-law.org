@@ -4,42 +4,74 @@
 ## Section 1
 The legislature finds that transparency and community oversight are integral components of just and fair governance; this is especially true with respect to the exercise of law enforcement functions within communities. The legislature further finds that recent violent interactions between law enforcement officers and community members have sounded an urgent call for a renewed and multifaceted approach to increase police accountability in Washington. The establishment of community oversight boards to investigate and report on officers' activities is one such essential step, as internal police oversight mechanisms have proven to be insufficient. Increased community oversight will lead to better policies for avoiding adverse incidents between law enforcement officers and community members, and also to more just and transparent outcomes when incidents do arise. To this end, the legislature intends to provide a standardized framework for robust and effective community oversight of law enforcement functions, with the ultimate goal of statewide implementation of community oversight boards over the coming years.
 
+
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Law enforcement agency" includes any general authority Washington law enforcement agency as defined in RCW 10.93.020 that employs 10 or more law enforcement officers in addition to the chief of police or sheriff, but does not include state law enforcement agencies.
-(2) "Law enforcement officer" includes any person who is employed or commissioned by a law enforcement agency to enforce the criminal laws of the state of Washington.
-(3) "Local jurisdiction" includes counties and any city or town with a law enforcement agency serving directly under its authority, rather than by contract or agreement with another local jurisdiction, and does not include special purpose districts.
-(4) "Similar oversight body" includes any law enforcement oversight or advisory body that is external to the law enforcement agency the body oversees, and may include, but is not limited to, police ombudsman offices and citizen advisory, review, and oversight boards.
+
+1. "Law enforcement agency" includes any general authority Washington law enforcement agency as defined in RCW 10.93.020 that employs 10 or more law enforcement officers in addition to the chief of police or sheriff, but does not include state law enforcement agencies.
+
+2. "Law enforcement officer" includes any person who is employed or commissioned by a law enforcement agency to enforce the criminal laws of the state of Washington.
+
+3. "Local jurisdiction" includes counties and any city or town with a law enforcement agency serving directly under its authority, rather than by contract or agreement with another local jurisdiction, and does not include special purpose districts.
+
+4. "Similar oversight body" includes any law enforcement oversight or advisory body that is external to the law enforcement agency the body oversees, and may include, but is not limited to, police ombudsman offices and citizen advisory, review, and oversight boards.
+
 
 ## Section 3
-(1) All local jurisdictions must establish a community oversight board by January 1, 2025. Except as provided in section 6 of this act, a community oversight board established by a local jurisdiction must conform with the requirements in this section.
-(2) A community oversight board must have the following powers and duties with respect to any law enforcement agency serving under the authority of the local jurisdiction:
-(a) To receive complaints from community members regarding the conduct of law enforcement officers and civilian employees of the law enforcement agency;
-(b) Upon complaint of any person or on its own initiative, to investigate incidents that occur between members of the public and law enforcement officers or civilian employees of the law enforcement agency, including incidents involving: The use of force by a law enforcement officer; death of or serious injury to any person held in custody; serious abuse of authority or misconduct by a law enforcement officer; allegedly discriminatory stops or other profiling activity; adversarial interactions between law enforcement officers and community members at public assemblies; and other adverse incidents related to the conduct of law enforcement officers or civilian employees of the law enforcement agency;
-(c) To issue findings on incidents investigated under (b) of this subsection. If an incident is initially reported to the community oversight board by a community member complaint, the community oversight board must conduct an investigation of the incident whenever possible, and must issue findings on the investigation within 120 days of the community oversight board's receipt of the initial complaint. If an investigation is not possible, the community oversight board must notify the complainant and provide a reason that the investigation was not pursued;
-(d) Following any investigation conducted pursuant to (b) of this subsection, to make recommendations for discipline of a law enforcement officer or civilian employee of the law enforcement agency in cases that involve serious breaches of departmental or professional standards, as defined by the local jurisdiction. Recommended disciplinary measures may include letters of reprimand, suspension with or without pay, demotion or reassignment within the agency, termination, mandatory restitution, or mediation to be implemented by the employing law enforcement agency. Whenever the community oversight board makes a recommendation for discipline of a law enforcement officer or civilian employee of the law enforcement agency, the recommendation and a report of supporting information must be submitted to the employing law enforcement agency and, if the recommendation pertains to an officer, to the criminal justice training commission;
-(e) To hold hearings, and to issue subpoenas in order to compel any person to appear, give sworn testimony, or produce documentary or other evidence reasonable in scope and relevant to a matter under inquiry pursuant to this section, if requested testimony or evidence are not provided voluntarily. If a person fails to obey a subpoena, the community oversight board may petition the superior court for enforcement of the subpoena;
-(f) To review and make recommendations for changes to policies, practices, and procedures of the law enforcement agency. If the law enforcement agency declines to implement one or more of the community oversight board's recommended changes, the law enforcement agency must create a written record, which must be made available to the public, of its rationale for declining to implement the recommendations;
-(g) To review all investigations conducted internally by the law enforcement agency, including internal investigations of civilians employed by the law enforcement agency, and to issue findings regarding the accuracy, completeness, and impartiality of investigations, and the sufficiency of any discipline resulting from investigations;
-(h) To request reports of the annual expenditures of the law enforcement agency and to make budgetary recommendations to the local jurisdiction's legislative body concerning future appropriations;
-(i) To be given access to crime scenes and related administrative investigations, including access to preliminary evidence and other information as necessary for the community oversight board to make its recommendations under (g) of this subsection, provided that access is in a manner that protects the integrity of the crime scene or investigation. Community oversight board access to crime scenes and investigations must not be more restricted than access granted to members of the press;
-(j) To make public reports on the activities of the community oversight board, including its investigations, hearings, findings, recommendations, determinations, and oversight activities;
-(k) To select qualified candidates to fill any vacancy in the position of chief of police, in applicable local jurisdictions; and
-(l) To undertake any other duties, as authorized by the local jurisdiction, that are reasonably necessary for the community oversight board to effectuate its lawful purpose of effectively overseeing the law enforcement agency and its officers and employees.
-(3) Subject to subsections (4) through (7) of this section, a local jurisdiction must establish the policies and procedures for its community oversight board, including policies and procedures concerning, at a minimum: The number of members; composition and appointment of membership; meetings and hearings; communication with the public and receipt of complaints; access to files, records, and other information, and requirements for maintaining any confidentiality of the files, records, and information to which it is granted access; and the performance of the community oversight board's duties and other functions as identified in this section.
-(4) The following persons are ineligible to serve on a community oversight board:
-(a) Any person currently employed by any general authority Washington law enforcement agency or any limited authority Washington law enforcement agency, as defined in RCW 10.93.020;
-(b) Any immediate family member of a general authority Washington peace officer or limited authority Washington peace officer, as defined in RCW 10.93.020; and
-(c) Any person who receives payment, or who is employed by an entity that receives payment, pursuant to a contract with the law enforcement agency that the community oversight board oversees.
-(5) A portion of a community oversight board's membership must be filled by members of the public. Applicable openings must be posted in a publicly accessible format, and applications from the public must be accepted and considered.
-(6) To the extent possible, a community oversight board's membership should be reflective of the diversity of the community in which it is located, in particular, with respect to race, ethnicity, gender, age, language, and culture. Membership additionally should, whenever possible, include members of families affected by law enforcement violence, justice-involved individuals, and representatives of civil rights advocacy organizations.
-(7) A community oversight board must maintain multiple methods for submitting and reviewing the status of complaints, including both online and in-person methods.
-(8) A community oversight board may retain legal counsel to represent the board in all cases, hearings, controversies, or matters involving the interests of the board. Counsel must be paid from the funds of the local jurisdiction.
-(9) The annual budget for a local jurisdiction's community oversight board must be equal to or greater than five percent of the total funds allocated in the local jurisdiction for law enforcement purposes.
+1. All local jurisdictions must establish a community oversight board by January 1, 2025. Except as provided in section 6 of this act, a community oversight board established by a local jurisdiction must conform with the requirements in this section.
+
+2. A community oversight board must have the following powers and duties with respect to any law enforcement agency serving under the authority of the local jurisdiction:
+
+    a. To receive complaints from community members regarding the conduct of law enforcement officers and civilian employees of the law enforcement agency;
+
+    b. Upon complaint of any person or on its own initiative, to investigate incidents that occur between members of the public and law enforcement officers or civilian employees of the law enforcement agency, including incidents involving: The use of force by a law enforcement officer; death of or serious injury to any person held in custody; serious abuse of authority or misconduct by a law enforcement officer; allegedly discriminatory stops or other profiling activity; adversarial interactions between law enforcement officers and community members at public assemblies; and other adverse incidents related to the conduct of law enforcement officers or civilian employees of the law enforcement agency;
+
+    c. To issue findings on incidents investigated under (b) of this subsection. If an incident is initially reported to the community oversight board by a community member complaint, the community oversight board must conduct an investigation of the incident whenever possible, and must issue findings on the investigation within 120 days of the community oversight board's receipt of the initial complaint. If an investigation is not possible, the community oversight board must notify the complainant and provide a reason that the investigation was not pursued;
+
+    d. Following any investigation conducted pursuant to (b) of this subsection, to make recommendations for discipline of a law enforcement officer or civilian employee of the law enforcement agency in cases that involve serious breaches of departmental or professional standards, as defined by the local jurisdiction. Recommended disciplinary measures may include letters of reprimand, suspension with or without pay, demotion or reassignment within the agency, termination, mandatory restitution, or mediation to be implemented by the employing law enforcement agency. Whenever the community oversight board makes a recommendation for discipline of a law enforcement officer or civilian employee of the law enforcement agency, the recommendation and a report of supporting information must be submitted to the employing law enforcement agency and, if the recommendation pertains to an officer, to the criminal justice training commission;
+
+    e. To hold hearings, and to issue subpoenas in order to compel any person to appear, give sworn testimony, or produce documentary or other evidence reasonable in scope and relevant to a matter under inquiry pursuant to this section, if requested testimony or evidence are not provided voluntarily. If a person fails to obey a subpoena, the community oversight board may petition the superior court for enforcement of the subpoena;
+
+    f. To review and make recommendations for changes to policies, practices, and procedures of the law enforcement agency. If the law enforcement agency declines to implement one or more of the community oversight board's recommended changes, the law enforcement agency must create a written record, which must be made available to the public, of its rationale for declining to implement the recommendations;
+
+    g. To review all investigations conducted internally by the law enforcement agency, including internal investigations of civilians employed by the law enforcement agency, and to issue findings regarding the accuracy, completeness, and impartiality of investigations, and the sufficiency of any discipline resulting from investigations;
+
+    h. To request reports of the annual expenditures of the law enforcement agency and to make budgetary recommendations to the local jurisdiction's legislative body concerning future appropriations;
+
+    i. To be given access to crime scenes and related administrative investigations, including access to preliminary evidence and other information as necessary for the community oversight board to make its recommendations under (g) of this subsection, provided that access is in a manner that protects the integrity of the crime scene or investigation. Community oversight board access to crime scenes and investigations must not be more restricted than access granted to members of the press;
+
+    j. To make public reports on the activities of the community oversight board, including its investigations, hearings, findings, recommendations, determinations, and oversight activities;
+
+    k. To select qualified candidates to fill any vacancy in the position of chief of police, in applicable local jurisdictions; and
+
+    l. To undertake any other duties, as authorized by the local jurisdiction, that are reasonably necessary for the community oversight board to effectuate its lawful purpose of effectively overseeing the law enforcement agency and its officers and employees.
+
+3. Subject to subsections (4) through (7) of this section, a local jurisdiction must establish the policies and procedures for its community oversight board, including policies and procedures concerning, at a minimum: The number of members; composition and appointment of membership; meetings and hearings; communication with the public and receipt of complaints; access to files, records, and other information, and requirements for maintaining any confidentiality of the files, records, and information to which it is granted access; and the performance of the community oversight board's duties and other functions as identified in this section.
+
+4. The following persons are ineligible to serve on a community oversight board:
+
+    a. Any person currently employed by any general authority Washington law enforcement agency or any limited authority Washington law enforcement agency, as defined in RCW 10.93.020;
+
+    b. Any immediate family member of a general authority Washington peace officer or limited authority Washington peace officer, as defined in RCW 10.93.020; and
+
+    c. Any person who receives payment, or who is employed by an entity that receives payment, pursuant to a contract with the law enforcement agency that the community oversight board oversees.
+
+5. A portion of a community oversight board's membership must be filled by members of the public. Applicable openings must be posted in a publicly accessible format, and applications from the public must be accepted and considered.
+
+6. To the extent possible, a community oversight board's membership should be reflective of the diversity of the community in which it is located, in particular, with respect to race, ethnicity, gender, age, language, and culture. Membership additionally should, whenever possible, include members of families affected by law enforcement violence, justice-involved individuals, and representatives of civil rights advocacy organizations.
+
+7. A community oversight board must maintain multiple methods for submitting and reviewing the status of complaints, including both online and in-person methods.
+
+8. A community oversight board may retain legal counsel to represent the board in all cases, hearings, controversies, or matters involving the interests of the board. Counsel must be paid from the funds of the local jurisdiction.
+
+9. The annual budget for a local jurisdiction's community oversight board must be equal to or greater than five percent of the total funds allocated in the local jurisdiction for law enforcement purposes.
+
 
 ## Section 4
-(1) Subject to subsection (2) of this section, when a vacancy opens for the position of chief of police in a local jurisdiction that has a community oversight board, the community oversight board must, as soon as possible, but no later than 60 days from the start of the vacancy, produce a list of four qualified candidates for the position. The mayor or other appointing party must select the replacement chief of police from the qualified candidate list provided by the community oversight board.
-(2) The requirement in this section applies beginning January 1, 2022, for local jurisdictions with a community oversight board or similar oversight body that was in existence prior to the effective date of this section.
+1. Subject to subsection (2) of this section, when a vacancy opens for the position of chief of police in a local jurisdiction that has a community oversight board, the community oversight board must, as soon as possible, but no later than 60 days from the start of the vacancy, produce a list of four qualified candidates for the position. The mayor or other appointing party must select the replacement chief of police from the qualified candidate list provided by the community oversight board.
+
+2. The requirement in this section applies beginning January 1, 2022, for local jurisdictions with a community oversight board or similar oversight body that was in existence prior to the effective date of this section.
+
 
 ## Section 5
 > This section modifies existing unknown section.
@@ -52,9 +84,18 @@ The definitions in this section apply throughout this chapter unless the context
 ## Section 6
 The requirements of this chapter apply to any community oversight board created by a local jurisdiction on or after the effective date of this section. A community oversight board or similar oversight body that is in place in a local jurisdiction prior to the effective date of this section must comply with the requirements of this chapter by January 1, 2022, except in instances in which full compliance would violate a federal consent decree or other mandate. Nothing in this chapter shall be interpreted to indicate that political subdivisions other than local jurisdictions cannot establish or maintain a community oversight board or similar oversight body.
 
+
 ## Section 7
-(1) Each local jurisdiction must report its compliance in establishing a community oversight board that aligns with the requirements in this chapter, or bringing an existing community oversight board or similar oversight body into alignment with the requirements in this chapter, to the Washington association of sheriffs and police chiefs by January 1, 2025. If the local jurisdiction does not have a community oversight board, or does not have a community oversight board that is in compliance with this chapter, it must provide a written explanation to the Washington association of sheriffs and police chiefs by January 1, 2025. The Washington association of sheriffs and police chiefs must compile the submitted information into a report, which must be delivered to the legislature by March 1, 2025.
-(2) This section expires January 1, 2027.
+1. Each local jurisdiction must report its compliance in establishing a community oversight board that aligns with the requirements in this chapter, or bringing an existing community oversight board or similar oversight body into alignment with the requirements in this chapter, to the Washington association of sheriffs and police chiefs by January 1, 2025. If the local jurisdiction does not have a community oversight board, or does not have a community oversight board that is in compliance with this chapter, it must provide a written explanation to the Washington association of sheriffs and police chiefs by January 1, 2025. The Washington association of sheriffs and police chiefs must compile the submitted information into a report, which must be delivered to the legislature by March 1, 2025.
+
+2. This section expires January 1, 2027.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [35.22](/rcw/35_cities_and_towns/35.022_first-class_cities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.022_first-class_cities.md) for context.
+
+Any time an appointment is made for the position of chief of police in a city that has a community oversight board, the appointment must be made from a list of qualified candidates provided by the board, as provided in section 4 of this act.
+
 
 ## Section 9
 > This section modifies existing section [35.23.021](/rcw/35_cities_and_towns/35.023_second-class_cities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.023_second-class_cities.md) for context.

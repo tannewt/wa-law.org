@@ -1,6 +1,36 @@
 # Senate Bill 5252
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5252.xml)
+## Section 1
+> This section adds a new section to an existing chapter [28A.300](/rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md) for context.
+
+1. [Empty]
+
+    a. The office of the superintendent of public instruction and the Washington state school directors' association government-to-government task force shall collaborate with the tribal leaders congress on education to develop a tribal consultation training and schedule.
+
+    b. The tribal consultation training and schedule created under this section shall be offered by the office of native education in the office of the superintendent of public instruction.
+
+    c. The tribal consultation training and schedule must be developed and finalized by January 1, 2022.
+
+    d. The tribal consultation training must incorporate, at a minimum, the following issues:
+
+        i. Identification of Native students, including federal identification guidelines for American Indian and Alaskan Native students;
+
+        ii. Data sharing between school districts and tribes; and
+
+        iii. Implementation of the tribal history, culture, and government curriculum under RCW 28A.320.170.
+
+    e. The training must be made available to all school district directors and educational service district board members.
+
+2. [Empty]
+
+    a. School district directors and educational service district board members of districts that are required to perform tribal consultation under Title VI of the federal every student succeeds act (P.L. 114-95, 20 U.S.C. Sec. 1001 et seq., 20 U.S.C. 6301 et seq.) must take and certify completion of the tribal consultation training created under this section by September 1, 2023.
+
+    b. All directors of school districts or board members of districts that take the tribal consultation training under this section must renew the certification of completion of the training within five years of the date of initial certification.
+
+3. The office of the superintendent of public instruction may adopt rules to implement this section.
+
+
 ## Section 2
 > This section modifies existing section [28A.345.070](/rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md) for context.
 

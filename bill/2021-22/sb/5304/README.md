@@ -1,5 +1,6 @@
 # SB 5304 - Reentry services
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5304&Year=2021)
+
 Providing reentry services to persons releasing from state and local institutions.
 
 ## Revisions

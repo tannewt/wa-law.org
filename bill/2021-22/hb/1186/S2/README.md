@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1186-S2.xml)
 ## Section 1
 The legislature finds that:
-(1) The department of children, youth, and families seeks to expand trauma-informed, culturally relevant, racial equity-based, and developmentally appropriate therapeutic placement supports in less restrictive community settings. Under current law, these supports are limited to placement in community facilities—which are only available for about 25 percent of juvenile rehabilitation's population—and electronic home monitoring for persons serving adult sentences in the custody of the department of children, youth, and families' juvenile rehabilitation who have an earned release date between the ages of 25 and 26.
-(2) To help reduce the bottleneck of youth and young adults placed in the department's juvenile rehabilitation institutions and enhance community-based, less restrictive options, this act creates a community transition services program, which utilizes electronic home monitoring as a tool embedded in a progressively supportive community-based approach with therapeutic supports for young people reentering the community. This approach considers developmentally appropriate programs for successful reentry by increasing access to community transition services, including housing assistance, behavioral health treatment, independent living, employment, education, and family and community connections.
+
+1. The department of children, youth, and families seeks to expand trauma-informed, culturally relevant, racial equity-based, and developmentally appropriate therapeutic placement supports in less restrictive community settings. Under current law, these supports are limited to placement in community facilities—which are only available for about 25 percent of juvenile rehabilitation's population—and electronic home monitoring for persons serving adult sentences in the custody of the department of children, youth, and families' juvenile rehabilitation who have an earned release date between the ages of 25 and 26.
+
+2. To help reduce the bottleneck of youth and young adults placed in the department's juvenile rehabilitation institutions and enhance community-based, less restrictive options, this act creates a community transition services program, which utilizes electronic home monitoring as a tool embedded in a progressively supportive community-based approach with therapeutic supports for young people reentering the community. This approach considers developmentally appropriate programs for successful reentry by increasing access to community transition services, including housing assistance, behavioral health treatment, independent living, employment, education, and family and community connections.
+
 
 ## Section 2
 > This section modifies existing section [72.01.412](/rcw/72_state_institutions/72.01_administration.md). Here is the [modified chapter](rcw/72_state_institutions/72.01_administration.md) for context.
@@ -344,11 +347,15 @@ In case of an emergency or medical leave the secretary may waive all or any port
 
 ## Section 7
 The department of children, youth, and families shall adopt rules, policies, and procedures as may be needed to implement a community transition services program required by this act, to include the following:
-(1) Identification and regular monitoring of metrics of quality implementation for the community transition program, and regularly publishing outcome analyses for program participants; and
-(2) Allowing for the use of new electronic home monitoring equipment and technologies as they become available that eliminate or minimize trauma, social stigma, and racial injustice, and imposing penalties for the knowing or intentional tampering, damaging, or destruction of equipment that renders it not fully functional.
+
+1. Identification and regular monitoring of metrics of quality implementation for the community transition program, and regularly publishing outcome analyses for program participants; and
+
+2. Allowing for the use of new electronic home monitoring equipment and technologies as they become available that eliminate or minimize trauma, social stigma, and racial injustice, and imposing penalties for the knowing or intentional tampering, damaging, or destruction of equipment that renders it not fully functional.
+
 
 ## Section 8
 Subject to the availability of amounts appropriated for this specific purpose, the department of children, youth, and families may issue rental vouchers for a period not to exceed six months for those transferring to community transition services under this act if an approved address cannot be obtained without the assistance of a voucher.
+
 
 ## Section 9
 > This section modifies existing section [13.04.800](/rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md) for context.
@@ -363,8 +370,11 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 
 
 ## Section 10
-(1) Sections 1 through 6, 8, and 9 of this act take effect six months after the department of children, youth, and families designs and implements a risk assessment tool as defined in RCW 13.40.020 used to determine eligibility for "community transition services" as provided under RCW 13.40.205(13) and provides notice as required under subsection (2) of this section.
-(2) The department of children, youth, and families must provide notice of the implementation of a risk assessment tool described under subsection (1) of this section to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department of children, youth, and families.
+1. Sections 1 through 6, 8, and 9 of this act take effect six months after the department of children, youth, and families designs and implements a risk assessment tool as defined in RCW 13.40.020 used to determine eligibility for "community transition services" as provided under RCW 13.40.205(13) and provides notice as required under subsection (2) of this section.
+
+2. The department of children, youth, and families must provide notice of the implementation of a risk assessment tool described under subsection (1) of this section to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department of children, youth, and families.
+
 
 ## Section 11
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

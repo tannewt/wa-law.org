@@ -571,6 +571,26 @@ For the purposes of this chapter:
 3. The state treasurer shall make the distribution under this section without appropriation.
 
 
+## Section 19
+> This section adds a new section to an existing chapter [82.32](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
+
+1. The repeal, expiration, or amendment of a law imposing a tax, or any penalty or interest on a tax, does not extinguish or otherwise affect a taxpayer's liability for payment of such tax, penalty, or interest, where such liability accrued before the effective date of such repeal, expiration, or amendment, unless a contrary intention is clearly expressed in law.
+
+2. The repeal, expiration, or amendment of a law providing a tax preference or relief from a tax, penalty, or interest obligation, does not extinguish or otherwise affect a taxpayer's entitlement to claim such tax preference or relief from tax, penalty, or interest, for taxes, penalties, and interest accruing before the effective date of such repeal, expiration, or amendment, unless a contrary intention is clearly expressed in law.
+
+3. The department may not assess use tax against a taxpayer receiving the benefit of a use tax exemption solely by reason of the expiration or repeal of that use tax exemption, unless a contrary intention is clearly expressed in law.
+
+4. For purposes of this section, the following definitions apply:
+
+    a. "Liability" means that the obligation for payment of a tax, penalty, or interest has been incurred by a taxpayer, regardless of when the tax, penalty, or interest is payable or whether the amount due has been established.
+
+    b. "Tax" has the same meaning as in RCW 82.32.020.
+
+    c. "Tax preference" means an exemption, exclusion, or deduction from the base of a tax; a credit against a tax; a deferral of a tax; or a preferential tax rate.
+
+    d. "Use tax" means the state use tax imposed under chapter 82.12 RCW, including the tax imposed under RCW 82.12.022, and any associated local use tax imposed under the authority of RCW 81.104.170, chapter 82.14 RCW, or other provision of state law.
+
+
 ## Section 20
 > This section modifies existing section [82.32.330](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
 

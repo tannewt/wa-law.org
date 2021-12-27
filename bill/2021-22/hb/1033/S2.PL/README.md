@@ -4,11 +4,16 @@
 ## Section 1
 
 ## Section 2
-(1) This section is the tax preference performance statement for the tax preference contained in section 3, chapter . . ., Laws of 2021 (section 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes this tax preference as one intended to accomplish a general purpose, to provide customized workforce development and skill development training that enhance worker skill sets.
-(3) It is the legislature's specific public policy objective to provide customized training assistance that retains and expands existing businesses in Washington.
-(4) If a review finds that 75 percent of participating businesses complete the training and repay the customized employment training program loan, then the legislature intends to extend the expiration date of this tax preference.
-(5) In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+1. This section is the tax preference performance statement for the tax preference contained in section 3, chapter . . ., Laws of 2021 (section 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes this tax preference as one intended to accomplish a general purpose, to provide customized workforce development and skill development training that enhance worker skill sets.
+
+3. It is the legislature's specific public policy objective to provide customized training assistance that retains and expands existing businesses in Washington.
+
+4. If a review finds that 75 percent of participating businesses complete the training and repay the customized employment training program loan, then the legislature intends to extend the expiration date of this tax preference.
+
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+
 
 ## Section 3
 > This section modifies existing section [82.04.449](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.

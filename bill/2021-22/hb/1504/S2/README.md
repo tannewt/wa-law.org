@@ -3,19 +3,67 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1504-S2.xml)
 ## Section 1
 The legislature finds that there is a compelling and urgent need for coordinated investments in the state's behavioral health workforce. The demand for a qualified behavioral health workforce continues to grow as the availability of services throughout the state does not meet the need. According to the workforce training and education coordinating board's "behavioral health workforce: Barriers and solutions report," Washington ranks 31 out of the 50 states when comparing prevalence of mental illness to access to care. In addition, behavioral health needs have increased since the COVID-19 pandemic began and the need is expected to rise as economic and social hardships continue. Despite increased demand, the legislature finds that there continues to be difficulties in recruiting and retaining professionals who are adequately trained to meet behavioral health needs. Many of these professions require years of training, ranging from some postsecondary education to medical degrees. In addition, the legislature finds that there is significant variation in the geographic distribution of behavioral health providers across the state. Rural and underserved areas face disparities in access to care. High student loan debt loads, better pay, and lighter caseloads can drive behavioral health professionals into private practice or hospital-based settings rather than community-based settings which typically have a higher percentage of medicaid-funded services and higher caseloads.
+
 The legislature finds that there are professions and areas within the behavioral health workforce that are most in need of state investment. The legislature intends to focus coordinated efforts and investments on these areas of greatest need including, but not limited to:
-(1) Behavioral health apprenticeships;
-(2) Children's mental health professionals;
-(3) Peer counselors;
-(4) Crisis hotline agents;
-(5) Behavioral health residencies for professionals such as psychiatrists, advanced registered nurse practitioners, physician assistants, and pharmacists;
-(6) Substance use disorder professionals;
-(7) Community mental health workers;
-(8) Clinical social workers;
-(9) Licensed mental health counselors;
-(10) Licensed marriage and family therapists; and
-(11) Clinical psychologists.
+
+1. Behavioral health apprenticeships;
+
+2. Children's mental health professionals;
+
+3. Peer counselors;
+
+4. Crisis hotline agents;
+
+5. Behavioral health residencies for professionals such as psychiatrists, advanced registered nurse practitioners, physician assistants, and pharmacists;
+
+6. Substance use disorder professionals;
+
+7. Community mental health workers;
+
+8. Clinical social workers;
+
+9. Licensed mental health counselors;
+
+10. Licensed marriage and family therapists; and
+
+11. Clinical psychologists.
+
 The legislature also recognizes existing programs that have helped recruit, retain, and grow the behavioral health workforce, such as the Washington health corps, which provides loan repayment to behavioral health professionals, and the Washington state opportunity scholarship, which utilizes a public-private match to fund scholarships for students pursing health fields. Therefore, the legislature intends to increase the behavioral health workforce by expanding on successful existing programs, establishing new ones, and by focusing the efforts of the workforce education investment act.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28B.115](/rcw/28B_higher_education/28B.115_washington_health_corps.md). Here is the [modified chapter](rcw/28B_higher_education/28B.115_washington_health_corps.md) for context.
+
+The office and the department of health shall prioritize a portion of any nonfederal balances in the health professional loan repayment and scholarship program fund for conditional loan repayment contracts for applications that reflect demographically underrepresented populations. Loan repayment contracts may include services provided in the community or at a designated site.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish a behavioral health workforce pilot program and training support grants for community mental health providers including, but not limited to, clinical social workers, licensed mental health counselors, licensed marriage and family therapists, clinical psychologists, and substance abuse treatment providers. The authority must implement these services in partnership with and through the regional accountable communities of health or the University of Washington behavioral health institute.
+
+1. [Empty]
+
+    a. The intent of the pilot program is to provide incentive pay for individuals serving as clinical supervisors within community behavioral health agencies. The desired outcomes of the pilot program include increased internships and entry opportunities for new clinicians through recruitment and retention of supervisors. The authority must ensure the pilot program covers three sites serving primarily medicaid clients in both eastern and western Washington. One of the sites must specialize in the delivery of behavioral health services for medicaid enrolled children. Of the remaining two sites, one must offer substance use disorder treatment services.
+
+    b. The authority must provide a report to the office of financial management and the appropriate committees of the legislature by September 30, 2023, on the outcomes of the pilot program. The report must include:
+
+        i. A description of the mechanism for incentivizing supervisor pay and other strategies used at each of the sites;
+
+        ii. The number of supervisors that received bonus pay at each site;
+
+        iii. The number of students or prelicensure clinicians that received supervision at each site;
+
+        iv. The number of supervision hours provided at each site;
+
+    v. Initial reporting on the number of students or prelicensure clinicians who received supervision through the pilot programs that moved into a permanent position with the pilot program or another community behavioral health program in Washington state at the end of their supervision;
+
+    vi. Identification of options for establishing enhancement of supervisor pay through managed care organization payments to behavioral health providers; and
+
+    vii. Recommendations of individual site policy and practice implications for statewide implementation.
+
+2. The authority shall establish a grant program to mental health and substance use disorder providers that provides flexible funding for training and mentoring of clinicians serving children and youth. The authority must consult with stakeholders, including but not limited to behavioral health experts in services for children and youth, providers, and consumers, to develop guidelines for how the funding could be used, with a focus on evidence-based and promising practices, continuing education requirements, and quality monitoring infrastructure.
+
 
 ## Section 4
 > This section modifies existing section [28B.145.030](/rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md). Here is the [modified chapter](rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md) for context.
@@ -79,3 +127,4 @@ The legislature also recognizes existing programs that have helped recruit, reta
 
 ## Section 6
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

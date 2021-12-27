@@ -1,6 +1,12 @@
 # Senate Bill 5541
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5541.xml)
+## Section 1
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+This chapter does not apply to any person engaging within this state in the business of printing a newspaper, publishing a newspaper, or both.
+
+
 ## Section 2
 > This section modifies existing section [82.04.260](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
 
@@ -139,3 +145,4 @@
 
 ## Section 3
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

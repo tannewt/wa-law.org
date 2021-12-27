@@ -2,31 +2,56 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1050-S2.xml)
 ## Section 1
-(1) The legislature finds that hydrofluorocarbons are air pollutants that pose significant threats to our environment. Although hydrofluorocarbons currently represent a small proportion of the state's greenhouse gas emissions, emissions of hydrofluorocarbons have been rapidly increasing in the United States and worldwide, and they are hundreds to thousands of times more potent than carbon dioxide. In 2019, the legislature took a significant step towards reducing greenhouse gas emissions from hydrofluorocarbons by transitioning to the use of less damaging hydrofluorocarbons or suitable substitutes in certain new foam, aerosol, and refrigerant uses. However, significant sources of hydrofluorocarbon emissions in Washington remain unaddressed by the 2019 legislation, including legacy uses of hydrofluorocarbons as a refrigerant in infrastructure that was installed prior to the effective dates of the restrictions in the 2019 law, and from sources like stationary air conditioners and heat pumps that were not covered by the 2019 law.
-(2) Therefore, it is the intent of the legislature to reduce hydrofluorocarbon emissions, including by:
-(a) Authorizing the establishment of a maximum global warming potential threshold for hydrofluorocarbons used as a refrigerant;
-(b) Authorizing the regulation of hydrofluorocarbons in air conditioning and heat pumps;
-(c) Applying the same basic emission control requirements to hydrofluorocarbons that have long applied to ozone-depleting substances used as refrigerants;
-(d) Establishing a program to reduce leaks and encourage refrigerant recovery from large refrigeration and air conditioning systems;
-(e) Directing the state building code council to adopt codes that are consistent with the goal of reducing greenhouse gas emissions associated with hydrofluorocarbons;
-(f) Establishing a state procurement preference for recycled refrigerants; and
-(g) Allowing consideration of the global warming potential of refrigerants used in equipment incentivized under utility conservation programs.
+1. The legislature finds that hydrofluorocarbons are air pollutants that pose significant threats to our environment. Although hydrofluorocarbons currently represent a small proportion of the state's greenhouse gas emissions, emissions of hydrofluorocarbons have been rapidly increasing in the United States and worldwide, and they are hundreds to thousands of times more potent than carbon dioxide. In 2019, the legislature took a significant step towards reducing greenhouse gas emissions from hydrofluorocarbons by transitioning to the use of less damaging hydrofluorocarbons or suitable substitutes in certain new foam, aerosol, and refrigerant uses. However, significant sources of hydrofluorocarbon emissions in Washington remain unaddressed by the 2019 legislation, including legacy uses of hydrofluorocarbons as a refrigerant in infrastructure that was installed prior to the effective dates of the restrictions in the 2019 law, and from sources like stationary air conditioners and heat pumps that were not covered by the 2019 law.
+
+2. Therefore, it is the intent of the legislature to reduce hydrofluorocarbon emissions, including by:
+
+    a. Authorizing the establishment of a maximum global warming potential threshold for hydrofluorocarbons used as a refrigerant;
+
+    b. Authorizing the regulation of hydrofluorocarbons in air conditioning and heat pumps;
+
+    c. Applying the same basic emission control requirements to hydrofluorocarbons that have long applied to ozone-depleting substances used as refrigerants;
+
+    d. Establishing a program to reduce leaks and encourage refrigerant recovery from large refrigeration and air conditioning systems;
+
+    e. Directing the state building code council to adopt codes that are consistent with the goal of reducing greenhouse gas emissions associated with hydrofluorocarbons;
+
+    f. Establishing a state procurement preference for recycled refrigerants; and
+
+    g. Allowing consideration of the global warming potential of refrigerants used in equipment incentivized under utility conservation programs.
+
 
 ## Section 2
-(b)(i) "Air conditioning" includes chillers, except for purposes of section 8 of this act.
-(ii) "Air conditioning" includes heat pumps.
-(c) "Air conditioning" applies to stationary air conditioning equipment and does not apply to mobile air conditioning, including those used in motor vehicles, rail and trains, aircraft, watercraft, recreational vehicles, recreational trailers, and campers.
-(2) "Class I substance" and "class II substance" means those substances listed in 42 U.S.C. Sec. 7671a, as of November 15, 1990, or those substances listed in Appendix A or B of Subpart A of 40 C.F.R. Part 82, as of January 3, 2017.
-(3) "Department" means the department of ecology.
-(4) "Hydrofluorocarbons" means a class of greenhouse gases that are saturated organic compounds containing hydrogen, fluorine, and carbon.
-(5) "Ice rink" means a frozen body of water, hardened chemicals, or both, including, but not limited to, professional ice skating rinks and those used by the general public for recreational purposes.
-(6) "Manufacturer" includes any person, firm, association, partnership, corporation, governmental entity, organization, or joint venture that produces any product that contains or uses hydrofluorocarbons or is an importer or domestic distributor of such a product.
-(7) "Person" means an individual, partnership, franchise holder, association, corporation, a state, a city, a county, or any subdivision or instrumentality of the state.
-(8) "Refrigeration equipment" or "refrigeration system" means any stationary device that is designed to contain and use refrigerant. "Refrigeration equipment" includes refrigeration equipment used in retail food, cold storage, industrial process refrigeration and cooling that does not use a chiller, ice rinks, and other refrigeration applications.
-(9) "Regulated refrigerant" means a class I or class II substance as listed in Title VI of section 602 of the federal clean air act amendments of November 15, 1990.
-(10) "Residential consumer refrigeration products" has the same meaning as defined in section 430.2 of Subpart A of 10 C.F.R. Part 430 (2017).
-(11) "Retrofit" has the same meaning as defined in section 152 of Subpart F of 40 C.F.R. Part 82, as that section existed as of January 3, 2017.
-(12) "Substitute" means a chemical, product, or alternative manufacturing process, whether existing or new, that is used to perform a function previously performed by a class I substance or class II substance and any chemical, product, or alternative manufacturing process subsequently developed, adapted, or adopted to perform that function including, but not limited to, hydrofluorocarbons. "Substitute" does not include 2-BTP or any compound as applied to its use in aerospace fire extinguishing systems.
+    b. [Empty]
+
+        i. "Air conditioning" includes chillers, except for purposes of section 8 of this act.
+
+        ii. "Air conditioning" includes heat pumps.
+
+    c. "Air conditioning" applies to stationary air conditioning equipment and does not apply to mobile air conditioning, including those used in motor vehicles, rail and trains, aircraft, watercraft, recreational vehicles, recreational trailers, and campers.
+
+2. "Class I substance" and "class II substance" means those substances listed in 42 U.S.C. Sec. 7671a, as of November 15, 1990, or those substances listed in Appendix A or B of Subpart A of 40 C.F.R. Part 82, as of January 3, 2017.
+
+3. "Department" means the department of ecology.
+
+4. "Hydrofluorocarbons" means a class of greenhouse gases that are saturated organic compounds containing hydrogen, fluorine, and carbon.
+
+5. "Ice rink" means a frozen body of water, hardened chemicals, or both, including, but not limited to, professional ice skating rinks and those used by the general public for recreational purposes.
+
+6. "Manufacturer" includes any person, firm, association, partnership, corporation, governmental entity, organization, or joint venture that produces any product that contains or uses hydrofluorocarbons or is an importer or domestic distributor of such a product.
+
+7. "Person" means an individual, partnership, franchise holder, association, corporation, a state, a city, a county, or any subdivision or instrumentality of the state.
+
+8. "Refrigeration equipment" or "refrigeration system" means any stationary device that is designed to contain and use refrigerant. "Refrigeration equipment" includes refrigeration equipment used in retail food, cold storage, industrial process refrigeration and cooling that does not use a chiller, ice rinks, and other refrigeration applications.
+
+9. "Regulated refrigerant" means a class I or class II substance as listed in Title VI of section 602 of the federal clean air act amendments of November 15, 1990.
+
+10. "Residential consumer refrigeration products" has the same meaning as defined in section 430.2 of Subpart A of 10 C.F.R. Part 430 (2017).
+
+11. "Retrofit" has the same meaning as defined in section 152 of Subpart F of 40 C.F.R. Part 82, as that section existed as of January 3, 2017.
+
+12. "Substitute" means a chemical, product, or alternative manufacturing process, whether existing or new, that is used to perform a function previously performed by a class I substance or class II substance and any chemical, product, or alternative manufacturing process subsequently developed, adapted, or adopted to perform that function including, but not limited to, hydrofluorocarbons. "Substitute" does not include 2-BTP or any compound as applied to its use in aerospace fire extinguishing systems.
+
 
 ## Section 4
 > This section modifies existing section [70A.15.6410](/rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md) for context.
@@ -135,51 +160,106 @@ The department shall adopt rules to implement RCW 70A.15.6410 and 70A.15.6420 (a
 
 
 ## Section 8
-(1) Within 12 months of another state's enactment or adoption of restrictions on substitutes applicable to new light-duty vehicles, the department may adopt restrictions applicable to the sale, lease, rental, or other introduction into commerce by a manufacturer of new light-duty vehicles consistent with the restrictions identified in appendix B, Subpart G of 40 C.F.R. Part 82, as of January 3, 2017. The department may apply an effective date to the restrictions adopted under this subsection that differs from the effective date of the restrictions adopted by another state, but the department may not adopt restrictions that take effect prior to the effective date of restrictions adopted or enacted in at least one other state.
-(2) The department may adopt rules that establish a maximum global warming potential of 750 for substitutes used in new stationary air conditioning. Rules adopted under this subsection may not take effect prior to:
-(a) January 1, 2023, for dehumidifiers and room air conditioners;
-(b)(i) January 1, 2025, for other types of stationary air conditioning equipment, but only if before January 1, 2023, the state building code council adopts the following safety standards into the state building code as these standards existed as of the effective date of this section:
+1. Within 12 months of another state's enactment or adoption of restrictions on substitutes applicable to new light-duty vehicles, the department may adopt restrictions applicable to the sale, lease, rental, or other introduction into commerce by a manufacturer of new light-duty vehicles consistent with the restrictions identified in appendix B, Subpart G of 40 C.F.R. Part 82, as of January 3, 2017. The department may apply an effective date to the restrictions adopted under this subsection that differs from the effective date of the restrictions adopted by another state, but the department may not adopt restrictions that take effect prior to the effective date of restrictions adopted or enacted in at least one other state.
+
+2. The department may adopt rules that establish a maximum global warming potential of 750 for substitutes used in new stationary air conditioning. Rules adopted under this subsection may not take effect prior to:
+
+    a. January 1, 2023, for dehumidifiers and room air conditioners;
+
+    b. [Empty]
+
+        i. January 1, 2025, for other types of stationary air conditioning equipment, but only if before January 1, 2023, the state building code council adopts the following safety standards into the state building code as these standards existed as of the effective date of this section:
+
 (A) American society of heating, refrigerating, and air-conditioning engineers standard 15;
+
 (B) American society of heating, refrigerating, and air-conditioning engineers standard 15.2;
+
 (C) American society of heating, refrigerating, and air-conditioning engineers standard 34; and
+
 (D) Underwriters laboratories standard UL 60335-2-40 edition 4;
-(ii) If the state building code council adopts the safety standards referenced in (b)(i) of this subsection after January 1, 2023, the restrictions of this subsection may apply to refrigeration equipment manufactured no earlier than 24 months after the adoption of the safety standards; and
-(c) January 1, 2026, for systems with variable refrigerant flow or volume.
-(3)(a) Consistent with the timeline established in (b) of this subsection, the department may adopt rules to prohibit the use of refrigerant substitutes that have a global warming potential of greater than 150 for use in refrigeration equipment containing more than 50 pounds of refrigerant;
-(b)(i) The restrictions in (a) of this subsection must apply to new refrigeration equipment manufactured after December 31, 2024, but only if before January 1, 2023, the state building code council adopts the following safety standards into the state building code, as these standards existed as of the effective date of this section:
+
+        ii. If the state building code council adopts the safety standards referenced in (b)(i) of this subsection after January 1, 2023, the restrictions of this subsection may apply to refrigeration equipment manufactured no earlier than 24 months after the adoption of the safety standards; and
+
+    c. January 1, 2026, for systems with variable refrigerant flow or volume.
+
+3. [Empty]
+
+    a. Consistent with the timeline established in (b) of this subsection, the department may adopt rules to prohibit the use of refrigerant substitutes that have a global warming potential of greater than 150 for use in refrigeration equipment containing more than 50 pounds of refrigerant;
+
+    b. [Empty]
+
+        i. The restrictions in (a) of this subsection must apply to new refrigeration equipment manufactured after December 31, 2024, but only if before January 1, 2023, the state building code council adopts the following safety standards into the state building code, as these standards existed as of the effective date of this section:
+
 (A) American society of heating, refrigerating, and air-conditioning engineers standard 15;
+
 (B) American society of heating, refrigerating, and air-conditioning engineers standard 34; and
+
 (C) Underwriters laboratories standard UL 60335-2-89 edition 2;
-(ii) If the state building code council adopts the safety standards referenced in (b)(i) of this subsection after January 1, 2023, the restrictions of (a) of this subsection may apply to refrigeration equipment manufactured no earlier than 24 months after the adoption of the safety standards.
-(4) The department shall prohibit the use of refrigerant substitutes that have a global warming potential of greater than 750 for use in new equipment manufactured after December 31, 2021, for installation in ice rinks.
-(5)(a) The department, in rules adopted to implement this section, may establish reporting, labeling, and recordkeeping requirements applicable to regulated facilities and persons. To the extent practicable, rules adopted under this section must be harmonized with reporting, labeling, or recordkeeping requirements established under section 9 of this act.
-(b) To the extent practicable, the department must adopt rules to implement this section that are consistent with similar programs in other states that reduce emissions from refrigerants.
-(c) The department may adopt rules to grant variances from the requirements of this section.
-(d) Restrictions adopted by the department under this section are additional to specific restrictions on applications and end uses established in RCW 70A.45.080 (as recodified by this act).
-(6)(a) Prior to adopting final rules to implement restrictions under subsection (2) or (3) of this section, the department must review the availability of:
-(i) Equipment that meets applicable global warming potential requirements; and
-(ii) Appropriate training to utilize equipment that meets applicable global warming potential requirements.
-(b) After the review required under (a) of this subsection, the department is encouraged to consider delaying the effective date of restrictions under this section in the event that the department determines that significant training or compliant equipment availability limitations are expected to occur.
+
+        ii. If the state building code council adopts the safety standards referenced in (b)(i) of this subsection after January 1, 2023, the restrictions of (a) of this subsection may apply to refrigeration equipment manufactured no earlier than 24 months after the adoption of the safety standards.
+
+4. The department shall prohibit the use of refrigerant substitutes that have a global warming potential of greater than 750 for use in new equipment manufactured after December 31, 2021, for installation in ice rinks.
+
+5. [Empty]
+
+    a. The department, in rules adopted to implement this section, may establish reporting, labeling, and recordkeeping requirements applicable to regulated facilities and persons. To the extent practicable, rules adopted under this section must be harmonized with reporting, labeling, or recordkeeping requirements established under section 9 of this act.
+
+    b. To the extent practicable, the department must adopt rules to implement this section that are consistent with similar programs in other states that reduce emissions from refrigerants.
+
+    c. The department may adopt rules to grant variances from the requirements of this section.
+
+    d. Restrictions adopted by the department under this section are additional to specific restrictions on applications and end uses established in RCW 70A.45.080 (as recodified by this act).
+
+6. [Empty]
+
+    a. Prior to adopting final rules to implement restrictions under subsection (2) or (3) of this section, the department must review the availability of:
+
+        i. Equipment that meets applicable global warming potential requirements; and
+
+        ii. Appropriate training to utilize equipment that meets applicable global warming potential requirements.
+
+    b. After the review required under (a) of this subsection, the department is encouraged to consider delaying the effective date of restrictions under this section in the event that the department determines that significant training or compliant equipment availability limitations are expected to occur.
+
 
 ## Section 9
-(1) The department shall establish a refrigerant management program designed to reduce emissions of refrigerants, including regulated substances and their substitutes, from activities or equipment responsible for significant volumes of such emissions. The program must include, at minimum, larger stationary refrigeration systems and larger commercial air conditioning systems. The department must adopt rules to implement and enforce the requirements of this section. The department may require compliance with refrigerant management program requirements beginning no earlier than January 1, 2024, and no earlier than the adjournment of the regular legislative session following the submission of a report to the appropriate committees of the legislature by the department estimating leakage of refrigerants from existing systems in Washington, and estimating a statewide rate of leakage from the categories of systems that are subject to the refrigerant management program rules adopted by the department under this section.
-(2)(a) The department shall exempt refrigeration and air conditioning equipment operations associated with de minimis emissions or with a de minimis charging capacity of less than 50 pounds at a single facility from registration, reporting, and leak detection requirements established in this section. The department shall exempt from the requirements established in this section equipment that uses refrigerants with a global warming potential of less than 150 and that are not class I or class II substances.
-(b) The department may scale the requirements adopted under this section based on the size of the equipment, the facility containing the equipment, or the business operations of a person responsible for such emissions. The department may establish delayed effective dates of requirements applicable to persons and systems associated with lower emissions of refrigerants than other persons and systems regulated under this section.
-(3) Each year, the owner or operator of a facility with stationary refrigeration systems or air conditioning systems that exceed a de minimis charge capacity of 50 pounds must register with the department. The department must phase in system registration requirements under this subsection in order to prioritize systems with the largest charge capacity or greatest potential for refrigerant emissions. Registration with the department must, consistent with rules adopted by the department, include the submission of information about the refrigeration system, including equipment type, refrigerant charge capacity, and the type of refrigerant used.
-(4) Prior to the sale of a registered refrigeration or air conditioning system, the owners or operators of the system must provide leak rate documentation to the prospective purchaser.
-(5) The owner or operator of a registered stationary refrigeration system or air conditioning system must conduct periodic leak-detection inspections of the system. The department may require inspections to be conducted with relatively greater frequency for systems with larger volumes of refrigerants. The department may exempt systems that use refrigerants with low global warming potential or that have automatic leak-detection systems from the requirements of this subsection.
-(6) The owner or operator of a registered stationary refrigeration or air conditioning system must inspect for leaks each time significant amounts of refrigerant are added to the system.
-(7) The department must adopt rules that:
-(a) Require refrigeration or air conditioning systems found to be leaking to be repaired within a specified amount of time;
-(b) Require the retrofit, replacement, or retirement of a refrigeration or air conditioning system with a leak that is not capable of being repaired;
-(c) Establish annual reporting requirements for owners or operators of refrigeration systems or air conditioning systems that include information about the system, including system service and leak repair conducted on the system over the preceding year, and information on the purchase and use of refrigerants in the covered system during the preceding year;
-(d) Establish annual reporting requirement for refrigerant wholesalers, distributors, and reclaimers;
-(e) Establish record retention requirements for operators of facilities and wholesalers, distributors, and reclaimers of refrigerants and substitutes; and
-(f) Apply leak rates and other regulatory thresholds that achieve greater emission reductions than the federal regulations adopted by the United States environmental protection agency, and that reflect levels of achievable superior performance established for the greenchill voluntary program implemented by the United States environmental protection agency.
-(8) The department may adopt rules to establish:
-(a) Service practices for stationary appliances, including both stationary refrigeration systems and air conditioning systems. Service practices established by the department may include requiring technicians certified under United States environmental protection agency standards to service refrigerant systems, requiring reporting and recordkeeping that identifies the technicians that have serviced appliances, prohibiting practices likely to result in releases to the environment, requiring all practicable efforts to recover refrigerants from covered systems, and prohibiting the addition of refrigerants to systems known to have a leak; and
-(b) A process for wholesalers, distributors, reclaimers, and refrigeration and air conditioning equipment operators to apply to the department for an exemption from some or all of the requirements of this section. Exemptions may be granted by the department on the basis of economic hardship, natural disaster, or after considering a calculation of lifecycle greenhouse gas emissions associated with the granting of an exemption that will allow an identified leak to go unrepaired for a finite period of time.
-(9) The department may determine, assess, and collect annual fees from the owners or operators of refrigeration and air conditioning systems regulated under this section in an amount sufficient to cover the direct and indirect costs of administering and enforcing the provisions of this section. All fees collected under this subsection must be deposited in the refrigerant emission management account created in section 12 of this act.
+1. The department shall establish a refrigerant management program designed to reduce emissions of refrigerants, including regulated substances and their substitutes, from activities or equipment responsible for significant volumes of such emissions. The program must include, at minimum, larger stationary refrigeration systems and larger commercial air conditioning systems. The department must adopt rules to implement and enforce the requirements of this section. The department may require compliance with refrigerant management program requirements beginning no earlier than January 1, 2024, and no earlier than the adjournment of the regular legislative session following the submission of a report to the appropriate committees of the legislature by the department estimating leakage of refrigerants from existing systems in Washington, and estimating a statewide rate of leakage from the categories of systems that are subject to the refrigerant management program rules adopted by the department under this section.
+
+2. [Empty]
+
+    a. The department shall exempt refrigeration and air conditioning equipment operations associated with de minimis emissions or with a de minimis charging capacity of less than 50 pounds at a single facility from registration, reporting, and leak detection requirements established in this section. The department shall exempt from the requirements established in this section equipment that uses refrigerants with a global warming potential of less than 150 and that are not class I or class II substances.
+
+    b. The department may scale the requirements adopted under this section based on the size of the equipment, the facility containing the equipment, or the business operations of a person responsible for such emissions. The department may establish delayed effective dates of requirements applicable to persons and systems associated with lower emissions of refrigerants than other persons and systems regulated under this section.
+
+3. Each year, the owner or operator of a facility with stationary refrigeration systems or air conditioning systems that exceed a de minimis charge capacity of 50 pounds must register with the department. The department must phase in system registration requirements under this subsection in order to prioritize systems with the largest charge capacity or greatest potential for refrigerant emissions. Registration with the department must, consistent with rules adopted by the department, include the submission of information about the refrigeration system, including equipment type, refrigerant charge capacity, and the type of refrigerant used.
+
+4. Prior to the sale of a registered refrigeration or air conditioning system, the owners or operators of the system must provide leak rate documentation to the prospective purchaser.
+
+5. The owner or operator of a registered stationary refrigeration system or air conditioning system must conduct periodic leak-detection inspections of the system. The department may require inspections to be conducted with relatively greater frequency for systems with larger volumes of refrigerants. The department may exempt systems that use refrigerants with low global warming potential or that have automatic leak-detection systems from the requirements of this subsection.
+
+6. The owner or operator of a registered stationary refrigeration or air conditioning system must inspect for leaks each time significant amounts of refrigerant are added to the system.
+
+7. The department must adopt rules that:
+
+    a. Require refrigeration or air conditioning systems found to be leaking to be repaired within a specified amount of time;
+
+    b. Require the retrofit, replacement, or retirement of a refrigeration or air conditioning system with a leak that is not capable of being repaired;
+
+    c. Establish annual reporting requirements for owners or operators of refrigeration systems or air conditioning systems that include information about the system, including system service and leak repair conducted on the system over the preceding year, and information on the purchase and use of refrigerants in the covered system during the preceding year;
+
+    d. Establish annual reporting requirement for refrigerant wholesalers, distributors, and reclaimers;
+
+    e. Establish record retention requirements for operators of facilities and wholesalers, distributors, and reclaimers of refrigerants and substitutes; and
+
+    f. Apply leak rates and other regulatory thresholds that achieve greater emission reductions than the federal regulations adopted by the United States environmental protection agency, and that reflect levels of achievable superior performance established for the greenchill voluntary program implemented by the United States environmental protection agency.
+
+8. The department may adopt rules to establish:
+
+    a. Service practices for stationary appliances, including both stationary refrigeration systems and air conditioning systems. Service practices established by the department may include requiring technicians certified under United States environmental protection agency standards to service refrigerant systems, requiring reporting and recordkeeping that identifies the technicians that have serviced appliances, prohibiting practices likely to result in releases to the environment, requiring all practicable efforts to recover refrigerants from covered systems, and prohibiting the addition of refrigerants to systems known to have a leak; and
+
+    b. A process for wholesalers, distributors, reclaimers, and refrigeration and air conditioning equipment operators to apply to the department for an exemption from some or all of the requirements of this section. Exemptions may be granted by the department on the basis of economic hardship, natural disaster, or after considering a calculation of lifecycle greenhouse gas emissions associated with the granting of an exemption that will allow an identified leak to go unrepaired for a finite period of time.
+
+9. The department may determine, assess, and collect annual fees from the owners or operators of refrigeration and air conditioning systems regulated under this section in an amount sufficient to cover the direct and indirect costs of administering and enforcing the provisions of this section. All fees collected under this subsection must be deposited in the refrigerant emission management account created in section 12 of this act.
+
 
 ## Section 10
 > This section modifies existing section [19.27.580](/rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md) for context.
@@ -200,14 +280,20 @@ The department shall adopt rules to implement RCW 70A.15.6410 and 70A.15.6420 (a
 
 
 ## Section 11
-(1) The authority granted by this chapter to the department for restricting the use of substitutes is supplementary to the department's authority to control air pollution pursuant to chapter 70A.15 RCW. Nothing in this chapter limits the authority of the department under chapter 70A.15 RCW.
-(2) The department, in enforcing the requirements of this chapter, must adhere to the provisions applicable to the department under chapter 43.05 RCW regarding site inspections, technical assistance visits, notices of correction, and the issuance of civil penalties, to the extent that these provisions are not in conflict with federal requirements described in RCW 43.05.901.
-(3) The department may elect to refrain from or cease administering or enforcing a requirement of this chapter if the United States environmental protection agency adopts requirements that:
-(a) Are substantially duplicative of the requirements of this chapter and that negate the additional emission reduction benefits of state implementation of any requirement of this chapter; or
-(b) Preempt state authority under this chapter.
+1. The authority granted by this chapter to the department for restricting the use of substitutes is supplementary to the department's authority to control air pollution pursuant to chapter 70A.15 RCW. Nothing in this chapter limits the authority of the department under chapter 70A.15 RCW.
+
+2. The department, in enforcing the requirements of this chapter, must adhere to the provisions applicable to the department under chapter 43.05 RCW regarding site inspections, technical assistance visits, notices of correction, and the issuance of civil penalties, to the extent that these provisions are not in conflict with federal requirements described in RCW 43.05.901.
+
+3. The department may elect to refrain from or cease administering or enforcing a requirement of this chapter if the United States environmental protection agency adopts requirements that:
+
+    a. Are substantially duplicative of the requirements of this chapter and that negate the additional emission reduction benefits of state implementation of any requirement of this chapter; or
+
+    b. Preempt state authority under this chapter.
+
 
 ## Section 12
 The refrigerant emission management account is created in the state treasury. All receipts received by the state from the fees imposed under section 9 of this act must be deposited in the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only to develop and implement the provisions of section 9 of this act.
+
 
 ## Section 13
 > This section modifies existing section [70A.15.1010](/rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md) for context.
@@ -228,11 +314,16 @@ Portions of moneys received by the department of ecology from the air pollution 
 
 
 ## Section 14
-(1) By December 1, 2021, the department of ecology must provide recommendations to the appropriate committees of the house of representatives and the senate regarding the optimal design of a program to address the end-of-life management and disposal of refrigerants including, but not limited to, ozone-depleting substances and hydrofluorocarbons. In developing the recommendations, the department must solicit feedback from potentially impacted parties and the public, and must consider actions taken by other jurisdictions to incentivize refrigerant reuse or reclamation. The recommendations may come in the form of draft legislation.
-(2) The recommendations must specifically include, at minimum, the following program design considerations:
-(a) The legal and financial obligations to support or participate in the program applicable to refrigerant manufacturers, importers, distributors, and retailers, and to refrigerant-using equipment owner-operators and service technicians;
-(b) A funding mechanism for refrigerant recovery and disposal activities carried out by the program that will also provide a financial incentive for the recovery and emission-reducing management of refrigerants that are no longer of utility to a consumer; and
-(c) Performance goals and operational standards for activities carried out by the program to collect, transport, and recycle, reuse, or dispose of refrigerants.
+1. By December 1, 2021, the department of ecology must provide recommendations to the appropriate committees of the house of representatives and the senate regarding the optimal design of a program to address the end-of-life management and disposal of refrigerants including, but not limited to, ozone-depleting substances and hydrofluorocarbons. In developing the recommendations, the department must solicit feedback from potentially impacted parties and the public, and must consider actions taken by other jurisdictions to incentivize refrigerant reuse or reclamation. The recommendations may come in the form of draft legislation.
+
+2. The recommendations must specifically include, at minimum, the following program design considerations:
+
+    a. The legal and financial obligations to support or participate in the program applicable to refrigerant manufacturers, importers, distributors, and retailers, and to refrigerant-using equipment owner-operators and service technicians;
+
+    b. A funding mechanism for refrigerant recovery and disposal activities carried out by the program that will also provide a financial incentive for the recovery and emission-reducing management of refrigerants that are no longer of utility to a consumer; and
+
+    c. Performance goals and operational standards for activities carried out by the program to collect, transport, and recycle, reuse, or dispose of refrigerants.
+
 
 ## Section 15
 > This section modifies existing section [70A.15.3150](/rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md) for context.
@@ -439,5 +530,7 @@ Portions of moneys received by the department of ecology from the air pollution 
 ## Section 23
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
 
+
 ## Section 24
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

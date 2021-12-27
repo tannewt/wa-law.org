@@ -1,5 +1,6 @@
 # SB 5011 - Electronic meetings/HOA, etc
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5011&Year=2021)
+
 Addressing electronic meetings and notice provisions for common interest communities, condominiums, and homeowners' associations.
 
 ## Revisions

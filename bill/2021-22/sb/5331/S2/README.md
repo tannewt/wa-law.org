@@ -2,7 +2,69 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5331-S2.xml)
 ## Section 1
-(1) The legislature finds that there is an urgent need to provide greater support to young children and their families involved in Washington state's child welfare system. Infants and toddlers comprise a substantial portion of all child abuse and neglect cases in Washington state; the rate of entry for children under age one into the care of Washington state's child welfare system is the second highest in the nation. Research demonstrates that both the trauma of neglect as well as the trauma associated with entering the child welfare system shapes young children's brain development and have lifelong impacts on young children's social, emotional, and physical well-being. Young children and families of color are particularly impacted by child welfare involvement and the factors leading up to it.
-(2) The legislature further finds that early childhood court programs provide timely, research-based, and trauma-informed interventions. Early childhood court programs reduce maltreatment recurrence, number of placements, and the time it takes to achieve permanency, while increasing equitable access to services.
-(3) The legislature further finds that statewide standards are necessary to ensure the quality, accountability, and fidelity to research-based interventions of early childhood court programs. Statewide standards will also promote equitable access to these programs, especially among children and families of color.
-(4) The legislature further finds that the administrative office of the courts has secured funding for the first year of the early childhood court program to support their evaluation efforts. While funding is not mandated through this act, the legislature acknowledges that the administrative office of the courts is not able to complete its required responsibilities as provided for in this act without dedicated funding. The legislature finds and declares that in the future, the office may seek funding through public and/or private funding opportunities, and it may partner with local organizations to seek further funding, although it is not required to do so.
+1. The legislature finds that there is an urgent need to provide greater support to young children and their families involved in Washington state's child welfare system. Infants and toddlers comprise a substantial portion of all child abuse and neglect cases in Washington state; the rate of entry for children under age one into the care of Washington state's child welfare system is the second highest in the nation. Research demonstrates that both the trauma of neglect as well as the trauma associated with entering the child welfare system shapes young children's brain development and have lifelong impacts on young children's social, emotional, and physical well-being. Young children and families of color are particularly impacted by child welfare involvement and the factors leading up to it.
+
+2. The legislature further finds that early childhood court programs provide timely, research-based, and trauma-informed interventions. Early childhood court programs reduce maltreatment recurrence, number of placements, and the time it takes to achieve permanency, while increasing equitable access to services.
+
+3. The legislature further finds that statewide standards are necessary to ensure the quality, accountability, and fidelity to research-based interventions of early childhood court programs. Statewide standards will also promote equitable access to these programs, especially among children and families of color.
+
+4. The legislature further finds that the administrative office of the courts has secured funding for the first year of the early childhood court program to support their evaluation efforts. While funding is not mandated through this act, the legislature acknowledges that the administrative office of the courts is not able to complete its required responsibilities as provided for in this act without dedicated funding. The legislature finds and declares that in the future, the office may seek funding through public and/or private funding opportunities, and it may partner with local organizations to seek further funding, although it is not required to do so.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [2.30](/rcw/02_courts_of_record/2.30_therapeutic_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.30_therapeutic_courts.md) for context.
+
+1. [Empty]
+
+    a. A superior court may establish an early childhood court program to serve the needs of infants and toddlers who are under the age of three at the time the case enters the program and dependent pursuant to chapter 13.34 RCW.
+
+    b. Early childhood court programs means a therapeutic court as defined in this chapter that provides an intensive court process for families with a child under age three who has been found dependent pursuant to chapter 13.34 RCW. To be eligible for the early childhood court program, a parent must have a child under age three that is dependent pursuant to chapter 13.34 RCW at the time the case enters the early childhood court program process. The case may remain in the early childhood court program after the child is age three or older if the child is still dependent pursuant to chapter 13.34 RCW.
+
+2. If a superior court creates an early childhood court program, it shall incorporate the following core components into the program:
+
+    a. The court shall obtain a memorandum of understanding or other agreement with the department of children, youth, and families that outlines how the two entities will coordinate and collaborate to implement the core components overall.
+
+    b. There shall be a community coordinator who is dedicated to: Facilitating real-time information sharing and collaboration among cross-sector professionals participating in the early childhood court program; coordinating and participating in family team meetings; identifying community-based resources and supporting the family's connection to these resources; building relationships and forming new partnerships across traditional and nontraditional services and systems; identifying training needs of early childhood court professionals and facilitating the provision of training; and supporting the convening of community team meetings. The community coordinator carries out the tasks outlined in the core components unless otherwise specified. The community coordinator can be employed by the courts, the county, or a nonprofit entity.
+
+    c. The court shall establish a community team that aims to: Foster a learning environment and encourage an interdisciplinary approach to meeting the needs of young children and families; identify and respond to challenges to accessing resources and needed systems reforms; support multidisciplinary trainings; and recommend local court policies and procedures to improve families receipt of equitable and timely access to resources and remedial services. The community team are stakeholders to the court that serve as an advisory body to the court and implement the early childhood court program.
+
+    d. The judicial officer shall establish more frequent review hearings than required pursuant to RCW 13.34.138(1).
+
+    e. The community coordinator serves as a liaison between the court and community-based resources to identify community-based resources, identify barriers to engagement, and collaborate with stakeholders to connect families to assessments and referrals. The community coordinator shall facilitate connecting parents with informal and formal social supports, including but not limited to peer, community, and cultural supports.
+
+    f. The community coordinator coordinates and neutrally facilitates family team meetings. The family team may include all parties to the case and other people or other service providers identified by the parent to be part of the support system for the parent involved. The family team engages parents in their case plan and expediently addresses family needs and access to services and support.
+
+    g. Parents are critical participants in the early childhood court program. The court shall aim to foster an environment in which all professionals involved in the early childhood court program increase their awareness of different forms of bias and the trauma and adversity that often accompany poverty, mental health, and substance use.
+
+    h. The court shall strive to ensure that families receive early, consistent, and frequent visitation that is developmentally appropriate for infants and toddlers; that minimizes stress and anxiety for both children and parents; and occurs in a safe, comfortable, and unintimidating setting that supports parents to nurture and care for their child.
+
+    i. The court shall ensure that: The individualized case plan for parents involved in the early childhood court program should address protective factors that mitigate or eliminate safety risks to the child, and the court should encourage a respectful, strength-based, compassionate approach to working with parents in the context of the early childhood court program.
+
+    j. The court shall support the development of agreements that encourage: Stakeholders participate in any available statewide structure that supports alignment to the approach of the early childhood court program, cross-site cooperation, and consistency; any program data is regularly and continuously reviewed to ensure equity, inform and improve practice; and stakeholders utilize technical assistance, training, and evaluation to assess effectiveness and improve outcomes. Each early childhood court program must review its data to assess its effectiveness and participate in a statewide group of early childhood court programs. The statewide group will share its data findings and hold statewide meetings to support alignment to the core components and statewide consistency.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [2.30](/rcw/02_courts_of_record/2.30_therapeutic_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.30_therapeutic_courts.md) for context.
+
+1. Judicial officers who preside over early childhood court program hearings shall participate in required trainings, as follows:
+
+    a. An initial, eight-hour training program that can include the topic areas of: The benefits to infants and toddlers of secure attachment with primary caregivers; a trauma-informed approach; the importance of maintaining children within their biological connections; the importance of reunification of children with their families; and the impact of trauma on child development;
+
+    b. After the initial training, annually attend a minimum of eight hours of continuing education of pertinence to the early childhood court program.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the administrative office of the courts shall administer the certification of training requirements.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [2.30](/rcw/02_courts_of_record/2.30_therapeutic_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.30_therapeutic_courts.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the administrative office of the courts shall perform, or contract for, an evaluation of the early childhood court program to ensure the quality, accountability, and fidelity of the programs' evidence-based treatment. Any evaluation of the early childhood court program shall be posted on the administrative office of the courts website.
+
+2. The administrative office of the courts may provide, or contract for the provision of, training and technical assistance related to program services, consultation and guidance for difficult cases, and ongoing training for court teams.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [2.30](/rcw/02_courts_of_record/2.30_therapeutic_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.30_therapeutic_courts.md) for context.
+
+Any early childhood court program in operation as of the effective date of this section shall have a reasonable time to adjust its practices to comply with sections 2 and 3 of this act.
+

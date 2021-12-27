@@ -83,6 +83,20 @@
         ii. An applicant that would qualify for a spirits retail license under this section and that qualifies for a combination spirits, beer, and wine license pursuant to RCW 66.24.035 may apply for a license pursuant to RCW 66.24.035 instead of applying for a spirits retail license under this section.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [66.24](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
+
+There is levied and collected a tax on the sale of low-proof beverages equal to 99 cents per gallon as follows:
+
+1. A spirits distributor under the terms of its license shall pay the tax imposed by this section on sales of low-proof beverages to spirits retailers.
+
+2. A distillery or craft distillery that self-distributes low-proof beverages under the terms of its license shall pay the tax imposed by this section on sales to spirits retailers.
+
+3. A distillery or craft distillery that sells low-proof beverages directly to consumers under the terms of its license shall pay the tax imposed by this section on those sales.
+
+4. A holder of a spirits out-of-state certificate with a direct shipment endorsement that self-distributes under the terms of its license shall pay the tax imposed by this section on sales to spirits retailers.
+
+
 ## Section 4
 > This section modifies existing section [66.24.055](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
 

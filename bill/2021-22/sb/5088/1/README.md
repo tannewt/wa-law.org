@@ -3,12 +3,35 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5088.xml)
 ## Section 1
 The legislature finds that:
-(1) Washington has a shortage of primary care services that poses a significant risk to public health resulting in increased human suffering and increased costs. The coronavirus pandemic has added strain on an already overburdened health care system, further exposing the need to empower additional primary care providers to practice to the full scope of their training.
-(2) Naturopathic physicians, licensed under chapter 18.36A RCW since 1987 and chapter 18.36 RCW since 1919, are recognized as primary care providers in both statute and rule, and have served in this role for many years through private health plans, in apple health (medicaid), and with the Indian health service systems.
-(3) In some areas, naturopathic physicians are the only available health care providers. As such, they need authority for all appropriate primary care services consistent with their education and patient populations. This act supports better patient care, prevents duplication of services, reduces emergency department visits, and is more cost-effective for patients, health plans, and state agencies.
-(4) Naturopathic medical training emphasizes behavioral health, counseling, and lifestyle medicine in addition to conventional medical diagnostics and treatments, including pharmaceutical prescriptions. Many patients seek care with naturopathic physicians in order to stop taking or lower their doses of prescription medications. Most controlled substances cannot be stopped without a careful dosage taper. Without expanded prescriptive authority, naturopathic physicians are unable to meaningfully assist patients in reducing their reliance on costly and habit-forming pharmaceuticals.
-(5) The legislature first granted naturopathic physicians limited prescriptive authority in 1987 and expanded this in 2005 to include all legend drugs and limited controlled substances in Schedules III through V of the uniform controlled substances act. This act is consistent with the findings of the 2014 sunrise review in which the department of health agreed with the health care authority arguments in support of a limited expansion of naturopathic prescriptive authority for controlled substances.
-(6) This act recognizes the board of naturopathy (established by the legislature in 2011), and its role in rule making for determination of specific clinical parameters and educational requirements in the same manner as other boards and commissions with primary care authority.
+
+1. Washington has a shortage of primary care services that poses a significant risk to public health resulting in increased human suffering and increased costs. The coronavirus pandemic has added strain on an already overburdened health care system, further exposing the need to empower additional primary care providers to practice to the full scope of their training.
+
+2. Naturopathic physicians, licensed under chapter 18.36A RCW since 1987 and chapter 18.36 RCW since 1919, are recognized as primary care providers in both statute and rule, and have served in this role for many years through private health plans, in apple health (medicaid), and with the Indian health service systems.
+
+3. In some areas, naturopathic physicians are the only available health care providers. As such, they need authority for all appropriate primary care services consistent with their education and patient populations. This act supports better patient care, prevents duplication of services, reduces emergency department visits, and is more cost-effective for patients, health plans, and state agencies.
+
+4. Naturopathic medical training emphasizes behavioral health, counseling, and lifestyle medicine in addition to conventional medical diagnostics and treatments, including pharmaceutical prescriptions. Many patients seek care with naturopathic physicians in order to stop taking or lower their doses of prescription medications. Most controlled substances cannot be stopped without a careful dosage taper. Without expanded prescriptive authority, naturopathic physicians are unable to meaningfully assist patients in reducing their reliance on costly and habit-forming pharmaceuticals.
+
+5. The legislature first granted naturopathic physicians limited prescriptive authority in 1987 and expanded this in 2005 to include all legend drugs and limited controlled substances in Schedules III through V of the uniform controlled substances act. This act is consistent with the findings of the 2014 sunrise review in which the department of health agreed with the health care authority arguments in support of a limited expansion of naturopathic prescriptive authority for controlled substances.
+
+6. This act recognizes the board of naturopathy (established by the legislature in 2011), and its role in rule making for determination of specific clinical parameters and educational requirements in the same manner as other boards and commissions with primary care authority.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [18.36A](/rcw/18_businesses_and_professions/18.036A_naturopathy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.036A_naturopathy.md) for context.
+
+1. Subject to the requirements of this section, a naturopath may prescribe and administer legend drugs and controlled substances contained in Schedules III through V of the uniform controlled substances act, chapter 69.50 RCW, as necessary in the practice of naturopathy.
+
+2. A naturopath who prescribes controlled substances shall register with the department to access the prescription monitoring program established in chapter 70.225 RCW.
+
+3. By rule, the board shall establish education and training requirements related to prescribing legend drugs and controlled substances. A naturopath may prescribe and administer drugs pursuant to subsection (1) of this section only if he or she satisfies the education and training requirements established by the board.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [18.36A](/rcw/18_businesses_and_professions/18.036A_naturopathy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.036A_naturopathy.md) for context.
+
+A naturopath may sign and attest to any certificates, cards, forms, or other required documentation that a physician may sign, so long as it is within the naturopath's scope of practice. This includes, but is not limited to, disability determinations, physician orders for life-sustaining treatment, guardianships, powers of attorney, and similar legal documents.
+
 
 ## Section 5
 > This section modifies existing section [18.36A.040](/rcw/18_businesses_and_professions/18.036A_naturopathy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.036A_naturopathy.md) for context.

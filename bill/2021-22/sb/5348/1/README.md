@@ -4,29 +4,60 @@
 ## Section 1
 The legislature finds it unconscionable that health care providers or others may misrepresent the source of the human reproductive material provided to assisted reproduction patients. In such cases, false information leaves the children conceived through assisted reproduction without accurate information about their identity, family medical history, and true genetic parentage.
 
+
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Assisted reproduction" has the same meaning as defined in RCW 26.26A.010.
-(2) "Donor" has the same meaning as defined in RCW 26.26A.010.
-(3) "Gamete" has the same meaning as defined in RCW 26.26A.010.
-(4) "Health care facility" has the same meaning as defined in RCW 70.38.025.
-(5) "Health care provider" has the same meaning as defined in RCW 7.70.020.
-(6) "Human reproductive material" means (a) a human gamete; or (b) a human organism at any stage of development from fertilized ovum to embryo.
+
+1. "Assisted reproduction" has the same meaning as defined in RCW 26.26A.010.
+
+2. "Donor" has the same meaning as defined in RCW 26.26A.010.
+
+3. "Gamete" has the same meaning as defined in RCW 26.26A.010.
+
+4. "Health care facility" has the same meaning as defined in RCW 70.38.025.
+
+5. "Health care provider" has the same meaning as defined in RCW 7.70.020.
+
+6. "Human reproductive material" means (a) a human gamete; or (b) a human organism at any stage of development from fertilized ovum to embryo.
+
 
 ## Section 3
-(1) A person is guilty of false representation in assisted reproduction if he or she knowingly provides false information to a patient related to:
-(a) An assisted reproduction procedure or treatment;
-(b) The human reproductive material used or provided for assisted reproduction;
-(c) The identity of a donor of human reproductive material used or provided for assisted reproduction including, but not limited to, the donor's name, birthdate, or address at the time of donation; or 
-(d) A donor's medical history including, but not limited to, a present illness of a donor at the time of donation; a past illness of a donor; or the social, genetic, or family history pertaining to a donor's health.
-(2) A health care provider is guilty of false representation in assisted reproduction if the health care provider knowingly uses or provides human reproductive material for assisted reproduction other than the human reproductive material the health care provider agreed to be used or provided in writing.
-(3) An entity that is licensed or operating in Washington state as a health care facility, gamete bank, or fertility clinic is guilty of false representation in assisted reproduction when it:
-(a) Provides a patient with human reproductive material other than the human reproductive material that was agreed to be provided in writing between the patient and the entity;
-(b) Disregards agreements between the donor and the gamete bank, fertility clinic, or health care facility; or
-(c) Fails to make good faith efforts to provide a child conceived by assisted reproduction with a donor's identifying information as required under RCW 26.26A.820.
-(4) Each incidence of false representation in assisted reproduction constitutes a separate offense.
-(5) A violation of this section is a class C felony punishable under chapter 9A.20 RCW.
-(6) Nothing in this chapter shall be construed to prohibit a person from pursuing any other remedy provided by law.
+1. A person is guilty of false representation in assisted reproduction if he or she knowingly provides false information to a patient related to:
+
+    a. An assisted reproduction procedure or treatment;
+
+    b. The human reproductive material used or provided for assisted reproduction;
+
+    c. The identity of a donor of human reproductive material used or provided for assisted reproduction including, but not limited to, the donor's name, birthdate, or address at the time of donation; or
+
+    d. A donor's medical history including, but not limited to, a present illness of a donor at the time of donation; a past illness of a donor; or the social, genetic, or family history pertaining to a donor's health.
+
+2. A health care provider is guilty of false representation in assisted reproduction if the health care provider knowingly uses or provides human reproductive material for assisted reproduction other than the human reproductive material the health care provider agreed to be used or provided in writing.
+
+3. An entity that is licensed or operating in Washington state as a health care facility, gamete bank, or fertility clinic is guilty of false representation in assisted reproduction when it:
+
+    a. Provides a patient with human reproductive material other than the human reproductive material that was agreed to be provided in writing between the patient and the entity;
+
+    b. Disregards agreements between the donor and the gamete bank, fertility clinic, or health care facility; or
+
+    c. Fails to make good faith efforts to provide a child conceived by assisted reproduction with a donor's identifying information as required under RCW 26.26A.820.
+
+4. Each incidence of false representation in assisted reproduction constitutes a separate offense.
+
+5. A violation of this section is a class C felony punishable under chapter 9A.20 RCW.
+
+6. Nothing in this chapter shall be construed to prohibit a person from pursuing any other remedy provided by law.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [4.24](/rcw/04_civil_procedure/4.024_special_rights_of_action_and_special_immunities.md). Here is the [modified chapter](rcw/04_civil_procedure/4.024_special_rights_of_action_and_special_immunities.md) for context.
+
+1. A child conceived by assisted reproduction, a donor, or a patient who utilized assisted reproduction with a health care provider or at a health care facility, or a patient's spouse at the time when the patient utilized assisted reproduction, may maintain a civil cause of action for damages for false representation in assisted reproduction.
+
+2. The plaintiff in a civil action brought under this section must prove by a preponderance of the evidence that the defendant or defendants made false representations in assisted reproduction to a patient, a donor, or a child conceived by assisted reproduction, as described in section 3 of this act.
+
+3. In a civil action brought under this section, each act of false representation in assisted reproduction is a violation of this section and the defendant or defendants are liable for civil damages of five thousand dollars or economic and noneconomic damages, whichever is greater, and reasonable attorneys' fees as determined by the court.
+
 
 ## Section 6
 > This section modifies existing section [9A.36.031](/rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md) for context.

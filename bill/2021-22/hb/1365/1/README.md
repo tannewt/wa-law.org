@@ -3,9 +3,41 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1365.xml)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has exposed the importance of internet-accessible learning devices to the ability of students to receive a modern education. When Washington schools closed in March 2020, school districts shifted quickly to offering education in an online environment. Teachers adapted their lessons for videoconferencing platforms and arranged for students to submit homework via email. However, distance learning amplified digital deserts and disparities among students that will only continue to grow for the foreseeable future.
+
 The legislature finds that low-income and Black Washingtonians face disproportionate barriers to accessing internet in their homes. Recent census household pulse survey data shows that a computer is rarely or never available for a child's educational use for 59% of households experiencing poverty and 80% of Black households in Washington state.
+
 Furthermore, the legislature finds that accessing the internet requires more than just a computer. For families and students to be truly connected, they need the digital literacy, skills, and support to use their device and navigate the web.
+
 Therefore, the legislature intends to provide every student and every educator in Washington with an appropriate learning device as well as the necessary digital literacy support to ensure digital equity and access.
+
+
+## Section 101
+> This section adds a new section to an existing chapter [28A.650](/rcw/28A_common_school_provisions/28A.650_education_technology.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.650_education_technology.md) for context.
+
+1. The educational service districts shall jointly establish and implement a procurement program for learning devices for students, appropriate computers for school staff, and associated peripheral devices.
+
+2. The process must allow for procurement of devices, learning management systems, cybersecurity protection, and device insurance.
+
+3. When selecting learning devices and learning management systems for procurement, the educational service districts must consider a variety of student needs. Considerations must include accessibility, age appropriateness, security, data storage and transfer capacity, and telecommunications capability.
+
+
+## Section 102
+> This section adds a new section to an existing chapter [28A.650](/rcw/28A_common_school_provisions/28A.650_education_technology.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.650_education_technology.md) for context.
+
+1. [Empty]
+
+    a. The office of the superintendent of public instruction must establish the student learning device grant program as specified in this section. The purpose of this program is to provide grants to school districts to fund the purchase of student learning devices, appropriate devices for paraeducators and certificated instructional staff, and associated peripheral devices.
+
+    b. The office of the superintendent of public instruction must align the procurement program with other digital literacy and inclusion efforts ongoing across the state.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction must award grants to school districts, charter schools established under chapter 28A.710 RCW, and state-tribal education compact schools established under chapter 28A.715 RCW that submit an application as required by the office of the superintendent of public instruction.
+
+3. The office of the superintendent of public instruction must evaluate and rank applicants using objective criteria that maximize the number of students with learning devices to reduce technology equity gaps. Grant awards must be prioritized so that new devices are provided to the most disadvantaged students.
+
+4. Awarded grant funds may be used to purchase devices through the procurement process established by the educational service districts as required by section 101 of this act.
+
+5. The office of the superintendent of public instruction may accept gifts, grants, and endowments from public and private sources for the benefit of the grant program and may expend any gifts, grants, and endowments and income from public and private sources according to their terms.
+
 
 ## Section 103
 > This section modifies existing section [28A.650.020](/rcw/28A_common_school_provisions/28A.650_education_technology.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.650_education_technology.md) for context.
@@ -23,6 +55,28 @@ Therefore, the legislature intends to provide every student and every educator i
     d. **Outreach to communities underserved with regard to the purposes of the program; and**
 
     e. **Device repair and recycle services**.
+
+
+## Section 104
+> This section adds a new section to an existing chapter [28A.320](/rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md) for context.
+
+1. Beginning in the 2022-23 school year, each school district must provide: (a) To each student, a learning device and peripheral devices that meets the unique needs of the student; and (b) to each paraeducator and certificated instructional staff person, appropriate computers and peripheral devices.
+
+2. School districts are encouraged to purchase devices through the educational service district procurement program established in section 101 of this act.
+
+3. School districts may apply for a grant under section 102 of this act to purchase devices.
+
+
+## Section 105
+> This section adds a new section to an existing chapter [28A.710](/rcw/28A_common_school_provisions/28A.710_charter_schools.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.710_charter_schools.md) for context.
+
+Section 104 of this act governs school operation and management under RCW 28A.710.040 and applies to charter schools established under this chapter.
+
+
+## Section 106
+> This section adds a new section to an existing chapter [28A.715](/rcw/28A_common_school_provisions/28A.715_state-tribal_education_compacts_authority.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.715_state-tribal_education_compacts_authority.md) for context.
+
+Section 104 of this act governs school operation and management under RCW 28A.715.020 and applies to state-tribal education compact schools established under this chapter.
 
 
 ## Section 108
@@ -47,33 +101,63 @@ Unless the context clearly requires otherwise, the definitions in this section a
 **"Learning devices" means internet-accessible computers, tablets, and other devices, with appropriate operating systems, software applications, and data security, that can be used to access curricula, educational web applications and websites, and learning management systems, and with telecommunications capabilities sufficient for videoconferencing.**
 
 
+## Section 201
+> This section adds a new section to an existing chapter [28A.650](/rcw/28A_common_school_provisions/28A.650_education_technology.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.650_education_technology.md) for context.
+
+The learning device and technology account is created in the state treasury. Revenues to the account consist of revenues collected under section 203 of this act and appropriations, grants, and donations directed for deposit into the account. Expenditures from the account must be used for the purposes of RCW 28A.650.020 and sections 101 and 102 of this act. Moneys in the account may be spent only after appropriation.
+
+
 ## Section 202
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Buyer" has the same meaning as in RCW 82.08.010.
-(2) "Department" means the department of revenue.
-(3)(a) "Retail sale" has the same meaning as in RCW 82.04.050.
-(b) "Retail sale" also means the transfer of a smart wireless device to a buyer that is partially or fully discounted by the seller in exchange for the buyer purchasing other products or services furnished in connection with the smart wireless device.
-(4) "Seller" has the same meaning as in RCW 82.08.010.
-(5)(a) "Selling price" has the same meaning as in RCW 82.08.010.
-(b) "Selling price" also means:
-(i) In the case of a smart wireless device that is sold to the buyer under conditions where the selling price does not represent the true value or the smart wireless device is sold together with other products or services for one nonitemized price, the retail selling price of the same product or similar products of like quality and character, sold in an arm's length transaction; and
-(ii) In the case of installment sales of a smart wireless device, the total aggregate consideration to be paid by the buyer to the seller for the smart wireless device.
-(6) "Smart wireless device" means any type of instrument, device, machine, or equipment that is capable of wireless access to the internet. This includes, but is not limited to, smartphones, laptop computers, tablets, wearable devices, smart speakers, gaming consoles, smart gyms, and smart televisions.
+
+1. "Buyer" has the same meaning as in RCW 82.08.010.
+
+2. "Department" means the department of revenue.
+
+3. [Empty]
+
+    a. "Retail sale" has the same meaning as in RCW 82.04.050.
+
+    b. "Retail sale" also means the transfer of a smart wireless device to a buyer that is partially or fully discounted by the seller in exchange for the buyer purchasing other products or services furnished in connection with the smart wireless device.
+
+4. "Seller" has the same meaning as in RCW 82.08.010.
+
+5. [Empty]
+
+    a. "Selling price" has the same meaning as in RCW 82.08.010.
+
+    b. "Selling price" also means:
+
+        i. In the case of a smart wireless device that is sold to the buyer under conditions where the selling price does not represent the true value or the smart wireless device is sold together with other products or services for one nonitemized price, the retail selling price of the same product or similar products of like quality and character, sold in an arm's length transaction; and
+
+        ii. In the case of installment sales of a smart wireless device, the total aggregate consideration to be paid by the buyer to the seller for the smart wireless device.
+
+6. "Smart wireless device" means any type of instrument, device, machine, or equipment that is capable of wireless access to the internet. This includes, but is not limited to, smartphones, laptop computers, tablets, wearable devices, smart speakers, gaming consoles, smart gyms, and smart televisions.
+
 
 ## Section 203
-(1) There is levied and collected a tax on each retail sale in this state of smart wireless devices. The amount of the tax is as follows:
-(a) $2 for a device with a selling price of more than $250, but less than $1,000; and
-(b) $5 for a device with a selling price of $1,000 or more.
-(2) The revenue collected under this section must be deposited in the learning device and technology account created in section 201 of this act.
+1. There is levied and collected a tax on each retail sale in this state of smart wireless devices. The amount of the tax is as follows:
+
+    a. $2 for a device with a selling price of more than $250, but less than $1,000; and
+
+    b. $5 for a device with a selling price of $1,000 or more.
+
+2. The revenue collected under this section must be deposited in the learning device and technology account created in section 201 of this act.
+
 
 ## Section 204
-(1) The tax imposed in this chapter must be paid by the buyer to the seller. Each seller must collect from the buyer the full amount of the tax payable with respect to each taxable sale.
-(2) The tax required by this chapter, to be collected by the seller, is deemed to be held in trust by the seller until paid to the department. Any seller who appropriates or converts the tax collected to the seller's own use or to any use other than the payment of the tax to the extent that the money required to be collected is not available for payment on the due date as prescribed in this chapter is guilty of a gross misdemeanor.
-(3) If any seller fails to collect the tax imposed in this chapter or, having collected the tax, fails to pay it to the department in the manner prescribed by this chapter, whether such failure is the result of the seller's own acts or the result of acts or conditions beyond the seller's control, the seller is, nevertheless, personally liable to the state for the amount of the tax.
-(4) The tax required by this chapter to be collected by the seller must be stated separately from the selling price in any sales invoice or other instrument of sale.
+1. The tax imposed in this chapter must be paid by the buyer to the seller. Each seller must collect from the buyer the full amount of the tax payable with respect to each taxable sale.
+
+2. The tax required by this chapter, to be collected by the seller, is deemed to be held in trust by the seller until paid to the department. Any seller who appropriates or converts the tax collected to the seller's own use or to any use other than the payment of the tax to the extent that the money required to be collected is not available for payment on the due date as prescribed in this chapter is guilty of a gross misdemeanor.
+
+3. If any seller fails to collect the tax imposed in this chapter or, having collected the tax, fails to pay it to the department in the manner prescribed by this chapter, whether such failure is the result of the seller's own acts or the result of acts or conditions beyond the seller's control, the seller is, nevertheless, personally liable to the state for the amount of the tax.
+
+4. The tax required by this chapter to be collected by the seller must be stated separately from the selling price in any sales invoice or other instrument of sale.
+
 
 ## Section 205
 Chapter 82.32 RCW applies to the administration of this chapter.
+
 
 ## Section 206
 > This section modifies existing section [82.32.145](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.

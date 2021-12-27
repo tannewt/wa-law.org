@@ -2,12 +2,50 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5320.xml)
 ## Section 1
-(1) The legislature finds that Washington's state government has made it too difficult for the people of Washington to discern which branch of government is responsible for making the policies that govern them. This problem originates in the legislature, which too often tasks executive branch agencies with implementing legislation that contains unclear direction, ill-defined standards, and broad grants of discretion. The legislature finds that this regrettable practice undermines accountability for decisions that are made in state government.
-(2)(a) The legislature intends to make specific reforms that will help restore accountability to the policy-making process in Washington. The legislature recognizes that each branch of government plays an important role in governing the state, and that each branch is responsible for faithfully fulfilling its own duties, while respecting the duties of the other branches. This act emphasizes the distinct functions of each branch, seeking to achieve an appropriate balance of power among the legislative, executive, and judicial branches, for the benefit of the people of Washington.
-(b) The legislature further intends for:
-(i) Part I of this act to remind the legislature that it is not permitted to transfer the legislative authority to other bodies, and require the legislature to notify the public when bills authorize the adoption of new rules by executive branch agencies;
-(ii) Part II of this act to require executive branch agencies to thoroughly document the applicable statutory sources of authority for their proposed actions during the rule-making process; and
-(iii) Part III of this act to promote an independent judiciary by preventing courts from deferring to agencies' interpretation of statutes, and allowing courts to determine if the reasons given for an agency action genuinely align with information in the record for judicial review.
+1. The legislature finds that Washington's state government has made it too difficult for the people of Washington to discern which branch of government is responsible for making the policies that govern them. This problem originates in the legislature, which too often tasks executive branch agencies with implementing legislation that contains unclear direction, ill-defined standards, and broad grants of discretion. The legislature finds that this regrettable practice undermines accountability for decisions that are made in state government.
+
+2. [Empty]
+
+    a. The legislature intends to make specific reforms that will help restore accountability to the policy-making process in Washington. The legislature recognizes that each branch of government plays an important role in governing the state, and that each branch is responsible for faithfully fulfilling its own duties, while respecting the duties of the other branches. This act emphasizes the distinct functions of each branch, seeking to achieve an appropriate balance of power among the legislative, executive, and judicial branches, for the benefit of the people of Washington.
+
+    b. The legislature further intends for:
+
+        i. Part I of this act to remind the legislature that it is not permitted to transfer the legislative authority to other bodies, and require the legislature to notify the public when bills authorize the adoption of new rules by executive branch agencies;
+
+        ii. Part II of this act to require executive branch agencies to thoroughly document the applicable statutory sources of authority for their proposed actions during the rule-making process; and
+
+        iii. Part III of this act to promote an independent judiciary by preventing courts from deferring to agencies' interpretation of statutes, and allowing courts to determine if the reasons given for an agency action genuinely align with information in the record for judicial review.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
+
+The legislature affirms that the people of Washington vested the legislative authority of the state of Washington in the legislature under Article II, section 1 of the state Constitution. Because the legislative authority is vested in the legislature by the people, the legislature may not transfer the legislative authority to another branch or agency of government.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
+
+1. Every bill analysis and bill report published by the house of representatives office of program research or senate committee services, or their successor entities, must contain a section indicating whether the bill authorizes an agency to adopt a new rule under chapter 34.05 RCW.
+
+2. Failure to comply with subsection (1) of this section does not invalidate any law or rule.
+
+3. This section does not create any civil liability on the part of the state or any state agency, officer, employee, or agent.
+
+4. This section does not create a private right of action.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [34.05](/rcw/34_administrative_law/34.05_administrative_procedure_act.md). Here is the [modified chapter](rcw/34_administrative_law/34.05_administrative_procedure_act.md) for context.
+
+For the purpose of rule making, when citing a statute that authorizes an agency to adopt the rule, the agency shall identify the title, chapter, and section of the Revised Code of Washington for each pertinent statute. If the agency cites a session law, the agency shall identify each pertinent section of the session law.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [34.05](/rcw/34_administrative_law/34.05_administrative_procedure_act.md). Here is the [modified chapter](rcw/34_administrative_law/34.05_administrative_procedure_act.md) for context.
+
+A court may not defer to an agency's interpretation of a statute when reviewing agency action under this chapter. The court shall serve as a neutral and impartial decision maker responsible for interpreting the statutes that apply in each case.
+
 
 ## Section 6
 > This section modifies existing section [34.05.570](/rcw/34_administrative_law/34.05_administrative_procedure_act.md). Here is the [modified chapter](rcw/34_administrative_law/34.05_administrative_procedure_act.md) for context.
@@ -72,5 +110,7 @@
 ## Section 7
 This act may be known and cited as the three branches act.
 
+
 ## Section 8
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

@@ -629,3 +629,4 @@
 
 ## Section 23
 This act is remedial and curative in nature and all of its sections are intended to apply retroactively to February 29, 2020. In any instance where this act grants rule-making authority to the department of social and health services or the department of health, the agencies may adopt the rules as emergency rules and may make the rules retroactively effective.
+

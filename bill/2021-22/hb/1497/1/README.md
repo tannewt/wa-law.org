@@ -118,3 +118,9 @@ In addition to the unprofessional conduct described in RCW 18.235.130, the direc
 
 8. All oral disclosures required by this section shall be made in a clear and intelligible manner.
 
+
+## Section 4
+> This section adds a new section to an existing chapter [19.158](/rcw/19_business_regulations—miscellaneous/19.158_commercial_telephone_solicitation.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.158_commercial_telephone_solicitation.md) for context.
+
+The office of the attorney general shall provide and maintain a web page informing the public of the laws and regulations governing telephone solicitation, including the provisions of this chapter and RCW 80.36.390, and the legal rights of those who receive telephone solicitations; and provide information on how members of the public may file a complaint for violations of the laws and regulations governing telephone solicitation.
+

@@ -1,6 +1,28 @@
 # Substitute House Bill 1157 as Recommended by Local Government
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1157-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Cities within counties planning under RCW 36.70A.215 and those counties may establish one or more real estate excise tax density incentive zones. A real estate excise tax density incentive zone is an area within an urban growth area where the city or county adopts zoning and development regulations to increase housing supply by allowing construction of additional housing types as outright permitted uses. Creation of a real estate excise tax density incentive zone enables the local government to receive a portion of the tax imposed under chapter 82.45 RCW for sales of qualified residential dwelling units within the zone.
+
+2. A real estate excise tax density incentive zone may only be located within a designated urban growth area, and must allow the following housing types: Single-family detached dwellings at a net density of at least six dwelling units per acre, duplexes, triplexes, fourplexes, townhomes, accessory dwelling units, and courtyard apartments.
+
+3. A real estate excise tax density incentive zone may also allow as outright permitted uses housing types and densities that exceed the minimum requirements in subsection (2) of this section.
+
+4. [Empty]
+
+    a. Additional dwelling units must be in addition to the baseline density under existing zoning to implement the housing element in RCW 36.70A.070.
+
+    b. For the purposes of this section, a "qualified residential dwelling" is either an individual residential dwelling unit or a residential building of two or more dwelling units constructed within a real estate excise tax density incentive zone that achieves a net increase in the total number of residential dwelling units compared to the maximum number of residential dwelling units that could have been built prior to the adoption of zoning and development regulations creating the real estate excise tax density incentive zone. To be included as qualified residential dwelling units, the units must be restricted from being offered as short-term rentals for more than 30 days a year for the first 15 years after construction. The department of revenue shall determine how the residential dwelling units shall be restricted from being short-term rentals.
+
+    c. If the qualified residential dwelling has two or more dwelling units, the amount distributed to the local government under RCW 82.45.060(4)(c) shall be reduced by the percent attributable to the number of new dwelling units within the building that could have been built under the zoning and development regulations that existed prior to the creation of the local real estate excise tax density incentive zone.
+
+5. A sale that does not involve a net increase above the maximum number of residential dwelling units that could have been constructed as an outright permitted use, prior to the creation of the real estate excise tax density incentive zone, is not a sale of a qualified residential dwelling unit.
+
+6. A real estate excise tax density incentive zone may be established for areas where a city or county previously enacted zoning and development regulations meeting the minimum requirements in this section, but not prior to January 1, 2017. A real estate excise tax density incentive zone may not be established later than one year after the date by which a city or county is required to update its growth management comprehensive plan under RCW 36.70A.130. Once a real estate excise tax density incentive zone is established in compliance with this section, a qualified residential dwelling unit may be constructed at any time.
+
+
 ## Section 2
 > This section modifies existing section [82.45.060](/rcw/82_excise_taxes/82.45_excise_tax_on_real_estate_sales.md). Here is the [modified chapter](rcw/82_excise_taxes/82.45_excise_tax_on_real_estate_sales.md) for context.
 

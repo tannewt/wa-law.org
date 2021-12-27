@@ -4,6 +4,7 @@
 ## Section 1
 In light of the holding of the supreme court of the state of Washington in Lowe's Home Centers, LLC v. Dep't of Revenue, 195 Wn.2d 27 (2020), the legislature intends to modify the sales and use tax credit and refund for bad debts under RCW 82.08.037 and 82.12.037 to make clear that, to qualify for the credit and refund, the bad debts must be directly attributable to the buyer's unpaid sales or use tax obligation to the seller. The legislature also intends to make similar modifications to the business and occupation tax deduction for bad debts under RCW 82.04.4284.
 
+
 ## Section 2
 > This section modifies existing section [82.04.4284](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
 
@@ -92,3 +93,4 @@ In light of the holding of the supreme court of the state of Washington in Lowe'
 
 ## Section 6
 This act applies only with respect to bad debts that were written off as uncollectible in the taxpayer's books and records on or after the effective date of this section.
+

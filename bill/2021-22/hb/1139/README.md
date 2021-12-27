@@ -1,5 +1,6 @@
 # HB 1139 - Lead in drinking water
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1139&Year=2021)
+
 Taking action to address lead in drinking water.
 
 ## Revisions

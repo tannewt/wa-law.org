@@ -35,6 +35,16 @@
 5. This section does not apply where an opportunity for an informal settlement, driver improvement interview, or formal hearing is otherwise provided by law or rule of the department.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [46.20](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
+
+1. The department is authorized to administratively reinstate all licenses suspended pursuant to section 5, chapter . . ., Laws of 2021 (section 5 of this act) that would not have been eligible for driver's license suspension under section 2, chapter 467, Laws of 2019.
+
+2. No later than 30 days after the effective date of this section, the department shall notify any person whose driver's license was suspended pursuant to section 2, chapter 467, Laws of 2019 prior to the effective date of section 5, chapter . . ., Laws of 2021 (section 5 of this act), that he or she may be eligible for reinstatement of his or her license, specifying that the reinstatement is not available for licenses suspended that meet the criteria for suspension under section 5, chapter . . ., Laws of 2021 (section 5 of this act).
+
+3. No later than 30 days after the effective date of this section, the department shall create an online application process available for people who had their licenses suspended pursuant to RCW 46.20.289 prior to the effective date of section 5, chapter . . ., Laws of 2021 (section 5 of this act). This online application process shall allow a person to determine whether they are eligible to have their license reinstated and explain the process for reinstatement. A reissue fee as provided in RCW 46.20.311 shall apply.
+
+
 ## Section 3
 > This section modifies existing section [46.20.289](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
 

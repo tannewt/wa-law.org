@@ -2,9 +2,82 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1303.xml)
 ## Section 1
-(1) The legislature intends to update and adapt state tax policy to the forms of commerce that have emerged with new technologies. The legislature recognizes that consumers are increasingly conducting their professional and personal affairs online and on devices such as smartphones or tablets. These activities include applying for jobs, researching symptoms and communicating with health care providers, applying for permits and licenses, mapping routes, communicating with friends and family, consuming news and entertainment, and shopping and arranging for the delivery of goods and services to the home. Through these daily activities, consumers generate enormous and unprecedented quantities of data about themselves, including their locations, behaviors, and preferences.
-(2) The legislature further recognizes that technological advances have made it possible to more easily and quickly gather, analyze, and export vast amounts of personal information, whether such information is obtained through electronic or other means.
-(3) The legislature finds that there are various businesses engaged in accumulating the personal data that is available to be collected on Washingtonians, aggregating or compiling that information, and reselling it without any compensation to the people of the state. This is a new business model that has flourished and is anticipated to grow as more people and more devices are connected with ever-increasing frequency for an ever greater number of innovative applications. As such, the legislature intends to have this unique and growing industry set apart with its own individual tax rate. This will provide transparency on the number of businesses and volume of activity in this industry, and fairly generate revenue to be used for the benefit of the state of Washington and its people.
+1. The legislature intends to update and adapt state tax policy to the forms of commerce that have emerged with new technologies. The legislature recognizes that consumers are increasingly conducting their professional and personal affairs online and on devices such as smartphones or tablets. These activities include applying for jobs, researching symptoms and communicating with health care providers, applying for permits and licenses, mapping routes, communicating with friends and family, consuming news and entertainment, and shopping and arranging for the delivery of goods and services to the home. Through these daily activities, consumers generate enormous and unprecedented quantities of data about themselves, including their locations, behaviors, and preferences.
+
+2. The legislature further recognizes that technological advances have made it possible to more easily and quickly gather, analyze, and export vast amounts of personal information, whether such information is obtained through electronic or other means.
+
+3. The legislature finds that there are various businesses engaged in accumulating the personal data that is available to be collected on Washingtonians, aggregating or compiling that information, and reselling it without any compensation to the people of the state. This is a new business model that has flourished and is anticipated to grow as more people and more devices are connected with ever-increasing frequency for an ever greater number of innovative applications. As such, the legislature intends to have this unique and growing industry set apart with its own individual tax rate. This will provide transparency on the number of businesses and volume of activity in this industry, and fairly generate revenue to be used for the benefit of the state of Washington and its people.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Upon every person engaging within this state in the business of making sales of personal data or exchanging personal data for consideration; as to such persons, the amount of tax with respect to such business is equal to the gross income of the business multiplied by the rate of 1.8 percent.
+
+2. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Deidentified data" means data that cannot reasonably be used to infer information about, or otherwise be linked to, an identified or identifiable natural person, or a device linked to such person, provided that the controller that possesses the data:
+
+        i. Takes reasonable measures to ensure that the data cannot be associated with a natural person;
+
+        ii. Publicly commits to maintain and use the data only in a deidentified fashion and not attempt to reidentify the data; and
+
+        iii. Contractually obligates any recipients of the information to comply with all provisions of this subsection.
+
+    b. "Engaging within this state" has the same meaning as provided in RCW 82.04.066, and also means that a person generates gross income from the business from personal data, as defined in (c) of this subsection, of individuals located in this state. For purposes of this subsection, an individual is located in this state if any of the addresses, as defined in RCW 82.04.462(5), utilized by that individual is located in this state.
+
+    c. "Personal data" means any information that is linked or reasonably linked to an identified or identifiable natural person. "Personal data" does not include:
+
+        i. Deidentified data or publicly available information; or
+
+        ii. Personal data that is sold by any state agency for the purposes of increasing public safety or positive health outcomes, provided that secondary sales of this personal data by the entities purchasing this personal data from the state agency is contractually prohibited.
+
+3. Nothing in this section may be construed as to impose a tax on internet access.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Except as provided in subsection (6) of this section, beginning September 1, 2022, every person engaging within this state in the business of making sales of personal data or exchanging personal data for consideration must register with the department.
+
+2. Registration under subsection (1) of this section must be completed annually, at a date set by the department, and must consist of the following:
+
+    a. The name, principal place of business, and character of business, including:
+
+        i. The specific types of personal information from Washingtonians sold or exchanged for consideration;
+
+        ii. The types of entities that personal information is sold or exchanged for consideration;
+
+        iii. The sources and methods by which the personal information was obtained; and
+
+        iv. The gross income of the business attributable to the sale, or exchange for consideration, of personal information of Washingtonians, to be calculated using the following:
+
+(A) The ratio, expressed as a percentage, that the number of Washington addresses in the personal information bears to all addresses in the personal information; or
+
+(B) If the ratio in (a)(iv)(A) of this subsection (2) is not readily attainable, the ratio, expressed as a percentage, that the population of this state bears to all the states of the United States in the taxpayer's market, or by any other reasonable methods allowed by the department; and
+
+    b. Submission of an informational return, as designed by the department.
+
+3. A person who is required to register under subsection (1) of this section and who fails to do so, or submits incomplete or inaccurate information, is subject to a fine of $100 per day of delinquency in addition to an amount equal to any expenses incurred by the office of the attorney general in the investigation or prosecution of the delinquency.
+
+4. By no later than December 15, 2022, and annually thereafter, the department must report to the appropriate committees of the legislature, in compliance with RCW 43.01.036, a summary of the information received under subsection (2) of this section.
+
+5. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Addresses" means physical, mailing, or internet protocol addresses, or similar addresses.
+
+    b. [Empty]
+
+        i. "Engaging within this state" has the same meaning as provided in RCW 82.04.066.
+
+        ii. For purposes of this subsection, an individual is located in this state if any of the addresses of that individual is located in this state.
+
+    c. "Person" has the same meaning as provided in RCW 82.04.030.
+
+    d. "Personal data" has the same meaning as provided in section 2 of this act.
+
+6. The department may delay the application of this section if it is unable to implement any of the provisions of this section, but it may be delayed no later than November 1, 2022. If the department delays the application of this section, it must post notice of the new application date on its public website by August 1, 2022.
+
 
 ## Section 4
 > This section modifies existing section [82.04.050](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
@@ -648,3 +721,4 @@ The tax imposed by RCW 82.08.020 does not apply to sales defined as a sale at re
 
 ## Section 12
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

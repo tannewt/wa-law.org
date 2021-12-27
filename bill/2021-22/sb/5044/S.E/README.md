@@ -2,8 +2,10 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5044-S.E.xml)
 ## Section 1
-(1) The legislature finds that state resources have been invested to: (a) Identify model standards for cultural competency; (b) incorporate these cultural competency standards into both the standards for effective teaching and the standards of practice for paraeducators; (c) develop cultural competency training programs for school district staff from paraeducators to administrators; and (d) develop a plan for the creation and delivery of cultural competency training for school board directors and superintendents.
-(2) The legislature plans to continue the important work of dismantling institutional racism in public schools and recognizes the importance of increasing equity, diversity, inclusion, antiracism, and cultural competency training throughout the entire public school system by providing a continuum of training materials for classified staff, certificated instructional staff, certificated administrative staff, and superintendents that is job-embedded and provided in an ongoing manner.
+1. The legislature finds that state resources have been invested to: (a) Identify model standards for cultural competency; (b) incorporate these cultural competency standards into both the standards for effective teaching and the standards of practice for paraeducators; (c) develop cultural competency training programs for school district staff from paraeducators to administrators; and (d) develop a plan for the creation and delivery of cultural competency training for school board directors and superintendents.
+
+2. The legislature plans to continue the important work of dismantling institutional racism in public schools and recognizes the importance of increasing equity, diversity, inclusion, antiracism, and cultural competency training throughout the entire public school system by providing a continuum of training materials for classified staff, certificated instructional staff, certificated administrative staff, and superintendents that is job-embedded and provided in an ongoing manner.
+
 
 ## Section 2
 > This section modifies existing section [28A.345.100](/rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.345_washington_state_school_directors_association.md) for context.
@@ -29,6 +31,12 @@
 3. The cultural **and antiracism** professional development and training must contain components that are appropriate for classified school staff and district administrators as well as certificated instructional staff and principals at the building level. The professional development and training must also contain components suitable for delivery by individuals from the local community or community-based organizations with appropriate expertise.
 
 4. **Subject to the availability of amounts appropriated for this specific purpose,** educational service districts and school districts **must** use the cultural competence **and antiracism** professional development and training developed under this section **to** provide **job-embedded, ongoing** opportunities for all school and school district staff**, from classified staff to the superintendent,** to gain knowledge and skills in cultural competence, including in partnership with their local communities.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [28A.415](/rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md) for context.
+
+Beginning with the 2022-23 school year and subject to the availability of amounts appropriated for this specific purpose, school districts and educational service districts must use equity, diversity, inclusion, antiracism, and cultural competency training materials from the recommended list developed under RCW 28A.345.100 to provide job-embedded, ongoing training opportunities for classified staff, certificated instructional staff, certificated administrative staff, and the superintendent.
 
 
 ## Section 5

@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature that this act be curative, remedial, and retroactively applied.
 
+
 ## Section 2
 > This section modifies existing section [41.26.030](/rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md) for context.
 
@@ -1088,4 +1089,16 @@ As used in this section and RCW 43.43.130 through 43.43.320, unless a different 
 24. "State treasurer" means the treasurer of the state of Washington.
 
 Unless the context expressly indicates otherwise, words importing the masculine gender shall be extended to include the feminine gender and words importing the feminine gender shall be extended to include the masculine gender.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [41.50](/rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md) for context.
+
+1. With respect to plans administered by the department:
+
+    a. If an employer participates in the shared work program under chapter 50.60 RCW, any reduction in hours worked by a member as a result of the employer's participation in the program does not impact the retirement benefit the member would otherwise be entitled to receive had the member's hours not been reduced. A member's benefit will be calculated as if the member did not incur a reduction in hours through participating in an approved shared work compensation plan under chapter 50.60 RCW.
+
+    b. This section does not apply to deferred compensation plans.
+
+2. This section applies both prospectively and retroactively to July 28, 2013, the date that chapter 79, Laws of 2013 became effective.
 

@@ -199,7 +199,86 @@
 8. The attorney general shall provide **legal counsel to** the board.
 
 
+## Section 7
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Notwithstanding any other provision of this chapter, a person may petition the board for conditional commutation if the person:
+
+    a. Is not subject to the jurisdiction of the indeterminate sentence review board pursuant to RCW 9.94A.730 or 9.94A.507, or the person's offense was committed prior to July 1, 1984;
+
+    b. Has served at least 20 consecutive years of total confinement;
+
+    c. Consents to a review of all of his or her medical, mental
+
+health, and department files by the board; and
+
+    d. Does not have any current appeals pending or collateral attacks pending on the case for which the person is seeking conditional commutation.
+
+2. No later than five years prior to the date the person will be eligible to petition for release, the department shall:
+
+    a. Notify the person regarding his or her eligibility under this section; and
+
+    b. Conduct an assessment of the person and identify programming and services that would be appropriate to prepare the person for return to the community. To the extent possible, the department shall make programming available as identified by the assessment.
+
+3. If the person has a prior known or diagnosed decreased cognitive function or developmental disability, or a decreased cognitive function or developmental disability is determined during the assessment process as outlined in subsection (2)(b) of this section, the department shall assist the person with the process of applying for review by the board or refer to additional services for such assistance.
+
+4. No later than 180 days from the date that the person submits his or her petition for conditional commutation to the board, the department shall conduct, and the person shall participate in, an examination of the person, incorporating methodologies that are evidence-based, normed on the specific gender of the offender, and recognized by experts in the prediction of dangerousness, and including a prediction of the probability that the person will engage in future criminal behavior if released on conditions to be set by the board. The board may consider a person's failure to participate in an evaluation under this subsection in determining whether to release the person.
+
+5. The board shall recommend the person be released under such affirmative and other conditions as the panel determines appropriate, unless the panel determines by a preponderance of the evidence that, despite such conditions, it is more likely than not that the person will commit new criminal law violations if released.
+
+6. The board may take any of the following actions: Deny a petition without a hearing because the person does not meet the initial criteria for filing a petition; or conduct a hearing in accordance with RCW 9.94A.885 to consider additional information, and then deny the petition or recommend conditional commutation to the governor.
+
+7. In making its decision, the board shall consider, if available, the following factors and information:
+
+    a. Public safety;
+
+    b. The person's criminal history;
+
+    c. The nature and circumstances of the offenses committed, including the current and past offenses;
+
+    d. The person's social and medical history;
+
+    e. Evidence of the person's remorse, atonement, and self-reflection in relation to the offense committed, including any efforts to participate in the department's victim offender dialogue program. If the individual submitted an Alford plea, the board shall take into consideration the impact that may have on an individual's ability to provide evidence of remorse and atonement;
+
+    f. Evidence of the person's rehabilitation, including behavior while incarcerated, job history, education participation in available rehabilitative program and treatment, and infraction history;
+
+    g. Statements of correctional staff, program supervisors, and volunteer facilitators regarding the person;
+
+    h. Input from the victims of the crime;
+
+    i. Input from the police and prosecutors in the jurisdictions where the person's crimes were committed;
+
+    j. Input from persons in the community pledging their support of the person, if released;
+
+    k. The available resources in the community to help the person transition to life outside of prison;
+
+    l. A risk assessment and psychological evaluation provided by the department;
+
+    m. The sentencing judge's analysis in imposing an exceptional sentence, if any; and
+
+    n. Any other relevant factors.
+
+8. Further, the board shall consider a release plan presented by the person showing where the person will reside and how he or she will support himself or herself during the first year after his or her release. The department shall independently review the proposed release plan and make an independent evaluation to ensure the person is not released to an area where the victim resides or that impacts community safety.
+
+9. If the board recommends commutation or denies the petition, it shall specify the reasons for the decision.
+
+10. The conditions for conditional commutation may include: Partial confinement for up to six months, regular drug and/or alcohol testing, no violations of law, restrictions on travel, no contact with certain individuals or classes of individuals, restrictions on the type of employment and any other restrictions that the board determines to be reasonable and appropriate, or any other condition which provides for community protection from the released person.
+
+11. A person whose petition for conditional commutation is denied may file a new petition for conditional commutation three years from the date of denial or at an earlier date as may be set by the board.
+
+12. The person does not have a right to appointed counsel. Both lawyers and nonlawyers may assist the person in the preparation of his or her petition and at the hearing.
+
+13. All information contained in a petition or that is submitted to the board is subject to public disclosure.
+
+14. The board may adopt rules setting out criteria and procedures for the review of petitions under this section and RCW 9.94A.885 as appropriate.
+
+15. For purposes of this section, "board" means the clemency and pardons board.
+
+
 ## Section 8
-(1) Chapter 187, Laws of 2019 removed robbery in the second degree as a most serious offense in sentencing a person as a persistent offender. At that time, the legislature declined to require resentencing of individuals serving a life sentence as the result of a conviction for robbery in the second degree. The legislature recognizes the need to balance considerations that may have gone into the original charging decision and the inequities that may have resulted from including robbery in the second degree as a third strike offense.
-(2) In exercising its duties under RCW 9.94A.885 and section 7 of this act, the clemency and pardons board shall give priority consideration to individuals who petition for conditional commutation and who have a current or past conviction for robbery in the second degree that was used as a basis for a finding that the individual was a persistent offender.
-(3) This section expires December 31, 2024.
+1. Chapter 187, Laws of 2019 removed robbery in the second degree as a most serious offense in sentencing a person as a persistent offender. At that time, the legislature declined to require resentencing of individuals serving a life sentence as the result of a conviction for robbery in the second degree. The legislature recognizes the need to balance considerations that may have gone into the original charging decision and the inequities that may have resulted from including robbery in the second degree as a third strike offense.
+
+2. In exercising its duties under RCW 9.94A.885 and section 7 of this act, the clemency and pardons board shall give priority consideration to individuals who petition for conditional commutation and who have a current or past conviction for robbery in the second degree that was used as a basis for a finding that the individual was a persistent offender.
+
+3. This section expires December 31, 2024.
+

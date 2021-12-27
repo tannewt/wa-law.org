@@ -1,5 +1,6 @@
 # SB 5493 - Residential renewable energy
-*Status: Prefiled for introduction.*
+*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5493&Year=2021)
+
 Reopening the renewable energy system incentive program for residential-scale systems.
 
 ## Revisions

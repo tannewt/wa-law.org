@@ -40,3 +40,19 @@
 
     b. **Post a notice on the premises of the agency subject to licensing under this chapter that is operating without a license indicating that child care services were provided on those premises without a license when licensure is required under this chapter.**
 
+
+## Section 2
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. The department, the Washington association of sheriffs and police chiefs, and the Washington association of prosecuting attorneys shall jointly develop a model policy related to responding to complaints alleging that an agency subject to licensure under this chapter is operating without a license. The model policy must, at a minimum, include the appropriate:
+
+    a. Roles for the department and law enforcement in responding to complaints alleging that an agency subject to licensure under this chapter is operating without a license;
+
+    b. Occasions when the department should involve law enforcement when responding to complaints alleging that an agency subject to licensure under this chapter is operating without a license; and
+
+    c. Criteria to use in determining whether penalties should be assessed as provided under RCW 43.216.325 or criminal charges should be pursued as provided under RCW 43.216.365 against an agency subject to licensure under this chapter that is operating without a license.
+
+2. By November 1, 2021, and in compliance with RCW 43.01.036, the department and the Washington association of sheriffs and police chiefs shall submit a report to the governor and the appropriate committees of the legislature that details the model policy required under subsection (1) of this section.
+
+3. This section expires June 20, 2022.
+

@@ -1,6 +1,44 @@
 # House Bill 1572
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1572.xml)
+## Section 1
+> This section adds a new section to an existing chapter [82.08](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
+
+1. The tax levied by RCW 82.08.020 does not apply to sales of motor vehicles to a rental car company, if the motor vehicle is used exclusively for the purpose of renting to consumers in the ordinary course of business, and is:
+
+    a. An electric vehicle; or
+
+    b. A hybrid vehicle.
+
+2. This exemption is available only if the buyer provides the seller with an exemption certificate in a form and manner as prescribed by the department.
+
+3. For purposes of this section, the following definitions apply:
+
+    a. "Electric vehicle" means a vehicle that uses energy stored in rechargeable battery packs or in hydrogen fuel cells and which relies solely on electric motors for propulsion.
+
+    b. "Hybrid vehicle" means a vehicle with a hybrid propulsion system that operates on both traditional fuel and stored electricity.
+
+    c. "Motor vehicle" means a vehicle that is self-propelled and that is capable of being moved upon a public highway.
+
+    d. "Rental car company" has the same meaning as provided in RCW 48.115.005.
+
+4. This section expires January 1, 2032.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [82.12](/rcw/82_excise_taxes/82.12_use_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.12_use_tax.md) for context.
+
+1. The provisions of this chapter do not apply with respect to the use of a motor vehicle by a rental car company, if the motor vehicle is used exclusively for the purpose of renting to consumers in the ordinary course of business, and is:
+
+    a. An electric vehicle; or
+
+    b. A hybrid vehicle.
+
+2. The definitions in section 1 of this act apply to this section.
+
+3. This section expires January 1, 2032.
+
+
 ## Section 3
 > This section modifies existing section [82.08.020](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
 
@@ -396,8 +434,13 @@ For the purposes of this chapter:
 
 
 ## Section 7
-(1) This section is the tax preference performance statement for the tax preference contained in sections 1 and 2 of this act, chapter . . ., Laws of 2021 (sections 1 and 2 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
-(3) It is the legislature's specific public policy objective to increase the percentage of electric, hybrid, and fuel cell vehicles, as well as the fueling infrastructure that supports them, in the state.
-(4) If a review finds that the percentage of vehicles in the state that are electric, hybrid, or fuel cell has surpassed that of conventional gas vehicles, and the amount of fueling infrastructure for electric, hybrid, or fuel cell vehicles has increased, then the legislature intends to extend the expiration date of the tax preference.
-(5) In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+1. This section is the tax preference performance statement for the tax preference contained in sections 1 and 2 of this act, chapter . . ., Laws of 2021 (sections 1 and 2 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
+
+3. It is the legislature's specific public policy objective to increase the percentage of electric, hybrid, and fuel cell vehicles, as well as the fueling infrastructure that supports them, in the state.
+
+4. If a review finds that the percentage of vehicles in the state that are electric, hybrid, or fuel cell has surpassed that of conventional gas vehicles, and the amount of fueling infrastructure for electric, hybrid, or fuel cell vehicles has increased, then the legislature intends to extend the expiration date of the tax preference.
+
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+

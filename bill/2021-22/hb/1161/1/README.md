@@ -14,8 +14,10 @@
 
 
 ## Section 2
-(1) The legislature finds that in 2018, the legislature passed Engrossed Substitute House Bill No. 1047, which required drug manufacturers that sell drugs into Washington to operate a drug take-back program to collect and dispose of prescription and over-the-counter drugs. Further, the legislature finds that there is uncertainty about whether, under current law, more than one drug take-back program may operate.
-(2) Therefore, the legislature intends to clearly authorize the department of health to approve and allow the operation of multiple drug take-back programs that meet other statutory requirements.
+1. The legislature finds that in 2018, the legislature passed Engrossed Substitute House Bill No. 1047, which required drug manufacturers that sell drugs into Washington to operate a drug take-back program to collect and dispose of prescription and over-the-counter drugs. Further, the legislature finds that there is uncertainty about whether, under current law, more than one drug take-back program may operate.
+
+2. Therefore, the legislature intends to clearly authorize the department of health to approve and allow the operation of multiple drug take-back programs that meet other statutory requirements.
+
 
 ## Section 3
 > This section modifies existing section [69.48.050](/rcw/69_food_drugs_cosmetics_and_poisons/69.48_drug_take-back_program.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.48_drug_take-back_program.md) for context.

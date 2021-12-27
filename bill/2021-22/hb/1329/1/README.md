@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1329.xml)
 ## Section 1
 It is the intent of this act to urge governing bodies, and particularly governing bodies formed under chapter 36.57A or 81.112 RCW, to move to online meetings to allow for more public participation opportunities and more diverse public comment. During the COVID-19 outbreak in the United States and Washington state, there was a gubernatorial proclamation authorizing governing bodies to utilize remote meetings. It was found that meetings conducted via remote access were successful in reigniting the spirit of RCW 42.30.030 thanks to the courage, ingenuity, and integrity of many public servants.
+
 Therefore, the legislature finds that, unless impracticable, all meetings must have remote access, and may if necessary have an in-person component, both for increased accessibility for all Washingtonians and especially disabled persons; but also to limit greenhouse gas emissions as per RCW 70A.45.005 and 70A.05.900. The legislature further finds that Washington should continue to be a national and international leader on energy conservation and environmental stewardship by recognizing travel to and from public meetings represents a significant source of emissions, and that reducing the need for such travel is achievable, cost-effective, and innovative in emission reduction.
+
 
 ## Section 2
 > This section modifies existing section [42.30.010](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
@@ -53,6 +55,28 @@ As used in this chapter unless the context indicates otherwise:
     c. **The local government employs fewer than 10 full-time equivalent employees.**
 
 3. **A governing body of a local government need not meet in-person if remote access public attendance under subsection (2) of this section is offered. If the governing body of the local government is meeting in-person, then the governing body must also offer in-person public attendance, unless the physical attendance by some or all members of the public is limited due to a declared emergency.**
+
+
+## Section 5
+> This section adds a new section to an existing chapter [42.30](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. [Empty]
+
+    a. A local government must make a video recording of all meetings of the governing body available online for a minimum of six months, unless:
+
+        i. Doing so would be impracticable because of: (A) A temporary equipment failure; (B) a lack of staff; or (C) another reason that renders such action unfeasible; or
+
+        ii. If compliance would require a cost of more than one percent of the local government's annual budget.
+
+    b. If a video recording would be impracticable, then a local government may instead make an audio recording of all meetings of the governing body available online for a minimum of six months.
+
+2. This section does not apply to a local government if it does not have a website or if it employs fewer than 10 full-time equivalent employees.
+
+3. The recording requirements of this section do not apply to executive sessions held under RCW 42.30.110.
+
+4. Failure to post a meeting recording in accordance with this section does not provide a basis for awarding attorneys' fees under RCW 42.30.120 or commencing an action for mandamus or injunction under RCW 42.30.130.
+
+5. This section does not alter a local government's recordkeeping requirements under chapter 42.56 RCW.
 
 
 ## Section 6
@@ -111,6 +135,20 @@ This subsection (1)(i) does not permit a governing body to hold an executive ses
 2. Before convening in executive session, the presiding officer of a governing body shall publicly announce the purpose for excluding the public from the meeting place, and the time when the executive session will be concluded. The executive session may be extended to a stated later time by announcement of the presiding officer. **The announced purpose of excluding the public must be entered into the minutes of the meeting required by RCW 42.30.035.**
 
 
+## Section 8
+> This section adds a new section to an existing chapter [42.30](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
+
+1. Prior to taking a final action other than the approval of minutes or an agenda, adjourning a meeting, taking action on a procedural motion, or taking any similar action, a governing body must accept public comment on the motion, proposal, resolution, order, or ordinance upon which the final action will be taken. This public comment may be taken at any time prior to the final action and need not occur immediately prior to the final action. If public comment has not yet occurred on a motion, proposal, resolution, order, or ordinance, then for the purposes of this section, the adoption of an amendment to the motion, proposal, resolution, order, or ordinance before final passage is not a final action.
+
+2. Public comment may be accepted orally, through email, or both, at the discretion of the governing body. If public comment is accepted orally, it must be accepted from those accessing the meeting through real-time telephonic, electronic, internet, or other means of remote access as well as from those present in person. Any public comment accepted through email must be posted to a website established or designated by the governing body.
+
+3. Nothing in this section prevents a governing body from allowing public comment on items on which final action is not proposed to be taken, or on items not on the meeting agenda.
+
+4. This section does not apply to a committee of the governing body.
+
+5. Nothing in this section diminishes the authority of governing bodies to deal with interruptions under RCW 42.30.050, to limit the ability of the governing body to put reasonable limitations on how public comment is accepted, or to require a governing body to accept public comment that renders orderly conduct of the meeting unfeasible.
+
+
 ## Section 9
 > This section modifies existing section [42.30.900](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
 
@@ -119,3 +157,4 @@ This chapter may be **known and** cited as the **Washington state open public me
 
 ## Section 10
 This act may be known and cited as the Heather "Newsbrooke" Brooke, Ph.D. act.
+

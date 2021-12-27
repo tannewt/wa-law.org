@@ -2,257 +2,483 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1513.xml)
 ## Section 1
-(1) The emission of greenhouse gases, such as carbon dioxide, is a significant contributor to anthropogenic climate change, and has devastating adverse impacts on Washington's economy, environment, natural resources, and communities. Our state is already experiencing rising sea levels, depleting snowpack, increased flooding, acidifying oceans, and more frequent and severe wildfires. These impacts impair our prosperity and impose burdensome costs on our businesses and communities.
-(2) Climate risk is economic risk, and it is imperative that Washington act now to safeguard the state's communities and industries against future shocks and disasters by putting a price on practices that increase the state's exposure to risk and investing in those that increase resilience. From farmers whose business is directly threatened by the climate crisis, to coastal communities at risk of outright displacement, the state must act now by investing locally at the scale needed to move all Washingtonians toward a future of shared prosperity as we build the clean economy here in Washington state.
-(3) Washington state is home to some of the world's most innovative companies, a highly skilled workforce, and important industries. As our state transitions away from a fossil fuel-based economy, we must do so in a way that protects these assets and allows our businesses to thrive. By launching a comprehensive fiscal program that incentivizes and invests in resilient infrastructure and climate-smart investments across all areas of development, we can reduce our state's carbon dioxide emissions while preparing our economy for the future.
-(4) Washington is home to more than 10,000,000 acres of working forestlands, including private lands and state trust lands. These lands represent the foundation of a forest products industry that sequesters massive amounts of carbon dioxide from the atmosphere simply through its standard, baseline operations. These working forests are one of the state's greatest natural assets in combating global greenhouse gas emissions. A statewide carbon policy must support and maintain the ecosystem values provided by the forest products industry. Healthy, sustainable, working forests maximize the forests' ability to absorb carbon dioxide with lumber and other forest products continuing to sequester that carbon dioxide in their useful life. For these reasons, this chapter exempts certain timber-related uses of fuels subject to the carbon pollution tax imposed under this chapter.
-(5) Washington is also home to one of the most productive and innovative agricultural sectors in the world. Agriculture is not only critical to our economy, but it is integral to our culture. With farmers and farmworkers on the front lines of climate-related disruption such as wildfire, flooding, drought, pests, and other threats to the land, labor, and the business of farming, investing in practices that increase the natural and economic resilience of and decrease the greenhouse gas emissions from Washington agriculture is critical. Farmers have been leading the way on land stewardship and soil health for decades, while operating in a highly trade-exposed and price-constrained industry that imposes singular economic challenges. For these reasons, this chapter exempts certain agricultural uses of fuels subject to the carbon pollution tax imposed under this chapter.
-(6) Fossil fuel combustion is also responsible for other pollutants, such as nitrous oxide, carbon monoxide, benzene, particulate matter, and others that contribute to respiratory diseases like asthma and lung cancer, which compromise public health, shorten life expectancy, and strain our public health system. This pollution affects all Washingtonians, but falls disproportionately on low-income communities, communities of color, and the most vulnerable of our population. Reducing our reliance on fossil fuels will therefore contribute to improved air quality and improved public health outcomes.
-(7) The legislature recognizes and finds that the public interest includes, but is not limited to: The equitable distribution of energy benefits and reduction of burdens to vulnerable populations and highly impacted communities; long-term and short-term public health, economic, and environmental benefits and the reduction of costs and risks; and energy security and resiliency. It is the intent of the legislature that in achieving this policy for Washington, there should not be an increase in environmental health impacts to highly impacted communities.
-(8) The legislature finds that Washington is leading the transition to a clean energy economy, and in 2019 the state adopted the Washington clean energy transformation act, chapter 19.405 RCW, to eliminate coal-fired electricity, ensure that all retail sales of electricity to Washington customers are greenhouse gas neutral by January 1, 2030, supply 100 percent of all retail sales to Washington customers with nonemitting and renewable resources by January 1, 2045, and established strong compliance and enforcement mechanisms. Because of the stringent requirements of the Washington clean energy transformation act, the electricity sector is exempt from the carbon pollution tax established in this chapter.
-(9) The legislature recognizes the concern from imposing the requirements of this chapter on energy-intensive, trade-exposed industries in our state and the possibility that these requirements might provide a comparative disadvantage to producers in unregulated states or counties, leading to a migration of manufacturing to unregulated states or countries and thereby generating a corresponding increase in greenhouse gas emissions, which would undermine the purposes of this chapter. Because of the concern of leakage, the department of ecology must provide a report to the governor and the appropriate committees of the legislature by July 30, 2026, with recommendations on imposing the requirements of this chapter on energy-intensive, trade-exposed entities as identified in section 3 of this act.
-(10) This chapter establishes a carbon pollution tax to account for a significant share of the economic and environmental impacts of greenhouse gas emissions. The revenue from the tax will facilitate the transition from fossil fuels to clean energy and fund investments that will benefit our businesses, our families, and our communities.
-(11) Furthermore, this act establishes a ten-year, climate finance program that provides much needed additional capacity to invest in a just transition that protects our communities and our economy from future disasters and builds the low-carbon future here in Washington state. This finance program mandates that investment decisions are made in a manner that provides accountability in government spending through a fiscally responsible bond program that invests at scale in climate priorities and delivers maximum returns in the forms of both economic activity and carbon pollution reduction. These investments will not only save Washington taxpayers billions of dollars in avoidable future costs, but also foster growth and stability for rural and urban communities alike, across diverse economic sectors.
+1. The emission of greenhouse gases, such as carbon dioxide, is a significant contributor to anthropogenic climate change, and has devastating adverse impacts on Washington's economy, environment, natural resources, and communities. Our state is already experiencing rising sea levels, depleting snowpack, increased flooding, acidifying oceans, and more frequent and severe wildfires. These impacts impair our prosperity and impose burdensome costs on our businesses and communities.
+
+2. Climate risk is economic risk, and it is imperative that Washington act now to safeguard the state's communities and industries against future shocks and disasters by putting a price on practices that increase the state's exposure to risk and investing in those that increase resilience. From farmers whose business is directly threatened by the climate crisis, to coastal communities at risk of outright displacement, the state must act now by investing locally at the scale needed to move all Washingtonians toward a future of shared prosperity as we build the clean economy here in Washington state.
+
+3. Washington state is home to some of the world's most innovative companies, a highly skilled workforce, and important industries. As our state transitions away from a fossil fuel-based economy, we must do so in a way that protects these assets and allows our businesses to thrive. By launching a comprehensive fiscal program that incentivizes and invests in resilient infrastructure and climate-smart investments across all areas of development, we can reduce our state's carbon dioxide emissions while preparing our economy for the future.
+
+4. Washington is home to more than 10,000,000 acres of working forestlands, including private lands and state trust lands. These lands represent the foundation of a forest products industry that sequesters massive amounts of carbon dioxide from the atmosphere simply through its standard, baseline operations. These working forests are one of the state's greatest natural assets in combating global greenhouse gas emissions. A statewide carbon policy must support and maintain the ecosystem values provided by the forest products industry. Healthy, sustainable, working forests maximize the forests' ability to absorb carbon dioxide with lumber and other forest products continuing to sequester that carbon dioxide in their useful life. For these reasons, this chapter exempts certain timber-related uses of fuels subject to the carbon pollution tax imposed under this chapter.
+
+5. Washington is also home to one of the most productive and innovative agricultural sectors in the world. Agriculture is not only critical to our economy, but it is integral to our culture. With farmers and farmworkers on the front lines of climate-related disruption such as wildfire, flooding, drought, pests, and other threats to the land, labor, and the business of farming, investing in practices that increase the natural and economic resilience of and decrease the greenhouse gas emissions from Washington agriculture is critical. Farmers have been leading the way on land stewardship and soil health for decades, while operating in a highly trade-exposed and price-constrained industry that imposes singular economic challenges. For these reasons, this chapter exempts certain agricultural uses of fuels subject to the carbon pollution tax imposed under this chapter.
+
+6. Fossil fuel combustion is also responsible for other pollutants, such as nitrous oxide, carbon monoxide, benzene, particulate matter, and others that contribute to respiratory diseases like asthma and lung cancer, which compromise public health, shorten life expectancy, and strain our public health system. This pollution affects all Washingtonians, but falls disproportionately on low-income communities, communities of color, and the most vulnerable of our population. Reducing our reliance on fossil fuels will therefore contribute to improved air quality and improved public health outcomes.
+
+7. The legislature recognizes and finds that the public interest includes, but is not limited to: The equitable distribution of energy benefits and reduction of burdens to vulnerable populations and highly impacted communities; long-term and short-term public health, economic, and environmental benefits and the reduction of costs and risks; and energy security and resiliency. It is the intent of the legislature that in achieving this policy for Washington, there should not be an increase in environmental health impacts to highly impacted communities.
+
+8. The legislature finds that Washington is leading the transition to a clean energy economy, and in 2019 the state adopted the Washington clean energy transformation act, chapter 19.405 RCW, to eliminate coal-fired electricity, ensure that all retail sales of electricity to Washington customers are greenhouse gas neutral by January 1, 2030, supply 100 percent of all retail sales to Washington customers with nonemitting and renewable resources by January 1, 2045, and established strong compliance and enforcement mechanisms. Because of the stringent requirements of the Washington clean energy transformation act, the electricity sector is exempt from the carbon pollution tax established in this chapter.
+
+9. The legislature recognizes the concern from imposing the requirements of this chapter on energy-intensive, trade-exposed industries in our state and the possibility that these requirements might provide a comparative disadvantage to producers in unregulated states or counties, leading to a migration of manufacturing to unregulated states or countries and thereby generating a corresponding increase in greenhouse gas emissions, which would undermine the purposes of this chapter. Because of the concern of leakage, the department of ecology must provide a report to the governor and the appropriate committees of the legislature by July 30, 2026, with recommendations on imposing the requirements of this chapter on energy-intensive, trade-exposed entities as identified in section 3 of this act.
+
+10. This chapter establishes a carbon pollution tax to account for a significant share of the economic and environmental impacts of greenhouse gas emissions. The revenue from the tax will facilitate the transition from fossil fuels to clean energy and fund investments that will benefit our businesses, our families, and our communities.
+
+11. Furthermore, this act establishes a ten-year, climate finance program that provides much needed additional capacity to invest in a just transition that protects our communities and our economy from future disasters and builds the low-carbon future here in Washington state. This finance program mandates that investment decisions are made in a manner that provides accountability in government spending through a fiscally responsible bond program that invests at scale in climate priorities and delivers maximum returns in the forms of both economic activity and carbon pollution reduction. These investments will not only save Washington taxpayers billions of dollars in avoidable future costs, but also foster growth and stability for rural and urban communities alike, across diverse economic sectors.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Biogenic fuel" means any liquid or gaseous fuel that is not a fossil fuel.
-(2) "Carbon calculation" means a calculation made by the department of ecology, in consultation with the department of commerce, for purposes of determining the carbon dioxide emissions from the complete combustion or oxidation of fossil fuels for use in calculating the tax imposed under section 3 of this act. The carbon calculation also includes the life-cycle analysis of emissions associated with such fuels.
-(3) "Carbon content of fuels" means the greenhouse gas emissions generated by the combustion or oxidation of fuels.
-(4) "Carbon dioxide equivalent" means a metric measure used to compare the emissions of various greenhouse gases based on their global warming potential.
-(5) "Carbon pollution tax" means the tax created in section 3 of this act.
-(6) "Coal" means coal of any kind, including anthracite coal, bituminous coal, subbituminous coal, lignite, waste coal, syncoal, and coke of any kind.
-(7) "Consumer price index" means, for any calendar year, that year's annual average consumer price index, for Washington state, for wage earners and clerical workers, all items, compiled by the bureau of labor and statistics, United States department of labor. If the bureau of labor and statistics develops more than one consumer price index for areas within the state, the index covering the greatest number of people, covering areas exclusively within the boundaries of the state, and including all items must be used for the adjustments for inflation in this section.
-(8) "Department" means the department of revenue.
-(9) "Direct access gas customer" means a person who purchases natural gas for consumption from any seller other than a seller registered with the department for purposes of paying taxes due under chapter 82.04 or 82.16 RCW.
-(10) "Facility" means any physical property, plant, building, structure, source, or stationary equipment located on one or more contiguous or adjacent properties in actual physical contact or separated solely by a public roadway or other public right-of-way and under common ownership or common control, that emits or may emit any greenhouse gas.
-(11) "Fossil fuel" means petroleum products, motor vehicle fuel, special fuel, aircraft fuel, natural gas, petroleum, coal, or any form of solid, liquid, or gaseous fuel derived from these products, including without limitation still gas, propane, and petroleum residuals including bunker fuel.
-(12) "Fuel" means a fossil fuel or biogenic fuel. "Fuel" does not include electricity.
-(13) "Gas distribution business" has the same meaning as defined in RCW 82.16.010.
-(14) "Greenhouse gas" and "greenhouse gases" have the same meaning as defined in RCW 70A.45.010.
-(15) "Highly impacted community" means a community designated by the department of health based on cumulative impact analyses conducted under RCW 19.405.140, or a community located in a census tract that is fully or partially located on "Indian country," as that term is defined in 18 U.S.C. Sec. 1151.
-(16) "Light and power business" has the same meaning as defined in RCW 82.16.010.
-(17) "Motor vehicle fuel" has the same meaning as defined in RCW 82.38.020.
-(18) "Natural gas" means naturally occurring mixtures of hydrocarbon gases and vapors consisting principally of methane, whether in gaseous or liquid form, including methane clathrate.
-(19) "Person" has the same meaning as defined in RCW 82.04.030.
-(20) "Petroleum product" has the same meaning as defined in RCW 82.23A.010.
-(21) "Special fuel" has the same meaning as defined in RCW 82.38.020 and includes fuel that is sold or used to propel vessels.
-(22) "Taxpayer" means a person subject to the carbon pollution tax imposed under section 3 of this act.
-(23) "Tribal lands" has the same meaning as "Indian country" as provided in 18 U.S.C. Sec. 1151, and also includes sacred sites, traditional cultural properties, burial grounds, and other tribal sites protected by federal or state law.
-(24) "Vulnerable populations" means communities that experience a disproportionate cumulative risk from environmental burdens due to adverse socioeconomic factors and sensitivity factors.
-(25) "Year" means the 12-month period commencing January 1st and ending December 31st unless otherwise specified.
+
+1. "Biogenic fuel" means any liquid or gaseous fuel that is not a fossil fuel.
+
+2. "Carbon calculation" means a calculation made by the department of ecology, in consultation with the department of commerce, for purposes of determining the carbon dioxide emissions from the complete combustion or oxidation of fossil fuels for use in calculating the tax imposed under section 3 of this act. The carbon calculation also includes the life-cycle analysis of emissions associated with such fuels.
+
+3. "Carbon content of fuels" means the greenhouse gas emissions generated by the combustion or oxidation of fuels.
+
+4. "Carbon dioxide equivalent" means a metric measure used to compare the emissions of various greenhouse gases based on their global warming potential.
+
+5. "Carbon pollution tax" means the tax created in section 3 of this act.
+
+6. "Coal" means coal of any kind, including anthracite coal, bituminous coal, subbituminous coal, lignite, waste coal, syncoal, and coke of any kind.
+
+7. "Consumer price index" means, for any calendar year, that year's annual average consumer price index, for Washington state, for wage earners and clerical workers, all items, compiled by the bureau of labor and statistics, United States department of labor. If the bureau of labor and statistics develops more than one consumer price index for areas within the state, the index covering the greatest number of people, covering areas exclusively within the boundaries of the state, and including all items must be used for the adjustments for inflation in this section.
+
+8. "Department" means the department of revenue.
+
+9. "Direct access gas customer" means a person who purchases natural gas for consumption from any seller other than a seller registered with the department for purposes of paying taxes due under chapter 82.04 or 82.16 RCW.
+
+10. "Facility" means any physical property, plant, building, structure, source, or stationary equipment located on one or more contiguous or adjacent properties in actual physical contact or separated solely by a public roadway or other public right-of-way and under common ownership or common control, that emits or may emit any greenhouse gas.
+
+11. "Fossil fuel" means petroleum products, motor vehicle fuel, special fuel, aircraft fuel, natural gas, petroleum, coal, or any form of solid, liquid, or gaseous fuel derived from these products, including without limitation still gas, propane, and petroleum residuals including bunker fuel.
+
+12. "Fuel" means a fossil fuel or biogenic fuel. "Fuel" does not include electricity.
+
+13. "Gas distribution business" has the same meaning as defined in RCW 82.16.010.
+
+14. "Greenhouse gas" and "greenhouse gases" have the same meaning as defined in RCW 70A.45.010.
+
+15. "Highly impacted community" means a community designated by the department of health based on cumulative impact analyses conducted under RCW 19.405.140, or a community located in a census tract that is fully or partially located on "Indian country," as that term is defined in 18 U.S.C. Sec. 1151.
+
+16. "Light and power business" has the same meaning as defined in RCW 82.16.010.
+
+17. "Motor vehicle fuel" has the same meaning as defined in RCW 82.38.020.
+
+18. "Natural gas" means naturally occurring mixtures of hydrocarbon gases and vapors consisting principally of methane, whether in gaseous or liquid form, including methane clathrate.
+
+19. "Person" has the same meaning as defined in RCW 82.04.030.
+
+20. "Petroleum product" has the same meaning as defined in RCW 82.23A.010.
+
+21. "Special fuel" has the same meaning as defined in RCW 82.38.020 and includes fuel that is sold or used to propel vessels.
+
+22. "Taxpayer" means a person subject to the carbon pollution tax imposed under section 3 of this act.
+
+23. "Tribal lands" has the same meaning as "Indian country" as provided in 18 U.S.C. Sec. 1151, and also includes sacred sites, traditional cultural properties, burial grounds, and other tribal sites protected by federal or state law.
+
+24. "Vulnerable populations" means communities that experience a disproportionate cumulative risk from environmental burdens due to adverse socioeconomic factors and sensitivity factors.
+
+25. "Year" means the 12-month period commencing January 1st and ending December 31st unless otherwise specified.
+
 
 ## Section 3
-(1)(a) Beginning January 1, 2023, a carbon pollution tax is imposed in the state at a rate of tax equal to $25 per metric ton of greenhouse gas emissions. The tax rate automatically increases on January 1, 2024, and each year thereafter, at a rate of five percent per year, and is adjusted for inflation using the consumer price index.
-(b) As of January 1, 2030, if the department of ecology, based on data collected by the department on total fuels subject to the tax in (a) of this subsection in the previous year, determines that the sources of emissions covered by the tax are not predicted to achieve their combined share of the emissions reductions necessary for the state to achieve the emissions limits established in RCW 70A.45.020, the tax rate established in (a) of this subsection increases by $10 effective as of January 1, 2031. Each year thereafter, the tax rate continues to increase by five percent per year plus inflation, with an additional increase of $2 per year until the department of ecology determines that the sources of emissions covered by the tax rate are expected to meet the limits established in RCW 70A.45.020, at which point the additional $2 per year increase is retired, and the annual rate of increase returns to five percent plus inflation. Every two years between the years 2030 and 2050, the department, in consultation with the department of ecology, must reevaluate the necessary tax rate to ensure the state achieves a goal of net-zero emissions by 2050. The department of ecology must make the determinations required under this subsection (1)(b) and notify the department by April 1st of each odd-numbered year.
-(2) The carbon pollution tax created under this section is imposed on taxable persons for the following fossil fuels at the following points of taxation:
-(a) For motor vehicle fuel, in accordance with and at the intervals provided in chapter 82.38 RCW;
-(b) For special fuel, in accordance with and at the intervals provided in chapter 82.38 RCW;
-(c) For every other petroleum product, in accordance with and at the intervals provided in chapter 82.23A RCW;
-(d) For fossil fuels not listed elsewhere in this subsection, in accordance with chapters 82.08 and 82.12 RCW unless expressly provided otherwise in this section; and
-(e) For fossil fuels consumed in refineries, in accordance with the requirements of section 6 of this act.
-(3) The carbon pollution tax created under this section is imposed on taxable persons for the sale or use of natural gas as follows:
-(a) Natural gas transported through the state that is not produced or delivered in the state is exempt from the carbon pollution tax. Natural gas possessed or stored in the state is exempt from the carbon pollution tax unless the tax is otherwise applicable under (b), (c), or (d) of this subsection;
-(b) For natural gas sold by a gas distribution business to a retail customer in the state, the carbon pollution tax is imposed on the gas distribution business upon the sale of such natural gas to the retail customer;
-(c) For natural gas sold to a light and power business for the purpose of generating electricity in the state, the carbon pollution tax is imposed on the gas distribution business upon the sale of such natural gas to the light and power business; and
-(d) For natural gas sold to a direct access gas customer in the state, the carbon pollution tax is imposed on the direct access customer upon the use of such natural gas by the direct access customer.
-(4) The department must determine the tax liability for each taxable person by applying a carbon calculation using methodologies adopted by the department of ecology as follows:
-(a) For fossil fuels consumed in refineries, the department of ecology must adopt by rule criteria for making the carbon calculation in consultation with the department. The department of ecology must consider, among other information, the reports filed pursuant to section 6 of this act. Among other resources, the department of ecology must consider greenhouse gas content measurements for fossil fuels from the United States energy information administration or the United States environmental protection agency.
-(b) For all other fossil fuels, the department of ecology, in consultation with the department, must adopt by rule criteria for making the carbon calculation.
-(c) The department of ecology may require additional information from taxable persons as necessary for determining the carbon calculation under this subsection.
-(5) The carbon pollution tax in this section is levied solely for the purposes of funding projects and activities that reduce greenhouse gas emissions and mitigate the environmental impacts of greenhouse gas emissions and climate change. Therefore, 100 percent of receipts from the carbon pollution tax created under this section must be deposited in the climate finance account created in section 10 of this act. The first and primary obligation of the receipts deposited in the climate finance account created in section 10 of this act is the timely repayment of any and all outstanding special tax obligation bonds that have been issued under the climate finance program authorized under section 10 of this act. Only after debt service obligations have been satisfied can remaining moneys be allocated from the climate finance account created in section 10 of this act to the programs and activities authorized under the greenhouse gas emissions reduction account created in section 17 of this act and the natural climate solutions account created in section 18 of this act.
-(6)(a) The carbon pollution tax created under this section may not be applied to any fossil fuels upon which the tax has been previously imposed.
-(b) A sale of fossil fuel takes place in the state when the fossil fuel is delivered to a purchaser or a person designated by the purchaser, notwithstanding any contract terms designating a location outside of this state as the place of sale.
-(c) All sales within this state of a fossil fuel subject to the carbon pollution tax must document the amount of carbon pollution tax paid in accordance with requirements adopted by the department by rule.
-(d) Persons subject to the carbon pollution tax imposed under this section must provide accounting and reporting to the department relating to how the costs of the carbon pollution tax obligation are passed on to consumers.
-(7)(a) The department must adopt rules as necessary to implement the carbon pollution tax created in this section. Using the carbon calculations adopted by the department of ecology under subsection (4) of this section, the department must develop and make available worksheets and guidance documents necessary to calculate the carbon pollution tax for fossil fuels subject to the tax. Persons subject to the carbon pollution tax imposed under this section must provide to the department information necessary to implement the tax, in accordance with requirements adopted by the department by rule.
-(b)(i) To ensure consistency with the collection of the carbon pollution tax imposed under this section, the department of licensing must periodically provide data to the department pertaining to the tax collected under chapter 82.38 RCW.
-(ii) The department may adopt joint rules and develop joint forms with the department of licensing to impose the carbon pollution tax on the fossil fuel portion of motor vehicle fuel and special fuel taxed under chapter 82.38 RCW. The department may authorize the department of licensing to collect the carbon pollution tax imposed under this section on motor vehicle fuel and special fuel on the department's behalf, and provide for the department of licensing to deposit those funds in the climate finance account created in section 10 of this act.
-(8) By July 30, 2026, the department of ecology must provide a report to the legislature with recommendations on imposing the carbon pollution tax created under this section on energy-intensive, trade-exposed entities, identified according to North American industry classification system code. The recommendations must include input from individual energy-intensive, trade-exposed entities, allow for growth, recognize and provide credit for early actions, recognize the limits of best available control technology, allow for either internal or external benchmarking, and include an analysis of alternative fuels available that could feasibly be used in lieu of fossil fuels.
+1. [Empty]
+
+    a. Beginning January 1, 2023, a carbon pollution tax is imposed in the state at a rate of tax equal to $25 per metric ton of greenhouse gas emissions. The tax rate automatically increases on January 1, 2024, and each year thereafter, at a rate of five percent per year, and is adjusted for inflation using the consumer price index.
+
+    b. As of January 1, 2030, if the department of ecology, based on data collected by the department on total fuels subject to the tax in (a) of this subsection in the previous year, determines that the sources of emissions covered by the tax are not predicted to achieve their combined share of the emissions reductions necessary for the state to achieve the emissions limits established in RCW 70A.45.020, the tax rate established in (a) of this subsection increases by $10 effective as of January 1, 2031. Each year thereafter, the tax rate continues to increase by five percent per year plus inflation, with an additional increase of $2 per year until the department of ecology determines that the sources of emissions covered by the tax rate are expected to meet the limits established in RCW 70A.45.020, at which point the additional $2 per year increase is retired, and the annual rate of increase returns to five percent plus inflation. Every two years between the years 2030 and 2050, the department, in consultation with the department of ecology, must reevaluate the necessary tax rate to ensure the state achieves a goal of net-zero emissions by 2050. The department of ecology must make the determinations required under this subsection (1)(b) and notify the department by April 1st of each odd-numbered year.
+
+2. The carbon pollution tax created under this section is imposed on taxable persons for the following fossil fuels at the following points of taxation:
+
+    a. For motor vehicle fuel, in accordance with and at the intervals provided in chapter 82.38 RCW;
+
+    b. For special fuel, in accordance with and at the intervals provided in chapter 82.38 RCW;
+
+    c. For every other petroleum product, in accordance with and at the intervals provided in chapter 82.23A RCW;
+
+    d. For fossil fuels not listed elsewhere in this subsection, in accordance with chapters 82.08 and 82.12 RCW unless expressly provided otherwise in this section; and
+
+    e. For fossil fuels consumed in refineries, in accordance with the requirements of section 6 of this act.
+
+3. The carbon pollution tax created under this section is imposed on taxable persons for the sale or use of natural gas as follows:
+
+    a. Natural gas transported through the state that is not produced or delivered in the state is exempt from the carbon pollution tax. Natural gas possessed or stored in the state is exempt from the carbon pollution tax unless the tax is otherwise applicable under (b), (c), or (d) of this subsection;
+
+    b. For natural gas sold by a gas distribution business to a retail customer in the state, the carbon pollution tax is imposed on the gas distribution business upon the sale of such natural gas to the retail customer;
+
+    c. For natural gas sold to a light and power business for the purpose of generating electricity in the state, the carbon pollution tax is imposed on the gas distribution business upon the sale of such natural gas to the light and power business; and
+
+    d. For natural gas sold to a direct access gas customer in the state, the carbon pollution tax is imposed on the direct access customer upon the use of such natural gas by the direct access customer.
+
+4. The department must determine the tax liability for each taxable person by applying a carbon calculation using methodologies adopted by the department of ecology as follows:
+
+    a. For fossil fuels consumed in refineries, the department of ecology must adopt by rule criteria for making the carbon calculation in consultation with the department. The department of ecology must consider, among other information, the reports filed pursuant to section 6 of this act. Among other resources, the department of ecology must consider greenhouse gas content measurements for fossil fuels from the United States energy information administration or the United States environmental protection agency.
+
+    b. For all other fossil fuels, the department of ecology, in consultation with the department, must adopt by rule criteria for making the carbon calculation.
+
+    c. The department of ecology may require additional information from taxable persons as necessary for determining the carbon calculation under this subsection.
+
+5. The carbon pollution tax in this section is levied solely for the purposes of funding projects and activities that reduce greenhouse gas emissions and mitigate the environmental impacts of greenhouse gas emissions and climate change. Therefore, 100 percent of receipts from the carbon pollution tax created under this section must be deposited in the climate finance account created in section 10 of this act. The first and primary obligation of the receipts deposited in the climate finance account created in section 10 of this act is the timely repayment of any and all outstanding special tax obligation bonds that have been issued under the climate finance program authorized under section 10 of this act. Only after debt service obligations have been satisfied can remaining moneys be allocated from the climate finance account created in section 10 of this act to the programs and activities authorized under the greenhouse gas emissions reduction account created in section 17 of this act and the natural climate solutions account created in section 18 of this act.
+
+6. [Empty]
+
+    a. The carbon pollution tax created under this section may not be applied to any fossil fuels upon which the tax has been previously imposed.
+
+    b. A sale of fossil fuel takes place in the state when the fossil fuel is delivered to a purchaser or a person designated by the purchaser, notwithstanding any contract terms designating a location outside of this state as the place of sale.
+
+    c. All sales within this state of a fossil fuel subject to the carbon pollution tax must document the amount of carbon pollution tax paid in accordance with requirements adopted by the department by rule.
+
+    d. Persons subject to the carbon pollution tax imposed under this section must provide accounting and reporting to the department relating to how the costs of the carbon pollution tax obligation are passed on to consumers.
+
+7. [Empty]
+
+    a. The department must adopt rules as necessary to implement the carbon pollution tax created in this section. Using the carbon calculations adopted by the department of ecology under subsection (4) of this section, the department must develop and make available worksheets and guidance documents necessary to calculate the carbon pollution tax for fossil fuels subject to the tax. Persons subject to the carbon pollution tax imposed under this section must provide to the department information necessary to implement the tax, in accordance with requirements adopted by the department by rule.
+
+    b. [Empty]
+
+        i. To ensure consistency with the collection of the carbon pollution tax imposed under this section, the department of licensing must periodically provide data to the department pertaining to the tax collected under chapter 82.38 RCW.
+
+        ii. The department may adopt joint rules and develop joint forms with the department of licensing to impose the carbon pollution tax on the fossil fuel portion of motor vehicle fuel and special fuel taxed under chapter 82.38 RCW. The department may authorize the department of licensing to collect the carbon pollution tax imposed under this section on motor vehicle fuel and special fuel on the department's behalf, and provide for the department of licensing to deposit those funds in the climate finance account created in section 10 of this act.
+
+8. By July 30, 2026, the department of ecology must provide a report to the legislature with recommendations on imposing the carbon pollution tax created under this section on energy-intensive, trade-exposed entities, identified according to North American industry classification system code. The recommendations must include input from individual energy-intensive, trade-exposed entities, allow for growth, recognize and provide credit for early actions, recognize the limits of best available control technology, allow for either internal or external benchmarking, and include an analysis of alternative fuels available that could feasibly be used in lieu of fossil fuels.
+
 
 ## Section 4
-(1) The carbon pollution tax created under section 3 of this act does not apply to:
-(a) Electricity;
-(b) Biogenic fuels, including biogas, which includes renewable liquid natural gas or compressed natural gas made from biogas, landfill gas, biodiesel, renewable diesel, and cellulosic ethanol;
-(c) Fossil fuels brought into the state by means of the primary fuel supply tank of a motor vehicle, vessel, locomotive, or aircraft actively supplying fuel for combustion upon entry into the state;
-(d) Fossil fuels upon which the state is prohibited from imposing a tax under the state Constitution or the Constitution or laws of the United States;
-(e) Fossil fuels exported from this state. Export to Indian country located within the boundaries of this state is not considered export from this state. For the purposes of this subsection (1)(e), "Indian country" has the same meaning as provided in RCW 37.12.160;
-(f) Coal transition power as defined in RCW 80.80.010;
-(g)(i) Motor vehicle fuel or special fuel that is used exclusively for agricultural purposes by a farm fuel user. This exemption is available only if a buyer of motor vehicle fuel or special fuel provides the seller with an exemption certificate in a form and manner prescribed by the department. For the purposes of this subsection (1)(g), "agricultural purposes" and "farm fuel user" have the same meanings as provided in RCW 82.08.865;
-(ii) The department must determine a method for expanding the exemption provided under this subsection (1)(g) to include fuels used for the purpose of transporting agricultural products on public highways. The department must maintain this expanded exemption for a period of five years, in order to provide the agricultural sector with a feasible transition period;
-(h) Aircraft fuel as defined in RCW 82.42.010;
-(i) The portion of fossil fuels purchased in the state and combusted outside the state by interstate motor carriers and vessels used primarily in interstate or foreign commerce. The department must provide a methodology by rule to apportion fossil fuels consumed inside the state of Washington by interstate motor carriers and vessels used primarily in interstate or foreign commerce;
-(j) Activities or property of Indian tribes and individual Indians that are exempt from state imposition of a tax as a matter of federal law or state law, whether by statute, rule, or compact; and
-(k)(i) Motor vehicle fuel or special fuel that is used by the following: (A) Log transportation businesses; and (B) persons in the business of extracting timber. This exemption is available only if a buyer of motor vehicle fuel or special fuel provides the seller with an exemption certificate in a form and manner prescribed by the department.
-(ii) For the purposes of this subsection (1)(k), the following definitions apply: (A) "Log transportation business" has the same meaning as provided in RCW 82.16.010; and (B) "timber" means forest trees, standing or down, on privately owned or publicly owned land, and does not include Christmas trees that are cultivated by agricultural methods or short-rotation hardwoods as defined in RCW 84.33.035.
-(iii) The department must determine a method for expanding the exemption provided under this subsection (1)(k) to include fuels used for the purpose of transporting forest products on public highways. The department must maintain this expanded exemption for a period of five years, in order to provide the forest products sector with a feasible transition period.
-(2)(a) For any fossil fuels subject to the carbon pollution tax created in section 3 of this act that are also subject to a comparable carbon pollution tax or charge on carbon content imposed by another jurisdiction, including the federal government, or allowances required to be purchased by another jurisdiction, the taxpayer may take a credit against the carbon pollution tax imposed under this chapter equal to the amount of the tax or charge paid to the other jurisdiction, up to the amount of tax owed under this chapter, provided that the person claiming the credit provides evidence acceptable to the department that the equivalent tax or charge has been paid.
-(b) For the purposes of this subsection, a comparable carbon pollution tax or charge means a tax or charge that is:
-(i) Imposed on the sale, use, possession, transfer, or consumption of fossil fuels generated through the combustion of fossil fuels; or
-(ii) Measured in terms of greenhouse gas emissions resulting from the complete combustion or oxidation of fossil fuels.
-(3)(a) A person is entitled to a refund or credit of the tax on the carbon content of fuels included in the price of fossil fuels purchased by the person if:
-(i) An exemption provided under this section applies to the person or the person's use or disposition of the fossil fuels; and
-(ii) The person submits an application to the department in a form and manner required by the department within four years after the calendar year in which the person paid the taxes for which the refund or credit is sought.
-(b) Refunds or credits of the tax on the carbon content of fuels are not subject to interest.
+1. The carbon pollution tax created under section 3 of this act does not apply to:
+
+    a. Electricity;
+
+    b. Biogenic fuels, including biogas, which includes renewable liquid natural gas or compressed natural gas made from biogas, landfill gas, biodiesel, renewable diesel, and cellulosic ethanol;
+
+    c. Fossil fuels brought into the state by means of the primary fuel supply tank of a motor vehicle, vessel, locomotive, or aircraft actively supplying fuel for combustion upon entry into the state;
+
+    d. Fossil fuels upon which the state is prohibited from imposing a tax under the state Constitution or the Constitution or laws of the United States;
+
+    e. Fossil fuels exported from this state. Export to Indian country located within the boundaries of this state is not considered export from this state. For the purposes of this subsection (1)(e), "Indian country" has the same meaning as provided in RCW 37.12.160;
+
+    f. Coal transition power as defined in RCW 80.80.010;
+
+    g. [Empty]
+
+        i. Motor vehicle fuel or special fuel that is used exclusively for agricultural purposes by a farm fuel user. This exemption is available only if a buyer of motor vehicle fuel or special fuel provides the seller with an exemption certificate in a form and manner prescribed by the department. For the purposes of this subsection (1)(g), "agricultural purposes" and "farm fuel user" have the same meanings as provided in RCW 82.08.865;
+
+        ii. The department must determine a method for expanding the exemption provided under this subsection (1)(g) to include fuels used for the purpose of transporting agricultural products on public highways. The department must maintain this expanded exemption for a period of five years, in order to provide the agricultural sector with a feasible transition period;
+
+    h. Aircraft fuel as defined in RCW 82.42.010;
+
+    i. The portion of fossil fuels purchased in the state and combusted outside the state by interstate motor carriers and vessels used primarily in interstate or foreign commerce. The department must provide a methodology by rule to apportion fossil fuels consumed inside the state of Washington by interstate motor carriers and vessels used primarily in interstate or foreign commerce;
+
+    j. Activities or property of Indian tribes and individual Indians that are exempt from state imposition of a tax as a matter of federal law or state law, whether by statute, rule, or compact; and
+
+    k. [Empty]
+
+        i. Motor vehicle fuel or special fuel that is used by the following: (A) Log transportation businesses; and (B) persons in the business of extracting timber. This exemption is available only if a buyer of motor vehicle fuel or special fuel provides the seller with an exemption certificate in a form and manner prescribed by the department.
+
+        ii. For the purposes of this subsection (1)(k), the following definitions apply: (A) "Log transportation business" has the same meaning as provided in RCW 82.16.010; and (B) "timber" means forest trees, standing or down, on privately owned or publicly owned land, and does not include Christmas trees that are cultivated by agricultural methods or short-rotation hardwoods as defined in RCW 84.33.035.
+
+        iii. The department must determine a method for expanding the exemption provided under this subsection (1)(k) to include fuels used for the purpose of transporting forest products on public highways. The department must maintain this expanded exemption for a period of five years, in order to provide the forest products sector with a feasible transition period.
+
+2. [Empty]
+
+    a. For any fossil fuels subject to the carbon pollution tax created in section 3 of this act that are also subject to a comparable carbon pollution tax or charge on carbon content imposed by another jurisdiction, including the federal government, or allowances required to be purchased by another jurisdiction, the taxpayer may take a credit against the carbon pollution tax imposed under this chapter equal to the amount of the tax or charge paid to the other jurisdiction, up to the amount of tax owed under this chapter, provided that the person claiming the credit provides evidence acceptable to the department that the equivalent tax or charge has been paid.
+
+    b. For the purposes of this subsection, a comparable carbon pollution tax or charge means a tax or charge that is:
+
+        i. Imposed on the sale, use, possession, transfer, or consumption of fossil fuels generated through the combustion of fossil fuels; or
+
+        ii. Measured in terms of greenhouse gas emissions resulting from the complete combustion or oxidation of fossil fuels.
+
+3. [Empty]
+
+    a. A person is entitled to a refund or credit of the tax on the carbon content of fuels included in the price of fossil fuels purchased by the person if:
+
+        i. An exemption provided under this section applies to the person or the person's use or disposition of the fossil fuels; and
+
+        ii. The person submits an application to the department in a form and manner required by the department within four years after the calendar year in which the person paid the taxes for which the refund or credit is sought.
+
+    b. Refunds or credits of the tax on the carbon content of fuels are not subject to interest.
+
 
 ## Section 5
 The provisions of chapter 82.32 RCW apply to this chapter. If there is a conflict between a provision of this chapter and a provision of chapter 82.32 RCW, the provision of this chapter controls.
 
+
 ## Section 6
-(1) Persons consuming fossil fuels in refineries must file with the department and the department of ecology:
-(a) A fuel use report similar to the United States environmental protection agency facility level information on greenhouse gases tool report containing their fossil fuel greenhouse gas emissions; and
-(b) Such other information as the department of ecology may require by rule.
-(2)(a) The department may adopt by rule a day each month by which the information specified in subsection (1) of this section must be submitted to the department for the previous calendar month, together with the tax calculated thereon based on the tax tables adopted by the department and the department of ecology. The tax on the carbon content reported must be paid to the department within 15 days of the filing required by subsection (1) of this section.
-(b) The rules adopted by the department under this section may allow a refinery to file an interim report based on estimates together with an estimated payment based thereon and then file a final report at a later date specified by the department. The department must impose interest and penalties on underpayments in accordance with the requirements of chapter 82.32 RCW.
+1. Persons consuming fossil fuels in refineries must file with the department and the department of ecology:
+
+    a. A fuel use report similar to the United States environmental protection agency facility level information on greenhouse gases tool report containing their fossil fuel greenhouse gas emissions; and
+
+    b. Such other information as the department of ecology may require by rule.
+
+2. [Empty]
+
+    a. The department may adopt by rule a day each month by which the information specified in subsection (1) of this section must be submitted to the department for the previous calendar month, together with the tax calculated thereon based on the tax tables adopted by the department and the department of ecology. The tax on the carbon content reported must be paid to the department within 15 days of the filing required by subsection (1) of this section.
+
+    b. The rules adopted by the department under this section may allow a refinery to file an interim report based on estimates together with an estimated payment based thereon and then file a final report at a later date specified by the department. The department must impose interest and penalties on underpayments in accordance with the requirements of chapter 82.32 RCW.
+
 
 ## Section 7
-(1) On or before December 31, 2024, and on or before December 31st of each even-numbered year thereafter, and in compliance with RCW 43.01.036, the department of commerce, with support from the department, must submit a report to the governor and the legislature as required by this subsection. The initial report must include recommendations for establishing a process to audit uses of the accounts created in sections 17 and 18 of this act. The report must contain recommendations for modifications or improvements to this act to ensure the goals of this act are being met, in addition to the following with respect to the act's implementation for the period since the last report:
-(a) The total carbon pollution taxes collected during the reporting period and a list of the taxpayers and the amount of carbon pollution tax paid by those taxpayers. The department must provide the information required under this subsection (1)(a), which is not confidential information under RCW 82.32.330;
-(b) Estimated costs incurred by the department, the department of commerce, and the department of ecology, directly associated with administration of the carbon pollution tax, shown both in dollar amounts and as a percentage of the total amount of carbon pollution tax revenues collected;
-(c) Impacts to the economic health of Washington state, including verifiable data on job creation, economic activity, avoided costs, financial risk management, and cobenefits generated by the investment of these revenues;
-(d) A summary of the investments made through the climate bond proceeds account created in section 14 of this act, the greenhouse gas emissions reduction account created in section 17 of this act, and the natural climate solutions account created in section 18 of this act. The summary must include amounts invested in each program area, project descriptions, names of grant recipients, an estimate of the greenhouse gas emissions reductions achieved or anticipated via the investments, and other pertinent information or information as periodically requested by the legislature; and
-(e) An environmental justice analysis that reports on environmental, health, and economic impacts on highly impacted communities and vulnerable populations from climate impacts and state measures taken to meet Washington's greenhouse gas emissions limits, including the tax and investments authorized by this act.
-(2) The department of commerce must provide information on its website regarding the impacts of the carbon pollution tax under this chapter on the price of electricity, natural gas, and vehicle fuels by sector.
+1. On or before December 31, 2024, and on or before December 31st of each even-numbered year thereafter, and in compliance with RCW 43.01.036, the department of commerce, with support from the department, must submit a report to the governor and the legislature as required by this subsection. The initial report must include recommendations for establishing a process to audit uses of the accounts created in sections 17 and 18 of this act. The report must contain recommendations for modifications or improvements to this act to ensure the goals of this act are being met, in addition to the following with respect to the act's implementation for the period since the last report:
+
+    a. The total carbon pollution taxes collected during the reporting period and a list of the taxpayers and the amount of carbon pollution tax paid by those taxpayers. The department must provide the information required under this subsection (1)(a), which is not confidential information under RCW 82.32.330;
+
+    b. Estimated costs incurred by the department, the department of commerce, and the department of ecology, directly associated with administration of the carbon pollution tax, shown both in dollar amounts and as a percentage of the total amount of carbon pollution tax revenues collected;
+
+    c. Impacts to the economic health of Washington state, including verifiable data on job creation, economic activity, avoided costs, financial risk management, and cobenefits generated by the investment of these revenues;
+
+    d. A summary of the investments made through the climate bond proceeds account created in section 14 of this act, the greenhouse gas emissions reduction account created in section 17 of this act, and the natural climate solutions account created in section 18 of this act. The summary must include amounts invested in each program area, project descriptions, names of grant recipients, an estimate of the greenhouse gas emissions reductions achieved or anticipated via the investments, and other pertinent information or information as periodically requested by the legislature; and
+
+    e. An environmental justice analysis that reports on environmental, health, and economic impacts on highly impacted communities and vulnerable populations from climate impacts and state measures taken to meet Washington's greenhouse gas emissions limits, including the tax and investments authorized by this act.
+
+2. The department of commerce must provide information on its website regarding the impacts of the carbon pollution tax under this chapter on the price of electricity, natural gas, and vehicle fuels by sector.
+
 
 ## Section 8
-(1) The directors of the department, the department of ecology, department of commerce, department of licensing, and the secretary of the department of transportation must adopt such rules as necessary for the implementation and proper administration of this chapter and may coordinate concerning the process, timelines, and documentation related to the rule making, as necessary.
-(2) By December 1, 2022, the department of ecology, in consultation with the department, must adopt a rule providing for the carbon calculation required under section 3(4) of this act. The department must rely on the rule adopted by the department of ecology for purposes of imposing and administering the tax.
+1. The directors of the department, the department of ecology, department of commerce, department of licensing, and the secretary of the department of transportation must adopt such rules as necessary for the implementation and proper administration of this chapter and may coordinate concerning the process, timelines, and documentation related to the rule making, as necessary.
+
+2. By December 1, 2022, the department of ecology, in consultation with the department, must adopt a rule providing for the carbon calculation required under section 3(4) of this act. The department must rely on the rule adopted by the department of ecology for purposes of imposing and administering the tax.
+
 
 ## Section 9
-(1) It is the intent of the legislature that each year the total investments made through the climate bond proceeds account created in section 14 of this act, the greenhouse gas emissions reduction account created in section 17 of this act, and the natural climate solutions account created in section 18 of this act achieve the following:
-(a) At least 35 percent of total investments authorized under this chapter must provide direct and meaningful benefits to vulnerable populations within the boundaries of highly impacted communities, as designated by the department of health under RCW 19.405.140; and
-(b) At least 10 percent of the total investments authorized under this chapter must be used for programs, activities, or projects formally supported by a resolution of an Indian tribe, with priority given to otherwise qualifying projects directly administered or proposed by an Indian tribe. An investment that meets the requirements of both this subsection (1)(b) and (a) of this subsection may count toward the requisite minimum percentage for both subsections.
-(2) The expenditure of moneys under this chapter must be consistent with applicable federal, state, and local laws, and treaty rights including, but not limited to, prohibitions on uses of funds imposed by the state Constitution.
-(3) For the purposes of this section, "benefits" means investments or activities that:
-(a) Reduce vulnerable population characteristics, environmental burdens, or associated risks that contribute significantly to the cumulative impact designation of highly impacted communities;
-(b) Meaningfully protect a highly impacted community from, or support community response to, the impacts of air pollution or climate change; or
-(c) Meet a community need identified by vulnerable members of the community that is consistent with the intent of this chapter.
+1. It is the intent of the legislature that each year the total investments made through the climate bond proceeds account created in section 14 of this act, the greenhouse gas emissions reduction account created in section 17 of this act, and the natural climate solutions account created in section 18 of this act achieve the following:
+
+    a. At least 35 percent of total investments authorized under this chapter must provide direct and meaningful benefits to vulnerable populations within the boundaries of highly impacted communities, as designated by the department of health under RCW 19.405.140; and
+
+    b. At least 10 percent of the total investments authorized under this chapter must be used for programs, activities, or projects formally supported by a resolution of an Indian tribe, with priority given to otherwise qualifying projects directly administered or proposed by an Indian tribe. An investment that meets the requirements of both this subsection (1)(b) and (a) of this subsection may count toward the requisite minimum percentage for both subsections.
+
+2. The expenditure of moneys under this chapter must be consistent with applicable federal, state, and local laws, and treaty rights including, but not limited to, prohibitions on uses of funds imposed by the state Constitution.
+
+3. For the purposes of this section, "benefits" means investments or activities that:
+
+    a. Reduce vulnerable population characteristics, environmental burdens, or associated risks that contribute significantly to the cumulative impact designation of highly impacted communities;
+
+    b. Meaningfully protect a highly impacted community from, or support community response to, the impacts of air pollution or climate change; or
+
+    c. Meet a community need identified by vulnerable members of the community that is consistent with the intent of this chapter.
+
 
 ## Section 10
 The climate finance account is created in the state treasury. One hundred percent of all receipts from the carbon pollution tax created in section 3 of this act must be deposited into the account. Moneys in the account may be spent only after appropriation.
-(1) Moneys in the account must be used first and foremost for the payment of principal and interest on bonds authorized in section 11 of this act. The state finance committee shall, on or before June 30th of each year, certify to the state treasurer the amount needed in the ensuing 12 months to meet the bond retirement and interest requirements on the bonds authorized under section 11 of this act. The state finance committee may provide that special subaccounts be created in the account to facilitate payment of the principal and interest on the bonds.
-(2) On July 1st of each year, the state treasurer shall transfer from the climate finance account to the climate bonds retirement account an amount equal to the amount certified by the state finance committee in this section.
-(3)(a) Moneys remaining in the climate finance account after the transfer made pursuant to subsection (2) of this section may be used only for projects and programs that achieve the purposes of the carbon pollution tax as provided under section 3(5) of this act. Moneys in the account as described in this subsection must first be appropriated for the administration of the requirements of this chapter, in an amount not to exceed five percent of the total receipt of funds from the carbon pollution tax imposed under section 3 of this act. Beginning July 1, 2023, and annually thereafter, the state treasurer shall distribute funds in the account as follows:
-(i) Seventy-five percent of the moneys to the greenhouse gas emissions reduction account created in section 17 of this act; and
-(ii) Twenty-five percent of the moneys to the natural climate solutions account created in section 18 of this act.
-(b) The allocations specified in (a)(i) and (ii) of this subsection must be reviewed by the legislature on a biennial basis based on the changing needs of the state in meeting its clean economy and greenhouse gas reduction goals in a timely, economically advantageous, and equitable manner.
+
+1. Moneys in the account must be used first and foremost for the payment of principal and interest on bonds authorized in section 11 of this act. The state finance committee shall, on or before June 30th of each year, certify to the state treasurer the amount needed in the ensuing 12 months to meet the bond retirement and interest requirements on the bonds authorized under section 11 of this act. The state finance committee may provide that special subaccounts be created in the account to facilitate payment of the principal and interest on the bonds.
+
+2. On July 1st of each year, the state treasurer shall transfer from the climate finance account to the climate bonds retirement account an amount equal to the amount certified by the state finance committee in this section.
+
+3. [Empty]
+
+    a. Moneys remaining in the climate finance account after the transfer made pursuant to subsection (2) of this section may be used only for projects and programs that achieve the purposes of the carbon pollution tax as provided under section 3(5) of this act. Moneys in the account as described in this subsection must first be appropriated for the administration of the requirements of this chapter, in an amount not to exceed five percent of the total receipt of funds from the carbon pollution tax imposed under section 3 of this act. Beginning July 1, 2023, and annually thereafter, the state treasurer shall distribute funds in the account as follows:
+
+        i. Seventy-five percent of the moneys to the greenhouse gas emissions reduction account created in section 17 of this act; and
+
+        ii. Twenty-five percent of the moneys to the natural climate solutions account created in section 18 of this act.
+
+    b. The allocations specified in (a)(i) and (ii) of this subsection must be reviewed by the legislature on a biennial basis based on the changing needs of the state in meeting its clean economy and greenhouse gas reduction goals in a timely, economically advantageous, and equitable manner.
+
 
 ## Section 11
-(1) The state finance committee is authorized to issue special tax obligation bonds of the state of Washington in amounts not to exceed the sum of $4,943,000,000, or as much thereof as may be required, payable from receipts from the carbon pollution tax created in section 3 of this act deposited in the climate finance account created in section 10 of this act, to finance project categories as described under sections 17 and 18 of this act, and all costs incidental thereto.
-(2) Bonds authorized in this section may be sold at such price as the state finance committee shall determine. No bonds authorized in this section may be offered for sale without prior legislative appropriation of the net proceeds of the sale of the bonds.
-(3) The state finance committee may determine and include in any resolution authorizing the issuance of any bonds authorized by this chapter such terms, provisions, covenants, and conditions as it may deem appropriate in order to assist with the marketing and sale of the bonds, confer rights upon the owners of bonds, and safeguard rights of the owners of bonds, including, among other things:
-(a) Provisions that the bonds shall be payable solely from and secured solely by the carbon pollution tax revenues received in the climate finance account created in section 10 of this act;
-(b) The conditions that must be satisfied prior to the issuance of any additional bonds that are to be payable from and secured by the carbon pollution tax revenues received in the climate finance account created in section 10 of this act on equal basis with previously issued and outstanding bonds payable from carbon pollution tax revenues received in the climate finance account created in section 10 of this act;
-(c) Provisions regarding reserves and credit enhancements;
-(d) Whether bonds may be issued as tax-exempt bonds or must be issued as taxable bonds under the applicable provisions of the federal internal revenue code; and
-(e) Whether the state will pursue third-party certification of bonds authorized by this chapter as green bonds, climate bonds, or any other appropriate certification that the state finance committee determines will increase marketability or minimize the cost of the bonds. Regardless of whether the state pursues third-party certification, bond proceeds must be used for projects that produce measurable climate mitigation or adaptation benefits.
+1. The state finance committee is authorized to issue special tax obligation bonds of the state of Washington in amounts not to exceed the sum of $4,943,000,000, or as much thereof as may be required, payable from receipts from the carbon pollution tax created in section 3 of this act deposited in the climate finance account created in section 10 of this act, to finance project categories as described under sections 17 and 18 of this act, and all costs incidental thereto.
+
+2. Bonds authorized in this section may be sold at such price as the state finance committee shall determine. No bonds authorized in this section may be offered for sale without prior legislative appropriation of the net proceeds of the sale of the bonds.
+
+3. The state finance committee may determine and include in any resolution authorizing the issuance of any bonds authorized by this chapter such terms, provisions, covenants, and conditions as it may deem appropriate in order to assist with the marketing and sale of the bonds, confer rights upon the owners of bonds, and safeguard rights of the owners of bonds, including, among other things:
+
+    a. Provisions that the bonds shall be payable solely from and secured solely by the carbon pollution tax revenues received in the climate finance account created in section 10 of this act;
+
+    b. The conditions that must be satisfied prior to the issuance of any additional bonds that are to be payable from and secured by the carbon pollution tax revenues received in the climate finance account created in section 10 of this act on equal basis with previously issued and outstanding bonds payable from carbon pollution tax revenues received in the climate finance account created in section 10 of this act;
+
+    c. Provisions regarding reserves and credit enhancements;
+
+    d. Whether bonds may be issued as tax-exempt bonds or must be issued as taxable bonds under the applicable provisions of the federal internal revenue code; and
+
+    e. Whether the state will pursue third-party certification of bonds authorized by this chapter as green bonds, climate bonds, or any other appropriate certification that the state finance committee determines will increase marketability or minimize the cost of the bonds. Regardless of whether the state pursues third-party certification, bond proceeds must be used for projects that produce measurable climate mitigation or adaptation benefits.
+
 
 ## Section 12
-(1) The special tax obligation bonds authorized by this chapter may be issued for a period not to exceed 10 years. The authorization to issue bonds provided under section 11 of this act does not expire until the full authorization has been issued and disbursed, or until the end of the 10-year period, whichever occurs first. The state finance committee may choose to decrease the period of issuance based on updated forecasts and fiscal needs, but any increase in the period of issuance beyond the 10-year period authorized under this section requires the approval of the legislature.
-(2) On a quarterly basis, and in compliance with RCW 43.01.036, the state treasurer may submit a report to the legislature that provides recommendations on the level of issuances over the 10-year period based on updated revenue forecasts, market factors, and fiscal needs. No bond issuance may be structured such that debt service obligations remain past December 31, 2050.
+1. The special tax obligation bonds authorized by this chapter may be issued for a period not to exceed 10 years. The authorization to issue bonds provided under section 11 of this act does not expire until the full authorization has been issued and disbursed, or until the end of the 10-year period, whichever occurs first. The state finance committee may choose to decrease the period of issuance based on updated forecasts and fiscal needs, but any increase in the period of issuance beyond the 10-year period authorized under this section requires the approval of the legislature.
+
+2. On a quarterly basis, and in compliance with RCW 43.01.036, the state treasurer may submit a report to the legislature that provides recommendations on the level of issuances over the 10-year period based on updated revenue forecasts, market factors, and fiscal needs. No bond issuance may be structured such that debt service obligations remain past December 31, 2050.
+
 
 ## Section 13
 Bonds authorized under this chapter are not a general obligation of the state and the full faith, credit, and taxing powers of the state are not pledged for their payment. Each bond issued under the authority of this chapter shall distinctly state that payment or redemption of the bond and payment of the interest and any premium thereon is payable solely from and secured solely by a pledge of the carbon pollution tax revenues received in the climate finance account created in section 10 of this act, and is not a general obligation of the state. The legislature pledges to appropriate the carbon pollution tax revenues pledged to the payment of the bonds issued under this chapter. The state finance committee shall include this pledge and agreement of the state to owners of any bonds issued under this chapter. The owner of any bond or the trustee of the owner of any of the bonds may by mandamus or other appropriate proceeding require the transfer and payment of pledged funds as directed in this section.
 
+
 ## Section 14
 The climate bond proceeds account is created in the state treasury. The proceeds from the sale of bonds authorized in section 11 of this act must be deposited in the account. Moneys in the account may be spent only after appropriation and only for project categories as described under sections 17 and 18 of this act and for the payment of expenses incurred in the issuance and sale of the bonds. If the state finance committee deems it necessary to issue the bonds authorized in section 11 of this act as taxable bonds in order to comply with federal internal revenue service rules and regulations pertaining to the use of nontaxable bond proceeds, the proceeds of such taxable bonds must be deposited into the climate taxable bond account. The state treasurer shall submit written notice to the director of financial management if it is determined that any such transfer to the climate taxable bond account is necessary.
+
 
 ## Section 15
 The climate bonds retirement account is created in the state treasury. Moneys in the account must be used only for the payment of principal and interest on bonds authorized in section 11 of this act. The state finance committee may provide that special subaccounts be created in the account to facilitate payment of the principal and interest on the bonds. The state finance committee shall, on or before June 30th of each year, certify to the state treasurer the amount needed in the ensuing 12 months to meet the bond retirement and interest requirements on the bonds authorized in section 11 of this act.
 
+
 ## Section 16
 The state finance committee may issue bonds to refund outstanding bonds issued under this chapter, including the payment of any redemption premiums on the bonds and any interest accrued to or to accrue to the first redemption date after delivery of the refunding bonds. The proceeds of the refunding bonds may, at the discretion of the committee, be applied to the purchases or payment at maturity of the bonds to be refunded, or the redemption of the outstanding bonds on the first redemption date after delivery of the refunding bonds and may, until so used, be placed in escrow to be applied to the purchase, retirement, or redemption. Refunding bonds issued under this section must be issued and secured in the manner provided by the state finance committee.
 
+
 ## Section 17
-(1) The greenhouse gas emissions reduction account is created in the state treasury. The account must receive moneys distributed to the account from the climate finance account created in section 10 of this act. Moneys in the account may be spent only after appropriation. Moneys in the account must be used by the department of commerce and the department of transportation for projects and incentive programs that yield verifiable reductions in greenhouse gas emissions in excess of baseline practices. A minimum of 75 percent of the funds available in the account must be directed toward the transportation investments provided in (h)(i) through (iv) of this subsection. Projects and programs eligible for funding from the account must be physically located in Washington state and include, but are not limited to, the following:
-(a) Supplementing the growth management planning and environmental review fund established in RCW 36.70A.490 for the purpose of making grants or loans to local governments for the purposes set forth in RCW 43.21C.240, 43.21C.031, 36.70A.500, and 36.70A.600, for costs associated with RCW 36.70A.610, and to cover costs associated with the adoption of optional elements of comprehensive plans consistent with RCW 43.21C.420;
-(b) Programs, activities, or projects that deploy renewable energy resources, such as solar and wind power, and projects to deploy distributed generation, energy storage, demand-side technologies and strategies, and other grid modernization projects;
-(c) Programs, activities, or projects that increase the energy efficiency or reduce greenhouse gas emissions of industrial facilities including, but not limited to, proposals to implement combined heat and power, district energy, or on-site renewables, such as solar and wind power, to upgrade the energy efficiency of existing equipment, to reduce process emissions, and to switch to less emissions intensive fuel sources;
-(d) Programs, activities, or projects that achieve energy efficiency or emissions reductions in the agricultural sector including fertilizer management, soil management, bioenergy, and biofuels;
-(e) Programs, activities, or projects that increase energy efficiency in new and existing buildings, or that promote low-carbon architecture, including use of newly emerging alternative building materials that result in a lower carbon footprint in the built environment over the life cycle of the building and component building materials;
-(f) Programs, activities, or projects that promote the electrification and decarbonization of new and existing buildings, including residential, commercial, and industrial buildings;
-(g) Programs, activities, or projects that improve energy efficiency, including district energy, and investments in market transformation of energy efficiency products; and
-(h) Programs, activities, or projects that reduce greenhouse gas emissions or mitigate the impact of greenhouse gas emissions from the transportation sector including, but not limited to, the following:
-(i) The deployment of clean alternative fuel vehicle charging and refueling infrastructure;
-(ii) The support of clean alternative fuel car sharing programs to provide clean alternative fuel vehicle use opportunities to underserved communities and low to moderate-income members of the workforce not readily served by transit, or located in transportation corridors with emissions that exceed federal or state emissions standards;
-(iii) The provision of financing assistance to facilitate the purchase of battery and fuel cell electric vehicles by lower income residents of the state;
-(iv) The provision of grants to transit authorities in the state to fund cost-effective capital projects that reduce the carbon intensity of the Washington transportation system including, but not limited to, electrification vehicle fleets, modification or replacement of capital facilities in order to facilitate fleet electrification or hydrogen refueling, upgrades to electrical transmission and distribution systems, and construction of charging and fueling stations;
-(v) The electrification and decarbonization of the state's passenger ferry fleet; and
-(vi) The conversion to battery or fuel cell electric fleets for the state, counties, cities, and public transit agencies.
-(2) Public entities including, but not limited to, state agencies, municipal corporations, and federally recognized Indian tribes, as well as private entities, both not-for-profit and for-profit, subject to constitutional limitations, are eligible to receive greenhouse gas emissions reduction account funds authorized by this section.
-(3) Projects, activities, and programs must meet criteria to be established by the department of transportation, for transportation investments, and the department of commerce, for all other investments. In developing criteria, the department of transportation and department of commerce may contract with the Washington academy of sciences established under chapter 70A.40 RCW for independent expertise.
-(4) Projects or activities funded under this section should meet high labor standards, including family level wages, providing benefits including health care and pensions, and maximize access to economic benefits from such projects for local workers and diverse businesses.
-(5) Funding may be provided for incremental greenhouse gas emissions reductions from projects that have already secured funding, but which can achieve more emissions reductions with additional resources.
-(6) Recipients of funding for projects must submit to the department of commerce or department of transportation, as appropriate, a progress report at a date or dates to be determined by the department of commerce and department of transportation. The progress report must contain information as may be required by the department of commerce and department of transportation by rule.
-(7) The department of commerce and department of transportation must design project funding contracts, monitor project implementation, and track contract performance, to actively assist the project proponent in securing the expected project outcomes. The department of commerce may suspend or terminate funding when projects do not achieve projected reductions as provided in the funding agreement and, in cases of gross misuse of funds, may require a return of grant funding.
-(8) The department of commerce and department of transportation must develop an electronic database available to the public to track projects and incentive programs receiving funding under this section. Projects must be ranked and sortable based on quantitative performance metrics, including the avoided cost of a ton of carbon dioxide equivalents.
-(9) The department of commerce and department of transportation must develop implementation plans for providing funding under this section. The implementation plans must be provided to the climate oversight board created in section 20 of this act, as well as to the governor and the appropriate committees of the legislature by December 31, 2022.
+1. The greenhouse gas emissions reduction account is created in the state treasury. The account must receive moneys distributed to the account from the climate finance account created in section 10 of this act. Moneys in the account may be spent only after appropriation. Moneys in the account must be used by the department of commerce and the department of transportation for projects and incentive programs that yield verifiable reductions in greenhouse gas emissions in excess of baseline practices. A minimum of 75 percent of the funds available in the account must be directed toward the transportation investments provided in (h)(i) through (iv) of this subsection. Projects and programs eligible for funding from the account must be physically located in Washington state and include, but are not limited to, the following:
+
+    a. Supplementing the growth management planning and environmental review fund established in RCW 36.70A.490 for the purpose of making grants or loans to local governments for the purposes set forth in RCW 43.21C.240, 43.21C.031, 36.70A.500, and 36.70A.600, for costs associated with RCW 36.70A.610, and to cover costs associated with the adoption of optional elements of comprehensive plans consistent with RCW 43.21C.420;
+
+    b. Programs, activities, or projects that deploy renewable energy resources, such as solar and wind power, and projects to deploy distributed generation, energy storage, demand-side technologies and strategies, and other grid modernization projects;
+
+    c. Programs, activities, or projects that increase the energy efficiency or reduce greenhouse gas emissions of industrial facilities including, but not limited to, proposals to implement combined heat and power, district energy, or on-site renewables, such as solar and wind power, to upgrade the energy efficiency of existing equipment, to reduce process emissions, and to switch to less emissions intensive fuel sources;
+
+    d. Programs, activities, or projects that achieve energy efficiency or emissions reductions in the agricultural sector including fertilizer management, soil management, bioenergy, and biofuels;
+
+    e. Programs, activities, or projects that increase energy efficiency in new and existing buildings, or that promote low-carbon architecture, including use of newly emerging alternative building materials that result in a lower carbon footprint in the built environment over the life cycle of the building and component building materials;
+
+    f. Programs, activities, or projects that promote the electrification and decarbonization of new and existing buildings, including residential, commercial, and industrial buildings;
+
+    g. Programs, activities, or projects that improve energy efficiency, including district energy, and investments in market transformation of energy efficiency products; and
+
+    h. Programs, activities, or projects that reduce greenhouse gas emissions or mitigate the impact of greenhouse gas emissions from the transportation sector including, but not limited to, the following:
+
+    i. The deployment of clean alternative fuel vehicle charging and refueling infrastructure;
+
+        ii. The support of clean alternative fuel car sharing programs to provide clean alternative fuel vehicle use opportunities to underserved communities and low to moderate-income members of the workforce not readily served by transit, or located in transportation corridors with emissions that exceed federal or state emissions standards;
+
+        iii. The provision of financing assistance to facilitate the purchase of battery and fuel cell electric vehicles by lower income residents of the state;
+
+        iv. The provision of grants to transit authorities in the state to fund cost-effective capital projects that reduce the carbon intensity of the Washington transportation system including, but not limited to, electrification vehicle fleets, modification or replacement of capital facilities in order to facilitate fleet electrification or hydrogen refueling, upgrades to electrical transmission and distribution systems, and construction of charging and fueling stations;
+
+    v. The electrification and decarbonization of the state's passenger ferry fleet; and
+
+    vi. The conversion to battery or fuel cell electric fleets for the state, counties, cities, and public transit agencies.
+
+2. Public entities including, but not limited to, state agencies, municipal corporations, and federally recognized Indian tribes, as well as private entities, both not-for-profit and for-profit, subject to constitutional limitations, are eligible to receive greenhouse gas emissions reduction account funds authorized by this section.
+
+3. Projects, activities, and programs must meet criteria to be established by the department of transportation, for transportation investments, and the department of commerce, for all other investments. In developing criteria, the department of transportation and department of commerce may contract with the Washington academy of sciences established under chapter 70A.40 RCW for independent expertise.
+
+4. Projects or activities funded under this section should meet high labor standards, including family level wages, providing benefits including health care and pensions, and maximize access to economic benefits from such projects for local workers and diverse businesses.
+
+5. Funding may be provided for incremental greenhouse gas emissions reductions from projects that have already secured funding, but which can achieve more emissions reductions with additional resources.
+
+6. Recipients of funding for projects must submit to the department of commerce or department of transportation, as appropriate, a progress report at a date or dates to be determined by the department of commerce and department of transportation. The progress report must contain information as may be required by the department of commerce and department of transportation by rule.
+
+7. The department of commerce and department of transportation must design project funding contracts, monitor project implementation, and track contract performance, to actively assist the project proponent in securing the expected project outcomes. The department of commerce may suspend or terminate funding when projects do not achieve projected reductions as provided in the funding agreement and, in cases of gross misuse of funds, may require a return of grant funding.
+
+8. The department of commerce and department of transportation must develop an electronic database available to the public to track projects and incentive programs receiving funding under this section. Projects must be ranked and sortable based on quantitative performance metrics, including the avoided cost of a ton of carbon dioxide equivalents.
+
+9. The department of commerce and department of transportation must develop implementation plans for providing funding under this section. The implementation plans must be provided to the climate oversight board created in section 20 of this act, as well as to the governor and the appropriate committees of the legislature by December 31, 2022.
+
 
 ## Section 18
-(1) The natural climate solutions account is created in the state treasury. All moneys directed to the account from the climate finance account created in section 10 of this act must be deposited in the account. Moneys in the account may be spent only after appropriation. Moneys in the account are intended to increase the resilience of the state's waters, forests, and other vital ecosystems to the impacts of climate change, as well as increase their carbon pollution reduction capacity through sequestration, storage, and overall ecosystem integrity. Moneys in the account must be spent in a manner that is consistent with existing and future assessments of climate risks and resilience from the scientific community and expressed concerns of and impacts to highly impacted communities, as designated by the department of health under RCW 19.405.140.
-(2) Moneys in the account may be allocated for the following purposes:
-(a) Clean water investments that improve resilience from climate impacts. Funding under this subsection (2)(a) must be used to:
-(i) Restore and protect estuaries, fisheries, and marine shoreline habitats, and prepare for sea level rise including, but not limited to, making fish passage correction investments such as those identified in the cost-share barrier removal program for small forest landowners created in RCW 76.13.150 and those that are considered by the fish passage barrier removal board created in RCW 77.95.160;
-(ii) Increase the ability to remediate and adapt to the impacts of ocean acidification;
-(iii) Reduce flood risk and restore natural floodplain ecological function;
-(iv) Increase the sustainable supply of water and improve aquatic habitat, including groundwater mapping and modeling;
-(v) Improve infrastructure treating stormwater from previously developed areas within an urban growth boundary designated under chapter 36.70A RCW, with a preference given to projects that use green stormwater infrastructure; or
-(vi) Preserve or increase carbon sequestration and storage benefits in agricultural soils and timber stock consistent with RCW 70A.45.090.
-(b) Healthy forest investments to improve resilience from climate impacts. Funding under this subsection (2)(b) must be used for projects and activities that will:
-(i) Increase resilience to wildfire in the face of increased seasonal temperatures and drought; or
-(ii) Improve forest health and reduce vulnerability to changes in hydrology, insect infestation, and other impacts of climate change.
-(3) Moneys in the account may not be used for projects that would violate tribal treaty rights or result in significant long-term damage to critical habitat or ecological functions. Investments from this account must result in long-term environmental benefits and increased resilience to the impacts of climate change.
+1. The natural climate solutions account is created in the state treasury. All moneys directed to the account from the climate finance account created in section 10 of this act must be deposited in the account. Moneys in the account may be spent only after appropriation. Moneys in the account are intended to increase the resilience of the state's waters, forests, and other vital ecosystems to the impacts of climate change, as well as increase their carbon pollution reduction capacity through sequestration, storage, and overall ecosystem integrity. Moneys in the account must be spent in a manner that is consistent with existing and future assessments of climate risks and resilience from the scientific community and expressed concerns of and impacts to highly impacted communities, as designated by the department of health under RCW 19.405.140.
+
+2. Moneys in the account may be allocated for the following purposes:
+
+    a. Clean water investments that improve resilience from climate impacts. Funding under this subsection (2)(a) must be used to:
+
+        i. Restore and protect estuaries, fisheries, and marine shoreline habitats, and prepare for sea level rise including, but not limited to, making fish passage correction investments such as those identified in the cost-share barrier removal program for small forest landowners created in RCW 76.13.150 and those that are considered by the fish passage barrier removal board created in RCW 77.95.160;
+
+        ii. Increase the ability to remediate and adapt to the impacts of ocean acidification;
+
+        iii. Reduce flood risk and restore natural floodplain ecological function;
+
+        iv. Increase the sustainable supply of water and improve aquatic habitat, including groundwater mapping and modeling;
+
+    v. Improve infrastructure treating stormwater from previously developed areas within an urban growth boundary designated under chapter 36.70A RCW, with a preference given to projects that use green stormwater infrastructure; or
+
+    vi. Preserve or increase carbon sequestration and storage benefits in agricultural soils and timber stock consistent with RCW 70A.45.090.
+
+    b. Healthy forest investments to improve resilience from climate impacts. Funding under this subsection (2)(b) must be used for projects and activities that will:
+
+        i. Increase resilience to wildfire in the face of increased seasonal temperatures and drought; or
+
+        ii. Improve forest health and reduce vulnerability to changes in hydrology, insect infestation, and other impacts of climate change.
+
+3. Moneys in the account may not be used for projects that would violate tribal treaty rights or result in significant long-term damage to critical habitat or ecological functions. Investments from this account must result in long-term environmental benefits and increased resilience to the impacts of climate change.
+
 
 ## Section 19
 The environmental justice council established under chapter . . . (Senate Bill No. 5141), Laws of 2021 must:
-(1) Prepare recommendations for and provide oversight of the impacts of the carbon pollution tax created under section 3 of this act and associated programs established under this act affecting low-income populations, vulnerable populations, and highly impacted communities;
-(2) Define environmental justice progress indicators for this chapter, including:
-(a) The elimination of oil, natural gas, coal, and other materials emitting carbon dioxide, black carbon, methane, nitrogen oxides, and fluorinated gases imported into Washington state or extracted within the state;
-(b) The elimination of the emissions attributable to consumption in Washington state, emitted outside Washington state;
-(c) The air quality, water quality, and land and buildings free from toxins associated with fossil fuels;
-(d) The elimination of environmental health disparities that disproportionately impact households that are Black, indigenous, and people of color, or in areas that are highly impacted communities; and
-(e) The reduction of economic inequality and elimination of poverty and the prevalence of livelihoods and high-road employment opportunities accessible to all; and
-(3) Define and provide instruction on meaningful consultation with vulnerable populations and low-income populations and provide opportunities for vulnerable populations to consult on the implementation of this chapter.
+
+1. Prepare recommendations for and provide oversight of the impacts of the carbon pollution tax created under section 3 of this act and associated programs established under this act affecting low-income populations, vulnerable populations, and highly impacted communities;
+
+2. Define environmental justice progress indicators for this chapter, including:
+
+    a. The elimination of oil, natural gas, coal, and other materials emitting carbon dioxide, black carbon, methane, nitrogen oxides, and fluorinated gases imported into Washington state or extracted within the state;
+
+    b. The elimination of the emissions attributable to consumption in Washington state, emitted outside Washington state;
+
+    c. The air quality, water quality, and land and buildings free from toxins associated with fossil fuels;
+
+    d. The elimination of environmental health disparities that disproportionately impact households that are Black, indigenous, and people of color, or in areas that are highly impacted communities; and
+
+    e. The reduction of economic inequality and elimination of poverty and the prevalence of livelihoods and high-road employment opportunities accessible to all; and
+
+3. Define and provide instruction on meaningful consultation with vulnerable populations and low-income populations and provide opportunities for vulnerable populations to consult on the implementation of this chapter.
+
 
 ## Section 20
-(1) The climate oversight board is created within the office of the governor. The climate oversight board consists of:
-(a) The governor or the governor's designee;
-(b) The state commissioner of public lands or the commissioner's designee;
-(c) The state auditor or the auditor's designee;
-(d) The state insurance commissioner or the commissioner's designee;
-(e) The state treasurer or the treasurer's designee;
-(f) Two members of the senate, appointed by the president of the senate, one from each of the two largest caucuses of the senate;
-(g) Two members of the house of representatives, appointed by the speaker of the house of representatives, one from each of the two largest caucuses of the house of representatives; and
-(h) The following members, to be appointed by the governor:
-(i) Two members selected by federally recognized tribes within the state of Washington;
-(ii) Three members from highly impacted communities, one representing a statewide environmental justice organization;
-(iii) Members representing stationary emissions sources, the transportation fuels sector, the electricity and gas distribution sectors, renewable energy production, and climate action organizations; and
-(iv) Persons with economic, environmental, and energy expertise and experience in greenhouse gas emissions reductions policies and programs.
-(2) Members of the climate oversight board are appointed for four-year terms. The climate oversight board must select a chair from among its members. All state agencies must provide information and assistance as requested by the board in order to perform its responsibilities.
-(3) The climate oversight board is responsible for ongoing review of the implementation of the carbon pollution tax and funding from the revenues of the tax to ensure the fairest, most equitable, most efficient, and timely achievement of the objectives in this chapter. The board's responsibilities include, but are not limited to:
-(a) Reviewing the plans for implementing the funding programs authorized in sections 17 and 18 of this act;
-(b) Reviewing the criteria for funding allocations and project award decisions;
-(c) Reviewing project and activity funding decisions as well as summary reports and information regarding implementing projects;
-(d) Reviewing implementation progress reports by agencies;
-(e) Reviewing compliance with consultation requirements; and
-(f) Providing recommendations for standards by which to measure emissions reductions outcomes from investments of funds under this act.
-(4) The climate oversight board may conduct some or all of its responsibilities jointly with the environmental justice council established under chapter . . . (Senate Bill No. 5141), Laws of 2021.
-(5) The climate oversight board may contract with the Washington academy of sciences established under chapter 70A.40 RCW for independent evaluative expertise in its review of the performance of the programs, activities, and projects provided for in this chapter in meeting this chapter's objectives.
-(6) Legislative members of the climate oversight board are reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
-(7) Beginning July 1, 2022, the climate oversight board must meet at least quarterly. The climate oversight board must submit a biennial report with its findings and recommendations to the appropriate committees of the legislature no later than December 1st of each even-number year beginning in 2024.
-(8) The climate oversight board has no appropriation authority.
+1. The climate oversight board is created within the office of the governor. The climate oversight board consists of:
+
+    a. The governor or the governor's designee;
+
+    b. The state commissioner of public lands or the commissioner's designee;
+
+    c. The state auditor or the auditor's designee;
+
+    d. The state insurance commissioner or the commissioner's designee;
+
+    e. The state treasurer or the treasurer's designee;
+
+    f. Two members of the senate, appointed by the president of the senate, one from each of the two largest caucuses of the senate;
+
+    g. Two members of the house of representatives, appointed by the speaker of the house of representatives, one from each of the two largest caucuses of the house of representatives; and
+
+    h. The following members, to be appointed by the governor:
+
+    i. Two members selected by federally recognized tribes within the state of Washington;
+
+        ii. Three members from highly impacted communities, one representing a statewide environmental justice organization;
+
+        iii. Members representing stationary emissions sources, the transportation fuels sector, the electricity and gas distribution sectors, renewable energy production, and climate action organizations; and
+
+        iv. Persons with economic, environmental, and energy expertise and experience in greenhouse gas emissions reductions policies and programs.
+
+2. Members of the climate oversight board are appointed for four-year terms. The climate oversight board must select a chair from among its members. All state agencies must provide information and assistance as requested by the board in order to perform its responsibilities.
+
+3. The climate oversight board is responsible for ongoing review of the implementation of the carbon pollution tax and funding from the revenues of the tax to ensure the fairest, most equitable, most efficient, and timely achievement of the objectives in this chapter. The board's responsibilities include, but are not limited to:
+
+    a. Reviewing the plans for implementing the funding programs authorized in sections 17 and 18 of this act;
+
+    b. Reviewing the criteria for funding allocations and project award decisions;
+
+    c. Reviewing project and activity funding decisions as well as summary reports and information regarding implementing projects;
+
+    d. Reviewing implementation progress reports by agencies;
+
+    e. Reviewing compliance with consultation requirements; and
+
+    f. Providing recommendations for standards by which to measure emissions reductions outcomes from investments of funds under this act.
+
+4. The climate oversight board may conduct some or all of its responsibilities jointly with the environmental justice council established under chapter . . . (Senate Bill No. 5141), Laws of 2021.
+
+5. The climate oversight board may contract with the Washington academy of sciences established under chapter 70A.40 RCW for independent evaluative expertise in its review of the performance of the programs, activities, and projects provided for in this chapter in meeting this chapter's objectives.
+
+6. Legislative members of the climate oversight board are reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+7. Beginning July 1, 2022, the climate oversight board must meet at least quarterly. The climate oversight board must submit a biennial report with its findings and recommendations to the appropriate committees of the legislature no later than December 1st of each even-number year beginning in 2024.
+
+8. The climate oversight board has no appropriation authority.
+
 
 ## Section 21
 All definitions in section 2 of this act apply throughout sections 9 through 20 of this act unless the context clearly requires otherwise.
 
+
 ## Section 22
 This chapter may be known and cited as the Washington sustainable transformative recovery opportunities for the next generation act.
+
 
 ## Section 23
 As of the effective date of this section, chapter 173-442 WAC and associated amendments to chapter 173-442 WAC previously adopted by the department of ecology may not be enforced by the department of ecology. If the tax imposed under this chapter is invalidated, the department of ecology is directed to use the full extent of its authority to regulate sources of greenhouse gas emissions under chapter 70A.15 RCW to help achieve the limits specified in RCW 70A.45.020.
 
+
 ## Section 24
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 25
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

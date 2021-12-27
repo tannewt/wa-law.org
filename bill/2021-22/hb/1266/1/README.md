@@ -3,9 +3,13 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1266.xml)
 ## Section 1
 When the legislature adopted chapter 13, Laws of 2017 3rd sp. sess., structural changes to compensation allocations were implemented including increases to better reflect comparable wages, changes to an average salary allocation instead of one based on the average years of experience and education for certificated staff in a district, and regionalization factors to reflect the varying costs of living in different regions of the state. In subsequent years, the experience mix factor has been created to reflect higher average salary cost in districts that have higher than average concentrations of staff with more years of experience and advanced educational attainment.
+
 Chapter 13, Laws of 2017 3rd sp. sess. created a cycle for rebasing basic education salaries every four years to keep basic education salaries comparable to similar professions over time. The first rebase is scheduled for the 2023 legislative session, but the process and expectations for this review have not been outlined.
+
 Compensation policies and the allocation of resources to districts are significant public policy areas which will benefit from insight from educators, administrators, community members, and state leaders. The legislature must examine how compensation policies impact and influence the makeup of the K-12 workforce and equity among districts. Districts without the same ability to raise local resources may face greater challenges recruiting and retaining educators. In addition, many educators of color serve on more committees to ensure diverse voices are at the table and take on additional mentorship roles for new educators and students. This can create a cultural taxation that adds work and responsibilities that are not compensated and can lead to greater burnout and turnover for educators of color.
+
 Therefore, the legislature is establishing a K-12 basic education compensation advisory committee to provide input on issues related to the salary rebase process, comparable wages, and impact of regionalization, and to review the ways in which compensation policy can support equity and greater diversity in the education workforce.
+
 
 ## Section 2
 > This section modifies existing section [28A.150.412](/rcw/28A_common_school_provisions/28A.150_general_provisions.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.150_general_provisions.md) for context.
@@ -51,4 +55,50 @@ Therefore, the legislature is establishing a K-12 basic education compensation a
     f. "School districts in tercile 3" means school districts with median single-family residential values in the third tercile of districts with single-family residential values above the statewide median residential value.
 
     g. "Statewide median residential value" means the median value of single-family residential parcels located within all school districts, reduced by five percent.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28A.150](/rcw/28A_common_school_provisions/28A.150_general_provisions.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.150_general_provisions.md) for context.
+
+1. The K-12 basic education compensation advisory committee is established. Beginning in July 2021 and every four years thereafter, the advisory committee shall make recommendations to the governor and the legislature regarding compensation updates that should be made as part of the review and rebase of state basic education compensation allocations required in RCW 28A.150.412. The advisory committee shall, at a minimum, meet eight times between July 2021 and September 2022 and corresponding review timelines prior to each periodic review and rebase required in RCW 28A.150.412 to review data and formulate recommendations to the legislature related to:
+
+    a. Compensation updates to K-12 basic education salaries based on a comparable wage data analysis;
+
+    b. Updates to regionalization data, including consideration of a hedonic wage model and other improvements to better reflect regional differences, address differences in recruiting and retention, incorporate data from neighboring communities in other states where appropriate, and mitigate boundary effects of regionalization policies;
+
+    c. Adjustments to inflationary factors used in state budgeting if the inflation documented through the comparable wage analysis is significantly different than the inflation that had been funded in state budgets since the last comparable wage analysis;
+
+    d. Compensation adjustments to promote equity considerations, which could include additional compensation to attract and retain educators in school districts with fewer resources from combined state and local dollars per student, adjustments to institutional education compensation, and additional compensation tied to complex need factors of schools; and
+
+    e. Additional compensation targeted to recruit and retain a more diverse workforce and to recognize the additional work of educators who serve on multiple committees and assume mentoring responsibilities to support new educators and students.
+
+2. In addition to the subjects outlined in subsection (1) of this section, the advisory committee may review other compensation issues identified by school districts, educators, and community members that are relevant to the analysis of rebasing salaries and regionalization factors.
+
+3. The advisory committee consists of:
+
+    a. One representative of each major caucus of the house of representatives appointed by the speaker of the house of representatives and one representative of each major caucus of the senate appointed by the president of the senate;
+
+    b. The governor, or their designee;
+
+    c. The superintendent of public instruction, or their designee;
+
+    d. A representative of the office of the education ombuds;
+
+    e. One representative each from organizations representing school boards, school administrators, school principals, school district human resources professionals, school business officials, teachers, school psychologists, school social workers, school counselors, certificated school nurses, classified staff in instructional roles, classified staff in school operations roles, classified staff in facility maintenance roles, and parents appointed by the superintendent of public instruction;
+
+    f. A representative of federally recognized Indian tribes whose traditional lands and territories lie within the borders of Washington state, designated by the federally recognized tribes; and
+
+    g. Four members appointed by the governor in consultation with the state ethnic commissions, who represent the following populations: African Americans, Hispanic Americans, Asian Americans, and Pacific Islander Americans.
+
+4. The advisory committee chair is the governor or their designee.
+
+5. [Empty]
+
+    a. The office of financial management, department of revenue, employment security department, office of the superintendent of public instruction, education research and data centers, legislative evaluation and accountability committee, and nonpartisan staff from the house of representatives and senate fiscal committees shall provide staffing support to the advisory committee.
+
+    b. The office of financial management shall convene a staff working committee that includes representatives to the organizations listed in (a) of this subsection (5), which shall perform analyses in support of the work of the advisory committee. The employment security department shall make available information necessary to determine the comparable occupations and wages for each K-12 job category in RCW 28A.150.260.
+
+6. Members of the advisory committee must be reimbursed for travel expenses as provided in RCW 43.03.050 and 43.03.060. In addition, if the service of any certificated and classified school personnel serving on the advisory committee results in the need to employ a substitute, payment for such a substitute may be made by the office of financial management to the appropriate school district from funds appropriated for the support of the advisory committee.
+
+7. The advisory committee shall report its recommendations for salary rebase and compensation adjustments to the governor and the fiscal committees of the legislature by September 30, 2022, and every four years thereafter.
 

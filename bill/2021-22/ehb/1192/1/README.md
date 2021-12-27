@@ -3,11 +3,17 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1192.SL.xml)
 ## Section 1
 RCW 1.08.025 directs the code reviser, with the approval of the statute law committee, to prepare legislation for submission to the legislature "concerning deficiencies, conflicts, or obsolete provisions" in statutes. This act makes technical, nonsubstantive amendments as follows:
-(1) Section 2 of this act decodifies an obsolete section.
-(2) Sections 3 through 5 of this act merge double amendments created when sections were amended in the 2020 legislative session without reference to the amendments made in the same session.
-(3) Chapter 20, Laws of 2020 (SHB 2246) reorganized certain environmental statutes and recodified numerous statutes to create a new Title 70A RCW. Sections 6 through 102 of this act update and correct many of the RCW citations impacted by chapter 20, Laws of 2020.
-(4) Section 103 of this act corrects an erroneous chapter reference.
-(5) Sections 104 through 108 of this act clarify references to the effective date of chapter 11.130 RCW.
+
+1. Section 2 of this act decodifies an obsolete section.
+
+2. Sections 3 through 5 of this act merge double amendments created when sections were amended in the 2020 legislative session without reference to the amendments made in the same session.
+
+3. Chapter 20, Laws of 2020 (SHB 2246) reorganized certain environmental statutes and recodified numerous statutes to create a new Title 70A RCW. Sections 6 through 102 of this act update and correct many of the RCW citations impacted by chapter 20, Laws of 2020.
+
+4. Section 103 of this act corrects an erroneous chapter reference.
+
+5. Sections 104 through 108 of this act clarify references to the effective date of chapter 11.130 RCW.
+
 
 ## Section 6
 > This section modifies existing section [7.60.025](/rcw/07_special_proceedings_and_actions/7.060_receivers.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.060_receivers.md) for context.

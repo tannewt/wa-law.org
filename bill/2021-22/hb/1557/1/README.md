@@ -4,6 +4,7 @@
 ## Section 1
 The legislature recognizes that the executive branch is well-equipped to confront emergencies and lead responses. However, for long-lasting states of emergency when the continuity of government has not been disrupted, the legislature finds that each of the branches of government has a role to play. Accordingly, this act is designed to ensure adequate legislative involvement in long-lasting states of emergency.
 
+
 ## Section 2
 > This section modifies existing section [43.06.210](/rcw/43_state_government—executive/43.006_governor.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006_governor.md) for context.
 

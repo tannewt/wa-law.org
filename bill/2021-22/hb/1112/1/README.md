@@ -22,5 +22,7 @@ For purposes of this section, "state" means a state of the United States, any po
 ## Section 2
 This act applies only with respect to tangible personal property, digital goods, digital codes, and services, for which the first act of use, as defined in RCW 82.12.010, in Washington occurs on or after the effective date of this section.
 
+
 ## Section 3
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

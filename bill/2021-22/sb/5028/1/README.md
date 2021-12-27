@@ -1,6 +1,14 @@
 # Senate Bill 5028
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5028.xml)
+## Section 1
+> This section adds a new section to an existing chapter [46.17](/rcw/46_motor_vehicles/46.17_vehicle_fees.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.17_vehicle_fees.md) for context.
+
+1. State and local motor vehicle license fees may not exceed $30 per year for motor vehicles, regardless of year, value, make, or model.
+
+2. For the purposes of this section, "state and local motor vehicle license fees" means the general license tab fees paid annually for licensing motor vehicles, including but not limited to cars, sport utility vehicles, light trucks under RCW 46.17.355, motorcycles, and motor homes, and do not include charges approved by voters after the effective date of this section. This annual fee must be paid and collected annually and is due at the time of initial and renewal vehicle registration.
+
+
 ## Section 3
 > This section modifies existing section [46.17.355](/rcw/46_motor_vehicles/46.17_vehicle_fees.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.17_vehicle_fees.md) for context.
 
@@ -682,8 +690,11 @@ If in any year the amount of proceeds from the fee collected under this section 
 ## Section 6
 The provisions of this act are to be liberally construed to effectuate the intent, policies, and purposes of this act.
 
+
 ## Section 7
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 8
 This act may be known and cited as the bring back our $30 car tabs act.
+

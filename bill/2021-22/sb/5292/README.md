@@ -1,5 +1,6 @@
 # SB 5292 - Parks Rx pilot program
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5292&Year=2021)
+
 Concerning the use of parks and recreation spaces, trails, and facilities in the design of parks Rx pilot program collaboratively designed with the health care and insurance industry sectors.
 
 ## Revisions

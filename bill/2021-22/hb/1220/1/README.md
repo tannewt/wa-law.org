@@ -33,6 +33,18 @@ The following goals are adopted to guide the development and adoption of compreh
 13. Historic preservation. Identify and encourage the preservation of lands, sites, and structures, that have historical or archaeological significance.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [35A.21](/rcw/35A_optional_municipal_code/35A.21_provisions_affecting_all_code_cities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.21_provisions_affecting_all_code_cities.md) for context.
+
+A code city may not prohibit emergency housing, permanent supportive housing, or emergency shelters in multifamily, commercial, mixed use, or form-based zones where short-term rentals are allowed.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [35.21](/rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md) for context.
+
+A city may not prohibit emergency housing, permanent supportive housing, or emergency shelters in multifamily, commercial, mixed use, or form-based zones where short-term rentals are allowed.
+
+
 ## Section 5
 > This section modifies existing section [36.70A.030](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 

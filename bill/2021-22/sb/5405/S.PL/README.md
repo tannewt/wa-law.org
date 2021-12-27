@@ -1,9 +1,17 @@
 # Engrossed Substitute Senate Bill 5405 as Recommended by Ways & Means - as passed by the Legislature
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5405-S.PL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [44.28](/rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md) for context.
+
+The joint committee shall incorporate a racial equity analysis into performance audits, sunset reviews, and other audits or reports conducted by the joint committee. The joint committee shall note in its audits, reviews, and reports if a racial equity analysis is not necessary or appropriate. The joint committee may work with the office of equity, the governor's office of Indian affairs, the LGBTQ commission, the Washington state women's commission, and the ethnic commissions to design the racial equity analysis required under this section.
+
+
 ## Section 2
-(1) The joint legislative audit and review committee must complete a racial equity analysis by December 31, 2021, on the impact of the restrictions on in-person K-12 education put in place since the state of emergency declared on February 29, 2020, for all counties in Washington due to COVID-19.
-(2) This section expires July 1, 2022.
+1. The joint legislative audit and review committee must complete a racial equity analysis by December 31, 2021, on the impact of the restrictions on in-person K-12 education put in place since the state of emergency declared on February 29, 2020, for all counties in Washington due to COVID-19.
+
+2. This section expires July 1, 2022.
+
 
 ## Section 3
 > This section modifies existing section [44.28.005](/rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md) for context.

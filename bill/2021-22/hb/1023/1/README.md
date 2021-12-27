@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that predesigns are often done due to statutory requirements regardless of whether it is necessary to the capital project. The legislature also finds that the cost of unnecessary predesigns includes not only limited resources in the capital budget, but an extended project timeline. Therefore, the legislature intends to reduce the number of predesigns by raising the cost threshold and adding exceptions to the predesign requirements.
 
+
 ## Section 2
 > This section modifies existing section [43.88.110](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
 

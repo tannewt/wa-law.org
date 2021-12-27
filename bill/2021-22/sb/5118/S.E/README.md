@@ -24,3 +24,13 @@
 
 7. Escape from custody by the **person** subsequent to his or her execution of the request for final disposition referred to in subsection (1) of this section shall void the request.
 
+
+## Section 3
+> This section adds a new section to an existing chapter [13.40](/rcw/13_juvenile_courts_and_juvenile_offenders/13.40_juvenile_justice_act_of_1977.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.40_juvenile_justice_act_of_1977.md) for context.
+
+1. At least 30 days before release from a residential facility, the secretary shall send written notice of the planned release to the person's health care insurance provider. The notice shall include the person's current location and contact information as well as the person's expected location and contact information upon release. The notice shall not disclose the person's incarceration status unless their consent is given.
+
+2. If the person is not enrolled in a health insurance program, the secretary and the health care authority shall assist the person in obtaining coverage for which they are eligible in accordance with the time frames specified in subsection (1) of this section.
+
+3. The secretary may share with the health insurance provider additional health information related to the person to assist with care coordination and continuity of care consistent with RCW 70.02.230(2)(u) and other provisions of chapter 70.02 RCW.
+

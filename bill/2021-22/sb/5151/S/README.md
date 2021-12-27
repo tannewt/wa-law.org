@@ -951,6 +951,20 @@ It shall be the policy of the state of Washington to:
 3. Noncompliance or compliance with the provisions of this section shall not constitute evidence of liability or nonliability in any injury litigation.
 
 
+## Section 28
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. The department shall establish a licensed outdoor nature-based child care program.
+
+2. The department shall adopt rules to implement the outdoor nature-based child care program and may waive or adapt licensing requirements when necessary to allow for the operation of outdoor classrooms.
+
+3. The department shall apply the early achievers program to the outdoor nature-based child care program to assess quality in outdoor learning environments and may waive or adapt early achievers requirements when necessary to allow for the operation of outdoor classrooms.
+
+4. A child care or early learning program operated by a federally recognized tribe may participate in the outdoor nature-based child care program through an interlocal agreement between the tribe and the department. The interlocal agreement must reflect the government-to-government relationship between the state and the tribe, including recognition of tribal sovereignty.
+
+5. Subject to the availability of funds, the department may convene an advisory group of outdoor, nature-based early learning practitioners to inform and support implementation of the outdoor nature-based child care program.
+
+
 ## Section 29
 > This section modifies existing section [43.216.300](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
 
@@ -991,3 +1005,4 @@ The secretary **may not** charge fees to the licensee for obtaining a **child ca
 
 ## Section 33
 If specific funding for the purposes of section 29 of this act, referencing section 29 of this act by bill or chapter number and section number, is not provided by June 30, 2021, in the omnibus appropriations act, section 29 of this act is null and void.
+

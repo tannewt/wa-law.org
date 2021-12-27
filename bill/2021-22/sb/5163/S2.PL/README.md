@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that in 2008, the sex offender policy board was established to provide a more coordinated and integrated response to sex offender management in Washington state. The legislature further finds that in March 2020, the board was convened to review policies and practices related to sexually violent predators. The legislature recognizes that the board released a report and a series of recommendations regarding improvement to the current practice in order to ensure a successful transition for individuals convicted of sex offenses from total confinement back into the community. The legislature resolves to increase community safety through successful transition by enacting the recommendations of the board and other related policies.
 
+
 ## Section 3
 > This section modifies existing section [71.09.080](/rcw/71_mental_illness/71.09_sexually_violent_predators.md). Here is the [modified chapter](rcw/71_mental_illness/71.09_sexually_violent_predators.md) for context.
 
@@ -278,4 +279,68 @@ Information regarding victims, next of kin, or witnesses requesting the notice, 
     a. "Equitable distribution" means siting or locating secure community transition facilities **and other conditional release and transitional facilities** in a manner that will not cause a disproportionate grouping of similar facilities either in any one county, or in any one jurisdiction or community within a county, as relevant; and
 
     b. "Jurisdiction" means a city, town, or geographic area of a county in which distinct political or judicial authority may be exercised.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [71.09](/rcw/71_mental_illness/71.09_sexually_violent_predators.md). Here is the [modified chapter](rcw/71_mental_illness/71.09_sexually_violent_predators.md) for context.
+
+To facilitate the primary role of the department in identifying less restrictive alternative placements under RCW 71.09.090 and discharge planning under RCW 71.09.080, subject to the availability of amounts appropriated for this specific purpose, the department shall conduct a study to explore the development of conditional release and transition facilities, which may include community-based state-operated living alternatives similar to the state-operated living alternative program operated by the developmental disabilities administration. Any facilities or placements developed under this section may be identified through a request for proposal process or through direct state acquisition and development. Any contracts with facilities or placements entered into under this section shall include a provision requiring oversight by the department to ensure the programs are operating appropriately.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [71.09](/rcw/71_mental_illness/71.09_sexually_violent_predators.md). Here is the [modified chapter](rcw/71_mental_illness/71.09_sexually_violent_predators.md) for context.
+
+1. In accordance with RCW 71.09.090 and 71.09.096, the department shall have the primary responsibility for developing a less restrictive alternative placement. To ensure the department has sufficient less restrictive alternative placements to choose from that satisfy the requirements of RCW 71.09.092, subject to the availability of amounts appropriated for this specific purpose, the department shall use a request for proposal process to solicit and contract with housing and treatment providers from across the state and facilitate fair share principles among the counties. In order to increase the number of housing options for individuals qualifying for a less restrictive alternative, the department shall have oversight of the vendors and providers who contract with the state, including the authority to inspect and ensure compliance, negotiate the rates charged for services, ensure adequate living conditions of housing locations, and terminate contracts. The department shall maintain a statewide accounting of the contracted community housing and treatment providers in each county and provide a biannual report to the legislature and governor by December 1st on the availability and adequacy of less restrictive alternative placements and the department's compliance with fair share principles.
+
+2. To facilitate its duties required under this section, the department shall use the following housing matrix and considerations as a guide to planning and developing less restrictive alternative placements. The following considerations may not be used as a reason to deny a less restrictive alternative placement.
+
+    a. Considerations for evaluating a proposed vendor's application for less restrictive alternative housing services shall include applicable state and local zoning and building codes, general housing requirements, availability of public services, and other considerations identified in accordance with RCW 71.09.315. The department shall require the housing provider to provide proof that the facility is in compliance with all local zoning and building codes.
+
+        i. General housing requirements include running water, electricity, bedroom and living space of adequate size, and no mold or infestations.
+
+        ii. Availability of public services include availability of chaperones and whether the placement is within a reasonable distance to a grocery store, bank, public transportation options, and offices for public services and benefits.
+
+        iii. Other considerations include whether the placement is consistent with fair share principles across the counties, whether the placement is within reasonable distance to other current or planned components of the less restrictive alternative, whether the placement is within reasonable distance to employment opportunities, and the reliability of global positioning system technology.
+
+    b. Factors for evaluating less restrictive alternative options for a specific individual include sex offender treatment considerations, criminogenic needs and risk factors, protective factors, and the specific needs of the client.
+
+        i. Sex offender treatment considerations include whether the housing is within a reasonable distance from the treatment provider, whether the treatment provider is a good therapeutic match with the client, and whether the treatment provider has relevant experience and background to treat the client if the client has special needs.
+
+        ii. Criminogenic needs and risk factors include consideration of the person's specific needs and risk factors in evaluating less restrictive alternative options.
+
+        iii. Protective factors include whether housing is within a reasonable distance of family, friends, potential hobbies, potential employment, and educational opportunities.
+
+        iv. Consideration of the client's specific needs includes assessing the availability of personal care assistance and in-home care assistance, and whether housing is within a reasonable distance of mental health, medical treatment options, and substance use disorder treatment options.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [71.09](/rcw/71_mental_illness/71.09_sexually_violent_predators.md). Here is the [modified chapter](rcw/71_mental_illness/71.09_sexually_violent_predators.md) for context.
+
+1. The department shall enter into a memorandum of understanding with the department of licensing to allow residents in total confinement at the special commitment center to obtain a state identification card through a written identification verification letter completed by the special commitment center and delivered to the department of licensing.
+
+2. The process shall occur upon the person's initial detention at the special commitment center. The process shall reoccur when the person's state identification card expires.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [71.09](/rcw/71_mental_illness/71.09_sexually_violent_predators.md). Here is the [modified chapter](rcw/71_mental_illness/71.09_sexually_violent_predators.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the department, the sex offender policy board, and department of health shall convene a work group to develop recommendations to increase the availability and quality of sex offender treatment providers to meet the growing number of persons qualifying for conditional release to a less restrictive alternative. The work group shall gather data on best practices in other states and make recommendations whether sex offender treatment providers should be required to contract with the department; whether annual or biannual trainings by the department should be mandatory for prospective and existing sex offender treatment providers; whether the department should provide competitive wages for services or pay that is commensurate with the years of experience or education level of the treatment provider; and whether the department should provide other incentives such as a cost-of-living pay increase or compensating providers for the cost of mandated trainings associated with the sex offender treatment provider license under chapter 18.155 RCW. A report shall be submitted to the legislature by December 1, 2021.
+
+2. This section expires June 30, 2022.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [71.09](/rcw/71_mental_illness/71.09_sexually_violent_predators.md). Here is the [modified chapter](rcw/71_mental_illness/71.09_sexually_violent_predators.md) for context.
+
+1. In accordance with RCW 9.94A.8673, the sex offender policy board shall meet quarterly during the 2021-2023 biennium to continue its review of sexually violent predators and less restrictive alternative policies and best practices, collaborate with stakeholders and the department, provide outreach to providers and stakeholders, and monitor implementation of this act. The board shall also explore and make recommendations whether to continue or remove the prohibition on a less restrictive alternative from including a placement in the community protection program pursuant to RCW 71A.12.230. The board shall provide semiannual updates to the appropriate committees of the legislature during the 2021-2023 biennium.
+
+2. This section expires June 30, 2023.
+
+
+## Section 15
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. In accordance with section 14 of this act, the sex offender policy board shall meet quarterly during the 2021-2023 biennium to continue its review of sexually violent predators and less restrictive alternative policies and best practices, collaborate with stakeholders and the department, provide outreach to providers and stakeholders, and monitor implementation of this act. The board shall provide semiannual updates to the appropriate committees of the legislature during the 2021-2023 biennium.
+
+2. This section expires June 30, 2023.
 

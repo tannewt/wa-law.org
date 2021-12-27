@@ -1,5 +1,6 @@
 # SB 5181 - Low-income school districts
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5181&Year=2021)
+
 Providing school districts serving low-income communities with flexibility in financing their facilities.
 
 ## Revisions

@@ -65,5 +65,46 @@
     b. **The leadership of the senate and the house of representatives may petition the department to limit the duration of an emergency order. If at least three of the four leaders sign the petition, the order may not remain in effect for longer than 30 days after the petition is sent. Identical or substantially similar orders may not be adopted in sequence unless the conditions precipitating the new order have substantially changed. For purposes of this section, "leadership of the senate and the house of representatives" means the majority and minority leaders of the senate and the speaker and the minority leader of the house of representatives.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [35A.12](/rcw/35A_optional_municipal_code/35A.12_mayor-council_plan_of_government.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.12_mayor-council_plan_of_government.md) for context.
+
+1. Any emergency order issued by a mayor or city council in response to a proclaimed state of emergency must be narrowly tailored to the emergency and use the least restrictive means to accomplish a compelling governmental interest.
+
+2. The leadership of the senate and the house of representatives may petition the city or town to limit the duration of an emergency order. If at least three of the four leaders sign the petition, the order may not remain in effect for longer than 30 days after the petition is sent. Identical or substantially similar orders may not be adopted in sequence unless the conditions precipitating the new order have substantially changed. For purposes of this section, "leadership of the senate and the house of representatives" means the majority and minority leaders of the senate and the speaker and the minority leader of the house of representatives.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [35A.13](/rcw/35A_optional_municipal_code/35A.13_council-manager_plan_of_government.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.13_council-manager_plan_of_government.md) for context.
+
+1. Any emergency order issued by a manager or city council in response to a proclaimed state of emergency must be narrowly tailored to the emergency and use the least restrictive means to accomplish a compelling governmental interest.
+
+2. The leadership of the senate and the house of representatives may petition the city or town to limit the duration of an emergency order. If at least three of the four leaders sign the petition, the order may not remain in effect for longer than 30 days after the petition is sent. Identical or substantially similar orders may not be adopted in sequence unless the conditions precipitating the new order have substantially changed. For purposes of this section, "leadership of the senate and the house of representatives" means the majority and minority leaders of the senate and the speaker and the minority leader of the house of representatives.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [35.18](/rcw/35_cities_and_towns/35.018_council-manager_plan.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.018_council-manager_plan.md) for context.
+
+1. Any emergency order issued by a manager or city council in response to a proclaimed state of emergency must be narrowly tailored to the emergency and use the least restrictive means to accomplish a compelling governmental interest.
+
+2. The leadership of the senate and the house of representatives may petition the city or town to limit the duration of an emergency order. If at least three of the four leaders sign the petition, the order may not remain in effect for longer than 30 days after the petition is sent. Identical or substantially similar orders may not be adopted in sequence unless the conditions precipitating the new order have substantially changed. For purposes of this section, "leadership of the senate and the house of representatives" means the majority and minority leaders of the senate and the speaker and the minority leader of the house of representatives.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [35.17](/rcw/35_cities_and_towns/35.017_commission_form_of_government.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.017_commission_form_of_government.md) for context.
+
+1. Any emergency order issued by a mayor or commission in response to a proclaimed state of emergency must be narrowly tailored to the emergency and use the least restrictive means to accomplish a compelling governmental interest.
+
+2. The leadership of the senate and the house of representatives may petition the city or town to limit the duration of an emergency order. If at least three of the four leaders sign the petition, the order may not remain in effect for longer than 30 days after the petition is sent. Identical or substantially similar orders may not be adopted in sequence unless the conditions precipitating the new order have substantially changed. For purposes of this section, "leadership of the senate and the house of representatives" means the majority and minority leaders of the senate and the speaker and the minority leader of the house of representatives.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+1. Any emergency order issued by a county commissioner, county executive, or other county legislative authority in response to a proclaimed state of emergency must be narrowly tailored to the emergency and use the least restrictive means to accomplish a compelling governmental interest.
+
+2. The leadership of the senate and the house of representatives may petition the county to limit the duration of an emergency order. If at least three of the four leaders sign the petition, the order may not remain in effect for longer than 30 days after the petition is sent. Identical or substantially similar orders may not be adopted in sequence unless the conditions precipitating the new order have substantially changed. For purposes of this section, "leadership of the senate and the house of representatives" means the majority and minority leaders of the senate and the speaker and the minority leader of the house of representatives.
+
+
 ## Section 8
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

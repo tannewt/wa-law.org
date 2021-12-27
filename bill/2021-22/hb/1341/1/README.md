@@ -1,6 +1,14 @@
 # House Bill 1341
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1341.xml)
+## Section 1
+> This section adds a new section to an existing chapter [4.24](/rcw/04_civil_procedure/4.024_special_rights_of_action_and_special_immunities.md). Here is the [modified chapter](rcw/04_civil_procedure/4.024_special_rights_of_action_and_special_immunities.md) for context.
+
+1. The common law doctrine known as the professional rescue doctrine that precludes a public safety employee from recovering damages for injuries arising from the normal, inherent, and foreseeable risks of his or her profession is abolished.
+
+2. In addition to any other right of action or recovery otherwise available under law, whenever any public safety employee suffers any injury, disease, or death while in the lawful discharge of his or her official duties and that injury, disease, or death is directly or indirectly the result of the neglect, willful omission, or willful or culpable conduct of any person or entity, other than that employee, the employee, or in the case of death, a representative of that employee's estate, may seek recovery and damages from the person or entity whose neglect, willful omission, or willful or culpable conduct resulted in that injury, disease, or death.
+
+
 ## Section 2
 > This section modifies existing section [80.04.440](/rcw/80_public_utilities/80.04_regulations—general.md). Here is the [modified chapter](rcw/80_public_utilities/80.04_regulations—general.md) for context.
 

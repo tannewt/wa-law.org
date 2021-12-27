@@ -1,5 +1,6 @@
 # EHB 1342 - Reduced-price lunch copays
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1342&Year=2021)
+
 Eliminating lunch copays for students who qualify for reduced-price lunches.
 
 ## Revisions

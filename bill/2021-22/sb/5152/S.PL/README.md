@@ -1,23 +1,77 @@
 # Substitute Senate Bill 5152 as Recommended by Transportation - as passed by the Legislature
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5152-S.PL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+"Data services" means the practice of providing data sets to governmental entities and businesses, as authorized or required by law.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+1. "Identity information" means information that identifies an individual, or may be used to determine the identity of an individual, including:
+
+    a. Federal tax identification number or employer identification number;
+
+    b. Residential and mailing address, but not the five-digit zip code;
+
+    c. Email address;
+
+    d. Telephone number;
+
+    e. Registered and legal vehicle owner name;
+
+    f. Gender;
+
+    g. Place of birth;
+
+    h. Voter information status; and
+
+    i. Selective service information.
+
+2. "Personal information" has the same meaning as in RCW 42.56.590.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+"Transportation network company" means a corporation, partnership, sole proprietorship, or other entity that operates in this state, and uses a digital network to connect passengers with transportation network company drivers to provide prearranged rides.
+
+
 ## Section 4
-(1) Confidentiality of records. Any information or record containing personal or identity information obtained by the department, pursuant to the administration of driver and vehicle records, shall be private and confidential except as otherwise provided in federal and state law.
-(2) Obligations of data recipients and subrecipients. (a) All data recipients and subrecipients, as defined by the department, authorized to receive personal or identity information originating from the department have an affirmative obligation to take all reasonable actions necessary to prevent the unauthorized disclosure and misuse of personal or identity information. The department may require audit or investigation of any entity receiving personal or identity information that originated from the department.
-(b) If misuse or an unauthorized disclosure of personal or identity information occurs, all parties aware of the violation must inform the department and take all reasonably available actions to mitigate and rectify the disclosure to the department's standards.
-(3) Contractual requirements. (a) Prior to providing data services that include the release of any personal or identity information as authorized by federal or state law, the department must enter into a contract with the entity authorized to receive the personal or identity information. The contract must include, at a minimum:
-(i) Limitations and restrictions for the use of personal or identity information;
-(ii) A requirement that the data recipient allow the department or its agent to conduct regular permissible use audits;
-(iii) A requirement that the data recipient undergo regular data security audits, and standards for the conduct of such audits. Internal audit programs required under RCW 43.88.160 are considered independent third-party auditors for the purposes of this section;
-(iv) A provision that all costs of the audits performed pursuant to this subsection are not the responsibility of the department;
-(v) Provisions governing redisclosure of personal or identity information by a data recipient or subrecipient other than to those categories of parties permitted by contract and standards for the handling of such information;
-(vi) Other privacy, compliance, and contractual requirements as may be set forth in rule by the department to protect personal or identity information;
-(vii) A statement that the ownership of data provided under this chapter remains with the department, and ownership does not transfer to the data recipient or subrecipient; and
-(viii) A provision that the data recipient must conduct or review regular data security and permissible use audits of all subrecipients, and standards for the conduct of such audits.
-(b) The department may adopt other contract requirements as necessary to ensure the privacy of individuals and protection of personal or identity information.
-(4) Penalties. (a) The unauthorized disclosure or use of personal or identity information shall subject the disclosing entity to a civil penalty of up to twenty thousand dollars, per incident, in 2021 and annually adjusted by the department on the first calendar day of each year based on changes in the United States consumer price index for all urban consumers.
-(b) Other applicable sanctions under state and federal law may also apply. The amount of any penalties collected pursuant to (a) of this subsection shall be paid into the department's technology improvement and data management account created in RCW 46.68.063.
-(c) If personal or identity information provided by the department is used for any purpose other than that authorized in the data recipient's contract with the department, the data recipient and any subrecipient responsible for the misuse, unauthorized disclosure, or nondata destruction may be denied further access to personal or identity information by the department.
+1. Confidentiality of records. Any information or record containing personal or identity information obtained by the department, pursuant to the administration of driver and vehicle records, shall be private and confidential except as otherwise provided in federal and state law.
+
+2. Obligations of data recipients and subrecipients. (a) All data recipients and subrecipients, as defined by the department, authorized to receive personal or identity information originating from the department have an affirmative obligation to take all reasonable actions necessary to prevent the unauthorized disclosure and misuse of personal or identity information. The department may require audit or investigation of any entity receiving personal or identity information that originated from the department.
+
+    b. If misuse or an unauthorized disclosure of personal or identity information occurs, all parties aware of the violation must inform the department and take all reasonably available actions to mitigate and rectify the disclosure to the department's standards.
+
+3. Contractual requirements. (a) Prior to providing data services that include the release of any personal or identity information as authorized by federal or state law, the department must enter into a contract with the entity authorized to receive the personal or identity information. The contract must include, at a minimum:
+
+        i. Limitations and restrictions for the use of personal or identity information;
+
+        ii. A requirement that the data recipient allow the department or its agent to conduct regular permissible use audits;
+
+        iii. A requirement that the data recipient undergo regular data security audits, and standards for the conduct of such audits. Internal audit programs required under RCW 43.88.160 are considered independent third-party auditors for the purposes of this section;
+
+        iv. A provision that all costs of the audits performed pursuant to this subsection are not the responsibility of the department;
+
+    v. Provisions governing redisclosure of personal or identity information by a data recipient or subrecipient other than to those categories of parties permitted by contract and standards for the handling of such information;
+
+    vi. Other privacy, compliance, and contractual requirements as may be set forth in rule by the department to protect personal or identity information;
+
+    vii. A statement that the ownership of data provided under this chapter remains with the department, and ownership does not transfer to the data recipient or subrecipient; and
+
+    viii. A provision that the data recipient must conduct or review regular data security and permissible use audits of all subrecipients, and standards for the conduct of such audits.
+
+    b. The department may adopt other contract requirements as necessary to ensure the privacy of individuals and protection of personal or identity information.
+
+4. Penalties. (a) The unauthorized disclosure or use of personal or identity information shall subject the disclosing entity to a civil penalty of up to twenty thousand dollars, per incident, in 2021 and annually adjusted by the department on the first calendar day of each year based on changes in the United States consumer price index for all urban consumers.
+
+    b. Other applicable sanctions under state and federal law may also apply. The amount of any penalties collected pursuant to (a) of this subsection shall be paid into the department's technology improvement and data management account created in RCW 46.68.063.
+
+    c. If personal or identity information provided by the department is used for any purpose other than that authorized in the data recipient's contract with the department, the data recipient and any subrecipient responsible for the misuse, unauthorized disclosure, or nondata destruction may be denied further access to personal or identity information by the department.
+
 
 ## Section 5
 > This section modifies existing section [46.12.630](/rcw/46_motor_vehicles/46.12_certificates_of_title.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.12_certificates_of_title.md) for context.

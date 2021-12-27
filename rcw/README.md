@@ -1,5 +1,5 @@
 # Revised Code of Washington
-Welcome to the Markdown version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from http://apps.leg.wa.gov/rcw/[the official website].
+Welcome to the Markdown version of the Revised Code of Washington (RCW). It is an *unofficial* copy derived from [the official website](http://apps.leg.wa.gov/rcw/).
 
 * [1 - GENERAL PROVISIONS](01_general_provisions/)
 * [2 - COURTS OF RECORD](02_courts_of_record/)

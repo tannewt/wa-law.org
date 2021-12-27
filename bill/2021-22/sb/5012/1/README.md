@@ -1,6 +1,34 @@
 # Senate Bill 5012
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5012.xml)
+## Section 1
+> This section adds a new section to an existing chapter [67.28](/rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md). Here is the [modified chapter](rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md) for context.
+
+1. [Empty]
+
+    a. The legislative body of a county, city, or town is authorized to levy and collect a special excise tax on the furnishing of lodging of short-term rentals subject to tax under chapter 82.08 RCW, as provided in this section.
+
+    b. The tax under this section applies exclusively to short-term rentals facilitated through an internet-based short-term rental platform.
+
+    c. The rate of tax under this section may not exceed ten percent on the sale of, or charge made for, the furnishing of lodging of a short-term rental subject to tax under chapter 82.08 RCW.
+
+    d. Any county ordinance or resolution adopted under this section shall contain a provision allowing a credit against the county tax for the full amount of any city or town tax imposed under this section upon the same taxable event.
+
+2. [Empty]
+
+    a. The legislative body of a county, city, or town must adopt a resolution of intent to adopt legislation authorizing the tax under this section prior to imposing the tax under this section.
+
+    b. Adoption of the resolution of intent and legislation requires simple majority approval of the enacting legislative authority.
+
+3. [Empty]
+
+    a. Except as provided in (b) of this subsection, moneys collected from the special excise tax under this section must be used exclusively for the operating and capital costs of affordable housing programs including, but not limited to, homeless housing assistance, temporary shelters, and other related services. A city or town may use revenues collected under this section for contracts, loans, or grants to nonprofit organizations or public housing authorities for services related to affordable housing programs.
+
+    b. A county, city, or town may retain up to five percent of the moneys collected under this section in each calendar year for the direct and indirect costs incurred in the administration of services and programs as provided in (a) of this subsection.
+
+4. For the purposes of this section, "short-term rental" and "short-term rental platform" have the same meanings as in RCW 64.37.010.
+
+
 ## Section 2
 > This section modifies existing section [67.28.181](/rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md). Here is the [modified chapter](rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md) for context.
 

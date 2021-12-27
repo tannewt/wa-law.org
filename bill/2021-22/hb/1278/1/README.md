@@ -1,6 +1,14 @@
 # House Bill 1278
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1278.xml)
+## Section 1
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. While maintaining all health and safety standards and necessary licensing requirements to meet those standards, between July 1, 2021, and September 30, 2025, the department shall suspend a11 professional development and higher education licensing requirements for child care providers.
+
+2. The department must adopt rules to implement this section. The department must clearly identify in the rules the specific health or safety standard supported by the affiliated licensing requirement.
+
+
 ## Section 2
 > This section modifies existing section [43.216.755](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
 

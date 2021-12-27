@@ -1,5 +1,6 @@
 # SB 5390 - Housing supply
-*Status: Referred to Ways & Means.*
+*Status: Referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5390&Year=2021)
+
 Increasing housing supply through the growth management act and housing density tax incentives for local governments.
 
 ## Revisions

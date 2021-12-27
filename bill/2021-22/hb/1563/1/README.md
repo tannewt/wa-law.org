@@ -9,6 +9,12 @@
 2. **For purposes of determining the validity of an order issued by the governor pursuant to chapter 43.06 RCW, where the order at issue has not been or will not be enforced, an issue of continuing and substantial public interest exists and is likely to recur, and the final authoritative determination of the issue is essential.**
 
 
+## Section 2
+> This section adds a new section to an existing chapter [7.24](/rcw/07_special_proceedings_and_actions/7.024_uniform_declaratory_judgments_act.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.024_uniform_declaratory_judgments_act.md) for context.
+
+Where an order issued by the governor pursuant to chapter 43.06 RCW is determined to be invalid in whole or in relevant part, the court shall enjoin enforcement of the order or part of the order determined to be invalid and award actual damages to the prevailing plaintiff. The court may, in its discretion, increase the award of damages to an amount not more than three times the actual damages sustained.
+
+
 ## Section 3
 > This section modifies existing section [7.24.100](/rcw/07_special_proceedings_and_actions/7.024_uniform_declaratory_judgments_act.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.024_uniform_declaratory_judgments_act.md) for context.
 
@@ -19,3 +25,4 @@
 
 ## Section 4
 This act applies to all causes of action commenced on or after the effective date of this section, regardless of when the cause of action arose. To this extent, this act applies retroactively, but in all other respects it applies prospectively.
+

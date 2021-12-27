@@ -200,30 +200,92 @@ The definitions in this section apply throughout this chapter unless the context
 
 
 ## Section 6
-(1) This section is the tax preference performance statement for the tax preferences contained in section 3, chapter . . ., Laws of 2021 (section 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
-(3) It is the legislature's specific public policy objective to:
-(a) Incentivize developers to construct or rehabilitate multifamily housing;
-(b) Incentivize local governments and multifamily housing owners to maintain or expand existing income-restricted unit stock that have been incentivized through the tax exemption provided under chapter 84.14 RCW via new authority to renew the property tax abatement in exchange for continued or additional affordability; and
-(c) Further encourage multifamily construction in cities and certain unincorporated urban growth areas by expanding access to the multifamily tax exemption program to a broader set of jurisdictions.
-(4) It is the legislature's intent to provide the value of new housing construction, conversion, and rehabilitation improvements qualifying under chapter 84.14 RCW an exemption from ad valorem property taxation for eight to 12 years or more, as provided for in RCW 84.14.020, in order to provide incentives to developers to construct or rehabilitate multifamily housing thereby increasing the number of affordable housing units, or preserving the state's stock of income-restricted units, for low-income to moderate-income residents in certain urban growth areas.
-(5) The legislature intends to extend the expiration date of the tax preferences in section 3, chapter . . ., Laws of 2021 (section 3 of this act), if a review finds that:
-(a) Projects receiving an initial eight-year or 12-year exemption regularly enter into subsequent 12-year extensions in exchange for continued or increased income restrictions on affordable units; and
-(b) At least 20 percent of the new housing is developed and occupied by households earning:
-(i) At or below 80 percent of the area median income, at the time of occupancy, adjusted for family size for the county in which the project is located; or
-(ii) Where the housing is intended exclusively for owner occupancy, up to 115 percent of the area median income, at the time of sale, adjusted for family size for the county in which the project is located.
-(6) In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee must refer to the annual reports compiled by the department of commerce under RCW 84.14.100 and may refer to data provided by counties or cities in which persons are utilizing the preferences, the office of financial management, the department of commerce, the United States department of housing and urban development, and any other data sources, as needed by the joint legislative audit and review committee.
+1. This section is the tax preference performance statement for the tax preferences contained in section 3, chapter . . ., Laws of 2021 (section 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
+
+3. It is the legislature's specific public policy objective to:
+
+    a. Incentivize developers to construct or rehabilitate multifamily housing;
+
+    b. Incentivize local governments and multifamily housing owners to maintain or expand existing income-restricted unit stock that have been incentivized through the tax exemption provided under chapter 84.14 RCW via new authority to renew the property tax abatement in exchange for continued or additional affordability; and
+
+    c. Further encourage multifamily construction in cities and certain unincorporated urban growth areas by expanding access to the multifamily tax exemption program to a broader set of jurisdictions.
+
+4. It is the legislature's intent to provide the value of new housing construction, conversion, and rehabilitation improvements qualifying under chapter 84.14 RCW an exemption from ad valorem property taxation for eight to 12 years or more, as provided for in RCW 84.14.020, in order to provide incentives to developers to construct or rehabilitate multifamily housing thereby increasing the number of affordable housing units, or preserving the state's stock of income-restricted units, for low-income to moderate-income residents in certain urban growth areas.
+
+5. The legislature intends to extend the expiration date of the tax preferences in section 3, chapter . . ., Laws of 2021 (section 3 of this act), if a review finds that:
+
+    a. Projects receiving an initial eight-year or 12-year exemption regularly enter into subsequent 12-year extensions in exchange for continued or increased income restrictions on affordable units; and
+
+    b. At least 20 percent of the new housing is developed and occupied by households earning:
+
+        i. At or below 80 percent of the area median income, at the time of occupancy, adjusted for family size for the county in which the project is located; or
+
+        ii. Where the housing is intended exclusively for owner occupancy, up to 115 percent of the area median income, at the time of sale, adjusted for family size for the county in which the project is located.
+
+6. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee must refer to the annual reports compiled by the department of commerce under RCW 84.14.100 and may refer to data provided by counties or cities in which persons are utilizing the preferences, the office of financial management, the department of commerce, the United States department of housing and urban development, and any other data sources, as needed by the joint legislative audit and review committee.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [84.14](/rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md). Here is the [modified chapter](rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md) for context.
+
+1. [Empty]
+
+    a. The value of new housing construction, conversion, and rehabilitation improvements qualifying under this chapter is exempt from ad valorem property taxation, as follows: For 20 successive years beginning January 1st of the year immediately following the calendar year of issuance of the certificate, if the property otherwise qualifies for the exemption under this chapter and meets the conditions in this section. For the property to qualify for the 20-year exemption under this section, at least 25 percent of the units must be built by or sold to a qualified nonprofit or local government that will assure permanent affordable homeownership. The remaining 75 percent of units may be rented or sold at market rates.
+
+    b. Until December 31, 2031, for a city as defined in RCW 84.14.010(3)(d), in any city the value of new housing construction, conversion, and rehabilitation improvements qualifying under this chapter is exempt from ad valorem property taxation, as follows: For 20 successive years beginning January 1st of the year immediately following the calendar year of issuance of the certificate, if the property otherwise qualifies for the exemption under this chapter and meets the conditions in this section. For the property to qualify for the 20-year exemption under this section, at least 25 percent of the units must be sold to a qualified nonprofit or local government partner that will assure permanent affordable homeownership. The remaining 75 percent of units may be rented or sold at market rates. The area must be zoned to have an average minimum density equivalent to 15 dwelling units or more per gross acre, or for cities with a population over 20,000, the area must be zoned to have an average minimum density equivalent to 25 dwelling units or more per gross acre.
+
+2. Permanently affordable homeownership units or permanently affordable rental units must be sold or rented to households earning no more than 80 percent of the average median income for the city or local jurisdiction in which the unit is located.
+
+3. A local jurisdiction may assign and collect an administration fee at each point of sale to cover the administrative costs for oversight of the program to maintain permanently affordable housing units consistent with this section.
+
+4. The exemptions in this section do not include the value of land or nonhousing-related improvements not qualifying under this chapter.
+
+5. At the conclusion of the exemption period, the value of the new housing construction, conversion, or rehabilitation improvements must be considered as new construction for the purposes of chapters 84.55 and 36.21 RCW as though the property was not exempt under this chapter.
+
+6. For purposes of this section, "permanently affordable homeownership" means homeownership that, in addition to meeting the definition of "affordable housing" in RCW 43.185A.010, is:
+
+    a. Sponsored by a nonprofit organization or governmental entity;
+
+    b. Subject to a ground lease or deed restriction that includes:
+
+        i. A resale restriction designed to provide affordability for future low and moderate-income homebuyers;
+
+        ii. A right of first refusal for the sponsor organization to purchase the home at resale; and
+
+        iii. A requirement that the sponsor must approve any refinancing, including home equity lines of credit; and
+
+    c. Sponsored by a nonprofit organization or governmental entity and the sponsor organization:
+
+        i. Executes a new ground lease or deed restriction with a duration of at least 99 years at the initial sale and with each successive sale; and
+
+        ii. Supports homeowners and enforces the ground lease or deed restriction.
+
+7. The department of commerce must develop a template for permanent affordability for home or condo ownership through deed restrictions that can be used by a city or local government to ensure compliance with this section.
+
+8. No new exemptions may be provided under this section beginning on or after January 1, 2032.
+
 
 ## Section 8
-(1) This section is the tax preference performance statement for the tax preference contained in section 7, chapter . . ., Laws of 2021 (section 7 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
-(3) It is the legislature's specific public policy objective to incentivize developers to construct or rehabilitate permanently affordable homeownership units.
-(4) It is the legislature's intent to provide the value of new housing construction, conversion, and rehabilitation improvements qualifying under chapter 84.14 RCW an exemption from ad valorem property taxation for 20 years, as provided for in section 7 of this act, in order to provide incentives to developers to construct or rehabilitate multifamily housing thereby increasing the number of permanently affordable homeownership units.
-(5) The legislature intends to extend the expiration date of the tax preferences in section 7, chapter . . ., Laws of 2021 (section 7 of this act), if a review finds that:
-(a) The number of local governments utilizing the permanently affordable homeownership tax exemption program authorized in section 7 of this act increases over time;
-(b) The number of permanently affordable homeownership units increases; and
-(c) The income level of those households benefiting from the permanently affordable homeownership units is consistent with the requirements of section 7 of this act.
-(6) In order to obtain the data necessary to perform the review in subsection (5) of this section, the joint legislative audit and review committee must refer to the annual reports compiled by the department of commerce under RCW 84.14.100 and may refer to data provided by counties or cities in which persons are utilizing the preferences, the office of financial management, the department of commerce, the United States department of housing and urban development, and any other data sources, as needed by the joint legislative audit and review committee.
+1. This section is the tax preference performance statement for the tax preference contained in section 7, chapter . . ., Laws of 2021 (section 7 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
+
+3. It is the legislature's specific public policy objective to incentivize developers to construct or rehabilitate permanently affordable homeownership units.
+
+4. It is the legislature's intent to provide the value of new housing construction, conversion, and rehabilitation improvements qualifying under chapter 84.14 RCW an exemption from ad valorem property taxation for 20 years, as provided for in section 7 of this act, in order to provide incentives to developers to construct or rehabilitate multifamily housing thereby increasing the number of permanently affordable homeownership units.
+
+5. The legislature intends to extend the expiration date of the tax preferences in section 7, chapter . . ., Laws of 2021 (section 7 of this act), if a review finds that:
+
+    a. The number of local governments utilizing the permanently affordable homeownership tax exemption program authorized in section 7 of this act increases over time;
+
+    b. The number of permanently affordable homeownership units increases; and
+
+    c. The income level of those households benefiting from the permanently affordable homeownership units is consistent with the requirements of section 7 of this act.
+
+6. In order to obtain the data necessary to perform the review in subsection (5) of this section, the joint legislative audit and review committee must refer to the annual reports compiled by the department of commerce under RCW 84.14.100 and may refer to data provided by counties or cities in which persons are utilizing the preferences, the office of financial management, the department of commerce, the United States department of housing and urban development, and any other data sources, as needed by the joint legislative audit and review committee.
+
 
 ## Section 9
 > This section modifies existing section [84.14.030](/rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md). Here is the [modified chapter](rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md) for context.

@@ -2,8 +2,16 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5172-S.xml)
 ## Section 1
-(1) The legislature recognizes that the numerous cases in Washington state have addressed the application of the prospective and retroactive effect of the courts' decisions, and that the courts have established a general rule favoring retroactivity. The legislature finds that recent decisions relating to overtime wage claims create exceptional cases requiring unique legislative action.
-(2) The legislature intends to address the retroactive effect of court decisions concerning overtime wage claims by removing an exceptional constitutionally suspect historical exemption and by creating an affirmative defense for employers which are affected by the elimination of the exceptional historical exemption.
+1. The legislature recognizes that the numerous cases in Washington state have addressed the application of the prospective and retroactive effect of the courts' decisions, and that the courts have established a general rule favoring retroactivity. The legislature finds that recent decisions relating to overtime wage claims create exceptional cases requiring unique legislative action.
+
+2. The legislature intends to address the retroactive effect of court decisions concerning overtime wage claims by removing an exceptional constitutionally suspect historical exemption and by creating an affirmative defense for employers which are affected by the elimination of the exceptional historical exemption.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [49.46](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
+
+In any cause of action filed in court on or after October 11, 2017, and before June 30, 2024, seeking overtime pay under the provisions of RCW 49.46.130 or other provision of state or local law, the employer and any other person alleged to be liable for overtime pay shall have an affirmative defense to any claim or cause of action for recovery of wages, damages, statutory penalties, or civil penalties, actual damages, and attorneys' fees and costs based solely upon the employer's failure to pay an employee overtime pay due under RCW 49.46.130 if the employer or person alleged to be liable elects the remedies and pays the compensation as described in section 4 of this act.
+
 
 ## Section 3
 > This section modifies existing section [49.46.130](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
@@ -47,4 +55,32 @@ In determining the proportion of compensation representing commissions, all earn
     b. A straight commission, a salary plus commission, or a salary plus bonus applied to gross salary.
 
 5. No public agency shall be deemed to have violated subsection (1) of this section with respect to the employment of any employee in fire protection activities or any employee in law enforcement activities (including security personnel in correctional institutions) if: (a) In a work period of twenty-eight consecutive days the employee receives for tours of duty which in the aggregate exceed two hundred forty hours; or (b) in the case of such an employee to whom a work period of at least seven but less than twenty-eight days applies, in his or her work period the employee receives for tours of duty which in the aggregate exceed a number of hours which bears the same ratio to the number of consecutive days in his or her work period as two hundred forty hours bears to twenty-eight days; compensation at a rate not less than one and one-half times the regular rate at which he or she is employed.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [49.48](/rcw/49_labor_regulations/49.48_wages—payment—collection.md). Here is the [modified chapter](rcw/49_labor_regulations/49.48_wages—payment—collection.md) for context.
+
+1. In any action seeking overtime compensation from agricultural employers due under RCW 49.46.130, section 3, chapter . . ., Laws of 2021 (section 3 of this act), eliminating the exceptional historical exception from overtime obligations, is curative and operates retroactively.
+
+2. [Empty]
+
+    a. To encourage and expedite full compensation of agricultural workers for overtime work performed before the effective date of this section, agricultural employers may elect to make payments, including interest at the rate of 12 percent per annum from the effective date of this section, to each of its employees for previously uncompensated overtime for the three years before the effective date of this section.
+
+    b. Employers must make reasonable and good faith efforts to locate and pay employees the overtime pay due under this section, and if, after reasonable and good faith efforts, employers are unable to locate any employees entitled to overtime pay under this section, employers must pay the amount due the employees under (a) of this subsection to the department of labor and industries, with the supporting records of the employees entitled to this compensation, which, if paid, shall have the same effect as though the compensation was paid to the employees entitled to that compensation and shall satisfy the remedies under (a) of this subsection as to those employees.
+
+    c. Employers must provide to the department of labor and industries records supporting the direct payments to employees entitled to overtime that were made were sufficient to satisfy the remedies under (a) of this subsection as to those employees.
+
+3. An agricultural employer who elects the remedies in subsection (2) of this section, but who solely through good faith error fails to make a payment to one or more employees or to the department of labor and industries shall not be held liable for any claim or cause of action arising under this chapter or chapter 49.46 RCW, based solely upon the employer's failure to pay overtime pay during the three-year period before the effective date of this section, if the employer, within thirty days of discovery or notice of the error, pays the compensation to the employee.
+
+4. When a claim or cause of action based solely upon the employer's failure to pay overtime compensation due under RCW 49.46.130 is filed after November 5, 2020, against an employer who elects the remedies in subsection (2) of this section, the statute of limitations shall be tolled until the employer completes payment of all overtime owed.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [49.48](/rcw/49_labor_regulations/49.48_wages—payment—collection.md). Here is the [modified chapter](rcw/49_labor_regulations/49.48_wages—payment—collection.md) for context.
+
+The agricultural overtime pay reimbursement account is created in the custody of the state treasurer. All receipts from employers under section 4(2) of this act must be deposited in the account. Expenditures from the account may be used only for the purposes of subsections (1) and (2) of this section. Only the director of the department of labor and industries or the director's designee may authorize expenditures from the account. The account is subject to allotment proceedings under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+1. An employee may apply to the director of the department of labor and industries or the director's designee to receive payments owed under this section.
+
+2. Any moneys in the agricultural overtime pay reimbursement account as of June 30, 2024, shall be distributed on behalf of agricultural workers as directed by a committee selected and chaired by the director of the department of labor and industries or the director's designee.
 

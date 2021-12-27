@@ -3,40 +3,69 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1584.xml)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Eligible student" means a student who:
-(a) Is a resident student as defined in RCW 28B.15.012;
-(b) Was the victim of, or is the immediate family member of the victim of, a violent offense that occurred in Washington;
-(c) Is enrolled in, or was accepted for enrollment in, a postsecondary education program for at least three quarter credits or the equivalent semester credits; and
-(d) Files an annual application for financial aid as approved by the office.
-(2) "Office" means the office of student financial assistance.
-(3) "Postsecondary education program" means a registered apprenticeship program or a certificate, undergraduate, graduate, or professional program at an institution of higher education as defined in RCW 28B.92.030.
-(4) "Program" means the crime victims and families scholarship program.
-(5) "Violent offense" has the same meaning as RCW 9.94A.030.
+
+1. "Eligible student" means a student who:
+
+    a. Is a resident student as defined in RCW 28B.15.012;
+
+    b. Was the victim of, or is the immediate family member of the victim of, a violent offense that occurred in Washington;
+
+    c. Is enrolled in, or was accepted for enrollment in, a postsecondary education program for at least three quarter credits or the equivalent semester credits; and
+
+    d. Files an annual application for financial aid as approved by the office.
+
+2. "Office" means the office of student financial assistance.
+
+3. "Postsecondary education program" means a registered apprenticeship program or a certificate, undergraduate, graduate, or professional program at an institution of higher education as defined in RCW 28B.92.030.
+
+4. "Program" means the crime victims and families scholarship program.
+
+5. "Violent offense" has the same meaning as RCW 9.94A.030.
+
 
 ## Section 2
-(1) The crime victims and families scholarship program is established. The purpose of the program is to help victims of violent crimes attend postsecondary education programs in Washington. The crime victims and families scholarship program shall be administered by the office.
+1. The crime victims and families scholarship program is established. The purpose of the program is to help victims of violent crimes attend postsecondary education programs in Washington. The crime victims and families scholarship program shall be administered by the office.
 
-(2) The office shall have the following powers and duties in administrating the program:
-(a) Adopt necessary rules and guidelines;
-(b) Create a scholarship application form and verification process for determining whether an applicant meets the eligibility criteria;
-(c) Accept scholarship applications beginning with the 2022-23 academic year and verify student eligibility;
-(d) Award scholarships to all eligible students and distribute scholarship funds to eligible students' postsecondary education programs; and
-(e) Publicize the program.
-(3) The legislature shall appropriate funding for the crime victims and families scholarship program. Allocations must be made on the basis of estimated eligible participants enrolled in institutions of higher education or apprenticeship programs. All eligible students are entitled to a scholarship beginning in the 2022-23 academic year.
+
+
+2. The office shall have the following powers and duties in administrating the program:
+
+    a. Adopt necessary rules and guidelines;
+
+    b. Create a scholarship application form and verification process for determining whether an applicant meets the eligibility criteria;
+
+    c. Accept scholarship applications beginning with the 2022-23 academic year and verify student eligibility;
+
+    d. Award scholarships to all eligible students and distribute scholarship funds to eligible students' postsecondary education programs; and
+
+    e. Publicize the program.
+
+3. The legislature shall appropriate funding for the crime victims and families scholarship program. Allocations must be made on the basis of estimated eligible participants enrolled in institutions of higher education or apprenticeship programs. All eligible students are entitled to a scholarship beginning in the 2022-23 academic year.
+
 
 ## Section 3
-(1) To receive a scholarship, an eligible student shall apply to the office. An eligible student that meets all requirements of the scholarship is entitled to receive a scholarship. The office shall award all eligible students a scholarship beginning in the 2022-23 academic year. 
-(2) The scholarship amount shall be as follows:
-(a) For students attending registered apprenticeship programs or undergraduate programs at public two or four-year institutions of higher education, the scholarship award shall be the difference between the student's tuition and required fees, less the value of any state-funded grant, scholarship, or waiver assistance received;
-(b) For students attending undergraduate private four-year institutions of higher education, the scholarship award shall be the representative average of awards granted to students in public research universities in Washington;
-(c) For students attending private vocational schools in Washington, the scholarship award shall be the representative average of awards granted to students in public community and technical colleges in Washington; and
-(d) For students attending a graduate or professional program in Washington, the scholarship award shall be the representative average of awards granted to students in public research universities in Washington.
-(3) Scholarship recipients may receive scholarship funds for no more than two years' worth of full-time enrollment.
-(4) Qualifications for receipt and renewal include maintaining satisfactory academic progress toward completion of an eligible program as determined by the office and established in rule.
-(5) Should a recipient terminate enrollment for any reason during the academic year, the unused portion of the scholarship must be returned to the institution of higher education according to the institution of higher education's policy for issuing refunds.
+1. To receive a scholarship, an eligible student shall apply to the office. An eligible student that meets all requirements of the scholarship is entitled to receive a scholarship. The office shall award all eligible students a scholarship beginning in the 2022-23 academic year.
+
+2. The scholarship amount shall be as follows:
+
+    a. For students attending registered apprenticeship programs or undergraduate programs at public two or four-year institutions of higher education, the scholarship award shall be the difference between the student's tuition and required fees, less the value of any state-funded grant, scholarship, or waiver assistance received;
+
+    b. For students attending undergraduate private four-year institutions of higher education, the scholarship award shall be the representative average of awards granted to students in public research universities in Washington;
+
+    c. For students attending private vocational schools in Washington, the scholarship award shall be the representative average of awards granted to students in public community and technical colleges in Washington; and
+
+    d. For students attending a graduate or professional program in Washington, the scholarship award shall be the representative average of awards granted to students in public research universities in Washington.
+
+3. Scholarship recipients may receive scholarship funds for no more than two years' worth of full-time enrollment.
+
+4. Qualifications for receipt and renewal include maintaining satisfactory academic progress toward completion of an eligible program as determined by the office and established in rule.
+
+5. Should a recipient terminate enrollment for any reason during the academic year, the unused portion of the scholarship must be returned to the institution of higher education according to the institution of higher education's policy for issuing refunds.
+
 
 ## Section 4
 The caseload forecast council shall estimate the anticipated caseload of the crime victims and families scholarship program and submit the caseload forecast as specified in RCW 43.88C.020.
+
 
 ## Section 5
 > This section modifies existing section [43.88C.010](/rcw/43_state_government—executive/43.088C_caseload_forecast_council.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088C_caseload_forecast_council.md) for context.

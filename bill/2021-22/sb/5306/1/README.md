@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5306.xml)
 ## Section 1
 The legislature finds that salmon recovery efforts have been instrumental in helping some species turn the corner towards recovery and have slowed the decline of several other species. However, while great progress has been made in implementing critical salmon recovery projects, more work is needed at the state, but also, local level in order to further protect and restore habitat.
+
 The legislature further finds that the state's population has continued to grow at a dramatic pace, growing by 1.6 million people since 1999, when the statewide salmon recovery strategy was adopted. A growing population needs housing, drinkable water, and other resources, which can put a strain on habitat critical to salmon. Development along shorelines can erode coastal areas, leaving beaches inhospitable to salmon and the fish they eat. Development of land along streams often removes the trees and bushes that provide shade, filter pollution, and create beneficial salmon habitat with discarded leaves and branches. Land development also increases paving and impervious surfaces, which in turn increases the amount of pollution and contaminated stormwater entering waterways. Finally, population growth increases the need for water for drinking, for use in homes and businesses, and for irrigation. More demand for water often impacts the quality and the amount of water left in streams to support salmon.
+
 Moreover, since much of growth planning occurs at the local level, the legislature finds that statewide salmon recovery and conservation efforts could benefit further through strengthened policies and regulations adopted by counties and cities. Therefore, the legislature intends to enact guidelines for the preservation and enhancement of anadromous fisheries in order to assist counties and cities with the development of planning initiatives beneficial to local and statewide salmon recovery.
+
 
 ## Section 2
 > This section modifies existing section [36.70A.050](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
@@ -46,4 +49,10 @@ Moreover, since much of growth planning occurs at the local level, the legislatu
     vi. **The department of fish and wildlife must complete the guidelines by January 1, 2022, in order to allow cities and counties to update critical areas policies and development regulations as part of their next periodic review required under RCW 36.70A.130.**
 
 2. If it determines that advice from scientific or other experts is necessary or will be of substantial assistance in reaching its decision, the growth management hearings board may retain scientific or other expert advice to assist in reviewing a petition under RCW 36.70A.290 that involves critical areas.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+By December 1, 2023, the department of fish and wildlife and the department must review and report on county and city adoption of critical areas policies and development regulations that implement the guidelines for the preservation and enhancement of anadromous fisheries, under RCW 36.70A.172.
 

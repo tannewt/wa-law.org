@@ -2,14 +2,24 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5249.xml)
 ## Section 2
-(1) The state board of education shall consider for adoption the profile of a graduate recommended by the mastery-based learning work group under section 1 of this act. The state board of education may consider modifications to the profile and must adopt the recommended or modified profile by April 30, 2022.
-(2)(a) The state board of education shall propose rules by December 31, 2022, to align graduation requirements under RCW 28A.230.090 and 28A.655.250 to support implementation of the adopted profile of a graduate.
-(b) In developing the rules, the state board of education shall consider:
-(i) Whether changes to the core subject area requirements, flexible credits, and noncredit requirements should be made and what those changes should be;
-(ii) The relationship between credits and core subject area requirements; and
-(iii) How the following components of the high school diploma work together as a system of graduation requirements designed to declare that a student is ready for success in postsecondary education, gainful employment, and civic engagement and is equipped with the skills to be a lifelong learner: The high school and beyond plan and the credit and subject area graduation requirements under RCW 28A.230.090 and the graduation pathway options under RCW 28A.655.250.
-(c) By December 31, 2022, the state board shall forward the proposed rules to the education committees of the legislature in accordance with the process described in RCW 28A.230.090.
-(3) This section expires December 31, 2023.
+1. The state board of education shall consider for adoption the profile of a graduate recommended by the mastery-based learning work group under section 1 of this act. The state board of education may consider modifications to the profile and must adopt the recommended or modified profile by April 30, 2022.
+
+2. [Empty]
+
+    a. The state board of education shall propose rules by December 31, 2022, to align graduation requirements under RCW 28A.230.090 and 28A.655.250 to support implementation of the adopted profile of a graduate.
+
+    b. In developing the rules, the state board of education shall consider:
+
+        i. Whether changes to the core subject area requirements, flexible credits, and noncredit requirements should be made and what those changes should be;
+
+        ii. The relationship between credits and core subject area requirements; and
+
+        iii. How the following components of the high school diploma work together as a system of graduation requirements designed to declare that a student is ready for success in postsecondary education, gainful employment, and civic engagement and is equipped with the skills to be a lifelong learner: The high school and beyond plan and the credit and subject area graduation requirements under RCW 28A.230.090 and the graduation pathway options under RCW 28A.655.250.
+
+    c. By December 31, 2022, the state board shall forward the proposed rules to the education committees of the legislature in accordance with the process described in RCW 28A.230.090.
+
+3. This section expires December 31, 2023.
+
 
 ## Section 3
 > This section modifies existing section [28A.655.260](/rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.655_academic_achievement_and_accountability.md) for context.

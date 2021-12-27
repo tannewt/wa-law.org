@@ -345,6 +345,12 @@ A person shall not be required to execute or to refrain from executing a directi
 3. The joint legislative audit and review committee shall conduct an evaluation of the operation and impact of this section. The committee shall report its findings to the appropriate committees of the legislature by December 1, 2004.
 
 
+## Section 20
+> This section adds a new section to an existing chapter [71.32](/rcw/71_mental_illness/71.32_mental_health_advance_directives.md). Here is the [modified chapter](rcw/71_mental_illness/71.32_mental_health_advance_directives.md) for context.
+
+Nothing in this chapter restricts the right of a parent to seek behavioral health evaluation and treatment for a nonconsenting adolescent using family-initiated treatment laws under chapter 71.34 RCW.
+
+
 ## Section 21
 > This section modifies existing section [71.34.755](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
 

@@ -68,7 +68,9 @@ The following real and personal property shall be exempt from taxation:
 
 
 ## Section 3
-This act applies both retroactively and prospectively to taxes levied for collection in 2021 and thereafter. 
+This act applies both retroactively and prospectively to taxes levied for collection in 2021 and thereafter.
+
 
 ## Section 4
 RCW 82.32.805 and 82.32.808 do not apply to this act.
+

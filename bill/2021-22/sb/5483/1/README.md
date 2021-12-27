@@ -311,6 +311,38 @@ There is levied upon every distributor of aircraft fuel, an excise tax at the ra
         iii. **"Passenger car" has the same meaning provided in RCW 46.04.382.**
 
 
+## Section 301
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+1. A statewide annual special transportation benefit assessment is imposed on developed parcels for the purposes of mitigating the impacts of growth on state transportation infrastructure throughout the state. The amount of the transportation benefit assessment is the increase in assessed value for the parcel resulting from new construction multiplied by the applicable rate:
+
+    a. For residential developed parcels the rate is $1.50 per $1,000 of assessed value resulting from new construction;
+
+    b. For manufacturing developed parcels the rate is one dollar per $1,000 of assessed value resulting from new construction; and
+
+    c. For all other developed parcels not otherwise described in (a) or (b) of this subsection (1), the rate is $3 per $1,000 of assessed value resulting from new construction.
+
+2. Parcels that are classified as designated forestland under chapter 84.33 RCW or designated agriculture land or timberland under chapter 84.34 RCW are exempt from the transportation benefit assessment imposed in this section.
+
+3. To determine the appropriate designation of the parcel for purposes of applying the rate under subsection (1) of this section, county assessors may use land use codes or data collected from parcel investigations, or both, obtained in their normal course of business with respect to administering property taxes. The amount of the transportation benefit assessment constitutes a lien against the property. The assessment is subject to the same provisions as those for property tax collections, as provided in RCW 84.56.020 and must be collected by the county treasurer under the authority in RCW 84.56.035. The transportation benefit assessment fee must be collected concurrently with property taxes levied for collection in calendar year 2023 and thereafter.
+
+4. All revenues generated under this section must be transferred to the state treasurer to be deposited into the forward flexible account created in section 802 of this act.
+
+5. For the purposes of this section:
+
+    a. "Developed parcel" means any parcel altered from the natural state by the construction, creation, or addition of structures or other impervious surfaces.
+
+    b. "Land use code" means restrictions on the type of development for a specific parcel of land as identified by records maintained by the assessor or supplemented by information resulting from investigation and generally conforming with the department of revenue's two-digit land use codes in WAC 458-53-030.
+
+    c. "Manufacturing developed parcel" means any developed parcel used for manufacturing purposes.
+
+    d. "Parcel" means the smallest separately segregated unit or plot of land having an identified owner, boundaries, and surface area that is documented for property tax purposes and given a tax lot number by the assessor.
+
+    e. "Residence" means a building or structure or portion thereof, designed for and used to provide a place of abode for human beings. "Residence" includes "residential" or "residential unit" as referring to the type of or intended use of a building or structure.
+
+    f. "Residential parcel" means any developed parcel that contains no more than four residences or four residential units within a single structure and used primarily for residential purposes.
+
+
 ## Section 401
 > This section modifies existing section [46.17.355](/rcw/46_motor_vehicles/46.17_vehicle_fees.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.17_vehicle_fees.md) for context.
 
@@ -1907,6 +1939,86 @@ The director may enter into a contractual agreement with a transit authority or 
 2. A replacement permit, identicard, or driver's license may be obtained to change or correct material information upon payment of a fee of **$20** and surrender of the permit, identicard, or driver's license being replaced.
 
 
+## Section 511
+> This section adds a new section to an existing chapter [46.01](/rcw/46_motor_vehicles/46.01_department_of_licensing.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.01_department_of_licensing.md) for context.
+
+1. The state of Washington occupies and preempts the charging of per trip fees on prearranged rides by transportation network company drivers operating in the state of Washington as provided in this section. Local laws and ordinances that are inconsistent with this subsection may not be enacted and are hereby preempted and repealed. However, this subsection does not apply to local laws and ordinances enacted regarding per trip fees enacted prior to January 1, 2021.
+
+2. Beginning January 1, 2022, the department must charge a 50 cent per trip fee on prearranged and nonprearranged rides by for hire vehicles operating in the state of Washington. However, in a county with a population greater than 2,000,000, the per trip fee is 25 cents.
+
+3. The director must adopt rules to implement this section. The rules may include, but are not limited to, the:
+
+    a. Administration, enforcement, and collection of the fee in the most efficient manner deemed by the director;
+
+    b. Imposition of audit requirements to ensure compliance;
+
+    c. Establishment of penalties on drivers and companies for noncompliance; and
+
+    d. Implementation of cooperative arrangements with cities, counties, or port districts for the collection and remittance of this fee.
+
+4. All revenues generated under this section must be deposited into the forward flexible account created in section 802 of this act. Of the amount deposited pursuant to this subsection, 20 percent shall be used to enhance department of transportation, public transportation division programs as follows:
+
+    a. Fifty percent must be for funding the special needs transportation grant program; and
+
+    b. Fifty percent must be for funding the transit coordination grant program.
+
+5. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "For hire vehicle" means vehicles used for the transportation of passengers for compensation including, taxicab transportation services provided under chapter 46.72 or 81.72 RCW, or a transportation network company driver providing prearranged trips through a digital network. The term excludes auto stages, school buses operating exclusively under a contract to a school district, ride-sharing vehicles under chapter 46.74 RCW, limousine carriers licensed under chapter 46.72A RCW, vehicles used by nonprofit transportation providers for elderly or persons with disabilities and their attendants under chapter 81.66 RCW, vehicles used by auto transportation companies licensed under chapter 81.68 RCW, vehicles used to provide courtesy transportation at no charge to and from parking lots, hotels, and rental offices, and vehicles used by charter party carriers of passengers and excursion service carriers licensed under chapter 81.70 RCW.
+
+    b. "Transportation network company" means a corporation, partnership, sole proprietorship, or other entity that is operating in Washington state and uses a digital network to connect transportation network company riders to transportation network company drivers who provide prearranged rides.
+
+    c. "Transportation network company driver" means an individual who:
+
+        i. Receives connections to potential transportation network company riders and related services from a transportation network company; and
+
+        ii. Uses a transportation network company vehicle to offer or provide a prearranged ride to transportation network company riders upon connection through a digital network controlled by a transportation network company in exchange for compensation or payment of a fee.
+
+6. [Empty]
+
+    a. By August 1, 2021, the department must convene a work group to negotiate and develop a comprehensive framework and recommendations for:
+
+        i. The regulation of transportation network companies within the state of Washington; and
+
+        ii. Coordinated linkages with existing systems for taxi and for hire services regulated by state and local governments.
+
+    b. [Empty]
+
+        i. In convening this work group, the department must involve relevant representatives of the utilities and transportation commission, local governments involved in the regulation of transportation network companies and for hire vehicles, entities providing transportation network services, entities providing taxicab services and other for hire services, and other relevant parties. The work group must periodically provide updates to the joint transportation committee and allow opportunities for interested members to attend meetings of the work group and provide feedback.
+
+        ii. The work group must attempt to develop a comprehensive framework and recommendations for regulatory fees, the most effective and efficient state and local regulatory structure or structures, the most effective public safety aspects including the type of required background checks, appropriate driver compensation policies, and other ways to improve the consistency and overall effectiveness and competitive fairness of the current regulatory systems.
+
+        iii. The department must issue a report of its agreed to framework and recommendations, including draft legislation, to the house and senate transportation committees by December 1, 2022.
+
+
+## Section 512
+> This section adds a new section to an existing chapter [82.02](/rcw/82_excise_taxes/82.02_general_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.02_general_provisions.md) for context.
+
+1. [Empty]
+
+    a. The state of Washington occupies and preempts the charging of per trip fees on prearranged food delivery trips by third-party food delivery service providers operating in the state of Washington as provided in this section. Local laws and ordinances that are inconsistent with this subsection may not be enacted and are hereby preempted and repealed.
+
+    b. Beginning January 1, 2022, the department must charge a 25 cent per trip fee on prearranged food delivery trips operating in the state of Washington. This fee shall be assessed on and paid by the third-party food delivery service provider on each order processed.
+
+2. Chapter 82.32 RCW applies to the administration of the per trip fee on prearranged food delivery trips in this section.
+
+3. All revenues generated under this section must be deposited in the forward flexible account created in section 802 of this act.
+
+4. For the purposes of this section:
+
+    a. "Food delivery contractor" means an individual who:
+
+        i. Receives connections to potential food deliveries through a telephonic or digital network, including a website; and
+
+        ii. Uses that telephonic or digital network, including a website, to offer or provide a prearranged food delivery in exchange for compensation or payment of a fee.
+
+    b. "Food delivery trips" means a trip by a food delivery contractor where the order is placed by telephone, or website or digital network provided by a third-party corporation, partnership, sole proprietorship, or other entity in which the driver is connected with a restaurant or other similar business requesting delivery of prepared food product or meal. However, food delivery trips do not include deliveries provided by delivery drivers exclusively employed by a (i) grocery store, (ii) mini-market, (iii) convenience store, or (iv) restaurant or other similar business actually preparing the food product or meal. A trip shall be defined as drop-off or delivery of a prepared food order at one geographic location.
+
+    c. "Restaurant" has the same meaning as provided in RCW 82.08.9995, but excludes prepared food deliveries made by a nonprofit organization to senior citizens.
+
+    d. "Third-party food delivery service provider" means the third-party corporation, partnership, sole proprietorship, or other entity that connects a driver to a restaurant or other similar business requesting delivery of a prepared food product or meal through a website, digital network, or using a telephone.
+
+
 ## Section 601
 > This section modifies existing section [47.60.315](/rcw/47_public_highways_and_transportation/47.60_puget_sound_ferry_and_toll_bridge_system.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.60_puget_sound_ferry_and_toll_bridge_system.md) for context.
 
@@ -1969,6 +2081,64 @@ The director may enter into a contractual agreement with a transit authority or 
     b. **Fifty percent of the excise tax collected under this chapter must be deposited in forward flexible account created in section 802 of this act**.
 
 
+## Section 701
+> This section adds a new section to an existing chapter [46.17](/rcw/46_motor_vehicles/46.17_vehicle_fees.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.17_vehicle_fees.md) for context.
+
+1. By December 1, 2023, the department and the transportation commission must collaborate to develop an implementation plan for the voluntary early adoption program pursuant to subsection (3) of this section and imposing a per mile fee on electric and hybrid vehicles pursuant to subsection (2) of this section with the goal of creating a more dynamic and equitable funding system that could potentially incorporate additional policy priorities than the current transportation funding system. This plan must incorporate the ongoing work of the transportation commission in evaluating a road usage charge, including coordinating with federal grant-funded research and development to continue in parallel with these activities. The plan must include, but is not limited to:
+
+    a. Different mileage reporting methods;
+
+    b. Recommended payment collection means and rates for achieving cost efficiency, fairness, minimal administrative cost, payment compliance, consumer choice, and preserving individual privacy;
+
+    c. Adjustments or modifications to ensure that the existing funding for local government support and transportation infrastructure investments are maintained and not reduced as a result of the fee reductions in sections 702 and 703, chapter . . ., Laws of 2021 (sections 702 and 703 of this act);
+
+    d. Options for differential or additional rates based on the particular classifications of vehicles, to ensure vehicles are paying for their proportional impact on road preservation and maintenance costs, legislative environmental policies, or other policy levers that the legislature may want to consider;
+
+    e. Options for collaborating with other states or countries in the development and administration of the per mile funding system;
+
+    f. Evaluation and comparison of the benefits and costs of allowing for payment plan options and annual payment;
+
+    g. Any recommended statutory changes, including suggested offsets or rebates to the per mile fees. These offsets or rebates will not be utilized in the per mile funding system until approved by the legislature;
+
+    h. Specific recommendations to better align the system with other vehicle-related charges and potentially establish the framework for broader implementation of a per mile funding system, including analysis of the preferred method for addressing eighteenth amendment restriction considerations;
+
+    i. A recommended implementation and governance structure, and transition plan with the department as the designated lead agency to operate and administer the per mile funding system;
+
+    j. A recommendation on the best agency to be lead for public outreach and education;
+
+    k. Recommendations for augmenting vehicle owner privacy in light of new and emerging mileage reporting methods or technologies, and proposed rules to be adopted by the commission related to extend privacy protections in a per mile funding system; and
+
+    l. Detailed information on the recommended periodic review and evaluation process to best ensure the per mile funding system is achieving the policy and revenue goals established by the legislature.
+
+2. [Empty]
+
+    a. Beginning July 1, 2026, before accepting an application for an initial annual vehicle registration or renewal for a vehicle that both (i) uses at least one method of propulsion that is capable of being reenergized by an external source of electricity and (ii) is capable of traveling at least 30 miles using only battery power, the department, county auditor or other agent, or subagent appointed by the director must require the applicant to pay a per mile fee as specified in this section. This fee is in addition to all other fees and taxes required by law.
+
+    b. The rate of the per mile fee is as follows:
+
+        i. From July 1, 2026, through June 30, 2029, two cents per mile driven;
+
+        ii. On July 1, 2029, and thereafter, two and one-half cents per mile driven; and
+
+        iii. The rates specified in (b)(i) and (ii) of this subsection may be adjusted based on new information and changes in legislative policy.
+
+3. [Empty]
+
+    a. By July 1, 2025, the department, in consultation with the transportation commission, must establish a voluntary early adoption program that allows the registered owner of an electric or hybrid vehicle that uses at least one method of propulsion that is capable of being reenergized by an external source of electricity and is capable of traveling at least 30 miles using only battery power to start paying a per mile fee earlier than the mandatory participation date of July 1, 2026.
+
+    b. Except as otherwise specified in this subsection (3), participants in the voluntary early adoption program must pay two cents per mile driven in addition to all other fees and taxes required by law.
+
+    c. For active participants in the voluntary early adoption program, the department must waive payment of the electric vehicle registration renewal fees as specified in RCW 46.17.323 and the transportation electrification fee as specified in RCW 46.17.324(1).
+
+    d. Besides the vehicles specified in (a) of this subsection, the voluntary early adoption program must include participation of at least 500 electric, hybrid, and internal combustion state-owned passenger or light duty truck fleet vehicles. These vehicles are not subject to the per mile fee specified in (b) of this subsection. The department, in consultation with the transportation commission, shall establish the types of state fleet vehicles for participation to further test the viability of a per mile fee on the full range of vehicles that may be subject to a per mile fee in future years. The voluntary early adoption program as it specifically relates to state-owned fleet vehicles may be initiated as early as December 1, 2024, based on the technical capability of the department to implement the program for these vehicles.
+
+    e. By July 1, 2024, after consultation with the transportation commission on lessons learned from Washington's road usage charge pilot and research, the department must adopt rules to implement the voluntary early adoption program specified in this subsection (3), which must include procedures for recoupment of any waived fees if the participant is not actively participating in the voluntary early adoption program.
+
+4. This section only applies to a vehicle that is designed to have the capability to drive at a speed of more than 35 miles per hour and has a gross vehicle weight rating of 10,000 pounds or less.
+
+5. Proceeds from the per mile fee imposed under this section must be used for preservation and maintenance and must be deposited in the motor vehicle fund created in RCW 46.68.070.
+
+
 ## Section 702
 > This section modifies existing section [46.17.323](/rcw/46_motor_vehicles/46.17_vehicle_fees.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.17_vehicle_fees.md) for context.
 
@@ -2025,6 +2195,38 @@ To realize the environmental benefits of electrification of the transportation s
 6. **Beginning July 1, 2025, participants in the voluntary early adoption program described in section 701(3) of this act are exempt from the fees specified in subsection (1) of this section.**
 
 
+## Section 704
+> This section adds a new section to an existing chapter [46.08](/rcw/46_motor_vehicles/46.08_general_provisions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.08_general_provisions.md) for context.
+
+1. The per mile system established to collect the per mile fee under section 701 of this act may not involve the collection of any personally identifying information beyond what is necessary to properly calculate, report, and collect the per mile fee, unless the vehicle owner provides his or her express written consent for the collection of additional information.
+
+2. Per mile reporting methods may record or report general location data under the following circumstances: (a) The vehicle owner chooses that specific reporting method; (b) proper disclosure of the reporting method was made pursuant to rules adopted by the transportation commission; and (c) the vehicle owner specifically consents to the reporting of general location data.
+
+3. Per mile reporting methods shall not report specific location data to the department or any subdivision of the state, including travel patterns, origins, destinations, waypoint locations, or times of travel unless a vehicle owner specifically consents to the recording or reporting of such location data.
+
+4. The department and any per mile account manager have an affirmative public duty regarding the collection of the per mile fee under section 701 of this act to:
+
+    a. Ensure that per mile information is protected with reasonable operational, administrative, technical, and physical safeguards to ensure its confidentiality and integrity;
+
+    b. Implement and maintain reasonable security procedures and practices in order to protect per mile information from unauthorized access, destruction, use, modification, or disclosure; and
+
+    c. Implement and maintain a usage and privacy policy to ensure that the collection of per mile information is consistent with respect for individuals' privacy and civil liberties.
+
+5. Per mile system data retained beyond the period of time necessary to ensure proper mileage account payment must have all personally identifying information removed and may only be used for public purposes.
+
+6. For the purposes of this section:
+
+    a. "General location data" means information about whether a vehicle has traveled on taxable roadways within the state of Washington.
+
+    b. "Personally identifying information" means any information that identifies or describes a person including, but not limited to, travel pattern data, address, telephone number, email address, photograph, bank account information, or credit card number. "Personally identifying information" does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records.
+
+    c. "Public purposes" means research, testing, and information gathering that advances the safety of the motoring public and the adequate preservation, maintenance, and upkeep of public roadways.
+
+    d. "Specific location data" means information about the origin, destination, waypoint, or travel patterns of vehicles.
+
+    e. "Vehicle owner" has the same meaning as "owner" in RCW 46.04.380.
+
+
 ## Section 705
 > This section modifies existing section [42.56.330](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
 
@@ -2053,6 +2255,18 @@ The following information relating to public utilities and transportation is exe
 9. Personally identifying information included in safety complaints submitted under chapter 81.61 RCW**; and**
 
 10. **The personally identifying information of persons, as defined in section 704 of this act, who report their vehicle odometer mileage, including any vehicle location information, in relation to a per mile fee imposed under section 701 of this act, or similar mileage tax, collected by or on behalf of the state of Washington. This information may be disclosed in aggregate form as long as the data does not contain any personally identifying information. Personally identifying information may be released to law enforcement agencies only if the request is accompanied by a court order**.
+
+
+## Section 801
+> This section adds a new section to an existing chapter [46.68](/rcw/46_motor_vehicles/46.68_disposition_of_revenue.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.68_disposition_of_revenue.md) for context.
+
+The forward Washington account is created in the motor vehicle fund. Moneys in the account may be spent only after appropriation. Expenditures from the account must be used only for projects or improvements identified as forward Washington projects or improvements in an omnibus transportation appropriations act, including any principal and interest on bonds authorized for the projects or improvements.
+
+
+## Section 802
+> This section adds a new section to an existing chapter [46.68](/rcw/46_motor_vehicles/46.68_disposition_of_revenue.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.68_disposition_of_revenue.md) for context.
+
+The forward flexible account is created in the state treasury. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for transportation projects, programs, or activities identified as forward flexible projects, programs, or activities in an omnibus transportation appropriations act.
 
 
 ## Section 803
@@ -2205,6 +2419,34 @@ Nothing in this section may be construed to impair the obligations of a contract
         ii. "Manufacturer's suggested retail price" means the retail price of the new motor vehicle suggested by the manufacturer, and includes the retail delivered price suggested by the manufacturer for each accessory or item of optional equipment physically attached to the new motor vehicle at the time of delivery to the new motor vehicle dealer that is not included within the retail price suggested by the manufacturer for the new motor vehicle.
 
 
+## Section 808
+> This section adds a new section to an existing chapter [47.46](/rcw/47_public_highways_and_transportation/47.46_public-private_transportation_initiatives.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.46_public-private_transportation_initiatives.md) for context.
+
+1. The legislature finds that the users of the Tacoma Narrows bridge deserve toll relief and an equitable plan to address the rapidly escalating costs of debt service used to finance construction of the bridge. Rather than loans, the state should simply provide the funds to keep the tolls at the level as of January 1, 2021, thus keeping the promises that the state made regarding the term of the tolls on the Tacoma Narrows bridge and providing an appropriate amount of toll relief to the users of the bridge.
+
+2. [Empty]
+
+    a. On July 1, 2021, for fiscal year 2022 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $28,715,000.
+
+    b. On July 1, 2022, for fiscal year 2023 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $16,643,000.
+
+    c. On July 1, 2023, for fiscal year 2024 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $13,334,000.
+
+    d. On July 1, 2024, for fiscal year 2025 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $15,750,000.
+
+    e. On July 1, 2025, for fiscal year 2026 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $11,715,000.
+
+    f. On July 1, 2026, for fiscal year 2027 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $12,975,000.
+
+    g. On July 1, 2027, for fiscal year 2028 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $13,421,000.
+
+    h. On July 1, 2028, for fiscal year 2029 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $13,169,000.
+
+    i. On July 1, 2029, for fiscal year 2030 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $7,908,000.
+
+    j. On July 1, 2030, for fiscal year 2031 costs, the state treasurer must transfer from the forward Washington account created in section 801 of this act to the Tacoma Narrows toll bridge account created in RCW 47.56.165, $12,543,000.
+
+
 ## Section 809
 > This section modifies existing section [82.32.385](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
 
@@ -2223,6 +2465,40 @@ Nothing in this section may be construed to impair the obligations of a contract
 7. Beginning September 2029 and ending June 2031, by the last day of September, December, March, and June of each year, the state treasurer must transfer from the general fund to the connecting Washington account created in RCW 46.68.395 four million fifty-six thousand dollars.
 
 8. **For fiscal year 2026 through fiscal year 2037, the state treasurer must transfer from the general fund to the forward flexible account created in section 802 of this act $46,969,000 each fiscal year in four equal quarterly transfers.**
+
+
+## Section 810
+> This section adds a new section to an existing chapter [47.68](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
+
+1. Pursuant to section 811 of this act, every commercial unpiloted aircraft system must be registered with the department for each calendar year in which the aircraft is operated or is based within this state and pay an annual fee. Within amounts collected from commercial unpiloted aircraft registration fees pursuant to section 811, chapter . . ., Laws of 2021 (section 811 of this act), the aviation division director (also known as the senior state aviation official) or the aviation division director's designee shall act as the unpiloted aircraft system coordinator. The unpiloted aircraft system coordinator serves primarily in an advisory role and is not authorized to direct unpiloted aircraft system operations, training, or policy outside the department. The duties of the unpiloted aircraft system coordinator include:
+
+    a. Assisting with unpiloted aircraft system training and continuing education for state agencies;
+
+    b. Coordinating with local governments on state and federal unpiloted aircraft system policies and regulations;
+
+    c. Acting as a state level coordinator for unpiloted aircraft system operations during a governor declaration of emergency pursuant to RCW 43.06.210;
+
+    d. Coordinating with the federal aviation administration and state agencies on unpiloted aircraft system trends;
+
+    e. Identifying and disseminating information on unpiloted aircraft system training sites;
+
+    f. Establishing and maintaining an unpiloted aircraft system coordination website for state and local governments;
+
+    g. Assisting with the advancement of unpiloted aircraft systems across the state in coordination with the department of commerce, the aerospace industry, and the commercial unmanned aircraft systems industry;
+
+    h. Acting as the principal advisor to the secretary on unpiloted aircraft system matters;
+
+    i. Undertaking other unpiloted aircraft system coordination duties that are deemed appropriate by the aviation division director and the unpiloted aircraft system coordinator including, but not limited to, overseeing unpiloted aircraft system symposiums or other events for state agencies and other stakeholder groups.
+
+2. The department may adopt rules to implement this section.
+
+3. By December 1, 2022, the department shall provide a report to the transportation committees of the legislature and the department of commerce that provides details on the specific activities, accomplishments, and opportunities undertaken by the unpiloted aircraft system coordinator as to each of the duties provided in this section. The report must also be shared with interested aviation and aerospace industry stakeholders. The report shall include:
+
+    a. Information on the specific activities, accomplishments, and opportunities taken by the aviation division director or the director's designee in their role as the unpiloted aircraft system coordinator;
+
+    b. A statement on the justification and need for the aviation division director or the director's designee to continue to perform the specific activities of the unpiloted aircraft system coordinator; and
+
+    c. Recommendations on any changes to the scope of the work and duties of the unpiloted aircraft system coordinator. This shall include recommendations on the reassignment of duties of the unpiloted aircraft system coordinator to the department's aviation division and recommendations on the termination of the unpiloted aircraft system coordinator position.
 
 
 ## Section 811
@@ -2448,5 +2724,7 @@ As used in this chapter, unless the context clearly indicates otherwise:
 ## Section 901
 Sections 810, 811, and 813 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2021.
 
+
 ## Section 904
 Sections 810 through 813, and 901 through 903, take effect only if Substitute House Bill No. 1379 (Unpiloted aircraft system) is not enacted by June 30, 2021.
+

@@ -1,6 +1,16 @@
 # Senate Bill 5429
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5429.xml)
+## Section 1
+> This section adds a new section to an existing chapter [70A.200](/rcw/70A_environmental_health_and_safety/70A.200_waste_reduction_recycling_and_model_litter_control_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.200_waste_reduction_recycling_and_model_litter_control_act.md) for context.
+
+1. The department shall oversee a network of volunteers who agree to participate in the "pick it up, Washington" program. The program consists of pick it up volunteers who are willing to assist with litter removal in public places that are not private property. The department shall operate the program within existing resources.
+
+2. The department shall advertise and promote the "pick it up, Washington" program and create and manage a list of pick it up volunteers who agree to participate. The department may reserve the right to exclude any individual from participating as a pick it up volunteer if the department determines that allowing such an individual to participate would create a risk to the health or safety of that individual, other volunteers, or the public.
+
+3. The department may develop appropriate methods to give public recognition to the positive contributions of pick it up volunteers in their communities.
+
+
 ## Section 2
 > This section modifies existing section [70A.200.130](/rcw/70A_environmental_health_and_safety/70A.200_waste_reduction_recycling_and_model_litter_control_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.200_waste_reduction_recycling_and_model_litter_control_act.md) for context.
 
@@ -63,3 +73,4 @@ The definitions in this section apply throughout this chapter unless the context
 
 ## Section 5
 This act does not create any civil liability on the part of the state or any state agency, officer, employee, or agent.
+

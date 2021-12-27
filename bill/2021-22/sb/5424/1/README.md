@@ -65,3 +65,4 @@ The working families' tax exemption shall be administered as provided in this su
 
 ## Section 2
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

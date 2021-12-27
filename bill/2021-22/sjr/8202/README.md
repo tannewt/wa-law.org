@@ -1,5 +1,6 @@
 # SJR 8202 - Governor term limit
-*Status: First reading, referred to State Government & Elections.*
+*Status: First reading, referred to State Government & Elections.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=8202&Year=2021)
+
 Amending the Constitution to create a term limit for the office of governor.
 
 ## Revisions

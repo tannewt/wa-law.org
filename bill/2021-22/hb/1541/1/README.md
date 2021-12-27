@@ -1,3 +1,126 @@
 # House Bill 1541
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1541.xml)
+## Section 1
+> This section adds a new section to an existing chapter [82.14](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
+
+1. Beginning July 1, 2021, the legislative authority of a city or county may authorize the imposition of a sales and use tax by the majority vote of the legislative authority in accordance with this chapter and subject to the restrictions in this section. Prior to the authorizing vote, the legislative authority must hold a public hearing on the proposed tax as well as solicit and receive comments on the proposal from the public.
+
+    a. The rate under this section must not exceed 0.125 percent of the selling price in the case of the sales tax, or value of the article used, in the case of a use tax. If the city or county imposes the sales and use tax pursuant to RCW 82.14.540, the rate authorized under this section must be reduced by the amount of credit the city or county receives under RCW 82.14.540.
+
+    b. The tax authorized under this section must be credited against the state portion of the sales and use tax imposed under RCW 82.08.020(1) and the corresponding use tax imposed under RCW 82.12.020 and otherwise required to be collected or paid over to the department.
+
+2. Any tax authorized under this section may not be imposed prior to January 1, 2022, and is subject to the timing restrictions of RCW 82.14.055.
+
+3. If a county imposes a tax authorized under subsection (1) of this section and a city located in that county has also imposed a tax authorized under subsection (1) of this section, the county must provide a credit against its tax for the amount imposed by a city, not to exceed the full amount of tax imposed by the county.
+
+4. The taxes authorized in this section are in addition to any other taxes authorized by law and must be collected from persons who are taxable by the state under chapters 82.08 and 82.12 RCW upon the occurrence of any taxable event within the county for a county's tax and within a city for a city's tax.
+
+5. A county or city may not collect a tax pursuant to this section unless:
+
+    a. The county or city complies with the annual certification and reporting requirements under this section;
+
+    b. The city or county does not impose the sales and use taxes authorized in RCW 82.14.530;
+
+    c. The city or county does not impose the property tax authorized in RCW 84.52.105; and
+
+    d. The city or county adopts an emergency declaration related to the homelessness crisis and submits a copy of the emergency declaration to the department.
+
+6. [Empty]
+
+    a. Prior to collecting a tax under this section, the city or county must:
+
+        i. Adopt an ordinance prohibiting supervised injection sites within its jurisdiction; and
+
+        ii. Adopt an ordinance making it unlawful for any person to camp on public property, without prior authorization from the city or county, within five hundred feet of (A) public or private elementary or secondary schools; (B) public parks, as defined in RCW 69.50.435; and (C) municipal courthouses.
+
+    b. The eligibility requirements set forth in (a) of this subsection are minimum requirements to impose the taxes authorized by this section, and nothing in this section is intended to prohibit a county or city legislative authority from adopting and enforcing an ordinance making it unlawful for any person to camp in other public places in addition to those required in (a)(ii) of this subsection, such as on public property within a specified distance of places intended primarily for the use, care, or supervision of minor children or other vulnerable persons.
+
+    c. The city or county must submit copies of the ordinances to the department prior to collecting the tax along with any other materials required by the department.
+
+7. In order to impose the tax for the upcoming calendar year, the city or county must by October 1st of each year submit certification, signed by the chief executive of the city or county under the penalty of perjury to the department that the city or county meets the following requirements:
+
+    a. The city or county continues to have the ordinances adopted pursuant to subsection (6) of this section and has taken reasonable steps to enforce the ordinances as follows:
+
+        i. Enforcement must be undertaken when the city or county has reason to believe that a supervised injection site is operating within its jurisdiction, including making reasonable efforts to respond to complaints about unauthorized supervised injection sites within five days of receipt of a complaint;
+
+        ii. Enforcement must be undertaken on an ongoing and regular basis, including visiting not less than weekly those areas where camping is prohibited and making reasonable efforts to respond to complaints about unlawful camping on such areas within five calendar days of receipt of a complaint; and
+
+    b. The city or county has complied with all the reporting requirements under this section.
+
+8. A city or county imposing a tax under this section must meet the following reporting requirements:
+
+    a. The city or county must make the budget for the use of the revenues generated as the result of imposing the tax authorized under this section available publicly, including on its website. The budget document must include a description of the services and goods purchased and demonstrate that expenditures of these revenues supplement, and do not supplant, the city's or county's previous expenditures for these purposes.
+
+    b. The city or county must report annually to the department of commerce as required in section 2 of this act and publish the report on the city or county website.
+
+    c. The city or county must cooperate with and provide information to the joint legislative audit and review committee as needed to complete the reviews required in section 2 of this act.
+
+9. A city or county collecting a tax under this section may spend the revenues collected under this section only for operating and capital costs of addressing and preventing homelessness by municipal law enforcement, criminal justice, and social services agencies including, but not limited to, transitional services, encampment cleanup, temporary or long-term housing, diversion services, coresponse teams, and navigation teams. The city's or county's expenditures for these purposes must supplement, and not supplant, the city's previous expenditures for these purposes.
+
+10. Failure to fulfill the requirements of this act may result in the inability to impose the tax authorized under this section.
+
+    a. If the city or county fails to fulfill the certification requirements in subsection (7) of this section, the department must notify the city or county by December 1st that the city or county must not impose the tax for the upcoming calendar year.
+
+    b. [Empty]
+
+        i. If the city or county fails to meet the reporting requirements to the department of commerce, the department of commerce must notify the city or county that if the city or county fails to fulfill the requirements within thirty days, the department of commerce will notify the department that the city or county has failed to meet the reporting requirements of this act and will no longer be able to impose the tax authorized in this section. The department must suspend the imposition of the tax at the beginning of the next eligible fiscal quarter.
+
+        ii. A city or county that has had the ability to impose the tax suspended under (b)(i) of this subsection may apply to the department of commerce to have the tax reinstated by providing all reports previously owed submitted along with a new certification required in subsection (7) of this section to the department. If the department of commerce determines all reporting requirements are currently up-to-date, the department of commerce must notify the department that the city or county is now eligible to impose the tax authorized under this act at the beginning of the next eligible fiscal quarter.
+
+    c. Any suspension and later reinstatement of the ability to impose the tax authorized under this section does not alter the expiration date of the tax authorization pursuant to subsection (1) of this section.
+
+11. A county or city may enter into an interlocal agreement with one or more counties, cities, or public housing authorities in accordance with chapter 39.34 RCW.
+
+12. The definitions in this subsection apply throughout this section and section 2 of this act unless the context clearly requires otherwise.
+
+    a. "Camp" or "camping" means to pitch, use, or occupy camp facilities for the purposes of habitation, as evidenced by the use of camp paraphernalia.
+
+    b. "Camp facilities" include, but are not limited to, tents, huts, temporary shelters, or vehicles if said vehicle is being used as temporary living quarters.
+
+    c. "Camp paraphernalia" includes, but is not limited to, tarpaulins, cots, beds, sleeping bags, blankets, mattresses, hammocks, or cooking facilities or equipment.
+
+    d. "Eligible fiscal quarter" means the fiscal quarter that meets the timing and other restrictions for local sales and use tax changes under RCW 82.14.055.
+
+    e. "Public property" means any street, alley, sidewalk, parking space, pedestrian or transit mall, bike path, greenway, or any other structure or area encompassed within the public right-of-way; any park, parkway, mountain park, or other recreation facility; or any other grounds, buildings, fixtures, or other facilities owned or leased by the state or by any other public owner, regardless of whether such public property is vacant or occupied and actively used for any public purpose.
+
+    f. "Reside" or "dwell" includes, but is not limited to, conducting such activities as eating, sleeping, or the storage of personal possessions.
+
+    g. "Shelter" includes, but is not limited to, any recreational vehicle, tent, tarpaulin, lean-to, sleeping bag, bedroll, blankets, or any form of cover or protection from the elements other than clothing.
+
+    h. "Supervised injection site" means any building, structure, site, facility, vehicle, or program including, but not limited to, supervised consumption or supervised injection programs, with a function of providing a space or area for either use or consumption, or both, of federally controlled substances.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [82.14](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
+
+The legislature recognizes the importance of program evaluation in order to ensure cost-effective use of public funds.
+
+1. By May 1st of each year, each city or county that has imposed the tax authorized under section 1 of this act must report to the department of commerce certain information for the prior calendar year. In addition to the metrics developed by the department of commerce in subsection (2) of this section, the city or county must also report:
+
+    a. The amount of revenue collected from the tax imposed under section 1 of this act;
+
+    b. The amount spent from that source;
+
+    c. The amount of revenue retained for administrative costs;
+
+    d. The total amount, from all sources, spent on homelessness for that year, including a baseline spending of the city or county prior to imposition of the tax authorized under section 1 of this act;
+
+    e. A description of services or goods purchased; and
+
+    f. Any information necessary to evaluate the enforcement of the ordinances including, but not limited to, number and frequency of visits to each type of protected public space, the number of unlawful camping complaints filed, the number of supervised injection site complaints filed, and the average response time for each type of complaint.
+
+2. [Empty]
+
+    a. The department of commerce must develop standard metrics for each city or county receiving tax proceeds from the tax imposed under section 1 of this act. In addition to the items listed in subsection (1) of this section, the metrics developed by the department of commerce must include measures of workload, program effectiveness, and client outcomes.
+
+    b. By July of each year, the department of commerce must aggregate the information provided by cities and counties imposing the tax under section 1 of this act. The department of commerce must make this information, along with the information provided by each individual jurisdiction, publicly available.
+
+3. By September 1, 2025, and every four years thereafter, the joint legislative audit and review committee must review the imposition of the sales and use tax under section 1 of this act and the uses of the revenues generated by the cities and counties, including:
+
+    a. Information provided to the department of commerce for the previous four calendar years related to the tax authorized under section 1 of this act; and
+
+    b. Compliance with the requirements of section 1(7) of this act, including supervised injection site compliance and enforcement of the unauthorized camping ordinance.
+
+4. For the purposes of this section, the definitions in section 1 of this act apply.
+

@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the ability of county elected officials to fulfill their statutory responsibilities through continued conduct of essential functions and services during the current COVID-19 pandemic and potential future public health crises requires updating, and at times temporary waiver, of these requirements in statute. The legislature intends to update the manner in which services may be provided; maintaining access and opportunity. In addition, the legislature intends to clarify the conditions under which waiver or suspension of specific statutes may be assumed by county elected officials in order to eliminate temporary barriers to continuity of operations.
 
+
 ## Section 2
 > This section modifies existing section [2.32.050](/rcw/02_courts_of_record/2.32_court_clerks_reporters_and_bailiffs.md). Here is the [modified chapter](rcw/02_courts_of_record/2.32_court_clerks_reporters_and_bailiffs.md) for context.
 

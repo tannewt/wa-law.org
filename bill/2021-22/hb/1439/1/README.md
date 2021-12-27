@@ -4,6 +4,13 @@
 ## Section 1
 Washington is home to hundreds of thousands of men and women who protect us through their service in the United States armed forces. There is a strong commitment, respect, and interest for the armed forces that is prevalent in celebrations, parades, community events, fundraisers, and exhibitions throughout Washington communities. Military vehicles are iconic, patriotic, and stir a sense of nostalgic and civic pride. Therefore, the legislature recognizes there is a public interest in allowing vehicles that have been an active part of military operations to be able to operate on the public highways to be involved in parades, veterans' events, car club activities, community events, exhibitions, and other similarly limited circumstances. Military-issued vehicles, such as the high mobility multipurpose wheeled vehicle, include operational safety equipment to protect drivers and passengers of the vehicle, yet do not meet all of the federal vehicle requirements. They are built to drive on United States highways and beyond in much less pristine conditions. Therefore, this act authorizes travel for military surplus vehicles in good operating order to traverse Washington's public highways in limited circumstances.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+"Military surplus vehicle" means a vehicle that is not operated using continuous tracks, was originally manufactured and sold directly to the armed forces of the United States, was originally manufactured under the federally mandated requirements set forth in 49 C.F.R. Sec. 571.7, and is no longer owned by the United States armed forces.
+
+
 ## Section 3
 > This section modifies existing section [46.04.123](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
 
@@ -24,6 +31,24 @@ Washington is home to hundreds of thousands of men and women who protect us thro
 > This section modifies existing section [46.04.126](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
 
 "Collector vehicle" means any motor vehicle or travel trailer that is at least thirty years old **or a military surplus vehicle**.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [46.12](/rcw/46_motor_vehicles/46.12_certificates_of_title.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.12_certificates_of_title.md) for context.
+
+1. When applying for a certificate of title for a military surplus vehicle, the vehicle owner must:
+
+    a. Submit a certification that the military surplus vehicle:
+
+        i. Will be maintained for occasional transportation, exhibitions, veterans' events, club activities, parades, tours, and similar uses;
+
+        ii. Will only be driven when covered by a motor vehicle liability insurance policy with liability limits of at least the amounts required in RCW 46.29.090; and
+
+        iii. Will not be used for general daily transportation; and
+
+    b. Provide a certificate of safety inspection on a form created by the department to be completed by a licensed motor vehicle repair shop in the state of Washington that certifies that the military surplus vehicle has the original safety equipment on the vehicle at the time of its manufacture in good operating condition or has been replaced by equal or more effective safety equipment in good working order, specifically headlamps, tail lamps, turn signals, mirrors, a horn, seat belts, and brakes.
+
+2. A person who makes a false statement regarding the inspection of equipment required under this section is guilty of false swearing. False swearing is a gross misdemeanor under RCW 9A.72.040.
 
 
 ## Section 6

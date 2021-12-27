@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the COVID-19 pandemic has made it clear that equitable access to education can only happen with equitable access to reliable broadband. Increasing broadband access to unserved areas of the state is of vital importance to increasing quality of life, broadening educational opportunities, and promoting economic inclusion in the parts of our state that, without broadband access, cannot fully participate in modern society. The legislature further finds that one of the most effective tools to ensure all Washingtonians have an opportunity to equitably access education, the job market, and health care resources is to allow our public utility districts and port districts to provide retail telecommunications services.
 
+
 ## Section 2
 > This section modifies existing section [54.16.330](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 
@@ -174,4 +175,10 @@ The legislature finds that the COVID-19 pandemic has made it clear that equitabl
         iv. **The number of and which existing service providers failed to fulfill their commitment to provide retail telecommunications services pursuant to RCW 54.16.330(10)(d) and 53.08.370(10)(d); and**
 
     v. **Any recommendations to improve the provision of retail telecommunications services in unserved areas.**
+
+
+## Section 5
+> This section adds a new section to an existing chapter [42.56](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
+
+A broadband service plan submitted by a broadband service provider to the governor's statewide broadband office established in RCW 43.330.532 in accordance with the requirements under RCW 54.16.330(10) and 53.08.370(10) are exempt from disclosure under this chapter.
 

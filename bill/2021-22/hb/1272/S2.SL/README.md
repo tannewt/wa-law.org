@@ -139,6 +139,24 @@
 13. The department must adopt rules necessary to carry out its responsibilities under this section. The department must consider national standards when adopting rules.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [43.70](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
+
+1. [Empty]
+
+    a. Beginning July 1, 2022, for a health system operating a hospital licensed under chapter 70.41 RCW, the health system must annually submit to the department a consolidated annual income statement and balance sheet, including hospitals, ambulatory surgical facilities, health clinics, urgent care clinics, physician groups, health-related laboratories, long-term care facilities, home health agencies, dialysis facilities, ambulance services, behavioral health settings, and virtual care entities that are operated in Washington.
+
+    b. The state auditor's office shall provide the department with audited financial statements for all hospitals owned or operated by a public hospital district under chapter 70.44 RCW. Public hospital districts are not required to submit additional information to the department under this subsection.
+
+2. The department must make information submitted under this section available in the same manner as hospital financial data.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [70.41](/rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md) for context.
+
+The department shall contract with the University of Washington school of nursing to lead an interdisciplinary study to analyze the impact of the number, type, education, training, and experience of acute care hospital staffing personnel on patient mortality and patient outcomes utilizing scientifically sound research methods most effective for all involved stakeholders. The University of Washington school of nursing must work in collaboration with the other schools in the University of Washington health sciences administration. The study should control for other contributing factors, including but not limited to access to equipment, patients' underlying conditions and diagnoses, patients' demographics information, the trauma level designation of the hospital, transfers from other hospitals, and external factors impacting hospital volumes. The study must be completed by September 1, 2022, and the department shall submit the study to the appropriate committees of the legislature by October 1, 2022.
+
+
 ## Section 4
 > This section modifies existing section [70.01.040](/rcw/70_public_health_and_safety/70.001_general_provisions.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.001_general_provisions.md) for context.
 
@@ -198,5 +216,7 @@
 ## Section 6
 The department of health shall develop any forms or guidance required in this act at least 60 days before hospitals are required to utilize the form or guidance.
 
+
 ## Section 7
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

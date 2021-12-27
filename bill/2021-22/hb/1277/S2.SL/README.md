@@ -1,6 +1,76 @@
 # Engrossed Second Substitute House Bill 1277 - Session Law Chapter 214 Year 2021 as Recommended by Appropriations
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1277-S2.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [36.22](/rcw/36_counties/36.022_county_auditor.md). Here is the [modified chapter](rcw/36_counties/36.022_county_auditor.md) for context.
+
+1. Except as provided in subsection (2) of this section, a surcharge of $100 must be charged by the county auditor for each document recorded, which is in addition to any other charge or surcharge allowed by law. The auditor must remit the funds to the state treasurer to be deposited and used as follows:
+
+    a. Twenty percent of funds must be deposited in the affordable housing for all account for operations, maintenance, and service costs for permanent supportive housing as defined in RCW 36.70A.030;
+
+    b. From July 1, 2021, through June 30, 2023, four percent of the funds must be deposited into the landlord mitigation program account created in RCW 43.31.615 for the purposes of RCW 43.31.605(1). Thereafter, two percent of funds must be deposited into the landlord mitigation program account created in RCW 43.31.615 for purposes of RCW 43.31.605(1); and
+
+    c. The remainder of funds must be distributed to the home security fund account, with 60 percent of funds to be used for project-based vouchers for nonprofit housing providers or public housing authorities, housing services, rapid rehousing, emergency housing, or acquisition. Priority for use must be given to project-based vouchers and related services, housing acquisition, or emergency housing, for persons who are chronically homeless, including families with children. At least 50 percent of persons receiving a project-based voucher, rapid rehousing, emergency housing, or benefiting from housing acquisition must be living unsheltered at the time of initial engagement. In addition, funds may be used for eviction prevention rental assistance pursuant to section 2 of this act, foreclosure prevention services, dispute resolution center eviction prevention services, rental assistance for people experiencing homelessness, and tenant education and legal assistance.
+
+2. The surcharge imposed in this section does not apply to: (a) Assignments or substitutions of previously recorded deeds of trust; (b) documents recording a birth, marriage, divorce, or death; (c) any recorded documents otherwise exempted from a recording fee or additional surcharges under state law; (d) marriage licenses issued by the county auditor; or (e) documents recording a federal, state, county, city, or water-sewer district, or wage lien or satisfaction of lien.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.185C](/rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md) for context.
+
+1. The eviction prevention rental assistance program is created in the department to prevent evictions by providing resources to households most likely to become homeless or suffer severe health consequences, or both, after an eviction, while promoting equity by prioritizing households, including communities of color, disproportionately impacted by public health emergencies and by homelessness and housing instability. The department must provide grants to eligible organizations, as described in RCW 43.185.060, to provide assistance to program participants. The eligible organizations must use grant moneys for:
+
+    a. Rental assistance, including rental arrears and future rent if needed to stabilize the applicant's housing and prevent their eviction;
+
+    b. Utility assistance for households if needed to prevent an eviction; and
+
+    c. Administrative costs of the eligible organization, which must not exceed limits prescribed by the department.
+
+2. Households eligible to receive assistance through the eviction prevention rental assistance program are those:
+
+    a. With incomes at or below 80 percent of the county area median income;
+
+    b. Who are families with children, living in doubled up situations, young adults, senior citizens, and others at risk of homelessness or significant physical or behavioral health complications from homelessness; and
+
+    c. That meet any other eligibility requirements as established by the department after consultation with stakeholder groups, including persons at risk of homelessness due to unpaid rent, representatives of communities of color, homeless service providers, landlord representatives, local governments that administer homelessness assistance, a statewide association representing cities, a statewide association representing counties, a representative of homeless youth and young adults, and affordable housing advocates.
+
+3. A landlord may assist an eligible household in applying for assistance through the eviction prevention rental assistance program or may apply for assistance on an eligible household's behalf.
+
+4. [Empty]
+
+    a. Eligible grantees must actively work with organizations rooted in communities of color to assist and serve marginalized populations within their communities.
+
+    b. At least 10 percent of the grant total must be subgranted to organizations that serve and are substantially governed by marginalized populations to pay the costs associated with program outreach, assistance completing applications for assistance, rent assistance payments, activities that directly support the goal of improving access to rent assistance for people of color, and related costs. Upon request by an eligible grantee or the county or city in which it exists, the department must provide a list of organizations that serve and are substantially governed by marginalized populations, if known.
+
+    c. An eligible grantee may request an exemption from the department from the requirements under (b) of this subsection. The department must consult with the stakeholder group established under subsection (2)(c) of this section before granting an exemption. An eligible grantee may request an exemption only if the eligible grantee:
+
+        i. Is unable to subgrant with an organization that serves and is substantially governed by marginalized populations; or
+
+        ii. Provides the department with a plan to spend 10 percent of the grant total in a manner that the department determines will improve racial equity for historically underserved communities more effectively than a subgrant.
+
+5. The department must ensure equity by developing performance measures and benchmarks that promote both equitable program access and equitable program outcomes. Performance measures and benchmarks must be developed by the department in consultation with stakeholder groups, including persons at risk of homelessness due to unpaid rent, representatives of communities of color, homeless service providers, landlord representatives, local governments that administer homelessness assistance, a statewide association representing cities, a statewide association representing counties, a representative of homeless youth and young adults, and affordable housing advocates. Performance measures and benchmarks must also ensure that the race and ethnicity of households served under the program are proportional to the numbers of people at risk of homelessness in each county for each of the following groups:
+
+    a. Black or African American;
+
+    b. American Indian and Alaska Native;
+
+    c. Native Hawaiian or other Pacific Islander;
+
+    d. Hispanic or Latinx;
+
+    e. Asian;
+
+    f. Other multiracial.
+
+6. The department may develop additional rules, requirements, procedures, and guidelines as necessary to implement and operate the eviction prevention rental assistance program.
+
+7. [Empty]
+
+    a. The department must award funds under this section to eligible grantees in a manner that is proportional to the amount of revenue collected under section 1 of this act from the county being served by the grantee.
+
+    b. The department must provide counties with the right of first refusal to receive grant funds distributed under this subsection. If a county refuses the funds or does not respond within a time frame established by the department, the department must identify an alternative grantee. The alternative grantee must distribute the funds in a manner that is in compliance with this chapter.
+
+
 ## Section 3
 > This section modifies existing section [43.185C.045](/rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md) for context.
 
@@ -84,15 +154,30 @@ The affordable housing for all account is created in the state treasury, subject
 
 
 ## Section 6
-(1)(a) The legislature finds that affordable housing, housing instability, and homelessness are persistent and increasing problems throughout the state. Despite significant increases in financial resources by the federal, state, and local governments to address these problems, homelessness and the risk of becoming homeless has worsened in Washington since the legislature authorized the first homeless housing document recording surcharge in 2005. The number of unsheltered homeless encampments in greenbelts, under bridges, and on our streets is a visible reminder that the current system is not working.
-(b) The legislature finds that the COVID-19 pandemic has exacerbated and shed new light on the state's homelessness problems and forced communities and providers to reexamine the types and delivery of housing and services to individuals and families who are homeless or at risk of homelessness. As a result of the changing conditions COVID-19 created, the federal government has provided an infusion of funding for housing and services for homelessness populations in its COVID-19 relief bills to pursue different strategies to improve outcomes. Moreover, there are various proposals to increase state funding to address housing insecurity and homelessness, including this act to impose an additional document recording fee to fund an eviction prevention rental assistance program and other services to persons at risk or experiencing homelessness.
-(c) The legislature also finds that there are many causes of homelessness and housing instability, including: (i) A shortage of affordable housing; (ii) local land use planning and property management policies that discourage the development of private sector housing stock to serve low and extremely low-income households; (iii) unemployment and lack of education and job skills to acquire an adequate wage job; (iv) mental health, developmental, and physical disabilities; (v) chemical and alcohol dependency; and (vi) family instability and conflict. The legislature intends to provide for an examination of the economic, social, and health causes of current and expected patterns of housing instability and homelessness, and to secure a common understanding of the contribution each has to the current crisis. The legislature intends for this examination to result in a widely accepted strategy for identifying how best to address homelessness in ways that: (A) Address the root causes of the problem; (B) clearly assign responsibilities of state and local government to address those causes; (C) support local control and provision of services at the local level to address specific community needs, recognizing each community must play a part in the solution; (D) respect property owner rights and encourage private sector involvement in solutions and service; and (E) develop pathways to permanent housing solutions and associated services to break the cycle of housing insecurity and homelessness.
-(2)(a) The department of commerce must contract with the William D. Ruckelshaus center to conduct an examination of trends affecting, and policies guiding, the housing and services provided to individuals and families who are or at risk of homelessness in Washington. The center must also facilitate meetings and discussions to develop and implement a long-term strategy to improve services and outcomes for persons at risk or experiencing homelessness and develop pathways to permanent housing solutions.
-(b) In fulfilling the requirements of this section, the center must work and consult with (i) willing participants representing tribal and local governments, local providers of housing and services for homeless populations, advocates and stakeholders representing the interests of homeless populations, mental health and substance abuse professionals, representatives of the business community and other organizations, and other representatives the center determines is a necessary participant to examine these issues; (ii) a group of legislators consisting of one member from each of the two largest caucuses in the senate and in the house of representatives appointed by the president of the senate and the speaker of the house of representatives, respectively; and (iii) three representatives of the executive branch appointed by the governor.
-(c)(i) The center must conduct fact-finding and stakeholder discussions with participants identified in (b) of this subsection. These discussions must identify stakeholder concerns, barriers, opportunities, and desired principles for a long-term strategy to improve the outcomes and services for persons at risk or experiencing homelessness and develop pathways to permanent housing solutions.
-(ii) The center must conduct fact-finding and stakeholder discussions with participants identified in (b) of this subsection to identify root causes of housing instability and homelessness within Washington state. This fact-finding should address root causes demographically within subpopulations of persons at risk or experiencing homelessness such as veterans and persons suffering from mental health or substance abuse issues. The fact-finding should also address root causes that may differ geographically or regionally. The fact-finding must identify existing statutory and regulatory issues that impede efforts to address root causes of housing instability and homelessness within Washington state.
-(iii) The center must issue two reports of its fact-finding efforts and stakeholder discussions to the governor and the appropriate committees of the house of representatives and the senate. One report on the subjects covered in (c)(i) of this subsection is due December 1, 2021, and one on the subjects covered in (c)(ii) of this subsection is due December 1, 2022.
-(d) The center must facilitate discussions between the stakeholders identified in this subsection (2) for the purposes of identifying options and recommendations to develop and implement a long-term strategy to improve the outcomes and service for persons at risk or experiencing homelessness and develop pathways to permanent housing solutions, including the manner and amount in which the state funds homelessness housing and services and performance measures that must be achieved to receive state funding. A report on this effort is due to the governor and the appropriate committees of the house of representatives and the senate by December 1, 2023.
+1. [Empty]
+
+    a. The legislature finds that affordable housing, housing instability, and homelessness are persistent and increasing problems throughout the state. Despite significant increases in financial resources by the federal, state, and local governments to address these problems, homelessness and the risk of becoming homeless has worsened in Washington since the legislature authorized the first homeless housing document recording surcharge in 2005. The number of unsheltered homeless encampments in greenbelts, under bridges, and on our streets is a visible reminder that the current system is not working.
+
+    b. The legislature finds that the COVID-19 pandemic has exacerbated and shed new light on the state's homelessness problems and forced communities and providers to reexamine the types and delivery of housing and services to individuals and families who are homeless or at risk of homelessness. As a result of the changing conditions COVID-19 created, the federal government has provided an infusion of funding for housing and services for homelessness populations in its COVID-19 relief bills to pursue different strategies to improve outcomes. Moreover, there are various proposals to increase state funding to address housing insecurity and homelessness, including this act to impose an additional document recording fee to fund an eviction prevention rental assistance program and other services to persons at risk or experiencing homelessness.
+
+    c. The legislature also finds that there are many causes of homelessness and housing instability, including: (i) A shortage of affordable housing; (ii) local land use planning and property management policies that discourage the development of private sector housing stock to serve low and extremely low-income households; (iii) unemployment and lack of education and job skills to acquire an adequate wage job; (iv) mental health, developmental, and physical disabilities; (v) chemical and alcohol dependency; and (vi) family instability and conflict. The legislature intends to provide for an examination of the economic, social, and health causes of current and expected patterns of housing instability and homelessness, and to secure a common understanding of the contribution each has to the current crisis. The legislature intends for this examination to result in a widely accepted strategy for identifying how best to address homelessness in ways that: (A) Address the root causes of the problem; (B) clearly assign responsibilities of state and local government to address those causes; (C) support local control and provision of services at the local level to address specific community needs, recognizing each community must play a part in the solution; (D) respect property owner rights and encourage private sector involvement in solutions and service; and (E) develop pathways to permanent housing solutions and associated services to break the cycle of housing insecurity and homelessness.
+
+2. [Empty]
+
+    a. The department of commerce must contract with the William D. Ruckelshaus center to conduct an examination of trends affecting, and policies guiding, the housing and services provided to individuals and families who are or at risk of homelessness in Washington. The center must also facilitate meetings and discussions to develop and implement a long-term strategy to improve services and outcomes for persons at risk or experiencing homelessness and develop pathways to permanent housing solutions.
+
+    b. In fulfilling the requirements of this section, the center must work and consult with (i) willing participants representing tribal and local governments, local providers of housing and services for homeless populations, advocates and stakeholders representing the interests of homeless populations, mental health and substance abuse professionals, representatives of the business community and other organizations, and other representatives the center determines is a necessary participant to examine these issues; (ii) a group of legislators consisting of one member from each of the two largest caucuses in the senate and in the house of representatives appointed by the president of the senate and the speaker of the house of representatives, respectively; and (iii) three representatives of the executive branch appointed by the governor.
+
+    c. [Empty]
+
+        i. The center must conduct fact-finding and stakeholder discussions with participants identified in (b) of this subsection. These discussions must identify stakeholder concerns, barriers, opportunities, and desired principles for a long-term strategy to improve the outcomes and services for persons at risk or experiencing homelessness and develop pathways to permanent housing solutions.
+
+        ii. The center must conduct fact-finding and stakeholder discussions with participants identified in (b) of this subsection to identify root causes of housing instability and homelessness within Washington state. This fact-finding should address root causes demographically within subpopulations of persons at risk or experiencing homelessness such as veterans and persons suffering from mental health or substance abuse issues. The fact-finding should also address root causes that may differ geographically or regionally. The fact-finding must identify existing statutory and regulatory issues that impede efforts to address root causes of housing instability and homelessness within Washington state.
+
+        iii. The center must issue two reports of its fact-finding efforts and stakeholder discussions to the governor and the appropriate committees of the house of representatives and the senate. One report on the subjects covered in (c)(i) of this subsection is due December 1, 2021, and one on the subjects covered in (c)(ii) of this subsection is due December 1, 2022.
+
+    d. The center must facilitate discussions between the stakeholders identified in this subsection (2) for the purposes of identifying options and recommendations to develop and implement a long-term strategy to improve the outcomes and service for persons at risk or experiencing homelessness and develop pathways to permanent housing solutions, including the manner and amount in which the state funds homelessness housing and services and performance measures that must be achieved to receive state funding. A report on this effort is due to the governor and the appropriate committees of the house of representatives and the senate by December 1, 2023.
+
 
 ## Section 7
 > This section modifies existing section [36.22.178](/rcw/36_counties/36.022_county_auditor.md). Here is the [modified chapter](rcw/36_counties/36.022_county_auditor.md) for context.

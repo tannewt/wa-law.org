@@ -4,6 +4,27 @@
 ## Section 1
 The legislature finds that youth benefit by engaging in outdoor activities, such as fishing and shellfishing. Participating in such activities can boost self-esteem and cultivate an appreciation for nature. The legislature further finds that expensive equipment and license fees can be a barrier to this activity for some youth. Therefore, the legislature intends to reduce financial barriers to fishing and shellfishing by establishing a grant program to enable local organizations to establish equipment rental programs and increase the age at which a fishing license is required.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [77.32](/rcw/77_fish_and_wildlife/77.032_licenses.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.032_licenses.md) for context.
+
+1. The fishing and shellfishing opportunity grant program is created. The recreation and conservation office shall establish and implement the program to provide opportunities to increase youth participation in fishing and shellfishing. Grant funds may be distributed to organizations to establish local equipment rental systems. Eligible organizations include:
+
+    a. Local park and recreation districts;
+
+    b. Boys and girls clubs, or other similar youth organizations; and
+
+    c. Regional fisheries enhancement groups established in chapter 77.95 RCW.
+
+2. The recreation and conservation office must design the fishing and shellfishing opportunity grant program to ensure youth in both urban and rural communities in all geographic areas of the state are served.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [77.32](/rcw/77_fish_and_wildlife/77.032_licenses.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.032_licenses.md) for context.
+
+The youth fishing opportunities account is created in the state treasury. The director may accept gifts, grants, donations, or moneys from any source for deposit in the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used for administering the grant program established in section 2 of this act.
+
+
 ## Section 4
 > This section modifies existing section [77.08.010](/rcw/77_fish_and_wildlife/77.008_general_terms_defined.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.008_general_terms_defined.md) for context.
 

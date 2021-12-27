@@ -599,3 +599,4 @@ The provisions of this chapter are intended to be additional to other remedies a
 
 ## Section 24
 No later than December 1, 2022, the criminal justice training commission shall submit a written report to the governor and the appropriate committees of the legislature detailing progress of implementation of this act.
+

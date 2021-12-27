@@ -1,5 +1,6 @@
 # ESB 5330 - Commercial whale watching
-*Status: Effective date 5/12/2021.*
+*Status: Effective date 5/12/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5330&Year=2021)
+
 Regarding commercial whale watching licenses.
 
 ## Revisions

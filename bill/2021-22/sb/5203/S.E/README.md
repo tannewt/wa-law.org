@@ -1,6 +1,36 @@
 # Engrossed Substitute Senate Bill 5203 as Recommended by Health & Long Term Care
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5203-S.E.xml)
+## Section 1
+> This section adds a new section to an existing chapter [70.14](/rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md) for context.
+
+1. [Empty]
+
+    a. The authority may enter into partnerships with another state, a group of states, a state agency, a nonprofit organization, or any other entity to produce, distribute, or purchase generic prescription drugs and distribute and purchase insulin. The authority may only enter into a partnership with a nongovernmental entity after a competitive bidding process.
+
+    b. The generic prescription drugs and insulin must be produced or distributed by a drug company or generic drug manufacturer that is registered with the United States food and drug administration.
+
+2. The authority shall only enter into partnerships, in consultation with other state agencies as necessary, to produce, distribute, or purchase a generic prescription drug or insulin at a price that results in savings to public and private purchasers and consumers.
+
+3. For generic prescription drugs and insulin that the authority has entered into a partnership under this section:
+
+    a. State purchased health care programs must purchase the generic prescription drugs and insulin through the partnership, unless the state purchased health care program can obtain the generic prescription drug or insulin at a cost savings through another purchasing mechanism; and
+
+    b. Local governments, private entities, health carriers, and others may choose to voluntarily purchase the generic prescription drugs and insulin from the authority as available quantities allow.
+
+4. All information and documents obtained or created under this section is exempt from disclosure under chapter 42.56 RCW.
+
+5. For purposes of this section, the following definitions apply:
+
+    a. "Authority" means the health care authority.
+
+    b. "Eligible prescription drug" means a prescription drug or biological product, as defined in 42 U.S.C. Sec. 262(i), that is not under patent.
+
+    c. "Generic drug" means a drug that is approved pursuant to an application referencing an eligible prescription drug that is submitted under section 505(j) of the federal food, drug, and cosmetic act (21 U.S.C. Sec. 301 et seq.), or section 351(k) of the federal public health service act (42 U.S.C. Sec. 262).
+
+    d. "State purchased health care" means medical and health care, pharmaceuticals, and medical equipment purchased with state and federal funds by the department of social and health services, department of health, state health care authority, department of labor and industries, department of corrections, and department of veterans affairs. State purchased health care does not include prescription drugs purchased for medical assistance program clients under chapter 74.09 RCW.
+
+
 ## Section 2
 > This section modifies existing section [70.14.060](/rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md) for context.
 
@@ -17,3 +47,4 @@
 
 ## Section 3
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

@@ -1,5 +1,6 @@
 # HB 1463 - Cannabis concentrates
-*Status: First reading, referred to Commerce & Gaming.*
+*Status: First reading, referred to Commerce & Gaming.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1463&Year=2021)
+
 Addressing serious mental health consequences of high-potency cannabis products by regulating the sale of cannabis concentrates.
 
 ## Revisions

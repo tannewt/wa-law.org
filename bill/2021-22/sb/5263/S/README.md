@@ -13,3 +13,4 @@
 
 ## Section 2
 This act is remedial and applies retroactively to all claims or causes of action commenced prior to or after the effective date of this section regardless of when the claim or cause of action arose.
+

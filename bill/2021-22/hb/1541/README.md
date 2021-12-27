@@ -1,5 +1,6 @@
 # HB 1541 - Local revenue/homelessness
-*Status: First reading, referred to Finance.*
+*Status: First reading, referred to Finance.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2021)
+
 Authorizing local option revenue for homelessness services, subject to specified conditions, including prohibiting supervised injection sites and requiring local restrictions on camping on public property.
 
 ## Revisions

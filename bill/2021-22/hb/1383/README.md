@@ -1,5 +1,6 @@
 # HB 1383 - Respiratory care
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1383&Year=2021)
+
 Concerning respiratory care practitioners.
 
 ## Revisions

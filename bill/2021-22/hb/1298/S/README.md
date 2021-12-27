@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1298-S.xml)
 ## Section 1
 The legislature finds that in 2020, the legislature enacted ESSB 6617 (sections 1 through 5, chapter 217, Laws of 2020), to encourage the construction of accessory dwelling units in cities. In passing this law, the legislature found that "Washington state is experiencing a housing affordability crisis. Many communities across the state are in need of more housing for renters, across the income spectrum. Accessory dwelling units are frequently rented at below market rate, providing additional affordable housing options for renters," and that "accessory dwelling units are often occupied by tenants who pay no rent at all; among these tenants are grandparents, adult children, family members with disabilities, friends going through life transitions, and community members in need. Accessory dwelling units meet the needs of these people who might otherwise require scarce subsidized housing space and resources." The legislature further intended "to promote and encourage the creation of accessory dwelling units as a means to address the need for additional affordable housing options."
+
 The legislature finds that these legislative findings also apply to the need for accessory dwelling units in rural areas, and that specific limitations are necessary to balance creating additional housing supply with preserving rural character.
+
 Consistent with the legislative findings that accessory dwelling units should address the need for additional affordable housing options, it is the intent of the legislature that local jurisdictions may restrict accessory dwelling units or the primary residence associated with such accessory dwelling units from being offered for short-term rental in order to increase the supply of affordable housing. The legislature further intends that local jurisdictions may add other requirements for accessory dwelling units in addition to the requirements of this act.
+
 
 ## Section 2
 > This section modifies existing section [36.70A.697](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.

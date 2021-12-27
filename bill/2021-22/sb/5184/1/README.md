@@ -4,6 +4,7 @@
 ## Section 1
 The legislature acknowledges that students in foster care often face additional challenges, both academically and emotionally. When students are connected with a caring adult, are attending school regularly, and have the supports they need, they are more likely to be successful in school and in life. Schools, child welfare agencies, communities, and families must work together to provide the equitable opportunities, specialized services, and useful supports that are essential for students in foster care. By establishing a building point of contact, the legislature intends to further support coordination of resources and facilitation of compliance with state and federal laws related to students who are dependent pursuant to chapter 13.34 RCW.
 
+
 ## Section 2
 > This section modifies existing section [28A.320.148](/rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md) for context.
 

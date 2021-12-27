@@ -2,8 +2,28 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1028.xml)
 ## Section 1
-(1) Washington professional educator standards board-approved teacher preparation programs must recommend for residency teacher certification any candidate who has met all program requirements except for completion of the evidence-based assessment of teaching effectiveness under RCW 28A.410.280, as repealed by this act.
-(2) This section expires September 1, 2022.
+1. Washington professional educator standards board-approved teacher preparation programs must recommend for residency teacher certification any candidate who has met all program requirements except for completion of the evidence-based assessment of teaching effectiveness under RCW 28A.410.280, as repealed by this act.
+
+2. This section expires September 1, 2022.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.410](/rcw/28A_common_school_provisions/28A.410_certification.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.410_certification.md) for context.
+
+1. [Empty]
+
+    a. Before recommending a candidate for residency teacher certification, a board-approved teacher preparation program must ensure that the candidate demonstrates the knowledge, skills, and competencies required under RCW 28A.410.270.
+
+    b. Beginning September 1, 2022, each board-approved teacher preparation program must implement a procedure for evaluating and recommending candidates for residency teacher certification that is consistent with the model procedure developed as required under subsection (2) of this section. Each board-approved teacher preparation program must submit the procedure, and any updates to the procedure, to the board for posting on the board's website.
+
+2. The board must develop and periodically update a model procedure for evaluating and recommending candidates for residency teacher certification. The model procedure must include a tool or rubric to evaluate whether and to what extent candidates for residency teacher certification demonstrate the knowledge, skills, and competencies required under RCW 28A.410.270. The board must also develop and periodically update best practices guidance and other resources to assist programs with consistent implementation of the model procedure. The board must consult with board-approved teacher preparation programs and candidates for residency teacher certification while developing and updating the model procedure, best practices guidance, and resources described in this subsection.
+
+3. Board-approved teacher preparation programs must annually report data on evaluating and recommending candidates for residency teacher certification to the board, in a manner adopted by the board in rule. Annually by December 1st, the board must summarize the data and report it to the governor and the appropriate standing committees of the legislature, in accordance with RCW 43.01.036.
+
+4. The board may not adopt rules requiring that candidates for residency teacher certification take or pass a uniform, statewide evaluation of teaching effectiveness, other than as described in this section.
+
+5. For the purposes of this section, "board" means the Washington professional educator standards board.
+
 
 ## Section 3
 > This section modifies existing section [28A.410.270](/rcw/28A_common_school_provisions/28A.410_certification.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.410_certification.md) for context.

@@ -1,5 +1,6 @@
 # SB 5085 - Alt. fuel vehicles fees
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5085&Year=2021)
+
 Modifying certain alternative fuel vehicles fees.
 
 ## Revisions

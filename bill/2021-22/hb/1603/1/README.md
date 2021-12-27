@@ -2,37 +2,68 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1603.xml)
 ## Section 101
-The legislature finds that many transportation facilities provide a public good where user fares and fees are insufficient to pay for the capital, maintenance, and operating expenses of the facility, activity, service, or program. The majority of revenue appropriated through the omnibus transportation appropriations act for transportation facilities comes from fees or taxes related to driving a vehicle. This is an unsustainable model of funding in light of the trend to adopt laws that are meant to reduce vehicle miles traveled, reduce the quantity of emissions of greenhouse gases per distance traveled in the transportation sector, and reduce the sale of fossil fuels on which many taxes are imposed. In order to provide the caliber of transportation facilities and social services that are being demanded by society, use of general fund resources are the most equitable funding option. It is unfair and unsustainable to make one mode of travel pay for all other modes. The general fund, even during a pandemic, is experiencing substantial revenue growth while the funds associated with the transportation budget are stagnant or below revenue expectations and actual programmatic needs. This act designates programs and activities that in the future will receive funding from the general fund. 
+The legislature finds that many transportation facilities provide a public good where user fares and fees are insufficient to pay for the capital, maintenance, and operating expenses of the facility, activity, service, or program. The majority of revenue appropriated through the omnibus transportation appropriations act for transportation facilities comes from fees or taxes related to driving a vehicle. This is an unsustainable model of funding in light of the trend to adopt laws that are meant to reduce vehicle miles traveled, reduce the quantity of emissions of greenhouse gases per distance traveled in the transportation sector, and reduce the sale of fossil fuels on which many taxes are imposed. In order to provide the caliber of transportation facilities and social services that are being demanded by society, use of general fund resources are the most equitable funding option. It is unfair and unsustainable to make one mode of travel pay for all other modes. The general fund, even during a pandemic, is experiencing substantial revenue growth while the funds associated with the transportation budget are stagnant or below revenue expectations and actual programmatic needs. This act designates programs and activities that in the future will receive funding from the general fund.
+
 
 ## Section 102
 A new section is added to chapter 43.79 RCW to read as follows:
-(1)(a) The legislature has created several transportation programs in the omnibus transportation appropriations act over the course of time that continue to this day. These include many transportation grant programs that the legislature intends to continue funding in the future. The connecting Washington transportation plan enacted in 2015 provided intent to fund a number of grants and projects as identified in LEAP Transportation Documents 2015 NL-1 and NL-2 that will continue to be funded, unless there was a specific legal change in a subsequently adopted act.
-(b) The legislature has also created several transportation-related tax incentives, including tax incentives related to the commute trip reduction program and the purchase of electric vehicles. It is the intent of the legislature that beginning with the 2025-2027 fiscal biennium, these tax incentives will be funded by the omnibus appropriations act from accounts and sources of funds other than those appropriated in the omnibus transportation appropriations act.
-(c) The legislature has also created several multimodal transportation programs on a pilot basis that have expired or will expire prior to the effective date of this section. Examples include the student ORCA card pilot program first created in section 220(10), chapter 313, Laws of 2017; the transit coordination grant program created in section 4, chapter 11, Laws of 2015 3rd sp. sess.; and the green transportation capital grant program in RCW 47.66.120. It is the intent of the legislature that, if a legislature acts to reprise or recreate any of these programs, beginning with the 2025-2027 fiscal biennium, the reprised or recreated program be funded by the omnibus appropriations act from accounts and sources of funds other than those appropriated in the omnibus transportation appropriations act.
-(2) Beginning July 1, 2025, appropriations for the following programs shall be paid out of the general fund:
-(a) Projects that correct barriers for fish to swim upstream on public lands;
-(b) Americans with disabilities act upgrades to transportation facilities;
-(c) New buildings primarily where state transportation employees work;
-(d) Mobility and public transit-related grants, social services, and programs, such as, but not limited to, regional mobility grants, rural mobility grants, vanpool grants, and any pilot or expired grants that are to be continued;
-(e) Programs related to transitioning transportation programs, systems, facilities, or vehicles as designated as green or clean fuel programs authorized in law, such as, but not limited to, green transportation capital grants, the clean alternative fuel vehicle charging and refueling infrastructure program, and the clean alternative fuel car sharing program for underserved and low-income communities;
-(f) Programs that provide tax incentives for the purchase or lease of vehicles with lithium-ion batteries or alternative fuel vehicles, as well as for other equipment that supports vehicle conversions to alternative fuels;
-(g) Safe routes to schools grants;
-(h) Bicycle and pedestrian pathways that are not an integrated part of a highway project or are administered by any government agency other than the department of transportation;
-(i) Capital and operation costs for intercity passenger rail service;
-(j) Assistance funding for freight rail programs;
-(k) Stormwater facility upgrades and maintenance of such facilities near highways with high-density traffic near salmon-bearing streams where untreated runoff containing 6 CPPD and 6 CPPD quinone are killing significant amounts of salmon; and
-(l) Any other programs as directed by law.
-(3) Projects agreed to as part of the nickel, transportation partnership, and connecting Washington transportation package will remain funded within the transportation appropriations act. However, in situations where revenues appropriated through the transportation appropriations act are insufficient to pay for the obligations associated with those projects, general funds may be provided to ensure the completion of the projects.
+
+1. [Empty]
+
+    a. The legislature has created several transportation programs in the omnibus transportation appropriations act over the course of time that continue to this day. These include many transportation grant programs that the legislature intends to continue funding in the future. The connecting Washington transportation plan enacted in 2015 provided intent to fund a number of grants and projects as identified in LEAP Transportation Documents 2015 NL-1 and NL-2 that will continue to be funded, unless there was a specific legal change in a subsequently adopted act.
+
+    b. The legislature has also created several transportation-related tax incentives, including tax incentives related to the commute trip reduction program and the purchase of electric vehicles. It is the intent of the legislature that beginning with the 2025-2027 fiscal biennium, these tax incentives will be funded by the omnibus appropriations act from accounts and sources of funds other than those appropriated in the omnibus transportation appropriations act.
+
+    c. The legislature has also created several multimodal transportation programs on a pilot basis that have expired or will expire prior to the effective date of this section. Examples include the student ORCA card pilot program first created in section 220(10), chapter 313, Laws of 2017; the transit coordination grant program created in section 4, chapter 11, Laws of 2015 3rd sp. sess.; and the green transportation capital grant program in RCW 47.66.120. It is the intent of the legislature that, if a legislature acts to reprise or recreate any of these programs, beginning with the 2025-2027 fiscal biennium, the reprised or recreated program be funded by the omnibus appropriations act from accounts and sources of funds other than those appropriated in the omnibus transportation appropriations act.
+
+2. Beginning July 1, 2025, appropriations for the following programs shall be paid out of the general fund:
+
+    a. Projects that correct barriers for fish to swim upstream on public lands;
+
+    b. Americans with disabilities act upgrades to transportation facilities;
+
+    c. New buildings primarily where state transportation employees work;
+
+    d. Mobility and public transit-related grants, social services, and programs, such as, but not limited to, regional mobility grants, rural mobility grants, vanpool grants, and any pilot or expired grants that are to be continued;
+
+    e. Programs related to transitioning transportation programs, systems, facilities, or vehicles as designated as green or clean fuel programs authorized in law, such as, but not limited to, green transportation capital grants, the clean alternative fuel vehicle charging and refueling infrastructure program, and the clean alternative fuel car sharing program for underserved and low-income communities;
+
+    f. Programs that provide tax incentives for the purchase or lease of vehicles with lithium-ion batteries or alternative fuel vehicles, as well as for other equipment that supports vehicle conversions to alternative fuels;
+
+    g. Safe routes to schools grants;
+
+    h. Bicycle and pedestrian pathways that are not an integrated part of a highway project or are administered by any government agency other than the department of transportation;
+
+    i. Capital and operation costs for intercity passenger rail service;
+
+    j. Assistance funding for freight rail programs;
+
+    k. Stormwater facility upgrades and maintenance of such facilities near highways with high-density traffic near salmon-bearing streams where untreated runoff containing 6 CPPD and 6 CPPD quinone are killing significant amounts of salmon; and
+
+    l. Any other programs as directed by law.
+
+3. Projects agreed to as part of the nickel, transportation partnership, and connecting Washington transportation package will remain funded within the transportation appropriations act. However, in situations where revenues appropriated through the transportation appropriations act are insufficient to pay for the obligations associated with those projects, general funds may be provided to ensure the completion of the projects.
+
 
 ## Section 103
-(1)(a) The chairs of the transportation committees of the house of representatives and senate shall convene an internal legislative work group to be known as the budgets transition work group to implement the transition in section 102 of this act. At the end of the process, the budgets transition work group members and staff should have identified the provisions that need to be modified in future budgets to successfully shift funding in accordance with this act. The members of the work group include:
-(i) The chairs and ranking members of the committees on transportation, or a designated alternative member of each caucus;
-(ii) The chairs and ranking member of the house of representatives' appropriations committee, or a designated alternative member of each caucus; and
-(iii) The chair and ranking member of the senate ways and means committee, or a designated alternative member of each caucus.
-(b) The director of the office of financial management, or a designated employee of the agency with knowledge of the legislative appropriations acts, may be invited to serve in an advisory capacity.
-(2) Staff support for the budgets transition work group shall be provided by the senate committee services and the house of representatives office of program research. The employees of the office of financial management shall cooperate with the work group to obtain information from state agencies as necessary to effectuate the transition.
-(3) Legislative members of the budgets transition work group shall be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members, except those representing an employer or organization, are entitled to be reimbursed for travel expenses in accordance with RCW 43.03.050 and 43.03.060.
-(4) The expenses of the budgets transition work group shall be paid jointly by the senate and the house of representatives.
+1. [Empty]
+
+    a. The chairs of the transportation committees of the house of representatives and senate shall convene an internal legislative work group to be known as the budgets transition work group to implement the transition in section 102 of this act. At the end of the process, the budgets transition work group members and staff should have identified the provisions that need to be modified in future budgets to successfully shift funding in accordance with this act. The members of the work group include:
+
+        i. The chairs and ranking members of the committees on transportation, or a designated alternative member of each caucus;
+
+        ii. The chairs and ranking member of the house of representatives' appropriations committee, or a designated alternative member of each caucus; and
+
+        iii. The chair and ranking member of the senate ways and means committee, or a designated alternative member of each caucus.
+
+    b. The director of the office of financial management, or a designated employee of the agency with knowledge of the legislative appropriations acts, may be invited to serve in an advisory capacity.
+
+2. Staff support for the budgets transition work group shall be provided by the senate committee services and the house of representatives office of program research. The employees of the office of financial management shall cooperate with the work group to obtain information from state agencies as necessary to effectuate the transition.
+
+3. Legislative members of the budgets transition work group shall be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members, except those representing an employer or organization, are entitled to be reimbursed for travel expenses in accordance with RCW 43.03.050 and 43.03.060.
+
+4. The expenses of the budgets transition work group shall be paid jointly by the senate and the house of representatives.
+
 
 ## Section 201
 > This section modifies existing section [46.68.135](/rcw/46_motor_vehicles/46.68_disposition_of_revenue.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.68_disposition_of_revenue.md) for context.

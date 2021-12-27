@@ -1,6 +1,88 @@
 # Substitute Senate Bill 5265 as Recommended by Early Learning & K-12 Education
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5265-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [28A.630](/rcw/28A_common_school_provisions/28A.630_temporary_provisions—special_projects.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.630_temporary_provisions—special_projects.md) for context.
+
+1. The bridge year pilot program is established. The office of the superintendent of public instruction shall administer the program as described in this section. The purpose of the pilot program is to provide students in the graduating class of 2021 and 2022 an additional year to address the learning loss and missed opportunities in extracurricular activities as a result of the COVID-19 pandemic.
+
+2. [Empty]
+
+    a. Each high school participating in the pilot program shall designate a school staff member as a bridge year liaison to serve as the school's central point of contact for students interested in pursuing a bridge year and for students participating in a bridge year. Nothing in this section requires a school district to hire an individual to serve as a bridge year liaison.
+
+    b. [Empty]
+
+        i. A bridge year liaison shall develop an individual learning plan for each student pursuing a bridge year, in consultation with the student. The individual learning plan must define academic and cocurricular goals for the bridge year and detail activities and strategies for accomplishing those goals including, but not limited to, counseling, academic support, coursework, and cocurricular or athletic participation.
+
+        ii. The credits taken by a student in this program must form a coordinated sequence of academic content that prepares the student for high-skilled, high-wage, or in-demand occupations.
+
+        iii. At the conclusion of each term of the bridge year, the host high school shall update the student's high school transcript to reflect any high school credits earned during the bridge year.
+
+3. [Empty]
+
+    a. A student who has met all applicable high school graduation requirements in the graduating class of 2021 or the graduating class of 2022 may defer graduation from high school to pursue a bridge year.
+
+    b. [Empty]
+
+        i. Except as provided in (b)(ii) of this subsection (3), to be eligible to participate in the bridge year pilot program a student must be 19 years of age or younger and must not turn 20 years of age at any time during the bridge year.
+
+        ii. A student is eligible to participate in the bridge year pilot program if the student will turn 20 years of age during the bridge year due to services provided pursuant to the student's individualized education program plan.
+
+    c. [Empty]
+
+        i. During the first term of the student's bridge year, the student must take between two and four high school credits, or the postsecondary equivalent, at the student's host high school, an institution of higher education, or a combination thereof.
+
+        ii. During the second term of the student's bridge year, the student must take between nine and 12 quarter credits, or the equivalent, at an institution of higher education or through college in the high school courses.
+
+    d. A student participating in this program must maintain a grade point average of at least 2.0 in order to remain in the bridge year pilot program.
+
+4. The host high school shall permit students participating in the bridge year pilot program to participate in graduation ceremonies with the graduating class of 2021 or class of 2022, as applicable, but may not issue diplomas to those students until the conclusion of the bridge year. Students that have met all graduation requirements have graduated with their initial graduation cohort for the purpose of calculating the four-year graduation rate for that cohort.
+
+5. School districts participating in the bridge year pilot program shall expunge from a student's transcript any "D" or "F" grade, or its equivalent, for a course if the student takes the same course during the student's bridge year and completes the course with a higher grade than the grade in the student's transcript.
+
+6. The institution of higher education at which a student attends under this program shall report at least quarterly to the bridge year liaison at the student's host high school concerning the student's academic progress and performance, in a manner specified by the student's individual learning plan developed under subsection (2) of this section.
+
+7. [Empty]
+
+    a. In the event that a student initially decides to pursue a bridge year in the fall term but does not continue in the following term, the student's host high school shall release all final transcripts and other records as necessary and as may be requested.
+
+    b. A student who decides not to continue the bridge year is not eligible to participate in a sports program or other extracurricular activities under this section or section 2 of this act.
+
+8. For the purposes of this section:
+
+    a. "Host high school" means the high school that a student pursuing a bridge year attended at the beginning of the student's senior year.
+
+    b. "Institutions of higher education" has the same meaning as in RCW 28A.600.300.
+
+9. Nothing in this section requires a student to pursue a bridge year.
+
+10. A private school may elect to participate in the bridge year pilot program created under this section.
+
+11. For purposes of funding allocations and student enrollment, students participating in the bridge year pilot program are running start students participating in the running start program under RCW 28A.600.300.
+
+12. Students participating in the bridge year pilot program are eligible for college in the high school courses under RCW 28A.600.290.
+
+13. Students participating in the bridge year pilot program are eligible recipients for funds distributed under chapter 28A.150 RCW.
+
+14. The office of the superintendent of public instruction may adopt rules necessary for the effective and efficient implementation of this act.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.630](/rcw/28A_common_school_provisions/28A.630_temporary_provisions—special_projects.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.630_temporary_provisions—special_projects.md) for context.
+
+1. A student who pursues a bridge year pursuant to this act may participate in activities sanctioned by the Washington interscholastic activities association and extracurricular activities at the student's host high school.
+
+2. A student participating in a sport or extracurricular activity during the student's bridge year shall pay applicable student athletic and activities fees and be subject to the host high school's student code of conduct, athletic code of conduct, and any other applicable codes, rules, or policies required for student participation in these activities.
+
+3. Except as provided in subsection (4) of this section, nothing in this act supersedes the governance or eligibility rules established by a local, state, or national organization with bona fide authority over a particular extracurricular activity.
+
+4. For students participating in an interscholastic activity under this section, the Washington interscholastic athletic association shall be requested to waive the applicable consecutive year eligibility rule.
+
+5. Notwithstanding the provisions of any law, rule, or regulation to the contrary, an insurer doing business in the state and issuing liability insurance policies to school districts must provide coverage for students participating in a sport or extracurricular activity under this section as part of a school or school district's liability insurance policy.
+
+6. For purposes of this section, "host high school" has the same meaning as in section 1 of this act.
+
+
 ## Section 3
 > This section modifies existing section [28A.600.290](/rcw/28A_common_school_provisions/28A.600_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.600_students.md) for context.
 

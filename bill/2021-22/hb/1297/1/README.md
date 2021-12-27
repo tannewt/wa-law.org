@@ -2,11 +2,16 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1297.xml)
 ## Section 1
-(1) Many Washington families do not earn enough annually to keep pace with increasing health care, child care, housing, and other essential expenses.
-(2) Amidst rising cost of living across the state, the regressive nature of Washington's tax code puts an additional strain on households already struggling to meet their basic needs. Washington's tax system is the most upside down and regressive in the nation, allowing those who earn the most to pay the least percentage of their income in taxes. As a percentage of household income, low-income Washingtonians, who are disproportionately Black, American Indian and Alaska Native, Latinx, Native Hawaiian and Pacific Islander, and multiracial Washingtonians, pay six times more in taxes than our wealthiest residents.
-(3) Eligibility for the working families tax exemption is based on eligibility for the federal earned income tax credit, a refundable tax credit for working individuals and families whose earnings are below an income threshold. Since its establishment in 1975, the earned income tax credit has increased family income, reduced child poverty, and improved health, educational, and career outcomes for children in low-income families. Taxpayers filing with an individual tax identification number and their families, however, are excluded from receiving the federal credit and its corollary benefits to health and well-being, despite paying local, state, and federal taxes.
-(4) Since its establishment in 1975, the earned income tax credit has also had a positive impact on local businesses because it puts more money in the hands of low-income working people who spend the money on immediate needs, such as groceries, transportation, rent, and health care. The credit has been shown to have a multiplier effect to support local businesses, generating an estimated $1.50 to $2.00 in local economic activity for every dollar received by beneficiaries.
-(5) Therefore, it is the public policy objective of the legislature to stimulate local economic activity, advance racial equity, and promote economic stability and well-being for lower-income working people, including individual tax identification number filers, by updating and simplifying the structure of the working families tax exemption.
+1. Many Washington families do not earn enough annually to keep pace with increasing health care, child care, housing, and other essential expenses.
+
+2. Amidst rising cost of living across the state, the regressive nature of Washington's tax code puts an additional strain on households already struggling to meet their basic needs. Washington's tax system is the most upside down and regressive in the nation, allowing those who earn the most to pay the least percentage of their income in taxes. As a percentage of household income, low-income Washingtonians, who are disproportionately Black, American Indian and Alaska Native, Latinx, Native Hawaiian and Pacific Islander, and multiracial Washingtonians, pay six times more in taxes than our wealthiest residents.
+
+3. Eligibility for the working families tax exemption is based on eligibility for the federal earned income tax credit, a refundable tax credit for working individuals and families whose earnings are below an income threshold. Since its establishment in 1975, the earned income tax credit has increased family income, reduced child poverty, and improved health, educational, and career outcomes for children in low-income families. Taxpayers filing with an individual tax identification number and their families, however, are excluded from receiving the federal credit and its corollary benefits to health and well-being, despite paying local, state, and federal taxes.
+
+4. Since its establishment in 1975, the earned income tax credit has also had a positive impact on local businesses because it puts more money in the hands of low-income working people who spend the money on immediate needs, such as groceries, transportation, rent, and health care. The credit has been shown to have a multiplier effect to support local businesses, generating an estimated $1.50 to $2.00 in local economic activity for every dollar received by beneficiaries.
+
+5. Therefore, it is the public policy objective of the legislature to stimulate local economic activity, advance racial equity, and promote economic stability and well-being for lower-income working people, including individual tax identification number filers, by updating and simplifying the structure of the working families tax exemption.
+
 
 ## Section 2
 > This section modifies existing section [82.08.0206](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
@@ -102,3 +107,4 @@ The working families' tax exemption shall be administered as provided in this su
 
 ## Section 3
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

@@ -41,10 +41,26 @@
 5. **For the purposes of allowing the department of social and health services to prioritize services and existing individualized technical assistance to individuals advancing to at least minimum wage employment, the department of labor and industries may share information, such as individuals' contact information and expiration dates of special certificates with the department of social and health services.**
 
 
+## Section 4
+> This section adds a new section to an existing chapter [71A.10](/rcw/71A_developmental_disabilities/71A.10_general_provisions.md). Here is the [modified chapter](rcw/71A_developmental_disabilities/71A.10_general_provisions.md) for context.
+
+1. To the extent consistent with federal law and federal funding requirements, the department must prioritize individuals, utilizing the expiration dates of the special certificates, for the provision of individual technical assistance to an individual, prior to the expiration date of the individual's special certificate, and may utilize the individual technical assistance to allow for an effective transition into at least minimum wage employment or other services.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the department must work with contracted providers to expand employment and day services to individuals leaving special certificate employment, including but not limited to providing individual technical assistance and individual supported employment services to individuals leaving special certificate employment.
+
+3. Prior to the expiration date of the individual's special certificate, the department must provide written and verbal notification to the individual and their legal representatives informing them of all available waiver services and the processes for the individual to identify, transition to, and request any of the available waiver services.
+
+
 ## Section 5
 By October 1, 2021, the department of labor and industries, in collaboration with the department of social and health services' developmental disabilities administration and division of vocational rehabilitation, must submit a report to the appropriate committees of the legislature with the following information:
-(a) The number of special certificates remaining;
-(b) The number of individuals who were employed under a special certificate who have contacted the department of social and health services to receive individual technical assistance and other services provided by the department of social and health services' developmental disabilities administration or division of vocational rehabilitation and the assistance and services that were provided; and
-(c) The number of individuals who continued to be employed after the expiration of the individual's special certificate, a description of employment or other services, including services under chapter 71A.12 RCW, if any, that were provided to those individuals, and other services provided by the department of social and health services' developmental disabilities administration or division of vocational rehabilitation and the assistance and services that were provided.
-(2) The report must be provided annually until all remaining special certificates have expired.
-(3) This section expires December 1, 2024.
+
+    a. The number of special certificates remaining;
+
+    b. The number of individuals who were employed under a special certificate who have contacted the department of social and health services to receive individual technical assistance and other services provided by the department of social and health services' developmental disabilities administration or division of vocational rehabilitation and the assistance and services that were provided; and
+
+    c. The number of individuals who continued to be employed after the expiration of the individual's special certificate, a description of employment or other services, including services under chapter 71A.12 RCW, if any, that were provided to those individuals, and other services provided by the department of social and health services' developmental disabilities administration or division of vocational rehabilitation and the assistance and services that were provided.
+
+2. The report must be provided annually until all remaining special certificates have expired.
+
+3. This section expires December 1, 2024.
+

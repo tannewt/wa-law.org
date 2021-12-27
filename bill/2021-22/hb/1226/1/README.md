@@ -56,5 +56,7 @@ The resolution adopted by the board of directors calling **an** election  shall 
 ## Section 6
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 7
 This act takes effect if the proposed amendment to Article VII, section 2 and Article VIII, section 6 of the state Constitution (H-0120/21) providing for a simple majority of voters voting to authorize school district bonds is validly submitted to and is approved and ratified by the voters at the next general election and certified by the secretary of state.
+

@@ -2758,3 +2758,19 @@ The juvenile shall be advised that a diversion agreement shall constitute a part
 
 5. Youth courts shall give any victims of a juvenile the opportunity to be notified, present, and heard in any youth court proceeding.
 
+
+## Section 22
+> This section adds a new section to an existing chapter [13.04](/rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md) for context.
+
+1. A county may choose to increase the age of juvenile court jurisdiction within the county to eighteen or nineteen years of age sooner than the dates required in this act, and in doing so may choose to increase the age in a phased manner, provided that the authorities within the county agree that capacity exists within the county to provide for adequate safety, rehabilitative programming, and efficient court processing for the affected persons during the transition period. Each county and juvenile court shall cooperate with the office of juvenile justice within the department of children, youth, and families in its role as statewide monitor of the transition under section 23 of this act so that the office of juvenile justice may provide accurate information to the governor and the legislature.
+
+2. This section expires June 30, 2025.
+
+
+## Section 23
+> This section adds a new section to an existing chapter [43.216](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
+
+1. The office of juvenile justice within the department shall monitor the implementation of this act across the state and report on the progress of counties and their readiness to move forward to full implementation while providing for adequate safety, rehabilitative programming, and efficient court processing for affected persons. The office of juvenile justice shall deliver a report to the governor and relevant committees of the legislature annually by December 1st regarding the implementation of this act, and may make recommendations if appropriate.
+
+2. This section expires June 30, 2025.
+

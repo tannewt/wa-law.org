@@ -1,5 +1,6 @@
 # SB 5146 - Fish and wildlife/indemnify
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5146&Year=2021)
+
 Authorizing the fish and wildlife commission to indemnify the federal government as a condition of securing certain funds.
 
 ## Revisions

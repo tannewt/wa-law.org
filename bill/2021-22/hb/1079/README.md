@@ -1,5 +1,6 @@
 # HB 1079 - Charter schools time frame
-*Status: First reading, referred to Education.*
+*Status: First reading, referred to Education.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1079&Year=2021)
+
 Concerning the time frame for establishing charter schools.
 
 ## Revisions

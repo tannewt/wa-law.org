@@ -4,6 +4,7 @@
 ## Section 1
 The legislature recognizes that school bus drivers play a crucial role in ensuring students' safe passage to and from school, preventing absences, and extending a positive school climate beyond the classroom. By delivering this essential service, school bus drivers provide a significant time and convenience benefit to thousands of Washington families, remove cars from the road, reduce overall emissions, and increase traffic safety. However, a recent national survey revealed that 94 percent of bus contractors experience driver shortages, with 21 percent reporting their shortages as severe. With this act, the state of Washington intends to encourage the retention of bus drivers who provide vital services to local communities.
 
+
 ## Section 2
 > This section modifies existing section [28A.160.140](/rcw/28A_common_school_provisions/28A.160_student_transportation.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.160_student_transportation.md) for context.
 

@@ -2,785 +2,1456 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1320-S.xml)
 ## Section 1
-(1) Washington state has been a national leader in adopting legal protections to prevent and respond to abuse, violence, harassment, stalking, neglect, or other threatening behavior, through the enactment of different types of civil protection orders, which are intended to provide a fast, efficient means to obtain protection against perpetrators of these harms.
-(2) Washington state has enacted six different types of civil protection orders: (a) Domestic violence protection orders, adopted by the legislature in 1984; (b) vulnerable adult protection orders, adopted by the legislature in 1986; (c) antiharassment protection orders, adopted by the legislature in 1987; (d) sexual assault protection orders, adopted by the legislature in 2006; (e) stalking protection orders, adopted by the legislature in 2013; and (f) extreme risk protection orders, enacted by a vote of the people through Initiative Measure No. 1491 in 2016.
-(3) These civil protection orders are essential tools designed to address significant harms impacting individuals as well as communities. The legislature finds that:
-(a) Domestic violence is a problem of immense proportions. About 15 percent of Washington adults report experiencing domestic violence in their lifetime, and women, low-income people, and Black and indigenous communities experience higher rates of domestic violence. When domestic violence victims seek to separate from their abuser, they face increased risks. 45 percent of domestic violence homicides occur within 90 days of a recent separation, while 75 percent occur within the first six months of separation. Domestic violence victims also face increased risks when their abuser has access to firearms. Firearms are used to commit more than half of all intimate partner homicides in the United States. When an abusive partner has access to a gun, a domestic violence victim is 11 times more likely to be killed. Domestic violence has long been recognized as being at the core of other major social problems: Child abuse, other crimes of violence against persons or property, homelessness, and alcohol and drug abuse. Research has identified that adverse childhood experiences such as exposure to domestic violence have long-term negative impacts on health, well-being, and life outcomes, including criminal legal system involvement. Washington state studies have found that domestic violence is the most predictive of future violent crime by the perpetrator. Nationwide, domestic violence costs over $460,000,000,000 each year for health care, absence from work, services to children, and more. Adolescent dating violence is occurring at increasingly high rates, and preventing and confronting adolescent violence is important in preventing future violence in adult relationships. Domestic violence should not be minimized or dismissed based on any mental health diagnoses of the perpetrator or the victim. To the contrary, the presence of mental health concerns or substance use of either party increases the likelihood of serious injury and lethality. The legislature finds that it is in the public interest to improve the lives of persons being victimized by the acts and dynamics of domestic violence, to require reasonable, coordinated measures to prevent domestic violence from occurring, and to respond effectively to secure the safety of survivors of domestic violence;
-(b) Sexual assault is the most heinous crime against another person short of murder. Sexual assault inflicts humiliation, degradation, and terror on victims. The perpetrator's age, gender, or relationship does not define the seriousness. According to the centers for disease control and prevention, one in six men, one in three women, and one in two nonbinary persons will experience sexual violence in their lifetime. Because of the stigma of a sexual assault and trauma, many victims are afraid or are not ready to report to law enforcement and go through the rigors of the criminal justice process. Individuals with disabilities; Black and indigenous communities; and lesbian, gay, bisexual, transgender, queer, and other individuals experience a higher rate of sexual violence. Experiencing a sexual assault is itself a reasonable basis for ongoing fear. Rape is recognized as the most underreported crime; estimates suggest that only one in seven rapes is reported to authorities. Victims who do not report the crime still may need to seek safety and protection from future interactions with the perpetrator and have a right to such safety and protection. Some cases where rape is reported are not prosecuted or do not lead to a conviction. A victim should be able to expediently seek a civil remedy requiring that the perpetrator stay away from the victim, independent of the criminal process and regardless of whether related criminal charges are pending;
-(c) Stalking is a crime that affects 3,400,000 people over the age of 18 each year in the United States. Almost half of victims experience at least one unwanted contact per week. 29 percent of stalking victims fear that the stalking will never stop. The prevalence of anxiety, insomnia, social dysfunction, and severe depression is much higher among stalking victims than among the general population. Research shows that stalking is a significant indication of future lethality. Increased access to technology has also increased methods of stalking. Stalking is distinct from common acts of harassment or nuisance covered by antiharassment orders, and law enforcement agencies need to be able to rely on orders that distinguish stalking from acts of harassment or nuisance. Victims who do not report the stalking behavior they are experiencing still may need safety and protection from future interactions with the perpetrator through expedient access to the civil court system, and this protection can be accomplished without infringing on constitutionally protected speech or activity;
-(d) Serious, personal harassment through invasions of a person's privacy by an act, acts, or words showing an intent to coerce, intimidate, or humiliate the victim is increasing. The legislature finds the prevention of such harassment is an important governmental objective, and that victims should have access to a method to prevent further contact between the victim and perpetrator. A person may be targeted for harassing behavior due to his or her identity, such as age, gender, sexual orientation, race, religion, disability, or immigration status. The legislature finds that unlawful harassment directed at a child by a child is not acceptable and can have serious consequences, but that some negative interactions between young people, especially in schools, do not rise to the level of unlawful harassment. It is the intent of the legislature that a protection order sought by the parent or guardian of a child as provided for in this chapter be available only when the alleged behavior of the person under the age of 18 to be restrained rises to the level set forth in this chapter;
-(e) Some adults are vulnerable and may be subject to abuse, neglect, financial exploitation, or abandonment by a family member, care provider, or other person who has a relationship with the vulnerable adult. A vulnerable adult may have physical disabilities, mobility issues, or be otherwise unable to represent himself or herself in court or to retain legal counsel in order to obtain the relief available under this chapter or other protections offered through the courts. A vulnerable adult may lack the ability to perform or obtain those services necessary to maintain his or her well-being because he or she lacks the capacity for consent, and may have health problems that place him or her in a dependent position. The legislature finds the legal tool of protection orders will help prevent abuse, neglect, exploitation, or abandonment of vulnerable adults; and
-(f) Every year, over 100,000 persons in our country are victims of gunshot wounds and 38,000 individuals lose their lives from gun violence. On average, there are over 100 gun deaths each day, 61 percent of which are suicides. In Washington state, the suicide rate is on average 10 percent higher. Extreme risk protection orders allow for the temporary removal of the most lethal means of suicide from the situation, saving lives of those at risk. Studies show that individuals who engage in certain dangerous behaviors are significantly more likely to commit violence toward themselves or others in the near future. These behaviors, which can include other acts or threats of violence, self-harm, or the abuse of drugs or alcohol, are warning signs that the person may soon commit an act of violence. Individuals who pose a danger to themselves or others often exhibit signs that alert family, household members, or law enforcement to the threat. Restricting firearms access in these moments of crisis is an important way to prevent gun violence and save lives. Many mass shooters displayed warning signs prior to their killings, but federal and state laws provided no clear legal process to suspend the shooters' access to guns, even temporarily. In enacting the extreme risk protection order, the people intended to reduce gun deaths and injuries, while respecting constitutional rights, by providing a procedure for family, household members, and law enforcement to obtain a court order temporarily preventing individuals who are at high risk of harming themselves or others from accessing firearms when there is demonstrated evidence that the individuals pose a significant danger, including danger as a result of threatening or violent behavior. Additionally, extreme risk protection orders may provide protections from firearm risks for individuals who are not eligible to petition for other types of protection orders. Extreme risk protection orders are intended to be limited to situations in which individuals pose a significant danger of harming themselves or others by possessing a firearm, having immediate access to a firearm, or having expressed intent to obtain a firearm, and include standards and safeguards to protect the rights of respondents and due process of law. Temporarily removing firearms under these circumstances is an important tool to prevent suicide, homicide, and community violence.
-(4) The legislature finds that all of these civil protection orders are essential tools that can increase safety for victims of domestic violence, sexual assault, stalking, abuse of vulnerable adults, unlawful harassment, and threats of gun violence to obtain immediate protection for themselves apart from the criminal legal system. Victims are in the best position to know what their safety needs are and should be able to seek these crucial protections without having to rely on the criminal legal system process. The legislature further finds the surrender of firearms in civil protection orders is critical to public health. In keeping with the harm reduction approach of this lifesaving tool, the legislature finds that it is appropriate to allow for immunity from prosecution for certain offenses when appropriate to create a safe harbor from prosecution for certain offenses to increase compliance with orders to surrender and prohibit firearms.
-(5) To better achieve these important public purposes, the legislature further finds the need to clarify and simplify these civil protection order statutes to make them more understandable and accessible to victims seeking relief and to respondents who are subject to the court process. An efficient and effective civil process can provide necessary relief many victims require in order to escape and prevent harm. Clarification and simplification of the statutes will aid petitioners, respondents, law enforcement, and judicial officers in their application, help to eliminate procedural inconsistencies, modernize practices, provide better access to justice for those most marginalized, increase compliance, and improve identified problem areas within the statutes. Those who participate in the protection order process often find it difficult to navigate the statutes, which were adopted at different times and contain differing jurisdictional approaches, procedures, definitions, and types of relief offered, among other differences, all of which can create barriers and cause confusion. Harmonizing and standardizing provisions where there is not a need for a specific, different approach can provide more uniformity among the laws and significantly reduce these obstacles.
+1. Washington state has been a national leader in adopting legal protections to prevent and respond to abuse, violence, harassment, stalking, neglect, or other threatening behavior, through the enactment of different types of civil protection orders, which are intended to provide a fast, efficient means to obtain protection against perpetrators of these harms.
+
+2. Washington state has enacted six different types of civil protection orders: (a) Domestic violence protection orders, adopted by the legislature in 1984; (b) vulnerable adult protection orders, adopted by the legislature in 1986; (c) antiharassment protection orders, adopted by the legislature in 1987; (d) sexual assault protection orders, adopted by the legislature in 2006; (e) stalking protection orders, adopted by the legislature in 2013; and (f) extreme risk protection orders, enacted by a vote of the people through Initiative Measure No. 1491 in 2016.
+
+3. These civil protection orders are essential tools designed to address significant harms impacting individuals as well as communities. The legislature finds that:
+
+    a. Domestic violence is a problem of immense proportions. About 15 percent of Washington adults report experiencing domestic violence in their lifetime, and women, low-income people, and Black and indigenous communities experience higher rates of domestic violence. When domestic violence victims seek to separate from their abuser, they face increased risks. 45 percent of domestic violence homicides occur within 90 days of a recent separation, while 75 percent occur within the first six months of separation. Domestic violence victims also face increased risks when their abuser has access to firearms. Firearms are used to commit more than half of all intimate partner homicides in the United States. When an abusive partner has access to a gun, a domestic violence victim is 11 times more likely to be killed. Domestic violence has long been recognized as being at the core of other major social problems: Child abuse, other crimes of violence against persons or property, homelessness, and alcohol and drug abuse. Research has identified that adverse childhood experiences such as exposure to domestic violence have long-term negative impacts on health, well-being, and life outcomes, including criminal legal system involvement. Washington state studies have found that domestic violence is the most predictive of future violent crime by the perpetrator. Nationwide, domestic violence costs over $460,000,000,000 each year for health care, absence from work, services to children, and more. Adolescent dating violence is occurring at increasingly high rates, and preventing and confronting adolescent violence is important in preventing future violence in adult relationships. Domestic violence should not be minimized or dismissed based on any mental health diagnoses of the perpetrator or the victim. To the contrary, the presence of mental health concerns or substance use of either party increases the likelihood of serious injury and lethality. The legislature finds that it is in the public interest to improve the lives of persons being victimized by the acts and dynamics of domestic violence, to require reasonable, coordinated measures to prevent domestic violence from occurring, and to respond effectively to secure the safety of survivors of domestic violence;
+
+    b. Sexual assault is the most heinous crime against another person short of murder. Sexual assault inflicts humiliation, degradation, and terror on victims. The perpetrator's age, gender, or relationship does not define the seriousness. According to the centers for disease control and prevention, one in six men, one in three women, and one in two nonbinary persons will experience sexual violence in their lifetime. Because of the stigma of a sexual assault and trauma, many victims are afraid or are not ready to report to law enforcement and go through the rigors of the criminal justice process. Individuals with disabilities; Black and indigenous communities; and lesbian, gay, bisexual, transgender, queer, and other individuals experience a higher rate of sexual violence. Experiencing a sexual assault is itself a reasonable basis for ongoing fear. Rape is recognized as the most underreported crime; estimates suggest that only one in seven rapes is reported to authorities. Victims who do not report the crime still may need to seek safety and protection from future interactions with the perpetrator and have a right to such safety and protection. Some cases where rape is reported are not prosecuted or do not lead to a conviction. A victim should be able to expediently seek a civil remedy requiring that the perpetrator stay away from the victim, independent of the criminal process and regardless of whether related criminal charges are pending;
+
+    c. Stalking is a crime that affects 3,400,000 people over the age of 18 each year in the United States. Almost half of victims experience at least one unwanted contact per week. 29 percent of stalking victims fear that the stalking will never stop. The prevalence of anxiety, insomnia, social dysfunction, and severe depression is much higher among stalking victims than among the general population. Research shows that stalking is a significant indication of future lethality. Increased access to technology has also increased methods of stalking. Stalking is distinct from common acts of harassment or nuisance covered by antiharassment orders, and law enforcement agencies need to be able to rely on orders that distinguish stalking from acts of harassment or nuisance. Victims who do not report the stalking behavior they are experiencing still may need safety and protection from future interactions with the perpetrator through expedient access to the civil court system, and this protection can be accomplished without infringing on constitutionally protected speech or activity;
+
+    d. Serious, personal harassment through invasions of a person's privacy by an act, acts, or words showing an intent to coerce, intimidate, or humiliate the victim is increasing. The legislature finds the prevention of such harassment is an important governmental objective, and that victims should have access to a method to prevent further contact between the victim and perpetrator. A person may be targeted for harassing behavior due to his or her identity, such as age, gender, sexual orientation, race, religion, disability, or immigration status. The legislature finds that unlawful harassment directed at a child by a child is not acceptable and can have serious consequences, but that some negative interactions between young people, especially in schools, do not rise to the level of unlawful harassment. It is the intent of the legislature that a protection order sought by the parent or guardian of a child as provided for in this chapter be available only when the alleged behavior of the person under the age of 18 to be restrained rises to the level set forth in this chapter;
+
+    e. Some adults are vulnerable and may be subject to abuse, neglect, financial exploitation, or abandonment by a family member, care provider, or other person who has a relationship with the vulnerable adult. A vulnerable adult may have physical disabilities, mobility issues, or be otherwise unable to represent himself or herself in court or to retain legal counsel in order to obtain the relief available under this chapter or other protections offered through the courts. A vulnerable adult may lack the ability to perform or obtain those services necessary to maintain his or her well-being because he or she lacks the capacity for consent, and may have health problems that place him or her in a dependent position. The legislature finds the legal tool of protection orders will help prevent abuse, neglect, exploitation, or abandonment of vulnerable adults; and
+
+    f. Every year, over 100,000 persons in our country are victims of gunshot wounds and 38,000 individuals lose their lives from gun violence. On average, there are over 100 gun deaths each day, 61 percent of which are suicides. In Washington state, the suicide rate is on average 10 percent higher. Extreme risk protection orders allow for the temporary removal of the most lethal means of suicide from the situation, saving lives of those at risk. Studies show that individuals who engage in certain dangerous behaviors are significantly more likely to commit violence toward themselves or others in the near future. These behaviors, which can include other acts or threats of violence, self-harm, or the abuse of drugs or alcohol, are warning signs that the person may soon commit an act of violence. Individuals who pose a danger to themselves or others often exhibit signs that alert family, household members, or law enforcement to the threat. Restricting firearms access in these moments of crisis is an important way to prevent gun violence and save lives. Many mass shooters displayed warning signs prior to their killings, but federal and state laws provided no clear legal process to suspend the shooters' access to guns, even temporarily. In enacting the extreme risk protection order, the people intended to reduce gun deaths and injuries, while respecting constitutional rights, by providing a procedure for family, household members, and law enforcement to obtain a court order temporarily preventing individuals who are at high risk of harming themselves or others from accessing firearms when there is demonstrated evidence that the individuals pose a significant danger, including danger as a result of threatening or violent behavior. Additionally, extreme risk protection orders may provide protections from firearm risks for individuals who are not eligible to petition for other types of protection orders. Extreme risk protection orders are intended to be limited to situations in which individuals pose a significant danger of harming themselves or others by possessing a firearm, having immediate access to a firearm, or having expressed intent to obtain a firearm, and include standards and safeguards to protect the rights of respondents and due process of law. Temporarily removing firearms under these circumstances is an important tool to prevent suicide, homicide, and community violence.
+
+4. The legislature finds that all of these civil protection orders are essential tools that can increase safety for victims of domestic violence, sexual assault, stalking, abuse of vulnerable adults, unlawful harassment, and threats of gun violence to obtain immediate protection for themselves apart from the criminal legal system. Victims are in the best position to know what their safety needs are and should be able to seek these crucial protections without having to rely on the criminal legal system process. The legislature further finds the surrender of firearms in civil protection orders is critical to public health. In keeping with the harm reduction approach of this lifesaving tool, the legislature finds that it is appropriate to allow for immunity from prosecution for certain offenses when appropriate to create a safe harbor from prosecution for certain offenses to increase compliance with orders to surrender and prohibit firearms.
+
+5. To better achieve these important public purposes, the legislature further finds the need to clarify and simplify these civil protection order statutes to make them more understandable and accessible to victims seeking relief and to respondents who are subject to the court process. An efficient and effective civil process can provide necessary relief many victims require in order to escape and prevent harm. Clarification and simplification of the statutes will aid petitioners, respondents, law enforcement, and judicial officers in their application, help to eliminate procedural inconsistencies, modernize practices, provide better access to justice for those most marginalized, increase compliance, and improve identified problem areas within the statutes. Those who participate in the protection order process often find it difficult to navigate the statutes, which were adopted at different times and contain differing jurisdictional approaches, procedures, definitions, and types of relief offered, among other differences, all of which can create barriers and cause confusion. Harmonizing and standardizing provisions where there is not a need for a specific, different approach can provide more uniformity among the laws and significantly reduce these obstacles.
+
 The legislature finds that these improvements are needed to help ensure that protection orders and corresponding court processes are more easily accessible to all litigants, particularly parties who may experience higher barriers to accessing justice.
-(6) The legislature finds that advances in technology have made it increasingly possible to file petitions, effect service of process, and conduct hearings in protection order proceedings through more efficient and accessible means, while upholding constitutional due process requirements. These include using approaches such as online filing of petitions, electronic service of protection orders, and video and telephonic hearings to maintain and improve access to the courts. These alternatives can help make protection order processes more accessible, effective, timely, and procedurally just, particularly in situations where there are emergent risks. The legislature finds that it would be helpful for petitioners, respondents, judicial officers, court personnel, law enforcement, advocates, counsel, and others to have these new tools enacted into statute and made readily available in every court, with statewide best practices created for their use, specific to the context of civil protection orders. The legislature further finds that it is important to modernize other aspects of the civil protection order statutes to reflect current trends, and to provide for data collection and research in these areas of the law.
-(7) The legislature further finds that in order to improve the efficacy of, accessibility to, and understanding of, civil protection orders, the six different civil protection orders in Washington state should be included in a single chapter of the Revised Code of Washington.
+
+6. The legislature finds that advances in technology have made it increasingly possible to file petitions, effect service of process, and conduct hearings in protection order proceedings through more efficient and accessible means, while upholding constitutional due process requirements. These include using approaches such as online filing of petitions, electronic service of protection orders, and video and telephonic hearings to maintain and improve access to the courts. These alternatives can help make protection order processes more accessible, effective, timely, and procedurally just, particularly in situations where there are emergent risks. The legislature finds that it would be helpful for petitioners, respondents, judicial officers, court personnel, law enforcement, advocates, counsel, and others to have these new tools enacted into statute and made readily available in every court, with statewide best practices created for their use, specific to the context of civil protection orders. The legislature further finds that it is important to modernize other aspects of the civil protection order statutes to reflect current trends, and to provide for data collection and research in these areas of the law.
+
+7. The legislature further finds that in order to improve the efficacy of, accessibility to, and understanding of, civil protection orders, the six different civil protection orders in Washington state should be included in a single chapter of the Revised Code of Washington.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Abandonment" means action or inaction by a person or entity with a duty of care for a vulnerable adult that leaves the vulnerable adult without the means or ability to obtain necessary food, clothing, shelter, or health care.
-(2) "Abuse," for the purposes of a vulnerable adult protection order, means intentional, willful, or reckless action or inaction that inflicts injury, unreasonable confinement, intimidation, or punishment on a vulnerable adult. In instances of abuse of a vulnerable adult who is unable to express or demonstrate physical harm, pain, or mental anguish, the abuse is presumed to cause physical harm, pain, or mental anguish. "Abuse" includes sexual abuse, mental abuse, physical abuse, personal exploitation, and improper use of restraint against a vulnerable adult, which have the following meanings:
-(a) "Improper use of restraint" means the inappropriate use of chemical, physical, or mechanical restraints for convenience or discipline, or in a manner that: (i) Is inconsistent with federal or state licensing or certification requirements for facilities, hospitals, or programs authorized under chapter 71A.12 RCW; (ii) is not medically authorized; or (iii) otherwise constitutes abuse under this section.
-(b) "Mental abuse" means an intentional, willful, or reckless verbal or nonverbal action that threatens, humiliates, harasses, coerces, intimidates, isolates, unreasonably confines, or punishes a vulnerable adult. "Mental abuse" may include ridiculing, yelling, swearing, or withholding or tampering with prescribed medications or their dosage.
-(c) "Personal exploitation" means an act of forcing, compelling, or exerting undue influence over a vulnerable adult causing the vulnerable adult to act in a way that is inconsistent with relevant past behavior, or causing the vulnerable adult to perform services for the benefit of another.
-(d) "Physical abuse" means the intentional, willful, or reckless action of inflicting bodily injury or physical mistreatment. "Physical abuse" includes, but is not limited to, striking with or without an object, slapping, pinching, strangulation, suffocation, kicking, shoving, or prodding.
-(e) "Sexual abuse" means any form of nonconsensual sexual conduct including, but not limited to, unwanted or inappropriate touching, rape, molestation, indecent liberties, sexual coercion, sexually explicit photographing or recording, voyeurism, indecent exposure, and sexual harassment. "Sexual abuse" also includes any sexual conduct between a staff person, who is not also a resident or client, of a facility or a staff person of a program authorized under chapter 71A.12 RCW, and a vulnerable adult living in that facility or receiving service from a program authorized under chapter 71A.12 RCW, whether or not the sexual conduct is consensual.
-(3) "Chemical restraint" means the administration of any drug to manage a vulnerable adult's behavior in a way that reduces the safety risk to the vulnerable adult or others, has the temporary effect of restricting the vulnerable adult's freedom of movement, and is not standard treatment for the vulnerable adult's medical or psychiatric condition.
-(4) "Coercive control" means a pattern of behavior that in purpose or effect unreasonably interferes with a person's free will and personal liberty and is used to cause another to suffer physical or psychological harm. Examples of coercive control include, but are not limited to, unreasonably engaging in any of the following:
-(a) Making threats of harm, dependence, isolation, intimidation, and/or physical forms of violence;
-(b) Isolating the other party from friends, relatives, or other sources of support;
-(c) Depriving the other party of basic necessities or committing other forms of economic abuse;
-(d) Controlling, regulating, or monitoring the other party's movements, communications, daily behavior, finances, economic resources, or access to services;
-(e) Compelling the other party by force, threat of force, or intimidation, including threats based on actual or suspected immigration status such as threats to contact federal agencies, to engage in conduct from which the other party has a right to abstain or to abstain from conduct in which the other party has a right to engage;
-(f) Using technology, including, but not limited to, cyberstalking, monitoring, surveillance, impersonation, or distribution of intimate images, to harass, stalk, or abuse;
-(g) Engaging in vexatious or abusive litigation against a petitioner to harass, coerce, or control the petitioner; to diminish or exhaust the petitioner's financial resources; or to compromise the petitioner's employment or housing;
-(h) Engaging in psychological aggression; and
-(i) Frightening, humiliating, degrading, or punishing the other party.
-(5) "Consent" in the context of sexual acts means that at the time of sexual contact, there are actual words or conduct indicating freely given agreement to that sexual contact. Consent must be ongoing and may be revoked at any time. Conduct short of voluntary agreement does not constitute consent as a matter of law. Consent cannot be freely given when a person does not have capacity due to disability, intoxication, or age. Consent cannot be freely given when the other party has authority or control over the care or custody of a person incarcerated or detained.
-(6)(a) "Course of conduct" means a pattern of conduct composed of a series of acts over a period of time, however short, evidencing a continuity of purpose. "Course of conduct" includes any form of communication, contact, or conduct, including the sending of an electronic communication, but does not include constitutionally protected free speech. Constitutionally protected activity is not included within the meaning of "course of conduct."
-(b) In determining whether the course of conduct serves any legitimate or lawful purpose, a court should consider whether:
-(i) Any current contact between the parties was initiated by the respondent only or was initiated by both parties;
-(ii) The respondent has been given clear notice that all further contact with the petitioner is unwanted;
-(iii) The respondent's course of conduct appears designed to alarm, annoy, or harass the petitioner;
-(iv) The respondent is acting pursuant to any statutory authority including, but not limited to, acts which are reasonably necessary to:
+
+1. "Abandonment" means action or inaction by a person or entity with a duty of care for a vulnerable adult that leaves the vulnerable adult without the means or ability to obtain necessary food, clothing, shelter, or health care.
+
+2. "Abuse," for the purposes of a vulnerable adult protection order, means intentional, willful, or reckless action or inaction that inflicts injury, unreasonable confinement, intimidation, or punishment on a vulnerable adult. In instances of abuse of a vulnerable adult who is unable to express or demonstrate physical harm, pain, or mental anguish, the abuse is presumed to cause physical harm, pain, or mental anguish. "Abuse" includes sexual abuse, mental abuse, physical abuse, personal exploitation, and improper use of restraint against a vulnerable adult, which have the following meanings:
+
+    a. "Improper use of restraint" means the inappropriate use of chemical, physical, or mechanical restraints for convenience or discipline, or in a manner that: (i) Is inconsistent with federal or state licensing or certification requirements for facilities, hospitals, or programs authorized under chapter 71A.12 RCW; (ii) is not medically authorized; or (iii) otherwise constitutes abuse under this section.
+
+    b. "Mental abuse" means an intentional, willful, or reckless verbal or nonverbal action that threatens, humiliates, harasses, coerces, intimidates, isolates, unreasonably confines, or punishes a vulnerable adult. "Mental abuse" may include ridiculing, yelling, swearing, or withholding or tampering with prescribed medications or their dosage.
+
+    c. "Personal exploitation" means an act of forcing, compelling, or exerting undue influence over a vulnerable adult causing the vulnerable adult to act in a way that is inconsistent with relevant past behavior, or causing the vulnerable adult to perform services for the benefit of another.
+
+    d. "Physical abuse" means the intentional, willful, or reckless action of inflicting bodily injury or physical mistreatment. "Physical abuse" includes, but is not limited to, striking with or without an object, slapping, pinching, strangulation, suffocation, kicking, shoving, or prodding.
+
+    e. "Sexual abuse" means any form of nonconsensual sexual conduct including, but not limited to, unwanted or inappropriate touching, rape, molestation, indecent liberties, sexual coercion, sexually explicit photographing or recording, voyeurism, indecent exposure, and sexual harassment. "Sexual abuse" also includes any sexual conduct between a staff person, who is not also a resident or client, of a facility or a staff person of a program authorized under chapter 71A.12 RCW, and a vulnerable adult living in that facility or receiving service from a program authorized under chapter 71A.12 RCW, whether or not the sexual conduct is consensual.
+
+3. "Chemical restraint" means the administration of any drug to manage a vulnerable adult's behavior in a way that reduces the safety risk to the vulnerable adult or others, has the temporary effect of restricting the vulnerable adult's freedom of movement, and is not standard treatment for the vulnerable adult's medical or psychiatric condition.
+
+4. "Coercive control" means a pattern of behavior that in purpose or effect unreasonably interferes with a person's free will and personal liberty and is used to cause another to suffer physical or psychological harm. Examples of coercive control include, but are not limited to, unreasonably engaging in any of the following:
+
+    a. Making threats of harm, dependence, isolation, intimidation, and/or physical forms of violence;
+
+    b. Isolating the other party from friends, relatives, or other sources of support;
+
+    c. Depriving the other party of basic necessities or committing other forms of economic abuse;
+
+    d. Controlling, regulating, or monitoring the other party's movements, communications, daily behavior, finances, economic resources, or access to services;
+
+    e. Compelling the other party by force, threat of force, or intimidation, including threats based on actual or suspected immigration status such as threats to contact federal agencies, to engage in conduct from which the other party has a right to abstain or to abstain from conduct in which the other party has a right to engage;
+
+    f. Using technology, including, but not limited to, cyberstalking, monitoring, surveillance, impersonation, or distribution of intimate images, to harass, stalk, or abuse;
+
+    g. Engaging in vexatious or abusive litigation against a petitioner to harass, coerce, or control the petitioner; to diminish or exhaust the petitioner's financial resources; or to compromise the petitioner's employment or housing;
+
+    h. Engaging in psychological aggression; and
+
+    i. Frightening, humiliating, degrading, or punishing the other party.
+
+5. "Consent" in the context of sexual acts means that at the time of sexual contact, there are actual words or conduct indicating freely given agreement to that sexual contact. Consent must be ongoing and may be revoked at any time. Conduct short of voluntary agreement does not constitute consent as a matter of law. Consent cannot be freely given when a person does not have capacity due to disability, intoxication, or age. Consent cannot be freely given when the other party has authority or control over the care or custody of a person incarcerated or detained.
+
+6. [Empty]
+
+    a. "Course of conduct" means a pattern of conduct composed of a series of acts over a period of time, however short, evidencing a continuity of purpose. "Course of conduct" includes any form of communication, contact, or conduct, including the sending of an electronic communication, but does not include constitutionally protected free speech. Constitutionally protected activity is not included within the meaning of "course of conduct."
+
+    b. In determining whether the course of conduct serves any legitimate or lawful purpose, a court should consider whether:
+
+        i. Any current contact between the parties was initiated by the respondent only or was initiated by both parties;
+
+        ii. The respondent has been given clear notice that all further contact with the petitioner is unwanted;
+
+        iii. The respondent's course of conduct appears designed to alarm, annoy, or harass the petitioner;
+
+        iv. The respondent is acting pursuant to any statutory authority including, but not limited to, acts which are reasonably necessary to:
+
 (A) Protect property or liberty interests;
+
 (B) Enforce the law; or
+
 (C) Meet specific statutory duties or requirements;
-(v) The respondent's course of conduct has the purpose or effect of unreasonably interfering with the petitioner's privacy or the purpose or effect of creating an intimidating, hostile, or offensive living environment for the petitioner; or
-(vi) Contact by the respondent with the petitioner or the petitioner's family has been limited in any manner by any previous court order.
-(7) "Court clerk" means court administrators in courts of limited jurisdiction and elected court clerks.
-(8) "Dating relationship" means a social relationship of a romantic nature. Factors that the court may consider in making this determination include: (a) The length of time the relationship has existed; (b) the nature of the relationship; and (c) the frequency of interaction between the parties.
-(9) "Domestic violence" means:
-(a) Physical harm, bodily injury, assault, or the infliction of fear of physical harm, bodily injury, or assault; nonconsensual sexual conduct or nonconsensual sexual penetration; coercive control; unlawful harassment; or stalking of one intimate partner by another intimate partner; or
-(b) Physical harm, bodily injury, assault, or the infliction of fear of physical harm, bodily injury, or assault; nonconsensual sexual conduct or nonconsensual sexual penetration; coercive control; unlawful harassment; or stalking of one family or household member by another family or household member.
-(10) "Electronic monitoring" has the same meaning as in RCW 9.94A.030.
-(11) "Essential personal effects" means those items necessary for a person's immediate health, welfare, and livelihood. "Essential personal effects" includes, but is not limited to, clothing, cribs, bedding, medications, personal hygiene items, cellular phones and other electronic devices, and documents, including immigration, health care, financial, travel, and identity documents.
-(12) "Facility" means a residence licensed or required to be licensed under chapter 18.20 RCW, assisted living facilities; chapter 18.51 RCW, nursing homes; chapter 70.128 RCW, adult family homes; chapter 72.36 RCW, soldiers' homes; chapter 71A.20 RCW, residential habilitation centers; or any other facility licensed or certified by the department of social and health services.
-(13) "Family or household members" means: (a) Persons related by blood, marriage, domestic partnership, or adoption; (b) persons who currently or formerly resided together; (c) persons who have a biological or legal parent-child relationship, including stepparents and stepchildren and grandparents and grandchildren, or a parent's intimate partner and children; and (d) a person who is acting or has acted as a legal guardian.
-(14) "Financial exploitation" means the illegal or improper use of, control over, or withholding of, the property, income, resources, or trust funds of the vulnerable adult by any person or entity for any person's or entity's profit or advantage other than for the vulnerable adult's profit or advantage. "Financial exploitation" includes, but is not limited to:
-(a) The use of deception, intimidation, or undue influence by a person or entity in a position of trust and confidence with a vulnerable adult to obtain or use the property, income, resources, government benefits, health insurance benefits, or trust funds of the vulnerable adult for the benefit of a person or entity other than the vulnerable adult;
-(b) The breach of a fiduciary duty, including, but not limited to, the misuse of a power of attorney, trust, or a guardianship or conservatorship appointment, that results in the unauthorized appropriation, sale, or transfer of the property, income, resources, or trust funds of the vulnerable adult for the benefit of a person or entity other than the vulnerable adult; or
-(c) Obtaining or using a vulnerable adult's property, income, resources, or trust funds without lawful authority, by a person or entity who knows or clearly should know that the vulnerable adult lacks the capacity to consent to the release or use of the vulnerable adult's property, income, resources, or trust funds.
-(15) "Firearm" means a weapon or device from which a projectile or projectiles may be fired by an explosive such as gunpowder. "Firearm" does not include a flare gun or other pyrotechnic visual distress signaling device, or a powder-actuated tool or other device designed solely to be used for construction purposes. "Firearm" also includes parts that can be assembled to make a firearm.
-(16) "Full hearing" means a hearing where the court determines whether to issue a full protection order.
-(17) "Full protection order" means a protection order that is issued by the court after notice to the respondent and where the parties had the opportunity for a full hearing by the court. "Full protection order" includes a protection order entered by the court by agreement of the parties to resolve the petition for a protection order without a full hearing.
-(18) "Hospital" means a facility licensed under chapter 70.41 or 71.12 RCW or a state hospital defined in chapter 72.23 RCW and any employee, agent, officer, director, or independent contractor thereof.
-(19) "Incapacitated person" means a person who is at a significant risk of personal or financial harm under RCW 11.88.010(1) (a), (b), (c), or (d).
-(20) "Interested person" means a person who demonstrates to the court's satisfaction that the person is interested in the welfare of a vulnerable adult, that the person has a good faith belief that the court's intervention is necessary, and that the vulnerable adult is unable, due to incapacity, undue influence, or duress at the time the petition is filed, to protect his or her own interests.
-(21) "Intimate partner" means: (a) Spouses or domestic partners; (b) former spouses or former domestic partners; (c) persons who have a child in common regardless of whether they have been married or have lived together at any time; or (d) persons who have or have had a dating relationship where both persons are at least 13 years of age or older.
-(22)(a) "Isolate" or "isolation" means to restrict a person's ability to communicate, visit, interact, or otherwise associate with persons of his or her choosing. Isolation may be evidenced by acts including, but not limited to:
-(i) Acts that prevent a person from sending, making, or receiving his or her personal mail, electronic communications, or telephone calls; or
-(ii) Acts that prevent or obstruct a person from meeting with others, such as telling a prospective visitor or caller that the person is not present or does not wish contact, where the statement is contrary to the express wishes of the person.
-(b) The term "isolate" or "isolation" may not be construed in a manner that prevents a guardian or limited guardian from performing his or her fiduciary obligations under chapter 11.92 RCW or prevents a hospital or facility from providing treatment consistent with the standard of care for delivery of health services.
-(23) "Judicial day" means days of the week other than Saturdays, Sundays, or legal holidays.
-(24) "Mechanical restraint" means any device attached or adjacent to a vulnerable adult's body that the vulnerable adult cannot easily remove that restricts freedom of movement or normal access to the vulnerable adult's body. "Mechanical restraint" does not include the use of devices, materials, or equipment that are (a) medically authorized, as required, and (b) used in a manner that is consistent with federal or state licensing or certification requirements for facilities, hospitals, or programs authorized under chapter 71A.12 RCW.
-(25) "Minor" means a person who is under 18 years of age.
-(26) "Neglect" means: (a) A pattern of conduct or inaction by a person or entity with a duty of care that fails to provide the goods and services that maintain the physical or mental health of a vulnerable adult, or that fails to avoid or prevent physical or mental harm or pain to a vulnerable adult; or (b) an act or omission by a person or entity with a duty of care that demonstrates a serious disregard of consequences of such a magnitude as to constitute a clear and present danger to the vulnerable adult's health, welfare, or safety including, but not limited to, conduct prohibited under RCW 9A.42.100.
-(27) "Nonconsensual" means a lack of freely given consent.
-(28) "Nonphysical contact" includes, but is not limited to, written notes, mail, telephone calls, email, text messages, contact through social media applications, contact through other technologies, and contact through third parties.
-(29) "Petitioner" means any named petitioner or any other person identified in the petition on whose behalf the petition is brought.
-(30) "Physical restraint" means the application of physical force without the use of any device, for the purpose of restraining the free movement of a vulnerable adult's body. "Physical restraint" does not include (a) briefly holding, without undue force, a vulnerable adult in order to calm or comfort him or her, or (b) holding a vulnerable adult's hand to safely escort him or her from one area to another.
-(31) "Possession" means having an item in one's custody or control. Possession may be either actual or constructive. Actual possession occurs when the item is in the actual physical custody of the person charged with possession. Constructive possession occurs when there is no actual physical possession, but there is dominion and control over the item.
-(32) "Respondent" means the person who is identified as the respondent in a petition filed under this chapter.
-(33) "Sexual conduct" means any of the following:
-(a) Any intentional or knowing touching or fondling of the genitals, anus, or breasts, directly or indirectly, including through clothing;
-(b) Any intentional or knowing display of the genitals, anus, or breasts for the purposes of arousal or sexual gratification of the respondent;
-(c) Any intentional or knowing touching or fondling of the genitals, anus, or breasts, directly or indirectly, including through clothing, that the petitioner is forced to perform by another person or the respondent;
-(d) Any forced display of the petitioner's genitals, anus, or breasts for the purposes of arousal or sexual gratification of the respondent or others;
-(e) Any intentional or knowing touching of the clothed or unclothed body of a child under the age of 16, if done for the purpose of sexual gratification or arousal of the respondent or others; or
-(f) Any coerced or forced touching or fondling by a child under the age of 16, directly or indirectly, including through clothing, of the genitals, anus, or breasts of the respondent or others.
-(34) "Sexual penetration" means any contact, however slight, between the sex organ or anus of one person by an object, the sex organ, mouth, or anus of another person, or any intrusion, however slight, of any part of the body of one person or of any animal or object into the sex organ or anus of another person including, but not limited to, cunnilingus, fellatio, or anal penetration. Evidence of emission of semen is not required to prove sexual penetration.
-(35) "Stalking" means any of the following:
-(a) Any act of stalking as defined under RCW 9A.46.110;
-(b) Any act of cyberstalking as defined under RCW 9.61.260; or
-(c) Any course of conduct involving repeated or continuing contacts, attempts to contact, monitoring, tracking, surveillance, keeping under observation, disrupting activities in a harassing manner, or following of another person that:
-(i) Would cause a reasonable person to feel intimidated, frightened, under duress, significantly disrupted, or threatened and that actually causes such a feeling;
-(ii) Serves no lawful purpose; and
-(iii) The respondent knows, or reasonably should know, threatens, frightens, or intimidates the person, even if the respondent did not intend to intimidate, frighten, or threaten the person.
-(36) "Temporary protection order" means a protection order that is issued before the court has decided whether to issue a full protection order. "Temporary protection order" includes ex parte temporary protection orders, as well as temporary protection orders that are reissued by the court pending the completion of a full hearing to decide whether to issue a full protection order. An "ex parte temporary protection order" means a temporary protection order that is issued without prior notice to the respondent.
-(37) "Unlawful harassment" means:
-(a) A knowing and willful course of conduct directed at a specific person that seriously alarms, annoys, harasses, or is detrimental to such person, and that serves no legitimate or lawful purpose. The course of conduct must be such as would cause a reasonable person to suffer substantial emotional distress, and must actually cause substantial emotional distress to the petitioner; or
-(b) A single act of violence or threat of violence directed at a specific person that seriously alarms, annoys, harasses, or is detrimental to such person, and that serves no legitimate or lawful purpose, which would cause a reasonable person to suffer substantial emotional distress, and must actually cause substantial emotional distress to the petitioner. A single threat of violence must include: (i) A malicious and intentional threat as described in RCW 9A.36.080(1)(c); or (ii) the presence of a firearm or other weapon.
-(38) "Vulnerable adult" includes a person:
-(a) Sixty years of age or older who has the functional, mental, or physical inability to care for himself or herself; or
-(b) Found incapacitated under chapter 11.88 RCW; or
-(c) Who has a developmental disability as defined under RCW 71A.10.020; or
-(d) Admitted to any facility; or
-(e) Receiving services from home health, hospice, or home care agencies licensed or required to be licensed under chapter 70.127 RCW; or
-(f) Receiving services from a person under contract with the department of social and health services to provide services in the home under chapter 74.09 or 74.39A RCW; or
-(g) Who self-directs his or her own care and receives services from a personal aide under chapter 74.39 RCW.
+
+    v. The respondent's course of conduct has the purpose or effect of unreasonably interfering with the petitioner's privacy or the purpose or effect of creating an intimidating, hostile, or offensive living environment for the petitioner; or
+
+    vi. Contact by the respondent with the petitioner or the petitioner's family has been limited in any manner by any previous court order.
+
+7. "Court clerk" means court administrators in courts of limited jurisdiction and elected court clerks.
+
+8. "Dating relationship" means a social relationship of a romantic nature. Factors that the court may consider in making this determination include: (a) The length of time the relationship has existed; (b) the nature of the relationship; and (c) the frequency of interaction between the parties.
+
+9. "Domestic violence" means:
+
+    a. Physical harm, bodily injury, assault, or the infliction of fear of physical harm, bodily injury, or assault; nonconsensual sexual conduct or nonconsensual sexual penetration; coercive control; unlawful harassment; or stalking of one intimate partner by another intimate partner; or
+
+    b. Physical harm, bodily injury, assault, or the infliction of fear of physical harm, bodily injury, or assault; nonconsensual sexual conduct or nonconsensual sexual penetration; coercive control; unlawful harassment; or stalking of one family or household member by another family or household member.
+
+10. "Electronic monitoring" has the same meaning as in RCW 9.94A.030.
+
+11. "Essential personal effects" means those items necessary for a person's immediate health, welfare, and livelihood. "Essential personal effects" includes, but is not limited to, clothing, cribs, bedding, medications, personal hygiene items, cellular phones and other electronic devices, and documents, including immigration, health care, financial, travel, and identity documents.
+
+12. "Facility" means a residence licensed or required to be licensed under chapter 18.20 RCW, assisted living facilities; chapter 18.51 RCW, nursing homes; chapter 70.128 RCW, adult family homes; chapter 72.36 RCW, soldiers' homes; chapter 71A.20 RCW, residential habilitation centers; or any other facility licensed or certified by the department of social and health services.
+
+13. "Family or household members" means: (a) Persons related by blood, marriage, domestic partnership, or adoption; (b) persons who currently or formerly resided together; (c) persons who have a biological or legal parent-child relationship, including stepparents and stepchildren and grandparents and grandchildren, or a parent's intimate partner and children; and (d) a person who is acting or has acted as a legal guardian.
+
+14. "Financial exploitation" means the illegal or improper use of, control over, or withholding of, the property, income, resources, or trust funds of the vulnerable adult by any person or entity for any person's or entity's profit or advantage other than for the vulnerable adult's profit or advantage. "Financial exploitation" includes, but is not limited to:
+
+    a. The use of deception, intimidation, or undue influence by a person or entity in a position of trust and confidence with a vulnerable adult to obtain or use the property, income, resources, government benefits, health insurance benefits, or trust funds of the vulnerable adult for the benefit of a person or entity other than the vulnerable adult;
+
+    b. The breach of a fiduciary duty, including, but not limited to, the misuse of a power of attorney, trust, or a guardianship or conservatorship appointment, that results in the unauthorized appropriation, sale, or transfer of the property, income, resources, or trust funds of the vulnerable adult for the benefit of a person or entity other than the vulnerable adult; or
+
+    c. Obtaining or using a vulnerable adult's property, income, resources, or trust funds without lawful authority, by a person or entity who knows or clearly should know that the vulnerable adult lacks the capacity to consent to the release or use of the vulnerable adult's property, income, resources, or trust funds.
+
+15. "Firearm" means a weapon or device from which a projectile or projectiles may be fired by an explosive such as gunpowder. "Firearm" does not include a flare gun or other pyrotechnic visual distress signaling device, or a powder-actuated tool or other device designed solely to be used for construction purposes. "Firearm" also includes parts that can be assembled to make a firearm.
+
+16. "Full hearing" means a hearing where the court determines whether to issue a full protection order.
+
+17. "Full protection order" means a protection order that is issued by the court after notice to the respondent and where the parties had the opportunity for a full hearing by the court. "Full protection order" includes a protection order entered by the court by agreement of the parties to resolve the petition for a protection order without a full hearing.
+
+18. "Hospital" means a facility licensed under chapter 70.41 or 71.12 RCW or a state hospital defined in chapter 72.23 RCW and any employee, agent, officer, director, or independent contractor thereof.
+
+19. "Incapacitated person" means a person who is at a significant risk of personal or financial harm under RCW 11.88.010(1) (a), (b), (c), or (d).
+
+20. "Interested person" means a person who demonstrates to the court's satisfaction that the person is interested in the welfare of a vulnerable adult, that the person has a good faith belief that the court's intervention is necessary, and that the vulnerable adult is unable, due to incapacity, undue influence, or duress at the time the petition is filed, to protect his or her own interests.
+
+21. "Intimate partner" means: (a) Spouses or domestic partners; (b) former spouses or former domestic partners; (c) persons who have a child in common regardless of whether they have been married or have lived together at any time; or (d) persons who have or have had a dating relationship where both persons are at least 13 years of age or older.
+
+22. [Empty]
+
+    a. "Isolate" or "isolation" means to restrict a person's ability to communicate, visit, interact, or otherwise associate with persons of his or her choosing. Isolation may be evidenced by acts including, but not limited to:
+
+        i. Acts that prevent a person from sending, making, or receiving his or her personal mail, electronic communications, or telephone calls; or
+
+        ii. Acts that prevent or obstruct a person from meeting with others, such as telling a prospective visitor or caller that the person is not present or does not wish contact, where the statement is contrary to the express wishes of the person.
+
+    b. The term "isolate" or "isolation" may not be construed in a manner that prevents a guardian or limited guardian from performing his or her fiduciary obligations under chapter 11.92 RCW or prevents a hospital or facility from providing treatment consistent with the standard of care for delivery of health services.
+
+23. "Judicial day" means days of the week other than Saturdays, Sundays, or legal holidays.
+
+24. "Mechanical restraint" means any device attached or adjacent to a vulnerable adult's body that the vulnerable adult cannot easily remove that restricts freedom of movement or normal access to the vulnerable adult's body. "Mechanical restraint" does not include the use of devices, materials, or equipment that are (a) medically authorized, as required, and (b) used in a manner that is consistent with federal or state licensing or certification requirements for facilities, hospitals, or programs authorized under chapter 71A.12 RCW.
+
+25. "Minor" means a person who is under 18 years of age.
+
+26. "Neglect" means: (a) A pattern of conduct or inaction by a person or entity with a duty of care that fails to provide the goods and services that maintain the physical or mental health of a vulnerable adult, or that fails to avoid or prevent physical or mental harm or pain to a vulnerable adult; or (b) an act or omission by a person or entity with a duty of care that demonstrates a serious disregard of consequences of such a magnitude as to constitute a clear and present danger to the vulnerable adult's health, welfare, or safety including, but not limited to, conduct prohibited under RCW 9A.42.100.
+
+27. "Nonconsensual" means a lack of freely given consent.
+
+28. "Nonphysical contact" includes, but is not limited to, written notes, mail, telephone calls, email, text messages, contact through social media applications, contact through other technologies, and contact through third parties.
+
+29. "Petitioner" means any named petitioner or any other person identified in the petition on whose behalf the petition is brought.
+
+30. "Physical restraint" means the application of physical force without the use of any device, for the purpose of restraining the free movement of a vulnerable adult's body. "Physical restraint" does not include (a) briefly holding, without undue force, a vulnerable adult in order to calm or comfort him or her, or (b) holding a vulnerable adult's hand to safely escort him or her from one area to another.
+
+31. "Possession" means having an item in one's custody or control. Possession may be either actual or constructive. Actual possession occurs when the item is in the actual physical custody of the person charged with possession. Constructive possession occurs when there is no actual physical possession, but there is dominion and control over the item.
+
+32. "Respondent" means the person who is identified as the respondent in a petition filed under this chapter.
+
+33. "Sexual conduct" means any of the following:
+
+    a. Any intentional or knowing touching or fondling of the genitals, anus, or breasts, directly or indirectly, including through clothing;
+
+    b. Any intentional or knowing display of the genitals, anus, or breasts for the purposes of arousal or sexual gratification of the respondent;
+
+    c. Any intentional or knowing touching or fondling of the genitals, anus, or breasts, directly or indirectly, including through clothing, that the petitioner is forced to perform by another person or the respondent;
+
+    d. Any forced display of the petitioner's genitals, anus, or breasts for the purposes of arousal or sexual gratification of the respondent or others;
+
+    e. Any intentional or knowing touching of the clothed or unclothed body of a child under the age of 16, if done for the purpose of sexual gratification or arousal of the respondent or others; or
+
+    f. Any coerced or forced touching or fondling by a child under the age of 16, directly or indirectly, including through clothing, of the genitals, anus, or breasts of the respondent or others.
+
+34. "Sexual penetration" means any contact, however slight, between the sex organ or anus of one person by an object, the sex organ, mouth, or anus of another person, or any intrusion, however slight, of any part of the body of one person or of any animal or object into the sex organ or anus of another person including, but not limited to, cunnilingus, fellatio, or anal penetration. Evidence of emission of semen is not required to prove sexual penetration.
+
+35. "Stalking" means any of the following:
+
+    a. Any act of stalking as defined under RCW 9A.46.110;
+
+    b. Any act of cyberstalking as defined under RCW 9.61.260; or
+
+    c. Any course of conduct involving repeated or continuing contacts, attempts to contact, monitoring, tracking, surveillance, keeping under observation, disrupting activities in a harassing manner, or following of another person that:
+
+        i. Would cause a reasonable person to feel intimidated, frightened, under duress, significantly disrupted, or threatened and that actually causes such a feeling;
+
+        ii. Serves no lawful purpose; and
+
+        iii. The respondent knows, or reasonably should know, threatens, frightens, or intimidates the person, even if the respondent did not intend to intimidate, frighten, or threaten the person.
+
+36. "Temporary protection order" means a protection order that is issued before the court has decided whether to issue a full protection order. "Temporary protection order" includes ex parte temporary protection orders, as well as temporary protection orders that are reissued by the court pending the completion of a full hearing to decide whether to issue a full protection order. An "ex parte temporary protection order" means a temporary protection order that is issued without prior notice to the respondent.
+
+37. "Unlawful harassment" means:
+
+    a. A knowing and willful course of conduct directed at a specific person that seriously alarms, annoys, harasses, or is detrimental to such person, and that serves no legitimate or lawful purpose. The course of conduct must be such as would cause a reasonable person to suffer substantial emotional distress, and must actually cause substantial emotional distress to the petitioner; or
+
+    b. A single act of violence or threat of violence directed at a specific person that seriously alarms, annoys, harasses, or is detrimental to such person, and that serves no legitimate or lawful purpose, which would cause a reasonable person to suffer substantial emotional distress, and must actually cause substantial emotional distress to the petitioner. A single threat of violence must include: (i) A malicious and intentional threat as described in RCW 9A.36.080(1)(c); or (ii) the presence of a firearm or other weapon.
+
+38. "Vulnerable adult" includes a person:
+
+    a. Sixty years of age or older who has the functional, mental, or physical inability to care for himself or herself; or
+
+    b. Found incapacitated under chapter 11.88 RCW; or
+
+    c. Who has a developmental disability as defined under RCW 71A.10.020; or
+
+    d. Admitted to any facility; or
+
+    e. Receiving services from home health, hospice, or home care agencies licensed or required to be licensed under chapter 70.127 RCW; or
+
+    f. Receiving services from a person under contract with the department of social and health services to provide services in the home under chapter 74.09 or 74.39A RCW; or
+
+    g. Who self-directs his or her own care and receives services from a personal aide under chapter 74.39 RCW.
+
 
 ## Section 3
 The legislature finds that there are inconsistencies and differing approaches within existing provisions governing the jurisdictional division of authority and responsibility among superior courts and courts of limited jurisdiction for protection order proceedings addressed by this act. This act retains those jurisdictional differences only as an interim measure, and creates an approach in section 12 of this act to review the existing jurisdictional division, assess the benefits and ramifications of modifying or consolidating jurisdiction for protection orders consistent with the goals of this act of improving efficacy and accessibility, and propose to the legislature provisions to address jurisdiction.
 
+
 ## Section 4
-(1) The superior, district, and municipal courts have jurisdiction over domestic violence protection order proceedings and sexual assault protection order proceedings under this chapter. The jurisdiction of district and municipal courts is limited to enforcement of section 56(1) of this act, or the equivalent municipal ordinance, and the issuance and enforcement of temporary orders for protection provided for in section 38 of this act if:
-(a) A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties;
-(b) The petition for relief under this chapter presents issues of the residential schedule of, and contact with, children of the parties; or
-(c) The petition for relief under this chapter requests the court to exclude a party from the dwelling which the parties share.
-(2) When the jurisdiction of a district or municipal court is limited to the issuance and enforcement of a temporary protection order, the district or municipal court shall set the full hearing in superior court and transfer the case. If the notice and order are not served on the respondent in time for the full hearing, the issuing court shall have concurrent jurisdiction with the superior court to extend the temporary protection order.
+1. The superior, district, and municipal courts have jurisdiction over domestic violence protection order proceedings and sexual assault protection order proceedings under this chapter. The jurisdiction of district and municipal courts is limited to enforcement of section 56(1) of this act, or the equivalent municipal ordinance, and the issuance and enforcement of temporary orders for protection provided for in section 38 of this act if:
+
+    a. A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties;
+
+    b. The petition for relief under this chapter presents issues of the residential schedule of, and contact with, children of the parties; or
+
+    c. The petition for relief under this chapter requests the court to exclude a party from the dwelling which the parties share.
+
+2. When the jurisdiction of a district or municipal court is limited to the issuance and enforcement of a temporary protection order, the district or municipal court shall set the full hearing in superior court and transfer the case. If the notice and order are not served on the respondent in time for the full hearing, the issuing court shall have concurrent jurisdiction with the superior court to extend the temporary protection order.
+
 
 ## Section 5
-(1) The district courts shall have original jurisdiction and cognizance of stalking protection order proceedings brought under this chapter, except a district court shall transfer such actions and proceedings to the superior court when it is shown that:
-(a) The petitioner, victim, or respondent to the petition is under 18 years of age;
-(b) A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
-(c) The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
-(2) Municipal courts may exercise jurisdiction and cognizance of any stalking protection order proceedings brought under this chapter by adoption of local court rule, except a municipal court shall transfer such actions and proceedings to the superior court when it is shown that:
-(a) The petitioner, victim, or respondent to the petition is under 18 years of age;
-(b) A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
-(c) The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
-(3) Superior courts shall have concurrent jurisdiction to receive the transfer of stalking protection order petitions in cases where a district or municipal court judge makes findings of fact and conclusions of law showing that meritorious reasons exist for the transfer. The jurisdiction of district and municipal courts is limited to enforcement of section 56(1) of this act, or the equivalent municipal ordinance, and the issuance and enforcement of temporary protection orders provided for in section 38 of this act if the superior court is exercising jurisdiction over a proceeding under this chapter involving the parties.
+1. The district courts shall have original jurisdiction and cognizance of stalking protection order proceedings brought under this chapter, except a district court shall transfer such actions and proceedings to the superior court when it is shown that:
+
+    a. The petitioner, victim, or respondent to the petition is under 18 years of age;
+
+    b. A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
+
+    c. The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
+
+2. Municipal courts may exercise jurisdiction and cognizance of any stalking protection order proceedings brought under this chapter by adoption of local court rule, except a municipal court shall transfer such actions and proceedings to the superior court when it is shown that:
+
+    a. The petitioner, victim, or respondent to the petition is under 18 years of age;
+
+    b. A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
+
+    c. The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
+
+3. Superior courts shall have concurrent jurisdiction to receive the transfer of stalking protection order petitions in cases where a district or municipal court judge makes findings of fact and conclusions of law showing that meritorious reasons exist for the transfer. The jurisdiction of district and municipal courts is limited to enforcement of section 56(1) of this act, or the equivalent municipal ordinance, and the issuance and enforcement of temporary protection orders provided for in section 38 of this act if the superior court is exercising jurisdiction over a proceeding under this chapter involving the parties.
+
 
 ## Section 6
-(1) The district courts shall have original jurisdiction and cognizance of antiharassment protection order proceedings brought under this chapter, except the district court shall transfer such actions and proceedings to the superior court when it is shown that:
-(a) The respondent to the petition is under 18 years of age;
-(b) A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
-(c) The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
-(2) Municipal courts may exercise jurisdiction and cognizance of antiharassment protection order proceedings brought under this chapter by adoption of local court rule, except the municipal court shall transfer such actions and proceedings to the superior court when it is shown that:
-(a) The respondent to the petition is under 18 years of age;
-(b) A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
-(c) The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
-(3) The civil jurisdiction of district and municipal courts under this section is limited to the issuance and enforcement of temporary protection orders in cases that require transfer to superior court under subsections (1) and (2) of this section. The district or municipal court shall transfer the case to superior court after the temporary protection order is entered.
-(4) Superior courts shall have concurrent jurisdiction to receive transfer of antiharassment petitions in cases where a district or municipal court judge makes findings of fact and conclusions of law showing that meritorious reasons exist for the transfer.
-(5) The municipal and district courts shall have jurisdiction and cognizance of any criminal actions brought under section 57 of this act.
+1. The district courts shall have original jurisdiction and cognizance of antiharassment protection order proceedings brought under this chapter, except the district court shall transfer such actions and proceedings to the superior court when it is shown that:
+
+    a. The respondent to the petition is under 18 years of age;
+
+    b. A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
+
+    c. The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
+
+2. Municipal courts may exercise jurisdiction and cognizance of antiharassment protection order proceedings brought under this chapter by adoption of local court rule, except the municipal court shall transfer such actions and proceedings to the superior court when it is shown that:
+
+    a. The respondent to the petition is under 18 years of age;
+
+    b. A superior court has exercised or is exercising jurisdiction over a proceeding involving the parties; or
+
+    c. The action would have the effect of interfering with a respondent's care, control, or custody of the respondent's minor child.
+
+3. The civil jurisdiction of district and municipal courts under this section is limited to the issuance and enforcement of temporary protection orders in cases that require transfer to superior court under subsections (1) and (2) of this section. The district or municipal court shall transfer the case to superior court after the temporary protection order is entered.
+
+4. Superior courts shall have concurrent jurisdiction to receive transfer of antiharassment petitions in cases where a district or municipal court judge makes findings of fact and conclusions of law showing that meritorious reasons exist for the transfer.
+
+5. The municipal and district courts shall have jurisdiction and cognizance of any criminal actions brought under section 57 of this act.
+
 
 ## Section 7
 The superior courts have jurisdiction over vulnerable adult protection order proceedings under this chapter.
 
+
 ## Section 8
 The superior courts have jurisdiction over extreme risk protection order proceedings under this chapter. The juvenile court may hear an extreme risk protection order proceeding under this chapter if the respondent is under the age of 18 years. Additionally, district and municipal courts have limited jurisdiction over the issuance and enforcement of temporary extreme risk protection orders issued under section 43 of this act. The district or municipal court shall set the full hearing in superior court and transfer the case. If the notice and order are not served on the respondent in time for the full hearing, the issuing court has concurrent jurisdiction with the superior court to extend the temporary extreme risk protection order.
 
+
 ## Section 9
 An action for a protection order should be filed in the county or municipality where the petitioner resides. The petitioner may also file in:
-(1) The county or municipality where an act giving rise to the petition for a protection order occurred;
-(2) The county or municipality where a child to be protected by the order primarily resides;
-(3) The county or municipality where the petitioner resided prior to relocating if relocation was due to the respondent's conduct; or
-(4) The court nearest to the petitioner's residence or former residence under subsection (3) of this section.
+
+1. The county or municipality where an act giving rise to the petition for a protection order occurred;
+
+2. The county or municipality where a child to be protected by the order primarily resides;
+
+3. The county or municipality where the petitioner resided prior to relocating if relocation was due to the respondent's conduct; or
+
+4. The court nearest to the petitioner's residence or former residence under subsection (3) of this section.
+
 
 ## Section 10
-(1) In a proceeding in which a petition for a protection order under this chapter is sought, a court of this state may exercise personal jurisdiction over a nonresident individual if:
-(a) The individual is personally served with a petition within this state;
-(b) The individual submits to the jurisdiction of this state by consent, entering a general appearance, or filing a responsive document having the effect of waiving any objection to consent to personal jurisdiction;
-(c) The act or acts of the individual or the individual's agent giving rise to the petition or enforcement of a protection order occurred within this state;
-(d)(i) The act or acts of the individual or the individual's agent giving rise to the petition or enforcement of a protection order occurred outside this state and are part of an ongoing pattern that has an adverse effect on the petitioner or a member of the petitioner's family or household and the petitioner resides in this state; or
-(ii) As a result of the acts giving rise to the petition or enforcement of a protection order, the petitioner or a member of the petitioner's family or household has sought safety or protection in this state and currently resides in this state; or
-(e) There is any other basis consistent with RCW 4.28.185 or with the Constitutions of this state and the United States.
-(2) For jurisdiction to be exercised under subsection (1)(d) of this section, the individual must have communicated with the petitioner or a member of the petitioner's family, directly or indirectly, or made known a threat to the safety of the petitioner or member of the petitioner's family, while the petitioner or member of the petitioner's family resides in this state.
-(3) For the purposes of this section:
-(a) "Communicated" or "made known" includes the following means: In person, through publication, by mail, telephonically, through an electronic communication site or medium, by text, or through other social media. Communication on any electronic medium that is generally available to any individual residing in the state is sufficient to exercise jurisdiction under subsection (1)(d) of this section.
-(b) An act or acts that "occurred within this state" include an oral or written statement made or published by a person outside of this state to any person in this state by means included in (a) of this subsection, or by means of interstate commerce or foreign commerce.
+1. In a proceeding in which a petition for a protection order under this chapter is sought, a court of this state may exercise personal jurisdiction over a nonresident individual if:
+
+    a. The individual is personally served with a petition within this state;
+
+    b. The individual submits to the jurisdiction of this state by consent, entering a general appearance, or filing a responsive document having the effect of waiving any objection to consent to personal jurisdiction;
+
+    c. The act or acts of the individual or the individual's agent giving rise to the petition or enforcement of a protection order occurred within this state;
+
+    d. [Empty]
+
+        i. The act or acts of the individual or the individual's agent giving rise to the petition or enforcement of a protection order occurred outside this state and are part of an ongoing pattern that has an adverse effect on the petitioner or a member of the petitioner's family or household and the petitioner resides in this state; or
+
+        ii. As a result of the acts giving rise to the petition or enforcement of a protection order, the petitioner or a member of the petitioner's family or household has sought safety or protection in this state and currently resides in this state; or
+
+    e. There is any other basis consistent with RCW 4.28.185 or with the Constitutions of this state and the United States.
+
+2. For jurisdiction to be exercised under subsection (1)(d) of this section, the individual must have communicated with the petitioner or a member of the petitioner's family, directly or indirectly, or made known a threat to the safety of the petitioner or member of the petitioner's family, while the petitioner or member of the petitioner's family resides in this state.
+
+3. For the purposes of this section:
+
+    a. "Communicated" or "made known" includes the following means: In person, through publication, by mail, telephonically, through an electronic communication site or medium, by text, or through other social media. Communication on any electronic medium that is generally available to any individual residing in the state is sufficient to exercise jurisdiction under subsection (1)(d) of this section.
+
+    b. An act or acts that "occurred within this state" include an oral or written statement made or published by a person outside of this state to any person in this state by means included in (a) of this subsection, or by means of interstate commerce or foreign commerce.
+
 
 ## Section 11
 Jurisdictional issues regarding out-of-state proceedings involving the custody or residential placement of any child of the parties are governed by the uniform child custody jurisdiction and enforcement act, chapter 26.27 RCW.
 
+
 ## Section 12
-(1) The administrative office of the courts, through the gender and justice commission of the Washington state supreme court, and with the support of the Washington state women's commission, shall consider and develop recommendations regarding the jurisdictional division of authority and responsibility among superior courts and courts of limited jurisdiction for protection order proceedings, and the differing approaches to jurisdiction among the types of protection orders. The work shall assess whether jurisdiction should be harmonized, modified, or consolidated to further the stated intent of this act. The work shall consider the underlying rationale for the existing jurisdictional division, assess whether the jurisdictional division creates barriers to access, gather data on usage and financial costs or savings, and weigh other relevant benefits and ramifications of modifying or consolidating jurisdiction.
-(2) In developing the recommendations, the gender and justice commission must work with representatives of superior, district, and municipal court judicial officers, court clerks, and administrators, including those with experience in protection order proceedings, as well as advocates and practitioners with expertise in each type of protection order. Participants should include those from both rural and urban jurisdictions.
-(3) The gender and justice commission shall provide a report of its findings and recommendations to the legislature by June 30, 2022.
-(4) This section expires January 1, 2023.
+1. The administrative office of the courts, through the gender and justice commission of the Washington state supreme court, and with the support of the Washington state women's commission, shall consider and develop recommendations regarding the jurisdictional division of authority and responsibility among superior courts and courts of limited jurisdiction for protection order proceedings, and the differing approaches to jurisdiction among the types of protection orders. The work shall assess whether jurisdiction should be harmonized, modified, or consolidated to further the stated intent of this act. The work shall consider the underlying rationale for the existing jurisdictional division, assess whether the jurisdictional division creates barriers to access, gather data on usage and financial costs or savings, and weigh other relevant benefits and ramifications of modifying or consolidating jurisdiction.
+
+2. In developing the recommendations, the gender and justice commission must work with representatives of superior, district, and municipal court judicial officers, court clerks, and administrators, including those with experience in protection order proceedings, as well as advocates and practitioners with expertise in each type of protection order. Participants should include those from both rural and urban jurisdictions.
+
+3. The gender and justice commission shall provide a report of its findings and recommendations to the legislature by June 30, 2022.
+
+4. This section expires January 1, 2023.
+
 
 ## Section 13
-(1) There exists an action known as a petition for a protection order. The following types of petitions for a protection order may be filed:
-(a) A petition for a domestic violence protection order, which must allege the existence of domestic violence committed against the petitioner or petitioners by an intimate partner or a family or household member. The petitioner may petition for relief on behalf of himself or herself and on behalf of family or household members who are minors or vulnerable adults. A petition for a domestic violence protection order must specify whether the petitioner and the respondent are intimate partners or family or household members. A petitioner who has been sexually assaulted or stalked by an intimate partner or a family or household member should, but is not required to, seek a domestic violence protection order, rather than a sexual assault protection order or a stalking protection order.
-(b) A petition for a sexual assault protection order, which must allege the existence of nonconsensual sexual conduct or nonconsensual sexual penetration that was committed against the petitioner by the respondent. A petitioner who has been sexually assaulted by an intimate partner or a family or household member should, but is not required to, seek a domestic violence protection order, rather than a sexual assault protection order. A single incident of nonconsensual sexual conduct or nonconsensual sexual penetration is sufficient grounds for a petition for a sexual assault protection order. The petitioner may petition for a sexual assault protection order on behalf of:
-(i) Himself or herself;
-(ii) A minor child, where the petitioner is the parent, legal guardian, or custodian;
-(iii) A vulnerable adult, where the petitioner is an interested person; or 
-(iv) Any other adult for whom the petitioner demonstrates to the court's satisfaction that the petitioner is interested in the adult's well-being, the court's intervention is necessary, and the adult cannot file the petition because of age, disability, health, or inaccessibility.
-(c) A petition for a stalking protection order, which must allege the existence of stalking committed against the petitioner or petitioners by the respondent. A petitioner who has been stalked by an intimate partner or a family or household member should, but is not required to, seek a domestic violence protection order, rather than a stalking protection order. The petitioner may petition for a stalking protection order on behalf of:
-(i) Himself or herself;
-(ii) A minor child, where the petitioner is the parent, legal guardian, or custodian;
-(iii) A vulnerable adult, where the petitioner is an interested person; or
-(iv) Any other adult for whom the petitioner demonstrates to the court's satisfaction that the petitioner is interested in the adult's well-being, the court's intervention is necessary, and the adult cannot file the petition because of age, disability, health, or inaccessibility.
-(d) A petition for a vulnerable adult protection order, which must allege that the petitioner, or person on whose behalf the petition is brought, is a vulnerable adult and that the petitioner, or person on whose behalf the petition is brought, has been abandoned, abused, financially exploited, or neglected, or is threatened with abandonment, abuse, financial exploitation, or neglect by the respondent. If the petition is filed by an interested person, the affidavit or declaration must also include a statement of why the petitioner qualifies as an interested person.
-(e) A petition for an extreme risk protection order, which must allege that the respondent poses a significant danger of causing personal injury to self or others by having in the respondent's custody or control, purchasing, possessing, accessing, receiving, or attempting to purchase or receive, a firearm. The petition must also identify the number, types, and locations of any firearms the petitioner believes to be in the respondent's current ownership, possession, custody, access, or control. A petition for an extreme risk protection order may be filed by (i) an intimate partner or a family or household member of the respondent; or (ii) a law enforcement agency.
-(f) A petition for an antiharassment protection order, which must allege the existence of unlawful harassment committed against the petitioner or petitioners by the respondent. If a petitioner is seeking relief based on domestic violence, nonconsensual sexual conduct, nonconsensual sexual penetration, or stalking, the petitioner may, but is not required to, seek a domestic violence, sexual assault, or stalking protection order, rather than an antiharassment order. The petitioner may petition for an antiharassment protection order on behalf of:
-(i) Himself or herself;
-(ii) A minor child, where the petitioner is the parent, legal guardian, or custodian;
-(iii) A vulnerable adult, where the petitioner is an interested person; or
-(iv) Any other adult for whom the petitioner demonstrates to the court's satisfaction that the petitioner is interested in the adult's well-being, the court's intervention is necessary, and the adult cannot file the petition because of age, disability, health, or inaccessibility.
-(2) With the exception of vulnerable adult protection orders, a person under 18 years of age who is 15 years of age or older may seek relief under this chapter as a petitioner and is not required to seek relief through a petition filed on his or her behalf. He or she may also petition on behalf of a family or household member who is a minor if chosen by the minor and capable of pursuing the minor's stated interest in the action.
-(3) A person under 15 years of age who is seeking relief under this chapter is required to seek relief by a person authorized as a petitioner under this section.
-(4) A petition for any type of protection order must not be dismissed or denied on the basis that the conduct alleged by the petitioner would meet the criteria for the issuance of another type of protection order.
-(5) The protection order petition must contain a section where the petitioner, regardless of petition type, may request specific relief provided for in section 39 of this act that the petitioner seeks for himself or herself or for family or household members who are minors. The totality of selected relief, and any other relief the court deems appropriate for the petitioner, or family or household members who are minors, must be considered at the time of entry of temporary protection orders and at the time of entry of full protection orders.
-(6) If a court reviewing the petition for a protection order or a request for a temporary protection order determines that the petition was not filed in the correct court, the court shall enter findings establishing the correct court, and direct the clerk to transfer the petition to the correct court and to provide notice of the transfer to all parties who have appeared.
-(7) Upon filing a petition for a protection order, the petitioner may request that the court enter an ex parte temporary protection order until a hearing on a full protection order may be held. An ex parte temporary protection order shall be effective for a fixed period of time and shall be issued initially for a period not to exceed 14 days.
-(8) The court may, at its discretion, issue a temporary order on the petition with or without a hearing. If an order is not signed upon presentation, the court shall set a hearing for a full protection order not later than 14 days from the date of the filing of the petition for a protection order, if the petition for a protection order is filed before close of business on a judicial day. If a petition for a protection order is filed after close of business on a judicial day or is filed on a nonjudicial day, the court shall set a hearing for a full protection order not later than 14 days from the first judicial day after the petition is filed.
+1. There exists an action known as a petition for a protection order. The following types of petitions for a protection order may be filed:
+
+    a. A petition for a domestic violence protection order, which must allege the existence of domestic violence committed against the petitioner or petitioners by an intimate partner or a family or household member. The petitioner may petition for relief on behalf of himself or herself and on behalf of family or household members who are minors or vulnerable adults. A petition for a domestic violence protection order must specify whether the petitioner and the respondent are intimate partners or family or household members. A petitioner who has been sexually assaulted or stalked by an intimate partner or a family or household member should, but is not required to, seek a domestic violence protection order, rather than a sexual assault protection order or a stalking protection order.
+
+    b. A petition for a sexual assault protection order, which must allege the existence of nonconsensual sexual conduct or nonconsensual sexual penetration that was committed against the petitioner by the respondent. A petitioner who has been sexually assaulted by an intimate partner or a family or household member should, but is not required to, seek a domestic violence protection order, rather than a sexual assault protection order. A single incident of nonconsensual sexual conduct or nonconsensual sexual penetration is sufficient grounds for a petition for a sexual assault protection order. The petitioner may petition for a sexual assault protection order on behalf of:
+
+        i. Himself or herself;
+
+        ii. A minor child, where the petitioner is the parent, legal guardian, or custodian;
+
+        iii. A vulnerable adult, where the petitioner is an interested person; or
+
+        iv. Any other adult for whom the petitioner demonstrates to the court's satisfaction that the petitioner is interested in the adult's well-being, the court's intervention is necessary, and the adult cannot file the petition because of age, disability, health, or inaccessibility.
+
+    c. A petition for a stalking protection order, which must allege the existence of stalking committed against the petitioner or petitioners by the respondent. A petitioner who has been stalked by an intimate partner or a family or household member should, but is not required to, seek a domestic violence protection order, rather than a stalking protection order. The petitioner may petition for a stalking protection order on behalf of:
+
+        i. Himself or herself;
+
+        ii. A minor child, where the petitioner is the parent, legal guardian, or custodian;
+
+        iii. A vulnerable adult, where the petitioner is an interested person; or
+
+        iv. Any other adult for whom the petitioner demonstrates to the court's satisfaction that the petitioner is interested in the adult's well-being, the court's intervention is necessary, and the adult cannot file the petition because of age, disability, health, or inaccessibility.
+
+    d. A petition for a vulnerable adult protection order, which must allege that the petitioner, or person on whose behalf the petition is brought, is a vulnerable adult and that the petitioner, or person on whose behalf the petition is brought, has been abandoned, abused, financially exploited, or neglected, or is threatened with abandonment, abuse, financial exploitation, or neglect by the respondent. If the petition is filed by an interested person, the affidavit or declaration must also include a statement of why the petitioner qualifies as an interested person.
+
+    e. A petition for an extreme risk protection order, which must allege that the respondent poses a significant danger of causing personal injury to self or others by having in the respondent's custody or control, purchasing, possessing, accessing, receiving, or attempting to purchase or receive, a firearm. The petition must also identify the number, types, and locations of any firearms the petitioner believes to be in the respondent's current ownership, possession, custody, access, or control. A petition for an extreme risk protection order may be filed by (i) an intimate partner or a family or household member of the respondent; or (ii) a law enforcement agency.
+
+    f. A petition for an antiharassment protection order, which must allege the existence of unlawful harassment committed against the petitioner or petitioners by the respondent. If a petitioner is seeking relief based on domestic violence, nonconsensual sexual conduct, nonconsensual sexual penetration, or stalking, the petitioner may, but is not required to, seek a domestic violence, sexual assault, or stalking protection order, rather than an antiharassment order. The petitioner may petition for an antiharassment protection order on behalf of:
+
+        i. Himself or herself;
+
+        ii. A minor child, where the petitioner is the parent, legal guardian, or custodian;
+
+        iii. A vulnerable adult, where the petitioner is an interested person; or
+
+        iv. Any other adult for whom the petitioner demonstrates to the court's satisfaction that the petitioner is interested in the adult's well-being, the court's intervention is necessary, and the adult cannot file the petition because of age, disability, health, or inaccessibility.
+
+2. With the exception of vulnerable adult protection orders, a person under 18 years of age who is 15 years of age or older may seek relief under this chapter as a petitioner and is not required to seek relief through a petition filed on his or her behalf. He or she may also petition on behalf of a family or household member who is a minor if chosen by the minor and capable of pursuing the minor's stated interest in the action.
+
+3. A person under 15 years of age who is seeking relief under this chapter is required to seek relief by a person authorized as a petitioner under this section.
+
+4. A petition for any type of protection order must not be dismissed or denied on the basis that the conduct alleged by the petitioner would meet the criteria for the issuance of another type of protection order.
+
+5. The protection order petition must contain a section where the petitioner, regardless of petition type, may request specific relief provided for in section 39 of this act that the petitioner seeks for himself or herself or for family or household members who are minors. The totality of selected relief, and any other relief the court deems appropriate for the petitioner, or family or household members who are minors, must be considered at the time of entry of temporary protection orders and at the time of entry of full protection orders.
+
+6. If a court reviewing the petition for a protection order or a request for a temporary protection order determines that the petition was not filed in the correct court, the court shall enter findings establishing the correct court, and direct the clerk to transfer the petition to the correct court and to provide notice of the transfer to all parties who have appeared.
+
+7. Upon filing a petition for a protection order, the petitioner may request that the court enter an ex parte temporary protection order until a hearing on a full protection order may be held. An ex parte temporary protection order shall be effective for a fixed period of time and shall be issued initially for a period not to exceed 14 days.
+
+8. The court may, at its discretion, issue a temporary order on the petition with or without a hearing. If an order is not signed upon presentation, the court shall set a hearing for a full protection order not later than 14 days from the date of the filing of the petition for a protection order, if the petition for a protection order is filed before close of business on a judicial day. If a petition for a protection order is filed after close of business on a judicial day or is filed on a nonjudicial day, the court shall set a hearing for a full protection order not later than 14 days from the first judicial day after the petition is filed.
+
 
 ## Section 14
 The following apply to all petitions for protection orders under this chapter.
-(1)(a) Courts in all municipalities and counties must permit petitions for protection orders and all other filings in connection with the petition to be filed either: (i) In person; (ii) remotely through an electronic filing system that is accessible on the websites of every court clerk and through the website for the Washington state courts, or through the use of an alternative online portal; or (iii) by mail for persons who are incarcerated or who are otherwise unable to file in person or remotely through an electronic filing system. 
-(b) Electronic filings for protection orders may be made at any time of the day. The electronic filing system should allow for auto-enrollment of the petitioner to electronically track the progress of the petition for a protection order. The electronic filing system should allow for text messaging or email notification alerting the petitioner once the petition has been processed and is under review by a judicial officer; when the order has been signed, entered into the Washington crime information center system, and served upon the respondent; when the firearms have been removed and returned; and reminders for court appearances. Respondents, once served, should be able to sign up for similar electronic notification. The electronic filing system must grant access to the parties and any attorneys of record without charge.
-(2) The petition must be accompanied by a confidential document to be used by the courts and law enforcement to fully identify the parties and serve the respondent. This record will be exempt from public disclosure at all times, and restricted access to this form is governed by general rule 22 provisions governing access to the confidential information form. The petitioner is required to fill out the confidential party information form to the petitioner's fullest ability. The respondent must be served with a blank confidential party information form, and when the respondent first appears, the respondent must confirm with the court the respondent's identifying and current contact information, including electronic means of contact, and file this with the court.
-(3) A petition must be accompanied by a declaration signed under penalty of perjury stating the specific facts and circumstances for which relief is sought. Parties, attorneys, and witnesses may electronically sign sworn statements in all filings.
-(4) The petitioner and the respondent must disclose the existence of any other litigation or of any other restraining, protection, or no-contact orders between the parties, to the extent that such information is known by the petitioner and the respondent. To the extent possible, the court shall take judicial notice of any existing restraining, protection, or no-contact orders between the parties before entering a protection order. The court shall not include provisions in a protection order that would allow the respondent to engage in conduct that is prohibited by another restraining, protection, or no-contact order between the parties that was entered in a different proceeding. The obligation to disclose the existence of any other litigation includes, but is not limited to, the existence of any other litigation concerning the custody or residential placement of a child of the parties as set forth in RCW 26.27.281. The court administrator shall verify for the court the terms of any existing protection order governing the parties.
-(5) The petition may be made regardless of whether or not there is a pending lawsuit, complaint, petition, or other action between the parties, except in cases where the court has realigned the parties in accordance with section 26 of this act.
-(6) Relief under this chapter must not be denied or delayed on the grounds that the relief is available in another action. The court shall not defer acting on a petition for a protection order nor grant a petitioner less than the full relief that the petitioner is otherwise entitled to under this chapter because there is, or could be, another proceeding involving the parties including, but not limited to, any potential or pending family law matter or criminal matter.
-(7) A person's right to petition for relief under this chapter is not affected by the person leaving his or her residence or household.
-(8) A petitioner is not required to post a bond to obtain relief in any proceeding for a protection order.
-(9) No fees for any type of filing or service of process may be charged by a court or any public agency to petitioners seeking relief under this chapter. Courts may not charge petitioners any fees or surcharges the payment of which is a condition precedent to the petitioner's ability to secure access to relief under this chapter. Petitioners shall be provided the necessary number of certified copies, forms, and instructional brochures free of charge. A respondent who is served electronically with a protection order shall be provided a certified copy of the order free of charge upon request.
-(10) If the petition states that disclosure of the petitioner's address or other identifying location information would risk harm to the petitioner or any member of the petitioner's family or household, that address may be omitted from all documents filed with the court. If the petitioner has not disclosed an address under this subsection, the petitioner shall designate an alternative address or email address at which the respondent may serve the petitioner.
-(11) If the court deems it necessary, the court may appoint a guardian ad litem for a petitioner or for a respondent who is under 18 years of age and who is not represented by counsel. If a guardian ad litem is appointed by the court for either or both parties, neither the petitioner nor the respondent shall be required by the court to pay any costs associated with the appointment.
-(12) Minor children must only be referred to in the petition and in all other publicly available filed documents by their initials and date of birth. Any orders issued by the court for entry into a law enforcement database must show the minor's full name for purposes of identification, but be redacted to only display initials and date of birth for purposes of public access.
-(13) If a petitioner has requested an ex parte temporary protection order, because these are often emergent situations, the court shall prioritize review, either entering an order without a hearing or scheduling and holding an ex parte hearing in person, by telephone, by video, or by other electronic means on the day the petition is filed if possible. Otherwise, it must be heard no later than the following judicial day. The clerk shall ensure that the request for an ex parte temporary protection order is presented timely to a judicial officer, and signed orders will be returned promptly to the clerk for entry and to the petitioner as specified in this section.
-(14) Courts shall not require a petitioner to file duplicative forms.
-(15) The Indian child welfare act applies in the following manner.
-(a) In a proceeding under this chapter where the petitioner seeks to protect a minor and the petitioner is not the minor's parent as defined by RCW 13.38.040, the petition must contain a statement alleging whether the minor is or may be an Indian child as defined in RCW 13.38.040. If the minor is an Indian child, chapter 13.38 RCW and the federal Indian child welfare act, 25 U.S.C. Sec. 1901 et seq., shall apply. A party should allege in the petition if these laws have been satisfied in a prior proceeding and identify the proceeding.
-(b) Every order entered in any proceeding under this chapter where the petitioner is not a parent of the minor or minors protected by the order must contain a finding that the federal Indian child welfare act or chapter 13.38 RCW does or does not apply, or if there is insufficient information to make a determination, the court must make a finding that a determination must be made before a full protection order may be entered. If there is reason to know the child is an Indian child, but the court does not have sufficient evidence to determine that the child is or is not an Indian child, 25 C.F.R. Sec. 23.107(b) applies. Where there is a finding that the federal Indian child welfare act or chapter 13.38 RCW does apply, the order must also contain a finding that all notice, evidentiary requirements, and placement preferences under the federal Indian child welfare act and chapter 13.38 RCW have been satisfied, or a finding that removal or placement of the child is necessary to prevent imminent physical damage or harm to the child pursuant to 25 U.S.C. Sec. 1922 and RCW 13.38.140. Where there is a finding that the federal Indian child welfare act or chapter 13.38 RCW does not apply, the order must also contain a finding as to why there is no reason to know the child may be an Indian child.
+
+1. [Empty]
+
+    a. Courts in all municipalities and counties must permit petitions for protection orders and all other filings in connection with the petition to be filed either: (i) In person; (ii) remotely through an electronic filing system that is accessible on the websites of every court clerk and through the website for the Washington state courts, or through the use of an alternative online portal; or (iii) by mail for persons who are incarcerated or who are otherwise unable to file in person or remotely through an electronic filing system.
+
+    b. Electronic filings for protection orders may be made at any time of the day. The electronic filing system should allow for auto-enrollment of the petitioner to electronically track the progress of the petition for a protection order. The electronic filing system should allow for text messaging or email notification alerting the petitioner once the petition has been processed and is under review by a judicial officer; when the order has been signed, entered into the Washington crime information center system, and served upon the respondent; when the firearms have been removed and returned; and reminders for court appearances. Respondents, once served, should be able to sign up for similar electronic notification. The electronic filing system must grant access to the parties and any attorneys of record without charge.
+
+2. The petition must be accompanied by a confidential document to be used by the courts and law enforcement to fully identify the parties and serve the respondent. This record will be exempt from public disclosure at all times, and restricted access to this form is governed by general rule 22 provisions governing access to the confidential information form. The petitioner is required to fill out the confidential party information form to the petitioner's fullest ability. The respondent must be served with a blank confidential party information form, and when the respondent first appears, the respondent must confirm with the court the respondent's identifying and current contact information, including electronic means of contact, and file this with the court.
+
+3. A petition must be accompanied by a declaration signed under penalty of perjury stating the specific facts and circumstances for which relief is sought. Parties, attorneys, and witnesses may electronically sign sworn statements in all filings.
+
+4. The petitioner and the respondent must disclose the existence of any other litigation or of any other restraining, protection, or no-contact orders between the parties, to the extent that such information is known by the petitioner and the respondent. To the extent possible, the court shall take judicial notice of any existing restraining, protection, or no-contact orders between the parties before entering a protection order. The court shall not include provisions in a protection order that would allow the respondent to engage in conduct that is prohibited by another restraining, protection, or no-contact order between the parties that was entered in a different proceeding. The obligation to disclose the existence of any other litigation includes, but is not limited to, the existence of any other litigation concerning the custody or residential placement of a child of the parties as set forth in RCW 26.27.281. The court administrator shall verify for the court the terms of any existing protection order governing the parties.
+
+5. The petition may be made regardless of whether or not there is a pending lawsuit, complaint, petition, or other action between the parties, except in cases where the court has realigned the parties in accordance with section 26 of this act.
+
+6. Relief under this chapter must not be denied or delayed on the grounds that the relief is available in another action. The court shall not defer acting on a petition for a protection order nor grant a petitioner less than the full relief that the petitioner is otherwise entitled to under this chapter because there is, or could be, another proceeding involving the parties including, but not limited to, any potential or pending family law matter or criminal matter.
+
+7. A person's right to petition for relief under this chapter is not affected by the person leaving his or her residence or household.
+
+8. A petitioner is not required to post a bond to obtain relief in any proceeding for a protection order.
+
+9. No fees for any type of filing or service of process may be charged by a court or any public agency to petitioners seeking relief under this chapter. Courts may not charge petitioners any fees or surcharges the payment of which is a condition precedent to the petitioner's ability to secure access to relief under this chapter. Petitioners shall be provided the necessary number of certified copies, forms, and instructional brochures free of charge. A respondent who is served electronically with a protection order shall be provided a certified copy of the order free of charge upon request.
+
+10. If the petition states that disclosure of the petitioner's address or other identifying location information would risk harm to the petitioner or any member of the petitioner's family or household, that address may be omitted from all documents filed with the court. If the petitioner has not disclosed an address under this subsection, the petitioner shall designate an alternative address or email address at which the respondent may serve the petitioner.
+
+11. If the court deems it necessary, the court may appoint a guardian ad litem for a petitioner or for a respondent who is under 18 years of age and who is not represented by counsel. If a guardian ad litem is appointed by the court for either or both parties, neither the petitioner nor the respondent shall be required by the court to pay any costs associated with the appointment.
+
+12. Minor children must only be referred to in the petition and in all other publicly available filed documents by their initials and date of birth. Any orders issued by the court for entry into a law enforcement database must show the minor's full name for purposes of identification, but be redacted to only display initials and date of birth for purposes of public access.
+
+13. If a petitioner has requested an ex parte temporary protection order, because these are often emergent situations, the court shall prioritize review, either entering an order without a hearing or scheduling and holding an ex parte hearing in person, by telephone, by video, or by other electronic means on the day the petition is filed if possible. Otherwise, it must be heard no later than the following judicial day. The clerk shall ensure that the request for an ex parte temporary protection order is presented timely to a judicial officer, and signed orders will be returned promptly to the clerk for entry and to the petitioner as specified in this section.
+
+14. Courts shall not require a petitioner to file duplicative forms.
+
+15. The Indian child welfare act applies in the following manner.
+
+    a. In a proceeding under this chapter where the petitioner seeks to protect a minor and the petitioner is not the minor's parent as defined by RCW 13.38.040, the petition must contain a statement alleging whether the minor is or may be an Indian child as defined in RCW 13.38.040. If the minor is an Indian child, chapter 13.38 RCW and the federal Indian child welfare act, 25 U.S.C. Sec. 1901 et seq., shall apply. A party should allege in the petition if these laws have been satisfied in a prior proceeding and identify the proceeding.
+
+    b. Every order entered in any proceeding under this chapter where the petitioner is not a parent of the minor or minors protected by the order must contain a finding that the federal Indian child welfare act or chapter 13.38 RCW does or does not apply, or if there is insufficient information to make a determination, the court must make a finding that a determination must be made before a full protection order may be entered. If there is reason to know the child is an Indian child, but the court does not have sufficient evidence to determine that the child is or is not an Indian child, 25 C.F.R. Sec. 23.107(b) applies. Where there is a finding that the federal Indian child welfare act or chapter 13.38 RCW does apply, the order must also contain a finding that all notice, evidentiary requirements, and placement preferences under the federal Indian child welfare act and chapter 13.38 RCW have been satisfied, or a finding that removal or placement of the child is necessary to prevent imminent physical damage or harm to the child pursuant to 25 U.S.C. Sec. 1922 and RCW 13.38.140. Where there is a finding that the federal Indian child welfare act or chapter 13.38 RCW does not apply, the order must also contain a finding as to why there is no reason to know the child may be an Indian child.
+
 
 ## Section 15
 The following apply only to the specific type of protection orders referenced in each subsection.
-(1) The department of social and health services, in its discretion, may file a petition for a vulnerable adult protection order or a domestic violence protection order on behalf of, and with the consent of, any vulnerable adult. When the department has reason to believe a vulnerable adult lacks the ability or capacity to consent, the department, in its discretion, may seek relief on behalf of the vulnerable adult. Neither the department nor the state of Washington is liable for seeking or failing to seek relief on behalf of any persons under this section. The vulnerable adult shall not be held responsible for any violations of the order by the respondent.
-(2)(a) If the petitioner for an extreme risk protection order is a law enforcement agency, the petitioner shall make a good faith effort to provide notice to an intimate partner or family or household member of the respondent and to any known third party who may be at risk of violence. The notice must state that the petitioner intends to petition the court for an extreme risk protection order or has already done so, and include referrals to appropriate resources, including behavioral health, domestic violence, and counseling resources. The petitioner must attest in the petition to having provided such notice, or attest to the steps that will be taken to provide such notice.
-(b) Recognizing that an extreme risk protection order may need to be issued outside of normal business hours, courts shall allow law enforcement petitioners to petition after hours for a temporary extreme risk protection order using an on-call, after-hours judge, as is done for approval of after-hours search warrants.
+
+1. The department of social and health services, in its discretion, may file a petition for a vulnerable adult protection order or a domestic violence protection order on behalf of, and with the consent of, any vulnerable adult. When the department has reason to believe a vulnerable adult lacks the ability or capacity to consent, the department, in its discretion, may seek relief on behalf of the vulnerable adult. Neither the department nor the state of Washington is liable for seeking or failing to seek relief on behalf of any persons under this section. The vulnerable adult shall not be held responsible for any violations of the order by the respondent.
+
+2. [Empty]
+
+    a. If the petitioner for an extreme risk protection order is a law enforcement agency, the petitioner shall make a good faith effort to provide notice to an intimate partner or family or household member of the respondent and to any known third party who may be at risk of violence. The notice must state that the petitioner intends to petition the court for an extreme risk protection order or has already done so, and include referrals to appropriate resources, including behavioral health, domestic violence, and counseling resources. The petitioner must attest in the petition to having provided such notice, or attest to the steps that will be taken to provide such notice.
+
+    b. Recognizing that an extreme risk protection order may need to be issued outside of normal business hours, courts shall allow law enforcement petitioners to petition after hours for a temporary extreme risk protection order using an on-call, after-hours judge, as is done for approval of after-hours search warrants.
+
 
 ## Section 16
-(1) The administrative office of the courts shall:
-(a) By the effective date of this section, develop and distribute standard forms for petitions and orders issued under this chapter, and facilitate the use of online forms for electronic filings.
-(i) For all protection orders except extreme risk protection orders, the protection order must include, in a conspicuous location, a notice of criminal penalties resulting from a violation of the order, and the following statement: "You can be arrested even if the protected person or persons invite or allow you to violate the order. You alone are responsible for following the order. Only the court may change the order. Requests for changes must be made in writing."
-(ii) For extreme risk protection orders, the protection order must include, in a conspicuous location, a notice of criminal penalties resulting from a violation of the order, and the following statement: "You have the sole responsibility to avoid or refrain from violating this order's provisions. Only the court may change the order. Requests for changes must be made in writing.";
-(b) By the effective date of this section, develop and distribute instructions and informational brochures regarding protection orders and a court staff handbook on the protection order process, which shall be made available online to view and download at no cost. Developing additional methods to inform the public about protection orders in understandable terms and in languages other than English through videos and social media should also be considered. The instructions, brochures, forms, and handbook must be prepared in consultation with civil legal aid, culturally specific advocacy programs, and domestic violence and sexual assault advocacy programs. The instructions must be designed to assist petitioners in completing the petition, and must include a sample of standard petition and protection order forms. The instructions and standard petition must include a means for the petitioner to identify, with only lay knowledge, the firearms the respondent may own, possess, receive, have access to, or have in the respondent's custody or control. The instructions must provide pictures of types of firearms that the petitioner may choose from to identify the relevant firearms, or an equivalent means to allow petitioners to identify firearms without requiring specific or technical knowledge regarding the firearms. The court staff handbook must allow for the addition of a community resource list by the court clerk. The informational brochure must describe the use of, and the process for, obtaining, renewing, modifying, terminating, and enforcing protection orders as provided under this chapter, as well as the process for obtaining, modifying, terminating, and enforcing an antiharassment no-contact order as provided under chapter 9A.46 RCW, a domestic violence no-contact order as provided under chapter 10.99 RCW, a restraining order as provided under chapters 26.09, 26.26A, 26.26B, and 26.44 RCW, a foreign protection order as defined in chapter 26.52 RCW, and a Canadian domestic violence protection order as defined in RCW 26.55.010;
-(c) Determine the significant non-English-speaking or limited English-speaking populations in the state. The administrative office of the courts shall then arrange for translation of the instructions and informational brochures required by this section, which must contain a sample of the standard petition and protection order forms, into the languages spoken by at least the top five significant non-English-speaking populations, and shall distribute a master copy of the translated instructions and informational brochures to all court clerks and to the Washington supreme court's interpreter commission, minority and justice commission, and gender and justice commission by the effective date of this section. Such materials must be updated and distributed if needed due to relevant changes in the law;
-(d)(i) Distribute a master copy of the petition and order forms, instructions, and informational brochures to all court clerks, and distribute a master copy of the petition and order forms to all superior, district, and municipal courts;
-(ii) By June 30, 2022, in collaboration with civil legal aid attorneys, domestic violence advocates, sexual assault advocates, elder abuse advocates, clerks, and judicial officers, develop and distribute a single petition form that a petitioner may use to file for any type of protection order authorized by this chapter, with the exception of extreme risk protection orders;
-(iii) For extreme risk protection orders, develop and prepare:
+1. The administrative office of the courts shall:
+
+    a. By the effective date of this section, develop and distribute standard forms for petitions and orders issued under this chapter, and facilitate the use of online forms for electronic filings.
+
+        i. For all protection orders except extreme risk protection orders, the protection order must include, in a conspicuous location, a notice of criminal penalties resulting from a violation of the order, and the following statement: "You can be arrested even if the protected person or persons invite or allow you to violate the order. You alone are responsible for following the order. Only the court may change the order. Requests for changes must be made in writing."
+
+        ii. For extreme risk protection orders, the protection order must include, in a conspicuous location, a notice of criminal penalties resulting from a violation of the order, and the following statement: "You have the sole responsibility to avoid or refrain from violating this order's provisions. Only the court may change the order. Requests for changes must be made in writing.";
+
+    b. By the effective date of this section, develop and distribute instructions and informational brochures regarding protection orders and a court staff handbook on the protection order process, which shall be made available online to view and download at no cost. Developing additional methods to inform the public about protection orders in understandable terms and in languages other than English through videos and social media should also be considered. The instructions, brochures, forms, and handbook must be prepared in consultation with civil legal aid, culturally specific advocacy programs, and domestic violence and sexual assault advocacy programs. The instructions must be designed to assist petitioners in completing the petition, and must include a sample of standard petition and protection order forms. The instructions and standard petition must include a means for the petitioner to identify, with only lay knowledge, the firearms the respondent may own, possess, receive, have access to, or have in the respondent's custody or control. The instructions must provide pictures of types of firearms that the petitioner may choose from to identify the relevant firearms, or an equivalent means to allow petitioners to identify firearms without requiring specific or technical knowledge regarding the firearms. The court staff handbook must allow for the addition of a community resource list by the court clerk. The informational brochure must describe the use of, and the process for, obtaining, renewing, modifying, terminating, and enforcing protection orders as provided under this chapter, as well as the process for obtaining, modifying, terminating, and enforcing an antiharassment no-contact order as provided under chapter 9A.46 RCW, a domestic violence no-contact order as provided under chapter 10.99 RCW, a restraining order as provided under chapters 26.09, 26.26A, 26.26B, and 26.44 RCW, a foreign protection order as defined in chapter 26.52 RCW, and a Canadian domestic violence protection order as defined in RCW 26.55.010;
+
+    c. Determine the significant non-English-speaking or limited English-speaking populations in the state. The administrative office of the courts shall then arrange for translation of the instructions and informational brochures required by this section, which must contain a sample of the standard petition and protection order forms, into the languages spoken by at least the top five significant non-English-speaking populations, and shall distribute a master copy of the translated instructions and informational brochures to all court clerks and to the Washington supreme court's interpreter commission, minority and justice commission, and gender and justice commission by the effective date of this section. Such materials must be updated and distributed if needed due to relevant changes in the law;
+
+    d. [Empty]
+
+        i. Distribute a master copy of the petition and order forms, instructions, and informational brochures to all court clerks, and distribute a master copy of the petition and order forms to all superior, district, and municipal courts;
+
+        ii. By June 30, 2022, in collaboration with civil legal aid attorneys, domestic violence advocates, sexual assault advocates, elder abuse advocates, clerks, and judicial officers, develop and distribute a single petition form that a petitioner may use to file for any type of protection order authorized by this chapter, with the exception of extreme risk protection orders;
+
+        iii. For extreme risk protection orders, develop and prepare:
+
 (A) A standard petition and order form for an extreme risk protection order, as well as a standard petition and order form for an extreme risk protection order sought against a respondent under 18 years of age, titled "Extreme Risk Protection Order - Respondent Under 18 Years";
+
 (B) Pattern forms to assist in streamlining the process for those persons who are eligible to seal records relating to an order under (d)(i) of this subsection, including:
+
 (I) A petition and declaration the respondent can complete to ensure that requirements for public sealing have been met; and
+
 (II) An order sealing the court records relating to that order; and
+
 (C) An informational brochure to be served on any respondent who is subject to a temporary or full protection order under (d)(iii)(A) of this subsection;
-(e) Create a new confidential party information form to satisfy the purposes of the confidential information form and the law enforcement information sheet that will serve both the court's and law enforcement's data entry needs without requiring a redundant effort for the petitioner, and ensure the petitioner's confidential information is protected for the purpose of safety. The form should be created with the presumption that it will also be used by the respondent to provide all current contact information needed by the court and law enforcement, and full identifying information for improved data entry. The form should also prompt the petitioner to disclose on the form whether the person who the petitioner is seeking to restrain has a disability, brain injury, or impairment requiring special assistance; and
-(f) Update the instructions, brochures, standard petition and order for protection forms, and court staff handbook when changes in the law make an update necessary.
-(2) The administrative office of the courts, through the gender and justice commission of the Washington state supreme court, and with the support of the Washington state women's commission, shall work with representatives of superior, district, and municipal court judicial officers, court clerks, and administrators, including those with experience in protection order proceedings, as well as advocates and practitioners with expertise in each type of protection order, and others with relevant expertise, to develop recommendations for the legislature by June 30, 2022, on the following matters:
-(a) Standards for filing evidence in protection order proceedings in a manner that protects victim safety and privacy, including evidence in the form of text messages, social media messages, voice mails, and other recordings, and the development of a sealed cover sheet for explicit or intimate images and recordings; and
-(b) Requirements for private vendors who provide services related to filing systems for protection orders, as well as what data should be collected.
+
+    e. Create a new confidential party information form to satisfy the purposes of the confidential information form and the law enforcement information sheet that will serve both the court's and law enforcement's data entry needs without requiring a redundant effort for the petitioner, and ensure the petitioner's confidential information is protected for the purpose of safety. The form should be created with the presumption that it will also be used by the respondent to provide all current contact information needed by the court and law enforcement, and full identifying information for improved data entry. The form should also prompt the petitioner to disclose on the form whether the person who the petitioner is seeking to restrain has a disability, brain injury, or impairment requiring special assistance; and
+
+    f. Update the instructions, brochures, standard petition and order for protection forms, and court staff handbook when changes in the law make an update necessary.
+
+2. The administrative office of the courts, through the gender and justice commission of the Washington state supreme court, and with the support of the Washington state women's commission, shall work with representatives of superior, district, and municipal court judicial officers, court clerks, and administrators, including those with experience in protection order proceedings, as well as advocates and practitioners with expertise in each type of protection order, and others with relevant expertise, to develop recommendations for the legislature by June 30, 2022, on the following matters:
+
+    a. Standards for filing evidence in protection order proceedings in a manner that protects victim safety and privacy, including evidence in the form of text messages, social media messages, voice mails, and other recordings, and the development of a sealed cover sheet for explicit or intimate images and recordings; and
+
+    b. Requirements for private vendors who provide services related to filing systems for protection orders, as well as what data should be collected.
+
 
 ## Section 17
-(1) All court clerks' offices shall make available the standardized forms, instructions, and informational brochures required by this chapter, and shall fill in and keep current specific program names and telephone numbers for community resources, including civil legal aid and volunteer lawyer programs. Any assistance or information provided by clerks under this chapter, or any assistance or information provided by any person, including court clerks, employees of the department of social and health services, and other court facilitators, to complete the forms provided by the court, does not constitute the practice of law, and clerks are not responsible for incorrect information contained in a petition.
-(2) All court clerks shall obtain community resource lists as described in (a) and (b) of this subsection, which the court shall make available as part of, or in addition to, the informational brochures described in section 16 of this act.
-(a) The court clerk shall obtain a community resource list from a domestic violence program and from a sexual assault program serving the county in which the court is located. The community resource list must include the names, telephone numbers, and, as available, website links of domestic violence programs, sexual assault programs, and elder abuse programs serving the community in which the court is located, including law enforcement agencies, domestic violence agencies, sexual assault agencies, civil legal aid programs, elder abuse programs, interpreters, multicultural programs, and batterers' treatment programs. The list must be made available in print and online.
-(b) The court clerk may create a community resource list of crisis intervention, behavioral health, interpreter, counseling, and other relevant resources serving the county in which the court is located. The clerk may also create a community resource list for respondents to include suicide prevention, treatment options, and resources for when children are involved in protection order cases. Any list shall be made available in print and online.
-(c) Courts may make the community resource lists specified in (a) and (b) of this subsection available as part of, or in addition to, the informational brochures described in subsection (1) of this section, and should translate them into the languages spoken by the county's top five significant non-English-speaking populations.
-(3) Court clerks should not make an assessment of the merits of a petitioner's petition for a protection order or refuse to accept for filing any petition that meets the basic procedural requirements.
+1. All court clerks' offices shall make available the standardized forms, instructions, and informational brochures required by this chapter, and shall fill in and keep current specific program names and telephone numbers for community resources, including civil legal aid and volunteer lawyer programs. Any assistance or information provided by clerks under this chapter, or any assistance or information provided by any person, including court clerks, employees of the department of social and health services, and other court facilitators, to complete the forms provided by the court, does not constitute the practice of law, and clerks are not responsible for incorrect information contained in a petition.
+
+2. All court clerks shall obtain community resource lists as described in (a) and (b) of this subsection, which the court shall make available as part of, or in addition to, the informational brochures described in section 16 of this act.
+
+    a. The court clerk shall obtain a community resource list from a domestic violence program and from a sexual assault program serving the county in which the court is located. The community resource list must include the names, telephone numbers, and, as available, website links of domestic violence programs, sexual assault programs, and elder abuse programs serving the community in which the court is located, including law enforcement agencies, domestic violence agencies, sexual assault agencies, civil legal aid programs, elder abuse programs, interpreters, multicultural programs, and batterers' treatment programs. The list must be made available in print and online.
+
+    b. The court clerk may create a community resource list of crisis intervention, behavioral health, interpreter, counseling, and other relevant resources serving the county in which the court is located. The clerk may also create a community resource list for respondents to include suicide prevention, treatment options, and resources for when children are involved in protection order cases. Any list shall be made available in print and online.
+
+    c. Courts may make the community resource lists specified in (a) and (b) of this subsection available as part of, or in addition to, the informational brochures described in subsection (1) of this section, and should translate them into the languages spoken by the county's top five significant non-English-speaking populations.
+
+3. Court clerks should not make an assessment of the merits of a petitioner's petition for a protection order or refuse to accept for filing any petition that meets the basic procedural requirements.
+
 
 ## Section 18
-(1) To minimize delays and the need for more hearings, which can hinder access to justice and undermine judicial economy, to lessen costs, to guarantee actual notice to the respondent, and to simplify and modernize processes for petitioners, respondents, law enforcement, and the courts, the following methods of service are authorized for protection order proceedings, including petitions, temporary protection orders, reissuances of temporary protection orders, full protection orders, motions to renew protection orders, and motions to modify or terminate protection orders.
-(a) Personal service, consistent with court rules for civil proceedings, must be made by law enforcement to mitigate risks, increase safety, and ensure swift recovery of firearms in cases requiring the surrender of firearms, such as extreme risk protection orders and protection orders with orders to surrender and prohibit weapons; cases that involve transferring the custody of a child or children from the respondent to the petitioner; or cases involving vacating the respondent from the parties' shared residence. Personal service should also be used in cases involving a respondent who is incarcerated. Personal service must otherwise be made by law enforcement unless the petitioner elects to have the respondent served by a third party who is not a party to the action and is over 18 years of age and competent to be a witness.
-(b)(i) Service by electronic means, including service by email, text message, social media applications, or other technologies, must be prioritized for all orders at the time of the issuance of temporary protection orders, with the exception of the following cases, for which personal service must be prioritized: (A) Cases requiring the surrender of firearms, such as extreme risk protection orders and protection orders with orders to surrender weapons; (B) cases that involve transferring the custody of a child or children from the respondent to the petitioner; (C) cases involving vacating the respondent from the parties' shared residence; or (D) cases involving a respondent who is incarcerated. Once firearms and concealed pistol licenses have been surrendered and verified by the court, or there is evidence the respondent does not possess firearms, the restrained party has been vacated from the shared residence, or the custody of the child or children has been transferred, per court order, then subsequent motions and orders may be served electronically.
-(ii) Service by electronic means must be effected by a law enforcement agency, unless the petitioner elects to have the respondent served by any person who is not a party to the action, is over 18 years of age and competent to be a witness, and can provide sworn proof of service to the court as required.
-(iii) Electronic service must be effected by transmitting copies of the petition and any supporting materials filed with the petition, notice of hearing, and any orders, or relevant materials for motions, to the respondent at the respondent's electronic address or the respondent's electronic account associated with email, text messaging, social media applications, or other technologies. Verification of receipt may be accomplished through read-receipt mechanisms, a response, a sworn statement from the person who effected service verifying transmission and any follow-up communications such as email or telephone contact used to further verify, or an appearance by the respondent at a hearing. Sworn proof of service must be filed with the court by the person who effected service. Service by electronic means is complete upon transmission when made prior to 5:00 p.m. on a judicial day. Service made on a Saturday, Sunday, legal holiday, or after 5:00 p.m. on any other day shall be deemed complete at 9:00 a.m. on the first judicial day thereafter.
-(c) Service by mail is permitted when electronic service is not possible, and there have been two unsuccessful attempts at personal service or when the petitioner requests it in lieu of electronic service or personal service where personal service is not otherwise required. If electronic service and personal service are not successful, the court shall affirmatively order service by mail without requiring additional motions to be filed by the petitioner. Service by mail must be made by any person who is not a party to the action and is over 18 years of age and competent to be a witness, by mailing copies of the materials to be served to the party to be served at the party's last known address or any other address determined by the court to be appropriate. Two copies must be mailed, postage prepaid, one by ordinary first-class mail and the other by a form of mail requiring a tracking or certified information showing when and where it was delivered. The envelopes must bear the return address of the sender. Service is complete upon the mailing of two copies as prescribed in this section.
-(d) Service by publication is permitted only in those cases where all other means of service have been unsuccessful or are not possible due to lack of any known physical or electronic address of the respondent. Publication must be made in a newspaper of general circulation in the county where the petition was brought and in the county of the last known address of the respondent once a week for three consecutive weeks. The newspaper selected must be one of the three most widely circulated papers in the county. The publication of summons must not be made until the court orders service by publication under this section. Service of the summons is considered complete when the publication has been made for three consecutive weeks. The summons must be signed by the petitioner. The summons must contain the date of the first publication, and shall require the respondent upon whom service by publication is desired to appear and answer the petition on the date set for the hearing. The summons must also contain a brief statement of the reason for the petition and a summary of the provisions under the temporary protection order. The summons must be essentially in the following form:
+1. To minimize delays and the need for more hearings, which can hinder access to justice and undermine judicial economy, to lessen costs, to guarantee actual notice to the respondent, and to simplify and modernize processes for petitioners, respondents, law enforcement, and the courts, the following methods of service are authorized for protection order proceedings, including petitions, temporary protection orders, reissuances of temporary protection orders, full protection orders, motions to renew protection orders, and motions to modify or terminate protection orders.
+
+    a. Personal service, consistent with court rules for civil proceedings, must be made by law enforcement to mitigate risks, increase safety, and ensure swift recovery of firearms in cases requiring the surrender of firearms, such as extreme risk protection orders and protection orders with orders to surrender and prohibit weapons; cases that involve transferring the custody of a child or children from the respondent to the petitioner; or cases involving vacating the respondent from the parties' shared residence. Personal service should also be used in cases involving a respondent who is incarcerated. Personal service must otherwise be made by law enforcement unless the petitioner elects to have the respondent served by a third party who is not a party to the action and is over 18 years of age and competent to be a witness.
+
+    b. [Empty]
+
+        i. Service by electronic means, including service by email, text message, social media applications, or other technologies, must be prioritized for all orders at the time of the issuance of temporary protection orders, with the exception of the following cases, for which personal service must be prioritized: (A) Cases requiring the surrender of firearms, such as extreme risk protection orders and protection orders with orders to surrender weapons; (B) cases that involve transferring the custody of a child or children from the respondent to the petitioner; (C) cases involving vacating the respondent from the parties' shared residence; or (D) cases involving a respondent who is incarcerated. Once firearms and concealed pistol licenses have been surrendered and verified by the court, or there is evidence the respondent does not possess firearms, the restrained party has been vacated from the shared residence, or the custody of the child or children has been transferred, per court order, then subsequent motions and orders may be served electronically.
+
+        ii. Service by electronic means must be effected by a law enforcement agency, unless the petitioner elects to have the respondent served by any person who is not a party to the action, is over 18 years of age and competent to be a witness, and can provide sworn proof of service to the court as required.
+
+        iii. Electronic service must be effected by transmitting copies of the petition and any supporting materials filed with the petition, notice of hearing, and any orders, or relevant materials for motions, to the respondent at the respondent's electronic address or the respondent's electronic account associated with email, text messaging, social media applications, or other technologies. Verification of receipt may be accomplished through read-receipt mechanisms, a response, a sworn statement from the person who effected service verifying transmission and any follow-up communications such as email or telephone contact used to further verify, or an appearance by the respondent at a hearing. Sworn proof of service must be filed with the court by the person who effected service. Service by electronic means is complete upon transmission when made prior to 5:00 p.m. on a judicial day. Service made on a Saturday, Sunday, legal holiday, or after 5:00 p.m. on any other day shall be deemed complete at 9:00 a.m. on the first judicial day thereafter.
+
+    c. Service by mail is permitted when electronic service is not possible, and there have been two unsuccessful attempts at personal service or when the petitioner requests it in lieu of electronic service or personal service where personal service is not otherwise required. If electronic service and personal service are not successful, the court shall affirmatively order service by mail without requiring additional motions to be filed by the petitioner. Service by mail must be made by any person who is not a party to the action and is over 18 years of age and competent to be a witness, by mailing copies of the materials to be served to the party to be served at the party's last known address or any other address determined by the court to be appropriate. Two copies must be mailed, postage prepaid, one by ordinary first-class mail and the other by a form of mail requiring a tracking or certified information showing when and where it was delivered. The envelopes must bear the return address of the sender. Service is complete upon the mailing of two copies as prescribed in this section.
+
+    d. Service by publication is permitted only in those cases where all other means of service have been unsuccessful or are not possible due to lack of any known physical or electronic address of the respondent. Publication must be made in a newspaper of general circulation in the county where the petition was brought and in the county of the last known address of the respondent once a week for three consecutive weeks. The newspaper selected must be one of the three most widely circulated papers in the county. The publication of summons must not be made until the court orders service by publication under this section. Service of the summons is considered complete when the publication has been made for three consecutive weeks. The summons must be signed by the petitioner. The summons must contain the date of the first publication, and shall require the respondent upon whom service by publication is desired to appear and answer the petition on the date set for the hearing. The summons must also contain a brief statement of the reason for the petition and a summary of the provisions under the temporary protection order. The summons must be essentially in the following form:
+
 In the  . . . . . . . . . court of the state of Washington for the county of  . . . . . . . . . . .
+
 ,
+
 Petitioner
+
 vs.
+
 No.  . . . . . .
+
 ,
+
 Respondent
+
 The state of Washington to  . . . . . . . . . . . (respondent):
+
 You are hereby summoned to appear on the  . . . . day of  . . . . . ., (year) . . . ., at  . . . . a.m./p.m., and respond to the petition. If you fail to respond, a protection order will be issued against you pursuant to the provisions of chapter 7.--- RCW (the new chapter created in section 81 of this act), for a minimum of one year from the date you are required to appear. A temporary protection order has been issued against you, restraining you from the following: (Insert a brief statement of the provisions of the temporary protection order). A copy of the petition, notice of hearing, and temporary protection order has been filed with the clerk of this court.
 
 
 
-Petitioner 
-(2) The court may authorize multiple methods of service permitted by this section and may consider use of any address determined by the court to be appropriate in order to authorize service that is reasonably probable to provide actual notice. The court shall favor speedy and cost-effective methods of service to promote prompt and accessible resolution of the merits of the petition.
-(3) To promote judicial economy and reduce delays, for respondents who are able to be served electronically, the respondent, or the parent or guardian of the respondent for respondents under the age of 18 or the guardian or conservator of an adult respondent, shall be required to provide his or her electronic address or electronic account associated with an email, text messaging, social media application, or other technology by filing the confidential party information form referred to in section 16(1) of this act. This must occur at the earliest point at which the respondent, parent, guardian, or conservator is in contact with the court so that electronic service can be effected for all subsequent motions, orders, and hearings.
-(4) If an order entered by the court recites that the respondent appeared before the court, either in person or remotely, the necessity for further service is waived and proof of service of that order is not necessary, including in cases where the respondent leaves the hearing before a final ruling is issued or signed. The court's order, entered after a hearing, need not be served on a respondent who fails to appear before the court for the hearing, if material terms of the order have not changed from those contained in the temporary order, and it is shown to the court's satisfaction that the respondent has previously been served with the temporary order.
-(5) When the respondent for a protection order is under the age of 18 or is an individual subject to a guardianship or conservatorship under Title 11 RCW:
-(a) When the respondent is a minor, service of a petition for a protection order, modification, or renewal, shall be completed, as defined in this chapter, upon both the respondent and the respondent's parent or legal guardian.
-(b) A copy of the protection order must be served on a parent, guardian, or conservator of the respondent at any address where the respondent resides, or the department of children, youth, and families in the case where the respondent is the subject of a dependency or court approved out-of-home placement. A minor respondent shall not be served at the minor respondent's school unless no other address for service is known.
-(c) For extreme risk protection orders, the court shall also provide a parent, guardian, or conservator of the respondent with written notice of the legal obligation to safely secure any firearm on the premises and the potential for criminal prosecution if a prohibited person were to obtain access to any firearm. This notice may be provided at the time the parent, guardian, or conservator of the respondent appears in court or may be served along with a copy of the order, whichever occurs first.
-(6) The court shall not dismiss, over the objection of a petitioner, a petition for a protection order or a motion to renew a protection order based on the inability of law enforcement or the petitioner to serve the respondent, unless the court determines that all available methods of service have been attempted unsuccessfully.
+
+
+
+
+Petitioner
+
+2. The court may authorize multiple methods of service permitted by this section and may consider use of any address determined by the court to be appropriate in order to authorize service that is reasonably probable to provide actual notice. The court shall favor speedy and cost-effective methods of service to promote prompt and accessible resolution of the merits of the petition.
+
+3. To promote judicial economy and reduce delays, for respondents who are able to be served electronically, the respondent, or the parent or guardian of the respondent for respondents under the age of 18 or the guardian or conservator of an adult respondent, shall be required to provide his or her electronic address or electronic account associated with an email, text messaging, social media application, or other technology by filing the confidential party information form referred to in section 16(1) of this act. This must occur at the earliest point at which the respondent, parent, guardian, or conservator is in contact with the court so that electronic service can be effected for all subsequent motions, orders, and hearings.
+
+4. If an order entered by the court recites that the respondent appeared before the court, either in person or remotely, the necessity for further service is waived and proof of service of that order is not necessary, including in cases where the respondent leaves the hearing before a final ruling is issued or signed. The court's order, entered after a hearing, need not be served on a respondent who fails to appear before the court for the hearing, if material terms of the order have not changed from those contained in the temporary order, and it is shown to the court's satisfaction that the respondent has previously been served with the temporary order.
+
+5. When the respondent for a protection order is under the age of 18 or is an individual subject to a guardianship or conservatorship under Title 11 RCW:
+
+    a. When the respondent is a minor, service of a petition for a protection order, modification, or renewal, shall be completed, as defined in this chapter, upon both the respondent and the respondent's parent or legal guardian.
+
+    b. A copy of the protection order must be served on a parent, guardian, or conservator of the respondent at any address where the respondent resides, or the department of children, youth, and families in the case where the respondent is the subject of a dependency or court approved out-of-home placement. A minor respondent shall not be served at the minor respondent's school unless no other address for service is known.
+
+    c. For extreme risk protection orders, the court shall also provide a parent, guardian, or conservator of the respondent with written notice of the legal obligation to safely secure any firearm on the premises and the potential for criminal prosecution if a prohibited person were to obtain access to any firearm. This notice may be provided at the time the parent, guardian, or conservator of the respondent appears in court or may be served along with a copy of the order, whichever occurs first.
+
+6. The court shall not dismiss, over the objection of a petitioner, a petition for a protection order or a motion to renew a protection order based on the inability of law enforcement or the petitioner to serve the respondent, unless the court determines that all available methods of service have been attempted unsuccessfully.
+
 
 ## Section 19
 When service is to be completed under this chapter by a law enforcement officer:
-(1) The clerk of the court shall have a copy of any order issued under this chapter, as well as the petition for a protection order and any supporting materials, electronically forwarded on or before the next judicial day to the law enforcement agency specified in the order for service upon the respondent;
-(2) Service of an order issued under this chapter must take precedence over the service of other documents by law enforcement unless they are of a similar emergency nature;
-(3) Where personal service is required, the first attempt at service must occur within 24 hours of receiving the order from the court whenever practicable, but not more than five days after receiving the order. If the first attempt is not successful, no fewer than two additional attempts should be made to serve the order, particularly for respondents who present heightened risk of lethality or other risk of physical harm to the petitioner or petitioner's family or household members. Law enforcement shall document all attempts at service on a return of service form and submit it to the court in a timely manner;
-(4) If service cannot be completed within 10 calendar days, the law enforcement officer shall notify the petitioner. The petitioner shall provide information sufficient to permit notification. Law enforcement shall continue to attempt to complete service unless otherwise directed by the court. In the event that the petitioner does not provide a service address for the respondent or there is evidence that the respondent is evading service, the law enforcement officer shall use law enforcement databases to assist in locating the respondent;
-(5) If the respondent is in a protected person's presence at the time of contact for service, the law enforcement officer should take reasonable steps to separate the parties when possible prior to completing the service or inquiring about or collecting firearms. When the order requires the respondent to vacate the parties' shared residence, law enforcement shall take reasonable steps to ensure that the respondent has left the premises and is on notice that his or her return is a violation of the terms of the order. The law enforcement officer shall provide the respondent with copies of all forms with the exception of the law enforcement information sheet and the return of service form;
-(6) Any law enforcement officer who serves a protection order on a respondent with the knowledge that the respondent requires special assistance due to a disability, brain injury, or impairment shall make a reasonable effort to accommodate the needs of the respondent to the extent practicable without compromise to the safety of the petitioner;
-(7) Proof of service must be submitted to the court on the return of service form. The form must include the date and time of service and each document that was served in order for the service to be complete, along with any details such as conduct at the time of service, threats, or avoidance of service, as well as statements regarding possession of firearms, including any denials of ownership despite positive purchase history, active concealed pistol license, or sworn statements in the petition that allege the respondent's access to, or possession of, firearms; or
-(8) If attempts at service were not successful, the return of service form or the form letter showing that the order was not served, and stating the reason it was not served, must be returned to the court by the next judicial day following the last unsuccessful attempt at service. Each attempt at service must be noted and reflected in computer aided dispatch records, with the date, time, address, and reason service was not completed.
+
+1. The clerk of the court shall have a copy of any order issued under this chapter, as well as the petition for a protection order and any supporting materials, electronically forwarded on or before the next judicial day to the law enforcement agency specified in the order for service upon the respondent;
+
+2. Service of an order issued under this chapter must take precedence over the service of other documents by law enforcement unless they are of a similar emergency nature;
+
+3. Where personal service is required, the first attempt at service must occur within 24 hours of receiving the order from the court whenever practicable, but not more than five days after receiving the order. If the first attempt is not successful, no fewer than two additional attempts should be made to serve the order, particularly for respondents who present heightened risk of lethality or other risk of physical harm to the petitioner or petitioner's family or household members. Law enforcement shall document all attempts at service on a return of service form and submit it to the court in a timely manner;
+
+4. If service cannot be completed within 10 calendar days, the law enforcement officer shall notify the petitioner. The petitioner shall provide information sufficient to permit notification. Law enforcement shall continue to attempt to complete service unless otherwise directed by the court. In the event that the petitioner does not provide a service address for the respondent or there is evidence that the respondent is evading service, the law enforcement officer shall use law enforcement databases to assist in locating the respondent;
+
+5. If the respondent is in a protected person's presence at the time of contact for service, the law enforcement officer should take reasonable steps to separate the parties when possible prior to completing the service or inquiring about or collecting firearms. When the order requires the respondent to vacate the parties' shared residence, law enforcement shall take reasonable steps to ensure that the respondent has left the premises and is on notice that his or her return is a violation of the terms of the order. The law enforcement officer shall provide the respondent with copies of all forms with the exception of the law enforcement information sheet and the return of service form;
+
+6. Any law enforcement officer who serves a protection order on a respondent with the knowledge that the respondent requires special assistance due to a disability, brain injury, or impairment shall make a reasonable effort to accommodate the needs of the respondent to the extent practicable without compromise to the safety of the petitioner;
+
+7. Proof of service must be submitted to the court on the return of service form. The form must include the date and time of service and each document that was served in order for the service to be complete, along with any details such as conduct at the time of service, threats, or avoidance of service, as well as statements regarding possession of firearms, including any denials of ownership despite positive purchase history, active concealed pistol license, or sworn statements in the petition that allege the respondent's access to, or possession of, firearms; or
+
+8. If attempts at service were not successful, the return of service form or the form letter showing that the order was not served, and stating the reason it was not served, must be returned to the court by the next judicial day following the last unsuccessful attempt at service. Each attempt at service must be noted and reflected in computer aided dispatch records, with the date, time, address, and reason service was not completed.
+
 
 ## Section 20
 The following materials must be served, depending on the type of relief sought.
-(1) If the petitioner is seeking a hearing on a petition for a protection order, the respondent must be served with the petition for a protection order, any supporting declarations or other materials, the notice of hearing, any temporary protection order issued by the court, any temporary order to surrender and prohibit weapons issued by the court, and a blank confidential party information form as referred to in section 16(1) of this act. The respondent shall confirm with the court during his or her first appearance all necessary contact and identifying information, and file the form with the court.
-(2) If the petitioner is seeking the renewal or reissuance of a protection order, the respondent must be served with the motion to renew or reissue the protection order, any supporting declarations or other materials, and the notice of hearing.
-(3) If either party is seeking to modify or terminate a protection order, the other party must be served with the motion to modify or terminate the protection order, any supporting declarations or other materials, and the notice of hearing.
-(4) For any other motion filed by a party with the court, the other party must be served with all materials the moving party submitted to the court and with any notice of hearing issued by the court related to the motion.
+
+1. If the petitioner is seeking a hearing on a petition for a protection order, the respondent must be served with the petition for a protection order, any supporting declarations or other materials, the notice of hearing, any temporary protection order issued by the court, any temporary order to surrender and prohibit weapons issued by the court, and a blank confidential party information form as referred to in section 16(1) of this act. The respondent shall confirm with the court during his or her first appearance all necessary contact and identifying information, and file the form with the court.
+
+2. If the petitioner is seeking the renewal or reissuance of a protection order, the respondent must be served with the motion to renew or reissue the protection order, any supporting declarations or other materials, and the notice of hearing.
+
+3. If either party is seeking to modify or terminate a protection order, the other party must be served with the motion to modify or terminate the protection order, any supporting declarations or other materials, and the notice of hearing.
+
+4. For any other motion filed by a party with the court, the other party must be served with all materials the moving party submitted to the court and with any notice of hearing issued by the court related to the motion.
+
 
 ## Section 21
 Service must be completed on the nonmoving party not less than five judicial days before the hearing date, unless waived by the nonmoving party. If service cannot be made, the court shall set a new hearing date and shall either require an additional attempt at obtaining service or permit service by other means authorized in this chapter. If the nonmoving party was served before the hearing, but less than five judicial days before the hearing, it is not necessary to re-serve materials that the nonmoving party already received, but any new notice of hearing and reissued order must be served on the nonmoving party. The court shall not require more than two attempts at obtaining service before permitting service by other means authorized in this chapter unless the moving party requests additional time to attempt service. If the court permits service by mail or by publication, the court shall set the hearing date not later than 24 days from the date of the order authorizing such service.
 
+
 ## Section 22
-(1) When a petition for a vulnerable adult protection order is filed by someone other than the vulnerable adult, notice of the petition and hearing must be personally served upon the vulnerable adult not less than five judicial days before the hearing.
-(2) In addition to copies of all pleadings filed by the petitioner, the petitioner shall provide a written notice to the vulnerable adult using a standard notice form developed by the administrative office of the courts. The standard notice form shall be designed to explain to the vulnerable adult in clear, plain language the purpose and nature of the petition and that the vulnerable adult has the right to participate in the hearing and to either support or object to the petition.
-(3) When good faith attempts to personally serve the vulnerable adult have been unsuccessful, the court shall permit service by electronic means or by mail. The court may authorize service by publication if the court determines that personal service, service by electronic means, and service by mail cannot be obtained. If timely service under this section cannot be made, the court shall continue the hearing date until the substitute service approved by the court has been satisfied.
+1. When a petition for a vulnerable adult protection order is filed by someone other than the vulnerable adult, notice of the petition and hearing must be personally served upon the vulnerable adult not less than five judicial days before the hearing.
+
+2. In addition to copies of all pleadings filed by the petitioner, the petitioner shall provide a written notice to the vulnerable adult using a standard notice form developed by the administrative office of the courts. The standard notice form shall be designed to explain to the vulnerable adult in clear, plain language the purpose and nature of the petition and that the vulnerable adult has the right to participate in the hearing and to either support or object to the petition.
+
+3. When good faith attempts to personally serve the vulnerable adult have been unsuccessful, the court shall permit service by electronic means or by mail. The court may authorize service by publication if the court determines that personal service, service by electronic means, and service by mail cannot be obtained. If timely service under this section cannot be made, the court shall continue the hearing date until the substitute service approved by the court has been satisfied.
+
 
 ## Section 23
 Courts and law enforcement agencies shall adopt rules, protocols, and pattern forms to standardize and implement best practices for service, including mechanisms and verification options for electronic service and electronic returns of service, as well as best practices for efficient transmission of court documents to law enforcement for entry into criminal justice databases and returns of service or property.
 
+
 ## Section 24
-(1) Hearings under this chapter are special proceedings. The procedures established under this chapter for protection order hearings supersede inconsistent civil court rules. Courts should evaluate the needs and procedures best suited to individual hearings based on consideration of the totality of the circumstances, including disparities that may be apparent in the parties' resources and representation by counsel.
-(2)(a) Courts shall prioritize hearings on petitions for ex parte temporary protection orders over less emergent proceedings.
-(b) For extreme risk protection order hearings where a law enforcement agency is the petitioner, the court shall prioritize scheduling because of the importance of immediate temporary removal of firearms in situations of extreme risk and the goal of minimizing the time law enforcement must otherwise wait for a particular case to be called, which can hinder their other patrol and supervisory duties. Courts also may allow a law enforcement petitioner to participate telephonically, or allow another representative from that law enforcement agency or the prosecutor's office to present the information to the court if personal presence of the petitioning officer is not required for testimonial purposes.
-(3) A hearing on a petition for a protection order must be set by the court even if the court has denied a request for a temporary protection order in the proceeding where the petition is not dismissed or continued pursuant to subsection (11) of this section.
-(4) If the respondent does not appear, or the petitioner informs the court that the respondent has not been served at least five judicial days before the hearing date and the petitioner desires to pursue service, or the parties have informed the court of an agreed date of continuance for the hearing, the court shall reissue any temporary protection order previously issued, cancel the scheduled hearing, and reset the hearing date.
-(5) When considering any request to stay, continue, or delay a hearing under this chapter because of the pendency of a parallel criminal investigation or prosecution of the respondent, courts shall apply a rebuttable presumption against such delay and give due recognition to the purpose of this chapter to provide victims quick and effective relief. Courts must consider on the record the following factors:
-(a) The extent to which a defendant's Fifth Amendment rights are or are not implicated, given the special nature of protection order proceedings, which burden a defendant's Fifth Amendment privilege substantially less than do other civil proceedings;
-(b) Similarities between the civil and criminal cases;
-(c) Status of the criminal case;
-(d) The interests of the petitioners in proceeding expeditiously with litigation and the potential prejudice and risk to petitioners of a delay;
-(e) The burden that any particular aspect of the proceeding may impose on respondents;
-(f) The convenience of the court in the management of its cases and the efficient use of judicial resources;
-(g) The interests of persons not parties to the civil litigation; and
-(h) The interest of the public in the pending civil and criminal litigation.
-(6) Hearings must be conducted upon live testimony of the parties and sworn declarations. Live testimony of witnesses other than the parties may be requested, but shall not be permitted unless the court finds that live testimony of witnesses other than the parties is necessary and material. If either party requests a continuance to allow for proper notice of witnesses or to afford a party time to seek counsel, the court should continue the hearing. If the court continues the hearing, the court shall reissue any temporary orders.
-(7) Prehearing discovery under the civil court rules, including, but not limited to, depositions, requests for production, or requests for admission, is disfavored and only permitted if specifically authorized by the court for good cause shown upon written motion of a party filed six judicial days prior to the hearing and served prior to the hearing.
-(8) The rules of evidence need not be applied, other than with respect to privileges, the requirements of the rape shield statute under RCW 9A.44.020, and evidence rules 412 and 413.
-(9)(a) The prior sexual activity or the reputation of the petitioner is inadmissible except:
-(i) As evidence concerning the past sexual conduct of the petitioner with the respondent when this evidence is offered by the respondent upon the issue of whether the petitioner consented to the sexual conduct alleged for the purpose of a protection order; or
-(ii) When constitutionally required to be admitted.
-(b) To determine admissibility, a written motion must be made six judicial days prior to the protection order hearing. The motion must include an offer of proof of the relevancy of the proposed evidence and reasonably specific information as to the date, time, and place of the past sexual conduct between the petitioner and the respondent. If the court finds that the offer of proof is relevant to the issue of the victim's consent, the court shall conduct a hearing in camera. The court may not admit evidence under this subsection unless it determines at the hearing that the evidence is relevant and the probative value of the evidence outweighs the danger of unfair prejudice. The evidence shall be admissible at the hearing to the extent an order made by the court specifies the evidence that may be admitted. The motion, related papers, and the record of the hearing must be sealed and remain under seal unless the court orders otherwise.
-(10) When a petitioner has alleged incapacity to consent to sexual conduct or sexual penetration due to intoxicants, alcohol, or other condition, the court must determine on the record whether the petitioner had the capacity to consent.
-(11) If, prior to a full hearing, the court finds that the petition for a protection order does not contain sufficient allegations as a matter of law to support the issuance of a protection order, the court shall permit the petitioner 14 days to prepare and file an amended petition, provided the petitioner states an intent to do so and the court does not find that amendment would be futile. If the amended petition is not filed within 14 days, the case must be administratively dismissed by the clerk's office.
-(12) Courts shall not require parties to submit duplicate or working copies of pleadings or other materials filed with the court, unless the document or documents cannot be scanned or are illegible.
-(13) Courts shall, if possible, have petitioners and respondents in protection order proceedings gather in separate locations and enter and depart the court room at staggered times. Where the option is available, for safety purposes, the court should arrange for petitioners to leave the court premises first and to have court security escort petitioners to their vehicles or transportation.
+1. Hearings under this chapter are special proceedings. The procedures established under this chapter for protection order hearings supersede inconsistent civil court rules. Courts should evaluate the needs and procedures best suited to individual hearings based on consideration of the totality of the circumstances, including disparities that may be apparent in the parties' resources and representation by counsel.
+
+2. [Empty]
+
+    a. Courts shall prioritize hearings on petitions for ex parte temporary protection orders over less emergent proceedings.
+
+    b. For extreme risk protection order hearings where a law enforcement agency is the petitioner, the court shall prioritize scheduling because of the importance of immediate temporary removal of firearms in situations of extreme risk and the goal of minimizing the time law enforcement must otherwise wait for a particular case to be called, which can hinder their other patrol and supervisory duties. Courts also may allow a law enforcement petitioner to participate telephonically, or allow another representative from that law enforcement agency or the prosecutor's office to present the information to the court if personal presence of the petitioning officer is not required for testimonial purposes.
+
+3. A hearing on a petition for a protection order must be set by the court even if the court has denied a request for a temporary protection order in the proceeding where the petition is not dismissed or continued pursuant to subsection (11) of this section.
+
+4. If the respondent does not appear, or the petitioner informs the court that the respondent has not been served at least five judicial days before the hearing date and the petitioner desires to pursue service, or the parties have informed the court of an agreed date of continuance for the hearing, the court shall reissue any temporary protection order previously issued, cancel the scheduled hearing, and reset the hearing date.
+
+5. When considering any request to stay, continue, or delay a hearing under this chapter because of the pendency of a parallel criminal investigation or prosecution of the respondent, courts shall apply a rebuttable presumption against such delay and give due recognition to the purpose of this chapter to provide victims quick and effective relief. Courts must consider on the record the following factors:
+
+    a. The extent to which a defendant's Fifth Amendment rights are or are not implicated, given the special nature of protection order proceedings, which burden a defendant's Fifth Amendment privilege substantially less than do other civil proceedings;
+
+    b. Similarities between the civil and criminal cases;
+
+    c. Status of the criminal case;
+
+    d. The interests of the petitioners in proceeding expeditiously with litigation and the potential prejudice and risk to petitioners of a delay;
+
+    e. The burden that any particular aspect of the proceeding may impose on respondents;
+
+    f. The convenience of the court in the management of its cases and the efficient use of judicial resources;
+
+    g. The interests of persons not parties to the civil litigation; and
+
+    h. The interest of the public in the pending civil and criminal litigation.
+
+6. Hearings must be conducted upon live testimony of the parties and sworn declarations. Live testimony of witnesses other than the parties may be requested, but shall not be permitted unless the court finds that live testimony of witnesses other than the parties is necessary and material. If either party requests a continuance to allow for proper notice of witnesses or to afford a party time to seek counsel, the court should continue the hearing. If the court continues the hearing, the court shall reissue any temporary orders.
+
+7. Prehearing discovery under the civil court rules, including, but not limited to, depositions, requests for production, or requests for admission, is disfavored and only permitted if specifically authorized by the court for good cause shown upon written motion of a party filed six judicial days prior to the hearing and served prior to the hearing.
+
+8. The rules of evidence need not be applied, other than with respect to privileges, the requirements of the rape shield statute under RCW 9A.44.020, and evidence rules 412 and 413.
+
+9. [Empty]
+
+    a. The prior sexual activity or the reputation of the petitioner is inadmissible except:
+
+        i. As evidence concerning the past sexual conduct of the petitioner with the respondent when this evidence is offered by the respondent upon the issue of whether the petitioner consented to the sexual conduct alleged for the purpose of a protection order; or
+
+        ii. When constitutionally required to be admitted.
+
+    b. To determine admissibility, a written motion must be made six judicial days prior to the protection order hearing. The motion must include an offer of proof of the relevancy of the proposed evidence and reasonably specific information as to the date, time, and place of the past sexual conduct between the petitioner and the respondent. If the court finds that the offer of proof is relevant to the issue of the victim's consent, the court shall conduct a hearing in camera. The court may not admit evidence under this subsection unless it determines at the hearing that the evidence is relevant and the probative value of the evidence outweighs the danger of unfair prejudice. The evidence shall be admissible at the hearing to the extent an order made by the court specifies the evidence that may be admitted. The motion, related papers, and the record of the hearing must be sealed and remain under seal unless the court orders otherwise.
+
+10. When a petitioner has alleged incapacity to consent to sexual conduct or sexual penetration due to intoxicants, alcohol, or other condition, the court must determine on the record whether the petitioner had the capacity to consent.
+
+11. If, prior to a full hearing, the court finds that the petition for a protection order does not contain sufficient allegations as a matter of law to support the issuance of a protection order, the court shall permit the petitioner 14 days to prepare and file an amended petition, provided the petitioner states an intent to do so and the court does not find that amendment would be futile. If the amended petition is not filed within 14 days, the case must be administratively dismissed by the clerk's office.
+
+12. Courts shall not require parties to submit duplicate or working copies of pleadings or other materials filed with the court, unless the document or documents cannot be scanned or are illegible.
+
+13. Courts shall, if possible, have petitioners and respondents in protection order proceedings gather in separate locations and enter and depart the court room at staggered times. Where the option is available, for safety purposes, the court should arrange for petitioners to leave the court premises first and to have court security escort petitioners to their vehicles or transportation.
+
 
 ## Section 25
-(2) In the court's discretion, parties and witnesses may attend a hearing on a petition for a protection order, or any hearings conducted pursuant to this chapter, in person or remotely, including by telephone, video, or other electronic means where possible. No later than three judicial days before the hearing, the parties may request to appear at the hearing, with witnesses, remotely by telephone, video, or other electronic means. The court shall grant any request for a remote appearance unless the court finds good cause to require in-person attendance or attendance through a specific means. 
-(3) Courts shall require assurances of the identity of persons who appear by telephone, video, or other electronic means. Courts may not charge fees for remote appearances.
-(4) Courts shall not post or stream proceedings or recordings of protection order hearings online without a waiver from all parties. Unless the court orders a hearing to be closed to the public consistent with the requirements of Washington law, courts should provide in-person access to members of the public who wish to observe or listen to a hearing conducted by telephone, video, or other electronic means.
-(5) If a hearing is held with any parties or witnesses appearing remotely, the following apply:
-(a) Courts should include directions to access a hearing remotely in the order setting the hearing and in any order granting a party's request for a remote appearance. Such orders shall also include directions to request an interpreter and accommodations for disabilities;
-(b) Courts should endeavor to give a party or witness appearing by telephone no more than a one-hour waiting time by the court for the hearing to begin. For remote hearings, if the court anticipates the parties or witnesses will need to wait longer than one hour to be called or connected, the court should endeavor to inform them of the estimated start time of the hearing;
-(c) Courts should inform the parties before the hearing begins that the hearing is being recorded by the court, in what manner the public is able to view the hearing, how a party may obtain a copy of the recording of the hearing, and that recording or broadcasting any portion of the hearing by any means other than the court record is strictly prohibited without prior court approval;
-(d) To minimize trauma, while allowing remote hearings to be observed by the public, courts should take appropriate measures to prevent members of the public or the parties from harassing or intimidating any party or witness to a case. Such practices may include, but are not limited to, disallowing members of the public from communicating with the parties or with the court, ensuring court controls over microphone and viewing settings, and announcing limitations on allowing others to record the hearing;
-(e) Courts shall use technology that accommodates American sign language and other languages;
-(f) To help ensure that remote access does not undermine personal safety or privacy, or introduce other risks, courts should protect the privacy of telephone numbers, emails, and other contact information for parties and witnesses and inform parties and witnesses of these safety considerations. Materials available to parties and witnesses appearing remotely should include warnings not to state their addresses or telephone numbers at the hearing, and that they may use virtual backgrounds to help ensure that their backgrounds do not reveal their location;
-(g) Courts should provide the parties, in orders setting the hearing, with a telephone number and an email address for the court, which the parties may use to inform the court if they have been unable to appear remotely for a hearing. Before dismissing or granting a petition due to the petitioner or respondent not appearing for a remote hearing, or the court not being able to reach the party via telephone or video, the court shall check for any notifications to the court regarding issues with remote access or other technological difficulties. If any party has provided such notification to the court, the court shall not dismiss or grant the petition, but shall reset the hearing by continuing it and reissuing any temporary order in place. If a party was unable to provide the notification regarding issues with remote access or other technological difficulties on the day of the hearing prior to the court's ruling, that party may seek relief via a motion for reconsideration; and
-(h) A party attending a hearing remotely who is unable to participate in the hearing outside the presence of others who reside with the party, but who are not part of the proceeding including, but not limited to, children, and who asserts that the presence of those individuals may hinder the party's testimony or the party's ability to fully and meaningfully participate in the hearing, may request, and shall be granted, one continuance on that basis. Subsequent requests may be granted in the court's discretion.
+2. In the court's discretion, parties and witnesses may attend a hearing on a petition for a protection order, or any hearings conducted pursuant to this chapter, in person or remotely, including by telephone, video, or other electronic means where possible. No later than three judicial days before the hearing, the parties may request to appear at the hearing, with witnesses, remotely by telephone, video, or other electronic means. The court shall grant any request for a remote appearance unless the court finds good cause to require in-person attendance or attendance through a specific means.
+
+3. Courts shall require assurances of the identity of persons who appear by telephone, video, or other electronic means. Courts may not charge fees for remote appearances.
+
+4. Courts shall not post or stream proceedings or recordings of protection order hearings online without a waiver from all parties. Unless the court orders a hearing to be closed to the public consistent with the requirements of Washington law, courts should provide in-person access to members of the public who wish to observe or listen to a hearing conducted by telephone, video, or other electronic means.
+
+5. If a hearing is held with any parties or witnesses appearing remotely, the following apply:
+
+    a. Courts should include directions to access a hearing remotely in the order setting the hearing and in any order granting a party's request for a remote appearance. Such orders shall also include directions to request an interpreter and accommodations for disabilities;
+
+    b. Courts should endeavor to give a party or witness appearing by telephone no more than a one-hour waiting time by the court for the hearing to begin. For remote hearings, if the court anticipates the parties or witnesses will need to wait longer than one hour to be called or connected, the court should endeavor to inform them of the estimated start time of the hearing;
+
+    c. Courts should inform the parties before the hearing begins that the hearing is being recorded by the court, in what manner the public is able to view the hearing, how a party may obtain a copy of the recording of the hearing, and that recording or broadcasting any portion of the hearing by any means other than the court record is strictly prohibited without prior court approval;
+
+    d. To minimize trauma, while allowing remote hearings to be observed by the public, courts should take appropriate measures to prevent members of the public or the parties from harassing or intimidating any party or witness to a case. Such practices may include, but are not limited to, disallowing members of the public from communicating with the parties or with the court, ensuring court controls over microphone and viewing settings, and announcing limitations on allowing others to record the hearing;
+
+    e. Courts shall use technology that accommodates American sign language and other languages;
+
+    f. To help ensure that remote access does not undermine personal safety or privacy, or introduce other risks, courts should protect the privacy of telephone numbers, emails, and other contact information for parties and witnesses and inform parties and witnesses of these safety considerations. Materials available to parties and witnesses appearing remotely should include warnings not to state their addresses or telephone numbers at the hearing, and that they may use virtual backgrounds to help ensure that their backgrounds do not reveal their location;
+
+    g. Courts should provide the parties, in orders setting the hearing, with a telephone number and an email address for the court, which the parties may use to inform the court if they have been unable to appear remotely for a hearing. Before dismissing or granting a petition due to the petitioner or respondent not appearing for a remote hearing, or the court not being able to reach the party via telephone or video, the court shall check for any notifications to the court regarding issues with remote access or other technological difficulties. If any party has provided such notification to the court, the court shall not dismiss or grant the petition, but shall reset the hearing by continuing it and reissuing any temporary order in place. If a party was unable to provide the notification regarding issues with remote access or other technological difficulties on the day of the hearing prior to the court's ruling, that party may seek relief via a motion for reconsideration; and
+
+    h. A party attending a hearing remotely who is unable to participate in the hearing outside the presence of others who reside with the party, but who are not part of the proceeding including, but not limited to, children, and who asserts that the presence of those individuals may hinder the party's testimony or the party's ability to fully and meaningfully participate in the hearing, may request, and shall be granted, one continuance on that basis. Subsequent requests may be granted in the court's discretion.
+
 
 ## Section 26
 In proceedings where the petitioner is seeking a domestic violence protection order or an antiharassment protection order, the court may realign the designation of the parties as "petitioner" and "respondent" where the court finds that the original petitioner is the abuser or harasser and the original respondent is the victim of domestic violence or unlawful harassment. The court may issue a temporary protection order in accordance with this chapter until the victim is able to prepare a petition for a protection order in accordance with this chapter.
 
+
 ## Section 27
 For extreme risk protection order hearings, the following also apply.
-(1) The court may:
-(a) Examine under oath the petitioner, the respondent, and any witnesses they may produce, or, in lieu of examination, consider sworn declarations of the petitioner, the respondent, and any witnesses they may produce; and
-(b) Ensure that a reasonable search has been conducted for criminal history records and civil protection order history related to the respondent.
-(2) During the hearing, the court shall consider whether a behavioral health evaluation is appropriate, and may order such evaluation if appropriate.
-(3) In determining whether grounds for an extreme risk protection order exist, the court may consider any relevant evidence including, but not limited to, any of the following:
-(a) A recent act or threat of violence by the respondent against self or others, whether or not such violence or threat of violence involves a firearm;
-(b) A pattern of acts or threats of violence by the respondent within the past 12 months including, but not limited to, acts or threats of violence by the respondent against self or others;
-(c) Any behaviors that present an imminent threat of harm to self or others;
-(d) A violation by the respondent of a protection order or a no-contact order issued;
-(e) A previous or existing extreme risk protection order issued against the respondent;
-(f) A violation of a previous or existing extreme risk protection order issued against the respondent;
-(g) A conviction of the respondent for a crime that constitutes domestic violence as defined in RCW 10.99.020;
-(h) A conviction of the respondent under RCW 9A.36.080;
-(i) The respondent's ownership of, access to, or intent to possess, firearms;
-(j) The unlawful or reckless use, display, or brandishing of a firearm by the respondent;
-(k) The history of use, attempted use, or threatened use of physical force by the respondent against another person, or the respondent's history of stalking another person;
-(l) Any prior arrest of the respondent for a felony offense or violent crime;
-(m) Corroborated evidence of the abuse of controlled substances or alcohol by the respondent; and
-(n) Evidence of recent acquisition of firearms by the respondent.
+
+1. The court may:
+
+    a. Examine under oath the petitioner, the respondent, and any witnesses they may produce, or, in lieu of examination, consider sworn declarations of the petitioner, the respondent, and any witnesses they may produce; and
+
+    b. Ensure that a reasonable search has been conducted for criminal history records and civil protection order history related to the respondent.
+
+2. During the hearing, the court shall consider whether a behavioral health evaluation is appropriate, and may order such evaluation if appropriate.
+
+3. In determining whether grounds for an extreme risk protection order exist, the court may consider any relevant evidence including, but not limited to, any of the following:
+
+    a. A recent act or threat of violence by the respondent against self or others, whether or not such violence or threat of violence involves a firearm;
+
+    b. A pattern of acts or threats of violence by the respondent within the past 12 months including, but not limited to, acts or threats of violence by the respondent against self or others;
+
+    c. Any behaviors that present an imminent threat of harm to self or others;
+
+    d. A violation by the respondent of a protection order or a no-contact order issued;
+
+    e. A previous or existing extreme risk protection order issued against the respondent;
+
+    f. A violation of a previous or existing extreme risk protection order issued against the respondent;
+
+    g. A conviction of the respondent for a crime that constitutes domestic violence as defined in RCW 10.99.020;
+
+    h. A conviction of the respondent under RCW 9A.36.080;
+
+    i. The respondent's ownership of, access to, or intent to possess, firearms;
+
+    j. The unlawful or reckless use, display, or brandishing of a firearm by the respondent;
+
+    k. The history of use, attempted use, or threatened use of physical force by the respondent against another person, or the respondent's history of stalking another person;
+
+    l. Any prior arrest of the respondent for a felony offense or violent crime;
+
+    m. Corroborated evidence of the abuse of controlled substances or alcohol by the respondent; and
+
+    n. Evidence of recent acquisition of firearms by the respondent.
+
 
 ## Section 28
 For vulnerable adult protection order hearings, the following also apply.
-(1) When a petition for a vulnerable adult protection order is filed by someone other than the vulnerable adult or the vulnerable adult's full guardian over either the person or the estate, or both, and the vulnerable adult for whom protection is sought advises the court at the hearing that the vulnerable adult does not want all or part of the protection sought in the petition, then the court may dismiss the petition or the provisions that the vulnerable adult objects to and any existing vulnerable adult protection order, or the court may take additional testimony or evidence, or order additional evidentiary hearings to determine whether the vulnerable adult is unable, due to incapacity, undue influence, or duress, to protect his or her person or estate in connection with the issues raised in the petition or order. If an additional evidentiary hearing is ordered and the court determines that there is reason to believe that there is a genuine issue about whether the vulnerable adult is unable to protect his or her person or estate in connection with the issues raised in the petition or order, the court may issue a temporary protection order of the vulnerable adult pending a decision after the evidentiary hearing.
-(2) Pursuant to subsection (1) of this section, an evidentiary hearing on the issue of whether the vulnerable adult is unable, due to incapacity, undue influence, or duress, to protect his or her person or estate in connection with the issues raised in the petition or order, must be held within 14 days of entry of the temporary protection order. If the court did not enter a temporary protection order, the evidentiary hearing must be held within 14 days of the prior hearing on the petition. Notice of the time and place of the evidentiary hearing must be served upon the vulnerable adult and the respondent not less than five judicial days before the hearing. If timely service cannot be made, the court may set a new hearing date. A hearing under this subsection is not necessary if the vulnerable adult has been determined to be fully incapacitated over either the person or the estate, or both, under the guardianship laws, chapter 11.88 RCW. If a hearing is scheduled under this subsection, the protection order must remain in effect pending the court's decision at the subsequent hearing.
-(3) At the hearing held pursuant to subsection (1) of this section, the court shall give the vulnerable adult, the respondent, the petitioner, and, in the court's discretion, other interested persons, the opportunity to testify and submit relevant evidence.
-(4) If the court determines that the vulnerable adult is capable of protecting his or her person or estate in connection with the issues raised in the petition, and the vulnerable adult continues to object to the protection order, the court shall dismiss the order or may modify the order if agreed to by the vulnerable adult. If the court determines that the vulnerable adult is not capable of protecting his or her person or estate in connection with the issues raised in the petition or order, and that the vulnerable adult continues to need protection, the court shall order relief consistent with this chapter as it deems necessary for the protection of the vulnerable adult. In the entry of any order that is inconsistent with the expressed wishes of the vulnerable adult, the court's order is governed by the legislative findings contained in section 1 of this act.
+
+1. When a petition for a vulnerable adult protection order is filed by someone other than the vulnerable adult or the vulnerable adult's full guardian over either the person or the estate, or both, and the vulnerable adult for whom protection is sought advises the court at the hearing that the vulnerable adult does not want all or part of the protection sought in the petition, then the court may dismiss the petition or the provisions that the vulnerable adult objects to and any existing vulnerable adult protection order, or the court may take additional testimony or evidence, or order additional evidentiary hearings to determine whether the vulnerable adult is unable, due to incapacity, undue influence, or duress, to protect his or her person or estate in connection with the issues raised in the petition or order. If an additional evidentiary hearing is ordered and the court determines that there is reason to believe that there is a genuine issue about whether the vulnerable adult is unable to protect his or her person or estate in connection with the issues raised in the petition or order, the court may issue a temporary protection order of the vulnerable adult pending a decision after the evidentiary hearing.
+
+2. Pursuant to subsection (1) of this section, an evidentiary hearing on the issue of whether the vulnerable adult is unable, due to incapacity, undue influence, or duress, to protect his or her person or estate in connection with the issues raised in the petition or order, must be held within 14 days of entry of the temporary protection order. If the court did not enter a temporary protection order, the evidentiary hearing must be held within 14 days of the prior hearing on the petition. Notice of the time and place of the evidentiary hearing must be served upon the vulnerable adult and the respondent not less than five judicial days before the hearing. If timely service cannot be made, the court may set a new hearing date. A hearing under this subsection is not necessary if the vulnerable adult has been determined to be fully incapacitated over either the person or the estate, or both, under the guardianship laws, chapter 11.88 RCW. If a hearing is scheduled under this subsection, the protection order must remain in effect pending the court's decision at the subsequent hearing.
+
+3. At the hearing held pursuant to subsection (1) of this section, the court shall give the vulnerable adult, the respondent, the petitioner, and, in the court's discretion, other interested persons, the opportunity to testify and submit relevant evidence.
+
+4. If the court determines that the vulnerable adult is capable of protecting his or her person or estate in connection with the issues raised in the petition, and the vulnerable adult continues to object to the protection order, the court shall dismiss the order or may modify the order if agreed to by the vulnerable adult. If the court determines that the vulnerable adult is not capable of protecting his or her person or estate in connection with the issues raised in the petition or order, and that the vulnerable adult continues to need protection, the court shall order relief consistent with this chapter as it deems necessary for the protection of the vulnerable adult. In the entry of any order that is inconsistent with the expressed wishes of the vulnerable adult, the court's order is governed by the legislative findings contained in section 1 of this act.
+
 
 ## Section 29
-(1) The court shall issue a protection order if it finds by a preponderance of the evidence that the petitioner has proved the required criteria specified in (a) through (f) of this subsection for obtaining a protection order under this chapter.
-(a) For a domestic violence protection order, that the petitioner has been subjected to domestic violence by the respondent.
-(b) For a sexual assault protection order, that the petitioner has been subjected to nonconsensual sexual conduct or nonconsensual sexual penetration by the respondent.
-(c) For a stalking protection order, that the petitioner has been subjected to stalking by the respondent.
-(d) For a vulnerable adult protection order, that the petitioner has been abandoned, abused, financially exploited, or neglected, or is threatened with abandonment, abuse, financial exploitation, or neglect by the respondent.
-(e) For an extreme risk protection order, that the respondent poses a significant danger of causing personal injury to self or others by having in the respondent's custody or control, purchasing, possessing, accessing, receiving, or attempting to purchase or receive, a firearm.
-(f) For an antiharassment protection order, that the petitioner has been subjected to unlawful harassment by the respondent.
-(2) The court may not deny or dismiss a petition for a protection order on the grounds that:
-(a) The petitioner or the respondent is a minor, unless provisions in this chapter specifically limit relief or remedies based upon a party's age;
-(b) The petitioner did not report the conduct giving rise to the petition to law enforcement;
-(c) A no-contact order or a restraining order that restrains the respondent's contact with the petitioner has been issued in a criminal proceeding or in a domestic relations proceeding;
-(d) The relief sought by the petitioner may be available in a different action or proceeding, or criminal charges are pending against the respondent;
-(e) The conduct at issue did not occur recently or because of the passage of time since the last incident of conduct giving rise to the petition; or
-(f) The respondent no longer lives near the petitioner.
-(3) In proceedings where the petitioner alleges that the respondent engaged in nonconsensual sexual conduct or nonconsensual sexual penetration, the court shall not require proof of physical injury on the person of the petitioner or any other forensic evidence. Denial of a remedy to the petitioner may not be based, in whole or in part, on evidence that:
-(a) The respondent was voluntarily intoxicated;
-(b) The petitioner was voluntarily intoxicated; or
-(c) The petitioner engaged in limited consensual sexual touching.
-(4) In proceedings where the petitioner alleges that the respondent engaged in stalking, the court may not require proof of the respondent's intentions regarding the acts alleged by the petitioner.
-(5) If the court declines to issue a protection order, the court shall state in writing the particular reasons for the court's denial. If the court declines a request to include one or more of the petitioner's family or household member who is a minor or a vulnerable adult in the order, the court shall state the reasons for that denial in writing. The court shall also explain from the bench:
-(a) That the petitioner may refile a petition for a protection order at any time if the petitioner has new evidence to present that would support the issuance of a protection order;
-(b) The parties' rights to seek revision, reconsideration, or appeal of the order; and
-(c) The parties' rights to have access to the court transcript or recording of the hearing.
-(6) A court's ruling on a protection order must be filed by the court in writing and must be made by the court on the mandatory form developed by the administrative office of the courts.
+1. The court shall issue a protection order if it finds by a preponderance of the evidence that the petitioner has proved the required criteria specified in (a) through (f) of this subsection for obtaining a protection order under this chapter.
+
+    a. For a domestic violence protection order, that the petitioner has been subjected to domestic violence by the respondent.
+
+    b. For a sexual assault protection order, that the petitioner has been subjected to nonconsensual sexual conduct or nonconsensual sexual penetration by the respondent.
+
+    c. For a stalking protection order, that the petitioner has been subjected to stalking by the respondent.
+
+    d. For a vulnerable adult protection order, that the petitioner has been abandoned, abused, financially exploited, or neglected, or is threatened with abandonment, abuse, financial exploitation, or neglect by the respondent.
+
+    e. For an extreme risk protection order, that the respondent poses a significant danger of causing personal injury to self or others by having in the respondent's custody or control, purchasing, possessing, accessing, receiving, or attempting to purchase or receive, a firearm.
+
+    f. For an antiharassment protection order, that the petitioner has been subjected to unlawful harassment by the respondent.
+
+2. The court may not deny or dismiss a petition for a protection order on the grounds that:
+
+    a. The petitioner or the respondent is a minor, unless provisions in this chapter specifically limit relief or remedies based upon a party's age;
+
+    b. The petitioner did not report the conduct giving rise to the petition to law enforcement;
+
+    c. A no-contact order or a restraining order that restrains the respondent's contact with the petitioner has been issued in a criminal proceeding or in a domestic relations proceeding;
+
+    d. The relief sought by the petitioner may be available in a different action or proceeding, or criminal charges are pending against the respondent;
+
+    e. The conduct at issue did not occur recently or because of the passage of time since the last incident of conduct giving rise to the petition; or
+
+    f. The respondent no longer lives near the petitioner.
+
+3. In proceedings where the petitioner alleges that the respondent engaged in nonconsensual sexual conduct or nonconsensual sexual penetration, the court shall not require proof of physical injury on the person of the petitioner or any other forensic evidence. Denial of a remedy to the petitioner may not be based, in whole or in part, on evidence that:
+
+    a. The respondent was voluntarily intoxicated;
+
+    b. The petitioner was voluntarily intoxicated; or
+
+    c. The petitioner engaged in limited consensual sexual touching.
+
+4. In proceedings where the petitioner alleges that the respondent engaged in stalking, the court may not require proof of the respondent's intentions regarding the acts alleged by the petitioner.
+
+5. If the court declines to issue a protection order, the court shall state in writing the particular reasons for the court's denial. If the court declines a request to include one or more of the petitioner's family or household member who is a minor or a vulnerable adult in the order, the court shall state the reasons for that denial in writing. The court shall also explain from the bench:
+
+    a. That the petitioner may refile a petition for a protection order at any time if the petitioner has new evidence to present that would support the issuance of a protection order;
+
+    b. The parties' rights to seek revision, reconsideration, or appeal of the order; and
+
+    c. The parties' rights to have access to the court transcript or recording of the hearing.
+
+6. A court's ruling on a protection order must be filed by the court in writing and must be made by the court on the mandatory form developed by the administrative office of the courts.
+
 
 ## Section 30
-(1) Before ruling on an order under this chapter, the court shall consult the judicial information system to determine the criminal history, history of criminal victimization, history of being a respondent or petitioner in a protection order proceeding, or pendency of other proceedings involving the parties. The court may take judicial notice of a parallel criminal proceeding for the related conduct involving the same parties, including whether the defendant in that action waived speedy trial.
-(2) Before granting an order under this chapter directing residential placement of a child or restraining or limiting a party's contact with his or her child, the court shall consult the judicial information system, if available, to determine the pendency of other proceedings involving the residential placement of any child of the parties for whom residential placement has been requested.
-(3) When the court proposes to consider information from the judicial information system or another criminal or civil database, the court shall: Disclose the information to each party present at the hearing; on timely request, provide each party with an opportunity to be heard; and take appropriate measures to alleviate safety concerns of the parties. The court has discretion not to disclose information that the court does not propose to consider.
+1. Before ruling on an order under this chapter, the court shall consult the judicial information system to determine the criminal history, history of criminal victimization, history of being a respondent or petitioner in a protection order proceeding, or pendency of other proceedings involving the parties. The court may take judicial notice of a parallel criminal proceeding for the related conduct involving the same parties, including whether the defendant in that action waived speedy trial.
+
+2. Before granting an order under this chapter directing residential placement of a child or restraining or limiting a party's contact with his or her child, the court shall consult the judicial information system, if available, to determine the pendency of other proceedings involving the residential placement of any child of the parties for whom residential placement has been requested.
+
+3. When the court proposes to consider information from the judicial information system or another criminal or civil database, the court shall: Disclose the information to each party present at the hearing; on timely request, provide each party with an opportunity to be heard; and take appropriate measures to alleviate safety concerns of the parties. The court has discretion not to disclose information that the court does not propose to consider.
+
 
 ## Section 31
 For compliance hearings:
-(1) Only the respondent is required to appear if the court is reviewing compliance with any conditions of the order. The petitioner may appear at such hearing and provide evidence to the court regarding the respondent's compliance with the order. The petitioner may also file a declaration in response to the respondent's representation of compliance with any conditions of the order. After reviewing such a declaration by the petitioner, the court may ask the petitioner to appear at the hearing or provide additional declaration or documentation to address disputed issues.
-(2) Any orders entered by the court pursuant to a compliance hearing must be served on the respondent if the respondent failed to appear at the hearing at which the court entered the orders.
-(3) The court shall use its best efforts to notify the petitioner of the outcome of the compliance hearing including, but not limited to, informing the petitioner on whether the respondent is found to be out of compliance with an order to surrender and prohibit weapons. Such notice should be provided to the petitioner by electronic means if possible, but may also be made by telephone or another method that allows notification to be provided without unnecessary delay.
+
+1. Only the respondent is required to appear if the court is reviewing compliance with any conditions of the order. The petitioner may appear at such hearing and provide evidence to the court regarding the respondent's compliance with the order. The petitioner may also file a declaration in response to the respondent's representation of compliance with any conditions of the order. After reviewing such a declaration by the petitioner, the court may ask the petitioner to appear at the hearing or provide additional declaration or documentation to address disputed issues.
+
+2. Any orders entered by the court pursuant to a compliance hearing must be served on the respondent if the respondent failed to appear at the hearing at which the court entered the orders.
+
+3. The court shall use its best efforts to notify the petitioner of the outcome of the compliance hearing including, but not limited to, informing the petitioner on whether the respondent is found to be out of compliance with an order to surrender and prohibit weapons. Such notice should be provided to the petitioner by electronic means if possible, but may also be made by telephone or another method that allows notification to be provided without unnecessary delay.
+
 
 ## Section 32
 The court may appoint counsel to represent the petitioner if the respondent is represented by counsel.
 
+
 ## Section 33
-(1) Pursuant to chapter 2.42 RCW, in order to ensure that parties have meaningful access to the court, an interpreter shall be appointed for any party who, because of a hearing or speech impairment, cannot readily understand or communicate in spoken language. Notwithstanding the provisions of chapter 2.42 RCW, the court shall not:
-(a) Appoint an interpreter who is not trained to provide interpretation services; or
-(b) Appoint a person to provide interpretation services if that person is serving as an advocate for the party.
-(2) Pursuant to chapter 2.43 RCW, in order to ensure that parties have meaningful access to the court, an interpreter shall be appointed for any party who cannot readily speak or understand the English language. Notwithstanding the provisions of chapter 2.43 RCW, the court shall not:
-(a) Appoint an interpreter who is not trained to provide interpretation services; or
-(b) Appoint a person to provide interpretation services if that person is serving as an advocate for the party.
-(3) Once an interpreter has been appointed for a party, the party shall no longer be required to make further requests for the appointment of an interpreter for subsequent hearings or proceedings. The clerk shall identify the party as a person who needs interpreter services and the clerk or the court administrator shall be responsible for ensuring that an interpreter is available for every subsequent hearing.
-(4) The interpreter shall translate or interpret for the party in preparing forms, participating in the hearing and court-ordered assessments, and translating any orders.
-(5) The same interpreter shall not serve parties on both sides of the proceeding, unless the court finds good cause on the record to do so because it is not possible to obtain more than one interpreter for the proceeding.
-(6) Courts shall make a private space available for parties and interpreters to meet and confer.
-(7) When a hearing is conducted through telephone, video, or other electronic means, the court must make appropriate accommodations to permit interpreters to serve the parties as needed.
+1. Pursuant to chapter 2.42 RCW, in order to ensure that parties have meaningful access to the court, an interpreter shall be appointed for any party who, because of a hearing or speech impairment, cannot readily understand or communicate in spoken language. Notwithstanding the provisions of chapter 2.42 RCW, the court shall not:
+
+    a. Appoint an interpreter who is not trained to provide interpretation services; or
+
+    b. Appoint a person to provide interpretation services if that person is serving as an advocate for the party.
+
+2. Pursuant to chapter 2.43 RCW, in order to ensure that parties have meaningful access to the court, an interpreter shall be appointed for any party who cannot readily speak or understand the English language. Notwithstanding the provisions of chapter 2.43 RCW, the court shall not:
+
+    a. Appoint an interpreter who is not trained to provide interpretation services; or
+
+    b. Appoint a person to provide interpretation services if that person is serving as an advocate for the party.
+
+3. Once an interpreter has been appointed for a party, the party shall no longer be required to make further requests for the appointment of an interpreter for subsequent hearings or proceedings. The clerk shall identify the party as a person who needs interpreter services and the clerk or the court administrator shall be responsible for ensuring that an interpreter is available for every subsequent hearing.
+
+4. The interpreter shall translate or interpret for the party in preparing forms, participating in the hearing and court-ordered assessments, and translating any orders.
+
+5. The same interpreter shall not serve parties on both sides of the proceeding, unless the court finds good cause on the record to do so because it is not possible to obtain more than one interpreter for the proceeding.
+
+6. Courts shall make a private space available for parties and interpreters to meet and confer.
+
+7. When a hearing is conducted through telephone, video, or other electronic means, the court must make appropriate accommodations to permit interpreters to serve the parties as needed.
+
 
 ## Section 34
-(2) Whether or not the petitioner has retained an attorney, a protection order advocate must be allowed to accompany the petitioner to any legal proceeding including, but not limited to, sitting or standing next to the petitioner and conferring with the petitioner during court proceedings, or addressing the court when invited to do so.
-(a) For purposes of this section, "protection order advocate" means any employee or volunteer from a program that provides, as some part of its services, information, advocacy, counseling, or support to persons seeking protection orders.
-(b) The protection order advocate shall not provide legal representation nor interpretation services.
-(c) Unless a protection order advocate seeks to speak directly to the court, protection order advocates shall not be required to be identified on the record beyond stating his or her role as a protection order advocate and identifying the program for which he or she works or volunteers. 
-(d) A protection order advocate who is not employed by, or under the direct supervision of, a law enforcement agency, a prosecutor's office, the child protective services section of the department of children, youth, and families as defined in RCW 26.44.020, or other governmental entity, has the same privileges, rights, and responsibilities as a sexual assault advocate and domestic violence advocate under RCW 5.60.060.
-(3) Whether or not the petitioner has retained an attorney, if a petitioner does not have an advocate, the petitioner shall be allowed a support person to accompany the petitioner to any legal proceeding including, but not limited to, sitting or standing next to the petitioner and conferring with the petitioner during court proceedings. The support person may be any third party of the petitioner's choosing, provided that:
-(a) The support person shall not provide legal representation nor interpretation services; and
-(b) A support person who is not employed by, or under the direct supervision of, a law enforcement agency, a prosecutor's office, the child protective services section of the department of children, youth, and families as defined in RCW 26.44.020, or other government entity, may not, without the consent of the petitioner, be examined as to any communication between the petitioner and the support person regarding the petition.
+2. Whether or not the petitioner has retained an attorney, a protection order advocate must be allowed to accompany the petitioner to any legal proceeding including, but not limited to, sitting or standing next to the petitioner and conferring with the petitioner during court proceedings, or addressing the court when invited to do so.
+
+    a. For purposes of this section, "protection order advocate" means any employee or volunteer from a program that provides, as some part of its services, information, advocacy, counseling, or support to persons seeking protection orders.
+
+    b. The protection order advocate shall not provide legal representation nor interpretation services.
+
+    c. Unless a protection order advocate seeks to speak directly to the court, protection order advocates shall not be required to be identified on the record beyond stating his or her role as a protection order advocate and identifying the program for which he or she works or volunteers.
+
+    d. A protection order advocate who is not employed by, or under the direct supervision of, a law enforcement agency, a prosecutor's office, the child protective services section of the department of children, youth, and families as defined in RCW 26.44.020, or other governmental entity, has the same privileges, rights, and responsibilities as a sexual assault advocate and domestic violence advocate under RCW 5.60.060.
+
+3. Whether or not the petitioner has retained an attorney, if a petitioner does not have an advocate, the petitioner shall be allowed a support person to accompany the petitioner to any legal proceeding including, but not limited to, sitting or standing next to the petitioner and conferring with the petitioner during court proceedings. The support person may be any third party of the petitioner's choosing, provided that:
+
+    a. The support person shall not provide legal representation nor interpretation services; and
+
+    b. A support person who is not employed by, or under the direct supervision of, a law enforcement agency, a prosecutor's office, the child protective services section of the department of children, youth, and families as defined in RCW 26.44.020, or other government entity, may not, without the consent of the petitioner, be examined as to any communication between the petitioner and the support person regarding the petition.
+
 
 ## Section 35
 To help ensure familiarity with the unique nature of protection order proceedings, and an understanding of trauma-informed practices, best practices in use of new technologies for remote hearings, and evolving uses of technology as part of coercive control techniques, judicial officers, including persons who serve as judicial officers pro tempore, should receive training on procedural justice, trauma-informed practices, gender-based violence dynamics, elder abuse, juvenile sex offending, teen dating violence, and requirements for the surrender of weapons before presiding over protection order hearings. Trainings should be provided on an ongoing basis as best practices, research on trauma, and legislation continue to evolve. As a method of continuous training, court commissioners, including pro tempore commissioners, shall be notified by the presiding judge or court administrator upon revision of any decision made under this chapter.
 
+
 ## Section 36
-(1) The administrative office of the courts, through the gender and justice commission of the Washington state supreme court, and with the support of the Washington state women's commission, shall work with representatives of superior, district, and municipal court judicial officers, court clerks, and administrators, including those with experience in protection order proceedings, as well as advocates and practitioners with expertise in each type of protection order, and others with relevant expertise, to consider and develop recommendations regarding:
-(a) Uses of technology to reduce administrative burdens in protection order proceedings;
-(b) Improving access to unrepresented parties in protection order proceedings, including promoting access for pro bono attorneys for remote protection order proceedings, in consultation with the Washington state bar association;
-(c) Developing best practices for courts when there are civil protection order and criminal proceedings that concern the same alleged conduct; and
-(d) Developing best practices in data collection and sharing, including demographic information, in order to promote research and study on protection orders and transparency of protection order data for the public, in partnership with the Washington state center for court research, the Washington state institute for public policy, the University of Washington, and the urban Indian health institute.
-(2) The gender and justice commission shall provide a report of its recommendations to the legislature by June 30, 2022.
+1. The administrative office of the courts, through the gender and justice commission of the Washington state supreme court, and with the support of the Washington state women's commission, shall work with representatives of superior, district, and municipal court judicial officers, court clerks, and administrators, including those with experience in protection order proceedings, as well as advocates and practitioners with expertise in each type of protection order, and others with relevant expertise, to consider and develop recommendations regarding:
+
+    a. Uses of technology to reduce administrative burdens in protection order proceedings;
+
+    b. Improving access to unrepresented parties in protection order proceedings, including promoting access for pro bono attorneys for remote protection order proceedings, in consultation with the Washington state bar association;
+
+    c. Developing best practices for courts when there are civil protection order and criminal proceedings that concern the same alleged conduct; and
+
+    d. Developing best practices in data collection and sharing, including demographic information, in order to promote research and study on protection orders and transparency of protection order data for the public, in partnership with the Washington state center for court research, the Washington state institute for public policy, the University of Washington, and the urban Indian health institute.
+
+2. The gender and justice commission shall provide a report of its recommendations to the legislature by June 30, 2022.
+
 
 ## Section 37
 Sections 38 through 42 of this act apply to all orders other than extreme risk protection orders.
 
+
 ## Section 38
-(1) Where it appears from the petition and any additional evidence that the respondent has engaged in conduct against the petitioner that serves as a basis for a protection order under this chapter, and the petitioner alleges that irreparable injury could result if an order is not issued immediately without prior notice to the respondent, the court may grant an ex parte temporary protection order, pending a full hearing. The court has broad discretion to grant such relief as the court deems proper, including the forms of relief listed in section 39 of this act, provided that the court shall not order a form of relief listed in section 39 of this act if it would not be feasible or appropriate for the respondent to comply with such a requirement before a full hearing may be held on the petition for a protection order. If the court does not order all the relief requested by the petitioner in an ex parte temporary protection order, the court shall still consider ordering such relief at the full hearing on the petition for a protection order. In issuing the order, the court shall consider the provisions of RCW 9.41.800, and order the respondent to surrender, and prohibit the respondent from accessing, having in his or her custody or control, possessing, purchasing, attempting to purchase or receive, or receiving, all firearms, dangerous weapons, and any concealed pistol license, as required in RCW 9.41.800.
-(2) Any order issued under this section must contain the date, time of issuance, and expiration date.
-(3) If the court declines to issue an ex parte temporary protection order, the court shall state the particular reasons for the court's denial in writing. The court's denial of a motion for an ex parte temporary protection order shall be filed with the court. If an ex parte temporary protection order is denied, the court shall still set a full hearing on the petition for a protection order.
-(4) A petitioner may not obtain an ex parte temporary antiharassment protection order against a respondent if the petitioner has previously obtained two such ex parte orders against the same respondent, but has failed to obtain the issuance of a civil antiharassment protection order, unless good cause for such failure can be shown.
+1. Where it appears from the petition and any additional evidence that the respondent has engaged in conduct against the petitioner that serves as a basis for a protection order under this chapter, and the petitioner alleges that irreparable injury could result if an order is not issued immediately without prior notice to the respondent, the court may grant an ex parte temporary protection order, pending a full hearing. The court has broad discretion to grant such relief as the court deems proper, including the forms of relief listed in section 39 of this act, provided that the court shall not order a form of relief listed in section 39 of this act if it would not be feasible or appropriate for the respondent to comply with such a requirement before a full hearing may be held on the petition for a protection order. If the court does not order all the relief requested by the petitioner in an ex parte temporary protection order, the court shall still consider ordering such relief at the full hearing on the petition for a protection order. In issuing the order, the court shall consider the provisions of RCW 9.41.800, and order the respondent to surrender, and prohibit the respondent from accessing, having in his or her custody or control, possessing, purchasing, attempting to purchase or receive, or receiving, all firearms, dangerous weapons, and any concealed pistol license, as required in RCW 9.41.800.
+
+2. Any order issued under this section must contain the date, time of issuance, and expiration date.
+
+3. If the court declines to issue an ex parte temporary protection order, the court shall state the particular reasons for the court's denial in writing. The court's denial of a motion for an ex parte temporary protection order shall be filed with the court. If an ex parte temporary protection order is denied, the court shall still set a full hearing on the petition for a protection order.
+
+4. A petitioner may not obtain an ex parte temporary antiharassment protection order against a respondent if the petitioner has previously obtained two such ex parte orders against the same respondent, but has failed to obtain the issuance of a civil antiharassment protection order, unless good cause for such failure can be shown.
+
 
 ## Section 39
-(1) In issuing any type of protection order, other than an extreme risk protection order, the court shall have broad discretion to grant such relief as the court deems proper, including an order that provides relief as follows:
-(a) Restrain the respondent from committing any of the following acts against the petitioner and other persons protected by the order: Domestic violence; nonconsensual sexual conduct or nonconsensual sexual penetration; sexual abuse; stalking; acts of abandonment, abuse, neglect, or financial exploitation against a vulnerable adult; and unlawful harassment;
-(b) Restrain the respondent from making any attempts to have contact, including nonphysical contact, with the petitioner or the petitioner's family or household members who are minors or other members of the petitioner's household, either directly, indirectly, or through third parties regardless of whether those third parties know of the order;
-(c) Exclude the respondent from the dwelling that the parties share; from the residence, workplace, or school of the petitioner; or from the day care or school of a minor child;
-(d) Restrain the respondent from knowingly coming within, or knowingly remaining within, a specified distance from a specified location including, but not limited to, a residence, school, day care, workplace, the protected party's person, and the protected party's vehicle. The specified distance shall presumptively be at least 1,000 feet, unless the court for good cause finds that a shorter specified distance is appropriate;
-(e) If the parties have children in common, make residential provisions with regard to their minor children on the same basis as is provided in chapter 26.09 RCW. However, parenting plans as specified in chapter 26.09 RCW must not be required under this chapter. The court may not delay or defer relief under this chapter on the grounds that the parties could seek a parenting plan or modification to a parenting plan in a different action. A protection order must not be denied on the grounds that the parties have an existing parenting plan in effect. A protection order may suspend the respondent's contact with the parties' children under an existing parenting plan, subject to further orders in a family law proceeding;
-(f) Order the respondent to participate in a state-certified domestic violence perpetrator treatment program approved under RCW 26.50.150 (as recodified by this act) or a state-certified sex offender treatment program approved under RCW 18.155.070;
-(g) Order the respondent to obtain a mental health or chemical dependency evaluation. If the court determines that a mental health evaluation is necessary, the court shall clearly document the reason for this determination and provide a specific question or questions to be answered by the mental health professional. The court shall consider the ability of the respondent to pay for an evaluation. Minors are presumed to be unable to pay. The parent or legal guardian is responsible for costs unless the parent or legal guardian demonstrates inability to pay;
-(h) In cases where the petitioner and the respondent are students who attend the same public or private elementary, middle, or high school, the court, when issuing a protection order and providing relief, shall consider, among the other facts of the case, the severity of the act, any continuing physical danger, emotional distress, or educational disruption to the petitioner, and the financial difficulty and educational disruption that would be caused by a transfer of the respondent to another school. The court may order that the respondent not attend the public or private elementary, middle, or high school attended by the petitioner. If a minor respondent is prohibited attendance at the minor's assigned public school, the school district must provide the student comparable educational services in another setting. In such a case, the district shall provide transportation at no cost to the respondent if the respondent's parent or legal guardian is unable to pay for transportation. The district shall put in place any needed supports to ensure successful transition to the new school environment. The court shall send notice of the restriction on attending the same school as the petitioner to the public or private school the respondent will attend and to the school the petitioner attends;
-(i) Require the respondent to pay the administrative court costs and service fees, as established by the county or municipality incurring the expense, and to reimburse the petitioner for costs incurred in bringing the action, including reasonable attorneys' fees or limited license legal technician fees when such fees are incurred by a person licensed and practicing in accordance with state supreme court admission and practice rule 28, the limited practice rule for limited license legal technicians. Minors are presumed to be unable to pay. The parent or legal guardian is responsible for costs unless the parent or legal guardian demonstrates inability to pay;
-(j) Restrain the respondent from harassing, following, monitoring, keeping under physical or electronic surveillance, cyberstalking as defined in RCW 9.61.260, and using telephonic, audiovisual, or other electronic means to monitor the actions, location, or communication of the petitioner or the petitioner's family or household members who are minors or other members of the petitioner's household. For the purposes of this subsection, "communication" includes both "wire communication" and "electronic communication" as defined in RCW 9.73.260;
-(k) Other than for respondents who are minors, require the respondent to submit to electronic monitoring. The order must specify who shall provide the electronic monitoring services and the terms under which the monitoring must be performed. The order also may include a requirement that the respondent pay the costs of the monitoring. The court shall consider the ability of the respondent to pay for electronic monitoring;
-(l) Consider the provisions of RCW 9.41.800, and order the respondent to surrender, and prohibit the respondent from accessing, having in his or her custody or control, possessing, purchasing, attempting to purchase or receive, or receiving, all firearms, dangerous weapons, and any concealed pistol license, as required in RCW 9.41.800;
-(m) Order possession and use of essential personal effects. The court shall list the essential personal effects with sufficient specificity to make it clear which property is included. Personal effects may include pets. The court may order that a petitioner be granted the exclusive custody or control of any pet owned, possessed, leased, kept, or held by the petitioner, respondent, or minor child residing with either the petitioner or respondent, and may prohibit the respondent from interfering with the petitioner's efforts to obtain the pet. The court may also prohibit the respondent from knowingly coming within, or knowingly remaining within, a specified distance of specified locations where the pet is regularly found;
-(n) Order use of a vehicle;
-(o) Enter an order restricting the respondent from engaging in abusive litigation as set forth in chapter 26.51 RCW or in frivolous filings against the petitioner, making harassing or libelous communications about the petitioner to third parties, or making false reports to investigative agencies. A petitioner may request this relief in the petition or by separate motion. A petitioner may request this relief by separate motion at any time within five years of the date the protection order is entered even if the order has since expired. A stand-alone motion for an order restricting abusive litigation may be brought by a party who meets the requirements of chapter 26.51 RCW regardless of whether the party has previously sought a protection order under this chapter, provided the motion is made within five years of the date the order that made a finding of domestic violence was entered. In cases where a finding of domestic violence was entered pursuant to an order under chapter 26.09, 26.26, or 26.26A RCW, a motion for an order restricting abusive litigation may be brought under the family law case or as a stand-alone action filed under this chapter, when it is not reasonable or practical to file under the family law case;
-(p) Restrain the respondent from committing acts of abandonment, abuse, neglect, or financial exploitation against a vulnerable adult;
-(q) Require an accounting by the respondent of the disposition of the vulnerable adult's income or other resources;
-(r) Restrain the transfer of either the respondent's or vulnerable adult's property, or both, for a specified period not exceeding 90 days;
-(s) Order financial relief and restrain the transfer of jointly owned assets;
-(t) Restrain the respondent from possessing or distributing intimate images, as defined in RCW 9A.86.010, depicting the petitioner including, but not limited to, requiring the respondent to: Take down and delete all intimate images and recordings of the petitioner in the respondent's possession or control; and cease any and all disclosure of those intimate images. The court may also inform the respondent that it would be appropriate to ask third parties in possession or control of the intimate images of this protection order to take down and delete the intimate images so that the order may not inadvertently be violated; or
-(u) Order other relief as it deems necessary for the protection of the petitioner and other family or household members who are minors or vulnerable adults for whom the petitioner has sought protection, including orders or directives to a law enforcement officer, as allowed under this chapter.
-(2) The court in granting a temporary antiharassment protection order or a civil antiharassment protection order shall not prohibit the respondent from exercising constitutionally protected free speech. Nothing in this section prohibits the petitioner from utilizing other civil or criminal remedies to restrain conduct or communications not otherwise constitutionally protected.
-(3) The court shall not take any of the following actions in issuing a protection order.
-(a) The court may not order the petitioner to obtain services including, but not limited to, drug testing, victim support services, a mental health assessment, or a psychological evaluation.
-(b) The court may not order the petitioner to pay the respondent's attorneys' fees or other costs.
-(c) The court shall not issue a full protection order to any party except upon notice to the respondent and the opportunity for a hearing pursuant to a petition or counter-petition filed and served by the party seeking relief in accordance with this chapter. Except as provided in section 26 of this act, the court shall not issue a temporary protection order to any party unless the party has filed a petition or counter-petition for a protection order seeking relief in accordance with this chapter.
-(d) Under no circumstances shall the court deny the petitioner the type of protection order sought in the petition on the grounds that the court finds that a different type of protection order would have a less severe impact on the respondent.
-(4) The order shall specify the date the order expires, if any. For permanent orders, the court shall set the date to expire 99 years from the issuance date. The order shall also state whether the court issued the protection order following personal service, service by electronic means, service by mail, or service by publication, and whether the court has approved service by mail or publication of an order issued under this section.
+1. In issuing any type of protection order, other than an extreme risk protection order, the court shall have broad discretion to grant such relief as the court deems proper, including an order that provides relief as follows:
+
+    a. Restrain the respondent from committing any of the following acts against the petitioner and other persons protected by the order: Domestic violence; nonconsensual sexual conduct or nonconsensual sexual penetration; sexual abuse; stalking; acts of abandonment, abuse, neglect, or financial exploitation against a vulnerable adult; and unlawful harassment;
+
+    b. Restrain the respondent from making any attempts to have contact, including nonphysical contact, with the petitioner or the petitioner's family or household members who are minors or other members of the petitioner's household, either directly, indirectly, or through third parties regardless of whether those third parties know of the order;
+
+    c. Exclude the respondent from the dwelling that the parties share; from the residence, workplace, or school of the petitioner; or from the day care or school of a minor child;
+
+    d. Restrain the respondent from knowingly coming within, or knowingly remaining within, a specified distance from a specified location including, but not limited to, a residence, school, day care, workplace, the protected party's person, and the protected party's vehicle. The specified distance shall presumptively be at least 1,000 feet, unless the court for good cause finds that a shorter specified distance is appropriate;
+
+    e. If the parties have children in common, make residential provisions with regard to their minor children on the same basis as is provided in chapter 26.09 RCW. However, parenting plans as specified in chapter 26.09 RCW must not be required under this chapter. The court may not delay or defer relief under this chapter on the grounds that the parties could seek a parenting plan or modification to a parenting plan in a different action. A protection order must not be denied on the grounds that the parties have an existing parenting plan in effect. A protection order may suspend the respondent's contact with the parties' children under an existing parenting plan, subject to further orders in a family law proceeding;
+
+    f. Order the respondent to participate in a state-certified domestic violence perpetrator treatment program approved under RCW 26.50.150 (as recodified by this act) or a state-certified sex offender treatment program approved under RCW 18.155.070;
+
+    g. Order the respondent to obtain a mental health or chemical dependency evaluation. If the court determines that a mental health evaluation is necessary, the court shall clearly document the reason for this determination and provide a specific question or questions to be answered by the mental health professional. The court shall consider the ability of the respondent to pay for an evaluation. Minors are presumed to be unable to pay. The parent or legal guardian is responsible for costs unless the parent or legal guardian demonstrates inability to pay;
+
+    h. In cases where the petitioner and the respondent are students who attend the same public or private elementary, middle, or high school, the court, when issuing a protection order and providing relief, shall consider, among the other facts of the case, the severity of the act, any continuing physical danger, emotional distress, or educational disruption to the petitioner, and the financial difficulty and educational disruption that would be caused by a transfer of the respondent to another school. The court may order that the respondent not attend the public or private elementary, middle, or high school attended by the petitioner. If a minor respondent is prohibited attendance at the minor's assigned public school, the school district must provide the student comparable educational services in another setting. In such a case, the district shall provide transportation at no cost to the respondent if the respondent's parent or legal guardian is unable to pay for transportation. The district shall put in place any needed supports to ensure successful transition to the new school environment. The court shall send notice of the restriction on attending the same school as the petitioner to the public or private school the respondent will attend and to the school the petitioner attends;
+
+    i. Require the respondent to pay the administrative court costs and service fees, as established by the county or municipality incurring the expense, and to reimburse the petitioner for costs incurred in bringing the action, including reasonable attorneys' fees or limited license legal technician fees when such fees are incurred by a person licensed and practicing in accordance with state supreme court admission and practice rule 28, the limited practice rule for limited license legal technicians. Minors are presumed to be unable to pay. The parent or legal guardian is responsible for costs unless the parent or legal guardian demonstrates inability to pay;
+
+    j. Restrain the respondent from harassing, following, monitoring, keeping under physical or electronic surveillance, cyberstalking as defined in RCW 9.61.260, and using telephonic, audiovisual, or other electronic means to monitor the actions, location, or communication of the petitioner or the petitioner's family or household members who are minors or other members of the petitioner's household. For the purposes of this subsection, "communication" includes both "wire communication" and "electronic communication" as defined in RCW 9.73.260;
+
+    k. Other than for respondents who are minors, require the respondent to submit to electronic monitoring. The order must specify who shall provide the electronic monitoring services and the terms under which the monitoring must be performed. The order also may include a requirement that the respondent pay the costs of the monitoring. The court shall consider the ability of the respondent to pay for electronic monitoring;
+
+    l. Consider the provisions of RCW 9.41.800, and order the respondent to surrender, and prohibit the respondent from accessing, having in his or her custody or control, possessing, purchasing, attempting to purchase or receive, or receiving, all firearms, dangerous weapons, and any concealed pistol license, as required in RCW 9.41.800;
+
+    m. Order possession and use of essential personal effects. The court shall list the essential personal effects with sufficient specificity to make it clear which property is included. Personal effects may include pets. The court may order that a petitioner be granted the exclusive custody or control of any pet owned, possessed, leased, kept, or held by the petitioner, respondent, or minor child residing with either the petitioner or respondent, and may prohibit the respondent from interfering with the petitioner's efforts to obtain the pet. The court may also prohibit the respondent from knowingly coming within, or knowingly remaining within, a specified distance of specified locations where the pet is regularly found;
+
+    n. Order use of a vehicle;
+
+    o. Enter an order restricting the respondent from engaging in abusive litigation as set forth in chapter 26.51 RCW or in frivolous filings against the petitioner, making harassing or libelous communications about the petitioner to third parties, or making false reports to investigative agencies. A petitioner may request this relief in the petition or by separate motion. A petitioner may request this relief by separate motion at any time within five years of the date the protection order is entered even if the order has since expired. A stand-alone motion for an order restricting abusive litigation may be brought by a party who meets the requirements of chapter 26.51 RCW regardless of whether the party has previously sought a protection order under this chapter, provided the motion is made within five years of the date the order that made a finding of domestic violence was entered. In cases where a finding of domestic violence was entered pursuant to an order under chapter 26.09, 26.26, or 26.26A RCW, a motion for an order restricting abusive litigation may be brought under the family law case or as a stand-alone action filed under this chapter, when it is not reasonable or practical to file under the family law case;
+
+    p. Restrain the respondent from committing acts of abandonment, abuse, neglect, or financial exploitation against a vulnerable adult;
+
+    q. Require an accounting by the respondent of the disposition of the vulnerable adult's income or other resources;
+
+    r. Restrain the transfer of either the respondent's or vulnerable adult's property, or both, for a specified period not exceeding 90 days;
+
+    s. Order financial relief and restrain the transfer of jointly owned assets;
+
+    t. Restrain the respondent from possessing or distributing intimate images, as defined in RCW 9A.86.010, depicting the petitioner including, but not limited to, requiring the respondent to: Take down and delete all intimate images and recordings of the petitioner in the respondent's possession or control; and cease any and all disclosure of those intimate images. The court may also inform the respondent that it would be appropriate to ask third parties in possession or control of the intimate images of this protection order to take down and delete the intimate images so that the order may not inadvertently be violated; or
+
+    u. Order other relief as it deems necessary for the protection of the petitioner and other family or household members who are minors or vulnerable adults for whom the petitioner has sought protection, including orders or directives to a law enforcement officer, as allowed under this chapter.
+
+2. The court in granting a temporary antiharassment protection order or a civil antiharassment protection order shall not prohibit the respondent from exercising constitutionally protected free speech. Nothing in this section prohibits the petitioner from utilizing other civil or criminal remedies to restrain conduct or communications not otherwise constitutionally protected.
+
+3. The court shall not take any of the following actions in issuing a protection order.
+
+    a. The court may not order the petitioner to obtain services including, but not limited to, drug testing, victim support services, a mental health assessment, or a psychological evaluation.
+
+    b. The court may not order the petitioner to pay the respondent's attorneys' fees or other costs.
+
+    c. The court shall not issue a full protection order to any party except upon notice to the respondent and the opportunity for a hearing pursuant to a petition or counter-petition filed and served by the party seeking relief in accordance with this chapter. Except as provided in section 26 of this act, the court shall not issue a temporary protection order to any party unless the party has filed a petition or counter-petition for a protection order seeking relief in accordance with this chapter.
+
+    d. Under no circumstances shall the court deny the petitioner the type of protection order sought in the petition on the grounds that the court finds that a different type of protection order would have a less severe impact on the respondent.
+
+4. The order shall specify the date the order expires, if any. For permanent orders, the court shall set the date to expire 99 years from the issuance date. The order shall also state whether the court issued the protection order following personal service, service by electronic means, service by mail, or service by publication, and whether the court has approved service by mail or publication of an order issued under this section.
+
 
 ## Section 40
-(1) When issuing an order after notice to the respondent and a hearing, the court may either grant relief for a fixed period of time or enter a permanent order of protection. The court shall not grant relief for less than one year unless the petitioner has specifically requested relief for a shorter period of time.
-(2)(a) If a protection order restrains the respondent from contacting the respondent's minor children, the restraint must be for a fixed period not to exceed one year. This limitation is not applicable to protection orders issued under chapter 26.09, 26.26A, or 26.26B RCW.
-(b) If the petitioner has petitioned for relief on behalf of the respondent's minor children, the court shall advise the petitioner that if the petitioner wants to continue protection for a period beyond one year, the petitioner may either petition for renewal pursuant to the provisions of this chapter or may seek relief pursuant to the provisions of chapter 26.09, 26.26A, or 26.26B RCW.
+1. When issuing an order after notice to the respondent and a hearing, the court may either grant relief for a fixed period of time or enter a permanent order of protection. The court shall not grant relief for less than one year unless the petitioner has specifically requested relief for a shorter period of time.
+
+2. [Empty]
+
+    a. If a protection order restrains the respondent from contacting the respondent's minor children, the restraint must be for a fixed period not to exceed one year. This limitation is not applicable to protection orders issued under chapter 26.09, 26.26A, or 26.26B RCW.
+
+    b. If the petitioner has petitioned for relief on behalf of the respondent's minor children, the court shall advise the petitioner that if the petitioner wants to continue protection for a period beyond one year, the petitioner may either petition for renewal pursuant to the provisions of this chapter or may seek relief pursuant to the provisions of chapter 26.09, 26.26A, or 26.26B RCW.
+
 
 ## Section 41
-(1) When an order is issued under this chapter upon request of the petitioner, the court may order a law enforcement officer to accompany the petitioner and assist in placing the petitioner in possession of those items indicated in the order or to otherwise assist in the execution of the order of protection. The order must list all items that are to be included with sufficient specificity to make it clear which property is included. Orders issued under this chapter must include a designation of the appropriate law enforcement agency to execute, serve, or enforce the order.
-(2) Upon order of a court, a law enforcement officer shall accompany the petitioner and assist in placing the petitioner in possession of all items listed in the order and to otherwise assist in the execution of the order.
-(3) Where orders involve surrender of firearms, dangerous weapons, and concealed pistol licenses, those items must be secured and accounted for in a manner that prioritizes safety and compliance with court orders.
+1. When an order is issued under this chapter upon request of the petitioner, the court may order a law enforcement officer to accompany the petitioner and assist in placing the petitioner in possession of those items indicated in the order or to otherwise assist in the execution of the order of protection. The order must list all items that are to be included with sufficient specificity to make it clear which property is included. Orders issued under this chapter must include a designation of the appropriate law enforcement agency to execute, serve, or enforce the order.
+
+2. Upon order of a court, a law enforcement officer shall accompany the petitioner and assist in placing the petitioner in possession of all items listed in the order and to otherwise assist in the execution of the order.
+
+3. Where orders involve surrender of firearms, dangerous weapons, and concealed pistol licenses, those items must be secured and accounted for in a manner that prioritizes safety and compliance with court orders.
+
 
 ## Section 42
-(1) The clerk of the court shall enter any protection order, including temporary protection orders, issued under this chapter into a statewide judicial information system on the same day such order is issued, if possible, but no later than the next judicial day.
-(2) A copy of a protection order granted under this chapter, including temporary protection orders, must be forwarded immediately by the clerk of the court, by electronic means if possible, to the law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall immediately enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order must remain in the computer until the expiration date specified on the order. If the court has entered an order that prohibits the respondent from possessing or purchasing a firearm, the law enforcement agency shall also enter the order into the national instant criminal background check system and any other federal or state computer-based systems used by law enforcement or others to identify prohibited purchasers of firearms. The order must remain in each system for the period stated in the order, and the law enforcement agency shall only expunge orders from the systems that have expired or terminated. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
-(3) The information entered into the computer-based criminal intelligence information system must include notice to law enforcement on whether the order was personally served, served by electronic means, served by publication, or served by mail.
-(4) If a law enforcement agency receives a protection order for entry or service, but the order falls outside the agency's jurisdiction, the agency may enter and serve the order or may immediately forward it to the appropriate law enforcement agency for entry and service, and shall provide documentation back to the court verifying which law enforcement agency has entered and will serve the order.
+1. The clerk of the court shall enter any protection order, including temporary protection orders, issued under this chapter into a statewide judicial information system on the same day such order is issued, if possible, but no later than the next judicial day.
+
+2. A copy of a protection order granted under this chapter, including temporary protection orders, must be forwarded immediately by the clerk of the court, by electronic means if possible, to the law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall immediately enter the order into any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order must remain in the computer until the expiration date specified on the order. If the court has entered an order that prohibits the respondent from possessing or purchasing a firearm, the law enforcement agency shall also enter the order into the national instant criminal background check system and any other federal or state computer-based systems used by law enforcement or others to identify prohibited purchasers of firearms. The order must remain in each system for the period stated in the order, and the law enforcement agency shall only expunge orders from the systems that have expired or terminated. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
+
+3. The information entered into the computer-based criminal intelligence information system must include notice to law enforcement on whether the order was personally served, served by electronic means, served by publication, or served by mail.
+
+4. If a law enforcement agency receives a protection order for entry or service, but the order falls outside the agency's jurisdiction, the agency may enter and serve the order or may immediately forward it to the appropriate law enforcement agency for entry and service, and shall provide documentation back to the court verifying which law enforcement agency has entered and will serve the order.
+
 
 ## Section 43
-(1) In considering whether to issue a temporary extreme risk protection order, the court shall consider all relevant evidence, including the evidence described in section 27 of this act.
-(2) If a court finds there is reasonable cause to believe that the respondent poses a significant danger of causing personal injury to self or others in the near future by having in the respondent's custody or control, purchasing, possessing, accessing, receiving, or attempting to purchase or receive, a firearm, the court shall issue a temporary extreme risk protection order.
-(3) A temporary extreme risk protection order must include:
-(a) A statement of the grounds asserted for the order;
-(b) The date and time the order was issued;
-(c) The date and time the order expires;
-(d) The address of the court in which any responsive pleading should be filed;
-(e) The date and time of the scheduled hearing;
-(f) A description of the requirements for the surrender of firearms under section 45 of this act; and
-(g) The following statement: "To the subject of this protection order: This order is valid until the date and time noted above. You are required to surrender all firearms in your custody, control, or possession. You may not have in your custody or control, access, possess, purchase, receive, or attempt to purchase or receive, a firearm, or a concealed pistol license, while this order is in effect. You must surrender to the (insert name of local law enforcement agency) all firearms in your custody, control, or possession, and any concealed pistol license issued to you under RCW 9.41.070 immediately. A hearing will be held on the date and at the time noted above to determine if an extreme risk protection order should be issued. Failure to appear at that hearing may result in a court making an order against you that is valid for one year. You may seek the advice of an attorney as to any matter connected with this order."
-(4) A temporary extreme risk protection order issued expires upon the full hearing on the petition for an extreme risk protection order, unless reissued by the court.
-(5) A temporary extreme risk protection order must be served by a law enforcement officer in the same manner as provided for in section 19 of this act for service of the notice of hearing and petition, and must be served concurrently with the notice of hearing and petition.
-(6) If the court declines to issue a temporary extreme risk protection order, the court shall state the particular reasons for the court's denial.
+1. In considering whether to issue a temporary extreme risk protection order, the court shall consider all relevant evidence, including the evidence described in section 27 of this act.
+
+2. If a court finds there is reasonable cause to believe that the respondent poses a significant danger of causing personal injury to self or others in the near future by having in the respondent's custody or control, purchasing, possessing, accessing, receiving, or attempting to purchase or receive, a firearm, the court shall issue a temporary extreme risk protection order.
+
+3. A temporary extreme risk protection order must include:
+
+    a. A statement of the grounds asserted for the order;
+
+    b. The date and time the order was issued;
+
+    c. The date and time the order expires;
+
+    d. The address of the court in which any responsive pleading should be filed;
+
+    e. The date and time of the scheduled hearing;
+
+    f. A description of the requirements for the surrender of firearms under section 45 of this act; and
+
+    g. The following statement: "To the subject of this protection order: This order is valid until the date and time noted above. You are required to surrender all firearms in your custody, control, or possession. You may not have in your custody or control, access, possess, purchase, receive, or attempt to purchase or receive, a firearm, or a concealed pistol license, while this order is in effect. You must surrender to the (insert name of local law enforcement agency) all firearms in your custody, control, or possession, and any concealed pistol license issued to you under RCW 9.41.070 immediately. A hearing will be held on the date and at the time noted above to determine if an extreme risk protection order should be issued. Failure to appear at that hearing may result in a court making an order against you that is valid for one year. You may seek the advice of an attorney as to any matter connected with this order."
+
+4. A temporary extreme risk protection order issued expires upon the full hearing on the petition for an extreme risk protection order, unless reissued by the court.
+
+5. A temporary extreme risk protection order must be served by a law enforcement officer in the same manner as provided for in section 19 of this act for service of the notice of hearing and petition, and must be served concurrently with the notice of hearing and petition.
+
+6. If the court declines to issue a temporary extreme risk protection order, the court shall state the particular reasons for the court's denial.
+
 
 ## Section 44
-(1) An extreme risk protection order issued after notice and a hearing must include:
-(a) A statement of the grounds supporting the issuance of the order;
-(b) The date and time the order was issued;
-(c) The date and time the order expires;
-(d) Whether a behavioral health evaluation of the respondent is required;
-(e) The address of the court in which any responsive pleading should be filed;
-(f) A description of the requirements for the surrender of firearms under section 45 of this act; and
-(g) The following statement: "To the subject of this protection order: This order will last until the date and time noted above. If you have not done so already, you must surrender to the (insert name of local law enforcement agency) all firearms in your custody, control, or possession, and any concealed pistol license issued to you under RCW 9.41.070 immediately. You may not have in your custody or control, access, possess, purchase, receive, or attempt to purchase or receive, a firearm, or a concealed pistol license, while this order is in effect. You have the right to request one hearing to terminate this order every 12-month period that this order is in effect, starting from the date of this order and continuing through any renewals. You may seek the advice of an attorney as to any matter connected with this order."
-(2) When the court issues an extreme risk protection order, the court shall inform the respondent that the respondent is entitled to request termination of the order in the manner prescribed by section 62 of this act. The court shall provide the respondent with a form to request a termination hearing.
+1. An extreme risk protection order issued after notice and a hearing must include:
+
+    a. A statement of the grounds supporting the issuance of the order;
+
+    b. The date and time the order was issued;
+
+    c. The date and time the order expires;
+
+    d. Whether a behavioral health evaluation of the respondent is required;
+
+    e. The address of the court in which any responsive pleading should be filed;
+
+    f. A description of the requirements for the surrender of firearms under section 45 of this act; and
+
+    g. The following statement: "To the subject of this protection order: This order will last until the date and time noted above. If you have not done so already, you must surrender to the (insert name of local law enforcement agency) all firearms in your custody, control, or possession, and any concealed pistol license issued to you under RCW 9.41.070 immediately. You may not have in your custody or control, access, possess, purchase, receive, or attempt to purchase or receive, a firearm, or a concealed pistol license, while this order is in effect. You have the right to request one hearing to terminate this order every 12-month period that this order is in effect, starting from the date of this order and continuing through any renewals. You may seek the advice of an attorney as to any matter connected with this order."
+
+2. When the court issues an extreme risk protection order, the court shall inform the respondent that the respondent is entitled to request termination of the order in the manner prescribed by section 62 of this act. The court shall provide the respondent with a form to request a termination hearing.
+
 
 ## Section 45
-(1) Upon the issuance of any extreme risk protection order under this chapter, including a temporary extreme risk protection order, the court shall:
-(a) Order the respondent to surrender to the local law enforcement agency all firearms in the respondent's custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070; and
-(b) Other than for ex parte temporary protection orders, direct law enforcement to revoke any concealed pistol license issued to the respondent.
-(2) The law enforcement officer serving any extreme risk protection order under this chapter, including a temporary extreme risk protection order, shall request that the respondent immediately surrender all firearms in his or her custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070, and conduct any search permitted by law for such firearms. The law enforcement officer shall take possession of all firearms belonging to the respondent that are surrendered, in plain sight, or discovered pursuant to a lawful search. The order must be personally served upon the respondent or defendant if the order is entered in open court in the presence of the respondent or defendant. The respondent or defendant shall acknowledge receipt and service. If the respondent or defendant refuses service, an agent of the court may indicate on the record that the respondent or defendant refused service. The court shall enter the service and receipt into the record. A copy of the order and service must be transmitted immediately to law enforcement. Alternatively, if personal service by a law enforcement officer is not possible, the respondent shall surrender the firearms in a safe manner to the control of the local law enforcement agency within 24 hours of being served with the order by alternate service.
-(3) At the time of surrender, a law enforcement officer taking possession of a firearm or concealed pistol license shall issue a receipt identifying all firearms that have been surrendered and provide a copy of the receipt to the respondent. Within 72 hours after service of the order, the officer serving the order shall file the original receipt with the court and shall ensure that his or her law enforcement agency retains a copy of the receipt.
-(4) Upon the sworn statement or testimony of the petitioner or of any law enforcement officer alleging that the respondent has failed to comply with the surrender of firearms as required by an order issued under this chapter, the court shall determine whether probable cause exists to believe that the respondent has failed to surrender all firearms in his or her possession, custody, or control. If probable cause for a violation of the order exists, the court shall issue a warrant describing the firearms and authorizing a search of the locations where the firearms are reasonably believed to be and the seizure of any firearms discovered pursuant to such search.
-(5) If a person other than the respondent claims title to any firearms surrendered pursuant to this section, and that person is determined by the law enforcement agency to be the lawful owner of the firearm, the firearm must be returned to that person, provided that:
-(a) The firearm is removed from the respondent's custody, control, or possession, and the lawful owner provides written verification to the court regarding how the lawful owner will safely store the firearm in a manner such that the respondent does not have access to, or control of, the firearm for the duration of the order;
-(b) The court advises the lawful owner of the penalty for failure to do so; and
-(c) The firearm is not otherwise unlawfully possessed by the owner.
-(6) Upon the issuance of a one-year extreme risk protection order, the court shall order a new compliance review hearing date and require the respondent to appear not later than three judicial days from the issuance of the order. The court shall require a showing that the respondent has surrendered any firearms in the respondent's custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070 to a law enforcement agency. The compliance review hearing is not required upon a satisfactory showing on which the court can otherwise enter findings on the record that the respondent has timely and completely surrendered all firearms in the respondent's custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070 to a law enforcement agency, and is in compliance with the order. If the court does not have a sufficient record before it on which to make such a finding, the court must set a review hearing to occur as soon as possible, at which the respondent must be present and provide proof of compliance with the court's order.
-(7)(a) If a court finds at the compliance review hearing, or any other hearing where compliance with the order is addressed, that there is probable cause to believe the respondent was aware of, and failed to fully comply with, the order, failed to appear at the compliance review hearing, or violated the order after the court entered findings of compliance, pursuant to its authority under chapter 7.21 RCW, the court may initiate a contempt proceeding on its own motion, or upon the motion of the prosecutor, city attorney, or the petitioner's counsel, to impose remedial sanctions, and issue an order requiring the respondent to appear, provide proof of compliance with the order, and show cause why the respondent should not be held in contempt of court.
-(b) If the respondent is not present in court at the compliance review hearing or if the court issues an order to appear and show cause after a compliance review hearing, the clerk of the court shall electronically transmit a copy of the order to show cause to the law enforcement agency where the respondent resides for personal service or service in the manner provided in the civil rules of superior court or applicable statute.
-(c) The order to show cause served upon the respondent shall state the date, time, and location of the hearing, and shall include a warning that the respondent may be held in contempt of court if the respondent fails to promptly comply with the terms of the extreme risk protection order and a warning that an arrest warrant could be issued if the respondent fails to appear on the date and time provided in the order to show cause.
-(d)(i) At the show cause hearing, the respondent must be present and provide proof of compliance with the extreme risk protection order and demonstrate why the relief requested should not be granted.
-(ii) The court shall take judicial notice of the receipt filed with the court by the law enforcement agency pursuant to subsection (3) of this section. The court shall also provide sufficient notice to the law enforcement agency of the hearing. Upon receiving notice pursuant to this subsection, a law enforcement agency must:
+1. Upon the issuance of any extreme risk protection order under this chapter, including a temporary extreme risk protection order, the court shall:
+
+    a. Order the respondent to surrender to the local law enforcement agency all firearms in the respondent's custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070; and
+
+    b. Other than for ex parte temporary protection orders, direct law enforcement to revoke any concealed pistol license issued to the respondent.
+
+2. The law enforcement officer serving any extreme risk protection order under this chapter, including a temporary extreme risk protection order, shall request that the respondent immediately surrender all firearms in his or her custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070, and conduct any search permitted by law for such firearms. The law enforcement officer shall take possession of all firearms belonging to the respondent that are surrendered, in plain sight, or discovered pursuant to a lawful search. The order must be personally served upon the respondent or defendant if the order is entered in open court in the presence of the respondent or defendant. The respondent or defendant shall acknowledge receipt and service. If the respondent or defendant refuses service, an agent of the court may indicate on the record that the respondent or defendant refused service. The court shall enter the service and receipt into the record. A copy of the order and service must be transmitted immediately to law enforcement. Alternatively, if personal service by a law enforcement officer is not possible, the respondent shall surrender the firearms in a safe manner to the control of the local law enforcement agency within 24 hours of being served with the order by alternate service.
+
+3. At the time of surrender, a law enforcement officer taking possession of a firearm or concealed pistol license shall issue a receipt identifying all firearms that have been surrendered and provide a copy of the receipt to the respondent. Within 72 hours after service of the order, the officer serving the order shall file the original receipt with the court and shall ensure that his or her law enforcement agency retains a copy of the receipt.
+
+4. Upon the sworn statement or testimony of the petitioner or of any law enforcement officer alleging that the respondent has failed to comply with the surrender of firearms as required by an order issued under this chapter, the court shall determine whether probable cause exists to believe that the respondent has failed to surrender all firearms in his or her possession, custody, or control. If probable cause for a violation of the order exists, the court shall issue a warrant describing the firearms and authorizing a search of the locations where the firearms are reasonably believed to be and the seizure of any firearms discovered pursuant to such search.
+
+5. If a person other than the respondent claims title to any firearms surrendered pursuant to this section, and that person is determined by the law enforcement agency to be the lawful owner of the firearm, the firearm must be returned to that person, provided that:
+
+    a. The firearm is removed from the respondent's custody, control, or possession, and the lawful owner provides written verification to the court regarding how the lawful owner will safely store the firearm in a manner such that the respondent does not have access to, or control of, the firearm for the duration of the order;
+
+    b. The court advises the lawful owner of the penalty for failure to do so; and
+
+    c. The firearm is not otherwise unlawfully possessed by the owner.
+
+6. Upon the issuance of a one-year extreme risk protection order, the court shall order a new compliance review hearing date and require the respondent to appear not later than three judicial days from the issuance of the order. The court shall require a showing that the respondent has surrendered any firearms in the respondent's custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070 to a law enforcement agency. The compliance review hearing is not required upon a satisfactory showing on which the court can otherwise enter findings on the record that the respondent has timely and completely surrendered all firearms in the respondent's custody, control, or possession, and any concealed pistol license issued under RCW 9.41.070 to a law enforcement agency, and is in compliance with the order. If the court does not have a sufficient record before it on which to make such a finding, the court must set a review hearing to occur as soon as possible, at which the respondent must be present and provide proof of compliance with the court's order.
+
+7. [Empty]
+
+    a. If a court finds at the compliance review hearing, or any other hearing where compliance with the order is addressed, that there is probable cause to believe the respondent was aware of, and failed to fully comply with, the order, failed to appear at the compliance review hearing, or violated the order after the court entered findings of compliance, pursuant to its authority under chapter 7.21 RCW, the court may initiate a contempt proceeding on its own motion, or upon the motion of the prosecutor, city attorney, or the petitioner's counsel, to impose remedial sanctions, and issue an order requiring the respondent to appear, provide proof of compliance with the order, and show cause why the respondent should not be held in contempt of court.
+
+    b. If the respondent is not present in court at the compliance review hearing or if the court issues an order to appear and show cause after a compliance review hearing, the clerk of the court shall electronically transmit a copy of the order to show cause to the law enforcement agency where the respondent resides for personal service or service in the manner provided in the civil rules of superior court or applicable statute.
+
+    c. The order to show cause served upon the respondent shall state the date, time, and location of the hearing, and shall include a warning that the respondent may be held in contempt of court if the respondent fails to promptly comply with the terms of the extreme risk protection order and a warning that an arrest warrant could be issued if the respondent fails to appear on the date and time provided in the order to show cause.
+
+    d. [Empty]
+
+        i. At the show cause hearing, the respondent must be present and provide proof of compliance with the extreme risk protection order and demonstrate why the relief requested should not be granted.
+
+        ii. The court shall take judicial notice of the receipt filed with the court by the law enforcement agency pursuant to subsection (3) of this section. The court shall also provide sufficient notice to the law enforcement agency of the hearing. Upon receiving notice pursuant to this subsection, a law enforcement agency must:
+
 (A) Provide the court with a complete list of firearms surrendered by the respondent or otherwise belonging to the respondent that are in the possession of the law enforcement agency; and
+
 (B) Provide the court with verification that any concealed pistol license issued to the respondent has been surrendered and that a law enforcement agency with authority to revoke the license has been notified.
-(iii) If the law enforcement agency has a reasonable suspicion that the respondent is not in full compliance with the terms of the order, the law enforcement agency must submit the basis for its belief to the court, and may do so through the filing of an affidavit.
-(e) If the court finds the respondent in contempt, the court may impose remedial sanctions designed to ensure swift compliance with the order to surrender and prohibit weapons.
-(f) The court may order a respondent found in contempt of the order to pay for any losses incurred by a party in connection with the contempt proceeding, including reasonable attorneys' fees, service fees, and other costs. The costs of the proceeding must not be borne by the petitioner.
-(8)(a) To help ensure that accurate and comprehensive information about firearms compliance is provided to judicial officers, a representative from either the prosecuting attorney's office or city attorney's office, or both, from the relevant jurisdiction may appear and be heard at any hearing that concerns compliance with an extreme risk protection order.
-(b) Either the prosecuting attorney's office or city attorney's office, or both, from the relevant jurisdiction may designate an advocate or a staff person from their office who is not an attorney to appear on behalf of their office. Such appearance does not constitute the unauthorized practice of law.
-(9)(a) An extreme risk protection order must state that the act of voluntarily surrendering firearms, or providing testimony relating to the surrender of firearms, pursuant to such an order, may not be used against the respondent or defendant in any criminal prosecution under this chapter, chapter 9.41 RCW, or RCW 9A.56.310.
-(b) To provide relevant information to the court to determine compliance with the order, the court may allow the prosecuting attorney or city attorney to question the respondent regarding compliance.
-(10) All law enforcement agencies must develop and implement policies and procedures regarding the acceptance, storage, and return of firearms required to be surrendered under this chapter. A law enforcement agency holding any surrendered firearm or concealed pistol license shall comply with the provisions of RCW 9.41.340 and 9.41.345 before the return of the firearm or concealed pistol license to the owner or individual from whom it was obtained.
+
+        iii. If the law enforcement agency has a reasonable suspicion that the respondent is not in full compliance with the terms of the order, the law enforcement agency must submit the basis for its belief to the court, and may do so through the filing of an affidavit.
+
+    e. If the court finds the respondent in contempt, the court may impose remedial sanctions designed to ensure swift compliance with the order to surrender and prohibit weapons.
+
+    f. The court may order a respondent found in contempt of the order to pay for any losses incurred by a party in connection with the contempt proceeding, including reasonable attorneys' fees, service fees, and other costs. The costs of the proceeding must not be borne by the petitioner.
+
+8. [Empty]
+
+    a. To help ensure that accurate and comprehensive information about firearms compliance is provided to judicial officers, a representative from either the prosecuting attorney's office or city attorney's office, or both, from the relevant jurisdiction may appear and be heard at any hearing that concerns compliance with an extreme risk protection order.
+
+    b. Either the prosecuting attorney's office or city attorney's office, or both, from the relevant jurisdiction may designate an advocate or a staff person from their office who is not an attorney to appear on behalf of their office. Such appearance does not constitute the unauthorized practice of law.
+
+9. [Empty]
+
+    a. An extreme risk protection order must state that the act of voluntarily surrendering firearms, or providing testimony relating to the surrender of firearms, pursuant to such an order, may not be used against the respondent or defendant in any criminal prosecution under this chapter, chapter 9.41 RCW, or RCW 9A.56.310.
+
+    b. To provide relevant information to the court to determine compliance with the order, the court may allow the prosecuting attorney or city attorney to question the respondent regarding compliance.
+
+10. All law enforcement agencies must develop and implement policies and procedures regarding the acceptance, storage, and return of firearms required to be surrendered under this chapter. A law enforcement agency holding any surrendered firearm or concealed pistol license shall comply with the provisions of RCW 9.41.340 and 9.41.345 before the return of the firearm or concealed pistol license to the owner or individual from whom it was obtained.
+
 
 ## Section 46
-(1) If an extreme risk protection order is terminated or expires without renewal, a law enforcement agency holding any firearm that has been surrendered pursuant to this chapter shall return any surrendered firearm requested by a respondent only after confirming, through a background check, that the respondent is currently eligible to own or possess firearms under federal and state law, and after confirming with the court that the extreme risk protection order has terminated or has expired without renewal.
-(2) A law enforcement agency must, if requested, provide prior notice of the return of a firearm to a respondent to family or household members and to an intimate partner of the respondent in the manner provided in RCW 9.41.340 and 9.41.345.
-(3) Any firearm surrendered by a respondent pursuant to section 45 of this act that remains unclaimed by the lawful owner shall be disposed of in accordance with the law enforcement agency's policies and procedures for the disposal of firearms in police custody.
+1. If an extreme risk protection order is terminated or expires without renewal, a law enforcement agency holding any firearm that has been surrendered pursuant to this chapter shall return any surrendered firearm requested by a respondent only after confirming, through a background check, that the respondent is currently eligible to own or possess firearms under federal and state law, and after confirming with the court that the extreme risk protection order has terminated or has expired without renewal.
+
+2. A law enforcement agency must, if requested, provide prior notice of the return of a firearm to a respondent to family or household members and to an intimate partner of the respondent in the manner provided in RCW 9.41.340 and 9.41.345.
+
+3. Any firearm surrendered by a respondent pursuant to section 45 of this act that remains unclaimed by the lawful owner shall be disposed of in accordance with the law enforcement agency's policies and procedures for the disposal of firearms in police custody.
+
 
 ## Section 47
-(1) The clerk of the court shall enter any extreme risk protection order, including temporary extreme risk protection orders, issued under this chapter into a statewide judicial information system on the same day such order is issued, if possible, but no later than the next judicial day.
-(2) A copy of an extreme risk protection order granted under this chapter, including temporary extreme risk protection orders, must be forwarded immediately by the clerk of the court, by electronic means if possible, to the law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall immediately enter the order into the national instant criminal background check system, any other federal or state computer-based systems used by law enforcement or others to identify prohibited purchasers of firearms, and any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order must remain in each system for the period stated in the order, and the law enforcement agency shall only expunge orders from the systems that have expired or terminated. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
-(3) The information entered into the computer-based criminal intelligence information system must include notice to law enforcement whether the order was personally served, served by electronic means, served by publication, or served by mail.
-(4) If a law enforcement agency receives a protection order for entry or service, but the order falls outside the agency's jurisdiction, the agency may enter and serve the order or may immediately forward it to the appropriate law enforcement agency for entry and service, and shall provide documentation back to the court verifying which law enforcement agency has entered and will serve the order.
-(5) The issuing court shall, within three judicial days after the issuance of any extreme risk protection order, including a temporary extreme risk protection order, forward a copy of the respondent's driver's license or identicard, or comparable information, along with the date of order issuance, to the department of licensing. Upon receipt of the information, the department of licensing shall determine if the respondent has a concealed pistol license. If the respondent does have a concealed pistol license, the department of licensing shall immediately notify a law enforcement agency that the court has directed the revocation of the license. The law enforcement agency, upon receipt of such notification, shall immediately revoke the license.
-(6) If an extreme risk protection order is terminated before its expiration date, the clerk of the court shall forward on the same day a copy of the termination order to the department of licensing and the law enforcement agency specified in the termination order. Upon receipt of the order, the law enforcement agency shall promptly remove the order from any computer-based system in which it was entered pursuant to subsection (2) of this section.
+1. The clerk of the court shall enter any extreme risk protection order, including temporary extreme risk protection orders, issued under this chapter into a statewide judicial information system on the same day such order is issued, if possible, but no later than the next judicial day.
+
+2. A copy of an extreme risk protection order granted under this chapter, including temporary extreme risk protection orders, must be forwarded immediately by the clerk of the court, by electronic means if possible, to the law enforcement agency specified in the order. Upon receipt of the order, the law enforcement agency shall immediately enter the order into the national instant criminal background check system, any other federal or state computer-based systems used by law enforcement or others to identify prohibited purchasers of firearms, and any computer-based criminal intelligence information system available in this state used by law enforcement agencies to list outstanding warrants. The order must remain in each system for the period stated in the order, and the law enforcement agency shall only expunge orders from the systems that have expired or terminated. Entry into the computer-based criminal intelligence information system constitutes notice to all law enforcement agencies of the existence of the order. The order is fully enforceable in any county in the state.
+
+3. The information entered into the computer-based criminal intelligence information system must include notice to law enforcement whether the order was personally served, served by electronic means, served by publication, or served by mail.
+
+4. If a law enforcement agency receives a protection order for entry or service, but the order falls outside the agency's jurisdiction, the agency may enter and serve the order or may immediately forward it to the appropriate law enforcement agency for entry and service, and shall provide documentation back to the court verifying which law enforcement agency has entered and will serve the order.
+
+5. The issuing court shall, within three judicial days after the issuance of any extreme risk protection order, including a temporary extreme risk protection order, forward a copy of the respondent's driver's license or identicard, or comparable information, along with the date of order issuance, to the department of licensing. Upon receipt of the information, the department of licensing shall determine if the respondent has a concealed pistol license. If the respondent does have a concealed pistol license, the department of licensing shall immediately notify a law enforcement agency that the court has directed the revocation of the license. The law enforcement agency, upon receipt of such notification, shall immediately revoke the license.
+
+6. If an extreme risk protection order is terminated before its expiration date, the clerk of the court shall forward on the same day a copy of the termination order to the department of licensing and the law enforcement agency specified in the termination order. Upon receipt of the order, the law enforcement agency shall promptly remove the order from any computer-based system in which it was entered pursuant to subsection (2) of this section.
+
 
 ## Section 48
-(1) A respondent under the age of 18, or a respondent whose extreme risk protection order was based solely on threats of self-harm by the respondent, may petition the court to have the court records sealed from public view at the time of the issuance of the full order, at any time during the life of the order, or at any time after its expiration.
-(2) The court shall seal the court records from public view if there are no other active protection orders against the restrained party, there are no pending violations of the order, and there is evidence of full compliance with the surrender of firearms as ordered by the extreme risk protection order.
-(3) Nothing in this section changes the requirement for the order to be entered into, and maintained in, computer-based systems as required in section 47 of this act.
+1. A respondent under the age of 18, or a respondent whose extreme risk protection order was based solely on threats of self-harm by the respondent, may petition the court to have the court records sealed from public view at the time of the issuance of the full order, at any time during the life of the order, or at any time after its expiration.
+
+2. The court shall seal the court records from public view if there are no other active protection orders against the restrained party, there are no pending violations of the order, and there is evidence of full compliance with the surrender of firearms as ordered by the extreme risk protection order.
+
+3. Nothing in this section changes the requirement for the order to be entered into, and maintained in, computer-based systems as required in section 47 of this act.
+
 
 ## Section 49
-(1) Orders issued by the court following a hearing must identify the persons who participated in the hearing and whether each person appeared in person, by telephone, by video, or by other electronic means. If the respondent appeared at the hearing, the order must identify that the respondent has knowledge of the court's order.
-(2) Courts shall not accept agreed orders unless there are findings indicating whether the respondent is a credible threat to the physical safety of the protected person or child.
-(3) The court shall ensure that in issuing protection orders, including, but not limited to, orders to reissue temporary protection orders and orders to renew protection orders, the court specifies whether the respondent is ordered to surrender, and prohibited from possessing, firearms and dangerous weapons.
-(4) If the court issued a temporary protection order that included a temporary order to surrender and prohibit weapons, the temporary order to surrender and prohibit weapons must automatically reissue with the temporary protection order. If the court determines by a preponderance of the evidence that irreparable injury to the petitioner will not result through the modification or termination of the order to surrender and prohibit weapons as originally entered, then the court must make specific findings.
-(5) If the court has information regarding any of the respondent's known aliases, that information must be included in the protection order.
+1. Orders issued by the court following a hearing must identify the persons who participated in the hearing and whether each person appeared in person, by telephone, by video, or by other electronic means. If the respondent appeared at the hearing, the order must identify that the respondent has knowledge of the court's order.
+
+2. Courts shall not accept agreed orders unless there are findings indicating whether the respondent is a credible threat to the physical safety of the protected person or child.
+
+3. The court shall ensure that in issuing protection orders, including, but not limited to, orders to reissue temporary protection orders and orders to renew protection orders, the court specifies whether the respondent is ordered to surrender, and prohibited from possessing, firearms and dangerous weapons.
+
+4. If the court issued a temporary protection order that included a temporary order to surrender and prohibit weapons, the temporary order to surrender and prohibit weapons must automatically reissue with the temporary protection order. If the court determines by a preponderance of the evidence that irreparable injury to the petitioner will not result through the modification or termination of the order to surrender and prohibit weapons as originally entered, then the court must make specific findings.
+
+5. If the court has information regarding any of the respondent's known aliases, that information must be included in the protection order.
+
 
 ## Section 50
 After a protection order is issued, the court may correct clerical or technical errors in the order at any time. The court may correct errors either on the court's own initiative or upon notice to the court of an error. If the court corrects an error in an order, the court shall provide notice of the correction to the parties and the person who notified the court of the error, and shall provide a copy of the corrected order. The court shall direct the clerk to forward the corrected order on or before the next judicial day to the law enforcement agency specified in the order.
 
+
 ## Section 51
 The judicial information system committee's data dissemination committee shall develop recommendations on best practices for courts to consider for whether and when the sealing of records in protection order cases is appropriate or necessary under this chapter. The committee shall also consider methods to ensure compliance with the provisions of the federal violence against women act under 18 U.S.C. Sec. 2265(d)(3) that prohibit internet publication of filing or registration information of protection orders when such publication is likely to reveal the identity or location of the person protected by the order.
+
 
 ## Section 52
 The practice of dismissing or suspending a criminal prosecution in exchange for the issuance of a protection order undermines the purposes of this chapter. Nothing in this chapter shall be construed as encouraging that practice.
 
+
 ## Section 53
-(1) A temporary protection order issued under this chapter may be reissued for the following reasons:
-(a) Agreement of the parties;
-(b) To provide additional time to effect service of the temporary protection order on the respondent; or
-(c) If the court, in writing, finds good cause to reissue the order.
-(2) Any temporary orders to surrender and prohibit weapons must also be automatically reissued with the temporary protection order.
-(3) To ensure that a petitioner is not delayed in receiving a hearing on a petition for a protection order, there is a rebuttable presumption that a temporary protection order should not be reissued more than once or for more than 30 days at the request of the respondent, absent agreement of the parties, good cause, or the need to provide additional time to effect service.
-(4) When considering any request to stay, continue, or delay a hearing under this chapter because of the pendency of a parallel criminal investigation or prosecution of the respondent, courts shall apply a rebuttable presumption against such delay and give due recognition to the purpose of this chapter to provide victims quick and effective relief. Courts must consider on the record the following factors:
-(a) The extent to which a defendant's Fifth Amendment rights are or are not implicated, given the special nature of protection order proceedings which burden a defendant's Fifth Amendment privilege substantially less than do other civil proceedings;
-(b) Similarities between the civil and criminal cases;
-(c) Status of the criminal case;
-(d) The interests of the petitioners in proceeding expeditiously with litigation and the potential prejudice and risk to petitioners of a delay;
-(e) The burden that any particular aspect of the proceeding may impose on respondents;
-(f) The convenience of the court in the management of its cases and the efficient use of judicial resources;
-(g) The interests of persons not parties to the civil litigation; and
-(h) The interest of the public in the pending civil and criminal litigation.
-(5) Courts shall not require a petitioner to complete a new law enforcement information sheet when a temporary protection order is reissued or when a full order for a fixed time period is entered, unless the petitioner indicates that the information needs to be updated or amended. The clerk shall transmit the order to the law enforcement agency identified in the order for service, along with a copy of the confidential party information form received from the respondent, if available, or the petitioner's confidential party information form to assist law enforcement in serving the order.
+1. A temporary protection order issued under this chapter may be reissued for the following reasons:
+
+    a. Agreement of the parties;
+
+    b. To provide additional time to effect service of the temporary protection order on the respondent; or
+
+    c. If the court, in writing, finds good cause to reissue the order.
+
+2. Any temporary orders to surrender and prohibit weapons must also be automatically reissued with the temporary protection order.
+
+3. To ensure that a petitioner is not delayed in receiving a hearing on a petition for a protection order, there is a rebuttable presumption that a temporary protection order should not be reissued more than once or for more than 30 days at the request of the respondent, absent agreement of the parties, good cause, or the need to provide additional time to effect service.
+
+4. When considering any request to stay, continue, or delay a hearing under this chapter because of the pendency of a parallel criminal investigation or prosecution of the respondent, courts shall apply a rebuttable presumption against such delay and give due recognition to the purpose of this chapter to provide victims quick and effective relief. Courts must consider on the record the following factors:
+
+    a. The extent to which a defendant's Fifth Amendment rights are or are not implicated, given the special nature of protection order proceedings which burden a defendant's Fifth Amendment privilege substantially less than do other civil proceedings;
+
+    b. Similarities between the civil and criminal cases;
+
+    c. Status of the criminal case;
+
+    d. The interests of the petitioners in proceeding expeditiously with litigation and the potential prejudice and risk to petitioners of a delay;
+
+    e. The burden that any particular aspect of the proceeding may impose on respondents;
+
+    f. The convenience of the court in the management of its cases and the efficient use of judicial resources;
+
+    g. The interests of persons not parties to the civil litigation; and
+
+    h. The interest of the public in the pending civil and criminal litigation.
+
+5. Courts shall not require a petitioner to complete a new law enforcement information sheet when a temporary protection order is reissued or when a full order for a fixed time period is entered, unless the petitioner indicates that the information needs to be updated or amended. The clerk shall transmit the order to the law enforcement agency identified in the order for service, along with a copy of the confidential party information form received from the respondent, if available, or the petitioner's confidential party information form to assist law enforcement in serving the order.
+
 
 ## Section 54
 The following provisions apply to the renewal of all full protection orders issued under this chapter, with the exception of the renewal of extreme risk protection orders.
-(1) If the court grants a protection order for a fixed time period, the petitioner may file a motion to renew the order at any time within the 90 days before the order expires. The motion for renewal must state the reasons the petitioner seeks to renew the protection order. Upon receipt of a motion for renewal, the court shall order a hearing, which must be not later than 14 days from the date of the order. Service must be made on the respondent not less than five judicial days before the hearing, as provided in section 18 of this act.
-(2) If the motion for renewal is uncontested and the petitioner seeks no modification of the order, the order may be renewed on the basis of the petitioner's motion and statement of the reason for the requested renewal.
-(3) The petitioner bears no burden of proving that he or she has a current reasonable fear of harm by the respondent.
-(4) The court shall grant the motion for renewal unless the respondent proves by a preponderance of the evidence that there has been a substantial change in circumstances and the following:
-(a) For a domestic violence protection order, that the respondent proves that the respondent will not resume acts of domestic violence against the petitioner or the petitioner's family or household members who are minors or vulnerable adults when the order expires;
-(b) For a sexual assault protection order, that the respondent proves that the respondent will not engage in, or attempt to engage in, physical or nonphysical contact with the petitioner when the order expires;
-(c) For a stalking protection order, that the respondent proves that the respondent will not resume acts of stalking against the petitioner or the petitioner's family or household members when the order expires;
-(d) For a vulnerable adult protection order, that the respondent proves that the respondent will not resume acts of abandonment, abuse, financial exploitation, or neglect against the vulnerable adult when the order expires; or
-(e) For an antiharassment protection order, that the respondent proves that the respondent will not resume harassment of the petitioner when the order expires.
-(5) In determining whether there has been a substantial change in circumstances, the court may consider the following unweighted factors, and no inference is to be drawn from the order in which the factors are listed:
-(a) Whether the respondent has committed or threatened sexual assault; domestic violence; stalking; abandonment, abuse, financial exploitation, or neglect of a vulnerable adult; or other harmful acts against the petitioner or any other person since the protection order was entered;
-(b) Whether the respondent has violated the terms of the protection order and the time that has passed since the entry of the order;
-(c) Whether the respondent has exhibited suicidal ideation or attempts since the protection order was entered;
-(d) Whether the respondent has been convicted of criminal activity since the protection order was entered;
-(e) Whether the respondent has either: Acknowledged responsibility for acts of sexual assault, domestic violence, or stalking, or acts of abandonment, abuse, financial exploitation, or neglect of a vulnerable adult, or behavior that resulted in the entry of the protection order; or successfully completed state-certified perpetrator treatment or counseling since the protection order was entered;
-(f) Whether the respondent has a continuing involvement with drug or alcohol abuse, if such abuse was a factor in the protection order; and
-(g) Other factors relating to a substantial change in circumstances.
-(6) The court shall not deny a motion to renew a protection order for any of the following reasons:
-(a) The respondent has not violated the protection order previously issued by the court;
-(b) The petitioner or the respondent is a minor;
-(c) The petitioner did not report the conduct giving rise to the protection order, or subsequent violations of the protection order, to law enforcement;
-(d) A no-contact order or a restraining order that restrains the respondent's contact with the petitioner has been issued in a criminal proceeding or in a domestic relations proceeding;
-(e) The relief sought by the petitioner may be available in a different action or proceeding;
-(f) The passage of time since the last incident of conduct giving rise to the issuance of the protection order; or
-(g) The respondent no longer lives near the petitioner.
-(7) The terms of the original protection order must not be changed on a motion for renewal unless the petitioner has requested the change.
-(8) The court may renew the protection order for another fixed time period of no less than one year, or may enter a permanent order as provided in this section.
-(9) If the protection order includes the parties' children, a renewed protection order may be issued for more than one year, subject to subsequent orders entered in a proceeding under chapter 26.09, 26.26A, or 26.26B RCW.
-(10) The court may award court costs, service fees, and reasonable attorneys' fees to the petitioner as provided in section 39 of this act.
-(11) If the court declines to renew the protection order, the court shall state, in writing in the order, the particular reasons for the court's denial. If the court declines to renew a protection order that had restrained the respondent from having contact with children protected by the order, the court shall determine on the record whether the respondent and the children should undergo reunification therapy. Any reunification therapy provider should be made aware of the respondent's history of domestic violence and should have training and experience in the dynamics of intimate partner violence.
+
+1. If the court grants a protection order for a fixed time period, the petitioner may file a motion to renew the order at any time within the 90 days before the order expires. The motion for renewal must state the reasons the petitioner seeks to renew the protection order. Upon receipt of a motion for renewal, the court shall order a hearing, which must be not later than 14 days from the date of the order. Service must be made on the respondent not less than five judicial days before the hearing, as provided in section 18 of this act.
+
+2. If the motion for renewal is uncontested and the petitioner seeks no modification of the order, the order may be renewed on the basis of the petitioner's motion and statement of the reason for the requested renewal.
+
+3. The petitioner bears no burden of proving that he or she has a current reasonable fear of harm by the respondent.
+
+4. The court shall grant the motion for renewal unless the respondent proves by a preponderance of the evidence that there has been a substantial change in circumstances and the following:
+
+    a. For a domestic violence protection order, that the respondent proves that the respondent will not resume acts of domestic violence against the petitioner or the petitioner's family or household members who are minors or vulnerable adults when the order expires;
+
+    b. For a sexual assault protection order, that the respondent proves that the respondent will not engage in, or attempt to engage in, physical or nonphysical contact with the petitioner when the order expires;
+
+    c. For a stalking protection order, that the respondent proves that the respondent will not resume acts of stalking against the petitioner or the petitioner's family or household members when the order expires;
+
+    d. For a vulnerable adult protection order, that the respondent proves that the respondent will not resume acts of abandonment, abuse, financial exploitation, or neglect against the vulnerable adult when the order expires; or
+
+    e. For an antiharassment protection order, that the respondent proves that the respondent will not resume harassment of the petitioner when the order expires.
+
+5. In determining whether there has been a substantial change in circumstances, the court may consider the following unweighted factors, and no inference is to be drawn from the order in which the factors are listed:
+
+    a. Whether the respondent has committed or threatened sexual assault; domestic violence; stalking; abandonment, abuse, financial exploitation, or neglect of a vulnerable adult; or other harmful acts against the petitioner or any other person since the protection order was entered;
+
+    b. Whether the respondent has violated the terms of the protection order and the time that has passed since the entry of the order;
+
+    c. Whether the respondent has exhibited suicidal ideation or attempts since the protection order was entered;
+
+    d. Whether the respondent has been convicted of criminal activity since the protection order was entered;
+
+    e. Whether the respondent has either: Acknowledged responsibility for acts of sexual assault, domestic violence, or stalking, or acts of abandonment, abuse, financial exploitation, or neglect of a vulnerable adult, or behavior that resulted in the entry of the protection order; or successfully completed state-certified perpetrator treatment or counseling since the protection order was entered;
+
+    f. Whether the respondent has a continuing involvement with drug or alcohol abuse, if such abuse was a factor in the protection order; and
+
+    g. Other factors relating to a substantial change in circumstances.
+
+6. The court shall not deny a motion to renew a protection order for any of the following reasons:
+
+    a. The respondent has not violated the protection order previously issued by the court;
+
+    b. The petitioner or the respondent is a minor;
+
+    c. The petitioner did not report the conduct giving rise to the protection order, or subsequent violations of the protection order, to law enforcement;
+
+    d. A no-contact order or a restraining order that restrains the respondent's contact with the petitioner has been issued in a criminal proceeding or in a domestic relations proceeding;
+
+    e. The relief sought by the petitioner may be available in a different action or proceeding;
+
+    f. The passage of time since the last incident of conduct giving rise to the issuance of the protection order; or
+
+    g. The respondent no longer lives near the petitioner.
+
+7. The terms of the original protection order must not be changed on a motion for renewal unless the petitioner has requested the change.
+
+8. The court may renew the protection order for another fixed time period of no less than one year, or may enter a permanent order as provided in this section.
+
+9. If the protection order includes the parties' children, a renewed protection order may be issued for more than one year, subject to subsequent orders entered in a proceeding under chapter 26.09, 26.26A, or 26.26B RCW.
+
+10. The court may award court costs, service fees, and reasonable attorneys' fees to the petitioner as provided in section 39 of this act.
+
+11. If the court declines to renew the protection order, the court shall state, in writing in the order, the particular reasons for the court's denial. If the court declines to renew a protection order that had restrained the respondent from having contact with children protected by the order, the court shall determine on the record whether the respondent and the children should undergo reunification therapy. Any reunification therapy provider should be made aware of the respondent's history of domestic violence and should have training and experience in the dynamics of intimate partner violence.
+
 
 ## Section 55
-(1) The court must notify the petitioner of the impending expiration of an extreme risk protection order. Notice must be received by the petitioner 105 calendar days before the date the order expires.
-(2) An intimate partner or family or household member of a respondent, or a law enforcement agency, may by motion request a renewal of an extreme risk protection order at any time within 90 days before the expiration of the order.
-(a) Upon receipt of the motion to renew, the court shall order that a hearing be held not later than 14 days from the date the order issues.
-(b) In determining whether to renew an extreme risk protection order issued under this section, the court shall consider all relevant evidence presented by the petitioner and follow the same procedure as provided in section 27 of this act.
-(c) If the court finds by a preponderance of the evidence that the requirements for the issuance of an extreme risk protection order as provided in section 27 of this act continue to be met, the court shall renew the order. However, if, after notice, the motion for renewal is uncontested and the petitioner seeks no modification of the order, the order may be renewed on the basis of the petitioner's motion and statement of the reason for the requested renewal.
-(d) The renewal of an extreme risk protection order has a duration of one year, subject to termination as provided in section 62 of this act or further renewal by order of the court.
+1. The court must notify the petitioner of the impending expiration of an extreme risk protection order. Notice must be received by the petitioner 105 calendar days before the date the order expires.
+
+2. An intimate partner or family or household member of a respondent, or a law enforcement agency, may by motion request a renewal of an extreme risk protection order at any time within 90 days before the expiration of the order.
+
+    a. Upon receipt of the motion to renew, the court shall order that a hearing be held not later than 14 days from the date the order issues.
+
+    b. In determining whether to renew an extreme risk protection order issued under this section, the court shall consider all relevant evidence presented by the petitioner and follow the same procedure as provided in section 27 of this act.
+
+    c. If the court finds by a preponderance of the evidence that the requirements for the issuance of an extreme risk protection order as provided in section 27 of this act continue to be met, the court shall renew the order. However, if, after notice, the motion for renewal is uncontested and the petitioner seeks no modification of the order, the order may be renewed on the basis of the petitioner's motion and statement of the reason for the requested renewal.
+
+    d. The renewal of an extreme risk protection order has a duration of one year, subject to termination as provided in section 62 of this act or further renewal by order of the court.
+
 
 ## Section 56
-(1)(a) Whenever a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order is granted under this chapter, or an order is granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or there is a valid foreign protection order as defined in RCW 26.52.020, or there is a Canadian domestic violence protection order as defined in RCW 26.55.010, and the respondent or person to be restrained knows of the order, a violation of any of the following provisions of the order is a gross misdemeanor, except as provided in subsections (4) and (5) of this section:
-(i) The restraint provisions prohibiting acts or threats of violence against, or stalking of, a protected party, or the restraint provisions prohibiting contact with a protected party;
-(ii) A provision excluding the person from a residence, workplace, school, or day care;
-(iii) A provision prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle;
-(iv) A provision prohibiting interfering with the protected party's efforts to remove a pet owned, possessed, leased, kept, or held by the petitioner, the respondent, or a minor child residing with either the petitioner or the respondent; or
-(v) A provision of a foreign protection order or a Canadian domestic violence protection order specifically indicating that a violation will be a crime.
-(b) Upon conviction, and in addition to any other penalties provided by law, the court:
-(i) May require that the respondent submit to electronic monitoring. The court shall specify who must provide the electronic monitoring services and the terms under which the monitoring must be performed. The order also may include a requirement that the respondent pay the costs of the monitoring. The court shall consider the ability of the convicted person to pay for electronic monitoring; and
-(ii) Shall impose a fine of $15, in addition to any penalty or fine imposed, for a violation of a domestic violence protection order issued under this chapter. Revenue from the $15 fine must be remitted monthly to the state treasury for deposit in the domestic violence prevention account.
-(2) A law enforcement officer shall arrest without a warrant and take into custody a person whom the law enforcement officer has probable cause to believe has violated a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, that restrains the person or excludes the person from a residence, workplace, school, or day care, or prohibits the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle, if the person restrained knows of the order. Presence of the order in the law enforcement computer-based criminal intelligence information system is not the only means of establishing knowledge of the order.
-(3) A violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, shall also constitute contempt of court, and is subject to the penalties prescribed by law.
-(4) Any assault that is a violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, and that does not amount to assault in the first or second degree under RCW 9A.36.011 or 9A.36.021 is a class C felony, and any conduct in violation of such an order that is reckless and creates a substantial risk of death or serious physical injury to another person is a class C felony.
-(5) A violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or a court order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, is a class C felony if the offender has at least two previous convictions for violating the provisions of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010. The previous convictions may involve the same victim or other victims specifically protected by the orders the offender violated.
-(6) Upon the filing of an affidavit by the petitioner or any law enforcement officer alleging that the respondent has violated a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, the court may issue an order to the respondent, requiring the respondent to appear and show cause within 14 days as to why the respondent should not be found in contempt of court and punished accordingly. The hearing may be held in the court of any county or municipality in which the petitioner or respondent temporarily or permanently resides at the time of the alleged violation.
+1. [Empty]
+
+    a. Whenever a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order is granted under this chapter, or an order is granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or there is a valid foreign protection order as defined in RCW 26.52.020, or there is a Canadian domestic violence protection order as defined in RCW 26.55.010, and the respondent or person to be restrained knows of the order, a violation of any of the following provisions of the order is a gross misdemeanor, except as provided in subsections (4) and (5) of this section:
+
+        i. The restraint provisions prohibiting acts or threats of violence against, or stalking of, a protected party, or the restraint provisions prohibiting contact with a protected party;
+
+        ii. A provision excluding the person from a residence, workplace, school, or day care;
+
+        iii. A provision prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle;
+
+        iv. A provision prohibiting interfering with the protected party's efforts to remove a pet owned, possessed, leased, kept, or held by the petitioner, the respondent, or a minor child residing with either the petitioner or the respondent; or
+
+    v. A provision of a foreign protection order or a Canadian domestic violence protection order specifically indicating that a violation will be a crime.
+
+    b. Upon conviction, and in addition to any other penalties provided by law, the court:
+
+        i. May require that the respondent submit to electronic monitoring. The court shall specify who must provide the electronic monitoring services and the terms under which the monitoring must be performed. The order also may include a requirement that the respondent pay the costs of the monitoring. The court shall consider the ability of the convicted person to pay for electronic monitoring; and
+
+        ii. Shall impose a fine of $15, in addition to any penalty or fine imposed, for a violation of a domestic violence protection order issued under this chapter. Revenue from the $15 fine must be remitted monthly to the state treasury for deposit in the domestic violence prevention account.
+
+2. A law enforcement officer shall arrest without a warrant and take into custody a person whom the law enforcement officer has probable cause to believe has violated a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, that restrains the person or excludes the person from a residence, workplace, school, or day care, or prohibits the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle, if the person restrained knows of the order. Presence of the order in the law enforcement computer-based criminal intelligence information system is not the only means of establishing knowledge of the order.
+
+3. A violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, shall also constitute contempt of court, and is subject to the penalties prescribed by law.
+
+4. Any assault that is a violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, and that does not amount to assault in the first or second degree under RCW 9A.36.011 or 9A.36.021 is a class C felony, and any conduct in violation of such an order that is reckless and creates a substantial risk of death or serious physical injury to another person is a class C felony.
+
+5. A violation of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or a court order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, is a class C felony if the offender has at least two previous convictions for violating the provisions of a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order issued under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010. The previous convictions may involve the same victim or other victims specifically protected by the orders the offender violated.
+
+6. Upon the filing of an affidavit by the petitioner or any law enforcement officer alleging that the respondent has violated a domestic violence protection order, a sexual assault protection order, a stalking protection order, or a vulnerable adult protection order, or an order granted under chapter 9A.40, 9A.44, 9A.46, 9A.88, 9.94A, 10.99, 26.09, 26.26A, or 26.26B RCW, or a valid foreign protection order as defined in RCW 26.52.020, or a Canadian domestic violence protection order as defined in RCW 26.55.010, the court may issue an order to the respondent, requiring the respondent to appear and show cause within 14 days as to why the respondent should not be found in contempt of court and punished accordingly. The hearing may be held in the court of any county or municipality in which the petitioner or respondent temporarily or permanently resides at the time of the alleged violation.
+
 
 ## Section 57
-(1) When the court issues an antiharassment protection order under this chapter, the court shall advise the petitioner that the respondent may not be subjected to the penalties set forth in this section for a violation of the order unless the respondent knows of the order.
-(2) A willful disobedience by a respondent age 18 years or over of any of the following provisions of an antiharassment protection order issued under this chapter is a gross misdemeanor:
-(a) The restraint provisions prohibiting acts or threats of violence against, or unlawful harassment or stalking of, a protected party, or restraint provisions prohibiting contact with a protected party;
-(b) A provision excluding the person from a residence, workplace, school, or day care;
-(c) A provision prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle; or
-(d) A provision prohibiting interfering with the protected party's efforts to remove a pet owned, possessed, leased, kept, or held by the petitioner, respondent, or a minor child residing with either the petitioner or the respondent.
-(3) Any respondent age 18 years or over who willfully disobeys the terms of any antiharassment protection order issued under this chapter may also, in the court's discretion, be found in contempt of court and subject to penalties under chapter 7.21 RCW. 
-(4) Any respondent under the age of 18 years who willfully disobeys the terms of an antiharassment protection order issued under this chapter may, in the court's discretion, be found in contempt of court and subject to the sanction specified in RCW 7.21.030(4), provided that the sanction specified in RCW 7.21.030(4) may be imposed only for willful disobedience of the provisions listed in subsection (2) of this section.
-(5) A defendant arrested for violating any antiharassment protection order issued under this chapter is required to appear in person before a magistrate within one judicial day after the arrest. At the time of the appearance, the court shall determine the necessity of imposing a no-contact order or other conditions of pretrial release in accordance with RCW 9A.46.050.
-(6) A defendant who is charged by citation, complaint, or information with violating any antiharassment protection order issued under this chapter and not arrested shall appear in court for arraignment in accordance with RCW 9A.46.050.
-(7) Appearances required under this section are mandatory and cannot be waived.
+1. When the court issues an antiharassment protection order under this chapter, the court shall advise the petitioner that the respondent may not be subjected to the penalties set forth in this section for a violation of the order unless the respondent knows of the order.
+
+2. A willful disobedience by a respondent age 18 years or over of any of the following provisions of an antiharassment protection order issued under this chapter is a gross misdemeanor:
+
+    a. The restraint provisions prohibiting acts or threats of violence against, or unlawful harassment or stalking of, a protected party, or restraint provisions prohibiting contact with a protected party;
+
+    b. A provision excluding the person from a residence, workplace, school, or day care;
+
+    c. A provision prohibiting the person from knowingly coming within, or knowingly remaining within, a specified distance of a location, a protected party's person, or a protected party's vehicle; or
+
+    d. A provision prohibiting interfering with the protected party's efforts to remove a pet owned, possessed, leased, kept, or held by the petitioner, respondent, or a minor child residing with either the petitioner or the respondent.
+
+3. Any respondent age 18 years or over who willfully disobeys the terms of any antiharassment protection order issued under this chapter may also, in the court's discretion, be found in contempt of court and subject to penalties under chapter 7.21 RCW.
+
+4. Any respondent under the age of 18 years who willfully disobeys the terms of an antiharassment protection order issued under this chapter may, in the court's discretion, be found in contempt of court and subject to the sanction specified in RCW 7.21.030(4), provided that the sanction specified in RCW 7.21.030(4) may be imposed only for willful disobedience of the provisions listed in subsection (2) of this section.
+
+5. A defendant arrested for violating any antiharassment protection order issued under this chapter is required to appear in person before a magistrate within one judicial day after the arrest. At the time of the appearance, the court shall determine the necessity of imposing a no-contact order or other conditions of pretrial release in accordance with RCW 9A.46.050.
+
+6. A defendant who is charged by citation, complaint, or information with violating any antiharassment protection order issued under this chapter and not arrested shall appear in court for arraignment in accordance with RCW 9A.46.050.
+
+7. Appearances required under this section are mandatory and cannot be waived.
+
 
 ## Section 58
-(1) Any person who files a petition for an extreme risk protection order knowing the information in such petition to be materially false, or with the intent to harass the respondent, is guilty of a gross misdemeanor.
-(2) Any person who has in his or her custody or control, accesses, purchases, possesses, or receives, or attempts to purchase or receive, a firearm with knowledge that he or she is prohibited from doing so by an extreme risk protection order is guilty of a gross misdemeanor, and further is prohibited from having in his or her custody or control, accessing, purchasing, possessing, or receiving, or attempting to purchase or receive, a firearm for a period of five years from the date the existing order expires. However, such person is guilty of a class C felony if the person has two or more previous convictions for violating an order issued under this chapter.
+1. Any person who files a petition for an extreme risk protection order knowing the information in such petition to be materially false, or with the intent to harass the respondent, is guilty of a gross misdemeanor.
+
+2. Any person who has in his or her custody or control, accesses, purchases, possesses, or receives, or attempts to purchase or receive, a firearm with knowledge that he or she is prohibited from doing so by an extreme risk protection order is guilty of a gross misdemeanor, and further is prohibited from having in his or her custody or control, accessing, purchasing, possessing, or receiving, or attempting to purchase or receive, a firearm for a period of five years from the date the existing order expires. However, such person is guilty of a class C felony if the person has two or more previous convictions for violating an order issued under this chapter.
+
 
 ## Section 59
-(1) When the court issues a protection order under this chapter, the court shall advise the petitioner that the respondent may not be subjected to the penalties set forth in this chapter for a violation of the order unless the respondent knows of the order.
-(2) When a law enforcement officer investigates a report of an alleged violation of a protection order issued under this chapter, the officer shall attempt to determine whether the respondent knew of the existence of the protection order. If the law enforcement officer determines that the respondent did not, or probably did not, know about the protection order and the officer is provided a current copy of the order, the officer shall serve the order on the respondent if the respondent is present. If the respondent is not present, the officer shall make reasonable efforts to serve a copy of the order on the respondent. If the officer serves the respondent with the petitioner's copy of the order, the officer shall give the petitioner a receipt indicating that the petitioner's copy has been served on the respondent. After the officer has served the order on the respondent, the officer shall enforce prospective compliance with the order.
-(3) Presentation of an unexpired, certified copy of a protection order with proof of service is sufficient for a law enforcement officer to enforce the order regardless of the presence of the order in the law enforcement computer-based criminal intelligence information system.
+1. When the court issues a protection order under this chapter, the court shall advise the petitioner that the respondent may not be subjected to the penalties set forth in this chapter for a violation of the order unless the respondent knows of the order.
+
+2. When a law enforcement officer investigates a report of an alleged violation of a protection order issued under this chapter, the officer shall attempt to determine whether the respondent knew of the existence of the protection order. If the law enforcement officer determines that the respondent did not, or probably did not, know about the protection order and the officer is provided a current copy of the order, the officer shall serve the order on the respondent if the respondent is present. If the respondent is not present, the officer shall make reasonable efforts to serve a copy of the order on the respondent. If the officer serves the respondent with the petitioner's copy of the order, the officer shall give the petitioner a receipt indicating that the petitioner's copy has been served on the respondent. After the officer has served the order on the respondent, the officer shall enforce prospective compliance with the order.
+
+3. Presentation of an unexpired, certified copy of a protection order with proof of service is sufficient for a law enforcement officer to enforce the order regardless of the presence of the order in the law enforcement computer-based criminal intelligence information system.
+
 
 ## Section 60
 When a party alleging a violation of a protection order issued under this chapter states that the party is unable to afford private counsel and asks the prosecuting attorney for the county or the attorney for the municipality in which the order was issued for assistance, the attorney shall initiate and prosecute a contempt proceeding if there is probable cause to believe that the violation occurred. In this action, the court may require the violator of the order to pay the costs incurred in bringing the action, including a reasonable attorney's fee.
 
+
 ## Section 61
 This section applies to modification or termination of domestic violence protection orders, sexual assault protection orders, stalking protection orders, and antiharassment protection orders.
-(1) Upon a motion with notice to all parties and after a hearing, the court may modify the terms of an existing protection order or terminate an existing order.
-(2) A respondent's motion to modify or terminate an existing protection order must include a declaration setting forth facts supporting the requested order for modification or termination. The nonmoving parties to the proceeding may file opposing declarations. All motions to modify or terminate shall be based on the written materials and evidence submitted to the court. The court shall set a hearing only if the court finds that adequate cause is established. If the court finds that the respondent established adequate cause, the court shall set a date for hearing the respondent's motion, which must be at least 14 days from the date the court finds adequate cause.
-(3) Upon the motion of a respondent, the court may not modify or terminate an existing protection order unless the respondent proves by a preponderance of the evidence that there has been a substantial change in circumstances such that the respondent will not resume, engage in, or attempt to engage in, the following acts against the petitioner or those persons protected by the protection order if the order is terminated or modified:
-(a) Acts of domestic violence, in cases involving domestic violence protection orders;
-(b) Physical or nonphysical contact, in cases involving sexual assault protection orders;
-(c) Acts of stalking, in cases involving stalking protection orders; or
-(d) Acts of unlawful harassment, in cases involving antiharassment protection orders.
+
+1. Upon a motion with notice to all parties and after a hearing, the court may modify the terms of an existing protection order or terminate an existing order.
+
+2. A respondent's motion to modify or terminate an existing protection order must include a declaration setting forth facts supporting the requested order for modification or termination. The nonmoving parties to the proceeding may file opposing declarations. All motions to modify or terminate shall be based on the written materials and evidence submitted to the court. The court shall set a hearing only if the court finds that adequate cause is established. If the court finds that the respondent established adequate cause, the court shall set a date for hearing the respondent's motion, which must be at least 14 days from the date the court finds adequate cause.
+
+3. Upon the motion of a respondent, the court may not modify or terminate an existing protection order unless the respondent proves by a preponderance of the evidence that there has been a substantial change in circumstances such that the respondent will not resume, engage in, or attempt to engage in, the following acts against the petitioner or those persons protected by the protection order if the order is terminated or modified:
+
+    a. Acts of domestic violence, in cases involving domestic violence protection orders;
+
+    b. Physical or nonphysical contact, in cases involving sexual assault protection orders;
+
+    c. Acts of stalking, in cases involving stalking protection orders; or
+
+    d. Acts of unlawful harassment, in cases involving antiharassment protection orders.
+
 The petitioner bears no burden of proving that he or she has a current reasonable fear of harm by the respondent.
-(4) In determining whether there has been a substantial change in circumstances, the court may consider the following unweighted factors, and no inference is to be drawn from the order in which the factors are listed:
-(a) Whether the respondent has committed or threatened sexual assault, domestic violence, stalking, or other harmful acts against the petitioner or any other person since the protection order was entered;
-(b) Whether the respondent has violated the terms of the protection order and the time that has passed since the entry of the order;
-(c) Whether the respondent has exhibited suicidal ideation or attempts since the protection order was entered;
-(d) Whether the respondent has been convicted of criminal activity since the protection order was entered;
-(e) Whether the respondent has either acknowledged responsibility for acts of sexual assault, domestic violence, stalking, or behavior that resulted in the entry of the protection order, or successfully completed state-certified perpetrator treatment or counseling since the protection order was entered;
-(f) Whether the respondent has a continuing involvement with drug or alcohol abuse, if such abuse was a factor in the protection order;
-(g) Whether the petitioner consents to terminating the protection order, provided that consent is given voluntarily and knowingly; or
-(h) Other factors relating to a substantial change in circumstances.
-(5) In determining whether there has been a substantial change in circumstances, the court may not base its determination on the fact that time has passed without a violation of the order.
-(6) Regardless of whether there is a substantial change in circumstances, the court may decline to terminate a protection order if it finds that the acts of domestic violence, sexual assault, stalking, unlawful harassment, and other harmful acts that resulted in the issuance of the protection order were of such severity that the order should not be terminated.
-(7) A respondent may file a motion to modify or terminate an order no more than once in every 12-month period that the order is in effect, starting from the date of the order and continuing through any renewal period.
-(8) If a person who is protected by a protection order has a child or adopts a child after a protection order has been issued, but before the protection order has expired, the petitioner may seek to include the new child in the order of protection on an ex parte basis.
-(9) A court may require the respondent to pay the petitioner for costs incurred in responding to a motion to modify or terminate a protection order, including reasonable attorneys' fees.
+
+4. In determining whether there has been a substantial change in circumstances, the court may consider the following unweighted factors, and no inference is to be drawn from the order in which the factors are listed:
+
+    a. Whether the respondent has committed or threatened sexual assault, domestic violence, stalking, or other harmful acts against the petitioner or any other person since the protection order was entered;
+
+    b. Whether the respondent has violated the terms of the protection order and the time that has passed since the entry of the order;
+
+    c. Whether the respondent has exhibited suicidal ideation or attempts since the protection order was entered;
+
+    d. Whether the respondent has been convicted of criminal activity since the protection order was entered;
+
+    e. Whether the respondent has either acknowledged responsibility for acts of sexual assault, domestic violence, stalking, or behavior that resulted in the entry of the protection order, or successfully completed state-certified perpetrator treatment or counseling since the protection order was entered;
+
+    f. Whether the respondent has a continuing involvement with drug or alcohol abuse, if such abuse was a factor in the protection order;
+
+    g. Whether the petitioner consents to terminating the protection order, provided that consent is given voluntarily and knowingly; or
+
+    h. Other factors relating to a substantial change in circumstances.
+
+5. In determining whether there has been a substantial change in circumstances, the court may not base its determination on the fact that time has passed without a violation of the order.
+
+6. Regardless of whether there is a substantial change in circumstances, the court may decline to terminate a protection order if it finds that the acts of domestic violence, sexual assault, stalking, unlawful harassment, and other harmful acts that resulted in the issuance of the protection order were of such severity that the order should not be terminated.
+
+7. A respondent may file a motion to modify or terminate an order no more than once in every 12-month period that the order is in effect, starting from the date of the order and continuing through any renewal period.
+
+8. If a person who is protected by a protection order has a child or adopts a child after a protection order has been issued, but before the protection order has expired, the petitioner may seek to include the new child in the order of protection on an ex parte basis.
+
+9. A court may require the respondent to pay the petitioner for costs incurred in responding to a motion to modify or terminate a protection order, including reasonable attorneys' fees.
+
 
 ## Section 62
 This section applies to the termination of extreme risk protection orders.
-(1) The respondent may submit one written request for a hearing to terminate an extreme risk protection order issued under this chapter every 12-month period that the order is in effect, starting from the date of the order and continuing through any renewals.
-(2) Upon receipt of the request for a hearing to terminate an extreme risk protection order, the court shall set a date for a hearing. The hearing must occur no sooner than 14 days and no later than 30 days from the date of service of the request upon the petitioner.
-(3) The respondent shall have the burden of proving by a preponderance of the evidence that the respondent does not pose a significant danger of causing personal injury to self or others by having in his or her custody or control, accessing, possessing, purchasing, receiving, or attempting to purchase or receive, a firearm or other dangerous weapons. The court may consider any relevant evidence, including evidence of the considerations listed in section 27 of this act.
-(4) If the court finds after the hearing that the respondent has met his or her burden, the court shall terminate the order.
+
+1. The respondent may submit one written request for a hearing to terminate an extreme risk protection order issued under this chapter every 12-month period that the order is in effect, starting from the date of the order and continuing through any renewals.
+
+2. Upon receipt of the request for a hearing to terminate an extreme risk protection order, the court shall set a date for a hearing. The hearing must occur no sooner than 14 days and no later than 30 days from the date of service of the request upon the petitioner.
+
+3. The respondent shall have the burden of proving by a preponderance of the evidence that the respondent does not pose a significant danger of causing personal injury to self or others by having in his or her custody or control, accessing, possessing, purchasing, receiving, or attempting to purchase or receive, a firearm or other dangerous weapons. The court may consider any relevant evidence, including evidence of the considerations listed in section 27 of this act.
+
+4. If the court finds after the hearing that the respondent has met his or her burden, the court shall terminate the order.
+
 
 ## Section 63
 This section applies to the modification or termination of vulnerable adult protection orders.
-(1) Any vulnerable adult who has not been adjudicated fully incapacitated under chapter 11.88 RCW, or the vulnerable adult's guardian, may file a motion to modify or terminate the protection order.
-(2) In a hearing on a motion to modify or terminate the protection order, the court shall grant such relief consistent with section 39 of this act as it deems necessary for the protection of the vulnerable adult, including modification or termination of the protection order.
+
+1. Any vulnerable adult who has not been adjudicated fully incapacitated under chapter 11.88 RCW, or the vulnerable adult's guardian, may file a motion to modify or terminate the protection order.
+
+2. In a hearing on a motion to modify or terminate the protection order, the court shall grant such relief consistent with section 39 of this act as it deems necessary for the protection of the vulnerable adult, including modification or termination of the protection order.
+
 
 ## Section 64
 In any situation where a protection order issued under this chapter is modified or terminated before its expiration date, the clerk of the court shall forward on the same day a true copy of the modified order or the termination order to the law enforcement agency specified in the modified or termination order. Upon receipt of the order, the law enforcement agency shall promptly enter it in the computer-based criminal intelligence information system, or if the order is terminated, remove the order from the computer-based criminal intelligence information system.
 
+
 ## Section 65
-(1)(a) Any order available under this chapter, other than an extreme risk protection order, may be issued in actions under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW. If a protection order is issued in an action under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW, the order must be issued on the forms mandated by section 16 of this act. An order issued in accordance with this subsection (1)(a) is fully enforceable and must be enforced under the provisions of this chapter.
-(b) If a party files an action under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW, an order issued previously under this chapter between the same parties may be consolidated by the court under that action and cause number. Any order issued under this chapter after consolidation must contain the original cause number and the cause number of the action under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW.
-(2) Nothing in this act affects the validity of protection orders issued prior to the effective date of this section under chapter 74.34 RCW or any of the former chapters 7.90, 7.92, 7.94, 10.14, and 26.50 RCW. Protection orders entered prior to the effective date of this section under chapter 74.34 RCW or any of the former chapters 7.90, 7.92, 7.94, 10.14, and 26.50 RCW are subject to the provisions of this act and are fully enforceable under the applicable provisions of sections 56 through 60 of this act and may be modified or terminated in accordance with the applicable provisions of sections 61 through 65 of this act.
+1. [Empty]
+
+    a. Any order available under this chapter, other than an extreme risk protection order, may be issued in actions under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW. If a protection order is issued in an action under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW, the order must be issued on the forms mandated by section 16 of this act. An order issued in accordance with this subsection (1)(a) is fully enforceable and must be enforced under the provisions of this chapter.
+
+    b. If a party files an action under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW, an order issued previously under this chapter between the same parties may be consolidated by the court under that action and cause number. Any order issued under this chapter after consolidation must contain the original cause number and the cause number of the action under chapter 13.32A, 26.09, 26.26A, or 26.26B RCW.
+
+2. Nothing in this act affects the validity of protection orders issued prior to the effective date of this section under chapter 74.34 RCW or any of the former chapters 7.90, 7.92, 7.94, 10.14, and 26.50 RCW. Protection orders entered prior to the effective date of this section under chapter 74.34 RCW or any of the former chapters 7.90, 7.92, 7.94, 10.14, and 26.50 RCW are subject to the provisions of this act and are fully enforceable under the applicable provisions of sections 56 through 60 of this act and may be modified or terminated in accordance with the applicable provisions of sections 61 through 65 of this act.
+
 
 ## Section 66
 To prevent the issuance of competing protection orders in different courts and to give courts needed information for the issuance of orders, the judicial information system must be available in each district, municipal, and superior court, and must include a database containing the following information:
-(1) The names of the parties and the cause number for every order of protection issued under this chapter, every criminal no-contact order issued under chapters 9A.46 and 10.99 RCW, every dissolution action under chapter 26.09 RCW, every minor guardianship action under chapter 11.130 RCW, every parentage action under chapter 26.26A or 26.26B RCW, every restraining order issued on behalf of an abused child or adult dependent person under chapter 26.44 RCW, every foreign protection order filed under chapter 26.52 RCW, and every Canadian domestic violence protection order filed under chapter 26.55 RCW. When a guardian or the department of social and health services or department of children, youth, and families has petitioned for relief on behalf of an abused child, adult dependent person, or vulnerable adult, the name of the person on whose behalf relief was sought must be included in the database as a party rather than the guardian or appropriate department;
-(2) A criminal history of the parties; and
-(3) Other relevant information necessary to assist courts in issuing orders under this chapter as determined by the judicial information system committee.
+
+1. The names of the parties and the cause number for every order of protection issued under this chapter, every criminal no-contact order issued under chapters 9A.46 and 10.99 RCW, every dissolution action under chapter 26.09 RCW, every minor guardianship action under chapter 11.130 RCW, every parentage action under chapter 26.26A or 26.26B RCW, every restraining order issued on behalf of an abused child or adult dependent person under chapter 26.44 RCW, every foreign protection order filed under chapter 26.52 RCW, and every Canadian domestic violence protection order filed under chapter 26.55 RCW. When a guardian or the department of social and health services or department of children, youth, and families has petitioned for relief on behalf of an abused child, adult dependent person, or vulnerable adult, the name of the person on whose behalf relief was sought must be included in the database as a party rather than the guardian or appropriate department;
+
+2. A criminal history of the parties; and
+
+3. Other relevant information necessary to assist courts in issuing orders under this chapter as determined by the judicial information system committee.
+
 
 ## Section 67
 Nothing in this chapter may affect the title to real estate: PROVIDED, That a judgment for costs or fees awarded under this chapter constitutes a lien on real estate to the extent provided in chapter 4.56 RCW.
 
+
 ## Section 68
-(1) Any proceeding under this chapter is in addition to other civil or criminal remedies.
-(2) Nothing in this chapter shall be construed as requiring criminal charges to be filed as a condition of a protection order being issued.
+1. Any proceeding under this chapter is in addition to other civil or criminal remedies.
+
+2. Nothing in this chapter shall be construed as requiring criminal charges to be filed as a condition of a protection order being issued.
+
 
 ## Section 69
 This chapter does not affect the ability of a law enforcement officer to remove a firearm or concealed pistol license from any person or to conduct any search and seizure for firearms pursuant to other lawful authority.
 
+
 ## Section 70
-(1) Except as provided in section 58 of this act, this chapter does not impose criminal or civil liability on any person or entity for acts or omissions related to obtaining an extreme risk protection order or a temporary extreme risk protection order including, but not limited to, reporting, declining to report, investigating, declining to investigate, filing, or declining to file a petition under this chapter.
-(2) No law enforcement officer may be held criminally or civilly liable for making an arrest under section 56 of this act if the officer acts in good faith.
+1. Except as provided in section 58 of this act, this chapter does not impose criminal or civil liability on any person or entity for acts or omissions related to obtaining an extreme risk protection order or a temporary extreme risk protection order including, but not limited to, reporting, declining to report, investigating, declining to investigate, filing, or declining to file a petition under this chapter.
+
+2. No law enforcement officer may be held criminally or civilly liable for making an arrest under section 56 of this act if the officer acts in good faith.
+
 
 ## Section 71
 In each county, the superior court may appoint one or more attorneys to act as protection order commissioners pursuant to this chapter to exercise all powers and perform all duties of a court commissioner appointed pursuant to RCW 2.24.010, provided that such positions may not be created without prior consent of the county legislative authority. A person appointed as a protection order commissioner under this chapter may also be appointed to any other commissioner position authorized by law. Protection order commissioners should receive training as specified in section 35 of this act.
+
 
 ## Section 72
 > This section modifies existing unknown section.
@@ -1162,6 +1833,18 @@ Any person whose license is revoked as a result of a forfeiture of a firearm und
 11. The administrative office of the courts shall create a statewide pattern form to assist the courts in ensuring timely and complete compliance in a consistent manner with orders issued under this chapter. The administrative office of the courts shall report annually on the number of orders issued under this chapter by each court, the degree of compliance, and the number of firearms obtained, and may make recommendations regarding additional procedures to enhance compliance and victim safety.
 
 
+## Section 79
+> This section adds a new section to an existing chapter [9.41](/rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md) for context.
+
+For the purpose of assisting courts in ensuring compliance with an order to surrender and prohibit weapons or an extreme risk protection order, the department of licensing, or the agency with responsibility for maintaining that information should it be an agency other than the department of licensing, shall make the following information available to prosecuting attorneys' offices, city attorneys' offices, public defender agency staff, probation services personnel, and judicial officers and staff of municipal, district, and superior courts for the following law enforcement purposes:
+
+1. Determining whether a person is ineligible to possess firearms;
+
+2. Determining a person's firearms purchase history; and
+
+3. Determining whether a person has or previously had a concealed pistol license, or has applied for a concealed pistol license.
+
+
 ## Section 80
 > This section modifies existing section [10.99.045](/rcw/10_criminal_procedure/10.099_domestic_violence—official_response.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.099_domestic_violence—official_response.md) for context.
 
@@ -1220,6 +1903,24 @@ The definitions in this section apply throughout this chapter unless the context
 8. "Respondent" means an individual against whom a Canadian domestic violence protection order is issued.
 
 9. "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States. The term includes a federally recognized Indian tribe.
+
+
+## Section 83
+> This section adds a new section to an existing chapter [26.55](/rcw/26_domestic_relations/26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md). Here is the [modified chapter](rcw/26_domestic_relations/26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md) for context.
+
+1. A Canadian domestic violence protection order that identifies both a protected individual and a respondent and appears valid on its face is prima facie evidence of its enforceability under this act.
+
+2. A Canadian domestic violence protection order is enforceable only to the extent it prohibits a respondent from the following conduct as ordered by a Canadian court:
+
+    a. Being in physical proximity to a protected individual or following a protected individual;
+
+    b. Directly or indirectly contacting or communicating with a protected individual or other individual described in the order;
+
+    c. Being within a certain distance of a specified place or location associated with a protected individual; or
+
+    d. Molesting, annoying, harassing, or engaging in threatening conduct directed at a protected individual.
+
+3. Neither filing with the clerk of the court under RCW 26.55.040 nor obtaining an order granting recognition and enforcement under RCW 26.55.030 is required prior to the enforcement of a Canadian domestic violence protection order by a law enforcement officer.
 
 
 ## Section 84
@@ -1288,10 +1989,28 @@ The definitions in this section apply throughout this chapter unless the context
 A fee may not be charged for the **filing** of a Canadian domestic violence protection order under this section.
 
 
+## Section 87
+> This section adds a new section to an existing chapter [26.55](/rcw/26_domestic_relations/26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md). Here is the [modified chapter](rcw/26_domestic_relations/26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md) for context.
+
+1. A copy of a Canadian domestic violence protection order filed with the clerk, an order granting recognition and enforcement, or an order denying recognition and enforcement under this chapter, shall be forwarded by the clerk of the court on or before the next judicial day to the law enforcement agency specified in the order. An order granting or denying recognition and enforcement shall be accompanied by a copy of the related Canadian domestic violence protection order.
+
+2. Upon receipt of the order, the law enforcement agency shall comply with the requirements of section 42 of this act.
+
+
 ## Section 88
 > This section modifies existing section [26.55.050](/rcw/26_domestic_relations/26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md). Here is the [modified chapter](rcw/26_domestic_relations/26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md) for context.
 
 The state, state agency, local governmental agency, law enforcement officer, prosecuting attorney, clerk of court, and state or local governmental official acting in an official capacity are immune from civil and criminal liability for an act or omission arising out of the **filing** or **recognition and** enforcement of a Canadian domestic violence protection order or the detention or arrest of an alleged violator of a Canadian domestic violence protection order if the act or omission was a good faith effort to comply with this chapter.
+
+
+## Section 89
+> This section adds a new section to an existing chapter [28A.225](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+1. If any student is subject to a civil protection order, the school district and school building staff will make adjustments to the student's schedule and other modifications to the student's school environment to support compliance with court orders and maintain the student's access to education.
+
+2. If a student is the subject of a civil protection order that prohibits regular attendance at the student's assigned school, the school district must provide the student comparable educational services in another setting. In such a case, the district shall not charge tuition and must provide transportation at no cost. The district shall put in place any needed supports to make the transition to a new school environment successful for the student.
+
+3. A school district must provide notification to the parent or legal guardian of a student who is subject to a civil protection order of the modifications, accommodations, supports, and services being created or provided for the student pursuant to this section.
 
 
 ## Section 92

@@ -1,6 +1,32 @@
 # House Bill 1379
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1379.xml)
+## Section 1
+> This section adds a new section to an existing chapter [47.68](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
+
+1. Within amounts collected from commercial unpiloted aircraft registration fees pursuant to RCW 47.68.250(1), the aviation division director (also known as the senior state aviation official) or the aviation division director's designee shall act as the unpiloted aircraft system coordinator. The duties of the unpiloted aircraft system coordinator include:
+
+    a. Assisting with unpiloted aircraft system training and continuing education for state agencies;
+
+    b. Coordinating with local governments on state and federal unpiloted aircraft system policies and regulations;
+
+    c. Acting as a state level coordinator for unpiloted aircraft system operations during a governor declaration of emergency pursuant to RCW 43.06.210;
+
+    d. Coordinating with the federal aviation administration and state agencies on unpiloted aircraft system trends;
+
+    e. Identifying and disseminating information on unpiloted aircraft system training sites;
+
+    f. Establishing and maintaining an unpiloted aircraft system coordination website for state and local governments;
+
+    g. Assisting with the advancement of unpiloted aircraft systems across the state in coordination with the department of commerce, the aerospace industry, and the commercial unmanned aircraft systems industry;
+
+    h. Acting as the principle advisor to the secretary on unpiloted aircraft system matters;
+
+    i. Undertaking other unpiloted aircraft system coordination duties that are deemed appropriate by the aviation division director and the unpiloted aircraft system coordinator including, but not limited to, overseeing unpiloted aircraft system symposiums or other events for state agencies and other stakeholder groups.
+
+2. The department may adopt rules to implement this section.
+
+
 ## Section 2
 > This section modifies existing section [47.68.250](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
 

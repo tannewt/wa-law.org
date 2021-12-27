@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that housing disparities and insecurity exist in the state of Washington and local zoning laws have often exacerbated the ability for every Washingtonian to obtain an affordable and safe place to live.  The legislature recognizes that these arbitrary limits disproportionally impact historically and currently marginalized communities, and have contributed to widespread discrimination in the housing market. The legislature finds that it is necessary to remove these barriers to better reflect and meet the needs of Washingtonians and the housing market, so that all Washingtonians can attain housing stability and security. It is the intent of the legislature with this act to remove barriers and limitations on both the use and occupancy of accessory dwelling units and the number of unrelated occupants living together.
 
+
 ## Section 2
 > This section modifies existing section [36.70A.696](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 
@@ -72,4 +73,22 @@ The definitions in this section apply throughout RCW 36.70A.697 and 36.70A.698 u
     c. A city that has adopted or substantively amended accessory dwelling unit regulations within the four years previous to June 11, 2020, is not subject to the requirements of this section.
 
 2. **Through ordinances, development regulations, and other official controls adopted or amended as required under RCW 36.70A.697(1)(b), cities and counties may not prohibit any housing unit on the same lot as an accessory dwelling unit from being primarily renter occupied unless the owner of the lot owns more than five accessory dwelling units within the same city or county. This exception for an owner who owns more than five accessory dwelling units within the same city or county does not apply to accessory dwelling units owned by a nonprofit entity.**
+
+
+## Section 5
+> This section adds a new section to an existing chapter [35.21](/rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md) for context.
+
+Except for occupant limits on group living arrangements regulated under state law or on short-term rentals as defined in RCW 64.37.010 and any restrictions on occupant load of the structure as calculated by the city or town in accordance with the applicable building code, a city or town may not regulate or limit the number of unrelated persons that may occupy a household or dwelling unit.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [35A.21](/rcw/35A_optional_municipal_code/35A.21_provisions_affecting_all_code_cities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.21_provisions_affecting_all_code_cities.md) for context.
+
+Except for occupant limits on group living arrangements regulated under state law or on short-term rentals as defined in RCW 64.37.010 and any restrictions on occupant load of the structure as calculated by the code city in accordance with the applicable building code, a code city may not regulate or limit the number of unrelated persons that may occupy a household or dwelling unit.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+Except for occupant limits on group living arrangements regulated under state law or on short-term rentals as defined in RCW 64.37.010 and any restrictions on occupant load of the structure as calculated by the county in accordance with the applicable building code, a county may not regulate or limit the number of unrelated persons that may occupy a household or dwelling unit.
 

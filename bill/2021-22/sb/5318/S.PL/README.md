@@ -91,3 +91,4 @@
 
 ## Section 5
 All new or renewal applications for registration under this act received on or after the effective date of this section are subject to the provisions of this act, including all fees required by this act.
+

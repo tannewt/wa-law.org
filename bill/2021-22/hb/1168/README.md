@@ -1,5 +1,6 @@
 # HB 1168 - Long-term forest health
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1168&Year=2021)
+
 Concerning long-term forest health and the reduction of wildfire dangers.
 
 ## Revisions

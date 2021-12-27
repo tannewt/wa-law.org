@@ -1,6 +1,126 @@
 # Engrossed Second Substitute Senate Bill 5377 as Recommended by Ways & Means
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5377-S2.E.xml)
+## Section 1
+> This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the exchange:
+
+    a. Shall establish a premium assistance program and annually set the amount of premium assistance provided to eligible individuals; and
+
+    b. May establish a cost-sharing reduction program to provide cost-sharing assistance to eligible individuals.
+
+2. The exchange must establish assistance amounts through a fair and transparent process and must provide notice and opportunity for public comment before finalizing each year's assistance amounts.
+
+3. The exchange must establish:
+
+    a. Procedural requirements for eligibility and continued participation in any premium assistance program or cost-sharing program established under this section, including participant documentation requirements that are necessary to administer the program; and
+
+    b. Procedural requirements for facilitating payments to carriers.
+
+4. Subject to the availability of amounts appropriated for this specific purpose, an individual is eligible for premium assistance and cost-sharing reductions under this section if the individual:
+
+    a. [Empty]
+
+        i. Is a resident of the state;
+
+        ii. Has income that is up to 500 percent of the federal poverty level, or a lower income threshold determined through appropriation;
+
+        iii. Is enrolled in a silver or gold standard plan offered in the enrollee's county of residence;
+
+        iv. Applies for and accepts all federal advance premium tax credits for which they may be eligible before receiving any state premium assistance;
+
+    v. Applies for and accepts all federal cost-sharing reductions for which they may be eligible before receiving any state cost-sharing reductions;
+
+    vi. Is ineligible for minimum essential coverage through medicare, a federal or state medical assistance program administered by the authority under chapter 74.09 RCW, or for premium assistance under RCW 43.71A.020; and
+
+    vii. Meets other eligibility criteria as established by the exchange; or
+
+    b. Meets eligibility criteria as established in the omnibus appropriations act.
+
+5. [Empty]
+
+    a. The exchange may disqualify an individual from receiving premium assistance or cost-sharing reductions under this section if the individual:
+
+        i. No longer meets the eligibility criteria in subsection (4) of this section;
+
+        ii. Fails, without good cause, to comply with any procedural or documentation requirements established by the exchange in accordance with subsection (3) of this section;
+
+        iii. Fails, without good cause, to notify the exchange of a change of address in a timely manner;
+
+        iv. Voluntarily withdraws from the program; or
+
+    v. Performs an act, practice, or omission that constitutes fraud, and, as a result, an issuer rescinds the individual's policy for the qualified health plan.
+
+    b. The exchange must develop a process for an eligible individual to appeal a premium assistance or cost-sharing assistance eligibility determination from the exchange.
+
+6. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Advance premium tax credit" means the premium assistance amount determined in accordance with the federal patient protection and affordable care act, P.L. 111-148, as amended by the federal health care and education reconciliation act of 2010, P.L. 111-152, or federal regulations or guidance issued under the affordable care act.
+
+    b. "Income" means the modified adjusted gross income attributed to an individual for purposes of determining his or her eligibility for advance premium tax credits.
+
+    c. "Standard plan" means a standardized health plan under RCW 43.71.095.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
+
+1. The exchange, on behalf of the state and in consultation with the authority and the office of the insurance commissioner, must explore all opportunities to apply to the secretary of health and human services under 42 U.S.C. Sec. 18052 for a waiver or other available federal flexibilities to:
+
+    a. Receive federal funds for the implementation of the premium assistance or cost-sharing reduction programs established under section 1 of this act;
+
+    b. Increase access to qualified health plans; and
+
+    c. Implement or expand other exchange programs that increase affordability of or access to health insurance coverage in Washington state.
+
+2. If the exchange submits an application under this section, the board must notify the chairs and ranking minority members of the appropriate policy and fiscal committees of the legislature.
+
+3. If the exchange submits an application under this section, pursuant to 42 U.S.C. Sec. 18052(a)(4)(B), it must meet all federal public notice and comment requirements, including public hearings, sufficient to ensure a meaningful level of public input.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
+
+1. The state health care affordability account is created in the state treasury. Expenditures from the account may only be used for premium and cost-sharing assistance programs established in section 1 of this act.
+
+2. The following funds must be deposited in the account:
+
+    a. Any grants, donations, or contributions of money collected for purposes of the premium assistance or cost-sharing reduction programs established in section 4 of this act;
+
+    b. Any federal funds received by the health benefit exchange pursuant to section 2 of this act; and
+
+    c. Any additional funding specifically appropriated to the account.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [48.43](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+For qualified health plans offered on the exchange, a carrier shall:
+
+1. Accept payments for enrollee premiums or cost-sharing assistance under section 1 of this act or as part of a sponsorship program under RCW 43.71.030(4);
+
+2. Clearly communicate premium assistance amounts to enrollees as part of the invoicing and payment process; and
+
+3. Accept and process enrollment and payment data transferred by the exchange in a timely manner.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [41.05](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
+
+1. [Empty]
+
+    a. For plan years 2022 and later, except as provided in (b) of this subsection, a hospital system that owns or operates at least four hospitals licensed under chapter 70.41 RCW must contract with at least two public option plans of the hospital system's choosing in each county in a geographic rating area in which the hospital system has at least one hospital licensed under chapter 70.41 RCW to provide in-network services to the enrollees of that plan.
+
+    b. A hospital is not required to contract with two public option plans in a county pursuant to (a) of this subsection unless it receives an offer from at least two health carriers to provide in-network services as part of a public option plan in that county for the following plan year. If a hospital receives only one offer from a health carrier to participate in a public option plan in a county, it is only required to contract with one public option plan in that county.
+
+2. Health carriers and hospitals may not condition negotiations or participation of a hospital licensed under chapter 70.41 RCW in any health plan offered by the health carrier on the hospital's negotiations or participation in a public option plan.
+
+3. The authority may adopt program rules, in consultation with the office of the insurance commissioner, to ensure compliance with this section, including levying fines and taking other contract actions it deems necessary to enforce compliance with this section.
+
+4. For the purposes of this section, "public option plan" means a qualified health plan contracted by the authority under RCW 41.05.410.
+
+
 ## Section 6
 > This section modifies existing section [41.05.410](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
 

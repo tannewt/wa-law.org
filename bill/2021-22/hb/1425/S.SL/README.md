@@ -3,9 +3,13 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1425-S.SL.xml)
 ## Section 1
 The legislature finds that higher education is pivotal in delivering training to Washington citizens at all stages of their careers and ages. A skilled workforce increases productivity, boosts outputs, and propels growth in Washington's economy. The legislature further finds that a well-trained, highly skilled workforce provides Washington citizens with greater opportunities and skill sets to efficiently and confidently meet the changing demands of a transforming economy. Furthermore, a STEM-based education provides Washington's citizens with real-world applications to develop a variety of skill sets needed in today's global economy.
+
 The legislature further finds that the Washington state opportunity scholarship is an innovative public private partnership that has been successful building a qualified workforce to fill Washington's high-demand STEM, health care, and trade industries. The Washington state opportunity scholarship has successfully created opportunities for communities historically left out of higher education and STEM, including women, students of color, and first-generation college students. In addition, the Washington state opportunity scholarship has been shown to change communities by breaking the cycle of intergenerational poverty.
+
 The legislature also finds that higher education is a key driver of individual growth and prosperity, and is an effective way to bridge societal inequities that disproportionately afflict low-income communities and communities of color. The legislature further finds that these gaps will be further widened in the current global pandemic, which will exacerbate long-term impacts on these communities in intergenerational poverty, job attainment, job stability, and wage growth.
+
 Therefore, it is the intent of the legislature to amend the existing Washington state opportunity scholarship program to eliminate false barriers for students eligible for the scholarship and provide additional educational opportunities for Washington's citizens. This legislative intent is particularly urgent during the global pandemic where additional skills and opportunities will be vital for Washington citizens as the state moves toward recovery from the current global pandemic.
+
 
 ## Section 2
 > This section modifies existing section [28B.145.010](/rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md). Here is the [modified chapter](rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md) for context.

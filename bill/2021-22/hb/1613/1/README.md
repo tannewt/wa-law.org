@@ -1,6 +1,14 @@
 # House Bill 1613
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1613.xml)
+## Section 1
+> This section adds a new section to an existing chapter [50B.04](/rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md). Here is the [modified chapter](rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md) for context.
+
+1. Any information or records concerning an individual or employer obtained by the employment security department for the purposes of collecting and assessing employee premiums under RCW 50B.04.080 and determining qualified individuals under RCW 50B.04.050 will be considered private and confidential in the same manner provided in chapter 50A.25 RCW.
+
+2. This section does not create a rule of evidence.
+
+
 ## Section 2
 > This section modifies existing section [50A.25.070](/rcw/50A_family_and_medical_leave/50A.25_privacy.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.25_privacy.md) for context.
 

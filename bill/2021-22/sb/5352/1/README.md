@@ -3,10 +3,27 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5352.xml)
 ## Section 1
 The legislature intends to allow certain employees a one-time, irrevocable opportunity to opt out of participation in the retirement plan. This opportunity is not retroactive, and applies only to the following two types of employees:
-(1) Employees with no prior service in one of the retirement systems listed in RCW 41.50.030 who are age 60 or older when newly hired into a public employees' retirement system, school employees' retirement system, or teachers' retirement system position. For these employees, the decision must be made prior to the first date the employer would be required to report the employee to the department of retirement systems as a plan member.
-(2) Existing employees who are age 60 or older when the employee's employer opts into participation in the public employees' retirement system. For these employees, the decision must take place on or before the first day the employer begins participating in the public employees' retirement system.
+
+1. Employees with no prior service in one of the retirement systems listed in RCW 41.50.030 who are age 60 or older when newly hired into a public employees' retirement system, school employees' retirement system, or teachers' retirement system position. For these employees, the decision must be made prior to the first date the employer would be required to report the employee to the department of retirement systems as a plan member.
+
+2. Existing employees who are age 60 or older when the employee's employer opts into participation in the public employees' retirement system. For these employees, the decision must take place on or before the first day the employer begins participating in the public employees' retirement system.
+
 To minimize the cost to the retirement system and the likelihood that employers will create incentives to induce employees to opt out of the retirement system, the legislature intends that employers of employees who opt out of plan participation under this act will continue to make the same retirement contributions toward the normal cost and unfunded actuarial liability based on that employee's salary that the employer would have made if the employee had chosen to join the retirement system. Since the employees who opt out are not plan members and are not eligible for retirement benefits, the employees should make no contributions toward the plan.
+
 The legislature intends that the department of retirement systems administer this provision in a way that is consistent with federal tax law.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [41.40](/rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md) for context.
+
+Employees with no prior service in one of the retirement systems listed in RCW 41.50.030 who are age 60 or older when newly hired, or are existing employees of an employer and age 60 or older when that employer opts into participation in the public employees' retirement system, shall be given the opportunity to opt out of participation. For new employees, the decision must be made prior to the first date the employer would be required to report the employee to the department as a plan member. For employees of agencies who opt into public employees' retirement system participation, this decision is irrevocable and must take place on or before the first day the employer begins participating in the public employees' retirement system. Employees who opt out of plan membership under this chapter will make no contributions toward the retirement system, and will not be eligible for retirement benefits. Any employee offered this choice who does not make an affirmative decision becomes a plan member as determined in this chapter.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [41.40](/rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md) for context.
+
+Employers of employees who opt out of plan participation under this chapter will continue to make retirement contributions toward the normal cost under RCW 41.45.155(1) and unfunded actuarial liability under RCW 41.45.150(4) based on that employee's salary as though the employee had chosen to join the public employees' retirement system.
+
 
 ## Section 4
 > This section modifies existing section [41.40.023](/rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md) for context.
@@ -80,6 +97,18 @@ Persons serving in such positions who have not opted for membership within the s
 23. **Employees who exercise the opt out provision created in section 2 of this act**.
 
 
+## Section 5
+> This section adds a new section to an existing chapter [41.35](/rcw/41_public_employment_civil_service_and_pensions/41.35_washington_school_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.35_washington_school_employees_retirement_system.md) for context.
+
+Employees with no prior service in one of the retirement systems listed in RCW 41.50.030 who are age 60 or older when newly hired shall be given the opportunity to opt out of participation in the school employees' retirement system. This decision must be made prior to the first date the employer would be required to report the employee to the department as a plan member. Employees who opt out of plan membership under this chapter will make no contributions toward the retirement system, and will not be eligible for retirement benefits. Any employee offered this choice who does not make an affirmative decision becomes a plan member as determined in this chapter.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [41.35](/rcw/41_public_employment_civil_service_and_pensions/41.35_washington_school_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.35_washington_school_employees_retirement_system.md) for context.
+
+Employers of employees who opt out of school employees' retirement system plan participation under this chapter will continue to make retirement contributions toward the normal cost under RCW 41.45.155(3) and unfunded actuarial liability under RCW 41.45.150(5) based on that employee's salary as though the employee had chosen to join the school employees' retirement system.
+
+
 ## Section 7
 > This section modifies existing section [41.35.030](/rcw/41_public_employment_civil_service_and_pensions/41.35_washington_school_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.35_washington_school_employees_retirement_system.md) for context.
 
@@ -126,4 +155,18 @@ Membership in the retirement system shall consist of all regularly compensated c
 Any person, not employed as an educational staff associate on June 7, 1984, may, before June 30 of the fifth school year after that person's return to employment as a teacher, request and establish membership and credit under this subsection.
 
 3. **Teachers with no prior service in one of the retirement systems listed in RCW 41.50.030 who are age 60 or older when newly hired shall be given the opportunity to opt out of participation in the retirement plan. This decision must be made prior to the first date the employer would be required to report the employee to the department as a plan member. Teachers who opt out of plan membership under this chapter will make no contributions toward the retirement system, and will not be eligible for retirement benefits. Any teacher offered this choice who does not make an affirmative decision becomes a plan member as determined in this chapter.**
+
+
+## Section 9
+> This section adds a new section to an existing chapter [41.32](/rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md) for context.
+
+Employers of teachers who opt out of plan participation under this chapter will continue to make retirement contributions toward the normal cost under RCW 41.45.155(4) and unfunded actuarial liability under RCW 41.45.150(6) based on that teacher's salary as though the employee had chosen to join the teachers' retirement system.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [41.50](/rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md) for context.
+
+1. The department must administer the opt-out provision in chapters 41.32, 41.35, and 41.40 RCW so as to comply with the internal revenue code, Title 26 U.S.C., and specifically with plan qualification requirements imposed on governmental plans by section 401(a) of the internal revenue code. Any section or provision of this act that is susceptible to more than one construction must be interpreted so as to meet this requirement.
+
+2. If the internal revenue service determines that this act is in conflict with the plan qualification requirements for governmental plans in section 401(a) of the internal revenue code, and the conflict cannot be resolved through administrative action or statutory change, then the act is null and void.
 

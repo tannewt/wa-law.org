@@ -141,6 +141,60 @@ If less restrictive alternative treatment is sought, the petition shall set fort
 8. No person committed as provided in this section may be detained unless a valid order of commitment is in effect. No order of commitment can exceed one hundred eighty days in length except as provided in subsection (7) of this section.
 
 
+## Section 4
+> This section adds a new section to an existing chapter [10.77](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
+
+1. Conditional release planning should start at admission and proceed in coordination between the department and the person's managed care organization, or behavioral health administrative services organization if the person is not eligible for medical assistance under chapter 74.09 RCW. If needed, the department shall assist the person to enroll in medical assistance in suspense status under RCW 74.09.670. The state hospital liaison for the managed care organization or behavioral health administrative services organization shall facilitate conditional release planning in collaboration with the department.
+
+2. Less restrictive alternative treatment pursuant to a conditional release order, at a minimum, includes the following services:
+
+    a. Assignment of a care coordinator;
+
+    b. An intake evaluation with the provider of the conditional treatment;
+
+    c. A psychiatric evaluation or a substance use disorder evaluation, or both;
+
+    d. A schedule of regular contacts with the provider of the less restrictive alternative treatment services for the duration of the order;
+
+    e. A transition plan addressing access to continued services at the expiration of the order;
+
+    f. An individual crisis plan;
+
+    g. Consultation about the formation of a mental health advance directive under chapter 71.32 RCW; and
+
+    h. Appointment of a transition team under RCW 10.77.150;
+
+    i. Notification to the care coordinator assigned in (a) of this subsection and to the transition team as provided in RCW 10.77.150 if reasonable efforts to engage the client fail to produce substantial compliance with court-ordered treatment conditions.
+
+3. Less restrictive alternative treatment pursuant to a conditional release order may additionally include requirements to participate in the following services:
+
+    a. Medication management;
+
+    b. Psychotherapy;
+
+    c. Nursing;
+
+    d. Substance use disorder counseling;
+
+    e. Residential treatment;
+
+    f. Support for housing, benefits, education, and employment; and
+
+    g. Periodic court review.
+
+4. Nothing in this section prohibits items in subsection (2) of this section from beginning before the conditional release of the individual.
+
+5. If the person was provided with involuntary medication under RCW 71.05.215 or pursuant to a judicial order during the involuntary commitment period, the less restrictive alternative treatment pursuant to the conditional release order may authorize the less restrictive alternative treatment provider or its designee to administer involuntary antipsychotic medication to the person if the provider has attempted and failed to obtain the informed consent of the person and there is a concurring medical opinion approving the medication by a psychiatrist, physician assistant working with a supervising psychiatrist, psychiatric advanced registered nurse practitioner, or physician or physician assistant in consultation with an independent mental health professional with prescribing authority.
+
+6. Less restrictive alternative treatment pursuant to a conditional release order must be administered by a provider that is certified or licensed to provide or coordinate the full scope of services required under the less restrictive alternative order and that has agreed to assume this responsibility.
+
+7. The care coordinator assigned to a person ordered to less restrictive alternative treatment pursuant to a conditional release order must submit an individualized plan for the person's treatment services to the court that entered the order. An initial plan must be submitted as soon as possible following the intake evaluation and a revised plan must be submitted upon any subsequent modification in which a type of service is removed from or added to the treatment plan.
+
+8. A care coordinator may disclose information and records related to mental health treatment under RCW 70.02.230(2)(k) for purposes of implementing less restrictive alternative treatment pursuant to a conditional release order.
+
+9. For the purpose of this section, "care coordinator" means a clinical practitioner within the community behavioral health agency providing less restrictive alternative treatment who coordinates the activities of less restrictive alternative treatment pursuant to a conditional release order. The care coordinator coordinates activities with the person's transition team that are necessary for enforcement and continuation of the conditional release order and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
+
+
 ## Section 5
 > This section modifies existing section [10.77.060](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
 
@@ -463,3 +517,4 @@ I recognize that unauthorized release of confidential information may subject me
 
 ## Section 9
 The provisions of this act apply to persons who are committed for inpatient treatment under chapter 10.77 or 71.05 RCW as of the effective date of this section.
+

@@ -1,6 +1,36 @@
 # Senate Bill 5431 - Session Law Chapter 108 Year 2021
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5431.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
+
+The secretary of the senate and the chief clerk of the house of representatives may administer and conduct the Rosa Franklin legislative internship program scholarship to provide resources for Washington students who participate in the legislative internship program of the senate and house of representatives. The scholarship program should provide assistance to students, based on financial need, who are accepted as legislative interns. The program is called the Rosa Franklin legislative internship program scholarship.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
+
+1. The secretary of the senate and the chief clerk of the house of representatives may solicit and accept gifts, grants, conveyances, bequests, and devises of real or personal property, or both, in trust or otherwise, and sell, lease, exchange, or expend these donations or the proceeds, rents, profits, and income from the donations except as limited by the donor's terms. Any legislative member or legislative employee may solicit the same types of contributions for the secretary of the senate and the chief clerk of the house of representatives.
+
+2. Moneys received under this section may be used only for establishing and operating the Rosa Franklin legislative internship program scholarship authorized in section 1 of this act.
+
+3. Moneys received under this section must be deposited in the legislative internship program scholarship account established in section 3 of this act.
+
+4. The secretary of the senate and the chief clerk of the house of representatives must adopt joint rules to govern and protect the receipt and expenditure of the proceeds.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
+
+The Rosa Franklin legislative internship program scholarship account is created in the custody of the state treasurer. All moneys received under section 2 of this act must be deposited in the account. Expenditures from the account may be made only for the purposes of the Rosa Franklin legislative internship program scholarship created in section 1 of this act. Only the secretary of the senate or the chief clerk of the house of representatives or their designee may authorize expenditures from the account. An appropriation is not required for expenditures, but the account is subject to allotment procedures under chapter 43.88 RCW.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [42.52](/rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md) for context.
+
+This chapter does not prohibit the secretary of the senate, the chief clerk of the house of representatives, or their designee from soliciting and accepting contributions to the Rosa Franklin legislative internship program scholarship account created in section 3 of this act. Furthermore, this chapter does not prohibit any legislative member or legislative employee from soliciting gifts for the Rosa Franklin legislative internship program scholarship account.
+
+
 ## Section 5
 > This section modifies existing section [43.79A.040](/rcw/43_state_government—executive/43.079A_treasurers_trust_fund.md). Here is the [modified chapter](rcw/43_state_government—executive/43.079A_treasurers_trust_fund.md) for context.
 

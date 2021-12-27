@@ -1,5 +1,6 @@
 # EHB 1090 - Private detention facilities
-*Status: Effective date 4/14/2021.*
+*Status: Effective date 4/14/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1090&Year=2021)
+
 Concerning private, for-profit detention facilities.
 
 ## Revisions

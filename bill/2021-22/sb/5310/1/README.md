@@ -4,8 +4,10 @@
 ## Section 1
 This act may be known and cited as the combatting violence, disorder, and looting and law enforcement protection act.
 
+
 ## Section 2
 The legislature finds that government exists, in part, to secure rights and equal justice for all citizens, while at the same time maintain social order. Statutory and common law vests in the state the police powers essential to the preservation of social order, which it has delegated to local governments. For example, in Chicago v. Sturges, 222 U.S. 313 (1911), the United States supreme court held that liability may exist when a local government fails to protect property destroyed by unpeaceful protests, riots, or mob violence. The legislature intends to hold local governments responsible when they willfully fail to discharge their delegated power to maintain social order. The legislature further finds that law enforcement officers and first responders are vital public servants who put their lives at risk for the betterment of their community and that intentionally withdrawing or reducing these services leads to increases in violent crime and decreases in overall public safety.
+
 
 ## Section 3
 > This section modifies existing section [9A.36.031](/rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md) for context.
@@ -591,6 +593,50 @@ Vehicle Prowl 1 (RCW 9A.52.095)
 Violating Commercial Fishing Area or Time 1 (RCW 77.15.550(3)(b))
 
 
+## Section 6
+> This section adds a new section to an existing chapter [9A.82](/rcw/09A_washington_criminal_code/9A.82_criminal_profiteering_act.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.82_criminal_profiteering_act.md) for context.
+
+1. A person commits the offense of leading an organized riot by:
+
+    a. Intentionally organizing, managing, directing, supervising, or financing any three or more persons with the intent to promote the accomplishment of a pattern of criminal mischief, harassment, or destruction of property; or
+
+    b. Intentionally inciting or inducing others to engage in violence or intimidation with the intent to further or promote the accomplishment of a pattern of behavior which causes injury or substantial risk of injury to another person.
+
+2. [Empty]
+
+    a. Except as provided in (b) of this subsection, leading an organized riot is a class C felony.
+
+    b. Leading an organized riot is a class B felony when the person is armed with a deadly weapon and uses the deadly weapon in commission of the crime by intentionally displaying the deadly weapon in an intimidating or threatening manner during the riot.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [46.61](/rcw/46_motor_vehicles/46.61_rules_of_the_road.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.61_rules_of_the_road.md) for context.
+
+1. A person is guilty of obstructing a highway if the person, acting with three or more other persons:
+
+    a. Having no privilege to do so, recklessly, intentionally, or knowingly obstructs the passage of motor vehicles on a highway; or
+
+    b. After receiving a verbal warning to disperse by a peace officer, intentionally obstructs the passage of motor vehicles on a highway.
+
+2. For purposes of this section, "obstruct" means to render impassable or to render passage unreasonably inconvenient or hazardous.
+
+3. Obstructing a highway under this section is a class C felony.
+
+4. A person lawfully operating a motor vehicle on a highway is not liable for civil damages for injuries sustained to persons or property while reasonably attempting to avoid or flee a person who was obstructing a highway at the time of the injury.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [9A.84](/rcw/09A_washington_criminal_code/9A.84_public_disturbance.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.84_public_disturbance.md) for context.
+
+1. A person is guilty of the crime of rioting if, acting with seven or more persons, he or she knowingly and unlawfully participates in an assembly and causes damage to property or injury to other persons or there are acts of conduct within that group which create a substantial risk of causing injury to any person, or substantial harm to property.
+
+2. [Empty]
+
+    a. Except as provided in (b) of this subsection, the crime of rioting is a gross misdemeanor.
+
+    b. The crime of rioting is a class C felony if the person is armed with a deadly weapon during the commission of the crime and uses the deadly weapon to cause damage to property or injury to other persons.
+
+
 ## Section 10
 > This section modifies existing section [9A.84.010](/rcw/09A_washington_criminal_code/9A.84_public_disturbance.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.84_public_disturbance.md) for context.
 
@@ -615,6 +661,46 @@ Violating Commercial Fishing Area or Time 1 (RCW 77.15.550(3)(b))
 2. (a) **Except as provided in (b) of this subsection, malicious** mischief in the third degree is a gross misdemeanor.
 
     b. **Malicious mischief in the third degree is a class C felony if the person is armed with a deadly weapon and uses the deadly weapon to cause damage to property during the commission of the crime.**
+
+
+## Section 12
+> This section adds a new section to an existing chapter [35.21](/rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md) for context.
+
+1. Political subdivisions, including cities and towns, are prohibited from intentionally withdrawing law enforcement and fire and rescue services for indefinite periods of time, in specifically bounded areas, within their local jurisdiction.
+
+2. Any political subdivision that violates subsection (1) of this section may be liable for the loss of life, injury, theft, damage, or destruction of property resulting from any riot or unlawful assembly of persons engaged in disturbing the public peace if the police, or other proper authorities, have not exercised reasonable care or diligence in the prevention or suppression of such riot or assembly. In addition to other actual damages, damages may include loss of business or right of enjoyment for the failure to maintain public safety in public rights-of-way.
+
+3. In addition to any other remedies and sanctions provided in this section for a violation of subsection (1) of this section, based on a judicial finding or legislative determination, a political subdivision may be subject to a fine of $10,000 per day until its services are brought into compliance.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [35.21](/rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md) for context.
+
+1. Cities with a population of more than 50,000 inhabitants must maintain a law enforcement-to-inhabitant ratio of at least one law enforcement officer for each 1,000 inhabitants.
+
+2. Any city with a population of 50,000 or more that violates subsection (1) of this section may be liable for the loss of life, injury, theft, damage, or destruction of property resulting from any riot or unlawful assembly of persons engaged in disturbing the public peace if the police, or other proper authorities, have not exercised reasonable care or diligence in the prevention or suppression of such riot or assembly. In addition to other actual damages, damages may include loss of business or right of enjoyment for the failure to maintain public safety in public rights-of-way.
+
+3. In addition to any other remedies and sanctions provided in this section for a violation of subsection (1) of this section, based on a judicial finding or legislative determination, a city with a population of 50,000 or more may be subject to a fine of $10,000 per day until its services are brought into compliance.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+1. Political subdivisions, including counties, are prohibited from intentionally withdrawing law enforcement and fire and rescue services for indefinite periods of time, in specifically bounded areas, within their local jurisdiction.
+
+2. Any political subdivision that violates subsection (1) of this section may be liable for the loss of life, injury, theft, damage, or destruction of property resulting from any riot or unlawful assembly of persons engaged in disturbing the public peace if the police, or other proper authorities, have not exercised reasonable care or diligence in the prevention or suppression of such riot or assembly. In addition to other actual damages, damages may include loss of business or right of enjoyment for the failure to maintain public safety in public rights-of-way.
+
+3. In addition to any other remedies and sanctions provided in this section for a violation of subsection (1) of this section, based on a judicial finding or legislative determination, a political subdivision may be subject to a fine of $10,000 per day until its services are brought into compliance.
+
+
+## Section 15
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+1. Counties with a population of greater than 30,000 inhabitants must maintain a law enforcement-to-inhabitant ratio of at least one law enforcement officer for each 1,000 inhabitants.
+
+2. Any county with a population greater than 30,000 inhabitants that violates subsection (1) of this section may be liable for the loss of life, injury, theft, damage, or destruction of property resulting from any riot or unlawful assembly of persons engaged in disturbing the public peace if the police, or other proper authorities, have not exercised reasonable care or diligence in the prevention or suppression of such riot or assembly. In addition to other actual damages, damages may include loss of business or right of enjoyment for the failure to maintain public safety in public rights-of-way.
+
+3. In addition to any other remedies and sanctions provided herein for a violation of subsection (1) of this section, based on a judicial finding or legislative determination, a county with a population greater than 30,000 inhabitants may be subject to a fine of $10,000 per day until its services are brought into compliance.
 
 
 ## Section 16

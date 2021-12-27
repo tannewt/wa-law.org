@@ -183,3 +183,4 @@ For the purposes of this chapter:
 
 ## Section 4
 This act applies prospectively to any special assessment amounts collected by a lodging business as provided in section 1 of this act that are collected on or after the effective date of this section, as well as retroactively for any taxpayer who has been assessed taxes by the department of revenue prior to the effective date of this section, on any special assessment amounts collected by a lodging business as provided in section 1 of this act. Nothing in this act is intended to be construed to require or otherwise authorize a refund of taxes lawfully paid prior to the effective date of this section.
+

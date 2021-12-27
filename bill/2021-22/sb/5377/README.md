@@ -1,5 +1,6 @@
 # SB 5377 - Standardized health plans
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5377&Year=2021)
+
 Increasing affordability of standardized plans on the individual market.
 
 ## Revisions

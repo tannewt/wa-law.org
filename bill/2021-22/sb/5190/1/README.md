@@ -33,6 +33,18 @@
 3. **During the weeks of a public health emergency, an unemployed individual may also meet the requirements of subsection (1)(c) of this section if the unemployed individual described in RCW 50.20.050(1)(b)(xii) is able to perform, available to perform, and actively seeking suitable work which will commence after quarantine or which can be performed for an employer from the individual's home.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [50.04](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
+
+"Public health emergency" means a declaration or order that covers the jurisdiction where the unemployed individual was working on the date the individual became unemployed concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+1. The president of the United States has declared a national or regional emergency;
+
+2. The governor of Washington declared a state of emergency under RCW 43.06.010(12); or
+
+3. The governor or state executive of another state where the unemployed individual was working at the time of the declaration declared a state of emergency.
+
+
 ## Section 4
 > This section modifies existing section [50.29.021](/rcw/50_unemployment_compensation/50.29_employer_experience_rating.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.29_employer_experience_rating.md) for context.
 
@@ -115,3 +127,50 @@
 
 ## Section 5
 If any part of sections 1 through 4 of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of sections 1 through 4 of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of sections 1 through 4 of this act. Rules adopted under sections 1 through 4 of this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [51.32](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. For health care employees who are covered under this title, there exists a prima facie presumption that any infectious or contagious diseases which are the subject of a public health emergency are occupational diseases under RCW 51.08.140 during a public health emergency. There is a presumption that the health care employee contracted or was exposed to the disease at the health care facility.
+
+2. The health care employee must provide verification, as required by the department by rule, to the department and the self-insured employer that the employee has contracted or is in quarantine after exposure to the infectious or contagious disease that is the subject of the public health emergency.
+
+3. This presumption of occupational disease may be rebutted by clear and convincing evidence that:
+
+    a. The exposure to the infectious or contagious disease which is the subject of the public health emergency occurred from other employment or nonemployment activities; or
+
+    b. The employee was working from the employee's home, on leave from the employee's employment, or some combination thereof, for a period of 14 or more consecutive days immediately prior to the employee's injury, occupational disease, or period of incapacity resulted from exposure to the disease which is the subject of the public health emergency.
+
+4. For purposes of RCW 51.32.090(7), the period of 14 consecutive calendar days shall be 10 consecutive calendar days.
+
+5. [Empty]
+
+    a. When a determination involving the presumption established under this section is appealed to the board of industrial insurance appeals and the final decision allows the claim of benefits, the board of industrial insurance appeals shall order that all reasonable costs of the appeal, including attorneys' fees and witness fees, be paid to the worker or the worker's beneficiary by the opposing party. If the opposing party is a state fund employer, the costs and fees are paid by the employer.
+
+    b. When a determination involving the presumption established in this section is appealed to any court and the final decision allows the claim for benefits, the court shall order that all reasonable costs of appeal, including attorneys' fees and witness fees, be paid to the worker or the worker's beneficiary by the opposing party.
+
+    c. When reasonable costs of the appeal must be paid by the department under this section in a state fund case, the costs shall be paid from the accident fund and charged to the costs of the claim.
+
+6. Costs of the payments under this section shall not affect the experience rating of employers insured by the state fund. These costs shall be paid from the accident fund.
+
+7. For purposes of this section:
+
+    a. "Health care employee" means an employee who is directly involved in the delivery of health services in a health care facility.
+
+    b. "Contracted" means whichever date occurs first of the following:
+
+        i. The date that the health care employee first missed work due to symptoms of the infectious or contagious disease;
+
+        ii. The date the health care employee was quarantined by a medical provider or public health official; or
+
+        iii. The date the health care employee received a positive test result confirming contraction of the infectious or contagious disease.
+
+    c. "Health care facility" has the same meaning as in RCW 9A.50.010.
+
+    d. "Public health emergency" means a declaration or order that covers the jurisdiction where the unemployed individual was working on the date the individual became unemployed concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+        i. The president of the United States has declared a national or regional emergency; or
+
+        ii. The governor of Washington declared a state of emergency under RCW 43.06.010(12).
+

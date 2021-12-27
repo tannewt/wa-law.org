@@ -88,3 +88,67 @@ In any election for directors where the number of votes which may be received wi
 
 No list, tally paper or certificate returned from any election shall be set aside or rejected for want of form, if it can be satisfactorily understood. The board of directors must meet at its usual place of meeting on the first **Wednesday** after each election, to canvass the returns. If, at the time of meeting, the returns from each precinct in the district in which the polls were opened have been received, the board of directors must then and there proceed to canvass the returns, but if all the returns have not been received, the canvass must be postponed from day to day until all the returns have been received, or until six postponements have been had. The canvass must be made in public, and by opening the returns and estimating the vote of the district for each person voted for, and declaring the result thereof. **If an undeclared write-in candidate for a position of director receives the most votes, the board of directors must determine whether that candidate is a qualified elector for that specific position. If that candidate is not a qualified elector, the qualified elector receiving the next highest number of votes will be deemed elected to the position.**
 
+
+## Section 10
+> This section adds a new section to an existing chapter [87.03](/rcw/87_irrigation/87.03_irrigation_districts_generally.md). Here is the [modified chapter](rcw/87_irrigation/87.03_irrigation_districts_generally.md) for context.
+
+The following election security requirements apply to districts that qualify and have designated their own treasurer as provided in RCW 87.03.440:
+
+1. At all times when ballots are being controlled including, but not limited to, receipt, opening of ballots, certification, tabulation, reconciliation, or any other type of processing, two individuals not on the ballot must be present.
+
+2. [Empty]
+
+    a. Each ballot box must be secured and locked, with a deposit slot, and clearly marked as an "official ballot box." Ballot box keys must be provided to district election officials only, or designated district staff if available;
+
+    b. Each ballot box must be closed with tamper-evident seals with a paper seal log:
+
+        i. Each time the box is opened, a new seal log must be signed, with the seal number noted and dated;
+
+        ii. When the box is opened, the previous seal log must be compared to the cut seal and initialed; and
+
+        iii. All seal logs must be retained for six months after the day of the election;
+
+    c. Each ballot box must be physically secured so that it cannot be stolen or moved, and may only be moved by district election officials, or designated district staff if available;
+
+    d. Any election officials or district staff carrying out official ballot or election duties may not be a candidate on the election ballot.
+
+3. [Empty]
+
+    a. Ballot envelopes may not be opened immediately after voter deposit. Ballot tabulation may only begin after the polls are closed and ballots must be opened in batches, rather than individually;
+
+    b. The number of tabulated ballots must be reconciled with the number of ballots received;
+
+    c. Tabulated ballots must be stored separately from uncounted or challenged ballots as referenced in subsection (4) of this section;
+
+    d. Canvassing of ballots must be open to observation by the public;
+
+    e. Any election officials or district staff participating in the processing of ballots may not be a candidate on the ballot;
+
+    f. Once canvassing of ballots is completed, date and time of the verification of canvassing must be posted in either: (i) The district office, for at least two weeks; (ii) on the district website, for at least two weeks; or (iii) at least once a week for two weeks in one or more newspapers of general circulation within the irrigation district.
+
+4. [Empty]
+
+    a. Each district must establish a written challenge process in order to allow individuals to challenge the vote of an individual voter;
+
+    b. Written challenge procedures must be established for challenges made by both the public and district election officials or staff, including the time period during which challenges must be made;
+
+    c. Within seven days of the resolution of the challenge, the outcome of the challenge must be posted in either: (i) The district office, for at least two weeks; (ii) on the district website, for at least two weeks; or (iii) at least once a week for two weeks in one or more newspapers of general circulation within the irrigation district.
+
+5. Each district must establish a written cure procedure for curing errors that occurred during ballot canvassing or are discovered through valid voter challenges, including a clear timeline for when the cure will occur.
+
+6. Lists and reports of ballots, election outcomes, voter challenges and challenge outcomes, and curing of errors must be maintained by each district for six months after the date of the election and made available to the public.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [87.03](/rcw/87_irrigation/87.03_irrigation_districts_generally.md). Here is the [modified chapter](rcw/87_irrigation/87.03_irrigation_districts_generally.md) for context.
+
+1. Any person who willfully violates any of the provisions of section 10 (1) through (3) of this act is guilty of a gross misdemeanor punishable under RCW 9A.20.021.
+
+2. Any person who, without lawful authority, removes a ballot from a polling place or ballot drop location is guilty of a gross misdemeanor punishable under RCW 9A.20.021.
+
+3. A person is guilty of a gross misdemeanor punishable under RCW 9A.20.021 who knowingly:
+
+    a. Deceives any voter in recording his or her vote by providing incorrect or misleading recording information or by providing faulty election equipment or records; or
+
+    b. Records the vote of any voter in a manner other than as designated by the voter.
+

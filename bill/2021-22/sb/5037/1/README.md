@@ -2,9 +2,42 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5037.xml)
 ## Section 1
-(1) The legislature acknowledges that school districts and charter schools are faced with challenging decisions regarding how to operate their schools during COVID-19 and whether they should offer in-person learning, distance learning, or hybrid or rotating schedules. The legislature recognizes that full-time, distance learning presents many challenges and hardships to students and families.
-(2) The legislature finds that the best metric for determining prevalence of COVID-19 in a community is tied to the positivity standard within a county. This metric does not punish communities for testing more, as does a metric tied to cases per population. Further, the positivity metrics are linked to the world health organization metrics.
-(3) The legislature intends to establish clear school opening metrics based on the positivity standard within counties, so these decisions are transparent and uniform throughout the state of Washington.
+1. The legislature acknowledges that school districts and charter schools are faced with challenging decisions regarding how to operate their schools during COVID-19 and whether they should offer in-person learning, distance learning, or hybrid or rotating schedules. The legislature recognizes that full-time, distance learning presents many challenges and hardships to students and families.
+
+2. The legislature finds that the best metric for determining prevalence of COVID-19 in a community is tied to the positivity standard within a county. This metric does not punish communities for testing more, as does a metric tied to cases per population. Further, the positivity metrics are linked to the world health organization metrics.
+
+3. The legislature intends to establish clear school opening metrics based on the positivity standard within counties, so these decisions are transparent and uniform throughout the state of Washington.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.630](/rcw/28A_common_school_provisions/28A.630_temporary_provisions—special_projects.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.630_temporary_provisions—special_projects.md) for context.
+
+1. When the governor proclaims a state of emergency under chapter 43.06 RCW in response to COVID-19, school districts must use the metrics in this section to determine the education modality for the schools by county.
+
+    a. School districts in counties below a five percent positivity standard must offer in-person learning to all students. To move out of this category, counties must be above a five percent positivity standard for two weeks in a row.
+
+    b. School districts in counties above a five percent positivity standard may choose the education modality for their students. To move out of this category, counties must be below a five percent positivity standard for two weeks in a row.
+
+2. If a school district is located in more than one county, a school district must determine the average positivity standard of all the counties in which it is located to determine the education modality under subsection (1) of this section.
+
+3. If there is an outbreak of COVID-19 at a particular school, a school district and local health officer, in accordance with other state laws, must take all appropriate actions deemed necessary to control or eliminate the spread of COVID-19 within the affected school including:
+
+    a. Closing part or all of the affected school;
+
+    b. Canceling activities or functions at the affected school; and
+
+    c. Excluding from the affected school any students, staff, and volunteers who are infectious, or exposed and susceptible to the disease.
+
+4. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Education modality" means the type of setting to deliver education services including, but not limited to, in-person learning, distance learning, and hybrid or rotating schedules with in-person learning and distance learning.
+
+    b. "Outbreak" means the school meets the following criteria: (i) Two or more cases of laboratory positive COVID-19 among students or staff; (ii) the cases have symptom onsets within a fourteen-day period of each other; (iii) plausible epidemiological-linkage in the school; and (iv) no other known epidemiological-linkage outside of the school.
+
+    c. "Positivity standard" means the percent of individuals testing positive for COVID-19. It must be calculated by comparing the number of individuals testing positive over the past week to the total number of tests during that week.
+
+5. This section is a state health requirement under RCW 28A.710.040 and applies to charter schools established in accordance with chapter 28A.710 RCW.
+
 
 ## Section 3
 > This section modifies existing section [43.06.220](/rcw/43_state_government—executive/43.006_governor.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006_governor.md) for context.
@@ -155,5 +188,7 @@ The local health officer, acting under the direction of the local board of healt
 
 
 ## Section 8
-(1) This act expires upon the termination of the state of emergency under proclamation 20-05 and any subsequent state of emergency issued pertaining to COVID-19 in accordance with RCW 43.06.210.
-(2) The governor shall provide written notice of the termination date of the state of emergency under proclamation 20-05 and any subsequent state of emergency issued pertaining to COVID-19 to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the governor.
+1. This act expires upon the termination of the state of emergency under proclamation 20-05 and any subsequent state of emergency issued pertaining to COVID-19 in accordance with RCW 43.06.210.
+
+2. The governor shall provide written notice of the termination date of the state of emergency under proclamation 20-05 and any subsequent state of emergency issued pertaining to COVID-19 to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the governor.
+

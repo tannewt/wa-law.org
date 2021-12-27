@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that school construction procurement processes must comply with the requirements of public works laws specified in chapter 39.04 RCW. Competitive bidding requirements under chapter 39.04 RCW apply to construction contracts by registered contractors. Procurement requirements in RCW 28A.335.190 for public works by school districts are not well defined and may be interpreted as being inconsistent with the requirements of chapter 39.04 RCW and with the authority to contract for personal services under RCW 28A.320.035. The purpose of this act is to make retroactive, remedial, curative, and technical amendments to clarify the intent of RCW 28A.335.190.
 
+
 ## Section 2
 > This section modifies existing section [28A.335.190](/rcw/28A_common_school_provisions/28A.335_school_districts_property.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.335_school_districts_property.md) for context.
 

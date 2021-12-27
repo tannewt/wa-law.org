@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that affordable housing is reaching crisis levels in rural areas. Rural counties appear to be at a disadvantage to be competitive for public housing tax money. The legislature finds that in order to appropriately address such issues, it is important that rural communities be provided with the appropriate levels of technical assistance in order to maximize the number of and financing available for affordable housing projects in such rural areas.
 
+
 ## Section 2
 > This section modifies existing section [43.185.080](/rcw/43_state_government—executive/43.185_housing_assistance_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185_housing_assistance_program.md) for context.
 

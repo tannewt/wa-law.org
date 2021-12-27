@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the state of Washington will continue to be negatively impacted by the effects of climate change, including reduced winter snowpack, drought, increased frequencies of forest fires, and acidifying oceans that disrupt marine ecosystem viability. In the nearshore environment, climate change contributes to the rise in average sea-surface temperatures and rising sea levels. Hardened shoreline structures are not always well-suited for their intended purpose and may have unintended consequences in the nearshore environment. Soft shorelines or natural shorelines may protect and restore shoreline ecosystems through the use of natural plants and materials, and the legislature finds that landowners must consider alternatives to hardening shorelines to restore ecosystem function and recover threatened and endangered species to help address the impacts of climate change in the nearshore environment.
 
+
 ## Section 2
 > This section modifies existing section [77.55.231](/rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md) for context.
 

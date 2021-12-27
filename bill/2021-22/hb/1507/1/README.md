@@ -43,6 +43,20 @@
 2. **For purposes of designating the prosecuting authority where an information or indictment has been filed by the office of the attorney general pursuant to RCW 43.10.232(2), the court shall prioritize the public's interest in ensuring a fair and impartial prosecution and trial that is free from even the appearance of bias, prejudice, or conflict of interest.**
 
 
+## Section 3
+> This section adds a new section to an existing chapter [43.10](/rcw/43_state_government—executive/43.010_attorney_general.md). Here is the [modified chapter](rcw/43_state_government—executive/43.010_attorney_general.md) for context.
+
+1. There is established within the office of the attorney general an independent prosecutions unit which shall be headed by the independent prosecutor appointed by the attorney general.
+
+2. The independent prosecutions unit has the authority and jurisdiction as provided under RCW 43.10.232 to investigate and prosecute any alleged criminal offense committed by a police officer involving the use of deadly force, as defined in RCW 9A.16.010.
+
+3. The independent prosecutor may employ and train personnel to achieve the purposes of this section, including attorneys, investigators, support personnel, and other personnel as the independent prosecutor determines necessary.
+
+4. If the independent prosecutor determines that a criminal charge is not warranted in a case, the independent prosecutor shall issue a public report, and post the report on its website, that includes the results of the investigation and an explanation of the reasons for the decision.
+
+5. The jurisdiction of the independent prosecutions unit applies to any criminal offense involving the use of deadly force by a police officer committed on or after July 1, 2022.
+
+
 ## Section 4
 > This section modifies existing section [36.27.030](/rcw/36_counties/36.027_prosecuting_attorney.md). Here is the [modified chapter](rcw/36_counties/36.027_prosecuting_attorney.md) for context.
 
@@ -91,8 +105,16 @@
 4. The provisions of RCW 41.56.030(12) shall not be interpreted to permit a prosecuting attorney to alter the at-will relationship established between the prosecuting attorney and his or her appointed deputies by this section for a period of time exceeding his or her term of office. Neither shall the provisions of RCW 41.56.030(12) require a prosecuting attorney to alter the at-will relationship established by this section.
 
 
+## Section 6
+> This section adds a new section to an existing chapter [36.27](/rcw/36_counties/36.027_prosecuting_attorney.md). Here is the [modified chapter](rcw/36_counties/36.027_prosecuting_attorney.md) for context.
+
+If the prosecuting attorney or conflict-free special deputy prosecuting attorney appointed pursuant to RCW 36.27.040 makes a determination not to file criminal charges in the case, the prosecuting attorney or conflict-free special deputy prosecuting attorney must refer the case and all investigative materials concerning the case to the independent prosecutions unit of the office of the attorney general within 30 days of the decision to not file criminal charges. For the purposes of this section, "deadly force" has the meaning provided in RCW 9A.16.010.
+
+
 ## Section 7
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 8
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

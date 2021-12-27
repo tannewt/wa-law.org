@@ -1,6 +1,14 @@
 # Senate Bill 5442
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5442.xml)
+## Section 1
+> This section adds a new section to an existing chapter [28A.330](/rcw/28A_common_school_provisions/28A.330_provisions_applicable_to_school_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.330_provisions_applicable_to_school_districts.md) for context.
+
+1. In fixing the salary of a superintendent of schools of a district under RCW 28A.330.100(1), a school district board of directors may not allocate state funds apportioned under RCW 28A.150.260 for any portion of a superintendent's salary above the annual salary amount provided for the governor under RCW 43.03.011.
+
+2. The limitations created in this section only apply to contracts entered into or renewed after the effective date of this section.
+
+
 ## Section 2
 > This section modifies existing section [28A.330.100](/rcw/28A_common_school_provisions/28A.330_provisions_applicable_to_school_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.330_provisions_applicable_to_school_districts.md) for context.
 

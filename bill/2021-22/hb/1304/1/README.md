@@ -174,3 +174,43 @@ If any of the revenue from any tax or fee authorized to be levied by an authorit
 
 Each authority shall incorporate in plans for stations along any **grade-separated** project signing that is easily understood by the traveling public, including, but not limited to, persons with disabilities, non-English-speaking persons, and visitors from other nations. The signage must employ graphics consistent with international symbols for transportation facilities and signage that are consistent with department of transportation guidelines and programs. The signage must also use distinguishing pictograms as a means to identify stations and points of interest along the **grade-separated** corridor for persons who use languages that are not Roman-alphabet based. These requirements are intended to apply to new sign installation and not to existing signs. The authority may replace existing signs as it chooses; however, it shall use the new signing designs when existing signs are replaced. All signage must comply with requirements of applicable federal law and may include recommendations contained in federal publications providing directions on way-finding for persons with disabilities.
 
+
+## Section 11
+> This section adds a new section to an existing chapter [35.95A](/rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md) for context.
+
+1. An authority that imposes a special excise tax under RCW 35.95A.080 or a vehicle license fee under RCW 35.95A.090, may establish a rebate program for the purposes of providing rebates of up to 40 percent of the actual tax or fee paid by a low-income individual.
+
+2. Funds collected from a special excise tax under RCW 35.95A.080 or a vehicle license fee under RCW 35.95A.090 may be used for a rebate program established under this section.
+
+3. An authority that establishes a rebate program is responsible for the development and administration of the program and all functions and costs associated with the rebate program.
+
+4. An authority that establishes a rebate program under this section must report back to the legislature two years after the program takes effect. The report must include, but is not limited to, a detailed description of the structure of the program, the average rebate, the total amount of rebates issued, and the number of people that received rebates.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [35.95A](/rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md) for context.
+
+1. An authority shall create a system plan to implement an equitable transit-oriented development strategy for diverse, vibrant, mixed-use, and mixed-income communities consistent with transit-oriented development plans developed with community input by any regional transportation planning organization or regional transit authority within or encompassing the authority area. This system plan must include the following:
+
+    a. A requirement that when an authority disposes or transfers any surplus property, a minimum of 80 percent of the surplus property to be disposed or transferred, including air rights, that is suitable for development as housing, must be offered for either transfer at no cost, sale, or long-term lease first to qualified entities that agree to develop affordable housing on the property, consistent with local land use and zoning laws:
+
+        i. If a qualified entity receives surplus property from an authority after being offered the property as provided in (a) of this subsection, the authority must require a minimum of 80 percent of the housing units constructed on property obtained under this subsection to be dedicated to affordable housing.
+
+        ii. If a qualified entity sells property or development rights obtained through this subsection, it must use the proceeds from the sale to construct only affordable housing units within one-half miles of the location of the original property;
+
+    b. A requirement that the authority must work in good faith to implement all requirements of this section, but is not required to comply with a requirement imposed by (a)(i) or (ii) of this subsection if the requirement is in conflict, as determined by the relevant federal agency, with provisions of the applicable federal transit administration master grant agreement, federal transit administration full funding grant agreement with the city transportation authority, or the equivalent federal railroad administration agreement necessary to establish or maintain eligibility for a federal grant program;
+
+    c. A requirement that (a) of this subsection does not apply to property to be transferred to governments or third parties in order to facilitate permitting, construction, or mitigation of high capacity transportation facilities and services.
+
+2. A city transportation authority implementing subsection (1)(a) of this section must, at the end of each fiscal quarter, send a report to the appropriate committees of the legislature and post a report on its website detailing the following activities:
+
+    a. Any transfers of property that have occurred in the previous fiscal quarter pursuant to subsection (1)(a) of this section; and
+
+    b. Any progress in implementing any regional equitable transit-oriented development strategy for diverse, vibrant, mixed-use, and mixed-income communities approved by the voters pursuant to this section.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [35.95A](/rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md) for context.
+
+As a condition of receiving state funding, a city transportation authority shall submit a maintenance and preservation management plan for certification by the state department of transportation. The plan must inventory all transportation system assets within the direction and control of the city transportation authority, and provide a plan for preservation of assets based on lowest life-cycle cost methodologies.
+

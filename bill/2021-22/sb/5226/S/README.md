@@ -61,6 +61,34 @@ A statement that failure to appear at a hearing requested for the purpose of con
 the court shall enter an appropriate order assessing the monetary penalty prescribed for the traffic infraction and any other penalty authorized by this chapter and shall notify the department in accordance with RCW 46.20.270, of the failure to respond to the notice of infraction or to appear at a requested hearing.
 
 
+## Section 4
+> This section adds a new section to an existing chapter [46.63](/rcw/46_motor_vehicles/46.63_disposition_of_traffic_infractions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.63_disposition_of_traffic_infractions.md) for context.
+
+1. [Empty]
+
+    a. A person may request a payment plan at any time for the payment of any monetary penalty, fee, cost, assessment, or other monetary obligation associated with a traffic infraction. If the person does not have the ability to pay the monetary obligation in full, the court shall enter into a payment plan with the individual.
+
+    b. If a court authorized community restitution program for offenders is available in the jurisdiction, the court may allow conversion of all or part of the monetary obligations due under this section to court authorized community restitution in lieu of time payments if the person is unable to make reasonable time payments.
+
+2. The person may voluntarily pay an amount at any time in addition to the payments required under the payment plan.
+
+3. If a payment required to be made under the payment plan is delinquent or the person fails to complete a community restitution program on or before the time established under the payment plan, unless the court determines good cause therefor and adjusts the payment plan or the community restitution plan accordingly, the court may refer the unpaid monetary penalty, fee, cost, assessment, or other monetary obligation for civil enforcement until all monetary obligations have been paid and court authorized community restitution has been completed, or until the court has entered into a new payment plan or community restitution agreement with the person.
+
+4. [Empty]
+
+    a. If a person has not entered into a payment plan with the court and has not paid the monetary obligation in full, no sooner than 120 days from the date of the infraction the court may refer the unpaid monetary penalty, fee, cost, assessment, or other monetary obligation to a collections agency until all monetary obligations have been paid or until the person has entered into a payment plan under this section.
+
+    b. If a person responded to a traffic infraction for a moving violation attesting that the person did not have the ability to pay the infraction in full, the court must attempt to enter into a payment plan with the person prior to referring the monetary obligation to a collections agency.
+
+5. If the payment plan is to be administered by the court, the court may assess the person a reasonable administrative fee to be wholly retained by the city or county with jurisdiction. The administrative fee shall not exceed $10 per infraction or $25 per payment plan, whichever is less.
+
+6. Nothing in this section precludes a court from contracting with outside entities to administer its payment plan system. When outside entities are used for the administration of a payment plan, the court may assess the person a reasonable fee for such administrative services, which fee may be calculated on a periodic, percentage, or other basis.
+
+7. The court may modify a payment plan at any time.
+
+8. For the purposes of this section, "payment plan" means a plan that requires reasonable payments based on the financial ability of the person to pay as determined by court rule.
+
+
 ## Section 5
 > This section modifies existing section [46.20.289](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
 
@@ -93,6 +121,18 @@ The department is authorized to suspend the license of a driver upon a showing b
 7. Has committed one of the prohibited practices relating to drivers' licenses defined in RCW 46.20.0921; or
 
 8. Has been certified by the department of social and health services as a person who is not in compliance with a child support order or a residential or visitation order as provided in RCW 74.20A.320.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [46.20](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
+
+1. Whenever the official records of the department show that a person has committed a traffic infraction for a moving violation on three or more occasions within a one-year period, or on four or more occasions within a two-year period, the department must suspend the license of the driver for a period of 60 days and establish a period of probation for one calendar year to begin when the suspension ends. Prior to reinstatement of a license, the person must complete a safe driving course as recommended by the department. During the period of probation, the person must not be convicted of any additional traffic infractions for moving violations. Any traffic infraction for a moving violation committed during the period of probation shall result in an additional 30-day suspension to run consecutively with any suspension already being served.
+
+2. When a person has committed a traffic infraction for a moving violation on two occasions within a one-year period or three occasions within a two-year period, the department shall send the person a notice that an additional infraction will result in suspension of the person's license for a period of 60 days.
+
+3. The department may not charge a reissue fee at the end of the term of suspension under this section.
+
+4. For purposes of this section, multiple traffic infractions committed within a six-hour period constitutes one occasion.
 
 
 ## Section 8
@@ -257,10 +297,46 @@ The department is authorized to suspend the license of a driver upon a showing b
 5. The director shall cancel an occupational or temporary restricted driver's license after receiving notice that the holder thereof has been convicted of operating a motor vehicle in violation of its restrictions, no longer meets the eligibility requirements, or has been convicted of or found to have committed a separate offense or any other act or omission that under this chapter would warrant suspension or revocation of a regular driver's license. The department must give notice of the cancellation as provided under RCW 46.20.245. A person whose occupational or temporary restricted driver's license has been canceled under this section may reapply for a new occupational or temporary restricted driver's license if he or she is otherwise qualified under this section and pays the fee required under RCW 46.20.380.
 
 
+## Section 11
+> This section adds a new section to an existing chapter [46.20](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
+
+1. The department is authorized to administratively reinstate the license of a person suspended pursuant to RCW 46.20.289(1) prior to the effective date of this section because the person:
+
+    a. Failed to respond to a notice of traffic infraction for a moving violation;
+
+    b. Failed to appear at a requested hearing for a moving violation;
+
+    c. Violated a written promise to appear in court for a notice of infraction for a moving violation; or
+
+    d. Failed to comply with the terms of a notice of traffic infraction.
+
+2. No later than 90 days after the effective date of this section, the department shall:
+
+    a. Take reasonable steps to publicize and notify persons who may be eligible for reinstatement of his or her license pursuant to this section; and
+
+    b. Create an online application process for persons whose licenses are suspended and may be eligible for reinstatement as provided in this section. The online application process shall allow a person to determine whether the person is eligible to have his or her license reinstated and explain the process for reinstatement. A reissue fee as provided in RCW 46.20.311 shall apply.
+
+3. A reissue fee as provided in RCW 46.20.311 shall apply to any license reinstated under this section.
+
+
 ## Section 12
 > This section modifies existing section [46.64.025](/rcw/46_motor_vehicles/46.64_enforcement.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.64_enforcement.md) for context.
 
 Whenever any person  fails to comply with the terms of a  criminal complaint **or criminal citation for a moving violation**, the court with jurisdiction over the  criminal complaint **or criminal citation** shall promptly give notice of such fact to the department of licensing. Whenever thereafter the case in which the defendant failed to appear or comply is adjudicated, the court hearing the case shall promptly file with the department a certificate showing that the case has been adjudicated.
 
 For the purposes of this section, "moving violation" is defined by rule pursuant to RCW 46.20.2891.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [46.20](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
+
+1. An additional $1 fee shall be imposed on each application for an original or renewal of a regular driver's license, regular identicard, enhanced driver's license, or enhanced identicard. The entire amount of the fee shall be used to pay for processing costs for driver's license issuance and reinstatements, and information technology upgrades and the ongoing costs to maintain the driver's license and identicard record and issuance system.
+
+2. The department shall forward all funds accruing under this section to the state treasurer who shall deposit the moneys to the credit of the highway safety fund.
+
+
+## Section 15
+> This section adds a new section to an existing chapter [46.68](/rcw/46_motor_vehicles/46.68_disposition_of_revenue.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.68_disposition_of_revenue.md) for context.
+
+The driver licensing technology support account is created as a subaccount in the highway safety fund under RCW 46.68.060. Moneys in the subaccount may be spent only after appropriation. Expenditures from the subaccount may be used only for supporting information technology systems used by the department to communicate with the judicial information system, manage driving records, and implement court orders.
 

@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to retain and grow family wage jobs in rural, economically distressed areas; to promote healthy forests; and to utilize Washington's abundant natural resources to promote diversified renewable energy use in the state.
 
+
 ## Section 2
 > This section modifies existing section [82.08.956](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
 
@@ -43,9 +44,15 @@ It is the intent of the legislature to retain and grow family wage jobs in rural
 
 
 ## Section 5
-(1) This section is the tax preference performance statement for the tax preferences contained in sections 2 and 3, chapter . . ., Laws of 2021 (sections 2 and 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
-(3) It is the legislature's specific public policy objective to extend the expiration date of these tax preferences in order to increase the ability of beneficiary facilities to provide at least 75 percent of their employees with medical and dental insurance and a retirement plan.
-(4) In order to obtain the data necessary to measure the effectiveness of these tax preferences in achieving the public policy objective described in subsection (3) of this section, the joint legislative audit and review committee may refer to:
-(a) The annual survey that a taxpayer is required to file with the department of revenue per RCW 82.32.605; and
-(b) Employment data available from the employment security department.
+1. This section is the tax preference performance statement for the tax preferences contained in sections 2 and 3, chapter . . ., Laws of 2021 (sections 2 and 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
+
+3. It is the legislature's specific public policy objective to extend the expiration date of these tax preferences in order to increase the ability of beneficiary facilities to provide at least 75 percent of their employees with medical and dental insurance and a retirement plan.
+
+4. In order to obtain the data necessary to measure the effectiveness of these tax preferences in achieving the public policy objective described in subsection (3) of this section, the joint legislative audit and review committee may refer to:
+
+    a. The annual survey that a taxpayer is required to file with the department of revenue per RCW 82.32.605; and
+
+    b. Employment data available from the employment security department.
+

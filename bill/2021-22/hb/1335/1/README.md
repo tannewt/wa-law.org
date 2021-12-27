@@ -1,6 +1,12 @@
 # House Bill 1335
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1335.xml)
+## Section 1
+> This section adds a new section to an existing chapter [49.60](/rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md). Here is the [modified chapter](rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md) for context.
+
+Prior to the date by which a city or county is required to update its growth management comprehensive plan under RCW 36.70A.130, cities and counties shall work cooperatively to review existing recorded covenants and deed restrictions to identify those recorded documents that include racial or other restrictions on property ownership or use against protected classes that are unlawful under RCW 49.60.224. After identifying such recorded documents, cities and counties shall provide notice to the current owner of the real property with information on how the property owner may record a document under RCW 49.60.227 striking from the referenced original instrument all provisions that are void and unenforceable under law. Costs shall be apportioned among the county and cities within each county based on population.
+
+
 ## Section 2
 > This section modifies existing section [82.46.010](/rcw/82_excise_taxes/82.46_counties_and_cities—excise_tax_on_real_estate_sales.md). Here is the [modified chapter](rcw/82_excise_taxes/82.46_counties_and_cities—excise_tax_on_real_estate_sales.md) for context.
 

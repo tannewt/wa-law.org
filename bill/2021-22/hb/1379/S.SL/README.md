@@ -1,6 +1,40 @@
 # Substitute House Bill 1379 - Session Law Chapter 131 Year 2021 as Recommended by Transportation
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1379-S.SL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [47.68](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
+
+1. Within amounts collected from commercial unpiloted aircraft registration fees pursuant to RCW 47.68.250(1), the aviation division director (also known as the senior state aviation official) or the aviation division director's designee shall act as the unpiloted aircraft system coordinator. The unpiloted aircraft system coordinator serves primarily in an advisory role and is not authorized to direct unpiloted aircraft system operations, training, or policy outside the department. The duties of the unpiloted aircraft system coordinator include:
+
+    a. Assisting with unpiloted aircraft system training and continuing education for state agencies;
+
+    b. Coordinating with local governments on state and federal unpiloted aircraft system policies and regulations;
+
+    c. Acting as a state level coordinator for unpiloted aircraft system operations during a governor declaration of emergency pursuant to RCW 43.06.210;
+
+    d. Coordinating with the federal aviation administration and state agencies on unpiloted aircraft system trends;
+
+    e. Identifying and disseminating information on unpiloted aircraft system training sites;
+
+    f. Establishing and maintaining an unpiloted aircraft system coordination website for state and local governments;
+
+    g. Assisting with the advancement of unpiloted aircraft systems across the state in coordination with the department of commerce, the aerospace industry, and the commercial unmanned aircraft systems industry;
+
+    h. Acting as the principal advisor to the secretary on unpiloted aircraft system matters;
+
+    i. Undertaking other unpiloted aircraft system coordination duties that are deemed appropriate by the aviation division director and the unpiloted aircraft system coordinator including, but not limited to, overseeing unpiloted aircraft system symposiums or other events for state agencies and other stakeholder groups.
+
+2. The department may adopt rules to implement this section.
+
+3. By December 1, 2022, the department shall provide a report to the transportation committees of the legislature and the department of commerce that provides details on the specific activities, accomplishments, and opportunities undertaken by the unpiloted aircraft system coordinator as to each of the duties provided in this section. The report must also be shared with interested aviation and aerospace industry stakeholders. The report shall include:
+
+    a. Information on the specific activities, accomplishments, and opportunities taken by the aviation division director or the director's designee in their role as the unpiloted aircraft system coordinator;
+
+    b. A statement on the justification and need for the aviation division director or the director's designee to continue to perform the specific activities of the unpiloted aircraft system coordinator; and
+
+    c. Recommendations on any changes to the scope of the work and duties of the unpiloted aircraft system coordinator. This shall include recommendations on the reassignment of duties of the unpiloted aircraft system coordinator to the department's aviation division and recommendations on the termination of the unpiloted aircraft system coordinator position.
+
+
 ## Section 2
 > This section modifies existing section [47.68.250](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
 

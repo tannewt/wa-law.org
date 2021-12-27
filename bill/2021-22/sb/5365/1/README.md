@@ -3,138 +3,267 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5365.xml)
 ## Section 1
 The legislature finds that the board exists to promote safe communities and public safety. However, there is no agency to promote the growth and development of the cannabis industry within the state. The legislature therefore declares:
-(1) The Washington state cannabis commission is established to benefit the people of the state of Washington and its economy;
-(2) The production of cannabis in the state is a new and important segment of Washington industry, that has potential for greater contribution to the economy of the state if it undergoes safe and healthy development;
-(3) The general welfare of the people of the state will be served by the development of the safe growing and processing activities of cannabis. The industry is therefore affected with the public interest;
-(4) Creation of a Washington state cannabis commission for the public purpose of administering the revenue of the commission for the enhancement of the safe production of cannabis will materially advance the industries of growing and processing cannabis and thereby the interests of the citizens of the state; and
-(5) The commerce of cannabis grown, produced, and processed in the state will contribute substantial benefits to the economy of the state, provide a large number of jobs, sizeable tax revenues, and have an important stabilizing effect on prices received by cannabis producers. The sale and distribution are therefore affected with the public interest.
+
+1. The Washington state cannabis commission is established to benefit the people of the state of Washington and its economy;
+
+2. The production of cannabis in the state is a new and important segment of Washington industry, that has potential for greater contribution to the economy of the state if it undergoes safe and healthy development;
+
+3. The general welfare of the people of the state will be served by the development of the safe growing and processing activities of cannabis. The industry is therefore affected with the public interest;
+
+4. Creation of a Washington state cannabis commission for the public purpose of administering the revenue of the commission for the enhancement of the safe production of cannabis will materially advance the industries of growing and processing cannabis and thereby the interests of the citizens of the state; and
+
+5. The commerce of cannabis grown, produced, and processed in the state will contribute substantial benefits to the economy of the state, provide a large number of jobs, sizeable tax revenues, and have an important stabilizing effect on prices received by cannabis producers. The sale and distribution are therefore affected with the public interest.
+
 
 ## Section 2
 To develop and promote cannabis and cannabis products as part of an existing comprehensive scheme to regulate those products, the legislature declares that:
-(1) Cannabis producers operate within a regulatory environment that imposes burdens on them for the benefit of society and the citizens of the state, including restrictions on marketing autonomy;
-(2) It is in the overriding public interest that support of the legal cannabis industry be clearly expressed and that cannabis and cannabis products be promoted individually, and as part of a comprehensive industry to:
-(a) Protect the public by educating the public in reference to the quality, care, and methods used in the production of cannabis and cannabis products;
-(b) Increase the knowledge and qualities and value of Washington's cannabis and cannabis products; and
-(c) Support and engage in programs or activities that benefit the safe production, handling, processing, marketing, and uses of cannabis and cannabis products; and
-(3) The production and marketing of cannabis is a highly regulated industry and this chapter and the rules adopted under it are only one aspect of the regulated industry. Other laws applicable to the cannabis industry include:
-(a) Chapter 15.130 RCW, the food safety and security act;
-(b) Chapter 15.125 RCW, marijuana and marijuana products;
-(c) Title 66 RCW, alcoholic beverage control;
-(d) Title 69 RCW, food, drugs, cosmetics, and poisons; and
-(e) Chapter 82.08 RCW, retail sales tax.
+
+1. Cannabis producers operate within a regulatory environment that imposes burdens on them for the benefit of society and the citizens of the state, including restrictions on marketing autonomy;
+
+2. It is in the overriding public interest that support of the legal cannabis industry be clearly expressed and that cannabis and cannabis products be promoted individually, and as part of a comprehensive industry to:
+
+    a. Protect the public by educating the public in reference to the quality, care, and methods used in the production of cannabis and cannabis products;
+
+    b. Increase the knowledge and qualities and value of Washington's cannabis and cannabis products; and
+
+    c. Support and engage in programs or activities that benefit the safe production, handling, processing, marketing, and uses of cannabis and cannabis products; and
+
+3. The production and marketing of cannabis is a highly regulated industry and this chapter and the rules adopted under it are only one aspect of the regulated industry. Other laws applicable to the cannabis industry include:
+
+    a. Chapter 15.130 RCW, the food safety and security act;
+
+    b. Chapter 15.125 RCW, marijuana and marijuana products;
+
+    c. Title 66 RCW, alcoholic beverage control;
+
+    d. Title 69 RCW, food, drugs, cosmetics, and poisons; and
+
+    e. Chapter 82.08 RCW, retail sales tax.
+
 
 ## Section 3
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Board" means the liquor and cannabis board.
-(2) "Cannabis" has the meaning provided for the term "marijuana" in RCW 69.50.101.
-(3) "Commission" means the Washington state cannabis commission established by this chapter.
-(4) "Cooperative" means a group of more than one, but no more than four qualified medical marijuana patients or designated providers who share responsibility for growing and processing marijuana only for the medical use of the members of the cooperative as provided in RCW 69.51A.250.
-(5) "Director" means the director of the board or the director's designee.
-(6) "District" means each of the geographical divisions of the state of Washington established under section 6 of this act.
-(7) "Fiscal year" means the twelve-month period beginning July 1st of any year and ending June 30th.
-(8) "Interested parties" means governmental departments, agencies, and bodies at the federal, state, or local levels, as well as universities, national and international associations, and other public and private sector organizations with an interest in cannabis-related matters.
-(9) "Processor" means any person or legal entity holding in its name a marijuana processor license issued by the board.
-(10) "Producer" means any person or legal entity holding in its name a marijuana producer license issued by the board, regardless of whether the same holder has been issued a processor license by the board.
-(11) "Retailer" means any person or legal entity holding a marijuana retail license issued by the board.
-(12) "Testing laboratory" means any laboratory accredited to conduct cannabis-related analysis.
-(13) "Tier" means any of the production licensing categories established by rule of the board.
+
+1. "Board" means the liquor and cannabis board.
+
+2. "Cannabis" has the meaning provided for the term "marijuana" in RCW 69.50.101.
+
+3. "Commission" means the Washington state cannabis commission established by this chapter.
+
+4. "Cooperative" means a group of more than one, but no more than four qualified medical marijuana patients or designated providers who share responsibility for growing and processing marijuana only for the medical use of the members of the cooperative as provided in RCW 69.51A.250.
+
+5. "Director" means the director of the board or the director's designee.
+
+6. "District" means each of the geographical divisions of the state of Washington established under section 6 of this act.
+
+7. "Fiscal year" means the twelve-month period beginning July 1st of any year and ending June 30th.
+
+8. "Interested parties" means governmental departments, agencies, and bodies at the federal, state, or local levels, as well as universities, national and international associations, and other public and private sector organizations with an interest in cannabis-related matters.
+
+9. "Processor" means any person or legal entity holding in its name a marijuana processor license issued by the board.
+
+10. "Producer" means any person or legal entity holding in its name a marijuana producer license issued by the board, regardless of whether the same holder has been issued a processor license by the board.
+
+11. "Retailer" means any person or legal entity holding a marijuana retail license issued by the board.
+
+12. "Testing laboratory" means any laboratory accredited to conduct cannabis-related analysis.
+
+13. "Tier" means any of the production licensing categories established by rule of the board.
+
 
 ## Section 4
 The Washington state cannabis commission is established to:
-(1) Establish plans and conduct programs for cannabis-related matters;
-(2) Provide for conducting research as provided in commission rules;
-(3) Cooperate with and act in an advisory capacity to local, state, and federal agencies or other interested parties with respect to cannabis-related matters within the scope of the powers and purposes of the commission and as described in commission rules;
-(4) Cooperate with other interested parties toward standardizing methods by which to identify and determine the genetics, strains, cultivars, phenotypes, standards, and grades of cannabis and advise on packaging and labeling requirements with respect to the same;
-(5) Conduct reviews, surveys, and inquiries regarding market metrics and analytics, including trends, revenues, profitability, projections, production, business practices, and other economic drivers of the industry;
-(6) Inform and advise producers in all matters regarding cannabis including, but not limited to, educational information on its cultivation, usage, risks, and related technical and scientific developments;
-(7) Provide cannabis-related education and training to producers, processors, researchers, and their employees, including health and safety information;
-(8) Provide information and services for meeting resource conservation objectives of producers;
-(9) Assist and cooperate with local, state, or federal government agencies in the investigation and control of pests, diseases, and other factors that could adversely affect the cultivation, quality, or safety of Washington-produced cannabis;
-(10) Advance knowledge and practice of the production of cannabis in this state through the research and testing of methods to improve pest management, worker protection and safety training, energy efficiency, and environmental protection;
-(11) Foster economic conditions favorable to investment in the production of Washington cannabis consistent with state and federal laws;
-(12) Limit youth access and youth exposure to cannabis;
-(13) Encourage favorable legislative and regulatory treatment of Washington cannabis; and
-(14) Enable cannabis producers of this state, with the aid of the state to:
-(a) Develop and engage in research including, but not limited to, discovering better and more efficient production, irrigation, odor mitigation, processing, transportation, handling, packaging, and utilization of cannabis commodities;
-(b) Provide for uniform grading and proper preparation of cannabis commodities for market;
-(c) Protect the interest of consumers and the state by advising on the overall production of cannabis to assure a balanced, sufficient, and wholesome supply of cannabis commodities of good quality at all seasons and times;
-(d) Discover and develop new and improved cultivars for the reliable and economical production of cannabis in the state; and
-(e) Advance knowledge and the practices of processing cannabis in the state.
+
+1. Establish plans and conduct programs for cannabis-related matters;
+
+2. Provide for conducting research as provided in commission rules;
+
+3. Cooperate with and act in an advisory capacity to local, state, and federal agencies or other interested parties with respect to cannabis-related matters within the scope of the powers and purposes of the commission and as described in commission rules;
+
+4. Cooperate with other interested parties toward standardizing methods by which to identify and determine the genetics, strains, cultivars, phenotypes, standards, and grades of cannabis and advise on packaging and labeling requirements with respect to the same;
+
+5. Conduct reviews, surveys, and inquiries regarding market metrics and analytics, including trends, revenues, profitability, projections, production, business practices, and other economic drivers of the industry;
+
+6. Inform and advise producers in all matters regarding cannabis including, but not limited to, educational information on its cultivation, usage, risks, and related technical and scientific developments;
+
+7. Provide cannabis-related education and training to producers, processors, researchers, and their employees, including health and safety information;
+
+8. Provide information and services for meeting resource conservation objectives of producers;
+
+9. Assist and cooperate with local, state, or federal government agencies in the investigation and control of pests, diseases, and other factors that could adversely affect the cultivation, quality, or safety of Washington-produced cannabis;
+
+10. Advance knowledge and practice of the production of cannabis in this state through the research and testing of methods to improve pest management, worker protection and safety training, energy efficiency, and environmental protection;
+
+11. Foster economic conditions favorable to investment in the production of Washington cannabis consistent with state and federal laws;
+
+12. Limit youth access and youth exposure to cannabis;
+
+13. Encourage favorable legislative and regulatory treatment of Washington cannabis; and
+
+14. Enable cannabis producers of this state, with the aid of the state to:
+
+    a. Develop and engage in research including, but not limited to, discovering better and more efficient production, irrigation, odor mitigation, processing, transportation, handling, packaging, and utilization of cannabis commodities;
+
+    b. Provide for uniform grading and proper preparation of cannabis commodities for market;
+
+    c. Protect the interest of consumers and the state by advising on the overall production of cannabis to assure a balanced, sufficient, and wholesome supply of cannabis commodities of good quality at all seasons and times;
+
+    d. Discover and develop new and improved cultivars for the reliable and economical production of cannabis in the state; and
+
+    e. Advance knowledge and the practices of processing cannabis in the state.
+
 
 ## Section 5
 The commission may:
-(1) Elect a chair and other officers by a majority vote of the commission or as contained in bylaws adopted by the commission;
-(2) Adopt, rescind, and amend bylaws and other internal rules of governance necessary for the administration and operation of the commission and for carrying out its duties under this chapter;
-(3) Administer, enforce, direct, and control the provisions of this chapter;
-(4) Employ and discharge at its discretion such administrators, staff, professional consultants and service providers, and other persons and firms that it may deem appropriate;
-(5) Designate a public records officer, rules coordinator, and other representatives required by the laws governing state agencies and commissions;
-(6) Comply with all other laws applicable to state agencies and commissions;
-(7) Acquire personal property and purchase or lease office space and other necessary real property and transfer and convey the same;
-(8) Institute and maintain in its own name any and all legal actions, including actions by injunction, mandatory injunction, or civil recovery, or proceedings before administrative tribunals or other governmental authorities necessary to carry out this chapter;
-(9) Keep accurate records of all its receipts and disbursements, which records must be open to inspection and audit by the state auditor or private auditor designated by the state auditor at least every five years and at any time by a duly appointed internal auditor upon a majority vote of the commission;
-(10) Make necessary disbursements for routine operating expenses;
-(11) Expend funds for all activities, projects, and undertakings of the commission permitted under this chapter, including but not limited to cannabis-related education and training programs for producers, processors, researchers, or their employees;
-(12) Cooperate with other interested parties for the purposes of this chapter;
-(13) Serve as liaison with the board and all other interested parties on behalf of the commission and not for any individual producer or processor;
-(14) Enter into contracts or cooperative agreements for research as provided in this chapter;
-(15) Enter into contracts or interagency agreements with any other interested parties to carry out this chapter in accordance with applicable provisions of Title 39 RCW;
-(16) Solicit, accept, and expend or retain any gifts, bequests, contributions, or grants from private persons or public agencies to carry out this chapter;
-(17) Retain in emergent situations the services of private legal counsel to conduct legal actions on behalf of the commission, provided that the retention of a private attorney is subject to the appointment or approval by the office of the state attorney general;
-(18) Engage in appropriate activities and events for the purpose of supporting activities of the commission authorized by this chapter;
-(19) Participate in international, federal, state, and local hearings, meetings, and other proceedings in all matters relating to cannabis, including without limitation the production, irrigation, manufacture, regulation, transportation, distribution, sale, or use of cannabis including activities authorized under RCW 42.17A.635, and the reporting of those activities to the public disclosure commission;
-(20) Obtain from the board a list of the names and addresses of producers, processors, and retailers, and such other available data from the state as requested by the commission to be used to disseminate information among and solicit the opinions of producers with respect to the discharge of the duties of the commission, directly, or by arrangement with trade associations or other instrumentalities;
-(21) Acquire, create, develop, and own intellectual property rights, licenses, and patents and to collect royalties resulting from the sale or licensing of commission-funded research, provided all results and recommendations from research conducted or funded by the commission must be available to all producers without charge, except for reasonable out-of-pocket costs as the commission may determine;
-(22) Speak on behalf of the Washington state government with regard to cannabis producers, and processors, subject to oversight of the director;
-(23) Possess cannabis products for the limited purposes of section 4 of this act;
-(24) Adopt rules to implement this chapter;
-(25) Exercise other powers and duties necessary to carry out this chapter.
+
+1. Elect a chair and other officers by a majority vote of the commission or as contained in bylaws adopted by the commission;
+
+2. Adopt, rescind, and amend bylaws and other internal rules of governance necessary for the administration and operation of the commission and for carrying out its duties under this chapter;
+
+3. Administer, enforce, direct, and control the provisions of this chapter;
+
+4. Employ and discharge at its discretion such administrators, staff, professional consultants and service providers, and other persons and firms that it may deem appropriate;
+
+5. Designate a public records officer, rules coordinator, and other representatives required by the laws governing state agencies and commissions;
+
+6. Comply with all other laws applicable to state agencies and commissions;
+
+7. Acquire personal property and purchase or lease office space and other necessary real property and transfer and convey the same;
+
+8. Institute and maintain in its own name any and all legal actions, including actions by injunction, mandatory injunction, or civil recovery, or proceedings before administrative tribunals or other governmental authorities necessary to carry out this chapter;
+
+9. Keep accurate records of all its receipts and disbursements, which records must be open to inspection and audit by the state auditor or private auditor designated by the state auditor at least every five years and at any time by a duly appointed internal auditor upon a majority vote of the commission;
+
+10. Make necessary disbursements for routine operating expenses;
+
+11. Expend funds for all activities, projects, and undertakings of the commission permitted under this chapter, including but not limited to cannabis-related education and training programs for producers, processors, researchers, or their employees;
+
+12. Cooperate with other interested parties for the purposes of this chapter;
+
+13. Serve as liaison with the board and all other interested parties on behalf of the commission and not for any individual producer or processor;
+
+14. Enter into contracts or cooperative agreements for research as provided in this chapter;
+
+15. Enter into contracts or interagency agreements with any other interested parties to carry out this chapter in accordance with applicable provisions of Title 39 RCW;
+
+16. Solicit, accept, and expend or retain any gifts, bequests, contributions, or grants from private persons or public agencies to carry out this chapter;
+
+17. Retain in emergent situations the services of private legal counsel to conduct legal actions on behalf of the commission, provided that the retention of a private attorney is subject to the appointment or approval by the office of the state attorney general;
+
+18. Engage in appropriate activities and events for the purpose of supporting activities of the commission authorized by this chapter;
+
+19. Participate in international, federal, state, and local hearings, meetings, and other proceedings in all matters relating to cannabis, including without limitation the production, irrigation, manufacture, regulation, transportation, distribution, sale, or use of cannabis including activities authorized under RCW 42.17A.635, and the reporting of those activities to the public disclosure commission;
+
+20. Obtain from the board a list of the names and addresses of producers, processors, and retailers, and such other available data from the state as requested by the commission to be used to disseminate information among and solicit the opinions of producers with respect to the discharge of the duties of the commission, directly, or by arrangement with trade associations or other instrumentalities;
+
+21. Acquire, create, develop, and own intellectual property rights, licenses, and patents and to collect royalties resulting from the sale or licensing of commission-funded research, provided all results and recommendations from research conducted or funded by the commission must be available to all producers without charge, except for reasonable out-of-pocket costs as the commission may determine;
+
+22. Speak on behalf of the Washington state government with regard to cannabis producers, and processors, subject to oversight of the director;
+
+23. Possess cannabis products for the limited purposes of section 4 of this act;
+
+24. Adopt rules to implement this chapter;
+
+25. Exercise other powers and duties necessary to carry out this chapter.
+
 
 ## Section 6
-(1) The commission shall consist of 13 voting members appointed by the director: Eight producer members from the districts; one statewide at-large producer member; one statewide tier one or equally small producer member; one statewide tier two or equally medium producer member; one statewide tier three or equally large producer member; and the director.
-(2) A nonvoting advisory council is created to assist the commission. The director must appoint the following to the advisory council: One board representative, one processor only member, one retailer member, and one testing laboratory member.
-(3) Each member of the commission and the advisory council other than the director and the board representative must:
-(a) Be 21 years of age or older;
-(b) Be a citizen and resident of this state;
-(c) Directly hold or be a named owner in whole or in majority part of an entity holding the relevant business license issued by the board. This license must not be suspended at the time of nomination, election, or appointment;
-(d) Be engaged in the production of cannabis within the state of Washington for a period of three years and have, during that period, derived a substantial portion of their income therefrom. Any assignee by a licensee must be and have been, either individually or as an officer or employee of a corporation, firm, partnership, association, or cooperative, actually engaged in producing cannabis within the state of Washington for a period of three years and have, during that period, derived a substantial portion of their income therefrom; and
-(e) Continue to meet all membership qualifications throughout the member's term.
-(4) Producer members in voting positions must be producers with production facilities in the district in which they are nominated and elected. Producer members elected to at-large positions may be from any district.
-(a) District one, positions one and two, comprises the counties of Clallam, Island, Jefferson, King, San Juan, Skagit, Snohomish, and Whatcom.
-(b) District two, positions three and four, comprises the counties of Chelan, Douglas, Ferry, Grand, Kittitas, Okanogan, Pend Oreille, and Stevens.
-(c) District three, positions five and six, comprises the counties of Adams, Asotin, Benton, Columbia, Franklin, Garfield, Lincoln, Spokane, Walla Walla, Whitman, and Yakima.
-(d) District four, positions seven and eight, comprises the counties of Clark, Cowlitz, Grays Harbor, Kitsap, Klickitat, Lewis, Mason, Pacific, Pierce, Skamania, Thurston, and Wahkiakum.
-(5) Commission members serve three-year terms. Of the initial members, four must be appointed by the director for a one-year term, four must be appointed by the director for a two-year term, and four must be appointed by the director for a three-year term. Thereafter, commission members other than the director must be elected by a vote of active producers in each district for three-year terms. The initial members must be considered from a pool of self-nominated active producers from each district under this section.
-(6) If a vacancy occurs on the board, the commission must provide a nomination to the director who must immediately appoint a replacement.
-(7) When making initial appointments and replacement appointments, the director must consider appointments based upon maintaining a balanced and diverse distribution of members based on race, ethnicity, geographic location, gender identity, sexual orientation, and age, where practicable.
-(8) Nine voting members of the commission constitute a quorum for the transaction of any commission business.
-(9) Each member or employee of the commission shall be reimbursed for expenses incurred in the performance of their duties in accordance with RCW 43.03.050 and 43.03.060.
-(10) Within 90 days after the effective date of this section, the director must appoint the initial members of the commission.
+1. The commission shall consist of 13 voting members appointed by the director: Eight producer members from the districts; one statewide at-large producer member; one statewide tier one or equally small producer member; one statewide tier two or equally medium producer member; one statewide tier three or equally large producer member; and the director.
+
+2. A nonvoting advisory council is created to assist the commission. The director must appoint the following to the advisory council: One board representative, one processor only member, one retailer member, and one testing laboratory member.
+
+3. Each member of the commission and the advisory council other than the director and the board representative must:
+
+    a. Be 21 years of age or older;
+
+    b. Be a citizen and resident of this state;
+
+    c. Directly hold or be a named owner in whole or in majority part of an entity holding the relevant business license issued by the board. This license must not be suspended at the time of nomination, election, or appointment;
+
+    d. Be engaged in the production of cannabis within the state of Washington for a period of three years and have, during that period, derived a substantial portion of their income therefrom. Any assignee by a licensee must be and have been, either individually or as an officer or employee of a corporation, firm, partnership, association, or cooperative, actually engaged in producing cannabis within the state of Washington for a period of three years and have, during that period, derived a substantial portion of their income therefrom; and
+
+    e. Continue to meet all membership qualifications throughout the member's term.
+
+4. Producer members in voting positions must be producers with production facilities in the district in which they are nominated and elected. Producer members elected to at-large positions may be from any district.
+
+    a. District one, positions one and two, comprises the counties of Clallam, Island, Jefferson, King, San Juan, Skagit, Snohomish, and Whatcom.
+
+    b. District two, positions three and four, comprises the counties of Chelan, Douglas, Ferry, Grand, Kittitas, Okanogan, Pend Oreille, and Stevens.
+
+    c. District three, positions five and six, comprises the counties of Adams, Asotin, Benton, Columbia, Franklin, Garfield, Lincoln, Spokane, Walla Walla, Whitman, and Yakima.
+
+    d. District four, positions seven and eight, comprises the counties of Clark, Cowlitz, Grays Harbor, Kitsap, Klickitat, Lewis, Mason, Pacific, Pierce, Skamania, Thurston, and Wahkiakum.
+
+5. Commission members serve three-year terms. Of the initial members, four must be appointed by the director for a one-year term, four must be appointed by the director for a two-year term, and four must be appointed by the director for a three-year term. Thereafter, commission members other than the director must be elected by a vote of active producers in each district for three-year terms. The initial members must be considered from a pool of self-nominated active producers from each district under this section.
+
+6. If a vacancy occurs on the board, the commission must provide a nomination to the director who must immediately appoint a replacement.
+
+7. When making initial appointments and replacement appointments, the director must consider appointments based upon maintaining a balanced and diverse distribution of members based on race, ethnicity, geographic location, gender identity, sexual orientation, and age, where practicable.
+
+8. Nine voting members of the commission constitute a quorum for the transaction of any commission business.
+
+9. Each member or employee of the commission shall be reimbursed for expenses incurred in the performance of their duties in accordance with RCW 43.03.050 and 43.03.060.
+
+10. Within 90 days after the effective date of this section, the director must appoint the initial members of the commission.
+
 
 ## Section 7
-(1) The commission, before the beginning of its fiscal year, must prepare and submit to the director for approval its research plan, its education and training plan, and its budget for that fiscal year.
-(2) The director must review and approve or disapprove all submissions described in this section in a timely manner.
-(3) The commission must develop and submit to the director for approval any plans, programs, and projects concerning, but not limited to, the following:
-(a) The establishment, issuance, effectuation, and administration of appropriate programs or projects for the education of the affected commodities; and
-(b) The establishment and effectuation of research projects, market development projects, or both to the end that the affected cannabis and cannabis product may be encouraged, expanded, improved, or made more efficient consistent with state and federal laws.
-(4) The director must review the commission's education program to ensure that no false claims are being made concerning cannabis and that they are in keeping with state and federal laws.
+1. The commission, before the beginning of its fiscal year, must prepare and submit to the director for approval its research plan, its education and training plan, and its budget for that fiscal year.
+
+2. The director must review and approve or disapprove all submissions described in this section in a timely manner.
+
+3. The commission must develop and submit to the director for approval any plans, programs, and projects concerning, but not limited to, the following:
+
+    a. The establishment, issuance, effectuation, and administration of appropriate programs or projects for the education of the affected commodities; and
+
+    b. The establishment and effectuation of research projects, market development projects, or both to the end that the affected cannabis and cannabis product may be encouraged, expanded, improved, or made more efficient consistent with state and federal laws.
+
+4. The director must review the commission's education program to ensure that no false claims are being made concerning cannabis and that they are in keeping with state and federal laws.
+
 
 ## Section 8
 The Washington state cannabis commission account is created in the state treasury. All receipts received under this chapter must be deposited into the account. Moneys in the account may be spent only after appropriation from the board. Expenditures from the account may be used only for carrying out the purposes of this chapter.
 
+
 ## Section 9
 The surcharge levied under section 13 of this act constitutes a personal debt of every person charged or who otherwise owes the surcharge, and the surcharge is due and payable on behalf of the commission.
 
+
 ## Section 10
-(1) Financial and commercial information and records submitted to either the board or the commission for the purpose of administering this chapter may be shared between the board and the commission. They may also be used, if required, in any suit or administrative hearing involving this chapter.
-(2) This section does not prohibit:
-(a) The issuance of general statements based upon the reports of producers subject to this chapter if the statements do not identify a specific producer or licensee; or
-(b) The publication by the director or the commission of the name of a producer violating this chapter and a statement of the manner of the violation by that producer.
+1. Financial and commercial information and records submitted to either the board or the commission for the purpose of administering this chapter may be shared between the board and the commission. They may also be used, if required, in any suit or administrative hearing involving this chapter.
+
+2. This section does not prohibit:
+
+    a. The issuance of general statements based upon the reports of producers subject to this chapter if the statements do not identify a specific producer or licensee; or
+
+    b. The publication by the director or the commission of the name of a producer violating this chapter and a statement of the manner of the violation by that producer.
+
 
 ## Section 11
 Obligations incurred by the commission and any other liabilities or claims against the commission must be enforced only against the assets of the commission and, except to the extent of such assets, no liability for the debts or actions of the commission exists against either the state of Washington or any subdivision or instrumentality thereof or against any member, employee, or agent of the commission or the state of Washington in the person's individual capacity. Except as otherwise provided in this chapter, neither the commission members, nor its employees, may be held individually responsible for errors in judgment, mistakes, or other acts either of commission or omission, as principal, agent, person, or employee, except for their own individual acts of dishonesty or crime. No person or employee may be held individually responsible for any act or omission of any other commission members. The liability of the commission members shall be several and not joint, and no member is liable for the default of any other member. This section confirms that commission members have been, and continue to be, state officers, employees, or volunteers for purposes of RCW 4.92.075 and are entitled to the defenses, indemnifications, limitations of liability, and other protections and benefits of chapter 4.92 RCW.
 
+
 ## Section 12
 All costs incurred by the board, including the adoption of rules and other actions necessary to carry out this chapter, must be reimbursed by the commission. The commission must provide funds to the board according to the rules adopted by the director.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Beginning October 1, 2021, in addition to the tax imposed under RCW 82.04.270, a surcharge is imposed on persons engaging within this state in the business of making wholesale sales of marijuana or marijuana products. The surcharge is:
+
+    a. Equal to 0.29 percent of the gross proceeds of sales at wholesale of marijuana including mature marijuana plants, immature marijuana plants or clones, marijuana plant tissue culture, and marijuana seeds; and
+
+    b. Equal to 0.145 percent of the gross proceeds of sales at wholesale of marijuana products ready for a consumer.
+
+2. All receipts from the surcharge under this section must be deposited into the account created in section 8 of this act.
+
+3. For purposes of this section, the terms "marijuana" and "marijuana products" have the meaning provided in RCW 69.50.101.
+
+4. Any penalties or interest collected on taxes due under this section must be deposited in the account in section 8 of this act.
+
+5. The provisions of chapter 82.32 RCW apply to this section.
+
 
 ## Section 14
 > This section modifies existing section [41.06.070](/rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md) for context.

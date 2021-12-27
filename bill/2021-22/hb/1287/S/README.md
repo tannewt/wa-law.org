@@ -2,14 +2,120 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1287-S.xml)
 ## Section 1
-(1) Motor vehicles are a significant source of air pollution, including greenhouse gas emissions, in Washington. The transportation sector accounts for nearly one-half of greenhouse gas emissions in Washington, and on-road vehicle emissions are responsible for the vast majority of the transportation sector emissions.
-(2) The widespread adoption of zero emissions vehicles is essential to the achievement of the state emissions limits established in RCW 70A.45.020, which, by 2050, requires a reduction of greenhouse gas emissions to 5,000,000 metric tons and the achievement of net zero greenhouse gas emissions. The rapid uptake of zero emissions vehicles is also an essential component of the state energy strategy, which calls for the phase out of vehicles powered by gasoline or diesel by mid-century. To ensure that the necessary infrastructure is in place to facilitate zero emissions vehicle adoption, the state energy strategy calls for the establishment of building codes that require installation of the conduit, wiring, and panel capacity necessary to support electric vehicle charging in new and retrofitted buildings.
-(3) In 2005, Washington first took action to adopt some of the motor vehicle emissions standards of the state of California, which are more protective of human health and the environment than federal motor vehicle emissions standards. In 2020, the legislature directed the department of ecology to adopt all of California's motor vehicle emissions standards, including California's zero emissions vehicles program.
-(4) A Washington state transition to a zero emissions transportation future requires accurate forecasting of zero emissions vehicle adoption rates, comprehensive planning for the necessary electric vehicle charging and green hydrogen production infrastructure, including the siting of infrastructure in desirable locations with amenities, such as near convenience stores and other small retailers, and managing the load of charging and green hydrogen production and refueling infrastructure as a dynamic energy service to the electric grid.
-(5) To ensure that the transition to a zero emissions transportation future proceeds efficiently and conveniently for users and operators of the multimodal transportation system, it is the intent of the legislature to:
-(a) Require state government to provide resources that facilitate the planning and deployment of electric vehicle charging and refueling infrastructure in a transparent, effective, and equitable manner across the state;
-(b) Ensure utility resource planning analyzes the impacts on electricity generation and delivery from growing adoption and usage of electric vehicles; and
-(c) Require state building codes that support the anticipated levels of zero emissions vehicle use that result from the program requirements in chapter 70A.30 RCW and that achieve emissions reductions consistent with RCW 70A.45.020.
+1. Motor vehicles are a significant source of air pollution, including greenhouse gas emissions, in Washington. The transportation sector accounts for nearly one-half of greenhouse gas emissions in Washington, and on-road vehicle emissions are responsible for the vast majority of the transportation sector emissions.
+
+2. The widespread adoption of zero emissions vehicles is essential to the achievement of the state emissions limits established in RCW 70A.45.020, which, by 2050, requires a reduction of greenhouse gas emissions to 5,000,000 metric tons and the achievement of net zero greenhouse gas emissions. The rapid uptake of zero emissions vehicles is also an essential component of the state energy strategy, which calls for the phase out of vehicles powered by gasoline or diesel by mid-century. To ensure that the necessary infrastructure is in place to facilitate zero emissions vehicle adoption, the state energy strategy calls for the establishment of building codes that require installation of the conduit, wiring, and panel capacity necessary to support electric vehicle charging in new and retrofitted buildings.
+
+3. In 2005, Washington first took action to adopt some of the motor vehicle emissions standards of the state of California, which are more protective of human health and the environment than federal motor vehicle emissions standards. In 2020, the legislature directed the department of ecology to adopt all of California's motor vehicle emissions standards, including California's zero emissions vehicles program.
+
+4. A Washington state transition to a zero emissions transportation future requires accurate forecasting of zero emissions vehicle adoption rates, comprehensive planning for the necessary electric vehicle charging and green hydrogen production infrastructure, including the siting of infrastructure in desirable locations with amenities, such as near convenience stores and other small retailers, and managing the load of charging and green hydrogen production and refueling infrastructure as a dynamic energy service to the electric grid.
+
+5. To ensure that the transition to a zero emissions transportation future proceeds efficiently and conveniently for users and operators of the multimodal transportation system, it is the intent of the legislature to:
+
+    a. Require state government to provide resources that facilitate the planning and deployment of electric vehicle charging and refueling infrastructure in a transparent, effective, and equitable manner across the state;
+
+    b. Ensure utility resource planning analyzes the impacts on electricity generation and delivery from growing adoption and usage of electric vehicles; and
+
+    c. Require state building codes that support the anticipated levels of zero emissions vehicle use that result from the program requirements in chapter 70A.30 RCW and that achieve emissions reductions consistent with RCW 70A.45.020.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.330](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. The department, in consultation with the department of ecology, the department of transportation, and the office of equity must develop and maintain a publicly available mapping and forecasting tool that provides locations and essential information of charging and refueling infrastructure to support forecasted levels of electric vehicle adoption, travel, and usage across Washington state.
+
+2. [Empty]
+
+    a. The publicly available mapping and forecasting tool must be designed to enable coordinated, effective, efficient, and timely deployment of charging and refueling infrastructure necessary to support statewide and local transportation electrification efforts that result in emissions reductions consistent with RCW 70A.45.020.
+
+    b. The tool must:
+
+        i. Initially prioritize on-road transportation;
+
+        ii. To the greatest extent possible, maintain the latest data;
+
+        iii. Model charging and refueling infrastructure that may be used by owners and operators of light, medium, and heavy-duty vehicles; and
+
+        iv. Incorporate department of transportation traffic data for passenger and freight vehicles.
+
+    c. The tool must, if feasible:
+
+        i. Provide the data necessary to support programs by state agencies that directly or indirectly support transportation electrification efforts;
+
+        ii. Evolve over time to support future transportation electrification programs; and
+
+        iii. Provide data at a scale that supports electric utility planning for the impacts of transportation electrification both systemwide and on specific components of the distribution system.
+
+3. The department, in consultation with the department of transportation, the department of ecology, and the office of equity, may elect to include other transportation charging and refueling infrastructure, such as maritime, public transportation, and aviation in the mapping and forecasting tool.
+
+4. The tool must include, to the extent feasible, the following elements:
+
+    a. The amount, type, location, and year of installation for electric vehicle supply equipment that is expected to be necessary to support forecasted electric vehicle penetration and usage within the state;
+
+    b. Electric vehicle adoption, usage, technological profiles, and any other characteristics necessary to model future electric vehicle penetration levels and use cases that impact electric vehicle supply equipment needs within the state;
+
+    c. The estimated energy and capacity demand based on inputs from (b) of this subsection;
+
+    d. Boundaries of political subdivisions including, but not limited to:
+
+        i. Retail electricity suppliers;
+
+        ii. Public transportation agency boundaries;
+
+        iii. Municipalities;
+
+        iv. Counties; and
+
+    v. Federally recognized tribal governments;
+
+    e. Existing and known publicly or privately owned level 2, direct current fast charge, and refueling infrastructure. The identification of refueling infrastructure must, if possible, distinguish refueling infrastructure that supplies green hydrogen from other hydrogen refueling infrastructure;
+
+    f. A public interface designed to provide any user the ability to determine the forecasted charging and refueling infrastructure needs within a provided geographic boundary, including those listed under (d) of this subsection; and
+
+    g. The ability for all data tracked within the tool to be downloadable or usable within a separate mapping and forecasting tool.
+
+5. The tool must, if feasible, integrate scenarios including:
+
+    a. Varying levels of public transportation utilization;
+
+    b. Varying levels of active transportation usage, such as biking or walking;
+
+    c. Vehicle miles traveled amounts above and below the baseline; and
+
+    d. Adoption of autonomous and shared mobility services.
+
+6. To support highly impacted communities and vulnerable populations disproportionately burdened by transportation-related emissions and to ensure economic and mobility benefits flow to communities that have historically received less investment in infrastructure, the mapping and forecasting tool must integrate population, health, environmental, and socioeconomic data on a census tract basis. The department may use existing data used by other state or federal agencies. The department must consult with the department of health, the office of equity, the department of ecology, and other agencies as necessary in order to ensure the tool properly integrates cumulative impact analyses best practices and to ensure that the tool is developed in coordination with other state government administrative efforts to identify disproportionately impacted communities.
+
+7. The mapping and forecasting tool must, to the extent appropriate, integrate related analyses, such as the department's state energy strategy, the joint transportation committee's public fleet electrification study, the west coast collaborative's alternative fuel infrastructure corridor coalition report, and other related electric vehicle supply equipment assessments as deemed appropriate.
+
+8. Where appropriate and feasible, the mapping and forecasting tool must incorporate infrastructure located at or near the border in neighboring state and provincial jurisdictions.
+
+9. In designing the mapping and forecasting tool, the department must coordinate with the department of transportation, the department of ecology, the utilities and transportation commission, and other state agencies as needed in order to ensure the mapping and forecasting tool is able to successfully facilitate other state agency programs that involve deployment of electric vehicle supply equipment.
+
+10. The department must conduct a stakeholder process in developing the mapping and forecasting tool to ensure the tool supports the needs of communities, public agencies, and relevant private organizations. The stakeholder process must involve stakeholders, including but not limited to electric utilities, early in the development of the tool.
+
+11. The department may contract with consultants to develop and implement all or portions of the mapping and forecasting tool. The department may rely on or, to the extent necessary, contract for privately-maintained data sufficient to develop the elements specified in subsection (4) of this section.
+
+12. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise:
+
+    a. "Charging infrastructure" means a unit of fueling infrastructure that supplies electric energy for the recharging of battery electric vehicles.
+
+    b. "Direct current fast charger" means infrastructure that supplies electricity to battery electric vehicles at capacities no less than 50 kilowatts, typically using 208/408 volt three-phase direct current electricity.
+
+    c. "Electric vehicle" means any craft, vessel, automobile, public transportation vehicle, or equipment that transports people or goods and operates, either partially or exclusively, on electrical energy from an off-board source that is stored onboard for motive purpose.
+
+    d. "Electric vehicle supply equipment" means charging infrastructure and hydrogen refueling infrastructure.
+
+    e. [Empty]
+
+        i. "Green hydrogen" means hydrogen produced using: (A) Electricity that meets the carbon neutrality standard of RCW 19.405.040 by 2030 and carbon-free standard of RCW 19.405.040 by 2045 for the energy input into the production process; and (B) renewable resources for the source of the hydrogen.
+
+        ii. "Green hydrogen" includes renewable hydrogen as defined in RCW 19.405.020.
+
+    f. "Level 2 charger" means infrastructure that supplies electricity to battery electric vehicles at 240 volts and equal to or less than 80 amps.
+
+    g. "Refueling infrastructure" means a unit of fueling infrastructure that supplies hydrogen for the resupply of hydrogen fuel cell electric vehicles.
+
 
 ## Section 3
 > This section modifies existing section [19.280.030](/rcw/19_business_regulations—miscellaneous/19.280_electric_utility_resource_plans.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.280_electric_utility_resource_plans.md) for context.

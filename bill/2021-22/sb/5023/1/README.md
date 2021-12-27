@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that child care is a critically important service to the economic recovery and future of Washington state. The legislature acknowledges that access to child care is essential for Washington families to be able to return to work. The legislature therefore resolves to increase access to employment and to facilitate statewide economic recovery by ensuring that temporary federal unemployment benefits do not disrupt continuity of care for families seeking work.
 
+
 ## Section 2
 > This section modifies existing section [43.216.137](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
 
@@ -20,3 +21,4 @@ The legislature finds that child care is a critically important service to the e
 
 ## Section 3
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

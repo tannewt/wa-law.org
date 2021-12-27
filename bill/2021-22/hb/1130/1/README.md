@@ -3,21 +3,45 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1130.xml)
 ## Section 1
 The legislature finds that Washingtonians care about affordable and reliable energy. Washingtonians care about low-income residents and vulnerable populations who struggle to pay utility bills. Washingtonians care about those with health conditions that make them vulnerable to power outages during heat waves or cold snaps. Washingtonians care about the good jobs lost when good-paying energy-intensive jobs pass on our state. While the state has described the goals of affordability and reliability in various places in statute, the state has never set a framework for achieving these energy policy goals that our residents care about, such as reducing the total cost of utility bills, reducing the number of people in need of energy assistance, or reducing the number and duration of power outages. Instead, to date, the state has only set a mandate for achieving carbon emissions reductions.
+
 The legislature finds that many families in Washington are burdened by energy costs. Utility bill delinquency rates are growing and there is a growing need for ratepayer-subsidized energy assistance and home weatherization programs. The legislature recognizes that this energy cost burden can fall disproportionately on historically disadvantaged communities. As lower-income residents in Washington face rising energy costs, these costs act as a regressive tax, those residents pay a larger portion of their limited income toward utility bills than those with higher incomes.
+
 The legislature recognizes that for decades this state has neglected to honor the values of affordability and reliability with sufficient balance and commitment. Although affordability and reliability are priorities of our state's residents, the state has no mandates, statutory performance standards, or targets for affordable energy prices and grid reliability. With the passage of the clean energy transformation act in 2019, the state only recently directed that the department of commerce begin the collection and reporting of baseline data on the level of household energy burden and the number of people in Washington in need of low-income energy assistance. Household energy burden was defined as the share of household income spent on home energy bills. Tracking the cost as a percentage of income, rather than tracking total bill costs, may obscure real localized increases in costs if average incomes in the state are rising, or if additional taxes and fees are imposed. In addition, tracking home energy burden alone can obscure increased costs to families from electrification of transportation if the costs of charging personal vehicles is not included in the data collected.
+
 Therefore, the legislature intends to restore balance to its energy policy by complementing its statutory commitment to clean energy with a commitment to leadership in affordable and reliable energy. The legislature intends to set targets for meaningful cost reductions to utility bills and significant improvement in grid reliability, direct a plan to achieve those reductions along with an economic impact study, and direct better collection and presentation of baseline data on energy cost experiences of Washington residents.
 
+
 ## Section 2
-(1)(a) The state shall limit retail electricity and natural gas utility bill costs to achieve the following cost reductions for Washington retail electric and natural gas customers in all rate classes: By 2031, reduce cumulative bill costs within each rate class for each electric and natural gas utility to 50 percent below 1990 levels or 50 percent below 2020 levels, whichever is lower.
-(b) For the purposes of this subsection, "bill costs" means the amount spent to pay annual energy bills inclusive of any amounts paid for electric vehicle charging, taxes, and fees.
-(2) The state shall achieve the best reliability for the safety and security of Washington retail electric and natural gas customers in all rate classes by limiting service outages as follows: By 2031, reduce cumulative power outages and energy supply disruptions to 50 percent below 1990 levels or 50 percent below 2020 levels, whichever is lower.
-(3)(a) By December 1, 2022, the public counsel unit of the office of the attorney general must submit a report to the legislature that: (i) Describes the actions necessary to achieve the affordability and reliability improvements in subsections (1) and (2) of this section using existing statutory authority; and (ii) provides recommendations, if any, for additional statutory authority as may be necessary to achieve these objectives.
-(b) The report required under this subsection must be informed by an economic impact analysis that identifies the following:
-(i) The cumulative cost impact of power outages in Washington since 1990 and what the economic impact would be of a range of percentage reductions in the number and duration of outages since that time and up to 2050; and
-(ii) The cumulative cost savings and economic and employment impact of the additional cash flow in the economy resulting from the statewide bill cost reductions required under subsection (1) of this section.
-(c) To the extent practicable, the report required under this subsection must separately state the bill costs and reliability experience of residents in Indian country in Washington and of any other historically disadvantaged communities, as well as any particularized benefits that those communities may experience from improved reliability and lower bill costs, such as improved health outcomes, increased employment opportunities, or increased disposable incomes.
-(d) The public counsel unit of the office of the attorney general is authorized to require the submission by any utility provider, agency, or political subdivision of the state of such information, reports, and data as are necessary to document current and historical bill costs, and the frequency and duration of loss of load events, and to prepare the economic impact analysis required under subsection (2)(b) of this section. Similar information, reports, and data may be requested, but are not required, from sovereign tribal nations.
-(e) It is the intent of the legislature to provide financial resources to the public counsel unit of the office of the attorney general sufficient to develop the plan required under this section by providing at least as much as has been appropriated by the state since 2013 to fund agency review and third-party consulting on the removal of dams on the lower Snake river and for the evaluation of Washington's potential for high-speed rail.
+1. [Empty]
+
+    a. The state shall limit retail electricity and natural gas utility bill costs to achieve the following cost reductions for Washington retail electric and natural gas customers in all rate classes: By 2031, reduce cumulative bill costs within each rate class for each electric and natural gas utility to 50 percent below 1990 levels or 50 percent below 2020 levels, whichever is lower.
+
+    b. For the purposes of this subsection, "bill costs" means the amount spent to pay annual energy bills inclusive of any amounts paid for electric vehicle charging, taxes, and fees.
+
+2. The state shall achieve the best reliability for the safety and security of Washington retail electric and natural gas customers in all rate classes by limiting service outages as follows: By 2031, reduce cumulative power outages and energy supply disruptions to 50 percent below 1990 levels or 50 percent below 2020 levels, whichever is lower.
+
+3. [Empty]
+
+    a. By December 1, 2022, the public counsel unit of the office of the attorney general must submit a report to the legislature that: (i) Describes the actions necessary to achieve the affordability and reliability improvements in subsections (1) and (2) of this section using existing statutory authority; and (ii) provides recommendations, if any, for additional statutory authority as may be necessary to achieve these objectives.
+
+    b. The report required under this subsection must be informed by an economic impact analysis that identifies the following:
+
+        i. The cumulative cost impact of power outages in Washington since 1990 and what the economic impact would be of a range of percentage reductions in the number and duration of outages since that time and up to 2050; and
+
+        ii. The cumulative cost savings and economic and employment impact of the additional cash flow in the economy resulting from the statewide bill cost reductions required under subsection (1) of this section.
+
+    c. To the extent practicable, the report required under this subsection must separately state the bill costs and reliability experience of residents in Indian country in Washington and of any other historically disadvantaged communities, as well as any particularized benefits that those communities may experience from improved reliability and lower bill costs, such as improved health outcomes, increased employment opportunities, or increased disposable incomes.
+
+    d. The public counsel unit of the office of the attorney general is authorized to require the submission by any utility provider, agency, or political subdivision of the state of such information, reports, and data as are necessary to document current and historical bill costs, and the frequency and duration of loss of load events, and to prepare the economic impact analysis required under subsection (2)(b) of this section. Similar information, reports, and data may be requested, but are not required, from sovereign tribal nations.
+
+    e. It is the intent of the legislature to provide financial resources to the public counsel unit of the office of the attorney general sufficient to develop the plan required under this section by providing at least as much as has been appropriated by the state since 2013 to fund agency review and third-party consulting on the removal of dams on the lower Snake river and for the evaluation of Washington's potential for high-speed rail.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [19.405](/rcw/19_business_regulations—miscellaneous/19.405_washington_clean_energy_transformation_act.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.405_washington_clean_energy_transformation_act.md) for context.
+
+To the extent practicable, rules developed under this chapter must incorporate the policy objectives of reaching the targets for reliability and cost established under section 2 (1) and (2) of this act and the information that becomes available upon completion of the report required in section 2(3) of this act.
+
 
 ## Section 4
 > This section modifies existing section [19.405.120](/rcw/19_business_regulations—miscellaneous/19.405_washington_clean_energy_transformation_act.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.405_washington_clean_energy_transformation_act.md) for context.
@@ -81,3 +105,4 @@ Therefore, the legislature intends to restore balance to its energy policy by co
 
 ## Section 6
 This act may be known and cited as the Washington consumer affordability and reliability in energy supply act.
+

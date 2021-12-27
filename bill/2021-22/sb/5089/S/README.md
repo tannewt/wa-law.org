@@ -4,6 +4,7 @@
 ## Section 1
 The legislature believes the diversity of the police force is essential to maintaining public trust and confidence in the criminal justice system. With this act, the legislature intends to provide for a diverse workforce with a variety of experiences and backgrounds that will ensure officers have the maturity and empathy to serve the citizens of Washington. The legislature is persuaded by research evidencing that adolescent brain development continues until a person reaches the age of 26. Law enforcement officers are entrusted with the tools and ability to effect life and liberty. We believe that increasing the qualification age of an officer to age 23 will help ensure the requisite maturity for these responsibilities.
 
+
 ## Section 2
 > This section modifies existing section [41.12.070](/rcw/41_public_employment_civil_service_and_pensions/41.12_civil_service_for_city_police.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.12_civil_service_for_city_police.md) for context.
 
@@ -130,3 +131,4 @@ All newly appointed  officers shall serve a probationary period of **24 months f
 
 ## Section 8
 Any provision in a collective bargaining agreement or other agreement entered into or amended after the effective date of this section that is contrary to the provisions of this act is void and unenforceable. No jurisdiction's law, policies, rules, contracts, or other agreements may contravene any of this act.
+

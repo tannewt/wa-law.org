@@ -85,6 +85,18 @@ The definitions in this section apply throughout this chapter unless the context
 13. "Terminal disease" means an incurable and irreversible disease that has been medically confirmed and will, within reasonable medical judgment, produce death within six months.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [70.245](/rcw/70_public_health_and_safety/70.245_the_washington_death_with_dignity_act.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.245_the_washington_death_with_dignity_act.md) for context.
+
+1. Subject to the provisions in subsection (2) of this section, a qualified patient may select the attending or consulting qualified medical provider of the qualified patient's choosing.
+
+2. [Empty]
+
+    a. If a qualified patient selects an attending qualified medical provider who is a licensed professional other than a physician, the qualified patient must select a physician to serve as the qualified patient's consulting qualified medical provider.
+
+    b. A qualified patient may select a consulting qualified medical provider who is a licensed professional other than a physician, only if the qualified patient's attending qualified medical provider is a physician.
+
+
 ## Section 4
 > This section modifies existing section [70.245.020](/rcw/70_public_health_and_safety/70.245_the_washington_death_with_dignity_act.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.245_the_washington_death_with_dignity_act.md) for context.
 
@@ -387,4 +399,10 @@ NOTE: One witness shall not be a relative by blood, marriage, or adoption of the
 4. A hospital must post a copy of the policies provided to the department under subsection (1) of this section and the form required under subsection (5) of this section to the hospital's own web site in a location where the policies are readily accessible to the public without a required login or other restriction.
 
 5. **The** department shall, in consultation with stakeholders including a hospital association and patient advocacy groups, develop **two** simple and clear form**s** to be submitted by hospitals along with the policies required in subsection (1) of this section. **One** form must provide the public with specific information about which reproductive health care services are and are not generally available at each hospital. The **other form must provide the public with specific information about which end of life-services are prohibited at each hospital. Each** form must include contact information for the hospital in case patients have specific questions about services available at the hospital.
+
+
+## Section 20
+> This section adds a new section to an existing chapter [70.41](/rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md) for context.
+
+By November 1, 2021, the department of health shall develop the form required in RCW 70.41.520(5) related to end-of-life care and the death with dignity act, chapter 70.245 RCW.
 

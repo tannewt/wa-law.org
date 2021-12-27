@@ -2,12 +2,18 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1348-S.xml)
 ## Section 1
-(1) The legislature finds that:
-(a) Having access to same day and next day physical and behavioral health services is imperative to facilitate successful reentry for individuals releasing from jails;
-(b) The overwhelming majority of individuals in jails are incarcerated for less than 30 days;
-(c) Suspending medicaid for individuals on short-term jail stays causes significant delays in medicaid reinstatement upon release; and
-(d) Delays in medicaid reinstatement impede access to physical and behavioral health appointments and prescription medications upon release.
-(2) The legislature intends to facilitate successful jail reentry by not suspending medicaid for individuals who are incarcerated for less than 30 days.
+1. The legislature finds that:
+
+    a. Having access to same day and next day physical and behavioral health services is imperative to facilitate successful reentry for individuals releasing from jails;
+
+    b. The overwhelming majority of individuals in jails are incarcerated for less than 30 days;
+
+    c. Suspending medicaid for individuals on short-term jail stays causes significant delays in medicaid reinstatement upon release; and
+
+    d. Delays in medicaid reinstatement impede access to physical and behavioral health appointments and prescription medications upon release.
+
+2. The legislature intends to facilitate successful jail reentry by not suspending medicaid for individuals who are incarcerated for less than 30 days.
+
 
 ## Section 2
 > This section modifies existing section [74.09.670](/rcw/74_public_assistance/74.09_medical_care.md). Here is the [modified chapter](rcw/74_public_assistance/74.09_medical_care.md) for context.
@@ -28,5 +34,7 @@
 ## Section 3
 The health care authority is authorized to seek any necessary state plan amendments or waivers from the federal department of health and human services that are necessary to implement section 2 of this act.
 
+
 ## Section 4
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+

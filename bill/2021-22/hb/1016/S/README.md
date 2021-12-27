@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1016-S.xml)
 ## Section 1
 The legislature finds that on June 19, 1865, two and one-half years after President Lincoln signed the Emancipation Proclamation and two months after the end of the Civil War, news finally reached Galveston, Texas, that the Civil War had ended and that all enslaved persons were now released from the bondage of slavery. Slavery has left a catastrophic and unrelenting legacy of trauma for generations of Black/African Americans. Racism, discrimination, and inequity have been prevalent throughout the United States of America since 1619, which has cost Black/African Americans life, liberty, and prosperity.
+
 The legislature also finds that June 19th has been celebrated in smaller communities across the nation as Juneteenth. Also known as Freedom Day, Jubilee Day, Liberation Day, and Emancipation Day, Juneteenth is a holiday that celebrates the emancipation of those who had been enslaved in the United States. Although this day has special significance for Black/African Americans in the state of Washington, the historical and continued harms of slavery and the rejoicing of the end of this atrocity should be acknowledged and celebrated by all Washingtonians.
+
 The legislature intends to designate Juneteenth as a state legal holiday to celebrate the end of chattel slavery. The legislature encourages that this be a day to engage in fellowship with Black/African Americans; revisit our solidarity and commitment to antiracism; educate ourselves about slave history; and continue having conversations that uplift every Washingtonian.
+
 
 ## Section 2
 > This section modifies existing section [1.16.050](/rcw/01_general_provisions/1.16_general_definitions.md). Here is the [modified chapter](rcw/01_general_provisions/1.16_general_definitions.md) for context.
@@ -90,3 +93,4 @@ The thirtieth day of March, recognized as welcome home Vietnam veterans day;
 
 ## Section 3
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

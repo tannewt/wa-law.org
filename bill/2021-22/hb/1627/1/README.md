@@ -4,6 +4,13 @@
 ## Section 1
 The legislature finds that there needs to be increased flexibility in extending publicly provided water, sewer, and storm drain facilities beyond municipal and urban growth boundaries and that doing so does not automatically create sprawl. It is a community's choice on whether it is feasible, economical, and environmentally prudent to provide such services. This act intends to remove barriers that prevent communities from using certain types of water, sewer, and storm drain systems that have been designated urban levels of service, and authorize local communities to make the choice to use these important technologies. Any ordinance, rule, or policy that prevents what this act authorizes should be modified or repealed.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [36.70](/rcw/36_counties/36.070_planning_enabling_act.md). Here is the [modified chapter](rcw/36_counties/36.070_planning_enabling_act.md) for context.
+
+A city may extend water or sewer facilities as defined in RCW 35.91.015 into areas beyond the city limits and designated urban growth areas.
+
+
 ## Section 3
 > This section modifies existing section [36.70A.030](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 

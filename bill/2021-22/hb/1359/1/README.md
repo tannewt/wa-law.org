@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that operations of businesses in the hospitality industry have been significantly disrupted since the beginning of the COVID-19 pandemic. Many of these businesses, including restaurants, hotels, theaters, caterers, and nightclubs maintain state liquor licenses in order to offer their customers beer, wine, or spirits as products or amenities as authorized under the terms of their licenses. However, many licensees' businesses were completely or partially closed for much of 2020 and continue to be closed or substantially disrupted in 2021. Recognizing many licensees' inability to fully operate and use their license, and the financial hardships faced by many licensees, the legislature intends to provide relief to the hospitality industry by reducing certain liquor license fees in 2021 and 2022.
 
+
 ## Section 2
 > This section modifies existing section [66.24.420](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
 

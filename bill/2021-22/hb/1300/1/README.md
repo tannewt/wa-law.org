@@ -157,3 +157,4 @@ Each tenant shall pay the rental amount at such times and in such amounts as pro
 
 ## Section 6
 By this act, the legislature intends to increase fairness for all.
+

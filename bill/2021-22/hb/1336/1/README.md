@@ -67,6 +67,14 @@ The definitions in this section apply throughout this chapter unless the context
 5. By December 1, 2019, and annually thereafter, the department of revenue must submit a report to the appropriate legislative committees detailing the amount of payments made under this section and the amount of property tax that would be owed on the property comprising the broadband **infrastructure** used in providing retail **telecommunications services**.
 
 
+## Section 4
+> This section adds a new section to an existing chapter [35.92](/rcw/35_cities_and_towns/35.092_municipal_utilities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.092_municipal_utilities.md) for context.
+
+1. A city or town may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the city or town and its inhabitants with telecommunications services. The city or town has full authority to regulate and control the use, distribution, and price of the services.
+
+2. For purposes of this section, "telecommunications" has the same meaning as in RCW 80.04.010.
+
+
 ## Section 5
 > This section modifies existing section [35A.80.010](/rcw/35A_optional_municipal_code/35A.80_public_utilities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.80_public_utilities.md) for context.
 
@@ -77,6 +85,14 @@ The definitions in this section apply throughout this chapter unless the context
     a. **"Telecommunications" has the same meaning as in RCW 80.04.010; and**
 
     b. **"Utility services" may include water, sewer, solid waste, electricity, or telecommunications services.**
+
+
+## Section 6
+> This section adds a new section to an existing chapter [36.01](/rcw/36_counties/36.001_general_provisions.md). Here is the [modified chapter](rcw/36_counties/36.001_general_provisions.md) for context.
+
+1. A county may construct, purchase, acquire, develop, finance, lease, license, provide, contract for, interconnect, alter, improve, repair, operate, and maintain telecommunications services or telecommunications facilities for the purpose of furnishing the county and its inhabitants with telecommunications services. The county has full authority to regulate and control the use, distribution, and price of the services.
+
+2. For purposes of this section, "telecommunications" has the same meaning as in RCW 80.04.010.
 
 
 ## Section 7
@@ -131,3 +147,4 @@ A port district with telecommunications facilities for use in the provision of w
 
 ## Section 9
 This act may be known and cited as the public broadband act.
+

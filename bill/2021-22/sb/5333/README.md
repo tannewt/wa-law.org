@@ -1,5 +1,6 @@
 # SB 5333 - Construction contracts/COVID
-*Status: Senate Rules "X" file.*
+*Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5333&Year=2021)
+
 Concerning void and unenforceable clauses in construction contracts related to delays caused by the COVID-19 pandemic emergency proclamations.
 
 ## Revisions

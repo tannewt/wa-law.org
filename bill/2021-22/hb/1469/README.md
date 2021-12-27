@@ -1,5 +1,6 @@
 # HB 1469 - Enhanced raffle procedures
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1469&Year=2021)
+
 Concerning enhanced raffle procedures.
 
 ## Revisions

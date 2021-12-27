@@ -1,5 +1,6 @@
 # HB 1296 - Behavioral health admin orgs
-*Status: Effective date 4/26/2021.*
+*Status: Effective date 4/26/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2021)
+
 Providing a business and occupation tax preference for behavioral health administrative services organizations.
 
 ## Revisions

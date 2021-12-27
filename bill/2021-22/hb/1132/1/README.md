@@ -4,6 +4,7 @@
 ## Section 1
 In RCW 89.10.005, the legislature has found and previously recognized the importance of retaining land in agriculture to produce food, livestock, and other agricultural products as well as to maintain the state economy and environmental conditions. The legislature now finds that there have been situations in this state where agricultural land has been lost due to unforeseen circumstances that commonly befall an aging farming population. The legislature finds that there is a public interest in retaining farms and the water rights needed to continue the operation of these farms. Small farms, especially, are often owned by families whose history is vested in the land. Farming is often the result of a generational commitment to feeding the nation and the world. Farmers are stewards of the land and have learned to adapt over time. The practices they use preserve the land and provide additional benefits of wildlife habitat and open space. Modern times have made it challenging to transition these farms through generations. As such, the legislature finds that temporary reductions in use of water on agricultural property for many reasons, including a future development of the use of property with the intent to continue irrigation in the future upon completion of the development, should not result in relinquishment. Additionally, farmers should have the opportunity to maintain their use of water purchased in good faith. The transition of small to mid-size farmers to new owners and a new generation of farmers, as well as the transition to more efficient irrigation systems, should be encouraged, not discouraged. The legislature recognizes that there are times when these transitions sometimes require more than a five-year period and the legislature wants to encourage the retention of the water that is essential to the viability of agriculture.
 
+
 ## Section 2
 > This section modifies existing section [90.14.031](/rcw/90_water_rights—environment/90.14_water_rights—registration—waiver_and_relinquishment_etc.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.14_water_rights—registration—waiver_and_relinquishment_etc.md) for context.
 
@@ -146,3 +147,4 @@ Any person entitled to divert or withdraw waters of the state by virtue of his o
 
 ## Section 11
 The provisions of this act apply both prospectively and retroactively to water rights that on January 1, 2021, were subject to relinquishment proceedings before the department of ecology or on appeal of a relinquishment order under RCW 90.14.130.
+

@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1342.SL.xml)
 ## Section 1
 The legislature recognizes that the challenges and difficulties of food insecurity affect Washington households throughout the state. The legislature recognizes also that many families rely on the food and nutritional benefits of reduced-price school lunches, and that hungry students face additional barriers to academic success.
+
 The legislature further recognizes that the state's 2019-2021 omnibus operating appropriations act includes funding for eliminating lunch copays for qualifying kindergarten through third grade students, and that extending this copay elimination to students in prekindergarten and the fourth through 12th grades is an appropriate and cost-effective way to promote the health and academic success of students who qualify for reduced-price lunches.
+
 
 ## Section 2
 > This section modifies existing section [28A.235.160](/rcw/28A_common_school_provisions/28A.235_food_services.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.235_food_services.md) for context.

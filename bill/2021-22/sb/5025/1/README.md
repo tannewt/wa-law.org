@@ -3,16 +3,27 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5025.xml)
 ## Section 1
 The legislature finds that:
-(1) Strong consumer protection and antitrust penalties are critical to protecting consumers and ensuring a fair marketplace;
-(2) Strong penalties ensure accountability, deter violations, and ensure a level playing field for businesses;
-(3) Washington currently does not provide strong penalties for violations of the state's consumer protection act, which prohibits unfair or deceptive acts or practices and unfair methods of competition;
-(4) Washington's penalty for unfair or deceptive acts or practices has not kept pace with inflation, and has not increased since 1970;
-(5) Washington's penalty for unfair methods of competition has also not kept pace with inflation, and has not increased since 1983;
-(6) Consequently, Washington has one of the lowest consumer protection penalties in the United States;
-(7) 24 state legislatures representing more than 200 million Americans have passed enhanced penalties for violations that target or impact certain vulnerable populations, but Washington does not have an enhanced penalty;
-(8) Many Washingtonians are hurting financially due to the impacts of the global pandemic;
-(9) Washington's weak penalties place Washington consumers at greater risk; and
-(10) Washingtonians deserve strong consumer protections to ensure entities that illegally, unfairly, and deceptively go after their hard-earned dollars are held accountable.
+
+1. Strong consumer protection and antitrust penalties are critical to protecting consumers and ensuring a fair marketplace;
+
+2. Strong penalties ensure accountability, deter violations, and ensure a level playing field for businesses;
+
+3. Washington currently does not provide strong penalties for violations of the state's consumer protection act, which prohibits unfair or deceptive acts or practices and unfair methods of competition;
+
+4. Washington's penalty for unfair or deceptive acts or practices has not kept pace with inflation, and has not increased since 1970;
+
+5. Washington's penalty for unfair methods of competition has also not kept pace with inflation, and has not increased since 1983;
+
+6. Consequently, Washington has one of the lowest consumer protection penalties in the United States;
+
+7. 24 state legislatures representing more than 200 million Americans have passed enhanced penalties for violations that target or impact certain vulnerable populations, but Washington does not have an enhanced penalty;
+
+8. Many Washingtonians are hurting financially due to the impacts of the global pandemic;
+
+9. Washington's weak penalties place Washington consumers at greater risk; and
+
+10. Washingtonians deserve strong consumer protections to ensure entities that illegally, unfairly, and deceptively go after their hard-earned dollars are held accountable.
+
 
 ## Section 2
 > This section modifies existing section [19.86.010](/rcw/19_business_regulations—miscellaneous/19.086_unfair_business_practices—consumer_protection.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.086_unfair_business_practices—consumer_protection.md) for context.
@@ -64,3 +75,4 @@ The limitations prescribed in this chapter shall apply to actions brought in the
 
 ## Section 6
 This act may be known and cited as the consumer protection improvement act.
+

@@ -4,6 +4,21 @@
 ## Section 1
 The legislature finds that many state agencies are involved in creating educational and safety programs involving bicycle and pedestrian travel. The legislature intends to have agencies report and update their programs so that this generation of students are provided more opportunities to acquire safety skills. There is a need for increased training on hazard avoidance skills and the impacts of usage of modern technology on pedestrian, bicycle, and motor vehicle travel as it relates to their interactions with each other.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.300](/rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md) for context.
+
+1. On or before June 30, 2023, the office of the superintendent of public instruction, in coordination with representatives of the Washington state patrol, local law enforcement agencies, the department of health traumatic brain injury prevention program, local school districts, local bicycle clubs, and the traffic safety commission's Cooper Jones active transportation safety council, must review and update its existing curriculum related to bicycle and pedestrian safety. The update must include more hazard avoidance skills and address the additional distractions associated with the use of modern technology when individuals are walking, biking, or driving. The update should include a plan to increase implementation of bicycle and safety education in communities throughout the state. This plan must improve opportunities in distressed areas as defined in RCW 43.168.020 while reducing disparities in communities of color and other marginalized communities.
+
+2. The office of the superintendent of public instruction must:
+
+    a. Review curriculum and educational materials, videos, and training tools on bicycle and pedestrian safety and select appropriate information to be posted on its website. This should include a review of materials created by the United States department of transportation; and
+
+    b. Coordinate with the Washington state patrol to create a bike safety awareness program for students enrolled in third to fifth grade. The program shall be deployed in at least two school districts that have a population of no more than 15,000 students and are located on either side of the Cascade mountain range. The program must include hazard avoidance skills and address the additional distractions associated with the use of modern technology when individuals are walking, biking, or driving.
+
+3. No later than November 1, 2023, the office of the superintendent of public instruction must report to the transportation committees of the house of representatives and the senate on its activities under this section.
+
+
 ## Section 3
 > This section modifies existing section [43.43.390](/rcw/43_state_government—executive/43.043_washington_state_patrol.md). Here is the [modified chapter](rcw/43_state_government—executive/43.043_washington_state_patrol.md) for context.
 

@@ -26,5 +26,7 @@
 ## Section 3
 This act applies to taxes levied for collection in calendar year 2022 and thereafter.
 
+
 ## Section 4
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

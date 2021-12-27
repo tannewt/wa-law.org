@@ -4,6 +4,7 @@
 ## Section 1
 In 2020, wildfire swept across central Washington. In the aftermath, it was found that volunteer firefighters were not allowed to leave work to fight for their family homes simply because they would have been paid as wildland firefighters. The legislature finds that volunteer firefighters, even those compensated for wildland firefighting, should be allowed to leave work to protect their communities.
 
+
 ## Section 2
 > This section modifies existing section [49.12.460](/rcw/49_labor_regulations/49.12_industrial_welfare.md). Here is the [modified chapter](rcw/49_labor_regulations/49.12_industrial_welfare.md) for context.
 

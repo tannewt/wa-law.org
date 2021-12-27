@@ -1,6 +1,26 @@
 # Second Substitute Senate Bill 5368 as Recommended by Ways & Means - as passed by the Legislature
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5368-S2.PL.xml)
+## Section 1
+> This section adds a new section to an existing chapter [35A.14](/rcw/35A_optional_municipal_code/35A.14_annexation_by_code_cities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.14_annexation_by_code_cities.md) for context.
+
+1. A code city as provided in RCW 35A.14.296(2) may collaborate with the county or counties where the code city is located to form an interlocal agreement regarding annexation of unincorporated territory within the urban growth area boundary. The interlocal agreement formation process must include procedures for public participation. The procedures must provide for broad dissemination of proposals and alternatives, opportunity for written comments, public meetings after effective notice, and consideration of and response to public comments. The interlocal agreement may only be executed after notice of availability of the agreement is posted on the website of each legislative body for four weeks and a public hearing by each legislative body, separately or jointly. This method of annexation shall be an alternative method and is additional to all other methods provided for in this chapter.
+
+2. An interlocal agreement under this section may include use of a sales tax credit for annexed areas should such a credit be reinstated by the legislature.
+
+3. The agreement or plan under this section must address the following:
+
+    a. A balancing of annexations of commercial, industrial, and residential properties so that any potential loss or gain is considered and distributed fairly as determined by tax revenue;
+
+    b. Development, ownership, and maintenance of infrastructure;
+
+    c. The potential for revenue-sharing agreements.
+
+4. In addressing the items in subsection (3)(a) through (c) of this section, the parties must also address the balancing of factors and objectives for annexation review in RCW 36.93.170 and 36.93.180.
+
+5. By December 1, 2021, the association of Washington cities and the Washington state association of counties shall report to the legislature, in compliance with RCW 43.01.036, on how a sales tax credit may be utilized to encourage appropriate annexations and what limits should be associated with such a credit if reinstated.
+
+
 ## Section 2
 > This section modifies existing section [36.70A.330](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
 
@@ -17,6 +37,16 @@
 4. In a compliance hearing upon petition of a party, the board shall also reconsider its final order and decide, if no determination of invalidity has been made, whether one now should be made under RCW 36.70A.302.
 
 5. The board shall schedule additional hearings as appropriate pursuant to subsections (1) and (2) of this section.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. The department shall offer training to assist local governments in understanding findings of noncompliance from the growth management hearings board pursuant to RCW 36.70A.300 and 36.70A.330 and applying prior decisions of the board to ongoing planning efforts to avoid findings of noncompliance.
+
+2. The department may award grants to a public agency with appropriate expertise and funded by local governments to provide the training required in subsection (1) of this section.
+
+3. The training provided in subsection (1) of this section is limited to counties that are largely rural.
 
 
 ## Section 4
@@ -107,4 +137,22 @@
 11. The board must implement policies and procedures designed to maximize local government consideration of other funds to finance local infrastructure.
 
 12. **The provisions in subsection (2) of this section do not apply to a county, city, or town applying for grants and loans under this chapter for projects that support broadband services where such grants and loans will assist the county, city, or town with economic development, disaster resiliency and response, adaptation to public health emergencies such as pandemics, and emergency management.**
+
+
+## Section 5
+> This section adds a new section to an existing chapter [43.160](/rcw/43_state_government—executive/43.160_economic_development—public_facilities_loans_and_grants.md). Here is the [modified chapter](rcw/43_state_government—executive/43.160_economic_development—public_facilities_loans_and_grants.md) for context.
+
+The board is prohibited from considering whether a county, city, or town is compliant with chapter 36.70A RCW when considering applications for broadband funding.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [80.36](/rcw/80_public_utilities/80.36_telecommunications.md). Here is the [modified chapter](rcw/80_public_utilities/80.36_telecommunications.md) for context.
+
+The commission is prohibited form considering whether a county, city, or town is compliant with chapter 36.70A RCW when considering applications for broadband funding.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [43.330](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+The department is prohibited from considering whether a county, city, or town is compliant with chapter 36.70A RCW when considering applications for broadband funding.
 

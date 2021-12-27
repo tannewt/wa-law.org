@@ -201,3 +201,48 @@ With respect to claims that have an effective date on or after January 4, 2004:
 
 ## Section 5
 If any part of sections 1 through 4 of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of sections 1 through 4 of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of sections 1 through 4 of this act. Rules adopted under sections 1 through 4 of this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [51.32](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
+
+1. For health care employees who are covered under this title, there exists a prima facie presumption that any infectious or contagious diseases which are the subject of a public health emergency are occupational diseases under RCW 51.08.140 during a public health emergency.
+
+2. The health care employee must provide verification, as required by the department by rule, to the department or the self-insurer that the employee is in quarantine or has contracted the disease after exposure to the infectious or contagious disease that is the subject of the public health emergency.
+
+3. This presumption of occupational disease may be rebutted by clear and convincing evidence that:
+
+    a. The exposure to the infectious or contagious disease which is the subject of the public health emergency occurred from other employment or nonemployment activities; or
+
+    b. The employee was working from the employee's home or other location not under the employer's control, on leave from the employee's employment, or some combination thereof, for the period of quarantine outlined for the disease immediately prior to the employee's date of disease contraction or period of incapacity resulting from exposure to the disease which is the subject of the public health emergency.
+
+4. [Empty]
+
+    a. RCW 51.32.090(7) does not apply to an occupational disease under this section except that no worker shall receive compensation for or during the day on which the occupational disease was contracted. For the purposes of this subsection (4), the day on which the occupational disease was contracted is whichever date occurs first of the following:
+
+        i. The date that the worker first missed work due to symptoms of the infectious or contagious disease;
+
+        ii. The date the worker was quarantined by a medical provider or public health official; or
+
+        iii. The date the worker received a positive test result confirming contraction of the infectious or contagious disease.
+
+    b. If leave or similar benefits are paid to the worker as part of a federal or state program for these employees during the public health emergency, total temporary disability benefits are not payable for the same period of time covered by this federal or state program.
+
+5. Costs of claims allowed under this section shall not affect the experience rating of employers insured by the state fund. When calculating assessments due to the department for which total claim costs are the basis, self-insured employers and self-insurance hospital groups formed under RCW 51.14.150 and 51.14.160 may deduct the cost of payments made under this section from the total of all claim costs reported.
+
+6. For purposes of this section:
+
+    a. "Health care employee" means an employee of any health care facility or other organization that provides emergency or medical services who has or likely has had direct contact with any person who has been exposed to or tested positive for any infectious or contagious diseases which are the subject of a public health emergency.
+
+    b. "Health care facility" has the same meaning as in RCW 9A.50.010.
+
+    c. "Public health emergency" means a declaration or order that covers the jurisdiction where the employee was working on the date of exposure concerning any dangerous, contagious, or infectious diseases, including a pandemic, and is issued as follows:
+
+        i. The president of the United States has declared a national or regional emergency; or
+
+        ii. The governor of Washington declared a state of emergency under RCW 43.06.010(12).
+
+7. The presumption in subsection (1) of this section takes effect on the day the national, regional, or state emergency is declared and continues until this declaration is revoked.
+
+8. The provisions of RCW 51.28.055 concerning time limits for filing claims for occupational disease apply to claims covered under this section.
+

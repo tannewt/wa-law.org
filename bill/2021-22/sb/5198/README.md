@@ -1,5 +1,6 @@
 # SB 5198 - Ambulances in rural areas
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5198&Year=2021)
+
 Easing ambulance restrictions in rural areas.
 
 ## Revisions

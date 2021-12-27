@@ -61,6 +61,42 @@
     b. **"Small business" has the same meaning as defined in RCW 39.26.010.**
 
 
+## Section 4
+> This section adds a new section to an existing chapter [39.24](/rcw/39_public_contracts_and_indebtedness/39.024_public_purchase_preferences.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.024_public_purchase_preferences.md) for context.
+
+1. State agencies must award at least three percent of all public contracts that are exempt from competitive bidding requirements under RCW 39.26.125 and 39.04.280 to small businesses.
+
+2. State agencies shall:
+
+    a. Perform outreach to small businesses in collaboration with the department of enterprise services to increase opportunities for small businesses to participate in state contracts; and
+
+    b. Report public contract information in the state enterprise procurement system or another format required by the department of enterprise services to establish how many contracts are being awarded to small businesses.
+
+3. For the purposes of this section:
+
+    a. "Agency" means any state agencies, departments, offices, divisions, boards, commissions, institutions of higher education as defined in RCW 28B.10.016, and correctional and other types of institutions.
+
+    b. "Small business" has the same meaning as defined in RCW 39.26.010.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+All public contracts entered into under this chapter on or after the effective date of this section are subject to the requirements established in section 4 of this act.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [39.04](/rcw/39_public_contracts_and_indebtedness/39.004_public_works.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.004_public_works.md) for context.
+
+All public contracts entered into under this chapter on or after the effective date of this section are subject to the requirements established in section 4 of this act.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [39.26](/rcw/39_public_contracts_and_indebtedness/39.026_procurement_of_goods_and_services.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.026_procurement_of_goods_and_services.md) for context.
+
+All public contracts entered into under this chapter on or after the effective date of this section are subject to the requirements established in section 4 of this act.
+
+
 ## Section 8
 > This section modifies existing section [39.80.040](/rcw/39_public_contracts_and_indebtedness/39.080_contracts_for_architectural_and_engineering_services.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.080_contracts_for_architectural_and_engineering_services.md) for context.
 

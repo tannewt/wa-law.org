@@ -2,9 +2,24 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1113-S.E.xml)
 ## Section 1
-(1) The legislature acknowledges that student absences from school can be an indicator that the academic and social-emotional needs of the students are not being met in the public school or classroom or through the school culture or climate. Student absences can also signal to educators that families may need additional information and assistance in supporting student learning within the home.
-(2) The legislature finds that as research and public awareness grows about the impact of school climate and culture on the academic and social-emotional experiences of students, the systems of public education must shift away from enforcing punitive, compliance-focused policies and toward enabling constructive, student-centered practices. The legislature further finds that a student-centered system of public education serves the individual needs of students with strong family engagement and through integrated supports provided by the state, public schools, and the greater community.
-(3) Therefore, the legislature intends to refocus the attendance policies and practices of the public education system to emphasize individualized student and family supports that are culturally responsive, evidence-informed, and show promising practice for integrating multiple systems of support to effectively improve consistent student attendance at school and family engagement in student learning.
+1. The legislature acknowledges that student absences from school can be an indicator that the academic and social-emotional needs of the students are not being met in the public school or classroom or through the school culture or climate. Student absences can also signal to educators that families may need additional information and assistance in supporting student learning within the home.
+
+2. The legislature finds that as research and public awareness grows about the impact of school climate and culture on the academic and social-emotional experiences of students, the systems of public education must shift away from enforcing punitive, compliance-focused policies and toward enabling constructive, student-centered practices. The legislature further finds that a student-centered system of public education serves the individual needs of students with strong family engagement and through integrated supports provided by the state, public schools, and the greater community.
+
+3. Therefore, the legislature intends to refocus the attendance policies and practices of the public education system to emphasize individualized student and family supports that are culturally responsive, evidence-informed, and show promising practice for integrating multiple systems of support to effectively improve consistent student attendance at school and family engagement in student learning.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.225](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+The office of the superintendent of public instruction shall develop and publish best practice guidance to eliminate or reduce student absences and to otherwise implement the requirements of this chapter. The guidance must focus on student and family engagement, be based in restorative justice practices, and emphasize integration of student and family support systems. The guidance must be developed in consultation with the educational opportunity gap oversight and accountability committee and updated periodically.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28A.225](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.
+
+The superintendent of public instruction may adopt rules necessary to carry out the purposes of this chapter.
+
 
 ## Section 4
 > This section modifies existing section [28A.225.015](/rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.225_compulsory_school_attendance_and_admission.md) for context.

@@ -193,8 +193,22 @@ Providing the death penalty for those who commit first degree murder: (a) To joi
 3. The department of children, youth, and families must review the placement of a person over age **21** in the custody of the department of children, youth, and families under this section to determine whether the person should be transferred to the custody of the department of corrections. The department of children, youth, and families may determine the frequency of the review required under this subsection, but the review must occur at least once before the person reaches age **23** if the person's commitment period in a juvenile institution extends beyond the person's **23rd** birthday.
 
 
+## Section 8
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. For any offender who is currently serving a sentence imposed prior to the effective date of this section involving multiple, consecutive firearm or deadly weapon enhancements under RCW 9.94A.533, either the offender or the applicable county prosecuting attorney may petition the sentencing court for resentencing on the basis that the consecutive enhancements no longer advance the interests of justice.
+
+2. The sentencing court may grant or deny a petition under this section. If the court grants a petition, the court shall resentence the offender in the same manner as if the offender had not previously been sentenced, except: The court may, in its discretion, order the firearm or deadly weapon enhancements to be served concurrently, regardless of the date of the offense; and the new sentence, if any, may not be greater than the initial sentence.
+
+3. If a resentencing hearing is scheduled pursuant to this section, the prosecuting attorney shall make reasonable efforts to notify victims and survivors of victims of the petition and the date of hearing. The prosecuting attorney shall provide victims and survivors of victims access to available victim advocates and other related services. The court shall provide an opportunity for victims and survivors of victims of any crimes for which the offender has been convicted to present a statement personally or by representation. The prosecuting attorney and the court shall comply with the requirements set forth in chapter 7.69 RCW.
+
+4. A resentencing under this section does not reopen a qualifying offender's conviction to challenges that would otherwise be barred.
+
+
 ## Section 10
 The changes to restrictions on partial confinement and earned early release for sentencing enhancements under sections 2, 4, and 5 of this act apply retroactively to offenders currently serving a sentence in any facility or institution either operated by the state or utilized under contract. Pursuant to RCW 9.94A.729, the department of corrections shall recalculate the earned release date for any qualifying offender, regardless of the date of sentencing or date of offense. For offenders whose offense was committed prior to the effective date of this section, the recalculation shall not extend a term of incarceration beyond that to which an offender is currently subject.
 
+
 ## Section 11
 The legislature declares that section 10 of this act does not create any liberty interest. The department of corrections' recalculations of earned release time do not create any expectation that the percentage of earned release time will be revised before the effective date of this section, and offenders have no reason to conclude that the maximum percentage of earned release time is an entitlement. The department of corrections has discretion to implement the retroactive changes to earned early release for qualifying offenders over a period of time not to exceed 12 months following the effective date of this section
+

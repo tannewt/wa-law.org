@@ -3,7 +3,79 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5345.SL.xml)
 ## Section 1
 The legislature finds that industrial symbiosis networks create valuable collaborative opportunities where the underutilized resources of one company, such as waste, by-products, residues, energy, water, logistics, capacity, expertise, equipment, and materials may be used by another. The legislature further finds that many existing businesses and organizations in the state have the potential to partner in the establishment of these networks, and the formation of industrial symbiosis innovation hubs at the state and local level would facilitate a systems approach that identifies business opportunities to improve resource utilization and productivity for a more sustainable and integrated industrial economy.
+
 Therefore, the legislature intends to establish a statewide industrial waste coordination program in order to nurture and coordinate existing industrial symbiosis efforts and to catalyze new industrial symbiosis opportunities. Furthermore, the legislature intends to establish the program in order to: Find ways of turning waste and by-products into valued resource inputs; reduce waste management costs; generate new business opportunities; increase the size and diversity of business networks; identify means of improving environmental performance; achieve environmental justice in goals and policies; incentivize pathways to family-wage, green jobs; expand the regional circular economy; and drive innovation.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.31](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
+
+1. An industrial waste coordination program is established in order to provide expertise, technical assistance, and best practices to support local industrial symbiosis projects.
+
+2. The industrial waste coordination program must be administered by the department of commerce and administered regionally, with each region provided with a dedicated facilitator and technical and administrative support.
+
+3. The industrial waste coordination program must facilitate waste exchange by:
+
+    a. Developing inventories of industrial waste innovation currently in operation;
+
+    b. Generating a material flow data collection system in order to capture and manage data on resource availability and potential synergies;
+
+    c. Establishing guidance and best practices for emerging local industrial resource hubs, which must include a consideration of steps to avoid creating or worsening negative impacts to overburdened communities as identified by tools such as the department of health's environmental health disparities map;
+
+    d. Identifying access to capital in order to fund projects, including federal, state, local, and private funding;
+
+    e. Developing economic, environmental, and health disparities metrics to measure the results of industrial or commercial hubs;
+
+    f. Hosting workshops and connecting regional businesses, governments, utilities, research institutions, and other organizations in order to identify opportunities for resource collaboration;
+
+    g. Assisting entities throughout the entire life cycle of industrial symbiosis projects, from identification of opportunities to full project implementation;
+
+    h. Developing economic cluster initiatives in order to spur growth and innovation; and
+
+    i. Making any additional recommendations to the legislature in order to incentivize and facilitate industrial symbiosis.
+
+4. The department of commerce may coordinate with other agencies, representatives of business and manufacturing networks, and other entities in order to develop material flow generation data and increase multisectoral outreach.
+
+5. In generating the material flow data collection system under subsections (3)(b) and (4) of this section, the department of commerce may only use publicly available data or data voluntarily provided by program participants. No entity may be required to disclose material flow data. The department of commerce must keep any proprietary business information confidential and such information is exempt from public disclosure, as provided in RCW 42.56.270.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [43.31](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, a competitive industrial symbiosis grant program is established in order to provide grants for the research, development, and deployment of local waste coordination projects.
+
+2. Grants may go towards:
+
+    a. Existing industrial symbiosis efforts by public or private sector organizations;
+
+    b. Emerging industrial symbiosis opportunities involving public or private sector organizations, including projects arising from:
+
+        i. The industrial waste coordination program established in section 2 of this act;
+
+        ii. Conceptual work completed by public utilities to redirect their wastes to productive use; or
+
+        iii. Existing inventories or project concepts involving specific biobased wastes converted to renewable natural gas;
+
+    c. Research on product development using a specific waste flow;
+
+    d. Feasibility studies to evaluate potential biobased resources;
+
+    e. Feasibility studies for publicly owned utilities to evaluate business models to transform to multiutility operations or for the evaluation of potential symbiosis connections with other regional businesses; or
+
+    f. Other local waste coordination projects as determined by the department of commerce.
+
+3. The department of commerce must develop a method and criteria for the allocation of grants, subject to the following:
+
+    a. Project allocation should reflect geographic diversity, with grants being distributed equally in western and eastern parts of the state, urban and rural areas, and small towns and large cities;
+
+    b. Project allocation should consider factors such as time to implementation and scale of economic or environmental benefits;
+
+    c. Grants must require a one-to-one nonstate to state match;
+
+    d. Individual grant awards may not exceed $500,000; and
+
+    e. Project allocation should avoid creating or worsening environmental health disparities and should make use of tools such as the department of health's environmental health disparities map.
+
 
 ## Section 4
 > This section modifies existing section [42.56.270](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
@@ -101,3 +173,4 @@ The following financial, commercial, and proprietary information is exempt from 
 
 ## Section 5
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

@@ -79,3 +79,4 @@
 
 ## Section 3
 Sections 1 and 2 of this act apply to taxes levied for collection in 2022 and thereafter.
+

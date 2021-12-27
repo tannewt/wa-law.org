@@ -107,3 +107,4 @@ A claimant may defer payment of special assessments and/or real property taxes o
 
 ## Section 5
 The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+

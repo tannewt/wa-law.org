@@ -4,6 +4,7 @@
 ## Section 1
 The legislature declared as state policy, in RCW 80.28.074, the preservation of affordable electric services to the residents of the state. The legislature finds that the COVID-19 pandemic has caused severe adverse economic impacts and made electric utility services unaffordable to many residents of the state as demonstrated by the growing number of customers with significant unpaid portions of their utility bills. The legislature finds that costs associated with legislation enacted prior to the COVID-19 pandemic will be incorporated into retail electric rates and exacerbate the financial hardship faced by electric utility customers. The legislature further finds that modest statutory changes are available that will reduce utility compliance costs with minimal to no impact on the fundamental goals of the legislation. The legislature therefore intends to provide certain temporary compliance relief to reduce costs to utilities and create financial support for utility customers economically impacted by COVID-19.
 
+
 ## Section 2
 > This section modifies existing section [19.285.040](/rcw/19_business_regulations—miscellaneous/19.285_energy_independence_act.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.285_energy_independence_act.md) for context.
 
@@ -164,3 +165,4 @@ The legislature declared as state policy, in RCW 80.28.074, the preservation of 
 
 ## Section 4
 All cost savings to utilities under this act must be used for financial support to utility customers that have been economically impacted by COVID-19.
+

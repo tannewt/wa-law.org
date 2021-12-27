@@ -4,20 +4,55 @@
 ## Section 1
 This act may be known and cited as "Zack's law."
 
+
 ## Section 2
-(1) The legislature intends state and local agencies to install signs on or near bridges to warn people of the dangers of diving or jumping off the bridge.
-(2) This law is enacted at the request of family and friends of Zachary Lee Rager and the Chehalis community in the expectation that better information on bridges will prevent future deaths. On March 23, 2021, Zachary Lee Rager jumped off a bridge in a location he had jumped from many times before during the summer months. Unfortunately, the colder water and conditions were different earlier in the year, and he did not survive.
-(3) The legislature finds that cold-water shock drowning can occur when the water temperature is below 70 degrees Fahrenheit. The temperature difference when a body is submerged in the colder water leads to involuntary gasping, inhalation of water, loss of mobility, and loss of consciousness. The ability to hold one's breath is substantially reduced to seconds rather than minutes. Many people may underestimate the conditions on a sunny and warm day, like Zachary Lee Rager did, and a sign that waters may still be too cold for swimming and facts about cold-water shock drowning could prevent future deaths.
-(4) The legislature recognizes that state agencies and local governments currently may install informational signs pursuant to RCW 47.42.050. This act creates a pathway so that governments may work with individuals and communities to provide more signs with location appropriate information in the expectation that more information will prevent future deaths.
-(5) Lastly, the legislature is directing state and local governments to consider installing informational signs about the hazards of diving or jumping under this act when they construct new bridges or replace existing infrastructure. The legislature recognizes that not every bridge will need such signs. The choice to install a sign is going to be specific to the location and an assessment of many different factors, including the size of the waterway, the height of the bridge, the communities' level of interest in having such signs, the physical layout of the bridge and surrounding terrain, the resources provided to pay for the bridge, and the likelihood of individuals to use that particular location to dive or jump.
+1. The legislature intends state and local agencies to install signs on or near bridges to warn people of the dangers of diving or jumping off the bridge.
+
+2. This law is enacted at the request of family and friends of Zachary Lee Rager and the Chehalis community in the expectation that better information on bridges will prevent future deaths. On March 23, 2021, Zachary Lee Rager jumped off a bridge in a location he had jumped from many times before during the summer months. Unfortunately, the colder water and conditions were different earlier in the year, and he did not survive.
+
+3. The legislature finds that cold-water shock drowning can occur when the water temperature is below 70 degrees Fahrenheit. The temperature difference when a body is submerged in the colder water leads to involuntary gasping, inhalation of water, loss of mobility, and loss of consciousness. The ability to hold one's breath is substantially reduced to seconds rather than minutes. Many people may underestimate the conditions on a sunny and warm day, like Zachary Lee Rager did, and a sign that waters may still be too cold for swimming and facts about cold-water shock drowning could prevent future deaths.
+
+4. The legislature recognizes that state agencies and local governments currently may install informational signs pursuant to RCW 47.42.050. This act creates a pathway so that governments may work with individuals and communities to provide more signs with location appropriate information in the expectation that more information will prevent future deaths.
+
+5. Lastly, the legislature is directing state and local governments to consider installing informational signs about the hazards of diving or jumping under this act when they construct new bridges or replace existing infrastructure. The legislature recognizes that not every bridge will need such signs. The choice to install a sign is going to be specific to the location and an assessment of many different factors, including the size of the waterway, the height of the bridge, the communities' level of interest in having such signs, the physical layout of the bridge and surrounding terrain, the resources provided to pay for the bridge, and the likelihood of individuals to use that particular location to dive or jump.
+
 
 ## Section 3
 On or before January 1, 2023, the Washington state parks and recreation commission must install a sign in memory of Zachary Lee Rager on or near the bridge on the Willapa trail that crosses the Chehalis river near old highway 603 providing information about the hazards of cold-water shock related to diving or jumping off the bridge.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [35.21](/rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.021_miscellaneous_provisions.md) for context.
+
+1. [Empty]
+
+    a. The executive officer, or a designated employee, with control of operations and maintenance of a bridge of any city or town may authorize the erection of informational signs near or attached to bridges providing location-specific information about the hazards of jumping with the goal of preventing future deaths. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs providing information on the hazards of cold-water shock that leads to drowning may be erected in locations where people might otherwise think a location is safe for swimming. Signs may include the statewide 988 suicide prevention hotline.
+
+    b. Any city or town responsible for the repair, replacement, and maintenance of bridges is encouraged to create a process where individuals may request the installation of an informational sign to address jumping off a bridge in locations that do not have such signs installed.
+
+    c. Signs created under this section may not conflict with provisions of the manual of uniform traffic control devices or existing state laws related to placement and design of signs that are placed along transportation corridors.
+
+    d. If a sign is to be located along a state highway or the interstate system, the department of transportation must be notified of the location prior to erecting the sign, but no permit is necessary.
+
+    e. Cities and towns may accept gifts or donations to pay for the creation, installation, or maintenance of signs under this section.
+
+2. This section applies prospectively.
+
+3. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the city or town if a sign has or has not been posted on its property.
+
 
 ## Section 5
 > This section modifies existing section [36.86.040](/rcw/36_counties/36.086_roads_and_bridges—standards.md). Here is the [modified chapter](rcw/36_counties/36.086_roads_and_bridges—standards.md) for context.
 
 The county legislative authority shall erect and maintain upon the county roads such suitable and proper signs, signals, signboards, and guideposts and appropriate stop, caution, warning, restrictive, and directional signs and markings as it deems necessary or as may be required by law. **This includes informational signs to address jumping from bridges as authorized in section 8 of this act.** All such markings shall be in accordance with the uniform state standard of color, design, erection, and location adopted and designed by the Washington state department of transportation. In respect to existing and future railroad grade crossings over county roads the legislative authority shall install and maintain standard, nonmechanical railroad approach warning signs on both sides of the railroad upon the approaches of the county road. All such signs shall be located a sufficient distance from the crossing to give adequate warning to persons traveling on county roads.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [47.04](/rcw/47_public_highways_and_transportation/47.04_general_provisions.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.04_general_provisions.md) for context.
+
+1. Before entering into any contract for the construction of or replacement of any bridge, excluding bridges that are replacing culverts that are barriers to fish passage, the secretary, or a designated employee, must consider whether to require the installation of informational signs that address the hazards of diving or jumping off the bridge as part of the contract. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs with information on the hazards of cold-water shock that leads to drowning are encouraged to be installed in locations where people might otherwise think a location is safe for swimming. Signs under this section may include the statewide 988 suicide prevention hotline.
+
+2. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the department if a sign has or has not been posted pursuant to this section.
 
 
 ## Section 7
@@ -70,6 +105,58 @@ Subsection (7) of this section notwithstanding, the department of transportation
 9. **Signs on or near bridges in accordance with section 8 of this act so long as they do not conflict with federal requirements.**
 
 Only signs of types 1, 2, 3, 7,  8**, and 9** may be erected or maintained within view of the scenic system. Signs of types 7 **,** 8**, and 9** may also be erected or maintained within view of the federal aid primary system.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [47.36](/rcw/47_public_highways_and_transportation/47.36_traffic_control_devices.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.36_traffic_control_devices.md) for context.
+
+1. [Empty]
+
+    a. The executive officer, or a designated employee, with control of operations and maintenance of a bridge of any county, city, town, or state agency may erect informational signs near or attached to bridges providing location-specific information about the hazards of diving or jumping from the location with the goal of preventing future deaths. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs providing information on the hazard of cold-water shock that leads to drowning may be erected in locations where people might otherwise think a location is safe for swimming. Signs may include the statewide 988 suicide prevention hotline.
+
+    b. Any county, city, town, or state agency responsible for the repair, replacement, and maintenance of bridges are encouraged to create a process where individuals may request the installation of an informational sign pursuant to this section in locations that do not have such signs erected.
+
+    c. Signs created under this section may not conflict with provisions of the manual of uniform traffic control devices or existing state laws related to placement and design of signs that are placed along transportation corridors.
+
+    d. If a sign is to be located along a state highway or the interstate system, the department of transportation must be notified of the location prior to erecting the sign, but no permit is necessary.
+
+    e. State and local government agencies are authorized to accept gifts or donations to pay for the erection of signs under this section.
+
+2. This section applies prospectively.
+
+3. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the owner of a government facility if a sign has or has not been posted on its property.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [53.08](/rcw/53_port_districts/53.08_powers.md). Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
+
+1. Before entering into any contract for the construction of or replacement of any bridge on port controlled land, the port's executive officer must consider whether to require the installation of informational signs that address the hazards of diving or jumping off the bridge as part of the contract. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs with information on the hazard of cold-water shock that leads to drowning are encouraged to be installed in locations where people might otherwise think a location is safe for swimming. Signs under this section may include the statewide 988 suicide prevention hotline.
+
+2. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the port if a sign has or has not been erected on its property.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [77.12](/rcw/77_fish_and_wildlife/77.012_powers_and_duties.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.012_powers_and_duties.md) for context.
+
+1. Before entering into any contract for the construction of or replacement of any bridge on department controlled land, the director must consider whether to require the installation of informational signs that address the hazards of diving or jumping off the bridge as part of the contract. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs with information on the hazard of cold-water shock that leads to drowning are encouraged to be installed in locations where people might otherwise think a location is safe for swimming. Signs under this section may include the statewide 988 suicide prevention hotline.
+
+2. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the department if a sign has or has not been erected on its property.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [79.10](/rcw/79_public_lands/79.010_land_management_authorities_and_policies.md). Here is the [modified chapter](rcw/79_public_lands/79.010_land_management_authorities_and_policies.md) for context.
+
+1. Before entering into any contract for the construction of or replacement of any bridge on department controlled land, the commissioner must consider whether to require the installation of informational signs that address the hazard of diving or jumping off the bridge as part of the contract. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs with information on the hazard of cold-water shock that leads to drowning are encouraged to be installed in locations where people might otherwise think a location is safe for swimming. Signs under this section may include the statewide 988 suicide prevention hotline.
+
+2. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the department if a sign has or has not been posted on its property.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [79A.05](/rcw/79A_public_recreational_lands/79A.05_parks_and_recreation_commission.md). Here is the [modified chapter](rcw/79A_public_recreational_lands/79A.05_parks_and_recreation_commission.md) for context.
+
+1. Before entering into any contract for the construction of or replacement of any bridge on land controlled by the Washington state parks and recreation commission, the director of the state parks and recreation commission must consider whether to require the installation of informational signs that address the hazards of diving or jumping off the bridge as part of the contract. These signs are meant to provide more information than just a "no jumping" sign so that people can better understand the hazards related to a particular location. Signs with information on the hazard of cold-water shock that leads to drowning are encouraged to be installed in locations where people might otherwise think a location is safe for swimming. Signs under this section may include the statewide 988 suicide prevention hotline.
+
+2. Nothing contained in this section confers a right of action in cases where no right of action exists independent of this section. This section does not create a private right of action by any party and may not be used to impose liability on the Washington state parks and recreation commission if a sign has or has not been erected on its property.
 
 
 ## Section 13

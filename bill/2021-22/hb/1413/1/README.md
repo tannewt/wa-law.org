@@ -3,11 +3,17 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1413.xml)
 ## Section 1
 The legislature intends to:
-(1) Give real effect to the juvenile justice system's express goals of rehabilitation and reintegration;
-(2) Bring Washington in line with the majority of states, which do not consider prior juvenile offenses in sentencing range calculations for adults;
-(3) Recognize the expansive body of scientific research on brain development, which shows that adolescent's perception, judgment, and decision making differs significantly from that of adults;
-(4) Facilitate the provision of due process by granting the procedural protections of a criminal proceeding in any adjudication which may be used to determine the severity of a criminal sentence; and
-(5) Recognize how grave disproportionality within the juvenile legal system may subsequently impact sentencing ranges in adult court.
+
+1. Give real effect to the juvenile justice system's express goals of rehabilitation and reintegration;
+
+2. Bring Washington in line with the majority of states, which do not consider prior juvenile offenses in sentencing range calculations for adults;
+
+3. Recognize the expansive body of scientific research on brain development, which shows that adolescent's perception, judgment, and decision making differs significantly from that of adults;
+
+4. Facilitate the provision of due process by granting the procedural protections of a criminal proceeding in any adjudication which may be used to determine the severity of a criminal sentence; and
+
+5. Recognize how grave disproportionality within the juvenile legal system may subsequently impact sentencing ranges in adult court.
+
 
 ## Section 2
 > This section modifies existing section [9.94A.525](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
@@ -91,4 +97,14 @@ and
     c. Count one point for each  prior conviction for a repetitive domestic violence offense as defined in RCW 9.94A.030, where domestic violence as defined in RCW 9.94A.030, was pleaded and proven after August 1, 2011.
 
 22. The fact that a prior conviction was not included in an offender's offender score or criminal history at a previous sentencing shall have no bearing on whether it is included in the criminal history or offender score for the current offense. Prior convictions that were not counted in the offender score or included in criminal history under repealed or previous versions of the sentencing reform act shall be included in criminal history and shall count in the offender score if the current version of the sentencing reform act requires including or counting those convictions. Prior convictions that were not included in criminal history or in the offender score shall be included upon any resentencing to ensure imposition of an accurate sentence.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Any offender sentenced for an offense committed prior to the effective date of this section, and whose offender score for that offense was increased due to any juvenile adjudications, is entitled to a resentencing hearing upon the offender's motion for relief from sentence to the original sentencing court.
+
+2. The sentencing court shall grant the motion if it finds that the previous offender score was increased due to any juvenile adjudications and shall immediately set an expedited date for resentencing. At resentencing, the court shall sentence the offender as if any juvenile adjudications were not part of the offender score at the time the original sentence was imposed.
+
+3. This section expires July 1, 2025.
 

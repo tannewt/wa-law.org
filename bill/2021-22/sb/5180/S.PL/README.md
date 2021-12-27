@@ -31,6 +31,38 @@
     b. A conviction vacated on or after July 28, 2019, qualifies as a prior conviction for the purpose of charging a present recidivist offense occurring on or after July 28, 2019, and may be used to establish an ongoing pattern of abuse for purposes of RCW 9.94A.535.
 
 
+## Section 3
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. [Empty]
+
+    a. A victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; sexual assault; or domestic violence as defined in RCW 9.94A.030 may apply to the sentencing court or the sentencing court's successor to vacate the victim's record of conviction for a class B or class C felony offense.
+
+    b. The prosecutor of a county in which a victim of sex trafficking, prostitution, commercial sexual abuse of a minor; sexual assault; or domestic violence was sentenced for a class B or class C felony offense may exercise discretion to apply to the court on behalf of the state recommending that the court vacate the victim's record of conviction by submitting the information required in subsection (2) of this section. If the court finds the application meets the requirements of subsection (2) of this section, the court may decide whether to grant the application to vacate the record.
+
+2. In order to vacate a record of conviction for a class B or class C felony offense committed as a result of being a victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; domestic violence; or sexual assault, the applicant must meet the following requirements:
+
+    a. Provide an affidavit under penalty of perjury stating the specific facts and circumstances proving, by a preponderance of evidence, that the offense was committed as a result of being a victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; domestic violence; or sexual assault;
+
+    b. There are no criminal charges against the applicant pending in any court of this state or another state, or in any federal court for any offense other than prostitution;
+
+    c. If the victim's offense is a class C felony, the offender has not been convicted of a new offense in this state, another state, or federal or tribal court in the five years prior to the vacation application;
+
+    d. If the victim's offense is a class B felony, the offender has not been convicted of a new offense in this state, another state, or federal or tribal court in the 10 years prior to the vacation application;
+
+    e. Provide proof that the crime victim penalty assessment, RCW 7.68.035, has been paid in full; and
+
+    f. If applicable, restitution owed to any victim, excluding restitution owed to any insurance provider under Title 48 RCW, has been paid in full.
+
+3. An applicant may not have a record of conviction for a class B or class C felony offense vacated if:
+
+    a. The offense was a violent offense as defined in RCW 9.94A.030 or crime against persons as defined in RCW 43.43.830, except the following offenses may be vacated if the conviction did not include a firearm, deadly weapon, or sexual motivation enhancement: (i) Assault in the second degree under RCW 9A.36.021; (ii) assault in the third degree under RCW 9A.36.031 when not committed against a law enforcement officer or peace officer; and (iii) robbery in the second degree under RCW 9A.56.210;
+
+    b. The offense was a felony described in RCW 46.61.502, 46.61.504, or 46.61.5055; or
+
+    c. The offense was promoting prostitution in the first or second degree as described in RCW 9A.88.070 and 9A.88.080.
+
+
 ## Section 4
 > This section modifies existing section [9.96.060](/rcw/09_crimes_and_punishments/9.096_restoration_of_civil_rights.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.096_restoration_of_civil_rights.md) for context.
 
@@ -87,4 +119,34 @@
     c. A conviction vacated on or after July 28, 2019, qualifies as a prior conviction for the purpose of charging a present recidivist offense as defined in RCW 9.94A.030 occurring on or after July 28, 2019.
 
 8. The clerk of the court in which the vacation order is entered shall immediately transmit the order vacating the conviction to the Washington state patrol identification section and to the local police agency, if any, which holds criminal history information for the person who is the subject of the conviction. The Washington state patrol and any such local police agency shall immediately update their records to reflect the vacation of the conviction, and shall transmit the order vacating the conviction to the federal bureau of investigation. A conviction that has been vacated under this section may not be disseminated or disclosed by the state patrol or local law enforcement agency to any person, except other criminal justice enforcement agencies.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [9.96](/rcw/09_crimes_and_punishments/9.096_restoration_of_civil_rights.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.096_restoration_of_civil_rights.md) for context.
+
+1. [Empty]
+
+    a. A victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; sexual assault; or domestic violence, as defined in RCW 9.94A.030 may apply to the sentencing court or the sentencing court's successor to vacate the applicant's record of conviction for the offense; or
+
+    b. The prosecutor of a county or municipality in which a victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; sexual assault; or domestic violence was sentenced for a misdemeanor or gross misdemeanor offense may exercise discretion to apply to the court on behalf of the state recommending that the court vacate the victim's record of conviction by submitting the information required in subsection (2) of this section. If the court finds the application meets the requirements of subsection (2) of this section, the court may decide whether to grant the application to vacate the record.
+
+2. In order to vacate a record of conviction for a gross misdemeanor or misdemeanor offense committed as a result of being a victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; sexual assault; or domestic violence as defined in RCW 9.94A.030, the applicant must meet the following requirements:
+
+    a. Provide an affidavit, under penalty of perjury, stating the specific facts and circumstances proving, by a preponderance of evidence that the offense was committed as a result of being a victim of sex trafficking, prostitution, or commercial sexual abuse of a minor; sexual assault; or domestic violence as defined in RCW 9.94A.030;
+
+    b. There are no criminal charges against the applicant pending in any court of this state or another state, or in any federal court for any crime other than prostitution;
+
+    c. If the offense is a misdemeanor, the offender has not been convicted of a new crime in this state, another state, or federal or tribal court in the three years prior to the vacation application;
+
+    d. Except where the conviction to be vacated is for the crime of prostitution, prostitution loitering, or stay out of area of prostitution, provide proof that the crime victim penalty assessment, RCW 7.68.035, has been paid in full;
+
+    e. If applicable, restitution owed to any victim, excluding restitution owed to any insurance provider under Title 48 RCW, has been paid in full.
+
+3. An applicant may not have a record of conviction for a gross misdemeanor or misdemeanor offense vacated if:
+
+    a. The offense was any misdemeanor or gross misdemeanor violation, including attempt, of chapter 9.68 RCW (obscenity and pornography), chapter 9.68A RCW (sexual exploitation of children), or chapter 9A.44 RCW (sex offenses), except for failure to register as a sex offender under RCW 9A.44.132;
+
+    b. The offense was a conviction as described in RCW 46.61.5055; or
+
+    c. The offense was patronizing a prostitute as described in RCW 9A.88.110.
 

@@ -40,5 +40,7 @@
 ## Section 2
 Section 1 of this act expires on the effective date of legislation enacted by the legislature that imposes a vehicle miles traveled fee or tax. However, for purposes of this section, the establishment of a voluntary early adoption program described in chapter . . . (Senate Bill No. 5444), Laws of 2021 (per mile fee) does not constitute legislation that imposes a vehicle miles traveled fee or tax.
 
+
 ## Section 3
 The department of licensing must provide written notice of the expiration date of section 1 of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department.
+

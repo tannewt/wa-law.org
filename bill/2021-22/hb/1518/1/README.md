@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that there are environmental advantages to having state agencies purchase paper that is produced in a manner that reduces carbon dioxide to combat climate change.
 
+
 ## Section 3
 > This section modifies existing section [43.19A.022](/rcw/43_state_government—executive/43.019A_recycled_product_procurement.md). Here is the [modified chapter](rcw/43_state_government—executive/43.019A_recycled_product_procurement.md) for context.
 

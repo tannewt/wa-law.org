@@ -197,6 +197,12 @@ If a judgment and sentence or subsequent order to pay does not include the state
 8. For purposes of this section, "domestic violence" means the same as in RCW 10.99.020.
 
 
+## Section 8
+> This section adds a new section to an existing chapter [10.01](/rcw/10_criminal_procedure/10.001_general_provisions.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.001_general_provisions.md) for context.
+
+A defendant who has been ordered to pay fines and who has not willfully failed to pay the obligation, as described in RCW 9.94A.6333 and 9.94B.040, may at any time petition the sentencing court for remission of the payment of fines or of any unpaid portion thereof. If it appears to the satisfaction of the court that payment of the amount due will impose manifest hardship on the defendant or the defendant's immediate family, the court may remit all or part of the amount due in fines, modify the method of payment under RCW 10.01.170, or convert the unpaid amounts to community restitution hours, if the jurisdiction operates a community restitution program, at the rate of no less than the state minimum wage established in RCW 49.46.020 for each hour of community restitution. Manifest hardship exists where the defendant is indigent as defined in RCW 10.01.160(3).
+
+
 ## Section 9
 > This section modifies existing section [10.01.160](/rcw/10_criminal_procedure/10.001_general_provisions.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.001_general_provisions.md) for context.
 
@@ -523,6 +529,12 @@ Upon conviction or a plea of guilty in any court organized under this title or T
     b. As of June 7, 2018, penalties, fines, bail forfeitures, fees, and costs imposed against a defendant in a criminal proceeding shall not accrue interest. **All nonrestitution interest that accrued prior to June 7, 2018, shall be automatically waived without motion of the defendant.**
 
 5. Interest retained by the court on penalties, fines, bail forfeitures, fees, and costs shall be split **25** percent to the state treasurer for deposit in the state general fund, **25** percent to the state treasurer for deposit in the judicial information system account as provided in RCW 2.68.020, **25** percent to the city general fund, and **25** percent to the city general fund to fund local courts.
+
+
+## Section 24
+> This section adds a new section to an existing chapter [3.66](/rcw/03_district_courts—courts_of_limited_jurisdiction/3.66_jurisdiction_and_venue.md). Here is the [modified chapter](rcw/03_district_courts—courts_of_limited_jurisdiction/3.66_jurisdiction_and_venue.md) for context.
+
+"Legal financial obligation" means a sum of money that is ordered by a district or municipal court of the state of Washington for legal financial obligations which may include restitution to the victim, statutorily imposed crime victims' compensation fees as assessed pursuant to RCW 7.68.035, court costs, county or interlocal drug funds, court-appointed attorneys' fees, and costs of defense, fines, and any other financial obligation that is assessed to the offender as a result of a conviction. Upon conviction for vehicular assault while under the influence of intoxicating liquor or any drug, RCW 46.61.522(1)(b), legal financial obligations may also include payment to a public agency of the expense of an emergency response to the incident resulting in the conviction, subject to RCW 38.52.430.
 
 
 ## Section 25

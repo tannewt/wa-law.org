@@ -34,6 +34,13 @@
 ## Section 2
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
 
+
+## Section 3
+> This section adds a new section to an existing chapter [74.08A](/rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md). Here is the [modified chapter](rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md) for context.
+
+All families who have received temporary assistance for needy families since March 1, 2020, are eligible for the extension under RCW 74.08A.010(5)(a)(i)(B), regardless of whether they are current recipients. Eligible families shall only receive temporary assistance for needy families benefits that accrue after the effective date of this act.
+
+
 ## Section 4
 This act takes effect July 1, 2023, only if
 specific funding for extending the 60-month time limit through the
@@ -43,3 +50,4 @@ time limit through the 2021-2023 biennium is not provided by June 30,
 2021, in the omnibus appropriations act, this act takes effect 90 days
 after final adjournment of the legislative session in which it is
 enacted.
+

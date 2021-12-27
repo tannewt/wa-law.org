@@ -4,6 +4,7 @@
 ## Section 1
 This act may be known and cited as Evitan's law.
 
+
 ## Section 2
 > This section modifies existing section [28A.230.120](/rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
 

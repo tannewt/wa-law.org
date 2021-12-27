@@ -1,5 +1,6 @@
 # SB 5032 - Alt public works contracting
-*Status: Effective date 5/10/2021.*
+*Status: Effective date 5/10/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5032&Year=2021)
+
 Concerning the reauthorization and improvements to alternative public works contracting procedures.
 
 ## Revisions

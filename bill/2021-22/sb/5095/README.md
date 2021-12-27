@@ -1,5 +1,6 @@
 # SB 5095 - Pistol license records
-*Status: First reading, referred to State Government & Elections.*
+*Status: First reading, referred to State Government & Elections.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5095&Year=2021)
+
 Concerning public records act exemptions regarding concealed pistol licenses.
 
 ## Revisions

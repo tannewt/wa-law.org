@@ -1,5 +1,6 @@
 # SB 5163 - Conditionally released SVPs
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5163&Year=2021)
+
 Concerning the placement and treatment of conditionally released sexually violent predators.
 
 ## Revisions

@@ -1,5 +1,6 @@
 # SB 5009 - Public expression protection
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5009&Year=2021)
+
 Enacting the uniform public expression protection act.
 
 ## Revisions

@@ -2,10 +2,14 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5464.xml)
 ## Section 1
-(1) Education is a constitutional right for children residing in Washington state. The often cited paramount duty provision in our state Constitution reflects a proud tradition that values the dignity of education and the worth of every child regardless of background or circumstance.
-(2) Scientific research and firsthand reports show that extended closure of schools hurts our students academically and emotionally. Experts in the field and parents on the ground all share the same concern: In addition to academic challenges, students prevented from the option of in-person learning are denied vital emotional connections they need to learn and develop. The harms are real and long-lasting.
-(3) The right to the option of in-person learning needs to be codified for the academic, emotional, and physical well-being of our children and to conform with the paramount duty provision in our state Constitution.
-(4) It is the intent of this act to codify that right to the option of in-person learning for students and ensure that closures of longer than 10 days can only be ordered in times of emergency by the governor, secretary of health, or a local health officer.
+1. Education is a constitutional right for children residing in Washington state. The often cited paramount duty provision in our state Constitution reflects a proud tradition that values the dignity of education and the worth of every child regardless of background or circumstance.
+
+2. Scientific research and firsthand reports show that extended closure of schools hurts our students academically and emotionally. Experts in the field and parents on the ground all share the same concern: In addition to academic challenges, students prevented from the option of in-person learning are denied vital emotional connections they need to learn and develop. The harms are real and long-lasting.
+
+3. The right to the option of in-person learning needs to be codified for the academic, emotional, and physical well-being of our children and to conform with the paramount duty provision in our state Constitution.
+
+4. It is the intent of this act to codify that right to the option of in-person learning for students and ensure that closures of longer than 10 days can only be ordered in times of emergency by the governor, secretary of health, or a local health officer.
+
 
 ## Section 2
 > This section modifies existing section [28A.335.030](/rcw/28A_common_school_provisions/28A.335_school_districts_property.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.335_school_districts_property.md) for context.

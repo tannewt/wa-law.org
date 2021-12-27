@@ -1,5 +1,6 @@
 # SB 5190 - Health care workers/benefits
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5190&Year=2021)
+
 Providing health care workers with presumptive benefits during a public health emergency.
 
 ## Revisions

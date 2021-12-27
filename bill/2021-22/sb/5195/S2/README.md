@@ -2,14 +2,22 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5195-S2.xml)
 ## Section 1
-(1) The legislature finds that:
-(a) Opioid use disorder is a treatable brain disease from which people recover;
-(b) Individuals living with opioid use disorder are at high risk for fatal overdose;
-(c) Overdose deaths are preventable with lifesaving opioid overdose reversal medications like naloxone;
-(d) Just as individuals with life-threatening allergies should carry an EpiPen, individuals with opioid use disorder should carry opioid overdose reversal medication;
-(e) There are 53,000 individuals in Washington enrolled in apple health, Washington's medicaid program, that have a diagnosis of opioid use disorder and yet there are alarmingly few medicaid claims for opioid overdose reversal medication; and
-(f) Most of the opioid overdose reversal medication distributed in Washington is currently paid for with flexible federal and state dollars and distributed in bulk, rather than appropriately billed to a patient's insurance. Those finite flexible funds should instead be used for nonmedicaid eligible expenses or for opioid overdose reversal medication distributed in nonmedicaid eligible settings or to nonmedicaid eligible persons. The state's current methods for acquisition and distribution of opioid overdose reversal medication are not sustainable and insufficient to reach all Washingtonians living with opioid use disorder.
-(2) Therefore, it is the intent of the legislature to increase access for all individuals with opioid use disorder to opioid overdose reversal medication so that if they experience an overdose, they will have a second chance. As long as there is breath, there is hope for recovery.
+1. The legislature finds that:
+
+    a. Opioid use disorder is a treatable brain disease from which people recover;
+
+    b. Individuals living with opioid use disorder are at high risk for fatal overdose;
+
+    c. Overdose deaths are preventable with lifesaving opioid overdose reversal medications like naloxone;
+
+    d. Just as individuals with life-threatening allergies should carry an EpiPen, individuals with opioid use disorder should carry opioid overdose reversal medication;
+
+    e. There are 53,000 individuals in Washington enrolled in apple health, Washington's medicaid program, that have a diagnosis of opioid use disorder and yet there are alarmingly few medicaid claims for opioid overdose reversal medication; and
+
+    f. Most of the opioid overdose reversal medication distributed in Washington is currently paid for with flexible federal and state dollars and distributed in bulk, rather than appropriately billed to a patient's insurance. Those finite flexible funds should instead be used for nonmedicaid eligible expenses or for opioid overdose reversal medication distributed in nonmedicaid eligible settings or to nonmedicaid eligible persons. The state's current methods for acquisition and distribution of opioid overdose reversal medication are not sustainable and insufficient to reach all Washingtonians living with opioid use disorder.
+
+2. Therefore, it is the intent of the legislature to increase access for all individuals with opioid use disorder to opioid overdose reversal medication so that if they experience an overdose, they will have a second chance. As long as there is breath, there is hope for recovery.
+
 
 ## Section 2
 > This section modifies existing section [70.41.480](/rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md) for context.
@@ -57,4 +65,72 @@
     d. "Practitioner" means any person duly authorized by law or rule in the state of Washington to prescribe drugs as defined in RCW 18.64.011(29).
 
     e. "Nurse" means a registered nurse as defined in RCW 18.79.020.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [70.41](/rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md) for context.
+
+1. A hospital shall provide a person who presents to an emergency department with symptoms of an opioid overdose, opioid use disorder, or other adverse event related to opioid use with opioid overdose reversal medication upon discharge, unless the treating practitioner determines in their clinical and professional judgment that dispensing opioid overdose reversal medication is not appropriate or is not needed. If the hospital dispenses opioid overdose reversal medication it shall provide directions for use.
+
+2. The opioid overdose reversal medication may be dispensed with technology used to dispense medications.
+
+3. Effective January 1, 2022, a person who is provided opioid overdose reversal medication under this section must be provided information and resources about medication for opioid use disorder and harm reduction strategies and services which may be available, such as substance use disorder treatment services and substance use disorder peer counselors. This information should be available in all languages relevant to the communities that the hospital serves.
+
+4. The labeling requirements of RCW 69.41.050 and 18.64.246 do not apply to opioid overdose reversal medications dispensed or delivered in accordance with this section.
+
+5. [Empty]
+
+    a. If the patient is enrolled in medical assistance programs under chapter 74.09 RCW, the hospital must bill the patient's medicaid benefit for the patient's opioid overdose reversal medication utilizing the appropriate billing codes established by the health care authority. This billing shall be separate from and in addition to the payment for the other services provided during the hospital visit.
+
+    b. If the patient has available insurance coverage other than medical assistance under chapter 74.09 RCW, the hospital shall bill the patient's insurance for the cost of the opioid overdose reversal medication.
+
+    c. Medicaid managed care organizations shall reimburse hospitals for dispensing opioid overdose reversal medication under this section to patients enrolled in medical assistance under chapter 74.09 RCW. If the person is not enrolled in medical assistance and does not have any other available insurance coverage, the Washington state health care authority shall reimburse the hospital.
+
+    d. This section does not prohibit a hospital from dispensing opioid overdose reversal medication to a patient at no cost to the patient out of the hospital's prepurchased supply.
+
+6. Nothing in this section prohibits or modifies a hospital's ability or responsibility to bill a patient's health insurance or to provide financial assistance as required by state or federal law.
+
+7. A hospital, its employees, and its practitioners are immune from suit in any action, civil or criminal, or from professional or other disciplinary action, for action or inaction in compliance with this section.
+
+8. For purposes of this section:
+
+    a. "Opioid overdose reversal medication" has the meaning provided in RCW 69.41.095.
+
+    b. "Practitioner" has the meaning provided in RCW 18.64.011.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. During an intake, discharge, or outpatient treatment plan review for any client presenting with symptoms of an opioid use disorder, or who reports recent use of opioids outside legal authority, all outpatient community mental health agencies that provide individual treatment, outpatient substance use disorder providers, residential substance use disorder providers, withdrawal management providers, secure withdrawal management and stabilization facility providers, and opioid treatment programs shall:
+
+    a. Confirm that the client has opioid overdose reversal medication; or
+
+    b. If a client does not possess opioid overdose reversal medication, unless the behavioral health agency determines using clinical and professional judgment that opioid overdose reversal medication is not appropriate or not needed, prescribe the client opioid overdose reversal medication or utilize the statewide naloxone standing order and assist the client in directly obtaining opioid overdose reversal medication as soon as practical by:
+
+        i. Directly dispensing the opioid overdose reversal medication, if authorized by state law;
+
+        ii. Partnering with a pharmacy to obtain the opioid overdose reversal medication on the client's behalf and distributing the opioid overdose reversal medication to the client;
+
+        iii. Assisting the client in utilizing a mail order pharmacy or pharmacy that mails prescription drugs directly to the facility, provider, or client and distributing the opioid overdose reversal medication to the client, if necessary; or
+
+        iv. Any other means authorized by state law to ensure that the client has opioid overdose reversal medication.
+
+2. If a behavioral health agency listed in subsection (1) of this section prescribes opioid overdose reversal medication or utilizes the statewide naloxone standing order and assists the client in directly obtaining the opioid overdose reversal medication, the program or provider shall bill the client's insurance to the extent possible if the client has health insurance coverage.
+
+3. The labeling requirements of RCW 69.41.050 and 18.64.246 do not apply to opioid overdose reversal medications dispensed or delivered in accordance with this section.
+
+4. The individual or entity that dispenses, distributes, or delivers an opioid reversal medication in accordance with this section shall ensure that the directions for use are provided.
+
+5. A behavioral health agency, and its employees and practitioners, are immune from suit in any action, civil or criminal, or from professional or other disciplinary action, for action or inaction in compliance with this section.
+
+6. For purposes of this section, "opioid overdose reversal medication" has the meaning provided in RCW 69.41.095.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [74.09](/rcw/74_public_assistance/74.09_medical_care.md). Here is the [modified chapter](rcw/74_public_assistance/74.09_medical_care.md) for context.
+
+1. The authority, in consultation with the department of health and the office of the insurance commissioner, shall provide technical assistance to hospitals and community behavioral health agencies to assist these entities and providers in complying with sections 3 and 4 of this act.
+
+2. The authority shall develop written materials in all relevant languages for each hospital to comply with section 3 of this act, including directions for the use of opioid overdose reversal medication, and provide them to all hospitals by January 1, 2022.
 

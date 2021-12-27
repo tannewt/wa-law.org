@@ -2,7 +2,74 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1293.xml)
 ## Section 1
-This act shall be known and cited as the survivors justice act. 
+This act shall be known and cited as the survivors justice act.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Notwithstanding any other provision of this chapter, the court may reduce any term of incarceration or other criminal penalties under this chapter or impose available alternatives as provided under subsection (3) of this section when sentencing any defendant for one or more crimes where: The defendant is a survivor of domestic violence committed by an intimate partner; the domestic violence suffered by the defendant was a significant contributing factor to the defendant's criminal conduct; and the generally applicable sentencing requirements under this chapter would be unduly harsh given the nature and circumstances of the crime and the history, character, and condition of the defendant.
+
+2. [Empty]
+
+    a. Prior to reducing a term of incarceration or imposing alternatives under this section, the court shall make findings as to whether the defendant qualifies under this section. The court may determine a defendant qualifies under this section regardless if the defendant previously raised any defense related to the domestic violence.
+
+    b. The court may consider the following when making its finding as to whether the domestic violence suffered by the defendant was a significant contributing factor to his or her criminal conduct: Whether the defendant is being sentenced for a crime against an intimate partner who committed domestic violence against the defendant; whether, at any point in time, the defendant has been diagnosed with or treated for any behavioral health condition related to prior victimization; evidence that the defendant's prior victimization has affected how the defendant perceives their safety and security; evidence that the defendant's prior victimization has affected how the defendant perceives their ability to receive help through law enforcement or other government entities; evidence that the defendant's prior victimization has limited the defendant's ability to achieve financial independence; and any other factors deemed relevant by the court.
+
+    c. In making findings under this section, the court may consider any of the following: Oral and written arguments; a written statement from the defendant; testimony from the defendant or from witnesses offered by either party; written statements from third parties regarding whether the defendant is a survivor of domestic violence, sexual assault, or stalking including, but not limited to, statements from a mental health or victim service provider or school administrator or teacher; medical records and documents; physical evidence; copies of restraining, antiharassment, or protection orders; police reports; recordings of 911 calls; expert testimony; and any other relevant evidence.
+
+3. If the court finds that a defendant qualifies under this section, the court may, in its discretion:
+
+    a. Impose a sentence below the standard range under RCW 9.94A.510, and below any mandatory minimum terms under RCW 9.94A.540 and 9.94A.570;
+
+    b. Depart downward from any sentencing enhancements under RCW 9.94A.533; or
+
+    c. Impose the sentencing alternative under section 3 of this act.
+
+4. Nothing in this section modifies the authority of the court to impose any other available sentencing alternatives for a qualifying defendant including, but not limited to, alternatives under RCW 9.94A.650, 9.94A.655, 9.94A.660, 9.94A.670, or 9.94A.711.
+
+5. For the purposes of this section:
+
+    a. "Domestic violence" has the same meaning as provided in RCW 26.50.010.
+
+    b. "Intimate partner" has the same meaning as provided in RCW 26.50.010.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. A person is eligible for the sentencing alternative under this section if the court finds that he or she meets the criteria under section 2 of this act. To assist the court in determining whether the alternative is appropriate for the defendant, the court may order the department to complete a risk assessment report or a chemical dependency screening report as provided in RCW 9.94A.500.
+
+2. If the sentencing court determines that the person is eligible for the sentencing alternative under this section and that the sentencing alternative is appropriate and should be imposed, the court shall waive the sentence within the standard sentence range and any applicable enhancements, and instead impose: A reduced term of confinement with an extended term of community custody, as determined by the court; or waive the term of confinement and impose an extended term of community custody. The court has complete discretion to determine the term of incarceration and community custody, provided that the combined length of both does not exceed the standard range and enhancements applicable to the underlying crime or crimes for which the defendant has been convicted. For the term of community custody, the court may impose conditions as provided in RCW 9.94A.703 and may impose other affirmative conditions as the court considers appropriate, and the department may impose conditions and sanctions as authorized in RCW 9.94A.704 and 9.94A.737.
+
+3. For any person serving a term of community custody under this section:
+
+    a. The department shall report to the court if the person commits any violations of the conditions imposed by the court or the department;
+
+    b. The court may order the person to report to court at any time during the period of community custody in order to evaluate the person's compliance or progress with his or her conditions, or to determine if any violations of the conditions have occurred;
+
+    c. The court may modify the conditions of community custody or impose sanctions for violations, including extending the term of community custody; and
+
+    d. The court may order the person to serve a term of total confinement within the standard range for the offense at any time during the period of community custody, if the person violates the conditions or requirements of the sentence.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Any person who is currently serving a sentence imposed prior to the effective date of this section may petition the sentencing court for resentencing on the basis that he or she is a survivor of domestic violence committed by an intimate partner, the domestic violence he or she suffered was a significant contributing factor to his or her criminal conduct, and the prior sentence imposed by the court was unduly harsh given his or her personal history, character, and condition as well as the nature and circumstances of the crime.
+
+2. The court may deny a petition for resentencing without a hearing. If the court orders a hearing on the petition, the court may receive testimony and evidence as provided under section 2(2) of this act. If the court grants a petition, the court may resentence the person in accordance with section 2(3) of this act, provided that any new sentence may not be greater than the initial sentence.
+
+3. If a hearing on a petition is scheduled pursuant to this section, the prosecuting attorney shall make reasonable efforts to notify victims and survivors of victims of the petition and the date of hearing. The prosecuting attorney shall provide victims and survivors of victims access to available victim advocates and other related services. The court shall provide an opportunity for victims and survivors of victims of any crimes for which the defendant has been convicted to present a statement personally or by representation. The prosecuting attorney and the court shall comply with the requirements set forth in chapter 7.69 RCW.
+
+4. A petition filed under this section does not reopen the defendant's conviction to challenges that would otherwise be barred.
+
+5. For the purposes of this section:
+
+    a. "Domestic violence" has the same meaning as provided in RCW 26.50.010.
+
+    b. "Intimate partner" has the same meaning as provided in RCW 26.50.010.
+
 
 ## Section 5
 > This section modifies existing section [9.94A.501](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
@@ -246,6 +313,22 @@ Except for circumstances listed in subsection (2) of this section, the following
 2. **This section does not apply if a court finds a defendant qualifies for reduced or alternative sentencing under section 2 of this act.**
 
 
+## Section 10
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Any person who has been discharged under RCW 9.94A.637 may apply to the sentencing court for a vacation of his or her record of conviction for an offense occurring prior to the effective date of this section on the basis that: The person is a survivor of domestic violence committed by an intimate partner; the domestic violence suffered by the person was a significant contributing factor to the defendant's criminal conduct; and the collateral consequences of the record of conviction create an unduly harsh burden on the person given his or her personal history, character, and condition as well as the nature and circumstances of the particular offense.
+
+2. In considering an application under this section, the court may consider the factors specified in section 2(2)(b) of this act and any evidence offered by the applicant, the prosecutor, and third parties including, but not limited to, those specified in section 2(2)(c) of this act; however, the court, in its discretion, may rely solely upon the sworn testimony of the applicant at a hearing before the court when granting an application under this section.
+
+3. If the court finds that an applicant qualifies under this section, the court may, in the interest of justice, waive the restrictions under RCW 9.94A.640(2) and vacate the conviction according to the process provided in RCW 9.94A.640(1).
+
+4. For the purposes of this section:
+
+    a. "Domestic violence" has the same meaning as provided in RCW 26.50.010.
+
+    b. "Intimate partner" has the same meaning as provided in RCW 26.50.010.
+
+
 ## Section 11
 > This section modifies existing section [9.94A.640](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
 
@@ -272,6 +355,22 @@ Except for circumstances listed in subsection (2) of this section, the following
     a. Except as otherwise provided, once the court vacates a record of conviction under subsection (1) of this section, the fact that the offender has been convicted of the offense shall not be included in the offender's criminal history for purposes of determining a sentence in any subsequent conviction, and the offender shall be released from all penalties and disabilities resulting from the offense. For all purposes, including responding to questions on employment applications, an offender whose conviction has been vacated may state that the offender has never been convicted of that crime. A conviction that has been vacated under this section may not be disseminated or disclosed by the state patrol or local law enforcement agency to any person, except other criminal justice enforcement agencies. Nothing in this section affects or prevents the use of an offender's prior conviction in a later criminal prosecution, and nothing in this section affects the requirements for restoring a right to possess a firearm under RCW 9.41.040.
 
     b. A conviction vacated on or after July 28, 2019, qualifies as a prior conviction for the purpose of charging a present recidivist offense occurring on or after July 28, 2019, and may be used to establish an ongoing pattern of abuse for purposes of RCW 9.94A.535.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [9.96](/rcw/09_crimes_and_punishments/9.096_restoration_of_civil_rights.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.096_restoration_of_civil_rights.md) for context.
+
+1. Any person who has completed the conditions of his or sentence may apply to the sentencing court for a vacation of his or her record of conviction for an offense occurring prior to the effective date of this section on the basis that: The person is a survivor of domestic violence committed by an intimate partner; the domestic violence suffered by the person was a significant contributing factor to the defendant's criminal conduct; and the collateral consequences of the record of conviction create an unduly harsh burden on the person given his or her personal history, character, and condition as well as the nature and circumstances of the particular offense.
+
+2. In considering an application under this section, the court may consider the factors specified in section 2(2)(b) of this act. The court may consider any evidence offered by the defendant, the prosecutor, and third parties including, but not limited to, the types specified in section 2(2)(c) of this act; however, the court, in its discretion, may rely solely upon the sworn testimony of the applicant at a hearing before the court when granting an application under this section.
+
+3. If the court finds that an applicant qualifies under this section, the court may, in the interest of justice, waive the restrictions under RCW 9.96.060(2) and vacate the conviction according to the process provided in RCW 9.96.060(1).
+
+4. For the purposes of this section:
+
+    a. "Domestic violence" has the same meaning as provided in RCW 26.50.010.
+
+    b. "Intimate partner" has the same meaning as provided in RCW 26.50.010.
 
 
 ## Section 13

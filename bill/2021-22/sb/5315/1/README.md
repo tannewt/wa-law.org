@@ -3,51 +3,89 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5315.xml)
 ## Section 1
 The legislature finds that creating a framework for Washington private entities and public institutions of higher education to manage their risks through captive insurers will facilitate the growth and safety of those entities and protect the public interest. The legislature further finds that captive insurance promotes prudent risk management and provides access to insurance and reinsurance markets that may not be available to these Washington entities otherwise. The legislature believes that encouraging the use of captive insurance will support those who rely upon the strength and stability of employers in this state.
+
 The legislature does not intend by this act to make Washington a captive domicile state. Rather, the legislature is establishing a framework for registration by captive insurers that insure Washington-based entities and are licensed by the jurisdictions in which they are domiciled.
+
 
 ## Section 2
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
-(1) "Affiliate" means an entity directly or indirectly controlling, controlled by, or under common control with another entity, such as a parent or a subsidiary corporation. "Affiliate" also means any person that holds an insured interest because that person has or had an employment or sales contract with an insured person.
-(2) "Captive owner" means one of the following:
-(a) An entity that is organized under Title 23B, 24, or 25 RCW, or analogous provisions of the law of another state or territory; or
-(b) A public institution of higher education.
-(3) "Casualty insurance" has the same meaning as "general casualty insurance" as defined in RCW 48.11.070.
-(4) "Control" means possession of the power to direct the management and policies of an entity through ownership of voting securities, by contract, or otherwise.
-(5) "Eligible captive insurer" means an insurance company with the following characteristics:
-(a) It is wholly or partially owned by a captive owner;
-(b) It insures risks of the captive owner, the captive owner's other affiliates, or both;
-(c) One or more of its insureds have their principal place of business in Washington;
-(d) It has assets that exceed its liabilities by at least $1,000,000 and has the ability to pay its debts as they come due, both as verified by audited financial statements prepared by an independent certified accountant; and
-(e) It is licensed as a captive insurer by the jurisdiction in which it is domiciled.
-(6) "Property insurance" has the same meaning as in RCW 48.11.040.
-(7) "Public institution of higher education" means an institution of higher education as defined in RCW 28B.10.016.
+
+1. "Affiliate" means an entity directly or indirectly controlling, controlled by, or under common control with another entity, such as a parent or a subsidiary corporation. "Affiliate" also means any person that holds an insured interest because that person has or had an employment or sales contract with an insured person.
+
+2. "Captive owner" means one of the following:
+
+    a. An entity that is organized under Title 23B, 24, or 25 RCW, or analogous provisions of the law of another state or territory; or
+
+    b. A public institution of higher education.
+
+3. "Casualty insurance" has the same meaning as "general casualty insurance" as defined in RCW 48.11.070.
+
+4. "Control" means possession of the power to direct the management and policies of an entity through ownership of voting securities, by contract, or otherwise.
+
+5. "Eligible captive insurer" means an insurance company with the following characteristics:
+
+    a. It is wholly or partially owned by a captive owner;
+
+    b. It insures risks of the captive owner, the captive owner's other affiliates, or both;
+
+    c. One or more of its insureds have their principal place of business in Washington;
+
+    d. It has assets that exceed its liabilities by at least $1,000,000 and has the ability to pay its debts as they come due, both as verified by audited financial statements prepared by an independent certified accountant; and
+
+    e. It is licensed as a captive insurer by the jurisdiction in which it is domiciled.
+
+6. "Property insurance" has the same meaning as in RCW 48.11.040.
+
+7. "Public institution of higher education" means an institution of higher education as defined in RCW 28B.10.016.
+
 
 ## Section 3
-(1) Within 120 days after the effective date of this section or, if later, within 120 days after first issuing a policy that covers Washington risks, an entity acting as an eligible captive insurer must register with the commissioner.
-(2) The commissioner will approve an eligible captive insurer's registration if the commissioner determines that the eligible captive insurer has sufficiently demonstrated:
-(a)(i) That its assets exceed its liabilities by at least $1,000,000 and it has the ability to pay its debts as they come due, both as verified by audited financial statements prepared by an independent certified accountant; and
-(ii) That it is in good standing in its jurisdiction of domicile; and
-(b) The eligible captive insurer has paid a fee of $2,500.
-(3) The commissioner may request additional documentation and information if needed to show that these requirements have been met.
-(4) The commissioner may deny registration for any eligible captive insurer that fails to meet the requirements in subsections (2) and (3) of this section.
-(5) A registered captive insurer may renew its certificate of registration for successive periods of 12 months each by, for each period, meeting the requirements of subsections (2)(a) and (3) of this section and paying a renewal fee in an amount set by the commissioner not to exceed $2,500.
-(6) A registered eligible captive insurer may provide only property and casualty insurance and may provide such insurance to a captive owner, to the captive owner's other affiliates, or both. A registered eligible captive insurer may assume risks from other insurers as a reinsurer without regard to the limitations in the preceding sentence.
-(7) A registered eligible captive insurer may insure risks of its affiliates and obtain or provide reinsurance for ceded or assumed risks insured in this state or elsewhere.
+1. Within 120 days after the effective date of this section or, if later, within 120 days after first issuing a policy that covers Washington risks, an entity acting as an eligible captive insurer must register with the commissioner.
+
+2. The commissioner will approve an eligible captive insurer's registration if the commissioner determines that the eligible captive insurer has sufficiently demonstrated:
+
+    a. [Empty]
+
+        i. That its assets exceed its liabilities by at least $1,000,000 and it has the ability to pay its debts as they come due, both as verified by audited financial statements prepared by an independent certified accountant; and
+
+        ii. That it is in good standing in its jurisdiction of domicile; and
+
+    b. The eligible captive insurer has paid a fee of $2,500.
+
+3. The commissioner may request additional documentation and information if needed to show that these requirements have been met.
+
+4. The commissioner may deny registration for any eligible captive insurer that fails to meet the requirements in subsections (2) and (3) of this section.
+
+5. A registered captive insurer may renew its certificate of registration for successive periods of 12 months each by, for each period, meeting the requirements of subsections (2)(a) and (3) of this section and paying a renewal fee in an amount set by the commissioner not to exceed $2,500.
+
+6. A registered eligible captive insurer may provide only property and casualty insurance and may provide such insurance to a captive owner, to the captive owner's other affiliates, or both. A registered eligible captive insurer may assume risks from other insurers as a reinsurer without regard to the limitations in the preceding sentence.
+
+7. A registered eligible captive insurer may insure risks of its affiliates and obtain or provide reinsurance for ceded or assumed risks insured in this state or elsewhere.
+
 
 ## Section 4
-(1) On or before the first day of March of each year, a registered eligible captive insurer must remit to the state treasurer through the commissioner a tax in the amount of two percent of the premiums, exclusive of returned premiums and sums collected to cover federal and state taxes and examination fees, for insurance directly procured by and provided to its parent or another affiliate for Washington risks during the preceding calendar year. The tax when collected must be credited to the general fund.
-(2) For the purposes of this section, "Washington risks" means the share of risk covered by the premiums that is allocable to this state, based on where the underlying risks are located or where the losses or injuries giving rise to covered claims arise. A registered eligible captive insurer may use any reasonable method of determining such an allocation, including actuarial analysis or use of a proxy such as sales, property value, or payroll. Whether paid directly or by reimbursement, neither the timing nor the nature of a captive insurer's payment may be deemed to reflect, create, or constitute Washington risks.
-(3) The registered eligible captive insurer must share its methodology and relevant analysis in determining its allocation with the commissioner.
-(4) A registered eligible captive insurer is not liable for premium tax on moneys received as a reinsurer or on insurance placed through a surplus lines broker or other intermediary that collects and remits premium tax.
-(5) If a registered eligible captive insurer fails to remit the tax provided by this section by the last day of the month in which the tax becomes due, the registered eligible captive insurer must pay the tax and the penalties and interest provided in RCW 48.14.060. The tax may be collected by distraint, or the tax and fine may be recovered by an action instituted by the commissioner in any court of competent jurisdiction. Any fine collected by the commissioner must be paid to the state treasurer and credited to the general fund.
-(6) Taxes on premiums are due under this section from an eligible captive insurer for any period after January 1, 2011, if not previously remitted to the commissioner, and further provided that all such taxes must be limited to an eligible captive insurer's Washington risks. Taxes due under this subsection for periods before July 1, 2021, are not subject to the penalties or interest provided in RCW 48.14.060. For periods beginning July 1, 2021, a registered eligible captive insurer is subject to the sanctions in subsection (5) of this section.
+1. On or before the first day of March of each year, a registered eligible captive insurer must remit to the state treasurer through the commissioner a tax in the amount of two percent of the premiums, exclusive of returned premiums and sums collected to cover federal and state taxes and examination fees, for insurance directly procured by and provided to its parent or another affiliate for Washington risks during the preceding calendar year. The tax when collected must be credited to the general fund.
+
+2. For the purposes of this section, "Washington risks" means the share of risk covered by the premiums that is allocable to this state, based on where the underlying risks are located or where the losses or injuries giving rise to covered claims arise. A registered eligible captive insurer may use any reasonable method of determining such an allocation, including actuarial analysis or use of a proxy such as sales, property value, or payroll. Whether paid directly or by reimbursement, neither the timing nor the nature of a captive insurer's payment may be deemed to reflect, create, or constitute Washington risks.
+
+3. The registered eligible captive insurer must share its methodology and relevant analysis in determining its allocation with the commissioner.
+
+4. A registered eligible captive insurer is not liable for premium tax on moneys received as a reinsurer or on insurance placed through a surplus lines broker or other intermediary that collects and remits premium tax.
+
+5. If a registered eligible captive insurer fails to remit the tax provided by this section by the last day of the month in which the tax becomes due, the registered eligible captive insurer must pay the tax and the penalties and interest provided in RCW 48.14.060. The tax may be collected by distraint, or the tax and fine may be recovered by an action instituted by the commissioner in any court of competent jurisdiction. Any fine collected by the commissioner must be paid to the state treasurer and credited to the general fund.
+
+6. Taxes on premiums are due under this section from an eligible captive insurer for any period after January 1, 2011, if not previously remitted to the commissioner, and further provided that all such taxes must be limited to an eligible captive insurer's Washington risks. Taxes due under this subsection for periods before July 1, 2021, are not subject to the penalties or interest provided in RCW 48.14.060. For periods beginning July 1, 2021, a registered eligible captive insurer is subject to the sanctions in subsection (5) of this section.
+
 
 ## Section 5
-(1) The commissioner is authorized to make use of any of the powers established under Title 48 RCW to enforce the laws of this state. This includes, but is not limited to, the commissioner's administrative authority to investigate, issue subpoenas, conduct depositions and hearings, issue orders, impose penalties, and seek injunctive relief. With regard to any investigation, administrative proceedings, or litigation, the commissioner can rely on the procedural law and regulations of the state. An eligible captive insurer that violates any provision of this chapter after its effective date will be subject to the fines and penalties applicable to authorized insurers generally, including revocation of its registration, suspension of registration, and refusal to renew registration.
-(2) An eligible captive insurer that fails to register under this act is acting as an unlawful, unauthorized insurer and is subject to the fines and penalties applicable to unlawful, unauthorized insurers generally.
+1. The commissioner is authorized to make use of any of the powers established under Title 48 RCW to enforce the laws of this state. This includes, but is not limited to, the commissioner's administrative authority to investigate, issue subpoenas, conduct depositions and hearings, issue orders, impose penalties, and seek injunctive relief. With regard to any investigation, administrative proceedings, or litigation, the commissioner can rely on the procedural law and regulations of the state. An eligible captive insurer that violates any provision of this chapter after its effective date will be subject to the fines and penalties applicable to authorized insurers generally, including revocation of its registration, suspension of registration, and refusal to renew registration.
+
+2. An eligible captive insurer that fails to register under this act is acting as an unlawful, unauthorized insurer and is subject to the fines and penalties applicable to unlawful, unauthorized insurers generally.
+
 
 ## Section 6
 The commissioner may adopt rules as necessary to implement this act.
+
 
 ## Section 7
 > This section modifies existing section [48.14.020](/rcw/48_insurance/48.014_fees_and_taxes.md). Here is the [modified chapter](rcw/48_insurance/48.014_fees_and_taxes.md) for context.
@@ -126,5 +164,7 @@ In determining the amount of direct premium taxable in this state **other than f
 ## Section 13
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
 
+
 ## Section 14
 Sections 8 through 11 of this act apply both retroactively and prospectively.
+

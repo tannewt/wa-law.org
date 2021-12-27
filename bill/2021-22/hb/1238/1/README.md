@@ -4,6 +4,29 @@
 ## Section 1
 The legislature acknowledges that some Washingtonians may believe that they should pay more for the operation of state government. The legislature intends to establish the help out Washington state government program to facilitate voluntary contributions for the costs of government expenditures.
 
+
+## Section 2
+> This section adds a new section to an existing chapter [43.08](/rcw/43_state_government—executive/43.008_state_treasurer.md). Here is the [modified chapter](rcw/43_state_government—executive/43.008_state_treasurer.md) for context.
+
+1. The help out Washington state government program is created in the office of the state treasurer. Under the program, the state treasurer may accept donations for the costs of state and local government from individuals, businesses, and other entities, that wish to make a voluntary monetary contribution for this purpose.
+
+2. All donations received under this program must be deposited in the help out Washington state government account created in this section.
+
+3. Monthly, the treasurer shall distribute these contributions as follows:
+
+    a. Where the donor indicates that the contribution is for a particular agency of state government, the treasurer must deposit that donation in the agency's subaccount of the incentive savings account. Where the donor indicates that the donation is for a particular activity of that agency, the treasurer must communicate that condition to the agency, and the agency may spend that funding only for that purpose, if it otherwise has legal or other statutory authority to do so.
+
+    b. Where the donor does not indicate whether the contribution is for a particular activity of the agency, the treasurer must deposit the donation in the various agencies' subaccounts of the incentive savings account in proportion to the agencies' respective proportion of state general fund appropriations in the most recent state operating budget.
+
+    c. Where the donor indicates that the contribution is for a particular political subdivision, the treasurer must distribute the funding to the appropriate county treasurer or fiscal agent for the particular political subdivision. Where the donor indicates that the contribution is for a particular administrative unit of the political subdivision, including but not limited to a particular school within a school district, then the treasurer must communicate that condition to the county treasurer or fiscal agent.
+
+    d. Nothing in this section authorizes a state agency or political subdivision to make expenditures for a purpose for which it does not otherwise have statutory or other legal authority.
+
+4. The help out Washington state government account is created in the custody of the state treasurer. Only the state treasurer or the treasurer's designee may authorize expenditures from the account. Expenditures from the account may be used only for distributions authorized under this section. An appropriation is not required for expenditures.
+
+5. The office of the state treasurer shall post on its website a monthly report on contributions to the help out Washington state government account, corresponding expenditures from the respective agencies' subaccounts of the incentive savings account, and funding provided to local governments.
+
+
 ## Section 3
 > This section modifies existing section [43.79.460](/rcw/43_state_government—executive/43.079_state_funds.md). Here is the [modified chapter](rcw/43_state_government—executive/43.079_state_funds.md) for context.
 
@@ -32,3 +55,4 @@ The legislature acknowledges that some Washingtonians may believe that they shou
 
 ## Section 4
 This act may be known and cited as the help out Washington state government act.
+

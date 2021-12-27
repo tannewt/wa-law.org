@@ -1,6 +1,40 @@
 # House Bill 1510
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1510.xml)
+## Section 1
+> This section adds a new section to an existing chapter [46.16A](/rcw/46_motor_vehicles/46.16A_registration.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.16A_registration.md) for context.
+
+1. A for hire nonemergency medical transportation vehicle is a vehicle that is a "for hire vehicle" under RCW 46.04.190 that provides nonemergency medical transportation, including for life-sustaining transportation purposes, to meet the medical transportation needs of individuals traveling to medical practices and clinics, cancer centers, dialysis facilities, hospitals, and other care providers.
+
+2. The owner of a for hire nonemergency medical transportation vehicle may apply to the department, county auditor or other agent, or subagent appointed by the director, for a high occupancy vehicle exempt decal for a for hire nonemergency medical transportation vehicle. The high occupancy vehicle exempt decal allows the for hire nonemergency medical transportation vehicle to use a high occupancy vehicle lane as specified in RCW 46.61.165 and 47.52.025.
+
+3. For the exemption in this subsection to apply to a for hire nonemergency medical transportation vehicle, the decal:
+
+    a. Must be displayed on the vehicle so that it is clearly visible from outside the vehicle;
+
+    b. Must identify that the vehicle is exempt from the high occupancy vehicle requirements; and
+
+    c. Must be visible from the rear of the vehicle.
+
+4. The owner of a for hire nonemergency medical transportation vehicle or the owner's representative must apply for a high occupancy vehicle exempt decal on a form provided or approved by the department. The application must include:
+
+    a. The name and address of the person who is the owner of the vehicle;
+
+    b. A full description of the vehicle, including its make, model, year, and the vehicle identification number;
+
+    c. The purpose for which the vehicle is principally used; and
+
+    d. Other information as required by the department upon application.
+
+5. The department, county auditor or other agent, or subagent appointed by the director shall collect the fee required under subsection (6) of this section when issuing a high occupancy vehicle exempt decal.
+
+6. The department, county auditor or other agent, or subagent, is required to collect a $5 fee when issuing a decal under this section, in addition to any other fees and taxes required by law.
+
+7. A high occupancy vehicle exempt decal may not be renewed. The status as an exempt vehicle continues until suspended or revoked for misuse, or when the vehicle is no longer used as a for hire nonemergency medical transportation vehicle.
+
+8. The department may adopt rules to implement this section.
+
+
 ## Section 2
 > This section modifies existing section [46.61.165](/rcw/46_motor_vehicles/46.61_rules_of_the_road.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.61_rules_of_the_road.md) for context.
 

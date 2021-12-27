@@ -1,5 +1,6 @@
 # SB 5279 - Housing/revenue source
-*Status: First reading, referred to Housing & Local Government.*
+*Status: First reading, referred to Housing & Local Government.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5279&Year=2021)
+
 Providing for an additional revenue source for eviction prevention and housing stability services.
 
 ## Revisions

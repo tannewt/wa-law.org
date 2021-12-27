@@ -4,6 +4,7 @@
 ## Section 1
 The legislature intends to authorize and establish hemp processor registration and hemp extract certification necessary for entrance and compliance with interstate and international commerce and business requirements or stipulations in regard to hemp processing. A voluntary processor registration or hemp extract certification in lieu of a hemp processor license will allow persons or companies to ship transitional or final hemp products to states and countries that require a hemp processor license or registration.
 
+
 ## Section 2
 > This section modifies existing section [15.140.020](/rcw/15_agriculture_and_marketing/15.140_hemp_production.md). Here is the [modified chapter](rcw/15_agriculture_and_marketing/15.140_hemp_production.md) for context.
 
@@ -62,6 +63,22 @@ Beginning on April 26, 2019:
 2. No department or other state agency rule may establish or enforce a buffer zone or distance requirement between a person with a license or authorization to produce or process hemp under this chapter  and a person with a license to produce or process marijuana issued under chapter 69.50 RCW. The department may not adopt rules without the evaluation of sufficient data showing impacts to either crop as a result of cross-pollination.
 
 3. **Notwithstanding the rule-making provisions of RCW 15.140.030(2), if a marijuana producer or marijuana processor licensed by the liquor and cannabis board under chapter 69.50 RCW is engaged in producing or processing hemp at the same location for which they are licensed to produce or process marijuana, the liquor and cannabis board may test samples represented as hemp that are obtained from a location licensed for marijuana production or marijuana processing for the sole purpose of validating THC content of products represented as hemp. Any product with a delta-9 tetrahydrocannabinol concentration exceeding 0.3 percent on a dry weight basis is considered marijuana and is subject to the provisions of chapter 69.50 RCW.**
+
+
+## Section 6
+> This section adds a new section to an existing chapter [69.07](/rcw/69_food_drugs_cosmetics_and_poisons/69.07_washington_food_processing_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.07_washington_food_processing_act.md) for context.
+
+1. Until such time as hemp extract is federally authorized for use as a food ingredient, hemp extract is not an approved food ingredient in Washington state. A hemp processor who wishes to engage in the production of hemp extract for use as a food ingredient in another state that allows its use as a food ingredient may apply for a hemp extract certification to certify the hemp processor's compliance with Washington's inspection and good manufacturing practices requirements. The department shall regulate hemp extract processing the same as other food processing under chapters 15.130, 69.07, and 69.22 RCW with the exceptions contained in subsections (2) through (6) of this section.
+
+2. The department's oversight is limited to certifying a hemp processor's compliance with applicable inspection and good manufacturing practices requirements as adopted by the department under chapter 15.130 RCW.
+
+3. The department must issue a hemp extract certification in lieu of a food processing license under RCW 69.07.040 to a hemp processor who meets the application requirements described in subsection (4) of this section. A hemp processor holding a hemp extract certification must apply for renewal of the certification annually.
+
+4. The application, initial certification, and renewal fees must be in an amount established by the department. Applicants for certification otherwise must meet the same requirements as applicants for a food processing license under chapter 69.07 RCW including, but not limited to, successful completion of an inspection by the department.
+
+5. The department may deny, suspend, or revoke a hemp extract certification on the same grounds as the department may deny, suspend, or revoke a food processor's license under this chapter.
+
+6. At such time as federal authorization of hemp extracts as a food ingredient occurs, the department must cease issuance of certifications under this chapter. At renewal, hemp processors certified under this section must apply for a food processor license in accordance with RCW 69.07.040.
 
 
 ## Section 7

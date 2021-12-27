@@ -1,6 +1,16 @@
 # Substitute House Bill 1492 as Recommended by Labor & Workplace Standards
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1492-S.xml)
+## Section 1
+> This section adds a new section to an existing chapter [50.22](/rcw/50_unemployment_compensation/50.22_extended_and_additional_benefits.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.22_extended_and_additional_benefits.md) for context.
+
+1. Beginning December 27, 2020, through April 12, 2021, or such subsequent date as may be provided by the employment security department by rule, an individual's eligibility period under RCW 50.22.010(8)(a) shall also include any week that begins in an extended benefit period that is in effect in this state and after the individual exhausted all rights to pandemic emergency unemployment compensation, as established in the CARES act (P.L. 116-136), as amended.
+
+2. With respect to determining whether the state is in an extended benefit period beginning November 1, 2020, through December 31, 2021, or such subsequent date as may be provided by the employment security department by rule, the state shall disregard the requirement in RCW 50.22.010(1)(b) that no extended benefit period may begin before the fourteenth week following the end of a prior extended benefit period which was in effect.
+
+3. For purposes of subsections (1) and (2) of this section, the department may not adopt a subsequent date by rule if the federal share of extended benefits is less than 50 percent minus any reductions required by the budget control act of 2011, P.L. 112-25.
+
+
 ## Section 2
 > This section modifies existing section [50.22.010](/rcw/50_unemployment_compensation/50.22_extended_and_additional_benefits.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.22_extended_and_additional_benefits.md) for context.
 
@@ -87,3 +97,4 @@ As used in this chapter, unless the context clearly indicates otherwise:
 
 ## Section 4
 Section 1 of this act is remedial and curative in nature and applies retroactively and prospectively to the dates listed in that section.
+

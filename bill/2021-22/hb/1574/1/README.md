@@ -1,6 +1,34 @@
 # House Bill 1574
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1574.xml)
+## Section 1
+> This section adds a new section to an existing chapter [49.60](/rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md). Here is the [modified chapter](rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md) for context.
+
+With regard to any civil action under RCW 49.60.030(2) that alleges any place of public resort, accommodation, assemblage, or amusement that is operated by a private entity has a building, facility, or parking lot that violates this chapter by reason of discrimination because of the presence of any sensory, mental, or physical disability or the use of a trained dog guide or service animal by a person with a disability:
+
+1. [Empty]
+
+    a. Before filing such civil action, the aggrieved person or the person's attorney shall provide written notice with sufficient detail to allow the private entity to identify and cure the violation or comply with the law. If the private entity does not cure the violation or comply with the law within 30 days after receiving the notice, the aggrieved person may file the civil action. For the purposes of this subsection, "sufficient detail" means the name of the aggrieved person who encountered the barrier, the date when the barrier was encountered by the aggrieved person, and a description of the barrier that was encountered by the aggrieved person.
+
+    b. If the private entity is required to obtain a building permit or other similar form of government approval to make the changes necessary to cure the violation or comply with the law and the private entity, within 30 days after receiving the notice required by (a) of this subsection, provides the aggrieved person or the person's attorney with a corrective action plan and submits the completed application for the building permit or other similar form of government approval to the appropriate governmental entity for a determination, the aggrieved person may not file the civil action for an additional 60 days from the date that the private entity provided the corrective action plan to the aggrieved person or the person's attorney. The time after the completed application for the building permit or other similar form of government approval is submitted to the governmental entity up until a final determination is provided to the private entity is tolled and is not included in calculating the additional 60 days, except that any delay that is caused by the private entity before the final determination is provided is not tolled. During the additional 60 days, the private entity must comply with the requirements of this chapter with respect to any new construction.
+
+2. When filing such civil action, an aggrieved person must file an affidavit, under penalty of perjury, that the aggrieved person has read the entire complaint, agrees with all of the allegations and facts contained in the complaint and, unless authorized by statute or rule, is not receiving and has not been promised anything of value in exchange for filing the civil action.
+
+3. An aggrieved person or the aggrieved person's attorney may not demand or collect money from the private entity before the end of the applicable time period under subsection (1) of this section but may state that the private entity may be civilly liable for a violation of this chapter.
+
+4. On the motion of any party, the court may stay such civil action to determine whether the person filing the civil action or the person's attorney is a vexatious litigant or to determine whether there are multiple civil actions that involve the same plaintiff and that should be consolidated consistent with the rules of civil procedure.
+
+5. [Empty]
+
+    a. In addition to any sanction that the court may award to a party pursuant to any rule or law, the court may impose a sanction on a plaintiff or the plaintiff's attorney in such civil action if the court determines that such action, or a series of actions under this chapter, are brought for the primary purpose of obtaining a payment from the defendant due to the costs of defending the action in a court. When imposing a sanction, the court may consider the totality of the abusive litigation-related practices of the plaintiff and the plaintiff's attorney.
+
+    b. If the court imposes a sanction pursuant to (a) of this subsection, the court may order a party to pay a part of the sanction to the commission and, if ordered, the parties must notify the commission of the court's order. The commission shall use these moneys to:
+
+        i. Educate covered persons or entities about the person's or entity's obligations under this chapter with respect to the right to be free from discrimination because of the presence of any sensory, mental, or physical disability or the use of a trained dog guide or service animal by a person with a disability; and
+
+        ii. Award attorney fees to claimants who file a meritorious complaint with the commission and who resolve the complaint without litigation.
+
+
 ## Section 2
 > This section modifies existing section [49.60.030](/rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md). Here is the [modified chapter](rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md) for context.
 

@@ -1,6 +1,12 @@
 # House Bill 1486
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1486.xml)
+## Section 1
+> This section adds a new section to an existing chapter [50.04](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
+
+"Vulnerable adult" has the same meaning as in RCW 74.34.020.
+
+
 ## Section 2
 > This section modifies existing section [50.20.010](/rcw/50_unemployment_compensation/50.20_benefits_and_claims.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.20_benefits_and_claims.md) for context.
 
@@ -127,3 +133,4 @@ Upon approval of an individual's training benefits plan submitted in accordance 
 
 ## Section 6
 If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state or the eligibility of employers in this state for federal unemployment tax credits, the conflicting part of this act is inoperative solely to the extent of the conflict, and the finding or determination does not affect the operation of the remainder of this act. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state or the granting of federal unemployment tax credits to employers in this state.
+

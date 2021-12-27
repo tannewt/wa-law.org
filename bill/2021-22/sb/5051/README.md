@@ -1,5 +1,6 @@
 # SB 5051 - Peace & corrections officers
-*Status: 2nd substitute bill substituted.*
+*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5051&Year=2021)
+
 Concerning state oversight and accountability of peace officers and corrections officers.
 
 ## Revisions

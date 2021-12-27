@@ -1,5 +1,6 @@
 # EHB 1271 - County officials/continuity
-*Status: Effective date 7/25/2021*.*
+*Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1271&Year=2021)
+
 Ensuring continuity of operations in the offices of county elected officials during the current COVID-19 pandemic and future public health crises.
 
 ## Revisions

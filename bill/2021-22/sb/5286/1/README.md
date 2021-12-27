@@ -3,9 +3,13 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5286.xml)
 ## Section 1
 The legislature finds that management of organic waste is an essential component of the state's solid waste management system. Proper management of organic waste provides many environmental and economic benefits to the state, local governments, residents, and businesses. Composting, anaerobic digestion, and other forms of organic waste management can mitigate climate change by reducing our carbon footprint through increased carbon sequestration, when compost or recycled organic materials are applied to soil systems, and through the useful diversion of organic waste from landfills, where the waste would otherwise produce carbon intensive methane emissions. This diversion of organic waste creates a savings in space for landfills that are already overstressed by the current demand for waste disposal.
+
 Furthermore, recycling of organic waste contributes to a circular economy by eliminating waste, keeping local products and material in use, and regenerating natural systems. Compost and other recycled organic waste products also enrich soil, improve soil structure, and reduce the need for chemical fertilizers, providing beneficial applications in agriculture, postconstruction soil conditioning, infrastructure projects, horticulture, stormwater filtration, and erosion control.
+
 The legislature also finds that interpretation and implementation of permitting requirements for organic waste processors across the state can vary among local jurisdictions. This and other siting requirements can cause barriers to the establishment of new composting facilities and the expansion of existing compost facilities.
+
 Therefore, the legislature intends to establish a statewide organic waste management goal to be accomplished over the next decade in order to promote the reduction of organic waste resources going to landfills, the diversification of how organic waste is managed, the identification of technologies and methods for carbon sequestration, and the comprehensive use of compost and other recycled organic waste products by state and local governments, residents, and businesses to facilitate the growth of organic waste processing statewide.
+
 
 ## Section 2
 > This section modifies existing section [70A.205.015](/rcw/70A_environmental_health_and_safety/70A.205_solid_waste_management—reduction_and_recycling.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.205_solid_waste_management—reduction_and_recycling.md) for context.
@@ -69,6 +73,36 @@ As used in this chapter, unless the context indicates otherwise:
 28. "Yard debris" means plant material commonly created in the course of maintaining yards and gardens, and through horticulture, gardening, landscaping, or similar activities. Yard debris includes but is not limited to grass clippings, leaves, branches, brush, weeds, flowers, roots, windfall fruit, vegetable garden debris, holiday trees, and tree prunings four inches or less in diameter.
 
 29. **"Organic waste" means food waste, food processing waste, yard debris, wood waste, and food-soiled compostable paper waste.**
+
+
+## Section 3
+> This section adds a new section to an existing chapter [70A.205](/rcw/70A_environmental_health_and_safety/70A.205_solid_waste_management—reduction_and_recycling.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.205_solid_waste_management—reduction_and_recycling.md) for context.
+
+1. A goal is established to divert and reduce not less than 50 percent of organic waste by weight from landfill disposal by 2025, and to divert and reduce not less than 90 percent of organic waste by weight from landfill disposal by the end of 2030, relative to June 30, 2021.
+
+2. The goal is adopted to guide the development of solid waste handling standards, the state solid waste management plan, and criteria for municipal solid waste landfills by the department under this chapter.
+
+3. In recognizing the untapped potential of composting, anaerobic digestion, and other forms of organic waste management in mitigating and preparing for climate change and improving soil health, while supporting the establishment of a vibrant and robust green economy in Washington state, actions related to better integrating strategies, policies, and programs include, but are not limited to:
+
+    a. Including specific elements on the role soil amendments derived from the solid waste system should play as part of climate sequestration strategy development, including those addressing forestry and agricultural land, as well as identifying future research and analysis needs;
+
+    b. Including the role of solid waste derived material systems, when developing plans and mechanisms to deliver carbon markets and finance in Washington, and in particular addressing the applicability of organic recycling and landfill gas mitigation infrastructure development; and
+
+    c. Establishing methods and practices for monitoring and improving soil health through the application of compost, based on the United States department of agriculture's recommended soil health indicators detailed in soil health technical note No. 450-03, in coordination with the department of agriculture and public institutions of higher education and other parties.
+
+4. Additional actions and strategies consistent with these goals include, but are not limited to:
+
+    a. The development of a revised permitting system for organic waste management facilities to create consistent standards and coordinated permitting;
+
+    b. Increasing, where practical, the availability and convenience of collection service for organic materials for the purpose of producing high quality, organic waste-derived soil amendments or renewable fuels;
+
+    c. Setting methane emission standards for landfills to encourage reduction of organic waste in landfills;
+
+    d. Establishing policies and practices to reduce the generation of organic waste and diversify how organic waste is managed;
+
+    e. Developing a robust in-state market for organic waste products, through methods including, but not limited to, outreach to local governments, state government, and agricultural producers, establishing local procurement policies; and
+
+    f. Identifying technologies and methods for soil carbon sequestration from organic waste.
 
 
 ## Section 4

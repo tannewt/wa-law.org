@@ -3,8 +3,19 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1335-S2.E.xml)
 ## Section 1
 The legislature finds that the existence of racial, religious, or ethnic-based property restrictions or covenants on a deed or chain of title for real property is like having a monument to racism on that property and is repugnant to the tenets of equality. Furthermore, such restrictions and covenants may cause mental anguish and tarnish a property owner's sense of ownership in the property because the owner feels as though they have participated in a racist act themselves.
+
 It is the intent of the legislature that the owner, occupant, or tenant or homeowners' association board of the property which is subject to an unlawful deed restriction or covenant pursuant to RCW 49.60.224 is entitled to have discriminatory covenants and restrictions that are contrary to public policy struck from their chain of title. The legislature has presented two ways this can be accomplished through RCW 49.60.227(1) (a) and (b). If the owner, occupant, or tenant or homeowners' association board of the property elects to pursue a judicial remedy, the legislature intends that the court issue a declaratory judgment ordering the county auditor, or in charter counties the county official charged with the responsibility for recording instruments in the county records, to entirely strike the racist or otherwise discriminatory covenants from the chain of title. Striking the language does not prevent preservation of the original record, outside of the chain of title, for historical or archival purposes.
+
 The legislature finds that striking racist, religious, and ethnic restrictions or covenants from the chain of title is no different than having an offensive statutory monument which the owner may entirely remove. So too should the owner be able to entirely remove the offensive written monument to racism or other unconstitutional discrimination.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [49.60](/rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md). Here is the [modified chapter](rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the University of Washington and Eastern Washington University shall review existing recorded covenants and deed restrictions to identify those recorded documents that include racial or other restrictions on property ownership or use against protected classes that are unlawful under RCW 49.60.224. For properties subject to such racial and other unlawful restrictions, the universities shall provide notice to the property owner and to the county auditor of the county in which the property is located. The universities shall provide information to the property owner on how such provisions can be struck pursuant to RCW 49.60.227. The universities may contract with other public and private not-for-profit higher education institutions that are regionally accredited to carry out the review and notification requirements of this section.
+
+2. This section expires July 1, 2027.
+
 
 ## Section 3
 > This section modifies existing section [64.06.020](/rcw/64_real_property_and_conveyances/64.06_real_property_transfers—sellers_disclosures.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.06_real_property_transfers—sellers_disclosures.md) for context.
@@ -932,3 +943,4 @@ DATE . . . . . . . BUYER . . . . . . . . . BUYER
 
 ## Section 5
 This act applies to real estate transactions entered into on or after January 1, 2022.
+

@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that transparency and accountability are essential to ensure trust between law enforcement and the community. In an effort to increase transparency and best serve justice, the legislature intends to expand the usage of body worn and vehicle dashboard cameras in law enforcement. The legislature recognizes the financial burden that data management and public records requests administrative costs can present for local jurisdictions. The legislature intends to develop and implement a body worn and vehicle dashboard camera data management system pilot grant program to reduce local costs, increase transparency, and advance justice.
 
+
 ## Section 2
 > This section modifies existing section [10.109.010](/rcw/10_criminal_procedure/10.109_use_of_body_worn_cameras.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.109_use_of_body_worn_cameras.md) for context.
 
@@ -80,6 +81,46 @@ Public records may not be donated under this subsection unless:
     b. The local records committee has approved the destruction of the public records; and
 
     c. The state archivist has determined that the public records have no historic interest.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [40.14](/rcw/40_public_documents_records_and_publications/40.14_preservation_and_destruction_of_public_records.md). Here is the [modified chapter](rcw/40_public_documents_records_and_publications/40.14_preservation_and_destruction_of_public_records.md) for context.
+
+1. [Empty]
+
+    a. Subject to the availability of amounts appropriated for this specific purpose, the body worn and vehicle dashboard camera data management system pilot grant program is established. The Washington association of sheriffs and police chiefs is the pilot grant program's administrator. The association shall designate the police chief or sheriff of any participating jurisdiction as a local administrator.
+
+    b. The pilot grant program is limited to four participating law enforcement agencies from two cities and two counties. Participating agencies must be from one city and one county east of the crest of the Cascade mountain range and one city and one county west of the crest of the Cascade mountain range. County participating agencies are limited to counties with a population under 2,000,000 and city participating agencies are limited to cities with a population under 500,000.
+
+    c. The pilot grant program ends three years after the effective date of this section. The Washington association of sheriffs and police chiefs must report on preliminary findings and final results of the pilot grant program to the governor and legislature. The initial report is due July 1, 2022, and the final report is due December 1, 2024.
+
+    d. [Empty]
+
+        i. The local agency may contract for storage of the recordings or create its own server network and data management software. The local police chief or sheriff, or his or her designee, is authorized to contract with state or nonstate entities including, but not limited to, cloud-based web services and private software and technology providers for the creation, operation, and maintenance of the body worn and dashboard camera data management system.
+
+        ii. The contract must ensure the chain of custody is not disrupted or compromised. All data must be maintained in a manner that allows for custody of the data to be traced from creation to upload into the system.
+
+2. Local body worn and vehicle dashboard camera data management systems must be fully integrated and serve as a local repository for all recordings produced from the body worn and vehicle dashboard cameras used by law enforcement agencies participating in the pilot grant program. The local police chief or sheriff is responsible for maintaining the system's security and data integrity. Upon successful upload of a body worn or vehicle dashboard camera recording from a local law enforcement agency to its data management system, the local system administrator or their designee manages, tracks, and responds to all legal public disclosure requests for recordings in the system including, but not limited to, making legally required redactions and releasing the recordings to the requester as required by law.
+
+3. The body worn and vehicle dashboard camera data management system must incorporate minimum functionality that enables:
+
+    a. Secure long-term storage and preservation of body worn and vehicle dashboard camera recordings transferred from all participating law enforcement agencies;
+
+    b. The local administrator to manage, track, and respond to lawful public disclosure requests regarding recordings in the data management system including making the legally required redactions prior to disclosure;
+
+    c. Each law enforcement agency continued custody and access to view and use the data it uploads to the system;
+
+    d. Each law enforcement agency to locate, retrieve, copy, or share the recordings in the system for agency operations, training, administrative functions, and related judicial actions using a uniform data format that protects the recordings from destruction, alteration, or further redaction, maintains chain of custody requirements, and generates audit tracking;
+
+    e. Each participating law enforcement agency to track and update the status of recordings stored in its system with status changes in related cases or availability for public records release using a uniform labeling and tracking method;
+
+    f. The system administrator and participating local law enforcement agencies to utilize electronic technology or technologies allowing continuous access; and
+
+    g. The system administrator to compile data, report outcomes, and issue recommendations for increasing transparency and ensuring accuracy and fidelity of the data and information collected and reported under the pilot grant program.
+
+4. The pilot grant program shall be funded from the state general fund for the 2021-2023 and 2023-2025 fiscal biennia.
+
+5. This section expires July 1, 2025.
 
 
 ## Section 5

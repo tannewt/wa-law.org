@@ -25,3 +25,4 @@ To the extent of any pledge authorized in this section, the department shall use
 
 ## Section 701
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

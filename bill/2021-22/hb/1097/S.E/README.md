@@ -103,5 +103,26 @@ Upon application by an employer showing that a good faith effort to comply with 
 9. Civil penalties imposed under this chapter shall be paid to the director for deposit in the supplemental pension fund established by RCW 51.44.033. Civil penalties may be recovered in a civil action in the name of the department brought in the superior court of the county where the violation is alleged to have occurred, or the department may utilize the procedures for collection of civil penalties as set forth in RCW 51.48.120 through 51.48.150.
 
 
+## Section 5
+> This section adds a new section to an existing chapter [51.04](/rcw/51_industrial_insurance/51.04_general_provisions.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.04_general_provisions.md) for context.
+
+1. In the event of a state of emergency as defined in RCW 43.06.010(12), the director is authorized to expend up to two percent per year of the net premiums earned in the accident fund in the prior fiscal year for the purpose of a safety grant program so long as the assets of the accident fund and pension reserve fund were at least 10 percent in excess of their funded liabilities in the fiscal quarter immediately preceding the state of emergency proclamation.
+
+2. The safety grant program shall provide one-time grants to employers to purchase equipment, gear, or make capital improvements so long as the purchase is not covered by another grant, government program, or insurance contract. The department may require matching funds from employers. Employers must apply for grants using an application developed by the department.
+
+3. Employers shall apply the safety grants to purchases of equipment, gear, or capital costs to meet any new safety and health requirements related to the emergency that are required before they are permitted to continue or resume business operations.
+
+4. An appropriation is not required for expenditures under this section.
+
+5. Only employers who pay premiums to the state fund as defined in RCW 51.08.175, are not self-insured as defined in RCW 51.08.173, and have 25 or fewer full-time equivalent employees are eligible for funding under this section.
+
+6. Rules that are adopted to implement this section must be done in consultation with stakeholders. Rules must include but are not limited to:
+
+    a. Guidance for grant awards based on the type, scope, and time frame of a specific declared emergency; and
+
+    b. Criteria for prioritizing grants for eligible recipients.
+
+
 ## Section 6
 The department of labor and industries may adopt rules as necessary to implement this act.
+

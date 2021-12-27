@@ -32,3 +32,9 @@
 
 5. **The recreational trail policy of the department must authorize the use of electric-assisted bicycles, as defined in RCW 46.04.169, on all trails managed by the department on which the use of bicycles, as defined in RCW 46.04.071, is authorized.**
 
+
+## Section 2
+> This section adds a new section to an existing chapter [77.12](/rcw/77_fish_and_wildlife/77.012_powers_and_duties.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.012_powers_and_duties.md) for context.
+
+The director shall authorize the use of electric-assisted bicycles, as defined in RCW 46.04.169, on all trails managed by the department on which the use of bicycles, as defined in RCW 46.04.071, is authorized.
+

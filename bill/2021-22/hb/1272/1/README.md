@@ -121,6 +121,30 @@
 12. The department must adopt rules necessary to carry out its responsibilities under this section. The department must consider national standards when adopting rules.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [43.70](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
+
+1. [Empty]
+
+    a. For a health system operating a hospital licensed under chapter 70.41 RCW, the health system must annually submit to the department a consolidated annual income statement and balance sheet, including hospitals, ambulatory surgical facilities, health clinics, urgent care clinics, physician groups, health-related laboratories, long-term care facilities, home health agencies, dialysis facilities, ambulance services, behavioral health settings, and virtual care entities that are operated in Washington.
+
+    b. The state auditor's office shall provide the department with audited financial statements for all hospitals owned or operated by a public hospital district under chapter 70.44 RCW. Public hospital districts are not required to submit additional information to the department under this subsection.
+
+2. The department must make information submitted under this section available in the same manner as hospital financial data.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [70.41](/rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md) for context.
+
+1. Each hospital must report the following information to the department each month:
+
+    a. The number of days of critical staffing, by job class. Critical staffing job classes include environmental services, nurses, other health care personnel, other licensed independent practitioners, pharmacy and pharmacy technicians, physicians, respiratory therapists, temporary physicians, temporary nurses, temporary respiratory therapists, temporary pharmacists, and other job classes identified by the department; and
+
+    b. Mortality rates, including race and ethnicity mortality rates among labor and delivery patients.
+
+2. The department must adopt rules to implement the reporting requirements under this section.
+
+
 ## Section 4
 > This section modifies existing section [70.01.040](/rcw/70_public_health_and_safety/70.001_general_provisions.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.001_general_provisions.md) for context.
 

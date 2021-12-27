@@ -1,5 +1,6 @@
 # HB 1566 - Legislature/disabilities
-*Status: First reading, referred to State Government & Tribal Relations.*
+*Status: First reading, referred to State Government & Tribal Relations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1566&Year=2021)
+
 Concerning access and representation for individuals with disabilities in the legislative process.
 
 ## Revisions

@@ -1,6 +1,18 @@
 # House Bill 1183
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1183.xml)
+## Section 1
+> This section adds a new section to an existing chapter [43.185C](/rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md) for context.
+
+1. The home sharing support grant program is created in the department. The purpose of this program is to provide financial support to nonprofit organizations that operate home sharing programs.
+
+2. The department shall manage, oversee, and evaluate home sharing support grant program applications and shall award grants annually. The department may establish application procedures and criteria for the receipt of grants.
+
+3. Grants awarded under this section may be used only for administrative costs of home sharing programs.
+
+4. For purposes of this section, "home sharing program" means a program operated by a nonprofit organization in which the organization assists homeless persons, or persons at risk of becoming homeless, with locating individuals seeking to share their residences and facilitates meetings between program applicants who may choose to enter into a home sharing arrangement on mutually agreeable terms. Services provided by home sharing programs may include, but are not limited to, screening of program applicants for compatibility, background checks of applicants, case management, and conflict resolution.
+
+
 ## Section 2
 > This section modifies existing section [36.22.179](/rcw/36_counties/36.022_county_auditor.md). Here is the [modified chapter](rcw/36_counties/36.022_county_auditor.md) for context.
 

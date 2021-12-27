@@ -79,6 +79,18 @@ Notwithstanding the foregoing, "DNA work product" does not include a reference s
 9. "Unreported sexual assault kit" means a sexual assault kit where a law enforcement agency has not received a related report or complaint alleging a sexual assault or other crime has occurred.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [5.70](/rcw/05_evidence/5.70_dna_evidence.md). Here is the [modified chapter](rcw/05_evidence/5.70_dna_evidence.md) for context.
+
+1. For any sexual assault kit under RCW 5.70.050 where forensic analysis has generated a profile that has resulted in a hit in the combined DNA index system, the office of the attorney general shall request information from the applicable law enforcement agency and prosecuting attorney as to the case status of any related criminal investigation and prosecution, including information as provided under RCW 5.70.005(5) as well as any other relevant information. The law enforcement agency and prosecuting attorney shall provide requested case status updates to the office of the attorney general. The office of the attorney general shall consult with the association when developing any procedures for requesting and collecting case status updates under this section.
+
+2. Nothing in this section may be interpreted to require any law enforcement agency or prosecuting attorney to disclose any information that would jeopardize an active criminal investigation or prosecution.
+
+3. The attorney general's office shall report quarterly to the association the investigational status of any sexual assault kit under RCW 5.70.050.
+
+4. Beginning in 2022, in consultation with the attorney general's office, the association must submit reports on the information collected pursuant to this section to the governor and appropriate committees of the legislature by January 1st and July 1st of each year.
+
+
 ## Section 3
 > This section modifies existing section [43.101.278](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
 

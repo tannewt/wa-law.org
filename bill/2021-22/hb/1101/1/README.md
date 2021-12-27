@@ -1,6 +1,24 @@
 # House Bill 1101
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1101.xml)
+## Section 1
+> This section adds a new section to an existing chapter [43.185A](/rcw/43_state_government—executive/43.185A_affordable_housing_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185A_affordable_housing_program.md) for context.
+
+1. The public building conversion grant program is created in the department. The purpose of this program is to encourage counties to convert unused, publicly owned buildings into housing for homeless persons. The department shall manage, oversee, and evaluate public building conversion grant program applications separately from the process required in RCW 43.185A.090 and shall, subject to appropriation, award grants annually. The department may establish criteria or guidelines to guide counties in the application process. Only counties with a population of 100,000 or less are eligible to apply to the department for public building conversion grants.
+
+2. Counties applying for public building conversion grants must submit an inventory of unused public buildings to the department prior to April 1, 2021. To remain eligible for public building conversion grants, counties must update and resubmit the inventory to the department on a quarterly basis. The department must post the inventory on its public website along with the inventory of state-owned and publicly owned lands and buildings required in RCW 43.63A.510.
+
+3. Public building conversion grants may be used only for costs related to rehabilitation, retrofitting, and conversion of unused, publicly owned buildings for use as housing for homeless persons. Eligible projects include, but are not limited to, rehabilitation of older buildings and conversion of commercial buildings to residential use or transitional housing.
+
+4. Public building conversion grants may not be used for staffing or maintaining buildings converted to housing for the homeless. Costs for staffing and maintenance must be borne by the county.
+
+5. The department shall adopt policies to ensure that the state's interest will be protected upon the sale or change of use of projects financed in whole or in part under this section or any other applicable conditions of grant funding. These policies may include, but are not limited to, requiring repayment of the grant upon the sale or change of use of the project or upon a county's failure to comply with the conditions of grant funding.
+
+6. For purposes of this section, "homeless person" has the same meaning as in RCW 43.185C.010.
+
+7. This section expires December 31, 2022.
+
+
 ## Section 2
 > This section modifies existing section [43.63A.510](/rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md). Here is the [modified chapter](rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md) for context.
 

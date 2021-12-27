@@ -4,56 +4,96 @@
 ## Section 1
 The legislature finds that providing additional funding mechanisms for public use airports that primarily support general aviation activities is in the best interest of the state. The legislature further finds it is in the best interest of the state to have a healthy and strong public use airport system for emergency response and enhanced economic opportunities. The legislature further finds that a revolving loan program would benefit smaller airport development while providing a self-sustaining resource.
 
+
 ## Section 2
-(1) The department of transportation must convene a community aviation revitalization board to exercise the powers granted under this chapter.
-(2) The board must consist of a representative from the department of transportation's aviation division, the public works board, and a nonlegislative member of the community economic revitalization board. The board must also consist of the following members appointed by the secretary of transportation: One port district official, one county official, one city official, one representative of airport managers, and one representative of a general aviation pilots organization within Washington that has an active membership and established location, chapter, or appointed representative within Washington. The appointive members must initially be appointed to terms as follows: Two members for two-year terms, and three members for three-year terms which must include the chair. Thereafter, each succeeding term must be for three years. The chair of the board must be selected by the secretary of transportation. The members of the board must elect one of their members to serve as vice chair.
-(3) Management services, including fiscal and contract services, must be provided by the department of transportation to assist the board in implementing this chapter.
-(4) If a vacancy occurs by death, resignation, or otherwise of appointive members of the board, the secretary of transportation must fill the vacancy for the unexpired term. Members of the board may be removed for malfeasance or misfeasance in office, upon specific written charges by the secretary of transportation, under chapter 34.05 RCW.
-(5) A member appointed by the secretary of transportation may not be absent from more than fifty percent of the regularly scheduled meetings in any one calendar year. Any member who exceeds this absence limitation is deemed to have withdrawn from the office and may be replaced by the secretary of transportation.
-(6) A majority of members currently appointed constitutes a quorum.
-(7) The board must meet three times a year or as deemed necessary by the department of transportation.
-(8) Staff support to the board must be provided by the department of transportation as needed.
+1. The department of transportation must convene a community aviation revitalization board to exercise the powers granted under this chapter.
+
+2. The board must consist of a representative from the department of transportation's aviation division, the public works board, and a nonlegislative member of the community economic revitalization board. The board must also consist of the following members appointed by the secretary of transportation: One port district official, one county official, one city official, one representative of airport managers, and one representative of a general aviation pilots organization within Washington that has an active membership and established location, chapter, or appointed representative within Washington. The appointive members must initially be appointed to terms as follows: Two members for two-year terms, and three members for three-year terms which must include the chair. Thereafter, each succeeding term must be for three years. The chair of the board must be selected by the secretary of transportation. The members of the board must elect one of their members to serve as vice chair.
+
+3. Management services, including fiscal and contract services, must be provided by the department of transportation to assist the board in implementing this chapter.
+
+4. If a vacancy occurs by death, resignation, or otherwise of appointive members of the board, the secretary of transportation must fill the vacancy for the unexpired term. Members of the board may be removed for malfeasance or misfeasance in office, upon specific written charges by the secretary of transportation, under chapter 34.05 RCW.
+
+5. A member appointed by the secretary of transportation may not be absent from more than fifty percent of the regularly scheduled meetings in any one calendar year. Any member who exceeds this absence limitation is deemed to have withdrawn from the office and may be replaced by the secretary of transportation.
+
+6. A majority of members currently appointed constitutes a quorum.
+
+7. The board must meet three times a year or as deemed necessary by the department of transportation.
+
+8. Staff support to the board must be provided by the department of transportation as needed.
+
 
 ## Section 3
 In addition to other applicable provisions of law pertaining to conflicts of interest of public officials, any community aviation revitalization board member, appointive or otherwise, may not participate in any decision on any board contract in which the board member has any interests, direct or indirect, with any firm, partnership, corporation, or association that would be the recipient of any aid under this chapter. If such participation occurs, the board must void the transaction and the involved member is subject to further sanctions as provided by law. The board must adopt a code of ethics for its members, which must be designed to protect the state and its citizens from any unethical conduct by the board.
 
+
 ## Section 4
 The community aviation revitalization board may:
-(1) Adopt bylaws for the regulation of its affairs and the conduct of its business;
-(2) Adopt an official seal and alter the seal at its pleasure;
-(3) Utilize the services of other governmental agencies;
-(4) Accept from any federal agency loans or grants for the planning or financing of any project and enter into an agreement with the agency respecting the loans or grants;
-(5) Conduct examinations and investigations and take testimony at public hearings of any matter material for its information that will assist in determinations related to the exercise of the board's lawful powers;
-(6) Accept any gifts, grants, loans of funds, property, or financial or other aid in any form from any other source on any terms and conditions that are not in conflict with this chapter;
-(7) Enter into agreements or other transactions with and accept grants and the cooperation of any governmental agency in furtherance of this chapter;
-(8) Adopt rules under chapter 34.05 RCW as necessary to carry out the purposes of this chapter; and
-(9) Perform all acts and things necessary or convenient to carry out the powers expressly granted or implied under this chapter.
+
+1. Adopt bylaws for the regulation of its affairs and the conduct of its business;
+
+2. Adopt an official seal and alter the seal at its pleasure;
+
+3. Utilize the services of other governmental agencies;
+
+4. Accept from any federal agency loans or grants for the planning or financing of any project and enter into an agreement with the agency respecting the loans or grants;
+
+5. Conduct examinations and investigations and take testimony at public hearings of any matter material for its information that will assist in determinations related to the exercise of the board's lawful powers;
+
+6. Accept any gifts, grants, loans of funds, property, or financial or other aid in any form from any other source on any terms and conditions that are not in conflict with this chapter;
+
+7. Enter into agreements or other transactions with and accept grants and the cooperation of any governmental agency in furtherance of this chapter;
+
+8. Adopt rules under chapter 34.05 RCW as necessary to carry out the purposes of this chapter; and
+
+9. Perform all acts and things necessary or convenient to carry out the powers expressly granted or implied under this chapter.
+
 
 ## Section 5
-(1) The community aviation revitalization board may make direct loans to airport sponsors of public use airports in the state for the purpose of airport improvements that primarily support general aviation activities. The board may provide loans for the purpose of airport improvements only if the state is receiving commensurate public benefit, which must include, as a condition of the loan, a commitment to provide public access to the airport for a period of time equivalent to one and one-half times the term of the loan. For purposes of this subsection, "public use airports" means all public use airports not listed as having more than seventy-five thousand annual commercial air service passenger enplanements as published by the federal aviation administration.
-(2) An application for loan funds under this section must be made in the form and manner as the board may prescribe. When evaluating loan applications, the board must prioritize applications that provide conclusive justification that completion of the loan application project will create revenue generating opportunities. The board is not limited to, but must also use, the following expected outcome conditions when evaluating loan applications:
-(a) A specific private development or expansion is ready to occur and will occur only if the aviation facility improvement is made;
-(b) The loan application project results in the creation of jobs or private sector capital investment as determined by the board;
-(c) The loan application project improves opportunities for the successful maintenance, operation, or expansion of an airport or adjacent airport business park;
-(d) The loan application project results in the creation or retention of long-term economic opportunities; and
-(e) The loan application project results in leveraging additional federal funding for an airport.
-(3)(a) If the board chooses to require a local match, the board must develop guidelines for local participation and allowable match and activities.
-(b) An application must:
-(i) Be supported by the port district, city, or county in which the project is located; or
-(ii) Clearly identify the source of funds intended to repay the loan.
+1. The community aviation revitalization board may make direct loans to airport sponsors of public use airports in the state for the purpose of airport improvements that primarily support general aviation activities. The board may provide loans for the purpose of airport improvements only if the state is receiving commensurate public benefit, which must include, as a condition of the loan, a commitment to provide public access to the airport for a period of time equivalent to one and one-half times the term of the loan. For purposes of this subsection, "public use airports" means all public use airports not listed as having more than seventy-five thousand annual commercial air service passenger enplanements as published by the federal aviation administration.
+
+2. An application for loan funds under this section must be made in the form and manner as the board may prescribe. When evaluating loan applications, the board must prioritize applications that provide conclusive justification that completion of the loan application project will create revenue generating opportunities. The board is not limited to, but must also use, the following expected outcome conditions when evaluating loan applications:
+
+    a. A specific private development or expansion is ready to occur and will occur only if the aviation facility improvement is made;
+
+    b. The loan application project results in the creation of jobs or private sector capital investment as determined by the board;
+
+    c. The loan application project improves opportunities for the successful maintenance, operation, or expansion of an airport or adjacent airport business park;
+
+    d. The loan application project results in the creation or retention of long-term economic opportunities; and
+
+    e. The loan application project results in leveraging additional federal funding for an airport.
+
+3. [Empty]
+
+    a. If the board chooses to require a local match, the board must develop guidelines for local participation and allowable match and activities.
+
+    b. An application must:
+
+        i. Be supported by the port district, city, or county in which the project is located; or
+
+        ii. Clearly identify the source of funds intended to repay the loan.
+
 
 ## Section 6
 The public use general aviation airport loan program, when authorized by the community aviation revitalization board, is subject to the following conditions:
-(1) The moneys in the public use general aviation airport loan revolving account created in section 8 of this act must be used only to fulfill commitments arising from loans authorized in this chapter. The total outstanding amount that the board must dispense at any time pursuant to this section must not exceed the moneys available from the account.
-(2) On contracts made for public use general aviation airport loans, the board must determine the interest rate that loans must bear. The interest rate must not exceed the amount needed to cover the administrative expenses of the board and the loan program. The board may provide reasonable terms and conditions for the repayment of loans, with the repayment of a loan to begin no later than three years after the award date of the loan. The loans must not exceed twenty years in duration.
-(3) The repayment of any loan made from the public use general aviation airport loan revolving account under the contracts for aviation loans must be paid into the public use general aviation airport loan revolving account.
-(4) Loans issued to airport sponsors of nongovernmental airports must only be made from repaid loan funds deposited into the public use general aviation airport loan revolving account.
+
+1. The moneys in the public use general aviation airport loan revolving account created in section 8 of this act must be used only to fulfill commitments arising from loans authorized in this chapter. The total outstanding amount that the board must dispense at any time pursuant to this section must not exceed the moneys available from the account.
+
+2. On contracts made for public use general aviation airport loans, the board must determine the interest rate that loans must bear. The interest rate must not exceed the amount needed to cover the administrative expenses of the board and the loan program. The board may provide reasonable terms and conditions for the repayment of loans, with the repayment of a loan to begin no later than three years after the award date of the loan. The loans must not exceed twenty years in duration.
+
+3. The repayment of any loan made from the public use general aviation airport loan revolving account under the contracts for aviation loans must be paid into the public use general aviation airport loan revolving account.
+
+4. Loans issued to airport sponsors of nongovernmental airports must only be made from repaid loan funds deposited into the public use general aviation airport loan revolving account.
+
 
 ## Section 7
 To enhance competition for loans and the quality of projects for which loans are sought, the community aviation revitalization board must take such reasonable measures as are necessary to familiarize government officials and members of the public with this chapter, particularly the board's authority to make loans.
 
+
 ## Section 9
 The community aviation revitalization board and the department of transportation must keep proper records of accounts, which are subject to audit by the state auditor.
+
 
 ## Section 10
 > This section modifies existing section [43.79A.040](/rcw/43_state_government—executive/43.079A_treasurers_trust_fund.md). Here is the [modified chapter](rcw/43_state_government—executive/43.079A_treasurers_trust_fund.md) for context.

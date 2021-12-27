@@ -7,6 +7,18 @@
 The legislature finds that, for highly capable students, access to accelerated learning and enhanced instruction is access to a basic education. There are multiple definitions of highly capable, from intellectual to academic to artistic. The research literature strongly supports using multiple criteria to identify highly capable students, and therefore, the legislature does not intend to prescribe a single method. Instead, the legislature intends to  authorize school districts to identify through the use of multiple, objective criteria those students most highly capable and eligible to receive accelerated learning and enhanced instruction in the program offered by the district.
 
 
+## Section 2
+> This section adds a new section to an existing chapter [28A.185](/rcw/28A_common_school_provisions/28A.185_highly_capable_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.185_highly_capable_students.md) for context.
+
+1. The legislature intends to allocate state funding for basic education programs for highly capable students based on five percent of each school district's student population.
+
+2. Funds provided by the state for the state basic education program for highly capable students under RCW 28A.150.260 shall be categorical funding to provide services to highly capable students as determined by a school district under RCW 28A.185.030. However, school districts must use a portion of the funds provided under this subsection to deliver professional development in accordance with section 9(2) of this act.
+
+3. Funds provided by the state for student transportation to and from school includes transportation to and from programs for highly capable students as defined in RCW 28A.160.160, and must be expended in accordance with chapter 28A.160 RCW.
+
+4. Subject to the availability of amounts appropriated for this specific purpose, each school district must conduct universal screenings in accordance with RCW 28A.185.030 to find students who need further assessment for potential gifted program placement.
+
+
 ## Section 3
 > This section modifies existing section [28A.185.030](/rcw/28A_common_school_provisions/28A.185_highly_capable_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.185_highly_capable_students.md) for context.
 
@@ -181,6 +193,30 @@ For purposes of RCW 28A.160.150 through 28A.160.190, except where the context sh
     c. Subjective measures such as teacher recommendations or report card grades may not be used to screen out a student from assessment. These data points may be used alongside other criteria during selection to support identification, but may not be used to disqualify a student from being identified; and
 
     d. To the extent practicable, screening and assessments must be given in the native language of the student. If native language screening and assessments are not available, a nonverbal screening and assessment must be used.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [28A.300](/rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md) for context.
+
+The superintendent of public instruction shall designate at least two full-time equivalent professional staff and at least one 0.5 support staff for the following purposes:
+
+1. Providing technical assistance and guidance to school districts regarding school district programs for highly capable students; and
+
+2. Collecting and analyzing data related to school district programs for highly capable students used in the report required under RCW 28A.185.050.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [28A.415](/rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.415_institutes_workshops_and_training.md) for context.
+
+1. School districts must use a portion of the funds provided under section 2 of this act to provide a minimum of two hours of annual professional development for principals and counselors regarding recognition of students who may qualify for programs for highly capable students, why highly capable students need special services, and the best practices for providing these services. School districts must ensure that the principals and counselors attend this mandated training.
+
+2. [Empty]
+
+    a. Subject to the availability of amounts appropriated for this specific purpose, each school district must provide additional professional development.
+
+    b. The professional development must include all certificated and classified instructional staff, principals, and counselors, and may include other school and school district staff.
+
+    c. For teachers teaching students in a general education classroom who are also admitted to a program for highly capable students, the professional development must be job-embedded as defined in RCW 28A.415.434.
 
 
 ## Section 10

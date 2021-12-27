@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5336.xml)
 ## Section 1
 The legislature finds that not all law enforcement officers' and firefighters' retirement system disability boards provide members with documentation that the medical costs of that member are covered by the board. The legislature further finds that not having access to this documentation has resulted in delayed access to medical services and members having to pay for services upfront and request reimbursement.
+
 Therefore it is the intent of the legislature that every board provide evidence of coverage to eligible members.
+
 
 ## Section 2
 > This section modifies existing section [41.26.115](/rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md) for context.

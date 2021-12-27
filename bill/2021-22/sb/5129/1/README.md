@@ -4,6 +4,7 @@
 ## Section 1
 The legislature recognizes that prevention is the most effective tool to reduce vapor and tobacco usage by persons under the age of 21. The legislature finds that protection of adolescents' health and well-being requires enforcement and intervention efforts to focus upon effective vapor and tobacco control and access strategies. The legislature recognizes vapor and tobacco purchase, possession, and use by persons under the age of 21 as a public health issue. The legislature further recognizes that, with passage of chapter 15, Laws of 2019, individuals between the ages of 18 and 21 do not face criminal or civil liability for purchase or possession of vapor or tobacco products but that individuals under the age of 18 continue to face civil liability for purchase or possession of vapor or tobacco products. The legislature therefore finds that all persons under the age of 21 who engage in vapor or tobacco purchasing, possession, or use should not be treated as violators or status offenders but should be offered community-based interventions that are more effective at addressing the use of vapor products and tobacco.
 
+
 ## Section 2
 > This section modifies existing section [70.155.110](/rcw/70_public_health_and_safety/70.155_tobacco—access_to_minors.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.155_tobacco—access_to_minors.md) for context.
 
@@ -40,3 +41,4 @@ The board may work with local county health departments or districts and local l
 
 ## Section 4
 Nothing in this act shall be interpreted to limit the ability of a peace officer or an enforcement officer of the liquor and cannabis board to enforce the provisions of chapters 70.155 and 70.345 RCW and RCW 26.28.080 and 82.24.500.
+

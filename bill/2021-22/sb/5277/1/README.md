@@ -4,6 +4,7 @@
 ## Section 1
 The legislature acknowledges that temporary suspension of the early achievers program, the state's quality rating and improvement system for early learning and child care providers, may lead to greater stability for providers and fewer child care deserts in Washington. Through proclamation, the governor explained that waiving and suspending the state's quality rating and improvement requirements will help make child care available to children of essential staff and children from low-income families who need child care services during the COVID-19 pandemic. The legislature intends to extend the temporary suspension of the early achievers program to July 1, 2022, to support providers during COVID-19 and to allow time for the legislature to devote more resources to the system.
 
+
 ## Section 3
 > This section modifies existing section [43.216.085](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
 

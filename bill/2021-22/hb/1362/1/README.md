@@ -29,3 +29,4 @@ The definitions in this section apply throughout this chapter unless the context
 
 ## Section 3
 This act applies to taxes levied for collection in 2022 and thereafter.
+

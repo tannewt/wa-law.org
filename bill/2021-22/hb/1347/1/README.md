@@ -1,6 +1,36 @@
 # House Bill 1347
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1347.xml)
+## Section 1
+> This section adds a new section to an existing chapter [74.13](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
+
+1. For children in the department's custody that meet the description provided in subsection (3) of this section, the department shall provide maintenance payments to the foster parent that are at least one-third of the payment that would otherwise be provided to a qualified residential treatment program as defined in RCW 13.34.030 for the first six months of the child's stay with the foster parent.
+
+2. After a foster parent has provided care for the child for six months, and every six months thereafter, the department shall negotiate an appropriate maintenance payment with the foster parent who is caring for a child meeting the description provided in subsection (3) of this section with the goal of maintaining stability for the child and based on factors listed in subsection (3) of this section that exist at the time the payment amount is reviewed.
+
+3. The circumstances that trigger foster parent maintenance payments described under subsection (1) of this section include when the caseworker is aware of any of the following:
+
+    a. Developmentally inappropriate sexually aggressive behavior on the part of the child;
+
+    b. A potential for the child to hurt animals or a history of the child hurting animals;
+
+    c. Suicidal ideation on the part of the child within the last year;
+
+    d. Self-harm behaviors on the part of the child within the last year;
+
+    e. Aggressive behaviors on the part of the child within the last year;
+
+    f. A requirement that the child remain in a room alone during periods of the day to maintain the safety of the child or others;
+
+    g. A prohibition on the child being around children age two or younger;
+
+    h. The child experiencing 15 or more placements in the preceding six months;
+
+    i. Homicidal ideation on the part of the child; or
+
+    j. A history of arson on the part of the child.
+
+
 ## Section 2
 > This section modifies existing section [74.13.031](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
 

@@ -1,6 +1,152 @@
 # Senate Bill 5377
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5377.xml)
+## Section 1
+> This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the exchange:
+
+    a. Shall establish a premium assistance program and annually set the amount of premium assistance provided to eligible individuals; and
+
+    b. May establish a cost-sharing reduction program to provide cost-sharing assistance to eligible individuals.
+
+2. The exchange must establish:
+
+    a. Procedural requirements for eligibility and continued participation in the premium assistance program, including participant documentation requirements that are necessary to administer the program; and
+
+    b. Procedural requirements for facilitating payments to carriers.
+
+3. Subject to the availability of amounts appropriated for this specific purpose, an individual is eligible for premium assistance and cost-sharing reductions under this section if the individual:
+
+    a. [Empty]
+
+        i. Is a resident of the state;
+
+        ii. Has income that is up to 500 percent of the federal poverty level;
+
+        iii. Is enrolled in the lowest cost bronze, silver, or gold standard plan offered in the enrollee's county of residence;
+
+        iv. Applies for and accepts all advance premium tax credits for which they may be eligible;
+
+    v. Is ineligible for minimum essential coverage through medicare, a federal or state medical assistance program administered by the authority under chapter 74.09 RCW, or for premium assistance under RCW 43.71A.020; and
+
+    vi. Meets other eligibility criteria as established by the exchange; or
+
+    b. Meets eligibility criteria as established in the omnibus appropriations act.
+
+4. [Empty]
+
+    a. The exchange may disqualify an individual from receiving premium assistance or cost-sharing reductions under this section if the individual:
+
+        i. No longer meets the eligibility criteria in subsection (3) of this section;
+
+        ii. Fails, without good cause, to comply with any procedural or documentation requirements established by the exchange in accordance with subsection (2) of this section;
+
+        iii. Fails, without good cause, to notify the exchange of a change of address in a timely manner;
+
+        iv. Voluntarily withdraws from the program; or
+
+    v. Performs an act, practice, or omission that constitutes fraud, and, as a result, an issuer rescinds the individual's policy for the qualified health plan.
+
+    b. The exchange must develop a process for an eligible individual to appeal a premium assistance or cost-sharing assistance eligibility determination from the exchange.
+
+5. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Advance premium tax credit" means the premium assistance amount determined in accordance with the federal patient protection and affordable care act, P.L. 111-148, as amended by the federal health care and education reconciliation act of 2010, P.L. 111-152, or federal regulations or guidance issued under the affordable care act.
+
+    b. "Income" means the modified adjusted gross income attributed to an individual for purposes of determining his or her eligibility for advance premium tax credits.
+
+    c. "Standard plan" means a standardized health plan under RCW 43.71.095.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
+
+1. The exchange, in consultation with the authority and the office of the insurance commissioner, must explore all opportunities to apply to the secretary of health and human services under 42 U.S.C. Sec. 18052 for a waiver or other available federal flexibilities to:
+
+    a. Receive federal funds for the implementation of the premium assistance or cost-sharing reduction programs established under section 1 of this act;
+
+    b. Increase access to qualified health plans; and
+
+    c. Implement or expand other exchange programs that increase affordability of or access to health insurance coverage in Washington state.
+
+2. If the exchange submits an application under this section, the board must notify the chairs and ranking minority members of the appropriate policy and fiscal committees of the legislature.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
+
+1. The state health care affordability account is created in the state treasury. Expenditures from the account may only be used for premium and cost-sharing assistance programs established in section 1 of this act.
+
+2. The following funds must be deposited in the account:
+
+    a. Any grants, donations, or contributions of money collected for purposes of the premium assistance or cost-sharing reduction programs established in section 4 of this act;
+
+    b. Any federal funds received by the health benefit exchange pursuant to section 2 of this act; and
+
+    c. Any additional funding specifically appropriated to the account.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [48.43](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+For qualified health plans offered on the exchange, a carrier shall:
+
+1. Accept payments for enrollee premiums or cost-sharing assistance under section 1 of this act or as part of a sponsorship program under RCW 43.71.030(4);
+
+2. Clearly communicate premium assistance amounts to enrollees as part of the invoicing and payment process; and
+
+3. Accept and process enrollment and payment data transferred by the exchange in a timely manner.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [41.05](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
+
+1. For plan years 2022 and later, at the request of a public option plan, an ambulatory surgical facility or a hospital that receives payment for services provided to enrollees in the public employees' benefits program, school employees' benefits program, or through a medical assistance program under chapter 74.09 RCW, must contract with the public option plan to provide in-network services to enrollees of that plan.
+
+2. A hospital reimbursement rate formula is established for inpatient and outpatient hospital services provided to enrollees of a public option plan on or after January 1, 2023.
+
+3. [Empty]
+
+    a. The hospital reimbursement rate formula must be based on a percentage of the medicare reimbursement rates. The base reimbursement rate for hospitals may not exceed 135 percent of the amount medicare would have reimbursed the hospital.
+
+    b. The reimbursement rate for a hospital shall be adjusted as follows:
+
+        i. A hospital with a percentage of medicaid patients that exceeds the statewide average must receive up to a five point increase in its base reimbursement rate, with the actual increase to be determined based on the hospital's percentage share of medicaid patients.
+
+        ii. A hospital that is efficient in managing the underlying cost of care, factoring the hospital's total margins, operating costs, and net patient revenue, must receive up to a five point increase in its base reimbursement rate.
+
+4. By December 1, 2022, the authority, in collaboration with the health benefit exchange, shall establish in rule the hospital reimbursement rate formula and corresponding carrier reimbursement rates to hospitals for inpatient and outpatient hospital services provided to enrollees of a public option plan.
+
+5. [Empty]
+
+    a. The authority may adopt program rules to ensure compliance with this section and may take one or more of the following actions against an ambulatory surgical facility or hospital that fails to comply with this section:
+
+        i. Levy fines;
+
+        ii. Take contract actions;
+
+        iii. Refuse to contract with an ambulatory surgical facility or hospital; or
+
+        iv. Prohibit a health carrier contracted with the public employees' benefits program or school employees' benefits program from contracting with an ambulatory surgical facility or hospital.
+
+    b. The authority shall publish a list of all enforcement actions taken under this subsection.
+
+    c. If the authority levies any fine under this section, it must provide notice and opportunity to participate in an adjudicative proceeding in accordance with chapter 34.05 RCW.
+
+6. By December 15, 2024, the authority, in consultation with the health care cost transparency board and the health benefit exchange, must submit a report to the legislature with recommendations on any adjustments to the base reimbursement rate or other factors to be considered in the hospital reimbursement rate formula.
+
+7. For purposes of this section:
+
+    a. "Adjusted discharge" means the number of hospital discharges multiplied by the ratio of total gross revenue to inpatient gross revenue and multiplied by the case-mix index and the wage index.
+
+    b. "Ambulatory surgical facility" means an ambulatory surgical facility licensed under chapter 70.230 RCW.
+
+    c. "Hospital" means hospitals licensed and regulated under chapter 70.41 RCW.
+
+    d. "Public option plan" means a qualified health plan contracted by the authority under RCW 41.05.410.
+
+
 ## Section 6
 > This section modifies existing section [41.05.410](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
 

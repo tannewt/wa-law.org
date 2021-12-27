@@ -1,6 +1,182 @@
 # House Bill 1578
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1578.xml)
+## Section 1
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. The authority shall establish a substance use recovery services plan to implement measures to assist persons with substance use disorder in accessing outreach, treatment, and recovery support services that are low-barrier, person-centered, informed by people with lived experience, and culturally and linguistically appropriate. The plan must articulate the manner in which continual, rapid, and widespread access to a comprehensive continuum of care will be provided to all persons with substance use disorder.
+
+2. The plan must consider:
+
+    a. The manner in which persons with substance use disorder currently access and interact with the behavioral health system;
+
+    b. The points of intersection that persons with substance use disorder have with the health care, criminal, legal, and child welfare systems, including emergency departments, syringe service programs, law enforcement, correctional facilities, and dependency court; and
+
+    c. The various locations in which persons with untreated substance use disorder congregate, including homeless encampments, motels, and casinos.
+
+3. The plan must:
+
+    a. Address the effects of establishing personal use amounts of controlled substances, counterfeit substances, and legend drugs as provided in RCW 69.50.101;
+
+    b. Include potential new community-based care access points, including the safe station model in partnership with fire departments;
+
+    c. Include strategic grant making to community organizations to educate the public to eliminate stigma and prejudice against persons with substance use disorder by improving public understanding and promoting hope;
+
+    d. Include innovative mechanisms for real-time, peer-driven, noncoercive outreach and engagement to individuals in active substance use disorder across all settings and develop measures to enhance the effectiveness of and opportunities for intervention across new and existing points of contact with this population; and
+
+    e. Support diversion to community-based care for individuals who may face criminal consequences for other drug-related law violations, but for whom it is evident that a response that addresses and attends to the underlying behavioral health needs and social determinants of health may be more effective.
+
+4. The plan and related rules adopted by the authority must include the following substance use treatment and recovery services, which must be available in or accessible by all jurisdictions: Field-based outreach and engagement; peer recovery support services; intensive case management; substance use disorder treatment, including evidence-based treatment, promising practices, and innovative approaches; and recovery support services including housing, job training, and placement services. These services must be equitably distributed across urban and rural settings and, if possible, made available on demand through 24 hour, seven days a week peer recovery coach response, behavioral health triage centers, or other innovative rapid response models. These services must, at a minimum, incorporate the following principles: Low barrier to entry and reentry; improve the health and safety of the individual; reduce the harm of substance use and related activity for the public; integrated and coordinated services; incorporate structural competency and antiracism; noncoercive methods of retaining people in treatment and recovery services, including contingency management; consideration of the unique needs of rural communities; and services that increase social determinants of health.
+
+5. In developing the plan, the authority shall:
+
+    a. Provide due consideration to the adoption and implementation of the recommendations of the substance use recovery services advisory committee established in section 2 of this act. Where adoption and implementation of recommendations are infeasible, the authority shall notify the advisory committee and request refinement or modification of recommendations for implementation;
+
+    b. Align the components of the plan with previous and ongoing studies, plans, and reports, including the Washington state opioid overdose and response plan, published by the authority, the roadmap to recovery planning grant strategy being developed by the authority, and plans associate with federal block grants; and
+
+    c. Coordinate its work with the efforts of the blue ribbon commission on the intersection of the criminal justice and behavioral health crisis systems established in the governor's executive order 21-02 and the crisis response improvement strategy committee established in chapter . . . (Engrossed Second Substitute House Bill No. 1477), Laws of 2021.
+
+6. The authority must submit the substance use recovery services plan to the governor and the legislature by December 1, 2021. After submitting the plan, the authority shall adopt rules and enter into contracts with providers to implement the plan by December 1, 2022. In addition to seeking public comment under chapter 34.05 RCW, the authority must adopt rules in accordance with the recommendations of the substance use recovery services advisory committee as provided in subsection (5) of this section.
+
+7. The authority must submit a readiness report to the governor and the legislature by November 1, 2022, that indicates progress on the substance use disorder continuum of care, including availability of outreach, treatment, and recovery support services.
+
+8. In consultation with the substance use recovery services advisory committee, the authority must submit a report on the implementation of the substance use recovery services plan to the appropriate committees of the legislature and governor by December 1st of each year, beginning in 2022.
+
+9. For the purposes of this section, "recovery support services" means a collection of nontreatment resources that sustain long-term recovery from substance use disorder, including recovery housing, employment and education supports, peer recovery coaching, family education, technological recovery supports, transportation and child care assistance to facilitate treatment participation and early recovery, and social connectedness.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. The authority shall establish the substance use recovery services advisory committee to advise the authority in the development and implementation of the substance use recovery services plan under section 1 of this act.
+
+2. The authority must, in consultation with the University of Washington department of psychiatry and behavioral sciences and an organization that represents the interests of people who have been directly impacted by substance use and the criminal legal system, appoint members to the advisory committee who have relevant background related to the needs of persons with substance use disorder.
+
+3. The advisory committee must make recommendations and provide perspectives to the authority regarding:
+
+    a. Current regional capacity for existing public and private programs providing substance use disorder assessments, each of the American society of addiction medicine levels of care, and recovery support services;
+
+    b. Barriers to accessing the existing behavioral health system for those populations chronically exposed to criminal legal system responses relating to complex behavioral health conditions and the consequences of trauma, and possible innovations that could reduce those barriers and improve the quality and accessibility of care for those populations;
+
+    c. Evidence-based, research-based, and promising treatment and recovery services appropriate for target populations;
+
+    d. Workforce needs for the behavioral health services sector, including addressing wage and retention challenges;
+
+    e. Options for leveraging existing integrated managed care, medicaid waiver, American Indian or Alaska Native fee-for-service behavioral health benefits, and private insurance service capacity for substance use disorders, including but not limited to coordination with managed care organizations, behavioral health administrative services organizations, the Washington health benefit exchange, accountable communities of health, and the office of the insurance commissioner;
+
+    f. Framework and design assistance for jurisdictions to assist in compliance with the requirements of RCW 10.31.110 for diversion of individuals with complex behavioral health conditions to community-based care whenever possible and appropriate, and identifying resource gaps that impede jurisdictions in fully realizing the potential impact of this approach;
+
+    g. The design of community-based outreach and intensive case management programs in section 3 of this act, including reporting requirements by behavioral health administrative services organizations to monitor the effectiveness of the programs;
+
+    h. The design of ongoing qualitative and quantitative research about the types of services desired by people with substance use disorders and barriers they experience in accessing existing and recommended services; and
+
+    i. Proposing a funding framework in which, over time, resources are shifted from punishment sectors to community-based care interventions such that community-based care becomes the primary strategy for addressing and resolving public order issues related to behavioral health conditions.
+
+4. The advisory committee must convene as necessary for the development of the substance use recovery services plan and the development and adoption of rules for implementing the plan, and must convene to monitor implementation of the plan and advise the authority.
+
+5. This section expires December 31, 2026.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Each behavioral health administrative services organization shall establish a community-based outreach and intensive case management program. The program shall provide intake, assessment, and referral services and, as appropriate, long-term case management services, to individuals with substance use disorder who are referred to the program from diverse sources and facilitate and coordinate connections to a broad range of community resources for individuals with substance use disorder.
+
+2. The authority shall establish uniform program standards for behavioral health administrative services organizations to follow in the design of their community-based outreach and intensive case management programs. The uniform program standards must be modeled upon the components of the law enforcement assisted diversion program and address project management, field engagement, biopsychosocial assessment, intensive case management and care coordination, stabilization housing when available and appropriate, and, as necessary, legal system coordination. The authority must adapt the uniform program standards from the components of the law enforcement assisted diversion program to accommodate an expanded population of persons with substance use disorder and allow for referrals from a broad range of sources. The expanded population must include both persons who use controlled substances, counterfeit substances, and legend drugs within the personal use amount as provided in RCW 69.50.101 and persons whose use exceeds the personal use amount. In addition to accepting referrals from law enforcement, the uniform program standards must provide guidance for accepting referrals on behalf of an individual with substance use disorder from various sources including, but not limited to, self-referral, family members of the individual, emergency department personnel, persons engaged with serving homeless encampments, safe station program personnel, fire department personnel, emergency medical service personnel, community-based organizations, members of the business community, harm reduction program personnel, faith-based organization staff, and other sources within the criminal justice system, as outlined within the sequential intercept model. In developing response time requirements within the statewide program standards, the authority shall require that responses to referrals from law enforcement occur immediately for in custody referrals.
+
+3. The authority shall provide funding to each behavioral health administrative services organization for the development of its program. Before receiving funding for implementation and ongoing administration, each behavioral health administrative services organization must submit a program plan that demonstrates the ability to fully comply with statewide program standards. The authority shall establish a schedule for the regular review of behavioral health administrative services organizations' programs. The authority shall arrange for technical assistance to be provided by the LEAD national support bureau to all behavioral health administrative services organizations.
+
+4. Each behavioral health administrative services organization must have a designated program director for its community-based outreach and intensive case management program. The program director shall be responsible for assuring compliance with program standards, including staffing standards. Each community-based outreach and intensive case management program must maintain a sufficient number of appropriately trained personnel for both providing intake and referral services and conducting field assessments for persons referred to the program. Program staff must include people with lived experience with substance use disorder to the extent possible. The designated program director must assure that staff who are conducting intake and referral services and field assessments are paid a livable and competitive wage and have appropriate initial training and receive continuing education.
+
+5. Each community-based outreach and intensive case management program must submit quarterly reports to the authority with information identified by the authority and the substance use recovery services advisory committee. The reports must be provided to the substance use recovery services advisory committee for discussion at meetings following the submission of the reports.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish a grant program to:
+
+    a. Provide treatment services for low-income individuals with substance use disorder who are not eligible for medical assistance programs under chapter 74.09 RCW; and
+
+    b. Provide treatment services that are not eligible for federal matching funds to individuals who are enrolled in medical assistance programs under chapter 74.09 RCW.
+
+2. In establishing the grant program, the authority shall consult with behavioral health administrative services organizations, managed care organizations, and regional behavioral health providers to adopt regional standards that are consistent with the substance use recovery services plan developed under section 1 of this act to provide sufficient access to meet each region's needs for:
+
+    a. Opioid treatment programs;
+
+    b. Low-barrier buprenorphine clinics;
+
+    c. Withdrawal management services;
+
+    d. Inpatient substance use disorder treatment services;
+
+    e. Inpatient co-occurring disorder treatment services; and
+
+    f. Behavioral health crisis walk-in and drop-off services.
+
+3. Funds in the grant program must be used to reimburse providers for the provision of services to individuals identified in subsection (1) of this section. The authority may use the funds to support evidence-based practices and promising practices that are not reimbursed by medical assistance or private insurance. In addition, funds may be used to provide assistance to organizations to establish or expand services as reasonably necessary and feasible to increase the availability of services to achieve the regional access standards developed under subsection (2) of this section, including such items as training and recruitment of personnel, reasonable modifications to existing facilities to accommodate additional clients, start-up funding, and similar forms of assistance. Funds may not be used to support the ongoing operational costs of a provider or organization, except in relation to payments for specific service encounters with an individual identified in subsection (1) of this section or for noninsurance reimbursable services.
+
+4. The authority must establish regional access standards under subsection (2) of this section by January 1, 2022, and begin distributing grant funds by March 1, 2022.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+1. Subject to the availability of amounts appropriated for this specific purpose, the authority shall establish the expanded recovery support services program to develop and expand access to recovery service for individuals in recovery from substance use disorder.
+
+2. In establishing the program, the authority shall consult with behavioral health administrative services organizations, regional behavioral health providers, and regional community organizations that support individuals in recovery from substance use disorder to adopt regional expanded recovery plans that are consistent with the substance use recovery services plan developed under section 1 of this act to provide sufficient access to meet each region's needs for:
+
+    a. Recovery housing;
+
+    b. Employment pathways, support, and training;
+
+    c. Education pathways, including recovery high schools and collegiate recovery programs;
+
+    d. Recovery coaching and substance use disorder peer support;
+
+    e. Social connectedness initiatives, including the recovery café model;
+
+    f. Family support services;
+
+    g. Technology-based recovery support services;
+
+    h. Transportation assistance; and
+
+    i. Legal support services.
+
+3. Funds in the expanded recovery support services program must be used to reimburse providers for the provision of services to individuals in recovery from substance use disorder. In addition, the funds may be used to provide assistance to organizations to establish or expand recovery support services as reasonably necessary and feasible to increase the availability of services to achieve the regional access standards developed under subsection (2) of this section, including such items as training and recruitment of personnel, reasonable modifications to existing facilities to accommodate additional clients, and similar forms of assistance.
+
+4. The authority must establish regional expanded recovery plans under subsection (2) of this section by January 1, 2022, and begin distributing grant funds by March 1, 2022.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [43.101](/rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md). Here is the [modified chapter](rcw/43_state_government—executive/43.101_criminal_justice_training_commission—education_and_training_standards_boards.md) for context.
+
+1. Beginning July 1, 2022, all law enforcement personnel required to complete basic law enforcement training under RCW 43.101.200 must receive training on law enforcement interaction with persons with substance use disorders, including referral to treatment and recovery services, as part of the basic law enforcement training. The training must be developed by the commission in consultation with appropriate substance use disorder recovery advocacy organizations and with appropriate community, local, and state organizations and agencies that have expertise in the area of working with persons with substance use disorders, including law enforcement diversion of such individuals to community-based care. In developing the training, the commission must also examine existing courses certified by the commission that relate to persons with a substance use disorder, and should draw on existing training partnerships with the Washington association of sheriffs and police chiefs.
+
+2. The training must consist of classroom instruction or internet instruction and shall replicate likely field situations to the maximum extent possible. The training should include, at a minimum, core instruction in all of the following:
+
+    a. Proper procedures for referring persons to treatment and supportive services in accordance with section 1 of this act;
+
+    b. The cause and nature of substance use disorders, including the role of trauma;
+
+    c. Barriers to treatment engagement experienced by many with such disorders who have contact with the legal system;
+
+    d. How to identify indicators of substance use disorder and how to respond appropriately in a variety of common situations;
+
+    e. Conflict resolution and de-escalation techniques for potentially dangerous situations involving persons with a substance use disorder;
+
+    f. Appropriate language usage when interacting with persons with a substance use disorder;
+
+    g. Alternatives to lethal force when interacting with potentially dangerous persons with a substance use disorder;
+
+    h. The principles of recovery and the multiple pathways to recovery; and
+
+    i. Community and state resources available to serve persons with substance use disorders and how these resources can be best used by law enforcement to support persons with a substance use disorder in their communities.
+
+3. In addition to incorporation into the basic law enforcement training under RCW 43.101.200, training must be made available to law enforcement agencies, through electronic means, for use at their convenience and determined by the internal training needs and resources of each agency.
+
+
 ## Section 8
 > This section modifies existing section [69.50.101](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
 
@@ -183,6 +359,12 @@ The definitions in this section apply throughout this chapter unless the context
     xx. "Useable marijuana" means dried marijuana flowers. The term "useable marijuana" does not include either marijuana-infused products or marijuana concentrates.
 
     yy. "Youth access" means the level of interest persons under the age of twenty-one may have in a vapor product, as well as the degree to which the product is available or appealing to such persons, and the likelihood of initiation, use, or addiction by adolescents and young adults.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [69.50](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
+
+The health care authority must review the personal use amounts established in RCW 69.50.101(kk) and shall submit reports to the governor and the legislature with any recommended adjustments to the established personal use amounts and any recommendations for establishing additional personal use amounts of controlled substances, counterfeit substances, and legend drugs for which there is routine nonmedical and nonprescribed use. Reports must be submitted on an annual basis by December 1st, with the first report due on December 1, 2021.
 
 
 ## Section 11
@@ -1490,5 +1672,7 @@ Such court commissioner shall have power, authority, and jurisdiction, concurren
 ## Section 23
 The State v. Blake reimbursement account is created in the state treasury. All receipts from penalties collected under RCW 69.50.4011(3)(b), 69.50.4013(2)(b), 69.41.030(2)(b)(ii), and 69.50.445(4)(b) must be deposited into the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for state and local government costs resulting from the supreme court's decision in State v. Blake, No. 96873-0 (Feb. 25, 2021) and to reimburse individuals for legal financial obligations paid in connection with sentences that have been invalidated as a result of the decision.
 
+
 ## Section 27
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

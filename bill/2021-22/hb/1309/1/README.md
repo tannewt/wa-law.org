@@ -4,6 +4,7 @@
 ## Section 1
 It is the intent of the legislature to align the statutory dates by which the county legislative authority must certify property tax levies and adopt the county budget. State law currently provides dates by which the county legislative authority must take these two actions that do not align, making county compliance difficult, if not impossible. It is the intent of the legislature to correct this situation by providing a timeline that can be implemented by county officials without negatively impacting junior taxing districts.
 
+
 ## Section 2
 > This section modifies existing section [84.52.070](/rcw/84_property_taxes/84.52_levy_of_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.52_levy_of_taxes.md) for context.
 

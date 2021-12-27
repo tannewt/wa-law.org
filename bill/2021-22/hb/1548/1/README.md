@@ -4,6 +4,7 @@
 ## Section 1
 This act intends to clarify that the hybrid vehicles that are subject to transportation electrification fees are vehicles that plug in to the electric grid for a source of power.
 
+
 ## Section 2
 > This section modifies existing section [46.17.324](/rcw/46_motor_vehicles/46.17_vehicle_fees.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.17_vehicle_fees.md) for context.
 

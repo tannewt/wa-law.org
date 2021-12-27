@@ -4,6 +4,7 @@
 ## Section 1
 The legislature intends to prevent impacts, based on this act, to the family and medical leave insurance account or the application of a solvency surcharge.
 
+
 ## Section 2
 > This section modifies existing section [50A.05.010](/rcw/50A_family_and_medical_leave/50A.05_general_provisions.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.05_general_provisions.md) for context.
 
@@ -215,14 +216,23 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 
 ## Section 3
-(1) The employment security department must collect and analyze disaggregated data relating to employment protections under Title 50A RCW. The employment security department must develop the proposed plan for data collection and analysis in consultation with the paid family and medical leave advisory committee.
-(2) By December 1, 2021, the employment security department must submit a report to the appropriate committees of the legislature with the following information:
-(a) Program utilization by employees covered under approved voluntary plans compared to employees covered under the state plan; and
-(b) Program utilization by employees working for employers with 50 or more employees compared to employees working for employers with fewer than 50 employees.
-(3) By June 30, 2022, and June 30, 2023, the employment security department must submit a report to the appropriate committees of the legislature with the following information:
-(a) The number of individuals who used leave under Title 50A RCW in the preceding 12 months as a result of the amended definition of family member in this act; and
-(b) The effects, if any, on the family and medical leave insurance account as a result of the amended definition of family member in this act.
-(4) The employment security department must provide members of the paid family and medical leave advisory committee opportunity for comment on the reports under subsections (2) and (3) of this section. Comments provided through this process must be included in a separate section of each final report.
+1. The employment security department must collect and analyze disaggregated data relating to employment protections under Title 50A RCW. The employment security department must develop the proposed plan for data collection and analysis in consultation with the paid family and medical leave advisory committee.
+
+2. By December 1, 2021, the employment security department must submit a report to the appropriate committees of the legislature with the following information:
+
+    a. Program utilization by employees covered under approved voluntary plans compared to employees covered under the state plan; and
+
+    b. Program utilization by employees working for employers with 50 or more employees compared to employees working for employers with fewer than 50 employees.
+
+3. By June 30, 2022, and June 30, 2023, the employment security department must submit a report to the appropriate committees of the legislature with the following information:
+
+    a. The number of individuals who used leave under Title 50A RCW in the preceding 12 months as a result of the amended definition of family member in this act; and
+
+    b. The effects, if any, on the family and medical leave insurance account as a result of the amended definition of family member in this act.
+
+4. The employment security department must provide members of the paid family and medical leave advisory committee opportunity for comment on the reports under subsections (2) and (3) of this section. Comments provided through this process must be included in a separate section of each final report.
+
 
 ## Section 4
 If the number of individuals utilizing leave under Title 50A RCW as a result of the amended definition of family member in this act exceeds 500 individuals in any calendar year before July 1, 2023, the expenses of the additional leave must be paid by the general fund into the family and medical leave insurance account created in RCW 50A.05.070.
+

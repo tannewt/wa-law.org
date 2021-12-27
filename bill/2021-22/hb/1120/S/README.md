@@ -569,3 +569,4 @@
 
 ## Section 19
 This act is remedial and curative in nature and all of its sections apply retroactively to February 29, 2020, to include the period of the state of emergency created by the COVID-19 outbreak. In any instance where this act grants rule-making authority to the department of social and health services or the department of health, the agencies may adopt the rules as emergency rules and may make the rules retroactively effective.
+

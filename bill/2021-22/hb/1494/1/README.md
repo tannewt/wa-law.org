@@ -2,16 +2,164 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1494.xml)
 ## Section 1
-(1) The legislature finds that home and housing security is more important to Washingtonians than ever before. The COVID-19 pandemic prompted Washington governor Jay Inslee to institute a stay-at-home order in March 2020, obliging millions of nonessential employees to remain at home. Governor Inslee also declared a statewide emergency in September 2020, when west coast wildfires destroyed 181 homes in Washington state and made outdoor air unbreathable for many weeks, leading millions to seek refuge indoors and in their homes.
-(2) The legislature further finds that: Homeownership is the main mechanism for building wealth for individuals and families in the middle class; owning a home is a way to create wealth and pass it on generationally; and institutional class and racial biases limits access to home ownership for many Washingtonians.
-(3) The legislature further finds that middle class families have disproportionate tax responsibility due, in part, to property tax liability.
-(4) The legislature further finds that our paramount duty to fund common schools and increase equity in education relies on tax revenue that is disproportionately reliant on taxes paid by middle class property and homeowners, and that the inequities in our tax code limits access and sustainability of homeownership for working families, black, indigenous, and people of color homeowners, and elders, who are those age 65 and older, due, in part, to this over reliance on property taxes pricing them out of their homes.
-(5) The legislature further finds that we are living through a new civil rights moment, a moment of reflection and remedy of racial disparity in policing, employment, schools, and housing, and recognizes the link to racial and class bias in economic systems of capitalism. In 2018, the national assessment of education and progress found that Washington state ranked last among all fifty states in closing the white-black achievement gap among eighth graders between 2003 and 2017. In Washington state, black Americans earn 76 cents on the dollar of their white counterparts.
-(6) The legislature recognizes that working families, black, indigenous, and people of color communities, and elders in Washington state are subject to more displacement and gentrification than other homeowners, and that racial justice cannot be realized without economic justice and access to housing and land, and that the enforcement of property tax laws has a socioeconomic and racial disparity impact generationally.
-(7) The legislature further finds a loss of homeownership for working families has been extraordinary, particularly homeownership rates in black, indigenous, and people of color communities, including in King county, which has the largest concentration of black families in the state. Black family homeownership in King county since 1970, when the rate of black homeownership was at 49 percent, versus 64.2 percent for white families, has fallen by 2015 to 28 percent versus 63 percent for white families, as reported in the Seattle Times.
-(8) The legislature further finds that working families, black, indigenous, and people of color families, and elders experience more home foreclosure and forfeiture than other homeowners in Washington state, and that many home foreclosures are due to owing back property taxes.
-(9) The legislature further finds that many Washingtonians are vulnerable to foreclosure by mortgage holders and other secured creditors, despite the homestead exemption limited in bankruptcy statute, RCW 6.13.030, which is a tool to protect the head of household from having their homes confiscated and sold to satisfy debts from unsecured creditors.
-(10) Therefore, it is the intent of the legislature to prevent more loss of real property and the displacement of working families, black, indigenous, and people of color communities, and elders. By exempting a portion of tax of one's primary residence, we can lower the inequities of cost of homeownership and responsibility of taxation, with the goal of making sure individuals can reside, raise their families, age in place, and stay in the communities they call home, without fear of displacement due to crises and/or increase in land and home value assessment. This is a means of providing equity in the tax code and serves as an antidisplacement tool for land trusts, cooperative owners, and homeowners across Washington.
+1. The legislature finds that home and housing security is more important to Washingtonians than ever before. The COVID-19 pandemic prompted Washington governor Jay Inslee to institute a stay-at-home order in March 2020, obliging millions of nonessential employees to remain at home. Governor Inslee also declared a statewide emergency in September 2020, when west coast wildfires destroyed 181 homes in Washington state and made outdoor air unbreathable for many weeks, leading millions to seek refuge indoors and in their homes.
+
+2. The legislature further finds that: Homeownership is the main mechanism for building wealth for individuals and families in the middle class; owning a home is a way to create wealth and pass it on generationally; and institutional class and racial biases limits access to home ownership for many Washingtonians.
+
+3. The legislature further finds that middle class families have disproportionate tax responsibility due, in part, to property tax liability.
+
+4. The legislature further finds that our paramount duty to fund common schools and increase equity in education relies on tax revenue that is disproportionately reliant on taxes paid by middle class property and homeowners, and that the inequities in our tax code limits access and sustainability of homeownership for working families, black, indigenous, and people of color homeowners, and elders, who are those age 65 and older, due, in part, to this over reliance on property taxes pricing them out of their homes.
+
+5. The legislature further finds that we are living through a new civil rights moment, a moment of reflection and remedy of racial disparity in policing, employment, schools, and housing, and recognizes the link to racial and class bias in economic systems of capitalism. In 2018, the national assessment of education and progress found that Washington state ranked last among all fifty states in closing the white-black achievement gap among eighth graders between 2003 and 2017. In Washington state, black Americans earn 76 cents on the dollar of their white counterparts.
+
+6. The legislature recognizes that working families, black, indigenous, and people of color communities, and elders in Washington state are subject to more displacement and gentrification than other homeowners, and that racial justice cannot be realized without economic justice and access to housing and land, and that the enforcement of property tax laws has a socioeconomic and racial disparity impact generationally.
+
+7. The legislature further finds a loss of homeownership for working families has been extraordinary, particularly homeownership rates in black, indigenous, and people of color communities, including in King county, which has the largest concentration of black families in the state. Black family homeownership in King county since 1970, when the rate of black homeownership was at 49 percent, versus 64.2 percent for white families, has fallen by 2015 to 28 percent versus 63 percent for white families, as reported in the Seattle Times.
+
+8. The legislature further finds that working families, black, indigenous, and people of color families, and elders experience more home foreclosure and forfeiture than other homeowners in Washington state, and that many home foreclosures are due to owing back property taxes.
+
+9. The legislature further finds that many Washingtonians are vulnerable to foreclosure by mortgage holders and other secured creditors, despite the homestead exemption limited in bankruptcy statute, RCW 6.13.030, which is a tool to protect the head of household from having their homes confiscated and sold to satisfy debts from unsecured creditors.
+
+10. Therefore, it is the intent of the legislature to prevent more loss of real property and the displacement of working families, black, indigenous, and people of color communities, and elders. By exempting a portion of tax of one's primary residence, we can lower the inequities of cost of homeownership and responsibility of taxation, with the goal of making sure individuals can reside, raise their families, age in place, and stay in the communities they call home, without fear of displacement due to crises and/or increase in land and home value assessment. This is a means of providing equity in the tax code and serves as an antidisplacement tool for land trusts, cooperative owners, and homeowners across Washington.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [84.36](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
+
+1. Subject to the conditions in this section, a portion of the assessed value of a residence is exempt from the state levy but not from property taxes levied by any local taxing district. Subject to the adjustments and limitations in subsection (2) of this section, the antidisplacement property exemption from the state levy is equal to:
+
+    a. For taxes levied for collection in 2024 and thereafter:
+
+        i. Up to the first $250,000 of assessed valuation, or the amount calculated pursuant to section 3 of this act, of each residential tax parcel consisting of fewer than three residences; and
+
+        ii. Up to the first $250,000 of assessed valuation, or the amount calculated pursuant to section 3 of this act, of each residence within a multiunit residential dwelling wherein each residence is owned and taxed separately or is owned by members of a cooperative housing association, corporation, or partnership; and
+
+    b. For taxes levied for collection in each subsequent year, the maximum amount of antidisplacement property tax exemption may be increased from the prior year's exemption amount. The amount of such increase for a year is equal to the percentage growth in the state levy between the state levy for collection in the preceding year as compared to the state levy for collection two years ago. The department is responsible for making a determination of any increase in the amount of the antidisplacement property tax exemption and may round the dollar amount of the exemption to the nearest $1,000.
+
+2. [Empty]
+
+    a. The county assessor must multiply the amount of the antidisplacement property tax exemption for a tax year by the combined indicated ratio fixed by the department for the county in which the residence is located and used by the department to determine the equalized state levy for that county for that tax year.
+
+    b. The amount of the antidisplacement property tax exemption for a residence may not result in a tax reduction that exceeds the amount of state property taxes that would otherwise be levied on that residence.
+
+3. The antidisplacement property tax exemption is in addition to the exemption provided in RCW 84.36.379 through 84.36.389.
+
+4. [Empty]
+
+    a. [Empty]
+
+        i. The antidisplacement property tax exemption must be claimed on declaration forms developed by the department by June 30th of the calendar year prior to the year for which the exemption will be claimed. The department shall provide the means for claimants to annually claim the antidisplacement property tax exemption for their primary residence online. The department shall verify that claimants have a single residence claimed for the applicable calendar year. The department shall provide the county assessor a list of claimants, parcels, associated exemptions, and other necessary information by August 1st each year.
+
+        ii. Each county assessor must make declaration forms available at the assessor's office, on the assessor's official website, and by mail or email upon request.
+
+    b. The claimant or his or her designated agent or legal guardian must sign the declaration declaring that the property for which the antidisplacement property tax exemption is sought is the claimant's principal residence within the meaning of subsection (5)(a) and (b) of this section. If the claimant resides in a cooperative housing association, corporation, or partnership, the declaration or renewal declaration must also be signed by the authorized agent of such cooperative. If the claimant holds a life estate in the residence for which the antidisplacement property tax exemption is claimed and the claimant is not shown on the tax rolls as the taxpayer for that residence, the remainderman or other person shown on the tax rolls as the taxpayer must also sign the declaration. All signatures on a declaration must be made under penalty of perjury as provided in RCW 9A.72.085.
+
+    c. Notice of the antidisplacement property tax exemption and where to obtain further information about the exemption must be included on or with property tax statements and revaluation notices for residential property. The department and each county assessor are required to publicize the qualifications and manner of making claims for the antidisplacement property tax exemption, including such paid advertisements or notices as deemed appropriate in the sole discretion of the department and county assessors. The department and county assessors must make the antidisplacement property tax exemption information available in all languages required for voter ballot outreach at the state level.
+
+5. The following conditions apply to the antidisplacement property tax exemption:
+
+    a. The residence must be occupied by the claimant as his or her principal place of residence as of the date of the signed declaration under subsection (4) of this section. A claimant who sells, transfers, or is displaced from his or her residence may transfer his or her exemption status to a replacement residence, but no claimant may receive the antidisplacement property tax exemption on more than one residence in any calendar year. However, the confinement of the claimant to a hospital, nursing home, assisted living facility, or adult family home will not disqualify the claim of exemption if:
+
+        i. The residence is temporarily unoccupied;
+
+        ii. The residence is occupied by either a spouse, state registered domestic partner, or a person financially dependent on the claimant for support, or both; or
+
+        iii. The residence is rented for the purpose of paying the claimant's costs of a nursing home, hospital, assisted living facility, or adult family home.
+
+    b. At the time of signing the declaration or renewal declaration:
+
+        i. The claimant must have owned, in fee or by contract purchase, or have held a life estate in, the residence for which the antidisplacement property tax exemption is claimed; or
+
+        ii. If the claimant resides in a cooperative housing association, corporation, or partnership, including a mobile home park cooperative or manufactured housing cooperative, the claimant must own a share in the cooperative representing the unit or dwelling in which he or she resides or the lot on which his or her manufactured/mobile home or park model is situated.
+
+    c. For purposes of this section, a residence owned by a marital community, state registered domestic partners, or cotenants is deemed to be owned by each spouse, domestic partner, or cotenant, and any lease for life or 99 years of a single-family dwelling unit or the land upon which it stands is deemed a life estate in the residence.
+
+    d. [Empty]
+
+        i. The assessed value of a dwelling owned by a cooperative housing association, corporation, or partnership must be reduced, for purposes of state property taxes levied on the dwelling, by the amount of the antidisplacement property tax exemption to which a claimant residing in that dwelling is entitled. The cooperative must pass the full amount of its property tax savings under this section to its members in proportion to each member's antidisplacement property tax exemption. The cooperative may meet its obligation under this subsection (5)(d)(i) by reducing the amount owed by the members to the cooperative or, if no amount be owed, by making payment to the members.
+
+        ii. A mobile home park cooperative or manufactured housing cooperative is entitled to any unused portion of the antidisplacement property tax exemption of its members. A mobile home park cooperative or manufactured housing cooperative receiving the unused portion of the antidisplacement property tax exemption of its members must pass the full amount of its property tax savings to its members in proportion to each member's unused antidisplacement property tax exemption. The cooperative may meet its obligation under this subsection (5)(d)(ii) by reducing the amount owed by the members to the cooperative or, if no amount be owed, by making payment to the members. For purposes of this subsection (5)(d)(ii), "unused portion of the antidisplacement property tax exemption" means the amount by which the maximum allowable primary residence exemption exceeds the assessed value of the manufactured/mobile home or park model owned by a member of the mobile home park cooperative or manufactured housing cooperative.
+
+    e. A claimant granted an antidisplacement property tax exemption must immediately inform the county assessor, on forms created or approved by the department, of any change in status affecting the claimant's entitlement to a primary residence exemption.
+
+    f. [Empty]
+
+        i. Where a claimant has a life estate in the single-family dwelling unit, the land upon which it sits, or both, which comprise his or her residence, and a remainderman or other person would have otherwise paid the state property tax exempted on the residence, or portion of the residence, as a result of the claimant's antidisplacement property tax exemption, such remainderman or other person must reduce the amount owed by the claimant to the remainderman or other person by the amount of the tax savings from the claimant's antidisplacement property tax exemption. If no amount is owed by the claimant to the remainderman or other person, the remainderman or other person must make payment to the claimant in the full amount of the tax savings from the claimant's antidisplacement property tax exemption.
+
+        ii. Where a claimant has a life estate in a cooperative ownership or a community land trust, which comprise his or her residence, and a remainderman or other person would have otherwise paid the state property tax exempted on the residence, or portion of the residence, as a result of the claimant's antidisplacement property tax exemption, such remainderman or other person must reduce the amount owed by the claimant to the remainderman or other person by the amount of the tax savings from the claimant's antidisplacement property tax exemption. If no amount is owed by the claimant to the remainderman or other person, the remainderman or other person must make payment to the claimant in the full amount of the tax savings from the claimant's the antidisplacement property tax exemption.
+
+6. [Empty]
+
+    a. [Empty]
+
+        i. If the assessor finds that the claimant's residence does not meet the qualifications for the antidisplacement property tax exemption, the assessor must deny or cancel the antidisplacement property tax exemption.
+
+        ii. If the assessor receives a notice of declaration from the department or declaration after the deadline in subsection (4) of this section, the assessor must deny the antidisplacement property tax exemption unless the assessor determines that the claimant qualifies for the antidisplacement property tax exemption and that good cause exists to excuse the late filing. A claimant whose antidisplacement property tax exemption was denied because the declaration was filed after the deadline in subsection (4) of this section may seek a refund of state property taxes paid as a result of the denial as provided in RCW 84.69.020. For purposes of this subsection (6)(a)(ii), good cause may be shown by one or more of the following circumstances:
+
+(A) Death or serious illness of the claimant or a member of the claimant's immediate family, as defined in RCW 42.17A.005, within two weeks of the due date of the declaration;
+
+(B) The claimant received incorrect, ambiguous, or misleading written advice regarding the qualifications or filing requirements for the primary residence exemption from the county assessor's staff;
+
+(C) Natural disaster, such as flood or earthquake, occurring within two weeks of the due date of the declaration or renewal declaration; or
+
+(D) Other circumstances as the department may provide by rule.
+
+    b. A denial under this subsection (6)(a)(ii) is subject to appeal under the provisions of RCW 84.48.010 and in accordance with the provisions of RCW 84.40.038.
+
+    c. If the assessor determines that the claimant had received the antidisplacement property tax exemption in error in prior years, the county treasurer must collect all state property taxes that would have been paid on the claimant's residence for the prior years had the antidisplacement property tax exemption not been claimed, not to exceed six years. Interest, but not penalties, applies to such taxes and is computed at the same rates and in the same way as interest is computed on delinquent taxes. Taxes and interest imposed under this subsection (6)(c): (i) Must be extended on the tax roll; (ii) are due within 30 days after the date of the treasurer's billing for such taxes and interest; and (iii) constitute a lien on the real property to which the tax and interest applies as provided in chapter 84.60 RCW.
+
+7. The department may conduct audits of the administration of this section and claims filed for the antidisplacement property tax exemption as the department considers necessary. The powers of the department under chapter 84.08 RCW apply to these audits.
+
+8. The department may adopt such rules in accordance with chapter 34.05 RCW, and prescribe such forms, as the department deems necessary and appropriate to implement and administer this section.
+
+9. For the purposes of this section:
+
+    a. "Antidisplacement property tax exemption" means a tax exemption from the state property tax levy for a primary residence that meets the requirements of this act.
+
+    b. "Claimant" means an individual who has applied for or is receiving a primary residence exemption.
+
+    c. "Community land trust" means a private, nonprofit organization created to acquire and hold land for the benefit of a community and provide secure affordable access to land and housing for community residents.
+
+    d. "Cooperative ownership" means a type of residential housing where the corporation owns the housing units and each resident is a shareholder in the corporation based in part on the relative size of the unit in which they reside.
+
+    e. "Manufactured/mobile home," "manufactured housing cooperative," "mobile home park cooperative," and "park model" have the same meaning as in RCW 59.20.030.
+
+    f. "Residence" means a single-family dwelling unit whether such unit is separate or part of a multiunit dwelling, including the land on which such dwelling stands, regardless of whether ownership of the single-family dwelling unit and the land on which the dwelling unit stands is vested in the same person. "Residence" includes:
+
+        i. A single-family dwelling unit situated upon lands the fee of which is vested in or held in trust by the United States or any of its instrumentalities, a federally recognized Indian tribe, the state of Washington or any of its political subdivisions, or a municipal corporation;
+
+        ii. A single-family dwelling unit consisting of a manufactured/mobile home or park model that has substantially lost its identity as a mobile unit by virtue of its being fixed in location and placed on a foundation with fixed pipe connections with sewer, water, or other utilities; and
+
+        iii. A single-family dwelling unit consisting of a floating home as defined in RCW 82.45.032.
+
+    g. "State levy" means property taxes levied by the state under RCW 84.52.065.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [84.36](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
+
+1. By December 10th of each year, the department must determine the revenue deposited during the previous 12 months through November 30th of the current year into the Washington tax justice and equity fund created in section 4 of this act.
+
+2. By December 31st of each year, the department must estimate the amount needed to fund the full amount of the antidisplacement property tax exemption for the upcoming calendar year. By December 1st of each year, each county assessor must submit any necessary data to the department in order to complete this estimate.
+
+3. By December 31st of each year, the department must determine if the full antidisplacement property tax exemption can be funded. If the department determines that there is not sufficient funds available to provide the full amount of the antidisplacement property tax exemption established in section 2 of this act for the upcoming calendar year, it must calculate a new exemption amount for that upcoming year based on the funds available.
+
+4. Any moneys in excess of what is needed to fully fund the antidisplacement property tax exemption established in section 2 of this act for the calendar year shall remain in the Washington tax justice and equity fund.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [84.36](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
+
+The Washington tax justice and equity fund is created in the state treasury. Moneys in the account may be spent only after appropriation. Expenditures from the account may only be used for ensuring that the general fund moneys for the common schools is not adversely impacted by the application of the antidisplacement property tax exemption for any calendar year.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [84.52](/rcw/84_property_taxes/84.52_levy_of_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.52_levy_of_taxes.md) for context.
+
+1. Pursuant to the provisions of Article VII, section . . . (House Joint Resolution No. . . . . (H-0756/21)), the state levy must be reduced as necessary to prevent the value exempted under the antidisplacement property tax exemption in section 2 of this act from resulting in a higher tax rate than would have occurred in the absence of the primary residence exemption.
+
+2. Transfers from the Washington tax justice and equity fund must be made to ensure that any deficit to the general fund resulting from the application of subsection (1) of this section will be eliminated.
+
 
 ## Section 6
 > This section modifies existing section [84.48.010](/rcw/84_property_taxes/84.48_equalization_of_assessments.md). Here is the [modified chapter](rcw/84_property_taxes/84.48_equalization_of_assessments.md) for context.
@@ -90,5 +238,7 @@ The county treasurer of each county must make all refunds determined to be autho
 ## Section 10
 This act does not affect any existing right acquired or liability or obligation incurred under the sections amended or repealed or under any rule or order adopted under those sections, nor does it affect any proceeding instituted under those sections.
 
+
 ## Section 11
 This act applies to taxes levied for collection in 2023 and thereafter.
+

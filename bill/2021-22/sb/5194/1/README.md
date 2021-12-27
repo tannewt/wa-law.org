@@ -3,81 +3,153 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5194.xml)
 ## Section 1
 The legislature recognizes that student completion rates for workforce training certification and degree programs at community and technical colleges are far lower than desirable to ensure that students may utilize the opportunities of postsecondary education to lift themselves and their families out of poverty and to meet our state's student achievement council road map goals, including for 70 percent of Washington residents to have a postsecondary certification or degree to meet workforce needs. The legislature recognizes that first-generation college-attending students and underrepresented minority students face far greater obstacles to apply, remain in school, and complete programs. This disparate impact greatly affects our state's commitment to equity.
+
 The legislature recognizes that offering tuition financial support to first-generation and underrepresented minority students is necessary for students to enroll and attend college but must also be accompanied by proven supports for them to complete their degrees or workforce training programs.
+
 The legislature recognizes that there are mentorship and advising programs based on strong evidence that have been proven to be successful in greatly increasing retention and degree or workforce training completion rates for first-generation students, underrepresented minority students, and for all students at community and technical colleges. It is the legislature's intent that successful programs such as guided pathways, integrated basic education skills and training, and mentoring programs along with improved advising for students be implemented at all community and technical colleges with the goal of doubling completion rates (as measured by completion in six years) for students in the next eight years. To accomplish this goal, the legislature intends that all students receiving Washington college grants, college bound scholarships, or federal Pell grants should receive the supports, including mentoring, that have been proven to increase completion rates.
+
 The legislature recognizes the success of the City University of New York's accelerated study in associate programs, also known as ASAP. The accelerated study in associate programs' goal is to have at least 50 percent of students earn an associate degree within three years by removing barriers to completion with financial and comprehensive academic supports. The program began in 2007 at six City University of New York colleges with a little over 1,000 students. Today, the program has expanded to nine colleges with over 22,000 students with consistent results. In addition, the program has been replicated at other colleges in Ohio, California, and New York. To date, the accelerated study in associate programs average three-year graduation rate is 53 percent. The 2013 national three-year graduation rate for public two-year colleges was just 19 percent and Washington's graduation rate was just under 29 percent. The MDRC, a nonprofit nonpartisan research organization, evaluated the impacts of the accelerated study in associate programs with a random assignment design and found that the program doubled graduation rates, which was the largest effect MDRC has found in any of its evaluations of community college reforms. In addition, MDRC found that at the three-year point, the cost per degree was lower for the accelerated study in associate programs because the program generated so many additional graduates. The legislature intends for all students who receive Washington college grants, college bound scholarships, or Pell grants to receive the supports under this act and related programs in order to enable them to remain enrolled and complete their programs in a reasonable period of time.
+
 The legislature further finds that research establishes that students from underrepresented minorities are far more likely to complete degrees or workforce training certification programs if the faculty and staff of the college reflect the diversity of the student body. Therefore, the legislature intends for the state's community and technical colleges to develop and implement plans to increase faculty and staff diversity.
+
 
 ## Section 2
 The legislature finds that there is a need to expand investments in community and technical colleges for the purpose of guaranteeing both equitable access and educational success for all residents of the state, particularly for students from communities of color and low-income communities. The legislature finds further that equality of opportunity for all students requires investments to support services that are critical to: The success of students of color and low-income students; provide systemwide equity initiatives intended to make community and technical college campuses welcoming, benevolent places; overcome the digital divide for all students; and provide qualified and available counseling throughout the community and technical college system. The legislature also finds that a more full-time, stable, fairly compensated, and diverse community and technical college faculty is necessary to enhance student success and to improve the mentoring available for a diverse student body. The legislature also finds that resources for student aid and workforce investment need to be adequate to meet the needs of all students in the state, particularly those from families of color and low-income families.
 
+
 ## Section 3
-(1) Beginning July 30, 2022, all community and technical colleges must submit, on an annual basis, strategic plans to the state board for community and technical colleges for achieving diversity, equity, and inclusion on their campuses.
-(2) Colleges must create their strategic plans using an inclusive process of stakeholders including, but not limited to, classified staff, faculty, administrative exempt staff, students, and community organizations. Colleges are encouraged to use campus climate surveys to develop and update strategic plans for diversity, equity, and inclusion. The state board for community and technical colleges shall develop a model campus climate survey tool relating to diversity, equity, and inclusion, and may contract for carrying out surveys at individual colleges.
-(3) In addition to planning, each community and technical college shall include in its diversity program opportunities for students from diverse communities to form student-based organizations, and to use community-based organizations, that permit students to work together to mentor and assist one another in navigating the educational system and to access trained mentors using evidence-based mentoring strategies.
-(4) Each community and technical college shall establish a culturally appropriate outreach program to communities of color and low-income communities designed to assist potential students to understand the opportunities available in the community and technical college system and to assist with navigating the student aid system. Outreach programs shall include partnerships with appropriate community-based organizations and use research and supports from the student achievement council.
-(5) Colleges may request funds from the state board for community and technical colleges to implement and maintain their strategic plan. A college's request for funds to implement and maintain its strategic plan must include funding for staff whose primary responsibilities are to implement and monitor the effectiveness of the strategic plan.
-(6) A college's overhead costs to implement the strategic plan may not exceed five percent of the funds allocated to the college for implementation of the strategic plan.
-(7) Each college shall assess its progress towards meeting the goals of diversity, equity, and inclusion. The assessment must detail progress on each goal, describe obstacles encountered, prioritize goals in the strategic plan for the following year, and identify resources needed for continued progress.
+1. Beginning July 30, 2022, all community and technical colleges must submit, on an annual basis, strategic plans to the state board for community and technical colleges for achieving diversity, equity, and inclusion on their campuses.
+
+2. Colleges must create their strategic plans using an inclusive process of stakeholders including, but not limited to, classified staff, faculty, administrative exempt staff, students, and community organizations. Colleges are encouraged to use campus climate surveys to develop and update strategic plans for diversity, equity, and inclusion. The state board for community and technical colleges shall develop a model campus climate survey tool relating to diversity, equity, and inclusion, and may contract for carrying out surveys at individual colleges.
+
+3. In addition to planning, each community and technical college shall include in its diversity program opportunities for students from diverse communities to form student-based organizations, and to use community-based organizations, that permit students to work together to mentor and assist one another in navigating the educational system and to access trained mentors using evidence-based mentoring strategies.
+
+4. Each community and technical college shall establish a culturally appropriate outreach program to communities of color and low-income communities designed to assist potential students to understand the opportunities available in the community and technical college system and to assist with navigating the student aid system. Outreach programs shall include partnerships with appropriate community-based organizations and use research and supports from the student achievement council.
+
+5. Colleges may request funds from the state board for community and technical colleges to implement and maintain their strategic plan. A college's request for funds to implement and maintain its strategic plan must include funding for staff whose primary responsibilities are to implement and monitor the effectiveness of the strategic plan.
+
+6. A college's overhead costs to implement the strategic plan may not exceed five percent of the funds allocated to the college for implementation of the strategic plan.
+
+7. Each college shall assess its progress towards meeting the goals of diversity, equity, and inclusion. The assessment must detail progress on each goal, describe obstacles encountered, prioritize goals in the strategic plan for the following year, and identify resources needed for continued progress.
+
 
 ## Section 4
 In order to improve the degree and workforce certification completion rates for students receiving Washington college grants, college bound scholarships, opportunity scholarships, or federal Pell grants, each community and technical college shall establish for implementation in the 2023-24 academic year a student success support program using programs that the state board for community and technical colleges, in consultation with the student achievement council, finds have been effective to improve student completion rates for students of similar backgrounds to those attending each community and technical college and that include:
-(1) A student success support program that is either a credit-based class, orientation program, or peer mentoring program that is based on research or documented evidence of success at other institutions with comparable student populations. The student success support program may include elements of:
-(a) Learning about study skills, time management, and college success skills;
-(b) Academic advising and career planning;
-(c) Basic financial literacy and information and requirements for financial aid, including student loan programs and debt, particularly for students from cultural or economic backgrounds with limited knowledge of student loans and debt;
-(d) Acclimating students to the institution's campus, resources, services, and culture, including the expectations and demands of postsecondary education;
-(e) Tutoring or peer tutoring;
-(f) Cohort-based programs; and
-(g) Peer mentorship;
-(2) An evidence-based remedial program, such as the integrated basic education and skills training program, for those students with remedial mathematics or English education needs. The remedial program may include elements of:
-(a) Team teaching;
-(b) Mixed basic skills and college-level curriculum;
-(c) Accelerated basic skills curriculum; and
-(d) Flipped classroom instruction;
-(3) Subject to the availability of amounts appropriated for this specific purpose, the guided pathways program;
-(4) Advising programs for students receiving state or federal need grant aid that includes the following staff persons who are dedicated solely to the program:
-(a) A program director to oversee, train, and coordinate program staff and faculty, in addition to leading efforts on evaluation and data collection;
-(b) A program advisor or advisors, who each shall:
-(i) Have a maximum caseload of 150 students and whose caseloads are made up of only students participating in the program;
-(ii) Meet with program students at least once per month throughout the students' time in the program; and
-(iii) Communicate and coordinate with faculty regarding program students' progress;
-(c) A career and employment specialist to work with program students individually and in groups to:
-(i) Facilitate career exploration, awareness, and preparation;
-(ii) Assist students with finding immediate employment compatible with their course schedules; and
-(iii) Encourage networking and internship opportunities;
-(5) In addition to dedicated program staff:
-(a) Adequate numbers of tutors that are available for program students with remedial needs who are required to attend tutoring and for other program students who may voluntarily seek academic assistance; or
-(b) Expanded use of integrated remedial and workforce or academic learning using the state board for community and technical colleges' integrated basic education and skills training program model.
+
+1. A student success support program that is either a credit-based class, orientation program, or peer mentoring program that is based on research or documented evidence of success at other institutions with comparable student populations. The student success support program may include elements of:
+
+    a. Learning about study skills, time management, and college success skills;
+
+    b. Academic advising and career planning;
+
+    c. Basic financial literacy and information and requirements for financial aid, including student loan programs and debt, particularly for students from cultural or economic backgrounds with limited knowledge of student loans and debt;
+
+    d. Acclimating students to the institution's campus, resources, services, and culture, including the expectations and demands of postsecondary education;
+
+    e. Tutoring or peer tutoring;
+
+    f. Cohort-based programs; and
+
+    g. Peer mentorship;
+
+2. An evidence-based remedial program, such as the integrated basic education and skills training program, for those students with remedial mathematics or English education needs. The remedial program may include elements of:
+
+    a. Team teaching;
+
+    b. Mixed basic skills and college-level curriculum;
+
+    c. Accelerated basic skills curriculum; and
+
+    d. Flipped classroom instruction;
+
+3. Subject to the availability of amounts appropriated for this specific purpose, the guided pathways program;
+
+4. Advising programs for students receiving state or federal need grant aid that includes the following staff persons who are dedicated solely to the program:
+
+    a. A program director to oversee, train, and coordinate program staff and faculty, in addition to leading efforts on evaluation and data collection;
+
+    b. A program advisor or advisors, who each shall:
+
+        i. Have a maximum caseload of 150 students and whose caseloads are made up of only students participating in the program;
+
+        ii. Meet with program students at least once per month throughout the students' time in the program; and
+
+        iii. Communicate and coordinate with faculty regarding program students' progress;
+
+    c. A career and employment specialist to work with program students individually and in groups to:
+
+        i. Facilitate career exploration, awareness, and preparation;
+
+        ii. Assist students with finding immediate employment compatible with their course schedules; and
+
+        iii. Encourage networking and internship opportunities;
+
+5. In addition to dedicated program staff:
+
+    a. Adequate numbers of tutors that are available for program students with remedial needs who are required to attend tutoring and for other program students who may voluntarily seek academic assistance; or
+
+    b. Expanded use of integrated remedial and workforce or academic learning using the state board for community and technical colleges' integrated basic education and skills training program model.
+
 
 ## Section 5
-(1) By December 1, 2023, each community and technical college shall establish a faculty diversity program designed to provide for the retention and recruitment of faculty from diverse racial, ethnic, and cultural backgrounds. The program must meet minimum standards established by the state board for community and technical colleges.
-(2) The standards for faculty diversity programs under this section developed by the state board for community and technical colleges must be based on the 17 steps for diversity and equity in hiring and professional development in the hiring process developed by the collective of professionals from the Washington state community and technical colleges. In developing the standards, the state board for community and technical colleges must also consider model faculty diversity programs from other institutions, including recommended methods for mentoring students, staff, and members of the community to become faculty in the system. The standards must also include requirements for consultation with students from diverse backgrounds and faculty bargaining representatives in their development and implementation.
-(3) Subject to the availability of amounts appropriated for this specific purpose, the state board for community and technical colleges shall grant to each community and technical college an annual grant not to exceed $150,000 to be used exclusively for the purpose of developing and administering faculty diversity programs required under this section.
-(4) Each community and technical college shall report to the state board for community and technical colleges an annual assessment of progress toward faculty diversity goals.
+1. By December 1, 2023, each community and technical college shall establish a faculty diversity program designed to provide for the retention and recruitment of faculty from diverse racial, ethnic, and cultural backgrounds. The program must meet minimum standards established by the state board for community and technical colleges.
+
+2. The standards for faculty diversity programs under this section developed by the state board for community and technical colleges must be based on the 17 steps for diversity and equity in hiring and professional development in the hiring process developed by the collective of professionals from the Washington state community and technical colleges. In developing the standards, the state board for community and technical colleges must also consider model faculty diversity programs from other institutions, including recommended methods for mentoring students, staff, and members of the community to become faculty in the system. The standards must also include requirements for consultation with students from diverse backgrounds and faculty bargaining representatives in their development and implementation.
+
+3. Subject to the availability of amounts appropriated for this specific purpose, the state board for community and technical colleges shall grant to each community and technical college an annual grant not to exceed $150,000 to be used exclusively for the purpose of developing and administering faculty diversity programs required under this section.
+
+4. Each community and technical college shall report to the state board for community and technical colleges an annual assessment of progress toward faculty diversity goals.
+
 
 ## Section 6
-(1) By December 31, 2023, the state board for community and technical colleges must create a plan to achieve a systemwide ratio, determined by employee headcount, of full-time, tenure-track faculty to nontenure-track faculty of at least 70 percent and establish equal-pay-for-equal-work for all faculty members by the end of the 2030-31 academic year. Except as provided in subsection (2) of this section, the plan must be implemented in phases, with the first phase-in of the plan to begin in the fall quarter of 2024. The state board for community and technical colleges must develop this systemwide plan in collaboration with academic employee collective bargaining representatives. To support the state board for community and technical colleges' planning process, each community and technical college district must develop, in collaboration with academic employee bargaining representatives at the college, a college-level plan to achieve these goals at each college and provide it to the state board for community and technical colleges by November 1, 2023.
-(2) The first priority for the plans must be the faculty in programs that provide basic education for adults. The required 70 percent ratio of full-time to part-time faculty for instructors in the basic education for adults program must be achieved by the 2026 academic year.
-(3) The plan must: Include as nontenure-track faculty all academic employees who are not tenured or on the tenure track, including all associate, adjunct, contingent, and part-time faculty; create new, full-time tenure-track faculty positions and more opportunities for nontenure-track faculty; and include as part of the planning process open public meetings to ensure inclusion of student and community member perspectives and ideas.
-(4) The state board for community and technical colleges shall report to the higher education committees of the legislature by December 1, 2024, and by December 1st every two years thereafter until 2030 regarding phase-in of the systemwide plan required by this section and information regarding the systemwide plan and each college's progress in achieving the plan.
-(5) The standards used in this section to determine equal-pay-for-equal-work must be based on the instructional work of the faculty, including direct student support, time in class, preparation for class, grading and assessment, and office hours equivalent to those required for full-time tenure-track faculty under the relevant collective bargaining agreement.
-(6) For the purposes of this section, "academic employee" has the same meaning as in RCW 28B.50.489.
+1. By December 31, 2023, the state board for community and technical colleges must create a plan to achieve a systemwide ratio, determined by employee headcount, of full-time, tenure-track faculty to nontenure-track faculty of at least 70 percent and establish equal-pay-for-equal-work for all faculty members by the end of the 2030-31 academic year. Except as provided in subsection (2) of this section, the plan must be implemented in phases, with the first phase-in of the plan to begin in the fall quarter of 2024. The state board for community and technical colleges must develop this systemwide plan in collaboration with academic employee collective bargaining representatives. To support the state board for community and technical colleges' planning process, each community and technical college district must develop, in collaboration with academic employee bargaining representatives at the college, a college-level plan to achieve these goals at each college and provide it to the state board for community and technical colleges by November 1, 2023.
+
+2. The first priority for the plans must be the faculty in programs that provide basic education for adults. The required 70 percent ratio of full-time to part-time faculty for instructors in the basic education for adults program must be achieved by the 2026 academic year.
+
+3. The plan must: Include as nontenure-track faculty all academic employees who are not tenured or on the tenure track, including all associate, adjunct, contingent, and part-time faculty; create new, full-time tenure-track faculty positions and more opportunities for nontenure-track faculty; and include as part of the planning process open public meetings to ensure inclusion of student and community member perspectives and ideas.
+
+4. The state board for community and technical colleges shall report to the higher education committees of the legislature by December 1, 2024, and by December 1st every two years thereafter until 2030 regarding phase-in of the systemwide plan required by this section and information regarding the systemwide plan and each college's progress in achieving the plan.
+
+5. The standards used in this section to determine equal-pay-for-equal-work must be based on the instructional work of the faculty, including direct student support, time in class, preparation for class, grading and assessment, and office hours equivalent to those required for full-time tenure-track faculty under the relevant collective bargaining agreement.
+
+6. For the purposes of this section, "academic employee" has the same meaning as in RCW 28B.50.489.
+
 
 ## Section 7
-(1) Beginning the fall academic quarter of 2021, every community and technical college must have and maintain a staffing ratio of no more than 900 aid-eligible students to one full-time equivalent faculty counselor, based on the previous fall quarter's unduplicated student head count.
-(2) The ratio required under this section applies to counselor positions that are state-funded. Counselor positions that are funded by sources other than state funds may not be counted when determining if a community or technical college has met the student-to-counselor ratio requirement.
-(3) The state board for community and technical colleges shall include data on each community and technical college's student-to-counselor ratio in its annual fall quarter enrollment and staffing report.
-(4) The requirements and standards imposed through this subsection shall not apply to an individual employed by a college district as a counselor before the effective date of this section.
-(5) For purposes of this section, the following definitions apply:
-(a) "Aid-eligible student" means a student who qualifies for the federal Pell grant, Washington college grant, or college bound scholarship.
-(b) "Counselor" means persons who meet minimum standards established by the state board for community and technical colleges. For the purposes of counselors employed under this section, these minimum standards must include:
-(i) A graduate or professional degree from a regionally accredited institution in counseling psychology, school counseling, clinical social work, or a related field;
-(ii) Completion of appropriate graduate coursework with content covering assessment and testing, career counseling, crisis intervention and management, legal and ethical issues in counseling, lifespan development, multicultural counseling, theories of counseling, and treatment planning; and
-(iii) Completion of a supervised practicum and internship at the graduate level.
+1. Beginning the fall academic quarter of 2021, every community and technical college must have and maintain a staffing ratio of no more than 900 aid-eligible students to one full-time equivalent faculty counselor, based on the previous fall quarter's unduplicated student head count.
+
+2. The ratio required under this section applies to counselor positions that are state-funded. Counselor positions that are funded by sources other than state funds may not be counted when determining if a community or technical college has met the student-to-counselor ratio requirement.
+
+3. The state board for community and technical colleges shall include data on each community and technical college's student-to-counselor ratio in its annual fall quarter enrollment and staffing report.
+
+4. The requirements and standards imposed through this subsection shall not apply to an individual employed by a college district as a counselor before the effective date of this section.
+
+5. For purposes of this section, the following definitions apply:
+
+    a. "Aid-eligible student" means a student who qualifies for the federal Pell grant, Washington college grant, or college bound scholarship.
+
+    b. "Counselor" means persons who meet minimum standards established by the state board for community and technical colleges. For the purposes of counselors employed under this section, these minimum standards must include:
+
+        i. A graduate or professional degree from a regionally accredited institution in counseling psychology, school counseling, clinical social work, or a related field;
+
+        ii. Completion of appropriate graduate coursework with content covering assessment and testing, career counseling, crisis intervention and management, legal and ethical issues in counseling, lifespan development, multicultural counseling, theories of counseling, and treatment planning; and
+
+        iii. Completion of a supervised practicum and internship at the graduate level.
+
 
 ## Section 8
 The legislature finds that child care is a significant need of students in the community and technical colleges. The need for child care is a barrier that prevents students from entering the system and contributes to the low student completion rate.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [28B.50](/rcw/28B_higher_education/28B.050_community_and_technical_colleges.md). Here is the [modified chapter](rcw/28B_higher_education/28B.050_community_and_technical_colleges.md) for context.
+
+1. The state board for community and technical colleges, after consultation with the student achievement council and the department of children, youth, and families, shall design a program to help both full-time and part-time students to access child care services and to assist eligible students to qualify for child care subsidies.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, by December 31, 2021, the state board for community and technical colleges shall conduct a comprehensive survey of the child care needs of students, employees, and faculty in the community and technical colleges and to report their findings to the legislature, along with recommendations to improve access to child care subsidies and services. The recommendations developed pursuant to this subsection must include recommendations concerning how to achieve access to quality and affordable child care for all community and technical college students, faculty, and staff.
+
+3. The program design and survey provided for in subsections (1) and (2) of this section are subject to the availability of amounts appropriated for this specific purpose.
+
 
 ## Section 10
 > This section modifies existing section [28B.92.030](/rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md). Here is the [modified chapter](rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md) for context.
@@ -123,6 +195,16 @@ As used in this chapter:
 6. "Office" means the office of student financial assistance.
 
 7. "Tuition growth factor" means an increase of no more than the average annual percentage growth rate of the median hourly wage for Washington for the previous fourteen years as the wage is determined by the federal bureau of labor statistics.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [28B.92](/rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md). Here is the [modified chapter](rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md) for context.
+
+1. The Washington college grant stipend program is created. All eligible students may be eligible for student support stipends for housing, transportation, food, and medical care. The amount of stipend awards is subject to the availability of amounts appropriated for this specific purpose.
+
+2. Eligible students may use the stipends to cover the cost of books, materials, or equipment required for the completion of their course of study but not covered by other sources of student aid.
+
+3. The office shall adopt rules regarding the distribution and awarding of stipends.
 
 
 ## Section 12
@@ -321,3 +403,4 @@ For persons subject to the surcharge imposed under this subsection (1) that repo
 
 ## Section 18
 This act may be known and cited as the our colleges our future act of 2021.
+

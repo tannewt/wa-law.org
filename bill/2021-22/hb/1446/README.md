@@ -1,5 +1,6 @@
 # HB 1446 - Utility acquisition targets
-*Status: 1st substitute bill substituted.*
+*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1446&Year=2021)
+
 Prohibiting a utility from being assessed a penalty for not meeting its biennial acquisition target for cost-effective conservation in special circumstances outside the utility's control.
 
 ## Revisions

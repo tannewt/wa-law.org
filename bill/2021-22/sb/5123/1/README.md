@@ -3,7 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5123.xml)
 ## Section 1
 The legislature finds that successful rehabilitation of youth adjudicated of sex offenses is the best path to reducing recidivism. The legislature recognizes the great and long-lasting harm caused to victims by problem sexual behaviors committed by youth and affirms the need to ensure that such behaviors are not repeated. The legislature finds that the consequences for youth adjudicated of sex offenses can last into adulthood and throughout their entire lives. The legislature finds that requiring youth to register as sex offenders is associated with mental health struggles, including depression, anxiety, and suicidal ideation, as well as the increased likelihood of becoming a target of sexual abuse by adults. The legislature finds that researchers from the Johns Hopkins University and other academic institutions found that registration and notification policies for minors failed to improve community safety and that evidence-based prevention and intervention policies would provide increased community safety.
+
 The legislature finds that while adults can petition for relief of registration for offenses committed as minors, the legal process is overly cumbersome, expensive, and challenging to the point that many never request removal and remain on the registry their entire lives. The legislature finds that Black, Hispanic, and American Indian individuals are overly represented in the population of registered juvenile sex offenders in Washington state. The legislature declares that the response to sex offenses committed by youth should be developmentally appropriate and driven by research. The legislature therefore intends to increase community safety by reforming juvenile sex offender registration policy and related areas to redirect the focus toward practices that increase prevention and promote successful intervention strategies.
+
 
 ## Section 2
 > This section modifies existing section [9A.44.130](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
@@ -370,11 +372,42 @@ The person has paid the full amount of restitution owing to the individual victi
 
 
 ## Section 10
-(1) Section 2 of this act applies retroactively. The legal obligation to register as a sex offender is extinguished for any person based on an offense committed under the age of 18, unless the registration offense is a conviction that is in the exclusive jurisdiction of adult court pursuant to RCW 13.04.030(1)(e)(v).
-(2) By August 1, 2021, the Washington association of sheriffs and police chiefs shall remove all persons from the sex offender registry whose obligation to register is based on an offense committed while the person was under 18 years of age, unless the registration offense is a conviction that is in the exclusive jurisdiction of adult court pursuant to RCW 13.04.030(1)(e)(v).
+1. Section 2 of this act applies retroactively. The legal obligation to register as a sex offender is extinguished for any person based on an offense committed under the age of 18, unless the registration offense is a conviction that is in the exclusive jurisdiction of adult court pursuant to RCW 13.04.030(1)(e)(v).
+
+2. By August 1, 2021, the Washington association of sheriffs and police chiefs shall remove all persons from the sex offender registry whose obligation to register is based on an offense committed while the person was under 18 years of age, unless the registration offense is a conviction that is in the exclusive jurisdiction of adult court pursuant to RCW 13.04.030(1)(e)(v).
+
 
 ## Section 11
 By August 1, 2021, the Washington state patrol shall notify all persons whose obligation to register as a sex offender is extinguished by this act. For persons enrolled in school or higher education, the Washington state patrol shall provide similar notice to the school's or institution's designated recipient of records under RCW 9A.44.138.
+
+
+## Section 12
+> This section adds a new section to an existing chapter [9A.44](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
+
+1. A person under the age of 18 commits the crime of problem sexual behavior by a minor in the first degree when the person has sexual intercourse with another who is less than 12 years old and not married to the person and the person is at least 36 months older than the victim.
+
+2. Problem sexual behavior by a minor in the first degree is a class B felony.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [9A.44](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
+
+1. A person under the age of 18 commits the crime of problem sexual behavior by a minor in the second degree if:
+
+    a. The person has, or knowingly causes another person under the age of 18 to have, sexual contact with another who is less than 12 years old and not married to the person and the person is at least 36 months older than the victim; or
+
+    b. The person has sexual intercourse with another who is at least 12 years old but less than 14 years old and not married to the person and the person is at least 36 months older than the victim.
+
+2. Problem sexual behavior by a minor in the second degree is a class B felony.
+
+
+## Section 14
+> This section adds a new section to an existing chapter [9A.44](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
+
+1. A person under the age of 18 commits the crime of problem sexual behavior by a minor in the third degree if the person has, or knowingly causes another person under the age of 18 to have, sexual contact with another who is at least 12 years old but less than 14 years old and not married to the person and the person is at least 36 months older than the victim.
+
+2. Problem sexual behavior by a minor in the third degree is a class C felony.
+
 
 ## Section 15
 > This section modifies existing section [9A.44.073](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
@@ -2288,6 +2321,56 @@ Unlawful Use of Prohibited Aquatic Animal Species (RCW 77.15.253(3))
 Vehicle Prowl 1 (RCW 9A.52.095)
 
 Violating Commercial Fishing Area or Time 1 (RCW 77.15.550(3)(b))
+
+
+## Section 39
+> This section adds a new section to an existing chapter [9A.44](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
+
+1. Sections 13 through 16, 18, 19, and 21 through 27 of this act are retroactive to the extent that:
+
+    a. A violation of RCW 9A.44.073 adjudicated prior to the effective date of this section committed by a person alleged in the charging documents to have a date of birth that indicates that the person was under the age of 18 at the time of the offense shall be considered a violation of section 12 of this act;
+
+    b. Violations of RCW 9A.44.083 and 9A.44.076 adjudicated prior to the effective date of this section committed by a person alleged in the charging documents to have a date of birth that indicates that the person was under the age of 18 at the time of the offense shall be considered violations of section 13 of this act;
+
+    c. A violation of RCW 9A.44.086 adjudicated prior to the effective date of this section committed by a person alleged in the charging documents to have a date of birth that indicates that the person was under the age of 18 at the time of the offense shall be considered a violation of section 14 of this act; and
+
+    d. Violations of RCW 9A.44.040, 9A.44.050, 9A.44.060, 9A.44.100, 9A.44.105, 9A.44.115, 9A.44.132, and 9A.44.196 adjudicated prior to the effective date of this section committed by a person alleged in the charging documents to have a date of birth that indicates that the person was under the age of 18 at the time of the offense shall be considered to bear an "as a minor" designation.
+
+2. Public officials shall refer to the offenses described under subsection (1) of this section prospectively using their new designations in both oral and written communications created after the effective date of this section.
+
+3. A person convicted or adjudicated for an offense described under subsection (1) of this section committed when the person was under the age of 18 is entitled to refer to the prior offenses for all purposes using the new designation as provided under subsection (1) of this section.
+
+4. This act shall not create a basis for vacation, new trial, resentencing, appeal, or modification of judgment and sentence for any conviction or adjudication entered prior to the effective date of this section.
+
+5. The Washington state patrol shall update its conviction records to reflect new offense designations in accordance with this section by October 1, 2021, and submit updates to all appropriate federal databases.
+
+
+## Section 40
+> This section adds a new section to an existing chapter [9.68A](/rcw/09_crimes_and_punishments/9.068A_sexual_exploitation_of_children.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.068A_sexual_exploitation_of_children.md) for context.
+
+1. Sections 28 through 34 of this act are retroactive to the extent that violations of RCW 9.68A.040, 9.68A.060, 9.68A.090, 9.68A.100, 9.68A.101, 9.68A.102, and 9.68A.103 adjudicated prior to the effective date of this section and committed by a person alleged in the charging documents to have a date of birth that indicates that the person was under the age of 18 at the time of the offense shall be considered to bear an "as a minor" designation.
+
+2. Public officials shall refer to the offenses described under subsection (1) of this section prospectively using their new designations in both oral and written communications created after the effective date of this section.
+
+3. A person convicted or adjudicated for an offense described in subsection (1) of this section committed when the person was under the age of 18 is entitled to refer to the prior offense for all purposes using the new designation as provided under subsection (1) of this section.
+
+4. This act shall not create a basis for vacation, new trial, resentencing, appeal, or modification of judgment and sentence for any conviction or adjudication entered prior to the effective date of this section.
+
+5. The Washington state patrol shall update its conviction records to reflect the new offense designations in accordance with this section by October 1, 2021, and submit updates to all appropriate federal databases.
+
+
+## Section 41
+> This section adds a new section to an existing chapter [9.94A](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Section 35 of this act is retroactive to the extent that convictions that include the special allegation under RCW 9.94A.835 adjudicated prior to the effective date of this section and committed by a person alleged in the charging documents to have a date of birth that indicates that the person was under the age of 18 at the time of the offense shall be considered to bear an "as a minor" designation.
+
+2. Public officials shall refer to the offenses described under subsection (1) of this section prospectively using their new designations in both oral and written communications created after the effective date of this section.
+
+3. A person convicted or adjudicated for an offense described in subsection (1) of this section committed when the person was under the age of 18 is entitled to refer to the prior offense for all purposes using the new designation as provided under subsection (1) of this section.
+
+4. This act shall not create a basis for vacation, new trial, resentencing, appeal, or modification of judgment and sentence for any conviction or adjudication entered prior to the effective date of this section.
+
+5. The Washington state patrol shall update its conviction records to reflect the new offense designations in accordance with this section by October 1, 2021, and submit updates to all appropriate federal databases.
 
 
 ## Section 42

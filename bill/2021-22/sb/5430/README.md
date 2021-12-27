@@ -1,5 +1,6 @@
 # SB 5430 - Advanced tuition payment prg
-*Status: Effective date 7/25/2021.*
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5430&Year=2021)
+
 Concerning the advanced college tuition payment program.
 
 ## Revisions

@@ -66,8 +66,13 @@
 
 
 ## Section 3
-(1) This section is the tax preference performance statement for the tax preferences contained in sections 1 and 2, chapter . . ., Laws of 2021 (sections 1 and 2 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
-(2) The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers as indicated in RCW 82.32.808(2)(a).
-(3) It is the legislature's specific public policy objective to increase the supply of farmworker housing.
-(4) If a review finds that new farmworker housing is developed utilizing these preferences, then the legislature intends to extend the expiration date of these tax preferences.
-(5) In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+1. This section is the tax preference performance statement for the tax preferences contained in sections 1 and 2, chapter . . ., Laws of 2021 (sections 1 and 2 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes these tax preferences as ones intended to induce certain designated behavior by taxpayers as indicated in RCW 82.32.808(2)(a).
+
+3. It is the legislature's specific public policy objective to increase the supply of farmworker housing.
+
+4. If a review finds that new farmworker housing is developed utilizing these preferences, then the legislature intends to extend the expiration date of these tax preferences.
+
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+

@@ -2,10 +2,14 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5072.xml)
 ## Section 1
-(1) The legislature recognizes that a principal duty of governments is to promote and protect the health and safety of their residents. In addition to providing essential health and safety functions through fire and law enforcement agencies, local governments support public health and safety in the collection and maintenance of vital statistics through a single comprehensive vital records system that is operated and maintained by the department of health, and through the issuance of official certifications associated with births and deaths.
-(2) The legislature further recognizes that the ability to obtain a certification of birth resulting in stillbirth may provide comfort to some who have experienced the trauma of a stillbirth.
-(3) In recognition of the foregoing, the legislature intends to create a new process allowing any person who gives birth to a stillborn fetus to request and receive a certification of birth resulting in stillbirth from the applicable state or local registrar.
-(4) The legislature furthermore recognizes that a woman's rights to reproductive freedom and equal protection under the law are rights protected through Washington's statutes, judicial decisions, and the state and federal Constitutions. Nothing in this legislation shall alter a woman's rights to reproductive freedom and equal protection under the law.
+1. The legislature recognizes that a principal duty of governments is to promote and protect the health and safety of their residents. In addition to providing essential health and safety functions through fire and law enforcement agencies, local governments support public health and safety in the collection and maintenance of vital statistics through a single comprehensive vital records system that is operated and maintained by the department of health, and through the issuance of official certifications associated with births and deaths.
+
+2. The legislature further recognizes that the ability to obtain a certification of birth resulting in stillbirth may provide comfort to some who have experienced the trauma of a stillbirth.
+
+3. In recognition of the foregoing, the legislature intends to create a new process allowing any person who gives birth to a stillborn fetus to request and receive a certification of birth resulting in stillbirth from the applicable state or local registrar.
+
+4. The legislature furthermore recognizes that a woman's rights to reproductive freedom and equal protection under the law are rights protected through Washington's statutes, judicial decisions, and the state and federal Constitutions. Nothing in this legislation shall alter a woman's rights to reproductive freedom and equal protection under the law.
+
 
 ## Section 2
 > This section modifies existing section [70.58A.530](/rcw/70_public_health_and_safety/70.058A_vital_statistics.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.058A_vital_statistics.md) for context.

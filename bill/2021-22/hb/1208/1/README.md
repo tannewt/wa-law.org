@@ -2,11 +2,34 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1208.xml)
 ## Section 1
-(1) The legislature acknowledges that the learning assistance program was developed to provide supplemental instruction and services for public school students who are not meeting academic standards. Initially, school districts were allowed to use learning assistance program funds in a flexible manner to support students participating in the program. Over time, the legislature restricted, and established priorities for, the use of learning assistance program funds. The legislature finds that it is time to restore flexibility to the use of learning assistance program funds; however, local control must be balanced with accountability for improvement in the academic achievement of students participating in the program.
-(2) The legislature expects that learning assistance program funds will continue to be used to provide supplemental instruction and services to students who are not meeting academic standards. However, the legislature intends to immediately remove restrictions on the use of learning assistance program funds so that school districts can use these funds to identify and address student academic deficits in basic skills resulting from and exacerbated by the COVID-19 pandemic.
-(3)(a) Beginning September 1, 2025, or following the end of the state of emergency declared by the governor due to COVID-19, whichever is later, the legislature intends to continue the flexible use of learning assistance program funds but require that budgeting and expenditure of these funds occur through the framework of the Washington integrated student supports protocol, established by the legislature in 2016.
-(b) To ease the transition, the legislature recommends that school district boards of directors begin budgeting and expending learning assistance program funds using the Washington integrated student supports protocol as soon as possible.
-(c) Under the protocol, before engaging in the process of budgeting and expending learning assistance program funds, the legislature expects school district boards of directors to perform needs assessments and use data to map the resources of the school district, each school, and the community. School boards are expected to identify gaps in the coordination and integration of academic and nonacademic supports and to engage community partners in strategic planning that prioritizes the needs of students. Each school in the district is also expected to use needs assessments and data to determine how to best engage community partners to address the academic and nonacademic needs of its students in an integrated and coordinated manner. Finally, the legislature expects that schools and school districts will use data in an iterative process to drive decisions about how learning assistance program funds continue to be used, and to determine whether decisions about the use of program funds resulted in improvement in students' academic achievement.
+1. The legislature acknowledges that the learning assistance program was developed to provide supplemental instruction and services for public school students who are not meeting academic standards. Initially, school districts were allowed to use learning assistance program funds in a flexible manner to support students participating in the program. Over time, the legislature restricted, and established priorities for, the use of learning assistance program funds. The legislature finds that it is time to restore flexibility to the use of learning assistance program funds; however, local control must be balanced with accountability for improvement in the academic achievement of students participating in the program.
+
+2. The legislature expects that learning assistance program funds will continue to be used to provide supplemental instruction and services to students who are not meeting academic standards. However, the legislature intends to immediately remove restrictions on the use of learning assistance program funds so that school districts can use these funds to identify and address student academic deficits in basic skills resulting from and exacerbated by the COVID-19 pandemic.
+
+3. [Empty]
+
+    a. Beginning September 1, 2025, or following the end of the state of emergency declared by the governor due to COVID-19, whichever is later, the legislature intends to continue the flexible use of learning assistance program funds but require that budgeting and expenditure of these funds occur through the framework of the Washington integrated student supports protocol, established by the legislature in 2016.
+
+    b. To ease the transition, the legislature recommends that school district boards of directors begin budgeting and expending learning assistance program funds using the Washington integrated student supports protocol as soon as possible.
+
+    c. Under the protocol, before engaging in the process of budgeting and expending learning assistance program funds, the legislature expects school district boards of directors to perform needs assessments and use data to map the resources of the school district, each school, and the community. School boards are expected to identify gaps in the coordination and integration of academic and nonacademic supports and to engage community partners in strategic planning that prioritizes the needs of students. Each school in the district is also expected to use needs assessments and data to determine how to best engage community partners to address the academic and nonacademic needs of its students in an integrated and coordinated manner. Finally, the legislature expects that schools and school districts will use data in an iterative process to drive decisions about how learning assistance program funds continue to be used, and to determine whether decisions about the use of program funds resulted in improvement in students' academic achievement.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28A.165](/rcw/28A_common_school_provisions/28A.165_learning_assistance_program.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.165_learning_assistance_program.md) for context.
+
+1. Immediately upon the effective date of this section and through the later of: (a) The expiration or termination of Proclamation 20-05, and any subsequent orders extending or amending the proclamation, declaring a state of emergency on February 29, 2020, for all counties in Washington due to COVID-19; or (b) September 1, 2025, school districts must budget and expend the appropriations for the learning assistance program, under RCW 28A.165.005 through 28A.165.065, to identify and address student academic deficits in basic skills resulting from and exacerbated by the COVID-19 pandemic.
+
+2. During the time period described in subsection (1) of this section, school districts are encouraged to budget and expend the appropriations for the learning assistance program, under RCW 28A.165.005 through 28A.165.065, using the framework of the Washington integrated student supports protocol, established under RCW 28A.300.139.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28A.165](/rcw/28A_common_school_provisions/28A.165_learning_assistance_program.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.165_learning_assistance_program.md) for context.
+
+1. While the state allocations for the learning assistance program under this chapter are intended to be flexible dollars within the control of the public school and school district, this local control must be balanced with local accountability for improvement in student achievement.
+
+2. School district boards of directors must budget and expend the appropriations for the learning assistance program, under RCW 28A.165.005 through 28A.165.065, using the framework of the Washington integrated student supports protocol, established under RCW 28A.300.139.
+
 
 ## Section 4
 > This section modifies existing section [28A.300.139](/rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.300_superintendent_of_public_instruction.md) for context.
@@ -202,3 +225,4 @@ The purpose of the state board of education is to provide advocacy and strategic
 
 ## Section 16
 The office of the governor must provide written notice of the expiration date of section 2 of this act and the effective date of section 3 of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the office of the governor.
+

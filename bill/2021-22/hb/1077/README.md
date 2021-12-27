@@ -1,5 +1,6 @@
 # HB 1077 - Federal Way school district
-*Status: First reading, referred to Appropriations.*
+*Status: First reading, referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1077&Year=2021)
+
 Concerning Federal Way school district regionalization.
 
 ## Revisions

@@ -35,3 +35,4 @@
 
 ## Section 2
 This act applies to taxes levied for collection in 2022 and thereafter.
+

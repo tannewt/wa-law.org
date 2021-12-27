@@ -1,5 +1,6 @@
 # SB 5492 - Wind turbine blade recycling
-*Status: Prefiled for introduction.*
+*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5492&Year=2021)
+
 Providing for the recycling of wind turbine blades.
 
 ## Revisions

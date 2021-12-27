@@ -1,5 +1,6 @@
 # HB 1222 - Fuel tax rate posting
-*Status: First reading, referred to Transportation.*
+*Status: First reading, referred to Transportation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1222&Year=2021)
+
 Making permanent the posting of fuel tax rate information at fuel pumps.
 
 ## Revisions

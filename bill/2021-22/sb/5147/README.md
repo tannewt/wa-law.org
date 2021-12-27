@@ -1,5 +1,6 @@
 # SB 5147 - Alternative school calendars
-*Status: Returned to Rules.*
+*Status: Returned to Rules.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5147&Year=2021)
+
 Exploring alternative school calendars.
 
 ## Revisions

@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that the energy facility site evaluation council's certification process undermines opportunities for local review of alternative energy resource facilities that are fueled by solar energy sited on agricultural lands that have long-term significance for the commercial production of food or other agricultural products as designated under RCW 36.70A.170. The current process creates an unfair advantage for those facilities, which have the special privilege of being able to opt out of the local review process if the local review process reveals local concerns. The legislature intends to create parity among different types of facilities by prohibiting alternative energy resource facilities fueled by solar energy sited on agricultural lands of long-term commercial significance from being eligible for expedited review before the energy facility site evaluation council. This will allow for a comprehensive review of local concerns if an alternative energy resource facility fueled by solar energy sited on agricultural lands of long-term commercial significance chooses to receive certification from the energy facility site evaluation council.
 
+
 ## Section 2
 > This section modifies existing section [80.50.075](/rcw/80_public_utilities/80.50_energy_facilities—site_locations.md). Here is the [modified chapter](rcw/80_public_utilities/80.50_energy_facilities—site_locations.md) for context.
 

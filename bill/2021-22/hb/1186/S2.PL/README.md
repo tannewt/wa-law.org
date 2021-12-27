@@ -3,8 +3,11 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1186-S2.PL.xml)
 ## Section 1
 The legislature finds that:
-(1) The department of children, youth, and families seeks to expand trauma-informed, culturally relevant, racial equity-based, and developmentally appropriate therapeutic placement supports in less restrictive community settings. Under current law, these supports are limited to placement in community facilities—which are only available for about 25 percent of juvenile rehabilitation's population—and electronic home monitoring for persons serving adult sentences in the custody of the department of children, youth, and families' juvenile rehabilitation who have an earned release date between the ages of 25 and 26.
-(2) To help reduce the bottleneck of youth and young adults placed in the department's juvenile rehabilitation institutions and enhance community-based, less restrictive options, this act creates a community transition services program, which utilizes electronic home monitoring as a tool embedded in a progressively supportive community-based approach with therapeutic supports for young people reentering the community. This approach considers developmentally appropriate programs for successful reentry by increasing access to community transition services, including housing assistance, behavioral health treatment, independent living, employment, education, and family and community connections.
+
+1. The department of children, youth, and families seeks to expand trauma-informed, culturally relevant, racial equity-based, and developmentally appropriate therapeutic placement supports in less restrictive community settings. Under current law, these supports are limited to placement in community facilities—which are only available for about 25 percent of juvenile rehabilitation's population—and electronic home monitoring for persons serving adult sentences in the custody of the department of children, youth, and families' juvenile rehabilitation who have an earned release date between the ages of 25 and 26.
+
+2. To help reduce the bottleneck of youth and young adults placed in the department's juvenile rehabilitation institutions and enhance community-based, less restrictive options, this act creates a community transition services program, which utilizes electronic home monitoring as a tool embedded in a progressively supportive community-based approach with therapeutic supports for young people reentering the community. This approach considers developmentally appropriate programs for successful reentry by increasing access to community transition services, including housing assistance, behavioral health treatment, independent living, employment, education, and family and community connections.
+
 
 ## Section 2
 > This section modifies existing section [72.01.412](/rcw/72_state_institutions/72.01_administration.md). Here is the [modified chapter](rcw/72_state_institutions/72.01_administration.md) for context.
@@ -372,11 +375,15 @@ In case of an emergency or medical leave the secretary may waive all or any port
 
 ## Section 7
 The department of children, youth, and families shall adopt rules, policies, and procedures as may be needed to implement a community transition services program required by this act, to include the following:
-(1) Identification and regular monitoring of metrics of quality implementation for the community transition program, and regularly publishing outcome analyses for program participants; and
-(2) Allowing for the use of new electronic home monitoring equipment and technologies as they become available that eliminate or minimize trauma, social stigma, and racial injustice, and imposing penalties for the knowing or intentional tampering, damaging, or destruction of equipment that renders it not fully functional.
+
+1. Identification and regular monitoring of metrics of quality implementation for the community transition program, and regularly publishing outcome analyses for program participants; and
+
+2. Allowing for the use of new electronic home monitoring equipment and technologies as they become available that eliminate or minimize trauma, social stigma, and racial injustice, and imposing penalties for the knowing or intentional tampering, damaging, or destruction of equipment that renders it not fully functional.
+
 
 ## Section 8
 Subject to the availability of amounts appropriated for this specific purpose, the department of children, youth, and families may issue rental vouchers for a period not to exceed six months for those transferring to community transition services under this act if an approved address cannot be obtained without the assistance of a voucher.
+
 
 ## Section 9
 > This section modifies existing section [13.04.800](/rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.04_basic_juvenile_court_act.md) for context.
@@ -391,34 +398,63 @@ Subject to the availability of amounts appropriated for this specific purpose, t
 
 
 ## Section 10
-(1) The secretary of the department of children, youth, and families, or the secretary's designee, shall convene a stakeholder group to develop recommendations regarding improving outcomes for individuals exiting juvenile rehabilitation with a focus on:
-(a) Increasing community involvement before and after the individual's exit from a juvenile rehabilitation facility;
-(b) A landscape analysis of community-based, reentry-related services available to individuals exiting a juvenile rehabilitation facility by geographic region and service type;
-(c) Community-based, reentry-related service gaps that should be addressed to ensure a successful community transition services program across the state.
-(2) The secretary of the department of children, youth, and families, or the secretary's designee shall include, at a minimum, the following stakeholders in the requirements included in this section:
-(a) Two individuals who were or are currently confined in a juvenile rehabilitation facility;
-(b) A family member of an individual who was or is currently confined in a juvenile rehabilitation facility;
-(c) A representative of the Washington partnership council on juvenile justice;
-(d) A representative of the Washington association of prosecuting attorneys;
-(e) A representative of the Washington association of sheriffs and police chiefs;
-(f) A representative of a statewide organization representing criminal defense attorneys;
-(g) A representative of a statewide organization representing public defenders;
-(h) A representative of a statewide organization providing legal services to youth;
-(i) A representative from the office of the superintendent of public instruction;
-(j) A representative from the state board for community and technical colleges;
-(k) A representative from the health care authority;
-(l) A representative from the Washington student achievement council;
-(m) A representative from the Washington association of juvenile court administrators; and
-(n) Two representatives from service providers that assist individuals when exiting from a juvenile rehabilitation facility by providing mentoring or other community involvement opportunities to that individual.
-(3) The department of children, youth, and families shall provide administrative and staff support to the stakeholder group.
-(4) Nonlegislative members of the stakeholder group who demonstrate financial hardship must be reimbursed for travel expenses as provided in RCW 43.03.050 and 43.03.060, as well as other expenses as needed for each day a nonlegislative stakeholder group member attends a stakeholder group meeting to provide consultative assistance.
-(5)(a) By November 1, 2021, and in compliance with RCW 43.01.036, an initial report shall be submitted to the appropriate committees of the legislature and the governor related to improving outcomes for individuals exiting juvenile rehabilitation facilities.
-(b) By June 1, 2022, the department of children, youth, and families shall submit a report to the appropriate committees of the legislature and the governor that describes recommendations related to improving outcomes for individuals exiting a juvenile rehabilitation facility as provided in this section.
-(6) This section expires January 1, 2023.
+1. The secretary of the department of children, youth, and families, or the secretary's designee, shall convene a stakeholder group to develop recommendations regarding improving outcomes for individuals exiting juvenile rehabilitation with a focus on:
+
+    a. Increasing community involvement before and after the individual's exit from a juvenile rehabilitation facility;
+
+    b. A landscape analysis of community-based, reentry-related services available to individuals exiting a juvenile rehabilitation facility by geographic region and service type;
+
+    c. Community-based, reentry-related service gaps that should be addressed to ensure a successful community transition services program across the state.
+
+2. The secretary of the department of children, youth, and families, or the secretary's designee shall include, at a minimum, the following stakeholders in the requirements included in this section:
+
+    a. Two individuals who were or are currently confined in a juvenile rehabilitation facility;
+
+    b. A family member of an individual who was or is currently confined in a juvenile rehabilitation facility;
+
+    c. A representative of the Washington partnership council on juvenile justice;
+
+    d. A representative of the Washington association of prosecuting attorneys;
+
+    e. A representative of the Washington association of sheriffs and police chiefs;
+
+    f. A representative of a statewide organization representing criminal defense attorneys;
+
+    g. A representative of a statewide organization representing public defenders;
+
+    h. A representative of a statewide organization providing legal services to youth;
+
+    i. A representative from the office of the superintendent of public instruction;
+
+    j. A representative from the state board for community and technical colleges;
+
+    k. A representative from the health care authority;
+
+    l. A representative from the Washington student achievement council;
+
+    m. A representative from the Washington association of juvenile court administrators; and
+
+    n. Two representatives from service providers that assist individuals when exiting from a juvenile rehabilitation facility by providing mentoring or other community involvement opportunities to that individual.
+
+3. The department of children, youth, and families shall provide administrative and staff support to the stakeholder group.
+
+4. Nonlegislative members of the stakeholder group who demonstrate financial hardship must be reimbursed for travel expenses as provided in RCW 43.03.050 and 43.03.060, as well as other expenses as needed for each day a nonlegislative stakeholder group member attends a stakeholder group meeting to provide consultative assistance.
+
+5. [Empty]
+
+    a. By November 1, 2021, and in compliance with RCW 43.01.036, an initial report shall be submitted to the appropriate committees of the legislature and the governor related to improving outcomes for individuals exiting juvenile rehabilitation facilities.
+
+    b. By June 1, 2022, the department of children, youth, and families shall submit a report to the appropriate committees of the legislature and the governor that describes recommendations related to improving outcomes for individuals exiting a juvenile rehabilitation facility as provided in this section.
+
+6. This section expires January 1, 2023.
+
 
 ## Section 11
-(1) Sections 1 through 6, 8, and 9 of this act take effect six months after the department of children, youth, and families designs and implements a risk assessment tool as defined in RCW 13.40.020 used to determine eligibility for "community transition services" as provided under RCW 13.40.205(13) and provides notice as required under subsection (2) of this section.
-(2) The department of children, youth, and families must provide notice of the implementation of a risk assessment tool described under subsection (1) of this section to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department of children, youth, and families.
+1. Sections 1 through 6, 8, and 9 of this act take effect six months after the department of children, youth, and families designs and implements a risk assessment tool as defined in RCW 13.40.020 used to determine eligibility for "community transition services" as provided under RCW 13.40.205(13) and provides notice as required under subsection (2) of this section.
+
+2. The department of children, youth, and families must provide notice of the implementation of a risk assessment tool described under subsection (1) of this section to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department of children, youth, and families.
+
 
 ## Section 12
 If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2021, in the omnibus appropriations act, this act is null and void.
+

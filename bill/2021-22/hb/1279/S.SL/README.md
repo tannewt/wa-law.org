@@ -4,6 +4,7 @@
 ## Section 1
 The legislature finds that as a result of the economic impacts of the COVID-19 pandemic, certain businesses that made contributions to a Washington main street community or to the main street trust fund in 2020, and qualified for a credit against the business and occupation tax or public utility tax, have received insufficient revenues, and have insufficient tax liabilities, to allow them to use the full amount of the credit for which they have qualified. With this act, the legislature intends to address this finding by allowing credits earned as result of contributions made in calendar year 2020 to be carried over for an additional two years, and by providing an additional credit against the business and occupation tax or public utility tax.
 
+
 ## Section 2
 > This section modifies existing section [82.73.030](/rcw/82_excise_taxes/82.73_washington_main_street_program_tax_incentives.md). Here is the [modified chapter](rcw/82_excise_taxes/82.73_washington_main_street_program_tax_incentives.md) for context.
 
@@ -42,4 +43,10 @@ The legislature finds that as a result of the economic impacts of the COVID-19 p
 8. **Any credits provided in accordance with this chapter for approved contributions made in calendar year 2020 may be carried over for an additional two years and must be used by December 31, 2023.**
 
 9. **No credit is allowed or may be claimed under this section on or after January 1, 2032.**
+
+
+## Section 3
+> This section adds a new section to an existing chapter [82.73](/rcw/82_excise_taxes/82.73_washington_main_street_program_tax_incentives.md). Here is the [modified chapter](rcw/82_excise_taxes/82.73_washington_main_street_program_tax_incentives.md) for context.
+
+This chapter expires January 1, 2032.
 

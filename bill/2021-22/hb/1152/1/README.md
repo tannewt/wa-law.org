@@ -3,10 +3,101 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1152.xml)
 ## Section 1
 The legislature finds the COVID-19 pandemic has been the most difficult challenge in Washington's public health history since the 1918 flu pandemic. More Americans have died from COVID-19 than the number of United States troops killed in combat during World War II. The COVID-19 pandemic response has stressed and strained every part of our society and far surpassed the capabilities of local, state, tribal, and even federal public health agencies. Before the COVID-19 pandemic, the legislature had initiated action to address the critical challenges Washington's public health system faces, including limited organizational capacity, financial resources, and understaffing through beginning to specifically fund foundational public health services. The COVID-19 pandemic laid bare the shortcomings of Washington's current public health system which have been studied and identified for over a decade. Washington's current public health system was not able to consistently monitor and track the pandemic, staff the many required missions, adequately address the health inequities, and implement standard approaches to disease containment.
+
 The legislature further finds that, in Washington, local health services are currently provided through a decentralized means by 35 local health jurisdictions. In many cases, rural communities are served by smaller local health jurisdictions that have less capacity to provide the full spectrum of foundational public health services than their urban peers. Local health jurisdictions serving smaller populations face challenges providing the full spectrum of foundational public health services and activities to promote and protect the health of all people. In addition, local health jurisdictions are overseen by boards in which most the members do not have direct experience in public health or health care. Since April 2020, a Kaiser health news investigation reports at least 181 local and state health leaders have resigned, retired, or been fired, including 11 local health leaders in Washington. Diseases do not respect borders or boundaries, yet the current decentralized system in Washington creates a patchwork approach with limited accountability and consistency. National peer-review studies report larger jurisdictions perform better on most foundational comprehensive public health services. Therefore, the legislature finds comprehensive public health districts comprising larger populations, balanced governance, and interdependence between all levels of the public health system will increase accountability, effectiveness, and performance in delivering foundational public health services.
+
 The COVID-19 pandemic has amplified the health and social inequities in Washington that existed before its emergence. There are vast inequities in per capita spending for local public health services by population size and geographic location. National peer-review studies report communities with limited public health systems experience low levels of activity participation, low perceived effectiveness, and sparse organizational networks compared to comprehensive public health systems. The inequitable distribution of morbidity and mortality between Black, indigenous, and people of color and other populations demonstrates the large health inequities that must be addressed. Therefore, the legislature finds the state must determine adequate funding of comprehensive public health districts from cities, counties, and the state, with the goal of providing all people with equitable access to foundational public health services, and once this funding is determined, the legislature finds this investment in the public's health will continue to be prioritized.
+
 The legislature recognizes that public health and health care staff have been overwhelmed, overworked and their mental and physical health are at risk due to the pandemic. The legislature is thankful for the countless contributions that public health and health care staff have made to combat this deadly public health crisis and pandemic. These contributions and efforts have increased public awareness about the importance of strong infrastructure for our public health system. Therefore, the legislature finds that meaningful discourse about the current public health system is necessary to ensure public trust.
+
 The legislature expects emergencies that threaten the health and well-being of all Washingtonians, emergent and routine, to increase. Restructuring state funding of foundational public health services is not enough to face these threats. The legislature intends for Washington to have a public health system that can respond to 21st century public health emergencies and public health issues, have the capacity to improve health outcomes of BIPOC communities, persons with disabilities, LGBTQ+, rural communities, limited English-speaking persons, and address health equity across the life span.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.70](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
+
+1. A work group is created to develop and recommend to the secretary a public health system to provide foundational public health services to all people in Washington through comprehensive public health districts and the department.
+
+2. Members of the work group must include:
+
+    a. Two representatives from the senate;
+
+    b. Two representatives from the house of representatives;
+
+    c. Three representatives of local public health;
+
+    d. Two representatives of state public health;
+
+    e. Three representatives of counties;
+
+    f. Two representatives of cities;
+
+    g. One tribal representative; and
+
+    h. One representative with expertise in government finance.
+
+3. The governor shall appoint the members of the work group and ensure that members represent diverse geographic locations in both rural and urban communities.
+
+4. The work group shall develop a transparent process, including opportunities for public comment.
+
+5. By January 1, 2022, the work group must recommend to the secretary the system for counties to form comprehensive public health districts using existing regionalized health structures as a model.
+
+6. By July 1, 2022, the work group must recommend performance measures and a measure set to the secretary, including the dimensions listed in section 3 of this act, to be used by each comprehensive public health district.
+
+7. By January 1, 2023, the work group must submit recommendations to the legislature on adequate funding of comprehensive public health districts, including the following:
+
+    a. Reasonable per capita estimates to deliver foundational public health services;
+
+    b. Appropriate contribution levels between cities, counties, and the state; and
+
+    c. Adequate allocation levels to sustain the state public health system.
+
+8. This section expires December 31, 2024.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [43.70](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
+
+1. The secretary must adopt rules to provide foundational public health services to all people in Washington through comprehensive public health districts and the department. These rules must include:
+
+    a. A system and process for a county or counties to create comprehensive public health districts under chapter 70.05 RCW that:
+
+        i. Serve a combined population of over 250,000 people;
+
+        ii. Provide all foundational public health services described under RCW 43.70.515; and
+
+        iii. Maintain local offices in each county sufficient to meet community need;
+
+    b. Standard statewide performance measures and proposed benchmarks to track efficiency and effectiveness of comprehensive public health districts. The performance measures must include dimensions of:
+
+        i. Improving morbidity and mortality of marginalized communities;
+
+        ii. Improving health equity for all people;
+
+        iii. Data modernization and interoperability across the state public health system;
+
+        iv. Community engagement; and
+
+    v. Emergency preparedness and response;
+
+    c. A measure set that:
+
+        i. Is of manageable size;
+
+        ii. Is based on readily available data;
+
+        iii. Gives preference to nationally reported measures; and
+
+        iv. Focuses on the overall performance of the system, including outcomes and total costs;
+
+    d. A process for the department to certify comprehensive public health districts;
+
+    e. A process to evaluate comprehensive public health district and department performance of the measure set developed under (c) of this subsection; and
+
+    f. A process for information and data elements to be reported by comprehensive public health districts to the department.
+
+2. By November 1, 2024, the secretary shall submit a report to the appropriate committees of the legislature on comprehensive public health district performance based on the performance measures established under subsection (1)(b) of this section.
+
 
 ## Section 4
 > This section modifies existing section [43.70.515](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
@@ -88,6 +179,86 @@ For the purposes of **this chapter** and unless the context thereof clearly indi
 5. **"District** health officer" means the legally qualified physician who has been appointed as the health officer for the  district  health department.
 
 6. **"Secretary" means the secretary of health.**
+
+
+## Section 6
+> This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
+
+1. By January 1, 2023, counties must form comprehensive public health districts. The structure of the comprehensive public health districts is determined by the work group under section 2 of this act and the rules adopted by the department under section 3 of this act. The department must certify a comprehensive public health district.
+
+2. Counties with populations over 1,000,000 may be considered a comprehensive public health district without joining with other counties when the county legislative authority of the county passes a resolution or ordinance to organize such a comprehensive public health district under this chapter. Any city with a population of 100,000 or more and the county in which it is located, are authorized, as agreed upon between the respective governing bodies of such city and county, to establish and operate the comprehensive public health district. The respective governing bodies must pass resolutions or ordinances to organize the comprehensive public health district.
+
+3. Comprehensive public health districts consisting of two or more counties may be created when two or more boards of county commissioners pass a resolution establishing a district for such purpose. In counties with a home rule charter, the county legislative authority must establish a district board of health. The boards of county commissioners or county legislative authority must specify the appointment, term, and compensation or reimbursement of expenses. The comprehensive public health district shall consist of all the area of the combined counties.
+
+4. The district board of health shall constitute the local board of health for all the territory included in the comprehensive public health district, and shall supersede and exercise all the powers and perform all the duties by law vested in the county board of health of any county included in the comprehensive public health district.
+
+5. Members of the district board of health are as follows:
+
+    a. One commissioner from each county represented on the comprehensive public health district chosen by nomination from each county commission board;
+
+    b. One elected city official from a larger populous city in the comprehensive public health district chosen by nomination from the city;
+
+    c. One elected city official from a smaller populous city in the comprehensive public health districts chosen by nomination from the city;
+
+    d. One tribal representative of a tribe or urban Indian health organization from within the comprehensive public health district;
+
+    e. An equal number of seats as the total represented by county commissioners and city officials under (a) through (c) of this subsection filled by:
+
+        i. Hospital representatives from the hospitals in the comprehensive public health district;
+
+        ii. Licensed, practicing physician representatives practicing in the comprehensive public health district;
+
+        iii. Licensed, practicing nurse representatives practicing in the comprehensive public health district; and
+
+        iv. Consumer representatives residing in the comprehensive public health district who also act as representatives of the comprehensive public health district advisory committee; and
+
+    f. The district health officer for the comprehensive public health district.
+
+6. For the initial appointments, members of the district board of health appointed under subsection (5)(e) of this section must be nominated by county and city officials and selected by the secretary. For subsequent appointments, the district board of health shall solicit nominations and select members listed under subsection (5)(e) of this section.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
+
+1. A district advisory committee is established to bring various community perspectives to the district health board, with members as provided in this subsection.
+
+    a. Comprehensive public health districts must accept nominations and select representatives to the advisory committee from communities within the comprehensive public health district experiencing health inequities as determined by the district board of health, and other members of the community that interact with public health. No more than 15 members may be appointed to the advisory committee and members must include at least one small business representative, one teacher representative, one consumer representative, and two consumer representatives from communities experiencing health inequities within the region.
+
+    b. The advisory committee must reflect diversity in race, ethnicity, persons living with a disability, gender identity, age, LGBTQ+ populations, urban and rural communities, and socioeconomic status of the comprehensive public health district.
+
+    c. The advisory committee may choose a chair from among its membership and the comprehensive public health district must convene meetings of the advisory committee.
+
+    d. Members of the advisory committee shall serve two to four-year terms. Of the initial members, at least five must be appointed to two-year terms.
+
+2. The advisory committee shall promote and facilitate communication, coordination, and collaboration among relevant local agencies and Black, indigenous, and people of color communities, persons living with a disability, and the private sector and public sector, to address health inequities. The advisory committee may conduct public hearings or other forms of information gathering to understand how the actions of the comprehensive public health district can ameliorate or contribute to health inequities.
+
+3. The advisory committee is a class one group under RCW 43.03.220. The public members shall be paid per diem and travel expenses in accordance with RCW 43.03.050 and 43.03.060.
+
+
+## Section 8
+> This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
+
+1. Each comprehensive public health district shall establish a district health fund in the custody of the county treasurer. In a district composed of more than one county, the county treasurer of the county having the largest population shall serve as custodian of the fund. All receipts received by the district must be deposited into the fund. Expenditures by the district must be authorized by the district board of health and must be disbursed through the fund. The county auditor of the county shall keep the record of the receipts and disbursements.
+
+2. Each county and city included in the comprehensive public health district must contribute towards maintenance and operating fees and the expense of providing public health services for the comprehensive public health district.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
+
+A comprehensive public health district may own, construct, purchase, lease, add to, and maintain any real and personal property or property rights necessary to conduct the affairs of the district. A comprehensive public health district may sell, lease, convey, or otherwise dispose of any district real or personal property no longer necessary to conduct district affairs. A comprehensive public health district may enter into contracts to carry out this section.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
+
+Notwithstanding any provisions to the contrary contained in any city or county charter, and to the extent provided by the city and the county under appropriate legislative enactment, employees of the district health department may be included in the personnel system or civil service and retirement plans of the city or the county or a personnel system for the district health department that is separate from the personnel system or civil service of either county or city if residential requirements for these positions are coextensive with the county boundaries. The city or county may pay parts of the expense of operating and maintaining the personnel system or civil service and retirement system and contribute to the retirement fund on behalf of employees sums as may be agreed upon between the legislative authorities of the city and county.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
+
+Any county or city may withdraw from membership in a comprehensive public health district any time after it has been within the district for a period of two years, but no withdrawal is effective until the county or city receives approval from the secretary. To approve the request, the secretary must determine that termination or withdrawal will not negatively affect the public's health. The secretary must provide a final determination to the requester within 14 days of receiving the request. No withdrawal entitles any member to a refund of any money paid to the district nor relieve it of any obligations to pay to the district all sums for which it obligated itself due and owing by it to the district for the year at the end of which the withdrawal is to be effective. Any county or city that withdraws from membership in a comprehensive public health district must immediately seek admission to another comprehensive public health district under this chapter.
 
 
 ## Section 12

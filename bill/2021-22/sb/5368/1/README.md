@@ -3,8 +3,123 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5368.xml)
 ## Section 1
 The legislature finds that encouraging economic development in rural areas is a compelling reason to amend the growth management act. Additionally, creating a path forward for cities and counties to collaboratively seek solutions to the complicated issues regarding annexation will enable the local jurisdictions to appropriately allocate development without competing for resources.
+
 Asking local jurisdictions to thoughtfully examine the status of their local economy and its potential for growth moving forward has been agreed upon as an appropriate addition to any jurisdiction's comprehensive growth management plan. The legislature finds that economic development is an equally important value and goal within the growth management act and should be thoughtfully considered accordingly.
+
 As the growth management act has evolved and grown over time, it has become a trap for smaller jurisdictions. Small, rural jurisdictions need a safe harbor and an ally to help them effectively plan for their futures while giving them space from the threat of impending litigation costs. The legislature finds that a voluntary, limited safe harbor with assistance from the state may provide that necessary space for small rural jurisdictions to be able to invest their limited funds into growing their community instead of continually defending it from well-meaning outsiders. Small jurisdictions, particularly, in this climate are struggling to decide how to spend their limited funds. Adding more planning requirements only stretches nonexistent dollars. Looking forward, until the legislature finds that funding for planning for growth is a priority, these jurisdictions should not be punished, but instead encouraged to continue their planning endeavors. As such, the smallest, poorest jurisdictions should be given time and space to plan without being burdened by the requirements necessary to their bigger, more prosperous colleagues. The legislature finds that the rural areas of the state are important to this state and, during these difficult times, it is important to enable rural areas to focus on their economic development and growth.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [35A.14](/rcw/35A_optional_municipal_code/35A.14_annexation_by_code_cities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.14_annexation_by_code_cities.md) for context.
+
+1. A code city as provided in RCW 35A.14.296(2) may collaborate with the county or counties where the code city is located to form an interlocal agreement regarding annexation of unincorporated territory within the urban growth area boundary. The interlocal agreement must be formed consistent with the planning requirements of chapter 36.70A RCW. This method of annexation shall be an alternative method and is additional to all other methods provided for in this chapter.
+
+2. An interlocal agreement under this section will qualify the city for the annexation sales tax credit.
+
+3. The agreement or plan under this section must address the following:
+
+    a. A balancing of annexations of commercial, industrial, and residential properties so that any potential loss or gain is considered and distributed fairly as determined by tax revenue;
+
+    b. Development, ownership, and maintenance of infrastructure;
+
+    c. The potential for revenue-sharing agreements.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. The economic development element required by RCW 36.70A.070(7) may include the following:
+
+    a. A summary of the local economy, such as population, employment, payroll, sectors, businesses, sales, and other information as appropriate;
+
+    b. A summary of the strengths and weaknesses of the local economy, which may include the commercial, industrial, manufacturing, natural resource, and other locally significant economic sectors and supporting factors such as land use, transportation, utilities, education, workforce, housing, and natural/cultural resources;
+
+    c. An identification of policies, programs, and projects to foster economic growth and development and to address future needs;
+
+    d. Policies to promote increases in family, individual, and business incomes;
+
+    e. An examination of whether sites planned for economic development have adequate public facilities and services, and, as appropriate, a plan for any needed public facilities and services;
+
+    f. Policies to encourage access to education and training for family wage jobs; and
+
+    g. Policies and opportunities to address economic development including existing industries and businesses, value-added manufacturing of locally produced natural resources, and the use of locally produced energy and other natural resources.
+
+2. Each county and city planning under this chapter is encouraged to adopt comprehensive plans and development regulations that promote economic development in urban and rural areas, and evaluate economic performance in the jurisdiction in the time since the most recent update to the comprehensive plan. Each county and city planning under this chapter may make findings regarding the economic condition of the jurisdiction. If there is stagnation or economic deterioration during the period of time since the most recent update to the comprehensive plan, the comprehensive plan and development regulations may be modified to increase economic development opportunities.
+
+3. [Empty]
+
+    a. Counties with a population of less than 75,000 as of January 1, 2021, as determined by the office of financial management and published on April 1, 2021, that are planning under this chapter, and the cities within those counties, may identify policies, programs, and development opportunities to address the potential for economic deterioration and to seize economic development opportunities that may deviate from prescriptive interpretations of this chapter.
+
+    b. For purposes of this section, economic deterioration is exemplified by, but not limited to, any combination of the following performance outcomes:
+
+        i. Incomes that are at least $10,000 less than the statewide median household income for the same year as established by the office of financial management;
+
+        ii. A decrease in the county's household median income during any year within the prior eight years;
+
+        iii. The inability of the jurisdiction to add new full-time jobs in sufficient quantities to provide for population increases;
+
+        iv. Decreases or stagnation of economic start-ups during multiple years within the prior eight years;
+
+    v. Unemployment rates that are higher than the national and statewide averages over multiple years within the prior eight years; and
+
+    vi. Decreases or stagnation in the issuance of commercial building permits during multiple years.
+
+4. In situations where the competing goals of this chapter would restrain economic development in the counties described in subsection (3)(a) of this section, and the cities within those counties, that are experiencing economic deterioration, the growth management hearings board and courts shall afford deference to local development choices that make economic development a priority, consistent with the presumption of validity required under RCW 36.70A.320.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. For certain countywide planning policy, comprehensive plan, and development regulations specified in this section, counties and their cities may apply for a determination of compliance from the department finding that the action is in compliance with the requirements of this chapter and chapter 43.21C RCW and the applicable rules.
+
+2. Counties and cities may submit the following actions to the department for approval under this subsection:
+
+    a. Development of or amendments to the housing element;
+
+    b. Development of or amendments to comprehensive plan or development regulations designating or protecting critical areas;
+
+    c. Development of or amendments to comprehensive plan or development regulations to designate or assure the conservation of resource lands;
+
+    d. Development of or amendments to countywide planning policy, comprehensive plan, or development regulation amendments that change the urban growth area;
+
+    e. Countywide planning policy, comprehensive plan, or development regulation amendments that govern the siting of essential public facilities;
+
+    f. Findings of noncompliance referred to the department by the growth management hearings board under RCW 36.70A.330.
+
+3. Matters submitted to the department for approval become effective when approved by the department as provided in subsection (5) of this section.
+
+4. [Empty]
+
+    a. Upon receipt of a proposed comprehensive plan, development regulation, or countywide planning policy, the department shall:
+
+        i. Provide notice to and opportunity for written comment by all interested parties of record as a part of the local government review process for the proposal and to all persons, groups, and agencies that have requested in writing notice of the proposed action. The comment period shall be at least 30 days, unless the department determines that the level of complexity or controversy involved supports a shorter period;
+
+        ii. In the department's discretion, conduct a public hearing during the 30-day comment period in the jurisdiction proposing the comprehensive plan, development regulation, or countywide planning policy;
+
+        iii. Within 15 days after the close of public comment, request the local government to review the issues identified by the public, interested parties, groups, and agencies and provide a written response as to how the proposal addresses the identified issues;
+
+        iv. Within 30 days after receipt of the local government response pursuant to (a)(iii) of this subsection, make written findings and conclusions regarding the consistency of the proposal with the goals and requirements of the growth management act and with applicable guidelines and procedural criteria adopted by the department, provide a response to the issues identified in (a)(iii) of this subsection, and either approve the comprehensive plan, development regulation, or countywide planning policy as submitted, recommend specific changes necessary to make the comprehensive plan, development regulation, or countywide planning policy approvable, or deny approval of the comprehensive plan, development regulation, or countywide planning policy in those instances where no alternative comprehensive plan, development regulation, or countywide planning policy appears likely to be consistent with the goals and requirements of the growth management act and with applicable guidelines and procedural criteria adopted by the department. The written findings and conclusions shall be provided to the local government, and made available to all interested persons, parties, groups, and agencies of record on the proposal.
+
+    b. If the department recommends changes to the proposed comprehensive plan, development regulation, or countywide planning policy, within 90 days after the department mails the written findings and conclusions to the local government, the local government may:
+
+        i. Agree to the proposed changes by written notice to the department; or
+
+        ii. Submit an alternative comprehensive plan, development regulation, or countywide planning policy. If, in the opinion of the department, the alternative is consistent with the purpose and intent of the changes originally submitted by the department and with this chapter, it shall approve the changes and provide notice to all recipients of the written findings and conclusions. If the department determines the proposed comprehensive plan, development regulation, or countywide planning policy is not consistent with the purpose and intent of the changes proposed by the department, the department may resubmit the proposed comprehensive plan, development regulation, or countywide planning policy for public and agency review pursuant to this section or reject the proposed comprehensive plan, development regulation, or countywide planning policy.
+
+5. The department shall approve a proposed comprehensive plan, development regulation, or countywide planning policy unless it determines that the proposed comprehensive plan, development regulation, or countywide planning policy is not consistent with the goals and requirements of the growth management act and with applicable guidelines and procedural criteria adopted by the department.
+
+6. A comprehensive plan, development regulation, or countywide planning policy takes effect when and in such form as approved or adopted by the department. The effective date is 14 days from the date of the department's written notice of final action to the local government stating the department has approved or rejected the proposed comprehensive plan, development regulation, or countywide planning policy. The department's written notice to the local government must conspicuously and plainly state that it is the department's final decision and that there will be no further modifications to the proposed comprehensive plan, development regulation, or countywide planning policy. The department shall maintain a record of each comprehensive plan, development regulation, or countywide planning policy, the action taken on any proposed comprehensive plan, development regulation, or countywide planning policy, and any appeal of the department's action.
+
+7. Promptly after approval or disapproval of a comprehensive plan, development regulation, or countywide planning policy, the department shall publish a notice consistent in the Washington State Register that the comprehensive plan, development regulation, or countywide planning policy has been approved or disapproved.
+
+8. The department's final decision to approve or reject a proposed comprehensive plan, development regulation, or countywide planning policy may be appealed according to the following provisions:
+
+    a. The department's final decision to approve or reject a comprehensive plan, development regulation, or countywide planning policy may be appealed to the growth management hearings board by filing a petition as provided in RCW 36.70A.290.
+
+    b. A decision of the growth management hearings board concerning an appeal of the department's final decision to approve or reject a proposed greenhouse gas emissions reduction subelement or amendment must be based solely on whether or not the adopted comprehensive plan, development regulation, or countywide planning policy complies with the goals and requirements of the growth management act and with applicable guidelines and procedural criteria adopted by the department, or chapter 43.21C RCW.
+
+    c. If approval of a determination of compliance by the department under this section is appealed to the growth management hearings board under RCW 36.70A.280, the city or county may not be determined to be ineligible or otherwise penalized in the acceptance of applications or the awarding of state agency grants or loans under RCW 43.17.250 during the pendency of the appeal before the board or subsequent judicial appeals.
+
 
 ## Section 5
 > This section modifies existing section [36.70A.020](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.

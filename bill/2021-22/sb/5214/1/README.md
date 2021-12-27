@@ -64,3 +64,9 @@
 
     b. A part-time student carrying at least half the normal school load and working fewer than thirty-five hours per week.
 
+
+## Section 4
+> This section adds a new section to an existing chapter [74.08A](/rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md). Here is the [modified chapter](rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md) for context.
+
+The department may not require applicants for temporary assistance for needy families to attend a WorkFirst orientation in person as a condition of eligibility. However, the department may conduct a WorkFirst orientation by phone. The department may incorporate orientation information into the recipient assessment conducted pursuant to RCW 74.08A.260.
+
