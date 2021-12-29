@@ -1,0 +1,186 @@
+# House Bill 1682
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1682.xml)
+## Section 1
+> This section modifies existing section [70A.65.110](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. Facilities owned or operated by a covered entity must receive an allocation of allowances for the covered emissions at those facilities under this subsection at no cost if the operations of the facility are classified as emissions-intensive and trade-exposed, as determined by being engaged in one or more of the processes described by the following industry descriptions and codes in the North American industry classification system:
+
+    a. Metals manufacturing, including iron and steel making, ferroalloy and primary metals manufacturing, secondary aluminum smelting and alloying, aluminum sheet, plate, and foil manufacturing, and smelting, refining, and alloying of other nonferrous metals, North American industry classification system codes beginning with 331;
+
+    b. Paper manufacturing, including pulp mills, paper mills, and paperboard milling, North American industry classification system codes beginning with 322;
+
+    c. Aerospace product and parts manufacturing, North American industry classification system codes beginning with 3364;
+
+    d. Wood products manufacturing, North American industry classification system codes beginning with 321;
+
+    e. Nonmetallic mineral manufacturing, including glass container manufacturing, North American industry classification system codes beginning with 327;
+
+    f. Chemical manufacturing, North American industry classification system codes beginning with 325;
+
+    g. Computer and electronic product manufacturing, including semiconductor and related device manufacturing, North American industry classification system codes beginning with 334;
+
+    h. Food manufacturing, North American industry classification system codes beginning with 311;
+
+    i. Cement manufacturing, North American industry classification system code 327310;
+
+    j. Petroleum refining, North American industry classification system code 324110;
+
+    k. Asphalt paving mixtures and block manufacturing from refined petroleum, North American industry classification system code 324121;
+
+    l. Asphalt shingle and coating manufacturing from refined petroleum, North American industry classification system code 324122; and
+
+    m. All other petroleum and coal products manufacturing from refined petroleum, North American industry classification system code 324199.
+
+2. By July 1, 2022, the department must adopt by rule objective criteria for both emissions' intensity and trade exposure for the purpose of identifying emissions-intensive, trade-exposed manufacturing businesses during the second compliance period of the program and subsequent compliance periods. A facility covered by subsection (1)(a) through (m) of this section is considered an emissions-intensive, trade-exposed facility and is eligible for allocation of no cost allowances as described in this section. In addition, any covered party that is a manufacturing business that can demonstrate to the department that it meets the objective criteria adopted by rule is also eligible for treatment as emissions-intensive, trade-exposed and is eligible for allocation of no cost allowances as described in this section. In developing the objective criteria under this subsection, the department must consider the locations of facilities potentially identified as emissions-intensive, trade-exposed manufacturing businesses relative to overburdened communities.
+
+3. [Empty]
+
+    a. For the first compliance period beginning in January 1, 2023, the annual allocation of no cost allowances for direct distribution to a facility identified as emissions-intensive and trade-exposed must be equal to the facility's baseline carbon intensity established using data from 2015 through 2019, or other data as allowed under this section, multiplied by the facility's actual production for each calendar year during the compliance period. For facilities using the mass-based approach, the allocation of no cost allowances shall be equal to the facility's mass-based baseline using data from 2015 through 2019, or other data as allowed under this section.
+
+    b. For the second compliance period, beginning in January, 2027, and in each subsequent compliance period, the annual allocation of no cost allowances established in (a) of this subsection shall be adjusted according to the benchmark reduction schedules established in (b)(ii) and (iii) and (e) of this subsection multiplied by the facility's actual production during the period. The department shall adjust the no cost allocation of allowances and credits to an emissions-intensive and trade-exposed facility to avoid duplication with any no cost allowances transferred pursuant to RCW 70A.65.120 and 70A.65.130, if applicable.
+
+        i. For the purpose of this section, "carbon intensity" means the amount of carbon dioxide equivalent emissions from a facility in metric tons divided by the facility specific measure of production including, but not limited to, units of product manufactured or sold, over the same time interval.
+
+        ii. If an emissions-intensive and trade-exposed facility is not able to feasibly determine a carbon intensity benchmark based on its unique circumstances, the entity may elect to use a mass-based baseline that does not vary based on changes in production volumes. The mass-based baseline must be based upon data from 2015 through 2019, unless the emissions-intensive, trade-exposed facility can demonstrate that there have been abnormal periods of operation that materially impacted the facility and the baseline period should be expanded to include years prior to 2015. For each year during the first four-year compliance period that begins January 1, 2023, these facilities must be awarded no cost allowances equal to 100 percent of the facility's mass-based baseline. For each year during the second four-year compliance period that begins January 1, 2027, these facilities must be awarded no cost allowances equal to 97 percent of the facility's mass-based baseline. For each year during the third compliance period that begins January 1, 2031, these facilities must be awarded no cost allowances equal to 94 percent of the facility's mass-based baseline. **For the year beginning January 1, 2035, these facilities must be awarded no cost allowances equal to 88 percent of the facility's mass-based baseline. For each year beginning January 1, 2036, until January 1, 2050, these facilities must be awarded no cost allowances that must be six percent below the percentage of no cost allowances awarded during the preceding year.** Except as provided in (b)(iii) of this subsection, if a facility elects to use a mass-based baseline, it may not later convert to a carbon intensity benchmark during the first three compliance periods.
+
+        iii. A facility with a North American industry classification system code beginning with 3364 that is utilizing a mass-based baseline in (b)(ii) of this subsection must receive an additional no cost allowance allocation under this section in order to accommodate an increase in production that increases its emissions above the baseline on a basis equivalent in principle to those awarded to entities utilizing a carbon intensity benchmark pursuant to this subsection (3)(b). The department shall establish methods to award, for any annual period, additional no cost allowance allocations under this section and, if appropriate based on projected production, to achieve a similar ongoing result through the adjustment of the facility's mass-based baseline. An eligible facility under this subsection that has elected to use a mass-based baseline may not convert to a carbon intensity benchmark until the next compliance period.
+
+    c. [Empty]
+
+        i. By September 15, 2022, each emissions-intensive, trade-exposed facility shall submit its carbon intensity baseline for the first compliance period to the department. The carbon intensity baseline for the first compliance period must use data from 2015-2019, unless the emissions-intensive, trade-exposed facility can demonstrate that there have been abnormal periods of operation that materially impacted the facility and the baseline period should be expanded to include years prior to 2015.
+
+        ii. By November 15, 2022, the department shall review and approve each emissions-intensive, trade-exposed facility's baseline carbon intensity for the first compliance period.
+
+    d. During the first four-year compliance period that begins January 1, 2023, each emissions-intensive, trade-exposed facility must record its facility-specific carbon intensity baseline based on its actual production.
+
+    e. [Empty]
+
+        i. For the second four-year compliance period that begins January 1, 2027, the second period benchmark for each emissions-intensive, trade-exposed facility is three percent below the first period baseline specified in (a), (b), and (c) of this subsection.
+
+        ii. For the third four-year compliance period that begins January 1, 2031, the third period benchmark for each emissions-intensive, trade-exposed facility is three percent lower than the second period benchmark.
+
+        iii. **For the year beginning January 1, 2035, the benchmark for each emissions-intensive, trade-exposed facility is 88 percent of the facility's carbon intensity baseline. For each year beginning January 1, 2036, until January 1, 2050, the benchmark for each emissions-intensive, trade-exposed facility is six percent below the percentage of no cost allowances awarded during the preceding year.**
+
+    f.  The department shall by rule provide **a process** for **an** emissions-intensive, trade-exposed **facility** to apply to the department for an **upward** adjustment to the allocation for direct distribution of no cost allowances based on **a demonstration that additional reductions in carbon intensity or mass emissions are not technically or economically feasible. The department may apply such an upward adjustment to the third or subsequent compliance periods only. The department may grant an application to make an upward adjustment based on a determination that the facility already employs best available technology and other factors including, but not limited to**:
+
+        i. A significant change in the emissions use or emissions attributable to the manufacture of an individual good or goods in this state by an emissions-intensive, trade-exposed facility based on a finding by the department that an adjustment is necessary to accommodate for changes in the manufacturing process that have a material impact on emissions;
+
+        ii. Significant changes to an emissions-intensive, trade-exposed facility's external competitive environment that result in a significant increase in leakage risk; or
+
+        iii. Abnormal operating periods when an emissions-intensive, trade-exposed facility's carbon intensity has been materially affected so that these abnormal operating periods are either excluded or otherwise considered in the establishment of the compliance period carbon intensity benchmarks.
+
+    g. **Any adjustment granted pursuant to (f) of this subsection may not:**
+
+        i. **Increase the annual allowance budget for the program under RCW 70A.65.070 for any calendar year in the compliance period for which the adjustment was granted or for any future calendar year;**
+
+        ii. **Reduce the progressively equivalent reductions year over year in the annual allowance budgets under RCW 70A.65.070; or**
+
+        iii. **Prevent the achievement of the emissions limits established in RCW 70A.45.020, as those limits apply to this chapter.**
+
+4.
+
+If the actual emissions of an emissions-intensive, trade- exposed facility exceed the facility's no cost allowances assigned for that compliance period, it must acquire additional compliance instruments such that the total compliance instruments transferred to its compliance account consistent with chapter 316, Laws of 2021 equals emissions during the compliance period. An emissions-intensive, trade-exposed facility must be allowed to bank unused allowances, including for future sale and investment in best available technology when economically feasible. The department shall limit the use of offset credits for compliance by an emissions-intensive, trade-exposed facility, such that the quantity of no cost allowances plus the provision of offset credits does not exceed 100 percent of the facility's total compliance obligation over a compliance period.
+
+5. The department must withhold or withdraw the relevant share of allowances allocated to a covered entity under this section in the event that the covered entity ceases production in the state and becomes a closed facility. In the event an entity curtails all production and becomes a curtailed facility, the allowances are retained but cannot be traded, sold, or transferred and are still subject to the emission reduction requirements specified in this section. An owner or operator of a curtailed facility may transfer the allowances to a new operator of the facility that will be operated under the same North American industry classification system codes. If the curtailed facility becomes a closed facility, then all unused allowances will be transferred to the emissions containment reserve. A curtailed facility is not eligible to receive free allowances during a period of curtailment. Any allowances withheld or withdrawn under this subsection must be transferred to the emissions containment reserve.
+
+6. An owner or operator of more than one facility receiving no cost allowances under this section may transfer allowances among the eligible facilities.
+
+7. Rules adopted by the department under this section must include protocols for allocating allowances at no cost to an eligible facility built after July 25, 2021. The protocols must include consideration of the products and criteria pollutants being produced by the facility, as well as the local environmental and health impacts associated with the facility. For a facility that is built on tribal lands or is determined by the department to impact tribal lands and resources, the protocols must be developed in consultation with the affected tribal nations.
+
+8. **The no cost allowance amounts in subsection (3)(b)(ii) of this section concerning each year beginning January 1, 2035, until January 1, 2050, and in subsection (3)(e)(iii) of this section, may be modified by rule as adopted by the department if necessary to ensure achievement of the proportionate share of statewide emissions limits established in RCW 70A.45.020 or to provide for alignment with other jurisdictions to which the state has linked.**
+
+
+## Section 2
+> This section modifies existing section [70A.65.230](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. It is the intent of the legislature that each year the total investments made through the carbon emissions reduction account created in RCW 70A.65.240, the climate commitment account created in RCW 70A.65.260, the natural climate solutions account created in RCW 70A.65.270, and the air quality and health disparities improvement account created in RCW 70A.65.280, achieve the following:
+
+    a. A minimum of not less than 35 percent and a goal of 40 percent of total investments that provide direct and meaningful benefits to vulnerable populations within the boundaries of overburdened communities identified under chapter 314, Laws of 2021; and
+
+    b. In addition to the requirements of (a) of this subsection, a minimum of not less than 10 percent of total investments that are used for programs, activities, or projects formally supported by a resolution of an Indian tribe, with priority given to otherwise qualifying projects directly administered or proposed by an Indian tribe. An investment that meets the requirements of both this subsection (1)(b) and (a) of this subsection may count toward the minimum percentage targets for both subsections.
+
+2. The expenditure of moneys under this chapter must be consistent with applicable federal, state, and local laws, and treaty rights including, but not limited to, prohibitions on uses of funds imposed by the state Constitution.
+
+3. For the purposes of this section, "benefits" means investments or activities that:
+
+    a. Reduce vulnerable population characteristics, environmental burdens, or associated risks that contribute significantly to the cumulative impact designation of highly impacted communities;
+
+    b. Meaningfully protect an overburdened community from, or support community response to, the impacts of air pollution or climate change; or
+
+    c. Meet a community need identified by vulnerable members of the community that is consistent with the intent of this chapter.
+
+4. The state must develop a process by which to evaluate the impacts of the investments made under this chapter, work across state agencies to develop and track priorities across the different eligible funding categories, and work with the environmental justice council pursuant to RCW 70A.65.040.
+
+
+## Section 3
+> This section modifies existing section [70A.65.260](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. The climate commitment account is created in the state treasury. The account must receive moneys distributed to the account from the climate investment account created in RCW 70A.65.250. Moneys in the account may be spent only after appropriation. Projects, activities, and programs eligible for funding from the account must be physically located in Washington state and include, but are not limited to, the following:
+
+    a. Implementing the working families tax rebate in RCW 82.08.0206;
+
+    b. Supplementing the growth management planning and environmental review fund established in RCW 36.70A.490 for the purpose of making grants or loans to local governments for the purposes set forth in RCW 43.21C.240, 43.21C.031, 36.70A.500, and 36.70A.600, for costs associated with RCW 36.70A.610, and to cover costs associated with the adoption of optional elements of comprehensive plans consistent with RCW 43.21C.420;
+
+    c. Programs, activities, or projects that reduce and mitigate impacts from greenhouse gases and copollutants in overburdened communities, including strengthening the air quality monitoring network to measure, track, and better understand air pollution levels and trends and to inform the analysis, monitoring, and pollution reduction measures required in RCW 70A.65.020;
+
+    d. Programs, activities, or projects that deploy renewable energy resources, such as solar and wind power, and projects to deploy distributed generation, energy storage, demand-side technologies and strategies, and other grid modernization projects;
+
+    e. Programs, activities, or projects that increase the energy efficiency or reduce greenhouse gas emissions of industrial facilities including, but not limited to, proposals to implement combined heat and power, district energy, or on-site renewables, such as solar and wind power, to upgrade the energy efficiency of existing equipment, to reduce process emissions, and to switch to less emissions intensive fuel sources;
+
+    f. Programs, activities, or projects that achieve energy efficiency or emissions reductions in the agricultural sector including:
+
+        i. Fertilizer management;
+
+        ii. Soil management;
+
+        iii. Bioenergy;
+
+        iv. Biofuels;
+
+    v. Grants, rebates, and other financial incentives for agricultural harvesting equipment, heavy-duty trucks, agricultural pump engines, tractors, and other equipment used in agricultural operations;
+
+    vi. Grants, loans, or any financial incentives to food processors to implement projects that reduce greenhouse gas emissions;
+
+    vii. Renewable energy projects;
+
+    viii. Farmworker housing weatherization programs;
+
+        ix. Dairy digester research and development;
+
+    x. Alternative manure management; and
+
+    xi. Eligible fund uses under RCW 89.08.615;
+
+    g. Programs, activities, or projects that increase energy efficiency in new and existing buildings, or that promote low carbon architecture, including use of newly emerging alternative building materials that result in a lower carbon footprint in the built environment over the life cycle of the building and component building materials;
+
+    h. Programs, activities, or projects that promote the electrification and decarbonization of new and existing buildings, including residential, commercial, and industrial buildings;
+
+    i. Programs, activities, or projects that improve energy efficiency, including district energy, and investments in market transformation of high efficiency electric appliances and equipment for space and water heating;
+
+    j. Clean energy transition and assistance programs, activities, or projects that assist affected workers or people with lower incomes during the transition to a clean energy economy, or grow and expand clean manufacturing capacity in communities across Washington state including, but not limited to:
+
+        i. Programs, activities, or projects that directly improve energy affordability and reduce the energy burden of people with lower incomes, as well as the higher transportation fuel burden of rural residents, such as bill assistance, energy efficiency, and weatherization programs;
+
+        ii. Community renewable energy projects that allow qualifying participants to own or receive the benefits of those projects at reduced or no cost;
+
+        iii. Programs, activities, or other worker-support projects for bargaining unit and nonsupervisory fossil fuel workers who are affected by the transition away from fossil fuels to a clean energy economy. Worker support may include, but is not limited to: (A) Full wage replacement, health benefits, and pension contributions for every worker within five years of retirement; (B) full wage replacement, health benefits, and pension contributions for every worker with at least one year of service for each year of service up to five years of service; (C) wage insurance for up to five years for workers reemployed who have more than five years of service; (D) up to two years of retraining costs, including tuition and related costs, based on in-state community and technical college costs; (E) peer counseling services during transition; (F) employment placement services, prioritizing employment in the clean energy sector; and (G) relocation expenses;
+
+        iv. Direct investment in workforce development, via technical education, community college, institutions of higher education, apprenticeships, and other programs including, but not limited to:
+
+(A) Initiatives to develop a forest health workforce established under RCW 76.04.521; and
+
+(B) Initiatives to develop new education programs, emerging fields, or jobs pertaining to the clean energy economy;
+
+    v. Transportation, municipal service delivery, and technology investments that increase a community's capacity for clean manufacturing, with an emphasis on communities in greatest need of job creation and economic development and potential for commute reduction;
+
+    k. Programs, activities, or projects that reduce emissions from landfills and waste-to-energy facilities through diversion of organic materials, methane capture or conversion strategies, or other means;
+
+    l. Carbon dioxide removal projects, programs, and activities;
+
+    m. Activities to support efforts to mitigate and adapt to the effects of climate change affecting Indian tribes, including capital investments in support of the relocation of Indian tribes located in areas at heightened risk due to anticipated sea level rise, flooding, or other disturbances caused by climate change. The legislature intends to dedicate at least $50,000,000 per biennium from the account for purposes of this subsection**; and**
+
+    n. **Programs, activities, or projects that reduce covered emissions of facilities identified as emissions-intensive, trade-exposed industries pursuant to RCW 70A.65.110**.
+
+2. Moneys in the account may not be used for projects or activities that would violate tribal treaty rights or result in significant long-term damage to critical habitat or ecological functions. Investments from this account must result in long-term environmental benefits and increased resilience to the impacts of climate change.
+

@@ -1,0 +1,572 @@
+# House Bill 1688
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1688.xml)
+## Section 1
+> This section modifies existing section [43.371.100](/rcw/43_state_government—executive/43.371_statewide_health_care_claims_data.md). Here is the [modified chapter](rcw/43_state_government—executive/43.371_statewide_health_care_claims_data.md) for context.
+
+1. The office of the insurance commissioner shall contract with the state agency responsible for administration of the database and the lead organization to establish a data set and business process to provide health carriers, health care providers, hospitals, ambulatory surgical facilities, and arbitrators with data to assist in determining commercially reasonable payments and resolving payment disputes for out-of-network medical services rendered by health care facilities or providers.
+
+    a. The data set and business process must be developed in collaboration with health carriers, health care providers, hospitals, and ambulatory surgical facilities.
+
+    b. The data set must provide the amounts for the services described in RCW 48.49.020. The data used to calculate the median in-network and out-of-network allowed amounts and the median billed charge amounts by geographic area, for the same or similar services, must be drawn from commercial health plan claims, and exclude medicare and medicaid claims as well as claims paid on other than a fee-for-service basis.
+
+    c. The data set and business process must be available beginning November 1, 2019, and must be reviewed by an advisory committee established under **this chapter** that includes representatives of health carriers, health care providers, hospitals, and ambulatory surgical facilities for validation before use.
+
+2. The 2019 data set must be based upon the most recently available full calendar year of claims data. The data set for each subsequent year must be adjusted by applying the consumer price index-medical component established by the United States department of labor, bureau of labor statistics to the previous year's data set.
+
+3. **Until December 31, 2030, the office of the insurance commissioner shall contract with the state agency responsible for administration of the database or other organizations biennially beginning in 2022, for an analysis of commercial health plan claims data to assess any impact that chapter 48.49 RCW or P.L. 116-260 have had or may have had on payments to participating and nonparticipating providers and facilities and on utilization of out-of-network services. To the extent that data related to self-funded group health plans is available within funds appropriated for this purpose, the analysis may include such data. The analysis must be published on the website of the office of the insurance commissioner, with the first analysis published on or before December 15, 2022.**
+
+
+## Section 2
+> This section modifies existing section [48.43.005](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+Unless otherwise specifically provided, the definitions in this section apply throughout this chapter.
+
+1. "Adjusted community rate" means the rating method used to establish the premium for health plans adjusted to reflect actuarially demonstrated differences in utilization or cost attributable to geographic region, age, family size, and use of wellness activities.
+
+2. "Adverse benefit determination" means a denial, reduction, or termination of, or a failure to provide or make payment, in whole or in part, for a benefit, including a denial, reduction, termination, or failure to provide or make payment that is based on a determination of an enrollee's or applicant's eligibility to participate in a plan, and including, with respect to group health plans, a denial, reduction, or termination of, or a failure to provide or make payment, in whole or in part, for a benefit resulting from the application of any utilization review, as well as a failure to cover an item or service for which benefits are otherwise provided because it is determined to be experimental or investigational or not medically necessary or appropriate.
+
+3. "Allowed amount" means the maximum portion of a billed charge a health carrier will pay, including any applicable enrollee cost-sharing responsibility, for a covered health care service or item rendered by a participating provider or facility or by a nonparticipating provider or facility.
+
+4. "Applicant" means a person who applies for enrollment in an individual health plan as the subscriber or an enrollee, or the dependent or spouse of a subscriber or enrollee.
+
+5. "Balance bill" means a bill sent to an enrollee by **a nonparticipating** provider or facility for health care services provided to the enrollee after the provider or facility's billed amount is not fully reimbursed by the carrier, exclusive of permitted cost-sharing.
+
+6. "Basic health plan" means the plan described under chapter 70.47 RCW, as revised from time to time.
+
+7. "Basic health plan model plan" means a health plan as required in RCW 70.47.060(2)(e).
+
+8. "Basic health plan services" means that schedule of covered health services, including the description of how those benefits are to be administered, that are required to be delivered to an enrollee under the basic health plan, as revised from time to time.
+
+9. "Board" means the governing board of the Washington health benefit exchange established in chapter 43.71 RCW.
+
+10. [Empty]
+
+    a. For grandfathered health benefit plans issued before January 1, 2014, and renewed thereafter, "catastrophic health plan" means:
+
+        i. In the case of a contract, agreement, or policy covering a single enrollee, a health benefit plan requiring a calendar year deductible of, at a minimum, one thousand seven hundred fifty dollars and an annual out-of-pocket expense required to be paid under the plan (other than for premiums) for covered benefits of at least three thousand five hundred dollars, both amounts to be adjusted annually by the insurance commissioner; and
+
+        ii. In the case of a contract, agreement, or policy covering more than one enrollee, a health benefit plan requiring a calendar year deductible of, at a minimum, three thousand five hundred dollars and an annual out-of-pocket expense required to be paid under the plan (other than for premiums) for covered benefits of at least six thousand dollars, both amounts to be adjusted annually by the insurance commissioner.
+
+    b. In July 2008, and in each July thereafter, the insurance commissioner shall adjust the minimum deductible and out-of-pocket expense required for a plan to qualify as a catastrophic plan to reflect the percentage change in the consumer price index for medical care for a preceding twelve months, as determined by the United States department of labor. For a plan year beginning in 2014, the out-of-pocket limits must be adjusted as specified in section 1302(c)(1) of P.L. 111-148 of 2010, as amended. The adjusted amount shall apply on the following January 1st.
+
+    c. For health benefit plans issued on or after January 1, 2014, "catastrophic health plan" means:
+
+        i. A health benefit plan that meets the definition of catastrophic plan set forth in section 1302(e) of P.L. 111-148 of 2010, as amended; or
+
+        ii. A health benefit plan offered outside the exchange marketplace that requires a calendar year deductible or out-of-pocket expenses under the plan, other than for premiums, for covered benefits, that meets or exceeds the commissioner's annual adjustment under (b) of this subsection.
+
+11. "Certification" means a determination by a review organization that an admission, extension of stay, or other health care service or procedure has been reviewed and, based on the information provided, meets the clinical requirements for medical necessity, appropriateness, level of care, or effectiveness under the auspices of the applicable health benefit plan.
+
+12. "Concurrent review" means utilization review conducted during a patient's hospital stay or course of treatment.
+
+13. "Covered person" or "enrollee" means a person covered by a health plan including an enrollee, subscriber, policyholder, beneficiary of a group plan, or individual covered by any other health plan.
+
+14. "Dependent" means, at a minimum, the enrollee's legal spouse and dependent children who qualify for coverage under the enrollee's health benefit plan.
+
+15. "Emergency medical condition" means a medical, mental health, or substance use disorder condition manifesting itself by acute symptoms of sufficient severity including, but not limited to, severe pain or emotional distress, such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical, mental health, or substance use disorder treatment attention to result in a condition (a) placing the health of the individual, or with respect to a pregnant woman, the health of the woman or her unborn child, in serious jeopardy, (b) serious impairment to bodily functions, or (c) serious dysfunction of any bodily organ or part.
+
+16. "Emergency services" means **:**
+
+    a. [Empty]
+
+        i. **A** medical screening examination, as required under section 1867 of the social security act (42 U.S.C. **Sec.** 1395dd), that is within the capability of the emergency department of a hospital, including ancillary services routinely available to the emergency department to evaluate that emergency medical condition**;**
+
+        ii. **Medical** examination and treatment, to the extent they are within the capabilities of the staff and facilities available at the hospital, as are required under section 1867 of the social security act (42 U.S.C. **Sec.** 1395dd) to stabilize the patient. Stabilize, with respect to an emergency medical condition, has the meaning given in section 1867(e)(3) of the social security act (42 U.S.C. **Sec.** 1395dd(e)(3))**; and**
+
+        iii. **Covered services provided by staff or facilities of a hospital after the enrollee is stabilized and as part of outpatient observation or an inpatient or outpatient stay with respect to the visit during which screening and stabilization services have been furnished. Poststabilization services relate to medical, mental health, or substance use disorder treatment necessary in the short term to avoid placing the health of the individual, or with respect to a pregnant woman, the health of the woman or her unborn child, in serious jeopardy, serious impairment to bodily functions, or serious dysfunction of any bodily organ or part; or**
+
+    b. [Empty]
+
+        i. **A screening examination that is within the capability of a behavioral health emergency services provider including ancillary services routinely available to the behavioral health emergency services provider to evaluate that emergency medical condition;**
+
+        ii. **Examination and treatment, to the extent they are within the capabilities of the staff and facilities available at the behavioral health emergency services provider, as are required under section 1867 of the social security act (42 U.S.C. Sec. 1395dd) or as would be required under such section if such section applied to behavioral health emergency services providers, to stabilize the patient. Stabilize, with respect to an emergency medical condition, has the meaning given in section 1867(e)(3) of the social security act (42 U.S.C. Sec. 1395dd(e)(3)); and**
+
+        iii. **Covered behavioral health services provided by staff or facilities of a behavioral health emergency services provider after the enrollee is stabilized and as part of outpatient observation or an inpatient or outpatient stay with respect to the visit during which screening and stabilization services have been furnished. Poststabilization services relate to mental health or substance use disorder treatment necessary in the short term to avoid placing the health of the individual, or with respect to a pregnant woman, the health of the woman or her unborn child, in serious jeopardy, serious impairment to bodily functions, or serious dysfunction of any bodily organ or part**.
+
+17. "Employee" has the same meaning given to the term, as of January 1, 2008, under section 3(6) of the federal employee retirement income security act of 1974.
+
+18. "Enrollee point-of-service cost-sharing" or "cost-sharing" means amounts paid to health carriers directly providing services, health care providers, or health care facilities by enrollees and may include copayments, coinsurance, or deductibles.
+
+19. "Essential health benefit categories" means:
+
+    a. Ambulatory patient services;
+
+    b. Emergency services;
+
+    c. Hospitalization;
+
+    d. Maternity and newborn care;
+
+    e. Mental health and substance use disorder services, including behavioral health treatment;
+
+    f. Prescription drugs;
+
+    g. Rehabilitative and habilitative services and devices;
+
+    h. Laboratory services;
+
+    i. Preventive and wellness services and chronic disease management; and
+
+    j. Pediatric services, including oral and vision care.
+
+20. "Exchange" means the Washington health benefit exchange established under chapter 43.71 RCW.
+
+21. "Final external review decision" means a determination by an independent review organization at the conclusion of an external review.
+
+22. "Final internal adverse benefit determination" means an adverse benefit determination that has been upheld by a health plan or carrier at the completion of the internal appeals process, or an adverse benefit determination with respect to which the internal appeals process has been exhausted under the exhaustion rules described in RCW 48.43.530 and 48.43.535.
+
+23. "Grandfathered health plan" means a group health plan or an individual health plan that under section 1251 of the patient protection and affordable care act, P.L. 111‑148 (2010) and as amended by the health care and education reconciliation act, P.L. 111‑152 (2010) is not subject to subtitles A or C of the act as amended.
+
+24. "Grievance" means a written complaint submitted by or on behalf of a covered person regarding service delivery issues other than denial of payment for medical services or nonprovision of medical services, including dissatisfaction with medical care, waiting time for medical services, provider or staff attitude or demeanor, or dissatisfaction with service provided by the health carrier.
+
+25. "Health care facility" or "facility" means hospices licensed under chapter 70.127 RCW, hospitals licensed under chapter 70.41 RCW, rural health care facilities as defined in RCW 70.175.020, psychiatric hospitals licensed under chapter 71.12 RCW, nursing homes licensed under chapter 18.51 RCW, community mental health centers licensed under chapter 71.05 or 71.24 RCW, kidney disease treatment centers licensed under chapter 70.41 RCW, ambulatory diagnostic, treatment, or surgical facilities licensed under chapter 70.41 **or 70.230** RCW, drug and alcohol treatment facilities licensed under chapter 70.96A RCW, and home health agencies licensed under chapter 70.127 RCW, and includes such facilities if owned and operated by a political subdivision or instrumentality of the state and such other facilities as required by federal law and implementing regulations.
+
+26. "Health care provider" or "provider" means:
+
+    a. A person regulated under Title 18 or chapter 70.127 RCW, to practice health or health-related services or otherwise practicing health care services in this state consistent with state law; or
+
+    b. An employee or agent of a person described in (a) of this subsection, acting in the course and scope of his or her employment.
+
+27. "Health care service" means that service offered or provided by health care facilities and health care providers relating to the prevention, cure, or treatment of illness, injury, or disease.
+
+28. "Health carrier" or "carrier" means a disability insurer regulated under chapter 48.20 or 48.21 RCW, a health care service contractor as defined in RCW 48.44.010, or a health maintenance organization as defined in RCW 48.46.020, and includes "issuers" as that term is used in the patient protection and affordable care act (P.L. 111-148).
+
+29. "Health plan" or "health benefit plan" means any policy, contract, or agreement offered by a health carrier to provide, arrange, reimburse, or pay for health care services except the following:
+
+    a. Long-term care insurance governed by chapter 48.84 or 48.83 RCW;
+
+    b. Medicare supplemental health insurance governed by chapter 48.66 RCW;
+
+    c. Coverage supplemental to the coverage provided under chapter 55, Title 10, United States Code;
+
+    d. Limited health care services offered by limited health care service contractors in accordance with RCW 48.44.035;
+
+    e. Disability income;
+
+    f. Coverage incidental to a property/casualty liability insurance policy such as automobile personal injury protection coverage and homeowner guest medical;
+
+    g. Workers' compensation coverage;
+
+    h. Accident only coverage;
+
+    i. Specified disease or illness‑triggered fixed payment insurance, hospital confinement fixed payment insurance, or other fixed payment insurance offered as an independent, noncoordinated benefit;
+
+    j. Employer-sponsored self-funded health plans;
+
+    k. Dental only and vision only coverage;
+
+    l. Plans deemed by the insurance commissioner to have a short-term limited purpose or duration, or to be a student-only plan that is guaranteed renewable while the covered person is enrolled as a regular full-time undergraduate or graduate student at an accredited higher education institution, after a written request for such classification by the carrier and subsequent written approval by the insurance commissioner;
+
+    m. Civilian health and medical program for the veterans affairs administration (CHAMPVA); and
+
+    n. Stand-alone prescription drug coverage that exclusively supplements medicare part D coverage provided through an employer group waiver plan under federal social security act regulation 42 C.F.R. Sec. 423.458(c).
+
+30. "Individual market" means the market for health insurance coverage offered to individuals other than in connection with a group health plan.
+
+31. "In-network" or "participating" means a provider or facility that has contracted with a carrier or a carrier's contractor or subcontractor to provide health care services to enrollees and be reimbursed by the carrier at a contracted rate as payment in full for the health care services, including applicable cost-sharing obligations.
+
+32. "Material modification" means a change in the actuarial value of the health plan as modified of more than five percent but less than fifteen percent.
+
+33. "Open enrollment" means a period of time as defined in rule to be held at the same time each year, during which applicants may enroll in a carrier's individual health benefit plan without being subject to health screening or otherwise required to provide evidence of insurability as a condition for enrollment.
+
+34. "Out-of-network" or "nonparticipating" means a provider or facility that has not contracted with a carrier or a carrier's contractor or subcontractor to provide health care services to enrollees.
+
+35. "Out-of-pocket maximum" or "maximum out-of-pocket" means the maximum amount an enrollee is required to pay in the form of cost-sharing for covered benefits in a plan year, after which the carrier covers the entirety of the allowed amount of covered benefits under the contract of coverage.
+
+36. "Preexisting condition" means any medical condition, illness, or injury that existed any time prior to the effective date of coverage.
+
+37. "Premium" means all sums charged, received, or deposited by a health carrier as consideration for a health plan or the continuance of a health plan. Any assessment or any "membership," "policy," "contract," "service," or similar fee or charge made by a health carrier in consideration for a health plan is deemed part of the premium. "Premium" shall not include amounts paid as enrollee point-of-service cost-sharing.
+
+38. [Empty]
+
+    a. "Protected individual" means:
+
+        i. An adult covered as a dependent on the enrollee's health benefit plan, including an individual enrolled on the health benefit plan of the individual's registered domestic partner; or
+
+        ii. A minor who may obtain health care without the consent of a parent or legal guardian, pursuant to state or federal law.
+
+    b. "Protected individual" does not include an individual deemed not competent to provide informed consent for care under RCW 11.88.010(1)(e).
+
+39. "Review organization" means a disability insurer regulated under chapter 48.20 or 48.21 RCW, health care service contractor as defined in RCW 48.44.010, or health maintenance organization as defined in RCW 48.46.020, and entities affiliated with, under contract with, or acting on behalf of a health carrier to perform a utilization review.
+
+40. "Sensitive health care services" means health services related to reproductive health, sexually transmitted diseases, substance use disorder, gender dysphoria, gender affirming care, domestic violence, and mental health.
+
+41. "Small employer" or "small group" means any person, firm, corporation, partnership, association, political subdivision, sole proprietor, or self-employed individual that is actively engaged in business that employed an average of at least one but no more than fifty employees, during the previous calendar year and employed at least one employee on the first day of the plan year, is not formed primarily for purposes of buying health insurance, and in which a bona fide employer-employee relationship exists. In determining the number of employees, companies that are affiliated companies, or that are eligible to file a combined tax return for purposes of taxation by this state, shall be considered an employer. Subsequent to the issuance of a health plan to a small employer and for the purpose of determining eligibility, the size of a small employer shall be determined annually. Except as otherwise specifically provided, a small employer shall continue to be considered a small employer until the plan anniversary following the date the small employer no longer meets the requirements of this definition. A self-employed individual or sole proprietor who is covered as a group of one must also: (a) Have been employed by the same small employer or small group for at least twelve months prior to application for small group coverage, and (b) verify that he or she derived at least seventy-five percent of his or her income from a trade or business through which the individual or sole proprietor has attempted to earn taxable income and for which he or she has filed the appropriate internal revenue service form 1040, schedule C or F, for the previous taxable year, except a self-employed individual or sole proprietor in an agricultural trade or business, must have derived at least fifty-one percent of his or her income from the trade or business through which the individual or sole proprietor has attempted to earn taxable income and for which he or she has filed the appropriate internal revenue service form 1040, for the previous taxable year.
+
+42. "Special enrollment" means a defined period of time of not less than thirty-one days, triggered by a specific qualifying event experienced by the applicant, during which applicants may enroll in the carrier's individual health benefit plan without being subject to health screening or otherwise required to provide evidence of insurability as a condition for enrollment.
+
+43. "Standard health questionnaire" means the standard health questionnaire designated under chapter 48.41 RCW.
+
+44.
+
+"Utilization review" means the prospective, concurrent, or retrospective assessment of the necessity and appropriateness of the allocation of health care resources and services of a provider or facility, given or proposed to be given to an enrollee or group of enrollees.
+
+45. "Wellness activity" means an explicit program of an activity consistent with department of health guidelines, such as, smoking cessation, injury and accident prevention, reduction of alcohol misuse, appropriate weight reduction, exercise, automobile and motorcycle safety, blood cholesterol reduction, and nutrition education for the purpose of improving enrollee health status and reducing health service costs.
+
+46. **"Nonemergency health care services performed by nonparticipating providers at certain participating facilities" means covered items or services other than emergency services with respect to a visit at a participating health care facility, as provided in section 2799A-1(b) of the public health services act (42 U.S.C. Sec. 300gg-111(b)), 45 C.F.R. Sec. 149.30, and 45 C.F.R. Sec. 149.120 as in effect on the effective date of this section.**
+
+47. **"Air ambulance service" has the same meaning as defined in section 2799A-2 of the public health services act (42 U.S.C. Sec. 300gg-112) and implementing federal regulations in effect on the effective date of this section.**
+
+48. **"Behavioral health emergency services provider" means emergency services provided in the following settings:**
+
+    a. **A crisis stabilization unit as defined in RCW 71.05.020;**
+
+    b. **An evaluation and treatment facility that can provide directly, or by direct arrangement with other public or private agencies, emergency evaluation and treatment, outpatient care, and timely and appropriate inpatient care to persons suffering from a mental disorder, and which is licensed or certified as such by the department of health;**
+
+    c. **An agency certified by the department of health under chapter 71.24 RCW to provide outpatient crisis services;**
+
+    d. **A triage facility as defined in RCW 71.05.020;**
+
+    e. **An agency certified by the department of health under chapter 71.24 RCW to provide medically managed or medically monitored withdrawal management services; or**
+
+    f. **A mobile rapid response crisis team as defined in RCW 71.24.025 that is contracted with a behavioral health administrative services organization operating under RCW 71.24.045 to provide crisis response services in the behavioral health administrative services organization's service area.**
+
+
+## Section 3
+> This section modifies existing section [48.43.093](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+1.
+
+A health carrier shall cover emergency services **provided to** a covered person if a prudent layperson acting reasonably would have believed that an emergency medical condition existed. In addition, a health carrier shall not require prior authorization of emergency services  if a prudent layperson acting reasonably would have believed that an emergency medical condition existed. With respect to care obtained from **a nonparticipating** hospital emergency department **or behavioral health emergency services provider**, a health carrier shall cover emergency services . In addition, a health carrier shall not require prior authorization of **emergency** services .
+
+2. Coverage of emergency services may be subject to applicable in-network copayments, coinsurance, and deductibles, as provided in chapter 48.49 RCW.
+
+3. Nothing in this section is to be construed as prohibiting **a** health carrier from **:**
+
+    a. **Requiring** notification **of stabilization or inpatient admission** within the time frame specified in **its** contract **with the hospital or behavioral health emergency services provider** or as soon thereafter as medically possible but no less than twenty-four hours**; or**
+
+    b. **Requiring a hospital or emergency behavioral health emergency services provider to make a documented good faith effort to notify the covered person's health carrier within 30 minutes of stabilization, if the covered person needs to be stabilized. If a health carrier requires such notification, the health carrier shall provide access to an authorized representative 24 hours a day, seven days a week to receive notifications.**
+
+4. **Except to the extent provided otherwise in this section, follow-up** care that is a direct result of the emergency must be obtained in accordance with the health plan's usual terms and conditions of coverage. All other terms and conditions of coverage may be applied to emergency services.
+
+
+## Section 4
+> This section modifies existing section [48.43.535](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+1. There is a need for a process for the fair consideration of disputes relating to decisions by carriers that offer a health plan to deny, modify, reduce, or terminate coverage of or payment for health care services for an enrollee. For purposes of this section, "carrier" also applies to a health plan if the health plan administers the appeal process directly or through a third party.
+
+2. An enrollee may seek review by a certified independent review organization of a carrier's decision to deny, modify, reduce, or terminate coverage of or payment for a health care service **or of any adverse determination made by a carrier under RCW 48.49.020, 48.49.030, or sections 2799A-1 or 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 or 300gg-112) and implementing federal regulations in effect as of the effective date of this section**, after exhausting the carrier's grievance process and receiving a decision that is unfavorable to the enrollee, or after the carrier has exceeded the timelines for grievances provided in RCW 48.43.530, without good cause and without reaching a decision.
+
+3. The commissioner must establish and use a rotational registry system for the assignment of a certified independent review organization to each dispute. The system should be flexible enough to ensure that an independent review organization has the expertise necessary to review the particular medical condition or service at issue in the dispute, and that any approved independent review organization does not have a conflict of interest that will influence its independence.
+
+4. Carriers must provide to the appropriate certified independent review organization, not later than the third business day after the date the carrier receives a request for review, a copy of:
+
+    a. Any medical records of the enrollee that are relevant to the review;
+
+    b. Any documents used by the carrier in making the determination to be reviewed by the certified independent review organization;
+
+    c. Any documentation and written information submitted to the carrier in support of the appeal; and
+
+    d. A list of each physician or health care provider who has provided care to the enrollee and who may have medical records relevant to the appeal. Health information or other confidential or proprietary information in the custody of a carrier may be provided to an independent review organization, subject to rules adopted by the commissioner.
+
+5. Enrollees must be provided with at least five business days to submit to the independent review organization in writing additional information that the independent review organization must consider when conducting the external review. The independent review organization must forward any additional information submitted by an enrollee to the plan or carrier within one business day of receipt by the independent review organization.
+
+6. The medical reviewers from a certified independent review organization will make determinations regarding the medical necessity or appropriateness of, and the application of health plan coverage provisions to, health care services for an enrollee. The medical reviewers' determinations must be based upon their expert medical judgment, after consideration of relevant medical, scientific, and cost-effectiveness evidence, and medical standards of practice in the state of Washington. Except as provided in this subsection, the certified independent review organization must ensure that determinations are consistent with the scope of covered benefits as outlined in the medical coverage agreement. Medical reviewers may override the health plan's medical necessity or appropriateness standards if the standards are determined upon review to be unreasonable or inconsistent with sound, evidence-based medical practice.
+
+7. Once a request for an independent review determination has been made, the independent review organization must proceed to a final determination, unless requested otherwise by both the carrier and the enrollee or the enrollee's representative.
+
+    a. An enrollee or carrier may request an expedited external review if the adverse benefit determination or internal adverse benefit determination concerns an admission, availability of care, continued stay, or health care service for which the claimant received emergency services but has not been discharged from a facility; or involves a medical condition for which the standard external review time frame would seriously jeopardize the life or health of the enrollee or jeopardize the enrollee's ability to regain maximum function. The independent review organization must make its decision to uphold or reverse the adverse benefit determination or final internal adverse benefit determination and notify the enrollee and the carrier or health plan of the determination as expeditiously as possible but within not more than seventy-two hours after the receipt of the request for expedited external review. If the notice is not in writing, the independent review organization must provide written confirmation of the decision within forty-eight hours after the date of the notice of the decision.
+
+    b. For claims involving experimental or investigational treatments, the independent review organization must ensure that adequate clinical and scientific experience and protocols are taken into account as part of the external review process.
+
+8. Carriers must timely implement the certified independent review organization's determination, and must pay the certified independent review organization's charges.
+
+9. When an enrollee requests independent review of a dispute under this section, and the dispute involves a carrier's decision to modify, reduce, or terminate an otherwise covered health service that an enrollee is receiving at the time the request for review is submitted and the carrier's decision is based upon a finding that the health service, or level of health service, is no longer medically necessary or appropriate, the carrier must continue to provide the health service if requested by the enrollee until a determination is made under this section. If the determination affirms the carrier's decision, the enrollee may be responsible for the cost of the continued health service.
+
+10. Each certified independent review organization must maintain written records and make them available upon request to the commissioner.
+
+11. A certified independent review organization may notify the office of the insurance commissioner if, based upon its review of disputes under this section, it finds a pattern of substandard or egregious conduct by a carrier.
+
+12. [Empty]
+
+    a. The commissioner shall adopt rules to implement this section after considering relevant standards adopted by national managed care accreditation organizations and the national association of insurance commissioners.
+
+    b. This section is not intended to supplant any existing authority of the office of the insurance commissioner under this title to oversee and enforce carrier compliance with applicable statutes and rules.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [48.43](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+The commissioner is authorized to enforce provisions of P.L. 116-260 (enacted December 27, 2020, as the consolidated appropriations act of 2021) and implementing federal regulations in effect on the effective date of this section, that are applicable to or regulate the conduct of carriers issuing health plans or grandfathered health plans to residents of Washington state on or after January 1, 2022. In addition to the enforcement actions authorized under RCW 48.02.080, the commissioner may impose a civil monetary penalty in an amount not to exceed $100 for each day for each individual with respect to which a failure to comply with these provisions occurs.
+
+
+## Section 6
+> This section modifies existing section [48.49.003](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. The legislature finds that:
+
+    a. Consumers receive surprise bills or balance bills for services provided at **nonparticipating** facilities or by **nonparticipating** health care providers at in-network facilities;
+
+    b. Consumers must not be placed in the middle of contractual disputes between providers and health insurance carriers; and
+
+    c. Facilities, providers, and health insurance carriers all share responsibility to ensure consumers have transparent information on network providers and benefit coverage, and the insurance commissioner is responsible for ensuring that provider networks include sufficient numbers and types of contracted providers to reasonably ensure consumers have in-network access for covered benefits.
+
+2. It is the intent of the legislature to:
+
+    a. Ban balance billing of consumers enrolled in fully insured, regulated insurance plans and plans offered to public employees under chapter 41.05 RCW for the services described in RCW 48.49.020, and to provide self-funded group health plans with an option to elect to be subject to the provisions of **this** chapter ;
+
+    b. Remove consumers from balance billing disputes and require that **nonparticipating** providers and carriers negotiate **nonparticipating provider** payments in good faith under the terms of **this** chapter ;
+
+    c. **Align Washington state law with the federal balance billing prohibitions and transparency protections in sections 2799A-1 et seq. of the public health services act (P.L. 116-260) and implementing federal regulations in effect on the effective date of this section, while maintaining provisions of this chapter that provide greater protection for consumers; and**
+
+    d. Provide an environment that encourages self-funded groups to negotiate  payments in good faith with **nonparticipating** providers and facilities in return for balance billing protections.
+
+
+## Section 7
+> This section modifies existing section [48.49.020](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. **A nonparticipating** provider or facility may not balance bill an enrollee for the following health care services **as provided in section 2799A-1(b) of the public health services act (42 U.S.C. Sec. 300gg-111(b)) and implementing federal regulations in effect on the effective date of this section**:
+
+    a. Emergency services provided to an enrollee;
+
+    b. Nonemergency health care services
+
+**performed by nonparticipating providers at certain participating facilities; or**
+
+    c. **Air ambulance services**.
+
+2. Payment for services described in subsection (1) of this section is subject to the provisions of
+
+**sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on the effective date of this section, except that:**
+
+    a. **Until January 1, 2023, or a later date determined by the commissioner, section 9 of this act and RCW 48.49.040 apply to the nonparticipating provider or facility payment standard and dispute resolution process for services described in subsection (1) of this section, other than air ambulance services;**
+
+    b. **A health care provider, health care facility, or air ambulance service provider may not request or require a patient at any time, for any procedure, service, or supply, to sign or otherwise execute by oral, written, or electronic means, any document that would attempt to avoid, waive, or alter any provision of RCW 48.49.020 and 48.49.030 or sections 2799A-1 et seq. of the public health services act (P.L. 116-260) and implementing federal regulations in effect on the effective date of this section;**
+
+    c. **If the enrollee pays a nonparticipating provider, nonparticipating facility, or nonparticipating air ambulance service provider an amount that exceeds the in-network cost-sharing amount determined under sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations as in effect on the effective date of this section, the provider or facility must refund any amount in excess of the in-network cost-sharing amount to the enrollee within 30 business days of receipt. Interest must be paid to the enrollee for any unrefunded payments at a rate of 12 percent beginning on the first calendar day after the 30 business days; and**
+
+    d. **Carriers must make available through electronic and other methods of communication generally used by a provider to verify enrollee eligibility and benefits information regarding whether an enrollee's health plan is subject to the requirements of this chapter or section 2799A-1 et seq. of the public health services act (42 U.S.C. Sec. 300gg-111 et seq.) and implementing federal regulations in effect on the effective date of this section.**
+
+3. **A behavioral health emergency services provider may not balance bill an enrollee for emergency services provided to an enrollee.**
+
+4. **Payment for emergency services provided by behavioral health emergency services providers under subsection (3) of this section is subject to RCW 48.49.030, section 9 of this act, and RCW 48.49.040**.
+
+5. This section applies to health care providers **,** facilities**, or behavioral health emergency services providers** providing services to members of entities administering a self-funded group health plan and its plan members only if the entity has elected to participate in this section and RCW 48.49.030**, section 9 of this act,** and **RCW** 48.49.040 as provided in RCW 48.49.130.
+
+
+## Section 8
+> This section modifies existing section [48.49.030](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. If an enrollee receives emergency  services **from a behavioral health emergency services provider** under the circumstances described in RCW 48.49.020(3):
+
+    a. The enrollee satisfies his or her obligation to pay for the health care services if he or she pays the in-network cost-sharing amount specified in the enrollee's or applicable group's health plan contract. The enrollee's obligation must be determined using the **methodology for calculating the qualifying payment amount as described in 45 C.F.R. Sec. 149.140 as in effect on the effective date of this section**. The carrier must provide an explanation of benefits to the enrollee and the **nonparticipating** provider that reflects the cost-sharing amount determined under this subsection.
+
+    b. The carrier, **nonparticipating behavioral health emergency services provider**, and an agent, trustee, or assignee of the carrier or **nonparticipating behavioral health emergency services provider** must ensure that the enrollee incurs no greater cost than the amount determined under (a) of this subsection.
+
+    c. The **nonparticipating behavioral health emergency services provider** and an agent, trustee, or assignee of the **nonparticipating behavioral health emergency services provider** may not balance bill or otherwise attempt to collect from the enrollee any amount greater than the amount determined under (a) of this subsection. This does not impact the **behavioral health emergency services** provider's ability to collect a past due balance for that cost-sharing amount with interest.
+
+    d. The carrier must treat any cost-sharing amounts determined under (a) of this subsection paid by the enrollee for **a nonparticipating behavioral health emergency services provider's** services in the same manner as cost-sharing for health care services provided by an in-network **behavioral health emergency services provider** and must apply any cost-sharing amounts paid by the enrollee for such services toward the enrollee's maximum out-of-pocket payment obligation.
+
+    e. If the enrollee pays the **nonparticipating behavioral health emergency services provider** an amount that exceeds the in-network cost-sharing amount determined under (a) of this subsection, the **behavioral health emergency services provider** must refund any amount in excess of the in-network cost-sharing amount to the enrollee within thirty business days of receipt. Interest must be paid to the enrollee for any unrefunded payments at a rate of twelve percent beginning on the first calendar day after the thirty business days.
+
+2.
+
+This section shall only apply to health care providers **,** facilities**, or behavioral health emergency services providers** providing services to members of entities administering a self-funded group health plan and its plan members if the entity has elected to participate in **this section and** RCW 48.49.020 **, section 9 of this act, and RCW** 48.49.040 as provided in RCW 48.49.130.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [48.49](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. [Empty]
+
+    a. Until January 1, 2023, or a later date determined by the commissioner under RCW 48.49.040, the allowed amount paid to a nonparticipating provider for health care services described under RCW 48.49.020(1) other than air ambulance services shall be a commercially reasonable amount, based on payments for the same or similar services provided in a similar geographic area. Within 30 calendar days of receipt of a claim from a nonparticipating provider or facility, the carrier shall offer to pay the provider or facility a commercially reasonable amount. If the nonparticipating provider or facility wants to dispute the carrier's payment, the provider or facility must notify the carrier no later than 30 calendar days after receipt of payment or payment notification from the carrier. If the nonparticipating provider or facility disputes the carrier's initial offer, the carrier and provider or facility have 30 calendar days from the initial offer to negotiate in good faith. If the carrier and the nonparticipating provider or facility do not agree to a commercially reasonable payment amount within 30 calendar days, and the carrier or nonparticipating provider or facility chooses to pursue further action to resolve the dispute, the dispute shall be resolved as provided in RCW 48.49.040.
+
+    b. The carrier must make payments for health care services described in RCW 48.49.020(1) provided by nonparticipating providers or facilities directly to the provider or facility, rather than the enrollee.
+
+2. [Empty]
+
+    a. The allowed amount paid to a nonparticipating behavioral health emergency services provider for behavioral health emergency services shall be a commercially reasonable amount, based on payments for the same or similar services provided in a similar geographic area. Within 30 calendar days of receipt of a claim from a nonparticipating behavioral health emergency services provider, the carrier shall offer to pay the behavioral health emergency services provider a commercially reasonable amount. If the nonparticipating behavioral health emergency services provider wants to dispute the carrier's payment, the behavioral health emergency services provider must notify the carrier no later than 30 calendar days after receipt of payment or payment notification from the carrier. If the nonparticipating behavioral health emergency services provider disputes the carrier's initial offer, the carrier and behavioral health emergency services provider have 30 calendar days from the initial offer to negotiate in good faith. If the carrier and the nonparticipating behavioral health emergency services provider do not agree to a commercially reasonable payment amount within 30 calendar days, and the carrier or nonparticipating behavioral health emergency services provider chooses to pursue further action to resolve the dispute, the dispute shall be resolved as provided in RCW 48.49.040.
+
+    b. The carrier must make payments for behavioral health emergency services provided by nonparticipating behavioral health emergency services providers directly to the provider, rather than the enrollee.
+
+3. This section shall only apply to health care providers, facilities, or behavioral health emergency services providers providing services to members of entities administering a self-funded group health plan and its plan members if the entity has elected to participate in RCW 48.49.020, 48.49.030, and 48.49.040, and this section as provided in RCW 48.49.130.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [48.49](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. Carriers must make available through electronic and other methods of communication generally used by a provider or facility to verify enrollee eligibility and benefits information regarding whether an enrollee's health plan is subject to the requirements of this chapter or section 2799A-1 et seq. of the public health services act (42 U.S.C. Sec. 300gg-111 et seq.) and implementing federal regulations in effect on the effective date of this section.
+
+2. A health care provider, health care facility, behavioral health emergency services provider, or air ambulance service provider may not request or require a patient at any time, for any procedure, service, or supply, to sign or otherwise execute by oral, written, or electronic means, any document that would attempt to avoid, waive, or alter any provision of RCW 48.49.020 and 48.49.030 or sections 2799A-1 et seq. of the public health services act (P.L. 116-260) and implementing federal regulations in effect on the effective date of this section.
+
+3. This section shall only apply to health care providers, facilities, or behavioral health emergency services providers providing services to members of entities administering a self-funded group health plan and its plan members if the entity has elected to participate in RCW 48.49.020, 48.49.030, section 9 of this act, and RCW 48.49.040 as provided in RCW 48.49.130.
+
+
+## Section 11
+> This section modifies existing section [48.49.040](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. **Effective January 1, 2023, or a later date determined by the commissioner, services described in RCW 48.49.020(1) other than air ambulance services are subject to the independent dispute resolution process established in sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on****January 1, 2023, or a later date determined by the commissioner. Until January 1, 2023, or a later date determined by the commissioner, the arbitration process in this section governs the dispute resolution process for those services.**
+
+2. **Effective January 1, 2023, or a later date determined by the commissioner, services described in RCW 48.49.020(3) are subject to the independent dispute resolution process established in section 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on January 1, 2023, or a later date determined by the commissioner. Until January 1, 2023, or a later date determined by the commissioner or if the federal independent dispute resolution process is not available to the state for resolution of these disputes, the arbitration process in this section governs the dispute resolution process for those services.**
+
+3. [Empty]
+
+    a. Notwithstanding RCW 48.43.055 and 48.18.200, if good faith negotiation, as described in RCW 48.49.030**,** does not result in resolution of the dispute, and the carrier or **nonparticipating provider, facility, or behavioral health emergency services provider** chooses to pursue further action to resolve the dispute, the carrier or **nonparticipating provider, facility, or behavioral health emergency services provider** shall initiate arbitration to determine a commercially reasonable payment amount. To initiate arbitration, the carrier or **nonparticipating provider, facility, or behavioral health emergency services provider** must provide written notification to the commissioner and the noninitiating party no later than ten calendar days following completion of the period of good faith negotiation under RCW 48.49.030. The notification to the noninitiating party must state the initiating party's final offer. No later than thirty calendar days following receipt of the notification, the noninitiating party must provide its final offer to the initiating party. The parties may reach an agreement on reimbursement during this time and before the arbitration proceeding.
+
+    b. **Notwithstanding (a) of this subsection (3), where a dispute resolution matter initiated under sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on the effective date of this section, results in a determination by a certified independent dispute resolution entity that such process does not apply to the dispute or to portions thereof, a carrier, provider, facility, or behavioral health emergency services provider may initiate arbitration described in this section for such dispute:**
+
+        i. **Without completing good faith negotiation under section 9 of this act if the open negotiation period required under sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on the effective date of this section, has been completed; and**
+
+        ii. **By providing written notification to the commissioner and the noninitiating party no later than 10 calendar days following the date notice is received by the parties from the certified independent dispute resolution entity that the federal independent dispute resolution process is not applicable to the dispute.**
+
+4. Multiple claims may be addressed in a single arbitration proceeding if the claims at issue:
+
+    a. Involve identical carrier and provider **, provider group, facility, or behavioral health emergency services provider** parties;
+
+    b. Involve claims with the same **procedural code, or a comparable code under a different procedural code system**; and
+
+    c. Occur within **the same 30 business day** period .
+
+5. Within seven calendar days of receipt of notification from the initiating party, the commissioner must provide the parties with a list of approved arbitrators or entities that provide arbitration. The arbitrators on the list must be trained by the American arbitration association or the American health lawyers association and **must** have experience in matters related to medical or health care services. The parties may agree on an arbitrator from the list provided by the commissioner. If the parties do not agree on an arbitrator, they must notify the commissioner who must provide them with the names of five arbitrators from the list. Each party may veto two of the five named arbitrators. If one arbitrator remains, that person is the chosen arbitrator. If more than one arbitrator remains, the commissioner must choose the arbitrator from the remaining arbitrators. The parties and the commissioner must complete this selection process within twenty calendar days of receipt of the original list from the commissioner.
+
+6. Each party must make written submissions to the arbitrator in support of its position no later than thirty calendar days after the final selection of the arbitrator. **Each** party must include in **their** written submission the evidence and methodology for asserting that the amount proposed to be paid is or is not commercially reasonable. A party that fails to make timely written submissions under this section without good cause shown shall be considered to be in default and the arbitrator shall require the party in default to pay the final offer amount submitted by the party not in default and may require the party in default to pay expenses incurred to date in the course of arbitration, including the arbitrator's expenses and fees and the reasonable attorneys' fees of the party not in default.
+
+7. **If the parties agree on an out-of-network rate for the services at issue after providing the arbitration initiation notice to the commissioner but before the arbitrator has made their decision, the amount agreed to by the parties for the service will be treated as the out-of-network rate for the service. The initiating party must send a notification to the commissioner and to the arbitrator, as soon as possible, but no later than three business days after the date of the agreement. The notification must include the out-of-network rate for the service and signatures from authorized signatories for both parties.**
+
+8. [Empty]
+
+    a. No later than thirty calendar days after the receipt of the parties' written submissions, the arbitrator must: Issue a written decision requiring payment of the final offer amount of either the initiating party or the noninitiating party; notify the parties of its decision; and provide the decision and the information described in RCW 48.49.050 regarding the decision to the commissioner. **The arbitrator's decision must include an explanation of the elements of the parties' submissions the arbitrator relied upon to make their decision and why those elements were relevant to their decision.**
+
+    b. In reviewing the submissions of the parties and making a decision related to whether payment should be made at the final offer amount of the initiating party or the noninitiating party, the arbitrator must consider the following factors:
+
+        i. The evidence and methodology submitted by the parties to assert that their final offer amount is reasonable; and
+
+        ii. Patient characteristics and the circumstances and complexity of the case, including time and place of service and whether the service was delivered at a level I or level II trauma center or a rural facility, that are not already reflected in the provider's billing code for the service.
+
+    c. The arbitrator may not require extrinsic evidence of authenticity for admitting data from the Washington state all-payer claims database data set developed under RCW 43.371.100 into evidence.
+
+    d. The arbitrator may also consider other information that a party believes is relevant to the factors included in (b) of this subsection or other factors the arbitrator requests and information provided by the parties that is relevant to such request, including the Washington state all-payer claims database data set developed under RCW 43.371.100.
+
+9. Expenses incurred in the course of arbitration, including the arbitrator's expenses and fees, but not including attorneys' fees, must be divided equally among the parties to the arbitration. **The commissioner may establish allowable arbitrator fee ranges or an arbitrator fee schedule by rule. Arbitrator fees must be paid to the arbitrator by a party within 30 calendar days following receipt of the arbitrator's decision by the party.** The enrollee is not liable for any of the costs of the arbitration and may not be required to participate in the arbitration proceeding as a witness or otherwise.
+
+10. Within **10** business days of a party notifying the commissioner and the noninitiating party of intent to initiate arbitration, both parties shall agree to and execute a nondisclosure agreement. The nondisclosure agreement must not preclude the arbitrator from submitting the arbitrator's decision to the commissioner under subsection (6) of this section or impede the commissioner's duty to prepare the annual report under RCW 48.49.050.
+
+11. **The decision of the arbitrator is final and binding on the parties to the arbitration and is not subject to judicial review.**
+
+12. Chapter 7.04A RCW applies to arbitrations conducted under this section, but in the event of a conflict between this section and chapter 7.04A RCW, this section governs.
+
+13. **Air ambulance services are subject to the independent dispute resolution process established in sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on the effective date of this section.**
+
+14. This section applies to health care providers **,** facilities**, or behavioral health emergency services providers** providing services to members of entities administering a self-funded group health plan and its plan members only if the entity has elected to participate in RCW 48.49.020 and 48.49.030**, section 9 of this act,** and this section as provided in RCW 48.49.130.
+
+15. An entity administering a self-funded group health plan that has elected to participate in this section pursuant to RCW 48.49.130 shall comply with the provisions of this section.
+
+
+## Section 12
+> This section modifies existing section [48.49.050](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. The commissioner must prepare an annual report summarizing the dispute resolution information provided by arbitrators under RCW 48.49.040. The report must include summary information related to the matters decided through arbitration, as well as the following information for each dispute resolved through arbitration: The name of the carrier; the name of the health care provider; the health care provider's employer or the business entity in which the provider has an ownership interest; the health care facility where the services were provided; and the type of health care services at issue.
+
+2. The commissioner must post the report on the office of the insurance commissioner's website and submit the report in compliance with RCW 43.01.036 to the appropriate committees of the legislature, annually by July 1st.
+
+3. This section expires January 1, **2023**.
+
+
+## Section 13
+> This section modifies existing section [48.49.060](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. The commissioner, in consultation with health carriers, health care providers, health care facilities, and consumers, must develop standard template language for a notice of consumer rights notifying consumers
+
+**of their rights under this chapter, and sections 2799A-1 and 2799A-2 of the public health services act (42 U.S.C. Secs. 300gg-111 and 300gg-112) and implementing federal regulations in effect on the effective date of this section**.
+
+2. The standard template language must include contact information for the office of the insurance commissioner so that consumers may contact the office of the insurance commissioner if they believe they have received a balance bill in violation of this chapter.
+
+3. The office of the insurance commissioner shall determine by rule when and in what format health carriers, health care providers, and health care facilities must provide consumers with the notice developed under this section.
+
+
+## Section 14
+> This section modifies existing section [48.49.070](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. [Empty]
+
+    a. A hospital **,** ambulatory surgical facility**, or behavioral health emergency services provider** must post the following information on its website, if one is available:
+
+        i. The listing of the carrier health plan provider networks with which the hospital **,** ambulatory surgical facility**, or behavioral health emergency services provider** is an in-network provider, based upon the information provided by the carrier pursuant to RCW 48.43.730(7); and
+
+        ii. The notice of consumer rights developed under RCW 48.49.060.
+
+    b. If the hospital **,** ambulatory surgical facility**, or behavioral health emergency services provider** does not maintain a website, this information must be provided to consumers upon an oral or written request.
+
+2. Posting or otherwise providing the information required in this section does not relieve a hospital **,** ambulatory surgical facility**, or behavioral health emergency services provider** of its obligation to comply with the provisions of this chapter.
+
+3. Not less than thirty days prior to executing a contract with a carrier, a hospital or ambulatory surgical facility must provide the carrier with a list of the nonemployed providers or provider groups contracted to provide **emergency medicine, anesthesiology, pathology, radiology, neonatology, surgery, hospitalist, intensivist and diagnostic services, including radiology and laboratory** services at the hospital or ambulatory surgical facility. The hospital or ambulatory surgical facility must notify the carrier within thirty days of a removal from or addition to the nonemployed provider list. A hospital or ambulatory surgical facility also must provide an updated list of these providers within fourteen calendar days of a request for an updated list by a carrier.
+
+
+## Section 15
+> This section modifies existing section [48.49.090](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. A carrier must update its website and provider directory no later than thirty days after the addition or termination of a facility or provider.
+
+2. A carrier must provide an enrollee with:
+
+    a. A clear description of the health plan's out-of-network health benefits;
+
+    b. The notice of consumer rights developed under RCW 48.49.060;
+
+    c. Notification that if the enrollee receives services from an out-of-network provider **,** facility**, or behavioral health emergency services provider**, under circumstances other than those described in RCW 48.49.020, the enrollee will have the financial responsibility applicable to services provided outside the health plan's network in excess of applicable cost-sharing amounts and that the enrollee may be responsible for any costs in excess of those allowed by the health plan;
+
+    d. Information on how to use the carrier's member transparency tools under RCW 48.43.007;
+
+    e. Upon request, information regarding whether a health care provider is in-network or out-of-network, and whether there are in-network providers available to provide **emergency medicine, anesthesiology, pathology, radiology, neonatology, surgery, hospitalist, intensivist and diagnostic services, including radiology and laboratory** services at specified in-network hospitals or ambulatory surgical facilities; and
+
+    f. Upon request, an estimated range of the out-of-pocket costs for an out-of-network benefit.
+
+
+## Section 16
+> This section modifies existing section [48.49.100](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. If the commissioner has cause to believe that any health care provider, hospital,  ambulatory surgical facility**, or behavioral health emergency services provider**, has engaged in a pattern of unresolved violations of RCW 48.49.020 or 48.49.030, the commissioner may submit information to the department of health or the appropriate disciplining authority for action. Prior to submitting information to the department of health or the appropriate disciplining authority, the commissioner may provide the health care provider, hospital,  ambulatory surgical facility, **or behavioral health emergency services provider,** with an opportunity to cure the alleged violations or explain why the actions in question did not violate RCW 48.49.020 or 48.49.030.
+
+2. If any health care provider, hospital,  ambulatory surgical facility**, or behavioral health emergency services provider**, has engaged in a pattern of unresolved violations of RCW 48.49.020 or 48.49.030, the department of health or the appropriate disciplining authority may levy a fine or cost recovery upon the health care provider, hospital,  ambulatory surgical facility**, or behavioral health emergency services provider** in an amount not to exceed the applicable statutory amount per violation and take other action as permitted under the authority of the department or disciplining authority. Upon completion of its review of any potential violation submitted by the commissioner or initiated directly by an enrollee, the department of health or the disciplining authority shall notify the commissioner of the results of the review, including whether the violation was substantiated and any enforcement action taken as a result of a finding of a substantiated violation.
+
+3. If a carrier has engaged in a pattern of unresolved violations of any provision of this chapter, the commissioner may levy a fine or apply remedies authorized under **this chapter,** chapter 48.02 RCW, RCW 48.44.166, 48.46.135, or 48.05.185.
+
+4. For purposes of this section, "disciplining authority" means the agency, board, or commission having the authority to take disciplinary action against a holder of, or applicant for, a professional or business license upon a finding of a violation of chapter 18.130 RCW or a chapter specified under RCW 18.130.040.
+
+
+## Section 17
+> This section modifies existing section [48.49.130](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+**As authorized in 45 C.F.R. Sec. 149.30 as in effect on the effective date of this section, the** provisions of this chapter apply to a self-funded group health plan governed by the provisions of the federal employee retirement income security act of 1974 (29 U.S.C. Sec. 1001 et seq.) only if the self-funded group health plan elects to participate in the provisions of RCW 48.49.020 **and 48.49.030, section 9 of this act, and RCW** 48.49.040. To elect to participate in these provisions, the self-funded group health plan shall provide notice, on an annual basis, to the commissioner in a manner prescribed by the commissioner, attesting to the plan's participation and agreeing to be bound by RCW 48.49.020 **and 48.49.030, section 9 of this act, and RCW** 48.49.040. An entity administering a self-funded health benefits plan that elects to participate under this section, shall comply with the provisions of RCW 48.49.020 **and 48.49.030, section 9 of this act, and RCW** 48.49.040.
+
+
+## Section 18
+> This section modifies existing section [48.49.150](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. When determining the adequacy of a proposed provider network or the ongoing adequacy of an in-force provider network, the commissioner must consider whether the carrier's proposed provider network or in-force provider network includes a sufficient number of contracted providers of **emergency medicine, anesthesiology, pathology, radiology, neonatology, surgery, hospitalist, intensivist and diagnostic services, including radiology and laboratory** services at or for the carrier's contracted in-network hospitals or ambulatory surgical facilities to reasonably ensure enrollees have in-network access to covered benefits delivered at that facility.
+
+2. **When determining the adequacy of a proposed provider network or the ongoing adequacy of an in-force provider network, the carrier may not treat its payment of nonparticipating providers or facilities under this chapter or P.L. 116-260 (enacted December 27, 2020) as a means to satisfy network access standards established by the commissioner.**
+
+
+## Section 19
+> This section adds a new section to an existing chapter [48.49](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+The commissioner is authorized to enforce provisions of P.L. 116-260 (enacted December 27, 2020, as the consolidated appropriations act of 2021) that are applicable to or regulate the conduct of carriers issuing health plans or grandfathered health plans to residents of Washington state on or after January 1, 2022. In addition to the enforcement actions authorized under RCW 48.02.080, the commissioner may impose a civil monetary penalty in an amount not to exceed $100 for each day for each individual with respect to which a failure to comply with these provisions occurs.
+
+
+## Section 20
+> This section modifies existing section [48.49.110](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. The commissioner may adopt rules to implement and administer this chapter, including rules governing the dispute resolution process established in RCW 48.49.040.
+
+2. **The commissioner may adopt rules to adopt or incorporate by reference without material change federal regulations adopted on or after the effective date of this section that implement P.L. 116-260 (enacted December 27, 2020).**
+
+
+## Section 21
+> This section adds a new section to an existing chapter [48.49](/rcw/48_insurance/48.049_balance_billing_protection_act.md). Here is the [modified chapter](rcw/48_insurance/48.049_balance_billing_protection_act.md) for context.
+
+1. On or before October 1, 2023, the commissioner, in collaboration with the health care authority and the department of health, must submit recommendations to the appropriate policy and fiscal committees of the legislature as to how balance billing for ground ambulance services can be prevented and whether ground ambulance services should be subject to the balance billing restrictions of this chapter. In developing the recommendations, the commissioner must:
+
+    a. Consider any recommendations made to congress by the advisory committee established in section 117 of P.L. 116-260 to review options to improve the disclosure of charges and fees for ground ambulance services, better inform consumers of insurance options for such services, and protect consumers from balance billing; and
+
+    b. Consult with the department of health, the health care authority, the state auditor, consumers, hospitals, carriers, private ground ambulance service providers, fire districts, and local governmental entities that operate ground ambulance services.
+
+2. For purposes of this section, "ground ambulance services" means organizations licensed by the department of health that operate one or more ground vehicles designed and used to transport the ill and injured and to provide personnel, facilities, and equipment to treat patients before and during transportation.
+
+
+## Section 22
+> This section adds a new section to an existing chapter [71.24](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
+
+If the insurance commissioner reports to the department that he or she has cause to believe that a provider licensed under this chapter has engaged in a pattern of violations of RCW 48.49.020 or 48.49.030, and the report is substantiated after investigation, the department may levy a fine upon the provider in an amount not to exceed $1,000 per violation and take other formal or informal disciplinary action as permitted under the authority of the department.
+

@@ -529,6 +529,81 @@
 * [HB 1640](hb/1640/) - Creating the joint legislative tribal-state relations committee as an agency within the legislative branch.
 * [HB 1641](hb/1641/) - Custom farming, etc./tax
 * [HB 1642](hb/1642/) - National guard ed. grants
+* [HB 1643](hb/1643/) - Affordable housing/REET
+* [HB 1644](hb/1644/) - Pupil transp./electric
+* [HB 1645](hb/1645/) - Assisted living payments
+* [HB 1646](hb/1646/) - Dementia action collab.
+* [HB 1647](hb/1647/) - Building for the arts
+* [HB 1648](hb/1648/) - Accountancy/inactive license
+* [HB 1649](hb/1649/) - WDFW disabilities adv. comm.
+* [HB 1650](hb/1650/) - Commercial solicitation
+* [HB 1651](hb/1651/) - Postpartum contraception
+* [HB 1652](hb/1652/) - Conserv. district elections
+* [HB 1653](hb/1653/) - Anadromous fish recovery
+* [HB 1654](hb/1654/) - Health prof. monitoring
+* [HB 1655](hb/1655/) - Safety rest areas
+* [HB 1656](hb/1656/) - Definition of theft
+* [HB 1657](hb/1657/) - Commercial truck parking
+* [HB 1658](hb/1658/) - DCYF/equality principles
+* [HB 1659](hb/1659/) - Higher education grants
+* [HB 1660](hb/1660/) - Accessory dwelling units
+* [HB 1661](hb/1661/) - Kelp & eelgrass conservation
+* [HB 1662](hb/1662/) - Intramuscular needling
+* [HB 1663](hb/1663/) - Landfill methane emissions
+* [HB 1664](hb/1664/) - Schools/support funding
+* [HB 1665](hb/1665/) - DCYF oversight board members
+* [HB 1666](hb/1666/) - Public infra./tax valuation
+* [HB 1667](hb/1667/) - Cannabis business ownership
+* [HB 1668](hb/1668/) - Marijuana products
+* [HB 1669](hb/1669/) - PSERS disability benefits
+* [HB 1670](hb/1670/) - JARRC chair & vice chair
+* [HB 1671](hb/1671/) - Rx drug affordability board
+* [HB 1672](hb/1672/) - Conservation futures/taxes
+* [HB 1673](hb/1673/) - Public works board/broadband
+* [HB 1674](hb/1674/) - Sports wagering
+* [HB 1675](hb/1675/) - Dialysate & dialysis devices
+* [HB 1676](hb/1676/) - Tobacco & vapor products/tax
+* [HB 1677](hb/1677/) - Military/employer tax incen.
+* [HB 1678](hb/1678/) - Domestic violence registry
+* [HB 1679](hb/1679/) - Abortions by medication
+* [HB 1680](hb/1680/) - Previous COVID-19 infection
+* [HB 1681](hb/1681/) - Conviction record vacation
+* [HB 1682](hb/1682/) - Business emissions reduction
+* [HB 1683](hb/1683/) - Current use classification
+* [HB 1684](hb/1684/) - Drinking water fluoridation
+* [HB 1685](hb/1685/) - Cottage food sales cap
+* [HB 1686](hb/1686/) - Biodegradable product labels
+* [HB 1687](hb/1687/) - College bound scholar./GPA
+* [HB 1688](hb/1688/) - Out-of-network health care
+* [HB 1689](hb/1689/) - Biomarker testing prior auth
+* [HB 1690](hb/1690/) - Law enf. officers/deception
+* [HB 1691](hb/1691/) - Oil spills/financial resp.
+* [HB 1692](hb/1692/) - Drive-by shooting
+* [HB 1693](hb/1693/) - Home school day
+* [HB 1694](hb/1694/) - Chemicals/consumer products
+* [HB 1695](hb/1695/) - Legislature op. procedures
+* [HB 1696](hb/1696/) - Legislative facility access
+* [HB 1697](hb/1697/) - Online services/minors
+* [HB 1698](hb/1698/) - Latex gloves/food handling
+* [HB 1699](hb/1699/) - Permitting individuals retired from the public employees retirement system, the teachers retirement system, and the school employees retirement system additional opportunities to work for a school district for up to 1,040 hours per school year while in receipt of pension benefits until July 1, 2025.
+* [HB 1700](hb/1700/) - Derelict vessel removal
+* [HB 1701](hb/1701/) - Concerning law enforcement officers' and firefighters' retirement system benefits.
+* [HB 1702](hb/1702/) - Accelerating broadband connectivity for Washington.
+* [HB 1703](hb/1703/) - Modernizing the statewide 911 emergency communications system.
+* [HB 1704](hb/1704/) - Regulating service contracts and protection product guarantees.
+* [HB 1705](hb/1705/) - Concerning ghost guns.
+* [HB 1706](hb/1706/) - Concerning truck drivers ability to access restroom facilities.
+* [HB 1707](hb/1707/) - Requiring the wearing of personal flotation devices on kayaks, canoes, and stand-up paddleboards.
+* [HB 1708](hb/1708/) - Concerning facility fees for audio-only telemedicine.
+* [HB 1709](hb/1709/) - Addressing safety measures for tow truck operators and vehicles.
+* [HB 1710](hb/1710/) - Establishing a Washington state cannabis commission.
+* [HB 1711](hb/1711/) - Concerning accessory dwelling units.
+* [HB 1712](hb/1712/) - Concerning municipal airport commissions.
+* [HB 1713](hb/1713/) - Requiring cost sharing for prescription drugs to be counted against an enrollee's obligation, regardless of source.
+* [HB 1714](hb/1714/) - Concerning impact fee deferrals.
+* [HB 1715](hb/1715/) - Concerning the membership of the sentencing guidelines commission.
+* [HB 1716](hb/1716/) - Concerning locations at which ballots may be cast.
+* [HJM 4002](hjm/4002/) - Jones Act
 
 ### H Filed Sec/St
 * [HCR 4400](hcr/4400/) - Legislature joint rules
@@ -979,6 +1054,70 @@
 * [SB 5539](sb/5539/) - Concerning state funding for educational service districts.
 * [SB 5540](sb/5540/) - Election dates and timelines
 * [SB 5541](sb/5541/) - Newspapers/B&O tax
+* [SB 5542](sb/5542/) - Optometry
+* [SB 5543](sb/5543/) - Landscaping equipment
+* [SB 5544](sb/5544/) - Blockchain work group
+* [SB 5545](sb/5545/) - Survivor benefits           
+* [SB 5546](sb/5546/) - Insulin affordability
+* [SB 5547](sb/5547/) - Marijuana products
+* [SB 5548](sb/5548/) - Child custody transfers
+* [SB 5549](sb/5549/) - Bingo gambling activities
+* [SB 5550](sb/5550/) - Public records act/judiciary
+* [SB 5551](sb/5551/) - HIV antiviral drugs/medicaid
+* [SB 5552](sb/5552/) - WDFW licensing
+* [SB 5553](sb/5553/) - Early STEM metrics
+* [SB 5554](sb/5554/) - Local net income taxes
+* [SB 5555](sb/5555/) - Safety telecommunicators
+* [SB 5556](sb/5556/) - Eviction moratorium/lodging
+* [SB 5557](sb/5557/) - New businesses/B&O tax
+* [SB 5558](sb/5558/) - Interstate toll bridges
+* [SB 5559](sb/5559/) - Paid sick leave verification
+* [SB 5560](sb/5560/) - Redistricting plans
+* [SB 5561](sb/5561/) - Firearm rights restoration
+* [SB 5562](sb/5562/) - ESD employee health care
+* [SB 5563](sb/5563/) - Enrollment stabilization
+* [SB 5564](sb/5564/) - Employee assistance programs
+* [SB 5565](sb/5565/) - Fire district treasurers
+* [SB 5566](sb/5566/) - Independent youth housing
+* [SB 5567](sb/5567/) - Commercial salmon fishing
+* [SB 5568](sb/5568/) - Open weapon carry/local laws
+* [SB 5569](sb/5569/) - Public safety
+* [SB 5570](sb/5570/) - Capitol grounds/major works
+* [SB 5571](sb/5571/) - 911 emergency communications
+* [SB 5572](sb/5572/) - Internet crimes/children
+* [SB 5573](sb/5573/) - Drug offender sentencing alt
+* [SB 5574](sb/5574/) - New counties
+* [SB 5575](sb/5575/) - Snohomish county/judges
+* [SB 5576](sb/5576/) - Eviction
+* [SB 5577](sb/5577/) - Public safety
+* [SB 5578](sb/5578/) - Public infra./tax valuation
+* [SB 5579](sb/5579/) - WMS bargaining
+* [SB 5580](sb/5580/) - Public works board/broadband
+* [SB 5581](sb/5581/) - Pupil transp. allocations
+* [SB 5582](sb/5582/) - Port commission districts
+* [SB 5583](sb/5583/) - Census data/incarceration
+* [SB 5584](sb/5584/) - Local elections
+* [SB 5585](sb/5585/) - Domestic wastewater fees
+* [SB 5586](sb/5586/) - Broadband loans & grants
+* [SB 5587](sb/5587/) - Drinking water fluoridation
+* [SB 5588](sb/5588/) - Reentry & discharge planning
+* [SB 5589](sb/5589/) - Primary care spending
+* [SB 5590](sb/5590/) - Marine resources ad. council
+* [SB 5591](sb/5591/) - Emergency housing & shelters
+* [SB 5592](sb/5592/) - Eliminating the cost of supervision assessments charged to offenders.
+* [SB 5593](sb/5593/) - Concerning urban growth area boundaries.
+* [SB 5594](sb/5594/) - Concerning public school instruction in awareness of bone marrow donation.
+* [SB 5595](sb/5595/) - Concerning prototypical school formulas for physical, social, and emotional support in schools.
+* [SB 5596](sb/5596/) - Conforming disclosure restrictions for mental health counselors, marriage and family therapists, and social workers to the requirements of the Uniform Health Care Information Act.
+* [SB 5597](sb/5597/) - Concerning the Washington voting rights act.
+* [SB 5598](sb/5598/) - Concerning sustainable funding for the derelict vessel removal account using the vessel watercraft excise tax.
+* [SB 5599](sb/5599/) - Concerning journey level electrician certifications of competency.
+* [SB 5600](sb/5600/) - Concerning the sustainability and expansion of state registered apprenticeship programs.
+* [SB 5601](sb/5601/) - Empowering school district boards of directors.
+* [SB 5602](sb/5602/) - Concerning service providers working with state-regulated financial institutions.
+* [SB 5603](sb/5603/) - Proposing a comprehensive study of the state route number 2 corridor to improve safety and mobility, including outreach to adjacent communities.
+* [SB 5604](sb/5604/) - Adding references to contractor licensing laws in workers' compensation, public works, and prevailing wage statutes.
+* [SB 5605](sb/5605/) - Concerning licensure of anesthesiologist assistants.
 
 ### S Filed Sec/St
 * [SCR 8401](scr/8401/) - Cutoff dates

@@ -1,0 +1,160 @@
+# House Bill 1657
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1657.xml)
+## Section 1
+The legislature finds that the demand for truck parking in Washington far exceeds supply. In a 2016 Washington state department of transportation survey, over 60 percent of truckers reported spending an hour or more per day looking for parking. The shortage of truck parking stifles economic growth, increases pollution, and makes our roadways less safe as fatigued drivers cannot find a safe place to park.
+
+In 2021, a jointly held workshop of the federal highway administration and Washington state department of transportation identified that Washington ranks low in truck parking availability, especially for private truck parking capacity. It found that truck parking capacity is generally most constrained where demand is highest in urban areas, mountain passes, border crossings, and near ports and industrial areas. The biggest hurdles for expanding capacity were high real estate costs and community opposition. The workshop resulted in several recommendations, including investigating whether state policies could be amended to encourage new truck parking developments, and specifically assessing incentives to develop more private spaces. Due to the presently existing significant safety, environmental, and economic consequences that result from the capacity shortfall, the legislature intends to address the expense of adding capacity through reducing taxes associated with expanding existing parking and developing new parking.
+
+
+## Section 2
+1. This section is the tax preference performance statement for the tax preference contained in sections 3 through 6, chapter . . ., Laws of 2022 (sections 3 through 6 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes this tax preference as one intended to provide incentives to increase safe overnight truck parking capacity pursuant to RCW 82.32.808(2)(f).
+
+3. It is the legislature's specific public policy objective to increase public safety, reduce greenhouse gas emissions, and foster economic development by increasing the state's capacity to move freight efficiently.
+
+4. If the review finds that if both (a) the number of truck parking spaces suitable for overnight use has grown by at least 1,000 spaces from the effective date of this section, and (b) half of the truck parking spaces developed after the effective date of this section have either hydrogen fueling access or electric charging access, then the legislature intends to extend the expiration date of this tax preference.
+
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state. The Washington state department of transportation shall cooperate with requests for information from the joint legislative audit and review committee to document the location, number, and characteristics of truck parking spaces.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [84.36](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
+
+1. All real and personal property is exempt from ad valorem taxation upon which there are at least 10 safe, overnight commercial truck parking spaces constructed for the period of time set forth in subsection (2) of this section.
+
+2. A parcel must be exempt from ad valorem tax from the date upon which substantial construction work begins until one year after the secretary of the department of transportation shall certify to the department of revenue that the state has sufficient safe, overnight commercial truck parking for the freight delivery needs of the state or January 1, 2033, whichever is sooner.
+
+3. For the purposes of this section, "commercial truck parking spaces" must have a minimum dimension of 11 feet wide and 54 feet long.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [82.08](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
+
+1. The tax levied by RCW 82.08.020 does not apply to sales of materials and labor used to construct a parking lot with at least 10 qualified commercial truck parking spaces or 10 qualified port district truck parking spaces. Construction of the parking lot must begin after the effective date of this section.
+
+2. For the purposes of this section, the following definitions apply:
+
+    a. "Qualified commercial truck parking spaces" means spaces that:
+
+        i. Have a minimum dimension of 11 feet wide and 54 feet long;
+
+        ii. Are accessible and suitable for overnight use; and
+
+        iii. Allow for the fueling of electric batteries or hydrogen fuel cells.
+
+    b. "Qualified port district truck parking spaces" means spaces that:
+
+        i. Have a minimum dimension of 11 feet wide and 54 feet long;
+
+        ii. Are accessible and suitable for overnight use; and
+
+        iii. Are accessible and available for any commercial truck authorized to be on the port property.
+
+3. The exemption in subsection (1) of this section is available from the effective date of this section until one year after the secretary of the department of transportation shall certify to the department of revenue that the state has sufficient safe, overnight commercial truck parking for the freight delivery needs of the state or January 1, 2033, whichever is sooner.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [82.12](/rcw/82_excise_taxes/82.12_use_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.12_use_tax.md) for context.
+
+1. The provisions of this chapter do not apply to sales of materials and labor used to construct a parking lot with at least 10 qualified commercial truck parking spaces or 10 qualified port district truck parking spaces. Construction of the parking lot must begin after the effective date of this section.
+
+2. For the purposes of this section, the following definitions apply:
+
+    a. "Qualified commercial truck parking spaces" means spaces that:
+
+        i. Have a minimum dimension of 11 feet wide and 54 feet long;
+
+        ii. Are accessible and suitable for overnight use; and
+
+        iii. Allow for the fueling of electric batteries or hydrogen fuel cells.
+
+    b. "Qualified port district truck parking spaces" means spaces that:
+
+        i. Have a minimum dimension of 11 feet wide and 54 feet long;
+
+        ii. Are accessible and suitable for overnight use; and
+
+        iii. Are accessible and available for any commercial truck authorized to be on the port property.
+
+3. The exemption in subsection (1) of this section is available from the effective date of this section until one year after the secretary of the department of transportation shall certify to the department of revenue that the state has sufficient safe, overnight commercial truck parking for the freight delivery needs of the state or January 1, 2033, whichever is sooner.
+
+
+## Section 6
+> This section modifies existing section [82.29A.130](/rcw/82_excise_taxes/82.29A_leasehold_excise_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.29A_leasehold_excise_tax.md) for context.
+
+The following leasehold interests are exempt from taxes imposed pursuant to RCW 82.29A.030 and 82.29A.040:
+
+1. All leasehold interests constituting a part of the operating properties of any public utility that is assessed and taxed as a public utility pursuant to chapter 84.12 RCW.
+
+2. All leasehold interests in facilities owned or used by a school, college or university which leasehold provides housing for students and which is otherwise exempt from taxation under provisions of RCW 84.36.010 and 84.36.050.
+
+3. All leasehold interests of subsidized housing where the fee ownership of such property is vested in the government of the United States, or the state of Washington or any political subdivision thereof but only if income qualification exists for such housing.
+
+4. All leasehold interests used for fair purposes of a nonprofit fair association that sponsors or conducts a fair or fairs which receive support from revenues collected pursuant to RCW 67.16.100 and allocated by the director of the department of agriculture where the fee ownership of such property is vested in the government of the United States, the state of Washington or any of its political subdivisions. However, this exemption does not apply to the leasehold interest of any sublessee of such nonprofit fair association if such leasehold interest would be taxable if it were the primary lease.
+
+5. All leasehold interests in any property of any public entity used as a residence by an employee of that public entity who is required as a condition of employment to live in the publicly owned property.
+
+6. All leasehold interests held by enrolled Indians of lands owned or held by any Indian or Indian tribe where the fee ownership of such property is vested in or held in trust by the United States and which are not subleased to other than to a lessee which would qualify pursuant to this chapter, RCW 84.36.451 and 84.40.175.
+
+7. All leasehold interests in any real property of any Indian or Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States. However, this exemption applies only where it is determined that contract rent paid is greater than or equal to ninety percent of fair market rental, to be determined by the department of revenue using the same criteria used to establish taxable rent in RCW 82.29A.020(2)(g).
+
+8. All leasehold interests for which annual taxable rent is less than two hundred fifty dollars per year. For purposes of this subsection leasehold interests held by the same lessee in contiguous properties owned by the same lessor are deemed a single leasehold interest.
+
+9. All leasehold interests which give use or possession of the leased property for a continuous period of less than thirty days: PROVIDED, That for purposes of this subsection, successive leases or lease renewals giving substantially continuous use of possession of the same property to the same lessee are deemed a single leasehold interest: PROVIDED FURTHER, That no leasehold interest is deemed to give use or possession for a period of less than thirty days solely by virtue of the reservation by the public lessor of the right to use the property or to allow third parties to use the property on an occasional, temporary basis.
+
+10. All leasehold interests under month-to-month leases in residential units rented for residential purposes of the lessee pending destruction or removal for the purpose of constructing a public highway or building.
+
+11. All leasehold interests in any publicly owned real or personal property to the extent such leasehold interests arises solely by virtue of a contract for public improvements or work executed under the public works statutes of this state or of the United States between the public owner of the property and a contractor.
+
+12. All leasehold interests that give use or possession of state adult correctional facilities for the purposes of operating correctional industries under RCW 72.09.100.
+
+13. All leasehold interests used to provide organized and supervised recreational activities for persons with disabilities of all ages in a camp facility and for public recreational purposes by a nonprofit organization, association, or corporation that would be exempt from property tax under RCW 84.36.030(1) if it owned the property. If the publicly owned property is used for any taxable purpose, the leasehold excise taxes set forth in RCW 82.29A.030 and 82.29A.040 must be imposed and must be apportioned accordingly.
+
+14. All leasehold interests in the public or entertainment areas of a baseball stadium with natural turf and a retractable roof or canopy that is in a county with a population of over one million, that has a seating capacity of over forty thousand, and that is constructed on or after January 1, 1995. "Public or entertainment areas" include ticket sales areas, ramps and stairs, lobbies and concourses, parking areas, concession areas, restaurants, hospitality and stadium club areas, kitchens or other work areas primarily servicing other public or entertainment areas, public rest room areas, press and media areas, control booths, broadcast and production areas, retail sales areas, museum and exhibit areas, scoreboards or other public displays, storage areas, loading, staging, and servicing areas, seating areas and suites, the playing field, and any other areas to which the public has access or which are used for the production of the entertainment event or other public usage, and any other personal property used for these purposes. "Public or entertainment areas" does not include locker rooms or private offices exclusively used by the lessee.
+
+15. All leasehold interests in the public or entertainment areas of a stadium and exhibition center, as defined in RCW 36.102.010, that is constructed on or after January 1, 1998. For the purposes of this subsection, "public or entertainment areas" has the same meaning as in subsection (14) of this section, and includes exhibition areas.
+
+16. All leasehold interests in public facilities districts, as provided in chapter 36.100 or 35.57 RCW.
+
+17. All leasehold interests in property that is: (a) Owned by the United States government or a municipal corporation; (b) listed on any federal or state register of historical sites; and (c) wholly contained within a designated national historic reserve under 16 U.S.C. Sec. 461.
+
+18. All leasehold interests in the public or entertainment areas of an amphitheater if a private entity is responsible for one hundred percent of the cost of constructing the amphitheater which is not reimbursed by the public owner, both the public owner and the private lessee sponsor events at the facility on a regular basis, the lessee is responsible under the lease or agreement to operate and maintain the facility, and the amphitheater has a seating capacity of over seventeen thousand reserved and general admission seats and is in a county that had a population of over three hundred fifty thousand, but less than four hundred twenty-five thousand when the amphitheater first opened to the public.
+
+For the purposes of this subsection, "public or entertainment areas" include box offices or other ticket sales areas, entrance gates, ramps and stairs, lobbies and concourses, parking areas, concession areas, restaurants, hospitality areas, kitchens or other work areas primarily servicing other public or entertainment areas, public rest room areas, press and media areas, control booths, broadcast and production areas, retail sales areas, museum and exhibit areas, scoreboards or other public displays, storage areas, loading, staging, and servicing areas, seating areas including lawn seating areas and suites, stages, and any other areas to which the public has access or which are used for the production of the entertainment event or other public usage, and any other personal property used for these purposes. "Public or entertainment areas" does not include office areas used predominately by the lessee.
+
+19. All leasehold interests in real property used for the placement of military housing meeting the requirements of RCW 84.36.665.
+
+20. All leasehold interests in facilities owned or used by a community college or technical college, which leasehold interest provides:
+
+    a. Food services for students, faculty, and staff;
+
+    b. The operation of a bookstore on campus; or
+
+    c. Maintenance, operational, or administrative services to the community college or technical college.
+
+21. [Empty]
+
+    a. All leasehold interests in the public or entertainment areas of an arena if it:
+
+        i. Has a seating capacity of more than two thousand;
+
+        ii. Is located on city-owned land; and
+
+        iii. Is owned by a city with a population over two hundred thousand within a county with a population of less than one million five hundred thousand.
+
+    b. For the purposes of this subsection (21), "public or entertainment areas" has the same meaning as provided in subsection (18) of this section.
+
+22. **All leasehold interests in real property owned by a port and used by a port tenant to provide qualified port district truck parking spaces. For purposes of this subsection, "qualified port district truck parking spaces" means spaces that:**
+
+    a. **Have a minimum dimension of 11 feet wide and 54 feet long;**
+
+    b. **Are accessible and suitable for overnight use; and**
+
+    c. **Are accessible and available for any commercial truck authorized to be on the port property.**
+
+
+## Section 7
+Section 3 of this act applies to taxes levied for collection in 2023 and thereafter.
+
