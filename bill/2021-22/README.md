@@ -603,6 +603,13 @@
 * [HB 1714](hb/1714/) - Concerning impact fee deferrals.
 * [HB 1715](hb/1715/) - Concerning the membership of the sentencing guidelines commission.
 * [HB 1716](hb/1716/) - Concerning locations at which ballots may be cast.
+* [HB 1717](hb/1717/) - GMA planning/tribes
+* [HB 1718](hb/1718/) - Fur products
+* [HB 1719](hb/1719/) - Military equipment/law enf.
+* [HB 1720](hb/1720/) - COVID-19 vaccine, declining
+* [HB 1721](hb/1721/) - PERS/TRS 1 benefit increase
+* [HB 1722](hb/1722/) - Broadband deployment
+* [HB 1723](hb/1723/) - Telecommunications access
 * [HJM 4002](hjm/4002/) - Jones Act
 
 ### H Filed Sec/St
@@ -1118,6 +1125,24 @@
 * [SB 5603](sb/5603/) - Proposing a comprehensive study of the state route number 2 corridor to improve safety and mobility, including outreach to adjacent communities.
 * [SB 5604](sb/5604/) - Adding references to contractor licensing laws in workers' compensation, public works, and prevailing wage statutes.
 * [SB 5605](sb/5605/) - Concerning licensure of anesthesiologist assistants.
+* [SB 5606](sb/5606/) - A/C in adult family homes
+* [SB 5607](sb/5607/) - Homeless census/facilities
+* [SB 5608](sb/5608/) - Park and land public access
+* [SB 5609](sb/5609/) - Juvenile fingerprinting
+* [SB 5610](sb/5610/) - Rx drug cost sharing
+* [SB 5611](sb/5611/) - Long-term care/veterans
+* [SB 5612](sb/5612/) - DV sentencing statements
+* [SB 5613](sb/5613/) - Use of dogs to hunt
+* [SB 5614](sb/5614/) - National guard ed. grants
+* [SB 5615](sb/5615/) - State sport
+* [SB 5616](sb/5616/) - Accounts
+* [SB 5617](sb/5617/) - Concerning population criteria for designation of local downtown and neighborhood commercial district revitalization and official local main street programs.
+* [SB 5618](sb/5618/) - Out-of-network health care
+* [SB 5619](sb/5619/) - Kelp & eelgrass conservation
+* [SB 5620](sb/5620/) - Medicaid expenditures
+* [SB 5621](sb/5621/) - Concerning intergovernmental tax charges and conflict resolution regarding water and sewage facilities.
+* [SB 5622](sb/5622/) - Motorcycles on laned roads
+* [SB 5623](sb/5623/) - Credit history/insurance
 
 ### S Filed Sec/St
 * [SCR 8401](scr/8401/) - Cutoff dates

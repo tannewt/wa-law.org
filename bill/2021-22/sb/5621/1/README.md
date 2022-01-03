@@ -1,0 +1,8 @@
+# Senate Bill 5621
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5621.xml)
+## Section 1
+> This section adds a new section to an existing chapter [36.94](/rcw/36_counties/36.094_sewerage_water_and_drainage_systems.md). Here is the [modified chapter](rcw/36_counties/36.094_sewerage_water_and_drainage_systems.md) for context.
+
+County-owned sewage facilities and water facilities revenues must not be subject to any tax or excise imposed by any city or town. A city or town may charge counties to mitigate impacts directly attributable to the sewage facility and water facility if that city or town demonstrates that those charges are reasonably necessary to mitigate the impacts and the revenue generated from the charges is expended only to mitigate such impacts. If the city or town and the county cannot reach an agreement following a reasonable period of good faith negotiations, including mediation where appropriate, a board of arbitrators convened at the request of either party shall resolve the matter. The board of arbitrators must consist of a representative from the city or town involved, a representative of the county, and a third representative to be appointed by the other two representatives. If no agreement can be reached with regard to a third representative, a judge of the superior court of the county of the jurisdiction owning the sewage and water facility shall appoint the third representative. The determination by the board of arbitrators of the sum to be paid by the county shall be binding on all parties. Each party shall pay the costs of its individual representative on the board of arbitrators and shall pay one-half of the cost of the third representative.
+
