@@ -1,0 +1,130 @@
+# Senate Bill 5714
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5714.xml)
+## Section 1
+1. The legislature finds that while Washington state has significant solar resources and increasing electricity generation from solar installations, these are concentrated in rooftop installations and in utility-scale solar projects on rural lands that could otherwise be devoted to crop lands, grazing lands, or other productive uses. A recent study estimates that in the United States about 51 percent of utility-scale solar facilities are in deserts, 33 percent are on croplands, 10 percent are in grasslands and forests, and only 2.5 percent of solar power comes from urban areas.
+
+2. The legislature further finds that in urbanized areas the land devoted to transportation, both moving and parking vehicles, is substantial and becomes unavailable for additional uses. Surface parking lots that serve large commercial, industrial, and residential institutional developments present an opportunity for solar power on parking lot canopies to gain added benefits for the use of this land. Solar canopies would significantly contribute to the state's goals of reducing greenhouse gas emissions from the electricity sector and boost overall electricity supplies as the state increases the electrification of transportation and powering and heating buildings. Additionally, solar canopies provide weather protection in summer and winter to both the vehicles under the canopies and people moving from their cars into the buildings served by the parking lot.
+
+3. The legislature further finds that the initial capital costs of installing solar generation on parking lot canopies will in most cases be fully amortized over time with the power generated and sold into the electricity system, but that initial capital costs may deter incorporation of installations into new projects. For these reasons, the legislature intends to provide for a deferral of state and local sales and use taxes for eligible costs of the construction of a solar canopy at qualifying commercial centers.
+
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Applicant" means a person applying for a tax deferral under this chapter.
+
+2. "Eligible area" means a qualifying commercial center.
+
+3. "Eligible investment project" means an investment project that is located, as of the date the application required by section 3 of this act is received by the department, in an eligible area.
+
+4. "Initiation of construction" has the same meaning as in RCW 82.63.010.
+
+5. "Investment project" means an investment in a qualified solar canopy including labor and services rendered in the planning, installation, and construction of the project.
+
+6. "Meaningful construction" means an active construction site, where excavation of a building site, laying of a structure foundation, or other tangible signs of construction are taking place and that clearly show a progression in the construction process at the location designated by the taxpayer in the application for deferral. Planning, permitting, or land clearing before excavation of the building site, without more, do not constitute "meaningful construction."
+
+7. "Nameplate capacity" means the full-load, sustained energy output of the solar canopy.
+
+8. "Person" has the meaning given in RCW 82.04.030.
+
+9. "Qualified solar canopy" means construction of a new solar canopy that has an area of at least 50,000 square feet.
+
+10. "Qualifying commercial center" means a property currently used for retail, industrial, office, or other commercial purposes, containing a parking area or other area dedicated for the placement of a solar canopy.
+
+11. "Recipient" means a person receiving a tax deferral under this chapter.
+
+12. "Solar canopy" means an elevated structure, or multiple structures, containing a solar energy system, as defined in RCW 82.16.110, that provides at least one megawatt of electricity.
+
+
+## Section 3
+1. Application for deferral of taxes under this chapter must be made before initiation of the construction of the investment project. The application must be made to the department in a form and manner prescribed by the department. The application must contain information regarding the location of the investment project, estimated or actual costs, time schedules for completion and operation, anticipated nameplate capacity and use of the electricity produced by the solar canopy, and other information required by the department. The department must rule on the application within 60 days. The department must compile this information for use by the joint legislative audit and review committee in its evaluation of the tax preference under section 7 of this act.
+
+2. The department may not accept applications for the deferral under this chapter after June 30, 2032.
+
+
+## Section 4
+The department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters 82.08, 82.12, and 82.14 RCW on each eligible investment project.
+
+
+## Section 5
+1. The recipient of a deferral certificate under section 4 of this act must begin meaningful construction on an eligible investment project within one year of receiving a deferral certificate, unless construction was delayed due to circumstances beyond the recipient's control. Lack of funding is not considered a circumstance beyond the recipient's control.
+
+2. If the recipient does not begin meaningful construction on an eligible investment project within one year of receiving a deferral certificate, the deferral certificate issued under section 4 of this act is invalid and taxes deferred under this chapter are due immediately.
+
+3. A recipient of a deferral certificate under section 4 of this act must notify the department and update the information originally provided in the application if the solar canopy, at the time of completion, will produce an amount of electricity that is less than 85 percent of the nameplate capacity originally assumed.
+
+
+## Section 6
+1. [Empty]
+
+    a. Except as otherwise provided in this chapter, taxes deferred under this chapter need not be repaid.
+
+    b. If the investment project is not operationally complete within two calendar years from the issuance of the tax deferral certificate, or if, on the basis of the tax performance report under RCW 82.32.534 or other information, the department finds that an investment project is used for purposes other than a qualified solar canopy at any time during the calendar year in which the investment project is certified by the department as having been operationally completed, or at any time during any of the seven succeeding calendar years, a portion of deferred taxes is immediately due according to the following schedule:
+
+Year in which
+
+use occurs
+
+Percent of deferred taxes due
+
+1
+
+100
+
+2
+
+87.5
+
+3
+
+75
+
+4
+
+62.5
+
+5
+
+50
+
+6
+
+37.5
+
+7
+
+25
+
+8
+
+12.5
+
+2. The department must assess interest at the rate provided for delinquent taxes, but not penalties, retroactively to the date of deferral for a recipient who must repay deferred taxes under subsection (1) of this section because the department has found that an investment project is not eligible for tax deferral. The debt for deferred taxes is not extinguished by insolvency or other failure of the recipient. Transfer of ownership does not terminate the deferral. The deferral is transferred, subject to the successor meeting the eligibility requirements of this chapter, for the remaining periods of the deferral.
+
+
+## Section 7
+This section is the tax preference performance statement for the sales and use tax deferral program created in sections 4 and 6, chapter . . ., Laws of 2022 (sections 4 and 6 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+1. The legislature categorizes the tax preference created in this act as one intended to induce certain designated behavior by taxpayers, as indicated in RCW 82.32.808(2)(a).
+
+2. It is the legislature's specific public policy objective to incentivize the construction of solar canopies in the state of Washington in order to reduce greenhouse gas emissions from the electricity sector and boost overall electricity supplies as the state increases the electrification of transportation and powering and heating buildings.
+
+3. Pursuant to chapter 43.136 RCW, the joint legislative audit and review committee must review the sales and use tax deferral created in this act by December 31, 2030. The review must specifically evaluate:
+
+    a. The number of solar canopies constructed in the state subject to a sales and use tax deferral under this act;
+
+    b. The average and total electric output of solar canopies subject to a sales and use tax deferral under this act;
+
+    c. The total beneficiary savings from the tax preference created in this act;
+
+    d. The estimated reduction in greenhouse gas emissions resulting from energy produced from solar canopies assuming an equivalent amount of energy would have otherwise been generated through the combustion of fossil fuels; and
+
+    e. Any other metrics the committee finds relevant to the evaluation of the tax preference created in this act in meeting its public policy objective.
+
+4. In order to obtain the data necessary to perform the review in subsection (3) of this section, the joint legislative audit and review committee shall use information collected, compiled, and provided by the department of revenue. The committee may also contact recipients of the sales and use tax deferral under this act to confirm details of solar canopies.
+
+
+## Section 9
+The automatic expiration date for tax preferences in RCW 82.32.805 does not apply to this act.
+

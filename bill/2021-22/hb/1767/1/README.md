@@ -1,0 +1,106 @@
+# House Bill 1767
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1767.xml)
+## Section 1
+> This section adds a new section to an existing chapter [35.92](/rcw/35_cities_and_towns/35.092_municipal_utilities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.092_municipal_utilities.md) for context.
+
+1. The governing authority of an electric utility formed under this chapter may adopt a plan that establishes a finding that utility outreach and investment in the electrification of its customers' end use equipment in residential and commercial buildings will provide net benefits to the utility. Prior to adopting a targeted electrification plan, the governing authority must request public comment on the development of the plan.
+
+2. A targeted electrification plan adopted under subsection (1) of this section must identify options and program schedules for the targeted electrification of various energy end uses or energy sources.
+
+3. In adopting a targeted electrification plan under subsection (1) of this section, the governing authority of an electric utility formed under this chapter must determine that the sum of the benefits of a targeted electrification option equals or exceeds the sum of its costs. As part of this determination, the governing authority may differentiate the level of benefits and costs accrued to low-income customers, highly impacted communities, and vulnerable populations in the electric utility's service area, as those terms are defined in RCW 19.405.020.
+
+    a. The benefits of targeted electrification considered by a governing authority may include, but are not limited to, system impacts, as well as the following:
+
+        i. Utility revenue from increased retail load from targeted electrification;
+
+        ii. Distribution and transmission system efficiencies resulting from demand response or other load management opportunities, including direct control and dynamic pricing, associated with the increased retail load;
+
+        iii. System reliability improvements;
+
+        iv. Indoor and outdoor air quality benefits to existing utility customers and customers from projects constructed after the effective date of this section;
+
+    v. Reductions in greenhouse gas emissions from existing utility customers and customers from projects constructed after the effective date of this section, taking into consideration the compliance obligations of the utility under chapter 70A.65 RCW and the statewide greenhouse gas emissions limits in RCW 70A.45.020;
+
+    vi. Public health benefits, such as resilience to extreme heat and wildfire smoke for low-income customers, highly impacted communities, and vulnerable populations as those terms are defined in RCW 19.405.020; and
+
+    vii. Other benefits identified by the governing authority.
+
+    b. The costs of targeted electrification considered by a governing authority must include, but are not limited to:
+
+        i. The electricity, which must be demonstrated to have, during the life span of the electric equipment, a lower greenhouse gas emissions profile than direct use natural gas or any other resources used to serve or offset the increased retail load from targeted electrification;
+
+        ii. Any upgrades to the utility's distribution or transmission system or load management practices and equipment made necessary by the increased retail load; and
+
+        iii. The cost of the incentives, advertising, or other inducements used to encourage customers to electrify an energy end use currently served by a different fuel source.
+
+4. An electric utility formed under this chapter may, upon adopting a plan in accordance with subsection (1) of this section, offer incentives and establish other programs to accelerate the targeted electrification of homes and buildings for its customers, including the promotion of electrically powered equipment, advertising targeted electrification programs and projects, educational programs, and customer incentives or rebates. An electric utility offering these incentives and other programs must prioritize service to vulnerable populations and highly impacted communities in the electric utility's service area, as the terms are defined in RCW 19.405.020.
+
+5. In complying with this section, an electric utility must, consistent with the requirements of RCW 19.280.030 and 19.405.140, ensure that all customers are benefiting from the transition to clean energy through the equitable distribution of energy and nonenergy benefits and reduction of burdens to vulnerable populations and highly impacted communities, as those terms are defined in RCW 19.405.020, including: Long-term and short-term public health and environmental benefits and reduction of costs and risks; and energy security and resiliency.
+
+6. For the purposes of this section, "targeted electrification" means the conversion to electricity from a fossil fuel or wood of an energy end use or energy source in a way that provides a net benefit to the utility as determined consistent with subsection (3) of this section.
+
+7. Nothing in this section limits the existing authority of an electric utility formed under this chapter to offer incentives and other programs to accelerate the electrification of homes and buildings for its customers if the electrification is in the direct economic interest of the electric utility.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [54.16](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+
+1. The commission of a public utility district may adopt a targeted electrification plan that establishes a finding that outreach and investment in the electrification of its customers' end use equipment in residential and commercial buildings will provide net benefits to the utility. Prior to adopting a targeted electrification plan, the commission of a public utility district must request public comment on the development of the plan.
+
+2. A targeted electrification plan adopted under subsection (1) of this section must identify options and program schedules for the electrification of various energy end uses or energy sources.
+
+3. In adopting a targeted electrification plan under subsection (1) of this section, the commission of a public utility district must determine that the sum of the benefits of an electrification option equals or exceeds the sum of its costs. As part of this determination, the commission may differentiate the level of benefits and costs accrued to highly impacted communities and vulnerable populations in the public utility district's service area, as those terms are defined in RCW 19.405.020.
+
+    a. The benefits of targeted electrification considered by a commission may include, but are not limited to, system impacts, as well as the following:
+
+        i. Utility revenue from increased retail load from targeted electrification;
+
+        ii. Distribution and transmission system efficiencies resulting from demand response or other load management opportunities, including direct control and dynamic pricing, associated with the increased retail load;
+
+        iii. System reliability improvements;
+
+        iv. Indoor and outdoor air quality benefits to existing utility customers and customers from projects constructed after the effective date of this section;
+
+    v. Reductions in greenhouse gas emissions from existing utility customers and customers from projects constructed after the effective date of this section, taking into consideration the compliance obligations of the utility under chapter 70A.65 RCW and the statewide greenhouse gas emissions limits in RCW 70A.45.020;
+
+    vi. Public health benefits, such as resilience to extreme heat and wildfire smoke for low-income customers, highly impacted communities, and vulnerable populations as those terms are defined in RCW 19.405.020; and
+
+    vii. Other benefits identified by the commission of the public utility district.
+
+    b. The costs of targeted electrification considered by a commission must include, but are not limited to:
+
+        i. The electricity, which must be demonstrated to have, during the life span of the electric equipment, a lower greenhouse gas emissions profile than direct use natural gas or any other resources used to serve or offset the increased retail load from the targeted electrification;
+
+        ii. Any upgrades to the utility's distribution or transmission system or load management practices and equipment made necessary by the increased retail load; and
+
+        iii. The cost of the incentives, advertising, or other inducements used to encourage customers to electrify an energy end use currently served by a different fuel source.
+
+4. A public utility district may, upon adopting a plan in accordance with subsection (1) of this section, offer incentives and establish other programs to accelerate the targeted electrification of homes and buildings for its customers, including the promotion of electrically powered equipment, advertising targeted electrification programs and projects, educational programs, and customer incentives or rebates. A public utility district offering these incentives and other programs must prioritize service to vulnerable populations and highly impacted communities in the public utility district's service area, as those terms are defined in RCW 19.405.020.
+
+5. In complying with this section, an electric utility must, consistent with the requirements of RCW 19.280.030 and 19.405.140, ensure that all customers are benefiting from the transition to clean energy through the equitable distribution of energy and nonenergy benefits and reduction of burdens to vulnerable populations and highly impacted communities, as those terms are defined in RCW 19.405.020, including: Long-term and short-term public health and environmental benefits and reduction of costs and risks; and energy security and resiliency.
+
+6. For the purposes of this section, "targeted electrification" means the conversion to electricity from a fossil fuel or wood of an energy end use or energy source in a way that provides a net benefit to the utility as determined consistent with subsection (3) of this section.
+
+7. Nothing in this section limits the existing authority of the commission of a public utility district to offer incentives and other programs to accelerate the electrification of homes and buildings for its customers if the electrification is in the direct economic interest of the public utility district.
+
+
+## Section 4
+> This section modifies existing section [35.92.430](/rcw/35_cities_and_towns/35.092_municipal_utilities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.092_municipal_utilities.md) for context.
+
+1. A city or town authorized to acquire and operate utilities for the purpose of furnishing the city or town and its inhabitants and other persons with water, with electricity for lighting and other purposes, or with service from sewerage, stormwater, surface water, or solid waste handling facilities, may develop and make publicly available a plan to reduce its greenhouse **gas** emissions or achieve no-net emissions from all sources of greenhouse gases that the utility owns, leases, uses, contracts for, or otherwise controls.
+
+2. A city or town authorized to acquire and operate utilities for the purpose of furnishing the city or town and its inhabitants and other persons with water, with electricity for lighting and other purposes, or with service from sewerage, stormwater, surface water, or solid waste handling facilities, may, as part of its utility operation, mitigate the environmental impacts, such as greenhouse **gas** emissions, of its operation, including any power purchases. The mitigation may include, but is not limited to, those greenhouse **gas** mitigation mechanisms recognized by independent, qualified organizations with proven experience in emissions mitigation activities. Mitigation mechanisms may include the purchase, trade, and banking of greenhouse **gas** offsets or credits. If a state greenhouse **gas** registry is established, a utility that has purchased, traded, or banked greenhouse **gas** mitigation mechanisms under this section shall receive credit in the registry. **Mitigation may also include implementation of programs including, but not limited to, targeted electrification programs that result in quantifiable and verifiable reductions in greenhouse gas emissions from homes and buildings located in the utility's service territory. A utility may promote and advertise a greenhouse gas emissions mitigation program to its ratepayers.**
+
+
+## Section 6
+> This section modifies existing section [54.16.390](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
+
+1. A public utility district may develop and make publicly available a plan for the district to reduce its greenhouse **gas** emissions or achieve no-net emissions from all sources of greenhouse gases that the district owns, leases, uses, contracts for, or otherwise controls.
+
+2. A public utility district may, as part of its utility operation, mitigate the environmental impacts, such as greenhouse **gas** emissions, of its operation and any power purchases. Mitigation may include, but is not limited to, those greenhouse **gas** mitigation mechanisms recognized by independent, qualified organizations with proven experience in emissions mitigation activities. Mitigation mechanisms may include the purchase, trade, and banking of greenhouse **gas** offsets or credits. If a state greenhouse **gas** registry is established, a public utility district that has purchased, traded, or banked greenhouse **gas** mitigation mechanisms under this section shall receive credit in the registry. **Mitigation may also include implementation of programs including, but not limited to, targeted electrification programs that result in quantifiable and verifiable reductions in greenhouse gas emissions from homes and buildings located in the public utility district's service territory. A public utility district may promote and advertise a greenhouse gas emissions mitigation program to its ratepayers.**
+
+
+## Section 7
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

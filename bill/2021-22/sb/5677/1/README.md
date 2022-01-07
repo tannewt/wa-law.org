@@ -1,0 +1,120 @@
+# Senate Bill 5677
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5677.xml)
+## Section 1
+1. The legislature finds that:
+
+    a. Policing is unique among governmental functions, due to the authority and broad discretion of law enforcement officers to engage in state-sanctioned use of force, which may include the taking of another's life or restricting another's liberty. Greater accountability to the public is necessary when an officer engages in serious misconduct.
+
+    b. Processes for complaint handling, investigations, imposition of discipline, and appeals of discipline for serious officer misconduct can be ineffective and lead to unacceptable delays and a lack of accountability for serious misconduct. These barriers to accountability have resulted in reductions in discipline and the retention or reinstatement of law enforcement officers who have engaged in serious misconduct that harmed members of the public. When supervisory approaches to complaint handling, investigations, and disciplinary decisions are not aligned with appropriate standards of accountability, it undermines public trust and confidence in the work of law enforcement agencies.
+
+2. The legislature recognizes that law enforcement accountability systems, structures, policies, and practices, that are consistent, transparent and effective, and mete out fair, impartial, and swift discipline commensurate to wrongdoing, reduce officer misconduct, reduce barriers to accountability, and uphold the civil and constitutional rights of the public.
+
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Investigating authority" means the entity authorized to conduct complaint handling and investigations regarding law enforcement officer serious misconduct.
+
+2. "Law enforcement officer" or "officer" has the same meaning as provided for "general authority Washington peace officer" in RCW 10.93.020.
+
+3. "Serious misconduct" means conduct that, if sustained, would result in discipline greater than oral or written reprimand, including suspension, demotion, transfer, or termination. "Serious misconduct" includes, but is not limited to, conduct listed in RCW 43.101.105 (2) and (3).
+
+
+## Section 3
+1. The provisions of this section apply to complaints and investigations of serious misconduct against a law enforcement officer.
+
+2. Each jurisdiction must develop, adopt, and implement a written process for receiving and processing complaints and conducting investigations relating to law enforcement officers alleged to have engaged in serious misconduct. At a minimum, the complaint and investigation process must:
+
+    a. Be timely, fair, impartial, and thorough, and must include all of the law enforcement agency's officers, regardless of rank. "Impartial" precludes anyone with a conflict of interest from processing the complaint or conducting the investigation;
+
+    b. Allow complaints to be filed or initiated through any communication means including, but not limited to, in person, in writing, by phone, electronically, via a website, or through internal systems, and by any person, including those who wish to file anonymously. The process must not allow termination of an investigation solely on the basis that the complainant seeks to withdraw the complaint or is unavailable, or because the named officer resigns or retires after the incident;
+
+    c. Have a civilian in charge of the investigating authority, and civilian staff in whole or in part to conduct or participate in complaint handling and investigations;
+
+    d. Grant the investigating authority prompt and unfettered access to all of the law enforcement agency's data, records, video, evidence, and individuals necessary to conduct thorough and timely investigations. This includes, without limitation, requiring retention, disclosure, use, and review of body camera and in-car video footage if used by the law enforcement agency;
+
+    e. Require named and witness officers to fully, promptly, and truthfully participate in interviews and produce, prior to or during the course of the investigation, all relevant material evidence of which the officer or the officer's representative is aware, pursuant to the officer's conditions of employment. The law enforcement agency may not create or agree to barriers to obtaining information such as requiring a subpoena or an additional order by superior officers, nor may the law enforcement agency allow or agree to allow material evidence to be offered by the officer after the investigation is conducted during later hearings regarding the incident if the officer or officer's representative was aware of the material evidence, but did not disclose it previously;
+
+    f. Record interviews by either audio or video, or both, and retain in the investigative file all such recordings, written statements, and interview notes that are part of complaint intake and investigation;
+
+    g. When there is an incident such as excessive use of force for which officers and witnesses will be interviewed as part of force review or incident review, distinct from a possible administrative misconduct investigation, require in-person interviews of named and witness officers to occur promptly, and no later than 60 minutes after the end of their shift. No waiting period may be required or agreed to, and the interview must occur prior to an opportunity for named and witness officers to watch video recordings of the incident, review written or recorded statements of others, or talk to other officers about the incident, provided, however, where the interview may result in disciplinary action of the officer, that officer may request that a union representative be present for the interview;
+
+    h. Issue the investigation findings within 180 days of the complaint being filed or initiated, unless good cause for an extension is established by the investigating authority and documented in the investigative file. "Good cause" for an extension means, for example, tolling for authorized reasons such as a related criminal investigation, temporary unavailability of witnesses or evidence, or other reasons that will promote a fair, impartial, and thorough investigation and not constitute undue delay. If the investigation findings are issued in excess of 180 days, within 30 days of issuing the investigation findings, the investigating authority must make a written statement of the reason or reasons the time limit was exceeded, which shall be retained in the investigative file and reported to the jurisdiction;
+
+    i. Provide the investigating authority and any civilian oversight entity that has investigative authority with full subpoena authority to compel production of evidence or testimony when necessary;
+
+    j. Allow the investigating authority to pursue investigation of other incidents of possible misconduct revealed during the course of an investigation;
+
+    k. Allow the investigating authority to investigate complaints of alleged serious misconduct that is criminal in nature, other than those investigations that fall under chapter 43.102 RCW, without limiting the manner of receiving complaints or conducting investigations, including decisions regarding which entity should conduct any necessary criminal investigation, coordination with the criminal investigators if external to the investigating authority, and whether the criminal and administrative investigations should be done concurrently or sequentially, to ensure that both the criminal and administrative investigations are rigorous, thorough, and timely;
+
+    l. Provide the chief law enforcement officer with full authority to remove an officer from duty or place an officer on leave when allegations of serious misconduct have been made, including unpaid leave;
+
+    m. Provide that a named officer in an ongoing investigation of serious misconduct is ineligible for promotion during the pendency of the investigation; and
+
+    n. Require that the investigating authority maintain a centralized electronic numbering and tracking system for all allegations of serious misconduct by officers, including the time taken to complete the investigation under (h) of this subsection.
+
+3. For serious misconduct that occurs after the effective date of this section, each jurisdiction must allow investigations to be conducted and discipline to be imposed for complaints of serious misconduct that are filed or initiated at least three years after the occurrence of the alleged serious misconduct, without any preclusion or limitation on the manner of investigation or imposition of discipline. There shall be no time limitation for (a) criminal law violations; (b) excessive force that causes, or is reasonably expected to cause, great bodily harm, substantial bodily harm, loss of consciousness, or death; (c) dishonesty; or (d) any serious misconduct where the misconduct has been concealed.
+
+4. [Empty]
+
+    a. Beginning July 1, 2023, this section applies to departments with 25 law enforcement officers or more as of January 1, 2021; and
+
+    b. Beginning July 1, 2025, this section applies to all other departments with law enforcement officers.
+
+
+## Section 4
+Each jurisdiction must develop, adopt, and implement a written process for imposing and documenting discipline for serious misconduct. At a minimum, the discipline and documentation process must:
+
+1. Require that the disciplinary history of officers and applicants to become officers be considered in all hiring, promotion, and transfer decisions, and that the information considered and the fact of this consideration be documented and retained;
+
+2. Allow prompt and full public access to, and disclosure of, incident reports, complaints, disciplinary findings, investigative and disciplinary records, litigation, appeals, and decertification, including settlements or other agreements related to such incidents, complaints, and discipline, in accordance with chapter 42.56 RCW;
+
+3. Require that, for as long as an officer's employment records are retained pursuant to the requirements of RCW 40.14.070, there be no sealing, removal, redaction, or destruction of those records;
+
+4. Allow discipline to be imposed based on a preponderance of the evidence standard, and cannot require a more stringent burden of proof; and
+
+5. Require imposition of discipline commensurate to the serious misconduct. Past disciplinary decisions made by the same or other law enforcement agencies for the same or similar conduct prior to the effective date of this section may not be used as a basis for reducing or not imposing discipline. The authority to impose discipline may not be foreclosed by any time limit for conducting the investigation or the process of imposing the discipline.
+
+
+## Section 5
+Each jurisdiction must develop, adopt, and implement a written process for receiving and processing all appeals of law enforcement discipline for serious misconduct. At a minimum, the disciplinary appeal process must be conducted using the following procedures:
+
+1. The decision maker for law enforcement disciplinary appeals, whether public safety civil service commissioners, administrative law judges, arbitrators, hearing examiners, or others, must be appointed based on merit, with subject matter expertise, and without conflicts of interest with any involved party. Commissioners may not be an employee of that jurisdiction, nor have worked for law enforcement in the prior 10 years. If administrative law judges, arbitrators, or hearing examiners are used, they must be on contract to the jurisdiction, and not selected on a case-by-case basis. To be on the roster to serve as an administrative law judge, arbitrator, or hearing examiner, any decision maker must be available to hear and rule on cases in accordance with the timelines set forth in this section;
+
+2. Discipline must be upheld if the decision maker finds that the officer committed the alleged serious misconduct, unless the discipline is arbitrary and capricious or exceeds the chief law enforcement officer's legal authority;
+
+3. Deference to factual findings is required and de novo review is not permitted. If material information that could not reasonably have been known comes to light, the case must be returned to the investigating authority for further investigation;
+
+4. The standard of review must be a preponderance of the evidence;
+
+5. Imposition of discipline must be commensurate to the serious misconduct. Past disciplinary decisions made by the same or other law enforcement agencies for the same or similar conduct prior to the effective date of this section must not be used as a basis for reducing or overturning discipline imposed;
+
+6. Any procedural error or contractual violation regarding the imposition of discipline must be weighed against the nature of the serious misconduct found to have been committed in determining the appropriate remedy. Any modification of discipline due to a procedural error or contractual violation must be made only to the minimum extent necessary to address the error or violation;
+
+7. Hearings for law enforcement disciplinary appeals for serious misconduct must be open to the public, and there must be public notification of scheduled hearings, as well as notification to the complainant;
+
+8. The law enforcement disciplinary appeal process must be timely: All requests by the law enforcement officer or the officer's union for an appeal must be made within 10 days of receiving the notification of discipline, such appeals must be heard within 90 days of the imposition of the discipline, and the written decision regarding the appeal must be issued within 30 days of the close of the hearing;
+
+9. The written decision regarding the appeal must be made available to the parties and the public promptly upon its issuance;
+
+10. The right to appeal to superior court for decisions that violate an explicit, well-defined, and dominant public policy, as established by case law or statute, is maintained, but the decision must otherwise be final and binding without further appeal other than as set forth in this section; and
+
+11. Use of arbitration rules or other procedures that are contrary to state law or local ordinance, or to transparency or fairness, is prohibited.
+
+
+## Section 6
+Jurisdictions may choose to have civilian oversight entities or community members involved in holding law enforcement officers who engage in serious misconduct accountable. A jurisdiction's laws, policies, rules, contracts, or other agreements may expand the accountability measures of this chapter, but may not undermine the authority, independence, composition, and responsibilities of such entities or the requirements of this chapter.
+
+
+## Section 7
+After the effective date of this section, contracts and agreements that are inconsistent with the requirements of this chapter shall not be entered or extended. Any provision of a contract or agreement that is entered, extended, or amended after the effective date of this section that is contrary to this chapter is void and unenforceable.
+
+
+## Section 8
+The provisions of this chapter shall be liberally construed to accomplish their purpose. If any provision of this chapter conflicts with any other statute, ordinance, rule, or regulation of any public employer, the provision of this chapter shall control.
+
+
+## Section 9
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+

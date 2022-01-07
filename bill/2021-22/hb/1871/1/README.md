@@ -1,0 +1,126 @@
+# House Bill 1871
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1871.xml)
+## Section 1
+The legislature finds that more than half the state's population resides in King, Snohomish, Pierce, and Kitsap counties, yet these counties host less than two percent of all the carbon-free energy production capacity sited in Washington. The majority of voters in these four counties supported a renewable energy mandate for utilities in 2006 (Initiative 937), but they have not sited the energy called for by that mandate. In stark contrast, Columbia county is home to just .1 percent of the state's population but hosts nearly six percent of the state's carbon free energy production capacity. Similarly, Walla Walla, Franklin, and Benton county, collectively, are home to approximately 12 percent of the state's carbon free energy production capacity. Voters in these eastern Washington counties opposed the renewable energy mandate but have carbon-free energy production facilities. The legislature recognizes the local sentiment that these facilities have not brought the promised "green jobs," meaningful tax revenue, or local environmental benefits in so far as these local communities were already served with clean, affordable hydroelectric energy.
+
+The legislature intends to investigate possible solutions to this inequity with a goal of building a broader consensus and unity among counties on the impact of the state energy strategy. The viewshed, wildlife, and land use patterns in specific counties of the state are being permanently impacted to deliver carbon-free energy benefits to the most populous counties of the state. The legislature recognizes that the burden of siting large carbon-free energy projects has been deeply inequitable and, in many cases, sharply divisive for neighbors and communities and not in keeping with locally developed visions for growth and economic development.
+
+Therefore, the legislature intends to impose a short-term moratorium on alternative energy facility siting approvals that bypass the local siting process. During the moratorium, the legislature intends for a joint legislative task force to convene and examine the equity between carbon-free energy producing counties and the counties of highest energy consumption, both at baseline present conditions and as it is likely to unfold under the state's deep decarbonization energy strategy.
+
+The equity review that the task force engages in should recognize the full value to the state and its economic development of the many decades of carbon-free, affordable energy provided by the counties that have sited hydroelectric energy and the transmission capacity that brings it to Washington's most populous counties.
+
+The legislature intends for the task force to study how the state's deep decarbonization energy strategy will impact the environment, viewsheds, employment, and tax base of various counties as new transmission lines and energy facilities are sited to meet our state statutory goals.
+
+The legislature intends for the task force to examine whether mitigation payments, viewshed impairment payments, or supplemental economic development assistance to producer counties would improve equity and environmental justice by compensating appropriately for the imbalance in local impacts between producer counties and consumer counties that has existed and may worsen with the state energy strategy if not addressed.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [80.50](/rcw/80_public_utilities/80.50_energy_facilities—site_locations.md). Here is the [modified chapter](rcw/80_public_utilities/80.50_energy_facilities—site_locations.md) for context.
+
+The council is temporarily prohibited from submitting recommendations to the governor under RCW 80.50.100, and the governor is prohibited from taking action on any pending recommendations under RCW 80.50.100 related to proposed alternative energy facilities, until the notices in the Washington State Register have been published as required under sections 3 and 4 of this act.
+
+
+## Section 3
+1. The definitions in this subsection apply throughout this section unless the context clearly indicates otherwise.
+
+    a. "Alternative energy" means energy derived from an alternative energy resource identified in RCW 80.50.020(1).
+
+    b. "Department" means the department of commerce.
+
+    c. "Energy independence act" means chapter 19.285 RCW.
+
+    d. "Renewable energy resource" means an eligible renewable resource specified in RCW 19.285.030.
+
+2. By December 1, 2022, in consultation with the utility technical advisory group established in subsection (3) of this section, the department must submit a report on alternative energy siting inequity to the joint select committee created in section 4 of this act and the appropriate policy and fiscal committees of the legislature. The department must also publish notification of the completion of this report in the Washington State Register by December 1, 2022. The report must include the following components:
+
+    a. An assessment of the beneficial impact of the energy independence act on Washington's fuel mix. This must include:
+
+        i. An assessment, as of 2020, of the percentage of Washington's electric fuel mix that derives from the renewable energy resources promised and promoted by the energy independence act; and
+
+        ii. The calculation of the cumulative expenditures between 2006 and 2020 by each electric utility subject to the provisions of chapter 19.285 RCW on compliance costs related to the energy independence act, with cumulative expenditures by each utility specific to each of the following categories of expenditure caused by compliance obligations under chapter 19.285 RCW:
+
+(A) The use of renewable energy resources;
+
+(B) The purchase of renewable energy credits; and
+
+(C) The requirement to spend four percent of retail revenues on renewable resources;
+
+    b. An assessment of the capital expenditures in each county in Washington on renewable resources in each year between 2006 and 2020;
+
+    c. [Empty]
+
+        i. An assessment of the impacts on the state and local tax revenue collections and the property tax base in each county in each year between 2006 and 2020 associated with the expenditures specified in (b) of this subsection;
+
+        ii. An assessment of the impacts on sources of revenues dedicated to local school districts, including impacts, if any, on state local effort assistance funding, for each year between 2006 and 2020 associated with the expenditures specified in (b) of this subsection;
+
+    d. An identification of the number and type of jobs created in each county in Washington as a result of the implementation of chapter 19.285 RCW between 2006 and 2020. Each of the jobs counted under this subsection must be categorized as belonging to at least one of the following categories:
+
+        i. Short-term construction jobs;
+
+        ii. Long-term jobs that outlast facility construction;
+
+        iii. Regulatory or compliance jobs created at state agencies, electric utilities, or local governments; and
+
+        iv. Jobs related to the production or marketing of electricity from a new renewable energy resource;
+
+    e. A calculation of the cumulative incremental cost to each electric utility, and in aggregate for all electric utilities in Washington, above the least cost wholesale energy resource, between 2006 and 2020, of utility compliance with the targets established in RCW 19.285.040(2);
+
+    f. A calculation of the incremental cost of renewable resources eligible under chapter 19.285 RCW, including wind and solar, relative to other nongreenhouse gas emitting energy resources, such as electricity derived from nuclear or hydroelectric facilities. This incremental cost calculation must be measured based on the average wholesale market price of electricity from nongreenhouse gas emitting energy resources between 2006 and 2020; and
+
+    g. A generalized description and map of the areas of Washington that electric utilities consider to have available resources for potentially economical utility-scale wind or solar energy facility development.
+
+3. [Empty]
+
+    a. The department must form a utility technical advisory group to consult with in the completion of the report required under this section. At minimum, the department must invite the participation in the utility technical advisory group of a representative from each utility that was subject to the requirements of chapter 19.285 RCW as of January 1, 2020.
+
+    b. For purposes of the report under this section, the department may also solicit and consider feedback from utilities not represented on the utility technical advisory group.
+
+4. For purposes of the assessment in this section, the department may require any entity that has generated or retired a renewable energy credit under chapter 19.285 RCW to submit information related to capital expenditures in Washington on renewable resources.
+
+5. This section expires June 30, 2023.
+
+
+## Section 4
+1. [Empty]
+
+    a. A joint select committee on alternative energy facility siting is established, with members as provided in this subsection:
+
+        i. The president of the senate shall appoint two members from each of the two largest caucuses of the senate, and an alternate from each caucus of each chamber; and
+
+        ii. The speaker of the house of representatives shall appoint two members from each of the two largest caucuses of the house of representatives, and an alternate.
+
+    b. The committee shall choose its cochairs from among its legislative leadership. The two cochairs must be from different caucuses.
+
+    c. The committee shall select other officers from among its members as the committee deems appropriate.
+
+    d. Alternates appointed to the committee may vote on any pending committee business in place of an absent member during a committee meeting.
+
+2. [Empty]
+
+    a. The committee shall review the following issues:
+
+        i. Inequities in where large alternative energy projects have been sited in Washington;
+
+        ii. Inequities in where large alternative energy projects are forecast to be sited in Washington; and
+
+        iii. Forms of economic development assistance, mitigation payments, and viewshed impairment payments that counties not hosting their per capita share of alternative energy resources should provide to counties that host more than their per capita share.
+
+    b. In support of its obligations under (a) of this subsection, the committee must review the report produced by the department of commerce under section 3 of this act.
+
+3. The committee must hold at least four meetings, at least two of which must be in eastern Washington. One cochair shall preside over the meetings in western Washington and the other cochair shall preside over the meetings in eastern Washington. The first meeting of the committee must occur by September 30, 2022.
+
+4. The committee must be staffed by senate committee services and the house of representatives office of program research.
+
+5. Relevant state agencies, departments, and commissions, including the energy facility site evaluation council, shall cooperate with the committee and provide information as the cochairs reasonably request.
+
+6. Legislative members of the committee must be reimbursed for travel expenses in accordance with RCW 44.04.120.
+
+7. The expenses of the committee shall be paid jointly by the senate and the house of representatives. Committee expenditures are subject to approval by the senate facilities and operations committee and the house of representatives executive rules committee, or their successor committees.
+
+8. The committee shall report its findings and any recommendations to the committees of the legislature with jurisdiction over environment and energy laws by December 1, 2023. Recommendations of the committee may be made by a simple majority of committee members. In the event that the committee does not reach majority-supported recommendations, the committee may report minority findings supported by at least two members of the committee. Notice of the completion of the findings and recommendations required in this subsection must be published in the Washington State Register by December 1, 2023.
+
+9. For purposes of this section, "alternative energy" means energy derived from an alternative energy resource specified in RCW 80.50.020(1).
+
+10. This section expires June 30, 2024.
+

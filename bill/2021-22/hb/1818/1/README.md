@@ -1,0 +1,168 @@
+# House Bill 1818
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1818.xml)
+## Section 1
+> This section modifies existing section [9.94A.729](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. [Empty]
+
+    a. The term of the sentence of an offender committed to a correctional facility operated by the department may be reduced by earned release time in accordance with procedures that shall be developed and adopted by the correctional agency having jurisdiction in which the offender is confined. The earned release time shall be for good behavior and good performance, as determined by the correctional agency having jurisdiction. The correctional agency shall not credit the offender with earned release credits in advance of the offender actually earning the credits.
+
+    b. Any program established pursuant to this section shall allow an offender to earn early release credits for presentence incarceration. If an offender is transferred from a county jail to the department, the administrator of a county jail facility shall certify to the department the amount of time spent in custody at the facility and the number of days of early release credits lost or not earned. The department may approve a jail certification from a correctional agency that calculates early release time based on the actual amount of confinement time served by the offender before sentencing when an erroneous calculation of confinement time served by the offender before sentencing appears on the judgment and sentence. The department must adjust an offender's rate of early release listed on the jail certification to be consistent with the rate applicable to offenders in the department's facilities. However, the department is not authorized to adjust the number of presentence early release days that the jail has certified as lost or not earned.
+
+2. [Empty]
+
+    a. An offender who has been convicted of a felony committed after July 23, 1995, that involves any applicable deadly weapon enhancements under RCW 9.94A.533 (3) or (4), or both, shall not receive any good time credits or earned release time for that portion of his or her sentence that results from any deadly weapon enhancements.
+
+    b. An offender whose sentence includes any impaired driving enhancements under RCW 9.94A.533(7), minor child enhancements under RCW 9.94A.533(13), or both, shall not receive any good time credits or earned release time for any portion of his or her sentence that results from those enhancements.
+
+3. An offender may earn early release time as follows:
+
+    a. In the case of an offender sentenced pursuant to RCW 10.95.030(3) or 10.95.035, the offender may not receive any earned early release time during the minimum term of confinement imposed by the court; for any remaining portion of the sentence served by the offender, the aggregate earned release time may not exceed ten percent of the sentence.
+
+    b. In the case of an offender convicted of a serious violent offense, or a sex offense that is a class A felony, committed on or after July 1, 1990, and before July 1, 2003, the aggregate earned release time may not exceed fifteen percent of the sentence.
+
+    c. In the case of an offender convicted of a serious violent offense, or a sex offense that is a class A felony, committed on or after July 1, 2003, the aggregate earned release time may not exceed ten percent of the sentence.
+
+    d. An offender is qualified to earn up to fifty percent of aggregate earned release time if he or she:
+
+        i. Is not classified as an offender who is at a high risk to reoffend as provided in subsection (4) of this section;
+
+        ii. Is not confined pursuant to a sentence for:
+
+(A) A sex offense;
+
+(B) A violent offense;
+
+(C) A crime against persons as defined in RCW 9.94A.411;
+
+(D) A felony that is domestic violence as defined in RCW 10.99.020;
+
+(E) A violation of RCW 9A.52.025 (residential burglary);
+
+(F) A violation of, or an attempt, solicitation, or conspiracy to violate, RCW 69.50.401 by manufacture or delivery or possession with intent to deliver methamphetamine; or
+
+(G) A violation of, or an attempt, solicitation, or conspiracy to violate, RCW 69.50.406 (delivery of a controlled substance to a minor);
+
+        iii. Has no prior conviction for the offenses listed in (d)(ii) of this subsection;
+
+        iv. Participates in programming or activities as directed by the offender's individual reentry plan as provided under RCW 72.09.270 to the extent that such programming or activities are made available by the department; and
+
+    v. Has not committed a new felony after July 22, 2007, while under community custody.
+
+    e. In no other case shall the aggregate earned release time exceed one-third of the total sentence.
+
+4. The department shall perform a risk assessment of each offender who may qualify for earned early release under subsection (3)(d) of this section utilizing the risk assessment tool recommended by the Washington state institute for public policy. Subsection (3)(d) of this section does not apply to offenders convicted after July 1, 2010.
+
+5. [Empty]
+
+    a. A person who is eligible for earned early release as provided in this section and who will be supervised by the department pursuant to RCW 9.94A.501 or 9.94A.5011, shall be transferred to community custody in lieu of earned release time;
+
+    b. The department shall, as a part of its program for release to the community in lieu of earned release, require the offender to propose a release plan that includes an approved residence and living arrangement. All offenders with community custody terms eligible for release to community custody in lieu of earned release shall provide an approved residence and living arrangement prior to release to the community;
+
+    c. The department may deny transfer to community custody in lieu of earned release time if the department determines an offender's release plan, including proposed residence location and living arrangements, may violate the conditions of the sentence or conditions of supervision, place the offender at risk to violate the conditions of the sentence, place the offender at risk to reoffend, or present a risk to victim safety or community safety. The department's authority under this section is independent of any court-ordered condition of sentence or statutory provision regarding conditions for community custody;
+
+    d. If the department is unable to approve the offender's release plan, the department may do one or more of the following:
+
+        i. Transfer an offender to partial confinement in lieu of earned early release for a period not to exceed three months. The three months in partial confinement is in addition to that portion of the offender's term of confinement that may be served in partial confinement as provided in RCW 9.94A.728(1)(e);
+
+        ii. Provide rental vouchers to the offender for a period not to exceed **six** months if rental assistance will result in an approved release plan.
+
+A voucher must be provided in conjunction with additional transition support programming or services that enable an offender to participate in services including, but not limited to, substance abuse treatment, mental health treatment, sex offender treatment, educational programming, or employment programming;
+
+    e. The department shall maintain a list of housing providers that meets the requirements of RCW 72.09.285. If more than two voucher recipients will be residing per dwelling unit, as defined in RCW 59.18.030, rental vouchers for those recipients may only be paid to a housing provider on the department's list;
+
+    f. For each offender who is the recipient of a rental voucher, the department shall gather data as recommended by the Washington state institute for public policy in order to best demonstrate whether rental vouchers are effective in reducing recidivism.
+
+6. An offender serving a term of confinement imposed under RCW 9.94A.670(5)(a) is not eligible for earned release credits under this section.
+
+
+## Section 2
+> This section modifies existing section [72.02.100](/rcw/72_state_institutions/72.02_adult_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.02_adult_corrections.md) for context.
+
+1. Any person serving a sentence for a term of confinement in a state correctional facility for convicted felons, pursuant to court commitment, who is thereafter released upon an order of parole of the indeterminate sentence review board, or who is discharged from custody upon expiration of sentence, or who is ordered discharged from custody by a court of appropriate jurisdiction, shall be entitled to retain his or her earnings from labor or employment while in confinement and shall be supplied by the superintendent of the state correctional facility with suitable and presentable clothing, the sum of forty dollars for subsistence, and transportation by the least expensive method of public transportation not to exceed the cost of one hundred dollars to his or her place of residence or the place designated in his or her parole plan, or to the place from which committed if such person is being discharged on expiration of sentence, or discharged from custody by a court of appropriate jurisdiction: PROVIDED, That up to sixty additional dollars may be made available to the parolee for necessary personal and living expenses upon application to and approval by such person's community corrections officer. If in the opinion of the superintendent suitable arrangements have been made to provide the person to be released with suitable clothing and/or the expenses of transportation, the superintendent may consent to such arrangement. If the superintendent has reasonable cause to believe that the person to be released has ample funds, with the exception of earnings from labor or employment while in confinement, to assume the expenses of clothing, transportation, or the expenses for which payments made pursuant to this section or RCW 72.02.110 or any one or more of such expenses, the person released shall be required to assume such expenses.
+
+2. (a) **The** department of corrections may provide temporary housing assistance for a person being released from **any state correctional facility** through the use of rental vouchers, for a period not to exceed **six** months, if **the department finds that** such assistance will support the person's release into the community **by preventing housing instability or homelessness**. The department's authority to provide vouchers under this section is independent of its authority under RCW 9.94A.729**; however, a person may not receive a combined total of rental vouchers in excess of six months.**
+
+    b. **The department shall establish policies for prioritizing funds available for housing vouchers under this section for persons at risk of releasing homeless or becoming homeless without assistance while taking into account risk to reoffend**.
+
+
+## Section 3
+> This section modifies existing section [9.94A.74504](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. The department may supervise nonfelony offenders transferred to Washington pursuant to RCW 9.94A.745, the interstate compact for adult offender supervision, and shall supervise these offenders according to the provisions of this chapter.
+
+2. The department shall process applications for interstate transfer of felony and nonfelony offenders requesting transfer of supervision out-of-state pursuant to RCW 9.94A.745, the interstate compact for adult offender supervision
+
+.
+
+
+## Section 4
+> This section modifies existing section [9.94A.760](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Whenever a person is convicted in superior court, the court may order the payment of a legal financial obligation as part of the sentence. The court may not order an offender to pay costs as described in RCW 10.01.160 if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.101.010(3) (a) through (c). An offender being indigent as defined in RCW 10.101.010(3) (a) through (c) is not grounds for failing to impose restitution or the crime victim penalty assessment under RCW 7.68.035. The court must on either the judgment and sentence or on a subsequent order to pay, designate the total amount of a legal financial obligation and segregate this amount among the separate assessments made for restitution, costs, fines, and other assessments required by law. On the same order, the court is also to set a sum that the offender is required to pay on a monthly basis towards satisfying the legal financial obligation. If the court fails to set the offender monthly payment amount, the department shall set the amount if the department has active supervision of the offender, otherwise the county clerk shall set the amount.
+
+2. Upon receipt of each payment made by or on behalf of an offender, the county clerk shall distribute the payment in the following order of priority until satisfied:
+
+    a. First, proportionally to restitution to victims that have not been fully compensated from other sources;
+
+    b. Second, proportionally to restitution to insurance or other sources with respect to a loss that has provided compensation to victims;
+
+    c. Third, proportionally to crime victims' assessments; and
+
+    d. Fourth, proportionally to costs, fines, and other assessments required by law.
+
+3. If the court determines that the offender, at the time of sentencing, has the means to pay for the cost of incarceration, the court may require the offender to pay for the cost of incarceration. The court shall not order the offender to pay the cost of incarceration if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.101.010(3) (a) through (c). Costs of incarceration ordered by the court shall not exceed a rate of fifty dollars per day of incarceration, if incarcerated in a prison, or the actual cost of incarceration per day of incarceration, if incarcerated in a county jail. In no case may the court require the offender to pay more than one hundred dollars per day for the cost of incarceration. All funds recovered from offenders for the cost of incarceration in the county jail shall be remitted to the county and the costs of incarceration in a prison shall be remitted to the department.
+
+4. The court may add to the judgment and sentence or subsequent order to pay a statement that a notice of payroll deduction is to be issued immediately. If the court chooses not to order the immediate issuance of a notice of payroll deduction at sentencing, the court shall add to the judgment and sentence or subsequent order to pay a statement that a notice of payroll deduction may be issued or other income-withholding action may be taken, without further notice to the offender if a monthly court-ordered legal financial obligation payment is not paid when due, and an amount equal to or greater than the amount payable for one month is owed.
+
+If a judgment and sentence or subsequent order to pay does not include the statement that a notice of payroll deduction may be issued or other income-withholding action may be taken if a monthly legal financial obligation payment is past due, the department or the county clerk may serve a notice on the offender stating such requirements and authorizations. Service shall be by personal service or any form of mail requiring a return receipt.
+
+5. Independent of the department or the county clerk, the party or entity to whom the legal financial obligation is owed shall have the authority to use any other remedies available to the party or entity to collect the legal financial obligation. These remedies include enforcement in the same manner as a judgment in a civil action by the party or entity to whom the legal financial obligation is owed. Restitution collected through civil enforcement must be paid through the registry of the court and must be distributed proportionately according to each victim's loss when there is more than one victim. The judgment and sentence shall identify the party or entity to whom restitution is owed so that the state, party, or entity may enforce the judgment. If restitution is ordered pursuant to RCW 9.94A.750(6) or 9.94A.753(6) to a victim of rape of a child or a victim's child born from the rape, the Washington state child support registry shall be identified as the party to whom payments must be made. Restitution obligations arising from the rape of a child in the first, second, or third degree that result in the pregnancy of the victim may be enforced for the time periods provided under RCW 9.94A.750(6) and 9.94A.753(6). All other legal financial obligations for an offense committed prior to July 1, 2000, may be enforced at any time during the ten-year period following the offender's release from total confinement or within ten years of entry of the judgment and sentence, whichever period ends later. Prior to the expiration of the initial ten-year period, the superior court may extend the criminal judgment an additional ten years for payment of legal financial obligations including crime victims' assessments. All other legal financial obligations for an offense committed on or after July 1, 2000, may be enforced at any time the offender remains under the court's jurisdiction. For an offense committed on or after July 1, 2000, the court shall retain jurisdiction over the offender, for purposes of the offender's compliance with payment of the legal financial obligations, until the obligation is completely satisfied, regardless of the statutory maximum for the crime. The department may only supervise the offender's compliance with payment of the legal financial obligations during any period in which the department is authorized to supervise the offender in the community under RCW 9.94A.728, 9.94A.501, or in which the offender is confined in a state correctional institution or a correctional facility pursuant to a transfer agreement with the department, and the department shall supervise the offender's compliance during any such period. The department is not responsible for supervision of the offender during any subsequent period of time the offender remains under the court's jurisdiction. The county clerk is authorized to collect unpaid legal financial obligations at any time the offender remains under the jurisdiction of the court for purposes of his or her legal financial obligations.
+
+6. In order to assist the court in setting a monthly sum that the offender must pay during the period of supervision, the offender is required to report to the department for purposes of preparing a recommendation to the court. When reporting, the offender is required, under oath, to respond truthfully and honestly to all questions concerning present, past, and future earning capabilities and the location and nature of all property or financial assets. The offender is further required to bring all documents requested by the department.
+
+7. After completing the investigation, the department shall make a report to the court on the amount of the monthly payment that the offender should be required to make towards a satisfied legal financial obligation.
+
+8. [Empty]
+
+    a. During the period of supervision, the department may make a recommendation to the court that the offender's monthly payment schedule be modified so as to reflect a change in financial circumstances. If the department sets the monthly payment amount, the department may modify the monthly payment amount without the matter being returned to the court. During the period of supervision, the department may require the offender to report to the department for the purposes of reviewing the appropriateness of the collection schedule for the legal financial obligation. During this reporting, the offender is required under oath to respond truthfully and honestly to all questions concerning earning capabilities and the location and nature of all property or financial assets. The offender shall bring all documents requested by the department in order to prepare the collection schedule.
+
+    b. Subsequent to any period of supervision, or if the department is not authorized to supervise the offender in the community, the county clerk may make a recommendation to the court that the offender's monthly payment schedule be modified so as to reflect a change in financial circumstances. If the county clerk sets the monthly payment amount, or if the department set the monthly payment amount and the department has subsequently turned the collection of the legal financial obligation over to the county clerk, the clerk may modify the monthly payment amount without the matter being returned to the court. During the period of repayment, the county clerk may require the offender to report to the clerk for the purpose of reviewing the appropriateness of the collection schedule for the legal financial obligation. During this reporting, the offender is required under oath to respond truthfully and honestly to all questions concerning earning capabilities and the location and nature of all property or financial assets. The offender shall bring all documents requested by the county clerk in order to prepare the collection schedule.
+
+9. After the judgment and sentence or payment order is entered, the department is authorized, for any period of supervision, to collect the legal financial obligation from the offender. Subsequent to any period of supervision or, if the department is not authorized to supervise the offender in the community, the county clerk is authorized to collect unpaid legal financial obligations from the offender. Any amount collected by the department shall be remitted daily to the county clerk for the purpose of disbursements. The department and the county clerks are authorized, but not required, to accept credit cards as payment for a legal financial obligation, and any costs incurred related to accepting credit card payments shall be the responsibility of the offender.
+
+10. The department or any obligee of the legal financial obligation may seek a mandatory wage assignment for the purposes of obtaining satisfaction for the legal financial obligation pursuant to RCW 9.94A.7701. Any party obtaining a wage assignment shall notify the county clerk. The county clerks shall notify the department, or the administrative office of the courts, whichever is providing the monthly billing for the offender.
+
+11. The requirement that the offender pay a monthly sum towards a legal financial obligation constitutes a condition or requirement of a sentence and the offender is subject to the penalties for noncompliance as provided in RCW 9.94B.040, 9.94A.737, or 9.94A.740. If the court determines that the offender is homeless or a person who is mentally ill, as defined in RCW 71.24.025, failure to pay a legal financial obligation is not willful noncompliance and shall not subject the offender to penalties.
+
+12. [Empty]
+
+    a. The administrative office of the courts shall mail individualized periodic billings to the address known by the office for each offender with an unsatisfied legal financial obligation.
+
+    b. The billing shall direct payments to the county clerk.
+
+    c. The county clerk shall provide the administrative office of the courts with notice of payments by such offenders no less frequently than weekly.
+
+    d. The county clerks, the administrative office of the courts, and the department shall maintain agreements to implement this subsection.
+
+13. The department shall arrange for the collection of unpaid legal financial obligations during any period of supervision in the community through the county clerk. The department shall either collect unpaid legal financial obligations or arrange for collections through another entity if the clerk does not assume responsibility or is unable to continue to assume responsibility for collection pursuant to subsection (5) of this section. The costs for collection services shall be paid by the offender.
+
+14. The county clerk may access the records of the employment security department for the purposes of verifying employment or income, seeking any assignment of wages, or performing other duties necessary to the collection of an offender's legal financial obligations.
+
+15. Nothing in this chapter makes the department, the state, the counties, or any state or county employees, agents, or other persons acting on their behalf liable under any circumstances for the payment of these legal financial obligations or for the acts of any offender who is no longer, or was not, subject to supervision by the department for a term of community custody, and who remains under the jurisdiction of the court for payment of legal financial obligations.
+
+
+## Section 5
+> This section modifies existing section [9.95.214](/rcw/09_crimes_and_punishments/9.095_indeterminate_sentences.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.095_indeterminate_sentences.md) for context.
+
+Whenever a defendant convicted of a misdemeanor or gross misdemeanor is placed on probation under RCW 9.92.060 or 9.95.210, and the defendant is supervised by a county probation department, the county probation department may assess and collect from the defendant for the duration of the term of supervision a monthly assessment not to exceed one hundred dollars per month.  This assessment shall be paid to the agency supervising the defendant and shall be applied, along with funds appropriated by the legislature, toward the payment or part payment of the cost of supervising the defendant. The county probation department shall suspend such assessment while the defendant is being supervised by another state pursuant to RCW 9.94A.745, the interstate compact for adult offender supervision.
+
+
+## Section 6
+Subject to the availability of amounts appropriated for this specific purpose, the Washington state institute for public policy shall update its benefit-cost analysis of housing vouchers to account for the expansion of the program under RCW 9.94A.729 and 72.02.100. The analysis should take into account impacts on homelessness, recidivism, criminal justice costs, use of public services, and other factors determined to be appropriate by the institute. The department of corrections shall cooperate with the institute to facilitate access to data or other resources necessary to complete the analysis required under this section. The institute shall submit a final report to the governor and appropriate committees of the legislature by November 1, 2025.
+
+
+## Section 9
+The state treasurer shall transfer all residual funds in the cost of supervision fund to the general fund on June 30, 2022.
+

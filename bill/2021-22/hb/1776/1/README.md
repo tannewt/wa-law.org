@@ -1,0 +1,32 @@
+# House Bill 1776
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1776.xml)
+## Section 1
+> This section modifies existing section [49.80.010](/rcw/49_labor_regulations/49.80_high_hazard_facilities—workforce.md). Here is the [modified chapter](rcw/49_labor_regulations/49.80_high_hazard_facilities—workforce.md) for context.
+
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Apprenticeable occupation" means an occupation for which an apprenticeship program has been approved by the Washington state apprenticeship and training council pursuant to chapter 49.04 RCW.
+
+2. "Department" means the department of labor and industries.
+
+3. "On-site work" does not include ship and rail car support activities; environmental inspection and testing; security guard services; work which is performed by an original equipment manufacturer for warranty, repair, or maintenance on the vendor's equipment if required by the original equipment manufacturer's warranty agreement between the original equipment manufacturer and the owner; industrial cleaning not related to construction; safety services requiring professional safety certification; nonconstruction catalyst loading, regeneration, and removal; chemical purging and cleaning; refinery by-product separation and recovery; inspection services not related to construction; and work performed that is not in an apprenticeable occupation.
+
+4. "Prevailing hourly wage rate" has the meaning provided for "prevailing rate of wage" in RCW 39.12.010.
+
+5. "Registered apprentice" means an apprentice registered in an apprenticeship program approved by the Washington state apprenticeship and training council according to chapter 49.04 RCW.
+
+6. "Skilled and trained workforce" means a workforce that meets both of the following criteria:
+
+    a. All the workers are either registered apprentices or skilled journeypersons; and
+
+    b. The workforce meets the apprenticeship graduation and approved advanced safety training requirements established in RCW 49.80.030.
+
+7. "Skilled journeyperson" means a worker who meets all of the following criteria:
+
+    a. The worker either graduated from an apprenticeship program for the applicable occupation that was approved by the Washington state apprenticeship and training council according to chapter 49.04 RCW, or has at least as many hours of on-the-job experience in the applicable occupation that would be required to graduate from an apprenticeship program approved by the Washington state apprenticeship and training council according to chapter 49.04 RCW; and
+
+    b. The worker is being paid at least a rate
+
+**consistent with the prevailing hourly wage rate for a worker in the applicable occupation and geographic area**.
+

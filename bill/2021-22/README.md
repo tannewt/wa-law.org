@@ -611,6 +611,156 @@
 * [HB 1722](hb/1722/) - Broadband deployment
 * [HB 1723](hb/1723/) - Telecommunications access
 * [HJM 4002](hjm/4002/) - Jones Act
+* [HB 1724](hb/1724/) - Supportive housing resources
+* [HB 1725](hb/1725/) - Missing indigenous persons
+* [HB 1726](hb/1726/) - Peace officers/use of force
+* [HB 1727](hb/1727/) - Odd-numbered year elections
+* [HB 1728](hb/1728/) - Insulin work group reauth.
+* [HB 1729](hb/1729/) - Blockchain work group
+* [HB 1730](hb/1730/) - Fertility services
+* [HB 1731](hb/1731/) - Autonomous vehicle testing
+* [HB 1732](hb/1732/) - Long-term care/delay
+* [HB 1733](hb/1733/) - Long-term care/exemptions
+* [HB 1734](hb/1734/) - Low-proof beverages/tax
+* [HB 1735](hb/1735/) - Peace officers/use of force
+* [HB 1736](hb/1736/) - State student loan program
+* [HB 1737](hb/1737/) - Public safety
+* [HB 1738](hb/1738/) - Housing finance comm'n debt
+* [HB 1739](hb/1739/) - Hospital policies/pathogens
+* [HB 1740](hb/1740/) - Broadband loans & grants
+* [HB 1741](hb/1741/) - Health provider contracting
+* [HB 1742](hb/1742/) - Long-term care program
+* [HB 1743](hb/1743/) - Dispo. of remains/indigent
+* [HB 1744](hb/1744/) - Cancer care collaboratives
+* [HB 1745](hb/1745/) - L&I penalty discretion
+* [HB 1746](hb/1746/) - Students/COVID-19 pandemic
+* [HB 1747](hb/1747/) - Child relative placements
+* [HB 1748](hb/1748/) - Human trafficking/ABD prog.
+* [HB 1749](hb/1749/) - Newborn screening
+* [HB 1750](hb/1750/) - Agricultural overtime
+* [HB 1751](hb/1751/) - Hazing prevention
+* [HB 1752](hb/1752/) - Deferred compensation/Roth
+* [HB 1753](hb/1753/) - Climate funding/tribes
+* [HB 1754](hb/1754/) - Prejudgment interest
+* [HB 1755](hb/1755/) - TANF time limit extensions
+* [HB 1756](hb/1756/) - Solitary confinement
+* [HB 1757](hb/1757/) - ESDs/PEBB health plans
+* [HB 1758](hb/1758/) - Hazing penalty
+* [HB 1759](hb/1759/) - School websites/drug info.
+* [HB 1760](hb/1760/) - Dual credit program access
+* [HB 1761](hb/1761/) - Opioid reversal by ED nurses
+* [HB 1762](hb/1762/) - Ed. service district funding
+* [HB 1763](hb/1763/) - Workers' comp. exam rights
+* [HB 1764](hb/1764/) - Physician bargaining
+* [HB 1765](hb/1765/) - Health benefit ex./B&O tax
+* [HB 1766](hb/1766/) - Gas companies
+* [HB 1767](hb/1767/) - Targeted electrification
+* [HB 1768](hb/1768/) - Energy conservation projects
+* [HB 1769](hb/1769/) - Community municipal corps
+* [HB 1770](hb/1770/) - Energy codes
+* [HB 1771](hb/1771/) - Child care bargaining
+* [HB 1772](hb/1772/) - Gubernatorial proclamations
+* [HB 1773](hb/1773/) - Assisted outpatient treat.
+* [HB 1774](hb/1774/) - Greenhouse gases/buildings
+* [HB 1775](hb/1775/) - Capital assistance/schools
+* [HB 1776](hb/1776/) - High-hazard facility wages
+* [HB 1777](hb/1777/) - Self-directed care
+* [HB 1778](hb/1778/) - Election security
+* [HB 1779](hb/1779/) - Surgical smoke
+* [HB 1780](hb/1780/) - Workforce investment board
+* [HB 1781](hb/1781/) - Capital budget, supplemental
+* [HB 1782](hb/1782/) - Middle housing near transit
+* [HB 1783](hb/1783/) - Freight transporters/L&I
+* [HB 1784](hb/1784/) - License plate visibility
+* [HB 1785](hb/1785/) - WSP minimum salary
+* [HB 1786](hb/1786/) - Transportation budget, supp.
+* [HB 1787](hb/1787/) - Law enf. officer funding
+* [HB 1788](hb/1788/) - Vehicular pursuits
+* [HB 1789](hb/1789/) - Adult family homes/prop. tax
+* [HB 1790](hb/1790/) - Temporary license plates
+* [HB 1791](hb/1791/) - Prof. educator reprimands
+* [HB 1792](hb/1792/) - Hydrogen
+* [HB 1793](hb/1793/) - Electric vehicles/HOAs
+* [HB 1794](hb/1794/) - Dishonored paycheck fees
+* [HB 1795](hb/1795/) - Nondisclosure/illegal acts
+* [HB 1796](hb/1796/) - Voter citizenship verif.
+* [HB 1797](hb/1797/) - Updated voter registrations
+* [HB 1798](hb/1798/) - LCEDIR/tourism slogan
+* [HB 1799](hb/1799/) - Organic materials management
+* [HB 1800](hb/1800/) - Behavioral health/minors
+* [HB 1801](hb/1801/) - Electronic equipment repair
+* [HB 1802](hb/1802/) - Disabilities/entity members
+* [HB 1803](hb/1803/) - School director compensation
+* [HB 1804](hb/1804/) - Military service credit
+* [HB 1805](hb/1805/) - Opportunity scholarship prog
+* [HB 1806](hb/1806/) - Legislature/bargaining
+* [HB 1807](hb/1807/) - Civic education
+* [HB 1808](hb/1808/) - Pupil transportation funding
+* [HB 1809](hb/1809/) - Health care marketplace
+* [HB 1810](hb/1810/) - Electronic products repair
+* [HB 1811](hb/1811/) - Fire benefit charges
+* [HB 1812](hb/1812/) - Energy facility site council
+* [HB 1813](hb/1813/) - Pharmacy choice
+* [HB 1814](hb/1814/) - Community solar projects
+* [HB 1815](hb/1815/) - Catalytic converter theft
+* [HB 1816](hb/1816/) - Operating budget, supp.
+* [HB 1817](hb/1817/) - Deferred prosecutions
+* [HB 1818](hb/1818/) - Promoting successful reentry and rehabilitation of persons convicted of criminal offenses.
+* [HB 1819](hb/1819/) - Property tax exemption
+* [HB 1820](hb/1820/) - Concerning economic development through advanced leadership security.
+* [HB 1821](hb/1821/) - Concerning the definition of established relationship for purposes of audio-only telemedicine.
+* [HB 1822](hb/1822/) - Puget Sound water quality
+* [HB 1823](hb/1823/) - Concerning environmental leadership through outdoor recreation and climate adaptation investments.
+* [HB 1824](hb/1824/) - Outdoor recreation fees
+* [HB 1825](hb/1825/) - Single judge courts
+* [HB 1826](hb/1826/) - Creating the crime of interfering with a firefighter or emergency medical services provider.
+* [HB 1827](hb/1827/) - Community reinvestment
+* [HB 1828](hb/1828/) - Ballot QR codes
+* [HB 1829](hb/1829/) - Creating the African American studies specialty endorsement.
+* [HB 1830](hb/1830/) - Reusable packing materials
+* [HB 1831](hb/1831/) - Electric vehicle equipment
+* [HB 1832](hb/1832/) - Concerning code city form of government elections and city manager appointment.
+* [HB 1833](hb/1833/) - Establishing an electronic option for the submission of household income information required for participation in school meals and programs.
+* [HB 1834](hb/1834/) - Concerning student excused absences for mental health reasons.
+* [HB 1835](hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment.
+* [HB 1836](hb/1836/) - Awarding academic scholarships to members of underprivileged or disadvantaged groups.
+* [HB 1837](hb/1837/) - Musculoskeletal injuries
+* [HB 1838](hb/1838/) - Salmon habitat
+* [HB 1839](hb/1839/) - Commercial vehicle parking
+* [HB 1840](hb/1840/) - Improving diversity, equity, and mental health at the community and technical colleges.
+* [HB 1841](hb/1841/) - Incentivizing rental of accessory dwelling units to low-income households.
+* [HB 1842](hb/1842/) - School board director qualif
+* [HB 1843](hb/1843/) - Concerning licensing requirements for child care centers and indoor early learning programs.
+* [HB 1844](hb/1844/) - Unlawful branding of person
+* [HB 1845](hb/1845/) - Body worn camera grants
+* [HB 1846](hb/1846/) - Data centers tax preference
+* [HB 1847](hb/1847/) - Farmworkers study
+* [HB 1848](hb/1848/) - Assisted reproduction fraud
+* [HB 1849](hb/1849/) - War on terror monument
+* [HB 1850](hb/1850/) - Data privacy
+* [HB 1851](hb/1851/) - Abortion care
+* [HB 1852](hb/1852/) - Prescription drug labels
+* [HB 1853](hb/1853/) - Cosmetic products/chemicals
+* [HB 1854](hb/1854/) - Hearing instruments coverage
+* [HB 1855](hb/1855/) - Craft cannabis endorsement
+* [HB 1856](hb/1856/) - Adding counties to the voluntary stewardship program.
+* [HB 1857](hb/1857/) - Making technical corrections and removing obsolete language from the Revised Code of Washington pursuant to RCW 1.08.025.
+* [HB 1858](hb/1858/) - Alleviating consumer inflation by leveraging the state's significant budget surplus to reduce taxes on producers of certain consumer staple goods.
+* [HB 1859](hb/1859/) - Concerning quality standards for laboratories conducting cannabis analysis.
+* [HB 1860](hb/1860/) - Preventing homelessness among persons discharging from inpatient behavioral health settings.
+* [HB 1861](hb/1861/) - Creating the Washington future fund trust fund program.
+* [HB 1862](hb/1862/) - Concerning facility fees charged by certain health care providers.
+* [HB 1863](hb/1863/) - Authorizing the prescriptive authority of psychologists.
+* [HB 1864](hb/1864/) - Concerning economic development through advanced technology leadership and security.
+* [HB 1865](hb/1865/) - Addressing the behavioral health workforce shortage and expanding access to peer services by creating the profession of certified peer specialists.
+* [HB 1866](hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing.
+* [HB 1867](hb/1867/) - Concerning dual credit program data.
+* [HB 1868](hb/1868/) - Improving worker safety and patient care in health care facilities by addressing staffing needs, overtime, meal and rest breaks, and enforcement.
+* [HB 1869](hb/1869/) - Encouraging salmon recovery through voluntary stewardship.
+* [HB 1870](hb/1870/) - Concerning certain wheeled all-terrain vehicles.
+* [HB 1871](hb/1871/) - Establishing a moratorium on the siting of alternative energy facilities through the energy facility site evaluation council process pending a comprehensive performance report on the effects of the energy independence act and the recommendations of a joint legislative committee.
+* [HCR 4405](hcr/4405/) - Bill status for 2022 session
+* [HCR 4406](hcr/4406/) - State of the state address
 
 ### H Filed Sec/St
 * [HCR 4400](hcr/4400/) - Legislature joint rules
@@ -1143,6 +1293,110 @@
 * [SB 5621](sb/5621/) - Concerning intergovernmental tax charges and conflict resolution regarding water and sewage facilities.
 * [SB 5622](sb/5622/) - Motorcycles on laned roads
 * [SB 5623](sb/5623/) - Credit history/insurance
+* [SB 5624](sb/5624/) - Livestock identification
+* [SB 5625](sb/5625/) - Abortion data collection
+* [SB 5626](sb/5626/) - Water system plans/climate
+* [SB 5627](sb/5627/) - Workers' comp. exam rights
+* [SB 5628](sb/5628/) - Cyber harassment
+* [SB 5629](sb/5629/) - Disposition of remains
+* [SB 5630](sb/5630/) - Early learning/basic ed.
+* [SB 5631](sb/5631/) - CDLs/human trafficking
+* [SB 5632](sb/5632/) - Water infra. projects
+* [SB 5633](sb/5633/) - Forest loss prevention
+* [SB 5634](sb/5634/) - UTC regulatory fees
+* [SB 5635](sb/5635/) - Tow truck safety
+* [SB 5636](sb/5636/) - Automatic voter registration
+* [SB 5637](sb/5637/) - Forest practices fees
+* [SB 5638](sb/5638/) - Mental health prof. licenses
+* [SB 5639](sb/5639/) - Solitary confinement
+* [SB 5640](sb/5640/) - Motion picture program/rural
+* [SB 5641](sb/5641/) - Greenhouses
+* [SB 5642](sb/5642/) - Affordable housing/REET
+* [SB 5643](sb/5643/) - Youth development programs
+* [SB 5644](sb/5644/) - Behavioral health coresponse
+* [SB 5645](sb/5645/) - Assisted outpatient treat.
+* [SB 5646](sb/5646/) - Corrections/body scanners
+* [SB 5647](sb/5647/) - Fertility services
+* [SB 5648](sb/5648/) - Accessory dwelling units
+* [SB 5649](sb/5649/) - Family and medical leave
+* [SB 5650](sb/5650/) - Elections law violation info
+* [SB 5651](sb/5651/) - Capital budget, supplemental
+* [SB 5652](sb/5652/) - LEOFF benefits
+* [SB 5653](sb/5653/) - Pesticide commission name
+* [SB 5654](sb/5654/) - Health benefit ex./B&O tax
+* [SB 5655](sb/5655/) - Making state hospitals available for short-term detention and involuntary commitment.
+* [SB 5656](sb/5656/) - Concerning fish and wildlife commission members.
+* [SB 5657](sb/5657/) - Concerning computer science instruction in state long-term juvenile institutions.
+* [SB 5658](sb/5658/) - Concerning the recyclability of products and packaging.
+* [SB 5659](sb/5659/) - Establishing climate and labor standards for building materials used in state public works projects.
+* [SB 5660](sb/5660/) - Psilocybin
+* [SB 5661](sb/5661/) - Concerning the appointment of fish and wildlife commission members.
+* [SB 5662](sb/5662/) - Concerning intergovernmental coordination to address transitioning persons encamped on state public rights-of-way to permanent housing solutions.
+* [SB 5663](sb/5663/) - Establishing streamlined procedures for compliance with the State v. Blake decision in order to improve criminal justice system coordination, create efficiencies, and reduce costs.
+* [SB 5664](sb/5664/) - Forensic competency programs
+* [SB 5665](sb/5665/) - Salmon habitat
+* [SB 5666](sb/5666/) - Targeted electrification
+* [SB 5667](sb/5667/) - Concerning the possession and use of forged and falsified COVID-19 vaccination documents.
+* [SB 5668](sb/5668/) - Gas companies
+* [SB 5669](sb/5669/) - Energy codes
+* [SB 5670](sb/5670/) - Middle housing near transit
+* [SB 5671](sb/5671/) - Modifying the composition of the Washington state liquor and cannabis board.
+* [SB 5672](sb/5672/) - Concerning long-term services and supports trust premium refunds for deceased individuals with developmentally disabled dependents.
+* [SB 5673](sb/5673/) - Bridge jumping signs
+* [SB 5674](sb/5674/) - Graduated reentry program
+* [SB 5675](sb/5675/) - Concerning permissible use of force by law enforcement and correctional officers.
+* [SB 5676](sb/5676/) - PERS/TRS 1 benefit increase
+* [SB 5677](sb/5677/) - Enhancing public trust and confidence in law enforcement and strengthening law enforcement accountability, by specifying required practices for complaints, investigations, discipline, and disciplinary appeals for serious misconduct.
+* [SB 5678](sb/5678/) - Concerning energy transformation, nonemitting electric generation, and renewable resource project analysis and declaratory orders.
+* [SB 5679](sb/5679/) - Elections/voter confidence
+* [SB 5680](sb/5680/) - Restoring the jobs and volunteer positions of individuals who were terminated from employment despite exercising their personal medical and religious rights.
+* [SB 5681](sb/5681/) - COVID-19 antibody tests
+* [SB 5682](sb/5682/) - COVID-19 vaccination choice
+* [SB 5683](sb/5683/) - Proof of vaccination
+* [SB 5684](sb/5684/) - DOC/terminal illnesses
+* [SB 5685](sb/5685/) - Urban growth area boundaries
+* [SB 5686](sb/5686/) - Improving department of corrections operations and oversight by transferring the office of corrections ombuds to the department of social and health services and designating public safety as the department of corrections highest duty.
+* [SB 5687](sb/5687/) - Traffic safety
+* [SB 5688](sb/5688/) - Health care marketplace
+* [SB 5689](sb/5689/) - Transportation budget, supp.
+* [SB 5690](sb/5690/) - Concerning firearms on the capitol campus for the sole purpose of organized memorial events.
+* [SB 5691](sb/5691/) - Increasing transparency and accountability regarding prosecutorial filing policies and practices.
+* [SB 5692](sb/5692/) - Concerning programming at the department of corrections.
+* [SB 5693](sb/5693/) - Operating budget, supp.
+* [SB 5694](sb/5694/) - Recognizing Indian tribes as among the governmental entities with which the department of corrections may enter into agreements on matters to include the housing of inmates convicted in tribal court.
+* [SB 5695](sb/5695/) - DOC body scanner pilot
+* [SB 5696](sb/5696/) - Capital gains tax/repeal
+* [SB 5697](sb/5697/) - Recycling system & waste
+* [SB 5698](sb/5698/) - Plan 1 retiree COLAs
+* [SB 5699](sb/5699/) - Cannabis analysis labs
+* [SB 5700](sb/5700/) - Concerning participation in insurance plans and contracts by separated plan 2 members of certain retirement systems.
+* [SB 5701](sb/5701/) - Workers' comp wages
+* [SB 5702](sb/5702/) - Donor breast milk coverage
+* [SB 5703](sb/5703/) - Cosmetic products/chemicals
+* [SB 5704](sb/5704/) - ARNP reimbursement rate
+* [SB 5705](sb/5705/) - SR 167 & I-405 tax deferral
+* [SB 5706](sb/5706/) - Community reinvestment
+* [SB 5707](sb/5707/) - Extending additional uses for automated traffic safety cameras for traffic congestion reduction and increased safety.
+* [SB 5708](sb/5708/) - Fur products
+* [SB 5709](sb/5709/) - Exclusionary evidence rule
+* [SB 5710](sb/5710/) - Toxicology lab contamination
+* [SB 5711](sb/5711/) - Concerning repealing an unconstitutional ban on contracting with private prisons in the state of Washington pursuant to the 9th circuit ruling in The Geo Group v. Newsom.
+* [SB 5712](sb/5712/) - Local taxing districts
+* [SB 5713](sb/5713/) - Limited equity coop. housing
+* [SB 5714](sb/5714/) - Solar canopies tax deferral
+* [SB 5715](sb/5715/) - Definition of broadband
+* [SB 5716](sb/5716/) - Requiring coverage for magnetic resonance imaging for women at high risk of developing breast cancer.
+* [SB 5717](sb/5717/) - Compost products
+* [SB 5718](sb/5718/) - Concerning insurance benefits for retired or disabled school employees.
+* [SB 5719](sb/5719/) - Dual credit costs
+* [SB 5720](sb/5720/) - Student financial literacy
+* [SB 5721](sb/5721/) - Natural resource management
+* [SB 5722](sb/5722/) - Greenhouse gases/buildings
+* [SB 5723](sb/5723/) - Diversity in clinical trials
+* [SB 5724](sb/5724/) - Organ transport vehicles
+* [SJR 8209](sjr/8209/) - Domestic violence/bail
+* [SJR 8210](sjr/8210/) - Natural resources
+* [SCR 8404](scr/8404/) - Cutoff dates
 
 ### S Filed Sec/St
 * [SCR 8401](scr/8401/) - Cutoff dates

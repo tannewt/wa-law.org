@@ -1,0 +1,216 @@
+# House Bill 1747
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1747.xml)
+## Section 1
+> This section modifies existing section [13.34.145](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
+
+1. The purpose of a permanency planning hearing is to review the permanency plan for the child, inquire into the welfare of the child and progress of the case, and reach decisions regarding the permanent placement of the child.
+
+    a. A permanency planning hearing shall be held in all cases where the child has remained in out-of-home care for at least nine months and an adoption decree, guardianship order, or permanent custody order has not previously been entered. The hearing shall take place no later than twelve months following commencement of the current placement episode.
+
+    b. Whenever a child is removed from the home of a dependency guardian or long-term relative or foster care provider, and the child is not returned to the home of the parent, guardian, or legal custodian but is placed in out-of-home care, a permanency planning hearing shall take place no later than twelve months, as provided in this section, following the date of removal unless, prior to the hearing, the child returns to the home of the dependency guardian or long-term care provider, the child is placed in the home of the parent, guardian, or legal custodian, an adoption decree, guardianship order, or a permanent custody order is entered, or the dependency is dismissed. Every effort shall be made to provide stability in long-term placement, and to avoid disruption of placement, unless the child is being returned home or it is in the best interest of the child.
+
+    c. Permanency planning goals should be achieved at the earliest possible date, preferably before the child has been in out-of-home care for fifteen months. In cases where parental rights have been terminated, the child is legally free for adoption, and adoption has been identified as the primary permanency planning goal, it shall be a goal to complete the adoption within six months following entry of the termination order.
+
+2. No later than ten working days prior to the permanency planning hearing, the agency having custody of the child shall submit a written permanency plan to the court and shall mail a copy of the plan to all parties and their legal counsel, if any.
+
+3. When the youth is at least age seventeen years but not older than seventeen years and six months, the department shall provide the youth with written documentation which explains the availability of extended foster care services and detailed instructions regarding how the youth may access such services after he or she reaches age eighteen years.
+
+4. At the permanency planning hearing, the court shall conduct the following inquiry:
+
+    a. If a goal of long-term foster or relative care has been achieved prior to the permanency planning hearing, the court shall review the child's status to determine whether the placement and the plan for the child's care remain appropriate. The court shall find, as of the date of the hearing, that the child's placement and plan of care is the best permanency plan for the child and provide compelling reasons why it continues to not be in the child's best interest to (i) return home; (ii) be placed for adoption; (iii) be placed with a legal guardian; or (iv) be placed with a fit and willing relative. If the child is present at the hearing, the court should ask the child about his or her desired permanency outcome.
+
+    b. In cases where the primary permanency planning goal has not been achieved, the court shall inquire regarding the reasons why the primary goal has not been achieved and determine what needs to be done to make it possible to achieve the primary goal. The court shall review the permanency plan prepared by the agency and make explicit findings regarding each of the following:
+
+        i. The continuing necessity for, and the safety and appropriateness of, the placement;
+
+        ii. The extent of compliance with the permanency plan by the department and any other service providers, the child's parents, the child, and the child's guardian, if any;
+
+        iii. The extent of any efforts to involve appropriate service providers in addition to department staff in planning to meet the special needs of the child and the child's parents;
+
+        iv. The progress toward eliminating the causes for the child's placement outside of his or her home and toward returning the child safely to his or her home or obtaining a permanent placement for the child;
+
+    v. The date by which it is likely that the child will be returned to his or her home or placed for adoption, with a guardian or in some other alternative permanent placement; and
+
+    vi. If the child has been placed outside of his or her home for fifteen of the most recent twenty-two months, not including any period during which the child was a runaway from the out-of-home placement or the first six months of any period during which the child was returned to his or her home for a trial home visit, the appropriateness of the permanency plan, whether reasonable efforts were made by the department to achieve the goal of the permanency plan, and the circumstances which prevent the child from any of the following:
+
+(A) Being returned safely to his or her home;
+
+(B) Having a petition for the involuntary termination of parental rights filed on behalf of the child;
+
+(C) Being placed for adoption;
+
+(D) Being placed with a guardian;
+
+(E) Being placed in the home of a fit and willing relative of the child; or
+
+(F) Being placed in some other alternative permanent placement, including independent living or long-term foster care.
+
+    c. Regardless of whether the primary permanency planning goal has been achieved, for a child who remains placed in a qualified residential treatment program as defined in this chapter for at least sixty days, and remains placed there at subsequent permanency planning hearings, the court shall establish in writing:
+
+        i. Whether ongoing assessment of the child's strengths and needs continues to support the determination that the child's needs cannot be met through placement in a foster family home;
+
+        ii. Whether the child's placement provides the most effective and appropriate level of care in the least restrictive environment;
+
+        iii. Whether the placement is consistent with the child's short and long-term goals as stated in the child's permanency plan;
+
+        iv. What specific treatment or service needs will be met in the placement, and how long the child is expected to need the treatment or services; and
+
+    v. What efforts the department has made to prepare the child to return home or be placed with a fit and willing relative as defined in RCW 13.34.030, a Title 13 RCW guardian, a guardian pursuant to RCW 11.130.215, an adoptive parent, or in a foster family home.
+
+5. Following this inquiry, at the permanency planning hearing, the court shall order the department to file a petition seeking termination of parental rights if the child has been in out-of-home care for fifteen of the last twenty-two months since the date the dependency petition was filed unless the court makes a good cause exception as to why the filing of a termination of parental rights petition is not appropriate. Any good cause finding shall be reviewed at all subsequent hearings pertaining to the child.
+
+    a. For purposes of this subsection, "good cause exception" includes but is not limited to the following:
+
+        i. The child is being cared for by a relative;
+
+        ii. The department has not provided to the child's family such services as the court and the department have deemed necessary for the child's safe return home;
+
+        iii. The department has documented in the case plan a compelling reason for determining that filing a petition to terminate parental rights would not be in the child's best interests;
+
+        iv. The parent is incarcerated, or the parent's prior incarceration is a significant factor in why the child has been in foster care for fifteen of the last twenty-two months, the parent maintains a meaningful role in the child's life, and the department has not documented another reason why it would be otherwise appropriate to file a petition pursuant to this section;
+
+    v. Where a parent has been accepted into a dependency treatment court program or long-term substance abuse or dual diagnoses treatment program and is demonstrating compliance with treatment goals;
+
+    vi. Where a parent who has been court ordered to complete services necessary for the child's safe return home files a declaration under penalty of perjury stating the parent's financial inability to pay for the same court-ordered services, and also declares the department was unwilling or unable to pay for the same services necessary for the child's safe return home**; or**
+
+    vii. **The department has not yet met with the caregiver for the child to discuss guardianship as an alternative to adoption or the court has determined that guardianship is an appropriate permanent plan**.
+
+    b. The court's assessment of whether a parent who is incarcerated maintains a meaningful role in the child's life may include consideration of the following:
+
+        i. The parent's expressions or acts of manifesting concern for the child, such as letters, telephone calls, visits, and other forms of communication with the child;
+
+        ii. The parent's efforts to communicate and work with the department or other individuals for the purpose of complying with the service plan and repairing, maintaining, or building the parent‑child relationship;
+
+        iii. A positive response by the parent to the reasonable efforts of the department;
+
+        iv. Information provided by individuals or agencies in a reasonable position to assist the court in making this assessment, including but not limited to the parent's attorney, correctional and mental health personnel, or other individuals providing services to the parent;
+
+    v. Limitations in the parent's access to family support programs, therapeutic services, and visiting opportunities, restrictions to telephone and mail services, inability to participate in foster care planning meetings, and difficulty accessing lawyers and participating meaningfully in court proceedings; and
+
+    vi. Whether the continued involvement of the parent in the child's life is in the child's best interest.
+
+    c. The constraints of a parent's current or prior incarceration and associated delays or barriers to accessing court‑mandated services may be considered in rebuttal to a claim of aggravated circumstances under RCW 13.34.132(4)(h) for a parent's failure to complete available treatment.
+
+6. [Empty]
+
+    a. If the permanency plan identifies independent living as a goal, the court at the permanency planning hearing shall make a finding that the provision of services to assist the child in making a transition from foster care to independent living will allow the child to manage his or her financial, personal, social, educational, and nonfinancial affairs prior to approving independent living as a permanency plan of care. The court will inquire whether the child has been provided information about extended foster care services.
+
+    b. The permanency plan shall also specifically identify the services, including extended foster care services, where appropriate, that will be provided to assist the child to make a successful transition from foster care to independent living.
+
+    c. The department shall not discharge a child to an independent living situation before the child is eighteen years of age unless the child becomes emancipated pursuant to chapter 13.64 RCW.
+
+7. If the child has resided in the home of a foster parent or relative for more than six months prior to the permanency planning hearing, the court shall:
+
+    a. Enter a finding regarding whether the foster parent or relative was informed of the hearing as required in RCW 74.13.280, 13.34.215(6), and 13.34.096; and
+
+    b. **Instruct the department to discuss guardianship as a permanent option for the child with the child's parents and caregiver as an alternative to termination of parental rights and adoption. No child who is placed with a relative or other suitable person may be moved, unless, pursuant to the criteria established in RCW 13.34.130, the court finds that a change in circumstances necessitates a change in placement.**
+
+8. In all cases, at the permanency planning hearing, the court shall:
+
+    a. [Empty]
+
+        i. Order the permanency plan prepared by the department to be implemented; or
+
+        ii. Modify the permanency plan, and order implementation of the modified plan; and
+
+    b. [Empty]
+
+        i. Order the child returned home only if the court finds that a reason for removal as set forth in RCW 13.34.130 no longer exists; or
+
+        ii. Order the child to remain in out-of-home care for a limited specified time period while efforts are made to implement the permanency plan.
+
+9. Following the first permanency planning hearing, the court shall hold a further permanency planning hearing in accordance with this section at least once every twelve months until a permanency planning goal is achieved or the dependency is dismissed, whichever occurs first.
+
+10. Prior to the second permanency planning hearing, the agency that has custody of the child shall consider whether to file a petition for termination of parental rights.
+
+11. If the court orders the child returned home, casework supervision by the department shall continue for at least six months, at which time a review hearing shall be held pursuant to RCW 13.34.138, and the court shall determine the need for continued intervention.
+
+12. The juvenile court may hear a petition for permanent legal custody when: (a) The court has ordered implementation of a permanency plan that includes permanent legal custody; and (b) the party pursuing the permanent legal custody is the party identified in the permanency plan as the prospective legal custodian. During the pendency of such proceeding, the court shall conduct review hearings and further permanency planning hearings as provided in this chapter. At the conclusion of the legal guardianship or permanent legal custody proceeding, a juvenile court hearing shall be held for the purpose of determining whether dependency should be dismissed. If a guardianship or permanent custody order has been entered, the dependency shall be dismissed.
+
+13. Continued juvenile court jurisdiction under this chapter shall not be a barrier to the entry of an order establishing a legal guardianship or permanent legal custody when the requirements of subsection (12) of this section are met.
+
+14. Nothing in this chapter may be construed to limit the ability of the agency that has custody of the child to file  a guardianship petition at any time following the establishment of dependency. **The department shall not file a petition for termination of parental rights when the court has entered a finding of good cause that a termination of parental rights petition is not appropriate under subsection (5) of this section.**
+
+15. The approval of a permanency plan that does not contemplate return of the child to the parent does not relieve the department of its obligation to provide reasonable services, under this chapter, intended to effectuate the return of the child to the parent, including but not limited to, visitation rights. The court shall consider the child's relationships with siblings in accordance with RCW 13.34.130.
+
+16. Nothing in this chapter may be construed to limit the procedural due process rights of any party in a termination or guardianship proceeding filed under this chapter.
+
+
+## Section 2
+> This section modifies existing section [13.34.180](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
+
+1. A petition seeking termination of a parent and child relationship may be filed in juvenile court by any party to the dependency proceedings concerning that child. Such petition shall conform to the requirements of RCW 13.34.040, shall be served upon the parties as provided in RCW 13.34.070(8), and shall allege all of the following unless subsection (3) or (4) of this section applies:
+
+    a. That the child has been found to be a dependent child;
+
+    b. That the court has entered a dispositional order pursuant to RCW 13.34.130;
+
+    c. That the child has been removed or will, at the time of the hearing, have been removed from the custody of the parent for a period of at least six months pursuant to a finding of dependency;
+
+    d. That the services ordered under RCW 13.34.136 have been expressly and understandably offered or provided and all necessary services, reasonably available, capable of correcting the parental deficiencies within the foreseeable future have been expressly and understandably offered or provided;
+
+    e. That there is little likelihood that conditions will be remedied so that the child can be returned to the parent in the near future. A parent's failure to substantially improve parental deficiencies within twelve months following entry of the dispositional order shall give rise to a rebuttable presumption that there is little likelihood that conditions will be remedied so that the child can be returned to the parent in the near future. The presumption shall not arise unless the petitioner makes a showing that all necessary services reasonably capable of correcting the parental deficiencies within the foreseeable future have been clearly offered or provided. In determining whether the conditions will be remedied the court may consider, but is not limited to, the following factors:
+
+        i. Use of intoxicating or controlled substances so as to render the parent incapable of providing proper care for the child for extended periods of time or for periods of time that present a risk of imminent harm to the child, and documented unwillingness of the parent to receive and complete treatment or documented multiple failed treatment attempts;
+
+        ii. Psychological incapacity or mental deficiency of the parent that is so severe and chronic as to render the parent incapable of providing proper care for the child for extended periods of time or for periods of time that present a risk of imminent harm to the child, and documented unwillingness of the parent to receive and complete treatment or documentation that there is no treatment that can render the parent capable of providing proper care for the child in the near future; or
+
+        iii. Failure of the parent to have contact with the child for an extended period of time after the filing of the dependency petition if the parent was provided an opportunity to have a relationship with the child by the department or the court and received documented notice of the potential consequences of this failure, except that the actual inability of a parent to have visitation with the child including, but not limited to, mitigating circumstances such as a parent's current or prior incarceration or service in the military does not in and of itself constitute failure to have contact with the child; and
+
+    f. That continuation of the parent and child relationship clearly diminishes the child's prospects for early integration into a stable and permanent home. **The petitioner must demonstrate that a guardianship is not sufficient to protect the health, safety, and welfare of the child.** If the parent is incarcerated, the court shall consider whether a parent maintains a meaningful role in his or her child's life based on factors identified in RCW 13.34.145(5)(b); whether the department made reasonable efforts as defined in this chapter; and whether particular barriers existed as described in RCW 13.34.145(5)(b) including, but not limited to, delays or barriers experienced in keeping the agency apprised of his or her location and in accessing visitation or other meaningful contact with the child.
+
+2. As evidence of rebuttal to any presumption established pursuant to subsection (1)(e) of this section, the court may consider the particular constraints of a parent's current or prior incarceration. Such evidence may include, but is not limited to, delays or barriers a parent may experience in keeping the agency apprised of his or her location and in accessing visitation or other meaningful contact with the child.
+
+3. In lieu of the allegations in subsection (1) of this section, the petition may allege that the child was found under such circumstances that the whereabouts of the child's parent are unknown and no person has acknowledged paternity or maternity and requested custody of the child within two months after the child was found.
+
+4. In lieu of the allegations in subsection (1)(b) through (f) of this section, the petition may allege that the parent has been convicted of:
+
+    a. Murder in the first degree, murder in the second degree, or homicide by abuse as defined in chapter 9A.32 RCW against another child of the parent;
+
+    b. Manslaughter in the first degree or manslaughter in the second degree, as defined in chapter 9A.32 RCW against another child of the parent;
+
+    c. Attempting, conspiring, or soliciting another to commit one or more of the crimes listed in (a) or (b) of this subsection; or
+
+    d. Assault in the first or second degree, as defined in chapter 9A.36 RCW, against the surviving child or another child of the parent.
+
+5. When a parent has been sentenced to a long-term incarceration and has maintained a meaningful role in the child's life considering the factors provided in RCW 13.34.145(5)(b), and it is in the best interest of the child, the department should consider a permanent placement that allows the parent to maintain a relationship with his or her child, such as, but not limited to, a guardianship pursuant to chapter 13.36 RCW.
+
+6. Notice of rights shall be served upon the parent, guardian, or legal custodian with the petition and shall be in substantially the following form:
+
+"NOTICE
+
+A petition for termination of parental rights has been filed against you. You have important legal rights and you must take steps to protect your interests. This petition could result in permanent loss of your parental rights.
+
+1. You have the right to a fact-finding hearing before a judge.
+
+2. You have the right to have a lawyer represent you at the hearing. A lawyer can look at the files in your case, talk to the department of children, youth, and families or other agencies, tell you about the law, help you understand your rights, and help you at hearings. If you cannot afford a lawyer, the court will appoint one to represent you. To get a court-appointed lawyer you must contact: .
+
+3. At the hearing, you have the right to speak on your own behalf, to introduce evidence, to examine witnesses, and to receive a decision based solely on the evidence presented to the judge.
+
+You should be present at this hearing.
+
+You may call  for more information about your child. The agency's name and telephone number are ."
+
+
+## Section 3
+> This section modifies existing section [13.34.210](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
+
+If, upon entering an order terminating the parental rights of a parent, there remains no parent having parental rights, the court shall commit the child to the custody of the department willing to accept custody **of the child to take further action consistent with this chapter**. The custodian shall have authority to consent to the adoption of the child consistent with chapter 26.33 RCW, the marriage of the child, the enlistment of the child in the armed forces of the United States, necessary surgical and other medical treatment for the child, and to consent to such other matters as might normally be required of the parent of the child.
+
+If a child has not been adopted within six months after the date of the order and a guardianship of the child under chapter 13.36 RCW or a guardianship of a minor under RCW 11.130.215 has not been entered by the court, the court shall review the case every six months until a decree of adoption is entered. The department shall take reasonable steps to ensure that the child maintains relationships with siblings as provided in RCW 13.34.130(7) and shall report to the court the status and extent of such relationships.
+
+
+## Section 4
+> This section modifies existing section [74.13.062](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
+
+1. The department shall adopt rules consistent with federal regulations for the receipt and expenditure of federal funds and implement a subsidy program for eligible relatives appointed by the court as a guardian under RCW 13.36.050 **or as a guardian of a minor under RCW 11.130.215**.
+
+2. For the purpose of licensing a relative seeking to be appointed as a guardian and eligible for a guardianship subsidy under this section, the department shall, on a case-by-case basis, and when determined to be in the best interests of the child:
+
+    a. Waive nonsafety licensing standards; and
+
+    b. Apply the list of disqualifying crimes in the adoption and safe families act, unless doing so would compromise the child's safety, or would adversely affect the state's ability to continue to obtain federal funding for child welfare related functions.
+
+3. Relative guardianship subsidy agreements shall be designed to promote long-term permanency for the child, and may include provisions for periodic review of the subsidy amount and the needs of the child.
+

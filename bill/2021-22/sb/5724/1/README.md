@@ -1,0 +1,292 @@
+# Senate Bill 5724
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5724.xml)
+## Section 1
+> This section adds a new section to an existing chapter [46.04](/rcw/46_motor_vehicles/46.04_definitions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.04_definitions.md) for context.
+
+"Organ transport vehicle" means any vehicle operated or contracted by an organ procurement organization as defined in RCW 68.64.010, and clearly and identifiably marked as such on all sides of the vehicle.
+
+
+## Section 2
+> This section modifies existing section [68.64.010](/rcw/68_cemeteries_morgues_and_human_remains/68.64_uniform_anatomical_gift_act.md). Here is the [modified chapter](rcw/68_cemeteries_morgues_and_human_remains/68.64_uniform_anatomical_gift_act.md) for context.
+
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Adult" means an individual who is at least eighteen years old.
+
+2. "Agent" means an individual:
+
+    a. Authorized to make health care decisions on the principal's behalf by a power of attorney for health care; or
+
+    b. Expressly authorized to make an anatomical gift on the principal's behalf by any other record signed by the principal.
+
+3. "Anatomical gift" means a donation of all or part of a human body to take effect after the donor's death for the purpose of transplantation, therapy, research, or education.
+
+4. "Decedent" means a deceased individual whose body or part is or may be the source of an anatomical gift.
+
+5. "Disinterested witness" means a witness other than the spouse or state registered domestic partner, child, parent, sibling, grandchild, grandparent, or guardian of the individual who makes, amends, revokes, or refuses to make an anatomical gift. The term does not include a person to which an anatomical gift could pass under RCW 68.64.100.
+
+6. "Document of gift" means a donor card or other record used to make an anatomical gift. The term includes a statement or symbol on a driver's license, identification card, or donor registry.
+
+7. "Donor" means an individual whose body or part is the subject of an anatomical gift.
+
+8. "Donor registry" means a database that contains records of anatomical gifts and amendments to or revocations of anatomical gifts.
+
+9. "Driver's license" means a license or permit issued by the department of licensing to operate a vehicle, whether or not conditions are attached to the license or permit.
+
+10. "Eye bank" means a person that is licensed, accredited, or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage, or distribution of human eyes or portions of human eyes.
+
+11. "Guardian" means a person appointed by a court to make decisions regarding the support, care, education, health, or welfare of an individual. The term does not include a guardian ad litem.
+
+12. "Hospital" means a facility licensed as a hospital under the law of any state or a facility operated as a hospital by the United States, a state, or a subdivision of a state.
+
+13. "Identification card" means an identification card issued by the department of licensing.
+
+14. "Know" means to have actual knowledge.
+
+15. "Minor" means an individual who is less than eighteen years old.
+
+16. "Organ procurement organization" means a person designated by the secretary of the United States department of health and human services as an organ procurement organization.
+
+17. "Parent" means a parent whose parental rights have not been terminated.
+
+18. "Part" means an organ, an eye, or tissue of a human being. The term does not include the whole body.
+
+19. "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+
+20. "Physician" means an individual licensed or otherwise authorized to practice medicine and surgery or osteopathic medicine and surgery under the law of any state.
+
+21. "Procurement organization" means an eye bank, organ procurement organization, or tissue bank.
+
+22. "Prospective donor" means an individual whose death is imminent and has been determined by a procurement organization to have a part that could be medically suitable for transplantation, therapy, research, or education. "Prospective donor" does not include an individual who has made a refusal.
+
+23. "Reasonable costs" include: (a) Programming and software installation and upgrades; (b) employee training that is specific to the organ and tissue donor registry or the donation program created in RCW 46.16A.090(2); (c) literature that is specific to the organ and tissue donor registry or the donation program created in RCW 46.16A.090(2); and (d) hardware upgrades or other issues important to the organ and tissue donor registry or the donation program created in RCW 46.16A.090(2) that have been mutually agreed upon in advance by the department of licensing and the Washington state organ procurement organizations.
+
+24. "Reasonably available" means able to be contacted by a procurement organization without undue effort and willing and able to act in a timely manner consistent with existing medical criteria necessary for the making of an anatomical gift.
+
+25. "Recipient" means an individual into whose body a decedent's part has been or is intended to be transplanted.
+
+26. "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+27. "Refusal" means a record created under RCW 68.64.060 that expressly states an intent to bar other persons from making an anatomical gift of an individual's body or part.
+
+28. "Sign" means, with the present intent to authenticate or adopt a record:
+
+    a. To execute or adopt a tangible symbol; or
+
+    b. To attach to or logically associate with the record an electronic symbol, sound, or process.
+
+29. "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+
+30. "Technician" means an individual determined to be qualified to remove or process parts by an appropriate organization that is licensed, accredited, or regulated under federal or state law. The term includes an enucleator.
+
+31. **"Time urgent organ" means an organ being transported for human transplant that a member of the transplant team or a representative of the organ procurement organization declares an emergency.**
+
+32. "Tissue" means a portion of the human body other than an organ or an eye. The term does not include blood unless the blood is donated for the purpose of research or education.
+
+33. "Tissue bank" means a person that is licensed to conduct business in this state, accredited, and regulated under federal or state law to engage in the recovery, screening, testing, processing, storage, or distribution of tissue.
+
+34. "Transplant hospital" means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients.
+
+35. "Washington state organ procurement organization" means an organ procurement organization that has been designated by the United States department of health and human services to coordinate organ procurement activities for any portion of Washington state.
+
+
+## Section 3
+> This section modifies existing section [46.37.190](/rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md) for context.
+
+1. Every authorized emergency vehicle **and organ transport vehicle** shall, in addition to any other equipment and distinctive marking required by this chapter, be equipped with at least one lamp capable of displaying a red light visible from at least **500** feet in normal sunlight and a siren capable of giving an audible signal.
+
+2. Every school bus and private carrier bus shall, in addition to any other equipment and distinctive markings required by this chapter, be equipped with a "stop" signal upon a background not less than **14** by **18** inches displaying the word "stop" in letters of distinctly contrasting colors not less than five and nine-tenths inches high, and shall further be equipped with signal lamps mounted as high and as widely spaced laterally as practicable, which shall be capable of displaying to the front two alternately flashing red lights located at the same level and to the rear two alternately flashing red lights located at the same level and these lights shall have sufficient intensity to be visible at five hundred feet in normal sunlight.
+
+3. Vehicles operated by public agencies whose law enforcement duties include the authority to stop and detain motor vehicles on the public highways of the state may be equipped with a siren and lights of a color and type designated by the state patrol for that purpose. The state patrol may prohibit the use of these sirens and lights on vehicles other than the vehicles described in this subsection.
+
+4. The lights described in this section shall not be mounted nor used on any vehicle other than a school bus, a private carrier bus,  an authorized emergency or law enforcement vehicle**, or an organ transport vehicle**.
+
+5. The use of the signal equipment described in this section and RCW 46.37.670, except the signal preemption devices used by public transit vehicles and department of transportation, city, or county maintenance vehicles that are not used in conjunction with emergency equipment, shall impose upon drivers of other vehicles the obligation to yield right-of-way and stop as prescribed in RCW 46.61.210, 46.61.370, and 46.61.350.
+
+
+## Section 4
+> This section modifies existing section [46.37.380](/rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md) for context.
+
+1. Every motor vehicle when operated upon a highway shall be equipped with a horn in good working order and capable of emitting sound audible under normal conditions from a distance of not less than two hundred feet, but no horn or other warning device may emit an unreasonably loud or harsh sound or a whistle. The driver of a motor vehicle shall when reasonably necessary to insure safe operation give audible warning with his or her horn but shall not otherwise use such horn when upon a highway.
+
+2. No vehicle may be equipped with nor may any person use upon a vehicle any siren, whistle, or bell, except as otherwise permitted in this section.
+
+3. It is permissible for any vehicle to be equipped with a theft alarm signal device so long as it is so arranged that it cannot be used by the driver as an ordinary warning signal. Such a theft alarm signal device may use a whistle, bell, horn, or other audible signal but shall not use a siren.
+
+4. Any authorized emergency vehicle may be equipped with a siren, whistle, or bell capable of emitting sound audible under normal conditions from a distance of not less than **500** feet and of a type conforming to rules adopted by the state patrol, but the siren shall not be used except when the vehicle is operated in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law, in which latter events the driver of the vehicle shall sound the siren when reasonably necessary to warn pedestrians and other drivers of its approach.
+
+5. **Any organ transport vehicle may be equipped with a siren, whistle, or bell capable of emitting sound audible under normal conditions from a distance of not less than 500 feet and of a type conforming to rules adopted by the state patrol, but the siren shall not be used except when the vehicle is transporting a time urgent organ as defined in RCW 68.64.010, in which case the driver of the vehicle shall sound the siren when reasonably necessary to warn pedestrians and other drivers of its approach.**
+
+
+## Section 5
+> This section modifies existing section [46.37.670](/rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md) for context.
+
+1. Signal preemption devices shall not be installed or used on or with any vehicle other than an emergency vehicle authorized by the state patrol, **an organ transport vehicle,** a publicly owned law enforcement or emergency vehicle, a department of transportation, city, or county maintenance vehicle, or a public transit vehicle.
+
+2. This section does not apply to any of the following:
+
+    a. A law enforcement agency and law enforcement personnel in the course of providing law enforcement services;
+
+    b. A fire station or a firefighter in the course of providing fire prevention or fire extinguishing services;
+
+    c. An emergency medical service or ambulance in the course of providing emergency medical transportation or ambulance services;
+
+    d. An operator, passenger, or owner of an authorized emergency vehicle in the course of his or her emergency duties;
+
+    e. **A driver of an organ transport vehicle when a vehicle is transporting a time urgent organ as defined in RCW 68.64.010;**
+
+    f. Department of transportation, city, or county maintenance personnel while performing maintenance;
+
+    g. Public transit personnel in the performance of their duties. However, public transit personnel operating a signal preemption device shall have second degree priority to law enforcement personnel, firefighters, emergency medical personnel, and other authorized emergency vehicle personnel, when simultaneously approaching the same traffic control signal;
+
+    h. A mail or package delivery service or employee or agent of a mail or package delivery service in the course of shipping or delivering a signal preemption device;
+
+    i. An employee or agent of a signal preemption device manufacturer or retailer in the course of his or her employment in providing, selling, manufacturing, or transporting a signal preemption device to an individual or agency described in this subsection.
+
+
+## Section 6
+> This section modifies existing section [46.61.210](/rcw/46_motor_vehicles/46.61_rules_of_the_road.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.61_rules_of_the_road.md) for context.
+
+1. Upon the immediate approach of an authorized emergency vehicle**, or organ transport vehicle transporting a time urgent organ as defined in RCW 68.64.010,** making use of audible and visual signals meeting the requirements of RCW 46.37.190, or of a police vehicle properly and lawfully making use of an audible signal only the driver of every other vehicle shall yield the right-of-way and shall immediately drive to a position parallel to, and as close as possible to, the right-hand edge or curb of the roadway clear of any intersection and shall stop and remain in such position until the authorized emergency vehicle **or organ transport vehicle** has passed, except when otherwise directed by a police officer.
+
+2. This section shall not operate to relieve the driver of an authorized emergency vehicle **or organ transport vehicle** from the duty to drive with due regard for the safety of all persons using the highway. **To the greatest extent practicable, organ procurement organizations as defined in RCW 68.64.010 shall notify the state patrol when an organ transport vehicle is operating under the provisions of this section.**
+
+
+## Section 7
+> This section modifies existing section [46.61.165](/rcw/46_motor_vehicles/46.61_rules_of_the_road.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.61_rules_of_the_road.md) for context.
+
+1. The state department of transportation and the local authorities are authorized to reserve all or any portion of any highway under their respective jurisdictions, including any designated lane or ramp, for the exclusive or preferential use of one or more of the following: (a) Public transportation vehicles; (b) motorcycles; (c) private motor vehicles carrying no fewer than a specified number of passengers;  (d) **nonurgent organ transport vehicles operated or contracted by a Washington state organ procurement organization; or** (e) the following private transportation provider vehicles if the vehicle has the capacity to carry eight or more passengers, regardless of the number of passengers in the vehicle, and if such use does not interfere with the efficiency, reliability, and safety of public transportation operations: (i) Auto transportation company vehicles regulated under chapter 81.68 RCW; (ii) passenger charter carrier vehicles regulated under chapter 81.70 RCW, except marked or unmarked stretch limousines and stretch sport utility vehicles as defined under department of licensing rules; (iii) private nonprofit transportation provider vehicles regulated under chapter 81.66 RCW; and (iv) private employer transportation service vehicles, when such limitation will increase the efficient utilization of the highway or will aid in the conservation of energy resources.
+
+2. Any transit-only lanes that allow other vehicles to access abutting businesses that are authorized pursuant to subsection (1) of this section may not be authorized for the use of private transportation provider vehicles as described under subsection (1) of this section.
+
+3. The state department of transportation and the local authorities authorized to reserve all or any portion of any highway under their respective jurisdictions, for exclusive or preferential use, may prohibit the use of a high occupancy vehicle lane by the following private transportation provider vehicles: (a) Auto transportation company vehicles regulated under chapter 81.68 RCW; (b) passenger charter carrier vehicles regulated under chapter 81.70 RCW, and marked or unmarked limousines and stretch sport utility vehicles as defined under department of licensing rules; (c) private nonprofit transportation provider vehicles regulated under chapter 81.66 RCW; and (d) private employer transportation service vehicles, when the average transit speed in the high occupancy vehicle lane fails to meet department of transportation standards and falls below **45** miles per hour at least **90** percent of the time during the peak hours, as determined by the department of transportation or the local authority, whichever operates the facility.
+
+4. Regulations authorizing such exclusive or preferential use of a highway facility may be declared to be effective at all times or at specified times of day or on specified days. Violation of a restriction of highway usage prescribed by the appropriate authority under this section is a traffic infraction. A person who commits a traffic infraction under this section is also subject to additional monetary penalties as defined in this subsection. The additional monetary penalties are separate from the base penalty, fees, and assessments issued for the traffic infraction and are intended to raise awareness, and improve the efficiency, of the high occupancy vehicle lane system.
+
+    a. Whenever a person commits a traffic infraction under this section, an additional monetary penalty of **$50** must be collected, and, in the case that a person has already committed a violation under this section within two years of committing this violation, then an additional **$150** must be collected.
+
+    b. Any time a person commits a traffic infraction under this section and is using a dummy, doll, or other human facsimile to make it appear that an additional person is in the vehicle, the person must be assessed a **$200** penalty, which is in addition to the penalties in (a) of this subsection.
+
+    c. The monetary penalties under (a) and (b) of this subsection are additional, separate, and distinct penalties from the base penalty and are not subject to fees or assessments specified in RCW 46.63.110, 3.62.090, and 2.68.040.
+
+    d. [Empty]
+
+        i. The additional penalties collected under (a) of this subsection must be distributed as follows:
+
+(A) Twenty-five percent must be deposited into the congestion relief and traffic safety account created under RCW 46.68.398; and
+
+(B) Seventy-five percent must be deposited into the motor vehicle fund created under RCW 46.68.070.
+
+        ii. The additional penalty collected under (b) of this subsection must be deposited into the congestion relief and traffic safety account created under RCW 46.68.398.
+
+    e. Violations committed under this section are excluded from eligibility as a moving violation for driver's license suspension under RCW 46.20.289 when a person subsequently fails to respond to a notice of traffic infraction for this moving violation, fails to appear at a requested hearing for this moving violation, violates a written promise to appear in court for a notice of infraction for this moving violation, or fails to comply with the terms of a notice of traffic infraction for this moving violation.
+
+5. Local authorities are encouraged to establish a process for private transportation providers, as described under subsections (1) and (3) of this section, to apply for the use of public transportation facilities reserved for the exclusive or preferential use of public transportation vehicles. The application and review processes should be uniform and should provide for an expeditious response by the local authority. Whenever practicable, local authorities should enter into agreements with such private transportation providers to allow for the reasonable use of these facilities.
+
+6. For the purposes of this section, "private employer transportation service" means regularly scheduled, fixed-route transportation service that is similarly marked or identified to display the business name or logo on the driver and passenger sides of the vehicle, meets the annual certification requirements of the department of transportation, and is offered by an employer for the benefit of its employees.
+
+
+## Section 8
+> This section modifies existing section [47.52.025](/rcw/47_public_highways_and_transportation/47.52_limited_access_facilities.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.52_limited_access_facilities.md) for context.
+
+1. Highway authorities of the state, counties, and incorporated cities and towns, in addition to the specific powers granted in this chapter, shall also have, and may exercise, relative to limited access facilities, any and all additional authority, now or hereafter vested in them relative to highways or streets within their respective jurisdictions, and may regulate, restrict, or prohibit the use of such limited access facilities by various classes of vehicles or traffic. Such highway authorities may reserve any limited access facility or portions thereof, including designated lanes or ramps for the exclusive or preferential use of (a) public transportation vehicles, (b) privately owned buses, (c) motorcycles, (d) private motor vehicles carrying not less than a specified number of passengers,  (e) **organ transport vehicles, or (f)** the following private transportation provider vehicles if the vehicle has the capacity to carry eight or more passengers, regardless of the number of passengers in the vehicle, and if such use does not interfere with the efficiency, reliability, and safety of public transportation operations: (i) Auto transportation company vehicles regulated under chapter 81.68 RCW; (ii) passenger charter carrier vehicles regulated under chapter 81.70 RCW, except marked or unmarked stretch limousines and stretch sport utility vehicles as defined under department of licensing rules; (iii) private nonprofit transportation provider vehicles regulated under chapter 81.66 RCW; and (iv) private employer transportation service vehicles, when such limitation will increase the efficient utilization of the highway facility or will aid in the conservation of energy resources. Regulations authorizing such exclusive or preferential use of a highway facility may be declared to be effective at all time or at specified times of day or on specified days.
+
+2. Any transit-only lanes that allow other vehicles to access abutting businesses that are reserved pursuant to subsection (1) of this section may not be authorized for the use of private transportation provider vehicles as described under subsection (1) of this section.
+
+3. Highway authorities of the state, counties, or incorporated cities and towns may prohibit the use of limited access facilities by the following private transportation provider vehicles: (a) Auto transportation company vehicles regulated under chapter 81.68 RCW; (b) passenger charter carrier vehicles regulated under chapter 81.70 RCW, and marked or unmarked limousines and stretch sport utility vehicles as defined under department of licensing rules; (c) private nonprofit transportation provider vehicles regulated under chapter 81.66 RCW; and (d) private employer transportation service vehicles, when the average transit speed in the high occupancy vehicle travel lane fails to meet department standards and falls below forty-five miles per hour at least ninety percent of the time during the peak hours for two consecutive months.
+
+4. [Empty]
+
+    a. Local authorities are encouraged to establish a process for private transportation providers, described under subsections (1) and (3) of this section, to apply for the use of limited access facilities that are reserved for the exclusive or preferential use of public transportation vehicles.
+
+    b. The process must provide a list of facilities that the local authority determines to be unavailable for use by the private transportation provider and must provide the criteria used to reach that determination.
+
+    c. The application and review processes must be uniform and should provide for an expeditious response by the authority.
+
+5. For the purposes of this section, "private employer transportation service" means regularly scheduled, fixed-route transportation service that is similarly marked or identified to display the business name or logo on the driver and passenger sides of the vehicle, meets the annual certification requirements of the department, and is offered by an employer for the benefit of its employees.
+
+
+## Section 9
+> This section modifies existing section [18.73.140](/rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md) for context.
+
+The secretary shall issue an ambulance**, organ transport vehicle,** or aid vehicle license for each vehicle so designated. The license shall be for a period of two years and may be reissued on expiration if the vehicle and its equipment meet requirements in force at the time of expiration of the license period. The license may be revoked if the ambulance**, organ transport vehicle,** or aid vehicle is found to be operating in violation of the regulations promulgated by the department or without required equipment. The license shall be terminated automatically if the vehicle is sold or transferred to the control of any organization not currently licensed as an ambulance**, organ transport vehicle,** or aid vehicle service. The license number shall be prominently displayed on each vehicle.
+
+
+## Section 10
+> This section modifies existing section [18.73.081](/rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md) for context.
+
+In addition to other duties prescribed by law, the secretary shall:
+
+1. Prescribe minimum requirements for:
+
+    a. Ambulance, air ambulance, **organ transport vehicles,** and aid vehicles and equipment;
+
+    b. Ambulance and aid services; and
+
+    c. Minimum emergency communication equipment;
+
+2. Adopt procedures for services that fail to perform in accordance with minimum requirements;
+
+3. Prescribe minimum standards for first responder and emergency medical technician training including:
+
+    a. Adoption of curriculum and period of certification;
+
+    b. Procedures for certification, recertification, decertification, or modification of certificates;
+
+    c. Adoption of requirements for ongoing training and evaluation, as approved by the county medical program director, to include appropriate evaluation for individual knowledge and skills. The first responder, emergency medical technician, or emergency medical services provider agency may elect a program of continuing education and a written and practical examination instead of meeting the ongoing training and evaluation requirements;
+
+    d. Procedures for reciprocity with other states or national certifying agencies;
+
+    e. Review and approval or disapproval of training programs; and
+
+    f. Adoption of standards for numbers and qualifications of instructional personnel required for first responder and emergency medical technician training programs;
+
+4. Prescribe minimum requirements for liability insurance to be carried by licensed services except that this requirement shall not apply to public bodies; and
+
+5. Certify emergency medical program directors.
+
+
+## Section 11
+> This section modifies existing section [18.73.030](/rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md) for context.
+
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Advanced life support" means invasive emergency medical services requiring advanced medical treatment skills as defined by chapter 18.71 RCW.
+
+2. "Aid service" means an organization that operates one or more aid vehicles.
+
+3. "Aid vehicle" means a vehicle used to carry aid equipment and individuals trained in first aid or emergency medical procedure.
+
+4. "Ambulance" means a ground or air vehicle designed and used to transport the ill and injured and to provide personnel, facilities, and equipment to treat patients before and during transportation.
+
+5. "Ambulance service" means an organization that operates one or more ambulances.
+
+6. "Basic life support" means noninvasive emergency medical services requiring basic medical treatment skills as defined in this chapter.
+
+7. "Communications system" means a radio and landline network which provides rapid public access, coordinated central dispatching of services, and coordination of personnel, equipment, and facilities in an emergency medical services and trauma care system.
+
+8. "Council" means the local or regional emergency medical services and trauma care council as authorized under chapter 70.168 RCW.
+
+9. "Department" means the department of health.
+
+10. "Emergency medical service" means medical treatment and care which may be rendered at the scene of any medical emergency or while transporting any patient in an ambulance to an appropriate medical facility, including ambulance transportation between medical facilities.
+
+11. "Emergency medical services medical program director" means a person who is an approved medical program director as defined by RCW 18.71.205(4).
+
+12. "Emergency medical technician" means a person who is authorized by the secretary to render emergency medical care pursuant to RCW 18.73.081 or, under the responsible supervision and direction of an approved medical program director, to participate in an emergency services supervisory organization or a community assistance referral and education services program established under RCW 35.21.930 if the participation does not exceed the participant's training and certification.
+
+13. "Emergency services supervisory organization" means an entity that is authorized by the secretary to use certified emergency medical services personnel to provide medical evaluation or initial treatment, or both, to sick or injured people, while in the course of duties with the organization for on-site medical care prior to any necessary activation of emergency medical services. Emergency services supervisory organizations include law enforcement agencies, disaster management organizations, search and rescue operations, diversion centers, and businesses with organized industrial safety teams.
+
+14. "First responder" means a person who is authorized by the secretary to render emergency medical care as defined by RCW 18.73.081.
+
+15. **"Organ transport vehicle" has the same meaning as in section 1 of this act.**
+
+16. "Patient care procedures" means written operating guidelines adopted by the regional emergency medical services and trauma care council, in consultation with the local emergency medical services and trauma care councils, emergency communication centers, and the emergency medical services medical program director, in accordance with statewide minimum standards. The patient care procedures shall identify the level of medical care personnel to be dispatched to an emergency scene, procedures for triage of patients, the level of trauma care facility to first receive the patient, and the name and location of other trauma care facilities to receive the patient should an interfacility transfer be necessary. Procedures on interfacility transfer of patients shall be consistent with the transfer procedures in chapter 70.170 RCW.
+
+17. "Prehospital patient care protocols" means the written procedure adopted by the emergency medical services medical program director which direct the out-of-hospital emergency care of the emergency patient which includes the trauma care patient. These procedures shall be based upon the assessment of the patient's medical needs and what treatment will be provided for emergency conditions. The protocols shall meet or exceed statewide minimum standards developed by the department in rule as authorized in chapter 70.168 RCW.
+
+18. "Secretary" means the secretary of the department of health.
+
+19. "Stretcher" means a cart designed to serve as a litter for the transportation of a patient in a prone or supine position as is commonly used in the ambulance industry, such as wheeled stretchers, portable stretchers, stair chairs, solid backboards, scoop stretchers, basket stretchers, or flexible stretchers. The term does not include personal mobility aids that recline at an angle or remain at a flat position, that are owned or leased for a period of at least one week by the individual using the equipment or the individual's guardian or representative, such as wheelchairs, personal gurneys, or banana carts.
+

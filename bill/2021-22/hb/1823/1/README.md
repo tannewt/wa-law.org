@@ -1,0 +1,242 @@
+# House Bill 1823
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1823.xml)
+## Section 1
+The legislature intends for the revenue from the climate commitment act to fund outdoor recreation and climate adaptation. Climate change impacts in Washington state are forecast to include an increasing number of hotter days, reduced snowpack, higher winter streamflows, lower summer streamflows, and sea level rise. The results will include more flooding, more drought, and more wildfire risk. The results will also include fewer outdoor recreation opportunities. In 2021 alone, all public lands east of the Cascade mountains were closed for two months to public recreation use due to extreme fire danger. These impacts are occurring and will continue to occur because of previous greenhouse gas emissions.
+
+The realities in the global economy indicate continued growth in manufacturing and energy demand in both China and India. Their populations dwarf ours in Washington and their energy grids are largely dependent on fossil fuels. Today, China is responsible for 27 percent of all global emissions. Importantly, Washington's emissions footprint is only .01 percent of China's emissions. A recently published study by researchers at the University of Washington found that even if all countries meet their promises under the Paris agreement and continue to reduce emissions at the same rate thereafter, it is unlikely that warming would stay under 2 degrees Celsius. In short, even if Washington state eliminated our greenhouse gas emissions immediately, we will experience climate change impacts.
+
+Therefore, the legislature considers it to be in the long-term interest of Washington residents to focus available resources from the carbon emission allowance auctions that will occur under the cap-and-trade program toward practical environmental stewardship and enhanced and more equitable outdoor recreation opportunity. In 2009, the legislature formally recognized the need to prepare for a changing climate and directed state agencies to develop an integrated climate response strategy to recommend to the legislature (section 10, chapter 519, Laws of 2009). To a great extent, those recommended strategies can be consolidated and organized into programs to benefit climate adaptation and outdoor recreation. The legislature now resolves to reprioritize the climate commitment act revenue toward those purposes.
+
+
+## Section 2
+> This section modifies existing section [70A.65.240](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+The **outdoor recreation and climate adaptation** account is created in the state treasury. Moneys in the account may be spent only after appropriation. Expenditures from the account are intended **to enhance outdoor recreation and to contribute to climate change adaptation by investing in forest health, drought resilience, flood risk mitigation, and Puget Sound recovery and water quality. The criteria of RCW 70A.65.250(1)(b) apply to expenditures from the outdoor recreation and climate adaptation account. Moneys in the account must be used for the following purposes:**
+
+1. **Forest health investments that contribute to climate change adaptation. Funding under this subsection must be used:**
+
+    a. **To address long-term forest health and the reduction of wildfire dangers. In recognition of the significant greenhouse gas emissions from wildfires as calculated by the department of natural resources consistent with RCW 70A.45.020, and the statewide air quality impacts associated with wildfires, the state treasurer must transfer a total of $125,000,000 each biennium, in installments of $15,625,000 on July 1st, October 1st, January 1st, and April 1st of each year, from the account created in this section into the wildfire response, forest restoration, and community resilience account established in RCW 76.04.511 to carry out the purposes of chapter 298, Laws of 2021;**
+
+    b. **For grants and loans to small forestland owners for activities that increase carbon sequestration;**
+
+    c. **For purposes of the forestry riparian easement program established in RCW 76.13.120;**
+
+    d. **For the purposes of the family forest fish passage program, created pursuant to RCW 76.13.150; or**
+
+    e. **To provide grants under a new grant program that invests in the institutions and infrastructure that make timber and farming towns sustainable and vibrant. The new grant program must be administered by the community economic revitalization board;**
+
+2. **Drought resilience investments that contribute to climate change adaptation. Funding under this subsection must be transferred to the state drought preparedness and response account established in RCW 43.83B.430;**
+
+3. **Flood risk mitigation investments that contribute to climate change adaptation. Funding under this subsection must be used to:**
+
+    a. **Reduce flood damage and improve aquatic species' habitat in the basins most at risk of catastrophic flooding;**
+
+    b. **Fund established flood control authorities to improve floodplains and flood protection infrastructure; or**
+
+    c. **Fund sustainable water supply projects that will secure the agricultural industry against the risks of a changing climate;**
+
+4. **Puget Sound water quality investments, including assistance to regulated entities for upgrading pollution controls required by state permits;**
+
+5. **Outdoor recreation enhancement and amenities, including the support and expansion of state and local outdoor recreation programs, activities, and infrastructure funded through the state parks and recreation commission, department of fish and wildlife, department of natural resources, and the recreation and conservation office;**
+
+6. **Grants to support marinas in compliance with the environment protecting measures in aquatic lands permits;**
+
+7. **Grants for the replacement or addition of buoys at locations that appropriately balance environmental protection and the needs of on-water recreation;**
+
+8. **Grants to improve equitable access to local trails and connectivity of local trails to parks and regional trail networks;**
+
+9. **Salmon-safe community investments that measure and reduce the impact of urban heat island effects on salmon and have benefits of energy conservation and improved equity in human health as described in House Bill No. 1211 (salmon-safe communities); and**
+
+10. Any of the purposes specified in RCW 70A.65.270(2).
+
+
+## Section 3
+> This section modifies existing section [70A.65.270](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. The natural climate solutions account is created in the state treasury. All moneys directed to the account from the climate investment account created in RCW 70A.65.250 must be deposited in the account. Moneys in the account may be spent only after appropriation. Moneys in the account are intended to increase the resilience of the state's waters, forests, and other vital ecosystems to the impacts of climate change, conserve working forestlands at risk of conversion, and increase their carbon pollution reduction capacity through sequestration, storage, and overall system integrity. Moneys in the account must be spent in a manner that is consistent with existing and future assessments of climate risks and resilience from the scientific community and expressed concerns of and impacts to overburdened communities.
+
+2. Moneys in the account may be allocated for the following purposes:
+
+    a. Clean water investments that improve resilience from climate impacts. Funding under this subsection (2)(a) must be used to:
+
+        i. Restore and protect estuaries, fisheries, and marine shoreline habitats and prepare for sea level rise including, but not limited to, making fish passage correction investments such as those identified in the cost-share barrier removal program for small forestland owners created in RCW 76.13.150 and those that are considered by the fish passage barrier removal board created in RCW 77.95.160;
+
+        ii. Increase carbon storage in the ocean or aquatic and coastal ecosystems;
+
+        iii. Increase the ability to remediate and adapt to the impacts of ocean acidification;
+
+        iv. Reduce flood risk and restore natural floodplain ecological function;
+
+    v. Increase the sustainable supply of water and improve aquatic habitat, including groundwater mapping and modeling;
+
+    vi. Improve infrastructure treating stormwater from previously developed areas within an urban growth boundary designated under chapter 36.70A RCW, with a preference given to projects that use green stormwater infrastructure;
+
+    vii. Either preserve or increase, or both, carbon sequestration and storage benefits in forests, forested wetlands, agricultural soils, tidally influenced agricultural or grazing lands, or freshwater, saltwater, or brackish aquatic lands; or
+
+    viii. Either preserve or establish, or both, carbon sequestration by protecting or planting trees in marine shorelines and freshwater riparian areas sufficient to promote climate resilience, protect cold water fisheries, and achieve water quality standards;
+
+    b. Healthy forest investments to improve resilience from climate impacts. Funding under this subsection (2)(b) must be used for projects and activities that will:
+
+        i. Increase forest and community resilience to wildfire in the face of increased seasonal temperatures and drought;
+
+        ii. Improve forest health and reduce vulnerability to changes in hydrology, insect infestation, and other impacts of climate change; or
+
+        iii. Prevent emissions by preserving natural and working lands from the threat of conversion to development or loss of critical habitat, through actions that include, but are not limited to, the creation of new conservation lands, community forests, or increased support to small forestland owners through assistance programs including, but not limited to, the forest riparian easement program and the family forest fish passage program. It is the intent of the legislature that not less than $10,000,000 be expended each biennium for the forestry riparian easement program created in chapter 76.13 RCW or for riparian easement projects funded under the agricultural conservation easements program established under RCW 89.08.530, or similar riparian enhancement programs**; and**
+
+    c. **Any of the purposes specified in RCW 70A.65.240**.
+
+3. Moneys in the account may not be used for projects that would violate tribal treaty rights or result in significant long-term damage to critical habitat or ecological functions. Investments from this account must result in long-term environmental benefits and increased resilience to the impacts of climate change.
+
+
+## Section 4
+> This section modifies existing section [70A.65.030](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. Each year or biennium, as appropriate, when allocating funds from the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240, the climate investment account created in RCW 70A.65.250, or the air quality and health disparities improvement account created in RCW 70A.65.280, or administering grants or programs funded by the accounts, agencies shall conduct an environmental justice assessment consistent with the requirements of RCW 70A.02.060 and establish a minimum of not less than 35 percent and a goal of 40 percent of total investments that provide direct and meaningful benefits to vulnerable populations within the boundaries of overburdened communities through: (a) The direct reduction of environmental burdens in overburdened communities; (b) the reduction of disproportionate, cumulative risk from environmental burdens, including those associated with climate change; (c) the support of community led project development, planning, and participation costs; or (d) meeting a community need identified by the community that is consistent with the intent of this chapter or RCW 70A.02.010.
+
+2. The allocation of funding under subsection (1) of this section must adhere to the following principles, additional to the requirements of RCW 70A.02.080: (a) Benefits and programs should be directed to areas and targeted to vulnerable populations and overburdened communities to reduce statewide disparities; (b) investments and benefits should be made roughly proportional to the health disparities that a specific community experiences, with a goal of eliminating the disparities; (c) investments and programs should focus on creating environmental benefits, including eliminating health burdens, creating community and population resilience, and raising the quality of life of those in the community; and (d) efforts should be made to balance investments and benefits across the state and within counties, local jurisdictions, and unincorporated areas as appropriate to reduce disparities by location and to ensure efforts contribute to a reduction in disparities that exist based on race or ethnicity, socioeconomic status, or other factors.
+
+3. State agencies allocating funds or administering grants or programs from the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240, the climate investment account created in RCW 70A.65.250, or the air quality and health disparities improvement account created in RCW 70A.65.280, must:
+
+    a. Report annually to the environmental justice council created in RCW 70A.02.110 regarding progress toward meeting environmental justice and environmental health goals;
+
+    b. Consider recommendations by the environmental justice council; and
+
+    c. [Empty]
+
+        i. If the agency is not a covered agency subject to the requirements of chapter 314, Laws of 2021, create and adopt a community engagement plan to describe how it will engage with overburdened communities and vulnerable populations in allocating funds or administering grants or programs from the climate investment account.
+
+        ii. The plan must include methods for outreach and communication with those who face barriers, language or otherwise, to participation.
+
+
+## Section 5
+> This section modifies existing section [70A.65.040](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. The environmental justice council created in RCW 70A.02.110 must provide recommendations to the legislature, agencies, and the governor in the development and implementation of the program established in RCW 70A.65.060 through 70A.65.210, and the programs funded from the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240 and from the climate investment account created in RCW 70A.65.250.
+
+2. In addition to the duties and authorities granted in chapter 70A.02 RCW to the environmental justice council, the environmental justice council must:
+
+    a. Provide recommendations to the legislature, agencies, and the governor in the development of:
+
+        i. The program established in RCW 70A.65.060 through 70A.65.210 including, but not limited to, linkage with other jurisdictions, protocols for establishing offset projects and securing offset credits, designation of emissions-intensive and trade-exposed industries under RCW 70A.65.110, and administration of allowances under the program; and
+
+        ii. Investment plans and funding proposals for the programs funded from the climate investment account created in RCW 70A.65.250 for the purpose of providing environmental benefits and reducing environmental health disparities within overburdened communities;
+
+    b. Provide a forum to analyze policies adopted under this chapter to determine if the policies lead to improvements within overburdened communities;
+
+    c. Recommend procedures and criteria for evaluating programs, activities, or projects;
+
+    d. Recommend copollutant emissions reduction goals in overburdened communities;
+
+    e. Evaluate the level of funding provided to assist vulnerable populations, low-income individuals, and impacted workers and the funding of projects and activities located within or benefiting overburdened communities;
+
+    f. Recommend environmental justice and environmental health goals for programs, activities, and projects funded from the climate investment account, and review agency annual reports on outcomes and progress toward meeting these goals;
+
+    g. Provide recommendations to implementing agencies for meaningful consultation with vulnerable populations, including community engagement plans under RCW 70A.65.020 and 70A.65.030; and
+
+    h. Recommend how to support public participation through capacity grants for participation.
+
+3. For the purpose of performing the duties under subsection (2) of this section, two additional tribal members are added to the council.
+
+
+## Section 6
+> This section modifies existing section [70A.65.100](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. Except as provided in RCW 70A.65.110, 70A.65.120, and 70A.65.130, the department shall distribute allowances through auctions as provided in this section and in rules adopted by the department to implement these sections. An allowance is not a property right.
+
+2. [Empty]
+
+    a. The department shall hold a maximum of four auctions annually, plus any necessary reserve auctions. An auction may include allowances from the annual allowance budget of the current year and allowances from the annual allowance budgets from prior years that remain to be distributed. The department must transmit to the environmental justice council an auction notice at least 60 days prior to each auction, as well as a summary results report and a postauction public proceeds report within 60 days after each auction. The department must communicate the results of the previous calendar year's auctions to the environmental justice council on an annual basis beginning in 2024.
+
+    b. The department must make future vintage allowances available through parallel auctions at least twice annually in addition to the auctions through which current vintage allowances are exclusively offered under (a) of this subsection.
+
+3. The department shall engage a qualified, independent contractor to run the auctions. The department shall also engage a qualified financial services administrator to hold the bid guarantees, evaluate bid guarantees, and inform the department of the value of bid guarantees once the bids are accepted.
+
+4. Auctions are open to covered entities, opt-in entities, and general market participants that are registered entities in good standing. The department shall adopt by rule the requirements for a registered entity to register and participate in a given auction.
+
+    a. Registered entities intending to participate in an auction must submit an application to participate at least 30 days prior to the auction. The application must include the documentation required for review and approval by the department. A registered entity is eligible to participate only after receiving a notice of approval by the department.
+
+    b. Each registered entity that elects to participate in the auction must have a different representative. Only a representative with an approved auction account is authorized to access the auction platform to submit an application or confirm the intent to bid for the registered entity, submit bids on behalf of the registered entity during the bidding window, or to download reports specific to the auction.
+
+5. The department may require a bid guarantee, payable to the financial services administrator, in an amount greater than or equal to the sum of the maximum value of the bids to be submitted by the registered entity.
+
+6. To protect the integrity of the auctions, a registered entity or group of registered entities with a direct corporate association are subject to auction purchase and holding limits. The department may impose additional limits if it deems necessary to protect the integrity and functioning of the auctions:
+
+    a. A covered entity or an opt-in entity may not buy more than 10 percent of the allowances offered during a single auction;
+
+    b. A general market participant may not buy more than four percent of the allowances offered during a single auction and may not in aggregate own more than 10 percent of total allowances to be issued in a calendar year;
+
+    c. No registered entity may buy more than the entity's bid guarantee; and
+
+    d. No registered entity may buy allowances that would exceed the entity's holding limit at the time of the auction.
+
+7. [Empty]
+
+    a. For fiscal year 2023, upon completion and verification of the auction results, the financial services administrator shall notify winning bidders and transfer the auction proceeds to the state treasurer for deposit as follows: (i) $127,341,000 must first be deposited into the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240; and (ii) the remaining auction proceeds to the climate investment account created in RCW 70A.65.250 and the air quality and health disparities improvement account created in RCW 70A.65.280.
+
+    b. For fiscal year 2024, upon completion and verification of the auction results, the financial services administrator shall notify winning bidders and transfer the auction proceeds to the state treasurer for deposit as follows: (i) $356,697,000 must first be deposited into the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240; and (ii) the remaining auction proceeds to the climate investment account created in RCW 70A.65.250 and the air quality and health disparities improvement account created in RCW 70A.65.280.
+
+    c. For fiscal year 2025, upon completion and verification of the auction results, the financial services administrator shall notify winning bidders and transfer the auction proceeds to the state treasurer for deposit as follows: (i) $366,558,000 must first be deposited into the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240; and (ii) the remaining auction proceeds to the climate investment account created in RCW 70A.65.250 and the air quality and health disparities improvement account created in RCW 70A.65.280.
+
+    d. For fiscal years 2026 through 2037, upon completion and verification of the auction results, the financial services administrator shall notify winning bidders and transfer the auction proceeds to the state treasurer for deposit as follows: (i) $359,117,000 per year must first be deposited into the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240; and (ii) the remaining auction proceeds to the climate investment account created in RCW 70A.65.250 and the air quality and health disparities improvement account created in RCW 70A.65.280.
+
+    e. The deposits into the **outdoor recreation and climate adaptation** account pursuant to (a) through (d) of this subsection must not exceed $5,200,000,000 over the first 16 years and any remaining auction proceeds must be deposited into the climate investment account created in RCW 70A.65.250 and the air quality and health disparities improvement account created in RCW 70A.65.280.
+
+    f. For fiscal year 2038 and each year thereafter, upon completion and verification of the auction results, the financial services administrator shall notify winning bidders and transfer the auction proceeds to the state treasurer for deposit as follows: (i) 50 percent of the auction proceeds to the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240; and (ii) the remaining auction proceeds to the climate investment account created in RCW 70A.65.250 and the air quality and health disparities improvement account created in RCW 70A.65.280.
+
+8. The department shall adopt by rule provisions to guard against bidder collusion and minimize the potential for market manipulation. A registered entity may not release or disclose any bidding information including: Intent to participate or refrain from participation; auction approval status; intent to bid; bidding strategy; bid price or bid quantity; or information on the bid guarantee provided to the financial services administrator. The department may cancel or restrict a previously approved auction participation application or reject a new application if the department determines that a registered entity has:
+
+    a. Provided false or misleading facts;
+
+    b. Withheld material information that could influence a decision by the department;
+
+    c. Violated any part of the auction rules;
+
+    d. Violated registration requirements; or
+
+    e. Violated any of the rules regarding the conduct of the auction.
+
+9. Any cancellation or restriction approved by the department under subsection (8) of this section may be permanent or for a specified number of auctions and the cancellation or restriction imposed is not exclusive and is in addition to the remedies that may be available pursuant to chapter 19.86 RCW or other state or federal laws, if applicable.
+
+10. The department shall design allowance auctions so as to allow, to the maximum extent practicable, linking with external greenhouse gas emissions trading programs in other jurisdictions and to facilitate the transfer of allowances when the state's program has entered into a linkage agreement with other external greenhouse gas emissions trading programs. The department may conduct auctions jointly with linked jurisdictions.
+
+11. In setting the number of allowances offered at each auction, the department shall consider the allowances in the marketplace due to the marketing of allowances issued as required under RCW 70A.65.110, 70A.65.120, and 70A.65.130 in the department's determination of the number of allowances to be offered at auction. The department shall offer only such number of allowances at each auction as will enhance the likelihood of achieving the goals of RCW 70A.45.020.
+
+
+## Section 7
+> This section modifies existing section [70A.65.230](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. It is the intent of the legislature that each year the total investments made through the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240,  the natural climate solutions account created in RCW 70A.65.270, and the air quality and health disparities improvement account created in RCW 70A.65.280, achieve the following:
+
+    a. A minimum of not less than 35 percent and a goal of 40 percent of total investments that provide direct and meaningful benefits to vulnerable populations within the boundaries of overburdened communities identified under chapter 314, Laws of 2021; and
+
+    b. In addition to the requirements of (a) of this subsection, a minimum of not less than 10 percent of total investments that are used for programs, activities, or projects formally supported by a resolution of an Indian tribe, with priority given to otherwise qualifying projects directly administered or proposed by an Indian tribe. An investment that meets the requirements of both this subsection (1)(b) and (a) of this subsection may count toward the minimum percentage targets for both subsections.
+
+2. The expenditure of moneys under this chapter must be consistent with applicable federal, state, and local laws, and treaty rights including, but not limited to, prohibitions on uses of funds imposed by the state Constitution.
+
+3. For the purposes of this section, "benefits" means investments or activities that:
+
+    a. Reduce vulnerable population characteristics, environmental burdens, or associated risks that contribute significantly to the cumulative impact designation of highly impacted communities;
+
+    b. Meaningfully protect an overburdened community from, or support community response to, the impacts of air pollution or climate change; or
+
+    c. Meet a community need identified by vulnerable members of the community that is consistent with the intent of this chapter.
+
+4. The state must develop a process by which to evaluate the impacts of the investments made under this chapter, work across state agencies to develop and track priorities across the different eligible funding categories, and work with the environmental justice council pursuant to RCW 70A.65.040.
+
+5. No expenditures may be made from the **outdoor recreation and climate adaptation** account created in RCW 70A.65.240, the climate investment account created in RCW 70A.65.250, or the air quality and health disparities improvement account created in RCW 70A.65.280 if, by April 1, 2023, the legislature has not considered and enacted request legislation brought forth by the department under RCW 70A.65.060 that outlines a compliance pathway specific to emissions-intensive, trade-exposed businesses for achieving their proportionate share of the state's emissions reduction limits through 2050.
+
+
+## Section 8
+> This section modifies existing section [70A.65.250](/rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.065_greenhouse_gas_emissions—cap_and_invest_program.md) for context.
+
+1. [Empty]
+
+    a. The climate investment account is created in the state treasury. Except as otherwise provided in chapter 316, Laws of 2021, all receipts from the auction of allowances authorized in this chapter must be deposited into the account. Moneys in the account may be spent only after appropriation.
+
+    b. Projects or activities funded from the account must meet high labor standards, including family sustaining wages, providing benefits including health care and employer-contributed retirement plans, career development opportunities, and maximize access to economic benefits from such projects for local workers and diverse businesses. Each contracting entity's proposal must be reviewed for equity and opportunity improvement efforts, including: (i) Employer paid sick leave programs; (ii) pay practices in relation to living wage indicators such as the federal poverty level; (iii) efforts to evaluate pay equity based on gender identity, race, and other protected status under Washington law; (iv) facilitating career development opportunities, such as apprenticeship programs, internships, job-shadowing, and on-the-job training; and (v) employment assistance and employment barriers for justice affected individuals.
+
+2. Moneys in the account may be used only for projects and programs that achieve the purposes of the greenhouse gas emissions cap and invest program established under this chapter. Moneys in the account as described in this subsection must first be appropriated for the administration of the requirements of this chapter, in an amount not to exceed five percent of the total receipt of funds from allowance auction proceeds under this chapter. Beginning July 1, 2024, and annually thereafter, the state treasurer shall distribute funds in the account
+
+to the natural climate solutions account created in RCW 70A.65.270.
+

@@ -238,13 +238,16 @@ for start_year in range(2021, 2023, 2):
     print(count, "bill docs")
 
     url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year}"
-    legislation = requests.get(url, expire_after=0)
-    legislation = BeautifulSoup(legislation.text, "xml")
+    legislationOdd = requests.get(url, expire_after=0)
+    legislationOdd = BeautifulSoup(legislationOdd.text, "xml")
+    url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year+1}"
+    legislationEven = requests.get(url, expire_after=0)
+    legislationEven = BeautifulSoup(legislationEven.text, "xml")
     count = 0
     bills_by_sponsor = {}
     bills_by_number = {}
     sponsor_by_bill_number = {}
-    for info in legislation.find_all("LegislationInfo"):
+    for info in legislationOdd.find_all("LegislationInfo") + legislationEven.find_all("LegislationInfo"):
         bill_number = info.BillNumber.text
         bill_id = info.BillId.text
 
