@@ -223,7 +223,7 @@ for start_year in range(2021, 2023, 2):
 
     url = api_root_url + f"/LegislativeDocumentService.asmx/GetAllDocumentsByClass?biennium={biennium}&documentClass=Bills"
     print(url)
-    all_bill_docs = BeautifulSoup(requests.get(url, expire_after=24*60*60).text, "xml")
+    all_bill_docs = BeautifulSoup(requests.get(url, expire_after=0).text, "xml")
     docs_by_number = {}
     count = 0
     for doc in all_bill_docs.find_all("LegislativeDocument"):
@@ -238,7 +238,7 @@ for start_year in range(2021, 2023, 2):
     print(count, "bill docs")
 
     url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year}"
-    legislation = requests.get(url, expire_after=24*60*60)
+    legislation = requests.get(url, expire_after=0)
     legislation = BeautifulSoup(legislation.text, "xml")
     count = 0
     bills_by_sponsor = {}
