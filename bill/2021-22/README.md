@@ -229,9 +229,10 @@ Active bills:
 ### H Rules 3C
 Active bills:
 * [HB 1162](hb/1162/) - High school graduation | *Public Hearing Tue, Jan 11 8:00 am*
-* [HB 1165](hb/1165/) - Credit union act | *Executive Session Wed, Jan 12 8:00 am*
+* [HB 1165](hb/1165/) - Credit union act | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1210](hb/1210/) - Cannabis terminology | *Executive Session Fri, Jan 14 10:00 am*
-* [HB 1241](hb/1241/) - Growth management act plans | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1241](hb/1241/) - Growth management act plans | *Public Hearing Tue, Jan 11 10:00 am*
+
 
 
 
@@ -446,7 +447,8 @@ Active bills:
 ### H Rules R
 Active bills:
 * [HB 1300](hb/1300/) - Landlord damage claims | *Public Hearing Thu, Jan 13 1:30 pm*
-* [HB 1412](hb/1412/) - Legal financial obligations | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1412](hb/1412/) - Legal financial obligations | *Public Hearing Tue, Jan 11 10:00 am*
+
 
 
 
@@ -698,7 +700,8 @@ Active bills:
 ### H ConsPro&Bus
 Active bills:
 * [HB 1389](hb/1389/) - Peer-to-peer vehicle sharing | *Public Hearing Thu, Jan 13 10:00 am*
-* [HB 1497](hb/1497/) - Telephone solicitation | *Executive Session Thu, Jan 13 10:00 am*
+* [HB 1497](hb/1497/) - Telephone solicitation | *Public Hearing Wed, Jan 12 8:00 am*
+
 
 
 
@@ -821,32 +824,32 @@ Active bills:
 Active bills:
 * [HB 1593](hb/1593/) - Landlord mitigation/victims | *Public Hearing Tue, Jan 11 8:00 am*
 * [HB 1595](hb/1595/) - Bridge jumping signs | *Public Hearing Thu, Jan 13 3:30 pm*
-* [HB 1601](hb/1601/) - Student homelessness pilot | *Executive Session Thu, Jan 13 10:00 am*
+* [HB 1601](hb/1601/) - Student homelessness pilot | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1612](hb/1612/) - Unemployment ins./technical | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1613](hb/1613/) - Employer reports/private | *Public Hearing Tue, Jan 11 10:00 am*
-* [HB 1614](hb/1614/) - Online marketplaces | *Executive Session Wed, Jan 12 8:00 am*
+* [HB 1614](hb/1614/) - Online marketplaces | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1616](hb/1616/) - Charity care | *Public Hearing Thu, Jan 13 10:00 am*
 * [HB 1617](hb/1617/) - State and school holidays | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1618](hb/1618/) - Election offices/weapons | *Public Hearing Wed, Jan 12 10:00 am*
-* [HB 1619](hb/1619/) - Appliance efficiency | *Executive Session Fri, Jan 14 10:00 am*
-* [HB 1620](hb/1620/) - Extreme weather events | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1619](hb/1619/) - Appliance efficiency | *Public Hearing Tue, Jan 11 8:00 am*
+* [HB 1620](hb/1620/) - Extreme weather events | *Public Hearing Wed, Jan 12 10:00 am*
 * [HB 1621](hb/1621/) - Sex. assault nurse training | *Public Hearing Mon, Jan 10 1:30 pm*
-* [HB 1622](hb/1622/) - Sex. assault nurse education | *Executive Session Thu, Jan 13 10:00 am*
-* [HB 1623](hb/1623/) - Power supply inadequacy | *Executive Session Fri, Jan 14 10:00 am*
+* [HB 1622](hb/1622/) - Sex. assault nurse education | *Public Hearing Mon, Jan 10 1:30 pm*
+* [HB 1623](hb/1623/) - Power supply inadequacy | *Public Hearing Tue, Jan 11 8:00 am*
 * [HB 1625](hb/1625/) - Space force reserve members | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1626](hb/1626/) - Updating the authority for the fish and wildlife commission to adopt rules implementing electronic licensing practices. | *Public Hearing Wed, Jan 12 10:00 am*
-* [HB 1627](hb/1627/) - Making it possible for more properties to have access to water, storm drains, and sanitary sewage systems. | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1627](hb/1627/) - Making it possible for more properties to have access to water, storm drains, and sanitary sewage systems. | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1630](hb/1630/) - Weapons/certain meetings | *Public Hearing Wed, Jan 12 10:00 am*
 * [HB 1631](hb/1631/) - Supporting Washington's food production system by providing technical assistance in support of improved voluntary environmental stewardship. | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1632](hb/1632/) - Tribal license plates | *Public Hearing Thu, Jan 13 3:30 pm*
-* [HB 1638](hb/1638/) - Fireworks prohibitions | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1638](hb/1638/) - Fireworks prohibitions | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1640](hb/1640/) - Creating the joint legislative tribal-state relations committee as an agency within the legislative branch. | *Public Hearing Wed, Jan 12 8:00 am*
 * [HB 1643](hb/1643/) - Affordable housing/REET | *Public Hearing Thu, Jan 13 8:00 am*
 * [HB 1646](hb/1646/) - Dementia action collab. | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1647](hb/1647/) - Building for the arts | *Public Hearing Tue, Jan 11 1:30 pm*
-* [HB 1648](hb/1648/) - Accountancy/inactive license | *Executive Session Wed, Jan 12 8:00 am*
+* [HB 1648](hb/1648/) - Accountancy/inactive license | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1649](hb/1649/) - WDFW disabilities adv. comm. | *Public Hearing Wed, Jan 12 10:00 am*
-* [HB 1650](hb/1650/) - Commercial solicitation | *Executive Session Thu, Jan 13 10:00 am*
+* [HB 1650](hb/1650/) - Commercial solicitation | *Public Hearing Wed, Jan 12 8:00 am*
 * [HB 1651](hb/1651/) - Postpartum contraception | *Public Hearing Thu, Jan 13 10:00 am*
 * [HB 1652](hb/1652/) - Conserv. district elections | *Public Hearing Wed, Jan 12 8:00 am*
 * [HB 1659](hb/1659/) - Higher education grants | *Public Hearing Wed, Jan 12 8:00 am*
@@ -855,7 +858,7 @@ Active bills:
 * [HB 1664](hb/1664/) - Schools/support funding | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1668](hb/1668/) - Marijuana products | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1670](hb/1670/) - JARRC chair & vice chair | *Public Hearing Wed, Jan 12 8:00 am*
-* [HB 1673](hb/1673/) - Public works board/broadband | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1673](hb/1673/) - Public works board/broadband | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1675](hb/1675/) - Dialysate & dialysis devices | *Public Hearing Wed, Jan 12 8:00 am*
 * [HB 1676](hb/1676/) - Tobacco & vapor products/tax | *Public Hearing Thu, Jan 13 8:00 am*
 * [HB 1685](hb/1685/) - Cottage food sales cap | *Public Hearing Tue, Jan 11 10:00 am*
@@ -865,8 +868,8 @@ Active bills:
 * [HB 1690](hb/1690/) - Law enf. officers/deception | *Public Hearing Fri, Jan 14 10:00 am*
 * [HB 1691](hb/1691/) - Oil spills/financial resp. | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1694](hb/1694/) - Chemicals/consumer products | *Public Hearing Fri, Jan 14 10:00 am*
-* [HB 1703](hb/1703/) - Modernizing the statewide 911 emergency communications system. | *Executive Session Fri, Jan 14 8:00 am*
-* [HB 1704](hb/1704/) - Regulating service contracts and protection product guarantees. | *Executive Session Thu, Jan 13 10:00 am*
+* [HB 1703](hb/1703/) - Modernizing the statewide 911 emergency communications system. | *Public Hearing Wed, Jan 12 10:00 am*
+* [HB 1704](hb/1704/) - Regulating service contracts and protection product guarantees. | *Public Hearing Wed, Jan 12 8:00 am*
 * [HB 1705](hb/1705/) - Concerning ghost guns. | *Public Hearing Wed, Jan 12 10:00 am*
 * [HB 1707](hb/1707/) - Requiring the wearing of personal flotation devices on kayaks, canoes, and stand-up paddleboards. | *Public Hearing Fri, Jan 14 8:00 am*
 * [HB 1708](hb/1708/) - Concerning facility fees for audio-only telemedicine. | *Public Hearing Wed, Jan 12 8:00 am*
@@ -875,16 +878,16 @@ Active bills:
 * [HB 1711](hb/1711/) - Concerning accessory dwelling units. | *Public Hearing Wed, Jan 12 10:00 am*
 * [HB 1715](hb/1715/) - Concerning the membership of the sentencing guidelines commission. | *Public Hearing Fri, Jan 14 10:00 am*
 * [HB 1716](hb/1716/) - Concerning locations at which ballots may be cast. | *Public Hearing Thu, Jan 13 10:00 am*
-* [HB 1717](hb/1717/) - GMA planning/tribes | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1717](hb/1717/) - GMA planning/tribes | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1718](hb/1718/) - Fur products | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1719](hb/1719/) - Military equipment/law enf. | *Public Hearing Tue, Jan 11 8:00 am*
-* [HB 1723](hb/1723/) - Telecommunications access | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1723](hb/1723/) - Telecommunications access | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1724](hb/1724/) - Supportive housing resources | *Public Hearing Tue, Jan 11 8:00 am*
 * [HB 1725](hb/1725/) - Missing indigenous persons | *Public Hearing Fri, Jan 14 10:00 am*
 * [HB 1726](hb/1726/) - Peace officers/use of force | *Public Hearing Tue, Jan 11 8:00 am*
 * [HB 1728](hb/1728/) - Insulin work group reauth. | *Public Hearing Mon, Jan 10 1:30 pm*
-* [HB 1732](hb/1732/) - Long-term care/delay | *Executive Session Thu, Jan 13 3:30 pm*
-* [HB 1733](hb/1733/) - Long-term care/exemptions | *Executive Session Thu, Jan 13 3:30 pm*
+* [HB 1732](hb/1732/) - Long-term care/delay | *Public Hearing Tue, Jan 11 3:30 pm*
+* [HB 1733](hb/1733/) - Long-term care/exemptions | *Public Hearing Tue, Jan 11 3:30 pm*
 * [HB 1735](hb/1735/) - Peace officers/use of force | *Public Hearing Tue, Jan 11 8:00 am*
 * [HB 1736](hb/1736/) - State student loan program | *Public Hearing Wed, Jan 12 8:00 am*
 * [HB 1739](hb/1739/) - Hospital policies/pathogens | *Public Hearing Thu, Jan 13 10:00 am*
@@ -894,7 +897,7 @@ Active bills:
 * [HB 1748](hb/1748/) - Human trafficking/ABD prog. | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1751](hb/1751/) - Hazing prevention | *Public Hearing Thu, Jan 13 10:00 am*
 * [HB 1753](hb/1753/) - Climate funding/tribes | *Public Hearing Thu, Jan 13 1:30 pm*
-* [HB 1754](hb/1754/) - Prejudgment interest | *Executive Session Fri, Jan 14 8:00 am*
+* [HB 1754](hb/1754/) - Prejudgment interest | *Public Hearing Tue, Jan 11 10:00 am*
 * [HB 1755](hb/1755/) - TANF time limit extensions | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1756](hb/1756/) - Solitary confinement | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1761](hb/1761/) - Opioid reversal by ED nurses | *Public Hearing Mon, Jan 10 1:30 pm*
@@ -1803,17 +1806,17 @@ Active bills:
 ### S Prefiled
 Active bills:
 * [SB 5487](sb/5487/) - School consolid. incentives | *Public Hearing Fri, Jan 14 8:00 am*
-* [SB 5489](sb/5489/) - Business entities | *Executive Session Thu, Jan 13 10:30 am*
-* [SB 5490](sb/5490/) - Interbranch advisory comm. | *Executive Session Thu, Jan 13 10:30 am*
+* [SB 5489](sb/5489/) - Business entities | *Public Hearing Tue, Jan 11 10:30 am*
+* [SB 5490](sb/5490/) - Interbranch advisory comm. | *Public Hearing Tue, Jan 11 10:30 am*
 * [SB 5496](sb/5496/) - Health prof. monitoring | *Public Hearing Wed, Jan 12 8:00 am*
 * [SB 5497](sb/5497/) - Board of ed. student members | *Public Hearing Wed, Jan 12 10:30 am*
 * [SB 5498](sb/5498/) - Posthumous H.S. diplomas | *Public Hearing Fri, Jan 14 8:00 am*
 * [SB 5504](sb/5504/) - Discover pass free days | *Public Hearing Thu, Jan 13 1:30 pm*
-* [SB 5506](sb/5506/) - JARRC chair & vice chair | *Executive Session Fri, Jan 14 10:30 am*
+* [SB 5506](sb/5506/) - JARRC chair & vice chair | *Public Hearing Wed, Jan 12 8:00 am*
 * [SB 5508](sb/5508/) - Insurance guaranty fund | *Public Hearing Wed, Jan 12 8:00 am*
 * [SB 5509](sb/5509/) - Fentanyl testing equipment | *Public Hearing Thu, Jan 13 10:30 am*
 * [SB 5511](sb/5511/) - Uniform standard time | *Public Hearing Wed, Jan 12 8:00 am*
-* [SB 5512](sb/5512/) - State nickname | *Executive Session Fri, Jan 14 10:30 am*
+* [SB 5512](sb/5512/) - State nickname | *Public Hearing Wed, Jan 12 8:00 am*
 * [SB 5513](sb/5513/) - Expanding flexibility of existing lodging taxes for affordable workforce housing. | *Public Hearing Wed, Jan 12 10:30 am*
 * [SB 5514](sb/5514/) - County legislative meetings | *Public Hearing Tue, Jan 11 8:00 am*
 * [SB 5519](sb/5519/) - Accountancy/inactive license | *Public Hearing Tue, Jan 11 8:00 am*
@@ -1837,7 +1840,7 @@ Active bills:
 * [SB 5566](sb/5566/) - Independent youth housing | *Public Hearing Tue, Jan 11 8:00 am*
 * [SB 5567](sb/5567/) - Commercial salmon fishing | *Public Hearing Thu, Jan 13 1:30 pm*
 * [SB 5573](sb/5573/) - Drug offender sentencing alt | *Public Hearing Thu, Jan 13 10:30 am*
-* [SB 5575](sb/5575/) - Snohomish county/judges | *Public Hearing Thu, Jan 13 10:30 am*
+* [SB 5575](sb/5575/) - Snohomish county/judges | *Public Hearing Tue, Jan 11 8:00 am*
 * [SB 5576](sb/5576/) - Eviction | *Public Hearing Tue, Jan 11 8:00 am*
 * [SB 5580](sb/5580/) - Public works board/broadband | *Public Hearing Wed, Jan 12 8:00 am*
 * [SB 5581](sb/5581/) - Pupil transp. allocations | *Public Hearing Wed, Jan 12 10:30 am*
@@ -1856,7 +1859,7 @@ Active bills:
 * [SB 5607](sb/5607/) - Homeless census/facilities | *Public Hearing Wed, Jan 12 10:30 am*
 * [SB 5608](sb/5608/) - Park and land public access | *Public Hearing Thu, Jan 13 1:30 pm*
 * [SB 5609](sb/5609/) - Juvenile fingerprinting | *Public Hearing Tue, Jan 11 2:00 pm*
-* [SB 5615](sb/5615/) - State sport | *Executive Session Fri, Jan 14 10:30 am*
+* [SB 5615](sb/5615/) - State sport | *Public Hearing Wed, Jan 12 8:00 am*
 * [SB 5617](sb/5617/) - Concerning population criteria for designation of local downtown and neighborhood commercial district revitalization and official local main street programs. | *Public Hearing Tue, Jan 11 8:00 am*
 * [SB 5621](sb/5621/) - Concerning intergovernmental tax charges and conflict resolution regarding water and sewage facilities. | *Public Hearing Wed, Jan 12 10:30 am*
 * [SB 5623](sb/5623/) - Credit history/insurance | *Public Hearing Tue, Jan 11 8:00 am*

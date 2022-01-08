@@ -70,7 +70,8 @@ for start_year in range(2021, 2023, 2):
         print(bill_number)
         for dt, meeting, item in meetings:
             if now < dt:
-                activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
+                if not activity:
+                    activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
                 print(activity)
                 print(item)
                 print(meeting)
