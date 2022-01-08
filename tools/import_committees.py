@@ -4,6 +4,7 @@ import re
 import pathlib
 import sys
 import subprocess
+import arrow
 
 PUSH = False
 
@@ -14,6 +15,18 @@ requests = requests_cache.CachedSession("committee_cache")
 committee_path = pathlib.Path("bill/")
 
 meetings_by_bill = {}
+
+def add_lines(lines, active, inactive):
+    if active:
+        lines.append("Active bills:")
+        lines.extend(active)
+    if inactive:
+        lines.append("<details>")
+        lines.append("    <summary>Click to view inactive bills</summary>")
+        lines.append("")
+        lines.extend(inactive)
+        lines.append("</details>")
+
 
 for start_year in range(2021, 2023, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
@@ -38,17 +51,71 @@ for start_year in range(2021, 2023, 2):
                 bill_number = billId.split(" ")[1]
                 if bill_number not in meetings_by_bill:
                     meetings_by_bill[bill_number] = []
-                meetings_by_bill[bill_number].append((info, item))
+                meetings_by_bill[bill_number].append((arrow.get(info.Date.text), info, item))
             else:
                 print(item)
 
     print("-----")
-
+    now = arrow.now()
+    active = {}
     for bill_number in meetings_by_bill:
-        print(bill_number)
-        for meeting, item in meetings_by_bill[bill_number]:
-            print(meeting.Date.text, item.HearingTypeDescription.text)
-        print()
-    print(info)
-    print(count, "meetings")
+        meetings = meetings_by_bill[bill_number]
+        meetings.sort(key=lambda x: x[0])
+        latest_date = meetings[-1][0]
+        if latest_date < now:
+            continue
 
+        activity = ""
+
+        print(bill_number)
+        for dt, meeting, item in meetings:
+            if now < dt:
+                activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
+                print(activity)
+                print(item)
+                print(meeting)
+                # doc link: https://app.leg.wa.gov/committeeschedules/Home/Documents/29441
+                mId = meeting.AgendaId.text
+                chamber = meeting.Agency.text
+                aId = item.AgendaId.text
+                caId = meeting.Committee.Id.text
+                print(mId, chamber, aId, caId)
+                print("[live]()") # tId=2
+                print("[written]()") # tId=4
+                print("[+/-]()") # tId=3
+
+        print()
+        active[bill_number] = activity
+    print(count, "meetings")
+    print(len(active), "active bills")
+
+    bill_index = pathlib.Path(f"bill/{biennium}/README.md")
+    new_lines = []
+    active_lines = []
+    inactive_lines = []
+    for line in bill_index.read_text().split("\n"):
+        if not line:
+            # add active/inactive sections
+            add_lines(new_lines, active_lines, inactive_lines)
+            active_lines = []
+            inactive_lines = []
+            new_lines.append(line)
+            pass
+        elif line.startswith("*"):
+            # parse out bill number and bin
+            bill_number = line.split()[2][:4]
+            if "|" in line:
+                line = line.split("|")[0][:-1]
+            if bill_number in active:
+                active_lines.append(line + " | *" + active[bill_number] + "*")
+            else:
+                inactive_lines.append(line)
+            pass
+        elif line.strip().startswith("<") or line.startswith("Active bills"):
+            # Skip any <details> or <summary> that we've already added.
+            pass
+        elif line:
+            new_lines.append(line)
+
+    add_lines(new_lines, active_lines, inactive_lines)
+    bill_index.write_text("\n".join(new_lines))

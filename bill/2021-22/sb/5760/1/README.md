@@ -1,0 +1,196 @@
+# Senate Bill 5760
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5760.xml)
+## Section 1
+> This section modifies existing section [43.365.005](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
+
+The legislature recognizes the motion picture industry in Washington as a valuable commodity contributing greatly to the economic vitality of the state and the cultural integrity of our communities. The legislature further recognizes the production of in-state motion pictures, television programs, and television commercials creates a marked increase in tourism, family-wage jobs, and the sale of local goods and services generating revenue for the state. Furthermore, with captive national and international audiences, the world is introduced to the state's pristine scenic venues and reminded that the Pacific Northwest is a great place to live and raise a family. The legislature also recognizes the inherent educational value of promoting arts and culture as well as the benefits of training young motion picture professionals who will build a fruitful industry for years to come.
+
+The legislature finds in recent years that the state has realized a drastic decline in motion picture production that precludes economic expansion and threatens the state's reputation as a production destination. With the emergence of tax incentives in **other** states nationwide, in-state producers are taking their projects to more competitive economic climates, such as Oregon and Vancouver, British Columbia, where compelling tax incentive packages and subsidies are already in effect.
+
+The legislature also finds that in recent years increasingly workers in Washington state are without health insurance coverage and retirement income protections, causing hardships on workers and their families and higher costs to the state.
+
+**The legislature also finds that more investment in the film industry will increase revenue with Washington state businesses and create family-wage jobs that pay health and retirement benefits for Washington workers. With more investment in the film industry, Washington state would attract bigger budget productions, which would drive the formation of more film support businesses and significantly increase the labor force as the state builds capacity.**
+
+Therefore, it is the intent of the legislature to recognize both national and international competition in the motion picture production marketplace. The legislature is committed to leveling the competitive playing field and interested in a partnership with the private sector to regain Washington's place as a premier destination to make motion pictures, television, and television commercials. While at the same time the legislature is committed to ensuring that workers in the motion picture and television industry are covered under health insurance and retirement income plans.
+
+
+## Section 2
+> This section modifies existing section [43.365.030](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
+
+1. A Washington motion picture competitiveness program under this chapter must be administered by a board of directors appointed by the governor, and the appointments must be made within sixty days following enactment. The department, after consulting with the board, must adopt rules for the standards that shall be used to evaluate the applications for funding assistance prior to June 30, 2006.
+
+2. The board must evaluate and award financial assistance to motion picture projects under rules set forth under RCW 43.365.020.
+
+3. The board must consist of the following members:
+
+    a. **Two members** representing the Washington motion picture production industry**, one of whom must demonstrate expertise in the financing of motion picture projects**;
+
+    b. One member representing the Washington **interactive entertainment** industry **who does not represent any aspect of that industry involved in gambling, as that term is defined in RCW 9.46.0237**;
+
+    c. One member representing **technologies impacting** the Washington  emerging motion picture industry;
+
+    d. Two members representing labor unions affiliated with Washington motion picture production;
+
+    e.
+
+**Three members representing industries and businesses impacted by motion picture production, one of whom must represent industries or businesses located east of the crest of the Cascade mountain range and one of whom must represent industries or businesses located west of the crest of the Cascade mountain range;**
+
+    f. **One cochair of the board's equity committee, not already serving on the board, recommended by the board to the governor;**
+
+    g. **One cochair of the board's advisory committee, also known as the film leadership council, not already serving on the board, recommended by the board to the governor**; and
+
+    h. A chairperson, chosen at large, must serve at the pleasure of the governor.
+
+4. The term of the board members, other than the chair, is four years, except as provided in subsection (5) of this section.
+
+5. The governor must appoint board members  to  four-year staggered terms
+
+**, except the board member initially appointed to the position in subsection (3)(c) of this section and the board member initially appointed to the position in subsection (3)(g) of this section must each be appointed to a two-year term. Once those initial two-year terms expire, all subsequent terms are for four years**.
+
+6. A board member appointed by the governor may be removed by the governor for cause under RCW 43.06.070 and 43.06.080.
+
+7. **Seven** members of the board constitute a quorum.
+
+8. The board must elect a treasurer and secretary annually, and other officers as the board members determine necessary, and may adopt bylaws or rules for its own government.
+
+9. The board must make any information available at the request of the department to administer this chapter.
+
+10. Contributions received by a board must be deposited into the account described in RCW 43.365.020(2).
+
+
+## Section 3
+> This section modifies existing section [43.365.020](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
+
+1. The department must adopt criteria for the approved motion picture competitiveness program with the sole purpose of revitalizing the state's economic, cultural, and educational standing in the national and international market of motion picture production. Rules adopted by the department shall allow the program, within the established criteria, to provide funding assistance only when it captures economic opportunities for Washington's communities and businesses and shall only be provided under a contractual arrangement with a private entity. In establishing the criteria, the department shall consider:
+
+    a. The additional income and tax revenue to be retained in the state for general purposes;
+
+    b. The creation and retention of family-wage jobs which provide health insurance and payments into a retirement plan;
+
+    c. The impact of motion picture projects to maximize in-state labor and the use of in-state film production and film postproduction companies;
+
+    d. The impact upon the local economies and the state economy as a whole, including multiplier effects;
+
+    e. The intangible impact on the state and local communities that comes with motion picture projects;
+
+    f. The regional, national, and international competitiveness of the motion picture filming industry;
+
+    g. The revitalization of the state as a premier venue for motion picture production and national television commercial campaigns;
+
+    h. Partnerships with the private sector to bolster film production in the state and serve as an educational and cultural purpose for its citizens;
+
+    i. The vitality of the state's motion picture industry as a necessary and critical factor in promoting the state as a premier tourist and cultural destination;
+
+    j. Giving preference to additional seasons of television series that have previously qualified;
+
+    k. Other factors the department may deem appropriate for the implementation of this chapter.
+
+2. The board of directors created under RCW 43.365.030 shall create and administer an account for carrying out the purposes of subsection (3) of this section.
+
+3. Money received by the approved motion picture competitiveness program shall be used only for:
+
+    a. Health insurance and payments into a retirement plan, and other costs associated with film production;
+
+    b. Staff and related expenses to maintain the program's proper administration and operation**; and**
+
+    c. **Supporting the growth and development of the Washington state film industry through career connected learning, workforce development, and business development with a focus on better supporting people from marginalized or rural communities**.
+
+4. Except as provided otherwise in subsection (7) of this section, maximum funding assistance from the approved motion picture competitiveness program is limited to an amount up to thirty percent of the total actual investment in the state of at least:
+
+    a. Five hundred thousand dollars for a single motion picture produced in Washington state; or
+
+    b. One hundred fifty thousand dollars for a television commercial associated with a national or regional advertisement campaign produced in Washington state.
+
+5. Except as provided otherwise in subsection (7) of this section, maximum funding assistance from the approved motion picture competitiveness program is limited to an amount up to thirty-five percent of the total actual investment of at least three hundred thousand dollars per episode produced in Washington state. A minimum of six episodes of a series must be produced to qualify under this subsection. A maximum of up to thirty percent of the total actual investment from the approved motion picture competitiveness program may be awarded to an episodic series of less than six episodes.
+
+6. With respect to costs associated with nonstate labor for motion pictures and episodic services, funding assistance from the approved motion picture competitiveness program is limited to an amount up to fifteen percent of the total actual investment used for costs associated with nonstate labor. To qualify under this subsection, the production must have a labor force of at least eighty-five percent of Washington residents. The board may establish additional criteria to maximize the use of in-state labor.
+
+7. [Empty]
+
+    a. The approved motion picture competitiveness program may allocate an annual aggregate of no more than ten percent of the qualifying contributions by the program under RCW 82.04.4489 to provide funding support for filmmakers who are Washington residents, new forms of production, and emerging technologies.
+
+        i. Up to thirty percent of the actual investment for a motion picture with an actual investment lower than that of motion pictures under subsection (4)(a) of this section; or
+
+        ii. Up to thirty percent of the actual investment of an interactive motion picture intended for multiplatform exhibition and distribution.
+
+    b. Subsections (4) and (5) of this section do not apply to this subsection.
+
+8. Funding assistance approval must be determined by the approved motion picture competitiveness program within a maximum of thirty calendar days from when the application is received, if the application is submitted after August 15, 2006.
+
+
+## Section 4
+> This section modifies existing section [82.04.4489](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. Subject to the limitations in this section, a credit is allowed against the tax imposed under this chapter for contributions made by a person to a Washington motion picture competitiveness program.
+
+2. The person must make the contribution before claiming a credit authorized under this section. Credits earned under this section may be claimed against taxes due for the calendar year in which the contribution is made. The amount of credit claimed for a reporting period may not exceed the tax otherwise due under this chapter for that reporting period. No person may claim more than **$1,000,000** of credit in any calendar year, including credit carried over from a previous calendar year. No refunds may be granted for any unused credits.
+
+3. The maximum credit that may be earned for each calendar year under this section for a person is limited to the lesser of **$1,000,000** or an amount equal to one hundred percent of the contributions made by the person to a program during the calendar year.
+
+4. Except as provided under subsection (5) of this section, a tax credit claimed under this section may not be carried over to another year.
+
+5. Any amount of tax credit otherwise allowable under this section not claimed by the person in any calendar year may be carried over and claimed against the person's tax liability for the next succeeding calendar year. Any credit remaining unused in the next succeeding calendar year may be carried forward and claimed against the person's tax liability for the second succeeding calendar year; and any credit not used in that second succeeding calendar year may be carried over and claimed against the person's tax liability for the third succeeding calendar year, but may not be carried over for any calendar year thereafter.
+
+6. Credits are available on a first-in-time basis. The department must disallow any credits, or portion thereof, that would cause the total amount of credits claimed under this section during any calendar year to exceed **$20,000,000**. If this limitation is reached, the department must notify all Washington motion picture competitiveness programs that the annual statewide limit has been met. In addition, the department must provide written notice to any person who has claimed tax credits in excess of the limitation in this subsection. The notice must indicate the amount of tax due and provide that the tax be paid within thirty days from the date of the notice. The department may not assess penalties and interest as provided in chapter 82.32 RCW on the amount due in the initial notice if the amount due is paid by the due date specified in the notice, or any extension thereof.
+
+7. To claim a credit under this section, a person must electronically file with the department all returns, forms, and any other information required by the department, in an electronic format as provided or approved by the department. Any return, form, or information required to be filed in an electronic format under this section is not filed until received by the department in an electronic format. As used in this subsection, "returns" has the same meaning as "return" in RCW 82.32.050.
+
+8. No application is necessary for the tax credit. The person must keep records necessary for the department to verify eligibility under this section.
+
+9. A Washington motion picture competitiveness program must provide to the department, upon request, such information needed to verify eligibility for credit under this section, including information regarding contributions received by the program.
+
+10. The department may not allow any credit under this section before July 1, 2006.
+
+11. For the purposes of this section, "Washington motion picture competitiveness program" or "program" means an organization established pursuant to chapter 43.365 RCW.
+
+12. **Persons claiming a credit against the tax imposed under this chapter for contributions made to a Washington motion picture competitiveness program and not otherwise receiving funding assistance under RCW 43.365.020 are exempt from the annual reporting requirements in RCW 82.32.534 and 43.365.040.**
+
+13. No credit may be earned for contributions made on or after July 1, 2027.
+
+
+## Section 5
+> This section modifies existing section [43.365.040](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
+
+1. The legislature finds that accountability and effectiveness are important aspects of setting tax policy. In order to make policy choices regarding the best use of limited state resources the legislature needs information on how incentives are used.
+
+2. Each motion picture production receiving funding assistance under RCW 43.365.020 must report information to the department by filing a complete annual survey. The survey is due by March 31st of the year following any calendar year in which funding assistance under RCW 43.365.020 is taken. The department may extend the due date for timely filing of annual surveys under this section if failure to file was the result of circumstances beyond the control of the motion picture production receiving the funding assistance.
+
+3. The Washington motion picture competitiveness program established in RCW 43.365.030, in collaboration with the department and the department of revenue, and in consultation with the joint legislative audit and review committee, must develop a survey form and instructions that accompany the survey form by November 1, 2012. The instructions must provide sufficient detail to ensure consistent reporting. The survey must be designed to acquire data to allow the state to better measure the effectiveness of the program and to provide transparency of the motion picture competitiveness program. The survey must include:
+
+    a. The total amount of taxes paid;
+
+    b. The amount of taxes paid classified by type, which may include, but is not limited to, sales taxes, use taxes, business and occupation taxes, unemployment insurance taxes, and workers' compensation premiums;
+
+    c. The amount of funding assistance received; and
+
+    d. The following information for employment positions in Washington by the motion picture production receiving funding assistance, including indirect employment by contractors or other affiliates:
+
+        i. The number of total employment positions;
+
+        ii. The average number of hours worked by employed individuals;
+
+        iii. The average base pay of individuals employed by motion picture companies, including contributions to health care benefits and retirement plans;
+
+        iv. The number of employment positions that have employer-provided medical, dental, and retirement benefits; and
+
+    v. The number of employment positions filled by Washington state residents, and residency information for employment positions filled by people from other locations.
+
+4. The department may request additional information necessary to measure the results of the funding assistance program, to be submitted at the same time as the survey.
+
+5. If a person fails to submit an annual survey under subsection (2) of this section by the due date of the report or any extension the department must declare the amount of funding assistance for the previous calendar year to be immediately due and payable. The department must assess interest, but not penalties, on the amounts due under this section. The interest is assessed at the rate provided for delinquent taxes under chapter 82.32 RCW, retroactively to the date the funding assistance was received, and accrues until the funding assistance is repaid.
+
+6. The department must use the information from this section to prepare summary descriptive statistics. The department must report these statistics to the legislature each even-numbered year by September 1st. The department must provide the complete annual surveys to the joint legislative audit and review committee**, which shall perform a review as required under RCW 43.365.050**.
+
+7. The motion picture competitiveness program must **periodically audit and generally** monitor the survey information submitted by production companies for completeness and accuracy.
+
+
+## Section 6
+> This section modifies existing section [43.365.050](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
+
+1. **It is the legislature's specific public policy objective to increase the viability of the motion picture and film industry and associated creative industries in Washington state. It is the legislature's intent to increase the credit available under RCW 82.04.4489 in order to attract additional motion picture and film projects, thereby increasing family-wage jobs.**
+
+2. The joint legislative audit and review committee **must review and** make a recommendation to the **fiscal committees of the legislature** by December 1, **2026**, regarding the effectiveness of the motion picture competitiveness program including, but not limited to, the amount of state revenue generated, the amount **and number** of family **-wage** jobs with benefits created, adherence to the criteria in RCW 43.365.020, **changes in Washington's share of the film employment market,** and any other factors deemed appropriate by the joint legislative audit and review committee.
+
+3. **In order to obtain the data necessary to perform the review in subsection (2) of this section, the joint legislative audit and review committee may refer to tax data provided to the department of revenue and the annual survey required under RCW 43.365.040.**
+
