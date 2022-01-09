@@ -1,14 +1,6 @@
 # 2021-22
-
 ## In Committee
 ### H Approps
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -75,12 +67,6 @@ Active bills:
 * [HB 1175](hb/1175/) - Host homes/property tax | *Public Hearing Tue, Jan 11 1:30 pm*
 
 
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -140,13 +126,6 @@ Active bills:
 
 ### H State Govt & Tr
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -171,13 +150,6 @@ Active bills:
 
 ### H Labor & Workpla
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -186,13 +158,6 @@ Active bills:
 </details>
 
 ### H HC/Wellness
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -232,13 +197,6 @@ Active bills:
 * [HB 1165](hb/1165/) - Credit union act | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1210](hb/1210/) - Cannabis terminology | *Executive Session Fri, Jan 14 10:00 am*
 * [HB 1241](hb/1241/) - Growth management act plans | *Public Hearing Tue, Jan 11 10:00 am*
-
-
-
-
-
-
-
 
 
 <details>
@@ -288,13 +246,6 @@ Active bills:
 
 ### H Comm & Econ De
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -307,13 +258,6 @@ Active bills:
 </details>
 
 ### H Civil R & Judi
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -346,13 +290,6 @@ Active bills:
 
 ### H Env & Energy
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -379,13 +316,6 @@ Active bills:
 
 ### H Transportation
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -411,12 +341,6 @@ Active bills:
 ### H Rules C
 Active bills:
 * [HB 1202](hb/1202/) - Police misconduct/civil rem. | *Public Hearing Tue, Jan 11 10:00 am*
-
-
-
-
-
-
 
 
 <details>
@@ -450,13 +374,6 @@ Active bills:
 * [HB 1412](hb/1412/) - Legal financial obligations | *Public Hearing Tue, Jan 11 10:00 am*
 
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -486,13 +403,6 @@ Active bills:
 
 ### H Commerce & Gam
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -505,13 +415,6 @@ Active bills:
 </details>
 
 ### H Education
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -536,13 +439,6 @@ Active bills:
 
 ### H 2nd Reading
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -553,12 +449,6 @@ Active bills:
 Active bills:
 * [HB 1507](hb/1507/) - Indep. prosecutions/police | *Public Hearing Thu, Jan 13 1:30 pm*
 * [HB 1571](hb/1571/) - Indigenous persons/services | *Public Hearing Fri, Jan 14 10:00 am*
-
-
-
-
-
-
 
 
 <details>
@@ -581,13 +471,6 @@ Active bills:
 
 ### H Labor & Workpl
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -604,13 +487,6 @@ Active bills:
 
 ### H Cap Budget
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -620,13 +496,6 @@ Active bills:
 </details>
 
 ### H RDev, Ag&NR
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -644,13 +513,6 @@ Active bills:
 
 ### Gov vetoed
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -659,13 +521,6 @@ Active bills:
 </details>
 
 ### H Coll & Wkf Dev
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -679,12 +534,6 @@ Active bills:
 ### H Local Govt
 Active bills:
 * [HB 1337](hb/1337/) - Accessory dwelling units | *Public Hearing Wed, Jan 12 10:00 am*
-
-
-
-
-
-
 
 
 <details>
@@ -703,13 +552,6 @@ Active bills:
 * [HB 1497](hb/1497/) - Telephone solicitation | *Public Hearing Wed, Jan 12 8:00 am*
 
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -725,13 +567,6 @@ Active bills:
 
 ### H Hous, Human Sv
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -746,12 +581,6 @@ Active bills:
 * [HB 1518](hb/1518/) - Paper products/environment | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1552](hb/1552/) - Personal data/state agencies | *Public Hearing Mon, Jan 10 1:30 pm*
 * [HB 1566](hb/1566/) - Legislature/disabilities | *Public Hearing Thu, Jan 13 10:00 am*
-
-
-
-
-
-
 
 
 <details>
@@ -773,13 +602,6 @@ Active bills:
 
 ### H Children, Yout
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -791,13 +613,6 @@ Active bills:
 
 ### H Comm & Econ Dev
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -806,13 +621,6 @@ Active bills:
 </details>
 
 ### H Children, Youth
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -914,12 +722,6 @@ Active bills:
 * [HB 1810](hb/1810/) - Electronic products repair | *Public Hearing Thu, Jan 13 10:00 am*
 * [HB 1816](hb/1816/) - Operating budget, supp. | *Public Hearing Mon, Jan 10 3:30 pm*
 * [HB 1835](hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment. | *Public Hearing Wed, Jan 12 8:00 am*
-
-
-
-
-
-
 
 
 <details>
@@ -1124,13 +926,6 @@ Active bills:
 
 ### H Filed Sec/St
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1141,13 +936,6 @@ Active bills:
 </details>
 
 ### S Labor, Comm &
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1172,13 +960,6 @@ Active bills:
 </details>
 
 ### S Rules X
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1222,13 +1003,6 @@ Active bills:
 </details>
 
 ### S Rules 3
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1288,13 +1062,6 @@ Active bills:
 </details>
 
 ### S Ways & Means
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1369,13 +1136,6 @@ Active bills:
 
 ### S Environment, E
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1405,13 +1165,6 @@ Active bills:
 
 ### S Transportation
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1430,13 +1183,6 @@ Active bills:
 
 ### S Rules 2
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1448,13 +1194,6 @@ Active bills:
 </details>
 
 ### S EL/K-12
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1477,13 +1216,6 @@ Active bills:
 </details>
 
 ### S State Govt & E
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1510,13 +1242,6 @@ Active bills:
 </details>
 
 ### S Law & Justice
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1549,13 +1274,6 @@ Active bills:
 
 ### S Business, Fina
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1573,13 +1291,6 @@ Active bills:
 </details>
 
 ### S Health & Long
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1606,13 +1317,6 @@ Active bills:
 
 ### S Ag/Water/Natur
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1626,13 +1330,6 @@ Active bills:
 </details>
 
 ### S State Govt & El
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1652,13 +1349,6 @@ Active bills:
 
 ### S Environment, En
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1667,13 +1357,6 @@ Active bills:
 </details>
 
 ### S Housing & Loca
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1689,13 +1372,6 @@ Active bills:
 
 ### S Rules
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1707,13 +1383,6 @@ Active bills:
 
 ### S Behavioral Hea
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1722,13 +1391,6 @@ Active bills:
 </details>
 
 ### S Human Svcs, Re
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1744,13 +1406,6 @@ Active bills:
 
 ### S Housing & Local
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1758,13 +1413,6 @@ Active bills:
 </details>
 
 ### S Labor, Comm & T
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1774,13 +1422,6 @@ Active bills:
 
 ### S Business, Finan
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -1788,13 +1429,6 @@ Active bills:
 </details>
 
 ### S Human Svcs, Ree
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1879,12 +1513,6 @@ Active bills:
 * [SB 5692](sb/5692/) - Concerning programming at the department of corrections. | *Public Hearing Fri, Jan 14 10:30 am*
 * [SB 5693](sb/5693/) - Operating budget, supp. | *Public Hearing Tue, Jan 11 4:00 pm*
 * [SB 5746](sb/5746/) - Drought preparedness | *Public Hearing Thu, Jan 13 1:30 pm*
-
-
-
-
-
-
 
 
 <details>
@@ -2102,13 +1730,6 @@ Active bills:
 
 ### S Filed Sec/St
 
-
-
-
-
-
-
-
 <details>
     <summary>Click to view inactive bills</summary>
 
@@ -2117,13 +1738,6 @@ Active bills:
 </details>
 
 ## Passed
-
-
-
-
-
-
-
 
 <details>
     <summary>Click to view inactive bills</summary>
