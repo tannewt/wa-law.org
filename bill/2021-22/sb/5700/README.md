@@ -1,5 +1,5 @@
-# SB 5700 - Concerning participation in insurance plans and contracts by separated plan 2 members of certain retirement systems.
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5700&Year=2021)
+# SB 5700 - Plan 2 members/insurance
+*Status: First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5700&Year=2021)
 
 Concerning participation in insurance plans and contracts by separated plan 2 members of certain retirement systems.
 

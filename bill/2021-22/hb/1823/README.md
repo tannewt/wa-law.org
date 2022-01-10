@@ -1,5 +1,5 @@
-# HB 1823 - Concerning environmental leadership through outdoor recreation and climate adaptation investments.
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1823&Year=2021)
+# HB 1823 - Climate funding/outdoor rec.
+*Status: First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1823&Year=2021)
 
 Concerning environmental leadership through outdoor recreation and climate adaptation investments.
 

@@ -1,5 +1,5 @@
 # SB 5608 - Park and land public access
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5608&Year=2021)
+*Status: First reading, referred to Agriculture, Water, Natural Resources & Parks (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5608&Year=2021)
 
 Concerning free public access to state parks and lands.
 

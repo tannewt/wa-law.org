@@ -1,5 +1,5 @@
-# SB 5604 - Adding references to contractor licensing laws in workers' compensation, public works, and prevailing wage statutes.
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5604&Year=2021)
+# SB 5604 - Contractor licensing refs
+*Status: First reading, referred to Labor, Commerce & Tribal Affairs (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5604&Year=2021)
 
 Adding references to contractor licensing laws in workers' compensation, public works, and prevailing wage statutes.
 

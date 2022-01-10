@@ -1,5 +1,5 @@
-# HB 1640 - Creating the joint legislative tribal-state relations committee as an agency within the legislative branch.
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1640&Year=2021)
+# HB 1640 - Tribal-state committee
+*Status: First reading, referred to State Government & Tribal Relations (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1640&Year=2021)
 
 Creating the joint legislative tribal-state relations committee as an agency within the legislative branch.
 

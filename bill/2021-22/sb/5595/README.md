@@ -1,5 +1,5 @@
-# SB 5595 - Concerning prototypical school formulas for physical, social, and emotional support in schools.
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5595&Year=2021)
+# SB 5595 - Schools/support funding
+*Status: First reading, referred to Early Learning & K-12 Education (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5595&Year=2021)
 
 Concerning prototypical school formulas for physical, social, and emotional support in schools.
 

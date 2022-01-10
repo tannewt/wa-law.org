@@ -1,5 +1,5 @@
-# HB 1704 - Regulating service contracts and protection product guarantees.
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1704&Year=2021)
+# HB 1704 - Service contracts
+*Status: First reading, referred to Consumer Protection & Business (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1704&Year=2021)
 
 Regulating service contracts and protection product guarantees.
 

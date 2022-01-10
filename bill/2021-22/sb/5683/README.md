@@ -1,5 +1,5 @@
 # SB 5683 - Proof of vaccination
-*Status: Prefiled for introduction.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5683&Year=2021)
+*Status: First reading, referred to Health & Long Term Care (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5683&Year=2021)
 
 Prohibiting the government from requiring proof of vaccination to access public places.
 
