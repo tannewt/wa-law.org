@@ -1,5 +1,5 @@
 # HB 1685 - Cottage food sales cap
-*Status: First reading, referred to Rural Development, Agriculture & Natural Resources (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1685&Year=2021)
+*Status: First reading, referred to Rural Development, Agriculture & Natural Resources.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1685&Year=2021)
 
 Increasing the cap on gross sales for cottage food operations.
 

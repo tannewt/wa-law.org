@@ -1,5 +1,5 @@
 # HB 1593 - Landlord mitigation/victims
-*Status: First reading, referred to Housing, Human Services & Veterans (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1593&Year=2021)
+*Status: First reading, referred to Housing, Human Services & Veterans.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1593&Year=2021)
 
 Expanding the landlord mitigation program to alleviate the financial burden on victims attempting to flee domestic violence, sexual assault, unlawful harassment, or stalking.
 

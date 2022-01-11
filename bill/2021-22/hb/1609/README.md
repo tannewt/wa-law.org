@@ -1,5 +1,5 @@
 # HB 1609 - Health emergencies/federal
-*Status: First reading, referred to Labor & Workplace Standards (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1609&Year=2021)
+*Status: First reading, referred to Labor & Workplace Standards.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1609&Year=2021)
 
 Limiting agency authority to align with federal standards during public health emergencies.
 
