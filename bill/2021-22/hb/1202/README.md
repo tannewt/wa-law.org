@@ -13,3 +13,5 @@ The House Civil Rights & Judiciary committee will be holding a public hearing on
 * 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29361&aId=143744&caId=18484&tId=3)
 * ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29361&aId=143744&caId=18484&tId=4)
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29361&aId=143744&caId=18484&tId=2)
+
+Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=18484).

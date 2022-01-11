@@ -11,3 +11,5 @@ The House Public Safety committee will be holding a public hearing on Tue, Jan 1
 * 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29371&aId=143494&caId=18554&tId=3)
 * ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29371&aId=143494&caId=18554&tId=4)
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29371&aId=143494&caId=18554&tId=2)
+
+Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=18554).

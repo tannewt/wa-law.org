@@ -130,6 +130,8 @@ for start_year in range(2021, 2023, 2):
                         new_lines.append(f"* 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov{testimony_links[TESTIFY_NOTED]})")
                         new_lines.append(f"* ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov{testimony_links[TESTIFY_WRITTEN]})")
                         new_lines.append(f"* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov{testimony_links[TESTIFY_REMOTE]})")
+                        new_lines.append("")
+                        new_lines.append(f"Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId={caId}).")
                         bill_path.write_text("\n".join(new_lines))
 
         print()
