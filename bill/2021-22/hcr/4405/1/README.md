@@ -1,3 +1,3 @@
-# House Concurrent Resolution 4405
+# House Concurrent Resolution 4405 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Concurrent%20Resolutions/4405.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/4405.PL.xml)

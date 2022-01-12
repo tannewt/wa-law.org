@@ -1,0 +1,218 @@
+# House Bill 1913
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1913.xml)
+## Section 1
+1. The legislature finds that:
+
+    a. In 2019, the legislature enacted the long-term services and supports trust program, which imposed a .58 percent premium on wages beginning in January 2022 to pay for long-term care benefits for qualified individuals. The maximum benefits that a person may receive under this program is $36,500, which will be wholly inadequate to meet the needs of most people seeking care under the program;
+
+    b. In a 2019 advisory vote, a resounding 62.9 percent of Washington voters recommended repealing the long-term services and supports trust program. In 2020, Washington voters rejected a proposed constitutional amendment to allow further investment of program funds, resulting in a projected $15,000,000,000 unfunded liability (on a net present value basis) and necessitating future benefit cuts or premium increases to maintain the program's solvency; and
+
+    c. A new approach must be considered to replace the long-term services and supports trust program; one that encourages individuals to responsibly plan for their long-term care needs, recognizes both the long-term savings produced and the dignity preserved by allowing seniors to age in their homes, ensures coverage is affordable, leverages existing state funds, provides consumers with options, and trusts Washingtonians to make the best decisions for themselves and their loved ones.
+
+2. Therefore, it is the intent of the legislature to repeal the existing long-term services and supports trust program and replace it with a new program of state-financed reinsurance that will stabilize the private long-term care insurance market and provide Washington consumers with access to long-term care coverage that is both affordable and optional.
+
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Account" means the Washington long-term care reinsurance program account created in section 9 of this act.
+
+2. "Association" means the Washington long-term care reinsurance association created in section 3 of this act.
+
+3. "Attachment point" means the threshold amount for claims costs incurred by an eligible long-term care insurance issuer for an enrolled individual's covered benefits in a benefit year, above which the claims costs for benefits are eligible for reinsurance payments under the program.
+
+4. "Commissioner" means the Washington state insurance commissioner.
+
+5. "Program" means the Washington long-term care reinsurance program established in section 4 of this act.
+
+6. "Reinsurance payment" means an amount paid by the program to an eligible long-term care insurance carrier.
+
+
+## Section 3
+1. The Washington long-term care reinsurance association is created as a nonprofit corporation. The association is formed for the purpose of operating the Washington long-term care reinsurance program. The association is comprised of all long-term care insurance issuers offering long-term care insurance policies under chapter 48.43 RCW on behalf of residents of Washington. The association is a nonprofit corporation under chapter 24.03 RCW and has the powers granted under that chapter.
+
+2. The association is governed by a board consisting of:
+
+    a. Two members representing issuers of individual long-term care insurance policies in Washington under chapter 48.83 RCW;
+
+    b. Two members representing issuers of group long-term care insurance policies in Washington under chapter 48.83 RCW;
+
+    c. A member representing an organization that represents retired persons;
+
+    d. A member with technical expertise in reinsurance; and
+
+    e. A public member representing consumers who purchase individual market long-term care insurance policies.
+
+3. The association may perform the functions specified in section 4 of this act.
+
+4. The commissioner shall convene the initial meeting of the association board.
+
+
+## Section 4
+1. The Washington long-term care reinsurance program is established for the purposes of stabilizing the rates and premiums for long-term care insurance, expanding access to long-term care insurance, and providing assurance that the long-term care insurance policies will be available into the future.
+
+2. The program must be operated by the association through the board in accordance with the long-term care reinsurance program plan of operation approved by the commissioner under section 6 of this act. The board of the association shall serve as the program management board for the program.
+
+3. The board has the following powers and duties related to operation of the program:
+
+    a. Prepare and propose to the association amendments to the articles of organization and bylaws of the association to provide for operation of the program;
+
+    b. Prepare and adopt a long-term care reinsurance program plan of operation as provided in section 6 of this act and submit it to the commissioner for approval;
+
+    c. Conduct all activities in accordance with the program plan of operation approved by the commissioner under section 6 of this act;
+
+    d. Enter into contracts as necessary to collect and disburse the assessment for reinsurance payments;
+
+    e. Enter into contracts as necessary to operate and administer the program;
+
+    f. Sue or be sued, including taking any legal action necessary or proper for the recovery of any assessment for, on behalf of, or against health carriers and third-party administrators or other participating persons for reinsurance payments;
+
+    g. Appoint, from among members of the board, committees as necessary to provide technical assistance in the operation of the program;
+
+    h. Hire independent consultants, including accountants, actuaries, attorneys, investment advisors, and auditors, as the board deems necessary for operation of the program;
+
+    i. Conduct periodic audits to assure the general accuracy of the financial data submitted to the program;
+
+    j. Cause the program to be audited by an independent certified public accountant;
+
+    k. Borrow and repay such working capital, reserve, or other funds as, in the judgment of the board, may be necessary for the operation of the program;
+
+    l. Contract with an entity for program administration. The board may contract with any entity that is under contract with the board on the effective date of this section as needed for operation of the program for the period of the current contract. Any subsequent contract for administration of the association's other duties shall include duties as may be assigned by the board that are necessary for operation of the program for the period during which the program will be in effect; and
+
+    m. Perform any other functions to carry out the program plan of operation and to affect any or all of the purposes for which the program is organized.
+
+4. This section does not require or authorize the adoption of rules by the board under chapter 34.05 RCW.
+
+
+## Section 5
+1. The program is subject to examination by the commissioner as provided under chapter 48.03 RCW.
+
+2. The board shall submit to the commissioner, by November 1st of the year following the applicable benefit year or 60 calendar days following the final disbursement of reinsurance payments for the applicable benefit year, whichever is later, a financial report for the applicable benefit year in a form approved by the commissioner. The report shall include the following information for the benefit year that is the subject of the report, at a minimum:
+
+    a. Funds deposited in the account;
+
+    b. Requests for reinsurance payments received from eligible long-term care insurance issuers;
+
+    c. Reinsurance payments made to eligible long-term care insurance issuers; and
+
+    d. Administrative and operational expenses incurred for the program.
+
+3. The report must be posted on the association's website.
+
+
+## Section 6
+The Washington long-term care reinsurance program plan of operation must be submitted by the board to the commissioner for review by May 15, 2023, and must be approved by the commissioner by June 1, 2023. The plan of operation shall:
+
+1. Provide for the operation of the program separate and apart from the association's other duties;
+
+2. Establish procedures for the handling and accounting of assets and moneys of the program;
+
+3. Establish regular times and places for meetings of the board in connection with operation of the program;
+
+4. Establish data and information requirements for submission of reinsurance payment requests by eligible long-term care insurance issuers, processes for notification of eligible long-term care insurance issuers regarding reinsurance payments and issuing payments, and processes to resolve eligible long-term care insurance issuer appeals related to the amount of reinsurance payments, as provided in section 8 of this act;
+
+5. Establish procedures for the collection of assessments from all long-term care insurance issuers to provide for reinsurance claims paid under the program and for administrative expenses incurred or estimated to be incurred during the period for which the assessment is made as provided in section 8 of this act;
+
+6. Establish procedures for records to be kept of all financial transactions and for an annual fiscal reporting to the commissioner as provided in section 5 of this act;
+
+7. Determine the amount of contingency funding necessary to ensure the continued operation of the program, not to exceed 10 percent of gross program assessments;
+
+8. Establish a schedule and procedures for long-term care insurance issuers to submit annual statements and other reports deemed necessary by the board to calculate the assessment in section 8 of this act; and
+
+9. Contain additional provisions necessary for the execution of the powers and duties of the program.
+
+
+## Section 7
+1. [Empty]
+
+    a. The commissioner shall determine the attachment point for the program annually, in order to:
+
+        i. Manage the program within available assessment resources;
+
+        ii. Mitigate the impact of high-cost long-term care insurance policyholders on premium rates in Washington's long-term care insurance market;
+
+        iii. Stabilize or reduce premium rates in Washington's long-term care insurance market; and
+
+        iv. Increase participation in Washington's long-term care insurance market.
+
+    b. Each year the attachment point must be established by the commissioner by March 31st of the year before the applicable benefit year. The attachment point for the claims related to the 2024 benefit year shall be established as 120 percent of the total expected costs for each cohort group. The commissioner shall adjust the attachment point for subsequent years in accordance with claims history data and other information that assists the commissioner in establishing an attachment point that promotes the goals in (a) of this subsection. The commissioner shall identify cohort groups within Washington's long-term care insurance market and establish total expected costs for long-term care insurance policyholders within each cohort group. The commissioner shall identify any data needed from the program to determine the attachment point, cohort groups, and total expected costs within each cohort group for each upcoming benefit year, and such data must be timely provided to the commissioner by the program upon the commissioner's request.
+
+2. An eligible long-term care insurance issuer becomes eligible for a reinsurance payment when:
+
+    a. The claims costs for the covered benefits of an individual enrolled in the eligible long-term care insurance issuer's plan exceed the attachment point; and
+
+    b. The eligible long-term care insurance issuer makes its requests for reinsurance payments by April 30th in accordance with any requirements established by the board including, but not limited to, requirements related to the format and structure for submission of claims for reinsurance payments. The claims data needed for submission of claims for reinsurance payments shall be established by the commissioner.
+
+3. The amount of the reinsurance payment is the amount of expense incurred by the eligible long-term care insurance issuer above the attachment point for each cohort group covered by the eligible long-term care insurance issuer that exceeds the attachment point. The amount of the reinsurance payment that eligible long-term care insurance issuers may receive for cohort groups that exceed the attachment point relevant to that cohort group may be reduced according to an offset formula established by the commissioner to account for a portion of the cohort groups covered by the eligible long-term care insurance issuer that did not exceed the attachment point. The commissioner shall consider the goals of the attachment point established in subsection (1) of this section when establishing the offset formula.
+
+4. For each applicable benefit year, on May 30th of the year following the applicable benefit year, the program shall send an initial settlement report to each eligible long-term care insurance issuer in response to their final claims submission for the applicable benefit year. By August 1st of the year following the applicable benefit year, after resolution of any appeals related to the amount of reinsurance payments received, the program shall disburse all applicable reinsurance payments to an eligible long-term care insurance issuer.
+
+5. [Empty]
+
+    a. The total annual reinsurance payments made to all eligible long-term care insurance issuers may not exceed $200,000,000 for any applicable benefit year.
+
+    b. [Empty]
+
+        i. If, for any applicable benefit year, the claims submitted under this section exceed $200,000,000, the board shall make a pro rata reduction in claims payments necessary to keep reimbursement amounts at or below $200,000,000.
+
+        ii. If, for any applicable benefit year, the funds available for claims are less than $200,000,000 and insufficient to fund the reinsurance payments required by this section, the board shall make a pro rata reduction in claims necessary to remain within the funds available for reinsurance payments.
+
+    c. If, for any applicable benefit year, the final disbursement of reinsurance payments to eligible long-term care insurance issuers is less than $200,000,000, funds remaining in the Washington long-term care reinsurance program account created in section 9 of this act must be used to reduce assessments for the subsequent applicable calendar year or to establish contingency funds consistent with the program plan of operation.
+
+
+## Section 8
+1. All long-term care insurance issuers offering long-term care insurance policies under chapter 48.43 RCW on behalf of Washington residents shall pay an annual reinsurance assessment under this section. On or before October 1, 2023, and on or before May 15th of each subsequent year, the board shall determine the reinsurance assessment for the subsequent calendar year and report the amount to the commissioner for review and approval. The gross assessment amount must be adequate to cover the total expected reinsurance claims for the subsequent calendar year plus anticipated administrative expenses not to exceed 1.5 percent of gross program assessments for the subsequent calendar year. The gross assessment amount for any calendar year may not exceed $200,000,000. The gross assessment amount calculated in 2023 may include contingency funds. The gross assessment calculated in subsequent years may not include contingency funds.
+
+2. Each long-term care insurance issuer's reinsurance assessment must be determined based on annual statements and other reports deemed necessary by the board. The amount of the annual reinsurance assessment for each long-term care insurance issuer shall be established by a determination by the board of the total expected reinsurance claims for the subsequent calendar year and dividing the amount among all long-term care insurance issuers according to each issuer's total premiums charged to its long-term care insurance policyholders in Washington for the present calendar year as a percentage of the total premiums charged by all long-term care insurance issuers in Washington in the present calendar year.
+
+3. The commissioner shall approve the assessment and notify the board by October 15, 2023, and by May 30th in subsequent years.
+
+4. The board shall provide written notification to each long-term care insurance issuer offering long-term care insurance policies under chapter 48.43 RCW on behalf of Washington residents of the issuer's estimated total assessment by October 16, 2023, and June 1st of each subsequent year, and its payment obligation for the upcoming year. The board shall determine a payment schedule for receipt of reinsurance assessments under this section in accordance with the program plan of operation. Payment collections may be made no more frequently than quarterly.
+
+5. Payments are due to the board within 45 days of the payment schedule determined under subsection (4) of this section. The board shall charge interest, which begins to accrue on the 46th day, on amounts received after the 45-day period. The board may allow each long-term care insurance issuer in arrears to submit a payment plan, subject to approval by the board and initial payment under an approved payment plan.
+
+6. The board may abate or defer, in whole or in part, the assessment of a long-term care insurance issuer if, in the opinion of the board, payment of the assessment would endanger the ability of the long-term care insurance issuer to fulfill its contractual obligations. If an assessment against a long-term care insurance issuer is abated or deferred, in whole or in part, the amount by which such assessment is abated or deferred may be assessed against the other long-term care insurance issuers in a manner consistent with the basis for assessments in this section. The long-term care insurance issuer receiving such abatement or deferment remains liable to the program for the deficiency plus interest at a rate established in the program plan of operation. Upon receipt of payment of any abatement or deferment by a long-term care insurance issuer, the board shall adjust future assessments made against other long-term care insurance issuers under this subsection to reflect receipt of the payment.
+
+7. The board shall submit an annual report to the commissioner listing those long-term care insurance issuers that failed to remit their assessments.
+
+8. The board shall deposit annual assessments collected under this section, less the program's administrative expenses, with the state treasurer to the credit of the Washington long-term care reinsurance program account created in section 9 of this act.
+
+9. A long-term care insurance issuer shall submit any annual statements or other reports deemed necessary by the board to calculate the assessment under this section in a manner consistent with the schedule and procedures in the program plan of operation.
+
+
+## Section 9
+1. The Washington long-term care reinsurance program account is created in the custody of the state treasurer. All receipts from reinsurance assessments collected under section 8 of this act and any additional funding specifically appropriated to the account must be deposited directly into the account. Expenditures from the account shall be used to operate the program and to make reinsurance payments to eligible long-term care insurance issuers under the program. Only the commissioner may authorize expenditures from the account. The account is subject to the allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+2. The account may maintain an initial cash deficit for a period of no more than one fiscal year to defray its initial program costs. The legislature may make appropriations into the account to reduce program administrative costs.
+
+3. If the program is terminated, any funds remaining in the account, after allowances for remaining expenses and costs associated with the termination of the program, must be returned to the long-term care insurance issuers who have paid an assessment in the most recent assessment period in a manner consistent with the basis for the assessments in section 8 of this act.
+
+
+## Section 10
+The commissioner shall require eligible long-term care insurance issuers to calculate the premium amount the eligible long-term care insurance issuer would have charged for the benefit year if the program had not been established. The eligible long-term care insurance issuer shall submit this information as part of its rate filing. The commissioner shall consider this information as part of the rate review.
+
+
+## Section 11
+The commissioner may adopt rules necessary to carry out this chapter including, but not limited to, rules prescribing the annual establishment of the attachment point and measures to enforce reporting of long-term care policyholder information for purposes of determining expected costs for cohort groups, audits of long-term care insurance policyholder reporting, and payment of applicable assessments.
+
+
+## Section 12
+The program, long-term care insurance issuers assessed by the program, the board, officers of the program, employees of the program, contractors of the program and the contractors' employees, officers, or directors, the commissioner, the commissioner's representatives, and the commissioner's employees are not civilly or criminally liable and may not have any penalty or cause of action of any nature arise against them for any action or inaction, including any discretionary decision or failure to make a discretionary decision, when the action or inaction is done in good faith and in the performance of the powers and duties under this chapter. This section does not prohibit legal actions against the program to enforce the program's statutory or contractual duties or obligations.
+
+
+## Section 13
+> This section adds a new section to an existing chapter [82.04](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
+
+1. A person who is taxable under this chapter is allowed a credit against the tax imposed under this chapter for annual reinsurance assessments paid pursuant to section 8 of this act.
+
+2. The credit is equal to the amount of annual reinsurance assessment paid by the person pursuant to section 8 of this act for the reporting period. The credit may be carried over until used. Refunds may not be granted in the place of a credit.
+
+3. No application is necessary for the tax credit. A credit earned under this section may be claimed only on returns filed electronically with the department.
+
+4. The provisions of RCW 82.32.805 and 82.32.808 do not apply to this section.
+
+
+## Section 17
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
