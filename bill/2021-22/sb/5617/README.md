@@ -1,5 +1,5 @@
 # SB 5617 - Main street programs/pop.
-*Status: First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5617&Year=2021)
+*Status: First reading, referred to Business, Financial Services & Trade.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5617&Year=2021)
 
 Concerning population criteria for designation of local downtown and neighborhood commercial district revitalization and official local main street programs.
 

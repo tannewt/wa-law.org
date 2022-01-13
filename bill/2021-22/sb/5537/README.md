@@ -1,5 +1,5 @@
 # SB 5537 - Compulsory school attendance
-*Status: First reading, referred to Early Learning & K-12 Education (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5537&Year=2021)
+*Status: First reading, referred to Early Learning & K-12 Education.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5537&Year=2021)
 
 Changing compulsory school attendance requirements for children five, six, and seven years of age.
 
