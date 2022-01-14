@@ -1,0 +1,666 @@
+# House Bill 1981
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1981.xml)
+## Section 1
+The legislature finds that every Washington resident has a right to safe, healthy, secure, and affordable housing; and, that it is the responsibility of the state and all cities and counties to plan for all current and future residents within their jurisdictions of all income levels, race, ethnicities to have such housing.
+
+The legislature finds that it has duties under existing statutes, including chapter 36.70A RCW, to provide funding for all cities and counties to plan for new required elements of comprehensive plans including, but not limited to, planning for affordable housing and meeting the goals of the state in reducing our contribution to climate change. The legislature recognizes that it has been difficult to project what the costs may be of planning for new elements pursuant to this act.
+
+It is the intent of the legislature that the study provided for in RCW 36.70A.190, and updates to it periodically thereafter, shall determine what constitutes adequate funding for planning for new elements of comprehensive plans and for the adoption of implementing ordinances and development regulations pursuant to chapter 36.70A RCW for future comprehensive plan updates. By adopting the additional real estate excise tax in section 18 of this act for grants to support local planning, the development of ordinances, and to provide other assistance, in conjunction with authorization for local governments to increase local revenues for implementing this act, the legislature intends to provide adequate support for local governments to conduct planning and adopt ordinances and policies required by this act after fiscal year 2023.
+
+
+## Section 2
+> This section modifies existing section [36.70A.190](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. The department shall establish a program of technical and financial assistance and incentives to counties and cities to encourage and facilitate the adoption and implementation of comprehensive plans and development regulations throughout the state.
+
+2. [Empty]
+
+    a. **The department shall evaluate the costs for counties and cities to review and revise their comprehensive plans to assure compliance with this chapter. This evaluation must be completed by December 1, 2022, and updated every five years thereafter. The department shall provide a report of the evaluation to the legislature upon completion of the evaluation. The evaluation must include, at a minimum, the costs for each general jurisdiction size and type, and the costs to complete various types of planning requirements, including:**
+
+        i. **Meeting the requirements of a new goal in RCW 36.70A.020;**
+
+        ii. **Meeting the requirements of a new comprehensive plan element in RCW 36.70A.070;**
+
+        iii. **Updating a critical areas ordinance;**
+
+        iv. **Updating a shoreline master program ordinance;**
+
+    v. **Making a minor update of a comprehensive plan element;**
+
+    vi. **Making a complex update of a comprehensive plan element;**
+
+    vii. **Updating a development regulation; and**
+
+    viii. **Implementing a new development regulation.**
+
+    b. **The department shall consult with the Washington state association of counties and the association of Washington cities as part of the process for performing and completing the evaluation.**
+
+    c. **In order to ensure that jurisdictions receive adequate funding for their comprehensive plan updates, the department shall distribute funds in the form of grants from the local government planning support account as provided for in section 19 of this act.**
+
+3. [Empty]
+
+    a. The department shall develop a priority list and establish funding levels for planning and technical assistance grants both for counties and cities that plan under RCW 36.70A.040. Priority for assistance shall be based on a county's or city's population growth rates, commercial and industrial development rates, the existence and quality of a comprehensive plan and development regulations, and other relevant factors.
+
+    b. **The department may also contract with a nonprofit agency with appropriate experience in providing technical assistance and training to assist local governments related to comprehensive planning and other obligations under this chapter.**
+
+4. The department shall develop and administer a grant program to provide direct financial assistance to counties and cities for the preparation of comprehensive plans under this chapter. The department may establish provisions for county and city matching funds to conduct activities under this subsection. Grants may be expended for any purpose directly related to the preparation of a county or city comprehensive plan as the county or city and the department may agree, including, without limitation, the conducting of surveys, inventories and other data gathering and management activities, the retention of planning consultants, contracts with regional councils for planning and related services, and other related purposes.
+
+5. The department shall establish a program of technical assistance:
+
+    a. Utilizing department staff, the staff of other state agencies, and the technical resources of counties and cities to help in the development of comprehensive plans required under this chapter. The **department shall make available planners and department regulations specialists to cities and counties to assist in the development of comprehensive plans and related development regulations. Planners and specialists must possess qualifications and experience in local government planning, and must be familiar with the comprehensive planning process in Washington state. The planners and specialists shall be allocated to primarily assist in an individual region, with planners, specialists in geographic information systems and other necessary specialists, and statisticians or economists assigned to each region. The regions shall be organized as follows:**
+
+        i. **A central Puget Sound region comprised of King, Pierce, Snohomish, and Kitsap counties;**
+
+        ii. **An eastern Washington region comprised of counties located east of the crest of the Cascade mountains; and**
+
+        iii. **A western Washington region comprised of counties located west of the crest of the Cascade mountains that are not included in the central Puget Sound region, and including Skamania county;**
+
+    b. **Additional** technical assistance may include, but **is** not  limited to,  regional education and training programs and information for local and regional inventories;
+
+    c. **Providing model ordinances and development regulations to cities and counties to implement updates to ordinances and development regulations that are required under this chapter. If the department prepares a model ordinance or regulation following public review and comment, including review and comment after an environmental review conducted pursuant to chapter 43.21C RCW, that ordinance or regulation shall be entitled to deference in any review or appeal of a local government's adoption of the ordinance or regulation; and**
+
+    d. Adopting by rule procedural criteria to assist counties and cities in adopting comprehensive plans and development regulations that meet the goals and requirements of this chapter. These criteria shall reflect regional and local variations and the diversity that exists among different counties and cities that plan under this chapter.
+
+6. The department shall provide mediation services to resolve disputes between counties and cities regarding, among other things, coordination of regional issues and designation of urban growth areas.
+
+7. The department shall provide planning grants to enhance citizen participation under RCW 36.70A.140.
+
+
+## Section 3
+> This section modifies existing section [36.70A.030](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Adopt a comprehensive land use plan" means to enact a new comprehensive land use plan or to update an existing comprehensive land use plan.
+
+2. "Affordable housing" means, unless the context clearly indicates otherwise, residential housing whose monthly costs, including utilities other than telephone, do not exceed thirty percent of the monthly income of a household whose income is:
+
+    a. For rental housing, sixty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development; or
+
+    b. For owner-occupied housing, eighty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+3. "Agricultural land" means land primarily devoted to the commercial production of horticultural, viticultural, floricultural, dairy, apiary, vegetable, or animal products or of berries, grain, hay, straw, turf, seed, Christmas trees not subject to the excise tax imposed by RCW 84.33.100 through 84.33.140, finfish in upland hatcheries, or livestock, and that has long-term commercial significance for agricultural production.
+
+4. "City" means any city or town, including a code city.
+
+5. "Comprehensive land use plan," "comprehensive plan," or "plan" means a generalized coordinated land use policy statement of the governing body of a county or city that is adopted pursuant to this chapter.
+
+6. "Critical areas" include the following areas and ecosystems: (a) Wetlands; (b) areas with a critical recharging effect on aquifers used for potable water; (c) fish and wildlife habitat conservation areas; (d) frequently flooded areas; and (e) geologically hazardous areas. "Fish and wildlife habitat conservation areas" does not include such artificial features or constructs as irrigation delivery systems, irrigation infrastructure, irrigation canals, or drainage ditches that lie within the boundaries of and are maintained by a port district or an irrigation district or company.
+
+7. "Department" means the department of commerce.
+
+8. "Development regulations" or "regulation" means the controls placed on development or land use activities by a county or city, including, but not limited to, zoning ordinances, critical areas ordinances, shoreline master programs, official controls, planned unit development ordinances, subdivision ordinances, and binding site plan ordinances together with any amendments thereto. A development regulation does not include a decision to approve a project permit application, as defined in RCW 36.70B.020, even though the decision may be expressed in a resolution or ordinance of the legislative body of the county or city.
+
+9. "Emergency housing" means temporary indoor accommodations for individuals or families who are homeless or at imminent risk of becoming homeless that is intended to address the basic health, food, clothing, and personal hygiene needs of individuals or families. Emergency housing may or may not require occupants to enter into a lease or an occupancy agreement.
+
+10. "Emergency shelter" means a facility that provides a temporary shelter for individuals or families who are currently homeless. Emergency shelter may not require occupants to enter into a lease or an occupancy agreement. Emergency shelter facilities may include day and warming centers that do not provide overnight accommodations.
+
+11. "Extremely low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below thirty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+12. "Forestland" means land primarily devoted to growing trees for long-term commercial timber production on land that can be economically and practically managed for such production, including Christmas trees subject to the excise tax imposed under RCW 84.33.100 through 84.33.140, and that has long-term commercial significance. In determining whether forestland is primarily devoted to growing trees for long-term commercial timber production on land that can be economically and practically managed for such production, the following factors shall be considered: (a) The proximity of the land to urban, suburban, and rural settlements; (b) surrounding parcel size and the compatibility and intensity of adjacent and nearby land uses; (c) long-term local economic conditions that affect the ability to manage for timber production; and (d) the availability of public facilities and services conducive to conversion of forestland to other uses.
+
+13. "Freight rail dependent uses" means buildings and other infrastructure that are used in the fabrication, processing, storage, and transport of goods where the use is dependent on and makes use of an adjacent short line railroad. Such facilities are both urban and rural development for purposes of this chapter. "Freight rail dependent uses" does not include buildings and other infrastructure that are used in the fabrication, processing, storage, and transport of coal, liquefied natural gas, or "crude oil" as defined in RCW 90.56.010.
+
+14. "Geologically hazardous areas" means areas that because of their susceptibility to erosion, sliding, earthquake, or other geological events, are not suited to the siting of commercial, residential, or industrial development consistent with public health or safety concerns.
+
+15. "Long-term commercial significance" includes the growing capacity, productivity, and soil composition of the land for long-term commercial production, in consideration with the land's proximity to population areas, and the possibility of more intense uses of the land.
+
+16. "Low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below eighty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+17. "Minerals" include gravel, sand, and valuable metallic substances.
+
+18. "Moderate-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below 120 percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+19. "Permanent supportive housing" is subsidized, leased housing with no limit on length of stay that prioritizes people who need comprehensive support services to retain tenancy and utilizes admissions practices designed to use lower barriers to entry than would be typical for other subsidized or unsubsidized rental housing, especially related to rental history, criminal history, and personal behaviors. Permanent supportive housing is paired with on-site or off-site voluntary services designed to support a person living with a complex and disabling behavioral health or physical health condition who was experiencing homelessness or was at imminent risk of homelessness prior to moving into housing to retain their housing and be a successful tenant in a housing arrangement, improve the resident's health status, and connect the resident of the housing with community-based health care, treatment, or employment services. Permanent supportive housing is subject to all of the rights and responsibilities defined in chapter 59.18 RCW.
+
+20. "Public facilities" include streets, roads, highways, sidewalks, street and road lighting systems, traffic signals, domestic water systems, storm and sanitary sewer systems, parks and recreational facilities, and schools.
+
+21. "Public services" include fire protection and suppression, law enforcement, public health, education, recreation, environmental protection, and other governmental services.
+
+22. "Recreational land" means land so designated under RCW 36.70A.1701 and that, immediately prior to this designation, was designated as agricultural land of long-term commercial significance under RCW 36.70A.170. Recreational land must have playing fields and supporting facilities existing before July 1, 2004, for sports played on grass playing fields.
+
+23. "Rural character" refers to the patterns of land use and development established by a county in the rural element of its comprehensive plan:
+
+    a. In which open space, the natural landscape, and vegetation predominate over the built environment;
+
+    b. That foster traditional rural lifestyles, rural-based economies, and opportunities to both live and work in rural areas;
+
+    c. That provide visual landscapes that are traditionally found in rural areas and communities;
+
+    d. That are compatible with the use of the land by wildlife and for fish and wildlife habitat;
+
+    e. That reduce the inappropriate conversion of undeveloped land into sprawling, low-density development;
+
+    f. That generally do not require the extension of urban governmental services; and
+
+    g. That are consistent with the protection of natural surface water flows and groundwater and surface water recharge and discharge areas.
+
+24. "Rural development" refers to development outside the urban growth area and outside agricultural, forest, and mineral resource lands designated pursuant to RCW 36.70A.170. Rural development can consist of a variety of uses and residential densities, including clustered residential development, at levels that are consistent with the preservation of rural character and the requirements of the rural element. Rural development does not refer to agriculture or forestry activities that may be conducted in rural areas.
+
+25. "Rural governmental services" or "rural services" include those public services and public facilities historically and typically delivered at an intensity usually found in rural areas, and may include domestic water systems, fire and police protection services, transportation and public transit services, and other public utilities associated with rural development and normally not associated with urban areas. Rural services do not include storm or sanitary sewers, except as otherwise authorized by RCW 36.70A.110(4).
+
+26. "Short line railroad" means those railroad lines designated class II or class III by the United States surface transportation board.
+
+27. "Urban governmental services" or "urban services" include those public services and public facilities at an intensity historically and typically provided in cities, specifically including storm and sanitary sewer systems, domestic water systems, street cleaning services, fire and police protection services, public transit services, and other public utilities associated with urban areas and normally not associated with rural areas.
+
+28. "Urban growth" refers to growth that makes intensive use of land for the location of buildings, structures, and impermeable surfaces to such a degree as to be incompatible with the primary use of land for the production of food, other agricultural products, or fiber, or the extraction of mineral resources, rural uses, rural development, and natural resource lands designated pursuant to RCW 36.70A.170. A pattern of more intensive rural development, as provided in RCW 36.70A.070(5)(d), is not urban growth. When allowed to spread over wide areas, urban growth typically requires urban governmental services. "Characterized by urban growth" refers to land having urban growth located on it, or to land located in relationship to an area with urban growth on it as to be appropriate for urban growth.
+
+29. "Urban growth areas" means those areas designated by a county pursuant to RCW 36.70A.110.
+
+30. "Very low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below fifty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+31. "Wetland" or "wetlands" means areas that are inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas. Wetlands do not include those artificial wetlands intentionally created from nonwetland sites, including, but not limited to, irrigation and drainage ditches, grass-lined swales, canals, detention facilities, wastewater treatment facilities, farm ponds, and landscape amenities, or those wetlands created after July 1, 1990, that were unintentionally created as a result of the construction of a road, street, or highway. Wetlands may include those artificial wetlands intentionally created from nonwetland areas created to mitigate conversion of wetlands.
+
+32. **"Cottage apartments" means four or more residential units on a lot with a common open space that is either:**
+
+    a. **Owned in common; or**
+
+    b. **Has units owned as condominium units with property owned in common and a minimum of 80 percent of the lot size as open space.**
+
+33. **"Frequent transit service" means:**
+
+    a. **A stop on a high capacity transportation system funded or expanded under the provisions of chapter 81.104 RCW;**
+
+    b. **Commuter rail stops;**
+
+    c. **Stops on rail or fixed guideway systems, including transitways;**
+
+    d. **Stops on bus rapid transit routes or routes that run on high occupancy vehicle lanes with service at intervals no greater than 15 minutes apart for five hours during the peak hours of operation on weekdays;**
+
+    e. **Stops for a bus or other transit mode providing actual fixed route service, or circulator service to another form of frequent transit, at intervals of at least 15 minutes for at least five hours during the peak hours of operation on weekdays; or**
+
+    f. **Washington state ferry terminals.**
+
+
+## Section 4
+> This section modifies existing section [36.70A.070](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+The comprehensive plan of a county or city that is required or chooses to plan under RCW 36.70A.040 shall consist of a map or maps, and descriptive text covering objectives, principles, and standards used to develop the comprehensive plan. The plan shall be an internally consistent document and all elements shall be consistent with the future land use map. A comprehensive plan shall be adopted and amended with public participation as provided in RCW 36.70A.140. Each comprehensive plan shall include a plan, scheme, or design for each of the following:
+
+1. A land use element designating the proposed general distribution and general location and extent of the uses of land, where appropriate, for agriculture, timber production, housing, commerce, industry, recreation, open spaces, general aviation airports, public utilities, public facilities, and other land uses. The land use element shall include population densities, building intensities, and estimates of future population growth. The land use element shall provide for protection of the quality and quantity of groundwater used for public water supplies. Wherever possible, the land use element should consider utilizing urban planning approaches that promote physical activity. Where applicable, the land use element shall review drainage, flooding, and stormwater runoff in the area and nearby jurisdictions and provide guidance for corrective actions to mitigate or cleanse those discharges that pollute waters of the state, including Puget Sound or waters entering Puget Sound.
+
+2. A housing element ensuring the vitality and character of established residential neighborhoods that:
+
+    a. Includes an inventory and analysis of existing and projected housing needs that identifies the number of housing units necessary to manage projected growth, as provided by the department of commerce, including:
+
+        i. Units for moderate, low, very low, and extremely low-income households; and
+
+        ii. Emergency housing, emergency shelters, and permanent supportive housing;
+
+    b. Includes a statement of goals, policies, objectives, and mandatory provisions for the preservation, improvement, and development of housing, including single-family residences, and within an urban growth area boundary, moderate density housing options including**,** but not limited to, duplexes, triplexes, **cottage apartments, accessory dwelling units,** and townhomes;
+
+        i. **This element shall include a plan to prevent displacement of very low, low, and moderate-income households and communities of color who have traditionally been disparately impacted by planning and zoning policies and practices. These plans must include specific provisions regarding how the jurisdiction will enable such households to remain in the jurisdiction and maintain community connections and ensure that the jurisdiction will provide a reasonably proportionate opportunity for new very low, low, and moderate-income households in the jurisdiction as part of meeting goals for overall population and economic segments of the forecasted population growth. For any subarea of a jurisdiction required by this chapter to allow for development of four or more units on a property, prior to subdivision, the jurisdiction shall adopt an antidisplacement program pursuant to (k) and (l) of this subsection.**
+
+        ii. **To increase density within the portion of an urban growth area that is within a reasonable walkable distance of frequent transit service, this element and implementing regulations adopted pursuant to the plan shall provide for the following types of housing, or the following net density of housing and increase in floor area ratio of residential coverage of lots:**
+
+(A) **Within one-quarter mile, based on walking distance, of frequent transit service for jurisdictions with over 25,000 residents or whose population forecast from the department projects that the jurisdiction will exceed and should plan for a population over 25,000 prior to the next comprehensive plan update, either:**
+
+(I) **For any lot of 4,000 or more square feet, the jurisdiction shall allow, at minimum, for the following housing types: Duplexes, triplexes, cottage apartments, three townhomes, and both attached and detached accessory dwelling units. The jurisdiction may apply all otherwise applicable regulations. For any lot of 5,000 or more square feet, the jurisdiction shall also allow fourplexes or four townhomes if the lot may accommodate them while having shared open space equivalent to 20 percent of the lot. The jurisdiction may apply all otherwise applicable regulations, including regulations for health, safety, setbacks, utility access, climate change goals, open space, limits on impermeable surface areas, sunlight, or significant trees and tree canopy; or**
+
+(II) **The jurisdiction shall provide for a net density of at least 33 residential units per acre relying on a mix of housing types, which may include multifamily housing. The jurisdiction shall either allow, at minimum, duplexes, townhomes, cottage apartments, and accessory dwelling units on each lot, or utilize a floor area or lot size ratio to accomplish this level of density. In providing for a net density of at least 33 residential units per acre the jurisdiction shall ensure that multifamily housing within such area includes residential units to meet projections of housing needed within the planning horizon for families and households of various sizes;**
+
+(B) **Within one-half mile, based on walking distance, of frequent transit service for jurisdictions with over 25,000 residents or whose population forecast from the department projects that the jurisdiction will exceed and should plan for a population over 25,000 prior to the next comprehensive plan update, either:**
+
+(I) **For any lot of 4,500 or more square feet, the jurisdiction shall allow, at minimum, duplexes, two townhomes, and both attached and detached accessory dwelling units. The jurisdiction may apply all otherwise applicable regulations, including regulations for health, safety, setbacks, utility access, climate change goals, open space, limits on impermeable surface areas, sunlight, or tree canopy; or**
+
+(II) **The jurisdiction shall provide for a net density of at least 20 residential units per acre relying on a mix of housing types, which may include multifamily housing. The jurisdiction shall either allow, at minimum, duplexes, townhomes, cottage apartments, and accessory dwelling units on each lot, or utilize a floor area or lot size ratio to accomplish this level of density; and**
+
+(C) **Within one-quarter mile, based on walking distance, of frequent transit service for jurisdictions with over 10,000 residents, either:**
+
+(I) **For any lot of 5,000 or more square feet, the jurisdiction shall allow, at minimum, two residential units which shall include duplexes, cottage apartments, and townhomes, in addition to allowing both, at minimum, one attached and detached accessory dwelling unit. The jurisdiction may apply all otherwise applicable regulations, including regulations for health, safety, setbacks, utility access, climate change goals, open space, limits on impermeable surface areas, sunlight, or tree canopy; or**
+
+(II) **The jurisdiction shall provide for a net density of at least 16 residential units per acre relying on a mix of housing types, which may include multifamily housing. The jurisdiction may either utilize a floor area or lot size ratio to accomplish this level of density.**
+
+        iii. **Required increases in density, floor area ratio, or the types of housing units allowed on lots with existing housing units pursuant to this chapter or any new additions to this chapter effective after January 1, 2022, shall be incorporated into appropriate development regulations applicable in all subareas of a jurisdiction required to plan under this chapter within two years after the jurisdiction adopts its next comprehensive plan. Plans shall be based on findings and analyses in the record regarding whether infrastructure capacities in subareas of the jurisdiction are sufficient to meet the increased demands on infrastructure and services from the required allowance of new infill housing including, but not limited to:**
+
+(A) **Sewage, septic system, and stormwater capacity, including whether increased infill may have a significant adverse effect on standards of service, consent agreements, or orders to reduce overflows and discharges to surface waters, compliance with regulatory requirements, or clean water goals adopted by federal, state, and local agencies such as the Puget Sound partnership, department of ecology, department of health, or board of health, or a local health jurisdiction. For any area which the planning jurisdiction finds that sewer, septic, stormwater, or other utility infrastructure capacity is inadequate to support the increased infill housing required by this chapter, the jurisdiction shall either adopt an infrastructure plan to expand capacity over the course of the next two comprehensive plan cycles in consultation with all relevant utility providers, or document in the plan that expanded capacity would necessarily conflict with attaining compliance or meeting goals established pursuant to federal, state, or local environmental or health agencies. The findings and plan to provide infrastructure for areas shall be submitted to the department for review. The department shall coordinate comments from other relevant state agencies and formally transmit those comments to the city or county. Within 60 days of the receipt of the department's comments, findings that increasing infill are not attainable without conflicting with such other goals and requirements may be appealed to the growth management hearings board pursuant to RCW 36.70A.280;**
+
+(B) **School capacity, including not creating new violations, or exacerbating existing violations, of standards adopted by the state regarding the number of students in classes. This analysis shall be done in consultation with school districts serving the studied area. If inadequate capacity exists, the planning jurisdiction, in collaboration with the relevant school district or districts, shall adopt reasonable plans to accommodate such growth over the next decade. This shall include imposition of school impact fees authorized under RCW 82.02.050 as one element to meet capacity needs identified by the school district for specific areas in which school capacity will not meet standards due to the increased infill;**
+
+(C) **Drinking and domestic water sources. Increased infill otherwise required by this chapter shall not apply in any portion of a jurisdiction if it is found that the additional requirements for development of lots will adversely affect minimum instream flows established by the department of ecology or salmon and other endangered or threatened species recovery plans, groundwater protection plans, wetland, shoreline, tree canopy, or open space and species preservation goals or violation of the rights of federally recognized tribes to utilize resources under treaties;**
+
+(D) **Public safety services including fire and police. In any areas where increased infill required by this act would result in the inability of fire, emergency, and police services to respond without significant violation of standards, the implementation may be delayed by up to two years, and up to five years if the violation of standards relates to physical infrastructure such as water, if the jurisdiction submits findings to the department which demonstrate a need for delayed implementation accompanied by a plan which the department concurs will enable the jurisdiction to meet such service standards within a two-year period;**
+
+(E) **Plans to meet transportation needs of residents who are not within one-half mile of frequent transit, or who, due to disability, age, or geography may not be able to access transit or household shopping without violating goals adopted under this chapter or other state programs to reduce vehicle miles traveled and to meet goals to reduce the effects of development and transportation on climate change. Approval of new development under this section must meet requirements for concurrency pursuant to subsection (6)(b) of this section;**
+
+(F) **Electricity capacity, including electricity loads incurred from new housing and services from adding housing infill pursuant to this chapter to serve the entire needs of residential units for heating, cooling, and vehicle charging. In determining if adequate electrical capacity exists the planning jurisdiction shall consult with electric utility providers on demand projections and capacity. The planning jurisdiction may also include in its development regulations provisions to ensure residents have access to electric vehicle charging to meet state and local goals related to climate change. If increased housing infill will cause a risk of service interruption or other violation of expected service standards for a defined area of the planning jurisdiction, a deferment to provide increased capacity shall be approved by the department for no more than five years until development regulations for increased housing infill shall take effect; and**
+
+(G) **Open space and tree canopy goals adopted pursuant to this chapter, including ensuring that no resident in a jurisdiction resides more than one-half mile from open space with recreation for youth and undeveloped open space.**
+
+        iv. **The comprehensive plan shall describe the mechanisms which will be utilized, including interlocal agreements with transit providers, to ensure that transit frequency relied on in the plan, development regulations, and permitting decisions is continued and will not be diminished. For any area where such transit frequency is not reasonably assured, the level of required density or mix of housing required by this section shall not increase above that of the next lower level of density or housing mix required by this section.**
+
+    v. **In calculating net densities within one-quarter or one-half mile of frequent transit service under this section, a jurisdiction may choose to exclude critical areas and open space protected from development from the area on which such calculations are based;**
+
+    c. Identifies sufficient capacity of land for housing including, but not limited to, government-assisted housing, housing for moderate, low, very low, and extremely low-income households, manufactured housing, multifamily housing, group homes, foster care facilities, emergency housing, emergency shelters, permanent supportive housing, and within an urban growth area boundary, consideration of duplexes, triplexes, **cottage apartments, accessory dwelling units,** and townhomes;
+
+    d. Makes adequate provisions for existing and projected needs of all economic segments of the community, including:
+
+        i. Incorporating consideration for low, very low, extremely low, and moderate-income households;
+
+        ii. Documenting programs and actions needed to achieve housing availability including gaps in local funding, barriers such as development regulations, and other limitations;
+
+        iii. Consideration of housing locations in relation to employment location **and shopping for household essentials, including food and health products**; and
+
+        iv. Consideration of the role of accessory dwelling units in meeting housing needs;
+
+    e. **Examines the infrastructure in each geographic area to:**
+
+        i. **Determine what increase in net density and additional housing types or subdivided lot sizes will be supported by the existing infrastructure; and**
+
+        ii. **Adopt plans to improve existing infrastructure to achieve goals of increasing the affordability of housing within the neighborhoods for all economic segments of the population and for increasing housing density within urban growth areas through infill development in unused and underutilized lands within existing development patterns in the next 20-year planning period.**
+
+(A) **The increase in net density may be met for the geographic area through any combination of allowable infill choices provided that there is no net displacement of residents and that the increase in net density also results in an increase of the housing affordable to lower and moderate-income residents.**
+
+(B) **Jurisdictions shall plan to extend infrastructure so that any area of the jurisdiction within an urban growth area that is not subject to development restrictions, such as critical areas, will have infrastructure to support increased density through infill;**
+
+    f. Identifies local policies and regulations that result in racially disparate impacts, displacement, and exclusion in housing, including:
+
+        i. Zoning that may have a discriminatory effect;
+
+        ii. Disinvestment; and
+
+        iii. Infrastructure availability;
+
+    g. Identifies and implements policies and regulations to address and begin to undo racially disparate impacts, displacement, and exclusion in housing caused by local policies, plans, and actions;
+
+    h. **Requires significant increased economic integration among all economic segments of the population to occur in all areas of the jurisdiction through the use of the housing types listed in (b) of this subsection (2);**
+
+    i. **Allows, to the extent supported by existing infrastructure, for infill development and mixed commercial-residential housing to support walkable shopping and increased density in neighborhood business zones, and subdivision of lots to increase the supply of housing affordable to moderate and lower income residents. Options for subdivision include allowing lot sizes as follows:**
+
+        i. **For cities with a population over 40,000, subdivision of lots to 3,200 square feet or 80 percent of the average lot on a block within an urban growth area is allowed;**
+
+        ii. **For new development on lots under 3,200 square feet in an area, a special exception is required which includes public notice and an opportunity to appeal pursuant to this chapter and the land use petition act in chapter 36.70C RCW; and**
+
+        iii. **For short subdivision of lots developed with more than one house, ownership of the houses may be divided using the unit lot subdivision process. A property containing a detached accessory dwelling unit may be segregated in ownership from the principal dwelling unit;**
+
+    j. **Establishes a goal and plan to adopt development regulations, investments, incentives, or other programs which will achieve substantial measurable progress over a 20-year planning horizon toward increased economic and racial integration in all areas of the jurisdiction through programs encouraging, authorizing, directly investing in, or incentivizing new affordable housing options for all economic segments of the population including duplex, triplex, townhomes, accessory dwelling units, multifamily housing, subdivision of properties above minimum lot size, or with condominium common ownership;**
+
+    k. **Identifies areas that may be at higher risk of displacement from market forces that occur with changes to zoning development regulations and capital investments;**
+
+    l. Identifies areas that may be at higher risk of displacement from market forces that occur with changes to zoning development regulations and capital investments; and
+
+    m. Establishes antidisplacement policies, with consideration given to the preservation of historical and cultural communities as well as investments in low, very low, extremely low, and moderate-income housing; equitable development initiatives; inclusionary zoning; community planning requirements; tenant protections; land disposition policies; and consideration of land that may be used for affordable housing. **The county or city shall make a finding that comprehensive plans and development regulations affirmatively prevent displacement of lower and moderate-income communities members, including families, in communities of interest. Such communities shall be determined based on community input solicited through appropriate outreach, including public meetings, in order to ensure that there is no net displacement of lower and moderate-income residents or people from racial, ethnic, and religious communities which have been subject to discriminatory housing policies in the past; and**
+
+    n. **To address the loss of affordable housing due to market forces and increasing density requirements, and to increase the benefits for children, health, and equity, each jurisdiction with 25,000 residents or more shall adopt a subelement of their plan's housing element which will ensure that through fees, zoning, investments, subsidies, or development incentives, all new development of new residential units with four or more units permitted for a single lot, plat, short or long-plat, or subdivision within the urban growth area shall have at least one unit of each four units which is affordable for rental or ownership to households at the very low, low, and moderate-income levels depending on needs identified for housing in this section. This subelement shall ensure that the jurisdiction will adopt development regulations, fees, incentives, subsidies, or funded investment programs that are found to reasonably meet the projected needs for new housing for all economic segments of the region and to prevent displacement of lower income residents and communities.**
+
+In counties and cities subject to the review and evaluation requirements of RCW 36.70A.215, any revision to the housing element shall include consideration of prior review and evaluation reports and any reasonable measures identified. The housing element should link jurisdictional goals with overall county goals to ensure that the housing element goals are met.
+
+3. A capital facilities plan element consisting of: (a) An inventory of existing capital facilities owned by public entities, showing the locations and capacities of the capital facilities; (b) a forecast of the future needs for such capital facilities; (c) the proposed locations and capacities of expanded or new capital facilities; (d) at least a six-year plan that will finance such capital facilities within projected funding capacities and clearly identifies sources of public money for such purposes; and (e) a requirement to reassess the land use element if probable funding falls short of meeting existing needs and to ensure that the land use element, capital facilities plan element, and financing plan within the capital facilities plan element are coordinated and consistent. Park and recreation facilities**, with specific goals and implementing plans to address health inequities, including those due to high heat resulting from climate changes, which will ensure open space for active and passive recreation, which includes publicly accessible areas with mature tree canopy, is accessible within one-half mile of residents residing within urban growth areas in areas with net densities exceeding 33 residential units per acre** shall be included in the capital facilities plan **and park and recreation elements. The capital facilities element shall also include plans for adequate school capacity to meet standards for class size in public schools and early learning access set by the legislature, to be developed in consultation with school districts within the city or county. The city or county shall include in the plan record any comments on the adequacy of plans and financing from school districts, including whether school impact fees are adequate to meet the school capacity needs related to new residential development. Plans must provide a reasonable basis to ensure that lands and financing to meet school capacity needs will be met through local city or county levies, including park and recreation service area levies authorized in RCW 84.52.754, park and recreation district levies authorized in RCW 36.68.525, sales tax levies authorized in chapter 82.08 RCW, real estate excise taxes authorized in RCW 82.45.180, and other local government levy authorities, in addition to school district bond and levy capacity and forecasted state school construction assistance, to accommodate increased school capacities**.
+
+4. A utilities element consisting of the general location, proposed location, and capacity of all existing and proposed utilities, including, but not limited to, electrical lines, telecommunication lines, and natural gas lines.
+
+5. Rural element. Counties shall include a rural element including lands that are not designated for urban growth, agriculture, forest, or mineral resources. The following provisions shall apply to the rural element:
+
+    a. Growth management act goals and local circumstances. Because circumstances vary from county to county, in establishing patterns of rural densities and uses, a county may consider local circumstances, but shall develop a written record explaining how the rural element harmonizes the planning goals in RCW 36.70A.020 and meets the requirements of this chapter.
+
+    b. Rural development. The rural element shall permit rural development, forestry, and agriculture in rural areas. The rural element shall provide for a variety of rural densities, uses, essential public facilities, and rural governmental services needed to serve the permitted densities and uses. To achieve a variety of rural densities and uses, counties may provide for clustering, density transfer, design guidelines, conservation easements, and other innovative techniques that will accommodate appropriate rural economic advancement, densities, and uses that are not characterized by urban growth and that are consistent with rural character.
+
+    c. Measures governing rural development. The rural element shall include measures that apply to rural development and protect the rural character of the area, as established by the county, by:
+
+        i. Containing or otherwise controlling rural development;
+
+        ii. Assuring visual compatibility of rural development with the surrounding rural area;
+
+        iii. Reducing the inappropriate conversion of undeveloped land into sprawling, low-density development in the rural area;
+
+        iv. Protecting critical areas, as provided in RCW 36.70A.060, and surface water and groundwater resources; and
+
+    v. Protecting against conflicts with the use of agricultural, forest, and mineral resource lands designated under RCW 36.70A.170.
+
+    d. Limited areas of more intensive rural development. Subject to the requirements of this subsection and except as otherwise specifically provided in this subsection (5)(d), the rural element may allow for limited areas of more intensive rural development, including necessary public facilities and public services to serve the limited area as follows:
+
+        i. Rural development consisting of the infill, development, or redevelopment of existing commercial, industrial, residential, or mixed-use areas, whether characterized as shoreline development, villages, hamlets, rural activity centers, or crossroads developments.
+
+(A) A commercial, industrial, residential, shoreline, or mixed-use area are subject to the requirements of (d)(iv) of this subsection, but are not subject to the requirements of (c)(ii) and (iii) of this subsection.
+
+(B) Any development or redevelopment other than an industrial area or an industrial use within a mixed-use area or an industrial area under this subsection (5)(d)(i) must be principally designed to serve the existing and projected rural population.
+
+(C) Any development or redevelopment in terms of building size, scale, use, or intensity shall be consistent with the character of the existing areas. Development and redevelopment may include changes in use from vacant land or a previously existing use so long as the new use conforms to the requirements of this subsection (5);
+
+        ii. The intensification of development on lots containing, or new development of, small-scale recreational or tourist uses, including commercial facilities to serve those recreational or tourist uses, that rely on a rural location and setting, but that do not include new residential development. A small-scale recreation or tourist use is not required to be principally designed to serve the existing and projected rural population. Public services and public facilities shall be limited to those necessary to serve the recreation or tourist use and shall be provided in a manner that does not permit low-density sprawl;
+
+        iii. The intensification of development on lots containing isolated nonresidential uses or new development of isolated cottage industries and isolated small-scale businesses that are not principally designed to serve the existing and projected rural population and nonresidential uses, but do provide job opportunities for rural residents. Rural counties may allow the expansion of small-scale businesses as long as those small-scale businesses conform with the rural character of the area as defined by the local government according to RCW 36.70A.030(23). Rural counties may also allow new small-scale businesses to utilize a site previously occupied by an existing business as long as the new small-scale business conforms to the rural character of the area as defined by the local government according to RCW 36.70A.030(23). Public services and public facilities shall be limited to those necessary to serve the isolated nonresidential use and shall be provided in a manner that does not permit low-density sprawl;
+
+        iv. A county shall adopt measures to minimize and contain the existing areas or uses of more intensive rural development, as appropriate, authorized under this subsection. Lands included in such existing areas or uses shall not extend beyond the logical outer boundary of the existing area or use, thereby allowing a new pattern of low-density sprawl. Existing areas are those that are clearly identifiable and contained and where there is a logical boundary delineated predominately by the built environment, but that may also include undeveloped lands if limited as provided in this subsection. The county shall establish the logical outer boundary of an area of more intensive rural development. In establishing the logical outer boundary, the county shall address (A) the need to preserve the character of existing natural neighborhoods and communities, (B) physical boundaries, such as bodies of water, streets and highways, and land forms and contours, (C) the prevention of abnormally irregular boundaries, and (D) the ability to provide public facilities and public services in a manner that does not permit low-density sprawl;
+
+    v. For purposes of (d) of this subsection, an existing area or existing use is one that was in existence:
+
+(A) On July 1, 1990, in a county that was initially required to plan under all of the provisions of this chapter;
+
+(B) On the date the county adopted a resolution under RCW 36.70A.040(2), in a county that is planning under all of the provisions of this chapter under RCW 36.70A.040(2); or
+
+(C) On the date the office of financial management certifies the county's population as provided in RCW 36.70A.040(5), in a county that is planning under all of the provisions of this chapter pursuant to RCW 36.70A.040(5).
+
+    e. Exception. This subsection shall not be interpreted to permit in the rural area a major industrial development or a master planned resort unless otherwise specifically permitted under RCW 36.70A.360 and 36.70A.365.
+
+6. A transportation element that implements, and is consistent with, the land use element.
+
+    a. The transportation element shall include the following subelements:
+
+        i. Land use assumptions used in estimating travel;
+
+        ii. Estimated traffic impacts to state-owned transportation facilities resulting from land use assumptions to assist the department of transportation in monitoring the performance of state facilities, to plan improvements for the facilities, and to assess the impact of land-use decisions on state-owned transportation facilities;
+
+        iii. Facilities and services needs, including:
+
+(A) An inventory of air, water, and ground transportation facilities and services, including transit alignments and general aviation airport facilities, to define existing capital facilities and travel levels as a basis for future planning. This inventory must include state-owned transportation facilities within the city or county's jurisdictional boundaries;
+
+(B) Level of service standards for all locally owned arterials and transit routes to serve as a gauge to judge performance of the system. These standards should be regionally coordinated;
+
+(C) For state-owned transportation facilities, level of service standards for highways, as prescribed in chapters 47.06 and 47.80 RCW, to gauge the performance of the system. The purposes of reflecting level of service standards for state highways in the local comprehensive plan are to monitor the performance of the system, to evaluate improvement strategies, and to facilitate coordination between the county's or city's six-year street, road, or transit program and the office of financial management's ten-year investment program. The concurrency requirements of (b) of this subsection do not apply to transportation facilities and services of statewide significance except for counties consisting of islands whose only connection to the mainland are state highways or ferry routes. In these island counties, state highways and ferry route capacity must be a factor in meeting the concurrency requirements in (b) of this subsection;
+
+(D) Specific actions and requirements for bringing into compliance locally owned transportation facilities or services that are below an established level of service standard;
+
+(E) Forecasts of traffic for at least ten years based on the adopted land use plan to provide information on the location, timing, and capacity needs of future growth;
+
+(F) Identification of state and local system needs to meet current and future demands. Identified needs on state-owned transportation facilities must be consistent with the statewide multimodal transportation plan required under chapter 47.06 RCW;
+
+        iv. Finance, including:
+
+(A) An analysis of funding capability to judge needs against probable funding resources;
+
+(B) A multiyear financing plan based on the needs identified in the comprehensive plan, the appropriate parts of which shall serve as the basis for the six-year street, road, or transit program required by RCW 35.77.010 for cities, RCW 36.81.121 for counties, and RCW 35.58.2795 for public transportation systems. The multiyear financing plan should be coordinated with the ten-year investment program developed by the office of financial management as required by RCW 47.05.030;
+
+(C) If probable funding falls short of meeting identified needs, a discussion of how additional funding will be raised, or how land use assumptions will be reassessed to ensure that level of service standards will be met;
+
+    v. Intergovernmental coordination efforts, including an assessment of the impacts of the transportation plan and land use assumptions on the transportation systems of adjacent jurisdictions;
+
+    vi. Demand-management strategies;
+
+    vii. Pedestrian and bicycle component to include collaborative efforts to identify and designate planned improvements for pedestrian and bicycle facilities and corridors that address and encourage enhanced community access and promote healthy lifestyles.
+
+    b. After adoption of the comprehensive plan by jurisdictions required to plan or who choose to plan under RCW 36.70A.040, local jurisdictions must adopt and enforce ordinances which prohibit development approval if the development causes the level of service on a locally owned transportation facility to decline below the standards adopted in the transportation element of the comprehensive plan, unless transportation improvements or strategies to accommodate the impacts of development are made concurrent with the development. These strategies may include increased public transportation service,  programs, demand management, and other transportation systems management strategies. For the purposes of this subsection (6), "concurrent with the development" means that improvements or strategies are in place at the time of development, or that a financial commitment is in place to complete the improvements or strategies within six years. If the collection of impact fees is delayed under RCW 82.02.050(3), the six-year period required by this subsection (6)(b) must begin after full payment of all impact fees is due to the county or city.
+
+    c. The transportation element described in this subsection (6), the six-year plans required by RCW 35.77.010 for cities, RCW 36.81.121 for counties, and RCW 35.58.2795 for public transportation systems, and the ten-year investment program required by RCW 47.05.030 for the state, must be consistent.
+
+7. An economic development element establishing local goals, policies, objectives, and provisions for economic growth and vitality and a high quality of life. A city that has chosen to be a residential community is exempt from the economic development element requirement of this subsection **so long as the city's comprehensive plan includes provisions for how residents of any portion of the city in which the city will be required by this section to plan for increased infill density within one-half mile of frequent transit service will have access to shopping for food and health products without reliance on fossil-fueled vehicles**.
+
+8. A park and recreation element that implements, and is consistent with, the capital facilities plan element as it relates to park and recreation facilities. The element shall include: (a) Estimates of park and recreation demand for at least a ten-year period; (b) an evaluation of facilities and service needs; and (c) an evaluation of intergovernmental coordination opportunities to provide regional approaches for meeting park and recreational demand.
+
+9. **A built environment livability element that ensures that all residential neighborhoods within an urban growth area with a density of over five housing units per acre have tree canopy or green open space to prevent extreme heat islands and to protect and improve the physical and mental health of residents in urban settings. The department shall give particular consideration to the needs of residents in areas with density of 33 or more residential units per acre for tree canopy and open space within one-half mile of their homes. The department shall, in consultation with the department of health and the department of ecology, adopt standards to promote these goals. As part of meeting these goals, jurisdictions must adopt or amend ordnances or development regulations to ensure significant tree preservation or replacement, and that there is no net loss of mature tree canopy as a result of achieving the goals of this element. The built environment livability element shall also include provisions that provide for access to sunlight in residential and school spaces based on the health and learning benefits from natural lighting, and for meeting state and local goals for use of solar energy to meet climate change goals.**
+
+10. It is the intent that new or amended elements required after January 1, 2002, be adopted concurrent with the scheduled update provided in RCW 36.70A.130. Requirements to incorporate any such new or amended elements shall be null and void until funds sufficient to cover applicable local government costs are appropriated and distributed by the state at least two years before local government must update comprehensive plans as required in RCW 36.70A.130.
+
+
+## Section 5
+The sum of $25,000,000, or as much thereof as may be necessary, is appropriated for the fiscal year ending June 30, 2023, from the general fund to the department of commerce for the purposes of providing grants to cities and counties subject to the requirements of RCW 36.70A.215 for the costs of planning for and implementing new comprehensive plan elements and requirements adopted by the legislature during the 2021-2022 legislative session, including the need to increase net density and to provide for new housing types to meet the needs of all economic segments of the population as required in RCW 36.70A.070 in time for the next comprehensive plan update as required by RCW 36.70A.130.
+
+
+## Section 6
+> This section modifies existing section [36.70A.215](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Subject to the limitations in subsection (5) of this section, a county shall adopt, in consultation with its cities, countywide planning policies to establish a review and evaluation program. This program shall be in addition to the requirements of RCW 36.70A.110, 36.70A.130, and 36.70A.210. In developing and implementing the review and evaluation program required by this section, the county and its cities shall consider information from other appropriate jurisdictions and sources. The purpose of the review and evaluation program shall be to:
+
+    a. Determine whether a county and its cities are achieving urban densities within urban growth areas by comparing growth and development assumptions, targets, and objectives contained in the countywide planning policies and the county and city comprehensive plans with actual growth and development that has occurred in the county and its cities; and
+
+    b. Identify reasonable measures, other than adjusting urban growth areas, that will be taken to comply with the requirements of this chapter. Reasonable measures are those actions necessary to reduce the differences between growth and development assumptions and targets contained in the countywide planning policies and the county and city comprehensive plans with actual development patterns. The reasonable measures process in subsection (3) of this section shall be used as part of the next comprehensive plan update to reconcile inconsistencies.
+
+2. The review and evaluation program shall:
+
+    a. Encompass land uses and activities both within and outside of urban growth areas and provide for annual collection of data on urban and rural land uses, development, zoning and development standards, environmental regulations including but not limited to critical areas, stormwater, shoreline, and tree retention requirements; and capital facilities to determine the quantity and type of land suitable for development, both for residential and employment-based activities;
+
+    b. Provide for evaluation of the data collected under (a) of this subsection as provided in subsection (3) of this section. The evaluation shall be completed no later than three years prior to the deadline for review and, if necessary, update of comprehensive plans and development regulations as required by RCW 36.70A.130. For comprehensive plans required to be updated before 2024, the evaluation as provided in subsection (3) of this section shall be completed no later than two years prior to the deadline for review and, if necessary, update of comprehensive plans. The county and its cities may establish in the countywide planning policies indicators, benchmarks, and other similar criteria to use in conducting the evaluation;
+
+    c. Provide for methods to resolve disputes among jurisdictions relating to the countywide planning policies required by this section and procedures to resolve inconsistencies in collection and analysis of data; and
+
+    d. Develop reasonable measures to use in reducing the differences between growth and development assumptions and targets contained in the countywide planning policies and county and city comprehensive plans, with the actual development patterns. The reasonable measures shall be adopted, if necessary, into the countywide planning policies and the county or city comprehensive plans and development regulations during the next scheduled update of the plans.
+
+3. At a minimum, the evaluation component of the program required by subsection (1) of this section shall:
+
+    a. Determine whether there is sufficient suitable land to accommodate the countywide population projection established for the county pursuant to RCW 43.62.035 and the subsequent population allocations within the county and between the county and its cities and the requirements of RCW 36.70A.110. The zoned capacity of land alone is not a sufficient standard to deem land suitable for development or redevelopment within the twenty-year planning period;
+
+    b. An evaluation and identification of land suitable for development or redevelopment shall include:
+
+        i. A review and evaluation of the land use designation and zoning/development regulations; environmental regulations (such as tree retention, stormwater, or critical area regulations) impacting development; and other regulations that could prevent assigned densities from being achieved; infrastructure gaps (including but not limited to transportation, water, sewer, and stormwater); and
+
+        ii. Use of a reasonable land market supply factor when evaluating land suitable to accommodate new development or redevelopment of land for residential development and employment activities. The reasonable market supply factor identifies reductions in the amount of land suitable for development and redevelopment. The methodology for conducting a reasonable land market factor shall be determined through the guidance developed in RCW 36.70A.217;
+
+    c. Provide an analysis of county and/or city development assumptions, targets, and objectives contained in the countywide planning policies and the county and city comprehensive plans when growth targets and assumptions are not being achieved. It is not appropriate to make a finding that assumed growth contained in the countywide planning policies and the county or city comprehensive plan will occur at the end of the current comprehensive planning twenty-year planning cycle without rationale;
+
+    d. Determine the actual density of housing that has been constructed and the actual amount of land developed for commercial and industrial uses within the urban growth area since the adoption of a comprehensive plan under this chapter or since the last periodic evaluation as required by subsection (1) of this section;
+
+    e. Based on the actual density of development as determined under (b) of this subsection, review commercial, industrial, and housing needs by type and density range to determine the amount of land needed for commercial, industrial, and housing for the remaining portion of the twenty-year planning period used in the most recently adopted comprehensive plan**; and**
+
+    f. **Examine the existing infrastructure in each geographic area to determine what increase in net density and additional housing types can be supported, and examine how infrastructure can be extended to accommodate additional net density and housing types**.
+
+4. From funds appropriated by the legislature for this purpose, the department shall provide grants to counties, cities, and regional planning organizations required under subsection (5) of this section to conduct the review and perform the evaluation required by this section.
+
+5. The provisions of this section shall apply to counties, and the cities within those counties, that were greater than one hundred fifty thousand in population in 1996 as determined by office of financial management population estimates and that are located west of the crest of the Cascade mountain range. Any other county planning under RCW 36.70A.040 may carry out the review, evaluation, and amendment programs and procedures as provided in this section.
+
+6. The requirements of this section are subject to the availability of funds appropriated for this specific purpose. If sufficient funds are not appropriated consistent with the timelines in subsection (2)(b) of this section, counties and cities shall be subject to the review and evaluation program as it existed prior to October 19, 2017.
+
+
+## Section 7
+> This section modifies existing section [36.70A.215](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Subject to the limitations in subsection (7) of this section, a county shall adopt, in consultation with its cities, countywide planning policies to establish a review and evaluation program. This program shall be in addition to the requirements of RCW 36.70A.110, 36.70A.130, and 36.70A.210. In developing and implementing the review and evaluation program required by this section, the county and its cities shall consider information from other appropriate jurisdictions and sources. The purpose of the review and evaluation program shall be to:
+
+    a. Determine whether a county and its cities are achieving urban densities within urban growth areas by comparing growth and development assumptions, targets, and objectives contained in the countywide planning policies and the county and city comprehensive plans with actual growth and development that has occurred in the county and its cities; and
+
+    b. Identify reasonable measures, other than adjusting urban growth areas, that will be taken to comply with the requirements of this chapter.
+
+2. The review and evaluation program shall:
+
+    a. Encompass land uses and activities both within and outside of urban growth areas and provide for annual collection of data on urban and rural land uses, development, critical areas, and capital facilities to the extent necessary to determine the quantity and type of land suitable for development, both for residential and employment-based activities;
+
+    b. Provide for evaluation of the data collected under (a) of this subsection as provided in subsection (3) of this section. The evaluation shall be completed no later than one year prior to the deadline for review and, if necessary, update of comprehensive plans and development regulations as required by RCW 36.70A.130. The county and its cities may establish in the countywide planning policies indicators, benchmarks, and other similar criteria to use in conducting the evaluation;
+
+    c. Provide for methods to resolve disputes among jurisdictions relating to the countywide planning policies required by this section and procedures to resolve inconsistencies in collection and analysis of data; and
+
+    d. Provide for the amendment of the countywide policies and county and city comprehensive plans as needed to remedy an inconsistency identified through the evaluation required by this section, or to bring these policies into compliance with the requirements of this chapter.
+
+3. At a minimum, the evaluation component of the program required by subsection (1) of this section shall:
+
+    a. Determine whether there is sufficient suitable land to accommodate the countywide population projection established for the county pursuant to RCW 43.62.035 and the subsequent population allocations within the county and between the county and its cities and the requirements of RCW 36.70A.110;
+
+    b. Determine the actual density of housing that has been constructed and the actual amount of land developed for commercial and industrial uses within the urban growth area since the adoption of a comprehensive plan under this chapter or since the last periodic evaluation as required by subsection (1) of this section;
+
+    c. Based on the actual density of development as determined under (b) of this subsection, review commercial, industrial, and housing needs by type and density range to determine the amount of land needed for commercial, industrial, and housing for the remaining portion of the twenty-year planning period used in the most recently adopted comprehensive plan**; and**
+
+    d. **Examine the existing infrastructure in each geographic area to determine what increase in net density and additional housing types can be supported, and examine how infrastructure can be extended to accommodate additional net density and housing types**.
+
+4. If the evaluation required by subsection (3) of this section demonstrates an inconsistency between what has occurred since the adoption of the countywide planning policies and the county and city comprehensive plans and development regulations and what was envisioned in those policies and plans and the planning goals and the requirements of this chapter, as the inconsistency relates to the evaluation factors specified in subsection (3) of this section, the county and its cities shall adopt and implement measures that are reasonably likely to increase consistency during the subsequent five-year period. If necessary, a county, in consultation with its cities as required by RCW 36.70A.210, shall adopt amendments to countywide planning policies to increase consistency. The county and its cities shall annually monitor the measures adopted under this subsection to determine their effect and may revise or rescind them as appropriate.
+
+5. [Empty]
+
+    a. Not later than July 1, 1998, the department shall prepare a list of methods used by counties and cities in carrying out the types of activities required by this section. The department shall provide this information and appropriate technical assistance to counties and cities required to or choosing to comply with the provisions of this section.
+
+    b. By December 31, 2007, the department shall submit to the appropriate committees of the legislature a report analyzing the effectiveness of the activities described in this section in achieving the goals envisioned by the countywide planning policies and the comprehensive plans and development regulations of the counties and cities.
+
+6. From funds appropriated by the legislature for this purpose, the department shall provide grants to counties, cities, and regional planning organizations required under subsection (7) of this section to conduct the review and perform the evaluation required by this section.
+
+7. The provisions of this section shall apply to counties, and the cities within those counties, that were greater than one hundred fifty thousand in population in 1995 as determined by office of financial management population estimates and that are located west of the crest of the Cascade mountain range. Any other county planning under RCW 36.70A.040 may carry out the review, evaluation, and amendment programs and procedures as provided in this section.
+
+
+## Section 8
+The legislature finds that restrictive covenants and agreements have historically been used to exclude people from communities based on their race, ethnicity, or religion. Even when this was not the intent, these restrictive covenants and agreements have resulted in discriminatory outcomes. In order to remove these barriers, and to promote more equitable and sustainable housing options, the legislature finds that it is necessary to apply policies that promote affordable, inclusive housing options in areas governed by restrictive covenants and agreements. Therefore, it is the intent of the legislature that the policies in RCW 36.70A.070 providing for increased housing options apply throughout the state, notwithstanding restrictive covenants and agreements to the contrary.
+
+
+## Section 9
+> This section adds a new section to an existing chapter [64.38](/rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md) for context.
+
+1. The governing documents of an association located within a city may not prohibit the construction, development, or use on a lot or lots of a type of housing that the city would be required to allow under RCW 36.70A.070(2)(b) based on the population of the city, the location of the lot or lots, and the size of the lot or lots.
+
+2. A provision in a governing document in effect on July 1, 2023, or thereafter that is inconsistent with this section is void and unenforceable.
+
+
+## Section 10
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Restrictive covenants and deed restrictions within a city may not prohibit the construction, development, or use on a lot or lots of a type of housing that the city would be required to allow under RCW 36.70A.070(2)(b) based on the population of the city, the location of the lot or lots, and the size of the lot or lots.
+
+2. This section applies retroactively to all restrictive covenants or deed restrictions in effect on July 1, 2022. Any provision in a restrictive covenant or deed restrictions in effect on or after July 1, 2022, that is inconsistent with subsection (1) of this section is unenforceable to the extent of the conflict.
+
+
+## Section 11
+> This section adds a new section to an existing chapter [64.90](/rcw/64_real_property_and_conveyances/64.90_washington_uniform_common_interest_ownership_act.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.90_washington_uniform_common_interest_ownership_act.md) for context.
+
+1. Neither the declaration nor the governing documents of a common interest community located within a city may prohibit the construction, development, or use on a lot or lots of a type of housing that the city would be required to allow under RCW 36.70A.070(2)(b) based on the population of the city, the location of the lot or lots, and the size of the lot or lots.
+
+2. A provision in a declaration or governing document in effect on July 1, 2023, or thereafter that is inconsistent with this section is void and unenforceable.
+
+
+## Section 12
+> This section modifies existing section [58.17.030](/rcw/58_boundaries_and_plats/58.17_plats—subdivisions—dedications.md). Here is the [modified chapter](rcw/58_boundaries_and_plats/58.17_plats—subdivisions—dedications.md) for context.
+
+Every subdivision shall comply with the provisions of this chapter. Every short subdivision as defined in this chapter shall comply with the provisions of any local regulation adopted pursuant to RCW 58.17.060 **and with the provisions of RCW 36.70A.070(2)(h)**.
+
+
+## Section 13
+> This section modifies existing section [84.55.005](/rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md) for context.
+
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Inflation" means the
+
+**annual percentage increase in the consumer price index for all urban consumers in the western region for all items as provided for the most recent 12-month period by the bureau of labor statistics of the United States department of labor by July 25th of the year before the taxes are payable.**
+
+2. **"Limit factor" means 100 percent plus population change and inflation, but not to exceed 103 percent.**
+
+3. [Empty]
+
+    a. [Empty]
+
+        i. **"Population change" means the percent increase in population of a taxing district between the two most recent years provided in the official population estimates published by the office of financial management in April of the year before the taxes are payable. If the office of financial management estimates a net decrease in a taxing district's population, for the purposes of this section, the population change will be zero. The population of a county taxing district means the population within the county's incorporated and unincorporated areas.**
+
+        ii. **For taxing districts that are not coterminous with one or more cities, towns, counties, or unincorporated county areas, or any combination thereof, as provided in the official population estimates published by the office of financial management in April of the year before the taxes are payable, "population change" means:**
+
+(A) **The city population change for the city in which the taxing district is wholly located;**
+
+(B) **The population change for the county in which the taxing district is wholly located; or**
+
+(C) **For districts located in more than one county, the county population change for the county in which the greatest total taxable assessed value of the taxing district for the prior assessment year is located.**
+
+    b. **For the purposes of this subsection (3), the annual percent increase in population is calculated to the nearest tenth of one percent, rounding up to the next tenth of one percent if the second decimal place of the annual percent increase is five or greater.**
+
+4. "Regular property taxes" has the meaning given it in RCW 84.04.140.
+
+
+## Section 14
+> This section modifies existing section [84.55.010](/rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md) for context.
+
+1. Except as provided in this chapter, the levy for a taxing district in any year must be set so that the regular property taxes payable in the following year do not exceed the limit factor multiplied by the amount of regular property taxes lawfully levied for such district in the highest of the three most recent years in which such taxes were levied for such district, excluding any increase due to (e) of this subsection, unless the highest levy was the statutory maximum rate amount, plus an additional dollar amount calculated by multiplying the regular property tax levy rate of that district for the preceding year by the increase in assessed value in that district resulting from:
+
+    a. New construction;
+
+    b. Increases in assessed value due to construction of wind turbine, solar, biomass, and geothermal facilities, if such facilities generate electricity and the property is not included elsewhere under this section for purposes of providing an additional dollar amount. The property may be classified as real or personal property;
+
+    c. Improvements to property;
+
+    d. Any increase in the assessed value of state-assessed property; and
+
+    e. Any increase in the assessed value of real property, as that term is defined in RCW 39.114.010, within an increment area as designated by any local government in RCW 39.114.020 provided that such increase is not included elsewhere under this section. This subsection (1)(e) does not apply to levies by the state or by port districts and public utility districts for the purpose of making required payments of principal and interest on general indebtedness.
+
+2. The requirements of this section do not apply to:
+
+    a. State property taxes levied under RCW 84.52.065(1) for collection in calendar years 2019 through 2021; and
+
+    b. State property taxes levied under RCW 84.52.065(2) for collection in calendar years 2018 through 2021.
+
+3. **If the limit factor used is greater than 101 percent, the entirety of the difference in revenue between the limit factor used and a limit factor of 101 percent must be used to:**
+
+    a. **Meet planning requirements under chapter 36.70A RCW;**
+
+    b. **Provide infrastructure including, but not limited to, stormwater, sewer, water, fire, schools, rapid transit, improvements in pedestrian and nonvehicular safety, and parks, where a lack of such infrastructure prevents increasing residential density through infill; or**
+
+    c. **Increase resiliency to climate change, including by reducing or preventing heat islands.**
+
+
+## Section 15
+> This section modifies existing section [84.55.092](/rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md) for context.
+
+1. The regular property tax levy for each taxing district other than the state's levies may be set at the amount which would be allowed otherwise under this chapter if the regular property tax levy for the district for taxes due in prior years beginning with 1986 had been set at the full amount allowed under this chapter**, excluding any amount that would be required to be used for purposes specified in RCW 84.55.010(3), but** including any levy authorized under RCW 52.16.160 or 52.26.140(1)(c) that would have been imposed but for the limitation in RCW 52.18.065 or 52.26.240, applicable upon imposition of the benefit charge under chapter 52.18 or 52.26 RCW.
+
+2. The purpose of subsection (1) of this section is to remove the incentive for a taxing district to maintain its tax levy at the maximum level permitted under this chapter, and to protect the future levy capacity of a taxing district that reduces its tax levy below the level that it otherwise could impose under this chapter, by removing the adverse consequences to future levy capacities resulting from such levy reductions.
+
+3. Subsection (1) of this section does not apply to any portion of a city or town's regular property tax levy that has been reduced as part of the formation of a fire protection district under RCW 52.02.160.
+
+
+## Section 16
+Sections 12 and 13 of this act apply to taxes levied for collection in 2023 and thereafter.
+
+
+## Section 17
+The legislature finds that the revenue projected to be generated with the real estate excise tax provided for in section 18 of this act and distributed through the local government planning support account in section 19 of this act is adequate to meet the projected costs of cities and counties developing and adopting new comprehensive plan elements adopted by the legislature in 2021 and 2022 into comprehensive plans in the upcoming comprehensive plan development cycle. These new elements to be adopted include chapter 254, Laws of 2021, and other new requirements relating to housing, climate change, and salmon recovery. The legislature also intends this revenue to provide ongoing funding for the department of commerce to provide consulting technical assistance for local governments for purposes of planning, the development ordinances, and other assistance pursuant to RCW 36.70A.190.
+
+
+## Section 18
+> This section adds a new section to an existing chapter [82.45](/rcw/82_excise_taxes/82.45_excise_tax_on_real_estate_sales.md). Here is the [modified chapter](rcw/82_excise_taxes/82.45_excise_tax_on_real_estate_sales.md) for context.
+
+1. There is imposed an additional excise tax upon each sale of real property. The rate of tax imposed is as follows:
+
+    a. Zero percent is imposed on the portion of the selling price that is less than or equal to $500,000;
+
+    b. Three one-hundredths of one percent of the portion of the selling price that is greater than $500,000 and equal to or less than $1,500,000;
+
+    c. Eight one-hundredths of one percent of the portion of the selling price that is greater than $1,500,000 and equal to or less than $3,000,000;
+
+    d. Eleven one-hundredths of one percent of the portion of the selling price that is greater than $3,000,000.
+
+2. Beginning July 1, 2027, and every fourth year thereafter:
+
+    a. The department must adjust the selling price threshold in subsection (1)(a) of this section to reflect the lesser of the growth of the consumer price index for shelter or five percent. If the growth is equal to or less than zero percent, the current selling price threshold continues to apply.
+
+    b. The department must adjust the selling price thresholds in subsection (1)(b) through (d) of this section by the dollar amount of any increase in the selling price threshold in subsection (1)(a) of this section.
+
+    c. The department must publish updated selling price thresholds by September 1, 2027, and September 1st of every fourth year thereafter. Updated selling price thresholds will apply beginning January 1, 2028, and January 1st every fourth year thereafter. Adjusted selling price thresholds must be rounded to the nearest $1,000. No changes may be made to adjusted selling price thresholds once such adjustments take effect.
+
+    d. The most recent selling price threshold becomes the base for subsequent adjustments.
+
+    e. The department must report adjustments to the selling price thresholds to the fiscal committees of the legislature, beginning December 1, 2027, and December 1st every fourth year thereafter.
+
+3. [Empty]
+
+    a. The department must publish guidance to assist sellers in properly classifying real property on the real estate excise tax affidavit for purposes of determining the proper amount of tax due under this section. Real property with multiple uses must be classified according to the property's predominant use. The department's guidance must include factors for use in determining the predominant use of real property.
+
+    b. County treasurers are not responsible for verifying that the seller has properly classified real property reported on a real estate excise tax affidavit. The department is solely responsible for such verification as part of its audit responsibilities under RCW 82.45.150.
+
+4. Amounts collected from the tax imposed under this section must be deposited into the local government planning support account as provided for in section 19 of this act.
+
+5. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Consumer price index for shelter" means the most current seasonally adjusted index for the shelter expenditure category of the consumer price index for all urban consumers as published by July 31st by the bureau of labor statistics of the United States department of labor.
+
+    b. "Growth of the consumer price index for shelter" means the percentage increase in the consumer price index for shelter as measured from data published by the bureau of labor statistics of the United States department of labor by July 31st for the most recent three-year period for the selling price threshold adjustment in 2022, and the most recent four-year period for subsequent selling price threshold adjustments.
+
+
+## Section 19
+> This section adds a new section to an existing chapter [43.330](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
+
+1. The local government planning support account is created in the custody of the state treasury. All receipts from the real estate excise tax imposed under section 18 of this act must be deposited into the account. Only the department or the department's designee may authorize expenditures from the account.
+
+2. Expenditures from the account must be made as follows:
+
+    a. The funds shall be first used to provide grants to jurisdictions to implement required comprehensive plan updates. This distribution shall be based on a study to be completed by the department no later than December 1, 2022. Funds shall be distributed based on the results of this study to ensure that each jurisdiction that is required to update plans in the next comprehensive planning cycle shall have adequate funding in the form of grants distributed by the department to:
+
+        i. Develop elements of comprehensive plans, including any studies necessary to determine the housing needs of each economic segment of the population and any new elements of plans mandated by the legislature for the upcoming plan update; and
+
+        ii. Update development regulations to implement new elements of comprehensive plans required by the legislature since the last plan update.
+
+    b. Any funds deposited in the account and not distributed to local governments shall be used by the department for the purpose of:
+
+        i. Providing staff, planners, and development regulation specialists to assist cities and counties in conducting planning, the preparation of development ordinances, regulations, and policies consistent with chapter 36.70A RCW, or for providing support for local governments in processing complex permits consistent with such ordinances, regulations, and policies;
+
+        ii. Developing model ordinances and providing mediation services, including assisting federally recognized Indian tribes and local governments to work cooperatively in planning; and
+
+        iii. Contracting with a nonprofit agency as provided for in RCW 36.70A.190.
+
+
+## Section 20
+> This section adds a new section to an existing chapter [82.46](/rcw/82_excise_taxes/82.46_counties_and_cities—excise_tax_on_real_estate_sales.md). Here is the [modified chapter](rcw/82_excise_taxes/82.46_counties_and_cities—excise_tax_on_real_estate_sales.md) for context.
+
+1. [Empty]
+
+    a. Subject to subsection (2) of this section, the legislative authority of any county may impose an additional excise tax on each sale of any class of real property in the county at a rate, or at graduated rates, as determined by the county legislative authority, provided that the maximum rate does not to exceed one-quarter of one percent of the selling price. The proceeds of the tax shall be used exclusively for comprehensive planning and updating ordinances and development regulations as required by chapter 36.70A RCW, for the processing of building permits, or for incentives for affordable housing through waiver of permit fees.
+
+    b. For the purpose of this section, "affordable housing" has the same meaning as in RCW 36.70A.030.
+
+2. [Empty]
+
+    a. The tax authorized in subsection (1) of this section may only be imposed on sales of residential real property that exceed the median residential unit housing price within the county.
+
+    b. For the purposes of this section, the "median residential unit housing price" means the median home price of the most recent year that information is available through the county assessor's office.
+
+3. The taxes imposed under this section shall be imposed in the same manner and on the same occurrences, and are subject to the same conditions, as the taxes under chapter 82.45 RCW, except that the tax shall be the obligation of both the purchaser and the seller, as apportioned by the county legislative authority, with at least one-half of the obligation being that of the purchaser. The county may enforce the obligation through an action of debt against the purchaser or seller or may foreclose the lien on the property in the same manner prescribed for the foreclosure of mortgages. The imposition of the tax is effective 30 days after the election at which the tax is authorized.
+

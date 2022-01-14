@@ -1,0 +1,78 @@
+# House Bill 1970
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1970.xml)
+## Section 1
+> This section modifies existing section [9.94A.74504](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. The department may supervise nonfelony offenders transferred to Washington pursuant to RCW 9.94A.745, the interstate compact for adult offender supervision, and shall supervise these offenders according to the provisions of this chapter.
+
+2. The department shall process applications for interstate transfer of felony and nonfelony offenders requesting transfer of supervision out-of-state pursuant to RCW 9.94A.745, the interstate compact for adult offender supervision
+
+.
+
+
+## Section 2
+> This section modifies existing section [9.94A.760](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
+
+1. Whenever a person is convicted in superior court, the court may order the payment of a legal financial obligation as part of the sentence. The court may not order an offender to pay costs as described in RCW 10.01.160 if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.101.010(3) (a) through (c). An offender being indigent as defined in RCW 10.101.010(3) (a) through (c) is not grounds for failing to impose restitution or the crime victim penalty assessment under RCW 7.68.035. The court must on either the judgment and sentence or on a subsequent order to pay, designate the total amount of a legal financial obligation and segregate this amount among the separate assessments made for restitution, costs, fines, and other assessments required by law. On the same order, the court is also to set a sum that the offender is required to pay on a monthly basis towards satisfying the legal financial obligation. If the court fails to set the offender monthly payment amount, the department shall set the amount if the department has active supervision of the offender, otherwise the county clerk shall set the amount.
+
+2. Upon receipt of each payment made by or on behalf of an offender, the county clerk shall distribute the payment in the following order of priority until satisfied:
+
+    a. First, proportionally to restitution to victims that have not been fully compensated from other sources;
+
+    b. Second, proportionally to restitution to insurance or other sources with respect to a loss that has provided compensation to victims;
+
+    c. Third, proportionally to crime victims' assessments; and
+
+    d. Fourth, proportionally to costs, fines, and other assessments required by law.
+
+3. If the court determines that the offender, at the time of sentencing, has the means to pay for the cost of incarceration, the court may require the offender to pay for the cost of incarceration. The court shall not order the offender to pay the cost of incarceration if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.101.010(3) (a) through (c). Costs of incarceration ordered by the court shall not exceed a rate of fifty dollars per day of incarceration, if incarcerated in a prison, or the actual cost of incarceration per day of incarceration, if incarcerated in a county jail. In no case may the court require the offender to pay more than one hundred dollars per day for the cost of incarceration. All funds recovered from offenders for the cost of incarceration in the county jail shall be remitted to the county and the costs of incarceration in a prison shall be remitted to the department.
+
+4. The court may add to the judgment and sentence or subsequent order to pay a statement that a notice of payroll deduction is to be issued immediately. If the court chooses not to order the immediate issuance of a notice of payroll deduction at sentencing, the court shall add to the judgment and sentence or subsequent order to pay a statement that a notice of payroll deduction may be issued or other income-withholding action may be taken, without further notice to the offender if a monthly court-ordered legal financial obligation payment is not paid when due, and an amount equal to or greater than the amount payable for one month is owed.
+
+If a judgment and sentence or subsequent order to pay does not include the statement that a notice of payroll deduction may be issued or other income-withholding action may be taken if a monthly legal financial obligation payment is past due, the department or the county clerk may serve a notice on the offender stating such requirements and authorizations. Service shall be by personal service or any form of mail requiring a return receipt.
+
+5. Independent of the department or the county clerk, the party or entity to whom the legal financial obligation is owed shall have the authority to use any other remedies available to the party or entity to collect the legal financial obligation. These remedies include enforcement in the same manner as a judgment in a civil action by the party or entity to whom the legal financial obligation is owed. Restitution collected through civil enforcement must be paid through the registry of the court and must be distributed proportionately according to each victim's loss when there is more than one victim. The judgment and sentence shall identify the party or entity to whom restitution is owed so that the state, party, or entity may enforce the judgment. If restitution is ordered pursuant to RCW 9.94A.750(6) or 9.94A.753(6) to a victim of rape of a child or a victim's child born from the rape, the Washington state child support registry shall be identified as the party to whom payments must be made. Restitution obligations arising from the rape of a child in the first, second, or third degree that result in the pregnancy of the victim may be enforced for the time periods provided under RCW 9.94A.750(6) and 9.94A.753(6). All other legal financial obligations for an offense committed prior to July 1, 2000, may be enforced at any time during the ten-year period following the offender's release from total confinement or within ten years of entry of the judgment and sentence, whichever period ends later. Prior to the expiration of the initial ten-year period, the superior court may extend the criminal judgment an additional ten years for payment of legal financial obligations including crime victims' assessments. All other legal financial obligations for an offense committed on or after July 1, 2000, may be enforced at any time the offender remains under the court's jurisdiction. For an offense committed on or after July 1, 2000, the court shall retain jurisdiction over the offender, for purposes of the offender's compliance with payment of the legal financial obligations, until the obligation is completely satisfied, regardless of the statutory maximum for the crime. The department may only supervise the offender's compliance with payment of the legal financial obligations during any period in which the department is authorized to supervise the offender in the community under RCW 9.94A.728, 9.94A.501, or in which the offender is confined in a state correctional institution or a correctional facility pursuant to a transfer agreement with the department, and the department shall supervise the offender's compliance during any such period. The department is not responsible for supervision of the offender during any subsequent period of time the offender remains under the court's jurisdiction. The county clerk is authorized to collect unpaid legal financial obligations at any time the offender remains under the jurisdiction of the court for purposes of his or her legal financial obligations.
+
+6. In order to assist the court in setting a monthly sum that the offender must pay during the period of supervision, the offender is required to report to the department for purposes of preparing a recommendation to the court. When reporting, the offender is required, under oath, to respond truthfully and honestly to all questions concerning present, past, and future earning capabilities and the location and nature of all property or financial assets. The offender is further required to bring all documents requested by the department.
+
+7. After completing the investigation, the department shall make a report to the court on the amount of the monthly payment that the offender should be required to make towards a satisfied legal financial obligation.
+
+8. [Empty]
+
+    a. During the period of supervision, the department may make a recommendation to the court that the offender's monthly payment schedule be modified so as to reflect a change in financial circumstances. If the department sets the monthly payment amount, the department may modify the monthly payment amount without the matter being returned to the court. During the period of supervision, the department may require the offender to report to the department for the purposes of reviewing the appropriateness of the collection schedule for the legal financial obligation. During this reporting, the offender is required under oath to respond truthfully and honestly to all questions concerning earning capabilities and the location and nature of all property or financial assets. The offender shall bring all documents requested by the department in order to prepare the collection schedule.
+
+    b. Subsequent to any period of supervision, or if the department is not authorized to supervise the offender in the community, the county clerk may make a recommendation to the court that the offender's monthly payment schedule be modified so as to reflect a change in financial circumstances. If the county clerk sets the monthly payment amount, or if the department set the monthly payment amount and the department has subsequently turned the collection of the legal financial obligation over to the county clerk, the clerk may modify the monthly payment amount without the matter being returned to the court. During the period of repayment, the county clerk may require the offender to report to the clerk for the purpose of reviewing the appropriateness of the collection schedule for the legal financial obligation. During this reporting, the offender is required under oath to respond truthfully and honestly to all questions concerning earning capabilities and the location and nature of all property or financial assets. The offender shall bring all documents requested by the county clerk in order to prepare the collection schedule.
+
+9. After the judgment and sentence or payment order is entered, the department is authorized, for any period of supervision, to collect the legal financial obligation from the offender. Subsequent to any period of supervision or, if the department is not authorized to supervise the offender in the community, the county clerk is authorized to collect unpaid legal financial obligations from the offender. Any amount collected by the department shall be remitted daily to the county clerk for the purpose of disbursements. The department and the county clerks are authorized, but not required, to accept credit cards as payment for a legal financial obligation, and any costs incurred related to accepting credit card payments shall be the responsibility of the offender.
+
+10. The department or any obligee of the legal financial obligation may seek a mandatory wage assignment for the purposes of obtaining satisfaction for the legal financial obligation pursuant to RCW 9.94A.7701. Any party obtaining a wage assignment shall notify the county clerk. The county clerks shall notify the department, or the administrative office of the courts, whichever is providing the monthly billing for the offender.
+
+11. The requirement that the offender pay a monthly sum towards a legal financial obligation constitutes a condition or requirement of a sentence and the offender is subject to the penalties for noncompliance as provided in RCW 9.94B.040, 9.94A.737, or 9.94A.740. If the court determines that the offender is homeless or a person who is mentally ill, as defined in RCW 71.24.025, failure to pay a legal financial obligation is not willful noncompliance and shall not subject the offender to penalties.
+
+12. [Empty]
+
+    a. The administrative office of the courts shall mail individualized periodic billings to the address known by the office for each offender with an unsatisfied legal financial obligation.
+
+    b. The billing shall direct payments to the county clerk.
+
+    c. The county clerk shall provide the administrative office of the courts with notice of payments by such offenders no less frequently than weekly.
+
+    d. The county clerks, the administrative office of the courts, and the department shall maintain agreements to implement this subsection.
+
+13. The department shall arrange for the collection of unpaid legal financial obligations during any period of supervision in the community through the county clerk. The department shall either collect unpaid legal financial obligations or arrange for collections through another entity if the clerk does not assume responsibility or is unable to continue to assume responsibility for collection pursuant to subsection (5) of this section. The costs for collection services shall be paid by the offender.
+
+14. The county clerk may access the records of the employment security department for the purposes of verifying employment or income, seeking any assignment of wages, or performing other duties necessary to the collection of an offender's legal financial obligations.
+
+15. Nothing in this chapter makes the department, the state, the counties, or any state or county employees, agents, or other persons acting on their behalf liable under any circumstances for the payment of these legal financial obligations or for the acts of any offender who is no longer, or was not, subject to supervision by the department for a term of community custody, and who remains under the jurisdiction of the court for payment of legal financial obligations.
+
+
+## Section 3
+> This section modifies existing section [9.95.214](/rcw/09_crimes_and_punishments/9.095_indeterminate_sentences.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.095_indeterminate_sentences.md) for context.
+
+Whenever a defendant convicted of a misdemeanor or gross misdemeanor is placed on probation under RCW 9.92.060 or 9.95.210, and the defendant is supervised by a county probation department, the county probation department may assess and collect from the defendant for the duration of the term of supervision a monthly assessment not to exceed one hundred dollars per month.  This assessment shall be paid to the agency supervising the defendant and shall be applied, along with funds appropriated by the legislature, toward the payment or part payment of the cost of supervising the defendant. The county probation department shall suspend such assessment while the defendant is being supervised by another state pursuant to RCW 9.94A.745, the interstate compact for adult offender supervision.
+
+
+## Section 6
+The state treasurer shall transfer all residual funds in the cost of supervision fund to the general fund on June 30, 2022.
+
