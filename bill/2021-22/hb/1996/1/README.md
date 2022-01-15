@@ -1,0 +1,42 @@
+# House Bill 1996
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1996.xml)
+## Section 1
+> This section modifies existing section [36.89.050](/rcw/36_counties/36.089_highways—open_spaces—parks—other_public_facilities—stormwater_control.md). Here is the [modified chapter](rcw/36_counties/36.089_highways—open_spaces—parks—other_public_facilities—stormwater_control.md) for context.
+
+A county may finance, acquire, construct, develop, improve, maintain and operate any open space, park, recreation and community facilities, public health and safety facilities, stormwater control facilities and highways authorized by this chapter either solely or in conjunction with one or more governmental agencies. Any governmental agency is authorized to participate in such financing, acquisition, construction, development, improvement, use, maintenance and operation and to convey, dedicate or lease any lands, properties or facilities to any county for the purposes provided in this chapter and RCW 86.12.020, on such terms as may be fixed by agreement between the respective governing commissions or legislative bodies without submitting the matter to a vote of the electors unless the provisions of general law applicable to the incurring of public indebtedness shall require such submission.
+
+No county shall proceed under the authority of this chapter to construct or improve any stormwater control facility or highway or part thereof lying within the limits of a city or town except with the prior consent of such city or town. By agreement between their respective legislative bodies, cities, towns and counties may provide that upon completion of any stormwater control facility or highway or portion thereof constructed pursuant to this chapter within any city or town, the city or town shall accept the same for maintenance and operation and that such stormwater control facility or highway or portion thereof shall thereupon become a part of the respective stormwater control facility or highway system of the city or town.
+
+**No county shall proceed under the authority of this chapter to construct or improve any stormwater control facility or part thereof lying within the limits of any operating diking, drainage, or sewerage improvement district except with the prior consent of such diking, drainage, or sewerage improvement district. By agreement between their respective legislative bodies, diking, drainage, or sewerage improvement districts and counties may provide that upon completion of any stormwater control facility or portion thereof constructed pursuant to this chapter within any diking, drainage, or sewerage improvement district, the diking, drainage, or sewerage improvement district shall accept the same for maintenance and operation and that such stormwater control facility or portion thereof shall thereupon become a part of the respective stormwater control facility system of the diking, drainage, or sewerage improvement district.**
+
+A county may transfer to any other governmental agency the ownership, operation and maintenance of any open space, park, recreation and community facility acquired by the county pursuant to this chapter, which lies wholly or partly within such governmental agency, pursuant to an agreement entered into between the legislative bodies of the county and such governmental agency: PROVIDED, That such transfer shall be subject to the condition that either such facility shall continue to be used for the same purposes or that other equivalent facilities within the county shall be conveyed to the county in exchange therefor.
+
+
+## Section 2
+> This section modifies existing section [36.89.080](/rcw/36_counties/36.089_highways—open_spaces—parks—other_public_facilities—stormwater_control.md). Here is the [modified chapter](rcw/36_counties/36.089_highways—open_spaces—parks—other_public_facilities—stormwater_control.md) for context.
+
+1. Subject to subsections (2) and (3) of this section, any county legislative authority may provide by resolution for revenues by fixing rates and charges for the furnishing of service to those served or receiving benefits or to be served or to receive benefits from any stormwater control facility or contributing to an increase of surface water runoff. In fixing rates and charges, the county legislative authority may in its discretion consider:
+
+    a. Services furnished or to be furnished;
+
+    b. Benefits received or to be received;
+
+    c. The character and use of land or its water runoff characteristics;
+
+    d. The public benefit nonprofit corporation status, as defined in RCW 24.03A.245, of the land user;
+
+    e. Income level of persons served or provided benefits under this chapter, including senior citizens and individuals with disabilities; or
+
+    f. Any other matters which present a reasonable difference as a ground for distinction.
+
+2. The rate a county may charge under this section for stormwater control facilities shall be reduced by a minimum of ten percent for any new or remodeled commercial building that utilizes a permissive rainwater harvesting system. Rainwater harvesting systems shall be properly sized to utilize the available roof surface of the building. The jurisdiction shall consider rate reductions in excess of ten percent dependent upon the amount of rainwater harvested.
+
+3. Rates and charges authorized under this section may not be imposed on lands taxed as forestland under chapter 84.33 RCW or as timberland under chapter 84.34 RCW.
+
+4. [Empty]
+
+    a. The service charges and rates collected shall be deposited in a special fund or funds in the county treasury to be used only for the purpose of paying all or any part of the cost and expense of maintaining and operating stormwater control facilities, all or any part of the cost and expense of planning, designing, establishing, acquiring, developing, constructing and improving any of such facilities, or to pay or secure the payment of all or any portion of any issue of general obligation or revenue bonds issued for such purpose.
+
+    b. **Beginning in fiscal year 2023, all service charges and rates collected under this chapter located in any duly authorized diking, drainage, or sewerage improvement districts formed and operating under Title 85 RCW shall be deposited into the revenue account of that diking, drainage, or sewerage improvement district. A diking, drainage, or sewer improvement district may retroactively collect no greater than seven years of service charges and rate revenues from county treasury following the enactment of this revision.**
+

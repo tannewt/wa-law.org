@@ -1,5 +1,5 @@
 # SB 5565 - Fire district treasurers
-*Status: First reading, referred to Housing & Local Government.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5565&Year=2021)
+*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5565&Year=2021)
 
 Allowing fire districts and regional fire authorities to carry out certain treasurer functions.
 
