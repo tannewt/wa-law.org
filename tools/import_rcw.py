@@ -167,6 +167,7 @@ with top_readme.open("w") as rm:
                         f.write(section_info["title"])
                         f.write("\n")
                         last_group = ""
+                        indents = []
                         for paragraph in section_info["body"]:
                             last_end = 0
                             for result in section_pattern.finditer(paragraph):
@@ -176,20 +177,28 @@ with top_readme.open("w") as rm:
                                     f.write(" [Empty]\n\n")
                                 last_end = result.end()
                                 group = result.group(1)
+                                suffix = "."
                                 if group.isnumeric():
-                                    f.write(group + ".")
+                                    depth = 0
                                 elif ((group[0] == "i" and last_group != "h") or
                                       (group[0] == "v" and last_group != "u") or
                                       (group[0] == "x" and last_group != "w")):
-                                    f.write("    " * 2 + group + ". ")
+                                    depth = 2
                                 elif ((group[0] == "I" and last_group != "H") or
                                       (group[0] == "V" and last_group != "U") or
                                       (group[0] == "X" and last_group != "W")):
-                                    f.write("    " * 4 + group + ". ")
+                                    depth = 4
                                 elif group.isupper():
-                                    f.write("    " * 3 + group + ". ")
+                                    depth = 3
+                                    suffix = ". "
                                 else:
-                                    f.write("    " * 1 + group + ". ")
+                                    depth = 1
+
+                                while len(indents) > depth:
+                                    indents.pop()
+
+                                f.write(" " * sum(indents) + group + suffix )
+                                indents.append(len(group) + len(suffix) + 1)
                                 last_group = group
                             f.write(paragraph[last_end:])
                             f.write("\n\n")

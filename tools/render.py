@@ -1,6 +1,7 @@
 import pathlib
 
 from markdown_it import MarkdownIt
+from fancy_list_plugin import fancy_list_plugin
 from mdit_py_plugins.front_matter import front_matter_plugin
 from mdit_py_plugins.footnote import footnote_plugin
 from mdit_py_plugins.anchors import anchors_plugin
@@ -16,6 +17,9 @@ md = (
     MarkdownIt()
     .use(front_matter_plugin)
     .use(footnote_plugin)
+    .use(
+        fancy_list_plugin, allow_ordinal=False
+    )
     .use(anchors_plugin, permalink=True)
     .disable('image')
     .enable('table')
