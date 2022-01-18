@@ -6,3 +6,4 @@ Replacing the term "marijuana" with the term "cannabis" throughout the Revised C
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
