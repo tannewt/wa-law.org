@@ -1,0 +1,40 @@
+# Senate Bill 5908
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5908.xml)
+## Section 1
+1. There is hereby created a clean car authority. The purpose of the authority is to distribute electric vehicle grant funding awarded to Washington state from the federal infrastructure investment and jobs act, P.L. 117-58. Additionally, the authority shall provide a general vision for the state regarding the most beneficial and efficient distribution of electric vehicle grants, as well as coordinate and oversee the administration of electric vehicle grants across all state agencies and local governments. The authority shall also coordinate its efforts with the office of climate commitment accountability, if in existence.
+
+2. Pursuant to RCW 70A.02.030, the clean car authority shall assume all of the substantive and procedural requirements of covered agencies under chapter 70A.02 RCW (environmental justice) by notifying the environmental justice council established in RCW 70A.02.110.
+
+3. The authority is vested with all powers and duties delegated to it under this chapter and such other powers and duties as may be authorized by law.
+
+4. The authority may adopt rules under chapter 34.05 RCW as may be necessary to carry out the powers and duties delegated to it.
+
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Authority" means the clean car authority.
+
+2. "Director" means the director of the clean car authority.
+
+
+## Section 3
+The executive head and appointing authority of the authority is the director. The director shall be appointed by the governor, with the consent of the senate, and serves at the pleasure of the governor. The director shall be paid a salary to be fixed by the governor in accordance with RCW 43.03.040. If a vacancy occurs in the position while the senate is not in session, the governor shall make a temporary appointment until the next meeting of the senate.
+
+
+## Section 4
+1. The internal affairs of the authority shall be under the control of the director. Whenever the director's authority is not specifically limited by law, the director has complete charge and supervisory powers over the authority. The director may create such administrative structures as the director considers appropriate, except as otherwise specified by law. The director may employ such personnel as necessary for the general administration of the authority. This employment shall be in accordance with the state civil service law, chapter 41.06 RCW, except as otherwise provided.
+
+2. Any power or duty vested in or transferred to the director by law or executive order may be delegated by the director to a deputy director or to any other assistant or subordinate, but the director is responsible for the official acts of the officers and employees of the authority.
+
+
+## Section 5
+The director shall appoint an industry advisory committee to provide recommendations to the director regarding the function of the authority. The industry advisory committee shall include representation from the electric vehicle industry, interested stakeholders, and applicable state and local agencies tasked with administering electric vehicle grants. The industry advisory committee shall be constituted as the director may determine. Members of the industry advisory committee may be paid their travel expenses in accordance with RCW 43.03.050 and 43.03.060.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [41.06](/rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md) for context.
+
+In addition to the exemptions under RCW 41.06.070, this chapter does not apply to the director, and to the deputy director should one be appointed, of the clean car authority established under chapter 43.--- RCW (the new chapter created in section 7 of this act).
+
