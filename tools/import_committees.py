@@ -21,10 +21,14 @@ TESTIFY_REMOTE = 'I would like to testify remotely'
 TESTIFY_NOTED = 'I would like my position noted for the legislative record'
 TESTIFY_WRITTEN = 'I would like to submit written testimony'
 
-def add_lines(lines, active, inactive):
+def add_lines(lines, active, heard, inactive):
     if active:
         lines.append("Active bills:")
         lines.extend(active)
+        lines.append("")
+    if heard:
+        lines.append("Heard bills:")
+        lines.extend(heard)
         lines.append("")
     if inactive:
         lines.append("")
@@ -42,15 +46,15 @@ for start_year in range(2021, 2023, 2):
 
     url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetings?beginDate={start_year}-01-01&endDate={start_year+1}-12-31"
     print(url)
-    meetings = requests.get(url)
+    meetings = requests.get(url, expire_after=0)
     meetings = BeautifulSoup(meetings.text, "xml")
     count = 0
     for info in meetings.find_all("CommitteeMeeting"):
         count += 1
         agendaId = info.AgendaId.text
-        print(info.AgendaId.text, info.Date.text, info.RevisedDate.text)
+        # print(info.AgendaId.text, info.Date.text, info.RevisedDate.text)
         url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetingItems?agendaId={agendaId}"
-        print(url)
+        # print(url)
         items = requests.get(url)
         items = BeautifulSoup(items.text, "xml")
         for item in items.find_all("CommitteeMeetingItem"):
@@ -61,28 +65,26 @@ for start_year in range(2021, 2023, 2):
                     meetings_by_bill[bill_number] = []
                 meetings_by_bill[bill_number].append((arrow.get(info.Date.text), info, item))
             else:
-                print(item)
+                # print(item)
+                pass
 
     print("-----")
     now = arrow.now()
     active = {}
+    heard = {}
     for bill_number in meetings_by_bill:
         meetings = meetings_by_bill[bill_number]
         meetings.sort(key=lambda x: x[0])
-        latest_date = meetings[-1][0]
-        if latest_date < now:
-            continue
 
         activity = ""
 
-        print(bill_number)
         for dt, meeting, item in meetings:
             if now < dt:
                 if not activity:
                     activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
                 # print(activity)
                 # print(item)
-                print(meeting)
+                # print(meeting)
                 # doc link: https://app.leg.wa.gov/committeeschedules/Home/Documents/29441
                 mId = meeting.AgendaId.text
                 # print("[live]()") # tId=2
@@ -133,9 +135,41 @@ for start_year in range(2021, 2023, 2):
                         new_lines.append("")
                         new_lines.append(f"Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId={caId}).")
                         bill_path.write_text("\n".join(new_lines))
+            else:
+                if item.HearingType.text != "Public":
+                    continue
+                mId = meeting.AgendaId.text
+                url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={mId}"
+                agendaItems = requests.get(url)
+                items = BeautifulSoup(agendaItems.text, "lxml")
+                for item in items.find_all(class_="agendaItem"):
+                    if bill_number not in item.text:
+                        continue
+                    chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
 
-        print()
-        active[bill_number] = activity
+                    url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
+                    testifiers = requests.get(url)
+                    testifiers = BeautifulSoup(testifiers.text, "lxml")
+                    totals = {}
+                    for row in testifiers.find_all("tr"):
+                        cols = [c.text for c in row.find_all("td")]
+                        if not cols:
+                            continue
+                        stance = cols[3]
+                        if stance not in totals:
+                            totals[stance] = 0
+                        totals[stance] += 1
+                    if bill_number in heard:
+                        for k in totals:
+                            if k in heard[bill_number]:
+                                heard[bill_number][k] += totals[k]
+                            else:
+                                heard[bill_number][k] = totals[k]
+                    else:
+                        heard[bill_number] = totals
+
+        if activity:
+            active[bill_number] = activity
 
         # 
         # https://app.leg.wa.gov
@@ -146,11 +180,13 @@ for start_year in range(2021, 2023, 2):
     new_lines = []
     active_lines = []
     inactive_lines = []
+    heard_lines = []
     for line in bill_index.read_text().split("\n"):
         if line.startswith("#"):
             # add active/inactive sections
-            add_lines(new_lines, active_lines, inactive_lines)
+            add_lines(new_lines, active_lines, heard_lines, inactive_lines)
             active_lines = []
+            heard_lines = []
             inactive_lines = []
             new_lines.append(line)
             pass
@@ -159,16 +195,24 @@ for start_year in range(2021, 2023, 2):
             bill_number = line.split()[2][:4]
             if "|" in line:
                 line = line.split("|")[0][:-1]
+            thumbs = ""
+            if bill_number in heard:
+                pro = heard[bill_number].get("Pro", 0)
+                con = heard[bill_number].get("Con", 0)
+                other = heard[bill_number].get("Other", 0)
+                thumbs = f" {pro} 👍 {con} 👎 {other} ❓"
             if bill_number in active:
-                active_lines.append(line + " | *" + active[bill_number] + "*")
+                active_lines.append(line + " | *" + active[bill_number] + "*" + thumbs)
+            elif bill_number in heard:
+                heard_lines.append(line + f" |" + thumbs)
             else:
                 inactive_lines.append(line)
             pass
-        elif line.strip().startswith("<") or line.startswith("Active bills"):
+        elif line.strip().startswith("<") or line.startswith("Active bills") or line.startswith("Heard bills"):
             # Skip any <details> or <summary> that we've already added.
             pass
         elif line:
             new_lines.append(line)
 
-    add_lines(new_lines, active_lines, inactive_lines)
+    add_lines(new_lines, active_lines, heard_lines, inactive_lines)
     bill_index.write_text("\n".join(new_lines))
