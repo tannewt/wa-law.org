@@ -6,6 +6,7 @@ Establishing voluntary exemptions to the long-term services and supports trust p
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Testify
 The Senate Ways & Means committee will be holding a public hearing on Mon, Jan 24 at 4:00 pm. There are three ways to testify. You can do more than one.

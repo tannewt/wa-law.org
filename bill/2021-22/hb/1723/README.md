@@ -1,5 +1,5 @@
 # HB 1723 - Telecommunications access
-*Status: Minority; do not pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1723&Year=2021)
+*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1723&Year=2021)
 
 Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training.
 

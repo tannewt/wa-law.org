@@ -1,11 +1,7 @@
-# Senate Bill 5017
+# Engrossed Senate Bill 5017
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5017.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5017.E.xml)
 ## Section 1
-The legislature finds that school construction procurement processes must comply with the requirements of public works laws specified in chapter 39.04 RCW. Competitive bidding requirements under chapter 39.04 RCW apply to construction contracts by registered contractors. Procurement requirements in RCW 28A.335.190 for public works by school districts are not well defined and may be interpreted as being inconsistent with the requirements of chapter 39.04 RCW and with the authority to contract for personal services under RCW 28A.320.035. The purpose of this act is to make retroactive, remedial, curative, and technical amendments to clarify the intent of RCW 28A.335.190.
-
-
-## Section 2
 > This section modifies existing section [28A.335.190](/rcw/28A_common_school_provisions/28A.335_school_districts_property.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.335_school_districts_property.md) for context.
 
 1. When, in the opinion of the board of directors of any school district, the cost of any furniture, supplies, equipment, building, improvements, or repairs,  other **construction** work **by a contractor who meets the criteria in RCW 39.04.350,** or **other** purchases, except books, will equal or exceed the threshold levels specified in subsections (2) and (4) of this section, complete plans and specifications for such work or purchases shall be prepared and notice by publication given in at least one newspaper of general circulation within the district, once each week for two consecutive weeks, of the intention to receive bids and that specifications and other information may be examined at the office of the board or any other officially designated location. The cost of any public work, improvement, or repair for the purposes of this section shall be the aggregate of all amounts to be paid for labor, material, and equipment on one continuous or interrelated project where work is to be performed simultaneously or in close sequence. The bids shall be in writing and shall be opened and read in public on the date and in the place named in the notice and after being opened shall be filed for public inspection.
@@ -29,4 +25,12 @@ The legislature finds that school construction procurement processes must comply
 10. As used in this section, "Washington grown" has the definition in RCW 15.64.060.
 
 11. As used in this section, "price percentage preference" means the percent by which a responsive bid from a responsible bidder whose product is a Washington grown food may exceed the lowest responsive bid submitted by a responsible bidder whose product is not a Washington grown food.
+
+12. **For purposes of this section, "construction work" does not include the following services: (a) Construction management services; (b) value engineering; (c) constructability review; (d) building commissioning; and (e) other construction-related professional and personal services.**
+
+13. **Beginning January 1, 2023, requests for proposals or qualifications, advertisements, bids, or calls for bids pursuant to this section for the services listed under subsection (12) of this section, must include the standard clauses required under RCW 39.19.050.**
+
+14. **Beginning January 1, 2023, requests for proposals or qualifications, advertisements, bids, or calls for bids pursuant to this section for the services listed under subsection (12) of this section, are subject to the procurement requirements of chapter 39.10 or 39.80 RCW, as applicable to the method of project delivery.**
+
+15. **Beginning January 1, 2023, school districts may use interlocal agreements under chapter 39.34 RCW to procure the services listed under subsection (12) of this section only if the agreements are executed following a competitive, qualification-based procurement process for these services pursuant to chapter 39.10 or 39.80 RCW.**
 

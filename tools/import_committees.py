@@ -200,7 +200,7 @@ for start_year in range(2021, 2023, 2):
                 pro = heard[bill_number].get("Pro", 0)
                 con = heard[bill_number].get("Con", 0)
                 other = heard[bill_number].get("Other", 0)
-                thumbs = f" {pro} 👍 {con} 👎 {other} ❓"
+                thumbs = f" **{pro}👍** **{con}👎** **{other}❓**"
             if bill_number in active:
                 active_lines.append(line + " | *" + active[bill_number] + "*" + thumbs)
             elif bill_number in heard:
