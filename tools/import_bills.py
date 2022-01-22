@@ -210,7 +210,7 @@ for start_year in range(2021, 2023, 2):
     sponsors_by_id = {}
 
     url = api_root_url + f"/SponsorService.asmx/GetSponsors?biennium={biennium}"
-    sponsors = requests.get(url)
+    sponsors = requests.get(url, expire_after=0)
     sponsors = BeautifulSoup(sponsors.text, "xml")
     count = 0
     for info in sponsors.find_all("Member"):
@@ -262,7 +262,7 @@ for start_year in range(2021, 2023, 2):
             continue
 
         bills_url = api_root_url + f"/LegislationService.asmx/GetLegislation?biennium={biennium}&billNumber={bill_number}"
-        bills = requests.get(bills_url)
+        bills = requests.get(bills_url, expire_after=0)
         bills = BeautifulSoup(bills.text, "xml")
         full_info = None
         for bill in bills.find_all("Legislation"):
@@ -321,14 +321,16 @@ for start_year in range(2021, 2023, 2):
         print(count, "amendments")
 
     # for sponsor in bills_by_sponsor:
-    #     if sponsor != "16499": # and sponsor != "27211":
-    #         continue
     #     sponsor_info = sponsors_by_id[sponsor]
+    #     if sponsor_info.LastName.text != "Ryu":
+    #         continue
     #     print(sponsor_info)
+    # sys.exit()
     #     sponsor_name = sponsor_info.Name.text
     #     sponsor_email = sponsor_info.Email.text.lower().replace("@leg.wa.gov", "@wa-law.org")
     #     gitlab_user = sponsor_info.Email.text.lower().split("@")[0]
     #     for bill_number in bills_by_sponsor[sponsor]:
+    bill_link_by_number = {}
     for i, bill_number in enumerate(bills_by_number):
             # if bill_number != "1000":
             #     continue
@@ -342,7 +344,7 @@ for start_year in range(2021, 2023, 2):
             for v in bills_by_sponsor[sponsor][bill_number]:
                 if v.Active.text != "true":
                     continue
-                print(v.CurrentStatus.Status.text, v.CurrentStatus.HistoryLine.text)
+                # print(v.CurrentStatus.Status.text, v.CurrentStatus.HistoryLine.text)
                 status = v.CurrentStatus.Status.text
             short_description = ""
             if bill.ShortDescription is not None:
@@ -352,6 +354,7 @@ for start_year in range(2021, 2023, 2):
             else:
                 print(bill)
             bill_link = f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
+            bill_link_by_number[bill_number] = f"[{bill_id}]({str(bill_path)}/) - {short_description}"
             if status.startswith("C "):
                 bills_by_status["passed"].append(bill_link)
             else:
@@ -623,6 +626,25 @@ for start_year in range(2021, 2023, 2):
 
     rm = biennium_path / "README.md"
     rm.write_text("\n".join(biennium_readme))
+
+    for sponsor_id in bills_by_sponsor:
+        sponsor = sponsors_by_id[sponsor_id]
+        email = sponsor.Email.text
+        slug = email.split("@")[0].lower()
+        person_page = pathlib.Path(f"person/leg/{slug}.md")
+
+        if not person_page.exists():
+            print("missing", person_page)
+            continue
+
+        lines = person_page.read_text().split("\n")
+        if "## Bills" in lines:
+            lines = lines[:lines.index("## Bills")]
+        lines.append("## Bills")
+        for bill_number in bills_by_sponsor[sponsor_id]:
+            lines.append("* " + bill_link_by_number[bill_number])
+        lines.append("")
+        person_page.write_text("\n".join(lines))
 
     print()    
 

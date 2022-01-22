@@ -970,7 +970,6 @@ Heard bills:
 ### S State Govt & El
 Active bills:
 * [SB 5098](sb/5098/) - Reports | *Public Hearing Wed, Jan 26 8:00 am*
-* [SB 5650](sb/5650/) - Elections law violation info | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5854](sb/5854/) - Faculty duties/ethics | *Public Hearing Wed, Jan 26 8:00 am*
 
 Heard bills:
@@ -1256,7 +1255,6 @@ Heard bills:
 * [SB 5648](sb/5648/) - Accessory dwelling units
 * [SB 5685](sb/5685/) - Urban growth area boundaries
 * [SB 5862](sb/5862/) - Commercial energy program
-* [SB 5923](sb/5923/) - Temporary emergency shelters
 </details>
 
 ### H Comm & Econ Dev
@@ -1610,6 +1608,7 @@ Heard bills:
 * [SB 5852](sb/5852/) - Biodegradable product labels
 * [SB 5872](sb/5872/) - Power plants/greenhouse gas
 * [SB 5916](sb/5916/) - Ransomware protection
+* [SB 5928](sb/5928/) - State energy code
 </details>
 
 ### S Rules X
@@ -1806,6 +1805,7 @@ Heard bills:
 
 ### S State Govt & E
 Active bills:
+* [SB 5650](sb/5650/) - Elections law violation info | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5659](sb/5659/) - Building material standards | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5679](sb/5679/) - Elections/voter confidence | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5782](sb/5782/) - Defense compatibility | *Public Hearing Wed, Jan 26 8:00 am*
@@ -2171,7 +2171,6 @@ Heard bills:
 * [SB 5669](sb/5669/) - Energy codes
 * [SB 5731](sb/5731/) - Organic materials management
 * [SB 5895](sb/5895/) - Remedial action grants
-* [SB 5928](sb/5928/) - State energy code
 </details>
 
 ### S Housing & Loca
@@ -2204,6 +2203,7 @@ Heard bills:
 * [SB 5360](sb/5360/) - Fire & smoke control systems
 * [SB 5662](sb/5662/) - Right-of-way camping/housing
 * [SB 5712](sb/5712/) - Local taxing districts
+* [SB 5923](sb/5923/) - Temporary emergency shelters
 </details>
 
 ### S Behavioral Hea
@@ -2229,6 +2229,7 @@ Active bills:
 
 Heard bills:
 * [SB 5609](sb/5609/) - Juvenile fingerprinting | **15👍** **2👎** **0❓**
+* [SB 5694](sb/5694/) - DOC-tribal agreements | **10👍** **0👎** **0❓**
 * [SB 5729](sb/5729/) - Hearing deadlines/good cause | **16👍** **0👎** **1❓**
 * [SB 5745](sb/5745/) - Personal needs allowance | **109👍** **0👎** **1❓**
 * [SB 5785](sb/5785/) - Transitional food assistance | **24👍** **0👎** **0❓**
@@ -2248,6 +2249,7 @@ Heard bills:
 * [SB 5413](sb/5413/) - Solitary confinement
 * [SB 5424](sb/5424/) - Working families/tax
 * [SB 5780](sb/5780/) - Graduated reentry program
+* [SB 5929](sb/5929/) - WorkFirst poverty task force
 </details>
 
 ### H Hous, Human Svc
@@ -2305,7 +2307,6 @@ Active bills:
 
 Heard bills:
 * [SB 5646](sb/5646/) - Corrections/body scanners | **1👍** **3👎** **2❓**
-* [SB 5694](sb/5694/) - DOC-tribal agreements | **10👍** **0👎** **0❓**
 * [SB 5695](sb/5695/) - DOC body scanner pilot | **1👍** **2👎** **4❓**
 
 
@@ -2318,7 +2319,6 @@ Heard bills:
 * [SB 5674](sb/5674/) - Graduated reentry program
 * [SB 5684](sb/5684/) - DOC/terminal illnesses
 * [SB 5711](sb/5711/) - Private prison contracting
-* [SB 5929](sb/5929/) - WorkFirst poverty task force
 </details>
 
 ### S RecComm

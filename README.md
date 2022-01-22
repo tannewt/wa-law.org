@@ -6,6 +6,8 @@ Welcome to wa-law.org. Our goals is to make the Washington State laws better for
 
 * [Revised Code of Washington](rcw/)
 * [All Bills](bill/)
+* [House of Representatives](house/)
+* [Senate](senate/)
 
 ## Develop
 
