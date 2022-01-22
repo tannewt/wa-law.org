@@ -1,5 +1,5 @@
 # HB 1613 - Employer reports/private
-*Status: First reading, referred to Labor & Workplace Standards.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1613&Year=2021)
+*Status: LAWS - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1613&Year=2021)
 
 Concerning shared reporting responsibilities for both the paid family and medical leave and the long-term services and supports trust programs to clarify that information collected from employer reports shall remain private.
 

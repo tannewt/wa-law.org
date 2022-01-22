@@ -1,0 +1,48 @@
+# Senate Bill 5928
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5928.xml)
+## Section 1
+It is the intent of the legislature to encourage affordable housing in all areas of the state. Each one of Washington's residents needs housing and the legislature intends to address the overall costs of construction in order to increase access to, and affordability for, all housing types across Washington. State-imposed, high-barrier construction costs are most burdensome to those who can least afford increasing housing costs. The legislature finds that it is appropriate to address the underlying cost of state energy code compliance and, given that the state has taken positive and assertive action on clean energy generation and efficiency, it is the legislature's intent to balance the housing needs of its residents with the promotion of efficient and sustainable housing.
+
+
+## Section 2
+> This section modifies existing section [19.27A.020](/rcw/19_business_regulations—miscellaneous/19.027A_energy-related_building_standards.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027A_energy-related_building_standards.md) for context.
+
+1. The state building code council in the department of enterprise services shall adopt rules to be known as the Washington state energy code as part of the state building code.
+
+2. The council shall follow the legislature's standards set forth in this section to adopt rules to be known as the Washington state energy code.
+
+3. The Washington state energy code shall take into account regional climatic conditions. One climate zone includes: Adams, Asotin, Benton, Chelan, Columbia, Douglas, Ferry, Franklin, Garfield, Grant, Kittitas, Klickitat, Lincoln, Okanogan, Pend Oreille, Skamania, Spokane, Stevens, Walla Walla, Whitman, and Yakima counties. The other climate zone includes all other counties not listed in this subsection (3). The assignment of a county to a climate zone may not be changed by adoption of a model code or rule. Nothing in this section prohibits the council from adopting the same rules or standards for each climate zone.
+
+4. The Washington state energy code for residential buildings shall be the 2006 edition of the Washington state energy code, or as amended by rule by the council.
+
+5. The minimum state energy code for new nonresidential buildings shall be the Washington state energy code, 2006 edition, or as amended by the council by rule.
+
+6. [Empty]
+
+    a. Except as provided in (b) of this subsection, the Washington state energy code for residential structures shall preempt the residential energy code of each city, town, and county in the state of Washington.
+
+    b. The state energy code for residential structures does not preempt a city, town, or county's energy code for residential structures which exceeds the requirements of the state energy code and which was adopted by the city, town, or county prior to March 1, 1990. Such cities, towns, or counties may not subsequently amend their energy code for residential structures to exceed the requirements adopted prior to March 1, 1990.
+
+7. The state building code council shall consult with the department of enterprise services as provided in RCW 34.05.310 prior to publication of proposed rules. The director of the department of enterprise services shall recommend to the state building code council any changes necessary to conform the proposed rules to the requirements of this section.
+
+8. The state building code council shall evaluate and consider adoption of the international energy conservation code in Washington state in place of the existing state energy code **for nonresidential buildings**.
+
+9. The definitions in RCW 19.27A.140 apply throughout this section.
+
+
+## Section 3
+> This section modifies existing section [19.27A.045](/rcw/19_business_regulations—miscellaneous/19.027A_energy-related_building_standards.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027A_energy-related_building_standards.md) for context.
+
+1. The state building code council shall maintain the state energy code for residential structures in a status which is consistent with the state's interest as set forth in section 1, chapter 2, Laws of 1990. In maintaining the Washington state energy code for residential structures, beginning in 1996 the council shall review the Washington state energy code every three years. After January 1, 1996, by rule adopted pursuant to chapter 34.05 RCW, the council may amend any provisions of the Washington state energy code to **decrease the construction costs** of newly constructed residential buildings. Decisions to amend the Washington state energy code for residential structures shall be made prior to December 1 of any year and shall not take effect before the end of the regular legislative session in the next year.
+
+2. **The state building code council shall delay implementation of the Washington state energy code for residential structures, 2021 edition. The state building code council must review and amend the Washington state energy code for residential structures, 2021 edition, by January 1, 2024, for implementation by July 1, 2024. The review and amendments to the Washington state energy code for residential structures, 2021 edition, must be for the purpose of reducing construction costs and providing the least burdensome alternatives for compliance. The state building code council may not increase, but may decrease, the energy efficiency requirements in the Washington state energy code for residential structures, 2021 edition.**
+
+
+## Section 4
+> This section modifies existing section [19.27A.160](/rcw/19_business_regulations—miscellaneous/19.027A_energy-related_building_standards.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027A_energy-related_building_standards.md) for context.
+
+1. Except as provided in subsection (2) of this section,  nonresidential construction permitted under the 2031 state energy code must achieve a seventy percent reduction in annual net energy consumption, using the adopted 2006 Washington state energy code as a baseline.
+
+2. The council shall adopt state energy codes **for nonresidential buildings** from 2013 through 2031 that incrementally move towards achieving the seventy percent reduction in annual net energy consumption as specified in subsection (1) of this section. The council shall report its progress by December 31, 2012, and every three years thereafter. If the council determines that economic, technological, or process factors would significantly impede adoption of or compliance with this subsection, the council may defer the implementation of the proposed energy code update and shall report its findings to the legislature by December 31st of the year prior to the year in which those codes would otherwise be enacted.
+

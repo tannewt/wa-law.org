@@ -1,5 +1,5 @@
 # HB 1630 - Weapons/certain meetings
-*Status: First reading, referred to Civil Rights & Judiciary.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1630&Year=2021)
+*Status: CRJ - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1630&Year=2021)
 
 Establishing restrictions on the possession of weapons in certain locations.
 
