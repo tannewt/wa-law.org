@@ -560,51 +560,11 @@ Heard bills:
 * [HB 2077](hb/2077/) - Human trafficking posters
 </details>
 
-### H Exec Action
-Active bills:
-* [HB 1162](hb/1162/) - High school graduation | *Executive Session Tue, Jan 25 8:00 am* **60👍** **4👎** **4❓**
-
+### H CRJDPS
 Heard bills:
 * [HB 1048](hb/1048/) - Criminal mistreatment | **12👍** **1👎** **0❓**
-* [HB 1300](hb/1300/) - Landlord damage claims | **114👍** **111👎** **3❓**
-* [HB 1571](hb/1571/) - Indigenous persons/services | **36👍** **0👎** **2❓**
-* [HB 1593](hb/1593/) - Landlord mitigation/victims | **94👍** **0👎** **0❓**
-* [HB 1612](hb/1612/) - Unemployment ins./technical | **12👍** **0👎** **0❓**
-* [HB 1613](hb/1613/) - Employer reports/private | **14👍** **0👎** **0❓**
-* [HB 1625](hb/1625/) - Space force reserve members | **13👍** **0👎** **0❓**
-* [HB 1630](hb/1630/) - Weapons/certain meetings | **422👍** **665👎** **0❓**
-* [HB 1660](hb/1660/) - Accessory dwelling units | **14👍** **5👎** **3❓**
-* [HB 1664](hb/1664/) - Schools/support funding | **124👍** **1👎** **1❓**
-* [HB 1691](hb/1691/) - Oil spills/financial resp. | **152👍** **2👎** **3❓**
 * [HB 1705](hb/1705/) - Untraceable guns | **405👍** **768👎** **0❓**
-* [HB 1710](hb/1710/) - Cannabis commission | **40👍** **7👎** **4❓**
-* [HB 1711](hb/1711/) - Accessory dwelling units | **4👍** **19👎** **3❓**
-* [HB 1724](hb/1724/) - Supportive housing resources | **43👍** **0👎** **2❓**
-* [HB 1725](hb/1725/) - Missing indigenous persons | **118👍** **0👎** **1❓**
-* [HB 1729](hb/1729/) - Blockchain work group | **30👍** **0👎** **3❓**
-* [HB 1735](hb/1735/) - Peace officers/use of force | **357👍** **2👎** **4❓**
-* [HB 1746](hb/1746/) - Students/COVID-19 pandemic | **24👍** **2👎** **0❓**
-* [HB 1748](hb/1748/) - Human trafficking/ABD prog. | **13👍** **0👎** **0❓**
-* [HB 1755](hb/1755/) - TANF time limit extensions | **34👍** **0👎** **0❓**
-* [HB 1756](hb/1756/) - Solitary confinement | **283👍** **3👎** **5❓**
-* [HB 1768](hb/1768/) - Energy conservation projects | **78👍** **0👎** **2❓**
-* [HB 1770](hb/1770/) - Energy codes | **319👍** **64👎** **1❓**
-* [HB 1771](hb/1771/) - Child care bargaining | **336👍** **0👎** **11❓**
-* [HB 1779](hb/1779/) - Surgical smoke | **26👍** **2👎** **3❓**
-* [HB 1792](hb/1792/) - Hydrogen | **51👍** **0👎** **2❓**
-* [HB 1794](hb/1794/) - Dishonored paycheck fees | **15👍** **1👎** **0❓**
-* [HB 1835](hb/1835/) - Postsecondary enrollment | **46👍** **0👎** **0❓**
-* [HB 1978](hb/1978/) - Shoreline master programs | **8👍** **0👎** **2❓**
-
-
-<details>
-    <summary>Click to view inactive bills</summary>
-
-* [HB 1721](hb/1721/) - PERS/TRS 1 benefit increase
-* [HB 1752](hb/1752/) - Deferred compensation/Roth
-* [HB 1785](hb/1785/) - WSP minimum salary
-* [HB 1808](hb/1808/) - Pupil transportation funding
-</details>
+* [HB 1961](hb/1961/) - Name change fee waivers | **8👍** **0👎** **0❓**
 
 ### H Rules C
 
@@ -1070,6 +1030,39 @@ Heard bills:
 * [HB 2063](hb/2063/) - Incorporation/population
 </details>
 
+### H Exec Action
+Active bills:
+* [HB 1162](hb/1162/) - High school graduation | *Executive Session Tue, Jan 25 8:00 am* **60👍** **4👎** **4❓**
+
+Heard bills:
+* [HB 1300](hb/1300/) - Landlord damage claims | **114👍** **111👎** **3❓**
+* [HB 1571](hb/1571/) - Indigenous persons/services | **36👍** **0👎** **2❓**
+* [HB 1593](hb/1593/) - Landlord mitigation/victims | **94👍** **0👎** **0❓**
+* [HB 1612](hb/1612/) - Unemployment ins./technical | **12👍** **0👎** **0❓**
+* [HB 1613](hb/1613/) - Employer reports/private | **14👍** **0👎** **0❓**
+* [HB 1625](hb/1625/) - Space force reserve members | **13👍** **0👎** **0❓**
+* [HB 1630](hb/1630/) - Weapons/certain meetings | **422👍** **665👎** **0❓**
+* [HB 1660](hb/1660/) - Accessory dwelling units | **14👍** **5👎** **3❓**
+* [HB 1664](hb/1664/) - Schools/support funding | **124👍** **1👎** **1❓**
+* [HB 1710](hb/1710/) - Cannabis commission | **40👍** **7👎** **4❓**
+* [HB 1724](hb/1724/) - Supportive housing resources | **43👍** **0👎** **2❓**
+* [HB 1735](hb/1735/) - Peace officers/use of force | **357👍** **2👎** **4❓**
+* [HB 1756](hb/1756/) - Solitary confinement | **283👍** **3👎** **5❓**
+* [HB 1768](hb/1768/) - Energy conservation projects | **78👍** **0👎** **2❓**
+* [HB 1771](hb/1771/) - Child care bargaining | **336👍** **0👎** **11❓**
+* [HB 1779](hb/1779/) - Surgical smoke | **26👍** **2👎** **3❓**
+* [HB 1792](hb/1792/) - Hydrogen | **51👍** **0👎** **2❓**
+* [HB 1794](hb/1794/) - Dishonored paycheck fees | **15👍** **1👎** **0❓**
+* [HB 1835](hb/1835/) - Postsecondary enrollment | **46👍** **0👎** **0❓**
+
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [HB 1785](hb/1785/) - WSP minimum salary
+* [HB 1808](hb/1808/) - Pupil transportation funding
+</details>
+
 ### S Ag/Water/Natura
 Active bills:
 * [SB 5656](sb/5656/) - Fish and wildlife commission | *Public Hearing Tue, Jan 25 1:30 pm*
@@ -1311,6 +1304,7 @@ Heard bills:
 ### H CEDDPS
 Heard bills:
 * [HB 1629](hb/1629/) - Aerial imaging technology | **12👍** **1👎** **0❓**
+* [HB 1729](hb/1729/) - Blockchain work group | **30👍** **0👎** **3❓**
 
 ### H CWDDPS
 Heard bills:
@@ -1321,6 +1315,7 @@ Heard bills:
 ### H ENVIDPS
 Heard bills:
 * [HB 1663](hb/1663/) - Landfill methane emissions | **172👍** **3👎** **17❓**
+* [HB 1691](hb/1691/) - Oil spills/financial resp. | **152👍** **2👎** **3❓**
 
 ### H SGOVDPS
 Heard bills:
@@ -1336,7 +1331,14 @@ Heard bills:
     <summary>Click to view inactive bills</summary>
 
 * [HB 1700](hb/1700/) - Derelict vessel removal
+* [HB 1721](hb/1721/) - PERS/TRS 1 benefit increase
+* [HB 1752](hb/1752/) - Deferred compensation/Roth
 </details>
+
+### H LGDP
+Heard bills:
+* [HB 1711](hb/1711/) - Accessory dwelling units | **4👍** **19👎** **3❓**
+* [HB 1978](hb/1978/) - Shoreline master programs | **8👍** **0👎** **2❓**
 
 ### H PSDP
 Heard bills:
@@ -2386,6 +2388,10 @@ Heard bills:
 * [SCR 8404](scr/8404/) - Cutoff dates
 </details>
 
+### H PSDPS
+Heard bills:
+* [HB 1725](hb/1725/) - Missing indigenous persons | **118👍** **0👎** **1❓**
+
 ### H SGOVDP
 
 <details>
@@ -2396,9 +2402,22 @@ Heard bills:
 * [HB 1849](hb/1849/) - War on terror monument
 </details>
 
+### H EDDPS
+Heard bills:
+* [HB 1746](hb/1746/) - Students/COVID-19 pandemic | **24👍** **2👎** **0❓**
+
+### H HHSVDP
+Heard bills:
+* [HB 1748](hb/1748/) - Human trafficking/ABD prog. | **13👍** **0👎** **0❓**
+* [HB 1755](hb/1755/) - TANF time limit extensions | **34👍** **0👎** **0❓**
+
 ### H ENVIDP
 Heard bills:
 * [HB 1767](hb/1767/) - Targeted electrification | **630👍** **270👎** **3❓**
+
+### H LGDPS
+Heard bills:
+* [HB 1770](hb/1770/) - Energy codes | **319👍** **64👎** **1❓**
 
 ### H CYFDPS
 
@@ -2421,10 +2440,6 @@ Heard bills:
 * [HB 1874](hb/1874/) - Prof. licensure/convictions
 * [HB 1899](hb/1899/) - DFI data confidentiality
 </details>
-
-### H CRJDPS
-Heard bills:
-* [HB 1961](hb/1961/) - Name change fee waivers | **8👍** **0👎** **0❓**
 
 ### S Higher Ed & Wo
 Active bills:

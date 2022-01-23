@@ -1,1 +1,14 @@
 # Eileen Cody
+## Bills
+* [HB 1111](bill/2021-22/hb/1111/) - Investments/B&O tax
+* [HB 1123](bill/2021-22/hb/1123/) - Nursing care QAC authority
+* [HB 1124](bill/2021-22/hb/1124/) - Nurse delegation/glucose
+* [HB 1148](bill/2021-22/hb/1148/) - Acute care hospitals
+* [HB 1160](bill/2021-22/hb/1160/) - Health provider contracts
+* [HB 1316](bill/2021-22/hb/1316/) - Hospital safety net assess.
+* [HB 1688](bill/2021-22/hb/1688/) - Out-of-network health care
+* [HB 1708](bill/2021-22/hb/1708/) - Audio-only telemed fac fees
+* [HB 1741](bill/2021-22/hb/1741/) - Health provider contracting
+* [HB 1757](bill/2021-22/hb/1757/) - ESDs/PEBB health plans
+* [HB 1885](bill/2021-22/hb/1885/) - Dental therapy
+* [HB 1889](bill/2021-22/hb/1889/) - Health network access
