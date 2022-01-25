@@ -1,5 +1,5 @@
 # HB 1899 - DFI data confidentiality
-*Status: CPB - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1899&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1899&Year=2021)
 
 Concerning confidentiality of certain data shared with the department of financial institutions.
 

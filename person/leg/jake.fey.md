@@ -7,7 +7,7 @@
 * [HB 1446](/bill/2021-22/hb/1446/) - Utility acquisition targets | 1st substitute bill substituted.
 * [HB 1488](/bill/2021-22/hb/1488/) - Plastic packaging materials | By resolution, reintroduced and retained in present status.
 * [HB 1564](/bill/2021-22/hb/1564/) - Transportation spending | By resolution, reintroduced and retained in present status.
-* [HB 1785](/bill/2021-22/hb/1785/) - WSP minimum salary | TR - Executive action taken by committee.
+* [HB 1785](/bill/2021-22/hb/1785/) - WSP minimum salary | Minority; without recommendation.
 * [HB 1786](/bill/2021-22/hb/1786/) - Transportation budget, supp. | First reading, referred to Transportation.
 * [HB 1931](/bill/2021-22/hb/1931/) - Hydropower license fees | First reading, referred to Appropriations.
 * [HB 1932](/bill/2021-22/hb/1932/) - Recyclability | First reading, referred to Environment & Energy.

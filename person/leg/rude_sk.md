@@ -9,3 +9,4 @@
 * [HB 1939](/bill/2021-22/hb/1939/) - Colonoscopy coverage | First reading, referred to Health Care & Wellness.
 * [HB 1973](/bill/2021-22/hb/1973/) - School board recordings | First reading, referred to State Government & Tribal Relations.
 * [HB 1983](/bill/2021-22/hb/1983/) - Hospitals/right to visitors | First reading, referred to Health Care & Wellness.
+* [HB 2079](/bill/2021-22/hb/2079/) - HIV antiviral drugs/medicaid | First reading, referred to Health Care & Wellness.

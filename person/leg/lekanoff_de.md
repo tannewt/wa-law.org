@@ -10,7 +10,7 @@
 * [HB 1639](/bill/2021-22/hb/1639/) - Missing person advisory | First reading, referred to Public Safety.
 * [HB 1640](/bill/2021-22/hb/1640/) - Tribal-state committee | First reading, referred to State Government & Tribal Relations.
 * [HB 1653](/bill/2021-22/hb/1653/) - Anadromous fish recovery | First reading, referred to State Government & Tribal Relations.
-* [HB 1725](/bill/2021-22/hb/1725/) - Missing indigenous persons | PS - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1725](/bill/2021-22/hb/1725/) - Missing indigenous persons | Referred to Rules 2 Review.
 * [HB 1753](/bill/2021-22/hb/1753/) - Climate funding/tribes | First reading, referred to Environment & Energy.
 * [HB 1838](/bill/2021-22/hb/1838/) - Salmon habitat | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 2060](/bill/2021-22/hb/2060/) - Medicaid LTSS/tribes | First reading, referred to Health Care & Wellness.

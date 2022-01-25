@@ -11,10 +11,10 @@
 * [HB 1515](/bill/2021-22/hb/1515/) - Security deposit waiver fees | 1st substitute bill substituted.
 * [HB 1690](/bill/2021-22/hb/1690/) - Law enf. officers/deception | First reading, referred to Public Safety.
 * [HB 1738](/bill/2021-22/hb/1738/) - Housing finance comm'n debt | First reading, referred to Housing, Human Services & Veterans.
-* [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | Minority; without recommendation.
-* [HB 1756](/bill/2021-22/hb/1756/) - Solitary confinement | PS - Executive action taken by committee.
+* [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | Referred to Appropriations.
+* [HB 1756](/bill/2021-22/hb/1756/) - Solitary confinement | Minority; without recommendation.
 * [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | First reading, referred to Housing, Human Services & Veterans.
-* [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | Minority; do not pass.
+* [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | Referred to Rules 2 Review.
 * [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | First reading, referred to Housing, Human Services & Veterans.

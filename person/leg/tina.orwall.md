@@ -10,7 +10,7 @@
 * [HB 1477](/bill/2021-22/hb/1477/) - National 988 system | 2nd substitute bill substituted.
 * [HB 1703](/bill/2021-22/hb/1703/) - 911 emergency communications | Referred to Appropriations.
 * [HB 1848](/bill/2021-22/hb/1848/) - Assisted reproduction fraud | First reading, referred to Public Safety.
-* [HB 1849](/bill/2021-22/hb/1849/) - War on terror monument | Minority; without recommendation.
+* [HB 1849](/bill/2021-22/hb/1849/) - War on terror monument | Referred to Rules 2 Review.
 * [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | First reading, referred to Public Safety.
 * [HB 1989](/bill/2021-22/hb/1989/) - Comm. sexual exploitation | First reading, referred to Children, Youth & Families.
 * [HB 2052](/bill/2021-22/hb/2052/) - Comm. service org. contracts | First reading, referred to Local Government.

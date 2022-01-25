@@ -1,3 +1,3 @@
-# Senate Concurrent Resolution 8404
+# Senate Concurrent Resolution 8404 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Concurrent%20Resolutions/8404.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/8404.PL.xml)

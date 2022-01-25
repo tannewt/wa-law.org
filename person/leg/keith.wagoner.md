@@ -5,7 +5,7 @@
 * [SB 5095](/bill/2021-22/sb/5095/) - Pistol license records | By resolution, reintroduced and retained in present status.
 * [SB 5099](/bill/2021-22/sb/5099/) - Death penalty | By resolution, reintroduced and retained in present status.
 * [SB 5157](/bill/2021-22/sb/5157/) - Behavioral disorders/justice | 1st substitute bill substituted.
-* [ESB 5264](/bill/2021-22/esb/5264/) - Americans of Chinese descent | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [ESB 5264](/bill/2021-22/esb/5264/) - Americans of Chinese descent | First reading, referred to State Government & Tribal Relations.
 * [SB 5271](/bill/2021-22/sb/5271/) - Health care injury/COVID-19 | 1st substitute bill substituted.
 * [SB 5392](/bill/2021-22/sb/5392/) - Artificial water bodies | By resolution, reintroduced and retained in present status.
 * [SB 5434](/bill/2021-22/sb/5434/) - Elections/voter confidence | By resolution, reintroduced and retained in present status.

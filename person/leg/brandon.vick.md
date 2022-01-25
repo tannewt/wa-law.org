@@ -10,4 +10,6 @@
 * [HB 1404](/bill/2021-22/hb/1404/) - Highly capable student prgs. | By resolution, reintroduced and retained in present status.
 * [HB 1432](/bill/2021-22/hb/1432/) - Distilled spirit sales | By resolution, reintroduced and retained in present status.
 * [HB 1648](/bill/2021-22/hb/1648/) - Accountancy/inactive license | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
-* [HB 1874](/bill/2021-22/hb/1874/) - Prof. licensure/convictions | CPB - Majority; do pass.
+* [HB 1874](/bill/2021-22/hb/1874/) - Prof. licensure/convictions | Referred to Rules 2 Review.
+* [HB 2080](/bill/2021-22/hb/2080/) - Liquor license endorsement | First reading, referred to Commerce & Gaming.
+* [HB 2084](/bill/2021-22/hb/2084/) - Third WA-OR bridge study | First reading, referred to Transportation.

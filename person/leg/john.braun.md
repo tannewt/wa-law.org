@@ -20,3 +20,4 @@
 * [SB 5857](/bill/2021-22/sb/5857/) - Toxics control accts/water | First reading, referred to Environment, Energy & Technology.
 * [SB 5921](/bill/2021-22/sb/5921/) - County timber tax distrib. | First reading, referred to Ways & Means.
 * [SB 5922](/bill/2021-22/sb/5922/) - K-12 education funding | First reading, referred to Early Learning & K-12 Education.
+* [SB 5938](/bill/2021-22/sb/5938/) - Residential centers closure | First reading, referred to Health & Long Term Care.

@@ -6,11 +6,11 @@
 * [HB 1202](/bill/2021-22/hb/1202/) - Police misconduct/civil rem. | Referred to Civil Rights & Judiciary.
 * [HB 1264](/bill/2021-22/hb/1264/) - Equity impact statement | By resolution, reintroduced and retained in present status.
 * [HB 1297](/bill/2021-22/hb/1297/) - Working families tax exempt. | 1st substitute bill substituted.
-* [HB 1300](/bill/2021-22/hb/1300/) - Landlord damage claims | HHSV - Executive action taken by committee.
+* [HB 1300](/bill/2021-22/hb/1300/) - Landlord damage claims | Minority; do not pass.
 * [HB 1445](/bill/2021-22/hb/1445/) - Definition of compounding | 1st substitute bill substituted.
 * [HB 1576](/bill/2021-22/hb/1576/) - Homeless individuals | By resolution, reintroduced and retained in present status.
 * [HB 1651](/bill/2021-22/hb/1651/) - Postpartum contraception | Referred to Rules 2 Review.
-* [HB 1670](/bill/2021-22/hb/1670/) - JARRC chair & vice chair | SGOV - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1670](/bill/2021-22/hb/1670/) - JARRC chair & vice chair | Referred to Rules 2 Review.
 * [HB 1713](/bill/2021-22/hb/1713/) - Rx drug cost sharing | First reading, referred to Health Care & Wellness.
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
 * [HB 1784](/bill/2021-22/hb/1784/) - License plate visibility | First reading, referred to Transportation.

@@ -9,7 +9,7 @@
 * [HB 1512](/bill/2021-22/hb/1512/) - Lodging-related assessments | 1st substitute bill substituted.
 * [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Referred to Capital Budget.
 * [HB 1707](/bill/2021-22/hb/1707/) - Flotation device use | Referred to Rules 2 Review.
-* [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | SGOV - Majority; do pass.
+* [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | Referred to Rules 2 Review.
 * [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | First reading, referred to Public Safety.
 * [HB 1879](/bill/2021-22/hb/1879/) - Convention economy grants | First reading, referred to Appropriations.
 * [HB 1880](/bill/2021-22/hb/1880/) - Housing benefit districts | First reading, referred to Housing, Human Services & Veterans.

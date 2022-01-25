@@ -2,7 +2,7 @@
 ## Bills
 * [HB 1025](/bill/2021-22/hb/1025/) - Local parks funding options | By resolution, reintroduced and retained in present status.
 * [HB 1047](/bill/2021-22/hb/1047/) - Hearing instruments/children | By resolution, reintroduced and retained in present status.
-* [HB 1048](/bill/2021-22/hb/1048/) - Criminal mistreatment | CRJ - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1048](/bill/2021-22/hb/1048/) - Criminal mistreatment | Referred to Rules 2 Review.
 * [HB 1243](/bill/2021-22/hb/1243/) - Local infra. project areas | By resolution, reintroduced and retained in present status.
 * [HB 1260](/bill/2021-22/hb/1260/) - Marijuana market | By resolution, reintroduced and retained in present status.
 * [HB 1329](/bill/2021-22/hb/1329/) - Public meetings | 1st substitute bill substituted.
@@ -16,3 +16,4 @@
 * [HB 2022](/bill/2021-22/hb/2022/) - Cannabis social equity | First reading, referred to Commerce & Gaming.
 * [HB 2026](/bill/2021-22/hb/2026/) - Vehicle per mile charge | First reading, referred to Transportation.
 * [HB 2032](/bill/2021-22/hb/2032/) - Family vlogs/minor children | First reading, referred to Civil Rights & Judiciary.
+* [HB 2085](/bill/2021-22/hb/2085/) - Temporary emergency shelters | First reading, referred to Local Government.

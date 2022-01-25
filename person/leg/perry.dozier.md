@@ -8,7 +8,7 @@
 * [SB 5437](/bill/2021-22/sb/5437/) - Dept. of Corrections systems | By resolution, reintroduced and retained in present status.
 * [SB 5514](/bill/2021-22/sb/5514/) - County legislative meetings | Placed on second reading by Rules Committee.
 * [SB 5515](/bill/2021-22/sb/5515/) - Hospitality employment/B&O | First reading, referred to Business, Financial Services & Trade.
-* [SB 5519](/bill/2021-22/sb/5519/) - Accountancy/inactive license | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5519](/bill/2021-22/sb/5519/) - Accountancy/inactive license | First reading, referred to Consumer Protection & Business.
 * [SB 5827](/bill/2021-22/sb/5827/) - Dept. of Corrections systems | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5858](/bill/2021-22/sb/5858/) - Education/parent rights | First reading, referred to Early Learning & K-12 Education.
 * [SB 5879](/bill/2021-22/sb/5879/) - Insurance use of credit info | First reading, referred to Business, Financial Services & Trade.

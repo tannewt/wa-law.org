@@ -5,3 +5,4 @@ Establishing cutoff dates for the consideration of legislation during the 2022 r
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

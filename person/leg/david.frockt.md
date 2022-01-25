@@ -21,3 +21,4 @@
 * [SB 5894](/bill/2021-22/sb/5894/) - Behav. health/primary care | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5895](/bill/2021-22/sb/5895/) - Remedial action grants | First reading, referred to Environment, Energy & Technology.
 * [SB 5918](/bill/2021-22/sb/5918/) - Board of regents/faculty | First reading, referred to Higher Education & Workforce Development.
+* [SB 5933](/bill/2021-22/sb/5933/) - School seismic safety grants | First reading, referred to Ways & Means.

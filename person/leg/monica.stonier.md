@@ -7,7 +7,7 @@
 * [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | 2nd substitute bill substituted.
 * [HB 1518](/bill/2021-22/hb/1518/) - Paper products/environment | Referred to Rules 2 Review.
 * [HB 1730](/bill/2021-22/hb/1730/) - Fertility services | First reading, referred to Health Care & Wellness.
-* [HB 1808](/bill/2021-22/hb/1808/) - Pupil transportation funding | APP - Executive action taken by committee.
+* [HB 1808](/bill/2021-22/hb/1808/) - Pupil transportation funding | Minority; without recommendation.
 * [HB 1861](/bill/2021-22/hb/1861/) - Future fund trust fund | First reading, referred to Housing, Human Services & Veterans.
 * [HB 1938](/bill/2021-22/hb/1938/) - Student financial education | First reading, referred to Education.
 * [HB 2046](/bill/2021-22/hb/2046/) - Legislative activity ethics | First reading, referred to State Government & Tribal Relations.

@@ -7,5 +7,5 @@
 * [HB 1203](/bill/2021-22/hb/1203/) - Community oversight boards | By resolution, reintroduced and retained in present status.
 * [HB 1310](/bill/2021-22/hb/1310/) - Uses of force by officers | 2nd substitute bill substituted.
 * [HB 1565](/bill/2021-22/hb/1565/) - PERS/TRS 1 benefit increase | By resolution, reintroduced and retained in present status.
-* [HB 1735](/bill/2021-22/hb/1735/) - Peace officers/use of force | PS - Executive action taken by committee.
+* [HB 1735](/bill/2021-22/hb/1735/) - Peace officers/use of force | PS - Majority; 1st substitute bill be substituted, do pass.
 * [HB 1829](/bill/2021-22/hb/1829/) - African American studies | First reading, referred to Education.

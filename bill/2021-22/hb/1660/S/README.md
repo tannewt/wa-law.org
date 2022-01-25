@@ -1,0 +1,212 @@
+# Substitute House Bill 1660 as Recommended by Local Government
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1660-S.xml)
+## Section 1
+> This section modifies existing section [36.70A.070](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+The comprehensive plan of a county or city that is required or chooses to plan under RCW 36.70A.040 shall consist of a map or maps, and descriptive text covering objectives, principles, and standards used to develop the comprehensive plan. The plan shall be an internally consistent document and all elements shall be consistent with the future land use map. A comprehensive plan shall be adopted and amended with public participation as provided in RCW 36.70A.140. Each comprehensive plan shall include a plan, scheme, or design for each of the following:
+
+1. A land use element designating the proposed general distribution and general location and extent of the uses of land, where appropriate, for agriculture, timber production, housing, commerce, industry, recreation, open spaces, general aviation airports, public utilities, public facilities, and other land uses. The land use element shall include population densities, building intensities, and estimates of future population growth. The land use element shall provide for protection of the quality and quantity of groundwater used for public water supplies. Wherever possible, the land use element should consider utilizing urban planning approaches that promote physical activity. Where applicable, the land use element shall review drainage, flooding, and stormwater runoff in the area and nearby jurisdictions and provide guidance for corrective actions to mitigate or cleanse those discharges that pollute waters of the state, including Puget Sound or waters entering Puget Sound.
+
+2. A housing element ensuring the vitality and character of established residential neighborhoods that:
+
+    a. Includes an inventory and analysis of existing and projected housing needs that identifies the number of housing units necessary to manage projected growth, as provided by the department of commerce, including:
+
+        i. Units for moderate, low, very low, and extremely low-income households; and
+
+        ii. Emergency housing, emergency shelters, and permanent supportive housing;
+
+    b. Includes a statement of goals, policies, objectives, and mandatory provisions for the preservation, improvement, and development of housing, including single-family residences, and within an urban growth area boundary, moderate density housing options including**,** but not limited to, duplexes, triplexes, and townhomes;
+
+    c. Identifies sufficient capacity of land for housing including, but not limited to, government-assisted housing, housing for moderate, low, very low, and extremely low-income households, manufactured housing, multifamily housing, group homes, foster care facilities, emergency housing, emergency shelters, permanent supportive housing, and within an urban growth area boundary, consideration of duplexes, triplexes, and townhomes;
+
+    d. **Allow for the construction of accessory dwelling units within urban growth areas and remove barriers to such construction, including:**
+
+        i. **Removing any maximum floor area limit on the size of an accessory dwelling unit of less than:**
+
+(A) **Eight hundred fifty square feet for an accessory dwelling unit on a lot with a total square footage of less than 4,500 square feet; or**
+
+(B) **One thousand three hundred fifty square feet combined between attached and detached accessory dwelling units on a lot with a total square footage of more than 4,500 square feet, except that an attached accessory dwelling unit may be limited to half of the square footage of the principal unit and a jurisdiction may require that public health, safety, building code, and environmental permitting requirements that would be applicable to the principal unit are met prior to the construction of the accessory dwelling unit;**
+
+        ii. **Removing or reducing any impact fees imposed on the construction or development of an accessory dwelling unit that are greater than 50 percent of the impact fees that would be imposed on a similarly sized principle unit;**
+
+        iii. **Removing any restriction that would limit accessory dwelling units to fewer than one attached and one detached accessory dwelling unit on a lot with a total square footage of more than 4,500 square feet in a zoning district that allows for the construction of single-family homes;**
+
+        iv. **Removing any prohibition of the sale or other conveyance of a condominium unit independently of a principal unit that is based solely on the grounds that the condominium unit was originally built as an accessory dwelling unit; and**
+
+    v. **Removing owner occupancy requirements on any housing or dwelling unit on a lot containing an accessory dwelling unit, unless an accessory dwelling unit on the lot is offered or used for short-term rental as defined in RCW 36.70A.696;**
+
+    e. Makes adequate provisions for existing and projected needs of all economic segments of the community, including:
+
+        i. Incorporating consideration for low, very low, extremely low, and moderate-income households;
+
+        ii. Documenting programs and actions needed to achieve housing availability including gaps in local funding, barriers such as development regulations, and other limitations; **and**
+
+        iii. Consideration of housing locations in relation to employment location;
+
+    f. Identifies local policies and regulations that result in racially disparate impacts, displacement, and exclusion in housing, including:
+
+        i. Zoning that may have a discriminatory effect;
+
+        ii. Disinvestment; and
+
+        iii. Infrastructure availability;
+
+    g. Identifies and implements policies and regulations to address and begin to undo racially disparate impacts, displacement, and exclusion in housing caused by local policies, plans, and actions;
+
+    h. Identifies areas that may be at higher risk of displacement from market forces that occur with changes to zoning development regulations and capital investments; and
+
+    i. Establishes antidisplacement policies, with consideration given to the preservation of historical and cultural communities as well as investments in low, very low, extremely low, and moderate-income housing; equitable development initiatives; inclusionary zoning; community planning requirements; tenant protections; land disposition policies; and consideration of land that may be used for affordable housing.
+
+In counties and cities subject to the review and evaluation requirements of RCW 36.70A.215, any revision to the housing element shall include consideration of prior review and evaluation reports and any reasonable measures identified. The housing element should link jurisdictional goals with overall county goals to ensure that the housing element goals are met.
+
+3. A capital facilities plan element consisting of: (a) An inventory of existing capital facilities owned by public entities, showing the locations and capacities of the capital facilities; (b) a forecast of the future needs for such capital facilities; (c) the proposed locations and capacities of expanded or new capital facilities; (d) at least a six-year plan that will finance such capital facilities within projected funding capacities and clearly identifies sources of public money for such purposes; and (e) a requirement to reassess the land use element if probable funding falls short of meeting existing needs and to ensure that the land use element, capital facilities plan element, and financing plan within the capital facilities plan element are coordinated and consistent. Park and recreation facilities shall be included in the capital facilities plan element.
+
+4. A utilities element consisting of the general location, proposed location, and capacity of all existing and proposed utilities, including, but not limited to, electrical lines, telecommunication lines, and natural gas lines.
+
+5. Rural element. Counties shall include a rural element including lands that are not designated for urban growth, agriculture, forest, or mineral resources. The following provisions shall apply to the rural element:
+
+    a. Growth management act goals and local circumstances. Because circumstances vary from county to county, in establishing patterns of rural densities and uses, a county may consider local circumstances, but shall develop a written record explaining how the rural element harmonizes the planning goals in RCW 36.70A.020 and meets the requirements of this chapter.
+
+    b. Rural development. The rural element shall permit rural development, forestry, and agriculture in rural areas. The rural element shall provide for a variety of rural densities, uses, essential public facilities, and rural governmental services needed to serve the permitted densities and uses. To achieve a variety of rural densities and uses, counties may provide for clustering, density transfer, design guidelines, conservation easements, and other innovative techniques that will accommodate appropriate rural economic advancement, densities, and uses that are not characterized by urban growth and that are consistent with rural character.
+
+    c. Measures governing rural development. The rural element shall include measures that apply to rural development and protect the rural character of the area, as established by the county, by:
+
+        i. Containing or otherwise controlling rural development;
+
+        ii. Assuring visual compatibility of rural development with the surrounding rural area;
+
+        iii. Reducing the inappropriate conversion of undeveloped land into sprawling, low-density development in the rural area;
+
+        iv. Protecting critical areas, as provided in RCW 36.70A.060, and surface water and groundwater resources; and
+
+    v. Protecting against conflicts with the use of agricultural, forest, and mineral resource lands designated under RCW 36.70A.170.
+
+    d. Limited areas of more intensive rural development. Subject to the requirements of this subsection and except as otherwise specifically provided in this subsection (5)(d), the rural element may allow for limited areas of more intensive rural development, including necessary public facilities and public services to serve the limited area as follows:
+
+        i. Rural development consisting of the infill, development, or redevelopment of existing commercial, industrial, residential, or mixed-use areas, whether characterized as shoreline development, villages, hamlets, rural activity centers, or crossroads developments.
+
+(A) A commercial, industrial, residential, shoreline, or mixed-use area are subject to the requirements of (d)(iv) of this subsection, but are not subject to the requirements of (c)(ii) and (iii) of this subsection.
+
+(B) Any development or redevelopment other than an industrial area or an industrial use within a mixed-use area or an industrial area under this subsection (5)(d)(i) must be principally designed to serve the existing and projected rural population.
+
+(C) Any development or redevelopment in terms of building size, scale, use, or intensity shall be consistent with the character of the existing areas. Development and redevelopment may include changes in use from vacant land or a previously existing use so long as the new use conforms to the requirements of this subsection (5);
+
+        ii. The intensification of development on lots containing, or new development of, small-scale recreational or tourist uses, including commercial facilities to serve those recreational or tourist uses, that rely on a rural location and setting, but that do not include new residential development. A small-scale recreation or tourist use is not required to be principally designed to serve the existing and projected rural population. Public services and public facilities shall be limited to those necessary to serve the recreation or tourist use and shall be provided in a manner that does not permit low-density sprawl;
+
+        iii. The intensification of development on lots containing isolated nonresidential uses or new development of isolated cottage industries and isolated small-scale businesses that are not principally designed to serve the existing and projected rural population and nonresidential uses, but do provide job opportunities for rural residents. Rural counties may allow the expansion of small-scale businesses as long as those small-scale businesses conform with the rural character of the area as defined by the local government according to RCW 36.70A.030(23). Rural counties may also allow new small-scale businesses to utilize a site previously occupied by an existing business as long as the new small-scale business conforms to the rural character of the area as defined by the local government according to RCW 36.70A.030(23). Public services and public facilities shall be limited to those necessary to serve the isolated nonresidential use and shall be provided in a manner that does not permit low-density sprawl;
+
+        iv. A county shall adopt measures to minimize and contain the existing areas or uses of more intensive rural development, as appropriate, authorized under this subsection. Lands included in such existing areas or uses shall not extend beyond the logical outer boundary of the existing area or use, thereby allowing a new pattern of low-density sprawl. Existing areas are those that are clearly identifiable and contained and where there is a logical boundary delineated predominately by the built environment, but that may also include undeveloped lands if limited as provided in this subsection. The county shall establish the logical outer boundary of an area of more intensive rural development. In establishing the logical outer boundary, the county shall address (A) the need to preserve the character of existing natural neighborhoods and communities, (B) physical boundaries, such as bodies of water, streets and highways, and land forms and contours, (C) the prevention of abnormally irregular boundaries, and (D) the ability to provide public facilities and public services in a manner that does not permit low-density sprawl;
+
+    v. For purposes of (d) of this subsection, an existing area or existing use is one that was in existence:
+
+(A) On July 1, 1990, in a county that was initially required to plan under all of the provisions of this chapter;
+
+(B) On the date the county adopted a resolution under RCW 36.70A.040(2), in a county that is planning under all of the provisions of this chapter under RCW 36.70A.040(2); or
+
+(C) On the date the office of financial management certifies the county's population as provided in RCW 36.70A.040(5), in a county that is planning under all of the provisions of this chapter pursuant to RCW 36.70A.040(5).
+
+    e. Exception. This subsection shall not be interpreted to permit in the rural area a major industrial development or a master planned resort unless otherwise specifically permitted under RCW 36.70A.360 and 36.70A.365.
+
+6. A transportation element that implements, and is consistent with, the land use element.
+
+    a. The transportation element shall include the following subelements:
+
+        i. Land use assumptions used in estimating travel;
+
+        ii. Estimated traffic impacts to state-owned transportation facilities resulting from land use assumptions to assist the department of transportation in monitoring the performance of state facilities, to plan improvements for the facilities, and to assess the impact of land-use decisions on state-owned transportation facilities;
+
+        iii. Facilities and services needs, including:
+
+(A) An inventory of air, water, and ground transportation facilities and services, including transit alignments and general aviation airport facilities, to define existing capital facilities and travel levels as a basis for future planning. This inventory must include state-owned transportation facilities within the city or county's jurisdictional boundaries;
+
+(B) Level of service standards for all locally owned arterials and transit routes to serve as a gauge to judge performance of the system. These standards should be regionally coordinated;
+
+(C) For state-owned transportation facilities, level of service standards for highways, as prescribed in chapters 47.06 and 47.80 RCW, to gauge the performance of the system. The purposes of reflecting level of service standards for state highways in the local comprehensive plan are to monitor the performance of the system, to evaluate improvement strategies, and to facilitate coordination between the county's or city's six-year street, road, or transit program and the office of financial management's ten-year investment program. The concurrency requirements of (b) of this subsection do not apply to transportation facilities and services of statewide significance except for counties consisting of islands whose only connection to the mainland are state highways or ferry routes. In these island counties, state highways and ferry route capacity must be a factor in meeting the concurrency requirements in (b) of this subsection;
+
+(D) Specific actions and requirements for bringing into compliance locally owned transportation facilities or services that are below an established level of service standard;
+
+(E) Forecasts of traffic for at least **10** years based on the adopted land use plan to provide information on the location, timing, and capacity needs of future growth;
+
+(F) Identification of state and local system needs to meet current and future demands. Identified needs on state-owned transportation facilities must be consistent with the statewide multimodal transportation plan required under chapter 47.06 RCW;
+
+        iv. Finance, including:
+
+(A) An analysis of funding capability to judge needs against probable funding resources;
+
+(B) A multiyear financing plan based on the needs identified in the comprehensive plan, the appropriate parts of which shall serve as the basis for the six-year street, road, or transit program required by RCW 35.77.010 for cities, RCW 36.81.121 for counties, and RCW 35.58.2795 for public transportation systems. The multiyear financing plan should be coordinated with the **10-year** investment program developed by the office of financial management as required by RCW 47.05.030;
+
+(C) If probable funding falls short of meeting identified needs, a discussion of how additional funding will be raised, or how land use assumptions will be reassessed to ensure that level of service standards will be met;
+
+    v. Intergovernmental coordination efforts, including an assessment of the impacts of the transportation plan and land use assumptions on the transportation systems of adjacent jurisdictions;
+
+    vi. Demand-management strategies;
+
+    vii. Pedestrian and bicycle component to include collaborative efforts to identify and designate planned improvements for pedestrian and bicycle facilities and corridors that address and encourage enhanced community access and promote healthy lifestyles.
+
+    b. After adoption of the comprehensive plan by jurisdictions required to plan or who choose to plan under RCW 36.70A.040, local jurisdictions must adopt and enforce ordinances which prohibit development approval if the development causes the level of service on a locally owned transportation facility to decline below the standards adopted in the transportation element of the comprehensive plan, unless transportation improvements or strategies to accommodate the impacts of development are made concurrent with the development. These strategies may include increased public transportation service,  programs, demand management, and other transportation systems management strategies. For the purposes of this subsection (6), "concurrent with the development" means that improvements or strategies are in place at the time of development, or that a financial commitment is in place to complete the improvements or strategies within six years. If the collection of impact fees is delayed under RCW 82.02.050(3), the six-year period required by this subsection (6)(b) must begin after full payment of all impact fees is due to the county or city.
+
+    c. The transportation element described in this subsection (6), the six-year plans required by RCW 35.77.010 for cities, RCW 36.81.121 for counties, and RCW 35.58.2795 for public transportation systems, and the ten-year investment program required by RCW 47.05.030 for the state, must be consistent.
+
+7. An economic development element establishing local goals, policies, objectives, and provisions for economic growth and vitality and a high quality of life. A city that has chosen to be a residential community is exempt from the economic development element requirement of this subsection.
+
+8. A park and recreation element that implements, and is consistent with, the capital facilities plan element as it relates to park and recreation facilities. The element shall include: (a) Estimates of park and recreation demand for at least a **10-year** period; (b) an evaluation of facilities and service needs; and (c) an evaluation of intergovernmental coordination opportunities to provide regional approaches for meeting park and recreational demand.
+
+9. It is the intent that new or amended elements required after January 1, 2002, be adopted concurrent with the scheduled update provided in RCW 36.70A.130. Requirements to incorporate any such new or amended elements shall be null and void until funds sufficient to cover applicable local government costs are appropriated and distributed by the state at least two years before local government must update comprehensive plans as required in RCW 36.70A.130.
+
+
+## Section 2
+> This section modifies existing section [36.70A.697](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Cities must adopt or amend by ordinance, and incorporate into their development regulations, zoning regulations, and other official controls the requirements of RCW 36.70A.698 to take effect by July 1, **2023**.
+
+2. Beginning July 1, **2023**, the requirements of RCW 36.70A.698:
+
+    a. Apply and take effect in any city that has not adopted or amended ordinances, regulations, or other official controls as required under this section; and
+
+    b. Supersede, preempt, and invalidate any local development regulations that conflict with RCW 36.70A.698.
+
+
+## Section 3
+> This section modifies existing section [36.70A.698](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+**Cities** may not require the provision of off-street parking for accessory dwelling units within one-quarter mile of a major transit stop.
+
+
+## Section 4
+The legislature finds that accessory dwelling units are housing options that are affordable and practical for diverse communities and groups within Washington. The legislature also finds that these equitable and sustainable housing options are prohibited from being utilized in many communities in Washington because of restrictive covenants and agreements. These covenants and agreements have historically been used to exclude people from communities based on their race, ethnicity, or religion. Even when this was not the intent, these restrictive covenants and agreements have often resulted in discriminatory outcomes. The legislature finds that this has been the case with prohibitions on the construction or use of accessory dwelling units. In order to promote more equitable, inclusive housing options, the legislature finds that it is necessary to prevent the application of certain restrictive covenants and agreements that would prevent the construction or use of accessory dwelling units within an urban growth area. Therefore, it is the intent of the legislature that the policies in RCW 36.70A.070 allowing for accessory dwelling units to be constructed and utilized inside of urban growth areas apply throughout the state, notwithstanding restrictive covenants and agreements to the contrary.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [64.38](/rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.38_homeowners_associations.md) for context.
+
+1. The governing documents of an association located within an urban growth area may not actively or effectively prohibit the construction, development, or use on a lot of an accessory dwelling unit.
+
+2. For the purposes of this section, "urban growth area" has the same meaning as in RCW 36.70A.030.
+
+3. This section applies retroactively to all governing documents in effect on July 1, 2022. A provision in a governing document in effect on July 1, 2022, or thereafter that is inconsistent with this section is void and unenforceable.
+
+4. The governing documents may include reasonable rules and regulations regarding accessory dwelling units, provided that such rules and regulations do not effectively prevent the construction or use of accessory dwelling units, nor render such construction and use economically impracticable.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [64.90](/rcw/64_real_property_and_conveyances/64.90_washington_uniform_common_interest_ownership_act.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.90_washington_uniform_common_interest_ownership_act.md) for context.
+
+1. Neither the declaration nor the governing document of a common interest community located inside an urban growth area may actively or effectively prohibit the construction, development, or use on a lot of an accessory dwelling unit.
+
+2. For the purposes of this section, "urban growth area" has the same meaning as in RCW 36.70A.030.
+
+3. This section applies retroactively to all declarations and governing documents in effect on July 1, 2022. A provision in a declaration or governing document in effect on July 1, 2022, or thereafter that is inconsistent with this section is void and unenforceable.
+
+4. The declaration or governing document may include reasonable rules and regulations regarding accessory dwelling units, provided that such rules and regulations do not effectively prevent the construction or use of accessory dwelling units, nor render such construction and use economically impracticable.
+
+
+## Section 7
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. No restrictive covenant or deed restriction applicable to a property located within an urban growth area may prohibit the construction, development, or use on a lot of an accessory dwelling unit.
+
+2. For the purposes of this section, "urban growth area" has the same meaning as in RCW 36.70A.030.
+
+3. This section applies retroactively to all restrictive covenants or deed restrictions in effect on July 1, 2022. Any provision in a restrictive covenant or deed restriction in effect on or after July 1, 2022, that is inconsistent with subsection (1) of this section is unenforceable to the extent of the conflict.
+

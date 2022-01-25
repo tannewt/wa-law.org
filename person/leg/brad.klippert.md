@@ -40,3 +40,4 @@
 * [HB 1986](/bill/2021-22/hb/1986/) - School district boards | First reading, referred to Education.
 * [HB 2021](/bill/2021-22/hb/2021/) - Multiple substances DUI | First reading, referred to Public Safety.
 * [HB 2036](/bill/2021-22/hb/2036/) - Law enf. agency equipment | First reading, referred to Public Safety.
+* [HB 2082](/bill/2021-22/hb/2082/) - Child care deserts report | First reading, referred to Children, Youth & Families.

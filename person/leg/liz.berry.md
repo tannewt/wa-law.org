@@ -10,9 +10,9 @@
 * [HB 1206](/bill/2021-22/hb/1206/) - Temporary workers | 1st substitute bill substituted.
 * [HB 1486](/bill/2021-22/hb/1486/) - Unemployment/voluntary | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | First reading, referred to Environment & Energy.
-* [HB 1705](/bill/2021-22/hb/1705/) - Untraceable guns | Minority; do not pass.
-* [HJM 4002](/bill/2021-22/hjm/4002/) - Jones Act | Minority; without recommendation.
-* [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | LAWS - Executive action taken by committee.
+* [HB 1705](/bill/2021-22/hb/1705/) - Untraceable guns | Referred to Rules 2 Review.
+* [HJM 4002](/bill/2021-22/hjm/4002/) - Jones Act | Referred to Rules 2 Review.
+* [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | Minority; without recommendation.
 * [HB 1795](/bill/2021-22/hb/1795/) - Nondisclosure/illegal acts | First reading, referred to Labor & Workplace Standards.
 * [HB 2009](/bill/2021-22/hb/2009/) - Basic income trust | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2076](/bill/2021-22/hb/2076/) - Transp. network companies | First reading, referred to Labor & Workplace Standards.

@@ -5,8 +5,8 @@
 * [HB 1306](/bill/2021-22/hb/1306/) - School boards/bond training | Referred to Education.
 * [HB 1492](/bill/2021-22/hb/1492/) - Unempl. extended benefits | 1st substitute bill substituted.
 * [HB 1493](/bill/2021-22/hb/1493/) - Job search monitoring | 1st substitute bill substituted.
-* [HB 1612](/bill/2021-22/hb/1612/) - Unemployment ins./technical | LAWS - Executive action taken by committee.
-* [HB 1613](/bill/2021-22/hb/1613/) - Employer reports/private | LAWS - Executive action taken by committee.
+* [HB 1612](/bill/2021-22/hb/1612/) - Unemployment ins./technical | LAWS - Majority; do pass.
+* [HB 1613](/bill/2021-22/hb/1613/) - Employer reports/private | Minority; without recommendation.
 * [HB 1706](/bill/2021-22/hb/1706/) - Truck drivers/restrooms | First reading, referred to Transportation.
 * [HB 1764](/bill/2021-22/hb/1764/) - Physician bargaining | First reading, referred to Labor & Workplace Standards.
 * [HB 1776](/bill/2021-22/hb/1776/) - High-hazard facility wages | First reading, referred to Labor & Workplace Standards.

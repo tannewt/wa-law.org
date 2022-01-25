@@ -1,6 +1,6 @@
 # Sam Hunt
 ## Bills
-* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | First reading, referred to State Government & Tribal Relations.
 * [SB 5013](/bill/2021-22/sb/5013/) - Local redistricting deadline | 1st substitute bill substituted.
 * [SB 5014](/bill/2021-22/sb/5014/) - Odd-numbered year ballots | By resolution, reintroduced and retained in present status.
 * [SB 5015](/bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes | Effective date 7/25/2021.
@@ -18,7 +18,7 @@
 * [SB 5540](/bill/2021-22/sb/5540/) - Election dates and timelines | First reading, referred to State Government & Elections.
 * [SB 5570](/bill/2021-22/sb/5570/) - Capitol grounds/major works | First reading, referred to State Government & Elections.
 * [SB 5579](/bill/2021-22/sb/5579/) - WMS bargaining | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | SGE - Majority; do pass.
+* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Passed to Rules Committee for second reading.
 * [SB 5636](/bill/2021-22/sb/5636/) - Automatic voter registration | First reading, referred to State Government & Elections.
 * [SB 5698](/bill/2021-22/sb/5698/) - Plan 1 retiree COLAs | First reading, referred to Ways & Means.
 * [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | First reading, referred to State Government & Elections.
