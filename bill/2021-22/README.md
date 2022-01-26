@@ -2,38 +2,24 @@
 ## In Committee
 ### H Approps
 Active bills:
-* [HB 1100](hb/1100/) - Mobile home community sales | *Public Hearing Tue, Jan 25 3:30 pm*
-* [HB 1241](hb/1241/) - Growth management act plans | *Public Hearing Thu, Jan 27 3:30 pm* **14👍** **19👎** **4❓**
-* [HB 1931](hb/1931/) - Hydropower license fees | *Public Hearing Tue, Jan 25 3:30 pm*
+* [HB 1153](hb/1153/) - Language access in schools | *Executive Session Thu, Jan 27 3:30 pm*
+* [HB 1241](hb/1241/) - Growth management act plans | *Public Hearing Thu, Jan 27 3:30 pm*
+* [HB 1620](hb/1620/) - Extreme weather events | *Executive Session Thu, Jan 27 3:30 pm*
+* [HB 1644](hb/1644/) - Pupil transp./electric | *Executive Session Thu, Jan 27 3:30 pm*
+* [HB 1701](hb/1701/) - LEOFF benefits | *Executive Session Thu, Jan 27 3:30 pm*
+* [HB 1703](hb/1703/) - 911 emergency communications | *Executive Session Thu, Jan 27 3:30 pm*
+* [HB 1717](hb/1717/) - GMA planning/tribes | *Public Hearing Thu, Jan 27 3:30 pm*
+* [HB 1723](hb/1723/) - Telecommunications access | *Public Hearing Thu, Jan 27 3:30 pm*
+* [HB 1728](hb/1728/) - Insulin work group reauth. | *Public Hearing Thu, Jan 27 3:30 pm*
+* [HB 1810](hb/1810/) - Electronic products repair | *Public Hearing Thu, Jan 27 3:30 pm*
+* [HB 1957](hb/1957/) - Disaster recovery assistance | *Executive Session Thu, Jan 27 3:30 pm*
 
 Heard bills:
-* [HB 1153](hb/1153/) - Language access in schools | **301👍** **2👎** **1❓**
-* [HB 1412](hb/1412/) - Legal financial obligations | **111👍** **20👎** **2❓**
-* [HB 1601](hb/1601/) - Student homelessness pilot | **51👍** **0👎** **0❓**
-* [HB 1620](hb/1620/) - Extreme weather events | **184👍** **1👎** **2❓**
-* [HB 1621](hb/1621/) - Sex. assault nurse training | **30👍** **0👎** **0❓**
-* [HB 1644](hb/1644/) - Pupil transp./electric | **23👍** **1👎** **2❓**
-* [HB 1659](hb/1659/) - Higher education grants | **95👍** **0👎** **0❓**
-* [HB 1663](hb/1663/) - Landfill methane emissions | **172👍** **3👎** **17❓**
-* [HB 1669](hb/1669/) - PSERS disability benefits | **12👍** **0👎** **0❓**
-* [HB 1691](hb/1691/) - Oil spills/financial resp. | **152👍** **2👎** **3❓**
-* [HB 1699](hb/1699/) - Work in retirement/schools | **26👍** **0👎** **0❓**
-* [HB 1701](hb/1701/) - LEOFF benefits | **26👍** **0👎** **1❓**
-* [HB 1703](hb/1703/) - 911 emergency communications | **50👍** **0👎** **0❓**
-* [HB 1717](hb/1717/) - GMA planning/tribes | **22👍** **20👎** **2❓**
-* [HB 1723](hb/1723/) - Telecommunications access | **52👍** **1👎** **4❓**
-* [HB 1728](hb/1728/) - Insulin work group reauth. | **15👍** **0👎** **0❓**
-* [HB 1736](hb/1736/) - State student loan program | **20👍** **26👎** **0❓**
-* [HB 1746](hb/1746/) - Students/COVID-19 pandemic | **24👍** **2👎** **0❓**
-* [HB 1748](hb/1748/) - Human trafficking/ABD prog. | **13👍** **0👎** **0❓**
-* [HB 1751](hb/1751/) - Hazing prevention | **182👍** **0👎** **1❓**
-* [HB 1755](hb/1755/) - TANF time limit extensions | **34👍** **0👎** **0❓**
-* [HB 1804](hb/1804/) - Military service credit | **12👍** **0👎** **0❓**
-* [HB 1810](hb/1810/) - Electronic products repair | **405👍** **7👎** **3❓**
-* [HB 1816](hb/1816/) - Operating budget, supp. | **116👍** **0👎** **17❓**
-* [HB 1845](hb/1845/) - Body worn camera grants | **18👍** **1👎** **0❓**
-* [HB 1911](hb/1911/) - Insurance/plan 2 members | **16👍** **0👎** **0❓**
-* [HB 1957](hb/1957/) - Disaster recovery assistance | **10👍** **0👎** **0❓**
+* [HB 1100](hb/1100/) - Mobile home community sales | **248👍** **264👎** **1❓**
+* [HB 1103](hb/1103/) - Building materials | **248👍** **15👎** **1❓**
+* [HB 1412](hb/1412/) - Legal financial obligations | **131👍** **0👎** **2❓**
+* [HB 1931](hb/1931/) - Hydropower license fees | **10👍** **7👎** **0❓**
+* [HB 2051](hb/2051/) - Agricultural disaster assist | **3👍** **0👎** **0❓**
 
 
 <details>
@@ -50,7 +36,6 @@ Heard bills:
 * [HB 1077](hb/1077/) - Federal Way school district
 * [HB 1084](hb/1084/) - Building decarbonization
 * [HB 1093](hb/1093/) - Operating budget, 2nd supp.
-* [HB 1103](hb/1103/) - Building materials
 * [HB 1146](hb/1146/) - Nonappropriated transfers
 * [HB 1147](hb/1147/) - Office of resiliency
 * [HB 1163](hb/1163/) - State budgeting oversight
@@ -91,6 +76,7 @@ Heard bills:
 * [HB 1517](hb/1517/) - College grant awards
 * [HB 1565](hb/1565/) - PERS/TRS 1 benefit increase
 * [HB 1568](hb/1568/) - Unemployment insurance
+* [HB 1571](hb/1571/) - Indigenous persons/services
 * [HB 1578](hb/1578/) - State v. Blake decision
 * [HB 1590](hb/1590/) - Enrollment stabilization
 * [HB 1591](hb/1591/) - Charter schools/local enrich
@@ -99,22 +85,43 @@ Heard bills:
 * [HB 1597](hb/1597/) - Long-term care/hardship
 * [HB 1598](hb/1598/) - Long-term care/death
 * [HB 1599](hb/1599/) - Long-term care/new graduates
+* [HB 1601](hb/1601/) - Student homelessness pilot
 * [HB 1602](hb/1602/) - Tacoma Narrows project
 * [HB 1603](hb/1603/) - Transportation/general fund
 * [HB 1604](hb/1604/) - Motor vehicle sales tax
 * [HB 1607](hb/1607/) - Safe routes to schools prg.
+* [HB 1621](hb/1621/) - Sex. assault nurse training
 * [HB 1645](hb/1645/) - Assisted living payments
+* [HB 1659](hb/1659/) - Higher education grants
+* [HB 1663](hb/1663/) - Landfill methane emissions
+* [HB 1664](hb/1664/) - Schools/support funding
+* [HB 1669](hb/1669/) - PSERS disability benefits
+* [HB 1691](hb/1691/) - Oil spills/financial resp.
 * [HB 1697](hb/1697/) - Online services/minors
+* [HB 1699](hb/1699/) - Work in retirement/schools
+* [HB 1710](hb/1710/) - Cannabis commission
+* [HB 1724](hb/1724/) - Supportive housing resources
+* [HB 1736](hb/1736/) - State student loan program
 * [HB 1742](hb/1742/) - Long-term care program
+* [HB 1746](hb/1746/) - Students/COVID-19 pandemic
+* [HB 1748](hb/1748/) - Human trafficking/ABD prog.
+* [HB 1751](hb/1751/) - Hazing prevention
+* [HB 1755](hb/1755/) - TANF time limit extensions
+* [HB 1756](hb/1756/) - Solitary confinement
 * [HB 1757](hb/1757/) - ESDs/PEBB health plans
 * [HB 1762](hb/1762/) - Ed. service district funding
+* [HB 1771](hb/1771/) - Child care bargaining
 * [HB 1787](hb/1787/) - Law enf. officer funding
 * [HB 1800](hb/1800/) - Behavioral health/minors
+* [HB 1804](hb/1804/) - Military service credit
+* [HB 1816](hb/1816/) - Operating budget, supp.
 * [HB 1823](hb/1823/) - Climate funding/outdoor rec.
+* [HB 1845](hb/1845/) - Body worn camera grants
 * [HB 1862](hb/1862/) - Health care facility fees
 * [HB 1875](hb/1875/) - Budget stabilization account
 * [HB 1879](hb/1879/) - Convention economy grants
 * [HB 1890](hb/1890/) - Children behavioral health
+* [HB 1911](hb/1911/) - Insurance/plan 2 members
 * [HB 1913](hb/1913/) - Long-term care insurance
 * [HB 1928](hb/1928/) - Equine industry support
 * [HB 1943](hb/1943/) - Basic ed./caseload forecast
@@ -124,34 +131,22 @@ Heard bills:
 * [HB 2011](hb/2011/) - Skill center funding
 * [HB 2012](hb/2012/) - Long-term care/veterans'
 * [HB 2028](hb/2028/) - Narrows bridge/deferred tax
-* [HB 2051](hb/2051/) - Agricultural disaster assist
 </details>
 
 ### H Finance
 Active bills:
-* [HB 1657](hb/1657/) - Commercial truck parking | *Public Hearing Tue, Jan 25 1:30 pm*
-* [HB 1677](hb/1677/) - Military/employer tax incen. | *Public Hearing Tue, Jan 25 1:30 pm*
-* [HB 1789](hb/1789/) - Adult family homes/prop. tax | *Executive Session Tue, Jan 25 1:30 pm*
+* [HB 1025](hb/1025/) - Local parks funding options | *Executive Session Thu, Jan 27 8:00 am*
+* [HB 1830](hb/1830/) - Reusable packing materials | *Executive Session Thu, Jan 27 8:00 am*
 * [HB 1864](hb/1864/) - Leadership and security | *Public Hearing Thu, Jan 27 8:00 am*
-* [HB 1888](hb/1888/) - Working fam. credit/rates | *Executive Session Thu, Jan 27 8:00 am* **256👍** **0👎** **0❓**
-* [HB 1933](hb/1933/) - Cannabis local gov. tax | *Public Hearing Tue, Jan 25 1:30 pm*
+* [HB 1888](hb/1888/) - Working fam. credit/rates | *Executive Session Thu, Jan 27 8:00 am*
 * [HB 1965](hb/1965/) - Support and services levies | *Public Hearing Thu, Jan 27 8:00 am*
 * [HB 1967](hb/1967/) - Nonprofits/property tax | *Public Hearing Thu, Jan 27 8:00 am*
-* [HB 1982](hb/1982/) - Property tax penalties | *Executive Session Thu, Jan 27 8:00 am* **4👍** **0👎** **0❓**
+* [HB 1982](hb/1982/) - Property tax penalties | *Executive Session Thu, Jan 27 8:00 am*
 
 Heard bills:
-* [HB 1025](hb/1025/) - Local parks funding options | **35👍** **0👎** **0❓**
-* [HB 1035](hb/1035/) - Rent relief & housing | **31👍** **0👎** **0❓**
-* [HB 1175](hb/1175/) - Host homes/property tax | **15👍** **0👎** **0❓**
-* [HB 1643](hb/1643/) - Affordable housing/REET | **56👍** **1👎** **0❓**
-* [HB 1666](hb/1666/) - Public infra./tax valuation | **14👍** **1👎** **0❓**
-* [HB 1672](hb/1672/) - Conservation futures/taxes | **60👍** **2👎** **1❓**
-* [HB 1676](hb/1676/) - Tobacco & vapor products/tax | **347👍** **423👎** **3❓**
-* [HB 1683](hb/1683/) - Current use classification | **12👍** **1👎** **1❓**
-* [HB 1819](hb/1819/) - Property tax exemption | **15👍** **0👎** **2❓**
-* [HB 1841](hb/1841/) - ADU rental/property tax | **17👍** **1👎** **0❓**
-* [HB 1921](hb/1921/) - Renewable energy/valuation | **10👍** **1👎** **3❓**
-* [HB 1924](hb/1924/) - Hog fuel tax exemption | **8👍** **1👎** **0❓**
+* [HB 1657](hb/1657/) - Commercial truck parking | **8👍** **0👎** **0❓**
+* [HB 1677](hb/1677/) - Military/employer tax incen. | **10👍** **0👎** **0❓**
+* [HB 1933](hb/1933/) - Cannabis local gov. tax | **8👍** **4👎** **0❓**
 
 
 <details>
@@ -159,11 +154,13 @@ Heard bills:
 
 * [HB 1002](hb/1002/) - COVID-19 grants/B&O tax
 * [HB 1012](hb/1012/) - B&O tax credit/COVID-19
+* [HB 1035](hb/1035/) - Rent relief & housing
 * [HB 1058](hb/1058/) - Cultural access programs/tax
 * [HB 1111](hb/1111/) - Investments/B&O tax
 * [HB 1112](hb/1112/) - Use tax exemptions
 * [HB 1116](hb/1116/) - Small winery tax relief
 * [HB 1128](hb/1128/) - Housing benefit districts
+* [HB 1175](hb/1175/) - Host homes/property tax
 * [HB 1188](hb/1188/) - B&O tax payment deferral
 * [HB 1201](hb/1201/) - Found. public health funding
 * [HB 1235](hb/1235/) - School construction taxes
@@ -208,30 +205,37 @@ Heard bills:
 * [HB 1582](hb/1582/) - Tax increases/voter approval
 * [HB 1583](hb/1583/) - Taxes based on income
 * [HB 1636](hb/1636/) - Gold star families/prop. tax
+* [HB 1643](hb/1643/) - Affordable housing/REET
+* [HB 1666](hb/1666/) - Public infra./tax valuation
+* [HB 1672](hb/1672/) - Conservation futures/taxes
+* [HB 1676](hb/1676/) - Tobacco & vapor products/tax
+* [HB 1683](hb/1683/) - Current use classification
 * [HB 1702](hb/1702/) - Broadband connectivity
 * [SB 5004](sb/5004/) - Medical marijuana tax ex.
 * [HB 1734](hb/1734/) - Low-proof beverages/tax
+* [HB 1792](hb/1792/) - Hydrogen
+* [HB 1819](hb/1819/) - Property tax exemption
 * [HB 1820](hb/1820/) - Leadership and security
-* [HB 1830](hb/1830/) - Reusable packing materials
+* [HB 1841](hb/1841/) - ADU rental/property tax
 * [HB 1846](hb/1846/) - Data centers tax preference
 * [HB 1858](hb/1858/) - B&O tax rates
 * [HB 1898](hb/1898/) - State school levies, reduce
 * [HB 1906](hb/1906/) - Nonprofit property tax ex.
 * [HB 1912](hb/1912/) - Capital gains tax/repeal
+* [HB 1921](hb/1921/) - Renewable energy/valuation
+* [HB 1924](hb/1924/) - Hog fuel tax exemption
 * [HB 1988](hb/1988/) - Clean tech. tax deferrals
 * [HB 1990](hb/1990/) - SR 167 & I-405 tax deferral
 * [HB 2015](hb/2015/) - Working families' tax credit
 * [HB 2018](hb/2018/) - Sales and use tax holiday
 * [HB 2058](hb/2058/) - Parks & rec. leasehold tax
 * [HB 2061](hb/2061/) - Public improvements/housing
+* [HB 2091](hb/2091/) - Drug warehousing/B&O tax
 </details>
 
 ### H State Govt & Tr
 Active bills:
-* [HB 1973](hb/1973/) - School board recordings | *Executive Session Thu, Jan 27 10:00 am* **23👍** **0👎** **2❓**
-
-Heard bills:
-* [HB 1408](hb/1408/) - PRA/juveniles | **7👍** **26👎** **0❓**
+* [HB 1973](hb/1973/) - School board recordings | *Executive Session Thu, Jan 27 10:00 am*
 
 
 <details>
@@ -251,6 +255,7 @@ Heard bills:
 * [HB 1361](hb/1361/) - Mailing of ballots
 * [HB 1377](hb/1377/) - In-person voting
 * [HB 1381](hb/1381/) - Emergency powers
+* [HB 1408](hb/1408/) - PRA/juveniles
 * [HB 1554](hb/1554/) - Postelection audits
 * [HB 1586](hb/1586/) - Grassroots lobbyists
 * [SB 5002](sb/5002/) - State auditor
@@ -273,26 +278,19 @@ Heard bills:
 
 ### H HC/Wellness
 Active bills:
-* [HB 1688](hb/1688/) - Out-of-network health care | *Executive Session Wed, Jan 26 8:00 am* **35👍** **0👎** **12❓**
-* [HB 1689](hb/1689/) - Biomarker testing prior auth | *Executive Session Wed, Jan 26 8:00 am* **5👍** **5👎** **1❓**
-* [HB 1741](hb/1741/) - Health provider contracting | *Executive Session Wed, Jan 26 8:00 am* **6👍** **12👎** **3❓**
+* [HB 1688](hb/1688/) - Out-of-network health care | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1689](hb/1689/) - Biomarker testing prior auth | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1741](hb/1741/) - Health provider contracting | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1821](hb/1821/) - Telemedicine/relationship | *Executive Session Wed, Jan 26 8:00 am*
-* [HB 1851](hb/1851/) - Abortion care | *Executive Session Wed, Jan 26 8:00 am* **627👍** **117👎** **5❓**
+* [HB 1851](hb/1851/) - Abortion care | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1852](hb/1852/) - Prescription drug labels | *Executive Session Wed, Jan 26 8:00 am*
-* [HB 1860](hb/1860/) - Behavioral health discharge | *Executive Session Wed, Jan 26 8:00 am* **36👍** **1👎** **5❓**
+* [HB 1860](hb/1860/) - Behavioral health discharge | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1877](hb/1877/) - Health prof. expired certs | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1881](hb/1881/) - Birth doulas | *Public Hearing Thu, Jan 27 10:00 am*
 * [HB 1893](hb/1893/) - EMTs/public health | *Public Hearing Thu, Jan 27 10:00 am*
 * [HB 1939](hb/1939/) - Colonoscopy coverage | *Public Hearing Wed, Jan 26 8:00 am*
 * [HB 1959](hb/1959/) - Managed health rate review | *Public Hearing Thu, Jan 27 10:00 am*
 * [HB 2004](hb/2004/) - Interpreters/medical appts' | *Public Hearing Thu, Jan 27 10:00 am*
-
-Heard bills:
-* [HB 1813](hb/1813/) - Pharmacy choice | **53👍** **7👎** **1❓**
-* [HB 1865](hb/1865/) - Certified peer specialists | **59👍** **14👎** **4❓**
-* [HB 1866](hb/1866/) - Supportive housing | **307👍** **1👎** **4❓**
-* [HB 1889](hb/1889/) - Health network access | **67👍** **5👎** **1❓**
-* [HB 1950](hb/1950/) - Unsafe dental practices | **162👍** **5👎** **0❓**
 
 
 <details>
@@ -338,9 +336,14 @@ Heard bills:
 * [HB 1730](hb/1730/) - Fertility services
 * [HB 1749](hb/1749/) - Newborn screening
 * [HB 1777](hb/1777/) - Self-directed care
+* [HB 1813](hb/1813/) - Pharmacy choice
 * [HB 1854](hb/1854/) - Hearing instruments coverage
 * [HB 1863](hb/1863/) - Prescribing psychologists
+* [HB 1865](hb/1865/) - Certified peer specialists
+* [HB 1866](hb/1866/) - Supportive housing
 * [HB 1885](hb/1885/) - Dental therapy
+* [HB 1889](hb/1889/) - Health network access
+* [HB 1950](hb/1950/) - Unsafe dental practices
 * [HB 1963](hb/1963/) - WSDOT employees/COVID-19
 * [HB 1983](hb/1983/) - Hospitals/right to visitors
 * [HB 1995](hb/1995/) - Cardiac & stroke response
@@ -353,28 +356,25 @@ Heard bills:
 * [HB 2079](hb/2079/) - HIV antiviral drugs/medicaid
 </details>
 
-### H Passed 3rd
-Heard bills:
-* [HB 1648](hb/1648/) - Accountancy/inactive license | **2👍** **0👎** **0❓**
-
+### S Business, Finan
 
 <details>
     <summary>Click to view inactive bills</summary>
 
 * [HB 1015](hb/1015/) - Equitable access to credit
-* [HB 1041](hb/1041/) - Sunshine committee/juveniles
-* [HB 1074](hb/1074/) - Fatality reviews
-* [HB 1099](hb/1099/) - Comprehensive planning
-* [HB 1280](hb/1280/) - Greenhouse gas/facilities
-* [HB 1376](hb/1376/) - Registration of land titles
+* [HB 1648](hb/1648/) - Accountancy/inactive license
+* [SB 5400](sb/5400/) - Fed. home loan bank rights
+* [SB 5526](sb/5526/) - Battery manuf. minerals
+* [SB 5557](sb/5557/) - New businesses/B&O tax
+* [SB 5586](sb/5586/) - Broadband loans & grants
+* [SB 5623](sb/5623/) - Credit history/insurance
+* [SB 5792](sb/5792/) - Tax incentives
 </details>
 
 ### H Comm & Econ De
 Active bills:
-* [HB 1914](hb/1914/) - Motion picture program | *Public Hearing Tue, Jan 25 10:00 am*
-
-Heard bills:
-* [HB 1827](hb/1827/) - Community reinvestment | **26👍** **0👎** **1❓**
+* [HB 1827](hb/1827/) - Community reinvestment | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1914](hb/1914/) - Motion picture program | *Executive Session Fri, Jan 28 8:00 am* **381👍** **0👎** **0❓**
 
 
 <details>
@@ -392,20 +392,14 @@ Heard bills:
 
 ### H Civil R & Judi
 Active bills:
-* [HB 1545](hb/1545/) - Insurance regulation | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1773](hb/1773/) - Assisted outpatient treat. | *Executive Session Fri, Jan 28 8:00 am* **9👍** **12👎** **1❓**
-* [HB 1850](hb/1850/) - Data privacy | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1901](hb/1901/) - Civil protection orders | *Executive Session Fri, Jan 28 8:00 am* **71👍** **2👎** **4❓**
-* [HB 1991](hb/1991/) - Body worn cameras/PRA | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 2045](hb/2045/) - State hospital release loc. | *Public Hearing Wed, Jan 26 10:00 am*
+* [HB 1224](hb/1224/) - Spring blade knives | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1773](hb/1773/) - Assisted outpatient treat. | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1793](hb/1793/) - Electric vehicles/HOAs | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1850](hb/1850/) - Data privacy | *Executive Session Fri, Jan 28 8:00 am* **9👍** **12👎** **54❓**
+* [HB 1901](hb/1901/) - Civil protection orders | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1991](hb/1991/) - Body worn cameras/PRA | *Executive Session Fri, Jan 28 8:00 am* **4👍** **0👎** **3❓**
 * [HB 2047](hb/2047/) - Fair housing training | *Public Hearing Wed, Jan 26 10:00 am*
-
-Heard bills:
-* [HB 1202](hb/1202/) - Police misconduct/civil rem. | **1118👍** **13👎** **3❓**
-* [HB 1224](hb/1224/) - Spring blade knives | **46👍** **5👎** **0❓**
-* [HB 1618](hb/1618/) - Election offices/weapons | **491👍** **782👎** **3❓**
-* [HB 1754](hb/1754/) - Prejudgment interest | **6👍** **37👎** **1❓**
-* [HB 1793](hb/1793/) - Electric vehicles/HOAs | **32👍** **1👎** **2❓**
+* [HB 2083](hb/2083/) - Long-term care consent | *Public Hearing Wed, Jan 26 10:00 am*
 
 
 <details>
@@ -417,6 +411,7 @@ Heard bills:
 * [HB 1134](hb/1134/) - Forfeited firearms/WSP
 * [HB 1164](hb/1164/) - Firearm safety
 * [HB 1197](hb/1197/) - Health care decisions
+* [HB 1202](hb/1202/) - Police misconduct/civil rem.
 * [HB 1229](hb/1229/) - Assault weapons
 * [HB 1230](hb/1230/) - RCW & WAC online formatting
 * [HB 1234](hb/1234/) - Weapons/government buildings
@@ -430,20 +425,24 @@ Heard bills:
 * [HB 1447](hb/1447/) - Garnishment
 * [HB 1481](hb/1481/) - School employees/firearms
 * [HB 1542](hb/1542/) - Jury demographics
+* [HB 1545](hb/1545/) - Insurance regulation
 * [HB 1563](hb/1563/) - Gubernatorial orders/relief
 * [HB 1573](hb/1573/) - Crime victims/appt. counsel
 * [HB 1574](hb/1574/) - Disability/civil actions
 * [HB 1576](hb/1576/) - Homeless individuals
+* [HB 1618](hb/1618/) - Election offices/weapons
 * [HB 1635](hb/1635/) - Child support/former parents
 * [SB 5127](sb/5127/) - Courthouse facility dogs
 * [SB 5155](sb/5155/) - Prejudgment interest
+* [HB 1754](hb/1754/) - Prejudgment interest
 * [HB 1809](hb/1809/) - Health care marketplace
 * [HB 1836](hb/1836/) - Scholarships/disadv. groups
 * [HB 1935](hb/1935/) - Workplace bullying
 * [HB 2032](hb/2032/) - Family vlogs/minor children
+* [HB 2045](hb/2045/) - State hospital release loc.
 * [HB 2071](hb/2071/) - Torts
 * [HB 2072](hb/2072/) - Manuf. homes as real prop.
-* [HB 2083](hb/2083/) - Long-term care consent
+* [HB 2088](hb/2088/) - Foreclosure timeline
 </details>
 
 ### H Rules X
@@ -471,22 +470,18 @@ Heard bills:
 ### H Env & Energy
 Active bills:
 * [HB 1606](hb/1606/) - Correction of culverts | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1694](hb/1694/) - Chemicals/consumer products | *Executive Session Tue, Jan 25 8:00 am* **26👍** **21👎** **2❓**
+* [HB 1694](hb/1694/) - Chemicals/consumer products | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1753](hb/1753/) - Climate funding/tribes | *Executive Session Thu, Jan 27 1:30 pm*
 * [HB 1766](hb/1766/) - Gas companies | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1812](hb/1812/) - Energy facility site council | *Executive Session Thu, Jan 27 1:30 pm* **170👍** **5👎** **8❓**
-* [HB 1822](hb/1822/) - Puget Sound water quality | *Public Hearing Tue, Jan 25 8:00 am*
+* [HB 1812](hb/1812/) - Energy facility site council | *Executive Session Thu, Jan 27 1:30 pm* **35👍** **5👎** **7❓**
 * [HB 1869](hb/1869/) - Salmon/voluntary stewardship | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1896](hb/1896/) - Batteries/environment | *Public Hearing Tue, Jan 25 8:00 am*
+* [HB 1896](hb/1896/) - Batteries/environment | *Public Hearing Thu, Jan 27 1:30 pm* **236👍** **10👎** **5❓**
 * [HB 1964](hb/1964/) - Alternative energy decomm. | *Public Hearing Thu, Jan 27 1:30 pm*
 * [HB 2002](hb/2002/) - Energy infrastructure siting | *Public Hearing Thu, Jan 27 1:30 pm*
 
 Heard bills:
-* [HB 1682](hb/1682/) - Business emissions reduction | **75👍** **21👎** **1❓**
-* [HB 1686](hb/1686/) - Biodegradable product labels | **24👍** **15👎** **2❓**
-* [HB 1753](hb/1753/) - Climate funding/tribes | **22👍** **1👎** **2❓**
-* [HB 1799](hb/1799/) - Organic materials management | **317👍** **12👎** **12❓**
-* [HB 1814](hb/1814/) - Community solar projects | **286👍** **1👎** **1❓**
-* [HB 1871](hb/1871/) - Alt. energy facility siting | **16👍** **10👎** **1❓**
+* [HB 1822](hb/1822/) - Puget Sound water quality | **15👍** **1👎** **5❓**
+* [HB 1871](hb/1871/) - Alt. energy facility siting | **25👍** **18👎** **2❓**
 
 
 <details>
@@ -512,8 +507,12 @@ Heard bills:
 * [HB 1540](hb/1540/) - Wastewater discharges
 * [HB 1551](hb/1551/) - Transportation fuel sourcing
 * [HB 1577](hb/1577/) - Greenhouse gas emissions
+* [HB 1682](hb/1682/) - Business emissions reduction
+* [HB 1686](hb/1686/) - Biodegradable product labels
 * [SB 5312](sb/5312/) - Transit-oriented development
 * [HB 1774](hb/1774/) - Greenhouse gases/buildings
+* [HB 1799](hb/1799/) - Organic materials management
+* [HB 1814](hb/1814/) - Community solar projects
 * [HB 1853](hb/1853/) - Cosmetic products/chemicals
 * [HB 1932](hb/1932/) - Recyclability
 * [HB 2003](hb/2003/) - Recycling system & waste
@@ -522,27 +521,14 @@ Heard bills:
 
 ### H Transportation
 Active bills:
-* [HB 1915](hb/1915/) - Traffic cameras/speed zones | *Public Hearing Tue, Jan 25 3:30 pm*
-* [HB 1969](hb/1969/) - Traffic cameras/speed | *Public Hearing Tue, Jan 25 3:30 pm*
-* [HB 1984](hb/1984/) - Vehicle reg. cert. addresses | *Public Hearing Tue, Jan 25 3:30 pm*
-* [HB 2013](hb/2013/) - DOL personal information | *Public Hearing Tue, Jan 25 3:30 pm*
-* [HB 2024](hb/2024/) - SR 520 sales tax deferral | *Public Hearing Tue, Jan 25 3:30 pm*
-* [HB 2026](hb/2026/) - Vehicle per mile charge | *Public Hearing Thu, Jan 27 3:30 pm*
 * [HB 2033](hb/2033/) - Emergency and work zones | *Public Hearing Thu, Jan 27 3:30 pm*
 
 Heard bills:
-* [HB 1595](hb/1595/) - Bridge jumping signs | **15👍** **0👎** **2❓**
-* [HB 1624](hb/1624/) - Motorcycle safety board | **44👍** **0👎** **0❓**
-* [HB 1632](hb/1632/) - Tribal license plates | **2👍** **0👎** **0❓**
-* [HB 1655](hb/1655/) - Safety rest areas | **10👍** **0👎** **2❓**
-* [HB 1709](hb/1709/) - Tow truck safety | **21👍** **2👎** **0❓**
-* [HB 1712](hb/1712/) - Muni. airport commissions | **2👍** **0👎** **0❓**
-* [HB 1784](hb/1784/) - License plate visibility | **23👍** **1👎** **0❓**
-* [HB 1786](hb/1786/) - Transportation budget, supp. | **29👍** **2👎** **8❓**
-* [HB 1790](hb/1790/) - Temporary license plates | **7👍** **1👎** **2❓**
-* [HB 1839](hb/1839/) - Commercial vehicle parking | **4👍** **0👎** **1❓**
-* [HB 1870](hb/1870/) - Wheeled all-terrain vehicles | **33👍** **1👎** **0❓**
-* [HB 1934](hb/1934/) - Tribal exchange agreements | **16👍** **0👎** **1❓**
+* [HB 1915](hb/1915/) - Traffic cameras/speed zones | **20👍** **8👎** **0❓**
+* [HB 1969](hb/1969/) - Traffic cameras/speed | **18👍** **12👎** **2❓**
+* [HB 1984](hb/1984/) - Vehicle reg. cert. addresses | **0👍** **0👎** **2❓**
+* [HB 2013](hb/2013/) - DOL personal information | **0👍** **0👎** **0❓**
+* [HB 2024](hb/2024/) - SR 520 sales tax deferral | **11👍** **1👎** **1❓**
 
 
 <details>
@@ -567,83 +553,114 @@ Heard bills:
 * [HB 1530](hb/1530/) - Wine special license plates
 * [HB 1548](hb/1548/) - Hybrid vehicle electric. fee
 * [HB 1564](hb/1564/) - Transportation spending
+* [HB 1595](hb/1595/) - Bridge jumping signs
 * [HB 1605](hb/1605/) - Vehicle lane departures
+* [HB 1624](hb/1624/) - Motorcycle safety board
+* [HB 1632](hb/1632/) - Tribal license plates
+* [HB 1655](hb/1655/) - Safety rest areas
 * [HB 1706](hb/1706/) - Truck drivers/restrooms
+* [HB 1709](hb/1709/) - Tow truck safety
+* [HB 1712](hb/1712/) - Muni. airport commissions
 * [SB 5354](sb/5354/) - Traffic control/large cities
 * [HB 1731](hb/1731/) - Autonomous vehicle testing
+* [HB 1784](hb/1784/) - License plate visibility
+* [HB 1786](hb/1786/) - Transportation budget, supp.
+* [HB 1790](hb/1790/) - Temporary license plates
+* [HB 1839](hb/1839/) - Commercial vehicle parking
+* [HB 1870](hb/1870/) - Wheeled all-terrain vehicles
+* [HB 1934](hb/1934/) - Tribal exchange agreements
+* [HB 2026](hb/2026/) - Vehicle per mile charge
 * [HB 2057](hb/2057/) - State patrol workforce
 * [HB 2062](hb/2062/) - RTA additive revenue
 * [HB 2070](hb/2070/) - Autonomous vehicles
 * [HB 2074](hb/2074/) - Off-road vehicles fees
 * [HB 2077](hb/2077/) - Human trafficking posters
 * [HB 2084](hb/2084/) - Third WA-OR bridge study
+* [HB 2089](hb/2089/) - I-405 & SR 167 bond auth.
 </details>
 
-### H Rules R
-Heard bills:
-* [HB 1048](hb/1048/) - Criminal mistreatment | **12👍** **1👎** **0❓**
-* [HB 1165](hb/1165/) - Credit union act | **4👍** **15👎** **0❓**
-* [HB 1518](hb/1518/) - Paper products/environment | **3👍** **2👎** **1❓**
-* [HB 1614](hb/1614/) - Online marketplaces | **10👍** **5👎** **2❓**
-* [HB 1616](hb/1616/) - Charity care | **109👍** **0👎** **3❓**
-* [HB 1617](hb/1617/) - State and school holidays | **12👍** **0👎** **2❓**
-* [HB 1619](hb/1619/) - Appliance efficiency | **66👍** **2👎** **2❓**
-* [HB 1622](hb/1622/) - Sex. assault nurse education | **29👍** **0👎** **0❓**
-* [HB 1623](hb/1623/) - Power supply inadequacy | **68👍** **0👎** **2❓**
-* [HB 1629](hb/1629/) - Aerial imaging technology | **12👍** **1👎** **0❓**
-* [HB 1638](hb/1638/) - Fireworks prohibitions | **86👍** **16👎** **2❓**
-* [HB 1646](hb/1646/) - Dementia action collab. | **24👍** **0👎** **0❓**
-* [HB 1650](hb/1650/) - Commercial solicitation | **4👍** **0👎** **0❓**
-* [HB 1651](hb/1651/) - Postpartum contraception | **36👍** **0👎** **0❓**
-* [HB 1670](hb/1670/) - JARRC chair & vice chair | **0👍** **0👎** **0❓**
-* [HB 1675](hb/1675/) - Dialysate & dialysis devices | **5👍** **0👎** **0❓**
-* [HB 1687](hb/1687/) - College bound scholar./GPA | **18👍** **0👎** **0❓**
-* [HB 1704](hb/1704/) - Service contracts | **4👍** **2👎** **0❓**
-* [HB 1705](hb/1705/) - Untraceable guns | **405👍** **768👎** **0❓**
-* [HB 1707](hb/1707/) - Flotation device use | **9👍** **2👎** **1❓**
-* [HB 1708](hb/1708/) - Audio-only telemed fac fees | **10👍** **0👎** **0❓**
-* [HB 1711](hb/1711/) - Accessory dwelling units | **4👍** **19👎** **3❓**
-* [HB 1715](hb/1715/) - Sentencing comm'n members | **7👍** **0👎** **0❓**
-* [HB 1716](hb/1716/) - Ballot casting locations | **15👍** **2👎** **0❓**
-* [HB 1719](hb/1719/) - Military equipment/law enf. | **290👍** **4👎** **1❓**
-* [HJM 4002](hjm/4002/) - Jones Act | **17👍** **0👎** **0❓**
-* [HB 1725](hb/1725/) - Missing indigenous persons | **118👍** **0👎** **1❓**
-* [HB 1729](hb/1729/) - Blockchain work group | **30👍** **0👎** **3❓**
-* [HB 1739](hb/1739/) - Hospital policies/pathogens | **7👍** **0👎** **0❓**
-* [HB 1761](hb/1761/) - Opioid reversal by ED nurses | **17👍** **0👎** **0❓**
-* [HB 1770](hb/1770/) - Energy codes | **319👍** **64👎** **1❓**
-* [HB 1825](hb/1825/) - Single judge courts | **7👍** **0👎** **0❓**
-* [HB 1961](hb/1961/) - Name change fee waivers | **8👍** **0👎** **0❓**
-* [HB 1978](hb/1978/) - Shoreline master programs | **8👍** **0👎** **2❓**
+### S State Govt & El
+Active bills:
+* [SB 5098](sb/5098/) - Reports | *Public Hearing Wed, Jan 26 8:00 am*
+* [SB 5555](sb/5555/) - Safety telecommunicators | *Executive Session Wed, Jan 26 8:00 am*
+* [SB 5854](sb/5854/) - Faculty duties/ethics | *Public Hearing Wed, Jan 26 8:00 am*
 
 
 <details>
     <summary>Click to view inactive bills</summary>
 
+* [HB 1041](hb/1041/) - Sunshine committee/juveniles
+* [HB 1122](hb/1122/) - State guard retirement age
+* [HB 1329](hb/1329/) - Public meetings
+* [HB 1357](hb/1357/) - Voters' pamphlets overseas
+* [SB 5100](sb/5100/) - Emergency rules/approval
+* [SB 5109](sb/5109/) - Campaigns/AG sanctions
+* [SB 5113](sb/5113/) - Emergency orders/statutory
+* [SB 5186](sb/5186/) - Emerg. orders/const. rights
+* [SB 5382](sb/5382/) - Election security testing
+* [SB 5393](sb/5393/) - Initiative petition format
+* [SB 5434](sb/5434/) - Elections/voter confidence
+* [SB 5458](sb/5458/) - Public contracts/businesses
+* [SB 5511](sb/5511/) - Uniform standard time
+* [SB 5540](sb/5540/) - Election dates and timelines
+* [SB 5550](sb/5550/) - Public records act/judiciary
+* [SB 5570](sb/5570/) - Capitol grounds/major works
+* [SJR 8202](sjr/8202/) - Governor term limit
+* [SJR 8203](sjr/8203/) - Term limits
+* [SB 5887](sb/5887/) - Special session procedures
+</details>
+
+### H Rules R
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [HB 1048](hb/1048/) - Criminal mistreatment
 * [HB 1059](hb/1059/) - Fireworks prohibitions
 * [HB 1126](hb/1126/) - Community custody tolling
 * [HB 1203](hb/1203/) - Community oversight boards
 * [HB 1210](hb/1210/) - Cannabis terminology
 * [HB 1231](hb/1231/) - Traffic lane merge education
 * [HB 1255](hb/1255/) - Motorcycle steering equip.
-* [HB 1283](hb/1283/) - Criminal mischief/weapons
+* [HB 1300](hb/1300/) - Landlord damage claims
 * [HB 1304](hb/1304/) - Grade-separated transport.
 * [HB 1351](hb/1351/) - Insurance/credit exceptions
 * [HB 1413](hb/1413/) - Prior juvenile offenses
 * [HB 1421](hb/1421/) - Utility service charges
 * [HB 1474](hb/1474/) - Unemployment employer viol.
 * [HB 1483](hb/1483/) - Beverage alcohol/workforce
+* [HB 1497](hb/1497/) - Telephone solicitation
 * [HB 1539](hb/1539/) - Bad debts/tax
-* [HB 1615](hb/1615/) - Cosmetics tested on animals
-* [HB 1700](hb/1700/) - Derelict vessel removal
-* [HB 1721](hb/1721/) - PERS/TRS 1 benefit increase
+* [HB 1593](hb/1593/) - Landlord mitigation/victims
+* [HB 1612](hb/1612/) - Unemployment ins./technical
+* [HB 1613](hb/1613/) - Employer reports/private
+* [HB 1614](hb/1614/) - Online marketplaces
+* [HB 1617](hb/1617/) - State and school holidays
+* [HB 1619](hb/1619/) - Appliance efficiency
+* [HB 1625](hb/1625/) - Space force reserve members
+* [HB 1629](hb/1629/) - Aerial imaging technology
+* [HB 1630](hb/1630/) - Weapons/certain meetings
+* [HB 1638](hb/1638/) - Fireworks prohibitions
+* [HB 1660](hb/1660/) - Accessory dwelling units
+* [HB 1670](hb/1670/) - JARRC chair & vice chair
+* [HB 1687](hb/1687/) - College bound scholar./GPA
+* [HB 1704](hb/1704/) - Service contracts
+* [HB 1711](hb/1711/) - Accessory dwelling units
+* [HJM 4002](hjm/4002/) - Jones Act
 * [HCR 4402](hcr/4402/) - Cutoff dates/emergency
-* [HB 1752](hb/1752/) - Deferred compensation/Roth
-* [HB 1798](hb/1798/) - LCEDIR/tourism slogan
+* [HB 1729](hb/1729/) - Blockchain work group
+* [HB 1744](hb/1744/) - Cancer care collaboratives
+* [HB 1767](hb/1767/) - Targeted electrification
+* [HB 1768](hb/1768/) - Energy conservation projects
+* [HB 1770](hb/1770/) - Energy codes
+* [HB 1779](hb/1779/) - Surgical smoke
+* [HB 1785](hb/1785/) - WSP minimum salary
+* [HB 1794](hb/1794/) - Dishonored paycheck fees
 * [HB 1802](hb/1802/) - Disabilities/entity members
+* [HB 1808](hb/1808/) - Pupil transportation funding
+* [HB 1825](hb/1825/) - Single judge courts
 * [HB 1849](hb/1849/) - War on terror monument
 * [HB 1857](hb/1857/) - Technical corrections
-* [HB 1874](hb/1874/) - Prof. licensure/convictions
 * [HB 1899](hb/1899/) - DFI data confidentiality
 </details>
 
@@ -653,13 +670,10 @@ Heard bills:
     <summary>Click to view inactive bills</summary>
 
 * [HB 1051](hb/1051/) - Board of regents/faculty
-* [HB 1067](hb/1067/) - State dinosaur
 * [HB 1075](hb/1075/) - On-demand transp. emissions
 * [HB 1081](hb/1081/) - State gen. obligation bonds
 * [HB 1156](hb/1156/) - Local elections
 * [HB 1169](hb/1169/) - Sentencing enhancements
-* [HB 1183](hb/1183/) - Home sharing support grants
-* [HB 1261](hb/1261/) - Wildlife harvest reports
 * [HB 1263](hb/1263/) - Rural infrastructure
 * [HB 1354](hb/1354/) - Suicide review teams
 * [HB 1366](hb/1366/) - In-person instruction
@@ -669,15 +683,15 @@ Heard bills:
 </details>
 
 ### S Health & Long T
-Heard bills:
-* [SB 5716](sb/5716/) - Breast cancer MRI coverage | **23👍** **1👎** **4❓**
-* [SB 5723](sb/5723/) - Diversity in clinical trials | **12👍** **1👎** **0❓**
+Active bills:
+* [SB 5723](sb/5723/) - Diversity in clinical trials | *Executive Session Wed, Jan 26 8:00 am*
 
 
 <details>
     <summary>Click to view inactive bills</summary>
 
 * [HB 1052](hb/1052/) - Group insurance contracts
+* [HB 1074](hb/1074/) - Fatality reviews
 * [HB 1124](hb/1124/) - Nurse delegation/glucose
 * [HB 1141](hb/1141/) - Death w/ dignity act access
 * [SB 5503](sb/5503/) - Long-term care products
@@ -700,26 +714,22 @@ Heard bills:
 
 * [HB 1056](hb/1056/) - Public meetings/emergencies
 * [HB 1076](hb/1076/) - Workplace violations/qui tam
-* [HB 1105](hb/1105/) - Medical use of cannabis
-* [HB 1117](hb/1117/) - Comp. planning/salmon
 * [HB 1157](hb/1157/) - Housing supply
 * [HB 1173](hb/1173/) - State lands development auth
 * [HB 1258](hb/1258/) - Microenterprise home kitchen
 * [HB 1328](hb/1328/) - Disease control info./PRA
 * [HB 1330](hb/1330/) - Electric bicycles/sales tax
-* [EHB 1453](ehb/1453/) - Voters' pamphlets
 * [HB 1515](hb/1515/) - Security deposit waiver fees
 </details>
 
 ### H Commerce & Gam
 Active bills:
-* [HB 1855](hb/1855/) - Craft cannabis endorsement | *Executive Session Tue, Jan 25 8:00 am*
-* [HB 1859](hb/1859/) - Cannabis analysis labs | *Executive Session Fri, Jan 28 10:00 am* **13👍** **0👎** **0❓**
+* [HB 1859](hb/1859/) - Cannabis analysis labs | *Executive Session Fri, Jan 28 10:00 am*
 * [HB 2022](hb/2022/) - Cannabis social equity | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 2035](hb/2035/) - LCB/behavioral health | *Public Hearing Tue, Jan 25 8:00 am*
+* [HB 2025](hb/2025/) - Bingo gambling activities | *Public Hearing Thu, Jan 27 1:30 pm*
 
 Heard bills:
-* [HB 1668](hb/1668/) - Marijuana products | **37👍** **17👎** **4❓**
+* [HB 2035](hb/2035/) - LCB/behavioral health | **40👍** **2👎** **2❓**
 
 
 <details>
@@ -731,7 +741,9 @@ Heard bills:
 * [HB 1414](hb/1414/) - Marijuana licensing/zoning
 * [HB 1432](hb/1432/) - Distilled spirit sales
 * [HB 1463](hb/1463/) - Cannabis concentrates
+* [HB 1667](hb/1667/) - Cannabis business ownership
 * [HB 1674](hb/1674/) - Sports wagering
+* [HB 1855](hb/1855/) - Craft cannabis endorsement
 * [HB 2039](hb/2039/) - Vapor products
 * [HB 2069](hb/2069/) - Raffles
 * [HB 2080](hb/2080/) - Liquor license endorsement
@@ -739,29 +751,26 @@ Heard bills:
 
 ### H Education
 Active bills:
-* [HB 1536](hb/1536/) - Regional apprenticeship prgs | *Executive Session Fri, Jan 28 10:00 am* **12👍** **0👎** **2❓**
-* [HB 1544](hb/1544/) - Ag., food, nat. resource ed. | *Public Hearing Tue, Jan 25 8:00 am*
+* [HB 1536](hb/1536/) - Regional apprenticeship prgs | *Executive Session Fri, Jan 28 10:00 am*
 * [HB 1585](hb/1585/) - Traffic stops/driver ed. | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1611](hb/1611/) - Highly capable students | *Executive Session Fri, Jan 28 10:00 am* **220👍** **1👎** **1❓**
-* [HB 1759](hb/1759/) - School websites/drug info. | *Executive Session Thu, Jan 27 1:30 pm* **455👍** **4👎** **1❓**
-* [HB 1760](hb/1760/) - Dual credit program access | *Executive Session Fri, Jan 28 10:00 am* **18👍** **0👎** **5❓**
+* [HB 1611](hb/1611/) - Highly capable students | *Executive Session Fri, Jan 28 10:00 am* **34👍** **1👎** **1❓**
+* [HB 1759](hb/1759/) - School websites/drug info. | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1760](hb/1760/) - Dual credit program access | *Executive Session Fri, Jan 28 10:00 am* **36👍** **0👎** **4❓**
 * [HB 1791](hb/1791/) - Prof. educator reprimands | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1803](hb/1803/) - School director compensation | *Executive Session Tue, Jan 25 8:00 am* **26👍** **1👎** **0❓**
-* [HB 1807](hb/1807/) - Civic education | *Public Hearing Tue, Jan 25 8:00 am*
-* [HB 1833](hb/1833/) - School meals/electronic info | *Executive Session Thu, Jan 27 1:30 pm* **63👍** **0👎** **1❓**
-* [HB 1834](hb/1834/) - Student absences/mental hlth | *Executive Session Thu, Jan 27 1:30 pm* **40👍** **0👎** **0❓**
-* [HB 1867](hb/1867/) - Dual credit program data | *Executive Session Fri, Jan 28 10:00 am* **40👍** **0👎** **0❓**
-* [HB 1878](hb/1878/) - Schools/comm. eligibility | *Executive Session Thu, Jan 27 1:30 pm* **94👍** **0👎** **1❓**
+* [HB 1833](hb/1833/) - School meals/electronic info | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1834](hb/1834/) - Student absences/mental hlth | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1867](hb/1867/) - Dual credit program data | *Executive Session Fri, Jan 28 10:00 am* **15👍** **0👎** **0❓**
+* [HB 1878](hb/1878/) - Schools/comm. eligibility | *Executive Session Thu, Jan 27 1:30 pm*
 * [HB 1900](hb/1900/) - Schools/discrimination, etc. | *Public Hearing Thu, Jan 27 1:30 pm*
 * [HB 1941](hb/1941/) - Active shooter drills | *Public Hearing Thu, Jan 27 1:30 pm*
 * [HB 1942](hb/1942/) - Paraeducator course of study | *Public Hearing Fri, Jan 28 10:00 am*
 * [HB 1955](hb/1955/) - Dependency/education | *Public Hearing Thu, Jan 27 1:30 pm*
 * [HB 1974](hb/1974/) - Education elections/WSSDA | *Public Hearing Thu, Jan 27 1:30 pm*
-* [HB 2014](hb/2014/) - Outdoor school | *Public Hearing Tue, Jan 25 8:00 am*
 
 Heard bills:
-* [HB 1226](hb/1226/) - School district elections | **187👍** **194👎** **0❓**
-* [HB 1306](hb/1306/) - School boards/bond training | **5👍** **0👎** **0❓**
+* [HB 1544](hb/1544/) - Ag., food, nat. resource ed. | **46👍** **1👎** **1❓**
+* [HB 1807](hb/1807/) - Civic education | **289👍** **897👎** **6❓**
+* [HB 2078](hb/2078/) - Outdoor school | **39👍** **0👎** **0❓**
 
 
 <details>
@@ -772,6 +781,8 @@ Heard bills:
 * [HB 1149](hb/1149/) - Public health education
 * [HB 1195](hb/1195/) - Charter school time frame
 * [HB 1215](hb/1215/) - K-12 education scholarships
+* [HB 1226](hb/1226/) - School district elections
+* [HB 1306](hb/1306/) - School boards/bond training
 * [HB 1396](hb/1396/) - US history & gov/high school
 * [HB 1422](hb/1422/) - Sexual health ed./dates
 * [HB 1444](hb/1444/) - Student supports/COVID-19
@@ -782,6 +793,7 @@ Heard bills:
 * [HB 1633](hb/1633/) - K-12 education scholarships
 * [ESB 5202](esb/5202/) - School depreciation subfunds
 * [SB 5376](sb/5376/) - Education ombuds awareness
+* [HB 1803](hb/1803/) - School director compensation
 * [HB 1829](hb/1829/) - African American studies
 * [HB 1842](hb/1842/) - School board director qualif
 * [HB 1886](hb/1886/) - Critical race theory
@@ -791,34 +803,72 @@ Heard bills:
 * [HB 1976](hb/1976/) - Schools/eating outside
 * [HB 1985](hb/1985/) - Schools/support funding
 * [HB 1986](hb/1986/) - School district boards
+* [HB 2014](hb/2014/) - Outdoor school
 * [HB 2016](hb/2016/) - Sex trafficking/education
 * [HB 2042](hb/2042/) - K-12 education scholarships
 * [HB 2054](hb/2054/) - School bus video recording
 * [HB 2056](hb/2056/) - K-12 instructional materials
-* [HB 2078](hb/2078/) - Outdoor school
+* [HB 2087](hb/2087/) - Education/parent rights
+* [HB 2090](hb/2090/) - Tribal activities/credit
+</details>
+
+### H 2nd Reading
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [HB 1067](hb/1067/) - State dinosaur
+* [HB 1165](hb/1165/) - Credit union act
+* [HB 1183](hb/1183/) - Home sharing support grants
+* [HB 1261](hb/1261/) - Wildlife harvest reports
+* [HB 1283](hb/1283/) - Criminal mischief/weapons
+* [HB 1486](hb/1486/) - Unemployment/voluntary
+* [HB 1518](hb/1518/) - Paper products/environment
+* [HB 1615](hb/1615/) - Cosmetics tested on animals
+* [HB 1616](hb/1616/) - Charity care
+* [HB 1622](hb/1622/) - Sex. assault nurse education
+* [HB 1623](hb/1623/) - Power supply inadequacy
+* [HB 1646](hb/1646/) - Dementia action collab.
+* [HB 1650](hb/1650/) - Commercial solicitation
+* [HB 1651](hb/1651/) - Postpartum contraception
+* [HB 1675](hb/1675/) - Dialysate & dialysis devices
+* [HB 1700](hb/1700/) - Derelict vessel removal
+* [HB 1705](hb/1705/) - Untraceable guns
+* [HB 1707](hb/1707/) - Flotation device use
+* [HB 1708](hb/1708/) - Audio-only telemed fac fees
+* [HB 1715](hb/1715/) - Sentencing comm'n members
+* [HB 1716](hb/1716/) - Ballot casting locations
+* [HB 1719](hb/1719/) - Military equipment/law enf.
+* [HB 1721](hb/1721/) - PERS/TRS 1 benefit increase
+* [HB 1725](hb/1725/) - Missing indigenous persons
+* [HB 1735](hb/1735/) - Peace officers/use of force
+* [HB 1739](hb/1739/) - Hospital policies/pathogens
+* [HB 1752](hb/1752/) - Deferred compensation/Roth
+* [HB 1761](hb/1761/) - Opioid reversal by ED nurses
+* [HB 1798](hb/1798/) - LCEDIR/tourism slogan
+* [HB 1874](hb/1874/) - Prof. licensure/convictions
+* [HB 1961](hb/1961/) - Name change fee waivers
+* [HB 1978](hb/1978/) - Shoreline master programs
 </details>
 
 ### H Public Safety
 Active bills:
-* [HB 1507](hb/1507/) - Indep. prosecutions/police | *Executive Session Thu, Jan 27 1:30 pm* **572👍** **7👎** **1❓**
-* [HB 1637](hb/1637/) - Mental illness/sentencing | *Executive Session Thu, Jan 27 1:30 pm* **82👍** **2👎** **2❓**
-* [HB 1656](hb/1656/) - Definition of theft | *Executive Session Thu, Jan 27 1:30 pm* **16👍** **3👎** **0❓**
+* [HB 1507](hb/1507/) - Indep. prosecutions/police | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1637](hb/1637/) - Mental illness/sentencing | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1656](hb/1656/) - Definition of theft | *Executive Session Thu, Jan 27 1:30 pm*
 * [HB 1678](hb/1678/) - Domestic violence registry | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1681](hb/1681/) - Conviction record vacation | *Executive Session Thu, Jan 27 1:30 pm* **57👍** **4👎** **0❓**
-* [HB 1690](hb/1690/) - Law enf. officers/deception | *Executive Session Thu, Jan 27 1:30 pm* **20👍** **9👎** **2❓**
+* [HB 1681](hb/1681/) - Conviction record vacation | *Executive Session Thu, Jan 27 1:30 pm*
 * [HB 1758](hb/1758/) - Hazing penalty | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1788](hb/1788/) - Vehicular pursuits | *Executive Session Thu, Jan 27 1:30 pm* **39👍** **411👎** **0❓**
-* [HB 1815](hb/1815/) - Catalytic converter theft | *Executive Session Thu, Jan 27 1:30 pm* **24👍** **1👎** **1❓**
-* [HB 1817](hb/1817/) - Deferred prosecutions | *Executive Session Thu, Jan 27 1:30 pm* **10👍** **1👎** **3❓**
-* [HB 1826](hb/1826/) - Interfering with emergency | *Executive Session Thu, Jan 27 1:30 pm* **14👍** **0👎** **0❓**
+* [HB 1815](hb/1815/) - Catalytic converter theft | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1817](hb/1817/) - Deferred prosecutions | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1826](hb/1826/) - Interfering with emergency | *Executive Session Thu, Jan 27 1:30 pm*
 * [HB 1844](hb/1844/) - Unlawful branding of person | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 1848](hb/1848/) - Assisted reproduction fraud | *Public Hearing Tue, Jan 25 8:00 am*
-* [HB 1916](hb/1916/) - Crime victims and witnesses | *Public Hearing Tue, Jan 25 8:00 am*
 * [HB 1972](hb/1972/) - Negligent driving penalties | *Public Hearing Fri, Jan 28 10:00 am*
-* [HB 2037](hb/2037/) - Peace officers/use of force | *Public Hearing Tue, Jan 25 8:00 am*
 
 Heard bills:
-* [HB 1726](hb/1726/) - Peace officers/use of force | **32👍** **419👎** **11❓**
+* [HB 1848](hb/1848/) - Assisted reproduction fraud | **11👍** **1👎** **1❓**
+* [HB 1916](hb/1916/) - Crime victims and witnesses | **22👍** **0👎** **0❓**
+* [HB 2037](hb/2037/) - Peace officers/use of force | **78👍** **2425👎** **9❓**
 
 
 <details>
@@ -843,10 +893,13 @@ Heard bills:
 * [HB 1589](hb/1589/) - Physical force/peace officer
 * [HB 1634](hb/1634/) - Law enf. officers/firearms
 * [HB 1639](hb/1639/) - Missing person advisory
+* [HB 1690](hb/1690/) - Law enf. officers/deception
 * [HB 1692](hb/1692/) - Drive-by shooting
 * [SB 5148](sb/5148/) - Election official harassment
 * [SB 5245](sb/5245/) - Safety of crime victims
+* [HB 1726](hb/1726/) - Peace officers/use of force
 * [HB 1737](hb/1737/) - Public safety
+* [HB 1788](hb/1788/) - Vehicular pursuits
 * [HB 1873](hb/1873/) - Catalytic converter theft
 * [HB 1892](hb/1892/) - Drug diversion database
 * [HB 1922](hb/1922/) - Fentanyl possession
@@ -862,22 +915,19 @@ Heard bills:
 
 ### H Labor & Workpl
 Active bills:
-* [HB 1764](hb/1764/) - Physician bargaining | *Executive Session Wed, Jan 26 10:00 am* **158👍** **1👎** **1❓**
-* [HB 1776](hb/1776/) - High-hazard facility wages | *Executive Session Fri, Jan 28 8:00 am* **29👍** **19👎** **2❓**
-* [HB 1795](hb/1795/) - Nondisclosure/illegal acts | *Executive Session Wed, Jan 26 10:00 am* **93👍** **1👎** **1❓**
-* [HB 1806](hb/1806/) - Legislature/bargaining | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1831](hb/1831/) - Electric vehicle equipment | *Executive Session Tue, Jan 25 10:00 am* **117👍** **4👎** **1❓**
-* [HB 1837](hb/1837/) - Musculoskeletal injuries | *Executive Session Tue, Jan 25 10:00 am* **53👍** **51👎** **2❓**
-* [HB 1868](hb/1868/) - Health care staffing | *Executive Session Wed, Jan 26 10:00 am* **1604👍** **703👎** **28❓**
-* [HB 1902](hb/1902/) - Workers' comp reopening | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1927](hb/1927/) - Legislative service leave | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1992](hb/1992/) - Vacation leave accrual | *Public Hearing Tue, Jan 25 10:00 am*
+* [HB 1764](hb/1764/) - Physician bargaining | *Executive Session Wed, Jan 26 10:00 am*
+* [HB 1776](hb/1776/) - High-hazard facility wages | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1795](hb/1795/) - Nondisclosure/illegal acts | *Executive Session Wed, Jan 26 10:00 am*
+* [HB 1831](hb/1831/) - Electric vehicle equipment | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1868](hb/1868/) - Health care staffing | *Executive Session Wed, Jan 26 10:00 am*
 * [HB 2031](hb/2031/) - Unempl. & leave premiums | *Public Hearing Fri, Jan 28 8:00 am*
+* [HB 2076](hb/2076/) - Transp. network companies | *Public Hearing Wed, Jan 26 10:00 am*
 
 Heard bills:
-* [HB 1745](hb/1745/) - L&I penalty discretion | **5👍** **14👎** **1❓**
-* [HB 1763](hb/1763/) - Workers' comp. exam rights | **30👍** **63👎** **1❓**
-* [HB 1847](hb/1847/) - Farmworkers study | **50👍** **122👎** **0❓**
+* [HB 1806](hb/1806/) - Legislature/bargaining | **158👍** **5👎** **1❓**
+* [HB 1902](hb/1902/) - Workers' comp reopening | **1👍** **1👎** **1❓**
+* [HB 1927](hb/1927/) - Legislative service leave | **5👍** **0👎** **0❓**
+* [HB 1992](hb/1992/) - Vacation leave accrual | **19👍** **0👎** **0❓**
 
 
 <details>
@@ -894,22 +944,43 @@ Heard bills:
 * [HB 1516](hb/1516/) - Agricultural labor
 * [HB 1608](hb/1608/) - Ferries/employment barriers
 * [HB 1609](hb/1609/) - Health emergencies/federal
+* [HB 1745](hb/1745/) - L&I penalty discretion
 * [HB 1750](hb/1750/) - Agricultural overtime
+* [HB 1763](hb/1763/) - Workers' comp. exam rights
 * [HB 1783](hb/1783/) - Freight transporters/L&I
-* [HB 2076](hb/2076/) - Transp. network companies
+* [HB 1847](hb/1847/) - Farmworkers study
+</details>
+
+### S Housing & Local
+Active bills:
+* [SB 5574](sb/5574/) - New counties | *Public Hearing Thu, Jan 27 8:00 am*
+* [SB 5593](sb/5593/) - Urban growth area boundaries | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5642](sb/5642/) - Affordable housing/REET | *Public Hearing Wed, Jan 26 10:30 am*
+
+Heard bills:
+* [SB 5742](sb/5742/) - Stormwater facilities/county | **1👍** **3👎** **0❓**
+
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [HB 1099](hb/1099/) - Comprehensive planning
+* [HB 1333](hb/1333/) - Rural public facilities/tax
+* [HB 1376](hb/1376/) - Registration of land titles
+* [SB 5314](sb/5314/) - GMA/standing & science
+* [SB 5513](sb/5513/) - Lodging taxes/housing
+* [SB 5556](sb/5556/) - Eviction moratorium/lodging
+* [SB 5591](sb/5591/) - Emergency housing & shelters
+* [SB 5621](sb/5621/) - Water & sewage/intergov.
+* [SB 5685](sb/5685/) - Urban growth area boundaries
+* [SB 5757](sb/5757/) - Multifamily properties/REET
+* [SB 5759](sb/5759/) - Housing tax credit program
 </details>
 
 ### H Cap Budget
-Active bills:
-* [HB 1600](hb/1600/) - 988 hotline signs | *Public Hearing Tue, Jan 25 1:30 pm*
-* [HB 1647](hb/1647/) - Building for the arts | *Executive Session Tue, Jan 25 1:30 pm* **206👍** **0👎** **0❓**
-* [HB 1929](hb/1929/) - Fire protection projects | *Public Hearing Tue, Jan 25 1:30 pm*
-* [HB 1958](hb/1958/) - Shovel-ready site cert. | *Public Hearing Tue, Jan 25 1:30 pm*
-
 Heard bills:
-* [HB 1673](hb/1673/) - Public works board/broadband | **8👍** **0👎** **6❓**
-* [HB 1775](hb/1775/) - Capital assistance/schools | **8👍** **0👎** **0❓**
-* [HB 1781](hb/1781/) - Capital budget, supplemental | **66👍** **0👎** **6❓**
+* [HB 1929](hb/1929/) - Fire protection projects | **11👍** **0👎** **0❓**
+* [HB 1958](hb/1958/) - Shovel-ready site cert. | **23👍** **0👎** **0❓**
 
 
 <details>
@@ -918,8 +989,12 @@ Heard bills:
 * [HB 1101](hb/1101/) - Unused public buildings
 * [HB 1154](hb/1154/) - Building communities fund
 * [HB 1308](hb/1308/) - Apprenticeship utilization
+* [HB 1600](hb/1600/) - 988 hotline signs
+* [HB 1673](hb/1673/) - Public works board/broadband
 * [ESB 5017](esb/5017/) - School district procurement
 * [HB 1740](hb/1740/) - Broadband loans & grants
+* [HB 1775](hb/1775/) - Capital assistance/schools
+* [HB 1781](hb/1781/) - Capital budget, supplemental
 * [HB 1949](hb/1949/) - Higher edu capital projects
 * [HB 2055](hb/2055/) - Higher ed. capital grants
 * [HB 2073](hb/2073/) - State capitol committee
@@ -927,24 +1002,15 @@ Heard bills:
 
 ### H RDev, Ag&NR
 Active bills:
-* [HB 1626](hb/1626/) - WDFW electronic licensing | *Executive Session Tue, Jan 25 10:00 am* **3👍** **0👎** **0❓**
-* [HB 1631](hb/1631/) - Food/environmental steward. | *Executive Session Wed, Jan 26 10:00 am* **10👍** **0👎** **1❓**
-* [HB 1649](hb/1649/) - WDFW disabilities adv. comm. | *Executive Session Tue, Jan 25 10:00 am* **1👍** **0👎** **0❓**
-* [HB 1661](hb/1661/) - Kelp & eelgrass conservation | *Executive Session Tue, Jan 25 10:00 am* **45👍** **2👎** **1❓**
-* [HB 1685](hb/1685/) - Cottage food sales cap | *Executive Session Wed, Jan 26 10:00 am* **136👍** **1👎** **2❓**
+* [HB 1631](hb/1631/) - Food/environmental steward. | *Executive Session Wed, Jan 26 10:00 am*
+* [HB 1685](hb/1685/) - Cottage food sales cap | *Executive Session Wed, Jan 26 10:00 am*
 * [SB 5201](sb/5201/) - DNR timber & land sales | *Public Hearing Wed, Jan 26 10:00 am*
-* [HB 1856](hb/1856/) - Voluntary stewardship prog. | *Executive Session Fri, Jan 28 8:00 am* **15👍** **2👎** **1❓**
-* [HB 1891](hb/1891/) - Rangeland fire pilot | *Executive Session Fri, Jan 28 8:00 am* **8👍** **6👎** **1❓**
-* [HB 1895](hb/1895/) - Forest conservation | *Executive Session Tue, Jan 25 10:00 am* **42👍** **13👎** **12❓**
+* [HB 1856](hb/1856/) - Voluntary stewardship prog. | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1891](hb/1891/) - Rangeland fire pilot | *Executive Session Fri, Jan 28 8:00 am* **7👍** **8👎** **1❓**
+* [HB 1895](hb/1895/) - Forest conservation | *Executive Session Fri, Jan 28 8:00 am*
 * [HB 1993](hb/1993/) - Pesticide advisory board | *Public Hearing Wed, Jan 26 10:00 am*
 * [HB 2027](hb/2027/) - WDFW governance | *Public Hearing Wed, Jan 26 10:00 am*
-
-Heard bills:
-* [HB 1698](hb/1698/) - Latex gloves/food handling | **0👍** **51👎** **1❓**
-* [HB 1718](hb/1718/) - Fur products | **390👍** **48👎** **2❓**
-* [HB 1838](hb/1838/) - Salmon habitat | **1812👍** **1828👎** **15❓**
-* [HB 1909](hb/1909/) - Meat and poultry misbranding | **2👍** **1👎** **5❓**
-* [SB 5653](sb/5653/) - Pesticide commission name | **9👍** **0👎** **0❓**
+* [HB 2086](hb/2086/) - Aviation assurance funding | *Public Hearing Fri, Jan 28 8:00 am*
 
 
 <details>
@@ -959,42 +1025,22 @@ Heard bills:
 * [HB 1385](hb/1385/) - Water rights transfers
 * [HB 1405](hb/1405/) - Sale of DNR lands
 * [HB 1524](hb/1524/) - Electric-assisted bicycles
+* [HB 1698](hb/1698/) - Latex gloves/food handling
+* [HB 1718](hb/1718/) - Fur products
+* [HB 1838](hb/1838/) - Salmon habitat
+* [HB 1909](hb/1909/) - Meat and poultry misbranding
 * [HB 2067](hb/2067/) - Relinquished water alloc.
-* [HB 2086](hb/2086/) - Aviation assurance funding
+* [SB 5653](sb/5653/) - Pesticide commission name
 </details>
 
-### S State Govt & El
-Active bills:
-* [SB 5098](sb/5098/) - Reports | *Public Hearing Wed, Jan 26 8:00 am*
-* [SB 5854](sb/5854/) - Faculty duties/ethics | *Public Hearing Wed, Jan 26 8:00 am*
-
-Heard bills:
-* [SB 5511](sb/5511/) - Uniform standard time | **6👍** **0👎** **0❓**
-* [SB 5540](sb/5540/) - Election dates and timelines | **24👍** **87👎** **0❓**
-* [SB 5550](sb/5550/) - Public records act/judiciary | **9👍** **7👎** **1❓**
-* [SB 5555](sb/5555/) - Safety telecommunicators | **224👍** **5👎** **8❓**
-* [SB 5570](sb/5570/) - Capitol grounds/major works | **0👍** **1👎** **0❓**
-* [SB 5584](sb/5584/) - Local elections | **1102👍** **433👎** **4❓**
-* [SB 5756](sb/5756/) - Semiquincentennial committee | **8👍** **0👎** **0❓**
-
+### H 3rd Reading
 
 <details>
     <summary>Click to view inactive bills</summary>
 
-* [HB 1122](hb/1122/) - State guard retirement age
-* [HB 1329](hb/1329/) - Public meetings
-* [HB 1357](hb/1357/) - Voters' pamphlets overseas
-* [SB 5100](sb/5100/) - Emergency rules/approval
-* [SB 5109](sb/5109/) - Campaigns/AG sanctions
-* [SB 5113](sb/5113/) - Emergency orders/statutory
-* [SB 5186](sb/5186/) - Emerg. orders/const. rights
-* [SB 5382](sb/5382/) - Election security testing
-* [SB 5393](sb/5393/) - Initiative petition format
-* [SB 5434](sb/5434/) - Elections/voter confidence
-* [SB 5458](sb/5458/) - Public contracts/businesses
-* [SJR 8202](sjr/8202/) - Governor term limit
-* [SJR 8203](sjr/8203/) - Term limits
-* [SB 5887](sb/5887/) - Special session procedures
+* [HB 1105](hb/1105/) - Medical use of cannabis
+* [HB 1117](hb/1117/) - Comp. planning/salmon
+* [EHB 1453](ehb/1453/) - Voters' pamphlets
 </details>
 
 ### Gov vetoed
@@ -1011,11 +1057,11 @@ Active bills:
 * [HB 1642](hb/1642/) - National guard ed. grants | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1780](hb/1780/) - Workforce investment board | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1805](hb/1805/) - Opportunity scholarship prog | *Executive Session Wed, Jan 26 8:00 am*
-* [HB 1840](hb/1840/) - Community colleges/diversity | *Executive Session Thu, Jan 27 10:00 am* **145👍** **0👎** **0❓**
-* [HB 1872](hb/1872/) - Care worker center | *Executive Session Wed, Jan 26 8:00 am* **16👍** **0👎** **7❓**
-* [HB 1907](hb/1907/) - Gift equity packaging | *Executive Session Thu, Jan 27 10:00 am* **2👍** **1👎** **0❓**
-* [HB 2007](hb/2007/) - Nurse educator loans | *Executive Session Thu, Jan 27 10:00 am* **35👍** **0👎** **1❓**
-* [HB 2019](hb/2019/) - Careers in retail | *Executive Session Thu, Jan 27 10:00 am* **7👍** **0👎** **0❓**
+* [HB 1840](hb/1840/) - Community colleges/diversity | *Executive Session Thu, Jan 27 10:00 am*
+* [HB 1872](hb/1872/) - Care worker center | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1907](hb/1907/) - Gift equity packaging | *Executive Session Thu, Jan 27 10:00 am*
+* [HB 2007](hb/2007/) - Nurse educator loans | *Executive Session Thu, Jan 27 10:00 am*
+* [HB 2019](hb/2019/) - Careers in retail | *Executive Session Thu, Jan 27 10:00 am*
 
 
 <details>
@@ -1029,23 +1075,19 @@ Active bills:
 
 ### H Local Govt
 Active bills:
-* [HB 1232](hb/1232/) - GMA/affordable housing plans | *Executive Session Wed, Jan 26 10:00 am* **32👍** **3👎** **0❓**
-* [HB 1684](hb/1684/) - Drinking water fluoridation | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1714](hb/1714/) - Impact fee deferrals | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1722](hb/1722/) - Broadband deployment | *Public Hearing Fri, Jan 28 8:00 am*
-* [HB 1743](hb/1743/) - Dispo. of remains/indigent | *Executive Session Wed, Jan 26 10:00 am* **0👍** **0👎** **0❓**
-* [HB 1769](hb/1769/) - Community municipal corps | *Public Hearing Fri, Jan 28 8:00 am*
-* [HB 1782](hb/1782/) - Middle housing near transit | *Executive Session Wed, Jan 26 10:00 am* **548👍** **21👎** **8❓**
-* [HB 1811](hb/1811/) - Fire benefit charges | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1832](hb/1832/) - Code city form of government | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1948](hb/1948/) - Failing water systems | *Public Hearing Tue, Jan 25 10:00 am*
-* [HB 1981](hb/1981/) - Local government planning | *Executive Session Wed, Jan 26 10:00 am* **6👍** **37👎** **4❓**
-
-Heard bills:
-* [HB 1337](hb/1337/) - Accessory dwelling units | **54👍** **5👎** **2❓**
-* [HB 1627](hb/1627/) - Water & sewage system access | **28👍** **7👎** **0❓**
-* [HB 1971](hb/1971/) - Smoke control systems | **76👍** **31👎** **2❓**
-* [HB 2020](hb/2020/) - Sustainable housing/GMA | **58👍** **5👎** **2❓**
+* [HB 1627](hb/1627/) - Water & sewage system access | *Executive Session Fri, Jan 28 8:00 am*
+* [HB 1684](hb/1684/) - Drinking water fluoridation | *Executive Session Fri, Jan 28 8:00 am* **209👍** **12👎** **2❓**
+* [HB 1714](hb/1714/) - Impact fee deferrals | *Executive Session Wed, Jan 26 10:00 am* **6👍** **2👎** **2❓**
+* [HB 1722](hb/1722/) - Broadband deployment | *Public Hearing Wed, Jan 26 10:00 am*
+* [HB 1743](hb/1743/) - Dispo. of remains/indigent | *Executive Session Wed, Jan 26 10:00 am*
+* [HB 1769](hb/1769/) - Community municipal corps | *Public Hearing Wed, Jan 26 10:00 am*
+* [HB 1811](hb/1811/) - Fire benefit charges | *Executive Session Fri, Jan 28 8:00 am* **7👍** **0👎** **0❓**
+* [HB 1832](hb/1832/) - Code city form of government | *Executive Session Fri, Jan 28 8:00 am* **6👍** **5👎** **0❓**
+* [HB 1925](hb/1925/) - County park infractions | *Executive Session Fri, Jan 28 8:00 am* **3👍** **0👎** **0❓**
+* [HB 1948](hb/1948/) - Failing water systems | *Executive Session Fri, Jan 28 8:00 am* **8👍** **2👎** **0❓**
+* [HB 1996](hb/1996/) - Stormwater facilities/county | *Public Hearing Wed, Jan 26 10:00 am*
+* [HB 2052](hb/2052/) - Comm. service org. contracts | *Executive Session Fri, Jan 28 8:00 am* **3👍** **0👎** **0❓**
+* [HB 2063](hb/2063/) - Incorporation/population | *Public Hearing Wed, Jan 26 10:00 am*
 
 
 <details>
@@ -1054,39 +1096,33 @@ Heard bills:
 * [HB 1144](hb/1144/) - Growth mngmt board standing
 * [HB 1150](hb/1150/) - Building code membership
 * [HB 1180](hb/1180/) - Public testimony
+* [HB 1232](hb/1232/) - GMA/affordable housing plans
 * [HB 1298](hb/1298/) - Accessory dwelling units
+* [HB 1337](hb/1337/) - Accessory dwelling units
 * [HB 1435](hb/1435/) - Bicycle tour permits
 * [HB 1458](hb/1458/) - Growth management act
-* [HB 1925](hb/1925/) - County park infractions
+* [HB 1782](hb/1782/) - Middle housing near transit
 * [HB 1952](hb/1952/) - Housing & services/location
-* [HB 1996](hb/1996/) - Stormwater facilities/county
+* [HB 1971](hb/1971/) - Smoke control systems
+* [HB 1981](hb/1981/) - Local government planning
 * [HB 2001](hb/2001/) - Tiny houses/GMA
+* [HB 2020](hb/2020/) - Sustainable housing/GMA
 * [HB 2049](hb/2049/) - Housing permitting
-* [HB 2052](hb/2052/) - Comm. service org. contracts
-* [HB 2063](hb/2063/) - Incorporation/population
 * [HB 2085](hb/2085/) - Temporary emergency shelters
 </details>
 
-### H Exec Action
-Active bills:
-* [HB 1162](hb/1162/) - High school graduation | *Executive Session Tue, Jan 25 8:00 am* **60👍** **4👎** **4❓**
-
-Heard bills:
-* [HB 1835](hb/1835/) - Postsecondary enrollment | **46👍** **0👎** **0❓**
-
+### H EDDP2S
 
 <details>
     <summary>Click to view inactive bills</summary>
 
-* [HB 1641](hb/1641/) - Custom farming, etc./tax
-* [HB 1765](hb/1765/) - Health benefit ex./B&O tax
+* [HB 1162](hb/1162/) - High school graduation
 </details>
 
 ### S Ag/Water/Natura
-Active bills:
-* [SB 5656](sb/5656/) - Fish and wildlife commission | *Public Hearing Tue, Jan 25 1:30 pm*
-* [SB 5661](sb/5661/) - Fish and wildlife commission | *Public Hearing Tue, Jan 25 1:30 pm*
-* [SB 5721](sb/5721/) - Natural resource management | *Public Hearing Tue, Jan 25 1:30 pm*
+Heard bills:
+* [SB 5656](sb/5656/) - Fish and wildlife commission | **3👍** **19👎** **0❓**
+* [SB 5661](sb/5661/) - Fish and wildlife commission | **4👍** **4👎** **0❓**
 
 
 <details>
@@ -1102,16 +1138,13 @@ Active bills:
 
 ### H ConsPro&Bus
 Active bills:
+* [HB 1389](hb/1389/) - Peer-to-peer vehicle sharing | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1801](hb/1801/) - Electronic equipment repair | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1930](hb/1930/) - Cosmetologists, etc/licenses | *Public Hearing Wed, Jan 26 8:00 am*
 * [HB 1951](hb/1951/) - Seller disclosure statements | *Public Hearing Thu, Jan 27 10:00 am*
-* [HB 1954](hb/1954/) - Tow trucks/transaction fees | *Executive Session Wed, Jan 26 8:00 am* **16👍** **11👎** **0❓**
-* [HB 1979](hb/1979/) - Vehicle insurance appraisals | *Executive Session Wed, Jan 26 8:00 am* **45👍** **13👎** **0❓**
+* [HB 1954](hb/1954/) - Tow trucks/transaction fees | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1979](hb/1979/) - Vehicle insurance appraisals | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 2059](hb/2059/) - Real estate agents | *Public Hearing Thu, Jan 27 10:00 am*
-
-Heard bills:
-* [HB 1389](hb/1389/) - Peer-to-peer vehicle sharing | **10👍** **0👎** **1❓**
-* [SB 5519](sb/5519/) - Accountancy/inactive license | **2👍** **0👎** **0❓**
-* [HB 1801](hb/1801/) - Electronic equipment repair | **8👍** **13👎** **0❓**
 
 
 <details>
@@ -1125,24 +1158,26 @@ Heard bills:
 * [HB 1403](hb/1403/) - License review and reporting
 * [HB 1428](hb/1428/) - Auto. insurance policies
 * [HB 1543](hb/1543/) - Consumer products
+* [SB 5519](sb/5519/) - Accountancy/inactive license
 </details>
 
 ### H Hous, Human Sv
 Active bills:
-* [HB 1592](hb/1592/) - Military spouse employment | *Executive Session Thu, Jan 27 1:30 pm* **50👍** **0👎** **0❓**
-* [HB 1738](hb/1738/) - Housing finance comm'n debt | *Executive Session Thu, Jan 27 1:30 pm* **87👍** **0👎** **0❓**
-* [HB 1818](hb/1818/) - Reentry and rehabilitation | *Executive Session Fri, Jan 28 10:00 am* **48👍** **0👎** **4❓**
-* [HB 1861](hb/1861/) - Future fund trust fund | *Executive Session Thu, Jan 27 1:30 pm* **21👍** **2👎** **0❓**
-* [HB 1880](hb/1880/) - Housing benefit districts | *Executive Session Thu, Jan 27 1:30 pm* **102👍** **2👎** **0❓**
-* [HB 1904](hb/1904/) - Tenants/rent & fees | *Executive Session Fri, Jan 28 10:00 am* **716👍** **696👎** **12❓**
-* [HB 1908](hb/1908/) - Surplus property for housing | *Executive Session Thu, Jan 27 1:30 pm* **21👍** **0👎** **0❓**
-* [HB 1947](hb/1947/) - Diaper subsidy/TANF | *Executive Session Fri, Jan 28 10:00 am* **317👍** **0👎** **0❓**
-* [HB 1966](hb/1966/) - Local infra. investment prg | *Executive Session Thu, Jan 27 1:30 pm* **1👍** **0👎** **0❓**
-* [HB 1987](hb/1987/) - Housing dept. task force | *Public Hearing Tue, Jan 25 8:00 am*
-* [HB 2008](hb/2008/) - Dev. disability programs/IQ | *Public Hearing Tue, Jan 25 8:00 am*
-* [HB 2010](hb/2010/) - Homeless budgets & audits | *Public Hearing Tue, Jan 25 8:00 am*
-* [HB 2017](hb/2017/) - Tenants/criminal record | *Public Hearing Tue, Jan 25 8:00 am*
+* [HB 1592](hb/1592/) - Military spouse employment | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1738](hb/1738/) - Housing finance comm'n debt | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1818](hb/1818/) - Reentry and rehabilitation | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1861](hb/1861/) - Future fund trust fund | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1880](hb/1880/) - Housing benefit districts | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1908](hb/1908/) - Surplus property for housing | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 1947](hb/1947/) - Diaper subsidy/TANF | *Executive Session Fri, Jan 28 10:00 am*
+* [HB 1966](hb/1966/) - Local infra. investment prg | *Executive Session Thu, Jan 27 1:30 pm*
+* [HB 2008](hb/2008/) - Dev. disability programs/IQ | *Executive Session Fri, Jan 28 10:00 am* **40👍** **2👎** **3❓**
+* [HB 2010](hb/2010/) - Homeless budgets & audits | *Executive Session Fri, Jan 28 10:00 am* **7👍** **0👎** **0❓**
 * [HB 2023](hb/2023/) - Landlord-tenant enforcement | *Public Hearing Fri, Jan 28 10:00 am*
+
+Heard bills:
+* [HB 1987](hb/1987/) - Housing dept. task force | **15👍** **33👎** **3❓**
+* [HB 2017](hb/2017/) - Tenants/criminal record | **671👍** **610👎** **6❓**
 
 
 <details>
@@ -1151,6 +1186,7 @@ Active bills:
 * [HB 1228](hb/1228/) - Landlord-tenant/COVID-19
 * [HB 1398](hb/1398/) - Housing/COVID-19
 * [HB 1511](hb/1511/) - Surplus property/housing
+* [HB 1904](hb/1904/) - Tenants/rent & fees
 * [HB 2009](hb/2009/) - Basic income trust
 * [HB 2048](hb/2048/) - TANF time limit extensions
 * [HB 2064](hb/2064/) - Residential tenant deposits
@@ -1159,22 +1195,16 @@ Active bills:
 
 ### H State Govt & T
 Active bills:
-* [HB 1653](hb/1653/) - Anadromous fish recovery | *Executive Session Wed, Jan 26 8:00 am* **50👍** **5👎** **3❓**
-* [HB 1876](hb/1876/) - Ballot measures/impact discl | *Executive Session Wed, Jan 26 8:00 am* **74👍** **229👎** **1❓**
+* [HB 1653](hb/1653/) - Anadromous fish recovery | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1727](hb/1727/) - Odd-numbered year elections | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1876](hb/1876/) - Ballot measures/impact discl | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1910](hb/1910/) - Conserv. district elections | *Public Hearing Thu, Jan 27 10:00 am*
-* [HB 1918](hb/1918/) - Power equipment emissions | *Executive Session Wed, Jan 26 8:00 am* **45👍** **36👎** **4❓**
-* [HB 1919](hb/1919/) - Public disclosure | *Executive Session Wed, Jan 26 8:00 am* **82👍** **35👎** **3❓**
-* [HB 1953](hb/1953/) - Sensitive voter information | *Executive Session Thu, Jan 27 10:00 am* **91👍** **0👎** **6❓**
-* [HB 1956](hb/1956/) - Incarcerated individuals/PRA | *Executive Session Thu, Jan 27 10:00 am* **66👍** **1👎** **0❓**
-* [HB 1997](hb/1997/) - Productivity board | *Executive Session Thu, Jan 27 10:00 am* **2👍** **0👎** **1❓**
+* [HB 1918](hb/1918/) - Power equipment emissions | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1919](hb/1919/) - Public disclosure | *Executive Session Wed, Jan 26 8:00 am*
+* [HB 1953](hb/1953/) - Sensitive voter information | *Executive Session Thu, Jan 27 10:00 am*
+* [HB 1956](hb/1956/) - Incarcerated individuals/PRA | *Executive Session Thu, Jan 27 10:00 am*
+* [HB 1997](hb/1997/) - Productivity board | *Executive Session Thu, Jan 27 10:00 am*
 * [HB 2046](hb/2046/) - Legislative activity ethics | *Public Hearing Wed, Jan 26 8:00 am*
-
-Heard bills:
-* [HB 1485](hb/1485/) - Women's Suffrage Day | **18👍** **0👎** **1❓**
-* [HB 1552](hb/1552/) - Personal data/state agencies | **1👍** **6👎** **3❓**
-* [HB 1640](hb/1640/) - Tribal-state committee | **2👍** **0👎** **0❓**
-* [HB 1652](hb/1652/) - Conserv. district elections | **56👍** **1👎** **0❓**
-* [HB 1727](hb/1727/) - Odd-numbered year elections | **238👍** **533👎** **4❓**
 
 
 <details>
@@ -1185,13 +1215,17 @@ Heard bills:
 * [HB 1324](hb/1324/) - Legislative transparency
 * [HB 1436](hb/1436/) - Regulations/health crises
 * [HB 1475](hb/1475/) - Foreign nationals/campaigns
+* [HB 1485](hb/1485/) - Women's Suffrage Day
 * [HB 1506](hb/1506/) - Ballot integrity
 * [HB 1547](hb/1547/) - Civil penalties/COVID-19
+* [HB 1552](hb/1552/) - Personal data/state agencies
 * [HB 1553](hb/1553/) - "Open safe, open now" plan
 * [HB 1557](hb/1557/) - Gubernatorial proclamations
 * [HB 1566](hb/1566/) - Legislature/disabilities
 * [HB 1587](hb/1587/) - State boundary lines
 * [HB 1628](hb/1628/) - Voter pamphlet statements
+* [HB 1640](hb/1640/) - Tribal-state committee
+* [HB 1652](hb/1652/) - Conserv. district elections
 * [HB 1693](hb/1693/) - Home school day
 * [HB 1695](hb/1695/) - Legislature op. procedures
 * [HB 1696](hb/1696/) - Legislative facility access
@@ -1210,26 +1244,20 @@ Heard bills:
 * [HB 2005](hb/2005/) - Election activity recording
 * [HB 2044](hb/2044/) - Ransomware protection
 * [HB 2081](hb/2081/) - Voter reg./firearm app.
+* [HB 2092](hb/2092/) - Procurement/lead times
 </details>
 
 ### H Children, Yout
 Active bills:
-* [HB 1665](hb/1665/) - DCYF oversight board members | *Executive Session Thu, Jan 27 10:00 am* **14👍** **0👎** **0❓**
-* [HB 1747](hb/1747/) - Child relative placements | *Executive Session Thu, Jan 27 10:00 am* **49👍** **0👎** **1❓**
+* [HB 1747](hb/1747/) - Child relative placements | *Executive Session Thu, Jan 27 10:00 am*
 * [HB 1843](hb/1843/) - Child care licensing | *Public Hearing Wed, Jan 26 8:00 am*
-* [HB 1894](hb/1894/) - Juvenile diversion/period | *Executive Session Thu, Jan 27 10:00 am* **16👍** **0👎** **0❓**
-* [HB 1905](hb/1905/) - Homelessness/youth discharge | *Executive Session Wed, Jan 26 8:00 am* **130👍** **0👎** **0❓**
+* [HB 1894](hb/1894/) - Juvenile diversion/period | *Executive Session Thu, Jan 27 10:00 am*
+* [HB 1905](hb/1905/) - Homelessness/youth discharge | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1920](hb/1920/) - Child abuse/res. facilities | *Public Hearing Wed, Jan 26 8:00 am*
-* [HB 1936](hb/1936/) - DCYF oversight board members | *Executive Session Wed, Jan 26 8:00 am* **4👍** **0👎** **0❓**
+* [HB 1936](hb/1936/) - DCYF oversight board members | *Executive Session Wed, Jan 26 8:00 am*
 * [HB 1945](hb/1945/) - DCYF-caregiver communication | *Public Hearing Wed, Jan 26 8:00 am*
-* [HB 1989](hb/1989/) - Comm. sexual exploitation | *Executive Session Thu, Jan 27 10:00 am* **104👍** **1👎** **9❓**
-* [HB 2034](hb/2034/) - Juvenile records | *Executive Session Thu, Jan 27 10:00 am* **63👍** **2👎** **2❓**
 * [HB 2038](hb/2038/) - Child welfare services | *Public Hearing Wed, Jan 26 8:00 am*
-* [HB 2050](hb/2050/) - Parent pay/child detention | *Executive Session Thu, Jan 27 10:00 am* **21👍** **0👎** **0❓**
-
-Heard bills:
-* [HB 1883](hb/1883/) - Youth lifeline | **59👍** **1👎** **0❓**
-* [HB 1897](hb/1897/) - Juvenile rehab./parent costs | **46👍** **0👎** **0❓**
+* [HB 2050](hb/2050/) - Parent pay/child detention | *Executive Session Thu, Jan 27 10:00 am*
 
 
 <details>
@@ -1240,47 +1268,47 @@ Heard bills:
 * [HB 1454](hb/1454/) - Unlicensed child care
 * [HB 1559](hb/1559/) - Juveniles/controlled subst.
 * [HB 1658](hb/1658/) - DCYF/equality principles
+* [HB 1665](hb/1665/) - DCYF oversight board members
+* [HB 1883](hb/1883/) - Youth lifeline
+* [HB 1897](hb/1897/) - Juvenile rehab./parent costs
 * [HB 1903](hb/1903/) - Parent-child relationship
 * [HB 1923](hb/1923/) - Parent-child relationship
 * [HB 1944](hb/1944/) - Child welfare/supervision
+* [HB 1989](hb/1989/) - Comm. sexual exploitation
+* [HB 2034](hb/2034/) - Juvenile records
 * [HB 2068](hb/2068/) - Imagination library
 * [HB 2082](hb/2082/) - Child care deserts report
 </details>
 
-### H HHSVDPS
-Heard bills:
-* [HB 1300](hb/1300/) - Landlord damage claims | **114👍** **111👎** **3❓**
-* [HB 1593](hb/1593/) - Landlord mitigation/victims | **94👍** **0👎** **0❓**
-* [HB 1724](hb/1724/) - Supportive housing resources | **43👍** **0👎** **2❓**
-
-### S Housing & Local
+### S Environment, En
 Active bills:
-* [SB 5742](sb/5742/) - Stormwater facilities/county | *Public Hearing Tue, Jan 25 8:00 am*
+* [SB 5544](sb/5544/) - Blockchain work group | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5678](sb/5678/) - Energy project orders | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5715](sb/5715/) - Definition of broadband | *Public Hearing Wed, Jan 26 8:00 am*
+* [SB 5732](sb/5732/) - Green roofs | *Public Hearing Wed, Jan 26 8:00 am*
 
 Heard bills:
-* [SB 5513](sb/5513/) - Lodging taxes/housing | **20👍** **96👎** **2❓**
-* [SB 5593](sb/5593/) - Urban growth area boundaries | **24👍** **1👎** **1❓**
-* [SB 5621](sb/5621/) - Water & sewage/intergov. | **5👍** **1👎** **2❓**
-* [SB 5757](sb/5757/) - Multifamily properties/REET | **3👍** **0👎** **0❓**
-* [SB 5758](sb/5758/) - Condominium conversions | **9👍** **4👎** **2❓**
-* [SB 5759](sb/5759/) - Housing tax credit program | **3👍** **0👎** **1❓**
+* [SB 5525](sb/5525/) - Water quality actions | **9👍** **3👎** **0❓**
+* [SB 5533](sb/5533/) - Online marketplaces | **8👍** **6👎** **2❓**
 
 
 <details>
     <summary>Click to view inactive bills</summary>
 
-* [HB 1333](hb/1333/) - Rural public facilities/tax
-* [SB 5314](sb/5314/) - GMA/standing & science
-* [SB 5556](sb/5556/) - Eviction moratorium/lodging
-* [SB 5574](sb/5574/) - New counties
-* [SB 5591](sb/5591/) - Emergency housing & shelters
-* [SB 5642](sb/5642/) - Affordable housing/REET
-* [SB 5685](sb/5685/) - Urban growth area boundaries
+* [HB 1280](hb/1280/) - Greenhouse gas/facilities
+* [SB 5104](sb/5104/) - Facial recog. moratorium
+* [SB 5474](sb/5474/) - Agency data backup/disasters
+* [SB 5493](sb/5493/) - Residential renewable energy
+* [SB 5494](sb/5494/) - Olefins from natural gas
+* [SB 5669](sb/5669/) - Energy codes
+* [SB 5697](sb/5697/) - Recycling system & waste
+* [SB 5731](sb/5731/) - Organic materials management
+* [SB 5895](sb/5895/) - Remedial action grants
 </details>
 
 ### H Comm & Econ Dev
 Active bills:
-* [HB 1538](hb/1538/) - Aviation & aerospace cmte. | *Public Hearing Tue, Jan 25 10:00 am*
+* [HB 1538](hb/1538/) - Aviation & aerospace cmte. | *Executive Session Fri, Jan 28 8:00 am* **13👍** **0👎** **1❓**
 
 
 <details>
@@ -1290,28 +1318,12 @@ Active bills:
 </details>
 
 ### H Commerce & Gami
-Active bills:
-* [HB 2025](hb/2025/) - Bingo gambling activities | *Public Hearing Thu, Jan 27 1:30 pm*
-
 
 <details>
     <summary>Click to view inactive bills</summary>
 
 * [HB 1359](hb/1359/) - Liquor license fees
-* [HB 1667](hb/1667/) - Cannabis business ownership
 </details>
-
-### H 2nd Reading
-
-<details>
-    <summary>Click to view inactive bills</summary>
-
-* [HB 1486](hb/1486/) - Unemployment/voluntary
-</details>
-
-### H CPBDPS
-Heard bills:
-* [HB 1497](hb/1497/) - Telephone solicitation | **26👍** **0👎** **2❓**
 
 ### H Children, Youth
 
@@ -1321,34 +1333,28 @@ Heard bills:
 * [HB 1549](hb/1549/) - Child care licensing assist.
 </details>
 
-### H PSDPS
-Heard bills:
-* [HB 1571](hb/1571/) - Indigenous persons/services | **36👍** **0👎** **2❓**
-* [HB 1735](hb/1735/) - Peace officers/use of force | **357👍** **2👎** **4❓**
-* [HB 1756](hb/1756/) - Solitary confinement | **283👍** **3👎** **5❓**
+### H Exec Action
 
-### H LAWSDP
-Heard bills:
-* [HB 1612](hb/1612/) - Unemployment ins./technical | **12👍** **0👎** **0❓**
-* [HB 1613](hb/1613/) - Employer reports/private | **14👍** **0👎** **0❓**
-* [HB 1625](hb/1625/) - Space force reserve members | **13👍** **0👎** **0❓**
-* [HB 1771](hb/1771/) - Child care bargaining | **336👍** **0👎** **11❓**
+<details>
+    <summary>Click to view inactive bills</summary>
 
-### H CRJDPS
-Heard bills:
-* [HB 1630](hb/1630/) - Weapons/certain meetings | **422👍** **665👎** **0❓**
+* [HB 1626](hb/1626/) - WDFW electronic licensing
+* [HB 1647](hb/1647/) - Building for the arts
+* [HB 1649](hb/1649/) - WDFW disabilities adv. comm.
+* [HB 1661](hb/1661/) - Kelp & eelgrass conservation
+* [HB 1668](hb/1668/) - Marijuana products
+* [HB 1789](hb/1789/) - Adult family homes/prop. tax
+* [HB 1837](hb/1837/) - Musculoskeletal injuries
+</details>
 
-### H LGDPS
-Heard bills:
-* [HB 1660](hb/1660/) - Accessory dwelling units | **14👍** **5👎** **3❓**
+### H FINDP
 
-### H EDDPS
-Heard bills:
-* [HB 1664](hb/1664/) - Schools/support funding | **124👍** **1👎** **1❓**
+<details>
+    <summary>Click to view inactive bills</summary>
 
-### H COGDPS
-Heard bills:
-* [HB 1710](hb/1710/) - Cannabis commission | **40👍** **7👎** **4❓**
+* [HB 1641](hb/1641/) - Custom farming, etc./tax
+* [HB 1765](hb/1765/) - Health benefit ex./B&O tax
+</details>
 
 ### H Filed Sec/St
 
@@ -1365,25 +1371,20 @@ Heard bills:
 
 ### S Labor, Comm &
 Active bills:
+* [SB 5517](sb/5517/) - Cannabis/employment | *Executive Session Wed, Jan 26 10:30 am*
 * [SB 5627](sb/5627/) - Workers' comp. exam rights | *Public Hearing Wed, Jan 26 10:30 am*
+* [SB 5649](sb/5649/) - Family and medical leave | *Executive Session Wed, Jan 26 10:30 am*
+* [SB 5699](sb/5699/) - Cannabis analysis labs | *Executive Session Wed, Jan 26 10:30 am*
+* [SB 5706](sb/5706/) - Community reinvestment | *Executive Session Wed, Jan 26 10:30 am*
+* [SB 5761](sb/5761/) - Wage and salary information | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5773](sb/5773/) - Legislature/bargaining | *Executive Session Thu, Jan 27 8:00 am*
 * [SB 5784](sb/5784/) - Psychologists as attendings | *Public Hearing Wed, Jan 26 10:30 am*
+* [SB 5796](sb/5796/) - Cannabis revenue | *Executive Session Wed, Jan 26 10:30 am*
 * [SB 5801](sb/5801/) - Industrial insurance appeals | *Public Hearing Wed, Jan 26 10:30 am*
+* [SB 5875](sb/5875/) - Driver license employees | *Executive Session Thu, Jan 27 8:00 am*
 * [SB 5890](sb/5890/) - Radiological waste workers | *Public Hearing Wed, Jan 26 10:30 am*
 * [SB 5891](sb/5891/) - Warehouse dist. centers | *Public Hearing Thu, Jan 27 8:00 am*
 * [SB 5911](sb/5911/) - Health care hazard pay bonus | *Public Hearing Thu, Jan 27 8:00 am*
-
-Heard bills:
-* [SB 5517](sb/5517/) - Cannabis/employment | **27👍** **39👎** **4❓**
-* [SB 5599](sb/5599/) - Journey level electricians | **19👍** **3👎** **4❓**
-* [SB 5600](sb/5600/) - Apprenticeship programs | **38👍** **25👎** **6❓**
-* [SB 5649](sb/5649/) - Family and medical leave | **64👍** **18👎** **3❓**
-* [SB 5699](sb/5699/) - Cannabis analysis labs | **14👍** **1👎** **0❓**
-* [SB 5706](sb/5706/) - Community reinvestment | **32👍** **2👎** **1❓**
-* [SB 5751](sb/5751/) - Health care staffing | **78👍** **184👎** **0❓**
-* [SB 5767](sb/5767/) - Hemp-derived cannabinoids | **17👍** **32👎** **0❓**
-* [SB 5773](sb/5773/) - Legislature/bargaining | **148👍** **7👎** **1❓**
-* [SB 5796](sb/5796/) - Cannabis revenue | **30👍** **0👎** **1❓**
-* [SB 5875](sb/5875/) - Driver license employees | **35👍** **0👎** **1❓**
 
 
 <details>
@@ -1406,7 +1407,9 @@ Heard bills:
 * [SB 5438](sb/5438/) - Unemployment/immigration
 * [SB 5477](sb/5477/) - Winery workforce development
 * [SB 5479](sb/5479/) - Beverage alcohol/workforce
-* [SB 5761](sb/5761/) - Wage and salary information
+* [SB 5599](sb/5599/) - Journey level electricians
+* [SB 5751](sb/5751/) - Health care staffing
+* [SB 5767](sb/5767/) - Hemp-derived cannabinoids
 * [SB 5783](sb/5783/) - Underground economy
 * [SB 5835](sb/5835/) - Workers' compensation
 * [SB 5864](sb/5864/) - Unemployment/unvaccinated
@@ -1417,44 +1420,15 @@ Heard bills:
 ### S Ways & Means
 Active bills:
 * [SB 5033](sb/5033/) - Accessory dwelling units/tax | *Public Hearing Thu, Jan 27 4:00 pm*
-* [SB 5116](sb/5116/) - Procurement/automated system | *Public Hearing Tue, Jan 25 4:00 pm* **53👍** **2👎** **2❓**
-* [SB 5505](sb/5505/) - Farmers market prop. tax ex. | *Public Hearing Tue, Jan 25 4:00 pm*
+* [SB 5380](sb/5380/) - Building permit approval | *Executive Session Thu, Jan 27 4:00 pm*
+* [SB 5411](sb/5411/) - Northern spotted owl forests | *Executive Session Thu, Jan 27 4:00 pm*
+* [SB 5505](sb/5505/) - Farmers market prop. tax ex. | *Executive Session Thu, Jan 27 4:00 pm* **87👍** **0👎** **1❓**
+* [SB 5530](sb/5530/) - Building for the arts | *Executive Session Thu, Jan 27 4:00 pm*
 * [SB 5539](sb/5539/) - Ed. service district funding | *Public Hearing Thu, Jan 27 4:00 pm*
 * [SB 5562](sb/5562/) - ESD employee health care | *Public Hearing Thu, Jan 27 4:00 pm*
-* [SB 5566](sb/5566/) - Independent youth housing | *Public Hearing Thu, Jan 27 4:00 pm* **27👍** **0👎** **0❓**
-* [HB 1732](hb/1732/) - Long-term care/delay | *Executive Session Tue, Jan 25 4:00 pm* **731👍** **4👎** **18❓**
-* [HB 1733](hb/1733/) - Long-term care/exemptions | *Executive Session Tue, Jan 25 4:00 pm* **86👍** **0👎** **7❓**
+* [SB 5566](sb/5566/) - Independent youth housing | *Public Hearing Thu, Jan 27 4:00 pm*
 * [SB 5652](sb/5652/) - LEOFF benefits | *Executive Session Thu, Jan 27 4:00 pm*
-* [SB 5800](sb/5800/) - Tax and revenue laws | *Public Hearing Tue, Jan 25 4:00 pm*
-* [SB 5913](sb/5913/) - Property tax/senior, veteran | *Public Hearing Tue, Jan 25 8:00 am*
-
-Heard bills:
-* [SB 5380](sb/5380/) - Building permit approval | **45👍** **0👎** **0❓**
-* [SB 5411](sb/5411/) - Northern spotted owl forests | **8👍** **0👎** **0❓**
-* [SB 5487](sb/5487/) - School consolid. incentives | **0👍** **7👎** **2❓**
-* [SB 5530](sb/5530/) - Building for the arts | **241👍** **0👎** **0❓**
-* [SB 5534](sb/5534/) - Verifiable credentials | **14👍** **0👎** **1❓**
-* [SB 5535](sb/5535/) - Juvenile rehab./parent costs | **26👍** **0👎** **0❓**
-* [SB 5543](sb/5543/) - Landscaping equipment | **133👍** **3👎** **1❓**
-* [SB 5563](sb/5563/) - Enrollment stabilization | **106👍** **12👎** **1❓**
-* [SB 5567](sb/5567/) - Commercial salmon fishing | **17👍** **5👎** **3❓**
-* [SB 5573](sb/5573/) - Drug offender sentencing alt | **14👍** **11👎** **2❓**
-* [SB 5575](sb/5575/) - Snohomish county/judges | **7👍** **0👎** **0❓**
-* [SB 5581](sb/5581/) - Pupil transp. allocations | **63👍** **0👎** **0❓**
-* [SB 5588](sb/5588/) - Reentry & discharge planning | **53👍** **0👎** **1❓**
-* [SB 5592](sb/5592/) - Cost of supervision | **11👍** **1👎** **0❓**
-* [SB 5595](sb/5595/) - Schools/support funding | **134👍** **2👎** **3❓**
-* [SB 5620](sb/5620/) - Medicaid expenditures | **4👍** **0👎** **1❓**
-* [SB 5626](sb/5626/) - Water system plans/climate | **14👍** **0👎** **2❓**
-* [SB 5651](sb/5651/) - Capital budget, supplemental | **78👍** **1👎** **1❓**
-* [SB 5654](sb/5654/) - Health benefit ex./B&O tax | **12👍** **0👎** **0❓**
-* [SB 5692](sb/5692/) - Corrections programming | **4👍** **4👎** **2❓**
-* [SB 5693](sb/5693/) - Operating budget, supp. | **125👍** **1👎** **21❓**
-* [SB 5728](sb/5728/) - Drug forfeiture collections | **5👍** **0👎** **0❓**
-* [SB 5746](sb/5746/) - Drought preparedness | **15👍** **0👎** **0❓**
-* [SB 5776](sb/5776/) - Criminal justice data | **8👍** **1👎** **4❓**
-* [SB 5793](sb/5793/) - State boards, etc./stipends | **126👍** **1👎** **1❓**
-* [SB 5873](sb/5873/) - Unempl. & leave premiums | **10👍** **0👎** **0❓**
+* [SB 5800](sb/5800/) - Tax and revenue laws | *Executive Session Thu, Jan 27 4:00 pm* **2👍** **0👎** **1❓**
 
 
 <details>
@@ -1467,6 +1441,7 @@ Heard bills:
 * [SB 5091](sb/5091/) - Operating budget, 2nd supp.
 * [SB 5102](sb/5102/) - Workers' comp medical exam
 * [SB 5105](sb/5105/) - Office of equity task force
+* [SB 5116](sb/5116/) - Procurement/automated system
 * [SB 5117](sb/5117/) - Rental vouchers/offenders
 * [SB 5136](sb/5136/) - Child care license fees
 * [SB 5149](sb/5149/) - Found. public health funding
@@ -1518,12 +1493,33 @@ Heard bills:
 * [SB 5463](sb/5463/) - Residential prop valuation
 * [SB 5466](sb/5466/) - Sales tax/transp. projects
 * [SB 5467](sb/5467/) - Highway projects/tax exempt.
+* [SB 5487](sb/5487/) - School consolid. incentives
+* [SB 5534](sb/5534/) - Verifiable credentials
+* [SB 5535](sb/5535/) - Juvenile rehab./parent costs
+* [SB 5543](sb/5543/) - Landscaping equipment
+* [SB 5563](sb/5563/) - Enrollment stabilization
+* [SB 5567](sb/5567/) - Commercial salmon fishing
+* [SB 5573](sb/5573/) - Drug offender sentencing alt
+* [SB 5575](sb/5575/) - Snohomish county/judges
 * [SB 5578](sb/5578/) - Public infra./tax valuation
+* [SB 5581](sb/5581/) - Pupil transp. allocations
+* [SB 5588](sb/5588/) - Reentry & discharge planning
+* [SB 5592](sb/5592/) - Cost of supervision
+* [SB 5595](sb/5595/) - Schools/support funding
+* [SB 5600](sb/5600/) - Apprenticeship programs
 * [SB 5616](sb/5616/) - Accounts
+* [SB 5620](sb/5620/) - Medicaid expenditures
 * [SJR 8200](sjr/8200/) - Long-term care investments
 * [SJR 8204](sjr/8204/) - School district bond voting
 * [SJR 8206](sjr/8206/) - Homestead property tax exem.
 * [SJR 8208](sjr/8208/) - Car purchase taxes
+* [HB 1732](hb/1732/) - Long-term care/delay
+* [HB 1733](hb/1733/) - Long-term care/exemptions
+* [SB 5626](sb/5626/) - Water system plans/climate
+* [SB 5651](sb/5651/) - Capital budget, supplemental
+* [SB 5654](sb/5654/) - Health benefit ex./B&O tax
+* [SB 5692](sb/5692/) - Corrections programming
+* [SB 5693](sb/5693/) - Operating budget, supp.
 * [SB 5696](sb/5696/) - Capital gains tax/repeal
 * [SB 5698](sb/5698/) - Plan 1 retiree COLAs
 * [SB 5700](sb/5700/) - Plan 2 members/insurance
@@ -1531,8 +1527,14 @@ Heard bills:
 * [SB 5705](sb/5705/) - SR 167 & I-405 tax deferral
 * [SB 5718](sb/5718/) - School employees/insurance
 * [SB 5719](sb/5719/) - Dual credit costs
+* [SB 5728](sb/5728/) - Drug forfeiture collections
 * [SB 5740](sb/5740/) - Highway litter control funds
+* [SB 5746](sb/5746/) - Drought preparedness
+* [SB 5776](sb/5776/) - Criminal justice data
 * [SB 5791](sb/5791/) - LEOFF benefits
+* [SB 5793](sb/5793/) - State boards, etc./stipends
+* [SB 5873](sb/5873/) - Unempl. & leave premiums
+* [SB 5913](sb/5913/) - Property tax/senior, veteran
 * [SB 5915](sb/5915/) - Diapers/sales & use tax
 * [SB 5921](sb/5921/) - County timber tax distrib.
 * [SB 5924](sb/5924/) - Tax penalties
@@ -1543,22 +1545,19 @@ Heard bills:
 
 ### S Environment, E
 Active bills:
-* [SB 5786](sb/5786/) - Puget Sound nutrient permits | *Public Hearing Tue, Jan 25 10:30 am*
+* [SB 5590](sb/5590/) - Marine resources ad. council | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5714](sb/5714/) - Solar canopies tax deferral | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5747](sb/5747/) - Statewide oil spill plan | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5803](sb/5803/) - Wildfires/electric utilities | *Public Hearing Thu, Jan 27 10:30 am*
 * [SB 5842](sb/5842/) - Climate change | *Public Hearing Wed, Jan 26 8:00 am*
-* [SB 5857](sb/5857/) - Toxics control accts/water | *Public Hearing Tue, Jan 25 10:30 am*
-* [SB 5876](sb/5876/) - Noise/essential services | *Public Hearing Tue, Jan 25 10:30 am*
-* [SB 5885](sb/5885/) - Marine shoreline habitat | *Executive Session Tue, Jan 25 10:30 am*
+* [SB 5885](sb/5885/) - Marine shoreline habitat | *Public Hearing Thu, Jan 27 1:30 pm*
 * [SB 5910](sb/5910/) - Hydrogen | *Public Hearing Wed, Jan 26 8:00 am*
 
 Heard bills:
-* [SB 5492](sb/5492/) - Wind turbine blade recycling | **23👍** **2👎** **1❓**
-* [SB 5590](sb/5590/) - Marine resources ad. council | **16👍** **0👎** **0❓**
-* [SB 5658](sb/5658/) - Recyclability | **89👍** **12👎** **14❓**
-* [SB 5666](sb/5666/) - Targeted electrification | **257👍** **64👎** **1❓**
-* [SB 5744](sb/5744/) - Clean tech. tax deferrals | **36👍** **5👎** **2❓**
-* [SB 5747](sb/5747/) - Statewide oil spill plan | **11👍** **0👎** **0❓**
-* [SB 5813](sb/5813/) - Data privacy | **1👍** **27👎** **17❓**
-* [SB 5834](sb/5834/) - State gov. tech. policies | **2👍** **0👎** **1❓**
+* [SB 5786](sb/5786/) - Puget Sound nutrient permits | **0👍** **0👎** **4❓**
+* [SB 5834](sb/5834/) - State gov. tech. policies | **1👍** **0👎** **1❓**
+* [SB 5857](sb/5857/) - Toxics control accts/water | **3👍** **17👎** **0❓**
+* [SB 5876](sb/5876/) - Noise/essential services | **8👍** **4👎** **2❓**
 
 
 <details>
@@ -1586,16 +1585,19 @@ Heard bills:
 * [SB 5470](sb/5470/) - Internet data caps/emergency
 * [SB 5472](sb/5472/) - Utility customers/COVID-19
 * [SB 5480](sb/5480/) - Cosmetic products/chemicals
+* [SB 5492](sb/5492/) - Wind turbine blade recycling
 * [SB 5500](sb/5500/) - Litter pickup during closure
 * [SB 5587](sb/5587/) - Drinking water fluoridation
+* [SB 5658](sb/5658/) - Recyclability
+* [SB 5666](sb/5666/) - Targeted electrification
 * [SB 5668](sb/5668/) - Gas companies
 * [SB 5703](sb/5703/) - Cosmetic products/chemicals
-* [SB 5714](sb/5714/) - Solar canopies tax deferral
 * [SB 5717](sb/5717/) - Compost products
 * [SB 5722](sb/5722/) - Greenhouse gases/buildings
+* [SB 5744](sb/5744/) - Clean tech. tax deferrals
 * [SB 5775](sb/5775/) - Broadband deployment
 * [SB 5795](sb/5795/) - Product servicing and repair
-* [SB 5803](sb/5803/) - Wildfires/electric utilities
+* [SB 5813](sb/5813/) - Data privacy
 * [SB 5837](sb/5837/) - Retail carryout bags
 * [SB 5852](sb/5852/) - Biodegradable product labels
 * [SB 5872](sb/5872/) - Power plants/greenhouse gas
@@ -1652,28 +1654,21 @@ Heard bills:
 
 ### S Transportation
 Active bills:
-* [SB 5406](sb/5406/) - Tow truck operator comp. | *Public Hearing Tue, Jan 25 4:00 pm*
-* [SB 5635](sb/5635/) - Tow truck safety | *Public Hearing Tue, Jan 25 4:00 pm*
+* [SB 5510](sb/5510/) - Transp. benefit district tax | *Executive Session Thu, Jan 27 4:00 pm*
+* [SB 5558](sb/5558/) - Interstate toll bridges | *Executive Session Thu, Jan 27 4:00 pm*
+* [SB 5631](sb/5631/) - CDLs/human trafficking | *Executive Session Thu, Jan 27 4:00 pm*
+* [SB 5673](sb/5673/) - Bridge jumping signs | *Executive Session Thu, Jan 27 4:00 pm*
+* [SB 5707](sb/5707/) - Traffic safety cameras | *Executive Session Thu, Jan 27 4:00 pm*
 * [SB 5741](sb/5741/) - Patches pal license plates | *Public Hearing Thu, Jan 27 4:00 pm*
 * [SB 5778](sb/5778/) - Vehicle inspection backlog | *Public Hearing Thu, Jan 27 4:00 pm*
 * [SB 5815](sb/5815/) - Identicards | *Public Hearing Thu, Jan 27 4:00 pm*
 * [SB 5853](sb/5853/) - DOT property leasing | *Public Hearing Thu, Jan 27 4:00 pm*
-* [SB 5863](sb/5863/) - RTA vehicle removal | *Public Hearing Tue, Jan 25 4:00 pm*
-* [SB 5907](sb/5907/) - Roadside safety | *Public Hearing Tue, Jan 25 4:00 pm*
 
 Heard bills:
-* [SB 5332](sb/5332/) - Wheeled ATV equipment | **30👍** **0👎** **0❓**
-* [SB 5510](sb/5510/) - Transp. benefit district tax | **55👍** **0👎** **1❓**
-* [SB 5528](sb/5528/) - RTA additive revenue | **929👍** **2👎** **0❓**
-* [SB 5558](sb/5558/) - Interstate toll bridges | **11👍** **0👎** **0❓**
-* [SB 5631](sb/5631/) - CDLs/human trafficking | **9👍** **0👎** **0❓**
-* [SB 5673](sb/5673/) - Bridge jumping signs | **13👍** **0👎** **1❓**
-* [SB 5687](sb/5687/) - Traffic safety | **66👍** **0👎** **1❓**
-* [SB 5689](sb/5689/) - Transportation budget, supp. | **28👍** **0👎** **7❓**
-* [SB 5707](sb/5707/) - Traffic safety cameras | **39👍** **0👎** **0❓**
-* [SB 5739](sb/5739/) - Large debris litter | **2👍** **1👎** **1❓**
-* [SB 5750](sb/5750/) - WA state leadership board | **21👍** **0👎** **0❓**
-* [SB 5898](sb/5898/) - Vehicle fees/state bonds | **20👍** **2👎** **0❓**
+* [SB 5406](sb/5406/) - Tow truck operator comp. | **13👍** **0👎** **0❓**
+* [SB 5635](sb/5635/) - Tow truck safety | **37👍** **2👎** **0❓**
+* [SB 5863](sb/5863/) - RTA vehicle removal | **22👍** **0👎** **0❓**
+* [SB 5907](sb/5907/) - Roadside safety | **31👍** **0👎** **1❓**
 
 
 <details>
@@ -1686,19 +1681,26 @@ Heard bills:
 * [SB 5167](sb/5167/) - Credit card costs recovery
 * [SB 5270](sb/5270/) - DOL issued documents
 * [SB 5308](sb/5308/) - Hybrid vehicle fees
+* [SB 5332](sb/5332/) - Wheeled ATV equipment
 * [SB 5435](sb/5435/) - Parking spaces/disability
 * [SB 5457](sb/5457/) - Transportation demand
 * [SB 5465](sb/5465/) - Road maintenance/planning
 * [SB 5485](sb/5485/) - Traffic stops
 * [SB 5488](sb/5488/) - Tacoma Narrows project
+* [SB 5528](sb/5528/) - RTA additive revenue
 * [SB 5603](sb/5603/) - SR 2 corridor study
 * [SB 5622](sb/5622/) - Motorcycles on laned roads
 * [SJR 8207](sjr/8207/) - Revenue for highway purposes
+* [SB 5687](sb/5687/) - Traffic safety
+* [SB 5689](sb/5689/) - Transportation budget, supp.
 * [SB 5724](sb/5724/) - Organ transport vehicles
 * [SB 5726](sb/5726/) - Military service credit
 * [SB 5738](sb/5738/) - Vehicle licensing options
+* [SB 5739](sb/5739/) - Large debris litter
+* [SB 5750](sb/5750/) - WA state leadership board
 * [SB 5828](sb/5828/) - Autonomous vehicles
 * [SB 5897](sb/5897/) - Fuel tax suspension
+* [SB 5898](sb/5898/) - Vehicle fees/state bonds
 * [SB 5899](sb/5899/) - SR 520 sales tax deferral
 * [SB 5903](sb/5903/) - Drive-up services/multimodal
 * [SB 5930](sb/5930/) - Tribal exchange agreements
@@ -1707,18 +1709,6 @@ Heard bills:
 </details>
 
 ### S 2nd Reading
-Heard bills:
-* [SB 5490](sb/5490/) - Interbranch advisory comm. | **1👍** **0👎** **1❓**
-* [SB 5496](sb/5496/) - Health prof. monitoring | **17👍** **0👎** **0❓**
-* [SB 5508](sb/5508/) - Insurance guaranty fund | **17👍** **1👎** **0❓**
-* [SB 5512](sb/5512/) - State nickname | **1👍** **2👎** **0❓**
-* [SB 5514](sb/5514/) - County legislative meetings | **6👍** **0👎** **0❓**
-* [SB 5529](sb/5529/) - Self-directed care | **10👍** **0👎** **0❓**
-* [SB 5548](sb/5548/) - Child custody transfers | **3👍** **0👎** **2❓**
-* [SB 5565](sb/5565/) - Fire district treasurers | **5👍** **0👎** **0❓**
-* [SB 5607](sb/5607/) - Homeless census/facilities | **7👍** **0👎** **1❓**
-* [SB 5634](sb/5634/) - UTC regulatory fees | **7👍** **1👎** **1❓**
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -1730,8 +1720,18 @@ Heard bills:
 * [SB 5130](sb/5130/) - Personnel files & discipline
 * [SB 5326](sb/5326/) - School bus driver benefits
 * [SB 5428](sb/5428/) - SEPA/shelters & encampments
+* [SB 5490](sb/5490/) - Interbranch advisory comm.
+* [SB 5496](sb/5496/) - Health prof. monitoring
 * [SB 5499](sb/5499/) - Hemodialysis technicians
+* [SB 5508](sb/5508/) - Insurance guaranty fund
+* [SB 5512](sb/5512/) - State nickname
+* [SB 5514](sb/5514/) - County legislative meetings
 * [SB 5518](sb/5518/) - OT licensure compact
+* [SB 5529](sb/5529/) - Self-directed care
+* [SB 5548](sb/5548/) - Child custody transfers
+* [SB 5565](sb/5565/) - Fire district treasurers
+* [SB 5607](sb/5607/) - Homeless census/facilities
+* [SB 5634](sb/5634/) - UTC regulatory fees
 </details>
 
 ### S 3rd Reading
@@ -1750,21 +1750,10 @@ Heard bills:
 
 ### S EL/K-12
 Active bills:
-* [SB 5497](sb/5497/) - Board of ed. student members | *Executive Session Fri, Jan 28 8:00 am* **39👍** **2👎** **0❓**
-
-Heard bills:
-* [SB 5537](sb/5537/) - Compulsory school attendance | **51👍** **1261👎** **0❓**
-* [SB 5720](sb/5720/) - Student financial literacy | **38👍** **1👎** **1❓**
-* [SB 5734](sb/5734/) - Physical & health education | **21👍** **4👎** **4❓**
-* [SB 5735](sb/5735/) - Async. instructional hours | **19👍** **173👎** **6❓**
-* [SB 5762](sb/5762/) - Purple star award | **14👍** **2👎** **0❓**
-* [SB 5798](sb/5798/) - Schools/comm. eligibility | **64👍** **1👎** **0❓**
-* [SB 5820](sb/5820/) - Superintendent, appointing | **2👍** **483👎** **3❓**
-* [SB 5833](sb/5833/) - School director compensation | **5👍** **0👎** **2❓**
-* [SB 5878](sb/5878/) - Arts instruction | **132👍** **0👎** **4❓**
-* [SB 5902](sb/5902/) - High school grad. credits | **5👍** **7👎** **3❓**
-* [SB 5925](sb/5925/) - Outdoor school | **29👍** **0👎** **0❓**
-* [SJR 8212](sjr/8212/) - Superintendent | **1👍** **123👎** **1❓**
+* [SB 5252](sb/5252/) - School consultation/tribes | *Public Hearing Wed, Jan 26 10:30 am*
+* [SB 5497](sb/5497/) - Board of ed. student members | *Executive Session Fri, Jan 28 8:00 am*
+* [SB 5537](sb/5537/) - Compulsory school attendance | *Executive Session Fri, Jan 28 8:00 am*
+* [SB 5594](sb/5594/) - Bone marrow donation aware. | *Executive Session Fri, Jan 28 8:00 am*
 
 
 <details>
@@ -1776,7 +1765,6 @@ Heard bills:
 * [SB 5153](sb/5153/) - School attendance
 * [SB 5200](sb/5200/) - Scholarships/tax credit
 * [SB 5205](sb/5205/) - K-12 education vouchers
-* [SB 5252](sb/5252/) - School consultation/tribes
 * [SB 5257](sb/5257/) - School levy exemption
 * [SB 5277](sb/5277/) - Early achievers prg/suspend
 * [SB 5334](sb/5334/) - Levy authorization info.
@@ -1787,34 +1775,44 @@ Heard bills:
 * [SB 5464](sb/5464/) - In-person learning option
 * [SB 5501](sb/5501/) - Board of education members
 * [SB 5536](sb/5536/) - Collaborative school govern.
-* [SB 5594](sb/5594/) - Bone marrow donation aware.
 * [SB 5601](sb/5601/) - School district boards
 * [SB 5630](sb/5630/) - Early learning/basic ed.
+* [SB 5720](sb/5720/) - Student financial literacy
+* [SB 5734](sb/5734/) - Physical & health education
+* [SB 5735](sb/5735/) - Async. instructional hours
+* [SB 5762](sb/5762/) - Purple star award
 * [SB 5777](sb/5777/) - COVID-19 vaccine/children
+* [SB 5798](sb/5798/) - Schools/comm. eligibility
 * [SB 5805](sb/5805/) - Sexual ed. parent approval
 * [SB 5806](sb/5806/) - Instructional materials
+* [SB 5820](sb/5820/) - Superintendent, appointing
+* [SB 5833](sb/5833/) - School director compensation
 * [SB 5858](sb/5858/) - Education/parent rights
 * [SB 5871](sb/5871/) - Microschool pilot project
+* [SB 5878](sb/5878/) - Arts instruction
+* [SB 5902](sb/5902/) - High school grad. credits
 * [SB 5905](sb/5905/) - Outdoor school
 * [SB 5922](sb/5922/) - K-12 education funding
+* [SB 5925](sb/5925/) - Outdoor school
+* [SJR 8212](sjr/8212/) - Superintendent
 </details>
 
 ### S State Govt & E
 Active bills:
+* [SB 5584](sb/5584/) - Local elections | *Executive Session Wed, Jan 26 8:00 am*
+* [SB 5597](sb/5597/) - Voting rights | *Executive Session Wed, Jan 26 8:00 am*
+* [SB 5636](sb/5636/) - Automatic voter registration | *Executive Session Wed, Jan 26 8:00 am*
 * [SB 5650](sb/5650/) - Elections law violation info | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5659](sb/5659/) - Building material standards | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5679](sb/5679/) - Elections/voter confidence | *Public Hearing Fri, Jan 28 10:30 am*
+* [SB 5756](sb/5756/) - Semiquincentennial committee | *Executive Session Wed, Jan 26 8:00 am*
 * [SB 5782](sb/5782/) - Defense compatibility | *Public Hearing Wed, Jan 26 8:00 am*
 * [SB 5817](sb/5817/) - Synthetic media in campaigns | *Public Hearing Wed, Jan 26 8:00 am*
 * [SB 5843](sb/5843/) - False election statements | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5855](sb/5855/) - Campaign funds/child care | *Public Hearing Wed, Jan 26 8:00 am*
 * [SB 5896](sb/5896/) - DES vehicle charging report | *Public Hearing Wed, Jan 26 8:00 am*
+* [SB 5908](sb/5908/) - Clean car authority | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5909](sb/5909/) - Gubernatorial emerg. powers | *Public Hearing Fri, Jan 28 10:30 am*
-
-Heard bills:
-* [SB 5597](sb/5597/) - Voting rights | **120👍** **98👎** **3❓**
-* [SB 5636](sb/5636/) - Automatic voter registration | **95👍** **116👎** **0❓**
-* [SB 5908](sb/5908/) - Clean car authority | **0👍** **2👎** **0❓**
 
 
 <details>
@@ -1848,6 +1846,7 @@ Heard bills:
 * [SB 5859](sb/5859/) - Incarcerated individuals/PRA
 * [SB 5917](sb/5917/) - Productivity board
 * [SB 5937](sb/5937/) - Flood recovery assistance
+* [SB 5943](sb/5943/) - Governor's emergency powers
 </details>
 
 ### S Rules 3
@@ -1868,24 +1867,25 @@ Heard bills:
 
 ### S Law & Justice
 Active bills:
-* [SB 5217](sb/5217/) - Assault weapons | *Executive Session Thu, Jan 27 10:30 am*
-* [SB 5491](sb/5491/) - Waiver of firearm rights | *Executive Session Thu, Jan 27 10:30 am* **58👍** **0👎** **0❓**
-* [SB 5495](sb/5495/) - Catalytic converters | *Public Hearing Tue, Jan 25 10:30 am*
-* [SB 5502](sb/5502/) - WSDOT graffiti removal order | *Public Hearing Tue, Jan 25 10:30 am*
+* [SB 5491](sb/5491/) - Waiver of firearm rights | *Executive Session Thu, Jan 27 10:30 am*
 * [SB 5568](sb/5568/) - Open weapon carry/local laws | *Executive Session Thu, Jan 27 10:30 am*
-* [SB 5629](sb/5629/) - Disposition of remains | *Executive Session Thu, Jan 27 10:30 am* **7👍** **1👎** **0❓**
-* [SB 5663](sb/5663/) - State v. Blake procedures | *Public Hearing Tue, Jan 25 10:30 am*
-* [SB 5667](sb/5667/) - COVID-19 vaccination docs. | *Executive Session Thu, Jan 27 10:30 am* **7👍** **20👎** **0❓**
-* [SB 5688](sb/5688/) - Health care marketplace | *Executive Session Thu, Jan 27 10:30 am* **756👍** **21👎** **6❓**
+* [SB 5629](sb/5629/) - Disposition of remains | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5663](sb/5663/) - State v. Blake procedures | *Executive Session Thu, Jan 27 10:30 am* **13👍** **198👎** **12❓**
+* [SB 5667](sb/5667/) - COVID-19 vaccination docs. | *Executive Session Thu, Jan 27 10:30 am*
 * [SB 5690](sb/5690/) - Firearms at capitol/events | *Executive Session Thu, Jan 27 10:30 am*
-* [SB 5691](sb/5691/) - Prosecutorial filing | *Executive Session Thu, Jan 27 10:30 am* **12👍** **2👎** **2❓**
-* [SB 5710](sb/5710/) - Toxicology lab contamination | *Executive Session Thu, Jan 27 10:30 am* **5👍** **0👎** **1❓**
-* [SB 5733](sb/5733/) - Civil asset forfeiture/drugs | *Executive Session Thu, Jan 27 10:30 am* **3👍** **7👎** **1❓**
-* [SB 5772](sb/5772/) - Postconviction counsel | *Public Hearing Tue, Jan 25 10:30 am*
+* [SB 5691](sb/5691/) - Prosecutorial filing | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5710](sb/5710/) - Toxicology lab contamination | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5733](sb/5733/) - Civil asset forfeiture/drugs | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5772](sb/5772/) - Postconviction counsel | *Executive Session Thu, Jan 27 10:30 am* **17👍** **0👎** **0❓**
 * [SB 5781](sb/5781/) - Organized retail theft | *Public Hearing Thu, Jan 27 10:30 am*
-* [SB 5788](sb/5788/) - Guardianship of minors | *Public Hearing Tue, Jan 25 10:30 am*
-* [SB 5869](sb/5869/) - Traffic cameras/image use | *Executive Session Thu, Jan 27 10:30 am* **5👍** **0👎** **1❓**
-* [SB 5870](sb/5870/) - Uniform college athlete act | *Public Hearing Thu, Jan 27 10:30 am*
+* [SB 5788](sb/5788/) - Guardianship of minors | *Executive Session Thu, Jan 27 10:30 am* **12👍** **0👎** **0❓**
+* [SB 5841](sb/5841/) - Law enf. employment | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5869](sb/5869/) - Traffic cameras/image use | *Executive Session Thu, Jan 27 10:30 am*
+* [SB 5942](sb/5942/) - Uniform college athlete act | *Public Hearing Thu, Jan 27 10:30 am*
+
+Heard bills:
+* [SB 5495](sb/5495/) - Catalytic converters | **130👍** **3👎** **2❓**
+* [SB 5502](sb/5502/) - WSDOT graffiti removal order | **1👍** **0👎** **1❓**
 
 
 <details>
@@ -1898,6 +1898,7 @@ Active bills:
 * [SB 5094](sb/5094/) - Vascular neck restraints
 * [SB 5099](sb/5099/) - Death penalty
 * [SB 5108](sb/5108/) - Secret surveillance scores
+* [SB 5217](sb/5217/) - Assault weapons
 * [SB 5261](sb/5261/) - Police data collection
 * [SB 5297](sb/5297/) - Civil protection orders
 * [SB 5307](sb/5307/) - Pretrial release & detention
@@ -1922,15 +1923,16 @@ Active bills:
 * [SJR 8205](sjr/8205/) - Right to possess firearms
 * [SB 5675](sb/5675/) - Permissible use of force
 * [SB 5677](sb/5677/) - Law enf. serious misconduct
+* [SB 5688](sb/5688/) - Health care marketplace
 * [SB 5708](sb/5708/) - Fur products
 * [SB 5709](sb/5709/) - Exclusionary evidence rule
 * [SB 5743](sb/5743/) - Kratom
 * [SB 5779](sb/5779/) - Bail fund oversight
 * [SB 5839](sb/5839/) - Interfering with emergency
-* [SB 5841](sb/5841/) - Law enf. employment
 * [SB 5845](sb/5845/) - Civil protection orders
 * [SB 5846](sb/5846/) - Election offices/weapons
 * [SB 5856](sb/5856/) - Firearm transfers to museums
+* [SB 5870](sb/5870/) - Uniform college athlete act
 * [SB 5877](sb/5877/) - Higher ed antidiscrimination
 * [SB 5881](sb/5881/) - Doxing
 * [SB 5883](sb/5883/) - Homeless youth/health care
@@ -1939,27 +1941,23 @@ Active bills:
 * [SB 5920](sb/5920/) - Parenting plans
 * [SB 5927](sb/5927/) - Retail cannabis outlets
 * [SB 5931](sb/5931/) - Judges pro tempore/COA
+* [SB 5941](sb/5941/) - Kratom
+* [SB 5944](sb/5944/) - Org. retail theft task force
+* [SB 5945](sb/5945/) - Human trafficking
 * [SJR 8209](sjr/8209/) - Domestic violence/bail
 </details>
 
 ### S Business, Fina
 Active bills:
-* [SB 5769](sb/5769/) - State tax system | *Public Hearing Tue, Jan 25 8:00 am*
-* [SB 5802](sb/5802/) - Property tax exemptions | *Public Hearing Tue, Jan 25 8:00 am*
-* [SB 5849](sb/5849/) - Tax incentives | *Public Hearing Tue, Jan 25 8:00 am*
-* [SB 5901](sb/5901/) - Economic dev. tax incentives | *Public Hearing Thu, Jan 27 8:00 am*
+* [SB 5527](sb/5527/) - Insurance sublimits | *Executive Session Thu, Jan 27 8:30 am*
+* [SB 5799](sb/5799/) - Workforce surcharge/clinics | *Executive Session Thu, Jan 27 8:30 am*
+* [SB 5849](sb/5849/) - Tax incentives | *Executive Session Thu, Jan 27 8:30 am* **14👍** **1👎** **0❓**
+* [SB 5880](sb/5880/) - Fire sprinkler contractors | *Executive Session Thu, Jan 27 8:30 am*
+* [SB 5901](sb/5901/) - Economic dev. tax incentives | *Public Hearing Thu, Jan 27 8:30 am*
 
 Heard bills:
-* [SB 5515](sb/5515/) - Hospitality employment/B&O | **6👍** **0👎** **0❓**
-* [SB 5527](sb/5527/) - Insurance sublimits | **4👍** **5👎** **0❓**
-* [SB 5541](sb/5541/) - Newspapers/B&O tax | **2👍** **1👎** **0❓**
-* [SB 5640](sb/5640/) - Motion picture program/rural | **47👍** **0👎** **0❓**
-* [SB 5760](sb/5760/) - Motion picture program | **450👍** **0👎** **1❓**
-* [SB 5770](sb/5770/) - Convention economy grants | **50👍** **0👎** **0❓**
-* [SB 5799](sb/5799/) - Workforce surcharge/clinics | **5👍** **0👎** **0❓**
-* [SB 5810](sb/5810/) - Legal service plans | **2👍** **0👎** **0❓**
-* [SB 5879](sb/5879/) - Insurance use of credit info | **5👍** **8👎** **0❓**
-* [SB 5880](sb/5880/) - Fire sprinkler contractors | **76👍** **3👎** **1❓**
+* [SB 5769](sb/5769/) - State tax system | **251👍** **708👎** **16❓**
+* [SB 5802](sb/5802/) - Property tax exemptions | **5👍** **4👎** **0❓**
 
 
 <details>
@@ -1976,37 +1974,28 @@ Heard bills:
 * [SB 5445](sb/5445/) - Public funds interest/B&O
 * [SB 5446](sb/5446/) - Warehousing & manuf. jobs
 * [SB 5447](sb/5447/) - Financial products
+* [SB 5541](sb/5541/) - Newspapers/B&O tax
+* [SB 5640](sb/5640/) - Motion picture program/rural
+* [SB 5879](sb/5879/) - Insurance use of credit info
 </details>
 
 ### S Health & Long
 Active bills:
 * [SB 5542](sb/5542/) - Optometry | *Public Hearing Wed, Jan 26 8:00 am*
+* [SB 5589](sb/5589/) - Primary care spending | *Executive Session Wed, Jan 26 8:00 am*
+* [SB 5606](sb/5606/) - A/C in adult family homes | *Executive Session Wed, Jan 26 8:00 am*
+* [SB 5610](sb/5610/) - Rx drug cost sharing | *Executive Session Wed, Jan 26 8:00 am*
 * [SB 5765](sb/5765/) - Midwifery | *Public Hearing Wed, Jan 26 8:00 am*
 * [SB 5790](sb/5790/) - Community support services | *Public Hearing Fri, Jan 28 8:00 am*
 * [SB 5794](sb/5794/) - Behavioral health Rx drugs | *Public Hearing Fri, Jan 28 8:00 am*
 * [SB 5819](sb/5819/) - DDA no-paid caseload | *Public Hearing Fri, Jan 28 8:00 am*
+* [SB 5821](sb/5821/) - Cardiac & stroke response | *Executive Session Wed, Jan 26 8:00 am*
 * [SB 5822](sb/5822/) - Biomarker testing coverage | *Public Hearing Fri, Jan 28 8:00 am*
 * [SB 5829](sb/5829/) - Behavioral health approps | *Public Hearing Fri, Jan 28 10:30 am*
 * [SB 5848](sb/5848/) - Music therapists | *Public Hearing Wed, Jan 26 8:00 am*
 * [SB 5866](sb/5866/) - Medicaid LTSS/tribes | *Public Hearing Wed, Jan 26 8:00 am*
 * [SB 5888](sb/5888/) - Rx drug cost-sharing | *Public Hearing Fri, Jan 28 8:00 am*
-
-Heard bills:
-* [SB 5507](sb/5507/) - Dialysate & dialysis devices | **3👍** **0👎** **0❓**
-* [SB 5532](sb/5532/) - Rx drug affordability board | **74👍** **22👎** **5❓**
-* [SB 5546](sb/5546/) - Insulin affordability | **64👍** **0👎** **2❓**
-* [SB 5551](sb/5551/) - HIV antiviral drugs/medicaid | **46👍** **5👎** **1❓**
-* [SB 5589](sb/5589/) - Primary care spending | **52👍** **0👎** **0❓**
-* [SB 5606](sb/5606/) - A/C in adult family homes | **15👍** **1👎** **1❓**
-* [SB 5610](sb/5610/) - Rx drug cost sharing | **74👍** **9👎** **0❓**
-* [SB 5618](sb/5618/) - Out-of-network health care | **83👍** **1👎** **12❓**
-* [SB 5702](sb/5702/) - Donor breast milk coverage | **30👍** **0👎** **6❓**
-* [SB 5753](sb/5753/) - Board & commission sizes | **19👍** **1👎** **0❓**
-* [SB 5809](sb/5809/) - Cancer research | **9👍** **0👎** **0❓**
-* [SB 5821](sb/5821/) - Cardiac & stroke response | **78👍** **0👎** **2❓**
-* [SB 5892](sb/5892/) - High schools/nursing pilot | **12👍** **0👎** **0❓**
-* [SB 5900](sb/5900/) - Provisional paramedics, EMTs | **10👍** **1👎** **1❓**
-* [SB 5912](sb/5912/) - Children on medicaid | **60👍** **1👎** **0❓**
+* [SB 5892](sb/5892/) - High schools/nursing pilot | *Executive Session Wed, Jan 26 8:00 am*
 
 
 <details>
@@ -2030,36 +2019,45 @@ Heard bills:
 * [SB 5335](sb/5335/) - Health care facility acq.
 * [SB 5371](sb/5371/) - Sweetened beverage tax
 * [SB 5418](sb/5418/) - Drugs & vaccines/access
+* [SB 5507](sb/5507/) - Dialysate & dialysis devices
+* [SB 5532](sb/5532/) - Rx drug affordability board
+* [SB 5551](sb/5551/) - HIV antiviral drugs/medicaid
 * [SB 5605](sb/5605/) - Anesthesiologist assistants
+* [SB 5618](sb/5618/) - Out-of-network health care
+* [SB 5702](sb/5702/) - Donor breast milk coverage
 * [SB 5704](sb/5704/) - ARNP reimbursement rate
+* [SB 5716](sb/5716/) - Breast cancer MRI coverage
 * [SB 5754](sb/5754/) - EMTs/public health
 * [SB 5766](sb/5766/) - Abortion care
 * [SB 5768](sb/5768/) - Vapor products
 * [SB 5804](sb/5804/) - Gain-of-function research
 * [SB 5808](sb/5808/) - Interpreters/medical appts'
+* [SB 5809](sb/5809/) - Cancer research
 * [SB 5811](sb/5811/) - Pharmacy choice
 * [SB 5816](sb/5816/) - 988 line tax
 * [SB 5836](sb/5836/) - COVID-19 vaccine consent
 * [SB 5840](sb/5840/) - Prescription drug labels
 * [SB 5886](sb/5886/) - Rare diseases adv. council
 * [SB 5889](sb/5889/) - Annual mental health exams
+* [SB 5900](sb/5900/) - Provisional paramedics, EMTs
 * [SB 5906](sb/5906/) - Contralateral mastectomy
+* [SB 5912](sb/5912/) - Children on medicaid
 * [SB 5935](sb/5935/) - Adult family homes/prop. tax
 * [SB 5938](sb/5938/) - Residential centers closure
+* [SB 5939](sb/5939/) - Long-term care insurance
 </details>
 
 ### S Ag/Water/Natur
 Active bills:
-* [SB 5598](sb/5598/) - Derelict vessel removal | *Executive Session Thu, Jan 27 1:30 pm* **49👍** **0👎** **0❓**
-* [SB 5619](sb/5619/) - Kelp & eelgrass conservation | *Executive Session Thu, Jan 27 1:30 pm* **81👍** **0👎** **1❓**
-* [SB 5633](sb/5633/) - Forest loss prevention | *Executive Session Thu, Jan 27 1:30 pm* **88👍** **21👎** **12❓**
-* [SB 5812](sb/5812/) - Farm internships/Benton cnty | *Public Hearing Tue, Jan 25 1:30 pm*
+* [SB 5598](sb/5598/) - Derelict vessel removal | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5619](sb/5619/) - Kelp & eelgrass conservation | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5633](sb/5633/) - Forest loss prevention | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5812](sb/5812/) - Farm internships/Benton cnty | *Executive Session Thu, Jan 27 1:30 pm* **6👍** **0👎** **0❓**
 * [SB 5865](sb/5865/) - Rec. target shooting areas | *Public Hearing Thu, Jan 27 1:30 pm*
 * [SB 5882](sb/5882/) - Riparian stock watering | *Public Hearing Thu, Jan 27 1:30 pm*
 
 Heard bills:
-* [SB 5608](sb/5608/) - Park and land public access | **10👍** **2👎** **2❓**
-* [SB 5632](sb/5632/) - Water infra. projects | **26👍** **6👎** **3❓**
+* [SB 5721](sb/5721/) - Natural resource management | **4👍** **300👎** **2❓**
 
 
 <details>
@@ -2072,6 +2070,8 @@ Heard bills:
 * [SB 5207](sb/5207/) - Environmental permits
 * [SB 5224](sb/5224/) - Land survey markers
 * [SB 5306](sb/5306/) - Salmon habitat planning
+* [SB 5608](sb/5608/) - Park and land public access
+* [SB 5632](sb/5632/) - Water infra. projects
 * [SB 5826](sb/5826/) - Warm water game fish
 * [SB 5860](sb/5860/) - Water policy & aquifer level
 * [SB 5936](sb/5936/) - Agricultural disaster assist
@@ -2079,13 +2079,8 @@ Heard bills:
 </details>
 
 ### S Labor, Comm & T
-Heard bills:
-* [SB 5547](sb/5547/) - Marijuana products | **29👍** **15👎** **3❓**
-* [SB 5549](sb/5549/) - Bingo gambling activities | **4👍** **0👎** **0❓**
-* [SB 5559](sb/5559/) - Paid sick leave verification | **21👍** **30👎** **1❓**
-* [SB 5579](sb/5579/) - WMS bargaining | **58👍** **1👎** **1❓**
-* [SB 5604](sb/5604/) - Contractor licensing refs | **14👍** **0👎** **0❓**
-* [SB 5671](sb/5671/) - Liquor and cannabis board | **19👍** **18👎** **3❓**
+Active bills:
+* [SB 5579](sb/5579/) - WMS bargaining | *Executive Session Thu, Jan 27 8:00 am*
 
 
 <details>
@@ -2093,33 +2088,16 @@ Heard bills:
 
 * [SB 5064](sb/5064/) - Unemployment/voluntary
 * [SB 5379](sb/5379/) - Enhanced raffle procedures
+* [SB 5547](sb/5547/) - Marijuana products
+* [SB 5549](sb/5549/) - Bingo gambling activities
+* [SB 5559](sb/5559/) - Paid sick leave verification
+* [SB 5604](sb/5604/) - Contractor licensing refs
+* [SB 5671](sb/5671/) - Liquor and cannabis board
 * [SB 5680](sb/5680/) - COVID-19 vaccine mandate
+* [SB 5940](sb/5940/) - Liquor license endorsement
 </details>
 
 ### S Rules 2
-Heard bills:
-* [SB 5498](sb/5498/) - Posthumous H.S. diplomas | **6👍** **3👎** **1❓**
-* [SB 5504](sb/5504/) - Discover pass free days | **13👍** **0👎** **0❓**
-* [SB 5509](sb/5509/) - Fentanyl testing equipment | **4👍** **0👎** **1❓**
-* [SB 5552](sb/5552/) - WDFW licensing | **1👍** **0👎** **0❓**
-* [SB 5553](sb/5553/) - Early STEM metrics | **14👍** **2👎** **0❓**
-* [SB 5560](sb/5560/) - Redistricting plans | **206👍** **0👎** **8❓**
-* [SB 5561](sb/5561/) - Firearm rights restoration | **104👍** **10👎** **0❓**
-* [SB 5572](sb/5572/) - Internet crimes/children | **8👍** **2👎** **1❓**
-* [SB 5576](sb/5576/) - Eviction | **21👍** **31👎** **1❓**
-* [SB 5580](sb/5580/) - Public works board/broadband | **12👍** **0👎** **2❓**
-* [SB 5582](sb/5582/) - Port commission districts | **2👍** **0👎** **0❓**
-* [SB 5583](sb/5583/) - Census data/incarceration | **143👍** **0👎** **2❓**
-* [SB 5585](sb/5585/) - Domestic wastewater fees | **8👍** **3👎** **0❓**
-* [SB 5596](sb/5596/) - Health info. disclosure | **3👍** **0👎** **3❓**
-* [SB 5612](sb/5612/) - DV sentencing statements | **13👍** **0👎** **1❓**
-* [SB 5613](sb/5613/) - Use of dogs to hunt | **78👍** **198👎** **0❓**
-* [SB 5615](sb/5615/) - State sport | **21👍** **0👎** **0❓**
-* [SB 5624](sb/5624/) - Livestock identification | **12👍** **0👎** **0❓**
-* [SB 5628](sb/5628/) - Cyber harassment | **4👍** **0👎** **2❓**
-* [SB 5637](sb/5637/) - Forest practices fees | **13👍** **10👎** **1❓**
-* [SB 5641](sb/5641/) - Greenhouses | **3👍** **1👎** **0❓**
-
 
 <details>
     <summary>Click to view inactive bills</summary>
@@ -2135,58 +2113,58 @@ Heard bills:
 * [SB 5481](sb/5481/) - Transportation funding bonds
 * [SB 5482](sb/5482/) - Additive trans funding
 * [SB 5483](sb/5483/) - Transportation funding
+* [SB 5498](sb/5498/) - Posthumous H.S. diplomas
+* [SB 5504](sb/5504/) - Discover pass free days
+* [SB 5509](sb/5509/) - Fentanyl testing equipment
 * [SB 5520](sb/5520/) - Harassment & discrim. NDAs
 * [SB 5531](sb/5531/) - Uniform unclaimed property
 * [SB 5545](sb/5545/) - Survivor benefits           
+* [SB 5546](sb/5546/) - Insulin affordability
+* [SB 5552](sb/5552/) - WDFW licensing
+* [SB 5553](sb/5553/) - Early STEM metrics
+* [SB 5560](sb/5560/) - Redistricting plans
+* [SB 5561](sb/5561/) - Firearm rights restoration
 * [SB 5564](sb/5564/) - Employee assistance programs
+* [SB 5572](sb/5572/) - Internet crimes/children
+* [SB 5576](sb/5576/) - Eviction
+* [SB 5580](sb/5580/) - Public works board/broadband
+* [SB 5582](sb/5582/) - Port commission districts
+* [SB 5583](sb/5583/) - Census data/incarceration
+* [SB 5585](sb/5585/) - Domestic wastewater fees
+* [SB 5596](sb/5596/) - Health info. disclosure
+* [SB 5612](sb/5612/) - DV sentencing statements
+* [SB 5613](sb/5613/) - Use of dogs to hunt
 * [SB 5614](sb/5614/) - National guard ed. grants
+* [SB 5615](sb/5615/) - State sport
+* [SB 5624](sb/5624/) - Livestock identification
+* [SB 5628](sb/5628/) - Cyber harassment
+* [SB 5637](sb/5637/) - Forest practices fees
+* [SB 5638](sb/5638/) - Mental health prof. licenses
+* [SB 5641](sb/5641/) - Greenhouses
 * [SB 5657](sb/5657/) - Juvenile instit./comp sci.
 * [SB 5676](sb/5676/) - PERS/TRS 1 benefit increase
 * [SB 5748](sb/5748/) - PSERS disability benefits
+* [SB 5753](sb/5753/) - Board & commission sizes
 * [SB 5763](sb/5763/) - Minimum wage/disabilities
-</details>
-
-### S Environment, En
-Active bills:
-* [SB 5525](sb/5525/) - Water quality actions | *Public Hearing Tue, Jan 25 10:30 am*
-* [SB 5715](sb/5715/) - Definition of broadband | *Public Hearing Wed, Jan 26 8:00 am*
-* [SB 5732](sb/5732/) - Green roofs | *Public Hearing Wed, Jan 26 8:00 am*
-
-Heard bills:
-* [SB 5533](sb/5533/) - Online marketplaces | **10👍** **5👎** **2❓**
-* [SB 5544](sb/5544/) - Blockchain work group | **26👍** **0👎** **3❓**
-* [SB 5678](sb/5678/) - Energy project orders | **4👍** **0👎** **1❓**
-* [SB 5697](sb/5697/) - Recycling system & waste | **658👍** **68👎** **18❓**
-
-
-<details>
-    <summary>Click to view inactive bills</summary>
-
-* [SB 5104](sb/5104/) - Facial recog. moratorium
-* [SB 5474](sb/5474/) - Agency data backup/disasters
-* [SB 5493](sb/5493/) - Residential renewable energy
-* [SB 5494](sb/5494/) - Olefins from natural gas
-* [SB 5669](sb/5669/) - Energy codes
-* [SB 5731](sb/5731/) - Organic materials management
-* [SB 5895](sb/5895/) - Remedial action grants
 </details>
 
 ### S Housing & Loca
 Active bills:
-* [SB 5832](sb/5832/) - Multifamily unit conversion | *Public Hearing Tue, Jan 25 8:00 am*
-* [SB 5861](sb/5861/) - Housing benefit districts | *Public Hearing Tue, Jan 25 8:00 am*
+* [SB 5662](sb/5662/) - Right-of-way camping/housing | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5670](sb/5670/) - Middle housing near transit | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5712](sb/5712/) - Local taxing districts | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5713](sb/5713/) - Limited equity coop. housing | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5749](sb/5749/) - Rent payments | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5755](sb/5755/) - Vacant land redevelopment | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5758](sb/5758/) - Condominium conversions | *Executive Session Thu, Jan 27 8:00 am*
+* [SB 5862](sb/5862/) - Commercial energy program | *Public Hearing Wed, Jan 26 10:30 am*
 * [SB 5868](sb/5868/) - Public fac. tax/housing | *Public Hearing Wed, Jan 26 10:30 am*
+* [SB 5923](sb/5923/) - Temporary emergency shelters | *Public Hearing Wed, Jan 26 10:30 am*
 
 Heard bills:
-* [SB 5554](sb/5554/) - Local net income taxes | **0👍** **201👎** **0❓**
-* [SB 5670](sb/5670/) - Middle housing near transit | **269👍** **23👎** **8❓**
-* [SB 5713](sb/5713/) - Limited equity coop. housing | **11👍** **1👎** **0❓**
-* [SB 5749](sb/5749/) - Rent payments | **147👍** **5👎** **0❓**
-* [SB 5755](sb/5755/) - Vacant land redevelopment | **11👍** **14👎** **0❓**
-* [SB 5818](sb/5818/) - Housing/SEPA & GMA | **30👍** **1👎** **2❓**
-* [SB 5823](sb/5823/) - Local infra. project areas | **6👍** **0👎** **0❓**
-* [SB 5825](sb/5825/) - Rental & vacant property reg | **67👍** **1👎** **1❓**
-* [SB 5867](sb/5867/) - Emerg. overnight shelters | **0👍** **5👎** **0❓**
+* [SB 5648](sb/5648/) - Accessory dwelling units | **13👍** **2👎** **3❓**
+* [SB 5832](sb/5832/) - Multifamily unit conversion | **15👍** **0👎** **1❓**
+* [SB 5861](sb/5861/) - Housing benefit districts | **150👍** **31👎** **2❓**
 
 
 <details>
@@ -2199,20 +2177,17 @@ Heard bills:
 * [SB 5279](sb/5279/) - Housing/revenue source
 * [SB 5319](sb/5319/) - Mobile home communities/sale
 * [SB 5360](sb/5360/) - Fire & smoke control systems
-* [SB 5648](sb/5648/) - Accessory dwelling units
-* [SB 5662](sb/5662/) - Right-of-way camping/housing
-* [SB 5712](sb/5712/) - Local taxing districts
-* [SB 5862](sb/5862/) - Commercial energy program
-* [SB 5923](sb/5923/) - Temporary emergency shelters
+* [SB 5554](sb/5554/) - Local net income taxes
+* [SB 5818](sb/5818/) - Housing/SEPA & GMA
+* [SB 5823](sb/5823/) - Local infra. project areas
+* [SB 5825](sb/5825/) - Rental & vacant property reg
+* [SB 5867](sb/5867/) - Emerg. overnight shelters
 </details>
 
 ### S Behavioral Hea
 Active bills:
-* [SB 5644](sb/5644/) - Behavioral health coresponse | *Executive Session Fri, Jan 28 10:30 am* **16👍** **2👎** **6❓**
-* [SB 5664](sb/5664/) - Forensic competency programs | *Executive Session Fri, Jan 28 10:30 am* **1👍** **1👎** **3❓**
-
-Heard bills:
-* [SB 5638](sb/5638/) - Mental health prof. licenses | **6👍** **0👎** **3❓**
+* [SB 5644](sb/5644/) - Behavioral health coresponse | *Executive Session Fri, Jan 28 10:30 am*
+* [SB 5664](sb/5664/) - Forensic competency programs | *Executive Session Fri, Jan 28 10:30 am*
 
 
 <details>
@@ -2224,19 +2199,13 @@ Heard bills:
 
 ### S Human Svcs, Re
 Active bills:
+* [SB 5695](sb/5695/) - DOC body scanner pilot | *Executive Session Thu, Jan 27 1:30 pm*
 * [SB 5752](sb/5752/) - Future fund trust fund | *Executive Session Fri, Jan 28 10:30 am*
-* [SB 5827](sb/5827/) - Dept. of Corrections systems | *Public Hearing Tue, Jan 25 1:30 pm*
-
-Heard bills:
-* [SB 5609](sb/5609/) - Juvenile fingerprinting | **15👍** **2👎** **0❓**
-* [SB 5694](sb/5694/) - DOC-tribal agreements | **10👍** **0👎** **0❓**
-* [SB 5695](sb/5695/) - DOC body scanner pilot | **1👍** **2👎** **4❓**
-* [SB 5729](sb/5729/) - Hearing deadlines/good cause | **16👍** **0👎** **1❓**
-* [SB 5745](sb/5745/) - Personal needs allowance | **109👍** **0👎** **1❓**
-* [SB 5785](sb/5785/) - Transitional food assistance | **24👍** **0👎** **0❓**
-* [SB 5814](sb/5814/) - Child abuse/medical eval. | **17👍** **1👎** **0❓**
-* [SB 5824](sb/5824/) - Dependent youth financial ed | **46👍** **0👎** **0❓**
-* [SB 5838](sb/5838/) - Diaper subsidy/TANF | **224👍** **0👎** **0❓**
+* [SB 5814](sb/5814/) - Child abuse/medical eval. | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5824](sb/5824/) - Dependent youth financial ed | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5827](sb/5827/) - Dept. of Corrections systems | *Executive Session Fri, Jan 28 10:30 am* **4👍** **0👎** **0❓**
+* [SB 5838](sb/5838/) - Diaper subsidy/TANF | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5929](sb/5929/) - WorkFirst poverty task force | *Executive Session Fri, Jan 28 10:30 am* **6👍** **0👎** **0❓**
 
 
 <details>
@@ -2249,14 +2218,15 @@ Heard bills:
 * [SB 5387](sb/5387/) - Working families tax exempt.
 * [SB 5413](sb/5413/) - Solitary confinement
 * [SB 5424](sb/5424/) - Working families/tax
+* [SB 5729](sb/5729/) - Hearing deadlines/good cause
 * [SB 5780](sb/5780/) - Graduated reentry program
-* [SB 5929](sb/5929/) - WorkFirst poverty task force
+* [SB 5785](sb/5785/) - Transitional food assistance
 </details>
 
 ### H Hous, Human Svc
 Active bills:
-* [HB 1975](hb/1975/) - Management/housing auths | *Executive Session Thu, Jan 27 1:30 pm* **17👍** **0👎** **4❓**
-* [HB 1980](hb/1980/) - Concurrent services | *Executive Session Fri, Jan 28 10:00 am* **52👍** **0👎** **2❓**
+* [HB 1975](hb/1975/) - Management/housing auths | *Executive Session Fri, Jan 28 10:00 am*
+* [HB 1980](hb/1980/) - Concurrent services | *Executive Session Fri, Jan 28 10:00 am*
 
 
 <details>
@@ -2266,29 +2236,13 @@ Active bills:
 * [SB 5268](sb/5268/) - Dev. disability services
 </details>
 
-### S Business, Finan
-Heard bills:
-* [SB 5526](sb/5526/) - Battery manuf. minerals | **4👍** **0👎** **2❓**
-* [SB 5557](sb/5557/) - New businesses/B&O tax | **1👍** **4👎** **0❓**
-* [SB 5586](sb/5586/) - Broadband loans & grants | **20👍** **0👎** **2❓**
-* [SB 5623](sb/5623/) - Credit history/insurance | **5👍** **23👎** **2❓**
-* [SB 5725](sb/5725/) - LCEDIR/tourism slogan | **6👍** **0👎** **0❓**
-
-
-<details>
-    <summary>Click to view inactive bills</summary>
-
-* [SB 5400](sb/5400/) - Fed. home loan bank rights
-* [SB 5792](sb/5792/) - Tax incentives
-</details>
-
 ### S Behavioral Heal
 Active bills:
-* [SB 5655](sb/5655/) - State hospitals/short-term | *Executive Session Fri, Jan 28 10:30 am* **4👍** **3👎** **1❓**
-* [SB 5736](sb/5736/) - Minors/behavioral health | *Executive Session Fri, Jan 28 10:30 am* **24👍** **0👎** **0❓**
-* [SB 5807](sb/5807/) - State hospitals | *Executive Session Fri, Jan 28 10:30 am* **10👍** **1👎** **2❓**
-* [SB 5884](sb/5884/) - Behavioral health support | *Executive Session Fri, Jan 28 10:30 am* **9👍** **1👎** **0❓**
-* [SB 5894](sb/5894/) - Behav. health/primary care | *Executive Session Fri, Jan 28 10:30 am* **47👍** **2👎** **2❓**
+* [SB 5655](sb/5655/) - State hospitals/short-term | *Executive Session Fri, Jan 28 10:30 am*
+* [SB 5736](sb/5736/) - Minors/behavioral health | *Executive Session Fri, Jan 28 10:30 am*
+* [SB 5807](sb/5807/) - State hospitals | *Executive Session Fri, Jan 28 10:30 am*
+* [SB 5884](sb/5884/) - Behavioral health support | *Executive Session Fri, Jan 28 10:30 am*
+* [SB 5894](sb/5894/) - Behav. health/primary care | *Executive Session Fri, Jan 28 10:30 am*
 
 
 <details>
@@ -2300,11 +2254,9 @@ Active bills:
 
 ### S Human Svcs, Ree
 Active bills:
+* [SB 5646](sb/5646/) - Corrections/body scanners | *Executive Session Thu, Jan 27 1:30 pm*
 * [SB 5686](sb/5686/) - Office of corrections ombuds | *Public Hearing Thu, Jan 27 1:30 pm*
-* [SB 5730](sb/5730/) - Child victim confidentiality | *Public Hearing Tue, Jan 25 1:30 pm*
-
-Heard bills:
-* [SB 5646](sb/5646/) - Corrections/body scanners | **1👍** **3👎** **2❓**
+* [SB 5730](sb/5730/) - Child victim confidentiality | *Executive Session Fri, Jan 28 10:30 am* **14👍** **1👎** **3❓**
 
 
 <details>
@@ -2319,17 +2271,37 @@ Heard bills:
 </details>
 
 ### S 2nd RdConsCal
-Heard bills:
-* [SB 5489](sb/5489/) - Business entities | **4👍** **0👎** **0❓**
-* [SB 5506](sb/5506/) - JARRC chair & vice chair | **0👍** **0👎** **0❓**
-* [SB 5602](sb/5602/) - Service providers/financial | **2👍** **0👎** **0❓**
-* [SB 5617](sb/5617/) - Main street programs/pop. | **6👍** **0👎** **0❓**
-
 
 <details>
     <summary>Click to view inactive bills</summary>
 
+* [SB 5489](sb/5489/) - Business entities
+* [SB 5506](sb/5506/) - JARRC chair & vice chair
+* [SB 5602](sb/5602/) - Service providers/financial
+* [SB 5617](sb/5617/) - Main street programs/pop.
 * [SB 5787](sb/5787/) - Linked deposit program
+</details>
+
+### S RecComm
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [SB 5515](sb/5515/) - Hospitality employment/B&O
+* [SB 5745](sb/5745/) - Personal needs allowance
+* [SB 5760](sb/5760/) - Motion picture program
+* [SB 5764](sb/5764/) - Apprenticeships & higher ed.
+* [SB 5770](sb/5770/) - Convention economy grants
+* [SB 5771](sb/5771/) - Basic ed./caseload forecast
+</details>
+
+### S HSRRDP
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [SB 5609](sb/5609/) - Juvenile fingerprinting
+* [SB 5694](sb/5694/) - DOC-tribal agreements
 </details>
 
 ### S Filed Sec/St
@@ -2342,62 +2314,44 @@ Heard bills:
 * [SCR 8404](scr/8404/) - Cutoff dates
 </details>
 
-### H SGOVDP
+### H CWDDPS
 
 <details>
     <summary>Click to view inactive bills</summary>
 
-* [HB 1744](hb/1744/) - Cancer care collaboratives
+* [HB 1835](hb/1835/) - Postsecondary enrollment
 </details>
 
-### H ENVIDP
-Heard bills:
-* [HB 1767](hb/1767/) - Targeted electrification | **630👍** **270👎** **3❓**
-* [HB 1792](hb/1792/) - Hydrogen | **51👍** **0👎** **2❓**
-
-### H ENVIDPS
-Heard bills:
-* [HB 1768](hb/1768/) - Energy conservation projects | **78👍** **0👎** **2❓**
-
-### H LAWSDPS
-Heard bills:
-* [HB 1779](hb/1779/) - Surgical smoke | **26👍** **2👎** **3❓**
-* [HB 1794](hb/1794/) - Dishonored paycheck fees | **15👍** **1👎** **0❓**
-
-### H TRDP
+### S BFSTDP
 
 <details>
     <summary>Click to view inactive bills</summary>
 
-* [HB 1785](hb/1785/) - WSP minimum salary
-</details>
-
-### H APPDP
-
-<details>
-    <summary>Click to view inactive bills</summary>
-
-* [HB 1808](hb/1808/) - Pupil transportation funding
+* [SB 5725](sb/5725/) - LCEDIR/tourism slogan
 </details>
 
 ### S Higher Ed & Wo
 Active bills:
-* [SB 5764](sb/5764/) - Apprenticeships & higher ed. | *Executive Session Tue, Jan 25 1:30 pm*
-* [SB 5830](sb/5830/) - Tenure-track faculty | *Executive Session Tue, Jan 25 1:30 pm* **19👍** **0👎** **0❓**
-* [SB 5844](sb/5844/) - Higher ed. work/bidding | *Executive Session Tue, Jan 25 1:30 pm* **7👍** **10👎** **0❓**
-* [SB 5847](sb/5847/) - Public employee PSLF info. | *Executive Session Tue, Jan 25 1:30 pm* **100👍** **1👎** **0❓**
-* [SB 5874](sb/5874/) - Military student residency | *Public Hearing Tue, Jan 25 1:30 pm*
-
-Heard bills:
-* [SB 5771](sb/5771/) - Basic ed./caseload forecast | **18👍** **0👎** **0❓**
-* [SB 5789](sb/5789/) - Innovation challenge program | **57👍** **0👎** **0❓**
-* [SB 5797](sb/5797/) - Opportunity scholarship prog | **22👍** **1👎** **0❓**
+* [SB 5789](sb/5789/) - Innovation challenge program | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5830](sb/5830/) - Tenure-track faculty | *Executive Session Thu, Jan 27 1:30 pm*
+* [SB 5874](sb/5874/) - Military student residency | *Executive Session Thu, Jan 27 1:30 pm* **15👍** **0👎** **0❓**
 
 
 <details>
     <summary>Click to view inactive bills</summary>
 
+* [SB 5797](sb/5797/) - Opportunity scholarship prog
+* [SB 5844](sb/5844/) - Higher ed. work/bidding
+* [SB 5847](sb/5847/) - Public employee PSLF info.
 * [SB 5918](sb/5918/) - Board of regents/faculty
+</details>
+
+### S BFSTDPS
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [SB 5810](sb/5810/) - Legal service plans
 </details>
 
 ## Passed

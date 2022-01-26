@@ -1,29 +1,29 @@
 # Karen Keiser
 ## Bills
-* [SB 5003](/bill/2021-22/sb/5003/) - Living organ donors | 1st substitute bill substituted.
-* [SB 5004](/bill/2021-22/sb/5004/) - Medical marijuana tax ex. | 1st substitute bill substituted.
-* [SB 5020](/bill/2021-22/sb/5020/) - Rx drug price increases | By resolution, reintroduced and retained in present status.
-* [SB 5052](/bill/2021-22/sb/5052/) - Health equity zones | 2nd substitute bill substituted.
-* [SB 5061](/bill/2021-22/sb/5061/) - Unemployment insurance | 1st substitute bill substituted.
-* [SB 5090](/bill/2021-22/sb/5090/) - Worker protections | By resolution, reintroduced and retained in present status.
-* [SB 5115](/bill/2021-22/sb/5115/) - Health emergency/labor | 1st substitute bill substituted.
-* [SB 5218](/bill/2021-22/sb/5218/) - Temporary workers | By resolution, reintroduced and retained in present status.
-* [SB 5268](/bill/2021-22/sb/5268/) - Dev. disability services | 1st substitute bill substituted.
-* [SB 5370](/bill/2021-22/sb/5370/) - Mental health av. directives | 1st substitute bill substituted.
-* [SB 5385](/bill/2021-22/sb/5385/) - Municipal airports/labor | Effective date 7/25/2021.
-* [SB 5478](/bill/2021-22/sb/5478/) - Unemployment insurance | 1st substitute bill substituted.
-* [SB 5507](/bill/2021-22/sb/5507/) - Dialysate & dialysis devices | First reading, referred to Health & Long Term Care.
-* [SB 5517](/bill/2021-22/sb/5517/) - Cannabis/employment | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5520](/bill/2021-22/sb/5520/) - Harassment & discrim. NDAs | Passed to Rules Committee for second reading.
-* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | First reading, referred to Health & Long Term Care.
-* [SB 5533](/bill/2021-22/sb/5533/) - Online marketplaces | First reading, referred to Environment, Energy & Technology.
-* [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | First reading, referred to Health & Long Term Care.
-* [SB 5547](/bill/2021-22/sb/5547/) - Marijuana products | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | Passed to Rules Committee for second reading.
-* [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5604](/bill/2021-22/sb/5604/) - Contractor licensing refs | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.
-* [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5840](/bill/2021-22/sb/5840/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
-* [SB 5873](/bill/2021-22/sb/5873/) - Unempl. & leave premiums | First reading, referred to Ways & Means.
-* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5003](bill/2021-22/sb/5003/) - Living organ donors
+* [SB 5004](bill/2021-22/sb/5004/) - Medical marijuana tax ex.
+* [SB 5020](bill/2021-22/sb/5020/) - Rx drug price increases
+* [SB 5052](bill/2021-22/sb/5052/) - Health equity zones
+* [SB 5061](bill/2021-22/sb/5061/) - Unemployment insurance
+* [SB 5090](bill/2021-22/sb/5090/) - Worker protections
+* [SB 5115](bill/2021-22/sb/5115/) - Health emergency/labor
+* [SB 5218](bill/2021-22/sb/5218/) - Temporary workers
+* [SB 5268](bill/2021-22/sb/5268/) - Dev. disability services
+* [SB 5370](bill/2021-22/sb/5370/) - Mental health av. directives
+* [SB 5385](bill/2021-22/sb/5385/) - Municipal airports/labor
+* [SB 5478](bill/2021-22/sb/5478/) - Unemployment insurance
+* [SB 5507](bill/2021-22/sb/5507/) - Dialysate & dialysis devices
+* [SB 5517](bill/2021-22/sb/5517/) - Cannabis/employment
+* [SB 5520](bill/2021-22/sb/5520/) - Harassment & discrim. NDAs
+* [SB 5532](bill/2021-22/sb/5532/) - Rx drug affordability board
+* [SB 5533](bill/2021-22/sb/5533/) - Online marketplaces
+* [SB 5546](bill/2021-22/sb/5546/) - Insulin affordability
+* [SB 5547](bill/2021-22/sb/5547/) - Marijuana products
+* [SB 5564](bill/2021-22/sb/5564/) - Employee assistance programs
+* [SB 5600](bill/2021-22/sb/5600/) - Apprenticeship programs
+* [SB 5604](bill/2021-22/sb/5604/) - Contractor licensing refs
+* [SJR 8200](bill/2021-22/sjr/8200/) - Long-term care investments
+* [SB 5801](bill/2021-22/sb/5801/) - Industrial insurance appeals
+* [SB 5840](bill/2021-22/sb/5840/) - Prescription drug labels
+* [SB 5873](bill/2021-22/sb/5873/) - Unempl. & leave premiums
+* [SB 5890](bill/2021-22/sb/5890/) - Radiological waste workers

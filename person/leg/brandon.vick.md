@@ -1,15 +1,15 @@
 # Brandon Vick
 ## Bills
-* [HB 1298](/bill/2021-22/hb/1298/) - Accessory dwelling units | Referred to Local Government.
-* [HB 1299](/bill/2021-22/hb/1299/) - Hospitality industry/B&O tax | By resolution, reintroduced and retained in present status.
-* [HB 1399](/bill/2021-22/hb/1399/) - Prof. licensure/convictions | Effective date 1/1/2022.
-* [HB 1400](/bill/2021-22/hb/1400/) - Alt. professional licensing | By resolution, reintroduced and retained in present status.
-* [HB 1401](/bill/2021-22/hb/1401/) - Prof. licenses/new residents | By resolution, reintroduced and retained in present status.
-* [HB 1402](/bill/2021-22/hb/1402/) - Prof. licensing review | By resolution, reintroduced and retained in present status.
-* [HB 1403](/bill/2021-22/hb/1403/) - License review and reporting | By resolution, reintroduced and retained in present status.
-* [HB 1404](/bill/2021-22/hb/1404/) - Highly capable student prgs. | By resolution, reintroduced and retained in present status.
-* [HB 1432](/bill/2021-22/hb/1432/) - Distilled spirit sales | By resolution, reintroduced and retained in present status.
-* [HB 1648](/bill/2021-22/hb/1648/) - Accountancy/inactive license | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
-* [HB 1874](/bill/2021-22/hb/1874/) - Prof. licensure/convictions | Referred to Rules 2 Review.
-* [HB 2080](/bill/2021-22/hb/2080/) - Liquor license endorsement | First reading, referred to Commerce & Gaming.
-* [HB 2084](/bill/2021-22/hb/2084/) - Third WA-OR bridge study | First reading, referred to Transportation.
+* [HB 1298](bill/2021-22/hb/1298/) - Accessory dwelling units
+* [HB 1299](bill/2021-22/hb/1299/) - Hospitality industry/B&O tax
+* [HB 1399](bill/2021-22/hb/1399/) - Prof. licensure/convictions
+* [HB 1400](bill/2021-22/hb/1400/) - Alt. professional licensing
+* [HB 1401](bill/2021-22/hb/1401/) - Prof. licenses/new residents
+* [HB 1402](bill/2021-22/hb/1402/) - Prof. licensing review
+* [HB 1403](bill/2021-22/hb/1403/) - License review and reporting
+* [HB 1404](bill/2021-22/hb/1404/) - Highly capable student prgs.
+* [HB 1432](bill/2021-22/hb/1432/) - Distilled spirit sales
+* [HB 1648](bill/2021-22/hb/1648/) - Accountancy/inactive license
+* [HB 1874](bill/2021-22/hb/1874/) - Prof. licensure/convictions
+* [HB 2080](bill/2021-22/hb/2080/) - Liquor license endorsement
+* [HB 2084](bill/2021-22/hb/2084/) - Third WA-OR bridge study

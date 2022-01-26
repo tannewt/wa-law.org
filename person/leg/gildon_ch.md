@@ -1,16 +1,16 @@
 # Chris Gildon
 ## Bills
-* [SB 5221](/bill/2021-22/sb/5221/) - Accessory dwelling units | By resolution, reintroduced and retained in present status.
-* [SB 5243](/bill/2021-22/sb/5243/) - Engineered plan approval | By resolution, reintroduced and retained in present status.
-* [SB 5331](/bill/2021-22/sb/5331/) - Early childhood court prg | 2nd substitute bill substituted.
-* [SB 5358](/bill/2021-22/sb/5358/) - Hard-to-place job seekers | By resolution, reintroduced and retained in present status.
-* [SB 5414](/bill/2021-22/sb/5414/) - Data centers/tax preference | By resolution, reintroduced and retained in present status.
-* [SB 5455](/bill/2021-22/sb/5455/) - Law enf. camera recordings | By resolution, reintroduced and retained in present status.
-* [SB 5484](/bill/2021-22/sb/5484/) - COVID-19/county phases | By resolution, reintroduced and retained in present status.
-* [SJR 8201](/bill/2021-22/sjr/8201/) - Special session, 3/5th vote | By resolution, reintroduced and retained in present status.
-* [SB 5690](/bill/2021-22/sb/5690/) - Firearms at capitol/events | First reading, referred to Law & Justice.
-* [SB 5691](/bill/2021-22/sb/5691/) - Prosecutorial filing | First reading, referred to Law & Justice.
-* [SB 5692](/bill/2021-22/sb/5692/) - Corrections programming | Referred to Ways & Means.
-* [SB 5757](/bill/2021-22/sb/5757/) - Multifamily properties/REET | First reading, referred to Housing & Local Government.
-* [SB 5758](/bill/2021-22/sb/5758/) - Condominium conversions | First reading, referred to Housing & Local Government.
-* [SB 5759](/bill/2021-22/sb/5759/) - Housing tax credit program | First reading, referred to Housing & Local Government.
+* [SB 5221](bill/2021-22/sb/5221/) - Accessory dwelling units
+* [SB 5243](bill/2021-22/sb/5243/) - Engineered plan approval
+* [SB 5331](bill/2021-22/sb/5331/) - Early childhood court prg
+* [SB 5358](bill/2021-22/sb/5358/) - Hard-to-place job seekers
+* [SB 5414](bill/2021-22/sb/5414/) - Data centers/tax preference
+* [SB 5455](bill/2021-22/sb/5455/) - Law enf. camera recordings
+* [SB 5484](bill/2021-22/sb/5484/) - COVID-19/county phases
+* [SJR 8201](bill/2021-22/sjr/8201/) - Special session, 3/5th vote
+* [SB 5690](bill/2021-22/sb/5690/) - Firearms at capitol/events
+* [SB 5691](bill/2021-22/sb/5691/) - Prosecutorial filing
+* [SB 5692](bill/2021-22/sb/5692/) - Corrections programming
+* [SB 5757](bill/2021-22/sb/5757/) - Multifamily properties/REET
+* [SB 5758](bill/2021-22/sb/5758/) - Condominium conversions
+* [SB 5759](bill/2021-22/sb/5759/) - Housing tax credit program
