@@ -1,6 +1,6 @@
 # Senate Bill 5334
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5334.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5334.pdf)
 ## Section 1
 The legislature recognizes the importance of providing accurate levy authorization information so that Washington voters are able to make informed decisions about ballot measures and engage as full participants in local elections. The legislature also recognizes that the format and delivery of this information can vary greatly across school districts and communities. The current lack of standardization in communication between school districts and voters can lead to confusion and misinformation about the cost, duration, and impact of school district levies, impacting property taxes within communities. Therefore, it is the intent of the legislature to provide a uniform template to increase transparency and ensure that voters are provided with access to accurate information about school funding measures that impact their communities and their taxes.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1086 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1086-S2.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1086-S2.E.pdf)
 ## Section 1
 1. The legislature finds that:
 

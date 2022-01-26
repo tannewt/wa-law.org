@@ -1,6 +1,6 @@
 # Senate Bill 5659
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5659.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5659.pdf)
 ## Section 1
 1. The legislature finds that while the state has done much work to address the operational carbon emissions attributed to the building sector, such as through the adoption of clean buildings standards and the clean energy transformation act to decarbonize the grid, much can still be done to reduce emissions from embodied carbon. Embodied carbon refers to the greenhouse gas emissions from the manufacturing and other life-cycle stages of building material, including transportation, installation, maintenance, and disposal of material used in the construction of buildings, roads, and other infrastructure. Approximately 40 percent of all global carbon emissions are attributed to the building sector, with around 10 percent resulting from the manufacturing of construction materials.
 

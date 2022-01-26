@@ -1,6 +1,6 @@
 # House Bill 1106
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1106.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1106.pdf)
 ## Section 1
 The legislature finds that Washington state has a Target Zero goal of no deaths on its highways. According to the traffic safety commission's 2019 Target Zero plan, "There has been no meaningful reduction in motorcycle fatalities for at least the last 15 years." Researchers at the safe transportation research and education center at the University of California Berkeley, after evaluating thousands of motorcycle collisions in California, concluded that "lane-splitting motorcyclists were much less often injured during their collisions. They were considerably less likely to suffer head injury, torso injury, extremity injury, and fatal injury than riders who were not lane-splitting." The legislature intends with this act to provide new options to save lives by giving operators of motorcycles a way to legally avoid being rear-ended by other vehicles.
 

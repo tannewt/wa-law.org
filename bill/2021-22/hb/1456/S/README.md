@@ -1,6 +1,6 @@
 # Substitute House Bill 1456 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1456-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1456-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.360](/rcw/43_state_government—executive/43.360_washington_main_street_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.360_washington_main_street_program.md) for context.
 

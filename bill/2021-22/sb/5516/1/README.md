@@ -1,6 +1,6 @@
 # Senate Bill 5516
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5516.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5516.pdf)
 ## Section 1
 The legislature finds that every person who seeks an abortion in Washington should have sufficient information to make an informed decision as to whether to move forward with the procedure. According to the American college of obstetricians and gynecologists, one in four women in the United States will obtain an abortion by age 45. The majority of abortion patients in the United States identify as Black, Hispanic, Asian, or Pacific Islander. Additionally, 75 percent of individuals seeking an abortion are living at or below 200 percent of the federal poverty level.
 

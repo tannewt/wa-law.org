@@ -1,6 +1,6 @@
 # House Bill 1124
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1124.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1124.pdf)
 ## Section 2
 > This section modifies existing section [18.79.260](/rcw/18_businesses_and_professions/18.079_nursing_care.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.079_nursing_care.md) for context.
 

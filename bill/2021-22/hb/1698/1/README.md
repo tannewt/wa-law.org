@@ -1,6 +1,6 @@
 # House Bill 1698
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1698.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1698.pdf)
 ## Section 1
 Latex allergies affect an estimated one to six percent of the general population. Individuals who come into contact with latex, such as food service and health care workers, are more likely to develop a latex allergy. Latex allergies may be caused by frequent exposure to latex, inhalation of latex particles, ingesting food prepared by using latex gloves, and contact with mucosal surfaces such as the eyes, nose, and mouth. The most common cause of latex allergy involves touching latex-containing products such as latex gloves. Latex allergies may cause itchy skin, hives, or anaphylaxis, a potentially life-threatening condition that can cause swelling and severe difficulty breathing.
 

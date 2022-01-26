@@ -1,6 +1,6 @@
 # House Bill 1745
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1745.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1745.pdf)
 ## Section 1
 The legislature has adopted various laws regarding employee health and safety standards and employers' responsibilities to provide a safe and healthy workplace. These laws include provisions for what constitutes a safety or health violation and under what circumstances an employer may or must be assessed a civil penalty due to a safety or health violation. The legislature further finds that there are rare, unanticipated circumstances which require immediate action due to imminent danger of loss of life or serious injury that require employees or employers to take actions they would otherwise not take due to specific requirements in laws or rules. The legislature therefore intends to provide the director of the department of labor and industries with the authority to waive a penalty or violation in limited circumstances that required immediate action due to imminent danger of loss of life or serious injury and no other practical option was immediately available.
 

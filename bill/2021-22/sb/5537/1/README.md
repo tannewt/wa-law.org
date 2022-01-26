@@ -1,6 +1,6 @@
 # Senate Bill 5537
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5537.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5537.pdf)
 ## Section 1
 The legislature finds that establishing a minimum age for compulsory school attendance recognizes the importance that education has on the future opportunities of children. The legislature further finds that the state currently provides an opportunity for access to education through public, private, and home-based instruction options. The legislature reaffirms its support for these educational options to fit the needs of individual children and families. The legislature also finds that a majority of states require school attendance beginning with children who are five or six years of age. Washington is the only state that requires school attendance beginning with children who are eight years of age. Therefore, the legislature intends to amend the compulsory attendance laws to ensure that every child residing in Washington receives an education beginning by five years of age.
 

@@ -1,6 +1,6 @@
 # House Bill 1555
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1555.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1555.pdf)
 ## Section 1
 1. The legislature acknowledges that many parents desire to homeschool their children or wish to send them to a private school. Parents' reasons for preferring a venue of education other than public school are varied and may be motivated by religious or moral convictions. Despite the desire to choose an educational environment that best meets their children's needs, very few parents have the financial means to afford the substantial costs of homeschooling or private schooling. The legislature recognizes that if the state provided a program to alleviate some of these education costs, parents who prefer a different venue for their children's education would have new opportunities to choose homeschooling or private schooling.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5282
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5282.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5282.pdf)
 ## Section 1
 > This section modifies existing section [84.56.020](/rcw/84_property_taxes/84.56_collection_of_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.56_collection_of_taxes.md) for context.
 

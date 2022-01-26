@@ -1,6 +1,6 @@
 # House Bill 1683
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1683.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1683.pdf)
 ## Section 1
 > This section modifies existing section [84.34.100](/rcw/84_property_taxes/84.34_open_space_agricultural_timberlands—current_use—conservation_futures.md). Here is the [modified chapter](rcw/84_property_taxes/84.34_open_space_agricultural_timberlands—current_use—conservation_futures.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5373
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5373.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5373.pdf)
 ## Section 1
 1. The emissions of greenhouse gases, such as carbon dioxide, is a significant contributor to anthropogenic climate change, and has devastating adverse impacts on Washington's economy, environment, natural resources, and communities. Our state is already experiencing rising sea levels, depleting snowpack, increased flooding, acidifying oceans, and more frequent and severe wildfires. These impacts impair our prosperity and impose burdensome costs on our businesses and communities.
 

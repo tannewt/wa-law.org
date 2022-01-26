@@ -1,6 +1,6 @@
 # House Bill 1367 - Session Law Chapter 005 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1367.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1367.SL.pdf)
 ## Section 1
 FOR THE DEPARTMENT OF SOCIAL AND HEALTH SERVICES—DEVELOPMENTAL DISABILITIES PROGRAM—COMMUNITY SERVICES
 

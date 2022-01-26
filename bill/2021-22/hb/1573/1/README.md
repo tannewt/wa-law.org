@@ -1,6 +1,6 @@
 # House Bill 1573
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1573.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1573.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [7.69](/rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md) for context.
 

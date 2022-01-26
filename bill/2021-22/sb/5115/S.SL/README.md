@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5115 - Session Law Chapter 252 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5115-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5115-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [51.32](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
 

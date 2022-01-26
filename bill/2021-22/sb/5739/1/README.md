@@ -1,6 +1,6 @@
 # Senate Bill 5739
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5739.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5739.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [70A.205](/rcw/70A_environmental_health_and_safety/70A.205_solid_waste_management—reduction_and_recycling.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.205_solid_waste_management—reduction_and_recycling.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5214
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5214.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5214.pdf)
 ## Section 1
 > This section modifies existing section [74.08A.010](/rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md). Here is the [modified chapter](rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5034
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5034.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5034.pdf)
 ## Section 1101
 This chapter may be known and cited as the Washington nonprofit corporation act.
 

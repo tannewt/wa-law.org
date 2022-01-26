@@ -1,6 +1,6 @@
 # Substitute House Bill 1355 as Recommended by Rural Development, Agriculture & Natural Resources
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1355-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1355-S.pdf)
 ## Section 1
 > This section modifies existing section [17.10.010](/rcw/17_weeds_rodents_and_pests/17.10_noxious_weeds—control_boards.md). Here is the [modified chapter](rcw/17_weeds_rodents_and_pests/17.10_noxious_weeds—control_boards.md) for context.
 

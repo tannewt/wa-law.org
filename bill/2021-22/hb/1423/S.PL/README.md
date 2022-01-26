@@ -1,6 +1,6 @@
 # Substitute House Bill 1423 as Recommended by Environment & Energy - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1423-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1423-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [70.15.3160](/rcw/70_public_health_and_safety/70.015_uniform_emergency_volunteer_health_practitioners_act.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.015_uniform_emergency_volunteer_health_practitioners_act.md) for context.
 

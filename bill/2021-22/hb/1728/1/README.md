@@ -1,6 +1,6 @@
 # House Bill 1728
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1728.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1728.pdf)
 ## Section 1
 > This section modifies existing section [70.14.160](/rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md) for context.
 

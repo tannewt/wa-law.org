@@ -1,6 +1,6 @@
 # Senate Bill 5248
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5248.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5248.pdf)
 ## Section 1
 The legislature finds that there is a statewide need to standardize rights and responsibilities of individuals confined in county, municipal, and juvenile detention facilities throughout the state. The legislature recognizes that the Washington corrections standards board previously existed from between 1981 and 1987, providing, monitoring, and enforcing jail operating standards. The legislature further finds that the elimination of the board has led to a reduction in consistency in jail standards and elimination of statewide enforcement and inspection mechanisms. The legislature finds that lack of a regulatory body with oversight powers has led to an adult jail system lacking in both transparency and oversight. The legislature concludes that this has had a negative impact upon those confined in such facilities. This negative impact has detrimentally affected the health, safety, and living conditions of those experiencing incarceration in jails.
 

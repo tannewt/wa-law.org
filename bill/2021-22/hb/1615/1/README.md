@@ -1,6 +1,6 @@
 # House Bill 1615
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1615.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1615.pdf)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

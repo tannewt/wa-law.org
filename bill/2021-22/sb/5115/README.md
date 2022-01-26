@@ -1,5 +1,5 @@
 # SB 5115 - Health emergency/labor
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5115&Year=2021)
+*Status: Effective date 5/11/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5115&Year=2021)
 
 Establishing health emergency labor standards.
 

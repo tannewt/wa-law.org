@@ -1,6 +1,6 @@
 # House Bill 1707
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1707.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1707.pdf)
 ## Section 1
 The legislature recognizes that drowning is the most common cause of death of individuals engaging in recreational boating activities, including the use of kayaks, canoes, and stand-up paddleboards. The legislature also recognizes that although the wearing of a personal flotation device could prevent as many as half of all boating-related drowning deaths, fewer than 20 percent of adults wear a personal flotation device when engaging in recreational boating activities. The legislature finds that in circumstances where individuals are required by law to wear, and not just carry, personal flotation devices, there is a substantial increase in the number of individuals who wear personal flotation devices.
 

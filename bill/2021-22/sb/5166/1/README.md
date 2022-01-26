@@ -1,6 +1,6 @@
 # Senate Bill 5166
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5166.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5166.pdf)
 ## Section 601
 > This section modifies existing section [47.60.505](/rcw/47_public_highways_and_transportation/47.60_puget_sound_ferry_and_toll_bridge_system.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.60_puget_sound_ferry_and_toll_bridge_system.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1419
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1419.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1419.pdf)
 ## Section 1
 The legislature intends to prioritize serving students through a more just and racially equitable education system that prioritizes the whole child. Key to this effort is attracting, recruiting, preparing, and retaining a diverse, skilled, responsive, and reflective educator workforce. Washington state and school districts will strive to hire an educator workforce that reflects the diversity of the students they teach and will establish systems to retain their educator workforce as critical teaching skills and practices are cultivated and developed over time. A fair and equitable salary allocation to districts is foundational to this work.
 

@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5232
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5232.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5232.E.pdf)
 ## Section 1
 > This section modifies existing section [47.10.897](/rcw/47_public_highways_and_transportation/47.10_highway_construction_bonds.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.10_highway_construction_bonds.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5712
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5712.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5712.pdf)
 ## Section 1
 The legislature finds that all Washington state residents are entitled to clear, transparent utility bills. Many local jurisdictions impose utility taxes that utility providers are required to collect. Residents deserve clear and transparent bills, yet these utility taxes can be difficult or impossible to discern on current utility billing statements. Considering the rapidly escalating costs of housing, the legislature intends to create transparency of utility bills for residents to better understand this component of their housing costs.
 

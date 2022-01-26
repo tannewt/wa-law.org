@@ -1,6 +1,6 @@
 # House Bill 2037
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2037.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2037.pdf)
 ## Section 1
 1. In 2021, the legislature passed Engrossed Second Substitute House Bill No. 1310, codified as chapter 10.120 RCW, with the goal of establishing a uniform statewide standard for use of force by peace officers. Since these provisions were enacted, the complexities and nuances of police practices and applicable laws, both in statute and common law, have posed implementation challenges for some police agencies. For that reason, the legislature hereby intends to provide clarification and guidance to police agencies and the public with the passage of chapter . . . (House Bill No. 1735), Laws of 2022, focusing on behavioral health and other related issues, and the additional changes in this legislation, focusing on enforcement practices as well as clarifying definitions.
 

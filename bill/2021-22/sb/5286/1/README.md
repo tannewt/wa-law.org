@@ -1,6 +1,6 @@
 # Senate Bill 5286
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5286.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5286.pdf)
 ## Section 1
 The legislature finds that management of organic waste is an essential component of the state's solid waste management system. Proper management of organic waste provides many environmental and economic benefits to the state, local governments, residents, and businesses. Composting, anaerobic digestion, and other forms of organic waste management can mitigate climate change by reducing our carbon footprint through increased carbon sequestration, when compost or recycled organic materials are applied to soil systems, and through the useful diversion of organic waste from landfills, where the waste would otherwise produce carbon intensive methane emissions. This diversion of organic waste creates a savings in space for landfills that are already overstressed by the current demand for waste disposal.
 

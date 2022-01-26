@@ -1,6 +1,6 @@
 # House Bill 1687
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1687.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1687.pdf)
 ## Section 1
 The legislature finds that the college bound scholarship is an important financial aid program that prompts students to begin to have a college-going mindset early in high school. The data indicates that since the first cohort of college bound scholarship students, there were just under 5,000 students who were college bound scholarship applicants, but had grade point averages below 2.0. Despite not meeting the requirements to receive the college bound scholarship, these students still went on to pursue postsecondary education. The legislature recognizes that community and technical colleges do not require a certain grade point average to enroll, but that strong academic performance is still a requirement for direct admittance to a four-year institution of higher education from high school. Since the legislature believes that many students who may not have performed well academically in high school can still thrive at a community and technical college, it is the legislature's intent to keep students' dreams of higher education alive by allowing students without a "C" average to still qualify for college bound scholarships.
 

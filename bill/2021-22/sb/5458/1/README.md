@@ -1,6 +1,6 @@
 # Senate Bill 5458
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5458.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5458.pdf)
 ## Section 2
 > This section modifies existing section [43.19.725](/rcw/43_state_government—executive/43.019_department_of_enterprise_services.md). Here is the [modified chapter](rcw/43_state_government—executive/43.019_department_of_enterprise_services.md) for context.
 

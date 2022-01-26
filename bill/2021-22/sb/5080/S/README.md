@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5080 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5080-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5080-S.pdf)
 ## Section 1
 > This section modifies existing section [82.32.559](/rcw/82_excise_taxes/82.32_general_administrative_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.32_general_administrative_provisions.md) for context.
 

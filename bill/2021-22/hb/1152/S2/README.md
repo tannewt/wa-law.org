@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1152 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1152-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1152-S2.pdf)
 ## Section 1
 The legislature finds the COVID-19 pandemic has been the most difficult challenge in Washington's public health history since the 1918 flu pandemic. More Americans have died from COVID-19 than the number of United States troops killed in combat during World War II. The COVID-19 pandemic response has stressed and strained every part of our society and far surpassed the capabilities of local, state, tribal, and even federal public health agencies. Before the COVID-19 pandemic, the legislature had initiated action to address the critical challenges Washington's public health system faces, including limited organizational capacity, financial resources, and understaffing through beginning to specifically fund foundational public health services. The COVID-19 pandemic laid bare the shortcomings of Washington's current public health system which have been studied and identified for over a decade. Washington's current public health system was not able to consistently monitor and track the pandemic, staff the many required missions, adequately address the health inequities, and implement standard approaches to disease containment.
 

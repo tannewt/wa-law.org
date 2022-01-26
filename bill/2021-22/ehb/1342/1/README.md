@@ -1,6 +1,6 @@
 # Engrossed House Bill 1342 - Session Law Chapter 074 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1342.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1342.SL.pdf)
 ## Section 1
 The legislature recognizes that the challenges and difficulties of food insecurity affect Washington households throughout the state. The legislature recognizes also that many families rely on the food and nutritional benefits of reduced-price school lunches, and that hungry students face additional barriers to academic success.
 

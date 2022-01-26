@@ -1,6 +1,6 @@
 # House Bill 1205
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1205.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1205.pdf)
 ## Section 1
 > This section modifies existing section [74.13.031](/rcw/74_public_assistance/74.13_child_welfare_services.md). Here is the [modified chapter](rcw/74_public_assistance/74.13_child_welfare_services.md) for context.
 

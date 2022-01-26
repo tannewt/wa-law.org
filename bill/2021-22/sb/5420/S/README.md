@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5420 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5420-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5420-S.pdf)
 ## Section 1
 The legislature finds that state data reporting requirements for hospitals are placing unwarranted burdens on the health care system during the national and state emergency related to the COVID-19 pandemic. The legislature further finds that such an assessment must identify which hospital data reporting obligations need to be modified and whether collecting additional data or information fulfills legislative objectives.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5216
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5216.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5216.pdf)
 ## Section 1
 1. The legislature finds that Washington has among the largest number of tax preferences (i.e., credits, exemptions, deductions, and preferential rates) in the nation due in large part to the unique nature of the state's tax structure. The legislature finds that measuring and assessing the efficacy of such preferences is essential to ensure the most effective use of public resources, and that public access to easily available data is vital to conduct such evaluations.
 

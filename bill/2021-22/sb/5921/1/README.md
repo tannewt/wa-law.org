@@ -1,6 +1,6 @@
 # Senate Bill 5921
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5921.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5921.pdf)
 ## Section 1
 > This section modifies existing section [84.33.051](/rcw/84_property_taxes/84.33_timber_and_forestlands.md). Here is the [modified chapter](rcw/84_property_taxes/84.33_timber_and_forestlands.md) for context.
 

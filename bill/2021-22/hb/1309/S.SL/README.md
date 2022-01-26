@@ -1,6 +1,6 @@
 # Substitute House Bill 1309 - Session Law Chapter 042 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1309-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1309-S.SL.pdf)
 ## Section 1
 It is the intent of the legislature to align the statutory dates by which the county legislative authority must certify property tax levies and adopt the county budget. State law currently provides dates by which the county legislative authority must take these two actions that do not align, making county compliance difficult, if not impossible. It is the intent of the legislature to correct this situation by providing a timeline that can be implemented by county officials without negatively impacting junior taxing districts.
 

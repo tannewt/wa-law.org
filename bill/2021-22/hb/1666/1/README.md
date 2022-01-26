@@ -1,6 +1,6 @@
 # House Bill 1666
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1666.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1666.pdf)
 ## Section 1
 > This section modifies existing section [82.12.010](/rcw/82_excise_taxes/82.12_use_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.12_use_tax.md) for context.
 

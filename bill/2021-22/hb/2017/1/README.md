@@ -1,6 +1,6 @@
 # House Bill 2017
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2017.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2017.pdf)
 ## Section 1
 1. The legislature finds that having a conviction history or having been incarcerated are significant risk factors for housing instability and homelessness. Formerly incarcerated individuals are almost 10 times more likely to experience homelessness than the rest of the population, and much more likely to experience housing insecurity in general. The legislature recognizes that formerly incarcerated people and their families report being denied housing due to a criminal conviction. These barriers to housing have detrimental economic, emotional, and psychological impacts, including separating families when one member of a household is not permitted to live in the home.
 

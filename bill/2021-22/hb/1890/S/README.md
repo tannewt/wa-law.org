@@ -1,6 +1,6 @@
 # Substitute House Bill 1890 as Recommended by Children, Youth & Families
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1890-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1890-S.pdf)
 ## Section 1
 > This section modifies existing section [74.09.4951](/rcw/74_public_assistance/74.09_medical_care.md). Here is the [modified chapter](rcw/74_public_assistance/74.09_medical_care.md) for context.
 

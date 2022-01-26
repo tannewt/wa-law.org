@@ -1,6 +1,6 @@
 # House Bill 1080
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1080.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1080.pdf)
 ## Section 1
 1. A capital budget is hereby adopted and, subject to the provisions set forth in this act, the several dollar amounts hereinafter specified, or so much thereof as shall be sufficient to accomplish the purposes designated, are hereby appropriated and authorized to be incurred for capital projects during the period beginning with the effective date of this act and ending June 30, 2023, out of the several funds specified in this act.
 

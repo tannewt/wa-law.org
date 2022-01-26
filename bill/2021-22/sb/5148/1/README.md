@@ -1,6 +1,6 @@
 # Senate Bill 5148
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5148.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5148.pdf)
 ## Section 1
 > This section modifies existing section [9A.46.020](/rcw/09A_washington_criminal_code/9A.46_harassment.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.46_harassment.md) for context.
 

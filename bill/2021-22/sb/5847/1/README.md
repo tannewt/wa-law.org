@@ -1,6 +1,6 @@
 # Senate Bill 5847
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5847.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5847.pdf)
 ## Section 1
 1. The legislature recognizes that our country faces a student loan debt crisis. Nationally, Americans owe $1.73 trillion in student loans. In Washington state, about 767,300 student loan borrowers owe nearly $27.4 billion of outstanding debt, more than $35,700 per borrower on average.
 

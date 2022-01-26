@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1336 - Session Law Chapter 294 Year 2021 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1336-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1336-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [54.16.005](/rcw/54_public_utility_districts/54.16_powers.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.16_powers.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5314
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5314.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5314.pdf)
 ## Section 1
 The growth management act was initially established in 1990. Since its inception, various elements of the act have been highly litigated. The costs of litigation have become burdensome on cities and counties and have had a chilling effect on growth and development especially in rural counties. In order to relieve this burden, the legislature finds that it is time to make the growth management hearings board consistent with other land use appeals.
 

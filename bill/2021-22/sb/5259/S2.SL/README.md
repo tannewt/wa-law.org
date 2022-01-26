@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5259 - Session Law Chapter 326 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5259-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5259-S2.SL.pdf)
 ## Section 1
 The legislature finds that law enforcement transparency and accountability are vital in maintaining public trust. Data collection is one essential tool to allow the public, law enforcement, and policymakers to analyze the effectiveness of existing police practices, determine which policies and training work and do not work, and avoid unintended consequences by supporting policy decisions with clear and relevant data.
 

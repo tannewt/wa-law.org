@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5311 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5311-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5311-S.pdf)
 ## Section 1
 > This section modifies existing section [74.46.561](/rcw/74_public_assistance/74.46_nursing_facility_medicaid_payment_system.md). Here is the [modified chapter](rcw/74_public_assistance/74.46_nursing_facility_medicaid_payment_system.md) for context.
 

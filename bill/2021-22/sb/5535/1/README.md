@@ -1,6 +1,6 @@
 # Senate Bill 5535
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5535.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5535.pdf)
 ## Section 1
 The purpose of this act is to repeal RCW 13.40.220, also known as the "parent pay" statute, which requires parents to pay a percentage of their gross income to the department of children, youth, and families for the cost of their child's support, treatment, and confinement in the department's juvenile rehabilitation residential facilities.
 

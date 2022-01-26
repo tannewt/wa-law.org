@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1227 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1227-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1227-S2.PL.pdf)
 ## Section 1
 This act may be known and cited as the keeping families together act.
 

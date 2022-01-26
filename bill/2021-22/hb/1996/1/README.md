@@ -1,6 +1,6 @@
 # House Bill 1996
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1996.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1996.pdf)
 ## Section 1
 > This section modifies existing section [36.89.050](/rcw/36_counties/36.089_highways—open_spaces—parks—other_public_facilities—stormwater_control.md). Here is the [modified chapter](rcw/36_counties/36.089_highways—open_spaces—parks—other_public_facilities—stormwater_control.md) for context.
 

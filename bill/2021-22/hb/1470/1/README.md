@@ -1,6 +1,6 @@
 # House Bill 1470
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1470.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1470.pdf)
 ## Section 1
 1. The legislature finds that the people of Washington have benefited from the presence of the aerospace industry. The legislature further finds that the industry continues to provide good-wage jobs and benefits for employees throughout the state. The legislature acknowledges that expansion of the aerospace industry to other types of aircraft manufacturing would provide additional good-wage jobs for the citizens of Washington, increasing the economic activity of manufacturing in the state. Therefore, the legislature intends to extend certain aerospace industry tax preferences to commercial unmanned aircraft systems manufacturing in order to encourage the migration of these businesses to Washington, in turn creating and retaining good-wage jobs and new tax revenue for the state.
 

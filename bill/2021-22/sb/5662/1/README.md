@@ -1,6 +1,6 @@
 # Senate Bill 5662
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5662.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5662.pdf)
 ## Section 1
 1. The legislature finds that many individuals experience homelessness as a result of a lack of available and affordable housing, increasing rents, insufficient income, complex and long-term behavioral health conditions, or disabilities, or as a result of domestic violence. Every night thousands of Washingtonians go to sleep in places not meant for human habitation, such as cars, parks, sidewalks, abandoned buildings, and spaces along the public rights-of-way. More than 1,750 unsanctioned encampments exist on public rights-of-way managed by state agencies. Public right-of-way encampments present increasing concerns for the health and safety of those encamped in this space, the public, and those workers who are responsible to maintain and improve public lands.
 

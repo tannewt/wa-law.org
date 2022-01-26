@@ -1,6 +1,6 @@
 # Engrossed House Bill 1251 - Session Law Chapter 121 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1251.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1251.SL.pdf)
 ## Section 1
 > This section modifies existing section [46.09.455](/rcw/46_motor_vehicles/46.09_off-road_nonhighway_and_wheeled_all-terrain_vehicles.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.09_off-road_nonhighway_and_wheeled_all-terrain_vehicles.md) for context.
 

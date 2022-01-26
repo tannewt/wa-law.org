@@ -1,6 +1,6 @@
 # Substitute House Bill 1218 - Session Law Chapter 159 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1218-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1218-S.SL.pdf)
 ## Section 1
 The legislature finds that:
 

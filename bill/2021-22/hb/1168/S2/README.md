@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1168 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1168-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1168-S2.pdf)
 ## Section 1
 1. Over the last decade, forestland and rangeland wildfires have grown larger and increased in intensity and destructiveness throughout Washington state. The annual acres burned in our state illustrates this alarming trend. In the 1990s, an average of 86,000 acres burned annually. In the 2000s, the average annual acres burned increased to 189,000. In the last five years, the annual average grew to more than 488,000 acres burned. This trajectory of escalation continued last year, with wildfires burning more than 812,000 acres.
 

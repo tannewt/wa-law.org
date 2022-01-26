@@ -1,6 +1,6 @@
 # House Bill 1794
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1794.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1794.pdf)
 ## Section 1
 > This section modifies existing section [49.48.010](/rcw/49_labor_regulations/49.48_wages—payment—collection.md). Here is the [modified chapter](rcw/49_labor_regulations/49.48_wages—payment—collection.md) for context.
 

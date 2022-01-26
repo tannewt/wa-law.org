@@ -1,6 +1,6 @@
 # Senate Bill 5871
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5871.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5871.pdf)
 ## Section 1
 The legislature recognizes that greater flexibility is required to meet the increasingly complex needs of student populations. Through establishing a microschool pilot program, the legislature intends to provide certificated educators with the opportunity to showcase unique professional approaches and customized education services to improve the student academic experience. The legislature also understands that some students may particularly benefit from accessing instruction not regularly offered within the typical K-12 classroom. Therefore, the legislature intends to prioritize the approval of microschools that serve students with disabilities, students who are not meeting academic standards, and students who require transitional bilingual instruction.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5021 - Session Law Chapter 012 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5021.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5021.SL.pdf)
 ## Section 1
 It is the intent of the legislature that this act be curative, remedial, and retroactively applied.
 

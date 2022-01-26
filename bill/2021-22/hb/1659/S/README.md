@@ -1,6 +1,6 @@
 # Substitute House Bill 1659 as Recommended by College & Workforce Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1659-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1659-S.pdf)
 ## Section 1
 The legislature finds that Washington is not on track to meet the state's educational attainment goal that at least 70 percent of adults, aged 25 to 44, have a postsecondary credential by the year 2023. Adults without a postsecondary credential are more at risk of unemployment, less likely to earn a living wage, and more vulnerable to economic downturns. The student achievement council has deemed that there are four areas essential to achieve the state's 70 percent attainment goal: Affordability, enrollment, completion, and student supports. In terms of affordability, the legislature recognizes that the Washington college grant is one of the country's largest and most generous financial aid programs. However, the legislature also recognizes that despite an increase in financial aid funding and eligibility, enrollments at institutions of higher education are down due to the COVID-19 pandemic. Many prospective students have made the decision to delay pursuing higher education for a myriad of reasons. However, fewer enrollments mean fewer graduates going on to work in high paying jobs, which could have a significant impact on the state's workforce and economy in the future.
 

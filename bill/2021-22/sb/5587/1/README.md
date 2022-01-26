@@ -1,6 +1,6 @@
 # Senate Bill 5587
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5587.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5587.pdf)
 ## Section 1
 1. The legislature finds that public health is essential to Washington state residents of all ages and ethnicities and that balancing public water systems with an optimal level of fluoride is a proven mechanism for reducing health disparities affecting people at all stages of life.
 

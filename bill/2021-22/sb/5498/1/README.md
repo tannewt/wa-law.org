@@ -1,6 +1,6 @@
 # Senate Bill 5498
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5498.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5498.pdf)
 ## Section 1
 This act may be known and cited as Evitan's law.
 

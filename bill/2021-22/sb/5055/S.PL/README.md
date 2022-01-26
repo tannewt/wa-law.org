@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5055 as Recommended by Labor, Commerce & Tribal Affairs - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5055-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5055-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [41.58](/rcw/41_public_employment_civil_service_and_pensions/41.58_public_employment_labor_relations.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.58_public_employment_labor_relations.md) for context.
 

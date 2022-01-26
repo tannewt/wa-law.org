@@ -1,6 +1,6 @@
 # Senate Bill 5598
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5598.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5598.pdf)
 ## Section 1
 1. The legislature finds that the department of natural resources' derelict vessel removal program is seen as a national model for vessel removal, yet funding for the program is not sufficient to remove all sunken and abandoned vessels from state waters.
 

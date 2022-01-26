@@ -1,6 +1,6 @@
 # Senate Bill 5664
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5664.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5664.pdf)
 ## Section 2
 > This section modifies existing section [10.77.060](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
 

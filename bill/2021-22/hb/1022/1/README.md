@@ -1,6 +1,6 @@
 # House Bill 1022 - Session Law Chapter 149 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1022.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1022.SL.pdf)
 ## Section 1
 > This section modifies existing section [67.16.100](/rcw/67_sports_and_recreation—convention_facilities/67.16_horse_racing.md). Here is the [modified chapter](rcw/67_sports_and_recreation—convention_facilities/67.16_horse_racing.md) for context.
 

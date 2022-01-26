@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1050 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1050-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1050-S2.pdf)
 ## Section 1
 1. The legislature finds that hydrofluorocarbons are air pollutants that pose significant threats to our environment. Although hydrofluorocarbons currently represent a small proportion of the state's greenhouse gas emissions, emissions of hydrofluorocarbons have been rapidly increasing in the United States and worldwide, and they are hundreds to thousands of times more potent than carbon dioxide. In 2019, the legislature took a significant step towards reducing greenhouse gas emissions from hydrofluorocarbons by transitioning to the use of less damaging hydrofluorocarbons or suitable substitutes in certain new foam, aerosol, and refrigerant uses. However, significant sources of hydrofluorocarbon emissions in Washington remain unaddressed by the 2019 legislation, including legacy uses of hydrofluorocarbons as a refrigerant in infrastructure that was installed prior to the effective dates of the restrictions in the 2019 law, and from sources like stationary air conditioners and heat pumps that were not covered by the 2019 law.
 

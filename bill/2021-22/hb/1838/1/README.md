@@ -1,6 +1,6 @@
 # House Bill 1838
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1838.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1838.pdf)
 ## Section 101
 This act shall be known and cited as the Lorraine Loomis act.
 

@@ -1,6 +1,6 @@
 # House Bill 1907
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1907.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1907.pdf)
 ## Section 1
 The legislature recognizes the importance of philanthropic entities that donate millions of dollars in private scholarships to students and that such entities are a key component in helping students attain their educational goals. The legislature seeks to encourage philanthropic giving of private scholarships and declares that such entities are more likely to donate money when they know their scholarships will genuinely help recipients meet their financial needs. Therefore, the legislature intends to incentivize the giving of scholarships by private entities by addressing scholarship displacement.
 

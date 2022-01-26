@@ -1,6 +1,6 @@
 # House Bill 1179
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1179.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1179.pdf)
 ## Section 1
 > This section modifies existing section [43.88A.010](/rcw/43_state_government—executive/43.088A_legislative_fiscal_notes.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088A_legislative_fiscal_notes.md) for context.
 

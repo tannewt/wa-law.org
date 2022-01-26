@@ -1,6 +1,6 @@
 # Senate Bill 5752
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5752.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5752.pdf)
 ## Section 1
 The legislature finds that persistent and disproportionate wealth inequities exist in Washington state. As wealth is the key indicator of long-term economic stability and well-being, those born into families of limited means face additional and substantial barriers to accessing reliable pathways out of poverty such as owning a home, completing postsecondary education, or starting a small business. The legislature declares that it is the public policy of the state and a recognized governmental function to assist individuals who are born into families of limited means to overcome economic and other disadvantages that would otherwise limit their opportunities as adults, making them better able to contribute to the general welfare.
 

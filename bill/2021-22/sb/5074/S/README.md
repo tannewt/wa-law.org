@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5074 as Recommended by Subcommittee on Behavioral Health
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5074-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5074-S.pdf)
 ## Section 1
 The legislature finds that the safe station program is a concept that started with successful model programs in the cities of Manchester and Nashua, New Hampshire and has spread throughout New England, including a widespread presence in Rhode Island. Under this act, participating fire departments are designated as safe stations that provide assessment and referral services at their station locations. Alternatively, or in addition, fire departments may have a mobile response unit that responds to requests for assistance in community-based locations. Basic screening is provided by mental health professionals, substance use disorder professionals, licensed practical nurses, paramedics, registered nurses, or emergency medical technicians who are trained to provide a welcoming environment and connect persons to treatment support and services, including transportation to acute medical services when warranted. Safe stations break down barriers for individuals and allow them to interact with support in recovery. Safe stations provide an alternative to emergency rooms and can serve as a diversion for people who need help but are not at the point of crisis.
 

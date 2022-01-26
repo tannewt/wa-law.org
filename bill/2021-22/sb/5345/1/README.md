@@ -1,6 +1,6 @@
 # Senate Bill 5345 - Session Law Chapter 308 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5345.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5345.SL.pdf)
 ## Section 1
 The legislature finds that industrial symbiosis networks create valuable collaborative opportunities where the underutilized resources of one company, such as waste, by-products, residues, energy, water, logistics, capacity, expertise, equipment, and materials may be used by another. The legislature further finds that many existing businesses and organizations in the state have the potential to partner in the establishment of these networks, and the formation of industrial symbiosis innovation hubs at the state and local level would facilitate a systems approach that identifies business opportunities to improve resource utilization and productivity for a more sustainable and integrated industrial economy.
 

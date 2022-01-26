@@ -1,6 +1,6 @@
 # House Bill 1288
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1288.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1288.pdf)
 ## Section 2
 > This section modifies existing section [28B.20.744](/rcw/28B_higher_education/28B.020_university_of_washington.md). Here is the [modified chapter](rcw/28B_higher_education/28B.020_university_of_washington.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1383 - Session Law Chapter 114 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1383-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1383-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.89.010](/rcw/18_businesses_and_professions/18.089_respiratory_care_practitioners.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.089_respiratory_care_practitioners.md) for context.
 

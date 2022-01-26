@@ -1,6 +1,6 @@
 # House Bill 1764
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1764.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1764.pdf)
 ## Section 1
 1. It is the intent and purpose of section 2 of this act to recognize that:
 

@@ -1,6 +1,6 @@
 # House Bill 2026
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2026.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2026.pdf)
 ## Section 1
 The legislature finds that increasing the rate of adoption of electric and hybrid vehicles is helping to reduce harmful air pollution from exhaust emissions, including greenhouse gas emissions, in the state. At the same time, the legislature also finds that a fair and equitable means of funding the statewide transportation system in the long-term is needed as vehicles become more fuel efficient. The legislature also finds that a road usage charge or per mile fee is a viable funding method that more fairly and accurately assesses road users for their use of public roads, rather than doing so through registration fees or motor vehicle fuel taxes. It is therefore the legislature's intent to establish a road usage charge program that imposes a per mile fee for the use of public roads.
 

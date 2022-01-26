@@ -1,6 +1,6 @@
 # Senate Bill 5063 - Session Law Chapter 177 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5063.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5063.SL.pdf)
 ## Section 1
 > This section modifies existing section [79A.25.310](/rcw/79A_public_recreational_lands/79A.25_recreation_and_conservation_funding_board.md). Here is the [modified chapter](rcw/79A_public_recreational_lands/79A.25_recreation_and_conservation_funding_board.md) for context.
 

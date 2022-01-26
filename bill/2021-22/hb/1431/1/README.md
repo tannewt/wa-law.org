@@ -1,6 +1,6 @@
 # House Bill 1431
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1431.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1431.pdf)
 ## Section 1
 The legislature finds that youth benefit by engaging in outdoor activities, such as fishing and shellfishing. Participating in such activities can boost self-esteem and cultivate an appreciation for nature. The legislature further finds that expensive equipment and license fees can be a barrier to this activity for some youth. Therefore, the legislature intends to reduce financial barriers to fishing and shellfishing by establishing a grant program to enable local organizations to establish equipment rental programs and increase the age at which a fishing license is required.
 

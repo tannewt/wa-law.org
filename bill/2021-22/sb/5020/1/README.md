@@ -1,6 +1,6 @@
 # Senate Bill 5020
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5020.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5020.pdf)
 ## Section 1
 1. The legislature recognizes a need to protect the safety, health, and economic well-being of Washington residents by guarding them from the negative and harmful impact of unsupported price increases for prescription drugs.
 

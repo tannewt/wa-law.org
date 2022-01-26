@@ -1,6 +1,6 @@
 # Senate Bill 5477
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5477.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5477.pdf)
 ## Section 1
 > This section modifies existing section [66.44.318](/rcw/66_alcoholic_beverage_control/66.44_enforcement—penalties.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.44_enforcement—penalties.md) for context.
 

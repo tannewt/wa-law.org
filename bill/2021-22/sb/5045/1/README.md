@@ -1,6 +1,6 @@
 # Senate Bill 5045
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5045.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5045.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [16.50](/rcw/16_animals_and_livestock/16.50_humane_slaughter_of_livestock.md). Here is the [modified chapter](rcw/16_animals_and_livestock/16.50_humane_slaughter_of_livestock.md) for context.
 

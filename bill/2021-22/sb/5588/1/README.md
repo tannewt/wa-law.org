@@ -1,6 +1,6 @@
 # Senate Bill 5588
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5588.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5588.pdf)
 ## Section 1
 > This section modifies existing section [72.09.270](/rcw/72_state_institutions/72.09_department_of_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.09_department_of_corrections.md) for context.
 

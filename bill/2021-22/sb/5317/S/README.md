@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5317 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5317-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5317-S.pdf)
 ## Section 1
 > This section modifies existing section [15.58.070](/rcw/15_agriculture_and_marketing/15.058_washington_pesticide_control_act.md). Here is the [modified chapter](rcw/15_agriculture_and_marketing/15.058_washington_pesticide_control_act.md) for context.
 

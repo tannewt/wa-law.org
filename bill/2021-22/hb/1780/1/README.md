@@ -1,6 +1,6 @@
 # House Bill 1780
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1780.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1780.pdf)
 ## Section 1
 > This section modifies existing section [28C.18.200](/rcw/28C_vocational_education/28C.18_workforce_training_and_education.md). Here is the [modified chapter](rcw/28C_vocational_education/28C.18_workforce_training_and_education.md) for context.
 

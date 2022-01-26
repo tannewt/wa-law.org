@@ -1,6 +1,6 @@
 # House Bill 1940
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1940.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1940.pdf)
 ## Section 1
 > This section modifies existing section [43.10.030](/rcw/43_state_government—executive/43.010_attorney_general.md). Here is the [modified chapter](rcw/43_state_government—executive/43.010_attorney_general.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1118
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1118.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1118.pdf)
 ## Section 1
 1. The legislature finds the department of ecology was directed, through an independent consultant, to study how plastic packaging is managed in the state, assess various policy options, and provide recommendations to achieve goals, that included:
 

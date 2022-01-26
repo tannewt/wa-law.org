@@ -1,6 +1,6 @@
 # House Bill 1094
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1094.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1094.pdf)
 ## Section 1
 1. A budget is hereby adopted and, subject to the provisions set forth in the following sections, the several amounts specified in parts I through IX of this act, or so much thereof as shall be sufficient to accomplish the purposes designated, are hereby appropriated and authorized to be incurred for salaries, wages, and other expenses of the agencies and offices of the state and for other specified purposes for the fiscal biennium beginning July 1, 2021, and ending June 30, 2023, except as otherwise provided, out of the several funds of the state hereinafter named.
 

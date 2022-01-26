@@ -1,6 +1,6 @@
 # House Bill 1127
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1127.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1127.pdf)
 ## Section 1
 1. The legislature finds that the public health system must use all available and effective tools to prevent the spread of the novel coronavirus COVID-19 and save lives in Washington. Public health case investigation, testing, and contact tracing are traditional, trusted public health tools used to control the spread of communicable diseases and are subject to laws and policies protecting health information privacy. As the economy reopens, the staggering number of COVID-19 cases continue to test capacity of the public health system's ability to control COVID-19. In an effort to increase the system's capacity, academic institutions and technology companies have recently developed digital tools, including web and mobile applications, to assist local and state public health agencies with contact tracing efforts.
 

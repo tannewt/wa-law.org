@@ -1,6 +1,6 @@
 # House Bill 1203
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1203.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1203.pdf)
 ## Section 1
 The legislature finds that transparency and community oversight are integral components of just and fair governance; this is especially true with respect to the exercise of law enforcement functions within communities. The legislature further finds that recent violent interactions between law enforcement officers and community members have sounded an urgent call for a renewed and multifaceted approach to increase police accountability in Washington. The establishment of community oversight boards to investigate and report on officers' activities is one such essential step, as internal police oversight mechanisms have proven to be insufficient. Increased community oversight will lead to better policies for avoiding adverse incidents between law enforcement officers and community members, and also to more just and transparent outcomes when incidents do arise. To this end, the legislature intends to provide a standardized framework for robust and effective community oversight of law enforcement functions, with the ultimate goal of statewide implementation of community oversight boards over the coming years.
 

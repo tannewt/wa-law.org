@@ -1,6 +1,6 @@
 # House Bill 1269
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1269.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1269.pdf)
 ## Section 1
 > This section modifies existing section [46.76.030](/rcw/46_motor_vehicles/46.76_motor_vehicle_transporters.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.76_motor_vehicle_transporters.md) for context.
 

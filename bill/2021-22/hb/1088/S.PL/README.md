@@ -1,6 +1,6 @@
 # Substitute House Bill 1088 as Recommended by Civil Rights & Judiciary - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1088-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1088-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [10.93](/rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md) for context.
 

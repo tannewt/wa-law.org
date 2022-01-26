@@ -1,6 +1,6 @@
 # House Bill 1804
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1804.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1804.pdf)
 ## Section 1
 > This section modifies existing section [41.04.005](/rcw/41_public_employment_civil_service_and_pensions/41.04_general_provisions.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.04_general_provisions.md) for context.
 

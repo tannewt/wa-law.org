@@ -1,6 +1,6 @@
 # House Bill 1385
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1385.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1385.pdf)
 ## Section 1
 The legislature recognizes that water rights are usufructuary property rights that may be transferred to others and used at a new place of use and for a new purpose of use under the authority of RCW 90.03.380 or amended under the authority of RCW 90.44.100. However, the legislature finds that there may be instances in which transfers of water rights used for irrigated agriculture from the water resource inventory area (WRIA) of origin to another WRIA are not in the public interest. These transfers can have serious adverse impacts on the WRIA of origin, including impacts on agriculture and community sustainability, and on the amount of water available for future appropriation. This is particularly true where water from the WRIA flows into the Columbia river and there are no WRIAs upstream to replace water that has been transferred out. Therefore, the legislature intends to protect agricultural water supply, rural economies, and the local public interest by prohibiting water right transfers out of the WRIAs described in section 2 of this act except as in the manner described in section 2 of this act.
 

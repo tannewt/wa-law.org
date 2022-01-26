@@ -1,6 +1,6 @@
 # Senate Bill 5198 - Session Law Chapter 017 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5198.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5198.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.73.150](/rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md) for context.
 

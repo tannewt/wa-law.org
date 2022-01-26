@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5049 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5049-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5049-S.pdf)
 ## Section 2
 > This section modifies existing section [66.24.630](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5378 as Recommended by Business, Financial Services & Trade - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5378-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5378-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [18.85.211](/rcw/18_businesses_and_professions/18.085_real_estate_brokers_and_managing_brokers.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.085_real_estate_brokers_and_managing_brokers.md) for context.
 

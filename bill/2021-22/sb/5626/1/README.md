@@ -1,6 +1,6 @@
 # Senate Bill 5626
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5626.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5626.pdf)
 ## Section 1
 1. The legislature finds that climate change impacts pose a significant threat to Washington's drinking water supplies. According to the University of Washington's climate impacts group, the state is projected to experience decreases in snowpack, increases in stream temperatures, and widespread changes in streamflow timing, flooding, and summer minimum flows. These impacts are critical, since the state's drinking water supply is comprised of the affected groundwater sources, surface waters, and snowpack and snowmelt, which recharge rivers, lakes, and aquifers.
 

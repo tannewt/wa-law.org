@@ -1,6 +1,6 @@
 # House Bill 1388
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1388.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1388.pdf)
 ## Section 2
 > This section modifies existing section [46.96.185](/rcw/46_motor_vehicles/46.96_manufacturers_and_dealers_franchise_agreements.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.96_manufacturers_and_dealers_franchise_agreements.md) for context.
 

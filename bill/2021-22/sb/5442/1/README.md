@@ -1,6 +1,6 @@
 # Senate Bill 5442
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5442.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5442.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.330](/rcw/28A_common_school_provisions/28A.330_provisions_applicable_to_school_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.330_provisions_applicable_to_school_districts.md) for context.
 

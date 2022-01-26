@@ -1,6 +1,6 @@
 # Senate Bill 5453
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5453.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5453.pdf)
 ## Section 101
 The legislature finds that the assets in the local law enforcement officers' and firefighters' retirement system benefits improvement account, when combined with the excess funding in the law enforcement officers' and firefighters' plan 2 retirement fund, are sufficient to fund a benefit improvement for members of the law enforcement officers' and firefighters' plan 2 without increasing the short-term cost for members, employers, or the state. As such, it is the intent of the legislature to increase the retirement allowance for active members with more than 15 years of service and to provide a one-time payment to retired members.
 

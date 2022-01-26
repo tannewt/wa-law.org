@@ -1,6 +1,6 @@
 # House Bill 1452
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1452.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1452.pdf)
 ## Section 1
 1. The legislature recognizes that the ongoing coronavirus pandemic has led to the complete or partial discontinuation of in-person instruction for many students throughout Washington. As a result, schools, teachers, and students have, by necessity, pivoted to the broad use of internet-based remote instruction.
 

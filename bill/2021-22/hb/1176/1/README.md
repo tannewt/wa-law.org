@@ -1,6 +1,6 @@
 # House Bill 1176
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1176.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1176.pdf)
 ## Section 1
 > This section modifies existing section [28A.635.060](/rcw/28A_common_school_provisions/28A.635_offenses_relating_to_school_property_and_personnel.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.635_offenses_relating_to_school_property_and_personnel.md) for context.
 

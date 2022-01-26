@@ -1,6 +1,6 @@
 # Senate Bill 5669
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5669.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5669.pdf)
 ## Section 1
 In order to meet the statewide greenhouse gas emissions limits in RCW 70A.45.020, the state must require construction of increasingly low-emission energy efficient homes and buildings and achieve construction of zero fossil-fuel greenhouse gas emission homes and buildings by 2030. Top categories of clean energy jobs in the buildings sector include: High-efficiency heating, ventilation, and air conditioning; energy efficiency technologies; and renewable heating and cooling. As the fastest growing clean energy industries in our state, work in these areas also supports job creation in other construction trades, which is a critical component of a clean energy economic recovery strategy.
 

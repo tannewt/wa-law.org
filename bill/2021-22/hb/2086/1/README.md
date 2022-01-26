@@ -1,6 +1,6 @@
 # House Bill 2086
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2086.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2086.pdf)
 ## Section 1
 1. Local fire departments in the state of Washington serve as the frontline responders to wildland fires. The fire chief of each local fire department with jurisdiction over wildland fires is tasked with making rapid decisions, especially during the summer months when weather conditions can cause fires to rapidly enlarge. Flashy fuels, especially during times of low humidity, can be ignited by a single spark and erupt into a rapidly moving incident that can quickly destroy rangelands, ripe dryland crops, and timberlands.
 

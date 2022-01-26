@@ -1,6 +1,6 @@
 # House Bill 1143 - Session Law Chapter 110 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1143.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1143.SL.pdf)
 ## Section 1
 > This section modifies existing section [90.42.080](/rcw/90_water_rights—environment/90.42_water_resource_management.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.42_water_resource_management.md) for context.
 

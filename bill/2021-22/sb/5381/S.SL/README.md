@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5381 - Session Law Chapter 289 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5381-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5381-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [77.55.181](/rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5200
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5200.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5200.pdf)
 ## Section 1
 The legislature intends to expand parent and student choice in education by authorizing a tax credit for private contributions to student scholarship organizations. With this tax credit, the legislature intends to enable parents to independently determine which school best meets the educational needs of their children.
 

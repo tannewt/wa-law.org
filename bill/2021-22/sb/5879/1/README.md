@@ -1,6 +1,6 @@
 # Senate Bill 5879
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5879.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5879.pdf)
 ## Section 1
 > This section modifies existing section [48.18.545](/rcw/48_insurance/48.018_the_insurance_contract.md). Here is the [modified chapter](rcw/48_insurance/48.018_the_insurance_contract.md) for context.
 

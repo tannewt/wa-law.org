@@ -1,6 +1,6 @@
 # Senate Bill 5525
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5525.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5525.pdf)
 ## Section 1
 > This section modifies existing section [90.48.240](/rcw/90_water_rights—environment/90.48_water_pollution_control.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.48_water_pollution_control.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5367 - Session Law Chapter 189 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5367.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5367.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [41.50](/rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md) for context.
 

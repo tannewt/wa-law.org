@@ -1,6 +1,6 @@
 # Substitute House Bill 1250 as Recommended by State Government & Tribal Relations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1250-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1250-S.PL.pdf)
 ## Section 1
 1. Washington state is grateful to be home to multitudes of United States armed forces members, veterans, and their families that have made the choice to protect freedom and our country.
 

@@ -1,6 +1,6 @@
 # House Bill 1639
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1639.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1639.pdf)
 ## Section 1
 > This section modifies existing section [13.60.010](/rcw/13_juvenile_courts_and_juvenile_offenders/13.60_missing_children_clearinghouse.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.60_missing_children_clearinghouse.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed House Bill 1049 - Session Law Chapter 201 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1049.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1049.SL.pdf)
 ## Section 1
 > This section modifies existing section [19.118.031](/rcw/19_business_regulations—miscellaneous/19.118_motor_vehicle_warranties.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.118_motor_vehicle_warranties.md) for context.
 

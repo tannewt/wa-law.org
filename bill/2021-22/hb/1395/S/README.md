@@ -1,6 +1,6 @@
 # Substitute House Bill 1395 as Recommended by Rural Development, Agriculture & Natural Resources
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1395-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1395-S.pdf)
 ## Section 1
 1. The legislature finds that the agricultural industry is a significant part of the culture and economy of Washington. Even so, according to the 2017 census of agriculture prepared by the United States department of agriculture, farmers from historically underrepresented groups make up only a small fraction of total farmers. For example, less than 2,000 producers out of 63,298 total, or about three percent, are from American Indian and Alaska Native, Asian, Black/African American, and Native Hawaiian and Pacific Islander communities. Additionally, under 3,000 producers report to be of Latin, Hispanic, or Spanish origin.
 

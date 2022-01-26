@@ -1,6 +1,6 @@
 # House Bill 1398
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1398.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1398.pdf)
 ## Section 1
 The legislature finds that the COVID-19 public health crisis is causing sustained economic downturn throughout Washington state and is also causing many tenants and rental housing providers to experience economic hardship. It is the intent of the legislature to create a temporary program to provide funds for tenants significantly impacted by the COVID-19 public health crisis to pay rent to their housing providers and remain in compliance with the terms of their leases.
 

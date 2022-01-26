@@ -1,6 +1,6 @@
 # House Bill 1869
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1869.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1869.pdf)
 ## Section 1
 The legislature intends to provide a voluntary option for cities and counties planning to incorporate salmon recovery into their planning under the growth management act. The legislature intends to do this in a way that provides for meaningful and measurable improvement in the protection and enhancement of habitat for anadromous fish. The legislature intends to do this without increasing the liability of cities and counties and their taxpayers, and in a way that encourages rather than discourages the voluntary participation of private landowners in projects that will improve habitat in a watershed.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5337 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5337-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5337-S.pdf)
 ## Section 2
 > This section modifies existing section [84.36.385](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
 

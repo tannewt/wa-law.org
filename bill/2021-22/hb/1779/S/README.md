@@ -1,6 +1,6 @@
 # Substitute House Bill 1779 as Recommended by Labor & Workplace Standards
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1779-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1779-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [49.17](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.
 

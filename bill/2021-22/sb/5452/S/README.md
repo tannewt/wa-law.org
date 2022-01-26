@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5452 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5452-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5452-S.pdf)
 ## Section 1
 The department of natural resources and the department of fish and wildlife shall each undergo a public process to collect information related to electric-assisted bicycle use on nonmotorized natural surface trails and closed roads open to nonmotorized recreation to determine where such use may occur, and which classes of electric-assisted bicycles are acceptable on such trails and roads under the agencies' management.
 

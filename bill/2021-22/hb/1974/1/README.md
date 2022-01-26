@@ -1,6 +1,6 @@
 # House Bill 1974
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1974.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1974.pdf)
 ## Section 1
 > This section modifies existing section [28A.305.021](/rcw/28A_common_school_provisions/28A.305_state_board_of_education.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.305_state_board_of_education.md) for context.
 

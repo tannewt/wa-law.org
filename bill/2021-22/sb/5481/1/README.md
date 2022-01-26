@@ -1,6 +1,6 @@
 # Senate Bill 5481
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5481.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5481.pdf)
 ## Section 1
 In order to provide funds necessary for the location, design, right-of-way, and construction of selected projects or improvements that are identified as forward Washington projects or improvements in an omnibus transportation appropriations act, there shall be issued and sold upon the request of the department of transportation a total of $5,500,000,000 of general obligation bonds of the state of Washington.
 

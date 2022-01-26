@@ -1,6 +1,6 @@
 # Senate Bill 5365
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5365.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5365.pdf)
 ## Section 1
 The legislature finds that the board exists to promote safe communities and public safety. However, there is no agency to promote the growth and development of the cannabis industry within the state. The legislature therefore declares:
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5302 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5302-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5302-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.19](/rcw/43_state_government—executive/43.019_department_of_enterprise_services.md). Here is the [modified chapter](rcw/43_state_government—executive/43.019_department_of_enterprise_services.md) for context.
 

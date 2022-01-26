@@ -1,6 +1,6 @@
 # Senate Bill 5619
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5619.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5619.pdf)
 ## Section 1
 1. The legislature finds that coastal ecosystems and marine vegetation provide an array of valuable ecosystem goods and services to deep water and nearshore environments in Puget Sound and along the coastline. In particular, kelp forests and eelgrass meadows act as three dimensional foundations for diverse and productive nearshore ecosystems, supporting food webs and providing important habitat for a wide array of marine life, including orcas and threatened and endangered salmon and salmonid species. These marine forests and meadows play an important role in climate mitigation and adaptation by sequestering carbon and relieving ocean acidification. Marine vegetation can sequester up to 20 times more carbon than terrestrial forests, and therefore represent a critical tool in the fight against climate change.
 

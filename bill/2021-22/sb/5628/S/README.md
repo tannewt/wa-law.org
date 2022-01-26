@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5628 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5628-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5628-S.pdf)
 ## Section 1
 > This section modifies existing section [9.61.260](/rcw/09_crimes_and_punishments/9.061_malicious_mischief—injury_to_property.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.061_malicious_mischief—injury_to_property.md) for context.
 

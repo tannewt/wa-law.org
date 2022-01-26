@@ -1,6 +1,6 @@
 # House Bill 1392
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1392.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1392.pdf)
 ## Section 1
 1. The legislature finds that trauma-informed de-escalation and harm reduction techniques are effective in ensuring the peaceful resolution of emergency crisis situations involving mental illness, homelessness, and addiction.
 

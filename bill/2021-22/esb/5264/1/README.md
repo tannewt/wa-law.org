@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5264
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5264.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5264.E.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.117](/rcw/43_state_government—executive/43.117_state_commission_on_asian_pacific_american_affairs.md). Here is the [modified chapter](rcw/43_state_government—executive/43.117_state_commission_on_asian_pacific_american_affairs.md) for context.
 

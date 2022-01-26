@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5065 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5065-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5065-S.E.pdf)
 ## Section 1
 The legislature finds that railroad employees are susceptible to illness from working in confined spaces as well as the illnesses and injuries that affect the general population, yet have no paid sick leave and may be subject to discipline for absence due to illness and injury.
 

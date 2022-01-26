@@ -1,6 +1,6 @@
 # House Bill 1923
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1923.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1923.pdf)
 ## Section 1
 > This section modifies existing section [13.34.050](/rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.34_juvenile_court_act—dependency_and_termination_of_parent-child_relationship.md) for context.
 

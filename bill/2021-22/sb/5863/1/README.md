@@ -1,6 +1,6 @@
 # Senate Bill 5863
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5863.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5863.pdf)
 ## Section 1
 > This section modifies existing section [46.55.010](/rcw/46_motor_vehicles/46.55_towing_and_impoundment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.55_towing_and_impoundment.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1242
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1242.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1242.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [49.12](/rcw/49_labor_regulations/49.12_industrial_welfare.md). Here is the [modified chapter](rcw/49_labor_regulations/49.12_industrial_welfare.md) for context.
 

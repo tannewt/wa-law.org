@@ -1,6 +1,6 @@
 # House Bill 2030
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2030.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2030.pdf)
 ## Section 1
 > This section modifies existing section [43.20.050](/rcw/43_state_government—executive/43.020_state_board_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.020_state_board_of_health.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5315
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5315.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5315.pdf)
 ## Section 1
 The legislature finds that creating a framework for Washington private entities and public institutions of higher education to manage their risks through captive insurers will facilitate the growth and safety of those entities and protect the public interest. The legislature further finds that captive insurance promotes prudent risk management and provides access to insurance and reinsurance markets that may not be available to these Washington entities otherwise. The legislature believes that encouraging the use of captive insurance will support those who rely upon the strength and stability of employers in this state.
 

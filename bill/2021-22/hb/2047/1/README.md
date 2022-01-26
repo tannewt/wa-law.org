@@ -1,6 +1,6 @@
 # House Bill 2047
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2047.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2047.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [64.32](/rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md) for context.
 

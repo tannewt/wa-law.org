@@ -1,6 +1,6 @@
 # Senate Bill 5300
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5300.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5300.pdf)
 ## Section 2
 > This section modifies existing section [16.36.020](/rcw/16_animals_and_livestock/16.36_animal_health.md). Here is the [modified chapter](rcw/16_animals_and_livestock/16.36_animal_health.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5905
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5905.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5905.pdf)
 ## Section 1
 1. The legislature finds that time outdoors helps children thrive physically, emotionally, and academically, yet over the past few generations, childhood has moved indoors. On average, today's kids spend up to 44 hours per week in front of a screen, and less than 10 minutes a day doing activities outdoors. For too many kids, access to the outdoors is determined by race, income, ability, and zip code. All children deserve equitable access to outdoor spaces where they can learn, play, and grow. Current access to outdoor school is inequitable mostly due to funding and administrative constraints.
 

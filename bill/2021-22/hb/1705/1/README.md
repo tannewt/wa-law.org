@@ -1,6 +1,6 @@
 # House Bill 1705
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1705.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1705.pdf)
 ## Section 1
 The legislature finds that ghost guns are untraceable and unregulated firearms that lack a unique serial number that would allow them to be traced to a specific manufacturer, dealer, and purchaser. The absence of a serial number on ghost guns undermines the ability of law enforcement to identify individuals who have used such guns in the commission of a crime, which incentivizes the use of ghost guns in criminal acts, makes it easier for criminals to evade detection and employ lethal force, and endangers public safety.
 

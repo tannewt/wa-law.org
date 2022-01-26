@@ -1,6 +1,6 @@
 # House Bill 1381
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1381.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1381.pdf)
 ## Section 1
 > This section modifies existing section [43.06.210](/rcw/43_state_government—executive/43.006_governor.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006_governor.md) for context.
 

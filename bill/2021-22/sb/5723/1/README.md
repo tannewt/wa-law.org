@@ -1,6 +1,6 @@
 # Senate Bill 5723
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5723.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5723.pdf)
 ## Section 1
 1. The legislature finds that controlled clinical trials provide a critical base of evidence for evaluating whether a medical product is effective before the product is approved for marketing. The food and drug administration has evaluated demographic profiles of people participating in clinical trials for approved drugs and found that some groups, especially ethnic and racial groups, aren't always well represented in clinical trials. Diversity in clinical trials is necessary to effectively determine how race, gender, and age impacts how a person metabolizes a drug.
 

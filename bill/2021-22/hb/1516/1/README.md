@@ -1,6 +1,6 @@
 # House Bill 1516
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1516.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1516.pdf)
 ## Section 1
 It is in the interest of the legislature to promote human rights and access to a living wage with adequate worker protections for all workers, including those in agriculture.
 

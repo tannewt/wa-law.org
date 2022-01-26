@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5185 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5185-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5185-S.pdf)
 ## Section 1
 > This section modifies existing section [7.70.065](/rcw/07_special_proceedings_and_actions/7.070_actions_for_injuries_resulting_from_health_care.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.070_actions_for_injuries_resulting_from_health_care.md) for context.
 

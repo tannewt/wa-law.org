@@ -1,6 +1,6 @@
 # House Bill 1404
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1404.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1404.pdf)
 ## Section 1
 > This section modifies existing section [28A.185.020](/rcw/28A_common_school_provisions/28A.185_highly_capable_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.185_highly_capable_students.md) for context.
 

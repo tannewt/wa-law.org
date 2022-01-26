@@ -1,6 +1,6 @@
 # Senate Bill 5634
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5634.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5634.pdf)
 ## Section 1
 > This section modifies existing section [80.24.010](/rcw/80_public_utilities/80.24_regulatory_fees.md). Here is the [modified chapter](rcw/80_public_utilities/80.24_regulatory_fees.md) for context.
 

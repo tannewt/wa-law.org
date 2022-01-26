@@ -1,6 +1,6 @@
 # Senate Bill 5922
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5922.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5922.pdf)
 ## Section 1
 This act may be known and cited as the education equity in every zip code act or EEEZ act.
 

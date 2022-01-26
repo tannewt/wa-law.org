@@ -1,6 +1,6 @@
 # Senate Bill 5122
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5122.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5122.pdf)
 ## Section 1
 > This section modifies existing section [9A.04.050](/rcw/09A_washington_criminal_code/9A.04_preliminary_article.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.04_preliminary_article.md) for context.
 

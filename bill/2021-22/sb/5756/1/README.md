@@ -1,6 +1,6 @@
 # Senate Bill 5756
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5756.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5756.pdf)
 ## Section 1
 1. The semiquincentennial committee is established with members as provided in this subsection:
 

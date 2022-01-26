@@ -1,6 +1,6 @@
 # House Bill 1643
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1643.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1643.pdf)
 ## Section 1
 1. The legislature finds that Washington state has one of the strongest economies in the country. However, despite the strong economy, our state has entered an affordable housing crisis where low-income and middle-income households have the fewest number of housing options. Furthermore, it is estimated that Washington state's housing gap is among the most severe in the nation, with only 29 affordable and available rental homes for every 100 extremely low-income households.
 

@@ -1,6 +1,6 @@
 # House Bill 2025
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2025.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2025.pdf)
 ## Section 1
 > This section modifies existing section [9.46.0209](/rcw/09_crimes_and_punishments/9.046_gambling—1973_act.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.046_gambling—1973_act.md) for context.
 

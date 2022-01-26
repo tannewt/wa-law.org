@@ -1,6 +1,6 @@
 # Substitute House Bill 1263 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1263-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1263-S.pdf)
 ## Section 1
 The definitions in this section apply throughout this section and sections 2 through 4 of this act unless the context clearly requires otherwise.
 

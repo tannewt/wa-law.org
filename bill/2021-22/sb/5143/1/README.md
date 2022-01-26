@@ -1,6 +1,6 @@
 # Senate Bill 5143
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5143.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5143.pdf)
 ## Section 1
 This act may be known and cited as the free and fair elections act of 2021.
 

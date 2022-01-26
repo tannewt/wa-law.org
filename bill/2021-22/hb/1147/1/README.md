@@ -1,6 +1,6 @@
 # House Bill 1147
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1147.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1147.pdf)
 ## Section 1
 Washington state residents have been increasingly impacted by natural disasters such as floods, landslides, wildfires, earthquakes, and the COVID-19 pandemic and they continue to be at risk from these and other natural disasters, with communities of color and vulnerable populations disproportionately impacted. The legislature finds that it is critical to better prepare Washington for disasters to mitigate the impacts of natural disasters with coordinated resiliency strategies. The legislature further finds a resilient Washington increases quality of life for Washingtonians while every one dollar spent on mitigation saves six dollars spent on recovery. To address this critical need, the legislature intends to create an office of resiliency to implement a statewide resiliency strategy for the benefit of all Washingtonians while conserving expenditures by both public and private sectors.
 

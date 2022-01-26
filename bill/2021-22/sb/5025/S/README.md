@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5025 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5025-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5025-S.pdf)
 ## Section 1
 The legislature finds that:
 

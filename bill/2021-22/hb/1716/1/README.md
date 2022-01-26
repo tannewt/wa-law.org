@@ -1,6 +1,6 @@
 # House Bill 1716
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1716.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1716.pdf)
 ## Section 1
 > This section modifies existing section [29A.08.140](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
 

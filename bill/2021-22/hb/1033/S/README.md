@@ -1,6 +1,6 @@
 # Substitute House Bill 1033 as Recommended by College & Workforce Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1033-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1033-S.pdf)
 ## Section 1
 
 ## Section 2

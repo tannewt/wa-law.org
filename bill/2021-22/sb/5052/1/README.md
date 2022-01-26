@@ -1,6 +1,6 @@
 # Senate Bill 5052
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5052.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5052.pdf)
 ## Section 1
 1. The legislature finds that people of color and immigrant populations experience significant health disparities compared to the general population, including more limited access to health care and poorer health outcomes. The legislature finds that these circumstances result in higher rates of morbidity and mortality for persons of color and immigrant populations than observed in the general population.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5047
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5047.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5047.pdf)
 ## Section 1
 > This section modifies existing section [10.95.030](/rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md) for context.
 

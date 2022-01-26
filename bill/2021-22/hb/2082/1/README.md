@@ -1,6 +1,6 @@
 # House Bill 2082
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2082.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2082.pdf)
 ## Section 1
 1. The department of children, youth, and families shall conduct competitive procurements as necessary in accordance with chapter 39.26 RCW to select a private entity to conduct a statewide assessment of child care deserts, with a focus on families of children with intellectual and developmental disabilities, in order to better understand the availability, affordability, and accessibility of child care that meets the needs of all families, including those with children with intellectual and developmental disabilities. The statewide assessment required under this section must be conducted in partnership with a statewide organization representing the interests of children and adults with intellectual and developmental disabilities.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5249 as Recommended by Early Learning & K-12 Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5249-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5249-S.pdf)
 ## Section 2
 1. The state board of education shall review the profile of a graduate recommended by the mastery-based learning work group under section 1 of this act. The state board of education may consider modifications to the profile based on public comment and shall submit a report outlining its findings and recommendations to the governor and the education committees of the house of representatives and the senate by December 31, 2022.
 

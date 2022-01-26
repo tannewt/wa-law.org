@@ -1,6 +1,6 @@
 # Substitute House Bill 1259 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1259-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1259-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [39.19.020](/rcw/39_public_contracts_and_indebtedness/39.019_office_of_minority_and_womens_business_enterprises.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.019_office_of_minority_and_womens_business_enterprises.md) for context.
 

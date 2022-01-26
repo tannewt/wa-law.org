@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1120 - Session Law Chapter 203 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1120-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1120-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.43.832](/rcw/43_state_government—executive/43.043_washington_state_patrol.md). Here is the [modified chapter](rcw/43_state_government—executive/43.043_washington_state_patrol.md) for context.
 

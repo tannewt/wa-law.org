@@ -1,6 +1,6 @@
 # Senate Bill 5450
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5450.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5450.pdf)
 ## Section 1
 1. The legislature finds that the use of racially derogatory or discriminatory school mascots, logos, or team names in public schools is antithetical to their mission of providing an equal education to all, and contrary to the goal of making schools safe and respectful learning environments.
 

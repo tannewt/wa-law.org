@@ -1,6 +1,6 @@
 # Senate Bill 5195
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5195.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5195.pdf)
 ## Section 1
 The legislature finds that Washington has made great strides in recent years to address the opioid crisis in our state. However, there continues to be too many deaths from opioid overdose in communities across the state. The use of opioid antagonists such as naloxone reverses the effects of opioids and can be lifesaving when an opioid overdose occurs.
 

@@ -1,6 +1,6 @@
 # House Bill 1364
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1364.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1364.pdf)
 ## Section 1
 1. The legislature finds that salmon, listed as endangered species, are of great importance to the culture of all peoples of the Pacific Northwest and are an important link in the food chain. Not only are salmon important to humankind, but salmon are a main food source for critically endangered southern resident orcas. The legislature further finds that pinnipeds such as sea lions and seals are also culturally valuable and protected under federal law, but nevertheless pose a significant threat to salmon and orca recovery through ongoing and excessive predation. Because of the particularly delicate wildlife management questions posed by competition between pinnipeds, orcas, and fish, the state should seek feedback from a wide array of affected tribes and other parties while deciding on an appropriate course of action to address pinniped predation of salmon.
 

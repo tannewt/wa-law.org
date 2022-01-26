@@ -1,6 +1,6 @@
 # House Bill 1243
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1243.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1243.pdf)
 ## Section 1
 > This section modifies existing section [39.108.120](/rcw/39_public_contracts_and_indebtedness/39.108_local_infrastructure_project_areas.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.108_local_infrastructure_project_areas.md) for context.
 

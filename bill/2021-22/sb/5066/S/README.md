@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5066 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5066-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5066-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [10.93](/rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md) for context.
 

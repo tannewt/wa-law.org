@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5383 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5383-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5383-S2.pdf)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has made it clear that equitable access to education can only happen with equitable access to reliable broadband. Increasing broadband access to unserved areas of the state is of vital importance to increasing quality of life, broadening educational opportunities, and promoting economic inclusion in the parts of our state that, without broadband access, cannot fully participate in modern society. The legislature further finds that one of the most effective tools to ensure all Washingtonians have an opportunity to equitably access education, the job market, and health care resources is to allow our public utility districts and port districts to provide retail telecommunications services.
 

@@ -1,6 +1,6 @@
 # House Bill 1677
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1677.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1677.pdf)
 ## Section 1
 The legislature recognizes that the impacts of the COVID-19 pandemic on veterans and military families have been especially hard. The legislature also finds that labor shortages are contributing to the ongoing supply chain disruptions facing many industries, and hiring incentives for veterans and their families can help our economy. The legislature intends to extend the expiration date for the tax incentive for hiring veterans, increase the value of the incentive, increase the statewide incentive cap, and expand eligibility. The legislature finds that concerns for underemployment and unemployment of spouses is a major issue for active duty service members. Therefore, the legislature intends to expand eligibility for the previously existing unemployed veteran hiring tax credit to spouses of active duty military and veterans. The legislature finds that the current requirement that a veteran be unemployed for at least 30 days prior to hiring to be eligible for the tax credit can worsen economic hardship rather than expedite economic support, and creates unnecessary administrative complexity that may hinder utilization of the incentive by employers. Therefore, the legislature intends for employers to be eligible for the tax credit regardless of the duration of unemployment.
 

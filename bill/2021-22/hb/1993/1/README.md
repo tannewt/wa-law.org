@@ -1,6 +1,6 @@
 # House Bill 1993
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1993.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1993.pdf)
 ## Section 1
 The legislature finds that agency decisions related to the regulation of pesticides benefit from robust community and stakeholder engagement. The legislature intends to create a formal and permanent advisory board to advise the department of agriculture on pesticide-related actions.
 

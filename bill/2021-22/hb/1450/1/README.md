@@ -1,6 +1,6 @@
 # House Bill 1450
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1450.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1450.pdf)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has exposed the importance of internet-accessible learning devices to the ability of students to receive a modern education. When Washington schools closed in March 2020, school districts shifted quickly to offering education in an online environment. Teachers adapted their lessons for videoconferencing platforms and arranged for students to submit homework via email. However, distance learning amplified digital deserts and disparities among students that will only continue to grow for the foreseeable future.
 

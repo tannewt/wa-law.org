@@ -1,6 +1,6 @@
 # House Bill 1686
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1686.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1686.pdf)
 ## Section 1
 1. The legislature finds and declares that it is the public policy of the state that:
 

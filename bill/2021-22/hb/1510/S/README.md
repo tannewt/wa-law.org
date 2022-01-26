@@ -1,6 +1,6 @@
 # Substitute House Bill 1510 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1510-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1510-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [46.16A](/rcw/46_motor_vehicles/46.16A_registration.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.16A_registration.md) for context.
 

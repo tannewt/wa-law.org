@@ -1,6 +1,6 @@
 # House Bill 1862
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1862.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1862.pdf)
 ## Section 1
 > This section modifies existing section [70.01.040](/rcw/70_public_health_and_safety/70.001_general_provisions.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.001_general_provisions.md) for context.
 

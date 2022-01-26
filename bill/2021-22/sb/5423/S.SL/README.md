@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5423 - Session Law Chapter 247 Year 2021 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5423-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5423-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.71.030](/rcw/18_businesses_and_professions/18.071_physicians.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.071_physicians.md) for context.
 

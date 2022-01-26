@@ -1,6 +1,6 @@
 # House Bill 1072 - Session Law Chapter 058 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1072.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1072.SL.pdf)
 ## Section 1
 > This section modifies existing section [2.53.030](/rcw/02_courts_of_record/2.53_civil_legal_aid.md). Here is the [modified chapter](rcw/02_courts_of_record/2.53_civil_legal_aid.md) for context.
 

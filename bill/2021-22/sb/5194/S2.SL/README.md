@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5194 - Session Law Chapter 272 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5194-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5194-S2.SL.pdf)
 ## Section 1
 The legislature recognizes that student completion rates for workforce training certification and degree programs at community and technical colleges are far lower than desirable to ensure that students may utilize the opportunities of postsecondary education to lift themselves and their families out of poverty and to meet our state's student achievement council road map goals, including for 70 percent of Washington residents to have a postsecondary certification or degree to meet workforce needs. The legislature recognizes that first-generation college-attending students, students with disabilities, and underrepresented minority students face far greater obstacles to apply, remain in school, and complete programs. This disparate impact greatly affects our state's commitment to equity.
 

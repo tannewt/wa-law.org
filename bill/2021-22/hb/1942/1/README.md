@@ -1,6 +1,6 @@
 # House Bill 1942
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1942.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1942.pdf)
 ## Section 1
 > This section modifies existing section [28A.413.060](/rcw/28A_common_school_provisions/28A.413_paraeducators.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.413_paraeducators.md) for context.
 

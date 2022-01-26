@@ -1,6 +1,6 @@
 # Senate Bill 5431 - Session Law Chapter 108 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5431.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5431.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5061 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5061-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5061-S.pdf)
 ## Section 1
 > This section modifies existing section [28B.50.030](/rcw/28B_higher_education/28B.050_community_and_technical_colleges.md). Here is the [modified chapter](rcw/28B_higher_education/28B.050_community_and_technical_colleges.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5535 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5535-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5535-S.pdf)
 ## Section 1
 1. The purpose of this act is to repeal RCW 13.16.085 and 13.40.220, also known as the "parent pay" statutes, which requires parents to pay a percentage of their gross income for the cost of their child's support, treatment, and confinement.
 

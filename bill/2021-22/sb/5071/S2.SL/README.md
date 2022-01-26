@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5071 - Session Law Chapter 263 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5071-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5071-S2.SL.pdf)
 ## Section 1
 > This section modifies existing section [10.77.150](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
 

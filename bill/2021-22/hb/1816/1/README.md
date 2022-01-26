@@ -1,6 +1,6 @@
 # House Bill 1816
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1816.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1816.pdf)
 ## Section 942
 > This section modifies existing section [43.31.605](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
 

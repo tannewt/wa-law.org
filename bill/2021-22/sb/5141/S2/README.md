@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5141 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5141-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5141-S2.pdf)
 ## Section 1
 1. The purpose of this chapter is to reduce environmental and health disparities in Washington state and improve the health of all Washington state residents. This chapter implements the recommendations of the environmental justice task force established in section 221(48), chapter 415, Laws of 2019 entitled "Report to the Washington state governor and legislature, Environmental Justice Task Force: Recommendations for Prioritizing EJ in Washington State Government (October 2020)."
 

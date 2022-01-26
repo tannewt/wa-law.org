@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5092 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5092-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5092-S.E.pdf)
 ## Section 1
 1. A budget is hereby adopted and, subject to the provisions set forth in the following sections, the several amounts specified in parts I through IX of this act, or so much thereof as shall be sufficient to accomplish the purposes designated, are hereby appropriated and authorized to be incurred for salaries, wages, and other expenses of the agencies and offices of the state and for other specified purposes for the fiscal biennium beginning July 1, 2021, and ending June 30, 2023, except as otherwise provided, out of the several funds of the state hereinafter named.
 

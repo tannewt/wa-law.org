@@ -1,6 +1,6 @@
 # Senate Bill 5114
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5114.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5114.pdf)
 ## Section 1
 1. The legislature finds that Washingtonians have been patient and vigilant in the long fight against COVID-19 while experiencing severe hardships as a result of limitations on social events, business, travel, worship, and a variety of other activities. While the people must be commended for their endurance in the face of a historic trial, it is time for Washington's government to demonstrate that it trusts Washingtonians to conduct their affairs with a sense of individual responsibility and due consideration for others. The legislature emphatically believes that the people of Washington have shown that they are rising to the challenges of COVID-19, that they care for their communities, and that businesses and other facilities in this state are equipped and ready to serve their customers and patrons in a safe manner.
 

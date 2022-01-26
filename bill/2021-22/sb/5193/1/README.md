@@ -1,6 +1,6 @@
 # Senate Bill 5193
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5193.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5193.pdf)
 ## Section 1
 The legislature finds with roughly $4,700,000,000 in the state unemployment insurance trust fund, Washington entered the COVID-19 pandemic with one of the strongest and well-funded trust funds in the nation. During an unprecedented time, the state's unemployment insurance trust fund provided critical economic support to Washington workers and businesses through unemployment benefits and helped bolster the state's economy.
 

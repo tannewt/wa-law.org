@@ -1,6 +1,6 @@
 # Senate Bill 5555
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5555.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5555.pdf)
 ## Section 1
 1. The legislature acknowledges that a primary responsibility of government is to ensure public safety and that almost always an emergency response begins with a request to 911 for assistance. Requests to 911 and subsequent emergency response communications are managed by public safety telecommunicator professionals. These first responders are essential workers who continue public service throughout the pandemic, who are essential to triage requests for emergency responses and provide lifesaving instructions and guidance to those who call 911, ensuring the appropriate response for the situation; law enforcement, behavioral health, fire, and emergency medical. The public safety telecommunicator also dispatches, tracks, processes, and transmits information from the public and continually communicates with responders providing an additional layer of safety. The legislature takes special note of the contributions made by public safety telecommunicators whose tasks are arduous and whose working conditions may be contributing to the high and often critical turnover among the principal cadre of professionals who receive and process requests from the public for emergency response and provide emergency communications with public safety responders.
 

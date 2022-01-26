@@ -1,6 +1,6 @@
 # House Bill 1180
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1180.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1180.pdf)
 ## Section 1
 > This section modifies existing section [42.30.020](/rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.30_open_public_meetings_act.md) for context.
 

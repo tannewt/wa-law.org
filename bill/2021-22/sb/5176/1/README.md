@@ -1,6 +1,6 @@
 # Senate Bill 5176
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5176.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5176.pdf)
 ## Section 1
 > This section modifies existing section [79A.60.010](/rcw/79A_public_recreational_lands/79A.60_regulation_of_recreational_vessels.md). Here is the [modified chapter](rcw/79A_public_recreational_lands/79A.60_regulation_of_recreational_vessels.md) for context.
 

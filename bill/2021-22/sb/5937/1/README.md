@@ -1,6 +1,6 @@
 # Senate Bill 5937
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5937.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5937.pdf)
 ## Section 1
 1. The legislature finds that many areas of the state were significantly impacted by the combined snow and rain events of November 2021 and January 2022. During this period, the state experienced the severe impact of atmospheric river events that followed a significant accumulation of mountain snow conditions, combining to cause historic flooding. The legislature further finds that many communities were shut off from services and livelihoods, and homes, businesses, and public infrastructure were damaged. The legislature further finds that the severity of flooding and other weather-related events of November 2021 have been declared a major disaster area by the president of the United States and the flooding from both the November 2021 and January 2022 events have caused an emergency proclamation by the governor. The legislature finds that it is in the interest of the state to assist the impacted communities to recover as soon as possible, for the peace and prosperity of all.
 

@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1073 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1073-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1073-S2.pdf)
 ## Section 1
 1. The legislature finds that many workers who have paid into the paid family and medical leave insurance program have suffered job losses, reductions in hours, or an inability to reenter the workforce due to the effects of the COVID-19 pandemic. These workers are unable to access their family and medical leave benefits under the existing hours worked threshold through no fault of their own.
 

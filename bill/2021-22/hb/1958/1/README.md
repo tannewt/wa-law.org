@@ -1,6 +1,6 @@
 # House Bill 1958
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1958.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1958.pdf)
 ## Section 1
 1. The legislature finds that while many of Washington's high-wage industries, particularly those clustered around the Puget Sound corridor, have weathered both public health and economic crises well, many rural communities continue to struggle to recover without adequate access to resources. This has negative impacts on rural communities' broader ability to retain and grow family-wage jobs and local businesses, grow their tax base, and provide basic government services.
 

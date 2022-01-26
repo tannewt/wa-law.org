@@ -1,6 +1,6 @@
 # Senate Bill 5244
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5244.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5244.pdf)
 ## Section 1
 > This section modifies existing section [82.85.010](/rcw/82_excise_taxes/82.85_job_creation_and_economic_development_investment_incentives—pilot_program.md). Here is the [modified chapter](rcw/82_excise_taxes/82.85_job_creation_and_economic_development_investment_incentives—pilot_program.md) for context.
 

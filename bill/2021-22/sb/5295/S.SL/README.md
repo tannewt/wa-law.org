@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5295 - Session Law Chapter 188 Year 2021 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5295-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5295-S.SL.pdf)
 ## Section 1
 1. To provide clarity and certainty to stakeholders on the details of performance-based regulation, the utilities and transportation commission is directed to conduct a proceeding to develop a policy statement addressing alternatives to traditional cost of service rate making, including performance measures or goals, targets, performance incentives, and penalty mechanisms. As part of such a proceeding, the utilities and transportation commission must consider factors including, but not limited to, lowest reasonable cost planning, affordability, increases in energy burden, cost of service, customer satisfaction and engagement, service reliability, clean energy or renewable procurement, conservation acquisition, demand side management expansion, rate stability, timely execution of competitive procurement practices, attainment of state energy and emissions reduction policies, rapid integration of renewable energy resources, and fair compensation of utility employees.
 

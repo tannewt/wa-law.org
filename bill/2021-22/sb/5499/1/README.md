@@ -1,6 +1,6 @@
 # Senate Bill 5499
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5499.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5499.pdf)
 ## Section 1
 > This section modifies existing section [18.360.040](/rcw/18_businesses_and_professions/18.360_medical_assistants.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.360_medical_assistants.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5131 - Session Law Chapter 092 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5131.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5131.SL.pdf)
 ## Section 1
 > This section modifies existing section [29A.56.140](/rcw/29A_elections/29A.56_special_circumstances_elections.md). Here is the [modified chapter](rcw/29A_elections/29A.56_special_circumstances_elections.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5018 - Session Law Chapter 087 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5018.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5018.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.06.010](/rcw/18_businesses_and_professions/18.006_acupuncture_and_eastern_medicine.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.006_acupuncture_and_eastern_medicine.md) for context.
 

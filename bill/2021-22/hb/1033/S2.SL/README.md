@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1033 - Session Law Chapter 116 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1033-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1033-S2.SL.pdf)
 ## Section 1
 
 ## Section 2

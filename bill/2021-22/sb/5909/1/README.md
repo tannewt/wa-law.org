@@ -1,6 +1,6 @@
 # Senate Bill 5909
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5909.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5909.pdf)
 ## Section 1
 > This section modifies existing section [43.06.210](/rcw/43_state_government—executive/43.006_governor.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006_governor.md) for context.
 

@@ -1,0 +1,20 @@
+H Passed 3rd' # Passed third waiting to go to senate
+'H Rules X'
+'H Rules R' # rules 2 review
+'H Rules C' # ready for 2nd reading
+'H Rules 3C', # ready for 3rd reading
+
+'H 2nd Reading'
+
+'H Exec Action', # executive action in committee
+
+
+'S Rules X',
+
+'S 2nd Reading'
+'S 3rd Reading'
+
+'S Rules 3'
+'S Rules 2'
+
+'S 2nd RdConsCal' # 2nd reading consent calendar

@@ -1,6 +1,6 @@
 # Substitute House Bill 1250 - Session Law Chapter 213 Year 2021 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1250-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1250-S.SL.pdf)
 ## Section 1
 1. Washington state is grateful to be home to multitudes of United States armed forces members, veterans, and their families that have made the choice to protect freedom and our country.
 

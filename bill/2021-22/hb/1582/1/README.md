@@ -1,6 +1,6 @@
 # House Bill 1582
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1582.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1582.pdf)
 ## Section 1
 > This section modifies existing section [43.135.034](/rcw/43_state_government—executive/43.135_state_expenditures_limitations.md). Here is the [modified chapter](rcw/43_state_government—executive/43.135_state_expenditures_limitations.md) for context.
 

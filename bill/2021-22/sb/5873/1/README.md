@@ -1,6 +1,6 @@
 # Senate Bill 5873
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5873.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5873.pdf)
 ## Section 1
 > This section modifies existing section [50.29.025](/rcw/50_unemployment_compensation/50.29_employer_experience_rating.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.29_employer_experience_rating.md) for context.
 

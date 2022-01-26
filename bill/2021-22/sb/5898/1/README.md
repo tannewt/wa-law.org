@@ -1,6 +1,6 @@
 # Senate Bill 5898
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5898.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5898.pdf)
 ## Section 1
 The legislature recognizes the importance of transportation electrification and the need to maintain stable funding for highway bonds as the use of carbon intensive motor fuels within the state is reduced. Therefore, it is the intent of the legislature to supplement certain existing highway bond authorization acts to prepare for and respond to changes in revenue derived from state excise taxes on fuel by providing an additional pledge of vehicle-related fees for highway bonds issued or refunded subsequent to the effective date of this section and providing funding from vehicle-related fees for bond retirement and interest on such highway bonds.
 

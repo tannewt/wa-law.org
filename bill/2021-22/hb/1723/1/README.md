@@ -1,6 +1,6 @@
 # House Bill 1723
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1723.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1723.pdf)
 ## Section 101
 This act may be known and cited as the digital equity act.
 

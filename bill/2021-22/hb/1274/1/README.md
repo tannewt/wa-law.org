@@ -1,6 +1,6 @@
 # House Bill 1274
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1274.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1274.pdf)
 ## Section 1
 1. The legislature finds that the advent of the COVID-19 pandemic has increased the needs of the people of Washington for state services. From unemployment benefits to information on the incidence of disease in the state, Washingtonians have increasingly turned to state government for vital services and information.
 

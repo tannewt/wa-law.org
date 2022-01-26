@@ -1,6 +1,6 @@
 # House Bill 1548
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1548.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1548.pdf)
 ## Section 1
 This act intends to clarify that the hybrid vehicles that are subject to transportation electrification fees are vehicles that plug in to the electric grid for a source of power.
 

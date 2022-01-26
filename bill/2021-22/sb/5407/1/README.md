@@ -1,6 +1,6 @@
 # Senate Bill 5407
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5407.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5407.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9A.56](/rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md) for context.
 

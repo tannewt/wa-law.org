@@ -1,6 +1,6 @@
 # Senate Bill 5098
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5098.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5098.pdf)
 ## Section 2
 > This section modifies existing section [10.27.090](/rcw/10_criminal_procedure/10.027_grand_juries—criminal_investigations.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.027_grand_juries—criminal_investigations.md) for context.
 

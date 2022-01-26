@@ -1,6 +1,6 @@
 # Senate Bill 5015 - Session Law Chapter 085 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5015.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5015.SL.pdf)
 ## Section 1
 > This section modifies existing section [29A.84.610](/rcw/29A_elections/29A.84_crimes_and_penalties.md). Here is the [modified chapter](rcw/29A_elections/29A.84_crimes_and_penalties.md) for context.
 

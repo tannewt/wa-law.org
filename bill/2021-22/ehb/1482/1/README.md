@@ -1,6 +1,6 @@
 # Engrossed House Bill 1482 - Session Law Chapter 222 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1482.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1482.SL.pdf)
 ## Section 1
 > This section modifies existing section [64.90.485](/rcw/64_real_property_and_conveyances/64.90_washington_uniform_common_interest_ownership_act.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.90_washington_uniform_common_interest_ownership_act.md) for context.
 

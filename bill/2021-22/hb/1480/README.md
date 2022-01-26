@@ -1,5 +1,5 @@
 # HB 1480 - Liquor licensee privileges
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1480&Year=2021)
+*Status: Effective date 4/14/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1480&Year=2021)
 
 Extending certain privileges granted to liquor licensees to mitigate the impact of the coronavirus pandemic.
 

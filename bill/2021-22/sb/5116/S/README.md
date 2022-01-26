@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5116 as Recommended by State Government & Elections
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5116-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5116-S.pdf)
 ## Section 1
 The legislature finds that:
 

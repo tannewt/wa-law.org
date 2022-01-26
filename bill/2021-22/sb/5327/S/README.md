@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5327 as Recommended by Subcommittee on Behavioral Health
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5327-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5327-S.pdf)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

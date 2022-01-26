@@ -1,6 +1,6 @@
 # House Bill 1000
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1000.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1000.pdf)
 ## Section 1
 1. The legislature finds that it took specific action in the 2020 regular session to establish three pilot projects to support behavioral health and suicide prevention efforts for law enforcement officers. Due to the impacts of COVID-19 and financial uncertainties facing the state, the governor made the difficult decision to veto section 3, chapter 327, Laws of 2020 and the associated funding in the operating budget.
 

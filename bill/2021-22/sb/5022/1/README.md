@@ -1,6 +1,6 @@
 # Senate Bill 5022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5022.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5022.pdf)
 ## Section 1
 1. The legislature finds the department of ecology was directed, through an independent consultant, to study how plastic packaging is managed in the state, assess various policy options, and provide recommendations to achieve goals, that included:
 

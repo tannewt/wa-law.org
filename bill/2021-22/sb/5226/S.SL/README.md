@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5226 - Session Law Chapter 240 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5226-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5226-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [46.63.060](/rcw/46_motor_vehicles/46.63_disposition_of_traffic_infractions.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.63_disposition_of_traffic_infractions.md) for context.
 

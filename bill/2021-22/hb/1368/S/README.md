@@ -1,6 +1,6 @@
 # Substitute House Bill 1368 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1368-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1368-S.pdf)
 ## Section 1
 Appropriations in this act are for the fiscal biennium ending June 30, 2021.
 

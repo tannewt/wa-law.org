@@ -1,6 +1,6 @@
 # House Bill 2035
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2035.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2035.pdf)
 ## Section 1
 1. The legislature finds that many behavioral health disorders are preventable. There are three factors that, when taken together, will frequently result in a person developing substance use disorder: (a) A susceptible organism; (b) stress; and (c) the introduction of an addictive substance. While it is imperative that the state address all three factors, there is one state agency that plays a central role regarding (c) of this subsection. The liquor and cannabis board develops and implements the policies that dictate access and exposure to addictive substances.
 

@@ -1,6 +1,6 @@
 # House Bill 1119 - Session Law Chapter 152 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1119.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1119.SL.pdf)
 ## Section 1
 > This section modifies existing section [28B.10.590](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
 

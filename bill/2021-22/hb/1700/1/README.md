@@ -1,6 +1,6 @@
 # House Bill 1700
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1700.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1700.pdf)
 ## Section 1
 1. The legislature finds that the department of natural resources' derelict vessel removal program is seen as a national model for vessel removal, yet funding for the program is not sufficient to remove all sunken and abandoned vessels from state waters.
 

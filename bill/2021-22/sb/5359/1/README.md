@@ -1,6 +1,6 @@
 # Senate Bill 5359
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5359.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5359.pdf)
 ## Section 1
 It is the intent of the legislature to ensure Washington's transportation infrastructure can support the safe and efficient movement of people and goods. Primary funding for transportation infrastructure efforts comes from the state portion of the fuel tax and fees for registering motor vehicles, which have economic and political vulnerabilities that can limit their reliability. The legislature intends to establish an additional funding source that would not be subject to bonding, and therefore offer greater flexibility and efficiency in addressing transportation infrastructure needs. The legislature finds that dedicating the sales tax revenue on vehicle sales to the transportation budget would reinforce the state's ability to provide the 21st century transportation system that the people of Washington can and should expect.
 

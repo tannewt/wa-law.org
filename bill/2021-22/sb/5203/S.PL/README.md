@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5203 as Recommended by Health & Long Term Care - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5203-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5203-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [70.14](/rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.014_health_care_services_purchased_by_state_agencies.md) for context.
 

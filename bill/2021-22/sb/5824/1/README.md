@@ -1,6 +1,6 @@
 # Senate Bill 5824
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5824.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5824.pdf)
 ## Section 1
 The legislature finds that many youth exiting foster care have not been financially prepared for a successful transition to independence. The legislature finds that financial awareness can play a key role in ensuring safe and stable housing and long-term economic well-being. The legislature recognizes that through passage of Substitute Senate Bill No. 6560 in 2018, the legislature established the goal of discharging all youth from state care into safe and stable housing. Therefore, the legislature resolves to create a program to aid young people in foster care with establishing self-controlled banking accounts to promote successful transition from foster care into independence.
 

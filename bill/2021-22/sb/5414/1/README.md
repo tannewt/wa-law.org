@@ -1,6 +1,6 @@
 # Senate Bill 5414
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5414.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5414.pdf)
 ## Section 1
 The legislature finds that data centers are a cornerstone for strong internet infrastructure that is critical to the continuing prosperity of Washington's vibrant digital economy. Under current law, data center incentives are restricted to rural counties and have improved the economies of rural counties. The legislature recognizes that rural county data center investments are necessary but insufficient for the state's total economy and competitiveness. Washington is the only state that restricts incentives geographically. As a result, data centers serving urban counties requiring higher performance and that offer colocation services for multiple tenants that foster technology ecosystems are lost to other states, particularly neighboring Oregon. The legislature further finds that despite the need, the lack of data center usage growth in Washington urban counties is primarily due to the sales tax, which can add as much as 10 percent to the total cost of ownership and often runs into the millions of dollars for even mid-level users.
 

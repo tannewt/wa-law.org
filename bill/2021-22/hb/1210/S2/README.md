@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1210 as Recommended by Commerce & Gaming
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1210-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1210-S2.pdf)
 ## Section 1
 It is the intent of the legislature to make technical changes to replace the term "marijuana" with "cannabis" throughout the Revised Code of Washington. The legislature finds that the use of the term "marijuana" in the United States has discriminatory origins and should be replaced with the more scientifically accurate term "cannabis." This act is technical in nature and no substantive legal changes are intended or implied.
 

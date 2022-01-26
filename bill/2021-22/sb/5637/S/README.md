@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5637 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5637-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5637-S.pdf)
 ## Section 1
 The legislature finds that:
 

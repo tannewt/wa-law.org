@@ -1,6 +1,6 @@
 # Senate Bill 5618
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5618.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5618.pdf)
 ## Section 1
 > This section modifies existing section [43.371.100](/rcw/43_state_government—executive/43.371_statewide_health_care_claims_data.md). Here is the [modified chapter](rcw/43_state_government—executive/43.371_statewide_health_care_claims_data.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1941
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1941.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1941.pdf)
 ## Section 1
 > This section modifies existing section [28A.320.125](/rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md) for context.
 

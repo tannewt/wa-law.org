@@ -1,6 +1,6 @@
 # Substitute House Bill 1460 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1460-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1460-S.pdf)
 ## Section 101
 > This section adds a new section to an existing chapter [80.36](/rcw/80_public_utilities/80.36_telecommunications.md). Here is the [modified chapter](rcw/80_public_utilities/80.36_telecommunications.md) for context.
 

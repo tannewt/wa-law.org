@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1241 as Recommended by Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1241-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1241-S.E.pdf)
 ## Section 2
 > This section modifies existing section [90.58.080](/rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.58_shoreline_management_act_of_1971.md) for context.
 

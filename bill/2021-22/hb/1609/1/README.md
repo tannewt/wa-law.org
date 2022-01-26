@@ -1,6 +1,6 @@
 # House Bill 1609
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1609.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1609.pdf)
 ## Section 1
 1. The legislature finds that the COVID-19 pandemic has required businesses that are permitted to continue operating to make drastic, costly changes to their operations to protect employees and customers. Some of the changes businesses were required to adopt are consistent with federal occupational safety and health administration requirements; however, the department of labor and industries has adopted rules and the governor has issued changing proclamations and guidance during the pandemic that go beyond the federal occupational safety and health administration requirements. The legislature further finds Washington is a "state-plan state" for purposes of the federal occupational safety and health administration. To maintain its state-plan status, Washington's safety and health standards must be at least as effective as those standards adopted or recognized by the occupational safety and health administration.
 

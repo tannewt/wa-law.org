@@ -1,6 +1,6 @@
 # Senate Bill 5759
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5759.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5759.pdf)
 ## Section 1
 The legislature finds that in order to address the housing shortage crisis in Washington, a more diverse mix of developers should have access to tax credit programs that incentivize the development of low-income housing. The legislature further finds that private developers have greater incentive to keep development costs down. The legislature further finds that a report published by the joint legislative audit and review committee found that private developers could develop the same unit at roughly 87 percent of the cost as a nonprofit developer and roughly 78 percent of the cost as a governmental agency. The legislature therefore intends to increase participation of private developers in the housing finance commission's low-income housing tax credit program in order to both increase the supply of low-income housing as well as further reduce costs.
 

@@ -1,6 +1,6 @@
 # House Bill 1430
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1430.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1430.pdf)
 ## Section 1
 > This section modifies existing section [79.13.060](/rcw/79_public_lands/79.013_land_leases.md). Here is the [modified chapter](rcw/79_public_lands/79.013_land_leases.md) for context.
 

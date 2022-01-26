@@ -1,6 +1,6 @@
 # Senate Bill 5830
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5830.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5830.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
 

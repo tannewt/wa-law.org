@@ -1,6 +1,6 @@
 # House Bill 1402
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1402.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1402.pdf)
 ## Section 1
 
 

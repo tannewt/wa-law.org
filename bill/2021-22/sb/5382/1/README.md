@@ -1,6 +1,6 @@
 # Senate Bill 5382
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5382.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5382.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [29A.08](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
 

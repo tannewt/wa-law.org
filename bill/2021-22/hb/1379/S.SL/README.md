@@ -1,6 +1,6 @@
 # Substitute House Bill 1379 - Session Law Chapter 131 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1379-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1379-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [47.68](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
 

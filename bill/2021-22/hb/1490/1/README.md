@@ -1,6 +1,6 @@
 # House Bill 1490
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1490.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1490.pdf)
 ## Section 1
 1. The legislature declares that access to energy undergirds Washington's economic resilience and public health outcomes. Energy is a crucial service that Washingtonians need in order to secure an education, participate in the economy, and stay safe and healthy.
 

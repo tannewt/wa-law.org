@@ -1,6 +1,6 @@
 # Senate Bill 5831
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5831.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5831.pdf)
 ## Section 1
 The intent of the legislature is to make state and local tax revenue as open, transparent, and publicly accessible as is feasible. Increasing the ease of public access to state and local tax information significantly contributes to governmental accountability, public participation, and open government; this is particularly true when the information is currently available from disparate government sources, but is difficult for the public to collect and efficiently aggregate.
 

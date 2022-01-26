@@ -1,6 +1,6 @@
 # House Bill 1593
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1593.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1593.pdf)
 ## Section 1
 The legislature finds that domestic violence, sexual assault, unlawful harassment, and stalking are acts of violence that have devastating effects upon individual victims, their children, their communities, and the state as a whole. These acts of violence threaten the housing stability of many residents of this state. Victims of these violent acts may be forced to remain in unsafe and abusive situations because they do not have the financial wherewithal to obtain alternate housing. It is the long-standing practice of the state to provide rental assistance to its residents in a variety of urgent situations. By this act, the legislature intends to increase safety for victims of domestic violence, sexual assault, unlawful harassment, and stalking by removing some of the financial barriers to safely obtaining alternate housing and thereby contribute to the general welfare of the state.
 

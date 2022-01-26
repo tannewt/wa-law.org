@@ -1,6 +1,6 @@
 # Senate Bill 5865
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5865.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5865.pdf)
 ## Section 1
 The legislature finds that the department of natural resources manages public lands consistent with multiple uses of the landscape including recreational areas, trails, hunting, fishing, target shooting, and other forms of public recreation.
 

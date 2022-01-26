@@ -1,6 +1,6 @@
 # Senate Bill 5931
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5931.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5931.pdf)
 ## Section 1
 > This section modifies existing section [2.06.150](/rcw/02_courts_of_record/2.06_court_of_appeals.md). Here is the [modified chapter](rcw/02_courts_of_record/2.06_court_of_appeals.md) for context.
 

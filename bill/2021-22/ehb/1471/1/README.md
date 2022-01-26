@@ -1,6 +1,6 @@
 # Engrossed House Bill 1471 - Session Law Chapter 047 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1471.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1471.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.167.003](/rcw/43_state_government—executive/43.167_community_preservation_and_development_authorities.md). Here is the [modified chapter](rcw/43_state_government—executive/43.167_community_preservation_and_development_authorities.md) for context.
 

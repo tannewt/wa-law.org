@@ -1,6 +1,6 @@
 # House Bill 1256
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1256.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1256.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [15.36](/rcw/15_agriculture_and_marketing/15.036_milk_and_milk_products.md). Here is the [modified chapter](rcw/15_agriculture_and_marketing/15.036_milk_and_milk_products.md) for context.
 

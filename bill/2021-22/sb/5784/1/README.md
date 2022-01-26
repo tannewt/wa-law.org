@@ -1,6 +1,6 @@
 # Senate Bill 5784
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5784.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5784.pdf)
 ## Section 1
 > This section modifies existing section [51.04.050](/rcw/51_industrial_insurance/51.04_general_provisions.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.04_general_provisions.md) for context.
 

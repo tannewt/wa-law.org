@@ -1,6 +1,6 @@
 # House Bill 1316 - Session Law Chapter 255 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1316.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1316.SL.pdf)
 ## Section 1
 > This section modifies existing section [74.60.005](/rcw/74_public_assistance/74.60_hospital_safety_net_assessment.md). Here is the [modified chapter](rcw/74_public_assistance/74.60_hospital_safety_net_assessment.md) for context.
 

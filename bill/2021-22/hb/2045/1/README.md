@@ -1,6 +1,6 @@
 # House Bill 2045
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2045.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2045.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [71.05](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5611
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5611.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5611.pdf)
 ## Section 1
 > This section modifies existing section [50B.04.010](/rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md). Here is the [modified chapter](rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md) for context.
 

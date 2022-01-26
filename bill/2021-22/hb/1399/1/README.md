@@ -1,6 +1,6 @@
 # House Bill 1399 - Session Law Chapter 194 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1399.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1399.SL.pdf)
 ## Section 1
 1. The legislature finds that individuals with prior criminal convictions, upon completing the terms of one's sentence, have paid their debt to society, and should be given the opportunity to be regular and productive members of society by seeking gainful employment. Recognizing the perils recidivism poses to the individual, families, public safety, and general well-being, the legislature should prioritize that removal of these barriers which prevent these individuals from entering the workforce.
 

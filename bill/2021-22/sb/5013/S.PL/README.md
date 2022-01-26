@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5013 as Recommended by State Government & Elections - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5013-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5013-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [29A.76.010](/rcw/29A_elections/29A.76_redistricting.md). Here is the [modified chapter](rcw/29A_elections/29A.76_redistricting.md) for context.
 

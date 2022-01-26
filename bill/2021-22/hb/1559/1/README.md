@@ -1,6 +1,6 @@
 # House Bill 1559
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1559.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1559.pdf)
 ## Section 1
 > This section modifies existing section [43.185C.260](/rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1480 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1480-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1480-S2.PL.pdf)
 ## Section 1
 The COVID-19 pandemic that arrived in Washington in 2020 led to historic economic disruptions and devastating health impacts in the state. In an effort to assist businesses and employees whose assets and livelihoods have been impacted by the strategies used to protect the public's health, the legislature finds that steps must be taken in the public interest to support the most severely impacted industries. The hospitality industry has suffered some of the most devastating impacts of any sector of the state's economy. The legislature finds that assisting this sector of the state's economy to survive and recover from the effects of the pandemic and the steps taken to combat its spread are an urgent priority that is in the best interests of the state and its residents. The legislature intends that these revisions at the same time continue to promote regulation of an orderly market for liquor sales while maintaining protection of public health and efficient collection of taxes and fees.
 

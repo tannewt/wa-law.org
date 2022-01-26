@@ -1,6 +1,6 @@
 # Senate Bill 5629
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5629.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5629.pdf)
 ## Section 1
 > This section modifies existing section [68.50.160](/rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md). Here is the [modified chapter](rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md) for context.
 

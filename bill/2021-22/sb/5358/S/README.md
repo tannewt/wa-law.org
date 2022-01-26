@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5358 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5358-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5358-S.pdf)
 ## Section 1
 1. This section is the tax preference performance statement for the tax preferences contained in sections 2 and 3, chapter . . ., Laws of 2021 (sections 2 and 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
 

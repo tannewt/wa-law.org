@@ -1,6 +1,6 @@
 # Senate Bill 5551
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5551.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5551.pdf)
 ## Section 1
 1. Since HIV and AIDS emerged four decades ago, Washington state has served as a leader in fighting the epidemic.
 

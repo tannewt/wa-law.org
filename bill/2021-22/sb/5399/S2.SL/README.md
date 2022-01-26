@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5399 - Session Law Chapter 309 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5399-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5399-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that:
 

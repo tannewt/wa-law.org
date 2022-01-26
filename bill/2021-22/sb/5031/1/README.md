@@ -1,6 +1,6 @@
 # Senate Bill 5031 - Session Law Chapter 175 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5031.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5031.SL.pdf)
 ## Section 1
 The legislature finds that providing additional funding mechanisms for public use airports that primarily support general aviation activities is in the best interest of the state. The legislature further finds it is in the best interest of the state to have a healthy and strong public use airport system for emergency response and enhanced economic opportunities. The legislature further finds that a revolving loan program would benefit smaller airport development while providing a self-sustaining resource.
 

@@ -1,6 +1,6 @@
 # House Bill 1704
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1704.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1704.pdf)
 ## Section 1
 > This section modifies existing section [48.110.050](/rcw/48_insurance/48.110_service_contracts_and_protection_product_guarantees.md). Here is the [modified chapter](rcw/48_insurance/48.110_service_contracts_and_protection_product_guarantees.md) for context.
 

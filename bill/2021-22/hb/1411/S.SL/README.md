@@ -1,6 +1,6 @@
 # Substitute House Bill 1411 - Session Law Chapter 219 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1411-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1411-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.20A](/rcw/43_state_government—executive/43.020A_department_of_social_and_health_services.md). Here is the [modified chapter](rcw/43_state_government—executive/43.020A_department_of_social_and_health_services.md) for context.
 

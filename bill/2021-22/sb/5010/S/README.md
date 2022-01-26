@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5010 as Recommended by Business, Financial Services & Trade
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5010-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5010-S.pdf)
 ## Section 1
 The purpose of this act is to protect insureds from the possibility of adverse effects of the pandemic on their personal insurance rates by limiting the use of consumer credit history for a period of three years. This act will ensure that insurance does not become more unaffordable for individuals and families encountering financial challenges brought on by the pandemic by prohibiting its use unless the affect is an improved insurance score and lower premium. By providing this consumer protection during this extraordinary time, the legislature intends to provide necessary temporary relief to Washington state insureds whose credit scores have been negatively affected because of this economic crisis.
 

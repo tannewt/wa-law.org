@@ -1,6 +1,6 @@
 # House Bill 1930
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1930.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1930.pdf)
 ## Section 1
 > This section modifies existing section [18.16.110](/rcw/18_businesses_and_professions/18.016_cosmetologists_hair_designers_barbers_manicurists_and_estheticians.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.016_cosmetologists_hair_designers_barbers_manicurists_and_estheticians.md) for context.
 

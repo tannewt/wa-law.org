@@ -1,6 +1,6 @@
 # Senate Bill 5462
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5462.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5462.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [4.92](/rcw/04_civil_procedure/4.092_actions_and_claims_against_state.md). Here is the [modified chapter](rcw/04_civil_procedure/4.092_actions_and_claims_against_state.md) for context.
 

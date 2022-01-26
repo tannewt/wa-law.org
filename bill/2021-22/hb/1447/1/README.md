@@ -1,6 +1,6 @@
 # House Bill 1447
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1447.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1447.pdf)
 ## Section 1
 The legislature has previously recognized that garnishees have no responsibility for the situation leading to the garnishment of a debtor's wages, funds, or other property, but that the garnishment process is necessary for the enforcement of obligations. The legislature has further recognized the importance of reducing or offsetting the administrative burden on the garnishee to the extent that that can be accomplished consistent with the goal of effectively enforcing debtors' unpaid obligations. At the same time, debtors must be afforded the exemptions to which they are statutorily entitled and protected from garnishments that violate Washington law.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5896
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5896.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5896.pdf)
 ## Section 1
 > This section modifies existing section [43.01.250](/rcw/43_state_government—executive/43.001_state_officers—general_provisions.md). Here is the [modified chapter](rcw/43_state_government—executive/43.001_state_officers—general_provisions.md) for context.
 

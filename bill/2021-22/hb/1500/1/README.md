@@ -1,6 +1,6 @@
 # House Bill 1500
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1500.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1500.pdf)
 ## Section 1
 The legislature finds that the enrichment levy process has built-in safeguards that prevent the improper expenditure of enrichment funds before they can occur. These safeguards include district submission of enrichment levy plans and review and approval by the office of the superintendent of public instruction. Before the proposed levy is submitted to voters, the office of the superintendent of public instruction must first approve the maximum dollar collection amounts and must mandate that the levy collections are deposited in a separate fund. Changes to the proposed use of enrichment funds must be approved by the office of the superintendent of public instruction, be discussed by the elected school district board of directors in open public meetings, and approved by a vote of the school board. In addition to these safeguards that are implemented at the beginning of the process and the mandatory tracking and accounting procedures that apply to the use of the funds, the state auditor performs regular financial audits of all school district local revenues, including enrichment levy spending plans. These necessary and multiple safeguards prevent and address improper expenditures within the system that has been created to support the appropriate use of enrichment levies.
 

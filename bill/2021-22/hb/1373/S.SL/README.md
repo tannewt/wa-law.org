@@ -1,6 +1,6 @@
 # Substitute House Bill 1373 - Session Law Chapter 167 Year 2021 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1373-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1373-S.SL.pdf)
 ## Section 1
 1. The legislature finds that student behavioral health issues have become a crisis in Washington state, necessitating the deployment of behavioral health resources in schools throughout the state. The legislature's concerns are based on the following facts:
 

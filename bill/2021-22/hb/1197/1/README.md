@@ -1,6 +1,6 @@
 # House Bill 1197
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1197.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1197.pdf)
 ## Section 2
 > This section modifies existing section [7.70.065](/rcw/07_special_proceedings_and_actions/7.070_actions_for_injuries_resulting_from_health_care.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.070_actions_for_injuries_resulting_from_health_care.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5415
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5415.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5415.pdf)
 ## Section 3
 > This section modifies existing section [80.50.040](/rcw/80_public_utilities/80.50_energy_facilities—site_locations.md). Here is the [modified chapter](rcw/80_public_utilities/80.50_energy_facilities—site_locations.md) for context.
 

@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1044 - Session Law Chapter 200 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1044-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1044-S2.SL.pdf)
 ## Section 2
 1. [Empty]
 

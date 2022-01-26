@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5160 as Recommended by Ways & Means - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5160-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5160-S2.PL.pdf)
 ## Section 1
 Therefore, it is the intent of the legislature with this act to increase tenant protections during the public health emergency, provide legal representation for qualifying tenants in eviction cases, establish an eviction resolution pilot program to address nonpayment of rent eviction cases before any court filing, and ensure tenants and landlords have adequate opportunities to access state and local rental assistance programs to reimburse landlords for unpaid rent and preserve tenancies.
 

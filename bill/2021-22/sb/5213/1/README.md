@@ -1,6 +1,6 @@
 # Senate Bill 5213
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5213.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5213.pdf)
 ## Section 1
 > This section modifies existing section [43.382.005](/rcw/43_state_government—executive/43.382_developmental_disabilities_ombuds.md). Here is the [modified chapter](rcw/43_state_government—executive/43.382_developmental_disabilities_ombuds.md) for context.
 

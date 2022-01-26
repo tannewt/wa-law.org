@@ -1,6 +1,6 @@
 # Senate Bill 5497
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5497.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5497.pdf)
 ## Section 1
 > This section modifies existing section [28A.305.011](/rcw/28A_common_school_provisions/28A.305_state_board_of_education.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.305_state_board_of_education.md) for context.
 

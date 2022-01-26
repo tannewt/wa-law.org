@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5776 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5776-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5776-S.pdf)
 ## Section 1
 There is a need to dramatically improve data collection surrounding violence, domestic violence, and deaths in the state of Washington. Justice agencies in the state, including courts, law enforcement, corrections, and prosecutors, possess a wealth of data relating to the public health of Washington citizens. A centralized data repository will create data linkages between legal and public health data sets. These linkages will promote a public health response to violent crime and deaths, and give the legislature valuable tools in formulating public policy surrounding these important issues.
 

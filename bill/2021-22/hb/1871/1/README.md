@@ -1,6 +1,6 @@
 # House Bill 1871
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1871.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1871.pdf)
 ## Section 1
 The legislature finds that more than half the state's population resides in King, Snohomish, Pierce, and Kitsap counties, yet these counties host less than two percent of all the carbon-free energy production capacity sited in Washington. The majority of voters in these four counties supported a renewable energy mandate for utilities in 2006 (Initiative 937), but they have not sited the energy called for by that mandate. In stark contrast, Columbia county is home to just .1 percent of the state's population but hosts nearly six percent of the state's carbon free energy production capacity. Similarly, Walla Walla, Franklin, and Benton county, collectively, are home to approximately 12 percent of the state's carbon free energy production capacity. Voters in these eastern Washington counties opposed the renewable energy mandate but have carbon-free energy production facilities. The legislature recognizes the local sentiment that these facilities have not brought the promised "green jobs," meaningful tax revenue, or local environmental benefits in so far as these local communities were already served with clean, affordable hydroelectric energy.
 

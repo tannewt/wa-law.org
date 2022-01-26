@@ -1,6 +1,6 @@
 # House Bill 1527
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1527.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1527.pdf)
 ## Section 1
 The legislature finds that California experienced decreased reliability and rolling blackouts in the summer of 2020 due to heat events, inadequate dispatchable generating resources, and other factors. Several studies have shown that the Northwest will experience a large energy capacity shortfall by 2030.
 

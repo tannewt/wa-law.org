@@ -1,6 +1,6 @@
 # House Bill 1223
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1223.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1223.pdf)
 ## Section 1
 This chapter may be known and cited as the uniform electronic recordation of custodial interrogations act.
 

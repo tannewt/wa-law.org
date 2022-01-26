@@ -1,6 +1,6 @@
 # House Bill 1187
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1187.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1187.pdf)
 ## Section 1
 The legislature finds that the installation of ductless mini split systems has increased across the state as more customers look toward these systems for inexpensive, zonal heating and cooling. Energy codes and other laws pushing for more electrification of homes are also driving the move towards these HVAC systems. The legislature further finds that HVAC/refrigeration specialty electricians are trained and can safely connect the indoor units to the installed outdoor units, as the circuits are specified by the manufacturer, the type of cable used is standardized by manufacturers, and the terminals on both ends are coded. This is more cost-effective for consumers and efficient for home builders. It is also important to allow specialty electricians to do this type of work since there currently is a shortage of certified electricians in the state. The legislature therefore intends to update the scope of work for HVAC/refrigeration specialty electricians to allow them to install, repair, replace, or maintain branch circuits from the outdoor unit to the indoor unit or units of a split ductless HVAC system.
 

@@ -1,6 +1,6 @@
 # House Bill 1469 - Session Law Chapter 081 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1469.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1469.SL.pdf)
 ## Section 1
 > This section modifies existing section [9.46.0323](/rcw/09_crimes_and_punishments/9.046_gambling—1973_act.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.046_gambling—1973_act.md) for context.
 

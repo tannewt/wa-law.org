@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5061 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5061-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5061-S.E.pdf)
 ## Section 1
 Amid an unprecedented and ongoing need for benefits and stresses on our unemployment insurance trust fund during the COVID-19 public health emergency, the legislature intends to continue assessing the funding levels of the unemployment insurance trust fund and the unemployment insurance premium rates authorized under this act. The legislature will continue to consider recommendations from the employment security department's unemployment insurance advisory committee and other impacted Washingtonians to ensure a healthy unemployment insurance trust fund that can maintain critical economic support to Washington workers and businesses while bolstering the state's economy.
 

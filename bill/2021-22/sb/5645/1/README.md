@@ -1,6 +1,6 @@
 # Senate Bill 5645
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5645.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5645.pdf)
 ## Section 3
 > This section modifies existing section [71.05.148](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
 

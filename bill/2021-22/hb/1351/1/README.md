@@ -1,6 +1,6 @@
 # House Bill 1351
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1351.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1351.pdf)
 ## Section 1
 > This section modifies existing section [48.18.545](/rcw/48_insurance/48.018_the_insurance_contract.md). Here is the [modified chapter](rcw/48_insurance/48.018_the_insurance_contract.md) for context.
 

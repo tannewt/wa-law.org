@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5406 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5406-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5406-S.pdf)
 ## Section 1
 > This section modifies existing section [46.44.110](/rcw/46_motor_vehicles/46.44_size_weight_load.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.44_size_weight_load.md) for context.
 

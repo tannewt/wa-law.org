@@ -1,6 +1,6 @@
 # Senate Bill 5625
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5625.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5625.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [70.58A](/rcw/70_public_health_and_safety/70.058A_vital_statistics.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.058A_vital_statistics.md) for context.
 

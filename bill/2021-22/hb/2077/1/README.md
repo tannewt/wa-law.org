@@ -1,6 +1,6 @@
 # House Bill 2077
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2077.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2077.pdf)
 ## Section 1
 > This section modifies existing section [47.38.080](/rcw/47_public_highways_and_transportation/47.38_roadside_areas—safety_rest_areas.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.38_roadside_areas—safety_rest_areas.md) for context.
 

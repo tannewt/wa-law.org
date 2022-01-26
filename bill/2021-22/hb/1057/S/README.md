@@ -1,6 +1,6 @@
 # Substitute House Bill 1057 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1057-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1057-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [70A.15](/rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.015_washington_clean_air_act.md) for context.
 

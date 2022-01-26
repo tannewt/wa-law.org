@@ -1,6 +1,6 @@
 # House Bill 2011
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2011.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2011.pdf)
 ## Section 1
 > This section modifies existing section [28A.245.020](/rcw/28A_common_school_provisions/28A.245_skill_centers.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.245_skill_centers.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5207
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5207.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5207.pdf)
 ## Section 1
 > This section modifies existing section [77.55.181](/rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md) for context.
 

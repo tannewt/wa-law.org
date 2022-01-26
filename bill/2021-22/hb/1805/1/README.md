@@ -1,6 +1,6 @@
 # House Bill 1805
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1805.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1805.pdf)
 ## Section 1
 > This section modifies existing section [28B.145.010](/rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md). Here is the [modified chapter](rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md) for context.
 

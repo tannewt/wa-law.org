@@ -1,6 +1,6 @@
 # Substitute House Bill 1355 - Session Law Chapter 217 Year 2021 as Recommended by Rural Development, Agriculture & Natural Resources
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1355-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1355-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [17.10.010](/rcw/17_weeds_rodents_and_pests/17.10_noxious_weeds—control_boards.md). Here is the [modified chapter](rcw/17_weeds_rodents_and_pests/17.10_noxious_weeds—control_boards.md) for context.
 

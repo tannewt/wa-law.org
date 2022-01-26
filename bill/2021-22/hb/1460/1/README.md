@@ -1,6 +1,6 @@
 # House Bill 1460
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1460.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1460.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [80.36](/rcw/80_public_utilities/80.36_telecommunications.md). Here is the [modified chapter](rcw/80_public_utilities/80.36_telecommunications.md) for context.
 

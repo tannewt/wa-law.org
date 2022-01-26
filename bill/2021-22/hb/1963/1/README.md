@@ -1,6 +1,6 @@
 # House Bill 1963
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1963.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1963.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [47.04](/rcw/47_public_highways_and_transportation/47.04_general_provisions.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.04_general_provisions.md) for context.
 

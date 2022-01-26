@@ -1,6 +1,6 @@
 # House Bill 1947
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1947.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1947.pdf)
 ## Section 1
 1. The legislature finds that diapers are a necessity for every infant. Additionally, the majority of early child care programs require an adequate supply of diapers for child attendance, but, with the exception of early head start, do not provide diapers to families in need.
 

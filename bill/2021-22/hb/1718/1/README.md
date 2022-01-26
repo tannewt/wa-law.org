@@ -1,6 +1,6 @@
 # House Bill 1718
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1718.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1718.pdf)
 ## Section 1
 1. The legislature finds that the demand for products made of animal fur has been in decline and that the fur industry represents a very small portion of Washington's economy. For example, according to the United States department of agriculture, mink pelt production decreased 15 percent from 2018 to 2019, and the value of mink pelts produced decreased 30 percent in the same time frame. In Washington, mink pelt production accounted for only 1.4 percent of total production in the United States in 2018, decreasing to less than one percent in 2019.
 

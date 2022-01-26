@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5009 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5009-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5009-S.pdf)
 ## Section 1
 This chapter may be known and cited as the uniform public expression protection act.
 

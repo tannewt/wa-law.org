@@ -1,6 +1,6 @@
 # Senate Bill 5037
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5037.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5037.pdf)
 ## Section 1
 1. The legislature acknowledges that school districts and charter schools are faced with challenging decisions regarding how to operate their schools during COVID-19 and whether they should offer in-person learning, distance learning, or hybrid or rotating schedules. The legislature recognizes that full-time, distance learning presents many challenges and hardships to students and families.
 

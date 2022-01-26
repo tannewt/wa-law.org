@@ -1,6 +1,6 @@
 # House Bill 1529
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1529.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1529.pdf)
 ## Section 1
 > This section modifies existing section [47.56.876](/rcw/47_public_highways_and_transportation/47.56_state_toll_bridges_tunnels_and_ferries.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.56_state_toll_bridges_tunnels_and_ferries.md) for context.
 

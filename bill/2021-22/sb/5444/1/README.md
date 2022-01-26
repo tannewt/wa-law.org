@@ -1,6 +1,6 @@
 # Senate Bill 5444
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5444.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5444.pdf)
 ## Section 1
 The legislature finds that increasing the rate of adoption of electric and hybrid vehicles is helping to reduce harmful air pollution from exhaust emissions, including greenhouse gas emissions, in the state. At the same time, the legislature also finds that there is a need to ensure that the greater adoption of electric and hybrid vehicles does not reduce funds to maintain and improve transportation infrastructure and that there is a need for fairness in how these funds are generated. The legislature also finds that a road usage charge or per mile fee system appears to be a viable method to ensure these goals are achieved. It is therefore the legislature's intent to impose a per mile fee to mitigate the impact of increased electric and hybrid vehicles on state roads and highways and to allow further evaluation of the feasibility of transitioning from a revenue collection system based on fuel taxes to a per mile funding system.
 

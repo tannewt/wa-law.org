@@ -1,6 +1,6 @@
 # House Bill 1185
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1185.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1185.pdf)
 ## Section 1
 > This section modifies existing section [77.32.450](/rcw/77_fish_and_wildlife/77.032_licenses.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.032_licenses.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5531 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5531-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5531-S.pdf)
 ## Section 101
 This chapter may be cited as the revised uniform unclaimed property act.
 

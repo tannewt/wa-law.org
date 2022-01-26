@@ -1,6 +1,6 @@
 # House Bill 1587
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1587.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1587.pdf)
 ## Section 1
 1. [Empty]
 

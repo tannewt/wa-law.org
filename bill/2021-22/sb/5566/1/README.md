@@ -1,6 +1,6 @@
 # Senate Bill 5566
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5566.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5566.pdf)
 ## Section 1
 > This section modifies existing section [43.63A.307](/rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md). Here is the [modified chapter](rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md) for context.
 

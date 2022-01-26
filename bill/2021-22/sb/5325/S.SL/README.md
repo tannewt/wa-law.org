@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5325 - Session Law Chapter 100 Year 2021 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5325-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5325-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [71.24.335](/rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md). Here is the [modified chapter](rcw/71_mental_illness/71.24_community_behavioral_health_services_act.md) for context.
 

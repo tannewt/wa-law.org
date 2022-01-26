@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1184 as Recommended by Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1184-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1184-S.E.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [90.46](/rcw/90_water_rights—environment/90.46_reclaimed_water_use.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.46_reclaimed_water_use.md) for context.
 

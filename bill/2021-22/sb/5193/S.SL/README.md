@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5193 - Session Law Chapter 271 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5193-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5193-S.SL.pdf)
 ## Section 1
 The legislature finds with roughly $4,700,000,000 in the state unemployment insurance trust fund, Washington entered the COVID-19 pandemic with one of the strongest and best-funded trust funds in the nation. During an unprecedented time, the state's unemployment insurance trust fund provided critical economic support to Washington workers and businesses through unemployment benefits and helped bolster the state's economy.
 

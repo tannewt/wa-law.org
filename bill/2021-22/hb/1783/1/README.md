@@ -1,6 +1,6 @@
 # House Bill 1783
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1783.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1783.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [51.12](/rcw/51_industrial_insurance/51.12_employments_and_occupations_covered.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.12_employments_and_occupations_covered.md) for context.
 

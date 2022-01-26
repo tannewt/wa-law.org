@@ -1,6 +1,6 @@
 # Senate Bill 5907
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5907.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5907.pdf)
 ## Section 1
 This act may be known and cited as the Arthur Anderson and Raymond Mitchell tow operators safety act.
 

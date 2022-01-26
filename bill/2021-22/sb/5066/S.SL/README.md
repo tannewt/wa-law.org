@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5066 - Session Law Chapter 321 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5066-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5066-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [10.93](/rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.093_washington_mutual_aid_peace_officers_powers_act.md) for context.
 

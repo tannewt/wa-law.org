@@ -1,6 +1,6 @@
 # House Bill 1499
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1499.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1499.pdf)
 ## Section 1
 1. The legislature finds that substance use disorder is among the only health conditions for which a person can be arrested for displaying symptoms. People use drugs to escape the painful reality of their lives and circumstances, including trauma that has never had a chance to heal. Causing more hurt through the trauma of incarceration will not produce a willingness to change, only more pain to numb. Arrest and incarceration do not treat the root causes of substance use disorder. Treating substance abuse disorder like a crime through arrests and incarceration further disrupts and destabilizes the lives of these individuals. Incarceration removes access to insurance and behavioral health services, places people with opioid use disorder at extraordinary risk of overdose upon release, and creates criminal records that erect long-term barriers to education, housing, and employment, all of which undermine efforts to achieve and maintain recovery. The diagnostic criteria for substance use disorder includes continued use despite negative consequences. Therefore, it is implausible that additional negative consequences will lead to a cessation of use.
 

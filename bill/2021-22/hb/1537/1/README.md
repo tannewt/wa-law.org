@@ -1,6 +1,6 @@
 # House Bill 1537
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1537.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1537.pdf)
 ## Section 1
 1. The legislature is committed to implementing a wide range of meaningful and scientifically driven policies to continue to reduce our state's greenhouse gas emissions. Natural gas remains one of the largest contributors to Washington's carbon footprint, and the emissions reduction targets established in RCW 70A.45.020 are incompatible with continuing to burn natural gas from fossil sources at present rates. The 2021 state energy strategy anticipates that in the coming years, we will take significant action to reduce natural gas use in all sectors of the economy. Additionally, given anticipated budget shortfalls in the coming years, continuing to provide subsidies to contributors to greenhouse gas emissions in the form of tax incentives is not sustainable, either economically or environmentally. Providing tax preferences to fossil fuel use runs counter to environmental and tax policy priorities. As long as the state continues to provide tax breaks that incentivize the use of natural gas, the market will be distorted and disrupted in ways that may prevent prioritization and expanded use of cleaner and renewable fuels. Therefore, the legislature intends to repeal tax exemptions for natural gas in order to move towards a cleaner, more sustainable economy and a healthier tax system.
 

@@ -1,5 +1,5 @@
 # HB 1227 - Child abuse allegations
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1227&Year=2021)
+*Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1227&Year=2021)
 
 Protecting the rights of families responding to allegations of abuse or neglect of a child.
 

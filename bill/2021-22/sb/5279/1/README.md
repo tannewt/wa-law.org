@@ -1,6 +1,6 @@
 # Senate Bill 5279
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5279.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5279.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.22](/rcw/36_counties/36.022_county_auditor.md). Here is the [modified chapter](rcw/36_counties/36.022_county_auditor.md) for context.
 

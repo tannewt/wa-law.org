@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5117 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5117-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5117-S.pdf)
 ## Section 1
 > This section modifies existing section [9.94A.729](/rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.094A_sentencing_reform_act_of_1981.md) for context.
 

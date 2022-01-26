@@ -1,6 +1,6 @@
 # Substitute House Bill 1085 - Session Law Chapter 029 Year 2021 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1085-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1085-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.210](/rcw/28A_common_school_provisions/28A.210_health—screening_and_requirements.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.210_health—screening_and_requirements.md) for context.
 

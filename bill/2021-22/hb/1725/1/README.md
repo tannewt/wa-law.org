@@ -1,6 +1,6 @@
 # House Bill 1725
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1725.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1725.pdf)
 ## Section 1
 The legislature finds that indigenous people experience disproportionate rates of violence in Washington state. Tribes, state leaders, and grassroots activists have done substantial work to identify factors directly affecting the rates of violence and to ensure that addressing the crisis of missing and murdered indigenous people is a priority at every level. The legislature intends to provide law enforcement with additional tools to disseminate timely, accurate information to engage the public more effectively in assisting with locating missing indigenous people, and to compensate for the unique challenges that indigenous communities face accessing media coverage and the ability to share information.
 

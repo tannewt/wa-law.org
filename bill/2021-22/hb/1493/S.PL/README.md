@@ -1,6 +1,6 @@
 # Substitute House Bill 1493 as Recommended by Labor & Workplace Standards - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1493-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1493-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [50.20.240](/rcw/50_unemployment_compensation/50.20_benefits_and_claims.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.20_benefits_and_claims.md) for context.
 

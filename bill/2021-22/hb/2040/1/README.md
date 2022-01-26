@@ -1,6 +1,6 @@
 # House Bill 2040
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2040.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2040.pdf)
 ## Section 1
 1. The legislature finds that Washington state is in the midst of a behavioral health crisis. Unmet demand for behavioral health services is leading to negative impacts on the health and well-being of many Washingtonians. One of the many causes of this unmet demand is the inadequate number of mental health professionals available to treat Washington residents with behavioral health needs.
 

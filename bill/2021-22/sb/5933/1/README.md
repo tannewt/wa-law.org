@@ -1,6 +1,6 @@
 # Senate Bill 5933
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5933.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5933.pdf)
 ## Section 1
 The legislature finds that a significant number of Washington students in public school districts and state-tribal education compact schools attend school in older facilities located in geologically active areas. Accordingly, the legislature intends to create a grant program to help school districts and state-tribal education compact schools cover the cost of retrofitting or relocating school facilities located in high seismic areas or tsunami zones.
 

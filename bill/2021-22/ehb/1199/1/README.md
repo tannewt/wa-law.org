@@ -1,6 +1,6 @@
 # Engrossed House Bill 1199 - Session Law Chapter 036 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1199.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1199.SL.pdf)
 ## Section 1
 > This section modifies existing section [79.13.420](/rcw/79_public_lands/79.013_land_leases.md). Here is the [modified chapter](rcw/79_public_lands/79.013_land_leases.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1129 - Session Law Chapter 204 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1129-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1129-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.71.095](/rcw/18_businesses_and_professions/18.071_physicians.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.071_physicians.md) for context.
 

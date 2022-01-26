@@ -1,6 +1,6 @@
 # Substitute House Bill 1181 as Recommended by Housing, Human Services & Veterans
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1181-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1181-S.pdf)
 ## Section 1
 1. Suicide is a public health issue that affects many Washington families and communities daily. Over the last 10 years, Washington state has been at the forefront of suicide prevention, investing more in upstream suicide prevention strategies and supports with the goal of reducing suicide by 20 percent by 2025.
 

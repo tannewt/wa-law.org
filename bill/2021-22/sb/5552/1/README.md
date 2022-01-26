@@ -1,6 +1,6 @@
 # Senate Bill 5552
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5552.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5552.pdf)
 ## Section 1
 > This section modifies existing section [77.08.010](/rcw/77_fish_and_wildlife/77.008_general_terms_defined.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.008_general_terms_defined.md) for context.
 

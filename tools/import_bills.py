@@ -1,18 +1,73 @@
-import requests_cache
+import cached_session
 from bs4 import BeautifulSoup, NavigableString
 import re
 import pathlib
 import sys
 import subprocess
 
-PUSH = False
+FORCE_FETCH = False
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 
-requests = requests_cache.CachedSession("bill_cache")
+requests = cached_session.CustomCachedSession("bill_cache")
 
 rcw_pattern = re.compile("RCW  ([0-9A-Z]+)\\.([0-9A-Z]+)\\.([0-9A-Z]+)")
 chapter_pattern = re.compile("([0-9A-Z]+)\\.([0-9A-Z]+) RCW")
+
+short_committee_status_to_acronym = {
+    "H": {
+        "Approps": "APP",
+        "Cap Budget": "CB",
+        "Children, Yout": "CYF",
+        "Children, Youth": "CYF",
+        "Civil R & Judi": "CRJ",
+        "Coll & Wkf Dev": "CWD",
+        "Comm & Econ De": "CED",
+        "Comm & Econ Dev": "CED",
+        "Commerce & Gam": "COG",
+        "Commerce & Gami": "COG",
+        "ConsPro&Bus": "CPB",
+        "Education": "ED",
+        "Env & Energy": "ENVI",
+        "Finance": "FIN",
+        "HC/Wellness": "HCW",
+        "Hous, Human Sv": "HHSV",
+        "Hous, Human Svc": "HHSV",
+        "Labor & Workpl": "LAWS",
+        "Labor & Workpla": "LAWS",
+        "Local Govt": "LG",
+        "Public Safety": "PS",
+        "RDev, Ag&NR": "RDAN",
+        "State Govt & T": "SGOV",
+        "State Govt & Tr": "SGOV",
+        "Transportation": "TR"
+    },
+    "S": {
+        "Ag/Water/Natur": "AWNP",
+        "Ag/Water/Natura": "AWNP",
+        "Behavioral Hea": "BH",
+        "Behavioral Heal": "BH",
+        "Business, Fina": "BFST",
+        "Business, Finan": "BFST",
+        "EL/K-12": "EDU",
+        "Environment, E": "ENET",
+        "Environment, En": "ENET",
+        "Health & Long": "HLTC",
+        "Health & Long T": "HLTC",
+        "Higher Ed & Wo": "HEWD",
+        "Housing & Loca": "HLG",
+        "Housing & Local": "HLG",
+        "Human Svcs, Re": "HSRR",
+        "Human Svcs, Ree": "HSRR",
+        "Labor, Comm &": "LCTA",
+        "Labor, Comm & T": "LCTA",
+        "Law & Justice": "LAW",
+        "State Govt & E": "SGE",
+        "State Govt & El": "SGE",
+        "Transportation": "TRAN",
+        "Ways & Means": "WM",
+    }
+}
 
 def get_citation(xml):
     t = xml.TitleNumber
@@ -210,7 +265,7 @@ for start_year in range(2021, 2023, 2):
     sponsors_by_id = {}
 
     url = api_root_url + f"/SponsorService.asmx/GetSponsors?biennium={biennium}"
-    sponsors = requests.get(url, expire_after=0)
+    sponsors = requests.get(url)
     sponsors = BeautifulSoup(sponsors.text, "xml")
     count = 0
     for info in sponsors.find_all("Member"):
@@ -220,10 +275,29 @@ for start_year in range(2021, 2023, 2):
         count += 1
     print(count, "sponsors")
 
+    url = api_root_url + f"/CommitteeService.asmx/GetCommittees?biennium={biennium}"
+    print(url)
+    committees = requests.get(url)
+    committees = BeautifulSoup(committees.text, "xml")
+    last_agency = None
+    committees_by_agency = {}
+    # TODO: Table of contents
+    for committee in committees.find_all("Committee"):
+        agency = committee.Agency.text
+        name = committee.Name.text
+        acronym = committee.Acronym.text
+        print(agency, name, acronym)
+        if last_agency != agency:
+            # biennium_readme.append(f"[{agency}](#{agency.lower()})")
+            committees_by_agency[agency] = []
+        last_agency = agency
+        committees_by_agency[agency].append((acronym, name))
+        slug = name.lower().replace(" ", "-")
+        # biennium_readme.append(f"* [{name}](#{slug})")
 
     url = api_root_url + f"/LegislativeDocumentService.asmx/GetAllDocumentsByClass?biennium={biennium}&documentClass=Bills"
     print(url)
-    all_bill_docs = BeautifulSoup(requests.get(url, expire_after=0).text, "xml")
+    all_bill_docs = BeautifulSoup(requests.get(url, force_fetch=FORCE_FETCH).text, "xml")
     docs_by_number = {}
     count = 0
     for doc in all_bill_docs.find_all("LegislativeDocument"):
@@ -238,10 +312,10 @@ for start_year in range(2021, 2023, 2):
     print(count, "bill docs")
 
     url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year}"
-    legislationOdd = requests.get(url, expire_after=0)
+    legislationOdd = requests.get(url, force_fetch=FORCE_FETCH)
     legislationOdd = BeautifulSoup(legislationOdd.text, "xml")
     url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year+1}"
-    legislationEven = requests.get(url, expire_after=0)
+    legislationEven = requests.get(url, force_fetch=FORCE_FETCH)
     legislationEven = BeautifulSoup(legislationEven.text, "xml")
     count = 0
     bills_by_sponsor = {}
@@ -250,6 +324,10 @@ for start_year in range(2021, 2023, 2):
     for info in legislationOdd.find_all("LegislationInfo") + legislationEven.find_all("LegislationInfo"):
         bill_number = info.BillNumber.text
         bill_id = info.BillId.text
+
+        # Skip bills that may have been from the previous year.
+        if bill_number in bills_by_number:
+            continue
 
         # Skip resolutions
         if bill_id.startswith("HR") or bill_id.startswith("SR") or bill_id.startswith("HJR"):
@@ -262,47 +340,33 @@ for start_year in range(2021, 2023, 2):
             continue
 
         bills_url = api_root_url + f"/LegislationService.asmx/GetLegislation?biennium={biennium}&billNumber={bill_number}"
-        bills = requests.get(bills_url, expire_after=0)
+        if bill_number == "1007":
+            print(bills_url)
+        bills = requests.get(bills_url, force_fetch=FORCE_FETCH)
         bills = BeautifulSoup(bills.text, "xml")
         full_info = None
         for bill in bills.find_all("Legislation"):
-            if bill_id != bill.BillId.text:
-                continue
             full_info = bill
-        sponsor_id = full_info.PrimeSponsorID.text
-        if bill_number not in docs_by_number:
-            print(bill_number, "missing doc")
-        if sponsor_id not in sponsors_by_id:
-            print(sponsor_id, "missing sponsor for bill", bill_id)
-        if sponsor_id not in bills_by_sponsor:
-            bills_by_sponsor[sponsor_id] = {}
-        if bill_number not in bills_by_sponsor[sponsor_id]:
-            bills_by_sponsor[sponsor_id][bill_number] = []
-        bills_by_sponsor[sponsor_id][bill_number].append(full_info)
-        if bill_number not in bills_by_number:
-            bills_by_number[bill_number] = []
-        bills_by_number[bill_number].append(full_info)
+            sponsor_id = full_info.PrimeSponsorID.text
+            if bill_number not in docs_by_number:
+                print(bill_number, "missing doc")
+            if sponsor_id not in sponsors_by_id:
+                print(sponsor_id, "missing sponsor for bill", bill_id)
+            if sponsor_id not in bills_by_sponsor:
+                bills_by_sponsor[sponsor_id] = {}
+            if bill_number not in bills_by_sponsor[sponsor_id]:
+                bills_by_sponsor[sponsor_id][bill_number] = []
+            bills_by_sponsor[sponsor_id][bill_number].append(full_info)
+            if bill_number not in bills_by_number:
+                bills_by_number[bill_number] = []
+            bills_by_number[bill_number].append(full_info)
         sponsor_by_bill_number[bill_number] = sponsor_id
 
         count += 1
+        if count % 100 == 0:
+            print("loaded", count)
     print(count, "legislation")
     print()
-
-    url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year+1}"
-    legislation = requests.get(url)
-    legislation = BeautifulSoup(legislation.text, "xml")
-    count = 0
-    for info in legislation.find_all("LegislationInfo"):
-        bill_number = info.BillNumber.text
-        # if count == 0:
-        #     print(info)
-        #     bill = api_root_url + f"/LegislationService.asmx/GetLegislation?biennium={biennium}&billNumber={bill_number}"
-        #     bill = requests.get(bill)
-        #     bill = BeautifulSoup(bill.text, "xml")
-        #     print(bill)
-        # print(amendment.Name.text, amendment.BillId.text)
-        count += 1
-    print(count, "legislation")
 
     amendments_by_bill_number = {}
 
@@ -335,17 +399,26 @@ for start_year in range(2021, 2023, 2):
             # if bill_number != "1000":
             #     continue
             sponsor = sponsor_by_bill_number[bill_number]
-            # Ignore follow up legislation info for now.
-            bill = bills_by_sponsor[sponsor][bill_number][0]
-            bill_id = bill.BillId.text
+            status = ""
+            bill = None
+            bill_id = None
+            for b in bills_by_sponsor[sponsor][bill_number]:
+                print(b)
+                # Find the shortest billId because we don't want engrossed or substitutes.
+                if bill_id is None or len(b.BillId.text) < len(bill_id):
+                    bill_id = b.BillId.text
+                if b.Active.text != "true":
+                    continue
+                # print(b.CurrentStatus.Status.text, b.CurrentStatus.HistoryLine.text)
+                status = b.CurrentStatus.Status.text
+                bill = b
+
+            if bill is None:
+                raise RuntimeError("no active bill", bill_number)
+
             bill_path = biennium_path / bill_id.replace(" ", "/").lower()
             print(i, "/", len(bills_by_number), bill_path)
-            status = ""
-            for v in bills_by_sponsor[sponsor][bill_number]:
-                if v.Active.text != "true":
-                    continue
-                # print(v.CurrentStatus.Status.text, v.CurrentStatus.HistoryLine.text)
-                status = v.CurrentStatus.Status.text
+
             short_description = ""
             if bill.ShortDescription is not None:
                 short_description = bill.ShortDescription.text
@@ -354,17 +427,37 @@ for start_year in range(2021, 2023, 2):
             else:
                 print(bill)
             bill_link = f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
-            bill_link_by_number[bill_number] = f"[{bill_id}]({str(bill_path)}/) - {short_description}"
             if status.startswith("C "):
+                bill_link = f"[{status} {bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
                 bills_by_status["passed"].append(bill_link)
+            elif " " in status and not status.startswith("Gov"):
+                agency, short_committee = status.split(" ", maxsplit=1)
+                acronym = None
+                if short_committee in short_committee_status_to_acronym[agency]:
+                    acronym = short_committee_status_to_acronym[agency][short_committee]
+                # Do pass and do pass substitute
+                elif short_committee.endswith("DPS"):
+                    acronym = short_committee[:-3]
+                elif short_committee.endswith("DP"):
+                    acronym = short_committee[:-2]
+                if not acronym:
+                    if status not in bills_by_status:
+                        bills_by_status[status] = []
+                    bills_by_status[status].append(bill_link)
+                else:
+                    if acronym not in bills_by_status["committee"]:
+                        bills_by_status["committee"][acronym] = []
+                    bills_by_status["committee"][acronym].append(bill_link)
             else:
-                if status not in bills_by_status["committee"]:
-                    bills_by_status["committee"][status] = []
-                bills_by_status["committee"][status].append(bill_link)
+                if status not in bills_by_status:
+                    bills_by_status[status] = []
+                bills_by_status[status].append(bill_link)
 
             bill_readme = []
 
             bill_readme.append("# " + bill_id + " - " + short_description)
+
+            bill_link_by_number[bill_number] = f"[{bill_id}](/{str(bill_path)}/) - {short_description} | {bill.HistoryLine.text}"
             bill_readme.append("*Status: " + bill.HistoryLine.text + "* | " + f"[leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2021)")
             bill_readme.append("")
             bill_readme.append(bill.LongDescription.text)
@@ -417,7 +510,7 @@ for start_year in range(2021, 2023, 2):
                     section_count = 0
                     revision_readme = ["# " + doc.LongFriendlyName.text]
                     revision_readme.append("")
-                    revision_readme.append("[Source](" + url.replace(" ", "%20") + ")")
+                    revision_readme.append("[Source](" + doc.PdfUrl.text.replace(" ", "%20") + ")")
                     for section in bill_text.find_all("BillSection"):
                         section_number = section.BillSectionNumber
                         if not section_number:
@@ -611,18 +704,95 @@ for start_year in range(2021, 2023, 2):
         # print("------------------------")
         # print()
 
-    print(bills_by_status.keys())
-    biennium_readme.append("## In Committee")
-    for committee in bills_by_status["committee"]:
-        biennium_readme.append("### " + committee)
-        for b in bills_by_status["committee"][committee]:
+    unhandled_keys = set(bills_by_status.keys())
+
+    def list_out(key):
+        if key in bills_by_status:
+            for b in bills_by_status[key]:
+                biennium_readme.append("* " + b)
+        biennium_readme.append("")
+        unhandled_keys.discard(key)
+
+    biennium_readme.append("## Senate")
+    biennium_readme.append("### Second Reading")
+    biennium_readme.append("Ready for second reading, debate and amendments.")
+    list_out("S 2nd Reading")
+    biennium_readme.append("### Third Reading")
+    biennium_readme.append("Ready for third reading.")
+    list_out("S 3rd Reading")
+    biennium_readme.append("### Passed Third Reading")
+    biennium_readme.append("Passed third reading. Ready for other house.")
+    list_out("S Passed 3rd")
+
+    for acronym, name in committees_by_agency["Senate"]:
+        if acronym not in bills_by_status["committee"]:
+            continue
+        biennium_readme.append("### " + name)
+        for b in bills_by_status["committee"][acronym]:
             biennium_readme.append("* " + b)
         biennium_readme.append("")
 
-    biennium_readme.append("## Passed")
-    for b in bills_by_status["passed"]:
-        biennium_readme.append("* " + b)
-    biennium_readme.append("")
+    biennium_readme.append("### Senate Rules")
+    biennium_readme.append("Routes bills after committee.")
+    biennium_readme.append("#### Senate X-File")
+    biennium_readme.append("X-File where bills aren't going to be acted on.")
+    list_out("S Rules X")
+    biennium_readme.append("#### Senate Waiting Second Reading")
+    biennium_readme.append("Bills waiting for second reading")
+    list_out("S Rules 2")
+    biennium_readme.append("#### Senate Waiting Third Reading")
+    biennium_readme.append("Bills waiting for third reading")
+    list_out("S Rules 3")
+    list_out("S Rules 3C")
+
+    biennium_readme.append("## House")
+    biennium_readme.append("### Second Reading")
+    biennium_readme.append("Ready for second reading, debate and amendments.")
+    list_out("H 2nd Reading")
+    biennium_readme.append("### Passed Third Reading")
+    biennium_readme.append("Passed third reading. Ready for other house.")
+    list_out("H Passed 3rd")
+
+    for acronym, name in committees_by_agency["House"]:
+        if acronym not in bills_by_status["committee"]:
+            continue
+        biennium_readme.append("### " + name)
+        for b in bills_by_status["committee"][acronym]:
+            biennium_readme.append("* " + b)
+        biennium_readme.append("")
+
+    unhandled_keys.discard("committee")
+
+    biennium_readme.append("### House Rules")
+    biennium_readme.append("Routes bills after committee.")
+    biennium_readme.append("#### House X-File")
+    biennium_readme.append("X-File where bills aren't going to be acted on.")
+    list_out("H Rules X")
+    biennium_readme.append("#### House Waiting Second Reading")
+    biennium_readme.append("Bills waiting for second reading")
+    list_out("H Rules R")
+    biennium_readme.append("#### House Waiting Third Reading")
+    biennium_readme.append("Bills waiting for third reading")
+    list_out("H Rules C")
+    list_out("H Rules 3C")
+
+    biennium_readme.append("## Vetoed")
+    list_out("Gov vetoed")
+
+    biennium_readme.append("## Filed with Secretary of State")
+    biennium_readme.append("Passed through legislature and governor. Waiting to be incorporated into session law.")
+    list_out("H Filed Sec/St")
+
+    list_out("S Filed Sec/St")
+
+    biennium_readme.append("## Session Law")
+    list_out("passed")
+
+
+    biennium_readme.append("## Unknown Status")
+    for k in sorted(unhandled_keys):
+        biennium_readme.append("### " + k)
+        list_out(k)
 
     rm = biennium_path / "README.md"
     rm.write_text("\n".join(biennium_readme))
@@ -647,6 +817,7 @@ for start_year in range(2021, 2023, 2):
         person_page.write_text("\n".join(lines))
 
     print()    
+    break
 
 rm = bills_path / "README.md"
 rm.write_text("\n".join(all_bills_readme))

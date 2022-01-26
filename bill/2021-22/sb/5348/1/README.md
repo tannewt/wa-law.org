@@ -1,6 +1,6 @@
 # Senate Bill 5348
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5348.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5348.pdf)
 ## Section 1
 The legislature finds it unconscionable that health care providers or others may misrepresent the source of the human reproductive material provided to assisted reproduction patients. In such cases, false information leaves the children conceived through assisted reproduction without accurate information about their identity, family medical history, and true genetic parentage.
 

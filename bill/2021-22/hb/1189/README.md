@@ -1,7 +1,7 @@
 # HB 1189 - Tax increment financing
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1189&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1189&Year=2021)
 
-Authorizing tax increment financing for local governments.
+Concerning tax increment financing.
 
 ## Revisions
 * [Original Bill](1/)

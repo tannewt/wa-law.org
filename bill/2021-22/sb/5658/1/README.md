@@ -1,6 +1,6 @@
 # Senate Bill 5658
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5658.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5658.pdf)
 ## Section 1
 The legislature finds and declares that it is the public policy of the state that claims related to the recyclability of a product or packaging be truthful in practice and accurate. Consumers deserve accurate and useful information related to how to properly handle the end of life of a product or packaging.
 

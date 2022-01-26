@@ -1,6 +1,6 @@
 # House Bill 2079
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2079.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2079.pdf)
 ## Section 1
 1. Since HIV and AIDS emerged four decades ago, Washington state has served as a leader in fighting the epidemic.
 

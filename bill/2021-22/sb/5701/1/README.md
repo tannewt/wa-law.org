@@ -1,6 +1,6 @@
 # Senate Bill 5701
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5701.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5701.pdf)
 ## Section 1
 > This section modifies existing section [51.08.178](/rcw/51_industrial_insurance/51.08_definitions.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.08_definitions.md) for context.
 

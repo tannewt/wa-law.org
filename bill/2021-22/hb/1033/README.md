@@ -1,5 +1,5 @@
 # HB 1033 - Employment training program
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1033&Year=2021)
+*Status: Effective date 7/1/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1033&Year=2021)
 
 Concerning the Washington customized employment training program.
 

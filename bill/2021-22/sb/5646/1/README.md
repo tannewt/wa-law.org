@@ -1,6 +1,6 @@
 # Senate Bill 5646
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5646.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5646.pdf)
 ## Section 1
 The legislature finds that the department of corrections is responsible for enhancing public safety through the operation of safe and secure facilities, ensuring the health and safety of incarcerated individuals, and maintaining environments that reinforce safe and humane correctional practices. Safer operations are generated through continuous performance of sound correctional policies, practices, and procedures. Contraband is a risk to correctional officer and inmate safety. In order to preserve, protect, and maintain public safety and the security of correctional facilities, the department of corrections should attempt to eliminate the introduction of contraband through the installation of state-of-the-art full body scanning devices similar to the pilot program at the Washington corrections center for women.
 

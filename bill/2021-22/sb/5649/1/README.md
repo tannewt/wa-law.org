@@ -1,6 +1,6 @@
 # Senate Bill 5649
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5649.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5649.pdf)
 ## Section 1
 > This section modifies existing section [50A.05.010](/rcw/50A_family_and_medical_leave/50A.05_general_provisions.md). Here is the [modified chapter](rcw/50A_family_and_medical_leave/50A.05_general_provisions.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1568
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1568.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1568.pdf)
 ## Section 1
 1. The legislature finds that certain businesses in Washington have experienced significant and unanticipated impacts during the COVID-19 pandemic. Small businesses have fewer reserves and fewer resources to rely upon in periods of downturn. Those businesses owned by historically disadvantaged groups, such as women, minority populations, and immigrants, often experience a compounding of those issues experienced across the business community. These businesses form the backbone of Washington's diverse and resilient economy, and their survival is crucial to the state's continuing growth and vitality. For these already disadvantaged small businesses, the economic impacts of the COVID-19 pandemic have been particularly devastating.
 

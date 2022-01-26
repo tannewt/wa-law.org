@@ -1,6 +1,6 @@
 # Senate Bill 5339
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5339.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5339.pdf)
 ## Section 2
 > This section modifies existing section [13.50.260](/rcw/13_juvenile_courts_and_juvenile_offenders/13.50_keeping_and_release_of_records_by_juvenile_justice_or_care_agencies.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.50_keeping_and_release_of_records_by_juvenile_justice_or_care_agencies.md) for context.
 

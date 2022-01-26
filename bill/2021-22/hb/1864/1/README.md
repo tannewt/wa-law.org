@@ -1,6 +1,6 @@
 # House Bill 1864
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1864.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1864.pdf)
 ## Section 1
 1. The legislature finds that surmounting global challenges like climate change will require the best in entrepreneurship and innovation from global talent, and that the surest path to economic development and security for Washington in an uncertain and changing world is advanced technology leadership.
 

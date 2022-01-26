@@ -1,6 +1,6 @@
 # Senate Bill 5490
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5490.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5490.pdf)
 ## Section 1
 There is created an interbranch advisory committee consisting of the following members:
 

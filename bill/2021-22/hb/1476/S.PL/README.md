@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1476 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1476-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1476-S.PL.pdf)
 ## Section 1
 The legislature recognizes that the COVID-19 pandemic has significantly changed the delivery of education across the state, as school districts transition to remote learning environments to protect the health of students and staff. The legislature also recognizes that state funding formulas are largely driven by enrollment and the pandemic has resulted in unforeseen, temporary enrollment declines in many districts. Funding declines due to temporary, unforeseen changes in enrollment can affect a district's ability to maintain the staffing and resources needed to deliver education services. With this act and in the operating budget, the legislature intends to provide stabilizing funding to districts that have seen temporary enrollment declines due to the COVID-19 pandemic.
 

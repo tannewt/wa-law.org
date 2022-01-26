@@ -1,6 +1,6 @@
 # House Bill 1905
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1905.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1905.pdf)
 ## Section 1
 1. The legislature finds that young people discharging from publicly funded systems of care are at increased risk of homelessness. Youth and young adults experiencing homelessness face traumatic events at a higher rate than their peers who have stable housing. Homelessness has long-term impacts on brain development and well-being and creates barriers to education and employment.
 

@@ -1,6 +1,6 @@
 # House Bill 1774
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1774.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1774.pdf)
 ## Section 1
 The legislature finds that in order to meet the statewide greenhouse gas emissions limits in RCW 70A.45.020, the state must require performance standards for existing buildings.
 

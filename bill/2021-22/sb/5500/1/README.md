@@ -1,6 +1,6 @@
 # Senate Bill 5500
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5500.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5500.pdf)
 ## Section 1
 > This section modifies existing section [70A.200.170](/rcw/70A_environmental_health_and_safety/70A.200_waste_reduction_recycling_and_model_litter_control_act.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.200_waste_reduction_recycling_and_model_litter_control_act.md) for context.
 

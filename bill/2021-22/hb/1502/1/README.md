@@ -1,6 +1,6 @@
 # House Bill 1502
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1502.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1502.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.32](/rcw/36_counties/36.032_county_commissioners.md). Here is the [modified chapter](rcw/36_counties/36.032_county_commissioners.md) for context.
 

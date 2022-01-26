@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5025 - Session Law Chapter 228 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5025-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5025-S.SL.pdf)
 ## Section 1
 The legislature finds that:
 

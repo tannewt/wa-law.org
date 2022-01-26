@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1267 as Recommended by Public Safety - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1267-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1267-S.PL.pdf)
 ## Section 101
 The legislature finds that there has been an outpouring of frustration, anger, and demand for change from many members of the public over the deaths of people of color resulting from encounters with police. The most recent deaths in the United States and within Washington are a call to lead our state to a new system for investigating deaths and other serious incidents involving law enforcement officers.
 

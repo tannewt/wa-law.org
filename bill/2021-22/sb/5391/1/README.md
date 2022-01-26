@@ -1,6 +1,6 @@
 # Senate Bill 5391
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5391.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5391.pdf)
 ## Section 1
 > This section modifies existing section [84.36.381](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
 

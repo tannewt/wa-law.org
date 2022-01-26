@@ -1,6 +1,6 @@
 # Senate Bill 5576
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5576.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5576.pdf)
 ## Section 1
 > This section modifies existing section [59.18.057](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
 

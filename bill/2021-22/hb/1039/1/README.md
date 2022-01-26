@@ -1,6 +1,6 @@
 # House Bill 1039
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1039.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1039.pdf)
 ## Section 1
 The legislature finds that many state agencies are involved in creating educational and safety programs involving bicycle and pedestrian travel. The legislature intends to have agencies report and update their programs so that this generation of students are provided more opportunities to acquire safety skills. There is a need for increased training on hazard avoidance skills and the impacts of usage of modern technology on pedestrian, bicycle, and motor vehicle travel as it relates to their interactions with each other.
 

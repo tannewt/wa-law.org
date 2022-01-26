@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5263 - Session Law Chapter 325 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5263-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5263-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [4.24.420](/rcw/04_civil_procedure/4.024_special_rights_of_action_and_special_immunities.md). Here is the [modified chapter](rcw/04_civil_procedure/4.024_special_rights_of_action_and_special_immunities.md) for context.
 

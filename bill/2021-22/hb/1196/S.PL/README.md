@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1196 as Recommended by Health Care & Wellness - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1196-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1196-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [41.05.700](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
 

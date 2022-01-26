@@ -1,6 +1,6 @@
 # House Bill 2008
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2008.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2008.pdf)
 ## Section 1
 The legislature finds that requiring intelligence quotient testing to determine if a person has an intellectual or developmental disability is expensive, inaccessible to marginalized communities, complicated to receive, and time consuming for families already struggling to care for their child with an intellectual or developmental disability. Further, the legislature finds that intelligence quotient testing does not accurately indicate whether a person needs support to be personally and socially productive, which is the goal of the developmental disabilities administration outlined in RCW 71A.10.015. Therefore, the legislature finds that requiring intelligence quotient testing in assessing whether a person has an intellectual or developmental disability is not an appropriate diagnostic tool and eliminating the use of intelligence quotient scores has been a goal of the legislature for more than 40 years.
 

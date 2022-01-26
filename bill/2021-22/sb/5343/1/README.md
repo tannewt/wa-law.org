@@ -1,6 +1,6 @@
 # Senate Bill 5343
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5343.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5343.pdf)
 ## Section 1
 FOR THE DEPARTMENT OF SOCIAL AND HEALTH SERVICES—DEVELOPMENTAL DISABILITIES PROGRAM—COMMUNITY SERVICES
 

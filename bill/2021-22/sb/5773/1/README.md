@@ -1,6 +1,6 @@
 # Senate Bill 5773
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5773.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5773.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [41.80](/rcw/41_public_employment_civil_service_and_pensions/41.80_state_collective_bargaining.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.80_state_collective_bargaining.md) for context.
 

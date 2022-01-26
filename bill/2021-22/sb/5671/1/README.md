@@ -1,6 +1,6 @@
 # Senate Bill 5671
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5671.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5671.pdf)
 ## Section 1
 > This section modifies existing section [66.08.012](/rcw/66_alcoholic_beverage_control/66.08_liquor_and_cannabis_board—general_provisions.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.08_liquor_and_cannabis_board—general_provisions.md) for context.
 

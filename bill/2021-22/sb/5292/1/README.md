@@ -1,6 +1,6 @@
 # Senate Bill 5292
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5292.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5292.pdf)
 ## Section 1
 1. The legislature finds that one of the best and most cost-effective ways for the residents of Washington state to achieve physical and mental health, and to prevent costly diseases and conditions such as diabetes, obesity, heart disease, and other coronary conditions is to get regular exercise and physical activity. In fact, as part of a study done for the recreation and conservation office on the benefits of trail-based activities, the University of Washington conducted a literature review of over 100 studies that identify evidence of a close linkage between health benefits and being outdoors. The literature review further found that the health benefits of nature "may be particularly impactful for the 12.2 percent who have incomes below the poverty level."
 

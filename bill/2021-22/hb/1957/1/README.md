@@ -1,6 +1,6 @@
 # House Bill 1957
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1957.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1957.pdf)
 ## Section 1
 1. The legislature finds that for small businesses impacted by destructive weather events and other natural disasters, financial relief and recovery resources are often necessary for survival. Many small businesses that close due to a disaster will never reopen or will close permanently after two years.
 

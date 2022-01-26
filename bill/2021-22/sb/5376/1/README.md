@@ -1,6 +1,6 @@
 # Senate Bill 5376
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5376.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5376.pdf)
 ## Section 1
 1. The legislature recognizes that the office of the education ombuds within the office of the governor was established by the legislature in 2006 to reduce educational opportunity gaps by supporting families, students, educators, and communities in understanding the K-12 school system and resolving concerns collaboratively. The legislature recognizes that it placed the education ombuds within the office of the governor to ensure independence and impartiality.
 

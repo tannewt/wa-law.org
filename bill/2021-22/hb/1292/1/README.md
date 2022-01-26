@@ -1,6 +1,6 @@
 # House Bill 1292
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1292.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1292.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9.68A](/rcw/09_crimes_and_punishments/9.068A_sexual_exploitation_of_children.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.068A_sexual_exploitation_of_children.md) for context.
 

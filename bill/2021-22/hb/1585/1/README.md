@@ -1,6 +1,6 @@
 # House Bill 1585
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1585.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1585.pdf)
 ## Section 1
 The legislature finds there is a need for drivers to be provided better education to avoid inadvertently causing conflicts with law enforcement when stopped for a traffic infraction. Driver education training curriculum and courses should inform new drivers of the best practices to use when detained by law enforcement while driving. The education is intended to provide comprehensive training to prevent hostile driver and law enforcement interactions.
 

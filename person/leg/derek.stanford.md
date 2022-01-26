@@ -1,29 +1,29 @@
 # Derek Stanford
 ## Bills
-* [SB 5101](bill/2021-22/sb/5101/) - Emerg. mgmt. council/tribes
-* [SB 5102](bill/2021-22/sb/5102/) - Workers' comp medical exam
-* [SB 5103](bill/2021-22/sb/5103/) - Freight transporters/L&I
-* [SB 5219](bill/2021-22/sb/5219/) - Plastic packaging materials
-* [SB 5231](bill/2021-22/sb/5231/) - Transportation fuel/carbon
-* [SB 5278](bill/2021-22/sb/5278/) - Construction workers
-* [SB 5298](bill/2021-22/sb/5298/) - Tribal consent/AG
-* [SB 5348](bill/2021-22/sb/5348/) - Assisted reproduction
-* [SB 5365](bill/2021-22/sb/5365/) - Cannabis commission
-* [SB 5366](bill/2021-22/sb/5366/) - Building materials
-* [ESB 5372](bill/2021-22/esb/5372/) - Hemp/registration & cert.
-* [SB 5379](bill/2021-22/sb/5379/) - Enhanced raffle procedures
-* [SB 5408](bill/2021-22/sb/5408/) - Homestead exemption
-* [SB 5410](bill/2021-22/sb/5410/) - Enhanced raffle procedures
-* [SB 5411](bill/2021-22/sb/5411/) - Northern spotted owl forests
-* [SB 5419](bill/2021-22/sb/5419/) - Statuary hall/Billy Frank Jr
-* [SB 5425](bill/2021-22/sb/5425/) - Unempl. extended benefits
-* [SB 5571](bill/2021-22/sb/5571/) - 911 emergency communications
-* [SB 5627](bill/2021-22/sb/5627/) - Workers' comp. exam rights
-* [SB 5658](bill/2021-22/sb/5658/) - Recyclability
-* [SB 5671](bill/2021-22/sb/5671/) - Liquor and cannabis board
-* [SB 5694](bill/2021-22/sb/5694/) - DOC-tribal agreements
-* [SB 5708](bill/2021-22/sb/5708/) - Fur products
-* [SB 5717](bill/2021-22/sb/5717/) - Compost products
-* [SB 5747](bill/2021-22/sb/5747/) - Statewide oil spill plan
-* [SB 5767](bill/2021-22/sb/5767/) - Hemp-derived cannabinoids
-* [SB 5773](bill/2021-22/sb/5773/) - Legislature/bargaining
+* [SB 5101](/bill/2021-22/sb/5101/) - Emerg. mgmt. council/tribes | Effective date 7/25/2021.
+* [SB 5102](/bill/2021-22/sb/5102/) - Workers' comp medical exam | By resolution, reintroduced and retained in present status.
+* [SB 5103](/bill/2021-22/sb/5103/) - Freight transporters/L&I | By resolution, reintroduced and retained in present status.
+* [SB 5219](/bill/2021-22/sb/5219/) - Plastic packaging materials | By resolution, reintroduced and retained in present status.
+* [SB 5231](/bill/2021-22/sb/5231/) - Transportation fuel/carbon | By resolution, reintroduced and retained in present status.
+* [SB 5278](/bill/2021-22/sb/5278/) - Construction workers | By resolution, reintroduced and retained in present status.
+* [SB 5298](/bill/2021-22/sb/5298/) - Tribal consent/AG | By resolution, reintroduced and retained in present status.
+* [SB 5348](/bill/2021-22/sb/5348/) - Assisted reproduction | By resolution, reintroduced and retained in present status.
+* [SB 5365](/bill/2021-22/sb/5365/) - Cannabis commission | By resolution, reintroduced and retained in present status.
+* [SB 5366](/bill/2021-22/sb/5366/) - Building materials | By resolution, reintroduced and retained in present status.
+* [ESB 5372](/bill/2021-22/esb/5372/) - Hemp/registration & cert. | Effective date 7/25/2021.
+* [SB 5379](/bill/2021-22/sb/5379/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
+* [SB 5408](/bill/2021-22/sb/5408/) - Homestead exemption | Effective date 5/12/2021.
+* [SB 5410](/bill/2021-22/sb/5410/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
+* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | By resolution, reintroduced and retained in present status.
+* [SB 5419](/bill/2021-22/sb/5419/) - Statuary hall/Billy Frank Jr | By resolution, reintroduced and retained in present status.
+* [SB 5425](/bill/2021-22/sb/5425/) - Unempl. extended benefits | Effective date 4/16/2021.
+* [SB 5571](/bill/2021-22/sb/5571/) - 911 emergency communications | First reading, referred to State Government & Elections.
+* [SB 5627](/bill/2021-22/sb/5627/) - Workers' comp. exam rights | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5658](/bill/2021-22/sb/5658/) - Recyclability | First reading, referred to Environment, Energy & Technology.
+* [SB 5671](/bill/2021-22/sb/5671/) - Liquor and cannabis board | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | First reading, referred to Human Services, Reentry & Rehabilitation.
+* [SB 5708](/bill/2021-22/sb/5708/) - Fur products | First reading, referred to Law & Justice.
+* [SB 5717](/bill/2021-22/sb/5717/) - Compost products | First reading, referred to Environment, Energy & Technology.
+* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | First reading, referred to Environment, Energy & Technology.
+* [SB 5767](/bill/2021-22/sb/5767/) - Hemp-derived cannabinoids | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5773](/bill/2021-22/sb/5773/) - Legislature/bargaining | First reading, referred to Labor, Commerce & Tribal Affairs.

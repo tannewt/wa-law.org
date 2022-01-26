@@ -1,5 +1,5 @@
 # HB 1091 - Transportation fuel/carbon
-*Status: 3rd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1091&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1091&Year=2021)
 
 Reducing greenhouse gas emissions by reducing the carbon intensity of transportation fuel.
 

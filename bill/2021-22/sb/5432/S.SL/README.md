@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5432 - Session Law Chapter 291 Year 2021 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5432-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5432-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.105](/rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md). Here is the [modified chapter](rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md) for context.
 

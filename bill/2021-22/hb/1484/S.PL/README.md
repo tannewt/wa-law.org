@@ -1,6 +1,6 @@
 # Substitute House Bill 1484 as Recommended by Education - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1484-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1484-S.PL.pdf)
 ## Section 2
 1. No later than 90 days after the effective date of this section, the Washington association of sheriffs and police chiefs must:
 

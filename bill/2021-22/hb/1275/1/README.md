@@ -1,6 +1,6 @@
 # House Bill 1275
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1275.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1275.pdf)
 ## Section 1
 > This section modifies existing section [74.46.485](/rcw/74_public_assistance/74.46_nursing_facility_medicaid_payment_system.md). Here is the [modified chapter](rcw/74_public_assistance/74.46_nursing_facility_medicaid_payment_system.md) for context.
 

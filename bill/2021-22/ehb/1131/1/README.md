@@ -1,6 +1,6 @@
 # Engrossed House Bill 1131 - Session Law Chapter 008 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1131.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1131.SL.pdf)
 ## Section 1
 > This section modifies existing section [28A.195.040](/rcw/28A_common_school_provisions/28A.195_private_schools.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.195_private_schools.md) for context.
 

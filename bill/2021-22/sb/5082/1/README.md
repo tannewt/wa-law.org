@@ -1,6 +1,6 @@
 # Senate Bill 5082
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5082.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5082.pdf)
 ## Section 2
 > This section modifies existing section [41.60.020](/rcw/41_public_employment_civil_service_and_pensions/41.60_state_employees_suggestion_awards_and_incentive_pay.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.60_state_employees_suggestion_awards_and_incentive_pay.md) for context.
 

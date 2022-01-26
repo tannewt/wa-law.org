@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1272 - Session Law Chapter 162 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1272-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1272-S2.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.70.052](/rcw/43_state_government—executive/43.070_department_of_health.md). Here is the [modified chapter](rcw/43_state_government—executive/43.070_department_of_health.md) for context.
 

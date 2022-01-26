@@ -1,6 +1,6 @@
 # Senate Bill 5205
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5205.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5205.pdf)
 ## Section 1
 The legislature intends to improve the education of children by enabling parents to independently determine which school best meets their child's educational needs and empowering parents to be able to send their child to their school of choice. The legislature further intends to support parental school choice by making state-funded K-12 education vouchers a necessary component to fulfill the state's constitutional obligation under Article IX to amply fund a program of basic education.
 

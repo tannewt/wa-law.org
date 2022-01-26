@@ -1,6 +1,6 @@
 # Substitute House Bill 1673 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1673-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1673-S.pdf)
 ## Section 1
 > This section modifies existing section [43.155.160](/rcw/43_state_government—executive/43.155_public_works_projects.md). Here is the [modified chapter](rcw/43_state_government—executive/43.155_public_works_projects.md) for context.
 

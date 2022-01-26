@@ -1,6 +1,6 @@
 # House Bill 1239
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1239.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1239.pdf)
 ## Section 1
 A separate and independent state is established from the eastern portions of Washington. The new state is named and known as the state of Liberty. The western boundary of Liberty follows the crest of the Cascade mountains and the western borders of Okanogan, Chelan, Kittitas, Yakima, and Klickitat counties. The eastern, northern, and southern borders of Liberty are the existing state borders.
 

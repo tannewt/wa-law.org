@@ -1,6 +1,6 @@
 # House Bill 1710
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1710.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1710.pdf)
 ## Section 1
 The legislature finds that the Washington state liquor and cannabis board exists to promote safe communities and public safety. However, there is no agency to oversee research and education of the cannabis industry within the state. The legislature therefore declares:
 

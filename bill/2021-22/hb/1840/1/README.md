@@ -1,6 +1,6 @@
 # House Bill 1840
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1840.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1840.pdf)
 ## Section 1
 It is the legislature's intent to further the effort to make community and technical colleges more welcoming and inclusive for all students by continuing to build on previous legislative efforts to improve diversity, equity, and mental health. Therefore, the legislature intends to establish a task force to examine the ways that diversity and equity can be improved at the state's community and technical colleges while expanding the pilot program to increase student access to mental health counseling and services.
 

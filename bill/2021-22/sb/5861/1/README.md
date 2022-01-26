@@ -1,6 +1,6 @@
 # Senate Bill 5861
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5861.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5861.pdf)
 ## Section 1
 1. The legislature finds the following:
 

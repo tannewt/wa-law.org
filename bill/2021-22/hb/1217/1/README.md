@@ -1,6 +1,6 @@
 # House Bill 1217
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1217.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1217.pdf)
 ## Section 1
 1. The legislature recognizes that the numerous cases in Washington state have addressed the application of the prospective and retroactive effect of the courts' decisions. While the courts have established a general rule favoring retroactivity, the legislature finds that the rule imposes an inequitable result in certain exceptional cases.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1300 as Recommended by Housing, Human Services & Veterans
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1300-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1300-S.pdf)
 ## Section 2
 > This section modifies existing section [59.18.260](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
 

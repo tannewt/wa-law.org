@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5158 - Session Law Chapter 183 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5158.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5158.SL.pdf)
 ## Section 1
 > This section modifies existing section [76.04.780](/rcw/76_forests_and_forest_products/76.04_forest_protection.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.04_forest_protection.md) for context.
 

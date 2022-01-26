@@ -1,6 +1,6 @@
 # House Bill 1001 - Session Law Chapter 052 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1001.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1001.SL.pdf)
 ## Section 1
 The legislature recognizes that recruiting and retaining law enforcement officers is a significant challenge faced by law enforcement agencies across the state. There are many causes, including salary, high attrition, and generational shifts in the workplace. However, community distrust of law enforcement has also made the profession less desirable for new and qualified candidates. It is paramount for law enforcement agencies to bridge these gaps with the community to both improve external relations and advance recruitment and retention efforts.
 

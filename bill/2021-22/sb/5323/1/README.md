@@ -1,6 +1,6 @@
 # Senate Bill 5323
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5323.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5323.pdf)
 ## Section 1
 1. Except as provided in this section, from July 1, 2021, through June 30, 2023, all state employees of the executive branch, including employees of state agencies, boards and commissions, and state institutions of higher education, are subject to mandatory furloughs as follows:
 

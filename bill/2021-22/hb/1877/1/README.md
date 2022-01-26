@@ -1,6 +1,6 @@
 # House Bill 1877
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1877.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1877.pdf)
 ## Section 1
 > This section modifies existing section [18.88A.130](/rcw/18_businesses_and_professions/18.088A_nursing_assistants.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.088A_nursing_assistants.md) for context.
 

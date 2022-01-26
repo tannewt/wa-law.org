@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5170 as Recommended by State Government & Elections
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5170-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5170-S.pdf)
 ## Section 2
 > This section modifies existing section [42.52.080](/rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md) for context.
 

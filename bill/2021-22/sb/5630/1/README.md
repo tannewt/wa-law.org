@@ -1,6 +1,6 @@
 # Senate Bill 5630
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5630.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5630.pdf)
 ## Section 1
 1. The legislature finds that research shows that children who participate in high quality early learning programs have improved school and life outcomes. The legislature further finds that access to high quality early learning programs and affordable child care is not equal statewide and leads to disparate outcomes. Lack of access to these programs has a disproportionate impact on working families, low-income families, and families of color, which have been further exacerbated by the COVID-19 pandemic and has impacted parents' ability to return to work.
 

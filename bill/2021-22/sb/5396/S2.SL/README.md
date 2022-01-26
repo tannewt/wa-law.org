@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5396 - Session Law Chapter 250 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5396-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5396-S2.SL.pdf)
 ## Section 1
 > This section modifies existing section [82.08.02745](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1377
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1377.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1377.pdf)
 ## Section 1
 The legislature finds that while voting by mail in Washington has increased turnout in elections, this increase in turnout has come at the expense of ballot security. No longer do voters have the privacy of a voting booth or the security of a polling place, but instead they are subject to potential intimidation, electioneering, and fraud while filling out and casting a ballot.
 

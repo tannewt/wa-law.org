@@ -1,6 +1,6 @@
 # Senate Bill 5306
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5306.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5306.pdf)
 ## Section 1
 The legislature finds that salmon recovery efforts have been instrumental in helping some species turn the corner towards recovery and have slowed the decline of several other species. However, while great progress has been made in implementing critical salmon recovery projects, more work is needed at the state, but also, local level in order to further protect and restore habitat.
 

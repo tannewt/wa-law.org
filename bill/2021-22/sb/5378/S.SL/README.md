@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5378 - Session Law Chapter 288 Year 2021 as Recommended by Business, Financial Services & Trade
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5378-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5378-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.85.211](/rcw/18_businesses_and_professions/18.085_real_estate_brokers_and_managing_brokers.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.085_real_estate_brokers_and_managing_brokers.md) for context.
 

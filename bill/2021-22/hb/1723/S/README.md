@@ -1,6 +1,6 @@
 # Substitute House Bill 1723 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1723-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1723-S.pdf)
 ## Section 101
 This act may be known and cited as the digital equity act.
 

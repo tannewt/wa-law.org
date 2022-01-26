@@ -1,6 +1,6 @@
 # Substitute House Bill 1310 as Recommended by Public Safety
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1310-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1310-S.pdf)
 ## Section 1
 The legislature recognizes that additional clarity is necessary following the passage of Initiative Measure No. 940 (chapter 1, Laws of 2019) and Substitute House Bill No. 1064 (chapter 4, Laws of 2019). The legislature intends to address excessive force and discriminatory policing by establishing a requirement for law enforcement and correctional officers to act with reasonable care when carrying out their duties, including using de-escalation tactics and alternatives to deadly force. Further, the legislature intends to address public safety concerns by limiting the use of deadly force to very narrow circumstances where there is an imminent threat of serious physical injury or death.
 

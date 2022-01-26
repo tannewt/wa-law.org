@@ -1,6 +1,6 @@
 # Senate Bill 5882
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5882.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5882.pdf)
 ## Section 1
 1. The legislature finds that riparian rights derive from the ownership of land that abuts surface water. These rights were initially granted as part of the federal land grants pursuant to the donation land claim act and the homestead act. Because livestock were essential for the cultivation of the land, riparian rights for stock watering were included in those land grants and therefore date to the inception of title by the government patentee. The territorial legislature recognized riparian rights when adopting English common law in 1862. Provision for the condemnation of riparian rights in the 1890 act makes clear that riparian rights continued to exist. Common law continued to acknowledge the existence of riparian rights even as the state moved towards an appropriative system. The Washington state supreme court recognized a "California" or dual system of riparian and appropriative rights in 1897.
 

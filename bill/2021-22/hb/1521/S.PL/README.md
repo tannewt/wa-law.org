@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1521 as Recommended by Finance - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1521-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1521-S.PL.pdf)
 ## Section 1
 The legislature recognizes that changes in sales tax sourcing laws created a significant negative fiscal impact on communities with a concentration of warehousing, manufacturing, and shipping. These communities are vital job centers to our state economy and are some of the most diverse communities in our state.
 

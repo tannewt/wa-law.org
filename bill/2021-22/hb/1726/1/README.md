@@ -1,6 +1,6 @@
 # House Bill 1726
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1726.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1726.pdf)
 ## Section 1
 > This section modifies existing section [10.120.010](/rcw/10_criminal_procedure/10.120_law_enforcement_and_correctional_officers—permissible_uses_of_force.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.120_law_enforcement_and_correctional_officers—permissible_uses_of_force.md) for context.
 

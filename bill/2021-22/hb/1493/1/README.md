@@ -1,6 +1,6 @@
 # House Bill 1493
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1493.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1493.pdf)
 ## Section 1
 > This section modifies existing section [50.20.240](/rcw/50_unemployment_compensation/50.20_benefits_and_claims.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.20_benefits_and_claims.md) for context.
 

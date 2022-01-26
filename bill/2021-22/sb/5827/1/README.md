@@ -1,6 +1,6 @@
 # Senate Bill 5827
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5827.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5827.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [72.09](/rcw/72_state_institutions/72.09_department_of_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.09_department_of_corrections.md) for context.
 

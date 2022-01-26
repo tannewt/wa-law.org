@@ -1,6 +1,6 @@
 # Senate Bill 5385 - Session Law Chapter 106 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5385.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5385.SL.pdf)
 ## Section 1
 > This section modifies existing section [14.08.120](/rcw/14_aeronautics/14.08_municipal_airports—1945_act.md). Here is the [modified chapter](rcw/14_aeronautics/14.08_municipal_airports—1945_act.md) for context.
 

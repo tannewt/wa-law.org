@@ -1,6 +1,6 @@
 # Substitute House Bill 1166 - Session Law Chapter 062 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1166-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1166-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [28B.50.916](/rcw/28B_higher_education/28B.050_community_and_technical_colleges.md). Here is the [modified chapter](rcw/28B_higher_education/28B.050_community_and_technical_colleges.md) for context.
 

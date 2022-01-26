@@ -1,6 +1,6 @@
 # Senate Bill 5731
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5731.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5731.pdf)
 ## Section 1
 1. The legislature finds that landfills are a significant source of emissions of methane, a potent greenhouse gas. Among other economic and environmental benefits, the diversion of organic materials to productive uses will reduce methane emissions.
 

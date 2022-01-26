@@ -1,6 +1,6 @@
 # House Bill 1543
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1543.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1543.pdf)
 ## Section 1
 1. Verification required. Online marketplaces shall require that any high-volume third-party seller on the online marketplace provide the online marketplace with the following information within 24 hours of becoming a high-volume third-party seller:
 

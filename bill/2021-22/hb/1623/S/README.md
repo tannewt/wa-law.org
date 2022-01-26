@@ -1,6 +1,6 @@
 # Substitute House Bill 1623 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1623-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1623-S.pdf)
 ## Section 1
 As clean electricity replaces fossil fuels in the state's economy, the transmission and distribution infrastructure, the sticks and wires of the grid, must meet increasingly complex service requirements and loads. The changing demand includes, but is not limited to, vehicle charging, serving other specialized technology that requires high power quality, electrification of building-related end uses now served by fossil fuels, electricity deployed on the customer side of the meter through net metering, community solar programs, and the growth of demand response programs.
 

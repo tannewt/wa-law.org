@@ -1,6 +1,6 @@
 # House Bill 1115 - Session Law Chapter 032 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1115.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1115.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [46.01](/rcw/46_motor_vehicles/46.01_department_of_licensing.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.01_department_of_licensing.md) for context.
 

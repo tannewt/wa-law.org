@@ -1,6 +1,6 @@
 # House Bill 1676
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1676.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1676.pdf)
 ## Section 1
 The legislature intends to increase funding for cancer research and tobacco cessation by changing the way it taxes vapor products.
 

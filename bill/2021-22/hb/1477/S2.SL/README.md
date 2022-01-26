@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1477 - Session Law Chapter 302 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1477-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1477-S2.SL.pdf)
 ## Section 101
 1. The legislature finds that:
 

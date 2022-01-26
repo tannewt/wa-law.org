@@ -1,6 +1,6 @@
 # Senate Bill 5874
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5874.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5874.pdf)
 ## Section 1
 > This section modifies existing section [28B.15.012](/rcw/28B_higher_education/28B.015_college_and_university_fees.md). Here is the [modified chapter](rcw/28B_higher_education/28B.015_college_and_university_fees.md) for context.
 

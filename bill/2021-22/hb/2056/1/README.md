@@ -1,6 +1,6 @@
 # House Bill 2056
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2056.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2056.pdf)
 ## Section 1
 1. The legislature recognizes the invaluable role that public schools have in preparing students for success in postsecondary education, gainful employment, and citizenship. The success of students and schools, however, is reliant upon a partnership of mutual trust, respect, and support between school officials and the communities they serve.
 

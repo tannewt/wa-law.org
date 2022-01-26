@@ -1,6 +1,6 @@
 # Senate Bill 5275
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5275.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5275.pdf)
 ## Section 1
 Affordable housing in rural areas for essential public employees such as teachers, nurses, and other public servants is in high demand. Rural counties in Washington are struggling to meet these demands as well as comply with the restrictions of the rural element of the growth management act. This inability to increase development has led to a housing shortage even in rural areas.
 

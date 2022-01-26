@@ -1,6 +1,6 @@
 # Senate Bill 5548
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5548.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5548.pdf)
 ## Section 101
 This act may be known and cited as the uniform unregulated child custody transfer act.
 

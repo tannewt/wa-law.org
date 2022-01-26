@@ -1,6 +1,6 @@
 # Senate Bill 5250
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5250.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5250.pdf)
 ## Section 1
 The legislature recognizes that Washington voters support initiatives in order to propose and enact laws or reject laws at an election independent of the legislature. The legislature also recognizes that informed public discussion and the exercise of the initiative power will be enhanced by an independent panel of voters who will report to the electorate on initiatives in the voters' pamphlet. Citizen initiative review panels established in other states have proven to be a useful tool for voters to gain important objective information about initiatives and increase public confidence in both the initiative process and their understanding of the proposed measures. Therefore, the legislature proposes to establish a pilot program for a citizens' review of initiatives for 2022.
 

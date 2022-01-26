@@ -1,6 +1,6 @@
 # House Bill 2050
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2050.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2050.pdf)
 ## Section 1
 1. The purpose of this act is to repeal RCW 13.40.220 and 13.16.085, also known as the "parent pay" statutes, which require parents to pay a percentage of their gross income for the cost of their child's support, treatment, and confinement.
 

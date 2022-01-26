@@ -1,6 +1,6 @@
 # House Bill 1538
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1538.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1538.pdf)
 ## Section 1
 1. The director, or the director's designee, of the department of commerce must appoint and maintain an aviation and aerospace advisory committee to generally advise the director of the department of commerce and the secretary of the department of transportation on matters related to aviation and aerospace in Washington state. This includes, but is not limited to, developing recommendations regarding capital budget requests related to aviation and aerospace needs and developing strategies to enhance the safe and effective use of public use airports and aerospace facilities in Washington state. The aviation and aerospace advisory committee must also advise the director and secretary, or their designees, and make recommendations on the following matters:
 

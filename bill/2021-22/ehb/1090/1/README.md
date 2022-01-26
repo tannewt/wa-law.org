@@ -1,6 +1,6 @@
 # Engrossed House Bill 1090 - Session Law Chapter 030 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1090.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1090.SL.pdf)
 ## Section 1
 1. The legislature finds that all people confined in prisons and detention facilities in Washington deserve basic health care, nutrition, and safety. As held in United States v. California, 921 F.3d 865, 886 (9th Cir. 2019), states possess "the general authority to ensure the health and welfare of inmates and detainees in facilities within its borders."
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1474 as Recommended by Labor & Workplace Standards
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1474-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1474-S.pdf)
 ## Section 1
 > This section modifies existing section [50.12.072](/rcw/50_unemployment_compensation/50.12_administration.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.12_administration.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5457
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5457.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5457.pdf)
 ## Section 1
 > This section modifies existing section [46.18.285](/rcw/46_motor_vehicles/46.18_special_license_plates.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.18_special_license_plates.md) for context.
 

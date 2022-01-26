@@ -1,6 +1,6 @@
 # Substitute House Bill 1171 as Recommended by Civil Rights & Judiciary - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1171-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1171-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [6.27.105](/rcw/06_enforcement_of_judgments/6.27_garnishment.md). Here is the [modified chapter](rcw/06_enforcement_of_judgments/6.27_garnishment.md) for context.
 

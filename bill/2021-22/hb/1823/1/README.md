@@ -1,6 +1,6 @@
 # House Bill 1823
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1823.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1823.pdf)
 ## Section 1
 The legislature intends for the revenue from the climate commitment act to fund outdoor recreation and climate adaptation. Climate change impacts in Washington state are forecast to include an increasing number of hotter days, reduced snowpack, higher winter streamflows, lower summer streamflows, and sea level rise. The results will include more flooding, more drought, and more wildfire risk. The results will also include fewer outdoor recreation opportunities. In 2021 alone, all public lands east of the Cascade mountains were closed for two months to public recreation use due to extreme fire danger. These impacts are occurring and will continue to occur because of previous greenhouse gas emissions.
 

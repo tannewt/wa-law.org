@@ -1,6 +1,6 @@
 # Senate Bill 5528
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5528.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5528.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [81.112](/rcw/81_transportation/81.112_regional_transit_authorities.md). Here is the [modified chapter](rcw/81_transportation/81.112_regional_transit_authorities.md) for context.
 

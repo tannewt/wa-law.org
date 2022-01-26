@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5271 - Session Law Chapter 241 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5271-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5271-S.SL.pdf)
 ## Section 1
 1. The legislature finds that the COVID-19 pandemic, a public health crisis, has placed an oversized burden on Washington's health care providers and health care facilities, as they care for communities and families.
 

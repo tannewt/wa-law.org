@@ -1,6 +1,6 @@
 # House Bill 1807
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1807.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1807.pdf)
 ## Section 1
 1. The legislature acknowledges that, as described in the state Constitution, it is the "paramount duty" of the state government to provide a uniform, high quality basic education to all kindergarten through high school students in the state, regardless of their location, background, or circumstance.
 

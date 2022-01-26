@@ -1,6 +1,6 @@
 # Senate Bill 5024
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5024.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5024.pdf)
 ## Section 1
 > This section modifies existing section [64.55.010](/rcw/64_real_property_and_conveyances/64.55_construction_defect_disputes—multiunit_residential_buildings.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.55_construction_defect_disputes—multiunit_residential_buildings.md) for context.
 

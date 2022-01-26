@@ -1,6 +1,6 @@
 # Substitute House Bill 1363 - Session Law Chapter 129 Year 2021 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1363-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1363-S.SL.pdf)
 ## Section 1
 1. [Empty]
 

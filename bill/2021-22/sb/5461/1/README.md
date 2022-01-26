@@ -1,6 +1,6 @@
 # Senate Bill 5461
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5461.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5461.pdf)
 ## Section 1
 The legislature finds that preventing catastrophic wildfires is an important and urgent duty of the state, as doing so protects the public as well as homes in the rural and urban edge communities, keeps forests intact, and maintains clean air for the benefit of all citizens. The legislature also finds that funding forest health activities and related community resiliency projects is an active means to prevent catastrophic wildfires, by reducing fuel loads that lead to such fires. Providing for active forest health treatments also maintains a working forest environment that sustains jobs, maintains healthy forests, and keeps the public that live near areas of wildfire threat aware, engaged, and educated about minimizing wildfire risk, thereby helping maintain resilient communities.
 

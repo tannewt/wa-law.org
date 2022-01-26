@@ -1,6 +1,6 @@
 # House Bill 1137
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1137.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1137.pdf)
 ## Section 1
 The legislature finds that the road system in Washington state includes more than one hundred sixty-seven thousand lane miles and more than three thousand three hundred state-owned bridges that require maintenance, preservation, and replacement for the transportation network to continue to function. It is a priority for the people and the public good for the transportation system to be in a state of good repair. The department of transportation has recently made choices to forego planned maintenance and preservation on parts of the system. In order to change this course of neglect, the legislature is empowering all transportation providers in the state to ensure that the system in place today is maintained in a safe and functional manner by declaring preservation and safety to be the top priorities of all the state transportation policy goals.
 

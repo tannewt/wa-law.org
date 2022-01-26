@@ -1,6 +1,6 @@
 # House Bill 2018
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2018.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2018.pdf)
 ## Section 1
 The legislature recognizes that Washingtonians have been greatly impacted by the COVID-19 pandemic, which caused significant economic hardship for many. Along with rising costs of living across the state, the economic impacts of COVID-19 have put an additional strain on households already struggling to meet their basic needs. The legislature finds that Washington's tax system is the most regressive in the nation. Under Washington's regressive tax system, those who earn the least in the state pay a significantly higher percentage of their income in state and local retail sales tax, further increasing the economic burden on families.
 

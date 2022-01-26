@@ -1,6 +1,6 @@
 # Senate Bill 5320
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5320.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5320.pdf)
 ## Section 1
 1. The legislature finds that Washington's state government has made it too difficult for the people of Washington to discern which branch of government is responsible for making the policies that govern them. This problem originates in the legislature, which too often tasks executive branch agencies with implementing legislation that contains unclear direction, ill-defined standards, and broad grants of discretion. The legislature finds that this regrettable practice undermines accountability for decisions that are made in state government.
 

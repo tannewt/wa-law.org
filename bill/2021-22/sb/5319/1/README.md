@@ -1,6 +1,6 @@
 # Senate Bill 5319
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5319.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5319.pdf)
 ## Section 1
 The legislature finds that at the time of the last great housing shortage in the United States, mobile homes and later manufactured housing that could be owned and placed on a rented lot became a popular solution. As we approach a greater housing crisis, the legislature finds that it is in the state's interest to preserve affordable housing, especially for the aging population. There are manufactured/mobile home parks that specialize in providing affordable housing for citizens aged 55 and older. These parks often have well-kept mobile/manufactured homes that are set on foundations or are not easily movable for other reasons. The legislature finds that it is in the state's interest to preserve this type of housing.
 

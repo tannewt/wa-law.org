@@ -1,6 +1,6 @@
 # House Bill 2075
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2075.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2075.pdf)
 ## Section 1
 1. The legislature finds that establishing minimum service requirements for the department of social and health services is necessary due to the increase in call center wait times due to the closure of department offices during the COVID-19 public health emergency, resulting in individuals being unable to access safety net programs at the department.
 

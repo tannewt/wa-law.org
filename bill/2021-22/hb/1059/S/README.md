@@ -1,6 +1,6 @@
 # Substitute House Bill 1059 as Recommended by Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1059-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1059-S.pdf)
 ## Section 1
 > This section modifies existing section [70.77.250](/rcw/70_public_health_and_safety/70.077_state_fireworks_law.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.077_state_fireworks_law.md) for context.
 

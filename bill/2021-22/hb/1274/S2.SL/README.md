@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1274 - Session Law Chapter 040 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1274-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1274-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that the advent of the COVID-19 pandemic has increased the needs of the people of Washington for state services. From unemployment benefits to information on the incidence of disease in the state, Washingtonians have increasingly turned to state government for vital services and information.
 

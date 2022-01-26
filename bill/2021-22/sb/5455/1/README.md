@@ -1,6 +1,6 @@
 # Senate Bill 5455
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5455.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5455.pdf)
 ## Section 1
 The legislature finds that transparency and accountability are essential to ensure trust between law enforcement and the community. In an effort to increase transparency and best serve justice, the legislature intends to expand the usage of body worn and vehicle dashboard cameras in law enforcement. The legislature recognizes the financial burden that data management and public records requests administrative costs can present for local jurisdictions. The legislature intends to develop and implement a body worn and vehicle dashboard camera data management system pilot grant program to reduce local costs, increase transparency, and advance justice.
 

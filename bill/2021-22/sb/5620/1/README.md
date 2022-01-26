@@ -1,6 +1,6 @@
 # Senate Bill 5620
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5620.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5620.pdf)
 ## Section 1
 1. The legislature intends to ensure that the medicaid program is operating under sound fiscal stewardship. This requires dedicated program integrity efforts focused on paying the right dollar amount to the right provider for the right reason. Strengthening program integrity efforts helps to ensure that every medicaid dollar stretches as far as possible for those insured through medicaid.
 

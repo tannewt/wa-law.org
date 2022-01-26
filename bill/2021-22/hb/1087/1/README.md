@@ -1,6 +1,6 @@
 # House Bill 1087 - Session Law Chapter 059 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1087.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1087.SL.pdf)
 ## Section 1
 1. Since enacted in 1989, chapter 49.78 RCW afforded employees the right to unpaid family and medical leave, to return to their jobs afterwards, and to enforce those rights. In 2017, the legislature passed Substitute Senate Bill No. 5975, creating the paid family and medical leave act to replace and enhance the existing unpaid family and medical leave laws.
 

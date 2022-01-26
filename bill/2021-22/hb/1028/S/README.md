@@ -1,6 +1,6 @@
 # Substitute House Bill 1028 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1028-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1028-S.pdf)
 ## Section 1
 1. The legislature acknowledges that passing the evidence-based assessment of teaching effectiveness, known as the edTPA, is a barrier to some candidates becoming fully certificated teachers in Washington. The legislature is particularly concerned with evidence that candidates of color and candidates for whom English is a second language underperform their peers. The legislature is also concerned that candidates from low-income households have difficulty paying for the edTPA, which is administered by a third party.
 

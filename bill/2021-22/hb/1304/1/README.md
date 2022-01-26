@@ -1,6 +1,6 @@
 # House Bill 1304
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1304.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1304.pdf)
 ## Section 1
 > This section modifies existing section [35.95A.010](/rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.095A_city_transportation_authority—monorail_transportation.md) for context.
 

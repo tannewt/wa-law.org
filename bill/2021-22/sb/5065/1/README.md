@@ -1,6 +1,6 @@
 # Senate Bill 5065
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5065.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5065.pdf)
 ## Section 1
 The legislature finds that railroad employees are susceptible to illness from working in confined spaces as well as the illnesses and injuries that affect the general population, yet have no paid sick leave and may be subject to discipline for absence due to illness and injury. Further, the legislature recognizes that chronic fatigue is endemic to railroad operating craft employees due to erratic work schedules, inaccurate train line up information, and on duty periods of twelve hours or longer. Academic studies have found that fatigue has the equivalent negative impact on alertness, awareness, and job performance as alcohol intoxication. Research indicates that fatigue is related to higher rates of depression, anxiety, sleep apnea, and suicide, and that these work-related conditions are more prevalent among railroad workers. The federal railway safety improvement act of 2008 directed the appropriate federal agencies to address fatigue, but those agencies have not adequately done so.
 

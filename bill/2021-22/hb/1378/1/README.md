@@ -1,6 +1,6 @@
 # House Bill 1378 - Session Law Chapter 044 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1378.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1378.SL.pdf)
 ## Section 2
 > This section modifies existing section [18.360.010](/rcw/18_businesses_and_professions/18.360_medical_assistants.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.360_medical_assistants.md) for context.
 

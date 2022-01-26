@@ -1,6 +1,6 @@
 # Senate Bill 5074
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5074.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5074.pdf)
 ## Section 1
 The legislature finds that the safe station program is a concept that started with successful model programs in the cities of Manchester and Nashua, New Hampshire and has spread throughout New England, including a widespread presence in Rhode Island. Participating fire departments are designated as safe stations and provide scheduled drop-in services or may have a scheduled response unit to address and respond to substance abuse treatment service inquiries at fire station locations. Basic screening is provided by mental health professionals, substance use disorder professionals, licensed practical nurses, registered nurses, or emergency medical technicians who are trained to provide a welcoming environment and connect persons to treatment support and services, including transportation to acute medical services when warranted. Safe spaces break down barriers for individuals and allow them to speak and interact with supportive peers in recovery. Safe stations provide an alternative to emergency rooms and can serve as a diversion for people who need help but are not at the point of crisis.
 

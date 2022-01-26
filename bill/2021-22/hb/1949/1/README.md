@@ -1,6 +1,6 @@
 # House Bill 1949
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1949.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1949.pdf)
 ## Section 1
 The legislature finds that the provision of health care and behavioral health services to citizens of the state of Washington is of critical importance. The legislature further finds that major capital project requests from the four-year institutions of higher education have been insufficient to support the industry demand for the highly trained professionals that are needed to provide these crucial services. Therefore, the legislature intends to require that the major capital project appropriation requests submitted by the four-year institutions of higher education and the governor prioritize projects that directly support additional enrollments in degree programs related to the provision of health care or behavioral health services in occupations with current or projected shortages.
 

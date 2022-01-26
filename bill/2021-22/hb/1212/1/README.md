@@ -1,6 +1,6 @@
 # House Bill 1212
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1212.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1212.pdf)
 ## Section 1
 The legislature further finds that the COVID-19 pandemic has made the need for devices even more critical as people rely on digital electronic devices to submit unemployment claims, join telehealth appointments, attend work and school, connect with family and friends, and generally access services from the safety of their home. The legislature recognizes that people will continue to need digital electronic products to function for the foreseeable future.
 

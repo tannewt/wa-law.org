@@ -1,6 +1,6 @@
 # Senate Bill 5433
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5433.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5433.pdf)
 ## Section 1
 The legislature recognizes the challenges posed for Washingtonians experiencing poverty to navigate multiple complex public benefit systems in order to access necessary supports. The legislature recognizes that barriers to applying for public benefits exist including but not limited to adequate internet and telephone access, language accessibility, nonstandard work hours, disability access, reliable transportation, and other challenges. The legislature further recognizes that increased access to public benefits will help promote economic recovery from the impacts of the COVID-19 epidemic.
 

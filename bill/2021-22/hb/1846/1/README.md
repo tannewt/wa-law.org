@@ -1,6 +1,6 @@
 # House Bill 1846
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1846.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1846.pdf)
 ## Section 1
 1. The legislature finds that data centers are a cornerstone for strong internet infrastructure that is critical to the continuing prosperity of Washington's vibrant digital economy.
 

@@ -1,6 +1,6 @@
 # House Bill 1340
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1340.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1340.pdf)
 ## Section 1
 1. The legislature finds that in 2020, the world faced an enormous challenge in responding to the novel coronavirus pandemic. Washington was no exception, having been the site of the first confirmed coronavirus infection in the United States.
 

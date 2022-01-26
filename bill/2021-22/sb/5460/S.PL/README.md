@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5460 as Recommended by Transportation - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5460-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5460-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [46.92.010](/rcw/46_motor_vehicles/46.92_autonomous_motor_vehicles.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.92_autonomous_motor_vehicles.md) for context.
 

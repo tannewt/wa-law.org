@@ -1,6 +1,6 @@
 # House Bill 2053
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2053.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2053.pdf)
 ## Section 1
 1. The department of health shall convene a work group to study the root causes of rising behavioral health issues in Washington communities. The membership of the work group shall emphasize individuals with actual, practical experience dealing with the behavioral health system and shall include:
 

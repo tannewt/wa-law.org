@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1443 as Recommended by Commerce & Gaming
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1443-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1443-S.E.pdf)
 ## Section 1
 > This section modifies existing section [43.330.540](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1397
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1397.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1397.pdf)
 ## Section 1
 > This section modifies existing section [26.19.080](/rcw/26_domestic_relations/26.19_child_support_schedule.md). Here is the [modified chapter](rcw/26_domestic_relations/26.19_child_support_schedule.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1365 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1365-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1365-S.pdf)
 ## Section 1
 1. The legislature recognizes that the COVID-19 pandemic exposed the importance of internet-accessible learning devices for the ability of students to receive a modern education. When Washington schools closed in March 2020, schools and school districts shifted quickly to offering education in an online environment. Teachers adapted their lessons for videoconferencing platforms and arranged for students to submit homework via email. However, limited opportunities for in-person instruction amplified digital deserts and disparities among students that are likely to continue to grow for the foreseeable future.
 

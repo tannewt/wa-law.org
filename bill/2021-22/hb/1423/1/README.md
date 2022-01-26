@@ -1,6 +1,6 @@
 # House Bill 1423
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1423.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1423.pdf)
 ## Section 1
 > This section modifies existing section [70.15.3160](/rcw/70_public_health_and_safety/70.015_uniform_emergency_volunteer_health_practitioners_act.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.015_uniform_emergency_volunteer_health_practitioners_act.md) for context.
 

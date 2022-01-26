@@ -1,6 +1,6 @@
 # Senate Bill 5251
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5251.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5251.pdf)
 ## Section 1
 > This section modifies existing section [54.28.040](/rcw/54_public_utility_districts/54.28_privilege_taxes.md). Here is the [modified chapter](rcw/54_public_utility_districts/54.28_privilege_taxes.md) for context.
 

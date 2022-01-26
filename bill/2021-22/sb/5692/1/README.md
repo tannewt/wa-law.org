@@ -1,6 +1,6 @@
 # Senate Bill 5692
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5692.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5692.pdf)
 ## Section 1
 The legislature finds that the good time system is too static, not reactive enough, and does not create an ecosystem that drives behavioral change through incentives. The legislature finds that a study to better understand what we have and what works will inform how the legislature can change good time to prioritize the programs that work and most effectively change behavior with carrots and sticks for those who committed a crime, but are clearly making efforts to improve their lives and rehabilitate themselves. The legislature finds that a formula where completion of a program triggers automatic credit will create a clear system of incentives for those incarcerated to engage in programming and education that is directly tied with release from confinement.
 

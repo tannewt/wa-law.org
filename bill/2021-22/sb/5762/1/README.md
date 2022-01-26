@@ -1,6 +1,6 @@
 # Senate Bill 5762
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5762.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5762.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.625](/rcw/28A_common_school_provisions/28A.625_awards.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.625_awards.md) for context.
 

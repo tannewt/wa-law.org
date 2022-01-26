@@ -1,6 +1,6 @@
 # Senate Bill 5760
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5760.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5760.pdf)
 ## Section 1
 > This section modifies existing section [43.365.005](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5377
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5377.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5377.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1189 - Session Law Chapter 207 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1189-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1189-S.SL.pdf)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

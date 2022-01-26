@@ -1,6 +1,6 @@
 # Substitute House Bill 1151 as Recommended by Housing, Human Services & Veterans
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1151-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1151-S.pdf)
 ## Section 1
 > This section modifies existing section [74.04.660](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
 

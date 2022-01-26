@@ -1,6 +1,6 @@
 # House Bill 1565
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1565.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1565.pdf)
 ## Section 1
 > This section modifies existing section [41.40.1987](/rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.40_washington_public_employees_retirement_system.md) for context.
 

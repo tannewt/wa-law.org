@@ -1,6 +1,6 @@
 # Senate Bill 5892
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5892.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5892.pdf)
 ## Section 1
 1. The nursing care quality assurance commission, in collaboration with rural hospitals, nursing assistant-certified training programs, and the department of labor and industries, shall establish at least two pilot projects for rural hospitals to utilize high school students who are training to become nursing assistant-certified or high school students who are nursing assistant-certified to help address the workforce shortages and promote nursing careers in rural hospitals.
 

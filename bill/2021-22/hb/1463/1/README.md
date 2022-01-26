@@ -1,6 +1,6 @@
 # House Bill 1463
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1463.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1463.pdf)
 ## Section 1
 1. The legislature finds that high-potency marijuana products are increasingly prevalent in the market. Whereas the THC concentration of marijuana-infused edible products is limited to 10 percent by state law and the THC concentration of marijuana flower is biologically limited, there is currently no limit on the potency of marijuana concentrates such as THC-infused vape oils. High-potency marijuana products are readily available with a THC concentration of almost 100 percent. Prior to Washington legalizing marijuana sales, many of these extremely high-potency products did not exist or were not widely available. By 2019, sales of high-potency marijuana concentrates had grown to nearly 40 percent of total sales of marijuana products.
 

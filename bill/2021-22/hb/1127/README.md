@@ -1,5 +1,5 @@
 # HB 1127 - COVID-19 health data privacy
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1127&Year=2021)
+*Status: Governor vetoed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1127&Year=2021)
 
 Protecting the privacy and security of COVID-19 health data collected by entities other than public health agencies, health care providers, and health care facilities.
 

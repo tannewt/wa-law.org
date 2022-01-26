@@ -1,6 +1,6 @@
 # House Bill 1649
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1649.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1649.pdf)
 ## Section 1
 > This section modifies existing section [77.04.150](/rcw/77_fish_and_wildlife/77.004_department_of_fish_and_wildlife.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.004_department_of_fish_and_wildlife.md) for context.
 

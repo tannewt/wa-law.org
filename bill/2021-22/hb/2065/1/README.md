@@ -1,6 +1,6 @@
 # House Bill 2065
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2065.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2065.pdf)
 ## Section 1
 The legislature finds that medical professionals internationally have used safe, known therapeutic medicine and vitamin supplement remedies to prevent, treat, and cure COVID-19 that have not been promoted or approved by the federal food and drug administration for the treatment or prevention of COVID-19. Therefore, the legislature intends to allow health care providers to use all available options that have demonstrated efficacy so that they can determine the best course of action for their patient's individual needs.
 

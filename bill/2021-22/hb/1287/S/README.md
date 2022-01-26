@@ -1,6 +1,6 @@
 # Substitute House Bill 1287 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1287-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1287-S.pdf)
 ## Section 1
 1. Motor vehicles are a significant source of air pollution, including greenhouse gas emissions, in Washington. The transportation sector accounts for nearly one-half of greenhouse gas emissions in Washington, and on-road vehicle emissions are responsible for the vast majority of the transportation sector emissions.
 

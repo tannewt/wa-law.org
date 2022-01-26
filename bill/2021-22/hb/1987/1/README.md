@@ -1,6 +1,6 @@
 # House Bill 1987
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1987.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1987.pdf)
 ## Section 1
 The legislature finds that affordable housing and homelessness are some of the most pressing issues facing Washington state today. These issues are not isolated to any one part of our state, rather they are challenges being faced by every jurisdiction across the state.
 

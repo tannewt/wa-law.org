@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5034 - Session Law Chapter 176 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5034-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5034-S.SL.pdf)
 ## Section 1101
 This chapter may be known and cited as the Washington nonprofit corporation act.
 

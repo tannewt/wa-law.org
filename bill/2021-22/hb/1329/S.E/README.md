@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1329 as Recommended by Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1329-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1329-S.E.pdf)
 ## Section 1
 The legislature finds people participating in their government, especially through public comment, is an essential part of developing public policy. The legislature further finds that there are numerous developing technologies that can be used to facilitate public comment, especially for those with disabilities, underserved communities, and those who face time or distance challenges when traveling to public meetings. Therefore, the legislature intends to encourage public agencies to make use of remote access tools as fully as practicable to encourage public engagement and better serve their communities.
 

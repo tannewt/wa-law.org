@@ -1,6 +1,6 @@
 # House Bill 1566
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1566.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1566.pdf)
 ## Section 1
 This act shall be known and cited as the nothing about us without us act.
 

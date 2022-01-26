@@ -1,6 +1,6 @@
 # Senate Bill 5090
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5090.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5090.pdf)
 ## Section 1
 > This section modifies existing section [49.17.130](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5225 - Session Law Chapter 305 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5225.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5225.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.70C](/rcw/36_counties/36.070C_judicial_review_of_land_use_decisions.md). Here is the [modified chapter](rcw/36_counties/36.070C_judicial_review_of_land_use_decisions.md) for context.
 

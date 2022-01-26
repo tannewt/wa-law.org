@@ -1,6 +1,6 @@
 # House Bill 1865
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1865.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1865.pdf)
 ## Section 1
 1. The legislature finds that peers play a critical role along the behavioral health continuum of care, from outreach to treatment to recovery support. Peers deal in the currency of hope and motivation and are incredibly adept at supporting people with behavioral health challenges on their recovery journeys. Peers represent the only segment of the behavioral health workforce where there is not a shortage, but a surplus of willing workers. Peers, however, are presently limited to serving only medicaid recipients and working only in community behavioral health agencies. As a result, youth and adults with commercial insurance have no access to peer services. Furthermore, peers who work in other settings, such as emergency departments and behavioral health urgent care, cannot bill insurance for their services.
 

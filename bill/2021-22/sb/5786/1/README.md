@@ -1,6 +1,6 @@
 # Senate Bill 5786
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5786.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5786.pdf)
 ## Section 1
 The legislature finds that Puget Sound has been degraded by recent and repeated sewage spills from publicly owned domestic wastewater treatment plants. Pollution of this magnitude and frequency conflicts with the policy of chapter 90.48 RCW, including the policy of the state of Washington to maintain the highest possible standards to ensure the purity of Puget Sound consistent with public health and public enjoyment, and the propagation and protection of wildlife, birds, game, fish, and other aquatic life. The legislature further finds that the department has identified publicly owned domestic wastewater treatment plants as a significant source of excess nutrients, such as nitrogen, which contributes to low oxygen levels in Puget Sound. However, the legislature concludes that the department of ecology's Puget Sound nutrient general permit, which became effective on January 1, 2022, will not sufficiently protect Puget Sound from pollution caused by publicly owned domestic wastewater treatment plants that discharge into Washington waters of the Salish Sea.
 

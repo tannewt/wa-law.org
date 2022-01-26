@@ -1,6 +1,6 @@
 # House Bill 1902
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1902.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1902.pdf)
 ## Section 1
 > This section modifies existing section [51.28.040](/rcw/51_industrial_insurance/51.28_notice_and_report_of_accident—application_for_compensation.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.28_notice_and_report_of_accident—application_for_compensation.md) for context.
 

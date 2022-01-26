@@ -1,6 +1,6 @@
 # House Bill 1968
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1968.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1968.pdf)
 ## Section 2
 > This section modifies existing section [28A.210.080](/rcw/28A_common_school_provisions/28A.210_health—screening_and_requirements.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.210_health—screening_and_requirements.md) for context.
 

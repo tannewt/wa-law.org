@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5011 - Session Law Chapter 227 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5011-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5011-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [64.32.010](/rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1962
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1962.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1962.pdf)
 ## Section 1
 The legislature finds that the population of Washington state has become increasingly diverse over the last several decades. The legislature also finds that as the demographics of our state change, historically and currently marginalized communities still do not have the same opportunities to meet parity as their nonmarginalized counterparts across nearly every measure including education, poverty, employment, health, and more. Inequities based on race, ethnicity, gender, and other characteristics continue to be deep, pervasive, and persistent, and they come at a great economic and social cost.
 

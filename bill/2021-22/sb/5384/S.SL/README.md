@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5384 - Session Law Chapter 105 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5384-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5384-S.SL.pdf)
 ## Section 1
 In 2020, wildfire swept across central Washington. In the aftermath, it was found that volunteer firefighters were not allowed to leave work to fight for their family homes simply because they would have been paid as wildland firefighters. The legislature finds that volunteer firefighters, even those compensated for wildland firefighting, should be allowed to leave work to protect their communities.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1348 - Session Law Chapter 166 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1348-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1348-S.SL.pdf)
 ## Section 1
 1. The legislature finds that:
 

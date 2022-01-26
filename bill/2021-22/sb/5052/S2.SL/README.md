@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5052 - Session Law Chapter 262 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5052-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5052-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that people of color, Indian, people experiencing poverty, and immigrant populations experience significant health disparities compared to the general population, including more limited access to health care and poorer health outcomes. The legislature finds that these circumstances result in higher rates of morbidity and mortality for persons of color and immigrant populations than observed in the general population.
 

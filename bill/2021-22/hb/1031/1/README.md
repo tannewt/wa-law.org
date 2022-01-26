@@ -1,6 +1,6 @@
 # House Bill 1031 - Session Law Chapter 055 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1031.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1031.SL.pdf)
 ## Section 1
 1. The legislature recognizes that a principal duty of governments is to promote and protect the health and safety of their residents. In addition to providing essential health and safety functions through fire and law enforcement agencies, local governments support public health and safety in the collection and maintenance of vital statistics through a single comprehensive vital records system that is operated and maintained by the department of health, and through the issuance of official certifications associated with births and deaths.
 

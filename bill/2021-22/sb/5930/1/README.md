@@ -1,6 +1,6 @@
 # Senate Bill 5930
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5930.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5930.pdf)
 ## Section 1
 > This section modifies existing section [47.12.370](/rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md) for context.
 

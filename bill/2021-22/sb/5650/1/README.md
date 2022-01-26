@@ -1,6 +1,6 @@
 # Senate Bill 5650
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5650.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5650.pdf)
 ## Section 1
 > This section modifies existing section [29A.32.031](/rcw/29A_elections/29A.32_voters_pamphlets.md). Here is the [modified chapter](rcw/29A_elections/29A.32_voters_pamphlets.md) for context.
 

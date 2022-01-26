@@ -1,6 +1,6 @@
 # Substitute House Bill 1472 as Recommended by College & Workforce Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1472-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1472-S.pdf)
 ## Section 1
 > This section modifies existing section [28B.77.005](/rcw/28B_higher_education/28B.077_student_achievement_council.md). Here is the [modified chapter](rcw/28B_higher_education/28B.077_student_achievement_council.md) for context.
 

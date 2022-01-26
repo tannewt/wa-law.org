@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5178 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5178-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5178-S.E.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.06](/rcw/43_state_government—executive/43.006_governor.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006_governor.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1362
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1362.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1362.pdf)
 ## Section 1
 > This section modifies existing section [84.55.005](/rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.55_limitations_upon_regular_property_taxes.md) for context.
 

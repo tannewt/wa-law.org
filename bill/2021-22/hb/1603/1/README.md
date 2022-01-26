@@ -1,6 +1,6 @@
 # House Bill 1603
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1603.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1603.pdf)
 ## Section 101
 The legislature finds that many transportation facilities provide a public good where user fares and fees are insufficient to pay for the capital, maintenance, and operating expenses of the facility, activity, service, or program. The majority of revenue appropriated through the omnibus transportation appropriations act for transportation facilities comes from fees or taxes related to driving a vehicle. This is an unsustainable model of funding in light of the trend to adopt laws that are meant to reduce vehicle miles traveled, reduce the quantity of emissions of greenhouse gases per distance traveled in the transportation sector, and reduce the sale of fossil fuels on which many taxes are imposed. In order to provide the caliber of transportation facilities and social services that are being demanded by society, use of general fund resources are the most equitable funding option. It is unfair and unsustainable to make one mode of travel pay for all other modes. The general fund, even during a pandemic, is experiencing substantial revenue growth while the funds associated with the transportation budget are stagnant or below revenue expectations and actual programmatic needs. This act designates programs and activities that in the future will receive funding from the general fund.
 

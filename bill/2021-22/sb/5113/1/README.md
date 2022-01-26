@@ -1,6 +1,6 @@
 # Senate Bill 5113
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5113.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5113.pdf)
 ## Section 2
 > This section modifies existing section [46.20.117](/rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.20_drivers_licenses—identicards.md) for context.
 

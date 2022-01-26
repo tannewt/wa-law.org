@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5340 as Recommended by Early Learning & K-12 Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5340-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5340-S.pdf)
 ## Section 1
 > This section modifies existing section [28A.343.340](/rcw/28A_common_school_provisions/28A.343_school_director_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.343_school_director_districts.md) for context.
 

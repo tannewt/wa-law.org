@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5230 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5230-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5230-S.pdf)
 ## Section 1
 > This section modifies existing section [89.12.170](/rcw/89_reclamation_soil_conservation_and_land_settlement/89.12_reclamation_and_irrigation_districts_in_reclamation_areas.md). Here is the [modified chapter](rcw/89_reclamation_soil_conservation_and_land_settlement/89.12_reclamation_and_irrigation_districts_in_reclamation_areas.md) for context.
 

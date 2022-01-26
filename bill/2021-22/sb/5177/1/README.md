@@ -1,6 +1,6 @@
 # Senate Bill 5177 - Session Law Chapter 142 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5177.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5177.SL.pdf)
 ## Section 1
 > This section modifies existing section [9A.44.050](/rcw/09A_washington_criminal_code/9A.44_sex_offenses.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.44_sex_offenses.md) for context.
 

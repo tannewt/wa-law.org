@@ -1,5 +1,5 @@
 # HB 1086 - Behavioral health consumers
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1086&Year=2021)
+*Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1086&Year=2021)
 
 Creating the state office of behavioral health consumer advocacy.
 

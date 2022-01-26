@@ -1,5 +1,5 @@
 # HB 1416 - Insurers/child support coll.
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1416&Year=2021)
+*Status: Effective date 1/1/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1416&Year=2021)
 
 Concerning the reporting of debt information by insurers to enhance the collection of past-due child support.
 

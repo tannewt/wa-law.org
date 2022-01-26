@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5342 as Recommended by Housing & Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5342-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5342-S.pdf)
 ## Section 1
 > This section modifies existing section [87.03.031](/rcw/87_irrigation/87.03_irrigation_districts_generally.md). Here is the [modified chapter](rcw/87_irrigation/87.03_irrigation_districts_generally.md) for context.
 

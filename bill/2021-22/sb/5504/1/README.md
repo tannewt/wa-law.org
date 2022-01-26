@@ -1,6 +1,6 @@
 # Senate Bill 5504
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5504.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5504.pdf)
 ## Section 1
 > This section modifies existing section [79A.80.050](/rcw/79A_public_recreational_lands/79A.80_access_to_recreational_lands.md). Here is the [modified chapter](rcw/79A_public_recreational_lands/79A.80_access_to_recreational_lands.md) for context.
 

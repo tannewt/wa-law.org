@@ -1,6 +1,6 @@
 # Substitute House Bill 1751 as Recommended by College & Workforce Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1751-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1751-S.pdf)
 ## Section 1
 > This section modifies existing section [28B.10.900](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
 

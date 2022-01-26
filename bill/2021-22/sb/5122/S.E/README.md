@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5122 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5122-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5122-S.E.pdf)
 ## Section 1
 The legislature finds that the goal of the juvenile justice system should be to protect public safety, connect youth with age-appropriate services that reduce the risk of recidivism, and provide meaningful rehabilitation so all youth can have the opportunity for success in life. The legislature declares that responses to problematic behaviors of youth should be guided by evidence-based practices and that policy changes to the system should be strongly rooted in eliminating racial inequities.
 

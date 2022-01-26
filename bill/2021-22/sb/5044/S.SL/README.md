@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5044 - Session Law Chapter 197 Year 2021 as Recommended by Early Learning & K-12 Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5044-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5044-S.SL.pdf)
 ## Section 1
 1. The legislature finds that state resources have been invested to: (a) Identify model standards for cultural competency; (b) incorporate these cultural competency standards into both the standards for effective teaching and the standards of practice for paraeducators; (c) develop cultural competency training programs for school district staff from paraeducators to administrators; and (d) develop a plan for the creation and delivery of cultural competency training for school board directors and superintendents.
 

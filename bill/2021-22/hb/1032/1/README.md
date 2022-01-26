@@ -1,6 +1,6 @@
 # House Bill 1032
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1032.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1032.pdf)
 ## Section 1
 The legislature intends to provide an enhanced retirement benefit for members of the teachers' retirement system and school employees' retirement system plans 2 and 3 during the extraordinary COVID-19 global pandemic. Enhanced retirement provisions under this act are only in effect while the governor's emergency COVID-19 proclamations 20.05 and 20.09 are in effect. No members of the teachers' retirement system or school employees' retirement system plans 2 and 3 are eligible to apply for retirement under this act after the governor's emergency COVID-19 proclamations 20.05 and 20.09 are rescinded.
 

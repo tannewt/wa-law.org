@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1120 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1120-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1120-S.E.pdf)
 ## Section 1
 > This section modifies existing section [43.43.832](/rcw/43_state_government—executive/43.043_washington_state_patrol.md). Here is the [modified chapter](rcw/43_state_government—executive/43.043_washington_state_patrol.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 2002
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2002.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2002.pdf)
 ## Section 1
 The legislature finds that the achievement of the state's greenhouse gas emissions limits in chapter 70A.45 RCW will, as laid out in the state energy strategy, require the construction of substantial new energy infrastructure, including electricity generation, electricity transmission, electricity storage, biofuel production, and clean energy component manufacturing. The legislature intends to facilitate the predictable siting and permitting of energy infrastructure while maintaining strong environmental review processes and protections for Washington's land, water, and air.
 

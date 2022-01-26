@@ -1,6 +1,6 @@
 # Substitute House Bill 1457 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1457-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1457-S.pdf)
 ## Section 1
 > This section modifies existing section [47.52.001](/rcw/47_public_highways_and_transportation/47.52_limited_access_facilities.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.52_limited_access_facilities.md) for context.
 

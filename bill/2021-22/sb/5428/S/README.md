@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5428 as Recommended by Housing & Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5428-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5428-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.21C](/rcw/43_state_government—executive/43.021C_state_environmental_policy.md). Here is the [modified chapter](rcw/43_state_government—executive/43.021C_state_environmental_policy.md) for context.
 

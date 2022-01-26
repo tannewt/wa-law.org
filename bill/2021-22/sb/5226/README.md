@@ -1,5 +1,5 @@
 # SB 5226 - License suspensions/traffic
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5226&Year=2021)
+*Status: Effective date 1/1/2023.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5226&Year=2021)
 
 Concerning the suspension of licenses for traffic infractions.
 

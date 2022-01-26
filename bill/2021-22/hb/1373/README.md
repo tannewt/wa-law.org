@@ -1,5 +1,5 @@
 # HB 1373 - Behavioral health/students
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1373&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1373&Year=2021)
 
 Promoting student access to information about behavioral health resources.
 

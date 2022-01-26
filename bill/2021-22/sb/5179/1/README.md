@@ -1,6 +1,6 @@
 # Senate Bill 5179
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5179.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5179.pdf)
 ## Section 1
 > This section modifies existing section [70.01.020](/rcw/70_public_health_and_safety/70.001_general_provisions.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.001_general_provisions.md) for context.
 

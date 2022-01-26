@@ -1,6 +1,6 @@
 # House Bill 1226
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1226.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1226.pdf)
 ## Section 1
 > This section modifies existing section [28A.535.020](/rcw/28A_common_school_provisions/28A.535_validating_indebtedness.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.535_validating_indebtedness.md) for context.
 

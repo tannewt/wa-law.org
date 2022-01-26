@@ -1,6 +1,6 @@
 # Senate Bill 5048 - Session Law Chapter 138 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5048.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5048.SL.pdf)
 ## Section 1
 > This section modifies existing section [48.12.405](/rcw/48_insurance/48.012_assets_and_liabilities.md). Here is the [modified chapter](rcw/48_insurance/48.012_assets_and_liabilities.md) for context.
 

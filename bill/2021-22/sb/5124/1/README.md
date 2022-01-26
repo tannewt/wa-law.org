@@ -1,6 +1,6 @@
 # Senate Bill 5124 - Session Law Chapter 179 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5124.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5124.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [18.36A](/rcw/18_businesses_and_professions/18.036A_naturopathy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.036A_naturopathy.md) for context.
 

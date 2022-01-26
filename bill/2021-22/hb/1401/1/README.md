@@ -1,6 +1,6 @@
 # House Bill 1401
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1401.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1401.pdf)
 ## Section 1
 1. The legislature finds that worker mobility is a vital part of a sustainable economy and ensuring quality of life for the citizens of Washington state.
 

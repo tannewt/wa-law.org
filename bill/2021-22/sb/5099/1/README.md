@@ -1,6 +1,6 @@
 # Senate Bill 5099
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5099.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5099.pdf)
 ## Section 1
 > This section modifies existing section [10.95.040](/rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md) for context.
 

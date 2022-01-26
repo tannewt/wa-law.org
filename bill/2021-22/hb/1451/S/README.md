@@ -1,6 +1,6 @@
 # Substitute House Bill 1451 as Recommended by Children, Youth & Families
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1451-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1451-S.pdf)
 ## Section 2
 > This section modifies existing section [43.216.505](/rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md). Here is the [modified chapter](rcw/43_state_government—executive/43.216_department_of_children_youth_and_families.md) for context.
 

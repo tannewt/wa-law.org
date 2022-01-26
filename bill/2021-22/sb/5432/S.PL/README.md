@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5432 as Recommended by Environment, Energy & Technology - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5432-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5432-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.105](/rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md). Here is the [modified chapter](rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md) for context.
 

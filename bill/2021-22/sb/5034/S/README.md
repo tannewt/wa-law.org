@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5034 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5034-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5034-S.pdf)
 ## Section 1101
 This chapter may be known and cited as the Washington nonprofit corporation act.
 

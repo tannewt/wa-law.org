@@ -1,6 +1,6 @@
 # House Bill 1227
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1227.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1227.pdf)
 ## Section 1
 This act may be known and cited as the keeping families together act.
 

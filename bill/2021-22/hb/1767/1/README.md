@@ -1,6 +1,6 @@
 # House Bill 1767
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1767.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1767.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [35.92](/rcw/35_cities_and_towns/35.092_municipal_utilities.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.092_municipal_utilities.md) for context.
 

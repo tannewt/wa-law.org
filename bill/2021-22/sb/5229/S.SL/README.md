@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5229 - Session Law Chapter 276 Year 2021 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5229-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5229-S.SL.pdf)
 ## Section 1
 The legislature finds that:
 

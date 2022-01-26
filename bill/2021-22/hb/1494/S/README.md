@@ -1,6 +1,6 @@
 # Substitute House Bill 1494 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1494-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1494-S.pdf)
 ## Section 1
 1. The legislature finds that home and housing security is more important to Washingtonians than ever before. The COVID-19 pandemic prompted Washington governor Jay Inslee to institute a stay-at-home order in March 2020, obliging millions of nonessential employees to remain at home. Governor Inslee also declared a statewide emergency in September 2020, when west coast wildfires destroyed 181 homes in Washington state and made outdoor air unbreathable for many weeks, leading millions to seek refuge indoors and in their homes.
 

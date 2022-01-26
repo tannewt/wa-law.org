@@ -1,6 +1,6 @@
 # Senate Bill 5721
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5721.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5721.pdf)
 ## Section 1001
 The legislature finds that management of Washington state's natural resources requires clear, efficient, and coordinated management that is accountable to the public. Therefore, the legislature finds that consolidating management of natural resources under the commissioner of public lands by having the commissioner appoint the directors of the department of fish and wildlife and the state parks and recreation commission would create an efficient decision-making structure and provide for public accountability. The legislature further finds that having the commissioner of public lands appoint the members of the fish and wildlife advisory commission and the state parks and recreation advisory committee and having the commission and committee serve in an advisory role to the directors of the relevant agencies would maintain strong public input into natural resource management issues while establishing a centralized and accountable structure for securing, managing, and enhancing the state's natural resources.
 

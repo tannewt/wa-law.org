@@ -1,6 +1,6 @@
 # Senate Bill 5596
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5596.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5596.pdf)
 ## Section 1
 > This section modifies existing section [18.225.100](/rcw/18_businesses_and_professions/18.225_mental_health_counselors_marriage_and_family_therapists_social_workers.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.225_mental_health_counselors_marriage_and_family_therapists_social_workers.md) for context.
 

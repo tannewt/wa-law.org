@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5267 - Session Law Chapter 051 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5267-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5267-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [19.28.261](/rcw/19_business_regulations—miscellaneous/19.028_electricians_and_electrical_installations.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.028_electricians_and_electrical_installations.md) for context.
 

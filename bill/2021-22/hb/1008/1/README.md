@@ -1,6 +1,6 @@
 # House Bill 1008
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1008.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1008.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9.02](/rcw/09_crimes_and_punishments/9.002_abortion.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.002_abortion.md) for context.
 

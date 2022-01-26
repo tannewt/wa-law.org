@@ -1,6 +1,6 @@
 # Senate Bill 5748
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5748.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5748.pdf)
 ## Section 1
 > This section modifies existing section [41.37.230](/rcw/41_public_employment_civil_service_and_pensions/41.37_washington_public_safety_employees_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.37_washington_public_safety_employees_retirement_system.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1368
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1368.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1368.pdf)
 ## Section 1
 Appropriations in this act are for the fiscal biennium ending June 30, 2021.
 

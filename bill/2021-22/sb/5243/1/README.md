@@ -1,6 +1,6 @@
 # Senate Bill 5243
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5243.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5243.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [19.27](/rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md) for context.
 

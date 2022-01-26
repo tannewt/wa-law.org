@@ -1,7 +1,7 @@
-# SB 5188 - State public bank
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5188&Year=2021)
+# SB 5188 - Public financial cooperative
+*Status: Placed on third reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5188&Year=2021)
 
-Concerning the creation of the Washington state public bank.
+Concerning creation of the Washington state public financial cooperative.
 
 ## Revisions
 * [Original Bill](1/)

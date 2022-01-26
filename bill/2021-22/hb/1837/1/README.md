@@ -1,6 +1,6 @@
 # House Bill 1837
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1837.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1837.pdf)
 ## Section 1
 1. The legislature finds that musculoskeletal injuries are a leading cause of disability, accounting for more than 130,000,000 patient visits to health care providers annually. These injuries cover a range of conditions related to overexertion and repetitive motion, such as pinched nerves, sprains, hernias, and connective tissue diseases. Musculoskeletal conditions are the number one reason for visits to a physician, affecting nearly half of all Americans above 18 years of age.
 

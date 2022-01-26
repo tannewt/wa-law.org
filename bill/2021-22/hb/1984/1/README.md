@@ -1,6 +1,6 @@
 # House Bill 1984
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1984.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1984.pdf)
 ## Section 1
 1. The legislature finds that printing addresses on vehicle registrations provides an opportunity for thieves that break into vehicles to use the information for nefarious purposes that can be avoided if the address is not printed on the vehicle registration certificate.
 

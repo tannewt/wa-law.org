@@ -1,6 +1,6 @@
 # House Bill 1617
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1617.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1617.pdf)
 ## Section 1
 In 2021, the state enacted House Bill No. 1016 to declare Juneteenth a state legal holiday. The legislature finds that there is ambiguity about whether Juneteenth is also a school holiday as a result of that act. The legislature intends to clarify that Juneteenth, like all other state legal holidays, is a school holiday on which school may not be taught.
 

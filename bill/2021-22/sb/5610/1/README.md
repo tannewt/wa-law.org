@@ -1,6 +1,6 @@
 # Senate Bill 5610
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5610.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5610.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.43](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
 

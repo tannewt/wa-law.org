@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1152 - Session Law Chapter 205 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1152-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1152-S2.SL.pdf)
 ## Section 1
 The legislature finds that everyone in Washington state, no matter what community they live in, should be able to rely on a public health system that is able to support a standard level of public health service. Like public safety, there is a foundational level of public health delivery that must exist everywhere for services to work. A strong public health system is only possible with intentional investments into our state's public health system. Services should be delivered efficiently, equitably, and effectively, in ways that make the best use of technology, science, expertise, and leveraged resources and in a manner that is responsive to local communities.
 

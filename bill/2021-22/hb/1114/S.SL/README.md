@@ -1,6 +1,6 @@
 # Substitute House Bill 1114 - Session Law Chapter 011 Year 2021 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1114-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1114-S.SL.pdf)
 ## Section 1
 1. The legislature acknowledges the scientific consensus that there is a well-documented problem of urban heat islands. The buildings, roads, and infrastructure that comprise urban environments make cities hotter than surrounding rural areas. Concrete, asphalt, and shingled roofs can get much hotter than vegetated areas, causing surface temperatures in cities to be several degrees hotter in the midday than in rural areas. At night, these same materials release heat more slowly, keeping urban air temperatures higher than overnight temperatures in most rural areas. Cities tend to have fewer trees and less vegetation, resulting in a deficit of shade to keep areas cool. Cities also have more industrial heat sources, including cars and air conditioners.
 

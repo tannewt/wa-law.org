@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1443 - Session Law Chapter 169 Year 2021 as Recommended by Commerce & Gaming
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1443-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1443-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.330.540](/rcw/43_state_government—executive/43.330_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.330_department_of_commerce.md) for context.
 

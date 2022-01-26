@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5195 as Recommended by Subcommittee on Behavioral Health
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5195-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5195-S.pdf)
 ## Section 1
 1. The legislature finds that:
 

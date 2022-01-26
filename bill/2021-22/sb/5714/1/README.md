@@ -1,6 +1,6 @@
 # Senate Bill 5714
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5714.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5714.pdf)
 ## Section 1
 1. The legislature finds that while Washington state has significant solar resources and increasing electricity generation from solar installations, these are concentrated in rooftop installations and in utility-scale solar projects on rural lands that could otherwise be devoted to crop lands, grazing lands, or other productive uses. A recent study estimates that in the United States about 51 percent of utility-scale solar facilities are in deserts, 33 percent are on croplands, 10 percent are in grasslands and forests, and only 2.5 percent of solar power comes from urban areas.
 

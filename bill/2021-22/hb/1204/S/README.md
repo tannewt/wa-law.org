@@ -1,6 +1,6 @@
 # Substitute House Bill 1204 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1204-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1204-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.19](/rcw/43_state_government—executive/43.019_department_of_enterprise_services.md). Here is the [modified chapter](rcw/43_state_government—executive/43.019_department_of_enterprise_services.md) for context.
 

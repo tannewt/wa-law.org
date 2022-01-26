@@ -1,6 +1,6 @@
 # House Bill 1872
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1872.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1872.pdf)
 ## Section 1
 1. The legislature recognizes that care workers provide support to others who are not able to fully care for themselves or live independently without support, fulfilling a critical and essential industry. Care workers are paid to support individuals in their homes, in the community, in the workplace, and in classroom settings. By providing support to an individual or a small group in need of care, these care workers improve the lives of the recipients by attending to their specific needs, assisting them with their daily tasks, and when possible, helping them to transition to higher levels of independence and community engagement. Care workers work with children, the elderly, people with disabilities, and others with significant barriers. The legislature identifies the importance of having a diverse care worker workforce that reflects the diversity of the recipients receiving care as this positively impacts patient care, educational outcomes, and service for historically underrepresented and marginalized groups.
 

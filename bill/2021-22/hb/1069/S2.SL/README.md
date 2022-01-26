@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1069 - Session Law Chapter 296 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1069-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1069-S2.SL.pdf)
 ## Section 1
 The legislature finds that the COVID-19 pandemic, as recognized by emergency proclamations issued by the governor, has resulted in an unprecedented drop in local government revenues. The legislature intends to provide local governments with increased flexibility in the use of existing revenues in order to enable local governments to continue to provide essential services and to facilitate economic recovery through December 31, 2023.
 

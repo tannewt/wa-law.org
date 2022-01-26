@@ -1,6 +1,6 @@
 # Senate Bill 5632
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5632.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5632.pdf)
 ## Section 1
 1. The legislature finds that Washington's water infrastructure is inadequate to meet the needs of fish, families, and employers due to age, design limitations, and a shortage of storage capacity.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1335 - Session Law Chapter 256 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1335-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1335-S2.SL.pdf)
 ## Section 1
 The legislature finds that the existence of racial, religious, or ethnic-based property restrictions or covenants on a deed or chain of title for real property is like having a monument to racism on that property and is repugnant to the tenets of equality. Furthermore, such restrictions and covenants may cause mental anguish and tarnish a property owner's sense of ownership in the property because the owner feels as though they have participated in a racist act themselves.
 

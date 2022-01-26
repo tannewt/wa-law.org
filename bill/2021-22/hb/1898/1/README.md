@@ -1,6 +1,6 @@
 # House Bill 1898
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1898.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1898.pdf)
 ## Section 1
 In response to the state supreme court decision in McCleary v. State, the legislature chose to make a dramatic increase in state property tax levies to generate additional revenue to pay for schools. In making that decision, state budget writers were operating with forecasted increases in property values as estimated at the time. Since then, property values across the state have continually increased at a much faster pace than anticipated, resulting in an estimated property tax revenue collection in tax years 2018 through 2022 that is more than $2,000,000,000 more than was intended to be collected in the McCleary fix. This has resulted in an unnecessary property tax burden on Washington residents. It is the intent of the legislature now to reduce this burden and provide critical tax relief by reducing state property tax levies. This bill provides that relief by reducing both parts of the state school levies beginning in the 2023 tax year and establishing a new basis for the state levies to ensure that the extra revenues collected in past years is not carried forward in future years' levy calculation.
 

@@ -1,5 +1,5 @@
 # HB 1379 - Unpiloted aircraft system
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1379&Year=2021)
+*Status: Effective date 7/1/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1379&Year=2021)
 
 Establishing an unpiloted aircraft system state coordinator and program funding source.
 

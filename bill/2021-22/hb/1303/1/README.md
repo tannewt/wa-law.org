@@ -1,6 +1,6 @@
 # House Bill 1303
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1303.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1303.pdf)
 ## Section 1
 1. The legislature intends to update and adapt state tax policy to the forms of commerce that have emerged with new technologies. The legislature recognizes that consumers are increasingly conducting their professional and personal affairs online and on devices such as smartphones or tablets. These activities include applying for jobs, researching symptoms and communicating with health care providers, applying for permits and licenses, mapping routes, communicating with friends and family, consuming news and entertainment, and shopping and arranging for the delivery of goods and services to the home. Through these daily activities, consumers generate enormous and unprecedented quantities of data about themselves, including their locations, behaviors, and preferences.
 

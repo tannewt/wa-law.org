@@ -1,6 +1,6 @@
 # Senate Bill 5644
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5644.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5644.pdf)
 ## Section 1
 The legislature finds that behavioral health co-response has experienced a surge in popularity in Washington state in the past five years. The legislature recognizes the importance of training for those involved in co-responder programs to promote high standards within programs and to enhance the skills of those already working in this field. The purpose of this act is to develop a core curriculum relevant to first responders and behavioral health professionals working on co-response teams, to create ongoing learning opportunities for emerging and established co-response programs, and to develop the workforce to fill future co-responder hiring needs.
 

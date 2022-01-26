@@ -1,6 +1,6 @@
 # House Bill 1534
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1534.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1534.pdf)
 ## Section 1
 The legislature intends to create cost-effective climate policy that recognizes the special nature of energy-intensive, trade-exposed industries. The legislature further intends to encourage these industries to continue to innovate, find new ways to be more energy efficient, use lower carbon products, and be positioned to be global leaders in a low carbon economy, while also recognizing that overly burdensome regulation or taxation could result in perverse consequences and potentially increase overall carbon pollution.
 

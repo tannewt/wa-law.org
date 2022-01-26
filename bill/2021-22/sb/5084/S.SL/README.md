@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5084 - Session Law Chapter 331 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5084-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5084-S.SL.pdf)
 ## Section 1
 For the purpose of providing funds to finance the projects described and authorized by the legislature in the omnibus capital and operating appropriations acts for the 2019-2021 and 2021-2023 fiscal biennia, and all costs incidental thereto, the state finance committee is authorized to issue general obligation bonds of the state of Washington in the sum of $3,971,290,793, or as much thereof as may be required, to finance these projects and all costs incidental thereto. Bonds authorized in this section may be sold at such price as the state finance committee shall determine. No bonds authorized in this section may be offered for sale without prior legislative appropriation of the net proceeds of the sale of the bonds.
 

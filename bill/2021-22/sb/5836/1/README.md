@@ -1,6 +1,6 @@
 # Senate Bill 5836
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5836.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5836.pdf)
 ## Section 1
 The legislature finds there are health risks associated with COVID-19 vaccines that the public should be aware of in order to make informed personal health care decisions related to vaccination. Although effective against the virus, the vaccines also carry associated health risks especially in those with a history of allergic reactions to vaccine ingredients. Therefore, the legislature intends to require providers of the COVID-19 vaccines to inform vaccine recipients of the potential health risks of the COVID-19 vaccines at the time of vaccination to empower citizens to make informed decisions about their health care.
 

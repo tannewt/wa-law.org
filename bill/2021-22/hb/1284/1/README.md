@@ -1,6 +1,6 @@
 # House Bill 1284
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1284.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1284.pdf)
 ## Section 1
 > This section modifies existing section [82.47.020](/rcw/82_excise_taxes/82.47_border_area_motor_vehicle_fuel_and_special_fuel_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.47_border_area_motor_vehicle_fuel_and_special_fuel_tax.md) for context.
 

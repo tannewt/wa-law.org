@@ -1,6 +1,6 @@
 # Senate Bill 5608
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5608.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5608.pdf)
 ## Section 1
 1. The legislature finds that as the public enjoys open space and the natural beauty and recreational opportunities of this state, state lands and parks are a public good that should be available to all people, regardless of financial means.
 

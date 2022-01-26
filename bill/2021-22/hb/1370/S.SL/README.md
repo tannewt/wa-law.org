@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1370 - Session Law Chapter 130 Year 2021 as Recommended by Capital Budget
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1370-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1370-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.31.577](/rcw/43_state_government—executive/43.031_department_of_commerce.md). Here is the [modified chapter](rcw/43_state_government—executive/43.031_department_of_commerce.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5105
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5105.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5105.pdf)
 ## Section 1
 > This section modifies existing section [43.06D.030](/rcw/43_state_government—executive/43.006D_office_of_equity.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006D_office_of_equity.md) for context.
 

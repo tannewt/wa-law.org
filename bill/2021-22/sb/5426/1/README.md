@@ -1,6 +1,6 @@
 # Senate Bill 5426
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5426.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5426.pdf)
 ## Section 1
 1. Washington has long led the way with innovative and bold ideas that have changed the world. Many of the world's greatest innovators and artists, engineers and entrepreneurs, and scientists and social activists have called Washington home. But Washington's status as an economic and social leader is threatened by growing wealth inequality and a tax structure that perpetuates it. Asking the state's poorest residents to pay six times more in taxes, as a share of their income, than the state's highest income households, including some of the wealthiest individuals in the world, is unconscionable.
 

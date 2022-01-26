@@ -1,6 +1,6 @@
 # Substitute House Bill 1107 - Session Law Chapter 150 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1107-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1107-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [88.02.620](/rcw/88_navigation_and_harbor_improvements/88.02_vessel_registration.md). Here is the [modified chapter](rcw/88_navigation_and_harbor_improvements/88.02_vessel_registration.md) for context.
 

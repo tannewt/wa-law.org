@@ -1,6 +1,6 @@
 # Senate Bill 5375
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5375.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5375.pdf)
 ## Section 1
 The legislature finds that affordable housing is reaching crisis levels in urban areas and in rural areas. However, rural counties appear to be at a disadvantage to be competitive for public housing tax money. The legislature finds that in order to appropriately address affordable housing issues, it is important to have a complete understanding of the differences between rural and urban areas and the barriers to building affordable housing in rural areas. The legislature finds that the joint legislative audit and review committee is the best entity to review how affordable housing is built in rural areas, what barriers are present, and how these barriers may be overcome.
 

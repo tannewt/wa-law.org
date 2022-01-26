@@ -1,6 +1,6 @@
 # Senate Bill 5346
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5346.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5346.pdf)
 ## Section 1
 The legislature finds that it is an important state interest to cooperate and assist the federal government in the enforcement of federal immigration laws within this state.
 

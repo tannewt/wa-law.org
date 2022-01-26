@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5372 - Session Law Chapter 104 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5372.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5372.SL.pdf)
 ## Section 1
 The legislature intends to authorize and establish hemp processor registration and hemp extract certification necessary for entrance and compliance with interstate and international commerce and business requirements or stipulations in regard to hemp processing. A voluntary processor registration or hemp extract certification in lieu of a hemp processor license will allow persons or companies to ship transitional or final hemp products to states and countries that require a hemp processor license or registration.
 

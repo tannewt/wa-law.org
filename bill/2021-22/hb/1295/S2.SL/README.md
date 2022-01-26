@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1295 - Session Law Chapter 164 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1295-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1295-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that students in Washington's secure facilities have been unable to access the education and supports they need to make life-changing academic progress. As a result, these students have experienced dismal graduation and recidivism rates, and have lost invaluable opportunities for hope and transformation.
 

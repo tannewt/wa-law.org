@@ -1,6 +1,6 @@
 # Senate Bill 5872
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5872.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5872.pdf)
 ## Section 1
 The legislature finds that the European Union recently recognized that nuclear and natural gas power plants should be included in the European Union's taxonomy of environmentally sustainable activities and investments that will help the European Union attain its climate and energy goals. The legislature further finds that, like the European Union, Washington has set climate and energy goals that the state seeks to attain. These state goals include policies for the generation of electricity supplied to Washington customers. However, Washington's long-term policy for electricity discourages some sources of electric generation, even if those sources comply with the state greenhouse gas emissions performance standard for power plants. Therefore, the legislature finds that Washington should modify its long-term policy for electricity by recognizing that a broader variety of electric generation sources, such as natural gas, should be available to help the state meet its goals. To accomplish this, the legislature intends to establish that power plants that comply with the state's greenhouse gas emissions performance standard must be recognized as sources of electric generation that are consistent with the emissions reduction policy the state intends to achieve by 2045.
 

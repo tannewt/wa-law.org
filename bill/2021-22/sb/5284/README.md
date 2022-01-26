@@ -1,5 +1,5 @@
 # SB 5284 - Subminimum wage/disabilities
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5284&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5284&Year=2021)
 
 Eliminating subminimum wage certificates for persons with disabilities.
 

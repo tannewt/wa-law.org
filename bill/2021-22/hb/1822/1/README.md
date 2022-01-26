@@ -1,6 +1,6 @@
 # House Bill 1822
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1822.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1822.pdf)
 ## Section 1
 1. The legislature finds that the 2007 legislature formally established a goal for the state that the health of Puget Sound be restored by 2020. The state has not yet achieved this goal, as evidenced by the numerous locations within Puget Sound that are listed as impaired waters that fail to meet federal water quality standards. A variety of expensive hurdles remain in place that have challenged the political will to succeed in cleaning up Puget Sound. Primary among these hurdles are the significant volumes of untreated sewage that wastewater treatment systems continue to discharge into Puget Sound as a result of system failure events, and the lack of infrastructure and processes to remove nutrients from wastewater at treatment facilities, even where facilities are functioning as intended. The department of ecology has recently finalized a permit that would begin to require monitoring of nutrient discharges and minor changes to begin to address the nutrient discharge problem.
 

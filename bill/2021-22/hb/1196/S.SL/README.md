@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1196 - Session Law Chapter 157 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1196-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1196-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [41.05.700](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
 

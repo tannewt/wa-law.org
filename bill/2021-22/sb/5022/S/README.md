@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5022 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5022-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5022-S.pdf)
 ## Section 1
 1. The legislature finds that minimum recycled content requirements for plastic beverage containers, bans on problematic and unnecessary plastic packaging, and standards for customer opt-in for food service packaging and accessories are among actions needed to improve the state's recycling system as well as reduce litter.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1650 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1650-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1650-S.pdf)
 ## Section 1
 1. The legislature finds that commercial text messaging and robocalling are increasingly common practices employed by some businesses seeking to advertise or facilitate the sale of goods or services, and that such text messaging and robocalling are often an unwanted nuisance and invasion of privacy for many Washington residents. It is the intent of the legislature to: Clarify and strengthen the limitations on commercial text messaging and robocalling; reaffirm the requirement that a commercial text message or robocalling sender must first obtain clear and affirmative consent from recipients before sending such messages or robocalling; and expand the civil remedies available for violations of these provisions.
 

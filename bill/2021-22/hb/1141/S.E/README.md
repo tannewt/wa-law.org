@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1141 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1141-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1141-S.E.pdf)
 ## Section 1
 > This section modifies existing section [70.245.010](/rcw/70_public_health_and_safety/70.245_the_washington_death_with_dignity_act.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.245_the_washington_death_with_dignity_act.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1517
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1517.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1517.pdf)
 ## Section 1
 > This section modifies existing section [28B.92.205](/rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md). Here is the [modified chapter](rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md) for context.
 

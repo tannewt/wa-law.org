@@ -1,6 +1,6 @@
 # Substitute House Bill 1301 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1301-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1301-S.pdf)
 ## Section 1
 > This section modifies existing section [81.112.210](/rcw/81_transportation/81.112_regional_transit_authorities.md). Here is the [modified chapter](rcw/81_transportation/81.112_regional_transit_authorities.md) for context.
 

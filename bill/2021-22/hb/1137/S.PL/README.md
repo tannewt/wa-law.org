@@ -1,6 +1,6 @@
 # Substitute House Bill 1137 as Recommended by Transportation - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1137-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1137-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [47.04.280](/rcw/47_public_highways_and_transportation/47.04_general_provisions.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.04_general_provisions.md) for context.
 

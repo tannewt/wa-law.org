@@ -1,6 +1,6 @@
 # Senate Bill 5435
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5435.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5435.pdf)
 ## Section 1
 > This section modifies existing section [46.19.050](/rcw/46_motor_vehicles/46.19_special_parking_privileges_for_persons_with_disabilities.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.19_special_parking_privileges_for_persons_with_disabilities.md) for context.
 

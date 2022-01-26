@@ -1,6 +1,6 @@
 # Senate Bill 5132 - Session Law Chapter 140 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5132.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5132.SL.pdf)
 ## Section 1001
 Sections 1002 through 1011 of this act may be known and cited as the uniform electronic wills act.
 

@@ -1,5 +1,5 @@
 # HB 1335 - Racial restrictions/review
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1335&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1335&Year=2021)
 
 Concerning review and property owner notification of recorded documents with unlawful racial restrictions.
 

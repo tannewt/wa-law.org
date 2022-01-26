@@ -1,6 +1,6 @@
 # House Bill 1485
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1485.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1485.pdf)
 ## Section 1
 > This section modifies existing section [1.16.050](/rcw/01_general_provisions/1.16_general_definitions.md). Here is the [modified chapter](rcw/01_general_provisions/1.16_general_definitions.md) for context.
 

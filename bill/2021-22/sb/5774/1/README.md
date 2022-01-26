@@ -1,6 +1,6 @@
 # Senate Bill 5774
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5774.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5774.pdf)
 ## Section 1
 1. [Empty]
 

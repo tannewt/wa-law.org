@@ -1,6 +1,6 @@
 # Senate Bill 5336
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5336.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5336.pdf)
 ## Section 1
 The legislature finds that not all law enforcement officers' and firefighters' retirement system disability boards provide members with documentation that the medical costs of that member are covered by the board. The legislature further finds that not having access to this documentation has resulted in delayed access to medical services and members having to pay for services upfront and request reimbursement.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5769
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5769.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5769.pdf)
 ## Section 1
 This act may be known and cited as the tax relief and reform act of 2022.
 

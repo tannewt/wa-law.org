@@ -1,6 +1,6 @@
 # Senate Bill 5805
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5805.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5805.pdf)
 ## Section 1
 1. The legislature acknowledges that it has required every public school to provide comprehensive sexual health education to each student by the 2022-23 school year. The legislature further recognizes that it allows parents to excuse their children from this instruction by filing a written request with the school district.
 

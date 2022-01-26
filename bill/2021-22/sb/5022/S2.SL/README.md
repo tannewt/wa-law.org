@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5022 - Session Law Chapter 313 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5022-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5022-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that minimum recycled content requirements for plastic beverage containers, trash bags, and household cleaning and personal care product containers, bans on problematic and unnecessary plastic packaging, and standards for customer opt-in for food service packaging and accessories are among actions needed to improve the state's recycling system as well as reduce litter.
 

@@ -1,6 +1,6 @@
 # House Bill 1824
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1824.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1824.pdf)
 ## Section 1
 1. The legislature finds that in 2018 more than 1,000,000 discover passes and daily permits were purchased in Washington to access outdoor recreational opportunities. In the same year, Washingtonians spent almost $23,000,000 for the $30 discover pass. As noted at results Washington, the state's public sector performance management and continuous improvement agency, outdoor recreation results in healthier citizens and a healthier economy for Washington state and participating in these events builds families and communities. Participants in outdoor recreation are more connected to their environment and tend to be better stewards of our natural resources. This has long lasting and immeasurable impacts on our state and the precious natural resources we are tasked with maintaining.
 

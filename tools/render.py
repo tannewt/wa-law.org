@@ -20,7 +20,7 @@ md = (
     .use(
         fancy_list_plugin, allow_ordinal=False
     )
-    .use(anchors_plugin, permalink=True)
+    .use(anchors_plugin, permalink=True, max_level=4)
     .disable('image')
     .enable('table')
 )

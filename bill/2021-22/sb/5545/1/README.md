@@ -1,6 +1,6 @@
 # Senate Bill 5545
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5545.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5545.pdf)
 ## Section 1
 > This section modifies existing section [28B.15.621](/rcw/28B_higher_education/28B.015_college_and_university_fees.md). Here is the [modified chapter](rcw/28B_higher_education/28B.015_college_and_university_fees.md) for context.
 

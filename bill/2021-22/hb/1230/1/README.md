@@ -1,6 +1,6 @@
 # House Bill 1230
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1230.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1230.pdf)
 ## Section 1
 The legislature recognizes that people in Washington rely on the legislature's website, leg.wa.gov, to read and understand the Revised Code of Washington and the Washington Administrative Code. The legislature further recognizes that leg.wa.gov is among the most user-friendly legislative websites in the United States. However, the sections in the Revised Code of Washington and the Washington Administrative Code as presented on leg.wa.gov lack customary indentation to visually indicate the level of subsections and subparagraphs within code sections. This causes statutes and rules to be unnecessarily difficult to navigate for both legal practitioners and the general public, making the law harder to understand, whereas the law should be clear and easy to use. Therefore, the legislature intends that the office of the code reviser should include indentation in a logical manner on the leg.wa.gov website.
 

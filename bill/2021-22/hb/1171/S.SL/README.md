@@ -1,6 +1,6 @@
 # Substitute House Bill 1171 - Session Law Chapter 035 Year 2021 as Recommended by Civil Rights & Judiciary
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1171-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1171-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [6.27.105](/rcw/06_enforcement_of_judgments/6.27_garnishment.md). Here is the [modified chapter](rcw/06_enforcement_of_judgments/6.27_garnishment.md) for context.
 

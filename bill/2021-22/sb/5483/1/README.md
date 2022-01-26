@@ -1,6 +1,6 @@
 # Senate Bill 5483
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5483.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5483.pdf)
 ## Section 101
 > This section modifies existing section [82.38.030](/rcw/82_excise_taxes/82.38_fuel_tax_act.md). Here is the [modified chapter](rcw/82_excise_taxes/82.38_fuel_tax_act.md) for context.
 

@@ -1,7 +1,7 @@
-# SB 5172 - Overtime claim retroactivity
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5172&Year=2021)
+# SB 5172 - Agricultural overtime
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5172&Year=2021)
 
-Concerning the retroactivity of overtime claims in exceptional cases.
+Concerning the retroactivity of overtime claims in exceptional cases. (REVISED FOR ENGROSSED: Providing overtime standards for the agricultural workforce. )
 
 ## Revisions
 * [Original Bill](1/)

@@ -1,6 +1,6 @@
 # House Bill 1827
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1827.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1827.pdf)
 ## Section 1
 The legislature finds that in order to address racial, economic, and social disparities in communities across the state created by the historical design and enforcement of state and federal criminal laws and penalties for illegal drug sales, possession, and use in Washington state, aggressive approaches and targeted resources to support local design and control of community-based responses to these outcomes are required.
 

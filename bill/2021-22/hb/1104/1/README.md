@@ -1,6 +1,6 @@
 # House Bill 1104 - Session Law Chapter 031 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1104.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1104.SL.pdf)
 ## Section 1
 > This section modifies existing section [36.22.181](/rcw/36_counties/36.022_county_auditor.md). Here is the [modified chapter](rcw/36_counties/36.022_county_auditor.md) for context.
 

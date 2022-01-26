@@ -1,6 +1,6 @@
 # Senate Bill 5560
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5560.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5560.pdf)
 ## Section 1
 > This section modifies existing section [44.05.020](/rcw/44_state_government—legislative/44.05_washington_state_redistricting_act.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.05_washington_state_redistricting_act.md) for context.
 

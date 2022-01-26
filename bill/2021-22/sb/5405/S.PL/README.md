@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5405 as Recommended by Ways & Means - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5405-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5405-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [44.28](/rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md) for context.
 

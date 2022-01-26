@@ -1,6 +1,6 @@
 # House Bill 2001
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2001.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2001.pdf)
 ## Section 1
 In 2019 the legislature enacted a statutory framework encouraging the construction of tiny houses and tiny house communities. These homes provide a unique opportunity in the affordable housing market. It is the objective of the legislature to facilitate more development of housing that people with lower incomes can own and remove barriers that would prevent the development of tiny houses and tiny house communities.
 

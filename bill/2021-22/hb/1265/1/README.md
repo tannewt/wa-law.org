@@ -1,6 +1,6 @@
 # House Bill 1265
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1265.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1265.pdf)
 ## Section 1
 > This section modifies existing section [29A.56.031](/rcw/29A_elections/29A.56_special_circumstances_elections.md). Here is the [modified chapter](rcw/29A_elections/29A.56_special_circumstances_elections.md) for context.
 

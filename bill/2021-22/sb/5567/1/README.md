@@ -1,6 +1,6 @@
 # Senate Bill 5567
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5567.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5567.pdf)
 ## Section 1
 The legislature finds that wild salmon populations have declined and that many populations are threatened and endangered. The legislature further finds that allowing the use of alternative fishing techniques that can reduce or eliminate impacts to threatened wild fish, while allowing for selective harvest of hatchery stocks, improves the recovery of wild fish and increases the opportunities to catch harvestable stocks. Therefore, the legislature finds that repealing provisions of Initiative 77 from 1934 that restricts the use of certain fishing gear will provide fisheries managers with additional options for managing the selective harvest of salmon stocks.
 

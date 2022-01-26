@@ -1,6 +1,6 @@
 # Senate Bill 5118
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5118.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5118.pdf)
 ## Section 1
 > This section modifies existing section [9.98.010](/rcw/09_crimes_and_punishments/9.098_prisoners—untried_indictments_informations_complaints.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.098_prisoners—untried_indictments_informations_complaints.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1339
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1339.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1339.pdf)
 ## Section 1
 The legislature recognizes and honors historical persons who have shaped Washington's cultural identity; it is important that the state's full history and heritage is proudly displayed, honored, and esteemed. The legislature therefore recognizes one of the state's earliest pioneers and foremost founding fathers, an American hero of Irish and African descent who pioneered settlement of the Pacific Northwest, Mr. George Washington Bush.
 

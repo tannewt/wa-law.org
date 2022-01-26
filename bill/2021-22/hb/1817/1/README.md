@@ -1,6 +1,6 @@
 # House Bill 1817
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1817.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1817.pdf)
 ## Section 1
 > This section modifies existing section [10.05.010](/rcw/10_criminal_procedure/10.005_deferred_prosecution—courts_of_limited_jurisdiction.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.005_deferred_prosecution—courts_of_limited_jurisdiction.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5201
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5201.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5201.pdf)
 ## Section 2
 > This section modifies existing section [79.15.070](/rcw/79_public_lands/79.015_sale_of_valuable_materials.md). Here is the [modified chapter](rcw/79_public_lands/79.015_sale_of_valuable_materials.md) for context.
 

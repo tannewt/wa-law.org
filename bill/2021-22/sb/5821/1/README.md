@@ -1,6 +1,6 @@
 # Senate Bill 5821
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5821.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5821.pdf)
 ## Section 1
 1. The legislature intends to understand how current cardiac and stroke systems of care are functioning to impact health. Heart disease and stroke continue to be the leading cause of mortality in Washington state, responsible for approximately 15,000 deaths annually which is more than a quarter of all deaths in the state. A rigorous and systematic statewide assessment of care and outcomes will identify gaps in system performance and opportunities to target improvements that can save additional lives and decrease disability for all Washingtonians.
 

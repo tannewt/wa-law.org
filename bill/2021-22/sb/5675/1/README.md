@@ -1,6 +1,6 @@
 # Senate Bill 5675
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5675.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5675.pdf)
 ## Section 3
 > This section adds a new section to an existing chapter [10.31](/rcw/10_criminal_procedure/10.031_warrants_and_arrests.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.031_warrants_and_arrests.md) for context.
 

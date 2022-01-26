@@ -1,6 +1,6 @@
 # House Bill 1696
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1696.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1696.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [44.04](/rcw/44_state_government—legislative/44.04_general_provisions.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.04_general_provisions.md) for context.
 

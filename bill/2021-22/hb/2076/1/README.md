@@ -1,6 +1,6 @@
 # House Bill 2076
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2076.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2076.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [49.46](/rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md). Here is the [modified chapter](rcw/49_labor_regulations/49.46_minimum_wage_requirements_and_labor_standards.md) for context.
 

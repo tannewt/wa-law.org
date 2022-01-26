@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5395 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5395-S2.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5395-S2.E.pdf)
 ## Section 1
 The legislature finds that during the COVID-19 pandemic, state employees have incurred personal expenses and utilized their own resources serving the public. The state needs to provide state employees the tools necessary to serve the public while working from home.
 

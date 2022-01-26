@@ -1,6 +1,6 @@
 # House Bill 1100
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1100.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1100.pdf)
 ## Section 1
 1. The legislature finds that:
 

@@ -1,6 +1,6 @@
 # House Bill 1289 - Session Law Chapter 123 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1289.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1289.SL.pdf)
 ## Section 1
 > This section modifies existing section [66.44.318](/rcw/66_alcoholic_beverage_control/66.44_enforcement—penalties.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.44_enforcement—penalties.md) for context.
 

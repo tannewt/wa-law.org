@@ -1,6 +1,6 @@
 # House Bill 1642
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1642.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1642.pdf)
 ## Section 1
 > This section modifies existing section [28B.103.010](/rcw/28B_higher_education/28B.103_washington_national_guard_postsecondary_education_grant_program.md). Here is the [modified chapter](rcw/28B_higher_education/28B.103_washington_national_guard_postsecondary_education_grant_program.md) for context.
 

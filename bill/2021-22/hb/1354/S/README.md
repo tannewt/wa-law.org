@@ -1,6 +1,6 @@
 # Substitute House Bill 1354 as Recommended by Children, Youth & Families
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1354-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1354-S.pdf)
 ## Section 1
 1. The legislature finds that the work of the state suicide prevention plan steering committee has produced a valuable, comprehensive suicide prevention plan. This plan finds that about one-half of mental health conditions appear by age 14 and identifies a need for preventing youth suicide risk farther upstream in a child's life.
 

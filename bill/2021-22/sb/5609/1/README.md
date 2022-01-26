@@ -1,6 +1,6 @@
 # Senate Bill 5609
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5609.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5609.pdf)
 ## Section 1
 > This section modifies existing section [10.64.110](/rcw/10_criminal_procedure/10.064_judgments_and_sentences.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.064_judgments_and_sentences.md) for context.
 

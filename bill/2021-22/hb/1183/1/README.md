@@ -1,6 +1,6 @@
 # House Bill 1183
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1183.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1183.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.185C](/rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185C_homeless_housing_and_assistance.md) for context.
 

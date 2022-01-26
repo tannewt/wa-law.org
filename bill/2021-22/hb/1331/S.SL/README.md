@@ -1,6 +1,6 @@
 # Substitute House Bill 1331 - Session Law Chapter 072 Year 2021 as Recommended by Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1331-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1331-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [82.02.060](/rcw/82_excise_taxes/82.02_general_provisions.md). Here is the [modified chapter](rcw/82_excise_taxes/82.02_general_provisions.md) for context.
 

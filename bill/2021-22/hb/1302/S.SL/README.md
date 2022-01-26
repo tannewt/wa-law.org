@@ -1,6 +1,6 @@
 # Substitute House Bill 1302 - Session Law Chapter 071 Year 2021 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1302-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1302-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.600](/rcw/28A_common_school_provisions/28A.600_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.600_students.md) for context.
 

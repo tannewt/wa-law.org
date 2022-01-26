@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5237 - Session Law Chapter 199 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5237-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5237-S2.SL.pdf)
 ## Section 1
 This act may be known and cited as the fair start for kids act.
 

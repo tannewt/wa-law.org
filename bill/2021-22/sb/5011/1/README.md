@@ -1,6 +1,6 @@
 # Senate Bill 5011
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5011.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5011.pdf)
 ## Section 1
 > This section modifies existing section [64.32.010](/rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.32_horizontal_property_regimes_act_(condominiums).md) for context.
 

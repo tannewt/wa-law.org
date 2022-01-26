@@ -1,6 +1,6 @@
 # Senate Bill 5920
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5920.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5920.pdf)
 ## Section 1
 The legislature finds that parental participation in a child's life is ideal for the development and well-being of the child, but that a parent's use of alcohol or drugs may be cause to limit that parent's participation in the child's life through restrictions in a parenting plan. The legislature also finds that many who are addicted to or abuse alcohol, drugs, or other substances can stop using and achieve sobriety, and those parents who can achieve and maintain sobriety for at least two years should be permitted to seek modification of a parenting plan with restrictions based on alcohol or drug use if a court deems it appropriate.
 

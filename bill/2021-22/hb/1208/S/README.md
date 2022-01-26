@@ -1,6 +1,6 @@
 # Substitute House Bill 1208 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1208-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1208-S.pdf)
 ## Section 1
 1. The legislature acknowledges that the learning assistance program was developed to provide supplemental instruction and services for public school students who are not meeting academic standards. Initially, school districts were allowed to use learning assistance program funds in a flexible manner to support students participating in the program. Over time, the legislature restricted, and established priorities for, the use of learning assistance program funds. The legislature finds that it is time to restore flexibility to the use of learning assistance program funds; however, local control must be balanced with accountability for improvement in the academic achievement of students participating in the program.
 

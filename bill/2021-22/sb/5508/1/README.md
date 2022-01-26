@@ -1,6 +1,6 @@
 # Senate Bill 5508
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5508.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5508.pdf)
 ## Section 1
 > This section modifies existing section [48.32A.015](/rcw/48_insurance/48.032A_washington_life_and_disability_insurance_guaranty_association_act.md). Here is the [modified chapter](rcw/48_insurance/48.032A_washington_life_and_disability_insurance_guaranty_association_act.md) for context.
 

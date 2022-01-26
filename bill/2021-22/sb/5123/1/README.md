@@ -1,6 +1,6 @@
 # Senate Bill 5123
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5123.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5123.pdf)
 ## Section 1
 The legislature finds that successful rehabilitation of youth adjudicated of sex offenses is the best path to reducing recidivism. The legislature recognizes the great and long-lasting harm caused to victims by problem sexual behaviors committed by youth and affirms the need to ensure that such behaviors are not repeated. The legislature finds that the consequences for youth adjudicated of sex offenses can last into adulthood and throughout their entire lives. The legislature finds that requiring youth to register as sex offenders is associated with mental health struggles, including depression, anxiety, and suicidal ideation, as well as the increased likelihood of becoming a target of sexual abuse by adults. The legislature finds that researchers from the Johns Hopkins University and other academic institutions found that registration and notification policies for minors failed to improve community safety and that evidence-based prevention and intervention policies would provide increased community safety.
 

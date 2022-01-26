@@ -1,6 +1,6 @@
 # Senate Bill 5502
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5502.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5502.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9A.48](/rcw/09A_washington_criminal_code/9A.48_arson_reckless_burning_and_malicious_mischief.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.48_arson_reckless_burning_and_malicious_mischief.md) for context.
 

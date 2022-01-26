@@ -1,6 +1,6 @@
 # Senate Bill 5604
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5604.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5604.pdf)
 ## Section 1
 > This section modifies existing section [39.04.350](/rcw/39_public_contracts_and_indebtedness/39.004_public_works.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.004_public_works.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5163 - Session Law Chapter 236 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5163-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5163-S2.SL.pdf)
 ## Section 1
 The legislature finds that in 2008, the sex offender policy board was established to provide a more coordinated and integrated response to sex offender management in Washington state. The legislature further finds that in March 2020, the board was convened to review policies and practices related to sexually violent predators. The legislature recognizes that the board released a report and a series of recommendations regarding improvement to the current practice in order to ensure a successful transition for individuals convicted of sex offenses from total confinement back into the community. The legislature resolves to increase community safety through successful transition by enacting the recommendations of the board and other related policies.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5155 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5155-S2.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5155-S2.E.pdf)
 ## Section 1
 > This section modifies existing section [4.56.110](/rcw/04_civil_procedure/4.056_judgments—generally.md). Here is the [modified chapter](rcw/04_civil_procedure/4.056_judgments—generally.md) for context.
 

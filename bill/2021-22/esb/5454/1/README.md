@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5454 - Session Law Chapter 192 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5454.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5454.SL.pdf)
 ## Section 1
 > This section modifies existing section [84.70.010](/rcw/84_property_taxes/84.70_destroyed_property—abatement_or_refund.md). Here is the [modified chapter](rcw/84_property_taxes/84.70_destroyed_property—abatement_or_refund.md) for context.
 

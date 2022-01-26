@@ -1,6 +1,6 @@
 # House Bill 1885
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1885.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1885.pdf)
 ## Section 1
 The legislature finds that good oral health is an integral piece of overall health and well-being. Without treatment, dental disease compromises overall health and requires increasingly costly interventions. However, most dental disease can be prevented at little cost through routine dental care and disease prevention.
 

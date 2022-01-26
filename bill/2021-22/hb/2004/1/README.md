@@ -1,6 +1,6 @@
 # House Bill 2004
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2004.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2004.pdf)
 ## Section 1
 > This section modifies existing section [39.26.300](/rcw/39_public_contracts_and_indebtedness/39.026_procurement_of_goods_and_services.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.026_procurement_of_goods_and_services.md) for context.
 

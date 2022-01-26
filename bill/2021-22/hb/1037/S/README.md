@@ -1,6 +1,6 @@
 # Substitute House Bill 1037 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1037-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1037-S.pdf)
 ## Section 1
 > This section modifies existing section [48.17.010](/rcw/48_insurance/48.017_insurance_producers_title_insurance_agents_and_adjusters.md). Here is the [modified chapter](rcw/48_insurance/48.017_insurance_producers_title_insurance_agents_and_adjusters.md) for context.
 

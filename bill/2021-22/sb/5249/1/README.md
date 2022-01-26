@@ -1,6 +1,6 @@
 # Senate Bill 5249
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5249.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5249.pdf)
 ## Section 2
 1. The state board of education shall consider for adoption the profile of a graduate recommended by the mastery-based learning work group under section 1 of this act. The state board of education may consider modifications to the profile and must adopt the recommended or modified profile by April 30, 2022.
 

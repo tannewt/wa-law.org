@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1109 - Session Law Chapter 118 Year 2021 as Recommended by Public Safety
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1109-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1109-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [5.70.005](/rcw/05_evidence/5.70_dna_evidence.md). Here is the [modified chapter](rcw/05_evidence/5.70_dna_evidence.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1610
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1610.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1610.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [18.59](/rcw/18_businesses_and_professions/18.059_occupational_therapy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.059_occupational_therapy.md) for context.
 

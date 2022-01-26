@@ -1,6 +1,6 @@
 # Senate Bill 5778
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5778.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5778.pdf)
 ## Section 1
 > This section modifies existing section [46.12.560](/rcw/46_motor_vehicles/46.12_certificates_of_title.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.12_certificates_of_title.md) for context.
 

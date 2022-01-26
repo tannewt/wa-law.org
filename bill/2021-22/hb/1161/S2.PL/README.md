@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1161 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1161-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1161-S2.PL.pdf)
 ## Section 1
 > This section modifies existing section [69.48.010](/rcw/69_food_drugs_cosmetics_and_poisons/69.48_drug_take-back_program.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.48_drug_take-back_program.md) for context.
 

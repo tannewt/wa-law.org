@@ -1,6 +1,6 @@
 # Senate Bill 5544
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5544.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5544.pdf)
 ## Section 1
 1. Subject to the availability of amounts appropriated for this specific purpose, the Washington blockchain work group is established. The purpose of the work group is to examine various potential applications for blockchain technology including, but not limited to, applications in computing, banking and other financial services, the real estate transaction process, health care, supply chain management, higher education, and public recordkeeping.
 

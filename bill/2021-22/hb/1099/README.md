@@ -1,5 +1,5 @@
 # HB 1099 - Comprehensive planning
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1099&Year=2021)
+*Status: Third reading, passed; yeas, 57; nays, 41; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1099&Year=2021)
 
 Improving the state's climate response through updates to the state's comprehensive planning framework.
 

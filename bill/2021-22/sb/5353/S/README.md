@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5353 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5353-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5353-S.pdf)
 ## Section 1
 The legislature finds that community engagement is a foundational principle of successful community policing practices. When individuals and neighborhood groups are encouraged to partner with law enforcement, a powerful alliance can be built on mutual trust and respect and mitigate polarization between police departments and community groups. A successful community-police partnership leads to the achievement of shared goals of improving safety and quality of life and ensuring that public safety services are tailored to the needs of local communities.
 

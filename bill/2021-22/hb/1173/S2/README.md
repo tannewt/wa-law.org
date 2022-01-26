@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1173 as Recommended by Capital Budget
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1173-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1173-S2.pdf)
 ## Section 1
 1. State lands development authorities are hereby authorized to oversee and manage the development or redevelopment of state-owned property that is within or adjacent to manufacturing industrial centers. Any property owned or managed by the department of natural resources is exempt from the provisions of this chapter.
 

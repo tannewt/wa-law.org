@@ -1,6 +1,6 @@
 # Senate Bill 5170
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5170.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5170.pdf)
 ## Section 1
 > This section modifies existing section [42.52.080](/rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.52_ethics_in_public_service.md) for context.
 

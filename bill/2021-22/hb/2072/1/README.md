@@ -1,6 +1,6 @@
 # House Bill 2072
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2072.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2072.pdf)
 ## Section 1
 > This section modifies existing section [65.20.010](/rcw/65_recording_registration_and_legal_publication/65.20_classification_of_manufactured_homes.md). Here is the [modified chapter](rcw/65_recording_registration_and_legal_publication/65.20_classification_of_manufactured_homes.md) for context.
 

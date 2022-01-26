@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1083 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1083-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1083-S2.pdf)
 ## Section 1
 > This section modifies existing section [59.21.005](/rcw/59_landlord_and_tenant/59.21_mobile_home_relocation_assistance.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.21_mobile_home_relocation_assistance.md) for context.
 

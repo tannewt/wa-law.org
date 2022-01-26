@@ -1,6 +1,6 @@
 # Senate Bill 5073
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5073.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5073.pdf)
 ## Section 5
 > This section modifies existing section [71.05.210](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
 

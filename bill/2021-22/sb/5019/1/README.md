@@ -1,6 +1,6 @@
 # Senate Bill 5019 - Session Law Chapter 137 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5019.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5019.SL.pdf)
 ## Section 1
 The legislature recognizes the necessity to clarify existing law regarding the recording of documents with county recording departments and county auditors. Recording standards and practices vary from county to county, which creates confusion and liability. County recorders, real estate firms, title and escrow companies, and consumer groups need simplified and standardized recording standards and fees. It is the intent of the legislature that the secretary of state have the authority to create regulations for consistent recording of documents by county auditors.
 

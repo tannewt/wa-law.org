@@ -1,6 +1,6 @@
 # Substitute House Bill 1129 as Recommended by Health Care & Wellness - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1129-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1129-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [18.71.095](/rcw/18_businesses_and_professions/18.071_physicians.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.071_physicians.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5204
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5204.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5204.pdf)
 ## Section 101
 During this time of uncertainty affecting the future options for thousands of Washingtonians to retain their health care coverage and thousands who face high out-of-pocket costs, the people of the state of Washington declare their intention to create a single primary nonprofit health financing entity called the whole Washington health trust. The trust will simplify health care financing, eliminate administrative waste for providers, focus savings by promoting a health care delivery system that is responsive to the essential health needs of each county, and guarantee all residents may enroll for coverage of a single comprehensive set of essential health benefits as a basic human need that is essential for a productive society, without the burden of current high premiums, deductibles, or, with modest exceptions, copayments.
 

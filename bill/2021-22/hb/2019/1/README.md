@@ -1,6 +1,6 @@
 # House Bill 2019
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2019.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2019.pdf)
 ## Section 1
 1. The legislature finds that the retail industry is vital to the state's economy, providing 42 percent of the state's total tax collections in 2019, employing approximately 385,000 people across the state, and paying nearly $24 billion in annual wages. Nationally, one in four jobs are in retail, 34 percent of the retail workforce consists of people of color, and the retail industry is the fourth largest employer of immigrants.
 

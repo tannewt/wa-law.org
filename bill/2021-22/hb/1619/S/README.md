@@ -1,6 +1,6 @@
 # Substitute House Bill 1619 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1619-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1619-S.pdf)
 ## Section 3
 > This section modifies existing section [19.260.030](/rcw/19_business_regulations—miscellaneous/19.260_energy_efficiency.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.260_energy_efficiency.md) for context.
 

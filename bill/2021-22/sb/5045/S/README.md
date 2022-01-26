@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5045 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5045-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5045-S.pdf)
 ## Section 1
 Disruptions to the food supply chain due to the coronavirus pandemic revealed the importance and limitations of Washington's local meat processing system capacity. State investment in local meat processors is needed to modernize operations and ensure functional capacity of the system. Support for the small meat processors provides multiple benefits for the greater public good including continuity of food supply and resilience in the face of supply chain disruptions, consumer food safety and public health, animal health and welfare, and increased economic growth opportunities for both meat processor small businesses, skilled workforce, and livestock producers.
 

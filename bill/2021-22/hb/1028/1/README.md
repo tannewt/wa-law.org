@@ -1,6 +1,6 @@
 # House Bill 1028
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1028.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1028.pdf)
 ## Section 1
 1. Washington professional educator standards board-approved teacher preparation programs must recommend for residency teacher certification any candidate who has met all program requirements except for completion of the evidence-based assessment of teaching effectiveness under RCW 28A.410.280, as repealed by this act.
 

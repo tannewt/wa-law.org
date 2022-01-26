@@ -1,6 +1,6 @@
 # Senate Bill 5800
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5800.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5800.pdf)
 ## Section 1
 > This section modifies existing section [14.08.122](/rcw/14_aeronautics/14.08_municipal_airports—1945_act.md). Here is the [modified chapter](rcw/14_aeronautics/14.08_municipal_airports—1945_act.md) for context.
 

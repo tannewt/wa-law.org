@@ -1,6 +1,6 @@
 # House Bill 1586
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1586.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1586.pdf)
 ## Section 1
 The legislature finds that it is in the interest of the state to promote greater transparency from the persons and entities who seek to influence the passage of legislation by informing the public and news media of the sources and sponsorship of information that is designed to sway and procure political interest, allegiance, and active support to pass or defeat proposed legislation. This need for transparency requires the disclosure of those parties who sponsor grassroots efforts to influence legislation. The legislature finds that it has become common for powerful political and corporate interests to use grassroots movements to hide behind and further their own legislative agendas in a practice known as "astroturfing." The legislature believes that Washington citizens have the right to know who is exerting influence on legislation in our state and whether the messages being conveyed to them are emanating from concerned citizens, nonprofits, political organizations, corporations, or other sources.
 

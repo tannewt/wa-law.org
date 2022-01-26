@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5192 - Session Law Chapter 238 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5192-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5192-S2.SL.pdf)
 ## Section 1
 > This section modifies existing section [19.94.010](/rcw/19_business_regulations—miscellaneous/19.094_weights_and_measures.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.094_weights_and_measures.md) for context.
 

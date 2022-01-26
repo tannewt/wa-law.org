@@ -1,6 +1,6 @@
 # Senate Bill 5089
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5089.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5089.pdf)
 ## Section 1
 > This section modifies existing section [41.12.070](/rcw/41_public_employment_civil_service_and_pensions/41.12_civil_service_for_city_police.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.12_civil_service_for_city_police.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1359 as Recommended by Commerce & Gaming
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1359-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1359-S.pdf)
 ## Section 1
 The legislature finds that operations of businesses in the hospitality industry have been significantly disrupted since the beginning of the COVID-19 pandemic. Many of these businesses, including restaurants, hotels, theaters, caterers, and nightclubs maintain state liquor licenses in order to offer their customers beer, wine, or spirits as products or amenities as authorized under the terms of their licenses. However, many licensees' businesses were completely or partially closed for much of 2020 and continue to be closed or substantially disrupted in 2021. Recognizing many licensees' inability to fully operate and use their license, and the financial hardships faced by many licensees, the legislature intends to provide relief to the hospitality industry by reducing certain liquor license fees in 2021 and 2022.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5903
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5903.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5903.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [47.04](/rcw/47_public_highways_and_transportation/47.04_general_provisions.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.04_general_provisions.md) for context.
 

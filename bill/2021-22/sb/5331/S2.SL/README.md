@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5331 - Session Law Chapter 285 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5331-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5331-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that there is an urgent need to provide greater support to young children and their families involved in Washington state's child welfare system. Infants and toddlers comprise a substantial portion of all child abuse and neglect cases in Washington state; the rate of entry for children under age one into the care of Washington state's child welfare system is the second highest in the nation. Research demonstrates that both the trauma of neglect as well as the trauma associated with entering the child welfare system shapes young children's brain development and have lifelong impacts on young children's social, emotional, and physical well-being. Young children and families of color are particularly impacted by child welfare involvement and the factors leading up to it.
 

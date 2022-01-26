@@ -1,6 +1,6 @@
 # Substitute House Bill 1502 - Session Law Chapter 224 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1502-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1502-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.32](/rcw/36_counties/36.032_county_commissioners.md). Here is the [modified chapter](rcw/36_counties/36.032_county_commissioners.md) for context.
 

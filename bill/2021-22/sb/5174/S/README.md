@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5174 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5174-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5174-S.pdf)
 ## Section 1
 The legislature finds that a convenient, safe, and environmentally sound system for the recycling of wind turbine blades must be established. The legislature further finds that the responsibility for this system must be shared among all stakeholders, with manufacturers financing the takeback and recycling system.
 

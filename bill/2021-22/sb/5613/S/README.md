@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5613 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5613-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5613-S.pdf)
 ## Section 1
 > This section modifies existing section [77.15.245](/rcw/77_fish_and_wildlife/77.015_fish_and_wildlife_enforcement_code.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.015_fish_and_wildlife_enforcement_code.md) for context.
 

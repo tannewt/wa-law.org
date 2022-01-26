@@ -1,6 +1,6 @@
 # House Bill 1595
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1595.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1595.pdf)
 ## Section 1
 This act may be known and cited as "Zack's law."
 

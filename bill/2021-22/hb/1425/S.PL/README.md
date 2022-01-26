@@ -1,6 +1,6 @@
 # Substitute House Bill 1425 as Recommended by College & Workforce Development - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1425-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1425-S.PL.pdf)
 ## Section 1
 The legislature finds that higher education is pivotal in delivering training to Washington citizens at all stages of their careers and ages. A skilled workforce increases productivity, boosts outputs, and propels growth in Washington's economy. The legislature further finds that a well-trained, highly skilled workforce provides Washington citizens with greater opportunities and skill sets to efficiently and confidently meet the changing demands of a transforming economy. Furthermore, a STEM-based education provides Washington's citizens with real-world applications to develop a variety of skill sets needed in today's global economy.
 

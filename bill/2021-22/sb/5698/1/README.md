@@ -1,6 +1,6 @@
 # Senate Bill 5698
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5698.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5698.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [41.32](/rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1954
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1954.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1954.pdf)
 ## Section 1
 > This section modifies existing section [46.55.035](/rcw/46_motor_vehicles/46.55_towing_and_impoundment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.55_towing_and_impoundment.md) for context.
 

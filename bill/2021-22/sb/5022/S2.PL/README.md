@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5022 as Recommended by Ways & Means - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5022-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5022-S2.PL.pdf)
 ## Section 1
 1. The legislature finds that minimum recycled content requirements for plastic beverage containers, trash bags, and household cleaning and personal care product containers, bans on problematic and unnecessary plastic packaging, and standards for customer opt-in for food service packaging and accessories are among actions needed to improve the state's recycling system as well as reduce litter.
 

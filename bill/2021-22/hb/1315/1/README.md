@@ -1,6 +1,6 @@
 # House Bill 1315 - Session Law Chapter 043 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1315.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1315.SL.pdf)
 ## Section 1
 1. The legislature finds that domestic violence causes physical and psychological harm, broken families, economic loss, and other societal ills. According to the center for disease control's national intimate partner and sexual violence survey, about one in three women and one in three men reported experiencing intimate partner violence in their lifetime. In Washington in 2017, over 54,000 domestic violence offenses were reported to law enforcement and 49 domestic violence homicides were committed.
 

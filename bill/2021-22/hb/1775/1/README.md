@@ -1,6 +1,6 @@
 # House Bill 1775
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1775.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1775.pdf)
 ## Section 1
 The legislature finds that many school districts in the state are unable to access state funding for school construction, whether due to a lack of bond capacity or because the property tax increase of a bond measure would be a difficult burden. Often, the buildings operated by these school districts are the district's only elementary school, middle school, or high school, putting greater pressure on the need for a safe, up-to-date, long-lasting school building in which students can thrive. The legislature further finds that the state must do more to fund school buildings that are adequate to provide an equitable learning environment for all students in Washington, regardless of where they live. Therefore, the legislature intends to create a new grant program through which small school districts that are generally unable to participate in the current school construction funding program will be able to get the necessary funds to modernize or rebuild their school buildings.
 

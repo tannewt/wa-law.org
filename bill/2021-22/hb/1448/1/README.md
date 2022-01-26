@@ -1,6 +1,6 @@
 # House Bill 1448
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1448.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1448.pdf)
 ## Section 1
 1. The legislature finds that volunteer firefighters provide a valuable service for communities. In some areas of the state, particularly in more rural areas, a fire protection district may rely solely on volunteer firefighters to provide this critical service.
 

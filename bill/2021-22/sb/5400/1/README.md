@@ -1,6 +1,6 @@
 # Senate Bill 5400
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5400.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5400.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.31](/rcw/48_insurance/48.031_mergers_rehabilitation_liquidation_supervision.md). Here is the [modified chapter](rcw/48_insurance/48.031_mergers_rehabilitation_liquidation_supervision.md) for context.
 

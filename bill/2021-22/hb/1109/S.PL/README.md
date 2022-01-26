@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1109 as Recommended by Public Safety - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1109-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1109-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [5.70.005](/rcw/05_evidence/5.70_dna_evidence.md). Here is the [modified chapter](rcw/05_evidence/5.70_dna_evidence.md) for context.
 

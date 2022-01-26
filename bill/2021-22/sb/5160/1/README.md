@@ -1,6 +1,6 @@
 # Senate Bill 5160
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5160.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5160.pdf)
 ## Section 1
 Therefore, it is the intent of the legislature with this act to expand upon and preserve some of these protections for tenants within the governor's eviction moratorium, provide legal representation for qualifying tenants in eviction cases, and ensure tenants and landlords have adequate opportunities to access state and local rental assistance programs to both reimburse landlords for unpaid rent and preserve tenancies.
 

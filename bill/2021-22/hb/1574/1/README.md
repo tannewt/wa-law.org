@@ -1,6 +1,6 @@
 # House Bill 1574
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1574.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1574.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [49.60](/rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md). Here is the [modified chapter](rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md) for context.
 

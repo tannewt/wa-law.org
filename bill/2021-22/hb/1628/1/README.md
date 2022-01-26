@@ -1,6 +1,6 @@
 # House Bill 1628
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1628.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1628.pdf)
 ## Section 1
 > This section modifies existing section [29A.32.280](/rcw/29A_elections/29A.32_voters_pamphlets.md). Here is the [modified chapter](rcw/29A_elections/29A.32_voters_pamphlets.md) for context.
 

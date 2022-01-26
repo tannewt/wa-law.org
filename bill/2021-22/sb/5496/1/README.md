@@ -1,6 +1,6 @@
 # Senate Bill 5496
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5496.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5496.pdf)
 ## Section 1
 > This section modifies existing section [18.22.250](/rcw/18_businesses_and_professions/18.022_podiatric_medicine_and_surgery.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.022_podiatric_medicine_and_surgery.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5547
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5547.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5547.pdf)
 ## Section 1
 Due to the evolving nature of new cannabinoids being identified in the plant Cannabis that may be impairing, the legislature finds there is a need to provide consumers legal access to products that have been tested and which meet the same standards for quality and safety as delta-9 tetrahydrocannabinol. The legislature further finds there is a need to require labeling, serving size, potency, and ingredient disclosure standards for any impairing cannabinoid product. The legislature further finds there is a need to distinguish cannabinoids derived from natural plants that are prepared for human consumption and the more unpredictable artificial cannabinoids created solely through chemical reactions. The legislature further recognizes the need to maintain clarity between plants defined as marijuana and plants defined as hemp. The primary purpose of this act is to authorize the liquor and cannabis board to regulate all cannabinoids that may be impairing, regardless of origin, and to direct the board to adopt rules related to cannabinoid products and Cannabis isolates, except those authorized as a drug by the federal food and drug administration.
 

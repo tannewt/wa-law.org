@@ -1,6 +1,6 @@
 # House Bill 1130
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1130.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1130.pdf)
 ## Section 1
 The legislature finds that Washingtonians care about affordable and reliable energy. Washingtonians care about low-income residents and vulnerable populations who struggle to pay utility bills. Washingtonians care about those with health conditions that make them vulnerable to power outages during heat waves or cold snaps. Washingtonians care about the good jobs lost when good-paying energy-intensive jobs pass on our state. While the state has described the goals of affordability and reliability in various places in statute, the state has never set a framework for achieving these energy policy goals that our residents care about, such as reducing the total cost of utility bills, reducing the number of people in need of energy assistance, or reducing the number and duration of power outages. Instead, to date, the state has only set a mandate for achieving carbon emissions reductions.
 

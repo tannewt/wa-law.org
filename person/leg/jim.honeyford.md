@@ -1,21 +1,20 @@
 # Jim Honeyford
 ## Bills
-* [SB 5029](bill/2021-22/sb/5029/) - Investment project tax defs.
-* [SB 5031](bill/2021-22/sb/5031/) - Aviation revital. loan prg
-* [SB 5063](bill/2021-22/sb/5063/) - Invasive species council exp
-* [SB 5181](bill/2021-22/sb/5181/) - Low-income school districts
-* [SB 5329](bill/2021-22/sb/5329/) - Aircraft fuel tax distrib.
-* [SB 5350](bill/2021-22/sb/5350/) - Unmanned aircraft/tax prefs.
-* [SB 5357](bill/2021-22/sb/5357/) - Capital broadband program
-* [SB 5374](bill/2021-22/sb/5374/) - Political systems/K-12 study
-* [SB 5462](bill/2021-22/sb/5462/) - State data breach claims
-* [SB 5509](bill/2021-22/sb/5509/) - Fentanyl testing equipment
-* [SB 5511](bill/2021-22/sb/5511/) - Uniform standard time
-* [SB 5512](bill/2021-22/sb/5512/) - State nickname
-* [SB 5524](bill/2021-22/sb/5524/) - Fentanyl/homicide penalty
-* [SB 5632](bill/2021-22/sb/5632/) - Water infra. projects
-* [SB 5661](bill/2021-22/sb/5661/) - Fish and wildlife commission
-* [SB 5742](bill/2021-22/sb/5742/) - Stormwater facilities/county
-* [SB 5743](bill/2021-22/sb/5743/) - Kratom
-* [SB 5927](bill/2021-22/sb/5927/) - Retail cannabis outlets
-* [SB 5941](bill/2021-22/sb/5941/) - Kratom
+* [SB 5029](/bill/2021-22/sb/5029/) - Investment project tax defs. | Placed on second reading by Rules Committee.
+* [SB 5031](/bill/2021-22/sb/5031/) - Aviation revital. loan prg | Effective date 6/30/2021.
+* [SB 5063](/bill/2021-22/sb/5063/) - Invasive species council exp | Effective date 7/25/2021.
+* [SB 5181](/bill/2021-22/sb/5181/) - Low-income school districts | Placed on third reading by Rules Committee.
+* [SB 5329](/bill/2021-22/sb/5329/) - Aircraft fuel tax distrib. | On motion, referred to Rules Committee for second reading.
+* [SB 5350](/bill/2021-22/sb/5350/) - Unmanned aircraft/tax prefs. | By resolution, reintroduced and retained in present status.
+* [SB 5357](/bill/2021-22/sb/5357/) - Capital broadband program | Senate Rules "X" file.
+* [SB 5374](/bill/2021-22/sb/5374/) - Political systems/K-12 study | By resolution, reintroduced and retained in present status.
+* [SB 5462](/bill/2021-22/sb/5462/) - State data breach claims | By resolution, reintroduced and retained in present status.
+* [SB 5509](/bill/2021-22/sb/5509/) - Fentanyl testing equipment | Passed to Rules Committee for second reading.
+* [SB 5511](/bill/2021-22/sb/5511/) - Uniform standard time | First reading, referred to State Government & Elections.
+* [SB 5512](/bill/2021-22/sb/5512/) - State nickname | Placed on second reading.
+* [SB 5524](/bill/2021-22/sb/5524/) - Fentanyl/homicide penalty | First reading, referred to Law & Justice.
+* [SB 5632](/bill/2021-22/sb/5632/) - Water infra. projects | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5661](/bill/2021-22/sb/5661/) - Fish and wildlife commission | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5742](/bill/2021-22/sb/5742/) - Stormwater facilities/county | First reading, referred to Housing & Local Government.
+* [SB 5743](/bill/2021-22/sb/5743/) - Kratom | First reading, referred to Law & Justice.
+* [SB 5927](/bill/2021-22/sb/5927/) - Retail cannabis outlets | First reading, referred to Law & Justice.

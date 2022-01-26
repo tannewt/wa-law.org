@@ -1,6 +1,6 @@
 # Senate Bill 5284
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5284.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5284.pdf)
 ## Section 1
 > This section modifies existing section [49.12.110](/rcw/49_labor_regulations/49.12_industrial_welfare.md). Here is the [modified chapter](rcw/49_labor_regulations/49.12_industrial_welfare.md) for context.
 

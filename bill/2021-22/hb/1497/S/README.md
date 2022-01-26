@@ -1,6 +1,6 @@
 # Substitute House Bill 1497 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1497-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1497-S.pdf)
 ## Section 1
 > This section modifies existing section [80.36.390](/rcw/80_public_utilities/80.36_telecommunications.md). Here is the [modified chapter](rcw/80_public_utilities/80.36_telecommunications.md) for context.
 

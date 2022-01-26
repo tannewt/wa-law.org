@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5012 as Recommended by Housing & Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5012-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5012-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [67.28](/rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md). Here is the [modified chapter](rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md) for context.
 

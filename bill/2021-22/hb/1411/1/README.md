@@ -1,6 +1,6 @@
 # House Bill 1411
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1411.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1411.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [74.39A](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
 

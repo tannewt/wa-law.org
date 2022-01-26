@@ -1,6 +1,6 @@
 # House Bill 1491 - Session Law Chapter 049 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1491.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1491.SL.pdf)
 ## Section 1
 > This section modifies existing section [79.36.350](/rcw/79_public_lands/79.036_easements_over_public_lands.md). Here is the [modified chapter](rcw/79_public_lands/79.036_easements_over_public_lands.md) for context.
 

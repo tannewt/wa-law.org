@@ -1,6 +1,6 @@
 # House Bill 1546
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1546.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1546.pdf)
 ## Section 1
 > This section modifies existing section [46.09.540](/rcw/46_motor_vehicles/46.09_off-road_nonhighway_and_wheeled_all-terrain_vehicles.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.09_off-road_nonhighway_and_wheeled_all-terrain_vehicles.md) for context.
 

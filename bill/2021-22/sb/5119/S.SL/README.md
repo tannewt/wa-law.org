@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5119 - Session Law Chapter 139 Year 2021 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5119-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5119-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [72.09](/rcw/72_state_institutions/72.09_department_of_corrections.md). Here is the [modified chapter](rcw/72_state_institutions/72.09_department_of_corrections.md) for context.
 

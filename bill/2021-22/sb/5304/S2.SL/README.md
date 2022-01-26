@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5304 - Session Law Chapter 243 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5304-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5304-S2.SL.pdf)
 ## Section 1
 The legislature finds that when considering releasing persons from state and local institutions, realizing the safety of the public is the primary concern. The legislature also finds that the success of persons with behavioral health needs being released from confinement in a prison, jail, juvenile rehabilitation facility, state hospital, and other state and local institutions can be increased with access to continuity of medical assistance, supportive services, and other targeted assistance. The legislature finds that this act provides strategies to prevent interruption of medical assistance benefits and to allow for a seamless transfer between systems of care. The legislature further finds that this act removes stigmatizing language from the program created under RCW 72.09.370 and 71.24.470 and creates a work group to study how to expand the cost-effective strategies of this program to other populations and settings to enhance recovery, reduce recidivism, and improve safety.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5757
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5757.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5757.pdf)
 ## Section 1
 > This section modifies existing section [82.45.060](/rcw/82_excise_taxes/82.45_excise_tax_on_real_estate_sales.md). Here is the [modified chapter](rcw/82_excise_taxes/82.45_excise_tax_on_real_estate_sales.md) for context.
 

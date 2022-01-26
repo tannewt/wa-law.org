@@ -1,6 +1,6 @@
 # Senate Bill 5313
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5313.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5313.pdf)
 ## Section 2
 > This section modifies existing section [49.60.178](/rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md). Here is the [modified chapter](rcw/49_labor_regulations/49.60_discrimination—human_rights_commission.md) for context.
 

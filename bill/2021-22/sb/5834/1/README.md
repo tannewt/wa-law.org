@@ -1,6 +1,6 @@
 # Senate Bill 5834
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5834.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5834.pdf)
 ## Section 1
 1. The legislature finds that Washington state values the highest level of quality for the use of technology to improve services for the public, provide for accessibility and cost savings, and meet the public's needs. This includes the smart use of the cloud technology, applications, and mobile technology and the like that meet the highest standards of quality. The high quality use of technology requires rigorously following evidence-based best practices, supporting the state workforce with continuous learning, and responsibly managing the public's data, privacy, and security.
 

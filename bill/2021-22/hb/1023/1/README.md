@@ -1,6 +1,6 @@
 # House Bill 1023 - Session Law Chapter 054 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1023.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1023.SL.pdf)
 ## Section 1
 The legislature finds that predesigns are often done due to statutory requirements regardless of whether it is necessary to the capital project. The legislature also finds that the cost of unnecessary predesigns includes not only limited resources in the capital budget, but an extended project timeline. Therefore, the legislature intends to reduce the number of predesigns by raising the cost threshold and adding exceptions to the predesign requirements.
 

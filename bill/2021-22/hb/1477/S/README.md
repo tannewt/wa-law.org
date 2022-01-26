@@ -1,6 +1,6 @@
 # Substitute House Bill 1477 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1477-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1477-S.pdf)
 ## Section 101
 1. The legislature finds that:
 

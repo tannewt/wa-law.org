@@ -1,6 +1,6 @@
 # Substitute House Bill 1151 - Session Law Chapter 009 Year 2021 as Recommended by Housing, Human Services & Veterans
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1151-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1151-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [74.04.660](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
 

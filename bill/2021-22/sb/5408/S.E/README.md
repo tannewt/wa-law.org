@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5408 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5408-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5408-S.E.pdf)
 ## Section 1
 The legislature finds that the homestead exemption is intended to protect the homeowner's equity in a home against unsecured creditors. The legislature finds that changes to the homestead exemption are necessary to modernize the law and to address the case of Wilson v. Rigby, 909 F.3d 306 (2018) and to adopt the reasoning in In re Good, 588 B.R. 573 (Bankr. W.D. Wash. 2018).
 

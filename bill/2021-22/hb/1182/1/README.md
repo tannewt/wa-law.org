@@ -1,6 +1,6 @@
 # House Bill 1182
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1182.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1182.pdf)
 ## Section 101
 1. The legislature finds that:
 

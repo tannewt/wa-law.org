@@ -1,6 +1,6 @@
 # Senate Bill 5338 - Session Law Chapter 019 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5338.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5338.SL.pdf)
 ## Section 1
 > This section modifies existing section [52.02.020](/rcw/52_fire_protection_districts/52.02_formation.md). Here is the [modified chapter](rcw/52_fire_protection_districts/52.02_formation.md) for context.
 

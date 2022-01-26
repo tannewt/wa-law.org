@@ -1,6 +1,6 @@
 # House Bill 1920
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1920.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1920.pdf)
 ## Section 1
 > This section modifies existing section [26.44.210](/rcw/26_domestic_relations/26.44_abuse_of_children.md). Here is the [modified chapter](rcw/26_domestic_relations/26.44_abuse_of_children.md) for context.
 

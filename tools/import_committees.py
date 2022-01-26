@@ -1,4 +1,4 @@
-import requests_cache
+import cached_session
 from bs4 import BeautifulSoup, NavigableString
 import re
 import pathlib
@@ -6,12 +6,12 @@ import sys
 import subprocess
 import arrow
 
-PUSH = False
+FORCE_FETCH = False
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 csi_root_url = "https://app.leg.wa.gov/csi"
 
-requests = requests_cache.CachedSession("committee_cache")
+requests = cached_session.CustomCachedSession("committee_cache")
 
 committee_path = pathlib.Path("bill/")
 
@@ -46,7 +46,7 @@ for start_year in range(2021, 2023, 2):
 
     url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetings?beginDate={start_year}-01-01&endDate={start_year+1}-12-31"
     print(url)
-    meetings = requests.get(url, expire_after=0)
+    meetings = requests.get(url, force_fetch=FORCE_FETCH)
     meetings = BeautifulSoup(meetings.text, "xml")
     count = 0
     for info in meetings.find_all("CommitteeMeeting"):
@@ -181,8 +181,10 @@ for start_year in range(2021, 2023, 2):
     active_lines = []
     inactive_lines = []
     heard_lines = []
+    heading = None
     for line in bill_index.read_text().split("\n"):
         if line.startswith("#"):
+            heading = line
             # add active/inactive sections
             add_lines(new_lines, active_lines, heard_lines, inactive_lines)
             active_lines = []
@@ -191,6 +193,9 @@ for start_year in range(2021, 2023, 2):
             new_lines.append(line)
             pass
         elif line.startswith("*"):
+            if heading == "# 2021-22":
+                new_lines.append(line)
+                continue
             # parse out bill number and bin
             bill_number = line.split()[2][:4]
             if "|" in line:

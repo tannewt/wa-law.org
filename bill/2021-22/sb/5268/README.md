@@ -1,5 +1,5 @@
 # SB 5268 - Dev. disability services
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5268&Year=2021)
+*Status: First reading, referred to Housing, Human Services & Veterans.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5268&Year=2021)
 
 Transforming services for individuals with intellectual and developmental disabilities by increasing the capabilities of community residential settings and redesigning the long-term nature of intermediate care facilities.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5411
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5411.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5411.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [76.09](/rcw/76_forests_and_forest_products/76.09_forest_practices.md). Here is the [modified chapter](rcw/76_forests_and_forest_products/76.09_forest_practices.md) for context.
 

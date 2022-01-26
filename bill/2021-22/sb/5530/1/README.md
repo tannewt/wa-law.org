@@ -1,6 +1,6 @@
 # Senate Bill 5530
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5530.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5530.pdf)
 ## Section 1
 > This section modifies existing section [43.63A.750](/rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md). Here is the [modified chapter](rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md) for context.
 

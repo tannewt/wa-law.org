@@ -1,6 +1,6 @@
 # Senate Bill 5057
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5057.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5057.pdf)
 ## Section 1
 1. Washington professional educator standards board-approved teacher preparation programs may recommend candidates for residency teacher certification who have not completed a teaching performance assessment. A professional educator standards board-approved teacher preparation program must recommend for residency teacher certification any candidate who has not completed a teaching performance assessment in current or previous years if the candidate has met all other requirements for program completion.
 

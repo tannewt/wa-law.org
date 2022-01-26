@@ -1,6 +1,6 @@
 # House Bill 1631
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1631.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1631.pdf)
 ## Section 1
 The legislature finds that Washington's farmers and food processors are vital to the local and global food chain. In particular, Washington is home to innovative and conservation-minded food producers who lead the nation and the world in producing healthful food on a sustainable basis. The legislature also recognizes the seriousness of climate change and is committed to improving Washington's resilience to impacts to all business sectors, including agriculture. Moreover, the agricultural community can play a key role in combating climate change by increasing energy efficiency, utilizing more green energy resources, increasing carbon sequestration, and reducing greenhouse gas emissions. Washington has a tradition of voluntarily engaging farmers with technical assistance to achieve objectives of the state, including clean air and clean water.
 

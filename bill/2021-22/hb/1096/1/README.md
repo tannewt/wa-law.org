@@ -1,6 +1,6 @@
 # House Bill 1096 - Session Law Chapter 060 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1096.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1096.SL.pdf)
 ## Section 1
 > This section modifies existing section [48.41.100](/rcw/48_insurance/48.041_health_insurance_coverage_access_act.md). Here is the [modified chapter](rcw/48_insurance/48.041_health_insurance_coverage_access_act.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1829
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1829.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1829.pdf)
 ## Section 1
 1. The legislature finds that African American studies is a multidisciplinary academic field primarily devoted to the study, politics, culture, achievements, history, characteristics, and issues of people of African descent in North America. The legislature acknowledges that this field of study challenges the sociohistorical and cultural content and definition of western ideology and argues for a multicultural, rather than a eurocentric, interpretation of the western hemisphere. The legislature realizes that efforts to integrate African American studies into social studies curriculum and mainstream education in the United States date back to 1915.
 

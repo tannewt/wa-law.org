@@ -1,6 +1,6 @@
 # Third Substitute House Bill 1091 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1091-S3.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1091-S3.pdf)
 ## Section 1
 1. The legislature finds that rapid innovations in low carbon transportation technologies, including electric vehicles and clean transportation fuels, are at the threshold of widespread commercial deployment. In order to help prompt the use of clean fuels, other states have successfully implemented programs that reduce the carbon intensity of their transportation fuels. California and Oregon have both implemented low carbon fuel standards that are similar to the program created in this act; after enacting their programs, neither state has experienced disruptions to fuel markets or significant impacts to the costs of transportation fuels, and both states have experienced biofuel sector growth and have successfully sited large biofuel projects that had originally been planned for Washington. Washington state has extensively studied the potential impact of a clean fuels program, and most projections show that a low carbon fuel standard would decrease greenhouse gas and conventional air pollutant emissions, while positively impacting the state's economy.
 

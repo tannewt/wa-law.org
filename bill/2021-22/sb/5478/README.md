@@ -1,5 +1,5 @@
 # SB 5478 - Unemployment insurance
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5478&Year=2021)
+*Status: Effective date 5/12/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5478&Year=2021)
 
 Concerning unemployment insurance relief for certain employers.
 

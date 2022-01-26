@@ -1,6 +1,6 @@
 # Substitute House Bill 1227 as Recommended by Children, Youth & Families
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1227-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1227-S.pdf)
 ## Section 1
 This act may be known and cited as the keeping families together act.
 

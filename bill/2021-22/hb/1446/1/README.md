@@ -1,6 +1,6 @@
 # House Bill 1446
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1446.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1446.pdf)
 ## Section 1
 > This section modifies existing section [19.285.040](/rcw/19_business_regulations—miscellaneous/19.285_energy_independence_act.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.285_energy_independence_act.md) for context.
 

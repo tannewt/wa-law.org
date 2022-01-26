@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5381 as Recommended by Transportation - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5381-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5381-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [77.55.181](/rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.055_construction_projects_in_state_waters.md) for context.
 

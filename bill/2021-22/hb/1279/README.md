@@ -1,5 +1,5 @@
 # HB 1279 - Main street program
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1279&Year=2021)
+*Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1279&Year=2021)
 
 Modifying the Washington main street program tax incentive to respond to the economic impacts of the COVID-19 pandemic.
 

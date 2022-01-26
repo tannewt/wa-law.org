@@ -1,6 +1,6 @@
 # House Bill 1042 - Session Law Chapter 023 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1042.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1042.SL.pdf)
 ## Section 1
 > This section modifies existing section [26.27.051](/rcw/26_domestic_relations/26.27_uniform_child_custody_jurisdiction_and_enforcement_act.md). Here is the [modified chapter](rcw/26_domestic_relations/26.27_uniform_child_custody_jurisdiction_and_enforcement_act.md) for context.
 

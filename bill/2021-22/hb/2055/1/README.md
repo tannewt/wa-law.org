@@ -1,6 +1,6 @@
 # House Bill 2055
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2055.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2055.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28B.07](/rcw/28B_higher_education/28B.007_washington_higher_education_facilities_authority.md). Here is the [modified chapter](rcw/28B_higher_education/28B.007_washington_higher_education_facilities_authority.md) for context.
 

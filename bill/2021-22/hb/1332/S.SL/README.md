@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1332 - Session Law Chapter 073 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1332-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1332-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [84.56.020](/rcw/84_property_taxes/84.56_collection_of_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.56_collection_of_taxes.md) for context.
 

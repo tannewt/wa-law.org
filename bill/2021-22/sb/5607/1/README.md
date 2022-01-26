@@ -1,6 +1,6 @@
 # Senate Bill 5607
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5607.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5607.pdf)
 ## Section 1
 The legislature finds the official annual point-in-time count of homeless individuals in Washington state significantly understates the extent of Washington's homelessness problem by excluding individuals who are in jail or in a hospital on the day of the count but were homeless before entering the facility. In Thurston county, which voluntarily collects this information, the most recent count found that individuals in jails and hospitals who were homeless before entering such facilities would have increased the county's official homeless census by almost 40 percent.
 

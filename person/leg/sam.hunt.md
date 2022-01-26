@@ -1,27 +1,27 @@
 # Sam Hunt
 ## Bills
-* [SB 5002](bill/2021-22/sb/5002/) - State auditor
-* [SB 5013](bill/2021-22/sb/5013/) - Local redistricting deadline
-* [SB 5014](bill/2021-22/sb/5014/) - Odd-numbered year ballots
-* [SB 5015](bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes
-* [SB 5021](bill/2021-22/sb/5021/) - Retirement benefits/furlough
-* [SB 5098](bill/2021-22/sb/5098/) - Reports
-* [SB 5224](bill/2021-22/sb/5224/) - Land survey markers
-* [SB 5225](bill/2021-22/sb/5225/) - Direct appeals/APA, land use
-* [SB 5250](bill/2021-22/sb/5250/) - Citizens' initiative review
-* [SB 5265](bill/2021-22/sb/5265/) - Bridge year pilot program
-* [SB 5303](bill/2021-22/sb/5303/) - FDA nonpublic information
-* [SB 5395](bill/2021-22/sb/5395/) - State resources/remote work
-* [SB 5426](bill/2021-22/sb/5426/) - Wealth tax
-* [SB 5538](bill/2021-22/sb/5538/) - Aerial imaging technology
-* [SB 5539](bill/2021-22/sb/5539/) - Ed. service district funding
-* [SB 5540](bill/2021-22/sb/5540/) - Election dates and timelines
-* [SB 5570](bill/2021-22/sb/5570/) - Capitol grounds/major works
-* [SB 5579](bill/2021-22/sb/5579/) - WMS bargaining
-* [SB 5582](bill/2021-22/sb/5582/) - Port commission districts
-* [SB 5636](bill/2021-22/sb/5636/) - Automatic voter registration
-* [SB 5698](bill/2021-22/sb/5698/) - Plan 1 retiree COLAs
-* [SB 5756](bill/2021-22/sb/5756/) - Semiquincentennial committee
-* [SB 5905](bill/2021-22/sb/5905/) - Outdoor school
-* [SB 5917](bill/2021-22/sb/5917/) - Productivity board
-* [SB 5925](bill/2021-22/sb/5925/) - Outdoor school
+* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | First reading, referred to State Government & Tribal Relations.
+* [SB 5013](/bill/2021-22/sb/5013/) - Local redistricting deadline | Effective date 5/3/2021*.
+* [SB 5014](/bill/2021-22/sb/5014/) - Odd-numbered year ballots | By resolution, reintroduced and retained in present status.
+* [SB 5015](/bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes | Effective date 7/25/2021.
+* [SB 5021](/bill/2021-22/sb/5021/) - Retirement benefits/furlough | Effective date 7/25/2021.
+* [SB 5098](/bill/2021-22/sb/5098/) - Reports | By resolution, reintroduced and retained in present status.
+* [SB 5224](/bill/2021-22/sb/5224/) - Land survey markers | By resolution, reintroduced and retained in present status.
+* [SB 5225](/bill/2021-22/sb/5225/) - Direct appeals/APA, land use | Effective date 6/13/2021*.
+* [SB 5250](/bill/2021-22/sb/5250/) - Citizens' initiative review | By resolution, reintroduced and retained in present status.
+* [SB 5265](/bill/2021-22/sb/5265/) - Bridge year pilot program | Senate Rules "X" file.
+* [SB 5303](/bill/2021-22/sb/5303/) - FDA nonpublic information | Effective date 7/25/2021.
+* [SB 5395](/bill/2021-22/sb/5395/) - State resources/remote work | By resolution, reintroduced and retained in present status.
+* [SB 5426](/bill/2021-22/sb/5426/) - Wealth tax | By resolution, reintroduced and retained in present status.
+* [SB 5538](/bill/2021-22/sb/5538/) - Aerial imaging technology | First reading, referred to State Government & Elections.
+* [SB 5539](/bill/2021-22/sb/5539/) - Ed. service district funding | First reading, referred to Ways & Means.
+* [SB 5540](/bill/2021-22/sb/5540/) - Election dates and timelines | First reading, referred to State Government & Elections.
+* [SB 5570](/bill/2021-22/sb/5570/) - Capitol grounds/major works | First reading, referred to State Government & Elections.
+* [SB 5579](/bill/2021-22/sb/5579/) - WMS bargaining | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Passed to Rules Committee for second reading.
+* [SB 5636](/bill/2021-22/sb/5636/) - Automatic voter registration | First reading, referred to State Government & Elections.
+* [SB 5698](/bill/2021-22/sb/5698/) - Plan 1 retiree COLAs | First reading, referred to Ways & Means.
+* [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | First reading, referred to State Government & Elections.
+* [SB 5905](/bill/2021-22/sb/5905/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.
+* [SB 5917](/bill/2021-22/sb/5917/) - Productivity board | First reading, referred to State Government & Elections.
+* [SB 5925](/bill/2021-22/sb/5925/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.

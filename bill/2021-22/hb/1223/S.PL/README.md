@@ -1,6 +1,6 @@
 # Substitute House Bill 1223 as Recommended by Transportation - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1223-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1223-S.PL.pdf)
 ## Section 1
 This chapter may be known and cited as the uniform electronic recordation of custodial interrogations act.
 

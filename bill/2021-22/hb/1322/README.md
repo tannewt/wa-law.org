@@ -1,5 +1,5 @@
 # HB 1322 - Off-road vehicle enforcement
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1322&Year=2021)
+*Status: Effective date 10/1/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1322&Year=2021)
 
 Addressing off-road vehicle and snowmobile registration enforcement.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1283 as Recommended by Civil Rights & Judiciary
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1283-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1283-S.pdf)
 ## Section 1
 > This section modifies existing section [9A.84.010](/rcw/09A_washington_criminal_code/9A.84_public_disturbance.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.84_public_disturbance.md) for context.
 

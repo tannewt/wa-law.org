@@ -1,6 +1,6 @@
 # Senate Bill 5046 - Session Law Chapter 089 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5046.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5046.SL.pdf)
 ## Section 2
 > This section modifies existing section [51.04.062](/rcw/51_industrial_insurance/51.04_general_provisions.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.04_general_provisions.md) for context.
 

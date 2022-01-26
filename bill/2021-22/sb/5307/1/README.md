@@ -1,6 +1,6 @@
 # Senate Bill 5307
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5307.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5307.pdf)
 ## Section 101
 This act may be cited as the uniform pretrial release and detention act.
 

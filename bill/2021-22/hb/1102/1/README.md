@@ -1,6 +1,6 @@
 # House Bill 1102
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1102.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1102.pdf)
 ## Section 1
 The legislature further finds that the lack of adequate federal meat inspection facilities makes it difficult for rural and small-scale livestock producers to legally sell their meat.
 

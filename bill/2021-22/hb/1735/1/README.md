@@ -1,6 +1,6 @@
 # House Bill 1735
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1735.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1735.pdf)
 ## Section 1
 1. In 2021, the legislature passed Engrossed Second Substitute House Bill No. 1310, codified as chapter 10.120 RCW, with the goal of establishing a uniform statewide standard for use of force by peace officers. The standard emphasizes the importance of exercising reasonable care and preserving and protecting human life. However, the complexities and nuances of police practices and applicable laws, both in statute and common law, have posed implementation challenges for some law enforcement agencies. For that reason, the legislature hereby recognizes the urgent need to provide clarification and guidance for law enforcement agencies and the public.
 

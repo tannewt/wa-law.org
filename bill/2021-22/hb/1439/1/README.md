@@ -1,6 +1,6 @@
 # House Bill 1439
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1439.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1439.pdf)
 ## Section 1
 Washington is home to hundreds of thousands of men and women who protect us through their service in the United States armed forces. There is a strong commitment, respect, and interest for the armed forces that is prevalent in celebrations, parades, community events, fundraisers, and exhibitions throughout Washington communities. Military vehicles are iconic, patriotic, and stir a sense of nostalgic and civic pride. Therefore, the legislature recognizes there is a public interest in allowing vehicles that have been an active part of military operations to be able to operate on the public highways to be involved in parades, veterans' events, car club activities, community events, exhibitions, and other similarly limited circumstances. Military-issued vehicles, such as the high mobility multipurpose wheeled vehicle, include operational safety equipment to protect drivers and passengers of the vehicle, yet do not meet all of the federal vehicle requirements. They are built to drive on United States highways and beyond in much less pristine conditions. Therefore, this act authorizes travel for military surplus vehicles in good operating order to traverse Washington's public highways in limited circumstances.
 

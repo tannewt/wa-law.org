@@ -1,6 +1,6 @@
 # House Bill 1724
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1724.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1724.pdf)
 ## Section 1
 The legislature recognizes permanent supportive housing as an evidence-based practice to ending the cycle of chronic homelessness and creating affordable housing for people living with behavioral health conditions, other disabling conditions, and extremely low incomes. The legislature finds that as greater investment has been allocated for permanent supportive housing capital, operations, maintenance, and services in order to meet the need in communities across the state, greater coordination of state and local resources is required to ensure these resources are being leveraged effectively so that the maximum number of high quality permanent supportive housing units are created each year. Therefore, the legislature intends to create a permanent supportive housing advisory committee to provide advice, recommendations, stakeholder engagement, and oversight of resource coordination to bring high quality permanent supportive housing to scale as efficiently as possible and to add a permanent supportive housing representative to the affordable housing advisory board.
 

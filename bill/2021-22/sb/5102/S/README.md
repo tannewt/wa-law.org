@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5102 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5102-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5102-S.pdf)
 ## Section 1
 > This section modifies existing section [51.36.070](/rcw/51_industrial_insurance/51.36_medical_aid.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.36_medical_aid.md) for context.
 

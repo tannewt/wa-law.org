@@ -1,6 +1,6 @@
 # House Bill 1853
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1853.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1853.pdf)
 ## Section 1
 1. The legislature finds that certain chemicals used in cosmetic products are linked to harmful impacts on health, such as cancer, birth defects, damage to the reproductive system, organ system toxicity, and endocrine disruption. Many of these chemicals have been identified by the state of Washington as high priority chemicals of concern.
 

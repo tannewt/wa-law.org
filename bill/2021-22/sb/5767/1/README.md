@@ -1,6 +1,6 @@
 # Senate Bill 5767
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5767.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5767.pdf)
 ## Section 1
 Since the inception of the legal, regulated marketplace for cannabis in Washington state, the industry across the United States continues to innovate and evolve. The legislature finds that while the legal, regulated industry has striven to provide safe products to consumers, the illicit market has continued to find ways to avoid regulation, resulting in unregulated, untested, and potentially unsafe products available outside of the regulated market. Due to this and the evolving nature of new cannabinoids identified in the Cannabis sativa L. plant, the legislature finds there is a need to provide consumers legal access to safe products in the regulated cannabis market. The legislature further finds there is a need to ensure appropriate labeling, serving size, and disclosure standards for any regulated cannabinoid. The legislature intends to create a robust regulatory framework for naturally occurring cannabinoids found in the Cannabis sativa L. plant while allowing continued innovation in the regulated market.
 

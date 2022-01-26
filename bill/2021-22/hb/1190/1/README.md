@@ -1,6 +1,6 @@
 # House Bill 1190
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1190.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1190.pdf)
 ## Section 1
 The legislature intends to develop and implement an economic development strategy to promote the new space economy and broaden the geographic distribution of employment and training opportunities in that sector. The current space economy is valued at hundreds of billions of dollars, and market analysts advise that a trillion dollar space economy is imminent. The legislature declares its objective that Washington state pursue as much of this economic opportunity as possible. The legislature intends for Washington state to compete aggressively for any federal dollars appropriated in support of civilian opportunities and military missions related to the new space economy.
 

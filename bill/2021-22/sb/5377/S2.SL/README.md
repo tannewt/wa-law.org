@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5377 - Session Law Chapter 246 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5377-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5377-S2.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.71](/rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md). Here is the [modified chapter](rcw/43_state_government—executive/43.071_washington_health_benefit_exchange.md) for context.
 

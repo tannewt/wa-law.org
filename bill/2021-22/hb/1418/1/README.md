@@ -1,6 +1,6 @@
 # House Bill 1418
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1418.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1418.pdf)
 ## Section 1
 1. The legislature recognizes that rail safety is critical to the impacts of the state's transportation network on public safety and the environment. On December 18, 2017, a passenger train derailed from a bridge near DuPont, Washington. Three passengers were killed and 57 passengers and crewmembers were injured. While the 2017 derailment had particularly tragic consequences, the risks to public safety and the environment are underscored by other rail incidents that have occurred in the past several years, including the freight train transporting oil derailment and resulting fire on June 3, 2016, in the Columbia river gorge, near Mosier, Oregon, while in route to Tacoma, Washington, and the derailment of a freight train transporting oil through Custer, Washington, in late 2020 that also resulted in a fire.
 

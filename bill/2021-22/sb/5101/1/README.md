@@ -1,6 +1,6 @@
 # Senate Bill 5101 - Session Law Chapter 233 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5101.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5101.SL.pdf)
 ## Section 1
 > This section modifies existing section [38.52.040](/rcw/38_militia_and_military_affairs/38.52_emergency_management.md). Here is the [modified chapter](rcw/38_militia_and_military_affairs/38.52_emergency_management.md) for context.
 

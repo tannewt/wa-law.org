@@ -1,6 +1,6 @@
 # Senate Bill 5686
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5686.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5686.pdf)
 ## Section 1
 > This section modifies existing section [43.06C.020](/rcw/43_state_government—executive/43.006C_office_of_the_corrections_ombuds.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006C_office_of_the_corrections_ombuds.md) for context.
 

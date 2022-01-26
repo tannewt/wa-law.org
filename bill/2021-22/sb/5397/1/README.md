@@ -1,6 +1,6 @@
 # Senate Bill 5397
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5397.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5397.pdf)
 ## Section 1
 The legislature finds that involuntary treatment is a safety net service for adults and children experiencing a behavioral health crisis in Washington, some of whom experience anosognosia, a condition in which a person is unaware of having a brain disease. Washington law requires managed care organizations and behavioral health administrative services organizations to provide an adequate network of involuntary treatment services under RCW 71.24.045 and 71.24.490. This safety net is undermined when facilities decline to admit certain persons despite having certified treatment capacity available. This legislation provides a means to collect information about why persons in crisis who are denied admission into facilities with available capacity and a means to enlist managed care organizations and behavioral health administrative services organizations to support placement efforts for persons in crisis.
 

@@ -1,6 +1,6 @@
 # House Bill 1653
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1653.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1653.pdf)
 ## Section 1
 The legislature finds that in recognition of the cultural, treaty, economic, recreational, and legal importance of salmon in Washington, many state government agencies' role is to implement policy and laws, and they devote significant program attention and resources to supporting the recovery, viability, and protection of anadromous fish. Further, the legislature recognizes the importance of a coordinated approach to statewide salmon recovery not just between state agencies, but also in partnership with the state's tribal comanagers. The legislature intends to ensure that all pertinent state agencies share in and support the mission of recovering and protecting salmon in Washington by incorporating that goal into each agency's mission, and by creating a venue through which state agencies and tribes can come together to review overall progress towards salmon recovery. However, the legislature does not intend to reallocate among state agencies any existing programs or responsibilities related to salmon recovery in Washington through this act.
 

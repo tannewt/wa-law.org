@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1097 as Recommended by Labor & Workplace Standards - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1097-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1097-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [49.17.130](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.
 

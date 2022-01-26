@@ -1,6 +1,6 @@
 # Senate Bill 5606
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5606.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5606.pdf)
 ## Section 2
 1. A qualifying adult family home may receive up to $5,000 in grant funding. Grants must be used for one-time costs associated with equipping and installing portable air conditioning units in resident's bedrooms and common areas, or updating the adult family home's heating, ventilation, and air conditioning system to include air conditioning.
 

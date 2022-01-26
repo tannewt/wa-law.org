@@ -1,6 +1,6 @@
 # Senate Bill 5876
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5876.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5876.pdf)
 ## Section 1
 1. The legislature finds that congestion upon the roadways of the state is increasing with major negative impacts on environmental, economic, and human health. Actions to increase the efficient utilization of our infrastructure and the resilience of communities can prevent and reduce the impacts of congestion, negative impacts to our environment, and improve the quality of life. Unreasonably limiting the provision of essential services increases congestion, carbon emissions, and economic costs.
 

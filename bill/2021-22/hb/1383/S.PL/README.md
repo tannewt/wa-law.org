@@ -1,6 +1,6 @@
 # Substitute House Bill 1383 as Recommended by Health Care & Wellness - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1383-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1383-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [18.89.010](/rcw/18_businesses_and_professions/18.089_respiratory_care_practitioners.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.089_respiratory_care_practitioners.md) for context.
 

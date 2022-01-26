@@ -1,6 +1,6 @@
 # House Bill 1673
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1673.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1673.pdf)
 ## Section 1
 > This section modifies existing section [43.155.160](/rcw/43_state_government—executive/43.155_public_works_projects.md). Here is the [modified chapter](rcw/43_state_government—executive/43.155_public_works_projects.md) for context.
 

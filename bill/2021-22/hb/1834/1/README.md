@@ -1,6 +1,6 @@
 # House Bill 1834
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1834.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1834.pdf)
 ## Section 1
 After hearing from youth across the state of Washington, the legislature recognizes that students' mental health is a component of their physical health and that students' mental health can affect their ability to learn. The legislature finds that school districts are not consistently recognizing student absences for mental health reasons as excused absences. Therefore, the legislature intends to require that student absences for mental health reasons be categorized as excused absences.
 

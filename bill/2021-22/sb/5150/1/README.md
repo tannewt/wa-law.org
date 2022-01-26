@@ -1,6 +1,6 @@
 # Senate Bill 5150
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5150.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5150.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [71A.12](/rcw/71A_developmental_disabilities/71A.12_state_services.md). Here is the [modified chapter](rcw/71A_developmental_disabilities/71A.12_state_services.md) for context.
 

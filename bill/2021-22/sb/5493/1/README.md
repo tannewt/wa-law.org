@@ -1,6 +1,6 @@
 # Senate Bill 5493
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5493.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5493.pdf)
 ## Section 1
 > This section modifies existing section [82.16.165](/rcw/82_excise_taxes/82.16_public_utility_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.16_public_utility_tax.md) for context.
 

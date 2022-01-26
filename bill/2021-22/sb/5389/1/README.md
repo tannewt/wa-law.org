@@ -1,6 +1,6 @@
 # Senate Bill 5389
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5389.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5389.pdf)
 ## Section 1
 1. The legislature finds that computer science opens more doors for students than any other discipline in today's world and will be a vital component of a diverse and robust economy moving forward.
 

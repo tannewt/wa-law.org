@@ -1,6 +1,6 @@
 # House Bill 1776
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1776.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1776.pdf)
 ## Section 1
 > This section modifies existing section [49.80.010](/rcw/49_labor_regulations/49.80_high_hazard_facilities—workforce.md). Here is the [modified chapter](rcw/49_labor_regulations/49.80_high_hazard_facilities—workforce.md) for context.
 

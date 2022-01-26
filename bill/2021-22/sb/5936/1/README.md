@@ -1,6 +1,6 @@
 # Senate Bill 5936
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5936.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5936.pdf)
 ## Section 1
 1. The legislature finds that severe flooding hit Whatcom county in November of 2021, causing significant damage and immediate disruption to agricultural production including crop loss, livestock loss, and damage to facilities. The legislature finds that financial relief and recovery resources are often necessary for the survival of farms and ranches impacted by such destructive natural disasters.
 

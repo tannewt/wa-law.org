@@ -1,6 +1,6 @@
 # House Bill 1730
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1730.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1730.pdf)
 ## Section 1
 1. The legislature finds that:
 

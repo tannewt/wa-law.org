@@ -1,6 +1,6 @@
 # Senate Bill 5341
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5341.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5341.pdf)
 ## Section 1
 > This section modifies existing section [82.14.450](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
 

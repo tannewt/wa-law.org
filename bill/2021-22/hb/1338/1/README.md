@@ -1,6 +1,6 @@
 # House Bill 1338
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1338.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1338.pdf)
 ## Section 1
 1. The legislature finds that Article IX, section 1 of the state Constitution provides that "It is the paramount duty of the state to make ample provision for the education of all children residing within its borders, without distinction or preference on account of race, color, caste, or sex."
 

@@ -1,6 +1,6 @@
 # Senate Bill 5316
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5316.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5316.pdf)
 ## Section 1
 The legislature finds that by constitutional design Washington's legislature has since statehood been a citizen legislature comprising individuals who conduct the people's business and then return to Washington's diverse communities to resume their lives as private individuals. The constitutional design of a part-time citizen legislature relies on the effective delegation of state fiscal authority to the executive branch and effective executive branch implementation of its authority to make expenditures on behalf of the state, along with appropriate oversight of this delegation and implementation. Therefore, the legislature finds it necessary to clarify delegated powers to the executive branch to effectively manage the state's finances while the legislature is not in session and to provide oversight during the legislative interim. Specifically, the legislature finds the power delegated to the governor to accept and expend unanticipated revenues requires a defined oversight board to prevent infringement on the legislature's sole constitutional power to appropriate state funds. Therefore, the legislature intends to revise the powers and processes to manage the state's finances and creates a joint legislative committee to provide legislative input and oversight of executive branch spending activities while the legislature is not in session.
 

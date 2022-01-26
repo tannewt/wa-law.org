@@ -1,6 +1,6 @@
 # Senate Bill 5210
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5210.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5210.pdf)
 ## Section 1
 > This section modifies existing section [10.77.086](/rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.077_criminally_insane—procedures.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1536
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1536.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1536.pdf)
 ## Section 1
 The legislature finds that apprenticeship programs provide important graduation pathways and future career opportunities to students. These programs also benefit employers, providing an opportunity to train students for jobs in industries important to local communities.
 

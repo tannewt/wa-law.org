@@ -1,6 +1,6 @@
 # House Bill 1571
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1571.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1571.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [68.50](/rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md). Here is the [modified chapter](rcw/68_cemeteries_morgues_and_human_remains/68.50_human_remains.md) for context.
 

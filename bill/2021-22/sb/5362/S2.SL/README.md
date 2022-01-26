@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5362 - Session Law Chapter 245 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5362-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5362-S2.SL.pdf)
 ## Section 1
 1. The legislature found in 1961 that it is in the public interest to hold agricultural fairs to train youth, to educate the public about the production of food and fiber, and to promote the welfare of farm people and rural living. The legislature finds that the fair fund was created for the purpose of encouraging agricultural fairs and training rural youth. The legislature finds that despite the original expectations, the fair fund has not increased, and this lack of increased support has made it difficult to maintain youth programs. Research has shown that youth who participate in fairs are more likely to get better grades, attend college, and positively contribute to their families and communities.
 

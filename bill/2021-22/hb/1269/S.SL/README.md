@@ -1,6 +1,6 @@
 # Substitute House Bill 1269 - Session Law Chapter 161 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1269-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1269-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [46.76.030](/rcw/46_motor_vehicles/46.76_motor_vehicle_transporters.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.76_motor_vehicle_transporters.md) for context.
 

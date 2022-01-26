@@ -1,6 +1,6 @@
 # Senate Bill 5623
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5623.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5623.pdf)
 ## Section 1
 The purpose of this act is to provide insurance consumers the best possible outcome from the use of credit history in the underwriting of their insurance and the determination of their premium at renewal. The use of credit history shall neither make insurance coverage more unaffordable for insureds whose credit scores decrease, nor increase it for insureds on fixed incomes who have benefited from low rates because of the use of credit-based insurance scores. By providing this consumer protection, the legislature intends to offer insurers an option to continue to predict risk effectively while limiting the negative outcomes a lower credit score may have on an insured's premium.
 

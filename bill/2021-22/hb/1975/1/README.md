@@ -1,6 +1,6 @@
 # House Bill 1975
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1975.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1975.pdf)
 ## Section 1
 The legislature recognizes the important role housing authorities play in providing much needed affordable housing to more than 35,000 households through their inventory of rental housing, including through workforce housing programs where housing authorities keep rents as low as possible and operate on very thin margins.
 

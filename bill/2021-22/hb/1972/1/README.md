@@ -1,6 +1,6 @@
 # House Bill 1972
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1972.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1972.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [46.61](/rcw/46_motor_vehicles/46.61_rules_of_the_road.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.61_rules_of_the_road.md) for context.
 

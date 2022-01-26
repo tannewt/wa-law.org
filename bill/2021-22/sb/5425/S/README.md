@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5425 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5425-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5425-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [50.22](/rcw/50_unemployment_compensation/50.22_extended_and_additional_benefits.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.22_extended_and_additional_benefits.md) for context.
 

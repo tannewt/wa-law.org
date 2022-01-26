@@ -1,6 +1,6 @@
 # House Bill 1694
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1694.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1694.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [70A.350](/rcw/70A_environmental_health_and_safety/70A.350_toxic_pollution.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.350_toxic_pollution.md) for context.
 

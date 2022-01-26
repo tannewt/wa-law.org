@@ -1,6 +1,6 @@
 # House Bill 1655
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1655.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1655.pdf)
 ## Section 1
 Commercial motor vehicle parking shortages are a national safety concern. Washington state has exacerbated the problem in the fall of 2021 by the closure of many state-owned and operated safety rest areas. All vehicle drivers need safe places to stop when they are tired to prevent serious and fatal injuries. Washington's target zero plan reports that drowsy driving was a factor in 44 deaths and 236 serious injuries from 2015-2017. One of the ways Washington's target zero plan addresses this issue is having available rest areas. The closure of state-owned safety rest areas is contrary to state policy to have zero deaths on the roadways.
 

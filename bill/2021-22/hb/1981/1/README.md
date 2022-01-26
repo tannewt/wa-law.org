@@ -1,6 +1,6 @@
 # House Bill 1981
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1981.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1981.pdf)
 ## Section 1
 The legislature finds that every Washington resident has a right to safe, healthy, secure, and affordable housing; and, that it is the responsibility of the state and all cities and counties to plan for all current and future residents within their jurisdictions of all income levels, race, ethnicities to have such housing.
 

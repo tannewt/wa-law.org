@@ -1,6 +1,6 @@
 # Senate Bill 5597
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5597.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5597.pdf)
 ## Section 1
 > This section modifies existing section [29A.92.020](/rcw/29A_elections/29A.92_voting_rights_act.md). Here is the [modified chapter](rcw/29A_elections/29A.92_voting_rights_act.md) for context.
 

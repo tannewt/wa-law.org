@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5404 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5404-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5404-S.pdf)
 ## Section 1
 1. The legislature finds that salmon and steelhead, of which many stocks are federally listed as threatened species in Puget Sound, are of great importance to the culture of all peoples of the Pacific Northwest and are an important link in the food chain. Not only are salmon important to humankind, but salmon are a main food source for critically endangered southern resident orcas. The legislature further finds that pinnipeds such as sea lions and seals are also culturally valuable and protected under federal law, but nevertheless may pose a significant threat to salmon and orca recovery through ongoing predation. In addition, pinnipeds are prey to federally protected transient killer whales.  Because of the particularly delicate wildlife management questions posed by competition between pinnipeds, orcas, salmon, and other biota in the ecosystem, the state should consult with federally recognized Indian tribes that comanage salmon and seek feedback from a wide array of other parties while deciding on an appropriate course of action to address pinniped predation of salmon.
 

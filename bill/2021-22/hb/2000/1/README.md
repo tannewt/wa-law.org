@@ -1,6 +1,6 @@
 # House Bill 2000
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2000.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2000.pdf)
 ## Section 1
 1. The legislature recognizes that Article IX of the state Constitution establishes that the paramount duty of the state is to make ample provision for the education of all children residing within its borders, and that statute assigns the duty of distributing basic education funds appropriated by the legislature to the superintendent of public instruction.
 

@@ -1,6 +1,6 @@
 # House Bill 1449
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1449.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1449.pdf)
 ## Section 1
 1. The legislature recognizes the hidden pandemic of domestic violence occurring alongside the COVID-19 pandemic. As early as June 2020, experts were reporting increases in the incidence and severity of domestic violence. The causes are multifaceted, including layoffs, loss of income, extended stay-at-home orders, and psychological stressors. At the same time, victims are facing unprecedented challenges in safely connecting with services. Homicide rates are now increasing across the nation. These trends cannot be ignored. Therefore, the legislature finds that the state must act to address abusive and unstable behavior before it escalates to life-threatening violence.
 

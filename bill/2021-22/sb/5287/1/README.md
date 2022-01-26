@@ -1,6 +1,6 @@
 # Senate Bill 5287
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5287.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5287.pdf)
 ## Section 1
 > This section modifies existing section [84.14.005](/rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md). Here is the [modified chapter](rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md) for context.
 

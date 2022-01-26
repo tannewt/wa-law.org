@@ -1,6 +1,6 @@
 # House Bill 1648
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1648.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1648.pdf)
 ## Section 1
 > This section modifies existing section [18.04.015](/rcw/18_businesses_and_professions/18.004_accountancy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.004_accountancy.md) for context.
 

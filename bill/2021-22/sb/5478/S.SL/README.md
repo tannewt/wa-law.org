@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5478 - Session Law Chapter 292 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5478-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5478-S.SL.pdf)
 ## Section 1
 1. The legislature finds that certain businesses in Washington have experienced significant and unanticipated impacts during the COVID-19 pandemic. The legislature intends to preemptively minimize the disproportionate impact COVID-19 economic closures have had on these businesses.
 

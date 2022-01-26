@@ -1,6 +1,6 @@
 # House Bill 1009 - Session Law Chapter 053 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1009.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1009.SL.pdf)
 ## Section 1
 > This section modifies existing section [48.43.073](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
 

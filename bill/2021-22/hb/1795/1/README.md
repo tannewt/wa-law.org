@@ -1,6 +1,6 @@
 # House Bill 1795
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1795.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1795.pdf)
 ## Section 1
 The legislature recognizes that there exists a strong public policy in favor of the disclosure of illegal discrimination, illegal harassment, illegal retaliation, wage and hour violations, and sexual assault, that is recognized as illegal under Washington state, federal, or common law, or that is recognized as against a clear mandate of public policy, that occurs at the workplace, at work-related events coordinated by or through the employer, between employees, or between an employer and an employee, whether on or off the employment premises. Nondisclosure and nondisparagement provisions in agreements between employers and current, former, prospective employees, and independent contractors have become routine and perpetuate illegal conduct by silencing those who are victims or who have knowledge of illegal discrimination, illegal harassment, illegal retaliation, wage and hour violations, or sexual assault. It is the intent of the legislature to prohibit nondisclosure and nondisparagement provisions in agreements, which defeat the strong public policy in favor of disclosure.
 

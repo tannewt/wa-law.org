@@ -1,6 +1,6 @@
 # Senate Bill 5862
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5862.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5862.pdf)
 ## Section 1
 > This section modifies existing section [36.165.060](/rcw/36_counties/36.165_commercial_property_assessed_clean_energy_and_resiliency_(c-pacer)_program.md). Here is the [modified chapter](rcw/36_counties/36.165_commercial_property_assessed_clean_energy_and_resiliency_(c-pacer)_program.md) for context.
 

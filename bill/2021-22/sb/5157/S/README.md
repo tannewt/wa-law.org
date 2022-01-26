@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5157 as Recommended by Subcommittee on Behavioral Health
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5157-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5157-S.pdf)
 ## Section 1
 The legislature finds that in 2013 the legislature adopted outcome expectations for entities that contract with the state to provide health services in order to guide purchasing strategies by the health care authority and department of social and health services. Since then, the health care authority has established a performance measures coordinating committee and implemented performance terms in managed care contracts including, but not limited to, performance measurement requirements, mandatory performance improvement projects, and value-based purchasing terms.
 

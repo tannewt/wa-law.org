@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1176 as Recommended by Education - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1176-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1176-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [28A.635.060](/rcw/28A_common_school_provisions/28A.635_offenses_relating_to_school_property_and_personnel.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.635_offenses_relating_to_school_property_and_personnel.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1831
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1831.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1831.pdf)
 ## Section 1
 The legislature finds that consistent training standards for electric vehicle support equipment installations will provide interoperability, customer access, and reliability to electric vehicle support equipment. The legislature therefore intends to establish installation and related certification requirements for this specialty equipment.
 

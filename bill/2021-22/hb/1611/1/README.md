@@ -1,6 +1,6 @@
 # House Bill 1611
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1611.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1611.pdf)
 ## Section 1
 The legislature finds that, for highly capable students, access to accelerated learning and enhanced instruction is access to a basic education. The legislature has directed school districts to prioritize equitable identification of low-income students for participation in highly capable programs and services. The research literature strongly supports using universal screening and multiple criteria to equitably identify students for highly capable programs. There are multiple approaches to implementing universal screening and the use of multiple criteria. The legislature intends all school districts to use best practices and does not intend to prescribe a single method.
 

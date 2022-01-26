@@ -1,6 +1,6 @@
 # House Bill 1238
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1238.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1238.pdf)
 ## Section 1
 The legislature acknowledges that some Washingtonians may believe that they should pay more for the operation of state government. The legislature intends to establish the help out Washington state government program to facilitate voluntary contributions for the costs of government expenditures.
 

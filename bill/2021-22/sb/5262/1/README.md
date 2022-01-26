@@ -1,6 +1,6 @@
 # Senate Bill 5262
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5262.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5262.pdf)
 ## Section 1
 1. The legislature finds that the data center industry is experiencing explosive growth across the nation and the competition among states for data center investments has increased dramatically. A department of commerce study, 2018 State of the Data Center Industry, An Analysis of Washington's Competitiveness, found that data center growth in rural Washington is at the lower end of the growth rate experienced by other major competitive markets. If the state desires to attract more projects, Washington should improve its promotional strategy for this industry segment and reexamine the competitiveness of its overall incentives strategy.
 

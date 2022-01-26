@@ -1,6 +1,6 @@
 # House Bill 2032
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2032.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2032.pdf)
 ## Section 1
 1. The legislature finds that social media influencers can make significant amounts of money from the digital content they produce. Some influencers use their minor children as subjects of that content. Those children are generating interest in and revenue for the content, but receive no financial compensation for their participation. Unlike in child acting, these children are not playing a part, and lack legal protections.
 

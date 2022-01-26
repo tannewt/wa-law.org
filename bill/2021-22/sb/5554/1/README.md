@@ -1,6 +1,6 @@
 # Senate Bill 5554
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5554.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5554.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.65](/rcw/36_counties/36.065_combined_city_and_county_municipal_corporations.md). Here is the [modified chapter](rcw/36_counties/36.065_combined_city_and_county_municipal_corporations.md) for context.
 

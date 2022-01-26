@@ -1,6 +1,6 @@
 # Senate Bill 5783
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5783.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5783.pdf)
 ## Section 1
 1. The joint legislative task force on the underground economy in the Washington state construction industry is reestablished. For purposes of this section, "underground economy" means contracting and construction activities in which payroll is unreported or underreported with consequent nonpayment of payroll taxes to federal and state agencies including nonpayment of workers' compensation and unemployment compensation taxes.
 

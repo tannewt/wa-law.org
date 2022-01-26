@@ -1,6 +1,6 @@
 # Senate Bill 5708
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5708.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5708.pdf)
 ## Section 1
 1. The legislature finds that animals slaughtered for their fur endure tremendous suffering. Animals raised on fur farms typically spend their entire lives in cramped, filthy cages. Fur farmers typically use the cheapest killing methods available, including suffocation, electrocution, gas, and poison.
 

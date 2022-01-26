@@ -1,6 +1,6 @@
 # Senate Bill 5351
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5351.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5351.pdf)
 ## Section 1
 The legislature finds that the novel coronavirus disease COVID-19 has had a devastating impact on small businesses in the state of Washington, particularly those ordered to close their doors and cease or limit operations under the state of emergency that the governor declared on February 29, 2020. Many of those small businesses hold insurance policies that include coverage to replace income lost due to loss of or damage to the business premises or other business property. However, insurers are broadly denying claims under those policies, arguing that "loss" and "damage" are synonymous and that no claims are merited absent a showing of actual physical damages to the premises.
 

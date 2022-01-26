@@ -1,6 +1,6 @@
 # Senate Bill 5006
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5006.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5006.pdf)
 ## Section 1
 The legislature finds that Washington state will continue to see significant population growth, with office of financial management forecasts estimating nearly 2,000,000 more people by the year 2040. In the face of this dramatic growth, the legislature finds that it is more important than ever to help preserve, maintain, and enhance local parks, trails, and open spaces that are key contributors to the state's quality of life.
 

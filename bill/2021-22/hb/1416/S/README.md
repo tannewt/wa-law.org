@@ -1,6 +1,6 @@
 # Substitute House Bill 1416 as Recommended by Civil Rights & Judiciary
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1416-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1416-S.pdf)
 ## Section 1
 1. The legislature finds that it is in the interests of the citizens of the state of Washington to enhance and increase the efficiency of the processes for collecting child support debts owed to the state or owed to a custodial parent.
 

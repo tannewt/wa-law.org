@@ -1,6 +1,6 @@
 # Senate Bill 5841
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5841.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5841.pdf)
 ## Section 1
 1. The legislature finds the people of Washington have more reason to fear for their safety, with the incidence of violent crimes such as murder, rape, and aggravated assault reaching 25-year highs in the past few years, while the rate of property crime has ranked second highest in the nation over the past five years. The legislature also finds Washington ranks last in the nation for law enforcement officers per capita.
 

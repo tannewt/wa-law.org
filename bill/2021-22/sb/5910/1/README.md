@@ -1,6 +1,6 @@
 # Senate Bill 5910
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5910.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5910.pdf)
 ## Section 1
 1. The legislature finds that while hydrogen fuel has been used in a variety of applications in the state, the source of hydrogen has been derived from fossil fuel feedstocks, such as natural gas. Hydrogen is an essential building block molecule that is necessary in the production of conventional and renewable fuels and a valuable decarbonization tool when used in sectors such as marine, aviation, steel, and cement, as well as surface transportation including light to heavy-duty trucking and drayage equipment. Hydrogen can be a carbon-free fuel with an energy per unit mass that is three to four times greater than jet fuel, whose energy can be extracted either through thermochemical (combustion) or electrochemical (fuel cell) processes. In both cases, the only by-product is water, instead of the greenhouse gases and other conventional and toxic pollutants that are emitted from using fossil fuels.
 

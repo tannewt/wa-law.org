@@ -1,6 +1,6 @@
 # Senate Bill 5722
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5722.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5722.pdf)
 ## Section 1
 The legislature finds that in order to meet the statewide greenhouse gas emissions limits in RCW 70A.45.020, the state must require performance standards for existing buildings.
 

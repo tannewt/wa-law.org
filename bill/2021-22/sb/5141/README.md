@@ -1,7 +1,7 @@
 # SB 5141 - Env. justice task force recs
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5141&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5141&Year=2021)
 
-Implementing the recommendations of the environmental justice task force.
+Reducing environmental and health disparities and improving the health of all Washington state residents by implementing the recommendations of the environmental justice task force.
 
 ## Revisions
 * [Original Bill](1/)

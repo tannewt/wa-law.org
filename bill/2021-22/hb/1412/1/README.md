@@ -1,6 +1,6 @@
 # House Bill 1412
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1412.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1412.pdf)
 ## Section 1
 > This section modifies existing section [3.66.120](/rcw/03_district_courts—courts_of_limited_jurisdiction/3.66_jurisdiction_and_venue.md). Here is the [modified chapter](rcw/03_district_courts—courts_of_limited_jurisdiction/3.66_jurisdiction_and_venue.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5487
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5487.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5487.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.315](/rcw/28A_common_school_provisions/28A.315_organization_and_reorganization_of_school_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.315_organization_and_reorganization_of_school_districts.md) for context.
 

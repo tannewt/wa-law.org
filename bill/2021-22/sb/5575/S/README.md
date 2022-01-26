@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5575 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5575-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5575-S.pdf)
 ## Section 1
 > This section modifies existing section [2.08.064](/rcw/02_courts_of_record/2.08_superior_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.08_superior_courts.md) for context.
 

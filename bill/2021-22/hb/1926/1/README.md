@@ -1,6 +1,6 @@
 # House Bill 1926
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1926.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1926.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [29A.56](/rcw/29A_elections/29A.56_special_circumstances_elections.md). Here is the [modified chapter](rcw/29A_elections/29A.56_special_circumstances_elections.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5375 as Recommended by Housing & Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5375-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5375-S.pdf)
 ## Section 1
 The legislature finds that affordable housing is reaching crisis levels in rural areas. Rural counties appear to be at a disadvantage to be competitive for public housing tax money. The legislature finds that in order to appropriately address such issues, it is important that rural communities be provided with the appropriate levels of technical assistance in order to maximize the number of and financing available for affordable housing projects in such rural areas.
 

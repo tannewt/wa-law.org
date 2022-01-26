@@ -1,6 +1,6 @@
 # House Bill 1812
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1812.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1812.pdf)
 ## Section 1
 > This section modifies existing section [80.50.010](/rcw/80_public_utilities/80.50_energy_facilities—site_locations.md). Here is the [modified chapter](rcw/80_public_utilities/80.50_energy_facilities—site_locations.md) for context.
 

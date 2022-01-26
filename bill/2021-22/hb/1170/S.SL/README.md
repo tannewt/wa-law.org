@@ -1,6 +1,6 @@
 # Substitute House Bill 1170 - Session Law Chapter 064 Year 2021 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1170-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1170-S.SL.pdf)
 ## Section 1
 This act may be known and cited as the Washington BEST manufacturing act.
 

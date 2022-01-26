@@ -1,6 +1,6 @@
 # House Bill 1878
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1878.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1878.pdf)
 ## Section 1
 > This section modifies existing section [28A.235.300](/rcw/28A_common_school_provisions/28A.235_food_services.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.235_food_services.md) for context.
 

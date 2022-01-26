@@ -1,6 +1,6 @@
 # Senate Bill 5522
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5522.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5522.pdf)
 ## Section 1
 > This section modifies existing section [9A.36.031](/rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md) for context.
 

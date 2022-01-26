@@ -1,6 +1,6 @@
 # Senate Bill 5321
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5321.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5321.pdf)
 ## Section 2
 > This section modifies existing section [28B.118.040](/rcw/28B_higher_education/28B.118_college_bound_scholarship_program.md). Here is the [modified chapter](rcw/28B_higher_education/28B.118_college_bound_scholarship_program.md) for context.
 

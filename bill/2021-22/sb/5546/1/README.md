@@ -1,6 +1,6 @@
 # Senate Bill 5546
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5546.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5546.pdf)
 ## Section 2
 > This section modifies existing section [41.05.017](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
 

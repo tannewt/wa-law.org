@@ -1,6 +1,6 @@
 # Senate Bill 5542
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5542.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5542.pdf)
 ## Section 1
 > This section modifies existing section [18.53.010](/rcw/18_businesses_and_professions/18.053_optometry.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.053_optometry.md) for context.
 

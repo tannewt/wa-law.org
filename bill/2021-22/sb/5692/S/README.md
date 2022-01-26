@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5692 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5692-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5692-S.pdf)
 ## Section 1
 The legislature finds that the good time system is too static, not reactive enough, and does not create an ecosystem that drives behavioral change through incentives. The legislature finds that a study to better understand what we have and what works will inform how the legislature can change and potentially supplement the existing good time system to prioritize the programs that work and most effectively change behavior for those who committed a crime, but are clearly making efforts to improve their lives and rehabilitate themselves. The legislature finds that the addition of a supplemental formula where completion of a program triggers automatic credit will create a better system of incentives for those incarcerated to engage in programming and education that is directly tied with release from confinement.
 

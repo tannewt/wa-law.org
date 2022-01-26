@@ -1,6 +1,6 @@
 # House Bill 1754
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1754.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1754.pdf)
 ## Section 1
 > This section modifies existing section [4.56.110](/rcw/04_civil_procedure/4.056_judgments—generally.md). Here is the [modified chapter](rcw/04_civil_procedure/4.056_judgments—generally.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1989
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1989.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1989.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [7.68](/rcw/07_special_proceedings_and_actions/7.068_victims_of_crimes—compensation_assistance.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.068_victims_of_crimes—compensation_assistance.md) for context.
 

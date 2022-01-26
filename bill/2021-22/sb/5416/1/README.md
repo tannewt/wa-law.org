@@ -1,6 +1,6 @@
 # Senate Bill 5416
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5416.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5416.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9.02](/rcw/09_crimes_and_punishments/9.002_abortion.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.002_abortion.md) for context.
 

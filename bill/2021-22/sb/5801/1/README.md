@@ -1,6 +1,6 @@
 # Senate Bill 5801
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5801.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5801.pdf)
 ## Section 1
 > This section modifies existing section [51.52.130](/rcw/51_industrial_insurance/51.52_appeals.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.52_appeals.md) for context.
 

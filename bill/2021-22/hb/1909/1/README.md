@@ -1,6 +1,6 @@
 # House Bill 1909
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1909.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1909.pdf)
 ## Section 1
 The legislature finds that it is important for consumers to know what they are purchasing and eating. In this era of increasing technology, meat substitutes, both plant-based and lab-cultured, are becoming increasingly popular. The legislature finds that it is important to ensure food labels are clear and unmistakable. Food labeling is regulated federally, but the legislature repeats the statement from the United States government accountability office that "federal regulators still lack information on technology, production methods, and composition of any final cultured cell products." Meat terminology is often used for vegan and vegetarian meat substitutes. Additionally, meat imported from other countries has also become exceedingly more available as the global economy grows. The legislature finds that it is important to clearly mark what is traditional United States-grown meat, what is a meat analogue, and what is cultured cell-based meat.
 

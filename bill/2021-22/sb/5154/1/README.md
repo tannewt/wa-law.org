@@ -1,6 +1,6 @@
 # Senate Bill 5154
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5154.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5154.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [53.08](/rcw/53_port_districts/53.08_powers.md). Here is the [modified chapter](rcw/53_port_districts/53.08_powers.md) for context.
 

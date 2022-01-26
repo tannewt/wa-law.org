@@ -1,6 +1,6 @@
 # House Bill 1701
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1701.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1701.pdf)
 ## Section 1
 > This section modifies existing section [41.26.420](/rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.26_law_enforcement_officers_and_firefighters_retirement_system.md) for context.
 

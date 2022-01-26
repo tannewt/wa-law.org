@@ -1,6 +1,6 @@
 # Substitute House Bill 1298 as Recommended by Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1298-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1298-S.pdf)
 ## Section 1
 The legislature finds that in 2020, the legislature enacted ESSB 6617 (sections 1 through 5, chapter 217, Laws of 2020), to encourage the construction of accessory dwelling units in cities. In passing this law, the legislature found that "Washington state is experiencing a housing affordability crisis. Many communities across the state are in need of more housing for renters, across the income spectrum. Accessory dwelling units are frequently rented at below market rate, providing additional affordable housing options for renters," and that "accessory dwelling units are often occupied by tenants who pay no rent at all; among these tenants are grandparents, adult children, family members with disabilities, friends going through life transitions, and community members in need. Accessory dwelling units meet the needs of these people who might otherwise require scarce subsidized housing space and resources." The legislature further intended "to promote and encourage the creation of accessory dwelling units as a means to address the need for additional affordable housing options."
 

@@ -1,6 +1,6 @@
 # House Bill 2067
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2067.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2067.pdf)
 ## Section 1
 The legislature finds that water is vital for farms, people, and our communities, and that it is critical for this important resource to be readily available for locally owned family farms to continue growing crops, providing appropriate food supply for consumption, and expanding Washington's export opportunities now and into the future. The legislature therefore finds that when water that is relinquished under chapter 90.14 RCW, it should be reallocated in a timely manner for both out-of-stream uses and to augment instream flows.
 

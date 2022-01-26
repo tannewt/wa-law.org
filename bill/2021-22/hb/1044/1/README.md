@@ -1,6 +1,6 @@
 # House Bill 1044
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1044.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1044.pdf)
 ## Section 2
 1. Subject to the availability of amounts appropriated for this specific purpose, the Washington state institute for public policy shall conduct a study on enrollment and completion rates of inmates in the postsecondary education system postrelease, as well as recidivism rates. At a minimum, the Washington state institute for public policy must:
 

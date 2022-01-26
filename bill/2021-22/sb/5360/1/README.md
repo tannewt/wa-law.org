@@ -1,6 +1,6 @@
 # Senate Bill 5360
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5360.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5360.pdf)
 ## Section 1
 > This section modifies existing section [19.27.720](/rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md) for context.
 

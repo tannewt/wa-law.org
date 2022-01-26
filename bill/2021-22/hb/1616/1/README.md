@@ -1,6 +1,6 @@
 # House Bill 1616
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1616.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1616.pdf)
 ## Section 1
 > This section modifies existing section [70.170.020](/rcw/70_public_health_and_safety/70.170_health_data_and_charity_care.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.170_health_data_and_charity_care.md) for context.
 

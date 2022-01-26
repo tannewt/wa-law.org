@@ -1,6 +1,6 @@
 # Substitute House Bill 1084 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1084-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1084-S.pdf)
 ## Section 1
 High-efficiency electric space and water heating equipment, such as electric heat pumps for space heating and electric heat pump water heaters, lower overall energy demand and system costs and improve indoor air quality and environmental outcomes.
 

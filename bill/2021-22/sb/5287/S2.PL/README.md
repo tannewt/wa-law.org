@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5287 as Recommended by Ways & Means - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5287-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5287-S2.PL.pdf)
 ## Section 1
 > This section modifies existing section [84.14.005](/rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md). Here is the [modified chapter](rcw/84_property_taxes/84.14_new_and_rehabilitated_multiple-unit_dwellings_in_urban_centers.md) for context.
 

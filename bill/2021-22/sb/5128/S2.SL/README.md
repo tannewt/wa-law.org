@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5128 - Session Law Chapter 234 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5128-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5128-S2.SL.pdf)
 ## Section 1
 The legislature recognizes that the COVID-19 pandemic has significantly changed the delivery of education across the state, as school districts transition to remote learning environments to protect the health of students and staff. The legislature also recognizes that the role of transportation services has evolved alongside remote learning programs to help students equitably access the instructional program of basic education. As permitted by emergency proclamation, many school districts have adapted to remote learning by transporting meals, learning materials, and technology supports directly to students' homes or neighborhoods. Other school districts have used transportation resources to bring students to learning centers or other agencies where support services are provided.
 

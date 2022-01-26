@@ -1,6 +1,6 @@
 # House Bill 1465
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1465.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1465.pdf)
 ## Section 1
 1. The legislature finds that the COVID-19 recession has threatened the housing security of Washingtonians across our state. The legislature intends to provide foreclosure prevention and homelessness prevention assistance to Washington residents throughout the state with increased funding for the foreclosure fairness account and the funding of a new equity in housing account to enable foreclosure prevention, rental assistance, and housing services.
 

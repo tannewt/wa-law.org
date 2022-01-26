@@ -1,6 +1,6 @@
 # House Bill 1685
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1685.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1685.pdf)
 ## Section 1
 > This section modifies existing section [69.22.050](/rcw/69_food_drugs_cosmetics_and_poisons/69.22_cottage_food_operations.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.22_cottage_food_operations.md) for context.
 

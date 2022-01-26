@@ -1,6 +1,6 @@
 # Senate Bill 5104
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5104.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5104.pdf)
 ## Section 1
 1. It is unlawful for any state or local government agency or an official thereof to obtain, retain, request, access, or use any:
 

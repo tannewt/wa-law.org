@@ -1,6 +1,6 @@
 # Substitute House Bill 1691 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1691-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1691-S.pdf)
 ## Section 1
 > This section modifies existing section [88.40.011](/rcw/88_navigation_and_harbor_improvements/88.40_transport_of_petroleum_products—financial_responsibility.md). Here is the [modified chapter](rcw/88_navigation_and_harbor_improvements/88.40_transport_of_petroleum_products—financial_responsibility.md) for context.
 

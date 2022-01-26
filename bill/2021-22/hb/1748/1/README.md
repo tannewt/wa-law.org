@@ -1,6 +1,6 @@
 # House Bill 1748
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1748.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1748.pdf)
 ## Section 1
 > This section modifies existing section [74.04.805](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
 

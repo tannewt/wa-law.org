@@ -1,5 +1,5 @@
 # SB 5361 - Drug offenses/resentencing
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5361&Year=2021)
+*Status: Effective date 5/12/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5361&Year=2021)
 
 Concerning the resentencing of persons convicted of drug offenses.
 

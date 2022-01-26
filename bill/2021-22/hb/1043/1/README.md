@@ -1,6 +1,6 @@
 # House Bill 1043
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1043.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1043.pdf)
 ## Section 1
 1. The purpose of this compact is to facilitate interstate practice of audiology and speech-language pathology with the goal of improving public access to audiology and speech-language pathology services. The practice of audiology and speech-language pathology occurs in the state where the patient, client, or student is located at the time of the patient, client, or student encounter. The compact preserves the regulatory authority of states to protect public health and safety through the current system of state licensure.
 

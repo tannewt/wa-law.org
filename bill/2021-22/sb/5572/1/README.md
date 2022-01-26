@@ -1,6 +1,6 @@
 # Senate Bill 5572
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5572.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5572.pdf)
 ## Section 1
 > This section modifies existing section [9.68A.040](/rcw/09_crimes_and_punishments/9.068A_sexual_exploitation_of_children.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.068A_sexual_exploitation_of_children.md) for context.
 

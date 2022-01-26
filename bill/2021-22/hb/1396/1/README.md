@@ -1,6 +1,6 @@
 # House Bill 1396
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1396.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1396.pdf)
 ## Section 1
 > This section modifies existing section [28A.230.090](/rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.230_compulsory_coursework_and_activities.md) for context.
 

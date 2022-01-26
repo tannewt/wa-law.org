@@ -1,6 +1,6 @@
 # House Bill 1992
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1992.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1992.pdf)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has emphasized the need for employees to have access to leave for their own use and to comply with employer requirements for quarantine and isolation. Educators and public employees have been exposed at work and have needed to use leave when dependents are ill or exposed to the virus, sometimes leading to multiple instances of required isolation and quarantine, draining the leave balances of many employees. It is the intent of the legislature to allow employees to accumulate more leave to recognize the burdens that have been placed on frontline workers during the pandemic.
 

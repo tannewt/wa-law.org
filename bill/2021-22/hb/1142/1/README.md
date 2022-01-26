@@ -1,6 +1,6 @@
 # House Bill 1142
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1142.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1142.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [47.36](/rcw/47_public_highways_and_transportation/47.36_traffic_control_devices.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.36_traffic_control_devices.md) for context.
 

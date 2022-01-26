@@ -1,6 +1,6 @@
 # House Bill 1528
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1528.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1528.pdf)
 ## Section 1
 The legislature finds that transportation patterns drastically changed in March 2020 after the governor proclaimed a state of emergency and associated proclamation to prevent the spread of the novel coronavirus (COVID-19). Hundreds of thousands of employees are now working from home, with an expectation that they will continue to do so for months, if not years, to come. Revenues for transportation programs have plummeted. The legislature finds that this societal course change demands a reevaluation of the commute trip reduction program and reduction of related expenditures, including for costly vehicles that are not being used.
 

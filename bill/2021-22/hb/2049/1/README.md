@@ -1,6 +1,6 @@
 # House Bill 2049
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2049.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2049.pdf)
 ## Section 1
 Washington state has the fewest housing units per household in the nation according to a presentation by the lieutenant governor. The permitting of buildings is one area that has been identified as a hindrance to increasing the number of housing units in Washington state. The legislature finds that streamlining the processing of building permits is a powerful way to combat the lack of housing in this state.
 

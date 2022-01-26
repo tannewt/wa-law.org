@@ -1,6 +1,6 @@
 # Senate Bill 5777
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5777.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5777.pdf)
 ## Section 1
 > This section modifies existing section [28A.210.080](/rcw/28A_common_school_provisions/28A.210_health—screening_and_requirements.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.210_health—screening_and_requirements.md) for context.
 

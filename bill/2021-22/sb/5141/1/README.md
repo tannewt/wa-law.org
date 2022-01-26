@@ -1,6 +1,6 @@
 # Senate Bill 5141
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5141.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5141.pdf)
 ## Section 1
 1. The purpose of this act is to implement recommendations of the environmental justice task force created by section 221(48), chapter 415, Laws of 2019, entitled "Report to the Washington state governor and legislature, Environmental Justice Task Force: Recommendations for Prioritizing EJ in Washington State Government (October 2020).
 

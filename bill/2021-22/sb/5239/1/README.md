@@ -1,6 +1,6 @@
 # Senate Bill 5239
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5239.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5239.pdf)
 ## Section 1
 It is the intent of the legislature to retain and grow family wage jobs in rural, economically distressed areas; to promote healthy forests; and to utilize Washington's abundant natural resources to promote diversified renewable energy use in the state.
 

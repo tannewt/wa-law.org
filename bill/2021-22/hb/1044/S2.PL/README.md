@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1044 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1044-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1044-S2.PL.pdf)
 ## Section 2
 1. [Empty]
 

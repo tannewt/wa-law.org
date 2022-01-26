@@ -1,6 +1,6 @@
 # House Bill 1917
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1917.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1917.pdf)
 ## Section 1
 The legislature finds that a clearer picture of gender-based disparities can be provided when data is disaggregated by gender, in addition to other factors such as race and ethnicity. Data, when disaggregated by gender, has shown that boys, male youth, and men experience a breadth of gender-based disparities. The legislature finds it necessary, equitable, and inclusive to establish a Washington state men's commission tasked with addressing these gender-based disparities and advocating for the well-being of Washington's boys, male youth, and men.
 

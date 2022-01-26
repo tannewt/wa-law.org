@@ -1,6 +1,6 @@
 # Senate Bill 5503
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5503.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5503.pdf)
 ## Section 1
 1. A joint select committee on studying the financial products available through the private market to replace the long-term services and supports trust program authorized in chapter 50B.04 RCW is established, with members as provided in this subsection.
 

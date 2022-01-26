@@ -1,6 +1,6 @@
 # House Bill 2041
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2041.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2041.pdf)
 ## Section 1
 > This section modifies existing section [70.24.110](/rcw/70_public_health_and_safety/70.024_control_and_treatment_of_sexually_transmitted_diseases.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.024_control_and_treatment_of_sexually_transmitted_diseases.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5380
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5380.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5380.pdf)
 ## Section 1
 > This section modifies existing section [36.70B.070](/rcw/36_counties/36.070B_local_project_review.md). Here is the [modified chapter](rcw/36_counties/36.070B_local_project_review.md) for context.
 

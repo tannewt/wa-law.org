@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5038 as Recommended by Law & Justice - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5038-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5038-S.PL.pdf)
 ## Section 2
 > This section adds a new section to an existing chapter [9.41](/rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md) for context.
 

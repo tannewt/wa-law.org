@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5253 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5253-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5253-S.pdf)
 ## Section 1
 1. The purpose of this act is to implement the recommendations of the pollinator health task force created by section 3, chapter 353, Laws of 2019, entitled "Recommendations of the Pollinator Health Task Force - for Pollinator Health in Washington" (November 2020).
 

@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5330 - Session Law Chapter 284 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5330.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5330.SL.pdf)
 ## Section 1
 > This section modifies existing section [77.65.615](/rcw/77_fish_and_wildlife/77.065_food_fish_and_shellfish—commercial_licenses.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.065_food_fish_and_shellfish—commercial_licenses.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1553
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1553.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1553.pdf)
 ## Section 1
 The legislature hereby enacts the "open safe, open now" plan for reopening Washington.
 

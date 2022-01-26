@@ -1,6 +1,6 @@
 # Senate Bill 5690
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5690.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5690.pdf)
 ## Section 1
 > This section modifies existing section [9.41.305](/rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.041_firearms_and_dangerous_weapons.md) for context.
 

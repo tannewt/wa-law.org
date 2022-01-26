@@ -1,6 +1,6 @@
 # House Bill 1518
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1518.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1518.pdf)
 ## Section 1
 The legislature finds that there are environmental advantages to having state agencies purchase paper that is produced in a manner that reduces carbon dioxide to combat climate change.
 

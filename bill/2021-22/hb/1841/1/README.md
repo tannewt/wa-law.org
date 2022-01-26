@@ -1,6 +1,6 @@
 # House Bill 1841
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1841.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1841.pdf)
 ## Section 1
 > This section modifies existing section [84.36.400](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
 

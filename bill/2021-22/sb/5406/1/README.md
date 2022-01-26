@@ -1,6 +1,6 @@
 # Senate Bill 5406
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5406.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5406.pdf)
 ## Section 1
 1. The legislature finds that the strategic response to the COVID-19 pandemic requires that the public roadways of the state remain clear of vehicle accidents and other barriers used by first responders and the public to transport patients to emergent and ongoing health care facilities and lifesaving treatment.
 

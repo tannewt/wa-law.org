@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5383 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5383-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5383-S.pdf)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has made it clear that equitable access to education can only happen with equitable access to reliable broadband. Under Article IX, section 1 of the state Constitution, it is the paramount duty of the state to make ample provision for the education of all children residing within the state of Washington. Increasing broadband access to unserved areas of the state is of vital importance to increasing educational opportunities in the parts of our state that without broadband access cannot safely participate in our educational system.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1356 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1356-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1356-S.pdf)
 ## Section 1
 1. The legislature finds that the use of racially derogatory or discriminatory school mascots, logos, or team names in public schools is antithetical to their mission of providing an equal education to all, and contrary to the goal of making schools safe and respectful learning environments.
 

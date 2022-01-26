@@ -1,6 +1,6 @@
 # Senate Bill 5178
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5178.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5178.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [38.52](/rcw/38_militia_and_military_affairs/38.52_emergency_management.md). Here is the [modified chapter](rcw/38_militia_and_military_affairs/38.52_emergency_management.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5172 - Session Law Chapter 249 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5172-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5172-S.SL.pdf)
 ## Section 1
 In order to stabilize, strengthen, and protect our state's agricultural workforce and economy, it is the intent of the legislature to pass the laws necessary to protect farmworkers and to provide agricultural employers with certainty and predictability.
 

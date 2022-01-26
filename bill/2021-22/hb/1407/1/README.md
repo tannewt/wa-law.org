@@ -1,6 +1,6 @@
 # House Bill 1407
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1407.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1407.pdf)
 ## Section 1
 > This section modifies existing section [36.18.016](/rcw/36_counties/36.018_fees_of_county_officers.md). Here is the [modified chapter](rcw/36_counties/36.018_fees_of_county_officers.md) for context.
 

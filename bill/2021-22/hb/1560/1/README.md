@@ -1,6 +1,6 @@
 # House Bill 1560
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1560.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1560.pdf)
 ## Section 1
 The state of Washington relies on the provisions of RCW 69.50.4011, 69.50.4013, 69.50.4014, and 69.41.030 to prohibit the unlawful possession of drugs by its citizens. Though none of these offenses contain a mens rea element, the Washington supreme court has examined and upheld this statutory structure in the past, recognizing the legislature's authority to maintain strict liability in relation to the possession of controlled substances and other crimes. Furthermore, the legislature historically has not considered it necessary to establish an express mens rea element, as defendants have long relied on the availability of the affirmative defense of unwitting possession to protect against prosecution for unknowingly possessing illicit substances.
 

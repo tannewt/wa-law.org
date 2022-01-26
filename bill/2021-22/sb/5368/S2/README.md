@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5368 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5368-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5368-S2.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [35A.14](/rcw/35A_optional_municipal_code/35A.14_annexation_by_code_cities.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.14_annexation_by_code_cities.md) for context.
 

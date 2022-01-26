@@ -1,6 +1,6 @@
 # House Bill 1222
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1222.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1222.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [82.38](/rcw/82_excise_taxes/82.38_fuel_tax_act.md). Here is the [modified chapter](rcw/82_excise_taxes/82.38_fuel_tax_act.md) for context.
 

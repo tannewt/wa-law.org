@@ -1,6 +1,6 @@
 # Senate Bill 5309
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5309.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5309.pdf)
 ## Section 1
 1. This section is the tax preference performance statement for the sales and use tax exemptions for diapers established in sections 2 and 3, chapter . . ., Laws of 2021 (sections 2 and 3 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
 

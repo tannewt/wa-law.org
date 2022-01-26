@@ -1,5 +1,5 @@
 # HB 1050 - Fluorinated gases
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1050&Year=2021)
+*Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1050&Year=2021)
 
 Reducing greenhouse gas emissions from fluorinated gases.
 

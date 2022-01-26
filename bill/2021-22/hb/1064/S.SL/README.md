@@ -1,6 +1,6 @@
 # Substitute House Bill 1064 - Session Law Chapter 025 Year 2021 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1064-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1064-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [64.06.020](/rcw/64_real_property_and_conveyances/64.06_real_property_transfers—sellers_disclosures.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.06_real_property_transfers—sellers_disclosures.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5387
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5387.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5387.pdf)
 ## Section 1
 1. Many Washington families do not earn enough annually to keep pace with increasing health care, child care, housing, and other essential expenses.
 

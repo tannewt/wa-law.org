@@ -1,6 +1,6 @@
 # Senate Bill 5540
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5540.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5540.pdf)
 ## Section 1
 > This section modifies existing section [29A.04.311](/rcw/29A_elections/29A.04_general_provisions.md). Here is the [modified chapter](rcw/29A_elections/29A.04_general_provisions.md) for context.
 

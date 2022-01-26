@@ -1,5 +1,5 @@
 # HB 1512 - Lodging-related assessments
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1512&Year=2021)
+*Status: Effective date 5/10/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1512&Year=2021)
 
 Concerning lodging-related assessments under chapter 35.87A RCW.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1614 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1614-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1614-S.pdf)
 ## Section 1
 It is the intent of the legislature to require online marketplaces to verify certain information regarding high-volume third-party sellers of consumer products. It is also the intent of the legislature for online marketplaces to be transparent about the consumer products they sell and to disclose to consumers contact and other information concerning third-party sellers.
 

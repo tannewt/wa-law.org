@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5026 - Session Law Chapter 088 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5026.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5026.SL.pdf)
 ## Section 1
 1. Moneys available to a port district or a port development authority may be used to purchase zero and near zero emissions cargo handling equipment and infrastructure supporting that equipment for the use of the port district, port development authority, or tenants or lessees thereof.
 

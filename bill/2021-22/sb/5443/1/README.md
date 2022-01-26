@@ -1,6 +1,6 @@
 # Senate Bill 5443
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5443.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5443.pdf)
 ## Section 1
 > This section modifies existing section [28A.710.150](/rcw/28A_common_school_provisions/28A.710_charter_schools.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.710_charter_schools.md) for context.
 

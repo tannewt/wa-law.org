@@ -1,6 +1,6 @@
 # House Bill 1746
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1746.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1746.pdf)
 ## Section 1
 1. The legislature acknowledges that it directed Washington State University to conduct a geographic analysis to identify areas where the cumulative effect of family and community risk and protective predictors correlated with academic and behavioral indicators of student success. The resulting report, entitled "No School Alone:  How community risks and assets contribute to school and youth success," was published in 2015. The report included recommendations to: (a) Reinvigorate and make targeted empirically supported investments in building local community capacity to support state educational and service investments; (b) invest in expanding public awareness of the scope and consequences of adverse childhood experiences and trauma in communities; (c) sustain efforts to address the impact of poverty on communities and schools; and (d) invest in schools adopting social-emotional practices and responses to the trauma children bring to schools.
 

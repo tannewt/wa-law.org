@@ -1,6 +1,6 @@
 # House Bill 1692
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1692.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1692.pdf)
 ## Section 1
 > This section modifies existing section [10.95.020](/rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.095_capital_punishment—aggravated_first_degree_murder.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1248
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1248.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1248.pdf)
 ## Section 1
 The legislature finds that many people live in a mobile or manufactured home they own, but lease the land on which the home is located. The legislature further finds that senior citizens, veterans, and persons with disabilities may qualify for a property tax exemption for their mobile or manufactured home while paying a higher property tax on the land in the form of rent. Therefore, the legislature intends for low-income senior citizens, veterans, and persons with disabilities who rent land in a mobile home park or manufactured housing community to benefit from the property tax exemption under RCW 84.36.381 as those who own land do.
 

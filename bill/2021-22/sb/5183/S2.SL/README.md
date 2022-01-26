@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5183 - Session Law Chapter 269 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5183-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5183-S2.SL.pdf)
 ## Section 1
 The legislature finds that nonfatal strangulation is among the most dangerous acts of domestic violence and sexual assault. Strangulation involves external compression of the victim's airway and blood vessels, causing reduced air and blood flow to the brain. Victims may show no or minimal external signs of injury despite having life-threatening internal injuries including traumatic brain injury. Injuries may present after the assault or much later and may persist for months and even years postassault. Victims who are strangled multiple times face a greater risk of traumatic brain injury. Traumatic brain injury symptoms are often not recognized as assault-related and may include cognitive difficulties such as decreased ability to concentrate, make decisions, and solve problems. Traumatic brain injury symptoms may also include behavior and personality changes such as irritability, impulsivity, and mood swings.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5571
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5571.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5571.pdf)
 ## Section 1
 The ongoing modernization of the statewide 911 emergency communications system is essential to public safety. Implementing new technologies with the modernization to next generation 911 requires clarifying changes to update requirements and definitions currently in statute.
 

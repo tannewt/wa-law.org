@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1070 - Session Law Chapter 027 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1070-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1070-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [82.14.530](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
 

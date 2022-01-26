@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1061 - Session Law Chapter 056 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1061-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1061-S2.SL.pdf)
 ## Section 1
 The legislature intends that this act help reduce the number of former foster youth with developmental disabilities discharged into homelessness or inappropriately placed in hospitals. The legislature further intends that the steps taken under this act maximize the use of the most cost-effective services for former foster youth with developmental disabilities.
 

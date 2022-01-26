@@ -1,6 +1,6 @@
 # House Bill 1884
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1884.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1884.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [29A.60](/rcw/29A_elections/29A.60_canvassing.md). Here is the [modified chapter](rcw/29A_elections/29A.60_canvassing.md) for context.
 

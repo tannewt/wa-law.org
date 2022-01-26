@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1041 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1041-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1041-S.E.pdf)
 ## Section 1
 > This section modifies existing section [7.69A.020](/rcw/07_special_proceedings_and_actions/7.069A_child_victims_and_witnesses.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.069A_child_victims_and_witnesses.md) for context.
 

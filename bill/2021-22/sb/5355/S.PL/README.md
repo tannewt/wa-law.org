@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5355 as Recommended by Labor, Commerce & Tribal Affairs - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5355-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5355-S.PL.pdf)
 ## Section 1
 This act may be known and cited as the Washington wage recovery act.
 

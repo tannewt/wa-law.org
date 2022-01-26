@@ -1,6 +1,6 @@
 # Senate Bill 5860
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5860.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5860.pdf)
 ## Section 1
 In 2006, the legislature approved chapter 168, Laws of 2006 (Engrossed Substitute Senate Bill No. 6151) in order to encourage the efficient use of water in the Odessa subarea. Chapter 168, Laws of 2006 (Engrossed Substitute Senate Bill No. 6151) expired in July of 2021. The legislature finds that this program was effective and is necessary.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5904
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5904.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5904.pdf)
 ## Section 1
 1. The legislature finds that the fashion industry has many negative environmental and social impacts, including high levels of water use, run-off pollution from the use of agrochemicals and dyes, carbon emissions, industry waste, low wages, hazardous work environments, and other unethical labor practices.
 

@@ -1,6 +1,6 @@
 # House Bill 1545
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1545.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1545.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.01](/rcw/48_insurance/48.001_initial_provisions.md). Here is the [modified chapter](rcw/48_insurance/48.001_initial_provisions.md) for context.
 

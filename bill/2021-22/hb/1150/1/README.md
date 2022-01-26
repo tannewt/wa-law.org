@@ -1,6 +1,6 @@
 # House Bill 1150
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1150.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1150.pdf)
 ## Section 1
 > This section modifies existing section [19.27.070](/rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.027_state_building_code.md) for context.
 

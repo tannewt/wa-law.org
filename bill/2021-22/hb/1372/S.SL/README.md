@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1372 - Session Law Chapter 020 Year 2021 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1372-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1372-S.SL.pdf)
 ## Section 1
 The legislature finds that:
 

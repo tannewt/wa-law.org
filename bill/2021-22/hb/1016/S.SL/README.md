@@ -1,6 +1,6 @@
 # Substitute House Bill 1016 - Session Law Chapter 295 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1016-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1016-S.SL.pdf)
 ## Section 1
 The legislature finds that on June 19, 1865, two and one-half years after President Lincoln signed the Emancipation Proclamation and two months after the end of the Civil War, news finally reached Galveston, Texas, that the Civil War had ended and that all enslaved persons were now released from the bondage of slavery. Slavery has left a catastrophic and unrelenting legacy of trauma for generations of Black/African Americans. Racism, discrimination, and inequity have been prevalent throughout the United States of America since 1619, which has cost Black/African Americans life, liberty, and prosperity.
 

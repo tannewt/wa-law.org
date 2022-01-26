@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5097 - Session Law Chapter 232 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5097-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5097-S.SL.pdf)
 ## Section 1
 The legislature intends to prevent impacts, based on this act, to the family and medical leave insurance account or the application of a solvency surcharge.
 

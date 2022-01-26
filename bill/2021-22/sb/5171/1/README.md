@@ -1,6 +1,6 @@
 # Senate Bill 5171
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5171.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5171.pdf)
 ## Section 1
 The legislature finds that the state unemployment insurance trust fund has been greatly depleted by an unprecedented number of claims stemming from pandemic-related job losses. The legislature also finds that replenishing the fund through increased unemployment insurance contributions would cause additional financial harm to many Washington employers and employees as they work to recover fully from the pandemic and government-mandated closures.
 

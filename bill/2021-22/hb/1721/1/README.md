@@ -1,6 +1,6 @@
 # House Bill 1721
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1721.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1721.pdf)
 ## Section 1
 > This section modifies existing section [41.32.4992](/rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1067
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1067.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1067.pdf)
 ## Section 1
 The legislature finds that the Suciasaurus rex, the first and, as of the effective date of this section, only dinosaur discovered in Washington state, should be designated as the state dinosaur. In May 2012, paleontologists discovered a portion of a left femur of a therapod dinosaur at Sucia Island state park in the San Juan Islands. Therapods are bipedal carnivorous dinosaurs that include Tyrannosaurus and Velociraptor. While scientists are unsure exactly what type of therapod the fossil belongs to, evidence suggests it may be a species similar to Daspletosaurus. The dinosaur has been nicknamed Suciasaurus rex.
 

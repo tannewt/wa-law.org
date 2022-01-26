@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1078 as Recommended by State Government & Tribal Relations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1078-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1078-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [29A.08.520](/rcw/29A_elections/29A.08_voters_and_registration.md). Here is the [modified chapter](rcw/29A_elections/29A.08_voters_and_registration.md) for context.
 

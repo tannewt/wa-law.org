@@ -1,6 +1,6 @@
 # House Bill 1149
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1149.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1149.pdf)
 ## Section 1
 1. In 2020, more than 2,500 Washingtonians have died due to COVID-19. State data shows that COVID-19 has disproportionately affected people who identify as Hispanic, Black, American Indian, Alaska Native, and Native Hawaiian or other Pacific Islander. The centers for disease control and prevention has identified inequities in social determinants of health as factors that contribute to racial and ethnic minority groups' increased risk of contracting COVID-19. Social determinants of health are conditions in the places where people live, learn, work, and play that affect a wide range of health and quality of life risks and outcomes. In addition, despite public health guidelines, people continue to engage in practices that contribute to the spread of COVID-19.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5347 - Session Law Chapter 101 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5347.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5347.SL.pdf)
 ## Section 1
 > This section modifies existing section [23.86.115](/rcw/23_corporations_and_associations_(profit)_(business_corporation_act:_see_title_23b_rcw)/23.086_cooperative_associations.md). Here is the [modified chapter](rcw/23_corporations_and_associations_(profit)_(business_corporation_act:_see_title_23b_rcw)/23.086_cooperative_associations.md) for context.
 

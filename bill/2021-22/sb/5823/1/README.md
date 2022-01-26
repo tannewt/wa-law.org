@@ -1,6 +1,6 @@
 # Senate Bill 5823
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5823.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5823.pdf)
 ## Section 1
 > This section modifies existing section [39.108.120](/rcw/39_public_contracts_and_indebtedness/39.108_local_infrastructure_project_areas.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.108_local_infrastructure_project_areas.md) for context.
 

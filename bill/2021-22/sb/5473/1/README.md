@@ -1,6 +1,6 @@
 # Senate Bill 5473
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5473.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5473.pdf)
 ## Section 1
 The legislature hereby enacts the "open safe, open now" plan for reopening Washington.
 

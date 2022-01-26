@@ -1,6 +1,6 @@
 # House Bill 1237 - Session Law Chapter 039 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1237.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1237.SL.pdf)
 ## Section 1
 1. This act is intended to provide a common definition for family resource centers across Washington state in an effort to establish a core set of principles for existing and newly forming family resource centers.
 

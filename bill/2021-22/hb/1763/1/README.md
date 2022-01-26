@@ -1,6 +1,6 @@
 # House Bill 1763
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1763.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1763.pdf)
 ## Section 1
 > This section modifies existing section [51.36.070](/rcw/51_industrial_insurance/51.36_medical_aid.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.36_medical_aid.md) for context.
 

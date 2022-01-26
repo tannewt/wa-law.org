@@ -1,6 +1,6 @@
 # House Bill 1488
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1488.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1488.pdf)
 ## Section 1
 1. Sustainable and resilient markets for recycled materials are essential to any successful recycling system. For many years, Washington has depended on foreign markets to accept the recyclable materials that are collected for recycling in the state. Developing domestic markets for recycled materials benefits the environment and the state's economy and is critical due to the loss of foreign markets.
 

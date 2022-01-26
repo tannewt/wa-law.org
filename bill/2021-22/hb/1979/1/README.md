@@ -1,6 +1,6 @@
 # House Bill 1979
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1979.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1979.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.18](/rcw/48_insurance/48.018_the_insurance_contract.md). Here is the [modified chapter](rcw/48_insurance/48.018_the_insurance_contract.md) for context.
 

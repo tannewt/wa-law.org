@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5271 as Recommended by Law & Justice - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5271-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5271-S.PL.pdf)
 ## Section 1
 1. The legislature finds that the COVID-19 pandemic, a public health crisis, has placed an oversized burden on Washington's health care providers and health care facilities, as they care for communities and families.
 

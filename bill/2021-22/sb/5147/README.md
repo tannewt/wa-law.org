@@ -1,7 +1,7 @@
-# SB 5147 - Alternative school calendars
+# SB 5147 - Learning stabilization, etc.
 *Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5147&Year=2021)
 
-Exploring alternative school calendars.
+Addressing learning stabilization, recovery, and acceleration.
 
 ## Revisions
 * [Original Bill](1/)

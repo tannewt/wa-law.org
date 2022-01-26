@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1236 - Session Law Chapter 212 Year 2021 as Recommended by Housing, Human Services & Veterans
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1236-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1236-S.SL.pdf)
 ## Section 2
 > This section adds a new section to an existing chapter [59.18](/rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md). Here is the [modified chapter](rcw/59_landlord_and_tenant/59.18_residential_landlord-tenant_act.md) for context.
 

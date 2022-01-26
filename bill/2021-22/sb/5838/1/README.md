@@ -1,6 +1,6 @@
 # Senate Bill 5838
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5838.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5838.pdf)
 ## Section 1
 1. The legislature finds that diapers are a necessity for every infant. Additionally, the majority of early child care programs require an adequate supply of diapers for child attendance, but, with the exception of early head start, do not provide diapers to families in need.
 

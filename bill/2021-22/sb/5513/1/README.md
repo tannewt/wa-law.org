@@ -1,6 +1,6 @@
 # Senate Bill 5513
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5513.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5513.pdf)
 ## Section 1
 > This section modifies existing section [67.28.181](/rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md). Here is the [modified chapter](rcw/67_sports_and_recreation—convention_facilities/67.28_public_stadium_convention_arts_and_tourism_facilities.md) for context.
 

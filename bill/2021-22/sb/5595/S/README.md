@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5595 as Recommended by Early Learning & K-12 Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5595-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5595-S.pdf)
 ## Section 3
 > This section modifies existing section [28A.400.007](/rcw/28A_common_school_provisions/28A.400_employees.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.400_employees.md) for context.
 

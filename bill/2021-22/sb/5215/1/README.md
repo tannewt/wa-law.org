@@ -1,6 +1,6 @@
 # Senate Bill 5215
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5215.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5215.pdf)
 ## Section 1
 > This section modifies existing section [28B.92.030](/rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md). Here is the [modified chapter](rcw/28B_higher_education/28B.092_state_student_financial_aid_programs.md) for context.
 

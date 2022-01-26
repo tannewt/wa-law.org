@@ -1,6 +1,6 @@
 # Senate Bill 5058 - Session Law Chapter 014 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5058.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5058.SL.pdf)
 ## Section 1
 > This section modifies existing section [77.36.170](/rcw/77_fish_and_wildlife/77.036_wildlife_damage.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.036_wildlife_damage.md) for context.
 

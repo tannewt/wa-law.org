@@ -1,6 +1,6 @@
 # Senate Bill 5023
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5023.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5023.pdf)
 ## Section 1
 The legislature finds that child care is a critically important service to the economic recovery and future of Washington state. The legislature acknowledges that access to child care is essential for Washington families to be able to return to work. The legislature therefore resolves to increase access to employment and to facilitate statewide economic recovery by ensuring that temporary federal unemployment benefits do not disrupt continuity of care for families seeking work.
 

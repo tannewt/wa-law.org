@@ -1,6 +1,6 @@
 # House Bill 1165
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1165.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1165.pdf)
 ## Section 1
 > This section modifies existing section [31.12.005](/rcw/31_miscellaneous_loan_agencies/31.12_washington_state_credit_union_act.md). Here is the [modified chapter](rcw/31_miscellaneous_loan_agencies/31.12_washington_state_credit_union_act.md) for context.
 

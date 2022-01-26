@@ -1,6 +1,6 @@
 # Senate Bill 5032 - Session Law Chapter 230 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5032.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5032.SL.pdf)
 ## Section 1
 > This section modifies existing section [39.10.210](/rcw/39_public_contracts_and_indebtedness/39.010_alternative_public_works_contracting_procedures.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.010_alternative_public_works_contracting_procedures.md) for context.
 

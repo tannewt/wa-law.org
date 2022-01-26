@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5182 as Recommended by State Government & Elections
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5182-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5182-S.pdf)
 ## Section 1
 The legislature finds that transparency and fiscal responsibility are important principles for state government, including election administration. The legislature finds that advisory votes are nonbinding after-the-fact polls that do not aid transparency, are costly to taxpayers, cause confusion and frustration among voters, and provide little, if any, useful feedback for the legislature. The legislature finds that there are more effective ways for the public to participate in the legislative process, and to be educated about the decisions the legislature makes without contributing to long ballots, which can lead to choice fatigue and voters abstaining from down-ballot races that determine who shall serve in the government closest the people.
 

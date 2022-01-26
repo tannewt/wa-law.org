@@ -1,6 +1,6 @@
 # Senate Bill 5133 - Session Law Chapter 180 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5133.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5133.SL.pdf)
 ## Section 1
 > This section modifies existing section [41.80.005](/rcw/41_public_employment_civil_service_and_pensions/41.80_state_collective_bargaining.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.80_state_collective_bargaining.md) for context.
 

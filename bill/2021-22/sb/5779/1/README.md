@@ -1,6 +1,6 @@
 # Senate Bill 5779
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5779.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5779.pdf)
 ## Section 1
 > This section modifies existing section [19.09.020](/rcw/19_business_regulations—miscellaneous/19.009_charitable_solicitations.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.009_charitable_solicitations.md) for context.
 

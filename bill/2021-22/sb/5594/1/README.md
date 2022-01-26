@@ -1,6 +1,6 @@
 # Senate Bill 5594
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5594.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5594.pdf)
 ## Section 1
 1. The legislature recognizes that it has previously found that every three minutes an American child or adult is diagnosed with a potentially fatal blood disease. For many of these individuals, bone marrow transplantation is the only chance for survival. The legislature finds that 70 percent of patients do not have a fully matched donor in their family and rely on a registry to find an unrelated donor. The legislature further finds that 40 to 71 percent of individuals with diverse heritage never find a bone marrow match. The ultimate key to survivability lies in increasing the number of bone marrow donors across all ethnicities, which will increase the potential for a suitable match.
 

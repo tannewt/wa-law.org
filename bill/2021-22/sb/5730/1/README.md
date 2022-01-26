@@ -1,6 +1,6 @@
 # Senate Bill 5730
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5730.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5730.pdf)
 ## Section 1
 > This section modifies existing section [7.69A.030](/rcw/07_special_proceedings_and_actions/7.069A_child_victims_and_witnesses.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.069A_child_victims_and_witnesses.md) for context.
 

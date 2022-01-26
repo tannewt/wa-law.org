@@ -1,6 +1,6 @@
 # House Bill 1202
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1202.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1202.pdf)
 ## Section 1
 The state of Washington and its subdivisions undertake to protect the safety of individuals and to preserve public peace by employing peace officers entrusted with the power to arrest, detain, and use force against individuals suspected of violating criminal statutes. It is the intent of the legislature to provide a meaningful legal remedy under state law for persons who are injured when a peace officer exercises these powers unlawfully. The legislature finds that the lack of such a remedy jeopardizes justice for the victims, implies impunity for the violators, and engenders a cynicism destructive of self-government. In order to foster the important public policy of accountability for unlawful policing and promote trust between communities and law enforcement, and in view of remedial deficiencies in existing federal law and Washington common law, this chapter establishes a more meaningful remedy through a civil cause of action by which victims of misconduct by peace officers may obtain compensation for their injuries and an award of costs and attorney fees incurred in seeking the remedy. By enacting this chapter the legislature intends to prevent the use of the doctrine of qualified immunity as it has developed in federal litigation of suits under 42 U.S.C. Sec. 1983.
 

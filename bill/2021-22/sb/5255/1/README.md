@@ -1,6 +1,6 @@
 # Senate Bill 5255
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5255.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5255.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [26.09](/rcw/26_domestic_relations/26.09_dissolution_proceedings—legal_separation.md). Here is the [modified chapter](rcw/26_domestic_relations/26.09_dissolution_proceedings—legal_separation.md) for context.
 

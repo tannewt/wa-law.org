@@ -1,6 +1,6 @@
 # Senate Bill 5680
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5680.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5680.pdf)
 ## Section 1
 The legislature finds that thousands of Washingtonians were wrongfully terminated or pushed to resign from their jobs or volunteer positions due to the governor's proclamation 21-14, COVID-19 vaccination requirement. The legislature hereby disapproves of the governor's policy and intends to restore wrongfully terminated Washingtonians to their jobs or volunteer positions if they choose to return. The legislature finds that this policy is consistent with the individual rights to religious liberty and bodily integrity that Washingtonians sought to exercise before they were wrongfully terminated under proclamation 21-14. These rights are secured by, among other laws, the First Amendment to the United States Constitution; the Fourteenth Amendment to the United States Constitution; Title VII of the Civil Rights Act of 1964; Title I of the Americans with Disabilities Act of 1990; and Article I, section 11 of the state Constitution. The legislature also finds that many Washingtonians who have exercised the right to decline vaccination may have developed natural immunity to COVID-19, and that such immunity is superior to vaccination for preventing COVID-19.
 

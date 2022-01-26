@@ -1,7 +1,7 @@
-# SB 5325 - Audio-only telemedicine
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5325&Year=2021)
+# SB 5325 - Telemedicine
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5325&Year=2021)
 
-Concerning audio-only telemedicine.
+Concerning telemedicine.
 
 ## Revisions
 * [Original Bill](1/)

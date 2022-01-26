@@ -1,6 +1,6 @@
 # House Bill 1400
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1400.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1400.pdf)
 ## Section 1
 1. The legislature finds that there are many ways to gain demonstrated competency of skills in a profession. Furthermore, conditions such as educational requirements, course fees, and training hours, which an individual must fulfill before receiving a professional license to practice in a profession, create unnecessary barriers to an individual's right to employment if the individual can demonstrate full competency of the skills required of that profession.
 

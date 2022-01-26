@@ -1,6 +1,6 @@
 # House Bill 1057
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1057.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1057.pdf)
 ## Section 1
 Stationary air sources that emit noxious odors or other air contaminants have repeatedly been found to impair the ability of the public to utilize publicly owned recreational facilities, parks, and common spaces. The legislature finds that unimpaired use of publicly owned open spaces is important for public health. Enforcement of the clean air act's prohibition on air pollution in the context of the public's enjoyment of publicly owned spaces has been difficult due to uncertainty concerning the scope of the term "enjoyment of life and property" as used in the clean air act's definition of "pollution." Therefore, it is the intent of the legislature to clarify that unreasonable interference with enjoyment of life and property, as those terms are used in the clean air act, includes unreasonable interference with the public's enjoyment and use of public properties including, but not limited to, bicycle or pedestrian trails, parks, and town commons.
 

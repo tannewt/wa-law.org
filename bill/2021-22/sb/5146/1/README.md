@@ -1,6 +1,6 @@
 # Senate Bill 5146 - Session Law Chapter 182 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5146.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5146.SL.pdf)
 ## Section 1
 > This section modifies existing section [77.12.320](/rcw/77_fish_and_wildlife/77.012_powers_and_duties.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.012_powers_and_duties.md) for context.
 

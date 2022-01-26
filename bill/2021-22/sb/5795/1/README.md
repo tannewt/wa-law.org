@@ -1,6 +1,6 @@
 # Senate Bill 5795
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5795.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5795.pdf)
 ## Section 1
 The legislature finds that product manufacturers, including digital electronic product manufacturers, are restricting fair servicing and repair of their devices to the detriment of consumers' access to advanced electronics and other goods. The legislature intends to broaden access to the information, tools, and parts necessary for repair of manufactured products, thereby reducing unnecessary early disposal of those products, increasing consumer control over their own devices, and supporting a competitive repair market and the increased availability of remanufactured or repaired advanced electronics and other manufactured goods to create lower cost entry points for consumers to own advanced electronics and other manufactured goods.
 

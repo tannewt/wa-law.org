@@ -1,6 +1,6 @@
 # Senate Bill 5810
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5810.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5810.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.01](/rcw/48_insurance/48.001_initial_provisions.md). Here is the [modified chapter](rcw/48_insurance/48.001_initial_provisions.md) for context.
 

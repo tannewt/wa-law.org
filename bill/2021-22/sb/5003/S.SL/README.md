@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5003 - Session Law Chapter 172 Year 2021 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5003-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5003-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.02](/rcw/48_insurance/48.002_insurance_commissioner.md). Here is the [modified chapter](rcw/48_insurance/48.002_insurance_commissioner.md) for context.
 

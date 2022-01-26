@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1326 as Recommended by Local Government - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1326-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1326-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.24](/rcw/36_counties/36.024_county_coroner.md). Here is the [modified chapter](rcw/36_counties/36.024_county_coroner.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5661
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5661.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5661.pdf)
 ## Section 1
 The legislature finds that it is important for the proper management of the fish and wildlife of this state to have a fully qualified and confirmed fish and wildlife commission who represent the broad interests of the state of Washington. There are currently vacancies on the board and it has become clear that a contingency process for appointment is necessary to ensure that the commission is fully functional. The legislature finds that the leadership of the two largest caucuses are qualified and capable of appointing appropriate members to the commission when there has been a significant delay.
 

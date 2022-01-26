@@ -1,6 +1,6 @@
 # Substitute House Bill 1768 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1768-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1768-S.pdf)
 ## Section 2
 > This section modifies existing section [39.35A.020](/rcw/39_public_contracts_and_indebtedness/39.035A_performance-based_contracts_for_water_conservation_solid_waste_reduction_and_energy_equipment.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.035A_performance-based_contracts_for_water_conservation_solid_waste_reduction_and_energy_equipment.md) for context.
 

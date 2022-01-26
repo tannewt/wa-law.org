@@ -1,6 +1,6 @@
 # Substitute House Bill 1410 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1410-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1410-S.pdf)
 ## Section 1
 > This section modifies existing section [84.56.020](/rcw/84_property_taxes/84.56_collection_of_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.56_collection_of_taxes.md) for context.
 

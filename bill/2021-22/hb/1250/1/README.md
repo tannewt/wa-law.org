@@ -1,6 +1,6 @@
 # House Bill 1250
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1250.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1250.pdf)
 ## Section 1
 1. Washington state is grateful to be home to multitudes of United States armed forces members, veterans, and their families that have made the choice to protect freedom and our country.
 

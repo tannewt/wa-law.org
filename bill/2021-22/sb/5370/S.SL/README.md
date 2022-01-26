@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5370 - Session Law Chapter 287 Year 2021 as Recommended by Subcommittee on Behavioral Health
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5370-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5370-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [71.32.010](/rcw/71_mental_illness/71.32_mental_health_advance_directives.md). Here is the [modified chapter](rcw/71_mental_illness/71.32_mental_health_advance_directives.md) for context.
 

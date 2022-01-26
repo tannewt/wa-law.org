@@ -1,6 +1,6 @@
 # House Bill 1901
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1901.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1901.pdf)
 ## Section 1
 > This section modifies existing section [7.105.010](/rcw/07_special_proceedings_and_actions/7.105_civil_protection_orders.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.105_civil_protection_orders.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5501
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5501.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5501.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.305](/rcw/28A_common_school_provisions/28A.305_state_board_of_education.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.305_state_board_of_education.md) for context.
 

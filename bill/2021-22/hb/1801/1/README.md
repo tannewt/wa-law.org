@@ -1,6 +1,6 @@
 # House Bill 1801
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1801.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1801.pdf)
 ## Section 1
 The legislature finds that digital electronic equipment is often designed to be unrepairable by end users and independent repair shops, or repairable only at great expense. The legislature further finds that such design choices by original equipment manufacturers: Encourage consumers to purchase new devices instead of maintaining current devices; generate harmful electronic waste that clutters homes and landfills; damage the environment; waste finite resources that are essential to the manufacturing and functioning of digital electronic equipment; and impose an inequitable burden on individuals and groups that cannot readily afford to routinely replace expensive digital electronic equipment that has become an increasingly essential predicate to full participation in society. The legislature further finds that most digital electronic equipment is not currently marketed and sold with clear information on repairability, and thus consumers lack essential information they need when deciding whether to purchase digital electronic equipment. The legislature further finds that increased access to repairable digital electronic equipment will empower consumers, reduce electronic waste, reduce the costs of owning digital electronic equipment over time, and reduce inequities in access to digital electronic equipment.
 

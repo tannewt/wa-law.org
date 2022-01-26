@@ -1,6 +1,6 @@
 # House Bill 1606
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1606.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1606.pdf)
 ## Section 1
 The legislature finds that the federal court injunction in U.S. v. Washington directs the state to correct culverts under state maintained roads that hinder fish passage and create barriers for fish to swim upstream by 2030. The court order imposed environmental justice obligations to correct adverse impacts. The legislature finds the court order addresses the same issues that are sought to be addressed by chapter 314, Laws of 2021. Further review of projects only delay the correction of the adverse impacts and are counterproductive to the improved outcomes being sought. For this reason, the legislature is directing the department of transportation to forego review under chapter 70A.02 RCW.
 

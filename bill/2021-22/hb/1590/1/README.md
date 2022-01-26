@@ -1,6 +1,6 @@
 # House Bill 1590
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1590.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1590.pdf)
 ## Section 1
 The legislature recognizes that the COVID-19 pandemic continues to impact the delivery of education across the state, as school districts resume in-person instructional models with heightened efforts to protect the health and well-being of students and staff and address the pandemic's impact on student learning. The legislature also recognizes that state funding formulas are largely driven by enrollment, and the pandemic has resulted in unforeseen, temporary enrollment declines in many districts. Funding declines due to temporary, unforeseen changes in enrollment can affect a district's ability to maintain the staffing and resources needed to deliver education services. Stabilization funding in the 2020-21 school year provided important support for schools to maintain services amid enrollment declines. With this act and in the omnibus operating appropriations act, the legislature intends to extend stabilizing funding to districts that have seen temporary enrollment declines due to the COVID-19 pandemic.
 

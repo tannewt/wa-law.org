@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5105 as Recommended by State Government & Elections
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5105-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5105-S.pdf)
 ## Section 1
 > This section modifies existing section [43.06D.030](/rcw/43_state_government—executive/43.006D_office_of_equity.md). Here is the [modified chapter](rcw/43_state_government—executive/43.006D_office_of_equity.md) for context.
 

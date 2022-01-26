@@ -1,6 +1,6 @@
 # Senate Bill 5899
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5899.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5899.pdf)
 ## Section 1
 > This section modifies existing section [47.01.412](/rcw/47_public_highways_and_transportation/47.01_department_of_transportation.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.01_department_of_transportation.md) for context.
 

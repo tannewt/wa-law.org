@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1457 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1457-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1457-S.E.pdf)
 ## Section 1
 The legislature finds that broadband is an increasingly essential service necessary for economic development, reduction of use of roads and highways, delivery of medical services, education, and use of other technologies. The legislature also understands that maximizing the use of rights-of-way during construction or repair of transportation systems offers cost-effective opportunities for extending and improving broadband and high-speed internet connections throughout the state. It is the policy of the state to expedite the installation, improvement, and extension of broadband networks, and to remove barriers to cost-effective and expanded access to broadband networks.
 

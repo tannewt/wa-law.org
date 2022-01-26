@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5073 as Recommended by Subcommittee on Behavioral Health - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5073-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5073-S.PL.pdf)
 ## Section 5
 > This section modifies existing section [71.05.203](/rcw/71_mental_illness/71.05_mental_illness.md). Here is the [modified chapter](rcw/71_mental_illness/71.05_mental_illness.md) for context.
 

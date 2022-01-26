@@ -1,6 +1,6 @@
 # Senate Bill 5040 - Session Law Chapter 231 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5040.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5040.SL.pdf)
 ## Section 1
 > This section modifies existing section [70.200.170](/rcw/70_public_health_and_safety/70.200_donations_for_children.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.200_donations_for_children.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5268 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5268-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5268-S.E.pdf)
 ## Section 1
 1. The legislature finds that the recommendations in the December 2019 report, "Rethinking Intellectual and Developmental Disability Policy to Empower Clients, Develop Providers, and Improve Services" and recommendations in the 2021 preliminary report of the joint executive and legislative task force established in chapter 317, Laws of 2020 are the product of deliberations among a diverse and dedicated group of stakeholders and are critical to advancing the continuum of care for individuals with developmental disabilities.
 

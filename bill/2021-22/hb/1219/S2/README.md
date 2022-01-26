@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1219 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1219-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1219-S2.pdf)
 ## Section 1
 1. The legislature recognizes that dependency proceedings determine many critical aspects of a child's future, including whether the child may remain at home with their family, whether and how often the child sees their parents and siblings if they do not remain with their family, where the child attends school, and how long the child remains in state care. Children and youth, regardless of age, have many legal rights at stake in these proceedings, including a right to maintain family relationships, a right to freedom from harm, and a right to reasonable safety. Standards-based representation by a well-qualified attorney can be invaluable in protecting and advancing the child's legal rights and, where articulable, stated interests. Attorneys can advise and assist children and youth in presenting their experiences and position to the court, improving the court's comprehensive decision making.
 

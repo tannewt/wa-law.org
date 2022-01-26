@@ -1,6 +1,6 @@
 # House Bill 1879
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1879.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1879.pdf)
 ## Section 1
 FOR THE DEPARTMENT OF COMMERCE—WASHINGTON STATE CONVENTION ECONOMY GRANTS
 

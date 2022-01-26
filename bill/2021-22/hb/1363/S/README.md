@@ -1,6 +1,6 @@
 # Substitute House Bill 1363 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1363-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1363-S.pdf)
 ## Section 1
 1. [Empty]
 

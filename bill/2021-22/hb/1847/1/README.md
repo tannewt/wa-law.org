@@ -1,6 +1,6 @@
 # House Bill 1847
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1847.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1847.pdf)
 ## Section 1
 1. The legislature recognizes that Washington is one of the largest exporters of food and agricultural goods in the country. The legislature also recognizes that growing, cultivating, and harvesting the food that we all consume is significant and important work. The legislature also recognizes that farmworkers are unique. Often, farmworkers must contend with dangers in their work environment, such as pesticides, heat, heavy equipment, and other elements, and deal with challenges such as inadequate housing, minimal pay, and jobs of short duration.
 

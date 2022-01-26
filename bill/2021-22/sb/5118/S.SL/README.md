@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5118 - Session Law Chapter 265 Year 2021 as Recommended by Human Services, Reentry & Rehabilitation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5118-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5118-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [9.98.010](/rcw/09_crimes_and_punishments/9.098_prisoners—untried_indictments_informations_complaints.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.098_prisoners—untried_indictments_informations_complaints.md) for context.
 

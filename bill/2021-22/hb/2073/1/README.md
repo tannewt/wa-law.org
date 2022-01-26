@@ -1,6 +1,6 @@
 # House Bill 2073
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2073.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2073.pdf)
 ## Section 1
 > This section modifies existing section [43.34.010](/rcw/43_state_government—executive/43.034_capitol_committee.md). Here is the [modified chapter](rcw/43_state_government—executive/43.034_capitol_committee.md) for context.
 

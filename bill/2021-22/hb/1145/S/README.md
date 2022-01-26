@@ -1,6 +1,6 @@
 # Substitute House Bill 1145 as Recommended by Environment & Energy
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1145-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1145-S.pdf)
 ## Section 1
 > This section modifies existing section [70A.530.010](/rcw/70A_environmental_health_and_safety/70A.530_carryout_bags.md). Here is the [modified chapter](rcw/70A_environmental_health_and_safety/70A.530_carryout_bags.md) for context.
 

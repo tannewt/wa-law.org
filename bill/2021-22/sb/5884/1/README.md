@@ -1,6 +1,6 @@
 # Senate Bill 5884
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5884.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5884.pdf)
 ## Section 1
 The legislature finds that the behavioral health support specialist is a new service delivery model in Washington state based on improving access to psychological therapies (IAPT), an evidence-based model developed by the national health service in England. IAPT services are characterized by evidenced-based psychological therapies, delivered by trained and accredited practitioners with training matched to the intensity and expected duration of the mental health problem. The model features routine outcome monitoring and regular, outcome-focused supervision. Use of behavioral health support specialists in Washington is expected to improve access to behavioral health services and ease workforce shortages while helping behavioral health professionals work at the top of their scope of practice.
 

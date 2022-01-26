@@ -1,6 +1,6 @@
 # House Bill 1376
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1376.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1376.pdf)
 ## Section 2
 The repeal of the statutes listed in section 1 of this act does not affect any right accrued or established, or any liability or penalty incurred, under those statutes before their repeal.
 

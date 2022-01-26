@@ -1,6 +1,6 @@
 # Senate Bill 5691
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5691.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5691.pdf)
 ## Section 1
 It is the intent of the legislature to ensure transparency and accountability within the criminal justice system, particularly for those with discretion to charge or divert criminal cases. The legislature intends for local prosecutors to help ensure transparency and local engagement through the production and posting of an annual report detailing local strategy for charging various classes of crimes. The legislature intends to increase public awareness of the discretionary role prosecutors play in the criminal justice system, as well as illuminate the strategy and decisions of local elected prosecutors. The legislature does not intend to burden the prosecutorial bar with undue effort or reporting requirements that would diminish or interfere with a local prosecutor's ability to fulfill his or her role as an elected official.
 

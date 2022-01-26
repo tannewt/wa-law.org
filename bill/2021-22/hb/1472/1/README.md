@@ -1,6 +1,6 @@
 # House Bill 1472
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1472.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1472.pdf)
 ## Section 1
 > This section modifies existing section [28B.77.005](/rcw/28B_higher_education/28B.077_student_achievement_council.md). Here is the [modified chapter](rcw/28B_higher_education/28B.077_student_achievement_council.md) for context.
 

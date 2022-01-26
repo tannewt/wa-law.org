@@ -1,6 +1,6 @@
 # House Bill 1561
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1561.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1561.pdf)
 ## Section 1
 > This section modifies existing section [9A.42.100](/rcw/09A_washington_criminal_code/9A.42_criminal_mistreatment.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.42_criminal_mistreatment.md) for context.
 

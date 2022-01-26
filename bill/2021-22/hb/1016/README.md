@@ -1,5 +1,5 @@
 # HB 1016 - Juneteenth
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1016&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1016&Year=2021)
 
 Making Juneteenth a legal holiday.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1391 as Recommended by Capital Budget
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1391-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1391-S.pdf)
 ## Section 1
 > This section modifies existing section [39.30.060](/rcw/39_public_contracts_and_indebtedness/39.030_contracts—indebtedness_limitations—competitive_bidding_violations.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.030_contracts—indebtedness_limitations—competitive_bidding_violations.md) for context.
 

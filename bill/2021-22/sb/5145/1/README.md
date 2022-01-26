@@ -1,6 +1,6 @@
 # Senate Bill 5145 - Session Law Chapter 181 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5145.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5145.SL.pdf)
 ## Section 1
 > This section modifies existing section [79.14.300](/rcw/79_public_lands/79.014_mineral_coal_oil_and_gas_leases.md). Here is the [modified chapter](rcw/79_public_lands/79.014_mineral_coal_oil_and_gas_leases.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5448
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5448.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5448.pdf)
 ## Section 1
 > This section modifies existing section [46.16A.110](/rcw/46_motor_vehicles/46.16A_registration.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.16A_registration.md) for context.
 

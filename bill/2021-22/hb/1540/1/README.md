@@ -1,6 +1,6 @@
 # House Bill 1540
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1540.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1540.pdf)
 ## Section 1
 The legislature finds that some communities are encountering negative impacts to the environment and water quality caused when people are unable to find permanent housing. There is a need to improve government accountability by focusing resources on the problem of illicit dischargers of wastewater into storm drains that flow into critical aquifers that provide drinking water, bodies of water, flood ways, and flood zones. This act provides some tools to help communities address issues surrounding illicit discharges connected to vehicles setting up residence on public property never intended for this purpose. This act adds flexibility to existing funding sources, keeping in mind the restrictions of Article VIII, section 7 of the state Constitution that aid can be provided to support the poor and infirm, and empowers the department of ecology and local governments to apply meaningful enforcement that results in improved conditions and safer communities.
 

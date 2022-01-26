@@ -1,6 +1,6 @@
 # House Bill 1093
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1093.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1093.pdf)
 ## Section 901
 > This section modifies existing section [43.88.585](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
 

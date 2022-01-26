@@ -1,6 +1,6 @@
 # Senate Bill 5181
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5181.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5181.pdf)
 ## Section 1
 The purpose of this act is to assist in the financing of school district facilities by clarifying how school districts may fully participate in the federal new markets tax credit, federal rehabilitation tax credit program, and similar federal tax credit programs.
 

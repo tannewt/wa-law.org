@@ -1,6 +1,6 @@
 # Engrossed House Bill 1271 - Session Law Chapter 122 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1271.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1271.SL.pdf)
 ## Section 1
 The legislature finds that the ability of county elected officials to fulfill their statutory responsibilities through continued conduct of essential functions and services during the current COVID-19 pandemic and potential future public health crises requires updating, and at times temporary waiver, of these requirements in statute. The legislature intends to update the manner in which services may be provided; maintaining access and opportunity. In addition, the legislature intends to clarify the conditions under which waiver or suspension of specific statutes may be assumed by county elected officials in order to eliminate temporary barriers to continuity of operations.
 

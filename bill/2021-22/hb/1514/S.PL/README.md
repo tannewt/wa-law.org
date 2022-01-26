@@ -1,6 +1,6 @@
 # Substitute House Bill 1514 as Recommended by Transportation - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1514-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1514-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [46.18.285](/rcw/46_motor_vehicles/46.18_special_license_plates.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.18_special_license_plates.md) for context.
 

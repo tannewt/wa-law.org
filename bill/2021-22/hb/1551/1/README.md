@@ -1,6 +1,6 @@
 # House Bill 1551
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1551.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1551.pdf)
 ## Section 1
 1. The legislature finds that Washington state residents want to act affirmatively for the support and promotion of the labor rights of workers, and protections against the exploitation of child labor, as it pertains to the sourcing of transportation fuels. In an attempt to remedy historic labor practices that enlisted children in dangerous work at a young age, including in the fuel production sector, federal agencies and laws prohibit the labor of minors from the age of five to 14 in most instances, and restrict the types of especially dangerous work that may be performed by minors between the ages of 14 and 18. These basic child labor protections do not exist in all countries from which Washington has historically sourced fuels.
 

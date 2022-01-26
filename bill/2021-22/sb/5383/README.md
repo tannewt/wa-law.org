@@ -1,7 +1,7 @@
-# SB 5383 - PUD telecomm. services
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5383&Year=2021)
+# SB 5383 - Public telecomm. services
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5383&Year=2021)
 
-Authorizing a public utility district to provide retail telecommunications services in unserved areas under certain conditions.
+Authorizing public utility districts and port districts to provide retail telecommunications services in unserved areas under certain conditions.
 
 ## Revisions
 * [Original Bill](1/)

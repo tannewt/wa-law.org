@@ -1,6 +1,6 @@
 # Senate Bill 5188
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5188.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5188.pdf)
 ## Section 1
 The legislature finds that there exists in the state of Washington billions of dollars of critical local projects for the planning, acquisition, construction, repair, replacement, rehabilitation, or improvement of streets and roads, bridges, water systems, storm and sanitary sewage systems, solid waste handling, communications systems, housing, and other public infrastructure and economic development projects. But while some local governments successfully borrow for infrastructure and economic development capital projects through private sector lenders and the bond markets, other government entities do not have the same access to capital at attractive rates to be used in building out public infrastructure.
 

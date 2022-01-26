@@ -1,6 +1,6 @@
 # Senate Bill 5010
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5010.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5010.pdf)
 ## Section 1
 The use of credit scoring to calculate rates for personal lines of insurance is unfair and has a disproportionate economic impact on the poor and communities of color in our state. Consequently, no insurer engaged in writing personal lines of insurance including property and casualty coverage shall, in connection with underwriting of those lines of insurance, refuse to issue or renew a private insurance policy based upon an individual's credit information or history including, but not limited to, a numerical credit-based insurance score or other credit rating of an applicant or insured. Furthermore, no insurer shall file rates for personal lines of insurance based upon credit information including, but not limited to, a numerical credit-based insurance score or other credit rating of an applicant or insured.
 

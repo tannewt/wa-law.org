@@ -1,6 +1,6 @@
 # Senate Bill 5926
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5926.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5926.pdf)
 ## Section 1
 > This section modifies existing section [82.87.020](/rcw/82_excise_taxes/82.87_capital_gains_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.87_capital_gains_tax.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5655
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5655.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5655.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [72.23](/rcw/72_state_institutions/72.23_public_and_private_facilities_for_mentally_ill.md). Here is the [modified chapter](rcw/72_state_institutions/72.23_public_and_private_facilities_for_mentally_ill.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1372 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1372-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1372-S.E.pdf)
 ## Section 1
 The legislature finds that:
 

@@ -1,6 +1,6 @@
 # House Bill 1702
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1702.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1702.pdf)
 ## Section 1
 In 2019, Washington state set an ambitious statutory broadband internet connectivity goal that every residence and business have access to broadband with 150 megabits per second minimum download and upload speeds by 2028. When establishing that goal, the legislature observed that broadband is critical to full participation in society and the modern economy and recognized that reaching the goal would require additional and sustained investment, research, local and community participation, and public-private partnerships. In 2020, the legislature passed legislation recognizing that digital exclusion carries an immense societal and economic cost for Washingtonians, harming opportunities for economic success and exacerbating existing wealth and income gaps. In 2021, the legislature took steps to increase the authority of local governments to provide retail broadband service.
 

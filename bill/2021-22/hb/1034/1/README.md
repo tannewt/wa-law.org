@@ -1,6 +1,6 @@
 # House Bill 1034 - Session Law Chapter 117 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1034.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1034.SL.pdf)
 ## Section 1
 > This section modifies existing section [36.69.145](/rcw/36_counties/36.069_park_and_recreation_districts.md). Here is the [modified chapter](rcw/36_counties/36.069_park_and_recreation_districts.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1678
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1678.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1678.pdf)
 ## Section 1
 The legislature finds that domestic violence is a serious and pervasive issue facing many Washington families and communities, and many of the most severe crimes that occur in this state are those involving intimate partner and family violence. Domestic violence offenses carry wide ranging effects, including injury to mental and physical health, erosion of economic and housing stability, and vicarious victimization of children, who are often bystander witnesses. Washington state data demonstrates a high rate of reoffense among perpetrators of domestic violence, and there is currently no way of knowing whether any particular person has an offense history in absence of a criminal background check or court records request.
 

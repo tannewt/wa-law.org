@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1287 - Session Law Chapter 300 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1287-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1287-S2.SL.pdf)
 ## Section 1
 1. Motor vehicles are a significant source of air pollution, including greenhouse gas emissions, in Washington. The transportation sector accounts for nearly one-half of greenhouse gas emissions in Washington, and on-road vehicle emissions are responsible for the vast majority of the transportation sector emissions.
 

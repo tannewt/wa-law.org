@@ -1,6 +1,6 @@
 # House Bill 1063 - Session Law Chapter 057 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1063.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1063.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.205.095](/rcw/18_businesses_and_professions/18.205_substance_use_disorder_professionals.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.205_substance_use_disorder_professionals.md) for context.
 

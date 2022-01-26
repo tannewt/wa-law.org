@@ -1,6 +1,6 @@
 # House Bill 1937
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1937.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1937.pdf)
 ## Section 1
 According to a recent study of provisional data collected by the United States centers for disease control and prevention, overdose from fentanyl is now the leading cause of death of Americans between the ages of 18 and 45. Washington is not immune from the opioid epidemic. Fentanyl has had a staggering effect on its communities, and fentanyl-related overdoses are increasing across the state. Under current law, possession of fentanyl is classified as a simple misdemeanor, which is the lowest criminal penalty available. This is an insufficient criminal justice system response to this extremely dangerous drug. The legislature intends to restore the former felony penalties for possession of fentanyl in order to reflect the extreme hazards associated with this highly potent substance, and additionally intends to launch a public outreach campaign to enhance public education on this issue and connect affected individuals with available resources.
 

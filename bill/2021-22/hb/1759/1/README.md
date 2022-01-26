@@ -1,6 +1,6 @@
 # House Bill 1759
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1759.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1759.pdf)
 ## Section 1
 1. The legislature recognizes that access to information regarding drug overdoses and the secure storage of medication and firearms can help decrease the risks of related injuries and deaths by aiding parents and students in their efforts to keep children and each other safe. The legislature also recognizes that significant increases in ongoing student behavioral health crises, including increased suicide ideation and completion, requires policymakers to promptly and thoughtfully consider reasonable ways of limiting children's access to lethal means.
 

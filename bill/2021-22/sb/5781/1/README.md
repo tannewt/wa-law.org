@@ -1,6 +1,6 @@
 # Senate Bill 5781
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5781.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5781.pdf)
 ## Section 1
 > This section modifies existing section [9A.56.350](/rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md) for context.
 

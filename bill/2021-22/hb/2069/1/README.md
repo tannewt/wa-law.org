@@ -1,6 +1,6 @@
 # House Bill 2069
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2069.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2069.pdf)
 ## Section 1
 The legislature finds that many service-based organizations provide much needed value and service to their communities, and a source of fund-raising for these organizations is hampered by their inability to offer modern purchase methods. The legislature also finds that due to the pandemic, people are less able to participate in in-person events and gatherings. The legislature also finds that due to laws that restrict a nonprofit organization's ability to fund-raise using these easier methods, they are falling behind. Therefore, the legislature intends to ease the restrictions on selling raffle tickets for these nonprofits so they can continue to provide valuable service to their communities.
 

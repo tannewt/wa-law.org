@@ -1,6 +1,6 @@
 # Senate Bill 5088
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5088.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5088.pdf)
 ## Section 1
 The legislature finds that:
 

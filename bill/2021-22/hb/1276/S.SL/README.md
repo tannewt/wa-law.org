@@ -1,6 +1,6 @@
 # Substitute House Bill 1276 - Session Law Chapter 069 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1276-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1276-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.73.030](/rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.073_emergency_medical_care_and_transportation_services.md) for context.
 

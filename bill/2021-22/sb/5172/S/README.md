@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5172 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5172-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5172-S.pdf)
 ## Section 1
 1. The legislature recognizes that the numerous cases in Washington state have addressed the application of the prospective and retroactive effect of the courts' decisions, and that the courts have established a general rule favoring retroactivity. The legislature finds that recent decisions relating to overtime wage claims create exceptional cases requiring unique legislative action.
 

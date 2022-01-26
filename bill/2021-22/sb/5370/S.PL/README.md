@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5370 as Recommended by Subcommittee on Behavioral Health - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5370-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5370-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [71.32.010](/rcw/71_mental_illness/71.32_mental_health_advance_directives.md). Here is the [modified chapter](rcw/71_mental_illness/71.32_mental_health_advance_directives.md) for context.
 

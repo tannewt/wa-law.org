@@ -1,6 +1,6 @@
 # House Bill 1167 - Session Law Chapter 063 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1167.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1167.SL.pdf)
 ## Section 1
 > This section modifies existing section [2.08.065](/rcw/02_courts_of_record/2.08_superior_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.08_superior_courts.md) for context.
 

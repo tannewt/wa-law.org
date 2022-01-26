@@ -1,6 +1,6 @@
 # Senate Bill 5826
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5826.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5826.pdf)
 ## Section 1
 > This section modifies existing section [77.12.085](/rcw/77_fish_and_wildlife/77.012_powers_and_duties.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.012_powers_and_duties.md) for context.
 

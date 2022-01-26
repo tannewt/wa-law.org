@@ -1,6 +1,6 @@
 # House Bill 1605
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1605.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1605.pdf)
 ## Section 1
 Washington state's target zero program envisions Washington having policies that will lead to zero deaths of people using the transportation system. For almost two decades more than 200 people have lost their lives annually in circumstances where a vehicle unintentionally left its lane of travel. Such fatalities made up 48 percent of all traffic-related fatalities in 2019. There are multiple ways to make improvements on the highway system that have been proven in other locations to help reduce lane departures and fatalities. This act is intended to direct resources towards deploying such improvements by requiring the Washington state department of transportation to create a program that is focused on addressing this specific safety concern.
 

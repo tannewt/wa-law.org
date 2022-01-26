@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1214 - Session Law Chapter 038 Year 2021 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1214-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1214-S.SL.pdf)
 ## Section 1
 1. The legislature acknowledges the disproportionate impact that interactions with police have on youth of color and on Black youth in particular. Not only are Black youth more likely than their white peers to have contact with police at a young age despite similar or lower rates of illegal behavior, but early police contact for Black youth is predictive of future arrests in a way that is not true for white youth.
 

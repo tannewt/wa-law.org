@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5423 as Recommended by Health & Long Term Care - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5423-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5423-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [18.71.030](/rcw/18_businesses_and_professions/18.071_physicians.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.071_physicians.md) for context.
 

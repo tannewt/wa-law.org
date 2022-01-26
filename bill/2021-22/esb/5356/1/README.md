@@ -1,6 +1,6 @@
 # Engrossed Senate Bill 5356 - Session Law Chapter 103 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5356.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5356.SL.pdf)
 ## Section 1
 > This section modifies existing section [39.30.060](/rcw/39_public_contracts_and_indebtedness/39.030_contracts—indebtedness_limitations—competitive_bidding_violations.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.030_contracts—indebtedness_limitations—competitive_bidding_violations.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5772
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5772.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5772.pdf)
 ## Section 1
 > This section modifies existing section [2.70.020](/rcw/02_courts_of_record/2.70_office_of_public_defense.md). Here is the [modified chapter](rcw/02_courts_of_record/2.70_office_of_public_defense.md) for context.
 

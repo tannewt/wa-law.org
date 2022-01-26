@@ -1,7 +1,7 @@
 # SB 5022 - Recycling, waste, & litter
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5022&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5022&Year=2021)
 
-Concerning the management of certain materials to support recycling and waste and litter reduction.
+Managing solid waste through prohibitions on expanded polystyrene, providing for food serviceware upon customer request, and requiring recycled content in plastic beverage containers. (REVISED FOR ENGROSSED: Managing solid waste through prohibitions on expanded polystyrene, providing for food serviceware upon customer request, and addressing plastic packaging. )
 
 ## Revisions
 * [Original Bill](1/)

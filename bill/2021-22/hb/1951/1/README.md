@@ -1,6 +1,6 @@
 # House Bill 1951
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1951.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1951.pdf)
 ## Section 2
 > This section modifies existing section [64.06.013](/rcw/64_real_property_and_conveyances/64.06_real_property_transfers—sellers_disclosures.md). Here is the [modified chapter](rcw/64_real_property_and_conveyances/64.06_real_property_transfers—sellers_disclosures.md) for context.
 

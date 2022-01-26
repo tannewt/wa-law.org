@@ -1,6 +1,6 @@
 # Senate Bill 5464
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5464.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5464.pdf)
 ## Section 1
 1. Education is a constitutional right for children residing in Washington state. The often cited paramount duty provision in our state Constitution reflects a proud tradition that values the dignity of education and the worth of every child regardless of background or circumstance.
 

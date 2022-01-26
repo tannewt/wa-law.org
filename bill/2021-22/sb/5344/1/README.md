@@ -1,6 +1,6 @@
 # Senate Bill 5344
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5344.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5344.pdf)
 ## Section 1
 Appropriations in this act are for the fiscal biennium ending June 30, 2021.
 

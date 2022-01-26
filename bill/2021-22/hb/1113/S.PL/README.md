@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1113 as Recommended by Education - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1113-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1113-S.PL.pdf)
 ## Section 1
 1. The legislature acknowledges that student absences from school can be an indicator that the academic and social-emotional needs of the students are not being met in the public school or classroom or through the school culture or climate. Student absences can also signal to educators that families may need additional information and assistance in supporting student learning within the home.
 

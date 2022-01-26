@@ -1,6 +1,6 @@
 # Senate Bill 5192
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5192.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5192.pdf)
 ## Section 1
 > This section modifies existing section [19.94.010](/rcw/19_business_regulations—miscellaneous/19.094_weights_and_measures.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.094_weights_and_measures.md) for context.
 

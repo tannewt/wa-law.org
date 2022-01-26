@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5329 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5329-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5329-S.pdf)
 ## Section 1
 > This section modifies existing section [82.42.090](/rcw/82_excise_taxes/82.42_aircraft_fuel_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.42_aircraft_fuel_tax.md) for context.
 

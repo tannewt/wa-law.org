@@ -1,5 +1,5 @@
 # HB 1208 - Learning assistance program
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1208&Year=2021)
+*Status: Effective date 4/21/2021***.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1208&Year=2021)
 
 Modifying the learning assistance program.
 

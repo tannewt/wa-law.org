@@ -1,6 +1,6 @@
 # House Bill 1933
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1933.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1933.pdf)
 ## Section 1
 1. The governing body of a county, city, or town with a scarcity of manufacturing and industrial lands, as described in subsection (2)(c) of this section, may by resolution or ordinance impose an excise tax on marijuana producers and processors licensed pursuant to RCW 69.50.325. The tax may be imposed on producers and processors operating within their jurisdiction. The excise tax rate must be equivalent to one percent, or less, of the marijuana producer, processor, or producer and processor's gross receipts from sales of marijuana and marijuana products authorized in chapter 69.50 RCW.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5825
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5825.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5825.pdf)
 ## Section 1
 The legislature finds that the lack of sufficient affordable housing inventory, specifically rental housing, is deeply felt statewide. The legislature also finds that despite the administration of numerous local rental property registration and landlord licensing programs, it is difficult to accurately track housing inventory and understand the extent of affordable housing need and housing supply shortages on a statewide scale. To accurately track and maintain the level of rental and vacant housing in this state, the legislature intends with this act to convene a work group to evaluate the feasibility of creating a statewide rental and vacant property registration program and database.
 

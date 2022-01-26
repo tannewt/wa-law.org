@@ -1,6 +1,6 @@
 # Senate Bill 5595
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5595.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5595.pdf)
 ## Section 3
 > This section modifies existing section [28A.400.007](/rcw/28A_common_school_provisions/28A.400_employees.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.400_employees.md) for context.
 

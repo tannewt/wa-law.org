@@ -1,6 +1,6 @@
 # House Bill 1623
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1623.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1623.pdf)
 ## Section 1
 The legislature finds that states such as Texas and California recently experienced decreased power supply reliability and rolling blackouts due to weather events, inadequate dispatchable generating resources, and other factors. Several studies have shown that the Northwest will experience a large energy capacity shortfall by 2030.
 

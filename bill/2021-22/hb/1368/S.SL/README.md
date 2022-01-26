@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1368 - Session Law Chapter 003 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1368-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1368-S.SL.pdf)
 ## Section 1
 Appropriations in this act are for the fiscal biennium ending June 30, 2021.
 

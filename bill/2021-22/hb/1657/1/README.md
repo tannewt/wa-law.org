@@ -1,6 +1,6 @@
 # House Bill 1657
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1657.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1657.pdf)
 ## Section 1
 The legislature finds that the demand for truck parking in Washington far exceeds supply. In a 2016 Washington state department of transportation survey, over 60 percent of truckers reported spending an hour or more per day looking for parking. The shortage of truck parking stifles economic growth, increases pollution, and makes our roadways less safe as fatigued drivers cannot find a safe place to park.
 

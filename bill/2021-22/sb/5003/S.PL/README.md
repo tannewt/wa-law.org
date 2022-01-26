@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5003 as Recommended by Health & Long Term Care - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5003-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5003-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.02](/rcw/48_insurance/48.002_insurance_commissioner.md). Here is the [modified chapter](rcw/48_insurance/48.002_insurance_commissioner.md) for context.
 

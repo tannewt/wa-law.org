@@ -1,6 +1,6 @@
 # Substitute House Bill 1330 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1330-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1330-S.pdf)
 ## Section 1
 The legislature finds that encouraging citizens to own and use electric bicycles for commuting can replace light duty passenger vehicles and thus reduce congestion, local air pollution, and global carbon pollution while enhancing citizens' health and saving commuters money. The legislature recognizes that people with lower incomes have fewer financial resources for purchasing these types of vehicles, which can help them commute to work and school with reduced financial burdens. It is therefore the intent of this legislation to increase electric bicycle sales by providing an exemption from the state sales tax on new qualifying vehicle purchases.
 

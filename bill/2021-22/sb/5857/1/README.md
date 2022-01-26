@@ -1,6 +1,6 @@
 # Senate Bill 5857
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5857.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5857.pdf)
 ## Section 1
 The legislature finds that funding actions pertaining to water availability, drought management, flood control, and pollution cleanup are all necessary to ensure the continued protection of the environment and economic vitality of the state.  The legislature intends to continue the traditional programs that have been funded by the model toxics control act as well as provide increased mitigation against drought and floods, as well as sustain water flows.
 

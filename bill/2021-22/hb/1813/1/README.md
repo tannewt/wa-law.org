@@ -1,6 +1,6 @@
 # House Bill 1813
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1813.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1813.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.200](/rcw/48_insurance/48.200_health_care_benefit_managers.md). Here is the [modified chapter](rcw/48_insurance/48.200_health_care_benefit_managers.md) for context.
 

@@ -1,6 +1,6 @@
 # Substitute House Bill 1044 as Recommended by College & Workforce Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1044-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1044-S.pdf)
 ## Section 2
 1. [Empty]
 

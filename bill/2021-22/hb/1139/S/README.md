@@ -1,6 +1,6 @@
 # Substitute House Bill 1139 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1139-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1139-S.pdf)
 ## Section 1
 1. The legislature recognizes that the United States environmental protection agency and centers for disease control and prevention acknowledge that there is no known safe level of lead in a child's blood. Even low levels of lead exposure can cause permanent cognitive, academic, and behavioral difficulties in children. The American academy of pediatrics recommends government action to ensure that the lead concentration in drinking water at schools does not exceed one part per billion.
 

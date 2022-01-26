@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1140 - Session Law Chapter 328 Year 2021 as Recommended by Civil Rights & Judiciary
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1140-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1140-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [13.40](/rcw/13_juvenile_courts_and_juvenile_offenders/13.40_juvenile_justice_act_of_1977.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.40_juvenile_justice_act_of_1977.md) for context.
 

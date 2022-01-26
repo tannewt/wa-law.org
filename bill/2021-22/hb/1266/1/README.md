@@ -1,6 +1,6 @@
 # House Bill 1266
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1266.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1266.pdf)
 ## Section 1
 When the legislature adopted chapter 13, Laws of 2017 3rd sp. sess., structural changes to compensation allocations were implemented including increases to better reflect comparable wages, changes to an average salary allocation instead of one based on the average years of experience and education for certificated staff in a district, and regionalization factors to reflect the varying costs of living in different regions of the state. In subsequent years, the experience mix factor has been created to reflect higher average salary cost in districts that have higher than average concentrations of staff with more years of experience and advanced educational attainment.
 

@@ -1,6 +1,6 @@
 # House Bill 1891
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1891.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1891.pdf)
 ## Section 1
 1. The legislature finds that ranchers, farmers, rural property owners, and others who live and work in the rural areas of our state that are most susceptible to the threat of wildfire are uniquely situated, by virtue of their knowledge of the land and proximity to wildfires, to provide critical initial attack firefighting capabilities.
 

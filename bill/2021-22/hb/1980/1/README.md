@@ -1,6 +1,6 @@
 # House Bill 1980
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1980.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1980.pdf)
 ## Section 1
 The legislature finds that individuals with intellectual and developmental disabilities have the right to choose how they engage in their community, while having the necessary supports to do so. The dual services prohibition between individual supported employment and community inclusion has prevented individuals with intellectual and developmental disabilities from engaging in the supported activities, volunteerism, and social and practical skill-building offered by community inclusion while employed or waiting for job placement. This lack of dual services has left many individuals with intellectual and developmental disabilities unengaged, isolated, and without the freedom to choose between services. By removing this prohibition, the legislature intends to enhance and supplement individual supported employment and give back an individual's right to participate in multiple services that best meet their needs for community growth and engagement.
 

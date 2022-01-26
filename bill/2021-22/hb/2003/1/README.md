@@ -1,6 +1,6 @@
 # House Bill 2003
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2003.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2003.pdf)
 ## Section 1
 1. The legislature finds that Washington's statewide waste recovery rate, which seeks to preserve public health, safety, and welfare, and conserve energy and natural resources, has been on a declining trend since 2011 and that Washington is not on track to meet the statewide goal of 50 percent waste recovery established in 1989.
 

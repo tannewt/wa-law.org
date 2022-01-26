@@ -1,6 +1,6 @@
 # Substitute House Bill 1100 as Recommended by Housing, Human Services & Veterans
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1100-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1100-S.pdf)
 ## Section 1
 1. The legislature finds that:
 

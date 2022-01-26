@@ -1,6 +1,6 @@
 # Substitute House Bill 1264 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1264-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1264-S.pdf)
 ## Section 1
 The legislature finds that the health, safety, and productivity of all Washington communities, including historically marginalized communities, is of the utmost importance. All Washingtonians are harmed by unintended disparities created by legislation. Therefore, the legislature intends to create a tool to provide legislators with aggregated and disaggregated demographical data and other information to help legislators proactively identify possible disparate impacts on historically marginalized communities, and thus make better informed and intentional decisions on legislative proposals. The legislature also intends for the office of equity to provide agency training on completing an equity impact statement, in order to support the important work that the office of financial management is tasked with under this act, and to provide legislators with an effective tool to aid in their decision making.
 

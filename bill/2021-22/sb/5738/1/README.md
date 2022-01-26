@@ -1,6 +1,6 @@
 # Senate Bill 5738
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5738.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5738.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [46.16A](/rcw/46_motor_vehicles/46.16A_registration.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.16A_registration.md) for context.
 

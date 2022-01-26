@@ -1,6 +1,6 @@
 # House Bill 1810
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1810.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1810.pdf)
 ## Section 1
 The legislature finds that access to appropriate and affordable digital electronic products is necessary to overcome digital inequities in Washington state and that broader distribution of the information and tools necessary to repair digital electronic products will shorten repair times and lower costs for consumers.
 

@@ -1,6 +1,6 @@
 # House Bill 1462
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1462.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1462.pdf)
 ## Section 1
 1. The legislature finds that in 2020, the legislature enacted Engrossed Substitute Senate Bill No. 5385, which requires regulated health carriers, public employee and school employee health plans, and medicaid managed care plans to reimburse a provider for health care services provided through telemedicine at the same rate as health care services provided in person, unless an exception is met. However, the legislature finds that since its enactment there has been some controversy as to the meaning of the term rate.
 

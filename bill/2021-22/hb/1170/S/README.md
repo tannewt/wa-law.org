@@ -1,6 +1,6 @@
 # Substitute House Bill 1170 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1170-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1170-S.pdf)
 ## Section 1
 This act may be known and cited as the Washington BEST manufacturing act.
 

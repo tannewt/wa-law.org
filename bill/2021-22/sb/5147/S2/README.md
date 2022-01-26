@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5147 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5147-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5147-S2.pdf)
 ## Section 1
 The COVID-19 pandemic has created a unique set of challenges and circumstances that have tested the K-12 education system. Due to reduced instructional time, educational inequities, and the inability to access technology and educational services, many students have suffered learning loss and a disruption to their educational experience. As a result, the legislature finds that additional academic programs may help students to obtain the knowledge and skills needed to prevent negative educational outcomes. By utilizing a series of optional programs, including additional instructional days, opening various school facilities, extra academic opportunities, and an alternative school calendar, selected school districts will be better able to address the negative outcomes of the pandemic in a flexible and locally responsive manner while reengaging students to meet their social, physical, and academic needs.
 

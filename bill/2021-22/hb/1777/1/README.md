@@ -1,6 +1,6 @@
 # House Bill 1777
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1777.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1777.pdf)
 ## Section 1
 > This section modifies existing section [74.39.007](/rcw/74_public_assistance/74.39_long-term_care_service_options.md). Here is the [modified chapter](rcw/74_public_assistance/74.39_long-term_care_service_options.md) for context.
 

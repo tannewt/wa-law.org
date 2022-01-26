@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5543 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5543-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5543-S.pdf)
 ## Section 1
 1. The legislature finds that gasoline-powered and diesel-powered landscape equipment emit a host of air pollutants, including nitrogen oxides, particulate matter, carbon dioxide, and other pollutants, contributing to the global climate crisis and negatively impacting public health. According to the United States environmental protection agency, gas-powered mowers contribute five percent of United States air pollution and estimates indicate more than 17,000,000 gallons of fuel, mostly gasoline, is spilled each year while refueling lawn equipment. Nationally, the department of transportation data shows that in 2018, Americans used nearly 3,000,000,000 gallons of gasoline running lawn and garden equipment, equivalent to the annual energy use of more than 3,000,000 homes. One hour of running a gas lawnmower can contribute as much smog-forming pollution as driving a passenger car 300 miles, and one hour of running a gas leaf blower can contribute as much smog-forming pollution as driving a passenger car 1,100 miles.
 

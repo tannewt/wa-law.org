@@ -1,6 +1,6 @@
 # Senate Bill 5578
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5578.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5578.pdf)
 ## Section 1
 > This section modifies existing section [82.12.010](/rcw/82_excise_taxes/82.12_use_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.12_use_tax.md) for context.
 

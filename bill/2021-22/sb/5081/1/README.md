@@ -1,6 +1,6 @@
 # Senate Bill 5081
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5081.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5081.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.21A](/rcw/43_state_government—executive/43.021A_department_of_ecology.md). Here is the [modified chapter](rcw/43_state_government—executive/43.021A_department_of_ecology.md) for context.
 

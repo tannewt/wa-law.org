@@ -1,6 +1,6 @@
 # House Bill 1883
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1883.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1883.pdf)
 ## Section 1
 1. The legislature finds that youth and young adults continue to disproportionately exit public systems of care into chronic instability, such as homelessness and involvement in the criminal legal system. Further, support systems in Washington are unnecessarily fragmented and often difficult for youth and young adults to navigate during times of need. The legislature finds that cascading impacts of insufficient support and mentorship create systemic barriers and increased rates of chronic stress and trauma including, but not limited to, reduced high school graduation rates, chronic homelessness, increased child welfare and juvenile justice and criminal legal system involvement, limited postsecondary education attainment, and greater barriers to employment in adulthood.
 

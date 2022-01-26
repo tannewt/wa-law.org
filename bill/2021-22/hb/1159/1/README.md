@@ -1,6 +1,6 @@
 # House Bill 1159 - Session Law Chapter 034 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1159.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1159.SL.pdf)
 ## Section 1
 > This section modifies existing section [52.14.015](/rcw/52_fire_protection_districts/52.14_commissioners.md). Here is the [modified chapter](rcw/52_fire_protection_districts/52.14_commissioners.md) for context.
 

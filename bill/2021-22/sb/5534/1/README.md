@@ -1,6 +1,6 @@
 # Senate Bill 5534
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5534.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5534.pdf)
 ## Section 1
 1. The legislature finds that blockchain-based technologies are enabling new and innovative developments in a variety of fields, including digital identity. In light of the dangers posed to individuals by data breaches, the legislature intends to consider whether decentralized management of identity data necessary for use by the state will provide greater privacy protection to the residents of Washington. Therefore, the legislature concludes that state government should examine opportunities for allowing for the use of verifiable credentials in transactions with or involving state government agencies, public institutions of higher education, and political subdivisions of the state.
 

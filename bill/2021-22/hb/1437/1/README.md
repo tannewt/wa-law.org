@@ -1,6 +1,6 @@
 # House Bill 1437 - Session Law Chapter 046 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1437.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1437.SL.pdf)
 ## Section 1
 > This section modifies existing section [77.65.610](/rcw/77_fish_and_wildlife/77.065_food_fish_and_shellfish—commercial_licenses.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.065_food_fish_and_shellfish—commercial_licenses.md) for context.
 

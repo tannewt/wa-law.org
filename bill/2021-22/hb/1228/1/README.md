@@ -1,6 +1,6 @@
 # House Bill 1228
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1228.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1228.pdf)
 ## Section 1
 1. The legislature finds that the COVID-19 pandemic is causing sustained economic downturn throughout Washington state with unprecedented numbers of layoffs and reduced work hours forcing many residents to suffer economic hardship while being ordered to remain in their residences for extended periods of time. The inability to pay basic household expenses, including rent is restricting housing providers' ability to maintain the costs of operating residences and damaging property owners' ability to secure financing, threatening the future viability of rental housing opportunities across Washington state.
 

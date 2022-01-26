@@ -1,6 +1,6 @@
 # House Bill 2027
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2027.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2027.pdf)
 ## Section 1
 The legislature intends to convene a task force to provide recommendations to the legislature for the establishment of a new governance structure for the department of fish and wildlife, including restructuring or potentially eliminating the fish and wildlife commission. The legislature finds that collaborative, effective, accountable, and science-based administration of the duties of the department of fish and wildlife is necessary in order to better preserve, protect, and perpetuate the fish and wildlife species of the state and to better balance commercial and recreational uses with protection of the biodiversity and natural heritage of the state.
 

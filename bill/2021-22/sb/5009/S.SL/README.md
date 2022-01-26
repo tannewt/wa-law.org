@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5009 - Session Law Chapter 259 Year 2021 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5009-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5009-S.SL.pdf)
 ## Section 1
 This chapter may be known and cited as the uniform public expression protection act.
 

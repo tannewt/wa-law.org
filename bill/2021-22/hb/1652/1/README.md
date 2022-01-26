@@ -1,6 +1,6 @@
 # House Bill 1652
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1652.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1652.pdf)
 ## Section 1
 > This section modifies existing section [89.08.190](/rcw/89_reclamation_soil_conservation_and_land_settlement/89.08_conservation_districts.md). Here is the [modified chapter](rcw/89_reclamation_soil_conservation_and_land_settlement/89.08_conservation_districts.md) for context.
 

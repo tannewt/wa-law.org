@@ -1,6 +1,6 @@
 # Senate Bill 5557
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5557.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5557.pdf)
 ## Section 1
 1. According to the institute on taxation and economic policy, Washington has the most regressive tax structure in the United States. The legislature finds that part of that regressivity lies in the state's reliance on the business and occupation tax, which requires businesses to pay a gross income tax on all qualified transactions, regardless of whether the business is actually profitable. The business and occupation tax structure hinders the sustainability of start-up businesses because it prevents them from reinvesting income back into the business at a time when it is most critical.
 

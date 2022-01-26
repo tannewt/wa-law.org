@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5326 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5326-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5326-S.pdf)
 ## Section 1
 The legislature recognizes that school bus drivers play a crucial role in ensuring students' safe passage to and from school, preventing absences, and extending a positive school climate beyond the classroom. By delivering this essential service, school bus drivers provide a significant time and convenience benefit to thousands of Washington families, remove cars from the road, reduce overall emissions, and increase traffic safety. However, a recent national survey revealed that 94 percent of bus contractors experience driver shortages, with 21 percent reporting their shortages as severe. With this act, the state of Washington intends to encourage the retention of bus drivers who provide vital services to local communities.
 

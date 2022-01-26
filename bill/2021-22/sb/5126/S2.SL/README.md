@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5126 - Session Law Chapter 316 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5126-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5126-S2.SL.pdf)
 ## Section 1
 1. The legislature finds that climate change is one of the greatest challenges facing our state and the world today, an existential crisis with major negative impacts on environmental and human health. Washington is experiencing environmental and community impacts due to climate change through increasingly devastating wildfires, flooding, droughts, rising temperatures and sea levels, and ocean acidification. Greenhouse gas emissions already in the atmosphere will increase impacts for some period of time. Actions to increase resilience of our communities, natural resource lands, and ecosystems can prevent and reduce impacts to communities and our environment and improve their ability to recover.
 

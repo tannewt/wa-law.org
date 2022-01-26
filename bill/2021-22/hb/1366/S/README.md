@@ -1,6 +1,6 @@
 # Substitute House Bill 1366 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1366-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1366-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.320](/rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.320_provisions_applicable_to_all_districts.md) for context.
 

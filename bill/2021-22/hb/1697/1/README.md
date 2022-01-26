@@ -1,6 +1,6 @@
 # House Bill 1697
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1697.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1697.pdf)
 ## Section 1
 1. An operator of an internet website, online service, online application, or mobile application directed to minors may not market or advertise a product or service described in subsection (7) of this section on its internet website, online service, online application, or mobile application directed to minors.
 

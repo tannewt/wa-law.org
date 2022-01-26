@@ -1,6 +1,6 @@
 # Senate Bill 5908
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5908.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5908.pdf)
 ## Section 1
 1. There is hereby created a clean car authority. The purpose of the authority is to distribute electric vehicle grant funding awarded to Washington state from the federal infrastructure investment and jobs act, P.L. 117-58. Additionally, the authority shall provide a general vision for the state regarding the most beneficial and efficient distribution of electric vehicle grants, as well as coordinate and oversee the administration of electric vehicle grants across all state agencies and local governments. The authority shall also coordinate its efforts with the office of climate commitment accountability, if in existence.
 

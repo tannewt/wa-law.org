@@ -1,6 +1,6 @@
 # House Bill 1557
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1557.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1557.pdf)
 ## Section 1
 The legislature recognizes that the executive branch is well-equipped to confront emergencies and lead responses. However, for long-lasting states of emergency when the continuity of government has not been disrupted, the legislature finds that each of the branches of government has a role to play. Accordingly, this act is designed to ensure adequate legislative involvement in long-lasting states of emergency.
 

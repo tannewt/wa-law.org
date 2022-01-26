@@ -1,6 +1,6 @@
 # Senate Bill 5115
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5115.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5115.pdf)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

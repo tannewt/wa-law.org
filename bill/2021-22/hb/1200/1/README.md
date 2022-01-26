@@ -1,6 +1,6 @@
 # House Bill 1200
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1200.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1200.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [90.48](/rcw/90_water_rights—environment/90.48_water_pollution_control.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.48_water_pollution_control.md) for context.
 

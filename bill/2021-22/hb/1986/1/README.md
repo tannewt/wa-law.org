@@ -1,6 +1,6 @@
 # House Bill 1986
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1986.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1986.pdf)
 ## Section 1
 Each year, school boards across Washington are confronted with expanded state mandates that remove their authority to act in the best interest of their students and communities. Instead of allowing grassroots involvement to shape and enrich student educational experiences, the state has empowered the superintendent of public instruction to enforce strict regulatory compliance without consideration of local beliefs and values. As a result, school boards are forced to take actions they know are at odds with the needs of the people they serve. To halt this erosion of local control and return power to communities, the legislature intends to clarify that the primary duty of the superintendent of public instruction is one of support, not supervision, and that school boards are vested with the final responsibility to set policies that serve their students.
 

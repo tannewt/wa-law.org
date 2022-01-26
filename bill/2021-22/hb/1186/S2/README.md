@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1186 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1186-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1186-S2.pdf)
 ## Section 1
 The legislature finds that:
 

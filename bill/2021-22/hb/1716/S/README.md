@@ -1,6 +1,6 @@
 # Substitute House Bill 1716 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1716-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1716-S.pdf)
 ## Section 1
 > This section modifies existing section [29A.40.160](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
 

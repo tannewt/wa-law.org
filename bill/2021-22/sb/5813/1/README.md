@@ -1,6 +1,6 @@
 # Senate Bill 5813
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5813.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5813.pdf)
 ## Section 1
 1. The legislature finds that the people of Washington regard their privacy as a fundamental right and an essential element of their individual freedom. Washington's Constitution explicitly provides the right to privacy and fundamental privacy rights have long been and continue to be integral to protecting Washingtonians and to safeguarding our democratic republic.
 

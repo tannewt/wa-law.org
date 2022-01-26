@@ -1,6 +1,6 @@
 # House Bill 1029
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1029.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1029.pdf)
 ## Section 1
 The state Constitution declares that all political power is inherent in the people, and governments derive their just powers from the consent of the governed, and are established to protect and maintain individual rights. The Constitution further declares that no person shall be deprived of life, liberty, or property, without due process of law, and the right of petition and of the people peaceably to assemble for the common good shall never be abridged. Therefore, the legislature intends to protect the rights of the people by limiting and constraining the governor's power and scope of authority in the event of an emergency by ensuring proclamations of emergency are subject to judicial review and requiring legislative action to extend any proclamation.
 

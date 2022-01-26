@@ -1,6 +1,6 @@
 # Senate Bill 5043
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5043.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5043.pdf)
 ## Section 1
 Many Washington communities see a need for teacher and staff housing closer to schools and other workplaces and are exploring teacher housing as a way to attract and retain teachers in communities with housing affordability and traffic and transportation pressures. The intent of the legislature is to enable communities to provide teacher housing and expand century-old authority available to rural second-class districts to all school districts.
 

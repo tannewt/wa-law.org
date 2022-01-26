@@ -1,6 +1,6 @@
 # Substitute House Bill 1532 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1532-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1532-S.pdf)
 ## Section 1
 > This section modifies existing section [3.62.060](/rcw/03_district_courts—courts_of_limited_jurisdiction/3.62_income_of_court.md). Here is the [modified chapter](rcw/03_district_courts—courts_of_limited_jurisdiction/3.62_income_of_court.md) for context.
 

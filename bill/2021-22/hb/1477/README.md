@@ -1,5 +1,5 @@
 # HB 1477 - National 988 system
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1477&Year=2021)
+*Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1477&Year=2021)
 
 Implementing the national 988 system to enhance and expand behavioral health crisis response and suicide prevention services.
 

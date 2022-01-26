@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1477 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1477-S2.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1477-S2.E.pdf)
 ## Section 101
 1. The legislature finds that:
 

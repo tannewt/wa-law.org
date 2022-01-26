@@ -1,6 +1,6 @@
 # Senate Bill 5928
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5928.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5928.pdf)
 ## Section 1
 It is the intent of the legislature to encourage affordable housing in all areas of the state. Each one of Washington's residents needs housing and the legislature intends to address the overall costs of construction in order to increase access to, and affordability for, all housing types across Washington. State-imposed, high-barrier construction costs are most burdensome to those who can least afford increasing housing costs. The legislature finds that it is appropriate to address the underlying cost of state energy code compliance and, given that the state has taken positive and assertive action on clean energy generation and efficiency, it is the legislature's intent to balance the housing needs of its residents with the promotion of efficient and sustainable housing.
 

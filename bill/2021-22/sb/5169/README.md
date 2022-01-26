@@ -1,5 +1,5 @@
 # SB 5169 - Provider PPE reimbursement
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5169&Year=2021)
+*Status: Effective date 4/16/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5169&Year=2021)
 
 Concerning provider reimbursement for personal protective equipment during the state of emergency related to COVID-19.
 

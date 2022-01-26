@@ -1,6 +1,6 @@
 # Substitute House Bill 1048 as Recommended by Civil Rights & Judiciary
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1048-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1048-S.pdf)
 ## Section 1
 It is the intent of the legislature that the changes proposed in this act neither approve nor disapprove of a particular religious practice, but simply remove a statutory reference that gives rise to constitutional issues by singling out one particular religion. These changes are not intended to express a bias against the practice of religious or spiritual healing, and are intended to clarify that parents and guardians are allowed to rely exclusively on religious healing practices under RCW 26.44.020 unless any such decision poses a clear and present danger to the health, welfare, or safety of the child. Further, the legislature does not intend: (1) To prevent adults, including dependent and vulnerable adults, from making their own voluntary decisions, including decisions to rely on the practice of religious healing in lieu of medical treatment; or (2) to prevent individuals charged with their care from honoring and carrying out their decisions, as recognized in Washington's vulnerable adult abuse law in RCW 74.34.180 and other areas of Washington statutory and case law.
 

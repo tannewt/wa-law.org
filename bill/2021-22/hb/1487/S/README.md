@@ -1,6 +1,6 @@
 # Substitute House Bill 1487 as Recommended by Labor & Workplace Standards
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1487-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1487-S.pdf)
 ## Section 1
 The legislature finds with roughly $4,700,000,000 in the state unemployment insurance trust fund, Washington entered the COVID-19 pandemic with one of the strongest and best-funded trust funds in the nation. During an unprecedented time, the state's unemployment insurance trust fund provided critical economic support to Washington workers and businesses through unemployment benefits and helped bolster the state's economy.
 

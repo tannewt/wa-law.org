@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5432 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5432-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5432-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.105](/rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md). Here is the [modified chapter](rcw/43_state_government—executive/43.105_consolidated_technology_services_agency.md) for context.
 

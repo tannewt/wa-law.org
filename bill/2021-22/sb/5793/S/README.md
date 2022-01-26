@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5793 as Recommended by State Government & Elections
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5793-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5793-S.pdf)
 ## Section 1
 The legislature finds that equitable public policy discussions should include individuals directly impacted by that policy. In order to do so, the legislature supports removing barriers to that participation. The legislature finds that asking community members with lower financial means to volunteer their time and expertise while state employees and representatives of advocacy organizations receive compensation from their respective agency or organization for their time and experience ultimately hinders full and open public participation. As a result, the legislature finds that removing financial barriers for those individuals fosters increased access to government and enriches public policy discussions and decisions, ultimately leading to more equitable and sustainable policy outcomes.
 

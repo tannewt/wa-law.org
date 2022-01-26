@@ -1,6 +1,6 @@
 # House Bill 1046
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1046.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1046.pdf)
 ## Section 1
 > This section modifies existing section [80.28.370](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
 

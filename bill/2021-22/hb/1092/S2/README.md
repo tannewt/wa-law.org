@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1092 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1092-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1092-S2.pdf)
 ## Section 1
 The legislature finds that law enforcement transparency and accountability are vital in maintaining public trust. Data collection is one essential tool to allow the public, law enforcement, and policymakers to analyze the effectiveness of existing police practices, determine which policies and training work and do not work, and avoid unintended consequences by supporting policy decisions with clear and relevant data.
 

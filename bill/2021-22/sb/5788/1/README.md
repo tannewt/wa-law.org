@@ -1,6 +1,6 @@
 # Senate Bill 5788
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5788.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5788.pdf)
 ## Section 1
 > This section modifies existing section [11.130.225](/rcw/11_probate_and_trust_law/11.130_uniform_guardianship_conservatorship_and_other_protective_arrangements_act.md). Here is the [modified chapter](rcw/11_probate_and_trust_law/11.130_uniform_guardianship_conservatorship_and_other_protective_arrangements_act.md) for context.
 

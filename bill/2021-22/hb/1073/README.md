@@ -1,5 +1,5 @@
 # HB 1073 - Paid leave coverage
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1073&Year=2021)
+*Status: Chapter 109, 2021 Laws.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1073&Year=2021)
 
 Expanding coverage of the paid family and medical leave program.
 

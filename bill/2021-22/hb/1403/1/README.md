@@ -1,6 +1,6 @@
 # House Bill 1403
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1403.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1403.pdf)
 ## Section 1
 1. The legislature finds that, at times, additional protection by means of the regulation of a profession through professional licensure may be deemed necessary to ensure that the public's health, safety, and general welfare is protected. Furthermore, technological innovation continues to change the responsibilities and practices surrounding these professions, and by result, the potential harms associated with them.
 

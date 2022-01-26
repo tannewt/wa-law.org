@@ -1,6 +1,6 @@
 # Senate Bill 5758
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5758.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5758.pdf)
 ## Section 1
 The legislature finds that condominiums can provide an opportunity for affordable first-time homeownership, and that an increased supply of multifamily construction in Washington state and condominium demand creates market conditions for condominium conversions. The legislature also finds that the federal housing administration's condominium rule adopted in 2019 will improve financing options for first-time homebuyers in the condominium market. The legislature also recognizes that condominium conversions can create economic hardships on tenants in multifamily buildings. It is the intent of the legislature to ensure that tenants of multifamily buildings planned to be converted to condominiums are provided with information and resources relating to homeownership opportunities, and to direct the affordable housing advisory board to review the subject of condominium conversions and provide a report to the legislature on issues relating to both homeownership opportunities and impacts to tenants.
 

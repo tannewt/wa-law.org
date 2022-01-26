@@ -1,6 +1,6 @@
 # House Bill 1825
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1825.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1825.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [2.56](/rcw/02_courts_of_record/2.56_administrator_for_the_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.56_administrator_for_the_courts.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5585
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5585.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5585.pdf)
 ## Section 2
 1. Recognizing the importance of close coordination and partnership between the department of ecology and municipal treatment plants, the department shall form an advisory committee, appointed by the director of ecology or the director's designee, to create recommendations for adjusting the fee schedule for permits authorized by RCW 90.48.162 and 90.48.165 by rule. The advisory committee must include:
 

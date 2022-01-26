@@ -1,6 +1,6 @@
 # House Bill 1324
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1324.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1324.pdf)
 ## Section 1
 The legislature finds that public input into the legislative process is necessary for a republican form of government. Public input fosters the people's trust by keeping government actors accountable and minimizing the unintended consequences that can occur when interested parties are not provided sufficient opportunity to comment on pending legislation. Often, however, proposed substitute bills, striking amendments, and conference committee reports make broad changes to legislation, and the public is either not given the opportunity to comment or not given the time necessary for robust evaluation. To address this concern, the legislature intends to require a minimum amount of notice before holding a public hearing on a new bill or voting on a proposed substitute, striking amendment, or conference committee report.
 

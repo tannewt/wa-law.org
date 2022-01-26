@@ -1,6 +1,6 @@
 # House Bill 1876
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1876.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1876.pdf)
 ## Section 1
 The legislature recognizes that the people have reserved for themselves the power to enact or reject legislation through the initiative and referendum process, as provided in Article II, section 1 of the state Constitution. The legislature finds that when exercising this right, the people are entitled to know the fiscal impact that their vote will have on public investments at the time they cast their ballots. The legislature further finds that when a ballot measure will affect funding for public investments, a neutral, nonprejudicial disclosure of the public investments affected will provide greater transparency and necessary information for voters.
 

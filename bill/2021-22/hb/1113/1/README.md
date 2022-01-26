@@ -1,6 +1,6 @@
 # House Bill 1113
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1113.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1113.pdf)
 ## Section 1
 Washington state data shows that students of color, students who experience poverty, homelessness, or foster care, and students with disabilities have the highest rates of absences. Students who are chronically absent, defined as missing 10 percent or more of scheduled instructional days, are more likely not to read at grade level by the third grade and are less likely to graduate.
 

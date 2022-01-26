@@ -1,6 +1,6 @@
 # House Bill 2009
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2009.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2009.pdf)
 ## Section 1
 The legislature finds that economic inequality continues to widen the gap between the top few earners and working and low-income families. The legislature recognizes that wages have failed to keep pace with the cost of living. The legislature finds that centuries of discriminatory policies have resulted especially in black and African American, American Indian and Alaskan Native, Hispanic or Latinx, and other households of color having significantly lower median incomes than white and Asian households.
 

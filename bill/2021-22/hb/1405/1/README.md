@@ -1,6 +1,6 @@
 # House Bill 1405
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1405.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1405.pdf)
 ## Section 1
 > This section modifies existing section [79.11.340](/rcw/79_public_lands/79.011_state_land_sales.md). Here is the [modified chapter](rcw/79_public_lands/79.011_state_land_sales.md) for context.
 

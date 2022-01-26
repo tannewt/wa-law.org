@@ -1,6 +1,6 @@
 # Senate Bill 5224
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5224.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5224.pdf)
 ## Section 1
 > This section modifies existing section [58.09.100](/rcw/58_boundaries_and_plats/58.09_surveys—recording.md). Here is the [modified chapter](rcw/58_boundaries_and_plats/58.09_surveys—recording.md) for context.
 

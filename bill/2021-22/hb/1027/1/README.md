@@ -1,6 +1,6 @@
 # House Bill 1027
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1027.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1027.pdf)
 ## Section 1
 > This section modifies existing section [41.06.070](/rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.06_state_civil_service_law.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5635
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5635.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5635.pdf)
 ## Section 1
 > This section modifies existing section [46.37.196](/rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md) for context.
 

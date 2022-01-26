@@ -1,6 +1,6 @@
 # Senate Bill 5485
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5485.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5485.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [46.64](/rcw/46_motor_vehicles/46.64_enforcement.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.64_enforcement.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute Senate Bill 5227 - Session Law Chapter 275 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5227-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5227-S2.SL.pdf)
 ## Section 1
 The legislature finds that a postsecondary credential such as a degree, apprenticeship, or certificate is increasingly necessary to obtain a job that offers a good salary and advancement opportunities and that increasing the number of students in Washington who obtain such a credential is essential to the state's economic success. The legislature also recognizes that equity gaps remain among postsecondary students and that those gaps particularly impact students from historically marginalized communities.
 

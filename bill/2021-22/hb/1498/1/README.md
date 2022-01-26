@@ -1,6 +1,6 @@
 # House Bill 1498
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1498.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1498.pdf)
 ## Section 1
 1. The legislature finds that gas and electrical companies face transformational change brought on by new technology, rapidly changing costs, emerging opportunities for customers, and public policy mandates. Policy mandates, such as chapter 19.405 RCW, the clean energy transformation act, mean these companies must find innovative and creative solutions to equitably serve their customers.
 

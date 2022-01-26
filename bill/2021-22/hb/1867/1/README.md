@@ -1,6 +1,6 @@
 # House Bill 1867
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1867.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1867.pdf)
 ## Section 1
 > This section modifies existing section [28A.600.280](/rcw/28A_common_school_provisions/28A.600_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.600_students.md) for context.
 

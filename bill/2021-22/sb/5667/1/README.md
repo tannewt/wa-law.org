@@ -1,6 +1,6 @@
 # Senate Bill 5667
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5667.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5667.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9.38](/rcw/09_crimes_and_punishments/9.038_false_representations.md). Here is the [modified chapter](rcw/09_crimes_and_punishments/9.038_false_representations.md) for context.
 

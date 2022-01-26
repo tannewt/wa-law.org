@@ -1,6 +1,6 @@
 # House Bill 1925
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1925.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1925.pdf)
 ## Section 1
 > This section modifies existing section [36.68.080](/rcw/36_counties/36.068_parks_and_recreational_facilities.md). Here is the [modified chapter](rcw/36_counties/36.068_parks_and_recreational_facilities.md) for context.
 

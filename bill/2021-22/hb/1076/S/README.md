@@ -1,6 +1,6 @@
 # Substitute House Bill 1076 as Recommended by Labor & Workplace Standards
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1076-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1076-S.pdf)
 ## Section 1
 The legislature finds that while most employers pay their workers wages owed, provide safe working conditions, provide a workplace free from discrimination, and otherwise follow the law, violations of workplace protections persist. The legislature further finds that state resources available to rectify workplace violations are limited, which allows abuses to go unpunished. Lack of enforcement means workers work for less than minimum wage, sustain serious injuries, and suffer other violations. In addition, it is unfair to law-abiding employers to have to compete with employers that disregard the law. Therefore, the legislature intends to permit qui tam actions, allowing private persons, acting as relators, to bring public enforcement actions of worker protection laws on behalf of the state.
 

@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1277 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1277-S2.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1277-S2.E.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.22](/rcw/36_counties/36.022_county_auditor.md). Here is the [modified chapter](rcw/36_counties/36.022_county_auditor.md) for context.
 

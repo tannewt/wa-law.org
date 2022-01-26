@@ -1,6 +1,6 @@
 # House Bill 2042
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2042.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2042.pdf)
 ## Section 1
 1. The legislature recognizes that parents are uniquely and exclusively suited to making decisions about their children, including education decisions. It is imperative that Washington state empowers and supports parents and students to choose the educational environment that best suits their needs.
 

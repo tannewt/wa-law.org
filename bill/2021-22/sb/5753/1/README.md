@@ -1,6 +1,6 @@
 # Senate Bill 5753
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5753.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5753.pdf)
 ## Section 1
 > This section modifies existing section [18.32.0351](/rcw/18_businesses_and_professions/18.032_dentistry.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.032_dentistry.md) for context.
 

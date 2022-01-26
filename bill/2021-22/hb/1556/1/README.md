@@ -1,6 +1,6 @@
 # House Bill 1556
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1556.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1556.pdf)
 ## Section 1
 > This section modifies existing section [28A.600.200](/rcw/28A_common_school_provisions/28A.600_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.600_students.md) for context.
 

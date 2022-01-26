@@ -1,6 +1,6 @@
 # House Bill 1524
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1524.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1524.pdf)
 ## Section 1
 > This section modifies existing section [79.10.500](/rcw/79_public_lands/79.010_land_management_authorities_and_policies.md). Here is the [modified chapter](rcw/79_public_lands/79.010_land_management_authorities_and_policies.md) for context.
 

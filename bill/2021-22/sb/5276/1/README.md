@@ -1,6 +1,6 @@
 # Senate Bill 5276
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5276.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5276.pdf)
 ## Section 1
 > This section modifies existing section [34.05.328](/rcw/34_administrative_law/34.05_administrative_procedure_act.md). Here is the [modified chapter](rcw/34_administrative_law/34.05_administrative_procedure_act.md) for context.
 

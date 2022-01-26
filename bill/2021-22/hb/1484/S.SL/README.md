@@ -1,6 +1,6 @@
 # Substitute House Bill 1484 - Session Law Chapter 223 Year 2021 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1484-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1484-S.SL.pdf)
 ## Section 2
 1. No later than 90 days after the effective date of this section, the Washington association of sheriffs and police chiefs must:
 

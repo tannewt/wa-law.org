@@ -1,6 +1,6 @@
 # Substitute House Bill 1279 - Session Law Chapter 112 Year 2021 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1279-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1279-S.SL.pdf)
 ## Section 1
 The legislature finds that as a result of the economic impacts of the COVID-19 pandemic, certain businesses that made contributions to a Washington main street community or to the main street trust fund in 2020, and qualified for a credit against the business and occupation tax or public utility tax, have received insufficient revenues, and have insufficient tax liabilities, to allow them to use the full amount of the credit for which they have qualified. With this act, the legislature intends to address this finding by allowing credits earned as result of contributions made in calendar year 2020 to be carried over for an additional two years, and by providing an additional credit against the business and occupation tax or public utility tax.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5156
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5156.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5156.pdf)
 ## Section 1
 The legislature finds that the COVID-19 pandemic has created significant economic consequences for people, businesses, and communities across the state. Prior to the pandemic, approximately 250,000 households in Washington struggled to pay rent. According to the United States census bureau, nearly 75,000 households are not current on rent or mortgage payments and could face eviction or foreclosure in the near future. Small businesses have struggled to remain operational under necessary public health measures, especially those in hardest-hit industries such as restaurants and event venues.
 

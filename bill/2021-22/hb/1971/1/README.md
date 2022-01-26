@@ -1,6 +1,6 @@
 # House Bill 1971
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1971.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1971.pdf)
 ## Section 1
 The Washington state building code council shall:
 

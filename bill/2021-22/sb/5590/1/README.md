@@ -1,6 +1,6 @@
 # Senate Bill 5590
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5590.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5590.pdf)
 ## Section 1
 The legislature finds that the marine resources advisory council, first established in 2013, continues to serve an important role in confronting the ongoing threat of ocean acidification in Washington. Through the marine resources advisory council and the work that it supports, Washington is an academic, government, and industry leader in efforts to address the impacts of ocean acidification. It is the intent of the legislature to support the continued critical ocean acidification work of the marine resources advisory council.
 

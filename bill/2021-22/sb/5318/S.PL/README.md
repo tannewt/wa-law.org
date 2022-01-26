@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5318 as Recommended by Agriculture, Water, Natural Resources & Parks - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5318-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5318-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [15.54.275](/rcw/15_agriculture_and_marketing/15.054_fertilizers_minerals_and_limes.md). Here is the [modified chapter](rcw/15_agriculture_and_marketing/15.054_fertilizers_minerals_and_limes.md) for context.
 

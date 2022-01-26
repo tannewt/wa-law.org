@@ -1,6 +1,6 @@
 # House Bill 1994
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1994.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1994.pdf)
 ## Section 1
 > This section modifies existing section [9A.56.040](/rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.56_theft_and_robbery.md) for context.
 

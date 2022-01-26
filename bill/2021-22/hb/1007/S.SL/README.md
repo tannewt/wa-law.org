@@ -1,6 +1,6 @@
 # Substitute House Bill 1007 - Session Law Chapter 021 Year 2021 as Recommended by Health Care & Wellness
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1007-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1007-S.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.225.090](/rcw/18_businesses_and_professions/18.225_mental_health_counselors_marriage_and_family_therapists_social_workers.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.225_mental_health_counselors_marriage_and_family_therapists_social_workers.md) for context.
 

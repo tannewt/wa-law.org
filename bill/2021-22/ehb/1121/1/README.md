@@ -1,6 +1,6 @@
 # Engrossed House Bill 1121 - Session Law Chapter 007 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1121.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1121.SL.pdf)
 ## Section 1
 1. The legislature recognizes that the COVID-19 pandemic illuminated the need for an emergency waiver program that would prevent students from being unduly impacted by unforeseen disruptions to coursework and assessments that are beyond the student's control. The legislature finds that a new and ongoing emergency waiver program would ensure the state is better prepared to respond to future emergencies at both the state and local levels.
 

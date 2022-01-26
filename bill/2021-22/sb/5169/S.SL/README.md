@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5169 - Session Law Chapter 094 Year 2021 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5169-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5169-S.SL.pdf)
 ## Section 1
 1. The legislature finds that:
 

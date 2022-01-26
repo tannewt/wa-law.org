@@ -1,6 +1,6 @@
 # House Bill 1329
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1329.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1329.pdf)
 ## Section 1
 It is the intent of this act to urge governing bodies, and particularly governing bodies formed under chapter 36.57A or 81.112 RCW, to move to online meetings to allow for more public participation opportunities and more diverse public comment. During the COVID-19 outbreak in the United States and Washington state, there was a gubernatorial proclamation authorizing governing bodies to utilize remote meetings. It was found that meetings conducted via remote access were successful in reigniting the spirit of RCW 42.30.030 thanks to the courage, ingenuity, and integrity of many public servants.
 

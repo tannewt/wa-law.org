@@ -1,6 +1,6 @@
 # House Bill 1308
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1308.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1308.pdf)
 ## Section 1
 > This section modifies existing section [39.04.320](/rcw/39_public_contracts_and_indebtedness/39.004_public_works.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.004_public_works.md) for context.
 

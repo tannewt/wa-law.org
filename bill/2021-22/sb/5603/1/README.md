@@ -1,6 +1,6 @@
 # Senate Bill 5603
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5603.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5603.pdf)
 ## Section 1
 The legislature recognizes the increasing traffic volumes on the state route number 2 corridor, between one mile west of state route number 522 and Wenatchee. The legislature also recognizes the need to study the impact of traffic on safety and mobility in the corridor and plan for future investments to improve safety and mobility.
 

@@ -1,6 +1,6 @@
 # House Bill 1769
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1769.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1769.pdf)
 ## Section 1
 > This section modifies existing section [35.14.060](/rcw/35_cities_and_towns/35.014_community_municipal_corporations.md). Here is the [modified chapter](rcw/35_cities_and_towns/35.014_community_municipal_corporations.md) for context.
 

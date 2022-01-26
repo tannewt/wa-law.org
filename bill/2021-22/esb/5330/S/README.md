@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5330 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5330-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5330-S.pdf)
 ## Section 1
 > This section modifies existing section [77.65.615](/rcw/77_fish_and_wildlife/77.065_food_fish_and_shellfish—commercial_licenses.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.065_food_fish_and_shellfish—commercial_licenses.md) for context.
 

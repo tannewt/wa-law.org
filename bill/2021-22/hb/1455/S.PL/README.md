@@ -1,6 +1,6 @@
 # Substitute House Bill 1455 as Recommended by Labor & Workplace Standards - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1455-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1455-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.22](/rcw/43_state_government—executive/43.022_department_of_labor_and_industries.md). Here is the [modified chapter](rcw/43_state_government—executive/43.022_department_of_labor_and_industries.md) for context.
 

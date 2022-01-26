@@ -1,6 +1,6 @@
 # House Bill 1296 - Session Law Chapter 124 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1296.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1296.SL.pdf)
 ## Section 1
 The legislature finds that COVID-19 has had significant impacts on behavioral health. The legislature previously had a feature of its tax system that exempted government-funded behavioral health services from paying business and occupation tax in order for more tax dollars to be utilized in providing health services. The legislature intends to reenact that preference in light of increased behavioral health needs for the foreseeable future, and in recognition that treatment reduces costs to the government in other services.
 

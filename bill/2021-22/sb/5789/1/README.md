@@ -1,6 +1,6 @@
 # Senate Bill 5789
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5789.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5789.pdf)
 ## Section 1
 1. The Washington career and college pathways innovation challenge program is established. The purpose of the program is to meet statewide educational attainment goals established in RCW 28B.77.020 by developing local and regional partnerships that foster innovations to:
 

@@ -1,6 +1,6 @@
 # Senate Bill 5621
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5621.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5621.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.94](/rcw/36_counties/36.094_sewerage_water_and_drainage_systems.md). Here is the [modified chapter](rcw/36_counties/36.094_sewerage_water_and_drainage_systems.md) for context.
 

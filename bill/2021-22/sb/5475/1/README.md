@@ -1,6 +1,6 @@
 # Senate Bill 5475
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5475.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5475.pdf)
 ## Section 2
 1. [Empty]
 

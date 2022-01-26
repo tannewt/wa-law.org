@@ -1,6 +1,6 @@
 # House Bill 1575
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1575.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1575.pdf)
 ## Section 1
 > This section modifies existing section [9A.84.030](/rcw/09A_washington_criminal_code/9A.84_public_disturbance.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.84_public_disturbance.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1567
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1567.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1567.pdf)
 ## Section 1
 1. The military department shall conduct a study to determine the quantity of commodities needed for a stockpile to supply Washington residents with the necessary emergency supplies, including but not limited to food, medicine, sanitation, and personal protective equipment, for a man-made or natural disaster lasting one year in length.
 

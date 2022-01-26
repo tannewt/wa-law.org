@@ -1,6 +1,6 @@
 # Senate Bill 5867
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5867.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5867.pdf)
 ## Section 1
 The legislature finds that it is imperative that cities and counties of a certain size have the means to provide shelter to the homeless population. The provision of mental health and substance abuse treatment options is an essential service the shelter model should provide as well as security for the residents, staff, and counselors. Whereas the state has allocated money for housing assistance in the housing trust fund, the legislature also finds that such shelters should be funded utilizing that money. By establishing such a shelter, local governments can establish tools to support people experiencing homelessness in confronting mental health and substance abuse problems as well as providing safe secure spaces for sleeping.
 

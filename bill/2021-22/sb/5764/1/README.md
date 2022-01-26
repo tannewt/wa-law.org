@@ -1,6 +1,6 @@
 # Senate Bill 5764
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5764.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5764.pdf)
 ## Section 1
 The legislature recognizes the institutional costs of community and technical colleges to deliver, host, and contract related supplemental instruction for state registered apprenticeships. It is the intent of the legislature to provide dedicated funding support for full-time equivalent student apprenticeship enrollments at the community and technical colleges and that it be phased in over five fiscal years, beginning in fiscal year 2023. If specific funding for dedicated support in this section is not provided in the 2021-2023 supplemental omnibus operating appropriations act, the five-year phase-in of dedicated support proposed must be delayed until such time as specific funding is provided.
 

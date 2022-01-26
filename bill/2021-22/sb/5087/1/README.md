@@ -1,6 +1,6 @@
 # Senate Bill 5087
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5087.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5087.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [90.46](/rcw/90_water_rights—environment/90.46_reclaimed_water_use.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.46_reclaimed_water_use.md) for context.
 

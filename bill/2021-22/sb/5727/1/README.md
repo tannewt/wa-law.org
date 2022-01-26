@@ -1,6 +1,6 @@
 # Senate Bill 5727
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5727.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5727.pdf)
 ## Section 101
 This act shall be known and cited as the Lorraine Loomis act.
 

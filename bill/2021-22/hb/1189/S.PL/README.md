@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1189 as Recommended by Finance - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1189-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1189-S.PL.pdf)
 ## Section 1
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

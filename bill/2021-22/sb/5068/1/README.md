@@ -1,6 +1,6 @@
 # Senate Bill 5068
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5068.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5068.pdf)
 ## Section 1
 1. In Washington and across the country, maternal mortality rates continue to be unacceptably high. The maternal mortality rate in the United States is higher than in most developed countries. Approximately 700 people die each year in the United States due to pregnancy-related conditions. The majority of these deaths are preventable.
 

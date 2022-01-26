@@ -1,6 +1,6 @@
 # Senate Bill 5495
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5495.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5495.pdf)
 ## Section 1
 > This section modifies existing section [19.290.020](/rcw/19_business_regulations—miscellaneous/19.290_metal_property.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.290_metal_property.md) for context.
 

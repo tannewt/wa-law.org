@@ -1,6 +1,6 @@
 # Second Substitute Senate Bill 5192 as Recommended by Ways & Means - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5192-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5192-S2.PL.pdf)
 ## Section 1
 > This section modifies existing section [19.94.010](/rcw/19_business_regulations—miscellaneous/19.094_weights_and_measures.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.094_weights_and_measures.md) for context.
 

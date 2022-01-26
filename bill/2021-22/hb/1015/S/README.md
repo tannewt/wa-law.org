@@ -1,6 +1,6 @@
 # Substitute House Bill 1015 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1015-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1015-S.pdf)
 ## Section 1
 This chapter may be known and cited as the Washington equitable access to credit act.
 

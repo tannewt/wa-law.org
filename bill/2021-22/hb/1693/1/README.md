@@ -1,6 +1,6 @@
 # House Bill 1693
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1693.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1693.pdf)
 ## Section 1
 The legislature finds that home schooling serves as an excellent option for both parents and students allowing for uniquely tailored education, superior educational outcomes, and a pathway to opportunity for our future generations especially for Washingtonians from historically marginalized communities.
 

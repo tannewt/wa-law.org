@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1457 - Session Law Chapter 258 Year 2021 as Recommended by Transportation
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1457-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1457-S.SL.pdf)
 ## Section 1
 The legislature finds that:
 

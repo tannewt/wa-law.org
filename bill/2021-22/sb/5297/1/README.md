@@ -1,6 +1,6 @@
 # Senate Bill 5297
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5297.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5297.pdf)
 ## Section 1
 1. Washington state has been a national leader in adopting legal protections to prevent and respond to abuse, violence, harassment, stalking, neglect, or other threatening behavior, through the enactment of different types of civil protection orders, which are intended to provide a fast, efficient means to obtain protection against perpetrators of these harms.
 

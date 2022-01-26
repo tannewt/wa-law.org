@@ -1,6 +1,6 @@
 # Senate Bill 5352
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5352.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5352.pdf)
 ## Section 1
 The legislature intends to allow certain employees a one-time, irrevocable opportunity to opt out of participation in the retirement plan. This opportunity is not retroactive, and applies only to the following two types of employees:
 

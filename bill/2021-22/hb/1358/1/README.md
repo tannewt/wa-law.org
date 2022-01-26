@@ -1,6 +1,6 @@
 # House Bill 1358
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1358.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1358.pdf)
 ## Section 1
 > This section modifies existing section [84.52.065](/rcw/84_property_taxes/84.52_levy_of_taxes.md). Here is the [modified chapter](rcw/84_property_taxes/84.52_levy_of_taxes.md) for context.
 

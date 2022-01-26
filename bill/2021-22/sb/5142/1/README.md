@@ -1,6 +1,6 @@
 # Senate Bill 5142
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5142.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5142.pdf)
 ## Section 1
 The legislature finds that good oral health is an integral piece of overall health and well-being. Without treatment, dental disease compromises overall health and requires increasingly costly interventions. However, most dental disease can be prevented at little cost through routine dental care and disease prevention.
 

@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5719 as Recommended by Early Learning & K-12 Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5719-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5719-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [28A.600](/rcw/28A_common_school_provisions/28A.600_students.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.600_students.md) for context.
 

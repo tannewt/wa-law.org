@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1015 as Recommended by Finance
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1015-S2.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1015-S2.E.pdf)
 ## Section 1
 This chapter may be known and cited as the Washington equitable access to credit act.
 

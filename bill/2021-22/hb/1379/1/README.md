@@ -1,6 +1,6 @@
 # House Bill 1379
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1379.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1379.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [47.68](/rcw/47_public_highways_and_transportation/47.68_aeronautics.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.68_aeronautics.md) for context.
 

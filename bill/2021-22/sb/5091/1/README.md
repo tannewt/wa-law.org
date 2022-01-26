@@ -1,6 +1,6 @@
 # Senate Bill 5091
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5091.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5091.pdf)
 ## Section 901
 > This section modifies existing section [43.88.585](/rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md). Here is the [modified chapter](rcw/43_state_government—executive/43.088_state_budgeting_accounting_and_reporting_system.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 2058
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2058.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2058.pdf)
 ## Section 1
 > This section modifies existing section [82.29A.130](/rcw/82_excise_taxes/82.29A_leasehold_excise_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.29A_leasehold_excise_tax.md) for context.
 

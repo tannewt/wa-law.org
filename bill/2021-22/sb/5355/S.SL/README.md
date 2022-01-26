@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5355 - Session Law Chapter 102 Year 2021 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5355-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5355-S.SL.pdf)
 ## Section 1
 This act may be known and cited as the Washington wage recovery act.
 

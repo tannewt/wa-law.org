@@ -1,6 +1,6 @@
 # House Bill 1857
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1857.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1857.pdf)
 ## Section 1
 RCW 1.08.025 directs the code reviser, with the approval of the statute law committee, to prepare legislation for submission to the legislature "concerning deficiencies, conflicts, or obsolete provisions" in statutes. This act makes technical, nonsubstantive amendments as follows:
 

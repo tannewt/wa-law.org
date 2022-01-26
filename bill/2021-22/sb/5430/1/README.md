@@ -1,6 +1,6 @@
 # Senate Bill 5430 - Session Law Chapter 248 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5430.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5430.SL.pdf)
 ## Section 1
 > This section modifies existing section [28B.95.030](/rcw/28B_higher_education/28B.095_washington_advanced_college_tuition_payment_program_and_washington_college_savings_program.md). Here is the [modified chapter](rcw/28B_higher_education/28B.095_washington_advanced_college_tuition_payment_program_and_washington_college_savings_program.md) for context.
 

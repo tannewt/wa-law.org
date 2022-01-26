@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5003 as Recommended by Health & Long Term Care
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5003-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5003-S.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [48.18](/rcw/48_insurance/48.018_the_insurance_contract.md). Here is the [modified chapter](rcw/48_insurance/48.018_the_insurance_contract.md) for context.
 

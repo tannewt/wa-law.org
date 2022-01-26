@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5229 as Recommended by Health & Long Term Care - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5229-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5229-S.PL.pdf)
 ## Section 1
 The legislature finds that:
 

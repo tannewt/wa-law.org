@@ -1,6 +1,6 @@
 # House Bill 1895
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1895.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1895.pdf)
 ## Section 1
 1. The legislature finds that between 1978 and 2001, Washington state permanently lost 700,000 acres of forestland west of the Cascade mountains. During that same period, central and eastern Washington lost nearly as many acres, with the rate of conversion reaching more than one percent of forestland lost each year between 1988 and 2004. Washington state lost an additional 394,000 acres of forest between 2007 and 2019. At the current pace, the state is on track to lose an additional 625,000 acres to development by 2040.
 

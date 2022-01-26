@@ -1,6 +1,6 @@
 # Senate Bill 5016 - Session Law Chapter 086 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5016.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5016.SL.pdf)
 ## Section 1
 > This section modifies existing section [46.10.300](/rcw/46_motor_vehicles/46.10_snowmobiles.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.10_snowmobiles.md) for context.
 

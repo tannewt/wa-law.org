@@ -1,5 +1,5 @@
 # HB 1194 - Parent-child visitation
-*Status: 2nd substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1194&Year=2021)
+*Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1194&Year=2021)
 
 Strengthening parent-child visitation during child welfare proceedings.
 

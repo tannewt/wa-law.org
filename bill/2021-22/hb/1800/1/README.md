@@ -1,6 +1,6 @@
 # House Bill 1800
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1800.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1800.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [71.34](/rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md). Here is the [modified chapter](rcw/71_mental_illness/71.34_behavioral_health_services_for_minors.md) for context.
 

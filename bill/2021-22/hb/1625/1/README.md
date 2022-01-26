@@ -1,6 +1,6 @@
 # House Bill 1625
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1625.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1625.pdf)
 ## Section 1
 > This section modifies existing section [38.40.060](/rcw/38_militia_and_military_affairs/38.40_miscellaneous_provisions.md). Here is the [modified chapter](rcw/38_militia_and_military_affairs/38.40_miscellaneous_provisions.md) for context.
 

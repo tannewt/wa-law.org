@@ -1,6 +1,6 @@
 # House Bill 2023
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2023.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2023.pdf)
 ## Section 1
 The venue of the action authorized by this chapter is the superior court of the county where the dwelling unit is located.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5191
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5191.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5191.pdf)
 ## Section 1
 The legislature recognizes the need to protect Washingtonians from excessive and unjustified price increases implemented during or shortly after a declared state of emergency for essential goods and services that are vital and necessary for the health, safety, and welfare of consumers.
 

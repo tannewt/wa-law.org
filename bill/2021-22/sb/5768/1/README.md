@@ -1,6 +1,6 @@
 # Senate Bill 5768
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5768.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5768.pdf)
 ## Section 1
 > This section modifies existing section [70.345.010](/rcw/70_public_health_and_safety/70.345_vapor_products.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.345_vapor_products.md) for context.
 

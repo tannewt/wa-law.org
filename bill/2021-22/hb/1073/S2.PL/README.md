@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1073 as Recommended by Appropriations - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1073-S2.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1073-S2.PL.pdf)
 ## Section 1
 1. The legislature finds that many Washington workers have suffered direct effects from the COVID-19 pandemic. Due to the unprecedented global shutdown in response to COVID-19, many Washington workers who have paid into the paid family and medical leave insurance program are unable to access their benefits through no fault of their own. Workers recovering from COVID-19 or caring for an individual who is severely ill due to COVID-19 are unable to access their benefits.
 

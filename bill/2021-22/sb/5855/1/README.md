@@ -1,6 +1,6 @@
 # Senate Bill 5855
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5855.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5855.pdf)
 ## Section 1
 > This section modifies existing section [42.17A.445](/rcw/42_public_officers_and_agencies/42.17A_campaign_disclosure_and_contribution.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.17A_campaign_disclosure_and_contribution.md) for context.
 

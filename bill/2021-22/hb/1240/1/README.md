@@ -1,6 +1,6 @@
 # House Bill 1240
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1240.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1240.pdf)
 ## Section 1
 > This section modifies existing section [79.105.430](/rcw/79_public_lands/79.105_aquatic_lands—general.md). Here is the [modified chapter](rcw/79_public_lands/79.105_aquatic_lands—general.md) for context.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5169
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5169.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5169.pdf)
 ## Section 1
 1. The legislature finds that:
 

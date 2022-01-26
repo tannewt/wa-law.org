@@ -1,6 +1,6 @@
 # House Bill 2084
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2084.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2084.pdf)
 ## Section 1
 The legislature recognizes the negative impact increased travel times have on those in southwest Washington. The legislature also recognizes the need for additional strategies to provide reliable transportation throughout the region. It is the intent of the legislature to begin the analysis and discussion on one additional strategy: A third bridge over the Columbia river between southwest Washington and Oregon.
 

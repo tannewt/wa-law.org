@@ -1,6 +1,6 @@
 # Senate Bill 5574
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5574.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5574.pdf)
 ## Section 1
 The purpose of this act is to establish procedures for the orderly formation of new counties or consolidation of existing counties and to provide for an equitable apportionment of the debts, liabilities, and assets of the parent county or counties between the new county and the remaining portions or portion of each parent county.
 

@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1529 as Recommended by Transportation - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Passed%20Legislature/1529-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1529-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [47.56.876](/rcw/47_public_highways_and_transportation/47.56_state_toll_bridges_tunnels_and_ferries.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.56_state_toll_bridges_tunnels_and_ferries.md) for context.
 

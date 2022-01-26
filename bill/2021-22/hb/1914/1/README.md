@@ -1,6 +1,6 @@
 # House Bill 1914
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1914.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1914.pdf)
 ## Section 1
 > This section modifies existing section [43.365.005](/rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.365_motion_picture_competitiveness_program.md) for context.
 

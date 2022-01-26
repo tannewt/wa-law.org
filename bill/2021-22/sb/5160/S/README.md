@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5160 as Recommended by Housing & Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5160-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5160-S.pdf)
 ## Section 1
 Therefore, it is the intent of the legislature with this act to increase tenant protections both during and after the public health emergency, provide legal representation for qualifying tenants in eviction cases, establish an eviction resolution pilot program to address nonpayment of rent eviction cases before any court filing, and ensure tenants and landlords have adequate opportunities to access state and local rental assistance programs to reimburse landlords for unpaid rent and preserve tenancies.
 

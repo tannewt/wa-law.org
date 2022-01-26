@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5096 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5096-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5096-S.E.pdf)
 ## Section 101
 1. The legislature recognizes that a tax system that is fair, balanced, and works for everyone is essential to help all Washingtonians grow and thrive. But Washington's tax system today is the most regressive in the nation because it asks those making the least to pay the most as a percentage of their income. Middle-income families in Washington pay two to four times more in taxes, as a percentage of household income, as compared to top earners in the state. Low-income Washingtonians pay at least six times more than do our wealthiest residents. To begin to rebalance the tax code, the legislature intends to enact an excise tax on the sale of certain capital assets.
 

@@ -1,6 +1,6 @@
 # Senate Bill 5911
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5911.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5911.pdf)
 ## Section 1
 1. The legislature finds that Washington health care workers have suffered direct effects from the COVID-19 pandemic. Due to the unprecedented stress of providing health care during the COVID-19 pandemic, many health care facilities are experiencing acute staffing shortages among certain health care workforces. The legislature finds surges in infections have strained hospital capacity necessitating gubernatorial action to delay nonurgent health services and deploying the national guard to assist emergency departments.
 

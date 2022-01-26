@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5127 as Recommended by Law & Justice
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5127-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5127-S.pdf)
 ## Section 1
 The legislature finds that children are particularly susceptible to adverse effects of exposure to trauma. Children may undergo secondary trauma when they participate in investigation and prosecution of crimes and other stressful legal proceedings. The American academy of pediatrics advises ongoing psychosocial support for children to address the adverse effects of the traumatic event and their experience recounting it during the legal process. The American academy of pediatrics identifies assistance from courthouse facility dogs as an effective psychosocial support intervention for children participating in legal proceedings.
 

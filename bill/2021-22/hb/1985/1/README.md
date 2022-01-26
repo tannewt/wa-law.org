@@ -1,6 +1,6 @@
 # House Bill 1985
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1985.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1985.pdf)
 ## Section 3
 > This section modifies existing section [28A.400.007](/rcw/28A_common_school_provisions/28A.400_employees.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.400_employees.md) for context.
 

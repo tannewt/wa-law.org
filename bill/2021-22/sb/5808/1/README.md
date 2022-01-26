@@ -1,6 +1,6 @@
 # Senate Bill 5808
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5808.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5808.pdf)
 ## Section 1
 > This section modifies existing section [39.26.300](/rcw/39_public_contracts_and_indebtedness/39.026_procurement_of_goods_and_services.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.026_procurement_of_goods_and_services.md) for context.
 

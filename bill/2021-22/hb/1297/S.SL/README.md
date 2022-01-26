@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1297 - Session Law Chapter 195 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1297-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1297-S.SL.pdf)
 ## Section 1
 1. Many Washington families do not earn enough annually to keep pace with increasing health care, child care, housing, and other essential expenses.
 

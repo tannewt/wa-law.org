@@ -1,6 +1,6 @@
 # Senate Bill 5678
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5678.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5678.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [19.405](/rcw/19_business_regulations—miscellaneous/19.405_washington_clean_energy_transformation_act.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.405_washington_clean_energy_transformation_act.md) for context.
 

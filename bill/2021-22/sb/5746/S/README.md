@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5746 as Recommended by Agriculture, Water, Natural Resources & Parks
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5746-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5746-S.pdf)
 ## Section 1
 > This section modifies existing section [43.83B.415](/rcw/43_state_government—executive/43.083B_drought_conditions.md). Here is the [modified chapter](rcw/43_state_government—executive/43.083B_drought_conditions.md) for context.
 

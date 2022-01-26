@@ -1,6 +1,6 @@
 # House Bill 1361
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1361.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1361.pdf)
 ## Section 1
 > This section modifies existing section [29A.40.070](/rcw/29A_elections/29A.40_elections_by_mail.md). Here is the [modified chapter](rcw/29A_elections/29A.40_elections_by_mail.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1125
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1125.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1125.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [80.28](/rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md). Here is the [modified chapter](rcw/80_public_utilities/80.28_gas_electrical_and_water_companies.md) for context.
 

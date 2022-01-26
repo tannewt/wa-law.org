@@ -1,6 +1,6 @@
 # Engrossed Substitute House Bill 1357 as Recommended by State Government & Tribal Relations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1357-S.E.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1357-S.E.pdf)
 ## Section 1
 The legislature finds that service and overseas voters have the right to vote for their elected officials. To effectuate this right, service and overseas voters must have access to the same ballot materials as voters present in the state with sufficient time to thoughtfully consider candidates and issues before casting a ballot. Accordingly, the legislature intends to ensure that voters' pamphlets are available to service and overseas voters at the same time as the ballot.
 

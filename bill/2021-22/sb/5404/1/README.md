@@ -1,6 +1,6 @@
 # Senate Bill 5404
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5404.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5404.pdf)
 ## Section 1
 The legislature finds that chinook salmon, listed as a threatened species in Puget Sound, are of great importance to the culture of all peoples of the Pacific Northwest and are an important link in the food chain. Not only are salmon important to humankind, but salmon are a main food source for critically endangered southern resident orcas. The legislature further finds that pinnipeds such as sea lions and seals are also culturally valuable and protected under federal law, but nevertheless may pose a significant threat to salmon and orca recovery through ongoing predation. Because of the particularly delicate wildlife management questions posed by competition between pinnipeds, orcas, and fish, the state should seek feedback from a wide array of affected tribes and other parties while deciding on an appropriate course of action to address pinniped predation of salmon. Therefore, the legislature intends to preserve and protect the orcas, pinnipeds, and the salmon of the Pacific Northwest by encouraging the state to work in cooperation with Indian tribes, the scientific community, and various other entities to address the threat of predation to salmon while minimizing negative impacts to protected or endangered species.
 

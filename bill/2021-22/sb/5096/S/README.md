@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5096 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5096-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5096-S.pdf)
 ## Section 101
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

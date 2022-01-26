@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5254 as Recommended by Labor, Commerce & Tribal Affairs - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5254-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5254-S.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [49.17](/rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md). Here is the [modified chapter](rcw/49_labor_regulations/49.17_washington_industrial_safety_and_health_act.md) for context.
 

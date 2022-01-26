@@ -1,6 +1,6 @@
 # House Bill 1860
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1860.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1860.pdf)
 ## Section 1
 1. The legislature finds that social determinants of health, particularly housing, are highly correlated with long-term recovery from behavioral health conditions. Seeking inpatient treatment for a mental health or substance use challenge is an act of valor. Upon discharge from care, these individuals deserve a safe, stable place from which to launch their recovery. It is far easier and more cost-effective to help maintain a person's recovery after treatment than to discharge them into homelessness and begin the process anew amid another crisis. Sometimes, there may not be another chance.
 

@@ -1,6 +1,6 @@
 # House Bill 1489
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1489.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1489.pdf)
 ## Section 1
 This act may be known and cited as the Washington innovates new personal protective equipment act ("WIN PPE").
 

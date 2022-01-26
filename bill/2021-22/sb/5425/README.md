@@ -1,5 +1,5 @@
 # SB 5425 - Unempl. extended benefits
-*Status: 1st substitute bill substituted.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5425&Year=2021)
+*Status: Effective date 4/16/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5425&Year=2021)
 
 Concerning extended benefits in the unemployment insurance system.
 

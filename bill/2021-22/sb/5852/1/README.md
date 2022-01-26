@@ -1,6 +1,6 @@
 # Senate Bill 5852
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5852.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5852.pdf)
 ## Section 1
 1. The legislature finds and declares that it is the public policy of the state that:
 

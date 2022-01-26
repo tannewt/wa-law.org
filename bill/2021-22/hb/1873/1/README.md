@@ -1,6 +1,6 @@
 # House Bill 1873
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1873.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1873.pdf)
 ## Section 1
 > This section modifies existing section [19.290.020](/rcw/19_business_regulations—miscellaneous/19.290_metal_property.md). Here is the [modified chapter](rcw/19_business_regulations—miscellaneous/19.290_metal_property.md) for context.
 

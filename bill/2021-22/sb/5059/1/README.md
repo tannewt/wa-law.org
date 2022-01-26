@@ -1,6 +1,6 @@
 # Senate Bill 5059
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5059.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5059.pdf)
 ## Section 1
 > This section modifies existing section [9A.48.110](/rcw/09A_washington_criminal_code/9A.48_arson_reckless_burning_and_malicious_mischief.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.48_arson_reckless_burning_and_malicious_mischief.md) for context.
 

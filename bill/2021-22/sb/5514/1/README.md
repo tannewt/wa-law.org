@@ -1,6 +1,6 @@
 # Senate Bill 5514
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5514.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5514.pdf)
 ## Section 1
 > This section modifies existing section [36.32.080](/rcw/36_counties/36.032_county_commissioners.md). Here is the [modified chapter](rcw/36_counties/36.032_county_commissioners.md) for context.
 

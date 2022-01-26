@@ -1,6 +1,6 @@
 # Senate Bill 5553
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5553.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5553.pdf)
 ## Section 1
 > This section modifies existing section [28A.188.040](/rcw/28A_common_school_provisions/28A.188_science_technology_engineering_and_mathematics_(stem)_education.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.188_science_technology_engineering_and_mathematics_(stem)_education.md) for context.
 

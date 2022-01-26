@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5235 as Recommended by Housing & Local Government
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5235-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5235-S.pdf)
 ## Section 1
 The legislature finds that housing disparities and insecurity exist in the state of Washington and local zoning laws have often exacerbated the ability for every Washingtonian to obtain an affordable and safe place to live. The legislature recognizes that these arbitrary limits disproportionally impact historically and currently marginalized communities, and have contributed to widespread discrimination in the housing market. The legislature finds that it is necessary to remove these barriers to better reflect and meet the needs of Washingtonians and the housing market, so that all Washingtonians can attain housing stability and security. It is the intent of the legislature with this act to remove barriers and limitations on both the use and occupancy of accessory dwelling units and the number of unrelated occupants living together.
 

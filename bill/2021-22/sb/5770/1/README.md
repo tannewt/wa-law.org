@@ -1,6 +1,6 @@
 # Senate Bill 5770
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5770.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5770.pdf)
 ## Section 1
 FOR THE DEPARTMENT OF COMMERCE—WASHINGTON STATE CONVENTION ECONOMY GRANTS
 

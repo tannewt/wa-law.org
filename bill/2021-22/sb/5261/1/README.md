@@ -1,6 +1,6 @@
 # Senate Bill 5261
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5261.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5261.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.28A](/rcw/36_counties/36.028A_association_of_sheriffs_and_police_chiefs.md). Here is the [modified chapter](rcw/36_counties/36.028A_association_of_sheriffs_and_police_chiefs.md) for context.
 

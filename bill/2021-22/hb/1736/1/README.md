@@ -1,6 +1,6 @@
 # House Bill 1736
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1736.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1736.pdf)
 ## Section 1
 1. The legislature finds that college students continue to borrow in order to fund their higher education, despite an increase in access to state financial aid. In Washington state, estimates for the number of borrowers carrying student loan debt are around 800,000 with an average balance around $33,500, resulting in a total outstanding balance of $29.4 billion. Student loan debt outpaces other sources of consumer debt, such as credit card and vehicle debt. While research shows that earning a postsecondary credential positively impacts a person's earning potential, high student loan debt erodes much of this benefit.
 

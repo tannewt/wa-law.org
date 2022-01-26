@@ -1,6 +1,6 @@
 # Engrossed Second Substitute House Bill 1227 - Session Law Chapter 211 Year 2021 as Recommended by Appropriations
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1227-S2.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1227-S2.SL.pdf)
 ## Section 1
 This act may be known and cited as the keeping families together act.
 

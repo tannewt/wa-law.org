@@ -1,6 +1,6 @@
 # Substitute House Bill 1340 as Recommended by Community & Economic Development
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1340-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1340-S.pdf)
 ## Section 1
 1. The legislature finds that:
 

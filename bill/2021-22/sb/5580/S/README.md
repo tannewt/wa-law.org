@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5580 as Recommended by Environment, Energy & Technology
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5580-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5580-S.pdf)
 ## Section 1
 > This section modifies existing section [43.155.160](/rcw/43_state_government—executive/43.155_public_works_projects.md). Here is the [modified chapter](rcw/43_state_government—executive/43.155_public_works_projects.md) for context.
 

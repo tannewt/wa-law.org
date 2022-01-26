@@ -1,6 +1,6 @@
 # Senate Bill 5260
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5260.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5260.pdf)
 ## Section 1
 1. Any superior court, in collaboration with the dispute resolution center that is located within or serving the same county, participating in the eviction resolution pilot program as established by order number 25700-B-639 of the Washington supreme court and in conjunction with any standing order of the superior court must report annually to the administrative office of the courts beginning January 1, 2022, until January 1, 2025, on the following:
 

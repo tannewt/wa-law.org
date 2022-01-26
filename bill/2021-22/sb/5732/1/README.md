@@ -1,6 +1,6 @@
 # Senate Bill 5732
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5732.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5732.pdf)
 ## Section 1
 1. The legislature finds that green roofs can improve the energy performance of buildings, help manage stormwater, reduce airborne emissions, and mitigate the effects of urban heat islands.
 

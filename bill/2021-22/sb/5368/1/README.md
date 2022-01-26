@@ -1,6 +1,6 @@
 # Senate Bill 5368
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5368.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5368.pdf)
 ## Section 1
 The legislature finds that encouraging economic development in rural areas is a compelling reason to amend the growth management act. Additionally, creating a path forward for cities and counties to collaboratively seek solutions to the complicated issues regarding annexation will enable the local jurisdictions to appropriately allocate development without competing for resources.
 

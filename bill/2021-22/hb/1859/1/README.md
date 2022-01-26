@@ -1,6 +1,6 @@
 # House Bill 1859
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1859.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1859.pdf)
 ## Section 1
 The purpose of this act is to create an interagency coordination team responsible for the program that establishes and maintains quality standards for laboratories conducting analysis of recreational and medicinal cannabis with THC levels greater than 0.3 percent. The interagency team includes the department of agriculture, the liquor and cannabis board, and the department of health. The standards must be adopted by rule by the department of agriculture, and changes to standards may require reference in liquor and cannabis board and department of health rules. This authority to establish these rules transfers from the liquor and cannabis board to the department of agriculture. This act implements the recommendations of the cannabis science task force established in RCW 43.21A.735.
 

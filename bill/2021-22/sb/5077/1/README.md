@@ -1,6 +1,6 @@
 # Senate Bill 5077 - Session Law Chapter 015 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5077.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5077.SL.pdf)
 ## Section 1
 > This section modifies existing section [31.04.027](/rcw/31_miscellaneous_loan_agencies/31.04_consumer_loan_act.md). Here is the [modified chapter](rcw/31_miscellaneous_loan_agencies/31.04_consumer_loan_act.md) for context.
 

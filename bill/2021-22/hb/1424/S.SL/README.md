@@ -1,6 +1,6 @@
 # Substitute House Bill 1424 - Session Law Chapter 076 Year 2021 as Recommended by Consumer Protection & Business
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1424-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1424-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [16.52](/rcw/16_animals_and_livestock/16.52_prevention_of_cruelty_to_animals.md). Here is the [modified chapter](rcw/16_animals_and_livestock/16.52_prevention_of_cruelty_to_animals.md) for context.
 

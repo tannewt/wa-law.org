@@ -1,6 +1,6 @@
 # Senate Bill 5612
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5612.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5612.pdf)
 ## Section 1
 > This section modifies existing section [7.69.030](/rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md) for context.
 

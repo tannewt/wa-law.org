@@ -1,6 +1,6 @@
 # Senate Bill 5167
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5167.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5167.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [46.01](/rcw/46_motor_vehicles/46.01_department_of_licensing.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.01_department_of_licensing.md) for context.
 

@@ -1,6 +1,6 @@
 # House Bill 1074
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1074.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1074.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [70.05](/rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.005_local_health_departments_boards_officers—regulations.md) for context.
 

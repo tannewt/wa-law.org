@@ -1,6 +1,6 @@
 # Senate Bill 5393
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5393.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5393.pdf)
 ## Section 1
 > This section modifies existing section [29A.72.100](/rcw/29A_elections/29A.72_state_initiative_and_referendum.md). Here is the [modified chapter](rcw/29A_elections/29A.72_state_initiative_and_referendum.md) for context.
 

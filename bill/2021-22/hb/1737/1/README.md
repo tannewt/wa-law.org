@@ -1,6 +1,6 @@
 # House Bill 1737
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1737.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1737.pdf)
 ## Section 1
 > This section modifies existing section [10.116.020](/rcw/10_criminal_procedure/10.116_peace_officers—tactics_and_equipment.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.116_peace_officers—tactics_and_equipment.md) for context.
 

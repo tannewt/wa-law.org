@@ -1,6 +1,6 @@
 # Senate Bill 5298
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5298.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5298.pdf)
 ## Section 1
 The legislature finds that self-determination is core to tribal sovereignty and must be integral in decision making that affects a tribe, tribal lands, or tribal rights. The legislature also finds that it is a priority to continue to strengthen the government-to-government relationship established between tribes and the state. As such, the legislature affirms that establishing notice and consent requirements between the attorney general and tribes is an important step toward furthering those goals.
 

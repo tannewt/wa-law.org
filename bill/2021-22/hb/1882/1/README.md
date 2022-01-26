@@ -1,6 +1,6 @@
 # House Bill 1882
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1882.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1882.pdf)
 ## Section 1
 1. The legislature finds that Washington state needs equitable and affordable outdoor recreation opportunities. Since 1990, Washington's population has grown by 2,700,000 residents. Yet, over the last 30 years, Washington's state park system has added just 28 camping sites, five vault toilets, and four composting toilets.
 

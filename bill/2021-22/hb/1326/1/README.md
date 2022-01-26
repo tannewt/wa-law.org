@@ -1,6 +1,6 @@
 # House Bill 1326
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1326.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1326.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [36.24](/rcw/36_counties/36.024_county_coroner.md). Here is the [modified chapter](rcw/36_counties/36.024_county_coroner.md) for context.
 

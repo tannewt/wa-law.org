@@ -1,6 +1,6 @@
 # Senate Bill 5656
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5656.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5656.pdf)
 ## Section 1
 > This section modifies existing section [77.04.030](/rcw/77_fish_and_wildlife/77.004_department_of_fish_and_wildlife.md). Here is the [modified chapter](rcw/77_fish_and_wildlife/77.004_department_of_fish_and_wildlife.md) for context.
 

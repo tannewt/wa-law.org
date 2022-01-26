@@ -1,6 +1,6 @@
 # House Bill 1844
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1844.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1844.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [9A.36](/rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.36_assault—physical_harm.md) for context.
 

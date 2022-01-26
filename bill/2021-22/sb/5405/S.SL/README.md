@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5405 - Session Law Chapter 310 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5405-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5405-S.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [44.28](/rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md). Here is the [modified chapter](rcw/44_state_government—legislative/44.28_joint_legislative_audit_and_review_committee.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed House Bill 1386 - Session Law Chapter 218 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/House/1386.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1386.SL.pdf)
 ## Section 1
 > This section modifies existing section [84.25.030](/rcw/84_property_taxes/84.25_targeted_urban_areas—exemption.md). Here is the [modified chapter](rcw/84_property_taxes/84.25_targeted_urban_areas—exemption.md) for context.
 

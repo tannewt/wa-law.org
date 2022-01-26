@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5096 - Session Law Chapter 196 Year 2021 as Recommended by Ways & Means
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5096-S.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5096-S.SL.pdf)
 ## Section 1
 The legislature finds that it is the paramount duty of the state to amply provide every child in the state with an education, creating the opportunity for the child to succeed in school and thrive in life. The legislature further finds that high quality early learning and child care is critical to a child's success in school and life, as it supports the development of the child's social-emotional, physical, cognitive, and language skills. Therefore, the legislature will invest in the ongoing support of K-12 education and early learning and child care by dedicating revenues from this act to the education legacy trust account and the common school construction account.
 

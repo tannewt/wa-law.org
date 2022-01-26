@@ -1,6 +1,6 @@
 # Senate Bill 5005 - Session Law Chapter 084 Year 2021
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Session%20Laws/Senate/5005.SL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5005.SL.pdf)
 ## Section 1
 > This section modifies existing section [23B.01.400](/rcw/23B_washington_business_corporation_act/23B.001_general_provisions.md). Here is the [modified chapter](rcw/23B_washington_business_corporation_act/23B.001_general_provisions.md) for context.
 

@@ -1,6 +1,6 @@
 # Engrossed Substitute Senate Bill 5190 as Recommended by Labor, Commerce & Tribal Affairs - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Passed%20Legislature/5190-S.PL.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5190-S.PL.pdf)
 ## Section 1
 > This section modifies existing section [50.04.294](/rcw/50_unemployment_compensation/50.04_definitions.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.04_definitions.md) for context.
 
