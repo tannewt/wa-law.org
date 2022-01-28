@@ -25,4 +25,5 @@
 * [SB 5864](/bill/2021-22/sb/5864/) - Unemployment/unvaccinated | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5934](/bill/2021-22/sb/5934/) - Third WA-OR bridge study | First reading, referred to Transportation.
 * [SB 5943](/bill/2021-22/sb/5943/) - Governor's emergency powers | First reading, referred to State Government & Elections.
+* [SB 5959](/bill/2021-22/sb/5959/) - FML insurance solvency | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
 * [SJR 8209](/bill/2021-22/sjr/8209/) - Domestic violence/bail | First reading, referred to Law & Justice.

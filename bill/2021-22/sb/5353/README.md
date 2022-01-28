@@ -1,5 +1,6 @@
 # SB 5353 - Law enf community engagement
 **Primary Sponsor:** [Steve Conway](/person/leg/steve.conway.md)
+
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5353&Year=2021)
 
 Creating a partnership model that facilitates community engagement with law enforcement.

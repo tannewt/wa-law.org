@@ -6,7 +6,7 @@ import sys
 import subprocess
 import arrow
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 csi_root_url = "https://app.leg.wa.gov/csi"

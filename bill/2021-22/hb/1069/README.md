@@ -1,5 +1,6 @@
 # HB 1069 - Local gov fiscal flexibility
 **Primary Sponsor:** [Gerry Pollet](/person/leg/gerry.pollet.md)
+
 *Status: Effective date 5/13/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1069&Year=2021)
 
 Concerning local government fiscal flexibility.

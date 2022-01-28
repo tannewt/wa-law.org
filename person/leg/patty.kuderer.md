@@ -20,9 +20,9 @@
 * [SB 5266](/bill/2021-22/sb/5266/) - Products sold to adults 21+ | By resolution, reintroduced and retained in present status.
 * [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | Placed on second reading consent calendar.
 * [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Referred to Ways & Means.
-* [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | First reading, referred to Law & Justice.
+* [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Minority; do not pass.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Passed to Rules Committee for second reading.
-* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | First reading, referred to Transportation.
+* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | TRAN - Majority; 1st substitute bill be substituted, do pass.
 * [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | First reading, referred to Housing & Local Government.
 * [SB 5705](/bill/2021-22/sb/5705/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means.
 * [SB 5768](/bill/2021-22/sb/5768/) - Vapor products | First reading, referred to Health & Long Term Care.

@@ -1,5 +1,6 @@
 # HB 1272 - Health system transparency
 **Primary Sponsor:** [Nicole Macri](/person/leg/nicole.macri.md)
+
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1272&Year=2021)
 
 Concerning health system transparency.

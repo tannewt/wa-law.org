@@ -5,7 +5,7 @@ import pathlib
 import sys
 import subprocess
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 
@@ -459,7 +459,7 @@ for start_year in range(2021, 2023, 2):
             sponsor = sponsors_by_id[sponsor]
             slug = sponsor.Email.text.split("@")[0].lower()
             bill_readme.append(f"**Primary Sponsor:** [{sponsor.Name.text}](/person/leg/{slug}.md)")
-
+            bill_readme.append("")
             bill_link_by_number[bill_number] = f"[{bill_id}](/{str(bill_path)}/) - {short_description} | {bill.HistoryLine.text}"
             bill_readme.append("*Status: " + bill.HistoryLine.text + "* | " + f"[leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2021)")
             bill_readme.append("")

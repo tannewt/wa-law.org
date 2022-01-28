@@ -1,5 +1,6 @@
 # SCR 8401 - Cutoff dates
 **Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
+
 *Status: Filed with Secretary of State.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=8401&Year=2021)
 
 Establishing cutoff dates for the consideration of legislation during the 2021 regular session of the sixty-seventh legislature.

@@ -10,7 +10,7 @@
 * [HB 1592](/bill/2021-22/hb/1592/) - Military spouse employment | HHSV - Executive action taken by committee.
 * [HB 1593](/bill/2021-22/hb/1593/) - Landlord mitigation/victims | Referred to Rules 2 Review.
 * [HB 1601](/bill/2021-22/hb/1601/) - Student homelessness pilot | Referred to Appropriations.
-* [HB 1620](/bill/2021-22/hb/1620/) - Extreme weather events | Referred to Appropriations.
+* [HB 1620](/bill/2021-22/hb/1620/) - Extreme weather events | APP - Executive action taken by committee.
 * [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | Referred to Rules 2 Review.
 * [HB 1650](/bill/2021-22/hb/1650/) - Commercial solicitation | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1697](/bill/2021-22/hb/1697/) - Online services/minors | Referred to Appropriations.

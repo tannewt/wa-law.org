@@ -1,5 +1,6 @@
 # HB 1333 - Rural public facilities/tax
 **Primary Sponsor:** [Steve Tharinger](/person/leg/steve.tharinger.md)
+
 *Status: First reading, referred to Housing & Local Government.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1333&Year=2021)
 
 Providing an extension to the local sales and use tax for public facilities in rural counties.

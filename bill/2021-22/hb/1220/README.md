@@ -1,5 +1,6 @@
 # HB 1220 - Emergency shelters & housing
 **Primary Sponsor:** [Strom Peterson](/person/leg/strom.peterson.md)
+
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1220&Year=2021)
 
 Supporting emergency shelters and housing through local planning and development regulations.

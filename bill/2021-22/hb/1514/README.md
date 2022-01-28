@@ -1,5 +1,6 @@
 # HB 1514 - Transportation demand
 **Primary Sponsor:** [Jamila Taylor](/person/leg/jamila.taylor.md)
+
 *Status: Effective date 9/1/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1514&Year=2021)
 
 Addressing transportation demand management.

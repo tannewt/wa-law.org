@@ -7,8 +7,8 @@
 * [HB 1411](/bill/2021-22/hb/1411/) - Health care workforce | Effective date 7/25/2021*.
 * [HB 1412](/bill/2021-22/hb/1412/) - Legal financial obligations | Referred to Appropriations.
 * [HB 1616](/bill/2021-22/hb/1616/) - Charity care | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1637](/bill/2021-22/hb/1637/) - Mental illness/sentencing | PS - Executive action taken by committee.
-* [HB 1681](/bill/2021-22/hb/1681/) - Conviction record vacation | PS - Executive action taken by committee.
+* [HB 1637](/bill/2021-22/hb/1637/) - Mental illness/sentencing | Minority; do not pass.
+* [HB 1681](/bill/2021-22/hb/1681/) - Conviction record vacation | Minority; do not pass.
 * [HB 1692](/bill/2021-22/hb/1692/) - Drive-by shooting | First reading, referred to Public Safety.
 * [HB 1809](/bill/2021-22/hb/1809/) - Health care marketplace | First reading, referred to Civil Rights & Judiciary.
 * [HB 1818](/bill/2021-22/hb/1818/) - Reentry and rehabilitation | HHSV - Executive action taken by committee.

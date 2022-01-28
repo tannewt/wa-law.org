@@ -1,5 +1,6 @@
 # HB 1063 - Behav. health credentials
 **Primary Sponsor:** [Paul Harris](/person/leg/paul.harris.md)
+
 *Status: Effective date 4/16/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1063&Year=2021)
 
 Allowing additional renewals for behavioral health professional trainee and associate credentials.

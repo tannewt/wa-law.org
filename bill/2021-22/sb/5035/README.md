@@ -1,5 +1,6 @@
 # SB 5035 - Drug offender scoring
 **Primary Sponsor:** [Manka Dhingra](/person/leg/manka.dhingra.md)
+
 *Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5035&Year=2021)
 
 Concerning offender scoring of drug offenses.

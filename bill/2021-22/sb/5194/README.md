@@ -1,5 +1,6 @@
 # SB 5194 - Higher ed. equity & access
 **Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
+
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5194&Year=2021)
 
 Providing for equity and access in the community and technical colleges. (REVISED FOR ENGROSSED: Concerning equity and access in higher education. )

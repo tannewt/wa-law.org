@@ -1,5 +1,6 @@
 # SB 5638 - Mental health prof. licenses
 **Primary Sponsor:** [Keith Wagoner](/person/leg/keith.wagoner.md)
+
 *Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5638&Year=2021)
 
 Concerning expediting approval for applicants for an associate license as a social worker, mental health counselor, or marriage and family therapist.

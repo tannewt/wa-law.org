@@ -1,5 +1,6 @@
 # HB 1258 - Microenterprise home kitchen
 **Primary Sponsor:** [Noel Frame](/person/leg/noel.frame.md)
+
 *Status: By resolution, reintroduced and retained in present status.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1258&Year=2021)
 
 Concerning the operation, authorization, and permitting of microenterprise home kitchens.

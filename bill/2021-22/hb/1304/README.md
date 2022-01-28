@@ -1,5 +1,6 @@
 # HB 1304 - Grade-separated transport.
 **Primary Sponsor:** [David Hackney](/person/leg/david.hackney.md)
+
 *Status: By resolution, reintroduced and retained in present status.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1304&Year=2021)
 
 Concerning grade-separated transportation.

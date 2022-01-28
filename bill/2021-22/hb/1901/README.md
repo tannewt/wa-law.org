@@ -1,6 +1,7 @@
 # HB 1901 - Civil protection orders
 **Primary Sponsor:** [Roger Goodman](/person/leg/roger.goodman.md)
-*Status: First reading, referred to Civil Rights & Judiciary.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1901&Year=2021)
+
+*Status: CRJ - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1901&Year=2021)
 
 Updating laws concerning civil protection orders to further enhance and improve their efficacy and accessibility.
 

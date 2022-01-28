@@ -1,5 +1,6 @@
 # SB 5227 - Diversity, etc./higher ed.
 **Primary Sponsor:** [Emily Randall](/person/leg/randall_em.md)
+
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5227&Year=2021)
 
 Concerning diversity, equity, inclusion, and antiracism training and assessments at institutions of higher education.

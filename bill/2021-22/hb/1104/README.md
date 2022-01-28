@@ -1,5 +1,6 @@
 # HB 1104 - Mortgage lending fraud acct
 **Primary Sponsor:** [Cindy Ryu](/person/leg/cindy.ryu.md)
+
 *Status: Effective date 4/14/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1104&Year=2021)
 
 Extending the operation of the mortgage lending fraud prosecution account until June 30, 2027.

@@ -1,5 +1,6 @@
 # HB 1320 - Civil protection orders
 **Primary Sponsor:** [Roger Goodman](/person/leg/roger.goodman.md)
+
 *Status: Effective date 7/1/2022*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1320&Year=2021)
 
 Modernizing, harmonizing, and improving the efficacy and accessibility of laws concerning civil protection orders.

@@ -8,7 +8,7 @@
 * [HB 1241](/bill/2021-22/hb/1241/) - Growth management act plans | Referred to Appropriations.
 * [HB 1362](/bill/2021-22/hb/1362/) - Property tax revenue growth | By resolution, reintroduced and retained in present status.
 * [HB 1663](/bill/2021-22/hb/1663/) - Landfill methane emissions | Referred to Appropriations.
-* [HB 1714](/bill/2021-22/hb/1714/) - Impact fee deferrals | Minority; without recommendation.
+* [HB 1714](/bill/2021-22/hb/1714/) - Impact fee deferrals | Referred to Rules 2 Review.
 * [HB 1768](/bill/2021-22/hb/1768/) - Energy conservation projects | Referred to Rules 2 Review.
 * [HB 1769](/bill/2021-22/hb/1769/) - Community municipal corps | First reading, referred to Local Government.
 * [HB 1770](/bill/2021-22/hb/1770/) - Energy codes | Referred to Rules 2 Review.

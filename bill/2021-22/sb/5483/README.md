@@ -1,5 +1,6 @@
 # SB 5483 - Transportation revenue
 **Primary Sponsor:** [Steve Hobbs](/person/leg/steve.hobbs.md)
+
 *Status: By resolution, reintroduced and retained in present status.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5483&Year=2021)
 
 Concerning transportation revenue.

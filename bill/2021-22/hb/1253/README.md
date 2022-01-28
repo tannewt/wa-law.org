@@ -1,5 +1,6 @@
 # HB 1253 - Working forest license plate
 **Primary Sponsor:** [Ed Orcutt](/person/leg/ed.orcutt.md)
+
 *Status: By resolution, reintroduced and retained in present status.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1253&Year=2021)
 
 Creating special license plates that support working forests.

@@ -1,5 +1,6 @@
 # HCR 4400 - Legislature joint rules
 **Primary Sponsor:** [Pat Sullivan](/person/leg/pat.sullivan.md)
+
 *Status: Filed with Secretary of State.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=4400&Year=2021)
 
 Adopting joint rules.

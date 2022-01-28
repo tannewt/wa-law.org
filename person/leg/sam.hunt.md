@@ -25,3 +25,5 @@
 * [SB 5905](/bill/2021-22/sb/5905/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.
 * [SB 5917](/bill/2021-22/sb/5917/) - Productivity board | First reading, referred to State Government & Elections.
 * [SB 5925](/bill/2021-22/sb/5925/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.
+* [SB 5960](/bill/2021-22/sb/5960/) - Property tax exemption | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
+* [SJR 8213](/bill/2021-22/sjr/8213/) - Personal property taxation | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).

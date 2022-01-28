@@ -1,5 +1,6 @@
 # EHB 1482 - Common interest/foreclosure
 **Primary Sponsor:** [Jim Walsh](/person/leg/jim.walsh.md)
+
 *Status: Effective date 5/10/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1482&Year=2021)
 
 Addressing foreclosure protections for homeowners in common interest communities.

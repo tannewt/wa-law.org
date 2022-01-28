@@ -16,7 +16,7 @@
 * [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Referred to Ways & Means.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
-* [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | AWNP - Majority; do pass.
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | And refer to Ways & Means.
 * [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Law & Justice.

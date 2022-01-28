@@ -1,5 +1,6 @@
 # ESB 5330 - Commercial whale watching
 **Primary Sponsor:** [Kevin Van De Wege](/person/leg/kevin.vandewege.md)
+
 *Status: Effective date 5/12/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5330&Year=2021)
 
 Regarding commercial whale watching licenses.

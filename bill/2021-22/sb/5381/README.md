@@ -1,5 +1,6 @@
 # SB 5381 - Fish passage project permits
 **Primary Sponsor:** [Steve Hobbs](/person/leg/steve.hobbs.md)
+
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5381&Year=2021)
 
 Addressing fish passage project permit streamlining.

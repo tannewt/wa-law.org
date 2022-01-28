@@ -1,6 +1,6 @@
 # Emily Wicks
 ## Bills
-* [HB 1025](/bill/2021-22/hb/1025/) - Local parks funding options | Minority; without recommendation.
+* [HB 1025](/bill/2021-22/hb/1025/) - Local parks funding options | Referred to Rules 2 Review.
 * [HB 1047](/bill/2021-22/hb/1047/) - Hearing instruments/children | By resolution, reintroduced and retained in present status.
 * [HB 1048](/bill/2021-22/hb/1048/) - Criminal mistreatment | Referred to Rules 2 Review.
 * [HB 1243](/bill/2021-22/hb/1243/) - Local infra. project areas | By resolution, reintroduced and retained in present status.

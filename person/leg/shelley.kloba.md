@@ -11,3 +11,4 @@
 * [HB 1668](/bill/2021-22/hb/1668/) - Marijuana products | Referred to Appropriations.
 * [HB 1731](/bill/2021-22/hb/1731/) - Autonomous vehicle testing | First reading, referred to Transportation.
 * [HB 1859](/bill/2021-22/hb/1859/) - Cannabis analysis labs | First reading, referred to Commerce & Gaming.
+* [HB 2107](/bill/2021-22/hb/2107/) - Consumer data excise tax | First reading, referred to Finance.

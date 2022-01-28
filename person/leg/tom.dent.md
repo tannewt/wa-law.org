@@ -9,11 +9,11 @@
 * [HB 1355](/bill/2021-22/hb/1355/) - Noxious weeds | Effective date 7/25/2021.
 * [HB 1434](/bill/2021-22/hb/1434/) - Ag. mental health hotline | By resolution, reintroduced and retained in present status.
 * [HB 1470](/bill/2021-22/hb/1470/) - Unmanned aircraft/tax prefs. | By resolution, reintroduced and retained in present status.
-* [HB 1538](/bill/2021-22/hb/1538/) - Aviation & aerospace cmte. | By resolution, reintroduced and retained in present status.
+* [HB 1538](/bill/2021-22/hb/1538/) - Aviation & aerospace cmte. | CED - Executive action taken by committee.
 * [HB 1712](/bill/2021-22/hb/1712/) - Muni. airport commissions | First reading, referred to Transportation.
-* [HB 1891](/bill/2021-22/hb/1891/) - Rangeland fire pilot | First reading, referred to Rural Development, Agriculture & Natural Resources.
+* [HB 1891](/bill/2021-22/hb/1891/) - Rangeland fire pilot | RDAN - Executive action taken by committee.
 * [HB 1909](/bill/2021-22/hb/1909/) - Meat and poultry misbranding | First reading, referred to Rural Development, Agriculture & Natural Resources.
-* [HB 1936](/bill/2021-22/hb/1936/) - DCYF oversight board members | CYF - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1936](/bill/2021-22/hb/1936/) - DCYF oversight board members | Referred to Rules 2 Review.
 * [HB 1945](/bill/2021-22/hb/1945/) - DCYF-caregiver communication | First reading, referred to Children, Youth & Families.
 * [HB 1993](/bill/2021-22/hb/1993/) - Pesticide advisory board | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 2053](/bill/2021-22/hb/2053/) - Behavioral health work group | First reading, referred to Health Care & Wellness.

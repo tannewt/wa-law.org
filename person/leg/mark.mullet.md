@@ -28,3 +28,4 @@
 * [SB 5924](/bill/2021-22/sb/5924/) - Tax penalties | First reading, referred to Ways & Means.
 * [SB 5935](/bill/2021-22/sb/5935/) - Adult family homes/prop. tax | First reading, referred to Health & Long Term Care.
 * [SB 5946](/bill/2021-22/sb/5946/) - LIBOR discontinuance | First reading, referred to Business, Financial Services & Trade.
+* [SB 5957](/bill/2021-22/sb/5957/) - Manufacturing B&O tax rate | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).

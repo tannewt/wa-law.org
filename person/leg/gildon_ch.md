@@ -9,7 +9,7 @@
 * [SB 5484](/bill/2021-22/sb/5484/) - COVID-19/county phases | By resolution, reintroduced and retained in present status.
 * [SJR 8201](/bill/2021-22/sjr/8201/) - Special session, 3/5th vote | By resolution, reintroduced and retained in present status.
 * [SB 5690](/bill/2021-22/sb/5690/) - Firearms at capitol/events | LAW - Majority; 1st substitute bill be substituted, do pass.
-* [SB 5691](/bill/2021-22/sb/5691/) - Prosecutorial filing | First reading, referred to Law & Justice.
+* [SB 5691](/bill/2021-22/sb/5691/) - Prosecutorial filing | And refer to Ways & Means.
 * [SB 5692](/bill/2021-22/sb/5692/) - Corrections programming | Referred to Ways & Means.
 * [SB 5757](/bill/2021-22/sb/5757/) - Multifamily properties/REET | First reading, referred to Housing & Local Government.
 * [SB 5758](/bill/2021-22/sb/5758/) - Condominium conversions | Minority; without recommendation.

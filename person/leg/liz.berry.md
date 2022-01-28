@@ -13,6 +13,6 @@
 * [HB 1705](/bill/2021-22/hb/1705/) - Untraceable guns | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HJM 4002](/bill/2021-22/hjm/4002/) - Jones Act | Referred to Rules 2 Review.
 * [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | Referred to Appropriations.
-* [HB 1795](/bill/2021-22/hb/1795/) - Nondisclosure/illegal acts | Minority; without recommendation.
+* [HB 1795](/bill/2021-22/hb/1795/) - Nondisclosure/illegal acts | Referred to Rules 2 Review.
 * [HB 2009](/bill/2021-22/hb/2009/) - Basic income trust | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2076](/bill/2021-22/hb/2076/) - Transp. network companies | First reading, referred to Labor & Workplace Standards.

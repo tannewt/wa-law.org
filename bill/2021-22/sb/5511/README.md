@@ -1,5 +1,6 @@
 # SB 5511 - Uniform standard time
 **Primary Sponsor:** [Jim Honeyford](/person/leg/jim.honeyford.md)
+
 *Status: First reading, referred to State Government & Elections.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5511&Year=2021)
 
 Concerning uniform standard time for the state of Washington.
