@@ -1,4 +1,5 @@
 import pathlib
+import warnings
 
 from markdown_it import MarkdownIt
 from fancy_list_plugin import fancy_list_plugin
@@ -36,9 +37,31 @@ def switch_md_to_html(self, tokens, idx, options, env):
 
 md.add_render_rule("link_open", switch_md_to_html)
 
+def extract_title(md_tokens: list, maxsearch: int = 5):
+    title = None
+
+    for token in md_tokens[:maxsearch]:
+        tokendict = token.as_dict()
+        try:
+            if tokendict['type'] == 'inline':
+                poss_title = tokendict['children'][0]['content']
+                if len(poss_title) > 1:
+                    # found!
+                    title = poss_title
+                    break
+
+        except KeyError:
+            warnings.warn('in extract_title, expected token structure failed')
+
+    if title is None:
+        warnings.warn('in extract_title, token was not found')
+
+    return title
+
 def render(text):
-    # print(md.parse(text))
-    return base_template.render(body=md.render(text))
+    mdtokens = md.parse(text)
+    title = extract_title(mdtokens)
+    return base_template.render(title=title, body=md.render(text))
 
 ## To export the html to a file, uncomment the lines below:
 # from pathlib import Path
