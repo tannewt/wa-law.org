@@ -1,4 +1,5 @@
 # ESB 5454 - Prop. tax/natural disasters
+**Primary Sponsor:** [Mark Schoesler](/person/leg/mark.schoesler.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5454&Year=2021)
 
 Providing property tax relief to Washington citizens who lost their homes in the labor day fires. (REVISED FOR ENGROSSED: Creating a property tax exemption for homes damaged by natural disasters. )

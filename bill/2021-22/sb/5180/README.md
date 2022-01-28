@@ -1,4 +1,5 @@
 # SB 5180 - Vacating certain convictions
+**Primary Sponsor:** [Manka Dhingra](/person/leg/manka.dhingra.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5180&Year=2021)
 
 Vacating certain convictions.

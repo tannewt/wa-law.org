@@ -1,4 +1,5 @@
 # HB 1120 - Long-term services/emergency
+**Primary Sponsor:** [Steve Tharinger](/person/leg/steve.tharinger.md)
 *Status: Effective date 5/10/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1120&Year=2021)
 
 Concerning state of emergency operations impacting long-term services and supports.

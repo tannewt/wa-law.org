@@ -1,4 +1,5 @@
 # ESB 5356 - Public works/bidding
+**Primary Sponsor:** [Shelly Short](/person/leg/shelly.short.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5356&Year=2021)
 
 Concerning prime contractor bidding submission requirements on public works contracts.

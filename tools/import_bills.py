@@ -403,7 +403,6 @@ for start_year in range(2021, 2023, 2):
             bill = None
             bill_id = None
             for b in bills_by_sponsor[sponsor][bill_number]:
-                print(b)
                 # Find the shortest billId because we don't want engrossed or substitutes.
                 if bill_id is None or len(b.BillId.text) < len(bill_id):
                     bill_id = b.BillId.text
@@ -457,6 +456,9 @@ for start_year in range(2021, 2023, 2):
             bill_readme = []
 
             bill_readme.append("# " + bill_id + " - " + short_description)
+            sponsor = sponsors_by_id[sponsor]
+            slug = sponsor.Email.text.split("@")[0].lower()
+            bill_readme.append(f"**Primary Sponsor:** [{sponsor.Name.text}](/person/leg/{slug}.md)")
 
             bill_link_by_number[bill_number] = f"[{bill_id}](/{str(bill_path)}/) - {short_description} | {bill.HistoryLine.text}"
             bill_readme.append("*Status: " + bill.HistoryLine.text + "* | " + f"[leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2021)")

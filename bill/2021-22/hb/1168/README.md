@@ -1,4 +1,5 @@
 # HB 1168 - Long-term forest health
+**Primary Sponsor:** [Larry Springer](/person/leg/larry.springer.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1168&Year=2021)
 
 Concerning long-term forest health and the reduction of wildfire dangers.

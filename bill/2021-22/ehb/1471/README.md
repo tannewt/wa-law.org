@@ -1,4 +1,5 @@
 # EHB 1471 - Community preservation auth.
+**Primary Sponsor:** [Sharon Tomiko Santos](/person/leg/sharontomiko.santos.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1471&Year=2021)
 
 Concerning community preservation and development authorities.

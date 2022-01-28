@@ -1,4 +1,5 @@
 # SB 5627 - Workers' comp. exam rights
+**Primary Sponsor:** [Derek Stanford](/person/leg/derek.stanford.md)
 *Status: First reading, referred to Labor, Commerce & Tribal Affairs.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5627&Year=2021)
 
 Concerning injured workers' rights during independent medical examinations.

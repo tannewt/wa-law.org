@@ -1,4 +1,5 @@
 # SB 5237 - Child care & early dev. exp.
+**Primary Sponsor:** [Claire Wilson](/person/leg/wilson_cl.md)
 *Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5237&Year=2021)
 
 Expanding accessible, affordable child care and early childhood development programs.

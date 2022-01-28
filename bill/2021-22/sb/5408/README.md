@@ -1,4 +1,5 @@
 # SB 5408 - Homestead exemption
+**Primary Sponsor:** [Derek Stanford](/person/leg/derek.stanford.md)
 *Status: Effective date 5/12/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5408&Year=2021)
 
 Concerning the homestead exemption.

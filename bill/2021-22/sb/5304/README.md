@@ -1,4 +1,5 @@
 # SB 5304 - Reentry services
+**Primary Sponsor:** [Claire Wilson](/person/leg/wilson_cl.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5304&Year=2021)
 
 Providing reentry services to persons releasing from state and local institutions.

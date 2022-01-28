@@ -1,4 +1,5 @@
 # HB 1425 - CTC student scholarships
+**Primary Sponsor:** [Jamila Taylor](/person/leg/jamila.taylor.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1425&Year=2021)
 
 Expanding scholarships for community and technical college students.

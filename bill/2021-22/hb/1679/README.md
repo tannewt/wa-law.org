@@ -1,4 +1,5 @@
 # HB 1679 - Abortions by medication
+**Primary Sponsor:** [Brad Klippert](/person/leg/brad.klippert.md)
 *Status: First reading, referred to Health Care & Wellness.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1679&Year=2021)
 
 Prohibiting abortions performed by means of medication.

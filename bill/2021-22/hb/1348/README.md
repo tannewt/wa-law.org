@@ -1,4 +1,5 @@
 # HB 1348 - Incarcerated persons/medical
+**Primary Sponsor:** [Lauren Davis](/person/leg/davis_la.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1348&Year=2021)
 
 Providing medical assistance to incarcerated persons.

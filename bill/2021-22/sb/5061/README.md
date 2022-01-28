@@ -1,4 +1,5 @@
 # SB 5061 - Unemployment insurance
+**Primary Sponsor:** [Karen Keiser](/person/leg/karen.keiser.md)
 *Status: Effective date 2/8/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5061&Year=2021)
 
 Concerning unemployment insurance.

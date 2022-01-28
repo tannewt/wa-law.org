@@ -1,4 +1,5 @@
 # SB 5093 - Building decarbonization
+**Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
 *Status: By resolution, reintroduced and retained in present status.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5093&Year=2021)
 
 Reducing statewide greenhouse gas emissions by achieving greater decarbonization of residential and commercial buildings.

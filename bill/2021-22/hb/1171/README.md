@@ -1,4 +1,5 @@
 # HB 1171 - Child support withholding
+**Primary Sponsor:** [Amy Walen](/person/leg/walen_am.md)
 *Status: Effective date 7/25/2021*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1171&Year=2021)
 
 Amending child support income withholding provisions to comply with federal child support program requirements.

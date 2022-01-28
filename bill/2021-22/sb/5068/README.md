@@ -1,4 +1,5 @@
 # SB 5068 - Postpartum period/Medicaid
+**Primary Sponsor:** [Emily Randall](/person/leg/randall_em.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5068&Year=2021)
 
 Improving maternal health outcomes by extending coverage during the postpartum period.

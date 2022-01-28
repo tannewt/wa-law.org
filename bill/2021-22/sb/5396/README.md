@@ -1,4 +1,5 @@
 # SB 5396 - Farmworker housing/tax
+**Primary Sponsor:** [Liz Lovelett](/person/leg/liz.lovelett.md)
 *Status: Effective date 10/1/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5396&Year=2021)
 
 Expanding the sales and use tax exemption for farmworker housing.

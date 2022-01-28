@@ -1,4 +1,5 @@
 # HB 1309 - Levy certification dates
+**Primary Sponsor:** [Carolyn Eslick](/person/leg/eslick_ca.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1309&Year=2021)
 
 Concerning the dates of certification of levies.

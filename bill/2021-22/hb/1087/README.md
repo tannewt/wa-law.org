@@ -1,4 +1,5 @@
 # HB 1087 - Family/med leave continuity
+**Primary Sponsor:** [Liz Berry](/person/leg/liz.berry.md)
 *Status: Effective date 4/16/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1087&Year=2021)
 
 Clarifying the continuity of employee family and medical leave rights.

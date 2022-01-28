@@ -1,4 +1,5 @@
 # SB 5030 - School counseling programs
+**Primary Sponsor:** [Mark Mullet](/person/leg/mark.mullet.md)
 *Status: Effective date 7/25/2021.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5030&Year=2021)
 
 Developing comprehensive school counseling programs.

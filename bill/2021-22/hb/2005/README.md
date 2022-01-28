@@ -1,4 +1,5 @@
 # HB 2005 - Election activity recording
+**Primary Sponsor:** [Jesse Young](/person/leg/jesse.young.md)
 *Status: First reading, referred to State Government & Tribal Relations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2005&Year=2021)
 
 Concerning video recording of specified election activities.
