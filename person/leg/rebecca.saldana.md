@@ -10,11 +10,11 @@
 * [SB 5439](/bill/2021-22/sb/5439/) - Broadband/state highways | Senate Rules "X" file.
 * [SB 5444](/bill/2021-22/sb/5444/) - Electric vehicles/per mile | Senate Rules "X" file.
 * [SB 5457](/bill/2021-22/sb/5457/) - Transportation demand | By resolution, reintroduced and retained in present status.
-* [SB 5597](/bill/2021-22/sb/5597/) - Voting rights | First reading, referred to State Government & Elections.
+* [SB 5597](/bill/2021-22/sb/5597/) - Voting rights | Referred to Ways & Means.
 * [SB 5599](/bill/2021-22/sb/5599/) - Journey level electricians | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5706](/bill/2021-22/sb/5706/) - Community reinvestment | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5706](/bill/2021-22/sb/5706/) - Community reinvestment | Referred to Ways & Means.
 * [SB 5707](/bill/2021-22/sb/5707/) - Traffic safety cameras | First reading, referred to Transportation.
-* [SB 5772](/bill/2021-22/sb/5772/) - Postconviction counsel | First reading, referred to Law & Justice.
-* [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5772](/bill/2021-22/sb/5772/) - Postconviction counsel | And refer to Ways & Means.
+* [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | Referred to Ways & Means.
 * [SB 5835](/bill/2021-22/sb/5835/) - Workers' compensation | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5863](/bill/2021-22/sb/5863/) - RTA vehicle removal | First reading, referred to Transportation.

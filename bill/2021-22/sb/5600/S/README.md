@@ -1,6 +1,6 @@
 # Substitute Senate Bill 5600 as Recommended by Labor, Commerce & Tribal Affairs
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5600-S.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5600-S.pdf)
 ## Section 1
 Washington state has maintained a robust registered apprenticeship system that has created tens of thousands of high-skill, high-wage careers in traditional apprenticeship programs that are financially stable and jointly managed to ensure future generations of apprentices for high demand occupations. The earn while you learn apprenticeship model opens opportunities to diverse groups and communities that have not been able to access traditional higher education and traditional apprenticeship programs in the past. The legislature recognizes that the COVID-19 pandemic has also created a significant dislocation and disruption of our workforce that can be repaired in part by reconnecting workers with innovative apprenticeships that lead to new career pathways. The legislature intends to encourage and foster new apprenticeship opportunities through programs sponsored by public and private entities. It is the intent of the legislature that apprenticeship programs seeking state registration receive prompt consideration with minimum delay. To achieve the goals of rebuilding a robust postpandemic workforce and undertaking active efforts to provide equity, diversity, and inclusion in apprenticeship programs will take sustained effort and support.
 

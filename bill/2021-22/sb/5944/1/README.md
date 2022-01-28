@@ -1,6 +1,6 @@
 # Senate Bill 5944
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5944.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5944.pdf)
 ## Section 1
 It is the intent of the legislature to combat crimes that relate to stealing, embezzling, or obtaining by fraud, false pretenses, or other illegal means of retail merchandise for the purpose of reselling the items or for reentering the items into commerce.
 

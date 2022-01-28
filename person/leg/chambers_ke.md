@@ -7,5 +7,5 @@
 * [HB 1530](/bill/2021-22/hb/1530/) - Wine special license plates | By resolution, reintroduced and retained in present status.
 * [HB 1580](/bill/2021-22/hb/1580/) - COVID-19/county phases | By resolution, reintroduced and retained in present status.
 * [HB 1856](/bill/2021-22/hb/1856/) - Voluntary stewardship prog. | First reading, referred to Rural Development, Agriculture & Natural Resources.
-* [HB 1877](/bill/2021-22/hb/1877/) - Health prof. expired certs | First reading, referred to Health Care & Wellness.
+* [HB 1877](/bill/2021-22/hb/1877/) - Health prof. expired certs | Referred to Rules 2 Review.
 * [HB 2025](/bill/2021-22/hb/2025/) - Bingo gambling activities | First reading, referred to Commerce & Gaming.

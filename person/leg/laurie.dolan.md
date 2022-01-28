@@ -12,5 +12,5 @@
 * [HB 1611](/bill/2021-22/hb/1611/) - Highly capable students | First reading, referred to Education.
 * [HB 1629](/bill/2021-22/hb/1629/) - Aerial imaging technology | Referred to Rules 2 Review.
 * [HB 1652](/bill/2021-22/hb/1652/) - Conserv. district elections | First reading, referred to State Government & Tribal Relations.
-* [HB 1744](/bill/2021-22/hb/1744/) - Cancer care collaboratives | Minority; do not pass.
+* [HB 1744](/bill/2021-22/hb/1744/) - Cancer care collaboratives | Referred to Rules 2 Review.
 * [HB 1985](/bill/2021-22/hb/1985/) - Schools/support funding | First reading, referred to Education.

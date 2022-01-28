@@ -1,6 +1,6 @@
 # House Bill 2088
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2088.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2088.pdf)
 ## Section 1
 > This section modifies existing section [61.24.008](/rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md). Here is the [modified chapter](rcw/61_mortgages_deeds_of_trust_and_real_estate_contracts/61.24_deeds_of_trust.md) for context.
 

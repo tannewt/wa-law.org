@@ -9,12 +9,13 @@
 * [SB 5295](/bill/2021-22/sb/5295/) - Gas & electrical rates | Effective date 7/25/2021.
 * [SB 5432](/bill/2021-22/sb/5432/) - Cybersecurity/state gov. | Effective date 7/25/2021.
 * [SB 5543](/bill/2021-22/sb/5543/) - Landscaping equipment | Referred to Ways & Means.
-* [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Placed on second reading by Rules Committee.
-* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | First reading, referred to Environment, Energy & Technology.
+* [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Third reading, passed; yeas, 29; nays, 19; absent, 0; excused, 1.
+* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | And refer to Ways & Means.
 * [SB 5813](/bill/2021-22/sb/5813/) - Data privacy | First reading, referred to Environment, Energy & Technology.
 * [SB 5820](/bill/2021-22/sb/5820/) - Superintendent, appointing | First reading, referred to Early Learning & K-12 Education.
 * [SB 5833](/bill/2021-22/sb/5833/) - School director compensation | First reading, referred to Early Learning & K-12 Education.
 * [SB 5834](/bill/2021-22/sb/5834/) - State gov. tech. policies | First reading, referred to Environment, Energy & Technology.
 * [SB 5842](/bill/2021-22/sb/5842/) - Climate change | First reading, referred to Environment, Energy & Technology.
 * [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | First reading, referred to Environment, Energy & Technology.
+* [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SJR 8212](/bill/2021-22/sjr/8212/) - Superintendent | First reading, referred to Early Learning & K-12 Education.

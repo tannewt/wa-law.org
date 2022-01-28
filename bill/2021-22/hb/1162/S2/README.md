@@ -1,6 +1,6 @@
 # Second Substitute House Bill 1162 as Recommended by Education
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/1162-S2.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1162-S2.pdf)
 ## Section 1
 > This section modifies existing section [28A.150.220](/rcw/28A_common_school_provisions/28A.150_general_provisions.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.150_general_provisions.md) for context.
 

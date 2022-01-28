@@ -1,0 +1,262 @@
+# Substitute Senate Bill 5670 as Recommended by Housing & Local Government
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5670-S.pdf)
+## Section 1
+> This section modifies existing section [36.70A.030](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Adopt a comprehensive land use plan" means to enact a new comprehensive land use plan or to update an existing comprehensive land use plan.
+
+2. "Affordable housing" means, unless the context clearly indicates otherwise, residential housing whose monthly costs, including utilities other than telephone, do not exceed thirty percent of the monthly income of a household whose income is:
+
+    a. For rental housing, sixty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development; or
+
+    b. For owner-occupied housing, eighty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+3. "Agricultural land" means land primarily devoted to the commercial production of horticultural, viticultural, floricultural, dairy, apiary, vegetable, or animal products or of berries, grain, hay, straw, turf, seed, Christmas trees not subject to the excise tax imposed by RCW 84.33.100 through 84.33.140, finfish in upland hatcheries, or livestock, and that has long-term commercial significance for agricultural production.
+
+4. "City" means any city or town, including a code city.
+
+5. "Comprehensive land use plan," "comprehensive plan," or "plan" means a generalized coordinated land use policy statement of the governing body of a county or city that is adopted pursuant to this chapter.
+
+6. **"Courtyard dwellings" means four or more attached dwelling units arranged on two or three sides of a central courtyard or common area.**
+
+7. "Critical areas" include the following areas and ecosystems: (a) Wetlands; (b) areas with a critical recharging effect on aquifers used for potable water; (c) fish and wildlife habitat conservation areas; (d) frequently flooded areas; and (e) geologically hazardous areas. "Fish and wildlife habitat conservation areas" does not include such artificial features or constructs as irrigation delivery systems, irrigation infrastructure, irrigation canals, or drainage ditches that lie within the boundaries of and are maintained by a port district or an irrigation district or company.
+
+8. "Department" means the department of commerce.
+
+9. "Development regulations" or "regulation" means the controls placed on development or land use activities by a county or city, including, but not limited to, zoning ordinances, critical areas ordinances, shoreline master programs, official controls, planned unit development ordinances, subdivision ordinances, and binding site plan ordinances together with any amendments thereto. A development regulation does not include a decision to approve a project permit application, as defined in RCW 36.70B.020, even though the decision may be expressed in a resolution or ordinance of the legislative body of the county or city.
+
+10. "Emergency housing" means temporary indoor accommodations for individuals or families who are homeless or at imminent risk of becoming homeless that is intended to address the basic health, food, clothing, and personal hygiene needs of individuals or families. Emergency housing may or may not require occupants to enter into a lease or an occupancy agreement.
+
+11. "Emergency shelter" means a facility that provides a temporary shelter for individuals or families who are currently homeless. Emergency shelter may not require occupants to enter into a lease or an occupancy agreement. Emergency shelter facilities may include day and warming centers that do not provide overnight accommodations.
+
+12. "Extremely low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below thirty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+13. **"Floor area ratio" means a measure of development intensity equal to building square footage divided by property square footage.**
+
+14. "Forestland" means land primarily devoted to growing trees for long-term commercial timber production on land that can be economically and practically managed for such production, including Christmas trees subject to the excise tax imposed under RCW 84.33.100 through 84.33.140, and that has long-term commercial significance. In determining whether forestland is primarily devoted to growing trees for long-term commercial timber production on land that can be economically and practically managed for such production, the following factors shall be considered: (a) The proximity of the land to urban, suburban, and rural settlements; (b) surrounding parcel size and the compatibility and intensity of adjacent and nearby land uses; (c) long-term local economic conditions that affect the ability to manage for timber production; and (d) the availability of public facilities and services conducive to conversion of forestland to other uses.
+
+15. "Freight rail dependent uses" means buildings and other infrastructure that are used in the fabrication, processing, storage, and transport of goods where the use is dependent on and makes use of an adjacent short line railroad. Such facilities are both urban and rural development for purposes of this chapter. "Freight rail dependent uses" does not include buildings and other infrastructure that are used in the fabrication, processing, storage, and transport of coal, liquefied natural gas, or "crude oil" as defined in RCW 90.56.010.
+
+16. "Geologically hazardous areas" means areas that because of their susceptibility to erosion, sliding, earthquake, or other geological events, are not suited to the siting of commercial, residential, or industrial development consistent with public health or safety concerns.
+
+17. "Long-term commercial significance" includes the growing capacity, productivity, and soil composition of the land for long-term commercial production, in consideration with the land's proximity to population areas, and the possibility of more intense uses of the land.
+
+18. "Low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below eighty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+19. **"Major transit stop" means:**
+
+    a. **A stop on a high capacity transportation system funded or expanded under the provisions of chapter 81.104 RCW;**
+
+    b. **Commuter rail stops;**
+
+    c. **Stops on rail or fixed guideway systems, including transitways;**
+
+    d. **Stops on bus rapid transit routes or routes that run on high occupancy vehicle lanes;**
+
+    e. **Stops for a bus or other transit mode providing actual fixed route service at intervals of at least 15 minutes for at least five hours on weekdays; or**
+
+    f. **Washington state ferry terminals.**
+
+20. **"Middle housing" means duplexes, triplexes, fourplexes, fiveplexes, sixplexes, stacked flats, townhouses, and courtyard dwellings.**
+
+21. "Minerals" include gravel, sand, and valuable metallic substances.
+
+22. "Moderate-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below 120 percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+23. "Permanent supportive housing" is subsidized, leased housing with no limit on length of stay that prioritizes people who need comprehensive support services to retain tenancy and utilizes admissions practices designed to use lower barriers to entry than would be typical for other subsidized or unsubsidized rental housing, especially related to rental history, criminal history, and personal behaviors. Permanent supportive housing is paired with on-site or off-site voluntary services designed to support a person living with a complex and disabling behavioral health or physical health condition who was experiencing homelessness or was at imminent risk of homelessness prior to moving into housing to retain their housing and be a successful tenant in a housing arrangement, improve the resident's health status, and connect the resident of the housing with community-based health care, treatment, or employment services. Permanent supportive housing is subject to all of the rights and responsibilities defined in chapter 59.18 RCW.
+
+24. "Public facilities" include streets, roads, highways, sidewalks, street and road lighting systems, traffic signals, domestic water systems, storm and sanitary sewer systems, parks and recreational facilities, and schools.
+
+25. "Public services" include fire protection and suppression, law enforcement, public health, education, recreation, environmental protection, and other governmental services.
+
+26. "Recreational land" means land so designated under RCW 36.70A.1701 and that, immediately prior to this designation, was designated as agricultural land of long-term commercial significance under RCW 36.70A.170. Recreational land must have playing fields and supporting facilities existing before July 1, 2004, for sports played on grass playing fields.
+
+27. "Rural character" refers to the patterns of land use and development established by a county in the rural element of its comprehensive plan:
+
+    a. In which open space, the natural landscape, and vegetation predominate over the built environment;
+
+    b. That foster traditional rural lifestyles, rural-based economies, and opportunities to both live and work in rural areas;
+
+    c. That provide visual landscapes that are traditionally found in rural areas and communities;
+
+    d. That are compatible with the use of the land by wildlife and for fish and wildlife habitat;
+
+    e. That reduce the inappropriate conversion of undeveloped land into sprawling, low-density development;
+
+    f. That generally do not require the extension of urban governmental services; and
+
+    g. That are consistent with the protection of natural surface water flows and groundwater and surface water recharge and discharge areas.
+
+28. "Rural development" refers to development outside the urban growth area and outside agricultural, forest, and mineral resource lands designated pursuant to RCW 36.70A.170. Rural development can consist of a variety of uses and residential densities, including clustered residential development, at levels that are consistent with the preservation of rural character and the requirements of the rural element. Rural development does not refer to agriculture or forestry activities that may be conducted in rural areas.
+
+29. "Rural governmental services" or "rural services" include those public services and public facilities historically and typically delivered at an intensity usually found in rural areas, and may include domestic water systems, fire and police protection services, transportation and public transit services, and other public utilities associated with rural development and normally not associated with urban areas. Rural services do not include storm or sanitary sewers, except as otherwise authorized by RCW 36.70A.110(4).
+
+30. "Short line railroad" means those railroad lines designated class II or class III by the United States surface transportation board.
+
+31. **"Stacked flats" means dwelling units constructed in a stack of two or more attached units where each dwelling unit is located either above or below an adjacent unit within a single building.**
+
+32. **"Townhouses" means dwelling units constructed in a row of two or more attached units, where each dwelling unit shares at least one common wall with an adjacent unit.**
+
+33. "Urban governmental services" or "urban services" include those public services and public facilities at an intensity historically and typically provided in cities, specifically including storm and sanitary sewer systems, domestic water systems, street cleaning services, fire and police protection services, public transit services, and other public utilities associated with urban areas and normally not associated with rural areas.
+
+34. "Urban growth" refers to growth that makes intensive use of land for the location of buildings, structures, and impermeable surfaces to such a degree as to be incompatible with the primary use of land for the production of food, other agricultural products, or fiber, or the extraction of mineral resources, rural uses, rural development, and natural resource lands designated pursuant to RCW 36.70A.170. A pattern of more intensive rural development, as provided in RCW 36.70A.070(5)(d), is not urban growth. When allowed to spread over wide areas, urban growth typically requires urban governmental services. "Characterized by urban growth" refers to land having urban growth located on it, or to land located in relationship to an area with urban growth on it as to be appropriate for urban growth.
+
+35. "Urban growth areas" means those areas designated by a county pursuant to RCW 36.70A.110.
+
+36. "Very low-income household" means a single person, family, or unrelated persons living together whose adjusted income is at or below fifty percent of the median household income adjusted for household size, for the county where the household is located, as reported by the United States department of housing and urban development.
+
+37. "Wetland" or "wetlands" means areas that are inundated or saturated by surface water or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands generally include swamps, marshes, bogs, and similar areas. Wetlands do not include those artificial wetlands intentionally created from nonwetland sites, including, but not limited to, irrigation and drainage ditches, grass-lined swales, canals, detention facilities, wastewater treatment facilities, farm ponds, and landscape amenities, or those wetlands created after July 1, 1990, that were unintentionally created as a result of the construction of a road, street, or highway. Wetlands may include those artificial wetlands intentionally created from nonwetland areas created to mitigate conversion of wetlands.
+
+38. **"Zero lot line development" means building to the lot line without any setbacks.**
+
+
+## Section 2
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. [Empty]
+
+    a. Any city with a population of 20,000 or more, as of the effective date of this section, that is required or chooses to plan under RCW 36.70A.040 must provide by ordinance and incorporate into its development regulations, zoning regulations, and other official controls, authorization for the development of all middle housing types on all lots zoned for detached single-family residential use within one-half mile of a major transit stop.
+
+    b. [Empty]
+
+        i. Such cities must also allow development of duplexes, triplexes, and fourplexes on all other lots zoned for single-family residential use.
+
+        ii. As an alternative to the requirements of this subsection (1)(b):
+
+(A) Any city with a population of 500,000 or more may alter local zoning to allow an average minimum density equivalent to 40 dwelling units or more per gross acre across the entirety of the city;
+
+(B) Any city with a population of at least 100,000, but less than 500,000, may alter local zoning to allow an average minimum density equivalent to 30 dwelling units or more per gross acre across the entirety of the city; and
+
+(C) Any city with a population of at least 20,000, but less than 100,000, may alter local zoning to allow an average minimum density equivalent to 25 dwelling units or more per gross acre across the entirety of the city.
+
+2. [Empty]
+
+    a. Any city with a population of at least 10,000 but less than 20,000, as of the effective date of this section, that is required or chooses to plan under RCW 36.70A.040 must provide by ordinance and incorporate into its development regulations, zoning regulations, and other official controls, authorization for the development of duplexes on all lots zoned for detached single-family residential use. Nothing in this subsection prohibits a city from allowing middle housing types in addition to duplexes.
+
+    b. As an alternative to the requirements under (a) of this subsection, any city with a population of at least 10,000, but less than 20,000, may alter local zoning to allow an average minimum density equivalent to 15 dwelling units or more per gross acre.
+
+3. Any city choosing to adopt an average minimum density pursuant to subsection (1)(b)(ii) or (2)(b) of this section shall also adopt findings of fact demonstrating that actions taken to implement that average minimum density will not result in racially disparate impacts, displacement, or further exclusion in housing. The city shall transmit such findings to the department.
+
+4. Any city subject to the requirements of this section:
+
+    a. Shall adopt development and design standards related to siting and design of middle housing that are consistent with the processes and standards published by the department pursuant to section 3 of this act. Such development and design standards may not discourage the development of middle housing through unreasonable costs, fees, delays, or other requirements or actions which individually, or cumulatively, make impracticable the permitting, siting, or construction of middle housing. This subsection (4)(a) does not limit the amount of affordable housing that a city may require to be provided, either on-site or through an in-lieu payment, pursuant to a program enacted or expanded under RCW 36.70A.540;
+
+    b. May apply all other applicable regulations, including regulations for health, safety, setbacks, utility access, sustainability, open space, limits on impermeable surface areas, sunlight, or tree canopy, provided that such regulations are not more restrictive than those required for detached single-family residences;
+
+    c. Shall not apply any floor area ratio limit to middle housing;
+
+    d. Shall apply to middle housing the same development permit, design review, and environmental review processes that apply to detached single-family residences;
+
+    e. Shall not require minimum lot sizes or minimum frontage lengths for lots that accommodate fee-simple, for-sale townhouses;
+
+    f. Shall not require off-street parking as a condition of permitting development of middle housing within one-half mile of a major transit stop;
+
+    g. Shall not require more than one off-street parking space per lot as a condition of permitting development of middle housing on lots smaller than 6,000 square feet;
+
+    h. Shall not require more than two off-street parking spaces per lot as a condition of permitting development of middle housing on lots greater than 6,000 square feet;
+
+    i. May allow zero lot line development where appropriate.
+
+5. Nothing in this section prohibits a city from permitting detached single-family residences.
+
+6. Any city subject to the requirements of this section shall take all actions necessary to fully implement such requirements on or before the deadline for review and adoption of an updated comprehensive plan under RCW 36.70A.130 for the county in which that city is located.
+
+7. This section does not modify, limit, or supersede requirements under chapter 64.55 RCW.
+
+8. The requirements of this section do not apply to any real property owned within and subject to the requirements of:
+
+    a. Any association created under or subject to chapter 64.32, 64.34, or 64.38 RCW; or
+
+    b. Any common interest community created under chapter 64.90 RCW prior to the effective date of this section.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. [Empty]
+
+    a. The department is directed to provide technical assistance to cities as they implement the requirements under section 2 of this act.
+
+    b. The department shall prioritize such technical assistance to cities demonstrating the greatest need.
+
+2. [Empty]
+
+    a. The department shall publish model middle housing ordinances no later than 18 months following the effective date of this section. The department shall also publish model design and development standards demonstrating infill development of middle housing that is generally compatible in scale and character with typical single-family detached housing.
+
+    b. In any city subject to section 2 of this act that has not passed ordinances, regulations, or other official controls by the deadlines provided under section 2(6) of this act, the model middle housing ordinance supersedes, preempts, and invalidates local development regulations until the city takes all actions necessary to implement section 2 of this act.
+
+3. [Empty]
+
+    a. The department is directed to establish a process by which cities implementing the requirements of section 2 of this act may seek approval of necessary local actions.
+
+    b. Any local actions approved by the department pursuant to (a) of this subsection to implement the requirements under section 2 of this act are exempt from appeals under this chapter and chapter 43.21C RCW.
+
+4. The department may adopt by rule any procedures necessary to implement this section.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [36.70A](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. Any city subject to the requirements under section 2 of this act may apply to the department for, and the department may certify, an extension of the implementation timelines established under section 2(6) of this act.
+
+2. An extension certified under this section may be applied only to specific areas where a city has identified water, sewer, stormwater, or transportation services that are currently deficient, or are expected to be deficient within the next five years, and for which the local government has established a plan of actions that will remedy the deficiency in those services on a specific timeline. The department may certify additional extensions of a city's remediation timeline.
+
+3. An application for an implementation timeline extension by a city must be filed with the department no later than 24 months following the effective date of this section.
+
+4. The department may adopt by rule any procedures necessary to implement this section.
+
+
+## Section 5
+> This section modifies existing section [36.70A.210](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. The legislature recognizes that counties are regional governments within their boundaries, and cities are primary providers of urban governmental services within urban growth areas. For the purposes of this section, a "countywide planning policy" is a written policy statement or statements used solely for establishing a countywide framework from which county and city comprehensive plans are developed and adopted pursuant to this chapter. This framework shall ensure that city and county comprehensive plans are consistent as required in RCW 36.70A.100. Nothing in this section shall be construed to alter the land-use powers of cities.
+
+2. The legislative authority of a county that plans under RCW 36.70A.040 shall adopt a countywide planning policy in cooperation with the cities located in whole or in part within the county as follows:
+
+    a. No later than sixty calendar days from July 16, 1991, the legislative authority of each county that as of June 1, 1991, was required or chose to plan under RCW 36.70A.040 shall convene a meeting with representatives of each city located within the county for the purpose of establishing a collaborative process that will provide a framework for the adoption of a countywide planning policy. In other counties that are required or choose to plan under RCW 36.70A.040, this meeting shall be convened no later than sixty days after the date the county adopts its resolution of intention or was certified by the office of financial management.
+
+    b. The process and framework for adoption of a countywide planning policy specified in (a) of this subsection shall determine the manner in which the county and the cities agree to all procedures and provisions including but not limited to desired planning policies, deadlines, ratification of final agreements and demonstration thereof, and financing, if any, of all activities associated therewith.
+
+    c. If a county fails for any reason to convene a meeting with representatives of cities as required in (a) of this subsection, the governor may immediately impose any appropriate sanction or sanctions on the county from those specified under RCW 36.70A.340.
+
+    d. If there is no agreement by October 1, 1991, in a county that was required or chose to plan under RCW 36.70A.040 as of June 1, 1991, or if there is no agreement within one hundred twenty days of the date the county adopted its resolution of intention or was certified by the office of financial management in any other county that is required or chooses to plan under RCW 36.70A.040, the governor shall first inquire of the jurisdictions as to the reason or reasons for failure to reach an agreement. If the governor deems it appropriate, the governor may immediately request the assistance of the department of **commerce** to mediate any disputes that preclude agreement. If mediation is unsuccessful in resolving all disputes that will lead to agreement, the governor may impose appropriate sanctions from those specified under RCW 36.70A.340 on the county, city, or cities for failure to reach an agreement as provided in this section. The governor shall specify the reason or reasons for the imposition of any sanction.
+
+    e. No later than July 1, 1992, the legislative authority of each county that was required or chose to plan under RCW 36.70A.040 as of June 1, 1991, or no later than fourteen months after the date the county adopted its resolution of intention or was certified by the office of financial management the county legislative authority of any other county that is required or chooses to plan under RCW 36.70A.040, shall adopt a countywide planning policy according to the process provided under this section and that is consistent with the agreement pursuant to (b) of this subsection, and after holding a public hearing or hearings on the proposed countywide planning policy.
+
+3. A countywide planning policy shall at a minimum, address the following:
+
+    a. Policies to implement RCW 36.70A.110;
+
+    b. Policies for promotion of contiguous and orderly development and provision of urban services to such development;
+
+    c. Policies for siting public capital facilities of a countywide or statewide nature, including transportation facilities of statewide significance as defined in RCW 47.06.140;
+
+    d. Policies for countywide transportation facilities and strategies;
+
+    e. Policies that consider the need for affordable housing, such as housing for all economic segments of the population and parameters for its distribution;
+
+    f. Policies for joint county and city planning within urban growth areas;
+
+    g. Policies for countywide economic development and employment, which must include consideration of the future development of commercial and industrial facilities; and
+
+    h. An analysis of the fiscal impact.
+
+4. Federal agencies and Indian tribes may participate in and cooperate with the countywide planning policy adoption process. Adopted countywide planning policies shall be adhered to by state agencies.
+
+5. Failure to adopt a countywide planning policy that meets the requirements of this section may result in the imposition of a sanction or sanctions on a county or city within the county, as specified in RCW 36.70A.340. In imposing a sanction or sanctions, the governor shall specify the reasons for failure to adopt a countywide planning policy in order that any imposed sanction or sanctions are fairly and equitably related to the failure to adopt a countywide planning policy.
+
+6. Cities and the governor may appeal an adopted countywide planning policy to the growth management hearings board within sixty days of the adoption of the countywide planning policy.
+
+7. Multicounty planning policies shall be adopted by two or more counties, each with a population of four hundred fifty thousand or more, with contiguous urban areas and may be adopted by other counties, according to the process established under this section or other processes agreed to among the counties and cities within the affected counties throughout the multicounty region. **Measured increases to regional housing capacity following implementation of the requirements under section 2 of this act must not be considered in making any determination that a jurisdiction has exceeded or will exceed its population forecast.**
+
+
+## Section 6
+> This section modifies existing section [43.21C.495](/rcw/43_state_government—executive/43.021C_state_environmental_policy.md). Here is the [modified chapter](rcw/43_state_government—executive/43.021C_state_environmental_policy.md) for context.
+
+1. If adopted by April 1, 2023, amendments to development regulations and other nonproject actions taken by a city to implement RCW 36.70A.600 (1) or (4), with the exception of the action specified in RCW 36.70A.600(1)(f), are not subject to administrative or judicial appeals under this chapter.
+
+2. **Amendments to development regulations and other nonproject actions taken by a city to implement requirements under section 2 of this act pursuant to section 3(3)(b) of this act are not subject to administrative or judicial appeals under this chapter.**
+

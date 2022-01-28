@@ -10,7 +10,7 @@
 * [HB 1671](/bill/2021-22/hb/1671/) - Rx drug affordability board | First reading, referred to Health Care & Wellness.
 * [HB 1806](/bill/2021-22/hb/1806/) - Legislature/bargaining | First reading, referred to Labor & Workplace Standards.
 * [HB 1868](/bill/2021-22/hb/1868/) - Health care staffing | First reading, referred to Labor & Workplace Standards.
-* [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | First reading, referred to Education.
+* [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | ED - Executive action taken by committee.
 * [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | First reading, referred to Community & Economic Development.
 * [HB 1915](/bill/2021-22/hb/1915/) - Traffic cameras/speed zones | First reading, referred to Transportation.
 * [HB 1927](/bill/2021-22/hb/1927/) - Legislative service leave | First reading, referred to Labor & Workplace Standards.

@@ -22,9 +22,9 @@
 * [SB 5704](/bill/2021-22/sb/5704/) - ARNP reimbursement rate | First reading, referred to Health & Long Term Care.
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | Referred to Transportation.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | First reading, referred to Human Services, Reentry & Rehabilitation.
-* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Minority; do not pass.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Passed to Rules Committee for second reading.
-* [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | First reading, referred to Higher Education & Workforce Development.
+* [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Referred to Ways & Means.
 * [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | First reading, referred to Health & Long Term Care.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
 * [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | First reading, referred to Higher Education & Workforce Development.

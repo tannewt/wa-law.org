@@ -14,8 +14,8 @@
 * [SB 5442](/bill/2021-22/sb/5442/) - Superintendent salaries | By resolution, reintroduced and retained in present status.
 * [SB 5472](/bill/2021-22/sb/5472/) - Utility customers/COVID-19 | By resolution, reintroduced and retained in present status.
 * [SB 5550](/bill/2021-22/sb/5550/) - Public records act/judiciary | First reading, referred to State Government & Elections.
-* [SB 5552](/bill/2021-22/sb/5552/) - WDFW licensing | Passed to Rules Committee for second reading.
-* [SB 5555](/bill/2021-22/sb/5555/) - Safety telecommunicators | First reading, referred to State Government & Elections.
+* [SB 5552](/bill/2021-22/sb/5552/) - WDFW licensing | Placed on second reading consent calendar.
+* [SB 5555](/bill/2021-22/sb/5555/) - Safety telecommunicators | Referred to Ways & Means.
 * [SB 5559](/bill/2021-22/sb/5559/) - Paid sick leave verification | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5567](/bill/2021-22/sb/5567/) - Commercial salmon fishing | Referred to Ways & Means.
 * [SB 5577](/bill/2021-22/sb/5577/) - Public safety | First reading, referred to Law & Justice.
@@ -25,3 +25,4 @@
 * [SB 5900](/bill/2021-22/sb/5900/) - Provisional paramedics, EMTs | First reading, referred to Health & Long Term Care.
 * [SB 5919](/bill/2021-22/sb/5919/) - Law enf. detention | First reading, referred to Law & Justice.
 * [SB 5928](/bill/2021-22/sb/5928/) - State energy code | First reading, referred to Environment, Energy & Technology.
+* [SB 5949](/bill/2021-22/sb/5949/) - Dental auxiliaries | First reading, referred to Health & Long Term Care.

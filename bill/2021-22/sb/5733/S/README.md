@@ -1,0 +1,168 @@
+# Substitute Senate Bill 5733 as Recommended by Law & Justice
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5733-S.pdf)
+## Section 1
+> This section modifies existing section [69.50.505](/rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md). Here is the [modified chapter](rcw/69_food_drugs_cosmetics_and_poisons/69.50_uniform_controlled_substances_act.md) for context.
+
+1. The following are subject to seizure and forfeiture and no property right exists in them:
+
+    a. All controlled substances which have been manufactured, distributed, dispensed, acquired, or possessed in violation of this chapter or chapter 69.41 or 69.52 RCW, and all hazardous chemicals, as defined in RCW 64.44.010, used or intended to be used in the manufacture of controlled substances;
+
+    b. All raw materials, products, and equipment of any kind which are used, or intended for use, in manufacturing, compounding, processing, delivering, importing, or exporting any controlled substance in violation of this chapter or chapter 69.41 or 69.52 RCW;
+
+    c. All property which is used, or intended for use, as a container for property described in (a) or (b) of this subsection;
+
+    d. All conveyances, including aircraft, vehicles, or vessels, which are used, or intended for use, in any manner to facilitate the sale, delivery, or receipt of property described in (a) or (b) of this subsection, except that:
+
+        i. No conveyance used by any person as a common carrier in the transaction of business as a common carrier is subject to forfeiture under this section unless it appears that the owner or other person in charge of the conveyance is a consenting party or privy to a violation of this chapter or chapter 69.41 or 69.52 RCW;
+
+        ii. No conveyance is subject to forfeiture under this section by reason of any act or omission established by the owner thereof to have been committed or omitted without the owner's knowledge or consent;
+
+        iii. No conveyance is subject to forfeiture under this section if used in the receipt of only an amount of marijuana for which possession constitutes a misdemeanor under RCW 69.50.4014;
+
+        iv. A forfeiture of a conveyance encumbered by a bona fide security interest is subject to the interest of the secured party if the secured party neither had knowledge of nor consented to the act or omission; and
+
+    v. When the owner of a conveyance has been arrested under this chapter or chapter 69.41 or 69.52 RCW the conveyance in which the person is arrested may not be subject to forfeiture unless it is seized or process is issued for its seizure within ten days of the owner's arrest;
+
+    e. All books, records, and research products and materials, including formulas, microfilm, tapes, and data which are used, or intended for use, in violation of this chapter or chapter 69.41 or 69.52 RCW;
+
+    f. All drug paraphernalia other than paraphernalia possessed, sold, or used solely to facilitate marijuana-related activities that are not violations of this chapter;
+
+    g. All moneys, negotiable instruments, securities, or other tangible or intangible property of value furnished or intended to be furnished by any person in exchange for a controlled substance in violation of this chapter or chapter 69.41 or 69.52 RCW, all tangible or intangible personal property, proceeds, or assets acquired in whole or in part with proceeds traceable to an exchange or series of exchanges in violation of this chapter or chapter 69.41 or 69.52 RCW, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this chapter or chapter 69.41 or 69.52 RCW. A forfeiture of money, negotiable instruments, securities, or other tangible or intangible property encumbered by a bona fide security interest is subject to the interest of the secured party if, at the time the security interest was created, the secured party neither had knowledge of nor consented to the act or omission. No personal property may be forfeited under this subsection (1)(g), to the extent of the interest of an owner, by reason of any act or omission which that owner establishes was committed or omitted without the owner's knowledge or consent; and
+
+    h. All real property, including any right, title, and interest in the whole of any lot or tract of land, and any appurtenances or improvements which are being used with the knowledge of the owner for the manufacturing, compounding, processing, delivery, importing, or exporting of any controlled substance, or which have been acquired in whole or in part with proceeds traceable to an exchange or series of exchanges in violation of this chapter or chapter 69.41 or 69.52 RCW, if such activity is not less than a class C felony and a substantial nexus exists between the commercial production or sale of the controlled substance and the real property. However:
+
+    i. No property may be forfeited pursuant to this subsection (1)(h), to the extent of the interest of an owner, by reason of any act or omission committed or omitted without the owner's knowledge or consent;
+
+        ii. The bona fide gift of a controlled substance, legend drug, or imitation controlled substance shall not result in the forfeiture of real property;
+
+        iii. The possession of marijuana shall not result in the forfeiture of real property unless the marijuana is possessed for commercial purposes that are unlawful under Washington state law, the amount possessed is five or more plants or one pound or more of marijuana, and a substantial nexus exists between the possession of marijuana and the real property. In such a case, the intent of the offender shall be determined by the preponderance of the evidence, including the offender's prior criminal history, the amount of marijuana possessed by the offender, the sophistication of the activity or equipment used by the offender, whether the offender was licensed to produce, process, or sell marijuana, or was an employee of a licensed producer, processor, or retailer, and other evidence which demonstrates the offender's intent to engage in unlawful commercial activity;
+
+        iv. The unlawful sale of marijuana or a legend drug shall not result in the forfeiture of real property unless the sale was forty grams or more in the case of marijuana or one hundred dollars or more in the case of a legend drug, and a substantial nexus exists between the unlawful sale and the real property; and
+
+    v. A forfeiture of real property encumbered by a bona fide security interest is subject to the interest of the secured party if the secured party, at the time the security interest was created, neither had knowledge of nor consented to the act or omission.
+
+2. Real or personal property subject to forfeiture under this chapter may be seized by any **commission** inspector or law enforcement officer of this state upon process issued by any superior court having jurisdiction over the property. Seizure of real property shall include the filing of a lis pendens by the seizing agency. Real property seized under this section shall not be transferred or otherwise conveyed until ninety days after seizure or until a judgment of forfeiture is entered, whichever is later: PROVIDED, That real property seized under this section may be transferred or conveyed to any person or entity who acquires title by foreclosure or deed in lieu of foreclosure of a security interest. Seizure of personal property without process may be made if:
+
+    a. The seizure is incident to an arrest or a search under a search warrant or an inspection under an administrative inspection warrant;
+
+    b. The property subject to seizure has been the subject of a prior judgment in favor of the state in a criminal injunction or forfeiture proceeding based upon this chapter;
+
+    c. A **commission** inspector or law enforcement officer has probable cause to believe that the property is directly or indirectly dangerous to health or safety; or
+
+    d. The **commission** inspector or law enforcement officer has probable cause to believe that the property was used or is intended to be used in violation of this chapter.
+
+3. In the event of seizure pursuant to subsection (2) of this section, proceedings for forfeiture shall be deemed commenced by the seizure. The law enforcement agency under whose authority the seizure was made shall cause notice to be served within fifteen days following the seizure on the owner of the property seized and the person in charge thereof and any person having any known right or interest therein, including any community property interest, of the seizure and intended forfeiture of the seized property. Service of notice of seizure of real property shall be made according to the rules of civil procedure. However, the state may not obtain a default judgment with respect to real property against a party who is served by substituted service absent an affidavit stating that a good faith effort has been made to ascertain if the defaulted party is incarcerated within the state, and that there is no present basis to believe that the party is incarcerated within the state. Notice of seizure in the case of property subject to a security interest that has been perfected by filing a financing statement in accordance with chapter 62A.9A RCW, or a certificate of title, shall be made by service upon the secured party or the secured party's assignee at the address shown on the financing statement or the certificate of title. The notice of seizure in other cases may be served by any method authorized by law or court rule including but not limited to service by certified mail with return receipt requested. Service by mail shall be deemed complete upon mailing within the fifteen day period following the seizure.
+
+4. If no person notifies the seizing law enforcement agency in writing of the person's claim of ownership or right to possession of items specified in subsection (1)(d), (g), or (h) of this section within forty-five days of the service of notice from the seizing agency in the case of personal property and ninety days in the case of real property, the item seized shall be deemed forfeited. The community property interest in real property of a person whose spouse or domestic partner committed a violation giving rise to seizure of the real property may not be forfeited if the person did not participate in the violation.
+
+5. If any person notifies the seizing law enforcement agency in writing of the person's claim of ownership or right to possession of items specified in subsection (1)(b), (c), (d), (e), (f), (g), or (h) of this section within forty-five days of the service of notice from the seizing agency in the case of personal property and ninety days in the case of real property, the person or persons shall be afforded a reasonable opportunity to be heard as to the claim or right. The notice of claim may be served by any method authorized by law or court rule including, but not limited to, service by first-class mail. Service by mail shall be deemed complete upon mailing within the forty-five day period following service of the notice of seizure in the case of personal property and within the ninety-day period following service of the notice of seizure in the case of real property. The hearing shall be before the chief law enforcement officer of the seizing agency or the chief law enforcement officer's designee, except where the seizing agency is a state agency as defined in RCW 34.12.020(4), the hearing shall be before the chief law enforcement officer of the seizing agency or an administrative law judge appointed under chapter 34.12 RCW, except that any person asserting a claim or right may remove the matter to a court of competent jurisdiction. Removal of any matter involving personal property may only be accomplished according to the rules of civil procedure. The person seeking removal of the matter must serve process against the state, county, political subdivision, or municipality that operates the seizing agency, and any other party of interest, in accordance with RCW 4.28.080 or 4.92.020, within forty-five days after the person seeking removal has notified the seizing law enforcement agency of the person's claim of ownership or right to possession. The court to which the matter is to be removed shall be the district court when the aggregate value of personal property is within the jurisdictional limit set forth in RCW 3.66.020. A hearing before the seizing agency and any appeal therefrom shall be under Title 34 RCW. In all cases, the burden of proof is upon the law enforcement agency to establish, by a preponderance of the evidence, that the property is subject to forfeiture.
+
+The seizing law enforcement agency shall promptly return the article or articles to the claimant upon a determination by the administrative law judge or court that the claimant is the present lawful owner or is lawfully entitled to possession thereof of items specified in subsection (1)(b), (c), (d), (e), (f), (g), or (h) of this section.
+
+6. In any proceeding to forfeit property under this title, where the claimant substantially prevails, the claimant is entitled to reasonable attorneys' fees reasonably incurred by the claimant. In addition, in a court hearing between two or more claimants to the article or articles involved, the prevailing party is entitled to a judgment for costs and reasonable attorneys' fees.
+
+7. When property is forfeited under this chapter the **commission** or seizing law enforcement agency may:
+
+    a. Retain it for official use or upon application by any law enforcement agency of this state release such property to such agency for the exclusive use of enforcing the provisions of this chapter;
+
+    b. Sell that which is not required to be destroyed by law and which is not harmful to the public;
+
+    c. Request the appropriate sheriff or director of public safety to take custody of the property and remove it for disposition in accordance with law; or
+
+    d. Forward it to the drug enforcement administration for disposition.
+
+8. [Empty]
+
+    a.
+
+**The seizing agency must keep a record, about property seized and forfeited under state law and any agreement with any federal agency, of each forfeiture indicating:**
+
+        i. **The name of the seizing agency;**
+
+        ii. **The date of seizure;**
+
+        iii. **The type of property seized;**
+
+        iv. **A description of the property including make, model, year, and serial number;**
+
+    v. **The street address or description of the location where the seizure occurred;**
+
+    vi. **Whether the seizure was adopted by the federal government, part of a joint task force with the federal government, or other arrangement with the federal government;**
+
+    vii. **The crime for which the suspect was charged, if available at the time of reporting;**
+
+    viii. **Whether the suspect was convicted of a crime, if available at the time of reporting;**
+
+        ix. **Whether the forfeiture was contested by a suspect, innocent owner claimant, joint owner, or other property owner;**
+
+    x. **The disposition of the property through the forfeiture process, such as returned to suspect, returned to a joint owner or third-party owner, sold, destroyed, or retained by a law enforcement agency;**
+
+    xi. **The date of disposition of the property;**
+
+    xii. **The basis for disposition of property in (a)(x) of this subsection, such as an agreed disposition or agreed resolution, if available at the time of reporting;**
+
+    xiii. **The value of the property forfeited; and**
+
+    xiv. **The net proceeds retained by the law enforcement agency that seized the property.**
+
+    b. **Each calendar quarter when property is forfeited, the seizing agency shall file a report, that includes all of the records in (a) of this subsection, to the department of commerce. The department of commerce must establish and maintain a searchable public website that includes all of the records in (a) of this subsection.** The quarterly report need not include a record of forfeited property that is still being held for use as evidence during the investigation or prosecution of a case or during the appeal from a conviction.
+
+    c. **By March 1st each year, the seizing agency must file with the department of commerce a report that summarizes the agency's expenditures from the sum of the net proceeds of all seized and forfeited property during the previous calendar year. The report must be posted and made available on the website created in this subsection (8). The report must use the following categories to summarize expenditures and values:**
+
+        i. **Professional outside services, including auditing, court reporting, expert witnesses, outside attorneys' fees, and membership fees paid to trade associations;**
+
+        ii. **Travel, meals, conferences, training, and continuing education seminars;**
+
+        iii. **Capital expenditures including vehicles, firearms, equipment, computers, and furniture; and**
+
+        iv. **The total value of forfeited property held by the agency at the end of the reporting period.**
+
+9. [Empty]
+
+    a. By January 31st of each year, each seizing agency shall remit to the state treasurer an amount equal to ten percent of the net proceeds of any property forfeited during the preceding calendar year. Money remitted shall be deposited in the state general fund.
+
+    b. The net proceeds of forfeited property is the value of the forfeitable interest in the property after deducting the cost of satisfying any bona fide security interest to which the property is subject at the time of seizure; and in the case of sold property, after deducting the cost of sale, including reasonable fees or commissions paid to independent selling agents, and the cost of any valid landlord's claim for damages under subsection (15) of this section.
+
+    c. The value of sold forfeited property is the sale price. The value of retained forfeited property is the fair market value of the property at the time of seizure, determined when possible by reference to an applicable commonly used index, such as the index used by the department of licensing for valuation of motor vehicles. A seizing agency may use, but need not use, an independent qualified appraiser to determine the value of retained property. If an appraiser is used, the value of the property appraised is net of the cost of the appraisal. The value of destroyed property and retained firearms or illegal property is zero.
+
+10. Forfeited property and net proceeds not required to be paid to the state treasurer shall be retained by the seizing law enforcement agency exclusively for the expansion and improvement of controlled substances related law enforcement activity. Money retained under this section may not be used to supplant preexisting funding sources.
+
+11. Controlled substances listed in Schedule I, II, III, IV, and V that are possessed, transferred, sold, or offered for sale in violation of this chapter are contraband and shall be seized and summarily forfeited to the state. Controlled substances listed in Schedule I, II, III, IV, and V, which are seized or come into the possession of the **commission**, the owners of which are unknown, are contraband and shall be summarily forfeited to the **commission**.
+
+12. Species of plants from which controlled substances in Schedules I and II may be derived which have been planted or cultivated in violation of this chapter, or of which the owners or cultivators are unknown, or which are wild growths, may be seized and summarily forfeited to the **commission**.
+
+13. The failure, upon demand by a **commission** inspector or law enforcement officer, of the person in occupancy or in control of land or premises upon which the species of plants are growing or being stored to produce an appropriate registration or proof that he or she is the holder thereof constitutes authority for the seizure and forfeiture of the plants.
+
+14. Upon the entry of an order of forfeiture of real property, the court shall forward a copy of the order to the assessor of the county in which the property is located. Orders for the forfeiture of real property shall be entered by the superior court, subject to court rules. Such an order shall be filed by the seizing agency in the county auditor's records in the county in which the real property is located.
+
+15. [Empty]
+
+    a. A landlord may assert a claim against proceeds from the sale of assets seized and forfeited under subsection (7)(b) of this section, only if:
+
+        i. A law enforcement officer, while acting in his or her official capacity, directly caused damage to the complaining landlord's property while executing a search of a tenant's residence; and
+
+        ii. The landlord has applied any funds remaining in the tenant's deposit, to which the landlord has a right under chapter 59.18 RCW, to cover the damage directly caused by a law enforcement officer prior to asserting a claim under the provisions of this section;
+
+(A) Only if the funds applied under (a)(ii) of this subsection are insufficient to satisfy the damage directly caused by a law enforcement officer, may the landlord seek compensation for the damage by filing a claim against the governmental entity under whose authority the law enforcement agency operates within thirty days after the search;
+
+(B) Only if the governmental entity denies or fails to respond to the landlord's claim within sixty days of the date of filing, may the landlord collect damages under this subsection by filing within thirty days of denial or the expiration of the sixty-day period, whichever occurs first, a claim with the seizing law enforcement agency. The seizing law enforcement agency must notify the landlord of the status of the claim by the end of the thirty-day period. Nothing in this section requires the claim to be paid by the end of the sixty-day or thirty-day period.
+
+    b. For any claim filed under (a)(ii) of this subsection, the law enforcement agency shall pay the claim unless the agency provides substantial proof that the landlord either:
+
+        i. Knew or consented to actions of the tenant in violation of this chapter or chapter 69.41 or 69.52 RCW; or
+
+        ii. Failed to respond to a notification of the illegal activity, provided by a law enforcement agency under RCW 59.18.075, within seven days of receipt of notification of the illegal activity.
+
+16. The landlord's claim for damages under subsection (15) of this section may not include a claim for loss of business and is limited to:
+
+    a. Damage to tangible property and clean-up costs;
+
+    b. The lesser of the cost of repair or fair market value of the damage directly caused by a law enforcement officer;
+
+    c. The proceeds from the sale of the specific tenant's property seized and forfeited under subsection (7)(b) of this section; and
+
+    d. The proceeds available after the seizing law enforcement agency satisfies any bona fide security interest in the tenant's property and costs related to sale of the tenant's property as provided by subsection (9)(b) of this section.
+
+17. Subsections (15) and (16) of this section do not limit any other rights a landlord may have against a tenant to collect for damages. However, if a law enforcement agency satisfies a landlord's claim under subsection (15) of this section, the rights the landlord has against the tenant for damages directly caused by a law enforcement officer under the terms of the landlord and tenant's contract are subrogated to the law enforcement agency.
+

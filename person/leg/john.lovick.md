@@ -10,7 +10,7 @@
 * [SB 5573](/bill/2021-22/sb/5573/) - Drug offender sentencing alt | Referred to Ways & Means.
 * [SB 5575](/bill/2021-22/sb/5575/) - Snohomish county/judges | Referred to Ways & Means.
 * [SB 5615](/bill/2021-22/sb/5615/) - State sport | Passed to Rules Committee for second reading.
-* [SB 5629](/bill/2021-22/sb/5629/) - Disposition of remains | First reading, referred to Law & Justice.
+* [SB 5629](/bill/2021-22/sb/5629/) - Disposition of remains | LAW - Majority; do pass.
 * [SB 5741](/bill/2021-22/sb/5741/) - Patches pal license plates | First reading, referred to Transportation.
-* [SB 5869](/bill/2021-22/sb/5869/) - Traffic cameras/image use | First reading, referred to Law & Justice.
+* [SB 5869](/bill/2021-22/sb/5869/) - Traffic cameras/image use | Minority; do not pass.
 * [SB 5881](/bill/2021-22/sb/5881/) - Doxing | First reading, referred to Law & Justice.

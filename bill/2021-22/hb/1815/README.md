@@ -1,5 +1,5 @@
 # HB 1815 - Catalytic converter theft
-*Status: First reading, referred to Public Safety.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1815&Year=2021)
+*Status: PS - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1815&Year=2021)
 
 Deterring catalytic converter theft.
 

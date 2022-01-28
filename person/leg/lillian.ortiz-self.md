@@ -7,6 +7,7 @@
 * [HB 1227](/bill/2021-22/hb/1227/) - Child abuse allegations | Effective date 7/25/2021*.
 * [HB 1363](/bill/2021-22/hb/1363/) - Secondary trauma/K-12 | Effective date 7/25/2021.
 * [HB 1746](/bill/2021-22/hb/1746/) - Students/COVID-19 pandemic | Referred to Appropriations.
-* [HB 1747](/bill/2021-22/hb/1747/) - Child relative placements | First reading, referred to Children, Youth & Families.
-* [HB 1840](/bill/2021-22/hb/1840/) - Community colleges/diversity | First reading, referred to College & Workforce Development.
+* [HB 1747](/bill/2021-22/hb/1747/) - Child relative placements | CYF - Executive action taken by committee.
+* [HB 1840](/bill/2021-22/hb/1840/) - Community colleges/diversity | CWD - Executive action taken by committee.
 * [HB 1847](/bill/2021-22/hb/1847/) - Farmworkers study | First reading, referred to Labor & Workplace Standards.
+* [HB 2102](/bill/2021-22/hb/2102/) - Farmworkers study & audits | First reading, referred to Appropriations.

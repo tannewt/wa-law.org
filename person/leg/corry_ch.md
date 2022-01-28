@@ -2,7 +2,7 @@
 ## Bills
 * [EHB 1199](/bill/2021-22/ehb/1199/) - DNR lease termination | Effective date 7/25/2021.
 * [HB 1319](/bill/2021-22/hb/1319/) - Washington recovery rebate | By resolution, reintroduced and retained in present status.
-* [HB 1389](/bill/2021-22/hb/1389/) - Peer-to-peer vehicle sharing | By resolution, reintroduced and retained in present status.
+* [HB 1389](/bill/2021-22/hb/1389/) - Peer-to-peer vehicle sharing | CPB - Executive action taken by committee.
 * [HB 1605](/bill/2021-22/hb/1605/) - Vehicle lane departures | First reading, referred to Transportation.
 * [HB 1683](/bill/2021-22/hb/1683/) - Current use classification | First reading, referred to Finance.
 * [HB 1772](/bill/2021-22/hb/1772/) - Gubernatorial proclamations | First reading, referred to State Government & Tribal Relations.

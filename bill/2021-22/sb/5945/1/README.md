@@ -1,6 +1,6 @@
 # Senate Bill 5945
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/Senate%20Bills/5945.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5945.pdf)
 ## Section 2
 > This section modifies existing section [9A.40.100](/rcw/09A_washington_criminal_code/9A.40_kidnapping_unlawful_imprisonment_custodial_interference_luring_trafficking_and_coercion_of_involuntary_servitude.md). Here is the [modified chapter](rcw/09A_washington_criminal_code/9A.40_kidnapping_unlawful_imprisonment_custodial_interference_luring_trafficking_and_coercion_of_involuntary_servitude.md) for context.
 

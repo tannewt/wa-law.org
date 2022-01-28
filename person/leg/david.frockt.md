@@ -11,7 +11,7 @@
 * [SB 5377](/bill/2021-22/sb/5377/) - Standardized health plans | Effective date 7/25/2021.
 * [SB 5530](/bill/2021-22/sb/5530/) - Building for the arts | First reading, referred to Ways & Means.
 * [SB 5586](/bill/2021-22/sb/5586/) - Broadband loans & grants | First reading, referred to Business, Financial Services & Trade.
-* [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | First reading, referred to Health & Long Term Care.
+* [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | Passed to Rules Committee for second reading.
 * [SB 5651](/bill/2021-22/sb/5651/) - Capital budget, supplemental | First reading, referred to Ways & Means.
 * [SB 5736](/bill/2021-22/sb/5736/) - Minors/behavioral health | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5817](/bill/2021-22/sb/5817/) - Synthetic media in campaigns | First reading, referred to State Government & Elections.
@@ -22,3 +22,4 @@
 * [SB 5895](/bill/2021-22/sb/5895/) - Remedial action grants | First reading, referred to Environment, Energy & Technology.
 * [SB 5918](/bill/2021-22/sb/5918/) - Board of regents/faculty | First reading, referred to Higher Education & Workforce Development.
 * [SB 5933](/bill/2021-22/sb/5933/) - School seismic safety grants | First reading, referred to Ways & Means.
+* [SB 5942](/bill/2021-22/sb/5942/) - Uniform college athlete act | First reading, referred to Law & Justice.

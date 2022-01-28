@@ -1,0 +1,92 @@
+# Substitute Senate Bill 5758 as Recommended by Housing & Local Government
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5758-S.pdf)
+## Section 1
+The legislature finds that condominiums can provide an opportunity for affordable first-time homeownership, and that an increased supply of multifamily construction in Washington state and condominium demand creates market conditions for condominium conversions. The legislature also finds that the federal housing administration's condominium rule adopted in 2019 will improve financing options for first-time homebuyers in the condominium market. The legislature also recognizes that condominium conversions can create economic hardships on tenants in multifamily buildings. In addition to the change in tenancy, there are concerns about how the change of ownership will give power to condominium associations. There are different rules and different risks to be addressed. However, the legislature intends to ease these concerns and ensure that the power differential is addressed so that condominium ownership can build certainty for tenants as well as build wealth. It is the intent of the legislature to ensure that tenants of multifamily buildings planned to be converted to condominiums are provided with information and resources relating to homeownership opportunities, and to direct the affordable housing advisory board to review the subject of condominium conversions and provide a report to the legislature on issues relating to both homeownership opportunities and impacts to tenants.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [43.180](/rcw/43_state_government—executive/43.180_housing_finance_commission.md). Here is the [modified chapter](rcw/43_state_government—executive/43.180_housing_finance_commission.md) for context.
+
+The commission shall implement a condominium conversion tenant-to-homeowner program focused on opportunities for first-time homeownership. The program must be designed to assist tenants in multifamily buildings that are being converted to condominium ownership. Income eligibility and other requirements for the condominium conversion tenant-to-homeowner program must be based on the commission's existing authority and be similar to other homebuyer programs implemented by the commission.
+
+
+## Section 3
+1. The affordable housing advisory board must review issues associated with the conversion of multifamily buildings to condominium ownership including, but not limited to:
+
+    a. An assessment of the current housing market and affordability of condominium conversions, especially for first-time homebuyers;
+
+    b. Statutory, regulatory, financial, or other barriers to condominium conversions as a viable source of housing supply for first-time homebuyers;
+
+    c. Impacts to tenants caused by the conversion of multifamily buildings to condominium ownership, and the adequacy of programs and resources for tenant rental relocation and other assistance;
+
+    d. Programs in other states using condominium ownership as a first-time homeownership opportunity, including those focused on employer-specific programs for teachers, police officers, firefighters, or other public service occupations in high-cost areas;
+
+    e. Specific areas in counties subject to the buildable lands review and evaluation program in RCW 36.70A.215 where condominium conversion could provide first-time homebuyer opportunities in proximity to light rail, express bus service, or other forms of mass transit; and
+
+    f. Concerns regarding condominium associations, particularly, accountability of condominium association boards, collection of fees, effective communication, representation regarding covenants, fairness in liens and foreclosures, and impartiality in insurance claims.
+
+2. The board must provide a report on its review to the appropriate standing committees of the legislature by December 1, 2022. In conducting its review, the board shall seek input from stakeholders with expertise in both the condominium conversion process and in providing tenant relocation programs and assistance.
+
+
+## Section 4
+> This section modifies existing section [43.185B.020](/rcw/43_state_government—executive/43.185B_washington_housing_policy_act.md). Here is the [modified chapter](rcw/43_state_government—executive/43.185B_washington_housing_policy_act.md) for context.
+
+1. The department shall establish the affordable housing advisory board to consist of **23** members.
+
+    a. The following **20** members shall be appointed by the governor:
+
+        i. Two representatives of the residential construction industry;
+
+        ii. Two representatives of the home mortgage lending profession;
+
+        iii. One representative of the real estate sales profession;
+
+        iv. One representative of the apartment management and operation industry;
+
+    v. One representative of the for-profit housing development industry;
+
+    vi. One representative of for-profit rental housing owners;
+
+    vii. One representative of the nonprofit housing development industry;
+
+    viii. One representative of homeless shelter operators;
+
+        ix. One representative of lower-income persons;
+
+    x. One representative of special needs populations;
+
+    xi. One representative of public housing authorities as created under chapter 35.82 RCW;
+
+    xii. Two representatives of the Washington association of counties, one representative shall be from a county that is located east of the crest of the Cascade mountains;
+
+    xiii. Two representatives of the association of Washington cities, one representative shall be from a city that is located east of the crest of the Cascade mountains;
+
+    xiv. One representative to serve as chair of the affordable housing advisory board;
+
+    xv. One representative at large**; and**
+
+    xvi. **One representative from a unit owners' association as defined in RCW 64.34.020 or 64.90.010**.
+
+    b. The following three members shall serve as ex officio, nonvoting members:
+
+        i. The director or the director's designee;
+
+        ii. The executive director of the Washington state housing finance commission or the executive director's designee; and
+
+        iii. The secretary of social and health services or the secretary's designee.
+
+2. [Empty]
+
+    a. The members of the affordable housing advisory board appointed by the governor shall be appointed for four-year terms, except that the chair shall be appointed to serve a two-year term. The terms of five of the initial appointees shall be for two years from the date of appointment and the terms of six of the initial appointees shall be for three years from the date of appointment. The governor shall designate the appointees who will serve the two-year and three-year terms. The members of the advisory board shall serve without compensation, but shall be reimbursed for travel expenses as provided in RCW 43.03.050 and 43.03.060.
+
+    b. The governor, when making appointments to the affordable housing advisory board, shall make appointments that reflect the cultural diversity of the state of Washington.
+
+3. The affordable housing advisory board shall serve as the department's principal advisory body on housing and housing-related issues, and replaces the department's existing boards and task forces on housing and housing-related issues.
+
+4. The affordable housing advisory board shall meet regularly and may appoint technical advisory committees, which may include members of the affordable housing advisory board, as needed to address specific issues and concerns.
+
+5. The department, in conjunction with the Washington state housing finance commission and the department of social and health services, shall supply such information and assistance as are deemed necessary for the advisory board to carry out its duties under this section.
+
+6. The department shall provide administrative and clerical assistance to the affordable housing advisory board.
+

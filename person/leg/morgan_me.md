@@ -1,7 +1,7 @@
 # Melanie Morgan
 ## Bills
 * [HB 1016](/bill/2021-22/hb/1016/) - Juneteenth | Effective date 7/25/2021.
-* [HB 1067](/bill/2021-22/hb/1067/) - State dinosaur | By resolution, reintroduced and retained in present status.
+* [HB 1067](/bill/2021-22/hb/1067/) - State dinosaur | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1210](/bill/2021-22/hb/1210/) - Cannabis terminology | Referred to Rules 2 Review.
 * [HB 1395](/bill/2021-22/hb/1395/) - Equity in farming | By resolution, reintroduced and retained in present status.
 * [HB 1441](/bill/2021-22/hb/1441/) - Prospective tenants/COVID-19 | House Rules "X" file.

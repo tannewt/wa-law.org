@@ -1,6 +1,6 @@
 # House Bill 2089
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Xml/Bills/House%20Bills/2089.xml)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2089.pdf)
 ## Section 1
 > This section modifies existing section [47.10.886](/rcw/47_public_highways_and_transportation/47.10_highway_construction_bonds.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.10_highway_construction_bonds.md) for context.
 

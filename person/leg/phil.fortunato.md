@@ -44,4 +44,5 @@
 * [SB 5836](/bill/2021-22/sb/5836/) - COVID-19 vaccine consent | First reading, referred to Health & Long Term Care.
 * [SB 5867](/bill/2021-22/sb/5867/) - Emerg. overnight shelters | First reading, referred to Housing & Local Government.
 * [SB 5887](/bill/2021-22/sb/5887/) - Special session procedures | First reading, referred to State Government & Elections.
+* [SB 5953](/bill/2021-22/sb/5953/) - Abandoned vehicles/sales tax | First reading, referred to Ways & Means.
 * [SJR 8211](/bill/2021-22/sjr/8211/) - Revenue for highway purposes | First reading, referred to Transportation.

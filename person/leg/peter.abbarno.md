@@ -11,3 +11,4 @@
 * [HB 1600](/bill/2021-22/hb/1600/) - 988 hotline signs | First reading, referred to Capital Budget.
 * [HB 1677](/bill/2021-22/hb/1677/) - Military/employer tax incen. | First reading, referred to Finance.
 * [HB 1929](/bill/2021-22/hb/1929/) - Fire protection projects | First reading, referred to Capital Budget.
+* [HB 2093](/bill/2021-22/hb/2093/) - County timber tax distrib. | First reading, referred to Appropriations.

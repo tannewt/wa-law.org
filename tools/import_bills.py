@@ -425,12 +425,13 @@ for start_year in range(2021, 2023, 2):
             elif bill.LongDescription is not None:
                 short_description = bill.LongDescription.text
             else:
+                print("missing description")
                 print(bill)
             bill_link = f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
             if status.startswith("C "):
                 bill_link = f"[{status} {bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
                 bills_by_status["passed"].append(bill_link)
-            elif " " in status and not status.startswith("Gov"):
+            elif " " in status and not status.startswith("Gov") and not status.startswith("Del"):
                 agency, short_committee = status.split(" ", maxsplit=1)
                 acronym = None
                 if short_committee in short_committee_status_to_acronym[agency]:

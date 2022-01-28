@@ -1,5 +1,5 @@
 # HB 1845 - Body worn camera grants
-*Status: First reading, referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1845&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1845&Year=2021)
 
 Establishing a body worn camera grant program.
 

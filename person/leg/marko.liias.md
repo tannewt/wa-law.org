@@ -16,7 +16,7 @@
 * [SB 5288](/bill/2021-22/sb/5288/) - Opportunity scholarship prog | Senate Rules "X" file.
 * [SB 5313](/bill/2021-22/sb/5313/) - Health ins. discrimination | Effective date 7/25/2021.
 * [SB 5390](/bill/2021-22/sb/5390/) - Housing supply | By resolution, reintroduced and retained in present status.
-* [SB 5508](/bill/2021-22/sb/5508/) - Insurance guaranty fund | Placed on second reading by Rules Committee.
+* [SB 5508](/bill/2021-22/sb/5508/) - Insurance guaranty fund | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [SCR 8401](/bill/2021-22/scr/8401/) - Cutoff dates | Filed with Secretary of State.
 * [SCR 8402](/bill/2021-22/scr/8402/) - Emergency orders extension | Filed with Secretary of State.
 * [SCR 8403](/bill/2021-22/scr/8403/) - Cutoff/Chinese American hist | Senate Rules "X" file.
@@ -24,7 +24,7 @@
 * [SB 5666](/bill/2021-22/sb/5666/) - Targeted electrification | First reading, referred to Environment, Energy & Technology.
 * [SB 5669](/bill/2021-22/sb/5669/) - Energy codes | First reading, referred to Environment, Energy & Technology.
 * [SB 5689](/bill/2021-22/sb/5689/) - Transportation budget, supp. | First reading, referred to Transportation.
-* [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | First reading, referred to Human Services, Reentry & Rehabilitation.
+* [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | Referred to Ways & Means.
 * [SB 5797](/bill/2021-22/sb/5797/) - Opportunity scholarship prog | First reading, referred to Higher Education & Workforce Development.
 * [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | First reading, referred to Higher Education & Workforce Development.
 * [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | First reading, referred to Higher Education & Workforce Development.

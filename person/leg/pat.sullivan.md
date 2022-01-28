@@ -10,7 +10,7 @@
 * [HCR 4401](/bill/2021-22/hcr/4401/) - Joint sessions | Filed with Secretary of State.
 * [HCR 4403](/bill/2021-22/hcr/4403/) - Bills/to house of origin | Filed with Secretary of State.
 * [HCR 4404](/bill/2021-22/hcr/4404/) - Adjourning SINE DIE | Filed with Secretary of State.
-* [HB 1732](/bill/2021-22/hb/1732/) - Long-term care/delay | First reading, referred to Ways & Means.
+* [HB 1732](/bill/2021-22/hb/1732/) - Long-term care/delay | Delivered to Governor.
 * [HB 1734](/bill/2021-22/hb/1734/) - Low-proof beverages/tax | First reading, referred to Finance.
 * [HB 1736](/bill/2021-22/hb/1736/) - State student loan program | Referred to Appropriations.
 * [HCR 4405](/bill/2021-22/hcr/4405/) - Bill status for 2022 session | Filed with Secretary of State.

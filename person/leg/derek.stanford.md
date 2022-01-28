@@ -21,9 +21,12 @@
 * [SB 5627](/bill/2021-22/sb/5627/) - Workers' comp. exam rights | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5658](/bill/2021-22/sb/5658/) - Recyclability | First reading, referred to Environment, Energy & Technology.
 * [SB 5671](/bill/2021-22/sb/5671/) - Liquor and cannabis board | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | First reading, referred to Human Services, Reentry & Rehabilitation.
+* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | Passed to Rules Committee for second reading.
 * [SB 5708](/bill/2021-22/sb/5708/) - Fur products | First reading, referred to Law & Justice.
 * [SB 5717](/bill/2021-22/sb/5717/) - Compost products | First reading, referred to Environment, Energy & Technology.
-* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | First reading, referred to Environment, Energy & Technology.
+* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | ENET - Majority; do pass.
 * [SB 5767](/bill/2021-22/sb/5767/) - Hemp-derived cannabinoids | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5773](/bill/2021-22/sb/5773/) - Legislature/bargaining | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5773](/bill/2021-22/sb/5773/) - Legislature/bargaining | And refer to Ways & Means.
+* [SB 5947](/bill/2021-22/sb/5947/) - Property exempt from exec. | First reading, referred to Law & Justice.
+* [SB 5955](/bill/2021-22/sb/5955/) - Railroad grade crossings | First reading, referred to Transportation.
+* [SB 5956](/bill/2021-22/sb/5956/) - Insurance data security | First reading, referred to Business, Financial Services & Trade.
