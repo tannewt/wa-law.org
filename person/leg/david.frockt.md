@@ -9,7 +9,7 @@
 * [SB 5263](/bill/2021-22/sb/5263/) - Personal injury defenses | Effective date 7/25/2021.
 * [SB 5351](/bill/2021-22/sb/5351/) - Business interruption claims | By resolution, reintroduced and retained in present status.
 * [SB 5377](/bill/2021-22/sb/5377/) - Standardized health plans | Effective date 7/25/2021.
-* [SB 5530](/bill/2021-22/sb/5530/) - Building for the arts | WM - Majority; do pass.
+* [SB 5530](/bill/2021-22/sb/5530/) - Building for the arts | Passed to Rules Committee for second reading.
 * [SB 5586](/bill/2021-22/sb/5586/) - Broadband loans & grants | First reading, referred to Business, Financial Services & Trade.
 * [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | Passed to Rules Committee for second reading.
 * [SB 5651](/bill/2021-22/sb/5651/) - Capital budget, supplemental | First reading, referred to Ways & Means.

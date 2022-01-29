@@ -11,4 +11,4 @@
 * [HB 1681](/bill/2021-22/hb/1681/) - Conviction record vacation | Minority; do not pass.
 * [HB 1692](/bill/2021-22/hb/1692/) - Drive-by shooting | First reading, referred to Public Safety.
 * [HB 1809](/bill/2021-22/hb/1809/) - Health care marketplace | First reading, referred to Civil Rights & Judiciary.
-* [HB 1818](/bill/2021-22/hb/1818/) - Reentry and rehabilitation | HHSV - Executive action taken by committee.
+* [HB 1818](/bill/2021-22/hb/1818/) - Reentry and rehabilitation | HHSV - Majority; 1st substitute bill be substituted, do pass.

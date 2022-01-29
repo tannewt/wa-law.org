@@ -6,7 +6,7 @@
 * [SB 5239](/bill/2021-22/sb/5239/) - Hog fuel sales tax exemption | By resolution, reintroduced and retained in present status.
 * [SB 5240](/bill/2021-22/sb/5240/) - Behavioral health continuity | By resolution, reintroduced and retained in present status.
 * [SB 5280](/bill/2021-22/sb/5280/) - Agency rules | By resolution, reintroduced and retained in present status.
-* [SB 5341](/bill/2021-22/sb/5341/) - Local sales tax uses | By resolution, reintroduced and retained in present status.
+* [SB 5341](/bill/2021-22/sb/5341/) - Local sales tax uses | Placed on third reading by Rules Committee.
 * [SB 5429](/bill/2021-22/sb/5429/) - Litter control program | By resolution, reintroduced and retained in present status.
 * [SB 5440](/bill/2021-22/sb/5440/) - Manufacturing taxes | By resolution, reintroduced and retained in present status.
 * [SB 5492](/bill/2021-22/sb/5492/) - Wind turbine blade recycling | First reading, referred to Environment, Energy & Technology.

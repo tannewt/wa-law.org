@@ -19,4 +19,4 @@
 * [SB 5743](/bill/2021-22/sb/5743/) - Kratom | First reading, referred to Law & Justice.
 * [SB 5927](/bill/2021-22/sb/5927/) - Retail cannabis outlets | First reading, referred to Law & Justice.
 * [SB 5941](/bill/2021-22/sb/5941/) - Kratom | First reading, referred to Law & Justice.
-* [SB 5958](/bill/2021-22/sb/5958/) - Higher ed. capital grants | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
+* [SB 5958](/bill/2021-22/sb/5958/) - Higher ed. capital grants | First reading, referred to Ways & Means.

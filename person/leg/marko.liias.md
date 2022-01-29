@@ -26,7 +26,7 @@
 * [SB 5689](/bill/2021-22/sb/5689/) - Transportation budget, supp. | First reading, referred to Transportation.
 * [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | Referred to Ways & Means.
 * [SB 5797](/bill/2021-22/sb/5797/) - Opportunity scholarship prog | First reading, referred to Higher Education & Workforce Development.
-* [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | And refer to Ways & Means.
+* [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | Referred to Ways & Means.
 * [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | First reading, referred to Higher Education & Workforce Development.
 * [SB 5846](/bill/2021-22/sb/5846/) - Election offices/weapons | First reading, referred to Law & Justice.
 * [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | First reading, referred to Higher Education & Workforce Development.

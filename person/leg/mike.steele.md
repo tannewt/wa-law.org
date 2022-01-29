@@ -5,7 +5,7 @@
 * [HB 1907](/bill/2021-22/hb/1907/) - Gift equity packaging | CWD - Majority; do pass.
 * [HB 1908](/bill/2021-22/hb/1908/) - Surplus property for housing | First reading, referred to Housing, Human Services & Veterans.
 * [HB 1948](/bill/2021-22/hb/1948/) - Failing water systems | First reading, referred to Local Government.
-* [HB 1966](/bill/2021-22/hb/1966/) - Local infra. investment prg | HHSV - Executive action taken by committee.
+* [HB 1966](/bill/2021-22/hb/1966/) - Local infra. investment prg | HHSV - Majority; do pass.
 * [HB 1967](/bill/2021-22/hb/1967/) - Nonprofits/property tax | First reading, referred to Finance.
 * [HB 2055](/bill/2021-22/hb/2055/) - Higher ed. capital grants | First reading, referred to Capital Budget.
 * [HB 2056](/bill/2021-22/hb/2056/) - K-12 instructional materials | First reading, referred to Education.

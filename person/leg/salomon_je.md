@@ -12,9 +12,9 @@
 * [SB 5340](/bill/2021-22/sb/5340/) - School board director qualif | On motion, referred to Rules Committee for second reading.
 * [SB 5656](/bill/2021-22/sb/5656/) - Fish and wildlife commission | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5660](/bill/2021-22/sb/5660/) - Psilocybin | First reading, referred to Health & Long Term Care.
-* [SB 5667](/bill/2021-22/sb/5667/) - COVID-19 vaccination docs. | Minority; do not pass.
+* [SB 5667](/bill/2021-22/sb/5667/) - COVID-19 vaccination docs. | Passed to Rules Committee for second reading.
 * [SB 5677](/bill/2021-22/sb/5677/) - Law enf. serious misconduct | First reading, referred to Law & Justice.
 * [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | First reading, referred to Housing & Local Government.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
-* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | And refer to Ways & Means.
+* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | On motion, referred to Rules Committee for second reading.
 * [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Referred to Agriculture, Water, Natural Resources & Parks.

@@ -15,7 +15,7 @@
 * [SB 5464](/bill/2021-22/sb/5464/) - In-person learning option | By resolution, reintroduced and retained in present status.
 * [SB 5607](/bill/2021-22/sb/5607/) - Homeless census/facilities | Placed on second reading by Rules Committee.
 * [SB 5608](/bill/2021-22/sb/5608/) - Park and land public access | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | Placed on second reading consent calendar.
+* [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | Third reading, passed; yeas, 43; nays, 0; absent, 0; excused, 6.
 * [SB 5620](/bill/2021-22/sb/5620/) - Medicaid expenditures | Passed to Rules Committee for second reading.
 * [SJR 8206](/bill/2021-22/sjr/8206/) - Homestead property tax exem. | By resolution, reintroduced and retained in present status.
 * [SB 5737](/bill/2021-22/sb/5737/) - Long-term care/pending exem. | First reading, referred to Health & Long Term Care.
@@ -25,5 +25,5 @@
 * [SB 5864](/bill/2021-22/sb/5864/) - Unemployment/unvaccinated | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5934](/bill/2021-22/sb/5934/) - Third WA-OR bridge study | First reading, referred to Transportation.
 * [SB 5943](/bill/2021-22/sb/5943/) - Governor's emergency powers | First reading, referred to State Government & Elections.
-* [SB 5959](/bill/2021-22/sb/5959/) - FML insurance solvency | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
+* [SB 5959](/bill/2021-22/sb/5959/) - FML insurance solvency | First reading, referred to Ways & Means.
 * [SJR 8209](/bill/2021-22/sjr/8209/) - Domestic violence/bail | First reading, referred to Law & Justice.

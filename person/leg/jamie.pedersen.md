@@ -7,12 +7,12 @@
 * [SB 5132](/bill/2021-22/sb/5132/) - Trusts and estates | Effective date 7/25/2021*.
 * [SB 5185](/bill/2021-22/sb/5185/) - Health care consent | Effective date 1/1/2022.
 * [SB 5307](/bill/2021-22/sb/5307/) - Pretrial release & detention | By resolution, reintroduced and retained in present status.
-* [SB 5489](/bill/2021-22/sb/5489/) - Business entities | Placed on second reading consent calendar.
+* [SB 5489](/bill/2021-22/sb/5489/) - Business entities | Third reading, passed; yeas, 43; nays, 0; absent, 0; excused, 6.
 * [SB 5490](/bill/2021-22/sb/5490/) - Interbranch advisory comm. | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
-* [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | LAW - Majority; do pass.
+* [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | Passed to Rules Committee for second reading.
 * [SB 5528](/bill/2021-22/sb/5528/) - RTA additive revenue | First reading, referred to Transportation.
 * [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | Passed to Rules Committee for second reading.
 * [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
-* [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | Passed to Rules Committee for second reading.
-* [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | LAW - Majority; do pass.
+* [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | Placed on second reading by Rules Committee.
+* [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | Passed to Rules Committee for second reading.
 * [SCR 8404](/bill/2021-22/scr/8404/) - Cutoff dates | Filed with Secretary of State.

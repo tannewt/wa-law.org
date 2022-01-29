@@ -19,7 +19,7 @@
 * [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Passed to Rules Committee for second reading.
 * [SB 5645](/bill/2021-22/sb/5645/) - Assisted outpatient treat. | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5655](/bill/2021-22/sb/5655/) - State hospitals/short-term | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
-* [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | And refer to Ways & Means.
+* [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Referred to Ways & Means.
 * [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.

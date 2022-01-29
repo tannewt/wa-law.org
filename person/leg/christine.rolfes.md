@@ -13,7 +13,7 @@
 * [SB 5323](/bill/2021-22/sb/5323/) - Wages & salaries | By resolution, reintroduced and retained in present status.
 * [SB 5343](/bill/2021-22/sb/5343/) - Medicaid appropriations | By resolution, reintroduced and retained in present status.
 * [SB 5344](/bill/2021-22/sb/5344/) - Federal funding/COVID-19 | By resolution, reintroduced and retained in present status.
-* [SB 5505](/bill/2021-22/sb/5505/) - Farmers market prop. tax ex. | WM - Majority; do pass.
+* [SB 5505](/bill/2021-22/sb/5505/) - Farmers market prop. tax ex. | Passed to Rules Committee for second reading.
 * [SB 5585](/bill/2021-22/sb/5585/) - Domestic wastewater fees | On motion, referred to Rules Committee for second reading.
 * [SB 5616](/bill/2021-22/sb/5616/) - Accounts | First reading, referred to Ways & Means.
 * [SB 5626](/bill/2021-22/sb/5626/) - Water system plans/climate | Referred to Ways & Means.

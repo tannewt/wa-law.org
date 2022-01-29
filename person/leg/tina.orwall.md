@@ -13,5 +13,5 @@
 * [HB 1849](/bill/2021-22/hb/1849/) - War on terror monument | Referred to Rules 2 Review.
 * [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | First reading, referred to Public Safety.
 * [HB 1989](/bill/2021-22/hb/1989/) - Comm. sexual exploitation | First reading, referred to Children, Youth & Families.
-* [HB 2052](/bill/2021-22/hb/2052/) - Comm. service org. contracts | LG - Executive action taken by committee.
+* [HB 2052](/bill/2021-22/hb/2052/) - Comm. service org. contracts | LG - Majority; do pass.
 * [HB 2088](/bill/2021-22/hb/2088/) - Foreclosure timeline | First reading, referred to Civil Rights & Judiciary.

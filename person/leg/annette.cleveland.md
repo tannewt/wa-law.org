@@ -13,9 +13,9 @@
 * [SB 5499](/bill/2021-22/sb/5499/) - Hemodialysis technicians | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [SB 5542](/bill/2021-22/sb/5542/) - Optometry | First reading, referred to Health & Long Term Care.
-* [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Placed on second reading consent calendar.
+* [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Third reading, passed; yeas, 42; nays, 1; absent, 0; excused, 6.
 * [SB 5618](/bill/2021-22/sb/5618/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
-* [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | And refer to Ways & Means.
+* [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | Referred to Ways & Means.
 * [SB 5815](/bill/2021-22/sb/5815/) - Identicards | First reading, referred to Transportation.
 * [SB 5848](/bill/2021-22/sb/5848/) - Music therapists | First reading, referred to Health & Long Term Care.
 * [SB 5852](/bill/2021-22/sb/5852/) - Biodegradable product labels | First reading, referred to Environment, Energy & Technology.

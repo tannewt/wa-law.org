@@ -12,7 +12,7 @@
 * [SB 5398](/bill/2021-22/sb/5398/) - Small businesses/excise tax | By resolution, reintroduced and retained in present status.
 * [SB 5403](/bill/2021-22/sb/5403/) - System improvement team | Effective date 7/25/2021.
 * [SB 5441](/bill/2021-22/sb/5441/) - Breast implant surgery | First reading, referred to Health Care & Wellness.
-* [SB 5527](/bill/2021-22/sb/5527/) - Insurance sublimits | BFST - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5527](/bill/2021-22/sb/5527/) - Insurance sublimits | Passed to Rules Committee for second reading.
 * [SB 5537](/bill/2021-22/sb/5537/) - Compulsory school attendance | First reading, referred to Early Learning & K-12 Education.
 * [SB 5562](/bill/2021-22/sb/5562/) - ESD employee health care | First reading, referred to Ways & Means.
 * [SB 5563](/bill/2021-22/sb/5563/) - Enrollment stabilization | Referred to Ways & Means.

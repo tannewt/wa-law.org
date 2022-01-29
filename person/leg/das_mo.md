@@ -14,10 +14,10 @@
 * [SB 5378](/bill/2021-22/sb/5378/) - Real estate broker renewal | Effective date 6/1/2022.
 * [SB 5446](/bill/2021-22/sb/5446/) - Warehousing & manuf. jobs | By resolution, reintroduced and retained in present status.
 * [SB 5480](/bill/2021-22/sb/5480/) - Cosmetic products/chemicals | By resolution, reintroduced and retained in present status.
-* [SB 5670](/bill/2021-22/sb/5670/) - Middle housing near transit | And refer to Ways & Means.
+* [SB 5670](/bill/2021-22/sb/5670/) - Middle housing near transit | Referred to Ways & Means.
 * [SB 5697](/bill/2021-22/sb/5697/) - Recycling system & waste | First reading, referred to Environment, Energy & Technology.
 * [SB 5703](/bill/2021-22/sb/5703/) - Cosmetic products/chemicals | First reading, referred to Environment, Energy & Technology.
-* [SB 5713](/bill/2021-22/sb/5713/) - Limited equity coop. housing | And refer to Ways & Means.
+* [SB 5713](/bill/2021-22/sb/5713/) - Limited equity coop. housing | Referred to Ways & Means.
 * [SB 5731](/bill/2021-22/sb/5731/) - Organic materials management | First reading, referred to Environment, Energy & Technology.
 * [SB 5732](/bill/2021-22/sb/5732/) - Green roofs | First reading, referred to Environment, Energy & Technology.
 * [SB 5823](/bill/2021-22/sb/5823/) - Local infra. project areas | First reading, referred to Housing & Local Government.

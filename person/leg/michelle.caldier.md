@@ -1,6 +1,6 @@
 # Michelle Caldier
 ## Bills
-* [HB 1183](/bill/2021-22/hb/1183/) - Home sharing support grants | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1183](/bill/2021-22/hb/1183/) - Home sharing support grants | Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.
 * [HB 1200](/bill/2021-22/hb/1200/) - Sewerage systems/private op. | By resolution, reintroduced and retained in present status.
 * [HB 1205](/bill/2021-22/hb/1205/) - Health care/DCYF custody | By resolution, reintroduced and retained in present status.
 * [HB 1347](/bill/2021-22/hb/1347/) - Foster care payments | By resolution, reintroduced and retained in present status.

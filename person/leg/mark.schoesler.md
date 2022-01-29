@@ -17,4 +17,4 @@
 * [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | Passed to Rules Committee for second reading.
 * [SB 5786](/bill/2021-22/sb/5786/) - Puget Sound nutrient permits | First reading, referred to Environment, Energy & Technology.
 * [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | First reading, referred to Ways & Means.
-* [SB 5800](/bill/2021-22/sb/5800/) - Tax and revenue laws | WM - Majority; do pass.
+* [SB 5800](/bill/2021-22/sb/5800/) - Tax and revenue laws | Passed to Rules Committee for second reading.

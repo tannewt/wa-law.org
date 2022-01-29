@@ -1,12 +1,13 @@
 # HB 1914 - Motion picture program
 **Primary Sponsor:** [Marcus Riccelli](/person/leg/marcus.riccelli.md)
 
-*Status: CED - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1914&Year=2021)
+*Status: CED - Majority; 1st substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1914&Year=2021)
 
 Updating and expanding the motion picture competitiveness program.
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Testify
 The House Finance committee will be holding a public hearing on Thu, Feb 3 at 8:00 am. There are three ways to testify. You can do more than one.

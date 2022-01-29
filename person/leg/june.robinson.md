@@ -14,9 +14,9 @@
 * [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | Referred to Ways & Means.
 * [SB 5654](/bill/2021-22/sb/5654/) - Health benefit ex./B&O tax | Passed to Rules Committee for second reading.
 * [SB 5751](/bill/2021-22/sb/5751/) - Health care staffing | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | Passed to Rules Committee for second reading.
+* [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | Placed on second reading by Rules Committee.
 * [SB 5754](/bill/2021-22/sb/5754/) - EMTs/public health | First reading, referred to Health & Long Term Care.
-* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | And refer to Ways & Means.
+* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | Referred to Ways & Means.
 * [SB 5866](/bill/2021-22/sb/5866/) - Medicaid LTSS/tribes | First reading, referred to Health & Long Term Care.
 * [SB 5923](/bill/2021-22/sb/5923/) - Temporary emergency shelters | First reading, referred to Housing & Local Government.
 * [SB 5926](/bill/2021-22/sb/5926/) - Investment services/tax | First reading, referred to Ways & Means.
