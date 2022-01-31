@@ -8,3 +8,6 @@ Concerning the sale or lease of manufactured/mobile home communities and the pro
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

@@ -15,3 +15,7 @@ The House Finance committee will be holding a public hearing on Tue, Feb 1 at 1:
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29740&aId=145387&caId=19190&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19190).
+
+## Upcoming Meetings
+* Tue, Feb 1 at 1:30 pm - [House Finance](/house/2021-22/FIN/) Public Hearing
+* Fri, Feb 4 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

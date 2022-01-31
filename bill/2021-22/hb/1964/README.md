@@ -7,3 +7,6 @@ Concerning the decommissioning of alternative energy facilities.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 10:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

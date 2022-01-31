@@ -15,3 +15,6 @@ The House State Government & Tribal Relations committee will be holding a public
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29692&aId=145182&caId=19206&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19206).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Public Hearing

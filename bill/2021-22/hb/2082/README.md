@@ -15,3 +15,6 @@ The House Children, Youth & Families committee will be holding a public hearing 
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29705&aId=145265&caId=19176&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19176).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [House Children, Youth & Families](/house/2021-22/CYF/) Public Hearing

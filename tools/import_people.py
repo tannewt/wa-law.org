@@ -36,6 +36,8 @@ for start_year in range(2021, 2023, 2):
         print(member.Email.text, name , member.District.text)
         email_by_name[name] = email
 
+    committees_by_agency = {}
+
     url = api_root_url + f"/CommitteeService.asmx/GetCommittees?biennium={biennium}"
     print(url)
     committees = requests.get(url)
@@ -45,12 +47,24 @@ for start_year in range(2021, 2023, 2):
         name = committee.Name.text
         acronym = committee.Acronym.text
         print(agency, acronym, name)
+        if agency not in committees_by_agency:
+            committees_by_agency[agency] = []
+        committees_by_agency[agency].append(f"* [{name}]({acronym}/)")
         name_safe = urllib.parse.quote_plus(name)
+        committee_lines = [f"# {name}"]
+        committee_lines.append("## Members")
+
         url = api_root_url + f"/CommitteeService.asmx/GetCommitteeMembers?biennium={biennium}&agency={agency}&committeeName={name_safe}"
         members = requests.get(url)
         members = BeautifulSoup(members.text, "xml")
-        # for member in members.find_all("Member"):
-        #     print(" ", member.Email.text)
+        for member in members.find_all("Member"):
+            member_name = member.Name.text
+            email = member.Email.text
+            slug = email.split("@")[0].lower()
+            committee_lines.append(f"* [{member_name}](/person/leg/{slug}.md)")
+        committee_page = pathlib.Path(f"{agency.lower()}/{biennium}/{acronym}/README.md")
+        committee_page.parent.mkdir(parents=True, exist_ok=True)
+        committee_page.write_text("\n".join(committee_lines))
 
 # Current members
 url = root_url + f"/ContentParts/MemberDirectory/?a=House"
@@ -58,6 +72,10 @@ print(url)
 reps = requests.get(url)
 reps = BeautifulSoup(reps.text, "lxml")
 rep_lines = ["# 2021-22 House of Representatives"]
+rep_lines.append("## Committees")
+rep_lines.extend(committees_by_agency["House"])
+rep_lines.append("")
+rep_lines.append("## Members")
 for rep in reps.find_all(class_="memberInformation"):
     photo = rep.img
     name = photo["alt"]
@@ -82,6 +100,10 @@ print(url)
 senators = requests.get(url)
 senators = BeautifulSoup(senators.text, "lxml")
 senate_lines = ["# 2021-22 Senate"]
+senate_lines.append("## Committees")
+senate_lines.extend(committees_by_agency["Senate"])
+senate_lines.append("")
+senate_lines.append("## Members")
 for senator in senators.find_all(class_="memberInformation"):
     photo = senator.img
     name = photo["alt"]
@@ -93,6 +115,7 @@ for senator in senators.find_all(class_="memberInformation"):
     for link in rep.find_all("a"):
         # print(link["href"], link.text)
         pass
+senate_lines.append("")
 
 senate_page = pathlib.Path("senate/2021-22/README.md")
 senate_page.write_text("\n".join(senate_lines))

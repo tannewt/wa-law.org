@@ -5,8 +5,9 @@ import pathlib
 import sys
 import subprocess
 import arrow
+import utils
 
-FORCE_FETCH = True
+FORCE_FETCH = False
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 csi_root_url = "https://app.leg.wa.gov/csi"
@@ -48,28 +49,52 @@ for start_year in range(2021, 2023, 2):
     print(url)
     meetings = requests.get(url, force_fetch=FORCE_FETCH)
     meetings = BeautifulSoup(meetings.text, "xml")
+    all_meetings = []
     count = 0
+    end_time = 0
+    now = arrow.now()
     for info in meetings.find_all("CommitteeMeeting"):
         count += 1
         agendaId = info.AgendaId.text
+        notes = info.Notes.text
+        agency = info.Agency.text
+        committee_name = info.Name.text
+        acronym = info.Acronym.text
+        meeting_date = arrow.get(info.Date.text)
+        last_revised = arrow.get(info.RevisedDate.text)
+        agenda = {}
+        meeting_dict = {
+            "agency": agency,
+            "committee": committee_name,
+            "acronym": acronym,
+            "start": meeting_date,
+            "revised": last_revised,
+            "notes": notes,
+            "agenda": agenda
+        }
+        all_meetings.append((meeting_date, meeting_dict))
         # print(info.AgendaId.text, info.Date.text, info.RevisedDate.text)
+        if "scheduled to end" in notes:
+            end_time += 1
+        upcoming = now < meeting_date
         url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetingItems?agendaId={agendaId}"
         # print(url)
-        items = requests.get(url)
+        items = requests.get(url, force_fetch=upcoming and FORCE_FETCH)
         items = BeautifulSoup(items.text, "xml")
         for item in items.find_all("CommitteeMeetingItem"):
+            hearing_type = item.HearingTypeDescription.text
+            if hearing_type not in agenda:
+                agenda[hearing_type] = []
             billId = item.BillId.text
+            agenda[hearing_type].append((billId, item.ItemDescription.text))
             if billId:
                 bill_number = billId.split(" ")[1]
                 if bill_number not in meetings_by_bill:
                     meetings_by_bill[bill_number] = []
-                meetings_by_bill[bill_number].append((arrow.get(info.Date.text), info, item))
-            else:
-                # print(item)
-                pass
+                meetings_by_bill[bill_number].append((meeting_date, info, item, meeting_dict))
+    print(count, end_time)
 
     print("-----")
-    now = arrow.now()
     active = {}
     heard = {}
     for bill_number in meetings_by_bill:
@@ -78,7 +103,7 @@ for start_year in range(2021, 2023, 2):
 
         activity = ""
 
-        for dt, meeting, item in meetings:
+        for dt, meeting, item, meeting_dict in meetings:
             if now < dt:
                 if not activity:
                     activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
@@ -93,14 +118,14 @@ for start_year in range(2021, 2023, 2):
 
                 url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={mId}"
                 agendaItems = requests.get(url)
-                items = BeautifulSoup(agendaItems.text, "html")
+                items = BeautifulSoup(agendaItems.text, "lxml")
                 for item in items.find_all(class_="agendaItem"):
                     if bill_number not in item.text:
                         continue
                     chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
                     url = csi_root_url + f"/{chamber}/TestimonyTypes/?chamber={chamber}&meetingFamilyId={mId}&agendaItemFamilyId={aId}&agendaItemId={caId}"
                     testimonyOptions = requests.get(url)
-                    testimonyOptions = BeautifulSoup(testimonyOptions.text, "html")
+                    testimonyOptions = BeautifulSoup(testimonyOptions.text, "lxml")
                     testimony_links = {}
                     for option in testimonyOptions.find_all("a"):
                         testimony_links[option.text] = option["href"]
@@ -110,22 +135,6 @@ for start_year in range(2021, 2023, 2):
                     if bill_path and bill_path[0].exists():
                         bill_path = bill_path[0]
                         new_lines = []
-                        in_testify = False
-                        testify_removed = False
-                        for line in bill_path.read_text().split("\n"):
-                            if line.startswith("#"):
-                                in_testify = line == "## Testify"
-                                if not in_testify:
-                                    new_lines.append(line)
-                                else:
-                                    testify_removed = True
-                            elif in_testify:
-                                pass
-                            else:
-                                new_lines.append(line)
-                        if not testify_removed:
-                            new_lines.append("")
-                        new_lines.append("## Testify")
                         committee = meeting.LongName.text
                         testify_date = dt.format("ddd, MMM D") + " at " + dt.format("h:mm a")
                         new_lines.append(f"The {committee} committee will be holding a public hearing on {testify_date}. There are three ways to testify. You can do more than one.")
@@ -134,7 +143,7 @@ for start_year in range(2021, 2023, 2):
                         new_lines.append(f"* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov{testimony_links[TESTIFY_REMOTE]})")
                         new_lines.append("")
                         new_lines.append(f"Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId={caId}).")
-                        bill_path.write_text("\n".join(new_lines))
+                        utils.add_or_update_section(bill_path, "## Testify", new_lines)
             else:
                 if item.HearingType.text != "Public":
                     continue
@@ -221,3 +230,91 @@ for start_year in range(2021, 2023, 2):
 
     add_lines(new_lines, active_lines, heard_lines, inactive_lines)
     bill_index.write_text("\n".join(new_lines))
+
+    all_meetings.sort(key=lambda x: x[0])
+
+    hearing_types = ["Public Hearing", "Executive Session", "Agenda", "Work Session"]
+
+    pages = {}
+
+    last_date = {}
+    last_time = {}
+
+    for start, meeting in all_meetings:
+        #print(start, meeting)
+        event_description = []
+        title = ""
+        committee_name = meeting["committee"]
+        bills = []
+        for hearing_type in hearing_types:
+            if hearing_type not in meeting["agenda"]:
+                continue
+            event_description.append(hearing_type)
+            title = hearing_type
+            for bill_id, description in meeting["agenda"][hearing_type]:
+                if not bill_id:
+                    event_description.append(f"* {description}")
+                else:
+                    originator, number = bill_id.split()
+                    originator = originator[-2:]
+                    bill_slug = f"{originator.lower()}/{number}"
+                    line = f"* [{bill_id}](/bill/{biennium}/{bill_slug}/) - {description}"
+                    bills.append((hearing_type, f"bill/{biennium}/{bill_slug}/README.md"))
+
+                    bill_number = bill_id.split()[1]
+                    thumbs = ""
+                    if bill_number in heard:
+                        pro = heard[bill_number].get("Pro", 0)
+                        con = heard[bill_number].get("Con", 0)
+                        other = heard[bill_number].get("Other", 0)
+                        thumbs = f" **{pro}👍** **{con}👎** **{other}❓**"
+                    line += thumbs
+                    event_description.append(line)
+            event_description.append("")
+        event_description.append(meeting["notes"])
+        agency = meeting["agency"]
+        acronym = meeting["acronym"]
+        if agency in ("Joint", "Other"):
+            continue
+
+        if start < now:
+            continue
+        committee_file = f"{agency.lower()}/{biennium}/{acronym}/README.md"
+        agency_file = f"{agency.lower()}/{biennium}/README.md"
+        if committee_file not in pages:
+            pages[committee_file] = ["## Upcoming Meetings"]
+        if agency_file not in pages:
+            pages[agency_file] = ["## Upcoming Meetings"]
+
+        meeting_date = start.format("ddd, MMM D")
+        meeting_time = start.format("h:mm a")
+        pages[committee_file].append(f"### {meeting_date} at {meeting_time}")
+        pages[committee_file].extend(event_description)
+        pages[committee_file].append("")
+
+        if agency not in last_date or last_date[agency] != meeting_date:
+            pages[agency_file].append(f"### {meeting_date}")
+            dash_date = start.format("MM-DD-YYYY")
+            pages[agency_file].append(f"Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/{agency}/0/{dash_date}/{dash_date}/Agenda///Bill/)")
+
+        if agency not in last_time or last_time[agency] != meeting_time:
+            pages[agency_file].append(f"#### {meeting_time}")
+
+        pages[agency_file].append(f"**{committee_name}**")
+        pages[agency_file].extend(event_description)
+        pages[agency_file].append("")
+
+        last_date[agency] = meeting_date
+        last_time[agency] = meeting_time
+
+        for hearing_type, bill in bills:
+            if bill not in pages:
+                pages[bill] = ["## Upcoming Meetings"]
+            pages[bill].append(f"* {meeting_date} at {meeting_time} - [{agency} {committee_name}](/{agency.lower()}/{biennium}/{acronym}/) {hearing_type}")
+
+    for page in pages:
+        path = pathlib.Path(page)
+        if not path.exists():
+            continue
+        new_contents = pages[page]
+        utils.add_or_update_section(path, new_contents[0], new_contents[1:])

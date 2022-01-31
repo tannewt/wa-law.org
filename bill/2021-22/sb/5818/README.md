@@ -7,3 +7,6 @@ Promoting housing construction in cities through amendments to and limiting appe
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

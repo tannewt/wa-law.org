@@ -5,7 +5,7 @@ import pathlib
 import sys
 import subprocess
 
-FORCE_FETCH = True
+FORCE_FETCH = False
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 

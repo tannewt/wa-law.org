@@ -7,3 +7,6 @@ Concerning economic development tax incentives for targeted counties.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:30 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

@@ -7,3 +7,7 @@ Concerning installation, inspection, testing, and maintenance of smoke control s
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
+* Wed, Feb 2 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

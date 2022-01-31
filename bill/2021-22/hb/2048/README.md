@@ -15,3 +15,7 @@ The House Housing, Human Services & Veterans committee will be holding a public 
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29727&aId=145347&caId=19201&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19201).
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Public Hearing
+* Thu, Feb 3 at 10:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Executive Session

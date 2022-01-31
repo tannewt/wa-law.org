@@ -7,3 +7,6 @@ Adding references to contractor licensing laws in workers' compensation, public 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 9:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

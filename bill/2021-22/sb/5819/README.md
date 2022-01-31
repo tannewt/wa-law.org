@@ -7,3 +7,6 @@ Concerning the developmental disabilities administration's no-paid services case
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Executive Session

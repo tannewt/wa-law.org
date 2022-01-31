@@ -7,3 +7,6 @@ Adding psychologists for mental health only claims to the list of those who can 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 9:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

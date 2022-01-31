@@ -7,3 +7,6 @@ Modernizing the energy facility site evaluation council to meet the state's clea
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

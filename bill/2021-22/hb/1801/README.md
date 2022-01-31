@@ -7,3 +7,6 @@ Concerning the repair of digital electronic equipment.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [House Consumer Protection & Business](/house/2021-22/CPB/) Executive Session

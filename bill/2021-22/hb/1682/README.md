@@ -7,3 +7,6 @@ Concerning a compliance pathway specific to emissions-intensive, trade-exposed b
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

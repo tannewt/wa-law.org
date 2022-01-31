@@ -7,3 +7,6 @@ Encouraging the opening of safety rest areas to the public.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 3:30 pm - [House Transportation](/house/2021-22/TR/) Executive Session

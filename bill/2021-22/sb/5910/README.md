@@ -7,3 +7,6 @@ Accelerating the availability and use of renewable hydrogen in Washington state.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

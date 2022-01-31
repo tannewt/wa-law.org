@@ -15,3 +15,6 @@ The House Appropriations committee will be holding a public hearing on Mon, Jan 
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29661&aId=145217&caId=19157&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19157).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Public Hearing

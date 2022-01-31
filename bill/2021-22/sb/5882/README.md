@@ -7,3 +7,6 @@ Clarifying the existence of riparian stock watering rights.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 1:30 pm - [Senate Agriculture, Water, Natural Resources & Parks](/senate/2021-22/AWNP/) Executive Session

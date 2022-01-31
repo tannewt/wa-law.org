@@ -7,3 +7,6 @@ Modifying the interest rate for the low-income home rehabilitation revolving loa
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 1:30 pm - [House Capital Budget](/house/2021-22/CB/) Public Hearing

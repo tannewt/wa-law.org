@@ -15,3 +15,7 @@ The Senate Law & Justice committee will be holding a public hearing on Mon, Jan 
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29563&aId=144941&caId=19218&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19218).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 9:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Public Hearing
+* Thu, Feb 3 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Executive Session

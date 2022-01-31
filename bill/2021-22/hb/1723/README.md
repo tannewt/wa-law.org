@@ -8,3 +8,6 @@ Closing the digital equity divide by increasing the accessibility and affordabil
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

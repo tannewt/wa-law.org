@@ -16,3 +16,6 @@ The Senate Ways & Means committee will be holding a public hearing on Mon, Jan 3
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29667&aId=145429&caId=19235&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19235).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing

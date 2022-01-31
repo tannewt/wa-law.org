@@ -15,3 +15,6 @@ The House Commerce & Gaming committee will be holding a public hearing on Tue, F
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29733&aId=145369&caId=19179&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19179).
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [House Commerce & Gaming](/house/2021-22/COG/) Public Hearing

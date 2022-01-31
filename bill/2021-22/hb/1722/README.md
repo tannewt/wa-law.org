@@ -7,3 +7,6 @@ Concerning the acceleration of broadband deployment.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

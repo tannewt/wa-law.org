@@ -1,0 +1,18 @@
+# Rules
+## Members
+* [Karen Keiser](/person/leg/karen.keiser.md)
+* [John Braun](/person/leg/john.braun.md)
+* [Andy Billig](/person/leg/andy.billig.md)
+* [Reuven Carlyle](/person/leg/reuven.carlyle.md)
+* [Annette Cleveland](/person/leg/annette.cleveland.md)
+* [Chris Gildon](/person/leg/gildon_ch.md)
+* [Bob Hasegawa](/person/leg/bob.hasegawa.md)
+* [Curtis King](/person/leg/curtis.king.md)
+* [Patty Kuderer](/person/leg/patty.kuderer.md)
+* [Marko Liias](/person/leg/marko.liias.md)
+* [Ron Muzzall](/person/leg/muzzall_ro.md)
+* [Joe Nguyen](/person/leg/nguyen_jo.md)
+* [Jamie Pedersen](/person/leg/jamie.pedersen.md)
+* [Ann Rivers](/person/leg/ann.rivers.md)
+* [Shelly Short](/person/leg/shelly.short.md)
+* [Claire Wilson](/person/leg/wilson_cl.md)

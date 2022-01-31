@@ -15,3 +15,6 @@ The House Health Care & Wellness committee will be holding a public hearing on M
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29694&aId=145282&caId=19198&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19198).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [House Health Care & Wellness](/house/2021-22/HCW/) Public Hearing

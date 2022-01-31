@@ -7,3 +7,6 @@ Addressing surplus public property for affordable housing.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 10:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Executive Session

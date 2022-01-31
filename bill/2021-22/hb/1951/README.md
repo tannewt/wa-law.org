@@ -7,3 +7,6 @@ Concerning seller disclosure statements.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 8:00 am - [House Consumer Protection & Business](/house/2021-22/CPB/) Executive Session

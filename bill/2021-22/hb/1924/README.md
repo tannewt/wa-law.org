@@ -7,3 +7,6 @@ Changing the expiration date for the sales and use tax exemption of hog fuel to 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 10:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

@@ -7,3 +7,6 @@ Concerning department of natural resources' timber and land sales.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 10:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Executive Session

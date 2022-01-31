@@ -7,3 +7,6 @@ Concerning recommendations by the public disclosure commission.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

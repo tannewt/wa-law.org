@@ -15,3 +15,6 @@ The Senate Labor, Commerce & Tribal Affairs committee will be holding a public h
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29731&aId=145358&caId=19225&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19225).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 9:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Public Hearing

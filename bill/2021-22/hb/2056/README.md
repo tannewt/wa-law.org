@@ -15,3 +15,7 @@ The House Education committee will be holding a public hearing on Tue, Feb 1 at 
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29725&aId=145330&caId=19181&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19181).
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [House Education](/house/2021-22/ED/) Public Hearing
+* Thu, Feb 3 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

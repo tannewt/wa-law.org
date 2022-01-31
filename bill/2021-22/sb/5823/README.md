@@ -7,3 +7,6 @@ Addressing local infrastructure project areas.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 10:30 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

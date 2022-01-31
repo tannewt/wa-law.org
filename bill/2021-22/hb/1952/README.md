@@ -15,3 +15,7 @@ The House Local Government committee will be holding a public hearing on Tue, Fe
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29700&aId=145250&caId=19204&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19204).
+
+## Upcoming Meetings
+* Tue, Feb 1 at 10:00 am - [House Local Government](/house/2021-22/LG/) Public Hearing
+* Wed, Feb 2 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

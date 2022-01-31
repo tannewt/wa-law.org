@@ -15,3 +15,7 @@ The House Consumer Protection & Business committee will be holding a public hear
 * 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29670&aId=145094&caId=19180&tId=2)
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19180).
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [House Consumer Protection & Business](/house/2021-22/CPB/) Public Hearing
+* Wed, Feb 2 at 8:00 am - [House Consumer Protection & Business](/house/2021-22/CPB/) Executive Session

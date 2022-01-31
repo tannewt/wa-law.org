@@ -7,3 +7,6 @@ Requiring health carriers to reimburse advanced registered nurse practitioners a
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Jan 31 at 1:30 pm - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Executive Session

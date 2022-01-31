@@ -7,3 +7,6 @@ Protecting tenants from excessive rent and related fees by providing at least si
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 8:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Executive Session
