@@ -25,3 +25,4 @@
 * [HB 1999](/bill/2021-22/hb/1999/) - State expenditure limit | First reading, referred to Appropriations.
 * [HB 2030](/bill/2021-22/hb/2030/) - Involuntary quarantine | First reading, referred to Health Care & Wellness.
 * [HB 2041](/bill/2021-22/hb/2041/) - Health care for minors | First reading, referred to Health Care & Wellness.
+* [HB 2110](/bill/2021-22/hb/2110/) - Fish & wildlife enforcement | First reading, referred to Rural Development, Agriculture & Natural Resources.

@@ -49,6 +49,7 @@ for start_year in range(2021, 2023, 2):
     print(url)
     meetings = requests.get(url, force_fetch=FORCE_FETCH)
     meetings = BeautifulSoup(meetings.text, "xml")
+    biennium_path = pathlib.Path(f"bill/{biennium}")
     all_meetings = []
     count = 0
     end_time = 0
@@ -103,6 +104,12 @@ for start_year in range(2021, 2023, 2):
 
         activity = ""
 
+        testify = False
+
+        bill_path = list(biennium_path.glob(f"*/{bill_number}/README.md"))
+        if bill_path and bill_path[0].exists():
+            bill_path = bill_path[0]
+
         for dt, meeting, item, meeting_dict in meetings:
             if now < dt:
                 if not activity:
@@ -130,10 +137,7 @@ for start_year in range(2021, 2023, 2):
                     for option in testimonyOptions.find_all("a"):
                         testimony_links[option.text] = option["href"]
 
-                    biennium_path = pathlib.Path(f"bill/{biennium}")
-                    bill_path = list(biennium_path.glob(f"*/{bill_number}/README.md"))
-                    if bill_path and bill_path[0].exists():
-                        bill_path = bill_path[0]
+                    if bill_path:
                         new_lines = []
                         committee = meeting.LongName.text
                         testify_date = dt.format("ddd, MMM D") + " at " + dt.format("h:mm a")
@@ -143,7 +147,9 @@ for start_year in range(2021, 2023, 2):
                         new_lines.append(f"* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov{testimony_links[TESTIFY_REMOTE]})")
                         new_lines.append("")
                         new_lines.append(f"Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId={caId}).")
+                        new_lines.append("")
                         utils.add_or_update_section(bill_path, "## Testify", new_lines)
+                        testify = True
             else:
                 if item.HearingType.text != "Public":
                     continue
@@ -179,6 +185,9 @@ for start_year in range(2021, 2023, 2):
 
         if activity:
             active[bill_number] = activity
+
+        if bill_path and not testify:
+            utils.remove_section(bill_path, "## Testify")
 
         # 
         # https://app.leg.wa.gov
@@ -308,6 +317,8 @@ for start_year in range(2021, 2023, 2):
         last_time[agency] = meeting_time
 
         for hearing_type, bill in bills:
+            if bill == "bill/2021-22/hb/1043/README.md":
+                print(start, now)
             if bill not in pages:
                 pages[bill] = ["## Upcoming Meetings"]
             pages[bill].append(f"* {meeting_date} at {meeting_time} - [{agency} {committee_name}](/{agency.lower()}/{biennium}/{acronym}/) {hearing_type}")

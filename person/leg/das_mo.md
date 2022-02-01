@@ -26,4 +26,5 @@
 * [SB 5904](/bill/2021-22/sb/5904/) - Fashion retail disclosures | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5915](/bill/2021-22/sb/5915/) - Diapers/sales & use tax | First reading, referred to Ways & Means.
 * [SB 5932](/bill/2021-22/sb/5932/) - Sales and use tax rate | First reading, referred to Ways & Means.
+* [SB 5962](/bill/2021-22/sb/5962/) - Conservation goal, 30% | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SJR 8210](/bill/2021-22/sjr/8210/) - Natural resources | First reading, referred to Agriculture, Water, Natural Resources & Parks.

@@ -7,3 +7,6 @@ Concerning employer tax incentives for the support of veterans and military fami
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 1 at 1:30 pm - [House Finance](/house/2021-22/FIN/) Executive Session

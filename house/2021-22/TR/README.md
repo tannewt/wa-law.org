@@ -31,16 +31,6 @@
 * [Jim Walsh](/person/leg/jim.walsh.md)
 * [Emily Wicks](/person/leg/wicks_em.md)
 ## Upcoming Meetings
-### Mon, Jan 31 at 3:30 pm
-Public Hearing
-* [HB 2074](/bill/2021-22/hb/2074/) - Concerning fees collected from out-of-state residents who register off-road vehicles in Washington. (Remote testimony.)
-* [HB 2077](/bill/2021-22/hb/2077/) - Concerning the placement of human trafficking informational posters in rest areas. (Remote testimony.)
-* [HB 2084](/bill/2021-22/hb/2084/) - Requiring the joint transportation committee to conduct a study of a third bridge over the Columbia river between southwest Washington and Oregon. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 1 at 3:30 pm
 Public Hearing
 * [HB 1731](/bill/2021-22/hb/1731/) - Enhancing requirements for autonomous vehicle testing. (Remote testimony.)

@@ -7,3 +7,6 @@ Concerning continuity of coverage for prescription drugs prescribed for the trea
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 8:00 am - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Executive Session

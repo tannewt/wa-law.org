@@ -34,20 +34,6 @@
 * [Pat Sullivan](/person/leg/pat.sullivan.md)
 * [Steve Tharinger](/person/leg/steve.tharinger.md)
 ## Upcoming Meetings
-### Mon, Jan 31 at 3:30 pm
-Public Hearing
-* [HB 1659](/bill/2021-22/hb/1659/) - Making higher education more affordable and accessible for students by bridging the gap between cost and need to reduce barriers, improve opportunity, and advance economic security. (Remote testimony.)
-* [HB 1691](/bill/2021-22/hb/1691/) - Concerning financial responsibility requirements related to oil spills. (Remote testimony.)
-* [HB 1736](/bill/2021-22/hb/1736/) - Establishing a state student loan program. (Remote testimony.)
-* [HB 1748](/bill/2021-22/hb/1748/) - Concerning aged, blind, or disabled program eligibility for victims of human trafficking. (Remote testimony.)
-* [HB 1755](/bill/2021-22/hb/1755/) - Concerning temporary assistance for needy families time limit extensions during times of high unemployment. (Remote testimony.)
-* [HB 1835](/bill/2021-22/hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment. (Remote testimony.)
-* [HB 1928](/bill/2021-22/hb/1928/) - Concerning equine industry support. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 1 at 3:30 pm
 Public Hearing
 * [HB 1621](/bill/2021-22/hb/1621/) - Creating programs to encourage sexual assault nurse examiner training. (Remote testimony.)

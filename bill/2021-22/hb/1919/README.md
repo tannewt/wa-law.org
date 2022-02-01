@@ -1,12 +1,9 @@
 # HB 1919 - Public disclosure
 **Primary Sponsor:** [Javier Valdez](/person/leg/javier.valdez.md)
 
-*Status: First reading, referred to State Government & Tribal Relations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1919&Year=2021)
+*Status: SGOV - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1919&Year=2021)
 
 Concerning recommendations by the public disclosure commission.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Jan 31 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

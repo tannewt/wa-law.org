@@ -20,3 +20,4 @@
 * [HB 1981](/bill/2021-22/hb/1981/) - Local government planning | First reading, referred to Local Government.
 * [HB 2039](/bill/2021-22/hb/2039/) - Vapor products | First reading, referred to Commerce & Gaming.
 * [HB 2095](/bill/2021-22/hb/2095/) - School seismic safety grants | First reading, referred to Capital Budget.
+* [HB 2111](/bill/2021-22/hb/2111/) - Newspapers/B&O tax | First reading, referred to Finance.

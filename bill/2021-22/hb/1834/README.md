@@ -1,7 +1,7 @@
 # HB 1834 - Student absences/mental hlth
 **Primary Sponsor:** [Lisa Callan](/person/leg/callan_li.md)
 
-*Status: ED - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1834&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1834&Year=2021)
 
 Concerning student excused absences for mental health reasons.
 

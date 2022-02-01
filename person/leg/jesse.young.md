@@ -13,7 +13,7 @@
 * [HB 1560](/bill/2021-22/hb/1560/) - Possession of substances | By resolution, reintroduced and retained in present status.
 * [HB 1563](/bill/2021-22/hb/1563/) - Gubernatorial orders/relief | By resolution, reintroduced and retained in present status.
 * [HJM 4001](/bill/2021-22/hjm/4001/) - Constitutional convention | By resolution, reintroduced and retained in present status.
-* [HB 1826](/bill/2021-22/hb/1826/) - Interfering with emergency | PS - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1826](/bill/2021-22/hb/1826/) - Interfering with emergency | Referred to Rules 2 Review.
 * [HB 1970](/bill/2021-22/hb/1970/) - Supervision-related fees | First reading, referred to Public Safety.
 * [HB 1994](/bill/2021-22/hb/1994/) - Catalytic converter theft | First reading, referred to Public Safety.
 * [HB 2005](/bill/2021-22/hb/2005/) - Election activity recording | First reading, referred to State Government & Tribal Relations.

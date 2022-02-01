@@ -1,7 +1,7 @@
 # HB 1914 - Motion picture program
 **Primary Sponsor:** [Marcus Riccelli](/person/leg/marcus.riccelli.md)
 
-*Status: CED - Majority; 1st substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1914&Year=2021)
+*Status: Referred to Finance.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1914&Year=2021)
 
 Updating and expanding the motion picture competitiveness program.
 

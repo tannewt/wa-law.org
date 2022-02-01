@@ -7,6 +7,3 @@ Concerning green roofs on large commercial and multifamily buildings.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Wed, Feb 2 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

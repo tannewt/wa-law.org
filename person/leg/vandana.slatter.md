@@ -6,5 +6,5 @@
 * [HB 1659](/bill/2021-22/hb/1659/) - Higher education grants | Referred to Appropriations.
 * [HB 1780](/bill/2021-22/hb/1780/) - Workforce investment board | Referred to Rules 2 Review.
 * [HB 1850](/bill/2021-22/hb/1850/) - Data privacy | First reading, referred to Civil Rights & Judiciary.
-* [HB 2007](/bill/2021-22/hb/2007/) - Nurse educator loans | Minority; without recommendation.
+* [HB 2007](/bill/2021-22/hb/2007/) - Nurse educator loans | Referred to Rules 2 Review.
 * [HB 2089](/bill/2021-22/hb/2089/) - I-405 & SR 167 bond auth. | First reading, referred to Transportation.

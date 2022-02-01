@@ -44,7 +44,7 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Fri, Feb 4 at 8:00 am
 Public Hearing
-* Bills referred to committee.  (Remote testimony.)
+* [HB 1738](/bill/2021-22/hb/1738/) - Changing the total amount of outstanding indebtedness of the Washington state housing finance commission. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

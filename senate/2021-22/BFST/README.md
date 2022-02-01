@@ -10,6 +10,9 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 ## Upcoming Meetings
 ### Tue, Feb 1 at 8:30 am
+Public Hearing
+* Delaying the office of the insurance commissioner from conducting rule making on the use of credit scores in setting insurance premiums [S-4132.2]. (Remote testimony.)
+
 Executive Session
 * [SB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. **19👍** **0👎** **0❓**
 * [SB 5946](/bill/2021-22/sb/5946/) - Protecting consumers from the discontinuance of the London interbank offered rate. **2👍** **0👎** **0❓**

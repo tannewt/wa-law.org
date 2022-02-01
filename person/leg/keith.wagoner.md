@@ -15,9 +15,9 @@
 * [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | Passed to Rules Committee for second reading.
 * [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | Passed to Rules Committee for second reading.
 * [SB 5638](/bill/2021-22/sb/5638/) - Mental health prof. licenses | Passed to Rules Committee for second reading.
-* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
+* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Referred to Ways & Means.
 * [SB 5646](/bill/2021-22/sb/5646/) - Corrections/body scanners | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5679](/bill/2021-22/sb/5679/) - Elections/voter confidence | First reading, referred to State Government & Elections.
-* [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | First reading, referred to Early Learning & K-12 Education.
+* [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Passed to Rules Committee for second reading.
 * [SB 5816](/bill/2021-22/sb/5816/) - 988 line tax | First reading, referred to Health & Long Term Care.
 * [SB 5931](/bill/2021-22/sb/5931/) - Judges pro tempore/COA | First reading, referred to Law & Justice.

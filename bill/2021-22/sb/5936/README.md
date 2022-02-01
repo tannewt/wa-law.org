@@ -18,3 +18,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Tue, Feb 1 at 1:30 pm - [Senate Agriculture, Water, Natural Resources & Parks](/senate/2021-22/AWNP/) Public Hearing
+* Thu, Feb 3 at 1:30 pm - [Senate Agriculture, Water, Natural Resources & Parks](/senate/2021-22/AWNP/) Executive Session

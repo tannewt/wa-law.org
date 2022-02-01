@@ -19,37 +19,28 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Mon, Jan 31 at 4:00 pm
-Public Hearing
-* [SB 5636](/bill/2021-22/sb/5636/) - Concerning secure automatic voter registration. (Remote testimony.)
-* [SB 5750](/bill/2021-22/sb/5750/) - Designating the Washington state leadership board a trustee of the state of Washington. (Remote testimony.)
-* [SB 5726](/bill/2021-22/sb/5726/) - Concerning interruptive military service credit for members of the state retirement systems. (Remote testimony.)
-* [SB 5903](/bill/2021-22/sb/5903/) - Providing multimodal transportation options at drive-up services. (Remote testimony.)
-
-Work Session
-* Vehicle Registration (Car Tabs) Payment Options study update.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 1 at 4:00 pm
-Public Hearing
-* Bills to be determined.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+ To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Thu, Feb 3 at 4:00 pm
 Public Hearing
 * [SB 5724](/bill/2021-22/sb/5724/) - Concerning organ transport vehicles. (Remote testimony.)
+* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts. (Remote testimony.) (If measure is referred to committee.)
 * [SB 5308](/bill/2021-22/sb/5308/) - Reducing certain transportation electrification fees on hybrid vehicles. (Remote testimony.)
 * [SB 5485](/bill/2021-22/sb/5485/) - Prohibiting traffic stops for certain traffic violations. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 * [SB 5908](/bill/2021-22/sb/5908/) - Creating the clean car authority as a new state government agency. (Remote testimony.) (If measure is referred to committee.) **77👍** **452👎** **2❓**
 * [SB 5828](/bill/2021-22/sb/5828/) - Implementing recommendations of the autonomous vehicle work group. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [SSB 5636](/bill/2021-22/sb/5636/) - Concerning secure automatic voter registration. **197👍** **564👎** **5❓**
+* [SB 5750](/bill/2021-22/sb/5750/) - Designating the Washington state leadership board a trustee of the state of Washington. **42👍** **33👎** **0❓**
+* [SB 5741](/bill/2021-22/sb/5741/) - Creating Patches pal special license plates. **24👍** **1👎** **0❓**
+* [SB 5898](/bill/2021-22/sb/5898/) - Concerning the use of vehicle-related fees to fulfill certain state general obligation bonds.
+* [SB 5687](/bill/2021-22/sb/5687/) - Addressing certain traffic safety improvements.
+* [SB 5863](/bill/2021-22/sb/5863/) - Concerning the removal of vehicles by a regional transit authority when obstructing the operation of high capacity transportation vehicles or jeopardizing public safety. **22👍** **0👎** **0❓**
+* [SSB 5332](/bill/2021-22/sb/5332/) - Concerning off-road and wheeled all-terrain vehicles.
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

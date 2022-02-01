@@ -7,3 +7,6 @@ Making it unlawful for public officials and candidates to knowingly make false s
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

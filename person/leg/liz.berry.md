@@ -9,7 +9,7 @@
 * [HB 1173](/bill/2021-22/hb/1173/) - State lands development auth | By resolution, reintroduced and retained in present status.
 * [HB 1206](/bill/2021-22/hb/1206/) - Temporary workers | Effective date 7/25/2021.
 * [HB 1486](/bill/2021-22/hb/1486/) - Unemployment/voluntary | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | Minority; do not pass.
+* [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | Referred to Appropriations.
 * [HB 1705](/bill/2021-22/hb/1705/) - Untraceable guns | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HJM 4002](/bill/2021-22/hjm/4002/) - Jones Act | Referred to Rules 2 Review.
 * [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | Referred to Appropriations.

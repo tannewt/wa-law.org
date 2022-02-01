@@ -1,12 +1,9 @@
 # SB 5704 - ARNP reimbursement rate
 **Primary Sponsor:** [Emily Randall](/person/leg/randall_em.md)
 
-*Status: First reading, referred to Health & Long Term Care.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5704&Year=2021)
+*Status: And refer to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5704&Year=2021)
 
 Requiring health carriers to reimburse advanced registered nurse practitioners at the same rate as physicians for the same services.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Jan 31 at 1:30 pm - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Executive Session

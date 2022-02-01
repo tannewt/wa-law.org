@@ -9,4 +9,4 @@ Providing local governments with options to grant rent relief and preserve affor
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Mon, Jan 31 at 10:00 am - [House Finance](/house/2021-22/FIN/) Executive Session
+* Thu, Feb 3 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

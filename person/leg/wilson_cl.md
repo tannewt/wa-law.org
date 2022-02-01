@@ -8,7 +8,7 @@
 * [SB 5304](/bill/2021-22/sb/5304/) - Reentry services | Effective date 7/25/2021.
 * [SB 5376](/bill/2021-22/sb/5376/) - Education ombuds awareness | First reading, referred to Education.
 * [SB 5413](/bill/2021-22/sb/5413/) - Solitary confinement | By resolution, reintroduced and retained in present status.
-* [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | First reading, referred to Early Learning & K-12 Education.
+* [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | Passed to Rules Committee for second reading.
 * [SB 5498](/bill/2021-22/sb/5498/) - Posthumous H.S. diplomas | Placed on second reading by Rules Committee.
 * [SB 5535](/bill/2021-22/sb/5535/) - Juvenile rehab./parent costs | Referred to Ways & Means.
 * [SB 5553](/bill/2021-22/sb/5553/) - Early STEM metrics | Passed to Rules Committee for second reading.
@@ -19,7 +19,7 @@
 * [SB 5687](/bill/2021-22/sb/5687/) - Traffic safety | First reading, referred to Transportation.
 * [SB 5750](/bill/2021-22/sb/5750/) - WA state leadership board | Referred to Transportation.
 * [SB 5793](/bill/2021-22/sb/5793/) - State boards, etc./stipends | Referred to Ways & Means.
-* [SB 5798](/bill/2021-22/sb/5798/) - Schools/comm. eligibility | First reading, referred to Early Learning & K-12 Education.
+* [SB 5798](/bill/2021-22/sb/5798/) - Schools/comm. eligibility | Referred to Ways & Means.
 * [SB 5859](/bill/2021-22/sb/5859/) - Incarcerated individuals/PRA | First reading, referred to State Government & Elections.
-* [SB 5929](/bill/2021-22/sb/5929/) - WorkFirst poverty task force | First reading, referred to Human Services, Reentry & Rehabilitation.
+* [SB 5929](/bill/2021-22/sb/5929/) - WorkFirst poverty task force | Passed to Rules Committee for second reading.
 * [SB 5930](/bill/2021-22/sb/5930/) - Tribal exchange agreements | First reading, referred to Transportation.

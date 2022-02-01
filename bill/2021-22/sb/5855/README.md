@@ -7,3 +7,6 @@ Concerning the use of campaign funds to reimburse expenses for child care and ot
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

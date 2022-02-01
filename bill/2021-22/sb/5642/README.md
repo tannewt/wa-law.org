@@ -7,3 +7,6 @@ Exempting a sale or transfer of real property for affordable housing to a nonpro
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 8:00 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

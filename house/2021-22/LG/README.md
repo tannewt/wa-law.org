@@ -17,8 +17,6 @@ Executive Session
 * [HB 1782](/bill/2021-22/hb/1782/) - Creating additional middle housing near transit and in areas traditionally dedicated to single-family detached housing.
 * [HB 1981](/bill/2021-22/hb/1981/) - Concerning local government planning.
 * [HB 1769](/bill/2021-22/hb/1769/) - Concerning community municipal corporations. **353👍** **243👎** **0❓**
-* [HB 1996](/bill/2021-22/hb/1996/) - Concerning stormwater control facilities and county jurisdiction. **1👍** **6👎** **1❓**
-* [HB 2063](/bill/2021-22/hb/2063/) - Concerning the number of inhabitants required for incorporation as a city or town. **1👍** **1👎** **1❓**
 * [HB 1971](/bill/2021-22/hb/1971/) - Concerning installation, inspection, testing, and maintenance of smoke control systems and fire dampers, smoke dampers, and combination fire and smoke dampers.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.

@@ -68,94 +68,6 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 
 ## Upcoming Meetings
-### Mon, Jan 31
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/01-31-2022/01-31-2022/Agenda///Bill/)
-#### 9:30 am
-**Law & Justice**
-Public Hearing
-* [SB 5883](/bill/2021-22/sb/5883/) - Concerning an unaccompanied homeless youth's ability to provide informed consent for that minor patient's own health care, including nonemergency, outpatient, and primary care services, including physical examinations, vision examinations and eyeglasses, dental examinations, hearing examinations and hearing aids, immunizations, treatments for illnesses and conditions, and routine follow-up care customarily provided by a health care provider in an outpatient setting, excluding elective surgeries. (Remote testimony.)
-* [SB 5779](/bill/2021-22/sb/5779/) - Concerning oversight of bail funds. (Remote testimony.)
-* [SB 5839](/bill/2021-22/sb/5839/) - Creating the crime of interfering with a firefighter or emergency medical services provider. (Remote testimony.)
-* [SB 5877](/bill/2021-22/sb/5877/) - Addressing antidiscrimination policies in institutions of higher education. (Remote testimony.)
-* [SB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. (Remote testimony.)
-* [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. (Remote testimony.)
-* [SGA 9099](/bill/2021-22/ga/9099/) - Guadalupe Gamboa, Member, Human Rights Commission.
-
-Possible executive session on bills heard in committee. Possible other business. Meeting is scheduled to end at 11:30 a.m.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Labor, Commerce & Tribal Affairs**
-Public Hearing
-* [SB 5751](/bill/2021-22/sb/5751/) - Improving worker safety and patient care in health care facilities by addressing staffing needs, overtime, meal and rest breaks, and enforcement. (Remote testimony.)
-* [SB 5783](/bill/2021-22/sb/5783/) - Reestablishing the underground economy task force. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SB 5914](/bill/2021-22/sb/5914/) - Removing the requirement that an accredited technical or trade school program be not-for-profit to be an approved training program for purposes of journey level and specialty electrician certification. (Remote testimony.)
-
-Executive Session
-* [SB 5604](/bill/2021-22/sb/5604/) - Adding references to contractor licensing laws in workers' compensation, public works, and prevailing wage statutes.
-* [SB 5875](/bill/2021-22/sb/5875/) - Adding employees employed by the department of licensing who are assigned to review, process, approve, and issue driver licenses to the definition of frontline employees under the health emergency labor standards act.
-* [SB 5784](/bill/2021-22/sb/5784/) - Adding psychologists for mental health only claims to the list of those who can act as an attending provider. **15👍** **8👎** **7❓**
-
- Possible other business. Meeting is scheduled to end at 11:30 a.m.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-#### 1:30 pm
-**Early Learning & K-12 Education**
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Health & Long Term Care**
-Public Hearing
-* [SB 5768](/bill/2021-22/sb/5768/) - Enhancing the regulation of vapor products. (Remote testimony.)
-* [SB 5848](/bill/2021-22/sb/5848/) - Concerning licensure for music therapists. (Hearing is on the Proposed Substitute.) (Remote testimony.) **35👍** **58👎** **2❓**
-* [SB 5886](/bill/2021-22/sb/5886/) - Creating an advisory council on rare diseases. (Remote testimony.)
-
-Executive Session
-* [SB 5702](/bill/2021-22/sb/5702/) - Requiring coverage for donor breast milk.
-* [SB 5704](/bill/2021-22/sb/5704/) - Requiring health carriers to reimburse advanced registered nurse practitioners at the same rate as physicians for the same services.
-* [SB 5790](/bill/2021-22/sb/5790/) - Strengthening critical community support services for individuals with intellectual and developmental disabilities. **387👍** **6👎** **3❓**
-* [SB 5819](/bill/2021-22/sb/5819/) - Concerning the developmental disabilities administration's no-paid services caseload. **18👍** **0👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-#### 4:00 pm
-**Transportation**
-Public Hearing
-* [SB 5636](/bill/2021-22/sb/5636/) - Concerning secure automatic voter registration. (Remote testimony.)
-* [SB 5750](/bill/2021-22/sb/5750/) - Designating the Washington state leadership board a trustee of the state of Washington. (Remote testimony.)
-* [SB 5726](/bill/2021-22/sb/5726/) - Concerning interruptive military service credit for members of the state retirement systems. (Remote testimony.)
-* [SB 5903](/bill/2021-22/sb/5903/) - Providing multimodal transportation options at drive-up services. (Remote testimony.)
-
-Work Session
-* Vehicle Registration (Car Tabs) Payment Options study update.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Ways & Means**
-Public Hearing
-* [SB 5581](/bill/2021-22/sb/5581/) - Addressing pupil transportation allocations. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SSB 5595](/bill/2021-22/sb/5595/) - Concerning prototypical school formulas for physical, social, and emotional support in schools. (Remote testimony.)
-* [SB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. (Remote testimony.)
-* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. (Remote testimony.)
-* [SB 5563](/bill/2021-22/sb/5563/) - Concerning enrollment stabilization funding to address enrollment declines due to the COVID-19 pandemic. (Remote testimony.)
-* [SB 5534](/bill/2021-22/sb/5534/) - Concerning the use of verifiable credentials. (Remote testimony.)
-* [SSB 5116](/bill/2021-22/sb/5116/) - Establishing guidelines for government procurement and use of automated decision systems in order to protect consumers, improve transparency, and create more market predictability. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-
-Executive Session
-* [SGA 9289](/bill/2021-22/ga/9289/) - Claire Hesselholt, Member, Board of Tax Appeals.
-* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts.
-* [SB 5873](/bill/2021-22/sb/5873/) - Concerning unemployment insurance, family leave, and medical leave premiums.
-* [SB 5791](/bill/2021-22/sb/5791/) - Concerning law enforcement officers' and firefighters' retirement system benefits.
-* [SSB 5555](/bill/2021-22/sb/5555/) - Concerning public safety telecommunicators.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 1
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-01-2022/02-01-2022/Agenda///Bill/)
 #### 8:00 am
@@ -176,6 +88,9 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 #### 8:30 am
 **Business, Financial Services & Trade**
+Public Hearing
+* Delaying the office of the insurance commissioner from conducting rule making on the use of credit scores in setting insurance premiums [S-4132.2]. (Remote testimony.)
+
 Executive Session
 * [SB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. **19👍** **0👎** **0❓**
 * [SB 5946](/bill/2021-22/sb/5946/) - Protecting consumers from the discontinuance of the London interbank offered rate. **2👍** **0👎** **0❓**
@@ -186,20 +101,6 @@ Possible other business.
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:30 am
-**Law & Justice**
-Public Hearing
-* [SB 5348](/bill/2021-22/sb/5348/) - Concerning assisted reproduction. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. (Remote testimony.)
-* [SB 5919](/bill/2021-22/sb/5919/) - Concerning the standard for law enforcement authority to detain or pursue persons. (Remote testimony.)
-* [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution. (Remote testimony.)
-* [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. (Remote testimony.)
-* [SGA 9130](/bill/2021-22/ga/9130/) - Stanley Rumbaugh, Member, Sentencing Guidelines Commission.
-* [SGA 9369](/bill/2021-22/ga/9369/) - Timothy G Wettack, Member, Sentencing Guidelines Commission.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Environment, Energy & Technology**
 Public Hearing
 * [SGA 9245](/bill/2021-22/ga/9245/) - Ann E Rendahl, Member, Utilities and Transportation Commission.
@@ -210,6 +111,20 @@ Executive Session
 * [SB 5544](/bill/2021-22/sb/5544/) - Establishing the Washington blockchain work group.
 
 Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Law & Justice**
+Public Hearing
+* [SB 5348](/bill/2021-22/sb/5348/) - Concerning assisted reproduction. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. (Remote testimony.)
+* [SB 5919](/bill/2021-22/sb/5919/) - Concerning the standard for law enforcement authority to detain or pursue persons. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+* [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution. (Remote testimony.)
+* [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+* [SGA 9130](/bill/2021-22/ga/9130/) - Stanley Rumbaugh, Member, Sentencing Guidelines Commission.
+* [SGA 9369](/bill/2021-22/ga/9369/) - Timothy G Wettack, Member, Sentencing Guidelines Commission.
+
+Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -224,21 +139,6 @@ Executive Session
 * Bills to be determined.
 
 Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Agriculture, Water, Natural Resources & Parks**
-Public Hearing
-* [SGA 9349](/bill/2021-22/ga/9349/) - Kaleen Cottingham, Member, Salmon Recovery Funding Board.
-* [SB 5826](/bill/2021-22/sb/5826/) - Concerning warm water game fish management. (Remote testimony.)
-* [SB 5951](/bill/2021-22/sb/5951/) - Concerning agricultural hemp products to ensure the safe implementation of Washington state's industrial hemp program. (Remote testimony.)
-* [SB 5936](/bill/2021-22/sb/5936/) - Providing short-term disaster recovery financial assistance to agricultural producers. (Remote testimony.)
-* [SB 5961](/bill/2021-22/sb/5961/) - Incentivizing the use of biochar in government contracts. (Remote testimony.)
-* [SB 5966](/bill/2021-22/sb/5966/) - Concerning cost and water right data provided by the department of ecology prior to a water rights adjudication. (Remote testimony.) (If measure is referred to committee.)
-* [SB 5860](/bill/2021-22/sb/5860/) - Concerning water policy in regions with regulated reductions in aquifer levels. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SB 5643](/bill/2021-22/sb/5643/) - Supporting youth development. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-
-Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -386,6 +286,20 @@ Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
+**Agriculture, Water, Natural Resources & Parks**
+Public Hearing
+* [SGA 9349](/bill/2021-22/ga/9349/) - Kaleen Cottingham, Member, Salmon Recovery Funding Board.
+* [SB 5826](/bill/2021-22/sb/5826/) - Concerning warm water game fish management. (Remote testimony.)
+* [SB 5951](/bill/2021-22/sb/5951/) - Concerning agricultural hemp products to ensure the safe implementation of Washington state's industrial hemp program. (Remote testimony.)
+* [SB 5936](/bill/2021-22/sb/5936/) - Providing short-term disaster recovery financial assistance to agricultural producers. (Remote testimony.)
+* [SB 5961](/bill/2021-22/sb/5961/) - Incentivizing the use of biochar in government contracts. (Remote testimony.)
+* [SB 5860](/bill/2021-22/sb/5860/) - Concerning water policy in regions with regulated reductions in aquifer levels. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+* [SB 5643](/bill/2021-22/sb/5643/) - Supporting youth development. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
 #### 4:00 pm
 **Ways & Means**
 Public Hearing
@@ -403,41 +317,15 @@ Possible executive session on bills heard in committee. Possible other business.
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 **Transportation**
-Public Hearing
-* Bills to be determined.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+ To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 6:00 pm
 **Behavioral Health Subcommittee to Health & Long Term Care**
-Public Hearing
-* Bills to be determined.
-
-Possible executive session on bills heard in committee. Possible other business. Meeting is scheduled to end at 7:30 p.m. 
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+ To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Wed, Feb 2
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-02-2022/02-02-2022/Agenda///Bill/)
 #### 8:00 am
-**State Government & Elections**
-Executive Session
-* Bills to be determined.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Health & Long Term Care**
-Public Hearing
-* [SB 5660](/bill/2021-22/sb/5660/) - Concerning access to psilocybin services by individuals 21 years of age and older. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Environment, Energy & Technology**
 Executive Session
 * [SB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. **26👍** **72👎** **5❓**
@@ -449,8 +337,39 @@ Executive Session
 * [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. **20👍** **0👎** **0❓**
 * [SB 5895](/bill/2021-22/sb/5895/) - Concerning timing restrictions for remedial action grants to local government.
 * [SB 5697](/bill/2021-22/sb/5697/) - Renewing Washington's recycling system and reducing waste.
-* [SB 5732](/bill/2021-22/sb/5732/) - Concerning green roofs on large commercial and multifamily buildings. **151👍** **107👎** **1❓**
 * [SB 5703](/bill/2021-22/sb/5703/) - Concerning the use and disclosure of toxic chemicals in cosmetic products.
+
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**State Government & Elections**
+Executive Session
+* [SB 5896](/bill/2021-22/sb/5896/) - Requiring the department of enterprise services to report on the use of electricity to recharge vehicles at state office locations. **2👍** **0👎** **2❓**
+* [SB 5817](/bill/2021-22/sb/5817/) - Restricting the use of synthetic media in campaigns for elective office. **3👍** **61👎** **2❓**
+* [SB 5855](/bill/2021-22/sb/5855/) - Concerning the use of campaign funds to reimburse expenses for child care and other caregiving services. **16👍** **0👎** **1❓**
+* [SB 5782](/bill/2021-22/sb/5782/) - Concerning the defense community compatibility account. **13👍** **0👎** **0❓**
+* [SB 5854](/bill/2021-22/sb/5854/) - Concerning ethical performance of faculty duties. **22👍** **0👎** **0❓**
+* [SB 5098](/bill/2021-22/sb/5098/) - Concerning certain reports. **0👍** **0👎** **2❓**
+* [SB 5659](/bill/2021-22/sb/5659/) - Establishing climate and labor standards for building materials used in state public works projects. **7👍** **351👎** **8❓**
+* [SB 5909](/bill/2021-22/sb/5909/) - Concerning legislative oversight of gubernatorial powers concerning emergency proclamations and unanticipated receipts. **5055👍** **480👎** **79❓**
+* [SB 5843](/bill/2021-22/sb/5843/) - Making it unlawful for public officials and candidates to knowingly make false statements and claims regarding the election process or results of elections conducted within the state. **77👍** **698👎** **4❓**
+* [SB 5908](/bill/2021-22/sb/5908/) - Creating the clean car authority as a new state government agency. **77👍** **452👎** **2❓**
+
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Health & Long Term Care**
+Public Hearing
+* [SB 5660](/bill/2021-22/sb/5660/) - Concerning access to psilocybin services by individuals 21 years of age and older. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+
+Executive Session
+* [SB 5542](/bill/2021-22/sb/5542/) - Concerning the practice of optometry. **1036👍** **1069👎** **3❓**
+* [SB 5768](/bill/2021-22/sb/5768/) - Enhancing the regulation of vapor products. **74👍** **284👎** **6❓**
+* [SB 5794](/bill/2021-22/sb/5794/) - Concerning continuity of coverage for prescription drugs prescribed for the treatment of behavioral health conditions. **16👍** **2👎** **2❓**
+* [SB 5848](/bill/2021-22/sb/5848/) - Concerning licensure for music therapists. **141👍** **82👎** **4❓**
+* [SB 5886](/bill/2021-22/sb/5886/) - Creating an advisory council on rare diseases. **67👍** **34👎** **0❓**
 
 Possible other business.
 
@@ -468,21 +387,6 @@ Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-**Housing & Local Government**
-Public Hearing
-* [SGA 9392](/bill/2021-22/ga/9392/) - Lowel J Krueger, Member, Housing Finance Commission.
-* [SB 5964](/bill/2021-22/sb/5964/) - Concerning consolidated local permit review processes. (Remote testimony.) (If measure is referred to committee.)
-
-Executive Session
-* [SB 5662](/bill/2021-22/sb/5662/) - Concerning intergovernmental coordination to address transitioning persons encamped on state public rights-of-way to permanent housing solutions.
-* [SB 5823](/bill/2021-22/sb/5823/) - Addressing local infrastructure project areas.
-* [SB 5862](/bill/2021-22/sb/5862/) - Concerning technical changes to the commercial property assessed clean energy and resiliency program. **18👍** **0👎** **0❓**
-* [SB 5832](/bill/2021-22/sb/5832/) - Expanding the multifamily tax exemption program to include converting existing multifamily units. **15👍** **0👎** **1❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Labor, Commerce & Tribal Affairs**
 Public Hearing
 * [SB 5438](/bill/2021-22/sb/5438/) - Providing unemployment benefits to workers who are unemployed as a result of the COVID-19 pandemic and not eligible for unemployment benefits due to immigration status. (Hearing is on the Proposed Substitute.) (Remote testimony.)
@@ -496,6 +400,22 @@ Executive Session
 * [SB 5891](/bill/2021-22/sb/5891/) - Concerning warehouse distribution centers. **21👍** **2👎** **4❓**
 * [SB 5801](/bill/2021-22/sb/5801/) - Concerning attorney and witness fees in industrial insurance court appeals. **20👍** **51👎** **0❓**
 * [SB 5547](/bill/2021-22/sb/5547/) - Expanding regulatory authority over cannabinoids that may be impairing and providing for enhanced product safety and consumer information disclosure about marijuana products.
+* [SB 5911](/bill/2021-22/sb/5911/) - Providing hazard pay retention bonuses to certain health care employees. **31👍** **0👎** **1❓**
+
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Housing & Local Government**
+Public Hearing
+* [SGA 9392](/bill/2021-22/ga/9392/) - Lowel J Krueger, Member, Housing Finance Commission.
+* [SB 5964](/bill/2021-22/sb/5964/) - Concerning consolidated local permit review processes. (Remote testimony.)
+
+Executive Session
+* [SB 5662](/bill/2021-22/sb/5662/) - Concerning intergovernmental coordination to address transitioning persons encamped on state public rights-of-way to permanent housing solutions.
+* [SB 5823](/bill/2021-22/sb/5823/) - Addressing local infrastructure project areas.
+* [SB 5862](/bill/2021-22/sb/5862/) - Concerning technical changes to the commercial property assessed clean energy and resiliency program. **18👍** **0👎** **0❓**
+* [SB 5832](/bill/2021-22/sb/5832/) - Expanding the multifamily tax exemption program to include converting existing multifamily units. **15👍** **0👎** **1❓**
 
 Possible other business.
 
@@ -519,7 +439,13 @@ Public Hearing
 * [SGA 9393](/bill/2021-22/ga/9393/) - Alishia F Topper, Member, Housing Finance Commission.
 * [SB 5954](/bill/2021-22/sb/5954/) - Reducing the impacts and incidences of chronic and unsheltered homelessness. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [SB 5642](/bill/2021-22/sb/5642/) - Exempting a sale or transfer of real property for affordable housing to a nonprofit entity, housing authority, public corporation, county, or municipal corporation from the real estate excise tax. **25👍** **0👎** **0❓**
+* [SB 5923](/bill/2021-22/sb/5923/) - Concerning temporary emergency shelters. **1👍** **1👎** **7❓**
+* [SB 5867](/bill/2021-22/sb/5867/) - Concerning compassionate and effective strategies to address the homelessness crisis.
+* [SB 5964](/bill/2021-22/sb/5964/) - Concerning consolidated local permit review processes.
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -556,16 +482,15 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 Executive Session
 * [SB 5781](/bill/2021-22/sb/5781/) - Concerning organized retail theft. **70👍** **2👎** **0❓**
 * [SB 5942](/bill/2021-22/sb/5942/) - Enacting the uniform college athlete name, image, or likeness act. **5👍** **0👎** **0❓**
-* [SB 5883](/bill/2021-22/sb/5883/) - Concerning an unaccompanied homeless youth's ability to provide informed consent for that minor patient's own health care, including nonemergency, outpatient, and primary care services, including physical examinations, vision examinations and eyeglasses, dental examinations, hearing examinations and hearing aids, immunizations, treatments for illnesses and conditions, and routine follow-up care customarily provided by a health care provider in an outpatient setting, excluding elective surgeries.
-* [SB 5779](/bill/2021-22/sb/5779/) - Concerning oversight of bail funds.
-* [SB 5839](/bill/2021-22/sb/5839/) - Creating the crime of interfering with a firefighter or emergency medical services provider.
-* [SB 5877](/bill/2021-22/sb/5877/) - Addressing antidiscrimination policies in institutions of higher education.
-* [SB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans.
+* [SB 5883](/bill/2021-22/sb/5883/) - Concerning an unaccompanied homeless youth's ability to provide informed consent for that minor patient's own health care, including nonemergency, outpatient, and primary care services, including physical examinations, vision examinations and eyeglasses, dental examinations, hearing examinations and hearing aids, immunizations, treatments for illnesses and conditions, and routine follow-up care customarily provided by a health care provider in an outpatient setting, excluding elective surgeries. **76👍** **468👎** **1❓**
+* [SB 5839](/bill/2021-22/sb/5839/) - Creating the crime of interfering with a firefighter or emergency medical services provider. **13👍** **2👎** **0❓**
+* [SB 5877](/bill/2021-22/sb/5877/) - Addressing antidiscrimination policies in institutions of higher education. **10👍** **2👎** **0❓**
+* [SB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. **3👍** **1👎** **3❓**
 * [SB 5348](/bill/2021-22/sb/5348/) - Concerning assisted reproduction.
 * [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals.
 * [SB 5919](/bill/2021-22/sb/5919/) - Concerning the standard for law enforcement authority to detain or pursue persons.
 * [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution.
-* [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets.
+* [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. **19👍** **2👎** **3❓**
 * [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies.
 * [SGA 9130](/bill/2021-22/ga/9130/) - Stanley Rumbaugh, Member, Sentencing Guidelines Commission.
 * [SGA 9369](/bill/2021-22/ga/9369/) - Timothy G Wettack, Member, Sentencing Guidelines Commission.
@@ -601,6 +526,7 @@ Executive Session
 * [SB 5643](/bill/2021-22/sb/5643/) - Supporting youth development.
 * [SB 5826](/bill/2021-22/sb/5826/) - Concerning warm water game fish management.
 * [SB 5860](/bill/2021-22/sb/5860/) - Concerning water policy in regions with regulated reductions in aquifer levels.
+* [SB 5936](/bill/2021-22/sb/5936/) - Providing short-term disaster recovery financial assistance to agricultural producers.
 * [SB 5951](/bill/2021-22/sb/5951/) - Concerning agricultural hemp products to ensure the safe implementation of Washington state's industrial hemp program.
 * [SB 5961](/bill/2021-22/sb/5961/) - Incentivizing the use of biochar in government contracts.
 
@@ -630,12 +556,22 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 **Transportation**
 Public Hearing
 * [SB 5724](/bill/2021-22/sb/5724/) - Concerning organ transport vehicles. (Remote testimony.)
+* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts. (Remote testimony.) (If measure is referred to committee.)
 * [SB 5308](/bill/2021-22/sb/5308/) - Reducing certain transportation electrification fees on hybrid vehicles. (Remote testimony.)
 * [SB 5485](/bill/2021-22/sb/5485/) - Prohibiting traffic stops for certain traffic violations. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 * [SB 5908](/bill/2021-22/sb/5908/) - Creating the clean car authority as a new state government agency. (Remote testimony.) (If measure is referred to committee.) **77👍** **452👎** **2❓**
 * [SB 5828](/bill/2021-22/sb/5828/) - Implementing recommendations of the autonomous vehicle work group. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [SSB 5636](/bill/2021-22/sb/5636/) - Concerning secure automatic voter registration. **197👍** **564👎** **5❓**
+* [SB 5750](/bill/2021-22/sb/5750/) - Designating the Washington state leadership board a trustee of the state of Washington. **42👍** **33👎** **0❓**
+* [SB 5741](/bill/2021-22/sb/5741/) - Creating Patches pal special license plates. **24👍** **1👎** **0❓**
+* [SB 5898](/bill/2021-22/sb/5898/) - Concerning the use of vehicle-related fees to fulfill certain state general obligation bonds.
+* [SB 5687](/bill/2021-22/sb/5687/) - Addressing certain traffic safety improvements.
+* [SB 5863](/bill/2021-22/sb/5863/) - Concerning the removal of vehicles by a regional transit authority when obstructing the operation of high capacity transportation vehicles or jeopardizing public safety. **22👍** **0👎** **0❓**
+* [SSB 5332](/bill/2021-22/sb/5332/) - Concerning off-road and wheeled all-terrain vehicles.
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

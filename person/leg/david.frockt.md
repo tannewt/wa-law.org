@@ -13,12 +13,12 @@
 * [SB 5586](/bill/2021-22/sb/5586/) - Broadband loans & grants | First reading, referred to Business, Financial Services & Trade.
 * [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | Passed to Rules Committee for second reading.
 * [SB 5651](/bill/2021-22/sb/5651/) - Capital budget, supplemental | First reading, referred to Ways & Means.
-* [SB 5736](/bill/2021-22/sb/5736/) - Minors/behavioral health | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
+* [SB 5736](/bill/2021-22/sb/5736/) - Minors/behavioral health | Referred to Ways & Means.
 * [SB 5817](/bill/2021-22/sb/5817/) - Synthetic media in campaigns | First reading, referred to State Government & Elections.
 * [SB 5843](/bill/2021-22/sb/5843/) - False election statements | First reading, referred to State Government & Elections.
 * [SB 5850](/bill/2021-22/sb/5850/) - Ballot titles/impact discl. | First reading, referred to State Government & Elections.
 * [SB 5870](/bill/2021-22/sb/5870/) - Uniform college athlete act | First reading, referred to Law & Justice.
-* [SB 5894](/bill/2021-22/sb/5894/) - Behav. health/primary care | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
+* [SB 5894](/bill/2021-22/sb/5894/) - Comm. health/primary care | Referred to Ways & Means.
 * [SB 5895](/bill/2021-22/sb/5895/) - Remedial action grants | First reading, referred to Environment, Energy & Technology.
 * [SB 5918](/bill/2021-22/sb/5918/) - Board of regents/faculty | First reading, referred to Higher Education & Workforce Development.
 * [SB 5933](/bill/2021-22/sb/5933/) - School seismic safety grants | First reading, referred to Ways & Means.

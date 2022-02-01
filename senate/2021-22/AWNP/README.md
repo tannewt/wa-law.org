@@ -15,7 +15,6 @@ Public Hearing
 * [SB 5951](/bill/2021-22/sb/5951/) - Concerning agricultural hemp products to ensure the safe implementation of Washington state's industrial hemp program. (Remote testimony.)
 * [SB 5936](/bill/2021-22/sb/5936/) - Providing short-term disaster recovery financial assistance to agricultural producers. (Remote testimony.)
 * [SB 5961](/bill/2021-22/sb/5961/) - Incentivizing the use of biochar in government contracts. (Remote testimony.)
-* [SB 5966](/bill/2021-22/sb/5966/) - Concerning cost and water right data provided by the department of ecology prior to a water rights adjudication. (Remote testimony.) (If measure is referred to committee.)
 * [SB 5860](/bill/2021-22/sb/5860/) - Concerning water policy in regions with regulated reductions in aquifer levels. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 * [SB 5643](/bill/2021-22/sb/5643/) - Supporting youth development. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 
@@ -32,6 +31,7 @@ Executive Session
 * [SB 5643](/bill/2021-22/sb/5643/) - Supporting youth development.
 * [SB 5826](/bill/2021-22/sb/5826/) - Concerning warm water game fish management.
 * [SB 5860](/bill/2021-22/sb/5860/) - Concerning water policy in regions with regulated reductions in aquifer levels.
+* [SB 5936](/bill/2021-22/sb/5936/) - Providing short-term disaster recovery financial assistance to agricultural producers.
 * [SB 5951](/bill/2021-22/sb/5951/) - Concerning agricultural hemp products to ensure the safe implementation of Washington state's industrial hemp program.
 * [SB 5961](/bill/2021-22/sb/5961/) - Incentivizing the use of biochar in government contracts.
 

@@ -14,12 +14,5 @@
 * [Mike Sells](/person/leg/mike.sells.md)
 * [Robert Sutherland](/person/leg/sutherla_ro.md)
 ## Upcoming Meetings
-### Mon, Jan 31 at 1:30 pm
-Work Session
-* Trucking and Supply Chain Workforce Shortages.
-* Cybersecurity Initiatives.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Wed, Feb 2 at 8:00 am
 

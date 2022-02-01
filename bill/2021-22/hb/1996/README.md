@@ -7,6 +7,3 @@ Concerning stormwater control facilities and county jurisdiction.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Tue, Feb 1 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

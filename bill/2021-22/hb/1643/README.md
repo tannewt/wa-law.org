@@ -9,4 +9,4 @@ Exempting a sale or transfer of real property for affordable housing to a nonpro
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Mon, Jan 31 at 10:00 am - [House Finance](/house/2021-22/FIN/) Executive Session
+* Tue, Feb 1 at 1:30 pm - [House Finance](/house/2021-22/FIN/) Executive Session

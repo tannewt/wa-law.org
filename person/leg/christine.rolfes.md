@@ -24,4 +24,4 @@
 * [SB 5693](/bill/2021-22/sb/5693/) - Operating budget, supp. | First reading, referred to Ways & Means.
 * [SB 5727](/bill/2021-22/sb/5727/) - Salmon habitat | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5803](/bill/2021-22/sb/5803/) - Wildfires/electric utilities | First reading, referred to Environment, Energy & Technology.
-* [SB 5878](/bill/2021-22/sb/5878/) - Arts instruction | First reading, referred to Early Learning & K-12 Education.
+* [SB 5878](/bill/2021-22/sb/5878/) - Arts instruction | Passed to Rules Committee for second reading.

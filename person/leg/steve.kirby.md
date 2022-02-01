@@ -12,6 +12,6 @@
 * [HB 1704](/bill/2021-22/hb/1704/) - Service contracts | Referred to Rules 2 Review.
 * [HB 1899](/bill/2021-22/hb/1899/) - DFI data confidentiality | Referred to Rules 2 Review.
 * [HB 1954](/bill/2021-22/hb/1954/) - Tow trucks/transaction fees | First reading, referred to Consumer Protection & Business.
-* [HB 1979](/bill/2021-22/hb/1979/) - Vehicle insurance appraisals | Minority; do not pass.
+* [HB 1979](/bill/2021-22/hb/1979/) - Vehicle insurance appraisals | Referred to Rules 2 Review.
 * [HB 2103](/bill/2021-22/hb/2103/) - Commercial bribery/contracts | First reading, referred to Civil Rights & Judiciary.
 * [HB 2104](/bill/2021-22/hb/2104/) - Abandoned vehicles/sales tax | First reading, referred to Finance.

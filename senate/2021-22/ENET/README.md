@@ -40,7 +40,6 @@ Executive Session
 * [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. **20👍** **0👎** **0❓**
 * [SB 5895](/bill/2021-22/sb/5895/) - Concerning timing restrictions for remedial action grants to local government.
 * [SB 5697](/bill/2021-22/sb/5697/) - Renewing Washington's recycling system and reducing waste.
-* [SB 5732](/bill/2021-22/sb/5732/) - Concerning green roofs on large commercial and multifamily buildings. **151👍** **107👎** **1❓**
 * [SB 5703](/bill/2021-22/sb/5703/) - Concerning the use and disclosure of toxic chemicals in cosmetic products.
 
 Possible other business.

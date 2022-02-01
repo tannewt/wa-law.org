@@ -27,27 +27,6 @@
 * [Judy Warnick](/person/leg/judith.warnick.md)
 * [Lisa Wellman](/person/leg/lisa.wellman.md)
 ## Upcoming Meetings
-### Mon, Jan 31 at 4:00 pm
-Public Hearing
-* [SB 5581](/bill/2021-22/sb/5581/) - Addressing pupil transportation allocations. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SSB 5595](/bill/2021-22/sb/5595/) - Concerning prototypical school formulas for physical, social, and emotional support in schools. (Remote testimony.)
-* [SB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. (Remote testimony.)
-* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. (Remote testimony.)
-* [SB 5563](/bill/2021-22/sb/5563/) - Concerning enrollment stabilization funding to address enrollment declines due to the COVID-19 pandemic. (Remote testimony.)
-* [SB 5534](/bill/2021-22/sb/5534/) - Concerning the use of verifiable credentials. (Remote testimony.)
-* [SSB 5116](/bill/2021-22/sb/5116/) - Establishing guidelines for government procurement and use of automated decision systems in order to protect consumers, improve transparency, and create more market predictability. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-
-Executive Session
-* [SGA 9289](/bill/2021-22/ga/9289/) - Claire Hesselholt, Member, Board of Tax Appeals.
-* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts.
-* [SB 5873](/bill/2021-22/sb/5873/) - Concerning unemployment insurance, family leave, and medical leave premiums.
-* [SB 5791](/bill/2021-22/sb/5791/) - Concerning law enforcement officers' and firefighters' retirement system benefits.
-* [SSB 5555](/bill/2021-22/sb/5555/) - Concerning public safety telecommunicators.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 1 at 4:00 pm
 Public Hearing
 * [SB 5426](/bill/2021-22/sb/5426/) - Improving the equity of Washington state's tax code by creating the Washington state wealth tax and taxing extraordinary financial intangible assets. (Remote testimony.)

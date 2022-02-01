@@ -8,6 +8,3 @@ Concerning public safety telecommunicators.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Jan 31 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

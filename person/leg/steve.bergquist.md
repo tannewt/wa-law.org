@@ -7,4 +7,4 @@
 * [HB 1568](/bill/2021-22/hb/1568/) - Unemployment insurance | By resolution, reintroduced and retained in present status.
 * [HB 1687](/bill/2021-22/hb/1687/) - College bound scholar./GPA | Referred to Rules 2 Review.
 * [HB 1699](/bill/2021-22/hb/1699/) - Work in retirement/schools | Referred to Rules 2 Review.
-* [HB 1701](/bill/2021-22/hb/1701/) - LEOFF benefits | APP - Executive action taken by committee.
+* [HB 1701](/bill/2021-22/hb/1701/) - LEOFF benefits | APP - Majority; 1st substitute bill be substituted, do pass.

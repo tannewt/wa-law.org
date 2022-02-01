@@ -10,9 +10,6 @@
 * [Mark Mullet](/person/leg/mark.mullet.md)
 * [Jamie Pedersen](/person/leg/jamie.pedersen.md)
 ## Upcoming Meetings
-### Mon, Jan 31 at 1:30 pm
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Wed, Feb 2 at 10:30 am
 Work Session
 * Support for children and families.
