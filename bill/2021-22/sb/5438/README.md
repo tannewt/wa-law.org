@@ -16,5 +16,6 @@ The Senate Labor, Commerce & Tribal Affairs committee will be holding a public h
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19260).
 
+
 ## Upcoming Meetings
 * Wed, Feb 2 at 10:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Public Hearing

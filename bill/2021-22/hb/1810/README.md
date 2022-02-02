@@ -8,6 +8,3 @@ Promoting the fair servicing and repair of digital electronic products in a safe
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Tue, Feb 1 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

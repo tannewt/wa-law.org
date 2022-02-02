@@ -11,9 +11,9 @@
 * [HB 1593](/bill/2021-22/hb/1593/) - Landlord mitigation/victims | Referred to Rules 2 Review.
 * [HB 1601](/bill/2021-22/hb/1601/) - Student homelessness pilot | Referred to Appropriations.
 * [HB 1620](/bill/2021-22/hb/1620/) - Extreme weather events | Referred to Rules 2 Review.
-* [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | Referred to Rules 2 Review.
+* [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1650](/bill/2021-22/hb/1650/) - Commercial solicitation | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1697](/bill/2021-22/hb/1697/) - Online services/minors | Referred to Appropriations.
 * [HB 1751](/bill/2021-22/hb/1751/) - Hazing prevention | Referred to Appropriations.
-* [HB 1758](/bill/2021-22/hb/1758/) - Hazing penalty | First reading, referred to Public Safety.
+* [HB 1758](/bill/2021-22/hb/1758/) - Hazing penalty | PS - Executive action taken by committee.
 * [HB 1819](/bill/2021-22/hb/1819/) - Property tax exemption | First reading, referred to Finance.

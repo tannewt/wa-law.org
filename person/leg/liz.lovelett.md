@@ -9,7 +9,7 @@
 * [SB 5598](/bill/2021-22/sb/5598/) - Derelict vessel removal | Referred to Ways & Means.
 * [SB 5619](/bill/2021-22/sb/5619/) - Kelp & eelgrass conservation | Referred to Ways & Means.
 * [SB 5668](/bill/2021-22/sb/5668/) - Gas companies | First reading, referred to Environment, Energy & Technology.
-* [SB 5784](/bill/2021-22/sb/5784/) - Psychologists as attendings | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5784](/bill/2021-22/sb/5784/) - Workers' comp/attending prov | Passed to Rules Committee for second reading.
 * [SB 5785](/bill/2021-22/sb/5785/) - Transitional food assistance | Referred to Ways & Means.
 * [SB 5855](/bill/2021-22/sb/5855/) - Campaign funds/child care | First reading, referred to State Government & Elections.
 * [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | Referred to Housing & Local Government.

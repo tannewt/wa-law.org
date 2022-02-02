@@ -7,6 +7,3 @@ Requiring the department of enterprise services to report on the use of electric
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Wed, Feb 2 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

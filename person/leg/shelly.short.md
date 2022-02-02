@@ -3,7 +3,7 @@
 * [SB 5060](/bill/2021-22/sb/5060/) - Preservation of water rights | By resolution, reintroduced and retained in present status.
 * [SB 5072](/bill/2021-22/sb/5072/) - Birth cert., stillbirth | By resolution, reintroduced and retained in present status.
 * [SB 5168](/bill/2021-22/sb/5168/) - Electric utility advisory | By resolution, reintroduced and retained in present status.
-* [SB 5275](/bill/2021-22/sb/5275/) - Intense rural dev. areas | Third reading, passed; yeas, 46; nays, 1; absent, 0; excused, 2.
+* [SB 5275](/bill/2021-22/sb/5275/) - Intense rural dev. areas | First reading, referred to Local Government.
 * [SB 5276](/bill/2021-22/sb/5276/) - Significant legislative rule | By resolution, reintroduced and retained in present status.
 * [SB 5277](/bill/2021-22/sb/5277/) - Early achievers prg/suspend | By resolution, reintroduced and retained in present status.
 * [SB 5308](/bill/2021-22/sb/5308/) - Hybrid vehicle fees | By resolution, reintroduced and retained in present status.
@@ -14,6 +14,6 @@
 * [SB 5594](/bill/2021-22/sb/5594/) - Bone marrow donation aware. | Passed to Rules Committee for second reading.
 * [SB 5601](/bill/2021-22/sb/5601/) - School district boards | First reading, referred to Early Learning & K-12 Education.
 * [SB 5640](/bill/2021-22/sb/5640/) - Motion picture program/rural | First reading, referred to Business, Financial Services & Trade.
-* [SB 5641](/bill/2021-22/sb/5641/) - Greenhouses | Third reading, passed; yeas, 44; nays, 0; absent, 0; excused, 5.
+* [SB 5641](/bill/2021-22/sb/5641/) - Greenhouses | First reading, referred to Local Government.
 * [SB 5678](/bill/2021-22/sb/5678/) - Energy project orders | Referred to Ways & Means.
 * [SB 5876](/bill/2021-22/sb/5876/) - Noise/essential services | First reading, referred to Environment, Energy & Technology.

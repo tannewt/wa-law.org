@@ -9,3 +9,6 @@ Reducing liquor license fees temporarily.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 10:00 am - [House Commerce & Gaming](/house/2021-22/COG/) Executive Session

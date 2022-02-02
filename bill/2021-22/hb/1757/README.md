@@ -7,6 +7,3 @@ Concerning educational service district participation in health benefit plans of
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Tue, Feb 1 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

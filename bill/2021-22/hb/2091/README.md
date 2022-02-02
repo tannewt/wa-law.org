@@ -16,5 +16,6 @@ The House Finance committee will be holding a public hearing on Thu, Feb 3 at 8:
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19194).
 
+
 ## Upcoming Meetings
 * Thu, Feb 3 at 8:00 am - [House Finance](/house/2021-22/FIN/) Public Hearing

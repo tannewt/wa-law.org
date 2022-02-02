@@ -11,7 +11,7 @@
 * [SB 5462](/bill/2021-22/sb/5462/) - State data breach claims | By resolution, reintroduced and retained in present status.
 * [SB 5509](/bill/2021-22/sb/5509/) - Fentanyl testing equipment | Passed to Rules Committee for second reading.
 * [SB 5511](/bill/2021-22/sb/5511/) - Uniform standard time | First reading, referred to State Government & Elections.
-* [ESB 5512](/bill/2021-22/esb/5512/) - State nickname | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [ESB 5512](/bill/2021-22/esb/5512/) - State nickname | First reading, referred to State Government & Tribal Relations.
 * [SB 5524](/bill/2021-22/sb/5524/) - Fentanyl/homicide penalty | First reading, referred to Law & Justice.
 * [SB 5632](/bill/2021-22/sb/5632/) - Water infra. projects | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5661](/bill/2021-22/sb/5661/) - Fish and wildlife commission | First reading, referred to Agriculture, Water, Natural Resources & Parks.

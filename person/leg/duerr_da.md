@@ -10,7 +10,7 @@
 * [HB 1663](/bill/2021-22/hb/1663/) - Landfill methane emissions | Referred to Appropriations.
 * [HB 1714](/bill/2021-22/hb/1714/) - Impact fee deferrals | Referred to Rules 2 Review.
 * [HB 1768](/bill/2021-22/hb/1768/) - Energy conservation projects | Referred to Rules 2 Review.
-* [HB 1769](/bill/2021-22/hb/1769/) - Community municipal corps | First reading, referred to Local Government.
+* [HB 1769](/bill/2021-22/hb/1769/) - Community municipal corps | LG - Executive action taken by committee.
 * [HB 1770](/bill/2021-22/hb/1770/) - Energy codes | Referred to Rules 2 Review.
-* [HB 1978](/bill/2021-22/hb/1978/) - Shoreline master programs | Third reading, passed; yeas, 93; nays, 1; absent, 0; excused, 4.
+* [HB 1978](/bill/2021-22/hb/1978/) - Shoreline master programs | First reading, referred to Environment, Energy & Technology (Not Officially read and referred until adoption of Introduction report).
 * [HB 1990](/bill/2021-22/hb/1990/) - SR 167 & I-405 tax deferral | First reading, referred to Finance.

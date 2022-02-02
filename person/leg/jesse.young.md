@@ -1,6 +1,6 @@
 # Jesse Young
 ## Bills
-* [HB 1231](/bill/2021-22/hb/1231/) - Traffic lane merge education | By resolution, reintroduced and retained in present status.
+* [HB 1231](/bill/2021-22/hb/1231/) - Traffic lane merge education | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1235](/bill/2021-22/hb/1235/) - School construction taxes | By resolution, reintroduced and retained in present status.
 * [HB 1270](/bill/2021-22/hb/1270/) - Leadership skills grant prg. | By resolution, reintroduced and retained in present status.
 * [HB 1296](/bill/2021-22/hb/1296/) - Behavioral health admin orgs | Effective date 4/26/2021.

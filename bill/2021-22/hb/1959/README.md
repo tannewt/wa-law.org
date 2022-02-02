@@ -7,3 +7,6 @@ Concerning managed health care system rate review.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 2 at 8:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Executive Session

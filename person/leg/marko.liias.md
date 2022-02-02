@@ -16,7 +16,7 @@
 * [SB 5288](/bill/2021-22/sb/5288/) - Opportunity scholarship prog | Senate Rules "X" file.
 * [SB 5313](/bill/2021-22/sb/5313/) - Health ins. discrimination | Effective date 7/25/2021.
 * [SB 5390](/bill/2021-22/sb/5390/) - Housing supply | By resolution, reintroduced and retained in present status.
-* [SB 5508](/bill/2021-22/sb/5508/) - Insurance guaranty fund | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [SB 5508](/bill/2021-22/sb/5508/) - Insurance guaranty fund | First reading, referred to Health Care & Wellness.
 * [SCR 8401](/bill/2021-22/scr/8401/) - Cutoff dates | Filed with Secretary of State.
 * [SCR 8402](/bill/2021-22/scr/8402/) - Emergency orders extension | Filed with Secretary of State.
 * [SCR 8403](/bill/2021-22/scr/8403/) - Cutoff/Chinese American hist | Senate Rules "X" file.

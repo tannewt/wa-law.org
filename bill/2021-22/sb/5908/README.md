@@ -16,6 +16,7 @@ The Senate Transportation committee will be holding a public hearing on Thu, Feb
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19264).
 
+
 ## Upcoming Meetings
 * Wed, Feb 2 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session
 * Thu, Feb 3 at 4:00 pm - [Senate Transportation](/senate/2021-22/TRAN/) Public Hearing

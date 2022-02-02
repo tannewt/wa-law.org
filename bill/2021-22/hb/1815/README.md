@@ -8,3 +8,6 @@ Deterring catalytic converter theft.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 1:30 pm - [House Transportation](/house/2021-22/TR/) Public Hearing

@@ -17,5 +17,6 @@ The Senate Ways & Means committee will be holding a public hearing on Fri, Feb 4
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19274).
 
+
 ## Upcoming Meetings
 * Fri, Feb 4 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing

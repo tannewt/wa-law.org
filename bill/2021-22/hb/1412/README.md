@@ -10,6 +10,3 @@ Concerning legal financial obligations.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
-
-## Upcoming Meetings
-* Tue, Feb 1 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

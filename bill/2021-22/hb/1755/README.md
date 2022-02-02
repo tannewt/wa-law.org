@@ -7,3 +7,6 @@ Concerning temporary assistance for needy families time limit extensions during 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 1:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

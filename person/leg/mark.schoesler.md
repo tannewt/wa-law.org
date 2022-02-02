@@ -16,5 +16,5 @@
 * [SB 5643](/bill/2021-22/sb/5643/) - Youth development programs | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | Passed to Rules Committee for second reading.
 * [SB 5786](/bill/2021-22/sb/5786/) - Puget Sound nutrient permits | First reading, referred to Environment, Energy & Technology.
-* [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | First reading, referred to Ways & Means.
+* [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | Passed to Rules Committee for second reading.
 * [SB 5800](/bill/2021-22/sb/5800/) - Tax and revenue laws | Passed to Rules Committee for second reading.

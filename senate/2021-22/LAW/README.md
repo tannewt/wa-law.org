@@ -12,20 +12,6 @@
 * [Jesse Salomon](/person/leg/salomon_je.md)
 * [Keith Wagoner](/person/leg/keith.wagoner.md)
 ## Upcoming Meetings
-### Tue, Feb 1 at 10:30 am
-Public Hearing
-* [SB 5348](/bill/2021-22/sb/5348/) - Concerning assisted reproduction. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. (Remote testimony.)
-* [SB 5919](/bill/2021-22/sb/5919/) - Concerning the standard for law enforcement authority to detain or pursue persons. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution. (Remote testimony.)
-* [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SGA 9130](/bill/2021-22/ga/9130/) - Stanley Rumbaugh, Member, Sentencing Guidelines Commission.
-* [SGA 9369](/bill/2021-22/ga/9369/) - Timothy G Wettack, Member, Sentencing Guidelines Commission.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 3 at 10:30 am
 Executive Session
 * [SB 5781](/bill/2021-22/sb/5781/) - Concerning organized retail theft. **70👍** **2👎** **0❓**
@@ -34,12 +20,12 @@ Executive Session
 * [SB 5839](/bill/2021-22/sb/5839/) - Creating the crime of interfering with a firefighter or emergency medical services provider. **13👍** **2👎** **0❓**
 * [SB 5877](/bill/2021-22/sb/5877/) - Addressing antidiscrimination policies in institutions of higher education. **10👍** **2👎** **0❓**
 * [SB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. **3👍** **1👎** **3❓**
-* [SB 5348](/bill/2021-22/sb/5348/) - Concerning assisted reproduction.
-* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals.
-* [SB 5919](/bill/2021-22/sb/5919/) - Concerning the standard for law enforcement authority to detain or pursue persons.
-* [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution.
+* [SB 5348](/bill/2021-22/sb/5348/) - Concerning assisted reproduction. **9👍** **0👎** **0❓**
+* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. **4👍** **0👎** **0❓**
+* [SB 5919](/bill/2021-22/sb/5919/) - Concerning the standard for law enforcement authority to detain or pursue persons. **630👍** **732👎** **2❓**
+* [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution. **15👍** **3👎** **0❓**
 * [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. **19👍** **2👎** **3❓**
-* [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies.
+* [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. **11👍** **0👎** **1❓**
 * [SGA 9130](/bill/2021-22/ga/9130/) - Stanley Rumbaugh, Member, Sentencing Guidelines Commission.
 * [SGA 9369](/bill/2021-22/ga/9369/) - Timothy G Wettack, Member, Sentencing Guidelines Commission.
 * [SGA 9099](/bill/2021-22/ga/9099/) - Guadalupe Gamboa, Member, Human Rights Commission.

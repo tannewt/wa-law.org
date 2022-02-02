@@ -1,0 +1,32 @@
+# Substitute Senate Bill 5704 as Recommended by Health & Long Term Care
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5704-S.pdf)
+## Section 1
+Given the gravity of the COVID-19 crisis and the threat future pandemics present to the residents of Washington, the legislature recognizes the importance of supporting health care practitioners throughout the state. This act intends to help maintain a sufficient number of health care providers, especially in underserved and rural communities, by requiring health carriers to reimburse advanced registered nurse practitioners and physicians the same rate for providing the same health care services.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [48.43](/rcw/48_insurance/48.043_insurance_reform.md). Here is the [modified chapter](rcw/48_insurance/48.043_insurance_reform.md) for context.
+
+1. For health plans issued or renewed on or after January 1, 2023, a health carrier may not reimburse a contracted health care practitioner who is an advanced registered nurse practitioner licensed under chapter 18.79 RCW in an amount less than the allowed amount that the health carrier would reimburse for the same service if provided by a contracted provider who is a physician licensed under chapter 18.57 or 18.71 RCW in the same service area as defined in WAC 284-43-0160.
+
+2. A health carrier may not reduce the reimbursement amount paid to physicians licensed under chapter 18.57 or 18.71 RCW to comply with this section.
+
+3. The office of the insurance commissioner shall collect data from insurers on the implementation of this act beginning January 1, 2023, and report back to the legislature, in the manner provided in RCW 43.01.036, no later than January 1, 2024:
+
+    a. The number of insurers who changed reimbursement rates in response to this act;
+
+    b. The number of advanced registered nurse practitioners whose reimbursement rates were increased as a result of this act;
+
+    c. The number of physicians whose reimbursement rates were decreased as a result of this act; and
+
+    d. The costs incurred by each insurer to implement this section.
+
+4. This section does not apply to advanced registered nurse practitioners who are employees of a health maintenance organization regulated under chapter 48.46 RCW.
+
+
+## Section 3
+> This section modifies existing section [41.05.017](/rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.05_state_health_care_authority.md) for context.
+
+Each health plan that provides medical insurance offered under this chapter, including plans created by insuring entities, plans not subject to the provisions of Title 48 RCW, and plans created under RCW 41.05.140, are subject to the provisions of RCW 48.43.500, 70.02.045, 48.43.505 through 48.43.535, 48.43.537, 48.43.545, 48.43.550, 70.02.110, 70.02.900, 48.43.190, 48.43.083, 48.43.0128,  chapter 48.49 RCW**, and section 2 of this act**.
+

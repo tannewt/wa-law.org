@@ -7,3 +7,6 @@ Concerning aged, blind, or disabled program eligibility for victims of human tra
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 3 at 1:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

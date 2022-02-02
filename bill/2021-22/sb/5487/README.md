@@ -7,3 +7,6 @@ Concerning small school district consolidation incentives for infrastructure enh
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 4 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

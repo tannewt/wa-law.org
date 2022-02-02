@@ -8,3 +8,4 @@
 * [HB 2043](/bill/2021-22/hb/2043/) - Child exploitation/fees | First reading, referred to Public Safety.
 * [HB 2065](/bill/2021-22/hb/2065/) - COVID-19 remedies | First reading, referred to Health Care & Wellness.
 * [HB 2067](/bill/2021-22/hb/2067/) - Relinquished water alloc. | First reading, referred to Rural Development, Agriculture & Natural Resources.
+* [HB 2114](/bill/2021-22/hb/2114/) - Start-up businesses/B&O tax | First reading, referred to Finance.

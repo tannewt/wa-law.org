@@ -13,21 +13,6 @@
 * [Judy Warnick](/person/leg/judith.warnick.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Tue, Feb 1 at 8:00 am
-Public Hearing
-* [ESHB 1333](/bill/2021-22/hb/1333/) - Providing an extension to the local sales and use tax for public facilities in rural counties. (Remote testimony.)
-* [HB 1376](/bill/2021-22/hb/1376/) - Concerning registration of land titles. (Remote testimony.)
-* [E2SHB 1099](/bill/2021-22/hb/1099/) - Improving the state's climate response through updates to the state's comprehensive planning framework. (Remote testimony.)
-
-Executive Session
-* [SB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of vacant lands in urban areas.
-* [SB 5825](/bill/2021-22/sb/5825/) - Establishing a rental and vacant property registration program work group.
-* [SB 5818](/bill/2021-22/sb/5818/) - Promoting housing construction in cities through amendments to and limiting appeals under the state environmental policy act and growth management act.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Wed, Feb 2 at 10:30 am
 Public Hearing
 * [SGA 9392](/bill/2021-22/ga/9392/) - Lowel J Krueger, Member, Housing Finance Commission.

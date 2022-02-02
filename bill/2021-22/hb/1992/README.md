@@ -9,4 +9,4 @@ Concerning vacation leave accrual for public employees.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 1 at 10:00 am - [House Labor & Workplace Standards](/house/2021-22/LAWS/) Executive Session
+* Wed, Feb 2 at 10:00 am - [House Labor & Workplace Standards](/house/2021-22/LAWS/) Executive Session

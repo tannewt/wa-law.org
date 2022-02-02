@@ -15,7 +15,7 @@
 * [SB 5344](/bill/2021-22/sb/5344/) - Federal funding/COVID-19 | By resolution, reintroduced and retained in present status.
 * [SB 5505](/bill/2021-22/sb/5505/) - Farmers market prop. tax ex. | Passed to Rules Committee for second reading.
 * [SB 5585](/bill/2021-22/sb/5585/) - Domestic wastewater fees | On motion, referred to Rules Committee for second reading.
-* [SB 5616](/bill/2021-22/sb/5616/) - Accounts | First reading, referred to Ways & Means.
+* [SB 5616](/bill/2021-22/sb/5616/) - Accounts | Referred to Transportation.
 * [SB 5626](/bill/2021-22/sb/5626/) - Water system plans/climate | Referred to Ways & Means.
 * [SB 5633](/bill/2021-22/sb/5633/) - Forest loss prevention | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5637](/bill/2021-22/sb/5637/) - Forest practices fees | Passed to Rules Committee for second reading.

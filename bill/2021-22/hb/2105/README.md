@@ -9,5 +9,4 @@ Concerning service of notice on landlords and tenants.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 1 at 8:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Public Hearing
 * Thu, Feb 3 at 10:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Executive Session

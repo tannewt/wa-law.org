@@ -9,4 +9,4 @@ Increasing the personal property tax exemption.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 1 at 1:30 pm - [House Finance](/house/2021-22/FIN/) Executive Session
+* Fri, Feb 4 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

@@ -1,9 +1,10 @@
-# SB 5784 - Psychologists as attendings
+# SB 5784 - Workers' comp/attending prov
 **Primary Sponsor:** [Liz Lovelett](/person/leg/liz.lovelett.md)
 
-*Status: First reading, referred to Labor, Commerce & Tribal Affairs.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5784&Year=2021)
+*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5784&Year=2021)
 
-Adding psychologists for mental health only claims to the list of those who can act as an attending provider.
+Defining attending provider for all workers' compensation claims and adding psychologists as attending providers for mental health only claims.
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

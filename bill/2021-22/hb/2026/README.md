@@ -16,5 +16,6 @@ The House Transportation committee will be holding a public hearing on Thu, Feb 
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19215).
 
+
 ## Upcoming Meetings
 * Thu, Feb 3 at 1:30 pm - [House Transportation](/house/2021-22/TR/) Public Hearing

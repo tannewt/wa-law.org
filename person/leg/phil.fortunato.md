@@ -27,7 +27,7 @@
 * [SB 5502](/bill/2021-22/sb/5502/) - WSDOT graffiti removal order | First reading, referred to Law & Justice.
 * [SB 5516](/bill/2021-22/sb/5516/) - Abortion information/consent | First reading, referred to Health & Long Term Care.
 * [SB 5525](/bill/2021-22/sb/5525/) - Water quality actions | First reading, referred to Environment, Energy & Technology.
-* [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. minerals | First reading, referred to Business, Financial Services & Trade.
+* [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. materials | BFST - Majority; 1st substitute bill be substituted, do pass.
 * [SB 5556](/bill/2021-22/sb/5556/) - Eviction moratorium/lodging | First reading, referred to Housing & Local Government.
 * [SB 5574](/bill/2021-22/sb/5574/) - New counties | First reading, referred to Housing & Local Government.
 * [SB 5591](/bill/2021-22/sb/5591/) - Emergency housing & shelters | First reading, referred to Housing & Local Government.
@@ -45,4 +45,5 @@
 * [SB 5867](/bill/2021-22/sb/5867/) - Emerg. overnight shelters | First reading, referred to Housing & Local Government.
 * [SB 5887](/bill/2021-22/sb/5887/) - Special session procedures | First reading, referred to State Government & Elections.
 * [SB 5953](/bill/2021-22/sb/5953/) - Abandoned vehicles/sales tax | First reading, referred to Ways & Means.
+* [SB 5968](/bill/2021-22/sb/5968/) - Salmon populations/effect | First reading, referred to Agriculture, Water, Natural Resources & Parks (Not Officially read and referred until adoption of Introduction report).
 * [SJR 8211](/bill/2021-22/sjr/8211/) - Revenue for highway purposes | First reading, referred to Transportation.

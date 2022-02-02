@@ -9,4 +9,4 @@ Clarifying the method for determining the value of specified tangible personal p
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 1 at 1:30 pm - [House Finance](/house/2021-22/FIN/) Executive Session
+* Thu, Feb 3 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

@@ -11,8 +11,8 @@
 * [SB 5375](/bill/2021-22/sb/5375/) - Low-income housing assist. | On motion, referred to Rules Committee for second reading.
 * [SB 5384](/bill/2021-22/sb/5384/) - Volunteer firefighters | Effective date 4/16/2021.
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
-* [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | Third reading, passed; yeas, 43; nays, 0; absent, 0; excused, 6.
-* [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | Third reading, passed; yeas, 41; nays, 3; absent, 0; excused, 5.
+* [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | First reading, referred to Community & Economic Development.
+* [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Referred to Ways & Means.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | Referred to Ways & Means.

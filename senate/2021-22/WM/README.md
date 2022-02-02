@@ -27,21 +27,6 @@
 * [Judy Warnick](/person/leg/judith.warnick.md)
 * [Lisa Wellman](/person/leg/lisa.wellman.md)
 ## Upcoming Meetings
-### Tue, Feb 1 at 4:00 pm
-Public Hearing
-* [SB 5426](/bill/2021-22/sb/5426/) - Improving the equity of Washington state's tax code by creating the Washington state wealth tax and taxing extraordinary financial intangible assets. (Remote testimony.)
-* [SB 5216](/bill/2021-22/sb/5216/) - Concerning additional transparency and accountability for tax preferences. (Remote testimony.)
-* [SJR 8206](/bill/2021-22/jr/8206/) - Amending the state Constitution to provide a homestead property tax exemption. (Remote testimony.)
-* [SB 5463](/bill/2021-22/sb/5463/) - Exempting a portion of the valuation of residential property from property taxation. (Remote testimony.)
-* [SB 5913](/bill/2021-22/sb/5913/) - Concerning property tax relief for senior citizens and service-connected disabled veterans. (Remote testimony.)
-
-Work Session
-* Tax structure work group.
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 3 at 4:00 pm
 Public Hearing
 * [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. (Remote testimony.)
@@ -62,7 +47,15 @@ Public Hearing
 * [SSB 5600](/bill/2021-22/sb/5600/) - Concerning the sustainability and expansion of state registered apprenticeship programs. (Remote testimony.)
 * [SSB 5793](/bill/2021-22/sb/5793/) - Allowing compensation for lived experience on boards, commissions, councils, committees, and other similar groups. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business. Meeting is scheduled to end at 6:00 p.m. 
+Executive Session
+* [SB 5539](/bill/2021-22/sb/5539/) - Concerning state funding for educational service districts. **69👍** **229👎** **0❓**
+* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. **1👍** **2👎** **7❓**
+* [SB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. **73👍** **0👎** **1❓**
+* [SB 5566](/bill/2021-22/sb/5566/) - Expanding eligibility for the independent youth housing program. **102👍** **0👎** **0❓**
+* [SSB 5033](/bill/2021-22/sb/5033/) - Limiting the property tax exemption for improvements to single-family dwellings to the construction of accessory dwelling units. **11👍** **36👎** **0❓**
+* [SB 5534](/bill/2021-22/sb/5534/) - Concerning the use of verifiable credentials. **14👍** **0👎** **0❓**
+
+Possible other business. Meeting is scheduled to end at 6:00 p.m. 
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

@@ -16,6 +16,7 @@ The Senate Housing & Local Government committee will be holding a public hearing
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19288).
 
+
 ## Upcoming Meetings
 * Wed, Feb 2 at 10:30 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Public Hearing
 * Thu, Feb 3 at 8:00 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

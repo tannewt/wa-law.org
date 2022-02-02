@@ -1,13 +1,10 @@
 # HB 1844 - Unlawful branding of person
 **Primary Sponsor:** [Gina Mosbrucker](/person/leg/gina.mosbrucker.md)
 
-*Status: First reading, referred to Public Safety.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1844&Year=2021)
+*Status: PS - Majority; 1st substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1844&Year=2021)
 
 Creating the offense of unlawful branding of another person.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Tue, Feb 1 at 8:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session
-* Thu, Feb 3 at 10:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session
+* [Substitute Bill](S/)

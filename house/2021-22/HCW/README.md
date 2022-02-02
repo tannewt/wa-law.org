@@ -25,6 +25,7 @@ Executive Session
 * [HB 1286](/bill/2021-22/hb/1286/) - Adopting the psychology interjurisdictional compact. **114👍** **0👎** **0❓**
 * [HB 1813](/bill/2021-22/hb/1813/) - Concerning freedom of pharmacy choice.
 * [HB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing.
+* [HB 1959](/bill/2021-22/hb/1959/) - Concerning managed health care system rate review. **8👍** **1👎** **0❓**
 
 Work Session
 * New state-mandated health benefits and the Affordable Care Act.

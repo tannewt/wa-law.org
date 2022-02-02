@@ -16,7 +16,7 @@
 * [SB 5722](/bill/2021-22/sb/5722/) - Greenhouse gases/buildings | First reading, referred to Environment, Energy & Technology.
 * [SB 5729](/bill/2021-22/sb/5729/) - Hearing deadlines/good cause | Passed to Rules Committee for second reading.
 * [SB 5744](/bill/2021-22/sb/5744/) - Clean tech. tax deferrals | First reading, referred to Environment, Energy & Technology.
-* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Third reading, passed; yeas, 43; nays, 0; absent, 0; excused, 6.
+* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | First reading, referred to State Government & Tribal Relations.
 * [SB 5828](/bill/2021-22/sb/5828/) - Autonomous vehicles | First reading, referred to Transportation.
-* [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | Minority; do not pass.
+* [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | Passed to Rules Committee for second reading.
 * [SB 5963](/bill/2021-22/sb/5963/) - Working families' tax exempt | First reading, referred to Ways & Means.

@@ -19,13 +19,10 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Tue, Feb 1 at 4:00 pm
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 3 at 4:00 pm
 Public Hearing
 * [SB 5724](/bill/2021-22/sb/5724/) - Concerning organ transport vehicles. (Remote testimony.)
-* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts. (Remote testimony.) (If measure is referred to committee.)
+* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts. (Remote testimony.)
 * [SB 5308](/bill/2021-22/sb/5308/) - Reducing certain transportation electrification fees on hybrid vehicles. (Remote testimony.)
 * [SB 5485](/bill/2021-22/sb/5485/) - Prohibiting traffic stops for certain traffic violations. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 * [SB 5908](/bill/2021-22/sb/5908/) - Creating the clean car authority as a new state government agency. (Remote testimony.) (If measure is referred to committee.) **77👍** **452👎** **2❓**

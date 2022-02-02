@@ -12,9 +12,9 @@
 * [HB 1665](/bill/2021-22/hb/1665/) - DCYF oversight board members | First reading, referred to Children, Youth & Families.
 * [HB 1892](/bill/2021-22/hb/1892/) - Drug diversion database | First reading, referred to Public Safety.
 * [HB 1922](/bill/2021-22/hb/1922/) - Fentanyl possession | First reading, referred to Public Safety.
-* [HB 1955](/bill/2021-22/hb/1955/) - Dependency/education | First reading, referred to Education.
-* [HB 1957](/bill/2021-22/hb/1957/) - Disaster recovery assistance | Referred to Rules 2 Review.
+* [HB 1955](/bill/2021-22/hb/1955/) - Dependency/education | ED - Executive action taken by committee.
+* [HB 1957](/bill/2021-22/hb/1957/) - Disaster recovery assistance | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 2011](/bill/2021-22/hb/2011/) - Skill center funding | First reading, referred to Appropriations.
 * [HB 2014](/bill/2021-22/hb/2014/) - Outdoor school | First reading, referred to Education.
 * [HB 2051](/bill/2021-22/hb/2051/) - Agricultural disaster assist | First reading, referred to Appropriations.
-* [HB 2078](/bill/2021-22/hb/2078/) - Outdoor school | First reading, referred to Education.
+* [HB 2078](/bill/2021-22/hb/2078/) - Outdoor school | ED - Executive action taken by committee.
