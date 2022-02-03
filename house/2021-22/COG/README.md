@@ -16,5 +16,6 @@ Executive Session
 * [HB 1855](/bill/2021-22/hb/1855/) - Concerning a craft cannabis endorsement.
 * [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. **85👍** **22👎** **4❓**
 * [HB 2025](/bill/2021-22/hb/2025/) - Amending types of nonprofit organizations qualified to engage in certain bingo gambling activities and changes to the number of occurrences for unlicensed bingo activities. **5👍** **1👎** **0❓**
+* [HB 2080](/bill/2021-22/hb/2080/) - Creating a liquor license endorsement. **7👍** **0👎** **1❓**
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

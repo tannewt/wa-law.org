@@ -1,7 +1,7 @@
 # Manka Dhingra
 ## Bills
 * [SB 5035](/bill/2021-22/sb/5035/) - Drug offender scoring | Senate Rules "X" file.
-* [SB 5036](/bill/2021-22/sb/5036/) - Total confinement release | Placed on third reading by Rules Committee.
+* [SB 5036](/bill/2021-22/sb/5036/) - Total confinement release | Third reading, passed; yeas, 28; nays, 19; absent, 0; excused, 2.
 * [SB 5066](/bill/2021-22/sb/5066/) - Officer duty to intervene | Effective date 7/25/2021.
 * [SB 5067](/bill/2021-22/sb/5067/) - Impeachment disclosures | By resolution, reintroduced and retained in present status.
 * [SB 5069](/bill/2021-22/sb/5069/) - Law enforcement audits | By resolution, reintroduced and retained in present status.
@@ -24,5 +24,5 @@
 * [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Referred to Ways & Means.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.
-* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | First reading, referred to Health & Long Term Care.
+* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | And refer to Ways & Means.
 * [SB 5845](/bill/2021-22/sb/5845/) - Civil protection orders | First reading, referred to Law & Justice.

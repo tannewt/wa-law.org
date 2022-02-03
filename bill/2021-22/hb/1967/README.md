@@ -1,7 +1,7 @@
 # HB 1967 - Nonprofits/property tax
 **Primary Sponsor:** [Mike Steele](/person/leg/mike.steele.md)
 
-*Status: FIN - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1967&Year=2021)
+*Status: FIN - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1967&Year=2021)
 
 Concerning property tax exemptions for nonprofits.
 

@@ -13,6 +13,6 @@
 * [SB 5528](/bill/2021-22/sb/5528/) - RTA additive revenue | First reading, referred to Transportation.
 * [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | Passed to Rules Committee for second reading.
 * [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | First reading, referred to Civil Rights & Judiciary.
-* [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | Placed on second reading by Rules Committee.
+* [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | Passed to Rules Committee for second reading.
 * [SCR 8404](/bill/2021-22/scr/8404/) - Cutoff dates | Filed with Secretary of State.

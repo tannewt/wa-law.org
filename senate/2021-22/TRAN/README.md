@@ -22,10 +22,10 @@
 ### Thu, Feb 3 at 4:00 pm
 Public Hearing
 * [SB 5724](/bill/2021-22/sb/5724/) - Concerning organ transport vehicles. (Remote testimony.)
-* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts. (Remote testimony.)
+* [SB 5616](/bill/2021-22/sb/5616/) - Concerning accounts. (Hearing is on the Proposed Second Substitute.) (Remote testimony.)
 * [SB 5308](/bill/2021-22/sb/5308/) - Reducing certain transportation electrification fees on hybrid vehicles. (Remote testimony.)
 * [SB 5485](/bill/2021-22/sb/5485/) - Prohibiting traffic stops for certain traffic violations. (Hearing is on the Proposed Substitute.) (Remote testimony.)
-* [SB 5908](/bill/2021-22/sb/5908/) - Creating the clean car authority as a new state government agency. (Remote testimony.) (If measure is referred to committee.) **77👍** **452👎** **2❓**
+* [SB 5908](/bill/2021-22/sb/5908/) - Creating the clean car authority as a new state government agency. (Hearing is on the Proposed Substitute.) (Remote testimony.) **77👍** **452👎** **2❓**
 * [SB 5828](/bill/2021-22/sb/5828/) - Implementing recommendations of the autonomous vehicle work group. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 
 Executive Session
@@ -52,6 +52,15 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 ### Sat, Feb 5 at 10:00 am
 Public Hearing
 * Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Mon, Feb 7 at 12:30 pm
+Public Hearing
+* [SB 5930](/bill/2021-22/sb/5930/) - Allowing tribal governments to participate in exchange agreements without certain restrictions. (Remote testimony.)
+* [SB 5622](/bill/2021-22/sb/5622/) - Modifying the operation of motorcycles on roadways laned for traffic. (Remote testimony.)
 
 Possible executive session on bills heard in committee. Possible other business.
 

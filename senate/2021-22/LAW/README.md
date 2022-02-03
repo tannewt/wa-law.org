@@ -26,6 +26,7 @@ Executive Session
 * [SB 5947](/bill/2021-22/sb/5947/) - Concerning property exempt from execution. **15👍** **3👎** **0❓**
 * [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. **19👍** **2👎** **3❓**
 * [SB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. **11👍** **0👎** **1❓**
+* [SB 5495](/bill/2021-22/sb/5495/) - Concerning catalytic converters. **130👍** **3👎** **2❓**
 * [SGA 9130](/bill/2021-22/ga/9130/) - Stanley Rumbaugh, Member, Sentencing Guidelines Commission.
 * [SGA 9369](/bill/2021-22/ga/9369/) - Timothy G Wettack, Member, Sentencing Guidelines Commission.
 * [SGA 9099](/bill/2021-22/ga/9099/) - Guadalupe Gamboa, Member, Human Rights Commission.

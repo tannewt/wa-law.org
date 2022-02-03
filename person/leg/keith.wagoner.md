@@ -21,3 +21,4 @@
 * [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Passed to Rules Committee for second reading.
 * [SB 5816](/bill/2021-22/sb/5816/) - 988 line tax | First reading, referred to Health & Long Term Care.
 * [SB 5931](/bill/2021-22/sb/5931/) - Judges pro tempore/COA | First reading, referred to Law & Justice.
+* [SB 5970](/bill/2021-22/sb/5970/) - Vehicle taxes & fees | First reading, referred to Transportation.

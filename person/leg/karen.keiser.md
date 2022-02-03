@@ -23,7 +23,7 @@
 * [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | Referred to Ways & Means.
 * [SB 5604](/bill/2021-22/sb/5604/) - Contractor licensing refs | Passed to Rules Committee for second reading.
 * [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.
-* [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | Minority; do not pass.
 * [SB 5840](/bill/2021-22/sb/5840/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
 * [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | Passed to Rules Committee for second reading.
-* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | Minority; without recommendation.

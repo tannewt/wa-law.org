@@ -15,4 +15,4 @@
 * [HB 1736](/bill/2021-22/hb/1736/) - State student loan program | Referred to Appropriations.
 * [HCR 4405](/bill/2021-22/hcr/4405/) - Bill status for 2022 session | Filed with Secretary of State.
 * [HCR 4406](/bill/2021-22/hcr/4406/) - State of the state address | Filed with Secretary of State.
-* [HCR 4407](/bill/2021-22/hcr/4407/) - Redistricting plan | Read first time, rules suspended, and placed on second reading calendar.
+* [HCR 4407](/bill/2021-22/hcr/4407/) - Redistricting plan | Third reading, adopted.

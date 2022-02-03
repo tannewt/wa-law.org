@@ -7,7 +7,7 @@
 * [HB 1227](/bill/2021-22/hb/1227/) - Child abuse allegations | Effective date 7/25/2021*.
 * [HB 1363](/bill/2021-22/hb/1363/) - Secondary trauma/K-12 | Effective date 7/25/2021.
 * [HB 1746](/bill/2021-22/hb/1746/) - Students/COVID-19 pandemic | Referred to Appropriations.
-* [HB 1747](/bill/2021-22/hb/1747/) - Child relative placements | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1747](/bill/2021-22/hb/1747/) - Child relative placements | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [HB 1840](/bill/2021-22/hb/1840/) - Community colleges/diversity | Referred to Appropriations.
 * [HB 1847](/bill/2021-22/hb/1847/) - Farmworkers study | First reading, referred to Labor & Workplace Standards.
 * [HB 2102](/bill/2021-22/hb/2102/) - Farmworkers study & audits | First reading, referred to Appropriations.

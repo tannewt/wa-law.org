@@ -5,7 +5,7 @@
 * [SB 5014](/bill/2021-22/sb/5014/) - Odd-numbered year ballots | By resolution, reintroduced and retained in present status.
 * [SB 5015](/bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes | Effective date 7/25/2021.
 * [SB 5021](/bill/2021-22/sb/5021/) - Retirement benefits/furlough | Effective date 7/25/2021.
-* [SB 5098](/bill/2021-22/sb/5098/) - Reports | By resolution, reintroduced and retained in present status.
+* [SB 5098](/bill/2021-22/sb/5098/) - Reports | Passed to Rules Committee for second reading.
 * [SB 5224](/bill/2021-22/sb/5224/) - Land survey markers | By resolution, reintroduced and retained in present status.
 * [SB 5225](/bill/2021-22/sb/5225/) - Direct appeals/APA, land use | Effective date 6/13/2021*.
 * [SB 5250](/bill/2021-22/sb/5250/) - Citizens' initiative review | By resolution, reintroduced and retained in present status.
@@ -21,7 +21,7 @@
 * [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Passed to Rules Committee for second reading.
 * [SB 5636](/bill/2021-22/sb/5636/) - Automatic voter registration | Referred to Transportation.
 * [SB 5698](/bill/2021-22/sb/5698/) - Plan 1 retiree COLAs | First reading, referred to Ways & Means.
-* [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | Placed on second reading by Rules Committee.
+* [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5905](/bill/2021-22/sb/5905/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.
 * [SB 5917](/bill/2021-22/sb/5917/) - Productivity board | First reading, referred to State Government & Elections.
 * [SB 5925](/bill/2021-22/sb/5925/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.

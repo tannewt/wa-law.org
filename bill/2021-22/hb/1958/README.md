@@ -7,3 +7,6 @@ Accelerating rural job growth and promoting economic recovery across Washington 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 4 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Executive Session

@@ -1,7 +1,7 @@
 # SB 5908 - Clean car authority
 **Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
 
-*Status: First reading, referred to State Government & Elections.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5908&Year=2021)
+*Status: Referred to Transportation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5908&Year=2021)
 
 Creating the clean car authority as a new state government agency.
 
@@ -18,5 +18,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 
 ## Upcoming Meetings
-* Wed, Feb 2 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session
 * Thu, Feb 3 at 4:00 pm - [Senate Transportation](/senate/2021-22/TRAN/) Public Hearing

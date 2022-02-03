@@ -9,10 +9,10 @@
 * [HB 1564](/bill/2021-22/hb/1564/) - Transportation spending | By resolution, reintroduced and retained in present status.
 * [HB 1785](/bill/2021-22/hb/1785/) - WSP minimum salary | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1786](/bill/2021-22/hb/1786/) - Transportation budget, supp. | First reading, referred to Transportation.
-* [HB 1931](/bill/2021-22/hb/1931/) - Hydropower license fees | First reading, referred to Appropriations.
+* [HB 1931](/bill/2021-22/hb/1931/) - Hydropower license fees | Minority; without recommendation.
 * [HB 1932](/bill/2021-22/hb/1932/) - Recyclability | First reading, referred to Environment & Energy.
-* [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | First reading, referred to Transportation.
+* [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | TR - Executive action taken by committee.
 * [HB 1969](/bill/2021-22/hb/1969/) - Traffic cameras/speed | First reading, referred to Transportation.
-* [HB 2024](/bill/2021-22/hb/2024/) - SR 520 sales tax deferral | First reading, referred to Transportation.
+* [HB 2024](/bill/2021-22/hb/2024/) - SR 520 sales tax deferral | TR - Majority; do pass.
 * [HB 2063](/bill/2021-22/hb/2063/) - Incorporation/population | First reading, referred to Local Government.
 * [HB 2108](/bill/2021-22/hb/2108/) - Historic auto museums/tax | First reading, referred to Finance.

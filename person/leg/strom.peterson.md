@@ -13,7 +13,7 @@
 * [HB 1738](/bill/2021-22/hb/1738/) - Housing finance comm'n debt | Referred to Capital Budget.
 * [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | Referred to Appropriations.
 * [HB 1756](/bill/2021-22/hb/1756/) - Solitary confinement | Referred to Appropriations.
-* [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | HHSV - Executive action taken by committee.
+* [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | Minority; without recommendation.
 * [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | First reading, referred to Law & Justice (Not Officially read and referred until adoption of Introduction report).
 * [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | First reading, referred to Housing, Human Services & Veterans.

@@ -6,7 +6,7 @@
 * [HB 1700](/bill/2021-22/hb/1700/) - Derelict vessel removal | First reading, referred to Agriculture, Water, Natural Resources & Parks (Not Officially read and referred until adoption of Introduction report).
 * [HB 1733](/bill/2021-22/hb/1733/) - Long-term care/exemptions | Delivered to Governor.
 * [HB 1760](/bill/2021-22/hb/1760/) - Dual credit program access | Referred to Appropriations.
-* [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [HB 1805](/bill/2021-22/hb/1805/) - Opportunity scholarship prog | Referred to Appropriations.
-* [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | ED - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | Referred to Rules 2 Review.
 * [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | First reading, referred to Finance.

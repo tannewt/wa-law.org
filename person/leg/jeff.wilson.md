@@ -15,7 +15,7 @@
 * [SB 5495](/bill/2021-22/sb/5495/) - Catalytic converters | First reading, referred to Law & Justice.
 * [SJR 8203](/bill/2021-22/sjr/8203/) - Term limits | By resolution, reintroduced and retained in present status.
 * [SB 5635](/bill/2021-22/sb/5635/) - Tow truck safety | First reading, referred to Transportation.
-* [SB 5650](/bill/2021-22/sb/5650/) - Elections law violation info | First reading, referred to State Government & Elections.
+* [SB 5650](/bill/2021-22/sb/5650/) - Elections law violation info | Passed to Rules Committee for second reading.
 * [SB 5856](/bill/2021-22/sb/5856/) - Firearm transfers to museums | First reading, referred to Law & Justice.
 * [SB 5871](/bill/2021-22/sb/5871/) - Microschool pilot project | First reading, referred to Early Learning & K-12 Education.
 * [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | First reading, referred to Transportation.

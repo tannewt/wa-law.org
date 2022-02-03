@@ -21,7 +21,7 @@
 * [SB 5627](/bill/2021-22/sb/5627/) - Workers' comp. exam rights | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5658](/bill/2021-22/sb/5658/) - Recyclability | First reading, referred to Environment, Energy & Technology.
 * [SB 5671](/bill/2021-22/sb/5671/) - Liquor and cannabis board | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | Placed on second reading by Rules Committee.
+* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5708](/bill/2021-22/sb/5708/) - Fur products | First reading, referred to Law & Justice.
 * [SB 5717](/bill/2021-22/sb/5717/) - Compost products | First reading, referred to Environment, Energy & Technology.
 * [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Passed to Rules Committee for second reading.

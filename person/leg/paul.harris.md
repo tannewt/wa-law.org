@@ -6,5 +6,5 @@
 * [HB 1676](/bill/2021-22/hb/1676/) - Tobacco & vapor products/tax | First reading, referred to Finance.
 * [HB 1684](/bill/2021-22/hb/1684/) - Drinking water fluoridation | Referred to Appropriations.
 * [HB 1686](/bill/2021-22/hb/1686/) - Biodegradable product labels | First reading, referred to Environment & Energy.
-* [HB 1791](/bill/2021-22/hb/1791/) - Prof. educator reprimands | ED - Executive action taken by committee.
-* [HB 1972](/bill/2021-22/hb/1972/) - Negligent driving penalties | PS - Executive action taken by committee.
+* [HB 1791](/bill/2021-22/hb/1791/) - Prof. educator reprimands | Minority; do not pass.
+* [HB 1972](/bill/2021-22/hb/1972/) - Negligent driving penalties | PS - Majority; 1st substitute bill be substituted, do pass.

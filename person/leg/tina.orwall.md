@@ -9,9 +9,9 @@
 * [HB 1465](/bill/2021-22/hb/1465/) - Estate tax | By resolution, reintroduced and retained in present status.
 * [HB 1477](/bill/2021-22/hb/1477/) - National 988 system | Effective date 7/25/2021*.
 * [HB 1703](/bill/2021-22/hb/1703/) - 911 emergency communications | Referred to Rules 2 Review.
-* [HB 1848](/bill/2021-22/hb/1848/) - Assisted reproduction fraud | PS - Majority; do pass.
+* [HB 1848](/bill/2021-22/hb/1848/) - Assisted reproduction fraud | Referred to Rules 2 Review.
 * [HB 1849](/bill/2021-22/hb/1849/) - War on terror monument | Referred to Rules 2 Review.
-* [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | PS - Executive action taken by committee.
-* [HB 1989](/bill/2021-22/hb/1989/) - Comm. sexual exploitation | CYF - Executive action taken by committee.
+* [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | PS - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1989](/bill/2021-22/hb/1989/) - Comm. sexual exploitation | Minority; do not pass.
 * [HB 2052](/bill/2021-22/hb/2052/) - Comm. service org. contracts | Referred to Rules 2 Review.
 * [HB 2088](/bill/2021-22/hb/2088/) - Foreclosure timeline | First reading, referred to Civil Rights & Judiciary.

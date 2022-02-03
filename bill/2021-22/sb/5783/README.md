@@ -1,12 +1,9 @@
 # SB 5783 - Underground economy
 **Primary Sponsor:** [Steve Conway](/person/leg/steve.conway.md)
 
-*Status: First reading, referred to Labor, Commerce & Tribal Affairs.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5783&Year=2021)
+*Status: LCTA - Majority; 1st substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5783&Year=2021)
 
 Reestablishing the underground economy task force.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Wed, Feb 2 at 10:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

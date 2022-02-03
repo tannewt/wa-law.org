@@ -7,6 +7,6 @@
 * [HB 1759](/bill/2021-22/hb/1759/) - School websites/drug info. | Referred to Rules 2 Review.
 * [HB 1779](/bill/2021-22/hb/1779/) - Surgical smoke | Referred to Rules 2 Review.
 * [HB 1803](/bill/2021-22/hb/1803/) - School director compensation | Referred to Appropriations.
-* [HB 1834](/bill/2021-22/hb/1834/) - Student absences/mental hlth | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1834](/bill/2021-22/hb/1834/) - Student absences/mental hlth | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [HB 1890](/bill/2021-22/hb/1890/) - Children behavioral health | Referred to Appropriations.
 * [HB 2040](/bill/2021-22/hb/2040/) - Behavioral health licensing | First reading, referred to Health Care & Wellness.

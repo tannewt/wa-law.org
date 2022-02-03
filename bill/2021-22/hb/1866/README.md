@@ -1,12 +1,9 @@
 # HB 1866 - Supportive housing
 **Primary Sponsor:** [Frank Chopp](/person/leg/frank.chopp.md)
 
-*Status: First reading, referred to Health Care & Wellness.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1866&Year=2021)
+*Status: HCW - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1866&Year=2021)
 
 Assisting persons receiving community support services through medical assistance programs to receive supportive housing.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Wed, Feb 2 at 8:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Executive Session

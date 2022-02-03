@@ -9,9 +9,11 @@
 * [Derek Stanford](/person/leg/derek.stanford.md)
 ## Upcoming Meetings
 ### Thu, Feb 3 at 1:30 pm
+Public Hearing
+* [SB 5972](/bill/2021-22/sb/5972/) - Concerning extending the expiration date of a statute dealing with wildlife conflict resolution. (Remote testimony.) (If measure is referred to committee.)
+
 Executive Session
 * [SGA 9349](/bill/2021-22/ga/9349/) - Kaleen Cottingham, Member, Salmon Recovery Funding Board.
-* [SB 5633](/bill/2021-22/sb/5633/) - Planning for the prevention of permanent loss of forests in Washington state.
 * [SB 5885](/bill/2021-22/sb/5885/) - Concerning marine shoreline habitat. **42👍** **0👎** **4❓**
 * [SB 5882](/bill/2021-22/sb/5882/) - Clarifying the existence of riparian stock watering rights. **403👍** **25👎** **2❓**
 * [SB 5643](/bill/2021-22/sb/5643/) - Supporting youth development. **21👍** **0👎** **1❓**
@@ -20,6 +22,7 @@ Executive Session
 * [SB 5936](/bill/2021-22/sb/5936/) - Providing short-term disaster recovery financial assistance to agricultural producers. **45👍** **0👎** **0❓**
 * [SB 5951](/bill/2021-22/sb/5951/) - Concerning agricultural hemp products to ensure the safe implementation of Washington state's industrial hemp program. **5👍** **13👎** **2❓**
 * [SB 5961](/bill/2021-22/sb/5961/) - Incentivizing the use of biochar in government contracts. **4👍** **0👎** **0❓**
+* [SB 5972](/bill/2021-22/sb/5972/) - Concerning extending the expiration date of a statute dealing with wildlife conflict resolution. (If measure is referred to committee.)
 
 Work Session
 * Governor's salmon package.

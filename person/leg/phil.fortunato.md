@@ -27,7 +27,7 @@
 * [SB 5502](/bill/2021-22/sb/5502/) - WSDOT graffiti removal order | First reading, referred to Law & Justice.
 * [SB 5516](/bill/2021-22/sb/5516/) - Abortion information/consent | First reading, referred to Health & Long Term Care.
 * [SB 5525](/bill/2021-22/sb/5525/) - Water quality actions | First reading, referred to Environment, Energy & Technology.
-* [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. materials | BFST - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. materials | Passed to Rules Committee for second reading.
 * [SB 5556](/bill/2021-22/sb/5556/) - Eviction moratorium/lodging | First reading, referred to Housing & Local Government.
 * [SB 5574](/bill/2021-22/sb/5574/) - New counties | First reading, referred to Housing & Local Government.
 * [SB 5591](/bill/2021-22/sb/5591/) - Emergency housing & shelters | First reading, referred to Housing & Local Government.

@@ -17,5 +17,5 @@
 * [HB 1718](/bill/2021-22/hb/1718/) - Fur products | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1783](/bill/2021-22/hb/1783/) - Freight transporters/L&I | First reading, referred to Labor & Workplace Standards.
 * [HB 1841](/bill/2021-22/hb/1841/) - ADU rental/property tax | First reading, referred to Finance.
-* [HB 1941](/bill/2021-22/hb/1941/) - Active shooter drills | ED - Majority; 1st substitute bill be substituted, do pass.
-* [HB 2020](/bill/2021-22/hb/2020/) - Sustainable housing/GMA | First reading, referred to Local Government.
+* [HB 1941](/bill/2021-22/hb/1941/) - Active shooter drills | Referred to Rules 2 Review.
+* [HB 2020](/bill/2021-22/hb/2020/) - Sustainable housing/GMA | Minority; do not pass.

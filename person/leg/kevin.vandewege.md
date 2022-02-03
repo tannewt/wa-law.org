@@ -6,7 +6,7 @@
 * [SB 5146](/bill/2021-22/sb/5146/) - Fish and wildlife/indemnify | Effective date 7/25/2021.
 * [SB 5176](/bill/2021-22/sb/5176/) - Boater safety education | By resolution, reintroduced and retained in present status.
 * [SB 5199](/bill/2021-22/sb/5199/) - Tribal fishing rights | By resolution, reintroduced and retained in present status.
-* [SB 5201](/bill/2021-22/sb/5201/) - DNR timber & land sales | First reading, referred to Rural Development, Agriculture & Natural Resources.
+* [SB 5201](/bill/2021-22/sb/5201/) - DNR timber & land sales | RDAN - Majority; do pass.
 * [SB 5203](/bill/2021-22/sb/5203/) - Generic prescription drugs | Effective date 7/25/2021.
 * [ESB 5220](/bill/2021-22/esb/5220/) - Salmon recovery grants/tax | Effective date 4/26/2021*.
 * [SB 5300](/bill/2021-22/sb/5300/) - Feeding of garbage to swine | Senate Rules "X" file.

@@ -19,3 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Fri, Feb 4 at 8:00 am - [House Finance](/house/2021-22/FIN/) Public Hearing
+* Mon, Feb 7 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

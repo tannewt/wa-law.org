@@ -1,12 +1,10 @@
 # HB 2020 - Sustainable housing/GMA
 **Primary Sponsor:** [Amy Walen](/person/leg/walen_am.md)
 
-*Status: First reading, referred to Local Government.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2020&Year=2021)
+*Status: Minority; do not pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2020&Year=2021)
 
 Concerning the creation of affordable and sustainable housing in the state.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Wed, Feb 2 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
+* [Substitute Bill](S/)

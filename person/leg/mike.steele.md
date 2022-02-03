@@ -6,7 +6,7 @@
 * [HB 1908](/bill/2021-22/hb/1908/) - Surplus property for housing | First reading, referred to Housing, Human Services & Veterans.
 * [HB 1948](/bill/2021-22/hb/1948/) - Failing water systems | First reading, referred to Local Government.
 * [HB 1966](/bill/2021-22/hb/1966/) - Local infra. investment prg | Referred to Finance.
-* [HB 1967](/bill/2021-22/hb/1967/) - Nonprofits/property tax | FIN - Executive action taken by committee.
+* [HB 1967](/bill/2021-22/hb/1967/) - Nonprofits/property tax | FIN - Majority; do pass.
 * [HB 2055](/bill/2021-22/hb/2055/) - Higher ed. capital grants | First reading, referred to Capital Budget.
 * [HB 2056](/bill/2021-22/hb/2056/) - K-12 instructional materials | First reading, referred to Education.
 * [HB 2072](/bill/2021-22/hb/2072/) - Manuf. homes as real prop. | First reading, referred to Civil Rights & Judiciary.

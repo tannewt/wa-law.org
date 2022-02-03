@@ -23,11 +23,11 @@
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | Referred to Transportation.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Passed to Rules Committee for second reading.
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Passed to Rules Committee for second reading.
-* [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Placed on second reading by Rules Committee.
+* [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Third reading, passed; yeas, 42; nays, 5; absent, 0; excused, 2.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Referred to Ways & Means.
 * [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Passed to Rules Committee for second reading.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
 * [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | Referred to Ways & Means.
-* [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Referred to State Government & Elections.
-* [SB 5901](/bill/2021-22/sb/5901/) - Economic dev. tax incentives | And refer to Ways & Means.
-* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | First reading, referred to State Government & Elections.
+* [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Passed to Rules Committee for second reading.
+* [SB 5901](/bill/2021-22/sb/5901/) - Economic dev. tax incentives | Referred to Ways & Means.
+* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Passed to Rules Committee for second reading.

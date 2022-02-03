@@ -8,4 +8,4 @@
 * [SB 5728](/bill/2021-22/sb/5728/) - Drug forfeiture collections | Placed on second reading by Rules Committee.
 * [SB 5771](/bill/2021-22/sb/5771/) - Basic ed./caseload forecast | Referred to Ways & Means.
 * [SB 5841](/bill/2021-22/sb/5841/) - Law enf. employment | Referred to Ways & Means.
-* [SB 5886](/bill/2021-22/sb/5886/) - Rare diseases adv. council | First reading, referred to Health & Long Term Care.
+* [SB 5886](/bill/2021-22/sb/5886/) - Rare diseases adv. council | And refer to Ways & Means.

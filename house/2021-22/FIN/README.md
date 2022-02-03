@@ -26,7 +26,6 @@ Public Hearing
 * [HB 2091](/bill/2021-22/hb/2091/) - Creating pathways to recovery from addiction by eliminating an obsolete tax preference for the warehousing of opioids and other drugs. (Remote testimony.)
 
 Executive Session
-* [HB 1921](/bill/2021-22/hb/1921/) - Concerning the valuation of property related to renewable energy for the purposes of property tax and providing for a payment in lieu of taxes for renewable energy facilities.
 * [HB 1035](/bill/2021-22/hb/1035/) - Providing local governments with options to grant rent relief and preserve affordable housing in their communities.
 * [HB 1841](/bill/2021-22/hb/1841/) - Incentivizing rental of accessory dwelling units to low-income households.
 * [HB 1666](/bill/2021-22/hb/1666/) - Clarifying the method for determining the value of specified tangible personal property incorporated as part of certain public infrastructure for the purposes of use tax and business and occupation tax.
@@ -49,7 +48,14 @@ Executive Session
 * [HB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
 * [HB 1819](/bill/2021-22/hb/1819/) - Increasing the personal property tax exemption.
 * [HJR 4208](/bill/2021-22/jr/4208/) - Concerning the taxation of personal property.
+* [HB 1921](/bill/2021-22/hb/1921/) - Concerning the valuation of property related to renewable energy for the purposes of property tax and providing for a payment in lieu of taxes for renewable energy facilities.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Mon, Feb 7 at 8:00 am
+Executive Session
+* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

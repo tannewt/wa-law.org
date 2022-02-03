@@ -121,87 +121,6 @@
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Wed, Feb 2
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-02-2022/02-02-2022/Agenda///Bill/)
-#### 8:00 am
-**State Government & Tribal Relations**
-Executive Session
-* [HB 1652](/bill/2021-22/hb/1652/) - Concerning conservation district elections.
-* [HB 1910](/bill/2021-22/hb/1910/) - Concerning conservation district elections. **110👍** **41👎** **0❓**
-* [HB 2044](/bill/2021-22/hb/2044/) - Concerning the protection of critical constituent and state operational data against the financial and personal harm caused by ransomware and other malicious cyber activities. **58👍** **2👎** **2❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**College & Workforce Development**
-
-
-**Consumer Protection & Business**
-Executive Session
-* [SB 5519](/bill/2021-22/sb/5519/) - Replacing an inactive certificate status with an inactive license designation. **5👍** **0👎** **0❓**
-* [HB 1951](/bill/2021-22/hb/1951/) - Concerning seller disclosure statements. **2👍** **3👎** **1❓**
-* [HB 1954](/bill/2021-22/hb/1954/) - Addressing credit and debit card transaction fees.
-* [HB 1801](/bill/2021-22/hb/1801/) - Concerning the repair of digital electronic equipment.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Children, Youth & Families**
-Executive Session
-* [HB 2068](/bill/2021-22/hb/2068/) - Creating the imagination library of Washington program. **91👍** **1👎** **2❓**
-* [HB 2034](/bill/2021-22/hb/2034/) - Concerning juvenile records.
-* [HB 2038](/bill/2021-22/hb/2038/) - Supporting children involved with child welfare services. **4👍** **0👎** **1❓**
-* [HB 2082](/bill/2021-22/hb/2082/) - Assessing child care access. **13👍** **0👎** **1❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Health Care & Wellness**
-Public Hearing
-* [HB 1854](/bill/2021-22/hb/1854/) - Requiring coverage for hearing instruments. (Remote testimony.)
-
-Executive Session
-* [HB 1043](/bill/2021-22/hb/1043/) - Concerning the audiology and speech-language pathology interstate compact. **356👍** **1👎** **1❓**
-* [HB 1286](/bill/2021-22/hb/1286/) - Adopting the psychology interjurisdictional compact. **114👍** **0👎** **0❓**
-* [HB 1813](/bill/2021-22/hb/1813/) - Concerning freedom of pharmacy choice.
-* [HB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing.
-* [HB 1959](/bill/2021-22/hb/1959/) - Concerning managed health care system rate review. **8👍** **1👎** **0❓**
-
-Work Session
-* New state-mandated health benefits and the Affordable Care Act.
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-#### 10:00 am
-**Rural Development, Agriculture & Natural Resources**
-Executive Session
-* [SB 5201](/bill/2021-22/sb/5201/) - Concerning department of natural resources' timber and land sales. **4👍** **0👎** **0❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Labor & Workplace Standards**
-Executive Session
-* [HB 1763](/bill/2021-22/hb/1763/) - Concerning injured workers' rights during independent medical examinations.
-* [HB 1831](/bill/2021-22/hb/1831/) - Concerning installation, maintenance, and related certification requirements for electric vehicle support equipment.
-* [HB 1992](/bill/2021-22/hb/1992/) - Concerning vacation leave accrual for public employees. **19👍** **0👎** **0❓**
-* [HB 2076](/bill/2021-22/hb/2076/) - Concerning rights and obligations of transportation network company drivers and transportation network companies. **36👍** **9👎** **16❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Civil Rights & Judiciary**
-Executive Session
-* [HB 1850](/bill/2021-22/hb/1850/) - Protecting and enforcing the foundational data privacy rights of Washingtonians. **9👍** **12👎** **54❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Local Government**
-Executive Session
-* [HB 1925](/bill/2021-22/hb/1925/) - Authorizing the issuance of civil infractions for violations of rules or regulations in county parks. **3👍** **0👎** **0❓**
-* [HB 1952](/bill/2021-22/hb/1952/) - Concerning the location of housing and associated services that provide aid and assistance to homeless individuals and families. **4👍** **105👎** **0❓**
-* [HB 2001](/bill/2021-22/hb/2001/) - Expanding the ability to build tiny houses. **15👍** **2👎** **1❓**
-* [HB 2020](/bill/2021-22/hb/2020/) - Concerning the creation of affordable and sustainable housing in the state.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 3
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-03-2022/02-03-2022/Agenda///Bill/)
 #### 8:00 am
@@ -213,7 +132,6 @@ Public Hearing
 * [HB 2091](/bill/2021-22/hb/2091/) - Creating pathways to recovery from addiction by eliminating an obsolete tax preference for the warehousing of opioids and other drugs. (Remote testimony.)
 
 Executive Session
-* [HB 1921](/bill/2021-22/hb/1921/) - Concerning the valuation of property related to renewable energy for the purposes of property tax and providing for a payment in lieu of taxes for renewable energy facilities.
 * [HB 1035](/bill/2021-22/hb/1035/) - Providing local governments with options to grant rent relief and preserve affordable housing in their communities.
 * [HB 1841](/bill/2021-22/hb/1841/) - Incentivizing rental of accessory dwelling units to low-income households.
 * [HB 1666](/bill/2021-22/hb/1666/) - Clarifying the method for determining the value of specified tangible personal property incorporated as part of certain public infrastructure for the purposes of use tax and business and occupation tax.
@@ -242,15 +160,6 @@ Executive Session
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-**Commerce & Gaming**
-Executive Session
-* [2SHB 1359](/bill/2021-22/hb/1359/) - Reducing liquor license fees temporarily.
-* [HB 1855](/bill/2021-22/hb/1855/) - Concerning a craft cannabis endorsement.
-* [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. **85👍** **22👎** **4❓**
-* [HB 2025](/bill/2021-22/hb/2025/) - Amending types of nonprofit organizations qualified to engage in certain bingo gambling activities and changes to the number of occurrences for unlicensed bingo activities. **5👍** **1👎** **0❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Environment & Energy**
 Public Hearing
 * [HJR 4209](/bill/2021-22/jr/4209/) - Adding a new section to the Washington state Constitution regarding the conservation and protection of the state's natural resources. (Remote testimony.) **312👍** **264👎** **1❓**
@@ -275,6 +184,16 @@ Executive Session
 * [HB 1900](/bill/2021-22/hb/1900/) - Improving school districts' responses to complaints of discrimination, harassment, intimidation, and bullying. **16👍** **1👎** **0❓**
 * [HB 2056](/bill/2021-22/hb/2056/) - Promoting academic transparency in public schools. **596👍** **72👎** **1❓**
 * [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Commerce & Gaming**
+Executive Session
+* [2SHB 1359](/bill/2021-22/hb/1359/) - Reducing liquor license fees temporarily.
+* [HB 1855](/bill/2021-22/hb/1855/) - Concerning a craft cannabis endorsement.
+* [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. **85👍** **22👎** **4❓**
+* [HB 2025](/bill/2021-22/hb/2025/) - Amending types of nonprofit organizations qualified to engage in certain bingo gambling activities and changes to the number of occurrences for unlicensed bingo activities. **5👍** **1👎** **0❓**
+* [HB 2080](/bill/2021-22/hb/2080/) - Creating a liquor license endorsement. **7👍** **0👎** **1❓**
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -332,6 +251,13 @@ Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#
 **Capital Budget**
 Public Hearing
 * [HB 1738](/bill/2021-22/hb/1738/) - Changing the total amount of outstanding indebtedness of the Washington state housing finance commission. (Remote testimony.)
+* [HB 2073](/bill/2021-22/hb/2073/) - Establishing the state capitol committee as an advisory entity of state government. (Remote testimony.)
+
+Executive Session
+* [SHB 1673](/bill/2021-22/hb/1673/) - Concerning broadband infrastructure loans and grants made by the public works board. **20👍** **0👎** **0❓**
+* [HB 1958](/bill/2021-22/hb/1958/) - Accelerating rural job growth and promoting economic recovery across Washington through a shovel-ready site certification program and grants. **23👍** **0👎** **0❓**
+* [HB 2097](/bill/2021-22/hb/2097/) - Changing the definition of first-time home buyer.
+* [HB 2098](/bill/2021-22/hb/2098/) - Modifying the interest rate for the low-income home rehabilitation revolving loan program.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -350,6 +276,7 @@ Executive Session
 * [HB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
 * [HB 1819](/bill/2021-22/hb/1819/) - Increasing the personal property tax exemption.
 * [HJR 4208](/bill/2021-22/jr/4208/) - Concerning the taxation of personal property.
+* [HB 1921](/bill/2021-22/hb/1921/) - Concerning the valuation of property related to renewable energy for the purposes of property tax and providing for a payment in lieu of taxes for renewable energy facilities.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -385,3 +312,35 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 **Transportation**
 
+
+### Mon, Feb 7
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-07-2022/02-07-2022/Agenda///Bill/)
+#### 8:00 am
+**Capital Budget**
+Executive Session
+* Bills referred to committee.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Finance**
+Executive Session
+* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+#### 10:00 am
+**Appropriations**
+Public Hearing
+* Bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Transportation**
+Public Hearing
+* Bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

@@ -23,11 +23,11 @@
 * [SB 5724](/bill/2021-22/sb/5724/) - Organ transport vehicles | First reading, referred to Transportation.
 * [SB 5725](/bill/2021-22/sb/5725/) - LCEDIR/tourism slogan | Passed to Rules Committee for second reading.
 * [SB 5770](/bill/2021-22/sb/5770/) - Convention economy grants | Referred to Ways & Means.
-* [SB 5810](/bill/2021-22/sb/5810/) - Legal service plans | Placed on second reading by Rules Committee.
+* [SB 5810](/bill/2021-22/sb/5810/) - Legal service plans | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5916](/bill/2021-22/sb/5916/) - Ransomware protection | First reading, referred to Environment, Energy & Technology.
 * [SB 5924](/bill/2021-22/sb/5924/) - Tax penalties | First reading, referred to Ways & Means.
 * [SB 5935](/bill/2021-22/sb/5935/) - Adult family homes/prop. tax | First reading, referred to Health & Long Term Care.
-* [SB 5946](/bill/2021-22/sb/5946/) - LIBOR discontinuance | BFST - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5946](/bill/2021-22/sb/5946/) - LIBOR discontinuance | Passed to Rules Committee for second reading.
 * [SB 5957](/bill/2021-22/sb/5957/) - Manufacturing B&O tax rate | First reading, referred to Ways & Means.
 * [SB 5964](/bill/2021-22/sb/5964/) - Local permit review process | First reading, referred to Housing & Local Government.
 * [SB 5969](/bill/2021-22/sb/5969/) - Credit scores/insurance | First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).

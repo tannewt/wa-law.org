@@ -66,3 +66,11 @@ Public Hearing
 Possible executive session on bills heard in committee. Possible other business. Meeting is scheduled to end at 3:00 p.m. 
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Mon, Feb 7 at 10:00 am
+Executive Session
+* Bills to be determined.
+
+Possible other business. Meeting is scheduled to end at 9:00 p.m.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

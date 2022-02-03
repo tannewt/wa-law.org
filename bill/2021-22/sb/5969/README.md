@@ -7,6 +7,3 @@ Delaying the office of the insurance commissioner from conducting rule making on
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 9:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

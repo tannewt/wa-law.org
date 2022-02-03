@@ -14,6 +14,6 @@
 * [HB 1891](/bill/2021-22/hb/1891/) - Rangeland fire pilot | Referred to Appropriations.
 * [HB 1909](/bill/2021-22/hb/1909/) - Meat and poultry misbranding | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1936](/bill/2021-22/hb/1936/) - DCYF oversight board members | Referred to Rules 2 Review.
-* [HB 1945](/bill/2021-22/hb/1945/) - DCYF-caregiver communication | CYF - Majority; 1st substitute bill be substituted, do pass.
-* [HB 1993](/bill/2021-22/hb/1993/) - Pesticide advisory board | RDAN - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1945](/bill/2021-22/hb/1945/) - DCYF-caregiver communication | Referred to Rules 2 Review.
+* [HB 1993](/bill/2021-22/hb/1993/) - Pesticide advisory board | Referred to Rules 2 Review.
 * [HB 2053](/bill/2021-22/hb/2053/) - Behavioral health work group | First reading, referred to Health Care & Wellness.

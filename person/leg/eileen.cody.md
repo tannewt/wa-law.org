@@ -11,4 +11,4 @@
 * [HB 1741](/bill/2021-22/hb/1741/) - Health provider contracting | Referred to Appropriations.
 * [HB 1757](/bill/2021-22/hb/1757/) - ESDs/PEBB health plans | First reading, referred to Appropriations.
 * [HB 1885](/bill/2021-22/hb/1885/) - Dental therapy | First reading, referred to Health Care & Wellness.
-* [HB 1889](/bill/2021-22/hb/1889/) - Health network access | Minority; without recommendation.
+* [HB 1889](/bill/2021-22/hb/1889/) - Health network access | Referred to Appropriations.
