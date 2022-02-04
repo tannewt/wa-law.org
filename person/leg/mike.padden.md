@@ -22,12 +22,12 @@
 * [SB 5569](/bill/2021-22/sb/5569/) - Public safety | First reading, referred to Law & Justice.
 * [SB 5621](/bill/2021-22/sb/5621/) - Water & sewage/intergov. | First reading, referred to Housing & Local Government.
 * [SB 5709](/bill/2021-22/sb/5709/) - Exclusionary evidence rule | First reading, referred to Law & Justice.
-* [SB 5710](/bill/2021-22/sb/5710/) - Toxicology lab contamination | Passed to Rules Committee for second reading.
+* [SB 5710](/bill/2021-22/sb/5710/) - Toxicology lab contamination | Placed on second reading by Rules Committee.
 * [SB 5711](/bill/2021-22/sb/5711/) - Private prison contracting | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5733](/bill/2021-22/sb/5733/) - Civil asset forfeiture/drugs | Referred to Ways & Means.
 * [SB 5779](/bill/2021-22/sb/5779/) - Bail fund oversight | First reading, referred to Law & Justice.
 * [SB 5780](/bill/2021-22/sb/5780/) - Graduated reentry program | First reading, referred to Human Services, Reentry & Rehabilitation.
-* [SB 5781](/bill/2021-22/sb/5781/) - Organized retail theft | First reading, referred to Law & Justice.
-* [SB 5826](/bill/2021-22/sb/5826/) - Warm water game fish | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5839](/bill/2021-22/sb/5839/) - Interfering with emergency | First reading, referred to Law & Justice.
+* [SB 5781](/bill/2021-22/sb/5781/) - Organized retail theft | Passed to Rules Committee for second reading.
+* [SB 5826](/bill/2021-22/sb/5826/) - Warm water game fish | Passed to Rules Committee for second reading.
+* [SB 5839](/bill/2021-22/sb/5839/) - Interfering with emergency | Passed to Rules Committee for second reading.
 * [SB 5893](/bill/2021-22/sb/5893/) - Torts | First reading, referred to Law & Justice.

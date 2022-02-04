@@ -7,6 +7,3 @@ Concerning a sales and use tax deferral for projects to improve the state route 
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Fri, Feb 4 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

@@ -1,7 +1,7 @@
 # HB 1286 - Psychology compact
 **Primary Sponsor:** [Kelly Chambers](/person/leg/chambers_ke.md)
 
-*Status: HCW - Majority; 1st substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1286&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1286&Year=2021)
 
 Adopting the psychology interjurisdictional compact.
 

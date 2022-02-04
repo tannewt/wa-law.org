@@ -17,4 +17,4 @@
 * [SB 5630](/bill/2021-22/sb/5630/) - Early learning/basic ed. | First reading, referred to Early Learning & K-12 Education.
 * [SB 5712](/bill/2021-22/sb/5712/) - Local taxing districts | Passed to Rules Committee for second reading.
 * [SB 5795](/bill/2021-22/sb/5795/) - Product servicing and repair | First reading, referred to Environment, Energy & Technology.
-* [SB 5951](/bill/2021-22/sb/5951/) - Agricultural hemp products | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5951](/bill/2021-22/sb/5951/) - Agricultural hemp products | Passed to Rules Committee for second reading.

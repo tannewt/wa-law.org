@@ -22,7 +22,7 @@
 * [SB 5704](/bill/2021-22/sb/5704/) - ARNP reimbursement rate | Referred to Ways & Means.
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | Referred to Transportation.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Passed to Rules Committee for second reading.
-* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Passed to Rules Committee for second reading.
+* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Placed on second reading by Rules Committee.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Third reading, passed; yeas, 42; nays, 5; absent, 0; excused, 2.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Referred to Ways & Means.
 * [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Passed to Rules Committee for second reading.

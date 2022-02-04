@@ -34,44 +34,39 @@
 * [Pat Sullivan](/person/leg/pat.sullivan.md)
 * [Steve Tharinger](/person/leg/steve.tharinger.md)
 ## Upcoming Meetings
-### Thu, Feb 3 at 1:30 pm
-Public Hearing
-* [HB 1571](/bill/2021-22/hb/1571/) - Concerning protections and services for indigenous persons who are missing, murdered, or survivors of human trafficking. (Remote testimony.)
-* [HB 1592](/bill/2021-22/hb/1592/) - Concerning military spouse employment. (Remote testimony.)
-* [HB 1626](/bill/2021-22/hb/1626/) - Updating the authority for the fish and wildlife commission to adopt rules implementing electronic licensing practices. (Remote testimony.)
-* [HB 1661](/bill/2021-22/hb/1661/) - Conserving and restoring kelp forests and eelgrass meadows in Washington state. (Remote testimony.)
-* [HB 1688](/bill/2021-22/hb/1688/) - Protecting consumers from charges for out-of-network health care services, by aligning state law and the federal no surprises act and addressing coverage of treatment for emergency conditions. (Remote testimony.)
-* [HB 1741](/bill/2021-22/hb/1741/) - Addressing affordability through health care provider contracting. (Remote testimony.)
-* [HB 1760](/bill/2021-22/hb/1760/) - Expanding access to dual credit programs. (Remote testimony.) **36👍** **0👎** **4❓**
-* [HB 1764](/bill/2021-22/hb/1764/) - Concerning collective bargaining for resident and fellow physicians employed by certain institutions of higher education. (Remote testimony.)
-* [HB 1805](/bill/2021-22/hb/1805/) - Concerning the opportunity scholarship program. (Remote testimony.)
-* [HB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. (Remote testimony.)
-* [HB 1856](/bill/2021-22/hb/1856/) - Adding counties to the voluntary stewardship program. (Remote testimony.)
-* [HB 1859](/bill/2021-22/hb/1859/) - Concerning quality standards for laboratories conducting cannabis analysis. (Remote testimony.)
-* [HB 2050](/bill/2021-22/hb/2050/) - Repealing requirements for parent payment of the cost of their child's support, treatment, and confinement. (Remote testimony.)
-* [HB 2093](/bill/2021-22/hb/2093/) - Increasing county timber tax distributions by reducing the charge for administrative and collection costs. (Remote testimony.)
-
-Executive Session
-* [HB 1100](/bill/2021-22/hb/1100/) - Concerning the sale or lease of manufactured/mobile home communities and the property on which they sit. **248👍** **264👎** **1❓**
-* [HB 1103](/bill/2021-22/hb/1103/) - Improving environmental and social outcomes with the production of building materials. **248👍** **15👎** **1❓**
-* [HB 1664](/bill/2021-22/hb/1664/) - Concerning prototypical school formulas for physical, social, and emotional support in schools. **88👍** **183👎** **4❓**
-* [HB 1691](/bill/2021-22/hb/1691/) - Concerning financial responsibility requirements related to oil spills. **47👍** **2👎** **2❓**
-* [HB 1746](/bill/2021-22/hb/1746/) - Updating the 2015 report and recommendations for supporting student success through measuring and mitigating community risk and protective predictors since the emergence of the COVID-19 pandemic. **16👍** **144👎** **0❓**
-* [HB 1748](/bill/2021-22/hb/1748/) - Concerning aged, blind, or disabled program eligibility for victims of human trafficking. **60👍** **0👎** **0❓**
-* [HB 1751](/bill/2021-22/hb/1751/) - Concerning hazing prevention and reduction at institutions of higher education. **156👍** **0👎** **2❓**
-* [HB 1755](/bill/2021-22/hb/1755/) - Concerning temporary assistance for needy families time limit extensions during times of high unemployment. **76👍** **0👎** **1❓**
-* [HB 1756](/bill/2021-22/hb/1756/) - Concerning solitary confinement. **433👍** **5👎** **9❓**
-* [HB 1800](/bill/2021-22/hb/1800/) - Increasing access to behavioral health services for minors. **230👍** **8👎** **0❓**
-* [HB 1890](/bill/2021-22/hb/1890/) - Concerning the children and youth behavioral health work group. **144👍** **2👎** **0❓**
-* [HB 1928](/bill/2021-22/hb/1928/) - Concerning equine industry support. **296👍** **46👎** **5❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Fri, Feb 4 at 10:00 am
 Public Hearing
-* Bills referred to committee. (Remote testimony.)
+* [SHB 1724](/bill/2021-22/hb/1724/) - Ensuring oversight and coordination of permanent supportive housing resources to maximize the creation of high quality housing opportunities for people living with disabling conditions in communities across Washington. (Remote testimony.)
+* [SHB 1905](/bill/2021-22/hb/1905/) - Reducing homelessness for youth and young adults discharging from a publicly funded system of care. (Remote testimony.)
+* [HB 1889](/bill/2021-22/hb/1889/) - Concerning network access. (Remote testimony.)
+* [SHB 1643](/bill/2021-22/hb/1643/) - Exempting a sale or transfer of real property for affordable housing to a nonprofit entity, housing authority, public corporation, county, or municipal corporation from the real estate excise tax. (Remote testimony.)
+* [SHB 1668](/bill/2021-22/hb/1668/) - Expanding regulatory authority over cannabinoids that may be impairing and providing for enhanced product safety and consumer information disclosure about marijuana products. (Remote testimony.)
+* [SHB 1818](/bill/2021-22/hb/1818/) - Promoting successful reentry and rehabilitation of persons convicted of criminal offenses. (Remote testimony.)
+* [HB 1878](/bill/2021-22/hb/1878/) - Increasing public school participation in the community eligibility provision of the United States department of agriculture. (Remote testimony.)
+* [HB 1980](/bill/2021-22/hb/1980/) - Removing the prohibition on providing employment services and community access services concurrently. (Remote testimony.)
+* [SHB 2008](/bill/2021-22/hb/2008/) - Eliminating the use of intelligence quotient scores in determining eligibility for programs and services for individuals with developmental disabilities. (Remote testimony.) **40👍** **2👎** **3❓**
+* [SHB 1806](/bill/2021-22/hb/1806/) - Extending collective bargaining rights to employees of the legislative branch of state government. (Remote testimony.) **158👍** **5👎** **1❓**
+* [SHB 1694](/bill/2021-22/hb/1694/) - Concerning logistical processes for the regulation of priority chemicals in consumer products. (Remote testimony.)
+* [SHB 1663](/bill/2021-22/hb/1663/) - Reducing methane emissions from landfills. (Remote testimony.)
+* [SHB 1753](/bill/2021-22/hb/1753/) - Concerning tribal consultation regarding the use of certain funding authorized by the climate commitment act. (Remote testimony.)
+
+Executive Session
+* [HB 1571](/bill/2021-22/hb/1571/) - Concerning protections and services for indigenous persons who are missing, murdered, or survivors of human trafficking. **25👍** **0👎** **0❓**
+* [HB 1592](/bill/2021-22/hb/1592/) - Concerning military spouse employment. **42👍** **0👎** **0❓**
+* [HB 1621](/bill/2021-22/hb/1621/) - Creating programs to encourage sexual assault nurse examiner training. **49👍** **0👎** **0❓**
+* [SHB 1626](/bill/2021-22/hb/1626/) - Updating the authority for the fish and wildlife commission to adopt rules implementing electronic licensing practices. **2👍** **0👎** **1❓**
+* [SHB 1659](/bill/2021-22/hb/1659/) - Making higher education more affordable and accessible for students by bridging the gap between cost and need to reduce barriers, improve opportunity, and advance economic security. **116👍** **46👎** **0❓**
+* [SHB 1688](/bill/2021-22/hb/1688/) - Protecting consumers from charges for out-of-network health care services, by aligning state law and the federal no surprises act and addressing coverage of treatment for emergency conditions. **42👍** **18👎** **3❓**
+* [SHB 1736](/bill/2021-22/hb/1736/) - Establishing a state student loan program. **26👍** **36👎** **3❓**
+* [SHB 1741](/bill/2021-22/hb/1741/) - Addressing affordability through health care provider contracting. **10👍** **39👎** **3❓**
+* [SHB 1760](/bill/2021-22/hb/1760/) - Expanding access to dual credit programs. **51👍** **0👎** **6❓**
+* [SHB 1764](/bill/2021-22/hb/1764/) - Concerning collective bargaining for resident and fellow physicians employed by certain institutions of higher education. **275👍** **31👎** **1❓**
+* [HB 1805](/bill/2021-22/hb/1805/) - Concerning the opportunity scholarship program. **17👍** **0👎** **0❓**
+* [SHB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. **20👍** **37👎** **0❓**
+* [SHB 1835](/bill/2021-22/hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment. **63👍** **38👎** **0❓**
+* [HB 1856](/bill/2021-22/hb/1856/) - Adding counties to the voluntary stewardship program. **6👍** **0👎** **1❓**
+* [HB 1859](/bill/2021-22/hb/1859/) - Concerning quality standards for laboratories conducting cannabis analysis. **7👍** **0👎** **0❓**
+* [HB 2050](/bill/2021-22/hb/2050/) - Repealing requirements for parent payment of the cost of their child's support, treatment, and confinement. **11👍** **0👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

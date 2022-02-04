@@ -16,7 +16,8 @@
 * [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Referred to Ways & Means.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | Referred to Ways & Means.
-* [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Passed to Rules Committee for second reading.
+* [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Placed on second reading consent calendar.
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | Referred to Ways & Means.
-* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Law & Justice.
+* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Passed to Rules Committee for second reading.
+* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | Passed to Rules Committee for second reading.
+* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Passed to Rules Committee for second reading.

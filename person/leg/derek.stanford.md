@@ -7,7 +7,7 @@
 * [SB 5231](/bill/2021-22/sb/5231/) - Transportation fuel/carbon | By resolution, reintroduced and retained in present status.
 * [SB 5278](/bill/2021-22/sb/5278/) - Construction workers | By resolution, reintroduced and retained in present status.
 * [SB 5298](/bill/2021-22/sb/5298/) - Tribal consent/AG | By resolution, reintroduced and retained in present status.
-* [SB 5348](/bill/2021-22/sb/5348/) - Assisted reproduction | By resolution, reintroduced and retained in present status.
+* [SB 5348](/bill/2021-22/sb/5348/) - Assisted reproduction | Passed to Rules Committee for second reading.
 * [SB 5365](/bill/2021-22/sb/5365/) - Cannabis commission | By resolution, reintroduced and retained in present status.
 * [SB 5366](/bill/2021-22/sb/5366/) - Building materials | By resolution, reintroduced and retained in present status.
 * [ESB 5372](/bill/2021-22/esb/5372/) - Hemp/registration & cert. | Effective date 7/25/2021.
@@ -24,9 +24,9 @@
 * [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5708](/bill/2021-22/sb/5708/) - Fur products | First reading, referred to Law & Justice.
 * [SB 5717](/bill/2021-22/sb/5717/) - Compost products | First reading, referred to Environment, Energy & Technology.
-* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Passed to Rules Committee for second reading.
+* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Placed on second reading by Rules Committee.
 * [SB 5767](/bill/2021-22/sb/5767/) - Hemp-derived cannabinoids | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5773](/bill/2021-22/sb/5773/) - Legislature/bargaining | Referred to Ways & Means.
-* [SB 5947](/bill/2021-22/sb/5947/) - Property exempt from exec. | First reading, referred to Law & Justice.
+* [SB 5947](/bill/2021-22/sb/5947/) - Property exempt from exec. | Passed to Rules Committee for second reading.
 * [SB 5955](/bill/2021-22/sb/5955/) - Railroad grade crossings | First reading, referred to Transportation.
 * [SB 5956](/bill/2021-22/sb/5956/) - Insurance data security | First reading, referred to Business, Financial Services & Trade.

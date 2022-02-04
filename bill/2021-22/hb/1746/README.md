@@ -8,6 +8,3 @@ Updating the 2015 report and recommendations for supporting student success thro
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 1:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

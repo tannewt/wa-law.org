@@ -7,3 +7,6 @@ Providing additional support and services for veterans' assistance and for perso
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 4 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

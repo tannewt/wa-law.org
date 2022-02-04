@@ -16,5 +16,5 @@
 * [SB 5677](/bill/2021-22/sb/5677/) - Law enf. serious misconduct | First reading, referred to Law & Justice.
 * [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Passed to Rules Committee for second reading.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
-* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | On motion, referred to Rules Committee for second reading.
-* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | Placed on second reading by Rules Committee.
+* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Referred to Ways & Means.

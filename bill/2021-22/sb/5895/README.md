@@ -1,7 +1,7 @@
 # SB 5895 - Remedial action grants
 **Primary Sponsor:** [David Frockt](/person/leg/david.frockt.md)
 
-*Status: Minority; do not pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5895&Year=2021)
+*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5895&Year=2021)
 
 Concerning timing restrictions for remedial action grants to local government.
 

@@ -3,7 +3,7 @@
 * [SB 5028](/bill/2021-22/sb/5028/) - Vehicle taxes & fees | By resolution, reintroduced and retained in present status.
 * [SB 5040](/bill/2021-22/sb/5040/) - State highway litter control | Effective date 7/25/2021.
 * [SB 5041](/bill/2021-22/sb/5041/) - Development paperwork | By resolution, reintroduced and retained in present status.
-* [SB 5082](/bill/2021-22/sb/5082/) - Productivity board | By resolution, reintroduced and retained in present status.
+* [SB 5082](/bill/2021-22/sb/5082/) - Productivity board | Placed on third reading by Rules Committee.
 * [SB 5100](/bill/2021-22/sb/5100/) - Emergency rules/approval | By resolution, reintroduced and retained in present status.
 * [SB 5107](/bill/2021-22/sb/5107/) - Homelessness/shelter | By resolution, reintroduced and retained in present status.
 * [SB 5113](/bill/2021-22/sb/5113/) - Emergency orders/statutory | By resolution, reintroduced and retained in present status.
@@ -29,7 +29,7 @@
 * [SB 5525](/bill/2021-22/sb/5525/) - Water quality actions | First reading, referred to Environment, Energy & Technology.
 * [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. materials | Passed to Rules Committee for second reading.
 * [SB 5556](/bill/2021-22/sb/5556/) - Eviction moratorium/lodging | First reading, referred to Housing & Local Government.
-* [SB 5574](/bill/2021-22/sb/5574/) - New counties | First reading, referred to Housing & Local Government.
+* [SB 5574](/bill/2021-22/sb/5574/) - New counties | Referred to Ways & Means.
 * [SB 5591](/bill/2021-22/sb/5591/) - Emergency housing & shelters | First reading, referred to Housing & Local Government.
 * [SJR 8202](/bill/2021-22/sjr/8202/) - Governor term limit | By resolution, reintroduced and retained in present status.
 * [SJR 8205](/bill/2021-22/sjr/8205/) - Right to possess firearms | By resolution, reintroduced and retained in present status.
@@ -42,7 +42,7 @@
 * [SB 5740](/bill/2021-22/sb/5740/) - Highway litter control funds | First reading, referred to Ways & Means.
 * [SB 5802](/bill/2021-22/sb/5802/) - Property tax exemptions | First reading, referred to Business, Financial Services & Trade.
 * [SB 5836](/bill/2021-22/sb/5836/) - COVID-19 vaccine consent | First reading, referred to Health & Long Term Care.
-* [SB 5867](/bill/2021-22/sb/5867/) - Emerg. overnight shelters | First reading, referred to Housing & Local Government.
+* [SB 5867](/bill/2021-22/sb/5867/) - Emerg. overnight shelters | Referred to Ways & Means.
 * [SB 5887](/bill/2021-22/sb/5887/) - Special session procedures | First reading, referred to State Government & Elections.
 * [SB 5953](/bill/2021-22/sb/5953/) - Abandoned vehicles/sales tax | First reading, referred to Ways & Means.
 * [SB 5968](/bill/2021-22/sb/5968/) - Salmon populations/effect | First reading, referred to Agriculture, Water, Natural Resources & Parks (Not Officially read and referred until adoption of Introduction report).

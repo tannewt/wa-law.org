@@ -15,4 +15,4 @@
 * [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | Referred to Appropriations.
 * [HB 1795](/bill/2021-22/hb/1795/) - Nondisclosure/illegal acts | Referred to Rules 2 Review.
 * [HB 2009](/bill/2021-22/hb/2009/) - Basic income trust | First reading, referred to Housing, Human Services & Veterans.
-* [HB 2076](/bill/2021-22/hb/2076/) - Transp. network companies | LAWS - Executive action taken by committee.
+* [HB 2076](/bill/2021-22/hb/2076/) - Transp. network companies | Referred to Transportation.

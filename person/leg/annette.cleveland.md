@@ -12,12 +12,12 @@
 * [SB 5452](/bill/2021-22/sb/5452/) - Electric-assisted bicycles | Effective date 7/25/2021.
 * [SB 5499](/bill/2021-22/sb/5499/) - Hemodialysis technicians | First reading, referred to Health Care & Wellness.
 * [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | First reading, referred to Health Care & Wellness.
-* [SB 5542](/bill/2021-22/sb/5542/) - Optometry | Minority; without recommendation.
+* [SB 5542](/bill/2021-22/sb/5542/) - Optometry | Passed to Rules Committee for second reading.
 * [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | First reading, referred to Community & Economic Development.
 * [SB 5618](/bill/2021-22/sb/5618/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
 * [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | Referred to Ways & Means.
 * [SB 5815](/bill/2021-22/sb/5815/) - Identicards | First reading, referred to Transportation.
-* [SB 5848](/bill/2021-22/sb/5848/) - Music therapists | HLTC - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5848](/bill/2021-22/sb/5848/) - Music therapists | Passed to Rules Committee for second reading.
 * [SB 5852](/bill/2021-22/sb/5852/) - Biodegradable product labels | First reading, referred to Environment, Energy & Technology.
 * [SB 5906](/bill/2021-22/sb/5906/) - Contralateral mastectomy | First reading, referred to Health & Long Term Care.
-* [SB 5911](/bill/2021-22/sb/5911/) - Health care hazard pay bonus | And refer to Ways & Means.
+* [SB 5911](/bill/2021-22/sb/5911/) - Health care hazard pay bonus | Referred to Ways & Means.

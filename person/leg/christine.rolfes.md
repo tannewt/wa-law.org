@@ -13,7 +13,7 @@
 * [SB 5323](/bill/2021-22/sb/5323/) - Wages & salaries | By resolution, reintroduced and retained in present status.
 * [SB 5343](/bill/2021-22/sb/5343/) - Medicaid appropriations | By resolution, reintroduced and retained in present status.
 * [SB 5344](/bill/2021-22/sb/5344/) - Federal funding/COVID-19 | By resolution, reintroduced and retained in present status.
-* [SB 5505](/bill/2021-22/sb/5505/) - Farmers market prop. tax ex. | Passed to Rules Committee for second reading.
+* [SB 5505](/bill/2021-22/sb/5505/) - Farmers market prop. tax ex. | Placed on second reading consent calendar.
 * [SB 5585](/bill/2021-22/sb/5585/) - Domestic wastewater fees | On motion, referred to Rules Committee for second reading.
 * [SB 5616](/bill/2021-22/sb/5616/) - Accounts | Referred to Transportation.
 * [SB 5626](/bill/2021-22/sb/5626/) - Water system plans/climate | Referred to Ways & Means.
@@ -23,5 +23,5 @@
 * [SB 5665](/bill/2021-22/sb/5665/) - Salmon habitat | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5693](/bill/2021-22/sb/5693/) - Operating budget, supp. | First reading, referred to Ways & Means.
 * [SB 5727](/bill/2021-22/sb/5727/) - Salmon habitat | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5803](/bill/2021-22/sb/5803/) - Wildfires/electric utilities | And refer to Ways & Means.
-* [SB 5878](/bill/2021-22/sb/5878/) - Arts instruction | Passed to Rules Committee for second reading.
+* [SB 5803](/bill/2021-22/sb/5803/) - Wildfires/electric utilities | Referred to Ways & Means.
+* [SB 5878](/bill/2021-22/sb/5878/) - Arts instruction | Placed on second reading by Rules Committee.

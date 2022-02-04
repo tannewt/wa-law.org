@@ -40,7 +40,16 @@ See https://app.leg.wa.gov/csi/house for information about viewing and providing
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Mon, Feb 7 at 8:00 am
+Public Hearing
+* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections. (Remote testimony.)
+* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds. (Remote testimony.)
+
 Executive Session
-* Bills referred to committee.
+* [HB 1738](/bill/2021-22/hb/1738/) - Changing the total amount of outstanding indebtedness of the Washington state housing finance commission.
+* [HB 2073](/bill/2021-22/hb/2073/) - Establishing the state capitol committee as an advisory entity of state government.
+* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections.
+* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds.
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

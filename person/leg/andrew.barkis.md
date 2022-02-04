@@ -8,4 +8,4 @@
 * [HB 1603](/bill/2021-22/hb/1603/) - Transportation/general fund | First reading, referred to Appropriations.
 * [HB 1606](/bill/2021-22/hb/1606/) - Correction of culverts | First reading, referred to Environment & Energy.
 * [HB 2049](/bill/2021-22/hb/2049/) - Housing permitting | First reading, referred to Local Government.
-* [HB 2066](/bill/2021-22/hb/2066/) - Infill development | First reading, referred to Environment & Energy.
+* [HB 2066](/bill/2021-22/hb/2066/) - Infill development | Referred to Rules 2 Review.

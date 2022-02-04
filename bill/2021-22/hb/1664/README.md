@@ -8,6 +8,3 @@ Concerning prototypical school formulas for physical, social, and emotional supp
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 1:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

@@ -11,7 +11,7 @@
 * [HB 1703](/bill/2021-22/hb/1703/) - 911 emergency communications | Referred to Rules 2 Review.
 * [HB 1848](/bill/2021-22/hb/1848/) - Assisted reproduction fraud | Referred to Rules 2 Review.
 * [HB 1849](/bill/2021-22/hb/1849/) - War on terror monument | Referred to Rules 2 Review.
-* [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | PS - Majority; 1st substitute bill be substituted, do pass.
-* [HB 1989](/bill/2021-22/hb/1989/) - Comm. sexual exploitation | Minority; do not pass.
+* [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | Referred to Appropriations.
+* [HB 1989](/bill/2021-22/hb/1989/) - Comm. sexual exploitation | Referred to Appropriations.
 * [HB 2052](/bill/2021-22/hb/2052/) - Comm. service org. contracts | Referred to Rules 2 Review.
 * [HB 2088](/bill/2021-22/hb/2088/) - Foreclosure timeline | First reading, referred to Civil Rights & Judiciary.

@@ -11,6 +11,6 @@
 * [HB 1645](/bill/2021-22/hb/1645/) - Assisted living payments | First reading, referred to Appropriations.
 * [HB 1646](/bill/2021-22/hb/1646/) - Dementia action collab. | First reading, referred to Health & Long Term Care (Not Officially read and referred until adoption of Introduction report).
 * [HB 1675](/bill/2021-22/hb/1675/) - Dialysate & dialysis devices | First reading, referred to Health & Long Term Care (Not Officially read and referred until adoption of Introduction report).
-* [HB 1782](/bill/2021-22/hb/1782/) - Middle housing near transit | Minority; without recommendation.
+* [HB 1782](/bill/2021-22/hb/1782/) - Middle housing near transit | Referred to Appropriations.
 * [HB 1853](/bill/2021-22/hb/1853/) - Cosmetic products/chemicals | First reading, referred to Environment & Energy.
-* [HB 1992](/bill/2021-22/hb/1992/) - Vacation leave accrual | LAWS - Executive action taken by committee.
+* [HB 1992](/bill/2021-22/hb/1992/) - Vacation leave accrual | Referred to Appropriations.

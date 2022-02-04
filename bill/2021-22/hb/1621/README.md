@@ -7,3 +7,6 @@ Creating programs to encourage sexual assault nurse examiner training.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 4 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

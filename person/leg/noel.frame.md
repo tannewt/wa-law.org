@@ -5,4 +5,4 @@
 * [HB 1406](/bill/2021-22/hb/1406/) - Wealth tax | By resolution, reintroduced and retained in present status.
 * [HB 1539](/bill/2021-22/hb/1539/) - Bad debts/tax | By resolution, reintroduced and retained in present status.
 * [HB 1947](/bill/2021-22/hb/1947/) - Diaper subsidy/TANF | Referred to Appropriations.
-* [HB 2034](/bill/2021-22/hb/2034/) - Juvenile records | CYF - Executive action taken by committee.
+* [HB 2034](/bill/2021-22/hb/2034/) - Juvenile records | Referred to Rules 2 Review.

@@ -19,9 +19,9 @@
 * [SB 5580](/bill/2021-22/sb/5580/) - Public works board/broadband | Passed to Rules Committee for second reading.
 * [SB 5581](/bill/2021-22/sb/5581/) - Pupil transp. allocations | Referred to Ways & Means.
 * [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Referred to Ways & Means.
-* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | Passed to Rules Committee for second reading.
+* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | Placed on second reading by Rules Committee.
 * [SB 5659](/bill/2021-22/sb/5659/) - Building material standards | First reading, referred to State Government & Elections.
-* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | ENET - Majority; do pass.
+* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Passed to Rules Committee for second reading.
 * [SB 5760](/bill/2021-22/sb/5760/) - Motion picture program | Referred to Ways & Means.
 * [SB 5775](/bill/2021-22/sb/5775/) - Broadband deployment | First reading, referred to Environment, Energy & Technology.
 * [SB 5902](/bill/2021-22/sb/5902/) - High school grad. credits | First reading, referred to Early Learning & K-12 Education.

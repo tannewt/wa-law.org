@@ -12,4 +12,5 @@
 * [SB 5784](/bill/2021-22/sb/5784/) - Workers' comp/attending prov | Passed to Rules Committee for second reading.
 * [SB 5785](/bill/2021-22/sb/5785/) - Transitional food assistance | Referred to Ways & Means.
 * [SB 5855](/bill/2021-22/sb/5855/) - Campaign funds/child care | Passed to Rules Committee for second reading.
-* [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | HLG - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | Passed to Rules Committee for second reading.
+* [SB 5971](/bill/2021-22/sb/5971/) - Comprehensive plan/GMA | First reading, referred to Housing & Local Government.

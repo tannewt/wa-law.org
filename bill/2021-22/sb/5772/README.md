@@ -7,3 +7,6 @@ Concerning postconviction access to counsel.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 4 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing

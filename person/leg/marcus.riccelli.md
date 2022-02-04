@@ -8,7 +8,7 @@
 * [HB 1201](/bill/2021-22/hb/1201/) - Found. public health funding | By resolution, reintroduced and retained in present status.
 * [HB 1308](/bill/2021-22/hb/1308/) - Apprenticeship utilization | By resolution, reintroduced and retained in present status.
 * [HB 1671](/bill/2021-22/hb/1671/) - Rx drug affordability board | First reading, referred to Health Care & Wellness.
-* [HB 1806](/bill/2021-22/hb/1806/) - Legislature/bargaining | Minority; without recommendation.
+* [HB 1806](/bill/2021-22/hb/1806/) - Legislature/bargaining | Referred to Appropriations.
 * [HB 1868](/bill/2021-22/hb/1868/) - Health care staffing | Referred to Appropriations.
 * [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | Referred to Appropriations.
 * [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | Referred to Finance.

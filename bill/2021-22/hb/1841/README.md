@@ -1,12 +1,10 @@
 # HB 1841 - ADU rental/property tax
 **Primary Sponsor:** [Amy Walen](/person/leg/walen_am.md)
 
-*Status: First reading, referred to Finance.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1841&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1841&Year=2021)
 
 Incentivizing rental of accessory dwelling units to low-income households.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session
+* [Substitute Bill](S/)

@@ -7,6 +7,3 @@ Establishing regional apprenticeship programs through educational service distri
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

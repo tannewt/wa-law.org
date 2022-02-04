@@ -6,7 +6,7 @@
 * [HB 1502](/bill/2021-22/hb/1502/) - Electric ferries/counties | Effective date 7/25/2021.
 * [HB 1503](/bill/2021-22/hb/1503/) - Alt. fuel vehicle tax ex. | By resolution, reintroduced and retained in present status.
 * [HB 1523](/bill/2021-22/hb/1523/) - Transp. benefit district tax | By resolution, reintroduced and retained in present status.
-* [HB 1666](/bill/2021-22/hb/1666/) - Public infra./tax valuation | First reading, referred to Finance.
+* [HB 1666](/bill/2021-22/hb/1666/) - Public infra./tax valuation | Referred to Rules 2 Review.
 * [HB 1667](/bill/2021-22/hb/1667/) - Cannabis business ownership | First reading, referred to Commerce & Gaming.
 * [HB 1672](/bill/2021-22/hb/1672/) - Conservation futures/taxes | First reading, referred to Finance.
 * [HB 1975](/bill/2021-22/hb/1975/) - Management/housing auths | Referred to Rules 2 Review.

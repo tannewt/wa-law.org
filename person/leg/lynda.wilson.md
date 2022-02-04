@@ -16,7 +16,7 @@
 * [SB 5607](/bill/2021-22/sb/5607/) - Homeless census/facilities | Placed on second reading by Rules Committee.
 * [SB 5608](/bill/2021-22/sb/5608/) - Park and land public access | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | First reading, referred to Public Safety.
-* [SB 5620](/bill/2021-22/sb/5620/) - Medicaid expenditures | Passed to Rules Committee for second reading.
+* [SB 5620](/bill/2021-22/sb/5620/) - Medicaid expenditures | Placed on second reading by Rules Committee.
 * [SJR 8206](/bill/2021-22/sjr/8206/) - Homestead property tax exem. | By resolution, reintroduced and retained in present status.
 * [SB 5737](/bill/2021-22/sb/5737/) - Long-term care/pending exem. | First reading, referred to Health & Long Term Care.
 * [SB 5769](/bill/2021-22/sb/5769/) - State tax system | First reading, referred to Business, Financial Services & Trade.

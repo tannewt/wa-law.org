@@ -15,9 +15,9 @@
 * [HB 1566](/bill/2021-22/hb/1566/) - Legislature/disabilities | By resolution, reintroduced and retained in present status.
 * [HB 1586](/bill/2021-22/hb/1586/) - Grassroots lobbyists | By resolution, reintroduced and retained in present status.
 * [HB 1711](/bill/2021-22/hb/1711/) - Accessory dwelling units | Referred to Rules 2 Review.
-* [HB 1717](/bill/2021-22/hb/1717/) - GMA planning/tribes | APP - Executive action taken by committee.
+* [HB 1717](/bill/2021-22/hb/1717/) - GMA planning/tribes | Referred to Rules 2 Review.
 * [HB 1802](/bill/2021-22/hb/1802/) - Disabilities/entity members | Referred to Rules 2 Review.
-* [HB 1981](/bill/2021-22/hb/1981/) - Local government planning | LG - Majority; 1st substitute bill be substituted, do pass.
+* [HB 1981](/bill/2021-22/hb/1981/) - Local government planning | Referred to Rules 2 Review.
 * [HB 2039](/bill/2021-22/hb/2039/) - Vapor products | First reading, referred to Commerce & Gaming.
 * [HB 2095](/bill/2021-22/hb/2095/) - School seismic safety grants | First reading, referred to Capital Budget.
 * [HB 2111](/bill/2021-22/hb/2111/) - Newspapers/B&O tax | First reading, referred to Finance.

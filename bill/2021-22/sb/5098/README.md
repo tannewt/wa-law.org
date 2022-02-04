@@ -1,4 +1,4 @@
-# SB 5098 - Reports
+# SB 5098 - Public records exemptions
 **Primary Sponsor:** [Sam Hunt](/person/leg/sam.hunt.md)
 
 *Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2021)

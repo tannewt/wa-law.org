@@ -8,6 +8,3 @@ Improving environmental and social outcomes with the production of building mate
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 1:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

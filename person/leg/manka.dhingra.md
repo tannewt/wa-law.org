@@ -16,7 +16,7 @@
 * [SB 5297](/bill/2021-22/sb/5297/) - Civil protection orders | By resolution, reintroduced and retained in present status.
 * [ESB 5476](/bill/2021-22/esb/5476/) - State v. Blake decision | Effective date 7/25/2021*.
 * [SB 5561](/bill/2021-22/sb/5561/) - Firearm rights restoration | Passed to Rules Committee for second reading.
-* [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Passed to Rules Committee for second reading.
+* [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Placed on second reading by Rules Committee.
 * [SB 5645](/bill/2021-22/sb/5645/) - Assisted outpatient treat. | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5655](/bill/2021-22/sb/5655/) - Invol. treatment refusals | Referred to Ways & Means.
 * [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Referred to Ways & Means.
@@ -24,5 +24,5 @@
 * [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Referred to Ways & Means.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.
-* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | And refer to Ways & Means.
+* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | Referred to Ways & Means.
 * [SB 5845](/bill/2021-22/sb/5845/) - Civil protection orders | First reading, referred to Law & Justice.

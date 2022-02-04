@@ -7,6 +7,3 @@ Concerning agriculture, food, and natural resource education.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

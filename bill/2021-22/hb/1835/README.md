@@ -8,3 +8,6 @@ Creating outreach and completion initiatives to increase postsecondary enrollmen
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Fri, Feb 4 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

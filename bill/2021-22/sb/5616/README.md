@@ -8,6 +8,3 @@ Concerning accounts.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Thu, Feb 3 at 4:00 pm - [Senate Transportation](/senate/2021-22/TRAN/) Public Hearing

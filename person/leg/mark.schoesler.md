@@ -13,8 +13,8 @@
 * [SB 5453](/bill/2021-22/sb/5453/) - Retirement plans 1 & 2 | By resolution, reintroduced and retained in present status.
 * [ESB 5454](/bill/2021-22/esb/5454/) - Prop. tax/natural disasters | Effective date 7/25/2021.
 * [SB 5503](/bill/2021-22/sb/5503/) - Long-term care products | First reading, referred to Health & Long Term Care.
-* [SB 5643](/bill/2021-22/sb/5643/) - Youth development programs | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | Passed to Rules Committee for second reading.
+* [SB 5643](/bill/2021-22/sb/5643/) - Youth development programs | Referred to Ways & Means.
+* [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | Placed on second reading by Rules Committee.
 * [SB 5786](/bill/2021-22/sb/5786/) - Puget Sound nutrient permits | First reading, referred to Environment, Energy & Technology.
 * [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | Passed to Rules Committee for second reading.
 * [SB 5800](/bill/2021-22/sb/5800/) - Tax and revenue laws | Passed to Rules Committee for second reading.
