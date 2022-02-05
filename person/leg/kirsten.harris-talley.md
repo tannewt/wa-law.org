@@ -10,4 +10,4 @@
 * [HB 1895](/bill/2021-22/hb/1895/) - Forest conservation | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1896](/bill/2021-22/hb/1896/) - Batteries/environment | Referred to Appropriations.
 * [HB 1897](/bill/2021-22/hb/1897/) - Juvenile rehab./parent costs | First reading, referred to Children, Youth & Families.
-* [HB 2050](/bill/2021-22/hb/2050/) - Parent pay/child detention | Referred to Appropriations.
+* [HB 2050](/bill/2021-22/hb/2050/) - Parent pay/child detention | APP - Executive action taken by committee.

@@ -9,4 +9,4 @@ Improving tax administration by waiving penalties and imposing interest in certa
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Fri, Feb 4 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session
+* Mon, Feb 7 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

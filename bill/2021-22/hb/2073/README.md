@@ -9,5 +9,4 @@ Establishing the state capitol committee as an advisory entity of state governme
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Fri, Feb 4 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Public Hearing
 * Mon, Feb 7 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Executive Session

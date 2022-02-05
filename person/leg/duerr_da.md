@@ -1,7 +1,7 @@
 # Davina Duerr
 ## Bills
 * [HB 1099](/bill/2021-22/hb/1099/) - Comprehensive planning | First reading, referred to Housing & Local Government.
-* [HB 1100](/bill/2021-22/hb/1100/) - Mobile home community sales | By resolution, reintroduced and retained in present status.
+* [HB 1100](/bill/2021-22/hb/1100/) - Mobile home community sales | APP - Executive action taken by committee.
 * [HB 1103](/bill/2021-22/hb/1103/) - Building materials | By resolution, reintroduced and retained in present status.
 * [HB 1184](/bill/2021-22/hb/1184/) - Risk-based water standards | Effective date 7/25/2021.
 * [HB 1189](/bill/2021-22/hb/1189/) - Tax increment financing | Effective date 7/25/2021.

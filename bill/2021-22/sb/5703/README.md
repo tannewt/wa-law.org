@@ -8,3 +8,6 @@ Concerning the use of toxic chemicals in cosmetic products.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Sat, Feb 5 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing

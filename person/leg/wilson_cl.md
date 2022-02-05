@@ -16,8 +16,8 @@
 * [SB 5588](/bill/2021-22/sb/5588/) - Reentry & discharge planning | Referred to Ways & Means.
 * [SB 5592](/bill/2021-22/sb/5592/) - Cost of supervision | Referred to Ways & Means.
 * [SB 5639](/bill/2021-22/sb/5639/) - Solitary confinement | First reading, referred to Human Services, Reentry & Rehabilitation.
-* [SB 5687](/bill/2021-22/sb/5687/) - Traffic safety | First reading, referred to Transportation.
-* [SB 5750](/bill/2021-22/sb/5750/) - WA state leadership board | Referred to Transportation.
+* [SB 5687](/bill/2021-22/sb/5687/) - Traffic safety | Passed to Rules Committee for second reading.
+* [SB 5750](/bill/2021-22/sb/5750/) - WA state leadership board | Passed to Rules Committee for second reading.
 * [SB 5793](/bill/2021-22/sb/5793/) - State boards, etc./stipends | Referred to Ways & Means.
 * [SB 5798](/bill/2021-22/sb/5798/) - Schools/comm. eligibility | Referred to Ways & Means.
 * [SB 5859](/bill/2021-22/sb/5859/) - Incarcerated individuals/PRA | First reading, referred to State Government & Elections.

@@ -7,6 +7,3 @@ Modifying the bond authorization for the Interstate 405 and state route number 1
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Fri, Feb 4 at 10:00 am - [House Transportation](/house/2021-22/TR/) Executive Session

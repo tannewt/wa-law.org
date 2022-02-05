@@ -7,3 +7,6 @@ Concerning the imposition of additive revenue sources within a regional transit 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Feb 7 at 12:30 pm - [Senate Transportation](/senate/2021-22/TRAN/) Executive Session

@@ -7,6 +7,3 @@ Concerning certain wheeled all-terrain vehicles.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Fri, Feb 4 at 10:00 am - [House Transportation](/house/2021-22/TR/) Executive Session

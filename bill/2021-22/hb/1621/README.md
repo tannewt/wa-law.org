@@ -1,12 +1,9 @@
 # HB 1621 - Sex. assault nurse training
 **Primary Sponsor:** [Gina Mosbrucker](/person/leg/gina.mosbrucker.md)
 
-*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1621&Year=2021)
+*Status: APP - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1621&Year=2021)
 
 Creating programs to encourage sexual assault nurse examiner training.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Fri, Feb 4 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

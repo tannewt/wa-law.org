@@ -31,6 +31,6 @@
 * [SB 5846](/bill/2021-22/sb/5846/) - Election offices/weapons | First reading, referred to Law & Justice.
 * [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | Referred to Ways & Means.
 * [SB 5861](/bill/2021-22/sb/5861/) - Housing benefit districts | First reading, referred to Housing & Local Government.
-* [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | First reading, referred to Transportation.
+* [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | Passed to Rules Committee for second reading.
 * [SB 5899](/bill/2021-22/sb/5899/) - SR 520 sales tax deferral | First reading, referred to Transportation.
 * [SB 5908](/bill/2021-22/sb/5908/) - Clean car authority | Referred to Transportation.

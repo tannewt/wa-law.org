@@ -7,7 +7,7 @@
 * [HB 1450](/bill/2021-22/hb/1450/) - School computers/device tax | By resolution, reintroduced and retained in present status.
 * [HB 1454](/bill/2021-22/hb/1454/) - Unlicensed child care | By resolution, reintroduced and retained in present status.
 * [HB 1460](/bill/2021-22/hb/1460/) - Telecommunications access | By resolution, reintroduced and retained in present status.
-* [HB 1691](/bill/2021-22/hb/1691/) - Oil spills/financial resp. | Referred to Appropriations.
+* [HB 1691](/bill/2021-22/hb/1691/) - Oil spills/financial resp. | APP - Executive action taken by committee.
 * [HB 1723](/bill/2021-22/hb/1723/) - Telecommunications access | Referred to Rules 2 Review.
 * [HB 1727](/bill/2021-22/hb/1727/) - Odd-numbered year elections | Referred to Rules 2 Review.
 * [HB 1801](/bill/2021-22/hb/1801/) - Electronic equipment repair | Referred to Appropriations.

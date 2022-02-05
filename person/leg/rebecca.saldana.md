@@ -17,4 +17,4 @@
 * [SB 5772](/bill/2021-22/sb/5772/) - Postconviction counsel | Referred to Ways & Means.
 * [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | Referred to Ways & Means.
 * [SB 5835](/bill/2021-22/sb/5835/) - Workers' comp marriage study | Passed to Rules Committee for second reading.
-* [SB 5863](/bill/2021-22/sb/5863/) - RTA vehicle removal | First reading, referred to Transportation.
+* [SB 5863](/bill/2021-22/sb/5863/) - RTA vehicle removal | Passed to Rules Committee for second reading.

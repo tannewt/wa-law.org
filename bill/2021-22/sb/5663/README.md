@@ -8,6 +8,3 @@ Establishing streamlined procedures for compliance with the State v. Blake decis
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Fri, Feb 4 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing

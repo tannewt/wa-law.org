@@ -7,3 +7,4 @@ Concerning the types of nonprofit organizations qualified to engage in bingo act
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

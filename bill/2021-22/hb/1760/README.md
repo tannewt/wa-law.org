@@ -8,6 +8,3 @@ Expanding access to dual credit programs.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Fri, Feb 4 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

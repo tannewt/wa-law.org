@@ -8,6 +8,6 @@
 * [HB 1612](/bill/2021-22/hb/1612/) - Unemployment ins./technical | Referred to Rules 2 Review.
 * [HB 1613](/bill/2021-22/hb/1613/) - Employer reports/private | Referred to Rules 2 Review.
 * [HB 1706](/bill/2021-22/hb/1706/) - Truck drivers/restrooms | First reading, referred to Transportation.
-* [HB 1764](/bill/2021-22/hb/1764/) - Physician bargaining | Referred to Appropriations.
+* [HB 1764](/bill/2021-22/hb/1764/) - Physician bargaining | APP - Executive action taken by committee.
 * [HB 1776](/bill/2021-22/hb/1776/) - High-hazard facility wages | Referred to Rules 2 Review.
 * [HB 1811](/bill/2021-22/hb/1811/) - Fire benefit charges | Referred to Finance.

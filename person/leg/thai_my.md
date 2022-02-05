@@ -17,5 +17,5 @@
 * [HB 1851](/bill/2021-22/hb/1851/) - Abortion care | Referred to Rules 2 Review.
 * [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Referred to Appropriations.
 * [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | Referred to Rules 2 Review.
-* [HB 2096](/bill/2021-22/hb/2096/) - Working families' tax exempt | First reading, referred to Finance.
+* [HB 2096](/bill/2021-22/hb/2096/) - Working families' tax exempt | FIN - Majority; do pass.
 * [HB 2116](/bill/2021-22/hb/2116/) - Nonbiodegradable packaging | First reading, referred to Environment & Energy.

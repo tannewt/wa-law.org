@@ -7,3 +7,4 @@ Modifying the standard for use of force by peace officers.
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

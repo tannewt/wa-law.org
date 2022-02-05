@@ -19,9 +19,6 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Fri, Feb 4 at 10:30 am
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Sat, Feb 5 at 10:00 am
  To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -30,6 +27,18 @@ Public Hearing
 * [SB 5930](/bill/2021-22/sb/5930/) - Allowing tribal governments to participate in exchange agreements without certain restrictions. (Remote testimony.)
 * [SB 5622](/bill/2021-22/sb/5622/) - Modifying the operation of motorcycles on roadways laned for traffic. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [SB 5528](/bill/2021-22/sb/5528/) - Concerning the imposition of additive revenue sources within a regional transit authority area.
+* [SB 5724](/bill/2021-22/sb/5724/) - Concerning organ transport vehicles. **5👍** **0👎** **0❓**
+* [SSB 5616](/bill/2021-22/sb/5616/) - Concerning accounts.
+* [SB 5726](/bill/2021-22/sb/5726/) - Concerning interruptive military service credit for members of the state retirement systems. **12👍** **0👎** **0❓**
+* [SB 5815](/bill/2021-22/sb/5815/) - Implementing an identicard program to provide individuals a Washington state-issued identicard. **9👍** **1👎** **0❓**
+* [SB 5903](/bill/2021-22/sb/5903/) - Providing multimodal transportation options at drive-up services. **27👍** **1👎** **2❓**
+* [SB 5828](/bill/2021-22/sb/5828/) - Implementing recommendations of the autonomous vehicle work group. **13👍** **53👎** **2❓**
+* [SB 5853](/bill/2021-22/sb/5853/) - Establishing a limited project regarding leasing certain department of transportation property in order to remedy past impacts to historically marginalized populations. **111👍** **1👎** **1❓**
+* [SSB 5406](/bill/2021-22/sb/5406/) - Providing compensation for tow truck operators for keeping the public roadways clear. **13👍** **0👎** **0❓**
+* [SB 5907](/bill/2021-22/sb/5907/) - Concerning roadside safety measures and public awareness of emergency vehicles providing roadside assistance. **31👍** **0👎** **1❓**
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

@@ -9,4 +9,4 @@ Addressing the creation, display, and material durability of temporary license p
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Fri, Feb 4 at 10:00 am - [House Transportation](/house/2021-22/TR/) Executive Session
+* Mon, Feb 7 at 10:00 am - [House Transportation](/house/2021-22/TR/) Executive Session

@@ -7,3 +7,6 @@ Concerning the preservation and protection of facilities owned by the state park
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Feb 7 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

@@ -10,5 +10,5 @@
 * [HB 1813](/bill/2021-22/hb/1813/) - Pharmacy choice | Referred to Rules 2 Review.
 * [HB 1821](/bill/2021-22/hb/1821/) - Telemedicine/relationship | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1902](/bill/2021-22/hb/1902/) - Workers' comp reopening | Referred to Rules 2 Review.
-* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | First reading, referred to Appropriations.
+* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | APP - Executive action taken by committee.
 * [HB 1959](/bill/2021-22/hb/1959/) - Managed health rate review | Referred to Rules 2 Review.

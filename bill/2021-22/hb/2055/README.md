@@ -7,3 +7,6 @@ Providing capital budget matching grants to independent higher education institu
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Feb 7 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Executive Session

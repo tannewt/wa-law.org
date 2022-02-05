@@ -7,3 +7,4 @@ Modernizing the energy facility site evaluation council to meet the state's clea
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

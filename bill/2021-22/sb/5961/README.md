@@ -7,6 +7,7 @@ Incentivizing the use of biochar.
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Testify
 The Senate Ways & Means committee will be holding a public hearing on Sat, Feb 5 at 9:00 am. There are three ways to testify. You can do more than one.

@@ -18,26 +18,19 @@
 * [Sharon Wylie](/person/leg/sharon.wylie.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Fri, Feb 4 at 8:00 am
+### Mon, Feb 7 at 8:00 am
 Public Hearing
-* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. (Remote testimony.)
-* [HB 1811](/bill/2021-22/hb/1811/) - Concerning fire benefit charges imposed by cities and towns. (Remote testimony.) **7👍** **0👎** **0❓**
-* [SHB 1880](/bill/2021-22/hb/1880/) - Concerning housing benefit districts. (Remote testimony.)
+* [HB 1792](/bill/2021-22/hb/1792/) - Expanding the production, distribution, and use of hydrogen not produced from a fossil fuel feedstock. (Remote testimony.)
+* [SHB 1814](/bill/2021-22/hb/1814/) - Expanding equitable access to the benefits of renewable energy through community solar projects. (Remote testimony.)
+* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. (Remote testimony.) **11👍** **1👎** **1❓**
+* [HB 1966](/bill/2021-22/hb/1966/) - Creating a local infrastructure investment program to support the development of affordable housing, workforce housing, and revitalization efforts. (Remote testimony.)
 
 Executive Session
-* [HB 2096](/bill/2021-22/hb/2096/) - Concerning the working families' tax exemption, also known as the working families tax credit. **45👍** **0👎** **0❓**
 * [HB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
-* [HB 1175](/bill/2021-22/hb/1175/) - Providing a property tax exemption for real property used as a host home associated with a host home program.
-* [HB 1965](/bill/2021-22/hb/1965/) - Providing additional support and services for veterans' assistance and for persons with developmental disabilities or mental health needs. **12👍** **1👎** **0❓**
-* [HB 1921](/bill/2021-22/hb/1921/) - Concerning the valuation of property related to renewable energy for the purposes of property tax and providing for a payment in lieu of taxes for renewable energy facilities.
-* [HB 1657](/bill/2021-22/hb/1657/) - Reducing the emissions and safety risks of inadequate commercial truck parking supply through tax incentives. **8👍** **0👎** **0❓**
+* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. **5👍** **91👎** **0❓**
+* [HB 1811](/bill/2021-22/hb/1811/) - Concerning fire benefit charges imposed by cities and towns. **13👍** **2👎** **1❓**
+* [HB 2058](/bill/2021-22/hb/2058/) - Concerning the preservation and protection of facilities owned by the state parks and recreation commission that are listed on the Washington heritage register or the national register of historic places. **9👍** **0👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-### Mon, Feb 7 at 8:00 am
-Executive Session
-* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
