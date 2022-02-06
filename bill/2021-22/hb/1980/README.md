@@ -7,6 +7,3 @@ Removing the prohibition on providing employment services and community access s
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Sat, Feb 5 at 9:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

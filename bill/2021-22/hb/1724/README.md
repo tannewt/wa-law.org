@@ -8,6 +8,3 @@ Ensuring oversight and coordination of permanent supportive housing resources to
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Sat, Feb 5 at 9:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

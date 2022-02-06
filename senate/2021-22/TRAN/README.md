@@ -19,9 +19,6 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Sat, Feb 5 at 10:00 am
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 7 at 12:30 pm
 Public Hearing
 * [SB 5930](/bill/2021-22/sb/5930/) - Allowing tribal governments to participate in exchange agreements without certain restrictions. (Remote testimony.)

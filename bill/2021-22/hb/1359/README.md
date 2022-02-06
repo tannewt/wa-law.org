@@ -10,3 +10,6 @@ Temporarily reducing liquor license fees.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+
+## Upcoming Meetings
+* Mon, Feb 7 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

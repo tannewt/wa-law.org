@@ -31,14 +31,12 @@
 * [Jim Walsh](/person/leg/jim.walsh.md)
 * [Emily Wicks](/person/leg/wicks_em.md)
 ## Upcoming Meetings
-### Sat, Feb 5 at 9:00 am
-
-
 ### Mon, Feb 7 at 10:00 am
 Public Hearing
 * Bills referred to committee. (Remote testimony.)
 
 Executive Session
+* [HB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. **180👍** **0👎** **0❓**
 * [HB 1605](/bill/2021-22/hb/1605/) - Creating a program to provide for improved safety on roadways to prevent vehicle lane departures.
 * [HB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities.
 * [HB 1712](/bill/2021-22/hb/1712/) - Concerning municipal airport commissions.

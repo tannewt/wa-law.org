@@ -9,4 +9,4 @@ Concerning the defense community compatibility account.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Sat, Feb 5 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing
+* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

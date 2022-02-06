@@ -10,14 +10,5 @@ Concerning secure automatic voter registration.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
-## Testify
-The Senate Ways & Means committee will be holding a public hearing on Sat, Feb 5 at 9:00 am. There are three ways to testify. You can do more than one.
-* 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29672&aId=146043&caId=19374&tId=3)
-* ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29672&aId=146043&caId=19374&tId=4)
-* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29672&aId=146043&caId=19374&tId=2)
-
-Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19374).
-
-
 ## Upcoming Meetings
-* Sat, Feb 5 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing
+* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

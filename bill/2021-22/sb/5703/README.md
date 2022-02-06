@@ -10,4 +10,4 @@ Concerning the use of toxic chemicals in cosmetic products.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Sat, Feb 5 at 9:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing
+* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

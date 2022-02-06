@@ -121,51 +121,6 @@
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Sat, Feb 5
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-05-2022/02-05-2022/Agenda///Bill/)
-#### 9:00 am
-**Transportation**
-
-
-**Appropriations**
-Public Hearing
-* [SHB 2078](/bill/2021-22/hb/2078/) - Establishing the outdoor learning grant program. (Remote testimony.) **39👍** **0👎** **0❓**
-* [HB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. (Remote testimony.) **3👍** **0👎** **0❓**
-* [HB 1682](/bill/2021-22/hb/1682/) - Concerning a compliance pathway specific to emissions-intensive, trade-exposed businesses for achieving their proportionate share of the state's emissions reduction limits through 2050. (Remote testimony.)
-* [HB 1896](/bill/2021-22/hb/1896/) - Providing for responsible environmental management of batteries. (Remote testimony.) **248👍** **13👎** **7❓**
-* [HB 1684](/bill/2021-22/hb/1684/) - Concerning public health and fluoridation of drinking water. (Remote testimony.) **209👍** **12👎** **2❓**
-* [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. (Remote testimony.) **85👍** **22👎** **4❓**
-* [HB 2075](/bill/2021-22/hb/2075/) - Establishing service requirements for the department of social and health services. (Remote testimony.) **129👍** **0👎** **3❓**
-* [HB 1860](/bill/2021-22/hb/1860/) - Preventing homelessness among persons discharging from inpatient behavioral health settings. (Remote testimony.)
-* [HB 2038](/bill/2021-22/hb/2038/) - Supporting children involved with child welfare services. (Remote testimony.) **4👍** **0👎** **1❓**
-* [HB 1992](/bill/2021-22/hb/1992/) - Concerning vacation leave accrual for public employees. (Remote testimony.) **19👍** **0👎** **0❓**
-* [HB 1773](/bill/2021-22/hb/1773/) - Concerning assisted outpatient treatment for persons with behavioral health disorders. (Remote testimony.)
-* [HB 1782](/bill/2021-22/hb/1782/) - Creating additional middle housing near transit and in areas traditionally dedicated to single-family detached housing. (Remote testimony.)
-* [HB 1850](/bill/2021-22/hb/1850/) - Protecting and enforcing the foundational data privacy rights of Washingtonians. (Remote testimony.) **9👍** **12👎** **54❓**
-* [HB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing. (Remote testimony.)
-* [HB 1868](/bill/2021-22/hb/1868/) - Improving worker safety and patient care in health care facilities by addressing staffing needs, overtime, meal and rest breaks, and enforcement. (Remote testimony.)
-* [HB 1590](/bill/2021-22/hb/1590/) - Concerning enrollment stabilization funding to address enrollment declines due to the COVID-19 pandemic. (Remote testimony.)
-* [HB 1803](/bill/2021-22/hb/1803/) - Updating school district director compensation through the revision and preservation of a uniform compensation structure and an examination of future needs. (Remote testimony.)
-
-Executive Session
-* [HB 1643](/bill/2021-22/hb/1643/) - Exempting a sale or transfer of real property for affordable housing to a nonprofit entity, housing authority, public corporation, county, or municipal corporation from the real estate excise tax. **50👍** **0👎** **0❓**
-* [HB 1663](/bill/2021-22/hb/1663/) - Reducing methane emissions from landfills. **31👍** **119👎** **3❓**
-* [HB 1668](/bill/2021-22/hb/1668/) - Expanding regulatory authority over cannabinoids that may be impairing and providing for enhanced product safety and consumer information disclosure about marijuana products. **22👍** **6👎** **0❓**
-* [HB 1694](/bill/2021-22/hb/1694/) - Concerning logistical processes for the regulation of priority chemicals in consumer products. **8👍** **126👎** **1❓**
-* [HB 1724](/bill/2021-22/hb/1724/) - Ensuring oversight and coordination of permanent supportive housing resources to maximize the creation of high quality housing opportunities for people living with disabling conditions in communities across Washington. **56👍** **0👎** **0❓**
-* [HB 1753](/bill/2021-22/hb/1753/) - Concerning tribal consultation regarding the use of certain funding authorized by the climate commitment act. **25👍** **132👎** **1❓**
-* [HB 1806](/bill/2021-22/hb/1806/) - Extending collective bargaining rights to employees of the legislative branch of state government. **177👍** **147👎** **2❓**
-* [HB 1818](/bill/2021-22/hb/1818/) - Promoting successful reentry and rehabilitation of persons convicted of criminal offenses. **14👍** **0👎** **0❓**
-* [HB 1878](/bill/2021-22/hb/1878/) - Increasing public school participation in the community eligibility provision of the United States department of agriculture. **60👍** **0👎** **0❓**
-* [HB 1889](/bill/2021-22/hb/1889/) - Concerning network access. **19👍** **4👎** **0❓**
-* [HB 1905](/bill/2021-22/hb/1905/) - Reducing homelessness for youth and young adults discharging from a publicly funded system of care. **57👍** **0👎** **0❓**
-* [HB 1980](/bill/2021-22/hb/1980/) - Removing the prohibition on providing employment services and community access services concurrently. **83👍** **0👎** **2❓**
-* [HB 2008](/bill/2021-22/hb/2008/) - Eliminating the use of intelligence quotient scores in determining eligibility for programs and services for individuals with developmental disabilities. **96👍** **5👎** **4❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 7
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-07-2022/02-07-2022/Agenda///Bill/)
 #### 8:00 am
@@ -205,7 +160,38 @@ To view committee meetings or access the committee meeting documents, visit the 
 #### 10:00 am
 **Appropriations**
 Public Hearing
-* Bills referred to committee. (Remote testimony.)
+* [HB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members. (Remote testimony.)
+* [HB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management. (Remote testimony.)
+* [HB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. (Remote testimony.) **35👍** **5👎** **7❓**
+* [HB 2044](/bill/2021-22/hb/2044/) - Concerning the protection of critical constituent and state operational data against the financial and personal harm caused by ransomware and other malicious cyber activities. (Remote testimony.) **58👍** **2👎** **2❓**
+* [HB 2048](/bill/2021-22/hb/2048/) - Concerning temporary assistance for needy families time limit extensions. (Remote testimony.) **296👍** **0👎** **1❓**
+
+Executive Session
+* [2SHB 1359](/bill/2021-22/hb/1359/) - Reducing liquor license fees temporarily.
+* [HB 1590](/bill/2021-22/hb/1590/) - Concerning enrollment stabilization funding to address enrollment declines due to the COVID-19 pandemic. **63👍** **1386👎** **3❓**
+* [HB 1668](/bill/2021-22/hb/1668/) - Expanding regulatory authority over cannabinoids that may be impairing and providing for enhanced product safety and consumer information disclosure about marijuana products. **22👍** **6👎** **0❓**
+* [HB 1684](/bill/2021-22/hb/1684/) - Concerning public health and fluoridation of drinking water. **417👍** **93👎** **2❓**
+* [HB 1773](/bill/2021-22/hb/1773/) - Concerning assisted outpatient treatment for persons with behavioral health disorders. **16👍** **10👎** **0❓**
+* [HB 1782](/bill/2021-22/hb/1782/) - Creating additional middle housing near transit and in areas traditionally dedicated to single-family detached housing. **347👍** **147👎** **3❓**
+* [HB 1803](/bill/2021-22/hb/1803/) - Updating school district director compensation through the revision and preservation of a uniform compensation structure and an examination of future needs. **11👍** **85👎** **0❓**
+* [HB 1806](/bill/2021-22/hb/1806/) - Extending collective bargaining rights to employees of the legislative branch of state government. **177👍** **147👎** **2❓**
+* [HB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. **20👍** **37👎** **0❓**
+* [HB 1860](/bill/2021-22/hb/1860/) - Preventing homelessness among persons discharging from inpatient behavioral health settings. **26👍** **2👎** **0❓**
+* [HB 1865](/bill/2021-22/hb/1865/) - Addressing the behavioral health workforce shortage and expanding access to peer services by creating the profession of certified peer specialists.
+* [HB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing. **135👍** **0👎** **0❓**
+* [HB 1868](/bill/2021-22/hb/1868/) - Improving worker safety and patient care in health care facilities by addressing staffing needs, overtime, meal and rest breaks, and enforcement. **2473👍** **103👎** **23❓**
+* [HB 1896](/bill/2021-22/hb/1896/) - Providing for responsible environmental management of batteries. **277👍** **96👎** **8❓**
+* [HB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. **8👍** **76👎** **0❓**
+* [HB 1992](/bill/2021-22/hb/1992/) - Concerning vacation leave accrual for public employees. **28👍** **2👎** **0❓**
+* [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. **148👍** **105👎** **5❓**
+* [HB 2038](/bill/2021-22/hb/2038/) - Supporting children involved with child welfare services. **5👍** **0👎** **1❓**
+* [HB 2075](/bill/2021-22/hb/2075/) - Establishing service requirements for the department of social and health services. **254👍** **0👎** **7❓**
+* [HB 2078](/bill/2021-22/hb/2078/) - Establishing the outdoor school for all program. **383👍** **80👎** **0❓**
+* [HB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members.
+* [HB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management.
+* [HB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. **35👍** **5👎** **7❓**
+* [SHB 2044](/bill/2021-22/hb/2044/) - Concerning the protection of critical constituent and state operational data against the financial and personal harm caused by ransomware and other malicious cyber activities. **58👍** **2👎** **2❓**
+* [HB 2048](/bill/2021-22/hb/2048/) - Concerning temporary assistance for needy families time limit extensions. **296👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -216,6 +202,7 @@ Public Hearing
 * Bills referred to committee. (Remote testimony.)
 
 Executive Session
+* [HB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. **180👍** **0👎** **0❓**
 * [HB 1605](/bill/2021-22/hb/1605/) - Creating a program to provide for improved safety on roadways to prevent vehicle lane departures.
 * [HB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities.
 * [HB 1712](/bill/2021-22/hb/1712/) - Concerning municipal airport commissions.
