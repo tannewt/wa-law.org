@@ -1,7 +1,7 @@
 # HB 1728 - Insulin work group reauth.
 **Primary Sponsor:** [Jacquelin Maycumber](/person/leg/maycumbe_ja.md)
 
-*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1728&Year=2021)
+*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1728&Year=2021)
 
 Reauthorizing and amending dates for the total cost of insulin work group.
 

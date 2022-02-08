@@ -7,6 +7,3 @@ Concerning postconviction access to counsel.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

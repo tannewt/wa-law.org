@@ -8,6 +8,3 @@ Addressing the behavioral health workforce shortage and expanding access to peer
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Feb 7 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

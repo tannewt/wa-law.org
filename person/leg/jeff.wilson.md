@@ -12,10 +12,10 @@
 * [SB 5492](/bill/2021-22/sb/5492/) - Wind turbine blade recycling | First reading, referred to Environment, Energy & Technology.
 * [SB 5493](/bill/2021-22/sb/5493/) - Residential renewable energy | First reading, referred to Environment, Energy & Technology.
 * [SB 5494](/bill/2021-22/sb/5494/) - Olefins from natural gas | First reading, referred to Environment, Energy & Technology.
-* [SB 5495](/bill/2021-22/sb/5495/) - Catalytic converters | Referred to Ways & Means.
+* [SB 5495](/bill/2021-22/sb/5495/) - Catalytic converters | Minority; without recommendation.
 * [SJR 8203](/bill/2021-22/sjr/8203/) - Term limits | By resolution, reintroduced and retained in present status.
 * [SB 5635](/bill/2021-22/sb/5635/) - Tow truck safety | First reading, referred to Transportation.
 * [SB 5650](/bill/2021-22/sb/5650/) - Elections law violation info | Passed to Rules Committee for second reading.
 * [SB 5856](/bill/2021-22/sb/5856/) - Firearm transfers to museums | Passed to Rules Committee for second reading.
 * [SB 5871](/bill/2021-22/sb/5871/) - Microschool pilot project | First reading, referred to Early Learning & K-12 Education.
-* [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | First reading, referred to Transportation.
+* [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | TRAN - Majority; 1st substitute bill be substituted, do pass.

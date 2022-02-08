@@ -8,6 +8,3 @@ Integrating means for payment of community health workers into primary care.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

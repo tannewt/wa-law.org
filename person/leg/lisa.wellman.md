@@ -4,7 +4,7 @@
 * [SB 5128](/bill/2021-22/sb/5128/) - Student transportation funds | Effective date 5/10/2021.
 * [SB 5161](/bill/2021-22/sb/5161/) - Teaching tribal history, etc | By resolution, reintroduced and retained in present status.
 * [SB 5249](/bill/2021-22/sb/5249/) - Mastery-based learning | Effective date 7/25/2021*.
-* [SB 5252](/bill/2021-22/sb/5252/) - School consultation/tribes | Referred to Ways & Means.
+* [SB 5252](/bill/2021-22/sb/5252/) - School consultation/tribes | WM - Majority; do pass 1st substitute bill proposed by Early Learning & K-12 Education.
 * [SB 5255](/bill/2021-22/sb/5255/) - Dissolution/doc. language | By resolution, reintroduced and retained in present status.
 * [SB 5299](/bill/2021-22/sb/5299/) - Computer science/HS grad. | Effective date 7/25/2021.
 * [SB 5383](/bill/2021-22/sb/5383/) - Public telecomm. services | Effective date 7/25/2021.
@@ -15,10 +15,10 @@
 * [SB 5527](/bill/2021-22/sb/5527/) - Insurance sublimits | Passed to Rules Committee for second reading.
 * [SB 5537](/bill/2021-22/sb/5537/) - Compulsory school attendance | Referred to Ways & Means.
 * [SB 5562](/bill/2021-22/sb/5562/) - ESD employee health care | First reading, referred to Ways & Means.
-* [SB 5563](/bill/2021-22/sb/5563/) - Enrollment stabilization | Referred to Ways & Means.
+* [SB 5563](/bill/2021-22/sb/5563/) - Enrollment stabilization | Minority; do not pass.
 * [SB 5580](/bill/2021-22/sb/5580/) - Public works board/broadband | Passed to Rules Committee for second reading.
-* [SB 5581](/bill/2021-22/sb/5581/) - Pupil transp. allocations | Referred to Ways & Means.
-* [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Referred to Ways & Means.
+* [SB 5581](/bill/2021-22/sb/5581/) - Pupil transp. allocations | Minority; without recommendation.
+* [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Minority; without recommendation.
 * [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | Placed on second reading by Rules Committee.
 * [SB 5659](/bill/2021-22/sb/5659/) - Building material standards | First reading, referred to State Government & Elections.
 * [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Passed to Rules Committee for second reading.

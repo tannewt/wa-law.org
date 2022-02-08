@@ -8,6 +8,6 @@
 * [HB 1485](/bill/2021-22/hb/1485/) - Women's Suffrage Day | By resolution, reintroduced and retained in present status.
 * [HB 1608](/bill/2021-22/hb/1608/) - Ferries/employment barriers | First reading, referred to Labor & Workplace Standards.
 * [HB 1949](/bill/2021-22/hb/1949/) - Higher edu capital projects | First reading, referred to Capital Budget.
-* [HB 1950](/bill/2021-22/hb/1950/) - Unsafe dental practices | Referred to Rules 2 Review.
+* [HB 1950](/bill/2021-22/hb/1950/) - Unsafe dental practices | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1952](/bill/2021-22/hb/1952/) - Housing & services/location | First reading, referred to Local Government.
 * [HB 2038](/bill/2021-22/hb/2038/) - Child welfare services | Referred to Appropriations.

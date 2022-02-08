@@ -40,5 +40,5 @@
 * [HB 1986](/bill/2021-22/hb/1986/) - School district boards | First reading, referred to Education.
 * [HB 2021](/bill/2021-22/hb/2021/) - Multiple substances DUI | First reading, referred to Public Safety.
 * [HB 2036](/bill/2021-22/hb/2036/) - Law enf. agency equipment | First reading, referred to Public Safety.
-* [HB 2082](/bill/2021-22/hb/2082/) - Child care access report | Referred to Rules 2 Review.
+* [HB 2082](/bill/2021-22/hb/2082/) - Child care access report | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 2087](/bill/2021-22/hb/2087/) - Education/parent rights | First reading, referred to Education.

@@ -1,7 +1,7 @@
 # SB 5036 - Total confinement release
 **Primary Sponsor:** [Manka Dhingra](/person/leg/manka.dhingra.md)
 
-*Status: Third reading, passed; yeas, 28; nays, 19; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5036&Year=2021)
+*Status: First reading, referred to Public Safety.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5036&Year=2021)
 
 Concerning the release of incarcerated individuals from total confinement prior to the expiration of a sentence.
 

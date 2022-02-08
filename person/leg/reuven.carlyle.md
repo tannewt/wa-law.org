@@ -15,8 +15,8 @@
 * [SB 5820](/bill/2021-22/sb/5820/) - Superintendent, appointing | First reading, referred to Early Learning & K-12 Education.
 * [SB 5833](/bill/2021-22/sb/5833/) - School director compensation | First reading, referred to Early Learning & K-12 Education.
 * [SB 5834](/bill/2021-22/sb/5834/) - State gov. tech. policies | Referred to Ways & Means.
-* [SB 5842](/bill/2021-22/sb/5842/) - Climate change | Referred to Ways & Means.
-* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | Referred to Ways & Means.
+* [SB 5842](/bill/2021-22/sb/5842/) - Climate change | Minority; without recommendation.
+* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | WM - Majority; do pass 1st substitute bill proposed by Environment, Energy & Technology.
 * [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SB 5967](/bill/2021-22/sb/5967/) - Financial instit./climate | First reading, referred to Ways & Means.
 * [SJR 8212](/bill/2021-22/sjr/8212/) - Superintendent | First reading, referred to Early Learning & K-12 Education.

@@ -1,13 +1,10 @@
 # SB 5867 - Emerg. overnight shelters
 **Primary Sponsor:** [Phil Fortunato](/person/leg/phil.fortunato.md)
 
-*Status: Referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5867&Year=2021)
+*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5867&Year=2021)
 
 Concerning compassionate and effective strategies to address the homelessness crisis.
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

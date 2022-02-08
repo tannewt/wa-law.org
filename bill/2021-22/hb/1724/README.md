@@ -1,7 +1,7 @@
 # HB 1724 - Supportive housing resources
 **Primary Sponsor:** [Nicole Macri](/person/leg/nicole.macri.md)
 
-*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1724&Year=2021)
+*Status: APP - Majority; do pass 1st substitute bill proposed by Housing, Human Services & Veterans.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1724&Year=2021)
 
 Ensuring oversight and coordination of permanent supportive housing resources to maximize the creation of high quality housing opportunities for people living with disabling conditions in communities across Washington.
 

@@ -1,7 +1,7 @@
 # HB 1741 - Health provider contracting
 **Primary Sponsor:** [Eileen Cody](/person/leg/eileen.cody.md)
 
-*Status: APP - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1741&Year=2021)
+*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1741&Year=2021)
 
 Addressing affordability through health care provider contracting.
 

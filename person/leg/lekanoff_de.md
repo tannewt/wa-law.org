@@ -11,7 +11,7 @@
 * [HB 1640](/bill/2021-22/hb/1640/) - Tribal-state committee | First reading, referred to State Government & Tribal Relations.
 * [HB 1653](/bill/2021-22/hb/1653/) - Anadromous fish recovery | Referred to Appropriations.
 * [HB 1725](/bill/2021-22/hb/1725/) - Missing indigenous persons | First reading, referred to Law & Justice (Not Officially read and referred until adoption of Introduction report).
-* [HB 1753](/bill/2021-22/hb/1753/) - Climate funding/tribes | Referred to Appropriations.
+* [HB 1753](/bill/2021-22/hb/1753/) - Climate funding/tribes | APP - Majority; do pass 1st substitute bill proposed by Environment & Energy.
 * [HB 1838](/bill/2021-22/hb/1838/) - Salmon habitat | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 2060](/bill/2021-22/hb/2060/) - Medicaid LTSS/tribes | First reading, referred to Health Care & Wellness.
 * [HB 2090](/bill/2021-22/hb/2090/) - Tribal activities/credit | First reading, referred to Education.

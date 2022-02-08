@@ -1,7 +1,7 @@
 # Manka Dhingra
 ## Bills
 * [SB 5035](/bill/2021-22/sb/5035/) - Drug offender scoring | Senate Rules "X" file.
-* [SB 5036](/bill/2021-22/sb/5036/) - Total confinement release | Third reading, passed; yeas, 28; nays, 19; absent, 0; excused, 2.
+* [SB 5036](/bill/2021-22/sb/5036/) - Total confinement release | First reading, referred to Public Safety.
 * [SB 5066](/bill/2021-22/sb/5066/) - Officer duty to intervene | Effective date 7/25/2021.
 * [SB 5067](/bill/2021-22/sb/5067/) - Impeachment disclosures | By resolution, reintroduced and retained in present status.
 * [SB 5069](/bill/2021-22/sb/5069/) - Law enforcement audits | By resolution, reintroduced and retained in present status.
@@ -19,10 +19,10 @@
 * [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Placed on second reading by Rules Committee.
 * [SB 5645](/bill/2021-22/sb/5645/) - Assisted outpatient treat. | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5655](/bill/2021-22/sb/5655/) - Invol. treatment refusals | Referred to Ways & Means.
-* [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Referred to Ways & Means.
-* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Referred to Ways & Means.
-* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Referred to Ways & Means.
+* [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Minority; without recommendation.
+* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | WM - Majority; 2nd substitute bill be substituted, do pass.
+* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | WM - Majority; 2nd substitute bill be substituted, do pass.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.
-* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | Referred to Ways & Means.
+* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | Minority; without recommendation.
 * [SB 5845](/bill/2021-22/sb/5845/) - Civil protection orders | First reading, referred to Law & Justice.

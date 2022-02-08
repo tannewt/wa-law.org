@@ -1,7 +1,7 @@
 # HB 1805 - Opportunity scholarship prog
 **Primary Sponsor:** [Dave Paul](/person/leg/paul_da.md)
 
-*Status: APP - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1805&Year=2021)
+*Status: APP - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1805&Year=2021)
 
 Concerning the opportunity scholarship program.
 

@@ -1,4 +1,4 @@
-# SB 5923 - Temporary emergency shelters
+# SB 5923 - Temporary shelters/homeless
 **Primary Sponsor:** [June Robinson](/person/leg/june.robinson.md)
 
 *Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5923&Year=2021)

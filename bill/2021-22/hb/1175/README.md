@@ -1,7 +1,7 @@
 # HB 1175 - Host homes/property tax
 **Primary Sponsor:** [Jesse Johnson](/person/leg/johnson_je.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1175&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1175&Year=2021)
 
 Providing a property tax exemption for real property used as a host home associated with a host home program. 
 

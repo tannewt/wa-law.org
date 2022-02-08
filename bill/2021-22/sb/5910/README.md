@@ -1,13 +1,10 @@
 # SB 5910 - Hydrogen
 **Primary Sponsor:** [Reuven Carlyle](/person/leg/reuven.carlyle.md)
 
-*Status: Referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5910&Year=2021)
+*Status: WM - Majority; do pass 1st substitute bill proposed by Environment, Energy & Technology.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5910&Year=2021)
 
 Accelerating the availability and use of renewable hydrogen in Washington state.
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Feb 7 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

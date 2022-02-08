@@ -17,4 +17,4 @@
 * [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Passed to Rules Committee for second reading.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
 * [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | Placed on second reading by Rules Committee.
-* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Referred to Ways & Means.
+* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Minority; without recommendation.

@@ -11,5 +11,5 @@
 * [HB 1726](/bill/2021-22/hb/1726/) - Peace officers/use of force | First reading, referred to Public Safety.
 * [HB 1817](/bill/2021-22/hb/1817/) - Deferred prosecutions | Referred to Rules 2 Review.
 * [HB 1857](/bill/2021-22/hb/1857/) - Technical corrections | Referred to Rules 2 Review.
-* [HB 1901](/bill/2021-22/hb/1901/) - Civil protection orders | Referred to Rules 2 Review.
+* [HB 1901](/bill/2021-22/hb/1901/) - Civil protection orders | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 2037](/bill/2021-22/hb/2037/) - Peace officers/use of force | Referred to Rules 2 Review.

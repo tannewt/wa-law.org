@@ -15,7 +15,7 @@
 * [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | Passed to Rules Committee for second reading.
 * [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | Passed to Rules Committee for second reading.
 * [SB 5638](/bill/2021-22/sb/5638/) - Mental health prof. licenses | Placed on second reading by Rules Committee.
-* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Referred to Ways & Means.
+* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | WM - Majority; do pass 1st substitute bill proposed by Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5646](/bill/2021-22/sb/5646/) - Corrections/body scanners | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5679](/bill/2021-22/sb/5679/) - Elections/voter confidence | First reading, referred to State Government & Elections.
 * [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Passed to Rules Committee for second reading.

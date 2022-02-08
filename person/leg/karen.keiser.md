@@ -15,12 +15,12 @@
 * [SB 5507](/bill/2021-22/sb/5507/) - Dialysate & dialysis devices | First reading, referred to Health & Long Term Care.
 * [SB 5517](/bill/2021-22/sb/5517/) - Cannabis/employment | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5520](/bill/2021-22/sb/5520/) - Harassment & discrim. NDAs | Passed to Rules Committee for second reading.
-* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | Referred to Ways & Means.
+* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | Minority; without recommendation.
 * [SB 5533](/bill/2021-22/sb/5533/) - Online marketplaces | First reading, referred to Environment, Energy & Technology.
 * [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | Placed on second reading by Rules Committee.
 * [SB 5547](/bill/2021-22/sb/5547/) - Marijuana products | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | Placed on second reading by Rules Committee.
-* [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | Referred to Ways & Means.
+* [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | Minority; without recommendation.
 * [SB 5604](/bill/2021-22/sb/5604/) - Contractor licensing refs | Passed to Rules Committee for second reading.
 * [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.
 * [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | Passed to Rules Committee for second reading.
