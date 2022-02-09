@@ -8,7 +8,7 @@
 * [HB 1388](/bill/2021-22/hb/1388/) - Motor vehicle sales | By resolution, reintroduced and retained in present status.
 * [HB 1430](/bill/2021-22/hb/1430/) - State upland leases | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [HB 1433](/bill/2021-22/hb/1433/) - Personal data rights charter | By resolution, reintroduced and retained in present status.
-* [HB 1668](/bill/2021-22/hb/1668/) - Marijuana products | Referred to Appropriations.
+* [HB 1668](/bill/2021-22/hb/1668/) - Marijuana products | Referred to Rules 2 Review.
 * [HB 1731](/bill/2021-22/hb/1731/) - Autonomous vehicle testing | First reading, referred to Transportation.
-* [HB 1859](/bill/2021-22/hb/1859/) - Cannabis analysis labs | Minority; without recommendation.
+* [HB 1859](/bill/2021-22/hb/1859/) - Cannabis analysis labs | Referred to Rules 2 Review.
 * [HB 2107](/bill/2021-22/hb/2107/) - Consumer data excise tax | First reading, referred to Finance.

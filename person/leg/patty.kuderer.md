@@ -19,11 +19,11 @@
 * [SB 5260](/bill/2021-22/sb/5260/) - Eviction res. pilot/reports | By resolution, reintroduced and retained in present status.
 * [SB 5266](/bill/2021-22/sb/5266/) - Products sold to adults 21+ | By resolution, reintroduced and retained in present status.
 * [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | First reading, referred to State Government & Tribal Relations.
-* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Passed to Rules Committee for second reading.
+* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Placed on second reading by Rules Committee.
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Passed to Rules Committee for second reading.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Placed on second reading by Rules Committee.
-* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | Placed on second reading consent calendar.
-* [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Minority; without recommendation.
+* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Passed to Rules Committee for second reading.
 * [SB 5705](/bill/2021-22/sb/5705/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means.
 * [SB 5768](/bill/2021-22/sb/5768/) - Vapor products | First reading, referred to Health & Long Term Care.
 * [SB 5825](/bill/2021-22/sb/5825/) - Rental & vacant property reg | Passed to Rules Committee for second reading.

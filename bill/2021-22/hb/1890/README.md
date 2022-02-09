@@ -1,7 +1,7 @@
 # HB 1890 - Children behavioral health
 **Primary Sponsor:** [Lisa Callan](/person/leg/callan_li.md)
 
-*Status: APP - Majority; 2nd substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1890&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1890&Year=2021)
 
 Concerning the children and youth behavioral health work group.
 

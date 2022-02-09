@@ -1,7 +1,7 @@
 # HB 1803 - School director compensation
 **Primary Sponsor:** [Lisa Callan](/person/leg/callan_li.md)
 
-*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1803&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1803&Year=2021)
 
 Updating school district director compensation through the revision and preservation of a uniform compensation structure and an examination of future needs.
 

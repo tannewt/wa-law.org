@@ -1,7 +1,7 @@
 # SB 5886 - Rare diseases adv. council
 **Primary Sponsor:** [Jeff Holy](/person/leg/jeff.holy.md)
 
-*Status: WM - Majority; do pass 1st substitute bill proposed by Health & Long Term Care.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5886&Year=2021)
+*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5886&Year=2021)
 
 Creating an advisory council on rare diseases.
 

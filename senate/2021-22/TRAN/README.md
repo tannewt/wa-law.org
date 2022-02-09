@@ -21,7 +21,7 @@
 ## Upcoming Meetings
 ### Thu, Feb 10 at 8:00 am
 Public Hearing
-* Bills to be determined.
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.) (If measure is referred to committee.)
 
 Possible executive session on bills heard in committee. Possible other business.
 

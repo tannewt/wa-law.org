@@ -19,8 +19,8 @@
 * [SB 5623](/bill/2021-22/sb/5623/) - Credit history/insurance | First reading, referred to Business, Financial Services & Trade.
 * [SB 5642](/bill/2021-22/sb/5642/) - Affordable housing/REET | Referred to Ways & Means.
 * [SB 5719](/bill/2021-22/sb/5719/) - Dual credit costs | Referred to Ways & Means.
-* [SB 5720](/bill/2021-22/sb/5720/) - Student financial literacy | WM - Majority; 2nd substitute bill be substituted, do pass.
-* [SB 5724](/bill/2021-22/sb/5724/) - Organ transport vehicles | Minority; without recommendation.
+* [SB 5720](/bill/2021-22/sb/5720/) - Student financial literacy | Passed to Rules Committee for second reading.
+* [SB 5724](/bill/2021-22/sb/5724/) - Organ transport vehicles | Passed to Rules Committee for second reading.
 * [SB 5725](/bill/2021-22/sb/5725/) - LCEDIR/tourism slogan | Senate Rules "X" file.
 * [SB 5770](/bill/2021-22/sb/5770/) - Convention economy grants | Referred to Ways & Means.
 * [SB 5810](/bill/2021-22/sb/5810/) - Legal service plans | First reading, referred to Consumer Protection & Business.
@@ -29,5 +29,5 @@
 * [SB 5935](/bill/2021-22/sb/5935/) - Adult family homes/prop. tax | First reading, referred to Health & Long Term Care.
 * [SB 5946](/bill/2021-22/sb/5946/) - LIBOR discontinuance | Passed to Rules Committee for second reading.
 * [SB 5957](/bill/2021-22/sb/5957/) - Manufacturing B&O tax rate | First reading, referred to Ways & Means.
-* [SB 5964](/bill/2021-22/sb/5964/) - Local permit review process | WM - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5964](/bill/2021-22/sb/5964/) - Local permit review process | Passed to Rules Committee for second reading.
 * [SB 5969](/bill/2021-22/sb/5969/) - Credit scores/insurance | First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).

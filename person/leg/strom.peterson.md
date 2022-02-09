@@ -10,11 +10,11 @@
 * [HB 1312](/bill/2021-22/hb/1312/) - Solitary confinement | By resolution, reintroduced and retained in present status.
 * [HB 1515](/bill/2021-22/hb/1515/) - Security deposit waiver fees | By resolution, reintroduced and retained in present status.
 * [HB 1690](/bill/2021-22/hb/1690/) - Law enf. officers/deception | First reading, referred to Public Safety.
-* [HB 1738](/bill/2021-22/hb/1738/) - Housing finance comm'n debt | Minority; without recommendation.
-* [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | APP - Majority; do pass.
+* [HB 1738](/bill/2021-22/hb/1738/) - Housing finance comm'n debt | Referred to Rules 2 Review.
+* [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | Referred to Rules 2 Review.
 * [HB 1756](/bill/2021-22/hb/1756/) - Solitary confinement | Referred to Rules 2 Review.
 * [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | Referred to Rules 2 Review.
 * [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | First reading, referred to Law & Justice (Not Officially read and referred until adoption of Introduction report).
-* [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | Referred to Appropriations.
+* [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | Referred to Rules 2 Review.
 * [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | Referred to Rules 2 Review.
-* [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Referred to Appropriations.
+* [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Referred to Rules 2 Review.

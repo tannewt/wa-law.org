@@ -68,22 +68,9 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 
 ## Upcoming Meetings
-### Tue, Feb 8
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-08-2022/02-08-2022/Agenda///Bill/)
-#### 8:30 am
-**Law & Justice**
-Public Hearing
-* [HB 1719](/bill/2021-22/hb/1719/) - Concerning use and acquisition of military equipment by law enforcement agencies. (Remote testimony.)
-* [SHB 1735](/bill/2021-22/hb/1735/) - Modifying the standard for use of force by peace officers. (Remote testimony.)
-* [SHB 1725](/bill/2021-22/hb/1725/) - Concerning the creation of an endangered missing person advisory designation for missing indigenous persons. (Remote testimony.)
-* [HB 1105](/bill/2021-22/hb/1105/) - Concerning arrest protections for the medical use of cannabis. (Remote testimony.)
-
-Possible executive session on bills heard in committee. Meeting is scheduled to end at 10:00 a.m. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Wed, Feb 9
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-09-2022/02-09-2022/Agenda///Bill/)
+#### 8:30 am
 **State Government & Elections**
 Public Hearing
 * [HB 1122](/bill/2021-22/hb/1122/) - Concerning the retirement age for state guard members. (Remote testimony.)
@@ -102,7 +89,7 @@ Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#
 #### 8:00 am
 **Transportation**
 Public Hearing
-* Bills to be determined.
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.) (If measure is referred to committee.)
 
 Possible executive session on bills heard in committee. Possible other business.
 

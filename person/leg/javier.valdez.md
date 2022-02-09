@@ -9,4 +9,4 @@
 * [HB 1919](/bill/2021-22/hb/1919/) - Public disclosure | Referred to Rules 2 Review.
 * [HB 1953](/bill/2021-22/hb/1953/) - Sensitive voter information | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1997](/bill/2021-22/hb/1997/) - Productivity board | Referred to Appropriations.
-* [HB 2057](/bill/2021-22/hb/2057/) - State patrol workforce | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 2057](/bill/2021-22/hb/2057/) - State patrol workforce | Third reading, passed; yeas, 82; nays, 14; absent, 0; excused, 2.

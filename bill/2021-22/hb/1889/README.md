@@ -1,7 +1,7 @@
 # HB 1889 - Health network access
 **Primary Sponsor:** [Eileen Cody](/person/leg/eileen.cody.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1889&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1889&Year=2021)
 
 Concerning network access.
 

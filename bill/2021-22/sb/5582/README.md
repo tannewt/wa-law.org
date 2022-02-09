@@ -1,7 +1,7 @@
 # SB 5582 - Port commission districts
 **Primary Sponsor:** [Sam Hunt](/person/leg/sam.hunt.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5582&Year=2021)
+*Status: Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5582&Year=2021)
 
 Concerning the deadline for a port commission to send new district boundaries to the county auditor when expanding from three commissioners to five.
 

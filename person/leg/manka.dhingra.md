@@ -19,10 +19,10 @@
 * [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Placed on second reading by Rules Committee.
 * [SB 5645](/bill/2021-22/sb/5645/) - Assisted outpatient treat. | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5655](/bill/2021-22/sb/5655/) - Invol. treatment refusals | Referred to Ways & Means.
-* [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Minority; without recommendation.
-* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | WM - Majority; 2nd substitute bill be substituted, do pass.
-* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | WM - Majority; 2nd substitute bill be substituted, do pass.
+* [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Passed to Rules Committee for second reading.
+* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Passed to Rules Committee for second reading.
+* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Passed to Rules Committee for second reading.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.
-* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | Minority; without recommendation.
+* [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | Passed to Rules Committee for second reading.
 * [SB 5845](/bill/2021-22/sb/5845/) - Civil protection orders | First reading, referred to Law & Justice.

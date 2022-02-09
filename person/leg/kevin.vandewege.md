@@ -15,14 +15,14 @@
 * [SB 5472](/bill/2021-22/sb/5472/) - Utility customers/COVID-19 | By resolution, reintroduced and retained in present status.
 * [SB 5550](/bill/2021-22/sb/5550/) - Public records act/judiciary | First reading, referred to State Government & Elections.
 * [SB 5552](/bill/2021-22/sb/5552/) - WDFW licensing | First reading, referred to Rural Development, Agriculture & Natural Resources.
-* [SB 5555](/bill/2021-22/sb/5555/) - Safety telecommunicators | Passed to Rules Committee for second reading.
+* [SB 5555](/bill/2021-22/sb/5555/) - Safety telecommunicators | Placed on second reading by Rules Committee.
 * [SB 5559](/bill/2021-22/sb/5559/) - Paid sick leave verification | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5567](/bill/2021-22/sb/5567/) - Commercial salmon fishing | Referred to Ways & Means.
 * [SB 5577](/bill/2021-22/sb/5577/) - Public safety | First reading, referred to Law & Justice.
 * [SB 5587](/bill/2021-22/sb/5587/) - Drinking water fluoridation | First reading, referred to Environment, Energy & Technology.
-* [SB 5613](/bill/2021-22/sb/5613/) - Use of dogs to hunt | Placed on second reading by Rules Committee.
+* [SB 5613](/bill/2021-22/sb/5613/) - Use of dogs to hunt | Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.
 * [SB 5721](/bill/2021-22/sb/5721/) - Natural resource management | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5900](/bill/2021-22/sb/5900/) - Provisional paramedics, EMTs | Passed to Rules Committee for second reading.
-* [SB 5919](/bill/2021-22/sb/5919/) - Law enf. physical force | Passed to Rules Committee for second reading.
+* [SB 5919](/bill/2021-22/sb/5919/) - Law enf. physical force | Placed on second reading by Rules Committee.
 * [SB 5928](/bill/2021-22/sb/5928/) - State energy code | First reading, referred to Environment, Energy & Technology.
 * [SB 5949](/bill/2021-22/sb/5949/) - Dental auxiliaries | First reading, referred to Health & Long Term Care.

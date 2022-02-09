@@ -1,7 +1,7 @@
 # SB 5819 - DDA no-paid caseload
 **Primary Sponsor:** [John Braun](/person/leg/john.braun.md)
 
-*Status: WM - Majority; 1st substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5819&Year=2021)
+*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5819&Year=2021)
 
 Concerning the developmental disabilities administration's no-paid services caseload.
 

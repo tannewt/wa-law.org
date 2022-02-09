@@ -1,7 +1,7 @@
 # SB 5855 - Campaign funds/child care
 **Primary Sponsor:** [Liz Lovelett](/person/leg/liz.lovelett.md)
 
-*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2021)
+*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5855&Year=2021)
 
 Concerning the use of campaign funds to reimburse expenses for child care and other caregiving services.
 

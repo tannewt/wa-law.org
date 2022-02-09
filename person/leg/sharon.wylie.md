@@ -10,4 +10,4 @@
 * [HB 1667](/bill/2021-22/hb/1667/) - Cannabis business ownership | First reading, referred to Commerce & Gaming.
 * [HB 1672](/bill/2021-22/hb/1672/) - Conservation futures/taxes | First reading, referred to Finance.
 * [HB 1975](/bill/2021-22/hb/1975/) - Management/housing auths | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 2074](/bill/2021-22/hb/2074/) - Off-road vehicles fees | TR - Majority; do pass.
+* [HB 2074](/bill/2021-22/hb/2074/) - Off-road vehicles fees | Referred to Rules 2 Review.

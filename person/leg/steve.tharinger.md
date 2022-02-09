@@ -9,4 +9,4 @@
 * [HB 1647](/bill/2021-22/hb/1647/) - Building for the arts | First reading, referred to Ways & Means.
 * [HB 1781](/bill/2021-22/hb/1781/) - Capital budget, supplemental | First reading, referred to Capital Budget.
 * [HB 1924](/bill/2021-22/hb/1924/) - Hog fuel tax exemption | Referred to Rules 2 Review.
-* [HB 2058](/bill/2021-22/hb/2058/) - Parks & rec. leasehold tax | FIN - Majority; do pass.
+* [HB 2058](/bill/2021-22/hb/2058/) - Parks & rec. leasehold tax | Referred to Rules 2 Review.

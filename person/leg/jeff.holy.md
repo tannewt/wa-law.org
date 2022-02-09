@@ -6,6 +6,6 @@
 * [SB 5333](/bill/2021-22/sb/5333/) - Public works contracts/COVID | By resolution, reintroduced and retained in present status.
 * [SB 5445](/bill/2021-22/sb/5445/) - Public funds interest/B&O | By resolution, reintroduced and retained in present status.
 * [SB 5728](/bill/2021-22/sb/5728/) - Drug forfeiture collections | Placed on second reading by Rules Committee.
-* [SB 5771](/bill/2021-22/sb/5771/) - Basic ed./caseload forecast | WM - Majority; do pass.
+* [SB 5771](/bill/2021-22/sb/5771/) - Basic ed./caseload forecast | Passed to Rules Committee for second reading.
 * [SB 5841](/bill/2021-22/sb/5841/) - Law enf. employment | Referred to Ways & Means.
-* [SB 5886](/bill/2021-22/sb/5886/) - Rare diseases adv. council | WM - Majority; do pass 1st substitute bill proposed by Health & Long Term Care.
+* [SB 5886](/bill/2021-22/sb/5886/) - Rare diseases adv. council | Passed to Rules Committee for second reading.

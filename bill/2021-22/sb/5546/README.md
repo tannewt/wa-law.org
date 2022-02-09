@@ -1,7 +1,7 @@
 # SB 5546 - Insulin affordability
 **Primary Sponsor:** [Karen Keiser](/person/leg/karen.keiser.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5546&Year=2021)
+*Status: Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5546&Year=2021)
 
 Concerning insulin affordability.
 

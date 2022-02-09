@@ -1,7 +1,7 @@
 # SB 5553 - Early STEM metrics
 **Primary Sponsor:** [Claire Wilson](/person/leg/wilson_cl.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5553&Year=2021)
+*Status: Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5553&Year=2021)
 
 Providing data regarding early STEM metrics in the STEM education report card.
 

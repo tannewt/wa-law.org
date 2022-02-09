@@ -10,4 +10,4 @@
 * [HB 1949](/bill/2021-22/hb/1949/) - Higher edu capital projects | First reading, referred to Capital Budget.
 * [HB 1950](/bill/2021-22/hb/1950/) - Unsafe dental practices | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1952](/bill/2021-22/hb/1952/) - Housing & services/location | First reading, referred to Local Government.
-* [HB 2038](/bill/2021-22/hb/2038/) - Child welfare services | Referred to Appropriations.
+* [HB 2038](/bill/2021-22/hb/2038/) - Child welfare services | Referred to Rules 2 Review.

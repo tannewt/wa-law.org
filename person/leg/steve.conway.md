@@ -11,11 +11,11 @@
 * [SB 5367](/bill/2021-22/sb/5367/) - Retirement contrib. refunds | Effective date 7/25/2021.
 * [SB 5652](/bill/2021-22/sb/5652/) - LEOFF benefits | Passed to Rules Committee for second reading.
 * [SB 5676](/bill/2021-22/sb/5676/) - PERS/TRS 1 benefit increase | First reading, referred to Appropriations.
-* [SB 5699](/bill/2021-22/sb/5699/) - Cannabis analysis labs | WM - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5699](/bill/2021-22/sb/5699/) - Cannabis analysis labs | Passed to Rules Committee for second reading.
 * [SB 5700](/bill/2021-22/sb/5700/) - Plan 2 members/insurance | First reading, referred to Ways & Means.
 * [SB 5718](/bill/2021-22/sb/5718/) - School employees/insurance | First reading, referred to Ways & Means.
 * [SB 5774](/bill/2021-22/sb/5774/) - War on terror monument | First reading, referred to State Government & Elections.
-* [SB 5782](/bill/2021-22/sb/5782/) - Defense compatibility | WM - Majority; do pass.
+* [SB 5782](/bill/2021-22/sb/5782/) - Defense compatibility | Passed to Rules Committee for second reading.
 * [SB 5783](/bill/2021-22/sb/5783/) - Underground economy | Passed to Rules Committee for second reading.
 * [SB 5877](/bill/2021-22/sb/5877/) - Higher ed antidiscrimination | Referred to Ways & Means.
 * [SB 5891](/bill/2021-22/sb/5891/) - Warehouse dist. centers | Passed to Rules Committee for second reading.

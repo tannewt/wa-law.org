@@ -1,7 +1,7 @@
 # HB 1859 - Cannabis analysis labs
 **Primary Sponsor:** [Shelley Kloba](/person/leg/shelley.kloba.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1859&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1859&Year=2021)
 
 Concerning quality standards for laboratories conducting cannabis analysis.
 
