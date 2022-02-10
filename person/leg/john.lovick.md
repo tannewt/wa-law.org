@@ -11,6 +11,6 @@
 * [SB 5575](/bill/2021-22/sb/5575/) - Snohomish county/judges | Passed to Rules Committee for second reading.
 * [SB 5615](/bill/2021-22/sb/5615/) - State sport | First reading, referred to State Government & Tribal Relations.
 * [SB 5629](/bill/2021-22/sb/5629/) - Disposition of remains | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
-* [SB 5741](/bill/2021-22/sb/5741/) - Patches pal license plates | Passed to Rules Committee for second reading.
+* [SB 5741](/bill/2021-22/sb/5741/) - Patches pal license plates | Placed on second reading by Rules Committee.
 * [SB 5869](/bill/2021-22/sb/5869/) - Traffic cameras/image use | Passed to Rules Committee for second reading.
 * [SB 5881](/bill/2021-22/sb/5881/) - Doxing | First reading, referred to Law & Justice.

@@ -7,3 +7,6 @@ Replacing an inactive certificate status with an inactive license designation.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

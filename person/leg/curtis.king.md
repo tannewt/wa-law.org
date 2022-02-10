@@ -16,5 +16,5 @@
 * [SB 5578](/bill/2021-22/sb/5578/) - Public infra./tax valuation | First reading, referred to Ways & Means.
 * [SB 5808](/bill/2021-22/sb/5808/) - Interpreters/medical appts' | First reading, referred to Health & Long Term Care.
 * [SB 5914](/bill/2021-22/sb/5914/) - Electrician schools | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5940](/bill/2021-22/sb/5940/) - Liquor license endorsement | Placed on second reading consent calendar.
+* [SB 5940](/bill/2021-22/sb/5940/) - Liquor license endorsement | Third reading, passed; yeas, 47; nays, 0; absent, 1; excused, 1.
 * [SB 5944](/bill/2021-22/sb/5944/) - Org. retail theft task force | First reading, referred to Law & Justice.

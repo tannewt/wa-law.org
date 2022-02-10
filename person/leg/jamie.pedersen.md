@@ -10,8 +10,8 @@
 * [SB 5489](/bill/2021-22/sb/5489/) - Business entities | First reading, referred to Civil Rights & Judiciary.
 * [SB 5490](/bill/2021-22/sb/5490/) - Interbranch advisory comm. | First reading, referred to State Government & Tribal Relations.
 * [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
-* [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | Passed to Rules Committee for second reading.
-* [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | Placed on second reading by Rules Committee.
+* [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | Placed on second reading by Rules Committee.
+* [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | First reading, referred to Civil Rights & Judiciary.
 * [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | First reading, referred to State Government & Tribal Relations.
 * [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.

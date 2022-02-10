@@ -7,3 +7,6 @@ Creating a local infrastructure investment program to support the development of
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

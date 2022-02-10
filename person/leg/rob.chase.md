@@ -15,3 +15,4 @@
 * [HJM 4000](/bill/2021-22/hjm/4000/) - New state in E. Washington | By resolution, reintroduced and retained in present status.
 * [HB 1923](/bill/2021-22/hb/1923/) - Parent-child relationship | First reading, referred to Children, Youth & Families.
 * [HB 1977](/bill/2021-22/hb/1977/) - Guardianship curriculum | First reading, referred to State Government & Tribal Relations.
+* [HB 2117](/bill/2021-22/hb/2117/) - Terminally ill patients | First reading, referred to Health Care & Wellness (Not Officially read and referred until adoption of Introduction report).

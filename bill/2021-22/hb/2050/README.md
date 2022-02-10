@@ -7,3 +7,4 @@ Repealing requirements for parent payment of the cost of their child's support, 
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

@@ -15,7 +15,7 @@
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
 * [HB 1784](/bill/2021-22/hb/1784/) - License plate visibility | Referred to Rules 2 Review.
 * [HB 1851](/bill/2021-22/hb/1851/) - Abortion care | Referred to Rules 2 Review.
-* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Referred to Rules 2 Review.
+* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Third reading, passed; yeas, 64; nays, 32; absent, 0; excused, 2.
 * [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | Third reading, passed; yeas, 87; nays, 9; absent, 0; excused, 2.
 * [HB 2096](/bill/2021-22/hb/2096/) - Working families' tax exempt | Referred to Rules 2 Review.
 * [HB 2116](/bill/2021-22/hb/2116/) - Nonbiodegradable packaging | First reading, referred to Environment & Energy.

@@ -3,7 +3,7 @@
 * [SB 5019](/bill/2021-22/sb/5019/) - Recording standards comm'n | Effective date 7/25/2021.
 * [SB 5033](/bill/2021-22/sb/5033/) - Accessory dwelling units/tax | By resolution, reintroduced and retained in present status.
 * [SB 5038](/bill/2021-22/sb/5038/) - Open carry of weapons | Effective date 5/12/2021.
-* [SB 5065](/bill/2021-22/sb/5065/) - Railroad workers | Passed to Rules Committee for third reading.
+* [SB 5065](/bill/2021-22/sb/5065/) - Railroad workers | Placed on third reading by Rules Committee.
 * [SB 5075](/bill/2021-22/sb/5075/) - Access to pharmacy services | By resolution, reintroduced and retained in present status.
 * [SB 5076](/bill/2021-22/sb/5076/) - Mail order Rx services | By resolution, reintroduced and retained in present status.
 * [SB 5086](/bill/2021-22/sb/5086/) - Voter eligibility/felony | By resolution, reintroduced and retained in present status.
@@ -19,7 +19,7 @@
 * [SB 5260](/bill/2021-22/sb/5260/) - Eviction res. pilot/reports | By resolution, reintroduced and retained in present status.
 * [SB 5266](/bill/2021-22/sb/5266/) - Products sold to adults 21+ | By resolution, reintroduced and retained in present status.
 * [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | First reading, referred to State Government & Tribal Relations.
-* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Placed on second reading by Rules Committee.
+* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Passed to Rules Committee for second reading.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Placed on second reading by Rules Committee.
 * [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.

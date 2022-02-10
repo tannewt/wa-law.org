@@ -11,7 +11,7 @@
 * [HB 1786](/bill/2021-22/hb/1786/) - Transportation budget, supp. | First reading, referred to Transportation.
 * [HB 1931](/bill/2021-22/hb/1931/) - Hydropower license fees | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1932](/bill/2021-22/hb/1932/) - Recyclability | First reading, referred to Environment & Energy.
-* [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | Third reading, passed; yeas, 90; nays, 6; absent, 0; excused, 2.
 * [HB 1969](/bill/2021-22/hb/1969/) - Traffic cameras/speed | First reading, referred to Transportation.
 * [HB 2024](/bill/2021-22/hb/2024/) - SR 520 sales tax deferral | Referred to Finance.
 * [HB 2063](/bill/2021-22/hb/2063/) - Incorporation/population | First reading, referred to Local Government.

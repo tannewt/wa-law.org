@@ -8,3 +8,4 @@ Clarifying visual and performing arts instruction.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)

@@ -19,4 +19,4 @@
 * [HB 1836](/bill/2021-22/hb/1836/) - Scholarships/disadv. groups | First reading, referred to Civil Rights & Judiciary.
 * [HB 1926](/bill/2021-22/hb/1926/) - Presidential primary RCV | First reading, referred to State Government & Tribal Relations.
 * [HB 1988](/bill/2021-22/hb/1988/) - Clean tech. tax deferrals | First reading, referred to Finance.
-* [HB 2098](/bill/2021-22/hb/2098/) - Home rehab. loan program | Referred to Rules 2 Review.
+* [HB 2098](/bill/2021-22/hb/2098/) - Home rehab. loan program | Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.

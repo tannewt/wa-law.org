@@ -16,9 +16,9 @@
 * [SB 5588](/bill/2021-22/sb/5588/) - Reentry & discharge planning | Referred to Ways & Means.
 * [SB 5592](/bill/2021-22/sb/5592/) - Cost of supervision | Passed to Rules Committee for second reading.
 * [SB 5639](/bill/2021-22/sb/5639/) - Solitary confinement | First reading, referred to Human Services, Reentry & Rehabilitation.
-* [SB 5687](/bill/2021-22/sb/5687/) - Traffic safety | Placed on second reading by Rules Committee.
-* [SB 5750](/bill/2021-22/sb/5750/) - WA state leadership board | Placed on second reading consent calendar.
-* [SB 5793](/bill/2021-22/sb/5793/) - State boards, etc./stipends | Passed to Rules Committee for second reading.
+* [SB 5687](/bill/2021-22/sb/5687/) - Traffic safety | Third reading, passed; yeas, 25; nays, 24; absent, 0; excused, 0.
+* [SB 5750](/bill/2021-22/sb/5750/) - WA state leadership board | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
+* [SB 5793](/bill/2021-22/sb/5793/) - State boards, etc./stipends | Placed on second reading by Rules Committee.
 * [SB 5798](/bill/2021-22/sb/5798/) - Schools/comm. eligibility | Referred to Ways & Means.
 * [SB 5859](/bill/2021-22/sb/5859/) - Incarcerated individuals/PRA | First reading, referred to State Government & Elections.
 * [SB 5929](/bill/2021-22/sb/5929/) - WorkFirst poverty task force | Third reading, passed; yeas, 33; nays, 16; absent, 0; excused, 0.

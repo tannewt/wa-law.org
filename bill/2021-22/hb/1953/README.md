@@ -1,7 +1,7 @@
 # HB 1953 - Sensitive voter information
 **Primary Sponsor:** [Javier Valdez](/person/leg/javier.valdez.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1953&Year=2021)
+*Status: Third reading, passed; yeas, 69; nays, 26; absent, 0; excused, 3.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1953&Year=2021)
 
 Exempting sensitive voter information on ballot return envelopes, ballot declarations, and signature correction forms from public disclosure.
 

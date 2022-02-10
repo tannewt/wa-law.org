@@ -7,3 +7,4 @@ Concerning the placement of human trafficking informational posters in rest area
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

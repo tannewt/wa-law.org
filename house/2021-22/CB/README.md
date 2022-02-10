@@ -24,17 +24,9 @@
 * [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 * [Mike Volz](/person/leg/mike.volz.md)
 ## Upcoming Meetings
-### Mon, Feb 7 at 8:00 am
+### Thu, Feb 17 at 8:00 am
 Public Hearing
-* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections. (Remote testimony.)
-* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds. (Remote testimony.)
-
-Executive Session
-* [HB 1738](/bill/2021-22/hb/1738/) - Changing the total amount of outstanding indebtedness of the Washington state housing finance commission. **33👍** **91👎** **0❓**
-* [HB 2073](/bill/2021-22/hb/2073/) - Establishing the state capitol committee as an advisory entity of state government.
-* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections.
-* [HB 2055](/bill/2021-22/hb/2055/) - Providing capital budget matching grants to independent higher education institutions. **6👍** **5👎** **2❓**
-* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds.
+* Senate bills referred to committee. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

@@ -14,25 +14,23 @@
 * [Kevin Van De Wege](/person/leg/kevin.vandewege.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 8:00 am
+### Wed, Feb 16 at 8:00 am
 Public Hearing
-* [SB 5660](/bill/2021-22/sb/5660/) - Concerning access to psilocybin services by individuals 21 years of age and older. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+* [SHB 1052](/bill/2021-22/hb/1052/) - Concerning group insurance contract performance standards. (Remote testimony.)
+* [SHB 1124](/bill/2021-22/hb/1124/) - Concerning nurse delegation of glucose monitoring, glucose testing, and insulin injections. (Remote testimony.)
+* [SHB 1646](/bill/2021-22/hb/1646/) - Continuing the work of the dementia action collaborative. (Remote testimony.)
+* [HB 1651](/bill/2021-22/hb/1651/) - Allowing providers to bill separately for immediate postpartum contraception. (Remote testimony.)
+* [SHB 1675](/bill/2021-22/hb/1675/) - Exempting a manufacturer of certain dialysate and dialysis devices used by home dialysis patients or a manufacturer's agent from the pharmacy practices act and legend drug act. (Remote testimony.)
+* [SHB 1708](/bill/2021-22/hb/1708/) - Concerning facility fees for audio-only telemedicine. (Remote testimony.)
 
-Executive Session
-* [SB 5542](/bill/2021-22/sb/5542/) - Concerning the practice of optometry. **1036👍** **1069👎** **3❓**
-* [SB 5768](/bill/2021-22/sb/5768/) - Enhancing the regulation of vapor products. **74👍** **284👎** **6❓**
-* [SB 5794](/bill/2021-22/sb/5794/) - Concerning continuity of coverage for prescription drugs prescribed for the treatment of behavioral health conditions. **16👍** **2👎** **2❓**
-* [SB 5848](/bill/2021-22/sb/5848/) - Concerning licensure for music therapists. **141👍** **82👎** **4❓**
-* [SB 5886](/bill/2021-22/sb/5886/) - Creating an advisory council on rare diseases. **67👍** **34👎** **0❓**
-
-Possible other business.
+Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-### Wed, Feb 2 at 6:00 pm
-Executive Session
-* Bills to be determined.
+### Fri, Feb 18 at 8:00 am
+Public Hearing
+* [SHB 1616](/bill/2021-22/hb/1616/) - Concerning the charity care act. (Remote testimony.)
 
-Possible other business. Meeting is scheduled to end at 8:00 p.m. 
+Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

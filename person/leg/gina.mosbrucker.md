@@ -13,7 +13,7 @@
 * [HB 1527](/bill/2021-22/hb/1527/) - Rolling blackouts, etc. | By resolution, reintroduced and retained in present status.
 * [HB 1559](/bill/2021-22/hb/1559/) - Juveniles/controlled subst. | By resolution, reintroduced and retained in present status.
 * [HB 1571](/bill/2021-22/hb/1571/) - Indigenous persons/services | Referred to Rules 2 Review.
-* [HB 1621](/bill/2021-22/hb/1621/) - Sex. assault nurse training | Referred to Rules 2 Review.
+* [HB 1621](/bill/2021-22/hb/1621/) - Sex. assault nurse training | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1622](/bill/2021-22/hb/1622/) - Sex. assault nurse education | First reading, referred to Higher Education & Workforce Development (Not Officially read and referred until adoption of Introduction report).
 * [HB 1623](/bill/2021-22/hb/1623/) - Power supply inadequacy | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1624](/bill/2021-22/hb/1624/) - Motorcycle safety board | Rules Committee relieved of further consideration.  Placed on second reading.

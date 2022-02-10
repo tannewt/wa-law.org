@@ -12,13 +12,17 @@
 * [Jesse Salomon](/person/leg/salomon_je.md)
 * [Keith Wagoner](/person/leg/keith.wagoner.md)
 ## Upcoming Meetings
-### Tue, Feb 8 at 8:30 am
+### Thu, Feb 17 at 10:30 am
 Public Hearing
-* [HB 1719](/bill/2021-22/hb/1719/) - Concerning use and acquisition of military equipment by law enforcement agencies. (Remote testimony.)
-* [SHB 1735](/bill/2021-22/hb/1735/) - Modifying the standard for use of force by peace officers. (Remote testimony.)
-* [SHB 1725](/bill/2021-22/hb/1725/) - Concerning the creation of an endangered missing person advisory designation for missing indigenous persons. (Remote testimony.)
-* [HB 1105](/bill/2021-22/hb/1105/) - Concerning arrest protections for the medical use of cannabis. (Remote testimony.)
+* [SHB 1615](/bill/2021-22/hb/1615/) - Concerning the sale of cosmetics tested on animals. (Remote testimony.)
+* [SHB 1961](/bill/2021-22/hb/1961/) - Concerning the authority of the courts to waive auditor's fees for filing and recording name change orders. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Meeting is scheduled to end at 10:00 a.m. Possible other business.
+Executive Session
+* [HB 1105](/bill/2021-22/hb/1105/) - Concerning arrest protections for the medical use of cannabis. **52👍** **2👎** **1❓**
+* [HB 1719](/bill/2021-22/hb/1719/) - Concerning use and acquisition of military equipment by law enforcement agencies. **38👍** **3👎** **0❓**
+* [SHB 1725](/bill/2021-22/hb/1725/) - Concerning the creation of an endangered missing person advisory designation for missing indigenous persons. **87👍** **0👎** **0❓**
+* [SHB 1735](/bill/2021-22/hb/1735/) - Modifying the standard for use of force by peace officers. **612👍** **8👎** **2❓**
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

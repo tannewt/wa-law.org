@@ -1,7 +1,7 @@
 # SB 5532 - Rx drug affordability board
 **Primary Sponsor:** [Karen Keiser](/person/leg/karen.keiser.md)
 
-*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5532&Year=2021)
+*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5532&Year=2021)
 
 Establishing a prescription drug affordability board.
 

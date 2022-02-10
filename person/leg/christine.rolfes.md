@@ -23,5 +23,5 @@
 * [SB 5665](/bill/2021-22/sb/5665/) - Salmon habitat | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5693](/bill/2021-22/sb/5693/) - Operating budget, supp. | First reading, referred to Ways & Means.
 * [SB 5727](/bill/2021-22/sb/5727/) - Salmon habitat | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5803](/bill/2021-22/sb/5803/) - Wildfires/electric utilities | Passed to Rules Committee for second reading.
+* [SB 5803](/bill/2021-22/sb/5803/) - Wildfires/electric utilities | Placed on second reading by Rules Committee.
 * [SB 5878](/bill/2021-22/sb/5878/) - Arts instruction | Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.

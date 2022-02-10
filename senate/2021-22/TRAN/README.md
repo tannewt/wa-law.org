@@ -21,13 +21,29 @@
 ## Upcoming Meetings
 ### Thu, Feb 10 at 8:00 am
 Public Hearing
-* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.) (If measure is referred to committee.)
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.)
 
 Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Fri, Feb 11 at 8:00 am
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Mon, Feb 14 at 8:00 am
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 17 at 4:00 pm
 Public Hearing
 * Bills to be determined.
 

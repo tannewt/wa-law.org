@@ -14,14 +14,20 @@
 * [Mike Steele](/person/leg/mike.steele.md)
 * [Monica Jurado Stonier](/person/leg/monica.stonier.md)
 ## Upcoming Meetings
-### Thu, Feb 3 at 10:00 am
-Executive Session
-* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections.
-* [HB 1306](/bill/2021-22/hb/1306/) - Concerning bond authorization training for school district boards of directors.
-* [HB 1536](/bill/2021-22/hb/1536/) - Establishing regional apprenticeship programs through educational service districts.
-* [HB 1544](/bill/2021-22/hb/1544/) - Concerning agriculture, food, and natural resource education. **46👍** **1👎** **1❓**
-* [HB 1900](/bill/2021-22/hb/1900/) - Improving school districts' responses to complaints of discrimination, harassment, intimidation, and bullying. **16👍** **1👎** **0❓**
-* [HB 2056](/bill/2021-22/hb/2056/) - Promoting academic transparency in public schools. **596👍** **72👎** **1❓**
-* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds.
+### Thu, Feb 17 at 1:30 pm
+Public Hearing
+* [SSB 5181](/bill/2021-22/sb/5181/) - Providing school districts serving low-income communities with flexibility in financing their facilities. (Remote testimony.)
+* [ESB 5202](/bill/2021-22/sb/5202/) - Establishing school district depreciation subfunds for the purposes of preventative maintenance. (Remote testimony.)
+* [SSB 5376](/bill/2021-22/sb/5376/) - Promoting awareness of the governor's office of the education ombuds. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 10:00 am
+Public Hearing
+* [SB 5498](/bill/2021-22/sb/5498/) - Awarding diplomas posthumously. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

@@ -30,3 +30,4 @@
 * [SB 5947](/bill/2021-22/sb/5947/) - Property exempt from exec. | Passed to Rules Committee for second reading.
 * [SB 5955](/bill/2021-22/sb/5955/) - Railroad grade crossings | First reading, referred to Transportation.
 * [SB 5956](/bill/2021-22/sb/5956/) - Insurance data security | First reading, referred to Business, Financial Services & Trade.
+* [SB 5973](/bill/2021-22/sb/5973/) - Fur products | First reading, referred to Agriculture, Water, Natural Resources & Parks.

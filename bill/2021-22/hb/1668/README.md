@@ -8,3 +8,4 @@ Expanding regulatory authority over cannabinoids that may be impairing and provi
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)

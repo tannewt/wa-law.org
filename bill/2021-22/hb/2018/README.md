@@ -7,3 +7,6 @@ Creating a three-day shop local and save sales and use tax holiday to benefit al
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

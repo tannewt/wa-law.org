@@ -8,7 +8,7 @@
 * [EHB 1271](/bill/2021-22/ehb/1271/) - County officials/continuity | Effective date 7/25/2021*.
 * [HB 1465](/bill/2021-22/hb/1465/) - Estate tax | By resolution, reintroduced and retained in present status.
 * [HB 1477](/bill/2021-22/hb/1477/) - National 988 system | Effective date 7/25/2021*.
-* [HB 1703](/bill/2021-22/hb/1703/) - 911 emergency communications | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1703](/bill/2021-22/hb/1703/) - 911 emergency communications | Third reading, passed; yeas, 94; nays, 1; absent, 0; excused, 3.
 * [HB 1848](/bill/2021-22/hb/1848/) - Assisted reproduction fraud | Referred to Rules 2 Review.
 * [HB 1849](/bill/2021-22/hb/1849/) - War on terror monument | Referred to Rules 2 Review.
 * [HB 1916](/bill/2021-22/hb/1916/) - Crime victims and witnesses | Referred to Appropriations.

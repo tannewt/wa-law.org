@@ -10,7 +10,7 @@
 * [HB 1671](/bill/2021-22/hb/1671/) - Rx drug affordability board | First reading, referred to Health Care & Wellness.
 * [HB 1806](/bill/2021-22/hb/1806/) - Legislature/bargaining | Referred to Rules 2 Review.
 * [HB 1868](/bill/2021-22/hb/1868/) - Health care staffing | Referred to Rules 2 Review.
-* [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | Referred to Rules 2 Review.
+* [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | Referred to Finance.
 * [HB 1915](/bill/2021-22/hb/1915/) - Traffic cameras/speed zones | First reading, referred to Transportation.
 * [HB 1927](/bill/2021-22/hb/1927/) - Legislative service leave | Third reading, passed; yeas, 80; nays, 16; absent, 0; excused, 2.

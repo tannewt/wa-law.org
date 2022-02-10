@@ -16,19 +16,21 @@
 * [Steve Tharinger](/person/leg/steve.tharinger.md)
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 8:00 am
+### Wed, Feb 16 at 8:00 am
 Public Hearing
-* [HB 1854](/bill/2021-22/hb/1854/) - Requiring coverage for hearing instruments. (Remote testimony.)
+* [SSB 5496](/bill/2021-22/sb/5496/) - Concerning health professional monitoring programs. (Remote testimony.)
+* [SB 5499](/bill/2021-22/sb/5499/) - Concerning credentialing of medical assistant-hemodialysis technicians. (Remote testimony.)
+* [SB 5508](/bill/2021-22/sb/5508/) - Concerning the insurance guaranty fund. (Remote testimony.)
+* [SB 5529](/bill/2021-22/sb/5529/) - Concerning self-directed care. (Remote testimony.)
+* [SSB 5753](/bill/2021-22/sb/5753/) - Increasing board and commission capacities. (Remote testimony.)
 
-Executive Session
-* [HB 1043](/bill/2021-22/hb/1043/) - Concerning the audiology and speech-language pathology interstate compact. **356👍** **1👎** **1❓**
-* [HB 1286](/bill/2021-22/hb/1286/) - Adopting the psychology interjurisdictional compact. **114👍** **0👎** **0❓**
-* [HB 1813](/bill/2021-22/hb/1813/) - Concerning freedom of pharmacy choice.
-* [HB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing.
-* [HB 1959](/bill/2021-22/hb/1959/) - Concerning managed health care system rate review. **8👍** **1👎** **0❓**
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
-Work Session
-* New state-mandated health benefits and the Affordable Care Act.
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 17 at 10:00 am
+Public Hearing
+* [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

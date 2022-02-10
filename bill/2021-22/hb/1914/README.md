@@ -8,3 +8,6 @@ Updating and expanding the motion picture competitiveness program.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

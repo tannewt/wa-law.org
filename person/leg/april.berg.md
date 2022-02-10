@@ -8,6 +8,6 @@
 * [HB 1618](/bill/2021-22/hb/1618/) - Election offices/weapons | First reading, referred to Civil Rights & Judiciary.
 * [HB 1833](/bill/2021-22/hb/1833/) - School meals/electronic info | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1846](/bill/2021-22/hb/1846/) - Data centers tax preference | First reading, referred to Finance.
-* [HB 1958](/bill/2021-22/hb/1958/) - Shovel-ready site cert. | Referred to Rules 2 Review.
+* [HB 1958](/bill/2021-22/hb/1958/) - Shovel-ready site cert. | Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.
 * [HB 2031](/bill/2021-22/hb/2031/) - Unempl. & leave premiums | First reading, referred to Labor & Workplace Standards.
 * [HB 2099](/bill/2021-22/hb/2099/) - Tax penalties | Referred to Rules 2 Review.

@@ -18,5 +18,5 @@
 * [SB 5782](/bill/2021-22/sb/5782/) - Defense compatibility | Passed to Rules Committee for second reading.
 * [SB 5783](/bill/2021-22/sb/5783/) - Underground economy | Passed to Rules Committee for second reading.
 * [SB 5877](/bill/2021-22/sb/5877/) - Higher ed antidiscrimination | Referred to Ways & Means.
-* [SB 5891](/bill/2021-22/sb/5891/) - Warehouse dist. centers | Passed to Rules Committee for second reading.
+* [SB 5891](/bill/2021-22/sb/5891/) - Warehouse dist. centers | Placed on second reading by Rules Committee.
 * [SB 5950](/bill/2021-22/sb/5950/) - Historic auto museums/tax | First reading, referred to Ways & Means.

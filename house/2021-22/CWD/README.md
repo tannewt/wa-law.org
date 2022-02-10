@@ -14,5 +14,18 @@
 * [Mike Sells](/person/leg/mike.sells.md)
 * [Robert Sutherland](/person/leg/sutherla_ro.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 8:00 am
+### Wed, Feb 16 at 8:00 am
+Public Hearing
+* Senate bills referred to committee (Remote testimony.)
 
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 17 at 10:00 am
+Public Hearing
+* Senate bills referred to committee (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

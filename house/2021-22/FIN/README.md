@@ -18,18 +18,22 @@
 * [Sharon Wylie](/person/leg/sharon.wylie.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Mon, Feb 7 at 8:00 am
+### Thu, Feb 17 at 8:00 am
 Public Hearing
-* [HB 1792](/bill/2021-22/hb/1792/) - Expanding the production, distribution, and use of hydrogen not produced from a fossil fuel feedstock. (Remote testimony.)
-* [SHB 1814](/bill/2021-22/hb/1814/) - Expanding equitable access to the benefits of renewable energy through community solar projects. (Remote testimony.)
-* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. (Remote testimony.) **11👍** **1👎** **1❓**
-* [HB 1966](/bill/2021-22/hb/1966/) - Creating a local infrastructure investment program to support the development of affordable housing, workforce housing, and revitalization efforts. (Remote testimony.)
+* [SHB 1918](/bill/2021-22/hb/1918/) - Reducing emissions from outdoor power equipment. (Remote testimony.)
 
 Executive Session
-* [HB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
-* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. **5👍** **91👎** **0❓**
-* [HB 1811](/bill/2021-22/hb/1811/) - Concerning fire benefit charges imposed by cities and towns. **13👍** **2👎** **1❓**
-* [HB 2058](/bill/2021-22/hb/2058/) - Concerning the preservation and protection of facilities owned by the state parks and recreation commission that are listed on the Washington heritage register or the national register of historic places. **9👍** **0👎** **0❓**
+* [HB 1792](/bill/2021-22/hb/1792/) - Expanding the production, distribution, and use of hydrogen not produced from a fossil fuel feedstock. **42👍** **0👎** **0❓**
+* [SHB 1814](/bill/2021-22/hb/1814/) - Expanding equitable access to the benefits of renewable energy through community solar projects. **173👍** **8👎** **0❓**
+* [HB 1846](/bill/2021-22/hb/1846/) - Providing a tax preference for rural and nonrural data centers. **284👍** **19👎** **2❓**
+* [SHB 1880](/bill/2021-22/hb/1880/) - Concerning housing benefit districts. **66👍** **86👎** **0❓**
+* [SHB 1914](/bill/2021-22/hb/1914/) - Updating and expanding the motion picture competitiveness program. **937👍** **9👎** **3❓**
+* [HB 1988](/bill/2021-22/hb/1988/) - Concerning tax deferrals for investment projects in clean technology manufacturing, clean alternative fuels production, and renewable energy storage. **20👍** **121👎** **1❓**
+* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **24👍** **0👎** **0❓**
+* [HB 2018](/bill/2021-22/hb/2018/) - Creating a three-day shop local and save sales and use tax holiday to benefit all Washington families for certain items $1,000 or less during the month of September. **8👍** **31👎** **1❓**
+* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. **26👍** **1👎** **1❓**
+* [HB 1966](/bill/2021-22/hb/1966/) - Creating a local infrastructure investment program to support the development of affordable housing, workforce housing, and revitalization efforts. **12👍** **1👎** **0❓**
+* [HB 1864](/bill/2021-22/hb/1864/) - Concerning economic development through advanced technology leadership and security. **11👍** **0👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

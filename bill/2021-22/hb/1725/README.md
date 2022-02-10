@@ -8,3 +8,6 @@ Concerning the creation of an endangered missing person advisory designation for
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Executive Session

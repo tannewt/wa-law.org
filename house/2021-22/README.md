@@ -121,98 +121,332 @@
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Mon, Feb 7
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-07-2022/02-07-2022/Agenda///Bill/)
+### Wed, Feb 16
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-16-2022/02-16-2022/Agenda///Bill/)
 #### 8:00 am
-**Finance**
+**Health Care & Wellness**
 Public Hearing
-* [HB 1792](/bill/2021-22/hb/1792/) - Expanding the production, distribution, and use of hydrogen not produced from a fossil fuel feedstock. (Remote testimony.)
-* [SHB 1814](/bill/2021-22/hb/1814/) - Expanding equitable access to the benefits of renewable energy through community solar projects. (Remote testimony.)
-* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. (Remote testimony.) **11👍** **1👎** **1❓**
-* [HB 1966](/bill/2021-22/hb/1966/) - Creating a local infrastructure investment program to support the development of affordable housing, workforce housing, and revitalization efforts. (Remote testimony.)
-
-Executive Session
-* [HB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
-* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. **5👍** **91👎** **0❓**
-* [HB 1811](/bill/2021-22/hb/1811/) - Concerning fire benefit charges imposed by cities and towns. **13👍** **2👎** **1❓**
-* [HB 2058](/bill/2021-22/hb/2058/) - Concerning the preservation and protection of facilities owned by the state parks and recreation commission that are listed on the Washington heritage register or the national register of historic places. **9👍** **0👎** **0❓**
+* [SSB 5496](/bill/2021-22/sb/5496/) - Concerning health professional monitoring programs. (Remote testimony.)
+* [SB 5499](/bill/2021-22/sb/5499/) - Concerning credentialing of medical assistant-hemodialysis technicians. (Remote testimony.)
+* [SB 5508](/bill/2021-22/sb/5508/) - Concerning the insurance guaranty fund. (Remote testimony.)
+* [SB 5529](/bill/2021-22/sb/5529/) - Concerning self-directed care. (Remote testimony.)
+* [SSB 5753](/bill/2021-22/sb/5753/) - Increasing board and commission capacities. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-**Capital Budget**
+**Consumer Protection & Business**
 Public Hearing
-* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections. (Remote testimony.)
-* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds. (Remote testimony.)
+* [SB 5602](/bill/2021-22/sb/5602/) - Concerning service providers working with state-regulated financial institutions. (Remote testimony.)
+* [SSB 5810](/bill/2021-22/sb/5810/) - Exempting certain prepaid services from insurance regulation. (Remote testimony.)
+* [SJM 8004](/bill/2021-22/jm/8004/) - Addressing "de-risking" by financial institutions. (Remote testimony.)
 
-Executive Session
-* [HB 1738](/bill/2021-22/hb/1738/) - Changing the total amount of outstanding indebtedness of the Washington state housing finance commission. **33👍** **91👎** **0❓**
-* [HB 2073](/bill/2021-22/hb/2073/) - Establishing the state capitol committee as an advisory entity of state government.
-* [HB 1226](/bill/2021-22/hb/1226/) - Concerning school district elections.
-* [HB 2055](/bill/2021-22/hb/2055/) - Providing capital budget matching grants to independent higher education institutions. **6👍** **5👎** **2❓**
-* [HJR 4200](/bill/2021-22/jr/4200/) - Amending the Constitution to allow a simple majority of voters voting to authorize school district bonds.
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Children, Youth & Families**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**State Government & Tribal Relations**
+Public Hearing
+* [SB 5787](/bill/2021-22/sb/5787/) - Concerning the linked deposit program. (Remote testimony.)
+* [SB 5506](/bill/2021-22/sb/5506/) - Concerning the appointment process for the chairperson and vice chairperson of the joint administrative rules review committee. (Remote testimony.)
+* [SB 5002](/bill/2021-22/sb/5002/) - Addressing the state auditor's duties and procedures. (Remote testimony.)
+* [SSB 5756](/bill/2021-22/sb/5756/) - Establishing the semiquincentennial committee. (Remote testimony.)
+* [ESB 5264](/bill/2021-22/sb/5264/) - Declaring January as Chinese American history month and encouraging public schools to commemorate the month. (REVISED FOR ENGROSSED: Recognizing contributions of Americans of Chinese descent.) (Remote testimony.)
+* [ESSB 5490](/bill/2021-22/sb/5490/) - Creating the interbranch advisory committee. (Remote testimony.)
+* [SB 5196](/bill/2021-22/sb/5196/) - Describing how the legislature may convene a special session. (Remote testimony.)
+
+Work Session
+* Secretary of State Steve Hobbs:  Introduction to the Committee.
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**College & Workforce Development**
+Public Hearing
+* Senate bills referred to committee (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:00 am
-**Appropriations**
+**Civil Rights & Judiciary**
 Public Hearing
-* [HB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members. (Remote testimony.)
-* [HB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management. (Remote testimony.)
-* [HB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. (Remote testimony.) **35👍** **5👎** **7❓**
-* [HB 2044](/bill/2021-22/hb/2044/) - Concerning the protection of critical constituent and state operational data against the financial and personal harm caused by ransomware and other malicious cyber activities. (Remote testimony.) **58👍** **2👎** **2❓**
-* [HB 2048](/bill/2021-22/hb/2048/) - Concerning temporary assistance for needy families time limit extensions. (Remote testimony.) **296👍** **0👎** **1❓**
-
-Executive Session
-* [2SHB 1359](/bill/2021-22/hb/1359/) - Reducing liquor license fees temporarily.
-* [HB 1590](/bill/2021-22/hb/1590/) - Concerning enrollment stabilization funding to address enrollment declines due to the COVID-19 pandemic. **63👍** **1386👎** **3❓**
-* [HB 1668](/bill/2021-22/hb/1668/) - Expanding regulatory authority over cannabinoids that may be impairing and providing for enhanced product safety and consumer information disclosure about marijuana products. **22👍** **6👎** **0❓**
-* [HB 1684](/bill/2021-22/hb/1684/) - Concerning public health and fluoridation of drinking water. **417👍** **93👎** **2❓**
-* [HB 1773](/bill/2021-22/hb/1773/) - Concerning assisted outpatient treatment for persons with behavioral health disorders. **16👍** **10👎** **0❓**
-* [HB 1782](/bill/2021-22/hb/1782/) - Creating additional middle housing near transit and in areas traditionally dedicated to single-family detached housing. **347👍** **147👎** **3❓**
-* [HB 1803](/bill/2021-22/hb/1803/) - Updating school district director compensation through the revision and preservation of a uniform compensation structure and an examination of future needs. **11👍** **85👎** **0❓**
-* [HB 1806](/bill/2021-22/hb/1806/) - Extending collective bargaining rights to employees of the legislative branch of state government. **177👍** **147👎** **2❓**
-* [HB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. **20👍** **37👎** **0❓**
-* [HB 1860](/bill/2021-22/hb/1860/) - Preventing homelessness among persons discharging from inpatient behavioral health settings. **26👍** **2👎** **0❓**
-* [HB 1865](/bill/2021-22/hb/1865/) - Addressing the behavioral health workforce shortage and expanding access to peer services by creating the profession of certified peer specialists.
-* [HB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing. **135👍** **0👎** **0❓**
-* [HB 1868](/bill/2021-22/hb/1868/) - Improving worker safety and patient care in health care facilities by addressing staffing needs, overtime, meal and rest breaks, and enforcement. **2473👍** **103👎** **23❓**
-* [HB 1896](/bill/2021-22/hb/1896/) - Providing for responsible environmental management of batteries. **277👍** **96👎** **8❓**
-* [HB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. **8👍** **76👎** **0❓**
-* [HB 1992](/bill/2021-22/hb/1992/) - Concerning vacation leave accrual for public employees. **28👍** **2👎** **0❓**
-* [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. **148👍** **105👎** **5❓**
-* [HB 2038](/bill/2021-22/hb/2038/) - Supporting children involved with child welfare services. **5👍** **0👎** **1❓**
-* [HB 2075](/bill/2021-22/hb/2075/) - Establishing service requirements for the department of social and health services. **254👍** **0👎** **7❓**
-* [HB 2078](/bill/2021-22/hb/2078/) - Establishing the outdoor school for all program. **383👍** **80👎** **0❓**
-* [HB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members.
-* [HB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management.
-* [HB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. **35👍** **5👎** **7❓**
-* [SHB 2044](/bill/2021-22/hb/2044/) - Concerning the protection of critical constituent and state operational data against the financial and personal harm caused by ransomware and other malicious cyber activities. **58👍** **2👎** **2❓**
-* [HB 2048](/bill/2021-22/hb/2048/) - Concerning temporary assistance for needy families time limit extensions. **296👍** **0👎** **1❓**
+* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. (Remote testimony.)
+* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. (Remote testimony.)
+* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. (Remote testimony.)
+* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-**Transportation**
+**Rural Development, Agriculture & Natural Resources**
 Public Hearing
-* Bills referred to committee. (Remote testimony.)
+* [SB 5552](/bill/2021-22/sb/5552/) - Modifying miscellaneous provisions impacting department of fish and wildlife licensing requirements. (Remote testimony.)
+* [SB 5624](/bill/2021-22/sb/5624/) - Extending the expiration date of certain sections of chapter 92, Laws of 2019, regarding livestock identification. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Community & Economic Development**
+Public Hearing
+* [SB 5504](/bill/2021-22/sb/5504/) - Extending current discover pass free days from state parks to all state recreation sites and lands. (Remote testimony.)
+* [SB 5617](/bill/2021-22/sb/5617/) - Concerning population criteria for designation of local downtown and neighborhood commercial district revitalization and official local main street programs. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Local Government**
+Public Hearing
+* [SB 5514](/bill/2021-22/sb/5514/) - Increasing the frequency of county legislative meetings at alternate locations. (Remote testimony.)
+* [SB 5565](/bill/2021-22/sb/5565/) - Allowing fire districts and regional fire authorities to carry out certain treasurer functions. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Labor & Workplace Standards**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 17
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-17-2022/02-17-2022/Agenda///Bill/)
+#### 8:00 am
+**Capital Budget**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Finance**
+Public Hearing
+* [SHB 1918](/bill/2021-22/hb/1918/) - Reducing emissions from outdoor power equipment. (Remote testimony.)
 
 Executive Session
-* [HB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. **180👍** **0👎** **0❓**
-* [HB 1605](/bill/2021-22/hb/1605/) - Creating a program to provide for improved safety on roadways to prevent vehicle lane departures.
-* [HB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities.
-* [HB 1712](/bill/2021-22/hb/1712/) - Concerning municipal airport commissions.
-* [HB 1784](/bill/2021-22/hb/1784/) - Establishing an exception to the requirement that vehicle license plates be visible at all times for vehicles using certain cargo carrying devices.
-* [HB 1790](/bill/2021-22/hb/1790/) - Addressing the creation, display, and material durability of temporary license plates.
-* [SHB 1815](/bill/2021-22/hb/1815/) - Deterring catalytic converter theft.
-* [HB 1839](/bill/2021-22/hb/1839/) - Authorizing commercial motor vehicles to park in chain up and chain off areas that are not in use.
-* [HB 1984](/bill/2021-22/hb/1984/) - Protecting privacy of addresses related to vehicle registration certificates. **0👍** **0👎** **2❓**
-* [HB 2074](/bill/2021-22/hb/2074/) - Concerning fees collected from out-of-state residents who register off-road vehicles in Washington. **9👍** **0👎** **0❓**
-* [HB 2077](/bill/2021-22/hb/2077/) - Concerning the placement of human trafficking informational posters in rest areas. **10👍** **0👎** **0❓**
+* [HB 1792](/bill/2021-22/hb/1792/) - Expanding the production, distribution, and use of hydrogen not produced from a fossil fuel feedstock. **42👍** **0👎** **0❓**
+* [SHB 1814](/bill/2021-22/hb/1814/) - Expanding equitable access to the benefits of renewable energy through community solar projects. **173👍** **8👎** **0❓**
+* [HB 1846](/bill/2021-22/hb/1846/) - Providing a tax preference for rural and nonrural data centers. **284👍** **19👎** **2❓**
+* [SHB 1880](/bill/2021-22/hb/1880/) - Concerning housing benefit districts. **66👍** **86👎** **0❓**
+* [SHB 1914](/bill/2021-22/hb/1914/) - Updating and expanding the motion picture competitiveness program. **937👍** **9👎** **3❓**
+* [HB 1988](/bill/2021-22/hb/1988/) - Concerning tax deferrals for investment projects in clean technology manufacturing, clean alternative fuels production, and renewable energy storage. **20👍** **121👎** **1❓**
+* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **24👍** **0👎** **0❓**
+* [HB 2018](/bill/2021-22/hb/2018/) - Creating a three-day shop local and save sales and use tax holiday to benefit all Washington families for certain items $1,000 or less during the month of September. **8👍** **31👎** **1❓**
+* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. **26👍** **1👎** **1❓**
+* [HB 1966](/bill/2021-22/hb/1966/) - Creating a local infrastructure investment program to support the development of affordable housing, workforce housing, and revitalization efforts. **12👍** **1👎** **0❓**
+* [HB 1864](/bill/2021-22/hb/1864/) - Concerning economic development through advanced technology leadership and security. **11👍** **0👎** **0❓**
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+#### 10:00 am
+**Health Care & Wellness**
+Public Hearing
+* [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Consumer Protection & Business**
+Executive Session
+* [SB 5602](/bill/2021-22/sb/5602/) - Concerning service providers working with state-regulated financial institutions.
+* [SSB 5810](/bill/2021-22/sb/5810/) - Exempting certain prepaid services from insurance regulation.
+* [SJM 8004](/bill/2021-22/jm/8004/) - Addressing "de-risking" by financial institutions.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Children, Youth & Families**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**State Government & Tribal Relations**
+Public Hearing
+* [SB 5615](/bill/2021-22/sb/5615/) - Designating pickleball as the official state sport. (Remote testimony.)
+* [ESB 5512](/bill/2021-22/sb/5512/) - Designating a state nickname. (Remote testimony.)
+* [SB 5560](/bill/2021-22/sb/5560/) - Concerning procedures for approval and submission of the redistricting plan. (Remote testimony.)
+* [2SSB 5342](/bill/2021-22/sb/5342/) - Concerning irrigation district elections. (Remote testimony.)
+
+Executive Session
+* [SB 5787](/bill/2021-22/sb/5787/) - Concerning the linked deposit program.
+* [SB 5506](/bill/2021-22/sb/5506/) - Concerning the appointment process for the chairperson and vice chairperson of the joint administrative rules review committee.
+* [SB 5002](/bill/2021-22/sb/5002/) - Addressing the state auditor's duties and procedures.
+* [SSB 5756](/bill/2021-22/sb/5756/) - Establishing the semiquincentennial committee.
+* [ESB 5264](/bill/2021-22/sb/5264/) - Declaring January as Chinese American history month and encouraging public schools to commemorate the month. (REVISED FOR ENGROSSED: Recognizing contributions of Americans of Chinese descent.)
+* [ESSB 5490](/bill/2021-22/sb/5490/) - Creating the interbranch advisory committee.
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**College & Workforce Development**
+Public Hearing
+* Senate bills referred to committee (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+#### 1:30 pm
+**Environment & Energy**
+Public Hearing
+* [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. (Remote testimony.)
+* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. (Remote testimony.) (If measure is referred to committee.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Housing, Human Services & Veterans**
+Public Hearing
+* [2SSB 5241](/bill/2021-22/sb/5241/) - Promoting economic inclusion. (Remote testimony.)
+* [ESSB 5268](/bill/2021-22/sb/5268/) - Transforming services for individuals with intellectual and developmental disabilities by increasing the capabilities of community residential settings and redesigning the long-term nature of intermediate care facilities. (Remote testimony.)
+* [SSB 5749](/bill/2021-22/sb/5749/) - Concerning rent payments made by residential and manufactured housing community tenants. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Education**
+Public Hearing
+* [SSB 5181](/bill/2021-22/sb/5181/) - Providing school districts serving low-income communities with flexibility in financing their facilities. (Remote testimony.)
+* [ESB 5202](/bill/2021-22/sb/5202/) - Establishing school district depreciation subfunds for the purposes of preventative maintenance. (Remote testimony.)
+* [SSB 5376](/bill/2021-22/sb/5376/) - Promoting awareness of the governor's office of the education ombuds. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Commerce & Gaming**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Public Safety**
+Public Hearing
+* [ESSB 5245](/bill/2021-22/sb/5245/) - Concerning the safety of crime victims. (Remote testimony.)
+* [SSB 5572](/bill/2021-22/sb/5572/) - Implementing the recommendations of the Washington state internet crimes against children task force. (Remote testimony.)
+* [SB 5612](/bill/2021-22/sb/5612/) - Ensuring domestic violence victims and survivors of victims have the opportunity to make a statement during sentencing for all domestic violence convictions. (Remote testimony.)
+* [SB 5694](/bill/2021-22/sb/5694/) - Recognizing Indian tribes as among the governmental entities with which the department of corrections may enter into agreements on matters to include the housing of inmates convicted in tribal court. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+#### 3:30 pm
+**Transportation**
+Public Hearing
+* [SB 5354](/bill/2021-22/sb/5354/) - Addressing traffic control in large cities. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Appropriations**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-18-2022/02-18-2022/Agenda///Bill/)
+#### 8:00 am
+**Civil Rights & Judiciary**
+Executive Session
+* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs.
+* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest.
+* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities.
+* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Rural Development, Agriculture & Natural Resources**
+Public Hearing
+* [SB 5653](/bill/2021-22/sb/5653/) - Changing the name of the commission on pesticide registration to the commission on integrated pest management. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Community & Economic Development**
+Executive Session
+* [SB 5504](/bill/2021-22/sb/5504/) - Extending current discover pass free days from state parks to all state recreation sites and lands.
+* [SB 5617](/bill/2021-22/sb/5617/) - Concerning population criteria for designation of local downtown and neighborhood commercial district revitalization and official local main street programs.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Local Government**
+Public Hearing
+* [2ESSB 5275](/bill/2021-22/sb/5275/) - Enhancing opportunity in limited areas of more intense rural development. (Remote testimony.)
+* [SB 5641](/bill/2021-22/sb/5641/) - Promoting local agriculture through greenhouses. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Labor & Workplace Standards**
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+#### 10:00 am
+**Environment & Energy**
+Public Hearing
+* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Housing, Human Services & Veterans**
+Work Session
+* Guaranteed Basic Income.
+* The Impact of Rent Increases on Tenants’ Stability, Access to Rental Assistance, and Evictions.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Education**
+Public Hearing
+* [SB 5498](/bill/2021-22/sb/5498/) - Awarding diplomas posthumously. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Public Safety**
+Public Hearing
+* [E2SSB 5036](/bill/2021-22/sb/5036/) - Concerning the release of incarcerated individuals from total confinement prior to the expiration of a sentence. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

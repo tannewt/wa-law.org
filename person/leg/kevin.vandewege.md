@@ -23,6 +23,6 @@
 * [SB 5613](/bill/2021-22/sb/5613/) - Use of dogs to hunt | Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.
 * [SB 5721](/bill/2021-22/sb/5721/) - Natural resource management | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5900](/bill/2021-22/sb/5900/) - Provisional paramedics, EMTs | Passed to Rules Committee for second reading.
-* [SB 5919](/bill/2021-22/sb/5919/) - Law enf. physical force | Placed on second reading by Rules Committee.
+* [ESB 5919](/bill/2021-22/esb/5919/) - Law enf. detention | Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.
 * [SB 5928](/bill/2021-22/sb/5928/) - State energy code | First reading, referred to Environment, Energy & Technology.
 * [SB 5949](/bill/2021-22/sb/5949/) - Dental auxiliaries | First reading, referred to Health & Long Term Care.

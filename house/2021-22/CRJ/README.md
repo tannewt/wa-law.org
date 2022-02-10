@@ -18,8 +18,22 @@
 * [Amy Walen](/person/leg/walen_am.md)
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 10:00 am
+### Wed, Feb 16 at 10:00 am
+Public Hearing
+* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. (Remote testimony.)
+* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. (Remote testimony.)
+* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. (Remote testimony.)
+* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 8:00 am
 Executive Session
-* [HB 1850](/bill/2021-22/hb/1850/) - Protecting and enforcing the foundational data privacy rights of Washingtonians. **9👍** **12👎** **54❓**
+* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs.
+* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest.
+* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities.
+* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

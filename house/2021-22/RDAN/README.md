@@ -16,8 +16,19 @@
 * [Joe Schmick](/person/leg/joe.schmick.md)
 * [Larry Springer](/person/leg/larry.springer.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 10:00 am
-Executive Session
-* [SB 5201](/bill/2021-22/sb/5201/) - Concerning department of natural resources' timber and land sales. **4👍** **0👎** **0❓**
+### Wed, Feb 16 at 10:00 am
+Public Hearing
+* [SB 5552](/bill/2021-22/sb/5552/) - Modifying miscellaneous provisions impacting department of fish and wildlife licensing requirements. (Remote testimony.)
+* [SB 5624](/bill/2021-22/sb/5624/) - Extending the expiration date of certain sections of chapter 92, Laws of 2019, regarding livestock identification. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 8:00 am
+Public Hearing
+* [SB 5653](/bill/2021-22/sb/5653/) - Changing the name of the commission on pesticide registration to the commission on integrated pest management. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

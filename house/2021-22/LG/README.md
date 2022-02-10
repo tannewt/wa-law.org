@@ -8,11 +8,20 @@
 * [Eric Robertson](/person/leg/eric.robertson.md)
 * [Tana Senn](/person/leg/tana.senn.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 10:00 am
-Executive Session
-* [HB 1925](/bill/2021-22/hb/1925/) - Authorizing the issuance of civil infractions for violations of rules or regulations in county parks. **3👍** **0👎** **0❓**
-* [HB 1952](/bill/2021-22/hb/1952/) - Concerning the location of housing and associated services that provide aid and assistance to homeless individuals and families. **4👍** **105👎** **0❓**
-* [HB 2001](/bill/2021-22/hb/2001/) - Expanding the ability to build tiny houses. **15👍** **2👎** **1❓**
-* [HB 2020](/bill/2021-22/hb/2020/) - Concerning the creation of affordable and sustainable housing in the state.
+### Wed, Feb 16 at 10:00 am
+Public Hearing
+* [SB 5514](/bill/2021-22/sb/5514/) - Increasing the frequency of county legislative meetings at alternate locations. (Remote testimony.)
+* [SB 5565](/bill/2021-22/sb/5565/) - Allowing fire districts and regional fire authorities to carry out certain treasurer functions. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 8:00 am
+Public Hearing
+* [2ESSB 5275](/bill/2021-22/sb/5275/) - Enhancing opportunity in limited areas of more intense rural development. (Remote testimony.)
+* [SB 5641](/bill/2021-22/sb/5641/) - Promoting local agriculture through greenhouses. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

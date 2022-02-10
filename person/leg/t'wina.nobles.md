@@ -8,5 +8,5 @@
 * [SB 5321](/bill/2021-22/sb/5321/) - College bound scholarship | Effective date 5/12/2021.
 * [SB 5448](/bill/2021-22/sb/5448/) - Vehicle fee/tax payment plan | By resolution, reintroduced and retained in present status.
 * [SB 5824](/bill/2021-22/sb/5824/) - Dependent youth financial ed | Referred to Ways & Means.
-* [SB 5838](/bill/2021-22/sb/5838/) - Diaper subsidy/TANF | Passed to Rules Committee for second reading.
+* [SB 5838](/bill/2021-22/sb/5838/) - Diaper subsidy/TANF | Placed on second reading by Rules Committee.
 * [SB 5874](/bill/2021-22/sb/5874/) - Military student residency | Passed to Rules Committee for second reading.

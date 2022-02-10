@@ -10,12 +10,10 @@
 * [Brandon Vick](/person/leg/brandon.vick.md)
 * [Sharon Wylie](/person/leg/sharon.wylie.md)
 ## Upcoming Meetings
-### Thu, Feb 3 at 10:00 am
-Executive Session
-* [2SHB 1359](/bill/2021-22/hb/1359/) - Reducing liquor license fees temporarily.
-* [HB 1855](/bill/2021-22/hb/1855/) - Concerning a craft cannabis endorsement.
-* [HB 2022](/bill/2021-22/hb/2022/) - Concerning social equity in the cannabis industry. **85👍** **22👎** **4❓**
-* [HB 2025](/bill/2021-22/hb/2025/) - Amending types of nonprofit organizations qualified to engage in certain bingo gambling activities and changes to the number of occurrences for unlicensed bingo activities. **5👍** **1👎** **0❓**
-* [HB 2080](/bill/2021-22/hb/2080/) - Creating a liquor license endorsement. **7👍** **0👎** **1❓**
+### Thu, Feb 17 at 1:30 pm
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

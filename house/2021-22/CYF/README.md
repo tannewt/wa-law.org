@@ -14,11 +14,18 @@
 * [Emily Wicks](/person/leg/wicks_em.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Wed, Feb 2 at 8:00 am
-Executive Session
-* [HB 2068](/bill/2021-22/hb/2068/) - Creating the imagination library of Washington program. **91👍** **1👎** **2❓**
-* [HB 2034](/bill/2021-22/hb/2034/) - Concerning juvenile records.
-* [HB 2038](/bill/2021-22/hb/2038/) - Supporting children involved with child welfare services. **4👍** **0👎** **1❓**
-* [HB 2082](/bill/2021-22/hb/2082/) - Assessing child care access. **13👍** **0👎** **1❓**
+### Wed, Feb 16 at 8:00 am
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 17 at 10:00 am
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

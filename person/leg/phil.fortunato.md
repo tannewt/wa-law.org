@@ -17,7 +17,7 @@
 * [SB 5305](/bill/2021-22/sb/5305/) - Senior property tax/medicare | By resolution, reintroduced and retained in present status.
 * [SB 5346](/bill/2021-22/sb/5346/) - Immigration enforcement | By resolution, reintroduced and retained in present status.
 * [SB 5364](/bill/2021-22/sb/5364/) - Equine industry support | By resolution, reintroduced and retained in present status.
-* [SB 5380](/bill/2021-22/sb/5380/) - Building permit approval | Passed to Rules Committee for second reading.
+* [SB 5380](/bill/2021-22/sb/5380/) - Building permit approval | Placed on second reading by Rules Committee.
 * [SB 5382](/bill/2021-22/sb/5382/) - Election security testing | By resolution, reintroduced and retained in present status.
 * [SB 5393](/bill/2021-22/sb/5393/) - Initiative petition format | By resolution, reintroduced and retained in present status.
 * [SB 5466](/bill/2021-22/sb/5466/) - Sales tax/transp. projects | By resolution, reintroduced and retained in present status.

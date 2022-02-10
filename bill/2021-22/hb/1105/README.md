@@ -7,3 +7,6 @@ Concerning arrest protections for the medical use of cannabis.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Executive Session

@@ -19,7 +19,7 @@
 * [SB 5623](/bill/2021-22/sb/5623/) - Credit history/insurance | First reading, referred to Business, Financial Services & Trade.
 * [SB 5642](/bill/2021-22/sb/5642/) - Affordable housing/REET | Referred to Ways & Means.
 * [SB 5719](/bill/2021-22/sb/5719/) - Dual credit costs | Referred to Ways & Means.
-* [SB 5720](/bill/2021-22/sb/5720/) - Student financial literacy | Passed to Rules Committee for second reading.
+* [SB 5720](/bill/2021-22/sb/5720/) - Student financial literacy | Placed on second reading by Rules Committee.
 * [SB 5724](/bill/2021-22/sb/5724/) - Organ transport vehicles | Passed to Rules Committee for second reading.
 * [SB 5725](/bill/2021-22/sb/5725/) - LCEDIR/tourism slogan | Senate Rules "X" file.
 * [SB 5770](/bill/2021-22/sb/5770/) - Convention economy grants | Referred to Ways & Means.

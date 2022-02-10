@@ -31,22 +31,9 @@
 * [Jim Walsh](/person/leg/jim.walsh.md)
 * [Emily Wicks](/person/leg/wicks_em.md)
 ## Upcoming Meetings
-### Mon, Feb 7 at 10:00 am
+### Thu, Feb 17 at 3:30 pm
 Public Hearing
-* Bills referred to committee. (Remote testimony.)
-
-Executive Session
-* [HB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. **180👍** **0👎** **0❓**
-* [HB 1605](/bill/2021-22/hb/1605/) - Creating a program to provide for improved safety on roadways to prevent vehicle lane departures.
-* [HB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities.
-* [HB 1712](/bill/2021-22/hb/1712/) - Concerning municipal airport commissions.
-* [HB 1784](/bill/2021-22/hb/1784/) - Establishing an exception to the requirement that vehicle license plates be visible at all times for vehicles using certain cargo carrying devices.
-* [HB 1790](/bill/2021-22/hb/1790/) - Addressing the creation, display, and material durability of temporary license plates.
-* [SHB 1815](/bill/2021-22/hb/1815/) - Deterring catalytic converter theft.
-* [HB 1839](/bill/2021-22/hb/1839/) - Authorizing commercial motor vehicles to park in chain up and chain off areas that are not in use.
-* [HB 1984](/bill/2021-22/hb/1984/) - Protecting privacy of addresses related to vehicle registration certificates. **0👍** **0👎** **2❓**
-* [HB 2074](/bill/2021-22/hb/2074/) - Concerning fees collected from out-of-state residents who register off-road vehicles in Washington. **9👍** **0👎** **0❓**
-* [HB 2077](/bill/2021-22/hb/2077/) - Concerning the placement of human trafficking informational posters in rest areas. **10👍** **0👎** **0❓**
+* [SB 5354](/bill/2021-22/sb/5354/) - Addressing traffic control in large cities. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

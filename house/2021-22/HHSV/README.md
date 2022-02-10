@@ -11,12 +11,19 @@
 * [Mari Leavitt](/person/leg/leavitt_ma.md)
 * [My-Linh Thai](/person/leg/thai_my.md)
 ## Upcoming Meetings
-### Thu, Feb 3 at 10:00 am
-Executive Session
-* [HB 1908](/bill/2021-22/hb/1908/) - Addressing surplus public property for affordable housing.
-* [HB 2048](/bill/2021-22/hb/2048/) - Concerning temporary assistance for needy families time limit extensions. **296👍** **0👎** **1❓**
-* [HB 2064](/bill/2021-22/hb/2064/) - Concerning security deposits and damages arising out of residential tenancies. **5👍** **41👎** **2❓**
-* [HB 2075](/bill/2021-22/hb/2075/) - Establishing service requirements for the department of social and health services. **129👍** **0👎** **3❓**
-* [HB 2105](/bill/2021-22/hb/2105/) - Concerning service of notice on landlords and tenants.
+### Thu, Feb 17 at 1:30 pm
+Public Hearing
+* [2SSB 5241](/bill/2021-22/sb/5241/) - Promoting economic inclusion. (Remote testimony.)
+* [ESSB 5268](/bill/2021-22/sb/5268/) - Transforming services for individuals with intellectual and developmental disabilities by increasing the capabilities of community residential settings and redesigning the long-term nature of intermediate care facilities. (Remote testimony.)
+* [SSB 5749](/bill/2021-22/sb/5749/) - Concerning rent payments made by residential and manufactured housing community tenants. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 10:00 am
+Work Session
+* Guaranteed Basic Income.
+* The Impact of Rent Increases on Tenants’ Stability, Access to Rental Assistance, and Evictions.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

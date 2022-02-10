@@ -14,16 +14,18 @@
 * [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 * [Vandana Slatter](/person/leg/vandana.slatter.md)
 ## Upcoming Meetings
-### Thu, Feb 3 at 10:00 am
+### Thu, Feb 17 at 1:30 pm
 Public Hearing
-* [HJR 4209](/bill/2021-22/jr/4209/) - Adding a new section to the Washington state Constitution regarding the conservation and protection of the state's natural resources. (Remote testimony.) **312👍** **264👎** **1❓**
+* [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. (Remote testimony.)
+* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. (Remote testimony.) (If measure is referred to committee.)
 
-Executive Session
-* [HB 1964](/bill/2021-22/hb/1964/) - Concerning the decommissioning of alternative energy facilities. **4👍** **0👎** **2❓**
-* [HB 2066](/bill/2021-22/hb/2066/) - Concerning exemptions for infill development under the state environmental policy act. **42👍** **6👎** **2❓**
-* [HB 2002](/bill/2021-22/hb/2002/) - Concerning the siting of energy infrastructure necessary for the fulfillment of the state's decarbonization goals. **65👍** **118👎** **5❓**
-* [HB 1896](/bill/2021-22/hb/1896/) - Providing for responsible environmental management of batteries. **248👍** **13👎** **7❓**
-* [HB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. **35👍** **5👎** **7❓**
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 10:00 am
+Public Hearing
+* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

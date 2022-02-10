@@ -1,7 +1,7 @@
 # SB 5793 - State boards, etc./stipends
 **Primary Sponsor:** [Claire Wilson](/person/leg/wilson_cl.md)
 
-*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5793&Year=2021)
+*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5793&Year=2021)
 
 Allowing compensation for lived experience on boards, commissions, councils, committees, and other similar groups.
 

@@ -6,5 +6,18 @@
 * [T'wina Nobles](/person/leg/t'wina.nobles.md)
 * [Judy Warnick](/person/leg/judith.warnick.md)
 ## Upcoming Meetings
-### Tue, Feb 1 at 6:00 pm
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+### Wed, Feb 16 at 6:00 pm
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.  Meeting is scheduled to begin at 6:00 p.m.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 18 at 10:30 am
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

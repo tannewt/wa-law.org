@@ -10,3 +10,15 @@ Enhancing opportunity in limited areas of more intense rural development.
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Second Engrossed Substitute](S.E2/)
+
+## Testify
+The House Local Government committee will be holding a public hearing on Fri, Feb 18 at 8:00 am. There are three ways to testify. You can do more than one.
+* 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29828&aId=146363&caId=19473&tId=3)
+* ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29828&aId=146363&caId=19473&tId=4)
+* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29828&aId=146363&caId=19473&tId=2)
+
+Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19473).
+
+
+## Upcoming Meetings
+* Fri, Feb 18 at 8:00 am - [House Local Government](/house/2021-22/LG/) Public Hearing

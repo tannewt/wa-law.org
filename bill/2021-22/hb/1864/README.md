@@ -7,3 +7,6 @@ Concerning economic development through advanced technology leadership and secur
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

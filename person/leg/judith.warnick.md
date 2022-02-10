@@ -13,7 +13,7 @@
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | First reading, referred to Community & Economic Development.
 * [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | First reading, referred to Rural Development, Agriculture & Natural Resources.
-* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Passed to Rules Committee for second reading.
+* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Placed on second reading by Rules Committee.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | Passed to Rules Committee for second reading.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.

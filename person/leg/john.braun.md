@@ -15,7 +15,7 @@
 * [SB 5778](/bill/2021-22/sb/5778/) - Vehicle inspection backlog | First reading, referred to Transportation.
 * [SB 5790](/bill/2021-22/sb/5790/) - Community support services | Passed to Rules Committee for second reading.
 * [SB 5804](/bill/2021-22/sb/5804/) - Gain-of-function research | First reading, referred to Health & Long Term Care.
-* [SB 5819](/bill/2021-22/sb/5819/) - DDA no-paid caseload | Passed to Rules Committee for second reading.
+* [SB 5819](/bill/2021-22/sb/5819/) - DDA no-paid caseload | Placed on second reading by Rules Committee.
 * [SB 5829](/bill/2021-22/sb/5829/) - Behavioral health approps | First reading, referred to Health & Long Term Care.
 * [SB 5857](/bill/2021-22/sb/5857/) - Toxics control accts/water | First reading, referred to Environment, Energy & Technology.
 * [SB 5921](/bill/2021-22/sb/5921/) - County timber tax distrib. | First reading, referred to Ways & Means.
