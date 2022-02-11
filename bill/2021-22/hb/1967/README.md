@@ -7,3 +7,4 @@ Concerning property tax exemptions for nonprofits.
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

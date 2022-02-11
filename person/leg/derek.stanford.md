@@ -24,7 +24,7 @@
 * [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | First reading, referred to Public Safety.
 * [SB 5708](/bill/2021-22/sb/5708/) - Fur products | First reading, referred to Law & Justice.
 * [SB 5717](/bill/2021-22/sb/5717/) - Compost products | First reading, referred to Environment, Energy & Technology.
-* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Placed on second reading by Rules Committee.
+* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5767](/bill/2021-22/sb/5767/) - Hemp-derived cannabinoids | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5773](/bill/2021-22/sb/5773/) - Legislature/bargaining | Referred to Ways & Means.
 * [SB 5947](/bill/2021-22/sb/5947/) - Property exempt from exec. | Passed to Rules Committee for second reading.

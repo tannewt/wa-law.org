@@ -8,3 +8,4 @@ Extending collective bargaining rights to employees of the legislative branch of
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)

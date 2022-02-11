@@ -30,6 +30,7 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 ### Fri, Feb 18 at 8:00 am
 Public Hearing
 * [SHB 1616](/bill/2021-22/hb/1616/) - Concerning the charity care act. (Remote testimony.)
+* [ESHB 1881](/bill/2021-22/hb/1881/) - Creating a new health profession for birth doulas. (Remote testimony.) **343👍** **10👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

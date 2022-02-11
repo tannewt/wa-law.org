@@ -14,6 +14,5 @@ The House Education committee will be holding a public hearing on Thu, Feb 17 at
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19453).
 
-
 ## Upcoming Meetings
 * Thu, Feb 17 at 1:30 pm - [House Education](/house/2021-22/ED/) Public Hearing

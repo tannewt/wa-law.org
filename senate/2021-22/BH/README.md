@@ -6,6 +6,17 @@
 * [T'wina Nobles](/person/leg/t'wina.nobles.md)
 * [Judy Warnick](/person/leg/judith.warnick.md)
 ## Upcoming Meetings
+### Tue, Feb 15 at 8:00 am
+Public Hearing
+* [SHB 1074](/bill/2021-22/hb/1074/) - Concerning overdose and suicide fatality reviews. (Remote testimony.) (If measure is referred to committee.)
+* [SHB 1286](/bill/2021-22/hb/1286/) - Adopting the psychology interjurisdictional compact. (Remote testimony.) (If measure is referred to committee.) **114👍** **0👎** **0❓**
+* [HB 1761](/bill/2021-22/hb/1761/) - Allowing nurses to dispense opioid overdose reversal medication in the emergency department. (Remote testimony.) (If measure is referred to committee.)
+* [2SHB 1890](/bill/2021-22/hb/1890/) - Concerning the children and youth behavioral health work group. (Remote testimony.) (If measure is referred to committee.) **144👍** **2👎** **0❓**
+
+Possible executive session on bills heard in committee. Possible other business.  Meeting is scheduled to begin at 8:00 a.m.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
 ### Wed, Feb 16 at 6:00 pm
 Public Hearing
 * Bills to be determined.

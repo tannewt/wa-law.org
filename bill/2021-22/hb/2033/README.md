@@ -1,7 +1,7 @@
 # HB 2033 - Emergency and work zones
 **Primary Sponsor:** [Brandy Donaghy](/person/leg/brandy.donaghy.md)
 
-*Status: Third reading, passed; yeas, 85; nays, 8; absent, 0; excused, 5.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2033&Year=2021)
+*Status: First reading, referred to Transportation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2033&Year=2021)
 
 Concerning safety measures for fire department vehicles and other vehicles using lights or other signals in emergency or work zones.
 

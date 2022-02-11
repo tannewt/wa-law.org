@@ -7,7 +7,7 @@
 * [EHB 1165](/bill/2021-22/ehb/1165/) - Credit union act | First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).
 * [HB 1429](/bill/2021-22/hb/1429/) - Competitive telecomm. | By resolution, reintroduced and retained in present status.
 * [HB 1512](/bill/2021-22/hb/1512/) - Lodging-related assessments | Effective date 5/10/2021.
-* [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [HB 1707](/bill/2021-22/hb/1707/) - Flotation device use | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).
 * [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | Rules Committee relieved of further consideration.  Placed on second reading.

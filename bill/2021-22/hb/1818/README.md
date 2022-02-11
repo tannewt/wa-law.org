@@ -1,7 +1,7 @@
 # HB 1818 - Reentry and rehabilitation
 **Primary Sponsor:** [Tarra Simmons](/person/leg/tarra.simmons.md)
 
-*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1818&Year=2021)
+*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1818&Year=2021)
 
 Promoting successful reentry and rehabilitation of persons convicted of criminal offenses.
 

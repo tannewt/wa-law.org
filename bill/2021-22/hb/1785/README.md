@@ -1,7 +1,7 @@
 # HB 1785 - WSP minimum salary
 **Primary Sponsor:** [Jake Fey](/person/leg/jake.fey.md)
 
-*Status: Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1785&Year=2021)
+*Status: First reading, referred to Transportation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1785&Year=2021)
 
 Concerning the minimum monthly salary paid to Washington state patrol troopers and sergeants.
 

@@ -15,5 +15,5 @@
 * [SB 5601](/bill/2021-22/sb/5601/) - School district boards | First reading, referred to Early Learning & K-12 Education.
 * [SB 5640](/bill/2021-22/sb/5640/) - Motion picture program/rural | First reading, referred to Business, Financial Services & Trade.
 * [SB 5641](/bill/2021-22/sb/5641/) - Greenhouses | First reading, referred to Local Government.
-* [SB 5678](/bill/2021-22/sb/5678/) - Energy project orders | Passed to Rules Committee for second reading.
+* [SB 5678](/bill/2021-22/sb/5678/) - Energy project orders | Placed on second reading by Rules Committee.
 * [SB 5876](/bill/2021-22/sb/5876/) - Noise/essential services | First reading, referred to Environment, Energy & Technology.

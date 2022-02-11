@@ -360,17 +360,20 @@ See https://app.leg.wa.gov/csi/house for information about viewing and providing
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 3:30 pm
-**Transportation**
+**Appropriations**
 Public Hearing
-* [SB 5354](/bill/2021-22/sb/5354/) - Addressing traffic control in large cities. (Remote testimony.)
+* Senate bills referred to committee. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-**Appropriations**
+**Transportation**
 Public Hearing
-* Senate bills referred to committee. (Remote testimony.)
+* [SB 5354](/bill/2021-22/sb/5354/) - Addressing traffic control in large cities. (Remote testimony.)
+* [SB 5510](/bill/2021-22/sb/5510/) - Concerning renewal of the sales and use tax for transportation benefit districts. (Remote testimony.) (If measure is referred to committee.)
+* [SSB 5558](/bill/2021-22/sb/5558/) - Concerning the bistate governance of interstate toll bridges owned by local governments. (Remote testimony.) (If measure is referred to committee.)
+* [SSB 5631](/bill/2021-22/sb/5631/) - Making human trafficking a disqualifying offense for a commercial driver's license and coming into compliance with the requirements of the federal motor carrier safety administration. (Remote testimony.) (If measure is referred to committee.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

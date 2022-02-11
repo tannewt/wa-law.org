@@ -7,12 +7,14 @@
 * [HB 1446](/bill/2021-22/hb/1446/) - Utility acquisition targets | Effective date 7/25/2021.
 * [HB 1488](/bill/2021-22/hb/1488/) - Plastic packaging materials | By resolution, reintroduced and retained in present status.
 * [HB 1564](/bill/2021-22/hb/1564/) - Transportation spending | By resolution, reintroduced and retained in present status.
-* [HB 1785](/bill/2021-22/hb/1785/) - WSP minimum salary | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
+* [HB 1785](/bill/2021-22/hb/1785/) - WSP minimum salary | First reading, referred to Transportation.
 * [HB 1786](/bill/2021-22/hb/1786/) - Transportation budget, supp. | First reading, referred to Transportation.
 * [HB 1931](/bill/2021-22/hb/1931/) - Hydropower license fees | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1932](/bill/2021-22/hb/1932/) - Recyclability | First reading, referred to Environment & Energy.
-* [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | Third reading, passed; yeas, 90; nays, 6; absent, 0; excused, 2.
+* [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | First reading, referred to Transportation.
 * [HB 1969](/bill/2021-22/hb/1969/) - Traffic cameras/speed | First reading, referred to Transportation.
 * [HB 2024](/bill/2021-22/hb/2024/) - SR 520 sales tax deferral | Referred to Finance.
 * [HB 2063](/bill/2021-22/hb/2063/) - Incorporation/population | First reading, referred to Local Government.
 * [HB 2108](/bill/2021-22/hb/2108/) - Historic auto museums/tax | First reading, referred to Finance.
+* [HB 2118](/bill/2021-22/hb/2118/) - Additive transp. funding | First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).
+* [HB 2119](/bill/2021-22/hb/2119/) - Transportation resources | First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).

@@ -1,7 +1,7 @@
 # HB 1412 - Legal financial obligations
 **Primary Sponsor:** [Tarra Simmons](/person/leg/tarra.simmons.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1412&Year=2021)
+*Status: Third reading, passed; yeas, 70; nays, 24; absent, 0; excused, 4.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1412&Year=2021)
 
 Concerning legal financial obligations.
 
@@ -11,3 +11,4 @@ Concerning legal financial obligations.
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
 * [Fourth Substitute](S4/)
+* [Engrossed Fourth Substitute](S4.E/)

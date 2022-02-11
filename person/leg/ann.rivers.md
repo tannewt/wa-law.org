@@ -10,6 +10,6 @@
 * [SB 5605](/bill/2021-22/sb/5605/) - Anesthesiologist assistants | First reading, referred to Health & Long Term Care.
 * [SB 5723](/bill/2021-22/sb/5723/) - Diversity in clinical trials | Passed to Rules Committee for second reading.
 * [SB 5811](/bill/2021-22/sb/5811/) - Pharmacy choice | First reading, referred to Health & Long Term Care.
-* [SB 5821](/bill/2021-22/sb/5821/) - Cardiac & stroke response | Placed on second reading by Rules Committee.
+* [SB 5821](/bill/2021-22/sb/5821/) - Cardiac & stroke response | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5851](/bill/2021-22/sb/5851/) - Presidential primary RCV | First reading, referred to State Government & Elections.
 * [SB 5888](/bill/2021-22/sb/5888/) - Rx drug cost-sharing | First reading, referred to Health & Long Term Care.

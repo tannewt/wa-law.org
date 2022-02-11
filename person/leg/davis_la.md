@@ -6,7 +6,7 @@
 * [HB 1464](/bill/2021-22/hb/1464/) - Sub. use disorder coverage | By resolution, reintroduced and retained in present status.
 * [HB 1499](/bill/2021-22/hb/1499/) - Sub. use disorder/health | By resolution, reintroduced and retained in present status.
 * [HB 1860](/bill/2021-22/hb/1860/) - Behavioral health discharge | Referred to Rules 2 Review.
-* [HB 1865](/bill/2021-22/hb/1865/) - Certified peer specialists | Referred to Rules 2 Review.
+* [HB 1865](/bill/2021-22/hb/1865/) - Certified peer specialists | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1903](/bill/2021-22/hb/1903/) - Parent-child relationship | First reading, referred to Children, Youth & Families.
 * [HB 2017](/bill/2021-22/hb/2017/) - Tenants/criminal record | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2035](/bill/2021-22/hb/2035/) - LCB/behavioral health | First reading, referred to Commerce & Gaming.

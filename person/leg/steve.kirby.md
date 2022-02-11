@@ -8,9 +8,9 @@
 * [HB 1428](/bill/2021-22/hb/1428/) - Auto. insurance policies | By resolution, reintroduced and retained in present status.
 * [HB 1543](/bill/2021-22/hb/1543/) - Consumer products | By resolution, reintroduced and retained in present status.
 * [HB 1545](/bill/2021-22/hb/1545/) - Insurance regulation | By resolution, reintroduced and retained in present status.
-* [HB 1614](/bill/2021-22/hb/1614/) - Online marketplaces | Referred to Rules 2 Review.
+* [HB 1614](/bill/2021-22/hb/1614/) - Online marketplaces | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1704](/bill/2021-22/hb/1704/) - Service contracts | Referred to Rules 2 Review.
-* [HB 1899](/bill/2021-22/hb/1899/) - DFI data confidentiality | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1899](/bill/2021-22/hb/1899/) - DFI data confidentiality | Third reading, passed; yeas, 93; nays, 1; absent, 0; excused, 4.
 * [HB 1954](/bill/2021-22/hb/1954/) - Tow trucks/transaction fees | Referred to Rules 2 Review.
 * [HB 1979](/bill/2021-22/hb/1979/) - Vehicle insurance appraisals | Referred to Rules 2 Review.
 * [HB 2103](/bill/2021-22/hb/2103/) - Commercial bribery/contracts | First reading, referred to Civil Rights & Judiciary.

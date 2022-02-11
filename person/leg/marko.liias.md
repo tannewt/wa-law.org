@@ -1,6 +1,6 @@
 # Marko Liias
 ## Bills
-* [SB 5078](/bill/2021-22/sb/5078/) - Firearm safety | 1st substitute bill substituted.
+* [SB 5078](/bill/2021-22/sb/5078/) - Firearm safety | Third reading, passed; yeas, 28; nays, 20; absent, 0; excused, 1.
 * [SB 5093](/bill/2021-22/sb/5093/) - Building decarbonization | By resolution, reintroduced and retained in present status.
 * [SB 5106](/bill/2021-22/sb/5106/) - Municipal financial services | Effective date 7/25/2021.
 * [SB 5150](/bill/2021-22/sb/5150/) - Residential services rate | By resolution, reintroduced and retained in present status.
@@ -29,7 +29,7 @@
 * [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | Referred to Ways & Means.
 * [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | Passed to Rules Committee for second reading.
 * [SB 5846](/bill/2021-22/sb/5846/) - Election offices/weapons | First reading, referred to Law & Justice.
-* [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | Placed on second reading by Rules Committee.
+* [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.
 * [SB 5861](/bill/2021-22/sb/5861/) - Housing benefit districts | First reading, referred to Housing & Local Government.
 * [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [SB 5899](/bill/2021-22/sb/5899/) - SR 520 sales tax deferral | First reading, referred to Transportation.

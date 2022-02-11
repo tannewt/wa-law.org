@@ -19,27 +19,21 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Thu, Feb 10 at 8:00 am
-Public Hearing
-* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.)
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Fri, Feb 11 at 8:00 am
 Public Hearing
-* Bills to be determined.
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.) **452👍** **60👎** **49❓**
 
-Possible executive session on bills heard in committee. Possible other business.
+Meeting is a continuation of the public hearing on SB 5974. Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Mon, Feb 14 at 8:00 am
-Public Hearing
-* Bills to be determined.
+Executive Session
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. **452👍** **60👎** **49❓**
+* [SSB 5085](/bill/2021-22/sb/5085/) - Modifying certain alternative fuel vehicles fees.
+* [SB 5488](/bill/2021-22/sb/5488/) - Completing outstanding financial obligations regarding the Tacoma Narrows toll bridge project.
 
-Possible executive session on bills heard in committee. Possible other business.
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

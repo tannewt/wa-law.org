@@ -7,6 +7,6 @@
 * [HB 1309](/bill/2021-22/hb/1309/) - Levy certification dates | Effective date 7/25/2021.
 * [HB 1546](/bill/2021-22/hb/1546/) - Multiuse roadway safety acct | House Rules "X" file.
 * [HB 1685](/bill/2021-22/hb/1685/) - Cottage food sales cap | Referred to Rules 2 Review.
-* [HB 1800](/bill/2021-22/hb/1800/) - Behavioral health/minors | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1800](/bill/2021-22/hb/1800/) - Behavioral health/minors | Third reading, passed; yeas, 90; nays, 4; absent, 0; excused, 4.
 * [HB 1839](/bill/2021-22/hb/1839/) - Commercial vehicle parking | Referred to Rules 2 Review.
 * [HB 1843](/bill/2021-22/hb/1843/) - Child care licensing | First reading, referred to Children, Youth & Families.

@@ -15,7 +15,7 @@
 * [SB 5507](/bill/2021-22/sb/5507/) - Dialysate & dialysis devices | First reading, referred to Health & Long Term Care.
 * [SB 5517](/bill/2021-22/sb/5517/) - Cannabis/employment | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5520](/bill/2021-22/sb/5520/) - Harassment & discrim. NDAs | Passed to Rules Committee for second reading.
-* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | Placed on second reading by Rules Committee.
+* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.
 * [SB 5533](/bill/2021-22/sb/5533/) - Online marketplaces | First reading, referred to Environment, Energy & Technology.
 * [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.
 * [SB 5547](/bill/2021-22/sb/5547/) - Marijuana products | First reading, referred to Labor, Commerce & Tribal Affairs.

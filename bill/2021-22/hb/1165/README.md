@@ -16,6 +16,5 @@ The Senate Business, Financial Services & Trade committee will be holding a publ
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19504).
 
-
 ## Upcoming Meetings
 * Thu, Feb 17 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Public Hearing

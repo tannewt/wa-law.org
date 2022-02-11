@@ -68,34 +68,39 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 
 ## Upcoming Meetings
-### Thu, Feb 10
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-10-2022/02-10-2022/Agenda///Bill/)
+### Fri, Feb 11
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-11-2022/02-11-2022/Agenda///Bill/)
 #### 8:00 am
 **Transportation**
 Public Hearing
-* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.)
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.) **452👍** **60👎** **49❓**
 
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-### Fri, Feb 11
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-11-2022/02-11-2022/Agenda///Bill/)
-**Transportation**
-Public Hearing
-* Bills to be determined.
-
-Possible executive session on bills heard in committee. Possible other business.
+Meeting is a continuation of the public hearing on SB 5974. Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Mon, Feb 14
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-14-2022/02-14-2022/Agenda///Bill/)
 **Transportation**
-Public Hearing
-* Bills to be determined.
+Executive Session
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. **452👍** **60👎** **49❓**
+* [SSB 5085](/bill/2021-22/sb/5085/) - Modifying certain alternative fuel vehicles fees.
+* [SB 5488](/bill/2021-22/sb/5488/) - Completing outstanding financial obligations regarding the Tacoma Narrows toll bridge project.
 
-Possible executive session on bills heard in committee. Possible other business.
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Tue, Feb 15
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-15-2022/02-15-2022/Agenda///Bill/)
+**Behavioral Health Subcommittee to Health & Long Term Care**
+Public Hearing
+* [SHB 1074](/bill/2021-22/hb/1074/) - Concerning overdose and suicide fatality reviews. (Remote testimony.) (If measure is referred to committee.)
+* [SHB 1286](/bill/2021-22/hb/1286/) - Adopting the psychology interjurisdictional compact. (Remote testimony.) (If measure is referred to committee.) **114👍** **0👎** **0❓**
+* [HB 1761](/bill/2021-22/hb/1761/) - Allowing nurses to dispense opioid overdose reversal medication in the emergency department. (Remote testimony.) (If measure is referred to committee.)
+* [2SHB 1890](/bill/2021-22/hb/1890/) - Concerning the children and youth behavioral health work group. (Remote testimony.) (If measure is referred to committee.) **144👍** **2👎** **0❓**
+
+Possible executive session on bills heard in committee. Possible other business.  Meeting is scheduled to begin at 8:00 a.m.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -131,15 +136,6 @@ Possible executive session on bills heard in committee. Possible other business.
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:30 am
-**Early Learning & K-12 Education**
-Public Hearing
-* [SHB 1617](/bill/2021-22/hb/1617/) - Aligning state and school holidays. (Remote testimony.)
-* [HB 1834](/bill/2021-22/hb/1834/) - Concerning student excused absences for mental health reasons. (Remote testimony.)
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Housing & Local Government**
 Public Hearing
 * Bills to be determined.
@@ -151,6 +147,19 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 **Labor, Commerce & Tribal Affairs**
 Public Hearing
 * Bill to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Early Learning & K-12 Education**
+Public Hearing
+* [SHB 1617](/bill/2021-22/hb/1617/) - Aligning state and school holidays. (Remote testimony.)
+* [HB 1834](/bill/2021-22/hb/1834/) - Concerning student excused absences for mental health reasons. (Remote testimony.)
+* [E2SHB 1153](/bill/2021-22/hb/1153/) - Addressing language access in public schools. (Remote testimony.)
+* [SHB 1759](/bill/2021-22/hb/1759/) - Requiring school districts and other public education entities to make information from the department of health about substance use trends, overdose symptoms and response, and the secure storage of prescription drugs, over-the-counter medications, and firearms and ammunition, available through their websites and other communication resources. (Remote testimony.)
+* [SHB 1955](/bill/2021-22/hb/1955/) - Creating uniformity in education requirements for students who are the subject of a dependency proceeding. (Remote testimony.) **18👍** **1👎** **0❓**
+* [SHB 1867](/bill/2021-22/hb/1867/) - Concerning dual credit program data. (Remote testimony.) **15👍** **0👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 
@@ -299,6 +308,7 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 **Health & Long Term Care**
 Public Hearing
 * [SHB 1616](/bill/2021-22/hb/1616/) - Concerning the charity care act. (Remote testimony.)
+* [ESHB 1881](/bill/2021-22/hb/1881/) - Creating a new health profession for birth doulas. (Remote testimony.) **343👍** **10👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

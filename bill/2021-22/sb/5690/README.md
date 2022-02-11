@@ -8,3 +8,4 @@ Concerning firearms on the capitol campus for the sole purpose of organized memo
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)

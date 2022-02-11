@@ -1,7 +1,7 @@
 # HB 1664 - Schools/support funding
 **Primary Sponsor:** [Alicia Rule](/person/leg/alicia.rule.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1664&Year=2021)
+*Status: Third reading, passed; yeas, 73; nays, 23; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1664&Year=2021)
 
 Concerning prototypical school formulas for physical, social, and emotional support in schools.
 
