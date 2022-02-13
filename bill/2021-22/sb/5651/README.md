@@ -7,3 +7,6 @@ Concerning the capital budget.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing

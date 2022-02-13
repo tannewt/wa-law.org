@@ -16,6 +16,6 @@
 * [HB 1689](/bill/2021-22/hb/1689/) - Biomarker testing prior auth | First reading, referred to Health & Long Term Care.
 * [HB 1718](/bill/2021-22/hb/1718/) - Fur products | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1783](/bill/2021-22/hb/1783/) - Freight transporters/L&I | First reading, referred to Labor & Workplace Standards.
-* [HB 1841](/bill/2021-22/hb/1841/) - ADU rental/property tax | Referred to Rules 2 Review.
-* [HB 1941](/bill/2021-22/hb/1941/) - Active shooter drills | Third reading, passed; yeas, 69; nays, 27; absent, 0; excused, 2.
+* [HB 1841](/bill/2021-22/hb/1841/) - ADU rental/property tax | Third reading, passed; yeas, 66; nays, 31; absent, 0; excused, 1.
+* [HB 1941](/bill/2021-22/hb/1941/) - Active shooter drills | First reading, referred to Early Learning & K-12 Education.
 * [HB 2020](/bill/2021-22/hb/2020/) - Sustainable housing/GMA | Referred to Appropriations.

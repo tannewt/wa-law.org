@@ -12,6 +12,7 @@
 Public Hearing
 * [SB 5602](/bill/2021-22/sb/5602/) - Concerning service providers working with state-regulated financial institutions. (Remote testimony.)
 * [SSB 5810](/bill/2021-22/sb/5810/) - Exempting certain prepaid services from insurance regulation. (Remote testimony.)
+* [SSB 5880](/bill/2021-22/sb/5880/) - Concerning fire protection sprinkler system contractors. (Remote testimony.)
 * [SJM 8004](/bill/2021-22/jm/8004/) - Addressing "de-risking" by financial institutions. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
@@ -22,6 +23,7 @@ To view committee meetings or access the committee meeting documents, visit the 
 Executive Session
 * [SB 5602](/bill/2021-22/sb/5602/) - Concerning service providers working with state-regulated financial institutions.
 * [SSB 5810](/bill/2021-22/sb/5810/) - Exempting certain prepaid services from insurance regulation.
+* [SSB 5880](/bill/2021-22/sb/5880/) - Concerning fire protection sprinkler system contractors.
 * [SJM 8004](/bill/2021-22/jm/8004/) - Addressing "de-risking" by financial institutions.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

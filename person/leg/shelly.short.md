@@ -11,9 +11,9 @@
 * [ESB 5356](/bill/2021-22/esb/5356/) - Public works/bidding | Effective date 7/25/2021.
 * [SB 5368](/bill/2021-22/sb/5368/) - Rural economic development | Effective date 7/25/2021.
 * [SB 5593](/bill/2021-22/sb/5593/) - Urban growth area boundaries | Placed on second reading by Rules Committee.
-* [SB 5594](/bill/2021-22/sb/5594/) - Bone marrow donation aware. | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5594](/bill/2021-22/sb/5594/) - Bone marrow donation aware. | First reading, referred to Education.
 * [SB 5601](/bill/2021-22/sb/5601/) - School district boards | First reading, referred to Early Learning & K-12 Education.
 * [SB 5640](/bill/2021-22/sb/5640/) - Motion picture program/rural | First reading, referred to Business, Financial Services & Trade.
 * [SB 5641](/bill/2021-22/sb/5641/) - Greenhouses | First reading, referred to Local Government.
-* [SB 5678](/bill/2021-22/sb/5678/) - Energy project orders | Placed on second reading by Rules Committee.
+* [SB 5678](/bill/2021-22/sb/5678/) - Energy project orders | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5876](/bill/2021-22/sb/5876/) - Noise/essential services | First reading, referred to Environment, Energy & Technology.

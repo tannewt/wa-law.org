@@ -7,8 +7,8 @@
 * [HB 1283](/bill/2021-22/hb/1283/) - Criminal mischief/weapons | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1496](/bill/2021-22/hb/1496/) - High valued assets tax | By resolution, reintroduced and retained in present status.
 * [HB 1630](/bill/2021-22/hb/1630/) - Weapons/certain meetings | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1644](/bill/2021-22/hb/1644/) - Pupil transp./electric | Third reading, passed; yeas, 94; nays, 2; absent, 0; excused, 2.
+* [HB 1644](/bill/2021-22/hb/1644/) - Pupil transp./electric | First reading, referred to Early Learning & K-12 Education.
 * [HB 1729](/bill/2021-22/hb/1729/) - Blockchain work group | Referred to Rules 2 Review.
 * [HB 1872](/bill/2021-22/hb/1872/) - Care worker center | Referred to Appropriations.
 * [HB 1900](/bill/2021-22/hb/1900/) - Schools/discrimination, etc. | First reading, referred to Education.
-* [HB 1905](/bill/2021-22/hb/1905/) - Homelessness/youth discharge | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1905](/bill/2021-22/hb/1905/) - Homelessness/youth discharge | Third reading, passed; yeas, 94; nays, 3; absent, 0; excused, 1.

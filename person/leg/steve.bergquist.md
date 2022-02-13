@@ -5,6 +5,6 @@
 * [EHB 1453](/bill/2021-22/ehb/1453/) - Voters' pamphlets | First reading, referred to State Government & Elections (Not Officially read and referred until adoption of Introduction report).
 * [HB 1511](/bill/2021-22/hb/1511/) - Surplus property/housing | By resolution, reintroduced and retained in present status.
 * [HB 1568](/bill/2021-22/hb/1568/) - Unemployment insurance | By resolution, reintroduced and retained in present status.
-* [HB 1687](/bill/2021-22/hb/1687/) - College bound scholar./GPA | Rules Committee relieved of further consideration.  Placed on second reading.
+* [EHB 1687](/bill/2021-22/ehb/1687/) - College bound scholar./GPA | Third reading, passed; yeas, 84; nays, 14; absent, 0; excused, 0.
 * [HB 1699](/bill/2021-22/hb/1699/) - Work in retirement/schools | First reading, referred to Ways & Means.
 * [HB 1701](/bill/2021-22/hb/1701/) - LEOFF benefits | First reading, referred to Ways & Means.

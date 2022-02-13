@@ -12,8 +12,11 @@
 ### Thu, Feb 17 at 8:00 am
 Public Hearing
 * [EHB 1165](/bill/2021-22/hb/1165/) - Concerning the Washington credit union act. (Remote testimony.)
+* [2SHB 1173](/bill/2021-22/hb/1173/) - Concerning state lands development authorities. (Remote testimony.)
 * [HB 1874](/bill/2021-22/hb/1874/) - Reducing barriers to professional licensure for individuals with previous arrests or criminal convictions. (Remote testimony.)
+* [HB 1899](/bill/2021-22/hb/1899/) - Concerning confidentiality of certain data shared with the department of financial institutions. (Remote testimony.)
 * [SHB 1957](/bill/2021-22/hb/1957/) - Establishing a small business disaster recovery financial assistance program. (Remote testimony.)
+* [ESHB 2059](/bill/2021-22/hb/2059/) - Concerning real estate agency law, but only to clarify that the statutory duties of real estate brokers apply to all parties and prohibiting the delivery of buyer unfair practice letters to the seller of residential real estate. (REVISED FOR ENGROSSED: Concerning real estate broker duties.) (Remote testimony.) **7👍** **1👎** **0❓**
 * [E2SHB 1015](/bill/2021-22/hb/1015/) - Creating the Washington equitable access to credit act. (Remote testimony.)
 
 Executive Session

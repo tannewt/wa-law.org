@@ -1,7 +1,7 @@
 # SB 5907 - Roadside safety
 **Primary Sponsor:** [Jeff Wilson](/person/leg/jeff.wilson.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5907&Year=2021)
+*Status: First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5907&Year=2021)
 
 Concerning roadside safety measures.
 

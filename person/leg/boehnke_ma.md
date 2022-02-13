@@ -11,7 +11,7 @@
 * [HB 1864](/bill/2021-22/hb/1864/) - Leadership and security | First reading, referred to Finance.
 * [HB 1882](/bill/2021-22/hb/1882/) - Outdoor recreation | First reading, referred to Community & Economic Development.
 * [HB 2019](/bill/2021-22/hb/2019/) - Careers in retail | First reading, referred to Higher Education & Workforce Development.
-* [HB 2044](/bill/2021-22/hb/2044/) - Ransomware protection | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 2044](/bill/2021-22/hb/2044/) - Ransomware protection | Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.
 * [HB 2069](/bill/2021-22/hb/2069/) - Raffles | First reading, referred to Commerce & Gaming.
 * [HB 2070](/bill/2021-22/hb/2070/) - Autonomous vehicles | First reading, referred to Transportation.
 * [HB 2100](/bill/2021-22/hb/2100/) - Autonomous vehicle testing | First reading, referred to Transportation.

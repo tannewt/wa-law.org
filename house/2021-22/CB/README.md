@@ -25,9 +25,4 @@
 * [Mike Volz](/person/leg/mike.volz.md)
 ## Upcoming Meetings
 ### Thu, Feb 17 at 8:00 am
-Public Hearing
-* Senate bills referred to committee. (Remote testimony.)
 
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

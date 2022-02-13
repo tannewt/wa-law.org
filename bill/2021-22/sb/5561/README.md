@@ -7,3 +7,7 @@ Concerning the restoration of the right to possess a firearm.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 16 at 10:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Public Hearing
+* Fri, Feb 18 at 3:30 pm - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

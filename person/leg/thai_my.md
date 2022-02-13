@@ -13,9 +13,9 @@
 * [HB 1670](/bill/2021-22/hb/1670/) - JARRC chair & vice chair | Referred to Rules 2 Review.
 * [HB 1713](/bill/2021-22/hb/1713/) - Rx drug cost sharing | First reading, referred to Health Care & Wellness.
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
-* [HB 1784](/bill/2021-22/hb/1784/) - License plate visibility | Referred to Rules 2 Review.
-* [HB 1851](/bill/2021-22/hb/1851/) - Abortion care | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Third reading, passed; yeas, 64; nays, 32; absent, 0; excused, 2.
+* [HB 1784](/bill/2021-22/hb/1784/) - License plate visibility | Rules Committee relieved of further consideration.  Placed on second reading.
+* [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | Third reading, passed; yeas, 55; nays, 40; absent, 0; excused, 3.
+* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
 * [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | First reading, referred to Ways & Means.
-* [HB 2096](/bill/2021-22/hb/2096/) - Working families' tax exempt | Rules Committee relieved of further consideration.  Placed on second reading.
+* [EHB 2096](/bill/2021-22/ehb/2096/) - Working families' tax exempt | Third reading, passed; yeas, 96; nays, 2; absent, 0; excused, 0.
 * [HB 2116](/bill/2021-22/hb/2116/) - Nonbiodegradable packaging | First reading, referred to Environment & Energy.

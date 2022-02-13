@@ -23,6 +23,7 @@ Public Hearing
 * [SB 5508](/bill/2021-22/sb/5508/) - Concerning the insurance guaranty fund. (Remote testimony.)
 * [SB 5529](/bill/2021-22/sb/5529/) - Concerning self-directed care. (Remote testimony.)
 * [SSB 5753](/bill/2021-22/sb/5753/) - Increasing board and commission capacities. (Remote testimony.)
+* [SSB 5892](/bill/2021-22/sb/5892/) - Establishing pilot projects for utilizing high school student nursing assistant-certified programs to address the nursing workforce shortage and promote nursing careers in rural hospitals. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -31,6 +32,11 @@ To view committee meetings or access the committee meeting documents, visit the 
 ### Thu, Feb 17 at 10:00 am
 Public Hearing
 * [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact. (Remote testimony.)
+* [2SSB 5532](/bill/2021-22/sb/5532/) - Establishing a prescription drug affordability board. (Remote testimony.) **97👍** **82👎** **1❓**
+* [SSB 5546](/bill/2021-22/sb/5546/) - Concerning insulin affordability. (Remote testimony.)
+* [SSB 5610](/bill/2021-22/sb/5610/) - Requiring cost sharing for prescription drugs to be counted against an enrollee's obligation, regardless of source. (Remote testimony.)
+* [SSB 5821](/bill/2021-22/sb/5821/) - Evaluating the state's cardiac and stroke emergency response system. (Remote testimony.)
+* [SSB 5886](/bill/2021-22/sb/5886/) - Creating an advisory council on rare diseases. **67👍** **34👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

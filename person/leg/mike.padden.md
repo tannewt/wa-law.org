@@ -4,13 +4,13 @@
 * [SB 5024](/bill/2021-22/sb/5024/) - Condominium construction | Effective date 7/25/2021.
 * [SB 5027](/bill/2021-22/sb/5027/) - Television closed captions | Effective date 7/25/2021.
 * [SB 5053](/bill/2021-22/sb/5053/) - Abortion, notifying parents | By resolution, reintroduced and retained in present status.
-* [ESB 5054](/bill/2021-22/esb/5054/) - Impaired driving | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [ESB 5054](/bill/2021-22/esb/5054/) - Impaired driving | First reading, referred to Public Safety.
 * [SB 5094](/bill/2021-22/sb/5094/) - Vascular neck restraints | By resolution, reintroduced and retained in present status.
 * [SB 5233](/bill/2021-22/sb/5233/) - Home studies/children | By resolution, reintroduced and retained in present status.
 * [SB 5234](/bill/2021-22/sb/5234/) - Long-term care trust repeal | By resolution, reintroduced and retained in present status.
 * [SB 5247](/bill/2021-22/sb/5247/) - Multistate nurse licensure | By resolution, reintroduced and retained in present status.
 * [SB 5261](/bill/2021-22/sb/5261/) - Police data collection | By resolution, reintroduced and retained in present status.
-* [SB 5332](/bill/2021-22/sb/5332/) - Off-road and wheeled ATVs | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
+* [SB 5332](/bill/2021-22/sb/5332/) - Off-road and wheeled ATVs | First reading, referred to Transportation.
 * [SB 5347](/bill/2021-22/sb/5347/) - Cooperatives/member voting | Effective date 7/25/2021.
 * [SB 5416](/bill/2021-22/sb/5416/) - Down syndrome/abortion | By resolution, reintroduced and retained in present status.
 * [SB 5465](/bill/2021-22/sb/5465/) - Road maintenance/planning | By resolution, reintroduced and retained in present status.
@@ -22,12 +22,12 @@
 * [SB 5569](/bill/2021-22/sb/5569/) - Public safety | First reading, referred to Law & Justice.
 * [SB 5621](/bill/2021-22/sb/5621/) - Water & sewage/intergov. | First reading, referred to Housing & Local Government.
 * [SB 5709](/bill/2021-22/sb/5709/) - Exclusionary evidence rule | First reading, referred to Law & Justice.
-* [SB 5710](/bill/2021-22/sb/5710/) - Toxicology lab contamination | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5710](/bill/2021-22/sb/5710/) - Toxicology lab contamination | First reading, referred to Public Safety.
 * [SB 5711](/bill/2021-22/sb/5711/) - Private prison contracting | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5733](/bill/2021-22/sb/5733/) - Civil asset forfeiture/drugs | Passed to Rules Committee for second reading.
 * [SB 5779](/bill/2021-22/sb/5779/) - Bail fund oversight | First reading, referred to Law & Justice.
 * [SB 5780](/bill/2021-22/sb/5780/) - Graduated reentry program | First reading, referred to Human Services, Reentry & Rehabilitation.
-* [SB 5781](/bill/2021-22/sb/5781/) - Organized retail theft | Placed on second reading by Rules Committee.
-* [SB 5826](/bill/2021-22/sb/5826/) - Warm water game fish | Passed to Rules Committee for second reading.
+* [SB 5781](/bill/2021-22/sb/5781/) - Organized retail theft | First reading, referred to Public Safety (Not Officially read and referred until adoption of Introduction report).
+* [SB 5826](/bill/2021-22/sb/5826/) - Warm water game fish | Placed on second reading by Rules Committee.
 * [SB 5839](/bill/2021-22/sb/5839/) - Interfering with emergency | Passed to Rules Committee for second reading.
 * [SB 5893](/bill/2021-22/sb/5893/) - Torts | First reading, referred to Law & Justice.

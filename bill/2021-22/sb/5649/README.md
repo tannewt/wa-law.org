@@ -1,7 +1,7 @@
 # SB 5649 - Family and medical leave
 **Primary Sponsor:** [June Robinson](/person/leg/june.robinson.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5649&Year=2021)
+*Status: Third reading, passed; yeas, 42; nays, 7; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5649&Year=2021)
 
 Modifying the Washington state paid family and medical leave act.
 

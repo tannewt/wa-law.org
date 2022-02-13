@@ -21,3 +21,4 @@
 * [HB 2013](/bill/2021-22/hb/2013/) - DOL personal information | First reading, referred to Transportation.
 * [HB 2028](/bill/2021-22/hb/2028/) - Narrows bridge/deferred tax | First reading, referred to Appropriations.
 * [HB 2081](/bill/2021-22/hb/2081/) - Voter reg./firearm app. | First reading, referred to State Government & Tribal Relations.
+* [HB 2120](/bill/2021-22/hb/2120/) - Emergency services/crimes | First reading, referred to Public Safety (Not Officially read and referred until adoption of Introduction report).

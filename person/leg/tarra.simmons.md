@@ -5,10 +5,10 @@
 * [HB 1282](/bill/2021-22/hb/1282/) - Earned time | By resolution, reintroduced and retained in present status.
 * [HB 1293](/bill/2021-22/hb/1293/) - Sentencing/domestic violence | By resolution, reintroduced and retained in present status.
 * [HB 1411](/bill/2021-22/hb/1411/) - Health care workforce | Effective date 7/25/2021*.
-* [HB 1412](/bill/2021-22/hb/1412/) - Legal financial obligations | Third reading, passed; yeas, 70; nays, 24; absent, 0; excused, 4.
+* [HB 1412](/bill/2021-22/hb/1412/) - Legal financial obligations | First reading, referred to Law & Justice.
 * [HB 1616](/bill/2021-22/hb/1616/) - Charity care | First reading, referred to Health & Long Term Care.
 * [HB 1637](/bill/2021-22/hb/1637/) - Mental illness/sentencing | Referred to Rules 2 Review.
 * [HB 1681](/bill/2021-22/hb/1681/) - Conviction record vacation | Referred to Rules 2 Review.
 * [HB 1692](/bill/2021-22/hb/1692/) - Drive-by shooting | First reading, referred to Public Safety.
 * [HB 1809](/bill/2021-22/hb/1809/) - Health care marketplace | First reading, referred to Civil Rights & Judiciary.
-* [HB 1818](/bill/2021-22/hb/1818/) - Reentry and rehabilitation | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1818](/bill/2021-22/hb/1818/) - Reentry and rehabilitation | Third reading, passed; yeas, 87; nays, 10; absent, 0; excused, 1.

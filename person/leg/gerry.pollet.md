@@ -15,7 +15,7 @@
 * [HB 1566](/bill/2021-22/hb/1566/) - Legislature/disabilities | By resolution, reintroduced and retained in present status.
 * [HB 1586](/bill/2021-22/hb/1586/) - Grassroots lobbyists | By resolution, reintroduced and retained in present status.
 * [HB 1711](/bill/2021-22/hb/1711/) - Accessory dwelling units | Referred to Rules 2 Review.
-* [HB 1717](/bill/2021-22/hb/1717/) - GMA planning/tribes | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1717](/bill/2021-22/hb/1717/) - GMA planning/tribes | Third reading, passed; yeas, 92; nays, 6; absent, 0; excused, 0.
 * [HB 1802](/bill/2021-22/hb/1802/) - Disabilities/entity members | Referred to Rules 2 Review.
 * [HB 1981](/bill/2021-22/hb/1981/) - Local government planning | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 2039](/bill/2021-22/hb/2039/) - Vapor products | First reading, referred to Commerce & Gaming.

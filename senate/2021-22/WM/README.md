@@ -29,11 +29,13 @@
 ## Upcoming Meetings
 ### Thu, Feb 17 at 4:00 pm
 Public Hearing
+* [SB 5651](/bill/2021-22/sb/5651/) - Concerning the capital budget. (Hearing is on the Proposed Substitute.) (Remote testimony.)
 * [SSB 5543](/bill/2021-22/sb/5543/) - Concerning a zero-emission landscaping equipment incentive. (Remote testimony.)
 * [SSB 5714](/bill/2021-22/sb/5714/) - Creating a sales and use tax deferral program for solar canopies placed on large-scale commercial parking lots and other similar areas. (Remote testimony.)
 * [SSB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of vacant lands in urban areas. (Remote testimony.)
 * [SB 5849](/bill/2021-22/sb/5849/) - Concerning tax incentives. (Remote testimony.) **14👍** **1👎** **0❓**
 * [SSB 5799](/bill/2021-22/sb/5799/) - Modifying the application of the workforce education investment advanced computing surcharge to provider clinics and affiliated organizations. (Remote testimony.)
+* [SB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. (Remote testimony.) **19👍** **0👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

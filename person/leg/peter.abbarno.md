@@ -3,7 +3,7 @@
 * [HB 1263](/bill/2021-22/hb/1263/) - Rural infrastructure | By resolution, reintroduced and retained in present status.
 * [HB 1540](/bill/2021-22/hb/1540/) - Wastewater discharges | By resolution, reintroduced and retained in present status.
 * [HB 1594](/bill/2021-22/hb/1594/) - Long-term care/repeal | First reading, referred to Appropriations.
-* [HB 1595](/bill/2021-22/hb/1595/) - Bridge jumping signs | Referred to Rules 2 Review.
+* [HB 1595](/bill/2021-22/hb/1595/) - Bridge jumping signs | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1596](/bill/2021-22/hb/1596/) - Long-term care/outside WA | First reading, referred to Appropriations.
 * [HB 1597](/bill/2021-22/hb/1597/) - Long-term care/hardship | First reading, referred to Appropriations.
 * [HB 1598](/bill/2021-22/hb/1598/) - Long-term care/death | First reading, referred to Appropriations.

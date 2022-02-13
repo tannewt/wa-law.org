@@ -19,6 +19,7 @@ Executive Session
 * [HB 1172](/bill/2021-22/hb/1172/) - Recognizing judicially affirmed and treaty-reserved fishing rights and promoting state-tribal cooperative agreements in the management of salmon, trout, and steelhead resources.
 * [HB 1430](/bill/2021-22/hb/1430/) - Concerning the duration of state upland leases for lands managed by the department of natural resources.
 * [SHB 1508](/bill/2021-22/hb/1508/) - Concerning the sanitary control of shellfish.
+* [HB 1700](/bill/2021-22/hb/1700/) - Concerning sustainable funding for the derelict vessel removal account using the vessel watercraft excise tax.
 
 Possible other business.
 

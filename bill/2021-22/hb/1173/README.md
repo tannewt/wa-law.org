@@ -9,3 +9,6 @@ Concerning state lands development authorities.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Public Hearing

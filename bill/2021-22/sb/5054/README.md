@@ -7,3 +7,6 @@ Concerning impaired driving.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 1:30 pm - [House Public Safety](/house/2021-22/PS/) Public Hearing

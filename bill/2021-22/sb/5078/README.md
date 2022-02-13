@@ -1,7 +1,7 @@
-# SB 5078 - Firearm safety
+# SB 5078 - Large capacity magazines
 **Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
 
-*Status: Third reading, passed; yeas, 28; nays, 20; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5078&Year=2021)
+*Status: First reading, referred to Civil Rights & Judiciary.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5078&Year=2021)
 
 Addressing firearm safety measures to increase public safety. (REVISED FOR ENGROSSED: Establishing firearms-related safety measures to increase public safety by prohibiting the manufacture, importation, distribution, selling, and offering for sale of large capacity magazines, and by providing limited exemptions applicable to licensed firearms manufacturers and dealers for purposes of sale to armed forces branches and law enforcement agencies for purposes of sale or transfer outside the state.)
 
@@ -9,3 +9,7 @@ Addressing firearm safety measures to increase public safety. (REVISED FOR ENGRO
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Wed, Feb 16 at 10:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Public Hearing
+* Fri, Feb 18 at 3:30 pm - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

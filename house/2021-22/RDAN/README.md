@@ -19,7 +19,9 @@
 ### Wed, Feb 16 at 10:00 am
 Public Hearing
 * [SB 5552](/bill/2021-22/sb/5552/) - Modifying miscellaneous provisions impacting department of fish and wildlife licensing requirements. (Remote testimony.)
+* [SSB 5613](/bill/2021-22/sb/5613/) - Concerning the use of dogs to hunt black bear, cougar, or bobcat. (Remote testimony.)
 * [SB 5624](/bill/2021-22/sb/5624/) - Extending the expiration date of certain sections of chapter 92, Laws of 2019, regarding livestock identification. (Remote testimony.)
+* [SB 5812](/bill/2021-22/sb/5812/) - Including Benton county as a county qualifying for the farm internship program. (Remote testimony.) **6👍** **0👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

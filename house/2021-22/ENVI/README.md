@@ -17,7 +17,8 @@
 ### Thu, Feb 17 at 1:30 pm
 Public Hearing
 * [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. (Remote testimony.)
-* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. (Remote testimony.) (If measure is referred to committee.)
+* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. (Remote testimony.)
+* [SSB 5722](/bill/2021-22/sb/5722/) - Reducing greenhouse gas emissions in buildings. (Remote testimony.) (If measure is referred to committee.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -26,6 +27,8 @@ To view committee meetings or access the committee meeting documents, visit the 
 ### Fri, Feb 18 at 10:00 am
 Public Hearing
 * [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. (Remote testimony.)
+* [SB 5747](/bill/2021-22/sb/5747/) - Concerning the statewide master oil and hazardous substance spill prevention and contingency plan. (Remote testimony.)
+* [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. (Remote testimony.) **26👍** **72👎** **5❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

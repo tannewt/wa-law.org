@@ -3,8 +3,8 @@
 * [SB 5000](/bill/2021-22/sb/5000/) - Hydrogen/electric vehicles | Effective date 7/25/2021*.
 * [SB 5147](/bill/2021-22/sb/5147/) - Learning stabilization, etc. | Senate Rules "X" file.
 * [ESB 5158](/bill/2021-22/esb/5158/) - Utility wildland fire cmte. | Effective date 7/25/2021.
-* [SB 5406](/bill/2021-22/sb/5406/) - Tow truck operator comp. | Placed on third reading by Rules Committee.
-* [SB 5487](/bill/2021-22/sb/5487/) - School consolid. incentives | Third reading, passed; yeas, 40; nays, 9; absent, 0; excused, 0.
+* [SB 5406](/bill/2021-22/sb/5406/) - Tow truck operator comp. | First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).
+* [SB 5487](/bill/2021-22/sb/5487/) - School consolid. incentives | First reading, referred to Capital Budget.
 * [SB 5513](/bill/2021-22/sb/5513/) - Lodging taxes/housing | First reading, referred to Housing & Local Government.
 * [SB 5603](/bill/2021-22/sb/5603/) - SR 2 corridor study | First reading, referred to Transportation.
-* [SB 5868](/bill/2021-22/sb/5868/) - Public fac. tax/housing | Third reading, passed; yeas, 41; nays, 8; absent, 0; excused, 0.
+* [SB 5868](/bill/2021-22/sb/5868/) - Public fac. tax/housing | First reading, referred to Finance.

@@ -10,3 +10,6 @@ Improving the state's climate response through updates to the state's comprehens
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

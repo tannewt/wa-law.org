@@ -16,6 +16,9 @@
 Public Hearing
 * [SHB 1615](/bill/2021-22/hb/1615/) - Concerning the sale of cosmetics tested on animals. (Remote testimony.)
 * [SHB 1961](/bill/2021-22/hb/1961/) - Concerning the authority of the courts to waive auditor's fees for filing and recording name change orders. (Remote testimony.)
+* [HB 1825](/bill/2021-22/hb/1825/) - Concerning continuity of judicial operations in single judge courts. (Remote testimony.)
+* [E4SHB 1412](/bill/2021-22/hb/1412/) - Concerning legal financial obligations. (Remote testimony.) **131👍** **0👎** **2❓**
+* [ESHB 1793](/bill/2021-22/hb/1793/) - Concerning electric vehicle charging stations in common interest communities. (Remote testimony.)
 
 Executive Session
 * [HB 1105](/bill/2021-22/hb/1105/) - Concerning arrest protections for the medical use of cannabis. **52👍** **2👎** **1❓**

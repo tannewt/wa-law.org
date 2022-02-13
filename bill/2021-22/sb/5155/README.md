@@ -12,14 +12,13 @@ Concerning prejudgment interest.
 * [Engrossed Second Substitute](S2.E/)
 
 ## Testify
-The House Civil Rights & Judiciary committee will be holding a public hearing on Wed, Feb 16 at 10:00 am. There are three ways to testify. You can do more than one.
-* 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146275&caId=19441&tId=3)
-* ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146275&caId=19441&tId=4)
-* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146275&caId=19441&tId=2)
+The House Civil Rights & Judiciary committee will be holding a public hearing on Fri, Feb 18 at 8:00 am. There are three ways to testify. You can do more than one.
+* 👍 / 👎 [Sign in support or oppose a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29773&aId=146525&caId=19585&tId=3)
+* ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29773&aId=146525&caId=19585&tId=4)
+* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29773&aId=146525&caId=19585&tId=2)
 
-Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19441).
+Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19585).
 
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 10:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Public Hearing
-* Fri, Feb 18 at 8:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session
+* Fri, Feb 18 at 8:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Public Hearing

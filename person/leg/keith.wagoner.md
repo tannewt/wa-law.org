@@ -12,13 +12,13 @@
 * [SB 5435](/bill/2021-22/sb/5435/) - Parking spaces/disability | By resolution, reintroduced and retained in present status.
 * [SB 5458](/bill/2021-22/sb/5458/) - Public contracts/businesses | By resolution, reintroduced and retained in present status.
 * [SB 5461](/bill/2021-22/sb/5461/) - Forest health activities | By resolution, reintroduced and retained in present status.
-* [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | Passed to Rules Committee for second reading.
-* [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | Passed to Rules Committee for second reading.
-* [SB 5638](/bill/2021-22/sb/5638/) - Mental health prof. licenses | Placed on second reading by Rules Committee.
-* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Passed to Rules Committee for second reading.
+* [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | Placed on second reading by Rules Committee.
+* [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | Placed on second reading by Rules Committee.
+* [SB 5638](/bill/2021-22/sb/5638/) - Mental health prof. licenses | First reading, referred to Health Care & Wellness (Not Officially read and referred until adoption of Introduction report).
+* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5646](/bill/2021-22/sb/5646/) - Corrections/body scanners | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5679](/bill/2021-22/sb/5679/) - Elections/voter confidence | First reading, referred to State Government & Elections.
-* [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Passed to Rules Committee for second reading.
+* [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Placed on second reading by Rules Committee.
 * [SB 5816](/bill/2021-22/sb/5816/) - 988 line tax | First reading, referred to Health & Long Term Care.
-* [SB 5931](/bill/2021-22/sb/5931/) - Judges pro tempore/COA | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5931](/bill/2021-22/sb/5931/) - Judges pro tempore/COA | First reading, referred to Civil Rights & Judiciary.
 * [SB 5970](/bill/2021-22/sb/5970/) - Vehicle taxes & fees | First reading, referred to Transportation.

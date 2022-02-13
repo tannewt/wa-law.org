@@ -19,3 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Tue, Feb 15 at 8:00 am - [Senate Behavioral Health Subcommittee to Health & Long Term Care](/senate/2021-22/BH/) Public Hearing
+* Wed, Feb 16 at 6:00 pm - [Senate Behavioral Health Subcommittee to Health & Long Term Care](/senate/2021-22/BH/) Executive Session

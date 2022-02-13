@@ -1,10 +1,13 @@
 # SB 5594 - Bone marrow donation aware.
 **Primary Sponsor:** [Shelly Short](/person/leg/shelly.short.md)
 
-*Status: Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5594&Year=2021)
+*Status: First reading, referred to Education.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5594&Year=2021)
 
 Concerning public school instruction in awareness of bone marrow donation.
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 1:30 pm - [House Education](/house/2021-22/ED/) Public Hearing

@@ -18,7 +18,11 @@
 ## Upcoming Meetings
 ### Wed, Feb 16 at 8:00 am
 Public Hearing
-* Bills to be determined.
+* [HB 1978](/bill/2021-22/hb/1978/) - Concerning shoreline master program review schedules. (Remote testimony.)
+* [ESHB 1619](/bill/2021-22/hb/1619/) - Concerning appliance efficiency standards. (Remote testimony.)
+* [SHB 1623](/bill/2021-22/hb/1623/) - Addressing the extent to which Washington residents are at risk of rolling blackouts and power supply inadequacy events. (Remote testimony.)
+* [E2SHB 1663](/bill/2021-22/hb/1663/) - Reducing methane emissions from landfills. (Remote testimony.) **31👍** **119👎** **3❓**
+* [ESHB 1753](/bill/2021-22/hb/1753/) - Concerning tribal consultation regarding the use of certain funding authorized by the climate commitment act. (Remote testimony.) **25👍** **132👎** **1❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 
@@ -26,7 +30,8 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 ### Thu, Feb 17 at 10:30 am
 Public Hearing
-* Bills to be determined.
+* [SHB 1768](/bill/2021-22/hb/1768/) - Updating definitions applicable to energy conservation projects involving public entities. (Remote testimony.)
+* [ESHB 1673](/bill/2021-22/hb/1673/) - Concerning broadband infrastructure loans and grants made by the public works board. (Remote testimony.) **20👍** **0👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

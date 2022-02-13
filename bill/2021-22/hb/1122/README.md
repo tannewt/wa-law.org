@@ -7,3 +7,6 @@ Concerning the retirement age for state guard members.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 16 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

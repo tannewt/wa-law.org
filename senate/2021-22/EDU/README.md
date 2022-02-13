@@ -25,7 +25,11 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 ### Fri, Feb 18 at 8:00 am
 Public Hearing
-* Bills to be determined.
+* [HB 1611](/bill/2021-22/hb/1611/) - Advancing equity in programs for highly capable students. (Remote testimony.) **34👍** **1👎** **1❓**
+* [SHB 1644](/bill/2021-22/hb/1644/) - Permitting funds in the transportation vehicle fund to be used for electric and other clean pupil transportation vehicle feasibility planning and fueling station infrastructure. (Remote testimony.)
+* [HB 1833](/bill/2021-22/hb/1833/) - Establishing an electronic option for the submission of household income information required for participation in school meals and programs. (Remote testimony.)
+* [SHB 1941](/bill/2021-22/hb/1941/) - Prohibiting active shooter scenarios for school safety-related drills. (Remote testimony.) **101👍** **1👎** **2❓**
+* [HB 1974](/bill/2021-22/hb/1974/) - Moving state board of education and educational service district elections to the Washington state school directors' association. (Remote testimony.) **3👍** **259👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

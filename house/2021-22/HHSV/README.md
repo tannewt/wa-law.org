@@ -15,6 +15,8 @@
 Public Hearing
 * [2SSB 5241](/bill/2021-22/sb/5241/) - Promoting economic inclusion. (Remote testimony.)
 * [ESSB 5268](/bill/2021-22/sb/5268/) - Transforming services for individuals with intellectual and developmental disabilities by increasing the capabilities of community residential settings and redesigning the long-term nature of intermediate care facilities. (Remote testimony.)
+* [SB 5607](/bill/2021-22/sb/5607/) - Including individuals in jails and hospitals who were homeless before entering such facilities in the state's annual homeless census. (Remote testimony.)
+* [SSB 5729](/bill/2021-22/sb/5729/) - Creating a good cause exception to administrative hearing deadlines for applicants or recipients of certain public assistance benefits. (Remote testimony.)
 * [SSB 5749](/bill/2021-22/sb/5749/) - Concerning rent payments made by residential and manufactured housing community tenants. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
@@ -22,8 +24,14 @@ See https://app.leg.wa.gov/csi/house for information about viewing and providing
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 ### Fri, Feb 18 at 10:00 am
+Public Hearing
+* [SB 5566](/bill/2021-22/sb/5566/) - Expanding eligibility for the independent youth housing program. (Remote testimony.) **102👍** **0👎** **0❓**
+* [SB 5929](/bill/2021-22/sb/5929/) - Changing the membership of the legislative-executive WorkFirst poverty reduction oversight task force. (Remote testimony.) **6👍** **0👎** **0❓**
+
 Work Session
 * Guaranteed Basic Income.
 * The Impact of Rent Increases on Tenants’ Stability, Access to Rental Assistance, and Evictions.
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

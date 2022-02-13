@@ -17,5 +17,5 @@
 * [HB 1438](/bill/2021-22/hb/1438/) - Property tax/health expenses | Effective date 7/25/2021.
 * [HB 1439](/bill/2021-22/hb/1439/) - Military surplus vehicles | By resolution, reintroduced and retained in present status.
 * [HB 1491](/bill/2021-22/hb/1491/) - Transport of timber, etc. | Effective date 7/25/2021.
-* [HB 1709](/bill/2021-22/hb/1709/) - Tow truck safety | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1709](/bill/2021-22/hb/1709/) - Tow truck safety | Third reading, passed; yeas, 89; nays, 8; absent, 0; excused, 1.
 * [HB 1898](/bill/2021-22/hb/1898/) - State school levies, reduce | First reading, referred to Finance.

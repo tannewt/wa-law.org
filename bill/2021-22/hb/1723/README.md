@@ -1,7 +1,7 @@
 # HB 1723 - Telecommunications access
 **Primary Sponsor:** [Mia Gregerson](/person/leg/mia.gregerson.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1723&Year=2021)
+*Status: Third reading, passed; yeas, 68; nays, 30; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1723&Year=2021)
 
 Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training.
 
@@ -9,3 +9,4 @@ Closing the digital equity divide by increasing the accessibility and affordabil
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)

@@ -1,7 +1,7 @@
 # SB 5619 - Kelp & eelgrass conservation
 **Primary Sponsor:** [Liz Lovelett](/person/leg/liz.lovelett.md)
 
-*Status: Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5619&Year=2021)
+*Status: First reading, referred to Rural Development, Agriculture & Natural Resources.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5619&Year=2021)
 
 Conserving and restoring kelp forests and eelgrass meadows in Washington state.
 

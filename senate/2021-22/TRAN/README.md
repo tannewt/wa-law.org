@@ -19,17 +19,9 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Fri, Feb 11 at 8:00 am
-Public Hearing
-* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. (Remote testimony.) **452👍** **60👎** **49❓**
-
-Meeting is a continuation of the public hearing on SB 5974. Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 14 at 8:00 am
 Executive Session
-* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. **452👍** **60👎** **49❓**
+* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. **515👍** **65👎** **77❓**
 * [SSB 5085](/bill/2021-22/sb/5085/) - Modifying certain alternative fuel vehicles fees.
 * [SB 5488](/bill/2021-22/sb/5488/) - Completing outstanding financial obligations regarding the Tacoma Narrows toll bridge project.
 
@@ -39,7 +31,13 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 ### Thu, Feb 17 at 4:00 pm
 Public Hearing
-* Bills to be determined.
+* [SHB 1655](/bill/2021-22/hb/1655/) - Encouraging the opening of safety rest areas to the public. (Remote testimony.)
+* [HB 1785](/bill/2021-22/hb/1785/) - Concerning the minimum monthly salary paid to Washington state patrol troopers and sergeants. (Remote testimony.)
+* [SHB 2057](/bill/2021-22/hb/2057/) - Strengthening diversity, equity, and inclusion in the state patrol workforce. (Remote testimony.)
+* [HB 2033](/bill/2021-22/hb/2033/) - Concerning safety measures for fire department vehicles and other vehicles using lights or other signals in emergency or work zones. (Remote testimony.) **13👍** **2👎** **0❓**
+
+Work Session
+* Low-income tolling study update – WA Transportation Commission.
 
 Possible executive session on bills heard in committee. Possible other business.
 

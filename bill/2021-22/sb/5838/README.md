@@ -1,7 +1,7 @@
 # SB 5838 - Diaper subsidy/TANF
 **Primary Sponsor:** [T'wina Nobles](/person/leg/t'wina.nobles.md)
 
-*Status: Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5838&Year=2021)
+*Status: First reading, referred to Housing, Human Services & Veterans.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5838&Year=2021)
 
 Providing a monthly diaper subsidy for parents or other caregivers receiving temporary assistance for needy families.
 

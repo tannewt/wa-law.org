@@ -13,17 +13,17 @@
 * [SB 5140](/bill/2021-22/sb/5140/) - Pregnancy & miscarriage care | Effective date 7/25/2021.
 * [SB 5155](/bill/2021-22/sb/5155/) - Prejudgment interest | First reading, referred to Civil Rights & Judiciary.
 * [SB 5160](/bill/2021-22/sb/5160/) - Landlord-tenant relations | Effective date 4/22/2021.
-* [SB 5182](/bill/2021-22/sb/5182/) - Advisory votes | On motion, referred to Rules Committee for second reading.
+* [SB 5182](/bill/2021-22/sb/5182/) - Advisory votes | Placed on second reading by Rules Committee.
 * [SB 5188](/bill/2021-22/sb/5188/) - Public financial cooperative | Placed on third reading by Rules Committee.
 * [SB 5217](/bill/2021-22/sb/5217/) - Assault weapons | By resolution, reintroduced and retained in present status.
 * [SB 5260](/bill/2021-22/sb/5260/) - Eviction res. pilot/reports | By resolution, reintroduced and retained in present status.
 * [SB 5266](/bill/2021-22/sb/5266/) - Products sold to adults 21+ | By resolution, reintroduced and retained in present status.
 * [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | First reading, referred to State Government & Tribal Relations.
-* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.
+* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | First reading, referred to Housing, Human Services & Veterans.
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Passed to Rules Committee for second reading.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Placed on second reading by Rules Committee.
-* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
-* [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Passed to Rules Committee for second reading.
+* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | First reading, referred to Transportation.
+* [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Placed on second reading by Rules Committee.
 * [SB 5705](/bill/2021-22/sb/5705/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means.
 * [SB 5768](/bill/2021-22/sb/5768/) - Vapor products | First reading, referred to Health & Long Term Care.
-* [SB 5825](/bill/2021-22/sb/5825/) - Rental & vacant property reg | Passed to Rules Committee for second reading.
+* [SB 5825](/bill/2021-22/sb/5825/) - Rental & vacant property reg | Placed on second reading by Rules Committee.

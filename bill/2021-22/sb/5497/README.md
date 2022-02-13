@@ -1,7 +1,7 @@
 # SB 5497 - Board of ed. student members
 **Primary Sponsor:** [Claire Wilson](/person/leg/wilson_cl.md)
 
-*Status: Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5497&Year=2021)
+*Status: First reading, referred to Education.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5497&Year=2021)
 
 Extending voting authority to student members on the state board of education.
 
