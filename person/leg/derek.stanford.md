@@ -7,14 +7,14 @@
 * [SB 5231](/bill/2021-22/sb/5231/) - Transportation fuel/carbon | By resolution, reintroduced and retained in present status.
 * [SB 5278](/bill/2021-22/sb/5278/) - Construction workers | By resolution, reintroduced and retained in present status.
 * [SB 5298](/bill/2021-22/sb/5298/) - Tribal consent/AG | By resolution, reintroduced and retained in present status.
-* [SB 5348](/bill/2021-22/sb/5348/) - Assisted reproduction | Passed to Rules Committee for second reading.
+* [SB 5348](/bill/2021-22/sb/5348/) - Assisted reproduction | Placed on second reading by Rules Committee.
 * [SB 5365](/bill/2021-22/sb/5365/) - Cannabis commission | By resolution, reintroduced and retained in present status.
 * [SB 5366](/bill/2021-22/sb/5366/) - Building materials | By resolution, reintroduced and retained in present status.
 * [ESB 5372](/bill/2021-22/esb/5372/) - Hemp/registration & cert. | Effective date 7/25/2021.
 * [SB 5379](/bill/2021-22/sb/5379/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
 * [SB 5408](/bill/2021-22/sb/5408/) - Homestead exemption | Effective date 5/12/2021.
 * [SB 5410](/bill/2021-22/sb/5410/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
-* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | Passed to Rules Committee for second reading.
+* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | Placed on second reading by Rules Committee.
 * [SB 5419](/bill/2021-22/sb/5419/) - Statuary hall/Billy Frank Jr | By resolution, reintroduced and retained in present status.
 * [SB 5425](/bill/2021-22/sb/5425/) - Unempl. extended benefits | Effective date 4/16/2021.
 * [SB 5571](/bill/2021-22/sb/5571/) - 911 emergency communications | First reading, referred to State Government & Elections.

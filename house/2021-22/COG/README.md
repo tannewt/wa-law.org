@@ -12,7 +12,7 @@
 ## Upcoming Meetings
 ### Thu, Feb 17 at 1:30 pm
 Public Hearing
-* Senate bills referred to committee. (Remote testimony.)
+* [SB 5940](/bill/2021-22/sb/5940/) - Creating a liquor license endorsement. (Remote testimony.) **9👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

@@ -31,7 +31,7 @@ To view committee meetings or access the committee meeting documents, visit the 
 Public Hearing
 * [E2SSB 5036](/bill/2021-22/sb/5036/) - Concerning the release of incarcerated individuals from total confinement prior to the expiration of a sentence. (Remote testimony.)
 * [ESSB 5628](/bill/2021-22/sb/5628/) - Concerning cyber harassment, addressing concerns in the case of Rynearson v. Ferguson, and adding a crime of cyberstalking. (Remote testimony.)
-* [SSB 5710](/bill/2021-22/sb/5710/) - Reducing contamination in the state toxicology laboratory. (Remote testimony.)
+* [2SSB 5695](/bill/2021-22/sb/5695/) - Concerning a body scanner pilot program at the department of corrections. (Remote testimony.) (If measure is referred to committee.)
 * [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. (Remote testimony.) **19👍** **2👎** **3❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.

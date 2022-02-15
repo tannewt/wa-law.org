@@ -8,7 +8,7 @@
 * [HB 1340](/bill/2021-22/hb/1340/) - Pandemic task force | By resolution, reintroduced and retained in present status.
 * [HB 1379](/bill/2021-22/hb/1379/) - Unpiloted aircraft system | Effective date 7/1/2021*.
 * [SB 5573](/bill/2021-22/sb/5573/) - Drug offender sentencing alt | Referred to Ways & Means.
-* [SB 5575](/bill/2021-22/sb/5575/) - Snohomish county/judges | First reading, referred to Civil Rights & Judiciary (Not Officially read and referred until adoption of Introduction report).
+* [SB 5575](/bill/2021-22/sb/5575/) - Snohomish county/judges | First reading, referred to Civil Rights & Judiciary.
 * [SB 5615](/bill/2021-22/sb/5615/) - State sport | First reading, referred to State Government & Tribal Relations.
 * [SB 5629](/bill/2021-22/sb/5629/) - Disposition of remains | First reading, referred to Civil Rights & Judiciary.
 * [SB 5741](/bill/2021-22/sb/5741/) - Patches pal license plates | First reading, referred to Transportation.

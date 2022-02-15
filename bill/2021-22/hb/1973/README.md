@@ -16,6 +16,5 @@ The Senate State Government & Elections committee will be holding a public heari
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19560).
 
-
 ## Upcoming Meetings
 * Wed, Feb 16 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Public Hearing

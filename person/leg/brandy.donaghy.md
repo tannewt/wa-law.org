@@ -5,4 +5,4 @@
 * [HB 2003](/bill/2021-22/hb/2003/) - Recycling system & waste | First reading, referred to Environment & Energy.
 * [HB 2010](/bill/2021-22/hb/2010/) - Homeless budgets & audits | Third reading, passed; yeas, 57; nays, 40; absent, 0; excused, 1.
 * [HB 2033](/bill/2021-22/hb/2033/) - Emergency and work zones | First reading, referred to Transportation.
-* [HB 2097](/bill/2021-22/hb/2097/) - First-time home buyer def. | Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.
+* [HB 2097](/bill/2021-22/hb/2097/) - First-time home buyer def. | First reading, referred to Housing & Local Government.

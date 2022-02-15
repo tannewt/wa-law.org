@@ -28,8 +28,8 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 Public Hearing
 * [HB 1832](/bill/2021-22/hb/1832/) - Concerning code city form of government elections and city manager appointment. (Remote testimony.) **6👍** **5👎** **0❓**
 * [HB 2098](/bill/2021-22/hb/2098/) - Modifying the interest rate for the low-income home rehabilitation revolving loan program. (Remote testimony.)
-* [SHB 2001](/bill/2021-22/hb/2001/) - Expanding the ability to build tiny houses. (Remote testimony.) (If measure is referred to committee.) **15👍** **2👎** **1❓**
-* [HB 2097](/bill/2021-22/hb/2097/) - Changing the definition of first-time home buyer. (Remote testimony.) (If measure is referred to committee.)
+* [SHB 2001](/bill/2021-22/hb/2001/) - Expanding the ability to build tiny houses. (Remote testimony.) **15👍** **2👎** **1❓**
+* [HB 2097](/bill/2021-22/hb/2097/) - Changing the definition of first-time home buyer. (Remote testimony.)
 * [SB 5971](/bill/2021-22/sb/5971/) - Concerning the comprehensive plan and implementation of the goals and requirements of the growth management act. (Remote testimony.)
 
 Executive Session

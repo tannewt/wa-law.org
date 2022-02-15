@@ -10,3 +10,6 @@ Mitigating the risk of wildfires caused by an electric utility's equipment.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 8:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Public Hearing

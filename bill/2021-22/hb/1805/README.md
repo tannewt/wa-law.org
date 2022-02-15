@@ -7,3 +7,6 @@ Concerning the opportunity scholarship program.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 1:30 pm - [Senate Higher Education & Workforce Development](/senate/2021-22/HEWD/) Executive Session

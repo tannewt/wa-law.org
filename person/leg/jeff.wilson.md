@@ -18,4 +18,4 @@
 * [SB 5650](/bill/2021-22/sb/5650/) - Elections law violation info | Passed to Rules Committee for second reading.
 * [SB 5856](/bill/2021-22/sb/5856/) - Firearm transfers to museums | First reading, referred to Civil Rights & Judiciary.
 * [SB 5871](/bill/2021-22/sb/5871/) - Microschool pilot project | First reading, referred to Early Learning & K-12 Education.
-* [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).
+* [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | First reading, referred to Transportation.

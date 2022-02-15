@@ -5,7 +5,7 @@
 * [SB 5014](/bill/2021-22/sb/5014/) - Odd-numbered year ballots | By resolution, reintroduced and retained in present status.
 * [SB 5015](/bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes | Effective date 7/25/2021.
 * [SB 5021](/bill/2021-22/sb/5021/) - Retirement benefits/furlough | Effective date 7/25/2021.
-* [SB 5098](/bill/2021-22/sb/5098/) - Public records exemptions | Passed to Rules Committee for second reading.
+* [SB 5098](/bill/2021-22/sb/5098/) - Public records exemptions | Placed on second reading by Rules Committee.
 * [SB 5224](/bill/2021-22/sb/5224/) - Land survey markers | By resolution, reintroduced and retained in present status.
 * [SB 5225](/bill/2021-22/sb/5225/) - Direct appeals/APA, land use | Effective date 6/13/2021*.
 * [SB 5250](/bill/2021-22/sb/5250/) - Citizens' initiative review | By resolution, reintroduced and retained in present status.

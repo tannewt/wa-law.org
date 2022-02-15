@@ -1,6 +1,6 @@
 # Peter Abbarno
 ## Bills
-* [HB 1263](/bill/2021-22/hb/1263/) - Rural infrastructure | By resolution, reintroduced and retained in present status.
+* [HB 1263](/bill/2021-22/hb/1263/) - Rural infrastructure | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1540](/bill/2021-22/hb/1540/) - Wastewater discharges | By resolution, reintroduced and retained in present status.
 * [HB 1594](/bill/2021-22/hb/1594/) - Long-term care/repeal | First reading, referred to Appropriations.
 * [HB 1595](/bill/2021-22/hb/1595/) - Bridge jumping signs | Rules Committee relieved of further consideration.  Placed on second reading.

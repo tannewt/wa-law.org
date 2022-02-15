@@ -5,7 +5,7 @@
 * [HB 1103](/bill/2021-22/hb/1103/) - Building materials | By resolution, reintroduced and retained in present status.
 * [HB 1184](/bill/2021-22/hb/1184/) - Risk-based water standards | Effective date 7/25/2021.
 * [HB 1189](/bill/2021-22/hb/1189/) - Tax increment financing | Effective date 7/25/2021.
-* [HB 1241](/bill/2021-22/hb/1241/) - Growth management act plans | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1241](/bill/2021-22/hb/1241/) - Growth management act plans | Third reading, passed; yeas, 55; nays, 43; absent, 0; excused, 0.
 * [HB 1362](/bill/2021-22/hb/1362/) - Property tax revenue growth | By resolution, reintroduced and retained in present status.
 * [HB 1663](/bill/2021-22/hb/1663/) - Landfill methane emissions | First reading, referred to Environment, Energy & Technology.
 * [HB 1714](/bill/2021-22/hb/1714/) - Impact fee deferrals | Referred to Rules 2 Review.

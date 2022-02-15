@@ -26,11 +26,12 @@ To view committee meetings or access the committee meeting documents, visit the 
 ### Fri, Feb 18 at 10:00 am
 Public Hearing
 * [SB 5566](/bill/2021-22/sb/5566/) - Expanding eligibility for the independent youth housing program. (Remote testimony.) **102👍** **0👎** **0❓**
+* [SSB 5819](/bill/2021-22/sb/5819/) - Concerning the developmental disabilities administration's no-paid services caseload. (Remote testimony.) **18👍** **0👎** **0❓**
+* [SSB 5838](/bill/2021-22/sb/5838/) - Providing a monthly diaper subsidy for parents or other caregivers receiving temporary assistance for needy families. (Remote testimony.)
 * [SB 5929](/bill/2021-22/sb/5929/) - Changing the membership of the legislative-executive WorkFirst poverty reduction oversight task force. (Remote testimony.) **6👍** **0👎** **0❓**
 
 Work Session
 * Guaranteed Basic Income.
-* The Impact of Rent Increases on Tenants’ Stability, Access to Rental Assistance, and Evictions.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

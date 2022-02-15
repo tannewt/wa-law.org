@@ -1,7 +1,7 @@
 # HB 1241 - Growth management act plans
 **Primary Sponsor:** [Davina Duerr](/person/leg/duerr_da.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1241&Year=2021)
+*Status: Third reading, passed; yeas, 55; nays, 43; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1241&Year=2021)
 
 Planning under the growth management act.
 
@@ -10,3 +10,4 @@ Planning under the growth management act.
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)

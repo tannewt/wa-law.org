@@ -29,7 +29,10 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Fri, Feb 18 at 8:00 am
 Public Hearing
+* [2SSB 5619](/bill/2021-22/sb/5619/) - Conserving and restoring kelp forests and eelgrass meadows in Washington state. (Remote testimony.) **235👍** **91👎** **3❓**
 * [SB 5653](/bill/2021-22/sb/5653/) - Changing the name of the commission on pesticide registration to the commission on integrated pest management. (Remote testimony.)
+* [2SSB 5746](/bill/2021-22/sb/5746/) - Concerning drought preparedness, response, and funding. (Remote testimony.) **22👍** **0👎** **0❓**
+* [E2SSB 5803](/bill/2021-22/sb/5803/) - Mitigating the risk of wildfires caused by an electric utility's equipment. (Remote testimony.) **21👍** **2👎** **13❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

@@ -7,6 +7,3 @@ Concerning the use of vehicle-related fees to fulfill certain state general obli
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 3:30 pm - [House Transportation](/house/2021-22/TR/) Public Hearing

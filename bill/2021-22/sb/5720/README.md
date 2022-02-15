@@ -9,3 +9,6 @@ Providing student financial literacy education.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 10:00 am - [House Education](/house/2021-22/ED/) Public Hearing

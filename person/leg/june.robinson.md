@@ -18,5 +18,5 @@
 * [SB 5754](/bill/2021-22/sb/5754/) - EMTs/public health | First reading, referred to Health & Long Term Care.
 * [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | Referred to Ways & Means.
 * [SB 5866](/bill/2021-22/sb/5866/) - Medicaid LTSS/tribes | First reading, referred to Health Care & Wellness.
-* [SB 5923](/bill/2021-22/sb/5923/) - Temporary shelters/homeless | Passed to Rules Committee for second reading.
+* [SB 5923](/bill/2021-22/sb/5923/) - Temporary shelters/homeless | Placed on second reading by Rules Committee.
 * [SB 5926](/bill/2021-22/sb/5926/) - Investment services/tax | First reading, referred to Ways & Means.

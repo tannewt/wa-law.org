@@ -13,21 +13,21 @@
 * [SB 5397](/bill/2021-22/sb/5397/) - Access to behavioral health | By resolution, reintroduced and retained in present status.
 * [SB 5399](/bill/2021-22/sb/5399/) - Universal health care comm'n | Effective date 7/25/2021.
 * [SB 5431](/bill/2021-22/sb/5431/) - Leg. internship scholarship | Effective date 7/25/2021.
-* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows project | First reading, referred to Transportation.
+* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows project | Minority; do not pass.
 * [SB 5551](/bill/2021-22/sb/5551/) - HIV antiviral drugs/medicaid | First reading, referred to Health & Long Term Care.
 * [SB 5614](/bill/2021-22/sb/5614/) - National guard ed. grants | Passed to Rules Committee for second reading.
 * [SB 5622](/bill/2021-22/sb/5622/) - Motorcycles on laned roads | First reading, referred to Transportation.
 * [SJR 8204](/bill/2021-22/sjr/8204/) - School district bond voting | By resolution, reintroduced and retained in present status.
 * [SB 5688](/bill/2021-22/sb/5688/) - Health care marketplace | First reading, referred to Law & Justice.
 * [SB 5704](/bill/2021-22/sb/5704/) - ARNP reimbursement rate | Referred to Ways & Means.
-* [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).
+* [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | First reading, referred to Appropriations.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Placed on second reading by Rules Committee.
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | First reading, referred to Labor & Workplace Standards.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | First reading, referred to Labor & Workplace Standards.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | First reading, referred to College & Workforce Development.
-* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Placed on second reading by Rules Committee.
+* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Third reading, passed; yeas, 27; nays, 20; absent, 0; excused, 2.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
-* [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | First reading, referred to College & Workforce Development (Not Officially read and referred until adoption of Introduction report).
+* [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | First reading, referred to College & Workforce Development.
 * [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | First reading, referred to College & Workforce Development.
 * [SB 5901](/bill/2021-22/sb/5901/) - Economic dev. tax incentives | Referred to Ways & Means.
 * [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Placed on second reading by Rules Committee.

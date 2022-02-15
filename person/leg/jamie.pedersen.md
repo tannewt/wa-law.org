@@ -10,7 +10,7 @@
 * [SB 5489](/bill/2021-22/sb/5489/) - Business entities | First reading, referred to Civil Rights & Judiciary.
 * [SB 5490](/bill/2021-22/sb/5490/) - Interbranch advisory comm. | First reading, referred to State Government & Tribal Relations.
 * [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | First reading, referred to Civil Rights & Judiciary.
-* [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).
+* [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | First reading, referred to Transportation.
 * [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | First reading, referred to Finance.
 * [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | First reading, referred to Civil Rights & Judiciary.
 * [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | First reading, referred to State Government & Tribal Relations.

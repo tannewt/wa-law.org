@@ -1,7 +1,7 @@
 # SB 5900 - Provisional paramedics, EMTs
 **Primary Sponsor:** [Kevin Van De Wege](/person/leg/kevin.vandewege.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5900&Year=2021)
+*Status: Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5900&Year=2021)
 
 Creating a provisional certification for emergency medical services providers under chapters 18.71 and 18.73 RCW.
 

@@ -19,16 +19,6 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Mon, Feb 14 at 8:00 am
-Executive Session
-* [SB 5974](/bill/2021-22/sb/5974/) - Addressing transportation resources. **515👍** **65👎** **77❓**
-* [SSB 5085](/bill/2021-22/sb/5085/) - Modifying certain alternative fuel vehicles fees.
-* [SB 5488](/bill/2021-22/sb/5488/) - Completing outstanding financial obligations regarding the Tacoma Narrows toll bridge project.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 17 at 4:00 pm
 Public Hearing
 * [SHB 1655](/bill/2021-22/hb/1655/) - Encouraging the opening of safety rest areas to the public. (Remote testimony.)

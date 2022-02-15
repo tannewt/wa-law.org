@@ -10,7 +10,6 @@
 ## Upcoming Meetings
 ### Wed, Feb 16 at 8:00 am
 Public Hearing
-* [SB 5787](/bill/2021-22/sb/5787/) - Concerning the linked deposit program. (Remote testimony.)
 * [E2SSB 5597](/bill/2021-22/sb/5597/) - Concerning the Washington voting rights act. (Remote testimony.) **179👍** **95👎** **3❓**
 * [SB 5002](/bill/2021-22/sb/5002/) - Addressing the state auditor's duties and procedures. (Remote testimony.)
 * [SSB 5756](/bill/2021-22/sb/5756/) - Establishing the semiquincentennial committee. (Remote testimony.)
@@ -36,7 +35,6 @@ Public Hearing
 * [SB 5750](/bill/2021-22/sb/5750/) - Designating the Washington state leadership board a trustee of the state of Washington. (Remote testimony.) **42👍** **33👎** **0❓**
 
 Executive Session
-* [SB 5787](/bill/2021-22/sb/5787/) - Concerning the linked deposit program.
 * [SB 5002](/bill/2021-22/sb/5002/) - Addressing the state auditor's duties and procedures.
 * [SSB 5756](/bill/2021-22/sb/5756/) - Establishing the semiquincentennial committee.
 * [ESSB 5490](/bill/2021-22/sb/5490/) - Creating the interbranch advisory committee.

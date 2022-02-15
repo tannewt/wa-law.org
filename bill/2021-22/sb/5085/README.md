@@ -1,13 +1,11 @@
 # SB 5085 - Alt. fuel vehicles fees
 **Primary Sponsor:** [Christine Rolfes](/person/leg/christine.rolfes.md)
 
-*Status: On motion, referred to Transportation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5085&Year=2021)
+*Status: TRAN - Majority; 2nd substitute bill be substituted, do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5085&Year=2021)
 
-Modifying certain alternative fuel vehicles fees.
+Modifying the alternative fuel vehicle fee for electric motorcycles.
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Feb 14 at 8:00 am - [Senate Transportation](/senate/2021-22/TRAN/) Executive Session
+* [Second Substitute](S2/)

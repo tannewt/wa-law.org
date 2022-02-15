@@ -1,7 +1,7 @@
 # SB 5839 - Interfering with emergency
 **Primary Sponsor:** [Mike Padden](/person/leg/mike.padden.md)
 
-*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5839&Year=2021)
+*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5839&Year=2021)
 
 Creating the crime of interfering with a firefighter or emergency medical services provider.
 

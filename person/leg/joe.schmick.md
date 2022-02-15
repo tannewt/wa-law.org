@@ -10,5 +10,5 @@
 * [HB 1813](/bill/2021-22/hb/1813/) - Pharmacy choice | Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.
 * [HB 1821](/bill/2021-22/hb/1821/) - Telemedicine/relationship | First reading, referred to Health & Long Term Care.
 * [HB 1902](/bill/2021-22/hb/1902/) - Workers' comp reopening | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
-* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | Third reading, passed; yeas, 90; nays, 8; absent, 0; excused, 0.
 * [HB 1959](/bill/2021-22/hb/1959/) - Managed health rate review | Rules Committee relieved of further consideration.  Placed on second reading.

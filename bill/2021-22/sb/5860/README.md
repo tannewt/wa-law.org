@@ -1,7 +1,7 @@
 # SB 5860 - Water policy & aquifer level
 **Primary Sponsor:** [Judy Warnick](/person/leg/judith.warnick.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5860&Year=2021)
+*Status: Third reading, passed; yeas, 43; nays, 4; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5860&Year=2021)
 
 Concerning water policy in regions with regulated reductions in aquifer levels.
 

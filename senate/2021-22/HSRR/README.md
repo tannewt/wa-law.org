@@ -22,7 +22,8 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 ### Thu, Feb 17 at 1:30 pm
 Public Hearing
-* [HB 1748](/bill/2021-22/hb/1748/) - Concerning aged, blind, or disabled program eligibility for victims of human trafficking. (Remote testimony.) **60👍** **0👎** **0❓**
+* [HB 1748](/bill/2021-22/hb/1748/) - Concerning aged, blind, or disabled program eligibility for victims of human trafficking. (Hearing is on the Proposed Striking Amendment.) (Remote testimony.) **60👍** **0👎** **0❓**
+* [2SHB 2008](/bill/2021-22/hb/2008/) - Eliminating the use of intelligence quotient scores in determining eligibility for programs and services for individuals with developmental disabilities. (Remote testimony.) **96👍** **5👎** **4❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

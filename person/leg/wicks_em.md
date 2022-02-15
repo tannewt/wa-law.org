@@ -2,7 +2,7 @@
 ## Bills
 * [HB 1025](/bill/2021-22/hb/1025/) - Local parks funding options | Referred to Rules 2 Review.
 * [HB 1047](/bill/2021-22/hb/1047/) - Hearing instruments/children | By resolution, reintroduced and retained in present status.
-* [HB 1048](/bill/2021-22/hb/1048/) - Criminal mistreatment | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1048](/bill/2021-22/hb/1048/) - Criminal mistreatment | Third reading, passed; yeas, 92; nays, 6; absent, 0; excused, 0.
 * [HB 1243](/bill/2021-22/hb/1243/) - Local infra. project areas | By resolution, reintroduced and retained in present status.
 * [HB 1260](/bill/2021-22/hb/1260/) - Marijuana market | By resolution, reintroduced and retained in present status.
 * [HB 1329](/bill/2021-22/hb/1329/) - Public meetings | First reading, referred to State Government & Elections.

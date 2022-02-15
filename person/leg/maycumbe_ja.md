@@ -7,5 +7,5 @@
 * [HB 1392](/bill/2021-22/hb/1392/) - Mobile crisis intervention | By resolution, reintroduced and retained in present status.
 * [HB 1536](/bill/2021-22/hb/1536/) - Regional apprenticeship prgs | By resolution, reintroduced and retained in present status.
 * [HB 1551](/bill/2021-22/hb/1551/) - Transportation fuel sourcing | By resolution, reintroduced and retained in present status.
-* [HB 1728](/bill/2021-22/hb/1728/) - Insulin work group reauth. | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1728](/bill/2021-22/hb/1728/) - Insulin work group reauth. | Third reading, passed; yeas, 97; nays, 1; absent, 0; excused, 0.
 * [HB 1739](/bill/2021-22/hb/1739/) - Hospital policies/pathogens | First reading, referred to Health & Long Term Care.

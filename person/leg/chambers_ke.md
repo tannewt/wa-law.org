@@ -7,5 +7,5 @@
 * [HB 1530](/bill/2021-22/hb/1530/) - Wine special license plates | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1580](/bill/2021-22/hb/1580/) - COVID-19/county phases | By resolution, reintroduced and retained in present status.
 * [HB 1856](/bill/2021-22/hb/1856/) - Voluntary stewardship prog. | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1877](/bill/2021-22/hb/1877/) - Health prof. expired certs | Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.
+* [HB 1877](/bill/2021-22/hb/1877/) - Health prof. expired certs | First reading, referred to Health & Long Term Care.
 * [HB 2025](/bill/2021-22/hb/2025/) - Bingo activities | Rules Committee relieved of further consideration.  Placed on second reading.

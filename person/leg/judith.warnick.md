@@ -13,11 +13,11 @@
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | First reading, referred to Community & Economic Development.
 * [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | First reading, referred to Rural Development, Agriculture & Natural Resources.
-* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | First reading, referred to Rural Development, Agriculture & Natural Resources (Not Officially read and referred until adoption of Introduction report).
+* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | Referred to Ways & Means.
-* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Placed on second reading by Rules Committee.
-* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | Placed on second reading by Rules Committee.
-* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Passed to Rules Committee for second reading.
+* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Third reading, passed; yeas, 43; nays, 4; absent, 0; excused, 2.
+* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
+* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Placed on second reading by Rules Committee.

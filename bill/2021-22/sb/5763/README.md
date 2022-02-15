@@ -19,3 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Wed, Feb 16 at 10:00 am - [House Labor & Workplace Standards](/house/2021-22/LAWS/) Public Hearing
+* Fri, Feb 18 at 8:00 am - [House Labor & Workplace Standards](/house/2021-22/LAWS/) Executive Session
