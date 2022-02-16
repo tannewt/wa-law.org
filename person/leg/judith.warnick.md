@@ -20,4 +20,4 @@
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | Referred to Ways & Means.
 * [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Third reading, passed; yeas, 43; nays, 4; absent, 0; excused, 2.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
-* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Placed on second reading by Rules Committee.
+* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.

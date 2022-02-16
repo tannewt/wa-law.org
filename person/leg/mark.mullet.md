@@ -29,5 +29,5 @@
 * [SB 5935](/bill/2021-22/sb/5935/) - Adult family homes/prop. tax | First reading, referred to Health & Long Term Care.
 * [SB 5946](/bill/2021-22/sb/5946/) - LIBOR discontinuance | First reading, referred to Consumer Protection & Business.
 * [SB 5957](/bill/2021-22/sb/5957/) - Manufacturing B&O tax rate | First reading, referred to Ways & Means.
-* [SB 5964](/bill/2021-22/sb/5964/) - Local permit review process | Placed on second reading by Rules Committee.
+* [SB 5964](/bill/2021-22/sb/5964/) - Local permit review process | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5969](/bill/2021-22/sb/5969/) - Credit scores/insurance | First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).

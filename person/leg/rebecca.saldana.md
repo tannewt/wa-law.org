@@ -11,7 +11,7 @@
 * [SB 5444](/bill/2021-22/sb/5444/) - Electric vehicles/per mile | Senate Rules "X" file.
 * [SB 5457](/bill/2021-22/sb/5457/) - Transportation demand | By resolution, reintroduced and retained in present status.
 * [SB 5597](/bill/2021-22/sb/5597/) - Voting rights | First reading, referred to State Government & Tribal Relations.
-* [SB 5599](/bill/2021-22/sb/5599/) - Journey level electricians | Placed on second reading by Rules Committee.
+* [SB 5599](/bill/2021-22/sb/5599/) - Journey level electricians | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.
 * [SB 5706](/bill/2021-22/sb/5706/) - Community reinvestment | Referred to Ways & Means.
 * [SB 5707](/bill/2021-22/sb/5707/) - Traffic safety cameras | First reading, referred to Transportation.
 * [SB 5772](/bill/2021-22/sb/5772/) - Postconviction counsel | Referred to Ways & Means.

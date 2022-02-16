@@ -22,3 +22,4 @@
 * [HB 2028](/bill/2021-22/hb/2028/) - Narrows bridge/deferred tax | First reading, referred to Appropriations.
 * [HB 2081](/bill/2021-22/hb/2081/) - Voter reg./firearm app. | First reading, referred to State Government & Tribal Relations.
 * [HB 2120](/bill/2021-22/hb/2120/) - Emergency services/crimes | First reading, referred to Public Safety.
+* [HB 2121](/bill/2021-22/hb/2121/) - Concerning abortion. | First reading, referred to Health Care & Wellness.

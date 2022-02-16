@@ -1,7 +1,7 @@
 # HB 1571 - Indigenous persons/services
 **Primary Sponsor:** [Gina Mosbrucker](/person/leg/gina.mosbrucker.md)
 
-*Status: Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1571&Year=2021)
+*Status: First reading, referred to Law & Justice.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1571&Year=2021)
 
 Concerning protections and services for indigenous persons who are missing, murdered, or survivors of human trafficking.
 

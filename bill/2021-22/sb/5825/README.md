@@ -1,7 +1,7 @@
 # SB 5825 - Rental & vacant property reg
 **Primary Sponsor:** [Patty Kuderer](/person/leg/patty.kuderer.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5825&Year=2021)
+*Status: Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5825&Year=2021)
 
 Establishing a rental and vacant property registration program work group.
 

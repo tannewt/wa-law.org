@@ -9,4 +9,4 @@
 * [SB 5448](/bill/2021-22/sb/5448/) - Vehicle fee/tax payment plan | By resolution, reintroduced and retained in present status.
 * [SB 5824](/bill/2021-22/sb/5824/) - Dependent youth financial ed | Referred to Ways & Means.
 * [SB 5838](/bill/2021-22/sb/5838/) - Diaper subsidy/TANF | First reading, referred to Housing, Human Services & Veterans.
-* [SB 5874](/bill/2021-22/sb/5874/) - Military student residency | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5874](/bill/2021-22/sb/5874/) - Military student residency | First reading, referred to College & Workforce Development.

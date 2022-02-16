@@ -32,6 +32,7 @@ Public Hearing
 * [SHB 1616](/bill/2021-22/hb/1616/) - Concerning the charity care act. (Remote testimony.)
 * [ESHB 1881](/bill/2021-22/hb/1881/) - Creating a new health profession for birth doulas. (Remote testimony.) **343👍** **10👎** **0❓**
 * [ESHB 1852](/bill/2021-22/hb/1852/) - Concerning language requirements for prescription drug labels. (Remote testimony.)
+* [E2SHB 1688](/bill/2021-22/hb/1688/) - Protecting consumers from charges for out-of-network health care services, by aligning state law and the federal no surprises act and addressing coverage of treatment for emergency conditions. (Remote testimony.) **42👍** **18👎** **3❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

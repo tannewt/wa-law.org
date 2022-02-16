@@ -4,5 +4,5 @@
 * [HB 1473](/bill/2021-22/hb/1473/) - Data centers/tax preference | By resolution, reintroduced and retained in present status.
 * [HB 1628](/bill/2021-22/hb/1628/) - Voter pamphlet statements | First reading, referred to State Government & Tribal Relations.
 * [HB 1930](/bill/2021-22/hb/1930/) - Cosmetologists, etc/licenses | First reading, referred to Business, Financial Services & Trade.
-* [HB 1984](/bill/2021-22/hb/1984/) - Vehicle reg. cert. addresses | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
+* [HB 1984](/bill/2021-22/hb/1984/) - Vehicle reg. cert. addresses | First reading, referred to Transportation.
 * [HB 2054](/bill/2021-22/hb/2054/) - School bus video recording | First reading, referred to Education.

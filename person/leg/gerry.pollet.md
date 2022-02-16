@@ -1,6 +1,6 @@
 # Gerry Pollet
 ## Bills
-* [HB 1051](/bill/2021-22/hb/1051/) - Board of regents/faculty | By resolution, reintroduced and retained in present status.
+* [HB 1051](/bill/2021-22/hb/1051/) - Board of regents/faculty | Third reading, passed; yeas, 73; nays, 25; absent, 0; excused, 0.
 * [HB 1056](/bill/2021-22/hb/1056/) - Public meetings/emergencies | Rules Committee relieved of further consideration.  Placed on third reading.
 * [HB 1057](/bill/2021-22/hb/1057/) - Clean air act/enjoyment term | Referred to Environment & Energy.
 * [HB 1069](/bill/2021-22/hb/1069/) - Local gov fiscal flexibility | Effective date 5/13/2021.

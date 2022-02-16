@@ -29,7 +29,12 @@
 ## Upcoming Meetings
 ### Thu, Feb 17 at 4:00 pm
 Public Hearing
-* [SB 5651](/bill/2021-22/sb/5651/) - Concerning the capital budget. (Hearing is on the Proposed Substitute.) (Remote testimony.)
+* [SB 5651](/bill/2021-22/sb/5651/) - Concerning the capital budget. (Hearing is on the Proposed Substitute.)
+* PSSB 5651: K-12 public schools. (Remote testimony.)
+* PSSB 5651: Higher education. (Remote testimony.)
+* PSSB 5651: Housing & human services.  (Remote testimony.)
+* PSSB 5651: Natural resources.  (Remote testimony.)
+* PSSB 5651: All other.  (Remote testimony.)
 * [SSB 5543](/bill/2021-22/sb/5543/) - Concerning a zero-emission landscaping equipment incentive. (Remote testimony.)
 * [SSB 5714](/bill/2021-22/sb/5714/) - Creating a sales and use tax deferral program for solar canopies placed on large-scale commercial parking lots and other similar areas. (Remote testimony.)
 * [SSB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of vacant lands in urban areas. (Remote testimony.)

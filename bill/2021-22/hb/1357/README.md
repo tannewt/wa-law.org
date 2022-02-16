@@ -9,6 +9,3 @@ Concerning voters' pamphlets for overseas and service voters.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Wed, Feb 16 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

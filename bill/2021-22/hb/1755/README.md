@@ -1,9 +1,12 @@
 # HB 1755 - TANF time limit extensions
 **Primary Sponsor:** [Strom Peterson](/person/leg/strom.peterson.md)
 
-*Status: Third reading, passed; yeas, 79; nays, 19; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1755&Year=2021)
+*Status: First reading, referred to Human Services, Reentry & Rehabilitation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1755&Year=2021)
 
 Concerning temporary assistance for needy families time limit extensions during times of high unemployment.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 17 at 1:30 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Public Hearing

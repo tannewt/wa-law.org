@@ -18,6 +18,8 @@ Public Hearing
 * [E2SHB 1117](/bill/2021-22/hb/1117/) - Promoting salmon recovery through revisions to the state's comprehensive planning framework. (Remote testimony.)
 * [HB 1183](/bill/2021-22/hb/1183/) - Creating the home sharing support grant program. (Remote testimony.)
 * [SHB 1593](/bill/2021-22/hb/1593/) - Expanding the landlord mitigation program to alleviate the financial burden on victims attempting to flee domestic violence, sexual assault, unlawful harassment, or stalking. (Remote testimony.)
+* [ESHB 1643](/bill/2021-22/hb/1643/) - Exempting a sale or transfer of real property for affordable housing to a nonprofit entity, housing authority, public corporation, county, or municipal corporation from the real estate excise tax. (Remote testimony.) **50👍** **0👎** **0❓**
+* [HB 1975](/bill/2021-22/hb/1975/) - Concerning property management services provided to housing authority properties. (Remote testimony.)
 * [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. (Remote testimony.) **5👍** **91👎** **0❓**
 
 Possible executive session on bills heard in committee. Possible other business.

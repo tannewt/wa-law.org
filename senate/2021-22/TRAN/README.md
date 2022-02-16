@@ -26,9 +26,14 @@ Public Hearing
 * [SHB 2057](/bill/2021-22/hb/2057/) - Strengthening diversity, equity, and inclusion in the state patrol workforce. (Remote testimony.)
 * [HB 2033](/bill/2021-22/hb/2033/) - Concerning safety measures for fire department vehicles and other vehicles using lights or other signals in emergency or work zones. (Remote testimony.) **13👍** **2👎** **0❓**
 
+Executive Session
+* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation.
+* [SHB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities.
+* [HB 1934](/bill/2021-22/hb/1934/) - Allowing tribal governments to participate in exchange agreements without certain restrictions.
+
 Work Session
 * Low-income tolling study update – WA Transportation Commission.
 
-Possible executive session on bills heard in committee. Possible other business.
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

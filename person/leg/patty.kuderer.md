@@ -26,4 +26,4 @@
 * [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.
 * [SB 5705](/bill/2021-22/sb/5705/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means.
 * [SB 5768](/bill/2021-22/sb/5768/) - Vapor products | First reading, referred to Health & Long Term Care.
-* [SB 5825](/bill/2021-22/sb/5825/) - Rental & vacant property reg | Placed on second reading by Rules Committee.
+* [SB 5825](/bill/2021-22/sb/5825/) - Rental & vacant property reg | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.

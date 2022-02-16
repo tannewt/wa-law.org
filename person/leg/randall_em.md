@@ -13,7 +13,7 @@
 * [SB 5397](/bill/2021-22/sb/5397/) - Access to behavioral health | By resolution, reintroduced and retained in present status.
 * [SB 5399](/bill/2021-22/sb/5399/) - Universal health care comm'n | Effective date 7/25/2021.
 * [SB 5431](/bill/2021-22/sb/5431/) - Leg. internship scholarship | Effective date 7/25/2021.
-* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows project | Minority; do not pass.
+* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows project | Passed to Rules Committee for second reading.
 * [SB 5551](/bill/2021-22/sb/5551/) - HIV antiviral drugs/medicaid | First reading, referred to Health & Long Term Care.
 * [SB 5614](/bill/2021-22/sb/5614/) - National guard ed. grants | Passed to Rules Committee for second reading.
 * [SB 5622](/bill/2021-22/sb/5622/) - Motorcycles on laned roads | First reading, referred to Transportation.
@@ -30,4 +30,4 @@
 * [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | First reading, referred to College & Workforce Development.
 * [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | First reading, referred to College & Workforce Development.
 * [SB 5901](/bill/2021-22/sb/5901/) - Economic dev. tax incentives | Referred to Ways & Means.
-* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Placed on second reading by Rules Committee.
+* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.

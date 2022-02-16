@@ -1,7 +1,7 @@
 # HB 1827 - Community reinvestment
 **Primary Sponsor:** [Melanie Morgan](/person/leg/morgan_me.md)
 
-*Status: Third reading, passed; yeas, 57; nays, 41; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1827&Year=2021)
+*Status: First reading, referred to Labor, Commerce & Tribal Affairs.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1827&Year=2021)
 
 Creating the community reinvestment account and community reinvestment program.
 

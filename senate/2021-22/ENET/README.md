@@ -32,7 +32,7 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 Public Hearing
 * [SHB 1768](/bill/2021-22/hb/1768/) - Updating definitions applicable to energy conservation projects involving public entities. (Remote testimony.)
 * [E2SHB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management. (Remote testimony.) **136👍** **4👎** **1❓**
-* [ESHB 1770](/bill/2021-22/hb/1770/) - Strengthening energy codes. (Remote testimony.) (If measure is referred to committee.)
+* [ESHB 1770](/bill/2021-22/hb/1770/) - Strengthening energy codes. (Remote testimony.)
 * [E2SHB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. (Remote testimony.) (If measure is referred to committee.) **100👍** **31👎** **7❓**
 
 Possible executive session on bills heard in committee. Possible other business.

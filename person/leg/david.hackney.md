@@ -9,7 +9,7 @@
 * [HB 1510](/bill/2021-22/hb/1510/) - Nonemergency medical transp. | House Rules "X" file.
 * [HB 1542](/bill/2021-22/hb/1542/) - Jury demographics | By resolution, reintroduced and retained in present status.
 * [HB 1577](/bill/2021-22/hb/1577/) - Greenhouse gas emissions | By resolution, reintroduced and retained in present status.
-* [HB 1643](/bill/2021-22/hb/1643/) - Affordable housing/REET | Third reading, passed; yeas, 93; nays, 4; absent, 0; excused, 1.
+* [HB 1643](/bill/2021-22/hb/1643/) - Affordable housing/REET | First reading, referred to Housing & Local Government.
 * [HB 1754](/bill/2021-22/hb/1754/) - Prejudgment interest | First reading, referred to Civil Rights & Judiciary.
 * [HB 1774](/bill/2021-22/hb/1774/) - Greenhouse gases/buildings | First reading, referred to Environment & Energy.
 * [HB 1793](/bill/2021-22/hb/1793/) - Electric vehicles/HOAs | First reading, referred to Law & Justice.

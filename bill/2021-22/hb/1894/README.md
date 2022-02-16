@@ -19,3 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Wed, Feb 16 at 6:00 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Public Hearing
+* Fri, Feb 18 at 10:30 am - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Executive Session

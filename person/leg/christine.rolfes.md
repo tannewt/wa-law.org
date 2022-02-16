@@ -2,7 +2,7 @@
 ## Bills
 * [SB 5025](/bill/2021-22/sb/5025/) - Consumer protection act | Effective date 7/25/2021.
 * [SB 5058](/bill/2021-22/sb/5058/) - Natural resources accounts | Effective date 7/1/2021.
-* [SB 5085](/bill/2021-22/sb/5085/) - Alt. fuel vehicles fees | TRAN - Majority; 2nd substitute bill be substituted, do pass.
+* [SB 5085](/bill/2021-22/sb/5085/) - Alt. fuel vehicles fees | On motion, referred to Ways & Means.
 * [SB 5091](/bill/2021-22/sb/5091/) - Operating budget, 2nd supp. | By resolution, reintroduced and retained in present status.
 * [SB 5092](/bill/2021-22/sb/5092/) - Operating budget | Effective date 5/18/2021.
 * [SB 5156](/bill/2021-22/sb/5156/) - Budget stabilization approps | By resolution, reintroduced and retained in present status.

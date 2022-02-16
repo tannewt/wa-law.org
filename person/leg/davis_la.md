@@ -5,8 +5,8 @@
 * [HB 1463](/bill/2021-22/hb/1463/) - Cannabis concentrates | By resolution, reintroduced and retained in present status.
 * [HB 1464](/bill/2021-22/hb/1464/) - Sub. use disorder coverage | By resolution, reintroduced and retained in present status.
 * [HB 1499](/bill/2021-22/hb/1499/) - Sub. use disorder/health | By resolution, reintroduced and retained in present status.
-* [HB 1860](/bill/2021-22/hb/1860/) - Behavioral health discharge | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1865](/bill/2021-22/hb/1865/) - Certified peer specialists | Third reading, passed; yeas, 78; nays, 19; absent, 0; excused, 1.
+* [HB 1860](/bill/2021-22/hb/1860/) - Behavioral health discharge | Third reading, passed; yeas, 91; nays, 7; absent, 0; excused, 0.
+* [HB 1865](/bill/2021-22/hb/1865/) - Certified peer specialists | First reading, referred to Health & Long Term Care.
 * [HB 1903](/bill/2021-22/hb/1903/) - Parent-child relationship | First reading, referred to Children, Youth & Families.
 * [HB 2017](/bill/2021-22/hb/2017/) - Tenants/criminal record | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2035](/bill/2021-22/hb/2035/) - LCB/behavioral health | First reading, referred to Commerce & Gaming.

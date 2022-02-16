@@ -9,7 +9,6 @@
 ## Upcoming Meetings
 ### Thu, Feb 17 at 1:30 pm
 Public Hearing
-* [SGA 9338](/bill/2021-22/ga/9338/) - Ben Bagherpour, Member, State Board for Community and Technical Colleges.
 * [SGA 9400](/bill/2021-22/ga/9400/) - Gary D Chandler, Member, Big Bend Community College Board of Trustees.
 * [HB 1780](/bill/2021-22/hb/1780/) - Concerning workforce education investment accountability and oversight board staffing changes. (Remote testimony.)
 * [2SHB 1835](/bill/2021-22/hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment. (Remote testimony.) **63👍** **38👎** **0❓**
