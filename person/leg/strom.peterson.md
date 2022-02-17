@@ -1,7 +1,7 @@
 # Strom Peterson
 ## Bills
 * [HB 1053](/bill/2021-22/hb/1053/) - Carryout bags | House Rules "X" file.
-* [HB 1074](/bill/2021-22/hb/1074/) - Fatality reviews | First reading, referred to Health & Long Term Care.
+* [HB 1074](/bill/2021-22/hb/1074/) - Fatality reviews | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [HB 1161](/bill/2021-22/hb/1161/) - Drug take-back programs | Effective date 7/25/2021.
 * [HB 1174](/bill/2021-22/hb/1174/) - Custodial interrogations | By resolution, reintroduced and retained in present status.
 * [HB 1220](/bill/2021-22/hb/1220/) - Emergency shelters & housing | Effective date 7/25/2021.
@@ -16,5 +16,5 @@
 * [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | First reading, referred to Law & Justice (Not Officially read and referred until adoption of Introduction report).
 * [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
+* [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | First reading, referred to Housing & Local Government.
 * [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Third reading, passed; yeas, 97; nays, 1; absent, 0; excused, 0.

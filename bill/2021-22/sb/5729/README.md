@@ -11,3 +11,4 @@ Creating a good cause exception to administrative hearing deadlines for applican
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 1:30 pm - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Public Hearing
+* Tue, Feb 22 at 8:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Executive Session

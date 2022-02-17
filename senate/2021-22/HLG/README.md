@@ -13,19 +13,6 @@
 * [Judy Warnick](/person/leg/judith.warnick.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Wed, Feb 16 at 10:30 am
-Public Hearing
-* [E2SHB 1117](/bill/2021-22/hb/1117/) - Promoting salmon recovery through revisions to the state's comprehensive planning framework. (Remote testimony.)
-* [HB 1183](/bill/2021-22/hb/1183/) - Creating the home sharing support grant program. (Remote testimony.)
-* [SHB 1593](/bill/2021-22/hb/1593/) - Expanding the landlord mitigation program to alleviate the financial burden on victims attempting to flee domestic violence, sexual assault, unlawful harassment, or stalking. (Remote testimony.)
-* [ESHB 1643](/bill/2021-22/hb/1643/) - Exempting a sale or transfer of real property for affordable housing to a nonprofit entity, housing authority, public corporation, county, or municipal corporation from the real estate excise tax. (Remote testimony.) **50👍** **0👎** **0❓**
-* [HB 1975](/bill/2021-22/hb/1975/) - Concerning property management services provided to housing authority properties. (Remote testimony.)
-* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. (Remote testimony.) **5👍** **91👎** **0❓**
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 17 at 8:00 am
 Public Hearing
 * [HB 1832](/bill/2021-22/hb/1832/) - Concerning code city form of government elections and city manager appointment. (Remote testimony.) **6👍** **5👎** **0❓**
@@ -38,8 +25,32 @@ Executive Session
 * [ESHB 1333](/bill/2021-22/hb/1333/) - Providing an extension to the local sales and use tax for public facilities in rural counties. **41👍** **3👎** **0❓**
 * [HB 1376](/bill/2021-22/hb/1376/) - Concerning registration of land titles. **55👍** **2👎** **0❓**
 * [E2SHB 1099](/bill/2021-22/hb/1099/) - Improving the state's climate response through updates to the state's comprehensive planning framework. **945👍** **192👎** **7❓**
-* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. **5👍** **91👎** **0❓**
+* [HB 2061](/bill/2021-22/hb/2061/) - Adding permanently affordable housing to the definition of public improvements. **136👍** **93👎** **0❓**
 
 Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Tue, Feb 22 at 8:00 am
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Wed, Feb 23 at 10:30 am
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 24 at 8:00 am
+Public Hearing
+* Bills to be determined.
+
+Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

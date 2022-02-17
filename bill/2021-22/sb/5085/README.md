@@ -9,3 +9,6 @@ Modifying the alternative fuel vehicle fee for electric motorcycles.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

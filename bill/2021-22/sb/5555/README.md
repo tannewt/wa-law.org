@@ -10,5 +10,4 @@ Concerning public safety telecommunicators.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 10:00 am - [House Community & Economic Development](/house/2021-22/CED/) Public Hearing
 * Fri, Feb 18 at 8:00 am - [House Community & Economic Development](/house/2021-22/CED/) Executive Session

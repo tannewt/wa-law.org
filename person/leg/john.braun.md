@@ -13,7 +13,7 @@
 * [SB 5696](/bill/2021-22/sb/5696/) - Capital gains tax/repeal | First reading, referred to Ways & Means.
 * [SB 5777](/bill/2021-22/sb/5777/) - COVID-19 vaccine/children | First reading, referred to Early Learning & K-12 Education.
 * [SB 5778](/bill/2021-22/sb/5778/) - Vehicle inspection backlog | First reading, referred to Transportation.
-* [SB 5790](/bill/2021-22/sb/5790/) - Community support services | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
+* [SB 5790](/bill/2021-22/sb/5790/) - Community support services | First reading, referred to Housing, Human Services & Veterans.
 * [SB 5804](/bill/2021-22/sb/5804/) - Gain-of-function research | First reading, referred to Health & Long Term Care.
 * [SB 5819](/bill/2021-22/sb/5819/) - DDA no-paid caseload | First reading, referred to Housing, Human Services & Veterans.
 * [SB 5829](/bill/2021-22/sb/5829/) - Behavioral health approps | First reading, referred to Health & Long Term Care.

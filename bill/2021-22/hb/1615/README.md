@@ -20,3 +20,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Public Hearing
+* Thu, Feb 24 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Executive Session

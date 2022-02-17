@@ -10,4 +10,4 @@ Establishing pilot projects for utilizing high school student nursing assistant-
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 8:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Public Hearing
+* Wed, Feb 23 at 8:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Executive Session

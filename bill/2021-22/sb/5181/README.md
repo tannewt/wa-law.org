@@ -20,3 +20,5 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 1:30 pm - [House Education](/house/2021-22/ED/) Public Hearing
+* Tue, Feb 22 at 8:00 am - [House Education](/house/2021-22/ED/) Executive Session
+* Thu, Feb 24 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

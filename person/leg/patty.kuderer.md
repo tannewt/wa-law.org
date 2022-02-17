@@ -23,7 +23,7 @@
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Passed to Rules Committee for second reading.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Placed on second reading by Rules Committee.
 * [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | First reading, referred to Transportation.
-* [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.
+* [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | First reading, referred to Housing, Human Services & Veterans.
 * [SB 5705](/bill/2021-22/sb/5705/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means.
 * [SB 5768](/bill/2021-22/sb/5768/) - Vapor products | First reading, referred to Health & Long Term Care.
 * [SB 5825](/bill/2021-22/sb/5825/) - Rental & vacant property reg | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.

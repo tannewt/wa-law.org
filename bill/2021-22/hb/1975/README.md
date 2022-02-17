@@ -7,6 +7,3 @@ Concerning property management services provided to housing authority properties
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Wed, Feb 16 at 10:30 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Public Hearing

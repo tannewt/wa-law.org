@@ -25,7 +25,7 @@
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | First reading, referred to Labor & Workplace Standards.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | First reading, referred to Labor & Workplace Standards.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | First reading, referred to College & Workforce Development.
-* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Third reading, passed; yeas, 27; nays, 20; absent, 0; excused, 2.
+* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | First reading, referred to Health Care & Wellness.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
 * [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | First reading, referred to College & Workforce Development.
 * [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | First reading, referred to College & Workforce Development.

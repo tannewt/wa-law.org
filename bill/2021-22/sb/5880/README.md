@@ -10,5 +10,4 @@ Concerning fire protection sprinkler system contractors.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 8:00 am - [House Consumer Protection & Business](/house/2021-22/CPB/) Public Hearing
 * Thu, Feb 17 at 10:00 am - [House Consumer Protection & Business](/house/2021-22/CPB/) Executive Session

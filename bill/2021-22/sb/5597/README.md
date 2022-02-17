@@ -12,4 +12,4 @@ Concerning the Washington voting rights act.
 * [Engrossed Second Substitute](S2.E/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 8:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Public Hearing
+* Mon, Feb 21 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

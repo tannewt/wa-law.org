@@ -11,5 +11,4 @@ Reestablishing the productivity board.
 * [Engrossed Substitute](S.E/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 8:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Public Hearing
 * Thu, Feb 17 at 10:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

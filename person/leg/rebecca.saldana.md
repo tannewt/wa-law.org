@@ -15,6 +15,6 @@
 * [SB 5706](/bill/2021-22/sb/5706/) - Community reinvestment | Referred to Ways & Means.
 * [SB 5707](/bill/2021-22/sb/5707/) - Traffic safety cameras | First reading, referred to Transportation.
 * [SB 5772](/bill/2021-22/sb/5772/) - Postconviction counsel | Referred to Ways & Means.
-* [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | Third reading, passed; yeas, 41; nays, 7; absent, 0; excused, 1.
+* [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | First reading, referred to Appropriations.
 * [SB 5835](/bill/2021-22/sb/5835/) - Workers' comp marriage study | Passed to Rules Committee for second reading.
 * [SB 5863](/bill/2021-22/sb/5863/) - RTA vehicle removal | First reading, referred to Transportation.

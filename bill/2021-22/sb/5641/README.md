@@ -19,3 +19,5 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Fri, Feb 18 at 8:00 am - [House Local Government](/house/2021-22/LG/) Public Hearing
+* Tue, Feb 22 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
+* Wed, Feb 23 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

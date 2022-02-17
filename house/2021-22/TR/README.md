@@ -38,3 +38,59 @@ Public Hearing
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Mon, Feb 21 at 3:30 pm
+Public Hearing
+* [HB 1786](/bill/2021-22/hb/1786/) - Making supplemental transportation appropriations for the 2021-2023 fiscal biennium. (Remote testimony.)
+* [HB 2118](/bill/2021-22/hb/2118/) - Concerning additive transportation funding and appropriations. (Remote testimony.)
+* [SB 5354](/bill/2021-22/sb/5354/) - Addressing traffic control in large cities. (Remote testimony.)
+
+*The hearing will be on the proposed substitute bill by Representative Fey, which will be available online after 10 a.m. on February 21, 2022 at:    http://leap.leg.wa.gov/leap/budget/detail/2022/ht2022Supp.asp 
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Tue, Feb 22 at 3:30 pm
+Executive Session
+* [HB 2119](/bill/2021-22/hb/2119/) - Addressing transportation resources.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Wed, Feb 23 at 3:30 pm
+Public Hearing
+* Senate bills referred to committee (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 24 at 1:30 pm
+Public Hearing
+* [SSB 5528](/bill/2021-22/sb/5528/) - Concerning the imposition of supplemental revenue sources within a regional transit authority area. (Remote testimony.)
+* [SSB 5558](/bill/2021-22/sb/5558/) - Concerning the bistate governance of interstate toll bridges owned by local governments. (Remote testimony.)
+* [SSB 5631](/bill/2021-22/sb/5631/) - Making human trafficking a disqualifying offense for a commercial driver's license and coming into compliance with the requirements of the federal motor carrier safety administration. (Remote testimony.)
+* [SSB 5863](/bill/2021-22/sb/5863/) - Concerning the removal of vehicles by a regional transit authority when obstructing the operation of high capacity transportation vehicles or jeopardizing public safety. (Remote testimony.) **22👍** **0👎** **0❓**
+
+Executive Session
+* [HB 1786](/bill/2021-22/hb/1786/) - Making supplemental transportation appropriations for the 2021-2023 fiscal biennium.
+* [HB 2118](/bill/2021-22/hb/2118/) - Concerning additive transportation funding and appropriations.
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 25 at 10:00 am
+Public Hearing
+* [2SSB 5332](/bill/2021-22/sb/5332/) - Concerning off-road and wheeled all-terrain vehicles. (Remote testimony.)
+* [2SSB 5406](/bill/2021-22/sb/5406/) - Providing compensation for tow truck operators for keeping the public roadways clear. (Remote testimony.) **13👍** **0👎** **0❓**
+* [SB 5510](/bill/2021-22/sb/5510/) - Concerning renewal of the sales and use tax for transportation benefit districts. (Remote testimony.)
+* [SB 5687](/bill/2021-22/sb/5687/) - Addressing certain traffic safety improvements. (Remote testimony.)
+* [SSB 5741](/bill/2021-22/sb/5741/) - Creating Patches pal special license plates. (Remote testimony.) **24👍** **1👎** **0❓**
+* [ESSB 5853](/bill/2021-22/sb/5853/) - Establishing a limited project regarding leasing certain department of transportation property in order to remedy past impacts to historically marginalized populations. (Remote testimony.) **111👍** **1👎** **1❓**
+* [SB 5898](/bill/2021-22/sb/5898/) - Concerning the use of vehicle-related fees to fulfill certain state general obligation bonds. (Remote testimony.)
+* [SSB 5907](/bill/2021-22/sb/5907/) - Concerning roadside safety measures. (Remote testimony.) **31👍** **0👎** **1❓**
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

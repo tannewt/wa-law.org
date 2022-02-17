@@ -21,3 +21,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Fri, Feb 18 at 8:00 am - [House Community & Economic Development](/house/2021-22/CED/) Public Hearing
+* Tue, Feb 22 at 10:00 am - [House Community & Economic Development](/house/2021-22/CED/) Executive Session

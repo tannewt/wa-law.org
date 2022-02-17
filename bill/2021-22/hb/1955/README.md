@@ -8,6 +8,3 @@ Creating uniformity in education requirements for students who are the subject o
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Wed, Feb 16 at 10:30 am - [Senate Early Learning & K-12 Education](/senate/2021-22/EDU/) Public Hearing

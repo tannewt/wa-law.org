@@ -7,3 +7,7 @@ Concerning collaborative arrangements between institutions of higher education a
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 10:30 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Public Hearing
+* Fri, Feb 18 at 10:30 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

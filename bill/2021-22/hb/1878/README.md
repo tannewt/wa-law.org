@@ -8,3 +8,6 @@ Increasing public school participation in the community eligibility provision of
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 8:00 am - [Senate Early Learning & K-12 Education](/senate/2021-22/EDU/) Executive Session

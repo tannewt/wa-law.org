@@ -26,3 +26,27 @@
 ## Upcoming Meetings
 ### Thu, Feb 17 at 8:00 am
 
+
+### Tue, Feb 22 at 1:30 pm
+Public Hearing
+* [HB 1781](/bill/2021-22/hb/1781/) - Concerning the capital budget.  (Remote testimony.)
+
+*The hearing will be on Proposed Substitute House Bill 1781 by Representatives Tharinger and Steele. The proposed substitute bill and summary documents will be available online at http://leap.leg.wa.gov/index.html.
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 24 at 8:00 am
+Executive Session
+* [HB 1781](/bill/2021-22/hb/1781/) - Concerning the capital budget.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 25 at 8:00 am
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

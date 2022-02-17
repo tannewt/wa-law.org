@@ -14,9 +14,9 @@
 * [SB 5343](/bill/2021-22/sb/5343/) - Medicaid appropriations | By resolution, reintroduced and retained in present status.
 * [SB 5344](/bill/2021-22/sb/5344/) - Federal funding/COVID-19 | By resolution, reintroduced and retained in present status.
 * [SB 5505](/bill/2021-22/sb/5505/) - Farmers market prop. tax ex. | First reading, referred to Finance.
-* [SB 5585](/bill/2021-22/sb/5585/) - Domestic wastewater fees | Third reading, passed; yeas, 27; nays, 20; absent, 0; excused, 2.
+* [SB 5585](/bill/2021-22/sb/5585/) - Domestic wastewater fees | First reading, referred to Environment & Energy.
 * [SB 5616](/bill/2021-22/sb/5616/) - Accounts | First reading, referred to Appropriations.
-* [SB 5626](/bill/2021-22/sb/5626/) - Water system plans/climate | Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.
+* [SB 5626](/bill/2021-22/sb/5626/) - Water system plans/climate | First reading, referred to Environment & Energy.
 * [SB 5633](/bill/2021-22/sb/5633/) - Forest loss prevention | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5637](/bill/2021-22/sb/5637/) - Forest practices fees | Passed to Rules Committee for second reading.
 * [SB 5653](/bill/2021-22/sb/5653/) - Pesticide commission name | First reading, referred to Rural Development, Agriculture & Natural Resources.

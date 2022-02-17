@@ -10,5 +10,6 @@ Concerning technical changes to the commercial property assessed clean energy an
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 10:00 am - [House Local Government](/house/2021-22/LG/) Public Hearing
 * Fri, Feb 18 at 8:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
+* Tue, Feb 22 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
+* Wed, Feb 23 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

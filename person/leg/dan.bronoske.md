@@ -11,6 +11,6 @@
 * [HB 1719](/bill/2021-22/hb/1719/) - Military equipment/law enf. | First reading, referred to Law & Justice (Not Officially read and referred until adoption of Introduction report).
 * [HB 1763](/bill/2021-22/hb/1763/) - Workers' comp. exam rights | Referred to Rules 2 Review.
 * [HB 1831](/bill/2021-22/hb/1831/) - Electric vehicle equipment | Referred to Rules 2 Review.
-* [EHB 1837](/bill/2021-22/ehb/1837/) - Musculoskeletal injuries | Third reading, passed; yeas, 50; nays, 48; absent, 0; excused, 0.
+* [EHB 1837](/bill/2021-22/ehb/1837/) - Musculoskeletal injuries | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [HB 1911](/bill/2021-22/hb/1911/) - Insurance/plan 2 members | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 2045](/bill/2021-22/hb/2045/) - State hospital release loc. | First reading, referred to Civil Rights & Judiciary.

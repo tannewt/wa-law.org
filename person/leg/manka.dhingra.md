@@ -21,7 +21,7 @@
 * [SB 5655](/bill/2021-22/sb/5655/) - Invol. treatment refusals | Referred to Ways & Means.
 * [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Placed on second reading by Rules Committee.
 * [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | First reading, referred to Civil Rights & Judiciary.
-* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | First reading, referred to Public Safety.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.
 * [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | First reading, referred to Health Care & Wellness.

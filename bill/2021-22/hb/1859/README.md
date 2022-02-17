@@ -9,4 +9,5 @@ Concerning quality standards for laboratories conducting cannabis analysis.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
+* Thu, Feb 17 at 8:00 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Public Hearing
 * Thu, Feb 17 at 8:00 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

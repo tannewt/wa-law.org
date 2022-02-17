@@ -19,3 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Fri, Feb 18 at 10:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Public Hearing
+* Tue, Feb 22 at 8:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

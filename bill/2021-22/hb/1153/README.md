@@ -12,4 +12,4 @@ Addressing language access in public schools.
 * [Engrossed Second Substitute](S2.E/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 10:30 am - [Senate Early Learning & K-12 Education](/senate/2021-22/EDU/) Public Hearing
+* Mon, Feb 21 at 1:30 pm - [Senate Early Learning & K-12 Education](/senate/2021-22/EDU/) Executive Session

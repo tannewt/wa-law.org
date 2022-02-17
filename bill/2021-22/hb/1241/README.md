@@ -1,7 +1,7 @@
 # HB 1241 - Growth management act plans
 **Primary Sponsor:** [Davina Duerr](/person/leg/duerr_da.md)
 
-*Status: Third reading, passed; yeas, 55; nays, 43; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1241&Year=2021)
+*Status: First reading, referred to Housing & Local Government.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1241&Year=2021)
 
 Planning under the growth management act.
 

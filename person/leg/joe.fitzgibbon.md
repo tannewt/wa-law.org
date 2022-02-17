@@ -11,6 +11,6 @@
 * [HB 1619](/bill/2021-22/hb/1619/) - Appliance efficiency | First reading, referred to Environment, Energy & Technology.
 * [HB 1682](/bill/2021-22/hb/1682/) - Business emissions reduction | Referred to Appropriations.
 * [HB 1799](/bill/2021-22/hb/1799/) - Organic materials management | First reading, referred to Environment, Energy & Technology.
-* [HB 1812](/bill/2021-22/hb/1812/) - Energy facility site council | Third reading, passed; yeas, 95; nays, 3; absent, 0; excused, 0.
+* [HB 1812](/bill/2021-22/hb/1812/) - Energy facility site council | First reading, referred to Environment, Energy & Technology.
 * [HB 2002](/bill/2021-22/hb/2002/) - Energy infrastructure siting | First reading, referred to Environment & Energy.
 * [HB 2027](/bill/2021-22/hb/2027/) - WDFW governance | First reading, referred to Rural Development, Agriculture & Natural Resources.

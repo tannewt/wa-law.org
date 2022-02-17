@@ -1,7 +1,7 @@
 # HB 1716 - Ballot casting locations
 **Primary Sponsor:** [Javier Valdez](/person/leg/javier.valdez.md)
 
-*Status: First reading, referred to State Government & Elections.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1716&Year=2021)
+*Status: SGE - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1716&Year=2021)
 
 Concerning locations at which ballots may be cast.
 
@@ -9,6 +9,3 @@ Concerning locations at which ballots may be cast.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Wed, Feb 16 at 8:00 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

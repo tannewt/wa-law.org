@@ -7,3 +7,6 @@ Establishing the state capitol committee as an advisory entity of state governme
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 10:30 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Public Hearing

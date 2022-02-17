@@ -19,3 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 10:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Public Hearing
+* Wed, Feb 23 at 8:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Executive Session

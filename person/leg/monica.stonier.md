@@ -1,10 +1,10 @@
 # Monica Jurado Stonier
 ## Bills
 * [HB 1066](/bill/2021-22/hb/1066/) - Ed. service district boards | By resolution, reintroduced and retained in present status.
-* [HB 1162](/bill/2021-22/hb/1162/) - High school graduation | Third reading, passed; yeas, 77; nays, 21; absent, 0; excused, 0.
+* [HB 1162](/bill/2021-22/hb/1162/) - High school graduation | First reading, referred to Early Learning & K-12 Education.
 * [HB 1225](/bill/2021-22/hb/1225/) - School-based health centers | Chapter 68, 2021 Laws.
 * [HB 1226](/bill/2021-22/hb/1226/) - School district elections | Referred to Capital Budget.
-* [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | Third reading, passed; yeas, 95; nays, 2; absent, 0; excused, 1.
+* [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [HB 1518](/bill/2021-22/hb/1518/) - Paper products/environment | First reading, referred to State Government & Elections.
 * [HB 1730](/bill/2021-22/hb/1730/) - Fertility services | First reading, referred to Health Care & Wellness.
 * [HB 1808](/bill/2021-22/hb/1808/) - Pupil transportation funding | First reading, referred to Early Learning & K-12 Education.

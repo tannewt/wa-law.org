@@ -15,9 +15,9 @@
 * [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
-* [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | First reading, referred to Health Care & Wellness.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | Referred to Ways & Means.
-* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Third reading, passed; yeas, 43; nays, 4; absent, 0; excused, 2.
-* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
+* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | First reading, referred to Rural Development, Agriculture & Natural Resources.
+* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Civil Rights & Judiciary.
 * [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.

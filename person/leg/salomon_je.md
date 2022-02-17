@@ -17,5 +17,5 @@
 * [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Third reading, passed; yeas, 44; nays, 5; absent, 0; excused, 0.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
 * [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | First reading, referred to Consumer Protection & Business.
-* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.
+* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | First reading, referred to Environment & Energy.
 * [SB 5976](/bill/2021-22/sb/5976/) - Substance use intervention | First reading, referred to Law & Justice.

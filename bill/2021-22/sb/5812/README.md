@@ -9,4 +9,4 @@ Including Benton county as a county qualifying for the farm internship program.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 10:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Public Hearing
+* Tue, Feb 22 at 10:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Executive Session

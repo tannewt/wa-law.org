@@ -12,3 +12,4 @@ Concerning electric vehicle charging stations in common interest communities.
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Public Hearing
+* Thu, Feb 24 at 10:30 am - [Senate Law & Justice](/senate/2021-22/LAW/) Executive Session

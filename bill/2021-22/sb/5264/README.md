@@ -8,3 +8,4 @@ Declaring January as Chinese American history month and encouraging public schoo
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 10:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Public Hearing
+* Wed, Feb 23 at 8:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

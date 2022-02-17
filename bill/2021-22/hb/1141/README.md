@@ -9,3 +9,6 @@ Increasing access to the death with dignity act.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 8:00 am - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Public Hearing

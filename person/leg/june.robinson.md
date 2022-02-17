@@ -11,7 +11,7 @@
 * [SB 5371](/bill/2021-22/sb/5371/) - Sweetened beverage tax | By resolution, reintroduced and retained in present status.
 * [SB 5589](/bill/2021-22/sb/5589/) - Primary care spending | First reading, referred to Health Care & Wellness.
 * [SB 5647](/bill/2021-22/sb/5647/) - Fertility services | First reading, referred to Health & Long Term Care.
-* [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | Third reading, passed; yeas, 42; nays, 7; absent, 0; excused, 0.
+* [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | First reading, referred to Labor & Workplace Standards.
 * [SB 5654](/bill/2021-22/sb/5654/) - Health benefit ex./B&O tax | Senate Rules "X" file.
 * [SB 5751](/bill/2021-22/sb/5751/) - Health care staffing | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | First reading, referred to Health Care & Wellness.

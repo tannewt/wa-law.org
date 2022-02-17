@@ -31,9 +31,34 @@ To view committee meetings or access the committee meeting documents, visit the 
 Public Hearing
 * [E2SSB 5036](/bill/2021-22/sb/5036/) - Concerning the release of incarcerated individuals from total confinement prior to the expiration of a sentence. (Remote testimony.)
 * [ESSB 5628](/bill/2021-22/sb/5628/) - Concerning cyber harassment, addressing concerns in the case of Rynearson v. Ferguson, and adding a crime of cyberstalking. (Remote testimony.)
-* [2SSB 5695](/bill/2021-22/sb/5695/) - Concerning a body scanner pilot program at the department of corrections. (Remote testimony.) (If measure is referred to committee.)
+* [2SSB 5695](/bill/2021-22/sb/5695/) - Concerning a body scanner pilot program at the department of corrections. (Remote testimony.)
 * [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. (Remote testimony.) **19👍** **2👎** **3❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Tue, Feb 22 at 8:00 am
+Executive Session
+* [ESB 5054](/bill/2021-22/sb/5054/) - Concerning impaired driving.
+* [ESSB 5245](/bill/2021-22/sb/5245/) - Concerning the safety of crime victims.
+* [SB 5612](/bill/2021-22/sb/5612/) - Ensuring domestic violence victims and survivors of victims have the opportunity to make a statement during sentencing for all domestic violence convictions.
+* [ESSB 5628](/bill/2021-22/sb/5628/) - Concerning cyber harassment, addressing concerns in the case of Rynearson v. Ferguson, and adding a crime of cyberstalking.
+* [SB 5694](/bill/2021-22/sb/5694/) - Recognizing Indian tribes as among the governmental entities with which the department of corrections may enter into agreements on matters to include the housing of inmates convicted in tribal court.
+* [2SSB 5695](/bill/2021-22/sb/5695/) - Concerning a body scanner pilot program at the department of corrections.
+* [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. **19👍** **2👎** **3❓**
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 24 at 10:00 am
+Executive Session
+* [E2SSB 5036](/bill/2021-22/sb/5036/) - Concerning the release of incarcerated individuals from total confinement prior to the expiration of a sentence.
+* [ESB 5054](/bill/2021-22/sb/5054/) - Concerning impaired driving.
+* [ESSB 5245](/bill/2021-22/sb/5245/) - Concerning the safety of crime victims.
+* [SB 5612](/bill/2021-22/sb/5612/) - Ensuring domestic violence victims and survivors of victims have the opportunity to make a statement during sentencing for all domestic violence convictions.
+* [ESSB 5628](/bill/2021-22/sb/5628/) - Concerning cyber harassment, addressing concerns in the case of Rynearson v. Ferguson, and adding a crime of cyberstalking.
+* [SB 5694](/bill/2021-22/sb/5694/) - Recognizing Indian tribes as among the governmental entities with which the department of corrections may enter into agreements on matters to include the housing of inmates convicted in tribal court.
+* [2SSB 5695](/bill/2021-22/sb/5695/) - Concerning a body scanner pilot program at the department of corrections.
+* [SB 5927](/bill/2021-22/sb/5927/) - Concerning the safety and security of retail cannabis outlets. **19👍** **2👎** **3❓**
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

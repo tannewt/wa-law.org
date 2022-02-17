@@ -1,7 +1,7 @@
 # SB 5600 - Apprenticeship programs
 **Primary Sponsor:** [Karen Keiser](/person/leg/karen.keiser.md)
 
-*Status: Third reading, passed; yeas, 39; nays, 10; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5600&Year=2021)
+*Status: First reading, referred to College & Workforce Development.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5600&Year=2021)
 
 Concerning the sustainability and expansion of state registered apprenticeship programs.
 
@@ -22,3 +22,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Thu, Feb 17 at 10:00 am - [House College & Workforce Development](/house/2021-22/CWD/) Public Hearing
+* Wed, Feb 23 at 8:00 am - [House College & Workforce Development](/house/2021-22/CWD/) Executive Session

@@ -9,3 +9,7 @@ Concerning a comprehensive study of aerial imaging technology uses for state age
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 10:30 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Public Hearing
+* Fri, Feb 18 at 10:30 am - [Senate State Government & Elections](/senate/2021-22/SGE/) Executive Session

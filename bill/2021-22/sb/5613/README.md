@@ -10,4 +10,4 @@ Concerning the use of dogs to hunt black bear, cougar, or bobcat.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Wed, Feb 16 at 10:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Public Hearing
+* Wed, Feb 23 at 10:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Executive Session

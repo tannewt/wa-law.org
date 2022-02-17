@@ -16,7 +16,7 @@
 * [SB 5833](/bill/2021-22/sb/5833/) - School director compensation | First reading, referred to Early Learning & K-12 Education.
 * [SB 5834](/bill/2021-22/sb/5834/) - State gov. tech. policies | Referred to Ways & Means.
 * [SB 5842](/bill/2021-22/sb/5842/) - Climate change | First reading, referred to Environment & Energy.
-* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | First reading, referred to Environment & Energy.
 * [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SB 5967](/bill/2021-22/sb/5967/) - Financial instit./climate | First reading, referred to Ways & Means.
 * [SB 5977](/bill/2021-22/sb/5977/) - Legislative chamber skylight | First reading, referred to Ways & Means.

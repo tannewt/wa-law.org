@@ -8,3 +8,6 @@ Creating the imagination library of Washington program.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Fri, Feb 18 at 10:30 am - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Public Hearing

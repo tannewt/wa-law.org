@@ -36,3 +36,43 @@
 ## Upcoming Meetings
 ### Thu, Feb 17 at 3:30 pm
 
+
+### Mon, Feb 21 at 3:30 pm
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Tue, Feb 22 at 3:30 pm
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Wed, Feb 23 at 3:30 pm
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Thu, Feb 24 at 1:30 pm
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Fri, Feb 25 at 10:00 am
+Public Hearing
+* Senate bills referred to committee. (Remote testimony.)
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
