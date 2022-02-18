@@ -24,10 +24,10 @@
 * [SB 5709](/bill/2021-22/sb/5709/) - Exclusionary evidence rule | First reading, referred to Law & Justice.
 * [SB 5710](/bill/2021-22/sb/5710/) - Toxicology lab contamination | First reading, referred to Public Safety.
 * [SB 5711](/bill/2021-22/sb/5711/) - Private prison contracting | First reading, referred to Human Services, Reentry & Rehabilitation.
-* [SB 5733](/bill/2021-22/sb/5733/) - Civil asset forfeiture/drugs | Placed on second reading by Rules Committee.
+* [SB 5733](/bill/2021-22/sb/5733/) - Civil asset forfeiture/drugs | Senate Rules "X" file.
 * [SB 5779](/bill/2021-22/sb/5779/) - Bail fund oversight | First reading, referred to Law & Justice.
 * [SB 5780](/bill/2021-22/sb/5780/) - Graduated reentry program | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5781](/bill/2021-22/sb/5781/) - Organized retail theft | First reading, referred to Public Safety.
-* [SB 5826](/bill/2021-22/sb/5826/) - Warm water game fish | Placed on second reading by Rules Committee.
-* [SB 5839](/bill/2021-22/sb/5839/) - Interfering with emergency | Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.
+* [SB 5826](/bill/2021-22/sb/5826/) - Warm water game fish | Senate Rules "X" file.
+* [SB 5839](/bill/2021-22/sb/5839/) - Interfering with emergency | First reading, referred to Public Safety.
 * [SB 5893](/bill/2021-22/sb/5893/) - Torts | First reading, referred to Law & Justice.

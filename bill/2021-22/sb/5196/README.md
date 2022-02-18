@@ -9,4 +9,4 @@ Describing how the legislature may convene a special session.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Mon, Feb 21 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session
+* Wed, Feb 23 at 8:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

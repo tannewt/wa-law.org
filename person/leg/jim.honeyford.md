@@ -1,10 +1,10 @@
 # Jim Honeyford
 ## Bills
-* [SB 5029](/bill/2021-22/sb/5029/) - Investment project tax defs. | Placed on second reading by Rules Committee.
+* [SB 5029](/bill/2021-22/sb/5029/) - Investment project tax defs. | Senate Rules "X" file.
 * [SB 5031](/bill/2021-22/sb/5031/) - Aviation revital. loan prg | Effective date 6/30/2021.
 * [SB 5063](/bill/2021-22/sb/5063/) - Invasive species council exp | Effective date 7/25/2021.
 * [SB 5181](/bill/2021-22/sb/5181/) - Low-income school districts | First reading, referred to Education.
-* [SB 5329](/bill/2021-22/sb/5329/) - Aircraft fuel tax distrib. | On motion, referred to Rules Committee for second reading.
+* [SB 5329](/bill/2021-22/sb/5329/) - Aircraft fuel tax distrib. | Senate Rules "X" file.
 * [SB 5350](/bill/2021-22/sb/5350/) - Unmanned aircraft/tax prefs. | By resolution, reintroduced and retained in present status.
 * [SB 5357](/bill/2021-22/sb/5357/) - Capital broadband program | Senate Rules "X" file.
 * [SB 5374](/bill/2021-22/sb/5374/) - Political systems/K-12 study | By resolution, reintroduced and retained in present status.

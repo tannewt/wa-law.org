@@ -10,4 +10,4 @@ Exempting certain prepaid services from insurance regulation.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 10:00 am - [House Consumer Protection & Business](/house/2021-22/CPB/) Executive Session
+* Mon, Feb 21 at 1:30 pm - [House Consumer Protection & Business](/house/2021-22/CPB/) Executive Session

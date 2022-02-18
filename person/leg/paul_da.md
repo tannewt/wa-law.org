@@ -9,4 +9,4 @@
 * [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | First reading, referred to Ways & Means.
 * [HB 1805](/bill/2021-22/hb/1805/) - Opportunity scholarship prog | First reading, referred to Higher Education & Workforce Development.
 * [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | First reading, referred to Early Learning & K-12 Education.
-* [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | First reading, referred to Finance.
+* [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | FIN - Executive action taken by committee.

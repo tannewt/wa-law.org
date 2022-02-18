@@ -1,10 +1,10 @@
 # Reuven Carlyle
 ## Bills
 * [SB 5047](/bill/2021-22/sb/5047/) - Death penalty elimination | By resolution, reintroduced and retained in present status.
-* [SB 5062](/bill/2021-22/sb/5062/) - Data | By resolution, reintroduced and retained in present status.
+* [SB 5062](/bill/2021-22/sb/5062/) - Data | Senate Rules "X" file.
 * [SB 5080](/bill/2021-22/sb/5080/) - Youth ed. programming funds | Effective date 7/25/2021.
 * [SB 5126](/bill/2021-22/sb/5126/) - Climate commitment act | Effective date 7/25/2021.
-* [SB 5170](/bill/2021-22/sb/5170/) - Employment after public serv | On motion, referred to Rules Committee for second reading.
+* [SB 5170](/bill/2021-22/sb/5170/) - Employment after public serv | Senate Rules "X" file.
 * [SB 5216](/bill/2021-22/sb/5216/) - Tax preferences | By resolution, reintroduced and retained in present status.
 * [SB 5295](/bill/2021-22/sb/5295/) - Gas & electrical rates | Effective date 7/25/2021.
 * [SB 5432](/bill/2021-22/sb/5432/) - Cybersecurity/state gov. | Effective date 7/25/2021.

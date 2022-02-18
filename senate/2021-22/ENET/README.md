@@ -16,17 +16,6 @@
 * [Derek Stanford](/person/leg/derek.stanford.md)
 * [Lisa Wellman](/person/leg/lisa.wellman.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 10:30 am
-Public Hearing
-* [SHB 1768](/bill/2021-22/hb/1768/) - Updating definitions applicable to energy conservation projects involving public entities. (Remote testimony.)
-* [E2SHB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management. (Remote testimony.) **136👍** **4👎** **1❓**
-* [ESHB 1770](/bill/2021-22/hb/1770/) - Strengthening energy codes. (Remote testimony.)
-* [E2SHB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. (Remote testimony.) **100👍** **31👎** **7❓**
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 22 at 10:30 am
 Public Hearing
 * [EHB 1964](/bill/2021-22/hb/1964/) - Concerning the decommissioning of alternative energy facilities. (Remote testimony.) **4👍** **0👎** **2❓**

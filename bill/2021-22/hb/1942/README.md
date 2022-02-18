@@ -16,6 +16,5 @@ The Senate Early Learning & K-12 Education committee will be holding a public he
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19712).
 
-
 ## Upcoming Meetings
 * Mon, Feb 21 at 1:30 pm - [Senate Early Learning & K-12 Education](/senate/2021-22/EDU/) Public Hearing

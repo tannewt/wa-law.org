@@ -1,7 +1,7 @@
 # Curtis King
 ## Bills
 * [SB 5049](/bill/2021-22/sb/5049/) - Low-proof beverages/tax | By resolution, reintroduced and retained in present status.
-* [SB 5137](/bill/2021-22/sb/5137/) - Workers' comp COL adjustment | Passed to Rules Committee for second reading.
+* [SB 5137](/bill/2021-22/sb/5137/) - Workers' comp COL adjustment | Senate Rules "X" file.
 * [SB 5172](/bill/2021-22/sb/5172/) - Agricultural overtime | Effective date 7/25/2021.
 * [SB 5212](/bill/2021-22/sb/5212/) - Sports wagering | By resolution, reintroduced and retained in present status.
 * [ESB 5232](/bill/2021-22/esb/5232/) - Toll revenue bonding | Senate Rules "X" file.

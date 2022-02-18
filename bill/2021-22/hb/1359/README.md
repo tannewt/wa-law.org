@@ -10,6 +10,3 @@ Temporarily reducing liquor license fees.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 8:00 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Public Hearing

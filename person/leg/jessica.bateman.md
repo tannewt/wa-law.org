@@ -1,7 +1,7 @@
 # Jessica Bateman
 ## Bills
 * [HB 1046](/bill/2021-22/hb/1046/) - Community solar programs | By resolution, reintroduced and retained in present status.
-* [HB 1052](/bill/2021-22/hb/1052/) - Group insurance contracts | HLTC - Majority; do pass.
+* [HB 1052](/bill/2021-22/hb/1052/) - Group insurance contracts | Passed to Rules Committee for second reading.
 * [HB 1058](/bill/2021-22/hb/1058/) - Cultural access programs/tax | By resolution, reintroduced and retained in present status.
 * [HB 1157](/bill/2021-22/hb/1157/) - Housing supply | Rules Committee relieved of further consideration.  Placed on third reading.
 * [HB 1167](/bill/2021-22/hb/1167/) - Thurston superior court | Effective date 7/25/2021.

@@ -9,5 +9,4 @@ Addressing transportation resources.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 3:30 pm - [House Transportation](/house/2021-22/TR/) Public Hearing
 * Tue, Feb 22 at 3:30 pm - [House Transportation](/house/2021-22/TR/) Executive Session

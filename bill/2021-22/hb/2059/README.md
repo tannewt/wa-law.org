@@ -9,6 +9,3 @@ Concerning real estate agency law, but only to clarify that the statutory duties
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Public Hearing

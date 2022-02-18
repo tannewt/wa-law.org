@@ -7,7 +7,7 @@
 * [EHB 1342](/bill/2021-22/ehb/1342/) - Reduced-price lunch copays | Effective date 7/25/2021.
 * [HB 1618](/bill/2021-22/hb/1618/) - Election offices/weapons | First reading, referred to Civil Rights & Judiciary.
 * [HB 1833](/bill/2021-22/hb/1833/) - School meals/electronic info | First reading, referred to Early Learning & K-12 Education.
-* [HB 1846](/bill/2021-22/hb/1846/) - Data centers tax preference | First reading, referred to Finance.
+* [HB 1846](/bill/2021-22/hb/1846/) - Data centers tax preference | FIN - Executive action taken by committee.
 * [HB 1958](/bill/2021-22/hb/1958/) - Shovel-ready site cert. | First reading, referred to Ways & Means.
 * [HB 2031](/bill/2021-22/hb/2031/) - Unempl. & leave premiums | First reading, referred to Labor & Workplace Standards.
 * [HB 2099](/bill/2021-22/hb/2099/) - Tax penalties | Referred to Rules 2 Review.

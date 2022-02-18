@@ -16,19 +16,6 @@
 * [Steve Tharinger](/person/leg/steve.tharinger.md)
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 10:00 am
-Public Hearing
-* [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact. (Remote testimony.)
-* [2SSB 5532](/bill/2021-22/sb/5532/) - Establishing a prescription drug affordability board. (Remote testimony.) **97👍** **82👎** **1❓**
-* [SSB 5546](/bill/2021-22/sb/5546/) - Concerning insulin affordability. (Remote testimony.)
-* [SSB 5610](/bill/2021-22/sb/5610/) - Requiring cost sharing for prescription drugs to be counted against an enrollee's obligation, regardless of source. (Remote testimony.)
-* [SSB 5821](/bill/2021-22/sb/5821/) - Evaluating the state's cardiac and stroke emergency response system. (Remote testimony.)
-* [SSB 5886](/bill/2021-22/sb/5886/) - Creating an advisory council on rare diseases. (Remote testimony.) **67👍** **34👎** **0❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 1:30 pm
 Public Hearing
 * [SSB 5589](/bill/2021-22/sb/5589/) - Concerning statewide spending on primary care. (Remote testimony.)
@@ -47,7 +34,7 @@ Executive Session
 * [SSB 5496](/bill/2021-22/sb/5496/) - Concerning health professional monitoring programs. **15👍** **0👎** **0❓**
 * [SB 5499](/bill/2021-22/sb/5499/) - Concerning credentialing of medical assistant-hemodialysis technicians. **6👍** **0👎** **0❓**
 * [SB 5508](/bill/2021-22/sb/5508/) - Concerning the insurance guaranty fund. **17👍** **1👎** **0❓**
-* [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact.
+* [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact. **294👍** **1👎** **0❓**
 * [SB 5529](/bill/2021-22/sb/5529/) - Concerning self-directed care. **9👍** **0👎** **0❓**
 * [2SSB 5532](/bill/2021-22/sb/5532/) - Establishing a prescription drug affordability board. **97👍** **82👎** **1❓**
 * [SSB 5546](/bill/2021-22/sb/5546/) - Concerning insulin affordability.

@@ -10,5 +10,4 @@ Reducing greenhouse gas emissions in buildings.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 1:30 pm - [House Environment & Energy](/house/2021-22/ENVI/) Public Hearing
 * Tue, Feb 22 at 8:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

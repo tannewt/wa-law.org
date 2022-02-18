@@ -1,12 +1,9 @@
 # HB 2024 - SR 520 sales tax deferral
 **Primary Sponsor:** [Jake Fey](/person/leg/jake.fey.md)
 
-*Status: Referred to Finance.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2024&Year=2021)
+*Status: FIN - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2024&Year=2021)
 
 Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

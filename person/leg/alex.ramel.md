@@ -8,5 +8,5 @@
 * [HB 1569](/bill/2021-22/hb/1569/) - Green electrolytic hydrogen | By resolution, reintroduced and retained in present status.
 * [HB 1766](/bill/2021-22/hb/1766/) - Gas companies | First reading, referred to Environment & Energy.
 * [HB 1767](/bill/2021-22/hb/1767/) - Targeted electrification | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1792](/bill/2021-22/hb/1792/) - Hydrogen | Referred to Finance.
-* [HB 1921](/bill/2021-22/hb/1921/) - Renewable energy/valuation | Third reading, passed; yeas, 97; nays, 1; absent, 0; excused, 0.
+* [HB 1792](/bill/2021-22/hb/1792/) - Hydrogen | Minority; without recommendation.
+* [HB 1921](/bill/2021-22/hb/1921/) - Renewable energy/valuation | First reading, referred to Environment, Energy & Technology.

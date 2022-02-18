@@ -1,12 +1,9 @@
 # HB 1648 - Accountancy/inactive license
 **Primary Sponsor:** [Brandon Vick](/person/leg/brandon.vick.md)
 
-*Status: First reading, referred to Business, Financial Services & Trade.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1648&Year=2021)
+*Status: BFST - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1648&Year=2021)
 
 Replacing an inactive certificate status with an inactive license designation.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

@@ -7,3 +7,6 @@ Regulating service contracts and protection product guarantees.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Public Hearing

@@ -7,7 +7,7 @@
 * [SB 5394](/bill/2021-22/sb/5394/) - Liquor sale by restaurants | By resolution, reintroduced and retained in present status.
 * [SB 5422](/bill/2021-22/sb/5422/) - Excise tax/aerospace, etc. | By resolution, reintroduced and retained in present status.
 * [SB 5672](/bill/2021-22/sb/5672/) - Long-term care/refunds | First reading, referred to Health & Long Term Care.
-* [SB 5673](/bill/2021-22/sb/5673/) - Bridge jumping signs | Passed to Rules Committee for second reading.
+* [SB 5673](/bill/2021-22/sb/5673/) - Bridge jumping signs | Senate Rules "X" file.
 * [SB 5674](/bill/2021-22/sb/5674/) - Graduated reentry program | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5675](/bill/2021-22/sb/5675/) - Permissible use of force | First reading, referred to Law & Justice.
 * [SB 5696](/bill/2021-22/sb/5696/) - Capital gains tax/repeal | First reading, referred to Ways & Means.

@@ -2,7 +2,7 @@
 ## Bills
 * [HB 1111](/bill/2021-22/hb/1111/) - Investments/B&O tax | By resolution, reintroduced and retained in present status.
 * [HB 1123](/bill/2021-22/hb/1123/) - Nursing care QAC authority | By resolution, reintroduced and retained in present status.
-* [HB 1124](/bill/2021-22/hb/1124/) - Nurse delegation/glucose | HLTC - Majority; do pass.
+* [HB 1124](/bill/2021-22/hb/1124/) - Nurse delegation/glucose | Passed to Rules Committee for second reading.
 * [HB 1148](/bill/2021-22/hb/1148/) - Acute care hospitals | Effective date 7/25/2021.
 * [HB 1160](/bill/2021-22/hb/1160/) - Health provider contracts | Referred to Health Care & Wellness.
 * [HB 1316](/bill/2021-22/hb/1316/) - Hospital safety net assess. | Effective date 7/25/2021.

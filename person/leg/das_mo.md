@@ -3,7 +3,7 @@
 * [SB 5010](/bill/2021-22/sb/5010/) - Credit score/insurance rates | By resolution, reintroduced and retained in present status.
 * [SB 5022](/bill/2021-22/sb/5022/) - Recycling, waste, & litter | Effective date 7/25/2021.
 * [SB 5044](/bill/2021-22/sb/5044/) - Schools/equity training | Effective date 7/25/2021.
-* [SB 5079](/bill/2021-22/sb/5079/) - Mobile home closure notices | Placed on second reading by Rules Committee.
+* [SB 5079](/bill/2021-22/sb/5079/) - Mobile home closure notices | Senate Rules "X" file.
 * [ESB 5135](/bill/2021-22/esb/5135/) - Unlawfully summoning police | Effective date 7/25/2021.
 * [SB 5139](/bill/2021-22/sb/5139/) - Rent increases, limiting | By resolution, reintroduced and retained in present status.
 * [SB 5192](/bill/2021-22/sb/5192/) - Electric vehicle equipment | Effective date 7/25/2021.
@@ -20,7 +20,7 @@
 * [SB 5713](/bill/2021-22/sb/5713/) - Limited equity coop. housing | Referred to Finance.
 * [SB 5731](/bill/2021-22/sb/5731/) - Organic materials management | First reading, referred to Environment, Energy & Technology.
 * [SB 5732](/bill/2021-22/sb/5732/) - Green roofs | First reading, referred to Environment, Energy & Technology.
-* [SB 5823](/bill/2021-22/sb/5823/) - Local infra. project areas | Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.
+* [SB 5823](/bill/2021-22/sb/5823/) - Local infra. project areas | First reading, referred to Finance.
 * [ESB 5832](/bill/2021-22/esb/5832/) - Multifamily unit conversion | First reading, referred to Finance.
 * [SB 5889](/bill/2021-22/sb/5889/) - Annual mental health exams | First reading, referred to Health & Long Term Care.
 * [SB 5904](/bill/2021-22/sb/5904/) - Fashion retail disclosures | First reading, referred to Labor, Commerce & Tribal Affairs.

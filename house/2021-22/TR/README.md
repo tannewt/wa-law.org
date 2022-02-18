@@ -31,17 +31,10 @@
 * [Jim Walsh](/person/leg/jim.walsh.md)
 * [Emily Wicks](/person/leg/wicks_em.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 3:30 pm
-Public Hearing
-* [HB 2119](/bill/2021-22/hb/2119/) - Addressing transportation resources. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 3:30 pm
 Public Hearing
-* [HB 1786](/bill/2021-22/hb/1786/) - Making supplemental transportation appropriations for the 2021-2023 fiscal biennium. (Remote testimony.)
+* [HB 1786](/bill/2021-22/hb/1786/) - Making supplemental transportation appropriations for the 2021-2023 fiscal biennium.  (Hearing is on the proposed substitute bill.)
+* PSHB 1786 - Making supplemental transportation appropriations for the 2021-2023 fiscal biennium.  (Remote testimony.)
 * [HB 2118](/bill/2021-22/hb/2118/) - Concerning additive transportation funding and appropriations. (Remote testimony.)
 * [SB 5354](/bill/2021-22/sb/5354/) - Addressing traffic control in large cities. (Remote testimony.)
 
@@ -59,7 +52,12 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Wed, Feb 23 at 3:30 pm
 Public Hearing
-* Senate bills referred to committee (Remote testimony.)
+* [2SSB 5332](/bill/2021-22/sb/5332/) - Concerning off-road and wheeled all-terrain vehicles. (Remote testimony.)
+* [SB 5510](/bill/2021-22/sb/5510/) - Concerning renewal of the sales and use tax for transportation benefit districts. (Remote testimony.)
+* [SB 5687](/bill/2021-22/sb/5687/) - Addressing certain traffic safety improvements. (Remote testimony.)
+* [SSB 5741](/bill/2021-22/sb/5741/) - Creating Patches pal special license plates. (Remote testimony.) **24👍** **1👎** **0❓**
+* [SB 5898](/bill/2021-22/sb/5898/) - Concerning the use of vehicle-related fees to fulfill certain state general obligation bonds. (Remote testimony.)
+* [SSB 5907](/bill/2021-22/sb/5907/) - Concerning roadside safety measures. (Remote testimony.) **31👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -82,14 +80,9 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Fri, Feb 25 at 10:00 am
 Public Hearing
-* [2SSB 5332](/bill/2021-22/sb/5332/) - Concerning off-road and wheeled all-terrain vehicles. (Remote testimony.)
 * [2SSB 5406](/bill/2021-22/sb/5406/) - Providing compensation for tow truck operators for keeping the public roadways clear. (Remote testimony.) **13👍** **0👎** **0❓**
-* [SB 5510](/bill/2021-22/sb/5510/) - Concerning renewal of the sales and use tax for transportation benefit districts. (Remote testimony.)
-* [SB 5687](/bill/2021-22/sb/5687/) - Addressing certain traffic safety improvements. (Remote testimony.)
-* [SSB 5741](/bill/2021-22/sb/5741/) - Creating Patches pal special license plates. (Remote testimony.) **24👍** **1👎** **0❓**
+* [ESSB 5815](/bill/2021-22/sb/5815/) - Implementing an identicard program to provide individuals a Washington state-issued identicard. (Remote testimony.) **9👍** **1👎** **0❓**
 * [ESSB 5853](/bill/2021-22/sb/5853/) - Establishing a limited project regarding leasing certain department of transportation property in order to remedy past impacts to historically marginalized populations. (Remote testimony.) **111👍** **1👎** **1❓**
-* [SB 5898](/bill/2021-22/sb/5898/) - Concerning the use of vehicle-related fees to fulfill certain state general obligation bonds. (Remote testimony.)
-* [SSB 5907](/bill/2021-22/sb/5907/) - Concerning roadside safety measures. (Remote testimony.) **31👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

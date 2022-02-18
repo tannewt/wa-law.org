@@ -11,7 +11,7 @@
 * [SB 5242](/bill/2021-22/sb/5242/) - Media literacy & digital cit | Senate Rules "X" file.
 * [SB 5253](/bill/2021-22/sb/5253/) - Pollinator health | Effective date 7/25/2021.
 * [SB 5256](/bill/2021-22/sb/5256/) - Transp. electrification | By resolution, reintroduced and retained in present status.
-* [SB 5262](/bill/2021-22/sb/5262/) - Data center tax incentive | By resolution, reintroduced and retained in present status.
+* [SB 5262](/bill/2021-22/sb/5262/) - Data center tax incentive | Senate Rules "X" file.
 * [SB 5270](/bill/2021-22/sb/5270/) - DOL issued documents | By resolution, reintroduced and retained in present status.
 * [SB 5288](/bill/2021-22/sb/5288/) - Opportunity scholarship prog | Senate Rules "X" file.
 * [SB 5313](/bill/2021-22/sb/5313/) - Health ins. discrimination | Effective date 7/25/2021.
@@ -27,12 +27,12 @@
 * [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | Referred to Appropriations.
 * [SB 5797](/bill/2021-22/sb/5797/) - Opportunity scholarship prog | First reading, referred to Higher Education & Workforce Development.
 * [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | Referred to Ways & Means.
-* [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.
+* [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | First reading, referred to Capital Budget.
 * [SB 5846](/bill/2021-22/sb/5846/) - Election offices/weapons | First reading, referred to Law & Justice.
 * [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | First reading, referred to College & Workforce Development.
 * [SB 5861](/bill/2021-22/sb/5861/) - Housing benefit districts | First reading, referred to Housing & Local Government.
 * [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | First reading, referred to Transportation.
 * [SB 5899](/bill/2021-22/sb/5899/) - SR 520 sales tax deferral | First reading, referred to Transportation.
 * [SB 5908](/bill/2021-22/sb/5908/) - Clean car authority | Referred to Transportation.
-* [SB 5974](/bill/2021-22/sb/5974/) - Transportation resources | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.
+* [SB 5974](/bill/2021-22/sb/5974/) - Transportation resources | First reading, referred to Transportation.
 * [SB 5975](/bill/2021-22/sb/5975/) - Additive transp. funding | First reading, referred to Transportation.

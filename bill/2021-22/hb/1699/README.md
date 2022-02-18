@@ -20,4 +20,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing
+* Tue, Feb 22 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

@@ -18,7 +18,7 @@
 * [SB 5616](/bill/2021-22/sb/5616/) - Accounts | First reading, referred to Appropriations.
 * [SB 5626](/bill/2021-22/sb/5626/) - Water system plans/climate | First reading, referred to Environment & Energy.
 * [SB 5633](/bill/2021-22/sb/5633/) - Forest loss prevention | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5637](/bill/2021-22/sb/5637/) - Forest practices fees | Passed to Rules Committee for second reading.
+* [SB 5637](/bill/2021-22/sb/5637/) - Forest practices fees | Senate Rules "X" file.
 * [SB 5653](/bill/2021-22/sb/5653/) - Pesticide commission name | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5665](/bill/2021-22/sb/5665/) - Salmon habitat | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5693](/bill/2021-22/sb/5693/) - Operating budget, supp. | First reading, referred to Ways & Means.

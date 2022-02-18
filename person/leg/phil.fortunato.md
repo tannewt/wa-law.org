@@ -3,7 +3,7 @@
 * [SB 5028](/bill/2021-22/sb/5028/) - Vehicle taxes & fees | By resolution, reintroduced and retained in present status.
 * [SB 5040](/bill/2021-22/sb/5040/) - State highway litter control | Effective date 7/25/2021.
 * [SB 5041](/bill/2021-22/sb/5041/) - Development paperwork | By resolution, reintroduced and retained in present status.
-* [SB 5082](/bill/2021-22/sb/5082/) - Productivity board | First reading, referred to State Government & Tribal Relations.
+* [SB 5082](/bill/2021-22/sb/5082/) - Productivity board | SGOV - Executive action taken by committee.
 * [SB 5100](/bill/2021-22/sb/5100/) - Emergency rules/approval | By resolution, reintroduced and retained in present status.
 * [SB 5107](/bill/2021-22/sb/5107/) - Homelessness/shelter | By resolution, reintroduced and retained in present status.
 * [SB 5113](/bill/2021-22/sb/5113/) - Emergency orders/statutory | By resolution, reintroduced and retained in present status.
@@ -17,7 +17,7 @@
 * [SB 5305](/bill/2021-22/sb/5305/) - Senior property tax/medicare | By resolution, reintroduced and retained in present status.
 * [SB 5346](/bill/2021-22/sb/5346/) - Immigration enforcement | By resolution, reintroduced and retained in present status.
 * [SB 5364](/bill/2021-22/sb/5364/) - Equine industry support | By resolution, reintroduced and retained in present status.
-* [SB 5380](/bill/2021-22/sb/5380/) - Building permit approval | Placed on second reading by Rules Committee.
+* [SB 5380](/bill/2021-22/sb/5380/) - Building permit approval | Senate Rules "X" file.
 * [SB 5382](/bill/2021-22/sb/5382/) - Election security testing | By resolution, reintroduced and retained in present status.
 * [SB 5393](/bill/2021-22/sb/5393/) - Initiative petition format | By resolution, reintroduced and retained in present status.
 * [SB 5466](/bill/2021-22/sb/5466/) - Sales tax/transp. projects | By resolution, reintroduced and retained in present status.
@@ -27,9 +27,9 @@
 * [SB 5502](/bill/2021-22/sb/5502/) - WSDOT graffiti removal order | First reading, referred to Law & Justice.
 * [SB 5516](/bill/2021-22/sb/5516/) - Abortion information/consent | First reading, referred to Health & Long Term Care.
 * [SB 5525](/bill/2021-22/sb/5525/) - Water quality actions | First reading, referred to Environment, Energy & Technology.
-* [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. materials | Placed on second reading by Rules Committee.
+* [SB 5526](/bill/2021-22/sb/5526/) - Battery manuf. materials | Senate Rules "X" file.
 * [SB 5556](/bill/2021-22/sb/5556/) - Eviction moratorium/lodging | First reading, referred to Housing & Local Government.
-* [SB 5574](/bill/2021-22/sb/5574/) - Consolidation of counties | Passed to Rules Committee for second reading.
+* [SB 5574](/bill/2021-22/sb/5574/) - Consolidation of counties | Senate Rules "X" file.
 * [SB 5591](/bill/2021-22/sb/5591/) - Emergency housing & shelters | First reading, referred to Housing & Local Government.
 * [SJR 8202](/bill/2021-22/sjr/8202/) - Governor term limit | By resolution, reintroduced and retained in present status.
 * [SJR 8205](/bill/2021-22/sjr/8205/) - Right to possess firearms | By resolution, reintroduced and retained in present status.

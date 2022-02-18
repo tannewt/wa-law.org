@@ -10,4 +10,4 @@
 * [HB 2055](/bill/2021-22/hb/2055/) - Higher ed. capital grants | Referred to Rules 2 Review.
 * [HB 2056](/bill/2021-22/hb/2056/) - K-12 instructional materials | First reading, referred to Education.
 * [HB 2072](/bill/2021-22/hb/2072/) - Manuf. homes as real prop. | First reading, referred to Civil Rights & Judiciary.
-* [EHB 2073](/bill/2021-22/ehb/2073/) - State capitol committee | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
+* [EHB 2073](/bill/2021-22/ehb/2073/) - State capitol committee | First reading, referred to State Government & Elections.

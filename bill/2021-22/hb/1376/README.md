@@ -7,6 +7,3 @@ Concerning registration of land titles.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 8:00 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

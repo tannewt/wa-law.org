@@ -30,7 +30,7 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Tue, Feb 22 at 10:00 am
 Public Hearing
-* [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. (Remote testimony.) (If measure is referred to committee.) **20👍** **0👎** **0❓**
+* [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. (Remote testimony.) **20👍** **0👎** **0❓**
 
 Executive Session
 * [ESSB 5544](/bill/2021-22/sb/5544/) - Establishing the Washington blockchain work group.
@@ -41,7 +41,7 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Wed, Feb 23 at 10:00 am
 Executive Session
-* [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. (If measure is referred to committee.) **20👍** **0👎** **0❓**
+* [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. **20👍** **0👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

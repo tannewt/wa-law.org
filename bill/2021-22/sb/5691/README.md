@@ -1,7 +1,7 @@
 # SB 5691 - Prosecutorial filing
 **Primary Sponsor:** [Chris Gildon](/person/leg/gildon_ch.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5691&Year=2021)
+*Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5691&Year=2021)
 
 Increasing transparency and accountability regarding prosecutorial filing policies and practices.
 

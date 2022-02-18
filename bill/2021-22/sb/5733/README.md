@@ -1,7 +1,7 @@
 # SB 5733 - Civil asset forfeiture/drugs
 **Primary Sponsor:** [Mike Padden](/person/leg/mike.padden.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5733&Year=2021)
+*Status: Senate Rules "X" file.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5733&Year=2021)
 
 Concerning civil asset forfeiture.
 

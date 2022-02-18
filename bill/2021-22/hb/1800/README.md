@@ -8,6 +8,3 @@ Increasing access to behavioral health services for minors.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Fri, Feb 18 at 10:30 am - [Senate Behavioral Health Subcommittee to Health & Long Term Care](/senate/2021-22/BH/) Executive Session

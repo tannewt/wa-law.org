@@ -14,21 +14,10 @@
 * [Mike Sells](/person/leg/mike.sells.md)
 * [Robert Sutherland](/person/leg/sutherla_ro.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 10:00 am
-Public Hearing
-* [E2SSB 5764](/bill/2021-22/sb/5764/) - Concerning apprenticeships and higher education. (Remote testimony.)
-* [E2SSB 5600](/bill/2021-22/sb/5600/) - Concerning the sustainability and expansion of state registered apprenticeship programs. (Remote testimony.) **0👍** **0👎** **0❓**
-
-Work Session
-* Review of the Washington College Grant Apprenticeship Award.
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 1:30 pm
 Public Hearing
 * [SSB 5644](/bill/2021-22/sb/5644/) - Concerning providing quality behavioral health co-response services (Remote testimony.)
+* [SB 5545](/bill/2021-22/sb/5545/) - Concerning survivor benefits. (Remote testimony.)
 
 Executive Session
 * [ESSB 5847](/bill/2021-22/sb/5847/) - Providing information to public service employees about the public service loan forgiveness program. **35👍** **0👎** **0❓**
@@ -42,9 +31,10 @@ To view committee meetings or access the committee meeting documents, visit the 
 
 ### Wed, Feb 23 at 8:00 am
 Executive Session
-* [E2SSB 5764](/bill/2021-22/sb/5764/) - Concerning apprenticeships and higher education.
-* [E2SSB 5600](/bill/2021-22/sb/5600/) - Concerning the sustainability and expansion of state registered apprenticeship programs. **0👍** **0👎** **0❓**
+* [E2SSB 5764](/bill/2021-22/sb/5764/) - Concerning apprenticeships and higher education. **63👍** **0👎** **0❓**
+* [E2SSB 5600](/bill/2021-22/sb/5600/) - Concerning the sustainability and expansion of state registered apprenticeship programs. **74👍** **38👎** **4❓**
 * [ESSB 5942](/bill/2021-22/sb/5942/) - Enacting the uniform college athlete name, image, or likeness act. **11👍** **0👎** **0❓**
 * [SSB 5644](/bill/2021-22/sb/5644/) - Concerning providing quality behavioral health co-response services.
+* [SB 5545](/bill/2021-22/sb/5545/) - Concerning survivor benefits.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

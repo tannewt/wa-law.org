@@ -16,6 +16,5 @@ The Senate Environment, Energy & Technology committee will be holding a public h
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19713).
 
-
 ## Upcoming Meetings
 * Tue, Feb 22 at 10:30 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Public Hearing

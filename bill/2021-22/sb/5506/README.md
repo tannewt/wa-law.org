@@ -1,12 +1,9 @@
 # SB 5506 - JARRC chair & vice chair
 **Primary Sponsor:** [Patty Kuderer](/person/leg/patty.kuderer.md)
 
-*Status: First reading, referred to State Government & Tribal Relations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5506&Year=2021)
+*Status: SGOV - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5506&Year=2021)
 
 Concerning the appointment process for the chairperson and vice chairperson of the joint administrative rules review committee.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 10:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

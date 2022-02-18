@@ -9,5 +9,4 @@ Designating the Washington state leadership board a trustee of the state of Wash
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 10:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Public Hearing
 * Mon, Feb 21 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

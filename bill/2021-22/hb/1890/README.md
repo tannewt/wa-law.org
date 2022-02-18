@@ -9,6 +9,3 @@ Concerning the children and youth behavioral health work group.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
-
-## Upcoming Meetings
-* Fri, Feb 18 at 10:30 am - [Senate Behavioral Health Subcommittee to Health & Long Term Care](/senate/2021-22/BH/) Executive Session

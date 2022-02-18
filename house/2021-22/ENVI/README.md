@@ -14,22 +14,15 @@
 * [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 * [Vandana Slatter](/person/leg/vandana.slatter.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 1:30 pm
-Public Hearing
-* [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. (Remote testimony.)
-* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. (Remote testimony.)
-* [SSB 5722](/bill/2021-22/sb/5722/) - Reducing greenhouse gas emissions in buildings. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Fri, Feb 18 at 10:00 am
 Public Hearing
 * [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. (Remote testimony.)
 * [SB 5747](/bill/2021-22/sb/5747/) - Concerning the statewide master oil and hazardous substance spill prevention and contingency plan. (Remote testimony.)
 * [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. (Remote testimony.) **26👍** **72👎** **5❓**
 * [SB 5585](/bill/2021-22/sb/5585/) - Setting domestic wastewater discharge fees. (Remote testimony.)
+
+Executive Session
+* [SB 5747](/bill/2021-22/sb/5747/) - Concerning the statewide master oil and hazardous substance spill prevention and contingency plan.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -45,10 +38,9 @@ Public Hearing
 
 Executive Session
 * [SSB 5722](/bill/2021-22/sb/5722/) - Reducing greenhouse gas emissions in buildings.
-* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments.
+* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. **22👍** **0👎** **0❓**
 * [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. **26👍** **72👎** **5❓**
-* [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act.
-* [SB 5747](/bill/2021-22/sb/5747/) - Concerning the statewide master oil and hazardous substance spill prevention and contingency plan.
+* [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. **1520👍** **121👎** **3❓**
 * [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory.
 * [SB 5585](/bill/2021-22/sb/5585/) - Setting domestic wastewater discharge fees.
 
@@ -59,6 +51,7 @@ To view committee meetings or access the committee meeting documents, visit the 
 ### Thu, Feb 24 at 10:00 am
 Public Hearing
 * [SSB 5590](/bill/2021-22/sb/5590/) - Eliminating the 2022 expiration date of the marine resources advisory council. (Remote testimony.)
+* [SSB 5818](/bill/2021-22/sb/5818/) - Promoting housing construction in cities through amendments to and limiting appeals under the state environmental policy act and growth management act. (Remote testimony.)
 
 Executive Session
 * [SSB 5678](/bill/2021-22/sb/5678/) - Concerning energy transformation, nonemitting electric generation, and renewable resource project analysis and declaratory orders.
@@ -67,6 +60,7 @@ Executive Session
 * [2SSB 5703](/bill/2021-22/sb/5703/) - Concerning the use of toxic chemicals in cosmetic products.
 * [SSB 5590](/bill/2021-22/sb/5590/) - Eliminating the 2022 expiration date of the marine resources advisory council.
 * [E2SSB 5885](/bill/2021-22/sb/5885/) - Concerning marine shoreline habitat. **233👍** **67👎** **4❓**
+* [SSB 5818](/bill/2021-22/sb/5818/) - Promoting housing construction in cities through amendments to and limiting appeals under the state environmental policy act and growth management act.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

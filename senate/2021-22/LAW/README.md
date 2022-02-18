@@ -12,24 +12,6 @@
 * [Jesse Salomon](/person/leg/salomon_je.md)
 * [Keith Wagoner](/person/leg/keith.wagoner.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 10:30 am
-Public Hearing
-* [SHB 1615](/bill/2021-22/hb/1615/) - Concerning the sale of cosmetics tested on animals. (Remote testimony.)
-* [SHB 1961](/bill/2021-22/hb/1961/) - Concerning the authority of the courts to waive auditor's fees for filing and recording name change orders. (Remote testimony.)
-* [HB 1825](/bill/2021-22/hb/1825/) - Concerning continuity of judicial operations in single judge courts. (Remote testimony.)
-* [E4SHB 1412](/bill/2021-22/hb/1412/) - Concerning legal financial obligations. (Remote testimony.) **131👍** **0👎** **2❓**
-* [ESHB 1793](/bill/2021-22/hb/1793/) - Concerning electric vehicle charging stations in common interest communities. (Remote testimony.)
-
-Executive Session
-* [HB 1105](/bill/2021-22/hb/1105/) - Concerning arrest protections for the medical use of cannabis. **52👍** **2👎** **1❓**
-* [HB 1719](/bill/2021-22/hb/1719/) - Concerning use and acquisition of military equipment by law enforcement agencies. **38👍** **3👎** **0❓**
-* [SHB 1725](/bill/2021-22/hb/1725/) - Concerning the creation of an endangered missing person advisory designation for missing indigenous persons. **87👍** **0👎** **0❓**
-* [SHB 1735](/bill/2021-22/hb/1735/) - Modifying the standard for use of force by peace officers. **612👍** **8👎** **2❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 9:30 am
 Public Hearing
 * [ESHB 1705](/bill/2021-22/hb/1705/) - Concerning ghost guns. (Remote testimony.)
@@ -56,8 +38,8 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 ### Thu, Feb 24 at 10:30 am
 Executive Session
-* [SHB 1615](/bill/2021-22/hb/1615/) - Concerning the sale of cosmetics tested on animals.
-* [SHB 1961](/bill/2021-22/hb/1961/) - Concerning the authority of the courts to waive auditor's fees for filing and recording name change orders.
+* [SHB 1615](/bill/2021-22/hb/1615/) - Concerning the sale of cosmetics tested on animals. **93👍** **0👎** **0❓**
+* [SHB 1961](/bill/2021-22/hb/1961/) - Concerning the authority of the courts to waive auditor's fees for filing and recording name change orders. **64👍** **0👎** **0❓**
 * [E4SHB 1412](/bill/2021-22/hb/1412/) - Concerning legal financial obligations. **131👍** **0👎** **2❓**
 * [HB 1825](/bill/2021-22/hb/1825/) - Concerning continuity of judicial operations in single judge courts.
 * [ESHB 1793](/bill/2021-22/hb/1793/) - Concerning electric vehicle charging stations in common interest communities.
@@ -68,7 +50,6 @@ Executive Session
 * [ESHB 1630](/bill/2021-22/hb/1630/) - Establishing restrictions on the possession of weapons in certain locations.
 * [SHB 1901](/bill/2021-22/hb/1901/) - Updating laws concerning civil protection orders to further enhance and improve their efficacy and accessibility.
 * [ESHB 1169](/bill/2021-22/hb/1169/) - Concerning sentencing enhancements.
-* [ESHB 1048](/bill/2021-22/hb/1048/) - Concerning the removal of specific religious references regarding the criminal mistreatment of children and vulnerable adults from a statute. (If measure is referred to committee.)
 
 Possible other business.
 

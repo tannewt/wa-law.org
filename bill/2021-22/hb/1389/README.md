@@ -19,5 +19,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 4:00 pm - [Senate Transportation](/senate/2021-22/TRAN/) Executive Session
 * Tue, Feb 22 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Public Hearing

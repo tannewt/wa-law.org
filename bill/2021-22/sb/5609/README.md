@@ -7,6 +7,3 @@ Eliminating fingerprinting at juvenile dispositions.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 10:00 am - [House Children, Youth & Families](/house/2021-22/CYF/) Executive Session

@@ -19,25 +19,6 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 4:00 pm
-Public Hearing
-* [SHB 1655](/bill/2021-22/hb/1655/) - Encouraging the opening of safety rest areas to the public. (Remote testimony.)
-* [HB 1785](/bill/2021-22/hb/1785/) - Concerning the minimum monthly salary paid to Washington state patrol troopers and sergeants. (Remote testimony.)
-* [SHB 2057](/bill/2021-22/hb/2057/) - Strengthening diversity, equity, and inclusion in the state patrol workforce. (Remote testimony.)
-* [HB 2033](/bill/2021-22/hb/2033/) - Concerning safety measures for fire department vehicles and other vehicles using lights or other signals in emergency or work zones. (Remote testimony.) **13👍** **2👎** **0❓**
-
-Executive Session
-* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation.
-* [SHB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities.
-* [HB 1934](/bill/2021-22/hb/1934/) - Allowing tribal governments to participate in exchange agreements without certain restrictions.
-
-Work Session
-* Low-income tolling study update – WA Transportation Commission.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 4:00 pm
 Public Hearing
 * [SB 5975](/bill/2021-22/sb/5975/) - Concerning additive transportation funding and appropriations. (Remote testimony.)
@@ -51,6 +32,7 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 Public Hearing
 * [SHB 1984](/bill/2021-22/hb/1984/) - Protecting privacy of addresses related to vehicle registration certificates. (Remote testimony.) **0👍** **0👎** **2❓**
 * [HB 2074](/bill/2021-22/hb/2074/) - Concerning fees collected from out-of-state residents who register off-road vehicles in Washington. (Remote testimony.) **9👍** **0👎** **0❓**
+* [EHB 1784](/bill/2021-22/hb/1784/) - Establishing an exception to the requirement that vehicle license plates be visible at all times for vehicles using certain cargo carrying devices. (Remote testimony.) (If measure is referred to committee.)
 
 Possible executive session on bills heard in committee. Possible other business.
 

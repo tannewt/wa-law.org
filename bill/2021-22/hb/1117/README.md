@@ -10,3 +10,6 @@ Promoting salmon recovery through revisions to the state's comprehensive plannin
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+
+## Upcoming Meetings
+* Wed, Feb 23 at 10:30 am - [Senate Housing & Local Government](/senate/2021-22/HLG/) Executive Session

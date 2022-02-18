@@ -9,6 +9,5 @@ Concerning computer science instruction in state long-term juvenile institutions
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 1:30 pm - [House Education](/house/2021-22/ED/) Public Hearing
 * Tue, Feb 22 at 8:00 am - [House Education](/house/2021-22/ED/) Executive Session
 * Thu, Feb 24 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

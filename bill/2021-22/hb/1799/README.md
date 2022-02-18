@@ -10,6 +10,3 @@ Concerning organic materials management.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
-
-## Upcoming Meetings
-* Thu, Feb 17 at 10:30 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Public Hearing

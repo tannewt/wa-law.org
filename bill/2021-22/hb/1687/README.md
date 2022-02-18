@@ -16,6 +16,5 @@ The Senate Higher Education & Workforce Development committee will be holding a 
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19727).
 
-
 ## Upcoming Meetings
 * Tue, Feb 22 at 1:30 pm - [Senate Higher Education & Workforce Development](/senate/2021-22/HEWD/) Public Hearing

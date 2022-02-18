@@ -27,25 +27,6 @@
 * [Judy Warnick](/person/leg/judith.warnick.md)
 * [Lisa Wellman](/person/leg/lisa.wellman.md)
 ## Upcoming Meetings
-### Thu, Feb 17 at 4:00 pm
-Public Hearing
-* [SB 5651](/bill/2021-22/sb/5651/) - Concerning the capital budget. (Hearing is on the Proposed Substitute.)
-* PSSB 5651: K-12 public schools. (Remote testimony.)
-* PSSB 5651: Higher education. (Remote testimony.)
-* PSSB 5651: Housing & human services.  (Remote testimony.)
-* PSSB 5651: Natural resources.  (Remote testimony.)
-* PSSB 5651: All other.  (Remote testimony.)
-* [SSB 5543](/bill/2021-22/sb/5543/) - Concerning a zero-emission landscaping equipment incentive. (Remote testimony.)
-* [SSB 5714](/bill/2021-22/sb/5714/) - Creating a sales and use tax deferral program for solar canopies placed on large-scale commercial parking lots and other similar areas. (Remote testimony.)
-* [SSB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of vacant lands in urban areas. (Remote testimony.)
-* [SB 5849](/bill/2021-22/sb/5849/) - Concerning tax incentives. (Remote testimony.) **14👍** **1👎** **0❓**
-* [SSB 5799](/bill/2021-22/sb/5799/) - Modifying the application of the workforce education investment advanced computing surcharge to provider clinics and affiliated organizations. (Remote testimony.)
-* [SB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. (Remote testimony.) **19👍** **0👎** **0❓**
-
-Possible executive session on bills heard in committee. Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 4:00 pm
 Public Hearing
 * [SB 5693](/bill/2021-22/sb/5693/) - Making 2021-2023 fiscal biennium supplemental operating appropriations. (Hearing is on the Proposed Substitute.)
@@ -67,14 +48,8 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 ### Tue, Feb 22 at 4:00 pm
 Public Hearing
-* [HB 1647](/bill/2021-22/hb/1647/) - Concerning the building for the arts program. (Remote testimony.)
-* [HB 1765](/bill/2021-22/hb/1765/) - Ensuring the ongoing sustainability and vitality of the Washington health benefit exchange by eliminating the expiration date of its business and occupation tax exemption. (Remote testimony.)
-* [ESHB 1699](/bill/2021-22/hb/1699/) - Permitting individuals retired from the public employees retirement system, the teachers retirement system, and the school employees retirement system additional opportunities to work for a school district for up to 1,040 hours per school year while in receipt of pension benefits until July 1, 2025. (Remote testimony.)
-* [SHB 1701](/bill/2021-22/hb/1701/) - Concerning law enforcement officers' and firefighters' retirement system benefits. (Remote testimony.)
-* [HB 1804](/bill/2021-22/hb/1804/) - Concerning interruptive military service credit for members of the state retirement systems. (Remote testimony.)
 * [EHB 1752](/bill/2021-22/hb/1752/) - Adding a Roth option to deferred compensation plans. (Remote testimony.)
 * [SSB 5760](/bill/2021-22/sb/5760/) - Updating and expanding the motion picture competitiveness program. (Remote testimony.)
-* [SB 5921](/bill/2021-22/sb/5921/) - Increasing county timber tax distributions by reducing the charge for administrative and collection costs. (Remote testimony.)
 * [HB 1666](/bill/2021-22/hb/1666/) - Clarifying the method for determining the value of specified tangible personal property incorporated as part of certain public infrastructure for the purposes of use tax and business and occupation tax. (Remote testimony.)
 * [SB 5967](/bill/2021-22/sb/5967/) - Imposing a state climate resiliency and mitigation surcharge on large financial institutions financing the global fossil fuel industry while recognizing the financial institution industry's efforts to address climate change. (Remote testimony.)
 * [SB 5841](/bill/2021-22/sb/5841/) - Incentivizing cities and counties to increase employment of commissioned law enforcement officers. (Remote testimony.)
@@ -87,9 +62,14 @@ Public Hearing
 * [2SHB 1664](/bill/2021-22/hb/1664/) - Concerning prototypical school formulas for physical, social, and emotional support in schools. (Remote testimony.) **88👍** **183👎** **4❓**
 
 Executive Session
+* [HB 1647](/bill/2021-22/hb/1647/) - Concerning the building for the arts program.
+* [HB 1765](/bill/2021-22/hb/1765/) - Ensuring the ongoing sustainability and vitality of the Washington health benefit exchange by eliminating the expiration date of its business and occupation tax exemption.
+* [ESHB 1699](/bill/2021-22/hb/1699/) - Permitting individuals retired from the public employees retirement system, the teachers retirement system, and the school employees retirement system additional opportunities to work for a school district for up to 1,040 hours per school year while in receipt of pension benefits until July 1, 2025.
+* [SHB 1701](/bill/2021-22/hb/1701/) - Concerning law enforcement officers' and firefighters' retirement system benefits.
+* [HB 1804](/bill/2021-22/hb/1804/) - Concerning interruptive military service credit for members of the state retirement systems.
 * [2SSB 5085](/bill/2021-22/sb/5085/) - Modifying the alternative fuel vehicle fee for electric motorcycles.
 
-Possible other business. Meeting is scheduled to end at 8:00 p.m.
+Possible other business. Meeting is scheduled to end at 7:00 p.m.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

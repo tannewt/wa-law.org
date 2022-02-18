@@ -8,7 +8,7 @@
 * [SB 5185](/bill/2021-22/sb/5185/) - Health care consent | Effective date 1/1/2022.
 * [SB 5307](/bill/2021-22/sb/5307/) - Pretrial release & detention | By resolution, reintroduced and retained in present status.
 * [SB 5489](/bill/2021-22/sb/5489/) - Business entities | First reading, referred to Civil Rights & Judiciary.
-* [SB 5490](/bill/2021-22/sb/5490/) - Interbranch advisory comm. | First reading, referred to State Government & Tribal Relations.
+* [SB 5490](/bill/2021-22/sb/5490/) - Interbranch advisory comm. | SGOV - Executive action taken by committee.
 * [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | First reading, referred to Civil Rights & Judiciary.
 * [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | First reading, referred to Transportation.
 * [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | First reading, referred to Finance.

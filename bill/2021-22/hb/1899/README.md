@@ -9,4 +9,4 @@ Concerning confidentiality of certain data shared with the department of financi
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Thu, Feb 17 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Public Hearing
+* Tue, Feb 22 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

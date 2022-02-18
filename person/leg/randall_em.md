@@ -15,13 +15,13 @@
 * [SB 5431](/bill/2021-22/sb/5431/) - Leg. internship scholarship | Effective date 7/25/2021.
 * [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows project | Passed to Rules Committee for second reading.
 * [SB 5551](/bill/2021-22/sb/5551/) - HIV antiviral drugs/medicaid | First reading, referred to Health & Long Term Care.
-* [SB 5614](/bill/2021-22/sb/5614/) - National guard ed. grants | Passed to Rules Committee for second reading.
+* [SB 5614](/bill/2021-22/sb/5614/) - National guard ed. grants | Senate Rules "X" file.
 * [SB 5622](/bill/2021-22/sb/5622/) - Motorcycles on laned roads | First reading, referred to Transportation.
 * [SJR 8204](/bill/2021-22/sjr/8204/) - School district bond voting | By resolution, reintroduced and retained in present status.
 * [SB 5688](/bill/2021-22/sb/5688/) - Health care marketplace | First reading, referred to Law & Justice.
 * [SB 5704](/bill/2021-22/sb/5704/) - ARNP reimbursement rate | Referred to Ways & Means.
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | First reading, referred to Appropriations.
-* [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Placed on second reading by Rules Committee.
+* [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Senate Rules "X" file.
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | First reading, referred to Labor & Workplace Standards.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | First reading, referred to Labor & Workplace Standards.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | First reading, referred to College & Workforce Development.
@@ -30,4 +30,4 @@
 * [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | First reading, referred to College & Workforce Development.
 * [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | First reading, referred to College & Workforce Development.
 * [SB 5901](/bill/2021-22/sb/5901/) - Economic dev. tax incentives | Referred to Ways & Means.
-* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.
+* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | First reading, referred to State Government & Tribal Relations.
