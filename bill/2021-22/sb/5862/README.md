@@ -1,15 +1,10 @@
 # SB 5862 - Commercial energy program
 **Primary Sponsor:** [Liz Lovelett](/person/leg/liz.lovelett.md)
 
-*Status: First reading, referred to Local Government.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5862&Year=2021)
+*Status: LG - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5862&Year=2021)
 
 Concerning technical changes to the commercial property assessed clean energy and resiliency program.
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Fri, Feb 18 at 8:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
-* Tue, Feb 22 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session
-* Wed, Feb 23 at 10:00 am - [House Local Government](/house/2021-22/LG/) Executive Session

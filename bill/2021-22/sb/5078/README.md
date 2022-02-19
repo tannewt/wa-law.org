@@ -9,6 +9,3 @@ Addressing firearm safety measures to increase public safety. (REVISED FOR ENGRO
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Fri, Feb 18 at 3:30 pm - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

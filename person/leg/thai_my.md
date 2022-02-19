@@ -9,11 +9,11 @@
 * [HB 1300](/bill/2021-22/hb/1300/) - Landlord damage claims | Referred to Rules 2 Review.
 * [HB 1445](/bill/2021-22/hb/1445/) - Definition of compounding | Effective date 7/25/2021.
 * [HB 1576](/bill/2021-22/hb/1576/) - Homeless individuals | By resolution, reintroduced and retained in present status.
-* [HB 1651](/bill/2021-22/hb/1651/) - Postpartum contraception | First reading, referred to Health & Long Term Care (Not Officially read and referred until adoption of Introduction report).
+* [HB 1651](/bill/2021-22/hb/1651/) - Postpartum contraception | Minority; without recommendation.
 * [HB 1670](/bill/2021-22/hb/1670/) - JARRC chair & vice chair | Referred to Rules 2 Review.
 * [HB 1713](/bill/2021-22/hb/1713/) - Rx drug cost sharing | First reading, referred to Health Care & Wellness.
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
-* [EHB 1784](/bill/2021-22/ehb/1784/) - License plate visibility | Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.
+* [EHB 1784](/bill/2021-22/ehb/1784/) - License plate visibility | First reading, referred to Transportation.
 * [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | First reading, referred to Health & Long Term Care.
 * [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
 * [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | First reading, referred to Ways & Means.

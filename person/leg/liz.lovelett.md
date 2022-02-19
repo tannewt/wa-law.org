@@ -12,6 +12,6 @@
 * [SB 5784](/bill/2021-22/sb/5784/) - Workers' comp/attending prov | Senate Rules "X" file.
 * [SB 5785](/bill/2021-22/sb/5785/) - Transitional food assistance | First reading, referred to Housing, Human Services & Veterans.
 * [SB 5855](/bill/2021-22/sb/5855/) - Campaign funds/child care | First reading, referred to State Government & Tribal Relations.
-* [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | First reading, referred to Local Government.
+* [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | LG - Majority; do pass.
 * [SB 5971](/bill/2021-22/sb/5971/) - Comprehensive plan/GMA | First reading, referred to Housing & Local Government.
 * [SB 5978](/bill/2021-22/sb/5978/) - Affordable housing funding | First reading, referred to Housing & Local Government.

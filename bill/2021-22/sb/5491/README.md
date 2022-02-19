@@ -7,6 +7,3 @@ Clarifying waiver of firearm rights.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Fri, Feb 18 at 3:30 pm - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

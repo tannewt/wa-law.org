@@ -14,17 +14,6 @@
 * [Mike Steele](/person/leg/mike.steele.md)
 * [Monica Jurado Stonier](/person/leg/monica.stonier.md)
 ## Upcoming Meetings
-### Fri, Feb 18 at 10:00 am
-Public Hearing
-* [SSB 5252](/bill/2021-22/sb/5252/) - Concerning school district consultation with local tribes. (Remote testimony.) **31👍** **0👎** **2❓**
-* [SSB 5497](/bill/2021-22/sb/5497/) - Extending voting authority to student members on the state board of education. (Remote testimony.)
-* [2SSB 5720](/bill/2021-22/sb/5720/) - Providing student financial literacy education. (Remote testimony.)
-* [ESSB 5878](/bill/2021-22/sb/5878/) - Clarifying visual and performing arts instruction. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 22 at 8:00 am
 Public Hearing
 * [SSB 5762](/bill/2021-22/sb/5762/) - Creating the purple star award. (Remote testimony.)

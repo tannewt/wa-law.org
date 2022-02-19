@@ -68,88 +68,6 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 
 ## Upcoming Meetings
-### Fri, Feb 18
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-18-2022/02-18-2022/Agenda///Bill/)
-#### 8:00 am
-**Early Learning & K-12 Education**
-Public Hearing
-* [HB 1611](/bill/2021-22/hb/1611/) - Advancing equity in programs for highly capable students. (Remote testimony.) **34👍** **1👎** **1❓**
-* [SHB 1644](/bill/2021-22/hb/1644/) - Permitting funds in the transportation vehicle fund to be used for electric and other clean pupil transportation vehicle feasibility planning and fueling station infrastructure. (Remote testimony.)
-* [HB 1833](/bill/2021-22/hb/1833/) - Establishing an electronic option for the submission of household income information required for participation in school meals and programs. (Remote testimony.)
-* [SHB 1941](/bill/2021-22/hb/1941/) - Prohibiting active shooter scenarios for school safety-related drills. (Remote testimony.) **101👍** **1👎** **2❓**
-* [HB 1974](/bill/2021-22/hb/1974/) - Moving state board of education and educational service district elections to the Washington state school directors' association. (Remote testimony.) **3👍** **259👎** **0❓**
-
-Executive Session
-* [SHB 1878](/bill/2021-22/hb/1878/) - Increasing public school participation in the community eligibility provision of the United States department of agriculture. **60👍** **0👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Health & Long Term Care**
-Public Hearing
-* [SHB 1616](/bill/2021-22/hb/1616/) - Concerning the charity care act. (Remote testimony.)
-* [ESHB 1881](/bill/2021-22/hb/1881/) - Creating a new health profession for birth doulas. (Remote testimony.) **343👍** **10👎** **0❓**
-* [ESHB 1852](/bill/2021-22/hb/1852/) - Concerning language requirements for prescription drug labels. (Remote testimony.)
-* [E2SHB 1688](/bill/2021-22/hb/1688/) - Protecting consumers from charges for out-of-network health care services, by aligning state law and the federal no surprises act and addressing coverage of treatment for emergency conditions. (Remote testimony.) **42👍** **18👎** **3❓**
-* [ESHB 1141](/bill/2021-22/hb/1141/) - Increasing access to the death with dignity act. (Remote testimony.)
-
-Executive Session
-* [SHB 1646](/bill/2021-22/hb/1646/) - Continuing the work of the dementia action collaborative. **61👍** **1👎** **0❓**
-* [HB 1651](/bill/2021-22/hb/1651/) - Allowing providers to bill separately for immediate postpartum contraception. **85👍** **0👎** **0❓**
-* [SHB 1675](/bill/2021-22/hb/1675/) - Exempting a manufacturer of certain dialysate and dialysis devices used by home dialysis patients or a manufacturer's agent from the pharmacy practices act and legend drug act. **6👍** **0👎** **0❓**
-* [SHB 1708](/bill/2021-22/hb/1708/) - Concerning facility fees for audio-only telemedicine. **10👍** **0👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-#### 10:30 am
-**Human Services, Reentry & Rehabilitation**
-Public Hearing
-* [2SHB 1905](/bill/2021-22/hb/1905/) - Reducing homelessness for youth and young adults discharging from a publicly funded system of care. (Remote testimony.) **57👍** **0👎** **0❓**
-* [ESHB 1048](/bill/2021-22/hb/1048/) - Concerning the removal of specific religious references regarding the criminal mistreatment of children and vulnerable adults from a statute. (Remote testimony.)
-* [SHB 2068](/bill/2021-22/hb/2068/) - Creating the imagination library of Washington program. (Remote testimony.) **91👍** **1👎** **2❓**
-* [E2SHB 2075](/bill/2021-22/hb/2075/) - Establishing service requirements for the department of social and health services. (Remote testimony.) **254👍** **0👎** **7❓**
-
-Executive Session
-* [SHB 1747](/bill/2021-22/hb/1747/) - Supporting relative placements in child welfare proceedings. **55👍** **0👎** **0❓**
-* [HB 1748](/bill/2021-22/hb/1748/) - Concerning aged, blind, or disabled program eligibility for victims of human trafficking. **74👍** **0👎** **0❓**
-* [HB 1755](/bill/2021-22/hb/1755/) - Concerning temporary assistance for needy families time limit extensions during times of high unemployment. **76👍** **0👎** **1❓**
-* [2SHB 1818](/bill/2021-22/hb/1818/) - Promoting successful reentry and rehabilitation of persons convicted of criminal offenses. **14👍** **0👎** **0❓**
-* [HB 1894](/bill/2021-22/hb/1894/) - Concerning the period for juvenile diversion agreements. **19👍** **0👎** **0❓**
-* [HB 1920](/bill/2021-22/hb/1920/) - Concerning investigations of child abuse or neglect at residential facilities. **18👍** **0👎** **1❓**
-* [SHB 1980](/bill/2021-22/hb/1980/) - Removing the prohibition on providing employment services and community access services concurrently. **83👍** **0👎** **2❓**
-* [2SHB 2008](/bill/2021-22/hb/2008/) - Eliminating the use of intelligence quotient scores in determining eligibility for programs and services for individuals with developmental disabilities. **96👍** **5👎** **4❓**
-* [SHB 2034](/bill/2021-22/hb/2034/) - Concerning juvenile records. **24👍** **20👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**State Government & Elections**
-Public Hearing
-* [ESHB 1329](/bill/2021-22/hb/1329/) - Concerning public meeting accessibility and participation. (Remote testimony.)
-* [ESHB 1629](/bill/2021-22/hb/1629/) - Concerning a comprehensive study of aerial imaging technology uses for state agencies, special purpose districts, and local and tribal governments. (Remote testimony.)
-* [EHB 1744](/bill/2021-22/hb/1744/) - Concerning collaborative arrangements between institutions of higher education and nonprofit private entities that provide comprehensive cancer care. (Remote testimony.)
-* [SHB 1876](/bill/2021-22/hb/1876/) - Concerning public investment impact disclosures for certain ballot measures that repeal, levy, or modify any tax or fee and have a fiscal impact statement that shows that adoption of the measure would cause a net change in state revenue. (Remote testimony.)
-* [HB 1953](/bill/2021-22/hb/1953/) - Exempting sensitive voter information on ballot return envelopes, ballot declarations, and signature correction forms from public disclosure. (Remote testimony.)
-* [ESHB 1956](/bill/2021-22/hb/1956/) - Exempting from public disclosure sensitive records pertaining to current and formerly incarcerated individuals' dignity and safety. (Remote testimony.)
-
-Executive Session
-* [ESHB 1041](/bill/2021-22/hb/1041/) - Concerning sunshine committee recommendations regarding juveniles. **5👍** **0👎** **1❓**
-* [SHB 1703](/bill/2021-22/hb/1703/) - Modernizing the statewide 911 emergency communications system. **51👍** **0👎** **0❓**
-* [SHB 2046](/bill/2021-22/hb/2046/) - Concerning ethics in public service rules governing certain legislative activity. **2👍** **0👎** **0❓**
-* [ESHB 1629](/bill/2021-22/hb/1629/) - Concerning a comprehensive study of aerial imaging technology uses for state agencies, special purpose districts, and local and tribal governments.
-* [EHB 1744](/bill/2021-22/hb/1744/) - Concerning collaborative arrangements between institutions of higher education and nonprofit private entities that provide comprehensive cancer care.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Behavioral Health Subcommittee to Health & Long Term Care**
- To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-21-2022/02-21-2022/Agenda///Bill/)
 #### 9:30 am
@@ -169,27 +87,40 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 Public Hearing
 * [E2SHB 1868](/bill/2021-22/hb/1868/) - Improving worker safety and patient care in health care facilities by addressing staffing needs, overtime, meal and rest breaks, and enforcement. (Remote testimony.) **2473👍** **103👎** **23❓**
 * [2SHB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. (Remote testimony.) **20👍** **37👎** **0❓**
-* [SHB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities. (Remote testimony.) (If measure is referred to committee.)
+* [SHB 1706](/bill/2021-22/hb/1706/) - Concerning truck drivers ability to access restroom facilities. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business. 
+Executive Session
+* [2SHB 1210](/bill/2021-22/hb/1210/) - Replacing the term "marijuana" with the term "cannabis" throughout the Revised Code of Washington. **11👍** **1👎** **1❓**
+* [SHB 1794](/bill/2021-22/hb/1794/) - Requiring an employer to reimburse employee fees when a paycheck is dishonored by nonacceptance or nonpayment. **18👍** **0👎** **0❓**
+* [SHB 1779](/bill/2021-22/hb/1779/) - Requiring policies addressing surgical smoke.
+
+Possible other business. 
 Meeting is scheduled to end at 11:30 a.m.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
-#### 1:30 pm
+#### 1:00 pm
 **Health & Long Term Care**
 Public Hearing
 * [SHB 1866](/bill/2021-22/hb/1866/) - Assisting persons receiving community support services through medical assistance programs to receive supportive housing.  (Remote testimony.) **135👍** **0👎** **0❓**
-* [ESHB 1689](/bill/2021-22/hb/1689/) - Exempting biomarker testing from prior authorization for patients with late stage cancer. (Remote testimony.)
-* [SHB 1893](/bill/2021-22/hb/1893/) - Allowing emergency medical technicians to provide medical evaluation, testing, and vaccines outside of an emergency in response to a public health agency request. (Remote testimony.) **19👍** **1👎** **1❓**
 * [EHB 1851](/bill/2021-22/hb/1851/) - Preserving a pregnant individual's ability to access abortion care. (Remote testimony.)
+* [E2SHB 1688](/bill/2021-22/hb/1688/) - Protecting consumers from charges for out-of-network health care services, by aligning state law and the federal no surprises act and addressing coverage of treatment for emergency conditions. (Remote testimony.) **42👍** **18👎** **3❓**
+* [SHB 1893](/bill/2021-22/hb/1893/) - Allowing emergency medical technicians to provide medical evaluation, testing, and vaccines outside of an emergency in response to a public health agency request. (Remote testimony.) **19👍** **1👎** **1❓**
 * [SHB 1728](/bill/2021-22/hb/1728/) - Reauthorizing and amending dates for the total cost of insulin work group. (Remote testimony.) **46👍** **0👎** **0❓**
+* [ESHB 1689](/bill/2021-22/hb/1689/) - Exempting biomarker testing from prior authorization for patients with late stage cancer. (Remote testimony.)
+* [HB 1739](/bill/2021-22/hb/1739/) - Modernizing hospital policies related to pathogens of epidemiological concern. (Remote testimony.)
 * [ESHB 1821](/bill/2021-22/hb/1821/) - Concerning the definition of established relationship for purposes of audio-only telemedicine. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [SHB 1616](/bill/2021-22/hb/1616/) - Concerning the charity care act. **250👍** **2👎** **0❓**
+* [ESHB 1881](/bill/2021-22/hb/1881/) - Creating a new health profession for birth doulas. **343👍** **10👎** **0❓**
+* [ESHB 1852](/bill/2021-22/hb/1852/) - Concerning language requirements for prescription drug labels.
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
+#### 1:30 pm
 **Early Learning & K-12 Education**
 Public Hearing
 * [E2SHB 1162](/bill/2021-22/hb/1162/) - Creating new graduation credit and pathway options. (Remote testimony.)
@@ -244,7 +175,7 @@ Public Hearing
 * [ESHB 1650](/bill/2021-22/hb/1650/) - Concerning commercial solicitation. (Remote testimony.)
 * [ESHB 1930](/bill/2021-22/hb/1930/) - Concerning license renewals for cosmetologists, hair designers, barbers, manicurists, and estheticians. (Remote testimony.) **12👍** **1👎** **2❓**
 * [SHB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. (Remote testimony.) **8👍** **76👎** **0❓**
-* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation. (Remote testimony.) (If measure is referred to committee.)
+* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation. (Remote testimony.)
 * [HB 1704](/bill/2021-22/hb/1704/) - Regulating service contracts and protection product guarantees. (Remote testimony.)
 
 Executive Session
@@ -273,23 +204,6 @@ Possible executive session on bills heard in committee. Possible other business.
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:30 am
-**Environment, Energy & Technology**
-Public Hearing
-* [EHB 1964](/bill/2021-22/hb/1964/) - Concerning the decommissioning of alternative energy facilities. (Remote testimony.) **4👍** **0👎** **2❓**
-* [E2SHB 1691](/bill/2021-22/hb/1691/) - Concerning financial responsibility requirements related to oil spills. (Remote testimony.) **47👍** **2👎** **2❓**
-* [ESHB 1694](/bill/2021-22/hb/1694/) - Concerning logistical processes for the regulation of priority chemicals in consumer products. (Remote testimony.) **8👍** **126👎** **1❓**
-* [SHB 1684](/bill/2021-22/hb/1684/) - Concerning public health and fluoridation of drinking water. (Remote testimony.) **417👍** **93👎** **2❓**
-
-Executive Session
-* [ESHB 1753](/bill/2021-22/hb/1753/) - Concerning tribal consultation regarding the use of certain funding authorized by the climate commitment act. **53👍** **132👎** **3❓**
-* [HB 1978](/bill/2021-22/hb/1978/) - Concerning shoreline master program review schedules. **10👍** **0👎** **0❓**
-* [SHB 1623](/bill/2021-22/hb/1623/) - Addressing the extent to which Washington residents are at risk of rolling blackouts and power supply inadequacy events. **85👍** **1👎** **0❓**
-* [ESHB 1673](/bill/2021-22/hb/1673/) - Concerning broadband infrastructure loans and grants made by the public works board. **20👍** **0👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Law & Justice**
 Public Hearing
 * [SHB 1901](/bill/2021-22/hb/1901/) - Updating laws concerning civil protection orders to further enhance and improve their efficacy and accessibility. (Remote testimony.)
@@ -299,6 +213,22 @@ Work Session
 * Tort Awards.
 
 Possible executive session on bills heard in committee. Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Environment, Energy & Technology**
+Public Hearing
+* [E2SHB 1691](/bill/2021-22/hb/1691/) - Concerning financial responsibility requirements related to oil spills. (Remote testimony.) **47👍** **2👎** **2❓**
+* [ESHB 1694](/bill/2021-22/hb/1694/) - Concerning logistical processes for the regulation of priority chemicals in consumer products. (Remote testimony.) **8👍** **126👎** **1❓**
+
+Executive Session
+* [ESHB 1753](/bill/2021-22/hb/1753/) - Concerning tribal consultation regarding the use of certain funding authorized by the climate commitment act. **53👍** **132👎** **3❓**
+* [HB 1978](/bill/2021-22/hb/1978/) - Concerning shoreline master program review schedules. **10👍** **0👎** **0❓**
+* [SHB 1623](/bill/2021-22/hb/1623/) - Addressing the extent to which Washington residents are at risk of rolling blackouts and power supply inadequacy events. **85👍** **1👎** **0❓**
+* [ESHB 1673](/bill/2021-22/hb/1673/) - Concerning broadband infrastructure loans and grants made by the public works board. **20👍** **0👎** **0❓**
+* [ESHB 1619](/bill/2021-22/hb/1619/) - Concerning appliance efficiency standards. **230👍** **64👎** **1❓**
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -317,7 +247,7 @@ Executive Session
 * [HB 1780](/bill/2021-22/hb/1780/) - Concerning workforce education investment accountability and oversight board staffing changes. **5👍** **0👎** **0❓**
 * [2SHB 1835](/bill/2021-22/hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment. **113👍** **38👎** **0❓**
 * [HB 1622](/bill/2021-22/hb/1622/) - Increasing the availability of sexual assault nurse examiner education in rural and underserved areas. **23👍** **0👎** **0❓**
-* [E2SHB 1736](/bill/2021-22/hb/1736/) - Establishing a state student loan program. (If measure is referred to committee.) **51👍** **58👎** **3❓**
+* [E2SHB 1736](/bill/2021-22/hb/1736/) - Establishing a state student loan program. **51👍** **58👎** **3❓**
 
 Possible other business.
 
@@ -335,10 +265,15 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 **Human Services, Reentry & Rehabilitation**
 Public Hearing
-* [E2SHB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members. (Remote testimony.) (If measure is referred to committee.) **13👍** **0👎** **1❓**
+* [E2SHB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members. (Remote testimony.) **13👍** **0👎** **1❓**
 
 Executive Session
-* Bills to be determined.
+* [ESHB 1048](/bill/2021-22/hb/1048/) - Concerning the removal of specific religious references regarding the criminal mistreatment of children and vulnerable adults from a statute.
+* [2SHB 1905](/bill/2021-22/hb/1905/) - Reducing homelessness for youth and young adults discharging from a publicly funded system of care. **253👍** **0👎** **0❓**
+* [2SHB 2008](/bill/2021-22/hb/2008/) - Eliminating the use of intelligence quotient scores in determining eligibility for programs and services for individuals with developmental disabilities. **96👍** **5👎** **4❓**
+* [SHB 2034](/bill/2021-22/hb/2034/) - Concerning juvenile records. **24👍** **20👎** **0❓**
+* [SHB 2068](/bill/2021-22/hb/2068/) - Creating the imagination library of Washington program. **91👍** **1👎** **2❓**
+* [E2SHB 2075](/bill/2021-22/hb/2075/) - Establishing service requirements for the department of social and health services. **254👍** **0👎** **7❓**
 
 Possible other business.
 
@@ -376,7 +311,7 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 Public Hearing
 * [SHB 1984](/bill/2021-22/hb/1984/) - Protecting privacy of addresses related to vehicle registration certificates. (Remote testimony.) **0👍** **0👎** **2❓**
 * [HB 2074](/bill/2021-22/hb/2074/) - Concerning fees collected from out-of-state residents who register off-road vehicles in Washington. (Remote testimony.) **9👍** **0👎** **0❓**
-* [EHB 1784](/bill/2021-22/hb/1784/) - Establishing an exception to the requirement that vehicle license plates be visible at all times for vehicles using certain cargo carrying devices. (Remote testimony.) (If measure is referred to committee.)
+* [EHB 1784](/bill/2021-22/hb/1784/) - Establishing an exception to the requirement that vehicle license plates be visible at all times for vehicles using certain cargo carrying devices. (Remote testimony.)
 
 Possible executive session on bills heard in committee. Possible other business.
 
@@ -385,14 +320,6 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 ### Wed, Feb 23
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/02-23-2022/02-23-2022/Agenda///Bill/)
 #### 8:00 am
-**Environment, Energy & Technology**
-Executive Session
-* Bills to be determined.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Health & Long Term Care**
 Executive Session
 * Bill to be determined.
@@ -412,20 +339,30 @@ Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
+**Environment, Energy & Technology**
+Public Hearing
+* [E2SHB 1723](/bill/2021-22/hb/1723/) - Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training. (Remote testimony.) **188👍** **1👎** **2❓**
+
+Executive Session
+* [E2SHB 1799](/bill/2021-22/hb/1799/) - Concerning organic materials management. **136👍** **4👎** **1❓**
+* [E2SHB 1812](/bill/2021-22/hb/1812/) - Modernizing the energy facility site evaluation council to meet the state's clean energy goals. **100👍** **31👎** **7❓**
+* [ESHB 1770](/bill/2021-22/hb/1770/) - Strengthening energy codes.
+* [HB 1280](/bill/2021-22/hb/1280/) - Concerning greenhouse gas emissions reductions in the design of public facilities. **293👍** **85👎** **0❓**
+* [E2SHB 1663](/bill/2021-22/hb/1663/) - Reducing methane emissions from landfills. **239👍** **186👎** **9❓**
+* [E2SHB 1691](/bill/2021-22/hb/1691/) - Concerning financial responsibility requirements related to oil spills. **47👍** **2👎** **2❓**
+* [ESHB 1694](/bill/2021-22/hb/1694/) - Concerning logistical processes for the regulation of priority chemicals in consumer products. **8👍** **126👎** **1❓**
+* [SHB 1768](/bill/2021-22/hb/1768/) - Updating definitions applicable to energy conservation projects involving public entities. **42👍** **25👎** **1❓**
+
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
 #### 10:30 am
 **Early Learning & K-12 Education**
 Executive Session
 * Bills to be determined.
 
 Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Labor, Commerce & Tribal Affairs**
-Public Hearing
-* [EHB 1837](/bill/2021-22/hb/1837/) - Restoring the state's ability to address work-related musculoskeletal injuries. (Remote testimony.)
-
-Possible executive session on bills heard in committee. Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -445,6 +382,19 @@ Executive Session
 * [SHB 1717](/bill/2021-22/hb/1717/) - Concerning tribal participation in planning under the growth management act. **26👍** **3👎** **0❓**
 * [SHB 1724](/bill/2021-22/hb/1724/) - Ensuring oversight and coordination of permanent supportive housing resources to maximize the creation of high quality housing opportunities for people living with disabling conditions in communities across Washington. **56👍** **0👎** **0❓**
 * [ESHB 2064](/bill/2021-22/hb/2064/) - Concerning security deposits and damages arising out of residential tenancies. **5👍** **41👎** **2❓**
+
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Labor, Commerce & Tribal Affairs**
+Public Hearing
+* [EHB 1837](/bill/2021-22/hb/1837/) - Restoring the state's ability to address work-related musculoskeletal injuries. (Remote testimony.)
+
+Executive Session
+* [SHB 1902](/bill/2021-22/hb/1902/) - Providing an exception to the process for reopening a workers' compensation claim when the claimant submits a reopening application in a timely manner. **1👍** **1👎** **1❓**
+* [3SHB 1359](/bill/2021-22/hb/1359/) - Temporarily reducing liquor license fees.
+* [ESHB 1795](/bill/2021-22/hb/1795/) - Prohibiting nondisclosure and nondisparagement provisions from employers regarding illegal acts of discrimination, harassment, retaliation, wage and hour violations, and sexual assault. **83👍** **20👎** **0❓**
 
 Possible other business.
 
@@ -506,14 +456,6 @@ Possible other business.
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:30 am
-**Environment, Energy & Technology**
-Executive Session
-* Bills to be determined.
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Law & Justice**
 Executive Session
 * [SHB 1615](/bill/2021-22/hb/1615/) - Concerning the sale of cosmetics tested on animals. **93👍** **0👎** **0❓**
@@ -533,6 +475,14 @@ Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
+**Environment, Energy & Technology**
+Executive Session
+* [E2SHB 1723](/bill/2021-22/hb/1723/) - Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training. **188👍** **1👎** **2❓**
+
+Possible other business.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
 #### 1:30 pm
 **Higher Education & Workforce Development**
 Executive Session
@@ -545,8 +495,15 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 **Agriculture, Water, Natural Resources & Parks**
 Public Hearing
 * [SJM 8009](/bill/2021-22/jm/8009/) - Calling for a national biodiversity strategy. (Remote testimony.)
+* [SGA 9100](/bill/2021-22/ga/9100/) - Molly F Linville, Member, Fish and Wildlife Commission.
+* [SGA 9101](/bill/2021-22/ga/9101/) - James R Anderson, Member, Fish and Wildlife Commission.
+* [SGA 9250](/bill/2021-22/ga/9250/) - Lorna Smith, Member, Fish and Wildlife Commission.
+* [SGA 9402](/bill/2021-22/ga/9402/) - Timothy J Ragen, Member, Fish and Wildlife Commission.
+* [SGA 9404](/bill/2021-22/ga/9404/) - John F Lehmkuhl, Member, Fish and Wildlife Commission.
+* [SGA 9405](/bill/2021-22/ga/9405/) - Melanie J Rowland, Member, Fish and Wildlife Commission.
 
 Executive Session
+* [HB 1172](/bill/2021-22/hb/1172/) - Recognizing judicially affirmed and treaty-reserved fishing rights and promoting state-tribal cooperative agreements in the management of salmon, trout, and steelhead resources. **35👍** **1👎** **0❓**
 * [SHB 1626](/bill/2021-22/hb/1626/) - Updating the authority for the fish and wildlife commission to adopt rules implementing electronic licensing practices. **2👍** **0👎** **1❓**
 * [SHB 1649](/bill/2021-22/hb/1649/) - Concerning the advisory committee on hunters and fishers with disabilities.
 * [SHB 2051](/bill/2021-22/hb/2051/) - Providing short-term disaster recovery financial assistance to agricultural producers. **3👍** **0👎** **0❓**
@@ -557,7 +514,7 @@ See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee m
 
 **Human Services, Reentry & Rehabilitation**
 Executive Session
-* Bills to be determined.
+* [E2SHB 1181](/bill/2021-22/hb/1181/) - Establishing programs and measures to prevent suicide among veterans and military members. **13👍** **0👎** **1❓**
 
 Possible other business.
 

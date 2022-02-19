@@ -9,3 +9,6 @@ Strengthening energy codes.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

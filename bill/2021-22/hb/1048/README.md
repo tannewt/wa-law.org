@@ -11,4 +11,4 @@ Concerning the removal of specific religious references regarding the criminal m
 * [Engrossed Substitute](S.E/)
 
 ## Upcoming Meetings
-* Fri, Feb 18 at 10:30 am - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Public Hearing
+* Tue, Feb 22 at 1:30 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Executive Session

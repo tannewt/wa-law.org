@@ -16,6 +16,6 @@
 * [SB 5677](/bill/2021-22/sb/5677/) - Law enf. serious misconduct | First reading, referred to Law & Justice.
 * [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | First reading, referred to Environment & Energy.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
-* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | CPB - Executive action taken by committee.
+* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | Minority; do not pass.
 * [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | First reading, referred to Environment & Energy.
 * [SB 5976](/bill/2021-22/sb/5976/) - Substance use intervention | First reading, referred to Law & Justice.

@@ -8,3 +8,6 @@ Requiring an employer to reimburse employee fees when a paycheck is dishonored b
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Mon, Feb 21 at 9:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

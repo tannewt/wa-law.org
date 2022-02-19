@@ -8,3 +8,6 @@ Providing an exception to the process for reopening a workers' compensation clai
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Wed, Feb 23 at 10:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

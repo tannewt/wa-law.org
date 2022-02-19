@@ -9,3 +9,6 @@ Concerning appliance efficiency standards.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 10:30 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

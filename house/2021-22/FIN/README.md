@@ -23,7 +23,10 @@ Public Hearing
 * [SB 5868](/bill/2021-22/sb/5868/) - Expanding the use of the rural counties public facilities sales and use tax to include affordable workforce housing. (Remote testimony.) **23👍** **0👎** **0❓**
 * [SB 5713](/bill/2021-22/sb/5713/) - Providing a property tax exemption for limited equity cooperative housing. (Remote testimony.) **8👍** **79👎** **0❓**
 * [ESB 5832](/bill/2021-22/sb/5832/) - Expanding the multifamily tax exemption program to include converting existing multifamily units. (Remote testimony.) **22👍** **45👎** **1❓**
-* [ESSB 5004](/bill/2021-22/sb/5004/) - Providing a tax exemption for medical marijuana patients. (Remote testimony.)
+* [SB 5823](/bill/2021-22/sb/5823/) - Addressing local infrastructure project areas. (Remote testimony.)
+
+Executive Session
+* [SHB 1814](/bill/2021-22/hb/1814/) - Expanding equitable access to the benefits of renewable energy through community solar projects. **173👍** **8👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -34,6 +37,7 @@ Public Hearing
 * [ESSB 5531](/bill/2021-22/sb/5531/) - Concerning the revised uniform unclaimed property act. (Remote testimony.)
 * [ESB 5800](/bill/2021-22/sb/5800/) - Modifying tax and revenue laws in a manner that is estimated to not affect state or local tax collections by easing compliance burdens for taxpayers, clarifying ambiguities, making technical corrections, and providing administrative efficiencies. (Remote testimony.) **2👍** **0👎** **1❓**
 * [SB 5505](/bill/2021-22/sb/5505/) - Reinstating a property tax exemption for property owned by certain nonprofit organizations where a portion of the property is used for the purpose of a farmers market. (Remote testimony.) **87👍** **0👎** **1❓**
+* [ESSB 5004](/bill/2021-22/sb/5004/) - Providing a tax exemption for medical marijuana patients. (Remote testimony.)
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

@@ -11,5 +11,4 @@ Conserving and restoring kelp forests and eelgrass meadows in Washington state.
 * [Second Substitute](S2/)
 
 ## Upcoming Meetings
-* Fri, Feb 18 at 8:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Public Hearing
 * Wed, Feb 23 at 10:00 am - [House Rural Development, Agriculture & Natural Resources](/house/2021-22/RDAN/) Executive Session

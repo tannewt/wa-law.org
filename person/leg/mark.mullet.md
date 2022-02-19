@@ -13,7 +13,7 @@
 * [SB 5474](/bill/2021-22/sb/5474/) - Agency data backup/disasters | By resolution, reintroduced and retained in present status.
 * [SB 5475](/bill/2021-22/sb/5475/) - Controlled subst. possession | By resolution, reintroduced and retained in present status.
 * [SB 5541](/bill/2021-22/sb/5541/) - Newspapers/B&O tax | First reading, referred to Business, Financial Services & Trade.
-* [SB 5602](/bill/2021-22/sb/5602/) - Service providers/financial | CPB - Executive action taken by committee.
+* [SB 5602](/bill/2021-22/sb/5602/) - Service providers/financial | CPB - Majority; do pass.
 * [SB 5606](/bill/2021-22/sb/5606/) - A/C in adult family homes | Referred to Ways & Means.
 * [SB 5611](/bill/2021-22/sb/5611/) - Long-term care/veterans | First reading, referred to Health & Long Term Care.
 * [SB 5623](/bill/2021-22/sb/5623/) - Credit history/insurance | First reading, referred to Business, Financial Services & Trade.

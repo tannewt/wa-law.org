@@ -8,3 +8,7 @@ Implementing the recommendations of the Washington state internet crimes against
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 8:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session
+* Thu, Feb 24 at 10:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session

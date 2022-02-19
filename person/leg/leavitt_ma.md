@@ -11,7 +11,7 @@
 * [HB 1593](/bill/2021-22/hb/1593/) - Landlord mitigation/victims | First reading, referred to Housing & Local Government.
 * [HB 1601](/bill/2021-22/hb/1601/) - Student homelessness pilot | Referred to Appropriations.
 * [HB 1620](/bill/2021-22/hb/1620/) - Extreme weather events | First reading, referred to State Government & Elections.
-* [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | First reading, referred to Higher Education & Workforce Development.
+* [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | Passed to Rules Committee for second reading.
 * [HB 1650](/bill/2021-22/hb/1650/) - Commercial solicitation | First reading, referred to Business, Financial Services & Trade.
 * [HB 1697](/bill/2021-22/hb/1697/) - Online services/minors | Referred to Appropriations.
 * [HB 1751](/bill/2021-22/hb/1751/) - Hazing prevention | First reading, referred to Higher Education & Workforce Development.

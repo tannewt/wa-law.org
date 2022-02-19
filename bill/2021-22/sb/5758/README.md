@@ -9,3 +9,7 @@ Concerning condominium conversions.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 8:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Public Hearing
+* Thu, Feb 24 at 10:00 am - [House Housing, Human Services & Veterans](/house/2021-22/HHSV/) Executive Session

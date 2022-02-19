@@ -9,3 +9,6 @@ Replacing the term "marijuana" with the term "cannabis" throughout the Revised C
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Mon, Feb 21 at 9:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

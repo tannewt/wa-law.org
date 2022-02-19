@@ -7,3 +7,6 @@ Addressing local infrastructure project areas.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Feb 21 at 10:00 am - [House Finance](/house/2021-22/FIN/) Public Hearing

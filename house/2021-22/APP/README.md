@@ -52,6 +52,7 @@ Public Hearing
 * [SB 5634](/bill/2021-22/sb/5634/) - Updating the utilities and transportation commission's regulatory fees. (Remote testimony.)
 * [SB 5676](/bill/2021-22/sb/5676/) - Providing a benefit increase to certain retirees of the public employees' retirement system plan 1 and the teachers' retirement system plan 1. (Remote testimony.)
 * [SSB 5728](/bill/2021-22/sb/5728/) - Concerning the state's portion of civil asset forfeiture collections. (Remote testimony.)
+* [2SSB 5736](/bill/2021-22/sb/5736/) - Concerning partial hospitalizations and intensive outpatient treatment services for minors. (Remote testimony.)
 * [SB 5748](/bill/2021-22/sb/5748/) - Concerning disability benefits in the public safety employees' retirement system. (Remote testimony.)
 * [SSB 5791](/bill/2021-22/sb/5791/) - Concerning law enforcement officers' and firefighters' retirement system benefits. (Remote testimony.)
 * [E2SSB 5796](/bill/2021-22/sb/5796/) - Restructuring cannabis revenue appropriations. (Remote testimony.) **20👍** **17👎** **0❓**

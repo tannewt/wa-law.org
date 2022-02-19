@@ -11,4 +11,4 @@ Concerning employer requirements for providing wage and salary information to ap
 * [Engrossed Substitute](S.E/)
 
 ## Upcoming Meetings
-* Fri, Feb 18 at 8:00 am - [House Labor & Workplace Standards](/house/2021-22/LAWS/) Executive Session
+* Tue, Feb 22 at 10:00 am - [House Labor & Workplace Standards](/house/2021-22/LAWS/) Executive Session

@@ -23,7 +23,7 @@
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | First reading, referred to Appropriations.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Senate Rules "X" file.
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | First reading, referred to Labor & Workplace Standards.
-* [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | First reading, referred to Labor & Workplace Standards.
+* [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | LAWS - Majority; do pass.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | First reading, referred to College & Workforce Development.
 * [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | First reading, referred to Health Care & Wellness.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.

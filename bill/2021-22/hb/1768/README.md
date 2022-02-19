@@ -8,3 +8,6 @@ Updating definitions applicable to energy conservation projects involving public
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

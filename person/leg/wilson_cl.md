@@ -11,7 +11,7 @@
 * [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | First reading, referred to Education.
 * [SB 5498](/bill/2021-22/sb/5498/) - Posthumous H.S. diplomas | First reading, referred to Education.
 * [SB 5535](/bill/2021-22/sb/5535/) - Juvenile rehab./parent costs | Senate Rules "X" file.
-* [SB 5553](/bill/2021-22/sb/5553/) - Early STEM metrics | CYF - Executive action taken by committee.
+* [SB 5553](/bill/2021-22/sb/5553/) - Early STEM metrics | Minority; without recommendation.
 * [SB 5572](/bill/2021-22/sb/5572/) - Internet crimes/children | First reading, referred to Public Safety.
 * [SB 5588](/bill/2021-22/sb/5588/) - Reentry & discharge planning | Referred to Ways & Means.
 * [SB 5592](/bill/2021-22/sb/5592/) - Cost of supervision | Senate Rules "X" file.

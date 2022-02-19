@@ -14,20 +14,6 @@
 * [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 * [Vandana Slatter](/person/leg/vandana.slatter.md)
 ## Upcoming Meetings
-### Fri, Feb 18 at 10:00 am
-Public Hearing
-* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. (Remote testimony.)
-* [SB 5747](/bill/2021-22/sb/5747/) - Concerning the statewide master oil and hazardous substance spill prevention and contingency plan. (Remote testimony.)
-* [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. (Remote testimony.) **26👍** **72👎** **5❓**
-* [SB 5585](/bill/2021-22/sb/5585/) - Setting domestic wastewater discharge fees. (Remote testimony.)
-
-Executive Session
-* [SB 5747](/bill/2021-22/sb/5747/) - Concerning the statewide master oil and hazardous substance spill prevention and contingency plan.
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Tue, Feb 22 at 8:00 am
 Public Hearing
 * [SSB 5678](/bill/2021-22/sb/5678/) - Concerning energy transformation, nonemitting electric generation, and renewable resource project analysis and declaratory orders. (Remote testimony.)
@@ -41,7 +27,7 @@ Executive Session
 * [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. **22👍** **0👎** **0❓**
 * [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. **26👍** **72👎** **5❓**
 * [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. **1520👍** **121👎** **3❓**
-* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory.
+* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. **133👍** **0👎** **1❓**
 * [SB 5585](/bill/2021-22/sb/5585/) - Setting domestic wastewater discharge fees.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.

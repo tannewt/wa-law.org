@@ -15,7 +15,7 @@ Public Hearing
 * [ESHB 1650](/bill/2021-22/hb/1650/) - Concerning commercial solicitation. (Remote testimony.)
 * [ESHB 1930](/bill/2021-22/hb/1930/) - Concerning license renewals for cosmetologists, hair designers, barbers, manicurists, and estheticians. (Remote testimony.) **12👍** **1👎** **2❓**
 * [SHB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. (Remote testimony.) **8👍** **76👎** **0❓**
-* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation. (Remote testimony.) (If measure is referred to committee.)
+* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation. (Remote testimony.)
 * [HB 1704](/bill/2021-22/hb/1704/) - Regulating service contracts and protection product guarantees. (Remote testimony.)
 
 Executive Session

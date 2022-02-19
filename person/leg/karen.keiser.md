@@ -19,11 +19,11 @@
 * [SB 5533](/bill/2021-22/sb/5533/) - Online marketplaces | First reading, referred to Environment, Energy & Technology.
 * [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | First reading, referred to Health Care & Wellness.
 * [SB 5547](/bill/2021-22/sb/5547/) - Marijuana products | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | First reading, referred to Labor & Workplace Standards.
+* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | LAWS - Executive action taken by committee.
 * [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | First reading, referred to College & Workforce Development.
 * [SB 5604](/bill/2021-22/sb/5604/) - Contractor licensing refs | Senate Rules "X" file.
 * [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.
 * [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | First reading, referred to Labor & Workplace Standards.
 * [SB 5840](/bill/2021-22/sb/5840/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
-* [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | First reading, referred to Labor & Workplace Standards.
+* [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | LAWS - Majority; do pass.
 * [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | First reading, referred to Labor & Workplace Standards.

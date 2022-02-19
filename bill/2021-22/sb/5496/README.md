@@ -10,4 +10,5 @@ Concerning health professional monitoring programs.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
+* Mon, Feb 21 at 1:30 pm - [House Health Care & Wellness](/house/2021-22/HCW/) Executive Session
 * Wed, Feb 23 at 8:00 am - [House Health Care & Wellness](/house/2021-22/HCW/) Executive Session

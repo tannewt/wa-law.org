@@ -25,6 +25,14 @@ Public Hearing
 * [SB 5866](/bill/2021-22/sb/5866/) - Concerning medicaid long-term services and supports eligibility determinations completed by federally recognized Indian tribes. (Remote testimony.) **14👍** **0👎** **0❓**
 * [SSB 5900](/bill/2021-22/sb/5900/) - Creating a provisional certification for emergency medical services providers under chapters 18.71 and 18.73 RCW. (Remote testimony.)
 
+Executive Session
+* [SSB 5496](/bill/2021-22/sb/5496/) - Concerning health professional monitoring programs. **15👍** **0👎** **0❓**
+* [SB 5499](/bill/2021-22/sb/5499/) - Concerning credentialing of medical assistant-hemodialysis technicians. **6👍** **0👎** **0❓**
+* [SB 5508](/bill/2021-22/sb/5508/) - Concerning the insurance guaranty fund. **17👍** **1👎** **0❓**
+* [SB 5518](/bill/2021-22/sb/5518/) - Concerning the occupational therapy licensure compact. **294👍** **1👎** **0❓**
+* [SSB 5821](/bill/2021-22/sb/5821/) - Evaluating the state's cardiac and stroke emergency response system.
+* [SSB 5892](/bill/2021-22/sb/5892/) - Establishing pilot projects for utilizing high school student nursing assistant-certified programs to address the nursing workforce shortage and promote nursing careers in rural hospitals.
+
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

@@ -5,9 +5,9 @@
 * [HB 1306](/bill/2021-22/hb/1306/) - School boards/bond training | Referred to Education.
 * [HB 1492](/bill/2021-22/hb/1492/) - Unempl. extended benefits | House Rules "X" file.
 * [HB 1493](/bill/2021-22/hb/1493/) - Job search monitoring | Effective date 4/16/2021.
-* [HB 1612](/bill/2021-22/hb/1612/) - Unemployment ins./technical | LCTA - Majority; do pass.
-* [HB 1613](/bill/2021-22/hb/1613/) - Employer reports/private | LCTA - Majority; do pass.
-* [HB 1706](/bill/2021-22/hb/1706/) - Truck drivers/restrooms | First reading, referred to Transportation.
+* [HB 1612](/bill/2021-22/hb/1612/) - Unemployment ins./technical | Passed to Rules Committee for second reading.
+* [HB 1613](/bill/2021-22/hb/1613/) - Employer reports/private | Passed to Rules Committee for second reading.
+* [HB 1706](/bill/2021-22/hb/1706/) - Truck drivers/restrooms | Referred to Labor, Commerce & Tribal Affairs.
 * [HB 1764](/bill/2021-22/hb/1764/) - Physician bargaining | Referred to Rules 2 Review.
 * [HB 1776](/bill/2021-22/hb/1776/) - High-hazard facility wages | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1811](/bill/2021-22/hb/1811/) - Fire benefit charges | Referred to Rules 2 Review.

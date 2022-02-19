@@ -7,7 +7,7 @@
 * [HB 1160](/bill/2021-22/hb/1160/) - Health provider contracts | Referred to Health Care & Wellness.
 * [HB 1316](/bill/2021-22/hb/1316/) - Hospital safety net assess. | Effective date 7/25/2021.
 * [HB 1688](/bill/2021-22/hb/1688/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
-* [HB 1708](/bill/2021-22/hb/1708/) - Audio-only telemed fac fees | First reading, referred to Health & Long Term Care (Not Officially read and referred until adoption of Introduction report).
+* [HB 1708](/bill/2021-22/hb/1708/) - Audio-only telemed fac fees | Minority; without recommendation.
 * [HB 1741](/bill/2021-22/hb/1741/) - Health provider contracting | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1757](/bill/2021-22/hb/1757/) - ESDs/PEBB health plans | First reading, referred to Appropriations.
 * [HB 1885](/bill/2021-22/hb/1885/) - Dental therapy | First reading, referred to Health Care & Wellness.

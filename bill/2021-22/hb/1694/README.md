@@ -21,3 +21,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Tue, Feb 22 at 10:30 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Public Hearing
+* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

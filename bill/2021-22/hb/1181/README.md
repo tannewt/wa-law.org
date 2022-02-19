@@ -1,7 +1,7 @@
 # HB 1181 - Veterans & military suicide
 **Primary Sponsor:** [Tina Orwall](/person/leg/tina.orwall.md)
 
-*Status: Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1181&Year=2021)
+*Status: First reading, referred to Human Services, Reentry & Rehabilitation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1181&Year=2021)
 
 Establishing programs and measures to prevent suicide among veterans and military members.
 
@@ -22,3 +22,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Tue, Feb 22 at 1:30 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Public Hearing
+* Thu, Feb 24 at 1:30 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Executive Session

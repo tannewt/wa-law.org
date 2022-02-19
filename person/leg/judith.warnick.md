@@ -11,7 +11,7 @@
 * [SB 5375](/bill/2021-22/sb/5375/) - Low-income housing assist. | Senate Rules "X" file.
 * [SB 5384](/bill/2021-22/sb/5384/) - Volunteer firefighters | Effective date 4/16/2021.
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
-* [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | First reading, referred to Community & Economic Development.
+* [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | CED - Majority; do pass.
 * [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.

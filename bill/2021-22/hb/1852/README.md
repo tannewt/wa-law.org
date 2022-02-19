@@ -11,4 +11,4 @@ Concerning language requirements for prescription drug labels.
 * [Engrossed Substitute](S.E/)
 
 ## Upcoming Meetings
-* Fri, Feb 18 at 8:00 am - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Public Hearing
+* Mon, Feb 21 at 1:00 pm - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Executive Session

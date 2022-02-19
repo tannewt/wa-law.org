@@ -9,6 +9,3 @@ Concerning firearms on the capitol campus for the sole purpose of organized memo
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Fri, Feb 18 at 3:30 pm - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

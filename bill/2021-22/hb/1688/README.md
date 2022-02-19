@@ -12,4 +12,4 @@ Protecting consumers from charges for out-of-network health care services, by al
 * [Engrossed Second Substitute](S2.E/)
 
 ## Upcoming Meetings
-* Fri, Feb 18 at 8:00 am - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Public Hearing
+* Mon, Feb 21 at 1:00 pm - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Public Hearing

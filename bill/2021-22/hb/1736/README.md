@@ -1,7 +1,7 @@
 # HB 1736 - State student loan program
 **Primary Sponsor:** [Pat Sullivan](/person/leg/pat.sullivan.md)
 
-*Status: Third reading, passed; yeas, 59; nays, 39; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1736&Year=2021)
+*Status: First reading, referred to Higher Education & Workforce Development.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1736&Year=2021)
 
 Establishing a state student loan program.
 

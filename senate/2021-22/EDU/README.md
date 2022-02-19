@@ -10,21 +10,6 @@
 * [Mark Mullet](/person/leg/mark.mullet.md)
 * [Jamie Pedersen](/person/leg/jamie.pedersen.md)
 ## Upcoming Meetings
-### Fri, Feb 18 at 8:00 am
-Public Hearing
-* [HB 1611](/bill/2021-22/hb/1611/) - Advancing equity in programs for highly capable students. (Remote testimony.) **34👍** **1👎** **1❓**
-* [SHB 1644](/bill/2021-22/hb/1644/) - Permitting funds in the transportation vehicle fund to be used for electric and other clean pupil transportation vehicle feasibility planning and fueling station infrastructure. (Remote testimony.)
-* [HB 1833](/bill/2021-22/hb/1833/) - Establishing an electronic option for the submission of household income information required for participation in school meals and programs. (Remote testimony.)
-* [SHB 1941](/bill/2021-22/hb/1941/) - Prohibiting active shooter scenarios for school safety-related drills. (Remote testimony.) **101👍** **1👎** **2❓**
-* [HB 1974](/bill/2021-22/hb/1974/) - Moving state board of education and educational service district elections to the Washington state school directors' association. (Remote testimony.) **3👍** **259👎** **0❓**
-
-Executive Session
-* [SHB 1878](/bill/2021-22/hb/1878/) - Increasing public school participation in the community eligibility provision of the United States department of agriculture. **60👍** **0👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 21 at 1:30 pm
 Public Hearing
 * [E2SHB 1162](/bill/2021-22/hb/1162/) - Creating new graduation credit and pathway options. (Remote testimony.)

@@ -21,7 +21,7 @@ Executive Session
 * [HB 1780](/bill/2021-22/hb/1780/) - Concerning workforce education investment accountability and oversight board staffing changes. **5👍** **0👎** **0❓**
 * [2SHB 1835](/bill/2021-22/hb/1835/) - Creating outreach and completion initiatives to increase postsecondary enrollment. **113👍** **38👎** **0❓**
 * [HB 1622](/bill/2021-22/hb/1622/) - Increasing the availability of sexual assault nurse examiner education in rural and underserved areas. **23👍** **0👎** **0❓**
-* [E2SHB 1736](/bill/2021-22/hb/1736/) - Establishing a state student loan program. (If measure is referred to committee.) **51👍** **58👎** **3❓**
+* [E2SHB 1736](/bill/2021-22/hb/1736/) - Establishing a state student loan program. **51👍** **58👎** **3❓**
 
 Possible other business.
 

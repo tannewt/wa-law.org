@@ -18,5 +18,5 @@
 * [SB 5744](/bill/2021-22/sb/5744/) - Clean tech. tax deferrals | Referred to Ways & Means.
 * [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Referred to Consumer Protection & Business.
 * [SB 5828](/bill/2021-22/sb/5828/) - Autonomous vehicles | Senate Rules "X" file.
-* [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | First reading, referred to Labor & Workplace Standards.
+* [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | LAWS - Executive action taken by committee.
 * [SB 5963](/bill/2021-22/sb/5963/) - Working families' tax exempt | First reading, referred to Ways & Means.

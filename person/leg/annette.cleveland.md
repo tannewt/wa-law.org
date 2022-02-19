@@ -13,7 +13,7 @@
 * [SB 5499](/bill/2021-22/sb/5499/) - Hemodialysis technicians | First reading, referred to Health Care & Wellness.
 * [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | First reading, referred to Health Care & Wellness.
 * [SB 5542](/bill/2021-22/sb/5542/) - Optometry | Senate Rules "X" file.
-* [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | First reading, referred to Community & Economic Development.
+* [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Minority; without recommendation.
 * [SB 5618](/bill/2021-22/sb/5618/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
 * [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | First reading, referred to Appropriations.
 * [SB 5815](/bill/2021-22/sb/5815/) - Identicards | First reading, referred to Transportation.

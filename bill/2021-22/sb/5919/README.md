@@ -17,7 +17,6 @@ The House Public Safety committee will be holding a public hearing on Tue, Feb 2
 
 Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId=19881).
 
-
 ## Upcoming Meetings
 * Tue, Feb 22 at 8:00 am - [House Public Safety](/house/2021-22/PS/) Public Hearing
 * Thu, Feb 24 at 10:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session

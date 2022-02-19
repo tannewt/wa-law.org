@@ -9,3 +9,6 @@ Prohibiting nondisclosure and nondisparagement provisions from employers regardi
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Wed, Feb 23 at 10:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

@@ -7,3 +7,6 @@ Concerning greenhouse gas emissions reductions in the design of public facilitie
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

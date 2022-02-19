@@ -11,6 +11,5 @@ Concerning a body scanner pilot program at the department of corrections.
 * [Second Substitute](S2/)
 
 ## Upcoming Meetings
-* Fri, Feb 18 at 10:00 am - [House Public Safety](/house/2021-22/PS/) Public Hearing
 * Tue, Feb 22 at 8:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session
 * Thu, Feb 24 at 10:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session

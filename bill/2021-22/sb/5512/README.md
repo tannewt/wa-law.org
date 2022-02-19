@@ -9,4 +9,4 @@ Designating a state nickname.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Wed, Feb 23 at 8:00 am - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session
+* Mon, Feb 21 at 1:30 pm - [House State Government & Tribal Relations](/house/2021-22/SGOV/) Executive Session

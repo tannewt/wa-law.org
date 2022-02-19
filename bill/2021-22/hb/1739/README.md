@@ -7,3 +7,6 @@ Modernizing hospital policies related to pathogens of epidemiological concern.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Feb 21 at 1:00 pm - [Senate Health & Long Term Care](/senate/2021-22/HLTC/) Public Hearing
