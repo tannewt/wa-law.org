@@ -8,3 +8,6 @@ Concerning transfers of firearms to museums and historical societies.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 10:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

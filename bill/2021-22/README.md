@@ -618,19 +618,19 @@ Heard bills:
 
 ### Transportation
 Active bills:
+* [HB 1655](hb/1655/) - Safety rest areas | *Executive Session Tue, Feb 22 4:00 pm* **6👍** **0👎** **1❓**
 * [EHB 1784](ehb/1784/) - License plate visibility | *Public Hearing Tue, Feb 22 4:00 pm*
+* [HB 1785](hb/1785/) - WSP minimum salary | *Executive Session Tue, Feb 22 4:00 pm* **5👍** **0👎** **1❓**
 * [HB 1984](hb/1984/) - Vehicle reg. cert. addresses | *Public Hearing Tue, Feb 22 4:00 pm* **0👍** **0👎** **2❓**
+* [HB 2033](hb/2033/) - Emergency and work zones | *Executive Session Tue, Feb 22 4:00 pm* **23👍** **3👎** **0❓**
+* [HB 2057](hb/2057/) - State patrol workforce | *Executive Session Tue, Feb 22 4:00 pm* **8👍** **2👎** **0❓**
 * [HB 2074](hb/2074/) - Off-road vehicles fees | *Public Hearing Tue, Feb 22 4:00 pm* **9👍** **0👎** **0❓**
 * [SB 5689](sb/5689/) - Transportation budget, supp. | *Public Hearing Mon, Feb 21 4:00 pm*
 * [SB 5975](sb/5975/) - Additive transp. funding | *Public Hearing Mon, Feb 21 4:00 pm*
 
 Heard bills:
-* [HB 1655](hb/1655/) - Safety rest areas | **6👍** **0👎** **1❓**
 * [SB 5485](sb/5485/) - Traffic stops | **434👍** **334👎** **1❓**
 * [SB 5622](sb/5622/) - Motorcycles on laned roads | **509👍** **27👎** **2❓**
-* [HB 1785](hb/1785/) - WSP minimum salary | **5👍** **0👎** **1❓**
-* [HB 2033](hb/2033/) - Emergency and work zones | **23👍** **3👎** **0❓**
-* [HB 2057](hb/2057/) - State patrol workforce | **8👍** **2👎** **0❓**
 * [SB 5635](sb/5635/) - Tow truck safety | **37👍** **2👎** **0❓**
 * [SB 5778](sb/5778/) - Vehicle inspection backlog | **1👍** **0👎** **0❓**
 * [SB 5903](sb/5903/) - Drive-up services/multimodal | **27👍** **1👎** **2❓**
@@ -1249,18 +1249,21 @@ Active bills:
 * [SB 5127](sb/5127/) - Courthouse facility dogs | *Executive Session Tue, Feb 22 10:00 am* **30👍** **0👎** **0❓**
 * [SB 5155](sb/5155/) - Prejudgment interest | *Executive Session Tue, Feb 22 10:00 am* **104👍** **81👎** **26❓**
 * [SB 5489](sb/5489/) - Business entities | *Executive Session Tue, Feb 22 10:00 am* **3👍** **0👎** **0❓**
+* [SB 5491](sb/5491/) - Waiver of firearm rights | *Executive Session Tue, Feb 22 10:00 am*
 * [SB 5548](sb/5548/) - Child custody transfers | *Executive Session Tue, Feb 22 10:00 am* **2👍** **0👎** **0❓**
+* [ESB 5561](esb/5561/) - Firearm rights restoration | *Executive Session Tue, Feb 22 10:00 am*
 * [SB 5575](sb/5575/) - Snohomish county/judges | *Public Hearing Tue, Feb 22 10:00 am* **9👍** **0👎** **0❓**
+* [SB 5596](sb/5596/) - Health info. disclosure | *Public Hearing Tue, Feb 22 10:00 am*
 * [SB 5629](sb/5629/) - Disposition of remains | *Executive Session Tue, Feb 22 10:00 am* **3👍** **0👎** **0❓**
 * [SB 5664](sb/5664/) - Forensic competency programs | *Public Hearing Tue, Feb 22 10:00 am*
 * [SB 5788](sb/5788/) - Guardianship of minors | *Executive Session Tue, Feb 22 10:00 am* **25👍** **0👎** **0❓**
+* [SB 5856](sb/5856/) - Firearm transfers to museums | *Executive Session Tue, Feb 22 10:00 am* **11👍** **0👎** **1❓**
 * [SB 5920](sb/5920/) - Parenting plans | *Public Hearing Tue, Feb 22 10:00 am* **3👍** **1👎** **3❓**
 * [SB 5931](sb/5931/) - Judges pro tempore/COA | *Public Hearing Tue, Feb 22 10:00 am* **4👍** **0👎** **0❓**
 
 Heard bills:
 * [HB 2047](hb/2047/) - Fair housing training | **3👍** **4👎** **0❓**
 * [HB 2083](hb/2083/) - Long-term care consent | **7👍** **9👎** **0❓**
-* [SB 5856](sb/5856/) - Firearm transfers to museums | **11👍** **0👎** **1❓**
 
 
 <details>
@@ -1294,9 +1297,6 @@ Heard bills:
 * [HB 1618](hb/1618/) - Election offices/weapons
 * [HB 1635](hb/1635/) - Child support/former parents
 * [SB 5078](sb/5078/) - Large capacity magazines
-* [SB 5491](sb/5491/) - Waiver of firearm rights
-* [ESB 5561](esb/5561/) - Firearm rights restoration
-* [SB 5596](sb/5596/) - Health info. disclosure
 * [HB 1754](hb/1754/) - Prejudgment interest
 * [HB 1809](hb/1809/) - Health care marketplace
 * [HB 1836](hb/1836/) - Scholarships/disadv. groups

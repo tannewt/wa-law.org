@@ -331,25 +331,6 @@ See https://app.leg.wa.gov/csi/house for information about viewing and providing
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:00 am
-**Civil Rights & Judiciary**
-Public Hearing
-* [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. (Remote testimony.) **9👍** **0👎** **0❓**
-* [2SSB 5664](/bill/2021-22/sb/5664/) - Concerning forensic competency restoration programs. (Remote testimony.)
-* [SSB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. (Remote testimony.) **3👍** **1👎** **3❓**
-* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. (Remote testimony.) **4👍** **0👎** **0❓**
-
-Executive Session
-* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. **30👍** **0👎** **0❓**
-* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. **104👍** **81👎** **26❓**
-* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. **3👍** **0👎** **0❓**
-* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. **2👍** **0👎** **0❓**
-* [SB 5629](/bill/2021-22/sb/5629/) - Concerning control of the disposition of remains. **3👍** **0👎** **0❓**
-* [SB 5788](/bill/2021-22/sb/5788/) - Concerning guardianship of minors. **25👍** **0👎** **0❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Community & Economic Development**
 Public Hearing
 * [SB 5715](/bill/2021-22/sb/5715/) - Modifying the definition of broadband or broadband service. (Remote testimony.) **20👍** **0👎** **0❓**
@@ -402,6 +383,29 @@ Executive Session
 * [SSB 5783](/bill/2021-22/sb/5783/) - Reestablishing the underground economy task force. **45👍** **22👎** **1❓**
 * [SB 5801](/bill/2021-22/sb/5801/) - Concerning attorney and witness fees in industrial insurance court appeals. **28👍** **57👎** **0❓**
 * [SSB 5890](/bill/2021-22/sb/5890/) - Clarifying eligibility for the presumption for workers' compensation for all personnel working at a radiological hazardous waste facility. **57👍** **4👎** **4❓**
+
+See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Civil Rights & Judiciary**
+Public Hearing
+* [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. (Remote testimony.) **9👍** **0👎** **0❓**
+* [SB 5596](/bill/2021-22/sb/5596/) - Conforming disclosure restrictions for mental health counselors, marriage and family therapists, and social workers to the requirements of the Uniform Health Care Information Act. (Remote testimony.)
+* [2SSB 5664](/bill/2021-22/sb/5664/) - Concerning forensic competency restoration programs. (Remote testimony.)
+* [SSB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. (Remote testimony.) **3👍** **1👎** **3❓**
+* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. (Remote testimony.) **4👍** **0👎** **0❓**
+
+Executive Session
+* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. **30👍** **0👎** **0❓**
+* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. **104👍** **81👎** **26❓**
+* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. **3👍** **0👎** **0❓**
+* [SB 5491](/bill/2021-22/sb/5491/) - Clarifying waiver of firearm rights.
+* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. **2👍** **0👎** **0❓**
+* [ESB 5561](/bill/2021-22/sb/5561/) - Concerning the restoration of the right to possess a firearm.
+* [SB 5629](/bill/2021-22/sb/5629/) - Concerning control of the disposition of remains. **3👍** **0👎** **0❓**
+* [SB 5788](/bill/2021-22/sb/5788/) - Concerning guardianship of minors. **25👍** **0👎** **0❓**
+* [SSB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. **11👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -522,21 +526,6 @@ Executive Session
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 #### 10:00 am
-**Civil Rights & Judiciary**
-Executive Session
-* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. **30👍** **0👎** **0❓**
-* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. **104👍** **81👎** **26❓**
-* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. **3👍** **0👎** **0❓**
-* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. **2👍** **0👎** **0❓**
-* [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. **9👍** **0👎** **0❓**
-* [SB 5629](/bill/2021-22/sb/5629/) - Concerning control of the disposition of remains. **3👍** **0👎** **0❓**
-* [2SSB 5664](/bill/2021-22/sb/5664/) - Concerning forensic competency restoration programs.
-* [SB 5788](/bill/2021-22/sb/5788/) - Concerning guardianship of minors. **25👍** **0👎** **0❓**
-* [SSB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. **3👍** **1👎** **3❓**
-* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. **4👍** **0👎** **0❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 **Rural Development, Agriculture & Natural Resources**
 Executive Session
 * [SSB 5411](/bill/2021-22/sb/5411/) - Establishing a programmatic safe harbor agreement on forestlands for northern spotted owls.
@@ -573,6 +562,22 @@ Executive Session
 * [SB 5641](/bill/2021-22/sb/5641/) - Promoting local agriculture through greenhouses. **6👍** **0👎** **0❓**
 * [ESSB 5593](/bill/2021-22/sb/5593/) - Concerning urban growth area boundaries.
 * [SSB 5964](/bill/2021-22/sb/5964/) - Concerning consolidated local permit review processes. **68👍** **1👎** **3❓**
+
+To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+**Civil Rights & Judiciary**
+Executive Session
+* [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. **30👍** **0👎** **0❓**
+* [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. **104👍** **81👎** **26❓**
+* [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. **3👍** **0👎** **0❓**
+* [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. **2👍** **0👎** **0❓**
+* [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. **9👍** **0👎** **0❓**
+* [SB 5596](/bill/2021-22/sb/5596/) - Conforming disclosure restrictions for mental health counselors, marriage and family therapists, and social workers to the requirements of the Uniform Health Care Information Act.
+* [SB 5629](/bill/2021-22/sb/5629/) - Concerning control of the disposition of remains. **3👍** **0👎** **0❓**
+* [2SSB 5664](/bill/2021-22/sb/5664/) - Concerning forensic competency restoration programs.
+* [SB 5788](/bill/2021-22/sb/5788/) - Concerning guardianship of minors. **25👍** **0👎** **0❓**
+* [SSB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. **3👍** **1👎** **3❓**
+* [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. **4👍** **0👎** **0❓**
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

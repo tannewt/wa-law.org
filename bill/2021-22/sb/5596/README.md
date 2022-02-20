@@ -7,3 +7,7 @@ Conforming disclosure restrictions for mental health counselors, marriage and fa
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Tue, Feb 22 at 10:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Public Hearing
+* Wed, Feb 23 at 10:00 am - [House Civil Rights & Judiciary](/house/2021-22/CRJ/) Executive Session

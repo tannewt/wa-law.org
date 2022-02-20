@@ -34,7 +34,13 @@ Public Hearing
 * [HB 2074](/bill/2021-22/hb/2074/) - Concerning fees collected from out-of-state residents who register off-road vehicles in Washington. (Remote testimony.) **9👍** **0👎** **0❓**
 * [EHB 1784](/bill/2021-22/hb/1784/) - Establishing an exception to the requirement that vehicle license plates be visible at all times for vehicles using certain cargo carrying devices. (Remote testimony.)
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [SHB 1655](/bill/2021-22/hb/1655/) - Encouraging the opening of safety rest areas to the public. **6👍** **0👎** **1❓**
+* [HB 1785](/bill/2021-22/hb/1785/) - Concerning the minimum monthly salary paid to Washington state patrol troopers and sergeants. **5👍** **0👎** **1❓**
+* [SHB 2057](/bill/2021-22/hb/2057/) - Strengthening diversity, equity, and inclusion in the state patrol workforce. **8👍** **2👎** **0❓**
+* [HB 2033](/bill/2021-22/hb/2033/) - Concerning safety measures for fire department vehicles and other vehicles using lights or other signals in emergency or work zones. **23👍** **3👎** **0❓**
+
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

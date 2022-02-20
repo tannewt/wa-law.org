@@ -21,6 +21,7 @@
 ### Tue, Feb 22 at 10:00 am
 Public Hearing
 * [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. (Remote testimony.) **9👍** **0👎** **0❓**
+* [SB 5596](/bill/2021-22/sb/5596/) - Conforming disclosure restrictions for mental health counselors, marriage and family therapists, and social workers to the requirements of the Uniform Health Care Information Act. (Remote testimony.)
 * [2SSB 5664](/bill/2021-22/sb/5664/) - Concerning forensic competency restoration programs. (Remote testimony.)
 * [SSB 5920](/bill/2021-22/sb/5920/) - Concerning parenting plans. (Remote testimony.) **3👍** **1👎** **3❓**
 * [SB 5931](/bill/2021-22/sb/5931/) - Concerning appointment of judges pro tempore in the court of appeals. (Remote testimony.) **4👍** **0👎** **0❓**
@@ -29,9 +30,12 @@ Executive Session
 * [SSB 5127](/bill/2021-22/sb/5127/) - Concerning courthouse facility dogs. **30👍** **0👎** **0❓**
 * [E2SSB 5155](/bill/2021-22/sb/5155/) - Concerning prejudgment interest. **104👍** **81👎** **26❓**
 * [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. **3👍** **0👎** **0❓**
+* [SB 5491](/bill/2021-22/sb/5491/) - Clarifying waiver of firearm rights.
 * [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. **2👍** **0👎** **0❓**
+* [ESB 5561](/bill/2021-22/sb/5561/) - Concerning the restoration of the right to possess a firearm.
 * [SB 5629](/bill/2021-22/sb/5629/) - Concerning control of the disposition of remains. **3👍** **0👎** **0❓**
 * [SB 5788](/bill/2021-22/sb/5788/) - Concerning guardianship of minors. **25👍** **0👎** **0❓**
+* [SSB 5856](/bill/2021-22/sb/5856/) - Concerning transfers of firearms to museums and historical societies. **11👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 
@@ -44,6 +48,7 @@ Executive Session
 * [SB 5489](/bill/2021-22/sb/5489/) - Concerning business entities. **3👍** **0👎** **0❓**
 * [SSB 5548](/bill/2021-22/sb/5548/) - Concerning the uniform unregulated child custody transfer act. **2👍** **0👎** **0❓**
 * [SSB 5575](/bill/2021-22/sb/5575/) - Adding additional superior court judges in Snohomish county. **9👍** **0👎** **0❓**
+* [SB 5596](/bill/2021-22/sb/5596/) - Conforming disclosure restrictions for mental health counselors, marriage and family therapists, and social workers to the requirements of the Uniform Health Care Information Act.
 * [SB 5629](/bill/2021-22/sb/5629/) - Concerning control of the disposition of remains. **3👍** **0👎** **0❓**
 * [2SSB 5664](/bill/2021-22/sb/5664/) - Concerning forensic competency restoration programs.
 * [SB 5788](/bill/2021-22/sb/5788/) - Concerning guardianship of minors. **25👍** **0👎** **0❓**
