@@ -1,3 +1,7 @@
 markdown-it-py[plugins]
 jinja2
 roman
+requests-cache
+beautifulsoup4
+arrow
+lxml
