@@ -1,26 +1,17 @@
-import cached_session
-from bs4 import BeautifulSoup, NavigableString
-import re
+from committee_data import *
+
+from bs4 import BeautifulSoup
 import pathlib
-import sys
-import subprocess
 import arrow
 import utils
 
-FORCE_FETCH = False
-
-api_root_url = "http://wslwebservices.leg.wa.gov"
-csi_root_url = "https://app.leg.wa.gov/csi"
-
-requests = cached_session.CustomCachedSession("committee_cache")
-
 committee_path = pathlib.Path("bill/")
-
-meetings_by_bill = {}
 
 TESTIFY_REMOTE = 'I would like to testify remotely'
 TESTIFY_NOTED = 'I would like my position noted for the legislative record'
 TESTIFY_WRITTEN = 'I would like to submit written testimony'
+
+FORCE_FETCH = False
 
 def add_lines(lines, active, heard, inactive):
     if active:
@@ -44,58 +35,12 @@ def add_lines(lines, active, heard, inactive):
 for start_year in range(2021, 2023, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
     print(biennium)
-
-    url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetings?beginDate={start_year}-01-01&endDate={start_year+1}-12-31"
-    print(url)
-    meetings = requests.get(url, force_fetch=FORCE_FETCH)
-    meetings = BeautifulSoup(meetings.text, "xml")
-    biennium_path = pathlib.Path(f"bill/{biennium}")
-    all_meetings = []
-    count = 0
-    end_time = 0
     now = arrow.now()
-    for info in meetings.find_all("CommitteeMeeting"):
-        count += 1
-        agendaId = info.AgendaId.text
-        notes = info.Notes.text
-        agency = info.Agency.text
-        committee_name = info.Name.text
-        acronym = info.Acronym.text
-        meeting_date = arrow.get(info.Date.text)
-        last_revised = arrow.get(info.RevisedDate.text)
-        agenda = {}
-        meeting_dict = {
-            "agency": agency,
-            "committee": committee_name,
-            "acronym": acronym,
-            "start": meeting_date,
-            "revised": last_revised,
-            "notes": notes,
-            "agenda": agenda
-        }
-        all_meetings.append((meeting_date, meeting_dict))
-        # print(info.AgendaId.text, info.Date.text, info.RevisedDate.text)
-        if "scheduled to end" in notes:
-            end_time += 1
-        upcoming = now < meeting_date
-        url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetingItems?agendaId={agendaId}"
-        # print(url)
-        items = requests.get(url, force_fetch=upcoming and FORCE_FETCH)
-        items = BeautifulSoup(items.text, "xml")
-        for item in items.find_all("CommitteeMeetingItem"):
-            hearing_type = item.HearingTypeDescription.text
-            if hearing_type not in agenda:
-                agenda[hearing_type] = []
-            billId = item.BillId.text
-            agenda[hearing_type].append((billId, item.ItemDescription.text))
-            if billId:
-                bill_number = billId.split(" ")[1]
-                if bill_number not in meetings_by_bill:
-                    meetings_by_bill[bill_number] = []
-                meetings_by_bill[bill_number].append((meeting_date, info, item, meeting_dict))
-    print(count, end_time)
+
+    all_meetings, meetings_by_bill = load_biennium_meetings_by_bill(start_year, now, FORCE_FETCH)
 
     print("-----")
+    biennium_path = pathlib.Path(f"bill/{biennium}")
     active = {}
     heard = {}
     for bill_number in meetings_by_bill:
@@ -151,29 +96,16 @@ for start_year in range(2021, 2023, 2):
                         utils.add_or_update_section(bill_path, "## Testify", new_lines)
                         testify = True
             else:
-                if item.HearingType.text != "Public":
+                if not is_public_meeting_item(item):
                     continue
                 mId = meeting.AgendaId.text
-                url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={mId}"
-                agendaItems = requests.get(url)
-                items = BeautifulSoup(agendaItems.text, "lxml")
-                for item in items.find_all(class_="agendaItem"):
+                agenda_items = load_agenda_items(mId, FORCE_FETCH)
+                for item in agenda_items:
                     if bill_number not in item.text:
                         continue
-                    chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
 
-                    url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
-                    testifiers = requests.get(url)
-                    testifiers = BeautifulSoup(testifiers.text, "lxml")
-                    totals = {}
-                    for row in testifiers.find_all("tr"):
-                        cols = [c.text for c in row.find_all("td")]
-                        if not cols:
-                            continue
-                        stance = cols[3]
-                        if stance not in totals:
-                            totals[stance] = 0
-                        totals[stance] += 1
+                    totals = load_testifier_counts(item.caId, FORCE_FETCH)
+
                     if bill_number in heard:
                         for k in totals:
                             if k in heard[bill_number]:
@@ -189,9 +121,9 @@ for start_year in range(2021, 2023, 2):
         if bill_path and not testify:
             utils.remove_section(bill_path, "## Testify")
 
-        # 
+        #
         # https://app.leg.wa.gov
-    print(count, "meetings")
+    print(len(all_meetings), "meetings")
     print(len(active), "active bills")
 
     bill_index = pathlib.Path(f"bill/{biennium}/README.md")
