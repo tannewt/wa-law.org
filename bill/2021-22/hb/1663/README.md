@@ -1,7 +1,7 @@
 # HB 1663 - Landfill methane emissions
 **Primary Sponsor:** [Davina Duerr](/person/leg/duerr_da.md)
 
-*Status: First reading, referred to Environment, Energy & Technology.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1663&Year=2021)
+*Status: And refer to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1663&Year=2021)
 
 Reducing methane emissions from landfills.
 
@@ -10,6 +10,3 @@ Reducing methane emissions from landfills.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
-
-## Upcoming Meetings
-* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

@@ -10,4 +10,4 @@ Concerning truck drivers ability to access restroom facilities.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Mon, Feb 21 at 9:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Public Hearing
+* Thu, Feb 24 at 8:30 am - [Senate Labor, Commerce & Tribal Affairs](/senate/2021-22/LCTA/) Executive Session

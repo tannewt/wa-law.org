@@ -1,6 +1,6 @@
 # Marko Liias
 ## Bills
-* [SB 5078](/bill/2021-22/sb/5078/) - Large capacity magazines | First reading, referred to Civil Rights & Judiciary.
+* [SB 5078](/bill/2021-22/sb/5078/) - Large capacity magazines | Referred to Rules 2 Review.
 * [SB 5093](/bill/2021-22/sb/5093/) - Building decarbonization | By resolution, reintroduced and retained in present status.
 * [SB 5106](/bill/2021-22/sb/5106/) - Municipal financial services | Effective date 7/25/2021.
 * [SB 5150](/bill/2021-22/sb/5150/) - Residential services rate | By resolution, reintroduced and retained in present status.
@@ -16,7 +16,7 @@
 * [SB 5288](/bill/2021-22/sb/5288/) - Opportunity scholarship prog | Senate Rules "X" file.
 * [SB 5313](/bill/2021-22/sb/5313/) - Health ins. discrimination | Effective date 7/25/2021.
 * [SB 5390](/bill/2021-22/sb/5390/) - Housing supply | By resolution, reintroduced and retained in present status.
-* [SB 5508](/bill/2021-22/sb/5508/) - Insurance guaranty fund | First reading, referred to Health Care & Wellness.
+* [SB 5508](/bill/2021-22/sb/5508/) - Insurance guaranty fund | Referred to Rules 2 Review.
 * [SCR 8401](/bill/2021-22/scr/8401/) - Cutoff dates | Filed with Secretary of State.
 * [SCR 8402](/bill/2021-22/scr/8402/) - Emergency orders extension | Filed with Secretary of State.
 * [SCR 8403](/bill/2021-22/scr/8403/) - Cutoff/Chinese American hist | Senate Rules "X" file.
@@ -29,7 +29,7 @@
 * [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | Referred to Ways & Means.
 * [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | First reading, referred to Capital Budget.
 * [SB 5846](/bill/2021-22/sb/5846/) - Election offices/weapons | First reading, referred to Law & Justice.
-* [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | First reading, referred to College & Workforce Development.
+* [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | Minority; do not pass.
 * [SB 5861](/bill/2021-22/sb/5861/) - Housing benefit districts | First reading, referred to Housing & Local Government.
 * [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | First reading, referred to Transportation.
 * [SB 5899](/bill/2021-22/sb/5899/) - SR 520 sales tax deferral | First reading, referred to Transportation.

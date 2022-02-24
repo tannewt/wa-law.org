@@ -10,4 +10,4 @@ Establishing a small business disaster recovery financial assistance program.
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session
+* Thu, Feb 24 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

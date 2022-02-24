@@ -11,15 +11,15 @@
 * [SB 5130](/bill/2021-22/sb/5130/) - Personnel files & discipline | Senate Rules "X" file.
 * [SB 5138](/bill/2021-22/sb/5138/) - Financial instit./B&O tax | By resolution, reintroduced and retained in present status.
 * [SB 5140](/bill/2021-22/sb/5140/) - Pregnancy & miscarriage care | Effective date 7/25/2021.
-* [SB 5155](/bill/2021-22/sb/5155/) - Prejudgment interest | First reading, referred to Civil Rights & Judiciary.
+* [SB 5155](/bill/2021-22/sb/5155/) - Prejudgment interest | CRJ - Majority; do pass with amendment(s).
 * [SB 5160](/bill/2021-22/sb/5160/) - Landlord-tenant relations | Effective date 4/22/2021.
 * [SB 5182](/bill/2021-22/sb/5182/) - Advisory votes | Senate Rules "X" file.
 * [SB 5188](/bill/2021-22/sb/5188/) - Public financial cooperative | Senate Rules "X" file.
 * [SB 5217](/bill/2021-22/sb/5217/) - Assault weapons | By resolution, reintroduced and retained in present status.
 * [SB 5260](/bill/2021-22/sb/5260/) - Eviction res. pilot/reports | By resolution, reintroduced and retained in present status.
 * [SB 5266](/bill/2021-22/sb/5266/) - Products sold to adults 21+ | By resolution, reintroduced and retained in present status.
-* [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | SGOV - Majority; do pass.
-* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | First reading, referred to Housing, Human Services & Veterans.
+* [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | Referred to Rules 2 Review.
+* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Referred to Appropriations.
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Senate Rules "X" file.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Senate Rules "X" file.
 * [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | First reading, referred to Transportation.

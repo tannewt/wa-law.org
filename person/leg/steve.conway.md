@@ -16,7 +16,7 @@
 * [SB 5718](/bill/2021-22/sb/5718/) - School employees/insurance | First reading, referred to Ways & Means.
 * [SB 5774](/bill/2021-22/sb/5774/) - War on terror monument | First reading, referred to State Government & Elections.
 * [SB 5782](/bill/2021-22/sb/5782/) - Defense compatibility | First reading, referred to Capital Budget.
-* [SB 5783](/bill/2021-22/sb/5783/) - Underground economy | First reading, referred to Labor & Workplace Standards.
+* [SB 5783](/bill/2021-22/sb/5783/) - Underground economy | Minority; without recommendation.
 * [SB 5877](/bill/2021-22/sb/5877/) - Higher ed antidiscrimination | Referred to Ways & Means.
 * [SB 5891](/bill/2021-22/sb/5891/) - Warehouse dist. centers | Senate Rules "X" file.
 * [SB 5950](/bill/2021-22/sb/5950/) - Historic auto museums/tax | First reading, referred to Ways & Means.

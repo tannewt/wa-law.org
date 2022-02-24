@@ -11,5 +11,4 @@ Providing student financial literacy education.
 * [Second Substitute](S2/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 8:00 am - [House Education](/house/2021-22/ED/) Executive Session
 * Thu, Feb 24 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

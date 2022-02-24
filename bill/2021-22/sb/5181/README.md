@@ -10,5 +10,4 @@ Providing school districts serving low-income communities with flexibility in fi
 * [Substitute Bill](S/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 8:00 am - [House Education](/house/2021-22/ED/) Executive Session
 * Thu, Feb 24 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

@@ -7,3 +7,6 @@ Concerning tax incentives.
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Thu, Feb 24 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

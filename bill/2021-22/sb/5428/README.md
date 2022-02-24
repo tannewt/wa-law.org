@@ -11,4 +11,4 @@ Concerning the application of the state environmental policy act to temporary sh
 * [Engrossed Substitute](S.E/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 8:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session
+* Thu, Feb 24 at 10:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

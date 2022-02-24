@@ -14,39 +14,22 @@
 * [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 * [Vandana Slatter](/person/leg/vandana.slatter.md)
 ## Upcoming Meetings
-### Tue, Feb 22 at 8:00 am
-Public Hearing
-* [SSB 5678](/bill/2021-22/sb/5678/) - Concerning energy transformation, nonemitting electric generation, and renewable resource project analysis and declaratory orders. (Remote testimony.)
-* [SSB 5910](/bill/2021-22/sb/5910/) - Accelerating the availability and use of renewable hydrogen in Washington state. (Remote testimony.) **74👍** **0👎** **1❓**
-* [SSB 5626](/bill/2021-22/sb/5626/) - Adding a climate resilience element to water system plans. (Remote testimony.) **85👍** **33👎** **0❓**
-* [2SSB 5703](/bill/2021-22/sb/5703/) - Concerning the use of toxic chemicals in cosmetic products. (Remote testimony.)
-* [E2SSB 5885](/bill/2021-22/sb/5885/) - Concerning marine shoreline habitat. (Remote testimony.) **233👍** **67👎** **4❓**
-
-Executive Session
-* [SSB 5722](/bill/2021-22/sb/5722/) - Reducing greenhouse gas emissions in buildings.
-* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. **22👍** **0👎** **0❓**
-* [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. **26👍** **72👎** **5❓**
-* [SB 5042](/bill/2021-22/sb/5042/) - Concerning the effective date of certain actions taken under the growth management act. **1520👍** **121👎** **3❓**
-* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. **133👍** **0👎** **1❓**
-* [SB 5585](/bill/2021-22/sb/5585/) - Setting domestic wastewater discharge fees.
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Thu, Feb 24 at 10:00 am
 Public Hearing
 * [SSB 5590](/bill/2021-22/sb/5590/) - Eliminating the 2022 expiration date of the marine resources advisory council. (Remote testimony.)
 * [SSB 5818](/bill/2021-22/sb/5818/) - Promoting housing construction in cities through amendments to and limiting appeals under the state environmental policy act and growth management act. (Remote testimony.)
 
 Executive Session
-* [SSB 5678](/bill/2021-22/sb/5678/) - Concerning energy transformation, nonemitting electric generation, and renewable resource project analysis and declaratory orders.
-* [SSB 5910](/bill/2021-22/sb/5910/) - Accelerating the availability and use of renewable hydrogen in Washington state. **74👍** **0👎** **1❓**
-* [SSB 5626](/bill/2021-22/sb/5626/) - Adding a climate resilience element to water system plans. **85👍** **33👎** **0❓**
-* [2SSB 5703](/bill/2021-22/sb/5703/) - Concerning the use of toxic chemicals in cosmetic products.
+* [SSB 5678](/bill/2021-22/sb/5678/) - Concerning energy transformation, nonemitting electric generation, and renewable resource project analysis and declaratory orders. **2👍** **1👎** **0❓**
+* [SSB 5910](/bill/2021-22/sb/5910/) - Accelerating the availability and use of renewable hydrogen in Washington state. **117👍** **0👎** **1❓**
+* [SSB 5626](/bill/2021-22/sb/5626/) - Adding a climate resilience element to water system plans. **142👍** **51👎** **1❓**
+* [2SSB 5703](/bill/2021-22/sb/5703/) - Concerning the use of toxic chemicals in cosmetic products. **45👍** **21👎** **3❓**
 * [SSB 5590](/bill/2021-22/sb/5590/) - Eliminating the 2022 expiration date of the marine resources advisory council.
-* [E2SSB 5885](/bill/2021-22/sb/5885/) - Concerning marine shoreline habitat. **233👍** **67👎** **4❓**
+* [E2SSB 5885](/bill/2021-22/sb/5885/) - Concerning marine shoreline habitat. **298👍** **86👎** **4❓**
 * [SSB 5818](/bill/2021-22/sb/5818/) - Promoting housing construction in cities through amendments to and limiting appeals under the state environmental policy act and growth management act.
+* [SB 5312](/bill/2021-22/sb/5312/) - Facilitating transit-oriented development and increasing housing inventory. **133👍** **0👎** **1❓**
+* [E2SSB 5842](/bill/2021-22/sb/5842/) - Concerning state laws that address climate change. **26👍** **72👎** **5❓**
+* [ESSB 5428](/bill/2021-22/sb/5428/) - Concerning the application of the state environmental policy act to temporary shelters and transitional encampments. **22👍** **0👎** **0❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

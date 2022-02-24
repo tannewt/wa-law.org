@@ -26,3 +26,5 @@
 * [HB 2030](/bill/2021-22/hb/2030/) - Involuntary quarantine | First reading, referred to Health Care & Wellness.
 * [HB 2041](/bill/2021-22/hb/2041/) - Health care for minors | First reading, referred to Health Care & Wellness.
 * [HB 2110](/bill/2021-22/hb/2110/) - Fish & wildlife enforcement | First reading, referred to Rural Development, Agriculture & Natural Resources.
+* [HB 2125](/bill/2021-22/hb/2125/) - State property tax/valuation | First reading, referred to Finance.
+* [HB 2126](/bill/2021-22/hb/2126/) - Property tax reduction | First reading, referred to Finance.

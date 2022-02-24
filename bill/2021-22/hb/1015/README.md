@@ -10,3 +10,6 @@ Creating the Washington equitable access to credit act.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+
+## Upcoming Meetings
+* Thu, Feb 24 at 8:00 am - [Senate Business, Financial Services & Trade](/senate/2021-22/BFST/) Executive Session

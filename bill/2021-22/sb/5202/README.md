@@ -7,5 +7,4 @@ Establishing school district depreciation subfunds for the purposes of preventat
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 8:00 am - [House Education](/house/2021-22/ED/) Executive Session
 * Thu, Feb 24 at 10:00 am - [House Education](/house/2021-22/ED/) Executive Session

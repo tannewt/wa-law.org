@@ -20,3 +20,4 @@
 * [HB 1762](/bill/2021-22/hb/1762/) - Ed. service district funding | First reading, referred to Appropriations.
 * [HB 1996](/bill/2021-22/hb/1996/) - Stormwater facilities/county | First reading, referred to Local Government.
 * [HB 2071](/bill/2021-22/hb/2071/) - Torts | First reading, referred to Civil Rights & Judiciary.
+* [HB 2123](/bill/2021-22/hb/2123/) - Cannabinoid products | First reading, referred to Appropriations.

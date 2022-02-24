@@ -11,8 +11,8 @@
 * [HB 1535](/bill/2021-22/hb/1535/) - Necessities/sales & use tax | By resolution, reintroduced and retained in present status.
 * [HB 1541](/bill/2021-22/hb/1541/) - Local revenue/homelessness | By resolution, reintroduced and retained in present status.
 * [HB 1654](/bill/2021-22/hb/1654/) - Health prof. monitoring | First reading, referred to Health Care & Wellness.
-* [HB 1669](/bill/2021-22/hb/1669/) - PSERS disability benefits | First reading, referred to Ways & Means.
-* [HB 1721](/bill/2021-22/hb/1721/) - PERS/TRS 1 benefit increase | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1669](/bill/2021-22/hb/1669/) - PSERS disability benefits | Passed to Rules Committee for second reading.
+* [HB 1721](/bill/2021-22/hb/1721/) - PERS/TRS 1 benefit increase | Returned to Rules Committee for second reading.
 * [EHB 1752](/bill/2021-22/ehb/1752/) - Deferred compensation/Roth | First reading, referred to Ways & Means.
 * [HB 1787](/bill/2021-22/hb/1787/) - Law enf. officer funding | First reading, referred to Appropriations.
 * [HB 1858](/bill/2021-22/hb/1858/) - B&O tax rates | First reading, referred to Finance.

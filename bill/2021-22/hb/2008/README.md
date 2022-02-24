@@ -1,7 +1,7 @@
 # HB 2008 - Dev. disability programs/IQ
 **Primary Sponsor:** [Jamila Taylor](/person/leg/jamila.taylor.md)
 
-*Status: First reading, referred to Human Services, Reentry & Rehabilitation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2008&Year=2021)
+*Status: Referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2008&Year=2021)
 
 Eliminating the use of intelligence quotient scores in determining eligibility for programs and services for individuals with developmental disabilities.
 
@@ -9,6 +9,3 @@ Eliminating the use of intelligence quotient scores in determining eligibility f
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
-
-## Upcoming Meetings
-* Tue, Feb 22 at 1:30 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Executive Session

@@ -11,4 +11,4 @@ Concerning partial hospitalizations and intensive outpatient treatment services 
 * [Second Substitute](S2/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 3:30 pm - [House Appropriations](/house/2021-22/APP/) Public Hearing
+* Thu, Feb 24 at 1:30 pm - [House Appropriations](/house/2021-22/APP/) Executive Session

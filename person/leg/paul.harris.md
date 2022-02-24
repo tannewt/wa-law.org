@@ -6,5 +6,5 @@
 * [HB 1676](/bill/2021-22/hb/1676/) - Tobacco & vapor products/tax | First reading, referred to Finance.
 * [HB 1684](/bill/2021-22/hb/1684/) - Drinking water fluoridation | First reading, referred to Environment, Energy & Technology.
 * [HB 1686](/bill/2021-22/hb/1686/) - Biodegradable product labels | First reading, referred to Environment & Energy.
-* [HB 1791](/bill/2021-22/hb/1791/) - Prof. educator reprimands | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1791](/bill/2021-22/hb/1791/) - Prof. educator reprimands | Returned to Rules Committee for second reading.
 * [HB 1972](/bill/2021-22/hb/1972/) - Negligent driving penalties | Referred to Rules 2 Review.

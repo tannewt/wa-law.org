@@ -11,5 +11,4 @@ Providing a tax exemption for medical marijuana patients.
 * [Engrossed Substitute](S.E/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 1:30 pm - [House Finance](/house/2021-22/FIN/) Public Hearing
 * Thu, Feb 24 at 8:00 am - [House Finance](/house/2021-22/FIN/) Executive Session

@@ -9,4 +9,4 @@ Facilitating transit-oriented development and increasing housing inventory.
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 8:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session
+* Thu, Feb 24 at 10:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

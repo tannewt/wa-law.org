@@ -9,5 +9,5 @@
 * [HB 1613](/bill/2021-22/hb/1613/) - Employer reports/private | Passed to Rules Committee for second reading.
 * [HB 1706](/bill/2021-22/hb/1706/) - Truck drivers/restrooms | Referred to Labor, Commerce & Tribal Affairs.
 * [HB 1764](/bill/2021-22/hb/1764/) - Physician bargaining | Referred to Rules 2 Review.
-* [HB 1776](/bill/2021-22/hb/1776/) - High-hazard facility wages | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1776](/bill/2021-22/hb/1776/) - High-hazard facility wages | Returned to Rules Committee for second reading.
 * [HB 1811](/bill/2021-22/hb/1811/) - Fire benefit charges | Referred to Rules 2 Review.

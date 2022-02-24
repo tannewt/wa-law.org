@@ -20,4 +20,5 @@
 * [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SB 5967](/bill/2021-22/sb/5967/) - Financial instit./climate | First reading, referred to Ways & Means.
 * [SB 5977](/bill/2021-22/sb/5977/) - Legislative chamber skylight | First reading, referred to Ways & Means.
+* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | First reading, referred to Ways & Means.
 * [SJR 8212](/bill/2021-22/sjr/8212/) - Superintendent | First reading, referred to Early Learning & K-12 Education.

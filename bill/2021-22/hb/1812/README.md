@@ -10,6 +10,3 @@ Modernizing the energy facility site evaluation council to meet the state's clea
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
-
-## Upcoming Meetings
-* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session

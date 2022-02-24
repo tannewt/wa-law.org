@@ -8,7 +8,7 @@
 * [SB 5455](/bill/2021-22/sb/5455/) - Law enf. camera recordings | By resolution, reintroduced and retained in present status.
 * [SB 5484](/bill/2021-22/sb/5484/) - COVID-19/county phases | By resolution, reintroduced and retained in present status.
 * [SJR 8201](/bill/2021-22/sjr/8201/) - Special session, 3/5th vote | By resolution, reintroduced and retained in present status.
-* [SB 5690](/bill/2021-22/sb/5690/) - Firearms at capitol/events | First reading, referred to Civil Rights & Judiciary.
+* [SB 5690](/bill/2021-22/sb/5690/) - Firearms at capitol/events | Referred to Rules 2 Review.
 * [SB 5691](/bill/2021-22/sb/5691/) - Prosecutorial filing | Senate Rules "X" file.
 * [SB 5692](/bill/2021-22/sb/5692/) - Corrections programming | First reading, referred to Public Safety.
 * [SB 5757](/bill/2021-22/sb/5757/) - Multifamily properties/REET | First reading, referred to Housing & Local Government.

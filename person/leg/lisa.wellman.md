@@ -21,7 +21,7 @@
 * [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Senate Rules "X" file.
 * [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | First reading, referred to Education.
 * [SB 5659](/bill/2021-22/sb/5659/) - Building material standards | First reading, referred to State Government & Elections.
-* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | First reading, referred to Community & Economic Development.
+* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Minority; do not pass.
 * [SB 5760](/bill/2021-22/sb/5760/) - Motion picture program | Referred to Ways & Means.
 * [SB 5775](/bill/2021-22/sb/5775/) - Broadband deployment | First reading, referred to Environment, Energy & Technology.
 * [SB 5902](/bill/2021-22/sb/5902/) - High school grad. credits | First reading, referred to Early Learning & K-12 Education.

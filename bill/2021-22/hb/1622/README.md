@@ -9,4 +9,4 @@ Increasing the availability of sexual assault nurse examiner education in rural 
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 1:30 pm - [Senate Higher Education & Workforce Development](/senate/2021-22/HEWD/) Executive Session
+* Thu, Feb 24 at 1:30 pm - [Senate Higher Education & Workforce Development](/senate/2021-22/HEWD/) Executive Session

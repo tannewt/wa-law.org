@@ -11,4 +11,4 @@
 * [HB 1609](/bill/2021-22/hb/1609/) - Health emergencies/federal | First reading, referred to Labor & Workplace Standards.
 * [HB 1641](/bill/2021-22/hb/1641/) - Custom farming, etc./tax | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 1750](/bill/2021-22/hb/1750/) - Agricultural overtime | First reading, referred to Labor & Workplace Standards.
-* [HB 1794](/bill/2021-22/hb/1794/) - Dishonored paycheck fees | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [HB 1794](/bill/2021-22/hb/1794/) - Dishonored paycheck fees | Passed to Rules Committee for second reading.

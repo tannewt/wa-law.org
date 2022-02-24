@@ -6,7 +6,7 @@
 * [HB 1700](/bill/2021-22/hb/1700/) - Derelict vessel removal | Referred to Ways & Means.
 * [HB 1733](/bill/2021-22/hb/1733/) - Long-term care/exemptions | Effective date 6/9/2022.
 * [HB 1760](/bill/2021-22/hb/1760/) - Dual credit program access | First reading, referred to Ways & Means.
-* [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | First reading, referred to Ways & Means.
+* [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | Passed to Rules Committee for second reading.
 * [HB 1805](/bill/2021-22/hb/1805/) - Opportunity scholarship prog | On motion, referred to Ways & Means.
-* [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | First reading, referred to Early Learning & K-12 Education.
-* [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | Minority; without recommendation.
+* [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | Passed to Rules Committee for second reading.
+* [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | Referred to Appropriations.

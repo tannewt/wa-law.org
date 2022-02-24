@@ -1,6 +1,6 @@
 # Jesse Young
 ## Bills
-* [HB 1231](/bill/2021-22/hb/1231/) - Traffic lane merge education | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1231](/bill/2021-22/hb/1231/) - Traffic lane merge education | Returned to Rules Committee for second reading.
 * [HB 1235](/bill/2021-22/hb/1235/) - School construction taxes | By resolution, reintroduced and retained in present status.
 * [HB 1270](/bill/2021-22/hb/1270/) - Leadership skills grant prg. | By resolution, reintroduced and retained in present status.
 * [HB 1296](/bill/2021-22/hb/1296/) - Behavioral health admin orgs | Effective date 4/26/2021.
@@ -22,4 +22,4 @@
 * [HB 2028](/bill/2021-22/hb/2028/) - Narrows bridge/deferred tax | First reading, referred to Appropriations.
 * [HB 2081](/bill/2021-22/hb/2081/) - Voter reg./firearm app. | First reading, referred to State Government & Tribal Relations.
 * [HB 2120](/bill/2021-22/hb/2120/) - Emergency services/crimes | First reading, referred to Public Safety.
-* [HB 2121](/bill/2021-22/hb/2121/) - Concerning abortion. | First reading, referred to Health Care & Wellness.
+* [HB 2121](/bill/2021-22/hb/2121/) - Abortion | First reading, referred to Health Care & Wellness.

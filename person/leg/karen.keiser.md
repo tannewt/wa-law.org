@@ -15,15 +15,15 @@
 * [SB 5507](/bill/2021-22/sb/5507/) - Dialysate & dialysis devices | First reading, referred to Health & Long Term Care.
 * [SB 5517](/bill/2021-22/sb/5517/) - Cannabis/employment | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5520](/bill/2021-22/sb/5520/) - Harassment & discrim. NDAs | Senate Rules "X" file.
-* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | First reading, referred to Health Care & Wellness.
+* [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | HCW - Executive action taken by committee.
 * [SB 5533](/bill/2021-22/sb/5533/) - Online marketplaces | First reading, referred to Environment, Energy & Technology.
-* [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | First reading, referred to Health Care & Wellness.
+* [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | HCW - Majority; do pass.
 * [SB 5547](/bill/2021-22/sb/5547/) - Marijuana products | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | LAWS - Executive action taken by committee.
-* [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | First reading, referred to College & Workforce Development.
+* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | Referred to Rules 2 Review.
+* [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | CWD - Executive action taken by committee.
 * [SB 5604](/bill/2021-22/sb/5604/) - Contractor licensing refs | Senate Rules "X" file.
 * [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.
-* [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | First reading, referred to Labor & Workplace Standards.
+* [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | Minority; do not pass.
 * [SB 5840](/bill/2021-22/sb/5840/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
-* [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | LAWS - Majority; do pass.
-* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | First reading, referred to Labor & Workplace Standards.
+* [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | Referred to Rules 2 Review.
+* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | Minority; do not pass.

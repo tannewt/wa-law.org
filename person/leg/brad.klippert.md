@@ -10,7 +10,7 @@
 * [HB 1014](/bill/2021-22/hb/1014/) - Governor election by county | By resolution, reintroduced and retained in present status.
 * [HB 1017](/bill/2021-22/hb/1017/) - Emergency order oversight | By resolution, reintroduced and retained in present status.
 * [HB 1020](/bill/2021-22/hb/1020/) - Governor's emergency powers | By resolution, reintroduced and retained in present status.
-* [HB 1261](/bill/2021-22/hb/1261/) - Wildlife harvest reports | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 1261](/bill/2021-22/hb/1261/) - Wildlife harvest reports | Returned to Rules Committee for second reading.
 * [HB 1262](/bill/2021-22/hb/1262/) - Officer background checks | Referred to Public Safety.
 * [HB 1360](/bill/2021-22/hb/1360/) - Ballots missing postmarks | By resolution, reintroduced and retained in present status.
 * [HB 1361](/bill/2021-22/hb/1361/) - Mailing of ballots | By resolution, reintroduced and retained in present status.
@@ -40,5 +40,5 @@
 * [HB 1986](/bill/2021-22/hb/1986/) - School district boards | First reading, referred to Education.
 * [HB 2021](/bill/2021-22/hb/2021/) - Multiple substances DUI | First reading, referred to Public Safety.
 * [HB 2036](/bill/2021-22/hb/2036/) - Law enf. agency equipment | First reading, referred to Public Safety.
-* [HB 2082](/bill/2021-22/hb/2082/) - Child care access report | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 2082](/bill/2021-22/hb/2082/) - Child care access report | Returned to Rules Committee for second reading.
 * [HB 2087](/bill/2021-22/hb/2087/) - Education/parent rights | First reading, referred to Education.

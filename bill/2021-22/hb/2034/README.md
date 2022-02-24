@@ -8,6 +8,3 @@ Concerning juvenile records.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Tue, Feb 22 at 1:30 pm - [Senate Human Services, Reentry & Rehabilitation](/senate/2021-22/HSRR/) Executive Session

@@ -9,30 +9,19 @@
 * [John Lovick](/person/leg/john.lovick.md)
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 ## Upcoming Meetings
-### Tue, Feb 22 at 8:00 am
-Public Hearing
-* [ESHB 1497](/bill/2021-22/hb/1497/) - Concerning commercial telephone solicitation. (Remote testimony.)
-* [ESHB 1650](/bill/2021-22/hb/1650/) - Concerning commercial solicitation. (Remote testimony.)
-* [ESHB 1930](/bill/2021-22/hb/1930/) - Concerning license renewals for cosmetologists, hair designers, barbers, manicurists, and estheticians. (Remote testimony.) **12👍** **1👎** **2❓**
-* [SHB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. (Remote testimony.) **8👍** **76👎** **0❓**
-* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation. (Remote testimony.)
-* [HB 1704](/bill/2021-22/hb/1704/) - Regulating service contracts and protection product guarantees. (Remote testimony.)
-
+### Thu, Feb 24 at 8:00 am
 Executive Session
-* [EHB 1165](/bill/2021-22/hb/1165/) - Concerning the Washington credit union act. **158👍** **21👎** **0❓**
-* [2SHB 1173](/bill/2021-22/hb/1173/) - Concerning state lands development authorities.
-* [HB 1874](/bill/2021-22/hb/1874/) - Reducing barriers to professional licensure for individuals with previous arrests or criminal convictions. **17👍** **0👎** **0❓**
-* [HB 1899](/bill/2021-22/hb/1899/) - Concerning confidentiality of certain data shared with the department of financial institutions.
+* [ESHB 1497](/bill/2021-22/hb/1497/) - Concerning commercial telephone solicitation. **7👍** **0👎** **1❓**
+* [ESHB 1930](/bill/2021-22/hb/1930/) - Concerning license renewals for cosmetologists, hair designers, barbers, manicurists, and estheticians. **40👍** **2👎** **2❓**
+* [SHB 1967](/bill/2021-22/hb/1967/) - Concerning property tax exemptions for nonprofits. **39👍** **76👎** **0❓**
+* [SHB 1389](/bill/2021-22/hb/1389/) - Concerning transportation. **9👍** **2👎** **5❓**
+* [HB 1704](/bill/2021-22/hb/1704/) - Regulating service contracts and protection product guarantees.
+* [E2SHB 1015](/bill/2021-22/hb/1015/) - Creating the Washington equitable access to credit act. **41👍** **0👎** **0❓**
 * [SHB 1957](/bill/2021-22/hb/1957/) - Establishing a small business disaster recovery financial assistance program. **4👍** **0👎** **1❓**
 
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-### Thu, Feb 24 at 8:00 am
 Work Session
 * Redefining economic success in Washington: 3 Keys to Quality Growth by Lieutenant Governor Denny Heck.
 
-Possible executive session on bills heard in committee. Possible other business.
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

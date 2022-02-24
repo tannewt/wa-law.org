@@ -1,7 +1,7 @@
 # HB 1799 - Organic materials management
 **Primary Sponsor:** [Joe Fitzgibbon](/person/leg/joe.fitzgibbon.md)
 
-*Status: First reading, referred to Environment, Energy & Technology.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1799&Year=2021)
+*Status: And refer to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1799&Year=2021)
 
 Concerning organic materials management.
 
@@ -10,6 +10,3 @@ Concerning organic materials management.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
-
-## Upcoming Meetings
-* Wed, Feb 23 at 8:00 am - [Senate Environment, Energy & Technology](/senate/2021-22/ENET/) Executive Session
