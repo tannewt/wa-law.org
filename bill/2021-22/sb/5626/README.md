@@ -8,6 +8,3 @@ Adding a climate resilience element to water system plans.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Thu, Feb 24 at 10:00 am - [House Environment & Energy](/house/2021-22/ENVI/) Executive Session

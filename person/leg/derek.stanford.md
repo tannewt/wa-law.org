@@ -14,7 +14,7 @@
 * [SB 5379](/bill/2021-22/sb/5379/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
 * [SB 5408](/bill/2021-22/sb/5408/) - Homestead exemption | Effective date 5/12/2021.
 * [SB 5410](/bill/2021-22/sb/5410/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
-* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | RDAN - Executive action taken by committee.
+* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | Referred to Appropriations.
 * [SB 5419](/bill/2021-22/sb/5419/) - Statuary hall/Billy Frank Jr | By resolution, reintroduced and retained in present status.
 * [SB 5425](/bill/2021-22/sb/5425/) - Unempl. extended benefits | Effective date 4/16/2021.
 * [SB 5571](/bill/2021-22/sb/5571/) - 911 emergency communications | First reading, referred to State Government & Elections.
@@ -31,3 +31,4 @@
 * [SB 5955](/bill/2021-22/sb/5955/) - Railroad grade crossings | First reading, referred to Transportation.
 * [SB 5956](/bill/2021-22/sb/5956/) - Insurance data security | First reading, referred to Business, Financial Services & Trade.
 * [SB 5973](/bill/2021-22/sb/5973/) - Fur products | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5981](/bill/2021-22/sb/5981/) - Cannabinoid products | First reading, referred to Labor, Commerce & Tribal Affairs.

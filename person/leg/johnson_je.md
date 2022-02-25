@@ -7,5 +7,5 @@
 * [HB 1203](/bill/2021-22/hb/1203/) - Community oversight boards | By resolution, reintroduced and retained in present status.
 * [HB 1310](/bill/2021-22/hb/1310/) - Uses of force by officers | Effective date 7/25/2021.
 * [HB 1565](/bill/2021-22/hb/1565/) - PERS/TRS 1 benefit increase | By resolution, reintroduced and retained in present status.
-* [HB 1735](/bill/2021-22/hb/1735/) - Peace officers/use of force | Passed to Rules Committee for second reading.
+* [HB 1735](/bill/2021-22/hb/1735/) - Peace officers/use of force | Placed on second reading by Rules Committee.
 * [HB 1829](/bill/2021-22/hb/1829/) - African American studies | First reading, referred to Education.

@@ -13,9 +13,9 @@
 * [SB 5696](/bill/2021-22/sb/5696/) - Capital gains tax/repeal | First reading, referred to Ways & Means.
 * [SB 5777](/bill/2021-22/sb/5777/) - COVID-19 vaccine/children | First reading, referred to Early Learning & K-12 Education.
 * [SB 5778](/bill/2021-22/sb/5778/) - Vehicle inspection backlog | First reading, referred to Transportation.
-* [SB 5790](/bill/2021-22/sb/5790/) - Community support services | First reading, referred to Housing, Human Services & Veterans.
+* [SB 5790](/bill/2021-22/sb/5790/) - Community support services | Referred to Appropriations.
 * [SB 5804](/bill/2021-22/sb/5804/) - Gain-of-function research | First reading, referred to Health & Long Term Care.
-* [SB 5819](/bill/2021-22/sb/5819/) - DDA no-paid caseload | HHSV - Majority; do pass.
+* [SB 5819](/bill/2021-22/sb/5819/) - DDA no-paid caseload | Referred to Appropriations.
 * [SB 5829](/bill/2021-22/sb/5829/) - Behavioral health approps | First reading, referred to Health & Long Term Care.
 * [SB 5857](/bill/2021-22/sb/5857/) - Toxics control accts/water | First reading, referred to Environment, Energy & Technology.
 * [SB 5921](/bill/2021-22/sb/5921/) - County timber tax distrib. | First reading, referred to Ways & Means.

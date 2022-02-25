@@ -1,7 +1,7 @@
 # SB 5496 - Health prof. monitoring
 **Primary Sponsor:** [Ron Muzzall](/person/leg/muzzall_ro.md)
 
-*Status: HCW - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5496&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5496&Year=2021)
 
 Concerning health professional monitoring programs.
 

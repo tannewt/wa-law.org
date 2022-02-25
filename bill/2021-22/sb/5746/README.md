@@ -1,7 +1,7 @@
 # SB 5746 - Drought preparedness
 **Primary Sponsor:** [Judy Warnick](/person/leg/judith.warnick.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5746&Year=2021)
+*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5746&Year=2021)
 
 Concerning drought preparedness, response, and funding.
 

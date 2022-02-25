@@ -4,7 +4,7 @@
 * [SB 5024](/bill/2021-22/sb/5024/) - Condominium construction | Effective date 7/25/2021.
 * [SB 5027](/bill/2021-22/sb/5027/) - Television closed captions | Effective date 7/25/2021.
 * [SB 5053](/bill/2021-22/sb/5053/) - Abortion, notifying parents | By resolution, reintroduced and retained in present status.
-* [ESB 5054](/bill/2021-22/esb/5054/) - Impaired driving | First reading, referred to Public Safety.
+* [ESB 5054](/bill/2021-22/esb/5054/) - Impaired driving | Referred to Appropriations.
 * [SB 5094](/bill/2021-22/sb/5094/) - Vascular neck restraints | By resolution, reintroduced and retained in present status.
 * [SB 5233](/bill/2021-22/sb/5233/) - Home studies/children | By resolution, reintroduced and retained in present status.
 * [SB 5234](/bill/2021-22/sb/5234/) - Long-term care trust repeal | By resolution, reintroduced and retained in present status.

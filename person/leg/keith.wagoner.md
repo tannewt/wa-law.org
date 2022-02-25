@@ -12,13 +12,13 @@
 * [SB 5435](/bill/2021-22/sb/5435/) - Parking spaces/disability | By resolution, reintroduced and retained in present status.
 * [SB 5458](/bill/2021-22/sb/5458/) - Public contracts/businesses | By resolution, reintroduced and retained in present status.
 * [SB 5461](/bill/2021-22/sb/5461/) - Forest health activities | By resolution, reintroduced and retained in present status.
-* [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | CWD - Majority; do pass.
-* [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | First reading, referred to Environment & Energy.
+* [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | Referred to Rules 2 Review.
+* [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | Referred to Rules 2 Review.
 * [SB 5638](/bill/2021-22/sb/5638/) - Mental health prof. licenses | First reading, referred to Health Care & Wellness.
-* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | CWD - Majority; do pass with amendment(s).
+* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Referred to Rules 2 Review.
 * [SB 5646](/bill/2021-22/sb/5646/) - Corrections/body scanners | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5679](/bill/2021-22/sb/5679/) - Elections/voter confidence | First reading, referred to State Government & Elections.
-* [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | First reading, referred to Education.
+* [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Referred to Rules 2 Review.
 * [SB 5816](/bill/2021-22/sb/5816/) - 988 line tax | First reading, referred to Health & Long Term Care.
-* [SB 5931](/bill/2021-22/sb/5931/) - Judges pro tempore/COA | Minority; without recommendation.
+* [SB 5931](/bill/2021-22/sb/5931/) - Judges pro tempore/COA | Referred to Rules 2 Review.
 * [SB 5970](/bill/2021-22/sb/5970/) - Vehicle taxes & fees | First reading, referred to Transportation.

@@ -9,5 +9,5 @@
 * [HB 1666](/bill/2021-22/hb/1666/) - Public infra./tax valuation | First reading, referred to Ways & Means.
 * [HB 1667](/bill/2021-22/hb/1667/) - Cannabis business ownership | First reading, referred to Commerce & Gaming.
 * [HB 1672](/bill/2021-22/hb/1672/) - Conservation futures/taxes | First reading, referred to Finance.
-* [HB 1975](/bill/2021-22/hb/1975/) - Management/housing auths | First reading, referred to Housing & Local Government.
+* [HB 1975](/bill/2021-22/hb/1975/) - Management/housing auths | Passed to Rules Committee for second reading.
 * [HB 2074](/bill/2021-22/hb/2074/) - Off-road vehicles fees | First reading, referred to Transportation.

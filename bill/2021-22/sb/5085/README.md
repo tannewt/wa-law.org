@@ -1,7 +1,7 @@
 # SB 5085 - Electric motorcycles/fees
 **Primary Sponsor:** [Christine Rolfes](/person/leg/christine.rolfes.md)
 
-*Status: Passed to Rules Committee for third reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5085&Year=2021)
+*Status: Placed on third reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5085&Year=2021)
 
 Modifying the alternative fuel vehicle fee for electric motorcycles.
 

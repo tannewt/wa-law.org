@@ -5,7 +5,7 @@
 * [HB 1048](/bill/2021-22/hb/1048/) - Criminal mistreatment | Passed to Rules Committee for second reading.
 * [HB 1243](/bill/2021-22/hb/1243/) - Local infra. project areas | By resolution, reintroduced and retained in present status.
 * [HB 1260](/bill/2021-22/hb/1260/) - Marijuana market | By resolution, reintroduced and retained in present status.
-* [HB 1329](/bill/2021-22/hb/1329/) - Public meetings | SGE - Majority; do pass with amendment(s).
+* [HB 1329](/bill/2021-22/hb/1329/) - Public meetings | Passed to Rules Committee for second reading.
 * [EHB 1386](/bill/2021-22/ehb/1386/) - Industrial/manuf. facilities | Effective date 7/25/2021.
 * [HB 1469](/bill/2021-22/hb/1469/) - Enhanced raffle procedures | Effective date 7/25/2021.
 * [HB 1854](/bill/2021-22/hb/1854/) - Hearing instruments coverage | First reading, referred to Health Care & Wellness.

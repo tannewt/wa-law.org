@@ -9,7 +9,7 @@
 * [HB 1350](/bill/2021-22/hb/1350/) - Limited equity coop. housing | By resolution, reintroduced and retained in present status.
 * [HB 1610](/bill/2021-22/hb/1610/) - OT licensure compact | First reading, referred to Health Care & Wellness.
 * [HB 1645](/bill/2021-22/hb/1645/) - Assisted living payments | First reading, referred to Appropriations.
-* [HB 1646](/bill/2021-22/hb/1646/) - Dementia action collab. | Passed to Rules Committee for second reading.
+* [HB 1646](/bill/2021-22/hb/1646/) - Dementia action collab. | Placed on second reading by Rules Committee.
 * [HB 1675](/bill/2021-22/hb/1675/) - Dialysate & dialysis devices | Passed to Rules Committee for second reading.
 * [HB 1782](/bill/2021-22/hb/1782/) - Middle housing near transit | Returned to Rules Committee for second reading.
 * [HB 1853](/bill/2021-22/hb/1853/) - Cosmetic products/chemicals | First reading, referred to Environment & Energy.

@@ -1,7 +1,7 @@
 # SB 5155 - Prejudgment interest
 **Primary Sponsor:** [Patty Kuderer](/person/leg/patty.kuderer.md)
 
-*Status: CRJ - Majority; do pass with amendment(s).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5155&Year=2021)
+*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5155&Year=2021)
 
 Concerning prejudgment interest.
 

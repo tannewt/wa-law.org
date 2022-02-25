@@ -10,13 +10,13 @@
 * [SB 5355](/bill/2021-22/sb/5355/) - Wage liens | Effective date 1/1/2022.
 * [SB 5367](/bill/2021-22/sb/5367/) - Retirement contrib. refunds | Effective date 7/25/2021.
 * [SB 5652](/bill/2021-22/sb/5652/) - LEOFF benefits | First reading, referred to Appropriations.
-* [SB 5676](/bill/2021-22/sb/5676/) - PERS/TRS 1 benefit increase | First reading, referred to Appropriations.
+* [SB 5676](/bill/2021-22/sb/5676/) - PERS/TRS 1 benefit increase | APP - Executive action taken by committee.
 * [SB 5699](/bill/2021-22/sb/5699/) - Cannabis analysis labs | Senate Rules "X" file.
 * [SB 5700](/bill/2021-22/sb/5700/) - Plan 2 members/insurance | First reading, referred to Ways & Means.
 * [SB 5718](/bill/2021-22/sb/5718/) - School employees/insurance | First reading, referred to Ways & Means.
 * [SB 5774](/bill/2021-22/sb/5774/) - War on terror monument | First reading, referred to State Government & Elections.
 * [SB 5782](/bill/2021-22/sb/5782/) - Defense compatibility | First reading, referred to Capital Budget.
-* [SB 5783](/bill/2021-22/sb/5783/) - Underground economy | Minority; without recommendation.
+* [SB 5783](/bill/2021-22/sb/5783/) - Underground economy | Referred to Rules 2 Review.
 * [SB 5877](/bill/2021-22/sb/5877/) - Higher ed antidiscrimination | Referred to Ways & Means.
 * [SB 5891](/bill/2021-22/sb/5891/) - Warehouse dist. centers | Senate Rules "X" file.
 * [SB 5950](/bill/2021-22/sb/5950/) - Historic auto museums/tax | First reading, referred to Ways & Means.

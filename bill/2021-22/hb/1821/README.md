@@ -1,7 +1,7 @@
 # HB 1821 - Telemedicine/relationship
 **Primary Sponsor:** [Joe Schmick](/person/leg/joe.schmick.md)
 
-*Status: HLTC - Majority; do pass with amendment(s).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1821&Year=2021)
+*Status: Passed to Rules Committee for second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1821&Year=2021)
 
 Concerning the definition of established relationship for purposes of audio-only telemedicine.
 

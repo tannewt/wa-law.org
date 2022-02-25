@@ -12,7 +12,7 @@
 * [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | Referred to Rules 2 Review.
 * [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | First reading, referred to Transportation.
 * [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | First reading, referred to Finance.
-* [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | CRJ - Majority; do pass.
+* [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | Referred to Rules 2 Review.
 * [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | Referred to Rules 2 Review.
-* [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | CRJ - Executive action taken by committee.
+* [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | Referred to Rules 2 Review.
 * [SCR 8404](/bill/2021-22/scr/8404/) - Cutoff dates | Filed with Secretary of State.

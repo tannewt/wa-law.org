@@ -1,7 +1,7 @@
 # SB 5628 - Cyber harassment
 **Primary Sponsor:** [Manka Dhingra](/person/leg/manka.dhingra.md)
 
-*Status: First reading, referred to Public Safety.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5628&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5628&Year=2021)
 
 Concerning cyber harassment, addressing concerns in the case of Rynearson v. Ferguson, and adding a crime of cyberstalking.
 
@@ -9,6 +9,3 @@ Concerning cyber harassment, addressing concerns in the case of Rynearson v. Fer
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Thu, Feb 24 at 10:00 am - [House Public Safety](/house/2021-22/PS/) Executive Session

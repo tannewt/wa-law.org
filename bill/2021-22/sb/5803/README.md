@@ -1,7 +1,7 @@
 # SB 5803 - Wildfires/electric utilities
 **Primary Sponsor:** [Christine Rolfes](/person/leg/christine.rolfes.md)
 
-*Status: RDAN - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5803&Year=2021)
+*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5803&Year=2021)
 
 Mitigating the risk of wildfires caused by an electric utility's equipment.
 

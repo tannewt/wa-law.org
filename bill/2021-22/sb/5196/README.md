@@ -1,7 +1,7 @@
 # SB 5196 - Special legislative sessions
 **Primary Sponsor:** [Andy Billig](/person/leg/andy.billig.md)
 
-*Status: SGOV - Majority; do pass.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5196&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5196&Year=2021)
 
 Describing how the legislature may convene a special session.
 

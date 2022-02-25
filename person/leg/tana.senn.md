@@ -6,8 +6,8 @@
 * [HB 1234](/bill/2021-22/hb/1234/) - Weapons/government buildings | By resolution, reintroduced and retained in present status.
 * [HB 1283](/bill/2021-22/hb/1283/) - Criminal mischief/weapons | Returned to Rules Committee for second reading.
 * [HB 1496](/bill/2021-22/hb/1496/) - High valued assets tax | By resolution, reintroduced and retained in present status.
-* [HB 1630](/bill/2021-22/hb/1630/) - Weapons/certain meetings | First reading, referred to Law & Justice.
-* [HB 1644](/bill/2021-22/hb/1644/) - Pupil transp./electric | Minority; without recommendation.
+* [HB 1630](/bill/2021-22/hb/1630/) - Weapons/certain meetings | Passed to Rules Committee for second reading.
+* [HB 1644](/bill/2021-22/hb/1644/) - Pupil transp./electric | Passed to Rules Committee for second reading.
 * [HB 1729](/bill/2021-22/hb/1729/) - Blockchain work group | Referred to Rules 2 Review.
 * [HB 1872](/bill/2021-22/hb/1872/) - Care worker center | Referred to Appropriations.
 * [HB 1900](/bill/2021-22/hb/1900/) - Schools/discrimination, etc. | First reading, referred to Education.

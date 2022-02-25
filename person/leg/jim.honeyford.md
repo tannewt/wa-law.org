@@ -17,6 +17,6 @@
 * [SB 5661](/bill/2021-22/sb/5661/) - Fish and wildlife commission | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5742](/bill/2021-22/sb/5742/) - Stormwater facilities/county | First reading, referred to Housing & Local Government.
 * [SB 5743](/bill/2021-22/sb/5743/) - Kratom | First reading, referred to Law & Justice.
-* [SB 5927](/bill/2021-22/sb/5927/) - Retail cannabis outlets | Minority; without recommendation.
+* [SB 5927](/bill/2021-22/sb/5927/) - Retail cannabis outlets | Referred to Rules 2 Review.
 * [SB 5941](/bill/2021-22/sb/5941/) - Kratom | First reading, referred to Law & Justice.
 * [SB 5958](/bill/2021-22/sb/5958/) - Higher ed. capital grants | First reading, referred to Ways & Means.

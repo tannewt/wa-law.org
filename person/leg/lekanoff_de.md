@@ -1,8 +1,8 @@
 # Debra Lekanoff
 ## Bills
 * [HB 1072](/bill/2021-22/hb/1072/) - Civil legal aid funds/use | Chapter 58, 2021 Laws.
-* [HB 1117](/bill/2021-22/hb/1117/) - Comp. planning/salmon | First reading, referred to Housing & Local Government (Not Officially read and referred until adoption of Introduction report).
-* [HB 1172](/bill/2021-22/hb/1172/) - Tribal fishing rights | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [HB 1117](/bill/2021-22/hb/1117/) - Comp. planning/salmon | Referred to Ways & Means.
+* [HB 1172](/bill/2021-22/hb/1172/) - Tribal fishing rights | Passed to Rules Committee for second reading.
 * [HB 1326](/bill/2021-22/hb/1326/) - Coroners & medical examiners | Effective date 7/25/2021*.
 * [HB 1356](/bill/2021-22/hb/1356/) - Native American names, etc. | Effective date 7/25/2021.
 * [HB 1372](/bill/2021-22/hb/1372/) - Statuary hall/Billy Frank Jr | Effective date 7/25/2021.

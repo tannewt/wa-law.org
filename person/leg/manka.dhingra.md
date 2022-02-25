@@ -11,16 +11,16 @@
 * [SB 5180](/bill/2021-22/sb/5180/) - Vacating certain convictions | Effective date 7/25/2021.
 * [SB 5209](/bill/2021-22/sb/5209/) - Crisis response services | By resolution, reintroduced and retained in present status.
 * [SB 5210](/bill/2021-22/sb/5210/) - Comp. restoration orders | Senate Rules "X" file.
-* [SB 5241](/bill/2021-22/sb/5241/) - Economic inclusion | Minority; without recommendation.
+* [SB 5241](/bill/2021-22/sb/5241/) - Economic inclusion | Referred to Appropriations.
 * [SB 5282](/bill/2021-22/sb/5282/) - Property value/emergency | By resolution, reintroduced and retained in present status.
 * [SB 5297](/bill/2021-22/sb/5297/) - Civil protection orders | By resolution, reintroduced and retained in present status.
 * [ESB 5476](/bill/2021-22/esb/5476/) - State v. Blake decision | Effective date 7/25/2021*.
-* [ESB 5561](/bill/2021-22/esb/5561/) - Firearm rights restoration | Minority; do not pass.
-* [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | First reading, referred to Public Safety.
+* [ESB 5561](/bill/2021-22/esb/5561/) - Firearm rights restoration | Referred to Rules 2 Review.
+* [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Referred to Rules 2 Review.
 * [SB 5645](/bill/2021-22/sb/5645/) - Assisted outpatient treat. | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5655](/bill/2021-22/sb/5655/) - Invol. treatment refusals | Referred to Ways & Means.
 * [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Senate Rules "X" file.
-* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Minority; without recommendation.
+* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Referred to Appropriations.
 * [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Referred to Appropriations.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.

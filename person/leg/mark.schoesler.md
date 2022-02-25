@@ -3,7 +3,7 @@
 * [SB 5197](/bill/2021-22/sb/5197/) - Unemp. contributions/wages | By resolution, reintroduced and retained in present status.
 * [SB 5198](/bill/2021-22/sb/5198/) - Ambulances in rural areas | Effective date 7/25/2021.
 * [SB 5200](/bill/2021-22/sb/5200/) - Scholarships/tax credit | By resolution, reintroduced and retained in present status.
-* [ESB 5202](/bill/2021-22/esb/5202/) - School depreciation subfunds | First reading, referred to Education.
+* [ESB 5202](/bill/2021-22/esb/5202/) - School depreciation subfunds | Referred to Rules 2 Review.
 * [SB 5205](/bill/2021-22/sb/5205/) - K-12 education vouchers | By resolution, reintroduced and retained in present status.
 * [SB 5251](/bill/2021-22/sb/5251/) - Tax and revenue laws | Effective date 7/25/2021.
 * [SB 5296](/bill/2021-22/sb/5296/) - WSP retirement/index def. | Effective date 7/25/2021.
@@ -13,8 +13,8 @@
 * [SB 5453](/bill/2021-22/sb/5453/) - Retirement plans 1 & 2 | By resolution, reintroduced and retained in present status.
 * [ESB 5454](/bill/2021-22/esb/5454/) - Prop. tax/natural disasters | Effective date 7/25/2021.
 * [SB 5503](/bill/2021-22/sb/5503/) - Long-term care products | First reading, referred to Health & Long Term Care.
-* [SB 5643](/bill/2021-22/sb/5643/) - Youth development programs | RDAN - Majority; do pass.
-* [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | First reading, referred to Appropriations.
+* [SB 5643](/bill/2021-22/sb/5643/) - Youth development programs | Referred to Appropriations.
+* [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | APP - Executive action taken by committee.
 * [SB 5786](/bill/2021-22/sb/5786/) - Puget Sound nutrient permits | First reading, referred to Environment, Energy & Technology.
-* [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | First reading, referred to Appropriations.
+* [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | APP - Executive action taken by committee.
 * [ESB 5800](/bill/2021-22/esb/5800/) - Tax and revenue laws | First reading, referred to Finance.

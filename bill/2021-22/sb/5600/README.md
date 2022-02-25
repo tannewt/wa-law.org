@@ -1,7 +1,7 @@
 # SB 5600 - Apprenticeship programs
 **Primary Sponsor:** [Karen Keiser](/person/leg/karen.keiser.md)
 
-*Status: CWD - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5600&Year=2021)
+*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5600&Year=2021)
 
 Concerning the sustainability and expansion of state registered apprenticeship programs.
 

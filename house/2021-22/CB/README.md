@@ -24,24 +24,19 @@
 * [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 * [Mike Volz](/person/leg/mike.volz.md)
 ## Upcoming Meetings
-### Thu, Feb 24 at 8:00 am
-Public Hearing
-* [SB 5782](/bill/2021-22/sb/5782/) - Concerning the defense community compatibility account. (Remote testimony.) **13👍** **0👎** **0❓**
-* [SB 5844](/bill/2021-22/sb/5844/) - Concerning work performed by institutions of higher education. (Remote testimony.)
-* [SB 5895](/bill/2021-22/sb/5895/) - Concerning timing restrictions for remedial action grants to local government. (Remote testimony.) **19👍** **0👎** **0❓**
-
-Executive Session
-* [HB 1781](/bill/2021-22/hb/1781/) - Concerning the capital budget. **0👍** **0👎** **0❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Fri, Feb 25 at 8:00 am
 Public Hearing
 * [ESB 5017](/bill/2021-22/sb/5017/) - Clarifying school district procurement requirements for personal service contracts for construction management, value engineering, constructibility review, and building commissioning. (REVISED FOR ENGROSSED: Clarifying school district procurement requirements for service contracts for construction management, value engineering, constructibility review, and building commissioning.) (Remote testimony.)
 * [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. (Remote testimony.) **1👍** **2👎** **7❓**
 * [SSB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. (Remote testimony.) **73👍** **0👎** **1❓**
+
+Executive Session
+* [ESB 5017](/bill/2021-22/sb/5017/) - Clarifying school district procurement requirements for personal service contracts for construction management, value engineering, constructibility review, and building commissioning. (REVISED FOR ENGROSSED: Clarifying school district procurement requirements for service contracts for construction management, value engineering, constructibility review, and building commissioning.)
+* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. **1👍** **2👎** **7❓**
+* [SB 5782](/bill/2021-22/sb/5782/) - Concerning the defense community compatibility account. **26👍** **0👎** **0❓**
+* [SB 5844](/bill/2021-22/sb/5844/) - Concerning work performed by institutions of higher education. **5👍** **0👎** **0❓**
+* [SB 5895](/bill/2021-22/sb/5895/) - Concerning timing restrictions for remedial action grants to local government. **37👍** **0👎** **0❓**
+* [SSB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. **73👍** **0👎** **1❓**
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

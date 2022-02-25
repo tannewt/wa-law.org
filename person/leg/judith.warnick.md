@@ -12,12 +12,12 @@
 * [SB 5384](/bill/2021-22/sb/5384/) - Volunteer firefighters | Effective date 4/16/2021.
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | Referred to Rules 2 Review.
-* [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | RDAN - Majority; do pass.
-* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Minority; without recommendation.
+* [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | Referred to Rules 2 Review.
+* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Referred to Appropriations.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | First reading, referred to Health Care & Wellness.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Referred to Rules 2 Review.
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | Referred to Ways & Means.
-* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | RDAN - Executive action taken by committee.
+* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Referred to Rules 2 Review.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Civil Rights & Judiciary.
-* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | SGOV - Executive action taken by committee.
+* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Referred to Rules 2 Review.

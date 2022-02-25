@@ -9,14 +9,14 @@
 * [SB 5285](/bill/2021-22/sb/5285/) - Earned time | By resolution, reintroduced and retained in present status.
 * [SB 5387](/bill/2021-22/sb/5387/) - Working families tax exempt. | By resolution, reintroduced and retained in present status.
 * [SB 5401](/bill/2021-22/sb/5401/) - CTC computer science degrees | Effective date 7/25/2021.
-* [SB 5428](/bill/2021-22/sb/5428/) - SEPA/shelters & encampments | First reading, referred to Environment & Energy.
+* [SB 5428](/bill/2021-22/sb/5428/) - SEPA/shelters & encampments | Referred to Rules 2 Review.
 * [SB 5460](/bill/2021-22/sb/5460/) - Autonomous vehicles | Effective date 7/25/2021*.
 * [SB 5485](/bill/2021-22/sb/5485/) - Traffic stops | By resolution, reintroduced and retained in present status.
-* [SB 5701](/bill/2021-22/sb/5701/) - Workers' comp wages | Minority; without recommendation.
-* [SB 5722](/bill/2021-22/sb/5722/) - Greenhouse gases/buildings | Minority; do not pass.
-* [SB 5729](/bill/2021-22/sb/5729/) - Hearing deadlines/good cause | First reading, referred to Housing, Human Services & Veterans.
+* [SB 5701](/bill/2021-22/sb/5701/) - Workers' comp wages | Referred to Rules 2 Review.
+* [SB 5722](/bill/2021-22/sb/5722/) - Greenhouse gases/buildings | Referred to Appropriations.
+* [SB 5729](/bill/2021-22/sb/5729/) - Hearing deadlines/good cause | Referred to Rules 2 Review.
 * [SB 5744](/bill/2021-22/sb/5744/) - Clean tech. tax deferrals | Referred to Ways & Means.
-* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | CPB - Majority; do pass.
+* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Referred to Rules 2 Review.
 * [SB 5828](/bill/2021-22/sb/5828/) - Autonomous vehicles | Senate Rules "X" file.
 * [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | Referred to Rules 2 Review.
 * [SB 5963](/bill/2021-22/sb/5963/) - Working families' tax exempt | First reading, referred to Ways & Means.

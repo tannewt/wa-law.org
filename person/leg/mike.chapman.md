@@ -4,5 +4,5 @@
 * [HB 1387](/bill/2021-22/hb/1387/) - Hog fuel tax exemption | By resolution, reintroduced and retained in present status.
 * [HB 1495](/bill/2021-22/hb/1495/) - Auto dealers/cash incentives | Governor vetoed.
 * [HB 1508](/bill/2021-22/hb/1508/) - Shellfish sanitary control | Referred to Ways & Means.
-* [HB 1626](/bill/2021-22/hb/1626/) - WDFW electronic licensing | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [HB 1626](/bill/2021-22/hb/1626/) - WDFW electronic licensing | Passed to Rules Committee for second reading.
 * [HB 1965](/bill/2021-22/hb/1965/) - Support and services levies | Referred to Rules 2 Review.

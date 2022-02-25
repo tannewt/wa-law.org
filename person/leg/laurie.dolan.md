@@ -9,8 +9,8 @@
 * [HB 1484](/bill/2021-22/hb/1484/) - Building mapping system | Effective date 7/1/2021.
 * [HB 1590](/bill/2021-22/hb/1590/) - Enrollment stabilization | First reading, referred to Ways & Means.
 * [HB 1591](/bill/2021-22/hb/1591/) - Charter schools/local enrich | First reading, referred to Appropriations.
-* [HB 1611](/bill/2021-22/hb/1611/) - Highly capable students | EDU - Majority; do pass with amendment(s).
+* [HB 1611](/bill/2021-22/hb/1611/) - Highly capable students | Passed to Rules Committee for second reading.
 * [HB 1629](/bill/2021-22/hb/1629/) - Aerial imaging technology | Referred to Ways & Means.
 * [HB 1652](/bill/2021-22/hb/1652/) - Conserv. district elections | Referred to Rules 2 Review.
-* [EHB 1744](/bill/2021-22/ehb/1744/) - Cancer care collaboratives | Minority; do not pass.
+* [EHB 1744](/bill/2021-22/ehb/1744/) - Cancer care collaboratives | Passed to Rules Committee for second reading.
 * [HB 1985](/bill/2021-22/hb/1985/) - Schools/support funding | First reading, referred to Education.

@@ -16,3 +16,4 @@ Testimony is public record. You can see who is signed up to testify [on the webs
 
 ## Upcoming Meetings
 * Fri, Feb 25 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Public Hearing
+* Fri, Feb 25 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Executive Session

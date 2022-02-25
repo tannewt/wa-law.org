@@ -31,21 +31,6 @@
 * [Jim Walsh](/person/leg/jim.walsh.md)
 * [Emily Wicks](/person/leg/wicks_em.md)
 ## Upcoming Meetings
-### Thu, Feb 24 at 1:30 pm
-Public Hearing
-* [SSB 5528](/bill/2021-22/sb/5528/) - Concerning the imposition of supplemental revenue sources within a regional transit authority area. (Remote testimony.)
-* [SSB 5558](/bill/2021-22/sb/5558/) - Concerning the bistate governance of interstate toll bridges owned by local governments. (Remote testimony.)
-* [SSB 5631](/bill/2021-22/sb/5631/) - Making human trafficking a disqualifying offense for a commercial driver's license and coming into compliance with the requirements of the federal motor carrier safety administration. (Remote testimony.)
-* [SSB 5863](/bill/2021-22/sb/5863/) - Concerning the removal of vehicles by a regional transit authority when obstructing the operation of high capacity transportation vehicles or jeopardizing public safety. (Remote testimony.) **22👍** **0👎** **0❓**
-
-Executive Session
-* [HB 1786](/bill/2021-22/hb/1786/) - Making supplemental transportation appropriations for the 2021-2023 fiscal biennium. **0👍** **0👎** **0❓**
-* [HB 2118](/bill/2021-22/hb/2118/) - Concerning additive transportation funding and appropriations. **67👍** **15👎** **11❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Fri, Feb 25 at 10:00 am
 Public Hearing
 * [2SSB 5406](/bill/2021-22/sb/5406/) - Providing compensation for tow truck operators for keeping the public roadways clear. (Remote testimony.) **13👍** **0👎** **0❓**

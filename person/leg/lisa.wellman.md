@@ -4,7 +4,7 @@
 * [SB 5128](/bill/2021-22/sb/5128/) - Student transportation funds | Effective date 5/10/2021.
 * [SB 5161](/bill/2021-22/sb/5161/) - Teaching tribal history, etc | By resolution, reintroduced and retained in present status.
 * [SB 5249](/bill/2021-22/sb/5249/) - Mastery-based learning | Effective date 7/25/2021*.
-* [SB 5252](/bill/2021-22/sb/5252/) - School consultation/tribes | First reading, referred to Education.
+* [SB 5252](/bill/2021-22/sb/5252/) - School consultation/tribes | Referred to Appropriations.
 * [SB 5255](/bill/2021-22/sb/5255/) - Dissolution/doc. language | By resolution, reintroduced and retained in present status.
 * [SB 5299](/bill/2021-22/sb/5299/) - Computer science/HS grad. | Effective date 7/25/2021.
 * [SB 5383](/bill/2021-22/sb/5383/) - Public telecomm. services | Effective date 7/25/2021.
@@ -19,9 +19,9 @@
 * [SB 5580](/bill/2021-22/sb/5580/) - Public works board/broadband | Senate Rules "X" file.
 * [SB 5581](/bill/2021-22/sb/5581/) - Pupil transp. allocations | Referred to Appropriations.
 * [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Senate Rules "X" file.
-* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | First reading, referred to Education.
+* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | Referred to Appropriations.
 * [SB 5659](/bill/2021-22/sb/5659/) - Building material standards | First reading, referred to State Government & Elections.
-* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Minority; do not pass.
+* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Referred to Rules 2 Review.
 * [SB 5760](/bill/2021-22/sb/5760/) - Motion picture program | Referred to Ways & Means.
 * [SB 5775](/bill/2021-22/sb/5775/) - Broadband deployment | First reading, referred to Environment, Energy & Technology.
 * [SB 5902](/bill/2021-22/sb/5902/) - High school grad. credits | First reading, referred to Early Learning & K-12 Education.

@@ -1,7 +1,7 @@
 # SB 5702 - Donor human milk coverage
 **Primary Sponsor:** [Yasmin Trudeau](/person/leg/yasmin.trudeau.md)
 
-*Status: HCW - Executive action taken by committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5702&Year=2021)
+*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5702&Year=2021)
 
 Requiring coverage for donor human milk.
 
