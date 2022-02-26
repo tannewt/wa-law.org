@@ -23,7 +23,7 @@
 Public Hearing
 * [SHB 1790](/bill/2021-22/hb/1790/) - Addressing the creation, display, and material durability of temporary license plates. (Remote testimony.)
 * [E2SHB 1815](/bill/2021-22/hb/1815/) - Deterring catalytic converter theft. (Remote testimony.) **38👍** **49👎** **1❓**
-* [ESHB 2076](/bill/2021-22/hb/2076/) - Concerning rights and obligations of transportation network company drivers and transportation network companies. (Remote testimony.) (If measure is referred to committee.) **36👍** **9👎** **16❓**
+* [ESHB 2076](/bill/2021-22/hb/2076/) - Concerning rights and obligations of transportation network company drivers and transportation network companies. (Remote testimony.) **36👍** **9👎** **16❓**
 
 Possible executive session on bills heard in committee. Possible other business.
 

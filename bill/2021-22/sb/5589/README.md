@@ -8,3 +8,6 @@ Concerning statewide spending on primary care.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Mon, Feb 28 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

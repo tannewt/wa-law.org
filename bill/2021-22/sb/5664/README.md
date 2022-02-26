@@ -9,3 +9,6 @@ Concerning forensic competency restoration programs.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Mon, Feb 28 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

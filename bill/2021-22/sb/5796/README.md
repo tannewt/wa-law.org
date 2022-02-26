@@ -10,3 +10,6 @@ Restructuring cannabis revenue appropriations.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+
+## Upcoming Meetings
+* Mon, Feb 28 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

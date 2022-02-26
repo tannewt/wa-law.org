@@ -74,7 +74,7 @@ Public Hearing
 * [SHB 2051](/bill/2021-22/hb/2051/) - Providing short-term disaster recovery financial assistance to agricultural producers. (Remote testimony.) **13👍** **0👎** **0❓**
 * [SHB 1957](/bill/2021-22/hb/1957/) - Establishing a small business disaster recovery financial assistance program. (Remote testimony.) **4👍** **0👎** **1❓**
 * [ESHB 1629](/bill/2021-22/hb/1629/) - Concerning a comprehensive study of aerial imaging technology uses for state agencies, special purpose districts, and local and tribal governments. (Remote testimony.)
-* [E2SHB 1723](/bill/2021-22/hb/1723/) - Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training. (Remote testimony.) **374👍** **102👎** **8❓**
+* [E2SHB 1723](/bill/2021-22/hb/1723/) - Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training. (Remote testimony.) **351👍** **94👎** **5❓**
 * [E2SHB 1015](/bill/2021-22/hb/1015/) - Creating the Washington equitable access to credit act. (Remote testimony.) **41👍** **0👎** **0❓**
 * [2SHB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. (Remote testimony.) **46👍** **89👎** **0❓**
 * [3SHB 1359](/bill/2021-22/hb/1359/) - Temporarily reducing liquor license fees. (Remote testimony.)
@@ -133,34 +133,34 @@ Executive Session
 * [SHB 2051](/bill/2021-22/hb/2051/) - Providing short-term disaster recovery financial assistance to agricultural producers. **13👍** **0👎** **0❓**
 * [SHB 1957](/bill/2021-22/hb/1957/) - Establishing a small business disaster recovery financial assistance program. **4👍** **0👎** **1❓**
 * [ESHB 1629](/bill/2021-22/hb/1629/) - Concerning a comprehensive study of aerial imaging technology uses for state agencies, special purpose districts, and local and tribal governments.
-* [E2SHB 1723](/bill/2021-22/hb/1723/) - Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training. **374👍** **102👎** **8❓**
+* [E2SHB 1723](/bill/2021-22/hb/1723/) - Closing the digital equity divide by increasing the accessibility and affordability of telecommunications services, devices, and training. **351👍** **94👎** **5❓**
 * [E2SHB 1015](/bill/2021-22/hb/1015/) - Creating the Washington equitable access to credit act. **41👍** **0👎** **0❓**
 * [2SHB 1827](/bill/2021-22/hb/1827/) - Creating the community reinvestment account and community reinvestment program. **46👍** **89👎** **0❓**
 * [3SHB 1359](/bill/2021-22/hb/1359/) - Temporarily reducing liquor license fees.
 * [SHB 1901](/bill/2021-22/hb/1901/) - Updating laws concerning civil protection orders to further enhance and improve their efficacy and accessibility. **199👍** **50👎** **2❓**
 * [E4SHB 1412](/bill/2021-22/hb/1412/) - Concerning legal financial obligations. **131👍** **0👎** **2❓**
-* [E2SHB 1099](/bill/2021-22/hb/1099/) - Improving the state's climate response through updates to the state's comprehensive planning framework. **2178👍** **733👎** **10❓**
-* [ESHB 1333](/bill/2021-22/hb/1333/) - Providing an extension to the local sales and use tax for public facilities in rural counties. **61👍** **3👎** **0❓**
-* [SHB 1508](/bill/2021-22/hb/1508/) - Concerning the sanitary control of shellfish. **12👍** **0👎** **2❓**
+* [E2SHB 1099](/bill/2021-22/hb/1099/) - Improving the state's climate response through updates to the state's comprehensive planning framework. **945👍** **192👎** **7❓**
+* [ESHB 1333](/bill/2021-22/hb/1333/) - Providing an extension to the local sales and use tax for public facilities in rural counties. **41👍** **3👎** **0❓**
+* [SHB 1508](/bill/2021-22/hb/1508/) - Concerning the sanitary control of shellfish. **7👍** **0👎** **1❓**
 * [SHB 1590](/bill/2021-22/hb/1590/) - Concerning enrollment stabilization funding to address enrollment declines due to the COVID-19 pandemic. **403👍** **2737👎** **3❓**
 * [2SHB 1664](/bill/2021-22/hb/1664/) - Concerning prototypical school formulas for physical, social, and emotional support in schools. **607👍** **995👎** **5❓**
 * [HB 1666](/bill/2021-22/hb/1666/) - Clarifying the method for determining the value of specified tangible personal property incorporated as part of certain public infrastructure for the purposes of use tax and business and occupation tax. **8👍** **1👎** **0❓**
-* [HB 1700](/bill/2021-22/hb/1700/) - Concerning sustainable funding for the derelict vessel removal account using the vessel watercraft excise tax. **260👍** **0👎** **0❓**
+* [HB 1700](/bill/2021-22/hb/1700/) - Concerning sustainable funding for the derelict vessel removal account using the vessel watercraft excise tax. **198👍** **0👎** **0❓**
 * [SHB 1789](/bill/2021-22/hb/1789/) - Establishing a property tax exemption for adult family homes that serve people with intellectual or developmental disabilities and are owned by a nonprofit. **30👍** **0👎** **1❓**
-* [2SHB 1818](/bill/2021-22/hb/1818/) - Promoting successful reentry and rehabilitation of persons convicted of criminal offenses. **61👍** **0👎** **0❓**
-* [HB 1859](/bill/2021-22/hb/1859/) - Concerning quality standards for laboratories conducting cannabis analysis. **13👍** **0👎** **0❓**
+* [2SHB 1818](/bill/2021-22/hb/1818/) - Promoting successful reentry and rehabilitation of persons convicted of criminal offenses. **14👍** **0👎** **0❓**
+* [HB 1859](/bill/2021-22/hb/1859/) - Concerning quality standards for laboratories conducting cannabis analysis. **7👍** **0👎** **0❓**
 * [HB 1888](/bill/2021-22/hb/1888/) - Allowing the department of revenue to adjust the rates of remittance reductions in the working families' tax credit in order to align with federal maximum qualifying income levels. **142👍** **0👎** **0❓**
-* [HB 1928](/bill/2021-22/hb/1928/) - Concerning equine industry support. **411👍** **46👎** **5❓**
-* [EHB 1931](/bill/2021-22/hb/1931/) - Sustaining hydropower license fees. **23👍** **7👎** **0❓**
-* [SHB 1958](/bill/2021-22/hb/1958/) - Accelerating rural job growth and promoting economic recovery across Washington through a shovel-ready site certification program and grants. **35👍** **0👎** **0❓**
-* [SHB 1980](/bill/2021-22/hb/1980/) - Removing the prohibition on providing employment services and community access services concurrently. **189👍** **0👎** **2❓**
+* [HB 1928](/bill/2021-22/hb/1928/) - Concerning equine industry support. **296👍** **46👎** **5❓**
+* [EHB 1931](/bill/2021-22/hb/1931/) - Sustaining hydropower license fees. **10👍** **7👎** **0❓**
+* [SHB 1958](/bill/2021-22/hb/1958/) - Accelerating rural job growth and promoting economic recovery across Washington through a shovel-ready site certification program and grants. **23👍** **0👎** **0❓**
+* [SHB 1980](/bill/2021-22/hb/1980/) - Removing the prohibition on providing employment services and community access services concurrently. **83👍** **0👎** **2❓**
 * [EHB 1982](/bill/2021-22/hb/1982/) - Clarifying the applicability of penalty and interest on personal property taxes. **6👍** **0👎** **0❓**
-* [SHB 2050](/bill/2021-22/hb/2050/) - Repealing requirements for parent payment of the cost of their child's support, treatment, and confinement. **31👍** **0👎** **1❓**
-* [HB 2058](/bill/2021-22/hb/2058/) - Concerning the preservation and protection of facilities owned by the state parks and recreation commission that are listed on the Washington heritage register or the national register of historic places. **14👍** **0👎** **0❓**
-* [2SHB 2078](/bill/2021-22/hb/2078/) - Establishing the outdoor learning grant program. **558👍** **80👎** **0❓**
+* [SHB 2050](/bill/2021-22/hb/2050/) - Repealing requirements for parent payment of the cost of their child's support, treatment, and confinement. **11👍** **0👎** **0❓**
+* [HB 2058](/bill/2021-22/hb/2058/) - Concerning the preservation and protection of facilities owned by the state parks and recreation commission that are listed on the Washington heritage register or the national register of historic places. **9👍** **0👎** **0❓**
+* [2SHB 2078](/bill/2021-22/hb/2078/) - Establishing the outdoor learning grant program. **383👍** **80👎** **0❓**
 * [EHB 1752](/bill/2021-22/hb/1752/) - Adding a Roth option to deferred compensation plans. **9👍** **0👎** **0❓**
 * [EHB 2096](/bill/2021-22/hb/2096/) - Concerning the working families' tax exemption, also known as the working families tax credit. **103👍** **0👎** **0❓**
-* [SB 5980](/bill/2021-22/sb/5980/) - Providing substantial and permanent tax relief for small businesses to mitigate structural deficiencies in Washington's business and occupation tax and lessen long-term negative economic consequences of the pandemic that have disproportionately impacted small businesses. **8👍** **1👎** **0❓**
+* [SB 5980](/bill/2021-22/sb/5980/) - Providing substantial and permanent tax relief for small businesses to mitigate structural deficiencies in Washington's business and occupation tax and lessen long-term negative economic consequences of the pandemic that have disproportionately impacted small businesses.
 * [SSB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of vacant lands in urban areas. **13👍** **1👎** **0❓**
 * [SB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. **19👍** **0👎** **0❓**
 
