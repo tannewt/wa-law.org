@@ -56,6 +56,8 @@ for start_year in range(2021, 2023, 2):
             bill_path = bill_path[0]
 
         for dt, meeting, item, meeting_dict in meetings:
+            mId = meeting.AgendaId.text
+            chamber = meeting.Agency.text
             if now < dt:
                 if not activity:
                     activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
@@ -63,19 +65,17 @@ for start_year in range(2021, 2023, 2):
                 # print(item)
                 # print(meeting)
                 # doc link: https://app.leg.wa.gov/committeeschedules/Home/Documents/29441
-                mId = meeting.AgendaId.text
+
+
                 # print("[live]()") # tId=2
                 # print("[written]()") # tId=4
                 # print("[+/-]()") # tId=3
 
-                url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={mId}"
-                agendaItems = requests.get(url, force_fetch=FORCE_FETCH)
-                items = BeautifulSoup(agendaItems.text, "lxml")
-                for item in items.find_all(class_="agendaItem"):
+                items = load_agenda_items(mId, FORCE_FETCH)
+                for item in items:
                     if bill_number not in item.text:
                         continue
-                    chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
-                    url = csi_root_url + f"/{chamber}/TestimonyTypes/?chamber={chamber}&meetingFamilyId={mId}&agendaItemFamilyId={aId}&agendaItemId={caId}"
+                    url = csi_root_url + f"/{chamber}/TestimonyTypes/?chamber={chamber}&meetingFamilyId={item.mId}&agendaItemFamilyId={item.aId}&agendaItemId={item.caId}"
                     testimonyOptions = requests.get(url)
                     testimonyOptions = BeautifulSoup(testimonyOptions.text, "lxml")
                     testimony_links = {}
@@ -91,7 +91,7 @@ for start_year in range(2021, 2023, 2):
                         new_lines.append(f"* ✍️ [Provide written feedback on a bill.](https://app.leg.wa.gov{testimony_links[TESTIFY_WRITTEN]})")
                         new_lines.append(f"* 📺 [Sign up to give live testimony over Zoom.](https://app.leg.wa.gov{testimony_links[TESTIFY_REMOTE]})")
                         new_lines.append("")
-                        new_lines.append(f"Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId={caId}).")
+                        new_lines.append(f"Testimony is public record. You can see who is signed up to testify [on the website](https://app.leg.wa.gov/csi/Home/GetOtherTestifiers/?agendaItemId={item.caId}).")
                         new_lines.append("")
                         utils.add_or_update_section(bill_path, "## Testify", new_lines)
                         testify = True
@@ -263,3 +263,5 @@ for start_year in range(2021, 2023, 2):
             continue
         new_contents = pages[page]
         utils.add_or_update_section(path, new_contents[0], new_contents[1:])
+
+save_cache_files()
