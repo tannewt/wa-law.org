@@ -9,7 +9,7 @@
 * [HB 1512](/bill/2021-22/hb/1512/) - Lodging-related assessments | Effective date 5/10/2021.
 * [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Passed to Rules Committee for second reading.
 * [HB 1707](/bill/2021-22/hb/1707/) - Flotation device use | Returned to Rules Committee for second reading.
-* [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | Placed on second reading consent calendar.
+* [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | Referred to Transportation.
 * [HB 1879](/bill/2021-22/hb/1879/) - Convention economy grants | First reading, referred to Appropriations.
 * [HB 1880](/bill/2021-22/hb/1880/) - Housing benefit districts | Referred to Finance.

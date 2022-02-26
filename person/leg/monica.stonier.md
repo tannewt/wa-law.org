@@ -11,4 +11,4 @@
 * [HB 1861](/bill/2021-22/hb/1861/) - Future fund trust fund | Referred to Appropriations.
 * [HB 1938](/bill/2021-22/hb/1938/) - Student financial education | First reading, referred to Education.
 * [HB 2046](/bill/2021-22/hb/2046/) - Legislative activity ethics | Placed on second reading by Rules Committee.
-* [HB 2068](/bill/2021-22/hb/2068/) - Imagination library | Passed to Rules Committee for second reading.
+* [HB 2068](/bill/2021-22/hb/2068/) - Imagination library | Placed on second reading by Rules Committee.

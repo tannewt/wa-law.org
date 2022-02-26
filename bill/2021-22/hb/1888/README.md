@@ -7,3 +7,6 @@ Allowing the department of revenue to adjust the rates of remittance reductions 
 
 ## Revisions
 * [Original Bill](1/)
+
+## Upcoming Meetings
+* Mon, Feb 28 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

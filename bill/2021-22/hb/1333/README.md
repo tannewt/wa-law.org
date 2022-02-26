@@ -9,3 +9,6 @@ Providing an extension to the local sales and use tax for public facilities in r
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+
+## Upcoming Meetings
+* Mon, Feb 28 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

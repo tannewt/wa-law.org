@@ -8,7 +8,7 @@
 * [HB 1487](/bill/2021-22/hb/1487/) - Unemployment ins. system | House Rules "X" file.
 * [HB 1602](/bill/2021-22/hb/1602/) - Tacoma Narrows project | First reading, referred to Appropriations.
 * [HB 1625](/bill/2021-22/hb/1625/) - Space force reserve members | Passed to Rules Committee for second reading.
-* [HB 1719](/bill/2021-22/hb/1719/) - Military equipment/law enf. | Placed on second reading consent calendar.
+* [HB 1719](/bill/2021-22/hb/1719/) - Military equipment/law enf. | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [HB 1763](/bill/2021-22/hb/1763/) - Workers' comp. exam rights | Referred to Rules 2 Review.
 * [HB 1831](/bill/2021-22/hb/1831/) - Electric vehicle equipment | Referred to Rules 2 Review.
 * [EHB 1837](/bill/2021-22/ehb/1837/) - Musculoskeletal injuries | Passed to Rules Committee for second reading.

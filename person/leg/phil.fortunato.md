@@ -3,7 +3,7 @@
 * [SB 5028](/bill/2021-22/sb/5028/) - Vehicle taxes & fees | By resolution, reintroduced and retained in present status.
 * [SB 5040](/bill/2021-22/sb/5040/) - State highway litter control | Effective date 7/25/2021.
 * [SB 5041](/bill/2021-22/sb/5041/) - Development paperwork | By resolution, reintroduced and retained in present status.
-* [SB 5082](/bill/2021-22/sb/5082/) - Productivity board | Referred to Rules 2 Review.
+* [SB 5082](/bill/2021-22/sb/5082/) - Productivity board | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5100](/bill/2021-22/sb/5100/) - Emergency rules/approval | By resolution, reintroduced and retained in present status.
 * [SB 5107](/bill/2021-22/sb/5107/) - Homelessness/shelter | By resolution, reintroduced and retained in present status.
 * [SB 5113](/bill/2021-22/sb/5113/) - Emergency orders/statutory | By resolution, reintroduced and retained in present status.
@@ -45,5 +45,5 @@
 * [SB 5867](/bill/2021-22/sb/5867/) - Emerg. overnight shelters | Referred to Ways & Means.
 * [SB 5887](/bill/2021-22/sb/5887/) - Special session procedures | First reading, referred to State Government & Elections.
 * [SB 5953](/bill/2021-22/sb/5953/) - Abandoned vehicles/sales tax | First reading, referred to Ways & Means.
-* [SB 5968](/bill/2021-22/sb/5968/) - Salmon populations/effect | First reading, referred to Agriculture, Water, Natural Resources & Parks (Not Officially read and referred until adoption of Introduction report).
+* [SB 5968](/bill/2021-22/sb/5968/) - Salmon populations/effect | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SJR 8211](/bill/2021-22/sjr/8211/) - Revenue for highway purposes | First reading, referred to Transportation.

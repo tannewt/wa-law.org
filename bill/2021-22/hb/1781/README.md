@@ -7,3 +7,4 @@ Concerning the capital budget.
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)

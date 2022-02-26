@@ -15,7 +15,7 @@
 * [HB 1571](/bill/2021-22/hb/1571/) - Indigenous persons/services | Referred to Ways & Means.
 * [HB 1621](/bill/2021-22/hb/1621/) - Sex. assault nurse training | Returned to Rules Committee for second reading.
 * [HB 1622](/bill/2021-22/hb/1622/) - Sex. assault nurse education | Passed to Rules Committee for second reading.
-* [HB 1623](/bill/2021-22/hb/1623/) - Power supply inadequacy | Passed to Rules Committee for second reading.
+* [HB 1623](/bill/2021-22/hb/1623/) - Power supply inadequacy | Placed on second reading by Rules Committee.
 * [HB 1624](/bill/2021-22/hb/1624/) - Motorcycle safety board | Returned to Rules Committee for second reading.
 * [HB 1715](/bill/2021-22/hb/1715/) - Sentencing comm'n members | Returned to Rules Committee for second reading.
 * [HB 1737](/bill/2021-22/hb/1737/) - Public safety | First reading, referred to Public Safety.

@@ -8,7 +8,7 @@
 * [SB 5402](/bill/2021-22/sb/5402/) - Property tax deferral/COVID | By resolution, reintroduced and retained in present status.
 * [SB 5430](/bill/2021-22/sb/5430/) - Advanced tuition payment prg | Effective date 7/25/2021.
 * [SB 5443](/bill/2021-22/sb/5443/) - Charter school time frame | By resolution, reintroduced and retained in present status.
-* [SB 5459](/bill/2021-22/sb/5459/) - Credit card processing/B&O | By resolution, reintroduced and retained in present status.
+* [SB 5459](/bill/2021-22/sb/5459/) - Credit card processing/B&O | Minority; without recommendation.
 * [SB 5468](/bill/2021-22/sb/5468/) - Controlled subst. possession | By resolution, reintroduced and retained in present status.
 * [SB 5474](/bill/2021-22/sb/5474/) - Agency data backup/disasters | By resolution, reintroduced and retained in present status.
 * [SB 5475](/bill/2021-22/sb/5475/) - Controlled subst. possession | By resolution, reintroduced and retained in present status.
@@ -30,4 +30,4 @@
 * [SB 5946](/bill/2021-22/sb/5946/) - LIBOR discontinuance | Referred to Rules 2 Review.
 * [SB 5957](/bill/2021-22/sb/5957/) - Manufacturing B&O tax rate | First reading, referred to Ways & Means.
 * [SB 5964](/bill/2021-22/sb/5964/) - Local permit review process | Referred to Appropriations.
-* [SB 5969](/bill/2021-22/sb/5969/) - Credit scores/insurance | First reading, referred to Business, Financial Services & Trade (Not Officially read and referred until adoption of Introduction report).
+* [SB 5969](/bill/2021-22/sb/5969/) - Credit scores/insurance | First reading, referred to Business, Financial Services & Trade.

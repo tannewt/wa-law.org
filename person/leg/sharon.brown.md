@@ -1,7 +1,7 @@
 # Sharon Brown
 ## Bills
 * [SB 5244](/bill/2021-22/sb/5244/) - Nuclear reactor production | By resolution, reintroduced and retained in present status.
-* [SB 5245](/bill/2021-22/sb/5245/) - Safety of crime victims | Referred to Rules 2 Review.
+* [SB 5245](/bill/2021-22/sb/5245/) - Safety of crime victims | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5327](/bill/2021-22/sb/5327/) - Youth safety tip line | Senate Rules "X" file.
 * [SB 5345](/bill/2021-22/sb/5345/) - Industrial waste program | Effective date 7/25/2021.
 * [SB 5447](/bill/2021-22/sb/5447/) - Financial products | By resolution, reintroduced and retained in present status.

@@ -17,7 +17,7 @@
 * [SB 5670](/bill/2021-22/sb/5670/) - Middle housing near transit | Referred to Ways & Means.
 * [SB 5697](/bill/2021-22/sb/5697/) - Recycling system & waste | Referred to Ways & Means.
 * [SB 5703](/bill/2021-22/sb/5703/) - Cosmetic products/chemicals | Referred to Appropriations.
-* [SB 5713](/bill/2021-22/sb/5713/) - Limited equity coop. housing | Referred to Finance.
+* [SB 5713](/bill/2021-22/sb/5713/) - Limited equity coop. housing | Minority; without recommendation.
 * [SB 5731](/bill/2021-22/sb/5731/) - Organic materials management | First reading, referred to Environment, Energy & Technology.
 * [SB 5732](/bill/2021-22/sb/5732/) - Green roofs | First reading, referred to Environment, Energy & Technology.
 * [SB 5823](/bill/2021-22/sb/5823/) - Local infra. project areas | Referred to Rules 2 Review.

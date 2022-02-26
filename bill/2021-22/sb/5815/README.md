@@ -9,6 +9,3 @@ Implementing an identicard program to provide individuals a Washington state-iss
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Fri, Feb 25 at 10:00 am - [House Transportation](/house/2021-22/TR/) Public Hearing

@@ -17,4 +17,4 @@
 * [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | APP - Executive action taken by committee.
 * [SB 5786](/bill/2021-22/sb/5786/) - Puget Sound nutrient permits | First reading, referred to Environment, Energy & Technology.
 * [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | APP - Executive action taken by committee.
-* [ESB 5800](/bill/2021-22/esb/5800/) - Tax and revenue laws | First reading, referred to Finance.
+* [ESB 5800](/bill/2021-22/esb/5800/) - Tax and revenue laws | FIN - Majority; do pass.

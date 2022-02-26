@@ -18,15 +18,6 @@
 * [Sharon Wylie](/person/leg/sharon.wylie.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Fri, Feb 25 at 8:00 am
-Executive Session
-* [ESSB 5531](/bill/2021-22/sb/5531/) - Concerning the revised uniform unclaimed property act. **2👍** **0👎** **3❓**
-* [SB 5713](/bill/2021-22/sb/5713/) - Providing a property tax exemption for limited equity cooperative housing. **20👍** **255👎** **0❓**
-* [SHB 1918](/bill/2021-22/hb/1918/) - Reducing emissions from outdoor power equipment. **5👍** **42👎** **6❓**
-* [ESB 5800](/bill/2021-22/sb/5800/) - Modifying tax and revenue laws in a manner that is estimated to not affect state or local tax collections by easing compliance burdens for taxpayers, clarifying ambiguities, making technical corrections, and providing administrative efficiencies. **5👍** **0👎** **1❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 28 at 8:00 am
 Executive Session
 * Bills previously heard in committee.

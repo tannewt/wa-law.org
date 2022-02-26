@@ -6,7 +6,7 @@
 * [SB 5153](/bill/2021-22/sb/5153/) - School attendance | By resolution, reintroduced and retained in present status.
 * [SB 5237](/bill/2021-22/sb/5237/) - Child care & early dev. exp. | Effective date 7/25/2021*.
 * [SB 5304](/bill/2021-22/sb/5304/) - Reentry services | Effective date 7/25/2021.
-* [SB 5376](/bill/2021-22/sb/5376/) - Education ombuds awareness | Referred to Rules 2 Review.
+* [SB 5376](/bill/2021-22/sb/5376/) - Education ombuds awareness | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5413](/bill/2021-22/sb/5413/) - Solitary confinement | By resolution, reintroduced and retained in present status.
 * [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | Referred to Rules 2 Review.
 * [SB 5498](/bill/2021-22/sb/5498/) - Posthumous H.S. diplomas | Referred to Rules 2 Review.

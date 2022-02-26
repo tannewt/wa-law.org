@@ -14,7 +14,7 @@
 * [HB 1713](/bill/2021-22/hb/1713/) - Rx drug cost sharing | First reading, referred to Health Care & Wellness.
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
 * [EHB 1784](/bill/2021-22/ehb/1784/) - License plate visibility | First reading, referred to Transportation.
-* [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | Passed to Rules Committee for second reading.
+* [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | Placed on second reading by Rules Committee.
 * [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Passed to Rules Committee for second reading.
 * [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | First reading, referred to Ways & Means.
 * [EHB 2096](/bill/2021-22/ehb/2096/) - Working families' tax exempt | First reading, referred to Ways & Means.

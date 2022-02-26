@@ -19,7 +19,7 @@
 * [SB 5850](/bill/2021-22/sb/5850/) - Ballot titles/impact discl. | First reading, referred to State Government & Elections.
 * [SB 5870](/bill/2021-22/sb/5870/) - Uniform college athlete act | First reading, referred to Law & Justice.
 * [SB 5894](/bill/2021-22/sb/5894/) - Comm. health/primary care | Referred to Ways & Means.
-* [SB 5895](/bill/2021-22/sb/5895/) - Remedial action grants | First reading, referred to Capital Budget.
+* [SB 5895](/bill/2021-22/sb/5895/) - Remedial action grants | CB - Majority; do pass.
 * [SB 5918](/bill/2021-22/sb/5918/) - Board of regents/faculty | Senate Rules "X" file.
 * [SB 5933](/bill/2021-22/sb/5933/) - School seismic safety grants | First reading, referred to Capital Budget.
 * [SB 5942](/bill/2021-22/sb/5942/) - Uniform college athlete act | Referred to Rules 2 Review.

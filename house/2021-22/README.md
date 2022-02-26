@@ -121,62 +121,6 @@
 * [Alex Ybarra](/person/leg/ybarra_al.md)
 * [Jesse Young](/person/leg/jesse.young.md)
 ## Upcoming Meetings
-### Fri, Feb 25
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-25-2022/02-25-2022/Agenda///Bill/)
-#### 8:00 am
-**Finance**
-Executive Session
-* [ESSB 5531](/bill/2021-22/sb/5531/) - Concerning the revised uniform unclaimed property act. **2👍** **0👎** **3❓**
-* [SB 5713](/bill/2021-22/sb/5713/) - Providing a property tax exemption for limited equity cooperative housing. **20👍** **255👎** **0❓**
-* [SHB 1918](/bill/2021-22/hb/1918/) - Reducing emissions from outdoor power equipment. **5👍** **42👎** **6❓**
-* [ESB 5800](/bill/2021-22/sb/5800/) - Modifying tax and revenue laws in a manner that is estimated to not affect state or local tax collections by easing compliance burdens for taxpayers, clarifying ambiguities, making technical corrections, and providing administrative efficiencies. **5👍** **0👎** **1❓**
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Capital Budget**
-Public Hearing
-* [ESB 5017](/bill/2021-22/sb/5017/) - Clarifying school district procurement requirements for personal service contracts for construction management, value engineering, constructibility review, and building commissioning. (REVISED FOR ENGROSSED: Clarifying school district procurement requirements for service contracts for construction management, value engineering, constructibility review, and building commissioning.) (Remote testimony.)
-* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. (Remote testimony.) **1👍** **2👎** **7❓**
-* [SSB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. (Remote testimony.) **73👍** **0👎** **1❓**
-
-Executive Session
-* [ESB 5017](/bill/2021-22/sb/5017/) - Clarifying school district procurement requirements for personal service contracts for construction management, value engineering, constructibility review, and building commissioning. (REVISED FOR ENGROSSED: Clarifying school district procurement requirements for service contracts for construction management, value engineering, constructibility review, and building commissioning.)
-* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. **1👍** **2👎** **7❓**
-* [SB 5782](/bill/2021-22/sb/5782/) - Concerning the defense community compatibility account. **26👍** **0👎** **0❓**
-* [SB 5844](/bill/2021-22/sb/5844/) - Concerning work performed by institutions of higher education. **5👍** **0👎** **0❓**
-* [SB 5895](/bill/2021-22/sb/5895/) - Concerning timing restrictions for remedial action grants to local government. **37👍** **0👎** **0❓**
-* [SSB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. **73👍** **0👎** **1❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-#### 10:00 am
-**Appropriations**
-Public Hearing
-* Senate bills referred to committee. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-**Transportation**
-Public Hearing
-* [2SSB 5406](/bill/2021-22/sb/5406/) - Providing compensation for tow truck operators for keeping the public roadways clear. (Remote testimony.) **13👍** **0👎** **0❓**
-* [SB 5687](/bill/2021-22/sb/5687/) - Addressing certain traffic safety improvements. (Remote testimony.)
-* [ESSB 5815](/bill/2021-22/sb/5815/) - Implementing an identicard program to provide individuals a Washington state-issued identicard. (Remote testimony.) **9👍** **1👎** **0❓**
-* [ESSB 5853](/bill/2021-22/sb/5853/) - Establishing a limited project regarding leasing certain department of transportation property in order to remedy past impacts to historically marginalized populations. (Remote testimony.) **111👍** **1👎** **1❓**
-
-Executive Session
-* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **24👍** **0👎** **0❓**
-* [SB 5510](/bill/2021-22/sb/5510/) - Concerning renewal of the sales and use tax for transportation benefit districts. **20👍** **0👎** **0❓**
-* [SSB 5741](/bill/2021-22/sb/5741/) - Creating Patches pal special license plates. **44👍** **3👎** **0❓**
-* [SB 5898](/bill/2021-22/sb/5898/) - Concerning the use of vehicle-related fees to fulfill certain state general obligation bonds. **5👍** **0👎** **0❓**
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
-
-To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Feb 28
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/House/0/02-28-2022/02-28-2022/Agenda///Bill/)
 #### 8:00 am
@@ -187,10 +131,10 @@ Executive Session
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
 **Capital Budget**
-Public Hearing
-* Senate bills referred to committee. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+Executive Session
+* [ESB 5017](/bill/2021-22/sb/5017/) - Clarifying school district procurement requirements for personal service contracts for construction management, value engineering, constructibility review, and building commissioning. (REVISED FOR ENGROSSED: Clarifying school district procurement requirements for service contracts for construction management, value engineering, constructibility review, and building commissioning.) **17👍** **15👎** **0❓**
+* [SB 5487](/bill/2021-22/sb/5487/) - Concerning small school district consolidation incentives for infrastructure enhancement and modernization. **6👍** **20👎** **9❓**
+* [SSB 5933](/bill/2021-22/sb/5933/) - Establishing a school seismic safety grant program. **117👍** **0👎** **1❓**
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 

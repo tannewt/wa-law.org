@@ -9,4 +9,4 @@ Concerning the working families' tax exemption, also known as the working famili
 * [Original Bill](1/)
 
 ## Upcoming Meetings
-* Tue, Feb 22 at 4:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Public Hearing
+* Mon, Feb 28 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session
