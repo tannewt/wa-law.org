@@ -1,0 +1,788 @@
+agendaId,mId,aId,caId,text
+29467,29467,144377,18932,SB 5495 Catalytic converters
+29467,29467,144378,18933,SB 5502 WSDOT graffiti removal order
+29467,29467,144379,18934,SB 5788 Guardianship of minors
+29467,29467,144381,18935,SB 5663 State v. Blake procedures
+29467,29467,144382,18936,SB 5772 Postconviction counsel
+29468,29468,144383,18973,SB 5781 Organized retail theft
+29468,29468,145149,19148,SB 5942 Uniform college athlete act
+29562,29562,144344,18921,SB 5802 Property tax exemptions
+29562,29562,144466,18922,SB 5849 Tax incentives
+29562,29562,144487,18923,SB 5769 State tax system
+29563,29563,144941,19218,SB 5883 Homeless youth/health care
+29563,29563,144942,19219,SB 5779 Bail fund oversight
+29563,29563,144943,19220,SB 5839 Interfering with emergency
+29563,29563,144944,19221,SB 5877 Higher ed antidiscrimination
+29563,29563,144945,19222,SB 5920 Parenting plans
+29563,29563,145482,19276,SB 5927 Retail cannabis outlets
+29564,29564,144948,19244,SB 5931 Judges pro tempore/COA
+29564,29564,144949,19245,SB 5919 Law enf. detention
+29564,29564,145043,19246,SB 5348 Assisted reproduction
+29564,29564,145079,19247,SB 5856 Firearm transfers to museums
+29564,29564,145289,19248,SB 5947 Property exempt from exec.
+29569,29569,144791,19017,HB 1850 Data privacy
+29569,29569,144792,19018,HB 1991 Body worn cameras/PRA
+29570,29570,144850,19021,HB 2047 Fair housing training
+29570,29570,145015,19133,HB 2083 Long-term care consent
+29573,29573,144838,18948,SB 5800 Tax and revenue laws
+29573,29573,144839,18949,SB 5505 Farmers market prop. tax ex.
+29574,29574,144842,18983,SB 5539 Ed. service district funding
+29574,29574,144843,18984,SB 5562 ESD employee health care
+29574,29574,144844,18985,SB 5566 Independent youth housing
+29574,29574,144860,18986,SSB 5033 Accessory dwelling units/tax
+29575,29575,144684,18925,SB 5742 Stormwater facilities/county
+29575,29575,144685,18926,SB 5832 Multifamily unit conversion
+29575,29575,144686,18927,SB 5861 Housing benefit districts
+29575,29575,144963,19124,SB 5648 Accessory dwelling units
+29576,29576,144751,18965,SB 5868 Public fac. tax/housing
+29576,29576,144964,19125,SB 5862 Commercial energy program
+29576,29576,144965,19126,SB 5642 Affordable housing/REET
+29576,29576,144966,19127,SB 5923 Temporary emergency shelters
+29577,29577,144967,19128,SB 5574 New counties
+29579,29579,144813,19003,HB 1100 Mobile home community sales
+29579,29579,144814,19004,HB 1931 Hydropower license fees
+29579,29579,144968,19138,HB 1103 Building materials
+29579,29579,144969,19139,HB 1412 Legal financial obligations
+29579,29579,144970,19140,HB 2051 Agricultural disaster assist
+29580,29580,144815,19005,ESHB 1241 Growth management act plans
+29580,29580,144976,19141,HB 1717 GMA planning/tribes
+29580,29580,144977,19142,HB 1723 Telecommunications access
+29580,29580,144978,19143,HB 1728 Insulin work group reauth.
+29580,29580,144979,19144,HB 1810 Electronic products repair
+29582,29582,144470,19032,"HB 1930 Cosmetologists, etc/licenses"
+29583,29583,144473,19033,HB 1951 Seller disclosure statements
+29583,29583,144902,19034,HB 2059 Real estate agents
+29585,29585,144477,19006,HB 1958 Shovel-ready site cert.
+29585,29585,144478,19007,HB 1929 Fire protection projects
+29586,29586,144873,18970,SB 5901 Economic dev. tax incentives
+29586,29586,145404,19151,SB 5946 Protecting consumers from the discontinuance of the London interbank offered rate. (Hearing is on the Proposed Substitute.) (Remote testimony.) (If measure is referred to committee.)
+29587,29587,144918,19118,HB 1891 Rangeland fire pilot
+29588,29588,144492,19094,HB 1993 Pesticide advisory board
+29588,29588,144493,19095,SB 5201 DNR timber & land sales
+29588,29588,144770,19096,HB 2027 WDFW governance
+29589,29589,145115,19149,HB 2086 Aviation assurance funding
+29593,29593,144794,19055,HB 1657 Commercial truck parking
+29593,29593,144795,19056,HB 1677 Military/employer tax incen.
+29593,29593,144796,19057,HB 1933 Cannabis local gov. tax
+29594,29594,144800,19058,HB 1864 Leadership and security
+29594,29594,144801,19059,HB 1965 Support and services levies
+29594,29594,144802,19060,HB 1967 Nonprofits/property tax
+29595,29595,144504,18941,SB 5874 Military student residency
+29598,29598,144513,19106,HB 1915 Traffic cameras/speed zones
+29598,29598,144514,19107,HB 1969 Traffic cameras/speed
+29598,29598,144515,19108,HB 1984 Vehicle reg. cert. addresses
+29598,29598,144516,19109,HB 2013 DOL personal information
+29598,29598,144823,19110,HB 2024 SR 520 sales tax deferral
+29599,29599,144825,19112,HB 2033 Emergency and work zones
+29600,29600,144519,19045,HB 1896 Batteries/environment
+29600,29600,144520,19046,HB 1822 Puget Sound water quality
+29600,29600,145018,19122,HB 1812 Energy facility site council
+29600,29600,145019,19123,HB 1871 Alt. energy facility siting
+29601,29601,144523,19047,HB 2002 Energy infrastructure siting
+29601,29601,144524,19048,HB 1964 Alternative energy decomm.
+29601,29601,145295,19150,HB 1896 Batteries/environment
+29602,29602,144526,19049,HB 1869 Salmon/voluntary stewardship
+29602,29602,144527,19050,HB 1606 Correction of culverts
+29602,29602,144528,19051,HB 1766 Gas companies
+29603,29603,144529,18942,SB 5730 Child victim confidentiality
+29603,29603,144530,18943,SB 5827 Dept. of Corrections systems
+29603,29603,144926,19113,SB 5929 WorkFirst poverty task force
+29604,29604,144531,18978,SB 5686 Office of corrections ombuds
+29606,29606,144890,18959,SB 5896 DES vehicle charging report
+29606,29606,144891,18960,SB 5817 Synthetic media in campaigns
+29606,29606,144892,18961,SB 5855 Campaign funds/child care
+29606,29606,144893,18962,SB 5782 Defense compatibility
+29606,29606,144894,18963,SB 5854 Faculty duties/ethics
+29606,29606,144901,18964,SB 5098 Reports
+29607,29607,144895,18993,SB 5659 Building material standards
+29607,29607,144896,18994,SB 5909 Gubernatorial emerg. powers
+29607,29607,144897,18995,SB 5843 False election statements
+29607,29607,144898,18996,SB 5679 Elections/voter confidence
+29607,29607,144899,18997,SB 5650 Elections law violation info
+29607,29607,144934,19116,SB 5908 Clean car authority
+29608,29608,144544,19075,HB 1806 Legislature/bargaining
+29608,29608,144545,19076,HB 1902 Workers' comp reopening
+29608,29608,144546,19077,HB 1927 Legislative service leave
+29608,29608,144547,19078,HB 1992 Vacation leave accrual
+29609,29609,144923,19119,HB 2076 Transp. network companies
+29611,29611,144615,19065,HB 1939 Colonoscopy coverage
+29612,29612,144624,19066,HB 1881 Birth doulas
+29612,29612,144625,19067,HB 1893 EMTs/public health
+29612,29612,144626,19068,HB 1959 Managed health rate review
+29612,29612,144627,19069,HB 2004 Interpreters/medical appts'
+29613,29613,144847,19079,HB 2031 Unempl. & leave premiums
+29614,29614,144559,18937,SB 5721 Natural resource management
+29614,29614,144560,18938,SB 5656 Fish and wildlife commission
+29614,29614,144561,18939,SB 5661 Fish and wildlife commission
+29614,29614,144880,18940,SB 5812 Farm internships/Benton cnty
+29615,29615,144563,18975,SB 5882 Riparian stock watering
+29615,29615,144879,18976,SB 5885 Marine shoreline habitat
+29615,29615,144881,18977,SB 5865 Rec. target shooting areas
+29617,29617,144768,19101,HB 2046 Legislative activity ethics
+29618,29618,144769,19102,HB 1910 Conserv. district elections
+29619,29619,144591,19035,"HB 1544 Ag., food, nat. resource ed."
+29619,29619,144592,19036,HB 1807 Civic education
+29619,29619,145021,19134,HB 1611 Highly capable students
+29619,29619,145022,19135,HB 1760 Dual credit program access
+29619,29619,145023,19136,HB 1867 Dual credit program data
+29619,29619,145026,19137,HB 2078 Outdoor school
+29620,29620,144600,19038,"HB 1900 Schools/discrimination, etc."
+29620,29620,144601,19039,HB 1941 Active shooter drills
+29620,29620,144602,19040,HB 1955 Dependency/education
+29620,29620,144603,19041,HB 1974 Education elections/WSSDA
+29621,29621,144608,19042,HB 1585 Traffic stops/driver ed.
+29621,29621,144609,19043,HB 1791 Prof. educator reprimands
+29621,29621,144610,19044,HB 1942 Paraeducator course of study
+29623,29623,144656,19013,HB 1843 Child care licensing
+29623,29623,144657,19014,HB 1920 Child abuse/res. facilities
+29623,29623,144658,19015,HB 1945 DCYF-caregiver communication
+29623,29623,144659,19016,HB 2038 Child welfare services
+29625,29625,144629,18928,SB 5857 Toxics control accts/water
+29625,29625,144630,18929,SB 5525 Water quality actions
+29625,29625,144631,18930,SB 5786 Puget Sound nutrient permits
+29625,29625,144632,18931,SB 5876 Noise/essential services
+29625,29625,144935,19114,SB 5533 Online marketplaces
+29625,29625,144936,19115,SB 5834 State gov. tech. policies
+29626,29626,144633,18951,SB 5842 Climate change
+29626,29626,144634,18952,SB 5732 Green roofs
+29626,29626,144636,18953,SB 5715 Definition of broadband
+29626,29626,144884,18954,SB 5910 Hydrogen
+29627,29627,144989,19121,SB 5803 Wildfires/electric utilities
+29628,29628,144644,19025,HB 2035 LCB/behavioral health
+29629,29629,144646,19026,HB 2025 Bingo gambling activities
+29630,29630,144648,19027,HB 2022 Cannabis social equity
+29631,29631,144870,18992,SB 5829 Behavioral health approps
+29632,29632,144816,19028,HB 1538 Aviation & aerospace cmte.
+29632,29632,144817,19029,HB 1914 Motion picture program
+29636,29636,144695,18955,SB 5542 Optometry
+29636,29636,144696,18956,SB 5765 Midwifery
+29636,29636,144697,18957,SB 5848 Music therapists
+29636,29636,144698,18958,SB 5866 Medicaid LTSS/tribes
+29637,29637,144699,18987,SB 5790 Community support services
+29637,29637,144700,18988,SB 5794 Behavioral health Rx drugs
+29637,29637,144701,18989,SB 5819 DDA no-paid caseload
+29637,29637,144854,18990,SB 5888 Rx drug cost-sharing
+29637,29637,144887,18991,SB 5822 Biomarker testing coverage
+29639,29639,144705,18944,SSB 5406 Tow truck operator comp.
+29639,29639,144706,18945,SB 5635 Tow truck safety
+29639,29639,144707,18946,SB 5863 RTA vehicle removal
+29639,29639,144907,18947,SB 5907 Roadside safety
+29640,29640,144709,18979,SB 5853 DOT property leasing
+29640,29640,144710,18980,SB 5741 Patches pal license plates
+29640,29640,144711,18981,SB 5778 Vehicle inspection backlog
+29640,29640,144712,18982,SB 5815 Identicards
+29642,29642,144718,18966,SB 5784 Psychologists as attendings
+29642,29642,144719,18967,SB 5801 Industrial insurance appeals
+29642,29642,144720,18968,SB 5627 Workers' comp. exam rights
+29642,29642,144721,18969,SB 5890 Radiological waste workers
+29643,29643,144722,18971,SB 5891 Warehouse dist. centers
+29643,29643,144826,18972,SB 5911 Health care hazard pay bonus
+29644,29644,144728,19087,HB 1848 Assisted reproduction fraud
+29644,29644,144729,19088,HB 1916 Crime victims and witnesses
+29644,29644,144730,19089,HB 2037 Peace officers/use of force
+29646,29646,144736,19090,HB 1678 Domestic violence registry
+29646,29646,144737,19091,HB 1758 Hazing penalty
+29646,29646,144738,19092,HB 1844 Unlawful branding of person
+29646,29646,144739,19093,HB 1972 Negligent driving penalties
+29650,29650,144752,19070,HB 1987 Housing dept. task force
+29650,29650,144753,19071,HB 2008 Dev. disability programs/IQ
+29650,29650,144754,19072,HB 2010 Homeless budgets & audits
+29650,29650,144755,19073,HB 2017 Tenants/criminal record
+29652,29652,144763,19074,HB 2023 Landlord-tenant enforcement
+29653,29653,144772,19080,HB 1714 Impact fee deferrals
+29653,29653,144773,19081,HB 1832 Code city form of government
+29653,29653,144774,19082,HB 1811 Fire benefit charges
+29653,29653,144775,19083,HB 1684 Drinking water fluoridation
+29653,29653,144776,19084,HB 1948 Failing water systems
+29653,29653,145037,19129,HB 1925 County park infractions
+29653,29653,145038,19130,HB 2052 Comm. service org. contracts
+29654,29654,145040,19131,HB 1996 Stormwater facilities/county
+29654,29654,145041,19132,HB 2063 Incorporation/population
+29654,29654,145061,19145,HB 1722 Broadband deployment
+29654,29654,145062,19146,HB 1769 Community municipal corps
+29657,29657,145066,19147,SB 5252 School consultation/tribes
+29661,29661,145213,19153,HB 1659 Higher education grants
+29661,29661,145214,19154,HB 1691 Oil spills/financial resp.
+29661,29661,145215,19155,HB 1736 State student loan program
+29661,29661,145216,19156,HB 1748 Human trafficking/ABD prog.
+29661,29661,145217,19157,HB 1755 TANF time limit extensions
+29661,29661,145218,19158,HB 1835 Postsecondary enrollment
+29661,29661,145411,19159,HB 1928 Equine industry support
+29662,29662,145219,19160,HB 1621 Sex. assault nurse training
+29662,29662,145220,19161,HB 1664 Schools/support funding
+29662,29662,145221,19162,HB 1746 Students/COVID-19 pandemic
+29662,29662,145222,19163,HB 1751 Hazing prevention
+29662,29662,145223,19164,HB 1756 Solitary confinement
+29662,29662,145224,19165,HB 1800 Behavioral health/minors
+29662,29662,145225,19166,HB 1890 Children behavioral health
+29663,29663,145826,19299,HB 1592 Military spouse employment
+29663,29663,145827,19300,HB 1626 WDFW electronic licensing
+29663,29663,145828,19301,HB 1661 Kelp & eelgrass conservation
+29663,29663,145829,19302,HB 1688 Out-of-network health care
+29663,29663,145830,19303,HB 1741 Health provider contracting
+29663,29663,145831,19304,HB 1760 Dual credit program access
+29663,29663,145832,19305,HB 1764 Physician bargaining
+29663,29663,145833,19306,HB 1805 Opportunity scholarship prog
+29663,29663,145834,19307,HB 1827 Community reinvestment
+29663,29663,145835,19308,HB 1856 Voluntary stewardship prog.
+29663,29663,145836,19309,HB 1859 Cannabis analysis labs
+29663,29663,145838,19310,HB 2050 Parent pay/child detention
+29663,29663,145839,19311,HB 2093 County timber tax distrib.
+29663,29663,145923,19312,HB 1571 Indigenous persons/services
+29664,29664,145952,19319,SHB 1724 Supportive housing resources
+29664,29664,145953,19320,SHB 1905 Homelessness/youth discharge
+29664,29664,145954,19321,HB 1889 Health network access
+29664,29664,145955,19322,SHB 1643 Affordable housing/REET
+29664,29664,145956,19323,SHB 1668 Marijuana products
+29664,29664,145957,19324,SHB 1818 Reentry and rehabilitation
+29664,29664,145958,19325,HB 1878 Schools/comm. eligibility
+29664,29664,145959,19326,HB 1980 Concurrent services
+29664,29664,145960,19327,SHB 2008 Dev. disability programs/IQ
+29664,29664,145961,19328,SHB 1806 Legislature/bargaining
+29664,29664,145962,19329,SHB 1694 Chemicals/consumer products
+29664,29664,145963,19330,SHB 1663 Landfill methane emissions
+29664,29664,145964,19331,SHB 1753 Climate funding/tribes
+29665,29665,145852,19399,HB 1773 Assisted outpatient treat.
+29665,29665,145886,19400,HB 1860 Behavioral health discharge
+29665,29665,145970,19401,HB 1682 Business emissions reduction
+29665,29665,145974,19402,HB 1803 School director compensation
+29665,29665,145975,19403,HB 1866 Supportive housing
+29665,29665,145976,19404,HB 1868 Health care staffing
+29665,29665,145977,19405,HB 1967 Nonprofits/property tax
+29665,29665,146080,19406,SHB 2078 Outdoor learning grant prg.
+29665,29665,146082,19407,HB 1590 Enrollment stabilization
+29665,29665,146084,19408,HB 1684 Drinking water fluoridation
+29665,29665,146085,19409,HB 2022 Cannabis social equity
+29665,29665,146087,19410,HB 2075 DSHS service requirements
+29665,29665,146088,19411,HB 2038 Child welfare services
+29665,29665,146089,19412,HB 1992 Vacation leave accrual
+29665,29665,146090,19413,HB 1850 Data privacy
+29665,29665,146104,19414,HB 1896 Batteries/environment
+29665,29665,146131,19415,HB 1782 Middle housing near transit
+29667,29667,145428,19234,SB 5581 Pupil transp. allocations
+29667,29667,145429,19235,SSB 5595 Schools/support funding
+29667,29667,145430,19236,SB 5933 School seismic safety grants
+29667,29667,145431,19237,SSB 5116 Procurement/automated system
+29667,29667,145432,19238,SB 5487 School consolid. incentives
+29667,29667,145433,19239,SB 5563 Enrollment stabilization
+29667,29667,145434,19240,SB 5534 Verifiable credentials
+29668,29668,145439,19254,SB 5426 Wealth tax
+29668,29668,145440,19255,SB 5216 Tax preferences
+29668,29668,145441,19256,SJR 8206 Homestead property tax exem.
+29668,29668,145442,19257,SB 5463 Residential prop valuation
+29668,29668,145443,19258,"SB 5913 Property tax/senior, veteran"
+29669,29669,145444,19266,SSB 5575 Snohomish county/judges
+29669,29669,145445,19267,SB 5701 Workers' comp wages
+29669,29669,145446,19268,SSB 5692 Corrections programming
+29669,29669,145447,19269,SSB 5592 Cost of supervision
+29669,29669,145448,19270,SSB 5535 Juvenile rehab./parent costs
+29669,29669,145467,19271,SSB 5626 Water system plans/climate
+29669,29669,145468,19272,SSB 5567 Commercial salmon fishing
+29669,29669,145469,19273,SSB 5746 Drought preparedness
+29670,29670,145094,19180,SB 5519 Accountancy/inactive license
+29672,29672,146042,19373,SSB 5597 Voting rights
+29672,29672,146043,19374,SSB 5636 Automatic voter registration
+29672,29672,146044,19375,SSB 5574 New counties
+29672,29672,146045,19376,SB 5964 Local permit review process
+29672,29672,146046,19377,SSB 5619 Kelp & eelgrass conservation
+29672,29672,146048,19378,SSB 5803 Wildfires/electric utilities
+29672,29672,146049,19379,SSB 5910 Hydrogen
+29672,29672,146050,19380,SB 5699 Cannabis analysis labs
+29672,29672,146051,19381,SSB 5814 Child abuse/medical eval.
+29672,29672,146052,19382,SSB 5912 Children on medicaid
+29672,29672,146053,19383,SSB 5702 Donor human milk coverage
+29672,29672,146054,19384,SSB 5532 Rx drug affordability board
+29672,29672,146055,19385,SB 5794 Behavioral health Rx drugs
+29672,29672,146056,19386,SSB 5894 Comm. health/primary care
+29672,29672,146057,19387,SSB 5796 Cannabis revenue
+29672,29672,146058,19388,SSB 5911 Health care hazard pay bonus
+29672,29672,146059,19389,SSB 5655 Invol. treatment refusals
+29672,29672,146060,19390,SB 5713 Limited equity coop. housing
+29672,29672,146061,19391,SB 5832 Multifamily unit conversion
+29672,29672,146062,19392,SSB 5867 Emerg. overnight shelters
+29672,29672,146063,19393,SSB 5662 Right-of-way camping/housing
+29672,29672,146064,19394,SSB 5885 Marine shoreline habitat
+29672,29672,146065,19395,SSB 5643 Youth development programs
+29672,29672,146066,19396,SSB 5961 Biochar in gov. contracts
+29672,29672,146067,19397,SSB 5697 Recycling system & waste
+29672,29672,146069,19398,SSB 5495 Catalytic converters
+29673,29673,145465,19274,SSB 5600 Apprenticeship programs
+29673,29673,145466,19275,"SSB 5793 State boards, etc./stipends"
+29679,29679,145138,19170,HB 1740 Broadband loans & grants
+29679,29679,145139,19171,SHB 1673 Public works board/broadband
+29679,29679,145140,19172,HB 2055 Higher ed. capital grants
+29680,29680,145141,19208,HB 2074 Off-road vehicles fees
+29680,29680,145142,19209,HB 2077 Human trafficking posters
+29680,29680,145143,19210,HB 2084 Third WA-OR bridge study
+29681,29681,145144,19211,HB 1731 Autonomous vehicle testing
+29681,29681,145145,19212,HB 2070 Autonomous vehicles
+29681,29681,145238,19213,HB 2089 I-405 & SR 167 bond auth.
+29682,29682,145146,19214,Bills referred from other committees. (Remote testimony.)
+29682,29682,145414,19215,HB 2026 Vehicle per mile charge
+29683,29683,145986,19338,HB 1530 Wine special license plates
+29687,29687,145152,19182,HJR 4209 Natural resources
+29687,29687,145153,19183,HB 2066 Infill development
+29688,29688,145822,19297,HJR 4209 Natural resources
+29689,29689,145163,19249,SB 5643 Youth development programs
+29689,29689,145164,19250,SB 5826 Warm water game fish
+29689,29689,145165,19251,SB 5936 Agricultural disaster assist
+29689,29689,145166,19252,SB 5860 Water policy & aquifer level
+29689,29689,145454,19253,SB 5951 Agricultural hemp products
+29689,29689,145494,19277,SB 5961 Biochar in gov. contracts
+29690,29690,145925,19313,SB 5972 Wildlife conflict resolution
+29691,29691,145763,19295,HB 1738 Housing finance comm'n debt
+29692,29692,145182,19206,HB 1772 Gubernatorial proclamations
+29692,29692,145184,19207,HB 2044 Ransomware protection
+29694,29694,145280,19196,HB 1043 Audiology & speech compact
+29694,29694,145281,19197,HB 1286 Psychology compact
+29694,29694,145282,19198,HB 1610 OT licensure compact
+29695,29695,145285,19199,HB 1854 Hearing instruments coverage
+29698,29698,145541,19286,SB 5918 Board of regents/faculty
+29700,29700,145250,19204,HB 1952 Housing & services/location
+29700,29700,145251,19205,HB 2001 Tiny houses/GMA
+29702,29702,145256,19242,SB 5895 Remedial action grants
+29702,29702,145419,19243,HB 1280 Greenhouse gas/facilities
+29705,29705,145263,19174,HB 1903 Parent-child relationship
+29705,29705,145264,19175,HB 2068 Imagination library
+29705,29705,145265,19176,HB 2082 Child care deserts report
+29709,29709,145269,19226,SB 5768 Vapor products
+29709,29709,145270,19227,SB 5886 Rare diseases adv. council
+29709,29709,145464,19228,SB 5848 Music therapists
+29710,29710,145271,19259,SB 5660 Psilocybin
+29716,29716,145516,19282,ESHB 1333 Rural public facilities/tax
+29716,29716,145517,19283,HB 1376 Registration of land titles
+29716,29716,145518,19284,E2SHB 1099 Comprehensive planning
+29717,29717,145559,19288,SB 5964 Local permit review process
+29718,29718,145566,19289,SB 5954 Homelessness
+29720,29720,145300,19229,SB 5636 Automatic voter registration
+29720,29720,145301,19230,SB 5750 WA state leadership board
+29720,29720,145302,19231,SB 5726 Military service credit
+29720,29720,145303,19232,SB 5308 Hybrid vehicle fees
+29720,29720,145304,19233,SB 5903 Drive-up services/multimodal
+29722,29722,145306,19262,SB 5724 Organ transport vehicles
+29722,29722,145307,19263,SB 5485 Traffic stops
+29722,29722,145308,19264,SB 5908 Clean car authority
+29722,29722,145309,19265,SB 5828 Autonomous vehicles
+29725,29725,145330,19181,HB 2056 K-12 instructional materials
+29727,29727,145346,19200,HB 2009 Basic income trust
+29727,29727,145347,19201,HB 2048 TANF time limit extensions
+29727,29727,145348,19202,HB 2064 Residential tenant deposits
+29727,29727,145349,19203,HB 2075 DSHS service requirements
+29731,29731,145356,19223,SB 5751 Health care staffing
+29731,29731,145357,19224,SB 5783 Underground economy
+29731,29731,145358,19225,SB 5914 Electrician schools
+29732,29732,145361,19260,SB 5438 Unemployment/immigration
+29732,29732,145362,19261,SB 5940 Liquor license endorsement
+29733,29733,145367,19177,HB 1667 Cannabis business ownership
+29733,29733,145368,19178,HB 2069 Raffles
+29733,29733,145369,19179,HB 2080 Liquor license endorsement
+29738,29738,145376,19184,HB 1846 Data centers tax preference
+29738,29738,145377,19185,HB 1459 Data center tax incentive
+29738,29738,145378,19186,HB 1473 Data centers/tax preference
+29738,29738,145379,19187,HB 2018 Sales and use tax holiday
+29740,29740,145385,19188,HB 1988 Clean tech. tax deferrals
+29740,29740,145386,19189,HB 1990 SR 167 & I-405 tax deferral
+29740,29740,145387,19190,HB 2096 Working families' tax exempt
+29740,29740,145388,19191,HB 2099 Tax penalties
+29741,29741,145394,19192,HB 1914 Motion picture program
+29741,29741,145395,19193,HB 2058 Parks & rec. leasehold tax
+29741,29741,145397,19194,HB 2091 Drug warehousing/B&O tax
+29741,29741,145403,19195,HB 1734 Low-proof beverages/tax
+29742,29742,145756,19292,HB 2061 Public improvements/housing
+29742,29742,145757,19293,HB 1811 Fire benefit charges
+29742,29742,145758,19294,SHB 1880 Housing benefit districts
+29751,29751,146132,19420,HB 1122 State guard retirement age
+29751,29751,146133,19421,ESHB 1357 Voters' pamphlets overseas
+29751,29751,146134,19422,EHB 1453 Voters' pamphlets
+29751,29751,146135,19423,ESHB 1518 Paper products/environment
+29751,29751,146136,19424,ESHB 1716 Ballot casting locations
+29752,29752,145980,19336,HB 1226 School district elections
+29752,29752,145981,19337,HJR 4200 School district bonds
+29753,29753,146105,19428,HB 1799 Organic materials management
+29753,29753,146106,19429,HB 1812 Energy facility site council
+29753,29753,146107,19430,HB 1181 Veterans & military suicide
+29753,29753,146108,19431,HB 2048 TANF time limit extensions
+29753,29753,146246,19432,HB 2044 Ransomware protection
+29754,29754,145982,19332,HB 1719 Military equipment/law enf.
+29754,29754,145983,19333,SHB 1735 Peace officers/use of force
+29754,29754,145984,19334,SHB 1725 Missing indigenous persons
+29754,29754,145985,19335,HB 1105 Medical use of cannabis
+29755,29755,146157,19416,HB 1792 Hydrogen
+29755,29755,146158,19417,SHB 1814 Community solar projects
+29755,29755,146159,19418,HB 2024 SR 520 sales tax deferral
+29755,29755,146160,19419,HB 1966 Local infra. investment prg
+29765,29765,145853,19316,SB 5622 Motorcycles on laned roads
+29765,29765,145854,19317,SB 5930 Tribal exchange agreements
+29769,29769,146283,19460,SSB 5496 Health prof. monitoring
+29769,29769,146284,19461,SB 5499 Hemodialysis technicians
+29769,29769,146285,19462,SB 5508 Insurance guaranty fund
+29769,29769,146286,19463,SB 5529 Self-directed care
+29769,29769,146287,19464,SSB 5753 Board & commission sizes
+29770,29770,146288,19465,SB 5518 OT licensure compact
+29772,29772,146274,19440,SSB 5127 Courthouse facility dogs
+29772,29772,146275,19441,E2SSB 5155 Prejudgment interest
+29772,29772,146276,19442,SB 5489 Business entities
+29772,29772,146277,19443,SSB 5548 Child custody transfers
+29773,29773,146524,19584,SSB 5127 Courthouse facility dogs
+29773,29773,146525,19585,E2SSB 5155 Prejudgment interest
+29773,29773,146526,19586,SB 5489 Business entities
+29773,29773,146527,19587,SSB 5548 Child custody transfers
+29773,29773,146528,19588,SB 5629 Disposition of remains
+29773,29773,146529,19589,SB 5788 Guardianship of minors
+29774,29774,146932,19778,SB 5931 Judges pro tempore/COA
+29774,29774,146933,19779,2SSB 5664 Forensic competency programs
+29774,29774,146934,19780,SSB 5575 Snohomish county/judges
+29774,29774,146935,19781,SSB 5920 Parenting plans
+29776,29776,146138,19507,SHB 1615 Cosmetics tested on animals
+29776,29776,146139,19508,SHB 1961 Name change fee waivers
+29779,29779,146250,19449,SB 5602 Service providers/financial
+29779,29779,146251,19450,SSB 5810 Legal service plans
+29779,29779,146252,19451,SJM 8004 De-risking/financial inst.
+29781,29781,146248,19456,SB 5042 GMA actions effective date
+29781,29781,146404,19457,ESSB 5428 SEPA/shelters & encampments
+29782,29782,146249,19458,SB 5312 Transit-oriented development
+29783,29783,146491,19591,SSB 5553 Early STEM metrics
+29783,29783,146492,19592,SB 5609 Juvenile fingerprinting
+29783,29783,146572,19640,SSB 5883 Homeless youth/health care
+29785,29785,146258,19480,SB 5552 WDFW licensing
+29785,29785,146259,19481,SB 5624 Livestock identification
+29786,29786,146260,19482,SB 5653 Pesticide commission name
+29788,29788,146548,19607,HB 1978 Shoreline master programs
+29788,29788,146549,19608,ESHB 1619 Appliance efficiency
+29788,29788,146550,19609,SHB 1623 Power supply inadequacy
+29788,29788,146551,19610,E2SHB 1663 Landfill methane emissions
+29788,29788,146552,19611,ESHB 1753 Climate funding/tribes
+29789,29789,146546,19612,SHB 1768 Energy conservation projects
+29789,29789,146547,19613,ESHB 1673 Public works board/broadband
+29792,29792,146263,19466,2SSB 5241 Economic inclusion
+29792,29792,146264,19467,ESSB 5268 Dev. disability services
+29792,29792,146265,19468,SSB 5749 Rent payments
+29793,29793,146266,19447,SB 5504 Discover pass free days
+29793,29793,146267,19448,SB 5617 Main street programs/pop.
+29794,29794,146560,19639,ESSB 5544 Blockchain work group
+29795,29795,146567,19630,SB 5566 Independent youth housing
+29795,29795,146568,19631,SB 5929 WorkFirst poverty task force
+29796,29796,146372,19433,SB 5974 Transportation resources
+29797,29797,146411,19520,SB 5974 Transportation resources
+29798,29798,146329,19501,SHB 1617 State and school holidays
+29798,29798,146330,19502,HB 1834 Student absences/mental hlth
+29799,29799,146553,19614,HB 1611 Highly capable students
+29799,29799,146554,19615,SHB 1644 Pupil transp./electric
+29799,29799,146555,19616,HB 1833 School meals/electronic info
+29799,29799,146556,19617,SHB 1941 Active shooter drills
+29799,29799,146557,19618,HB 1974 Education elections/WSSDA
+29800,29800,146282,19494,SB 5354 Traffic control/large cities
+29801,29801,146289,19452,SSB 5181 Low-income school districts
+29801,29801,146290,19453,ESB 5202 School depreciation subfunds
+29801,29801,146291,19454,SSB 5376 Education ombuds awareness
+29802,29802,146292,19455,SB 5498 Posthumous H.S. diplomas
+29803,29803,146605,19662,HB 1780 Workforce investment board
+29803,29803,146606,19663,2SHB 1835 Postsecondary enrollment
+29803,29803,146607,19664,HB 1622 Sex. assault nurse education
+29803,29803,146685,19665,2SHB 1736 State student loan program
+29804,29804,146462,19547,E2SHB 1117 Comp. planning/salmon
+29804,29804,146463,19548,HB 1183 Home sharing support grants
+29804,29804,146464,19549,SHB 1593 Landlord mitigation/victims
+29804,29804,146465,19550,HB 2061 Public improvements/housing
+29805,29805,146469,19551,HB 1832 Code city form of government
+29805,29805,146470,19552,HB 2098 Home rehab. loan program
+29805,29805,146471,19553,SB 5971 Comprehensive plan/GMA
+29805,29805,146570,19622,SHB 2001 Tiny houses/GMA
+29805,29805,146573,19623,HB 2097 First-time home buyer def.
+29806,29806,146446,19557,ESHB 1041 Sunshine committee/juveniles
+29806,29806,146447,19558,SHB 1620 Extreme weather events
+29806,29806,146448,19559,SHB 1703 911 emergency communications
+29806,29806,146449,19560,EHB 1973 School board recordings
+29806,29806,146450,19561,SHB 2046 Legislative activity ethics
+29807,29807,146457,19562,ESHB 1329 Public meetings
+29807,29807,146458,19563,HB 1953 Sensitive voter information
+29807,29807,146459,19564,ESHB 1956 Incarcerated individuals/PRA
+29807,29807,146489,19565,SHB 1876 Ballot measures/impact discl
+29808,29808,146298,19483,SB 5787 Linked deposit program
+29808,29808,146299,19484,SB 5506 JARRC chair & vice chair
+29808,29808,146300,19485,SB 5002 State auditor
+29808,29808,146301,19486,SSB 5756 Semiquincentennial committee
+29808,29808,146302,19487,ESB 5264 Americans of Chinese descent
+29808,29808,146303,19488,ESSB 5490 Interbranch advisory comm.
+29808,29808,146304,19489,SB 5196 Special legislative sessions
+29809,29809,146311,19490,SB 5615 State sport
+29809,29809,146312,19491,ESB 5512 State nickname
+29809,29809,146313,19492,SB 5560 Redistricting plans
+29809,29809,146314,19493,2SSB 5342 Irrigation dist. elections
+29810,29810,146323,19495,SHB 1052 Group insurance contracts
+29810,29810,146324,19496,SHB 1124 Nurse delegation/glucose
+29810,29810,146325,19497,SHB 1646 Dementia action collab.
+29810,29810,146326,19498,HB 1651 Postpartum contraception
+29810,29810,146327,19499,SHB 1675 Dialysate & dialysis devices
+29810,29810,146328,19500,SHB 1708 Audio-only telemed fac fees
+29811,29811,146322,19518,SHB 1616 Charity care
+29812,29812,146595,19653,SB 5940 Liquor license endorsement
+29814,29814,146333,19503,E2SHB 1015 Equitable access to credit
+29814,29814,146334,19504,EHB 1165 Credit union act
+29814,29814,146337,19505,HB 1874 Prof. licensure/convictions
+29814,29814,146338,19506,SHB 1957 Disaster recovery assistance
+29817,29817,146378,19459,SHB 1918 Power equipment emissions
+29818,29818,146476,19537,ESSB 5847 Public employee PSLF info.
+29818,29818,146477,19538,SB 5854 Faculty duties/ethics
+29818,29818,146574,19647,ESSB 5942 Uniform college athlete act
+29818,29818,146575,19648,ESSB 5874 Military student residency
+29818,29818,146576,19649,2SSB 5789 Innovation challenge program
+29819,29819,146479,19539,E2SSB 5764 Apprenticeships & higher ed.
+29819,29819,146577,19650,E2SSB 5600 Apprenticeship programs
+29819,29819,146578,19651,SB 5771 Basic ed./caseload forecast
+29820,29820,146345,19509,HB 1172 Tribal fishing rights
+29820,29820,146346,19510,HB 1430 State upland leases
+29820,29820,146347,19511,SHB 1508 Shellfish sanitary control
+29820,29820,146367,19512,HB 1700 Derelict vessel removal
+29822,29822,146397,19513,SSB 5543 Landscaping equipment
+29822,29822,146398,19514,SSB 5714 Solar canopies tax deferral
+29822,29822,146399,19515,SSB 5755 Vacant land redevelopment
+29822,29822,146400,19516,SB 5849 Tax incentives
+29822,29822,146401,19517,SSB 5799 Workforce surcharge/clinics
+29823,29823,146498,19566,SHB 1992 Vacation leave accrual
+29823,29823,146499,19567,HB 1927 Legislative service leave
+29823,29823,146500,19568,HB 1625 Space force reserve members
+29823,29823,146501,19569,HB 1612 Unemployment ins./technical
+29823,29823,146502,19570,HB 1613 Employer reports/private
+29824,29824,146503,19571,ESHB 1795 Nondisclosure/illegal acts
+29824,29824,146504,19572,2SHB 1210 Cannabis terminology
+29824,29824,146505,19573,SHB 1794 Dishonored paycheck fees
+29825,29825,146359,19471,SB 5514 County legislative meetings
+29825,29825,146360,19472,SB 5565 Fire district treasurers
+29827,29827,146582,19632,SHB 1655 Safety rest areas
+29827,29827,146583,19633,HB 1785 WSP minimum salary
+29827,29827,146584,19634,HB 2033 Emergency and work zones
+29827,29827,146585,19635,SHB 2057 State patrol workforce
+29828,29828,146363,19473,2ESSB 5275 Intense rural dev. areas
+29828,29828,146364,19474,SB 5641 Greenhouses
+29829,29829,146488,19546,HB 1748 Human trafficking/ABD prog.
+29830,29830,146755,19686,2SHB 1905 Homelessness/youth discharge
+29831,29831,146480,19599,SSB 5564 Employee assistance programs
+29831,29831,146481,19600,ESSB 5761 Wage and salary information
+29831,29831,146482,19601,SB 5763 Minimum wage/disabilities
+29831,29831,146483,19602,ESSB 5873 Unemployment insurance
+29831,29831,146490,19603,SB 5875 Driver license employees
+29832,29832,146703,19673,2SSB 5649 Family and medical leave
+29832,29832,146704,19674,SSB 5701 Workers' comp wages
+29832,29832,146705,19675,SSB 5783 Underground economy
+29832,29832,146706,19676,SB 5801 Industrial insurance appeals
+29832,29832,146707,19677,SSB 5890 Radiological waste workers
+29833,29833,146373,19475,ESSB 5245 Safety of crime victims
+29833,29833,146374,19476,SSB 5572 Internet crimes/children
+29833,29833,146375,19477,SB 5612 DV sentencing statements
+29833,29833,146376,19478,SB 5694 DOC-tribal agreements
+29834,29834,146377,19479,E2SSB 5036 Total confinement release
+29836,29836,146436,19534,SHB 1800 Behavioral health/minors
+29836,29836,146437,19535,2SHB 1890 Children behavioral health
+29837,29837,146484,19542,SHB 1747 Child relative placements
+29837,29837,146485,19543,SHB 2034 Juvenile records
+29837,29837,146486,19544,HB 1894 Juvenile diversion/period
+29837,29837,146487,19545,HB 1920 Child abuse/res. facilities
+29838,29838,146769,19800,SSB 5589 Primary care spending
+29838,29838,146771,19801,SSB 5723 Diversity in clinical trials
+29838,29838,146772,19802,SSB 5765 Midwifery
+29838,29838,146773,19803,SB 5866 Medicaid LTSS/tribes
+29838,29838,146774,19804,"SSB 5900 Provisional paramedics, EMTs"
+29838,29838,146930,19805,E2SSB 5702 Donor human milk coverage
+29840,29840,147163,19866,PSHB 1816 -Making 2021-2023 fiscal biennium supplemental operating appropriations.   (Remote testimony.)
+29841,29841,147112,19847,SB 5539 Ed. service district funding
+29841,29841,147113,19848,2SSB 5616 Accounts
+29841,29841,147114,19849,SB 5634 UTC regulatory fees
+29841,29841,147115,19850,SB 5676 PERS/TRS 1 benefit increase
+29841,29841,147116,19851,SSB 5728 Drug forfeiture collections
+29841,29841,147117,19852,SB 5748 PSERS disability benefits
+29841,29841,147118,19853,SSB 5791 LEOFF benefits
+29841,29841,147119,19854,E2SSB 5796 Cannabis revenue
+29841,29841,147120,19855,SSB 5814 Child abuse/medical eval.
+29845,29845,146415,19528,SHB 1074 Fatality reviews
+29845,29845,146416,19529,SHB 1286 Psychology compact
+29845,29845,146417,19530,HB 1761 Opioid reversal by ED nurses
+29845,29845,146428,19531,2SHB 1890 Children behavioral health
+29846,29846,146432,19717,SHB 1866 Supportive housing
+29846,29846,146495,19718,ESHB 1689 Biomarker testing prior auth
+29846,29846,146623,19719,SHB 1893 EMTs/public health
+29846,29846,147044,19720,EHB 1851 Abortion care
+29846,29846,147045,19721,SHB 1728 Insulin work group reauth.
+29846,29846,147046,19722,ESHB 1821 Telemedicine/relationship
+29848,29848,146596,19785,SB 5787 Linked deposit program
+29848,29848,146597,19786,SSB 5946 LIBOR discontinuance
+29850,29850,146611,19787,SSB 5678 Energy project orders
+29850,29850,146612,19788,SSB 5910 Hydrogen
+29850,29850,146613,19789,SSB 5626 Water system plans/climate
+29850,29850,146725,19790,2SSB 5703 Cosmetic products/chemicals
+29850,29850,147037,19791,E2SSB 5885 Marine shoreline habitat
+29852,29852,146614,19775,"HB 1781 Capital budget, supplemental"
+29853,29853,147128,19857,SB 5782 Defense compatibility
+29853,29853,147129,19858,SB 5844 Higher ed. work/bidding
+29853,29853,147130,19859,SB 5895 Remedial action grants
+29854,29854,147131,19860,ESB 5017 School district procurement
+29854,29854,147132,19861,SB 5487 School consolid. incentives
+29854,29854,147133,19862,SSB 5933 School seismic safety grants
+29855,29855,147102,19833,SSB 5964 Local permit review process
+29855,29855,147103,19834,ESSB 5593 Urban growth area boundaries
+29857,29857,146647,19713,EHB 1964 Alternative energy decomm.
+29857,29857,146648,19714,E2SHB 1691 Oil spills/financial resp.
+29857,29857,146649,19715,ESHB 1694 Chemicals/consumer products
+29857,29857,146881,19716,SHB 1684 Drinking water fluoridation
+29858,29858,147257,19889,E2SHB 1723 Telecommunications access
+29860,29860,146655,19813,HB 2118 Additive transp. funding
+29860,29860,146733,19814,SB 5354 Traffic control/large cities
+29860,29860,146734,19815,"HB 1786 Transportation budget, supp."
+29861,29861,147098,19882,SSB 5860 Water policy & aquifer level
+29861,29861,147101,19883,SSB 5411 Northern spotted owl forests
+29861,29861,147106,19884,2SSB 5643 Youth development programs
+29863,29863,146673,19808,SB 5583 Census data/incarceration
+29863,29863,146674,19809,SB 5534 Verifiable credentials
+29863,29863,146675,19810,SB 5855 Campaign funds/child care
+29863,29863,146676,19811,2SSB 5342 Irrigation dist. elections
+29863,29863,146677,19812,SSB 5961 Biochar
+29867,29867,146713,19723,SHB 2019 Careers in retail
+29867,29867,146714,19724,HB 1907 Gift equity packaging
+29867,29867,147060,19725,E2SHB 1659 Higher education grants
+29867,29867,147061,19726,HB 2007 Nurse educator loans
+29867,29867,147062,19727,EHB 1687 College bound scholar./GPA
+29867,29867,147063,19728,2SHB 1751 Hazing prevention
+29870,29870,147052,19711,E2SHB 1162 High school graduation
+29870,29870,147053,19712,EHB 1942 Paraeducator course of study
+29872,29872,146719,19792,SSB 5590 Marine resources ad. council
+29874,29874,146736,19817,SSB 5528 RTA supplemental revenue
+29874,29874,146737,19818,SSB 5558 Interstate toll bridges
+29874,29874,146738,19819,SSB 5631 CDLs/human trafficking
+29874,29874,146739,19820,SSB 5863 RTA vehicle removal
+29875,29875,146743,19822,2SSB 5406 Tow truck operator comp.
+29875,29875,146746,19825,ESSB 5853 DOT property leasing
+29875,29875,147158,19845,ESSB 5815 Identicards
+29875,29875,147260,19896,SB 5687 Traffic safety
+29877,29877,146756,19733,ESHB 1705 Untraceable guns
+29877,29877,146757,19734,SHB 1571 Indigenous persons/services
+29877,29877,146758,19735,E2SHB 1815 Catalytic converter theft
+29877,29877,146759,19736,ESHB 2037 Peace officers/use of force
+29877,29877,146820,19737,ESHB 1630 Weapons/certain meetings
+29878,29878,146760,19738,SHB 1901 Civil protection orders
+29878,29878,146761,19739,ESHB 1169 Sentencing enhancements
+29880,29880,146953,19793,SB 5868 Public fac. tax/housing
+29880,29880,146954,19794,SB 5713 Limited equity coop. housing
+29880,29880,146955,19795,ESSB 5004 Medical marijuana tax ex.
+29880,29880,147039,19796,ESB 5832 Multifamily unit conversion
+29881,29881,146956,19797,ESSB 5531 Uniform unclaimed property
+29881,29881,146957,19798,ESB 5800 Tax and revenue laws
+29881,29881,146958,19799,SB 5505 Farmers market prop. tax ex.
+29884,29884,147166,19881,ESB 5919 Law enf. detention & pursuit
+29886,29886,146966,19744,K-12 public schools. (Remote testimony.)
+29886,29886,146967,19745,Higher education. (Remote testimony.)
+29886,29886,146968,19746,Early learning. (Remote testimony.)
+29886,29886,146969,19747,Employee compensation. (Remote testimony.)
+29886,29886,146970,19748,Mental health. (Remote testimony.)
+29886,29886,146971,19749,Human services. (Remote testimony.)
+29886,29886,146972,19750,Natural resources. (Remote testimony.)
+29886,29886,146973,19751,All other. (Remote testimony.)
+29887,29887,146982,19752,HB 1666 Public infra./tax valuation
+29887,29887,146983,19753,SHB 1789 Adult family homes/prop. tax
+29887,29887,146984,19754,HB 1888 Working fam. credit/rates
+29887,29887,146985,19755,EHB 2096 Working families' tax exempt
+29887,29887,146986,19756,EHB 1982 Property tax penalties
+29887,29887,146987,19757,EHB 1752 Deferred compensation/Roth
+29887,29887,146990,19758,SHB 1590 Enrollment stabilization
+29887,29887,146991,19759,2SHB 1664 Schools/support funding
+29887,29887,147027,19760,SSB 5760 Motion picture program
+29887,29887,147028,19761,SB 5921 County timber tax distrib.
+29887,29887,147029,19762,SB 5967 Financial instit./climate
+29887,29887,147030,19763,SB 5841 Law enf. employment
+29887,29887,147031,19764,SB 5459 Credit card processing/B&O
+29887,29887,147071,19765,HB 1647 Building for the arts
+29887,29887,147072,19766,ESHB 1699 Work in retirement/schools
+29887,29887,147073,19767,SHB 1701 LEOFF benefits
+29887,29887,147074,19768,HB 1765 Health benefit ex./B&O tax
+29887,29887,147075,19769,HB 1804 Military service credit
+29890,29890,147461,19956,2SHB 1173 State lands development auth
+29890,29890,147462,19957,ESHB 1753 Climate funding/tribes
+29890,29890,147463,19958,HB 2097 First-time home buyer def.
+29890,29890,147464,19959,HB 2098 Home rehab. loan program
+29890,29890,147465,19960,ESHB 1841 ADU rental/property tax
+29890,29890,147466,19961,ESHB 1643 Affordable housing/REET
+29890,29890,147467,19962,ESHB 1175 Host homes/property tax
+29890,29890,147468,19963,ESHB 1866 Supportive housing
+29890,29890,147469,19964,2SHB 1905 Homelessness/youth discharge
+29890,29890,147470,19965,HB 1183 Home sharing support grants
+29890,29890,147471,19966,SHB 1571 Indigenous persons/services
+29890,29890,147472,19967,SHB 1725 Missing indigenous persons
+29890,29890,147473,19968,SHB 1593 Landlord mitigation/victims
+29890,29890,147474,19969,SHB 1717 GMA planning/tribes
+29890,29890,147475,19970,E2SHB 1117 Comp. planning/salmon
+29890,29890,147476,19971,E2SHB 1663 Landfill methane emissions
+29890,29890,147477,19972,E2SHB 1812 Energy facility site council
+29890,29890,147478,19973,E2SHB 1799 Organic materials management
+29890,29890,147479,19974,E2SHB 1691 Oil spills/financial resp.
+29890,29890,147480,19975,ESHB 1694 Chemicals/consumer products
+29890,29890,147481,19976,ESHB 1699 Work in retirement/schools
+29890,29890,147482,19977,E2SHB 1760 Dual credit program access
+29890,29890,147483,19978,E2SHB 1153 Language access in schools
+29890,29890,147484,19979,2SHB 2008 Dev. disability programs/IQ
+29890,29890,147485,19980,SHB 1747 Child relative placements
+29890,29890,147486,19981,SHB 1616 Charity care
+29890,29890,147487,19982,E2SHB 1868 Health care staffing
+29890,29890,147488,19983,HB 2007 Nurse educator loans
+29890,29890,147489,19984,E2SHB 1181 Veterans & military suicide
+29890,29890,147490,19985,SHB 1773 Assisted outpatient treat.
+29890,29890,147491,19986,2SHB 1890 Children behavioral health
+29890,29890,147492,19987,SHB 1800 Behavioral health/minors
+29890,29890,147493,19988,2SHB 1860 Behavioral health discharge
+29890,29890,147494,19989,2SHB 1751 Hazing prevention
+29890,29890,147495,19990,E2SHB 1659 Higher education grants
+29890,29890,147496,19991,E2SHB 1736 State student loan program
+29890,29890,147497,19992,2SHB 1835 Postsecondary enrollment
+29890,29890,147498,19993,HB 1780 Workforce investment board
+29890,29890,147499,19994,HB 1805 Opportunity scholarship prog
+29890,29890,147500,19995,EHB 1687 College bound scholar./GPA
+29890,29890,147501,19996,SHB 1967 Nonprofits/property tax
+29890,29890,147502,19997,SHB 1620 Extreme weather events
+29890,29890,147503,19998,SHB 2051 Agricultural disaster assist
+29890,29890,147504,19999,SHB 1957 Disaster recovery assistance
+29890,29890,147505,20000,ESHB 1629 Aerial imaging technology
+29890,29890,147506,20001,E2SHB 1723 Telecommunications access
+29890,29890,147507,20002,E2SHB 1015 Equitable access to credit
+29890,29890,147508,20003,2SHB 1827 Community reinvestment
+29890,29890,147509,20004,3SHB 1359 Liquor license fees
+29890,29890,147510,20005,SHB 1901 Civil protection orders
+29890,29890,147511,20006,E4SHB 1412 Legal financial obligations
+29891,29891,146857,19702,SHB 1626 WDFW electronic licensing
+29891,29891,146858,19703,SHB 1649 WDFW disabilities adv. comm.
+29891,29891,146859,19704,SHB 2051 Agricultural disaster assist
+29892,29892,146860,19705,SJM 8009 National biodiversity strat.
+29894,29894,147134,19865,SSB 5762 Purple star award
+29896,29896,147171,19872,SHB 1717 GMA planning/tribes
+29896,29896,147172,19873,SHB 1724 Supportive housing resources
+29896,29896,147173,19874,E2SHB 1241 Growth management act plans
+29896,29896,147174,19875,HB 1769 Community municipal corps
+29896,29896,147175,19876,ESHB 1841 ADU rental/property tax
+29896,29896,147176,19877,HB 1738 Housing finance comm'n debt
+29896,29896,147177,19878,ESHB 2064 Residential tenant deposits
+29897,29897,147178,19879,HB 2010 Homeless budgets & audits
+29897,29897,147179,19880,ESHB 1660 Accessory dwelling units
+29902,29902,147169,19871,E2SHB 1181 Veterans & military suicide
+29904,29904,146848,19706,ESHB 1497 Telephone solicitation
+29904,29904,146849,19707,ESHB 1650 Commercial solicitation
+29904,29904,146850,19708,"ESHB 1930 Cosmetologists, etc/licenses"
+29904,29904,146851,19709,SHB 1967 Nonprofits/property tax
+29904,29904,146915,19710,SHB 1389 Peer-to-peer vehicle sharing
+29906,29906,147136,19863,ESSB 5599 Journey level electricians
+29908,29908,147088,19740,SB 5975 Additive transp. funding
+29908,29908,147089,19741,"SB 5689 Transportation budget, supp."
+29909,29909,147090,19742,SHB 1984 Vehicle reg. cert. addresses
+29909,29909,147091,19743,HB 2074 Off-road vehicles fees
+29911,29911,146917,19784,SB 5715 Definition of broadband
+29913,29913,146882,19806,SSB 5785 Transitional food assistance
+29914,29914,147042,19782,SSB 5644 Behavioral health coresponse
+29918,29918,146999,19729,E2SHB 1868 Health care staffing
+29918,29918,147000,19730,HB 1702 Broadband connectivity
+29918,29918,147001,19731,2SHB 1827 Community reinvestment
+29920,29920,147002,19732,EHB 1837 Musculoskeletal injuries
+29925,29925,147152,19839,2SSB 5332 Off-road and wheeled ATVs
+29925,29925,147153,19840,SB 5510 Transp. benefit district tax
+29925,29925,147154,19841,SB 5687 Traffic safety
+29925,29925,147155,19842,SSB 5741 Patches pal license plates
+29925,29925,147156,19843,SB 5898 Vehicle fees/state bonds
+29925,29925,147157,19844,SSB 5907 Roadside safety
+29949,29949,147429,19928,ESHB 2076 Transp. network companies
+29949,29949,147430,19929,SHB 1790 Temporary license plates
+29949,29949,147431,19930,E2SHB 1815 Catalytic converter theft

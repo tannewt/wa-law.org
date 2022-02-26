@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 from collections import namedtuple
 import arrow
 import cached_session
+import pathlib
+import csv
 
 requests = cached_session.CustomCachedSession("committee_cache")
 
@@ -76,18 +78,43 @@ def is_public_meeting_item(item):
   return item.HearingType.text == "Public"
 
 
-AgendaItem = namedtuple("AgendaItem", ["chamber", "mId", "aId", "caId", "text"])
+AgendaItem = namedtuple("AgendaItem", ["agendaId", "mId", "aId", "caId", "text"])
 
+agenda_cache = {}
+agenda_fn = pathlib.Path("data/agenda_items.csv")
+with agenda_fn.open("r") as f:
+    for row in csv.reader(f):
+        if row[0] == "agendaId":
+            continue
+        agendaId = row[0]
+        if agendaId not in agenda_cache:
+            agenda_cache[agendaId] = []
+        agenda_cache[agendaId].append(AgendaItem(*row))
 
 def load_agenda_items(agendaId, force_fetch):
+    if not force_fetch and agendaId in agenda_cache:
+        return agenda_cache[agendaId]
     url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={agendaId}"
     response = requests.get(url, force_fetch=force_fetch)
     xml_items = BeautifulSoup(response.text, "lxml")
     agenda_items = []
     for item in xml_items.find_all(class_="agendaItem"):
         chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
-        agenda_items.append(AgendaItem(chamber, mId, aId, caId, item.text))
-    return agenda_items
+        agenda_items.append(AgendaItem(agendaId, mId, aId, caId, item.text))
+    if agendaId not in agenda_cache:
+        agenda_cache[agendaId] = []
+    for item in agenda_items:
+        if item in agenda_cache[agendaId]:
+            continue
+        agenda_cache[agendaId].append(item)
+    return agenda_cache[agendaId]
+
+def save_cache_files():
+    with agenda_fn.open("w") as f:
+        writer = csv.writer(f)
+        writer.writerow(["agendaId","mId","aId","caId","text"])
+        for agendaId in sorted(agenda_cache.keys()):
+            writer.writerows(agenda_cache[agendaId])
 
 
 def load_all_meetings(start_year, force_fetch):
@@ -140,3 +167,5 @@ if __name__ == "__main__":
 
     for hearing in hearings:
       print(f"\"{hearing['text']}\" Sign-ins: {hearing['counts']}")
+
+    save_cache_files()
