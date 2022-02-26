@@ -69,7 +69,7 @@ for start_year in range(2021, 2023, 2):
                 # print("[+/-]()") # tId=3
 
                 url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={mId}"
-                agendaItems = requests.get(url)
+                agendaItems = requests.get(url, force_fetch=FORCE_FETCH)
                 items = BeautifulSoup(agendaItems.text, "lxml")
                 for item in items.find_all(class_="agendaItem"):
                     if bill_number not in item.text:
@@ -99,7 +99,9 @@ for start_year in range(2021, 2023, 2):
                 if not is_public_meeting_item(item):
                     continue
                 mId = meeting.AgendaId.text
-                agenda_items = load_agenda_items(mId, FORCE_FETCH)
+                # Only load these from the cache. After the meeting occurs, the
+                # page no longer holds the IDs we care about.
+                agenda_items = load_agenda_items(mId, False)
                 for item in agenda_items:
                     if bill_number not in item.text:
                         continue
