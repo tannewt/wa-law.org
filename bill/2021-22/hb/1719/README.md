@@ -7,3 +7,4 @@ Concerning use and acquisition of military equipment by law enforcement agencies
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

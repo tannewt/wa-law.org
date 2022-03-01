@@ -7,3 +7,4 @@
 * [HB 1575](/bill/2021-22/hb/1575/) - Disorderly conduct | By resolution, reintroduced and retained in present status.
 * [HB 1912](/bill/2021-22/hb/1912/) - Capital gains tax/repeal | First reading, referred to Finance.
 * [HB 2004](/bill/2021-22/hb/2004/) - Interpreters/medical appts' | First reading, referred to Health Care & Wellness.
+* [HB 2132](/bill/2021-22/hb/2132/) - Providing for immediate employment programs for people experiencing homelessness. | First reading, referred to Housing, Human Services & Veterans.

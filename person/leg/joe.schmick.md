@@ -10,5 +10,5 @@
 * [HB 1813](/bill/2021-22/hb/1813/) - Pharmacy choice | First reading, referred to Health & Long Term Care.
 * [HB 1821](/bill/2021-22/hb/1821/) - Telemedicine/relationship | Placed on second reading by Rules Committee.
 * [HB 1902](/bill/2021-22/hb/1902/) - Workers' comp reopening | Passed to Rules Committee for second reading.
-* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | First reading, referred to Ways & Means.
+* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | Minority; without recommendation.
 * [HB 1959](/bill/2021-22/hb/1959/) - Managed health rate review | Returned to Rules Committee for second reading.

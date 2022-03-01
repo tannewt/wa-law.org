@@ -1,7 +1,7 @@
 # SB 5564 - Employee assistance programs
 **Primary Sponsor:** [Karen Keiser](/person/leg/karen.keiser.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5564&Year=2021)
+*Status: Third reading, passed; yeas, 93; nays, 2; absent, 0; excused, 3.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5564&Year=2021)
 
 Protecting the confidentiality of employees using employee assistance programs.
 

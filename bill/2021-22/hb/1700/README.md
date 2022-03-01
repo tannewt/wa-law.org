@@ -1,12 +1,9 @@
 # HB 1700 - Derelict vessel removal
 **Primary Sponsor:** [Dave Paul](/person/leg/paul_da.md)
 
-*Status: Referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1700&Year=2021)
+*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1700&Year=2021)
 
 Concerning sustainable funding for the derelict vessel removal account using the vessel watercraft excise tax.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Feb 28 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

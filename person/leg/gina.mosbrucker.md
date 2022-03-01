@@ -12,7 +12,7 @@
 * [HB 1524](/bill/2021-22/hb/1524/) - Electric-assisted bicycles | By resolution, reintroduced and retained in present status.
 * [HB 1527](/bill/2021-22/hb/1527/) - Rolling blackouts, etc. | By resolution, reintroduced and retained in present status.
 * [HB 1559](/bill/2021-22/hb/1559/) - Juveniles/controlled subst. | By resolution, reintroduced and retained in present status.
-* [HB 1571](/bill/2021-22/hb/1571/) - Indigenous persons/services | Referred to Ways & Means.
+* [HB 1571](/bill/2021-22/hb/1571/) - Indigenous persons/services | WM - Majority; do pass.
 * [HB 1621](/bill/2021-22/hb/1621/) - Sex. assault nurse training | Returned to Rules Committee for second reading.
 * [HB 1622](/bill/2021-22/hb/1622/) - Sex. assault nurse education | Passed to Rules Committee for second reading.
 * [HB 1623](/bill/2021-22/hb/1623/) - Power supply inadequacy | Placed on second reading by Rules Committee.

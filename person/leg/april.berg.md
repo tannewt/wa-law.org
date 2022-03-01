@@ -10,4 +10,4 @@
 * [HB 1846](/bill/2021-22/hb/1846/) - Data centers tax preference | Referred to Rules 2 Review.
 * [HB 1958](/bill/2021-22/hb/1958/) - Shovel-ready site cert. | First reading, referred to Ways & Means.
 * [HB 2031](/bill/2021-22/hb/2031/) - Unempl. & leave premiums | First reading, referred to Labor & Workplace Standards.
-* [HB 2099](/bill/2021-22/hb/2099/) - Tax penalties | Rules Committee relieved of further consideration.  Placed on second reading.
+* [HB 2099](/bill/2021-22/hb/2099/) - Tax penalties | Third reading, passed; yeas, 86; nays, 9; absent, 0; excused, 3.

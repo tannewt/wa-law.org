@@ -7,6 +7,3 @@ Concerning small school district consolidation incentives for infrastructure enh
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Feb 28 at 8:00 am - [House Capital Budget](/house/2021-22/CB/) Executive Session

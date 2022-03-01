@@ -4,7 +4,7 @@
 * [HB 1162](/bill/2021-22/hb/1162/) - High school graduation | First reading, referred to Early Learning & K-12 Education.
 * [HB 1225](/bill/2021-22/hb/1225/) - School-based health centers | Chapter 68, 2021 Laws.
 * [HB 1226](/bill/2021-22/hb/1226/) - School district elections | Referred to Capital Budget.
-* [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | Referred to Ways & Means.
+* [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | Minority; do not pass.
 * [HB 1518](/bill/2021-22/hb/1518/) - Paper products/environment | First reading, referred to State Government & Elections.
 * [HB 1730](/bill/2021-22/hb/1730/) - Fertility services | First reading, referred to Health Care & Wellness.
 * [HB 1808](/bill/2021-22/hb/1808/) - Pupil transportation funding | First reading, referred to Early Learning & K-12 Education.

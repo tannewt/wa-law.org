@@ -16,5 +16,5 @@
 * [HB 1957](/bill/2021-22/hb/1957/) - Disaster recovery assistance | Referred to Ways & Means.
 * [HB 2011](/bill/2021-22/hb/2011/) - Skill center funding | First reading, referred to Appropriations.
 * [HB 2014](/bill/2021-22/hb/2014/) - Outdoor school | First reading, referred to Education.
-* [HB 2051](/bill/2021-22/hb/2051/) - Agricultural disaster assist | On motion, referred to Ways & Means.
+* [HB 2051](/bill/2021-22/hb/2051/) - Agricultural disaster assist | WM - Majority; do pass.
 * [HB 2078](/bill/2021-22/hb/2078/) - Outdoor learning grant prg. | First reading, referred to Ways & Means.

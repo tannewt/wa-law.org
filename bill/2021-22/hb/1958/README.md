@@ -8,6 +8,3 @@ Accelerating rural job growth and promoting economic recovery across Washington 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Mon, Feb 28 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

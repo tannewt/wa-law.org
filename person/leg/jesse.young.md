@@ -24,3 +24,4 @@
 * [HB 2120](/bill/2021-22/hb/2120/) - Emergency services/crimes | First reading, referred to Public Safety.
 * [HB 2121](/bill/2021-22/hb/2121/) - Abortion | First reading, referred to Health Care & Wellness.
 * [HB 2127](/bill/2021-22/hb/2127/) - Addressing the Tacoma Narrows bridge toll debt. | First reading, referred to Transportation.
+* [HB 2129](/bill/2021-22/hb/2129/) - Concerning the valuation of property for purposes of state property tax levies. | First reading, referred to Finance.

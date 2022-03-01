@@ -9,10 +9,10 @@
 * [HB 1173](/bill/2021-22/hb/1173/) - State lands development auth | On motion, referred to Ways & Means.
 * [HB 1206](/bill/2021-22/hb/1206/) - Temporary workers | Effective date 7/25/2021.
 * [HB 1486](/bill/2021-22/hb/1486/) - Unemployment/voluntary | Returned to Rules Committee for second reading.
-* [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | Referred to Ways & Means.
+* [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | Minority; without recommendation.
 * [HB 1705](/bill/2021-22/hb/1705/) - Untraceable guns | Passed to Rules Committee for second reading.
 * [HJM 4002](/bill/2021-22/hjm/4002/) - Jones Act | Referred to Rules 2 Review.
 * [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | Referred to Appropriations.
 * [HB 1795](/bill/2021-22/hb/1795/) - Nondisclosure/illegal acts | Passed to Rules Committee for second reading.
 * [HB 2009](/bill/2021-22/hb/2009/) - Basic income trust | First reading, referred to Housing, Human Services & Veterans.
-* [HB 2076](/bill/2021-22/hb/2076/) - Transp. network companies | Third reading, passed; yeas, 55; nays, 42; absent, 0; excused, 1.
+* [HB 2076](/bill/2021-22/hb/2076/) - Transp. network companies | Minority; without recommendation.

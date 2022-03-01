@@ -13,7 +13,7 @@
 ## Upcoming Meetings
 ### Wed, Mar 2 at 8:00 am
 Public Hearing
-*  Washington State Gambling Commission:  Nisqually Indian Tribe Gaming Compact Amendment.   (If proposed compact amendment is received by Legislature.)   (Remote testimony.)
+* Washington State Gambling Commission:  Nisqually Indian Tribe Gaming Compact Amendment.  (Remote testimony.)
 
 Meeting is scheduled to end at 8:45 a.m.
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

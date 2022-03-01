@@ -18,6 +18,6 @@
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | First reading, referred to Health Care & Wellness.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Referred to Rules 2 Review.
 * [SB 5849](/bill/2021-22/sb/5849/) - Tax incentives | Passed to Rules Committee for second reading.
-* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Referred to Rules 2 Review.
+* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Civil Rights & Judiciary.
 * [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Referred to Rules 2 Review.

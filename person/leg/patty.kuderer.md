@@ -22,7 +22,7 @@
 * [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Referred to Appropriations.
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Senate Rules "X" file.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Senate Rules "X" file.
-* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | First reading, referred to Transportation.
+* [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | TR - Majority; do pass.
 * [SB 5662](/bill/2021-22/sb/5662/) - Right-of-way camping/housing | Referred to Appropriations.
 * [SB 5705](/bill/2021-22/sb/5705/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means.
 * [SB 5768](/bill/2021-22/sb/5768/) - Vapor products | First reading, referred to Health & Long Term Care.

@@ -1,6 +1,6 @@
 # Sam Hunt
 ## Bills
-* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | Referred to Rules 2 Review.
+* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5013](/bill/2021-22/sb/5013/) - Local redistricting deadline | Effective date 5/3/2021*.
 * [SB 5014](/bill/2021-22/sb/5014/) - Odd-numbered year ballots | By resolution, reintroduced and retained in present status.
 * [SB 5015](/bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes | Effective date 7/25/2021.
@@ -14,11 +14,11 @@
 * [SB 5395](/bill/2021-22/sb/5395/) - State resources/remote work | Senate Rules "X" file.
 * [SB 5426](/bill/2021-22/sb/5426/) - Wealth tax | By resolution, reintroduced and retained in present status.
 * [SB 5538](/bill/2021-22/sb/5538/) - Aerial imaging technology | First reading, referred to State Government & Elections.
-* [SB 5539](/bill/2021-22/sb/5539/) - Ed. service district funding | APP - Executive action taken by committee.
+* [SB 5539](/bill/2021-22/sb/5539/) - Ed. service district funding | Minority; without recommendation.
 * [SB 5540](/bill/2021-22/sb/5540/) - Election dates and timelines | First reading, referred to State Government & Elections.
 * [SB 5570](/bill/2021-22/sb/5570/) - Capitol grounds/major works | First reading, referred to State Government & Elections.
 * [SB 5579](/bill/2021-22/sb/5579/) - WMS bargaining | Referred to Ways & Means.
-* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Referred to Rules 2 Review.
+* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5636](/bill/2021-22/sb/5636/) - Automatic voter registration | Referred to Ways & Means.
 * [SB 5698](/bill/2021-22/sb/5698/) - Plan 1 retiree COLAs | First reading, referred to Ways & Means.
 * [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | Referred to Rules 2 Review.

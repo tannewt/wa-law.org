@@ -42,3 +42,4 @@
 * [HB 2036](/bill/2021-22/hb/2036/) - Law enf. agency equipment | First reading, referred to Public Safety.
 * [HB 2082](/bill/2021-22/hb/2082/) - Child care access report | Returned to Rules Committee for second reading.
 * [HB 2087](/bill/2021-22/hb/2087/) - Education/parent rights | First reading, referred to Education.
+* [HB 2131](/bill/2021-22/hb/2131/) - Providing parents and their children with more choices for a quality K-12 education through the family empowerment scholarship program. | First reading, referred to Education.

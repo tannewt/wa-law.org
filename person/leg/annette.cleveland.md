@@ -11,12 +11,12 @@
 * [SB 5360](/bill/2021-22/sb/5360/) - Fire & smoke control systems | By resolution, reintroduced and retained in present status.
 * [SB 5452](/bill/2021-22/sb/5452/) - Electric-assisted bicycles | Effective date 7/25/2021.
 * [SB 5499](/bill/2021-22/sb/5499/) - Hemodialysis technicians | Referred to Rules 2 Review.
-* [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | Referred to Rules 2 Review.
+* [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5542](/bill/2021-22/sb/5542/) - Optometry | Senate Rules "X" file.
 * [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Referred to Rules 2 Review.
 * [SB 5618](/bill/2021-22/sb/5618/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
-* [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | APP - Executive action taken by committee.
-* [SB 5815](/bill/2021-22/sb/5815/) - Identicards | First reading, referred to Transportation.
+* [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | APP - Majority; do pass.
+* [SB 5815](/bill/2021-22/sb/5815/) - Identicards | TR - Majority; do pass.
 * [SB 5848](/bill/2021-22/sb/5848/) - Music therapists | First reading, referred to Health Care & Wellness.
 * [SB 5852](/bill/2021-22/sb/5852/) - Biodegradable product labels | First reading, referred to Environment, Energy & Technology.
 * [SB 5906](/bill/2021-22/sb/5906/) - Contralateral mastectomy | First reading, referred to Health & Long Term Care.

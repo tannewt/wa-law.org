@@ -7,10 +7,10 @@
 * [HB 1189](/bill/2021-22/hb/1189/) - Tax increment financing | Effective date 7/25/2021.
 * [HB 1241](/bill/2021-22/hb/1241/) - Growth management act plans | Passed to Rules Committee for second reading.
 * [HB 1362](/bill/2021-22/hb/1362/) - Property tax revenue growth | By resolution, reintroduced and retained in present status.
-* [HB 1663](/bill/2021-22/hb/1663/) - Landfill methane emissions | Referred to Ways & Means.
+* [HB 1663](/bill/2021-22/hb/1663/) - Landfill methane emissions | Minority; do not pass.
 * [HB 1714](/bill/2021-22/hb/1714/) - Impact fee deferrals | Referred to Rules 2 Review.
 * [HB 1768](/bill/2021-22/hb/1768/) - Energy conservation projects | Passed to Rules Committee for second reading.
 * [HB 1769](/bill/2021-22/hb/1769/) - Community municipal corps | Placed on second reading by Rules Committee.
 * [HB 1770](/bill/2021-22/hb/1770/) - Energy codes | Placed on second reading by Rules Committee.
 * [HB 1978](/bill/2021-22/hb/1978/) - Shoreline master programs | Passed to Rules Committee for second reading.
-* [HB 1990](/bill/2021-22/hb/1990/) - SR 167 & I-405 tax deferral | TR - Executive action taken by committee.
+* [HB 1990](/bill/2021-22/hb/1990/) - SR 167 & I-405 tax deferral | Minority; without recommendation.

@@ -9,6 +9,3 @@ Concerning prototypical school formulas for physical, social, and emotional supp
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
-
-## Upcoming Meetings
-* Mon, Feb 28 at 10:00 am - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

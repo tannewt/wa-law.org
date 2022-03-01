@@ -1,6 +1,6 @@
-# House Bill 1798
+# House Bill 1798 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1798.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1798.PL.pdf)
 ## Section 1
 > This section modifies existing section [43.15.070](/rcw/43_state_government—executive/43.015_office_of_lieutenant_governor.md). Here is the [modified chapter](rcw/43_state_government—executive/43.015_office_of_lieutenant_governor.md) for context.
 

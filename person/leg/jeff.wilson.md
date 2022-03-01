@@ -18,4 +18,4 @@
 * [SB 5650](/bill/2021-22/sb/5650/) - Elections law violation info | Senate Rules "X" file.
 * [SB 5856](/bill/2021-22/sb/5856/) - Firearm transfers to museums | Referred to Rules 2 Review.
 * [SB 5871](/bill/2021-22/sb/5871/) - Microschool pilot project | First reading, referred to Early Learning & K-12 Education.
-* [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | First reading, referred to Transportation.
+* [SB 5907](/bill/2021-22/sb/5907/) - Roadside safety | TR - Majority; do pass with amendment(s).

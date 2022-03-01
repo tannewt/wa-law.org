@@ -21,10 +21,10 @@
 * [SB 5627](/bill/2021-22/sb/5627/) - Workers' comp. exam rights | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5658](/bill/2021-22/sb/5658/) - Recyclability | First reading, referred to Environment, Energy & Technology.
 * [SB 5671](/bill/2021-22/sb/5671/) - Liquor and cannabis board | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | Referred to Rules 2 Review.
+* [SB 5694](/bill/2021-22/sb/5694/) - DOC-tribal agreements | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5708](/bill/2021-22/sb/5708/) - Fur products | First reading, referred to Law & Justice.
 * [SB 5717](/bill/2021-22/sb/5717/) - Compost products | First reading, referred to Environment, Energy & Technology.
-* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Referred to Rules 2 Review.
+* [SB 5747](/bill/2021-22/sb/5747/) - Statewide oil spill plan | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5767](/bill/2021-22/sb/5767/) - Hemp-derived cannabinoids | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5773](/bill/2021-22/sb/5773/) - Legislature/bargaining | Referred to Ways & Means.
 * [SB 5947](/bill/2021-22/sb/5947/) - Property exempt from exec. | Senate Rules "X" file.

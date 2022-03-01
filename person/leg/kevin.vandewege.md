@@ -22,7 +22,7 @@
 * [SB 5587](/bill/2021-22/sb/5587/) - Drinking water fluoridation | First reading, referred to Environment, Energy & Technology.
 * [SB 5613](/bill/2021-22/sb/5613/) - Use of dogs to hunt | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [SB 5721](/bill/2021-22/sb/5721/) - Natural resource management | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5900](/bill/2021-22/sb/5900/) - Provisional paramedics, EMTs | Referred to Rules 2 Review.
+* [SB 5900](/bill/2021-22/sb/5900/) - Provisional paramedics, EMTs | Rules Committee relieved of further consideration.  Placed on second reading.
 * [ESB 5919](/bill/2021-22/esb/5919/) - Law enf. detention & pursuit | Referred to Rules 2 Review.
 * [SB 5928](/bill/2021-22/sb/5928/) - State energy code | First reading, referred to Environment, Energy & Technology.
 * [SB 5949](/bill/2021-22/sb/5949/) - Dental auxiliaries | First reading, referred to Health & Long Term Care.

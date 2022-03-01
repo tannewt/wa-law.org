@@ -7,6 +7,3 @@ Designating the Washington state leadership board a trustee of the state of Wash
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Feb 28 at 10:00 am - [House Appropriations](/house/2021-22/APP/) Executive Session

@@ -23,16 +23,16 @@
 * [SB 5648](/bill/2021-22/sb/5648/) - Accessory dwelling units | First reading, referred to Housing & Local Government.
 * [SB 5666](/bill/2021-22/sb/5666/) - Targeted electrification | First reading, referred to Environment, Energy & Technology.
 * [SB 5669](/bill/2021-22/sb/5669/) - Energy codes | First reading, referred to Environment, Energy & Technology.
-* [SB 5689](/bill/2021-22/sb/5689/) - Transportation budget, supp. | Third reading, passed; yeas, 41; nays, 8; absent, 0; excused, 0.
+* [SB 5689](/bill/2021-22/sb/5689/) - Transportation budget, supp. | Third reading, passed; yeas, 91; nays, 3; absent, 0; excused, 4.
 * [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | Referred to Appropriations.
 * [SB 5797](/bill/2021-22/sb/5797/) - Opportunity scholarship prog | First reading, referred to Higher Education & Workforce Development.
 * [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | Referred to Ways & Means.
-* [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | Minority; without recommendation.
+* [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | Referred to Rules 2 Review.
 * [SB 5846](/bill/2021-22/sb/5846/) - Election offices/weapons | First reading, referred to Law & Justice.
 * [SB 5847](/bill/2021-22/sb/5847/) - Public employee PSLF info. | Referred to Appropriations.
 * [SB 5861](/bill/2021-22/sb/5861/) - Housing benefit districts | First reading, referred to Housing & Local Government.
-* [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | TR - Executive action taken by committee.
+* [SB 5898](/bill/2021-22/sb/5898/) - Vehicle fees/state bonds | Minority; without recommendation.
 * [SB 5899](/bill/2021-22/sb/5899/) - SR 520 sales tax deferral | First reading, referred to Transportation.
 * [SB 5908](/bill/2021-22/sb/5908/) - Clean car authority | Referred to Transportation.
-* [SB 5974](/bill/2021-22/sb/5974/) - Transportation resources | Referred to Rules 2 Review.
-* [SB 5975](/bill/2021-22/sb/5975/) - Additive transp. funding | 1st substitute bill substituted.
+* [SB 5974](/bill/2021-22/sb/5974/) - Transportation resources | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5975](/bill/2021-22/sb/5975/) - Additive transp. funding | Rules Committee relieved of further consideration.  Placed on second reading.
