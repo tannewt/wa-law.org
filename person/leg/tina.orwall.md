@@ -2,8 +2,8 @@
 ## Bills
 * [HB 1108](/bill/2021-22/hb/1108/) - Foreclosure assistance | Effective date 7/25/2021*.
 * [HB 1109](/bill/2021-22/hb/1109/) - Victims of sexual assault | Effective date 4/26/2021.
-* [HB 1153](/bill/2021-22/hb/1153/) - Language access in schools | Referred to Ways & Means.
-* [HB 1181](/bill/2021-22/hb/1181/) - Veterans & military suicide | WM - Majority; do pass with amendment(s) by Human Services, Reentry & Rehabilitation.
+* [HB 1153](/bill/2021-22/hb/1153/) - Language access in schools | Third reading, passed; yeas, 43; nays, 5; absent, 0; excused, 1.
+* [HB 1181](/bill/2021-22/hb/1181/) - Veterans & military suicide | Placed on second reading by Rules Committee.
 * [HB 1182](/bill/2021-22/hb/1182/) - Crisis response services | By resolution, reintroduced and retained in present status.
 * [EHB 1271](/bill/2021-22/ehb/1271/) - County officials/continuity | Effective date 7/25/2021*.
 * [HB 1465](/bill/2021-22/hb/1465/) - Estate tax | By resolution, reintroduced and retained in present status.

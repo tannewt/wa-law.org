@@ -1,7 +1,7 @@
 # HB 1799 - Organic materials management
 **Primary Sponsor:** [Joe Fitzgibbon](/person/leg/joe.fitzgibbon.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1799&Year=2021)
+*Status: Third reading, passed; yeas, 34; nays, 14; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1799&Year=2021)
 
 Concerning organic materials management.
 

@@ -9,10 +9,10 @@
 * [HB 1510](/bill/2021-22/hb/1510/) - Nonemergency medical transp. | House Rules "X" file.
 * [HB 1542](/bill/2021-22/hb/1542/) - Jury demographics | By resolution, reintroduced and retained in present status.
 * [HB 1577](/bill/2021-22/hb/1577/) - Greenhouse gas emissions | By resolution, reintroduced and retained in present status.
-* [HB 1643](/bill/2021-22/hb/1643/) - Affordable housing/REET | Minority; do not pass.
+* [HB 1643](/bill/2021-22/hb/1643/) - Affordable housing/REET | Placed on second reading by Rules Committee.
 * [HB 1754](/bill/2021-22/hb/1754/) - Prejudgment interest | First reading, referred to Civil Rights & Judiciary.
 * [HB 1774](/bill/2021-22/hb/1774/) - Greenhouse gases/buildings | First reading, referred to Environment & Energy.
-* [HB 1793](/bill/2021-22/hb/1793/) - Electric vehicles/HOAs | Placed on second reading by Rules Committee.
-* [HB 1956](/bill/2021-22/hb/1956/) - Incarcerated individuals/PRA | Passed to Rules Committee for second reading.
+* [HB 1793](/bill/2021-22/hb/1793/) - Electric vehicles/HOAs | President signed.
+* [HB 1956](/bill/2021-22/hb/1956/) - Incarcerated individuals/PRA | Third reading, passed; yeas, 28; nays, 20; absent, 0; excused, 1.
 * [HB 2023](/bill/2021-22/hb/2023/) - Landlord-tenant enforcement | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2062](/bill/2021-22/hb/2062/) - RTA additive revenue | First reading, referred to Transportation.

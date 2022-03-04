@@ -1,7 +1,7 @@
 # Jesse Salomon
 ## Bills
 * [ESB 5026](/bill/2021-22/esb/5026/) - Cargo handling equipment | Effective date 7/25/2021.
-* [SB 5042](/bill/2021-22/sb/5042/) - GMA actions effective date | Referred to Rules 2 Review.
+* [SB 5042](/bill/2021-22/sb/5042/) - GMA actions effective date | Third reading, passed; yeas, 55; nays, 43; absent, 0; excused, 0.
 * [SB 5043](/bill/2021-22/sb/5043/) - School employee housing | Senate Rules "X" file.
 * [SB 5056](/bill/2021-22/sb/5056/) - Wilderness therapy programs | By resolution, reintroduced and retained in present status.
 * [SB 5134](/bill/2021-22/sb/5134/) - Law enforcement | By resolution, reintroduced and retained in present status.
@@ -14,8 +14,8 @@
 * [SB 5660](/bill/2021-22/sb/5660/) - Psilocybin | First reading, referred to Health & Long Term Care.
 * [SB 5667](/bill/2021-22/sb/5667/) - COVID-19 vaccination docs. | Senate Rules "X" file.
 * [SB 5677](/bill/2021-22/sb/5677/) - Law enf. serious misconduct | First reading, referred to Law & Justice.
-* [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Referred to Rules 2 Review.
+* [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
-* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | Referred to Appropriations.
+* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | Referred to Rules 2 Review.
 * [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Referred to Appropriations.
 * [SB 5976](/bill/2021-22/sb/5976/) - Substance use intervention | First reading, referred to Law & Justice.

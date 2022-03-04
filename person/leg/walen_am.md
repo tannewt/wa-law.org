@@ -13,9 +13,9 @@
 * [HB 1525](/bill/2021-22/hb/1525/) - Enforcement of judgments | Effective date 7/25/2021.
 * [HB 1615](/bill/2021-22/hb/1615/) - Cosmetics tested on animals | Passed to Rules Committee for second reading.
 * [HB 1674](/bill/2021-22/hb/1674/) - Sports wagering | First reading, referred to Commerce & Gaming.
-* [HB 1689](/bill/2021-22/hb/1689/) - Biomarker testing prior auth | Passed to Rules Committee for second reading.
+* [HB 1689](/bill/2021-22/hb/1689/) - Biomarker testing prior auth | Placed on second reading by Rules Committee.
 * [HB 1718](/bill/2021-22/hb/1718/) - Fur products | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1783](/bill/2021-22/hb/1783/) - Freight transporters/L&I | First reading, referred to Labor & Workplace Standards.
 * [HB 1841](/bill/2021-22/hb/1841/) - ADU rental/property tax | Referred to Ways & Means.
-* [HB 1941](/bill/2021-22/hb/1941/) - Active shooter drills | Passed to Rules Committee for second reading.
+* [HB 1941](/bill/2021-22/hb/1941/) - Active shooter drills | Third reading, passed; yeas, 30; nays, 18; absent, 0; excused, 1.
 * [HB 2020](/bill/2021-22/hb/2020/) - Sustainable housing/GMA | Referred to Appropriations.

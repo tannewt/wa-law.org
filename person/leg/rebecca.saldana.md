@@ -15,6 +15,6 @@
 * [SB 5706](/bill/2021-22/sb/5706/) - Community reinvestment | Referred to Ways & Means.
 * [SB 5707](/bill/2021-22/sb/5707/) - Traffic safety cameras | First reading, referred to Transportation.
 * [SB 5772](/bill/2021-22/sb/5772/) - Postconviction counsel | Referred to Ways & Means.
-* [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | First reading, referred to Appropriations.
+* [SB 5796](/bill/2021-22/sb/5796/) - Cannabis revenue | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5835](/bill/2021-22/sb/5835/) - Workers' comp marriage study | Senate Rules "X" file.
-* [SB 5863](/bill/2021-22/sb/5863/) - RTA vehicle removal | TR - Majority; do pass with amendment(s).
+* [SB 5863](/bill/2021-22/sb/5863/) - RTA vehicle removal | Referred to Rules 2 Review.

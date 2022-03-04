@@ -1,7 +1,7 @@
 # HB 1015 - Equitable access to credit
 **Primary Sponsor:** [Jacquelin Maycumber](/person/leg/maycumbe_ja.md)
 
-*Status: Referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1015&Year=2021)
+*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1015&Year=2021)
 
 Creating the Washington equitable access to credit act.
 

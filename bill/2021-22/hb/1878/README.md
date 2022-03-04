@@ -1,7 +1,7 @@
 # HB 1878 - Schools/comm. eligibility
 **Primary Sponsor:** [Marcus Riccelli](/person/leg/marcus.riccelli.md)
 
-*Status: Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1878&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1878&Year=2021)
 
 Increasing public school participation in the community eligibility provision of the United States department of agriculture.
 

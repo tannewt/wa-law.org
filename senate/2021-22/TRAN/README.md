@@ -19,20 +19,18 @@
 * [Claire Wilson](/person/leg/wilson_cl.md)
 * [Jeff Wilson](/person/leg/jeff.wilson.md)
 ## Upcoming Meetings
-### Sat, Feb 26 at 10:00 am
+### Sat, Mar 5 at 10:00 am
 Public Hearing
-* [SHB 1790](/bill/2021-22/hb/1790/) - Addressing the creation, display, and material durability of temporary license plates. (Remote testimony.)
-* [E2SHB 1815](/bill/2021-22/hb/1815/) - Deterring catalytic converter theft. (Remote testimony.) **38👍** **49👎** **1❓**
-* [ESHB 2076](/bill/2021-22/hb/2076/) - Concerning rights and obligations of transportation network company drivers and transportation network companies. (Remote testimony.) **36👍** **9👎** **16❓**
+* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. (Remote testimony.) (If measure is referred to committee.) **24👍** **0👎** **0❓**
+* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. (Remote testimony.) **26👍** **1👎** **1❓**
+* [ESHB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. (Remote testimony.) **180👍** **0👎** **0❓**
 
-Possible executive session on bills heard in committee. Possible other business.
+Executive Session
+* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. (If measure is referred to committee.) **24👍** **0👎** **0❓**
+* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. **26👍** **1👎** **1❓**
+* [ESHB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. **180👍** **0👎** **0❓**
+* [SB 5778](/bill/2021-22/sb/5778/) - Addressing the current backlog of vehicle inspections. **1👍** **0👎** **0❓**
 
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-### Mon, Feb 28 at 1:00 pm
-Public Hearing
-* Bills to be determined.
-
-Possible executive session on bills heard in committee. Possible other business.
+Possible other business.
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

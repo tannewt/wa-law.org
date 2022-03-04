@@ -1,7 +1,7 @@
 # HB 1812 - Energy facility site council
 **Primary Sponsor:** [Joe Fitzgibbon](/person/leg/joe.fitzgibbon.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1812&Year=2021)
+*Status: Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1812&Year=2021)
 
 Modernizing the energy facility site evaluation council to meet the state's clean energy goals.
 

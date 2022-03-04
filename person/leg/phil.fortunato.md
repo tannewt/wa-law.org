@@ -46,4 +46,5 @@
 * [SB 5887](/bill/2021-22/sb/5887/) - Special session procedures | First reading, referred to State Government & Elections.
 * [SB 5953](/bill/2021-22/sb/5953/) - Abandoned vehicles/sales tax | First reading, referred to Ways & Means.
 * [SB 5968](/bill/2021-22/sb/5968/) - Salmon populations/effect | First reading, referred to Agriculture, Water, Natural Resources & Parks.
+* [SB 5984](/bill/2021-22/sb/5984/) - Spirits products from Russia | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SJR 8211](/bill/2021-22/sjr/8211/) - Revenue for highway purposes | First reading, referred to Transportation.

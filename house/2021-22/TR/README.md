@@ -31,10 +31,8 @@
 * [Jim Walsh](/person/leg/jim.walsh.md)
 * [Emily Wicks](/person/leg/wicks_em.md)
 ## Upcoming Meetings
-### Mon, Feb 28 at 10:00 am
-Public Hearing
-* Senate bills referred from other committees. (Remote testimony.)
-
-See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
+### Sat, Mar 5 at 12:00 pm
+Executive Session
+* [SSB 5488](/bill/2021-22/sb/5488/) - Concerning state contributions in support of the Tacoma Narrows toll bridge.
 
 To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

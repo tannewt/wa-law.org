@@ -8,3 +8,6 @@ Concerning a zero-emission landscaping equipment incentive.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Mon, Mar 7 at 5:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

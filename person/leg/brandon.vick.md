@@ -9,8 +9,8 @@
 * [HB 1403](/bill/2021-22/hb/1403/) - License review and reporting | By resolution, reintroduced and retained in present status.
 * [HB 1404](/bill/2021-22/hb/1404/) - Highly capable student prgs. | By resolution, reintroduced and retained in present status.
 * [HB 1432](/bill/2021-22/hb/1432/) - Distilled spirit sales | By resolution, reintroduced and retained in present status.
-* [HB 1648](/bill/2021-22/hb/1648/) - Accountancy/inactive license | Passed to Rules Committee for second reading.
-* [HB 1874](/bill/2021-22/hb/1874/) - Prof. licensure/convictions | Placed on second reading by Rules Committee.
+* [HB 1648](/bill/2021-22/hb/1648/) - Accountancy/inactive license | Placed on second reading by Rules Committee.
+* [HB 1874](/bill/2021-22/hb/1874/) - Prof. licensure/convictions | President signed.
 * [HB 2080](/bill/2021-22/hb/2080/) - Liquor license endorsement | Rules Committee relieved of further consideration.  Placed on second reading.
 * [HB 2084](/bill/2021-22/hb/2084/) - Third WA-OR bridge study | First reading, referred to Transportation.
 * [HB 2112](/bill/2021-22/hb/2112/) - Liquor license fees/minors | First reading, referred to Commerce & Gaming.

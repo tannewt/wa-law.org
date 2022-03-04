@@ -9,13 +9,13 @@
 * [HB 1300](/bill/2021-22/hb/1300/) - Landlord damage claims | Referred to Rules 2 Review.
 * [HB 1445](/bill/2021-22/hb/1445/) - Definition of compounding | Effective date 7/25/2021.
 * [HB 1576](/bill/2021-22/hb/1576/) - Homeless individuals | By resolution, reintroduced and retained in present status.
-* [HB 1651](/bill/2021-22/hb/1651/) - Postpartum contraception | Passed to Rules Committee for second reading.
+* [HB 1651](/bill/2021-22/hb/1651/) - Postpartum contraception | Placed on second reading by Rules Committee.
 * [HB 1670](/bill/2021-22/hb/1670/) - JARRC chair & vice chair | Referred to Rules 2 Review.
 * [HB 1713](/bill/2021-22/hb/1713/) - Rx drug cost sharing | First reading, referred to Health Care & Wellness.
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
-* [EHB 1784](/bill/2021-22/ehb/1784/) - License plate visibility | TRAN - Majority; do pass.
-* [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | Placed on second reading by Rules Committee.
-* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Passed to Rules Committee for second reading.
-* [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | Minority; without recommendation.
-* [EHB 2096](/bill/2021-22/ehb/2096/) - Working families' tax exempt | Minority; do not pass.
+* [EHB 1784](/bill/2021-22/ehb/1784/) - License plate visibility | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.
+* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Placed on second reading by Rules Committee.
+* [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | Third reading, passed; yeas, 44; nays, 2; absent, 0; excused, 3.
+* [EHB 2096](/bill/2021-22/ehb/2096/) - Working families' tax exempt | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 2116](/bill/2021-22/hb/2116/) - Nonbiodegradable packaging | First reading, referred to Environment & Energy.

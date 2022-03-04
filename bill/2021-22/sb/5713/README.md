@@ -1,7 +1,7 @@
 # SB 5713 - Limited equity coop. housing
 **Primary Sponsor:** [Mona Das](/person/leg/das_mo.md)
 
-*Status: Referred to Rules 2 Review.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5713&Year=2021)
+*Status: Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5713&Year=2021)
 
 Providing a property tax exemption for limited equity cooperative housing.
 

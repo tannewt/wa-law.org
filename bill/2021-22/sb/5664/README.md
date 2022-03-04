@@ -1,7 +1,7 @@
 # SB 5664 - Forensic competency programs
 **Primary Sponsor:** [Manka Dhingra](/person/leg/manka.dhingra.md)
 
-*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5664&Year=2021)
+*Status: Third reading, passed; yeas, 97; nays, 1; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5664&Year=2021)
 
 Concerning forensic competency restoration programs.
 

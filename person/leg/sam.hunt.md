@@ -14,14 +14,14 @@
 * [SB 5395](/bill/2021-22/sb/5395/) - State resources/remote work | Senate Rules "X" file.
 * [SB 5426](/bill/2021-22/sb/5426/) - Wealth tax | By resolution, reintroduced and retained in present status.
 * [SB 5538](/bill/2021-22/sb/5538/) - Aerial imaging technology | First reading, referred to State Government & Elections.
-* [SB 5539](/bill/2021-22/sb/5539/) - Ed. service district funding | Minority; without recommendation.
+* [SB 5539](/bill/2021-22/sb/5539/) - Ed. service district funding | Third reading, passed; yeas, 80; nays, 17; absent, 0; excused, 1.
 * [SB 5540](/bill/2021-22/sb/5540/) - Election dates and timelines | First reading, referred to State Government & Elections.
 * [SB 5570](/bill/2021-22/sb/5570/) - Capitol grounds/major works | First reading, referred to State Government & Elections.
 * [SB 5579](/bill/2021-22/sb/5579/) - WMS bargaining | Referred to Ways & Means.
-* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Speaker signed.
 * [SB 5636](/bill/2021-22/sb/5636/) - Automatic voter registration | Referred to Ways & Means.
 * [SB 5698](/bill/2021-22/sb/5698/) - Plan 1 retiree COLAs | First reading, referred to Ways & Means.
-* [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | Referred to Rules 2 Review.
+* [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5905](/bill/2021-22/sb/5905/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.
 * [SB 5917](/bill/2021-22/sb/5917/) - Productivity board | First reading, referred to State Government & Elections.
 * [SB 5925](/bill/2021-22/sb/5925/) - Outdoor school | First reading, referred to Early Learning & K-12 Education.

@@ -9,16 +9,16 @@
 * [SB 5295](/bill/2021-22/sb/5295/) - Gas & electrical rates | Effective date 7/25/2021.
 * [SB 5432](/bill/2021-22/sb/5432/) - Cybersecurity/state gov. | Effective date 7/25/2021.
 * [SB 5543](/bill/2021-22/sb/5543/) - Landscaping equipment | Referred to Ways & Means.
-* [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Minority; without recommendation.
-* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | Passed to Rules Committee for second reading.
+* [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | Placed on second reading by Rules Committee.
 * [SB 5813](/bill/2021-22/sb/5813/) - Data privacy | First reading, referred to Environment, Energy & Technology.
 * [SB 5820](/bill/2021-22/sb/5820/) - Superintendent, appointing | First reading, referred to Early Learning & K-12 Education.
 * [SB 5833](/bill/2021-22/sb/5833/) - School director compensation | First reading, referred to Early Learning & K-12 Education.
 * [SB 5834](/bill/2021-22/sb/5834/) - State gov. tech. policies | Referred to Ways & Means.
-* [SB 5842](/bill/2021-22/sb/5842/) - Climate change | Rules Committee relieved of further consideration.  Placed on second reading.
-* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | Referred to Appropriations.
+* [SB 5842](/bill/2021-22/sb/5842/) - Climate change | Third reading, passed; yeas, 81; nays, 15; absent, 0; excused, 2.
+* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SB 5967](/bill/2021-22/sb/5967/) - Financial instit./climate | First reading, referred to Ways & Means.
 * [SB 5977](/bill/2021-22/sb/5977/) - Legislative chamber skylight | First reading, referred to Ways & Means.
-* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | WM - Majority; 1st substitute bill be substituted, do pass.
+* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | Placed on second reading by Rules Committee.
 * [SJR 8212](/bill/2021-22/sjr/8212/) - Superintendent | First reading, referred to Early Learning & K-12 Education.

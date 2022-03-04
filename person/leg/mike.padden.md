@@ -10,7 +10,7 @@
 * [SB 5234](/bill/2021-22/sb/5234/) - Long-term care trust repeal | By resolution, reintroduced and retained in present status.
 * [SB 5247](/bill/2021-22/sb/5247/) - Multistate nurse licensure | By resolution, reintroduced and retained in present status.
 * [SB 5261](/bill/2021-22/sb/5261/) - Police data collection | By resolution, reintroduced and retained in present status.
-* [SB 5332](/bill/2021-22/sb/5332/) - Off-road and wheeled ATVs | TR - Majority; do pass.
+* [SB 5332](/bill/2021-22/sb/5332/) - Off-road and wheeled ATVs | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5347](/bill/2021-22/sb/5347/) - Cooperatives/member voting | Effective date 7/25/2021.
 * [SB 5416](/bill/2021-22/sb/5416/) - Down syndrome/abortion | By resolution, reintroduced and retained in present status.
 * [SB 5465](/bill/2021-22/sb/5465/) - Road maintenance/planning | By resolution, reintroduced and retained in present status.
