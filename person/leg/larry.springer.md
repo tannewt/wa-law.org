@@ -4,4 +4,4 @@
 * [HB 1041](/bill/2021-22/hb/1041/) - Sunshine committee/juveniles | Passed to Rules Committee for second reading.
 * [HB 1168](/bill/2021-22/hb/1168/) - Long-term forest health | Effective date 7/25/2021.
 * [HB 1830](/bill/2021-22/hb/1830/) - Reusable packing materials | Referred to Rules 2 Review.
-* [HB 1832](/bill/2021-22/hb/1832/) - Code city form of government | Third reading, passed; yeas, 44; nays, 4; absent, 0; excused, 1.
+* [HB 1832](/bill/2021-22/hb/1832/) - Code city form of government | President signed.

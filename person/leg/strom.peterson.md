@@ -14,7 +14,7 @@
 * [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | President signed.
 * [HB 1756](/bill/2021-22/hb/1756/) - Solitary confinement | Referred to Rules 2 Review.
 * [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | Returned to Rules Committee for second reading.
-* [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | Placed on second reading by Rules Committee.
+* [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | Third reading, passed; yeas, 31; nays, 16; absent, 0; excused, 2.
 * [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | Returned to Rules Committee for second reading.
 * [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.

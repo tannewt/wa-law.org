@@ -16,7 +16,7 @@
 * [SB 5751](/bill/2021-22/sb/5751/) - Health care staffing | First reading, referred to Labor, Commerce & Tribal Affairs.
 * [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | Third reading, passed; yeas, 57; nays, 41; absent, 0; excused, 0.
 * [SB 5754](/bill/2021-22/sb/5754/) - EMTs/public health | First reading, referred to Health & Long Term Care.
-* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | Placed on second reading by Rules Committee.
+* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | First reading, referred to Finance.
 * [SB 5866](/bill/2021-22/sb/5866/) - Medicaid LTSS/tribes | President signed.
 * [SB 5923](/bill/2021-22/sb/5923/) - Temporary shelters/homeless | Senate Rules "X" file.
 * [SB 5926](/bill/2021-22/sb/5926/) - Investment services/tax | First reading, referred to Ways & Means.

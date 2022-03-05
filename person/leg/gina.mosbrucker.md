@@ -8,13 +8,13 @@
 * [HB 1449](/bill/2021-22/hb/1449/) - Coercive control | By resolution, reintroduced and retained in present status.
 * [HB 1452](/bill/2021-22/hb/1452/) - Physical education credit | By resolution, reintroduced and retained in present status.
 * [HB 1455](/bill/2021-22/hb/1455/) - Social security/L&I & ESD | Effective date 7/25/2021.
-* [HB 1497](/bill/2021-22/hb/1497/) - Telephone solicitation | Placed on second reading by Rules Committee.
+* [HB 1497](/bill/2021-22/hb/1497/) - Telephone solicitation | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [HB 1524](/bill/2021-22/hb/1524/) - Electric-assisted bicycles | By resolution, reintroduced and retained in present status.
 * [HB 1527](/bill/2021-22/hb/1527/) - Rolling blackouts, etc. | By resolution, reintroduced and retained in present status.
 * [HB 1559](/bill/2021-22/hb/1559/) - Juveniles/controlled subst. | By resolution, reintroduced and retained in present status.
-* [HB 1571](/bill/2021-22/hb/1571/) - Indigenous persons/services | Placed on second reading by Rules Committee.
+* [HB 1571](/bill/2021-22/hb/1571/) - Indigenous persons/services | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1621](/bill/2021-22/hb/1621/) - Sex. assault nurse training | Returned to Rules Committee for second reading.
-* [HB 1622](/bill/2021-22/hb/1622/) - Sex. assault nurse education | Placed on second reading by Rules Committee.
+* [HB 1622](/bill/2021-22/hb/1622/) - Sex. assault nurse education | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.
 * [HB 1623](/bill/2021-22/hb/1623/) - Power supply inadequacy | President signed.
 * [HB 1624](/bill/2021-22/hb/1624/) - Motorcycle safety board | Returned to Rules Committee for second reading.
 * [HB 1715](/bill/2021-22/hb/1715/) - Sentencing comm'n members | Returned to Rules Committee for second reading.

@@ -12,6 +12,6 @@
 * [SB 5784](/bill/2021-22/sb/5784/) - Workers' comp/attending prov | Senate Rules "X" file.
 * [SB 5785](/bill/2021-22/sb/5785/) - Transitional food assistance | Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.
 * [SB 5855](/bill/2021-22/sb/5855/) - Campaign funds/child care | Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.
-* [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5862](/bill/2021-22/sb/5862/) - Commercial energy program | Third reading, passed; yeas, 95; nays, 3; absent, 0; excused, 0.
 * [SB 5971](/bill/2021-22/sb/5971/) - Comprehensive plan/GMA | First reading, referred to Housing & Local Government.
 * [SB 5978](/bill/2021-22/sb/5978/) - Affordable housing funding | First reading, referred to Housing & Local Government.

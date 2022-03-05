@@ -68,51 +68,37 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 
 ## Upcoming Meetings
-### Sat, Mar 5
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/03-05-2022/03-05-2022/Agenda///Bill/)
-#### 9:00 am
-**Ways & Means**
-Public Hearing
-* [SB 5983](/bill/2021-22/sb/5983/) - Concerning untested and unregulated cannabinoid products. (Remote testimony.)
-* [ESHB 2124](/bill/2021-22/hb/2124/) - Concerning extending collective bargaining to legislative employees. (Remote testimony.)
-* [2SHB 1850](/bill/2021-22/hb/1850/) - Protecting and enforcing the foundational data privacy rights of Washingtonians. (Remote testimony.) (If measure is referred to committee.) **15👍** **29👎** **60❓**
-
-Possible executive session on bills heard in committee. Possible other business. Meeting is scheduled to end at 11:00 a.m.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
-#### 10:00 am
-**Transportation**
-Public Hearing
-* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. (Remote testimony.) (If measure is referred to committee.) **24👍** **0👎** **0❓**
-* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. (Remote testimony.) **26👍** **1👎** **1❓**
-* [ESHB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. (Remote testimony.) **180👍** **0👎** **0❓**
-
-Executive Session
-* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. (If measure is referred to committee.) **24👍** **0👎** **0❓**
-* [HB 2024](/bill/2021-22/hb/2024/) - Concerning a sales and use tax deferral for projects to improve the state route number 520 corridor. **26👍** **1👎** **1❓**
-* [ESHB 1530](/bill/2021-22/hb/1530/) - Creating Washington wine special license plates. **180👍** **0👎** **0❓**
-* [SB 5778](/bill/2021-22/sb/5778/) - Addressing the current backlog of vehicle inspections. **1👍** **0👎** **0❓**
-
-Possible other business.
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Mon, Mar 7
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/03-07-2022/03-07-2022/Agenda///Bill/)
 #### 5:00 pm
 **Ways & Means**
 Public Hearing
-* Bills to be determined.
+* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. (Remote testimony.) (If measure is referred to committee.) **36👍** **0👎** **0❓**
 
 Executive Session
-* [SB 5983](/bill/2021-22/sb/5983/) - Concerning untested and unregulated cannabinoid products.
-* [ESHB 2124](/bill/2021-22/hb/2124/) - Concerning extending collective bargaining to legislative employees.
-* [2SHB 1850](/bill/2021-22/hb/1850/) - Protecting and enforcing the foundational data privacy rights of Washingtonians. (If measure is referred to committee.) **15👍** **29👎** **60❓**
+* [SB 5983](/bill/2021-22/sb/5983/) - Concerning untested and unregulated cannabinoid products. **40👍** **68👎** **1❓**
+* [ESHB 2124](/bill/2021-22/hb/2124/) - Concerning extending collective bargaining to legislative employees. **101👍** **2👎** **2❓**
 * [SSB 5543](/bill/2021-22/sb/5543/) - Concerning a zero-emission landscaping equipment incentive. **76👍** **1👎** **0❓**
 * [SB 5967](/bill/2021-22/sb/5967/) - Imposing a state climate resiliency and mitigation surcharge on large financial institutions financing the global fossil fuel industry while recognizing the financial institution industry's efforts to address climate change. **806👍** **165👎** **5❓**
 
 Possible other business. Meeting is scheduled to end at 7:00 p.m.
+
+See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
+
+### Tue, Mar 8
+Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/03-08-2022/03-08-2022/Agenda///Bill/)
+#### 9:00 am
+**State Government & Elections**
+Public Hearing
+* [SGA 9408](/bill/2021-22/ga/9408/) - Jocelyn P McCurtain Cooney, Member, Public Disclosure Commission.
+
+Executive Session
+* [SGA 9408](/bill/2021-22/ga/9408/) - Jocelyn P McCurtain Cooney, Member, Public Disclosure Commission.
+
+Work Session
+* Interim planning discussion.
+
+Possible other business. Meeting is scheduled to end at 10:00 a.m. 
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
 
@@ -121,7 +107,7 @@ Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#
 #### 12:00 pm
 **Ways & Means**
 Executive Session
-* Bills to be determined.
+* [HB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. (If measure is referred to committee.) **36👍** **0👎** **0❓**
 
 Possible other business. Meeting is scheduled to end at 1:00 p.m.
 

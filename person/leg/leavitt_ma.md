@@ -8,9 +8,9 @@
 * [HB 1242](/bill/2021-22/hb/1242/) - Health care workers/leave | By resolution, reintroduced and retained in present status.
 * [HB 1418](/bill/2021-22/hb/1418/) - Rail safety governance/UTC | Referred to Transportation.
 * [HB 1592](/bill/2021-22/hb/1592/) - Military spouse employment | Returned to Rules Committee for second reading.
-* [HB 1593](/bill/2021-22/hb/1593/) - Landlord mitigation/victims | Placed on second reading by Rules Committee.
+* [HB 1593](/bill/2021-22/hb/1593/) - Landlord mitigation/victims | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1601](/bill/2021-22/hb/1601/) - Student homelessness pilot | Referred to Appropriations.
-* [HB 1620](/bill/2021-22/hb/1620/) - Extreme weather events | Passed to Rules Committee for second reading.
+* [HB 1620](/bill/2021-22/hb/1620/) - Extreme weather events | Placed on second reading.
 * [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1650](/bill/2021-22/hb/1650/) - Commercial solicitation | First reading, referred to Business, Financial Services & Trade.
 * [HB 1697](/bill/2021-22/hb/1697/) - Online services/minors | Referred to Appropriations.

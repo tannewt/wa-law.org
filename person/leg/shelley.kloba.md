@@ -10,6 +10,6 @@
 * [HB 1433](/bill/2021-22/hb/1433/) - Personal data rights charter | By resolution, reintroduced and retained in present status.
 * [HB 1668](/bill/2021-22/hb/1668/) - Marijuana products | Returned to Rules Committee for second reading.
 * [HB 1731](/bill/2021-22/hb/1731/) - Autonomous vehicle testing | First reading, referred to Transportation.
-* [HB 1859](/bill/2021-22/hb/1859/) - Cannabis analysis labs | Placed on second reading by Rules Committee.
+* [HB 1859](/bill/2021-22/hb/1859/) - Cannabis analysis labs | Third reading, passed; yeas, 46; nays, 2; absent, 0; excused, 1.
 * [HB 2107](/bill/2021-22/hb/2107/) - Consumer data excise tax | First reading, referred to Finance.
 * [HB 2122](/bill/2021-22/hb/2122/) - Cannabinoid products | First reading, referred to Appropriations.

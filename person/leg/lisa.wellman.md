@@ -1,6 +1,6 @@
 # Lisa Wellman
 ## Bills
-* [ESB 5017](/bill/2021-22/esb/5017/) - School district procurement | Referred to Rules 2 Review.
+* [ESB 5017](/bill/2021-22/esb/5017/) - School district procurement | Third reading, passed; yeas, 96; nays, 2; absent, 0; excused, 0.
 * [SB 5128](/bill/2021-22/sb/5128/) - Student transportation funds | Effective date 5/10/2021.
 * [SB 5161](/bill/2021-22/sb/5161/) - Teaching tribal history, etc | By resolution, reintroduced and retained in present status.
 * [SB 5249](/bill/2021-22/sb/5249/) - Mastery-based learning | Effective date 7/25/2021*.

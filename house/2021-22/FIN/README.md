@@ -20,10 +20,22 @@
 ## Upcoming Meetings
 ### Mon, Mar 7 at 8:00 am
 Public Hearing
-* Senate bills referred to committee. (Remote testimony.)
+* [SSB 5799](/bill/2021-22/sb/5799/) - Modifying the application of the workforce education investment advanced computing surcharge to provider clinics and affiliated organizations. (Remote testimony.) **3👍** **0👎** **0❓**
+* [E2SSB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of underdeveloped lands in urban areas. (Remote testimony.) **13👍** **1👎** **0❓**
+* [ESSB 5459](/bill/2021-22/sb/5459/) - Creating a business and occupation tax deduction for persons conducting payment card processing activity. (Remote testimony.) **10👍** **3👎** **0❓**
+* [ESB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. (Remote testimony.) **19👍** **0👎** **0❓**
+* [ESB 5849](/bill/2021-22/sb/5849/) - Concerning tax incentives. (Remote testimony.) **25👍** **1👎** **1❓**
+* [ESSB 5980](/bill/2021-22/sb/5980/) - Providing substantial and permanent tax relief for small businesses to mitigate structural deficiencies in Washington's business and occupation tax and lessen long-term negative economic consequences of the pandemic that have disproportionately impacted small businesses. (Remote testimony.)
+* [ESB 5309](/bill/2021-22/sb/5309/) - Providing a sales and use tax exemption for adult and baby diapers. (Remote testimony.)
 
 Executive Session
-* Senate bills referred to committee.
+* [SSB 5799](/bill/2021-22/sb/5799/) - Modifying the application of the workforce education investment advanced computing surcharge to provider clinics and affiliated organizations. **3👍** **0👎** **0❓**
+* [E2SSB 5755](/bill/2021-22/sb/5755/) - Authorizing certain cities to establish a limited sales and use tax incentive program to encourage redevelopment of underdeveloped lands in urban areas. **13👍** **1👎** **0❓**
+* [ESSB 5459](/bill/2021-22/sb/5459/) - Creating a business and occupation tax deduction for persons conducting payment card processing activity. **10👍** **3👎** **0❓**
+* [ESB 5901](/bill/2021-22/sb/5901/) - Concerning economic development tax incentives for targeted counties. **19👍** **0👎** **0❓**
+* [ESB 5849](/bill/2021-22/sb/5849/) - Concerning tax incentives. **25👍** **1👎** **1❓**
+* [ESSB 5980](/bill/2021-22/sb/5980/) - Providing substantial and permanent tax relief for small businesses to mitigate structural deficiencies in Washington's business and occupation tax and lessen long-term negative economic consequences of the pandemic that have disproportionately impacted small businesses.
+* [ESB 5309](/bill/2021-22/sb/5309/) - Providing a sales and use tax exemption for adult and baby diapers.
 
 See https://app.leg.wa.gov/csi/house for information about viewing and providing public testimony at committee meetings.
 

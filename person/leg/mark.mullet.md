@@ -8,7 +8,7 @@
 * [SB 5402](/bill/2021-22/sb/5402/) - Property tax deferral/COVID | By resolution, reintroduced and retained in present status.
 * [SB 5430](/bill/2021-22/sb/5430/) - Advanced tuition payment prg | Effective date 7/25/2021.
 * [SB 5443](/bill/2021-22/sb/5443/) - Charter school time frame | By resolution, reintroduced and retained in present status.
-* [SB 5459](/bill/2021-22/sb/5459/) - Payment card processing/B&O | Placed on second reading by Rules Committee.
+* [SB 5459](/bill/2021-22/sb/5459/) - Payment card processing/B&O | First reading, referred to Finance.
 * [SB 5468](/bill/2021-22/sb/5468/) - Controlled subst. possession | By resolution, reintroduced and retained in present status.
 * [SB 5474](/bill/2021-22/sb/5474/) - Agency data backup/disasters | By resolution, reintroduced and retained in present status.
 * [SB 5475](/bill/2021-22/sb/5475/) - Controlled subst. possession | By resolution, reintroduced and retained in present status.

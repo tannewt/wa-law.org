@@ -1,6 +1,6 @@
 # Marko Liias
 ## Bills
-* [SB 5078](/bill/2021-22/sb/5078/) - Large capacity magazines | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5078](/bill/2021-22/sb/5078/) - Large capacity magazines | Third reading, passed; yeas, 55; nays, 42; absent, 1; excused, 0.
 * [SB 5093](/bill/2021-22/sb/5093/) - Building decarbonization | By resolution, reintroduced and retained in present status.
 * [SB 5106](/bill/2021-22/sb/5106/) - Municipal financial services | Effective date 7/25/2021.
 * [SB 5150](/bill/2021-22/sb/5150/) - Residential services rate | By resolution, reintroduced and retained in present status.
@@ -24,7 +24,7 @@
 * [SB 5666](/bill/2021-22/sb/5666/) - Targeted electrification | First reading, referred to Environment, Energy & Technology.
 * [SB 5669](/bill/2021-22/sb/5669/) - Energy codes | First reading, referred to Environment, Energy & Technology.
 * [SB 5689](/bill/2021-22/sb/5689/) - Transportation budget, supp. | Conference committee appointed.  Senators Liias, Saldaña, King.
-* [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5745](/bill/2021-22/sb/5745/) - Personal needs allowance | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [SB 5797](/bill/2021-22/sb/5797/) - Opportunity scholarship prog | First reading, referred to Higher Education & Workforce Development.
 * [SB 5830](/bill/2021-22/sb/5830/) - Tenure-track faculty | Referred to Ways & Means.
 * [SB 5844](/bill/2021-22/sb/5844/) - Higher ed. work/bidding | Rules Committee relieved of further consideration.  Placed on second reading.

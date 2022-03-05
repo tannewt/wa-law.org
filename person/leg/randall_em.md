@@ -25,9 +25,9 @@
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Third reading, passed; yeas, 51; nays, 46; absent, 0; excused, 1.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Speaker signed.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Third reading, passed; yeas, 94; nays, 2; absent, 0; excused, 2.
-* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Third reading, passed; yeas, 61; nays, 37; absent, 0; excused, 0.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
 * [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | Third reading, passed; yeas, 77; nays, 19; absent, 0; excused, 2.
-* [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Rules Committee relieved of further consideration.  Placed on second reading.
-* [SB 5901](/bill/2021-22/sb/5901/) - Economic dev. tax incentives | Placed on second reading by Rules Committee.
-* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Third reading, passed; yeas, 93; nays, 4; absent, 0; excused, 1.
+* [ESB 5901](/bill/2021-22/esb/5901/) - Economic dev. tax incentives | First reading, referred to Finance.
+* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Held on second reading.

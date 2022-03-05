@@ -13,7 +13,7 @@
 * [HB 1654](/bill/2021-22/hb/1654/) - Health prof. monitoring | First reading, referred to Health Care & Wellness.
 * [HB 1669](/bill/2021-22/hb/1669/) - PSERS disability benefits | President signed.
 * [HB 1721](/bill/2021-22/hb/1721/) - PERS/TRS 1 benefit increase | Returned to Rules Committee for second reading.
-* [EHB 1752](/bill/2021-22/ehb/1752/) - Deferred compensation/Roth | Third reading, passed; yeas, 46; nays, 0; absent, 0; excused, 3.
+* [EHB 1752](/bill/2021-22/ehb/1752/) - Deferred compensation/Roth | President signed.
 * [HB 1787](/bill/2021-22/hb/1787/) - Law enf. officer funding | First reading, referred to Appropriations.
 * [HB 1858](/bill/2021-22/hb/1858/) - B&O tax rates | First reading, referred to Finance.
 * [HB 1875](/bill/2021-22/hb/1875/) - Budget stabilization account | First reading, referred to Appropriations.

@@ -2,7 +2,7 @@
 ## Bills
 * [SB 5018](/bill/2021-22/sb/5018/) - Acupuncture and Eastern med. | Effective date 7/25/2021.
 * [SB 5070](/bill/2021-22/sb/5070/) - Menstrual products/schools | By resolution, reintroduced and retained in present status.
-* [SB 5309](/bill/2021-22/sb/5309/) - Diapers/sales & use tax | Placed on second reading by Rules Committee.
+* [ESB 5309](/bill/2021-22/esb/5309/) - Diapers/sales & use tax | First reading, referred to Finance.
 * [SB 5311](/bill/2021-22/sb/5311/) - Skilled nursing/medicaid | By resolution, reintroduced and retained in present status.
 * [SB 5404](/bill/2021-22/sb/5404/) - Pinnipeds & orcas | By resolution, reintroduced and retained in present status.
 * [SB 5423](/bill/2021-22/sb/5423/) - Telemedicine consultations | Effective date 7/25/2021.

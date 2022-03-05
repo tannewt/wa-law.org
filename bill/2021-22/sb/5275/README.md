@@ -1,7 +1,7 @@
 # SB 5275 - Intense rural dev. areas
 **Primary Sponsor:** [Shelly Short](/person/leg/shelly.short.md)
 
-*Status: Rules Committee relieved of further consideration.  Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5275&Year=2021)
+*Status: Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5275&Year=2021)
 
 Enhancing opportunity in limited areas of more intense rural development.
 

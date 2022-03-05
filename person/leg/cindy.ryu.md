@@ -7,9 +7,9 @@
 * [EHB 1165](/bill/2021-22/ehb/1165/) - Credit union act | President signed.
 * [HB 1429](/bill/2021-22/hb/1429/) - Competitive telecomm. | By resolution, reintroduced and retained in present status.
 * [HB 1512](/bill/2021-22/hb/1512/) - Lodging-related assessments | Effective date 5/10/2021.
-* [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Placed on second reading by Rules Committee.
+* [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1707](/bill/2021-22/hb/1707/) - Flotation device use | Returned to Rules Committee for second reading.
-* [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | Delivered to Governor.
-* [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | Placed on second reading by Rules Committee.
+* [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | Effective date 6/9/2022.
+* [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1879](/bill/2021-22/hb/1879/) - Convention economy grants | First reading, referred to Appropriations.
 * [HB 1880](/bill/2021-22/hb/1880/) - Housing benefit districts | Referred to Finance.

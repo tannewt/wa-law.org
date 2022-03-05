@@ -9,6 +9,6 @@
 * [HB 1777](/bill/2021-22/hb/1777/) - Self-directed care | First reading, referred to Health Care & Wellness.
 * [HB 1813](/bill/2021-22/hb/1813/) - Pharmacy choice | First reading, referred to Health & Long Term Care.
 * [HB 1821](/bill/2021-22/hb/1821/) - Telemedicine/relationship | Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.
-* [HB 1902](/bill/2021-22/hb/1902/) - Workers' comp reopening | Placed on second reading by Rules Committee.
+* [HB 1902](/bill/2021-22/hb/1902/) - Workers' comp reopening | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | Placed on second reading by Rules Committee.
 * [HB 1959](/bill/2021-22/hb/1959/) - Managed health rate review | Returned to Rules Committee for second reading.

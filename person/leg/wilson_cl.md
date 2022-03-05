@@ -9,7 +9,7 @@
 * [SB 5376](/bill/2021-22/sb/5376/) - Education ombuds awareness | Third reading, passed; yeas, 94; nays, 1; absent, 0; excused, 3.
 * [SB 5413](/bill/2021-22/sb/5413/) - Solitary confinement | By resolution, reintroduced and retained in present status.
 * [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | Speaker signed.
-* [SB 5498](/bill/2021-22/sb/5498/) - Posthumous H.S. diplomas | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5498](/bill/2021-22/sb/5498/) - Posthumous H.S. diplomas | Third reading, passed; yeas, 97; nays, 1; absent, 0; excused, 0.
 * [SB 5535](/bill/2021-22/sb/5535/) - Juvenile rehab./parent costs | Senate Rules "X" file.
 * [SB 5553](/bill/2021-22/sb/5553/) - Early STEM metrics | Referred to Rules 2 Review.
 * [SB 5572](/bill/2021-22/sb/5572/) - Internet crimes/children | Referred to Rules 2 Review.

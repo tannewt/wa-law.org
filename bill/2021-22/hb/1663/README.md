@@ -1,7 +1,7 @@
 # HB 1663 - Landfill methane emissions
 **Primary Sponsor:** [Davina Duerr](/person/leg/duerr_da.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1663&Year=2021)
+*Status: Third reading, passed; yeas, 30; nays, 17; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1663&Year=2021)
 
 Reducing methane emissions from landfills.
 

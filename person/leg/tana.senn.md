@@ -11,4 +11,4 @@
 * [HB 1729](/bill/2021-22/hb/1729/) - Blockchain work group | Referred to Rules 2 Review.
 * [HB 1872](/bill/2021-22/hb/1872/) - Care worker center | Referred to Appropriations.
 * [HB 1900](/bill/2021-22/hb/1900/) - Schools/discrimination, etc. | First reading, referred to Education.
-* [HB 1905](/bill/2021-22/hb/1905/) - Homelessness/youth discharge | Placed on second reading by Rules Committee.
+* [HB 1905](/bill/2021-22/hb/1905/) - Homelessness/youth discharge | Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.

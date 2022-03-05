@@ -14,7 +14,7 @@
 * [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [SB 5651](/bill/2021-22/sb/5651/) - Capital budget, supplemental | First reading, referred to Rules Review.
 * [SB 5736](/bill/2021-22/sb/5736/) - Minors/behavioral health | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
-* [SB 5817](/bill/2021-22/sb/5817/) - Synthetic media in campaigns | Referred to Rules 2 Review.
+* [SB 5817](/bill/2021-22/sb/5817/) - Synthetic media in campaigns | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5843](/bill/2021-22/sb/5843/) - False election statements | Senate Rules "X" file.
 * [SB 5850](/bill/2021-22/sb/5850/) - Ballot titles/impact discl. | First reading, referred to State Government & Elections.
 * [SB 5870](/bill/2021-22/sb/5870/) - Uniform college athlete act | First reading, referred to Law & Justice.

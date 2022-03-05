@@ -10,7 +10,7 @@
 * [SB 5432](/bill/2021-22/sb/5432/) - Cybersecurity/state gov. | Effective date 7/25/2021.
 * [SB 5543](/bill/2021-22/sb/5543/) - Landscaping equipment | Referred to Ways & Means.
 * [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Rules Committee relieved of further consideration.  Placed on second reading.
-* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | Placed on second reading by Rules Committee.
+* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | First reading, referred to Finance.
 * [SB 5813](/bill/2021-22/sb/5813/) - Data privacy | First reading, referred to Environment, Energy & Technology.
 * [SB 5820](/bill/2021-22/sb/5820/) - Superintendent, appointing | First reading, referred to Early Learning & K-12 Education.
 * [SB 5833](/bill/2021-22/sb/5833/) - School director compensation | First reading, referred to Early Learning & K-12 Education.
@@ -20,5 +20,5 @@
 * [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SB 5967](/bill/2021-22/sb/5967/) - Financial instit./climate | First reading, referred to Ways & Means.
 * [SB 5977](/bill/2021-22/sb/5977/) - Legislative chamber skylight | First reading, referred to Ways & Means.
-* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | Placed on second reading by Rules Committee.
+* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | First reading, referred to Finance.
 * [SJR 8212](/bill/2021-22/sjr/8212/) - Superintendent | First reading, referred to Early Learning & K-12 Education.

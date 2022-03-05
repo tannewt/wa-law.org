@@ -8,6 +8,3 @@ Concerning state contributions in support of the Tacoma Narrows toll bridge.
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-
-## Upcoming Meetings
-* Sat, Mar 5 at 12:00 pm - [House Transportation](/house/2021-22/TR/) Executive Session

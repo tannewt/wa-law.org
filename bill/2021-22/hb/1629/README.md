@@ -1,7 +1,7 @@
 # HB 1629 - Aerial imaging technology
 **Primary Sponsor:** [Laurie Dolan](/person/leg/laurie.dolan.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1629&Year=2021)
+*Status: Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1629&Year=2021)
 
 Concerning a comprehensive study of aerial imaging technology uses for state agencies, special purpose districts, and local and tribal governments.
 

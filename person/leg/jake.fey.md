@@ -9,7 +9,7 @@
 * [HB 1564](/bill/2021-22/hb/1564/) - Transportation spending | By resolution, reintroduced and retained in present status.
 * [HB 1785](/bill/2021-22/hb/1785/) - WSP minimum salary | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1786](/bill/2021-22/hb/1786/) - Transportation budget, supp. | Referred to Rules 2 Review.
-* [EHB 1931](/bill/2021-22/ehb/1931/) - Hydropower license fees | Placed on second reading by Rules Committee.
+* [EHB 1931](/bill/2021-22/ehb/1931/) - Hydropower license fees | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1932](/bill/2021-22/hb/1932/) - Recyclability | First reading, referred to Environment & Energy.
 * [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1969](/bill/2021-22/hb/1969/) - Traffic cameras/speed | First reading, referred to Transportation.

@@ -1,7 +1,7 @@
 # Kelly Chambers
 ## Bills
 * [HB 1224](/bill/2021-22/hb/1224/) - Spring blade knives | Referred to Rules 2 Review.
-* [HB 1286](/bill/2021-22/hb/1286/) - Psychology compact | Delivered to Governor.
+* [HB 1286](/bill/2021-22/hb/1286/) - Psychology compact | Chapter 5, 2022 Laws.
 * [HB 1289](/bill/2021-22/hb/1289/) - Winery workforce development | Effective date 7/25/2021.
 * [HB 1483](/bill/2021-22/hb/1483/) - Beverage alcohol/workforce | Referred to Rules 2 Review.
 * [HB 1530](/bill/2021-22/hb/1530/) - Wine special license plates | First reading, referred to Transportation.

@@ -16,7 +16,7 @@
 * [SB 5722](/bill/2021-22/sb/5722/) - Greenhouse gases/buildings | Third reading, passed; yeas, 53; nays, 45; absent, 0; excused, 0.
 * [SB 5729](/bill/2021-22/sb/5729/) - Hearing deadlines/good cause | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
 * [SB 5744](/bill/2021-22/sb/5744/) - Clean tech. tax deferrals | Referred to Ways & Means.
-* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Third reading, passed; yeas, 96; nays, 2; absent, 0; excused, 0.
 * [SB 5828](/bill/2021-22/sb/5828/) - Autonomous vehicles | Senate Rules "X" file.
 * [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | President signed.
 * [SB 5963](/bill/2021-22/sb/5963/) - Working families' tax exempt | First reading, referred to Ways & Means.

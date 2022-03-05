@@ -6,13 +6,16 @@
 * [Bob Hasegawa](/person/leg/bob.hasegawa.md)
 * [Brad Hawkins](/person/leg/brad.hawkins.md)
 ## Upcoming Meetings
-### Wed, Feb 23 at 8:00 am
+### Tue, Mar 8 at 9:00 am
 Public Hearing
-* [SGA 9325](/bill/2021-22/ga/9325/) - Dawn E Rains, Member, Washington State Women’s Commission.
+* [SGA 9408](/bill/2021-22/ga/9408/) - Jocelyn P McCurtain Cooney, Member, Public Disclosure Commission.
 
 Executive Session
-* Bills to be determined.
+* [SGA 9408](/bill/2021-22/ga/9408/) - Jocelyn P McCurtain Cooney, Member, Public Disclosure Commission.
 
-Possible other business.
+Work Session
+* Interim planning discussion.
+
+Possible other business. Meeting is scheduled to end at 10:00 a.m. 
 
 See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules

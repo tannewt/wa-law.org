@@ -8,7 +8,7 @@
 * [SB 5090](/bill/2021-22/sb/5090/) - Worker protections | By resolution, reintroduced and retained in present status.
 * [SB 5115](/bill/2021-22/sb/5115/) - Health emergency/labor | Effective date 5/11/2021.
 * [SB 5218](/bill/2021-22/sb/5218/) - Temporary workers | By resolution, reintroduced and retained in present status.
-* [SB 5268](/bill/2021-22/sb/5268/) - Dev. disability services | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5268](/bill/2021-22/sb/5268/) - Dev. disability services | Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.
 * [SB 5370](/bill/2021-22/sb/5370/) - Mental health av. directives | Effective date 7/25/2021*.
 * [SB 5385](/bill/2021-22/sb/5385/) - Municipal airports/labor | Effective date 7/25/2021.
 * [SB 5478](/bill/2021-22/sb/5478/) - Unemployment insurance | Effective date 5/12/2021.
