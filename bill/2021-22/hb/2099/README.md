@@ -8,3 +8,6 @@ Improving tax administration by waiving penalties and imposing interest in certa
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## Upcoming Meetings
+* Wed, Mar 9 at 12:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

@@ -13,4 +13,4 @@
 * [HB 1769](/bill/2021-22/hb/1769/) - Community municipal corps | President signed.
 * [HB 1770](/bill/2021-22/hb/1770/) - Energy codes | Placed on second reading by Rules Committee.
 * [HB 1978](/bill/2021-22/hb/1978/) - Shoreline master programs | Passed to Rules Committee for second reading.
-* [EHB 1990](/bill/2021-22/ehb/1990/) - SR 167 & I-405 tax deferral | Third reading, passed; yeas, 96; nays, 2; absent, 0; excused, 0.
+* [EHB 1990](/bill/2021-22/ehb/1990/) - SR 167 & I-405 tax deferral | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).

@@ -1,7 +1,7 @@
 # HB 1988 - Clean tech. tax deferrals
 **Primary Sponsor:** [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 
-*Status: Third reading, passed; yeas, 56; nays, 40; absent, 0; excused, 2.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1988&Year=2021)
+*Status: First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1988&Year=2021)
 
 Concerning tax deferrals for investment projects in clean technology manufacturing, clean alternative fuels production, and renewable energy storage.
 
@@ -9,3 +9,6 @@ Concerning tax deferrals for investment projects in clean technology manufacturi
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Wed, Mar 9 at 12:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

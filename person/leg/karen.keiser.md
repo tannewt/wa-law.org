@@ -17,9 +17,9 @@
 * [SB 5520](/bill/2021-22/sb/5520/) - Harassment & discrim. NDAs | Senate Rules "X" file.
 * [SB 5532](/bill/2021-22/sb/5532/) - Rx drug affordability board | Third reading, passed; yeas, 57; nays, 39; absent, 0; excused, 2.
 * [SB 5533](/bill/2021-22/sb/5533/) - Online marketplaces | First reading, referred to Environment, Energy & Technology.
-* [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | Delivered to Governor.
+* [SB 5546](/bill/2021-22/sb/5546/) - Insulin affordability | Effective date 6/9/2022*.
 * [SB 5547](/bill/2021-22/sb/5547/) - Marijuana products | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | Delivered to Governor.
+* [SB 5564](/bill/2021-22/sb/5564/) - Employee assistance programs | Effective date 6/9/2022.
 * [SB 5600](/bill/2021-22/sb/5600/) - Apprenticeship programs | Third reading, passed; yeas, 94; nays, 4; absent, 0; excused, 0.
 * [SB 5604](/bill/2021-22/sb/5604/) - Contractor licensing refs | Senate Rules "X" file.
 * [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.

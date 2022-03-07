@@ -7,6 +7,3 @@ Concerning untested and unregulated cannabinoid products.
 
 ## Revisions
 * [Original Bill](1/)
-
-## Upcoming Meetings
-* Mon, Mar 7 at 5:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

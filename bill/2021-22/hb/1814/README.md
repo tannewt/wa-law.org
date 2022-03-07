@@ -9,3 +9,6 @@ Expanding equitable access to the benefits of renewable energy through community
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+
+## Upcoming Meetings
+* Wed, Mar 9 at 12:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

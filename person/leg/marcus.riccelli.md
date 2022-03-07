@@ -11,7 +11,7 @@
 * [HB 1806](/bill/2021-22/hb/1806/) - Legislature/bargaining | Referred to Rules 2 Review.
 * [HB 1868](/bill/2021-22/hb/1868/) - Health care staffing | On motion, referred to Ways & Means.
 * [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | Chapter 7, 2022 Laws.
-* [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | Third reading, passed; yeas, 93; nays, 3; absent, 0; excused, 2.
+* [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
 * [HB 1915](/bill/2021-22/hb/1915/) - Traffic cameras/speed zones | First reading, referred to Transportation.
 * [HB 1927](/bill/2021-22/hb/1927/) - Legislative service leave | Third reading, passed; yeas, 44; nays, 4; absent, 0; excused, 1.
 * [HB 2124](/bill/2021-22/hb/2124/) - Leg. collective bargaining | First reading, referred to Ways & Means.

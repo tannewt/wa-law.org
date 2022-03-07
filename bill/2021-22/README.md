@@ -658,10 +658,15 @@ Heard bills:
 
 ### Ways & Means
 Active bills:
-* [SB 5543](sb/5543/) - Landscaping equipment | *Executive Session Mon, Mar 7 5:00 pm* **76👍** **1👎** **0❓**
-* [HB 2124](hb/2124/) - Leg. collective bargaining | *Executive Session Mon, Mar 7 5:00 pm* **101👍** **2👎** **2❓**
-* [SB 5967](sb/5967/) - Financial instit./climate | *Executive Session Mon, Mar 7 5:00 pm* **806👍** **165👎** **5❓**
-* [SB 5983](sb/5983/) - Cannabinoid products | *Executive Session Mon, Mar 7 5:00 pm* **40👍** **68👎** **1❓**
+* [HB 1641](hb/1641/) - Custom farming, etc./tax | *Executive Session Wed, Mar 9 12:00 pm*
+* [HB 1814](hb/1814/) - Community solar projects | *Executive Session Wed, Mar 9 12:00 pm* **173👍** **8👎** **0❓**
+* [HB 1846](hb/1846/) - Data centers tax preference | *Executive Session Wed, Mar 9 12:00 pm* **284👍** **19👎** **2❓**
+* [HB 1914](hb/1914/) - Motion picture program | *Executive Session Wed, Mar 9 12:00 pm* **937👍** **9👎** **3❓**
+* [HB 1918](hb/1918/) - Power equipment emissions | *Executive Session Wed, Mar 9 12:00 pm* **5👍** **42👎** **6❓**
+* [HB 1988](hb/1988/) - Clean tech. tax deferrals | *Executive Session Wed, Mar 9 12:00 pm* **20👍** **121👎** **1❓**
+* [EHB 1990](ehb/1990/) - SR 167 & I-405 tax deferral | *Executive Session Wed, Mar 9 12:00 pm* **50👍** **0👎** **1❓**
+* [HB 2018](hb/2018/) - Sales and use tax holiday | *Executive Session Wed, Mar 9 12:00 pm* **8👍** **31👎** **1❓**
+* [HB 2099](hb/2099/) - Tax penalties | *Executive Session Wed, Mar 9 12:00 pm* **1👍** **0👎** **1❓**
 
 Heard bills:
 * [HB 1117](hb/1117/) - Comp. planning/salmon | **291👍** **908👎** **6❓**
@@ -671,14 +676,14 @@ Heard bills:
 * [SB 5216](sb/5216/) - Tax preferences | **11👍** **4👎** **0❓**
 * [SB 5426](sb/5426/) - Wealth tax | **2699👍** **293👎** **17❓**
 * [SB 5463](sb/5463/) - Residential prop valuation | **145👍** **49👎** **2❓**
+* [SB 5543](sb/5543/) - Landscaping equipment | **76👍** **1👎** **0❓**
 * [SB 5562](sb/5562/) - ESD employee health care | **13👍** **10👎** **1❓**
 * [SB 5567](sb/5567/) - Commercial salmon fishing | **277👍** **44👎** **4❓**
 * [SJR 8206](sjr/8206/) - Homestead property tax exem. | **124👍** **4👎** **2❓**
 * [HB 1760](hb/1760/) - Dual credit program access | **61👍** **0👎** **6❓**
-* [HB 1814](hb/1814/) - Community solar projects | **173👍** **8👎** **0❓**
 * [HB 1841](hb/1841/) - ADU rental/property tax | **37👍** **44👎** **0❓**
 * [HB 1868](hb/1868/) - Health care staffing | **8064👍** **1504👎** **97❓**
-* [HB 2099](hb/2099/) - Tax penalties | **1👍** **0👎** **1❓**
+* [HB 2124](hb/2124/) - Leg. collective bargaining | **101👍** **2👎** **2❓**
 * [SB 5636](sb/5636/) - Automatic voter registration | **372👍** **933👎** **8❓**
 * [SB 5642](sb/5642/) - Affordable housing/REET | **25👍** **0👎** **0❓**
 * [SB 5655](sb/5655/) - Invol. treatment refusals | **4👍** **0👎** **2❓**
@@ -691,6 +696,8 @@ Heard bills:
 * [SB 5911](sb/5911/) - Health care hazard pay bonus | **47👍** **0👎** **2❓**
 * [SB 5913](sb/5913/) - Property tax/senior, veteran | **123👍** **1👎** **1❓**
 * [SB 5936](sb/5936/) - Agricultural disaster assist | **45👍** **0👎** **0❓**
+* [SB 5967](sb/5967/) - Financial instit./climate | **806👍** **165👎** **5❓**
+* [SB 5983](sb/5983/) - Cannabinoid products | **40👍** **68👎** **1❓**
 
 
 <details>
@@ -1008,9 +1015,6 @@ Heard bills:
 
 ### Passed Third Reading
 Passed third reading. Ready for other house.
-Active bills:
-* [EHB 1990](ehb/1990/) - SR 167 & I-405 tax deferral | *Public Hearing Mon, Mar 7 5:00 pm* **36👍** **0👎** **0❓**
-
 Heard bills:
 * [SB 5002](sb/5002/) - State auditor | **3👍** **1👎** **0❓**
 * [ESB 5017](esb/5017/) - School district procurement | **17👍** **15👎** **0❓**
@@ -1041,11 +1045,6 @@ Heard bills:
 * [SB 5615](sb/5615/) - State sport | **10👍** **0👎** **0❓**
 * [SB 5616](sb/5616/) - Accounts | **1👍** **0👎** **0❓**
 * [SB 5619](sb/5619/) - Kelp & eelgrass conservation | **235👍** **91👎** **3❓**
-* [HB 1846](hb/1846/) - Data centers tax preference | **284👍** **19👎** **2❓**
-* [HB 1914](hb/1914/) - Motion picture program | **937👍** **9👎** **3❓**
-* [HB 1918](hb/1918/) - Power equipment emissions | **5👍** **42👎** **6❓**
-* [HB 1988](hb/1988/) - Clean tech. tax deferrals | **20👍** **121👎** **1❓**
-* [HB 2018](hb/2018/) - Sales and use tax holiday | **8👍** **31👎** **1❓**
 * [SB 5624](sb/5624/) - Livestock identification | **3👍** **0👎** **0❓**
 * [SB 5644](sb/5644/) - Behavioral health coresponse | **20👍** **1👎** **0❓**
 * [SB 5649](sb/5649/) - Family and medical leave | **110👍** **2👎** **1❓**
@@ -1093,7 +1092,6 @@ Heard bills:
 <details>
     <summary>Click to view inactive bills</summary>
 
-* [HB 1641](hb/1641/) - Custom farming, etc./tax
 * [SB 5078](sb/5078/) - Large capacity magazines
 * [SB 5498](sb/5498/) - Posthumous H.S. diplomas
 * [SB 5555](sb/5555/) - Safety telecommunicators
@@ -1485,25 +1483,23 @@ Heard bills:
 </details>
 
 ### Finance
-Active bills:
-* [ESB 5309](esb/5309/) - Diapers/sales & use tax | *Public Hearing Mon, Mar 7 8:00 am*
-* [SB 5459](sb/5459/) - Payment card processing/B&O | *Public Hearing Mon, Mar 7 8:00 am* **10👍** **3👎** **0❓**
-* [SB 5755](sb/5755/) - Underdev. land redevelopment | *Public Hearing Mon, Mar 7 8:00 am* **13👍** **1👎** **0❓**
-* [SB 5799](sb/5799/) - Workforce surcharge/clinics | *Public Hearing Mon, Mar 7 8:00 am* **3👍** **0👎** **0❓**
-* [ESB 5849](esb/5849/) - Tax incentives | *Public Hearing Mon, Mar 7 8:00 am* **25👍** **1👎** **1❓**
-* [ESB 5901](esb/5901/) - Economic dev. tax incentives | *Public Hearing Mon, Mar 7 8:00 am* **19👍** **0👎** **0❓**
-* [SB 5980](sb/5980/) - B&O tax credits | *Public Hearing Mon, Mar 7 8:00 am*
-
 Heard bills:
 * [HB 1459](hb/1459/) - Data center tax incentive | **12👍** **7👎** **0❓**
 * [HB 1473](hb/1473/) - Data centers/tax preference | **5👍** **11👎** **0❓**
+* [ESB 5309](esb/5309/) - Diapers/sales & use tax | **20👍** **0👎** **0❓**
+* [SB 5459](sb/5459/) - Payment card processing/B&O | **21👍** **4👎** **1❓**
 * [HB 1734](hb/1734/) - Low-proof beverages/tax | **910👍** **374👎** **2❓**
 * [HB 1880](hb/1880/) - Housing benefit districts | **66👍** **86👎** **0❓**
 * [HB 1933](hb/1933/) - Cannabis local gov. tax | **8👍** **4👎** **0❓**
 * [HB 1966](hb/1966/) - Local infra. investment prg | **12👍** **1👎** **0❓**
 * [HB 2091](hb/2091/) - Drug warehousing/B&O tax | **7👍** **34👎** **0❓**
 * [SB 5714](sb/5714/) - Solar canopies tax deferral | **130👍** **6👎** **0❓**
+* [SB 5755](sb/5755/) - Underdev. land redevelopment | **21👍** **2👎** **1❓**
+* [SB 5799](sb/5799/) - Workforce surcharge/clinics | **9👍** **0👎** **0❓**
 * [ESB 5832](esb/5832/) - Multifamily unit conversion | **39👍** **46👎** **1❓**
+* [ESB 5849](esb/5849/) - Tax incentives | **36👍** **1👎** **1❓**
+* [ESB 5901](esb/5901/) - Economic dev. tax incentives | **27👍** **0👎** **0❓**
+* [SB 5980](sb/5980/) - B&O tax credits | **15👍** **0👎** **0❓**
 
 
 <details>
@@ -1913,7 +1909,6 @@ Heard bills:
 * [HB 1548](hb/1548/) - Hybrid vehicle electric. fee
 * [HB 1564](hb/1564/) - Transportation spending
 * [HB 1632](hb/1632/) - Tribal license plates
-* [SB 5488](sb/5488/) - Tacoma Narrows toll bridge
 * [HB 1870](hb/1870/) - Wheeled all-terrain vehicles
 * [HB 2062](hb/2062/) - RTA additive revenue
 * [HB 2070](hb/2070/) - Autonomous vehicles
@@ -2425,6 +2420,7 @@ Passed through legislature and governor. Waiting to be incorporated into session
 * [C 199 L 21 SB 5237](sb/5237/) - Child care & early dev. exp.
 * [C 144 L 21 SB 5249](sb/5249/) - Mastery-based learning
 * [C 145 L 21 SB 5251](sb/5251/) - Tax and revenue laws
+* [C 9 L 22 SB 5252](sb/5252/) - School consultation/tribes
 * [C 278 L 21 SB 5253](sb/5253/) - Pollinator health
 * [C 146 L 21 SB 5254](sb/5254/) - Protective devices/health
 * [C 186 L 21 SB 5258](sb/5258/) - Consumer directed employers
@@ -2485,6 +2481,8 @@ Passed through legislature and governor. Waiting to be incorporated into session
 * [C 193 L 21 SB 5460](sb/5460/) - Autonomous vehicles
 * [C 311 L 21 ESB 5476](esb/5476/) - State v. Blake decision
 * [C 292 L 21 SB 5478](sb/5478/) - Unemployment insurance
+* [C 10 L 22 SB 5546](sb/5546/) - Insulin affordability
+* [C 11 L 22 SB 5564](sb/5564/) - Employee assistance programs
 * [C 1 L 22 HB 1732](hb/1732/) - Long-term care/delay
 * [C 2 L 22 HB 1733](hb/1733/) - Long-term care/exemptions
 * [C 4 L 22 HB 1735](hb/1735/) - Peace officers/use of force
@@ -2494,24 +2492,28 @@ Passed through legislature and governor. Waiting to be incorporated into session
 </details>
 
 ## Unknown Status
-### Del to Gov
-Heard bills:
-* [SB 5252](sb/5252/) - School consultation/tribes | **31👍** **0👎** **2❓**
-* [SB 5564](sb/5564/) - Employee assistance programs | **24👍** **0👎** **0❓**
-
-
-<details>
-    <summary>Click to view inactive bills</summary>
-
-* [SB 5546](sb/5546/) - Insulin affordability
-</details>
-
 ### H 3rd Reading
 
 <details>
     <summary>Click to view inactive bills</summary>
 
 * [HB 1157](hb/1157/) - Housing supply
+</details>
+
+### H Exec Action
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [SB 5488](sb/5488/) - Tacoma Narrows toll bridge
+</details>
+
+### H Rules
+
+<details>
+    <summary>Click to view inactive bills</summary>
+
+* [HJM 4003](hjm/4003/) - Requesting Congress support the immediate restriction of all future purchases of petroleum and other hydrocarbons from Russia.
 </details>
 
 ### H Spkr Signed

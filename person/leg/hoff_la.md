@@ -9,6 +9,6 @@
 * [HB 1217](/bill/2021-22/hb/1217/) - Overtime claim retroactivity | By resolution, reintroduced and retained in present status.
 * [HB 1343](/bill/2021-22/hb/1343/) - Unemployment ins./employers | By resolution, reintroduced and retained in present status.
 * [HB 1609](/bill/2021-22/hb/1609/) - Health emergencies/federal | First reading, referred to Labor & Workplace Standards.
-* [HB 1641](/bill/2021-22/hb/1641/) - Custom farming, etc./tax | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
+* [HB 1641](/bill/2021-22/hb/1641/) - Custom farming, etc./tax | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
 * [HB 1750](/bill/2021-22/hb/1750/) - Agricultural overtime | First reading, referred to Labor & Workplace Standards.
 * [HB 1794](/bill/2021-22/hb/1794/) - Dishonored paycheck fees | President signed.

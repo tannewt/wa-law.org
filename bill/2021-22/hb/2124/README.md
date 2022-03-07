@@ -9,6 +9,3 @@ Concerning extending collective bargaining to legislative employees.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
-
-## Upcoming Meetings
-* Mon, Mar 7 at 5:00 pm - [Senate Ways & Means](/senate/2021-22/WM/) Executive Session

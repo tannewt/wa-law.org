@@ -13,7 +13,7 @@
 * [HB 1932](/bill/2021-22/hb/1932/) - Recyclability | First reading, referred to Environment & Energy.
 * [HB 1934](/bill/2021-22/hb/1934/) - Tribal exchange agreements | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1969](/bill/2021-22/hb/1969/) - Traffic cameras/speed | First reading, referred to Transportation.
-* [HB 2024](/bill/2021-22/hb/2024/) - SR 520 sales tax deferral | First reading, referred to Transportation.
+* [HB 2024](/bill/2021-22/hb/2024/) - SR 520 sales tax deferral | TRAN - Majority; do pass.
 * [HB 2063](/bill/2021-22/hb/2063/) - Incorporation/population | First reading, referred to Local Government.
 * [HB 2108](/bill/2021-22/hb/2108/) - Historic auto museums/tax | First reading, referred to Finance.
 * [HB 2118](/bill/2021-22/hb/2118/) - Additive transp. funding | Referred to Rules 2 Review.

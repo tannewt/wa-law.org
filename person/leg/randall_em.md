@@ -13,7 +13,7 @@
 * [SB 5397](/bill/2021-22/sb/5397/) - Access to behavioral health | By resolution, reintroduced and retained in present status.
 * [SB 5399](/bill/2021-22/sb/5399/) - Universal health care comm'n | Effective date 7/25/2021.
 * [SB 5431](/bill/2021-22/sb/5431/) - Leg. internship scholarship | Effective date 7/25/2021.
-* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows toll bridge | First reading, referred to Transportation.
+* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows toll bridge | TR - Executive action taken by committee.
 * [SB 5551](/bill/2021-22/sb/5551/) - HIV antiviral drugs/medicaid | First reading, referred to Health & Long Term Care.
 * [SB 5614](/bill/2021-22/sb/5614/) - National guard ed. grants | Senate Rules "X" file.
 * [SB 5622](/bill/2021-22/sb/5622/) - Motorcycles on laned roads | First reading, referred to Transportation.

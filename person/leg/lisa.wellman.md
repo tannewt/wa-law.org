@@ -4,7 +4,7 @@
 * [SB 5128](/bill/2021-22/sb/5128/) - Student transportation funds | Effective date 5/10/2021.
 * [SB 5161](/bill/2021-22/sb/5161/) - Teaching tribal history, etc | By resolution, reintroduced and retained in present status.
 * [SB 5249](/bill/2021-22/sb/5249/) - Mastery-based learning | Effective date 7/25/2021*.
-* [SB 5252](/bill/2021-22/sb/5252/) - School consultation/tribes | Delivered to Governor.
+* [SB 5252](/bill/2021-22/sb/5252/) - School consultation/tribes | Effective date 6/9/2022.
 * [SB 5255](/bill/2021-22/sb/5255/) - Dissolution/doc. language | By resolution, reintroduced and retained in present status.
 * [SB 5299](/bill/2021-22/sb/5299/) - Computer science/HS grad. | Effective date 7/25/2021.
 * [SB 5383](/bill/2021-22/sb/5383/) - Public telecomm. services | Effective date 7/25/2021.

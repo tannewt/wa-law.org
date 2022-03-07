@@ -1,6 +1,6 @@
-# House Bill 1899 - as passed by the Legislature
+# House Bill 1899 - Session Law Chapter 008 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1899.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1899.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [43.320](/rcw/43_state_government—executive/43.320_department_of_financial_institutions.md). Here is the [modified chapter](rcw/43_state_government—executive/43.320_department_of_financial_institutions.md) for context.
 

@@ -1,6 +1,6 @@
-# House Bill 1719 - as passed by the Legislature
+# House Bill 1719 - Session Law Chapter 003 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1719.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1719.SL.pdf)
 ## Section 1
 > This section modifies existing section [10.116.040](/rcw/10_criminal_procedure/10.116_peace_officers—tactics_and_equipment.md). Here is the [modified chapter](rcw/10_criminal_procedure/10.116_peace_officers—tactics_and_equipment.md) for context.
 

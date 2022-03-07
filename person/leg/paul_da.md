@@ -9,4 +9,4 @@
 * [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | Passed to Rules Committee for second reading.
 * [HB 1805](/bill/2021-22/hb/1805/) - Opportunity scholarship prog | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
-* [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | Third reading, passed; yeas, 91; nays, 7; absent, 0; excused, 0.
+* [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).

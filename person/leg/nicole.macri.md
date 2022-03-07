@@ -7,5 +7,5 @@
 * [HB 1724](/bill/2021-22/hb/1724/) - Supportive housing resources | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
 * [HB 1862](/bill/2021-22/hb/1862/) - Health care facility fees | First reading, referred to Appropriations.
 * [HB 1863](/bill/2021-22/hb/1863/) - Prescribing psychologists | First reading, referred to Health Care & Wellness.
-* [HB 1918](/bill/2021-22/hb/1918/) - Power equipment emissions | Third reading, passed; yeas, 81; nays, 15; absent, 0; excused, 2.
+* [HB 1918](/bill/2021-22/hb/1918/) - Power equipment emissions | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
 * [HB 2083](/bill/2021-22/hb/2083/) - Long-term care consent | First reading, referred to Civil Rights & Judiciary.
