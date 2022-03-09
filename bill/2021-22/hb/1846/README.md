@@ -1,7 +1,7 @@
 # HB 1846 - Data centers tax preference
 **Primary Sponsor:** [April Berg](/person/leg/april.berg.md)
 
-*Status: First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1846&Year=2021)
+*Status: First reading, referred to Ways & Means.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1846&Year=2021)
 
 Providing a tax preference for rural and nonrural data centers.
 

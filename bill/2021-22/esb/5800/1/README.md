@@ -1,6 +1,6 @@
-# Engrossed Senate Bill 5800
+# Engrossed Senate Bill 5800 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5800.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5800.PL.pdf)
 ## Section 1
 > This section modifies existing section [14.08.122](/rcw/14_aeronautics/14.08_municipal_airports—1945_act.md). Here is the [modified chapter](rcw/14_aeronautics/14.08_municipal_airports—1945_act.md) for context.
 

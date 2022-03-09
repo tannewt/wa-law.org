@@ -1,6 +1,6 @@
-# House Bill 1738
+# House Bill 1738 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1738.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1738.PL.pdf)
 ## Section 1
 > This section modifies existing section [43.180.160](/rcw/43_state_government—executive/43.180_housing_finance_commission.md). Here is the [modified chapter](rcw/43_state_government—executive/43.180_housing_finance_commission.md) for context.
 

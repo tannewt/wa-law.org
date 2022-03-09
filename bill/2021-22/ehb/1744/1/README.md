@@ -1,6 +1,6 @@
-# Engrossed House Bill 1744
+# Engrossed House Bill 1744 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1744.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1744.PL.pdf)
 ## Section 1
 1. The legislature finds that Washington benefits from its outstanding university research and health care delivery for cancer patients. The legislature finds that Washington state's citizens and its economy are benefited from the ability to attract and retain private, not-for-profit cancer research and health care delivery institutions. The legislature finds it is in the interest of the citizens of the state of Washington to promote collaboration between public universities and private not-for-profit entities in health care that will provide the highest level of cancer care for patients and advance the prevention, treatment, and cure of cancer through advanced research. The legislature intends to foster the development of cooperative and collaborative arrangements between institutions of higher education and private nonprofit comprehensive cancer centers, for the effective and efficient delivery of cancer-related clinical care and as a platform to further advance cancer-related education and research.
 

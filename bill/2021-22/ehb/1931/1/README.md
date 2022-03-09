@@ -1,6 +1,6 @@
-# Engrossed House Bill 1931
+# Engrossed House Bill 1931 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1931.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1931.PL.pdf)
 ## Section 1
 > This section modifies existing section [90.16.050](/rcw/90_water_rights—environment/90.16_appropriation_of_water_for_public_and_industrial_purposes.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.16_appropriation_of_water_for_public_and_industrial_purposes.md) for context.
 

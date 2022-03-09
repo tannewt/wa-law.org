@@ -12,9 +12,9 @@
 * [SB 5479](/bill/2021-22/sb/5479/) - Beverage alcohol/workforce | By resolution, reintroduced and retained in present status.
 * [SB 5510](/bill/2021-22/sb/5510/) - Transp. benefit district tax | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5549](/bill/2021-22/sb/5549/) - Bingo gambling activities | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5558](/bill/2021-22/sb/5558/) - Interstate toll bridges | Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.
+* [SB 5558](/bill/2021-22/sb/5558/) - Interstate toll bridges | Speaker signed.
 * [SB 5578](/bill/2021-22/sb/5578/) - Public infra./tax valuation | First reading, referred to Ways & Means.
 * [SB 5808](/bill/2021-22/sb/5808/) - Interpreters/medical appts' | First reading, referred to Health & Long Term Care.
 * [SB 5914](/bill/2021-22/sb/5914/) - Electrician schools | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5940](/bill/2021-22/sb/5940/) - Liquor license endorsement | President signed.
+* [SB 5940](/bill/2021-22/sb/5940/) - Liquor license endorsement | Delivered to Governor.
 * [SB 5944](/bill/2021-22/sb/5944/) - Org. retail theft task force | First reading, referred to Law & Justice.

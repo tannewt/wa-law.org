@@ -2,7 +2,7 @@
 ## Bills
 * [HB 1084](/bill/2021-22/hb/1084/) - Building decarbonization | By resolution, reintroduced and retained in present status.
 * [HB 1207](/bill/2021-22/hb/1207/) - DOL issued documents | Effective date 7/25/2021*.
-* [HB 1280](/bill/2021-22/hb/1280/) - Greenhouse gas/facilities | President signed.
+* [HB 1280](/bill/2021-22/hb/1280/) - Greenhouse gas/facilities | Delivered to Governor.
 * [HB 1287](/bill/2021-22/hb/1287/) - Zero emissions transp. | Effective date 7/25/2021.
 * [HB 1537](/bill/2021-22/hb/1537/) - Fossil fuel tax preferences | By resolution, reintroduced and retained in present status.
 * [HB 1569](/bill/2021-22/hb/1569/) - Green electrolytic hydrogen | By resolution, reintroduced and retained in present status.

@@ -1,6 +1,6 @@
-# House Bill 1612
+# House Bill 1612 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1612.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1612.PL.pdf)
 ## Section 1
 > This section modifies existing section [50.29.025](/rcw/50_unemployment_compensation/50.29_employer_experience_rating.md). Here is the [modified chapter](rcw/50_unemployment_compensation/50.29_employer_experience_rating.md) for context.
 

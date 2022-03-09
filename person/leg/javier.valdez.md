@@ -5,8 +5,8 @@
 * [HB 1164](/bill/2021-22/hb/1164/) - Firearm safety | By resolution, reintroduced and retained in present status.
 * [HB 1335](/bill/2021-22/hb/1335/) - Racial restrictions/review | Effective date 7/25/2021.
 * [HB 1475](/bill/2021-22/hb/1475/) - Foreign nationals/campaigns | By resolution, reintroduced and retained in present status.
-* [HB 1716](/bill/2021-22/hb/1716/) - Ballot casting locations | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [HB 1716](/bill/2021-22/hb/1716/) - Ballot casting locations | Delivered to Governor.
 * [HB 1919](/bill/2021-22/hb/1919/) - Public disclosure | Returned to Rules Committee for second reading.
-* [HB 1953](/bill/2021-22/hb/1953/) - Sensitive voter information | Third reading, passed; yeas, 38; nays, 10; absent, 0; excused, 1.
+* [HB 1953](/bill/2021-22/hb/1953/) - Sensitive voter information | Delivered to Governor.
 * [HB 1997](/bill/2021-22/hb/1997/) - Productivity board | Referred to Appropriations.
-* [HB 2057](/bill/2021-22/hb/2057/) - State patrol workforce | Third reading, passed; yeas, 36; nays, 12; absent, 0; excused, 1.
+* [HB 2057](/bill/2021-22/hb/2057/) - State patrol workforce | Speaker signed.

@@ -1,0 +1,68 @@
+# Substitute House Bill 2001 as Recommended by Local Government - as passed by the Legislature
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2001-S.PL.pdf)
+## Section 1
+In 2019 the legislature enacted a statutory framework encouraging the construction of tiny houses and tiny house communities. These homes provide a unique opportunity in the affordable housing market. It is the objective of the legislature to facilitate more development of housing that people with lower incomes can own and remove barriers that would prevent the development of tiny houses and tiny house communities.
+
+
+## Section 2
+> This section modifies existing section [36.70A.540](/rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md). Here is the [modified chapter](rcw/36_counties/36.070A_growth_management—planning_by_selected_counties_and_cities.md) for context.
+
+1. [Empty]
+
+    a. Any city or county planning under RCW 36.70A.040 may enact or expand affordable housing incentive programs providing for the development of low‑income housing units through development regulations or conditions on rezoning or permit decisions, or both, on one or more of the following types of development: Residential; commercial; industrial; or mixed-use. An affordable housing incentive program may include, but is not limited to, one or more of the following:
+
+        i. Density bonuses within the urban growth area;
+
+        ii. Height and bulk bonuses;
+
+        iii. Fee waivers or exemptions;
+
+        iv. Parking reductions; or
+
+    v. Expedited permitting.
+
+    b. The city or county may enact or expand such programs whether or not the programs may impose a tax, fee, or charge on the development or construction of property.
+
+    c. If a developer chooses not to participate in an optional affordable housing incentive program adopted and authorized under this section, a city, county, or town may not condition, deny, or delay the issuance of a permit or development approval that is consistent with zoning and development standards on the subject property absent incentive provisions of this program.
+
+2. Affordable housing incentive programs enacted or expanded under this section shall comply with the following:
+
+    a. The incentives or bonuses shall provide for the development of low‑income housing units;
+
+    b. Jurisdictions shall establish standards for low‑income renter or owner occupancy housing, including income guidelines consistent with local housing needs, to assist low‑income households that cannot afford market‑rate housing. Low‑income households are defined for renter and owner occupancy program purposes as follows:
+
+        i. Rental housing units to be developed shall be affordable to and occupied by households with an income of fifty percent or less of the county median family income, adjusted for family size;
+
+        ii. Owner occupancy housing units shall be affordable to and occupied by households with an income of eighty percent or less of the county median family income, adjusted for family size. The legislative authority of a jurisdiction, after holding a public hearing, may establish lower income levels; and
+
+        iii. The legislative authority of a jurisdiction, after holding a public hearing, may also establish higher income levels for rental housing or for owner occupancy housing upon finding that higher income levels are needed to address local housing market conditions. The higher income level for rental housing may not exceed eighty percent of the county area median family income. The higher income level for owner occupancy housing may not exceed one hundred percent of the county area median family income. These established higher income levels are considered "low‑income" for the purposes of this section;
+
+    c. The jurisdiction shall establish a maximum rent level or sales price for each low‑income housing unit developed under the terms of a program and may adjust these levels or prices based on the average size of the household expected to occupy the unit. For renter‑occupied housing units, the total housing costs, including basic utilities as determined by the jurisdiction, may not exceed thirty percent of the income limit for the low‑income housing unit;
+
+    d. Where a developer is utilizing a housing incentive program authorized under this section to develop market rate housing, and is developing low-income housing to satisfy the requirements of the housing incentive program, the low‑income housing units shall be provided in a range of sizes comparable to those units that are available to other residents. To the extent practicable, the number of bedrooms in low‑income units must be in the same proportion as the number of bedrooms in units within the entire development. The low‑income units shall generally be distributed throughout the development and have substantially the same functionality as the other units in the development;
+
+    e. Low‑income housing units developed under an affordable housing incentive program shall be committed to continuing affordability for at least fifty years. A local government, however, may accept payments in lieu of continuing affordability. The program shall include measures to enforce continuing affordability and income standards applicable to low‑income units constructed under this section that may include, but are not limited to, covenants, options, or other agreements to be executed and recorded by owners and developers;
+
+    f. Programs authorized under subsection (1) of this section may apply to part or all of a jurisdiction and different standards may be applied to different areas within a jurisdiction or to different types of development. Programs authorized under this section may be modified to meet local needs and may include provisions not expressly provided in this section or RCW 82.02.020;
+
+    g. Low‑income housing units developed under an affordable housing incentive program are encouraged to be provided within developments for which a bonus or incentive is provided. However, programs may allow units to be provided in a building located in the general area of the development for which a bonus or incentive is provided; and
+
+    h. Affordable housing incentive programs may allow a payment of money or property in lieu of low‑income housing units if the jurisdiction determines that the payment achieves a result equal to or better than providing the affordable housing on-site, as long as the payment does not exceed the approximate cost of developing the same number and quality of housing units that would otherwise be developed. Any city or county shall use these funds or property to support the development of low‑income housing, including support provided through loans or grants to public or private owners or developers of housing.
+
+3. Affordable housing incentive programs enacted or expanded under this section may be applied within the jurisdiction to address the need for increased residential development, consistent with local growth management and housing policies, as follows:
+
+    a. The jurisdiction shall identify certain land use designations within a geographic area where increased residential development will assist in achieving local growth management and housing policies;
+
+    b. The jurisdiction shall provide increased residential development capacity through zoning changes, bonus densities, height and bulk increases, parking reductions, or other regulatory changes or other incentives;
+
+    c. The jurisdiction shall determine that increased residential development capacity or other incentives can be achieved within the identified area, subject to consideration of other regulatory controls on development; and
+
+    d. The jurisdiction may establish a minimum amount of affordable housing that must be provided by all residential developments being built under the revised regulations, consistent with the requirements of this section.
+
+4. **To provide more affordable housing options, tiny house communities may be part of an incentive program permitted under this section.**
+
+
+## Section 3
+This act shall be liberally construed to carry out its purposes and objectives.
+

@@ -1,6 +1,6 @@
-# House Bill 1894
+# House Bill 1894 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1894.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1894.PL.pdf)
 ## Section 1
 > This section modifies existing section [13.40.080](/rcw/13_juvenile_courts_and_juvenile_offenders/13.40_juvenile_justice_act_of_1977.md). Here is the [modified chapter](rcw/13_juvenile_courts_and_juvenile_offenders/13.40_juvenile_justice_act_of_1977.md) for context.
 

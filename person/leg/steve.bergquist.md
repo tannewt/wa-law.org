@@ -7,4 +7,4 @@
 * [HB 1568](/bill/2021-22/hb/1568/) - Unemployment insurance | By resolution, reintroduced and retained in present status.
 * [EHB 1687](/bill/2021-22/ehb/1687/) - College bound scholar./GPA | Referred to Ways & Means.
 * [HB 1699](/bill/2021-22/hb/1699/) - Work in retirement/schools | Passed to Rules Committee for second reading.
-* [HB 1701](/bill/2021-22/hb/1701/) - LEOFF benefits | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [HB 1701](/bill/2021-22/hb/1701/) - LEOFF benefits | Speaker signed.

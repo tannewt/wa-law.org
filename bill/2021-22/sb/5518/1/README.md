@@ -1,6 +1,6 @@
-# Senate Bill 5518
+# Senate Bill 5518 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5518.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5518.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [18.59](/rcw/18_businesses_and_professions/18.059_occupational_therapy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.059_occupational_therapy.md) for context.
 

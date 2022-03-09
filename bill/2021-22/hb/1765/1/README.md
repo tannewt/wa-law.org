@@ -1,6 +1,6 @@
-# House Bill 1765
+# House Bill 1765 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1765.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1765.PL.pdf)
 ## Section 1
 > This section modifies existing section [82.04.323](/rcw/82_excise_taxes/82.04_business_and_occupation_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.04_business_and_occupation_tax.md) for context.
 

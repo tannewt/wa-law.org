@@ -1,6 +1,6 @@
-# House Bill 2007
+# House Bill 2007 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2007.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2007.PL.pdf)
 ## Section 1
 > This section modifies existing section [28B.115.020](/rcw/28B_higher_education/28B.115_washington_health_corps.md). Here is the [modified chapter](rcw/28B_higher_education/28B.115_washington_health_corps.md) for context.
 

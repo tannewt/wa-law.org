@@ -7,5 +7,5 @@
 * [SB 5936](/bill/2021-22/sb/5936/) - Agricultural disaster assist | Referred to Ways & Means.
 * [SB 5937](/bill/2021-22/sb/5937/) - Flood recovery assistance | First reading, referred to State Government & Elections.
 * [SB 5945](/bill/2021-22/sb/5945/) - Human trafficking | First reading, referred to Law & Justice.
-* [SB 5961](/bill/2021-22/sb/5961/) - Biochar | Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.
+* [SB 5961](/bill/2021-22/sb/5961/) - Biochar | Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5966](/bill/2021-22/sb/5966/) - Cost and water right data | First reading, referred to Agriculture, Water, Natural Resources & Parks.

@@ -1,6 +1,6 @@
-# Senate Bill 5929
+# Senate Bill 5929 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5929.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5929.PL.pdf)
 ## Section 1
 > This section modifies existing section [74.08A.505](/rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md). Here is the [modified chapter](rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md) for context.
 
@@ -71,4 +71,68 @@
 8. During **their** tenure, the state agency members of the task force shall respond in a timely manner to data requests from the cochairs.
 
 9. Legislative members of the task force are reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+
+## Section 2
+> This section modifies existing section [74.08A.510](/rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md). Here is the [modified chapter](rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md) for context.
+
+1. To assist the task force established in RCW 74.08A.505, there is created the intergenerational poverty advisory committee.
+
+2. The advisory committee must include diverse, statewide representation from public, nonprofit, and for-profit entities. The committee membership must reflect regional, racial, and cultural diversity to adequately represent the needs of all children and families in the state.
+
+3. Members of the advisory committee are appointed by the secretary, with the approval of the task force.
+
+4. The advisory committee must include representatives from:
+
+    a. Advocacy groups that focus on childhood poverty issues;
+
+    b. Advocacy groups that focus on education and early childhood education issues;
+
+    c. Academic experts in childhood poverty, education, or early childhood education issues;
+
+    d. Faith-based organizations that address childhood poverty, education, or early childhood education issues;
+
+    e. Tribal governments;
+
+    f. Families impacted by poverty;
+
+    g. Local government representatives that address childhood poverty or education issues;
+
+    h. The business community;
+
+    i. **A group representing accredited financial counselors;**
+
+    j. A subject matter expert in infant mental health;
+
+    k. The department of children, youth, and families; and
+
+    l. The department.
+
+5. Each member of the advisory committee is appointed for a four-year term unless a member is appointed to complete an unexpired term. The secretary may adjust the length of term at the time of appointment or reappointment so that approximately one-half of the advisory committee is appointed every two years.
+
+6. The secretary may remove an advisory committee member:
+
+    a. If the member is unable or unwilling to carry out the member's assigned responsibilities; or
+
+    b. For good cause.
+
+7. If a vacancy occurs in the advisory committee membership for any reason, a replacement may be appointed for the unexpired term.
+
+8. The advisory committee shall choose cochairs from among its membership. The secretary shall convene the initial meeting of the advisory committee.
+
+9. A majority of the advisory committee constitutes a quorum of the advisory committee at any meeting and the action of the majority of members present is the action of the advisory committee.
+
+10. The advisory committee shall:
+
+    a. Meet quarterly at the request of the task force cochairs or the cochairs of the advisory committee;
+
+    b. Make recommendations to the task force on how the task force and the state can effectively address the needs of children affected by intergenerational poverty and achieve the purposes and duties of the task force as described in RCW 74.08A.505;
+
+    c. Ensure that the advisory committee's recommendations to the task force are supported by verifiable data; and
+
+    d. Gather input from diverse communities about the impact of intergenerational poverty on outcomes such as education, health care, employment, involvement in the child welfare system, and other related areas.
+
+11. The department shall provide staff support to the advisory committee and shall endeavor to accommodate the participation needs of its members. Accommodations may include considering the location and time of committee meetings, making options available for remote participation by members, and convening meetings of the committee in locations with proximity to available child care whenever feasible.
+
+12. Members of the advisory committee may receive reimbursement for travel expenses in accordance with RCW 43.03.050 and 43.03.060.
 

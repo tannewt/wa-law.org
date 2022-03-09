@@ -1,6 +1,6 @@
-# Senate Bill 5489
+# Senate Bill 5489 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5489.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5489.PL.pdf)
 ## Section 101
 > This section modifies existing section [23B.01.400](/rcw/23B_washington_business_corporation_act/23B.001_general_provisions.md). Here is the [modified chapter](rcw/23B_washington_business_corporation_act/23B.001_general_provisions.md) for context.
 

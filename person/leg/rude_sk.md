@@ -10,4 +10,4 @@
 * [EHB 1973](/bill/2021-22/ehb/1973/) - School board recordings | First reading, referred to State Government & Elections.
 * [HB 1983](/bill/2021-22/hb/1983/) - Hospitals/right to visitors | First reading, referred to Health Care & Wellness.
 * [HB 2079](/bill/2021-22/hb/2079/) - HIV antiviral drugs/medicaid | First reading, referred to Health Care & Wellness.
-* [HJM 4003](/bill/2021-22/hjm/4003/) - Requesting Congress support the immediate restriction of all future purchases of petroleum and other hydrocarbons from Russia. | First reading, referred to Rules (Not Officially read and referred until adoption of Introduction report).
+* [HJM 4003](/bill/2021-22/hjm/4003/) - Requesting Congress support the immediate restriction of all future purchases of petroleum and other hydrocarbons from Russia. | First reading, referred to Rules Review.

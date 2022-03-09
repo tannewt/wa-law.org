@@ -1,6 +1,6 @@
-# House Bill 1825
+# House Bill 1825 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1825.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1825.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [2.56](/rcw/02_courts_of_record/2.56_administrator_for_the_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.56_administrator_for_the_courts.md) for context.
 
@@ -14,15 +14,13 @@ For purposes of this title and Title 3 RCW, unless the context clearly requires 
 
 2. [Empty]
 
-    a. **If due to illness, incapacity, resignation, death, or other unavailability the presiding judge in a single judge court is unable to fulfill the duties of the office, and no person has been previously designated by the presiding judge to serve as presiding judge pro tempore, the chief justice may upon recommendation of the administrator for the courts appoint another judicial officer or other person who meets the qualifications of a judge pro tempore.**
+    a. **If due to illness, incapacity, resignation, death, or other unavailability the presiding judge in a single judge court is unable to fulfill the duties of the office, and either (i) no person has been designated by the presiding judge to serve as presiding judge pro tempore or (ii) the previously designated presiding judge pro tempore resigns, is removed from office, or is no longer able to serve, the chief justice may appoint another judicial officer or other person as the presiding judge pro tempore who meets the qualifications of a judge pro tempore, subject to (c) of this subsection, during the remaining period of unavailability or until a vacancy is filled as provided by law.**
 
-    b. **After an appointment made under (a) of this subsection has been in effect for 30 days, the chief justice shall consult with the local legislative authority about the continued appointment during the remaining period of such illness, incapacity, or unavailability, or until a vacancy in the position is filled as provided by law.**
+    b. **The chief justice may appoint someone other than the previously designated or appointed individual to serve as presiding judge pro tempore whenever the chief justice determines that the administration of justice would be better served by appointment of someone else to fulfill the presiding judge duties, subject to (c) of this subsection, during the remaining period of unavailability or until the vacancy is filled as provided by law.**
 
-    c. **The chief justice may appoint someone other than the previously designated or appointed individual to serve as presiding judge pro tempore in the event of illness, incapacity, resignation, death, or unavailability of the presiding judge in a single judge court whenever the chief justice determines that the administration of justice would be better served by appointment of someone else to fulfill the presiding judge duties.**
+    c. **The chief justice, or designee, shall consult with the local legislative and executive authorities before removing or appointing a presiding judge pro tempore under (a) or (b) of this subsection.**
 
-    d. **After an appointment made under (c) of this subsection has been in effect for 30 days, the chief justice shall consult with the local legislative authority about the continued appointment during the remaining period of such illness, incapacity, or unavailability, or until a vacancy in the position is filled as provided by law.**
-
-    e. **Nothing in this section is intended to modify the role of the commission on judicial conduct as provided in Article IV, section 31 of the Washington state Constitution and chapter 2.64 RCW.**
+    d. **Nothing in this section is intended to modify the role of the commission on judicial conduct as provided in Article IV, section 31 of the Washington state Constitution and chapter 2.64 RCW.**
 
 
 ## Section 3
@@ -30,7 +28,7 @@ For purposes of this title and Title 3 RCW, unless the context clearly requires 
 
 1. If a vacancy occurs in the office of judge of the superior court, the governor shall appoint a person to hold the office until the election and qualification of a judge to fill the vacancy, which election shall be at the next succeeding general election, and the judge so elected shall hold office for the remainder of the unexpired term.
 
-2. **During any vacancy that occurs pursuant to subsection (1) of this section in a single judge court, a presiding judge pro tempore who has been predesignated pursuant to court rule or appointed pursuant to RCW 2.56.040(2) may fulfill presiding judge duties, and the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(c), or until a vacancy in the position is filled as provided by law, whichever occurs first.**
+2. **During any vacancy that occurs pursuant to subsection (1) of this section in a single judge court, a presiding judge pro tempore who has been predesignated pursuant to court rule or appointed pursuant to RCW 2.56.040(2) may fulfill presiding judge duties, and the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(b), or until a vacancy in the position is filled as provided by law, whichever occurs first.**
 
 
 ## Section 4
@@ -52,7 +50,7 @@ For purposes of this title and Title 3 RCW, unless the context clearly requires 
 
 1. If a district has more than one judge, the supreme court may by rule provide for the manner of selection of one of the judges to serve as presiding judge and prescribe the presiding judge's duties. If a county has multiple districts or has one district with multiple electoral districts, the supreme court may by rule provide for the manner of selection of one of the judges to serve as presiding judge and prescribe the presiding judge's duties.
 
-2. **Pursuant to court rule or RCW 2.56.040(2), a presiding judge pro tempore may be predesignated or appointed to fulfill presiding judge duties in case of the illness, incapacity, resignation, death, or unavailability of the presiding judge of a single judge court. In such circumstances, the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(c), or the period of such illness, incapacity, or unavailability ends, or until a vacancy in the position is filled as provided by law, whichever occurs first.**
+2. **Pursuant to court rule or RCW 2.56.040(2), a presiding judge pro tempore may be predesignated or appointed to fulfill presiding judge duties in case of the illness, incapacity, resignation, death, or unavailability of the presiding judge of a single judge court. In such circumstances, the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(b), or the period of such illness, incapacity, or unavailability ends, or until a vacancy in the position is filled as provided by law, whichever occurs first.**
 
 
 ## Section 6
@@ -60,7 +58,7 @@ For purposes of this title and Title 3 RCW, unless the context clearly requires 
 
 1. If a district judge dies, resigns, is convicted of a felony, ceases to reside in the district, fails to serve for any reason except temporary disability, or if his or her term of office is terminated in any other manner, the office shall be deemed vacant. The county legislative authority shall fill all vacancies by appointment and the judge thus appointed shall hold office until the next general election and until a successor is elected and qualified. However, if a vacancy in the office of district court judge occurs and the total number of district court judges remaining in the county is equal to or greater than the number of district court judges authorized in RCW 3.34.010 then the position shall remain vacant. District judges shall be granted sick leave in the same manner as other county employees. A district judge may receive when vacating office remuneration for unused accumulated leave and sick leave at a rate equal to one day's monetary compensation for each full day of accrued leave and one day's monetary compensation for each four full days of accrued sick leave, the total remuneration for leave and sick leave not to exceed the equivalent of thirty days' monetary compensation.
 
-2. **During any vacancy that occurs pursuant to subsection (1) of this section in a single judge court, a presiding judge pro tempore who has been predesignated pursuant to court rule or appointed pursuant to RCW 2.56.040(2) may fulfill presiding judge duties, and the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(c), or until a vacancy in the position is filled as provided by law, whichever occurs first.**
+2. **During any vacancy that occurs pursuant to subsection (1) of this section in a single judge court, a presiding judge pro tempore who has been predesignated pursuant to court rule or appointed pursuant to RCW 2.56.040(2) may fulfill presiding judge duties, and the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(b), or until a vacancy in the position is filled as provided by law, whichever occurs first.**
 
 
 ## Section 7
@@ -90,7 +88,7 @@ When so authorized by the districting plan, one or more district court commissio
 ## Section 9
 > This section adds a new section to an existing chapter [3.50](/rcw/03_district_courts—courts_of_limited_jurisdiction/3.50_municipal_courts—alternate_provision.md). Here is the [modified chapter](rcw/03_district_courts—courts_of_limited_jurisdiction/3.50_municipal_courts—alternate_provision.md) for context.
 
-During any vacancy that occurs in a single judge court pursuant to RCW 3.50.093 or 3.50.095, a presiding judge pro tempore who has been predesignated pursuant to court rule or appointed pursuant to RCW 2.56.040(2) may fulfill presiding judge duties, and the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(c), or until a vacancy in the position is filled as provided by law, whichever occurs first.
+During any vacancy that occurs in a single judge court pursuant to RCW 3.50.093 or 3.50.095, a presiding judge pro tempore who has been predesignated pursuant to court rule or appointed pursuant to RCW 2.56.040(2) may fulfill presiding judge duties, and the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(b), or until a vacancy in the position is filled as provided by law, whichever occurs first.
 
 
 ## Section 10
@@ -114,5 +112,5 @@ During any vacancy that occurs in a single judge court pursuant to RCW 3.50.093 
 
 1. **In addition to the designation of a presiding judge pro tempore for a single judge court as provided in RCW 3.50.090(2), the** presiding municipal court judge may designate one or more persons as judges pro tem to serve in the absence or disability of the elected or duly appointed judges of the court, subsequent to the filing of an affidavit of prejudice, or in addition to the elected or duly appointed judges when the administration of justice and the accomplishment of the work of the court make it necessary. The qualifications of a judge pro tempore shall be the same as for judges as provided under RCW 3.50.040 except that a judge pro tempore need not be a resident of the city or county in which the municipal court is located. Judges pro tempore shall have all of the powers of the duly appointed or elected judges when serving as judges pro tempore of the court. Before entering on his or her duties, each judge pro tempore shall take, subscribe, and file an oath as is taken by a duly appointed or elected judge. Such pro tempore judges shall receive such compensation as shall be fixed by ordinance by the municipality in which the court is located and such compensation shall be paid by the municipality.
 
-2. **If a presiding municipal court judge is the single judge of the court, then pursuant to court rule or RCW 2.56.040(2), a presiding judge pro tempore may be predesignated or appointed to fulfill presiding judge duties in case of the illness, incapacity, resignation, death, or unavailability of the presiding judge. In such circumstances, the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(c), or the period of such illness, incapacity, or unavailability ends, or until a vacancy in the position is filled as provided by law, whichever occurs first.**
+2. **If a presiding municipal court judge is the single judge of the court, then pursuant to court rule or RCW 2.56.040(2), a presiding judge pro tempore may be predesignated or appointed to fulfill presiding judge duties in case of the illness, incapacity, resignation, death, or unavailability of the presiding judge. In such circumstances, the authority of the predesignated or appointed presiding judge pro tempore endures until the chief justice appoints someone else to fulfill the presiding judge duties pursuant to RCW 2.56.040(2)(b), or the period of such illness, incapacity, or unavailability ends, or until a vacancy in the position is filled as provided by law, whichever occurs first.**
 

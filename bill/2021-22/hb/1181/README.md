@@ -1,7 +1,7 @@
 # HB 1181 - Veterans & military suicide
 **Primary Sponsor:** [Tina Orwall](/person/leg/tina.orwall.md)
 
-*Status: Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1181&Year=2021)
+*Status: Speaker signed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1181&Year=2021)
 
 Establishing programs and measures to prevent suicide among veterans and military members.
 
@@ -10,3 +10,4 @@ Establishing programs and measures to prevent suicide among veterans and militar
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Bill as Passed Legislature](S2.PL/)

@@ -1,6 +1,6 @@
-# Engrossed House Bill 2096
+# Engrossed House Bill 2096 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2096.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2096.PL.pdf)
 ## Section 1
 > This section modifies existing section [82.08.0206](/rcw/82_excise_taxes/82.08_retail_sales_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.08_retail_sales_tax.md) for context.
 

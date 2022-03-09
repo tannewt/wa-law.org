@@ -1,6 +1,6 @@
-# Senate Bill 5582
+# Senate Bill 5582 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5582.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5582.PL.pdf)
 ## Section 1
 > This section modifies existing section [53.12.010](/rcw/53_port_districts/53.12_commissioners—elections.md). Here is the [modified chapter](rcw/53_port_districts/53.12_commissioners—elections.md) for context.
 

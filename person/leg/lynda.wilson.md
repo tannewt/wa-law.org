@@ -15,7 +15,7 @@
 * [SB 5464](/bill/2021-22/sb/5464/) - In-person learning option | By resolution, reintroduced and retained in present status.
 * [SB 5607](/bill/2021-22/sb/5607/) - Homeless census/facilities | Referred to Rules 2 Review.
 * [SB 5608](/bill/2021-22/sb/5608/) - Park and land public access | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
+* [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5620](/bill/2021-22/sb/5620/) - Medicaid expenditures | First reading, referred to Health Care & Wellness.
 * [SJR 8206](/bill/2021-22/sjr/8206/) - Homestead property tax exem. | By resolution, reintroduced and retained in present status.
 * [SB 5737](/bill/2021-22/sb/5737/) - Long-term care/pending exem. | First reading, referred to Health & Long Term Care.

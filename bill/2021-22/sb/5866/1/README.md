@@ -1,6 +1,6 @@
-# Senate Bill 5866
+# Senate Bill 5866 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5866.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5866.PL.pdf)
 ## Section 1
 > This section modifies existing section [74.39A.090](/rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md). Here is the [modified chapter](rcw/74_public_assistance/74.39A_long-term_care_services_options—expansion.md) for context.
 

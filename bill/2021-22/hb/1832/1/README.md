@@ -1,6 +1,6 @@
-# House Bill 1832
+# House Bill 1832 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1832.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1832.PL.pdf)
 ## Section 1
 > This section modifies existing section [35A.06.040](/rcw/35A_optional_municipal_code/35A.06_adoption_and_abandonment_of_noncharter_code_city_classification_or_plan_of_government.md). Here is the [modified chapter](rcw/35A_optional_municipal_code/35A.06_adoption_and_abandonment_of_noncharter_code_city_classification_or_plan_of_government.md) for context.
 

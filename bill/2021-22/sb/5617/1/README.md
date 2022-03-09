@@ -1,6 +1,6 @@
-# Senate Bill 5617
+# Senate Bill 5617 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5617.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5617.PL.pdf)
 ## Section 1
 > This section modifies existing section [43.360.030](/rcw/43_state_government—executive/43.360_washington_main_street_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.360_washington_main_street_program.md) for context.
 

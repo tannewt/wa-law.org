@@ -12,4 +12,4 @@
 * [HB 1817](/bill/2021-22/hb/1817/) - Deferred prosecutions | Referred to Rules 2 Review.
 * [HB 1857](/bill/2021-22/hb/1857/) - Technical corrections | Returned to Rules Committee for second reading.
 * [HB 1901](/bill/2021-22/hb/1901/) - Civil protection orders | Third reading, passed; yeas, 30; nays, 17; absent, 0; excused, 2.
-* [HB 2037](/bill/2021-22/hb/2037/) - Peace officers/use of force | Third reading, passed; yeas, 32; nays, 16; absent, 0; excused, 1.
+* [HB 2037](/bill/2021-22/hb/2037/) - Peace officers/use of force | President signed.

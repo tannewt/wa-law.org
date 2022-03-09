@@ -1,6 +1,6 @@
-# House Bill 1761
+# House Bill 1761 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1761.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1761.PL.pdf)
 ## Section 1
 > This section modifies existing section [70.41.480](/rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md). Here is the [modified chapter](rcw/70_public_health_and_safety/70.041_hospital_licensing_and_regulation.md) for context.
 

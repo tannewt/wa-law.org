@@ -1,6 +1,6 @@
-# House Bill 1651
+# House Bill 1651 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1651.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1651.PL.pdf)
 ## Section 1
 The legislature finds that healthy birth spacing helps reduce adverse health outcomes for both parents and babies. The legislature further finds that increasing immediate postpartum access to contraception, before a patient is discharged from the hospital or birthing center, is critical to maternal and newborn health and that immediate postpartum contraception is associated with longer contraceptive coverage, fewer unintended pregnancies, and cost savings for payers and health care systems. To help achieve these outcomes, it is the intent of the legislature to increase access to immediate postpartum contraception by requiring commercial health insurers to pay for immediate postpartum contraception separately from the maternity bundle in a manner that mirrors the payment process for immediate postpartum contraception used by the state's medicaid program.
 

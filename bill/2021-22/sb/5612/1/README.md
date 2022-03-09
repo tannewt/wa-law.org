@@ -1,6 +1,6 @@
-# Senate Bill 5612
+# Senate Bill 5612 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5612.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5612.PL.pdf)
 ## Section 1
 > This section modifies existing section [7.69.030](/rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md) for context.
 
@@ -28,11 +28,11 @@ There shall be a reasonable effort made to ensure that victims, survivors of vic
 
 11. With respect to victims and survivors of victims, to be physically present in court during trial, or if subpoenaed to testify, to be scheduled as early as practical in the proceedings in order to be physically present during trial after testifying and not to be excluded solely because they have testified;
 
-12. With respect to victims and survivors of victims, to be informed by the prosecuting attorney of the date, time, and place of the trial and of the sentencing hearing for felony convictions upon request by a victim or survivor;
+12. With respect to victims and survivors of victims **in any felony case or any case involving domestic violence**, to be informed by the prosecuting attorney of the date, time, and place of the trial and of the sentencing hearing  upon request by a victim or survivor;
 
 13. To submit a victim impact statement or report to the court, with the assistance of the prosecuting attorney if requested, which shall be included in all presentence reports and permanently included in the files and records accompanying the offender committed to the custody of a state agency or institution;
 
-14. With respect to victims and survivors of victims, to present a statement personally or by representation, at the sentencing hearing for felony convictions **and convictions involving domestic violence**; and
+14. With respect to victims and survivors of victims **in any felony case or any case involving domestic violence**, to present a statement**,** personally or by representation, at the sentencing hearing ; and
 
 15. With respect to victims and survivors of victims, to entry of an order of restitution by the court in all felony cases, even when the offender is sentenced to confinement, unless extraordinary circumstances exist which make restitution inappropriate in the court's judgment.
 

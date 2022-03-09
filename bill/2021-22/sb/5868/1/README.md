@@ -1,6 +1,6 @@
-# Senate Bill 5868
+# Senate Bill 5868 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5868.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5868.PL.pdf)
 ## Section 1
 > This section modifies existing section [82.14.370](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
 
@@ -22,7 +22,9 @@
 
         iii. "Economic development office" means an office of a county, port districts, or an associate development organization as defined in RCW 43.330.010, which promotes economic development purposes within the county.
 
-        iv. **"Affordable workforce housing infrastructure or facilities" means housing infrastructure or facilities for a single person, family, or unrelated persons living together whose income is at least 60 percent and no more than 120 percent of the median income, adjusted for housing size, for the county where the housing is located.**
+        iv. **"Affordable workforce housing infrastructure or facilities" means housing infrastructure or facilities that a qualifying provider uses for housing for a single person, family, or unrelated persons living together whose income is no more than 120 percent of the median income, adjusted for housing size, for the county where the housing is located.**
+
+    v. **"Qualifying provider" means a nonprofit entity as defined in RCW 84.36.560, a nonprofit entity or qualified cooperative association as defined in RCW 84.36.049, a housing authority created under RCW 35.82.030 or 35.82.300, a public corporation established under RCW 35.21.660 or 35.21.730, or a county or municipal corporation.**
 
 4. No tax may be collected under this section before July 1, 1998.
 

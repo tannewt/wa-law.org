@@ -68,23 +68,6 @@
 * [Lynda Wilson](/person/leg/lynda.wilson.md)
 
 ## Upcoming Meetings
-### Tue, Mar 8
-Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/03-08-2022/03-08-2022/Agenda///Bill/)
-#### 9:00 am
-**State Government & Elections**
-Public Hearing
-* [SGA 9408](/bill/2021-22/ga/9408/) - Jocelyn P McCurtain Cooney, Member, Public Disclosure Commission.
-
-Executive Session
-* [SGA 9408](/bill/2021-22/ga/9408/) - Jocelyn P McCurtain Cooney, Member, Public Disclosure Commission.
-
-Work Session
-* Interim planning discussion.
-
-Possible other business. Meeting is scheduled to end at 10:00 a.m. 
-
-See https://app.leg.wa.gov/CSI/Senate for testimony options. To view committee meetings or access the committee meeting documents, visit the Legislature's committee schedules, agendas, and documents website:  https://app.leg.wa.gov/committeeschedules
-
 ### Wed, Mar 9
 Double check [the official calendar](https://app.leg.wa.gov/committeeschedules/#/Senate/0/03-09-2022/03-09-2022/Agenda///Bill/)
 #### 12:00 pm
@@ -96,9 +79,9 @@ Executive Session
 * [ESHB 1914](/bill/2021-22/hb/1914/) - Updating and expanding the motion picture competitiveness program. **937👍** **9👎** **3❓**
 * [2SHB 1918](/bill/2021-22/hb/1918/) - Reducing emissions from outdoor power equipment. **5👍** **42👎** **6❓**
 * [2SHB 1988](/bill/2021-22/hb/1988/) - Concerning tax deferrals for investment projects in clean technology manufacturing, clean alternative fuels production, and renewable energy storage. **20👍** **121👎** **1❓**
-* [SHB 2018](/bill/2021-22/hb/2018/) - Creating a three-day shop local and save sales and use tax holiday to benefit all Washington families for certain items $1,000 or less during the month of September. **8👍** **31👎** **1❓**
+* [ESHB 2018](/bill/2021-22/hb/2018/) - Creating a three-day shop local and save sales and use tax holiday to benefit all Washington families for certain items $1,000 or less during the month of September. **8👍** **31👎** **1❓**
 * [SHB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
-* [EHB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **50👍** **0👎** **1❓**
+* [EHB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **58👍** **0👎** **1❓**
 
 Possible other business. Meeting is scheduled to end at 1:00 p.m.
 

@@ -1,6 +1,6 @@
-# House Bill 1953
+# House Bill 1953 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1953.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1953.PL.pdf)
 ## Section 1
 > This section modifies existing section [42.56.420](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
 

@@ -1,6 +1,6 @@
-# Senate Bill 5602
+# Senate Bill 5602 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5602.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5602.PL.pdf)
 ## Section 1
 The definitions in this section apply throughout this section and sections 2 through 7 of this act unless the context clearly requires otherwise.
 

@@ -1,10 +1,11 @@
 # EHB 1851 - Abortion care
 **Primary Sponsor:** [My-Linh Thai](/person/leg/thai_my.md)
 
-*Status: Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1851&Year=2021)
+*Status: Speaker signed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1851&Year=2021)
 
 Preserving a pregnant individual's ability to access abortion care.
 
 ## Revisions
 * [Original Bill](1/)
 * [Engrossed Bill](1/)
+* [Bill as Passed Legislature](1/)

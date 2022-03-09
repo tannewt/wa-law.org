@@ -10,5 +10,5 @@
 * [HB 1808](/bill/2021-22/hb/1808/) - Pupil transportation funding | First reading, referred to Early Learning & K-12 Education.
 * [HB 1861](/bill/2021-22/hb/1861/) - Future fund trust fund | Referred to Appropriations.
 * [HB 1938](/bill/2021-22/hb/1938/) - Student financial education | First reading, referred to Education.
-* [HB 2046](/bill/2021-22/hb/2046/) - Legislative activity ethics | President signed.
-* [HB 2068](/bill/2021-22/hb/2068/) - Imagination library | President signed.
+* [HB 2046](/bill/2021-22/hb/2046/) - Legislative activity ethics | Delivered to Governor.
+* [HB 2068](/bill/2021-22/hb/2068/) - Imagination library | Delivered to Governor.

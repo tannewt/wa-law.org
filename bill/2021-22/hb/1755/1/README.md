@@ -1,6 +1,6 @@
-# House Bill 1755
+# House Bill 1755 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1755.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1755.PL.pdf)
 ## Section 1
 > This section modifies existing section [74.08A.010](/rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md). Here is the [modified chapter](rcw/74_public_assistance/74.08A_washington_workfirst_temporary_assistance_for_needy_families.md) for context.
 

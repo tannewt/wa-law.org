@@ -1,6 +1,6 @@
-# Senate Bill 5566
+# Senate Bill 5566 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5566.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5566.PL.pdf)
 ## Section 1
 > This section modifies existing section [43.63A.307](/rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md). Here is the [modified chapter](rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md) for context.
 
@@ -25,4 +25,8 @@ Complies with other eligibility requirements the department may establish.
 5. "Individual development account" or "account" means an account established by contract between a low‑income individual and a sponsoring organization for the benefit of the low‑income individual and funded through periodic contributions by the low‑income individual that are matched with contributions by or through the sponsoring organization.
 
 6. "Subcontractor organization" means an eligible organization described under RCW 43.185A.040 that contracts with the department to administer the independent youth housing program.
+
+
+## Section 2
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2022, in the omnibus appropriations act, this act is null and void.
 

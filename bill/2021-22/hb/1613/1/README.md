@@ -1,6 +1,6 @@
-# House Bill 1613
+# House Bill 1613 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1613.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1613.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [50B.04](/rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md). Here is the [modified chapter](rcw/50B_long-term_care/50B.04_long-term_services_and_supports_trust_program.md) for context.
 

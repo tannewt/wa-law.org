@@ -1,6 +1,6 @@
-# House Bill 1739
+# House Bill 1739 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1739.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1739.PL.pdf)
 ## Section 1
 The legislature finds that a singular focus on methicillin-resistant staphylococcus aureus does not reflect the reality that there are many more pathogens of epidemiological concern. Modernization of state law is needed. Hospitals must prepare and respond effectively to pathogens of epidemiological concern within their facilities through a broad facility risk assessment that identifies pathogens of epidemiological concern that pose risks to patients, health care workers, and visitors. Department of health oversight and surveys will ensure risk assessments are appropriate and current. Lab identified pathogens must be reported to the national healthcare safety network of the United States centers for disease control and prevention pursuant to requirements from the centers for medicare and medicaid services.
 

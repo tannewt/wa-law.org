@@ -12,11 +12,11 @@
 * [SB 5428](/bill/2021-22/sb/5428/) - SEPA/shelters & encampments | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5460](/bill/2021-22/sb/5460/) - Autonomous vehicles | Effective date 7/25/2021*.
 * [SB 5485](/bill/2021-22/sb/5485/) - Traffic stops | By resolution, reintroduced and retained in present status.
-* [SB 5701](/bill/2021-22/sb/5701/) - Workers' comp wages | Speaker signed.
-* [SB 5722](/bill/2021-22/sb/5722/) - Greenhouse gases/buildings | Third reading, passed; yeas, 53; nays, 45; absent, 0; excused, 0.
-* [SB 5729](/bill/2021-22/sb/5729/) - Hearing deadlines/good cause | Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.
+* [SB 5701](/bill/2021-22/sb/5701/) - Workers' comp wages | Delivered to Governor.
+* [SB 5722](/bill/2021-22/sb/5722/) - Greenhouse gases/buildings | Passed final passage; yeas, 28; nays, 21; absent, 0; excused, 0.
+* [SB 5729](/bill/2021-22/sb/5729/) - Hearing deadlines/good cause | Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.
 * [SB 5744](/bill/2021-22/sb/5744/) - Clean tech. tax deferrals | Referred to Ways & Means.
-* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Third reading, passed; yeas, 96; nays, 2; absent, 0; excused, 0.
+* [SB 5787](/bill/2021-22/sb/5787/) - Linked deposit program | Speaker signed.
 * [SB 5828](/bill/2021-22/sb/5828/) - Autonomous vehicles | Senate Rules "X" file.
-* [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | President signed.
+* [SB 5875](/bill/2021-22/sb/5875/) - Driver license employees | Delivered to Governor.
 * [SB 5963](/bill/2021-22/sb/5963/) - Working families' tax exempt | First reading, referred to Ways & Means.

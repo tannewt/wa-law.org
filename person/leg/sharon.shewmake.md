@@ -10,7 +10,7 @@
 * [HB 1534](/bill/2021-22/hb/1534/) - Carbon pollution tax | By resolution, reintroduced and retained in present status.
 * [HB 1631](/bill/2021-22/hb/1631/) - Food/environmental steward. | Referred to Appropriations.
 * [HB 1632](/bill/2021-22/hb/1632/) - Tribal license plates | First reading, referred to Transportation.
-* [HB 1649](/bill/2021-22/hb/1649/) - WDFW disabilities adv. comm. | President signed.
+* [HB 1649](/bill/2021-22/hb/1649/) - WDFW disabilities adv. comm. | Delivered to Governor.
 * [HB 1660](/bill/2021-22/hb/1660/) - Accessory dwelling units | Placed on second reading by Rules Committee.
 * [HB 1661](/bill/2021-22/hb/1661/) - Kelp & eelgrass conservation | Referred to Appropriations.
 * [HB 1698](/bill/2021-22/hb/1698/) - Latex gloves/food handling | First reading, referred to Rural Development, Agriculture & Natural Resources.
@@ -18,6 +18,6 @@
 * [HB 1814](/bill/2021-22/hb/1814/) - Community solar projects | First reading, referred to Ways & Means.
 * [HB 1836](/bill/2021-22/hb/1836/) - Scholarships/disadv. groups | First reading, referred to Civil Rights & Judiciary.
 * [HB 1926](/bill/2021-22/hb/1926/) - Presidential primary RCV | First reading, referred to State Government & Tribal Relations.
-* [HB 1988](/bill/2021-22/hb/1988/) - Clean tech. tax deferrals | First reading, referred to Ways & Means (Not Officially read and referred until adoption of Introduction report).
+* [HB 1988](/bill/2021-22/hb/1988/) - Clean tech. tax deferrals | First reading, referred to Ways & Means.
 * [HB 2098](/bill/2021-22/hb/2098/) - Home rehab. loan program | Passed to Rules Committee for second reading.
 * [HB 2136](/bill/2021-22/hb/2136/) - Rural commission | First reading, referred to State Government & Tribal Relations.

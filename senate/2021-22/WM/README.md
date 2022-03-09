@@ -35,9 +35,9 @@ Executive Session
 * [ESHB 1914](/bill/2021-22/hb/1914/) - Updating and expanding the motion picture competitiveness program. **937👍** **9👎** **3❓**
 * [2SHB 1918](/bill/2021-22/hb/1918/) - Reducing emissions from outdoor power equipment. **5👍** **42👎** **6❓**
 * [2SHB 1988](/bill/2021-22/hb/1988/) - Concerning tax deferrals for investment projects in clean technology manufacturing, clean alternative fuels production, and renewable energy storage. **20👍** **121👎** **1❓**
-* [SHB 2018](/bill/2021-22/hb/2018/) - Creating a three-day shop local and save sales and use tax holiday to benefit all Washington families for certain items $1,000 or less during the month of September. **8👍** **31👎** **1❓**
+* [ESHB 2018](/bill/2021-22/hb/2018/) - Creating a three-day shop local and save sales and use tax holiday to benefit all Washington families for certain items $1,000 or less during the month of September. **8👍** **31👎** **1❓**
 * [SHB 2099](/bill/2021-22/hb/2099/) - Improving tax administration by waiving penalties and imposing interest in certain situations involving delayed tax payments, and by extending a statute of limitations period for certain egregious tax crimes. **1👍** **0👎** **1❓**
-* [EHB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **50👍** **0👎** **1❓**
+* [EHB 1990](/bill/2021-22/hb/1990/) - Concerning a sales and use tax deferral for projects to improve the state route number 167 and Interstate 405 corridor. **58👍** **0👎** **1❓**
 
 Possible other business. Meeting is scheduled to end at 1:00 p.m.
 

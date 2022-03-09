@@ -1,8 +1,14 @@
-# Senate Bill 5498
+# Senate Bill 5498 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5498.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5498.PL.pdf)
 ## Section 1
-This act may be known and cited as Evitan's law.
+1. The legislature affirms its statutory assertion that the purpose of a high school diploma is to declare that a student is ready for success in postsecondary education, gainful employment, and citizenship, and is equipped with the skills to be a lifelong learner.
+
+2. The legislature finds that, on rare occasions and due to unforeseen circumstances, school districts may wish to provide recognition of a student's status of being on-track to graduate, which is interrupted by an untimely passing that prevents the completion of the secondary education program. In these limited instances, school districts should have discretion to issue a posthumous high school diploma with an "honoris causa" inscription.
+
+3. The legislature recognizes that the authority to issue a high school diploma properly rests with the local school district and its determination of whether a student has met the applicable state and local graduation requirements. The legislature finds, however, that establishing uniform requirements governing the issuance of posthumous diplomas by school districts will promote the proper and effective administration of the public education system.
+
+4. The legislature, therefore, intends to authorize school districts to issue posthumous high school diplomas for qualifying students and in accordance with delineated requirements that promote local discretion, consistent administration, and the acknowledgment of academic achievements that were prematurely interrupted by the student's untimely passing.
 
 
 ## Section 2
@@ -26,19 +32,25 @@ This act may be known and cited as Evitan's law.
 
 4. [Empty]
 
-    a. **A school district shall issue a high school diploma to a deceased student, at the request of the parent, guardian, or custodian, if the student:**
+    a. **A school district, at the request of the parent, guardian, or custodian, may issue a posthumous high school diploma for a deceased student if the student:**
 
-        i. **Was enrolled in a public school in the district at the time of death;**
+        i. **Was enrolled in a public school of the district at the time of death;**
 
-        ii. **Had completed at least 75 percent of the total number of credits required for graduation as established by the state board of education under RCW 28A.230.090 before the time of death; and**
+        ii. **Was deemed on-track for graduation before the time of death; and**
 
-        iii. **Died after the completion of the 11th grade school year or equivalent.**
+        iii. **Died after matriculating into high school.**
 
-    b. **The high school diploma may not be issued before the graduation date of the class in which the student was enrolled at the time of death.**
+    b. **A high school diploma issued under this subsection (4) must bear the inscription "honoris causa" and may not be issued before the graduation date of the class in which the student was enrolled.**
 
-    c. **School districts are not required to award a diploma to a deceased student at the same ceremony or event as other graduating students.**
+    c. **Nothing in this subsection (4):**
 
-    d. **Nothing in this subsection limits the retroactive issuance of a high school diploma.**
+        i. **Obligates school districts to award a diploma for a deceased student at the same ceremony or event as other graduating students; or**
 
-    e. **Diplomas issued under this subsection (4) do not count toward student graduation counts or for any other purpose of federal and state accountability data collection.**
+        ii. **Limits the retroactive issuance of a high school diploma.**
+
+    d. **Diplomas issued under this subsection (4) may not be applied toward student graduation counts or for any other purpose of federal and state accountability data collection.**
+
+
+## Section 3
+This act may be known and cited as Evitan's law.
 

@@ -1,6 +1,6 @@
-# House Bill 1122
+# House Bill 1122 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1122.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1122.PL.pdf)
 ## Section 1
 > This section modifies existing section [38.16.015](/rcw/38_militia_and_military_affairs/38.16_enlistments_and_reserves.md). Here is the [modified chapter](rcw/38_militia_and_military_affairs/38.16_enlistments_and_reserves.md) for context.
 

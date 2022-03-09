@@ -1,6 +1,6 @@
-# House Bill 1622
+# House Bill 1622 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1622.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1622.PL.pdf)
 ## Section 1
 The legislature finds that:
 

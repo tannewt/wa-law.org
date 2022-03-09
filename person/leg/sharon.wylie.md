@@ -9,5 +9,5 @@
 * [HB 1666](/bill/2021-22/hb/1666/) - Public infra./tax valuation | Placed on second reading by Rules Committee.
 * [HB 1667](/bill/2021-22/hb/1667/) - Cannabis business ownership | First reading, referred to Commerce & Gaming.
 * [HB 1672](/bill/2021-22/hb/1672/) - Conservation futures/taxes | First reading, referred to Finance.
-* [HB 1975](/bill/2021-22/hb/1975/) - Management/housing auths | Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.
-* [HB 2074](/bill/2021-22/hb/2074/) - Off-road vehicles fees | President signed.
+* [HB 1975](/bill/2021-22/hb/1975/) - Management/housing auths | Speaker signed.
+* [HB 2074](/bill/2021-22/hb/2074/) - Off-road vehicles fees | Delivered to Governor.

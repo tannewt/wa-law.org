@@ -1,6 +1,6 @@
-# Senate Bill 5657
+# Senate Bill 5657 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5657.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5657.PL.pdf)
 ## Section 1
 The legislature recognizes the benefit of computer science and computational thinking in education, not only with respect to educational development, but also in cultivating the skills needed to compete and excel in our state's career landscape. The legislature also recognizes the heightened importance of providing access to computer science education to youth in secure facilities, where access to innovative and engaging learning experiences can: (1) Build in-demand skills to prepare students for future employment; (2) help students transition back to their communities following incarceration; and (3) prevent recidivism. However, the legislature understands that state long-term juvenile institutions have unique environmental and facility limitations that affect the ability to deliver some components of computer science instruction in a secure manner. Therefore, the legislature intends to require school districts that operate institutional education programs in state long-term juvenile institutions to provide access to computer science courses, while allowing the flexibility to adjust curriculum and instructional activities when necessary.
 
@@ -8,7 +8,7 @@ The legislature recognizes the benefit of computer science and computational thi
 ## Section 2
 > This section adds a new section to an existing chapter [28A.190](/rcw/28A_common_school_provisions/28A.190_residential_education_programs.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.190_residential_education_programs.md) for context.
 
-1. Subject to the availability of amounts appropriated for this specific purpose, each school district operating an institutional education program for youth in state long-term juvenile institutions must provide an opportunity to access an elective computer science course in accordance with RCW 28A.230.300.
+1. Subject to the availability and sufficiency of amounts appropriated for this specific purpose in addition to the amounts appropriated through the institutional education funding formulas specified in the omnibus appropriations act, and subject to staffing availability, each school district operating an institutional education program for youth in state long-term juvenile institutions must provide an opportunity to access an elective computer science course in accordance with RCW 28A.230.300(1).
 
 2. If, due to facility or technology security limitations, a school district cannot provide a computer science course that is fully aligned with all state computer science learning standards, the school district must adapt the course curriculum and instructional activities to align with as many state computer science learning standards as possible.
 

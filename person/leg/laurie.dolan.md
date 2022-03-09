@@ -7,10 +7,10 @@
 * [HB 1419](/bill/2021-22/hb/1419/) - Certificated staff/factors | By resolution, reintroduced and retained in present status.
 * [HB 1476](/bill/2021-22/hb/1476/) - Enrollment declines/OSPI | Effective date 7/25/2021.
 * [HB 1484](/bill/2021-22/hb/1484/) - Building mapping system | Effective date 7/1/2021.
-* [HB 1590](/bill/2021-22/hb/1590/) - Enrollment stabilization | Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.
+* [HB 1590](/bill/2021-22/hb/1590/) - Enrollment stabilization | Passed final passage; yeas, 62; nays, 36; absent, 0; excused, 0.
 * [HB 1591](/bill/2021-22/hb/1591/) - Charter schools/local enrich | First reading, referred to Appropriations.
 * [HB 1611](/bill/2021-22/hb/1611/) - Highly capable students | Passed to Rules Committee for second reading.
-* [HB 1629](/bill/2021-22/hb/1629/) - Aerial imaging technology | Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.
+* [HB 1629](/bill/2021-22/hb/1629/) - Aerial imaging technology | Speaker signed.
 * [HB 1652](/bill/2021-22/hb/1652/) - Conserv. district elections | Referred to Rules 2 Review.
-* [EHB 1744](/bill/2021-22/ehb/1744/) - Cancer care collaboratives | President signed.
+* [EHB 1744](/bill/2021-22/ehb/1744/) - Cancer care collaboratives | Delivered to Governor.
 * [HB 1985](/bill/2021-22/hb/1985/) - Schools/support funding | First reading, referred to Education.

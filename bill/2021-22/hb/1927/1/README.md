@@ -1,6 +1,6 @@
-# House Bill 1927
+# House Bill 1927 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1927.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1927.PL.pdf)
 ## Section 1
 1. The Washington state legislature is purposefully designed to be a part-time legislature to provide people from all areas of life the opportunity to participate. All businesses and industries, in the private and public sector, benefit when the legislature is made up of the broadest possible representation.
 
