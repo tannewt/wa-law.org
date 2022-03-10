@@ -17,4 +17,4 @@
 * [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | President signed.
 * [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | Returned to Rules Committee for second reading.
 * [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | Delivered to Governor.
-* [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Passed final passage; yeas, 96; nays, 1; absent, 0; excused, 1.

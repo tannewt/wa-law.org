@@ -1,7 +1,7 @@
 # ESB 5901 - Economic dev. tax incentives
 **Primary Sponsor:** [Emily Randall](/person/leg/randall_em.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5901&Year=2021)
+*Status: Third reading, passed; yeas, 69; nays, 28; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5901&Year=2021)
 
 Concerning economic development tax incentives for targeted counties.
 

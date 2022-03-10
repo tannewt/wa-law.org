@@ -11,13 +11,13 @@
 * [SB 5375](/bill/2021-22/sb/5375/) - Low-income housing assist. | Senate Rules "X" file.
 * [SB 5384](/bill/2021-22/sb/5384/) - Volunteer firefighters | Effective date 4/16/2021.
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
-* [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | Speaker signed.
-* [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | Speaker signed.
+* [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | Delivered to Governor.
+* [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | Delivered to Governor.
 * [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Referred to Appropriations.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | First reading, referred to Health Care & Wellness.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Rules Committee relieved of further consideration.  Placed on second reading.
-* [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | FIN - Majority; do pass.
+* [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.
 * [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Delivered to Governor.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Civil Rights & Judiciary.
-* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Speaker signed.
+* [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Delivered to Governor.

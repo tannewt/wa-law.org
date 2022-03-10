@@ -10,9 +10,9 @@
 * [SB 5489](/bill/2021-22/sb/5489/) - Business entities | Delivered to Governor.
 * [SB 5490](/bill/2021-22/sb/5490/) - Interbranch advisory comm. | Delivered to Governor.
 * [SB 5491](/bill/2021-22/sb/5491/) - Waiver of firearm rights | Rules Committee relieved of further consideration.  Placed on second reading.
-* [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | Passed final passage; yeas, 29; nays, 18; absent, 1; excused, 1.
-* [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | Rules Committee relieved of further consideration.  Placed on second reading.
-* [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | Speaker signed.
+* [SB 5528](/bill/2021-22/sb/5528/) - RTA supplemental revenue | President signed.
+* [SB 5531](/bill/2021-22/sb/5531/) - Uniform unclaimed property | Third reading, passed; yeas, 60; nays, 37; absent, 0; excused, 1.
+* [SB 5548](/bill/2021-22/sb/5548/) - Child custody transfers | Delivered to Governor.
 * [SB 5560](/bill/2021-22/sb/5560/) - Redistricting plans | Referred to Rules 2 Review.
-* [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | Passed final passage; yeas, 48; nays, 1; absent, 0; excused, 0.
+* [SB 5788](/bill/2021-22/sb/5788/) - Guardianship of minors | President signed.
 * [SCR 8404](/bill/2021-22/scr/8404/) - Cutoff dates | Filed with Secretary of State.

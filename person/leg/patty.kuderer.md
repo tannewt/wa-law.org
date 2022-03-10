@@ -19,7 +19,7 @@
 * [SB 5260](/bill/2021-22/sb/5260/) - Eviction res. pilot/reports | By resolution, reintroduced and retained in present status.
 * [SB 5266](/bill/2021-22/sb/5266/) - Products sold to adults 21+ | By resolution, reintroduced and retained in present status.
 * [SB 5506](/bill/2021-22/sb/5506/) - JARRC chair & vice chair | Referred to Rules 2 Review.
-* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | Passed final passage; yeas, 34; nays, 15; absent, 0; excused, 0.
+* [SB 5566](/bill/2021-22/sb/5566/) - Independent youth housing | President signed.
 * [SB 5568](/bill/2021-22/sb/5568/) - Open weapon carry/local laws | Senate Rules "X" file.
 * [SB 5576](/bill/2021-22/sb/5576/) - Eviction | Senate Rules "X" file.
 * [SB 5631](/bill/2021-22/sb/5631/) - CDLs/human trafficking | Delivered to Governor.

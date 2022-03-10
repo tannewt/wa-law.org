@@ -47,4 +47,5 @@
 * [SB 5953](/bill/2021-22/sb/5953/) - Abandoned vehicles/sales tax | First reading, referred to Ways & Means.
 * [SB 5968](/bill/2021-22/sb/5968/) - Salmon populations/effect | First reading, referred to Agriculture, Water, Natural Resources & Parks.
 * [SB 5984](/bill/2021-22/sb/5984/) - Spirits products from Russia | First reading, referred to Labor, Commerce & Tribal Affairs.
+* [SB 5985](/bill/2021-22/sb/5985/) - Setting a different direction on environmental policy in order to reduce the skyrocketing prices of basic goods and services. | First reading, referred to Environment, Energy & Technology.
 * [SJR 8211](/bill/2021-22/sjr/8211/) - Revenue for highway purposes | First reading, referred to Transportation.

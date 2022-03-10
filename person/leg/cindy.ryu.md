@@ -10,6 +10,6 @@
 * [HB 1673](/bill/2021-22/hb/1673/) - Public works board/broadband | Passed final passage; yeas, 96; nays, 2; absent, 0; excused, 0.
 * [HB 1707](/bill/2021-22/hb/1707/) - Flotation device use | Returned to Rules Committee for second reading.
 * [HB 1798](/bill/2021-22/hb/1798/) - LCEDIR/tourism slogan | Effective date 6/9/2022.
-* [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [HB 1815](/bill/2021-22/hb/1815/) - Catalytic converter theft | Passed final passage; yeas, 97; nays, 0; absent, 0; excused, 1.
 * [HB 1879](/bill/2021-22/hb/1879/) - Convention economy grants | First reading, referred to Appropriations.
 * [HB 1880](/bill/2021-22/hb/1880/) - Housing benefit districts | Referred to Finance.

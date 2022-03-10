@@ -7,6 +7,6 @@
 * [HB 1733](/bill/2021-22/hb/1733/) - Long-term care/exemptions | Effective date 6/9/2022.
 * [HB 1760](/bill/2021-22/hb/1760/) - Dual credit program access | First reading, referred to Ways & Means.
 * [HB 1804](/bill/2021-22/hb/1804/) - Military service credit | Passed to Rules Committee for second reading.
-* [HB 1805](/bill/2021-22/hb/1805/) - Opportunity scholarship prog | Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.
+* [HB 1805](/bill/2021-22/hb/1805/) - Opportunity scholarship prog | Passed final passage; yeas, 92; nays, 5; absent, 0; excused, 1.
 * [HB 1867](/bill/2021-22/hb/1867/) - Dual credit program data | Delivered to Governor.
 * [HB 2018](/bill/2021-22/hb/2018/) - Sales and use tax holiday | First reading, referred to Ways & Means.

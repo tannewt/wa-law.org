@@ -11,11 +11,11 @@
 * [SB 5360](/bill/2021-22/sb/5360/) - Fire & smoke control systems | By resolution, reintroduced and retained in present status.
 * [SB 5452](/bill/2021-22/sb/5452/) - Electric-assisted bicycles | Effective date 7/25/2021.
 * [SB 5499](/bill/2021-22/sb/5499/) - Hemodialysis technicians | Referred to Rules 2 Review.
-* [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | Passed final passage; yeas, 47; nays, 0; absent, 0; excused, 2.
+* [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | President signed.
 * [SB 5542](/bill/2021-22/sb/5542/) - Optometry | Senate Rules "X" file.
 * [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Delivered to Governor.
 * [SB 5618](/bill/2021-22/sb/5618/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
-* [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | Speaker signed.
+* [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | Delivered to Governor.
 * [SB 5815](/bill/2021-22/sb/5815/) - Identicards | Delivered to Governor.
 * [SB 5848](/bill/2021-22/sb/5848/) - Music therapists | First reading, referred to Health Care & Wellness.
 * [SB 5852](/bill/2021-22/sb/5852/) - Biodegradable product labels | First reading, referred to Environment, Energy & Technology.

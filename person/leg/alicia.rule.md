@@ -17,4 +17,4 @@
 * [HB 2011](/bill/2021-22/hb/2011/) - Skill center funding | First reading, referred to Appropriations.
 * [HB 2014](/bill/2021-22/hb/2014/) - Outdoor school | First reading, referred to Education.
 * [HB 2051](/bill/2021-22/hb/2051/) - Agricultural disaster assist | President signed.
-* [HB 2078](/bill/2021-22/hb/2078/) - Outdoor learning grant prg. | Third reading, passed; yeas, 44; nays, 3; absent, 0; excused, 2.
+* [HB 2078](/bill/2021-22/hb/2078/) - Outdoor learning grant prg. | Passed final passage; yeas, 92; nays, 5; absent, 0; excused, 1.

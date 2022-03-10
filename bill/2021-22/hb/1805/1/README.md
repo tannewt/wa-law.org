@@ -1,6 +1,6 @@
-# House Bill 1805
+# House Bill 1805 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1805.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1805.PL.pdf)
 ## Section 1
 > This section modifies existing section [28B.145.010](/rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md). Here is the [modified chapter](rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md) for context.
 
@@ -34,7 +34,7 @@ The definitions in this section apply throughout this chapter unless the context
 
         ii. Declares an intention to obtain a professional-technical certificate, professional-technical degree, baccalaureate degree, or an advanced degree; and
 
-        iii. Has a family income at or below **125** percent of the state median family income at the time the student applies for an opportunity scholarship. **For the advanced degree program, state median family income may be greater than 125 percent if the eligible student can demonstrate financial need through other factors such as a history of prior household income, income loss caused by entering the advanced degree program, level of student debt at application and annually thereafter, or other factors determined by the program.**
+        iii. Has a family income at or below **125** percent of the state median family income at the time the student applies for an opportunity scholarship. **For the advanced degree program, family income may be greater than 125 percent if the eligible student can demonstrate financial need through other factors such as a history of prior household income, income loss caused by entering the advanced degree program, level of student debt at application and annually thereafter, or other factors determined by the program.**
 
     b. **To remain eligible for scholarship funds under the opportunity scholarship program the student must meet satisfactory academic progress toward completion of an eligible program as determined by the office of student financial assistance in the Washington college grant program under chapter 28B.92 RCW.**
 
@@ -144,21 +144,23 @@ The definitions in this section apply throughout this chapter unless the context
 
 3. To be eligible for scholarship funds under the rural jobs program, a student must:
 
-    a.
+    a. Either:
 
-**Be a resident of an eligible county or have attended and graduated from a school in an eligible school district**;
+        i. Be a resident of an eligible county **;**
+
+        ii. Have attended and graduated from a school in an eligible school district **; or**
+
+        iii. **Be** enrolled in **either** a community or technical college established under chapter 28B.50 RCW  located in an eligible county **or participating in an eligible registered apprenticeship program under chapter 28B.92 RCW in an eligible county**;
 
     b. Be a resident student as defined
 
 **in the Washington college grant program in RCW 28B.92.200(5)(c);**
 
-    c. **Be enrolled in either a community or technical college established under chapter 28B.50 RCW located in an eligible county or an eligible registered apprenticeship program under chapter 28B.92 RCW in an eligible county;**
+    c. Be in a certificate, degree, or other industry-recognized credential or training program that has been identified by the board as a program that prepares students for a high employer demand field;
 
-    d. Be in a certificate, degree, or other industry-recognized credential or training program that has been identified by the board as a program that prepares students for a high employer demand field;
+    d. Have a family income that does not exceed seventy percent of the state median family income adjusted for family size; and
 
-    e. Have a family income that does not exceed seventy percent of the state median family income adjusted for family size; and
-
-    f. Demonstrate financial need according to the free application for federal student aid or the Washington application for state financial aid.
+    e. Demonstrate financial need according to the free application for federal student aid or the Washington application for state financial aid.
 
 4. To remain eligible for scholarship funds under the rural jobs program, the student must **meet satisfactory academic progress toward completion of an eligible program as established by the program. Rural jobs program eligibility may not extend beyond five years or 125 percent of the published length of the program in which the student is enrolled or the credit or clock-hour equivalent**.
 

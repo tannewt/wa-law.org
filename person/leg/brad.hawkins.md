@@ -7,4 +7,4 @@
 * [SB 5487](/bill/2021-22/sb/5487/) - School consolid. incentives | First reading, referred to Capital Budget.
 * [SB 5513](/bill/2021-22/sb/5513/) - Lodging taxes/housing | First reading, referred to Housing & Local Government.
 * [SB 5603](/bill/2021-22/sb/5603/) - SR 2 corridor study | First reading, referred to Transportation.
-* [SB 5868](/bill/2021-22/sb/5868/) - Public fac. tax/housing | Passed final passage; yeas, 43; nays, 6; absent, 0; excused, 0.
+* [SB 5868](/bill/2021-22/sb/5868/) - Public fac. tax/housing | President signed.

@@ -6,7 +6,7 @@
 * [HB 1105](/bill/2021-22/hb/1105/) - Medical use of cannabis | Passed to Rules Committee for second reading.
 * [HB 1303](/bill/2021-22/hb/1303/) - Personal information sale | By resolution, reintroduced and retained in present status.
 * [HB 1388](/bill/2021-22/hb/1388/) - Motor vehicle sales | By resolution, reintroduced and retained in present status.
-* [HB 1430](/bill/2021-22/hb/1430/) - State upland leases | Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.
+* [HB 1430](/bill/2021-22/hb/1430/) - State upland leases | Passed final passage; yeas, 96; nays, 1; absent, 0; excused, 1.
 * [HB 1433](/bill/2021-22/hb/1433/) - Personal data rights charter | By resolution, reintroduced and retained in present status.
 * [HB 1668](/bill/2021-22/hb/1668/) - Marijuana products | Returned to Rules Committee for second reading.
 * [HB 1731](/bill/2021-22/hb/1731/) - Autonomous vehicle testing | First reading, referred to Transportation.

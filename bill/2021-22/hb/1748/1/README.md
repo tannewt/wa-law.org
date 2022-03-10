@@ -1,6 +1,6 @@
-# House Bill 1748
+# House Bill 1748 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1748.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1748.PL.pdf)
 ## Section 1
 > This section modifies existing section [74.04.805](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
 
@@ -10,7 +10,11 @@
 
     b. Are citizens or aliens lawfully admitted for permanent residence or otherwise residing in the United States under color of law**, or are victims of human trafficking as defined in RCW 74.04.005**;
 
-    c. Have furnished the department **with** their social security number. If the social security number cannot be furnished because it has not been issued or is not known, an application for a number must be made prior to authorization of benefits, and the social security number must be provided to the department upon receipt;
+    c. [Empty]
+
+        i. Have furnished the department **with** their social security number. If the social security number cannot be furnished because it has not been issued or is not known, an application for a number must be made prior to authorization of benefits, and the social security number must be provided to the department upon receipt;
+
+        ii. **This requirement does not apply to victims of human trafficking as defined in RCW 74.04.005 if they have not been issued a social security number;**
 
     d. [Empty]
 
@@ -74,7 +78,7 @@ In determining whether a person is disabled, the department may rely on, but is 
 
         i. Persons who are not able to engage in gainful employment due primarily to **a substance use disorder**. These persons shall be referred to appropriate assessment, treatment, **or** shelter**services**. Referrals shall be made at the time of application or at the time of eligibility review. This subsection may not be construed to prohibit the department from granting aged, blind, or disabled assistance benefits to **persons with a substance use disorder** who are incapacitated due to other physical or mental conditions that meet the eligibility criteria for the aged, blind, or disabled assistance program; or
 
-        ii. Persons for whom there has been a final determination of ineligibility for federal supplemental security income benefits.
+        ii. Persons for whom there has been a final determination of ineligibility **based on age, blindness, or disability** for federal supplemental security income benefits.
 
     c. Persons may receive aged, blind, or disabled assistance benefits and essential needs and housing program support under RCW 43.185C.220 concurrently while pending application for federal supplemental security income benefits. The monetary value of any aged, blind, or disabled assistance benefit that is subsequently duplicated by the person's receipt of supplemental security income for the same period shall be considered a debt due the state and shall by operation of law be subject to recovery through all available legal remedies.
 
@@ -92,7 +96,11 @@ In determining whether a person is disabled, the department may rely on, but is 
 
     b. Meet the income and resource standards described in RCW 74.04.805(1) (d) and (e);
 
-    c. Have furnished the department **with their** social security number. If the social security number cannot be furnished because it has not been issued or is not known, an application for a number shall be made prior to authorization of benefits, and the social security number shall be provided to the department upon receipt;
+    c. [Empty]
+
+        i. Have furnished the department **with their** social security number. If the social security number cannot be furnished because it has not been issued or is not known, an application for a number shall be made prior to authorization of benefits, and the social security number shall be provided to the department upon receipt;
+
+        ii. **This requirement does not apply to victims of human trafficking as defined in RCW 74.04.005 if they have not been issued a social security number;**
 
     d. Not have refused or failed without good cause to participate in **substance use** treatment if an assessment by a certified **substance use disorder professional** indicates a need for such treatment. Good cause must be found to exist when a person's physical or mental condition, as determined by the department, prevents the person from participating in **substance use** treatment, when needed outpatient  treatment is not available to the person in the county of **their** residence or when needed inpatient treatment is not available in a location that is reasonably accessible for the person; and
 

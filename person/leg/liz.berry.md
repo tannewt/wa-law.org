@@ -9,7 +9,7 @@
 * [HB 1173](/bill/2021-22/hb/1173/) - State lands development auth | Speaker signed.
 * [HB 1206](/bill/2021-22/hb/1206/) - Temporary workers | Effective date 7/25/2021.
 * [HB 1486](/bill/2021-22/hb/1486/) - Unemployment/voluntary | Returned to Rules Committee for second reading.
-* [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.
+* [HB 1694](/bill/2021-22/hb/1694/) - Chemicals/consumer products | Third reading, passed; yeas, 46; nays, 3; absent, 0; excused, 0.
 * [HB 1705](/bill/2021-22/hb/1705/) - Untraceable guns | Delivered to Governor.
 * [HJM 4002](/bill/2021-22/hjm/4002/) - Jones Act | Referred to Rules 2 Review.
 * [HB 1771](/bill/2021-22/hb/1771/) - Child care bargaining | Referred to Appropriations.

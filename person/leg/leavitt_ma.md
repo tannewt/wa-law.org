@@ -14,6 +14,6 @@
 * [HB 1642](/bill/2021-22/hb/1642/) - National guard ed. grants | Delivered to Governor.
 * [HB 1650](/bill/2021-22/hb/1650/) - Commercial solicitation | First reading, referred to Business, Financial Services & Trade.
 * [HB 1697](/bill/2021-22/hb/1697/) - Online services/minors | Referred to Appropriations.
-* [HB 1751](/bill/2021-22/hb/1751/) - Hazing prevention | Third reading, passed; yeas, 46; nays, 0; absent, 0; excused, 3.
+* [HB 1751](/bill/2021-22/hb/1751/) - Hazing prevention | Passed final passage; yeas, 97; nays, 0; absent, 0; excused, 1.
 * [HB 1758](/bill/2021-22/hb/1758/) - Hazing penalty | Referred to Rules 2 Review.
 * [HB 1819](/bill/2021-22/hb/1819/) - Property tax exemption | First reading, referred to Finance.

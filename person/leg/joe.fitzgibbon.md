@@ -10,7 +10,7 @@
 * [HB 1572](/bill/2021-22/hb/1572/) - Rental cars/sales tax | By resolution, reintroduced and retained in present status.
 * [HB 1619](/bill/2021-22/hb/1619/) - Appliance efficiency | Delivered to Governor.
 * [HB 1682](/bill/2021-22/hb/1682/) - Business emissions reduction | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 1799](/bill/2021-22/hb/1799/) - Organic materials management | Third reading, passed; yeas, 34; nays, 14; absent, 0; excused, 1.
+* [HB 1799](/bill/2021-22/hb/1799/) - Organic materials management | Passed final passage; yeas, 57; nays, 40; absent, 0; excused, 1.
 * [HB 1812](/bill/2021-22/hb/1812/) - Energy facility site council | Speaker signed.
 * [HB 2002](/bill/2021-22/hb/2002/) - Energy infrastructure siting | First reading, referred to Environment & Energy.
 * [HB 2027](/bill/2021-22/hb/2027/) - WDFW governance | First reading, referred to Rural Development, Agriculture & Natural Resources.

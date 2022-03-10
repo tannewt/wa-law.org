@@ -1,6 +1,6 @@
-# House Bill 1430
+# House Bill 1430 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1430.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1430.PL.pdf)
 ## Section 1
 > This section modifies existing section [79.13.060](/rcw/79_public_lands/79.013_land_leases.md). Here is the [modified chapter](rcw/79_public_lands/79.013_land_leases.md) for context.
 
@@ -12,7 +12,13 @@
 
         ii. Share crop leases may not exceed ten years;
 
-    b. The lands may be leased for commercial, industrial, business, or recreational purposes not to exceed **99** years;
+    b. The lands may be leased for commercial, industrial, business, or recreational purposes not to exceed fifty-five years**, except:**
+
+        i. **Leases for commercial, industrial, or business purposes may extend to 99 years;**
+
+        ii. **All leases for commercial, industrial, or business purposes that extend beyond 55 years must provide for periodic rental reevaluation and adjustment, except leases with rentals based on a percentage of income;**
+
+        iii. **All leases for commercial, industrial, or business purposes that extend terms beyond 55 years must be reported to the office of financial management and the appropriate committees of the legislature within 30 days of the date of execution of the lease. The report must include a financial analysis that justifies the financial benefit for the added term and the schedule for periodic rental adjustments**;
 
     c. The lands may be leased for public school, college, or university purposes not to exceed seventy-five years;
 

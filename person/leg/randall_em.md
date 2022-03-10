@@ -22,12 +22,12 @@
 * [SB 5704](/bill/2021-22/sb/5704/) - ARNP reimbursement rate | Referred to Ways & Means.
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | First reading, referred to Appropriations.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Senate Rules "X" file.
-* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Passed final passage; yeas, 28; nays, 21; absent, 0; excused, 0.
+* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | President signed.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Delivered to Governor.
-* [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.
-* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Speaker signed.
+* [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | President signed.
+* [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Delivered to Governor.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
-* [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.
-* [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Speaker signed.
-* [ESB 5901](/bill/2021-22/esb/5901/) - Economic dev. tax incentives | Minority; without recommendation.
+* [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | President signed.
+* [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Delivered to Governor.
+* [ESB 5901](/bill/2021-22/esb/5901/) - Economic dev. tax incentives | Third reading, passed; yeas, 69; nays, 28; absent, 0; excused, 1.
 * [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Held on second reading.

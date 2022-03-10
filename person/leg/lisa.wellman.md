@@ -1,6 +1,6 @@
 # Lisa Wellman
 ## Bills
-* [ESB 5017](/bill/2021-22/esb/5017/) - School district procurement | Speaker signed.
+* [ESB 5017](/bill/2021-22/esb/5017/) - School district procurement | Delivered to Governor.
 * [SB 5128](/bill/2021-22/sb/5128/) - Student transportation funds | Effective date 5/10/2021.
 * [SB 5161](/bill/2021-22/sb/5161/) - Teaching tribal history, etc | By resolution, reintroduced and retained in present status.
 * [SB 5249](/bill/2021-22/sb/5249/) - Mastery-based learning | Effective date 7/25/2021*.
@@ -19,9 +19,9 @@
 * [SB 5580](/bill/2021-22/sb/5580/) - Public works board/broadband | Senate Rules "X" file.
 * [SB 5581](/bill/2021-22/sb/5581/) - Pupil transp. allocations | Referred to Appropriations.
 * [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Senate Rules "X" file.
-* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.
+* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | President signed.
 * [SB 5659](/bill/2021-22/sb/5659/) - Building material standards | First reading, referred to State Government & Elections.
-* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Speaker signed.
+* [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Delivered to Governor.
 * [SB 5760](/bill/2021-22/sb/5760/) - Motion picture program | Placed on second reading by Rules Committee.
 * [SB 5775](/bill/2021-22/sb/5775/) - Broadband deployment | First reading, referred to Environment, Energy & Technology.
 * [SB 5902](/bill/2021-22/sb/5902/) - High school grad. credits | First reading, referred to Early Learning & K-12 Education.

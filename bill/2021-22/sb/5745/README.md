@@ -1,7 +1,7 @@
 # SB 5745 - Personal needs allowance
 **Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
 
-*Status: Speaker signed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5745&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5745&Year=2021)
 
 Increasing the personal needs allowance for persons receiving state financed care.
 
