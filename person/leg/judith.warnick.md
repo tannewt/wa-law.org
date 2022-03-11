@@ -17,7 +17,7 @@
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | First reading, referred to Health Care & Wellness.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Rules Committee relieved of further consideration.  Placed on second reading.
-* [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.
+* [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | President signed.
 * [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Delivered to Governor.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Civil Rights & Judiciary.
 * [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Delivered to Governor.

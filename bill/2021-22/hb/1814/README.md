@@ -1,7 +1,7 @@
 # HB 1814 - Community solar projects
 **Primary Sponsor:** [Sharon Shewmake](/person/leg/sharon.shewmake.md)
 
-*Status: Minority; without recommendation.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1814&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1814&Year=2021)
 
 Expanding equitable access to the benefits of renewable energy through community solar projects.
 
@@ -9,3 +9,4 @@ Expanding equitable access to the benefits of renewable energy through community
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Bill as Passed Legislature](S2.PL/)

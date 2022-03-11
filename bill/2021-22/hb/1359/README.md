@@ -1,7 +1,7 @@
 # HB 1359 - Liquor license fees
 **Primary Sponsor:** [Monica Jurado Stonier](/person/leg/monica.stonier.md)
 
-*Status: Placed on second reading by Rules Committee.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1359&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1359&Year=2021)
 
 Temporarily reducing liquor license fees.
 
@@ -10,3 +10,4 @@ Temporarily reducing liquor license fees.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+* [Bill as Passed Legislature](S3.PL/)

@@ -1,7 +1,7 @@
 # HB 1153 - Language access in schools
 **Primary Sponsor:** [Tina Orwall](/person/leg/tina.orwall.md)
 
-*Status: Passed final passage; yeas, 86; nays, 12; absent, 0; excused, 0.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1153&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1153&Year=2021)
 
 Addressing language access in public schools.
 

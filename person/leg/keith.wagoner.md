@@ -15,7 +15,7 @@
 * [SB 5545](/bill/2021-22/sb/5545/) - Survivor benefits            | Delivered to Governor.
 * [SB 5590](/bill/2021-22/sb/5590/) - Marine resources ad. council | Delivered to Governor.
 * [SB 5638](/bill/2021-22/sb/5638/) - Mental health prof. licenses | First reading, referred to Health Care & Wellness.
-* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | President signed.
+* [SB 5644](/bill/2021-22/sb/5644/) - Behavioral health coresponse | Speaker signed.
 * [SB 5646](/bill/2021-22/sb/5646/) - Corrections/body scanners | First reading, referred to Human Services, Reentry & Rehabilitation.
 * [SB 5679](/bill/2021-22/sb/5679/) - Elections/voter confidence | First reading, referred to State Government & Elections.
 * [SB 5762](/bill/2021-22/sb/5762/) - Purple star award | Referred to Rules 2 Review.

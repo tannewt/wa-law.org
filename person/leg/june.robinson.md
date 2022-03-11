@@ -11,12 +11,12 @@
 * [SB 5371](/bill/2021-22/sb/5371/) - Sweetened beverage tax | By resolution, reintroduced and retained in present status.
 * [SB 5589](/bill/2021-22/sb/5589/) - Primary care spending | Delivered to Governor.
 * [SB 5647](/bill/2021-22/sb/5647/) - Fertility services | First reading, referred to Health & Long Term Care.
-* [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | President signed.
+* [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | Speaker signed.
 * [SB 5654](/bill/2021-22/sb/5654/) - Health benefit ex./B&O tax | Senate Rules "X" file.
 * [SB 5751](/bill/2021-22/sb/5751/) - Health care staffing | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | Passed final passage; yeas, 31; nays, 18; absent, 0; excused, 0.
+* [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | President signed.
 * [SB 5754](/bill/2021-22/sb/5754/) - EMTs/public health | First reading, referred to Health & Long Term Care.
-* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | Third reading, passed; yeas, 66; nays, 31; absent, 0; excused, 1.
+* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | President signed.
 * [SB 5866](/bill/2021-22/sb/5866/) - Medicaid LTSS/tribes | Delivered to Governor.
 * [SB 5923](/bill/2021-22/sb/5923/) - Temporary shelters/homeless | Senate Rules "X" file.
 * [SB 5926](/bill/2021-22/sb/5926/) - Investment services/tax | First reading, referred to Ways & Means.

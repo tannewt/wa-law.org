@@ -8,6 +8,6 @@
 * [HB 1822](/bill/2021-22/hb/1822/) - Puget Sound water quality | First reading, referred to Environment & Energy.
 * [HB 1823](/bill/2021-22/hb/1823/) - Climate funding/outdoor rec. | First reading, referred to Appropriations.
 * [HB 1824](/bill/2021-22/hb/1824/) - Outdoor recreation fees | First reading, referred to Community & Economic Development.
-* [HB 1825](/bill/2021-22/hb/1825/) - Single judge courts | Speaker signed.
+* [HB 1825](/bill/2021-22/hb/1825/) - Single judge courts | Delivered to Governor.
 * [HB 1917](/bill/2021-22/hb/1917/) - Men's commission | First reading, referred to State Government & Tribal Relations.
 * [HB 2086](/bill/2021-22/hb/2086/) - Aviation assurance funding | First reading, referred to Rural Development, Agriculture & Natural Resources.

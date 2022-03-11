@@ -6,5 +6,5 @@
 * [HB 1659](/bill/2021-22/hb/1659/) - Higher education grants | Third reading, passed; yeas, 38; nays, 10; absent, 0; excused, 1.
 * [HB 1780](/bill/2021-22/hb/1780/) - Workforce investment board | Passed to Rules Committee for second reading.
 * [HB 1850](/bill/2021-22/hb/1850/) - Data privacy | Rules Committee relieved of further consideration.  Placed on second reading.
-* [HB 2007](/bill/2021-22/hb/2007/) - Nurse educator loans | President signed.
+* [HB 2007](/bill/2021-22/hb/2007/) - Nurse educator loans | Delivered to Governor.
 * [HB 2089](/bill/2021-22/hb/2089/) - I-405 & SR 167 bond auth. | First reading, referred to Transportation.

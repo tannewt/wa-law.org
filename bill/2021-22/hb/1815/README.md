@@ -1,7 +1,7 @@
 # HB 1815 - Catalytic converter theft
 **Primary Sponsor:** [Cindy Ryu](/person/leg/cindy.ryu.md)
 
-*Status: Passed final passage; yeas, 97; nays, 0; absent, 0; excused, 1.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1815&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1815&Year=2021)
 
 Deterring catalytic converter theft.
 

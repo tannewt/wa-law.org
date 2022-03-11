@@ -3,4 +3,4 @@
 * [HB 1076](/bill/2021-22/hb/1076/) - Workplace violations/qui tam | By resolution, reintroduced and retained in present status.
 * [HB 1336](/bill/2021-22/hb/1336/) - Public telecomm. service | Effective date 7/25/2021.
 * [HB 1517](/bill/2021-22/hb/1517/) - College grant awards | By resolution, reintroduced and retained in present status.
-* [HB 1835](/bill/2021-22/hb/1835/) - Postsecondary enrollment | Passed final passage; yeas, 83; nays, 14; absent, 0; excused, 1.
+* [HB 1835](/bill/2021-22/hb/1835/) - Postsecondary enrollment | Delivered to Governor.

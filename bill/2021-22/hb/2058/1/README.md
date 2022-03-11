@@ -1,6 +1,6 @@
-# House Bill 2058
+# House Bill 2058 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2058.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2058.PL.pdf)
 ## Section 1
 > This section modifies existing section [82.29A.130](/rcw/82_excise_taxes/82.29A_leasehold_excise_tax.md). Here is the [modified chapter](rcw/82_excise_taxes/82.29A_leasehold_excise_tax.md) for context.
 
@@ -70,5 +70,13 @@ For the purposes of this subsection, "public or entertainment areas" include box
 
 
 ## Section 2
-The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
+1. This section is the tax preference performance statement for the tax preferences contained in section 1, chapter . . ., Laws of 2022 (section 1 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes this tax preference as one intended to induce certain designated behavior by taxpayers as indicated in RCW 82.32.808(2)(a).
+
+3. It is the legislature's specific public policy objective to encourage contributions to historically significant places listed on the national register of historic places or the Washington heritage register.
+
+4. If a review finds that the statewide amount of contributions made by lessees of state parks and recreation commission-owned historical sites for the purposes of maintaining or improving such sites has increased, then the legislature intends to extend the expiration date of this tax preference.
+
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
 

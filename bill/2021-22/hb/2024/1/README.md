@@ -1,6 +1,6 @@
-# House Bill 2024
+# House Bill 2024 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/2024.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2024.PL.pdf)
 ## Section 1
 > This section modifies existing section [47.01.412](/rcw/47_public_highways_and_transportation/47.01_department_of_transportation.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.01_department_of_transportation.md) for context.
 

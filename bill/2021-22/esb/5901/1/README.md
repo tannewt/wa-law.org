@@ -1,6 +1,6 @@
-# Engrossed Senate Bill 5901
+# Engrossed Senate Bill 5901 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5901.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5901.PL.pdf)
 ## Section 101
 1. The legislature finds that there are counties in the state that face additional economic development challenges beyond the challenges faced by counties located in the central Puget Sound region. The legislature further finds that these regions do not experience the same degree of job growth and investment. The legislature further finds that, in some areas, increased economic development incentives are needed to help support economic growth and that a one-size-fits-all approach to economic development does not work for the diversity of the statewide economy. For these reasons, the legislature intends to establish a tax deferral program to be effective solely in certain targeted counties. The legislature declares that this limited program serves the vital public purpose of creating employment opportunities and generally spurring economic development in these counties of the state.
 
@@ -50,15 +50,13 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 10. "Qualified buildings" means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity used for manufacturing or research and development activities, including plant offices and warehouses or other facilities for the storage of raw material or finished goods if such facilities are an essential or an integral part of a factory, mill, plant, or laboratory used for manufacturing or research and development. If a building is used partly for manufacturing or research and development and partly for other purposes, the applicable tax deferral must be determined by apportionment of the costs of construction under rules adopted by the department.
 
-11. "Qualified employment position" means a permanent full-time employee employed in the eligible investment project during the entire tax year. The term "entire tax year" means a full-time position that is filled for a period of 12 consecutive months. The term "full-time" means at least 35 hours a week, 455 hours a quarter, or 1,820 hours a year.
+11. "Qualified machinery and equipment" means all new industrial and research fixtures, equipment, and support facilities that are an integral and necessary part of a manufacturing or research and development operation. "Qualified machinery and equipment" includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control or operate the machinery.
 
-12. "Qualified machinery and equipment" means all new industrial and research fixtures, equipment, and support facilities that are an integral and necessary part of a manufacturing or research and development operation. "Qualified machinery and equipment" includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control or operate the machinery.
+12. "Qualifying county" means a county that has a population less than 650,000 at the time an application is submitted under section 103 of this act.
 
-13. "Qualifying county" means a county that has a population less than 650,000 at the time an application is submitted under section 103 of this act.
+13. "Recipient" means a person receiving a tax deferral under this chapter.
 
-14. "Recipient" means a person receiving a tax deferral under this chapter.
-
-15. "Research and development" means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, "commercial sales" excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed $1,000,000.
+14. "Research and development" means the development, refinement, testing, marketing, and commercialization of a product, service, or process before commercial sales have begun, but only when such activities are intended to ultimately result in the production of a new, different, or useful substance or article of tangible personal property for sale. As used in this subsection, "commercial sales" excludes sales of prototypes or sales for market testing if the total gross receipts from such sales of the product, service, or process do not exceed $1,000,000.
 
 
 ## Section 103
@@ -72,7 +70,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 ## Section 104
 1. The department must issue a sales and use tax deferral certificate for state and local sales and use taxes due under chapters 82.08, 82.12, and 82.14 RCW on each eligible investment project.
 
-2. The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium. The amount of state and local sales and use taxes eligible for deferral under this chapter is limited to $400,000 per eligible investment project per person.
+2. The department must keep a running total of all deferrals granted under this chapter during each fiscal biennium. The amount of state and local sales and use taxes eligible for deferral under this chapter is limited to $400,000 per person.
 
 3. This section expires July 1, 2032.
 
@@ -192,7 +190,7 @@ are eligible for an exemption in the form of a remittance. The amount of the rem
 
         i. "Construction" means the actual construction of a warehouse or grain elevator that did not exist before the construction began. **Except as provided in (b)(ii) of this subsection, "construction"** includes expansion if the expansion adds at least two hundred thousand square feet of additional space to an existing warehouse or additional storage capacity of at least one million bushels to an existing grain elevator. "Construction" does not include renovation, remodeling, or repair;
 
-        ii. **For an existing warehouse located in a qualifying county, as defined in section 102 of this act, "construction" includes expansion if the expansion adds at least 100,000 square feet of additional space to an existing warehouse;**
+        ii. **For an existing warehouse located in a qualifying county, "construction" includes expansion if the expansion adds at least 100,000 square feet of additional space to an existing warehouse;**
 
     c. "Department" means the department of revenue;
 
@@ -218,9 +216,11 @@ are eligible for an exemption in the form of a remittance. The amount of the rem
 
     k. "Third-party warehouser" means a person taxable under RCW 82.04.280(1)(d);
 
-    l. "Warehouse" means an enclosed building or structure in which finished goods are stored. A warehouse building or structure may have more than one storage room and more than one floor. Office space, lunchrooms, restrooms, and other space within the warehouse and necessary for the operation of the warehouse are considered part of the warehouse as are loading docks and other such space attached to the building and used for handling of finished goods. Landscaping and parking lots are not considered part of the warehouse. A storage yard is not a warehouse, nor is a building in which manufacturing takes place; and
+    l. **"Qualifying county" means a county that has a population less than 650,000 at the time an application is submitted under this section and RCW 82.12.820;**
 
-    m. "Wholesaler" means a person who makes "sales at wholesale" as defined in chapter 82.04 RCW of tangible personal property, but "wholesaler" does not include a person who makes sales exempt under RCW 82.04.330.
+    m. "Warehouse" means an enclosed building or structure in which finished goods are stored. A warehouse building or structure may have more than one storage room and more than one floor. Office space, lunchrooms, restrooms, and other space within the warehouse and necessary for the operation of the warehouse are considered part of the warehouse as are loading docks and other such space attached to the building and used for handling of finished goods. Landscaping and parking lots are not considered part of the warehouse. A storage yard is not a warehouse, nor is a building in which manufacturing takes place; and
+
+    n. "Wholesaler" means a person who makes "sales at wholesale" as defined in chapter 82.04 RCW of tangible personal property, but "wholesaler" does not include a person who makes sales exempt under RCW 82.04.330.
 
 3. [Empty]
 
@@ -230,7 +230,7 @@ are eligible for an exemption in the form of a remittance. The amount of the rem
 
     c. The department must on a quarterly basis remit exempted amounts to qualifying persons who submitted applications during the previous quarter.
 
-    d. **For warehouses located in a qualifying county, as defined in section 102 of this act, the square footage requirement is 100,000 square feet or more.**
+    d. **For warehouses located in a qualifying county, the square footage requirement is 100,000 square feet or more.**
 
 4. Warehouses, grain elevators, and material-handling equipment and racking equipment for which an exemption, credit, or deferral has been or is being received under chapter 82.60, 82.62, or 82.63 RCW or RCW 82.08.02565 or 82.12.02565 are not eligible for any remittance under this section. Warehouses and grain elevators upon which construction was initiated before May 20, 1997, are not eligible for a remittance under this section.
 
@@ -256,7 +256,7 @@ are eligible for an exemption in the form of a remittance. The amount of the rem
 
     c. The department shall on a quarterly basis remit or credit exempted amounts to qualifying persons who submitted applications during the previous quarter.
 
-    d. **For warehouses located in a qualifying county, as defined in section 102 of this act, the square footage requirement is 100,000 square feet or more.**
+    d. **For warehouses located in a qualifying county, the square footage requirement is 100,000 square feet or more.**
 
 3. Warehouse, grain elevators, and material-handling equipment and racking equipment for which an exemption, credit, or deferral has been or is being received under chapter 82.60, 82.62, or 82.63 RCW or RCW 82.08.02565 or 82.12.02565 are not eligible for any remittance under this section. Materials incorporated in warehouses and grain elevators upon which construction was initiated prior to May 20, 1997, are not eligible for a remittance under this section.
 
@@ -268,6 +268,10 @@ are eligible for an exemption in the form of a remittance. The amount of the rem
 
 
 ## Section 203
+A person claiming an exemption from state tax in the form of a remittance under RCW 82.08.820 or 82.12.820 for a warehouse or distribution center must file the annual tax preference performance report under RCW 82.32.534 beginning in the first calendar year following the year the warehouse, distribution center, or grain elevator is operationally complete and for the next two subsequent years.
+
+
+## Section 204
 1. This section is the tax preference performance statement for the warehousing, distribution, and grain elevator sales and use tax exemptions in sections 201 and 202, chapter . . ., Laws of 2022 (sections 201 and 202 of this act). The performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
 
 2. The legislature categorizes this tax preference as one intended to accomplish the general purposes indicated in RCW 82.32.808(2) (a) and (c) to induce certain designated behavior by businesses and to create jobs.
@@ -276,5 +280,5 @@ are eligible for an exemption in the form of a remittance. The amount of the rem
 
 4. To measure the effectiveness of these exemptions in achieving the specific public policy objectives described in subsection (3) of this section, the joint legislative audit and review committee must evaluate the changes in the number of employment positions in the warehousing and distribution industry sector in the targeted counties and changes to the tax base as a result of increased warehousing and distribution activity.
 
-5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to the remittance data prepared by the department of revenue and the annual tax preference performance report submitted by the beneficiary of the tax preference under RCW 82.32.534. A person claiming an exemption from state tax in the form of a remittance under RCW 82.08.820 or 82.12.820 for a warehouse or distribution center must file the annual tax preference performance report under RCW 82.32.534 beginning in the first calendar year following the year the warehouse or distribution center is operationally complete and for the next two subsequent years.
+5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to the remittance data prepared by the department of revenue and the annual tax preference performance report submitted by the beneficiary of the tax preference under RCW 82.32.534.
 

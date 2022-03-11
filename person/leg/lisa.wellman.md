@@ -19,7 +19,7 @@
 * [SB 5580](/bill/2021-22/sb/5580/) - Public works board/broadband | Senate Rules "X" file.
 * [SB 5581](/bill/2021-22/sb/5581/) - Pupil transp. allocations | Referred to Appropriations.
 * [SB 5595](/bill/2021-22/sb/5595/) - Schools/support funding | Senate Rules "X" file.
-* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | President signed.
+* [SB 5657](/bill/2021-22/sb/5657/) - Juvenile instit./comp sci. | Speaker signed.
 * [SB 5659](/bill/2021-22/sb/5659/) - Building material standards | First reading, referred to State Government & Elections.
 * [SB 5715](/bill/2021-22/sb/5715/) - Definition of broadband | Delivered to Governor.
 * [SB 5760](/bill/2021-22/sb/5760/) - Motion picture program | Placed on second reading by Rules Committee.

@@ -9,4 +9,4 @@
 * [HB 1919](/bill/2021-22/hb/1919/) - Public disclosure | Returned to Rules Committee for second reading.
 * [HB 1953](/bill/2021-22/hb/1953/) - Sensitive voter information | Delivered to Governor.
 * [HB 1997](/bill/2021-22/hb/1997/) - Productivity board | Referred to Appropriations.
-* [HB 2057](/bill/2021-22/hb/2057/) - State patrol workforce | Speaker signed.
+* [HB 2057](/bill/2021-22/hb/2057/) - State patrol workforce | Delivered to Governor.

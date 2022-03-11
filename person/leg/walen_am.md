@@ -13,7 +13,7 @@
 * [HB 1525](/bill/2021-22/hb/1525/) - Enforcement of judgments | Effective date 7/25/2021.
 * [HB 1615](/bill/2021-22/hb/1615/) - Cosmetics tested on animals | Passed to Rules Committee for second reading.
 * [HB 1674](/bill/2021-22/hb/1674/) - Sports wagering | First reading, referred to Commerce & Gaming.
-* [HB 1689](/bill/2021-22/hb/1689/) - Biomarker testing prior auth | Speaker signed.
+* [HB 1689](/bill/2021-22/hb/1689/) - Biomarker testing prior auth | Delivered to Governor.
 * [HB 1718](/bill/2021-22/hb/1718/) - Fur products | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1783](/bill/2021-22/hb/1783/) - Freight transporters/L&I | First reading, referred to Labor & Workplace Standards.
 * [HB 1841](/bill/2021-22/hb/1841/) - ADU rental/property tax | Referred to Ways & Means.

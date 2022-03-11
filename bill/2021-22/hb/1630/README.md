@@ -1,7 +1,7 @@
 # HB 1630 - Weapons/certain meetings
 **Primary Sponsor:** [Tana Senn](/person/leg/tana.senn.md)
 
-*Status: Speaker signed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1630&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1630&Year=2021)
 
 Establishing restrictions on the possession of weapons in certain locations.
 

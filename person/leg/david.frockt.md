@@ -11,8 +11,8 @@
 * [SB 5377](/bill/2021-22/sb/5377/) - Standardized health plans | Effective date 7/25/2021.
 * [SB 5530](/bill/2021-22/sb/5530/) - Building for the arts | Senate Rules "X" file.
 * [SB 5586](/bill/2021-22/sb/5586/) - Broadband loans & grants | First reading, referred to Business, Financial Services & Trade.
-* [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | President signed.
-* [SB 5651](/bill/2021-22/sb/5651/) - Capital budget, supplemental | President signed.
+* [SB 5610](/bill/2021-22/sb/5610/) - Rx drug cost sharing | Speaker signed.
+* [SB 5651](/bill/2021-22/sb/5651/) - Capital budget, supplemental | Speaker signed.
 * [SB 5736](/bill/2021-22/sb/5736/) - Minors/behavioral health | Delivered to Governor.
 * [SB 5817](/bill/2021-22/sb/5817/) - Synthetic media in campaigns | Rules Committee relieved of further consideration.  Placed on second reading.
 * [SB 5843](/bill/2021-22/sb/5843/) - False election statements | Senate Rules "X" file.

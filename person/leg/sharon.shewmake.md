@@ -15,9 +15,9 @@
 * [HB 1661](/bill/2021-22/hb/1661/) - Kelp & eelgrass conservation | Referred to Appropriations.
 * [HB 1698](/bill/2021-22/hb/1698/) - Latex gloves/food handling | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 1710](/bill/2021-22/hb/1710/) - Cannabis commission | Referred to Appropriations.
-* [HB 1814](/bill/2021-22/hb/1814/) - Community solar projects | Minority; without recommendation.
+* [HB 1814](/bill/2021-22/hb/1814/) - Community solar projects | Delivered to Governor.
 * [HB 1836](/bill/2021-22/hb/1836/) - Scholarships/disadv. groups | First reading, referred to Civil Rights & Judiciary.
 * [HB 1926](/bill/2021-22/hb/1926/) - Presidential primary RCV | First reading, referred to State Government & Tribal Relations.
-* [HB 1988](/bill/2021-22/hb/1988/) - Clean tech. tax deferrals | Minority; do not pass.
+* [HB 1988](/bill/2021-22/hb/1988/) - Clean tech. tax deferrals | Delivered to Governor.
 * [HB 2098](/bill/2021-22/hb/2098/) - Home rehab. loan program | Passed to Rules Committee for second reading.
 * [HB 2136](/bill/2021-22/hb/2136/) - Rural commission | First reading, referred to State Government & Tribal Relations.

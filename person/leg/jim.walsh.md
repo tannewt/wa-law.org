@@ -28,3 +28,4 @@
 * [HB 2110](/bill/2021-22/hb/2110/) - Fish & wildlife enforcement | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 2125](/bill/2021-22/hb/2125/) - State property tax/valuation | First reading, referred to Finance.
 * [HB 2126](/bill/2021-22/hb/2126/) - Property tax reduction | First reading, referred to Finance.
+* [HB 2138](/bill/2021-22/hb/2138/) - Fuel licensees tax rate | First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).
