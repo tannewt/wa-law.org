@@ -7,5 +7,5 @@
 * [HB 1724](/bill/2021-22/hb/1724/) - Supportive housing resources | Delivered to Governor.
 * [HB 1862](/bill/2021-22/hb/1862/) - Health care facility fees | First reading, referred to Appropriations.
 * [HB 1863](/bill/2021-22/hb/1863/) - Prescribing psychologists | First reading, referred to Health Care & Wellness.
-* [HB 1918](/bill/2021-22/hb/1918/) - Power equipment emissions | First reading, referred to Ways & Means.
+* [HB 1918](/bill/2021-22/hb/1918/) - Power equipment emissions | By resolution, returned to House Rules Committee for third reading.
 * [HB 2083](/bill/2021-22/hb/2083/) - Long-term care consent | First reading, referred to Civil Rights & Judiciary.

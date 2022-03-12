@@ -7,3 +7,4 @@ Allowing fire districts and regional fire authorities to carry out certain treas
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

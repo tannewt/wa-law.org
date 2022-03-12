@@ -6,7 +6,7 @@
 * [SB 5334](/bill/2021-22/sb/5334/) - Levy authorization info. | By resolution, reintroduced and retained in present status.
 * [SB 5409](/bill/2021-22/sb/5409/) - Insurance use of credit info | By resolution, reintroduced and retained in present status.
 * [SB 5437](/bill/2021-22/sb/5437/) - Dept. of Corrections systems | By resolution, reintroduced and retained in present status.
-* [SB 5514](/bill/2021-22/sb/5514/) - County legislative meetings | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5514](/bill/2021-22/sb/5514/) - County legislative meetings | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5515](/bill/2021-22/sb/5515/) - Hospitality employment/B&O | Referred to Ways & Means.
 * [SB 5519](/bill/2021-22/sb/5519/) - Accountancy/inactive license | Delivered to Governor.
 * [SB 5827](/bill/2021-22/sb/5827/) - Dept. of Corrections systems | Senate Rules "X" file.

@@ -7,3 +7,4 @@ Designating the Washington state leadership board a trustee of the state of Wash
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

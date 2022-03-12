@@ -11,6 +11,6 @@
 * [HB 1714](/bill/2021-22/hb/1714/) - Impact fee deferrals | Referred to Rules 2 Review.
 * [HB 1768](/bill/2021-22/hb/1768/) - Energy conservation projects | Delivered to Governor.
 * [HB 1769](/bill/2021-22/hb/1769/) - Community municipal corps | Delivered to Governor.
-* [HB 1770](/bill/2021-22/hb/1770/) - Energy codes | Placed on second reading by Rules Committee.
-* [HB 1978](/bill/2021-22/hb/1978/) - Shoreline master programs | Passed to Rules Committee for second reading.
+* [HB 1770](/bill/2021-22/hb/1770/) - Energy codes | By resolution, returned to House Rules Committee for third reading.
+* [HB 1978](/bill/2021-22/hb/1978/) - Shoreline master programs | By resolution, returned to House Rules Committee for third reading.
 * [EHB 1990](/bill/2021-22/ehb/1990/) - SR 167 & I-405 tax deferral | Delivered to Governor.

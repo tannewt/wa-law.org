@@ -7,7 +7,7 @@
 * [HB 1441](/bill/2021-22/hb/1441/) - Prospective tenants/COVID-19 | House Rules "X" file.
 * [HB 1443](/bill/2021-22/hb/1443/) - Cannabis industry/equity | Effective date 7/25/2021.
 * [HB 1617](/bill/2021-22/hb/1617/) - State and school holidays | Delivered to Governor.
-* [HB 1827](/bill/2021-22/hb/1827/) - Community reinvestment | Placed on second reading.
+* [HB 1827](/bill/2021-22/hb/1827/) - Community reinvestment | By resolution, returned to House Rules Committee for third reading.
 * [HB 1951](/bill/2021-22/hb/1951/) - Seller disclosure statements | Referred to Rules 2 Review.
 * [HB 1987](/bill/2021-22/hb/1987/) - Housing dept. task force | First reading, referred to Housing, Human Services & Veterans.
 * [HB 2016](/bill/2021-22/hb/2016/) - Sex trafficking/education | First reading, referred to Education.

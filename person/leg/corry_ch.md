@@ -6,5 +6,5 @@
 * [HB 1605](/bill/2021-22/hb/1605/) - Vehicle lane departures | Returned to Rules Committee for second reading.
 * [HB 1683](/bill/2021-22/hb/1683/) - Current use classification | First reading, referred to Finance.
 * [HB 1772](/bill/2021-22/hb/1772/) - Gubernatorial proclamations | First reading, referred to State Government & Tribal Relations.
-* [EHB 1964](/bill/2021-22/ehb/1964/) - Alternative energy decomm. | First reading, referred to Environment, Energy & Technology.
+* [EHB 1964](/bill/2021-22/ehb/1964/) - Alternative energy decomm. | By resolution, returned to House Rules Committee for third reading.
 * [HB 1976](/bill/2021-22/hb/1976/) - Schools/eating outside | First reading, referred to Education.

@@ -1,6 +1,6 @@
-# Senate Bill 5624
+# Senate Bill 5624 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5624.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5624.PL.pdf)
 ## Section 2
 > This section modifies existing section [16.57.460](/rcw/16_animals_and_livestock/16.57_identification_of_livestock.md). Here is the [modified chapter](rcw/16_animals_and_livestock/16.57_identification_of_livestock.md) for context.
 

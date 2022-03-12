@@ -13,10 +13,10 @@
 * [SB 5451](/bill/2021-22/sb/5451/) - Operating budget | By resolution, reintroduced and retained in present status.
 * [SB 5463](/bill/2021-22/sb/5463/) - Residential prop valuation | By resolution, reintroduced and retained in present status.
 * [SB 5464](/bill/2021-22/sb/5464/) - In-person learning option | By resolution, reintroduced and retained in present status.
-* [SB 5607](/bill/2021-22/sb/5607/) - Homeless census/facilities | Referred to Rules 2 Review.
+* [SB 5607](/bill/2021-22/sb/5607/) - Homeless census/facilities | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5608](/bill/2021-22/sb/5608/) - Park and land public access | First reading, referred to Agriculture, Water, Natural Resources & Parks.
-* [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | Speaker signed.
-* [SB 5620](/bill/2021-22/sb/5620/) - Medicaid expenditures | First reading, referred to Health Care & Wellness.
+* [SB 5612](/bill/2021-22/sb/5612/) - DV sentencing statements | Delivered to Governor.
+* [SB 5620](/bill/2021-22/sb/5620/) - Medicaid expenditures | By resolution, returned to Senate Rules Committee for third reading.
 * [SJR 8206](/bill/2021-22/sjr/8206/) - Homestead property tax exem. | By resolution, reintroduced and retained in present status.
 * [SB 5737](/bill/2021-22/sb/5737/) - Long-term care/pending exem. | First reading, referred to Health & Long Term Care.
 * [SB 5769](/bill/2021-22/sb/5769/) - State tax system | First reading, referred to Business, Financial Services & Trade.

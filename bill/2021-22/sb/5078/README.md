@@ -9,3 +9,4 @@ Addressing firearm safety measures to increase public safety. (REVISED FOR ENGRO
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Bill as Passed Legislature](S.PL/)

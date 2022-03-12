@@ -7,3 +7,4 @@ Reinstating a property tax exemption for property owned by certain nonprofit org
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

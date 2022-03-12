@@ -13,11 +13,11 @@
 * [SB 5412](/bill/2021-22/sb/5412/) - Supportive relationships | On motion, referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5504](/bill/2021-22/sb/5504/) - Discover pass free days | Delivered to Governor.
 * [SB 5624](/bill/2021-22/sb/5624/) - Livestock identification | Delivered to Governor.
-* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | Referred to Appropriations.
+* [SB 5746](/bill/2021-22/sb/5746/) - Drought preparedness | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5792](/bill/2021-22/sb/5792/) - Tax incentives | First reading, referred to Business, Financial Services & Trade.
-* [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | First reading, referred to Health Care & Wellness.
-* [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | Rules Committee relieved of further consideration.  Placed on second reading.
-* [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | President signed.
+* [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | By resolution, returned to Senate Rules Committee for third reading.
+* [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | By resolution, returned to Senate Rules Committee for third reading.
+* [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | Delivered to Governor.
 * [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Delivered to Governor.
-* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | First reading, referred to Civil Rights & Judiciary.
+* [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Delivered to Governor.

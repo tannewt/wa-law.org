@@ -1,3 +1,3 @@
-# Senate Concurrent Resolution 8406
+# Senate Concurrent Resolution 8406 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Concurrent%20Resolutions/8406.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/8406.PL.pdf)

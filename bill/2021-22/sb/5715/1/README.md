@@ -1,6 +1,6 @@
-# Senate Bill 5715
+# Senate Bill 5715 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5715.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5715.PL.pdf)
 ## Section 1
 The legislature recognizes the statewide broadband office's objective of scalability while appreciating that a digital economy will continue to drive higher and higher speeds. Therefore, the legislature intends to move towards adequate connectivity in terms of the needs of economic development, education, and telehealth services.
 

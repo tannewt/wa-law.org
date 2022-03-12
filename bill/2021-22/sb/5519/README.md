@@ -7,3 +7,4 @@ Replacing an inactive certificate status with an inactive license designation.
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

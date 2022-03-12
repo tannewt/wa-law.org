@@ -9,16 +9,16 @@
 * [SB 5295](/bill/2021-22/sb/5295/) - Gas & electrical rates | Effective date 7/25/2021.
 * [SB 5432](/bill/2021-22/sb/5432/) - Cybersecurity/state gov. | Effective date 7/25/2021.
 * [SB 5543](/bill/2021-22/sb/5543/) - Landscaping equipment | Referred to Ways & Means.
-* [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Speaker signed.
-* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | President signed.
+* [SB 5634](/bill/2021-22/sb/5634/) - UTC regulatory fees | Delivered to Governor.
+* [SB 5714](/bill/2021-22/sb/5714/) - Solar canopies tax deferral | Delivered to Governor.
 * [SB 5813](/bill/2021-22/sb/5813/) - Data privacy | First reading, referred to Environment, Energy & Technology.
 * [SB 5820](/bill/2021-22/sb/5820/) - Superintendent, appointing | First reading, referred to Early Learning & K-12 Education.
 * [SB 5833](/bill/2021-22/sb/5833/) - School director compensation | First reading, referred to Early Learning & K-12 Education.
 * [SB 5834](/bill/2021-22/sb/5834/) - State gov. tech. policies | Referred to Ways & Means.
-* [SB 5842](/bill/2021-22/sb/5842/) - Climate change | Speaker signed.
-* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | Speaker signed.
+* [SB 5842](/bill/2021-22/sb/5842/) - Climate change | Delivered to Governor.
+* [SB 5910](/bill/2021-22/sb/5910/) - Hydrogen | Delivered to Governor.
 * [SB 5952](/bill/2021-22/sb/5952/) - Drug warehousing/B&O tax | First reading, referred to Ways & Means.
 * [SB 5967](/bill/2021-22/sb/5967/) - Financial instit./climate | First reading, referred to Ways & Means.
 * [SB 5977](/bill/2021-22/sb/5977/) - Legislative chamber skylight | First reading, referred to Ways & Means.
-* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | President signed.
+* [SB 5980](/bill/2021-22/sb/5980/) - B&O tax credits | Delivered to Governor.
 * [SJR 8212](/bill/2021-22/sjr/8212/) - Superintendent | First reading, referred to Early Learning & K-12 Education.

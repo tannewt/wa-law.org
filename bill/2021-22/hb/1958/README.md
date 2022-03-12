@@ -1,7 +1,7 @@
 # HB 1958 - Shovel-ready site cert.
 **Primary Sponsor:** [April Berg](/person/leg/april.berg.md)
 
-*Status: Placed on second reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1958&Year=2021)
+*Status: By resolution, returned to House Rules Committee for third reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1958&Year=2021)
 
 Accelerating rural job growth and promoting economic recovery across Washington through a shovel-ready site certification program and grants.
 

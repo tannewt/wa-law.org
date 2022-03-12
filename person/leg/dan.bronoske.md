@@ -7,10 +7,10 @@
 * [HB 1369](/bill/2021-22/hb/1369/) - Wage liens | By resolution, reintroduced and retained in present status.
 * [HB 1487](/bill/2021-22/hb/1487/) - Unemployment ins. system | House Rules "X" file.
 * [HB 1602](/bill/2021-22/hb/1602/) - Tacoma Narrows project | First reading, referred to Appropriations.
-* [HB 1625](/bill/2021-22/hb/1625/) - Space force reserve members | Passed to Rules Committee for second reading.
+* [HB 1625](/bill/2021-22/hb/1625/) - Space force reserve members | By resolution, returned to House Rules Committee for third reading.
 * [HB 1719](/bill/2021-22/hb/1719/) - Military equipment/law enf. | Effective date 3/4/2022.
 * [HB 1763](/bill/2021-22/hb/1763/) - Workers' comp. exam rights | Referred to Rules 2 Review.
 * [HB 1831](/bill/2021-22/hb/1831/) - Electric vehicle equipment | Referred to Rules 2 Review.
-* [EHB 1837](/bill/2021-22/ehb/1837/) - Musculoskeletal injuries | Placed on second reading by Rules Committee.
+* [EHB 1837](/bill/2021-22/ehb/1837/) - Musculoskeletal injuries | By resolution, returned to House Rules Committee for third reading.
 * [HB 1911](/bill/2021-22/hb/1911/) - Insurance/plan 2 members | Returned to Rules Committee for second reading.
 * [HB 2045](/bill/2021-22/hb/2045/) - State hospital release loc. | First reading, referred to Civil Rights & Judiciary.

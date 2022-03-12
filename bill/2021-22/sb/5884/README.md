@@ -1,7 +1,7 @@
 # SB 5884 - Behavioral health support
 **Primary Sponsor:** [Yasmin Trudeau](/person/leg/yasmin.trudeau.md)
 
-*Status: First reading, referred to Health Care & Wellness.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5884&Year=2021)
+*Status: By resolution, returned to Senate Rules Committee for third reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5884&Year=2021)
 
 Establishing behavioral health support specialists.
 

@@ -10,8 +10,8 @@
 * [SB 5573](/bill/2021-22/sb/5573/) - Drug offender sentencing alt | Referred to Ways & Means.
 * [SB 5575](/bill/2021-22/sb/5575/) - Snohomish county/judges | Delivered to Governor.
 * [SB 5615](/bill/2021-22/sb/5615/) - State sport | Delivered to Governor.
-* [SB 5629](/bill/2021-22/sb/5629/) - Disposition of remains | Referred to Rules 2 Review.
-* [SB 5741](/bill/2021-22/sb/5741/) - Patches pal license plates | President signed.
+* [SB 5629](/bill/2021-22/sb/5629/) - Disposition of remains | By resolution, returned to Senate Rules Committee for third reading.
+* [SB 5741](/bill/2021-22/sb/5741/) - Patches pal license plates | Delivered to Governor.
 * [SB 5869](/bill/2021-22/sb/5869/) - Traffic cameras/image use | Senate Rules "X" file.
 * [SB 5881](/bill/2021-22/sb/5881/) - Doxing | First reading, referred to Law & Justice.
 * [SB 5982](/bill/2021-22/sb/5982/) - Alcohol concentration | First reading, referred to Law & Justice.

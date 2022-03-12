@@ -13,7 +13,7 @@
 * [HB 1892](/bill/2021-22/hb/1892/) - Drug diversion database | First reading, referred to Public Safety.
 * [HB 1922](/bill/2021-22/hb/1922/) - Fentanyl possession | First reading, referred to Public Safety.
 * [HB 1955](/bill/2021-22/hb/1955/) - Dependency/education | Delivered to Governor.
-* [HB 1957](/bill/2021-22/hb/1957/) - Disaster recovery assistance | Passed to Rules Committee for second reading.
+* [HB 1957](/bill/2021-22/hb/1957/) - Disaster recovery assistance | By resolution, returned to House Rules Committee for third reading.
 * [HB 2011](/bill/2021-22/hb/2011/) - Skill center funding | First reading, referred to Appropriations.
 * [HB 2014](/bill/2021-22/hb/2014/) - Outdoor school | First reading, referred to Education.
 * [HB 2051](/bill/2021-22/hb/2051/) - Agricultural disaster assist | Delivered to Governor.

@@ -1,7 +1,7 @@
 # SB 5662 - Right-of-way camping/housing
 **Primary Sponsor:** [Patty Kuderer](/person/leg/patty.kuderer.md)
 
-*Status: Referred to Appropriations.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5662&Year=2021)
+*Status: By resolution, returned to Senate Rules Committee for third reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5662&Year=2021)
 
 Concerning intergovernmental coordination to address transitioning persons encamped on state public rights-of-way to permanent housing solutions.
 

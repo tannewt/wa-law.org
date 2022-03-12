@@ -13,21 +13,21 @@
 * [SB 5397](/bill/2021-22/sb/5397/) - Access to behavioral health | By resolution, reintroduced and retained in present status.
 * [SB 5399](/bill/2021-22/sb/5399/) - Universal health care comm'n | Effective date 7/25/2021.
 * [SB 5431](/bill/2021-22/sb/5431/) - Leg. internship scholarship | Effective date 7/25/2021.
-* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows toll bridge | President signed.
+* [SB 5488](/bill/2021-22/sb/5488/) - Tacoma Narrows toll bridge | Delivered to Governor.
 * [SB 5551](/bill/2021-22/sb/5551/) - HIV antiviral drugs/medicaid | First reading, referred to Health & Long Term Care.
 * [SB 5614](/bill/2021-22/sb/5614/) - National guard ed. grants | Senate Rules "X" file.
 * [SB 5622](/bill/2021-22/sb/5622/) - Motorcycles on laned roads | First reading, referred to Transportation.
 * [SJR 8204](/bill/2021-22/sjr/8204/) - School district bond voting | By resolution, reintroduced and retained in present status.
 * [SB 5688](/bill/2021-22/sb/5688/) - Health care marketplace | First reading, referred to Law & Justice.
 * [SB 5704](/bill/2021-22/sb/5704/) - ARNP reimbursement rate | Referred to Ways & Means.
-* [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | First reading, referred to Appropriations.
+* [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Senate Rules "X" file.
-* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Speaker signed.
+* [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Delivered to Governor.
 * [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Delivered to Governor.
-* [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Speaker signed.
+* [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Delivered to Governor.
 * [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Delivered to Governor.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.
-* [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | Speaker signed.
+* [SB 5789](/bill/2021-22/sb/5789/) - Innovation challenge program | Delivered to Governor.
 * [SB 5854](/bill/2021-22/sb/5854/) - Faculty duties/ethics | Delivered to Governor.
-* [ESB 5901](/bill/2021-22/esb/5901/) - Economic dev. tax incentives | President signed.
-* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | Held on second reading.
+* [ESB 5901](/bill/2021-22/esb/5901/) - Economic dev. tax incentives | Delivered to Governor.
+* [SB 5909](/bill/2021-22/sb/5909/) - Gubernatorial emerg. powers | By resolution, returned to Senate Rules Committee for third reading.

@@ -1,7 +1,7 @@
 # SB 5620 - Medicaid expenditures
 **Primary Sponsor:** [Lynda Wilson](/person/leg/lynda.wilson.md)
 
-*Status: First reading, referred to Health Care & Wellness.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5620&Year=2021)
+*Status: By resolution, returned to Senate Rules Committee for third reading.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5620&Year=2021)
 
 Concerning medicaid expenditures.
 

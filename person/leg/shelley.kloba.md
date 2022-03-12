@@ -3,7 +3,7 @@
 * [HB 1019](/bill/2021-22/hb/1019/) - Residential marijuana ag. | By resolution, reintroduced and retained in present status.
 * [HB 1035](/bill/2021-22/hb/1035/) - Rent relief & housing | By resolution, reintroduced and retained in present status.
 * [HB 1085](/bill/2021-22/hb/1085/) - Students w/seizure disorders | Effective date 7/25/2021.
-* [HB 1105](/bill/2021-22/hb/1105/) - Medical use of cannabis | Passed to Rules Committee for second reading.
+* [HB 1105](/bill/2021-22/hb/1105/) - Medical use of cannabis | By resolution, returned to House Rules Committee for third reading.
 * [HB 1303](/bill/2021-22/hb/1303/) - Personal information sale | By resolution, reintroduced and retained in present status.
 * [HB 1388](/bill/2021-22/hb/1388/) - Motor vehicle sales | By resolution, reintroduced and retained in present status.
 * [HB 1430](/bill/2021-22/hb/1430/) - State upland leases | Delivered to Governor.

@@ -1,6 +1,6 @@
 # Sam Hunt
 ## Bills
-* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | Speaker signed.
+* [SB 5002](/bill/2021-22/sb/5002/) - State auditor | Delivered to Governor.
 * [SB 5013](/bill/2021-22/sb/5013/) - Local redistricting deadline | Effective date 5/3/2021*.
 * [SB 5014](/bill/2021-22/sb/5014/) - Odd-numbered year ballots | By resolution, reintroduced and retained in present status.
 * [SB 5015](/bill/2021-22/sb/5015/) - Fraudulent ballot drop boxes | Effective date 7/25/2021.

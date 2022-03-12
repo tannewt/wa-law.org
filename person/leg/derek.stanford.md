@@ -14,7 +14,7 @@
 * [SB 5379](/bill/2021-22/sb/5379/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
 * [SB 5408](/bill/2021-22/sb/5408/) - Homestead exemption | Effective date 5/12/2021.
 * [SB 5410](/bill/2021-22/sb/5410/) - Enhanced raffle procedures | By resolution, reintroduced and retained in present status.
-* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | Rules Committee relieved of further consideration.  Placed on second reading.
+* [SB 5411](/bill/2021-22/sb/5411/) - Northern spotted owl forests | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5419](/bill/2021-22/sb/5419/) - Statuary hall/Billy Frank Jr | By resolution, reintroduced and retained in present status.
 * [SB 5425](/bill/2021-22/sb/5425/) - Unempl. extended benefits | Effective date 4/16/2021.
 * [SB 5571](/bill/2021-22/sb/5571/) - 911 emergency communications | First reading, referred to State Government & Elections.

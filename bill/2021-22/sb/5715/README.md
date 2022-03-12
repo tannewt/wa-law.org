@@ -7,3 +7,4 @@ Modifying the definition of broadband or broadband service.
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

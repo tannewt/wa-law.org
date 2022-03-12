@@ -7,3 +7,4 @@ Concerning ethical performance of faculty duties.
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

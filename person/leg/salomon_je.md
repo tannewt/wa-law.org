@@ -14,8 +14,8 @@
 * [SB 5660](/bill/2021-22/sb/5660/) - Psilocybin | First reading, referred to Health & Long Term Care.
 * [SB 5667](/bill/2021-22/sb/5667/) - COVID-19 vaccination docs. | Senate Rules "X" file.
 * [SB 5677](/bill/2021-22/sb/5677/) - Law enf. serious misconduct | First reading, referred to Law & Justice.
-* [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Speaker signed.
+* [SB 5818](/bill/2021-22/sb/5818/) - Housing/SEPA & GMA | Delivered to Governor.
 * [SB 5837](/bill/2021-22/sb/5837/) - Retail carryout bags | First reading, referred to Environment, Energy & Technology.
-* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | Referred to Rules 2 Review.
-* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | Referred to Appropriations.
+* [SB 5880](/bill/2021-22/sb/5880/) - Fire sprinkler contractors | By resolution, returned to Senate Rules Committee for third reading.
+* [SB 5885](/bill/2021-22/sb/5885/) - Marine shoreline habitat | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5976](/bill/2021-22/sb/5976/) - Substance use intervention | First reading, referred to Law & Justice.

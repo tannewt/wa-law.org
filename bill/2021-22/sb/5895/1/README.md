@@ -1,6 +1,6 @@
-# Senate Bill 5895
+# Senate Bill 5895 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5895.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5895.PL.pdf)
 ## Section 1
 The legislature finds that:
 

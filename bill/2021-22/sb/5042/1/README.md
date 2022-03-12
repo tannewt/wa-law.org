@@ -1,6 +1,6 @@
-# Senate Bill 5042
+# Senate Bill 5042 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5042.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5042.PL.pdf)
 ## Section 1
 The legislature finds that climate change is one of the greatest challenges facing our state and the world today, an existential crisis with major negative impacts on environmental and human health. The legislature further finds that compact and responsibly planned development of residential and public facilities, intended under the growth management act, mitigates climate change through the efficient use of energy resources and the corresponding decrease in greenhouse gas production. This dense development and the concentration of growth in urban areas also prevents sprawl, lessening development's impact on natural resources, ecosystems, and habitats.
 

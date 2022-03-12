@@ -1,3 +1,3 @@
-# Senate Concurrent Resolution 8407
+# Senate Concurrent Resolution 8407 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Concurrent%20Resolutions/8407.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/8407.PL.pdf)

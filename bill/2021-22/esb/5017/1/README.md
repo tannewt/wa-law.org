@@ -1,6 +1,6 @@
-# Engrossed Senate Bill 5017
+# Engrossed Senate Bill 5017 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5017.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5017.PL.pdf)
 ## Section 1
 > This section modifies existing section [28A.335.190](/rcw/28A_common_school_provisions/28A.335_school_districts_property.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.335_school_districts_property.md) for context.
 

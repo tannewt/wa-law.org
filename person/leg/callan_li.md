@@ -4,7 +4,7 @@
 * [HB 1325](/bill/2021-22/hb/1325/) - Behavioral health/youth | Effective date 7/25/2021.
 * [HB 1370](/bill/2021-22/hb/1370/) - Early learning fac. grants | Effective date 7/25/2021.
 * [HB 1373](/bill/2021-22/hb/1373/) - Behavioral health/students | Effective date 7/25/2021.
-* [HB 1759](/bill/2021-22/hb/1759/) - School websites/drug info. | Placed on second reading.
+* [HB 1759](/bill/2021-22/hb/1759/) - School websites/drug info. | By resolution, returned to House Rules Committee for third reading.
 * [HB 1779](/bill/2021-22/hb/1779/) - Surgical smoke | Delivered to Governor.
 * [HB 1803](/bill/2021-22/hb/1803/) - School director compensation | Referred to Rules 2 Review.
 * [HB 1834](/bill/2021-22/hb/1834/) - Student absences/mental hlth | Delivered to Governor.

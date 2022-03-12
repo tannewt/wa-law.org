@@ -8,3 +8,4 @@ Concerning technical changes to the commercial property assessed clean energy an
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Bill as Passed Legislature](S.PL/)

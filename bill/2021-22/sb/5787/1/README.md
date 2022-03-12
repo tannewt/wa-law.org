@@ -1,6 +1,6 @@
-# Senate Bill 5787
+# Senate Bill 5787 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5787.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5787.PL.pdf)
 ## Section 1
 > This section modifies existing section [43.86A.030](/rcw/43_state_government—executive/43.086A_surplus_funds—investment_program.md). Here is the [modified chapter](rcw/43_state_government—executive/43.086A_surplus_funds—investment_program.md) for context.
 

@@ -7,8 +7,8 @@
 * [HB 1745](/bill/2021-22/hb/1745/) - L&I penalty discretion | First reading, referred to Labor & Workplace Standards.
 * [HB 1761](/bill/2021-22/hb/1761/) - Opioid reversal by ED nurses | Delivered to Governor.
 * [HB 1777](/bill/2021-22/hb/1777/) - Self-directed care | First reading, referred to Health Care & Wellness.
-* [HB 1813](/bill/2021-22/hb/1813/) - Pharmacy choice | First reading, referred to Health & Long Term Care.
+* [HB 1813](/bill/2021-22/hb/1813/) - Pharmacy choice | By resolution, returned to House Rules Committee for third reading.
 * [HB 1821](/bill/2021-22/hb/1821/) - Telemedicine/relationship | Delivered to Governor.
 * [HB 1902](/bill/2021-22/hb/1902/) - Workers' comp reopening | Delivered to Governor.
-* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | Placed on second reading by Rules Committee.
+* [HB 1928](/bill/2021-22/hb/1928/) - Equine industry support | By resolution, returned to House Rules Committee for third reading.
 * [HB 1959](/bill/2021-22/hb/1959/) - Managed health rate review | Returned to Rules Committee for second reading.

@@ -1,7 +1,7 @@
 # SB 5749 - Rent payments
 **Primary Sponsor:** [Yasmin Trudeau](/person/leg/yasmin.trudeau.md)
 
-*Status: Speaker signed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5749&Year=2021)
+*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5749&Year=2021)
 
 Concerning rent payments made by residential and manufactured housing community tenants.
 

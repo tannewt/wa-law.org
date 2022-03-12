@@ -7,3 +7,4 @@ Concerning the insurance guaranty fund.
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

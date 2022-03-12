@@ -7,3 +7,4 @@ Extending current discover pass free days from state parks to all state recreati
 
 ## Revisions
 * [Original Bill](1/)
+* [Bill as Passed Legislature](1/)

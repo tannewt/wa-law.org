@@ -2,7 +2,7 @@
 ## Bills
 * [HB 1082](/bill/2021-22/hb/1082/) - Peace & corrections officers | By resolution, reintroduced and retained in present status.
 * [HB 1126](/bill/2021-22/hb/1126/) - Community custody tolling | By resolution, reintroduced and retained in present status.
-* [HB 1169](/bill/2021-22/hb/1169/) - Sentencing enhancements | Placed on second reading by Rules Committee.
+* [HB 1169](/bill/2021-22/hb/1169/) - Sentencing enhancements | By resolution, returned to House Rules Committee for third reading.
 * [HB 1186](/bill/2021-22/hb/1186/) - Juvenile rehabilitation | Effective date 7/25/2021**.
 * [EHB 1192](/bill/2021-22/ehb/1192/) - Technical corrections | Effective date 7/25/2021*.
 * [HB 1294](/bill/2021-22/hb/1294/) - Misdemeanant supervision | Effective date 7/25/2021.

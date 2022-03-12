@@ -15,7 +15,7 @@
 * [HB 1749](/bill/2021-22/hb/1749/) - Newborn screening | First reading, referred to Health Care & Wellness.
 * [EHB 1784](/bill/2021-22/ehb/1784/) - License plate visibility | Delivered to Governor.
 * [EHB 1851](/bill/2021-22/ehb/1851/) - Abortion care | Delivered to Governor.
-* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | Placed on second reading by Rules Committee.
+* [HB 1852](/bill/2021-22/hb/1852/) - Prescription drug labels | By resolution, returned to House Rules Committee for third reading.
 * [HB 1888](/bill/2021-22/hb/1888/) - Working fam. credit/rates | Delivered to Governor.
 * [EHB 2096](/bill/2021-22/ehb/2096/) - Working families' tax exempt | Delivered to Governor.
 * [HB 2116](/bill/2021-22/hb/2116/) - Nonbiodegradable packaging | First reading, referred to Environment & Energy.

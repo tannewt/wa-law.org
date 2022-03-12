@@ -14,4 +14,4 @@
 * [HB 1810](/bill/2021-22/hb/1810/) - Electronic products repair | Returned to Rules Committee for second reading.
 * [HB 1876](/bill/2021-22/hb/1876/) - Ballot measures/impact discl | Delivered to Governor.
 * [HB 1910](/bill/2021-22/hb/1910/) - Conserv. district elections | First reading, referred to State Government & Tribal Relations.
-* [HB 2059](/bill/2021-22/hb/2059/) - Real estate broker duties | Placed on second reading by Rules Committee.
+* [HB 2059](/bill/2021-22/hb/2059/) - Real estate broker duties | By resolution, returned to House Rules Committee for third reading.

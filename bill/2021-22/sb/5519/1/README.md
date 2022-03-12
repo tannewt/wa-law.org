@@ -1,6 +1,6 @@
-# Senate Bill 5519
+# Senate Bill 5519 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Bills/5519.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5519.PL.pdf)
 ## Section 1
 > This section modifies existing section [18.04.015](/rcw/18_businesses_and_professions/18.004_accountancy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.004_accountancy.md) for context.
 
