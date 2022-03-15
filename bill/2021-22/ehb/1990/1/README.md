@@ -1,6 +1,6 @@
-# Engrossed House Bill 1990
+# Engrossed House Bill 1990 - as passed by the Legislature
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1990.E.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1990.PL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [47.56](/rcw/47_public_highways_and_transportation/47.56_state_toll_bridges_tunnels_and_ferries.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.56_state_toll_bridges_tunnels_and_ferries.md) for context.
 

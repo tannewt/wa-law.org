@@ -8,7 +8,7 @@
 * [SB 5304](/bill/2021-22/sb/5304/) - Reentry services | Effective date 7/25/2021.
 * [SB 5376](/bill/2021-22/sb/5376/) - Education ombuds awareness | Delivered to Governor.
 * [SB 5413](/bill/2021-22/sb/5413/) - Solitary confinement | By resolution, reintroduced and retained in present status.
-* [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | Delivered to Governor.
+* [SB 5497](/bill/2021-22/sb/5497/) - Board of ed. student members | Effective date 6/9/2022.
 * [SB 5498](/bill/2021-22/sb/5498/) - Posthumous H.S. diplomas | Delivered to Governor.
 * [SB 5535](/bill/2021-22/sb/5535/) - Juvenile rehab./parent costs | Senate Rules "X" file.
 * [SB 5553](/bill/2021-22/sb/5553/) - Early STEM metrics | By resolution, returned to Senate Rules Committee for third reading.

@@ -25,6 +25,6 @@
 * [SJR 8200](/bill/2021-22/sjr/8200/) - Long-term care investments | By resolution, reintroduced and retained in present status.
 * [SB 5801](/bill/2021-22/sb/5801/) - Industrial insurance appeals | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5840](/bill/2021-22/sb/5840/) - Prescription drug labels | First reading, referred to Health & Long Term Care.
-* [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | Delivered to Governor.
-* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | Delivered to Governor.
+* [SB 5873](/bill/2021-22/sb/5873/) - Unemployment insurance | Effective date 3/11/2022.
+* [SB 5890](/bill/2021-22/sb/5890/) - Radiological waste workers | Effective date 3/11/2022.
 * [SB 5983](/bill/2021-22/sb/5983/) - Cannabinoid products | Returned to Rules.

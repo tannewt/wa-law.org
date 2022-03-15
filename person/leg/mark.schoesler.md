@@ -17,4 +17,4 @@
 * [SB 5748](/bill/2021-22/sb/5748/) - PSERS disability benefits | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5786](/bill/2021-22/sb/5786/) - Puget Sound nutrient permits | First reading, referred to Environment, Energy & Technology.
 * [SB 5791](/bill/2021-22/sb/5791/) - LEOFF benefits | Delivered to Governor.
-* [ESB 5800](/bill/2021-22/esb/5800/) - Tax and revenue laws | Delivered to Governor.
+* [ESB 5800](/bill/2021-22/esb/5800/) - Tax and revenue laws | Effective date 6/9/2022.

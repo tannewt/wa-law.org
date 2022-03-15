@@ -23,7 +23,7 @@
 * [SB 5726](/bill/2021-22/sb/5726/) - Military service credit | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5730](/bill/2021-22/sb/5730/) - Child victim confidentiality | Senate Rules "X" file.
 * [SB 5761](/bill/2021-22/sb/5761/) - Wage and salary information | Delivered to Governor.
-* [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Delivered to Governor.
+* [SB 5763](/bill/2021-22/sb/5763/) - Minimum wage/disabilities | Effective date 6/9/2022.
 * [SB 5764](/bill/2021-22/sb/5764/) - Apprenticeships & higher ed. | Delivered to Governor.
 * [SB 5765](/bill/2021-22/sb/5765/) - Midwifery | Delivered to Governor.
 * [SB 5766](/bill/2021-22/sb/5766/) - Abortion care | First reading, referred to Health & Long Term Care.

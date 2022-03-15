@@ -13,10 +13,10 @@
 * [SB 5499](/bill/2021-22/sb/5499/) - Hemodialysis technicians | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5529](/bill/2021-22/sb/5529/) - Self-directed care | Delivered to Governor.
 * [SB 5542](/bill/2021-22/sb/5542/) - Optometry | Senate Rules "X" file.
-* [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Delivered to Governor.
+* [SB 5617](/bill/2021-22/sb/5617/) - Main street programs/pop. | Effective date 6/9/2022.
 * [SB 5618](/bill/2021-22/sb/5618/) - Out-of-network health care | First reading, referred to Health & Long Term Care.
 * [SB 5814](/bill/2021-22/sb/5814/) - Child abuse/medical eval. | Delivered to Governor.
-* [SB 5815](/bill/2021-22/sb/5815/) - Identicards | Delivered to Governor.
+* [SB 5815](/bill/2021-22/sb/5815/) - Identicards | Effective date 1/1/2023.
 * [SB 5848](/bill/2021-22/sb/5848/) - Music therapists | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5852](/bill/2021-22/sb/5852/) - Biodegradable product labels | First reading, referred to Environment, Energy & Technology.
 * [SB 5906](/bill/2021-22/sb/5906/) - Contralateral mastectomy | First reading, referred to Health & Long Term Care.

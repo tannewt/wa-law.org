@@ -18,7 +18,7 @@
 * [SB 5540](/bill/2021-22/sb/5540/) - Election dates and timelines | First reading, referred to State Government & Elections.
 * [SB 5570](/bill/2021-22/sb/5570/) - Capitol grounds/major works | First reading, referred to State Government & Elections.
 * [SB 5579](/bill/2021-22/sb/5579/) - WMS bargaining | Referred to Ways & Means.
-* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Delivered to Governor.
+* [SB 5582](/bill/2021-22/sb/5582/) - Port commission districts | Effective date 6/9/2022.
 * [SB 5636](/bill/2021-22/sb/5636/) - Automatic voter registration | Referred to Ways & Means.
 * [SB 5698](/bill/2021-22/sb/5698/) - Plan 1 retiree COLAs | First reading, referred to Ways & Means.
 * [SB 5756](/bill/2021-22/sb/5756/) - Semiquincentennial committee | Delivered to Governor.

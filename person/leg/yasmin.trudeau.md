@@ -1,6 +1,6 @@
 # Yasmin Trudeau
 ## Bills
-* [SB 5583](/bill/2021-22/sb/5583/) - Census data/incarceration | Delivered to Governor.
+* [SB 5583](/bill/2021-22/sb/5583/) - Census data/incarceration | Effective date 6/9/2022*.
 * [SB 5584](/bill/2021-22/sb/5584/) - Local elections | Referred to Ways & Means.
 * [SB 5596](/bill/2021-22/sb/5596/) - Health info. disclosure | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5609](/bill/2021-22/sb/5609/) - Juvenile fingerprinting | By resolution, returned to Senate Rules Committee for third reading.

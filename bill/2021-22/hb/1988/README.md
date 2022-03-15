@@ -9,3 +9,4 @@ Concerning tax deferrals for investment projects in clean technology manufacturi
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Bill as Passed Legislature](S2.PL/)

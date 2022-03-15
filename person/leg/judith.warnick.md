@@ -18,6 +18,6 @@
 * [SB 5807](/bill/2021-22/sb/5807/) - State hospitals | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5812](/bill/2021-22/sb/5812/) - Farm internships/Benton cnty | By resolution, returned to Senate Rules Committee for third reading.
 * [ESB 5849](/bill/2021-22/esb/5849/) - Tax incentives | Delivered to Governor.
-* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Delivered to Governor.
+* [SB 5860](/bill/2021-22/sb/5860/) - Water policy & aquifer level | Effective date 6/9/2022.
 * [SB 5920](/bill/2021-22/sb/5920/) - Parenting plans | By resolution, returned to Senate Rules Committee for third reading.
 * [SB 5972](/bill/2021-22/sb/5972/) - Wildlife conflict resolution | Delivered to Governor.
