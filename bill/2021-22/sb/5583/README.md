@@ -8,3 +8,4 @@ Requiring the adjustment of census data for local redistricting to reflect the l
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

@@ -1,6 +1,6 @@
-# Engrossed Senate Bill 5849 - as passed by the Legislature
+# Engrossed Senate Bill 5849 - Session Law Chapter 172 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5849.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5849.SL.pdf)
 ## Section 1
 > This section modifies existing section [84.25.030](/rcw/84_property_taxes/84.25_targeted_urban_areas—exemption.md). Here is the [modified chapter](rcw/84_property_taxes/84.25_targeted_urban_areas—exemption.md) for context.
 

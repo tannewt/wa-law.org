@@ -1,6 +1,6 @@
-# House Bill 1934 - as passed by the Legislature
+# House Bill 1934 - Session Law Chapter 184 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1934.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1934.SL.pdf)
 ## Section 1
 > This section modifies existing section [47.12.370](/rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md) for context.
 

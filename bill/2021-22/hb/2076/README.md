@@ -1,7 +1,7 @@
 # HB 2076 - Transp. network companies
 **Primary Sponsor:** [Liz Berry](/person/leg/liz.berry.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2076&Year=2021)
+*Status: Effective date 6/9/2022*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2076&Year=2021)
 
 Concerning rights and obligations of transportation network company drivers and transportation network companies.
 

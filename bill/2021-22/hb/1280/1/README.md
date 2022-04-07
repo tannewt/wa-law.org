@@ -1,6 +1,6 @@
-# House Bill 1280 - as passed by the Legislature
+# House Bill 1280 - Session Law Chapter 178 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1280.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1280.SL.pdf)
 ## Section 1
 > This section modifies existing section [39.35.010](/rcw/39_public_contracts_and_indebtedness/39.035_energy_conservation_in_design_of_public_facilities.md). Here is the [modified chapter](rcw/39_public_contracts_and_indebtedness/39.035_energy_conservation_in_design_of_public_facilities.md) for context.
 

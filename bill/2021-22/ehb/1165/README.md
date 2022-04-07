@@ -1,7 +1,7 @@
 # EHB 1165 - Credit union act
 **Primary Sponsor:** [Cindy Ryu](/person/leg/cindy.ryu.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1165&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1165&Year=2021)
 
 Concerning the Washington credit union act.
 
@@ -9,3 +9,4 @@ Concerning the Washington credit union act.
 * [Original Bill](1/)
 * [Engrossed Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

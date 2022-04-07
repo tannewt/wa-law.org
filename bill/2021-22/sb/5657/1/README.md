@@ -1,6 +1,6 @@
-# Senate Bill 5657 - as passed by the Legislature
+# Senate Bill 5657 - Session Law Chapter 234 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5657.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5657.SL.pdf)
 ## Section 1
 The legislature recognizes the benefit of computer science and computational thinking in education, not only with respect to educational development, but also in cultivating the skills needed to compete and excel in our state's career landscape. The legislature also recognizes the heightened importance of providing access to computer science education to youth in secure facilities, where access to innovative and engaging learning experiences can: (1) Build in-demand skills to prepare students for future employment; (2) help students transition back to their communities following incarceration; and (3) prevent recidivism. However, the legislature understands that state long-term juvenile institutions have unique environmental and facility limitations that affect the ability to deliver some components of computer science instruction in a secure manner. Therefore, the legislature intends to require school districts that operate institutional education programs in state long-term juvenile institutions to provide access to computer science courses, while allowing the flexibility to adjust curriculum and instructional activities when necessary.
 

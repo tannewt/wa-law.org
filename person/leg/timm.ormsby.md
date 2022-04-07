@@ -8,4 +8,4 @@
 * [HB 1368](/bill/2021-22/hb/1368/) - Federal funding/COVID-19 | Effective date 2/19/2021.
 * [HB 1532](/bill/2021-22/hb/1532/) - Court filing fees | Effective date 7/1/2021.
 * [HB 1816](/bill/2021-22/hb/1816/) - Operating budget, supp. | Referred to Rules 2 Review.
-* [HB 2061](/bill/2021-22/hb/2061/) - Public improvements/housing | Delivered to Governor.
+* [HB 2061](/bill/2021-22/hb/2061/) - Public improvements/housing | Effective date 6/9/2022.

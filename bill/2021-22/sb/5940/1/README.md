@@ -1,6 +1,6 @@
-# Senate Bill 5940 - as passed by the Legislature
+# Senate Bill 5940 - Session Law Chapter 064 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5940.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5940.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [66.24](/rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md). Here is the [modified chapter](rcw/66_alcoholic_beverage_control/66.24_licenses—stamp_taxes.md) for context.
 

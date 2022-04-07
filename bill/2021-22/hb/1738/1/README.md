@@ -1,6 +1,6 @@
-# House Bill 1738 - as passed by the Legislature
+# House Bill 1738 - Session Law Chapter 070 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1738.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1738.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.180.160](/rcw/43_state_government—executive/43.180_housing_finance_commission.md). Here is the [modified chapter](rcw/43_state_government—executive/43.180_housing_finance_commission.md) for context.
 

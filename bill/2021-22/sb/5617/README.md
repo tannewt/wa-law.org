@@ -8,3 +8,4 @@ Concerning population criteria for designation of local downtown and neighborhoo
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

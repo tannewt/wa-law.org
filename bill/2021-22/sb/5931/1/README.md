@@ -1,6 +1,6 @@
-# Senate Bill 5931 - as passed by the Legislature
+# Senate Bill 5931 - Session Law Chapter 063 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5931.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5931.SL.pdf)
 ## Section 1
 > This section modifies existing section [2.06.150](/rcw/02_courts_of_record/2.06_court_of_appeals.md). Here is the [modified chapter](rcw/02_courts_of_record/2.06_court_of_appeals.md) for context.
 

@@ -10,7 +10,7 @@
 * [HB 1820](/bill/2021-22/hb/1820/) - Leadership and security | First reading, referred to Finance.
 * [HB 1864](/bill/2021-22/hb/1864/) - Leadership and security | Referred to Rules 2 Review.
 * [HB 1882](/bill/2021-22/hb/1882/) - Outdoor recreation | First reading, referred to Community & Economic Development.
-* [HB 2019](/bill/2021-22/hb/2019/) - Careers in retail | Delivered to Governor.
+* [HB 2019](/bill/2021-22/hb/2019/) - Careers in retail | Effective date 6/9/2022.
 * [HB 2044](/bill/2021-22/hb/2044/) - Ransomware protection | By resolution, returned to House Rules Committee for third reading.
 * [HB 2069](/bill/2021-22/hb/2069/) - Raffles | First reading, referred to Commerce & Gaming.
 * [HB 2070](/bill/2021-22/hb/2070/) - Autonomous vehicles | First reading, referred to Transportation.

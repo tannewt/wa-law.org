@@ -1,6 +1,6 @@
-# Senate Bill 5855 - as passed by the Legislature
+# Senate Bill 5855 - Session Law Chapter 174 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5855.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5855.SL.pdf)
 ## Section 1
 > This section modifies existing section [42.17A.445](/rcw/42_public_officers_and_agencies/42.17A_campaign_disclosure_and_contribution.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.17A_campaign_disclosure_and_contribution.md) for context.
 

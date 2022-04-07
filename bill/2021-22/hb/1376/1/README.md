@@ -1,6 +1,6 @@
-# House Bill 1376 - as passed by the Legislature
+# House Bill 1376 - Session Law Chapter 066 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1376.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1376.SL.pdf)
 ## Section 2
 The repeal of the statutes listed in section 1 of this act does not affect any right accrued or established, or any liability or penalty incurred, under those statutes before their repeal.
 

@@ -1,0 +1,86 @@
+# Second Substitute House Bill 1751 - Session Law Chapter 209 Year 2022 as Recommended by Appropriations
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1751-S2.SL.pdf)
+## Section 1
+> This section modifies existing section [28B.10.900](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+As used in RCW 28B.10.901 and 28B.10.902, "hazing" includes any **act committed as part of a person's recruitment,** initiation **, pledging, admission into, or affiliation with** a student organization**, athletic team,** or living group, or any pastime or amusement engaged in with respect to such an organization**, athletic team,** or living group that causes, or is likely to cause, bodily danger or physical harm, or serious **psychological** or emotional harm, to any student or other person attending a public or private institution of higher education or other postsecondary educational institution in this state**, including causing, directing, coercing, or forcing a person to consume any food, liquid, alcohol, drug, or other substance which subjects the person to risk of such harm, regardless of the person's willingness to participate**. "Hazing" does not include customary athletic events or other similar contests or competitions.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. Each public and private institution of higher education shall prohibit in its code of conduct hazing off campus as well as on campus.
+
+2. Beginning with the 2022 fall term, each public and private institution of higher education shall provide students with an educational program on hazing and the dangers of and prohibition on hazing, which shall include information regarding hazing awareness, prevention, intervention, and the institution's policy on hazing. The educational program may be offered in person or electronically. The institution must incorporate the educational program as part of new student orientation sessions. The educational program must be posted on each institution's public website for parents, legal guardians, and volunteers to view.
+
+3. Institutional materials on student rights and responsibilities given to student organizations, athletic teams, or living groups, either electronically or in hard copy form, shall include a statement on the institution's antihazing policy and on the dangers of hazing.
+
+
+## Section 3
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+Each public institution of higher education shall establish a hazing prevention committee to promote and address hazing prevention. The committee shall have a minimum of six members including a designated chair appointed by the president of the institution. Fifty percent of the committee positions shall include students currently attending the higher education institution with at least one position filled by a student from a student organization, athletic team, or living group. The other fifty percent of the committee positions shall include at least one faculty or staff member and one parent or legal guardian of a student currently enrolled at the institution. Student input shall be considered for committee membership. A student who is a member of a student organization, athletic team, or living group that was affiliated with a finding of a hazing violation within the last twelve months may not participate in or be a member of the hazing prevention committee.
+
+
+## Section 4
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. Beginning with the 2022-23 academic year, each public and private institution of higher education shall maintain and publicly report actual findings of violations by any student organization, athletic team, or living group of the public or private institution of higher education's code of conduct, antihazing policies, or state or federal laws relating to hazing or offenses related to alcohol, drugs, sexual assault, or physical assault.
+
+2. The report shall include the following:
+
+    a. The name of the student organization, athletic team, or living group;
+
+    b. The date the investigation was initiated;
+
+    c. The date on which the investigation ended with a finding that a violation occurred;
+
+    d. A description of the incident or incidents, including the date of the initial violation, and the violations, findings, and sanctions placed on the student organization, athletic team, or living group;
+
+    e. The details of the sanction or sanctions imposed, including the beginning and end dates of the sanction or sanctions; and
+
+    f. The date the student organization, athletic team, or living group was charged with a violation.
+
+3. Investigations that do not result in a finding of formal violations of the student code of conduct or state or federal law shall not be included in the report. The report shall not include any personal or identifying information of individual student members and shall be subject to the requirements of the federal family education rights and privacy act of 1974, 20 U.S.C. Sec. 1232g.
+
+4. Public and private institutions of higher education shall make reports under this section available on their websites in a prominent location clearly labeled and easily accessible from the institution's website.
+
+5. Each public and private institution of higher education shall maintain reports as they are updated for five years and shall post them on their respective websites at least 45 calendar days before the start of each fall academic term and at least 10 days before the start of all other academic terms.
+
+
+## Section 5
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. Beginning in the 2022 fall academic term, each public and private institution of higher education shall provide hazing prevention education on the signs and dangers of hazing as well as the institution's prohibition on hazing to employees, including student employees, either in person or electronically. The prevention education shall be provided to employees at the beginning of each academic year and for new employees at the beginning of each academic term.
+
+2. If, as a result of observations or information received in the course of employment or volunteer service, any employee, including a student employee, or volunteer at a public or private institution of higher education has reasonable cause to believe that hazing has occurred, the employee or volunteer shall report the incident, or cause a report to be made, to a designated authority at the institution. The employee or volunteer shall make the report at the first opportunity to do so.
+
+3. "Reasonable cause" means a person who witnesses hazing or receives a credible written or oral report alleging hazing or potential or planned hazing activity.
+
+4. A person who witnesses hazing or has reasonable cause to believe hazing has occurred or will occur and makes a report in good faith may not be sanctioned or punished for the violation of hazing unless the person is directly engaged in the planning, directing, or act of hazing reported.
+
+5. Nothing in this section shall preclude a person from independently reporting hazing or suspected hazing activity to law enforcement.
+
+6. As used in this section, "employee" means a person who is receiving wages from the institution of higher education and is in a position with direct ongoing contact with students in a supervisory role or position of authority. "Employee" does not include a person employed as medical staff or with an affiliated organization, entity, or extension of a postsecondary educational institution, unless the employee has a supervisory role or position of authority over students. "Employee" does not include confidential employees.
+
+
+## Section 6
+> This section adds a new section to an existing chapter [28B.10](/rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md). Here is the [modified chapter](rcw/28B_higher_education/28B.010_colleges_and_universities_generally.md) for context.
+
+1. Social fraternity and sorority organizations shall notify the public or private institution of higher education before chartering, rechartering, opening, or reopening a local chapter or operating at the public or private institution of higher education.
+
+2. Social fraternity and sorority organizations shall notify the public or private institution of higher education when the organization instigates an investigation of a local chapter at the public or private institution of higher education for hazing or other activity that includes an element of hazing, such as furnishing alcohol to minors. The organization shall provide the results of such investigation and a copy of the full findings report to the public or private institution of higher education's student conduct office.
+
+3. Beginning in the 2022 fall academic term, any local social fraternity or sorority chapter seeking to obtain or maintain registration with any public or private institution of higher education in the state must certify in writing and provide weblinks to that institution showing that the landing pages of all websites owned or maintained by the local chapter contain a full list for the previous five years of all findings of violations of antihazing policies, state or federal laws relating to hazing, alcohol, drugs, sexual assault, or physical assault, or the institution's code of conduct against the local chapter.
+
+4. Failure of a social fraternity or sorority organization to comply with subsections (1) through (3) of this section shall result in automatic loss of recognition until such time that the organization comes into compliance with those subsections.
+
+
+## Section 7
+This act may be known and cited as the Sam's law act.
+
+
+## Section 8
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2022, in the omnibus appropriations act, this act is null and void.
+

@@ -6,9 +6,9 @@
 * [HB 1234](/bill/2021-22/hb/1234/) - Weapons/government buildings | By resolution, reintroduced and retained in present status.
 * [HB 1283](/bill/2021-22/hb/1283/) - Criminal mischief/weapons | Returned to Rules Committee for second reading.
 * [HB 1496](/bill/2021-22/hb/1496/) - High valued assets tax | By resolution, reintroduced and retained in present status.
-* [HB 1630](/bill/2021-22/hb/1630/) - Weapons/certain meetings | Delivered to Governor.
-* [HB 1644](/bill/2021-22/hb/1644/) - Pupil transp./electric | Delivered to Governor.
+* [HB 1630](/bill/2021-22/hb/1630/) - Weapons/certain meetings | Effective date 6/9/2022.
+* [HB 1644](/bill/2021-22/hb/1644/) - Pupil transp./electric | Effective date 6/9/2022.
 * [HB 1729](/bill/2021-22/hb/1729/) - Blockchain work group | Referred to Rules 2 Review.
 * [HB 1872](/bill/2021-22/hb/1872/) - Care worker center | Referred to Appropriations.
 * [HB 1900](/bill/2021-22/hb/1900/) - Schools/discrimination, etc. | First reading, referred to Education.
-* [HB 1905](/bill/2021-22/hb/1905/) - Homelessness/youth discharge | Delivered to Governor.
+* [HB 1905](/bill/2021-22/hb/1905/) - Homelessness/youth discharge | Effective date 6/9/2022*.

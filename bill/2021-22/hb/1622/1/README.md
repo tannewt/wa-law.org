@@ -1,6 +1,6 @@
-# House Bill 1622 - as passed by the Legislature
+# House Bill 1622 - Session Law Chapter 118 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1622.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1622.SL.pdf)
 ## Section 1
 The legislature finds that:
 

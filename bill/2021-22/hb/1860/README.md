@@ -1,7 +1,7 @@
 # HB 1860 - Behavioral health discharge
 **Primary Sponsor:** [Lauren Davis](/person/leg/davis_la.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1860&Year=2021)
+*Status: Chapter 215, 2022 Laws.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1860&Year=2021)
 
 Preventing homelessness among persons discharging from inpatient behavioral health settings.
 
@@ -10,3 +10,4 @@ Preventing homelessness among persons discharging from inpatient behavioral heal
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Bill as Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)

@@ -1,6 +1,6 @@
-# Senate Bill 5713 - as passed by the Legislature
+# Senate Bill 5713 - Session Law Chapter 093 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5713.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5713.SL.pdf)
 ## Section 1
 1. This section is the tax preference performance statement for the tax preference contained in section 2, chapter . . ., Laws of 2022 (section 2 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
 

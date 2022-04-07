@@ -1,6 +1,6 @@
-# Senate Bill 5566 - as passed by the Legislature
+# Senate Bill 5566 - Session Law Chapter 154 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5566.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5566.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.63A.307](/rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md). Here is the [modified chapter](rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md) for context.
 

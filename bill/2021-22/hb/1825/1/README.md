@@ -1,6 +1,6 @@
-# House Bill 1825 - as passed by the Legislature
+# House Bill 1825 - Session Law Chapter 074 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1825.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1825.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [2.56](/rcw/02_courts_of_record/2.56_administrator_for_the_courts.md). Here is the [modified chapter](rcw/02_courts_of_record/2.56_administrator_for_the_courts.md) for context.
 

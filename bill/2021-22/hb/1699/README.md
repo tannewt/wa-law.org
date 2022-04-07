@@ -1,7 +1,7 @@
 # HB 1699 - Work in retirement/schools
 **Primary Sponsor:** [Steve Bergquist](/person/leg/steve.bergquist.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2021)
+*Status: Effective date 3/23/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2021)
 
 Permitting individuals retired from the public employees retirement system, the teachers retirement system, and the school employees retirement system additional opportunities to work for a school district for up to 1,040 hours per school year while in receipt of pension benefits until July 1, 2025.
 
@@ -10,3 +10,4 @@ Permitting individuals retired from the public employees retirement system, the 
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

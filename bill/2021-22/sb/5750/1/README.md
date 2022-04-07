@@ -1,6 +1,6 @@
-# Senate Bill 5750 - as passed by the Legislature
+# Senate Bill 5750 - Session Law Chapter 096 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5750.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5750.SL.pdf)
 ## Section 1
 The legislature finds that:
 

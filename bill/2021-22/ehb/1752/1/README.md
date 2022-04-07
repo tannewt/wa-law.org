@@ -1,6 +1,6 @@
-# Engrossed House Bill 1752 - as passed by the Legislature
+# Engrossed House Bill 1752 - Session Law Chapter 072 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1752.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1752.SL.pdf)
 ## Section 1
 > This section modifies existing section [41.50.770](/rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.50_department_of_retirement_systems.md) for context.
 

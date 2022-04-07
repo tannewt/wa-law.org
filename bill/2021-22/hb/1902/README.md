@@ -1,7 +1,7 @@
 # HB 1902 - Workers' comp reopening
 **Primary Sponsor:** [Joe Schmick](/person/leg/joe.schmick.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1902&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1902&Year=2021)
 
 Providing an exception to the process for reopening a workers' compensation claim when the claimant submits a reopening application in a timely manner.
 

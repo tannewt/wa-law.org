@@ -4,11 +4,11 @@
 * [HB 1162](/bill/2021-22/hb/1162/) - High school graduation | By resolution, returned to House Rules Committee for third reading.
 * [HB 1225](/bill/2021-22/hb/1225/) - School-based health centers | Chapter 68, 2021 Laws.
 * [HB 1226](/bill/2021-22/hb/1226/) - School district elections | Referred to Capital Budget.
-* [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | Delivered to Governor.
+* [HB 1359](/bill/2021-22/hb/1359/) - Liquor license fees | Effective date 4/1/2022.
 * [HB 1518](/bill/2021-22/hb/1518/) - Paper products/environment | By resolution, returned to House Rules Committee for third reading.
 * [HB 1730](/bill/2021-22/hb/1730/) - Fertility services | First reading, referred to Health Care & Wellness.
 * [HB 1808](/bill/2021-22/hb/1808/) - Pupil transportation funding | By resolution, returned to House Rules Committee for third reading.
 * [HB 1861](/bill/2021-22/hb/1861/) - Future fund trust fund | Referred to Appropriations.
 * [HB 1938](/bill/2021-22/hb/1938/) - Student financial education | First reading, referred to Education.
-* [HB 2046](/bill/2021-22/hb/2046/) - Legislative activity ethics | Delivered to Governor.
-* [HB 2068](/bill/2021-22/hb/2068/) - Imagination library | Delivered to Governor.
+* [HB 2046](/bill/2021-22/hb/2046/) - Legislative activity ethics | Effective date 6/9/2022.
+* [HB 2068](/bill/2021-22/hb/2068/) - Imagination library | Effective date 6/9/2022.

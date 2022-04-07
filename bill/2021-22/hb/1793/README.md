@@ -1,7 +1,7 @@
 # HB 1793 - Electric vehicles/HOAs
 **Primary Sponsor:** [David Hackney](/person/leg/david.hackney.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1793&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1793&Year=2021)
 
 Concerning electric vehicle charging stations in common interest communities.
 
@@ -10,3 +10,4 @@ Concerning electric vehicle charging stations in common interest communities.
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

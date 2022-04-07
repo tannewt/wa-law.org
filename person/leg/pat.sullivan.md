@@ -12,9 +12,9 @@
 * [HCR 4404](/bill/2021-22/hcr/4404/) - Adjourning SINE DIE | Filed with Secretary of State.
 * [HB 1732](/bill/2021-22/hb/1732/) - Long-term care/delay | Effective date 1/27/2022.
 * [HB 1734](/bill/2021-22/hb/1734/) - Low-proof beverages/tax | First reading, referred to Finance.
-* [HB 1736](/bill/2021-22/hb/1736/) - State student loan program | Delivered to Governor.
+* [HB 1736](/bill/2021-22/hb/1736/) - State student loan program | Effective date 6/9/2022.
 * [HCR 4405](/bill/2021-22/hcr/4405/) - Bill status for 2022 session | Filed with Secretary of State.
 * [HCR 4406](/bill/2021-22/hcr/4406/) - State of the state address | Filed with Secretary of State.
 * [HCR 4407](/bill/2021-22/hcr/4407/) - Redistricting plan | Filed with Secretary of State.
-* [HCR 4408](/bill/2021-22/hcr/4408/) - Bills/to house of origin | Rules suspended.  Placed on Third Reading.
-* [HCR 4409](/bill/2021-22/hcr/4409/) - Adjourning SINE DIE | Rules suspended.  Placed on Third Reading.
+* [HCR 4408](/bill/2021-22/hcr/4408/) - Bills/to house of origin | Returned to House Rules 3.
+* [HCR 4409](/bill/2021-22/hcr/4409/) - Adjourning SINE DIE | Returned to House Rules 3.

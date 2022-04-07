@@ -1,6 +1,6 @@
-# Senate Bill 5505 - as passed by the Legislature
+# Senate Bill 5505 - Session Law Chapter 084 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5505.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5505.SL.pdf)
 ## Section 1
 > This section modifies existing section [84.36.020](/rcw/84_property_taxes/84.36_exemptions.md). Here is the [modified chapter](rcw/84_property_taxes/84.36_exemptions.md) for context.
 

@@ -1,6 +1,6 @@
-# Senate Bill 5518 - as passed by the Legislature
+# Senate Bill 5518 - Session Law Chapter 152 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5518.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5518.SL.pdf)
 ## Section 1
 > This section adds a new section to an existing chapter [18.59](/rcw/18_businesses_and_professions/18.059_occupational_therapy.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.059_occupational_therapy.md) for context.
 

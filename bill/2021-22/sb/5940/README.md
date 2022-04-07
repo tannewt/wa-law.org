@@ -8,3 +8,4 @@ Creating a liquor license endorsement.
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

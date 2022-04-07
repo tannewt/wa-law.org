@@ -1,6 +1,6 @@
-# Senate Bill 5504 - as passed by the Legislature
+# Senate Bill 5504 - Session Law Chapter 083 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5504.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5504.SL.pdf)
 ## Section 1
 > This section modifies existing section [79A.80.050](/rcw/79A_public_recreational_lands/79A.80_access_to_recreational_lands.md). Here is the [modified chapter](rcw/79A_public_recreational_lands/79A.80_access_to_recreational_lands.md) for context.
 

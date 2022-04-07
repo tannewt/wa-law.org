@@ -10,8 +10,8 @@
 * [HB 1671](/bill/2021-22/hb/1671/) - Rx drug affordability board | First reading, referred to Health Care & Wellness.
 * [HB 1806](/bill/2021-22/hb/1806/) - Legislature/bargaining | Referred to Rules 2 Review.
 * [HB 1868](/bill/2021-22/hb/1868/) - Health care staffing | By resolution, returned to House Rules Committee for third reading.
-* [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | Chapter 7, 2022 Laws.
-* [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | Delivered to Governor.
+* [HB 1878](/bill/2021-22/hb/1878/) - Schools/comm. eligibility | Effective date 3/4/2022.
+* [HB 1914](/bill/2021-22/hb/1914/) - Motion picture program | Effective date 6/9/2022.
 * [HB 1915](/bill/2021-22/hb/1915/) - Traffic cameras/speed zones | First reading, referred to Transportation.
-* [HB 1927](/bill/2021-22/hb/1927/) - Legislative service leave | Delivered to Governor.
-* [HB 2124](/bill/2021-22/hb/2124/) - Leg. collective bargaining | Delivered to Governor.
+* [HB 1927](/bill/2021-22/hb/1927/) - Legislative service leave | Effective date 6/9/2022.
+* [HB 2124](/bill/2021-22/hb/2124/) - Leg. collective bargaining | Effective date 6/9/2022*.

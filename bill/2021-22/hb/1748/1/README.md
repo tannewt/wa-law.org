@@ -1,6 +1,6 @@
-# House Bill 1748 - as passed by the Legislature
+# House Bill 1748 - Session Law Chapter 208 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1748.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1748.SL.pdf)
 ## Section 1
 > This section modifies existing section [74.04.805](/rcw/74_public_assistance/74.04_general_provisions—administration.md). Here is the [modified chapter](rcw/74_public_assistance/74.04_general_provisions—administration.md) for context.
 

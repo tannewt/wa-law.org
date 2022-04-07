@@ -1,6 +1,6 @@
-# Senate Bill 5529 - as passed by the Legislature
+# Senate Bill 5529 - Session Law Chapter 086 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5529.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5529.SL.pdf)
 ## Section 1
 > This section modifies existing section [74.39.007](/rcw/74_public_assistance/74.39_long-term_care_service_options.md). Here is the [modified chapter](rcw/74_public_assistance/74.39_long-term_care_service_options.md) for context.
 

@@ -1,6 +1,6 @@
-# House Bill 1805 - as passed by the Legislature
+# House Bill 1805 - Session Law Chapter 211 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1805.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1805.SL.pdf)
 ## Section 1
 > This section modifies existing section [28B.145.010](/rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md). Here is the [modified chapter](rcw/28B_higher_education/28B.145_opportunity_scholarship_act.md) for context.
 

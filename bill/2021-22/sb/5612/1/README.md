@@ -1,6 +1,6 @@
-# Senate Bill 5612 - as passed by the Legislature
+# Senate Bill 5612 - Session Law Chapter 229 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5612.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5612.SL.pdf)
 ## Section 1
 > This section modifies existing section [7.69.030](/rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md). Here is the [modified chapter](rcw/07_special_proceedings_and_actions/7.069_crime_victims_survivors_and_witnesses.md) for context.
 

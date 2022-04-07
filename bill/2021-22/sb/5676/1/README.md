@@ -1,6 +1,6 @@
-# Senate Bill 5676 - as passed by the Legislature
+# Senate Bill 5676 - Session Law Chapter 052 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5676.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5676.SL.pdf)
 ## Section 1
 > This section modifies existing section [41.32.4992](/rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md). Here is the [modified chapter](rcw/41_public_employment_civil_service_and_pensions/41.32_teachers_retirement.md) for context.
 

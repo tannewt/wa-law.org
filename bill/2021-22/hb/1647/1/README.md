@@ -1,6 +1,6 @@
-# House Bill 1647 - as passed by the Legislature
+# House Bill 1647 - Session Law Chapter 121 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1647.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1647.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.63A.750](/rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md). Here is the [modified chapter](rcw/43_state_government—executive/43.063A_department_of_community_trade_and_economic_development.md) for context.
 

@@ -19,11 +19,11 @@
 * [SB 5623](/bill/2021-22/sb/5623/) - Credit history/insurance | First reading, referred to Business, Financial Services & Trade.
 * [SB 5642](/bill/2021-22/sb/5642/) - Affordable housing/REET | Referred to Ways & Means.
 * [SB 5719](/bill/2021-22/sb/5719/) - Dual credit costs | Referred to Ways & Means.
-* [SB 5720](/bill/2021-22/sb/5720/) - Student financial literacy | Delivered to Governor.
+* [SB 5720](/bill/2021-22/sb/5720/) - Student financial literacy | Effective date 6/9/2022.
 * [SB 5724](/bill/2021-22/sb/5724/) - Organ transport vehicles | Senate Rules "X" file.
 * [SB 5725](/bill/2021-22/sb/5725/) - LCEDIR/tourism slogan | Senate Rules "X" file.
 * [SB 5770](/bill/2021-22/sb/5770/) - Convention economy grants | Referred to Ways & Means.
-* [SB 5810](/bill/2021-22/sb/5810/) - Legal service plans | Delivered to Governor.
+* [SB 5810](/bill/2021-22/sb/5810/) - Legal service plans | Governor vetoed.
 * [SB 5916](/bill/2021-22/sb/5916/) - Ransomware protection | First reading, referred to Environment, Energy & Technology.
 * [SB 5924](/bill/2021-22/sb/5924/) - Tax penalties | First reading, referred to Ways & Means.
 * [SB 5935](/bill/2021-22/sb/5935/) - Adult family homes/prop. tax | First reading, referred to Health & Long Term Care.

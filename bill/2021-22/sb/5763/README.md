@@ -8,3 +8,4 @@ Eliminating subprevailing wage certificates for individuals with disabilities.
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

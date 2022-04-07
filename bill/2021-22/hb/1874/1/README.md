@@ -1,6 +1,6 @@
-# House Bill 1874 - as passed by the Legislature
+# House Bill 1874 - Session Law Chapter 032 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1874.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1874.SL.pdf)
 ## Section 1
 > This section modifies existing section [18.400.020](/rcw/18_businesses_and_professions/18.400_professional_licensure—previous_criminal_convictions.md). Here is the [modified chapter](rcw/18_businesses_and_professions/18.400_professional_licensure—previous_criminal_convictions.md) for context.
 

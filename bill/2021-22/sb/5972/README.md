@@ -1,7 +1,7 @@
 # SB 5972 - Wildlife conflict resolution
 **Primary Sponsor:** [Judy Warnick](/person/leg/judith.warnick.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5972&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5972&Year=2021)
 
 Concerning extending the expiration date of a statute dealing with wildlife conflict resolution.
 

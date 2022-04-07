@@ -1,6 +1,6 @@
-# Senate Bill 5868 - as passed by the Legislature
+# Senate Bill 5868 - Session Law Chapter 175 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5868.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5868.SL.pdf)
 ## Section 1
 > This section modifies existing section [82.14.370](/rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md). Here is the [modified chapter](rcw/82_excise_taxes/82.14_local_retail_sales_and_use_taxes.md) for context.
 

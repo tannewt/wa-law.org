@@ -1,6 +1,6 @@
-# House Bill 1785 - as passed by the Legislature
+# House Bill 1785 - Session Law Chapter 131 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1785.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1785.SL.pdf)
 ## Section 1
 > This section modifies existing section [43.43.380](/rcw/43_state_government—executive/43.043_washington_state_patrol.md). Here is the [modified chapter](rcw/43_state_government—executive/43.043_washington_state_patrol.md) for context.
 

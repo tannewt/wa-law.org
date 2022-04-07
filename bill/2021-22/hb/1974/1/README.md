@@ -1,6 +1,6 @@
-# House Bill 1974 - as passed by the Legislature
+# House Bill 1974 - Session Law Chapter 079 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1974.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1974.SL.pdf)
 ## Section 1
 > This section modifies existing section [28A.305.021](/rcw/28A_common_school_provisions/28A.305_state_board_of_education.md). Here is the [modified chapter](rcw/28A_common_school_provisions/28A.305_state_board_of_education.md) for context.
 

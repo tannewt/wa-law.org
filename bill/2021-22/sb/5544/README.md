@@ -1,7 +1,7 @@
 # SB 5544 - Blockchain work group
 **Primary Sponsor:** [Sharon Brown](/person/leg/sharon.brown.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5544&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5544&Year=2021)
 
 Establishing the Washington blockchain work group.
 
@@ -10,3 +10,4 @@ Establishing the Washington blockchain work group.
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

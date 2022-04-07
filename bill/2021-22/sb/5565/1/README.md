@@ -1,6 +1,6 @@
-# Senate Bill 5565 - as passed by the Legislature
+# Senate Bill 5565 - Session Law Chapter 090 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5565.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5565.SL.pdf)
 ## Section 1
 > This section modifies existing section [52.16.010](/rcw/52_fire_protection_districts/52.16_finances.md). Here is the [modified chapter](rcw/52_fire_protection_districts/52.16_finances.md) for context.
 

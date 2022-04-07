@@ -1,6 +1,6 @@
-# Senate Bill 5615 - as passed by the Legislature
+# Senate Bill 5615 - Session Law Chapter 188 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5615.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5615.SL.pdf)
 ## Section 1
 The legislature recognizes that the sport of pickleball was created in 1965 on Bainbridge Island by Joel McFee Pritchard, who went on to be elected lieutenant governor and member of Congress for Washington, along with two of his friends, Bill Bell and Barney McCallum. These men created the game at Pritchard's summer cabin after they "persuaded" their abnormally hyper children to go outside to play a few games of badminton, but there was no badminton equipment to be found. Instead, these fathers did some brainstorming and created a new game using ping-pong paddles, a net, and a neighbor's plastic wiffle ball. The rules that they created for the new game, which they named pickleball, are still used today by the USA Pickleball Association.
 

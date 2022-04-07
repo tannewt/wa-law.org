@@ -1,6 +1,6 @@
-# Engrossed House Bill 1165 - as passed by the Legislature
+# Engrossed House Bill 1165 - Session Law Chapter 015 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1165.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1165.SL.pdf)
 ## Section 1
 > This section modifies existing section [31.12.005](/rcw/31_miscellaneous_loan_agencies/31.12_washington_state_credit_union_act.md). Here is the [modified chapter](rcw/31_miscellaneous_loan_agencies/31.12_washington_state_credit_union_act.md) for context.
 

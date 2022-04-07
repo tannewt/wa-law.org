@@ -8,3 +8,4 @@ Concerning appointment of judges pro tempore in the court of appeals.
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

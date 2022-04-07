@@ -1,6 +1,6 @@
-# House Bill 1430 - as passed by the Legislature
+# House Bill 1430 - Session Law Chapter 194 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1430.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1430.SL.pdf)
 ## Section 1
 > This section modifies existing section [79.13.060](/rcw/79_public_lands/79.013_land_leases.md). Here is the [modified chapter](rcw/79_public_lands/79.013_land_leases.md) for context.
 

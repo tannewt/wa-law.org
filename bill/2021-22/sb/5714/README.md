@@ -1,7 +1,7 @@
 # SB 5714 - Solar canopies tax deferral
 **Primary Sponsor:** [Reuven Carlyle](/person/leg/reuven.carlyle.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5714&Year=2021)
+*Status: Effective date 7/1/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5714&Year=2021)
 
 Creating a sales and use tax deferral program for solar canopies placed on large-scale commercial parking lots and other similar areas.
 
@@ -10,3 +10,4 @@ Creating a sales and use tax deferral program for solar canopies placed on large
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

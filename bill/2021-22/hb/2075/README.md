@@ -1,7 +1,7 @@
 # HB 2075 - DSHS service requirements
 **Primary Sponsor:** [Strom Peterson](/person/leg/strom.peterson.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2075&Year=2021)
+*Status: Governor vetoed.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2075&Year=2021)
 
 Establishing service requirements for the department of social and health services.
 

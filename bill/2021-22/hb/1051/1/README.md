@@ -1,6 +1,6 @@
-# House Bill 1051 - as passed by the Legislature
+# House Bill 1051 - Session Law Chapter 012 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1051.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1051.SL.pdf)
 ## Section 1
 > This section modifies existing section [28B.20.100](/rcw/28B_higher_education/28B.020_university_of_washington.md). Here is the [modified chapter](rcw/28B_higher_education/28B.020_university_of_washington.md) for context.
 

@@ -1,6 +1,6 @@
-# House Bill 1953 - as passed by the Legislature
+# House Bill 1953 - Session Law Chapter 140 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1953.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1953.SL.pdf)
 ## Section 1
 > This section modifies existing section [42.56.420](/rcw/42_public_officers_and_agencies/42.56_public_records_act.md). Here is the [modified chapter](rcw/42_public_officers_and_agencies/42.56_public_records_act.md) for context.
 

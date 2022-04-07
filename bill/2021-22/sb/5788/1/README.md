@@ -1,6 +1,6 @@
-# Senate Bill 5788 - as passed by the Legislature
+# Senate Bill 5788 - Session Law Chapter 243 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5788.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5788.SL.pdf)
 ## Section 1
 > This section modifies existing section [11.130.225](/rcw/11_probate_and_trust_law/11.130_uniform_guardianship_conservatorship_and_other_protective_arrangements_act.md). Here is the [modified chapter](rcw/11_probate_and_trust_law/11.130_uniform_guardianship_conservatorship_and_other_protective_arrangements_act.md) for context.
 

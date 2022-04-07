@@ -1,6 +1,6 @@
-# Engrossed House Bill 1851 - as passed by the Legislature
+# Engrossed House Bill 1851 - Session Law Chapter 065 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1851.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1851.SL.pdf)
 ## Section 1
 The legislature affirms that:
 

@@ -1,7 +1,7 @@
 # HB 2046 - Legislative activity ethics
 **Primary Sponsor:** [Monica Jurado Stonier](/person/leg/monica.stonier.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2046&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=2046&Year=2021)
 
 Concerning ethics in public service rules governing certain legislative activity.
 
@@ -9,3 +9,4 @@ Concerning ethics in public service rules governing certain legislative activity
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

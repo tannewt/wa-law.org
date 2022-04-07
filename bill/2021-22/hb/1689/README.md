@@ -1,7 +1,7 @@
 # HB 1689 - Biomarker testing prior auth
 **Primary Sponsor:** [Amy Walen](/person/leg/walen_am.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1689&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1689&Year=2021)
 
 Exempting biomarker testing from prior authorization for patients with late stage cancer.
 
@@ -10,3 +10,4 @@ Exempting biomarker testing from prior authorization for patients with late stag
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

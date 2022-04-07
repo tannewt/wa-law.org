@@ -1,7 +1,7 @@
 # HB 1795 - Nondisclosure/illegal acts
 **Primary Sponsor:** [Liz Berry](/person/leg/liz.berry.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1795&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1795&Year=2021)
 
 Prohibiting nondisclosure and nondisparagement provisions from employers regarding illegal acts of discrimination, harassment, retaliation, wage and hour violations, and sexual assault. 
 
@@ -10,3 +10,4 @@ Prohibiting nondisclosure and nondisparagement provisions from employers regardi
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

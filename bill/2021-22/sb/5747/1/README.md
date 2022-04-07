@@ -1,6 +1,6 @@
-# Senate Bill 5747 - as passed by the Legislature
+# Senate Bill 5747 - Session Law Chapter 054 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5747.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5747.SL.pdf)
 ## Section 1
 > This section modifies existing section [90.56.060](/rcw/90_water_rights—environment/90.56_oil_and_hazardous_substance_spill_prevention_and_response.md). Here is the [modified chapter](rcw/90_water_rights—environment/90.56_oil_and_hazardous_substance_spill_prevention_and_response.md) for context.
 

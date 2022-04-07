@@ -1,0 +1,54 @@
+# Engrossed Substitute Senate Bill 5853 - Session Law Chapter 059 Year 2022 as Recommended by Transportation
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5853-S.SL.pdf)
+## Section 1
+> This section modifies existing section [47.12.120](/rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md) for context.
+
+The department may rent or lease any lands, improvements, or air space above or below any lands that are held for highway purposes but are not presently needed. The rental or lease:
+
+1. Must be upon such terms and conditions as the department may determine;
+
+2. Is subject to the provisions and requirements of zoning ordinances of political subdivisions of government;
+
+3. Includes lands used or to be used for both limited access and conventional highways that otherwise meet the requirements of this section;
+
+4. In the case of bus shelters provided by a local transit authority that include commercial advertising, may charge the transit authority only for commercial space**; and**
+
+5. **In the case of the project for community purposes established in section 2 of this act, must be consistent with the provisions of that section**.
+
+
+## Section 2
+> This section adds a new section to an existing chapter [47.12](/rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md) for context.
+
+1. In order to remedy past impacts to historically marginalized populations within impacted local communities resulting from the construction of Interstate 90 and the US 395 North Spokane Corridor project, the department may establish a limited project for community purposes under the provisions of this section. It is the intent of the legislature that the department establish the project to allow the affected property to be used for community purposes made unavailable due to the placement of the highway, and therefore the department is strongly encouraged to establish the project. However, the very limited project under this section shall not be construed as precedent for future lease agreements concerning department property in other areas of the state, and nothing under this section precludes the department from leasing property in other areas of the state for economic rent. Additionally, the legislature finds that the limited project under this section is in the overall public interest based on social, environmental, or economic benefits, as those terms are construed under 23 C.F.R. Sec. 710.403(e).
+
+2. [Empty]
+
+    a. Pursuant to RCW 47.12.120, the department may lease the property described in (b) of this subsection to a community-based nonprofit corporation or the department of commerce, to be used for the following community purposes made unavailable due to the placement of the highway projects described in subsection (1) of this section:
+
+        i. Housing and ancillary improvements;
+
+        ii. Parks;
+
+        iii. Community revitalization projects;
+
+        iv. Enhanced public spaces, such as trails and public plazas; and
+
+    v. Projects that provide enhanced economic development in the impacted community.
+
+    b. The property eligible for lease under this section includes property that was purchased as part of the Interstate 90 corridor project and the US 395 North Spokane Corridor.
+
+    c. A lease for the purposes described in (a)(i) and (ii) of this subsection may be for less than economic rent. However, the lease agreement must then require the lessee to maintain the premises as part of the consideration to the department.
+
+    d. The parties identified in (a) of this subsection must provide updates, to the extent practicable, to the city of Spokane and the city of Spokane Valley when any significant actions are taken related to the agreements and activities authorized under this section.
+
+3. Any sublease resulting from this section is not intended to generate exorbitant profits.
+
+4. As used in this section, "economic rent" is defined as fair market rent, as established by an appraisal or other accepted valuation method.
+
+
+## Section 3
+> This section modifies existing section [47.12.125](/rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md). Here is the [modified chapter](rcw/47_public_highways_and_transportation/47.12_acquisition_and_disposition_of_state_highway_property.md) for context.
+
+All moneys paid to the state of Washington under any of the provisions of RCW 47.12.120 shall be deposited in the department's advance right-of-way revolving fund, except moneys that are subject to federal aid reimbursement and moneys received from rental of capital facilities properties, which shall be deposited in the motor vehicle fund. **However, moneys paid under RCW 47.12.120(5) shall be deposited into the motor vehicle fund to be used solely within the corridors described in section 2(2)(b) of this act.**
+

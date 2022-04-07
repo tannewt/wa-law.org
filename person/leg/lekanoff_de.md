@@ -10,8 +10,8 @@
 * [HB 1639](/bill/2021-22/hb/1639/) - Missing person advisory | First reading, referred to Public Safety.
 * [HB 1640](/bill/2021-22/hb/1640/) - Tribal-state committee | First reading, referred to State Government & Tribal Relations.
 * [HB 1653](/bill/2021-22/hb/1653/) - Anadromous fish recovery | Referred to Appropriations.
-* [HB 1725](/bill/2021-22/hb/1725/) - Missing indigenous persons | Delivered to Governor.
-* [HB 1753](/bill/2021-22/hb/1753/) - Climate funding/tribes | Delivered to Governor.
+* [HB 1725](/bill/2021-22/hb/1725/) - Missing indigenous persons | Effective date 6/9/2022.
+* [HB 1753](/bill/2021-22/hb/1753/) - Climate funding/tribes | Effective date 6/9/2022.
 * [HB 1838](/bill/2021-22/hb/1838/) - Salmon habitat | First reading, referred to Rural Development, Agriculture & Natural Resources.
 * [HB 2060](/bill/2021-22/hb/2060/) - Medicaid LTSS/tribes | First reading, referred to Health Care & Wellness.
 * [HB 2090](/bill/2021-22/hb/2090/) - Tribal activities/credit | First reading, referred to Education.

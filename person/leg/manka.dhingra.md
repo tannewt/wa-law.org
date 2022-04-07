@@ -16,12 +16,12 @@
 * [SB 5297](/bill/2021-22/sb/5297/) - Civil protection orders | By resolution, reintroduced and retained in present status.
 * [ESB 5476](/bill/2021-22/esb/5476/) - State v. Blake decision | Effective date 7/25/2021*.
 * [ESB 5561](/bill/2021-22/esb/5561/) - Firearm rights restoration | By resolution, returned to Senate Rules Committee for third reading.
-* [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Delivered to Governor.
+* [SB 5628](/bill/2021-22/sb/5628/) - Cyber harassment | Effective date 6/9/2022*.
 * [SB 5645](/bill/2021-22/sb/5645/) - Assisted outpatient treat. | Referred to Behavioral Health Subcommittee to Health & Long Term Care.
 * [SB 5655](/bill/2021-22/sb/5655/) - Invol. treatment refusals | Referred to Ways & Means.
 * [SB 5663](/bill/2021-22/sb/5663/) - State v. Blake procedures | Senate Rules "X" file.
-* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Delivered to Governor.
-* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Delivered to Governor.
+* [SB 5664](/bill/2021-22/sb/5664/) - Forensic competency programs | Effective date 6/9/2022.
+* [SB 5695](/bill/2021-22/sb/5695/) - DOC body scanner pilot | Effective date 6/9/2022.
 * [SB 5734](/bill/2021-22/sb/5734/) - Physical & health education | First reading, referred to Early Learning & K-12 Education.
 * [SB 5735](/bill/2021-22/sb/5735/) - Async. instructional hours | First reading, referred to Early Learning & K-12 Education.
 * [SB 5794](/bill/2021-22/sb/5794/) - Behavioral health Rx drugs | By resolution, returned to Senate Rules Committee for third reading.

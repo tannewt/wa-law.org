@@ -1,7 +1,7 @@
 # SB 5974 - Transportation resources
 **Primary Sponsor:** [Marko Liias](/person/leg/marko.liias.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5974&Year=2021)
+*Status: Effective date 7/1/2022*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5974&Year=2021)
 
 Addressing transportation resources.
 
@@ -10,3 +10,4 @@ Addressing transportation resources.
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

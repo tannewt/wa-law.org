@@ -1,7 +1,7 @@
 # SB 5695 - DOC body scanner pilot
 **Primary Sponsor:** [Manka Dhingra](/person/leg/manka.dhingra.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5695&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5695&Year=2021)
 
 Concerning a body scanner pilot program at the department of corrections.
 
@@ -10,3 +10,4 @@ Concerning a body scanner pilot program at the department of corrections.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Bill as Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)

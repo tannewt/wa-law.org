@@ -1,7 +1,7 @@
 # SB 5753 - Board & commission sizes
 **Primary Sponsor:** [June Robinson](/person/leg/june.robinson.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5753&Year=2021)
+*Status: Effective date 6/9/2022*.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=5753&Year=2021)
 
 Increasing board and commission capacities.
 
@@ -9,3 +9,4 @@ Increasing board and commission capacities.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

@@ -1,6 +1,6 @@
-# House Bill 1907 - as passed by the Legislature
+# House Bill 1907 - Session Law Chapter 138 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1907.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/1907.SL.pdf)
 ## Section 1
 The legislature recognizes the importance of philanthropic entities that donate millions of dollars in private scholarships to students and that such entities are a key component in helping students attain their educational goals. The legislature seeks to encourage philanthropic giving of private scholarships and declares that such entities are more likely to donate money when they know their scholarships will genuinely help recipients meet their financial needs. Therefore, the legislature intends to incentivize the giving of scholarships by private entities by addressing scholarship displacement.
 

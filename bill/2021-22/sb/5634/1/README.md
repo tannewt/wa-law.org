@@ -1,6 +1,6 @@
-# Senate Bill 5634 - as passed by the Legislature
+# Senate Bill 5634 - Session Law Chapter 159 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5634.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5634.SL.pdf)
 ## Section 1
 > This section modifies existing section [80.24.010](/rcw/80_public_utilities/80.24_regulatory_fees.md). Here is the [modified chapter](rcw/80_public_utilities/80.24_regulatory_fees.md) for context.
 

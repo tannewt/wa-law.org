@@ -1,6 +1,6 @@
-# Senate Bill 5498 - as passed by the Legislature
+# Senate Bill 5498 - Session Law Chapter 224 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5498.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5498.SL.pdf)
 ## Section 1
 1. The legislature affirms its statutory assertion that the purpose of a high school diploma is to declare that a student is ready for success in postsecondary education, gainful employment, and citizenship, and is equipped with the skills to be a lifelong learner.
 

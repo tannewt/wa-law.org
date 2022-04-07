@@ -1,7 +1,7 @@
 # HB 1955 - Dependency/education
 **Primary Sponsor:** [Alicia Rule](/person/leg/alicia.rule.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1955&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1955&Year=2021)
 
 Creating uniformity in education requirements for students who are the subject of a dependency proceeding.
 
@@ -9,3 +9,4 @@ Creating uniformity in education requirements for students who are the subject o
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

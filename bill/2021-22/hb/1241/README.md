@@ -1,7 +1,7 @@
 # HB 1241 - Growth management act plans
 **Primary Sponsor:** [Davina Duerr](/person/leg/duerr_da.md)
 
-*Status: Delivered to Governor.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1241&Year=2021)
+*Status: Effective date 6/9/2022.* | [leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber=1241&Year=2021)
 
 Planning under the growth management act.
 
@@ -12,3 +12,4 @@ Planning under the growth management act.
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Bill as Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)

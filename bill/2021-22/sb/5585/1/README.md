@@ -1,6 +1,6 @@
-# Senate Bill 5585 - as passed by the Legislature
+# Senate Bill 5585 - Session Law Chapter 227 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5585.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5585.SL.pdf)
 ## Section 2
 1. [Empty]
 

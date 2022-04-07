@@ -1,7 +1,7 @@
 # Strom Peterson
 ## Bills
 * [HB 1053](/bill/2021-22/hb/1053/) - Carryout bags | House Rules "X" file.
-* [HB 1074](/bill/2021-22/hb/1074/) - Fatality reviews | Delivered to Governor.
+* [HB 1074](/bill/2021-22/hb/1074/) - Fatality reviews | Effective date 6/9/2022.
 * [HB 1161](/bill/2021-22/hb/1161/) - Drug take-back programs | Effective date 7/25/2021.
 * [HB 1174](/bill/2021-22/hb/1174/) - Custodial interrogations | By resolution, reintroduced and retained in present status.
 * [HB 1220](/bill/2021-22/hb/1220/) - Emergency shelters & housing | Effective date 7/25/2021.
@@ -10,11 +10,11 @@
 * [HB 1312](/bill/2021-22/hb/1312/) - Solitary confinement | By resolution, reintroduced and retained in present status.
 * [HB 1515](/bill/2021-22/hb/1515/) - Security deposit waiver fees | By resolution, reintroduced and retained in present status.
 * [HB 1690](/bill/2021-22/hb/1690/) - Law enf. officers/deception | First reading, referred to Public Safety.
-* [HB 1738](/bill/2021-22/hb/1738/) - Housing finance comm'n debt | Delivered to Governor.
-* [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | Delivered to Governor.
+* [HB 1738](/bill/2021-22/hb/1738/) - Housing finance comm'n debt | Effective date 6/9/2022.
+* [HB 1755](/bill/2021-22/hb/1755/) - TANF time limit extensions | Effective date 6/9/2022.
 * [HB 1756](/bill/2021-22/hb/1756/) - Solitary confinement | Referred to Rules 2 Review.
 * [HB 1904](/bill/2021-22/hb/1904/) - Tenants/rent & fees | Returned to Rules Committee for second reading.
-* [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | Delivered to Governor.
+* [HB 1961](/bill/2021-22/hb/1961/) - Name change fee waivers | Effective date 7/1/2022.
 * [HB 2048](/bill/2021-22/hb/2048/) - TANF time limit extensions | Returned to Rules Committee for second reading.
-* [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | Delivered to Governor.
-* [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Delivered to Governor.
+* [HB 2064](/bill/2021-22/hb/2064/) - Residential tenant deposits | Effective date 6/9/2022.
+* [HB 2075](/bill/2021-22/hb/2075/) - DSHS service requirements | Governor vetoed.

@@ -9,14 +9,14 @@
 * [SB 5322](/bill/2021-22/sb/5322/) - SEBB & PEBB dual enrollment | Effective date 7/25/2021.
 * [SB 5326](/bill/2021-22/sb/5326/) - School bus driver benefits | Senate Rules "X" file.
 * [SB 5371](/bill/2021-22/sb/5371/) - Sweetened beverage tax | By resolution, reintroduced and retained in present status.
-* [SB 5589](/bill/2021-22/sb/5589/) - Primary care spending | Delivered to Governor.
+* [SB 5589](/bill/2021-22/sb/5589/) - Primary care spending | Effective date 6/9/2022.
 * [SB 5647](/bill/2021-22/sb/5647/) - Fertility services | First reading, referred to Health & Long Term Care.
-* [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | Delivered to Governor.
+* [SB 5649](/bill/2021-22/sb/5649/) - Family and medical leave | Effective date 6/9/2022*.
 * [SB 5654](/bill/2021-22/sb/5654/) - Health benefit ex./B&O tax | Senate Rules "X" file.
 * [SB 5751](/bill/2021-22/sb/5751/) - Health care staffing | First reading, referred to Labor, Commerce & Tribal Affairs.
-* [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | Delivered to Governor.
+* [SB 5753](/bill/2021-22/sb/5753/) - Board & commission sizes | Effective date 6/9/2022*.
 * [SB 5754](/bill/2021-22/sb/5754/) - EMTs/public health | First reading, referred to Health & Long Term Care.
-* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | Delivered to Governor.
-* [SB 5866](/bill/2021-22/sb/5866/) - Medicaid LTSS/tribes | Delivered to Governor.
+* [SB 5799](/bill/2021-22/sb/5799/) - Workforce surcharge/clinics | Effective date 7/1/2022.
+* [SB 5866](/bill/2021-22/sb/5866/) - Medicaid LTSS/tribes | Effective date 6/9/2022.
 * [SB 5923](/bill/2021-22/sb/5923/) - Temporary shelters/homeless | Senate Rules "X" file.
 * [SB 5926](/bill/2021-22/sb/5926/) - Investment services/tax | First reading, referred to Ways & Means.
