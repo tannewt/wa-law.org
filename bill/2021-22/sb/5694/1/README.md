@@ -1,6 +1,6 @@
-# Senate Bill 5694 - as passed by the Legislature
+# Senate Bill 5694 - Session Law Chapter 254 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5694.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5694.SL.pdf)
 ## Section 1
 The legislature recognizes that many federally recognized Indian tribes in Washington exercise felony criminal jurisdiction, yet none operate or have access to a prison facility. Tribal defendants sentenced to greater than one year in custody must serve their time in local jail facilities ill-equipped to house inmates for long sentences. This act will authorize the Washington state department of corrections to negotiate agreements with Indian tribes that will provide a public safety benefit to all residents of Washington by allowing tribal court inmates to serve their felony sentences in an appropriate facility with access to rehabilitative services.
 

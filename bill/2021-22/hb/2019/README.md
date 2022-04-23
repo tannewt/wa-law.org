@@ -9,3 +9,4 @@ Increasing educational and training opportunities for careers in retail.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

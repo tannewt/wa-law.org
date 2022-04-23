@@ -8,3 +8,4 @@ Adding employees employed by the department of licensing who are assigned to rev
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

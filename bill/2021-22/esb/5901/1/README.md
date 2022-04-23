@@ -1,6 +1,6 @@
-# Engrossed Senate Bill 5901 - as passed by the Legislature
+# Engrossed Senate Bill 5901 - Session Law Chapter 257 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5901.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5901.SL.pdf)
 ## Section 101
 1. The legislature finds that there are counties in the state that face additional economic development challenges beyond the challenges faced by counties located in the central Puget Sound region. The legislature further finds that these regions do not experience the same degree of job growth and investment. The legislature further finds that, in some areas, increased economic development incentives are needed to help support economic growth and that a one-size-fits-all approach to economic development does not work for the diversity of the statewide economy. For these reasons, the legislature intends to establish a tax deferral program to be effective solely in certain targeted counties. The legislature declares that this limited program serves the vital public purpose of creating employment opportunities and generally spurring economic development in these counties of the state.
 

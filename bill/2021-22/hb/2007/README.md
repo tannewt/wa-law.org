@@ -8,3 +8,4 @@ Establishing a nurse educator loan repayment program under the Washington health
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

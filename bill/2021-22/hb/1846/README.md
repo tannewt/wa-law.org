@@ -10,3 +10,4 @@ Providing a tax preference for rural and nonrural data centers.
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

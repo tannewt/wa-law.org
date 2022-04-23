@@ -1,6 +1,6 @@
-# Senate Bill 5875 - as passed by the Legislature
+# Senate Bill 5875 - Session Law Chapter 290 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5875.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5875.SL.pdf)
 ## Section 1
 > This section modifies existing section [51.32.181](/rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md). Here is the [modified chapter](rcw/51_industrial_insurance/51.32_compensation—right_to_and_amount.md) for context.
 

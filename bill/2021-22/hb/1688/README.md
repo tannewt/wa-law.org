@@ -11,3 +11,4 @@ Protecting consumers from charges for out-of-network health care services, by al
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Bill as Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)

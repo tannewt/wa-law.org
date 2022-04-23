@@ -1,3 +1,3 @@
-# Senate Bill 5972 - as passed by the Legislature
+# Senate Bill 5972 - Session Law Chapter 294 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Senate%20Passed%20Legislature/5972.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/Senate/5972.SL.pdf)

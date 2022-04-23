@@ -8,3 +8,4 @@ Recognizing Indian tribes as among the governmental entities with which the depa
 ## Revisions
 * [Original Bill](1/)
 * [Bill as Passed Legislature](1/)
+* [Session Law](1/)

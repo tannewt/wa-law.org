@@ -10,3 +10,4 @@ Concerning state lands development authorities.
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Bill as Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)

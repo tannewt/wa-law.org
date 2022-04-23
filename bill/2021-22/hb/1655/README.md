@@ -9,3 +9,4 @@ Encouraging the opening of safety rest areas to the public.
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

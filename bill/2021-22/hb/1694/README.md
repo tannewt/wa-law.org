@@ -10,3 +10,4 @@ Concerning logistical processes for the regulation of priority chemicals in cons
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Bill as Passed Legislature](S.PL/)
+* [Session Law](S.SL/)

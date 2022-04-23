@@ -1,6 +1,6 @@
-# House Bill 2007 - as passed by the Legislature
+# House Bill 2007 - Session Law Chapter 276 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2007.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/2007.SL.pdf)
 ## Section 1
 > This section modifies existing section [28B.115.020](/rcw/28B_higher_education/28B.115_washington_health_corps.md). Here is the [modified chapter](rcw/28B_higher_education/28B.115_washington_health_corps.md) for context.
 

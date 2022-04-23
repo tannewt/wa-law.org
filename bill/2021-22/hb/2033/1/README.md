@@ -1,6 +1,6 @@
-# House Bill 2033 - as passed by the Legislature
+# House Bill 2033 - Session Law Chapter 279 Year 2022
 
-[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/2033.PL.pdf)
+[Source](http://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/Session%20Laws/House/2033.SL.pdf)
 ## Section 1
 > This section modifies existing section [46.37.184](/rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md). Here is the [modified chapter](rcw/46_motor_vehicles/46.37_vehicle_lighting_and_other_equipment.md) for context.
 
