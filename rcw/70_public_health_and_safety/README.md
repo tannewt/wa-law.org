@@ -96,3 +96,4 @@
 * [70.390 - Health care cost transparency board.](70.390_health_care_cost_transparency_board.md)
 * [70.395 - Private detention facilities.](70.395_private_detention_facilities.md)
 * [70.400 - Health care entities—Pregnancy complications.](70.400_health_care_entities—pregnancy_complications.md)
+* [70.405 - Prescription drug affordability board.](70.405_prescription_drug_affordability_board.md)

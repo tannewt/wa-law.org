@@ -54,4 +54,8 @@
 * [82.85 - Job creation and economic development investment incentives—Pilot program.](82.85_job_creation_and_economic_development_investment_incentives—pilot_program.md)
 * [82.86 - 988 behavioral health crisis response and suicide prevention line tax.](82.86_988_behavioral_health_crisis_response_and_suicide_prevention_line_tax.md)
 * [82.87 - Capital gains tax.](82.87_capital_gains_tax.md)
+* [82.89 - Tax deferrals for investment projects.](82.89_tax_deferrals_for_investment_projects.md)
+* [82.90 - Tax deferrals for solar canopies.](82.90_tax_deferrals_for_solar_canopies.md)
+* [82.92 - Tax deferrals for underdeveloped urban land redevelopment.](82.92_tax_deferrals_for_underdeveloped_urban_land_redevelopment.md)
+* [82.94 - Tax deferrals for manufacturing and research and development.](82.94_tax_deferrals_for_manufacturing_and_research_and_development.md)
 * [82.98 - Construction.](82.98_construction.md)

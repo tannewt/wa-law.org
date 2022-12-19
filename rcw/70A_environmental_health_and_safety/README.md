@@ -27,6 +27,7 @@
 * [70A.145 - Water purveyors—Fire suppression water facilities.](70A.145_water_purveyors—fire_suppression_water_facilities.md)
 * [70A.200 - Waste reduction, recycling, and model litter control act.](70A.200_waste_reduction_recycling_and_model_litter_control_act.md)
 * [70A.205 - Solid waste management—Reduction and recycling.](70A.205_solid_waste_management—reduction_and_recycling.md)
+* [70A.207 - Washington center for sustainable food management.](70A.207_washington_center_for_sustainable_food_management.md)
 * [70A.210 - Pollution control—Municipal bonding authority.](70A.210_pollution_control—municipal_bonding_authority.md)
 * [70A.212 - Domestic waste treatment plants—Operators.](70A.212_domestic_waste_treatment_plants—operators.md)
 * [70A.214 - Waste reduction.](70A.214_waste_reduction.md)
@@ -79,3 +80,4 @@
 * [70A.525 - Disposable wipes products—Labeling standards.](70A.525_disposable_wipes_products—labeling_standards.md)
 * [70A.530 - Carryout bags.](70A.530_carryout_bags.md)
 * [70A.535 - Transportation fuel—Clean fuels program.](70A.535_transportation_fuel—clean_fuels_program.md)
+* [70A.540 - Landfills—Methane emissions.](70A.540_landfills—methane_emissions.md)

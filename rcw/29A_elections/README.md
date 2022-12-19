@@ -17,7 +17,7 @@
 * [29A.68 - Contesting an election.](29A.68_contesting_an_election.md)
 * [29A.72 - State initiative and referendum.](29A.72_state_initiative_and_referendum.md)
 * [29A.76 - Redistricting.](29A.76_redistricting.md)
-* [29A.76B - Congressional districts and apportionment.](29A.76B_congressional_districts_and_apportionment.md)
+* [29A.76C - Congressional districts and apportionment.](29A.76C_congressional_districts_and_apportionment.md)
 * [29A.80 - Political parties.](29A.80_political_parties.md)
 * [29A.84 - Crimes and penalties.](29A.84_crimes_and_penalties.md)
 * [29A.88 - Nuclear waste site—Election for disapproval.](29A.88_nuclear_waste_site—election_for_disapproval.md)

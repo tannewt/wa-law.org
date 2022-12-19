@@ -17,3 +17,4 @@
 * [38.48 - State and national defense.](38.48_state_and_national_defense.md)
 * [38.52 - Emergency management.](38.52_emergency_management.md)
 * [38.56 - Intrastate mutual aid system.](38.56_intrastate_mutual_aid_system.md)
+* [38.60 - Public safety telecommunicators.](38.60_public_safety_telecommunicators.md)

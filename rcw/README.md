@@ -78,7 +78,7 @@ Welcome to the Markdown version of the Revised Code of Washington (RCW). It is a
 * [69 - FOOD, DRUGS, COSMETICS, AND POISONS](69_food_drugs_cosmetics_and_poisons/)
 * [70 - PUBLIC HEALTH AND SAFETY](70_public_health_and_safety/)
 * [70A - ENVIRONMENTAL HEALTH AND SAFETY](70A_environmental_health_and_safety/)
-* [71 - MENTAL ILLNESS](71_mental_illness/)
+* [71 - BEHAVIORAL HEALTH](71_behavioral_health/)
 * [71A - DEVELOPMENTAL DISABILITIES](71A_developmental_disabilities/)
 * [72 - STATE INSTITUTIONS](72_state_institutions/)
 * [73 - VETERANS AND VETERANS' AFFAIRS](73_veterans_and_veterans_affairs/)

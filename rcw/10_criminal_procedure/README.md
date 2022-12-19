@@ -4,7 +4,6 @@
 * [10.04 - District court procedure—Generally.](10.004_district_court_procedure—generally.md)
 * [10.05 - Deferred prosecution—Courts of limited jurisdiction.](10.005_deferred_prosecution—courts_of_limited_jurisdiction.md)
 * [10.10 - Criminal appeals from district courts.](10.010_criminal_appeals_from_district_courts.md)
-* [10.14 - Harassment.](10.014_harassment.md)
 * [10.16 - Preliminary hearings.](10.016_preliminary_hearings.md)
 * [10.19 - Bail and appearance bonds.](10.019_bail_and_appearance_bonds.md)
 * [10.21 - Bail determinations under Article I, section 20—Conditions of release.](10.021_bail_determinations_under_article_i_section_20—conditions_of_release.md)

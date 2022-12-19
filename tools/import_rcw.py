@@ -1,6 +1,6 @@
 import string
 import pathlib
-import requests_cache
+import url_history
 import re
 import sqlite3
 import sys
@@ -10,11 +10,11 @@ from mdit_py_plugins.anchors.index import slugify
 
 rcw_root_url = "https://apps.leg.wa.gov/rcw/"
 
-requests = requests_cache.CachedSession("rcw_cache")
+requests = url_history.HistorySession("rcw_cache.db")
 
 root = requests.get(rcw_root_url)
 
-soup = BeautifulSoup(root.text, 'html.parser')
+soup = BeautifulSoup(root.decode("utf-8"), 'html.parser')
 
 sections = soup.find(id="ContentPlaceHolder1_dgSections")
 titles = {}
@@ -33,7 +33,9 @@ count = 0
 for title in titles:
     print("title", title)
     info = titles[title]
-    soup = BeautifulSoup(requests.get(rcw_root_url + info["link"]).text, 'html.parser')
+    print(rcw_root_url + info["link"])
+    title_page = requests.get(rcw_root_url + info["link"]).decode("utf-8")
+    soup = BeautifulSoup(title_page, 'html.parser')
     table = soup.find("table")
     for row in table.find_all("tr"):
         link = row.find("a")
@@ -43,7 +45,8 @@ for title in titles:
                                                "title": data[1].text.strip(),
                                                "sections": section_info}
 
-        chapter = BeautifulSoup(requests.get(link["href"] + "&full=true").text, 'html.parser')
+        chapter_page = requests.get(link["href"] + "&full=true").decode("utf-8")
+        chapter = BeautifulSoup(chapter_page, 'html.parser')
         sections = chapter.find(id="ContentPlaceHolder1_dlSectionContent")
         if not sections:
             continue
@@ -51,7 +54,10 @@ for title in titles:
             divs = section.find_all("div", recursive=False)
             if not divs:
                 continue
-            number_link = divs[0].find("a")
+            try:
+                number_link = divs[0].find_all("a")[1]
+            except IndexError:
+                number_link = None
             # TODO: Chapter 11.130 has articles to partition sections.
             if not number_link:
                 continue
@@ -63,7 +69,7 @@ for title in titles:
             full_text = [d.text.replace("  ", " ") for d in divs[full_div].find_all("div")]
             citations = []
             section_info[number] = {"title": name, "body": full_text, "citations": citations}
-            # print(number, name)
+            print(number, name)
             # if number == "35A.80.010":
             #     print(section)
             #     print("full", full_text)
@@ -97,8 +103,8 @@ for title in titles:
                     all_citations.add(chapter_citation)
 
             # print()
-    #print(titles)
-    # if count > 42:
+    # print(titles)
+    # if count > 2:
     #     break
     count += 1
 

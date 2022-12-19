@@ -25,4 +25,5 @@
 * [2.64 - Commission on judicial conduct.](2.64_commission_on_judicial_conduct.md)
 * [2.68 - Judicial information system.](2.68_judicial_information_system.md)
 * [2.70 - Office of public defense.](2.70_office_of_public_defense.md)
-* [2.72 - Office of public guardianship.](2.72_office_of_public_guardianship.md)
+* [2.72 - Office of public guardianship and conservatorship.](2.72_office_of_public_guardianship_and_conservatorship.md)
+* [2.76 - Interbranch advisory committee.](2.76_interbranch_advisory_committee.md)

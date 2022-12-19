@@ -7,6 +7,7 @@
 * [28A.170 - Substance abuse awareness program.](28A.170_substance_abuse_awareness_program.md)
 * [28A.175 - Dropout prevention, intervention, and retrieval system.](28A.175_dropout_prevention_intervention_and_retrieval_system.md)
 * [28A.180 - Transitional bilingual instruction program.](28A.180_transitional_bilingual_instruction_program.md)
+* [28A.183 - Language access program.](28A.183_language_access_program.md)
 * [28A.185 - Highly capable students.](28A.185_highly_capable_students.md)
 * [28A.188 - Science, technology, engineering, and mathematics (STEM) education.](28A.188_science_technology_engineering_and_mathematics_(stem)_education.md)
 * [28A.190 - Residential education programs.](28A.190_residential_education_programs.md)

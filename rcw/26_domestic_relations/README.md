@@ -2,7 +2,6 @@
 
 * [26.04 - Marriage.](26.04_marriage.md)
 * [26.09 - Dissolution proceedings—Legal separation.](26.09_dissolution_proceedings—legal_separation.md)
-* [26.10 - Nonparental actions for child custody.](26.10_nonparental_actions_for_child_custody.md)
 * [26.11 - Nonparental child visitation—Relatives.](26.11_nonparental_child_visitation—relatives.md)
 * [26.12 - Family court.](26.12_family_court.md)
 * [26.16 - Rights and liabilities—Community property.](26.16_rights_and_liabilities—community_property.md)
@@ -19,9 +18,9 @@
 * [26.30 - Uniform minor student capacity to borrow act.](26.30_uniform_minor_student_capacity_to_borrow_act.md)
 * [26.33 - Adoption.](26.33_adoption.md)
 * [26.34 - Interstate compact on placement of children.](26.34_interstate_compact_on_placement_of_children.md)
+* [26.38 - Uniform unregulated child custody transfer act.](26.38_uniform_unregulated_child_custody_transfer_act.md)
 * [26.40 - Children with disabilities.](26.40_children_with_disabilities.md)
 * [26.44 - Abuse of children.](26.44_abuse_of_children.md)
-* [26.50 - Domestic violence prevention.](26.50_domestic_violence_prevention.md)
 * [26.51 - Abusive litigation—Domestic violence.](26.51_abusive_litigation—domestic_violence.md)
 * [26.52 - Foreign protection order full faith and credit act.](26.52_foreign_protection_order_full_faith_and_credit_act.md)
 * [26.55 - Uniform recognition and enforcement of Canadian domestic violence protection orders act.](26.55_uniform_recognition_and_enforcement_of_canadian_domestic_violence_protection_orders_act.md)

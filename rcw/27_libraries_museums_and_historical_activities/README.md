@@ -11,3 +11,4 @@
 * [27.44 - Indian graves and records.](27.44_indian_graves_and_records.md)
 * [27.48 - Preservation of historical materials.](27.48_preservation_of_historical_materials.md)
 * [27.53 - Archaeological sites and resources.](27.53_archaeological_sites_and_resources.md)
+* [27.54 - Semiquincentennial committee.](27.54_semiquincentennial_committee.md)

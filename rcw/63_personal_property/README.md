@@ -8,6 +8,7 @@
 * [63.24 - Unclaimed property in hands of bailee.](63.24_unclaimed_property_in_hands_of_bailee.md)
 * [63.26 - Unclaimed property held by museum or historical society.](63.26_unclaimed_property_held_by_museum_or_historical_society.md)
 * [63.29 - Uniform unclaimed property act.](63.29_uniform_unclaimed_property_act.md)
+* [63.30 - Revised uniform unclaimed property act.](63.30_revised_uniform_unclaimed_property_act.md)
 * [63.32 - Unclaimed property in hands of city police.](63.32_unclaimed_property_in_hands_of_city_police.md)
 * [63.35 - Unclaimed property in hands of state patrol.](63.35_unclaimed_property_in_hands_of_state_patrol.md)
 * [63.40 - Unclaimed property in hands of sheriff.](63.40_unclaimed_property_in_hands_of_sheriff.md)

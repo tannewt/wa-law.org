@@ -1,6 +1,5 @@
 # 24 CORPORATIONS AND ASSOCIATIONS  (NONPROFIT)
 
-* [24.03 - Washington nonprofit corporation act.](24.03_washington_nonprofit_corporation_act.md)
 * [24.03A - Washington nonprofit corporation act.](24.03A_washington_nonprofit_corporation_act.md)
 * [24.06 - Nonprofit miscellaneous and mutual corporations act.](24.06_nonprofit_miscellaneous_and_mutual_corporations_act.md)
 * [24.12 - Corporations sole.](24.12_corporations_sole.md)
