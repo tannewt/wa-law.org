@@ -1,15 +1,19 @@
 from bs4 import BeautifulSoup, NavigableString
+import datetime
 import re
 import pathlib
 import sys
 import subprocess
 import url_history
+import utils
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 
 requests = url_history.HistorySession("bill_cache.db")
+
+db = utils.get_db()
 
 rcw_pattern = re.compile("RCW  ([0-9A-Z]+)\\.([0-9A-Z]+)\\.([0-9A-Z]+)")
 chapter_pattern = re.compile("([0-9A-Z]+)\\.([0-9A-Z]+) RCW")
@@ -84,22 +88,6 @@ def get_citation(xml):
 AMEND_INCLUDE = ("add", )
 AMEND_EXCLUDE = ("strike", "strikemarkright", "strikemarknone")
 
-# Prep all of the file locations.
-title_folders = {}
-chapter_files = {}
-for p in pathlib.Path(sys.argv[1]).iterdir():
-    if p.is_dir():
-        if p.name == ".git":
-            continue
-        title = p.name.split("_", maxsplit=1)[0].lstrip("0")
-        title_folders[title] = p
-        chapter_files[title] = {}
-        for chapter_file in p.iterdir():
-            if chapter_file.name == "README.md":
-                continue
-            chapter = chapter_file.name.split("_", maxsplit=1)[0].split(".")[1].lstrip("0")
-            chapter_files[title][chapter] = chapter_file
-
 section_pattern = re.compile("\\(([a-z]+|[0-9]+)\\)")
 
 sections_through_pattern = re.compile("([0-9]+) through ([0-9]+)")
@@ -138,107 +126,23 @@ def format_lists(paragraph):
         new_paragraph.append("")
     return new_paragraph
 
-def section_path(citation):
-    try:
-        f = chapter_files[citation[0]][citation[1].lstrip("0")]
-        return f
-    except KeyError:
-        return None
-
-def amend_section(revision_path, citation, section_citation, new_text):
-    f = section_path(citation)
-    if f is None:
-        return None
-    new = revision_path / f
-    if new.exists() and new in amended:
-        existing_text = new.read_text().split("\n")
-    else:
-        new.parent.mkdir(parents=True, exist_ok=True)
-        existing_text = f.read_text().split("\n")
-        amended.add(new)
-    new_chapter = []
-    in_section = False
-    section_header = "## " + ".".join(citation)
-    for line in existing_text:
-        if line.startswith("##"):
-            in_section = line.startswith(section_header)
-            if in_section:
-                new_chapter.append("## **" + line[2:].strip() + "**")
-                new_chapter.extend(format_lists(new_text))
-        if not in_section:
-            new_chapter.append(line)
-        elif line.startswith("[ "):
-            new_chapter.append("[ **" + section_citation + ";** " + line[2:])
-
-    new.write_text("\n".join(new_chapter))
-    return new
-
-def delete_section(revision_path, citation, section_citation):
-    f = section_path(citation)
-    if f is None:
-        return None
-    new = revision_path / f
-    if new.exists() and new in amended:
-        existing_text = new.read_text().split("\n")
-    else:
-        new.parent.mkdir(parents=True, exist_ok=True)
-        existing_text = f.read_text().split("\n")
-        amended.add(new)
-    new_chapter = []
-    in_section = False
-    section_header = "## " + ".".join(citation)
-    # TODO: Leave deletion trail
-    for line in existing_text:
-        if line.startswith("##"):
-            in_section = line.startswith(section_header)
-        if not in_section:
-            new_chapter.append(line)
-
-    new.write_text("\n".join(new_chapter))
-    return new
-
-def add_section(revision_path, citation, section_citation, new_text):
-    f = section_path(citation)
-    if f is None:
-        return None
-    new = revision_path / f
-    if new.exists() and new in amended:
-        existing_text = new.read_text().split("\n")
-    else:
-        new.parent.mkdir(parents=True, exist_ok=True)
-        existing_text = f.read_text().split("\n")
-        amended.add(new)
-
-    new_chapter = []
-    for line in existing_text:
-        new_chapter.append(line)
-    new_chapter.append(f"## **{citation[0]}.{citation[1]}.XXX - TBD**")
-    new_chapter.append("**")
-    new_chapter.extend(format_lists(new_text))
-    new_chapter.append("")
-    new_chapter.append("[ " + section_citation + "; ]**")
-    new_chapter.append("")
-
-    new.write_text("\n".join(new_chapter))
-    return new
-
 def new_chapter(revision_path, citation, chapter_name, contents):
     print("new chapter", citation, chapter_name)
-    f = title_folders[citation[0]] / (chapter_name.replace(" ", "_") + ".md")
-    chapter = [
-        f"= {citation[0]}.XXX - {chapter_name}",
-        ":toc:",
-        ""
-    ]
-    for section_citation, section_number, contents in contents:
-        chapter.append(f"== {citation[0]}.XXX.{section_number} - TBD")
-        chapter.extend(format_lists(contents))
-        chapter.append("")
-        chapter.append("[ " + section_citation + "; ]")
-        chapter.append("")
-    new = revision_path / f
-    new.parent.mkdir(parents=True, exist_ok=True)
-    new.write_text("\n".join(chapter))
+    # f = title_folders[citation[0]] / (chapter_name.replace(" ", "_") + ".md")
+    # chapter = [
+    #     f"= {citation[0]}.XXX - {chapter_name}",
+    #     ":toc:",
+    #     ""
+    # ]
+    # for section_citation, section_number, contents in contents:
+    #     chapter.append(f"== {citation[0]}.XXX.{section_number} - TBD")
+    #     chapter.extend(format_lists(contents))
+    #     chapter.append("")
+    #     chapter.append("[ " + section_citation + "; ]")
+    #     chapter.append("")
+    # new = revision_path / f
+    # new.parent.mkdir(parents=True, exist_ok=True)
+    # new.write_text("\n".join(chapter))
 
 bills_path = pathlib.Path("bill/")
 all_bills_readme = ["# All Bills by Biennium"]
@@ -249,6 +153,11 @@ for start_year in range(2023, 2025, 2):
 
     biennium_readme = ["# " + biennium, ""]
     biennium_path = bills_path / biennium
+
+    cur = db.cursor()
+    cur.execute("INSERT OR IGNORE INTO sessions (year, name) VALUES (?, ?)", (start_year, str(start_year)))
+    cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (str(start_year),))
+    session_rowid = cur.fetchone()[0]
 
     all_bills_readme.append(f"* [{biennium}]({str(biennium_path.relative_to(bills_path))}/)")
 
@@ -269,8 +178,8 @@ for start_year in range(2023, 2025, 2):
     sponsors = BeautifulSoup(sponsors.decode("utf-8"), "xml")
     count = 0
     for info in sponsors.find_all("Member"):
-        # if count == 0:
-        #     print(info)
+        if count == 0:
+            print(info)
         sponsors_by_id[info.Id.text] = info
         count += 1
     print(count, "sponsors")
@@ -308,7 +217,7 @@ for start_year in range(2023, 2025, 2):
         if bill_number not in docs_by_number:
             docs_by_number[bill_number] = []
         docs_by_number[bill_number].append(doc)
-        print(bill_number)
+        # print(bill_number)
         count += 1
     print(count, "bill docs")
 
@@ -318,11 +227,14 @@ for start_year in range(2023, 2025, 2):
     url = api_root_url + f"/LegislationService.asmx/GetLegislationByYear?year={start_year+1}"
     legislationEven = requests.get(url, fetch_again=FORCE_FETCH)
     legislationEven = BeautifulSoup(legislationEven.decode("utf-8"), "xml")
+    url = api_root_url + f"/LegislationService.asmx/GetPreFiledLegislationInfo?"
+    legislationPrefiled = requests.get(url, fetch_again=FORCE_FETCH)
+    legislationPrefiled = BeautifulSoup(legislationPrefiled.decode("utf-8"), "xml")
     count = 0
     bills_by_sponsor = {}
     bills_by_number = {}
     sponsor_by_bill_number = {}
-    for info in legislationOdd.find_all("LegislationInfo") + legislationEven.find_all("LegislationInfo"):
+    for info in legislationOdd.find_all("LegislationInfo") + legislationEven.find_all("LegislationInfo") + legislationPrefiled.find_all("LegislationInfo"):
         bill_number = info.BillNumber.text
         bill_id = info.BillId.text
 
@@ -331,7 +243,7 @@ for start_year in range(2023, 2025, 2):
             continue
 
         # Skip resolutions
-        if bill_id.startswith("HR") or bill_id.startswith("SR") or bill_id.startswith("HJR"):
+        if bill_id.startswith("HR") or bill_id.startswith("SR") or bill_id.startswith("HJR") or bill_id.startswith("SJR")  or bill_id.startswith("SCR"):
             continue
         # Skip governor appointments
         if bill_id.startswith("SGA"):
@@ -341,8 +253,8 @@ for start_year in range(2023, 2025, 2):
             continue
 
         bills_url = api_root_url + f"/LegislationService.asmx/GetLegislation?biennium={biennium}&billNumber={bill_number}"
-        if bill_number == "1007":
-            print(bills_url)
+        # if bill_number == "1007":
+        print(bills_url)
         bills = requests.get(bills_url, fetch_again=FORCE_FETCH)
         bills = BeautifulSoup(bills.decode("utf-8"), "xml")
         full_info = None
@@ -456,17 +368,7 @@ for start_year in range(2023, 2025, 2):
 
             bill_readme = []
 
-            bill_readme.append("# " + bill_id + " - " + short_description)
-            sponsor = sponsors_by_id[sponsor]
-            slug = sponsor.Email.text.split("@")[0].lower()
-            bill_readme.append(f"**Primary Sponsor:** [{sponsor.Name.text}](/person/leg/{slug}.md)")
-            bill_readme.append("")
-            bill_link_by_number[bill_number] = f"[{bill_id}](/{str(bill_path)}/) - {short_description} | {bill.HistoryLine.text}"
-            bill_readme.append("*Status: " + bill.HistoryLine.text + "* | " + f"[leg.wa.gov summary](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2021)")
-            bill_readme.append("")
-            bill_readme.append(bill.LongDescription.text)
-            bill_readme.append("")
-            bill_readme.append("## Revisions")
+            print(bill_id, sponsor, short_description)
             # print(bill.CurrentStatus.IntroducedDate.text, bill.CurrentStatus.ActionDate.text)
             # print(bill.CurrentStatus.Status.text)
             if bill_number in amendments_by_bill_number:
@@ -503,10 +405,16 @@ for start_year in range(2023, 2025, 2):
                     revision = "1"
                     if "-" in doc.Name.text:
                         revision = doc.Name.text.split("-")[1]
+                    
+                    cur = db.cursor()
+                    cur.execute("INSERT INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, short_description, None))
+                    bill_rowid = cur.lastrowid
+                    db.commit()
+
                     revision_path = bill_path / revision
                     bill_readme.append("* [" + doc.ShortFriendlyName.text + "](" + str(revision_path.relative_to(bill_path)) + "/)")
 
-                    text = requests.get(url).content
+                    text = requests.get(url).decode("utf-8")
                     bill_text = BeautifulSoup(text, 'xml')
                     sections = {}
                     new_chapters = {}
@@ -522,6 +430,22 @@ for start_year in range(2023, 2025, 2):
                         section_count += 1
                         section_number = section_number.Value.text
                         section_citation = f"2021 c XXX § {section_number}"
+
+                        rcw_citation = get_citation(section)
+                        if rcw_citation and rcw_citation[0]:
+                            print(rcw_citation)
+                            cur.execute("INSERT OR IGNORE INTO titles (title_number) VALUES (?)", (rcw_citation[0],))
+                            cur.execute("SELECT rowid FROM titles WHERE title_number = ?;", (rcw_citation[0],))
+                            title_rowid = cur.fetchone()[0]
+                            if rcw_citation[1]:
+                                cur.execute("INSERT OR IGNORE INTO chapters (title_rowid, chapter_number) VALUES (?, ?)", (title_rowid, rcw_citation[1]))
+                                cur.execute("SELECT rowid FROM chapters WHERE title_rowid = ? AND chapter_number = ?;", (title_rowid, rcw_citation[1]))
+                                chapter_rowid = cur.fetchone()[0]
+                            else:
+                                chapter_rowid = None
+                        else:
+                            title_rowid = None
+                            chapter_rowid = None
                         # print("Bill section", section_number, section.attrs)
                         if "action" not in section.attrs:
                             if section["type"] == "new":
@@ -529,18 +453,34 @@ for start_year in range(2023, 2025, 2):
                                 for paragraph in section.find_all("P"):
                                     lines.append(paragraph.text)
                                 sections[section_number] = lines
+                                section_text = "\n".join(format_lists(lines))
+                                cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, previous_iteration, markdown) VALUES (?, ?, ?, ?, ?)", (bill_rowid, int(section_number), None, None, section_text))
+                                db.commit()
                                 sections_handled += 1
-                                revision_readme.append("## Section " + section_number)
-                                revision_readme.extend(format_lists(lines))
-                                revision_readme.append("")
                             else:
                                 pass
-                                #print(section)
+                                print(section)
                         elif section["action"] == "repeal":
-                            delete_section(revision_path, get_citation(section), section_citation)
+                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, rcw_section, base_sl_revision) VALUES (?, ?, ?, ?, ?)", (bill_rowid, int(section_number), chapter_rowid, rcw_citation[2], base_section_rowid))
+                            db.commit()
                             sections_handled += 1
                         elif section["action"] == "amend":
                             # print("##", section.Caption.text)
+                            rcw_citation = get_citation(section)
+                            if section.History is None:
+                                base_bill_rowid = None
+                                base_section_rowid = None
+                            else:
+                                history = section.History.text
+                                base_section = history.split()
+                                base_year = int(base_section[0])
+                                base_chapter = int(base_section[base_section.index("c") + 1])
+                                base_section = base_section[base_section.index("§") + 1].strip(";.")
+                                cur.execute("INSERT OR IGNORE INTO bills(year, session_law_chapter) VALUES (?, ?)", (base_year, base_chapter))
+                                cur.execute("SELECT rowid FROM bills WHERE year = ? AND session_law_chapter = ?;", (base_year, base_chapter))
+                                base_bill_rowid = cur.fetchone()[0]
+                                cur.execute("INSERT INTO sections(bill_rowid, bill_section) VALUES (?, ?)", (base_bill_rowid, base_section))
+                                base_section_rowid = cur.lastrowid
                             section_lines = []
 
                             for paragraph in section.find_all("P"):
@@ -571,56 +511,32 @@ for start_year in range(2023, 2025, 2):
                                             # Ignore changed bullets
                                             if stripped[0] == "(" and stripped[-1] == ")":
                                                 line.append(child.text)
-                                            elif stripped[0] == "(" and " " in stripped:
-                                                paren_index = stripped.index(" ") + 1
-                                                line.append(stripped[:paren_index] + "**" + stripped[paren_index:] + "**")
                                             else:
-                                                line.append("**" + stripped + "**")
+                                                line.append(stripped)
                                 if line:
                                     section_lines.append("".join(line))
-                            rcw_citation = get_citation(section)
-                            amended_path = amend_section(revision_path, get_citation(section), section_citation, section_lines)
+                            section_text = "\n".join(format_lists(section_lines))
 
-                            revision_readme.append("## Section " + section_number)
-                            if amended_path is None:
-                                revision_readme.append("> This section modifies existing unknown section.")
-                            else:
-                                revision_readme.append("> This section modifies existing section [" + ".".join(rcw_citation) + "](/" + str(section_path(rcw_citation)) + "). Here is the [modified chapter](" + str(amended_path.relative_to(revision_path)) + ") for context.")
-                            revision_readme.append("")
-                            revision_readme.extend(format_lists(section_lines))
-                            revision_readme.append("")
+                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, rcw_section, base_sl_revision, markdown) VALUES (?, ?, ?, ?, ?, ?)", (bill_rowid, int(section_number), chapter_rowid, rcw_citation[2], base_section_rowid, section_text))
+                            db.commit()
                             sections_handled += 1
                         elif section["action"] == "addsect":
                             section_lines = []
                             for paragraph in section.find_all("P"):
                                 section_lines.append(paragraph.text)
+                            section_text = "\n".join(format_lists(section_lines))
                             rcw_citation = get_citation(section)
                             if rcw_citation[0] is None:
                                 print(section, section.attrs)
                                 continue
-                            amended_path = add_section(revision_path, get_citation(section), section_citation, section_lines)
 
-                            revision_readme.append("## Section " + section_number)
-                            if amended_path:
-                                revision_readme.append("> This section adds a new section to an existing chapter [" +
-                                                       ".".join(rcw_citation[:2]) +
-                                                       "](/" +
-                                                       str(section_path(rcw_citation)) +
-                                                       "). Here is the [modified chapter](" +
-                                                       str(amended_path.relative_to(revision_path)) +
-                                                       ") for context.")
-                            else:
-                                revision_readme.append("> This section adds a new section to an unknown chapter " +
-                                                       ".".join(rcw_citation[:2]))
-
-                            revision_readme.append("")
-                            revision_readme.extend(format_lists(section_lines))
-                            revision_readme.append("")
+                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, markdown) VALUES (?, ?, ?, ?)", (bill_rowid, int(section_number), chapter_rowid, section_text))
+                            db.commit()
                             sections_handled += 1
                         elif section["action"] == "addchap":
                             c = get_citation(section)
                             new_chapters[c] = set()
-                            # print("add chapter to", )
+                            print("add chapter to", )
                             if section.P is None:
                                 print(section)
                                 continue
@@ -631,42 +547,53 @@ for start_year in range(2023, 2025, 2):
                                 new_chapters[c].update((str(x) for x in range(int(m[1]), int(m[2]))))
                             # print(text)
                             # print(new_chapters[c])
-                        elif section["action"] == "addmultisect":
-                            # print("add chapter to", get_citation(section))
-                            # print(section.P.text)
-                            pass
-                        elif section["action"] == "effdate":
-                            # When sections of the bill go into effect. (PR merge date.)
-                            # print("add chapter to", get_citation(section))
-                            # print(section.P.text)
-                            pass
+                        # elif section["action"] == "addmultisect":
+                        #     # print("add chapter to", get_citation(section))
+                        #     # print(section.P.text)
+                        #     pass
+                        # elif section["action"] == "effdate":
+                        #     # When sections of the bill go into effect. (PR merge date.)
+                        #     # print("add chapter to", get_citation(section))
+                        #     # print(section.P.text)
+                        #     pass
                         elif section["action"] == "emerg":
                             # Emergency bill that would take immediate effect.
-                            # print("add chapter to", get_citation(section))
-                            # print(section.P.text)
-                            pass
-                        elif section["action"] == "repealuncod":
-                            # Repeal a section of a session law that is uncodified.
-                            pass
-                        elif section["action"] == "amenduncod":
-                            # Amend a section of a session law that is uncodified.
-                            pass
-                        elif section["action"] == "addsectuncod":
-                            # Add a section of a session law that is uncodified.
-                            pass
-                        elif section["action"] == "remd":
-                            # Reenact and amend a section. Looks like two bills from the same session
-                            # changed the same location and the code revisor had to merge them.
-                            pass
-                        elif section["action"] == "expdate":
-                            # Section expiration date.
-                            pass
-                        elif section["action"] == "recod":
-                            # Recode sections.
-                            pass
-                        elif section["action"] == "decod":
-                            # Section expiration date.
-                            pass
+                            text = section.P.text
+                            print("emerg")
+                            d = " ".join(text.rsplit(maxsplit=3)[1:]).strip(".")
+                            try:
+                                d = datetime.datetime.strptime(d, "%B %d, %Y")
+                            except ValueError:
+                                d = None
+                            if d:
+                                if text.startswith("This act"):
+                                    cur.execute("UPDATE sections SET effective = ? WHERE bill_rowid = ?", (d, bill_rowid))
+                                    sections_handled += 1
+                                else:
+                                    print(text)
+                            db.commit()
+                        # elif section["action"] == "repealuncod":
+                        #     # Repeal a section of a session law that is uncodified.
+                        #     pass
+                        # elif section["action"] == "amenduncod":
+                        #     # Amend a section of a session law that is uncodified.
+                        #     pass
+                        # elif section["action"] == "addsectuncod":
+                        #     # Add a section of a session law that is uncodified.
+                        #     pass
+                        # elif section["action"] == "remd":
+                        #     # Reenact and amend a section. Looks like two bills from the same session
+                        #     # changed the same location and the code revisor had to merge them.
+                        #     pass
+                        # elif section["action"] == "expdate":
+                        #     # Section expiration date.
+                        #     pass
+                        # elif section["action"] == "recod":
+                        #     # Recode sections.
+                        #     pass
+                        # elif section["action"] == "decod":
+                        #     # Section expiration date.
+                        #     pass
                         else:
                             print(section, section.attrs)
                     print(f"{sections_handled}/{section_count}")
@@ -675,7 +602,7 @@ for start_year in range(2023, 2025, 2):
                             contents = []
                             chapter_name = ""
                             chapter_sections = sorted(new_chapters[c], key=int)
-                            #print(chapter_sections)
+                            print(chapter_sections)
                             for section in chapter_sections:
                                 section_citation = f"2021 c XXX § {section}"
                                 if section not in sections or not sections[section]:
@@ -708,120 +635,5 @@ for start_year in range(2023, 2025, 2):
         # print("------------------------")
         # print()
 
-    unhandled_keys = set(bills_by_status.keys())
-
-    def list_out(key):
-        if key in bills_by_status:
-            for b in bills_by_status[key]:
-                biennium_readme.append("* " + b)
-        biennium_readme.append("")
-        unhandled_keys.discard(key)
-
-    biennium_readme.append("## Senate")
-    biennium_readme.append("### Second Reading")
-    biennium_readme.append("Ready for second reading, debate and amendments.")
-    list_out("S 2nd Reading")
-    biennium_readme.append("### Third Reading")
-    biennium_readme.append("Ready for third reading.")
-    list_out("S 3rd Reading")
-    biennium_readme.append("### Passed Third Reading")
-    biennium_readme.append("Passed third reading. Ready for other house.")
-    list_out("S Passed 3rd")
-
-    for acronym, name in committees_by_agency["Senate"]:
-        if acronym not in bills_by_status["committee"]:
-            continue
-        biennium_readme.append("### " + name)
-        for b in bills_by_status["committee"][acronym]:
-            biennium_readme.append("* " + b)
-        biennium_readme.append("")
-
-    biennium_readme.append("### Senate Rules")
-    biennium_readme.append("Routes bills after committee.")
-    biennium_readme.append("#### Senate X-File")
-    biennium_readme.append("X-File where bills aren't going to be acted on.")
-    list_out("S Rules X")
-    biennium_readme.append("#### Senate Waiting Second Reading")
-    biennium_readme.append("Bills waiting for second reading")
-    list_out("S Rules 2")
-    biennium_readme.append("#### Senate Waiting Third Reading")
-    biennium_readme.append("Bills waiting for third reading")
-    list_out("S Rules 3")
-    list_out("S Rules 3C")
-
-    biennium_readme.append("## House")
-    biennium_readme.append("### Second Reading")
-    biennium_readme.append("Ready for second reading, debate and amendments.")
-    list_out("H 2nd Reading")
-    biennium_readme.append("### Passed Third Reading")
-    biennium_readme.append("Passed third reading. Ready for other house.")
-    list_out("H Passed 3rd")
-
-    for acronym, name in committees_by_agency["House"]:
-        if acronym not in bills_by_status["committee"]:
-            continue
-        biennium_readme.append("### " + name)
-        for b in bills_by_status["committee"][acronym]:
-            biennium_readme.append("* " + b)
-        biennium_readme.append("")
-
-    unhandled_keys.discard("committee")
-
-    biennium_readme.append("### House Rules")
-    biennium_readme.append("Routes bills after committee.")
-    biennium_readme.append("#### House X-File")
-    biennium_readme.append("X-File where bills aren't going to be acted on.")
-    list_out("H Rules X")
-    biennium_readme.append("#### House Waiting Second Reading")
-    biennium_readme.append("Bills waiting for second reading")
-    list_out("H Rules R")
-    biennium_readme.append("#### House Waiting Third Reading")
-    biennium_readme.append("Bills waiting for third reading")
-    list_out("H Rules C")
-    list_out("H Rules 3C")
-
-    biennium_readme.append("## Vetoed")
-    list_out("Gov vetoed")
-
-    biennium_readme.append("## Filed with Secretary of State")
-    biennium_readme.append("Passed through legislature and governor. Waiting to be incorporated into session law.")
-    list_out("H Filed Sec/St")
-
-    list_out("S Filed Sec/St")
-
-    biennium_readme.append("## Session Law")
-    list_out("passed")
-
-
-    biennium_readme.append("## Unknown Status")
-    for k in sorted(unhandled_keys):
-        biennium_readme.append("### " + k)
-        list_out(k)
-
-    rm = biennium_path / "README.md"
-    rm.write_text("\n".join(biennium_readme))
-
-    for sponsor_id in bills_by_sponsor:
-        sponsor = sponsors_by_id[sponsor_id]
-        email = sponsor.Email.text
-        slug = email.split("@")[0].lower()
-        person_page = pathlib.Path(f"person/leg/{slug}.md")
-
-        if not person_page.exists():
-            print("missing", person_page)
-            continue
-
-        lines = person_page.read_text().split("\n")
-        if "## Bills" in lines:
-            lines = lines[:lines.index("## Bills")]
-        lines.append("## Bills")
-        for bill_number in bills_by_sponsor[sponsor_id]:
-            lines.append("* " + bill_link_by_number[bill_number])
-        lines.append("")
-        person_page.write_text("\n".join(lines))
-
-    print()    
+    print()
     break
-
-rm = bills_path / "README.md"
-rm.write_text("\n".join(all_bills_readme))

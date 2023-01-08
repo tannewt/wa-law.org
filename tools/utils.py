@@ -1,3 +1,4 @@
+import sqlite3
 
 def add_or_update_section(path, section, contents):
     """This adds or updates a section within the markdown file. The section
@@ -39,3 +40,46 @@ def remove_section(path, section):
     lines_after = lines[end:]
 
     path.write_text("\n".join(lines_before + lines_after))
+
+def get_db():
+    db = sqlite3.connect("wa-laws.db")
+
+    db.execute(("CREATE TABLE sessions("
+                    "year integer,"
+                    "name text)"))
+    db.execute(("CREATE TABLE bills("
+                    "year integer,"
+                    "session_rowid integer,"
+                    "prefix text,"
+                    "id integer,"
+                    "version text,"
+                    "previous_version int,"
+                    "description text,"
+                    "session_law_chapter integer,"
+                    "FOREIGN KEY(previous_version) REFERENCES bills(rowid),"
+                    "UNIQUE(session_rowid, session_law_chapter),"
+                    "UNIQUE(year, id, version))"))
+    db.execute(("CREATE TABLE sections ("
+                    "bill_rowid integer,"
+                    "bill_section text,"
+                    "chapter_rowid integer,"
+                    "rcw_section text,"
+                    "base_sl_revision integer,"
+                    "previous_iteration integer,"
+                    "markdown text,"
+                    "effective date,"
+                    "expires date,"
+                    "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
+                    "FOREIGN KEY(chapter_rowid) REFERENCES chapters(rowid),"
+                    "FOREIGN KEY(base_sl_revision) REFERENCES sections(rowid),"
+                    "FOREIGN KEY(previous_iteration) REFERENCES sections(rowid))"))
+    db.execute("CREATE TABLE titles ("
+                    "title_number text,"
+                    "caption text)")
+    db.execute("CREATE TABLE chapters ("
+                    "title_rowid integer,"
+                    "chapter_number text,"
+                    "caption text,"
+                    "FOREIGN KEY(title_rowid) REFERENCES titles(rowid)"
+                    ")")
+    return db

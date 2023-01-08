@@ -1,15 +1,2 @@
 # 54 PUBLIC UTILITY DISTRICTS
 
-* [54.04 - General provisions.](54.04_general_provisions.md)
-* [54.08 - Formation—Dissolution—Elections.](54.08_formation—dissolution—elections.md)
-* [54.12 - Commissioners.](54.12_commissioners.md)
-* [54.16 - Powers.](54.16_powers.md)
-* [54.20 - Condemnation proceedings.](54.20_condemnation_proceedings.md)
-* [54.24 - Finances.](54.24_finances.md)
-* [54.28 - Privilege taxes.](54.28_privilege_taxes.md)
-* [54.32 - Consolidation and annexation.](54.32_consolidation_and_annexation.md)
-* [54.36 - Liability to other taxing districts.](54.36_liability_to_other_taxing_districts.md)
-* [54.40 - Five commissioner districts.](54.40_five_commissioner_districts.md)
-* [54.44 - Nuclear, thermal, electric generating power facilities—Joint development.](54.44_nuclear_thermal_electric_generating_power_facilities—joint_development.md)
-* [54.48 - Agreements between electrical public utilities and cooperatives.](54.48_agreements_between_electrical_public_utilities_and_cooperatives.md)
-* [54.52 - Voluntary contributions to assist low-income customers.](54.52_voluntary_contributions_to_assist_low-income_customers.md)

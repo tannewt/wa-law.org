@@ -1,17 +1,2 @@
 # 57 WATER-SEWER DISTRICTS
 
-* [57.02 - General provisions.](57.02_general_provisions.md)
-* [57.04 - Formation and dissolution.](57.04_formation_and_dissolution.md)
-* [57.06 - Validation and construction.](57.06_validation_and_construction.md)
-* [57.08 - Powers.](57.08_powers.md)
-* [57.12 - Officers and elections.](57.12_officers_and_elections.md)
-* [57.16 - Comprehensive plan—Local improvement districts.](57.16_comprehensive_plan—local_improvement_districts.md)
-* [57.20 - Finances.](57.20_finances.md)
-* [57.22 - Contracts for system extensions.](57.22_contracts_for_system_extensions.md)
-* [57.24 - Annexation of territory.](57.24_annexation_of_territory.md)
-* [57.28 - Withdrawal of territory.](57.28_withdrawal_of_territory.md)
-* [57.32 - Consolidation of districts—Transfer of part of district.](57.32_consolidation_of_districts—transfer_of_part_of_district.md)
-* [57.36 - Merger of districts.](57.36_merger_of_districts.md)
-* [57.42 - Disposition of property to public utility district.](57.42_disposition_of_property_to_public_utility_district.md)
-* [57.46 - Voluntary contributions to assist low-income customers.](57.46_voluntary_contributions_to_assist_low-income_customers.md)
-* [57.90 - Disincorporation of districts in counties with 210,000 population or more.](57.90_disincorporation_of_districts_in_counties_with_210000_population_or_more.md)

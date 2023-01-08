@@ -1,17 +1,2 @@
 # 85 DIKING AND DRAINAGE
 
-* [85.05 - Diking districts.](85.05_diking_districts.md)
-* [85.06 - Drainage districts and miscellaneous drainage provisions.](85.06_drainage_districts_and_miscellaneous_drainage_provisions.md)
-* [85.07 - Miscellaneous diking and drainage provisions.](85.07_miscellaneous_diking_and_drainage_provisions.md)
-* [85.08 - Diking, drainage, and sewerage improvement districts.](85.08_diking_drainage_and_sewerage_improvement_districts.md)
-* [85.12 - Federal aid to diking, drainage, and sewerage improvement districts.](85.12_federal_aid_to_diking_drainage_and_sewerage_improvement_districts.md)
-* [85.15 - Diking, drainage, sewerage improvement districts—1967 act.](85.15_diking_drainage_sewerage_improvement_districts—1967_act.md)
-* [85.16 - Maintenance costs and levies—Improvement districts.](85.16_maintenance_costs_and_levies—improvement_districts.md)
-* [85.18 - Levy for continuous benefits—Diking districts.](85.18_levy_for_continuous_benefits—diking_districts.md)
-* [85.20 - Reorganization of districts into improvement districts—1917 act.](85.20_reorganization_of_districts_into_improvement_districts—1917_act.md)
-* [85.22 - Reorganization of districts into improvement districts—1933 act.](85.22_reorganization_of_districts_into_improvement_districts—1933_act.md)
-* [85.24 - Diking and drainage districts in two or more counties.](85.24_diking_and_drainage_districts_in_two_or_more_counties.md)
-* [85.28 - Private ditches and drains.](85.28_private_ditches_and_drains.md)
-* [85.32 - Drainage district revenue act of 1961.](85.32_drainage_district_revenue_act_of_1961.md)
-* [85.36 - Powers of special districts.](85.36_powers_of_special_districts.md)
-* [85.38 - Special district creation and operation.](85.38_special_district_creation_and_operation.md)

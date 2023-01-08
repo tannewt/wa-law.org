@@ -1,17 +1,2 @@
 # 33 WASHINGTON SAVINGS ASSOCIATION ACT
 
-* [33.04 - General provisions.](33.04_general_provisions.md)
-* [33.08 - Organization—Articles—Bylaws.](33.08_organization—articles—bylaws.md)
-* [33.12 - Powers and restrictions.](33.12_powers_and_restrictions.md)
-* [33.16 - Directors, officers, and employees.](33.16_directors_officers_and_employees.md)
-* [33.20 - Members—Savings.](33.20_members—savings.md)
-* [33.24 - Loans and investments.](33.24_loans_and_investments.md)
-* [33.28 - Fees and taxes.](33.28_fees_and_taxes.md)
-* [33.32 - Foreign associations.](33.32_foreign_associations.md)
-* [33.36 - Prohibited acts—Penalties.](33.36_prohibited_acts—penalties.md)
-* [33.40 - Insolvency, liquidation, merger.](33.40_insolvency_liquidation_merger.md)
-* [33.43 - Conversion to and from federal association.](33.43_conversion_to_and_from_federal_association.md)
-* [33.44 - Conversion to mutual savings bank.](33.44_conversion_to_mutual_savings_bank.md)
-* [33.46 - Conversion of savings bank or commercial bank to association.](33.46_conversion_of_savings_bank_or_commercial_bank_to_association.md)
-* [33.48 - Stock associations.](33.48_stock_associations.md)
-* [33.54 - Satellite facilities.](33.54_satellite_facilities.md)

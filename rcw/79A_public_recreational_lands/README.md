@@ -1,15 +1,2 @@
 # 79A PUBLIC RECREATIONAL LANDS
 
-* [79A.05 - Parks and recreation commission.](79A.05_parks_and_recreation_commission.md)
-* [79A.15 - Acquisition of habitat conservation and outdoor recreation lands.](79A.15_acquisition_of_habitat_conservation_and_outdoor_recreation_lands.md)
-* [79A.25 - Recreation and conservation funding board.](79A.25_recreation_and_conservation_funding_board.md)
-* [79A.30 - Washington state horse park.](79A.30_washington_state_horse_park.md)
-* [79A.35 - Washington state recreation trails system.](79A.35_washington_state_recreation_trails_system.md)
-* [79A.40 - Conveyances for persons in recreational activities.](79A.40_conveyances_for_persons_in_recreational_activities.md)
-* [79A.45 - Skiing and commercial ski activity.](79A.45_skiing_and_commercial_ski_activity.md)
-* [79A.50 - Public lands for state or city parks.](79A.50_public_lands_for_state_or_city_parks.md)
-* [79A.55 - Scenic river system.](79A.55_scenic_river_system.md)
-* [79A.60 - Regulation of recreational vessels.](79A.60_regulation_of_recreational_vessels.md)
-* [79A.65 - Commission moorage facilities.](79A.65_commission_moorage_facilities.md)
-* [79A.70 - Washington state parks foundation.](79A.70_washington_state_parks_foundation.md)
-* [79A.80 - Access to recreational lands.](79A.80_access_to_recreational_lands.md)

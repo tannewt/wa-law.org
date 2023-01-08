@@ -1,4 +1,4 @@
-import requests_cache
+import url_history
 from bs4 import BeautifulSoup, NavigableString
 import re
 import pathlib
@@ -13,7 +13,7 @@ api_root_url = "http://wslwebservices.leg.wa.gov"
 csi_root_url = "https://app.leg.wa.gov/csi"
 root_url = "https://app.leg.wa.gov"
 
-requests = requests_cache.CachedSession("people_cache")
+requests = url_history.HistorySession("people_cache.db")
 
 email_by_name = {}
 committee_members = {
@@ -21,14 +21,14 @@ committee_members = {
     "House": {}
 }
 
-for start_year in range(2021, 2023, 2):
+for start_year in range(2023, 2025, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
     print(biennium)
 
     url = api_root_url + f"/SponsorService.asmx/GetSponsors?biennium={biennium}"
     print(url)
     sponsors = requests.get(url)
-    sponsors = BeautifulSoup(sponsors.text, "xml")
+    sponsors = BeautifulSoup(sponsors.decode("utf-8"), "xml")
     for member in sponsors.find_all("Member"):
         name = member.FirstName.text + " " + member.LastName.text
         email = member.Email.text
@@ -40,8 +40,8 @@ for start_year in range(2021, 2023, 2):
 
     url = api_root_url + f"/CommitteeService.asmx/GetCommittees?biennium={biennium}"
     print(url)
-    committees = requests.get(url)
-    committees = BeautifulSoup(committees.text, "xml")
+    committees = requests.get(url).decode("utf-8")
+    committees = BeautifulSoup(committees, "xml")
     for committee in committees.find_all("Committee"):
         agency = committee.Agency.text
         name = committee.Name.text
@@ -55,8 +55,8 @@ for start_year in range(2021, 2023, 2):
         committee_lines.append("## Members")
 
         url = api_root_url + f"/CommitteeService.asmx/GetCommitteeMembers?biennium={biennium}&agency={agency}&committeeName={name_safe}"
-        members = requests.get(url)
-        members = BeautifulSoup(members.text, "xml")
+        members = requests.get(url).decode("utf-8")
+        members = BeautifulSoup(members, "xml")
         for member in members.find_all("Member"):
             member_name = member.Name.text
             email = member.Email.text

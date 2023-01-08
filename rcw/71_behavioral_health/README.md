@@ -1,15 +1,2 @@
 # 71 BEHAVIORAL HEALTH
 
-* [71.02 - Reimbursement of costs for treatment.](71.02_reimbursement_of_costs_for_treatment.md)
-* [71.05 - Behavioral health disorders.](71.05_behavioral_health_disorders.md)
-* [71.06 - Sexual psychopaths.](71.06_sexual_psychopaths.md)
-* [71.09 - Sexually violent predators.](71.09_sexually_violent_predators.md)
-* [71.12 - Private establishments.](71.12_private_establishments.md)
-* [71.20 - Local funds for community services.](71.20_local_funds_for_community_services.md)
-* [71.24 - Community behavioral health services act.](71.24_community_behavioral_health_services_act.md)
-* [71.28 - Interstate contracts.](71.28_interstate_contracts.md)
-* [71.32 - Mental health advance directives.](71.32_mental_health_advance_directives.md)
-* [71.34 - Behavioral health services for minors.](71.34_behavioral_health_services_for_minors.md)
-* [71.36 - Coordination of children's mental health services.](71.36_coordination_of_childrens_mental_health_services.md)
-* [71.40 - Office of behavioral health consumer advocacy.](71.40_office_of_behavioral_health_consumer_advocacy.md)
-* [71.98 - Construction.](71.98_construction.md)
