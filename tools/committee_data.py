@@ -1,11 +1,11 @@
 from bs4 import BeautifulSoup
 from collections import namedtuple
 import arrow
-import cached_session
+import url_history
 import pathlib
 import csv
 
-requests = cached_session.CustomCachedSession("committee_cache")
+requests = url_history.HistorySession("committee_cache.db")
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 csi_root_url = "https://app.leg.wa.gov/csi"
@@ -15,8 +15,8 @@ def request_biennium_meetings(start_year, force_fetch):
     url = api_root_url + \
         f"/CommitteeMeetingService.asmx/GetCommitteeMeetings?beginDate={start_year}-01-01&endDate={start_year+1}-12-31"
     print(f"Loading {url}")
-    response = requests.get(url, force_fetch=force_fetch)
-    return BeautifulSoup(response.text, "xml")
+    response = requests.get(url, fetch_again=force_fetch)
+    return BeautifulSoup(response.decode("utf-8"), "xml")
 
 
 def extract_meetings(meetings_xml):
@@ -49,8 +49,8 @@ def extract_meetings(meetings_xml):
 
 def load_committee_meeting_items(agenda_id, force_fetch):
     url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetingItems?agendaId={agenda_id}"
-    response = requests.get(url, force_fetch=force_fetch)
-    items_xml = BeautifulSoup(response.text, "xml")
+    response = requests.get(url, fetch_again=force_fetch)
+    items_xml = BeautifulSoup(response.decode("utf-8"), "xml")
     return items_xml.find_all("CommitteeMeetingItem")
 
 
@@ -95,8 +95,8 @@ def load_agenda_items(agendaId, force_fetch):
     if not force_fetch and agendaId in agenda_cache:
         return agenda_cache[agendaId]
     url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={agendaId}"
-    response = requests.get(url, force_fetch=force_fetch)
-    xml_items = BeautifulSoup(response.text, "lxml")
+    response = requests.get(url, fetch_again=force_fetch)
+    xml_items = BeautifulSoup(response.decode("utf-8"), "lxml")
     agenda_items = []
     for item in xml_items.find_all(class_="agendaItem"):
         chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
@@ -131,18 +131,15 @@ def load_biennium_meetings_by_bill(start_year, now, force_fetch):
 
 def load_testifier_counts(caId, force_fetch):
     url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
-    testifiers = requests.get(url, force_fetch=force_fetch)
-    testifiers = BeautifulSoup(testifiers.text, "lxml")
-    totals = {}
+    testifiers = requests.get(url, fetch_again=force_fetch)
+    testifiers = BeautifulSoup(testifiers.decode("utf-8"), "lxml")
+    results = []
     for row in testifiers.find_all("tr"):
         cols = [c.text for c in row.find_all("td")]
         if not cols:
             continue
-        stance = cols[3]
-        if stance not in totals:
-            totals[stance] = 0
-        totals[stance] += 1
-    return totals
+        results.append(cols[1:])
+    return results
 
 # Lists upcoming hearings in order of least to most sign-ins
 if __name__ == "__main__":
