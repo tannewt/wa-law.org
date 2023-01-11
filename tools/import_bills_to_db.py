@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup, NavigableString
 import datetime
 import re
 import pathlib
+import sqlite3
 import sys
 import subprocess
 import url_history
@@ -407,7 +408,12 @@ for start_year in range(2023, 2025, 2):
                         revision = doc.Name.text.split("-")[1]
                     
                     cur = db.cursor()
-                    cur.execute("INSERT INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, short_description, None))
+                    # TODO: Store "commit_date"
+                    try:
+                        cur.execute("INSERT INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, short_description, None))
+                    except sqlite3.IntegrityError:
+                        continue
+                    # cur.execute("SELECT rowid from bills WHERE year = 2023 AND session_rowid = ? AND id = ? AND version = ?", (session_rowid, bill_number, revision))
                     bill_rowid = cur.lastrowid
                     db.commit()
 

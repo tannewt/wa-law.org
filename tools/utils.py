@@ -42,13 +42,15 @@ def remove_section(path, section):
     path.write_text("\n".join(lines_before + lines_after))
 
 def get_db(readonly=False):
-    db = sqlite3.connect("wa-laws.db")
     if readonly:
-        return db
+        return sqlite3.connect("wa-laws.db?mode=ro")
+    db = sqlite3.connect("wa-laws.db")
 
-    db.execute(("CREATE TABLE IF NOT EXISTS sessions("
+    db.execute("CREATE TABLE IF NOT EXISTS sessions("
                     "year integer,"
-                    "name text)"))
+                    "name text,"
+                    "UNIQUE(name)"
+                ")")
     db.execute(("CREATE TABLE IF NOT EXISTS bills("
                     "year integer,"
                     "session_rowid integer,"
@@ -63,18 +65,42 @@ def get_db(readonly=False):
                     "FOREIGN KEY(next_version) REFERENCES bills(rowid),"
                     "UNIQUE(session_rowid, session_law_chapter),"
                     "UNIQUE(year, id, version))"))
-    # db.execute(("CREATE TABLE meetings ("
-    #                 ""))
-    # db.execute(("CREATE TABLE agenda_items ("
-    #             "meeting_rowid integer,"
-    #             "caId integer,"
-    #             "FOREIGN KEY(next_version) REFERENCES bills(rowid)"
-    #             ")"))
-    db.execute("DROP TABLE IF EXISTS testifiers")
-    db.execute("DROP TABLE IF EXISTS positions")
+
+    db.execute("CREATE TABLE IF NOT EXISTS agencies (name text, UNIQUE(name))")
+    db.execute(("CREATE TABLE IF NOT EXISTS committees ("
+                "id integer,"
+                "session_rowid integer,"
+                "name text,"
+                "agency_rowid integer,"
+                "acronym text,"
+                "FOREIGN KEY(session_rowid) REFERENCES sessions(rowid),"
+                "FOREIGN KEY(agency_rowid) REFERENCES agency(rowid),"
+                "UNIQUE(session_rowid, id),"
+                "UNIQUE(session_rowid, acronym)"
+                ")"))
+    # db.execute("DROP TABLE IF EXISTS meetings")
+    db.execute(("CREATE TABLE IF NOT EXISTS meetings ("
+                "mId integer,"
+                "committee_rowid integer,"
+                "start_time timestamp,"
+                "notes text,"
+                "FOREIGN KEY(committee_rowid) REFERENCES committees(rowid),"
+                "UNIQUE(mId)"
+                ")"))
+    # db.execute("DROP TABLE IF EXISTS agenda_items")
+    db.execute(("CREATE TABLE IF NOT EXISTS agenda_items ("
+                "meeting_rowid integer,"
+                "bill_rowid integer,"
+                "caId integer,"
+                "description text,"
+                "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
+                "FOREIGN KEY(meeting_rowid) REFERENCES meetings(rowid),"
+                "UNIQUE(caId)"
+                ")"))
+    # db.execute("DROP TABLE IF EXISTS testifiers")
+    # db.execute("DROP TABLE IF EXISTS positions")
     db.execute("CREATE TABLE IF NOT EXISTS positions (position text, UNIQUE(position))")
     db.execute(("CREATE TABLE IF NOT EXISTS testifiers ("
-                    "bill_rowid integer,"
                     "agenda_item_rowid integer,"
                     "first_name text,"
                     "last_name text,"
@@ -83,7 +109,8 @@ def get_db(readonly=False):
                     "testifying boolean,"
                     "sign_in_time timestamp,"
                     "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
-                    "FOREIGN KEY(position_rowid) REFERENCES positions(rowid)"
+                    "FOREIGN KEY(position_rowid) REFERENCES positions(rowid),"
+                    "UNIQUE(bill_rowid, first_name, last_name, sign_in_time)"
     ")"))
     db.execute(("CREATE TABLE IF NOT EXISTS sections ("
                     "bill_rowid integer,"

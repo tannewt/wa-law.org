@@ -7,11 +7,15 @@ import utils
 import datetime
 
 db = utils.get_db()
+cur = db.cursor()
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 for start_year in range(2023, 2025, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
+    cur.execute("INSERT OR IGNORE INTO sessions VALUES (?, ?)", (start_year, str(start_year)))
+    cur.execute("SELECT rowid FROM sessions WHERE name = ?", (str(start_year),))
+    session_rowid = cur.fetchone()[0]
     print(biennium)
     now = arrow.now()
 
@@ -25,6 +29,13 @@ for start_year in range(2023, 2025, 2):
         meetings = meetings_by_bill[bill_number]
         meetings.sort(key=lambda x: x[0])
 
+        cur.execute("SELECT rowid FROM bills WHERE id = ? AND session_rowid = ?", (bill_number, session_rowid))
+        bill_rowid = cur.fetchone()
+        if bill_rowid is None:
+            print("skipping", bill_number)
+            continue
+        bill_rowid = bill_rowid[0]
+
         activity = ""
 
         testify = False
@@ -34,22 +45,40 @@ for start_year in range(2023, 2025, 2):
             chamber = meeting.Agency.text
             if not activity:
                 activity = item.HearingTypeDescription.text + " " + dt.format("ddd, MMM D h:mm a")
-            # print(activity)
-            # print(item)
-            # print(meeting)
+            committees = meeting.find_all("Committee")
+            if len(committees) > 1:
+                print(committees)
+                continue
             # doc link: https://app.leg.wa.gov/committeeschedules/Home/Documents/29441
 
+            committee = committees[0]
+            cur.execute("INSERT OR IGNORE INTO agencies VALUES (?)", (committee.Agency.text,))
+            cur.execute("SELECT rowid FROM agencies WHERE name = ?", (committee.Agency.text,))
+            agency_rowid = cur.fetchone()[0]
+
+            committee_name = committee.Name.text.replace("&amp;", "&")
+            if ";" in committee_name:
+                raise RuntimeError()
+
+            cur.execute("INSERT OR IGNORE INTO committees VALUES (?, ?, ?, ?, ?)", (int(committee.Id.text), session_rowid, committee_name, agency_rowid, committee.Acronym.text))
+            cur.execute("SELECT rowid FROM committees WHERE id = ?", (int(committee.Id.text),))
+            committee_rowid = cur.fetchone()[0]
 
             # print("[live]()") # tId=2
             # print("[written]()") # tId=4
             # print("[+/-]()") # tId=3
 
+            cur.execute("INSERT OR IGNORE INTO meetings(mId, committee_rowid, start_time, notes) VALUES (?, ?, ?, ?)", (mId, committee_rowid, dt.datetime, meeting.Notes.text))
+            cur.execute("SELECT rowid FROM meetings WHERE mId = ?;", (mId,))
+            meeting_rowid = cur.fetchone()[0]
+
             items = load_agenda_items(mId, FORCE_FETCH)
             for item in items:
                 if bill_number not in item.text:
                     continue
-                print(item, bill_number)
-                cur = db.cursor()
+                cur.execute("INSERT OR IGNORE INTO agenda_items VALUES (?, ?, ?, ?)", (meeting_rowid, bill_rowid, item.caId, item.text))
+                cur.execute("SELECT rowid FROM agenda_items WHERE caId = ?", (item.caId,))
+                item_rowid = cur.fetchone()[0]
                 url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={item.caId}"
                 testifiers = requests.get(url, fetch_again=FORCE_FETCH)
                 testifiers = BeautifulSoup(testifiers.decode("utf-8"), "lxml")
@@ -62,7 +91,7 @@ for start_year in range(2023, 2025, 2):
                         cols = [c.text for c in row.find_all("td")]
                         if not cols:
                             continue
-                        last_name, first_name = cols[1].split(", ")
+                        last_name, first_name = cols[1].split(", ", maxsplit=1)
                         organization = cols[2]
                         position = cols[3]
                         sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %H:%M:%S %p")
@@ -73,11 +102,11 @@ for start_year in range(2023, 2025, 2):
                         cur.execute("SELECT rowid FROM bills WHERE year = 2023 AND id = ?", (bill_number,))
                         bill_rowid = cur.fetchone()[0]
 
-                        print(cols)
-                        print(last_name, first_name, testifying, organization, position, sign_in_time)
-                        cur.execute("INSERT INTO testifiers (bill_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time) VALUES"
+                        # print(cols)
+                        # print(last_name, first_name, testifying, organization, position, sign_in_time)
+                        cur.execute("INSERT OR IGNORE INTO testifiers (agenda_item_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time) VALUES"
                                                            "(?, ?, ?, ?, ?, ?, ?)",
-                                                           (bill_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time))
+                                                           (item_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time))
 
                 url = csi_root_url + f"/{chamber}/TestimonyTypes/?chamber={chamber}&meetingFamilyId={item.mId}&agendaItemFamilyId={item.aId}&agendaItemId={item.caId}"
                 testimonyOptions = requests.get(url)
