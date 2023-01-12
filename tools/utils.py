@@ -43,7 +43,7 @@ def remove_section(path, section):
 
 def get_db(readonly=False):
     if readonly:
-        return sqlite3.connect("wa-laws.db?mode=ro")
+        return sqlite3.connect("file:wa-laws.db?mode=ro", uri=True)
     db = sqlite3.connect("wa-laws.db")
 
     db.execute("CREATE TABLE IF NOT EXISTS sessions("
@@ -51,6 +51,7 @@ def get_db(readonly=False):
                     "name text,"
                     "UNIQUE(name)"
                 ")")
+    # TODO: Split bills from revisions (this is more revisions) and add source url.
     db.execute(("CREATE TABLE IF NOT EXISTS bills("
                     "year integer,"
                     "session_rowid integer,"
@@ -97,7 +98,7 @@ def get_db(readonly=False):
                 "FOREIGN KEY(meeting_rowid) REFERENCES meetings(rowid),"
                 "UNIQUE(caId)"
                 ")"))
-    # db.execute("DROP TABLE IF EXISTS testifiers")
+    db.execute("DROP TABLE IF EXISTS testifiers")
     # db.execute("DROP TABLE IF EXISTS positions")
     db.execute("CREATE TABLE IF NOT EXISTS positions (position text, UNIQUE(position))")
     db.execute(("CREATE TABLE IF NOT EXISTS testifiers ("
@@ -108,9 +109,9 @@ def get_db(readonly=False):
                     "position_rowid integer,"
                     "testifying boolean,"
                     "sign_in_time timestamp,"
-                    "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
+                    "FOREIGN KEY(agenda_item_rowid) REFERENCES agenda_items(rowid),"
                     "FOREIGN KEY(position_rowid) REFERENCES positions(rowid),"
-                    "UNIQUE(bill_rowid, first_name, last_name, sign_in_time)"
+                    "UNIQUE(agenda_item_rowid, first_name, last_name, sign_in_time)"
     ")"))
     db.execute(("CREATE TABLE IF NOT EXISTS sections ("
                     "bill_rowid integer,"

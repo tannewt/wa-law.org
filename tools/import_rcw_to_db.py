@@ -8,7 +8,7 @@ import utils
 from bs4 import BeautifulSoup
 from mdit_py_plugins.anchors.index import slugify
 
-FORCE_FETCH = True
+FORCE_FETCH = False
 rcw_root_url = "https://apps.leg.wa.gov/rcw/"
 
 requests = url_history.HistorySession("rcw_cache.db")

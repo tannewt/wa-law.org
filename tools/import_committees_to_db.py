@@ -9,7 +9,7 @@ import datetime
 db = utils.get_db()
 cur = db.cursor()
 
-FORCE_FETCH = True
+FORCE_FETCH = False
 
 for start_year in range(2023, 2025, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"

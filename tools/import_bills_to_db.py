@@ -8,7 +8,7 @@ import subprocess
 import url_history
 import utils
 
-FORCE_FETCH = True
+FORCE_FETCH = False
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 
@@ -287,7 +287,9 @@ for start_year in range(2023, 2025, 2):
     for year in (start_year, start_year + 1):
         url = api_root_url + f"/AmendmentService.asmx/GetAmendments?year={year}"
         amendments = requests.get(url)
+        print(amendments)
         amendments = BeautifulSoup(amendments.decode("utf-8"), "xml")
+        print(amendments)
         count = 0
         for amendment in amendments.find_all("Amendment"):
             bill_number = amendment.BillNumber.text
@@ -329,9 +331,6 @@ for start_year in range(2023, 2025, 2):
             if bill is None:
                 raise RuntimeError("no active bill", bill_number)
 
-            bill_path = biennium_path / bill_id.replace(" ", "/").lower()
-            print(i, "/", len(bills_by_number), bill_path)
-
             short_description = ""
             if bill.ShortDescription is not None:
                 short_description = bill.ShortDescription.text
@@ -340,9 +339,7 @@ for start_year in range(2023, 2025, 2):
             else:
                 print("missing description")
                 print(bill)
-            bill_link = f"[{bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
             if status.startswith("C "):
-                bill_link = f"[{status} {bill_id}]({str(bill_path.relative_to(biennium_path))}/) - {short_description}"
                 bills_by_status["passed"].append(bill_link)
             elif " " in status and not status.startswith("Gov") and not status.startswith("Del"):
                 agency, short_committee = status.split(" ", maxsplit=1)
@@ -354,20 +351,10 @@ for start_year in range(2023, 2025, 2):
                     acronym = short_committee[:-3]
                 elif short_committee.endswith("DP"):
                     acronym = short_committee[:-2]
-                if not acronym:
-                    if status not in bills_by_status:
-                        bills_by_status[status] = []
-                    bills_by_status[status].append(bill_link)
-                else:
-                    if acronym not in bills_by_status["committee"]:
-                        bills_by_status["committee"][acronym] = []
-                    bills_by_status["committee"][acronym].append(bill_link)
             else:
                 if status not in bills_by_status:
                     bills_by_status[status] = []
                 bills_by_status[status].append(bill_link)
-
-            bill_readme = []
 
             print(bill_id, sponsor, short_description)
             # print(bill.CurrentStatus.IntroducedDate.text, bill.CurrentStatus.ActionDate.text)
@@ -409,26 +396,17 @@ for start_year in range(2023, 2025, 2):
                     
                     cur = db.cursor()
                     # TODO: Store "commit_date"
-                    try:
-                        cur.execute("INSERT INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, short_description, None))
-                    except sqlite3.IntegrityError:
-                        continue
-                    # cur.execute("SELECT rowid from bills WHERE year = 2023 AND session_rowid = ? AND id = ? AND version = ?", (session_rowid, bill_number, revision))
-                    bill_rowid = cur.lastrowid
+                    cur.execute("INSERT OR IGNORE INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, None, short_description, None))
+                    cur.execute("SELECT rowid from bills WHERE year = 2023 AND session_rowid = ? AND id = ? AND version = ?", (session_rowid, bill_number, revision))
+                    bill_rowid = cur.fetchone()[0]
                     db.commit()
 
-                    revision_path = bill_path / revision
-                    bill_readme.append("* [" + doc.ShortFriendlyName.text + "](" + str(revision_path.relative_to(bill_path)) + "/)")
-
-                    text = requests.get(url).decode("utf-8")
+                    text = requests.get(url, fetch_again=FORCE_FETCH).decode("utf-8")
                     bill_text = BeautifulSoup(text, 'xml')
                     sections = {}
                     new_chapters = {}
                     sections_handled = 0
                     section_count = 0
-                    revision_readme = ["# " + doc.LongFriendlyName.text]
-                    revision_readme.append("")
-                    revision_readme.append("[Source](" + doc.PdfUrl.text.replace(" ", "%20") + ")")
                     for section in bill_text.find_all("BillSection"):
                         section_number = section.BillSectionNumber
                         if not section_number:
@@ -452,7 +430,7 @@ for start_year in range(2023, 2025, 2):
                         else:
                             title_rowid = None
                             chapter_rowid = None
-                        # print("Bill section", section_number, section.attrs)
+                        print("Bill section", section_number, section.attrs)
                         if "action" not in section.attrs:
                             if section["type"] == "new":
                                 lines = []
@@ -627,13 +605,6 @@ for start_year in range(2023, 2025, 2):
                         for section_number in sections:
                             # print(section_number, sections[section_number])
                             pass
-
-                    revision_path.mkdir(parents=True, exist_ok=True)
-                    rm = revision_path / "README.md"
-                    rm.write_text("\n".join(revision_readme))
-            
-            rm = bill_path / "README.md"
-            rm.write_text("\n".join(bill_readme))
 
             print()
 
