@@ -1,0 +1,347 @@
+# HB 1197 - Workers' comp. providers
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1197.pdf)
+
+## Section 1
+In all hearings, actions or proceedings before the department or the board of industrial insurance appeals, or before any court on appeal from the board, any health services provider having theretofore examined or treated the claimant may be required to testify fully regarding such examination or treatment, and shall not be exempt from so testifying by reason of the relation of the health services provider to patient.
+
+## Section 2
+"Attending provider" means a person who is a member of the health care provider network established under RCW 51.36.010, is treating injured workers within the person's scope of practice, and is licensed under Title 18 RCW in one of the following professions: Physicians, chapter 18.71 RCW; osteopathy, chapter 18.57 RCW; chiropractic, chapter 18.25 RCW; naturopathy, chapter 18.36A RCW; podiatric medicine and surgery, chapter 18.22 RCW; dentistry, chapter 18.32 RCW; optometry, chapter 18.53 RCW; in the case of claims solely for mental health conditions, psychology, chapter 18.83 RCW; physician assistants, chapter 18.71A RCW; and licensed advanced registered nurse practitioners, chapter 18.79 RCW.
+
+## Section 3
+1. Whenever any accident occurs to any worker it shall be the duty of such worker or someone in his or her behalf to forthwith report such accident to his or her employer, superintendent, or supervisor in charge of the work, and of the employer to at once report such accident and the injury resulting therefrom to the department pursuant to RCW 51.28.025 where the worker has received treatment from a physician , osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced registered nurse practitioner, physician assistant, or psychologist in claims solely for mental health conditions, has been hospitalized, disabled from work, or has died as the apparent result of such accident and injury.
+
+2. Upon receipt of such notice of accident, the department shall immediately forward to the worker or his or her beneficiaries or dependents notification, in nontechnical language, of their rights under this title. The notice must specify the worker's right to receive health services from a provider of the worker's choice under RCW 51.36.010(2)(a), including chiropractic services under RCW 51.36.015, and must list the types of providers authorized to provide these services.
+
+3. Employers shall not engage in claim suppression.
+
+4. For the purposes of this section, "claim suppression" means intentionally:
+
+    a. Inducing employees to fail to report injuries;
+
+    b. Inducing employees to treat injuries in the course of employment as off‑the‑job injuries; or
+
+    c. Acting otherwise to suppress legitimate industrial insurance claims.
+
+5. In determining whether an employer has engaged in claim suppression, the department shall consider the employer's history of compliance with industrial insurance reporting requirements, and whether the employer has discouraged employees from reporting injuries or filing claims. The department has the burden of proving claim suppression by a preponderance of the evidence.
+
+6. Claim suppression does not include bona fide workplace safety and accident prevention programs or an employer's provision at the worksite of first aid as defined by the department. The department shall adopt rules defining bona fide workplace safety and accident prevention programs and defining first aid.
+
+## Section 4
+1. [Empty]
+
+    a. Where a worker is entitled to compensation under this title he or she shall file with the department or his or her self-insured employer, as the case may be, his or her application for such, together with the certificate of the physician , osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced registered nurse practitioner, physician assistant, or psychologist in claims solely for mental health conditions, who attended him or her. An application form developed by the department shall include a notice specifying the worker's right to receive health services from a provider of the worker's choice under RCW 51.36.010(2)(a),  and listing the types of providers authorized to provide these services.
+
+    b. The physician , osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced registered nurse practitioner, physician assistant, or psychologist in claims solely for mental health conditions, who attended the injured worker shall inform the injured worker of his or her rights under this title and lend all necessary assistance in making this application for compensation and such proof of other matters as required by the rules of the department without charge to the worker. The department shall provide  a manual which outlines the procedures to be followed in applications for compensation involving occupational diseases, and which describes claimants' rights and responsibilities related to occupational disease claims.
+
+2. If the application required by this section is:
+
+    a.
+
+Made to the department and the employer has not received a copy of the application, the department shall immediately send a copy of the application to the employer; or
+
+    b. Made to a self-insured employer, the employer shall forthwith send a copy of the application to the department.
+
+3. The application required by this section may be transmitted to the department electronically.
+
+## Section 5
+Where death results from injury the parties entitled to compensation under this title, or someone in their behalf, shall make application for the same to the department or self-insurer as the case may be, which application must be accompanied with proof of death and proof of relationship showing the parties to be entitled to compensation under this title, certificates of attending provider, if any, and such proof as required by the rules of the department.
+
+Upon receipt of notice of accident under RCW 51.28.010, the director shall immediately forward to the party or parties required to make application for compensation under this section, notification, in nontechnical language, of their rights under this title.
+
+## Section 6
+1. One purpose of this title is to restore the injured worker as nearly as possible to the condition of self-support as an able-bodied worker. Benefits for permanent disability shall be determined under the director's supervision, except as otherwise authorized in subsection (9) of this section, only after the injured worker's condition becomes fixed.
+
+2. All determinations of permanent disabilities shall be made by the department, except as otherwise authorized in subsection (9) of this section. Either the worker, employer, or self-insurer may make a request or the inquiry may be initiated by the director or, as authorized in subsection (9) of this section, by the self-insurer on the director or the self-insurer's own motion. Determinations shall be required in every instance where permanent disability is likely to be present. All medical reports and other pertinent information in the possession of or under the control of the employer or, if the self-insurer has made a request to the department, in the possession of or under the control of the self-insurer shall be forwarded to the director with the request.
+
+3. A request for determination of permanent disability shall be examined by the department or, if authorized in subsection (9) of this section, the self-insurer, and the department shall issue an order in accordance with RCW 51.52.050 or, in the case of a self-insured employer, the self-insurer may: (a) Enter a written order, communicated to the worker and the department self-insurance section in accordance with subsection (9) of this section, or (b) request the department to issue an order in accordance with RCW 51.52.050.
+
+4. The department or, in cases authorized in subsection (9) of this section, the self-insurer may require that the worker present himself or herself for a special medical examination by a physician or physicians selected by the department, and the department or, in cases authorized in subsection (9) of this section, the self-insurer may require that the worker present himself or herself for a personal interview. The costs of the examination or interview, including payment of any reasonable travel expenses, shall be paid by the department or self-insurer, as the case may be.
+
+5. The director may establish a medical bureau within the department to perform medical examinations under this section. Physicians hired or retained for this purpose shall be grounded in industrial medicine and in the assessment of industrial physical impairment. Self-insurers shall bear a proportionate share of the cost of the medical bureau in a manner to be determined by the department.
+
+6. Where a dispute arises from the handling of any claim before the condition of the injured worker becomes fixed, the worker, employer, or self-insurer may request the department to resolve the dispute or the director may initiate an inquiry on his or her own motion. In these cases, the department shall proceed as provided in this section and an order shall issue in accordance with RCW 51.52.050.
+
+7. [Empty]
+
+    a. If a claim (i) is accepted by a self-insurer after June 30, 1986, and before August 1, 1997, (ii) involves only medical treatment and the payment of temporary disability compensation under RCW 51.32.090 or only the payment of temporary disability compensation under RCW 51.32.090, (iii) at the time medical treatment is concluded does not involve permanent disability, (iv) is one with respect to which the department has not intervened under subsection (6) of this section, and (v) the injured worker has returned to work with the self-insured employer of record, whether at the worker's previous job or at a job that has comparable wages and benefits, the claim may be closed by the self-insurer, subject to reporting of claims to the department in a manner prescribed by department rules adopted under chapter 34.05 RCW.
+
+    b. All determinations of permanent disability for claims accepted under this subsection (7) by self-insurers shall be made by the self-insured section of the department under subsections (1) through (4) of this section.
+
+    c. Upon closure of a claim under (a) of this subsection, the self-insurer shall enter a written order, communicated to the worker and the department self-insurance section, which contains the following statement clearly set forth in bold face type: "This order constitutes notification that your claim is being closed with medical benefits and temporary disability compensation only as provided, and with the condition you have returned to work with the self-insured employer. If for any reason you disagree with the conditions or duration of your return to work or the medical benefits or the temporary disability compensation that has been provided, you must protest in writing to the department of labor and industries, self-insurance section, within sixty days of the date you received this order."
+
+8. [Empty]
+
+    a. If a claim (i) is accepted by a self-insurer after June 30, 1990, and before August 1, 1997, (ii) involves only medical treatment, (iii) does not involve payment of temporary disability compensation under RCW 51.32.090, and (iv) at the time medical treatment is concluded does not involve permanent disability, the claim may be closed by the self-insurer, subject to reporting of claims to the department in a manner prescribed by department rules adopted under chapter 34.05 RCW. Upon closure of a claim, the self-insurer shall enter a written order, communicated to the worker, which contains the following statement clearly set forth in bold-face type: "This order constitutes notification that your claim is being closed with medical benefits only, as provided. If for any reason you disagree with this closure, you must protest in writing to the Department of Labor and Industries, Olympia, within 60 days of the date you received this order. The department will then review your claim and enter a further determinative order."
+
+    b. All determinations of permanent disability for claims accepted under this subsection (8) by self-insurers shall be made by the self-insured section of the department under subsections (1) through (4) of this section.
+
+9. [Empty]
+
+    a. If a claim: (i) Is accepted by a self-insurer after July 31, 1997; (ii)(A) involves only medical treatment, or medical treatment and the payment of temporary disability compensation under RCW 51.32.090, and a determination of permanent partial disability, if applicable, has been made by the self-insurer as authorized in this subsection; or (B) involves only the payment of temporary disability compensation under RCW 51.32.090 and a determination of permanent partial disability, if applicable, has been made by the self-insurer as authorized in this subsection; (iii) is one with respect to which the department has not intervened under subsection (6) of this section; and (iv) concerns an injured worker who has returned to work with the self-insured employer of record, whether at the worker's previous job or at a job that has comparable wages and benefits, the claim may be closed by the self-insurer, subject to reporting of claims to the department in a manner prescribed by department rules adopted under chapter 34.05 RCW.
+
+    b. If a medical report submitted to the self-insurer  concludes that the worker's condition is fixed and stable and supports payment of a permanent partial disability award, and, if within fourteen days from the date the self-insurer mailed the report to the attending provider, the worker's attending provider disagrees in writing that the worker's condition is fixed and stable, the self-insurer must get a supplemental medical opinion from a provider on the department's approved examiner's list before closing the claim. In the alternative, the self-insurer may forward the claim to the department, which must review the claim and enter a final order as provided for in RCW 51.52.050.
+
+    c. Upon closure of a claim under this subsection (9), the self-insurer shall enter a written order, communicated to the worker and the department self-insurance section, which contains the following statement clearly set forth in bold-face type: "This order constitutes notification that your claim is being closed with such medical benefits and temporary disability compensation as provided to date and with such award for permanent partial disability, if any, as set forth below, and with the condition that you have returned to work with the self-insured employer. If for any reason you disagree with the conditions or duration of your return to work or the medical benefits, temporary disability compensation provided, or permanent partial disability that has been awarded, you must protest in writing to the Department of Labor and Industries, Self-Insurance Section, within sixty days of the date you received this order. If you do not protest this order to the department, this order will become final."
+
+    d. All determinations of permanent partial disability for claims accepted by self-insurers under this subsection (9) may be made by the self-insurer or the self-insurer may request a determination by the self-insured section of the department. All determinations shall be made under subsections (1) through (4) of this section.
+
+10. If the department receives a protest of an order issued by a self-insurer under subsections (7) through (9) of this section, the self-insurer's closure order must be held in abeyance. The department shall review the claim closure action and enter a further determinative order as provided for in RCW 51.52.050. If no protest is timely filed, the closing order issued by the self-insurer shall become final and shall have the same force and effect as a department order that has become final under RCW 51.52.050.
+
+11. If within two years of claim closure under subsections (7) through (9) of this section, the department determines that the self-insurer has made payment of benefits because of clerical error, mistake of identity, or innocent misrepresentation or the department discovers a violation of the conditions of claim closure, the department may require the self-insurer to correct the benefits paid or payable. This subsection (11) does not limit in any way the application of RCW 51.32.240.
+
+12. For the purposes of this section, "comparable wages and benefits" means wages and benefits that are at least ninety-five percent of the wages and benefits received by the worker at the time of injury.
+
+## Section 7
+1. When the total disability is only temporary, the schedule of payments contained in RCW 51.32.060 (1) and (2) shall apply, so long as the total disability continues.
+
+2. Any compensation payable under this section for children not in the custody of the injured worker as of the date of injury shall be payable only to such person as actually is providing the support for such child or children pursuant to the order of a court of record providing for support of such child or children.
+
+3. [Empty]
+
+    a. As soon as recovery is so complete that the present earning power of the worker, at any kind of work, is restored to that existing at the time of the occurrence of the injury, the payments shall cease. If and so long as the present earning power is only partially restored, the payments shall:
+
+        i. For claims for injuries that occurred before May 7, 1993, continue in the proportion which the new earning power shall bear to the old; or
+
+        ii. For claims for injuries occurring on or after May 7, 1993, equal eighty percent of the actual difference between the worker's present wages and earning power at the time of injury, but: (A) The total of these payments and the worker's present wages may not exceed one hundred fifty percent of the average monthly wage in the state as computed under RCW 51.08.018; (B) the payments may not exceed one hundred percent of the entitlement as computed under subsection (1) of this section; and (C) the payments may not be less than the worker would have received if (a)(i) of this subsection had been applicable to the worker's claim.
+
+    b. No compensation shall be payable under this subsection (3) unless the loss of earning power shall exceed five percent.
+
+    c. The prior closure of the claim or the receipt of permanent partial disability benefits shall not affect the rate at which loss of earning power benefits are calculated upon reopening the claim.
+
+4. [Empty]
+
+    a. The legislature finds that long-term disability and the cost of injuries is significantly reduced when injured workers remain at work following their injury. To encourage employers at the time of injury to provide light duty or transitional work for their workers, wage subsidies and other incentives are made available to employers insured with the department.
+
+    b. Whenever the employer of injury requests that a worker who is entitled to temporary total disability under this chapter be certified by the attending provider as able to perform available work other than his or her usual work, the employer shall furnish to the attending provider, with a copy to the worker, a statement describing the work available with the employer of injury in terms that will enable the attending provider to relate the  activities of the job to the worker's disability. The attending provider shall then determine whether the worker is  able to perform the work described. The worker's temporary total disability payments shall continue until the worker is released by his or her attending provider for the work, and begins the work with the employer of injury. If the work thereafter comes to an end before the worker's recovery is sufficient in the judgment of his or her attending provider to permit him or her to return to his or her usual job, or to perform other available work offered by the employer of injury, the worker's temporary total disability payments shall be resumed. Should the available work described, once undertaken by the worker, impede his or her recovery to the extent that in the judgment of his or her attending provider he or she should not continue to work, the worker's temporary total disability payments shall be resumed when the worker ceases such work.
+
+    c. To further encourage employers to maintain the employment of their injured workers, an employer insured with the department and that offers work to a worker pursuant to this subsection (4) shall be eligible for reimbursement of the injured worker's wages for light duty or transitional work equal to fifty percent of the basic, gross wages paid for that work, for a maximum of sixty-six workdays within a consecutive twenty-four month period. In no event may the wage subsidies paid to an employer on a claim exceed ten thousand dollars. Wage subsidies shall be calculated using the worker's basic hourly wages or basic salary, and no subsidy shall be paid for any other form of compensation or payment to the worker such as tips, commissions, bonuses, board, housing, fuel, health care, dental care, vision care, per diem, reimbursements for work-related expenses, or any other payments. An employer may not, under any circumstances, receive a wage subsidy for a day in which the worker did not actually perform any work, regardless of whether or not the employer paid the worker wages for that day.
+
+    d. If an employer insured with the department offers a worker work pursuant to this subsection (4) and the worker must be provided with training or instruction to be qualified to perform the offered work, the employer shall be eligible for a reimbursement from the department for any tuition, books, fees, and materials required for that training or instruction, up to a maximum of one thousand dollars. Reimbursing an employer for the costs of such training or instruction does not constitute a determination by the department that the worker is eligible for vocational services authorized by RCW 51.32.095 and 51.32.099.
+
+    e. If an employer insured with the department offers a worker work pursuant to this subsection (4), and the employer provides the worker with clothing that is necessary to allow the worker to perform the offered work, the employer shall be eligible for reimbursement for such clothing from the department, up to a maximum of four hundred dollars. However, an employer shall not receive reimbursement for any clothing it provided to the worker that it normally provides to its workers. The clothing purchased for the worker shall become the worker's property once the work comes to an end.
+
+    f. If an employer insured with the department offers a worker work pursuant to this subsection (4) and the worker must be provided with tools or equipment to perform the offered work, the employer shall be eligible for a reimbursement from the department for such tools and equipment and related costs as determined by department rule, up to a maximum of two thousand five hundred dollars. An employer shall not be reimbursed for any tools or equipment purchased prior to offering the work to the worker pursuant to this subsection (4). An employer shall not be reimbursed for any tools or equipment that it normally provides to its workers. The tools and equipment shall be the property of the employer.
+
+    g. An employer may offer work to a worker pursuant to this subsection (4) more than once, but in no event may the employer receive wage subsidies for more than sixty-six days of work in a consecutive twenty-four month period under one claim. An employer may continue to offer work pursuant to this subsection (4) after the worker has performed sixty-six days of work, but the employer shall not be eligible to receive wage subsidies for such work.
+
+    h. An employer shall not receive any wage subsidies or reimbursement of any expenses pursuant to this subsection (4) unless the employer has completed and submitted the reimbursement request on forms developed by the department, along with all related information required by department rules. No wage subsidy or reimbursement shall be paid to an employer who fails to submit a form for such payment within one year of the date the work was performed. In no event shall an employer receive wage subsidy payments or reimbursements of any expenses pursuant to this subsection (4) unless the worker's attending provider has restricted him or her from performing his or her usual work and the worker's attending provider has released him or her to perform the work offered.
+
+    i. Payments made under (b) through (g) of this subsection are subject to penalties under RCW 51.32.240(5) in cases where the funds were obtained through willful misrepresentation.
+
+    j. Once the worker returns to work under the terms of this subsection (4), he or she shall not be assigned by the employer to work other than the available work described without the worker's written consent, or without prior review and approval by the worker's attending provider. An employer who directs a claimant to perform work other than that approved by the attending provider and without the approval of the worker's attending provider shall not receive any wage subsidy or other reimbursements for such work.
+
+    k. If the worker returns to work under this subsection (4), any employee health and welfare benefits that the worker was receiving at the time of injury shall continue or be resumed at the level provided at the time of injury. Such benefits shall not be continued or resumed if to do so is inconsistent with the terms of the benefit program, or with the terms of the collective bargaining agreement currently in force.
+
+    l. In the event of any dispute as to the validity of the work offered or as to the worker's ability to perform the available work offered by the employer, the department shall make the final determination pursuant to an order that contains the notice required by RCW 51.52.060 and that is subject to appeal subject to RCW 51.52.050.
+
+5. An employer's experience rating shall not be affected by the employer's request for or receipt of wage subsidies.
+
+6. The department shall create a Washington stay-at-work account which shall be funded by assessments of employers insured through the state fund for the costs of the payments authorized by subsection (4) of this section and for the cost of creating a reserve for anticipated liabilities. Employers may collect up to one-half the fund assessment from workers.
+
+7. No worker shall receive compensation for or during the day on which injury was received or the three days following the same, unless his or her disability shall continue for a period of fourteen consecutive calendar days from date of injury: PROVIDED, That attempts to return to work in the first fourteen days following the injury shall not serve to break the continuity of the period of disability if the disability continues fourteen days after the injury occurs.
+
+8. Should a worker suffer a temporary total disability and should his or her employer at the time of the injury continue to pay him or her the wages which he or she was earning at the time of such injury, such injured worker shall not receive any payment provided in subsection (1) of this section during the period his or her employer shall so pay such wages: PROVIDED, That holiday pay, vacation pay, sick leave, or other similar benefits shall not be deemed to be payments by the employer for the purposes of this subsection.
+
+9. In no event shall the monthly payments provided in this section:
+
+    a. Exceed the applicable percentage of the average monthly wage in the state as computed under the provisions of RCW 51.08.018 as follows:
+
+AFTER
+
+PERCENTAGE
+
+June 30, 1993
+
+105%
+
+June 30, 1994
+
+110%
+
+June 30, 1995
+
+115%
+
+June 30, 1996
+
+120%
+
+    b. For dates of injury or disease manifestation after July 1, 2008, be less than fifteen percent of the average monthly wage in the state as computed under RCW 51.08.018 plus an additional ten dollars per month if the worker is married and an additional ten dollars per month for each child of the worker up to a maximum of five children. However, if the monthly payment computed under this subsection (9)(b) is greater than one hundred percent of the wages of the worker as determined under RCW 51.08.178, the monthly payment due to the worker shall be equal to the greater of the monthly wages of the worker or the minimum benefit set forth in this section on June 30, 2008.
+
+10. If the supervisor of industrial insurance determines that the worker is voluntarily retired and is no longer attached to the workforce, benefits shall not be paid under this section.
+
+11. The department shall adopt rules as necessary to implement this section.
+
+## Section 8
+1. One of the primary purposes of this title is to enable the injured worker to become employable at gainful employment. To this end, the department or self-insurers must utilize the services of individuals and organizations, public or private, whose experience, training, and interests in vocational rehabilitation and retraining qualify them to lend expert assistance to the supervisor of industrial insurance in such programs of vocational rehabilitation as may be reasonable to make the worker employable consistent with his or her physical and mental status. Where, after evaluation and recommendation by such individuals or organizations and prior to final evaluation of the worker's permanent disability and in the sole opinion of the supervisor or supervisor's designee, whether or not medical treatment has been concluded, vocational rehabilitation is both necessary and likely to enable the injured worker to become employable at gainful employment, the supervisor or supervisor's designee may, in his or her sole discretion, pay or, if the employer is a self-insurer, direct the self-insurer to pay the cost as provided in subsection (5) of this section or RCW 51.32.099, as appropriate. An injured worker may not participate in vocational rehabilitation under this section or RCW 51.32.099 if such participation would result in a payment of benefits as described in RCW 51.32.240(5), and any benefits so paid must be recovered according to the terms of that section.
+
+2. Vocational rehabilitation services may be provided to an injured worker when in the sole discretion of the supervisor or the supervisor's designee vocational rehabilitation is both necessary and likely to make the worker employable at gainful employment. In determining whether to provide vocational services and at what level, the following list must be used, in order of priority with the highest priority given to returning a worker to employment:
+
+    a. Return to the previous job with the same employer;
+
+    b. Modification of the previous job with the same employer including transitional return to work;
+
+    c. A new job with the same employer in keeping with any limitations or restrictions;
+
+    d. Modification of a new job with the same employer including transitional return to work;
+
+    e. Modification of the previous job with a new employer;
+
+    f. A new job with a new employer or self-employment based upon transferable skills;
+
+    g. Modification of a new job with a new employer;
+
+    h. A new job with a new employer or self-employment involving on-the-job training;
+
+    i. Short-term retraining.
+
+3. Notwithstanding subsection (2) of this section, vocational services may be provided to an injured worker who has suffered the loss or complete use of both legs, or arms, or one leg and one arm, or total eyesight when, in the sole discretion of the supervisor or the supervisor's designee, these services will either substantially improve the worker's quality of life or substantially improve the worker's ability to function in an employment setting, regardless of whether or not these services are either necessary or reasonably likely to make the worker employable at any gainful employment. Vocational services must be completed prior to the commencement of the worker's entitlement to benefits under RCW 51.32.060. However, workers who are eligible for vocational services under this subsection are not eligible for option 2 benefits, as provided in RCW 51.32.099(4) and 51.32.096.
+
+4. To encourage the employment of individuals who have suffered an injury or occupational disease resulting in permanent disability which may be a substantial obstacle to employment, the supervisor or supervisor's designee, in his or her sole discretion, may provide assistance including job placement services for eligible injured workers who are receiving vocational services under the return-to-work priorities listed in subsection (2)(b) through (i) of this section, except for self-employment, and to employers that employ them. The assistance listed in (a) through (f) of this subsection is only available in cases where the worker is employed:
+
+    a. Reduction or elimination of premiums or assessments owed by employers for such workers;
+
+    b. Reduction or elimination of charges against the employers in the event of further injury to such workers in their employ;
+
+    c. Reimbursement of the injured worker's wages for light duty or transitional work consistent with the limitations in RCW 51.32.090(4)(c);
+
+    d. Reimbursement for the costs of clothing that is necessary to allow the worker to perform the offered work consistent with the limitations in RCW 51.32.090(4)(e);
+
+    e. Reimbursement for the costs of tools or equipment to allow the worker to perform the work consistent with the limitations in RCW 51.32.090(4)(f);
+
+    f. A one-time payment equal to the lesser of ten percent of the worker's wages including commissions and bonuses paid or ten thousand dollars for continuous employment without reduction in base wages for at least twelve months. The twelve months begin the first date of employment and the one-time payment is available at the sole discretion of the supervisor of industrial insurance;
+
+    g. The benefits described in this section are available to a state fund employer without regard to whether the worker was employed by the state fund employer at the time of injury. The benefits are available to a self-insured employer only in cases where the worker was employed by a state fund employer at the time of injury or occupational disease manifestation;
+
+    h. The benefits described in (a) through (f) of this subsection (4) are only available in instances where a vocational rehabilitation professional and the injured worker's health care provider have confirmed that the worker has returned to work that is consistent with the worker's limitations and physical restrictions.
+
+5. [Empty]
+
+    a. Except as provided in (b) of this subsection, costs for vocational rehabilitation benefits allowed by the supervisor or supervisor's designee under subsection (1) of this section may include the cost of books, tuition, fees, supplies, equipment, transportation, child or dependent care, and other necessary expenses for any such worker in an amount not to exceed three thousand dollars in any fifty-two week period, and the cost of continuing the temporary total disability compensation under RCW 51.32.090 while the worker is actively and successfully undergoing a formal program of vocational rehabilitation.
+
+    b. Beginning with vocational rehabilitation plans approved on or after July 1, 1999, through December 31, 2007, costs for vocational rehabilitation benefits allowed by the supervisor or supervisor's designee under subsection (1) of this section may include the cost of books, tuition, fees, supplies, equipment, child or dependent care, and other necessary expenses for any such worker in an amount not to exceed four thousand dollars in any fifty-two week period, and the cost of transportation and continuing the temporary total disability compensation under RCW 51.32.090 while the worker is actively and successfully undergoing a formal program of vocational rehabilitation.
+
+    c. The expenses allowed under (a) or (b) of this subsection may include training fees for on-the-job training and the cost of furnishing tools and other equipment necessary for self-employment or reemployment. However, compensation or payment of retraining with job placement expenses under (a) or (b) of this subsection may not be authorized for a period of more than fifty-two weeks, except that such period may, in the sole discretion of the supervisor after his or her review, be extended for an additional fifty-two weeks or portion thereof by written order of the supervisor.
+
+    d. In cases where the worker is required to reside away from his or her customary residence, the reasonable cost of board and lodging must also be paid.
+
+    e. Costs paid under this subsection must be chargeable to the employer's cost experience or must be paid by the self-insurer as the case may be.
+
+6. In addition to the vocational rehabilitation expenditures provided for under subsection (5) of this section and RCW 51.32.099, an additional five thousand dollars may, upon authorization of the supervisor or the supervisor's designee, be expended for: (a) Accommodations for an injured worker that are medically necessary for the worker to participate in an approved retraining plan; and (b) accommodations necessary to perform the essential functions of an occupation in which an injured worker is seeking employment, consistent with the retraining plan or the recommendations of a vocational evaluation. The injured worker's attending provider must verify the necessity of the modifications or accommodations. The total expenditures authorized in this subsection and the expenditures authorized under RCW 51.32.250 may not exceed five thousand dollars.
+
+7. [Empty]
+
+    a. When the department has approved a vocational plan for a worker prior to January 1, 2008, regardless of whether the worker has begun participating in the approved plan, costs for vocational rehabilitation benefits allowed by the supervisor or supervisor's designee under subsection (1) of this section are limited to those provided under subsections (5) and (6) of this section.
+
+    b. For vocational plans approved for a worker between January 1, 2008, through July 31, 2015, total vocational costs allowed by the supervisor or supervisor's designee under subsection (1) of this section is limited to those provided under the pilot program established in RCW 51.32.099, and vocational rehabilitation services must conform to the requirements in RCW 51.32.099.
+
+8. The department must establish criteria to monitor the quality and effectiveness of rehabilitation services provided by the individuals and organizations. The state fund must make referrals for vocational rehabilitation services based on these performance criteria.
+
+9. The department must engage in, where feasible and cost-effective, a cooperative program with the state employment security department to provide job placement services under this section including participation by the department as a partner with WorkSource and with the private vocational rehabilitation community to refer workers to these vocational professionals for job search and job placement assistance. As a partner, the department must place vocational professional full-time employees at selected WorkSource locations who will work with employers to market the benefits of on-the-job training programs and preferred worker financial incentives as described in subsection (4) of this section. For the purposes of this subsection, "WorkSource" means the established state system that administers the federal workforce investment act of 1998.
+
+10. The benefits in this sectionand RCW 51.32.099 and 51.32.096 must be provided for the injured workers of self-insured employers. Self-insurers must report both benefits provided and benefits denied in the manner prescribed by the department by rule adopted under chapter 34.05 RCW. The director may, in his or her sole discretion and upon his or her own initiative or at any time that a dispute arises under this sectionor RCW 51.32.099 or 51.32.096, promptly make such inquiries as circumstances require and take such other action as he or she considers will properly determine the matter and protect the rights of the parties.
+
+11. Except as otherwise provided, the benefits provided for in this sectionand RCW 51.32.099 and 51.32.096 are available to any otherwise eligible worker regardless of the date of industrial injury. However, claims may not be reopened solely for vocational rehabilitation purposes.
+
+## Section 9
+1. The legislature finds that high quality medical treatment and adherence to occupational health best practices can prevent disability and reduce loss of family income for workers, and lower labor and insurance costs for employers. Injured workers deserve high quality medical care in accordance with current health care best practices. To this end, the department shall establish minimum standards for providers who treat workers from both state fund and self-insured employers. The department shall establish a health care provider network to treat injured workers, and shall accept providers into the network who meet those minimum standards. The department shall convene an advisory group made up of representatives from or designees of the workers' compensation advisory committee and the industrial insurance medical and chiropractic advisory committees to consider and advise the department related to implementation of this section, including development of best practices treatment guidelines for providers in the network. The department shall also seek the input of various health care provider groups and associations concerning the network's implementation. Network providers must be required to follow the department's evidence-based coverage decisions and treatment guidelines, policies, and must be expected to follow other national treatment guidelines appropriate for their patient. The department, in collaboration with the advisory group, shall also establish additional best practice standards for providers to qualify for a second tier within the network, based on demonstrated use of occupational health best practices. This second tier is separate from and in addition to the centers for occupational health and education established under subsection (5) of this section.
+
+2. [Empty]
+
+    a. Upon the occurrence of any injury to a worker entitled to compensation under the provisions of this title, he or she shall receive proper and necessary medical and surgical services at the hands of a physician , osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced registered nurse practitioner, physician assistant, or psychologist in claims solely for mental health conditions, of his or her own choice, if conveniently located, except as provided in (b) of this subsection, and proper and necessary hospital care and services during the period of his or her disability from such injury.
+
+    b. Once the provider network is established in the worker's geographic area, an injured worker may receive care from a nonnetwork provider only for an initial office or emergency room visit. However, the department or self-insurer may limit reimbursement to the department's standard fee for the services. The provider must comply with all applicable billing policies and must accept the department's fee schedule as payment in full.
+
+    c. The department, in collaboration with the advisory group, shall adopt policies for the development, credentialing, accreditation, and continued oversight of a network of health care providers approved to treat injured workers. Health care providers shall apply to the network by completing the department's provider application which shall have the force of a contract with the department to treat injured workers. The advisory group shall recommend minimum network standards for the department to approve a provider's application, to remove a provider from the network, or to require peer review such as, but not limited to:
+
+        i. Current malpractice insurance coverage exceeding a dollar amount threshold, number, or seriousness of malpractice suits over a specific time frame;
+
+        ii. Previous malpractice judgments or settlements that do not exceed a dollar amount threshold recommended by the advisory group, or a specific number or seriousness of malpractice suits over a specific time frame;
+
+        iii. No licensing or disciplinary action in any jurisdiction or loss of treating or admitting privileges by any board, commission, agency, public or private health care payer, or hospital;
+
+        iv. For some specialties such as surgeons, privileges in at least one hospital;
+
+    v. Whether the provider has been credentialed by another health plan that follows national quality assurance guidelines; and
+
+    vi. Alternative criteria for providers that are not credentialed by another health plan.
+
+The department shall develop alternative criteria for providers that are not credentialed by another health plan or as needed to address access to care concerns in certain regions.
+
+    d. Network provider contracts will automatically renew at the end of the contract period unless the department provides written notice of changes in contract provisions or the department or provider provides written notice of contract termination. The industrial insurance medical advisory committee shall develop criteria for removal of a provider from the network to be presented to the department and advisory group for consideration in the development of contract terms.
+
+    e. In order to monitor quality of care and assure efficient management of the provider network, the department shall establish additional criteria and terms for network participation including, but not limited to, requiring compliance with administrative and billing policies.
+
+    f. The advisory group shall recommend best practices standards to the department to use in determining second tier network providers. The department shall develop and implement financial and nonfinancial incentives for network providers who qualify for the second tier. The department is authorized to certify and decertify second tier providers.
+
+3. The department shall work with self-insurers and the department utilization review provider to implement utilization review for the self-insured community to ensure consistent quality, cost-effective care for all injured workers and employers, and to reduce administrative burden for providers.
+
+4. The department for state fund claims shall pay, in accordance with the department's fee schedule, for any alleged injury for which a worker files a claim, any initial prescription drugs provided in relation to that initial visit, without regard to whether the worker's claim for benefits is allowed. In all accepted claims, treatment shall be limited in point of duration as follows:
+
+In the case of permanent partial disability, not to extend beyond the date when compensation shall be awarded him or her, except when the worker returned to work before permanent partial disability award is made, in such case not to extend beyond the time when monthly allowances to him or her shall cease; in case of temporary disability not to extend beyond the time when monthly allowances to him or her shall cease: PROVIDED, That after any injured worker has returned to his or her work his or her medical and surgical treatment may be continued if, and so long as, such continuation is deemed necessary by the supervisor of industrial insurance to be necessary to his or her more complete recovery; in case of a permanent total disability not to extend beyond the date on which a lump sum settlement is made with him or her or he or she is placed upon the permanent pension roll: PROVIDED, HOWEVER, That the supervisor of industrial insurance, solely in his or her discretion, may authorize continued medical and surgical treatment for conditions previously accepted by the department when such medical and surgical treatment is deemed necessary by the supervisor of industrial insurance to protect such worker's life or provide for the administration of medical and therapeutic measures including payment of prescription medications, but not including those controlled substances currently scheduled by the pharmacy quality assurance commission as Schedule I, II, III, or IV substances under chapter 69.50 RCW, which are necessary to alleviate continuing pain which results from the industrial injury. In order to authorize such continued treatment the written order of the supervisor of industrial insurance issued in advance of the continuation shall be necessary.
+
+The supervisor of industrial insurance, the supervisor's designee, or a self-insurer, in his or her sole discretion, may authorize inoculation or other immunological treatment in cases in which a work-related activity has resulted in probable exposure of the worker to a potential infectious occupational disease. Authorization of such treatment does not bind the department or self-insurer in any adjudication of a claim by the same worker or the worker's beneficiary for an occupational disease.
+
+5. [Empty]
+
+    a. The legislature finds that the department and its business and labor partners have collaborated in establishing centers for occupational health and education to promote best practices and prevent preventable disability by focusing additional provider-based resources during the first twelve weeks following an injury. The centers for occupational health and education represent innovative accountable care systems in an early stage of development consistent with national health care reform efforts. Many Washington workers do not yet have access to these innovative health care delivery models.
+
+    b. To expand evidence-based occupational health best practices, the department shall establish additional centers for occupational health and education, with the goal of extending access to at least fifty percent of injured and ill workers by December 2013 and to all injured workers by December 2015. The department shall also develop additional best practices and incentives that span the entire period of recovery, not only the first twelve weeks.
+
+    c. The department shall certify and decertify centers for occupational health and education based on criteria including institutional leadership and geographic areas covered by the center for occupational health and education, occupational health leadership and education, mix of participating health care providers necessary to address the anticipated needs of injured workers, health services coordination to deliver occupational health best practices, indicators to measure the success of the center for occupational health and education, and agreement that the center's providers shall, if feasible, treat certain injured workers if referred by the department or a self-insurer.
+
+    d. Health care delivery organizations may apply to the department for certification as a center for occupational health and education. These may include, but are not limited to, hospitals and affiliated clinics and providers, multispecialty clinics, health maintenance organizations, and organized systems of network physicians.
+
+    e. The centers for occupational health and education shall implement benchmark quality indicators of occupational health best practices for individual providers, developed in collaboration with the department. A center for occupational health and education shall remove individual providers who do not consistently meet these quality benchmarks.
+
+    f. The department shall develop and implement financial and nonfinancial incentives for center for occupational health and education providers that are based on progressive and measurable gains in occupational health best practices, and that are applicable throughout the duration of an injured or ill worker's episode of care.
+
+    g. The department shall develop electronic methods of tracking evidence-based quality measures to identify and improve outcomes for injured workers at risk of developing prolonged disability. In addition, these methods must be used to provide systematic feedback to physicians regarding quality of care, to conduct appropriate objective evaluation of progress in the centers for occupational health and education, and to allow efficient coordination of services.
+
+6. If a provider fails to meet the minimum network standards established in subsection (2) of this section, the department is authorized to remove the provider from the network or take other appropriate action regarding a provider's participation. The department may also require remedial steps as a condition for a provider to participate in the network. The department, with input from the advisory group, shall establish waiting periods that may be imposed before a provider who has been denied or removed from the network may reapply.
+
+7. The department may permanently remove a provider from the network or take other appropriate action when the provider exhibits a pattern of conduct of low quality care that exposes patients to risk of physical or psychiatric harm or death. Patterns that qualify as risk of harm include, but are not limited to, poor health care outcomes evidenced by increased, chronic, or prolonged pain or decreased function due to treatments that have not been shown to be curative, safe, or effective or for which it has been shown that the risks of harm exceed the benefits that can be reasonably expected based on peer-reviewed opinion.
+
+8. The department may not remove a health care provider from the network for an isolated instance of poor health and recovery outcomes due to treatment by the provider.
+
+9. When the department terminates a provider from the network, the department or self-insurer shall assist an injured worker currently under the provider's care in identifying a new network provider or providers from whom the worker can select an attending or treating provider. In such a case, the department or self-insurer shall notify the injured worker that he or she must choose a new attending or treating provider.
+
+10. The department may adopt rules related to this section.
+
+11. The department shall report to the workers' compensation advisory committee and to the appropriate committees of the legislature on each December 1st, beginning in 2012 and ending in 2016, on the implementation of the provider network and expansion of the centers for occupational health and education. The reports must include a summary of actions taken, progress toward long-term goals, outcomes of key initiatives, access to care issues, results of disputes or controversies related to new provisions, and whether any changes are needed to further improve the occupational health best practices care of injured workers.
+
+## Section 10
+1. The legislature finds that there is a need to clarify the process and standards under which the department provides residence modification assistance to workers who have sustained catastrophic injury.
+
+2. The director shall adopt rules that take effect no later than nine months after July 24, 2005, to establish guidelines and processes for residence modification pursuant to RCW 51.36.020(7).
+
+3. In developing rules under this section, the director shall consult with interested persons, including persons with expertise in the rehabilitation of  individuals with catastrophic disabilities and modifications for adaptive housing.
+
+4. These rules must address at least the following:
+
+    a. The process for a catastrophically injured worker to access the residence modification benefits provided by RCW 51.36.020; and
+
+    b. How the department may address the needs and preferences of the individual worker on a case-by-case basis taking into account information provided by the injured worker. For purposes of determining the needs and requirements of the worker under RCW 51.36.020, including whether a modification is medically necessary, the department must consider all available information regarding the medical condition and physical restrictions of the injured worker, including the opinion of the worker's attending  provider.
+
+5. The rules should be based upon nationally accepted guidelines and publications addressing adaptive residential housing. The department must consider the guidelines established by the United States department of veterans affairs in their publication entitled "Handbook for Design: Specially Adapted Housing," and the recommendations published in "The Accessible Housing Design File" by Barrier Free Environments, Inc.
+
+6. In developing rules under this section, the director shall consult with other persons with an interest in improving standards for adaptive housing.
+
+7. The director shall report by December 2007 to the appropriate committees of the legislature on the rules adopted under this section.
+
+## Section 11
+Attending providers under this title shall comply with rules and regulations adopted by the director, and shall make such reports as may be requested by the department or self-insurer upon the condition or treatment of any such worker, or upon any other matters concerning such workers in their care. Except under RCW 49.17.210 and 49.17.250, all medical information in the possession or control of any person and relevant to the particular injury in the opinion of the department pertaining to any worker whose injury or occupational disease is the basis of a claim under this title shall be made available at any stage of the proceedings to the employer, the claimant's representative, and the department upon request, and no person shall incur any legal liability by reason of releasing such information.
+
+## Section 12
+1. [Empty]
+
+    a. Whenever the department or the self-insurer deems it necessary in order to (i) make a decision regarding claim allowance or reopening, (ii) resolve a new medical issue, an appeal, or case progress, or (iii) evaluate the worker's permanent disability or work restriction, a worker shall submit to examination by a physician or physicians selected by the department, with the rendition of a report to the person ordering the examination, the attending provider, and the injured worker.
+
+    b. The examination must be at a place reasonably convenient to the injured worker, or alternatively utilize telemedicine if the department determines telemedicine is appropriate for the examination. For purposes of this subsection, "reasonably convenient" means at a place where residents in the injured worker's community would normally travel to seek medical care for the same specialty as the examiner. The department must address in rule how to accommodate the injured worker if no approved medical examiner in the specialty needed is available in that community.
+
+2. The department or self-insurer shall provide the physician performing an examination with all relevant medical records from the worker's claim file. The director, in his or her discretion, may charge the cost of such examination or examinations to the self-insurer or to the medical aid fund as the case may be. The cost of said examination shall include payment to the worker of reasonable expenses connected therewith.
+
+3. For purposes of this section, "examination" means a physical or mental examination by a medical care provider licensed to practice medicine, osteopathy, podiatry, chiropractic, dentistry, or psychiatry at the request of the department or self-insured employer or by order of the board of industrial insurance appeals.
+
+4. This section applies prospectively to all claims regardless of the date of injury.

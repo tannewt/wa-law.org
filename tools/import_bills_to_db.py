@@ -386,17 +386,22 @@ for start_year in range(2023, 2025, 2):
                 print("no amendments")
             if bill_number in docs_by_number:
                 for doc in docs_by_number[bill_number]:
-                    url = doc.PdfUrl.text
-                    url = url.replace("Pdf", "Xml").replace("pdf", "xml")
-                    commit_date = doc.PdfLastModifiedDate.text
+                    pdf_url = doc.PdfUrl.text
+                    url = pdf_url.replace("Pdf", "Xml").replace("pdf", "xml")
+                    commit_date = doc.PdfLastModifiedDate.text.split(".", maxsplit=1)[0]
                     print(doc.Name.text, commit_date, url)
+                    commit_date = datetime.datetime.strptime(commit_date, "%Y-%m-%dT%H:%M:%S")
                     revision = "1"
                     if "-" in doc.Name.text:
                         revision = doc.Name.text.split("-")[1]
                     
                     cur = db.cursor()
-                    # TODO: Store "commit_date"
-                    cur.execute("INSERT OR IGNORE INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, None, short_description, None))
+
+                    try:
+                        cur.execute("INSERT INTO bills VALUES (2023, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (session_rowid, bill_id.split()[0], bill_number, revision, None, None, short_description, None, pdf_url, commit_date))
+                    except sqlite3.IntegrityError:
+                        # Already imported
+                        continue
                     cur.execute("SELECT rowid from bills WHERE year = 2023 AND session_rowid = ? AND id = ? AND version = ?", (session_rowid, bill_number, revision))
                     bill_rowid = cur.fetchone()[0]
                     db.commit()
@@ -438,14 +443,14 @@ for start_year in range(2023, 2025, 2):
                                     lines.append(paragraph.text)
                                 sections[section_number] = lines
                                 section_text = "\n".join(format_lists(lines))
-                                cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, previous_iteration, markdown) VALUES (?, ?, ?, ?, ?)", (bill_rowid, int(section_number), None, None, section_text))
+                                cur.execute("INSERT INTO sections(bill_rowid, bill_section, bill_section_number, chapter_rowid, previous_iteration, markdown) VALUES (?, ?, ?, ?, ?, ?)", (bill_rowid, section_number, section_count, None, None, section_text))
                                 db.commit()
                                 sections_handled += 1
                             else:
                                 pass
                                 print(section)
                         elif section["action"] == "repeal":
-                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, rcw_section, base_sl_revision) VALUES (?, ?, ?, ?, ?)", (bill_rowid, int(section_number), chapter_rowid, rcw_citation[2], base_section_rowid))
+                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, bill_section_number, chapter_rowid, rcw_section, base_sl_revision) VALUES (?, ?, ?, ?, ?, ?)", (bill_rowid, section_number, section_count, chapter_rowid, rcw_citation[2], base_section_rowid))
                             db.commit()
                             sections_handled += 1
                         elif section["action"] == "amend":
@@ -501,7 +506,7 @@ for start_year in range(2023, 2025, 2):
                                     section_lines.append("".join(line))
                             section_text = "\n".join(format_lists(section_lines))
 
-                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, rcw_section, base_sl_revision, markdown) VALUES (?, ?, ?, ?, ?, ?)", (bill_rowid, int(section_number), chapter_rowid, rcw_citation[2], base_section_rowid, section_text))
+                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, bill_section_number, chapter_rowid, rcw_section, base_sl_revision, markdown) VALUES (?, ?, ?, ?, ?, ?, ?)", (bill_rowid, section_number, section_count, chapter_rowid, rcw_citation[2], base_section_rowid, section_text))
                             db.commit()
                             sections_handled += 1
                         elif section["action"] == "addsect":
@@ -514,7 +519,7 @@ for start_year in range(2023, 2025, 2):
                                 print(section, section.attrs)
                                 continue
 
-                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, chapter_rowid, markdown) VALUES (?, ?, ?, ?)", (bill_rowid, int(section_number), chapter_rowid, section_text))
+                            cur.execute("INSERT INTO sections(bill_rowid, bill_section, bill_section_number, chapter_rowid, markdown) VALUES (?, ?, ?, ?, ?)", (bill_rowid, section_number, section_count, chapter_rowid, section_text))
                             db.commit()
                             sections_handled += 1
                         elif section["action"] == "addchap":

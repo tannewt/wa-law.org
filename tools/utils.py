@@ -52,6 +52,7 @@ def get_db(readonly=False):
                     "UNIQUE(name)"
                 ")")
     # TODO: Split bills from revisions (this is more revisions) and add source url.
+    # db.execute(("DROP TABLE IF EXISTS bills"))
     db.execute(("CREATE TABLE IF NOT EXISTS bills("
                     "year integer,"
                     "session_rowid integer,"
@@ -62,6 +63,8 @@ def get_db(readonly=False):
                     "next_version int,"
                     "description text,"
                     "session_law_chapter integer,"
+                    "source_url text,"
+                    "modified_time timestamp,"
                     "FOREIGN KEY(previous_version) REFERENCES bills(rowid),"
                     "FOREIGN KEY(next_version) REFERENCES bills(rowid),"
                     "UNIQUE(session_rowid, session_law_chapter),"
@@ -116,6 +119,7 @@ def get_db(readonly=False):
     db.execute(("CREATE TABLE IF NOT EXISTS sections ("
                     "bill_rowid integer,"
                     "bill_section text,"
+                    "bill_section_number integer,"
                     "chapter_rowid integer,"
                     "rcw_section text,"
                     "base_sl_revision integer,"
@@ -126,7 +130,9 @@ def get_db(readonly=False):
                     "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
                     "FOREIGN KEY(chapter_rowid) REFERENCES chapters(rowid),"
                     "FOREIGN KEY(base_sl_revision) REFERENCES sections(rowid),"
-                    "FOREIGN KEY(previous_iteration) REFERENCES sections(rowid))"))
+                    "FOREIGN KEY(previous_iteration) REFERENCES sections(rowid),"
+                    "UNIQUE(bill_rowid, bill_section_number)"
+                    ")"))
     db.execute("CREATE TABLE IF NOT EXISTS titles ("
                     "title_number text,"
                     "caption text)")

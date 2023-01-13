@@ -28,12 +28,14 @@ bills_index.write_text("\n".join(index_lines))
 cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (str(2023),))
 session_rowid = cur.fetchone()[0]
 
-cur.execute("SELECT rowid, prefix, id, bills.description FROM bills WHERE session_rowid = ? AND version = '1'", (session_rowid,))
-for rowid, prefix, bill_number, description in cur:
+cur.execute("SELECT rowid, prefix, id, bills.description, source_url FROM bills WHERE session_rowid = ? AND version = '1'", (session_rowid,))
+for rowid, prefix, bill_number, description, url in cur:
     print(prefix, bill_number)
     bill_readme = []
 
     bill_path = bills_path / prefix.lower() / str(bill_number)
+
+    url = url.replace(" ", "%20")
 
     for revision in ("1",):
         revision_path = bill_path / revision
@@ -42,9 +44,10 @@ for rowid, prefix, bill_number, description in cur:
 
         revision_readme = [f"# {prefix} {bill_number} - {description}"]
         revision_readme.append("")
-        revision_readme.append("[Source]()")
+        revision_readme.append(f"[Source]({url})")
+        revision_readme.append("")
         section_cursor = db.cursor()
-        section_cursor.execute("SELECT bill_section, markdown FROM sections WHERE bill_rowid = ? ORDER BY bill_section ASC", (rowid,))
+        section_cursor.execute("SELECT bill_section, markdown FROM sections WHERE bill_rowid = ? ORDER BY bill_section_number ASC", (rowid,))
         for bill_section, markdown in section_cursor:
             revision_readme.append(f"## Section {bill_section}")
             if markdown:

@@ -1,3 +1,12 @@
-# House Bill 1102
+# HB 1102 - Judge pro tempore compen.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1102.pdf)
+
+## Section 1
+A case in the superior court of any county may be tried by a judge pro tempore, who must be either: (1) A member of the bar, agreed upon in writing by the parties litigant, or their attorneys of record, approved by the court, and sworn to try the case; or (2) pursuant to supreme court rule, any sitting elected judge. Any action in the trial of such cause shall have the same effect as if it was made by a judge of such court. However, if a previously elected judge of the superior court retires leaving a pending case in which the judge has made discretionary rulings, the judge is entitled to hear the pending case as a judge pro tempore without any written agreement.
+
+A judge pro tempore shall, before entering upon his or her duties in any cause, take and subscribe the following oath or affirmation:
+
+"I do solemnly swear (or affirm, as the case may be,) that I will support the Constitution of the United States and the Constitution of the State of Washington, and that I will faithfully discharge the duties of the office of judge pro tempore in the cause wherein . . . . . . is plaintiff and . . . . . . defendant, according to the best of my ability."
+
+A judge pro tempore who is a practicing attorney  or who is a retired judge of a court of the state of Washington, shall receive a compensation of one-two hundred fiftieth of the annual salary of a superior court judge for each day engaged in said trial, to be paid in the same manner as the salary of the superior judge. A judge who is an active full-time judge of a court of the state of Washington shall receive no compensation as judge pro tempore. A judge who is an active part-time judge of a court of the state of Washington may receive compensation as a judge pro tempore only when sitting as a judge pro tempore during time for which he or she is not compensated as a part-time judge. A retired justice or judge may decline to accept compensation.

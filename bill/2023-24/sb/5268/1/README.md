@@ -1,0 +1,879 @@
+# SB 5268 - Public works procurement
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5268.pdf)
+
+## Section 1
+The legislature finds the need to increase equity and efficiencies in public works procurement. The legislature further finds that small, minority, women, and veteran-owned businesses are essential to a robust and high-functioning economy, which provides high quality living wage jobs throughout the state. The legislature further finds that public works contracting agencies need a streamlined and effective method for delivering small public works projects while protecting worker rights. Therefore, the legislature intends to provide a small business definition, best practices to be included in inclusion plans, and to update and revise the small and limited works roster process to increase administrative efficiency, to encourage greater participation and utilization by women, minority, and veteran-owned businesses and small business entities, and continue to protect the rights of workers engaging in public works projects.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Authorized local government" means a political subdivision of the state, school district, or special purpose district with public works authority.
+
+2. "Award" means the formal decision by the state or municipality notifying a responsible bidder with the lowest responsive bid of the state's or municipality's acceptance of the bid and intent to enter into a contract with the bidder.
+
+3. "Contract" means a contract in writing for the execution of public work for a fixed or determinable amount duly awarded after advertisement and competitive bid, or a contract awarded under the small works roster process in sections 14 through 16 of this act.
+
+4. "Municipality" means every city, county, town, port district, district, or other public agency authorized by law to require the execution of public work, except drainage districts, diking districts, diking and drainage improvement districts, drainage improvement districts, diking improvement districts, consolidated diking and drainage improvement districts, consolidated drainage improvement districts, consolidated diking improvement districts, irrigation districts, or other districts authorized by law for the reclamation or development of waste or undeveloped lands.
+
+5. "Public work" means all work, construction, alteration, repair, or improvement other than ordinary maintenance, executed at the cost of the state or of any municipality, or which is by law a lien or charge on any property therein. All public works, including maintenance when performed by contract shall comply with chapter 39.12 RCW. "Public work" does not include work, construction, alteration, repair, or improvement performed under contracts entered into under RCW 36.102.060(4) or under development agreements entered into under RCW 36.102.060(7) or leases entered into under RCW 36.102.060(8).
+
+6. "Responsible bidder" means a contractor who meets the criteria in RCW 39.04.350.
+
+7. "Small business" means a business meeting certification criteria for size, ownership, control, and personal net worth adopted by the office of minority and women's business enterprises in accordance with RCW 39.19.030.
+
+8. "State" means the state of Washington and all departments, supervisors, commissioners, and agencies of the state.
+
+9. "State agency" means the department of enterprise services, the state parks and recreation commission, the department of natural resources, the department of fish and wildlife, the department of transportation, any institution of higher education as defined under RCW 28B.10.016, and any other state agency delegated authority by the department of enterprise services to engage in construction, building, renovation, remodeling, alteration, improvement, or repair activities.
+
+## Section 3
+There is hereby created the office of minority and women's business enterprises. The governor shall appoint a director for the office, subject to confirmation by the senate. The director may employ a deputy director and a confidential secretary, both of which shall be exempt under chapter 41.06 RCW, and such staff as are necessary to carry out the purposes of this chapter.
+
+The office shall consult with the minority and women's business enterprises advisory committee to:
+
+1. Develop, plan, and implement programs to provide an opportunity for participation by qualified minority and women-owned and controlled businesses in public works and the process by which goods and services are procured by state agencies and educational institutions from the private sector;
+
+2. Develop a comprehensive plan insuring that qualified minority and women-owned and controlled businesses are provided an opportunity to participate in public contracts for public works and goods and services;
+
+3. Identify barriers to equal participation by qualified minority and women-owned and controlled businesses in all state agency and educational institution contracts;
+
+4. Establish annual overall goals for participation by qualified minority and women-owned and controlled businesses for each state agency and educational institution to be administered on a contract-by-contract basis or on a class-of-contracts basis;
+
+5. Develop and maintain a central minority and women's business enterprise certification list for all state agencies and educational institutions. No business is entitled to certification under this chapter unless it meets the definition of small business concern as established by the office. All applications for certification under this chapter shall be sworn under oath;
+
+6. Develop, implement, and operate a system of monitoring compliance with this chapter;
+
+7. Adopt rules under chapter 34.05 RCW, the Administrative Procedure Act, governing: (a) Establishment of agency goals; (b) development and maintenance of a central minority and women's business enterprise certification program and a public works small business certification program, including a definition of "small business concern" which shall be consistent with the small business requirements defined under section 3 of the Small Business Act, 15 U.S.C. Sec. 632, and its implementing regulations as guidance; (c) procedures for monitoring and enforcing compliance with goals, regulations, contract provisions, and this chapter; (d) utilization of standard clauses by state agencies and educational institutions, as specified in RCW 39.19.050; and (e) determination of an agency's or educational institution's goal attainment consistent with the limitations of RCW 39.19.075;
+
+8. Submit an annual report to the governor and the legislature outlining the progress in implementing this chapter;
+
+9. Investigate complaints of violations of this chapter with the assistance of the involved agency or educational institution; and
+
+10. Cooperate and act jointly or by division of labor with the United States or other states, and with political subdivisions of the state of Washington and their respective minority, socially and economically disadvantaged and women business enterprise programs to carry out the purposes of this chapter. However, the power which may be exercised by the office under this subsection permits investigation and imposition of sanctions only if the investigation relates to a possible violation of chapter 39.19 RCW, and not to violation of local ordinances, rules, regulations, however denominated, adopted by political subdivisions of the state.
+
+## Section 4
+The legislature finds that the traditional process of awarding public works contracts in lump sum to the lowest responsible bidder is a fair and objective method of selecting a contractor. However, under certain circumstances, alternative public works contracting procedures may best serve the public interest if such procedures are implemented in an open and fair process based on objective and equitable criteria. In addition, alternative public works contracting can provide increased access to contracting opportunities for women, minority, and veteran-owned businesses and small business entities. The purpose of this chapter is to authorize the use of certain supplemental alternative public works contracting procedures, to prescribe appropriate requirements to ensure that such contracting procedures serve the public interest and advance contracting opportunities for women, minority, and veteran-owned businesses and small business entities to the extent permitted by law, and to establish a process for evaluation of such contracting procedures. It is the intent of the legislature to establish that, unless otherwise specifically provided for in law, public bodies may use only those alternative public works contracting procedures specifically authorized in this chapter, subject to the requirements of this chapter. It is also the intent of the legislature that inclusion plans required by this chapter may include, with public body approval and to the extent permitted by law, features to improve access to opportunities, including outreach and mentorship, capital including, modified payment provisions, training, and other features intended to maximize the participation and success of women, minority, and veteran-owned businesses and small business entities.
+
+## Section 5
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Alternative public works contracting procedure" means the design-build, general contractor/construction manager, and job order contracting procedures authorized in RCW 39.10.300, 39.10.340, and 39.10.420, respectively.
+
+2. "Board" means the capital projects advisory review board.
+
+3. "Budget contingencies" means contingencies established by a public body outside of the design-build or general contractor/construction manager contract for payment of project costs that are not the responsibility of the design-builder or general contractor/construction manager under the respective contract.
+
+4. "Certified public body" means a public body certified to use design-build or general contractor/construction manager contracting procedures, or both, under RCW 39.10.270.
+
+5. "Coefficient" means the job order contractor's competitively bid numerical factor applied to the public body's prices as published in the unit price book.
+
+6. "Committee," unless otherwise noted, means the project review committee.
+
+7. "Design-build procedure" means a contract between a public body and another party in which the party agrees to both design and build the facility, portion of the facility, or other item specified in the contract.
+
+8.
+
+"General contractor/construction manager" means a firm with which a public body has selected to provide services during the design phase and negotiated a maximum allowable construction cost to act as construction manager and general contractor during the construction phase.
+
+9. "Heavy civil construction project" means a civil engineering project, the predominant features of which are infrastructure improvements.
+
+10. "Job order contract" means a contract in which the contractor agrees to a fixed period, indefinite quantity delivery order contract which provides for the use of work orders for public works as defined in RCW 39.04.010.
+
+11. "Job order contractor" means a registered or licensed contractor awarded a job order contract.
+
+12. "Maximum allowable construction cost" means the maximum cost of the work to construct the project including a percentage for risk contingency, negotiated support services, and approved change orders.
+
+13. "Negotiated support services" means items a general contractor would normally manage or perform on a construction project including, but not limited to surveying, hoisting, safety enforcement, provision of toilet facilities, temporary heat, cleanup, and trash removal, and that are negotiated as part of the maximum allowable construction cost.
+
+14. "Percent fee" means the percentage amount to be earned by the general contractor/construction manager as overhead and profit.
+
+15. "Price-related factor" means an evaluation factor that impacts costs which may include, but is not limited to overhead and profit, lump sum or guaranteed maximum price for the entire or a portion of the project, operating costs, or other similar factors that may apply to the project.
+
+16. "Public body" means any general or special purpose government in the state of Washington, including but not limited to state agencies, institutions of higher education, counties, cities, towns, ports, school districts, and special purpose districts.
+
+17. "Public works project" means any work for a public body within the definition of "public work" in RCW 39.04.010.
+
+18. "Risk contingency" means a contingency for use as defined in the contract and established as part of the maximum allowable construction cost for unexpected cost of work items that have not otherwise been included or addressed in the maximum allowable construction cost.
+
+19. "Small business " means a small business as defined in RCW 39.04.010.
+
+20. "Total contract cost" means the fixed amount for the detailed specified general conditions work, the negotiated maximum allowable construction cost, and the percent fee on the negotiated maximum allowable construction cost.
+
+21. "Total project cost" means the cost of the project less financing and land acquisition costs.
+
+22. "Unit price book" means a book containing specific prices, based on generally accepted industry standards and information, where available, for various items of work to be performed by the job order contractor.
+
+23. "Work order" means an order issued for a definite scope of work to be performed pursuant to a job order contract.
+
+## Section 6
+1. The board is created in the department of enterprise services to provide an evaluation of public capital projects construction processes, including the impact of contracting methods on project outcomes, and to advise the legislature on policies related to public works delivery methods.
+
+2. Members of the board identified in (a) through (f) of this subsection must be knowledgeable or have experience in public works procurement and contracting, including state and federal laws, rules, and best practices concerning public contracting for minority, women, and veteran-owned businesses and small businesses, and are appointed as follows:
+
+    a. Two representatives from construction general contracting; one representative from the architectural profession; one representative from the engineering profession; two representatives from construction specialty subcontracting; two representatives from construction trades labor organizations; one representative from the office of minority and women's business enterprises; one representative from a higher education institution; one representative from the department of enterprise services; one individual representing Washington cities; two representatives from private industry; one individual from the private sector representing the interests of the small and women, minority, or veteran-owned businesses community; and one representative of a domestic insurer authorized to write surety bonds for contractors in Washington state, each appointed by the governor. The board must reflect the gender, racial, ethnic, and geographic diversity of the state, including the interests of persons with disabilities. If a vacancy occurs, the governor shall fill the vacancy for the unexpired term;
+
+    b. One member representing counties, selected by the Washington state association of counties;
+
+    c. One member representing public ports, selected by the Washington public ports association;
+
+    d. One member representing public hospital districts, selected by the association of Washington public hospital districts;
+
+    e. One member representing school districts, selected by the Washington state school directors' association;
+
+    f. One member representing transit, selected by the Washington state transit association; and
+
+    g. Two members of the house of representatives, one from each major caucus, appointed by the speaker of the house of representatives, and two members of the senate, one from each major caucus, appointed by the president of the senate. Legislative members are nonvoting.
+
+3. Members selected under subsection (2)(a) of this section shall serve for terms of four years, with the terms expiring on June 30th on the fourth year of the term.
+
+4. The board chair is selected from among the appointed members by the majority vote of the voting members.
+
+5. Legislative members of the board shall be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members of the board, project review committee members, and committee chairs shall be reimbursed for travel expenses as provided in RCW 43.03.050 and 43.03.060.
+
+6. Vacancies are filled in the same manner as appointed. Members of the board may be removed for malfeasance or misfeasance in office, upon specific written charges by the governor, under chapter 34.05 RCW.
+
+7. The board shall meet as often as necessary.
+
+8. Board members are expected to consistently attend board meetings. The chair of the board may ask the governor to remove any member who misses more than two meetings in any calendar year without cause.
+
+9. The department of enterprise services shall provide staff support as may be required for the proper discharge of the function of the board.
+
+10. The board may establish committees as it desires and may invite nonmembers of the board to serve as committee members.
+
+11. The board shall provide opportunities for persons and entities not represented on the board to participate and provide insights on matters of interest to the board, particularly with respect to the experiences of minority, women, and veteran-owned businesses and small businesses.
+
+## Section 7
+The board has the following powers and duties:
+
+1. Develop and recommend to the legislature policies to encourage competition and to further enhance the quality, efficiency, and accountability of and equitable participation by small and women, minority, or veteran-owned businesses in capital construction projects through the use of traditional and alternative delivery methods in Washington, and make recommendations regarding best practices, expansion, continuation, elimination, or modification of the alternative public works contracting methods, including specific recommendations for reducing barriers for and increasing participation by small and women, minority, or veteran-owned businesses;
+
+2. Evaluate the use of existing contracting procedures and the potential future use of other alternative contracting procedures including competitive negotiation contracts;
+
+3. Submit recommendations to the appropriate committees of the legislature evaluating alternative contracting procedures that are not authorized under this chapter;
+
+4. Appoint members of committees; and
+
+5. Direct the department of enterprise services to collect quantitative and qualitative data on alternative public works contracting procedures to support the board's work in meeting the purpose established in RCW 39.10.220(1).
+
+## Section 8
+1. The board shall establish a project review committee to review and approve public works projects using the design-build and general contractor/construction manager contracting procedures authorized in RCW 39.10.300 and 39.10.340 and to certify public bodies as provided in RCW 39.10.270.
+
+2. The board shall, by a majority vote of the board, appoint persons to the committee who are knowledgeable in the use of the design-build and general contractor/construction manager contracting procedures. Appointments must represent a balance of public and private sector representatives of the board listed in RCW 39.10.220, and must include at least one member representing the interests of small and women, minority, or veteran-owned businesses.
+
+    a. Each member of the committee shall be appointed for a term of three years. However, for initial appointments, the board shall stagger the appointment of committee members so that the first members are appointed to serve terms of one, two, or three years from the date of appointment. Appointees may be reappointed to serve more than one term.
+
+    b. The committee shall, by a majority vote, elect a chair and vice chair for the committee.
+
+    c. The committee chair may select a person or persons on a temporary basis as a nonvoting member if project specific expertise is needed to assist in a review.
+
+3. The chair of the committee, in consultation with the vice chair, may appoint one or more panels of at least six committee members to carry out the duties of the committee. Each panel shall have balanced representation of the private and public sector representatives serving on the committee, and shall include a member representing the interests of small and women, minority, or veteran-owned businesses.
+
+4. Any member of the committee directly or indirectly affiliated with a submittal before the committee must recuse himself or herself from the committee consideration of that submittal.
+
+5. Any person who sits on the committee or panel is not precluded from subsequently bidding on or participating in projects that have been reviewed by the committee.
+
+6. The committee shall meet as often as necessary to ensure that certification and approvals are completed in a timely manner.
+
+## Section 9
+1. Contracts for design-build services shall be awarded through a competitive process using public solicitation of proposals for design-build services. At a minimum, the public body shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the public work will be done, a notice of its request for qualifications from proposers for design-build services, and the availability and location of the request for proposal documents. The public body is encouraged to post the design-build opportunity in additional areas, such as websites for business associations or the office of minority and women's business enterprises, to further publicize the opportunity for qualified design-build teams. The request for qualifications documents shall include:
+
+    a. A description of the project including the estimated design-build contract value and the intended use of the project;
+
+    b. The reasons for using the design-build procedure;
+
+    c. A description of the qualifications to be required of the proposer;
+
+    d. A description of the process the public body will use to evaluate qualifications and finalists' proposals, including evaluation factors and the relative weight of factors and any specific forms to be used by the proposers;
+
+        i. Evaluation factors for qualifications shall include technical qualifications, such as specialized experience and technical competence of the firms and the key design and construction personnel; capacity to perform; the proposer's past performance in utilization of business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs, to the extent permitted by law; ability to provide a performance and payment bond for the project; and other appropriate factors.  Cost or price-related factors are not permitted in the request for qualifications phase;
+
+        ii. Evaluation factors for finalists' proposals shall include the management plan to meet time and budget requirements and one or more price-related factors. Evaluation factors must include a proposer's inclusion plan for business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs as subconsultants, subcontractors, and suppliers for the project, to the extent permitted by law. Evaluation factors may also include, but not be limited to, the technical approach or the design concept;
+
+    e. Protest procedures including time limits for filing a protest, which in no event may limit the time to file a protest to fewer than four business days from the date the proposer was notified of the selection decision;
+
+    f. The proposed contract;
+
+    g. The honorarium to be paid to finalists submitting responsive proposals and who are not awarded a design-build contract;
+
+    h. The schedule for the procurement process and the project; and
+
+    i. Other information relevant to the project.
+
+2. The public body shall establish an evaluation committee to evaluate the responses to the request for qualifications based solely on the factors, weighting, and process identified in the request for qualifications and any addenda issued by the public body. Based on the evaluation committee's findings, the public body shall select not more than five responsive and responsible finalists to submit proposals. The public body may, in its sole discretion, reject all proposals and shall provide its reasons for rejection in writing to all proposers.
+
+3. The public body must notify all proposers of the finalists selected to move to the next phase of the selection process. The process may not proceed to the next phase until two business days after all proposers are notified of the committee's selection decision. At the request of a proposer not selected as a finalist, the public body must provide the requesting proposer with a scoring summary of the evaluation factors for its proposal. Proposers filing a protest on the selection of the finalists must file the protest in accordance with the published protest procedures. The selection process may not advance to the next phase of selection until two business days after the final protest decision is transmitted to the protestor.
+
+4. Upon selection of the finalists, the public body shall issue a request for proposals to the finalists. The request for proposal documents shall include:
+
+    a. Any specific forms to be used by the finalists; and
+
+    b. Submission of a summary of the finalist's accident prevention program and an overview of its implementation.
+
+5. The public body shall establish an evaluation committee to evaluate the proposals submitted by the finalists. The finalists' proposals shall be evaluated and scored based solely on the factors, weighting, and process identified in the request for qualifications, the request for proposals, and in any addenda published by the public body. Public bodies may request best and final proposals from finalists. The public body may initiate negotiations with the finalist submitting the highest scored proposal. If the public body is unable to execute a contract with the finalist submitting the highest scored proposal, negotiations with that finalist may be suspended or terminated and the public body may proceed to negotiate with the next highest scored finalist. Public bodies shall continue in accordance with this procedure until a contract agreement is reached or the selection process is terminated.
+
+6. The public body shall notify all finalists of the selection decision and make a selection summary of the final proposals available to all proposers within two business days of such notification. If the public body receives a timely written protest from a finalist firm, the public body may not execute a contract until two business days after the final protest decision is transmitted to the protestor. The protestor must submit its protest in accordance with the published protest procedures.
+
+7. The firm awarded the contract shall provide a performance and payment bond for the contracted amount.
+
+8. Any contract must require the firm awarded the contract to track and report to the public body and to the office of minority and women's business enterprises its utilization of the office of minority and women's business enterprises certified businesses and veteran certified businesses.
+
+9. The public body shall provide appropriate honorarium payments to finalists submitting responsive proposals that are not awarded a design-build contract. Honorarium payments shall be sufficient to generate meaningful competition among potential proposers on design-build projects. In determining the amount of the honorarium, the public body shall recognize the level of effort required to meet the selection criteria.
+
+## Section 10
+1. Public bodies should select general contractor/construction managers at a time in the project when the general contractor/construction manager's participation provides value.
+
+2. Contracts for the services of a general contractor/ construction manager under this section shall be awarded through a competitive process requiring the public solicitation of proposals for general contractor/construction manager services. At a minimum, the public body shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the public work will be performed, a notice of its request for qualifications from proposers for general contractor/construction manager services, and the availability and location of the request for proposal documents. The public body is encouraged to post the general contractor/construction manager opportunity in additional areas, such as websites for business associations or the office of minority and women's business enterprises, to further publicize the opportunity for qualified general contractors/construction managers. The public solicitation of proposals shall include:
+
+    a. A description of the project, including programmatic, performance, and technical requirements and specifications when available;
+
+    b. The reasons for using the general contractor/construction manager procedure;
+
+    c. A description of the qualifications to be required of the firm, including submission of the firm's accident prevention program;
+
+    d. A description of the process the public body will use to evaluate qualifications and proposals, including evaluation factors, the relative weight of factors, and protest procedures including time limits for filing a protest, which in no event may limit the time to file a protest to fewer than four business days from the date the proposer was notified of the selection decision;
+
+    e. The form of the contract, including any contract for preconstruction services, to be awarded;
+
+    f. The estimated maximum allowable construction cost; and
+
+    g. The bid instructions to be used by the general contractor/construction manager finalists.
+
+3. Evaluation factors for qualifications of the general contractor/construction manager shall include, but not be limited to:
+
+    a. Experience and technical competence of key personnel;
+
+    b. The proposer's past performance with negotiated or similarly complex projects;
+
+    c. The proposer's capacity to perform the work;
+
+    d. The scope of work the firm proposes to self-perform and its past performance of that scope of work;
+
+    e. The proposer's approach to executing the project, including ability to meet the project time and budget requirements; and
+
+    f. The proposer's past performance in utilization of business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs and the inclusion plan for business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs as subconsultants, subcontractors, and suppliers for the project, to the extent permitted by law.
+
+4. A public body shall establish a committee to evaluate the proposals. After the committee has selected the most qualified finalists, at the time specified by the public body, these finalists shall submit final proposals, which must include sealed bids for the percent fee on the estimated maximum allowable construction cost and which may include other price-related factors identified in the request for proposal. In no event shall a price-related factor include a request for overall project budget, estimate, or bid. The public body shall establish a time and place for the opening of sealed bids. At the time and place named, these bids must be publicly opened and read and the public body shall make all previous scoring available to the public. The public body shall select the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors published in the public solicitation of proposals. A public body shall not evaluate or disqualify a proposal based on the terms of a collective bargaining agreement.
+
+5. The public body shall notify all finalists of the selection decision and make a selection summary of the final proposals available to all proposers within two business days of such notification. If the public body receives a timely written protest from a proposer, the public body may not execute a contract until two business days after the final protest decision is transmitted to the protestor. The protestor must submit its protest in accordance with the published protest procedures.
+
+6. Public bodies may contract with the selected firm to provide services during the design phase that may include life-cycle cost design considerations, value engineering, scheduling, cost estimating, constructability, alternative construction options for cost savings, and sequencing of work, and to act as the construction manager and general contractor during the construction phase.
+
+## Section 11
+1. All subcontract work and equipment and material purchases shall be competitively bid with public bid openings and require the public solicitation of the bid documents. At a minimum, the general contractor/construction manager shall publish at least once in a legal newspaper of general circulation published in, or as near as possible to, that part of the county in which the subcontract work will be performed, a notice of its request for bid, and the availability and location of the bid documents. The general contractor/construction manager is encouraged to post the subcontract opportunity in additional areas beyond the legal newspaper as required by this subsection, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize the opportunity for qualified subcontractors. Subcontract bid packages and equipment and materials purchases shall be awarded to the responsible bidder submitting the lowest responsive bid. In preparing subcontract bid packages, the general contractor/construction manager shall not be required to violate or waive terms of a collective bargaining agreement. Individual bid packages are to be prepared with trades separated in the manner consistent with industry practice to maximize participation and competition across all trades. Bundling of trades not normally combined into one bid package is not allowed without justification and specific approval by the public body. Bid packages must be prepared to reduce barriers for and increase participation by business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs.
+
+2. All subcontract bid packages in which bidder eligibility was not determined in advance shall include the specific objective criteria that will be used by the general contractor/construction manager and the public body to evaluate bidder responsibility. If the lowest bidder submitting a responsive bid is determined by the general contractor/construction manager and the public body not to be responsible, the general contractor/construction manager and the public body must provide written documentation to that bidder explaining their intent to reject the bidder as not responsible and afford the bidder the opportunity to establish that it is a responsible bidder. Responsibility shall be determined in accordance with criteria listed in the bid documents. Protests concerning bidder responsibility determination by the general contractor/construction manager and the public body shall be in accordance with subsection (4) of this section.
+
+3. All subcontractors who bid work over $300,000 shall post a bid bond. All subcontractors who are awarded a contract over $300,000 shall provide a performance and payment bond for the contract amount. All other subcontractors shall provide a performance and payment bond if required by the general contractor/construction manager.
+
+4. If the general contractor/construction manager receives a written protest from a subcontractor bidder or an equipment or material supplier, the general contractor/construction manager shall not execute a contract for the subcontract bid package or equipment or material purchase order with anyone other than the protesting bidder without first providing at least two full business days' written notice to all bidders of the intent to execute a contract for the subcontract bid package. The protesting bidder must submit written notice of its protest no later than two full business days following the bid opening. Intermediate Saturdays, Sundays, and legal holidays are not counted.
+
+5. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
+
+6. The general contractor/construction manager may negotiate with the lowest responsible and responsive bidder to negotiate an adjustment to the lowest bid or proposal price to reduce cost based upon agreed changes to the contract plans and specifications under the following conditions:
+
+    a. All responsive bids or proposal prices exceed the published bid package estimates; and
+
+    b. The apparent low responsive bid or proposal does not exceed the published bid package estimates by more than 10 percent.
+
+7. If the negotiation is unsuccessful, the subcontract work or equipment or material purchases must be rebid.
+
+8. The general contractor/construction manager must provide a written explanation to the public body if all bids are rejected.
+
+## Section 12
+The selection process in this section may be used by public bodies certified under RCW 39.10.270. It may also be used by noncertified public bodies if this selection process has been approved for the project by the project review committee. As an alternative to the subcontractor selection process outlined in RCW 39.10.380, a general contractor/construction manager may, with the approval of the public body, select one or more subcontractors using the process outlined in this section. This alternative selection process may only be used when the anticipated value of the subcontract will exceed $3,000,000. When using the alternative selection process, the general contractor/construction manager should select the subcontractor early in the life of the public works project.
+
+1. In order to use this alternative selection process, the general contractor/construction manager and the public body must determine that it is in the best interest of the public. In making this determination the general contractor/construction manager and the public body must:
+
+    a. Publish a notice of intent to use this alternative selection process in the same legal newspaper where the public solicitation of proposals is published. The general contractor/construction manager and public body are encouraged to post the notice in additional areas beyond the legal newspaper as required under this subsection, such as websites for business associations, the office of minority and women's business enterprises, and other locations and mediums that will further publicize the intent to use this alternative selection process. Notice must be published at least 14 calendar days before conducting a public hearing. The notice must include the date, time, and location of the hearing; a statement justifying the basis and need for the alternative selection process; and how interested parties may, prior to the hearing, obtain the following: (i) The evaluation criteria and applicable weight given to each criteria that will be used for evaluation, including clear definitions of what should be considered specified general conditions work and what should be considered the fee; and (ii) protest procedures including time limits for filing a protest, which may, in no event, limit the time to file a protest to fewer than four business days from the date the proposer was notified of the selection decision. The evaluation criteria, weights assigned to each criteria, and justification for using this selection process must be made available upon request at least seven calendar days before the public hearing;
+
+    b. Conduct a hearing and provide an opportunity for any interested party to submit written and verbal comments regarding the justification for using this selection process, the evaluation criteria, weights for each criteria, and protest procedures;
+
+    c. After the public hearing, consider the written and verbal comments received and determine if using this alternative selection process is in the best interests of the public; and
+
+    d. Issue a written final determination to all interested parties. The final determination shall state the reasons the alternative selection process is determined to be in the best interests of the public and shall reasonably address the comments received regarding the criteria and weights for each criterion. Any modifications to the criteria, weights, and protest procedures based on comments received during the public hearing process must be included in the final determination. All protests of the decision to use the alternative selection process must be in writing and submitted to the public body within seven calendar days of the final determination. The public body shall not proceed with the selection process until after responding in writing to the protest.
+
+2. Contracts for the services of a subcontractor under this section must be awarded through a competitive process requiring a public solicitation of proposals. Notice of the public solicitation of proposals must be provided to the office of minority and women's business enterprises. The public solicitation of proposals must include:
+
+    a. A description of the project, including programmatic, performance, and technical requirements and specifications when available, along with a description of the project's unique aspects, complexities, and challenges;
+
+    b. The reasons for using the alternative selection process;
+
+    c. A description of the minimum qualifications required of the firm;
+
+    d. A description of the process used to evaluate qualifications and proposals, including evaluation factors and the relative weight of factors;
+
+    e. Protest procedures;
+
+    f. The form of the contract, including any contract for preconstruction services, to be awarded;
+
+    g. The estimated maximum allowable subcontract cost; and
+
+    h. The bid instructions to be used by the finalists.
+
+3. Evaluation factors for selection of the subcontractor must include, but not be limited to:
+
+    a. Ability of the firm's professional personnel to deliver projects similar in size, scope, or complexity;
+
+    b. The firm's past performance on projects similar in size, scope, or complexity;
+
+    c. The firm's ability to meet time and budget requirements on projects similar in size, scope, or complexity;
+
+    d. The scope of work the firm proposes to perform with its own forces and its ability to perform that work;
+
+    e. The firm's plan for inclusion of business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs, to the extent permitted by law;
+
+    f. The firm's proximity to the project location;
+
+    g. The firm's approach to executing the project based on its delivery of other projects similar in size, scope, or complexity;
+
+    h. The firm's approach to safety on the project;
+
+    i. The firm's safety history;
+
+    j. If interviews are part of the selection process, the solicitation shall describe how interviews will be scored or evaluated, and evaluations shall be included in the written selection summary; and
+
+    k. If the firm is selected as one of the most qualified finalists, the firm's fee and cost proposal.
+
+4. The general contractor/construction manager shall establish a committee to evaluate the proposals. At least one representative from the public body shall serve on the committee. Final proposals, including sealed bids for the percent fee on the estimated maximum allowable subcontract cost, and the fixed amount for the subcontract general conditions work specified in the request for proposal, will be requested from the most qualified firms.
+
+5. The general contractor/construction manager must notify all proposers of the most qualified firms that will move to the next phase of the selection process. The process may not proceed to the next phase until two business days after all proposers are notified of the committee's selection decision. At the request of a proposer, the general contractor/construction manager must provide the requesting proposer with a scoring summary of the evaluation factors for its proposal. Proposers filing a protest on the selection of the most qualified finalists must file the protest with the public body in accordance with the published protest procedures. The selection process may not advance to the next phase of selection until two business days after the final protest decision issued by the public body is transmitted to the protestor.
+
+6. The general contractor/construction manager and the public body shall select the firm submitting the highest scored final proposal using the evaluation factors and the relative weight of factors identified in the solicitation of proposals. Scoring of the nonprice factors shall be added to the scoring of the fee and cost proposals to determine the highest scored firm. The scoring of the nonprice factors must be made available at the public opening of the fee and cost proposals. The general contractor/construction manager shall notify all proposers of the selection decision and make a selection summary of the final proposals, which shall be available to all proposers within two business days of such notification. The general contractor/construction manager may not evaluate or disqualify a proposal based on the terms of a collective bargaining agreement.
+
+7. If the public body receives a timely written protest from a "most qualified firm," the general contractor/construction manager may not execute a contract for the protested subcontract work until two business days after the final protest decision issued by the public body is transmitted to the protestor. The protestor must submit its protest in accordance with the published protest procedures.
+
+8. If the general contractor/construction manager is unable to negotiate a satisfactory maximum allowable subcontract cost with the firm selected deemed by public body and the general contractor/construction manager to be fair, reasonable, and within the available funds, negotiations with that firm must be formally terminated and the general contractor/construction manager may negotiate with the next highest scored firm until an agreement is reached or the process is terminated.
+
+9. With the approval of the public body, the general contractor/construction manager may contract with the selected firm to provide preconstruction services during the design phase that may include life-cycle cost design considerations, value engineering, scheduling, cost estimating, constructability, alternative construction options for cost savings, and sequencing of work; and to act as the subcontractor during the construction phase.
+
+10. The maximum allowable subcontract cost must be used to establish a total subcontract cost for purposes of a performance and payment bond. Total subcontract cost means the fixed amount for the detailed specified general conditions work, the negotiated maximum allowable subcontract cost, and the percent fee on the negotiated maximum allowable subcontract cost. Maximum allowable subcontract cost means the maximum cost to complete the work specified for the subcontract, including the estimated cost of work to be performed by the subcontractor's own forces, a percentage for risk contingency, negotiated support services, and approved change orders. The maximum allowable subcontract cost must be negotiated between the general contractor/construction manager and the selected firm when the construction documents and specifications are at least ninety percent complete. Final agreement on the maximum allowable subcontract cost is subject to the approval of the public body.
+
+11. If the work of the subcontractor is completed for less than the maximum allowable subcontract cost, any savings not otherwise negotiated as part of an incentive clause becomes part of the risk contingency included in the general contractor/construction manager's maximum allowable construction cost. If the work of the subcontractor is completed for more than the maximum allowable subcontract cost, the additional cost is the responsibility of that subcontractor. An independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs. The public body or general contractor/construction manager shall define the scope of the audit in the contract.
+
+12. A subcontractor selected under this section may perform work with its own forces. In the event it elects to subcontract some of its work, it must select a subcontractor utilizing the procedure outlined in RCW 39.10.380.
+
+## Section 13
+In addition to the general contractor/construction manager requirements established in this chapter, public bodies utilizing the general contractor/construction manager method for a heavy civil construction project must also comply with the following requirements:
+
+1. The heavy civil construction general contractor/construction manager contract solicitation must:
+
+    a. Provide the reasons for using the general contractor/construction manager procedure, including a clear statement that the public body is electing to procure the project as a heavy civil construction project;
+
+    b. Indicate the minimum percentage of the cost of the work to construct the project that will constitute the negotiated self-perform portion of the project;
+
+    c. Indicate whether the public body will allow the price to be paid for the negotiated self-perform portion of the project to be deemed a cost of the work to which the general contractor/construction manager's percent fee applies; and
+
+    d. Require proposals to indicate the proposer's fee for the negotiated self-perform portion of the project;
+
+2. As part of the negotiation of the maximum allowable construction cost established in RCW 39.10.370(1), the general contractor/construction manager shall submit a proposed construction management and contracting plan, which must include, at a minimum:
+
+    a. The scope of work and cost estimates for each bid package;
+
+    b. A proposed price and scope of work for the negotiated self-perform portion of the project;
+
+    c. The bases used by the general contractor/construction manager to develop all cost estimates, including the negotiated self-perform portion of the project; and
+
+    d. The general contractor/construction manager's updated inclusion plan for business entities certified with the office of minority and women's business enterprises, including small businesses and business entities certified with the department of veterans affairs, and any other  underutilized businesses as the public body may designate in the public solicitation of proposals, as subcontractors and suppliers for the project;
+
+3. The public body and general contractor/construction manager may negotiate the scopes of work to be procured by bid and the price and scope of work for the negotiated self-perform portion of the project, if any;
+
+4. The negotiated self-perform portion of the project must not exceed 50 percent of the cost of the work to construct the project;
+
+5. Notwithstanding any contrary provision of this chapter, for a project that a public body has elected to procure as a heavy civil construction project under this chapter, at least 30 percent of the cost of the work to construct the project included in the negotiated maximum allowable construction cost must be procured through competitive sealed bidding in which bidding by the general contractor/construction manager or its subsidiaries is prohibited;
+
+6. Subject to the limitation of subsection (5) of this section, the public body may additionally negotiate with the general contractor/construction manager to determine on which scopes of work the general contractor/construction manager will be permitted to bid, if any;
+
+7. The public body and general contractor/construction manager shall negotiate, to the public body's satisfaction, a fair and reasonable inclusion plan;
+
+8. If the public body is unable to negotiate to its reasonable satisfaction a component of this section, negotiations with the firm must be terminated and the public body shall negotiate with the next highest scored firm and continue until an agreement is reached or the process is terminated; and
+
+9. For a project procured as a heavy civil construction project, an independent audit, paid for by the public body, must be conducted to confirm the proper accrual of costs as outlined in the contract. The public body shall define the scope of the audit in the contract.
+
+## Section 14
+1. A state agency or an authorized local government may utilize a statewide small works roster in accordance with subsection (2) of this section or create and maintain one or more small works rosters for different specialties, categories of anticipated work, or geographic areas served by contractors on the roster that have registered for inclusion on that particular roster.
+
+    a. The small works roster shall consist of all responsible contractors who have requested to be on the list, and where required by law, are properly licensed or registered to perform such work in this state in accordance with RCW 39.04.350.
+
+    b. A state agency or authorized local government establishing a small works roster must require contractors desiring to be placed on the roster to indicate if they meet the definition of women and minority-owned business as described in RCW 39.19.030(7)(b), veteran-owned business as defined in RCW 43.60A.010, or small business as defined in RCW 39.04.010, and to keep current records of any applicable licenses, certifications, registrations, bonding, insurance, or other appropriate matters on file with the appropriate agency as a condition of being placed on the roster and award of contract.
+
+    c. At least once a year, the state agency or local government must publish in a newspaper of general circulation and provide the office of minority and women's business enterprises' directory of certified firms a notice of the existence of the roster and solicit contractors for the roster.
+
+    d. Responsible contractors must be added to an appropriate roster at any time they submit a written request and the necessary records.
+
+    e. The contractor must agree and be able to receive notifications and other communications via email.
+
+    f. State agencies or authorized local governments using a small works roster may not break a project into units or construct a project by phases if done for the purposes of avoiding maximum dollar amounts set by this act.
+
+2. The department of commerce though the municipal research and services program shall develop a statewide small works roster in compliance with subsection (1) of this section by June 30, 2024. The municipal research and services program must develop criteria for the statewide roster with collaboration from affected state and local agencies. The statewide roster must have features to filter the roster by different specialties, categories of anticipated work, or geographic areas served by contractors. The roster must also indicate if the contractor is designated as a small business as defined in RCW 39.04.010.
+
+3. The department of commerce shall provide funding to the municipal research and services program as appropriated to maintain and publicize a small works roster and work with the municipal research and services center to notify state and local governments authorized to use small works rosters of the statewide roster authority and to provide guidance on how to use the authority. The guidance may take the form of a manual provided to local governments.
+
+4. A state agency establishing a small works roster shall adopt rules implementing this section. A local government establishing a small works roster shall adopt an ordinance or resolution implementing this section. Procedures included in rules adopted by the department of enterprise services in implementing this section must be included in any rules providing for a small works roster that is adopted by another state agency, if the authority for that state agency to engage in these activities has been delegated to it by the department of enterprise services under chapter 43.19 RCW. An interlocal contract or agreement between two or more state agencies or local governments establishing a small works roster to be used by the parties to the agreement or contract must clearly identify the lead entity that is responsible for implementing the provisions of this subsection.
+
+## Section 15
+1. This section provides uniform small works roster provisions to award contracts for construction, building, renovation, remodeling, alteration, repair, or improvement of real property that may be used by state agencies and by any local government that is expressly authorized to use these provisions. These provisions may be used in lieu of other procedures to award contracts for such work with an estimated cost of $350,000 or less excluding state sales tax. The small works roster process includes the direct contract provisions authorized under this section and any local government authorized to award contracts using the small works roster process under this section may award contracts using the direct contract provisions of this section. State agencies and authorized local governments using small works rosters must establish procedures for implementing this act.
+
+2. State agencies and authorized local governments must document good faith efforts annually implementing subsections (6) and (7) of this section.
+
+3. Invitations for bids or direct contract negotiation must include, at a minimum, an estimate for the scope of work including the nature of the work to be performed as well as the materials and equipment to be furnished. Detailed plans and specifications need not be included.
+
+4. The department of enterprise services must develop and make available on its public-facing website templates for bid invitations, bidding, and contracting that may be used by state agencies, authorized local governments, and contractors.
+
+    a. [Empty]
+
+        i. For small works roster projects with an estimated cost less than $350,000, not including sales tax, state agencies and authorized local governments may contract by securing written or electronic quotations to assure that a competitive price is established and to award contracts to the responsible bidder with the lowest responsive bid.
+
+        ii. A state agency or authorized local government contracting through a small works roster shall invite bids notifying all contractors on the applicable roster that have indicated interest in performing work in the applicable geographical area.
+
+    b. For small public works projects with an estimated cost less than $150,000, not including sales tax, to increase the utilization of small businesses, state agencies and local governments are encouraged to and may direct contract with small businesses as defined in this act, before direct contracting with other contractors on the appropriate small works roster without a competitive process as follows:
+
+        i. If there are six or more contractors meeting the definition of small business on the applicable roster, the state agency or authorized local government must direct contract with one of those small businesses on the applicable roster that have indicated interest in performing work in the applicable geographical area.
+
+        ii. If there are five or less contractors meeting the definition of small business on the applicable roster, the state agency or authorized local government may direct contract with any contractor on the applicable roster.
+
+        iii. It is the intent of the legislature to increase utilization of small, minority, women, and veteran-owned businesses. Each state agency and authorized local government shall establish a women, minority, and veteran-owned business and small business utilization plan. A state agency or authorized local government engaging in direct contracting may not favor certain contractors on the appropriate small works roster by repeatedly awarding contracts without documented attempts to direct contract with other contractors on the appropriate small works roster.
+
+        iv. If the state agency or authorized local government elects not to use the methods outlined in this subsection, it may not use direct contracting and must invite bids by electronically notifying all contractors on the applicable roster that have indicated interest in performing work in the applicable geographical area as described in this section.
+
+5. For small public works contracts under $5,000, there is no requirement for retainage or performance bonds. Small public works contracts valued at more than $5,000 shall be subject to performance bond requirements set forth in chapter 39.08 RCW and retainage requirements set forth in RCW 60.28.011(1)(a), provided, however, that the awarding state agency or local government may reduce or waive retainage requirements, thereby assuming the liability for the contractor's nonpayment of: (a) Laborers, mechanics, subcontractors, materialpersons, and suppliers; and (b) taxes, increases, and penalties pursuant to Titles 50, 51, and 82 RCW that may be due from the contractor for the project. Any such waiver will not affect the rights of the state agency or local government to recover against the contractor for any payments made on the contractor's behalf. For small public works contracts awarded through a bid solicitation, notice of any retainage reduction or waiver must be provided in bid solicitations.
+
+6. After an award is made, the bid quotations obtained shall be recorded, publicly available, and available by request.
+
+7. Annually, a state agency or authorized local government must publish a list of small works contracts awarded and contractors contacted for direct negotiation pursuant to RCW 39.04.200.
+
+## Section 16
+Beginning in 2025 and every five years thereafter, the capital projects advisory review board must review construction cost escalation data for Washington state, readily available in industry publications, roster utilization, and other appropriate data and metrics, and make recommendations to the appropriate committees of the legislature on adjustments to the contracting thresholds described in section 15 of this act.
+
+## Section 17
+1. When, in the opinion of the board of directors of any school district, the cost of any furniture, supplies, equipment, building, improvements, or repairs, or other work or purchases, except books, will equal or exceed the threshold levels specified in subsections (2) and (4) of this section, complete plans and specifications for such work or purchases shall be prepared and notice by publication given in at least one newspaper of general circulation within the district, once each week for two consecutive weeks, of the intention to receive bids and that specifications and other information may be examined at the office of the board or any other officially designated location. The cost of any public work, improvement, or repair for the purposes of this section shall be the aggregate of all amounts to be paid for labor, material, and equipment on one continuous or interrelated project where work is to be performed simultaneously or in close sequence. The bids shall be in writing and shall be opened and read in public on the date and in the place named in the notice and after being opened shall be filed for public inspection.
+
+2. Every purchase of furniture, equipment, or supplies, except books, the cost of which is estimated to be in excess of $40,000, shall be on a competitive basis. The board of directors shall establish a procedure for securing telephone and/or written quotations for such purchases. Whenever the estimated cost is from $40,000 up to $75,000, the procedure shall require quotations from at least three different sources to be obtained in writing or by telephone, and recorded for public perusal. Whenever the estimated cost is in excess of $75,000, the public bidding process provided in subsection (1) of this section shall be followed.
+
+3. Any school district may purchase goods produced or provided in whole or in part from class II inmate work programs operated by the department of corrections pursuant to RCW 72.09.100, including but not limited to furniture, equipment, or supplies. School districts are encouraged to set as a target to contract, beginning after June 30, 2006, to purchase up to one percent of the total goods required by the school districts each year, goods produced or provided in whole or in part from class II inmate work programs operated by the department of corrections.
+
+4. The board may make improvements or repairs to the property of the district through a department within the district without following the public bidding process provided in subsection (1) of this section when the total of such improvements or repairs does not exceed the sum of $75,000. Whenever the estimated cost of a building, improvement, repair, or other public works project is one hundred thousand dollars or more, the public bidding process provided in subsection (1) of this section shall be followed unless the contract is let using the small works roster process in sections 14 through 16 of this act or under any other procedure authorized for school districts. One or more school districts may authorize an educational service district to establish and operate a small works roster for the school district under the provisions of sections 14 through 16 of this act.
+
+5. The contract for the work or purchase shall be awarded to the lowest responsible bidder as described in RCW 39.26.160(2) but the board may by resolution reject any and all bids and make further calls for bids in the same manner as the original call. On any work or purchase the board shall provide bidding information to any qualified bidder or the bidder's agent, requesting it in person.
+
+6. In the event of any emergency when the public interest or property of the district would suffer material injury or damage by delay, upon resolution of the board declaring the existence of such an emergency and reciting the facts constituting the same, the board may waive the requirements of this section with reference to any purchase or contract: PROVIDED, That an "emergency," for the purposes of this section, means a condition likely to result in immediate physical injury to persons or to property of the school district in the absence of prompt remedial action.
+
+7. This section does not apply to the direct purchase of school buses by school districts and educational services in accordance with RCW 28A.160.195.
+
+8. This section does not apply to the purchase of Washington grown food.
+
+9. At the discretion of the board, a school district may develop and implement policies and procedures to facilitate and maximize to the extent practicable, purchases of Washington grown food including, but not limited to, policies that permit a percentage price preference for the purpose of procuring Washington grown food.
+
+10. As used in this section, "Washington grown" has the definition in RCW 15.64.060.
+
+11. As used in this section, "price percentage preference" means the percent by which a responsive bid from a responsible bidder whose product is a Washington grown food may exceed the lowest responsive bid submitted by a responsible bidder whose product is not a Washington grown food.
+
+## Section 18
+1. When the cost to The Evergreen State College or any regional or state university of any building, construction, renovation, remodeling, or demolition, other than maintenance or repairs, will equal or exceed the sum of $90,000, or $45,000 if the work involves one trade or craft area, complete plans and specifications for the work shall be prepared, the work shall be put out for public bid, and the contract shall be awarded to the responsible bidder who submits the lowest responsive bid.
+
+2. Any building, construction, renovation, remodeling, or demolition project that exceeds the dollar amounts in subsection (1) of this section is subject to the provisions of chapter 39.12 RCW.
+
+3. The Evergreen State College or any regional or state university may require a project to be put to public bid even when it is not required to do so under subsection (1) of this section. Any project publicly bid under this subsection is subject to the provisions of chapter 39.12 RCW.
+
+4. Where the estimated cost of any building, construction, renovation, remodeling, or demolition is less than $90,000 or the contract is awarded by the small works roster procedure authorized in sections 14 through 16 of this act, the publication requirements of RCW 39.04.020 do not apply.
+
+5. In the event of any emergency when the public interest or property of The Evergreen State College or a regional or state university would suffer material injury or damage by delay, the president of such college or university may declare the existence of an emergency and, reciting the facts constituting the same, may waive the requirements of this section with reference to any contract in order to correct the condition causing the emergency. For the purposes of this section, "emergency" means a condition likely to result in immediate physical injury to persons or to property of the college or university in the absence of prompt remedial action or a condition which immediately impairs the institution's ability to perform its educational obligations.
+
+6. This section does not apply when a contract is awarded by the small works roster procedure authorized in sections 14 through 16 of this act or under any other procedure authorized for an institution of higher education.
+
+## Section 19
+1. The boards of trustees of college districts are empowered in accordance with the provisions of this chapter to provide for the construction, reconstruction, erection, equipping, demolition, and major alterations of buildings and other capital assets, and the acquisition of sites, rights-of-way, easements, improvements, or appurtenances for the use of the aforementioned colleges as authorized by the college board in accordance with RCW 28B.50.140; to be financed by bonds payable out of special funds from revenues hereafter derived from income received from such facilities, gifts, bequests, or grants, and such additional funds as the legislature may provide, and payable out of a bond retirement fund to be established by the respective district boards in accordance with rules of the state board. With respect to building, improvements, or repairs, or other work, where the estimated cost exceeds $90,000, or $45,000 if the work involves one trade or craft area, complete plans and specifications for the work shall be prepared, the work shall be put out for a public bid, and the contract shall be awarded to the responsible bidder who submits the lowest responsive bid. Any project regardless of dollar amount may be put to public bid.
+
+2. This section does not apply when a contract is awarded by the small works roster procedure authorized in sections 14 through 16 of this act.
+
+3. Where the estimated cost to any college of any building, improvements, or repairs, or other work, is less than $90,000, or $45,000 if the work involves one trade or craft area, the publication requirements of RCW 39.04.020 do not apply.
+
+## Section 20
+1. As used in this section, the term "public works" means as defined in RCW 39.04.010.
+
+2. A first‑class city may have public works performed by contract pursuant to public notice and call for competitive bids. As limited by subsection (3) of this section, a first‑class city may have public works performed by city employees in any annual or biennial budget period equal to a dollar value not exceeding 10 percent of the public works construction budget, including any amount in a supplemental public works construction budget, over the budget period. The amount of public works that a first-class city has a county perform for it under RCW 35.77.020 shall be included within this 10 percent limitation.
+
+If a first‑class city has public works performed by public employees in any budget period that are in excess of this 10 percent limitation, the amount in excess of the permitted amount shall be reduced from the otherwise permitted amount of public works that may be performed by public employees for that city in its next budget period. Twenty percent of the motor vehicle fuel tax distributions to that city shall be withheld if two years after the year in which the excess amount of work occurred, the city has failed to so reduce the amount of public works that it has performed by public employees. The amount so withheld shall be distributed to the city when it has demonstrated in its reports to the state auditor that the amount of public works it has performed by public employees has been so reduced.
+
+Whenever a first‑class city has had public works performed in any budget period up to the maximum permitted amount for that budget period, all remaining public works within that budget period shall be done by contract pursuant to public notice and call for competitive bids.
+
+The state auditor shall report to the state treasurer any first‑class city that exceeds this amount and the extent to which the city has or has not reduced the amount of public works it has performed by public employees in subsequent years.
+
+3. In addition to the percentage limitation provided in subsection (2) of this section, a first-class city shall not have public employees perform a public works project in excess of $150,000 if more than a single craft or trade is involved with the public works project, or a public works project in excess of $75,500 if only a single craft or trade is involved with the public works project or the public works project is street signalization or street lighting. A public works project means a complete project. The restrictions in this subsection do not permit the division of the project into units of work or classes of work to avoid the restriction on work that may be performed by day labor on a single project.
+
+4. In addition to the accounting and recordkeeping requirements contained in RCW 39.04.070, every first-class city annually may prepare a report for the state auditor indicating the total public works construction budget and supplemental public works construction budget for that year, the total construction costs of public works performed by public employees for that year, and the amount of public works that is performed by public employees above or below ten percent of the total construction budget. However, if a city budgets on a biennial basis, this annual report may indicate the amount of public works that is performed by public employees within the current biennial period that is above or below ten percent of the total biennial construction budget.
+
+Each first‑class city with a population of 150,000 or less shall use the form required by RCW 43.09.205 to account and record costs of public works in excess of $5,000 that are not let by contract.
+
+5. The cost of a separate public works project shall be the costs of materials, supplies, equipment, and labor on the construction of that project. The value of the public works budget shall be the value of all the separate public works projects within the budget.
+
+6. The competitive bidding requirements of this section may be waived by the city legislative authority pursuant to RCW 39.04.280 if an exemption contained within that section applies to the work or contract.
+
+7. In lieu of the procedures of subsections (2) and (6) of this section, a first‑class city may let contracts using the small works roster process in sections 14 through 16 of this act.
+
+Whenever possible, the city shall invite at least one proposal from a certified minority or woman contractor who shall otherwise qualify under this section.
+
+8. The allocation of public works projects to be performed by city employees shall not be subject to a collective bargaining agreement.
+
+9. This section does not apply to performance-based contracts, as defined in RCW 39.35A.020(6), that are negotiated under chapter 39.35A RCW.
+
+10. Nothing in this section shall prohibit any first‑class city from allowing for preferential purchase of products made from recycled materials or products that may be recycled or reused.
+
+11. [Empty]
+
+    a. Any first-class city may procure public works with a unit priced contract under this section for the purpose of completing anticipated types of work based on hourly rates or unit pricing for one or more categories of work or trades.
+
+    b. For the purposes of this section, "unit priced contract" means a competitively bid contract in which public works are anticipated on a recurring basis to meet the business or operational needs of the city, under which the contractor agrees to a fixed period indefinite quantity delivery of work, at a defined unit price for each category of work.
+
+    c. Unit priced contracts must be executed for an initial contract term not to exceed three years, with the city having the option of extending or renewing the unit priced contract for one additional year.
+
+    d. Invitations for unit price bids shall include, for purposes of the bid evaluation, estimated quantities of the anticipated types of work or trades, and specify how the city will issue or release work assignments, work orders, or task authorizations pursuant to a unit priced contract for projects, tasks, or other work based on the hourly rates or unit prices bid by the contractor. Contracts must be awarded to the lowest responsible bidder as per RCW 39.04.010. Whenever possible, the city must invite at least one proposal from a certified minority or woman contractor who otherwise qualifies under this section.
+
+    e. Unit price contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the prevailing wage rates in effect at the beginning date for each contract year. Unit priced contracts must have prevailing wage rates updated annually. Intents and affidavits for prevailing wages paid must be submitted annually for all work completed within the previous 12-month period of the unit priced contract.
+
+## Section 21
+1. Any second‑class city or any town may construct any public works, as defined in RCW 39.04.010, by contract or day labor without calling for bids therefor whenever the estimated cost of the work or improvement, including cost of materials, supplies and equipment will not exceed the sum of $116,155 if more than one craft or trade is involved with the public works, or $75,500 if a single craft or trade is involved with the public works or the public works project is street signalization or street lighting. A public works project means a complete project. The restrictions in this subsection do not permit the division of the project into units of work or classes of work to avoid the restriction on work that may be performed by day labor on a single project.
+
+Whenever the cost of the public work or improvement, including materials, supplies and equipment, will exceed these figures, the same shall be done by contract. All such contracts shall be let at public bidding upon publication of notice calling for sealed bids upon the work. The notice shall be published in the official newspaper, or a newspaper of general circulation most likely to bring responsive bids, at least thirteen days prior to the last date upon which bids will be received. The notice shall generally state the nature of the work to be done that plans and specifications therefor shall then be on file in the city or town hall for public inspections, and require that bids be sealed and filed with the council or commission within the time specified therein. Each bid shall be accompanied by a bid proposal deposit in the form of a cashier's check, postal money order, or surety bond to the council or commission for a sum of not less than five percent of the amount of the bid, and no bid shall be considered unless accompanied by such bid proposal deposit. The council or commission of the city or town shall let the contract to the lowest responsible bidder or shall have power by resolution to reject any or all bids and to make further calls for bids in the same manner as the original call.
+
+When the contract is let then all bid proposal deposits shall be returned to the bidders except that of the successful bidder which shall be retained until a contract is entered into and a bond to perform the work furnished, with surety satisfactory to the council or commission, in accordance with RCW 39.08.030. If the bidder fails to enter into the contract in accordance with his or her bid and furnish a bond within 10 days from the date at which he or she is notified that he or she is the successful bidder, the check or postal money order and the amount thereof shall be forfeited to the council or commission or the council or commission shall recover the amount of the surety bond. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
+
+If no bid is received on the first call the council or commission may readvertise and make a second call, or may enter into a contract without any further call or may purchase the supplies, material or equipment and perform the work or improvement by day labor.
+
+2. For the purposes of this section, "lowest responsible bidder" means a bid that meets the criteria under RCW 39.04.350 and has the lowest bid; provided, that if the city issues a written finding that the lowest bidder has delivered a project to the city within the last three years which was late, over budget, or did not meet specifications, and the city does not find in writing that such bidder has shown how they would improve performance to be likely to meet project specifications then the city may choose the second lowest bidder whose bid is within five percent of the lowest bid and meets the same criteria as the lowest bidder.
+
+3. The allocation of public works projects to be performed by city or town employees shall not be subject to a collective bargaining agreement.
+
+4. In lieu of the procedures of subsection (1) of this section, a second‑class city or a town may let contracts using the small works roster process provided in sections 14 through 16 of this act.
+
+Whenever possible, the city or town shall invite at least one proposal from a certified minority or woman contractor who shall otherwise qualify under this section.
+
+5. The form required by RCW 43.09.205 shall be to account and record costs of public works in excess of $5,000 that are not let by contract.
+
+6. The cost of a separate public works project shall be the costs of the materials, equipment, supplies, and labor on that construction project.
+
+7. Any purchase of supplies, material, or equipment, except for public work or improvement, where the cost thereof exceeds seven thousand five hundred dollars shall be made upon call for bids.
+
+8. Bids shall be called annually and at a time and in the manner prescribed by ordinance for the publication in a newspaper of general circulation in the city or town of all notices or newspaper publications required by law. The contract shall be awarded to the lowest responsible bidder.
+
+9. For advertisement and formal sealed bidding to be dispensed with as to purchases with an estimated value of $15,000 or less, the council or commission must authorize by resolution, use of the uniform procedure provided in RCW 39.04.190.
+
+10. The city or town legislative authority may waive the competitive bidding requirements of this section pursuant to RCW 39.04.280 if an exemption contained within that section applies to the purchase or public work.
+
+11. This section does not apply to performance-based contracts, as defined in RCW 39.35A.020(6), that are negotiated under chapter 39.35A RCW.
+
+12. Nothing in this section shall prohibit any second-class city or any town from allowing for preferential purchase of products made from recycled materials or products that may be recycled or reused.
+
+13. [Empty]
+
+    a. Any second-class city or any town may procure public works with a unit priced contract under this section for the purpose of completing anticipated types of work based on hourly rates or unit pricing for one or more categories of work or trades.
+
+    b. For the purposes of this section, "unit priced contract" means a competitively bid contract in which public works are anticipated on a recurring basis to meet the business or operational needs of the city or town, under which the contractor agrees to a fixed period indefinite quantity delivery of work, at a defined unit price for each category of work.
+
+    c. Unit priced contracts must be executed for an initial contract term not to exceed three years, with the city or town having the option of extending or renewing the unit priced contract for one additional year.
+
+    d. Invitations for unit price bids shall include, for purposes of the bid evaluation, estimated quantities of the anticipated types of work or trades, and specify how the city or town will issue or release work assignments, work orders, or task authorizations pursuant to a unit priced contract for projects, tasks, or other work based on the hourly rates or unit prices bid by the contractor. Contracts must be awarded to the lowest responsible bidder as per RCW 39.04.010. Whenever possible, the city or town must invite at least one proposal from a certified minority or woman contractor who otherwise qualifies under this section.
+
+    e. Unit price contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the prevailing wage rates in effect at the beginning date for each contract year. Unit priced contracts must have prevailing wage rates updated annually. Intents and affidavits for prevailing wages paid must be submitted annually for all work completed within the previous 12-month period of the unit priced contract.
+
+14. Any second-class city or town that awards a project to a bidder under the criteria described in subsection (2) of this section must make an annual report to the department of commerce that includes the total number of bids awarded to certified minority or women contractors and describing how notice was provided to potential certified minority or women contractors.
+
+## Section 22
+1. All work ordered, the estimated cost of which is in excess of $20,000, shall be let by contract and competitive bidding. Before awarding any such contract the board of park commissioners shall publish a notice in a newspaper of general circulation where the district is located at least once 13 days before the last date upon which bids will be received, inviting sealed proposals for such work, plans, and specifications which must at the time of publication of such notice be on file in the office of the board of park commissioners subject to the public inspection. The notice shall state generally the work to be done and shall call for proposals for doing the same to be sealed and filed with the board of park commissioners on or before the day and hour named therein.
+
+Each bid shall be accompanied by a certified or cashier's check or postal money order payable to the order of the metropolitan park district for a sum not less than five percent of the amount of the bid, or accompanied by a bid bond in an amount not less than five percent of the bid with a corporate surety licensed to do business in the state, conditioned that the bidder will pay the metropolitan park district as liquidated damages the amount specified in the bond, unless the bidder enters into a contract in accordance with the bidder's bid, and no bid shall be considered unless accompanied by such check, cash, or bid bond. At the time and place named such bids shall be publicly opened and read and the board of park commissioners shall proceed to canvass the bids and may let such contract to the lowest responsible bidder upon plans and specifications on file or to the best bidder submitting the bidder's own plans and specifications. The board of park commissioners may reject all bids for good cause and readvertise and in such case all checks, cash, or bid bonds shall be returned to the bidders. If the contract is let, then all checks, cash, or bid bonds shall be returned to the bidders, except that of the successful bidder, which shall be retained until a contract is entered into for doing the work, and a bond to perform such work furnished with sureties satisfactory to the board of park commissioners in the full amount of the contract price between the bidder and the metropolitan park district in accordance with the bid. If the bidder fails to enter into the contract in accordance with the bid and furnish the bond within ten days from the date at which the bidder is notified that the bidder is the successful bidder, the check, cash, or bid bonds and the amount thereof shall be forfeited to the metropolitan park district. If the bidder fails to enter into a contract in accordance with the bidder's bid, and the board of park commissioners deems it necessary to take legal action to collect on any bid bond required by this section, then the metropolitan park district is entitled to collect from the bidder any legal expenses, including reasonable attorneys' fees occasioned thereby. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
+
+2. As an alternative to requirements under subsection (1) of this section, a metropolitan park district may let contracts using the small works roster process under sections 14 through 16 of this act.
+
+3. Any purchase of materials, supplies, or equipment, with an estimated cost in excess of $40,000, shall be by contract. Any purchase of materials, supplies, or equipment, with an estimated cost of less than $50,000 shall be made using the process provided in RCW 39.04.190. Any purchase of materials, supplies, or equipment with an estimated cost of $50,000 or more shall be made by competitive bidding following the procedure for letting contracts for projects under subsection (1) of this section.
+
+4. As an alternative to requirements under subsection (3) of this section, a metropolitan park district may let contracts for purchase of materials, supplies, or equipment with the suppliers designated on current state agency, county, city, or town purchasing rosters for the materials, supplies, or equipment, when the roster has been established in accordance with the competitive bidding law for purchases applicable to the state agency, county, city, or town. The price and terms for purchases shall be as described on the applicable roster.
+
+5. The park board may waive the competitive bidding requirements of this section pursuant to RCW 39.04.280 if an exemption contained within RCW 39.04.280 applies to the purchase or public work.
+
+## Section 23
+A housing authority may establish and use a small works roster for awarding contracts under sections 14 through 16 of this act.
+
+## Section 24
+1. In each county which by resolution establishes a county purchasing department, the purchasing department shall enter into leases of personal property on a competitive basis and purchase all supplies, materials, and equipment on a competitive basis, for all departments of the county, as provided in this chapter and chapter 39.04 RCW, except that the county purchasing department is not required to make purchases that are paid from the county road fund or equipment rental and revolving fund.
+
+2. As used in this section:
+
+    a. "Public works" has the same definition as in RCW 39.04.010.
+
+    b. "Riverine project" means a project of construction, alteration, repair, replacement, or improvement other than ordinary maintenance, executed at the cost of the state or of any municipality, or which is by law a lien or charge on any property, carried out on a river or stream and its tributaries and associated floodplains, beds, banks, and waters for the purpose of improving aquatic habitat, improving water quality, restoring floodplain function, or providing flood protection.
+
+    c. "Stormwater project" means a project of construction, alteration, repair, replacement, or improvement other than ordinary maintenance, executed at the cost of the state or of any municipality, or which is by law a lien or charge on any property, carried out on a municipal separate storm sewer system, and any connections to the system, that is regulated under a state-issued national pollutant discharge elimination system general municipal stormwater permit for the purpose of improving control of stormwater runoff quantity and quality from developed land, safely conveying stormwater runoff, or reducing erosion or other water quality impacts caused by municipal separate storm sewer system discharges.
+
+3. Except as otherwise specified in this chapter or in chapter 36.77 RCW, all counties subject to these provisions shall contract on a competitive basis for all public works after bids have been submitted to the county upon specifications therefor. Such specifications shall be in writing and shall be filed with the clerk of the county legislative authority for public inspection.
+
+4. An advertisement shall be published in the county official newspaper stating the time and place where bids will be opened, the time after which bids will not be received, the character of the work to be done, the materials and equipment to be furnished, and that specifications therefor may be seen at the office of the clerk of the county legislative authority. An advertisement shall also be published in a legal newspaper of general circulation in or as near as possible to that part of the county in which such work is to be done. If the county official newspaper is a newspaper of general circulation covering at least 40 percent of the residences in that part of the county in which such public works are to be done, then the publication of an advertisement of the applicable specifications in the county official newspaper is sufficient. Such advertisements shall be published at least once at least 13 days prior to the last date upon which bids will be received.
+
+5. The bids shall be in writing, may be in either hard copy or electronic form as specified by the county, shall be filed with the clerk, shall be opened and read in public at the time and place named therefor in the advertisements, and, after being opened, shall be filed for public inspection. No bid may be considered for public work unless it is accompanied by a bid deposit in the form of a surety bond, postal money order, cash, cashier's check, or certified check in an amount equal to five percent of the amount of the bid proposed.
+
+6. The contract for the public work shall be awarded to the lowest responsible bidder. Any or all bids may be rejected for good cause. The county legislative authority shall require from the successful bidder for such public work a contractor's bond in the amount and with the conditions imposed by law.
+
+7. If the bidder to whom the contract is awarded fails to enter into the contract and furnish the contractor's bond as required within 10 days after notice of the award, exclusive of the day of notice, the amount of the bid deposit shall be forfeited to the county and the contract awarded to the next lowest and best bidder. The bid deposit of all unsuccessful bidders shall be returned after the contract is awarded and the required contractor's bond given by the successful bidder is accepted by the county legislative authority. Immediately after the award is made, the bid quotations obtained shall be recorded and open to public inspection and shall be available by telephone inquiry.
+
+8. As limited by subsection (11) of this section, a county subject to these provisions may have public works performed by county employees in any annual or biennial budget period equal to a dollar value not exceeding ten percent of the public works construction budget, including any amount in a supplemental public works construction budget, over the budget period.
+
+Whenever a county subject to these provisions has had public works performed in any budget period up to the maximum permitted amount for that budget period, all remaining public works except emergency work under subsection (13) of this section within that budget period shall be done by contract pursuant to public notice and call for competitive bids as specified in subsection (3) of this section. The state auditor shall report to the state treasurer any county subject to these provisions that exceeds this amount and the extent to which the county has or has not reduced the amount of public works it has performed by public employees in subsequent years.
+
+9. A county may procure public works with a unit priced contract under this section for the purpose of completing anticipated types of work based on hourly rates or unit pricing for one or more categories of work or trades.
+
+    a. For the purposes of this section, "unit priced contract" means a competitively bid contract in which public works are anticipated on a recurring basis to meet the business or operational needs of the county, under which the contractor agrees to a fixed period indefinite quantity delivery of work, at a defined unit price for each category of work.
+
+    b. Unit priced contracts must be executed for an initial contract term not to exceed one year, with the county having the option of extending or renewing the unit priced contract for one additional year.
+
+    c. Invitations for unit price bids shall include, for purposes of the bid evaluation, estimated quantities of the anticipated types of work or trades, and specify how the county will issue or release work assignments, work orders, or task authorizations pursuant to a unit priced contract for projects, tasks, or other work based on the hourly rates or unit prices bid by the contractor. The contract must be awarded to the lowest responsible bidder as defined under RCW 39.04.010. Whenever possible, the county must invite at least one bid from a certified minority or woman contractor who otherwise qualifies under this section.
+
+    d. Unit price contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the prevailing wage rates in effect at the beginning date for each contract year. Unit priced contracts must have prevailing wage rates updated annually. Intents and affidavits for prevailing wages paid must be submitted annually for all work completed within the previous 12-month period of the unit priced contract.
+
+10. If a county subject to these provisions has public works performed by public employees in any budget period that are in excess of this ten percent limitation, the amount in excess of the permitted amount shall be reduced from the otherwise permitted amount of public works that may be performed by public employees for that county in its next budget period. Ten percent of the motor vehicle fuel tax distributions to that county shall be withheld if two years after the year in which the excess amount of work occurred, the county has failed to so reduce the amount of public works that it has performed by public employees. The amount withheld shall be distributed to the county when it has demonstrated in its reports to the state auditor that the amount of public works it has performed by public employees has been reduced as required.
+
+11. In addition to the percentage limitation provided in subsection (8) of this section, counties subject to these provisions containing a population of 400,000 or more shall not have public employees perform: A public works project in excess of $90,000 if more than a single craft or trade is involved with the public works project, a riverine project or stormwater project in excess of $250,000 if more than a single craft or trade is involved with the riverine project or stormwater project, a public works project in excess of $45,000 if only a single craft or trade is involved with the public works project, or a riverine project or stormwater project in excess of $125,000 if only a single craft or trade is involved with the riverine project or stormwater project. A public works project, a riverine project, and a stormwater project means a complete project. The restrictions in this subsection do not permit the division of the project into units of work or classes of work to avoid the restriction on work that may be performed by public employees on a single project.
+
+The cost of a separate public works project shall be the costs of materials, supplies, equipment, and labor on the construction of that project. The value of the public works budget shall be the value of all the separate public works projects within the budget.
+
+12. In addition to the accounting and recordkeeping requirements contained in chapter 39.04 RCW, any county which uses public employees to perform public works projects under RCW 36.32.240(1) shall prepare a year-end report to be submitted to the state auditor indicating the total dollar amount of the county's public works construction budget and the total dollar amount for public works projects performed by public employees for that year.
+
+The year-end report submitted pursuant to this subsection to the state auditor shall be in accordance with the standard form required by RCW 43.09.205.
+
+13. Notwithstanding any other provision in this section, counties may use public employees without any limitation for emergency work performed under an emergency declared pursuant to RCW 36.32.270, and any such emergency work shall not be subject to the limitations of this section. Publication of the description and estimate of costs relating to correcting the emergency may be made within seven days after the commencement of the work. Within two weeks of the finding that such an emergency existed, the county legislative authority shall adopt a resolution certifying the damage to public facilities and costs incurred or anticipated relating to correcting the emergency. Additionally this section shall not apply to architectural and engineering or other technical or professional services performed by public employees in connection with a public works project.
+
+14. In lieu of the procedures of subsections (3) through (12) of this section, a county may let contracts using the small works roster process provided in sections 14 through 16 of this act.
+
+Whenever possible, the county shall invite at least one proposal from a certified minority or woman contractor who shall otherwise qualify under this section.
+
+15. The allocation of public works projects to be performed by county employees shall not be subject to a collective bargaining agreement.
+
+16. This section does not apply to performance-based contracts, as defined in RCW 39.35A.020(6), that are negotiated under chapter 39.35A RCW.
+
+17. Nothing in this section prohibits any county from allowing for preferential purchase of products made from recycled materials or products that may be recycled or reused.
+
+18. This section does not apply to contracts between the public stadium authority and a team affiliate under RCW 36.102.060(4), or development agreements between the public stadium authority and a team affiliate under RCW 36.102.060(7) or leases entered into under RCW 36.102.060(8).
+
+## Section 25
+No contract for public works may be entered into by the county legislative authority or by any elected or appointed officer of the county until after bids have been submitted to the county upon specifications therefor. Such specifications shall be in writing and shall be filed with the clerk of the county legislative authority for public inspection. An advertisement shall be published in the county official newspaper stating the time and place where bids will be opened, the time after which bids will not be received, the character of the work to be done, the materials and equipment to be furnished, and that specifications therefor may be seen at the office of the clerk of the county legislative authority. An advertisement shall also be published in a legal newspaper of general circulation in or as near as possible to that part of the county in which such work is to be done. If the county official newspaper is a newspaper of general circulation covering at least forty percent of the residences in that part of the county in which such public works are to be done, then the publication of an advertisement of the applicable specifications in the county official newspaper shall be sufficient. Such advertisements shall be published at least once at least 13 days prior to the last date upon which bids will be received. The bids shall be in writing, shall be filed with the clerk, shall be opened and read in public at the time and place named therefor in the advertisements, and after being opened, shall be filed for public inspection. No bid may be considered for public work unless it is accompanied by a bid deposit in the form of a surety bond, postal money order, cash, cashier's check, or certified check in an amount equal to five percent of the amount of the bid proposed. The contract for the public work shall be awarded to the lowest responsible bidder. Any or all bids may be rejected for good cause. The county legislative authority shall require from the successful bidder for such public work a contractor's bond in the amount and with the conditions imposed by law. If the bidder to whom the contract is awarded fails to enter into the contract and furnish the contractor's bond as required within ten days after notice of the award, exclusive of the day of notice, the amount of the bid deposit shall be forfeited to the county and the contract awarded to the next lowest and best bidder. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project. The bid deposit of all unsuccessful bidders shall be returned after the contract is awarded and the required contractor's bond given by the successful bidder is accepted by the county legislative authority. In the letting of any contract for public works involving less than forty thousand dollars, advertisement and competitive bidding may be dispensed with on order of the county legislative authority. Immediately after the award is made, the bid quotations obtained shall be recorded and open to public inspection and shall be available by telephone inquiry.
+
+As an alternative to requirements under this section, a county may let contracts using the small works roster process under sections 14 through 16 of this act.
+
+This section does not apply to performance‑based contracts, as defined in RCW 39.35A.020(6), that are negotiated under chapter 39.35A RCW.
+
+## Section 26
+In lieu of the procedure for awarding contracts that is provided in RCW 36.77.020 through 36.77.040, a county may award contracts for public works projects on county roads using the small works roster process under sections 14 through 16 of this act.
+
+## Section 27
+Any local government using the uniform process established in RCW 39.04.190 to award contracts for purchases must post a list of the contracts awarded under that process at least once every two months. Any state agency or local government using the small works roster process established in sections 14 through 16 of this act to award contracts for construction, building, renovation, remodeling, alteration, repair, or improvement of real property must make available a list of the contracts awarded under that process at least once every year. The list shall contain the name of the contractor or vendor awarded the contract, the amount of the contract, a brief description of the type of work performed or items purchased under the contract, and the date it was awarded. The list shall also state the location where the bid quotations for these contracts are available for public inspection.
+
+## Section 28
+1.
+
+In any bidding process for public works in which a bid is received from a nonresident contractor from a state that provides a percentage bidding preference, a comparable percentage disadvantage must be applied to the bid of that nonresident contractor. This subsection does not apply until the department of enterprise services has adopted the rules and procedures for reciprocity , or has determined and announced that rules are not necessary for implementation.
+
+2. A nonresident contractor from a state that provides a percentage bid preference means a contractor that:
+
+    a. Is from a state that provides a percentage bid preference to its resident contractors bidding on public works contracts; and
+
+    b. At the time of bidding on a public works project, does not have a physical office located in Washington.
+
+3. The state of residence for a nonresident contractor is the state in which the contractor was incorporated or, if not a corporation, the state where the contractor's business entity was formed.
+
+4. This section does not apply to public works procured pursuant to RCW  39.04.280, sections 14 through 16 of this act, or any other procurement exempt from competitive bidding.
+
+## Section 29
+1. [Empty]
+
+    a. Except as provided in subsection (2) of this section, before payment is made by or on behalf of the state, or any county, municipality, or political subdivision created by its laws, of any sum or sums due on account of a public works contract, it is the duty of the officer or person charged with the custody and disbursement of public funds to require the contractor and each and every subcontractor from the contractor or a subcontractor to submit to such officer a "Statement of Intent to Pay Prevailing Wages". For a contract in excess of ten thousand dollars, the statement of intent to pay prevailing wages must include:
+
+        i. The contractor's registration certificate number; and
+
+        ii. The prevailing rate of wage for each classification of workers entitled to prevailing wages under RCW 39.12.020 and the estimated number of workers in each classification.
+
+    b. Each statement of intent to pay prevailing wages must be approved by the industrial statistician of the department of labor and industries before it is submitted to the disbursing officer. Unless otherwise authorized by the department of labor and industries, each voucher claim submitted by a contractor for payment on a project estimate must state that the prevailing wages have been paid in accordance with the prefiled statement or statements of intent to pay prevailing wages on file with the public agency. Following the final acceptance of a public works project, it is the duty of the officer charged with the disbursement of public funds, to require the contractor and each and every subcontractor from the contractor or a subcontractor to submit to such officer an affidavit of wages paid before the funds retained according to the provisions of RCW 60.28.011 are released to the contractor. On a public works project where no retainage is withheld, the affidavit of wages paid must be submitted to the state, county, municipality, or other public body charged with the duty of disbursing or authorizing disbursement of public funds prior to final acceptance of the public works project. If a subcontractor performing work on a public works project fails to submit an affidavit of wages paid form, the contractor or subcontractor with whom the subcontractor had a contractual relationship for the project may file the forms on behalf of the nonresponsive subcontractor. Affidavit forms may only be filed on behalf of a nonresponsive subcontractor who has ceased operations or failed to file as required by this section. The contractor filing the affidavit must accept responsibility for payment of prevailing wages unpaid by the subcontractor on the project pursuant to RCW 39.12.020 and 39.12.065. Intentionally filing a false affidavit on behalf of a subcontractor subjects the filer to the same penalties as are provided in RCW 39.12.050. Each affidavit of wages paid must be certified by the industrial statistician of the department of labor and industries before it is submitted to the disbursing officer.
+
+2. As an alternate to the procedures provided for in subsection (1) of this section, for public works projects of $5,000 or less as allowed under section 15 of this act is followed:
+
+    a. An awarding agency may authorize the contractor or subcontractor to submit the statement of intent to pay prevailing wages directly to the officer or person charged with the custody or disbursement of public funds in the awarding agency without approval by the industrial statistician of the department of labor and industries. The awarding agency must retain such statement of intent to pay prevailing wages for a period of not less than three years.
+
+    b. Upon final acceptance of the public works project, the awarding agency must require the contractor or subcontractor to submit an affidavit of wages paid. Upon receipt of the affidavit of wages paid, the awarding agency may pay the contractor or subcontractor in full, including funds that would otherwise be retained according to the provisions of RCW 60.28.011. Within thirty days of receipt of the affidavit of wages paid, the awarding agency must submit the affidavit of wages paid to the industrial statistician of the department of labor and industries for approval.
+
+    c. A statement of intent to pay prevailing wages and an affidavit of wages paid must be on forms approved by the department of labor and industries.
+
+    d. In the event of a wage claim and a finding for the claimant by the department of labor and industries where the awarding agency has used the alternative process provided for in this subsection (2), the awarding agency must pay the wages due directly to the claimant. If the contractor or subcontractor did not pay the wages stated in the affidavit of wages paid, the awarding agency may take action at law to seek reimbursement from the contractor or subcontractor of wages paid to the claimant, and may prohibit the contractor or subcontractor from bidding on any public works contract of the awarding agency for up to one year.
+
+    e. Nothing in this section may be interpreted to allow an awarding agency to subdivide any public works project of more than $5,000 for the purpose of circumventing the procedures required by subsection (1) of this section.
+
+## Section 30
+Insofar as practicable, purchases and any public works by the district shall be based on competitive bids. A formal sealed bid procedure shall be used as standard procedure for purchases and contracts for purchases executed by the board of commissioners. Formal sealed bidding shall not be required for:
+
+1. The purchase of any materials, supplies, or equipment if the cost will not exceed the sum of $40,000. However, whenever the estimated cost does not exceed $75,000, the commissioners may by resolution use the process provided in RCW 39.04.190 to award contracts;
+
+2. Contracting for work to be done involving the construction or improvement of a fire station or other buildings where the estimated cost will not exceed the sum of $30,000, which includes the costs of labor, material, and equipment;
+
+3. Contracts using the small works roster process under sections 14 through 16 of this act; and
+
+4. Any contract for purchases or public work pursuant to RCW 39.04.280 if an exemption contained within that section applies to the purchase or public work.
+
+## Section 31
+1. All material and work required by a port district not meeting the definition of public work in RCW 39.04.010 may be procured in the open market or by contract and all work ordered may be done by contract or day labor.
+
+2. [Empty]
+
+    a. All such contracts for work meeting the definition of "public work" in RCW 39.04.010 shall be awarded using a competitive bid process. The contract must be awarded at public bidding upon notice published in a newspaper of general circulation in the district at least 13 days before the last date upon which bids will be received, calling for bids upon the work, plans and specifications for which shall then be on file in the office of the commission for public inspection. The same notice may call for bids on such work or material based upon plans and specifications submitted by the bidder. The competitive bidding requirements for purchases or public works may be waived pursuant to RCW 39.04.280 if an exemption contained within that section applies to the purchase or public work.
+
+    b. For all contracts related to work meeting the definition of "public work" in RCW 39.04.010, a port district may let contracts using the small works roster process under sections 14 through 16 of this act in lieu of advertising for bids. Whenever possible, the managing official shall invite at least one proposal from a minority contractor who shall otherwise qualify under this section.
+
+When awarding such a contract for work, when utilizing proposals from the small works roster, the managing official shall give weight to the contractor submitting the lowest and best proposal, and whenever it would not violate the public interest, such contracts shall be distributed equally among contractors, including minority contractors, on the small works roster.
+
+    c. Any port district may construct any public work, as defined in RCW 39.04.010, by contract without calling for bids whenever the estimated cost of the work or improvement, including cost of materials, supplies, and equipment, will not exceed the sum of $40,000. A "public works project" means a complete project. The restrictions in this subsection do not permit the division of the project into units of work or classes of work to avoid calling for bids. The port district managing official shall make his or her best effort to reach out to qualified contractors, including certified minority and woman-owned contractors.
+
+3. [Empty]
+
+    a. A port district may procure public works with a unit priced contract under this section or RCW 39.04.010(3) for the purpose of completing anticipated types of work based on hourly rates or unit pricing for one or more categories of work or trades.
+
+    b. For the purposes of this section, unit priced contract means a competitively bid contract in which public works are anticipated on a recurring basis to meet the business or operational needs of a port district, under which the contractor agrees to a fixed period indefinite quantity delivery of work, at a defined unit price, for each category of work.
+
+    c. Unit priced contracts must be executed for an initial contract term not to exceed three years, with the port district having the option of extending or renewing the unit priced contract for one additional year.
+
+    d. Invitations for unit priced bids shall include, for purposes of the bid evaluation, estimated quantities of the anticipated types of work or trades, and specify how the port district will issue or release work assignments, work orders, or task authorizations pursuant to a unit priced contract for projects, tasks, or other work based on the hourly rates or unit prices bid by the contractor. Contracts must be awarded to the lowest responsible bidder as per RCW 39.04.010. Whenever possible, the port district must invite at least one proposal from a minority or woman contractor who otherwise qualifies under this section.
+
+    e. Unit priced contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the prevailing wage rates in effect at the beginning date for each contract year. Unit priced contracts shall have prevailing wage rates updated annually. Intents and affidavits for prevailing wages paid shall be submitted annually for all work completed within the previous 12-month period of the unit priced contract.
+
+## Section 32
+1. Any item, or items of the same kind of materials, equipment, or supplies purchased, the estimated cost of which is in excess of thirty thousand dollars, exclusive of sales tax, shall be by contract. However, a district may make purchases of the same kind of items of materials, equipment, and supplies not exceeding $12,000 in any calendar month without a contract, purchasing any excess thereof over $12,000 by contract.
+
+2. Any work ordered by a district commission, the estimated cost of which is in excess of $50,000, exclusive of sales tax, shall be by contract. However, a district commission may have its own regularly employed personnel perform work which is an accepted industry practice under prudent utility management without a contract. For purposes of this section, "prudent utility management" means performing work with regularly employed personnel utilizing material of a worth not exceeding $300,000 in value without a contract. This limit on the value of material being utilized in work being performed by regularly employed personnel shall not include the value of individual items of equipment. For the purposes of this section, the term "equipment" includes but is not limited to conductor, cabling, wire, pipe, or lines used for electrical, water, fiber optic, or telecommunications.
+
+3. Before awarding a contract required under subsection (1) or (2) of this section, the commission shall publish a notice once or more in a newspaper of general circulation in the district at least 13 days before the last date upon which bids will be received, inviting sealed proposals for the work or materials. Plans and specifications for the work or materials shall at the time of publication be on file at the office of the district and subject to public inspection. Any published notice ordering work to be performed for the district shall be mailed at the time of publication to any established trade association which files a written request with the district to receive such notices. The commission may, at the same time and as part of the same notice, invite tenders for the work or materials upon plans and specifications to be submitted by the bidders.
+
+4. As an alternative to the competitive bidding requirements of this section and RCW 54.04.080, a district may let contracts using the small works roster process under sections 14 through 16 of this act.
+
+5. Whenever equipment or materials required by a district are held by a governmental agency and are available for sale but such agency is unwilling to submit a proposal, the commission may ascertain the price of such items and file a statement of such price supported by the sworn affidavit of one member of the commission, and may consider such price as a bid without a deposit or bond.
+
+6. Pursuant to RCW 39.04.280, the commission may waive the competitive bidding requirements of this section and RCW 54.04.080 if an exemption contained within RCW 39.04.280 applies to the purchase or public work.
+
+7. [Empty]
+
+    a. A district may procure public works with a unit priced contract under this section, RCW 54.04.080, or 54.04.085 for the purpose of completing anticipated types of work based on hourly rates or unit pricing for one or more categories of work or trades.
+
+    b. For the purposes of this section, unit priced contract means a competitively bid contract in which public works are anticipated on a recurring basis to meet the business or operational needs of a district, under which the contractor agrees to a fixed period indefinite quantity delivery of work, at a defined unit price, for each category of work.
+
+    c. Unit priced contracts must be executed for an initial contract term not to exceed three years, with the district having the option of extending or renewing the unit priced contract for one additional year.
+
+    d. Invitations for unit price bids shall include, for purposes of the bid evaluation, estimated quantities of the anticipated types of work or trades, and specify how the district will issue or release work assignments, work orders, or task authorizations pursuant to a unit priced contract for projects, tasks, or other work based on the hourly rates or unit prices bid by the contractor. Where electrical facility construction or improvement work is anticipated, contractors on a unit priced contract shall comply with the requirements under RCW 54.04.085 (1) through (5). Contracts must be awarded to the lowest responsible bidder as per RCW 39.04.010.
+
+    e. Unit price contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the prevailing wage rates in effect at the beginning date for each contract year. Unit priced contracts must have prevailing wage rates updated annually. Intents and affidavits for prevailing wages paid must be submitted annually for all work completed within the previous 12-month period of the unit priced contract.
+
+## Section 33
+1. All work ordered, the estimated cost of which is in excess of $50,000, shall be let by contract and competitive bidding. Before awarding any such contract the board of commissioners shall publish a notice in a newspaper of general circulation where the district is located at least once 13 days before the last date upon which bids will be received, inviting sealed proposals for such work, plans and specifications which must at the time of publication of such notice be on file in the office of the board of commissioners subject to the public inspection. The notice shall state generally the work to be done and shall call for proposals for doing the same to be sealed and filed with the board of commissioners on or before the day and hour named therein.
+
+Each bid shall be accompanied by a certified or cashier's check or postal money order payable to the order of the county treasurer for a sum not less than five percent of the amount of the bid, or accompanied by a bid bond in an amount not less than five percent of the bid with a corporate surety licensed to do business in the state, conditioned that the bidder will pay the district as liquidated damages the amount specified in the bond, unless the bidder enters into a contract in accordance with the bidder's bid, and no bid shall be considered unless accompanied by such check, cash or bid bond. At the time and place named such bids shall be publicly opened and read and the board of commissioners shall proceed to canvass the bids and may let such contract to the lowest responsible bidder upon plans and specifications on file or to the best bidder submitting the bidder's own plans and specifications. The board of commissioners may reject all bids for good cause and readvertise and in such case all checks, cash or bid bonds shall be returned to the bidders. If the contract is let, then all checks, cash, or bid bonds shall be returned to the bidders, except that of the successful bidder, which shall be retained until a contract shall be entered into for doing the work, and a bond to perform such work furnished with sureties satisfactory to the board of commissioners in the full amount of the contract price between the bidder and the commission in accordance with the bid. If the bidder fails to enter into the contract in accordance with the bid and furnish the bond within 10 days from the date at which the bidder is notified that the bidder is the successful bidder, the check, cash, or bid bonds and the amount thereof shall be forfeited to the district. If the bidder fails to enter into a contract in accordance with the bidder's bid, and the board of commissioners deems it necessary to take legal action to collect on any bid bond required by this section, then the district shall be entitled to collect from the bidder any legal expenses, including reasonable attorneys' fees occasioned thereby. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
+
+2. As an alternative to requirements under subsection (1) of this section, a water-sewer district may let contracts using the small works roster process under sections 14 through 16 of this act.
+
+3. Any purchase of materials, supplies, or equipment, with an estimated cost in excess of $40,000, shall be by contract. Any purchase of materials, supplies, or equipment, with an estimated cost of less than $50,000 shall be made using the process provided in RCW 39.04.190. Any purchase of materials, supplies, or equipment with an estimated cost of $50,000 or more shall be made by competitive bidding following the procedure for letting contracts for projects under subsection (1) of this section.
+
+4. As an alternative to requirements under subsection (3) of this section, a water-sewer district may let contracts for purchase of materials, supplies, or equipment with the suppliers designated on current state agency, county, city, or town purchasing rosters for the materials, supplies, or equipment, when the roster has been established in accordance with the competitive bidding law for purchases applicable to the state agency, county, city, or town. The price and terms for purchases shall be as described on the applicable roster.
+
+5. The board may waive the competitive bidding requirements of this section pursuant to RCW 39.04.280 if an exemption contained within that section applies to the purchase or public work.
+
+6. [Empty]
+
+    a. A district may procure public works with a unit priced contract under this section for the purpose of completing anticipated types of work based on hourly rates or unit pricing for one or more categories of work or trades.
+
+    b. For the purposes of this section, "unit priced contract" means a competitively bid contract in which public works are anticipated on a recurring basis to meet the business or operational needs of the district, under which the contractor agrees to a fixed period indefinite quantity delivery of work, at a defined unit price for each category of work.
+
+    c. Unit priced contracts must be executed for an initial contract term not to exceed one year, with the district having the option of extending or renewing the unit priced contract for one additional year.
+
+    d. Invitations for unit price bids must include, for purposes of the bid evaluation, estimated quantities of the anticipated types of work or trades, and specify how the district will issue or release work assignments, work orders, or task authorizations pursuant to a unit priced contract for projects, tasks, or other work based on the hourly rates or unit prices bid by the contractor. Contracts must be awarded to the lowest responsible bidder as per RCW 39.04.010. Whenever possible, the district must invite at least one proposal from a certified minority or woman contractor who otherwise qualifies under this section.
+
+    e. Unit price contractors shall pay prevailing wages for all work that would otherwise be subject to the requirements of chapter 39.12 RCW. Prevailing wages for all work performed pursuant to each work order must be the prevailing wage rates in effect at the beginning date for each contract year. Unit priced contracts must have prevailing wage rates updated annually. Intents and affidavits for prevailing wages paid must be submitted annually for all work completed within the previous twelve-month period of the unit priced contract.
+
+## Section 34
+1. All materials purchased and work ordered, the estimated cost of which is in excess of $75,000, shall be by contract. Before awarding any such contract, the commission shall publish a notice at least 13 days before the last date upon which bids will be received, inviting sealed proposals for such work. The plans and specifications must at the time of the publication of such notice be on file at the office of the public hospital district, subject to public inspection: PROVIDED, HOWEVER, That the commission may at the same time, and as part of the same notice, invite tenders for the work or materials upon plans and specifications to be submitted by bidders. The notice shall state generally the work to be done, and shall call for proposals for doing the same, to be sealed and filed with the commission on or before the day and hour named therein. Each bid shall be accompanied by bid proposal security in the form of a certified check, cashier's check, postal money order, or surety bond made payable to the order of the commission, for a sum not less than five percent of the amount of the bid, and no bid shall be considered unless accompanied by such bid proposal security. At the time and place named, such bids shall be publicly opened and read, and the commission shall proceed to canvass the bids, and may let such contract to the lowest responsible bidder upon plans and specifications on file, or to the best bidder submitting his or her own plans and specifications. If, in the opinion of the commission, all bids are unsatisfactory, they may reject all of them and readvertise, and in such case all bid proposal security shall be returned to the bidders. If the contract is let, then all bid proposal security shall be returned to the bidders, except that of the successful bidder, which is retained until a contract shall be entered into for the purchase of such materials for doing such work, and a bond to perform such work furnished, with sureties satisfactory to the commission, in an amount to be fixed by the commission, not less than 25 percent of contract price in any case, between the bidder and commission, in accordance with the bid. If such bidder fails to enter into the contract in accordance with the bid and furnish such bond within 10 days from the date at which the bidder is notified that he or she is the successful bidder, the bid proposal security and the amount thereof shall be forfeited to the public hospital district. A low bidder who claims error and fails to enter into a contract is prohibited from bidding on the same project if a second or subsequent call for bids is made for the project.
+
+2. As an alternative to the requirements of subsection (1) of this section, a public hospital district may let contracts using the small works roster process under sections 14 through 16 of this act.
+
+3. Any purchases with an estimated cost of up to $15,000 may be made using the process provided in RCW 39.04.190.
+
+4. The commission may waive the competitive bidding requirements of this section pursuant to RCW 39.04.280 if an exemption contained within that section applies to the purchase or public work.
+
+## Section 35
+All contract projects, the estimated cost of which is less than the amount authorized, may be awarded using the small works roster process under sections 14 through 16 of this act.
+
+## Section 36
+The following acts or parts of acts, as now existing or hereafter amended, are each repealed, effective June 30, 2032:
+
+1. RCW 39.10.200 and 2023 c . . . s 4 (section 4 of this act), 2010 1st sp.s. c 21 s 2, 2007 c 494 s 1, & 1994 c 132 s 1;
+
+2. RCW 39.10.210 and 2023 c . . . s 5 (section 5 of this act), 2021 c 230 s 1, 2019 c 212 s 1, 2014 c 42 s 1, & 2013 c 222 s 1;
+
+3. RCW 39.10.220 and 2023 c . . . s 6 (section 6 of this act), 2021 c 230 s 2, 2013 c 222 s 2, 2007 c 494 s 102, & 2005 c 377 s 1;
+
+4. RCW 39.10.230 and 2023 c . . . s 7 (section 7 of this act), 2021 c 230 s 3, 2013 c 222 s 3, 2010 1st sp.s. c 21 s 3, 2009 c 75 s 1, 2007 c 494 s 103, & 2005 c 377 s 2;
+
+5. RCW 39.10.240 and 2023 c . . . s 8 (section 8 of this act), 2021 c 230 s 4, 2013 c 222 s 4, & 2007 c 494 s 104;
+
+6. RCW 39.10.250 and 2021 c 230 s 5, 2019 c 212 s 2, 2013 c 222 s 5, 2009 c 75 s 2, & 2007 c 494 s 105;
+
+7. RCW 39.10.260 and 2013 c 222 s 6 & 2007 c 494 s 106;
+
+8. RCW 39.10.270 and 2019 c 212 s 3, 2017 c 211 s 1, 2013 c 222 s 7, 2009 c 75 s 3, & 2007 c 494 s 107;
+
+9. RCW 39.10.280 and 2014 c 42 s 2, 2013 c 222 s 8, & 2007 c 494 s 108;
+
+10. RCW 39.10.290 and 2007 c 494 s 109;
+
+11. RCW 39.10.300 and 2021 c 230 s 6, 2019 c 212 s 4, 2013 c 222 s 9, 2009 c 75 s 4, & 2007 c 494 s 201;
+
+12. RCW 39.10.320 and 2019 c 212 s 5, 2013 c 222 s 10, 2007 c 494 s 203, & 1994 c 132 s 7;
+
+13. RCW 39.10.330 and 2023 c . . . s 9 (section 9 of this act), 2021 c 230 s 7, 2019 c 212 s 6, 2014 c 19 s 1, 2013 c 222 s 11, 2009 c 75 s 5, & 2007 c 494 s 204;
+
+14. RCW 39.10.340 and 2014 c 42 s 3, 2013 c 222 s 12, & 2007 c 494 s 301;
+
+15. RCW 39.10.350 and 2021 c 230 s 8, 2014 c 42 s 4, & 2007 c 494 s 302;
+
+16. RCW 39.10.360 and 2023 c . . . s 10 (section 10 of this act), 2021 c 230 s 9, 2014 c 42 s 5, 2013 c 222 s 13, 2009 c 75 s 6, & 2007 c 494 s 303;
+
+17. RCW 39.10.370 and 2021 c 230 s 10, 2014 c 42 s 6, & 2007 c 494 s 304;
+
+18. RCW 39.10.380 and 2023 c . . . s 11 (section 11 of this act), 2021 c 230 s 11, 2013 c 222 s 14, & 2007 c 494 s 305;
+
+19. RCW 39.10.385 and 2023 c . . . s 12 (section 12 of this act), 2021 c 230 s 12, 2013 c 222 s 15, & 2010 c 163 s 1;
+
+20. RCW 39.10.390 and 2021 c 230 s 13, 2014 c 42 s 7, 2013 c 222 s 16, & 2007 c 494 s 306;
+
+21. RCW 39.10.400 and 2021 c 230 s 14, 2013 c 222 s 17, & 2007 c 494 s 307;
+
+22. RCW 39.10.410 and 2007 c 494 s 308;
+
+23. RCW 39.10.420 and 2019 c 212 s 7, 2017 c 136 s 1, & 2016 c 52 s 1;
+
+24. RCW 39.10.430 and 2021 c 230 s 15, 2019 c 212 s 8, & 2007 c 494 s 402;
+
+25. RCW 39.10.440 and 2021 c 230 s 16, 2019 c 212 s 9, 2015 c 173 s 1, 2013 c 222 s 19, & 2007 c 494 s 403;
+
+26. RCW 39.10.450 and 2019 c 212 s 10, 2012 c 102 s 2, & 2007 c 494 s 404;
+
+27. RCW 39.10.460 and 2021 c 230 s 17, 2012 c 102 s 3, & 2007 c 494 s 405;
+
+28. RCW 39.10.470 and 2019 c 212 s 11, 2014 c 19 s 2, 2005 c 274 s 275, & 1994 c 132 s 10;
+
+29. RCW 39.10.480 and 1994 c 132 s 9;
+
+30. RCW 39.10.490 and 2021 c 230 s 18, 2013 c 222 s 20, 2007 c 494 s 501, & 2001 c 328 s 5;
+
+31. RCW 39.10.900 and 1994 c 132 s 13;
+
+32. RCW 39.10.901 and 1994 c 132 s 14;
+
+33. RCW 39.10.903 and 2007 c 494 s 510;
+
+34. RCW 39.10.904 and 2007 c 494 s 512;
+
+35. RCW 39.10.905 and 2007 c 494 s 513; and
+
+36. RCW 39.10.908 and 2023 c . . . s 13 (section 13 of this act) and 2021 c 230 s 19.
+
+## Section 37

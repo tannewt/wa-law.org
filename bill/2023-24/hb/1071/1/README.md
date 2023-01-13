@@ -1,3 +1,51 @@
-# House Bill 1071
+# HB 1071 - School resource officers
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1071.pdf)
+
+## Section 1
+The purpose of this act is to provide a school resource officer in every school to promote a safe learning environment and to protect the safety and welfare of all students and school personnel. The legislature finds that recent acts of mass violence across the nation have threatened the safety of children at school. Thus, the legislature intends to implement short and long-term strategies that empower school districts to protect our students and provide a safe and secure learning environment. The legislature further intends to enact laws that support our schools and enable them to increase security, provide greater protections for students and staff, and develop local strategies to identify and intervene against potential threats. Therefore, it is the intent of the legislature to provide every public school in Washington with the resources to employ a full-time school resource officer to promote a safe learning environment and to protect the safety and welfare of all students and school personnel.
+
+## Section 2
+1. [Empty]
+
+    a. In addition to amounts allocated under RCW 28A.150.260, the superintendent of public instruction must allocate state funding for one school resource officer on each school campus to school districts.
+
+    b. The allocation for a school resource officer's annual salary under this section is $76,532, adjusted for inflation from the 2022-23 school year as defined in RCW 28A.400.205 and the classified regionalization factor of the school district in which the school is located. Allocations for fringe benefits and insurance benefits shall be calculated using rates specified in the omnibus appropriations act for classified staff.
+
+    c. Amounts allocated under this section may be used only to support staffing for school resource officers or school security officers on school campuses. Amounts allocated under this section are part of the funding deemed necessary by the legislature to support school districts in offering the minimum program of basic education under RCW 28A.150.220.
+
+2. For the purposes of this section:
+
+    a. "School campus" means a school facility, as defined by the superintendent of public instruction by rules adopted under RCW 28A.525.020, that is used primarily for in-person instruction of students in any grade level from kindergarten through 12th grade.
+
+    b. "School resource officer" means a commissioned law enforcement officer who provides security and law enforcement services at one or more schools under the direction of a school administrator.
+
+    c. "School security officer" means a person other than a commissioned law enforcement officer who provides security services at one or more public schools under the direction of a school administrator.
+
+## Section 3
+1. The legislature intends that state funding for charter schools be distributed equitably with state funding provided for other public schools.
+
+2. For eligible students enrolled in a charter school established and operating in accordance with this chapter, the superintendent of public instruction shall transmit to each charter school an amount calculated as provided in this section and based on the statewide average salaries set forth in RCW 28A.150.410 for certificated instructional staff adjusted by the regionalization factor that applies to the school district in which the charter school is geographically located, including any enrichment to those statutory formulae that is specified in the omnibus appropriations act. The amount must be the sum of (a) and (b) of this subsection.
+
+    a. The superintendent shall, for purposes of making distributions under this section, separately calculate and distribute to charter schools moneys appropriated for general apportionment under the same ratios as in RCW 28A.150.260 and school resource officers under section 2 of this act.
+
+    b. The superintendent also shall, for purposes of making distributions under this section, and in accordance with the applicable formulae for categorical programs specified in (b)(i) through (v) of this subsection (2) and any enrichment to those statutory formulae that is specified in the omnibus appropriations act, separately calculate and distribute moneys appropriated by the legislature to charter schools for:
+
+        i. Supplemental instruction and services for students who are not meeting academic standards through the learning assistance program under RCW 28A.165.005 through 28A.165.065;
+
+        ii. Supplemental instruction and services for eligible and enrolled students and exited students whose primary language is other than English through the transitional bilingual instruction program under RCW 28A.180.010 through 28A.180.080;
+
+        iii. The opportunity for an appropriate education at public expense as defined by RCW 28A.155.020 for all eligible students with disabilities as defined in RCW 28A.155.020;
+
+        iv. Programs for highly capable students under RCW 28A.185.010 through 28A.185.030; and
+
+    v. Pupil transportation services to and from school in accordance with RCW 28A.160.150 through 28A.160.180. Distributions for pupil transportation must be calculated on a per eligible student basis based on the allocation for the previous school year to the school district in which the charter school is located.
+
+3. The superintendent of public instruction must adopt rules necessary for the distribution of funding required by this section and to comply with federal reporting requirements.
+
+## Section 4
+1. A school that is the subject of a state-tribal education compact must report student enrollment. Reporting must be done in the same manner and use the same definitions of enrolled students and annual average full-time equivalent enrollment as is required of school districts. The reporting requirements in this subsection are required for a school to receive state or federal funding that is allocated based on student characteristics.
+
+2. Funding for a school that is the subject of a state-tribal education compact shall be apportioned by the superintendent of public instruction according to the schedule established under RCW 28A.510.250, including general apportionment, special education, categorical, and other nonbasic education moneys. Allocations for certificated instructional staff must be based on the statewide average salary set forth in RCW 28A.150.410 and section 2 of this act, adjusted by the regionalization factor that applies to the school district in which the school is located. Allocations for classified staff and certificated administrative staff must be based on the salary allocations of the school district in which the school is located as set forth in RCW 28A.150.410, adjusted by the regionalization factor that applies to the school district in which the school is located. Nothing in this section requires a school that is the subject of a state-tribal education compact to use the statewide salary allocation schedule. Such a school is eligible to apply for state grants on the same basis as a school district.
+
+3. Any moneys received by a school that is the subject of a state-tribal education compact from any source that remain in the school's accounts at the end of any budget year must remain in the school's accounts for use by the school during subsequent budget years.
