@@ -8,7 +8,7 @@ import subprocess
 import url_history
 import utils
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 api_root_url = "http://wslwebservices.leg.wa.gov"
 

@@ -6,6 +6,8 @@ import arrow
 import utils
 import datetime
 
+AgendaItem = namedtuple("AgendaItem", ["agendaId", "mId", "aId", "caId", "text"])
+
 db = utils.get_db()
 cur = db.cursor()
 
@@ -72,41 +74,27 @@ for start_year in range(2023, 2025, 2):
             cur.execute("SELECT rowid FROM meetings WHERE mId = ?;", (mId,))
             meeting_rowid = cur.fetchone()[0]
 
-            items = load_agenda_items(mId, FORCE_FETCH)
+            # Look back in our fetch history if the latest page doesn't have any items. They
+            # disappear after a meeting happens.
+            items = []
+            history_index = -1
+            while not items:
+                url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={agendaId}"
+                response = requests.get(url, fetch_again=FORCE_FETCH, index=history_index)
+                if not response:
+                    break
+                history_index -= 1
+                xml_items = BeautifulSoup(response.decode("utf-8"), "lxml")
+                for item in xml_items.find_all(class_="agendaItem"):
+                    chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
+                    items.append(AgendaItem(agendaId, mId, aId, caId, item.text))
+
             for item in items:
                 if bill_number not in item.text:
                     continue
                 cur.execute("INSERT OR IGNORE INTO agenda_items VALUES (?, ?, ?, ?)", (meeting_rowid, bill_rowid, item.caId, item.text))
                 cur.execute("SELECT rowid FROM agenda_items WHERE caId = ?", (item.caId,))
                 item_rowid = cur.fetchone()[0]
-                url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={item.caId}"
-                testifiers = requests.get(url, fetch_again=FORCE_FETCH)
-                testifiers = BeautifulSoup(testifiers.decode("utf-8"), "lxml")
-                for table in testifiers.find_all("table"):
-                    if table["id"] not in ("testifyingDataTable", "notTestifyingDataTable"):
-                        print(table["id"])
-                        raise RuntimeError()
-                    testifying = table["id"] == "testifyingDataTable"
-                    for row in table.find_all("tr"):
-                        cols = [c.text for c in row.find_all("td")]
-                        if not cols:
-                            continue
-                        last_name, first_name = cols[1].split(", ", maxsplit=1)
-                        organization = cols[2]
-                        position = cols[3]
-                        sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %H:%M:%S %p")
-                        cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))
-                        cur.execute("SELECT rowid FROM positions WHERE position = ?;", (position,))
-                        position_rowid = cur.fetchone()[0]
-
-                        cur.execute("SELECT rowid FROM bills WHERE year = 2023 AND id = ?", (bill_number,))
-                        bill_rowid = cur.fetchone()[0]
-
-                        # print(cols)
-                        # print(last_name, first_name, testifying, organization, position, sign_in_time)
-                        cur.execute("INSERT OR IGNORE INTO testifiers (agenda_item_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time) VALUES"
-                                                           "(?, ?, ?, ?, ?, ?, ?)",
-                                                           (item_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time))
 
                 url = csi_root_url + f"/{chamber}/TestimonyTypes/?chamber={chamber}&meetingFamilyId={item.mId}&agendaItemFamilyId={item.aId}&agendaItemId={item.caId}"
                 testimonyOptions = requests.get(url)
@@ -119,7 +107,39 @@ for start_year in range(2023, 2025, 2):
         if activity:
             active[bill_number] = activity
 
-        #
+    item_cur = db.cursor()
+    item_cur.execute("SELECT rowid, caId FROM agenda_items WHERE caId IS NOT NULL")
+    for agenda_item_rowid, caId in item_cur:
+        url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
+        testifiers = requests.get(url, fetch_again=FORCE_FETCH)
+        if not testifiers:
+            print("failed to load", url)
+            continue
+        testifiers = BeautifulSoup(testifiers.decode("utf-8"), "lxml")
+        for table in testifiers.find_all("table"):
+            if table["id"] not in ("testifyingDataTable", "notTestifyingDataTable"):
+                print(table["id"])
+                raise RuntimeError()
+            testifying = table["id"] == "testifyingDataTable"
+            for row in table.find_all("tr"):
+                cols = [c.text for c in row.find_all("td")]
+                if not cols:
+                    continue
+                last_name, first_name = cols[1].split(", ", maxsplit=1)
+                organization = cols[2]
+                position = cols[3]
+                sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %H:%M:%S %p")
+                cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))
+                cur.execute("SELECT rowid FROM positions WHERE position = ?;", (position,))
+                position_rowid = cur.fetchone()[0]
+
+                # print(cols)
+                # print(last_name, first_name, testifying, organization, position, sign_in_time)
+                cur.execute("INSERT OR IGNORE INTO testifiers (agenda_item_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time) VALUES"
+                                                   "(?, ?, ?, ?, ?, ?, ?)",
+                                                   (agenda_item_rowid, first_name, last_name, organization, position_rowid, testifying, sign_in_time))
+
+                db.commit()
         # https://app.leg.wa.gov
     print(len(all_meetings), "meetings")
     print(len(active), "active bills")
