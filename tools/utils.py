@@ -46,29 +46,46 @@ def get_db(readonly=False):
         return sqlite3.connect("file:wa-laws.db?mode=ro", uri=True)
     db = sqlite3.connect("wa-laws.db")
 
+    db.execute("CREATE TABLE IF NOT EXISTS bienniums("
+                    "start_year integer,"
+                    "end_year integer,"
+                    "name text,"
+                    "UNIQUE(name)"
+                ")")
+
     db.execute("CREATE TABLE IF NOT EXISTS sessions("
+                    "biennium_rowid integer,"
                     "year integer,"
                     "name text,"
+                    "FOREIGN KEY(biennium_rowid) REFERENCES bienniums(rowid)"
                     "UNIQUE(name)"
                 ")")
     # TODO: Split bills from revisions (this is more revisions) and add source url.
     # db.execute(("DROP TABLE IF EXISTS bills"))
+    # Bills live for a biennium.
     db.execute(("CREATE TABLE IF NOT EXISTS bills("
-                    "year integer,"
-                    "session_rowid integer,"
+                    "biennium_rowid integer,"
                     "prefix text,"
-                    "id integer,"
-                    "version text,"
+                    "number integer,"
                     "previous_version int,"
-                    "next_version int,"
+                    "FOREIGN KEY(previous_version) REFERENCES bills(rowid),"
+                    "UNIQUE(biennium_rowid, number)"
+                    ")"))
+    db.execute(("CREATE TABLE IF NOT EXISTS revisions("
+                    "bill_rowid integer,"
+                    "version text,"
                     "description text,"
-                    "session_law_chapter integer,"
                     "source_url text,"
                     "modified_time timestamp,"
-                    "FOREIGN KEY(previous_version) REFERENCES bills(rowid),"
-                    "FOREIGN KEY(next_version) REFERENCES bills(rowid),"
-                    "UNIQUE(session_rowid, session_law_chapter),"
-                    "UNIQUE(year, id, version))"))
+                    "base_revision integer,"
+                    "next_revision integer,"
+                    # Session versions are filled in once a bill is passed.
+                    "session_rowid integer,"
+                    "session_law_chapter integer,"
+                    "FOREIGN KEY(base_revision) REFERENCES revisions(rowid),"
+                    "FOREIGN KEY(next_revision) REFERENCES revisions(rowid),"
+                    "UNIQUE(bill_rowid, session_law_chapter),"
+                    "UNIQUE(bill_rowid, version))"))
 
     db.execute("CREATE TABLE IF NOT EXISTS agencies (name text, UNIQUE(name))")
     db.execute(("CREATE TABLE IF NOT EXISTS committees ("
@@ -117,29 +134,33 @@ def get_db(readonly=False):
                     "UNIQUE(agenda_item_rowid, first_name, last_name, sign_in_time)"
     ")"))
     db.execute(("CREATE TABLE IF NOT EXISTS sections ("
-                    "bill_rowid integer,"
-                    "bill_section text,"
-                    "bill_section_number integer,"
+                    "revision_rowid integer,"
+                    "name text," # Usually a number but not always
+                    "number integer," # Always a number
                     "chapter_rowid integer,"
                     "rcw_section text,"
                     "base_sl_revision integer,"
                     "previous_iteration integer,"
-                    "markdown text,"
+                    "raw_text text," # Usually a diff from the bill
+                    "markdown text," # The new version of the text formatted in markdown
                     "effective date,"
                     "expires date,"
-                    "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
+                    "FOREIGN KEY(revision_rowid) REFERENCES revisions(rowid),"
                     "FOREIGN KEY(chapter_rowid) REFERENCES chapters(rowid),"
                     "FOREIGN KEY(base_sl_revision) REFERENCES sections(rowid),"
                     "FOREIGN KEY(previous_iteration) REFERENCES sections(rowid),"
-                    "UNIQUE(bill_rowid, bill_section_number)"
+                    "UNIQUE(revision_rowid, number)"
                     ")"))
     db.execute("CREATE TABLE IF NOT EXISTS titles ("
                     "title_number text,"
-                    "caption text)")
+                    "caption text,"
+                    "UNIQUE(title_number)"
+                    ")")
     db.execute("CREATE TABLE IF NOT EXISTS chapters ("
                     "title_rowid integer,"
                     "chapter_number text,"
                     "caption text,"
-                    "FOREIGN KEY(title_rowid) REFERENCES titles(rowid)"
+                    "FOREIGN KEY(title_rowid) REFERENCES titles(rowid),"
+                    "UNIQUE(title_rowid, chapter_number)"
                     ")")
     return db

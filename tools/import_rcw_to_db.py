@@ -116,7 +116,17 @@ for title in titles:
                     if len(pieces) == 5 and pieces[1] == "c" and pieces[3] == "§":
                         try:
                             year = int(pieces[0].split(maxsplit=1)[0][:4])
-                            cur.execute("INSERT OR IGNORE INTO sessions (year, name) VALUES (?, ?)", (year, pieces[0]))
+                            if year % 2 == 0:
+                                start_year = year - 1
+                                end_year = year
+                            else:
+                                start_year = year
+                                end_year = year + 1
+                            biennium_name = f"{start_year}-{end_year % 100:02d}"
+                            cur.execute("INSERT OR IGNORE INTO bienniums VALUES (?, ?, ?)", (start_year, end_year, biennium_name))
+                            cur.execute("SELECT rowid FROM bienniums WHERE start_year = ? OR end_year = ?;", (year, year))
+                            biennium_rowid = cur.fetchone()[0]
+                            cur.execute("INSERT OR IGNORE INTO sessions (biennium_rowid, year, name) VALUES (?, ?, ?)", (biennium_rowid, year, pieces[0]))
                             cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (pieces[0],))
                             session_rowid = cur.fetchone()[0]
                             if latest_session is None:
