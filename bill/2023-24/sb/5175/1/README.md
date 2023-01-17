@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5175](/bills/2023-24/sb/5175/) > [Original Bill](/bills/2023-24/sb/5175/1/)
+
 # SB 5175 - School principal contracts
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5175.pdf)

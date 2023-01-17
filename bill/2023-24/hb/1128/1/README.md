@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1128](/bills/2023-24/hb/1128/) > [Original Bill](/bills/2023-24/hb/1128/1/)
+
 # HB 1128 - Personal needs allowance
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1128.pdf)

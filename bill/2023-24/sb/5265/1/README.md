@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5265](/bills/2023-24/sb/5265/) > [Original Bill](/bills/2023-24/sb/5265/1/)
+
 # SB 5265 - Firearms/assault weapons
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5265.pdf)

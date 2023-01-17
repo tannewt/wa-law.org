@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5001](/bills/2023-24/sb/5001/) > [Original Bill](/bills/2023-24/sb/5001/1/)
+
 # SB 5001 - Public facility districts
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5001.pdf)

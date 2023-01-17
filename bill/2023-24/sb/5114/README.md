@@ -1,39 +1,22 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5114](/bills/2023-24/sb/5114/)
+
+# SB 5114
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5114&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 91 👍 - Pro
-* Scarlet Road 3
-* AAUW-WA 1
-* Bellsky, LLC  1
-* Businesses Ending Slavery and Trafficking 1
-* Businesses Ending Slavery and Trafficking  1
-* ECPAT-USA 1
-* Executive Director 1
-* Knights of Columbus 1
-* No 1
-* Organization for Prostitution Survivors 1
-* Parihioner of St. James Cathedral 1
-* Parishioner of St. Gabriel Catholic Church 1
-* Parishioner of St.James Cathedral Church   1
-* Parishioner of st. Genevieve catholic church 1
-* Patty Fleischmann 1
-* Port of Seattle, Commission President 1
-* REST 1
-* Real Escape from the Sex Trade 1
-* Rebuilding Hope! Sexual Assault Center for Pierce County 1
-* Scarlet Road - Board Member 1
-* St Teresa Of Calcutta 1
-* Stolen Youth Board Member 1
-* TDDI 1
-* The Epik Priject 1
-* WASE. Forward 1
-* Washington Trafficking Prevention  1
-* Water District 125 1
-* Yarrow Project  1
-* none 1
-* parishioner of St. Joseph Parish, Kennewick, WA 1
+## Positions
+### 91 👍 - Pro
+#### Testifying
+* Sam Cho - Port of Seattle, Commission President
+* Mar  Brettmann - Businesses Ending Slavery and Trafficking 
+*  Kyra Abrahamson - Washington Trafficking Prevention 
+* Marissa Perez - Yarrow Project 
+* Rebekah Fonden - Organization for Prostitution Survivors
+* Mary Williams  - Real Escape from the Sex Trade
+* Robin  Miller
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

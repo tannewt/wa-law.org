@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1193](/bills/2023-24/hb/1193/) > [Original Bill](/bills/2023-24/hb/1193/1/)
+
 # HB 1193 - Greenhouse gas/building code
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1193.pdf)

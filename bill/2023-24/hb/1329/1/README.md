@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1329](/bills/2023-24/hb/1329/) > [Original Bill](/bills/2023-24/hb/1329/1/)
+
 # HB 1329 - Utility shutoffs/heat
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1329.pdf)

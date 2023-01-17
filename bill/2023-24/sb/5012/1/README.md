@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5012](/bills/2023-24/sb/5012/) > [Original Bill](/bills/2023-24/sb/5012/1/)
+
 # SB 5012 - Columbia river third bridge
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5012.pdf)

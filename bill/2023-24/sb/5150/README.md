@@ -1,24 +1,18 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5150](/bills/2023-24/sb/5150/)
+
+# SB 5150
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5150&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 33 👍 - Pro
-* Bodine Consulting Services, LLC 1
-* Double O Ranch, LLC 1
-* Executive Director, Washington Cattle Feeders Aoocaiton  1
-* FXCFBV 1
-* G & G Land And Livestock 1
-* Gress Cattle Company 1
-* McGreevy Ranches Inc. 1
-* Midvale Cattle Co LLC 1
-* N8 Ranch, Inc.  1
-* Washington Beef 1
-* self 1
+## Positions
+### 33 👍 - Pro
+#### Testifying
+* Jay  Theiler - Washington Beef
+* Jack Field - Executive Director, Washington Cattle Feeders Aoocaiton 
+* Jack Field - self
 
-## 18 👎 - Con
-* 12602 S Belair rd 1
-* Cattle Producer's of Washington  1
-* No 1
-* barton schorer 1
+### 18 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

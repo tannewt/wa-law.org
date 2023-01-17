@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1290](/bills/2023-24/hb/1290/) > [Original Bill](/bills/2023-24/hb/1290/1/)
+
 # HB 1290 - Tribal police training
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1290.pdf)

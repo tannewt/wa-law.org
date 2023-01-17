@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1211](/bills/2023-24/hb/1211/) > [Original Bill](/bills/2023-24/hb/1211/1/)
+
 # HB 1211 - Special education funding
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1211.pdf)

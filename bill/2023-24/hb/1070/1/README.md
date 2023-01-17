@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1070](/bills/2023-24/hb/1070/) > [Original Bill](/bills/2023-24/hb/1070/1/)
+
 # HB 1070 - Property sale and leaseback
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1070.pdf)

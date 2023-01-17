@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5394](/bills/2023-24/sb/5394/) > [Original Bill](/bills/2023-24/sb/5394/1/)
+
 # SB 5394 - Concerning malpractice insurance for international medical graduate supervisors.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5394.pdf)

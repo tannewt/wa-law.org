@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5111](/bills/2023-24/sb/5111/) > [Original Bill](/bills/2023-24/sb/5111/1/)
+
 # SB 5111 - Sick leave/construction
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5111.pdf)

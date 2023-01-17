@@ -1,21 +1,26 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5032](/bills/2023-24/sb/5032/)
+
+# SB 5032
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5032&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 47 👍 - Pro
-* Office of the Governor 3
-* Washington Traffic Safety Commission 3
-* Washington State Patrol 2
-* CLW 1
-* Conservative Ladies of Washington 1
-* Dana Nelson 1
-* WA Assoc Sheriffs & Police Chiefs 1
-* WA Association of Prosecuting Attorneys 1
-* WA State Attorney General's Office 1
-* WASAVP - Prevention First! for Safe and Healthy Communities 1
-* Washington Association for Substance Misuse and Violence Prevention (WASAVP) 1
+## Positions
+### 47 👍 - Pro
+#### Testifying
+* Amy Freedheim
+* Barbara Serrano - Office of the Governor
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
+* Mark McKechnie - Washington Traffic Safety Commission
+* Neil Weaver - Washington State Patrol
+* Debbie Driver - Office of the Governor
+* Shelly Baldwin - Washington Traffic Safety Commission
+* Neil Weaver - Washington State Patrol
+* Mark McKechnie - Washington Traffic Safety Commission
+* Barbara Serrano - Office of the Governor
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 1 ❓ - Other
-* WDA/WACDL 1
+### 1 ❓ - Other

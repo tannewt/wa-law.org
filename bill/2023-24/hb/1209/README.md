@@ -1,13 +1,14 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1209](/bills/2023-24/hb/1209/)
+
+# HB 1209
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1209&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 5 👍 - Pro
-* WASAVP - Prevention First! for Safe and Healthy Communities 2
-* WA Assoc Sheriffs & Police Chiefs 1
-* WA Sun & Craft Growers Assoc (WSCA) 1
-* WACOPS - Washington Council of Police and Sheriffs 1
+## Positions
+### 5 👍 - Pro
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

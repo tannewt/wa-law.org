@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5085](/bills/2023-24/sb/5085/) > [Original Bill](/bills/2023-24/sb/5085/1/)
+
 # SB 5085 - School principals/employment
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5085.pdf)

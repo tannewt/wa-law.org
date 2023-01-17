@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5015](/bills/2023-24/sb/5015/) > [Original Bill](/bills/2023-24/sb/5015/1/)
+
 # SB 5015 - Productivity board
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5015.pdf)

@@ -1,32 +1,16 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1151](/bills/2023-24/hb/1151/)
+
+# HB 1151
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1151&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 12 👍 - Pro
-* American College of Obstetricians and Gynecologist of WA 1
-* Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297 1
-* Cascade AIDS Project 1
-* IBEW 46 ( Electricians Union) 1
-* Legal Voice  1
-* Pro-Choice Washington 1
-* SEIU Healthcare 1199NW 1
-* Teamsters 117 1
-* UFCW 3000 1
-* Washington State Medical Assocation (WSMA) 1
-* Washington State Nurses Association 1
+## Positions
+### 12 👍 - Pro
 
-## 32 👎 - Con
-* Blessed Sacrament Church 1
-* Knights of Columbus 1
-* Member of St. Luke Parish, Shoreline 1
-* PacificSource 1
-* Parishioner of St. Gabriel Catholic Church 1
-* Parishioner of St. James Cathedral, Seattle 1
-* Parishioner of St.James Cathedral Church   1
-* Parishioner of st. Genevieve catholic church 1
-* Them Before Us 1
-* Washington State Catholic Conference 1
-* parishioner of Our Lady of Guadalupe Church 1
-* parishioner of St. Joseph Parish, Kennewick, WA 1
+### 32 👎 - Con
+#### Testifying
+* Jennifer Friesen - Them Before Us
 
-## 0 ❓ - Other
+### 0 ❓ - Other

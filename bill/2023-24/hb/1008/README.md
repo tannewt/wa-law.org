@@ -1,28 +1,18 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1008](/bills/2023-24/hb/1008/)
+
+# HB 1008
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1008&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 19 👍 - Pro
-* Amalgamated Transit Union Legislative Council 1
-* IBEW 46 ( Electricians Union) 1
-* IBEW LU 77 1
-* Ironworkers Local 86 1
-* Public School Employees of WA 1
-* Retired Public Employees Council of Washington (RPEC) 1
-* SEIU775 1
-* Select Prefix/Title 1
-* Teamsters 1
-* Teamsters 117 1
-* UFCW 3000 1
-* WA Association of School Administrators  1
-* WA Federation of State Employees 1
-* WFSE 1
-* Washington Education Association 1
-* Washington Public Employees Association 1
-* Washington State Labor Council, AFL-CIO 1
-* Washington State School Retirees’ Assn. 1
+## Positions
+### 19 👍 - Pro
+#### Testifying
+* Fred Yancey - Washington State School Retirees’ Assn.
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 1 ❓ - Other
-* WA State Health Care Authority 1
+### 1 ❓ - Other
+#### Testifying
+* David Iseminger - WA State Health Care Authority

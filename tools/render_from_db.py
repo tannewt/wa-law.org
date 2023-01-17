@@ -7,6 +7,8 @@ cur = db.cursor()
 
 bills_path = pathlib.Path("bill/2023-24/")
 
+biennium = "2023-24"
+
 REVISION_TO_NAME = {
     "1": "Original Bill",
     "S": "Substitute Bill"
@@ -43,7 +45,15 @@ biennium_rowid = cur.fetchone()[0]
 
 cur.execute("SELECT rowid, prefix, number FROM bills WHERE biennium_rowid = ?", (biennium_rowid,))
 for bill_rowid, prefix, bill_number in cur:
-    bill_readme = ["# Revisions"]
+    breadcrumb = f"[wa-law.org](/) > [bills](/bills/) > [{biennium}](/bills/{biennium}) > [{prefix} {bill_number}](/bills/{biennium}/{prefix.lower()}/{bill_number}/)"
+    bill_readme = [
+        breadcrumb,
+        "",
+        f"# {prefix} {bill_number}",
+        f"[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2023&Initiative=false)",
+        "",
+        "## Revisions"
+    ]
 
     bill_path = bills_path / prefix.lower() / str(bill_number)
 
@@ -58,7 +68,11 @@ for bill_rowid, prefix, bill_number in cur:
 
         bill_readme.append(f"* [{REVISION_TO_NAME[revision]}](" + str(revision_path.relative_to(bill_path)) + "/)")
 
-        revision_readme = [f"# {prefix} {bill_number} - {description}"]
+        revision_readme = [
+            breadcrumb + f" > [{REVISION_TO_NAME[revision]}](/bills/{biennium}/{prefix.lower()}/{bill_number}/{revision}/)",
+            "",
+            f"# {prefix} {bill_number} - {description}"
+        ]
         revision_readme.append("")
         source_url = source_url.replace(" ", "%20")
         revision_readme.append(f"[Source]({source_url})")
@@ -79,7 +93,7 @@ for bill_rowid, prefix, bill_number in cur:
         rm.write_text("\n".join(revision_readme))
     bill_readme.append("")
 
-    bill_readme.append("# Positions")
+    bill_readme.append("## Positions")
     for position in POSITION_TO_EMOJI:
         positions = db.cursor()
         positions.execute("SELECT rowid FROM positions WHERE position = ?", (position,))
@@ -92,14 +106,17 @@ for bill_rowid, prefix, bill_number in cur:
         else:
             count = 0
         emoji = POSITION_TO_EMOJI[position]
-        bill_readme.append(f"## {count} {emoji} - {position}")
+        bill_readme.append(f"### {count} {emoji} - {position}")
 
-        organizations = db.cursor()
-        organizations.execute("SELECT organization, COUNT(*) as c FROM testifiers, agenda_items WHERE testifiers.position_rowid = ? AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ? GROUP BY organization ORDER BY c DESC, organization", (p_rowid, bill_rowid))
-        for org, count in organizations:
-            if not org:
-                continue
-            bill_readme.append(f"* {org} {count}")
+        testifiers = db.cursor()
+        testifiers.execute("SELECT first_name, last_name, organization FROM testifiers, agenda_items WHERE testifying AND testifiers.position_rowid = ? AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ?", (p_rowid, bill_rowid))
+        testifiers = testifiers.fetchall()
+        if testifiers:
+            bill_readme.append("#### Testifying")
+            for first_name, last_name, organization in testifiers:
+                if organization:
+                    organization = " - " + organization
+                bill_readme.append(f"* {first_name} {last_name}{organization}")
         bill_readme.append("")
 
 

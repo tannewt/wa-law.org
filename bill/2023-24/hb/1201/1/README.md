@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1201](/bills/2023-24/hb/1201/) > [Original Bill](/bills/2023-24/hb/1201/1/)
+
 # HB 1201 - Retirement system funding
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1201.pdf)

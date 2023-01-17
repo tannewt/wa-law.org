@@ -1,22 +1,20 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5229](/bills/2023-24/sb/5229/)
+
+# SB 5229
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5229&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 13 👍 - Pro
-* IBEW 46 ( Electricians Union) 2
-* Association of Washington Cities 1
-* CERB - Community Economic Revitalization Board 1
-* Ironworkers Local 86 1
-* Northwest Harvest 1
-* Port of Walla Walla 1
-* Port of Woodland 1
-* UFCW 3000 1
-* Washington Economic Development Association 1
-* Washington Education Association 1
-* Washington State Association of Counties 1
-* Washington State Labor Council, AFL-CIO 1
+## Positions
+### 13 👍 - Pro
+#### Testifying
+* Jennifer Wray-Keene - Port of Woodland
+* Michael  Echanove - CERB - Community Economic Revitalization Board
+* Suzanne Dale Estey - Washington Economic Development Association
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 1 ❓ - Other
-* Washington State Department of Commerce 1
+### 1 ❓ - Other
+#### Testifying
+* Robert Duff - Washington State Department of Commerce

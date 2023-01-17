@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1086](/bills/2023-24/hb/1086/) > [Original Bill](/bills/2023-24/hb/1086/1/)
+
 # HB 1086 - Community org. contracts
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1086.pdf)

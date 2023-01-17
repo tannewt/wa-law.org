@@ -1,15 +1,17 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5159](/bills/2023-24/sb/5159/)
+
+# SB 5159
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5159&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 12 👍 - Pro
-* Building Industry Association of Washington 2
-* Association of Washington Cities 1
-* Heritage Builders NW LLC 1
-* Master Builders Association of King and Snohomish Counties 1
-* WA Department of Ecology 1
-* Washington Department of Commerce 1
+## Positions
+### 12 👍 - Pro
+#### Testifying
+* Tim Gates - WA Department of Ecology
+* Josie Cummings - Building Industry Association of Washington
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

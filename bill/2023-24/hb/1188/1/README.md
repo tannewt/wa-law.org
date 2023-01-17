@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1188](/bills/2023-24/hb/1188/) > [Original Bill](/bills/2023-24/hb/1188/1/)
+
 # HB 1188 - Child welfare services/DD
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1188.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5395](/bills/2023-24/sb/5395/) > [Original Bill](/bills/2023-24/sb/5395/1/)
+
 # SB 5395 - Increasing the real estate technology fee dedicated to the maintenance and operation of property tax and real estate excise tax electronic processing, reporting, and revaluation systems.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5395.pdf)

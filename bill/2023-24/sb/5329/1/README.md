@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5329](/bills/2023-24/sb/5329/) > [Original Bill](/bills/2023-24/sb/5329/1/)
+
 # SB 5329 - Higher ed. fees/campuses
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5329.pdf)

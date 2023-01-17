@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5385](/bills/2023-24/sb/5385/) > [Original Bill](/bills/2023-24/sb/5385/1/)
+
 # SB 5385 - Concerning work performed by institutions of higher education.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5385.pdf)

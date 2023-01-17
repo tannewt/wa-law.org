@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5248](/bills/2023-24/sb/5248/) > [Original Bill](/bills/2023-24/sb/5248/1/)
+
 # SB 5248 - Tutoring & extended learning
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5248.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5127](/bills/2023-24/sb/5127/) > [Original Bill](/bills/2023-24/sb/5127/1/)
+
 # SB 5127 - Student information/PRA
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5127.pdf)

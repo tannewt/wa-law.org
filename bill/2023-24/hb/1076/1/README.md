@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1076](/bills/2023-24/hb/1076/) > [Original Bill](/bills/2023-24/hb/1076/1/)
+
 # HB 1076 - Salmon voluntary stewardship
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1076.pdf)

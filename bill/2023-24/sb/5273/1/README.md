@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5273](/bills/2023-24/sb/5273/) > [Original Bill](/bills/2023-24/sb/5273/1/)
+
 # SB 5273 - Employee information/unions
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5273.pdf)

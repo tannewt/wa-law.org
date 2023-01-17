@@ -1,20 +1,23 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1082](/bills/2023-24/hb/1082/)
+
+# HB 1082
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1082&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 72 👍 - Pro
-* Therapeutic Beginnings 4
-* APTA Washington 2
-* WOTA 2
-* APTA WA 1
-* Arthritis Life 1
-* Empire Therapy 1
-* Evolutionary Development Consulting, LLC 1
-* University of Washington, Department of Occupational Therapy  1
-* WA Citizen and occupational therapist 1
-* Washington Occupational Therapy Association 1
-* Washington State Psychological Association 1
+## Positions
+### 72 👍 - Pro
+#### Testifying
+* Ben Boyle - APTA Washington
+* Rachel Herron
+* Kris Sasaki
+* Renae  Lewandowski - Therapeutic Beginnings
+* Christopher Heistand - Therapeutic Beginnings
+* Renae  Lewandowski - Therapeutic Beginnings
+* Christopher Heistand - Therapeutic Beginnings
+* Maile Mohsenian - Empire Therapy
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1199](/bills/2023-24/hb/1199/) > [Original Bill](/bills/2023-24/hb/1199/1/)
+
 # HB 1199 - Child care/communities
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1199.pdf)

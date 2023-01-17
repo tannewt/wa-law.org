@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5095](/bills/2023-24/sb/5095/) > [Original Bill](/bills/2023-24/sb/5095/1/)
+
 # SB 5095 - Parks/health & wellness
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5095.pdf)

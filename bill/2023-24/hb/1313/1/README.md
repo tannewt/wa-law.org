@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1313](/bills/2023-24/hb/1313/) > [Original Bill](/bills/2023-24/hb/1313/1/)
+
 # HB 1313 - Health care afford./medicare
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1313.pdf)

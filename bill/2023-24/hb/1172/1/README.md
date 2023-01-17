@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1172](/bills/2023-24/hb/1172/) > [Original Bill](/bills/2023-24/hb/1172/1/)
+
 # HB 1172 - Working fam. fiscal impacts
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1172.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5376](/bills/2023-24/sb/5376/) > [Original Bill](/bills/2023-24/sb/5376/1/)
+
 # SB 5376 - Cannabis waste
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5376.pdf)

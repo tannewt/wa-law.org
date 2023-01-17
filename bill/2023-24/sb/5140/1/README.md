@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5140](/bills/2023-24/sb/5140/) > [Original Bill](/bills/2023-24/sb/5140/1/)
+
 # SB 5140 - Election security testing
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5140.pdf)

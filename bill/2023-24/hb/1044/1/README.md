@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1044](/bills/2023-24/hb/1044/) > [Original Bill](/bills/2023-24/hb/1044/1/)
+
 # HB 1044 - Capital assistance/schools
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1044.pdf)

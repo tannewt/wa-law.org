@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5221](/bills/2023-24/sb/5221/) > [Original Bill](/bills/2023-24/sb/5221/1/)
+
 # SB 5221 - Opportunity scholarship
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5221.pdf)

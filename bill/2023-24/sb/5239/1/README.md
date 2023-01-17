@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5239](/bills/2023-24/sb/5239/) > [Original Bill](/bills/2023-24/sb/5239/1/)
+
 # SB 5239 - Vapor & tobacco products
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5239.pdf)

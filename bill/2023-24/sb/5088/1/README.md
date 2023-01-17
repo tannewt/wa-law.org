@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5088](/bills/2023-24/sb/5088/) > [Original Bill](/bills/2023-24/sb/5088/1/)
+
 # SB 5088 - Contractor registration
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5088.pdf)

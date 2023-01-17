@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1019](/bills/2023-24/hb/1019/) > [Original Bill](/bills/2023-24/hb/1019/1/)
+
 # HB 1019 - Pesticide advisory board
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1019.pdf)

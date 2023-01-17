@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5338](/bills/2023-24/sb/5338/) > [Original Bill](/bills/2023-24/sb/5338/1/)
+
 # SB 5338 - Essential health benefits
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5338.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5008](/bills/2023-24/sb/5008/) > [Original Bill](/bills/2023-24/sb/5008/1/)
+
 # SB 5008 - K-12 instr. materials/access
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5008.pdf)

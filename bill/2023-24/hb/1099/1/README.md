@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1099](/bills/2023-24/hb/1099/) > [Original Bill](/bills/2023-24/hb/1099/1/)
+
 # HB 1099 - Public works wages
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1099.pdf)

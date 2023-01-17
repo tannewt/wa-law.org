@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1362](/bills/2023-24/hb/1362/) > [Original Bill](/bills/2023-24/hb/1362/1/)
+
 # HB 1362 - Improving government efficiency related to reports by state agencies by eliminating reports, changing the frequency of reports, and providing an alternative method for having information publicly available in place of reports.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1362.pdf)

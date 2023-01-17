@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1198](/bills/2023-24/hb/1198/) > [Original Bill](/bills/2023-24/hb/1198/1/)
+
 # HB 1198 - PTBA/limited law enforcement
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1198.pdf)

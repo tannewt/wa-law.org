@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1060](/bills/2023-24/hb/1060/) > [Original Bill](/bills/2023-24/hb/1060/1/)
+
 # HB 1060 - Mutual insurer reorg.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1060.pdf)

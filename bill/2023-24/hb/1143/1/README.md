@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1143](/bills/2023-24/hb/1143/) > [Original Bill](/bills/2023-24/hb/1143/1/)
+
 # HB 1143 - Firearms/purchase & transfer
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1143.pdf)

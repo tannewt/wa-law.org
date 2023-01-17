@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1146](/bills/2023-24/hb/1146/) > [Original Bill](/bills/2023-24/hb/1146/1/)
+
 # HB 1146 - Dual credit program notice
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1146.pdf)

@@ -1,27 +1,24 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1137](/bills/2023-24/hb/1137/)
+
+# HB 1137
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1137&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 20 👍 - Pro
-* Association of Washington Business (AWB) 1
-* Building Industry Association of WA 1
-* Building Industry Association of Washington  1
-* Heritage Builders NW LLC 1
-* Ironworkers Local 86 1
-* Master Builders Association of King and Snohomish Counties 1
-* NFIB 1
-* Neill Construction Services LLC 1
-* ReEmployAbility Inc 1
-* Washington Retail Association 1
-* Washington State Dental Association  1
-* Washington Trucking Associations 1
-* Work Bridge Group 1
-* self 1
+## Positions
+### 20 👍 - Pro
+#### Testifying
+* Debra Livingston - ReEmployAbility Inc
+* Kerri Butler - Work Bridge Group
+* ROSE GUNDERSEN - Washington Retail Association
+* Sheri Call - Washington Trucking Associations
+* Emily Lovell - Washington State Dental Association 
+* Jan Himebaugh  - Building Industry Association of Washington 
 
-## 6 👎 - Con
-* Washington State Association for Justice 3
-* IBEW 46 ( Electricians Union) 1
-* UFCW 3000 1
-* Washington Education Association 1
+### 6 👎 - Con
+#### Testifying
+* Jane Dale - Washington State Association for Justice
+* Kathy Comfort - Washington State Association for Justice
 
-## 0 ❓ - Other
+### 0 ❓ - Other

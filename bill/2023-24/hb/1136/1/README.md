@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1136](/bills/2023-24/hb/1136/) > [Original Bill](/bills/2023-24/hb/1136/1/)
+
 # HB 1136 - Employee expenditures
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1136.pdf)

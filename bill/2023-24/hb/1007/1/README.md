@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1007](/bills/2023-24/hb/1007/) > [Original Bill](/bills/2023-24/hb/1007/1/)
+
 # HB 1007 - Military service credit
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1007.pdf)

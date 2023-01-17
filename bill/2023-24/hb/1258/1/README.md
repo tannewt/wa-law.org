@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1258](/bills/2023-24/hb/1258/) > [Original Bill](/bills/2023-24/hb/1258/1/)
+
 # HB 1258 - Tourism marketing
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1258.pdf)

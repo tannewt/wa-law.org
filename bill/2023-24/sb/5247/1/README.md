@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5247](/bills/2023-24/sb/5247/) > [Original Bill](/bills/2023-24/sb/5247/1/)
+
 # SB 5247 - Climate-ready communities
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5247.pdf)

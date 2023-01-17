@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5368](/bills/2023-24/sb/5368/) > [Original Bill](/bills/2023-24/sb/5368/1/)
+
 # SB 5368 - Stay-at-work program
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5368.pdf)

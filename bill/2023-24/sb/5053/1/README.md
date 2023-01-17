@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5053](/bills/2023-24/sb/5053/) > [Original Bill](/bills/2023-24/sb/5053/1/)
+
 # SB 5053 - Insurance sublimits
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5053.pdf)

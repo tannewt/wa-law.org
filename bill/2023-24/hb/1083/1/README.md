@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1083](/bills/2023-24/hb/1083/) > [Original Bill](/bills/2023-24/hb/1083/1/)
+
 # HB 1083 - Cannabis retailer payments
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1083.pdf)

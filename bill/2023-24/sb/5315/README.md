@@ -1,10 +1,16 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5315](/bills/2023-24/sb/5315/)
+
+# SB 5315
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5315&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 4 👍 - Pro
-* The Arc of King County 2
+## Positions
+### 4 👍 - Pro
+#### Testifying
+* Ramona Hattendorf - The Arc of King County
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

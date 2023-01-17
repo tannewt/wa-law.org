@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1135](/bills/2023-24/hb/1135/) > [Original Bill](/bills/2023-24/hb/1135/1/)
+
 # HB 1135 - Impact fee use
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1135.pdf)

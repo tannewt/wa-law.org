@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5017](/bills/2023-24/sb/5017/) > [Original Bill](/bills/2023-24/sb/5017/1/)
+
 # SB 5017 - Motor vehicles sales tax use
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5017.pdf)

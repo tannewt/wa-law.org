@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1317](/bills/2023-24/hb/1317/) > [Original Bill](/bills/2023-24/hb/1317/1/)
+
 # HB 1317 - Grassroots lobbying
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1317.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1272](/bills/2023-24/hb/1272/) > [Original Bill](/bills/2023-24/hb/1272/1/)
+
 # HB 1272 - Voters' pamphlets
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1272.pdf)

@@ -1,40 +1,18 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1176](/bills/2023-24/hb/1176/)
+
+# HB 1176
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1176&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 149 👍 - Pro
-* - Select - 2
-* IBEW 46 ( Electricians Union) 2
-* LWV 2
-* Association of Washington Cities 1
-* Burien People for Climate Action, EELU Caucus of 33rd/34th LD Dems 1
-* Community Visions 1
-* Dept of Commerce 1
-* Enter or Select 1
-* Front and Centered 1
-* Governor's Office 1
-* Individual 1
-* Indivisible Eastside 1
-* Indivisible Whidbey 1
-* Ironworkers Local 86 1
-* League of Women Voters of WA 1
-* Methow Valley Citizens Council 1
-* NA 1
-* None 1
-* Olympia Indivisible 1
-* PCC Markets 1
-* Retired 1
-* Self 1
-* Serve Washington /Office of Financial Management 1
-* Thurston County 1
-* UFCW 3000 1
-* Vashon Progressive Alliance 1
-* Wallingford Indivisible Environment Action Group 1
-* Washington Education Association 1
-* Washington State Association of Counties 1
-* Washington State PTA 1
-* none 1
+## Positions
+### 149 👍 - Pro
+#### Testifying
+* Guillermo Rogel - Front and Centered
+* Carrie Sessions - Governor's Office
+* Amber Martin-Jahn - Serve Washington /Office of Financial Management
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

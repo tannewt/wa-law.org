@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1041](/bills/2023-24/hb/1041/) > [Original Bill](/bills/2023-24/hb/1041/1/)
+
 # HB 1041 - Prescribing psychologists
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1041.pdf)

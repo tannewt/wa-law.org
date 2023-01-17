@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1229](/bills/2023-24/hb/1229/) > [Original Bill](/bills/2023-24/hb/1229/1/)
+
 # HB 1229 - Voter registration
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1229.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5235](/bills/2023-24/sb/5235/) > [Original Bill](/bills/2023-24/sb/5235/1/)
+
 # SB 5235 - Accessory dwelling units
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5235.pdf)

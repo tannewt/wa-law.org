@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5262](/bills/2023-24/sb/5262/) > [Original Bill](/bills/2023-24/sb/5262/1/)
+
 # SB 5262 - Cemetery district filings
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5262.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1133](/bills/2023-24/hb/1133/) > [Original Bill](/bills/2023-24/hb/1133/1/)
+
 # HB 1133 - Detached ADUs
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1133.pdf)

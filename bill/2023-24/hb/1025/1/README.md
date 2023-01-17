@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1025](/bills/2023-24/hb/1025/) > [Original Bill](/bills/2023-24/hb/1025/1/)
+
 # HB 1025 - Police/private actions
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1025.pdf)

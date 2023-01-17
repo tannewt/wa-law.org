@@ -1,28 +1,16 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1111](/bills/2023-24/hb/1111/)
+
+# HB 1111
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1111&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 99 👍 - Pro
-* - Select - 2
-* Indivisible Eastside 2
-* City of Tacoma 1
-* Community Visions 1
-* Enter or Select 1
-* Habitat for Humanity Seattle-King & Kittitas Counties 1
-* HomeSight 1
-* Homestead Community Land Trust 1
-* Individual 1
-* Indivisible Whidbey 1
-* NA 1
-* Olympia Indivisibles 1
-* Retired 1
-* Sightline Institute 1
-* South Sound Housing Affordability Partners 1
-* Vashon Progressive Alliance 1
-* Washington Department of Commerce 1
-* Washington State Psychological Association 1
+## Positions
+### 99 👍 - Pro
 
-## 1 👎 - Con
-* Me 1
+### 1 👎 - Con
+#### Testifying
+* Jeff Pack - Me
 
-## 0 ❓ - Other
+### 0 ❓ - Other

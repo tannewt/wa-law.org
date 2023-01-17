@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1173](/bills/2023-24/hb/1173/) > [Original Bill](/bills/2023-24/hb/1173/1/)
+
 # HB 1173 - Light pollution
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1173.pdf)

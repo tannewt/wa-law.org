@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1331](/bills/2023-24/hb/1331/) > [Original Bill](/bills/2023-24/hb/1331/1/)
+
 # HB 1331 - Public use airport dev./tax
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1331.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5035](/bills/2023-24/sb/5035/) > [Original Bill](/bills/2023-24/sb/5035/1/)
+
 # SB 5035 - Controlled sub. possession
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5035.pdf)

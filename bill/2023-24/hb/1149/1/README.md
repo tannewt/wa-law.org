@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1149](/bills/2023-24/hb/1149/) > [Original Bill](/bills/2023-24/hb/1149/1/)
+
 # HB 1149 - Housing/capital expenditures
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1149.pdf)

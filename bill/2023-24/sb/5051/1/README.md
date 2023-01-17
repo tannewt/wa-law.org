@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5051](/bills/2023-24/sb/5051/) > [Original Bill](/bills/2023-24/sb/5051/1/)
+
 # SB 5051 - Dissolution/doc. language
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5051.pdf)

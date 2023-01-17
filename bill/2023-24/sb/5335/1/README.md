@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5335](/bills/2023-24/sb/5335/) > [Original Bill](/bills/2023-24/sb/5335/1/)
+
 # SB 5335 - Washington health trust
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5335.pdf)

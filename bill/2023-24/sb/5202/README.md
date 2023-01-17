@@ -1,37 +1,25 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5202](/bills/2023-24/sb/5202/)
+
+# SB 5202
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5202&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 213 👍 - Pro
-* Habitat for Humanity Seattle-King & Kittitas Counties 2
-* NA 2
-* Amazon 1
-* Burien People for Climate Action, EELU Caucus of 33rd/34th LD Dems 1
-* City of Olympia 1
-* Community Visions 1
-* Fix Democracy First 1
-* HomeSight 1
-* Homestead Community Land Trust 1
-* Housing Development Consortium of Seattle-King County 1
-* Individual 1
-* Indivisible Eastside 1
-* Indivisible Whidbey 1
-* Manufactured Housing Communities of Washington 1
-* Office of Financial Management 1
-* Olympia Indivisibles 1
-* Puget Sound Advocates for Retirement Action 1
-* Retired 1
-* SouthEast Effective Development 1
-* Sustainable Living Innovations 1
-* Turtle Haven Sanctuary 1
-* Vashon Progressive Alliance 1
-* WA Low Income Housing Alliance 1
-* WSHFC 1
-* Washington Low Income Housing Alliance 1
-* private citizen volunteer with Sierra Club Clean Schools 1
-* retired research consultant 1
+## Positions
+### 213 👍 - Pro
+#### Testifying
+* Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* David Schumacher - Office of Financial Management
+* Michele Thomas - WA Low Income Housing Alliance
+* Michele Thomas - Washington Low Income Housing Alliance
+* Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Lisa Vatske - WSHFC
 
-## 1 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Michael McKinley
 
-## 1 ❓ - Other
-* Association of Washington Business 1
+### 1 ❓ - Other
+#### Testifying
+* Dave Mastin - Association of Washington Business

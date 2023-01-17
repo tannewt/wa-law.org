@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5323](/bills/2023-24/sb/5323/) > [Original Bill](/bills/2023-24/sb/5323/1/)
+
 # SB 5323 - Dept. of veterans affairs
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5323.pdf)

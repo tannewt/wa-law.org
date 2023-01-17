@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1093](/bills/2023-24/hb/1093/) > [Original Bill](/bills/2023-24/hb/1093/1/)
+
 # HB 1093 - K-12 scholarship program
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1093.pdf)

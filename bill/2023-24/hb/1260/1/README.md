@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1260](/bills/2023-24/hb/1260/) > [Original Bill](/bills/2023-24/hb/1260/1/)
+
 # HB 1260 - Work-limiting disability
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1260.pdf)

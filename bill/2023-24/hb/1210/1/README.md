@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1210](/bills/2023-24/hb/1210/) > [Original Bill](/bills/2023-24/hb/1210/1/)
+
 # HB 1210 - School board recordings
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1210.pdf)

@@ -1,15 +1,19 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1249](/bills/2023-24/hb/1249/)
+
+# HB 1249
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1249&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 5 👍 - Pro
-* Craft Cannabis Coalition 1
-* Painted Rooster Cannabis Co. 1
-* WA Sun & Craft Growers Assoc (WSCA) 1
-* WASAVP - Prevention First! for Safe and Healthy Communities 1
-* Washington CannaBusiness Association 1
+## Positions
+### 5 👍 - Pro
+#### Testifying
+* Douglas Henderson - Painted Rooster Cannabis Co.
+* Brooke Davies - Washington CannaBusiness Association
 
-## 1 👎 - Con
-* Patients & Users for Reasonable Policy (PURP) 1
+### 1 👎 - Con
+#### Testifying
+* Ramsey Doudar - Patients & Users for Reasonable Policy (PURP)
 
-## 0 ❓ - Other
+### 0 ❓ - Other

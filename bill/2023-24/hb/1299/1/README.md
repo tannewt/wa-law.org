@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1299](/bills/2023-24/hb/1299/) > [Original Bill](/bills/2023-24/hb/1299/1/)
+
 # HB 1299 - Beverage alcohol/workforce
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1299.pdf)

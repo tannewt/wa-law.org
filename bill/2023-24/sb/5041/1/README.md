@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5041](/bills/2023-24/sb/5041/) > [Original Bill](/bills/2023-24/sb/5041/1/)
+
 # SB 5041 - Motor carrier safety
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5041.pdf)

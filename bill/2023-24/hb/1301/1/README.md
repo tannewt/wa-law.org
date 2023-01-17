@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1301](/bills/2023-24/hb/1301/) > [Original Bill](/bills/2023-24/hb/1301/1/)
+
 # HB 1301 - License review and reporting
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1301.pdf)

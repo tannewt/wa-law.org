@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5308](/bills/2023-24/sb/5308/) > [Original Bill](/bills/2023-24/sb/5308/1/)
+
 # SB 5308 - Athletic trainers
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5308.pdf)

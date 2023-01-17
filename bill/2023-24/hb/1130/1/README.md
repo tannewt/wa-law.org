@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1130](/bills/2023-24/hb/1130/) > [Original Bill](/bills/2023-24/hb/1130/1/)
+
 # HB 1130 - Firearm industry duties
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1130.pdf)

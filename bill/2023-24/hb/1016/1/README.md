@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1016](/bills/2023-24/hb/1016/) > [Original Bill](/bills/2023-24/hb/1016/1/)
+
 # HB 1016 - Wine retailer shippers
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1016.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1314](/bills/2023-24/hb/1314/) > [Original Bill](/bills/2023-24/hb/1314/1/)
+
 # HB 1314 - Polychlorinated biphenyls
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1314.pdf)

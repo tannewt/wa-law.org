@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1212](/bills/2023-24/hb/1212/) > [Original Bill](/bills/2023-24/hb/1212/1/)
+
 # HB 1212 - Outdoor recreation fees
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1212.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5317](/bills/2023-24/sb/5317/) > [Original Bill](/bills/2023-24/sb/5317/1/)
+
 # SB 5317 - RTA vehicle removal
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5317.pdf)

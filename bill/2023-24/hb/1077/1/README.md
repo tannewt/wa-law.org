@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1077](/bills/2023-24/hb/1077/) > [Original Bill](/bills/2023-24/hb/1077/1/)
+
 # HB 1077 - Courthouse facility dogs
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1077.pdf)

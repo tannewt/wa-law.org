@@ -1,19 +1,18 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5122](/bills/2023-24/sb/5122/)
+
+# SB 5122
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5122&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 10 👍 - Pro
-* American Medical REsponse 1
-* IBEW 46 ( Electricians Union) 1
-* National Multiple Sclerosis Society 1
-* Olympic Ambulance 1
-* SEIU Healthcare 1199NW 1
-* Teamsters 117 1
-* UFCW 3000 1
-* Washington Ambulance Association 1
-* Washington Education Association 1
-* Washington State Labor Council, AFL-CIO 1
+## Positions
+### 10 👍 - Pro
+#### Testifying
+* Mike Battis  - Washington Ambulance Association
+* Rocco Roncarati - American Medical REsponse
+* Joey  Rodrigues - Olympic Ambulance
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

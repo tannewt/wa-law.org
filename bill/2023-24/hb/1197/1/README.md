@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1197](/bills/2023-24/hb/1197/) > [Original Bill](/bills/2023-24/hb/1197/1/)
+
 # HB 1197 - Workers' comp. providers
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1197.pdf)

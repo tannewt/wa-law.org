@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5314](/bills/2023-24/sb/5314/) > [Original Bill](/bills/2023-24/sb/5314/1/)
+
 # SB 5314 - Electric bicycle use
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5314.pdf)

@@ -1,22 +1,14 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1168](/bills/2023-24/hb/1168/)
+
+# HB 1168
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1168&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 66 👍 - Pro
-* Indivisible Eastside 2
-* NA 2
-* - Select - 1
-* Alliance For Gun Responsibility 1
-* Enter or Select 1
-* Individual 1
-* Indivisible Whidbey 1
-* Please Select 1
-* Public Health Roundtable 1
-* Retired 1
-* Retired RN 1
-* The Arc of King County 1
-* WA Assoc Sheriffs & Police Chiefs 1
+## Positions
+### 66 👍 - Pro
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

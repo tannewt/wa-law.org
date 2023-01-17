@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5209](/bills/2023-24/sb/5209/) > [Original Bill](/bills/2023-24/sb/5209/1/)
+
 # SB 5209 - Universal civic duty voting
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5209.pdf)

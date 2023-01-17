@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5170](/bills/2023-24/sb/5170/) > [Original Bill](/bills/2023-24/sb/5170/1/)
+
 # SB 5170 - Legislative organizations
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5170.pdf)

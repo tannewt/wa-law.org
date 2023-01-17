@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5259](/bills/2023-24/sb/5259/) > [Original Bill](/bills/2023-24/sb/5259/1/)
+
 # SB 5259 - Product theft
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5259.pdf)

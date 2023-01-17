@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1006](/bills/2023-24/hb/1006/) > [Original Bill](/bills/2023-24/hb/1006/1/)
+
 # HB 1006 - Drug testing equipment
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1006.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5144](/bills/2023-24/sb/5144/) > [Original Bill](/bills/2023-24/sb/5144/1/)
+
 # SB 5144 - Batteries/environment
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5144.pdf)

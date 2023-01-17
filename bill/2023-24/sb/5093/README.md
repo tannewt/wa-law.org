@@ -1,18 +1,16 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5093](/bills/2023-24/sb/5093/)
+
+# SB 5093
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5093&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 22 👍 - Pro
-* City of Olympia 1
-* Ironworkers Local 86 1
-* League of Women Voters of WA 1
-* Methow Valley Citizens Council 1
-* Retired 1
-* SEIU Healthcare 1199NW 1
-* Seattle Aquarium 1
-* UFCW 3000 1
-* none 1
+## Positions
+### 22 👍 - Pro
 
-## 1 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* john Worthington
 
-## 0 ❓ - Other
+### 0 ❓ - Other

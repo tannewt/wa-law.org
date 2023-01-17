@@ -1,28 +1,22 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1169](/bills/2023-24/hb/1169/)
+
+# HB 1169
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1169&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 79 👍 - Pro
-* Statewide Poverty Action Network 2
-* Urban League of Metropolitan Seattle 2
-* Washington State Budget and Policy Center 2
-* - Select - 1
-* Enter or Select 1
-* Individual 1
-* Indivisible Eastside 1
-* Information for a Change 1
-* Minority and Justice Commission 1
-* NA 1
-* National Assocition of Social Workers WA Chapter 1
-* Pioneer Human Services 1
-* Poor Peoples Campaign 1
-* Retired 1
-* The Justice for Girls Coalition of Washington State 1
-* The STAR Project, Inc. 1
-* none 1
-* self 1
+## Positions
+### 79 👍 - Pro
+#### Testifying
+* Nick Jeffreys - Urban League of Metropolitan Seattle
+* Evan Walker - Washington State Budget and Policy Center
+* Alex Hur - Statewide Poverty Action Network
+* Teirenney Fincher - Urban League of Metropolitan Seattle
+* David Keenan - Minority and Justice Commission
 
-## 1 👎 - Con
+### 1 👎 - Con
 
-## 1 ❓ - Other
-* Washington State Board of Health 1
+### 1 ❓ - Other
+#### Testifying
+* Miranda  Calmjoy - Washington State Board of Health

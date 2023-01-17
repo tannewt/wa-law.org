@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1310](/bills/2023-24/hb/1310/) > [Original Bill](/bills/2023-24/hb/1310/1/)
+
 # HB 1310 - Physician assistant collab.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1310.pdf)

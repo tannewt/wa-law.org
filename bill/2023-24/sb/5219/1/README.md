@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5219](/bills/2023-24/sb/5219/) > [Original Bill](/bills/2023-24/sb/5219/1/)
+
 # SB 5219 - Counseling compact
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5219.pdf)

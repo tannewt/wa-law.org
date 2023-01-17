@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1284](/bills/2023-24/hb/1284/) > [Original Bill](/bills/2023-24/hb/1284/1/)
+
 # HB 1284 - Real estate agency
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1284.pdf)

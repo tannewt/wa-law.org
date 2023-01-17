@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5120](/bills/2023-24/sb/5120/) > [Original Bill](/bills/2023-24/sb/5120/1/)
+
 # SB 5120 - 23-hr crisis relief centers
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5120.pdf)

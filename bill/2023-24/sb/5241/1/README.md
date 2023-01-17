@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5241](/bills/2023-24/sb/5241/) > [Original Bill](/bills/2023-24/sb/5241/1/)
+
 # SB 5241 - Health care marketplace
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5241.pdf)

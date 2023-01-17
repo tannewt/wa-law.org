@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5199](/bills/2023-24/sb/5199/) > [Original Bill](/bills/2023-24/sb/5199/1/)
+
 # SB 5199 - Newspaper publishers/tax
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5199.pdf)

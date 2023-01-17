@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1067](/bills/2023-24/hb/1067/) > [Original Bill](/bills/2023-24/hb/1067/1/)
+
 # HB 1067 - High-hazard facility wages
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1067.pdf)

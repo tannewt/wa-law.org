@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1279](/bills/2023-24/hb/1279/) > [Original Bill](/bills/2023-24/hb/1279/1/)
+
 # HB 1279 - Firefighters/LEOFF
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1279.pdf)

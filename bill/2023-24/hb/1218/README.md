@@ -1,16 +1,14 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1218](/bills/2023-24/hb/1218/)
+
+# HB 1218
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1218&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 7 👍 - Pro
-* Anti-Hunger & Nutrition Coalition 1
-* Catholic Charities of Washington 1
-* Food Lifeline 1
-* Front and Centered 1
-* MomsRising & Working Families Tax Credit Coalition 1
-* Northwest Harvest 1
-* WA Community Alliance 1
+## Positions
+### 7 👍 - Pro
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

@@ -1,12 +1,20 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1173](/bills/2023-24/hb/1173/)
+
+# HB 1173
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1173&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 31 👍 - Pro
-* UFA Ventures, Inc. 3
+## Positions
+### 31 👍 - Pro
+#### Testifying
+* Paul Krupin
+* James Conca - UFA Ventures, Inc.
+* James Conca - UFA Ventures, Inc.
 
-## 2 👎 - Con
+### 2 👎 - Con
 
-## 2 ❓ - Other
-* Association of Washington Business 1
-* The Energy Facility Site Evaluation Council 1
+### 2 ❓ - Other
+#### Testifying
+* Peter Godlewski - Association of Washington Business

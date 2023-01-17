@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1167](/bills/2023-24/hb/1167/) > [Original Bill](/bills/2023-24/hb/1167/1/)
+
 # HB 1167 - Residential housing
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1167.pdf)

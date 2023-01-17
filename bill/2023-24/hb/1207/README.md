@@ -1,13 +1,14 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1207](/bills/2023-24/hb/1207/)
+
+# HB 1207
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1207&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 5 👍 - Pro
-* NAMI Washington 1
-* School Nurse Organization of Washington  1
-* WASAVP - Prevention First! for Safe and Healthy Communities 1
-* Washington State School Directors' Association (WSSDA) 1
+## Positions
+### 5 👍 - Pro
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 0 ❓ - Other
+### 0 ❓ - Other

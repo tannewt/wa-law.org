@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1071](/bills/2023-24/hb/1071/) > [Original Bill](/bills/2023-24/hb/1071/1/)
+
 # HB 1071 - School resource officers
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1071.pdf)

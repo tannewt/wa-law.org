@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1036](/bills/2023-24/hb/1036/) > [Original Bill](/bills/2023-24/hb/1036/1/)
+
 # HB 1036 - Clergy/child abuse reporting
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1036.pdf)

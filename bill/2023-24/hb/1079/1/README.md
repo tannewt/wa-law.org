@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1079](/bills/2023-24/hb/1079/) > [Original Bill](/bills/2023-24/hb/1079/1/)
+
 # HB 1079 - Whole genome sequencing
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1079.pdf)

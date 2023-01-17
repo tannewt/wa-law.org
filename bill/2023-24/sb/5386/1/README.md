@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5386](/bills/2023-24/sb/5386/) > [Original Bill](/bills/2023-24/sb/5386/1/)
+
 # SB 5386 - Reducing administrative complexity by increasing transparency of revenue flows for activities funded by document recording fees.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5386.pdf)

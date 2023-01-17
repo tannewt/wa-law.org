@@ -1,13 +1,14 @@
-# Revisions
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1150](/bills/2023-24/hb/1150/)
+
+# HB 1150
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1150&Year=2023&Initiative=false)
+
+## Revisions
 * [Original Bill](1/)
 
-# Positions
-## 6 👍 - Pro
-* WA Association of Prosecuting Attorneys 1
-* WASPC 1
-* Washington State Catholic Conference 1
+## Positions
+### 6 👍 - Pro
 
-## 0 👎 - Con
+### 0 👎 - Con
 
-## 1 ❓ - Other
-* WDA/WACDL 1
+### 1 ❓ - Other

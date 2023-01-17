@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5083](/bills/2023-24/sb/5083/) > [Original Bill](/bills/2023-24/sb/5083/1/)
+
 # SB 5083 - Conservation easements
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5083.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1001](/bills/2023-24/hb/1001/) > [Original Bill](/bills/2023-24/hb/1001/1/)
+
 # HB 1001 - Audiology & speech compact
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1001.pdf)

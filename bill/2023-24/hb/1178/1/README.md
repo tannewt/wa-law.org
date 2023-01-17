@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1178](/bills/2023-24/hb/1178/) > [Original Bill](/bills/2023-24/hb/1178/1/)
+
 # HB 1178 - Firearms/local government
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1178.pdf)

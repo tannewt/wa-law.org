@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1090](/bills/2023-24/hb/1090/) > [Original Bill](/bills/2023-24/hb/1090/1/)
+
 # HB 1090 - Defects and omissions
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1090.pdf)

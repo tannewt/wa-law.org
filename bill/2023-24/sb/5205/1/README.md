@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5205](/bills/2023-24/sb/5205/) > [Original Bill](/bills/2023-24/sb/5205/1/)
+
 # SB 5205 - Parenting plan limitations
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5205.pdf)

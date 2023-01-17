@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1112](/bills/2023-24/hb/1112/) > [Original Bill](/bills/2023-24/hb/1112/1/)
+
 # HB 1112 - Negligent driving
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1112.pdf)

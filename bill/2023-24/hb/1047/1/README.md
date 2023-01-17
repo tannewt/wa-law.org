@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1047](/bills/2023-24/hb/1047/) > [Original Bill](/bills/2023-24/hb/1047/1/)
+
 # HB 1047 - Cosmetic product chemicals
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1047.pdf)

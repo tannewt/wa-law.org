@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5173](/bills/2023-24/sb/5173/) > [Original Bill](/bills/2023-24/sb/5173/1/)
+
 # SB 5173 - Property exempt from exec.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5173.pdf)

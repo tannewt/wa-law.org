@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1191](/bills/2023-24/hb/1191/) > [Original Bill](/bills/2023-24/hb/1191/1/)
+
 # HB 1191 - Cooperative finance org. B&O
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1191.pdf)

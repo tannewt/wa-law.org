@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1085](/bills/2023-24/hb/1085/) > [Original Bill](/bills/2023-24/hb/1085/1/)
+
 # HB 1085 - Plastic pollution
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1085.pdf)

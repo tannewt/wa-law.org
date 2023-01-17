@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1304](/bills/2023-24/hb/1304/) > [Original Bill](/bills/2023-24/hb/1304/1/)
+
 # HB 1304 - Electric security alarms
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1304.pdf)

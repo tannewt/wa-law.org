@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5107](/bills/2023-24/sb/5107/) > [Original Bill](/bills/2023-24/sb/5107/1/)
+
 # SB 5107 - Cottage food sales cap
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5107.pdf)

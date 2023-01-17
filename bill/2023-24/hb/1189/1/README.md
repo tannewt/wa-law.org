@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1189](/bills/2023-24/hb/1189/) > [Original Bill](/bills/2023-24/hb/1189/1/)
+
 # HB 1189 - Total confinement release
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1189.pdf)

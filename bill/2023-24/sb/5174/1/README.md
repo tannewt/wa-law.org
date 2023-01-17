@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5174](/bills/2023-24/sb/5174/) > [Original Bill](/bills/2023-24/sb/5174/1/)
+
 # SB 5174 - Student transportation
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5174.pdf)

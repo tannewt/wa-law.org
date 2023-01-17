@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1185](/bills/2023-24/hb/1185/) > [Original Bill](/bills/2023-24/hb/1185/1/)
+
 # HB 1185 - Lighting products
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1185.pdf)

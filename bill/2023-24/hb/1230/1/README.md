@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1230](/bills/2023-24/hb/1230/) > [Original Bill](/bills/2023-24/hb/1230/1/)
+
 # HB 1230 - School websites/drug info.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1230.pdf)

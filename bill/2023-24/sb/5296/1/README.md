@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5296](/bills/2023-24/sb/5296/) > [Original Bill](/bills/2023-24/sb/5296/1/)
+
 # SB 5296 - Military service credit
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5296.pdf)

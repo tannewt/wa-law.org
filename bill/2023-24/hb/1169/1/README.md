@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1169](/bills/2023-24/hb/1169/) > [Original Bill](/bills/2023-24/hb/1169/1/)
+
 # HB 1169 - Legal financial obligations
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1169.pdf)

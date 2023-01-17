@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5138](/bills/2023-24/sb/5138/) > [Original Bill](/bills/2023-24/sb/5138/1/)
+
 # SB 5138 - Vehicles as homestead
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5138.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1265](/bills/2023-24/hb/1265/) > [Original Bill](/bills/2023-24/hb/1265/1/)
+
 # HB 1265 - Adult family homes/prop. tax
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1265.pdf)

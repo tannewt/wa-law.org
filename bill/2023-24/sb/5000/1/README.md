@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5000](/bills/2023-24/sb/5000/) > [Original Bill](/bills/2023-24/sb/5000/1/)
+
 # SB 5000 - Americans of Chinese descent
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5000.pdf)

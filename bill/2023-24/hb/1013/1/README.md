@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1013](/bills/2023-24/hb/1013/) > [Original Bill](/bills/2023-24/hb/1013/1/)
+
 # HB 1013 - Regional apprenticeship prgs
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1013.pdf)

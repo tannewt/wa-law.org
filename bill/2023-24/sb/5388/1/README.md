@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5388](/bills/2023-24/sb/5388/) > [Original Bill](/bills/2023-24/sb/5388/1/)
+
 # SB 5388 - Diversity in clinical trials
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5388.pdf)

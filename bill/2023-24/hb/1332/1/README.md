@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1332](/bills/2023-24/hb/1332/) > [Original Bill](/bills/2023-24/hb/1332/1/)
+
 # HB 1332 - Tribes/K-12 instruction
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1332.pdf)

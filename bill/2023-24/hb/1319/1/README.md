@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1319](/bills/2023-24/hb/1319/) > [Original Bill](/bills/2023-24/hb/1319/1/)
+
 # HB 1319 - Collisions/driver reexam
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1319.pdf)

@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5087](/bills/2023-24/sb/5087/) > [Original Bill](/bills/2023-24/sb/5087/1/)
+
 # SB 5087 - Defects and omissions
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5087.pdf)

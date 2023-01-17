@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5275](/bills/2023-24/sb/5275/) > [Original Bill](/bills/2023-24/sb/5275/1/)
+
 # SB 5275 - SEBB benefits access
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5275.pdf)

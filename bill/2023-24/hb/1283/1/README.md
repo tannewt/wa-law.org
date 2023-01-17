@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1283](/bills/2023-24/hb/1283/) > [Original Bill](/bills/2023-24/hb/1283/1/)
+
 # HB 1283 - Self-directed investments
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1283.pdf)

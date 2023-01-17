@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1296](/bills/2023-24/hb/1296/) > [Original Bill](/bills/2023-24/hb/1296/1/)
+
 # HB 1296 - Local permit review
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1296.pdf)

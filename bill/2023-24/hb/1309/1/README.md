@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1309](/bills/2023-24/hb/1309/) > [Original Bill](/bills/2023-24/hb/1309/1/)
+
 # HB 1309 - Contractor registration
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1309.pdf)

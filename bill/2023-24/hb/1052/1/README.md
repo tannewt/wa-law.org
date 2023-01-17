@@ -1,3 +1,5 @@
+[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1052](/bills/2023-24/hb/1052/) > [Original Bill](/bills/2023-24/hb/1052/1/)
+
 # HB 1052 - Nonprofit housing/tax ex.
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1052.pdf)
