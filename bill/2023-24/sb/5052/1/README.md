@@ -123,3 +123,9 @@ For the purposes of this subsection, "public or entertainment areas" include box
     c. A taxpayer claiming an exemption under this subsection (23) must file a complete annual tax performance report as provided in RCW 82.32.534.
 
     d. This subsection (23) does not apply to leasehold interests on or after October 1, 2033.
+
+## Section 3
+Sections 1 and 2 of this act take effect October 1, 2023.
+
+## Section 4
+Section 2 of this act expires January 1, 2034.

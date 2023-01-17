@@ -3190,3 +3190,6 @@ Sections 1001 through 1007 of this act constitute a new Article in Title 62A RCW
 
 ## Section 1202
 Sections 1101 through 1109 of this act constitute a new Article in Title 62A RCW.
+
+## Section 1203
+This act takes effect January 1, 2024.

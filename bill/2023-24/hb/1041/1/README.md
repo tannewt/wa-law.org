@@ -323,3 +323,9 @@ The definitions in this section apply throughout this chapter unless the context
 4. Only a person licensed as a registered nurse may instruct nurses in technical subjects pertaining to nursing.
 
 5. Only a person licensed as a registered nurse may hold herself or himself out to the public or designate herself or himself as a registered nurse.
+
+## Section 11
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 12
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

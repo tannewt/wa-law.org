@@ -42,3 +42,6 @@
     b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
 
 5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 4
+This act takes effect July 1, 2025, if the proposed amendment to Article IX and Article XXIX (Senate Joint Resolution No. . . . . (S-0192/23)) is validly submitted to and is approved and ratified by the voters at a general election. If the proposed amendment is not approved and ratified, this act is void in its entirety.

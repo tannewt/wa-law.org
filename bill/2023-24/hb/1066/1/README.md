@@ -33,6 +33,9 @@ RCW 1.08.025 directs the code reviser, with the approval of the statute law comm
 
 14. Sections 3020 and 3021 of this act replace an erroneous usage of the word "county" with "country."
 
+## Section 1001
+(1) The primary duty of peace officers, when responding to a domestic violence situation, is to enforce the laws allegedly violated and to protect the complaining party.
+
 ## Section 1002
 1. All training relating to the handling of domestic violence complaints by law enforcement officers must stress enforcement of criminal laws in domestic situations, availability of community resources, and protection of the victim. Law enforcement agencies and community organizations with expertise in the issue of domestic violence shall cooperate in all aspects of such training.
 
@@ -41,6 +44,63 @@ RCW 1.08.025 directs the code reviser, with the approval of the statute law comm
 3. The criminal justice training commission shall develop and update annually an in-service training program to familiarize law enforcement officers with domestic violence laws. The program must include techniques for handling incidents of domestic violence that minimize the likelihood of injury to the officer and that promote the safety of all parties. The commission shall make the training program available to all law enforcement agencies in the state.
 
 4. Development of the training in subsections (2) and (3) of this section must be conducted in conjunction with agencies having a primary responsibility for serving victims of domestic violence with emergency shelter and other services, and representatives to the statewide organization providing training and education to these organizations and to the general public.
+
+## Section 1003
+(1) All superior courts, and courts organized under Title 3 or 35 RCW, may impose a penalty of one hundred dollars, plus an additional fifteen dollars on any person adult offender convicted of a crime involving domestic violence; in no case shall a penalty assessment exceed one hundred fifteen dollars on any adult offender convicted of a crime involving domestic violence. The assessment shall be in addition to, and shall not supersede, any other penalty, restitution, fines, or costs provided by law.
+
+## Section 1004
+(1) The Washington coalition of sexual assault programs, in consultation with the Washington association of sheriffs and police chiefs, the Washington association of prosecuting attorneys, the Washington state school directors' association, the association of Washington school principals, the center for children and youth justice, youthcare, the committee for children, the department of early learning children, youth, and families, the department of social and health services, the office of crime victims advocacy, other relevant organizations, and the office of the superintendent of public instruction, shall by June 1, 2014, update existing educational materials made available throughout the state to inform parents, students, school districts, and other interested community members about:
+
+## Section 1005
+There is created a commission to be known as the Washington citizens' commission on salaries for elected officials, to consist of members appointed by the governor as provided in this section.
+
+## Section 1006
+(1) The department shall establish the affordable housing advisory board to consist of 23 24 members.
+
+## Section 1007
+(1) "Vehicle" means a device capable of being moved upon a public highway and in, upon, or by which any persons or property is or may be transported or drawn upon a public highway.
+
+## Section 1008
+The definitions set forth in this section apply throughout this chapter.
+
+## Section 1009
+The ignition interlock device revolving account is created in the state treasury. All receipts from the fee assessed under RCW 46.20.385(6) must be deposited into the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used for administering and operating the ignition interlock device revolving account program and, implementing effective strategies to reduce motor vehicle-related deaths and serious injuries, such as those found in the Washington state strategic highway safety plan: Target Zero, and during the 2013-2015 fiscal biennium, the legislature may appropriate moneys from the ignition interlock device revolving account for substance abuse programs for offenders.
+
+## Section 1010
+(1) A port district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
+
+## Section 1011
+(1) A public utility district in existence on June 8, 2000, may construct, purchase, acquire, develop, finance, lease, license, handle, provide, add to, contract for, interconnect, alter, improve, repair, operate, and maintain any telecommunications facilities within or without the district's limits for the following purposes:
+
+## Section 1012
+(1) There is hereby imposed upon all wines except cider sold to wine distributors within the state a tax at the rate of twenty and one-fourth cents per liter. Any domestic winery or certificate of approval holder acting as a distributor of its own production must pay taxes imposed by this section. There is hereby imposed on all cider sold to wine distributors within the state a tax at the rate of three and fifty-nine one-hundredths cents per liter. However, wine sold or shipped in bulk from one winery to another winery is not subject to such tax.
+
+## Section 1013
+(1)(a) There shall be a license to be designated as a nonprofit arts organization license. This shall be a special license to be issued to any nonprofit arts organization which sponsors and presents productions or performances of an artistic or cultural nature in a specific theater or other appropriate designated indoor premises approved by the board. The license shall permit the licensee to sell liquor to patrons of productions or performances for consumption on the premises at these events. The fee for the license shall be two hundred fifty dollars per annum.
+
+## Section 1014
+The dedicated cannabis account is created in the state treasury. All moneys received by the board, or any employee thereof, from cannabis-related activities must be deposited in the account. Unless otherwise provided in chapter 4, Laws of 2015 2nd sp. sess., all cannabis excise taxes collected from sales of cannabis, useable cannabis, cannabis concentrates, and cannabis-infused products under RCW 69.50.535, and the license fees, penalties, and forfeitures derived under this chapter from cannabis producer, cannabis processor, cannabis researcher, and cannabis retailer licenses, must be deposited in the account. Moneys in the account may only be spent after appropriation.
+
+## Section 1015
+(1) For the purposes of this subsection (1), the legislature must appropriate the amounts provided in this subsection:
+
+## Section 1016
+As used in this chapter:
+
+## Section 1017
+(1) Any person who knowingly violates any of the provisions of this chapter, chapter 70A.25, 70A.60, or 70A.535 RCW, or any ordinance, resolution, or regulation in force pursuant thereto is guilty of a gross misdemeanor and upon conviction thereof shall be punished by a fine of not more than ten thousand dollars, or by imprisonment in the county jail for up to three hundred sixty-four days, or by both for each separate violation.
+
+## Section 1018
+(1) Beginning in November 2012, the department of social and health services, in coordination with the health care authority, shall by November 15th of each year report to the legislature:
+
+## Section 1019
+(1) There is created a forest development account in the state treasury. The state treasurer shall keep an account of all sums deposited, expended, or withdrawn from the account.
+
+## Section 1020
+If tax on fuel placed in the fuel supply tanks of motor vehicles for taxable use on Washington highways can be more accurately determined on a mileage basis the department is authorized to adopt such basis. In the absence of records showing the number of miles actually operated per gallon of fuel consumed, fuel consumption must be calculated by the department.
+
+## Section 1021
+(1) Application for a license must be made to the department. The application must be filed in a manner prescribed by the department and must contain information the department requires.
 
 ## Section 2001
 1. By July 1, 2005, the director of the department of commerce, or the director's designee, shall within existing resources convene and chair a work group to develop written protocols for delivery of services to victims of trafficking of humans. The director shall invite appropriate federal agencies to consult with the work group for the purpose of developing protocols that, to the extent possible, are in concert with federal statutes, regulations, and policies. In addition to the director of the department of commerce, the following shall be members of the work group: The secretary of the department of health, the secretary of the department of social and health services, the attorney general, the director of the department of labor and industries, the commissioner of the employment security department, a representative of the Washington association of prosecuting attorneys, the chief of the Washington state patrol, two members selected by the Washington association of sheriffs and police chiefs, and five members, selected by the director of the department of commerce from a list submitted by public and private sector organizations that provide assistance to persons who are victims of trafficking. The attorney general, the chief of the Washington state patrol, and the secretaries or directors may designate a person to serve in their place.
@@ -563,6 +623,9 @@ It is the intent of this chapter to:
 2. Provide penalties for violations of this chapter.
 
 It is further the intent of the legislature that in developing proposed orders under the powers granted in RCW 43.21G.040 as now or hereafter amended the governor may utilize, on a temporary or ad hoc basis, the knowledge and expertise of persons experienced in the technical aspects of energy supply, distribution, or use. Such utilization shall be in addition to support received by the governor from the department of commerce under RCW 43.21F.045 and 43.21F.065 and from other state agencies.
+
+## Section 2039
+(1) There is created the environmental enhancement and job creation task force within the office of the governor. The purpose of the task force is to provide a coordinated and comprehensive approach to implementation of chapter 516, Laws of 1993. The task force shall consist of the commissioner of public lands, the director of the department of fish and wildlife, the director of the department of ecology, the director of the parks and recreation commission, the timber team coordinator, the executive director of the workforce training and education coordinating board, and the executive director of the Puget Sound partnership, or their designees. The task force may seek the advice of the following agencies and organizations: The department of community, trade, and economic development commerce, the conservation commission, the employment security department, the recreation and conservation office, appropriate federal agencies, appropriate special districts, the Washington state association of counties, the association of Washington cities, labor organizations, business organizations, timber-dependent communities, environmental organizations, and Indian tribes. The governor shall appoint the task force chair. Members of the task force shall serve without additional pay. Participation in the work of the committee by agency members shall be considered in performance of their employment. The governor shall designate staff and administrative support to the task force and shall solicit the participation of agency personnel to assist the task force.
 
 ## Section 2040
 Beginning on July 1, 2007, the department of labor and industries shall perform all the consumer complaint and related functions of the state administrative agency that are required for purposes of complying with the regulations established by the federal department of housing and urban development for manufactured housing, including the preparation and submission of the state administrative plan.
@@ -1673,6 +1736,15 @@ For the purposes of RCW 80.80.040 through 80.80.080 and 80.70.020, the departmen
 ## Section 2130
 It shall be the duty of any person discharging oil or hazardous substances or otherwise causing, permitting, or allowing the same to enter the waters of the state, unless the discharge or entry was expressly authorized by the department prior thereto or authorized by operation of law under RCW 90.48.200, to immediately notify the coast guard and the division of emergency management. The notice to the division of emergency management within the department of commerce shall be made to the division's twenty-four hour statewide toll-free number established for reporting emergencies.
 
+## Section 3001
+Section 4, chapter 137, Laws of 2015, section 1, chapter 326, Laws of 2013, and section 2, chapter 291, Laws of 2011 expire June 30, 2016.
+
+## Section 3002
+2011 1st sp. sess. c 35 s 3 (uncodified) is repealed.
+
+## Section 3003
+The following sections are decodified:
+
 ## Section 3004
 1. It is unlawful for a person to knowingly carry onto, or to possess on, public or private elementary or secondary school premises, school-provided transportation, areas of facilities while being used exclusively by public or private schools, or areas of facilities while being used for official meetings of a school district board of directors:
 
@@ -1813,6 +1885,9 @@ If the designated crisis responder determines it is appropriate, the designated 
 5. Nothing in this section applies to the lawful concealed carry of a firearm by a person who has a valid concealed pistol license.
 
 6. A city, town, county, or other municipality must post signs providing notice of the restrictions on possession of firearms and other weapons under this section at any locations specified in subsection (1)(b) of this section.
+
+## Section 3007
+As used in this chapter:
 
 ## Section 3008
 1. A person is guilty of rape in the second degree when, under circumstances not constituting rape in the first degree, the person engages in sexual intercourse with another person:
@@ -2129,6 +2204,9 @@ For the purposes of RCW 9A.44.130 through 9A.44.145, 10.01.200, 43.43.540, 70.48
 
     d. The department of children, youth, and families prioritizes the delivery of available programming from individuals who share characteristics with the individual being served related to: Race; ethnicity; sexual identity; and gender identity.
 
+## Section 3019
+Section 3018 of this act takes effect when section 2, chapter 206, Laws of 2021 takes effect.
+
 ## Section 3020
 1. A vessel owner who is a nonresident person must obtain a nonresident vessel permit on or before the sixty-first day of use in Washington state if the vessel:
 
@@ -2175,3 +2253,6 @@ For the purposes of RCW 9A.44.130 through 9A.44.145, 10.01.200, 43.43.540, 70.48
     f. Any other information mutually agreed to by the department and department of revenue.
 
 7. The department must adopt rules to implement this section, including rules on issuing and displaying the nonresident vessel permit.
+
+## Section 3021
+Section 3020 of this act expires January 1, 2029.

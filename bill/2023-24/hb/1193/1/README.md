@@ -60,5 +60,11 @@ The legislature intends to reserve its authority to answer major policy question
 
 2. The council shall adopt state energy codes from 2013 through 2031 that incrementally move towards achieving the 70 percent reduction in annual net energy consumption as specified in subsection (1) of this section. The council shall report its progress by December 31, 2012, and every three years thereafter. If the council determines that economic, technological, or process factors would significantly impede adoption of or compliance with this subsection, the council may defer the implementation of the proposed energy code update and shall report its findings to the legislature by December 31st of the year prior to the year in which those codes would otherwise be enacted.
 
+## Section 5
+(1)(a) The state shall limit anthropogenic emissions of greenhouse gases to achieve the following emission reductions for Washington state:
+
 ## Section 6
 The state building code council may not adopt any rules to implement the 2021 Washington state codes that limit the use of natural gas in buildings or that favor the use of electric appliances over natural gas appliances in buildings. The state building code council may only proceed with adopting rules that are consistent with RCW 19.27.020 (3) and (4).
+
+## Section 7
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

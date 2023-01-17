@@ -61,3 +61,6 @@ The legislature finds that encouraging participation in agriculture is valuable.
         iii. Where all the owners or partners of the farm provide regular labor to and participate in the management of the farm, and own or lease the productive assets of the farm.
 
 12. The department shall monitor and evaluate the farm internships authorized by this section and report to the appropriate committees of the legislature by December 31, 2024. The report must include, but not be limited to: The number of small farms that applied for and received special certificates; the number of interns employed as farm interns; the nature of the educational activities provided to the farm interns; the wages and other remuneration paid to farm interns; the number of and type of workers' compensation claims for farm interns; the employment of farm interns following farm internships; and other matters relevant to assessing farm internships authorized in this section.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

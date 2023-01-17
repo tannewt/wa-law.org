@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5375.pdf)
 
+## Section 1
+In this title, unless the context otherwise requires:
+
 ## Section 2
 1. There is a spirits retail license to: Sell spirits in original containers to consumers for consumption off the licensed premises and to permit holders; sell spirits in original containers to retailers licensed to sell spirits for consumption on the premises, for resale at their licensed premises according to the terms of their licenses, although no single sale may exceed 24 liters, unless the sale is by a licensee that was a contract liquor store manager of a contract liquor store at the location of its spirits retail licensed premises from which it makes such sales; and export spirits.
 

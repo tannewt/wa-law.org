@@ -22,3 +22,6 @@
     e. A counterfeit substance classified in Schedule V, is guilty of a class C felony punishable according to chapter 9A.20 RCW.
 
 3. A violation of subsection (1)(b) of this section is a class C felony. The prosecutor is encouraged to divert such cases for assessment, treatment, or other services for a person's first two violations under this subsection.
+
+## Section 2
+The following acts or parts of acts are each repealed:

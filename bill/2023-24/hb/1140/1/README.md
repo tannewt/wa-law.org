@@ -5776,6 +5776,9 @@ The performance audits of government account is hereby created in the custody of
 ## Section 922
 The Washington rescue plan transition account is created in the state treasury. Moneys in the account may be spent only after appropriation. Revenues to the account consist of moneys directed by the legislature to the account. Allowable uses of moneys in the account include responding to the impacts of the COVID-19 pandemic including those related to education, human services, health care, and the economy. In addition, the legislature may appropriate from the account to continue activities begun with, or augmented with, COVID-19 related federal funding. During the 2023-2025 fiscal biennium, the legislature may direct the state treasurer to make transfers of moneys in the Washington rescue plan transition account to the general fund.
 
+## Section 923
+(1) All law enforcement personnel, except volunteers, and reserve officers whether paid or unpaid, initially employed on or after January 1, 1978, shall engage in basic law enforcement training which complies with standards adopted by the commission pursuant to RCW 43.101.080. For personnel initially employed before January 1, 1990, such training shall be successfully completed during the first fifteen months of employment of such personnel unless otherwise extended or waived by the commission and shall be requisite to the continuation of such employment. Personnel initially employed on or after January 1, 1990, shall commence basic training during the first six months of employment unless the basic training requirement is otherwise waived or extended by the commission. Successful completion of basic training is requisite to the continuation of employment of such personnel initially employed on or after January 1, 1990.
+
 ## Section 924
 1. There is created in the custody of the state treasurer a local fund known as the "financial services regulation fund" which shall consist of all moneys received by the divisions of the department of financial institutions, except as provided in subsection (2) of this section.
 
@@ -5798,6 +5801,9 @@ The Washington rescue plan transition account is created in the state treasury. 
 8. During the 2019-2021 and 2023-2025 fiscal biennia, moneys in the financial services regulation fund may be appropriated for the operations of the department of revenue.
 
 9. During the  2021-2023 and 2023-2025 fiscal biennia, the legislature may direct the state treasurer to make transfers of moneys in the financial services regulation fund to the general fund.
+
+## Section 925
+(1) Each year or biennium, as appropriate, when allocating funds from the carbon emissions reduction account created in RCW 70A.65.240, the climate commitment account created in RCW 70A.65.260, the natural climate solutions account created in RCW 70A.65.270, the climate investment account created in RCW 70A.65.250, the air quality and health disparities improvement account created in RCW 70A.65.280, the climate transit programs account created in RCW 46.68.500, or the climate active transportation account created in RCW 46.68.490, or administering grants or programs funded by the accounts, agencies shall conduct an environmental justice assessment consistent with the requirements of RCW 70A.02.060 and establish a minimum of not less than 35 percent and a goal of 40 percent of total investments that provide direct and meaningful benefits to vulnerable populations within the boundaries of overburdened communities through: (a) The direct reduction of environmental burdens in overburdened communities; (b) the reduction of disproportionate, cumulative risk from environmental burdens, including those associated with climate change; (c) the support of community led project development, planning, and participation costs; or (d) meeting a community need identified by the community that is consistent with the intent of this chapter or RCW 70A.02.010.
 
 ## Section 926
 1. Except as provided in RCW 70A.65.110, 70A.65.120, and 70A.65.130, the department shall distribute allowances through auctions as provided in this section and in rules adopted by the department to implement these sections. An allowance is not a property right.
@@ -6042,3 +6048,6 @@ The board shall adopt rules to implement chapter 195, Laws of 1990, pursuant to 
 
 ## Section 931
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 932
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

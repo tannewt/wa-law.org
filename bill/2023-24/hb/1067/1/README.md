@@ -28,3 +28,6 @@ The definitions in this section apply throughout this chapter unless the context
     b. The worker is being paid at least a rate
 
 consistent with the prevailing hourly wage rate for a worker in the applicable occupation and geographic area.
+
+## Section 2
+This act takes effect January 1, 2025.

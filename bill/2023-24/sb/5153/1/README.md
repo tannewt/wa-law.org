@@ -65,6 +65,9 @@ If the applicant answers in the affirmative to both questions, the agent shall t
 
     b. Disclosure of information on individuals under the age of 18 is subject to section 1 of this act.
 
+## Section 8
+(1) In the case of voter registration records received through the health benefit exchange, the department of licensing, or an agency designated under RCW 29A.08.310, the identity of the office or agency at which any particular individual registered to vote must be used only for voter registration purposes, is not available for public inspection, and shall not be disclosed to the public. Any record of a particular individual's choice not to register to vote at an office of the department of licensing or a state agency designated under RCW 29A.08.310 is not available for public inspection and any information regarding such a choice by a particular individual shall not be disclosed to the public. Information that is otherwise disclosable under this chapter cannot be disclosed on the future voter until the person reaches eighteen years of age, except for the purpose of processing and delivering ballots.
+
 ## Section 9
 The secretary of state shall provide a duplicate copy of the master statewide computer file or electronic data file of registered voters to the consolidated technology services agency for purposes of creating the jury source list without cost. The information contained in a voter registration application is exempt from inclusion until the applicant reaches age eighteen. Disclosure of information on individuals under the age of 18 is subject to section 1 of this act. Restrictions as to the commercial use of the information on the statewide computer  data file of registered voters, and penalties for its misuse, shall be the same as provided in RCW 29A.08.720 and 29A.08.740.
 
@@ -202,3 +205,8 @@ A person who knows that he or she does not possess the legal qualifications of a
 A person who knows that he or she does not possess the legal qualifications of a voter and who registers to vote is guilty of a class C felony. This section does not apply to persons age sixteen or seventeen signing up to register to vote as authorized under RCW 29A.08.170 or 29A.08.355(2), or to persons voting in primaries pursuant to RCW 29A.04.061.
 
 ## Section 18
+## Section 19
+Sections 12 and 16 of this act expire September 1, 2023.
+
+## Section 20
+Sections 13 and 17 of this act take effect September 1, 2023.

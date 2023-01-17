@@ -54,9 +54,15 @@ Any regulation promulgated by the state relating to abortion shall be valid only
 
 consistent with the requirements of this chapter.
 
+## Section 5
+For purposes of this chapter:
+
 ## Section 6
 Nothing in this chapter shall be construed as creating or recognizing a right to abortion or as altering generally accepted medical standards. It is not the intent of this chapter to make lawful an abortion that is otherwise unlawful. An abortion that complies with this chapter, but violates any other state law, is unlawful. An abortion that complies with another state law, but violates this section, is unlawful.
 
 ## Section 7
 ## Section 8
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 9
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

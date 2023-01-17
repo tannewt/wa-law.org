@@ -249,3 +249,6 @@ The definitions in this section apply throughout this chapter unless the context
     b. A coroner, medical examiner, or his or her designee may not publicly discuss his or her findings outside of formal court or inquest proceedings if there is a pending or active criminal investigation, or a criminal or civil action, concerning a death that has commenced prior to January 1, 2014.
 
 3. The coroner, the medical examiner, or the attending physician shall, upon request, meet with the family of the decedent to discuss the findings of the autopsy or postmortem. For the purposes of this section, the term "family" means the surviving spouse, state registered domestic partner, or any child, parent, grandparent, grandchild, brother, or sister of the decedent, or any person who was guardian of the decedent at the time of death.
+
+## Section 7
+Sections 1 and 2 of this act take effect January 1, 2024.

@@ -51,6 +51,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 23. "Unit owner" has the meaning in RCW 64.34.020 and 64.90.010.
 
+## Section 2
+For purposes of this chapter:
+
 ## Section 3
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 
@@ -632,3 +635,9 @@ An ordinance requiring a survey shall require that the survey be completed and f
 
 ## Section 18
 Sections 3 through 6, 10, and 11 of this act apply only to condominium units for which a public offering statement is made after the effective date of this section.
+
+## Section 19
+Section 14 of this act expires January 1, 2030.
+
+## Section 20
+Section 15 of this act takes effect January 1, 2030.

@@ -103,6 +103,9 @@
 
     b. The individual is being supervised pursuant to RCW 9.94A.745 and is on parole or probation pursuant to the laws of another state.
 
+## Section 4
+(1) No person incarcerated individual serving a sentence imposed pursuant to this chapter and committed to the custody of the department shall leave the confines of the correctional facility or be released prior to the expiration of the sentence except as follows:
+
 ## Section 5
 1. The clemency and pardons board is established as a board within the office of the governor. The board consists of 10 members appointed by the governor, subject to confirmation by the senate.
 
@@ -139,6 +142,9 @@
 7. The board shall be funded adequate personnel to implement and maintain functional operations such as support, records, victim liaisons, and information technology.
 
 8. The attorney general shall provide legal counsel to the board.
+
+## Section 6
+(1) The clemency and pardons board shall receive petitions from individuals, organizations, and the department and make recommendations to the governor for review and commutation:
 
 ## Section 7
 1. The board may take any of the following actions: Deny a petition without a hearing because the incarcerated individual does not meet the initial criteria for filing a petition; or conduct a hearing in accordance with RCW 9.94A.885 to consider additional information, and then deny the petition or recommend commutation to the governor.

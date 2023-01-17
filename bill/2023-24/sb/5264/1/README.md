@@ -22,3 +22,6 @@
         iii. Have earned 72 quarter credits or 48 semester credits at an institution of higher education; or
 
         iv. Have completed a registered apprenticeship program.
+
+## Section 2
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

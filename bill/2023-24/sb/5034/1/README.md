@@ -22,3 +22,6 @@
 3. A peace officer may not fire a weapon upon a moving vehicle unless necessary to protect against an imminent threat of serious physical harm resulting from the operator's or a passenger's use of a deadly weapon. For the purposes of this subsection, a vehicle is not considered a deadly weapon unless the operator is using the vehicle as a deadly weapon and no other reasonable means to avoid potential serious harm are immediately available to the officer.
 
 4. For purposes of this section, "vehicular pursuit" means an attempt by a uniformed peace officer in a vehicle equipped with emergency lights and a siren to stop a moving vehicle where the operator of the moving vehicle appears to be aware that the officer is signaling the operator to stop the vehicle and the operator of the moving vehicle appears to be willfully resisting or ignoring the officer's attempt to stop the vehicle by increasing vehicle speed, making evasive maneuvers, or operating the vehicle in a reckless manner that endangers the safety of the community or the officer.
+
+## Section 2
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

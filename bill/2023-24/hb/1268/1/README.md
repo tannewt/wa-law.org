@@ -399,6 +399,9 @@ Residential Burglary (RCW 9A.52.025);
 
 61. "Work release" means a program of partial confinement available to offenders who are employed or engaged as a student in a regular course of study at school.
 
+## Section 2
+(1) The provisions of this section apply to the standard sentence ranges determined by RCW 9.94A.510 or 9.94A.517.
+
 ## Section 3
 If the presumptive sentence duration given in the sentencing grid exceeds the statutory maximum sentence for the offense, the statutory maximum sentence shall be the presumptive sentence.
 

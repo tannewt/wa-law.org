@@ -46,5 +46,8 @@ The department of revenue shall promulgate such rules and regulations as are nec
 
 5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
 
+## Section 3
+Section 1 of this act expires January 1, 2034.
+
 ## Section 4
 This act applies to taxes levied for collection in 2024 and thereafter.

@@ -2957,3 +2957,9 @@ Nothing in this chapter or chapter 70A.--- (the new chapter created in section 6
 
 ## Section 507
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 508
+Section 504 of this act expires July 1, 2024.
+
+## Section 509
+Section 505 of this act takes effect July 1, 2024.

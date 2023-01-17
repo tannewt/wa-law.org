@@ -2,8 +2,17 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1134.pdf)
 
+## Section 1
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+## Section 2
+(1) The secretary shall license or certify any agency or facility that: (a) Submits payment of the fee established under RCW 43.70.110 and 43.70.250; (b) submits a complete application that demonstrates the ability to comply with requirements for operating and maintaining an agency or facility in statute or rule; and (c) successfully completes the prelicensure inspection requirement.
+
 ## Section 3
 The department shall develop informational materials and a social media campaign related to the 988 crisis hotline, including call, text, and chat options, and other crisis hotline lines for veterans, American Indians and Alaska Natives, and other populations. The informational materials must include appropriate information for persons seeking services at behavioral health clinics and medical clinics, as well as media audiences and students at K-12 schools and higher education institutions. The department shall make the informational materials available to behavioral health clinics, medical clinics, media, K-12 schools, higher education institutions, and other relevant settings. The informational materials shall be made available to professionals during training in suicide assessment, treatment, and management under RCW 43.70.442. To tailor the messages of the informational materials and the social media campaign, the department must consult with tribes, the American Indian health commission of Washington state, the native and strong lifeline, the Washington state department of veterans affairs, and representatives of agricultural communities.
+
+## Section 4
+(1)(a) Each of the following professionals certified or licensed under Title 18 RCW shall, at least once every six years, complete training in suicide assessment, treatment, and management that is approved, in rule, by the relevant disciplining authority:
 
 ## Section 5
 1. Establishing the state designated 988 crisis contact center hubs and enhancing the crisis response system will require collaborative work between the department and the authority within their respective roles. The department shall have primary responsibility for establishing and designating the designated 988 crisis contact center hubs. The authority shall have primary responsibility for developing and implementing the crisis response system and services to support the work of the designated 988 crisis contact center hubs. In any instance in which one agency is identified as the lead, the expectation is that agency will be communicating and collaborating with the other to ensure seamless, continuous, and effective service delivery within the statewide crisis response system.

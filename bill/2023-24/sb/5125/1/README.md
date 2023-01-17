@@ -322,6 +322,9 @@ It is the intent of the legislature to establish the Washington future fund prog
 
 15. During the 2021-2023 fiscal biennium, and beginning with the November 2021 forecast, the caseload forecast council shall produce an unofficial forecast of the long-term caseload for juvenile rehabilitation as a courtesy.
 
+## Section 9
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
 ## Section 10
 Subject to federal and state laws governing the disclosure of confidential information, the office of the state treasurer and the authority shall enter into a memorandum of understanding to establish information sharing practices necessary to carry out the purposes of chapter 43.--- RCW (the new chapter created in section 11 of this act) by September 30, 2036.
 

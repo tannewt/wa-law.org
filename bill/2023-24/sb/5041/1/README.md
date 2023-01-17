@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5041.pdf)
 
+## Section 1
+The definitions set forth in this section apply throughout this chapter.
+
 ## Section 2
 1. The department may issue a CLP to an applicant who is at least 18 years of age and holds a valid Washington state driver's license and who has:
 
@@ -249,3 +252,5 @@ Unless otherwise provided by law, a person shall not be entitled to a driver imp
 2. Has refused or neglected to submit to an examination as required by RCW 46.20.305.
 
 ## Section 10
+## Section 11
+This act takes effect November 18, 2024.

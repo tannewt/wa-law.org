@@ -97,6 +97,9 @@ Upon a showing by any convicted person or the state that five years have elapsed
 
 5. Nothing in this section prohibits the filing of escape charges if appropriate.
 
+## Section 8
+(1) Whenever a person is convicted in superior court, the court may order the payment of a legal financial obligation as part of the sentence. The court may not order an offender to pay costs as described in RCW 10.01.160 if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.01.160(3). An offender being indigent as defined in RCW 10.01.160(3) is not grounds for failing to impose restitution or the crime victim penalty assessment under RCW 7.68.035. The court must on either the judgment and sentence or on a subsequent order to pay, designate the total amount of a legal financial obligation and segregate this amount among the separate assessments made for restitution, costs, fines, and other assessments required by law. On the same order, the court is also to set a sum that the offender is required to pay on a monthly basis towards satisfying the legal financial obligation. If the court fails to set the offender monthly payment amount, the department shall set the amount if the department has active supervision of the offender, otherwise the county clerk shall set the amount.
+
 ## Section 9
 1. If an offender violates any condition or requirement of a sentence, the court may modify its order of judgment and sentence and impose further punishment in accordance with this section.
 
@@ -210,3 +213,6 @@ Upon a showing by any convicted person or the state that five years have elapsed
 4. If a respondent has been ordered to pay a fine or monetary penalty and due to a change of circumstance cannot reasonably comply with the order, the court, upon motion of the respondent, may order that the unpaid fine or monetary penalty be converted to community restitution . The number of hours of community restitution in lieu of a monetary penalty or fine shall be converted at the rate of the prevailing state minimum wage per hour. The monetary penalties or fines collected shall be deposited in the county general fund. A failure to comply with an order under this subsection shall be deemed a failure to comply with an order of community supervision and may be proceeded against as provided in this section.
 
 5. When a respondent has willfully violated the terms of a probation bond, the court may modify, revoke, or retain the probation bond as provided in RCW 13.40.054.
+
+## Section 15
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -8,4 +8,7 @@ The legislature finds that gun violence is a public health crisis in Washington 
 ## Section 2
 This chapter does not affect, modify, or limit the power of a city, municipality, or county in this state to adopt an ordinance or regulation relating to firearms that is in addition to or more restrictive than the requirements of this chapter.
 
+## Section 3
+(1) It is unlawful for any person to enter the following places when he or she knowingly possesses or knowingly has under his or her control a weapon:
+
 ## Section 4

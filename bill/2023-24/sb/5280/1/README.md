@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5280.pdf)
 
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 2
 1. [Empty]
 

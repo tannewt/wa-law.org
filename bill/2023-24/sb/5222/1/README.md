@@ -63,5 +63,8 @@ The definitions in this section apply throughout this chapter unless the context
 
 16. "Waste reduction" means reducing the amount or toxicity of waste generated or reusing materials.
 
+## Section 4
+RCW 70A.200.900 (Alternative to Initiative 40—Placement on ballot—Force and effect of chapter) is decodified.
+
 ## Section 5
 This act does not create any civil liability on the part of the state or any state agency, officer, employee, or agent.

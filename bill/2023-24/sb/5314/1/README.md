@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5314.pdf)
 
+## Section 1
+(1) No person shall operate a moped upon the highways of this state unless the moped has been assigned a moped registration number and displays a moped permit in accordance with RCW 46.16A.405(2).
+
 ## Section 2
 1. An electric-assisted bicycle pass is required for any person to operate an electric-assisted bicycle on agency facilities as authorized in RCW 46.61.710(9)(a). An electric-assisted bicycle pass may be made available for purchase:
 
@@ -68,3 +71,9 @@ The department may, in coordination with the state parks and recreation commissi
     b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
 
 5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 7
+Section 5 of this act expires July 1, 2024.
+
+## Section 8
+Section 6 of this act takes effect July 1, 2024.

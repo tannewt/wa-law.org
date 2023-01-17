@@ -215,6 +215,9 @@ Any information or records concerning a claimant or employing unit obtained by t
 
 8. The department may use state and local databases to exclude claimants who may be eligible for unemployment insurance benefits under Title 50 RCW, this title, or are otherwise ineligible or disqualified. An absence of information contained in state and local databases must not be a factor, by itself, to deny a claimant benefits under this title.
 
+## Section 16
+The following information related to employment security is exempt from disclosure under this chapter:
+
 ## Section 17
 The department must establish a procedure for review, hearings, and appeals under this title comparable to the provisions of chapter 50.32 RCW, which complies with the confidentiality and privacy protections under sections 13 through 16 of this act.
 

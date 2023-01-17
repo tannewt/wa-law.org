@@ -387,3 +387,9 @@ Every four years, the attorney general shall commission a study of the impact of
 
 ## Section 24
 This act may be known and cited as the keep our care act.
+
+## Section 25
+Sections 7, 9 through 17, and 19 through 24 of this act are each added to chapter 19.390 RCW.
+
+## Section 26
+This act takes effect January 1, 2024.

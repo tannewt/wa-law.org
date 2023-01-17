@@ -407,6 +407,9 @@ $165
 
     b. The department shall coordinate with the department of social and health services to ensure that participants in the evergreen basic income pilot program have access to benefits through the essential needs and housing support program.
 
+## Section 12
+The following definitions shall be applied in connection with this chapter:
+
 ## Section 13
 1.  All income and resources of each parent's household shall be disclosed and considered by the court when the court determines the child support obligation of each parent. Only the income of the parents of the children whose support is at issue shall be calculated for purposes of calculating the basic support obligation. Income and resources of any other person shall not be included in calculating the basic support obligation.
 

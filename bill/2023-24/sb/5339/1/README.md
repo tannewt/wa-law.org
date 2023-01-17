@@ -45,6 +45,9 @@
 
 7. The superintendent of public instruction shall adopt and periodically revise rules to implement this section.
 
+## Section 104
+(1) For the purposes of this section:
+
 ## Section 201
 1. [Empty]
 
@@ -126,6 +129,9 @@ Providing parents and legal guardians  with a voluntary, secure, and convenient 
     a. "Institution of higher education" has the definition in RCW 28B.10.016, and also includes a public tribal college located in Washington and accredited by the northwest commission on colleges and universities or another accrediting association recognized by the United States department of education.
 
     b. "Program course" means a college course offered in a high school under the college in the high school program.
+
+## Section 205
+(1)(a) Eleventh and twelfth 12th grade students or students who have not yet received the credits required for the award of a high school diploma and are eligible to be in the eleventh 11th or twelfth 12th grades may apply to a participating institution of higher education to enroll in courses or programs offered by the institution of higher education.
 
 ## Section 301
 The purpose of this section is to provide for the allocation of state funding that the legislature deems necessary to support school districts in offering the minimum instructional program of basic education under RCW 28A.150.220. The allocation shall be determined as follows:

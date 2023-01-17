@@ -28,3 +28,6 @@
     b. A cannabis producer, cannabis processor, cannabis researcher, or cannabis retailer licensed under chapter 69.50 RCW may receive cannabis from a person located in, and authorized to export cannabis by, the other state.
 
 4. For the purposes of this section, "cannabis," "cannabis processor," "cannabis producer," "cannabis researcher," "cannabis retailer," and "person" have the meanings provided in RCW 69.50.101.
+
+## Section 2
+(a) Federal law is amended to allow for the interstate transfer of cannabis between authorized cannabis-related businesses; or

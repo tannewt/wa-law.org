@@ -34,3 +34,12 @@ The director shall administer all state-funded services in the following program
 14. Within available resources, provide legal counsel for parents under investigation by the department of children, youth, and families, including when the department of children, youth, and families proposes a voluntary placement agreement when there is no pending dependency proceeding under chapter 13.34 RCW pursuant to RCW 13.34.090(4).
 
 The office of public defense shall not provide direct representation of clients.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 3
+(1) Any party has a right to be represented by an attorney in all proceedings under this chapter, to introduce evidence, to be heard in his or her own behalf, to examine witnesses, to receive a decision based solely on the evidence adduced at the hearing, and to an unbiased fact finder.
+
+## Section 4
+Section 3 of this act takes effect July 1, 2024.

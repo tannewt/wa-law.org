@@ -630,6 +630,9 @@ For the purpose of assisting courts in ensuring compliance with an order to surr
 
 6. A petitioner may not obtain an ex parte temporary antiharassment protection order against a respondent if the petitioner has previously obtained two such ex parte orders against the same respondent, but has failed to obtain the issuance of a civil antiharassment protection order, unless good cause for such failure can be shown.
 
+## Section 25
+(1) In issuing any type of protection order, other than an ex parte temporary antiharassment protection order as limited by subsection (2) of this section, and other than an extreme risk protection order, the court shall have broad discretion to grant such relief as the court deems proper, including an order that provides relief as follows:
+
 ## Section 26
 1. In considering whether to issue a temporary extreme risk protection order, the court shall consider all relevant evidence, including the evidence described in RCW 7.105.215.
 
@@ -820,6 +823,9 @@ For purposes of this subsection, the term "firearm" has the meaning defined in R
 
     b. A police officer is not required to keep in custody a person under (a) of this subsection if the person requires immediate medical attention and is admitted to a hospital.
 
+## Section 32
+(1) The primary duty of peace officers, when responding to a domestic violence situation, is to enforce the laws allegedly violated and to protect the complaining party.
+
 ## Section 33
 1. All training relating to the handling of domestic violence complaints by law enforcement officers must stress enforcement of criminal laws in domestic situations, availability of community resources, and protection of the victim. Law enforcement agencies and community organizations with expertise in the issue of domestic violence shall cooperate in all aspects of such training.
 
@@ -975,3 +981,5 @@ For purposes of this subsection, the term "firearm" has the meaning defined in R
 Any person received and detained in a state hospital under chapter 71.34 RCW is deemed a voluntary patient and, except as chapter 9.41 RCW may limit the right of a person to purchase or possess a firearm or to qualify for a concealed pistol license or permit to purchase firearms, shall not suffer a loss of legal competency by reason of his or her application and admission. Upon the admission of a voluntary patient to a state hospital the superintendent shall immediately forward to the department the record of such patient showing the name, address, sex, date of birth, place of birth, occupation, social security number, date of admission, name of nearest relative, and such other information as the department may from time to time require.
 
 ## Section 39
+## Section 40
+This act takes effect July 1, 2024.

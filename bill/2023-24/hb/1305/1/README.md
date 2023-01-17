@@ -160,3 +160,6 @@ The superintendent of public instruction is hereby authorized and directed to es
 
 ## Section 19
 School districts may use curriculum‑based assessment procedures as measures for developing academic early intervening services, as defined under part B of the federal individuals with disabilities education improvement act, and curriculum planning: PROVIDED, That the use of curriculum‑based assessment procedures shall not deny a student the right to use of other assessments to determine eligibility or participation in special education programs as provided by this chapter.
+
+## Section 20
+Sections 1 through 10 of this act are each added to chapter 28A.155 RCW.

@@ -1478,6 +1478,9 @@ In exercising its authority under this chapter, the department of health may not
 
 3. Apply or enforce RCW 15.130.140 and 15.130.200 through 15.130.230 to psilocybin products.
 
+## Section 117
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 118
 It is an unfair practice for any employer:
 
@@ -1488,6 +1491,9 @@ It is an unfair practice for any employer:
 3. To discriminate against any person in compensation or in other terms or conditions of employment because of age, sex, marital status, sexual orientation, race, creed, color, national origin, citizenship or immigration status, honorably discharged veteran or military status, or the presence of any sensory, mental, or physical disability or the use of a trained dog guide or service animal by a person with a disability: PROVIDED, That it shall not be an unfair practice for an employer to segregate washrooms or locker facilities on the basis of sex, or to base other terms and conditions of employment on the sex of employees where the commission by regulation or ruling in a particular instance has found the employment practice to be appropriate for the practical realization of equality of opportunity between the sexes.
 
 4. To print, or circulate, or cause to be printed or circulated any statement, advertisement, or publication, or to use any form of application for employment, or to make any inquiry in connection with prospective employment, which expresses any limitation, specification, or discrimination as to age, sex, marital status, sexual orientation, race, creed, color, national origin, citizenship or immigration status, honorably discharged veteran or military status, or the presence of any sensory, mental, or physical disability or the use of a trained dog guide or service animal by a person with a disability, or any intent to make any such limitation, specification, or discrimination, unless based upon a bona fide occupational qualification: PROVIDED, Nothing contained herein shall prohibit advertising in a foreign language.
+
+## Section 119
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
 
 ## Section 120
 It is the intent of the legislature to strengthen and consolidate disciplinary and licensure procedures for the licensed health and health-related professions and businesses by providing a uniform disciplinary act with standardized procedures for the licensure of health care professionals and psilocybin service facilitators under chapter 18.--- RCW (the new chapter created in section 126 of this act) and the enforcement of laws the purpose of which is to assure the public of the adequacy of professional competence and conduct in the healing arts and wellness professions.
@@ -1782,3 +1788,15 @@ The following conduct, acts, or conditions constitute unprofessional conduct for
 
 ## Section 125
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 127
+Section 6 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.
+
+## Section 128
+Section 117 of this act takes effect August 1, 2023.
+
+## Section 129
+Section 121 of this act expires October 1, 2023.
+
+## Section 130
+Section 122 of this act takes effect October 1, 2023.

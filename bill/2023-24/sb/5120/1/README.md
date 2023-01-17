@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5120.pdf)
 
+## Section 1
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
 ## Section 2
 1. The secretary shall license or certify 23-hour crisis relief centers that meet state minimum standards. The secretary shall create rules in consultation with the authority to create standards for licensure or certification of 23-hour crisis relief centers. The rules, at a minimum, must require the 23-hour crisis relief center to:
 
@@ -399,6 +402,12 @@ The definitions in this section apply throughout this chapter unless the context
 5. Tribal court orders for involuntary commitment shall be recognized and enforced in accordance with superior court civil rule 82.5.
 
 6. In any investigation and evaluation of an individual under this section or RCW 71.05.153 in which the designated crisis responder knows, or has reason to know, that the individual is an American Indian or Alaska Native who receives medical or behavioral health services from a tribe within this state, the designated crisis responder shall notify the tribe and Indian health care provider regarding whether or not a petition for initial detention or involuntary outpatient treatment will be filed. Notification shall be made in person or by telephonic or electronic communication to the tribal contact listed in the authority's tribal crisis coordination plan as soon as possible but no later than three hours subject to the requirements in RCW 70.02.230(2)(ee) and (3). A designated crisis responder may restrict the release of information as necessary to comply with 42 C.F.R. Part 2.
+
+## Section 8
+(1) When a designated crisis responder receives information alleging that a person, as the result of a behavioral health disorder, presents an imminent likelihood of serious harm, or is in imminent danger because of being gravely disabled, after investigation and evaluation of the specific facts alleged and of the reliability and credibility of the person or persons providing the information if any, the designated crisis responder may take such person, or cause by oral or written order such person to be taken into emergency custody in an emergency department evaluation and treatment facility, secure withdrawal management and stabilization facility if available with adequate space for the person, or approved substance use disorder treatment program if available with adequate space for the person, for not more than one hundred twenty hours as described in RCW 71.05.180.
+
+## Section 9
+(1) When a designated crisis responder receives information alleging that a person, as the result of a behavioral health disorder, presents an imminent likelihood of serious harm, or is in imminent danger because of being gravely disabled, after investigation and evaluation of the specific facts alleged and of the reliability and credibility of the person or persons providing the information if any, the designated crisis responder may take such person, or cause by oral or written order such person to be taken into emergency custody in an emergency department evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program, for not more than one hundred twenty hours as described in RCW 71.05.180.
 
 ## Section 10
 1. Either an agency or facility designated to monitor or provide services under a less restrictive alternative order or conditional release, or a designated crisis responder, may take action to enforce, modify, or revoke a less restrictive alternative treatment order or conditional release order. The agency, facility, or designated crisis responder must determine that:
@@ -1058,6 +1067,9 @@ Refer the individual to a designated crisis responder for evaluation for initial
 
 8. Any period of competency restoration treatment under this section includes only the time the defendant is actually at the facility or is actively participating in an outpatient competency restoration program and is in addition to reasonable time for transport to or from the facility.
 
+## Section 22
+Unless otherwise specifically provided, the definitions in this section apply throughout this chapter.
+
 ## Section 23
 The department of health shall convert the license or certification of any facility licensed or certified by the department to operate as a crisis triage facility to a license or certification for the facility to operate as a crisis stabilization unit by the start of the next licensing or certification period following the effective date of this section.
 
@@ -1065,3 +1077,14 @@ The department of health shall convert the license or certification of any facil
 When making rules under section 2 of this act, the department of health shall consult with stakeholders including, but not limited to: The Washington council for behavioral health; WAADAC, the voice for Washington state addiction professionals; the Washington state hospital association; the American college of emergency physicians; the Washington association of designated crisis responders; the Washington association of sheriffs and police chiefs; and an individual or entity representing emergency medical services.
 
 ## Section 25
+## Section 26
+Sections 6, 8, 10, and 15 of this act expire July 1, 2026.
+
+## Section 27
+Sections 7, 9, 11, and 16 of this act take effect July 1, 2026.
+
+## Section 28
+(1) Sections 4 and 28, chapter 302, Laws of 2020, sections 13 and 14, chapter 263, Laws of 2021, section 23, chapter 264, Laws of 2021, and sections 2 and 10, chapter 210, Laws of 2022, and section 4, chapter . . ., Laws of 2023 (this act) take effect when monthly single-bed certifications authorized under RCW 71.05.745 fall below 200 reports for 3 consecutive months
+
+## Section 29
+(1) Sections 64 and 81, chapter 302, Laws of 2020 and, until July 1, 2022, section 27, chapter 264, Laws of 2021 and, beginning July 1, 2022, section 28, chapter 264, Laws of 2021, and section 13, chapter . . ., Laws of 2023 (this act) take effect when the average wait time for children's long-term inpatient placement admission is 30 days or less for two consecutive quarters.

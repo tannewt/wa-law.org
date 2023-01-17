@@ -138,3 +138,6 @@ The department may adopt and implement rules to carry out and enforce the provis
 
 ## Section 13
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 15
+This act takes effect July 1, 2024.

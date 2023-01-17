@@ -155,3 +155,6 @@ A student's individualized education program  must include  procedures for notif
 5. The educational service districts must develop and publish guidelines for on-the-job training and check-in training that include recommendations for identifying and recruiting experienced safety and security staff to provide the trainings, suggested activities during on-the-job trainings, and best practices for meaningful check-in trainings. The guidelines for check-in training must also include recommended frequency, possible topics of discussion, and options for connecting virtually.
 
 6. For purposes of this section, the term "safety and security staff" has the same meaning as in RCW 28A.320.124.
+
+## Section 7
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

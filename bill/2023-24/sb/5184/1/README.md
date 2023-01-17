@@ -333,3 +333,9 @@ The definitions in this section apply throughout this chapter unless the context
 12. "Regulatory entity" means any board, commission, agency, division, or other unit or subunit of state government which regulates one or more professions, occupations, industries, businesses, or other endeavors in this state.
 
 13. "State agency" includes every state office, department, board, commission, regulatory entity, and agency of the state, and, where provided by law, programs and activities involving less than the full responsibility of a state agency.
+
+## Section 12
+Section 8 of this act expires October 1, 2023.
+
+## Section 13
+Section 9 of this act takes effect October 1, 2023.

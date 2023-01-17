@@ -104,3 +104,6 @@ The provisions of RCW 82.32.805 and 82.32.808 do not apply to this act.
 
 ## Section 7
 This act applies for taxes levied for collection in 2024 and thereafter.
+
+## Section 8
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

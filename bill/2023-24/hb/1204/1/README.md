@@ -44,3 +44,6 @@
         ii. An individual who cared for a child who was removed from his or her parent pursuant to chapter 13.34 RCW and who has a kin relationship to that child pursuant to RCW 74.13.600.
 
     b. "Parent ally" has the same meaning as provided in RCW 2.70.060.
+
+## Section 2
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 30, 2023.

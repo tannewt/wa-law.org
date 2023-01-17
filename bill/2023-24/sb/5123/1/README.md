@@ -27,3 +27,6 @@ The legislature finds that the legalization of recreational cannabis in Washingt
 4. This section does not preempt state or federal laws requiring an applicant to be tested for controlled substances. This includes state or federal laws requiring applicants to be tested, or the way they are tested, as a condition of employment, receiving federal funding or federal licensing-related benefits, or as required by a federal contract.
 
 5. For the purposes of this section, "cannabis" has the meaning provided in RCW 69.50.101.
+
+## Section 3
+This act takes effect January 1, 2024.

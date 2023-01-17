@@ -112,3 +112,9 @@ To any  individual, the tools , instruments , materials, and supplies used to ca
     c. If the confined worker has any beneficiaries during the confinement period during which benefits are canceled under (a) or (b) of this subsection, they shall be paid directly the monthly benefits which would have been paid to the worker for himself or herself and the worker's beneficiaries had the worker not been confined.
 
 4. Any lump sum benefits to which a worker would otherwise be entitled but for the provisions of this section shall be paid on a monthly basis to his or her beneficiaries.
+
+## Section 4
+Section 1 of this act expires July 1, 2025.
+
+## Section 5
+Section 2 of this act takes effect July 1, 2025.

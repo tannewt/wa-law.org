@@ -34,3 +34,6 @@
         iii. Nothing in this subsection acknowledges, establishes, or creates legal authority for the department of ecology or any other state agency to enact, adopt, order, or in any way implement a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
 
     b. $24 of the enhanced driver's license and enhanced identicard fee under this section must be deposited into the move ahead WA flexible account created in RCW 46.68.520. If the enhanced driver's license or enhanced identicard is issued, renewed, or extended for a period other than eight years, the amount deposited into the move ahead WA flexible account created in RCW 46.68.520 is $3 for each year that the enhanced driver's license or enhanced identicard is issued, renewed, or extended.
+
+## Section 2
+This act takes effect July 1, 2024.

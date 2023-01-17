@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5015.pdf)
 
+## Section 1
+(1) There Subject to the availability of amounts appropriated for this specific purpose, there is hereby created the productivity board, which may also be known as the employee involvement and recognition board. The board shall administer the employee suggestion program and the teamwork incentive program under this chapter.
+
 ## Section 2
 1. The board shall formulate, establish, and maintain a statewide employee suggestion program and adopt rules to allow for agency unique suggestion programs. Employee suggestion programs are developed to encourage and reward meritorious suggestions by state employees that will promote efficiency and economy in the performance of any function of state government: PROVIDED, That the program shall include provisions for the processing of suggestions having multiagency impact and post-implementation auditing of suggestions for fiscal accountability.
 

@@ -11,3 +11,6 @@ The vehicle identification number inspection fee collected under RCW 46.17.130 m
 to the state patrol highway account created in RCW 46.68.030
 
 .
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -61,3 +61,6 @@
     f. The provisions of this subsection related to the definition of medically necessary, prior authorization procedures and patient appeal rights shall be implemented in a manner consistent with applicable federal and state law.
 
 3. Notwithstanding the limitations in subsection (2) of this section, for initial or subsequent refills for an antipsychotic, antidepressant, antiepileptic, chemotherapy, antiretroviral, or immunosuppressive drug, or for the refill of an immunomodulator antiviral treatment for hepatitis C for which an established, fixed duration of therapy is prescribed for at least 24 weeks by no more than 48 weeks, the pharmacist shall dispense the prescribed nonpreferred drug.
+
+## Section 3
+This act takes effect January 1, 2024.

@@ -29,3 +29,6 @@ During the 2023-2025 fiscal biennium, the select committee on pension policy wil
 4. Beneficiaries who are receiving a monthly benefit from the public employees' retirement system plan 1 on July 1, 2022, shall receive, effective July 1, 2023, an increase to their monthly benefit of three percent multiplied by the beneficiaries' monthly benefit, not to exceed $110.00.
 
 5. This section does not apply to those receiving benefits pursuant to RCW 41.40.1984.
+
+## Section 5
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

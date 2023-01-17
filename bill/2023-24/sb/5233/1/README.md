@@ -221,6 +221,9 @@ Officers, employees, and authorized representatives of the agency and the state 
 
 2. Nothing in this chapter affects or modifies the obligations or liability of any person under any other state or federal law.
 
+## Section 16
+This chapter expires July 1, 2030.
+
 ## Section 17
 1. A tax is imposed on the privilege of possession of petroleum products in this state. The rate of the tax shall be thirty one-hundredths of one percent multiplied by the wholesale value of the petroleum product.  For purposes of determining the tax imposed under this section for petroleum products introduced at the rack, the wholesale value is determined when the petroleum product is removed at the rack unless the removal is to an exporter licensed under chapter 82.38 RCW for direct delivery to a destination outside of the state. For all other cases, the wholesale value is determined upon the first nonbulk possession in the state.
 
@@ -233,3 +236,12 @@ Officers, employees, and authorized representatives of the agency and the state 
     a. Tax was imposed under this section during the immediately preceding calendar quarter, and the most recent quarterly balance is more than $30,000,000; or
 
     b. Tax was not imposed under this section during the immediately preceding calendar quarter, and the most recent quarterly balance is more than $15,000,000.
+
+## Section 18
+(1) The pollution liability insurance program trust account is established in the custody of the state treasurer. All funds appropriated for this chapter and all premiums collected for reinsurance shall be deposited in the account. Except as provided in chapter 70A.345 RCW, expenditures from the account shall be used exclusively for the purposes of this chapter including payment of costs of administering the pollution liability insurance program and emergency program.
+
+## Section 19
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
+## Section 20
+Section 19 of this act expires July 1, 2030.

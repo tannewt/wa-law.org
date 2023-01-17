@@ -56,3 +56,6 @@ Any regulation promulgated by the state relating to abortion shall be valid only
 
 ## Section 7
 If the state provides, directly or by contract, maternity care benefits, services, or information to women through any program administered or funded in whole or in part by the state, the state shall also provide women otherwise eligible for any such program with substantially equivalent benefits, services, or information to permit them to voluntarily terminate their pregnancies.
+
+## Section 8
+For purposes of this chapter:

@@ -13,6 +13,9 @@
 
 3. The legislature further finds that when the sale of a manufactured/mobile home park to the community tenants or an eligible organization is not possible, a minimum notification period of three years before the closure or conversion of a community or park is a reasonable balancing of the rights and interests of both community and park owners and the manufactured/mobile home owners, unless the owners justly compensate the homeowners for the loss of their homes.
 
+## Section 2
+For purposes of this chapter:
+
 ## Section 3
 1. Any mobile home space tenancy regardless of the term, shall be based upon a written rental agreement, signed by the parties, which shall contain:
 

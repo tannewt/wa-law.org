@@ -3913,6 +3913,126 @@ FOR THE COMMUNITY AND TECHNICAL COLLEGE SYSTEM
 ## Section 5170
 FOR THE COMMUNITY AND TECHNICAL COLLEGE SYSTEM
 
+## Section 6001
+FOR THE DEPARTMENT OF COMMERCE
+
+## Section 6002
+FOR THE DEPARTMENT OF COMMERCE
+
+## Section 6003
+FOR THE DEPARTMENT OF COMMERCE
+
+## Section 6004
+FOR THE OFFICE OF FINANCIAL MANAGEMENT
+
+## Section 6005
+FOR THE DEPARTMENT OF ENTERPRISE SERVICES
+
+## Section 6006
+FOR THE DEPARTMENT OF SOCIAL AND HEALTH SERVICES
+
+## Section 6007
+FOR THE DEPARTMENT OF SOCIAL AND HEALTH SERVICES
+
+## Section 6008
+FOR THE DEPARTMENT OF HEALTH
+
+## Section 6009
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6010
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6011
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6012
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6013
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6014
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6015
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6016
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6017
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6018
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6019
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6020
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6021
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6022
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6023
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6024
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6025
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6026
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6027
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6028
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6029
+FOR THE DEPARTMENT OF ECOLOGY
+
+## Section 6030
+FOR THE RECREATION AND CONSERVATION OFFICE
+
+## Section 6031
+FOR THE RECREATION AND CONSERVATION OFFICE
+
+## Section 6032
+FOR THE RECREATION AND CONSERVATION OFFICE
+
+## Section 6033
+FOR THE STATE CONSERVATION COMMISSION
+
+## Section 6034
+FOR THE STATE CONSERVATION COMMISSION
+
+## Section 6035
+FOR THE DEPARTMENT OF FISH AND WILDLIFE
+
+## Section 6036
+FOR THE DEPARTMENT OF FISH AND WILDLIFE
+
+## Section 6037
+FOR THE DEPARTMENT OF NATURAL RESOURCES
+
+## Section 6038
+FOR THE DEPARTMENT OF NATURAL RESOURCES
+
+## Section 6039
+FOR THE SUPERINTENDENT OF PUBLIC INSTRUCTION
+
+## Section 6040
+(1) The following agencies may enter into financial contracts, paid from any funds of an agency, appropriated or nonappropriated, for the purposes indicated and in not more than the principal amounts indicated, plus financing expenses and required reserves pursuant to chapter 39.94 RCW. When securing properties under this section, agencies shall use the most economical financial contract option available, including long-term leases, lease-purchase agreements, lease-development with option to purchase agreements or financial contracts using certificates of participation. Expenditures made by an agency for one of the indicated purposes before the issue date of the authorized financial contract and any certificates of participation therein are intended to be reimbursed from proceeds of the financial contract and any certificates of participation therein to the extent provided in the agency's financing plan approved by the state finance committee.
+
 ## Section 7001
 RCW 43.88.031 requires the disclosure of the estimated debt service costs associated with new capital bond appropriations. The estimated debt service costs for the appropriations contained in this act are $73,199,153 for the 2023-2025 biennium, $442,200,195 for the 2025-2027 biennium, and $578,665,553 for the 2027-2029 biennium.
 
@@ -4064,6 +4184,9 @@ In order to accelerate the reduction of embodied carbon and improve the environm
 ## Section 7021
 The department of natural resources, in coordination with the department of social and health services, shall enter into long-term, revenue-generating opportunities for under used portions of the Fircrest residential habilitation center bounded by 15th Ave NE and NE 150th Street to benefit the charitable, educational, penal, and reformatory institutions account. Long-term, revenue generating opportunities may include, but are not limited to, land leases, land sales, and land swaps. The department of social and health services and the department of natural resources must amend their lease under chapter 7, Laws of 1986 if necessary to conform with this section.
 
+## Section 7022
+(1) The department must use moneys from the housing trust fund and other legislative appropriations to finance in whole or in part any loans or grant projects that will provide housing for persons and families with special housing needs and with incomes at or below fifty 50 percent of the median family income for the county or standard metropolitan statistical area where the project is located. At least thirty 30 percent of these moneys used in any given funding cycle must be for the benefit of projects located in rural areas of the state as defined by the department. If the department determines that it has not received an adequate number of suitable applications for rural projects during any given funding cycle, the department may allocate unused moneys for projects in nonrural areas of the state.
+
 ## Section 7023
 Section 7022 of this act takes effect if chapter . . . (Z-0097), Laws of 2023 (concerning housing programs administered by the department of commerce), is not enacted by June 30, 2023.
 
@@ -4161,6 +4284,9 @@ The board is hereby empowered:
 
 6. During the 2021-2023 and 2023-2025 fiscal biennia, an alternative high-performance building certification, as determined by the legislature, may be used instead of the LEED silver building design, construction, and certification standard required by this section.
 
+## Section 7028
+The state drought preparedness and response account is created in the state treasury. All receipts from appropriated funds designated for the account and all cost recovery revenues collected under RCW 43.83B.410(5) must be deposited into the account. Expenditures from the account may be used for drought preparedness and response activities under this chapter, including grants issued under RCW 43.83B.415. During the 2021-2023 fiscal biennium, moneys in the account may be used for water banking pilot projects. Moneys in the account may be spent only after appropriation. During the 2021-2023 and 2023-2025 fiscal biennium biennia, the legislature may appropriate moneys from the account for activities related to water banking.
+
 ## Section 7029
 1. The stadium and exhibition center account is created in the custody of the state treasurer. All receipts from the taxes imposed under RCW 82.14.0494 and distributions under RCW 67.70.240(1)(d) shall be deposited into the account. Only the director of the office of financial management or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW. An appropriation is not required for expenditures from this account.
 
@@ -4178,8 +4304,14 @@ Any revenues derived from the taxes authorized by RCW 36.38.010(5) and 36.38.040
 
 4. Any moneys in the stadium and exhibition center account not required or permitted to be used for the purposes described in subsection (3)(a) and (b) of this section shall be deposited in the youth athletic facility account hereby created in the state treasury. Expenditures from the account may be used only for purposes of grants or loans to cities, counties, and qualified nonprofit organizations for community outdoor athletic facilities. Only the director of the recreation and conservation office or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures. The athletic facility grants or loans may be used for acquiring, developing, equipping, maintaining, and improving community outdoor athletic facilities. Funds shall be divided equally between the development of new community outdoor athletic facilities, the improvement of existing community outdoor athletic facilities, and the maintenance of existing community outdoor athletic facilities. Cities, counties, and qualified nonprofit organizations must submit proposals for grants or loans from the account. To the extent that funds are available, cities, counties, and qualified nonprofit organizations must meet eligibility criteria as established by the director of the recreation and conservation office. The grants and loans shall be awarded on a competitive application process and the amount of the grant or loan shall be in proportion to the population of the city or county for where the community outdoor athletic facility is located. Grants or loans awarded in any one year need not be distributed in that year.  The director of the recreation and conservation office may expend up to one and one-half percent of the moneys deposited in the account created in this subsection for administrative purposes. During the 2021-2023 fiscal biennium, the legislature may appropriate moneys from the youth athletic facility account to support a task force to consider ways to improve equitable access to K-12 schools' fields and athletic facilities and local parks agency facilities with the goal of increasing physical activity for youth and families. A portion of the appropriation must be used to inventory K-12 school fields and athletic facilities and park agency facilities.During the 2023-2025 fiscal biennium, the director of the recreation and conservation office may expend up to four percent of the moneys deposited in the account created in this subsection for administrative purposes, and expenditures from the account may include grants and loans to political subdivisions of the state other than cities and counties as well as federally recognized Indian tribes.
 
+## Section 7030
+(1) The public works assistance account is hereby established in the state treasury. Money may be placed in the public works assistance account from the proceeds of bonds when authorized by the legislature or from any other lawful source. Money in the public works assistance account shall be used to make loans and grants and to give financial guarantees to local governments for public works projects. Moneys in the account may also be appropriated or transferred to the water pollution control revolving fund and the drinking water assistance account to provide for state match requirements under federal law. Moneys in the account may be transferred to the move ahead WA account to provide support of public works projects funded in the move ahead WA program. Not more than 20 percent of the biennial capital budget appropriation to the public works board from this account may be expended or obligated for preconstruction loans and grants, emergency loans and grants, or loans and grants for capital facility planning under this chapter. Not more than 10 percent of the biennial capital budget appropriation to the public works board from this account may be expended or obligated as grants for preconstruction, emergency, capital facility planning, and construction projects. During the 2017-2019 and 2019-2021 fiscal biennia, the legislature may appropriate moneys from the account for activities related to rural economic development, the growth management act, the aviation revitalization loan program, the community economic revitalization board broadband program, and the voluntary stewardship program. During the 2021-2023 biennium and 2023-2025 fiscal biennia, the legislature may appropriate moneys from the account for activities related to the community aviation revitalization board. During the 2019-2021 fiscal biennia, the legislature may direct the state treasurer to make transfers of moneys in the public works assistance account to the education legacy trust account. During the 2019-2021 and 2021-2023 fiscal biennia, the legislature may direct the state treasurer to make transfers of moneys in the public works assistance account to the statewide broadband account. The legislature may appropriate moneys from the public works assistance account for activities related to the voluntary stewardship program, rural economic development, and the growth management act. During the 2021-2023 biennium, the legislature may appropriate moneys from the account for projects identified in section 1033, chapter 296, Laws of 2022.
+
 ## Section 7031
 Appropriations in this act from the Washington housing crisis response account and the Washington housing crisis taxable response account are contingent upon enactment of Z-0217 (reducing homelessness) and subsequent approval by voters of Z-0217 (reducing homelessness). If the bill is not enacted by June 30, 2023, or not approved by voters in the subsequent general election, the appropriations are null and void.
 
 ## Section 7032
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 7033
+Except for section 7022 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

@@ -136,3 +136,6 @@ The legislature intends to appropriate a minimum of 10 percent of all bonds auth
 
 ## Section 19
 This act may be known and cited as the Washington water act.
+
+## Section 21
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

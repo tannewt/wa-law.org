@@ -5,6 +5,9 @@
 ## Section 1
 The legislature finds and declares that gun violence is a threat to the public health and safety of Washingtonians. Assault weapons are civilian versions of weapons created for the military and are designed to kill humans quickly and efficiently. For this reason the legislature finds that assault weapons are "like" "M-16 rifles" and thus are "weapons most useful in military service." Assault weapons have been used in the deadliest mass shootings in the last decade. An assailant with an assault weapon can hurt and kill twice the number of people than an assailant with a handgun or nonassault rifle. This is because the additional features of an assault weapon are not "merely cosmetic"; rather, these are features that allow shooters to fire large numbers of rounds quickly. An analysis of mass shootings that result in four or more deaths found that 85 percent of those fatalities were caused by an assault weapon. The legislature also finds that this regulation is likely to have an impact on the number of mass shootings committed in Washington. Studies have shown that during the period the federal assault weapon ban was in effect, mass shooting fatalities were 70 percent less likely to occur. Moreover, the legislature finds that assault weapons are not suitable for self-defense and that studies show that assault weapons are statistically not used in self-defense. The legislature finds that assault weapons are not commonly used in self-defense and that any proliferation is not the result of the assault weapon being well-suited for self-defense, hunting, or sporting purposes. Rather, increased sales are the result of the gun industry's concerted efforts to sell more guns to a civilian market. The legislature finds that the gun industry has specifically marketed these weapons as "tactical," "hyper masculine," and "military style" in manner that overtly appeals to troubled young men intent on becoming the next mass shooter. The legislature intends to limit the prospective sale of assault weapons, while allowing existing legal owners to retain the assault weapons they currently own.
 
+## Section 2
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
 ## Section 3
 1. No person in this state may manufacture, import, distribute, sell, or offer for sale any assault weapon, except as authorized in this section.
 
@@ -27,3 +30,6 @@ The legislature finds and declares that gun violence is a threat to the public h
 
 ## Section 5
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 6
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

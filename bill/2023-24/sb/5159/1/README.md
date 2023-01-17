@@ -119,3 +119,9 @@
 7. In meeting the update requirements of subsection (2) of this section, all local governments subject to the requirements of this chapter that have not developed or amended master programs on or after March 1, 2002, shall, no later than December 1, 2014, develop or amend their master programs to comply with guidelines adopted by the department after January 1, 2003.
 
 8. In meeting the review requirements of subsection (4) of this section, local governments may be provided an additional year beyond the deadlines in this section to complete their master program or amendment. The department shall grant the request if it determines that the local government is likely to adopt or amend its master program within the additional year.
+
+## Section 3
+Section 1 of this act expires July 1, 2025.
+
+## Section 4
+Section 2 of this act takes effect July 1, 2025.

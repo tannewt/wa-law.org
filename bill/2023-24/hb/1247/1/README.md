@@ -339,3 +339,9 @@ The definitions in this section apply throughout this chapter unless the context
 3. In addition to the authority to discipline license holders, the disciplining authority has the authority to grant or deny licenses. The disciplining authority may also grant a license subject to conditions.
 
 4. All disciplining authorities shall adopt procedures to ensure substantially consistent application of this chapter, the uniform disciplinary act, among the disciplining authorities listed in subsection (2) of this section.
+
+## Section 12
+Section 9 of this act expires October 1, 2023.
+
+## Section 13
+Section 10 of this act takes effect October 1, 2023.

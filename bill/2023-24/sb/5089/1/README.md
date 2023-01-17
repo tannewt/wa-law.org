@@ -9,6 +9,9 @@ The members of the advisory board shall be representative of consumers, the regu
 
 The chief inspector or any person acting as chief inspector for the factory assembled structures, manufactured or mobile home, commercial coach, conversion vending units, medical units, recreational vehicle, and park trailer section shall serve as secretary of the board during his tenure as chief. Meetings of the board shall be called at the discretion of the director of labor and industries, but at least quarterly. Each member of the board shall be paid travel expenses in accordance with RCW 43.03.050 and 43.03.060 which shall be paid out of the appropriation to the department of labor and industries, upon vouchers approved by the director of labor and industries or his or her designee.
 
+## Section 2
+The purpose of this chapter is to ensure that all mobile and manufactured and mobile homes are installed by a certified manufactured home installer in accordance with the state installation code requirements, chapter 296-150B 296-150I WAC, in order to provide greater protections to consumers and make the warranty requirement of RCW 46.70.134 easier to achieve.
+
 ## Section 3
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
 

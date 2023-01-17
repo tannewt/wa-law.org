@@ -250,3 +250,12 @@ In conducting business temporarily at a location other than the building designa
 2. A dealer shall charge a purchaser or transferee a background check fee in an amount determined by the Washington state patrol and remit the proceeds from the fee to the Washington state patrol on a monthly basis. The background check fee does not apply to any background check conducted in connection with a pawnbroker's receipt of a pawned firearm or the redemption of a pawned firearm.
 
 3. This section does not apply to sales or transfers to licensed dealers or to the sale or transfer of an antique firearm.
+
+## Section 8
+2019 c 244 s 1 is repealed.
+
+## Section 9
+Sections 5 through 7 of this act take effect January 1, 2024.
+
+## Section 10
+Sections 1 and 3 of this act expire January 1, 2024.

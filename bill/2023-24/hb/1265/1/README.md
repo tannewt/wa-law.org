@@ -23,6 +23,9 @@
 
 4. If the real or personal property for which exemption is sought is leased, the benefit of the exemption must inure to the nonprofit organization, corporation, or association leasing the property to provide the housing for  persons with developmental disabilities.
 
+## Section 2
+(1) In order to qualify for an exemption under this chapter, the nonprofit organizations, associations, or corporations must satisfy the conditions in this section.
+
 ## Section 3
 1. In order to qualify for an exemption under this chapter, the nonprofit organizations, associations, or corporations must satisfy the conditions in this section.
 
@@ -73,3 +76,9 @@ This act applies to taxes levied for collection beginning January 1, 2024.
 
 ## Section 5
 RCW 82.32.805 and 82.32.808 do not apply to this act.
+
+## Section 6
+Section 2 of this act expires January 1, 2033.
+
+## Section 7
+Section 3 of this act takes effect January 1, 2033.

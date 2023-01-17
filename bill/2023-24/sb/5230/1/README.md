@@ -11,6 +11,9 @@ Despite this promising data, young people in foster care still experience barrie
 
 Therefore, the legislature resolves to reduce barriers that young people currently experience when seeking to participate in extended foster care and to make the transition from foster care to extended foster care as seamless as possible, such that all dependent youth are aware of the program when they turn 18 and all youth who want to participate are able to participate. The legislature further resolves to enact support services for youth aging out of extended foster care to ensure they have the support needed to be successfully independent and productive young adults.
 
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 3
 1. In order to facilitate the delivery of extended foster care services, the court, upon the agreement of the youth to participate in the extended foster care program, shall maintain the dependency proceeding for any youth who is dependent at the age of 18 years until the youth turns 21 or withdraws their agreement to participate.
 
@@ -53,6 +56,9 @@ Therefore, the legislature resolves to reduce barriers that young people current
     e. The youth's overall progress toward transitioning to full independence and the projected date for achieving such transition.
 
 9. Prior to the review hearing, the youth's attorney shall indicate whether there are any contested issues and may provide additional information necessary for the court's review.
+
+## Section 4
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 ## Section 5
 1. The department shall develop, administer, supervise, and monitor a coordinated and comprehensive plan that establishes, aids, and strengthens services for the protection and care of runaway, dependent, or neglected children.

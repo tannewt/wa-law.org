@@ -60,6 +60,11 @@ def get_db(readonly=False):
                     "FOREIGN KEY(biennium_rowid) REFERENCES bienniums(rowid)"
                     "UNIQUE(name)"
                 ")")
+
+    db.execute("CREATE TABLE IF NOT EXISTS people("
+                    "first_name text,"
+                    "last_name text"
+                ")")
     # TODO: Split bills from revisions (this is more revisions) and add source url.
     # db.execute(("DROP TABLE IF EXISTS bills"))
     # Bills live for a biennium.
@@ -68,7 +73,11 @@ def get_db(readonly=False):
                     "prefix text,"
                     "number integer,"
                     "previous_version int,"
+                    "sponsor_rowid int,"
+                    "companion_bill int,"
                     "FOREIGN KEY(previous_version) REFERENCES bills(rowid),"
+                    "FOREIGN KEY(sponsor_rowid) REFERENCES people(rowid),"
+                    "FOREIGN KEY(companion_bill) REFERENCES bills(rowid),"
                     "UNIQUE(biennium_rowid, number)"
                     ")"))
     db.execute(("CREATE TABLE IF NOT EXISTS revisions("
@@ -118,7 +127,7 @@ def get_db(readonly=False):
                 "FOREIGN KEY(meeting_rowid) REFERENCES meetings(rowid),"
                 "UNIQUE(caId)"
                 ")"))
-    db.execute("DROP TABLE IF EXISTS testifiers")
+    # db.execute("DROP TABLE IF EXISTS testifiers")
     # db.execute("DROP TABLE IF EXISTS positions")
     db.execute("CREATE TABLE IF NOT EXISTS positions (position text, UNIQUE(position))")
     db.execute(("CREATE TABLE IF NOT EXISTS testifiers ("

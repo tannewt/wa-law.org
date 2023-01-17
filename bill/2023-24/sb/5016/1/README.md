@@ -259,3 +259,6 @@ The provisions of RCW 82.32.805 and 82.32.808 do not apply to sections 10 throug
 
 ## Section 16
 Sections 10 through 14 of this act apply for taxes levied for collection in 2024 and thereafter.
+
+## Section 17
+Sections 10 through 14 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2023.

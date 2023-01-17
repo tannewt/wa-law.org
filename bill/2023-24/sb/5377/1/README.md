@@ -216,3 +216,9 @@ An entity unless formed under the laws of this state; or
     b. "Entity" has the meaning provided in RCW 23.95.105.
 
     c. "Interest" has the meaning provided in RCW 23.95.105.
+
+## Section 4
+Sections 1 and 3 of this act take effect January 1, 2024.
+
+## Section 5
+Section 2 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

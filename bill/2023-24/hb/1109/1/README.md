@@ -76,3 +76,6 @@
     c. One or more representatives from school districts or educational service districts knowledgeable of special education programs and funding.
 
 6. Beginning in the 2019-20 school year, a high-need student is eligible for safety net awards from state funding under subsection (2)(e) and (g) of this section if the student's individualized education program costs exceed two and three-tenths times the average per-pupil expenditure as defined in Title 20 U.S.C. Sec. 7801, the every student succeeds act of 2015.
+
+## Section 4
+Section 3 of this act takes effect July 1, 2026.

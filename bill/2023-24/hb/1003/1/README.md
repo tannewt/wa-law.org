@@ -152,6 +152,9 @@ The council, in consultation with the office of the superintendent of public ins
 
     b. The provisions of RCW 28A.600.310(4) relating to calculation, allocation, and distribution of funds and RCW 28A.600.385 relating to cooperative agreements with community colleges in Oregon and Idaho do not apply to this section.
 
+## Section 7
+(1)(a) Eleventh and twelfth 12th grade students or students who have not yet received the credits required for the award of a high school diploma and are eligible to be in the eleventh 11th or twelfth 12th grades may apply to a participating institution of higher education to enroll in courses or programs offered by the institution of higher education.
+
 ## Section 8
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 

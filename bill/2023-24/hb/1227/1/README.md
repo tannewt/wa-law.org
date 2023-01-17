@@ -136,3 +136,6 @@ If any provision of this act or its application to any person or circumstance is
 
 ## Section 9
 This act may be known and cited as the taxpayer health care fairness act.
+
+## Section 10
+(1) Beginning in November 2012, the department of social and health services, in coordination with the health care authority, shall by November 15th of each year report to the legislature:

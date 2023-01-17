@@ -143,3 +143,6 @@ $105
     c. The commercial salmon fishery license is for a geographical area other than the Puget Sound.
 
 An alternate operator may not be designated for a license renewed at the $100 annual fee under this subsection (7).
+
+## Section 5
+Section 4 this act takes effect January 1, 2025.

@@ -61,6 +61,9 @@ Fees paid when filing for office must be collected by the filing officer and dis
 ## Section 7
 A candidate may withdraw the candidate's declaration of candidacy at any time before 5:00 p.m. on the Monday following the last day for candidates to file under RCW 29A.24.050 by filing, with the officer with whom the declaration of candidacy was filed, a signed request that the candidate's name not be printed on the ballot. There shall be no withdrawal period for declarations of candidacy filed during special filing periods held under this title. No filing fee may be refunded to any candidate who withdraws under this section. Notice of the deadline for withdrawal of candidacy and that the filing fee is not refundable shall be given to each candidate at the time the candidate files.
 
+## Section 8
+The county legislative authority of each county in the state shall divide the county into election precincts and establish the boundaries of the precincts.
+
 ## Section 9
 The secretary may, by rule, set a deadline for submission of candidate statements and photographs for inclusion in the statewide voters' pamphlet. The deadline for submission of candidate statements and photographs must be not sooner than 11 days immediately following the deadline for filing declarations of candidacy under RCW 29A.24.050.
 

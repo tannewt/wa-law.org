@@ -265,3 +265,9 @@ The board, subject to the provisions of this chapter, must adopt rules that esta
 11. In consultation with the department and the department of agriculture, prescribing methods of producing, processing, and packaging cannabis, cannabis concentrates, useable cannabis, and cannabis-infused products; conditions of sanitation; and standards of ingredients, quality, and identity of cannabis, cannabis concentrates, useable cannabis, and cannabis-infused products produced, processed, packaged, or sold by licensees;
 
 12. Specifying procedures for identifying, seizing, confiscating, destroying, and donating to law enforcement for training purposes all cannabis, cannabis concentrates, useable cannabis, and cannabis-infused products produced, processed, packaged, labeled, or offered for sale in this state that do not conform in all respects to the standards prescribed by this chapter or the rules of the board.
+
+## Section 5
+Section 3 of this act expires July 1, 2024.
+
+## Section 6
+Section 4 of this act takes effect July 1, 2024.

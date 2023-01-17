@@ -168,3 +168,12 @@ For the purposes of this subsection, "public or entertainment areas" include box
 
 ## Section 3
 RCW 82.32.805 and 82.32.808 do not apply to this act.
+
+## Section 4
+Section 1 of this act takes effect October 1, 2023.
+
+## Section 5
+Section 1 of this act expires January 1, 2034.
+
+## Section 6
+Section 2 of this act takes effect January 1, 2034.

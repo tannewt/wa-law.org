@@ -43,3 +43,6 @@
     c. Differ from the previous year's annual adjustment by more than three percent.
 
 3. For the purposes of this section, "index" means, for any calendar year, that year's average consumer price index, Seattle, Washington area for urban wage earners and clerical workers, all items, compiled by the bureau of labor statistics, United States department of labor.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

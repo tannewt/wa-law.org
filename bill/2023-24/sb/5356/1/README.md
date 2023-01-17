@@ -268,3 +268,6 @@ Any person who is injured by a material violation of this chapter may institute 
 
 ## Section 9
 Except to the extent an automated decision system utilizes a criterion specifically mandated by state or federal law or regulation, it is an unfair practice under this section for any automated decision system to discriminate against an individual, or to treat an individual less favorably than another, in whole or in part, on the basis of one or more factors enumerated in RCW 49.60.010. For the purposes of this section, "automated decision system" has the same meaning as defined in section 2 of this act.
+
+## Section 11
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

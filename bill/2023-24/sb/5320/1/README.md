@@ -52,3 +52,6 @@
 2. The department shall establish reasonable rules for the examinations to be given applicants for certificates of competency. In establishing the rules, the department shall consult with the board. Upon determination that the applicant is eligible to take the examination, the department shall so notify the applicant, indicating instructions for taking the examination.
 
 3. No noncertified individual may work unsupervised more than one year beyond the date when the trainee would be eligible to test for a certificate of competency if working on a full-time basis after original application for the trainee certificate. For the purposes of this section, "full-time basis" means 2,000 hours.
+
+## Section 2
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

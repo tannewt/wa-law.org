@@ -79,5 +79,11 @@ This chapter is not intended to limit the legislature's ability to appropriate b
 2. If any bonds authorized in this chapter have not been issued by June 30, 2024, the authority of the state finance committee to issue such remaining unissued bonds expires June 30, 2024.
 
 ## Section 401
+## Section 402
+Sections 101 through 105 and 201 through 205 of this act are each added to chapter 43.100A RCW.
+
 ## Section 403
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 404
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

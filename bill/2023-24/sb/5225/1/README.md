@@ -153,3 +153,9 @@ $165
 6. The department must adopt rules to implement this section, including an income phase-out eligibility period.
 
 7. This section does not apply to households eligible for the working connections child care program under RCW 43.216.145 and section 2 of this act.
+
+## Section 5
+(1) Existing child care providers serving nonschool-age children and receiving state subsidy payments must complete the following requirements to be eligible for a state subsidy under this section:
+
+## Section 6
+Section 3 of this act takes effect October 1, 2023.

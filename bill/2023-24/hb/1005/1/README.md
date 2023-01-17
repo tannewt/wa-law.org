@@ -77,3 +77,6 @@ The legislature recognizes that the impacts of the COVID-19 pandemic on veterans
 
 ## Section 4
 RCW 82.32.808 does not apply to this act.
+
+## Section 5
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

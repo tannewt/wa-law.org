@@ -107,3 +107,6 @@ June 30, 1996
 10. If the supervisor of industrial insurance determines that the worker is voluntarily retired and is no longer attached to the workforce, benefits shall not be paid under this section.
 
 11. The department shall adopt rules as necessary to implement this section.
+
+## Section 3
+This act takes effect July 1, 2024.

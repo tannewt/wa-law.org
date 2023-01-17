@@ -82,3 +82,6 @@ The owner of a rental housing unit may not end a tenancy or evict a tenant from 
 
 ## Section 7
 The department may adopt any rules necessary to implement this chapter.
+
+## Section 8
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.

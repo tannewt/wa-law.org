@@ -381,3 +381,18 @@ Collections of unpaid citations assessing civil penalties will be pursuant to RC
 
 ## Section 14
 The department of labor and industries may adopt and implement rules to carry out and enforce the provisions of this chapter, including but not limited to protecting employees from retaliation for filing complaints under this chapter.
+
+## Section 15
+2017 c 249 s 4 (uncodified) is repealed.
+
+## Section 17
+RCW 70.41.410, 70.41.420, and 70.41.425 are each recodified as sections in chapter 49.--- RCW (the new chapter created in section 16 of this act).
+
+## Section 18
+RCW 49.12.480, 49.28.130, 49.28.140, and 49.28.150 are each recodified as sections in chapter 49.--- RCW (the new chapter created in section 16 of this act).
+
+## Section 19
+Except for section 15 of this act, this act takes effect January 1, 2024.
+
+## Section 20
+Section 15 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 1, 2023.

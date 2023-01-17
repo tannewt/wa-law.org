@@ -21,3 +21,6 @@
     c. At least five of the points in the person's offender score result from any combination of the following felony offenses: Residential burglary; burglary in the second degree; theft in the first degree; theft in the second degree; theft of a firearm; unlawful issuance of checks or drafts; organized retail theft; theft with special circumstances; or mail theft; or
 
     d. The person has committed three or more property crime offenses within 180 days.
+
+## Section 3
+(1) The provisions of this section apply to the standard sentence ranges determined by RCW 9.94A.510 or 9.94A.517.

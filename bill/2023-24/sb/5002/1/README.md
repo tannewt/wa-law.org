@@ -338,3 +338,6 @@ If a deferred prosecution is revoked based on a subsequent conviction for an off
 7. The person tested may have a licensed or certified health care provider listed in subsection (5) of this section, or a qualified technician, chemist, or other qualified person of his or her own choosing administer one or more tests in addition to any administered at the direction of a law enforcement officer. The test will be admissible if the person establishes the general acceptability of the testing technique or method. The failure or inability to obtain an additional test by a person shall not preclude the admission of evidence relating to the test or tests taken at the direction of a law enforcement officer.
 
 8. Upon the request of the person who shall submit to a test or tests at the request of a law enforcement officer, full information concerning the test or tests shall be made available to him or her or his or her attorney.
+
+## Section 6
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -146,3 +146,5 @@ The freight mobility investment account is hereby created in the state treasury.
 The freight mobility multimodal account is created in the state treasury. Money in the account may be spent only after appropriation. Expenditures from the account may be used only for freight mobility projects that have been recommended by the freight mobility strategic investment board in RCW 47.06A.020 and may include any principal and interest on bonds authorized for the projects or improvements.
 
 ## Section 10
+## Section 11
+(1) RCW 47.06A.080 is recodified as a section in chapter 53.20 RCW.

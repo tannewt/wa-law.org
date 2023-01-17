@@ -23,3 +23,6 @@
     b. "Rural electric cooperative" means a nonprofit, customer-owned organization that provides utility services to rural areas.
 
 3. This section expires January 1, 2034.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

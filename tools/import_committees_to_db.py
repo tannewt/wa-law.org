@@ -15,7 +15,8 @@ FORCE_FETCH = False
 
 for start_year in range(2023, 2025, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
-    cur.execute("INSERT OR IGNORE INTO sessions VALUES (?, ?)", (start_year, str(start_year)))
+    cur.execute("SELECT rowid FROM bienniums WHERE name = ?", (biennium,))
+    biennium_rowid = cur.fetchone()[0]
     cur.execute("SELECT rowid FROM sessions WHERE name = ?", (str(start_year),))
     session_rowid = cur.fetchone()[0]
     print(biennium)
@@ -31,7 +32,7 @@ for start_year in range(2023, 2025, 2):
         meetings = meetings_by_bill[bill_number]
         meetings.sort(key=lambda x: x[0])
 
-        cur.execute("SELECT rowid FROM bills WHERE id = ? AND session_rowid = ?", (bill_number, session_rowid))
+        cur.execute("SELECT rowid FROM bills WHERE number = ? AND biennium_rowid = ?", (bill_number, biennium_rowid))
         bill_rowid = cur.fetchone()
         if bill_rowid is None:
             print("skipping", bill_number)
@@ -73,21 +74,24 @@ for start_year in range(2023, 2025, 2):
             cur.execute("INSERT OR IGNORE INTO meetings(mId, committee_rowid, start_time, notes) VALUES (?, ?, ?, ?)", (mId, committee_rowid, dt.datetime, meeting.Notes.text))
             cur.execute("SELECT rowid FROM meetings WHERE mId = ?;", (mId,))
             meeting_rowid = cur.fetchone()[0]
+            db.commit()
 
             # Look back in our fetch history if the latest page doesn't have any items. They
             # disappear after a meeting happens.
             items = []
             history_index = -1
+            url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={mId}"
             while not items:
-                url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={agendaId}"
                 response = requests.get(url, fetch_again=FORCE_FETCH, index=history_index)
                 if not response:
+                    print(url)
                     break
                 history_index -= 1
                 xml_items = BeautifulSoup(response.decode("utf-8"), "lxml")
                 for item in xml_items.find_all(class_="agendaItem"):
                     chamber, mId, aId, caId = [x.strip(" ')") for x in item["onclick"].split(",")[1:]]
                     items.append(AgendaItem(agendaId, mId, aId, caId, item.text))
+
 
             for item in items:
                 if bill_number not in item.text:

@@ -157,3 +157,9 @@ Fiscal Year ending:
 9. Beginning September 1, 2024, and ending August 31, 2029, a contribution rate of 0% shall supersede the portion of the employer contribution rate for the teachers' retirement system that is used for the sole purpose of amortizing that portion of the unfunded actuarial accrued liability in the teachers' retirement system plan 1 that excludes any amounts required to amortize plan 1 benefit improvements effective after June 30, 2009.
 
 10. Upon completion of each biennial actuarial valuation, the state actuary shall review the appropriateness of establishing, removing, or adjusting minimum contribution rates and recommend to the council any adjustments as may be needed due to material changes in benefits or actuarial assumptions, methods, or experience. Any changes adopted by the council shall be subject to revision by the legislature.
+
+## Section 3
+2021 c 334 s 747 (uncodified) is repealed.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 30, 2023.

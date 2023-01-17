@@ -122,3 +122,6 @@ By October 1, 2026, the department of licensing, after consultation with insurer
 
 ## Section 7
 The department of licensing must adopt rules necessary to implement an online, common carrier-based motor vehicle insurance verification system required under this act. In adopting such rules, the department must consider guidelines and standards for such verification systems developed by the insurance industry committee on motor vehicle administration.
+
+## Section 8
+Sections 1 through 6 of this act take effect January 1, 2024.

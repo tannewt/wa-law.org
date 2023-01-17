@@ -41,3 +41,6 @@
         iii. An analysis of the pilot program that identifies the resources and tools needed to ensure the long-term sustainability of the program including estimates for the appropriate level of staffing, capital, and operational and maintenance efforts needed for the program to continue operating; and
 
         iv. Recommendations on potential funding and resource options that, at minimum, include federal funding opportunities, grants and loans, corporate and civic donations, as well as state funding, if necessary.
+
+## Section 3
+This act expires August 1, 2027.

@@ -16,6 +16,9 @@ The legislature further finds that state investments in affordable housing, as e
 ## Section 2
 There is hereby created in the state treasury an account to be known as the Washington housing trust fund. The housing trust fund shall include revenue from the sources established by this chapter, appropriations by the legislature, private contributions, repayment of loans, and all other sources.
 
+## Section 3
+(1) The department must use moneys from the housing trust fund and other legislative appropriations to finance in whole or in part any loans or grant projects that will provide affordable housing for persons and families with special housing needs and with incomes at or below fifty percent of the median family income for the county or standard metropolitan statistical area where the project is located who are low-income households.
+
 ## Section 4
 1. During each calendar year in which funds from the housing trust fund or other legislative appropriations are available for use by the department for the affordable housing  program, the department must announce to all known interested parties, and on its website, a grant and loan application period of at least 60 days' duration. This announcement must be made as often as the director deems appropriate for proper utilization of resources. The department must then promptly grant as many applications as will utilize available funds less appropriate administrative costs of the department as provided in RCW 43.185.050 (as recodified by this act).
 
@@ -411,5 +414,8 @@ The department of commerce may receive such gifts, grants, or endowments from pu
     c. A failure of the transferor or transferee to report the sale under RCW 82.45.090(2).
 
 6. Penalties collected on taxes due under this chapter under subsection (2) of this section and RCW 82.32.090 (2) through (8) must be deposited in the housing trust fund as described in chapter 43.185A RCW.
+
+## Section 26
+(1) RCW 43.185.010, 43.185.030, 43.185.050, 43.185.070, 43.185.074, and 43.185.080 are each recodified as sections in chapter 43.185A RCW.
 
 ## Section 27

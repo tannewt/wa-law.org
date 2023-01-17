@@ -152,3 +152,6 @@ The commissioners of any county may authorize a change to their electoral system
 
 ## Section 13
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 14
+This act takes effect January 1, 2024.

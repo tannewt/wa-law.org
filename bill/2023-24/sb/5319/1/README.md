@@ -175,3 +175,6 @@ The definitions in this section apply throughout this chapter unless the context
 
 ## Section 8
 The insurance commissioner may adopt rules as necessary to implement and administer this chapter.
+
+## Section 10
+This act takes effect January 1, 2024.

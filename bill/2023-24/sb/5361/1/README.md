@@ -31,3 +31,6 @@
     c. "National commissioned rate per 1,000 population" means the total full-time commissioned law enforcement officers for all agencies, divided by the total agency population, and multiplied by 1,000.
 
     d. "Uniform crime program" means the federal law enforcement reporting and statistics program operated by the criminal justice information services division of the federal bureau of investigation.
+
+## Section 3
+(1) All law enforcement personnel, except volunteers, and reserve officers whether paid or unpaid, initially employed on or after January 1, 1978, shall engage in basic law enforcement training which complies with standards adopted by the commission pursuant to RCW 43.101.080. For personnel initially employed before January 1, 1990, such training shall be successfully completed during the first fifteen months of employment of such personnel unless otherwise extended or waived by the commission and shall be requisite to the continuation of such employment. Personnel initially employed on or after January 1, 1990, shall commence basic training during the first six months of employment unless the basic training requirement is otherwise waived or extended by the commission. Successful completion of basic training is requisite to the continuation of employment of such personnel initially employed on or after January 1, 1990.

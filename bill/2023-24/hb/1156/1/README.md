@@ -55,3 +55,6 @@ The legislature intends to create this act in order to ensure students have adva
 11. The Washington college grant is intended to be used to meet the costs of postsecondary education for students with financial need. The student shall be awarded all need-based financial aid for which the student qualifies as determined by the institution.
 
 12. Students and participating institutions of higher education shall comply with all the rules adopted by the council for the administration of this chapter.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

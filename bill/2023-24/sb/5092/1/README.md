@@ -135,3 +135,6 @@
 5. This section is supported by the revenues generated in RCW 46.17.324, and therefore takes effect only if RCW 46.17.324 is enacted by June 30, 2019.
 
 6. This section expires August 1, 2028.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5147.pdf)
 
+## Section 1
+The sum of $5,000,000, or as much thereof as may be necessary, is appropriated for the fiscal biennium ending June 30, 2024, from the general fund to the department of social and health services for the establishment of a grant program to expand the use of air conditioning in adult family homes that are serving individuals whose services are funded through medicaid or state funded long-term care programs.
+
 ## Section 2
 1. A qualifying adult family home may receive up to $5,000 in grant funding. Grants must be used for one-time costs associated with equipping and installing portable air conditioning units in resident's bedrooms and common areas, or updating the adult family home's heating, ventilation, and air conditioning system to include air conditioning.
 
@@ -54,3 +57,6 @@
 13. The department shall establish, by rule, the circumstances requiring a change in the licensed provider, which include, but are not limited to, a change in ownership or control of the adult family home or provider, a change in the provider's form of legal organization, such as from sole proprietorship to partnership or corporation, and a dissolution or merger of the licensed entity with another legal organization. The new provider is subject to the provisions of this chapter, the rules adopted under this chapter, and other applicable law. In order to ensure that the safety of residents is not compromised by a change in provider, the new provider is responsible for correction of all violations that may exist at the time of the new license.
 
 14. Any application received by the department on or after July 1, 2025, for a new adult family home license shall demonstrate that the home has air conditioning or another cooling system. In implementing this requirement, the department shall consult with consumers, advocates, and organizations representing adult family homes.
+
+## Section 5
+Sections 1 through 3 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect immediately.

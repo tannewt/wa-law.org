@@ -22,3 +22,6 @@
     f. The basic principles and standards to guide the commission in administering and implementing this section.
 
 4. Where the commission determines and certifies that the provisions of this section or its implementing rules and regulations are violated or determines a contractor or subcontractor is engaging in practices made unlawful under this part, the commission may recommend appropriate sanctions to the awarding agency. Any such recommendation must take into consideration the severity of the violation or violations and any other penalties, sanctions, or remedies previously imposed.
+
+## Section 2
+This act takes effect January 1, 2024.

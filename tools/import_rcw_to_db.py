@@ -37,8 +37,9 @@ for title in titles:
     info = titles[title]
     print("title", title, info["title"])
     cur = db.cursor()
-    cur.execute("INSERT INTO titles VALUES (?, ?)", (title, info["title"]))
-    title_rowid = cur.lastrowid
+    cur.execute("INSERT OR IGNORE INTO titles VALUES (?, ?)", (title, info["title"]))
+    cur.execute("SELECT rowid FROM titles WHERE title_number = ?", (title,))
+    title_rowid = cur.fetchone()[0]
     db.commit()
     title_page = requests.get(rcw_root_url + info["link"], fetch_again=FORCE_FETCH).decode("utf-8")
     soup = BeautifulSoup(title_page, 'html.parser')
@@ -49,8 +50,9 @@ for title in titles:
         data = row.find_all("td")
         chapter_number = link.text.strip().split(".")[1]
         chapter_title = data[1].text.strip()
-        cur.execute("INSERT INTO chapters VALUES (?, ?, ?)", (title_rowid, chapter_number, chapter_title))
-        chapter_rowid = cur.lastrowid
+        cur.execute("INSERT OR IGNORE INTO chapters VALUES (?, ?, ?)", (title_rowid, chapter_number, chapter_title))
+        cur.execute("SELECT rowid FROM chapters WHERE title_rowid = ? AND chapter_number = ?", (title_rowid, chapter_number))
+        chapter_rowid = cur.fetchone()[0]
         db.commit()
         info["chapters"][link.text.strip()] = {"link": link["href"] + "&full=true",
                                                "title": data[1].text.strip(),
@@ -81,9 +83,6 @@ for title in titles:
             citations = []
             section_info[number] = {"title": name, "body": full_text, "citations": citations}
             print(number, name)
-            # if number == "35A.80.010":
-            #     print(section)
-            #     print("full", full_text)
             if len(divs) == full_div + 1:
                 continue
             full_citations = divs[full_div+1].text
@@ -130,13 +129,16 @@ for title in titles:
                             cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (pieces[0],))
                             session_rowid = cur.fetchone()[0]
                             if latest_session is None:
-                                latest_session = session_rowid
+                                latest_session = (session_rowid, pieces)
                         except ValueError:
                             pass
                     else:
                         print(c)
                     chapter_citation = c.split("§")[0].strip()
                     all_citations.add(chapter_citation)
+
+            print(latest_session)
+            print(full_text)
 
             # print()
     # print(titles)

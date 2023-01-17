@@ -35,5 +35,8 @@ The state may not deny or interfere with a woman's right to choose to have an ab
 
 A physician, physician assistant, advanced registered nurse practitioner, or other health care provider acting within the provider's scope of practice may terminate and a health care provider may assist a physician, physician assistant, advanced registered nurse practitioner, or other health care provider acting within the provider's scope of practice in terminating a pregnancy as permitted by this section.
 
+## Section 4
+For purposes of this chapter: The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 5
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

@@ -87,6 +87,9 @@
 
 The  board may work with local county health departments or districts and local law enforcement agencies to conduct random, unannounced, inspections to assure compliance.
 
+## Section 4
+(1) The youth tobacco and vapor products prevention account is created in the state treasury. All fees collected pursuant to RCW 70.155.100(3)(b), 82.24.520, 82.24.530, 82.26.160, and 82.26.170 and funds collected by the liquor and cannabis board from the imposition of monetary penalties shall be deposited into this account, except that ten 10 percent of all such fees and penalties shall be deposited in the state general fund.
+
 ## Section 5
 1. The board must have, in addition to the board's other powers and authorities, the authority to enforce the provisions of this chapter.
 

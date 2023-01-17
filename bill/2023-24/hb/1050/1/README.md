@@ -94,3 +94,6 @@
 8. All contracts subject to this section must include specifications that a contractor or subcontractor may not be required to exceed the apprenticeship utilization requirements of this section.
 
 9. This section establishes the minimum apprenticeship utilization requirements on public works contracts awarded by a municipality. Any standards or requirements relating to apprenticeship utilization established by any applicable local law or ordinance that are more favorable to apprentices than the minimum requirements under this section are not affected by this section and those more favorable laws apply and may be enforced as provided by law.
+
+## Section 2
+Section 1 of this act takes effect July 1, 2024.

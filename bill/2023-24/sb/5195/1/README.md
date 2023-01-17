@@ -43,3 +43,6 @@ It is unlawful to:
     b. The director shall assess a civil penalty ranging from $100 to $10,000 per occurrence, giving due consideration to the appropriateness of the penalty with respect to the gravity of the violation, and the history of previous violations. Civil penalties collected under this chapter shall be deposited into the motor vehicle fund.
 
 2. The penalties in subsection (1)(a) of this section do not apply to violations of RCW 19.112.020(4), 19.112.110, and 19.112.120.
+
+## Section 5
+This act takes effect January 1, 2024.

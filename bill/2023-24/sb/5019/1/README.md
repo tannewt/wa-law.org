@@ -639,3 +639,9 @@ classified staff$6.04
     c. The enrollment of any district shall be the annual average number of full-time equivalent students and part-time students as provided in RCW 28A.150.350, enrolled on the first school day of each month, including students who are in attendance pursuant to RCW 28A.335.160 and 28A.225.250 who do not reside within the servicing school district. The definition of full-time equivalent student shall be determined by rules of the superintendent of public instruction and shall be included as part of the superintendent's biennial budget request. The definition shall be based on the minimum instructional hour offerings required under RCW 28A.150.220. Any revision of the present definition shall not take effect until approved by the house ways and means committee and the senate ways and means committee.
 
     d. The office of financial management shall make a monthly review of the superintendent's reported full-time equivalent students in the common schools in conjunction with RCW 43.62.050.
+
+## Section 3
+Section 1 of this act expires September 1, 2024.
+
+## Section 4
+Section 2 of this act takes effect September 1, 2024.

@@ -43,6 +43,9 @@ The definitions in this section apply throughout this chapter unless the context
 
 13. "Produce" or "production" means the planting, cultivation, growing, or harvesting of hemp including hemp seed.
 
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 3
 1. Licensed cannabis producers and licensed cannabis processors may use a CBD product as an additive for the purpose of enhancing the cannabidiol concentration of any product authorized for production, processing, and sale under this chapter. Except as otherwise provided in subsection (2) of this section, such CBD product additives must be lawfully produced by, or purchased from, a producer or processor licensed under this chapter.
 

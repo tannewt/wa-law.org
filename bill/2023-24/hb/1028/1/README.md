@@ -546,3 +546,5 @@ The receiving centers established under this section shall:
 2. If a victim, survivor of a victim, or witness of a crime is denied a right enumerated in this section, he or she may seek an order directing compliance by the relevant party or parties by filing a petition in the superior court in the county in which the crime occurred and providing notice of such petition to the relevant party or parties. Compliance with the right is the sole available remedy. The court shall expedite consideration of a petition filed under this subsection.
 
 ## Section 20
+## Section 21
+Section 10 of this act takes effect July 1, 2024.

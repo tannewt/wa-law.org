@@ -112,3 +112,15 @@ The self-insured employer overpayment reimbursement fund is created in the custo
 
 ## Section 13
 The director is authorized to make periodic temporary interfund transfers between the reserve, self-insurance reserve, and supplemental pension funds as may be necessary to provide for payments from the supplemental pension fund as prescribed in this title. At least once annually, the director shall cause an audit to be made of all pension funds administered by the department to insure that proper crediting of funds has been made, and further to direct transfers between the funds for any interfund loans which may have been made in the preceding year and not fully reimbursed.
+
+## Section 14
+Section 2 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.
+
+## Section 15
+Section 2 of this act expires July 1, 2024.
+
+## Section 16
+Section 3 of this act takes effect July 1, 2024.
+
+## Section 17
+Sections 1 and 4 through 13 of this act take effect July 1, 2025.

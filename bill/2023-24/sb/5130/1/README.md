@@ -768,3 +768,12 @@ Unless the context clearly requires otherwise, the definitions in this section a
 9. A petition for assisted outpatient treatment must be filed on forms developed by the administrative office of the courts.
 
 10. This section shall not apply to a minor who is currently detained for involuntary treatment under RCW 71.34.740 or 71.34.750.
+
+## Section 12
+Sections 3, 7, and 9 of this act expire July 1, 2026.
+
+## Section 13
+Sections 4, 8, and 10 of this act take effect July 1, 2026.
+
+## Section 14
+(1) Sections 64 and 81, chapter 302, Laws of 2020 and, until July 1, 2022, section 27, chapter 264, Laws of 2021 and, beginning July 1, 2022, section 28, chapter 264, Laws of 2021, and section 6, chapter . . ., Laws of 2023 (section 6 of this act) take effect when the average wait time for children's long-term inpatient placement admission is 30 days or less for two consecutive quarters.

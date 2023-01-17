@@ -149,6 +149,12 @@ Notwithstanding the limitation set forth in RCW 84.55.010, the first levy for a 
 
 5. Any increase in the assessed value of real property, as defined in RCW 39.114.010, within an increment area as designated by any local government under RCW 39.114.020 if the increase is not included elsewhere under this section. This subsection (5) does not apply to levies by the state or by port districts and public utility districts for the purpose of making required payments of principal and interest on general indebtedness.
 
+## Section 10
+Sections 3 and 5 of this act expire January 1, 2027.
+
+## Section 11
+Sections 4 and 6 of this act take effect January 1, 2027.
+
 ## Section 12
 Sections 2 and 7 through 9 of this act apply to taxes levied for collection in 2024 and thereafter.
 

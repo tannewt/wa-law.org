@@ -121,6 +121,9 @@ The student achievement council, in consultation with the office of the superint
 
 4. The office of the superintendent of public instruction, in consultation with the state board for community and technical colleges, the participating institutions of higher education, the student achievement council, and the education data center, must annually track, and report to the fiscal committees of the legislature, the combined full-time equivalent experience of students participating in running start programs, including course load analyses and enrollments by high school and participating institutions of higher education.
 
+## Section 6
+(1) Every school district must allow eligible students as described in subsection (2) of this section to participate in the running start program.
+
 ## Section 7
 The superintendent of public instruction, the state board for community and technical colleges, and the student achievement council shall jointly develop and adopt rules governing RCW 28A.600.300 through 28A.600.380 and section 5 of this act, if rules are necessary. The rules shall be written to encourage the maximum use of the program and shall not narrow or limit the enrollment options under RCW 28A.600.300 through 28A.600.380.
 

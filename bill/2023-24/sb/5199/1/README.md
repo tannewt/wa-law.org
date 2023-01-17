@@ -250,3 +250,6 @@ Notwithstanding RCW 35.102.130, a city that imposes a business and occupation ta
 4. If a review finds that the tax preference accomplishes its goal of supporting local journalism across the state, measured by retaining 75 percent of the journalism jobs, local newspapers, and community-focused online news outlets based in Washington as of December 31, 2022, or if a review finds that the tax preference enables locally based journalism outlets to continue to exist when compared to states that did not provide similar tax incentives, then the legislature intends to extend the expiration date of this tax preference.
 
 5. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may refer to any data collected by the state.
+
+## Section 8
+This act takes effect January 1, 2024.

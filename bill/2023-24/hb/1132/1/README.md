@@ -2,6 +2,12 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1132.pdf)
 
+## Section 1
+When used in this chapter:
+
+## Section 2
+(1) All Except as provided in subsection (2) of this section, all law enforcement personnel, except volunteers, and reserve officers whether paid or unpaid, initially employed on or after January 1, 1978, shall engage in basic law enforcement training which complies with standards adopted by the commission pursuant to RCW 43.101.080. For personnel initially employed before January 1, 1990, such training shall be successfully completed during the first fifteen months of employment of such personnel unless otherwise extended or waived by the commission and shall be requisite to the continuation of such employment. Personnel initially employed on or after January 1, 1990, shall commence basic training during the first six months of employment unless the basic training requirement is otherwise waived or extended by the commission. Successful completion of basic training is requisite to the continuation of employment of such personnel initially employed on or after January 1, 1990.
+
 ## Section 3
 1. As a condition of employment, all Washington peace officers and corrections officers are required to obtain certification as a peace officer or corrections officer or exemption therefrom and maintain certification as required by this chapter and the rules of the commission.
 

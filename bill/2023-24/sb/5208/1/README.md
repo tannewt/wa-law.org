@@ -28,3 +28,6 @@ may submit a voter registration application electronically on the secretary of s
 6. For each electronic application, the secretary of state must obtain a digital copy of the applicant's driver's license or state identification card signature from the department of licensing, the voter, or tribal identification issuing authority.
 
 7. The secretary of state may employ additional security measures to ensure the accuracy and integrity of voter registration applications submitted electronically.
+
+## Section 2
+This act takes effect July 15, 2024.

@@ -60,6 +60,9 @@ The following goals are adopted to guide the development and adoption of compreh
 
 6. If a local jurisdiction's master program does not include land necessary for buffers for critical areas that occur within shorelines of the state, as authorized by RCW 90.58.030(2)(d), then the local jurisdiction shall continue to regulate those critical areas and their required buffers pursuant to RCW 36.70A.060(2).
 
+## Section 3
+The comprehensive plan of a county or city that is required or chooses to plan under RCW 36.70A.040 shall consist of a map or maps, and descriptive text covering objectives, principles, and standards used to develop the comprehensive plan. The plan shall be an internally consistent document and all elements shall be consistent with the future land use map. A comprehensive plan shall be adopted and amended with public participation as provided in RCW 36.70A.140. Each comprehensive plan shall include a plan, scheme, or design for each of the following:
+
 ## Section 4
 1. The requirements of the greenhouse gas emissions reduction subelement of the climate change and resiliency element set forth in RCW 36.70A.070 apply only to those counties that are required or that choose to plan under RCW 36.70A.040 and that also meet either of the criteria set forth in (a) or (b) of this subsection on or after April 1, 2021, and the cities with populations greater than 6,000 as of April 1, 2021, within those counties:
 
@@ -344,3 +347,6 @@ Unless the context clearly requires otherwise, the definitions in this section a
     f. Preserves visual quality along highway, road, or street corridors.
 
 38. "Green infrastructure" means a wide array of natural assets, built structures, and management practices at multiple scales that manage wet weather and that maintain and restore natural hydrology by storing, infiltrating, evapotranspiring, and harvesting and using stormwater.
+
+## Section 15
+(1)(a) Each comprehensive land use plan and development regulations shall be subject to continuing review and evaluation by the county or city that adopted them. Except as otherwise provided, a county or city shall take legislative action to review and, if needed, revise its comprehensive land use plan and development regulations to ensure the plan and regulations comply with the requirements of this chapter according to the deadlines in subsections (4) and (5) of this section.

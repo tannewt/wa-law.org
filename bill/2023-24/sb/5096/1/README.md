@@ -169,5 +169,8 @@ Subject to the availability of funding, the small business collateral support pr
 ## Section 7
 The employee ownership revolving loan program account is created in the custody of the state treasury. All transfers and appropriations by the legislature, repayments of loans, private contributions, and all other sources must be deposited into the account. Expenditures from the account may be used only for the purposes of the Washington employee ownership program created in section 2 of this act. Only the director or the director's designee may authorize expenditures from the account. The account is subject to allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
 
+## Section 8
+Sections 4 and 5 of this act take effect July 1, 2024.
+
 ## Section 9
 This act may be known and cited as the expanding employee ownership act.

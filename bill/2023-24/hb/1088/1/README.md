@@ -387,3 +387,6 @@ This chapter modifies, limits, or supersedes the electronic signatures in global
 
 ## Section 28
 This chapter applies to arbitration of a family law dispute under an arbitration agreement made on or after the effective date of this section. If an arbitration agreement was made before the effective date of this section, the parties may agree in a record that this chapter applies to the arbitration.
+
+## Section 29
+This act takes effect January 1, 2024.

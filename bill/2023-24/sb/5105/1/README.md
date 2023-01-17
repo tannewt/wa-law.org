@@ -92,3 +92,6 @@
     a. By September 1, 2024, the department must establish a program that allows every qualifying applicant for a driver's license the ability to acquire a digital version of the applicant's driver's license in addition to the physical version issued pursuant to subsection (1) of this section.
 
     b. By August 1, 2024, the department must adopt rules to implement (a) of this subsection, which include, but are not limited to, issuance requirements, specifications, security and privacy protections, and the use associated with the digital driver's license.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

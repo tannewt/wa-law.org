@@ -88,3 +88,6 @@
 1. The health care authority and the office of the superintendent of public instruction must convene and facilitate a work group of school employees' benefits board organizations to establish a process for using or modifying data currently required to be reported to determine eligibility and prorate employer contributions under RCW 41.05.740 for employees employed by more than one school employees' benefits board organization.
 
 2. This section expires December 31, 2023.
+
+## Section 4
+Sections 1 and 2 of this act take effect January 1, 2024.

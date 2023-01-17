@@ -464,6 +464,9 @@ This chapter does not apply to the receipts of a stewardship organization formed
 ## Section 18
 A violation of this chapter, other than a violation of RCW 70A.230.020, is punishable by a civil penalty not to exceed $1,000 for each violation in the case of a first violation. Repeat violators are liable for a civil penalty not to exceed $5,000 for each repeat violation. Penalties collected under this section must be deposited in the model toxics control operating account created in RCW 70A.305.180.
 
+## Section 19
+Sections 2, 16, and 18 of this act take effect January 1, 2026.
+
 ## Section 20
 ## Section 21
 ## Section 22

@@ -431,3 +431,6 @@ Failure to perform any act required or the performance of any act prohibited by 
 67. RCW 46.87.290 relating to operation of an unregistered or unlicensed vehicle under chapter 46.87 RCW;
 
 68. Section 1 of this act relating to negligent driving with a vulnerable user victim in the first degree.
+
+## Section 11
+This act takes effect January 1, 2024.

@@ -40,3 +40,6 @@
 7. Beginning with taxes levied for collection in 2018, enrichment levy revenues must be deposited in a separate subfund of the school district's general fund pursuant to RCW 28A.320.330, and for the 2018-19 school year are subject to the restrictions of RCW 28A.150.276 and the audit requirements of RCW 43.09.2856.
 
 8. Funds collected from levies for transportation vehicles, construction, modernization, or remodeling of school facilities as established in RCW 84.52.053 are not subject to the levy limitations in subsections (1) through (5) of this section.
+
+## Section 2
+This act takes effect January 1, 2024.

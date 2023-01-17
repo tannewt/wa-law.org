@@ -75,3 +75,6 @@ The office of public defense shall:
 2. Identify resources and reforms to barriers;
 
 3. Report findings and recommendations to the appropriate fiscal and policy committees of the legislature not later than December 1, 2024.
+
+## Section 5
+This act takes effect January 1, 2024.

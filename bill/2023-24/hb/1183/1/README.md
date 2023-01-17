@@ -8,3 +8,6 @@ The legislature intends to repeal the statutory authority directing the departme
 ## Section 2
 ## Section 3
 Nothing in this chapter may be interpreted to provide authority to the department to adopt any motor vehicle emissions standard of the state of California.
+
+## Section 4
+This act takes effect January 1, 2024.

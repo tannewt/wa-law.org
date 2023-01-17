@@ -79,6 +79,9 @@ In lieu of condemnation or to resolve trespass and property ownership disputes a
 
 4. The department is authorized to solicit and receive voluntary contributions for the purpose of operating and maintaining public use and recreation facilities, including trails, managed by the department. The department may seek voluntary contributions from individuals and organizations for this purpose. Voluntary contributions will be deposited into the parkland trust revolving fund and used solely for the purpose of public use and recreation facilities operations and maintenance. Voluntary contributions are not considered a fee for use of these facilities.
 
+## Section 8
+(1) Any moneys derived from the lease of state forestlands or from the sale of valuable materials, oils, gases, coal, minerals, or fossils from those lands, except as provided in RCW 79.64.130, or the appraised value of these resources when transferred to a public agency under RCW 79.22.060, except as provided in RCW 79.22.060(4), must be distributed as follows:
+
 ## Section 9
 The department, with the approval of the board, may purchase property at fair market value to be held in a land bank, which is hereby created within the department. Property so purchased shall be property which would be desirable for addition to the public lands of the state because of the potential for natural resource or income production of the property.
 

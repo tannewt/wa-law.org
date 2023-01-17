@@ -48,6 +48,12 @@ Only the director of the office of financial management or the director's design
 
 4. The department may adopt such rules as are necessary under RCW 38.52.050 to administer the account.
 
+## Section 7
+(1) The community reinvestment account is created in the state treasury. Revenues to the account shall consist of appropriations and transfers by the legislature and all other moneys directed for deposit into the account. Moneys in the account may be spent only after appropriation.
+
+## Section 8
+The electric vehicle incentive account is created in the state treasury. Revenues to the account shall consist of appropriations and transfers by the legislature and all other moneys directed for deposit into the account. Moneys in the account may only be spent after appropriation. Expenditures from the account may be used for programs and incentives that promote the purchase or conversion to alternative fuel vehicles to further state climate goals under RCW 70A.45.020 and environmental justice goals under 70A.02 RCW, including but not limited to:
+
 ## Section 9
 1. All earnings of investments of surplus balances in the state treasury shall be deposited to the treasury income account, which account is hereby established in the state treasury.
 
@@ -80,3 +86,9 @@ Only the director of the office of financial management or the director's design
 
 ## Section 11
 Except for section 10 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.
+
+## Section 12
+Section 9 of this act expires July 1, 2024.
+
+## Section 13
+Section 10 of this act takes effect July 1, 2024.

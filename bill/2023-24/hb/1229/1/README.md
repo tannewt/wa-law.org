@@ -191,6 +191,9 @@ This information shall be recorded on a single registration form to be prescribe
 ## Section 9
 In order to encourage the broadest possible voting participation by all eligible citizens, the secretary of state shall produce voter registration information in the various languages required of state agencies.
 
+## Section 10
+For persons not performing an automatic voter registration transaction subject to section 1 of this act:
+
 ## Section 11
 1. The secretary of state shall prescribe the method of voter registration for each designated agency. The agency shall use either the state voter registration by mail form with a separate declination form for the applicant to  decline to register at this time, or the agency may use a separate form or process approved for use by the secretary of state.
 
@@ -592,3 +595,5 @@ that person is guilty of a gross misdemeanor punishable to the same extent as a 
 A person or organization collecting voter registration application forms must transmit the forms to the secretary of state or a county auditor within five business days. The registration date on such forms will be the date they are received by the secretary of state or county auditor. A person or organization collecting voter registration forms that intentionally does not transmit the forms to an election office may be subject to penalty under RCW 29A.84.030.
 
 ## Section 37
+## Section 38
+Sections 3, 4, 6, 11, 13, 14, 15, 16, 20, 21, 22, 23, and 24 of this act take effect July 15, 2024.

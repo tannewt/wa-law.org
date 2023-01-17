@@ -234,3 +234,6 @@ The definitions in this section apply throughout this chapter unless the context
         ii. A medical assistant-registered may only administer medication for intramuscular injections. A medical assistant-registered may not administer experimental drugs or chemotherapy agents. The secretary may, by rule, further limit the drugs that may be administered under this subsection (4)(i). The rules adopted under this subsection must limit the drugs based on risk, class, or route.
 
     j. Intramuscular injections. A medical assistant-registered may administer intramuscular injections for diagnostic or therapeutic agents under the direct visual supervision of a health care practitioner if the medical assistant-registered meets minimum standards established by the secretary in rule.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

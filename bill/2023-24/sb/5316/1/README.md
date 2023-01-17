@@ -124,3 +124,8 @@ The applicant and agency shall maintain on-site for inspection a copy of the bac
 The department shall maintain an individual-based or portable background check clearance registry. Any individual seeking a child care license or employment in any child care facility or outdoor nature-based child care program licensed or regulated under current law shall submit a background application on a form prescribed by the department in rule.
 
 ## Section 4
+## Section 5
+2021 c 304 s 34 (uncodified) is repealed.
+
+## Section 6
+Section 5 of this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

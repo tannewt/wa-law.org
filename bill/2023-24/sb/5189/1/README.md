@@ -279,3 +279,9 @@ The health care authority shall take any steps which are necessary and proper to
 3. In addition to the authority to discipline license holders, the disciplining authority has the authority to grant or deny licenses. The disciplining authority may also grant a license subject to conditions.
 
 4. All disciplining authorities shall adopt procedures to ensure substantially consistent application of this chapter, the uniform disciplinary act, among the disciplining authorities listed in subsection (2) of this section.
+
+## Section 16
+Section 13 of this act expires October 1, 2023.
+
+## Section 17
+Section 14 of this act takes effect October 1, 2023.

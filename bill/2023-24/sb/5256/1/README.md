@@ -46,3 +46,6 @@
     d. Options for program design that include outside entities operating the entire program or specific parts of the program.
 
 7. By December 1, 2021, and biennially thereafter, the department shall report outcomes for the child welfare housing assistance  program to the governor and the appropriate committees of the legislature. The report must include racial, geographic, ethnic, and gender distribution of program support.
+
+## Section 2
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect June 30, 2023.

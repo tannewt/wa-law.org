@@ -99,3 +99,6 @@ The definitions in this section apply throughout sections 6 and 7 of this act un
 
 ## Section 8
 The clean and renewable energy workforce capital account is created in the state treasury. It is the intent of the legislature that an amount equal to the revenues generated as a result of repealing RCW 82.08.962 and 82.12.962 be deposited into the account. Moneys in the account may only be spent after appropriation. Expenditures for the account may only be used for the purposes of this act.
+
+## Section 10
+Sections 4 through 8 of this act take effect January 1, 2024.

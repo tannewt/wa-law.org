@@ -645,6 +645,9 @@ The department may suspend new admissions of a specific category or categories o
 
     e. If the presiding officer sustains the immediate action for failure to cooperate, the licensee may request an expedited full hearing on the merits of the department's action. A full hearing must be provided within 90 days of the licensee's request.
 
+## Section 19
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 20
 The department  may at any time examine  a licensed private establishment to determine whether it has failed or refused to comply with the requirements of this chapter, the standards or rules adopted under this chapter, or other applicable state or federal statutes or rules regulating private establishments.
 
@@ -893,6 +896,12 @@ The term "construction," as used in (b)(ii) of this subsection, is limited to th
     c. Entities granted an exemption under RCW 70.38.111(11)(b)(ii) may not exceed 16 beds unless a certificate of need is granted to increase the behavioral health hospital's capacity.
 
 5. This section expires June 30, 2025.
+
+## Section 25
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+## Section 26
+(1) The secretary shall license or certify any agency or facility that: (a) Submits payment of the fee established under RCW 43.70.110 and 43.70.250; and (b) submits a complete application that demonstrates the ability to comply with requirements for operating and maintaining an agency or facility in statute or rule; and (c) successfully completes the prelicensure inspection requirement.
 
 ## Section 27
 1. The department shall review reports or other information alleging a failure to comply with this chapter or the standards and rules adopted under this chapter and may initiate investigations and enforcement actions based on those reports.

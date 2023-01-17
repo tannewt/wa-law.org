@@ -21,6 +21,9 @@ The legislature finds that the words "We the People" are central to our system o
 ## Section 3
 Each active registered voter of the state, overseas voter, and service voter shall automatically be issued a mail ballot for each general election, special election, or primary. Overseas voters and service voters are authorized to cast the same ballots, including those for special elections, as a registered voter of the state would receive under this chapter. Each active registered voter shall continue to receive a ballot by mail until the death or disqualification of the voter, cancellation of the voter's registration, or placing the voter on inactive status. Each registered voter must return a ballot for each primary and general election.
 
+## Section 4
+(1) A person may register to vote or transfer a voter registration when he or she applies for service or assistance and with each renewal, recertification, or change of address at agencies designated under RCW 29A.08.310.
+
 ## Section 5
 1. The secretary of state shall prescribe the method of voter registration for each designated agency. The agency shall use either the state voter registration by mail form with a separate declination form for the applicant to indicate that he or she declines to register at this time, or the agency may use a separate form approved for use by the secretary of state.
 
@@ -92,6 +95,9 @@ If the applicant answers in the affirmative to both questions, the agent shall t
 
 ## Section 8
 A person who intentionally disenfranchises another voter by completing a form for the waiver of the obligation to register to vote in the other voter's name is guilty of a misdemeanor punishable under RCW 9A.20.021.
+
+## Section 9
+(1) On the top of each ballot must be printed:
 
 ## Section 10
 1. Before the 2026 primary election, the secretary shall implement a plan for expanded voter registration in the state, including a statewide education plan on the implementation of universal civic duty voting. The statewide education plan must be conducted in multiple languages and use a variety of media sources, including locally owned and minority-owned media. The secretary must work with community partners to ensure the widest possible dissemination of information on the implementation of universal civic duty voting.

@@ -51,3 +51,6 @@ Nothing in this chapter is intended to limit the right of a peace officer to hav
 
 ## Section 8
 This chapter applies only to causes of action arising on or after the effective date of this section.
+
+## Section 10
+This act takes effect January 1, 2025.

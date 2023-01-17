@@ -210,3 +210,5 @@
 3. Failure of a parent to comply with the duties in this section shall be deemed a failure of such parent's child to attend school without valid justification under RCW 28A.225.020. Parents who do comply with the duties set forth in this section shall be presumed to be providing home-based instruction as set forth in RCW 28A.225.010(4).
 
 ## Section 10
+## Section 11
+This act takes effect August 1, 2023.

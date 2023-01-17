@@ -78,3 +78,6 @@ This chapter may be known and cited as the cruelty free cosmetics act.
 
 ## Section 9
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 10
+This act takes effect January 1, 2024.

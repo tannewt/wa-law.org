@@ -1,0 +1,30 @@
+# HB 1339 - Insurance premium tax rate
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1339.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. Subject to other provisions of this chapter, each authorized insurer except title insurers and registered eligible captive insurers as defined in RCW 48.201.020 shall on or before the first day of March of each year pay to the state treasurer through the commissioner's office a tax on premiums.
+
+    b. Except as provided in subsection (3) of this section, such tax shall be in the amount of two percent of all premiums, excluding amounts returned to or the amount of reductions in premiums allowed to holders of industrial life policies for payment of premiums directly to an office of the insurer, collected or received by the insurer under RCW 48.14.090 during the preceding calendar year other than ocean marine and foreign trade insurances, after deducting premiums paid to policyholders as returned premiums, upon risks or property resident, situated, or to be performed in this state. For tax purposes, the reporting of premiums shall be on a written basis or on a paid-for basis consistent with the basis required by the annual statement.
+
+    c. For the purposes of this section, the consideration received by an insurer for the granting of an annuity shall not be deemed to be a premium.
+
+2. [Empty]
+
+    a. The taxes imposed in this section do not apply to amounts received by any life and disability insurer for health care services included within the definition of practice of dentistry under RCW 18.32.020 except amounts received for pediatric oral services that qualify as coverage for the minimum essential coverage requirement under P.L. 111-148 (2010), as amended, and for stand-alone family dental plans as defined in RCW 43.71.080(4)(a), only when offered in the individual market, as defined in RCW 48.43.005, or to a small group, as defined in RCW 48.43.005.
+
+    b. Beginning January 1, 2014, moneys collected for premiums written on qualified health benefit plans and qualified dental plans offered through the health benefit exchange under chapter 43.71 RCW must be deposited in the health benefit exchange account under RCW 43.71.060.
+
+3. [Empty]
+
+    a. In the case of insurers which require the payment by their policyholders at the inception of their policies of the entire premium thereon in the form of premiums or premium deposits which are the same in amount, based on the character of the risks, regardless of the length of term for which such policies are written, such tax shall be in the amount of two percent of the gross amount of such premiums and premium deposits upon policies on risks resident, located, or to be performed in this state, in force as of the 31st day of December next preceding, less the unused or unabsorbed portion of such premiums and premium deposits computed at the average rate thereof actually paid or credited to policyholders or applied in part payment of any renewal premiums or premium deposits on one-year policies expiring during such year.
+
+    b. The commissioner's office must annually adjust the tax rate applied to premiums under subsection (1)(b) of this section by calculating the three-year average of the year-over-year percentage change in insurance premium taxes collected pursuant to this section. The three-year period consists of the three tax years immediately preceding the current tax year in order to calculate the rate for the upcoming tax year. The tax rate in subsection (1)(b) of this section must be reduced by the three-year average revenue change. The adjusted premium tax rate under this subsection (3)(b) may not exceed two percent.
+
+4. Each authorized insurer shall with respect to all ocean marine and foreign trade insurance contracts written within this state during the preceding calendar year, on or before the first day of March of each year pay to the state treasurer through the commissioner's office a tax of 0.95 percent on its gross underwriting profit. Such gross underwriting profit shall be ascertained by deducting from the net premiums (i.e., gross premiums less all return premiums and premiums for reinsurance) on such ocean marine and foreign trade insurance contracts the net losses paid (i.e., gross losses paid less salvage and recoveries on reinsurance ceded) during such calendar year under such contracts. In the case of insurers issuing participating contracts, such gross underwriting profit shall not include, for computation of the tax prescribed by this subsection, the amounts refunded, or paid as participation dividends, by such insurers to the holders of such contracts.
+
+5. The state does hereby preempt the field of imposing excise or privilege taxes upon insurers or their appointed insurance producers, other than title insurers, and no county, city, town or other municipal subdivision shall have the right to impose any such taxes upon such insurers or these insurance producers.
+
+6. If an authorized insurer collects or receives any such premiums on account of policies in force in this state which were originally issued by another insurer and which other insurer is not authorized to transact insurance in this state on its own account, such collecting insurer shall be liable for and shall pay the tax on such premiums.

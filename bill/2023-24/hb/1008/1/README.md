@@ -100,3 +100,6 @@ and who are at least age fifty-five and have at least ten years of service under
 26. "State purchased health care" or "health care" means medical and health care, pharmaceuticals, and medical equipment purchased with state and federal funds by the department of social and health services, the department of health, the basic health plan, the state health care authority, the department of labor and industries, the department of corrections, the department of veterans affairs, and local school districts.
 
 27. "Tribal government" means an Indian tribal government as defined in section 3(32) of the employee retirement income security act of 1974, as amended, or an agency or instrumentality of the tribal government, that has government offices principally located in this state.
+
+## Section 2
+This act takes effect January 1, 2024.

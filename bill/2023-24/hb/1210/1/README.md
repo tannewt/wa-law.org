@@ -23,3 +23,6 @@ The failure to provide a recording of a school district board of directors meeti
 
 ## Section 4
 The meetings of school district boards of directors are subject to the requirements of RCW 42.30.035(2).
+
+## Section 5
+This act takes effect June 30, 2024.

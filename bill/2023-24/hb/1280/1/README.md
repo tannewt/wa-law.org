@@ -52,3 +52,6 @@ Nothing in this act may alter the liability of any motor vehicle manufacturer or
 4. Nothing in this section alters the liability of any motor vehicle manufacturer or motor vehicle dealer approved by the manufacturer to repair an open safety recall.
 
 5. For the purposes of this section, "open safety recall" means a safety-related recall, for which notification by a manufacturer is required to be provided under 49 U.S.C. Secs. 30118 and 30119, that necessitates repairs or modifications to a motor vehicle by an authorized motor vehicle dealer. "Open safety recall" does not include: Recalls related to defects or failures to comply with requirements relating to labeling or notification in a motor vehicle's owner's manual; or recalls where the remedy is for the manufacturer to repurchase the motor vehicle or otherwise provide financial compensation to the owner of the motor vehicle.
+
+## Section 4
+This act takes effect July 1, 2024.

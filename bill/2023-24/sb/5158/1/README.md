@@ -27,3 +27,6 @@ The intent of the legislature is to make state and local tax revenue as open, tr
 5. The database must also contain information, or links to information, on additional selective sales taxes, selective business taxes, and in-lieu of property taxes.
 
 6. The database created under this section must be able to be accessed by and accessed from the state expenditure information website created under RCW 44.48.150.
+
+## Section 3
+(1) By January 1, 2009, in collaboration with the office of financial management, using existing databases and structures currently shared, the office of the legislative evaluation and accountability program committee shall establish and make available to the public a searchable state expenditure information website. The state expenditure information website shall must provide access to current budget data, access to current accounting data for budgeted expenditures and staff, and access to historical data. At a minimum, the website will provide access or links to the following information as data are available:

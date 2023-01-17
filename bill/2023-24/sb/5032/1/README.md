@@ -1136,3 +1136,6 @@ If a deferred prosecution is revoked based on a subsequent conviction for an off
         iii. An out-of-state offense comparable to the offense specified in (b)(i) or (ii) of this subsection; or
 
         iv. A violation of this subsection (6) or RCW 46.61.502(6).
+
+## Section 14
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -2,6 +2,9 @@
 
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5345.pdf)
 
+## Section 1
+The definitions in this section apply throughout RCW 19.27A.210, 19.27A.220, 19.27A.230, 19.27A.240, 19.27A.250, and 19.27A.220 section 2 of this act unless the context clearly requires otherwise.
+
 ## Section 2
 1. Public school buildings are not covered buildings under this chapter and are exempt from the state energy performance standard if the public school building meets one of the following conditions:
 

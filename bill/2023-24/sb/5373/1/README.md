@@ -21,3 +21,6 @@ Health care workforce shortages are one of the most significant, and potentially
     d. The costs incurred by each insurer to implement this section.
 
 4. This section does not apply to advanced registered nurse practitioners or physician assistants who are employees of a health maintenance organization regulated under chapter 48.46 RCW.
+
+## Section 3
+Each health plan that provides medical insurance offered under this chapter, including plans created by insuring entities, plans not subject to the provisions of Title 48 RCW, and plans created under RCW 41.05.140, are subject to the provisions of RCW 48.43.500, 70.02.045, 48.43.505 through 48.43.535, 48.43.537, 48.43.545, 48.43.550, 70.02.110, 70.02.900, 48.43.190, 48.43.083, 48.43.0128, 48.43.780, 48.43.435, 48.43.815, and chapter 48.49 RCW, and section 2 of this act.

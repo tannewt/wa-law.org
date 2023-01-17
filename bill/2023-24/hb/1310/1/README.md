@@ -5,6 +5,9 @@
 ## Section 1
 The legislature finds that the COVID-19 public health emergency pushed our health care system to the edge and health care providers across Washington state were challenged to continue providing high quality care with insufficient resources including an insufficient supply of health care practitioners. To address this challenge, from March of 2020 through October of 2022, physician assistants were permitted under governor Inslee's proclamation 20-32 to work without a delegation agreement signed by a supervising physician. During the public health emergency, physician assistants provided safe and efficient care, expanding access to necessary services and procedures statewide. The legislature also finds that prior to and following the public health emergency, there was, and continues to be, a great need for additional providers in primary care and specialty areas, especially in underserved and rural communities. Therefore, the legislature intends to authorize physician assistants to enter into collaborative practice with physicians to provide team-based care and enhance access to health care for the people of the state.
 
+## Section 2
+The definitions set forth in this section apply throughout this chapter.
+
 ## Section 3
 1. The commission shall adopt rules fixing the qualifications and the educational and training requirements for licensure as a physician assistant or for those enrolled in any physician assistant training program. The requirements shall include completion of an accredited physician assistant training program approved by the commission and within one year successfully take and pass an examination approved by the commission, if the examination tests subjects substantially equivalent to the curriculum of an accredited physician assistant training program. An interim permit may be granted by the department of health for one year provided the applicant meets all other requirements. Physician assistants licensed by the board of medical examiners, or the commission as of July 1, 1999, shall continue to be licensed.
 
@@ -281,6 +284,9 @@ Nothing in this chapter shall be construed to apply to or interfere in any way w
 
 ## Section 17
 The department shall accept the signature of a physician assistant on any certificate, card, form, or other documentation required by the department that the physician or physicians with whom the physician assistant is collaborating may sign, provided that it is within the physician assistant's scope of practice, and is consistent with the terms of the physician assistant's collaboration agreement as required by chapter 18.71A RCW. Consistent with the terms of this section, the authority of a physician assistant to sign such certificates, cards, forms, or other documentation includes, but is not limited to, the execution of the certificate required in RCW 51.28.020. A physician assistant may not rate a worker's permanent partial disability under RCW 51.32.055.
+
+## Section 18
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
 ## Section 19
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
@@ -586,6 +592,9 @@ If antipsychotic medications are administered over a person's lack of consent pu
 
 7. For the purpose of this section, "care coordinator" means a clinical practitioner who coordinates the activities of less restrictive alternative treatment. The care coordinator coordinates activities with the designated crisis responders that are necessary for enforcement and continuation of less restrictive alternative orders and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
 
+## Section 23
+(1)(a) The authority or its designee shall provide training to the designated crisis responders.
+
 ## Section 24
 1. For the purposes of this chapter, a principal, agent, professional person, or health care provider may seek a determination whether the principal is incapacitated or has regained capacity.
 
@@ -856,6 +865,12 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 69. "Violent act" means behavior that resulted in homicide, attempted suicide, injury, or substantial loss or damage to property.
 
+## Section 28
+(1) At any time during the minor's period of fourteen-day commitment, the professional person in charge may petition the court for an order requiring the minor to undergo an additional one hundred eighty-day period of treatment. The evidence in support of the petition shall be presented by the county prosecutor unless the petition is filed by the professional person in charge of a state-operated facility in which case the evidence shall be presented by the attorney general.
+
+## Section 29
+(1) At any time during the minor's period of fourteen-day commitment, the professional person in charge may petition the court for an order requiring the minor to undergo an additional one hundred eighty-day period of treatment. The evidence in support of the petition shall be presented by the county prosecutor unless the petition is filed by the professional person in charge of a state-operated facility in which case the evidence shall be presented by the attorney general.
+
 ## Section 30
 1. Less restrictive alternative treatment, at a minimum, must include the following services:
 
@@ -927,3 +942,18 @@ Unless the context clearly requires otherwise, the definitions in this section a
 2. Concurrent with the review described in subsection (1) of this section, the authority must create matrices listing the following codes available for provider payment through medical assistance programs: All behavioral health-related codes; and all physical health-related codes available for payment when provided in licensed behavioral health agencies. The authority must clearly explain applicable payment rules in order to increase awareness among providers, standardize billing practices, and reduce common and avoidable billing errors. The authority must disseminate this information in a manner calculated to maximally reach all relevant plans and providers. The authority must update the provider billing guide to maintain consistency of information.
 
 3. The authority must inform the governor and relevant committees of the legislature by letter of the steps taken pursuant to this section and results achieved once the work has been completed.
+
+## Section 32
+Sections 1 through 8, 10 through 28, 30, and 31 of this act take effect January 1, 2025.
+
+## Section 33
+Section 19 of this act expires when section 2, chapter 210, Laws of 2022 takes effect.
+
+## Section 34
+Section 27 of this act expires when section 28, chapter 264, Laws of 2021 takes effect.
+
+## Section 35
+Section 28 of this act expires July 1, 2026.
+
+## Section 36
+Section 29 of this act takes effect July 1, 2026.

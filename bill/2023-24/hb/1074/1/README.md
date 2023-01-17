@@ -13,6 +13,9 @@
 
 2. Therefore, the legislature intends to protect renters from the financial instability caused by improper and inflated damage charges that prevent tenants from receiving their deposit back, to ease the debt burden on renting families, and to reduce the disproportionate harm to low-income renters of color.
 
+## Section 2
+As used in this chapter:
+
 ## Section 3
 1. If any moneys are paid to the landlord by the tenant as a deposit or as security for performance of the tenant's obligations in a lease or rental agreement, the lease or rental agreement shall be in writing and shall include the terms and conditions under which the deposit or portion thereof may be withheld by the landlord upon termination of the lease or rental agreement. If all or part of the deposit may be withheld to indemnify the landlord for damages to the premises for which the tenant is responsible, the rental agreement shall be in writing and shall so specify.
 

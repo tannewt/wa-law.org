@@ -97,3 +97,9 @@ Failure by a voting jurisdiction to conduct the education and outreach described
 
 ## Section 4
 Any voter eligible to participate in an election in a voting jurisdiction that has changed the method of candidate selection to a method other than those required in this chapter who finds the public education and outreach campaign associated with the change inadequate in meeting the requirements of section 2 of this act may file an action against the voting jurisdiction and the election office serving the voting jurisdiction in the appropriate court of record serving the voting jurisdiction. The court shall give any filing and associated case priority on its calendar and may award financial damages as appropriate. A cause of action cannot be used to abridge the 12-month education period. A voting jurisdiction found to have failed to provide the full 12-month program must revert to the previous method of candidate selection employed by the voting jurisdiction prior to the proposed change in method.
+
+## Section 5
+Sections 2 through 4 of this act are each added to chapter 29A.52 RCW.
+
+## Section 6
+This act takes effect January 1, 2024.

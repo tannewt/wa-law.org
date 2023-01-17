@@ -70,3 +70,6 @@
 7. Each member of the aviation and aerospace advisory committee serves without compensation but may be reimbursed for travel expenses as authorized in RCW 43.03.050 and 43.03.060.
 
 8. The members of the aviation and aerospace advisory committee, or individuals acting on their behalf, are immune from civil liability for official acts performed in the course of their duties.
+
+## Section 2
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -3,6 +3,9 @@
 [Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5295.pdf)
 
 ## Section 1
+## Section 2
+RCW 43.99N.040 (Stadium and exhibition center construction account) is decodified.
+
 ## Section 3
 1. All earnings of investments of surplus balances in the state treasury shall be deposited to the treasury income account, which account is hereby established in the state treasury.
 

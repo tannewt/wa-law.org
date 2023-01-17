@@ -5,6 +5,9 @@
 ## Section 1
 This act may be known and cited as the real labor real wages act.
 
+## Section 2
+(1) Whenever a person is convicted in superior court, the court may order the payment of a legal financial obligation as part of the sentence. The court may not order an offender to pay costs as described in RCW 10.01.160 if the court finds that the offender at the time of sentencing is indigent as defined in RCW 10.01.160(3). An offender being indigent as defined in RCW 10.01.160(3) is not grounds for failing to impose restitution or the crime victim penalty assessment under RCW 7.68.035. The court must on either the judgment and sentence or on a subsequent order to pay, designate the total amount of a legal financial obligation and segregate this amount among the separate assessments made for restitution, costs, fines, and other assessments required by law. On the same order, the court is also to set a sum that the offender is required to pay on a monthly basis towards satisfying the legal financial obligation. If the court fails to set the offender monthly payment amount, the department shall set the amount if the department has active supervision of the offender, otherwise the county clerk shall set the amount.
+
 ## Section 3
 1. Except as provided in subsection (3) of this section, the court may require a defendant to pay costs. Costs may be imposed only upon a convicted defendant, except for costs imposed upon a defendant's entry into a deferred prosecution program, costs imposed upon a defendant for pretrial supervision, or costs imposed upon a defendant for preparing and serving a warrant for failure to appear.
 
@@ -404,3 +407,5 @@ Except when ordered by a court for community restitution, incarcerated persons a
 2. The department of corrections shall submit a report with the information under subsection (1) of this section to the governor and the appropriate committees of the legislature by October 1, 2023.
 
 ## Section 13
+## Section 14
+Sections 1 through 11 and 13 of this act take effect January 1, 2024.

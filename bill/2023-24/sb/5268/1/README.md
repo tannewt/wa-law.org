@@ -877,3 +877,11 @@ The following acts or parts of acts, as now existing or hereafter amended, are e
 36. RCW 39.10.908 and 2023 c . . . s 13 (section 13 of this act) and 2021 c 230 s 19.
 
 ## Section 37
+## Section 38
+Sections 14 through 16 of this act are each added to chapter 39.04 RCW.
+
+## Section 39
+Sections 1 through 30, 32 through 34, 36, and 37 of this act take effect July 1, 2024.
+
+## Section 40
+Sections 31 and 35 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2023.

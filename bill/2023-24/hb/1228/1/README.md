@@ -66,6 +66,9 @@ The office of the superintendent of public instruction may adopt rules for schoo
 
 4. For the purposes of this section, a world language other than English must include American sign language and Native American languages.
 
+## Section 7
+As used throughout this chapter, unless the context clearly indicates otherwise:
+
 ## Section 8
 Moneys appropriated by the legislature for the purposes of RCW 28A.180.010 through 28A.180.080 shall be allocated by the superintendent of public instruction to school districts for the sole purpose of operating an approved bilingual instruction program. Beginning with the 2024-25 school year, the allocation shall be weighted at 1.2 factor for each eligible and exited student enrolled in a dual language education program.
 
@@ -82,3 +85,5 @@ Moneys appropriated by the legislature for the purposes of RCW 28A.180.010 throu
 3. This section expires September 1, 2026.
 
 ## Section 11
+## Section 12
+Sections 2 through 5 of this act are each added to chapter 28A.300 RCW.

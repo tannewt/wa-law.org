@@ -190,3 +190,6 @@
 7. The remaining net tax amount collected under RCW 82.38.030 (7) and (8) must be distributed to the connecting Washington account created in RCW 46.68.395.
 
 8. Nothing in this section or in RCW 46.68.130 may be construed so as to violate any terms or conditions contained in any highway construction bond issues now or hereafter authorized by statute and whose payment is by such statute pledged to be paid from any excise taxes on fuel.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

@@ -279,3 +279,6 @@ a failure to comply with this act by the insurer, an entity contracted to perfor
 13. This section does not affect the application of chapter 21.20 RCW.
 
 14. Nothing in this section shall be construed to create or imply a private cause of action for a violation of this section or to subject a producer to civil liability under the best interest standard of care outlined in subsection (2) of this section or under standards governing the conduct of a fiduciary or a fiduciary relationship.
+
+## Section 3
+This act takes effect January 1, 2024.

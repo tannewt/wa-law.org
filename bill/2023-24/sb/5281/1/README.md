@@ -13,6 +13,9 @@
 
 5. Therefore, the legislature intends to impose only a portion of the aircraft fuel excise tax on commercial aircraft, while creating a funding mechanism to mitigate the impacts of emissions and pollutants, and to further environmental justice goals in airport locations throughout the state.
 
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
 ## Section 3
 1. Except as provided in subsection (2) of this section, there is levied upon every distributor of aircraft fuel, an excise tax at the rate of 18 cents on each gallon of aircraft fuel sold, delivered, or used in this state.
 
@@ -80,3 +83,12 @@ The commercial aviation mitigation account is created in the state treasury. All
     b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
 
 5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 9
+Section 7 of this act expires July 1, 2024.
+
+## Section 10
+Section 8 of this act takes effect July 1, 2024.
+
+## Section 11
+This act takes effect October 1, 2023.

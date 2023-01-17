@@ -69,3 +69,6 @@ The department shall notify the transportation committees of the legislature if 
     b. Any state agency otherwise enacts, adopts, orders, or in any way implements a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard, without explicit legislative authorization enacted subsequent to July 1, 2015.
 
     c. Nothing in this subsection acknowledges, establishes, or creates legal authority for the department of ecology or any other state agency to enact, adopt, order, or in any way implement a fuel standard based upon or defined by the carbon intensity of fuel, including a low carbon fuel standard or clean fuel standard.
+
+## Section 3
+This act takes effect January 1, 2024.

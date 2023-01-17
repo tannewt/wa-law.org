@@ -206,3 +206,6 @@ As soon as practicable before the primary, special election, or general election
 4. If the legislative authority of a unit of local government fails to make such appointments by the prescribed deadline, the county auditor shall issue a media release and publish information on the auditor's election website announcing the opportunity to form committees and provide statements. If the legislative authority fails to make appointments, the auditor shall make appointments on a first-come, first-served basis if qualified committee members contact the auditor by the appropriate deadline.
 
 5. If no statement is produced, the auditor shall include a statement in the pamphlet stating that the district failed to make appointments and there are no statements for that measure.
+
+## Section 16
+This act takes effect January 1, 2024.

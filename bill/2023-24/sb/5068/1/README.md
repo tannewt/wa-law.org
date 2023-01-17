@@ -170,3 +170,6 @@ It is the intent of the legislature to ensure Washington's transportation infras
     b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
 
 5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 6
+This act takes effect July 1, 2025.

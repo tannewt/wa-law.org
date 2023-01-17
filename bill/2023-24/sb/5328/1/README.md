@@ -193,3 +193,6 @@ Any fraction of a year of service shall be taken into account in the computation
 5. An employee who was a member of the public employees' retirement system plan 1 on or before June 1, 2019, and on or after June 1, 2024, is employed by an employer as defined in RCW 41.37.010 as an employee who meets the eligibility requirements included in RCW 41.37.010(19)(f), shall remain a member of the public employees' retirement system plan 1.
 
 6. All new employees hired on or after June 1, 2024, who become employed by an employer as defined in RCW 41.37.010 as an employee who meets the eligibility requirements included in RCW 41.37.010(19)(f) will become members of the public safety employees' retirement system.
+
+## Section 5
+This act takes effect June 1, 2024.

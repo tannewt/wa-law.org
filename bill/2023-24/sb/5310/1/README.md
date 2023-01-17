@@ -345,3 +345,6 @@ Attending providers under this title shall comply with rules and regulations ado
 3. For purposes of this section, "examination" means a physical or mental examination by a medical care provider licensed to practice medicine, osteopathy, podiatry, chiropractic, dentistry, or psychiatry at the request of the department or self-insured employer or by order of the board of industrial insurance appeals.
 
 4. This section applies prospectively to all claims regardless of the date of injury.
+
+## Section 13
+This act takes effect July 1, 2025, and applies retroactively.

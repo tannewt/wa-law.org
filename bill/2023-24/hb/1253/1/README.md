@@ -344,5 +344,11 @@ The pharmacy benefit manager shall uphold the appeal of a pharmacy with fewer th
 ## Section 8
 The commissioner may adopt any rules necessary to implement this act.
 
+## Section 10
+RCW 48.200.210, 48.200.220, 48.200.230, 48.200.240, 48.200.250, 48.200.260, 48.200.270, 48.200.280, and 48.200.290 are each recodified as sections in chapter 48.--- RCW (the new chapter created in section 9 of this act).
+
 ## Section 11
 If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 12
+This act takes effect January 1, 2025.

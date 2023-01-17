@@ -58,3 +58,6 @@ The low-income home rehabilitation  account is created in the custody of the sta
 1. Section 6 of this act takes effect on July 1st of the year following the closure of the last loan issued under the low-income home rehabilitation revolving loan program.
 
 2. The department of commerce must provide written notice of the effective date of section 6 of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the department.
+
+## Section 8
+Sections 1 through 5 of this act are necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and take effect July 1, 2023.
