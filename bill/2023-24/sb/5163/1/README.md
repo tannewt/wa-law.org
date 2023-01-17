@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5163](/bills/2023-24/sb/5163/) > [Original Bill](/bills/2023-24/sb/5163/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5163](/bill/2023-24/sb/5163/) > [Original Bill](/bill/2023-24/sb/5163/1/)
 
 # SB 5163 - Medicaid fraud false claims
 

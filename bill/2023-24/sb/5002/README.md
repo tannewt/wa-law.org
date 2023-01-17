@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5002](/bills/2023-24/sb/5002/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5002](/bill/2023-24/sb/5002/)
 
 # SB 5002
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5002&Year=2023&Initiative=false)

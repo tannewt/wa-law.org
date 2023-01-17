@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1321](/bills/2023-24/hb/1321/) > [Original Bill](/bills/2023-24/hb/1321/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1321](/bill/2023-24/hb/1321/) > [Original Bill](/bill/2023-24/hb/1321/1/)
 
 # HB 1321 - Ambulance transport fund
 

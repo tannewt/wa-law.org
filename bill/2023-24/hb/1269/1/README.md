@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1269](/bills/2023-24/hb/1269/) > [Original Bill](/bills/2023-24/hb/1269/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1269](/bill/2023-24/hb/1269/) > [Original Bill](/bill/2023-24/hb/1269/1/)
 
 # HB 1269 - Rx drug affordability board
 

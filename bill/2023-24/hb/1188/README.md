@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1188](/bills/2023-24/hb/1188/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1188](/bill/2023-24/hb/1188/)
 
 # HB 1188
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1188&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 13 👍 - Pro
+### 20 👍 - Pro
 #### Testifying
 * Marissa Ingalls - Coordinated Care
 * Keith McNeal - Coordinated Care
@@ -15,6 +15,8 @@
 * Katie Biron - Amara
 * Nicole Mazen - Amara
 * Diana Stadden - The Arc of WA State
+* Ramona Hattendorf - The Arc of King County
+* Daniel Lugo - Treehouse
 
 ### 0 👎 - Con
 

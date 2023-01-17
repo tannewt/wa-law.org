@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1303](/bills/2023-24/hb/1303/) > [Original Bill](/bills/2023-24/hb/1303/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1303](/bill/2023-24/hb/1303/) > [Original Bill](/bill/2023-24/hb/1303/1/)
 
 # HB 1303 - Property tax administration
 

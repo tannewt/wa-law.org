@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5351](/bills/2023-24/sb/5351/) > [Original Bill](/bills/2023-24/sb/5351/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5351](/bill/2023-24/sb/5351/) > [Original Bill](/bill/2023-24/sb/5351/1/)
 
 # SB 5351 - Consumer health data
 

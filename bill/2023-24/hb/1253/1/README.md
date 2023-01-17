@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1253](/bills/2023-24/hb/1253/) > [Original Bill](/bills/2023-24/hb/1253/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1253](/bill/2023-24/hb/1253/) > [Original Bill](/bill/2023-24/hb/1253/1/)
 
 # HB 1253 - Pharmacy benefit managers
 

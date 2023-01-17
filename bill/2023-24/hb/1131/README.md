@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1131](/bills/2023-24/hb/1131/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1131](/bill/2023-24/hb/1131/)
 
 # HB 1131
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1131&Year=2023&Initiative=false)
@@ -7,14 +7,31 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1045 👍 - Pro
+### 1329 👍 - Pro
 #### Testifying
 * Kate Bailey
 * Ann Murphy - League of Women Voters of Washington
 * Chris Averyt - City of Spokane
 * Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Ezra Eickmeyer
+* Thessalonika BENNY - Select...
+* Clifford Traisman - Washington Conservation Action
+* Carl Schroeder - Association of Washington Cities
+* Lisa Herbold - City of Seattle Councilmember
+* Melissa Stuart - City of Redmond Councilmember
+* Pam Clough - Environment Washington
+* Manya Gupta - Juanita High School (Student)
+* Giovanni Severino - Latino Community Fund
+* Preston Peck - City of Tacoma
+* Pat McLaughlin - King County
+* Nora Nickum - Seattle Aquarium
+* Blair Englebrecht - Puget Soundkeeper Alliance
+* Charlie Schneider - WashPIRG Students
+* Jessica Day - UW Student
+* Dax Tate - WashPIRG
+* Heather Trim - Zero Waste Washington
 
-### 26 👎 - Con
+### 35 👎 - Con
 #### Testifying
 * Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management
@@ -33,8 +50,13 @@
 * Carol Patterson - Foodservice Packaging Institute
 * Jay O'Neal - Republic Services
 * Darbi Gottlieb - AdvaMed
+* Peter  Godlewski  - Association of Washington Business 
+* Erin Hall - American Forest and Paper Association
+* Brandon Houskeeper - Northwest Grocery Association
+* Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+* Rowland  Thompson  - The Wine Institute 
 
-### 11 ❓ - Other
+### 17 ❓ - Other
 #### Testifying
 * Eric Chambers - Oregon Beverage Recycling Cooperative
 * john Worthington
@@ -45,3 +67,8 @@
 * Dylan de Thomas - The Recycling Partnership
 * Mike Smaha - Can Manufacturers Institute
 * Brendan Flanagan - Consumer Brands Association
+* Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* Marian Dacca - Glass Packaging Institute (GPI) 
+* Todd Myers - Washington Policy Center
+* James Toner - IBWA
+* Rowland  Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association 

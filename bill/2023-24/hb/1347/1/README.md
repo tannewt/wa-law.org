@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1347](/bills/2023-24/hb/1347/) > [Original Bill](/bills/2023-24/hb/1347/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1347](/bill/2023-24/hb/1347/) > [Original Bill](/bill/2023-24/hb/1347/1/)
 
 # HB 1347 - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.
 

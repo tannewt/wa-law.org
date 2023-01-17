@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1342](/bills/2023-24/hb/1342/) > [Original Bill](/bills/2023-24/hb/1342/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1342](/bill/2023-24/hb/1342/) > [Original Bill](/bill/2023-24/hb/1342/1/)
 
 # HB 1342 - Embodied carbon reductions
 

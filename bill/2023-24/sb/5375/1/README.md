@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5375](/bills/2023-24/sb/5375/) > [Original Bill](/bills/2023-24/sb/5375/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5375](/bill/2023-24/sb/5375/) > [Original Bill](/bill/2023-24/sb/5375/1/)
 
 # SB 5375 - Low-proof beverages/tax
 

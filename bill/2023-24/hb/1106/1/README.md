@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1106](/bills/2023-24/hb/1106/) > [Original Bill](/bills/2023-24/hb/1106/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1106](/bill/2023-24/hb/1106/) > [Original Bill](/bill/2023-24/hb/1106/1/)
 
 # HB 1106 - Unemployment/voluntary
 

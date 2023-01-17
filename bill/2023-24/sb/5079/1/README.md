@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5079](/bills/2023-24/sb/5079/) > [Original Bill](/bills/2023-24/sb/5079/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5079](/bill/2023-24/sb/5079/) > [Original Bill](/bill/2023-24/sb/5079/1/)
 
 # SB 5079 - Tuition establishment date
 

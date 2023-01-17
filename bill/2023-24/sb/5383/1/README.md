@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5383](/bills/2023-24/sb/5383/) > [Original Bill](/bills/2023-24/sb/5383/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5383](/bill/2023-24/sb/5383/) > [Original Bill](/bill/2023-24/sb/5383/1/)
 
 # SB 5383 - Pedestrians/roadways
 

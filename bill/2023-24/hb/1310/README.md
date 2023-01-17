@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1310](/bills/2023-24/hb/1310/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1310](/bill/2023-24/hb/1310/)
 
 # HB 1310
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1310&Year=2023&Initiative=false)
@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Micah Matthews - Washington Medical Commission
 
 ### 0 👎 - Con
 

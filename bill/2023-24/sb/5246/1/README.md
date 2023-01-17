@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5246](/bills/2023-24/sb/5246/) > [Original Bill](/bills/2023-24/sb/5246/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5246](/bill/2023-24/sb/5246/) > [Original Bill](/bill/2023-24/sb/5246/1/)
 
 # SB 5246 - Supreme court fiscal notes
 

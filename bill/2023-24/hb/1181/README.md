@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1181](/bills/2023-24/hb/1181/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1181](/bill/2023-24/hb/1181/)
 
 # HB 1181
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1181&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1091 👍 - Pro
+### 1309 👍 - Pro
 #### Testifying
 * Lynn Fitz-Hugh - Friends of Trees committee of Restoring Earth Connection
 * Carl Schroeder - Association of Washington Cities
@@ -34,9 +34,16 @@
 * Breean Beggs - Spokane City Councilmember
 * Kristiana De Leon - Black Diamond Councilmember
 * Mason Thompson - City of Bothell
+* Krystal Monteros - Disability Mobility Initiative 
+* Jessica  Forsythe - City of Redmond, Council President
 
-### 10 👎 - Con
+### 23 👎 - Con
 #### Testifying
 * Josie Cummings - Building Industry Association of Washington
+* Bill Clarke - WA Realtors
 
-### 2 ❓ - Other
+### 6 ❓ - Other
+#### Testifying
+* Todd Myers - Washington Policy Center
+* Paul Jewell - Washington State Association of Counties
+* john Worthington

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1318](/bills/2023-24/hb/1318/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1318](/bill/2023-24/hb/1318/)
 
 # HB 1318
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1318&Year=2023&Initiative=false)

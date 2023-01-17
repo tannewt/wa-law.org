@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5289](/bills/2023-24/sb/5289/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5289](/bill/2023-24/sb/5289/)
 
 # SB 5289
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5289&Year=2023&Initiative=false)
@@ -11,6 +11,6 @@
 #### Testifying
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-### 8 👎 - Con
+### 10 👎 - Con
 
 ### 0 ❓ - Other

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1018](/bills/2023-24/hb/1018/) > [Original Bill](/bills/2023-24/hb/1018/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1018](/bill/2023-24/hb/1018/) > [Original Bill](/bill/2023-24/hb/1018/1/)
 
 # HB 1018 - Hog fuel/tax exemption
 

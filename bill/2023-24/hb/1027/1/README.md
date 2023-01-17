@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1027](/bills/2023-24/hb/1027/) > [Original Bill](/bills/2023-24/hb/1027/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1027](/bill/2023-24/hb/1027/) > [Original Bill](/bill/2023-24/hb/1027/1/)
 
 # HB 1027 - Audio-only telemedicine
 

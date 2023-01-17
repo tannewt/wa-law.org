@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5122](/bills/2023-24/sb/5122/) > [Original Bill](/bills/2023-24/sb/5122/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5122](/bill/2023-24/sb/5122/) > [Original Bill](/bill/2023-24/sb/5122/1/)
 
 # SB 5122 - Ambulance transport fund
 

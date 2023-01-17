@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5039](/bills/2023-24/sb/5039/) > [Original Bill](/bills/2023-24/sb/5039/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5039](/bill/2023-24/sb/5039/) > [Original Bill](/bill/2023-24/sb/5039/1/)
 
 # SB 5039 - Wildfires/electric utilities
 

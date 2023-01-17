@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5073](/bills/2023-24/sb/5073/) > [Original Bill](/bills/2023-24/sb/5073/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5073](/bill/2023-24/sb/5073/) > [Original Bill](/bill/2023-24/sb/5073/1/)
 
 # SB 5073 - Three branches/admin. rules
 

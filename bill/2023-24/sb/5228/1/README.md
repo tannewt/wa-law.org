@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5228](/bills/2023-24/sb/5228/) > [Original Bill](/bills/2023-24/sb/5228/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5228](/bill/2023-24/sb/5228/) > [Original Bill](/bill/2023-24/sb/5228/1/)
 
 # SB 5228 - Behavioral health OT
 

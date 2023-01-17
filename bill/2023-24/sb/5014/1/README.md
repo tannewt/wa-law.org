@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5014](/bills/2023-24/sb/5014/) > [Original Bill](/bills/2023-24/sb/5014/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5014](/bill/2023-24/sb/5014/) > [Original Bill](/bill/2023-24/sb/5014/1/)
 
 # SB 5014 - Emergency rules/approval
 

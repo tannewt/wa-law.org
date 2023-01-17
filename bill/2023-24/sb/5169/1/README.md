@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5169](/bills/2023-24/sb/5169/) > [Original Bill](/bills/2023-24/sb/5169/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5169](/bill/2023-24/sb/5169/) > [Original Bill](/bill/2023-24/sb/5169/1/)
 
 # SB 5169 - Medicare/health care plans
 

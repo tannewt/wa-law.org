@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5225](/bills/2023-24/sb/5225/) > [Original Bill](/bills/2023-24/sb/5225/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5225](/bill/2023-24/sb/5225/) > [Original Bill](/bill/2023-24/sb/5225/1/)
 
 # SB 5225 - Working conn. child care
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5232](/bills/2023-24/sb/5232/) > [Original Bill](/bills/2023-24/sb/5232/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5232](/bill/2023-24/sb/5232/) > [Original Bill](/bill/2023-24/sb/5232/1/)
 
 # SB 5232 - Firearms/purchase & transfer
 

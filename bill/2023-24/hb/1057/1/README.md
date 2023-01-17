@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1057](/bills/2023-24/hb/1057/) > [Original Bill](/bills/2023-24/hb/1057/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1057](/bill/2023-24/hb/1057/) > [Original Bill](/bill/2023-24/hb/1057/1/)
 
 # HB 1057 - PERS/TRS 1 benefit increase
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1210](/bills/2023-24/hb/1210/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1210](/bill/2023-24/hb/1210/)
 
 # HB 1210
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1210&Year=2023&Initiative=false)
@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Joe Kunzler - None
+* Rowland  Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
-### 1 👎 - Con
+### 4 👎 - Con
+#### Testifying
+* Jason  Perrins - Chewelah SD
 
 ### 0 ❓ - Other

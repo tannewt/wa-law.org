@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5019](/bills/2023-24/sb/5019/) > [Original Bill](/bills/2023-24/sb/5019/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5019](/bill/2023-24/sb/5019/) > [Original Bill](/bill/2023-24/sb/5019/1/)
 
 # SB 5019 - School safety staff
 

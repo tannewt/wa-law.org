@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5316](/bills/2023-24/sb/5316/) > [Original Bill](/bills/2023-24/sb/5316/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5316](/bill/2023-24/sb/5316/) > [Original Bill](/bill/2023-24/sb/5316/1/)
 
 # SB 5316 - DCYF background check fees
 

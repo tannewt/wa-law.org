@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5229](/bills/2023-24/sb/5229/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5229](/bill/2023-24/sb/5229/)
 
 # SB 5229
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5229&Year=2023&Initiative=false)
@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 13 👍 - Pro
+### 28 👍 - Pro
 #### Testifying
 * Jennifer Wray-Keene - Port of Woodland
 * Michael  Echanove - CERB - Community Economic Revitalization Board
 * Suzanne Dale Estey - Washington Economic Development Association
+* Chris Herman - Washington Public Ports Association
 
 ### 0 👎 - Con
 

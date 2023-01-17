@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1134](/bills/2023-24/hb/1134/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1134](/bill/2023-24/hb/1134/)
 
 # HB 1134
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1134&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 68 👍 - Pro
+### 123 👍 - Pro
 #### Testifying
 * Bipasha Mukherjee
 * Brad Banks - Behavioral Health Administrative Services Organizations
@@ -17,6 +17,9 @@
 * Zach Duncan - The Crisis Clinic of Thurston and Mason Counties
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Kristen Wells
+* Jennifer Stuber - University of Washington
+* Paula Sardinas - WBBA/FMSGS
+* Vicki  Lowe - American Indian Health Commission for Washington State
 
 ### 0 👎 - Con
 

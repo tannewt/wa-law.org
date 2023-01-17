@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1330](/bills/2023-24/hb/1330/) > [Original Bill](/bills/2023-24/hb/1330/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1330](/bill/2023-24/hb/1330/) > [Original Bill](/bill/2023-24/hb/1330/1/)
 
 # HB 1330 - Campaigns/foreign nationals
 

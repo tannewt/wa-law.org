@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5397](/bills/2023-24/sb/5397/) > [Original Bill](/bills/2023-24/sb/5397/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5397](/bill/2023-24/sb/5397/) > [Original Bill](/bill/2023-24/sb/5397/1/)
 
 # SB 5397 - Preserving public benefit payments to people in the care of the department of children, youth, and families.
 

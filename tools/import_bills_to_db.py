@@ -243,7 +243,7 @@ for start_year in range(2023, 2025, 2):
             continue
 
         # Skip resolutions
-        if bill_id.startswith("HR") or bill_id.startswith("SR") or bill_id.startswith("HJR") or bill_id.startswith("SJR")  or bill_id.startswith("SCR"):
+        if bill_id.startswith("HR") or bill_id.startswith("ESR") or bill_id.startswith("SR") or bill_id.startswith("HJR") or bill_id.startswith("SJR") or bill_id.startswith("HCR") or bill_id.startswith("SCR"):
             continue
         # Skip governor appointments
         if bill_id.startswith("SGA"):

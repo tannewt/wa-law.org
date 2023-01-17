@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5121](/bills/2023-24/sb/5121/) > [Substitute Bill](/bills/2023-24/sb/5121/S/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5121](/bill/2023-24/sb/5121/) > [Substitute Bill](/bill/2023-24/sb/5121/S/)
 
 # SB 5121 - Health care oversight cmte.
 

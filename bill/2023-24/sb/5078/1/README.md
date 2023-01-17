@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5078](/bills/2023-24/sb/5078/) > [Original Bill](/bills/2023-24/sb/5078/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5078](/bill/2023-24/sb/5078/) > [Original Bill](/bill/2023-24/sb/5078/1/)
 
 # SB 5078 - Firearm industry duties
 

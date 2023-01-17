@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5180](/bills/2023-24/sb/5180/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5180](/bill/2023-24/sb/5180/)
 
 # SB 5180
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5180&Year=2023&Initiative=false)

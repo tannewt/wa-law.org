@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5284](/bills/2023-24/sb/5284/) > [Original Bill](/bills/2023-24/sb/5284/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5284](/bill/2023-24/sb/5284/) > [Original Bill](/bill/2023-24/sb/5284/1/)
 
 # SB 5284 - Campaign finance disclosure
 

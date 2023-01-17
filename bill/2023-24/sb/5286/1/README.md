@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5286](/bills/2023-24/sb/5286/) > [Original Bill](/bills/2023-24/sb/5286/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5286](/bill/2023-24/sb/5286/) > [Original Bill](/bill/2023-24/sb/5286/1/)
 
 # SB 5286 - Paid leave premiums
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5007](/bills/2023-24/sb/5007/) > [Original Bill](/bills/2023-24/sb/5007/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5007](/bill/2023-24/sb/5007/) > [Original Bill](/bill/2023-24/sb/5007/1/)
 
 # SB 5007 - Wine retailer shippers
 

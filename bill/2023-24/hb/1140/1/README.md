@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1140](/bills/2023-24/hb/1140/) > [Original Bill](/bills/2023-24/hb/1140/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1140](/bill/2023-24/hb/1140/) > [Original Bill](/bill/2023-24/hb/1140/1/)
 
 # HB 1140 - Operating budget
 

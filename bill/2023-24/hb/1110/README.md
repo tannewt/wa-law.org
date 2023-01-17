@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1110](/bills/2023-24/hb/1110/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1110](/bill/2023-24/hb/1110/)
 
 # HB 1110
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1110&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1130 👍 - Pro
+### 1432 👍 - Pro
 #### Testifying
 * Joe Kunzler - None
 * Michael White - King County
@@ -33,13 +33,31 @@
 * Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Brett D'Antonio - Habitat for Humanity Seattle-King & Kittitas Counties
 * Lila Grant
+* Pau;a Sardinas - WA Build Back Black Alliance (WBBA)
+* Cristina Mateo - WA Build Back Black Alliance - (WBBA)
+* Mike Ennis - Association of Washington Business
+* Sarah Edick-Howe
+* Bryce Yadon - Futurewise 
+* Leah Missik - Climate Solutions
+* Jesse Piedfort - Sierra Club
+* Patience Malaba - Housing Development Consortium Seattle/King County
+* Jesse Simpson - Housing Development Consortium Seattle/King County
+* April Sims - Washington State Labor Council
+* Alex Freeman-Smith - SEIU 1199NW
+* Girmay Zahilay - King County Councilmember
+* Zack Zappone - City of Spokane
+* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* Andrea Reay - Tacoma Pierce OCUnty Chamber
+* Jennifer Gregerson - American Planning Association, Washington, Legislative Committee
+* Bill Clarke - WA Realtors
+* Dan Bertolet - Sightline Institute
 
-### 57 👎 - Con
+### 77 👎 - Con
 #### Testifying
 * Becky Erikson - Mayor of Poulsbo
 * Dave Moehring - Trees and People
 
-### 5 ❓ - Other
+### 6 ❓ - Other
 #### Testifying
 * John Hines - City of Tacoma
 * Carl Schroeder - Association of Washington Cities

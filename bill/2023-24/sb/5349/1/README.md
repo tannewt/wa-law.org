@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5349](/bills/2023-24/sb/5349/) > [Original Bill](/bills/2023-24/sb/5349/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5349](/bill/2023-24/sb/5349/) > [Original Bill](/bill/2023-24/sb/5349/1/)
 
 # SB 5349 - Postretirement employment
 

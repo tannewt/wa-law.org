@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5396](/bills/2023-24/sb/5396/) > [Original Bill](/bills/2023-24/sb/5396/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5396](/bill/2023-24/sb/5396/) > [Original Bill](/bill/2023-24/sb/5396/1/)
 
 # SB 5396 - Concerning cost sharing for diagnostic and supplemental breast examinations.
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5400](/bills/2023-24/sb/5400/) > [Original Bill](/bills/2023-24/sb/5400/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5400](/bill/2023-24/sb/5400/) > [Original Bill](/bill/2023-24/sb/5400/1/)
 
 # SB 5400 - Concerning actions by health professions disciplining authorities against license applicants and license holders.
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5236](/bills/2023-24/sb/5236/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5236](/bill/2023-24/sb/5236/)
 
 # SB 5236
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5236&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1786 👍 - Pro
+### 1995 👍 - Pro
 #### Testifying
 * Jennifer  Gordon
 * Ian Brune
@@ -18,8 +18,19 @@
 * Lisa Winchell
 * Kelsay Irby
 * Kainui Rapaport
+* Stephanie Simpson - Bleeding Disorder Foundation of Washington
+* Nonie Kingma - Washington State Nurses Association
+* Nich Gullickson - South King County Professional Firefighters
+* Anna Nepomuceno - NAMI Washington
+* Kelli Johnson - UFCW 3000
+* Sam Hatzenbeler  - Economic Opportunity Institute
+* Melissa Swetland  - 1199 NW
+* Jim Freeburg - Patient Coalition of Washington
+* Sara Gering
+* Zane Zuchowski
+* Evan Riley
 
-### 675 👎 - Con
+### 858 👎 - Con
 #### Testifying
 * Alyssa Odegaard - LeadingAge Washington 
 * Jessica Reik - Island Health
@@ -34,5 +45,14 @@
 * RN, Mike Martinoli - Ferry County Memorial Hospital
 * RN, Beth Goetz - Direct Care Nurse
 * Lisa Thatcher - Washington State Hospital Association
+* Matt Cowan - Shoreline Fire Department
+* Jeff Faucett - South Kitsap Fire & Rescue
+* Laci  Johnson - Forks Comunity Hospital 
+* William  Johnson
+* Mike Battis - Washington Ambulance Association
+* Heidi  Anderson - Forks Community Hospital
+* Licett Garbe - Greater Spokane Valley Chamber of Commerce
 
-### 41 ❓ - Other
+### 44 ❓ - Other
+#### Testifying
+* Tammy Fellin - Labor & Industries

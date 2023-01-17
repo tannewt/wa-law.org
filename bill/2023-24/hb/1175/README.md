@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1175](/bills/2023-24/hb/1175/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1175](/bill/2023-24/hb/1175/)
 
 # HB 1175
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1175&Year=2023&Initiative=false)

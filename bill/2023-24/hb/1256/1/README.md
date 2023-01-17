@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1256](/bills/2023-24/hb/1256/) > [Original Bill](/bills/2023-24/hb/1256/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1256](/bill/2023-24/hb/1256/) > [Original Bill](/bill/2023-24/hb/1256/1/)
 
 # HB 1256 - Higher ed. matching grants
 

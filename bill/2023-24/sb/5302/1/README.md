@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5302](/bills/2023-24/sb/5302/) > [Original Bill](/bills/2023-24/sb/5302/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5302](/bill/2023-24/sb/5302/) > [Original Bill](/bill/2023-24/sb/5302/1/)
 
 # SB 5302 - Adult family homes/prop. tax
 

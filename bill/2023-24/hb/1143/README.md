@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1143](/bills/2023-24/hb/1143/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1143](/bill/2023-24/hb/1143/)
 
 # HB 1143
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1143&Year=2023&Initiative=false)
@@ -7,9 +7,30 @@
 * [Original Bill](1/)
 
 ## Positions
-### 503 👍 - Pro
+### 883 👍 - Pro
+#### Testifying
+* Judy Wallace
+* Karyn Brownson
+* Jordan Waits
+* Barbara Serrano - Office of the Governor
+* Tahana Salvadalena
+* Dr. Cassandra Crifasi - Johns Hopkins School of Public Health
+* Gwen Loosmore - WSPTA
+* Christian Heyne - Brady United
+* Jan Weisel
+* Barbara Culp
+* Matt Vadnal
+* Kristen Ellingboe
+* Chelsey Wright
+* Tremayne Edwards
+* Sean Kent
+* Hazel Brown
+* Dylan O'Connor
+* Alexandra Castro
+* Victoria Muzyk
+* Liddy Ballard - Brady United
 
-### 1812 👎 - Con
+### 2264 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * JoAnn Tolentino
@@ -34,5 +55,14 @@
 * Danna Baxter - Safe Fire Range and Training
 * Dan Mitchell - WA Civil Rights Association
 * Mark Crider - Walla Walla County
+* Barbara Schultz
+* Elizabeth VanSteertegem
+* Orion Webster
+* Travis Miller
+* Fred Baerbalck
+* Joe Kunzler
+* William Thomas
 
-### 3 ❓ - Other
+### 5 ❓ - Other
+#### Testifying
+* Jeffrey Slotnick - Setracon Incorporated

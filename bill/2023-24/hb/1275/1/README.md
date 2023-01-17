@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1275](/bills/2023-24/hb/1275/) > [Original Bill](/bills/2023-24/hb/1275/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1275](/bill/2023-24/hb/1275/) > [Original Bill](/bill/2023-24/hb/1275/1/)
 
 # HB 1275 - Athletic trainers
 

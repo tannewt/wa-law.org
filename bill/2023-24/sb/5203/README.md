@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5203](/bills/2023-24/sb/5203/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5203](/bill/2023-24/sb/5203/)
 
 # SB 5203
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5203&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1043 👍 - Pro
+### 1241 👍 - Pro
 #### Testifying
 * Carl Schroeder - Association of Washington Cities
 * Anna Zivarts
@@ -32,10 +32,18 @@
 * Ryan  Walters - Anacortes Councilmember
 * Kaylee Galloway - Whatcom County Councilmember
 * Kristiana De Leon - Black Diamond Councilmember
+* Kelli Refer - Move Redmond
 
-### 12 👎 - Con
+### 22 👎 - Con
 #### Testifying
 * john Worthington
 * Josie Cummings - Building Industry Association of Washington
+* Bill Clarke - WA Realtors
+* Mary Grode
+* Hannah Ordos
+* Phil Bach
+* Thomas Duffy
 
-### 1 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Paul Jewell - Washington State Association of Counties

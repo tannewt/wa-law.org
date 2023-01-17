@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5080](/bills/2023-24/sb/5080/) > [Original Bill](/bills/2023-24/sb/5080/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5080](/bill/2023-24/sb/5080/) > [Original Bill](/bill/2023-24/sb/5080/1/)
 
 # SB 5080 - Cannabis social equity
 

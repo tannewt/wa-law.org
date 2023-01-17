@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1095](/bills/2023-24/hb/1095/) > [Original Bill](/bills/2023-24/hb/1095/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1095](/bill/2023-24/hb/1095/) > [Original Bill](/bill/2023-24/hb/1095/1/)
 
 # HB 1095 - Wage replacement
 

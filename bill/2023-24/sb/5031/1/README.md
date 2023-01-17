@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5031](/bills/2023-24/sb/5031/) > [Original Bill](/bills/2023-24/sb/5031/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5031](/bill/2023-24/sb/5031/) > [Original Bill](/bill/2023-24/sb/5031/1/)
 
 # SB 5031 - Special ed safety net awards
 

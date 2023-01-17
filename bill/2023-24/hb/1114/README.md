@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1114](/bills/2023-24/hb/1114/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1114](/bill/2023-24/hb/1114/)
 
 # HB 1114
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1114&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 33 👍 - Pro
+### 45 👍 - Pro
 #### Testifying
 * J Wesley Saint Clair
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5249](/bills/2023-24/sb/5249/) > [Original Bill](/bills/2023-24/sb/5249/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5249](/bill/2023-24/sb/5249/) > [Original Bill](/bill/2023-24/sb/5249/1/)
 
 # SB 5249 - Working families' tax credit
 

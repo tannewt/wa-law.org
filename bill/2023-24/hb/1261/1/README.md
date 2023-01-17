@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1261](/bills/2023-24/hb/1261/) > [Original Bill](/bills/2023-24/hb/1261/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1261](/bill/2023-24/hb/1261/) > [Original Bill](/bill/2023-24/hb/1261/1/)
 
 # HB 1261 - Breast exam cost sharing
 

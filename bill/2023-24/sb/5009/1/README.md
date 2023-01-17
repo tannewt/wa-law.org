@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5009](/bills/2023-24/sb/5009/) > [Original Bill](/bills/2023-24/sb/5009/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5009](/bill/2023-24/sb/5009/) > [Original Bill](/bill/2023-24/sb/5009/1/)
 
 # SB 5009 - Sex ed./parent approval
 

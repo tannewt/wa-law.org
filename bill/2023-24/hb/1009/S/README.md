@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1009](/bills/2023-24/hb/1009/) > [Substitute Bill](/bills/2023-24/hb/1009/S/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1009](/bill/2023-24/hb/1009/) > [Substitute Bill](/bill/2023-24/hb/1009/S/)
 
 # HB 1009 - Military spouse employment
 

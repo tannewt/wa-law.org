@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5365](/bills/2023-24/sb/5365/) > [Original Bill](/bills/2023-24/sb/5365/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5365](/bill/2023-24/sb/5365/) > [Original Bill](/bill/2023-24/sb/5365/1/)
 
 # SB 5365 - Vapor and tobacco/minors
 

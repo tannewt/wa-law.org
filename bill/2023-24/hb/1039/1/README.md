@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1039](/bills/2023-24/hb/1039/) > [Original Bill](/bills/2023-24/hb/1039/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1039](/bill/2023-24/hb/1039/) > [Original Bill](/bill/2023-24/hb/1039/1/)
 
 # HB 1039 - Intramuscular needling
 

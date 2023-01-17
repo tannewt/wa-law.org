@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5033](/bills/2023-24/sb/5033/) > [Original Bill](/bills/2023-24/sb/5033/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5033](/bill/2023-24/sb/5033/) > [Original Bill](/bill/2023-24/sb/5033/1/)
 
 # SB 5033 - Custodial sexual misconduct
 

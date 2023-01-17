@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5135](/bills/2023-24/sb/5135/) > [Original Bill](/bills/2023-24/sb/5135/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5135](/bill/2023-24/sb/5135/) > [Original Bill](/bill/2023-24/sb/5135/1/)
 
 # SB 5135 - Solitary confinement
 

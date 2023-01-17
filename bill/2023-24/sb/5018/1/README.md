@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5018](/bills/2023-24/sb/5018/) > [Original Bill](/bills/2023-24/sb/5018/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5018](/bill/2023-24/sb/5018/) > [Original Bill](/bill/2023-24/sb/5018/1/)
 
 # SB 5018 - Sales tax/transp. projects
 

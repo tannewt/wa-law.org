@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5194](/bills/2023-24/sb/5194/) > [Original Bill](/bills/2023-24/sb/5194/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5194](/bill/2023-24/sb/5194/) > [Original Bill](/bill/2023-24/sb/5194/1/)
 
 # SB 5194 - Insurance commissioner
 

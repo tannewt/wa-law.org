@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5322](/bills/2023-24/sb/5322/) > [Original Bill](/bills/2023-24/sb/5322/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5322](/bill/2023-24/sb/5322/) > [Original Bill](/bill/2023-24/sb/5322/1/)
 
 # SB 5322 - Public building materials
 

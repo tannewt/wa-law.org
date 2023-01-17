@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1255](/bills/2023-24/hb/1255/) > [Original Bill](/bills/2023-24/hb/1255/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1255](/bill/2023-24/hb/1255/) > [Original Bill](/bill/2023-24/hb/1255/1/)
 
 # HB 1255 - Health care prof. SUD prg.
 

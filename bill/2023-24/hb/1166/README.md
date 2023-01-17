@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1166](/bills/2023-24/hb/1166/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1166](/bill/2023-24/hb/1166/)
 
 # HB 1166
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1166&Year=2023&Initiative=false)
@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 13 👍 - Pro
+### 14 👍 - Pro
 #### Testifying
 * Isaac Kastama - Clean & Prosperous Washington
+* Jay Gordon - Washington Dairy Federation
 
 ### 3 👎 - Con
 

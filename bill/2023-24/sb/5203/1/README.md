@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5203](/bills/2023-24/sb/5203/) > [Original Bill](/bills/2023-24/sb/5203/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5203](/bill/2023-24/sb/5203/) > [Original Bill](/bill/2023-24/sb/5203/1/)
 
 # SB 5203 - Climate change/planning
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5037](/bills/2023-24/sb/5037/) > [Original Bill](/bills/2023-24/sb/5037/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5037](/bill/2023-24/sb/5037/) > [Original Bill](/bill/2023-24/sb/5037/1/)
 
 # SB 5037 - Natural gas/energy code
 

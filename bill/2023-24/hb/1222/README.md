@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1222](/bills/2023-24/hb/1222/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1222](/bill/2023-24/hb/1222/)
 
 # HB 1222
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1222&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 154 👍 - Pro
+### 185 👍 - Pro
 #### Testifying
 * Cynthia Stewart - Hearing Loss Association - WA
 * Jill  Bujnevicie  - Let Washington Kids Hear
@@ -21,6 +21,7 @@
 * Emily Wicks
 * Jane Beyer - Office of the Insurance Commissioner
 * Laura Gramer - Individual/family 
+* David Dupree
 
 ### 0 👎 - Con
 

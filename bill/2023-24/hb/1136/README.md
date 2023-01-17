@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1136](/bills/2023-24/hb/1136/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1136](/bill/2023-24/hb/1136/)
 
 # HB 1136
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1136&Year=2023&Initiative=false)
@@ -11,7 +11,7 @@
 #### Testifying
 * Kevin Njihia - Nobel caregivers 
 
-### 128 👎 - Con
+### 170 👎 - Con
 #### Testifying
 * Rebekah Near - Orca Information, Inc 
 

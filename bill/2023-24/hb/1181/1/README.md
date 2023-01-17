@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1181](/bills/2023-24/hb/1181/) > [Original Bill](/bills/2023-24/hb/1181/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1181](/bill/2023-24/hb/1181/) > [Original Bill](/bill/2023-24/hb/1181/1/)
 
 # HB 1181 - Climate change/planning
 

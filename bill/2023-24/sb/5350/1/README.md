@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5350](/bills/2023-24/sb/5350/) > [Original Bill](/bills/2023-24/sb/5350/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5350](/bill/2023-24/sb/5350/) > [Original Bill](/bill/2023-24/sb/5350/1/)
 
 # SB 5350 - PERS/TRS 1 benefit increase
 

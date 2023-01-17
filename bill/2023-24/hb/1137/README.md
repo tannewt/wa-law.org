@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1137](/bills/2023-24/hb/1137/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1137](/bill/2023-24/hb/1137/)
 
 # HB 1137
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1137&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 20 👍 - Pro
+### 27 👍 - Pro
 #### Testifying
 * Debra Livingston - ReEmployAbility Inc
 * Kerri Butler - Work Bridge Group
@@ -16,9 +16,13 @@
 * Emily Lovell - Washington State Dental Association 
 * Jan Himebaugh  - Building Industry Association of Washington 
 
-### 6 👎 - Con
+### 10 👎 - Con
 #### Testifying
 * Jane Dale - Washington State Association for Justice
 * Kathy Comfort - Washington State Association for Justice
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Erin Frasier - WA State Building & Construction Trades Council
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Tammy Fellin - Labor & Industries

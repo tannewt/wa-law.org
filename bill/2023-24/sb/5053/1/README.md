@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5053](/bills/2023-24/sb/5053/) > [Original Bill](/bills/2023-24/sb/5053/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5053](/bill/2023-24/sb/5053/) > [Original Bill](/bill/2023-24/sb/5053/1/)
 
 # SB 5053 - Insurance sublimits
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5202](/bills/2023-24/sb/5202/) > [Original Bill](/bills/2023-24/sb/5202/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5202](/bill/2023-24/sb/5202/) > [Original Bill](/bill/2023-24/sb/5202/1/)
 
 # SB 5202 - Housing/capital expenditures
 

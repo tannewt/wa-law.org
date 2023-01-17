@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1073](/bills/2023-24/hb/1073/) > [Original Bill](/bills/2023-24/hb/1073/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1073](/bill/2023-24/hb/1073/) > [Original Bill](/bill/2023-24/hb/1073/1/)
 
 # HB 1073 - Medical assistants
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1242](/bills/2023-24/hb/1242/) > [Original Bill](/bills/2023-24/hb/1242/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1242](/bill/2023-24/hb/1242/) > [Original Bill](/bill/2023-24/hb/1242/1/)
 
 # HB 1242 - Behavioral health work group
 

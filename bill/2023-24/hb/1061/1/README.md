@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1061](/bills/2023-24/hb/1061/) > [Original Bill](/bills/2023-24/hb/1061/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1061](/bill/2023-24/hb/1061/) > [Original Bill](/bill/2023-24/hb/1061/1/)
 
 # HB 1061 - Insurance producer education
 

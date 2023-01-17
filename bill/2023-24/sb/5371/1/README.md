@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5371](/bills/2023-24/sb/5371/) > [Original Bill](/bills/2023-24/sb/5371/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5371](/bill/2023-24/sb/5371/) > [Original Bill](/bill/2023-24/sb/5371/1/)
 
 # SB 5371 - Orca vessel protection
 

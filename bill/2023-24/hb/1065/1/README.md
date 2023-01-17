@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1065](/bills/2023-24/hb/1065/) > [Original Bill](/bills/2023-24/hb/1065/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1065](/bill/2023-24/hb/1065/) > [Original Bill](/bill/2023-24/hb/1065/1/)
 
 # HB 1065 - Online marketplaces
 

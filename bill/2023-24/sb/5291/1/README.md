@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5291](/bills/2023-24/sb/5291/) > [Original Bill](/bills/2023-24/sb/5291/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5291](/bill/2023-24/sb/5291/) > [Original Bill](/bill/2023-24/sb/5291/1/)
 
 # SB 5291 - Liquor licenses
 

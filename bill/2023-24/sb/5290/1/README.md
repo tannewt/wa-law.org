@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5290](/bills/2023-24/sb/5290/) > [Original Bill](/bills/2023-24/sb/5290/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5290](/bill/2023-24/sb/5290/) > [Original Bill](/bill/2023-24/sb/5290/1/)
 
 # SB 5290 - Local permit review
 

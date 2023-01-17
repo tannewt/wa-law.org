@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5132](/bills/2023-24/sb/5132/) > [Original Bill](/bills/2023-24/sb/5132/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5132](/bill/2023-24/sb/5132/) > [Original Bill](/bill/2023-24/sb/5132/1/)
 
 # SB 5132 - Assaulting law enf. officers
 

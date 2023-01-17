@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5108](/bills/2023-24/sb/5108/) > [Original Bill](/bills/2023-24/sb/5108/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5108](/bill/2023-24/sb/5108/) > [Original Bill](/bill/2023-24/sb/5108/1/)
 
 # SB 5108 - Law enf. training/regional
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1144](/bills/2023-24/hb/1144/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1144](/bill/2023-24/hb/1144/)
 
 # HB 1144
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1144&Year=2023&Initiative=false)
@@ -7,9 +7,31 @@
 * [Original Bill](1/)
 
 ## Positions
-### 293 👍 - Pro
+### 873 👍 - Pro
+#### Testifying
+* Judy Wallace
+* Karyn Brownson
+* Jordan Waits
+* Barbara Serrano
+* Tahana Salvadalena
+* Dr. Cassandra Crifasi
+* Gwen Loosmore
+* Christian Heyne
+* Jan Weisel
+* Barbara Culp
+* Matt Vadnal
+* Kristen Ellingboe
+* Chelsey Wright
+* Tremayne Edwards
+* Sean Kent
+* Hazel Brown
+* Dylan O'Connor
+* Alexandra Castro
+* Victoria Muzyk
+* Liddy Ballard - Brady United
+* Joe Kunzler
 
-### 1227 👎 - Con
+### 1614 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America
@@ -25,5 +47,7 @@
 * Shelly Quintana
 * Benjamin  Quintana
 * Micah Zeitz-Chua
+* Travis Miller
+* William Thomas
 
 ### 0 ❓ - Other

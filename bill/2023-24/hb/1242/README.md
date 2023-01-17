@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1242](/bills/2023-24/hb/1242/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1242](/bill/2023-24/hb/1242/)
 
 # HB 1242
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1242&Year=2023&Initiative=false)
@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 6 👍 - Pro
+#### Testifying
+* Marc Stern
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 2 ❓ - Other
 #### Testifying
 * Diana Stadden - The Arc of WA State
+* Katie Kolan - Washington State Hospital Association (WSHA)

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1208](/bills/2023-24/hb/1208/) > [Original Bill](/bills/2023-24/hb/1208/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1208](/bill/2023-24/hb/1208/) > [Original Bill](/bill/2023-24/hb/1208/1/)
 
 # HB 1208 - Pet insurance
 

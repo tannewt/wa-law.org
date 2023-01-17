@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5280](/bills/2023-24/sb/5280/) > [Original Bill](/bills/2023-24/sb/5280/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5280](/bill/2023-24/sb/5280/) > [Original Bill](/bill/2023-24/sb/5280/1/)
 
 # SB 5280 - Clergy/child abuse reporting
 

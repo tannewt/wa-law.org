@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1154](/bills/2023-24/hb/1154/) > [Original Bill](/bills/2023-24/hb/1154/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1154](/bill/2023-24/hb/1154/) > [Original Bill](/bill/2023-24/hb/1154/1/)
 
 # HB 1154 - Religious institutions
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1169](/bills/2023-24/hb/1169/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1169](/bill/2023-24/hb/1169/)
 
 # HB 1169
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1169&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 79 👍 - Pro
+### 107 👍 - Pro
 #### Testifying
 * Nick Jeffreys - Urban League of Metropolitan Seattle
 * Evan Walker - Washington State Budget and Policy Center

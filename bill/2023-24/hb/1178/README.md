@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1178](/bills/2023-24/hb/1178/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1178](/bill/2023-24/hb/1178/)
 
 # HB 1178
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1178&Year=2023&Initiative=false)
@@ -7,11 +7,35 @@
 * [Original Bill](1/)
 
 ## Positions
-### 631 👍 - Pro
+### 881 👍 - Pro
 #### Testifying
 * Albert Sardinas - FMSGS / WBBA
+* Breean Beggs - Spokane City Council
+* Ashley Brooks
+* Craig  Reynolds
+* Monisha Harrell - City of Seattle
+* Breean Beggs
+* Ashley Brooks
+* Craig Reynolds
+* Monisha Harrell - City of Seattle
+* Liz Hjelmseth
+* Karyn Brownson - King County Public Health
+* Neal Black - Kirkland City Council
+* Jennifer Dolan Waldman - Grandmothers Against Gun Violence
+* Stephen Paolini - ADL
+* Brad Blackburn
+* Paula Barnes
+* Ian Taylor
+* Kristen Ellingboe
+* Chelsey Wright
+* Tremayne Edwards
+* Sean Kent
+* Hazel Brown
+* Dylan O'Connor
+* Alexandra Castro
+* Victoria Muzyk
 
-### 1804 👎 - Con
+### 2281 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America
@@ -41,7 +65,14 @@
 * Jennifer Belmore-Tamiez
 * John Nowels - Spokane County
 * Aaron Lee
+* Ben Curtain
+* Nicholas Runje
+* Orion Webster
+* Travis  Miller
+* Fred Baerbalck
+* Luis Berbesi
+* William Thomas
 
-### 4 ❓ - Other
+### 5 ❓ - Other
 #### Testifying
 * Michael Scribner

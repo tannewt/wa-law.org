@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5151](/bills/2023-24/sb/5151/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5151](/bill/2023-24/sb/5151/)
 
 # SB 5151
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5151&Year=2023&Initiative=false)
@@ -11,6 +11,6 @@
 #### Testifying
 * Brian Hatfield - Office of Secretary of State
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1277](/bills/2023-24/hb/1277/) > [Original Bill](/bills/2023-24/hb/1277/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1277](/bill/2023-24/hb/1277/) > [Original Bill](/bill/2023-24/hb/1277/1/)
 
 # HB 1277 - Paraeducator course of study
 

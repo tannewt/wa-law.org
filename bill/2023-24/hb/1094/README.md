@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1094](/bills/2023-24/hb/1094/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1094](/bill/2023-24/hb/1094/)
 
 # HB 1094
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1094&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 105 👍 - Pro
+### 139 👍 - Pro
 #### Testifying
 * Jennifer Black - President, Sumner-Bonney Lake Education Association
 * Cristina Mateo - WA Build Back Black Alliance - (WBBA)
@@ -19,6 +19,6 @@
 * Efrem Fesaha - Boon Boona Coffee
 * Arlen Harris - State Board for Community & Technical Colleges
 
-### 3 👎 - Con
+### 11 👎 - Con
 
 ### 0 ❓ - Other

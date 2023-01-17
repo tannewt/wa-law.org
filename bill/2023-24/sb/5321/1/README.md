@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5321](/bills/2023-24/sb/5321/) > [Original Bill](/bills/2023-24/sb/5321/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5321](/bill/2023-24/sb/5321/) > [Original Bill](/bill/2023-24/sb/5321/1/)
 
 # SB 5321 - Personal identifying info.
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1213](/bills/2023-24/hb/1213/) > [Original Bill](/bills/2023-24/hb/1213/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1213](/bill/2023-24/hb/1213/) > [Original Bill](/bill/2023-24/hb/1213/1/)
 
 # HB 1213 - Wipe labeling
 

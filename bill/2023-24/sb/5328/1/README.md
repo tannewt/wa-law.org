@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5328](/bills/2023-24/sb/5328/) > [Original Bill](/bills/2023-24/sb/5328/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5328](/bill/2023-24/sb/5328/) > [Original Bill](/bill/2023-24/sb/5328/1/)
 
 # SB 5328 - Pub safety telecommunicators
 

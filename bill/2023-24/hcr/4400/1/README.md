@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HCR 4400](/bills/2023-24/hcr/4400/) > [Original Bill](/bills/2023-24/hcr/4400/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HCR 4400](/bill/2023-24/hcr/4400/) > [Original Bill](/bill/2023-24/hcr/4400/1/)
 
 # HCR 4400 - Joint session/state of state
 

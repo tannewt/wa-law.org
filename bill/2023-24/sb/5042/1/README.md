@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5042](/bills/2023-24/sb/5042/) > [Original Bill](/bills/2023-24/sb/5042/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5042](/bill/2023-24/sb/5042/) > [Original Bill](/bill/2023-24/sb/5042/1/)
 
 # SB 5042 - Vascular neck restraints
 

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1232](/bills/2023-24/hb/1232/) > [Original Bill](/bills/2023-24/hb/1232/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1232](/bill/2023-24/hb/1232/) > [Original Bill](/bill/2023-24/hb/1232/1/)
 
 # HB 1232 - College bound scholarship
 

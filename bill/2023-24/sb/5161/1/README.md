@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5161](/bills/2023-24/sb/5161/) > [Original Bill](/bills/2023-24/sb/5161/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5161](/bill/2023-24/sb/5161/) > [Original Bill](/bill/2023-24/sb/5161/1/)
 
 # SB 5161 - Fur farming
 

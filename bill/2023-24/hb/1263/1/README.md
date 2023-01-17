@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1263](/bills/2023-24/hb/1263/) > [Original Bill](/bills/2023-24/hb/1263/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1263](/bill/2023-24/hb/1263/) > [Original Bill](/bill/2023-24/hb/1263/1/)
 
 # HB 1263 - Health care marketplace
 

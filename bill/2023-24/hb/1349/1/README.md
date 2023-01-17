@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1349](/bills/2023-24/hb/1349/) > [Original Bill](/bills/2023-24/hb/1349/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1349](/bill/2023-24/hb/1349/) > [Original Bill](/bill/2023-24/hb/1349/1/)
 
 # HB 1349 - Foreclosure protections
 

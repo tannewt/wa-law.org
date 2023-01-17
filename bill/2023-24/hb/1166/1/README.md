@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1166](/bills/2023-24/hb/1166/) > [Original Bill](/bills/2023-24/hb/1166/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1166](/bill/2023-24/hb/1166/) > [Original Bill](/bill/2023-24/hb/1166/1/)
 
 # HB 1166 - Water quality trading prog.
 

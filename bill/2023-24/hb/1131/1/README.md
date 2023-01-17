@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1131](/bills/2023-24/hb/1131/) > [Original Bill](/bills/2023-24/hb/1131/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1131](/bill/2023-24/hb/1131/) > [Original Bill](/bill/2023-24/hb/1131/1/)
 
 # HB 1131 - Solid waste management
 

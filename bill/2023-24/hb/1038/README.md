@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1038](/bills/2023-24/hb/1038/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1038](/bill/2023-24/hb/1038/)
 
 # HB 1038
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1038&Year=2023&Initiative=false)
@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1816 👍 - Pro
+### 1930 👍 - Pro
 #### Testifying
 * Louis Potyondy - MD
 * Amy Brackenbury - Washington State Society of Anesthesiologists and Washington State Medical Association
@@ -18,9 +18,11 @@
 * Sarah Brown - Certified Anesthesiologist Asst and President of WAAA
 * Grier James - Certified Anesthesiologist Assistant
 * Nicole Cabell - Certified Anesthesiologist Assistant
+* Micah Matthews - Washington Medical Commission
+* Natalie Kahn
 
-### 4672 👎 - Con
+### 5150 👎 - Con
 #### Testifying
 * Dee Bender
 
-### 32 ❓ - Other
+### 33 ❓ - Other

@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [SB 5061](/bills/2023-24/sb/5061/) > [Original Bill](/bills/2023-24/sb/5061/1/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5061](/bill/2023-24/sb/5061/) > [Original Bill](/bill/2023-24/sb/5061/1/)
 
 # SB 5061 - Personnel records
 

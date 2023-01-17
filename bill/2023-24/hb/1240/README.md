@@ -1,4 +1,4 @@
-[wa-law.org](/) > [bills](/bills/) > [2023-24](/bills/2023-24) > [HB 1240](/bills/2023-24/hb/1240/)
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1240](/bill/2023-24/hb/1240/)
 
 # HB 1240
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1240&Year=2023&Initiative=false)
@@ -7,12 +7,36 @@
 * [Original Bill](1/)
 
 ## Positions
-### 333 👍 - Pro
+### 1014 👍 - Pro
 #### Testifying
 * Kristin Beneski - WA State Attorney General's Office
 * Albert Sardinas - FMSGS / WBBA
+* Ann-Marie Parsons
+* Robert Schentrup
+* Barbara Serrano - Office of the Governor
+* Kristin Beneski - Attorney General's Office
+* Ami Strahan
+* Dr. Mike Van Dyke
+* Emily Cantrell
+* Margy Heldring - Grandmothers Against Gun Violence
+* Erin Senge
+* Jane Weiss
+* Kim Monroe
+* Niko Battle
+* Justine Stromberg
+* Gwen Loosmoore
+* BRIAN GRAD
+* Kristen Ellingboe
+* Chelsey Wright
+* Tremayne Edwards
+* Sean Kent
+* Hazel Brown
+* Dylan O'Connor
+* Alexandra Castro
+* Victoria Muzyk
+* Joe Kunzler
 
-### 2745 👎 - Con
+### 3359 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America
@@ -46,7 +70,18 @@
 * Dan Mitchell - WA Civil Rights Association
 * Vincent  Navarre
 * Craig Dwyer
+* Adrian Olivares
+* Adrian Olivares
+* Nicholas Runje
+* Elizabeth VanSteertegem
+* Orion Webster
+* James Laster - Individual
+* Travis  Miller
+* Fred Baerbalck
+* Luis Berbesi
+* William Thomas
 
-### 3 ❓ - Other
+### 4 ❓ - Other
 #### Testifying
 * Max Gatof
+* Jeffrey Slotnick - Setracon Incorporated

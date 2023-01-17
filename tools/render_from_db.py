@@ -45,7 +45,7 @@ biennium_rowid = cur.fetchone()[0]
 
 cur.execute("SELECT rowid, prefix, number FROM bills WHERE biennium_rowid = ?", (biennium_rowid,))
 for bill_rowid, prefix, bill_number in cur:
-    breadcrumb = f"[wa-law.org](/) > [bills](/bills/) > [{biennium}](/bills/{biennium}) > [{prefix} {bill_number}](/bills/{biennium}/{prefix.lower()}/{bill_number}/)"
+    breadcrumb = f"[wa-law.org](/) > [bill](/bill/) > [{biennium}](/bill/{biennium}/) > [{prefix} {bill_number}](/bill/{biennium}/{prefix.lower()}/{bill_number}/)"
     bill_readme = [
         breadcrumb,
         "",
@@ -69,7 +69,7 @@ for bill_rowid, prefix, bill_number in cur:
         bill_readme.append(f"* [{REVISION_TO_NAME[revision]}](" + str(revision_path.relative_to(bill_path)) + "/)")
 
         revision_readme = [
-            breadcrumb + f" > [{REVISION_TO_NAME[revision]}](/bills/{biennium}/{prefix.lower()}/{bill_number}/{revision}/)",
+            breadcrumb + f" > [{REVISION_TO_NAME[revision]}](/bill/{biennium}/{prefix.lower()}/{bill_number}/{revision}/)",
             "",
             f"# {prefix} {bill_number} - {description}"
         ]
