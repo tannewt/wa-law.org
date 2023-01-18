@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 28 👍 - Pro
 #### Testifying
 * Micah Matthews - Washington Medical Commission
 

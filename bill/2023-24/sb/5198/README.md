@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 418 👍 - Pro
+### 676 👍 - Pro
 #### Testifying
 * Stacey Valenzuela 
 * Ishbel Dickens - Assoc of Manufactured Home Owners
@@ -20,8 +20,11 @@
 * Jennifer Brodie
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * JOANNA GRIST - AARP
+* Andrew Calkins - King County Housing Authority & Association of Washington Housing Authorities 
+* Victoria OBanion
+* Jan Leonard
 
-### 40 👎 - Con
+### 77 👎 - Con
 #### Testifying
 * Brad Tower - Commonwealth Real Estate Services
 * Ryan Erickson - Commonwealth Real Estate Services
@@ -32,5 +35,11 @@
 * NICOLE KURTENBACH
 * Megan Miller
 * Tomas Gottlieb
+* RUSS MILLARD
+* dustin klinkenberg
+* Robert Cochran - Contempo Mobile Home Park
+* Christa Connolly - West Prairie Village MHP
+* Joe Dugoni - CPX
+* Christina Mays - Detente Management, Inc.
 
 ### 1 ❓ - Other

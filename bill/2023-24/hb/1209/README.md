@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 10 👍 - Pro
 #### Testifying
 * Dave Hayes - WSNIA-Wa. St. Narcotics Investigators
+* Taylor Madison - Hope Soldiers
+* Aaron Torrance
+* Representative Griffey - Co-Sponsor
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 0 ❓ - Other

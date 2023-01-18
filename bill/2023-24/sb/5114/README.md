@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 119 👍 - Pro
+### 133 👍 - Pro
 #### Testifying
 * Sam Cho - Port of Seattle, Commission President
 * Mar  Brettmann - Businesses Ending Slavery and Trafficking 

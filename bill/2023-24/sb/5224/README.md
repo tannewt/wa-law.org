@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 6 👍 - Pro
+#### Testifying
+* Sean Swope - County Commissioner
 
-### 2 👎 - Con
+### 3 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Tedd Kelleher - Department of Commerce
+* Juliana Roe - Washington State Association of Counties

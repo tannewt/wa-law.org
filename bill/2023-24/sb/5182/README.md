@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 12 👍 - Pro
+#### Testifying
+* Carrie Barnes
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

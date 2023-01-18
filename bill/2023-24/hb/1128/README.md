@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 40 👍 - Pro
+### 73 👍 - Pro
 #### Testifying
 * John Ficker - Adult Family Home Council
 * Bea  Rector - Dept. of Social and Health Services

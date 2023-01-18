@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 96 👍 - Pro
+### 116 👍 - Pro
+#### Testifying
+* Alex Lundy - Wonderland Child and Family Services
+* Julia Bledsoe
+* Lauren Burke
 
 ### 0 👎 - Con
 

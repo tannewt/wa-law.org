@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 3 👍 - Pro
 #### Testifying
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Kevin Turner - Ferndale Police Department
 
-### 10 👎 - Con
+### 13 👎 - Con
+#### Testifying
+* Bill Stauffacher - Building Industry Association of Washington
 
 ### 0 ❓ - Other

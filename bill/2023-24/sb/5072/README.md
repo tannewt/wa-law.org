@@ -7,13 +7,22 @@
 * [Original Bill](1/)
 
 ## Positions
-### 297 👍 - Pro
+### 406 👍 - Pro
 #### Testifying
 * Jacob Vigdor - University of Washington Faculty
 * Anna Hernandez-French - OSPI
 * Randy Spaulding - Washington State Board of Education
 * Rene Price - Washington State PTA
+* Logan Endres - Washington State School Directors' Association (WSSDA)
+* Ryan Grant
+* Jennifer Bethman - Superintendent, Rochester School District
+* Amity Butler - Assistant Superintendent, Northshore School District
+* Austina De Bonte - WA Coalition for Gifted Education
+* Nasue Nishida - Washington Education Association 
+* Juliet Schindler - College Success Foundation
 
 ### 3 👎 - Con
 
-### 4 ❓ - Other
+### 5 ❓ - Other
+#### Testifying
+* Myra Arnone - Lake Washington School District

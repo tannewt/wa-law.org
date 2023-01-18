@@ -7,12 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 23 👍 - Pro
+### 24 👍 - Pro
 #### Testifying
 * Tammy Fellin - Labor & Industries
 * Beth Murphy
 
-### 2 👎 - Con
+### 3 👎 - Con
 #### Testifying
 * MD MPH, Breck Lebegue - Washington State Psychiatric Association (WSPA)
 

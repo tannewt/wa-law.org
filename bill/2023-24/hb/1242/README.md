@@ -7,11 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Marc Stern
+* Jared Mason-Gere - Washington Education Association
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Steven Pearce - Citizens Commission on Human Rights
 
 ### 2 ❓ - Other
 #### Testifying

@@ -7,15 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 65 👍 - Pro
+### 125 👍 - Pro
 #### Testifying
 * Anna Lising - Governor's office
 * Kathleen Drew - Energy Facility Site Evaluation Council
 * Ann Rendahl - Utilities and Transportation Commission
 * Glenn Blackmon - Department of Commerce
+* Debra Smith - Seattle City Light
+* Logan Bahr - Tacoma Public Utilities
 
-### 0 👎 - Con
+### 1 👎 - Con
 
-### 1 ❓ - Other
+### 2 ❓ - Other
 #### Testifying
 * John Rothlin - Avista
+* Jay Balasbas - PacifiCorp

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1432 👍 - Pro
+### 1832 👍 - Pro
 #### Testifying
 * Joe Kunzler - None
 * Michael White - King County
@@ -51,13 +51,22 @@
 * Jennifer Gregerson - American Planning Association, Washington, Legislative Committee
 * Bill Clarke - WA Realtors
 * Dan Bertolet - Sightline Institute
+* Tiffany Washington - City of Seattle
+* Wesley Stewart
+* Rico Quirindongo - City of Seattle
+* JOANNA GRIST - AARP
 
-### 77 👎 - Con
+### 103 👎 - Con
 #### Testifying
 * Becky Erikson - Mayor of Poulsbo
 * Dave Moehring - Trees and People
+* Irene Wall
 
-### 6 ❓ - Other
+### 15 ❓ - Other
 #### Testifying
 * John Hines - City of Tacoma
 * Carl Schroeder - Association of Washington Cities
+* Arne Woodard - Councilmember, City of Spokane Valley
+* Jason Sullivan - City of Bonney Lake
+* Dean Martin - Washington State Chapter of Community Association Institute
+* Daniel Thompson - Thompson&Delay

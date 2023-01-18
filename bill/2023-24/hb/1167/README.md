@@ -7,13 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 136 👍 - Pro
+### 150 👍 - Pro
 #### Testifying
 * Alex Hur - Master Builders Association of King and Snohomish Counties
 * Josie Cummings - Building Industry Association of Washington
 * Joe Kunzler - None
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 3 ❓ - Other
 #### Testifying

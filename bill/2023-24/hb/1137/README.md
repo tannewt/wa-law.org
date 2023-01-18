@@ -16,7 +16,7 @@
 * Emily Lovell - Washington State Dental Association 
 * Jan Himebaugh  - Building Industry Association of Washington 
 
-### 10 👎 - Con
+### 11 👎 - Con
 #### Testifying
 * Jane Dale - Washington State Association for Justice
 * Kathy Comfort - Washington State Association for Justice

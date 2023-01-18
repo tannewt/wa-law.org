@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 228 👍 - Pro
+### 282 👍 - Pro
 #### Testifying
 * David Blandford - Yes. I am Exec. Director of State of Washington Tourism
 * David Blandford - Washington Tourism Alliance

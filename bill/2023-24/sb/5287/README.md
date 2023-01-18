@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 13 👍 - Pro
+### 14 👍 - Pro
 #### Testifying
 * Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 

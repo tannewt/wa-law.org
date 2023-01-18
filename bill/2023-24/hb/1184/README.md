@@ -7,10 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 10 👍 - Pro
+#### Testifying
+* Scott  Hazlegrove - WA State Auto Dealers Association
+* Matthew Phillips - Car Pros
+* Nina  Martinez - Latino Civic Alliance
+* Joyce Bruce - WA State Attorney General's Office
+* Aaron Fickes - WA State Attorney General's Office
 
-### 4 👎 - Con
+### 19 👎 - Con
 #### Testifying
 * Scott Musser
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Mark Johnson - Washington Retail Association

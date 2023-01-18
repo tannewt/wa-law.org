@@ -12,8 +12,10 @@
 * Joe Kunzler - None
 * Rowland  Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
-### 4 👎 - Con
+### 7 👎 - Con
 #### Testifying
 * Jason  Perrins - Chewelah SD
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Rob Roettger - Eastern WA Quality Schools Coalition 

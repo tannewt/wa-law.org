@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 
-### 11 👎 - Con
+### 12 👎 - Con
 #### Testifying
 * Ashley Little - Coalition Against Graham and Eatonville-Roy Airport 
 * Ursula Euler

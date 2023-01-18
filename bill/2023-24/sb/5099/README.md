@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 11 👍 - Pro
+### 13 👍 - Pro
 #### Testifying
 * Ramona Hattendorf - The Arc of King County
 * Diana Stadden - The Arc of WA State

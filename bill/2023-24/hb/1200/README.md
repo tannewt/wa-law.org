@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 30 👍 - Pro
+### 38 👍 - Pro
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Laquesha Turner
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### 1 ❓ - Other
 #### Testifying

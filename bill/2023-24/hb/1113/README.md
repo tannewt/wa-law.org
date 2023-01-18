@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Nasue Nishida - Washington Education Association
+* Rob Shadle
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Kristin  Murphy - Office of Superintendent of Public Instruction (OSPI)
 
 ### 0 ❓ - Other

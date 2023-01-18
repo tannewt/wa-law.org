@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Bill Bowman - Washington Court of Appeals, Division One
 
 ### 0 👎 - Con
 

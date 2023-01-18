@@ -7,10 +7,16 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 25 👍 - Pro
+#### Testifying
+* Brad Boswell - CITC
+* Matthew Hepner - IBEW
+* Halene Sigmund - CITC
+* Maya Gillett - BlueGreen Alliance of WA
 
-### 10 👎 - Con
+### 21 👎 - Con
 #### Testifying
 * Hans Frederickson - Frederickson Electric, Inc.
+* Greg Mathews
 
 ### 0 ❓ - Other

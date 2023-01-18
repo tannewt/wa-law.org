@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 14 👍 - Pro
+### 18 👍 - Pro
 #### Testifying
 * Heidi Sickler - bp pulse fleet
 * Leah Missik - Climate Solutions
@@ -15,10 +15,15 @@
 * Heidi Sickler - bp pulse fleet
 * Axel Swanson - Washington State Association of County Engineers
 * Michael White - King County
+* Genesee Adkins - City of Bellevue
+* Noelani Derrickson - Tesla 
+* Brandy DeLange - Association of Washington Cities 
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Michael Transue - Tacoma Pierce County Chamber & the City of Fife
 
-### 27 ❓ - Other
+### 35 ❓ - Other
 #### Testifying
 * Sean Eagan - The Northwest Seaport Alliance
 * Debora Munguia - Mason County
@@ -45,3 +50,9 @@
 * Mike Ennis - Association of Washington Business
 * Sheri  Call - Washington Trucking Associations 
 * Jerry Vanderwood
+* Mark Riker - Washington State Building & Construction Trades Council
+* Dana Schutter - Deputy Chief, Eastside Fire & Rescue 
+* Mayor Geoffrey Thomas  - City of Monroe 
+* Cheryl Stewart - Northwest Associated General Contractors
+* Jake Mayson - Greater Spokane Incorporated
+* Nadine Woodward - Office of the Mayor of Spokane

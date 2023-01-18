@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 20 👍 - Pro
+### 22 👍 - Pro
 #### Testifying
 * Marissa Ingalls - Coordinated Care
 * Keith McNeal - Coordinated Care
@@ -17,6 +17,7 @@
 * Diana Stadden - The Arc of WA State
 * Ramona Hattendorf - The Arc of King County
 * Daniel Lugo - Treehouse
+* Debbie Roberts - DSHS Developmental Disabilities Administration
 
 ### 0 👎 - Con
 

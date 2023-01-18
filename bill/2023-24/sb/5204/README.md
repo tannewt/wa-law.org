@@ -7,10 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 22 👍 - Pro
+### 295 👍 - Pro
+#### Testifying
+* Jamie Lee
+* Valerie Balch
+* Andrea Hikoe
 
-### 27 👎 - Con
+### 30 👎 - Con
 #### Testifying
 * Jennifer Friesen - Them Before Us
+* Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 0 ❓ - Other

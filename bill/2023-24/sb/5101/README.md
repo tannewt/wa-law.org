@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 40 👍 - Pro
+### 46 👍 - Pro
 #### Testifying
 * JIm Chambers
 * Melody Simle
+* Sarah Leon
 
 ### 1 👎 - Con
 #### Testifying

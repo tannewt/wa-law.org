@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 12 👍 - Pro
+### 13 👍 - Pro
 #### Testifying
 * Randy  Johnson - Clallam County Board of Commissioners
 * Carolina Mejia - Thurston County
@@ -16,4 +16,6 @@
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Ed Bowen

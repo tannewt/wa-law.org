@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1995 👍 - Pro
+### 2075 👍 - Pro
 #### Testifying
 * Jennifer  Gordon
 * Ian Brune
@@ -30,7 +30,7 @@
 * Zane Zuchowski
 * Evan Riley
 
-### 858 👎 - Con
+### 895 👎 - Con
 #### Testifying
 * Alyssa Odegaard - LeadingAge Washington 
 * Jessica Reik - Island Health
@@ -52,7 +52,8 @@
 * Mike Battis - Washington Ambulance Association
 * Heidi  Anderson - Forks Community Hospital
 * Licett Garbe - Greater Spokane Valley Chamber of Commerce
+* Carlton Heine - WA ACEP
 
-### 44 ❓ - Other
+### 45 ❓ - Other
 #### Testifying
 * Tammy Fellin - Labor & Industries

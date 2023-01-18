@@ -11,6 +11,6 @@
 #### Testifying
 * Libby Snyder - Uniform Law Commission
 
-### 0 👎 - Con
+### 1 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

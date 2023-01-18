@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 185 👍 - Pro
+### 235 👍 - Pro
 #### Testifying
 * Cynthia Stewart - Hearing Loss Association - WA
 * Jill  Bujnevicie  - Let Washington Kids Hear
@@ -22,7 +22,10 @@
 * Jane Beyer - Office of the Insurance Commissioner
 * Laura Gramer - Individual/family 
 * David Dupree
+* August Kotovic
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 0 ❓ - Other

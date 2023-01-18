@@ -15,12 +15,13 @@
 * Christina L.  Henry - Northwest Consumer Law Center, Board Member 
 * Mark  Fredrich - Prosperity Real Estate, LLC
 
-### 5 👎 - Con
+### 6 👎 - Con
 #### Testifying
 * Justin Murphy - Washington Collectors Association
 * Sonia Gibson - Receivables Management Association International (RMAI)
 * Mindy Chumbley - WA Collectors Assn
 * Mindy Chumbley - WA Collector's Assn
+* Kevin Underwood - Washington Collectors Assn
 
 ### 1 ❓ - Other
 #### Testifying

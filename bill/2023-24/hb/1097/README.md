@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 55 👍 - Pro
+### 57 👍 - Pro
 #### Testifying
 * Amanda Fox - Animal Rights Initiative
 * Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)

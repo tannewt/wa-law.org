@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1930 👍 - Pro
+### 2034 👍 - Pro
 #### Testifying
 * Louis Potyondy - MD
 * Amy Brackenbury - Washington State Society of Anesthesiologists and Washington State Medical Association
@@ -21,8 +21,8 @@
 * Micah Matthews - Washington Medical Commission
 * Natalie Kahn
 
-### 5150 👎 - Con
+### 5441 👎 - Con
 #### Testifying
 * Dee Bender
 
-### 33 ❓ - Other
+### 34 ❓ - Other

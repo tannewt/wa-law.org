@@ -7,11 +7,24 @@
 * [Original Bill](1/)
 
 ## Positions
-### 14 👍 - Pro
+### 181 👍 - Pro
+#### Testifying
+* Liz Hjelmseth
+* Stephen Paolini - ADL
+* Flynn Williams
+* Neal Black - Kirkland City Council
+* Michael Nelson
+* Ashley Brooks
+* Jeannie Shu
+* Brian Duncan
 
-### 447 👎 - Con
+### 472 👎 - Con
 #### Testifying
 * Ronald Lorimer
 * Chris Giles
+* Julie Barrett - Conservative Ladies of Washington
+* Aoibheann Cline - National Rifle Association
+* Cory Malon - WA Civil Rights Association
+* Anthony Santoyo
 
 ### 0 ❓ - Other

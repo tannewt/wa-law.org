@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 8 👍 - Pro
 #### Testifying
 * Ramona Hattendorf - The Arc of King County
+* Christopher  Willis - Orting School District 
 
 ### 0 👎 - Con
 

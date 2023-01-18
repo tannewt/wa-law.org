@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1313 👍 - Pro
+### 1473 👍 - Pro
 #### Testifying
 * Mignon Senuta - Digimarc
 * Kate Bailey - The Association of Plastic Recyclers
@@ -34,8 +34,9 @@
 * Annabella (Bella) Hillyer - UW student
 * Dax Tate - WashPIRG
 * Heather Trim - Zero Waste Washington
+* Brie Kuhn - WasteXperts
 
-### 39 👎 - Con
+### 60 👎 - Con
 #### Testifying
 * Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management
@@ -59,8 +60,12 @@
 * Brandon  Houskeeper - Northwest Grocery Association
 * Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 * Rowland  Thompson  - The Wine Institute 
+* Tim Shestek - American Chemistry Council
+* Logan Harvey
+* Peter  Godlewski  - Association of Washington Business 
+* Rebecca Francik - Basin Disposal
 
-### 17 ❓ - Other
+### 21 ❓ - Other
 #### Testifying
 * Alex Truelove - Biodegradable Products Institute
 * Eric Chambers - Oregon Beverage Recycling Cooperative
@@ -76,3 +81,7 @@
 * Marian Dacca - Glass Packaging Institute (GPI) 
 * James Toner - IBWA
 * Rowland  Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association 
+* Mark Johnson - Washington Retail Association
+* Josh McDonald - Washington Wine Institute
+* john Worthington
+* Daniel Groce - Novelis

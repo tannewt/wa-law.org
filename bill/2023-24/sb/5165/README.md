@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 75 👍 - Pro
+### 152 👍 - Pro
 #### Testifying
 * Anna Lising - Governor's Office
 * Kathleen Drew - Energy Facilities Site Evaluation Council
@@ -16,9 +16,16 @@
 * Debra Smith - Seattle City Light
 * Logan Bahr - Tacoma Public Utilities
 * Cassie Bordelon - Puget Sound Energy
+* Kelsie Gomanie - NRDC
+* Angus Duncan - Natural Resources Defense Council (NRDC)
+* Lauren McCloy - NW Energy Coalition
+* Scott Richards - The Nature Conservancy
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 6 ❓ - Other
 #### Testifying
 * John Rothlin
+* Jay  Balasbas - PacifiCorp
+* Peter  Godlewski  - Association of Washington Business 
+* Nicolas Garcia - WPUDA

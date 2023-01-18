@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 864 👍 - Pro
+### 915 👍 - Pro
 #### Testifying
 * Kristin Beneski - WA State Attorney General's Office
 * Nate Roberts - Washington State Association for Justice
@@ -23,7 +23,7 @@
 * Kate Stockert
 * Flynn Williams
 
-### 1846 👎 - Con
+### 1894 👎 - Con
 #### Testifying
 * Eric Pratt - America
 * Julie Barrett - Conservative Ladies of Washington

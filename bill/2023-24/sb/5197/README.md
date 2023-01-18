@@ -7,10 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Edmund Witter - King County Bar Association 
 
-### 1 👎 - Con
+### 24 👎 - Con
 
 ### 0 ❓ - Other

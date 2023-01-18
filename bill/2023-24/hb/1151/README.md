@@ -7,10 +7,26 @@
 * [Original Bill](1/)
 
 ## Positions
-### 37 👍 - Pro
+### 494 👍 - Pro
+#### Testifying
+* Tyler Ketterl
+* Allison Carney - Wollam
+* Valerie Balch
+* Dr. Chris Herndon
+* Dr. Tyler  Ketterl
+* Alexis Oliver Turla
+* Katherine Tarlock
+* Nicole Schroeder
+* Adam Zarrin - Leukemia & Lymphoma Society
+* Victor Shevlyagin
+* Betsy Campbell - RESOLVE National Infertility Association
+* Rodolfo Turla
+* Kaycee Oatman
+* Andrea Hikoe
 
-### 38 👎 - Con
+### 43 👎 - Con
 #### Testifying
 * Jennifer Friesen - Them Before Us
+* Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 0 ❓ - Other

@@ -7,10 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 15 👍 - Pro
+### 19 👍 - Pro
 #### Testifying
 * Leah Missik - Climate Solutions
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 4 ❓ - Other
+#### Testifying
+* Jim Hagar - Port of Vancouver USA
+* Temple Lentz - Chair, Freight Mobility Strategic Investment Board
+* Ben Wick - Mayor, Spokane Valley; Board Member, Freight Mobility Strategic Investment Board
+* Matthew Ewers  - VP IEDS Logistics; Board member, Freight Mobility Strategic Investment Boar

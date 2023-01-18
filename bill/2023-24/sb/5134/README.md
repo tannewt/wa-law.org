@@ -7,11 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 17 👍 - Pro
+### 26 👍 - Pro
 #### Testifying
 * JD BARTON - ORION WATCH COMMUNITY OUTREACH PROGRAMS
 * Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAM
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Danielle Armbruster - Department of Corrections

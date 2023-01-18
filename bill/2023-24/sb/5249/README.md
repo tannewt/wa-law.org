@@ -7,11 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 51 👍 - Pro
+### 183 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 * Cynthia Stewart - League of Women Voters of WA
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

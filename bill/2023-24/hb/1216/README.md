@@ -7,11 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 17 👍 - Pro
+### 22 👍 - Pro
 #### Testifying
 * Mark Vossler - Washington Physicians for Social Responsibility
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying

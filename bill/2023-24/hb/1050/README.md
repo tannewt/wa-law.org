@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 7 👍 - Pro
+#### Testifying
+* Luis Licea - Northwest Laborers Employers Training Trust
 
 ### 0 👎 - Con
 

@@ -7,13 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 87 👍 - Pro
+### 103 👍 - Pro
 #### Testifying
 * Anna Bean - Councilmember- Puyallup Tribe of Indians
 * Karen  Condon - Confederated Tribes of the Colville Reservation 
 * Bob Ferguson - WA State Attorney General's Office
 * Annie Forsman-Adams - WA State Attorney General's Office
 * Michael Moran - Confederated Tribes of the Colville Reservation
+* James Schrimpsher - WA Fraternal Order of Police
 
 ### 0 👎 - Con
 

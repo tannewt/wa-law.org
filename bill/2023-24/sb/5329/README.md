@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Ruben Flores - Council Of Presidents
+* Arlen Harris - State Board for Community & Technical Colleges

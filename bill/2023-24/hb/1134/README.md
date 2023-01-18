@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 123 👍 - Pro
+### 161 👍 - Pro
 #### Testifying
 * Bipasha Mukherjee
 * Brad Banks - Behavioral Health Administrative Services Organizations
@@ -20,9 +20,15 @@
 * Jennifer Stuber - University of Washington
 * Paula Sardinas - WBBA/FMSGS
 * Vicki  Lowe - American Indian Health Commission for Washington State
+* Kyle Moore - City of SeaTac
+* Anna Nepomuceno - NAMI WA
+* Kelly Rider - King County
+* Joelle Craft - Washington Community Action Network
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Diana Stadden - The Arc of WA State
+* Keri Waterland - HCA
+* Michele Roberts - Department of Health

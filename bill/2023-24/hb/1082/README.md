@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 74 👍 - Pro
+### 92 👍 - Pro
 #### Testifying
 * Ben Boyle - APTA Washington
 * Rachel Herron

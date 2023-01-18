@@ -7,13 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 170 👍 - Pro
+### 203 👍 - Pro
 #### Testifying
 * Gregg VandeKieft - Washington Academy of Family Physicians 
 * M. Lorena Gonzalez - ACLU of Washington
 * Nancy  Sapiro - End of Life WA
 
-### 269 👎 - Con
+### 290 👎 - Con
 #### Testifying
 * Mark Tibbles
 * Sherri Tibbles
@@ -23,5 +23,6 @@
 * Esther Ripplinger - Human Life of WA
 * Mary Long - Conservative Ladies of Washington
 * pam bennetsen - ConservativeLadiesofWashington
+* suzanne rohner
 
 ### 0 ❓ - Other

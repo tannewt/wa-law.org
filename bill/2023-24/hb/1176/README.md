@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 183 👍 - Pro
+### 208 👍 - Pro
 #### Testifying
 * Guillermo Rogel - Front and Centered
 * Carrie Sessions - Governor's Office
@@ -19,7 +19,11 @@
 * Joshua Rubenstein - The Nature Conservancy
 * Tom Davis - Washington Forest Protection Association
 * Jonathan Holcombe
+* Erin Frasier - Washington State Building & Construction Trades Council
+* Heather Kurtenbach - Ironworkers L 86
+* Maud Daudon - Career Connect Washington
+* Bridget Talebi - WA State Department of Ecology
 
-### 4 👎 - Con
+### 10 👎 - Con
 
 ### 0 ❓ - Other

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 256 👍 - Pro
+### 333 👍 - Pro
 #### Testifying
 * Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * David Schumacher - Office of Financial Management
@@ -17,11 +17,14 @@
 * Lisa Vatske - WSHFC
 * Nick Federici - United Way of King County and United Ways of the Pacific Northwest
 * Jon Grant - Low Income Housing Institute
+* Andrew Calkins - King County Housing Authority & AWHA
+* Greg Dunfield - Coalition for Affordable Housing Development
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Michael McKinley
 
-### 1 ❓ - Other
+### 2 ❓ - Other
 #### Testifying
 * Dave Mastin - Association of Washington Business
+* Tracy Williams - Low Income Housing Institute

@@ -7,14 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 49 👍 - Pro
+### 57 👍 - Pro
 #### Testifying
 * Shelly Burt
 * Luckisha Phillips - Washington State School Directors' Association (WSSDA)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction 
 * Julie Salvi - Washington Education Association
 * Danna Summers - ESIT DSYF Council Member Parent 
+* Tanya Aggar - Washington State PTA
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Shannon Hitch - Lake Washington School District

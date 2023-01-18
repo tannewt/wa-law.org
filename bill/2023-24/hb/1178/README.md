@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 881 👍 - Pro
+### 890 👍 - Pro
 #### Testifying
 * Albert Sardinas - FMSGS / WBBA
 * Breean Beggs - Spokane City Council
@@ -34,8 +34,9 @@
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk
+* Wendy Lendrum
 
-### 2281 👎 - Con
+### 2341 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America

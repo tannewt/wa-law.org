@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 883 👍 - Pro
+### 908 👍 - Pro
 #### Testifying
 * Judy Wallace
 * Karyn Brownson
@@ -30,7 +30,7 @@
 * Victoria Muzyk
 * Liddy Ballard - Brady United
 
-### 2264 👎 - Con
+### 2322 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * JoAnn Tolentino

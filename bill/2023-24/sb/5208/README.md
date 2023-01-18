@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 187 👍 - Pro
+### 213 👍 - Pro
 #### Testifying
 * Jazmine Smith - The Washington Bus
 * Cindy Black - Fix Democracy First
@@ -19,6 +19,6 @@
 * Anna Hughes
 * Cindy Black - Fix Democracy First
 
-### 3 👎 - Con
+### 15 👎 - Con
 
 ### 0 ❓ - Other

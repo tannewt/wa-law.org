@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 873 👍 - Pro
+### 894 👍 - Pro
 #### Testifying
 * Judy Wallace
 * Karyn Brownson
@@ -31,7 +31,7 @@
 * Liddy Ballard - Brady United
 * Joe Kunzler
 
-### 1614 👎 - Con
+### 1660 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America
@@ -48,6 +48,7 @@
 * Benjamin  Quintana
 * Micah Zeitz-Chua
 * Travis Miller
+* William Thomas
 * William Thomas
 
 ### 0 ❓ - Other

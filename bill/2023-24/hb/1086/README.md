@@ -7,12 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 15 👍 - Pro
+### 16 👍 - Pro
 #### Testifying
 * Jay Cochran - North Whidbey Pool, Park, & Recreation District
 * Jennifer Wills - City of Longview Recreation
 * Trevor Justin - Washington Recreation & Park Association
 
-### 4 👎 - Con
+### 5 👎 - Con
 
 ### 0 ❓ - Other

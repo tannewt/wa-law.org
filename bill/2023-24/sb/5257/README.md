@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 140 👍 - Pro
+### 205 👍 - Pro
 #### Testifying
 * Brian Freeman - Eastern WA Quality Schools Coalition 
 * Shelly Burt - Parent
@@ -21,12 +21,17 @@
 * Maiya Burton Cahn - Elementary School Student
 * Monique Burton - Medical Director
 * Linnea Westerlind - Parent/PTA Advocate 
+* Emily Carter - Special Olympics Washington
+* Karla Landis
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Woody Howard - Association of Washington School Principals - Elementary 
 
-### 4 ❓ - Other
+### 5 ❓ - Other
 #### Testifying
 * Michelle Nims - Washington State PTA (WSPTA)
 * Kelsi Hamilton - Washington State School Directors' Association (WSSDA)
 * Anna Hernandez-French - OSPI
 * Michael Olsen - Kettle Falls School District
+* Patrick Vincent - 1) On behalf of Association of Washington School Principals (AWSP) and 2) as a current principal

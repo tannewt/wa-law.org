@@ -7,11 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 17 👍 - Pro
+### 49 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
 * Jennifer Ziegler - Association of Washington Health Care Plans
+* Mark Johnson - Washington Retail Association
+* Anna  Ratzliff - University of Washington
+* Bill O'Connell - University of Washington 
+* Anna  Ratzliff - University of Washington
+* Rex Rempel - Lake Washington Institute of Technology
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Evan Klein

@@ -9,6 +9,6 @@
 ## Positions
 ### 4 👍 - Pro
 
-### 2 👎 - Con
+### 15 👎 - Con
 
 ### 0 ❓ - Other

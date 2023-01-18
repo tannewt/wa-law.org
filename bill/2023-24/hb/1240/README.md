@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1014 👍 - Pro
+### 1035 👍 - Pro
 #### Testifying
 * Kristin Beneski - WA State Attorney General's Office
 * Albert Sardinas - FMSGS / WBBA
@@ -35,8 +35,10 @@
 * Alexandra Castro
 * Victoria Muzyk
 * Joe Kunzler
+* Anita Thomson
+* Kathy Sakahara - Northwest Progressive Institute
 
-### 3359 👎 - Con
+### 3439 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America

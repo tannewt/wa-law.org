@@ -7,11 +7,24 @@
 * [Original Bill](1/)
 
 ## Positions
-### 123 👍 - Pro
+### 169 👍 - Pro
 #### Testifying
 * ROSE GUNDERSEN - Washington Retail Association
 * ROSE GUNDERSEN - Washington Retail Association
+* Kyle Moore - City of SeaTac
+* Leah White - Washington State Women's Commission
+* Paula Sardinas - FMSGS / WBBA
+* Mar Brettmann - Businesses Ending Slavery & Trafficking 
+* Kyra Abrahamson - Washington Trafficking Prevention
+* Mary  Williams - REST
+* Marissa Perez - Yarrow Project
+* Jeri Moomaw - Innovations HTC
+* Tricia MacFarlan - Mirror Ministries 
+* Robin  Miller - Janus Youth
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* emi koyama - Coalition for Rights & Safety for People in the Sex Trade
+* Rick Torrance - Department of Commerce, OCVA

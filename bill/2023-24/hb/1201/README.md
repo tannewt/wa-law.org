@@ -13,7 +13,7 @@
 * K.D.  Chapman-See - Office of Financial Management
 * Marcus Ehrlander - Office of Financial Management
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Michael McKinley
 

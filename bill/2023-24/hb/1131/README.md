@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1329 👍 - Pro
+### 1527 👍 - Pro
 #### Testifying
 * Kate Bailey
 * Ann Murphy - League of Women Voters of Washington
@@ -30,8 +30,10 @@
 * Jessica Day - UW Student
 * Dax Tate - WashPIRG
 * Heather Trim - Zero Waste Washington
+* Derek  Ruckman - WasteXperts
+* john Worthington
 
-### 35 👎 - Con
+### 56 👎 - Con
 #### Testifying
 * Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management
@@ -55,8 +57,10 @@
 * Brandon Houskeeper - Northwest Grocery Association
 * Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 * Rowland  Thompson  - The Wine Institute 
+* Tim Shestek - American Chemistry Council
+* Logan Harvey
 
-### 17 ❓ - Other
+### 22 ❓ - Other
 #### Testifying
 * Eric Chambers - Oregon Beverage Recycling Cooperative
 * john Worthington
@@ -72,3 +76,7 @@
 * Todd Myers - Washington Policy Center
 * James Toner - IBWA
 * Rowland  Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association 
+* Mark Johnson - Washington Retail Association
+* Josh McDonald - Washington Wine Institute
+* Daniel Olson - Washington Brewers Guild 
+* Charles  Feick - NGO PIECE and NGO PEACE 

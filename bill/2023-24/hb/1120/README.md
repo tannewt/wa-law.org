@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * Michael Walker - Office of the Insurance Commissioner
 * John Mangan - American Council of Life Insurers
+* Alex Collins - NAIFA - National Association of Insurance and Financial Advisors
 
 ### 0 👎 - Con
 

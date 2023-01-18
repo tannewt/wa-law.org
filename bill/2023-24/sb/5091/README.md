@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 8 👍 - Pro
+### 13 👍 - Pro
+#### Testifying
+* Seth Worley - Plumbers and Steamfitters UA Local 598
+* Michelle Detwiler - Renewable Hydrogen Alliance
 
 ### 0 👎 - Con
 

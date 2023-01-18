@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 44 👍 - Pro
+### 55 👍 - Pro
 #### Testifying
 * Michael Moran - Lake Washington High School/Capitol Classroom 
 * Gabrielle Heuer - Lake Washington High School
@@ -21,7 +21,7 @@
 * Mahee Nemani - Lake Washington High School
 * MICHAEL MORAN - Lake Washington High School/Capitol Classroom 
 
-### 14 👎 - Con
+### 19 👎 - Con
 #### Testifying
 * Michael McShane - URM Stores
 * Carolyn Logue - Washington Food Industry Association (WFIA)

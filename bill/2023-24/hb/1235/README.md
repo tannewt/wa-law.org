@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Tom McBride - WDFW
+* Rachel Blomker - WDFW
 
 ### 0 👎 - Con
 

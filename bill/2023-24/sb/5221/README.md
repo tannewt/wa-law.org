@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 10 👍 - Pro
+#### Testifying
+* Jessica Monger - Washington State Opportunity Scholarship
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

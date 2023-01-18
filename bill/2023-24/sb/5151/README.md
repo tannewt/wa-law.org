@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 #### Testifying
 * Brian Hatfield - Office of Secretary of State
+* Steve Hobbs - Office of Secretary of State
 
-### 2 👎 - Con
+### 6 👎 - Con
 
 ### 0 ❓ - Other

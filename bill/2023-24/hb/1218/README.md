@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 9 👍 - Pro
+### 13 👍 - Pro
 #### Testifying
 * Steve Ewing - Department of Revenue
 

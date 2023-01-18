@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Mark Johnson - Washington Retail Association
 
-### 0 👎 - Con
+### 4 👎 - Con
+#### Testifying
+* Mike  Responte  - Teamsters Local 174
+* Chris Porter - Teamsters 174
 
 ### 0 ❓ - Other

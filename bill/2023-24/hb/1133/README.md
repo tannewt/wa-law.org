@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 33 👍 - Pro
+### 41 👍 - Pro
 #### Testifying
 * Brent  Ludeman - Building Industry Association of Washington
 * Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -17,6 +17,7 @@
 * Paul Jewell - Washington State Association of Counties
 * STEVEN TRAUTWEIN
 * Bill Clarke - WA Realtors + Kittitas County
+* Ellen Skarin - None
 
 ### 1 👎 - Con
 #### Testifying

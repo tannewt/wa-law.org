@@ -7,10 +7,20 @@
 * [Original Bill](1/)
 
 ## Positions
-### 28 👍 - Pro
+### 48 👍 - Pro
+#### Testifying
+* Cory Taylor - SEIU 925
+* Anthony Cantu - UFCW 3000
+* Samantha Grad - Teamsters 117
+* Silvia Marinova - WPEA
 
-### 1 👎 - Con
+### 6 👎 - Con
 #### Testifying
 * Seth  Berntsen - Association of Washington Cities 
+* Mike Hoover - Washington State Association of Counties
+* James  McMahan - WA Assoc Sheriffs & Police Chiefs
+* Bob Battles - Association of Washington Business (AWB)
 
-### 1 ❓ - Other
+### 3 ❓ - Other
+#### Testifying
+* Candice Bock - Association of Washington Cities

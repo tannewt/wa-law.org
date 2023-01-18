@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 20 👍 - Pro
+### 24 👍 - Pro
 #### Testifying
 * Jim Kowalkowski - Rural Education Center
 * Zackary Turner - PESB
@@ -15,7 +15,10 @@
 * Mandy Jessee
 * Lyon Terry
 * Rick Chisa - Public School Employees of Washington (PSE)
+* Nasue Nishida - Washington Education Association
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Caitlin Cox - Lake Washington School District

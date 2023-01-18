@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 11 👍 - Pro
+### 16 👍 - Pro
 #### Testifying
 * Lori  Larsen - Washington Association of County Auditors
 * Carolyn  Fundingsland - Washington Association of County Auditors
@@ -15,4 +15,6 @@
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Matthew Germer - R Street Institute

@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 44 👍 - Pro
+### 157 👍 - Pro
+#### Testifying
+* Amy Carey - Sound Action
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

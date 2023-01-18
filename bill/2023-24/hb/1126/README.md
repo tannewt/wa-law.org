@@ -9,12 +9,13 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 9 👎 - Con
+### 12 👎 - Con
 #### Testifying
 * Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
 * Jake  Pool - Coalition Against Graham and Eatonville-Roy Airports
 * Ursula Euler
 * Brian Jarrell
+* Jennifer Roy
 
 ### 2 ❓ - Other
 #### Testifying

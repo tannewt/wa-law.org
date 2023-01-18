@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 78 👍 - Pro
+### 98 👍 - Pro
 #### Testifying
 * Carol Sullivan - League of Women Voters of Wl
 
-### 74 👎 - Con
+### 207 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Julie Barrett - Conservative Ladies of Washington
+* Sherri Tibbles
+* Mark Tibbles
 
 ### 1 ❓ - Other

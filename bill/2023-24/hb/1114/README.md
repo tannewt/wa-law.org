@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 45 👍 - Pro
+### 54 👍 - Pro
 #### Testifying
 * J Wesley Saint Clair
+* Jim Chambers
 
 ### 0 👎 - Con
 
