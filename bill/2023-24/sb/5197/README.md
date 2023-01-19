@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 9 👍 - Pro
 #### Testifying
 * Edmund Witter - King County Bar Association 
+* Jody Suhrbier - Resolution Washington
 
-### 24 👎 - Con
+### 299 👎 - Con
+#### Testifying
+* Brett Waller - HNN Communities
 
-### 0 ❓ - Other
+### 1 ❓ - Other

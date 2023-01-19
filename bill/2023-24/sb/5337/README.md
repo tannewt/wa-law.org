@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 3 👍 - Pro
 #### Testifying
 * Mary Hull-Drury - Washington Realtors
 
 ### 1 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Edmund Witter - King County Bar Association

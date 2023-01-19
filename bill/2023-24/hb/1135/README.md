@@ -7,14 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 246 👍 - Pro
+### 253 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 * Briahna Murray - City of Redmond, Lobbyist
 * Angela Birney - Mayor of the City of Redmond
 * Bryce Yadon - Futurewise 
 
-### 14 👎 - Con
+### 15 👎 - Con
 #### Testifying
 * Biil Stauffacher - Building Industry Association of Washington
 

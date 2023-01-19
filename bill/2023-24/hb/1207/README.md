@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 8 👍 - Pro
+#### Testifying
+* Sarah Albertson - OSPI
 
 ### 0 👎 - Con
 

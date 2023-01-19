@@ -7,13 +7,16 @@
 * [Original Bill](1/)
 
 ## Positions
-### 52 👍 - Pro
+### 83 👍 - Pro
 #### Testifying
 * Jay  Theiler - Washington Beef
 * Jack Field - Executive Director, Washington Cattle Feeders Aoocaiton 
 * Jack Field - self
 * Kallie Harder - Washington Farm Bureau - Young Farmers and Ranchers Committee
+* Dan Wood - WA State Dairy Federation
+* Jennifer Colvin - Colvin Ranch
+* Fred Colvin
 
-### 28 👎 - Con
+### 50 👎 - Con
 
 ### 0 ❓ - Other

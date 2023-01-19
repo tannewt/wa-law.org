@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Brad Boswell - Seattle Kraken/Climate Pledge Arena
+* Eric Jaeger - Climate Pledge Arena, SVP of Finance
+* Eric Pettigrew - Seattle Kraken, VP of Gov Relations and Outreach
 
 ### 0 👎 - Con
 

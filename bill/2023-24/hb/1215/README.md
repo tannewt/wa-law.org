@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 92 👍 - Pro
+### 103 👍 - Pro
 #### Testifying
 * Sherri Dysart - League of Women Voters of Washington
 * Margen Carlson - WDFW
@@ -20,8 +20,10 @@
 * Liz Hamilton - Northwest Sportfishing Industry Association
 * Wes McCart - Stevens County Commissioners
 * Lorna Smith
+* Erik Neatherlin - Recreation Conservation Office--Governor's Salmon Recovery Office
+* Justin Allegro - The Nature Conservancy in Washington
 
-### 268 👎 - Con
+### 285 👎 - Con
 #### Testifying
 * Barbara Connelly
 * Mary Jennings
@@ -32,8 +34,9 @@
 * John Roozen - Washington Bulb Co Inc
 * Diana Carlen - Washington Association of Wheat Growers & Washington Potato & Onion Association
 * Mark Streuli - Washington Potato and Onion Association & Washington Cattlemen's Association
+* Brandon  Roozen - Western Washington Agricultural Association
 
-### 18 ❓ - Other
+### 20 ❓ - Other
 #### Testifying
 * Tom Salzer - Washington Association of Conservation Districts
 * Pam Lewison - Ag Research Director, Washington Policy Center
@@ -50,3 +53,5 @@
 * Kris Peters - Chair, Squaxin Tribe
 * Willie Frank III - Chair, Nisqually Tribe
 * Kadi Bizyayeva - Council, Stillaguamish Tribe
+* Russ  Hepfer - Vice Chair, Lower Elwha Klallam Tribe
+* Kris  Peters - Chair, Squaxin Tribe

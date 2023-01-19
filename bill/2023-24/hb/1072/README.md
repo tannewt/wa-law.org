@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Mark Johnson - Washington Retail Association
+* Brain  Maiden - Maiden Enterprises
 
-### 4 👎 - Con
+### 8 👎 - Con
 #### Testifying
 * Mike  Responte  - Teamsters Local 174
 * Chris Porter - Teamsters 174

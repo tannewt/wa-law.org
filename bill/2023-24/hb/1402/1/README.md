@@ -1,0 +1,95 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1402](/bill/2023-24/hb/1402/) > [Original Bill](/bill/2023-24/hb/1402/1/)
+
+# HB 1402 - Urban growth boundaries
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1402.pdf)
+
+## Section 1
+The legislature recognizes the fact that property owners control how and whether a property is developed. Many cities and counties are facing shortages for land where affordable housing can be built because property owners have chosen to leave property undeveloped or developed the land in a manner that is different from the patterns of growth expected when the urban growth boundaries were created. There is an immediate need for urban growth boundaries to be drawn to include land that can be developed to provide affordable housing. The legislature intends to provide cities and counties with an immediate solution to this problem.
+
+## Section 2
+1. Each county that is required or chooses to plan under RCW 36.70A.040 shall designate an urban growth area or areas within which urban growth shall be encouraged and outside of which growth can occur only if it is not urban in nature. Each city that is located in such a county shall be included within an urban growth area. An urban growth area may include more than a single city. An urban growth area may include territory that is located outside of a city  whether or not the urban growth area includes a city, or is adjacent to territory already characterized by urban growth, or is a designated new fully contained community as defined by RCW 36.70A.350. When a federally recognized Indian tribe whose reservation or ceded lands lie within the county or city has voluntarily chosen to participate in the planning process pursuant to RCW 36.70A.040, the county or city and the tribe shall coordinate their planning efforts for any areas planned for urban growth consistent with the terms outlined in the memorandum of agreement provided for in RCW 36.70A.040(8).
+
+2. Based upon the growth management population projection made for the county by the office of financial management, the county and each city within the county shall include areas and densities sufficient to permit the urban growth that is projected to occur in the county or city for the succeeding 20-year period, except for those urban growth areas contained totally within a national historical reserve. As part of this planning process, each city within the county must include areas sufficient to accommodate the broad range of needs and uses that will accompany the projected urban growth including, as appropriate, medical, governmental, institutional, commercial, service, retail, and other nonresidential uses.
+
+Each urban growth area shall permit urban densities and shall include greenbelt and open space areas. In the case of urban growth areas contained totally within a national historical reserve, the city may restrict densities, intensities, and forms of urban growth as determined to be necessary and appropriate to protect the physical, cultural, or historic integrity of the reserve. An urban growth area determination may include a reasonable land market supply factor and shall permit a range of urban densities and uses. In determining this market factor, cities and counties may consider local circumstances. Cities and counties have discretion in their comprehensive plans to make many choices about accommodating growth.
+
+3. Urban growth should be located first in areas already characterized by urban growth that have adequate existing public facility and service capacities to serve such development, second in areas already characterized by urban growth that will be served adequately by a combination of both existing public facilities and services and any additional needed public facilities and services that are provided by either public or private sources, and third in the remaining portions of the urban growth areas. Urban growth may also be located in designated new fully contained communities as defined by RCW 36.70A.350.
+
+4. If there are properties or areas within urban growth boundaries or cities that are in flood plains or remain undeveloped or underdeveloped after 20 years, the county or city may assume that those properties or areas will not be developed as expected in the development regulations or comprehensive plan and expand the urban growth boundary to include more buildable land to satisfy projected need.
+
+5. In general, cities are the units of local government most appropriate to provide urban governmental services. In general, it is not appropriate that urban governmental services be extended to or expanded in rural areas except in those limited circumstances shown to be necessary to protect basic public health and safety and the environment and when such services are financially supportable at rural densities and do not permit urban development.
+
+6. Each county shall include designations of urban growth areas in its comprehensive plan.
+
+7. An urban growth area designated in accordance with this section may include within its boundaries urban service areas or potential annexation areas designated for specific cities or towns within the county.
+
+8. [Empty]
+
+    a. Except as provided in (b) of this subsection, the expansion of an urban growth area is prohibited into the 100-year floodplain of any river or river segment that: (i) Is located west of the crest of the Cascade mountains; and (ii) has a mean annual flow of 1,000 or more cubic feet per second as determined by the department of ecology.
+
+    b. Subsection (8)(a) of this section does not apply to:
+
+        i. Urban growth areas that are fully contained within a floodplain and lack adjacent buildable areas outside the floodplain;
+
+        ii. Urban growth areas where expansions are precluded outside floodplains because:
+
+(A) Urban governmental services cannot be physically provided to serve areas outside the floodplain; or
+
+(B) Expansions outside the floodplain would require a river or estuary crossing to access the expansion; or
+
+        iii. Urban growth area expansions where:
+
+(A) Public facilities already exist within the floodplain and the expansion of an existing public facility is only possible on the land to be included in the urban growth area and located within the floodplain; or
+
+(B) Urban development already exists within a floodplain as of July 26, 2009, and is adjacent to, but outside of, the urban growth area, and the expansion of the urban growth area is necessary to include such urban development within the urban growth area; or
+
+(C) The land is owned by a jurisdiction planning under this chapter or the rights to the development of the land have been permanently extinguished, and the following criteria are met:
+
+(I) The permissible use of the land is limited to one of the following: Outdoor recreation; environmentally beneficial projects, including but not limited to habitat enhancement or environmental restoration; stormwater facilities; flood control facilities; or underground conveyances; and
+
+(II) The development and use of such facilities or projects will not decrease flood storage, increase stormwater runoff, discharge pollutants to fresh or salt waters during normal operations or floods, or increase hazards to people and property.
+
+    c. For the purposes of this subsection (8), "100-year floodplain" means the same as "special flood hazard area" as set forth in WAC 173-158-040 as it exists on July 26, 2009.
+
+9. If a county, city, or utility has adopted a capital facility plan or utilities element to provide sewer service within the urban growth areas during the 20-year planning period, nothing in this chapter obligates counties, cities, or utilities to install sanitary sewer systems to properties within urban growth areas designated under subsection (2) of this section by the end of the 20-year planning period when those properties:
+
+    a. [Empty]
+
+        i. Have existing, functioning, nonpolluting on-site sewage systems;
+
+        ii. Have a periodic inspection program by a public agency to verify the on-site sewage systems function properly and do not pollute surface or groundwater; and
+
+        iii. Have no redevelopment capacity; or
+
+    b. Do not require sewer service because development densities are limited due to wetlands, floodplains, fish and wildlife habitats, or geological hazards.
+
+## Section 3
+(1)(a) Each comprehensive land use plan and development regulations shall be subject to continuing review and evaluation by the county or city that adopted them. Except as otherwise provided, a county or city shall take legislative action to review and, if needed, revise its comprehensive land use plan and development regulations to ensure the plan and regulations comply with the requirements of this chapter according to the deadlines in subsections (4) and (5) of this section.
+
+## Section 4
+1. The growth management hearings board shall hear and determine only those petitions alleging either:
+
+    a. That, except as provided otherwise by this subsection, a state agency, county, or city planning under this chapter is not in compliance with the requirements of this chapter, chapter 90.58 RCW as it relates to the adoption of shoreline master programs or amendments thereto, or chapter 43.21C RCW as it relates to plans, development regulations, or amendments, adopted under RCW 36.70A.040 or chapter 90.58 RCW. Nothing in this subsection authorizes the board to hear petitions alleging noncompliance with RCW 36.70A.5801;
+
+    b. That the 20-year growth management planning population projections adopted by the office of financial management pursuant to RCW 43.62.035 should be adjusted;
+
+    c. That the approval of a work plan adopted under RCW 36.70A.735(1)(a) is not in compliance with the requirements of the program established under RCW 36.70A.710;
+
+    d. That regulations adopted under RCW 36.70A.735(1)(b) are not regionally applicable and cannot be adopted, wholly or partially, by another jurisdiction; or
+
+    e. That a department certification under RCW 36.70A.735(1)(c) is erroneous.
+
+2. The growth management hearings board is not given authority to hear or determine any petition regarding compliance or validity for adjustments of urban growth boundaries made using the authority provided in RCW 36.70A.110(4).
+
+3. A petition may be filed only by: (a) The state, or a county or city that plans under this chapter; (b) a person who has participated orally or in writing before the county or city regarding the matter on which a review is being requested; (c) a person who is certified by the governor within 60 days of filing the request with the board; or (d) a person qualified pursuant to RCW 34.05.530.
+
+4. For purposes of this section "person" means any individual, partnership, corporation, association, state agency, governmental subdivision or unit thereof, or public or private organization or entity of any character.
+
+5. To establish participation standing under subsection (3)(b) of this section, a person must show that his or her participation before the county or city was reasonably related to the person's issue as presented to the board.
+
+6. When considering a possible adjustment to a growth management planning population projection prepared by the office of financial management, the board shall consider the implications of any such adjustment to the population forecast for the entire state.
+
+The rationale for any adjustment that is adopted by the board must be documented and filed with the office of financial management within 10 working days after adoption.
+
+If adjusted by the board, a county growth management planning population projection shall only be used for the planning purposes set forth in this chapter and shall be known as the "board adjusted population projection." None of these changes shall affect the official state and county population forecasts prepared by the office of financial management, which shall continue to be used for state budget and planning purposes.

@@ -7,15 +7,27 @@
 * [Original Bill](1/)
 
 ## Positions
-### 98 👍 - Pro
+### 148 👍 - Pro
 #### Testifying
 * Carol Sullivan - League of Women Voters of Wl
+* Alex Hur - OneAmerica
+* Lata Nott - Campaign Legal Center
+* Denisse Guerrero - WA Community Alliance
+* Melissa Rubio - OneAmerica
+* Colin Cole - More Equitable Democracy
+* Arlette Lopez
 
-### 207 👎 - Con
+### 338 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Julie Barrett - Conservative Ladies of Washington
 * Sherri Tibbles
 * Mark Tibbles
+* Karen McIntosh
+* Edward Buck
+* Jennifer  Deacy
 
-### 1 ❓ - Other
+### 3 ❓ - Other
+#### Testifying
+* Mike Hoover - Washington State Association of Counties
+* Candice Bock - Association of Washington Cities

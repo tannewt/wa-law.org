@@ -7,11 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 29 👍 - Pro
+### 72 👍 - Pro
 #### Testifying
 * Sarah Leon
 * Loren Taylor
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other

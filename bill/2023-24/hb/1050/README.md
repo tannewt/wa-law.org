@@ -7,10 +7,24 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 43 👍 - Pro
 #### Testifying
 * Luis Licea - Northwest Laborers Employers Training Trust
+* Erin Frasier - Washington State Building & Construction Trades Council
+* Joe Kendo - Washington State Labor Council
+* Chris Ellis - Bricklayers & Allied Craftworkers L 1
+* Matt Chapman - Ironworkers L 14
+* Brian Walter - SMART L 55
+* Jason Benway - IBEW L 73
+* Lorne Bulling - Ironworkers Local 29
+* Nicole Grant - IBEW 46
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Sophia Steele - Associated Builders and Contractors
 
-### 0 ❓ - Other
+### 3 ❓ - Other
+#### Testifying
+* Jerry VanderWood - Associated General Contractors (AGC) 
+* Cheryl Stewart - Inland Northwest AGC
+* Tammy Fellin - Labor & Industries

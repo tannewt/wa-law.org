@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 181 👍 - Pro
+### 513 👍 - Pro
 #### Testifying
 * Liz Hjelmseth
 * Stephen Paolini - ADL
@@ -18,7 +18,7 @@
 * Jeannie Shu
 * Brian Duncan
 
-### 472 👎 - Con
+### 483 👎 - Con
 #### Testifying
 * Ronald Lorimer
 * Chris Giles

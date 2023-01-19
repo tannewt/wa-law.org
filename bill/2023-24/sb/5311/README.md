@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Shelly Burt
+* Anita Waller - Ephrata School District
 
 ### 4 👎 - Con
 #### Testifying
@@ -17,7 +18,7 @@
 * Samantha Fogg - Seattle Council PTSA
 * Christopher  Willis - Orting School District
 
-### 8 ❓ - Other
+### 11 ❓ - Other
 #### Testifying
 * Devin Gombosky - ESD 105 Schools Coalition and Central Valley School District 
 * Nikki  Lockwood  - Spokane Public Schools 
@@ -27,3 +28,6 @@
 * Maddy Thompson - Office of the Governor
 * Shea Hamilton - Office of Financial Management
 * Tracy Wilson - Pasco School District
+* Ashley Burchett
+* Clifford Traisman  - Bellevue, Highline, Olympia, Seattle Public School Districts
+* Robert Cruickshank - Washington’s Paramount Duty

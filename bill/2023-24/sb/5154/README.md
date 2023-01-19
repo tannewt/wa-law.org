@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1473 👍 - Pro
+### 1475 👍 - Pro
 #### Testifying
 * Mignon Senuta - Digimarc
 * Kate Bailey - The Association of Plastic Recyclers
@@ -36,7 +36,7 @@
 * Heather Trim - Zero Waste Washington
 * Brie Kuhn - WasteXperts
 
-### 60 👎 - Con
+### 63 👎 - Con
 #### Testifying
 * Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management

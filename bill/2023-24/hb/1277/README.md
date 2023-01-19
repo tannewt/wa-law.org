@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 9 👍 - Pro
 #### Testifying
 * Zackary Turner - PESB
 * Dawna Hansen-Murray
+* Erica Hernandez-Scott - PESB
+* Nasue Nishida - Washington Education Association
 
 ### 0 👎 - Con
 

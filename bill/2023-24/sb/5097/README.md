@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 19 👍 - Pro
+### 28 👍 - Pro
 #### Testifying
 * Carolina Sommer - NW Rare Disease Coalition
 * Lindsey Topping-Scheutz - NW Rare Disease Coalition

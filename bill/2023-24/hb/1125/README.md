@@ -25,7 +25,7 @@
 * Diana Wilhite
 * Council President Breean Beggs - City of Spokane
 
-### 19 ❓ - Other
+### 25 ❓ - Other
 #### Testifying
 * Brent McFarlane - PSARA
 * Sharon Abreu - Irthlingz Arts-Based Environmental Education
@@ -45,3 +45,7 @@
 * Cheryl Stewart - Inland Northwest Associated General Contractors
 * Jesse Bank - Northeast Public Development Authority
 * Commissioner Amber Waldref - Spokane County
+* Mark Riker - Washington State Building & Construction Trades Council
+* Rob Wotton  - City of Snoqualmie, Councilmember
+* Ben Lane - Eastside Fire & Rescue, Fire Chief 
+* Mark  Rigos - City of North Bend - Deputy City Administrator & Public Works Director 

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 49 👍 - Pro
+### 60 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
 * Jennifer Ziegler - Association of Washington Health Care Plans
@@ -16,9 +16,16 @@
 * Bill O'Connell - University of Washington 
 * Anna  Ratzliff - University of Washington
 * Rex Rempel - Lake Washington Institute of Technology
+* Lara Effland
+* Kayleen  Islam-Zwart - Eastern Washington University
+* PhD, Julie Rickard
+* Nancy Belcher - King County Medical Society
+* Mukti Khanna - The Evergreen State College
+* Kevin Criswell
 
 ### 0 👎 - Con
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Evan Klein
+* Julia O'Connor - Washington Council for Behavioral Health

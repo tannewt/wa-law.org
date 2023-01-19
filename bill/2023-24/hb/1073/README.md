@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* MD, Mark Zeitzer - Chief Medical Officer, ZoomCare
 
 ### 0 👎 - Con
 

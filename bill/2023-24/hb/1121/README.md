@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 #### Testifying
 * Libby Snyder - Uniform Law Commission
+* Daton Lynch - National Center for Missing & Exploited Children
 
 ### 1 👎 - Con
 

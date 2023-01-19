@@ -7,17 +7,22 @@
 * [Original Bill](1/)
 
 ## Positions
-### 10 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
 * Scott  Hazlegrove - WA State Auto Dealers Association
 * Matthew Phillips - Car Pros
 * Nina  Martinez - Latino Civic Alliance
 * Joyce Bruce - WA State Attorney General's Office
 * Aaron Fickes - WA State Attorney General's Office
+* Waldo Waldron-Ramsey - NAACP Alaska Oregon Washington State-Area Conference
 
-### 19 👎 - Con
+### 35 👎 - Con
 #### Testifying
 * Scott Musser
+* WASIM AZZAM - WSIADA
+* BADIE DARWAZEH - SEATTLE AUTO HAUS LLC 
+* Emil Scarsella - WSIADA
+* Greg Mahugh - McConkey Auction Group / DAA Northwest / DAA Seattle
 
 ### 1 ❓ - Other
 #### Testifying

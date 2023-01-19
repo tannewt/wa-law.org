@@ -7,11 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 12 👍 - Pro
+### 65 👍 - Pro
 #### Testifying
 * Kirsten Smith - Susan G. Komen
+* Janet Campbell
+* Bobbi-Jo Thomas 
+* Kate White Tudor - Rayus Radiology
+* Dr. Peter  Eby - Washington State Radiological Society (WSRS) 
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Jennifer Ziegler - Association of Washington Health Care Plans
 

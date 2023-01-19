@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 235 👍 - Pro
+### 331 👍 - Pro
 #### Testifying
 * Cynthia Stewart - Hearing Loss Association - WA
 * Jill  Bujnevicie  - Let Washington Kids Hear
@@ -23,9 +23,18 @@
 * Laura Gramer - Individual/family 
 * David Dupree
 * August Kotovic
+* Rebecca Kolsky
+* Ruby Kotovic
+* Shanna Porter
+* Chad Ruffin - Chad Ruffin, MD
+* Christina  Aguirre-Slater
+* Davis Bean
+* Norma Almli
+* Cassidy Bean
+* Valeri SEVIEUX
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Jennifer Ziegler - Association of Washington Health Care Plans
 
-### 0 ❓ - Other
+### 1 ❓ - Other

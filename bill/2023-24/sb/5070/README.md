@@ -7,9 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 8 👍 - Pro
 #### Testifying
 * Nadia Van Atter - Crystal Judson Family Justice Center
+* Coreen Schnepf - Pierce County Prosecutor's Office
+* Nadia Van Atter - Pierce County Family Justice Center
+* David Martin - KCPAO
+* Tonya Braun - KCPAO
 
 ### 0 👎 - Con
 

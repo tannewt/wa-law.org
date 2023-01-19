@@ -7,11 +7,16 @@
 * [Original Bill](1/)
 
 ## Positions
-### 46 👍 - Pro
+### 75 👍 - Pro
 #### Testifying
 * JIm Chambers
 * Melody Simle
 * Sarah Leon
+* Meagan Kineman
+* Anthony Powers
+* Rachael  Seevers - Disability Rights Washington
+* Jennifer  Smith - Seattle Clemency Project
+* MD, MaryAnn Curl - Department of Corrections
 
 ### 1 👎 - Con
 #### Testifying

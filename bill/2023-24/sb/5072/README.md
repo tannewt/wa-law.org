@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 406 👍 - Pro
+### 474 👍 - Pro
 #### Testifying
 * Jacob Vigdor - University of Washington Faculty
 * Anna Hernandez-French - OSPI
@@ -21,7 +21,7 @@
 * Nasue Nishida - Washington Education Association 
 * Juliet Schindler - College Success Foundation
 
-### 3 👎 - Con
+### 15 👎 - Con
 
 ### 5 ❓ - Other
 #### Testifying

@@ -249,7 +249,7 @@ for start_year in range(2023, 2025, 2):
         if bill_id.startswith("SGA"):
             continue
         # Skip memorials
-        if bill_id.startswith("SJM"):
+        if bill_id.startswith("SJM") or bill_id.startswith("HJM"):
             continue
 
         bills_url = api_root_url + f"/LegislationService.asmx/GetLegislation?biennium={biennium}&billNumber={bill_number}"

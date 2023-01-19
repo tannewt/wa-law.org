@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Tom Wark - National Association of Wine Retailers
 
 ### 1 👎 - Con
 

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 169 👍 - Pro
+### 182 👍 - Pro
 #### Testifying
 * ROSE GUNDERSEN - Washington Retail Association
 * ROSE GUNDERSEN - Washington Retail Association
@@ -21,10 +21,12 @@
 * Jeri Moomaw - Innovations HTC
 * Tricia MacFarlan - Mirror Ministries 
 * Robin  Miller - Janus Youth
+* Leah White - Washington State Women's Commission
 
 ### 0 👎 - Con
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * emi koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Rick Torrance - Department of Commerce, OCVA
+* devyn childs

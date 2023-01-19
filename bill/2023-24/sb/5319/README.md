@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * David Forte - Office of the Insurance Commissioner
 

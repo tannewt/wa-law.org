@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 170 👍 - Pro
+### 176 👍 - Pro
 #### Testifying
 * Nick Jeffreys - Urban League of Metropolitan Seattle
 * Evan Walker - Washington State Budget and Policy Center
@@ -21,6 +21,7 @@
 * Brooke Davies - Justice Action Network
 * Kelly Olson - Civil Survival Project
 * Antonio Wheat
+* Alex Hur - Statewide Poverty Action Network
 
 ### 1 👎 - Con
 

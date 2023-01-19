@@ -7,14 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 14 👍 - Pro
+### 18 👍 - Pro
 #### Testifying
 * Kari Cunningham-Rosvik
 * Carolina Sommer - NW Rare Disease Coalition
 * Jessie Conta - NW Rare Disease Coalition
 * Sarah Tompkins - NW Rare Disease Coalition
 
-### 1 👎 - Con
+### 4 👎 - Con
 #### Testifying
 * Jennifer Ziegler - Association of Washington Health Care Plans
 

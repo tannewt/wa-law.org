@@ -7,14 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 30 👍 - Pro
+### 48 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
 * Michelle Pearl
 * Hollie Sandlin - Hollie Sandlin MD
 * Sheri Emery
 * Jennifer Ziegler - Association of Washington Health Care Plans
+* Andrea Hu
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Jennifer Luo

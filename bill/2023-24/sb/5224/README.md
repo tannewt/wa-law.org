@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Sean Swope - County Commissioner
 
-### 3 👎 - Con
+### 7 👎 - Con
 
-### 2 ❓ - Other
+### 5 ❓ - Other
 #### Testifying
 * Tedd Kelleher - Department of Commerce
 * Juliana Roe - Washington State Association of Counties
+* Arthur West
+* Michele Thomas - Washington Low Income Housing Alliance

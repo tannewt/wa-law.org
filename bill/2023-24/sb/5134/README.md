@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 26 👍 - Pro
+### 51 👍 - Pro
 #### Testifying
 * JD BARTON - ORION WATCH COMMUNITY OUTREACH PROGRAMS
 * Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAM
+* Durell Green - Re-entry State Council
+* Pat Seibert-Love - SBCTC
+* Hanan Al-Zubaidy - SBCTC
 
 ### 0 👎 - Con
 

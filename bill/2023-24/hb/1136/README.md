@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 19 👍 - Pro
+### 22 👍 - Pro
 #### Testifying
 * Kevin Njihia - Nobel caregivers 
 * Hardeep  S. Rekhi - Washington Employment Lawyers Association
@@ -16,12 +16,14 @@
 * Toby  Marshall
 * Daniel Johnson
 
-### 196 👎 - Con
+### 201 👎 - Con
 #### Testifying
 * Rebekah Near - Orca Information, Inc 
 * James King - Independent Business Association
 * Val Mullen
 * Heidi  Johnson-Sandall - Conservative Ladies of WA
+* Suzanne Rohner
+* Jeannie Magdua - Conservative Ladies of Washington
 
 ### 5 ❓ - Other
 #### Testifying

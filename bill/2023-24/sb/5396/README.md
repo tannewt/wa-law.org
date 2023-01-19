@@ -7,11 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 10 👍 - Pro
 #### Testifying
 * Kirsten Smith - Susan G. Komen
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Jennifer Ziegler - Association of Washington Health Care Plans
 

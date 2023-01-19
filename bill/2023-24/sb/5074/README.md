@@ -7,11 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 12 👍 - Pro
+### 16 👍 - Pro
 #### Testifying
 * Ian Goodhew - UW Medicine 
 
-### 2 👎 - Con
+### 3 👎 - Con
 #### Testifying
 * Jennifer Ziegler - Association of Washington Health Care Plans
 

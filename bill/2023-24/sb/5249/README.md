@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 183 👍 - Pro
+### 330 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 * Cynthia Stewart - League of Women Voters of WA
+* Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
+* Shaun Scott - Statewide Poverty Action Network
+* Aaron Czyzewski - Food Lifeline
 
 ### 0 👎 - Con
 

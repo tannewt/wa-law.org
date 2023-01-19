@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 42 👍 - Pro
+### 130 👍 - Pro
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * john Worthington
+* john Worthington - AAMC
 
 ### 0 ❓ - Other

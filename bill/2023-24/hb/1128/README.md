@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 73 👍 - Pro
+### 109 👍 - Pro
 #### Testifying
 * John Ficker - Adult Family Home Council
 * Bea  Rector - Dept. of Social and Health Services
+* Cathy MacCaul - AARP Washington State
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

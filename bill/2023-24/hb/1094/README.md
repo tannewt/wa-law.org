@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 245 👍 - Pro
+### 386 👍 - Pro
 #### Testifying
 * Jennifer Black - President, Sumner-Bonney Lake Education Association
 * Cristina Mateo - WA Build Back Black Alliance - (WBBA)
@@ -25,9 +25,16 @@
 * Paula Sardinas - FMSGS / WBBA
 * Tracy Yeung - Washington State Budget and Policy Center
 * Jennifer Bereskin  - Washington Future Fund Study Committee member 
+* Sybill Hyppolite  - Washington State Labor Council, AFL-CIO
+* Shira Markoff - Prosperity Now
+* Kristin Ang - FAITH ACTION NETWORK (FAN)
+* Naira Gonzales Aranda - Associated Students of Western Washington University
 
-### 87 👎 - Con
+### 288 👎 - Con
 #### Testifying
 * Debra Dassler
+* Mary Harju
+* Al King
+* Jeannie Magdua - Conservative Ladies of Washington
 
 ### 0 ❓ - Other

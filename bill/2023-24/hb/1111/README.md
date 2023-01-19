@@ -7,9 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 134 👍 - Pro
+### 170 👍 - Pro
 #### Testifying
 * Lacey Jane Wolfe - City of Bellevue
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* Paul Hintz - City of Renton
+* Jesse Simpson - Housing Development Consortium
+* Briahna Murray - Lobbyist for City of Tacoma
+* Peter Orser - Sound Communities
+* Uche Okezie - HomeSight
+* Al Levine - Sound Communities
+* Clifford  Cawthon - Habitat for Humanity Seattle-King & Kittitas County
+* Jennifer Gregerson - City of Everett
 
 ### 1 👎 - Con
 #### Testifying

@@ -7,19 +7,21 @@
 * [Original Bill](1/)
 
 ## Positions
-### 48 👍 - Pro
+### 55 👍 - Pro
 #### Testifying
 * Cory Taylor - SEIU 925
 * Anthony Cantu - UFCW 3000
 * Samantha Grad - Teamsters 117
 * Silvia Marinova - WPEA
+* Sara Gering - UFCW 3000 RN
 
-### 6 👎 - Con
+### 7 👎 - Con
 #### Testifying
 * Seth  Berntsen - Association of Washington Cities 
 * Mike Hoover - Washington State Association of Counties
 * James  McMahan - WA Assoc Sheriffs & Police Chiefs
 * Bob Battles - Association of Washington Business (AWB)
+* Arthur West
 
 ### 3 ❓ - Other
 #### Testifying

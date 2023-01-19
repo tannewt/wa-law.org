@@ -7,15 +7,21 @@
 * [Original Bill](1/)
 
 ## Positions
-### 19 👍 - Pro
+### 21 👍 - Pro
 #### Testifying
 * Leah Missik - Climate Solutions
 
 ### 0 👎 - Con
 
-### 4 ❓ - Other
+### 11 ❓ - Other
 #### Testifying
 * Jim Hagar - Port of Vancouver USA
 * Temple Lentz - Chair, Freight Mobility Strategic Investment Board
 * Ben Wick - Mayor, Spokane Valley; Board Member, Freight Mobility Strategic Investment Board
 * Matthew Ewers  - VP IEDS Logistics; Board member, Freight Mobility Strategic Investment Boar
+* john Worthington
+* Mike  Ennis - Association of Washington Business
+* Sheri  Call - Washington Trucking Associaitons 
+* Axel Swanson - Washington State Association of County Engineers
+* john worthington - AAMC
+* Anne  McEnerny-Ogle - Association of Washington Cities 

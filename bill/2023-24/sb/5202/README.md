@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 333 👍 - Pro
+### 384 👍 - Pro
 #### Testifying
 * Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * David Schumacher - Office of Financial Management
@@ -19,12 +19,17 @@
 * Jon Grant - Low Income Housing Institute
 * Andrew Calkins - King County Housing Authority & AWHA
 * Greg Dunfield - Coalition for Affordable Housing Development
+* John Traynor - Washington State Labor Council, AFL-CIO
+* Mary Hull-Drury - Washington Realtors
+* Dennis Sills - Plymouth Housing
+* Carl Schroeder - Association of Washington Cities
+* Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 
-### 2 👎 - Con
+### 14 👎 - Con
 #### Testifying
 * Michael McKinley
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Dave Mastin - Association of Washington Business
 * Tracy Williams - Low Income Housing Institute

@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 295 👍 - Pro
+### 475 👍 - Pro
 #### Testifying
 * Jamie Lee
 * Valerie Balch
 * Andrea Hikoe
+* Brittany  Horrocks
+* Adam Zarrin - Leukemia & Lymphoma Society
 
-### 30 👎 - Con
+### 33 👎 - Con
 #### Testifying
 * Jennifer Friesen - Them Before Us
 * Jennifer Ziegler - Association of Washington Health Care Plans

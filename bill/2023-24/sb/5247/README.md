@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 40 👍 - Pro
+### 47 👍 - Pro
 #### Testifying
 * Guillermo Rogel - Front and Centered
 * Amber Martin-Jahn - Serve Washington
@@ -20,6 +20,6 @@
 * Bridget Talebi - WA State Department of Ecology
 * Brian Considine - Washington Department of Natural Resources
 
-### 2 👎 - Con
+### 6 👎 - Con
 
 ### 0 ❓ - Other

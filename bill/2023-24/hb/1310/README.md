@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 28 👍 - Pro
+### 330 👍 - Pro
 #### Testifying
 * Micah Matthews - Washington Medical Commission
+* Mordechai Sacks
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

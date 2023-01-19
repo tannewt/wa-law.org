@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Caitlyn  Jekel - Employment Security Department
+* Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* Anne Paxton - Unemployment Law Project
 
 ### 0 👎 - Con
 

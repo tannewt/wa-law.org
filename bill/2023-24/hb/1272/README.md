@@ -7,10 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Sara Betnel - Washington State School Directors' Association (WSSDA)
 
-### 20 👎 - Con
+### 114 👎 - Con
 
 ### 0 ❓ - Other

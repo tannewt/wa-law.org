@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 152 👍 - Pro
+### 160 👍 - Pro
 #### Testifying
 * Anna Lising - Governor's Office
 * Kathleen Drew - Energy Facilities Site Evaluation Council
@@ -23,9 +23,10 @@
 
 ### 0 👎 - Con
 
-### 6 ❓ - Other
+### 10 ❓ - Other
 #### Testifying
 * John Rothlin
 * Jay  Balasbas - PacifiCorp
 * Peter  Godlewski  - Association of Washington Business 
 * Nicolas Garcia - WPUDA
+* John Rothlin - Avista

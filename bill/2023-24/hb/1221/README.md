@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Kristi Weeks - Washington's Lottery
 

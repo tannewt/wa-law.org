@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 676 👍 - Pro
+### 770 👍 - Pro
 #### Testifying
 * Stacey Valenzuela 
 * Ishbel Dickens - Assoc of Manufactured Home Owners
@@ -23,8 +23,9 @@
 * Andrew Calkins - King County Housing Authority & Association of Washington Housing Authorities 
 * Victoria OBanion
 * Jan Leonard
+* William Walden
 
-### 77 👎 - Con
+### 132 👎 - Con
 #### Testifying
 * Brad Tower - Commonwealth Real Estate Services
 * Ryan Erickson - Commonwealth Real Estate Services
@@ -41,5 +42,12 @@
 * Christa Connolly - West Prairie Village MHP
 * Joe Dugoni - CPX
 * Christina Mays - Detente Management, Inc.
+* Mike Simonitch
+* Beau Harer - MHCW 
+* Patricia Hoendermis - Yakima Valley Landlords Association
+* Guy Miller  - Mhcw
+* Neil Wilson
 
-### 1 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Arthur West

@@ -12,6 +12,12 @@
 * Ramona Hattendorf - The Arc of King County
 * Christopher  Willis - Orting School District 
 
-### 0 👎 - Con
+### 4 👎 - Con
+#### Testifying
+* Jeffrey Woolley - Dartmoor School
+* Julie Barrett - Conservative Ladies of Washington
+* Tracy McCammant - Eaton Arrowsmith - Center for Neuroeducation
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Marianne Bryan

@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 3 👍 - Pro
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* MARK SMITH - Housing Consortium of Everett & Snohomish County

@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 5 👍 - Pro
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* David Iseminger - WA State Health Care Authority

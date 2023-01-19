@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
 #### Testifying
 * Professor Thomas Mitchell - The Uniform Law Commission
+* John  Lovett - Uniform Law Commission
+* Jane Sternecky - Uniform Law Commission
 
 ### 0 👎 - Con
 

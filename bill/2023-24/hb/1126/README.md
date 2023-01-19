@@ -7,17 +7,19 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
 
-### 12 👎 - Con
+### 14 👎 - Con
 #### Testifying
 * Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
 * Jake  Pool - Coalition Against Graham and Eatonville-Roy Airports
 * Ursula Euler
 * Brian Jarrell
 * Jennifer Roy
+* Cindy Schexnider
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Dawn Sonntag - Stop the Airport
 * Dawn Sonntag
+* John Peeples

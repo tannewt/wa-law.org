@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 38 👍 - Pro
+### 40 👍 - Pro
+#### Testifying
+* Michael White - King County
+* Jennifer Hansen
 
 ### 2 👎 - Con
 #### Testifying

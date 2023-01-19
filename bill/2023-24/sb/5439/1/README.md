@@ -1,0 +1,66 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5439](/bill/2023-24/sb/5439/) > [Original Bill](/bill/2023-24/sb/5439/1/)
+
+# SB 5439 - Livestock identification
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5439.pdf)
+
+## Section 1
+1. The director shall establish a livestock identification advisory committee. The committee shall be composed of 12 voting members appointed by the director as follows: Two beef producers, two cattle feeders, two dairy producers, two livestock market owners, two meat processors, and two horse producers. Organizations representing the groups represented on the committee may submit nominations for these appointments to the director for the director's consideration. No more than two members at the time of their appointment or during their term may reside in the same county. Members may be reappointed and vacancies must be filled in the same manner as original appointments are made. As used in this subsection, "meat processor" means a person licensed to operate a slaughtering establishment under chapter 16.49 RCW or the federal meat inspection act (21 U.S.C. Sec. 601 et seq.). In making appointments, the director shall solicit nominations from organizations representing these groups statewide. The committee shall elect a member to serve as chair of the committee. The committee must meet at least twice a year. The committee shall meet at the call of the director, chair, or a majority of the committee. A quorum of the committee consists of a majority of members. If a member has not been designated for a position set forth in this section, that position may not be counted for purposes of determining a quorum. A member may appoint an alternate who meets the same qualifications as the member to serve during the member's absence. The director may remove a member from the committee if that member has two or more unexcused absences during a single calendar year.
+
+2. The purpose of the committee is to provide advice to the director regarding livestock identification programs administered under this chapter and regarding inspection fees and related licensing fees. The advisory committee must review the costs and operations of the livestock identification program. The director shall consult the committee before adopting, amending, or repealing a rule under this chapter or altering a fee under RCW 16.58.050, 16.65.030, 16.65.037, or 16.65.090. If the director publishes in the Washington State Register a proposed rule to be adopted under the authority of this chapter and the rule has not received the approval of the advisory committee, the director shall file with the committee a written statement setting forth the director's reasons for proposing the rule without the committee's approval.
+
+3. The members of the advisory committee serve three-year terms. However, the director shall by rule provide shorter initial terms for some of the members of the committee to stagger the expiration of the initial terms. The members serve without compensation. The director may authorize the expenses of a member to be reimbursed if the member is selected to attend a regional or national conference or meeting regarding livestock identification. Any such reimbursement shall be in accordance with RCW 43.03.050 and 43.03.060.
+
+## Section 2
+1. The director shall establish a livestock identification advisory committee. The committee shall be composed of six members appointed by the director. One member shall represent each of the following groups: Beef producers, public livestock market operators, horse owners, dairy farmers, cattle feeders, and meat processors. As used in this subsection, "meat processor" means a person licensed to operate a slaughtering establishment under chapter 16.49 RCW or the federal meat inspection act (21 U.S.C. Sec. 601 et seq.). In making appointments, the director shall solicit nominations from organizations representing these groups statewide. The committee shall elect a member to serve as chair of the committee.
+
+2. The purpose of the committee is to provide advice to the director regarding livestock identification programs administered under this chapter and regarding inspection fees and related licensing fees. The advisory committee must review the costs and operations of the livestock identification program. The director shall consult the committee before adopting, amending, or repealing a rule under this chapter or altering a fee under RCW 16.58.050, 16.65.030, 16.65.037, or 16.65.090. If the director publishes in the Washington State Register a proposed rule to be adopted under the authority of this chapter and the rule has not received the approval of the advisory committee, the director shall file with the committee a written statement setting forth the director's reasons for proposing the rule without the committee's approval.
+
+3. The members of the advisory committee serve three-year terms. However, the director shall by rule provide shorter initial terms for some of the members of the committee to stagger the expiration of the initial terms. The members serve without compensation. The director may authorize the expenses of a member to be reimbursed if the member is selected to attend a regional or national conference or meeting regarding livestock identification. Any such reimbursement shall be in accordance with RCW 43.03.050 and 43.03.060.
+
+## Section 3
+1. Except as provided for in RCW 16.65.090 and otherwise in this section, the fee for livestock inspection is $4 per head for cattle and $3.85 for horses, with a call out fee of $20.
+
+2. When cattle are identified with the owner's brand, electronic official individual identification, or other form of identification specified by the director by rule, the fee for livestock inspection is $1.20 per head, with a call out fee of $20.
+
+3. No inspection fee is charged for a calf that is inspected before moving out-of-state under an official temporary grazing permit if the calf is part of a cow-calf unit and the calf is identified with the owner's Washington-recorded brand or other form of identification specified by the director by rule.
+
+4. The fee for inspection of cattle at a processing plant with a daily capacity of no more than 500 head of cattle where the United States department of agriculture maintains a meat inspection program is $4.40 per head, with a call out fee of $20.
+
+5. When a single inspection certificate is issued for 30 or more horses belonging to one person, the fee for livestock inspection is $2.20 per head, with a call out fee of $20.
+
+6. The fee for individual identification certificates is $22 for an annual certificate and $63 for a lifetime certificate, with a call out fee of $20. However, the fee for an annual certificate listing 30 or more animals belonging to one person is $5.50 per head, with a call out fee of $20. A lifetime certificate shall not be issued until the fee has been paid to the director.
+
+7. The minimum fee for the issuance of an inspection certificate by the director is $5.50. The minimum fee does not apply to livestock consigned to a public livestock market or special sale or inspected at a cattle processing plant.
+
+8. No call out fee is charged for an inspection done by a certified veterinarian or field livestock inspector.
+
+## Section 4
+1. Except as provided for in RCW 16.65.090 and otherwise in this section, the fee for livestock inspection is $1.60 per head for cattle and $3.50 for horses or the time and mileage fee, whichever is greater.
+
+2. When cattle are identified with the owner's brand or other form of identification specified by the director by rule, the fee for livestock inspection is $1.10 per head or the time and mileage fee, whichever is greater.
+
+3. No inspection fee is charged for a calf that is inspected before moving out-of-state under an official temporary grazing permit if the calf is part of a cow‑calf unit and the calf is identified with the owner's Washington‑recorded brand or other form of identification specified by the director by rule.
+
+4. The fee for inspection of cattle at a processing plant with a daily capacity of no more than 500 head of cattle where the United States department of agriculture maintains a meat inspection program is $4 per head.
+
+5. When a single inspection certificate issued for 30 or more horses belonging to one person, the fee for livestock inspection is $2 per head or the time and mileage fee, whichever is greater.
+
+6. The fee for individual identification certificates is $20 for an annual certificate and $60 for a lifetime certificate or the time and mileage fee, whichever is greater. However, the fee for an annual certificate listing 30 or more animals belonging to one person is $5 per head or the time and mileage fee, whichever is greater. A lifetime certificate shall not be issued until the fee has been paid to the director.
+
+7. The minimum fee for the issuance of an inspection certificate by the director is $5. The minimum fee does not apply to livestock consigned to a public livestock market or special sale or inspected at a cattle processing plant.
+
+8. No call out fee is charged for an inspection done by a certified veterinarian or field livestock inspector.
+
+9. For purposes of this section, "the time and mileage fee" means $17 per hour and the current mileage rate set by the office of financial management.
+
+## Section 5
+1. The department shall submit a livestock inspection program report pursuant to RCW 43.01.036 by November 1, 2023, and annually thereafter, to the appropriate committees of the legislature having oversight over agriculture and fiscal matters. The report must also be submitted to the livestock identification advisory committee created in RCW 16.57.015. The report must include amounts collected, a report on program expenditures, and any recommendations for making the program more efficient, improving the program, or modifying livestock inspection fees to cover the costs of the program. The report must also address the financial status of the program, including whether there is a need to review fees so that the program continues to be supported by fees.
+
+2. This section expires July 1, 2026.
+
+## Section 6
+Sections 1 and 3 of this act expire July 1, 2024.
+
+## Section 7
+Sections 2 and 4 of this act take effect July 1, 2024.

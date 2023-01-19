@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 125 👍 - Pro
+### 253 👍 - Pro
 #### Testifying
 * Anna Lising - Governor's office
 * Kathleen Drew - Energy Facility Site Evaluation Council
@@ -15,10 +15,14 @@
 * Glenn Blackmon - Department of Commerce
 * Debra Smith - Seattle City Light
 * Logan Bahr - Tacoma Public Utilities
+* Justin Allegro - The Nature Conservancy
+* Cassie Bordelon
+* Amy Wheeless
 
 ### 1 👎 - Con
 
-### 2 ❓ - Other
+### 4 ❓ - Other
 #### Testifying
 * John Rothlin - Avista
 * Jay Balasbas - PacifiCorp
+* Spencer Gray - Northwest & Intermountain Power Producers Coalition

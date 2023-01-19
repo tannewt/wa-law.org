@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 205 👍 - Pro
+### 247 👍 - Pro
 #### Testifying
 * Brian Freeman - Eastern WA Quality Schools Coalition 
 * Shelly Burt - Parent
@@ -23,6 +23,18 @@
 * Linnea Westerlind - Parent/PTA Advocate 
 * Emily Carter - Special Olympics Washington
 * Karla Landis
+* JoAnne Duncan - Ida Nason Aronica
+* Evelyn Atchison
+* Amanda Kost - University of Washington Faculty
+* Wendy Armour 
+* Bilan Aden - African Community Housing and Development
+* Jared Mason-Gere - Washington Education Association
+* Aubrey Roesch - Blaine middle school
+* Dawson Curtright - Blaine middle school
+* Danae Misquitta - Blaine middle school
+* Alex Estrada - Blaine Middle School
+* Julianne  Whaley - blaine middle school
+* Adrienne Moore - Center for Healing and Justice through Sport
 
 ### 1 👎 - Con
 #### Testifying

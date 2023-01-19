@@ -7,16 +7,31 @@
 * [Original Bill](1/)
 
 ## Positions
-### 25 👍 - Pro
+### 85 👍 - Pro
 #### Testifying
 * Brad Boswell - CITC
 * Matthew Hepner - IBEW
 * Halene Sigmund - CITC
 * Maya Gillett - BlueGreen Alliance of WA
+* Fredrick  Smith  - 45Consulting
+* Michael Attri
+* Brynden Cassady - Ibew 46
 
-### 21 👎 - Con
+### 56 👎 - Con
 #### Testifying
 * Hans Frederickson - Frederickson Electric, Inc.
 * Greg Mathews
+* Patrick Toby - Toby’s Electric LLC
+* Keely Friesen
+* Mike Brunelle - First Choice Electric
+* Robert Perasso - Rob's Electric Inc.
+* Brandon Perasso
+* Erik Gaskell - All Phase Electric
+* Scott Smasal - Extra Mile Tech & Electrical 
+* Sophia Steele - Associated Builders and Contractors
+* America George - Haggard Electric
+* Adam Kemly - Kemly Electric
+* Ryan  Haggard - Haggard Electrical Contractors
+* Justin Hauck
 
-### 0 ❓ - Other
+### 2 ❓ - Other

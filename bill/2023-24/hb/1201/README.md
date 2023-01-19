@@ -7,17 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Candice Bock - Association of Washington Cities
 * K.D.  Chapman-See - Office of Financial Management
 * Marcus Ehrlander - Office of Financial Management
 
-### 2 👎 - Con
+### 3 👎 - Con
 #### Testifying
 * Michael McKinley
+* Timothy Knopf
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Alan Burke - WSSRA
 * Laurie Weidner - Retired Public Employees Council of Washington (RPEC)

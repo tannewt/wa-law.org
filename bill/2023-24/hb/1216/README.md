@@ -7,12 +7,29 @@
 * [Original Bill](1/)
 
 ## Positions
-### 22 👍 - Pro
+### 51 👍 - Pro
 #### Testifying
 * Mark Vossler - Washington Physicians for Social Responsibility
+* Donny Donovan - IAM 751
+* Mark Riker - Washington State Building & Construction Trades Council
+* Cassie Bordelon - Puget Sound Energy
+* Kate Brouns - Renewable NW
+* Becky Kelley - Office of Governor Jay Inslee
+* Jasmine Vasavada - Department of Commerce
+* Diane Butorac - Department of Ecology
+* Justin Allegro - The Nature Conservancy
+* Clifford Traisman - Washington Conservation Action
+* Kelly  Hall - Climate Solutions
+* Tom Wolf - bp America
+* Jan Hasselman - Earthjustice
+* Dave Warren - WA Green Hydrogen Alliance
+* Eric ffitch - Washington Public Ports Association
 
-### 2 👎 - Con
+### 3 👎 - Con
 
-### 1 ❓ - Other
+### 4 ❓ - Other
 #### Testifying
 * Jennifer Ziegler - National Construction Alliance
+* Josh Lozano - Energy Northwest
+* Jay Kehne - Conservation Northwest
+* Adam Maxwell - Audubon Washington

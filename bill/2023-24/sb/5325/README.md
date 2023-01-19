@@ -7,12 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 14 👍 - Pro
+### 19 👍 - Pro
 #### Testifying
 * Seth Worley - Plumbers and Steamfitters UA Local 598
 * Alexandra Mather - Pierce Transit
 * Michelle Detwiler - Renewable Hydrogen Alliance
 * Dave Warren - Twin Transit and WA Green Hydrogen Alliance
+* Hanna Jones - Pierce Transit
+* Martin Gibbins - League of Women Voters of WA
+* John Clauson - Kitsap Transit
 
 ### 1 👎 - Con
 #### Testifying

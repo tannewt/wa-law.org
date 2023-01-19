@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Paul Griffin - Washington Rural Electric Cooperative Association
+* Steve Walter - Tanner Electric Cooperative
 
 ### 0 👎 - Con
 
