@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 149 👍 - Pro
+### 314 👍 - Pro
+#### Testifying
+* Laurie Cannon
+* Jacqueline Necco
 
-### 6 👎 - Con
+### 8 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other

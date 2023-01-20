@@ -7,10 +7,16 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Sue Rahr
+* James  Schrimpsher - Washington State Fraternal Order of Police
+* Michelle Bennett - Edmond Police Department
+* Monica Alexander - CJTC
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 2 ❓ - Other
 #### Testifying
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs

@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
 #### Testifying
 * Jackie Ferry
+* Carol Berch
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Kelly McLain

@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Kathy Gill - Chair, Motorcycle Safety Education Advisory Board
+* Larry Walker - ABATE of WA  (Motorcyclists)
+* DOUG BOWERS
 
 ### 0 👎 - Con
 

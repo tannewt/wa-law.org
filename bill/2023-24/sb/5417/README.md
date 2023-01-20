@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Rebecca Faust
 
 ### 0 ❓ - Other

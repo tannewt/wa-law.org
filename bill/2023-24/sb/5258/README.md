@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* Councilwoman Betsy Wilkerson - City of Spokane
 
 ### 0 👎 - Con
 

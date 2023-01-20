@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Ria  Bahadur  - Author of SB 5355
 
 ### 0 👎 - Con
 

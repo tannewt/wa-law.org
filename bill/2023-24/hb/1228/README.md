@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* Alex Hur - OneAmerica
 
 ### 0 👎 - Con
 

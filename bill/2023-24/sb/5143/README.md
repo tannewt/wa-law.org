@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * Kelly McLain - Washington State Department of Agriculture
 
-### 0 👎 - Con
+### 10 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Matthew Blua - Chair - Washington State Commission on Pesticide Registration

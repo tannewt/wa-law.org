@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Riley Smith - Washington Hospitality Association
 
 ### 0 👎 - Con
 

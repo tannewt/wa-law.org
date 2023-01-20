@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
 * Steve Ewing - Department of Revenue
+* K.D. Chapman-See - Office of Financial Management
 
 ### 0 👎 - Con
 

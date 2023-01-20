@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Jeffrey  Ellis - Redemption Project of WA 
+* Jacob  Schmitt
 
 ### 0 👎 - Con
 

@@ -7,11 +7,19 @@
 * [Original Bill](1/)
 
 ## Positions
-### 130 👍 - Pro
+### 226 👍 - Pro
+#### Testifying
+* Martin Gibbins - League of Women Voters of WA
+* Martin Gibbins - League of Women Voters of WA
+* Joe Crumbley - CORA
+* Melissa Spear  - Tilth Alliance 
 
 ### 2 👎 - Con
 #### Testifying
 * john Worthington
 * john Worthington - AAMC
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Peter Godlewski - Association of Washington Business
+* Brian Considine - Washington Department of Natural Resources

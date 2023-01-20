@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Carrie Bashaw - WA State Attorney General's Office
 
 ### 0 👎 - Con
 

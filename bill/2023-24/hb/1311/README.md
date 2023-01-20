@@ -7,8 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 6 👍 - Pro
+#### Testifying
+* Mindy Chumbley - WA Collectors Assn
+* Andrew Roskam - RMAI
+* Martin Lynch - Financial Counseling Assn of America
+* Antonio Ginatta - Columbia Legal Services
 
-### 0 👎 - Con
+### 4 👎 - Con
+#### Testifying
+* Melissa  Gombosky  - Progrexion 
+* Christian  Caballero  - Lexington Law
+* Pastor Andre Chapple - African American Empowerment Coalition
+* Michael  Claunch  - American Association of Consumer Credit Professionals 
 
 ### 0 ❓ - Other

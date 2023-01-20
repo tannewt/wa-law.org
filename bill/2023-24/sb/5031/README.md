@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 8 👍 - Pro
 #### Testifying
 * Tim  Merlino  - ESD 112 
+* Sue Ann Bube - School Alliance
+* Tania May - Office of Superintendent of Public Instruction
 
 ### 0 👎 - Con
 

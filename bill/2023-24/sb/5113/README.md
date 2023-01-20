@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 8 👍 - Pro
 #### Testifying
 * Shawna Fox - Washington State Department of Health
+* Fotinos Panagakos - Pacific Northwest University of Health Sciences - School of Dental Medicine
 
 ### 0 👎 - Con
 

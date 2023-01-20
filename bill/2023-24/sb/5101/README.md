@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 75 👍 - Pro
+### 87 👍 - Pro
 #### Testifying
 * JIm Chambers
 * Melody Simle
@@ -17,9 +17,12 @@
 * Rachael  Seevers - Disability Rights Washington
 * Jennifer  Smith - Seattle Clemency Project
 * MD, MaryAnn Curl - Department of Corrections
+* Mary  McQueen
+* Waldo Waldron-Ramsey
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Russell Brown - WA Association of Prosecuting Attorneys
 
 ### 0 ❓ - Other

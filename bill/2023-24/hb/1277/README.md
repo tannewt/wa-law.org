@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 9 👍 - Pro
+### 12 👍 - Pro
 #### Testifying
 * Zackary Turner - PESB
 * Dawna Hansen-Murray

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 60 👍 - Pro
+### 73 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
 * Jennifer Ziegler - Association of Washington Health Care Plans
@@ -22,10 +22,13 @@
 * Nancy Belcher - King County Medical Society
 * Mukti Khanna - The Evergreen State College
 * Kevin Criswell
+* Julie Rickard - Physician & Healthcare Consulting, LLC
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
-### 3 ❓ - Other
+### 4 ❓ - Other
 #### Testifying
 * Evan Klein
 * Julia O'Connor - Washington Council for Behavioral Health

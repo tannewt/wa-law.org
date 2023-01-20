@@ -7,8 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 50 👍 - Pro
+#### Testifying
+* Michael Moran - Confederated Tribes of the Colville Reservation
+* Logan Endres - Washington State School Directors' Association (WSSDA)
+* Nikki Lockwood - Washington State School Directors' Association (WSSDA)
 
-### 0 👎 - Con
+### 2 👎 - Con
+#### Testifying
+* Jason Perrins - Chewelah SD
 
 ### 0 ❓ - Other

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 170 👍 - Pro
+### 178 👍 - Pro
 #### Testifying
 * Lacey Jane Wolfe - City of Bellevue
 * MARK SMITH - Housing Consortium of Everett & Snohomish County

@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 7 👍 - Pro
+#### Testifying
+* Cynthia Stewart - League of Women Voters of WA
+* Dan Bertolet - Sightline Institute
+* Will Sorenson
 
 ### 0 👎 - Con
 

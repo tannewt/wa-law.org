@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
 
-### 0 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* Conrad Reynoldson - Washington Civil & Disability Advocate
+* Rebecca Faust
 
 ### 0 ❓ - Other

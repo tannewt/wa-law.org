@@ -7,16 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 40 👍 - Pro
+### 43 👍 - Pro
 #### Testifying
 * Michael White - King County
 * Jennifer Hansen
 
-### 2 👎 - Con
+### 3 👎 - Con
 #### Testifying
 * Laquesha Turner
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-### 1 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Q  Beers
+* Mike Hoover - Washington State Association of Counties
+* Candice Bock - Association of Washington Cities

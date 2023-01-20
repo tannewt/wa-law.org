@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 38 👍 - Pro
+#### Testifying
+* Michael Moran - Confederated Tribes of the Colville Reservation
+* Aracely Calvillo  - Save the Children Action Network
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Jason  Perrins - Chewelah SD
 
 ### 0 ❓ - Other

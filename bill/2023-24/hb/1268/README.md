@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 6 👍 - Pro
+#### Testifying
+* Melody Simle - WA Criminal Sentencing Task Force
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 0 ❓ - Other

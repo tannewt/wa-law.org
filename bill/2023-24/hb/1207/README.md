@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 8 👍 - Pro
+### 12 👍 - Pro
 #### Testifying
 * Sarah Albertson - OSPI
+* John Harrison - Bellevue School District
 
-### 0 👎 - Con
+### 5 👎 - Con
 
 ### 0 ❓ - Other

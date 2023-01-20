@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Michael Moran - Washington State Music Therapy Task Force
+* Diana Stadden - The Arc of WA State
 
 ### 0 👎 - Con
 

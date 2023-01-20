@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Kelly McLain - Washington State Department of Agriculture
 

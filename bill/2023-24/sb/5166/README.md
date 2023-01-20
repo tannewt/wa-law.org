@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Paul Griffin - Washington Rural Electric Cooperative Association
 * Troy Berglund - Benton Rural Electric Association

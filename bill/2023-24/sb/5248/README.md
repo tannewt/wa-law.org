@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Julie Barrett - Conservative Ladies of Washington
 
 ### 0 👎 - Con
 

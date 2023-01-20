@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 43 👍 - Pro
+### 58 👍 - Pro
 #### Testifying
 * Luis Licea - Northwest Laborers Employers Training Trust
 * Erin Frasier - Washington State Building & Construction Trades Council
@@ -18,13 +18,20 @@
 * Jason Benway - IBEW L 73
 * Lorne Bulling - Ironworkers Local 29
 * Nicole Grant - IBEW 46
+* Sheldon Bennett - Southwest Mountain States Regional Council of Carpenters,  Local Union 59
+* Michael  Wright - Opcmia local 72
+* Anthony Edwards - Southwest Mountain States Regional Council of Carpenters
+* Julian Jensen - SW Mountain States Regional Council of Carpenters 
 
-### 1 👎 - Con
+### 8 👎 - Con
 #### Testifying
 * Sophia Steele - Associated Builders and Contractors
 
-### 3 ❓ - Other
+### 6 ❓ - Other
 #### Testifying
 * Jerry VanderWood - Associated General Contractors (AGC) 
 * Cheryl Stewart - Inland Northwest AGC
 * Tammy Fellin - Labor & Industries
+* Brandy DeLange - Association of Washington Cities
+* Chris Herman - Washington Public Ports Association
+* Michael Transue - Mechanical Contractors Ass'n of Western Washington

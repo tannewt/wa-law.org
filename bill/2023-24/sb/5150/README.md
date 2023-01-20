@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 83 👍 - Pro
+### 157 👍 - Pro
 #### Testifying
 * Jay  Theiler - Washington Beef
 * Jack Field - Executive Director, Washington Cattle Feeders Aoocaiton 
@@ -16,7 +16,13 @@
 * Dan Wood - WA State Dairy Federation
 * Jennifer Colvin - Colvin Ranch
 * Fred Colvin
+* Mark Streuli - Washington Cattlemen's Association
+* Jeff  Keane - President, Washington State Cattlemen
+* Mike Hajny - Member, Kittitas County Cattlemen
+* Bill Sieverkropp - Member, Grant County Cattlemen
 
-### 50 👎 - Con
+### 60 👎 - Con
+#### Testifying
+* Nate Hair - CPoW
 
 ### 0 ❓ - Other

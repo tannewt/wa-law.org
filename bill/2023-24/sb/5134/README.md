@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 51 👍 - Pro
+### 65 👍 - Pro
 #### Testifying
 * JD BARTON - ORION WATCH COMMUNITY OUTREACH PROGRAMS
 * Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAM

@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 8 👍 - Pro
+#### Testifying
+* Andrea  Alegrett - WA State Attorney General's Office
+* Joyce Bruce - WA State Attorney General's Office
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Andrew Kingman - State Privacy & Security Coalition

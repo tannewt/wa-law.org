@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Brad Boswell - Seattle Kraken/Climate Pledge Arena
 * Eric Jaeger - Climate Pledge Arena, SVP of Finance
 * Hewan Teshome
 * Eric Pettigrew - Seattle Kraken, VP of Gov Relations and Outreach
 
-### 0 👎 - Con
+### 1 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Briahna Murray - City of Tacoma

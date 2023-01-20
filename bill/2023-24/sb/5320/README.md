@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 85 👍 - Pro
+### 173 👍 - Pro
 #### Testifying
 * Brad Boswell - CITC
 * Matthew Hepner - IBEW
@@ -16,8 +16,9 @@
 * Fredrick  Smith  - 45Consulting
 * Michael Attri
 * Brynden Cassady - Ibew 46
+* Braden Ruddock
 
-### 56 👎 - Con
+### 110 👎 - Con
 #### Testifying
 * Hans Frederickson - Frederickson Electric, Inc.
 * Greg Mathews
@@ -33,5 +34,17 @@
 * Adam Kemly - Kemly Electric
 * Ryan  Haggard - Haggard Electrical Contractors
 * Justin Hauck
+* winona furgison - shocking difference llc
+* Christopher Scherer - North Wave Electric LLC
+* Andrew Mora
+* Roger Chick
+* Zachary Stockwell
+* Justin Richardson - Electri-City Inc.
+* Garu Thurston 
+* Noel Mason - Beeline Electric Solutions LLC
+* Kevin Diefenbach - Don Kruse Electric, Inc
+* Gary Thurston
+* Robert Perasso
+* Brandon Perasso
 
-### 2 ❓ - Other
+### 4 ❓ - Other

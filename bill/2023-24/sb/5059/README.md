@@ -9,6 +9,12 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 0 👎 - Con
+### 6 👎 - Con
+#### Testifying
+* Tyna Ek - Washington Schools Risk Management Pool
+* Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Pool
+* Mike Hoover - Washington State Association of Counties and the Washington State School Directors’ Association
+* Derek Bryan - Washington Counties Risk Pool
+* Gregory  Narver  - General Counsel, Seattle Public Schools 
 
 ### 0 ❓ - Other

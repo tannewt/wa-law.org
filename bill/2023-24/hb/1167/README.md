@@ -7,17 +7,21 @@
 * [Original Bill](1/)
 
 ## Positions
-### 249 👍 - Pro
+### 284 👍 - Pro
 #### Testifying
 * Alex Hur - Master Builders Association of King and Snohomish Counties
 * Josie Cummings - Building Industry Association of Washington
 * Joe Kunzler - None
 * Mason Thompson - City of Bothell, Mayor
+* Bryce Yadon - Futurewise 
+* Scott Bonjukian
+* Alex Hur - Master Builders Association of King and Snohomish Counties
+* Dan Bertolet - Sightline Institute
 
-### 3 👎 - Con
+### 10 👎 - Con
 #### Testifying
 * Andy Higgins - Washington Association of Building Officials
 
-### 3 ❓ - Other
+### 5 ❓ - Other
 #### Testifying
 * Mary Connolly - South Sound Housing Affordability Partners

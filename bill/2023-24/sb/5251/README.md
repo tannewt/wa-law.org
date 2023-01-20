@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 14 👍 - Pro
+### 21 👍 - Pro
 #### Testifying
 * Jeff DeVere - Washington Trucking Associations
 * Beau Perschbacher - WA Dept. of Licensing

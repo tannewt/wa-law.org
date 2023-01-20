@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* Markus Virta - WASEIA
 
 ### 0 👎 - Con
 

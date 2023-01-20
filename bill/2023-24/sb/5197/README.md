@@ -12,8 +12,11 @@
 * Edmund Witter - King County Bar Association 
 * Jody Suhrbier - Resolution Washington
 
-### 299 👎 - Con
+### 558 👎 - Con
 #### Testifying
 * Brett Waller - HNN Communities
+* Paige Huang
+* Steve O'Hara
+* Patricia Hoendermis - Yakima Valley Landlords Association
 
-### 1 ❓ - Other
+### 4 ❓ - Other

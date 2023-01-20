@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * K.D.  Chapman-See - Office of Financial Management
 * Jamie Langford - Office of Financial Management
+* Jim Baumgart - Washington Military Department
 
 ### 0 👎 - Con
 

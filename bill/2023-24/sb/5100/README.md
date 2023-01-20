@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Kimberly Bowles - Not Putting on a Shirt
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

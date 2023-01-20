@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * Pat Seibert-Love - SBCTC
 * Hanan Al-Zubaidy - SBCTC

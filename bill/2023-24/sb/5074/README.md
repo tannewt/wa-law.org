@@ -7,9 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 16 👍 - Pro
+### 27 👍 - Pro
 #### Testifying
 * Ian Goodhew - UW Medicine 
+* Matt Helder - ACS CAN
+* Robin Sparks
+* Katie Kolan - Washington State Medical Oncology Society
+* Dr. Blair Irwin - MultiCare
+* MD, MS, Marianne  Dubard-Gault - Fred Hutchinson Cancer Center
 
 ### 3 👎 - Con
 #### Testifying

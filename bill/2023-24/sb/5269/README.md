@@ -7,8 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 84 👍 - Pro
+### 128 👍 - Pro
+#### Testifying
+* Brenda Wiest - Teamsters 117
+* Robin Everett - Sierra Club
+* Jessica Koski - BlueGreen Alliance
+* Gaylan Prescott - United Steelworkers Union, District 12
 
-### 0 👎 - Con
+### 8 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Stephanie Celt - Washington Department of Commerce

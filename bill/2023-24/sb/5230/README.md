@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Sean Gardner - The Mockingbird Society
 
 ### 0 👎 - Con
 

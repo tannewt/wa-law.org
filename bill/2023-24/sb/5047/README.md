@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 148 👍 - Pro
+### 186 👍 - Pro
 #### Testifying
 * Carol Sullivan - League of Women Voters of Wl
 * Alex Hur - OneAmerica
@@ -17,7 +17,7 @@
 * Colin Cole - More Equitable Democracy
 * Arlette Lopez
 
-### 338 👎 - Con
+### 407 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Julie Barrett - Conservative Ladies of Washington
@@ -26,8 +26,14 @@
 * Karen McIntosh
 * Edward Buck
 * Jennifer  Deacy
+* Maxine Herbert-Hill
+* Jessica Hargin - Conservative Ladies of Washington 
+* Linnea McCord
+* Linnea McCord
 
-### 3 ❓ - Other
+### 5 ❓ - Other
 #### Testifying
 * Mike Hoover - Washington State Association of Counties
 * Candice Bock - Association of Washington Cities
+* Blanche Barajas - Mayor of the City of Pasco
+* Briahna Murray - Lobbyist for City of Pasco

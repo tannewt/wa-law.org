@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 25 👍 - Pro
+### 42 👍 - Pro
 #### Testifying
 * Hunter George - Metro Parks Tacoma
 * Robert Stevens - Molina Health Care

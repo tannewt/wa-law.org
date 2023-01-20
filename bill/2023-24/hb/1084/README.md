@@ -7,13 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 21 👍 - Pro
+### 25 👍 - Pro
 #### Testifying
 * Leah Missik - Climate Solutions
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Dan Gatchet
 
-### 11 ❓ - Other
+### 17 ❓ - Other
 #### Testifying
 * Jim Hagar - Port of Vancouver USA
 * Temple Lentz - Chair, Freight Mobility Strategic Investment Board
@@ -25,3 +27,8 @@
 * Axel Swanson - Washington State Association of County Engineers
 * john worthington - AAMC
 * Anne  McEnerny-Ogle - Association of Washington Cities 
+* Herb Krohn - SMART Transp. Division/United Transportation Union
+* Licett Garbe - Greater Spokane Valley Chamber of Commerce
+* Chris Herman - Washington Public Ports Association
+* John McCarthy - Freight Mobility Strategic Investment Board
+* Gordon Baxter - International Longshore and Warehouse Union

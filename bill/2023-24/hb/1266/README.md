@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 7 👍 - Pro
+#### Testifying
+* Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
+* Karl Robinson - Robinson Group, Inc.
+* Karl Robinson - Robinson Insurance Group
 
 ### 0 👎 - Con
 

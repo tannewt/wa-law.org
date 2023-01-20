@@ -7,10 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 14 👍 - Pro
 #### Testifying
 * Tom Wark - National Association of Wine Retailers
+* Paul Beveridge - Family Wineries of Washington State
+* Sandi Moreno - Leony's Cellars
+* Perry Preston - Stina's Cellars
+* Josh McDonald - Washington Wine Institute
 
-### 1 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

@@ -7,13 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 22 👍 - Pro
+### 44 👍 - Pro
 #### Testifying
 * Seth Worley - Plumbers and Steamfitters UA Local 598
 * Michelle Detwiler - Renewable Hydrogen Alliance
 * Donny Donovan - IAM 751
 * Aaron Feaver - WSU / JCDREAM
 * Dave Warren - WA Green Hydrogen Alliance
+* Troy Nichols - Phillips 66
 
 ### 0 👎 - Con
 

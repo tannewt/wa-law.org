@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 17 👍 - Pro
+#### Testifying
+* Devin Glaser - Tenant Law Center
 
-### 0 👎 - Con
+### 8 👎 - Con
+#### Testifying
+* Chester Baldwin - Rental Housing Coalition
 
 ### 0 ❓ - Other

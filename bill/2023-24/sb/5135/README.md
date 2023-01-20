@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 9 👍 - Pro
+#### Testifying
+* Micaela Romero
+* Anthony Blankenship - Civil Survival Project
+* Marriam Oliver - Washington Innocence Project
 
 ### 0 👎 - Con
 

@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Carly Colgan - Habitat for Humanity of Washington State
 
 ### 0 👎 - Con
 

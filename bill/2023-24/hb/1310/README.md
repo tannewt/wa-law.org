@@ -7,11 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 330 👍 - Pro
+### 481 👍 - Pro
 #### Testifying
 * Micah Matthews - Washington Medical Commission
 * Mordechai Sacks
+* Tate Sexton
+* Linda Dale - Self and Washington Academy of Physician Assistants (WAPA)
+* Jenna Newcomb Barkhimer
+* Anna Facio
 
-### 0 👎 - Con
+### 3 👎 - Con
 
-### 1 ❓ - Other
+### 2 ❓ - Other

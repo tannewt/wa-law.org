@@ -464,18 +464,21 @@ for start_year in range(2023, 2025, 2):
                             else:
                                 history = section.History.text
                                 base_section = history.split()
-                                base_session = " ".join(base_section[:base_section.index("c")])
-                                base_chapter = int(base_section[base_section.index("c") + 1])
-                                base_section = base_section[base_section.index("§") + 1].strip(";.")
-                                cur.execute("SELECT rowid FROM sessions WHERE name = ?", (base_session,))
-                                base_session_rowid = cur.fetchone()[0]
-                                # TODO: Create revisions and sections for RCW
-                                # print(rcw_citation, base_session_rowid, base_chapter)
-                                # cur.execute("SELECT rowid FROM revisions WHERE session_rowid = ? AND session_law_chapter = ?;", (base_session_rowid, base_chapter))
-                                # base_revision_rowid = cur.fetchone()[0]
-                                # cur.execute("SELECT rowid FROM sections WHERE revision_rowid = ? AND name = ?", (base_revision_rowid, base_section))
-                                # base_section_rowid = cur.lastrowid
                                 base_section_rowid = None
+                                if "c" in base_section and "§" in base_section:
+                                    base_session = " ".join(base_section[:base_section.index("c")])
+                                    base_chapter = int(base_section[base_section.index("c") + 1])
+                                    base_section = base_section[base_section.index("§") + 1].strip(";.")
+                                    cur.execute("SELECT rowid FROM sessions WHERE name = ?", (base_session,))
+                                    base_session_rowid = cur.fetchone()[0]
+                                    # TODO: Create revisions and sections for RCW
+                                    # print(rcw_citation, base_session_rowid, base_chapter)
+                                    # cur.execute("SELECT rowid FROM revisions WHERE session_rowid = ? AND session_law_chapter = ?;", (base_session_rowid, base_chapter))
+                                    # base_revision_rowid = cur.fetchone()[0]
+                                    # cur.execute("SELECT rowid FROM sections WHERE revision_rowid = ? AND name = ?", (base_revision_rowid, base_section))
+                                    # base_section_rowid = cur.lastrowid
+                                else:
+                                    print(base_section)
                             section_lines = []
 
                             for paragraph in section.find_all("P"):

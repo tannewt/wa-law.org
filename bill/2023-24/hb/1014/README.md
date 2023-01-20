@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 8 👍 - Pro
+### 10 👍 - Pro
 #### Testifying
 * Pam Cool - LCFD4 Fire Commissioner 3
 * Andrew Shaffran - WA. St. Fire Fighters' Association (volunteers)
+* ryan spiller - Wa fire commissioners
 
 ### 0 👎 - Con
 

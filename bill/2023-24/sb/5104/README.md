@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 184 👍 - Pro
+### 215 👍 - Pro
 #### Testifying
 * Amy Carey - Sound Action
+* Tim Gates - WA Department of Ecology
+* Don Gourlie - Puget Sound Partnership
 
 ### 2 👎 - Con
 

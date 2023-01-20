@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Cathy Murahashi - Community Homes
+* Diana Stadden - The Arc of WA State
 
 ### 0 👎 - Con
 

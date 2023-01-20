@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 #### Testifying
 * Dominga Soliz - Environmental & Land Use Hearings Office
 

@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 7 👍 - Pro
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying

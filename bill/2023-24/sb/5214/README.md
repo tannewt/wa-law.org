@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Diana Stadden - The Arc of WA State
 
 ### 0 👎 - Con
 

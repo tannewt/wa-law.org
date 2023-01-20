@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 45 👍 - Pro
+### 59 👍 - Pro
+#### Testifying
+* Samantha Wellman
+* Robyn Towt - GPAC Global Patient Advocacy Coalition
 
 ### 0 👎 - Con
 

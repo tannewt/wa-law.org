@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Kate Dean - Jefferson County 
+* Mike Hoover - Washington State Association of Counties
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Scott  Nelson - Office of the Washington State Auditor

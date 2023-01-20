@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 48 👍 - Pro
+### 55 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
 * Michelle Pearl
@@ -15,6 +15,8 @@
 * Sheri Emery
 * Jennifer Ziegler - Association of Washington Health Care Plans
 * Andrea Hu
+* Stephanie Simpson - Bleeding Disorder Foundation of Washington
+* Jill Bujnevicie 
 
 ### 0 👎 - Con
 

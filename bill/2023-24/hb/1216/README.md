@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 51 👍 - Pro
+### 64 👍 - Pro
 #### Testifying
 * Mark Vossler - Washington Physicians for Social Responsibility
 * Donny Donovan - IAM 751
@@ -24,12 +24,19 @@
 * Jan Hasselman - Earthjustice
 * Dave Warren - WA Green Hydrogen Alliance
 * Eric ffitch - Washington Public Ports Association
+* John Rothlin - Avista
+* Isaac Kastama - Clean & Prosperous Washington
 
-### 3 👎 - Con
+### 11 👎 - Con
+#### Testifying
+* Lauren Armstrong
 
-### 4 ❓ - Other
+### 7 ❓ - Other
 #### Testifying
 * Jennifer Ziegler - National Construction Alliance
 * Josh Lozano - Energy Northwest
 * Jay Kehne - Conservation Northwest
 * Adam Maxwell - Audubon Washington
+* Paul Jewell - Washington State Association of Counties
+* Nicolas Garcia - WPUDA
+* Peter  Godlewski  - Association of Washington Business 

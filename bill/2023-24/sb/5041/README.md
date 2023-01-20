@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Beau Perschbacher - WA Dept. of Licensing
 

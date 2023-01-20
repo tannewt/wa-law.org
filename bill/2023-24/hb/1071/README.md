@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 90 👍 - Pro
+#### Testifying
+* Julie Barrett - Conservative Ladies of Washington
+* Jason Perrins - Chewelah SD
 
-### 0 👎 - Con
+### 41 👎 - Con
 
 ### 0 ❓ - Other

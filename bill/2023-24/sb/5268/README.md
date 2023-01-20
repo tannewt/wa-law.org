@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 10 👍 - Pro
+#### Testifying
+* James King - Independent Business Association
 
 ### 0 👎 - Con
 
