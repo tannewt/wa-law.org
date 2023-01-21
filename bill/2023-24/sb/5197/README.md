@@ -7,16 +7,23 @@
 * [Original Bill](1/)
 
 ## Positions
-### 9 👍 - Pro
+### 33 👍 - Pro
 #### Testifying
 * Edmund Witter - King County Bar Association 
 * Jody Suhrbier - Resolution Washington
+* Edmund Witter - King County Bar Association
+* Michele Thomas - Washington Low Income Housing Alliance
 
-### 558 👎 - Con
+### 703 👎 - Con
 #### Testifying
 * Brett Waller - HNN Communities
 * Paige Huang
 * Steve O'Hara
 * Patricia Hoendermis - Yakima Valley Landlords Association
+* Ryan Weatherstone
+* Quinn  Posner
+* Bruce Becker - Bruce Becker
+* Kaitlyn Jackson - Dimension Law Group PLLC
+* Cole Scarbrough 
 
 ### 4 ❓ - Other

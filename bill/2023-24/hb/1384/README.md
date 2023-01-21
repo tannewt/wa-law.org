@@ -9,6 +9,8 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* STETSON PALMER - Friends of Schafer and Lake Sylvia State Parks (FO
 
 ### 0 ❓ - Other

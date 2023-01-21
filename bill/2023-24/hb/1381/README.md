@@ -9,6 +9,10 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Paul Jewell - Washington State Association of Counties
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* john Worthington

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 569 👍 - Pro
+### 625 👍 - Pro
 #### Testifying
 * Jamie Lee
 * Valerie Balch
@@ -27,6 +27,7 @@
 * Callagee O'Brien - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * Alexis Oliver
 * Katherine  Tarlock
+* Amanda  Ary
 
 ### 40 👎 - Con
 #### Testifying

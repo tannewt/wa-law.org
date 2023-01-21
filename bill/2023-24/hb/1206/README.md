@@ -7,9 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
+* Carol Rikerd
+* Ben Campbell - The Columbian
+* matt zuvich - Office of State Treasurer
 
 ### 0 👎 - Con
 

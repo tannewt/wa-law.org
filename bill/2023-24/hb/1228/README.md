@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * Alex Hur - OneAmerica
+* Maribel  Vilchez - WEA Member and North Thurston EA Member
+* Kristin Percy Calaff  - OSPI
 
 ### 0 👎 - Con
 

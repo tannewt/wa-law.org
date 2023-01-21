@@ -7,10 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 9 👍 - Pro
 #### Testifying
 * Sean Gardner - The Mockingbird Society
+* Joshua Woodwalker
+* Emily Stochel - College Success Foundation
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Lynda Hall - Treehouse

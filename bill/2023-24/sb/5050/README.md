@@ -7,11 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 59 👍 - Pro
+### 77 👍 - Pro
 #### Testifying
 * Samantha Wellman
 * Robyn Towt - GPAC Global Patient Advocacy Coalition
+* Lauren Koehler
+* Laura Bowden
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Alex Wehinger - WA State Medical Association (WSMA)

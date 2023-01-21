@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Brian Considine - Washington Department of Natural Resources
+* Rick Hughes - Shorewood Communications, Inc., DBA Ray's General Store and Pharmacy/Island Life on Orcas
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Brian Considine - Washington Department of Natural Resources
 
 ### 0 ❓ - Other

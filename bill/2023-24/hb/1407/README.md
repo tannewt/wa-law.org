@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 #### Testifying
 * Diana Stadden - The Arc of WA State
+* Stacy Dym - The Arc of Washington State
 
 ### 0 👎 - Con
 

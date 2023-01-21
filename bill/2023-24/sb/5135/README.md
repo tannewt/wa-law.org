@@ -7,12 +7,20 @@
 * [Original Bill](1/)
 
 ## Positions
-### 9 👍 - Pro
+### 89 👍 - Pro
 #### Testifying
 * Micaela Romero
 * Anthony Blankenship - Civil Survival Project
 * Marriam Oliver - Washington Innocence Project
+* Rachael Seevers - Disability Rights Washington
+* Quest Jolliffe
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 5 ❓ - Other
+#### Testifying
+* Sean Murphy  - Department of Corrections
+* Melena Thompson - Department of Corrections
+* PhD, Caitlin  Robertson - Director - Office of the Corrections Ombuds 
+* Cheryl Strange - Washington Department of Corrections
+* Janel McFeat - Executive Director of the Washington Statewide Reentry Council

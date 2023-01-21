@@ -7,9 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * James Kraft - Washington Water Trust
+* Tom Tebb - Department of Ecology - Office of Columbia River
+* Lisa Ganuelas - Board of Trustees, Confederated Tribes of the Umatilla Indian Reservation
+* Chris Kowitz - Oregon Water Resources Department
 
 ### 0 👎 - Con
 

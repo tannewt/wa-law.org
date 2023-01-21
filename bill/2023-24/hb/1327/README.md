@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Fotinos Panagakos - Pacific Northwest University of Health Sciences - School of Dental Medicine
 
 ### 0 👎 - Con
 

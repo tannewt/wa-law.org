@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * Riley Smith - Washington Hospitality Association
+* Daniel Olson - Washington Brewers Guild
+* Josh McDonald - Washington Wine Institute
 
 ### 0 👎 - Con
 

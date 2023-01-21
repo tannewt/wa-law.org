@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 27 👍 - Pro
+#### Testifying
+* Dylan Higginbotham
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Kristi Aravena - University of Washington, Labor Relations
 
 ### 0 ❓ - Other

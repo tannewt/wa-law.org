@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 9 👍 - Pro
 #### Testifying
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 * Michael Moran - Office of Assessments/King County Assessor John Wilson

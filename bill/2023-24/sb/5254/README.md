@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 20 👍 - Pro
+#### Testifying
+* Heath Curtiss - Hampton Lumber
+* Thomas Lannen - County Government
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Brian Considine - Washington Department of Natural Resources
 
 ### 0 ❓ - Other

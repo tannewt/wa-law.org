@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 481 👍 - Pro
+### 541 👍 - Pro
 #### Testifying
 * Micah Matthews - Washington Medical Commission
 * Mordechai Sacks
@@ -15,7 +15,12 @@
 * Linda Dale - Self and Washington Academy of Physician Assistants (WAPA)
 * Jenna Newcomb Barkhimer
 * Anna Facio
+* MD, Mark Zeitzer - Chief Medical Officer, ZoomCare
+* Dr. Greg Blackner
 
-### 3 👎 - Con
+### 5 👎 - Con
+#### Testifying
+* DO, Katina Rue
+* Sean  Graham - Washington State Medical Association
 
-### 2 ❓ - Other
+### 4 ❓ - Other

@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* K.D. Chapman-See - Office of Financial Management
+* Michaela Doelman - Office of Financial Management
 
 ### 0 👎 - Con
 

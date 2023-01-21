@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Anna Hernandez-French - OSPI
+* Bill Kallappa - Washington State Board of Education
+* Modesta Minthorn - Confederated Tribes of the Umatilla Indian Reservation 
 
 ### 0 👎 - Con
 

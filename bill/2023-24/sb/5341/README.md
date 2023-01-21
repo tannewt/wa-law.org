@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* Rick Hughes - Shorewood Communicatons, Inc., DBA Island Life on Orcas
 
 ### 0 👎 - Con
 

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
 * David Forte - Office of the Insurance Commissioner
 * Gavin Friedman - Trupanion, Inc. 

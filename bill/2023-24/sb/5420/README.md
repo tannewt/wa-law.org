@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* Fred Yancey - Washington State School Retirees’ Assn. 
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* David Iseminger - WA State Health Care Authority

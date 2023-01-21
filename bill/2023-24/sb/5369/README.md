@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * Melissa Gombosky - Inland Empire Paper Company
 * Doug  Krapas  - Inland Empire Paper Company
+* Heather Trim - Zero Waste Washington
 
 ### 0 👎 - Con
 

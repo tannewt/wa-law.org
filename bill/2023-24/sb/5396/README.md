@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 18 👍 - Pro
+### 25 👍 - Pro
 #### Testifying
 * Kirsten Smith - Susan G. Komen
 * Dr. Peter  Eby - Washington State Radiological Society (WSRS)

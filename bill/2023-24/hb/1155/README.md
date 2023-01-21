@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 8 👍 - Pro
+### 78 👍 - Pro
 #### Testifying
 * Andrea  Alegrett - WA State Attorney General's Office
 * Joyce Bruce - WA State Attorney General's Office
+* Maya  Morales - WA People's Privacy
+* Cher Scarlett
+* Stanley Shikuma - Japanese American Citizens League, Seattle Chapter
 
 ### 0 👎 - Con
 

@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 1 👍 - Pro
+#### Testifying
+* K.D. Chapman-See - Office of Financial Management
 
 ### 0 👎 - Con
 

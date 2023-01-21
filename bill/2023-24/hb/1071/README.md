@@ -7,11 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 90 👍 - Pro
+### 344 👍 - Pro
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Jason Perrins - Chewelah SD
+* Laurie Layne
+* Rachel Buck
 
-### 41 👎 - Con
+### 199 👎 - Con
+#### Testifying
+* Roxana Gomez - ACLU of Washington
 
-### 0 ❓ - Other
+### 1 ❓ - Other

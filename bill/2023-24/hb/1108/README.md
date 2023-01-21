@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 10 👍 - Pro
 #### Testifying
 * Jeffrey  Ellis - Redemption Project of WA 
 * Jacob  Schmitt
+* Jacob Schmitt - WA DOC
+* Larry Jefferson - Washington State Office of Public Defense
+* David Trieweiler - WACDL/WDA
 
 ### 0 👎 - Con
 

@@ -7,11 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 65 👍 - Pro
 
-### 3 👎 - Con
+### 6 👎 - Con
 #### Testifying
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * Rebecca Faust
+* Mary Long - Conservative Ladies of Washington
+* Richard Doerflinger
 
 ### 0 ❓ - Other

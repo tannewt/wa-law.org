@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 5 👍 - Pro
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Leo Raudys - Call2Recycle
+* Laurie Davies - Washington State Department of Ecology

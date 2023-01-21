@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 28 👍 - Pro
+### 288 👍 - Pro
+#### Testifying
+* Sara Holloway
+* Dan Gemeinhart
 
-### 0 👎 - Con
+### 1 👎 - Con
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* Marnie Maraldo - Washington State School Directors' Association (WSSDA)

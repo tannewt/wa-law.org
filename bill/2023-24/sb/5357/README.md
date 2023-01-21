@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Paul Jewell - Washington State Association of Counties
+* Alex Hur - Master Builders Association of King and Snohomish Counties
 
 ### 0 👎 - Con
 

@@ -7,8 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 75 👍 - Pro
+#### Testifying
+* Samantha Fogg - Seattle Council PTSA
 
-### 0 👎 - Con
+### 119 👎 - Con
+#### Testifying
+* Julie Barrett - Conservative Ladies of Washington
+* Rachel Buck
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Liv Finne - Washington Policy Center

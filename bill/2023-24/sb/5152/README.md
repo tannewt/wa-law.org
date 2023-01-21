@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Steve Hobbs - Office of Secretary of State
+* Steve Hobbs - Office of Secretary of State
 
 ### 0 👎 - Con
 

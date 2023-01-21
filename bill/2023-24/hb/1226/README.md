@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Laura Heironimus - WDFW
 * Tom McBride - WDFW
+* Alexei Calambokidis - Trout Unlimited
 
-### 1 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

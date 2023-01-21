@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 15 👍 - Pro
 #### Testifying
 * Melody Simle - WA Criminal Sentencing Task Force
+* David Trieweiler - WACDL/WDA
 
-### 1 👎 - Con
+### 7 👎 - Con
+#### Testifying
+* Cory Malon - WA Civil Rights Organization
 
 ### 0 ❓ - Other

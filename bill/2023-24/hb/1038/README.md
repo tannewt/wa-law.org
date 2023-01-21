@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2351 👍 - Pro
+### 2398 👍 - Pro
 #### Testifying
 * Louis Potyondy - MD
 * Amy Brackenbury - Washington State Society of Anesthesiologists and Washington State Medical Association
@@ -26,7 +26,7 @@
 * Erik Condon - WSSA
 * Scott Wolf - WSSA
 
-### 5993 👎 - Con
+### 6105 👎 - Con
 #### Testifying
 * Dee Bender
 * maura j frith

@@ -7,13 +7,19 @@
 * [Original Bill](1/)
 
 ## Positions
-### 16 👍 - Pro
+### 303 👍 - Pro
 #### Testifying
 * Devin Glaser - Tenant Law Center
+* Jake Garcia - Northwest Harvest
+* Elizabeth Rogers
+* Stacey  Valenzuela 
+* Kimberly Ellefson
 
-### 8 👎 - Con
+### 159 👎 - Con
 #### Testifying
 * Patricia  Hoendermis - Yakima Valley Landlords Association
 * Chester Baldwin - Rental Housing Coalition
+* carl  haglund - Columbia Modern Living
+* Linda Powell
 
-### 0 ❓ - Other
+### 1 ❓ - Other

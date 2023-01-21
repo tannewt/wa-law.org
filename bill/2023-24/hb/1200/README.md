@@ -7,15 +7,16 @@
 * [Original Bill](1/)
 
 ## Positions
-### 43 👍 - Pro
+### 51 👍 - Pro
 #### Testifying
 * Michael White - King County
 * Jennifer Hansen
 
-### 3 👎 - Con
+### 5 👎 - Con
 #### Testifying
 * Laquesha Turner
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Maxford Nelsen - Freedom Foundation
 
 ### 3 ❓ - Other
 #### Testifying

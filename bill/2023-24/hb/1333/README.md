@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 5 👍 - Pro
 
-### 388 👎 - Con
+### 567 👎 - Con
+#### Testifying
+* Laurie Layne
 
 ### 1 ❓ - Other
 #### Testifying

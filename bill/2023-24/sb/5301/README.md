@@ -7,9 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 19 👍 - Pro
 #### Testifying
 * Carly Colgan - Habitat for Humanity of Washington State
+* Dave Pringle - Department of Commerce
+* Lisa Vatske - Washington State Housing Finance Commission
+* Marty Miller - Office of Rural & Farmworker Housing 
 
 ### 0 👎 - Con
 

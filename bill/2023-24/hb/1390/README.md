@@ -11,4 +11,6 @@
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Janette Plunkett - Washington Higher Education Sustainability Coalition, Seattle Buildings committee

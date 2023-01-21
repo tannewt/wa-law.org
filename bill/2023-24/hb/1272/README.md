@@ -7,15 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 17 👍 - Pro
+### 23 👍 - Pro
 #### Testifying
 * Sara Betnel - Washington State School Directors' Association (WSSDA)
 * Jim Stoffer - Jim Stoffer Concerned Citizen
 * Michael Shaw - Washington State County Officials
+* Lori Larsen - Washington State Association of County Auditors
 
-### 235 👎 - Con
+### 254 👎 - Con
 #### Testifying
 * Laurie Cannon
 * Jacqueline Necco - 618 ST Marys DR
+* Tim Eyman
 
 ### 0 ❓ - Other

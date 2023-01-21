@@ -9,8 +9,13 @@
 ## Positions
 ### 2 👍 - Pro
 
-### 0 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* Jennifer  Smith - Seattle Clemency Project
+* Anthony Powers - Seattle Clemency Project
+* Gail Brashear
 
-### 1 ❓ - Other
+### 2 ❓ - Other
 #### Testifying
 * Jeffrey  Ellis - Redemption Project WA
+* David Trieweiler - WACDL/WDA

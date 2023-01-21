@@ -7,10 +7,21 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 15 👍 - Pro
 #### Testifying
 * Heather Hudson - Washington Student Achievement Council
+* Lorie Thompson - Capital STEM Alliance (CCW Regional Network)
+* Kevin Wang - Mentors in Tech
+* Brian Moreno
+* Evan Woods - Executive Director - WeTrain Washington
+* Mandira Virmani - Computing For All
+* Maud Daudon - Career Connect Washington
+* John B. Bonner
+* Shereen J. Henry
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 3 ❓ - Other
+#### Testifying
+* John Bonner
+* Shereen Henry

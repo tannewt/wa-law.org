@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 11 👍 - Pro
+### 44 👍 - Pro
+#### Testifying
+* Christopher Blackwell
+* Devennice  Gaines
 
 ### 0 👎 - Con
 

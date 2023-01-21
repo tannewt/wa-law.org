@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 61 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Ed Bowen
 
 ### 0 ❓ - Other

@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 5 👍 - Pro
 #### Testifying
 * Cathy Murahashi - Community Homes
 * Diana Stadden - The Arc of WA State
+* Mike Ernst - Life Enrichment Options (LEO) Organization
 
 ### 0 👎 - Con
 

@@ -7,12 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 9 👍 - Pro
 #### Testifying
 * Mindy Chumbley - WA Collectors Assn
 * Andrew Roskam - RMAI
 * Martin Lynch - Financial Counseling Assn of America
 * Antonio Ginatta - Columbia Legal Services
+* Kelsi Hamilton - Washington Collectors Association
 
 ### 4 👎 - Con
 #### Testifying

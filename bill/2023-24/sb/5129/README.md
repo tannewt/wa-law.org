@@ -7,9 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * Josh Lozano - Energy Northwest - Richland, WA
+* Josh Lozano - Energy Northwest
+* Seth  Worley - UA Local 598
+* Jesus Mota - Columbia Basin College
 
 ### 0 👎 - Con
 

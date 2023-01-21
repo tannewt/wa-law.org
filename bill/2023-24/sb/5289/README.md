@@ -12,8 +12,9 @@
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kevin Turner - Ferndale Police Department
 
-### 13 👎 - Con
+### 14 👎 - Con
 #### Testifying
 * Bill Stauffacher - Building Industry Association of Washington
+* Alex Hur - Master Builders Association of King and Snohomish Counties
 
 ### 0 ❓ - Other

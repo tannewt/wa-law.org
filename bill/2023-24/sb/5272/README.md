@@ -7,7 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Jerry VanderWood - Associated General Contractors (AGC)
+* Brandon Dully - Guy F Atkinson Construction
+* Travis Snell - Washington State Department of Transportation
+* Capt. Neil Weaver - Washington State Patrol
+* Mark McKechnie - Washington Traffic Safety Commission
 
 ### 0 👎 - Con
 

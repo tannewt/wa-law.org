@@ -9,6 +9,8 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Claire Olson - Nine Mile Falls School District
 
 ### 0 ❓ - Other

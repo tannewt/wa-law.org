@@ -7,12 +7,19 @@
 * [Original Bill](1/)
 
 ## Positions
-### 17 👍 - Pro
+### 321 👍 - Pro
 #### Testifying
 * Devin Glaser - Tenant Law Center
+* Jake Garcia - Northwest Harvest
+* Elizabeth Rogers
+* Stacey  Valenzuela 
+* Kimberly Ellefson
 
-### 8 👎 - Con
+### 170 👎 - Con
 #### Testifying
 * Chester Baldwin - Rental Housing Coalition
+* Zijie He - Zijie He
+* CARL HAGLUND HAGLUND - columbia modern living
+* Colton Robinson
 
-### 0 ❓ - Other
+### 2 ❓ - Other

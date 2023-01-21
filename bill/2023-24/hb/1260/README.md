@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 19 👍 - Pro
+#### Testifying
+* Dan Wise - 8335 9th Ave nw
 
 ### 0 👎 - Con
 

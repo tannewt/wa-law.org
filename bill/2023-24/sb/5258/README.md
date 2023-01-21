@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
 * Councilwoman Betsy Wilkerson - City of Spokane
+* Alex Hur - Master Builders Association of King and Snohomish Counties
+* Andrew Rolwes - Downtown Spokane Partnership
 
 ### 0 👎 - Con
 

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 23 👍 - Pro
+### 36 👍 - Pro
 #### Testifying
 * Timothy Grisham - Washington Association of County Officals
 * Lisa Henderson - Washington Association of County Clerks

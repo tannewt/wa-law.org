@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Fred Yancey - Washington State School Retirees’ Assn. 
 
 ### 0 👎 - Con
 

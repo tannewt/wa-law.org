@@ -7,14 +7,19 @@
 * [Original Bill](1/)
 
 ## Positions
-### 226 👍 - Pro
+### 261 👍 - Pro
 #### Testifying
 * Martin Gibbins - League of Women Voters of WA
 * Martin Gibbins - League of Women Voters of WA
 * Joe Crumbley - CORA
 * Melissa Spear  - Tilth Alliance 
+* Jennifer Hennessey - Washington State Department of Ecology
+* Rad Cunningham - Washington State Department of Health
+* Jim Baumgart
+* Crystal Raymond - University of Washington, Climate Impacts Group
+* Jim Baumgart - Washington Military Department
 
-### 2 👎 - Con
+### 9 👎 - Con
 #### Testifying
 * john Worthington
 * john Worthington - AAMC

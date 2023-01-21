@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 10 👍 - Pro
+#### Testifying
+* Jenn  Hansen
 
 ### 0 👎 - Con
 

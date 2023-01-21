@@ -9,6 +9,8 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Kary Krismer
 
 ### 0 ❓ - Other

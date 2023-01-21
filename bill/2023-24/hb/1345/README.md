@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Lisa Flynn - Washington State Department of Corrections
+* Kristi Knudsen - Washington State Department of Corrections
 
 ### 0 👎 - Con
 

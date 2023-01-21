@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * MD, Mark Zeitzer - Chief Medical Officer, ZoomCare
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* Sean Graham - WA State Medical Assn

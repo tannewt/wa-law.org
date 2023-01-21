@@ -7,12 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 30 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 * Dan Bertolet - Sightline Institute
 * Will Sorenson
+* Troy Schmeil - Sapphire Homes Inc.
+* Samar Jha - AARP
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

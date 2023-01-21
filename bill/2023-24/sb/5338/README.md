@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 55 👍 - Pro
+### 78 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
 * Michelle Pearl
@@ -17,6 +17,7 @@
 * Andrea Hu
 * Stephanie Simpson - Bleeding Disorder Foundation of Washington
 * Jill Bujnevicie 
+* Alex Wehinger - WA State Medical Association (WSMA)
 
 ### 0 👎 - Con
 

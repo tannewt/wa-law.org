@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* John  Conaty
+* Niles McDonald
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Laquesha Turner
 
 ### 0 ❓ - Other

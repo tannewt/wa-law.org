@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 27 👍 - Pro
+### 37 👍 - Pro
 #### Testifying
 * Ian Goodhew - UW Medicine 
 * Matt Helder - ACS CAN

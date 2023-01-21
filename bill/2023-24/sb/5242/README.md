@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 11 👍 - Pro
+### 78 👍 - Pro
+#### Testifying
+* Jody Disney - LWVWA
+* Lee Che  Leong - Northwest Health Law Advocates (NoHLA)
 
 ### 0 👎 - Con
 

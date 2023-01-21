@@ -7,10 +7,20 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 41 👍 - Pro
+#### Testifying
+* Ruth Sawyer - Sierra Club
+* Andrea Scott-Murray
+* Rory Paine-Donovan - Attorney General's Office
+* Lisa Gafken - Attorney General's Office
+* Claire Richards - Washington Physicians for Social Responsibility
+* Charlee Thompson - NW Energy Coalition
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 4 ❓ - Other
 #### Testifying
 * Joren Clowers - Washington Association of Sewer & Water Districts
+* Mendy Droke - Seattle City Light
+* Logan Bahr - Tacoma Power
+* Ryan Collins - Snohomish PUD

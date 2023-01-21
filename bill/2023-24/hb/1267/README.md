@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * Kate Dean - Jefferson County 
 * Mike Hoover - Washington State Association of Counties
+* Jerome Delvin - Benton County
+* Lisa Janicki - Skagit County
 
 ### 0 👎 - Con
 

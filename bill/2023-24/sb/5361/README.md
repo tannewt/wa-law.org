@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 13 👍 - Pro
+#### Testifying
+* Laurie Layne
+* Brian Smith - Port Angeles Police Department
+* Kate Dexter - City Council, City of Port Angeles
+* Andrew Rolwes - Downtown Spokane Partnership 
 
-### 4 👎 - Con
+### 11 👎 - Con
 
 ### 0 ❓ - Other

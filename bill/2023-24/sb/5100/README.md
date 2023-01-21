@@ -7,10 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
 * Kimberly Bowles - Not Putting on a Shirt
+* Heather MacMillan
 
 ### 0 👎 - Con
 
-### 1 ❓ - Other
+### 3 ❓ - Other
+#### Testifying
+* Jennifer Ziegler - Association of Washington Health Care Plans
+* Alex Wehinger - WA State Medical Association (WSMA)

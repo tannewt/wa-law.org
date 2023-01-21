@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 10 👍 - Pro
+### 175 👍 - Pro
+#### Testifying
+* Barbara Geiger
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

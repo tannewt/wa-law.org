@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* K.D. Chapman-See - Office of Financial Management
+* Marcus Ehrlander - Office of Financial Management
 
-### 0 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* Alan Burke - WSSRA
 
 ### 0 ❓ - Other
