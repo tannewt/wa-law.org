@@ -1,0 +1,1 @@
+# Yakima Valley Landlords Association
