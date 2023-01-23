@@ -9,19 +9,19 @@
 ## Positions
 ### 208 👍 - Pro
 #### Testifying
-* Guillermo Rogel - Front and Centered
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Carrie Sessions - Governor's Office
 * Amber Martin-Jahn - Serve Washington /Office of Financial Management
 * Nova Gattman - Workforce Board
-* Larry Brown - Co-Chair, Workforce Board
+* 💵Larry Brown - Co-Chair, Workforce Board
 * Brian Considine - Washington State Department of Natural Resources
-* Paul Williams - The Suquamish Tribe
-* Joshua Rubenstein - The Nature Conservancy
-* Tom Davis - Washington Forest Protection Association
+* 💵Paul Williams - The Suquamish Tribe
+* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Jonathan Holcombe
-* Erin Frasier - Washington State Building & Construction Trades Council
-* Heather Kurtenbach - Ironworkers L 86
-* Maud Daudon - Career Connect Washington
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Heather Kurtenbach - Ironworkers L 86
+* 💵Maud Daudon - Career Connect Washington
 * Bridget Talebi - WA State Department of Ecology
 
 ### 10 👎 - Con

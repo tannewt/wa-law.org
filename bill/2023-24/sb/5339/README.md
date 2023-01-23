@@ -7,14 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 206 👍 - Pro
+### 447 👍 - Pro
 #### Testifying
-* Michael Moran - Confederated Tribes of the Colville Reservation
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * Nikki Lockwood - Washington State School Directors' Association (WSSDA)
 * Andrea Davis - Coordinated Care
+* 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
+* Ben Mitchell - Foundation for Tacoma Students
+* Roni Cook - [Washington Education Association](/org/washington_education_association/)
 
-### 120 👎 - Con
+### 328 👎 - Con
 #### Testifying
 * Jason Perrins - Chewelah SD
 

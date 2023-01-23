@@ -9,7 +9,7 @@
 ## Positions
 ### 2 👍 - Pro
 #### Testifying
-* Brian Hatfield - Office of Secretary of State
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 ### 8 👎 - Con
 

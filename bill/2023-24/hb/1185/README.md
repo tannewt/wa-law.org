@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 90 👍 - Pro
+### 131 👍 - Pro
 
-### 1 👎 - Con
+### 4 👎 - Con
+#### Testifying
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Charlie Brown - National Electrical Manufacturers Association
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### 0 ❓ - Other

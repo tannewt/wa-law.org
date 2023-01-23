@@ -17,7 +17,7 @@
 ### 6 ❓ - Other
 #### Testifying
 * Angel Cruzado - -
-* Stephen Hicks - National Parents Organization 
-* Stephen Hicks - National Parents Organization 
-* Stephen Hicks - National Parents Organization 
+* Stephen Hicks - National Parents Organization
+* Stephen Hicks - National Parents Organization
+* Stephen Hicks - National Parents Organization
 * Predrag Tosic

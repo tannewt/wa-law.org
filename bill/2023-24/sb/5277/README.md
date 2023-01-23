@@ -7,9 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 9 👍 - Pro
 #### Testifying
-* Craig Smith - Food Northwest
+* Craig Smith - [Food Northwest](/org/food_northwest/)
+* Beau Hickman - Figgins Family Wine Estates
+* Josh  McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Ryan Pennington - Ste Michelle Wine Estates
 
 ### 0 👎 - Con
 

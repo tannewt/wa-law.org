@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-### 2 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 ### 0 ❓ - Other

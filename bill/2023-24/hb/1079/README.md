@@ -16,6 +16,6 @@
 
 ### 4 👎 - Con
 #### Testifying
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 0 ❓ - Other

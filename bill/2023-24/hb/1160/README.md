@@ -11,6 +11,6 @@
 
 ### 1 👎 - Con
 #### Testifying
-* Jason Schwarz - Washington Defender Association
+* Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 
 ### 0 ❓ - Other

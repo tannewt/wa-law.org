@@ -12,19 +12,19 @@
 * Steve Segall - Thurston-Lewis-Mason Central Labor Council
 * Efrem Fesaha
 * Jennifer Bereskin 
-* Gabriela Quintana - Economi Opportunity Institute
+* 💵Gabriela Quintana - Economi Opportunity Institute
 * Arlen Harris - State Board for Community & Technical Colleges
 * Baydaa Alshatee - Everett Community College
-* Mike Pellicciotti  - State Treasurer 
+* Mike Pellicciotti  - State Treasurer
 * David Radcliffe - Institute on Race, Power and Political Economy
 * Jennifer Black - President, Sumner-Bonney Lake Education Association
-* Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
-* Tracy Yeung - Washington State Budget and Policy Center
+* 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
+* 💵Tracy Yeung - Washington State Budget and Policy Center
 * Karim Lessard
-* Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 * Alejandra Montoya-Boyer - Prosperity Now
-* Paula Sardinas - FMSGS / WBBA
-* Kristin Ang - Faith Action Network
+* 💵Paula Sardinas - FMSGS / WBBA
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 
 ### 76 👎 - Con
 #### Testifying

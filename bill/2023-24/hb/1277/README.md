@@ -9,10 +9,10 @@
 ## Positions
 ### 12 👍 - Pro
 #### Testifying
-* Zackary Turner - PESB
+* 💵Zackary Turner - PESB
 * Dawna Hansen-Murray
 * Erica Hernandez-Scott - PESB
-* Nasue Nishida - Washington Education Association
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 ### 0 👎 - Con
 

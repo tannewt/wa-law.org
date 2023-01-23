@@ -7,7 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 104 👍 - Pro
+### 145 👍 - Pro
+#### Testifying
+* David Blandford - State of Washington Tourism
+* Becky Bogard - State of Washington Tourism
+* Megan  Ching - Seattle Center Monorail
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 ### 0 👎 - Con
 

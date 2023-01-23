@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 5 👍 - Pro
+#### Testifying
+* Jeff DeVere - Washington Trucking Associations
 
 ### 0 👎 - Con
 

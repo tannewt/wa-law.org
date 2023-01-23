@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 7 👍 - Pro
 #### Testifying
-* Samuel Martin - The Mockingbird Society
+* 💵Samuel Martin - The Mockingbird Society
 
 ### 0 👎 - Con
 

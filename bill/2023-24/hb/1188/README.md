@@ -14,13 +14,13 @@
 * Sydney Doherty - Coordinated Care
 * Katie Biron - Amara
 * Nicole Mazen - Amara
-* Diana Stadden - The Arc of WA State
-* Ramona Hattendorf - The Arc of King County
-* Daniel Lugo - Treehouse
+* 💵Diana Stadden - The Arc of WA State
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Daniel Lugo - [Treehouse](/org/treehouse/)
 * Debbie Roberts - DSHS Developmental Disabilities Administration
 
 ### 0 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying
-* Allison Krutsinger - Dept of Children, Youth, and Families
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families

@@ -7,11 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 78 👍 - Pro
+### 177 👍 - Pro
 #### Testifying
 * Jody Disney - LWVWA
 * Lee Che  Leong - Northwest Health Law Advocates (NoHLA)
+* Jane Beyer - Office of the Insurance Commissioner
 
-### 0 👎 - Con
+### 156 👎 - Con
+#### Testifying
+* Julie Barrett - Conservative Ladies of Washington
 
 ### 0 ❓ - Other

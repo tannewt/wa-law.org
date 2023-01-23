@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 35 👍 - Pro
+### 231 👍 - Pro
+#### Testifying
+* April Putney - [King County](/org/king_county/)
+* Jody Disney - LWVWA
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 0 ❓ - Other

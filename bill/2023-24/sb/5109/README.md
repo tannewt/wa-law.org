@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 53 👍 - Pro
+### 98 👍 - Pro
 
-### 1 👎 - Con
+### 4 👎 - Con
 #### Testifying
 * Jeff Pack - Me
 

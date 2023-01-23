@@ -10,7 +10,7 @@
 ### 4 👍 - Pro
 #### Testifying
 * Elizabeth Crutsinger-Perry - Washington State Department of Health
-* Katherine Mahoney - Virginia Mason Franciscan Health
+* 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
 
 ### 0 👎 - Con
 

@@ -10,9 +10,9 @@
 ### 15 👍 - Pro
 #### Testifying
 * Randy  Johnson - Clallam County Board of Commissioners
-* Carolina Mejia - Thurston County
-* Robin Campbell - Thurston County
-* Juliana Roe - Washington State Association of Counties
+* Carolina Mejia - [Thurston County](/org/thurston_county/)
+* Robin Campbell - [Thurston County](/org/thurston_county/)
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### 0 👎 - Con
 

@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 65 👍 - Pro
+### 116 👍 - Pro
+#### Testifying
+* Nat Dean - Us for Autonomy
 
-### 6 👎 - Con
+### 10 👎 - Con
 #### Testifying
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * Rebecca Faust

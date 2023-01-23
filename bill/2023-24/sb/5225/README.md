@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 8 👍 - Pro
 #### Testifying
 * Colleen Condon - Lilac City ELC
 

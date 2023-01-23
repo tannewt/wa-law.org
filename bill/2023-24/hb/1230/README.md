@@ -7,12 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
 #### Testifying
 * Dr. Gwen Loosmore - Washington State PTA
 
-### 0 👎 - Con
+### 6 👎 - Con
 
-### 2 ❓ - Other
+### 11 ❓ - Other
 #### Testifying
 * Cory Malon - WA Civil Rights Organization
+* Alex  Brown
+* Sandra Munden
+* Ronald Smith

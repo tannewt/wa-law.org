@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 26 👍 - Pro
+### 51 👍 - Pro
 #### Testifying
 * Markus Virta - WASEIA
 * KRISTY ROYCE - Sun Path Electric

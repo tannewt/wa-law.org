@@ -7,12 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
 * Tammie Perreault - Department of Defense
 * Krestin Bahr - Peninsula School District
 * Brendan  Macini - Peninsula School District
-* Natalie Wimberley  - Peninsula School District 
+* Natalie Wimberley  - Peninsula School District
 
 ### 0 👎 - Con
 

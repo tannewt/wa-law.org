@@ -11,10 +11,10 @@
 #### Testifying
 * Laura  Fernando - SEIU 925 child care provider
 * Laura Pavlov
-* Erin Haick - SEIU 925
+* 💵Erin Haick - SEIU 925
 
 ### 0 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying
-* Krystelle Purkey - Washington State Chapter of Community Association Institute 
+* 💵Krystelle Purkey - Washington State Chapter of Community Association Institute

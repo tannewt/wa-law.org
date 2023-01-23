@@ -13,7 +13,7 @@
 * Valerie Balch
 * Andrea Hikoe
 * Brittany  Horrocks
-* Adam Zarrin - Leukemia & Lymphoma Society
+* 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * Chalia Stallings-Ala'ilima - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * Katie Garcia
 * Sara Cassidey - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
@@ -25,14 +25,14 @@
 * Kaycee Oatman
 * Heather  Villanueva
 * Callagee O'Brien - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
-* Alexis Oliver
+* 💵Alexis Oliver
 * Katherine  Tarlock
 * Amanda  Ary
 
 ### 40 👎 - Con
 #### Testifying
 * Jennifer Friesen - Them Before Us
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
 * Ángel Alvarado - Respect Life Ministry

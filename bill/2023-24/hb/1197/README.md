@@ -18,5 +18,5 @@
 
 ### 5 ❓ - Other
 #### Testifying
-* Patrick Connor - NFIB
-* Bob Cooper - National Association of Social Workers WA Chapter
+* 💵Patrick Connor - NFIB
+* 💵Bob Cooper - National Association of Social Workers WA Chapter

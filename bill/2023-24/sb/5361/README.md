@@ -7,13 +7,20 @@
 * [Original Bill](1/)
 
 ## Positions
-### 13 👍 - Pro
+### 29 👍 - Pro
 #### Testifying
 * Laurie Layne
 * Brian Smith - Port Angeles Police Department
 * Kate Dexter - City Council, City of Port Angeles
-* Andrew Rolwes - Downtown Spokane Partnership 
+* Andrew Rolwes - Downtown Spokane Partnership
+* Sean Swope - County Commissioner
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-### 11 👎 - Con
+### 147 👎 - Con
+#### Testifying
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
 ### 0 ❓ - Other

@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* 💵Jean Leonard - State Farm Insurance, Nationwide Insurance and WA Insurers
 
 ### 0 👎 - Con
 

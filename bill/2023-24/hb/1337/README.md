@@ -7,14 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 30 👍 - Pro
+### 208 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
-* Dan Bertolet - Sightline Institute
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Will Sorenson
 * Troy Schmeil - Sapphire Homes Inc.
 * Samar Jha - AARP
+* Scott Bonjukian
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-### 2 👎 - Con
+### 5 👎 - Con
+#### Testifying
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### 0 ❓ - Other

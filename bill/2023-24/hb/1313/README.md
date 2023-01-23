@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 13 👍 - Pro
+#### Testifying
+* NOEL Andrews
 
 ### 0 👎 - Con
 

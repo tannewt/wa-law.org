@@ -10,7 +10,7 @@
 ### 4 👍 - Pro
 #### Testifying
 * Michael Walker - Office of the Insurance Commissioner
-* John Mangan - American Council of Life Insurers
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 * Alex Collins - NAIFA - National Association of Insurance and Financial Advisors
 
 ### 0 👎 - Con

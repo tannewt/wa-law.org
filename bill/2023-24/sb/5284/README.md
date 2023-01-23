@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 8 👍 - Pro
+#### Testifying
+* Cindy Madigan - League of Women Voters of Washington
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* 💵Conner Edwards - Campaign Treasurer
 
 ### 0 ❓ - Other

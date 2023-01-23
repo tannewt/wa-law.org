@@ -11,7 +11,7 @@
 #### Testifying
 * Jason Mercier - Washington Policy Center
 * Aaron Lang
-* Matt Zuvich - Washington State Treasurer
+* 💵Matt Zuvich - Washington State Treasurer
 
 ### 0 👎 - Con
 

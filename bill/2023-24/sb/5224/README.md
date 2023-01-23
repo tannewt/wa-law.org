@@ -16,6 +16,6 @@
 ### 5 ❓ - Other
 #### Testifying
 * Tedd Kelleher - Department of Commerce
-* Juliana Roe - Washington State Association of Counties
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Arthur West
-* Michele Thomas - Washington Low Income Housing Alliance
+* 💵Michele Thomas - Washington Low Income Housing Alliance

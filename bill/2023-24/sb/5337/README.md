@@ -15,4 +15,4 @@
 
 ### 1 ❓ - Other
 #### Testifying
-* Edmund Witter - King County Bar Association
+* 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)

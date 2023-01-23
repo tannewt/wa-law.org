@@ -9,17 +9,17 @@
 ## Positions
 ### 182 👍 - Pro
 #### Testifying
-* ROSE GUNDERSEN - Washington Retail Association
-* ROSE GUNDERSEN - Washington Retail Association
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Kyle Moore - City of SeaTac
 * Leah White - Washington State Women's Commission
-* Paula Sardinas - FMSGS / WBBA
-* Mar Brettmann - Businesses Ending Slavery & Trafficking 
+* 💵Paula Sardinas - FMSGS / WBBA
+* Mar Brettmann - Businesses Ending Slavery & Trafficking
 * Kyra Abrahamson - Washington Trafficking Prevention
 * Mary  Williams - REST
 * Marissa Perez - Yarrow Project
 * Jeri Moomaw - Innovations HTC
-* Tricia MacFarlan - Mirror Ministries 
+* Tricia MacFarlan - Mirror Ministries
 * Robin  Miller - Janus Youth
 * Leah White - Washington State Women's Commission
 

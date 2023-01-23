@@ -19,4 +19,4 @@
 ### 2 ❓ - Other
 #### Testifying
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs

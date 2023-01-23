@@ -9,7 +9,7 @@
 ## Positions
 ### 5 👍 - Pro
 #### Testifying
-* Brad Boswell - Seattle Kraken/Climate Pledge Arena
+* 💵Brad Boswell - Seattle Kraken/Climate Pledge Arena
 * Eric Jaeger - Climate Pledge Arena, SVP of Finance
 * Hewan Teshome
 * Eric Pettigrew - Seattle Kraken, VP of Gov Relations and Outreach
@@ -18,4 +18,4 @@
 
 ### 1 ❓ - Other
 #### Testifying
-* Briahna Murray - City of Tacoma
+* 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)

@@ -11,7 +11,7 @@
 
 ### 12 👎 - Con
 #### Testifying
-* Ashley Little - Coalition Against Graham and Eatonville-Roy Airport 
+* Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
 * Ursula Euler
 * Bennett Butters
 * Timothy OBrien

@@ -9,6 +9,8 @@
 ## Positions
 ### 3 👍 - Pro
 
-### 0 👎 - Con
+### 2 👎 - Con
+#### Testifying
+* Brad Tower - Community Bankers of WA
 
 ### 0 ❓ - Other

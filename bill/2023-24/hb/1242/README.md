@@ -10,7 +10,7 @@
 ### 7 👍 - Pro
 #### Testifying
 * Marc Stern
-* Jared Mason-Gere - Washington Education Association
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 ### 1 👎 - Con
 #### Testifying
@@ -18,5 +18,5 @@
 
 ### 2 ❓ - Other
 #### Testifying
-* Diana Stadden - The Arc of WA State
+* 💵Diana Stadden - The Arc of WA State
 * Katie Kolan - Washington State Hospital Association (WSHA)

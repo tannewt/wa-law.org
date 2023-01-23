@@ -9,7 +9,7 @@
 ## Positions
 ### 3 👍 - Pro
 #### Testifying
-* Nasue Nishida - Washington Education Association
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Rob Shadle
 
 ### 1 👎 - Con

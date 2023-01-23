@@ -11,9 +11,9 @@
 #### Testifying
 * Shelly Burt
 * Luckisha Phillips - Washington State School Directors' Association (WSSDA)
-* Mikhail Cherniske - Office of Superintendent of Public Instruction 
-* Julie Salvi - Washington Education Association
-* Danna Summers - ESIT DSYF Council Member Parent 
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Danna Summers - ESIT DSYF Council Member Parent
 * Tanya Aggar - Washington State PTA
 
 ### 0 👎 - Con

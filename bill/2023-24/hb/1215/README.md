@@ -11,17 +11,17 @@
 #### Testifying
 * Sherri Dysart - League of Women Voters of Washington
 * Margen Carlson - WDFW
-* Brynn Brady - WA Association of Counties
-* Samantha Bruegger - WA Wildlife First
+* 💵Brynn Brady - WA Association of Counties
+* 💵Samantha Bruegger - WA Wildlife First
 * Chairman W. Ron Allen - Jamestown S'Klallam Tribe
 * Ruth Musgrave - Office of the Governor
-* Darcy Nonemacher - Washington Conservation Action
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 * Kate Dean - Jefferson County Commissioner and Puget Sound Leadership Council
-* Liz Hamilton - Northwest Sportfishing Industry Association
+* Liz Hamilton - [Northwest Sportfishing Industry Association](/org/northwest_sportfishing_industry_association/)
 * Wes McCart - Stevens County Commissioners
 * Lorna Smith
 * Erik Neatherlin - Recreation Conservation Office--Governor's Salmon Recovery Office
-* Justin Allegro - The Nature Conservancy in Washington
+* 💵Justin Allegro - The Nature Conservancy in Washington
 
 ### 285 👎 - Con
 #### Testifying
@@ -30,23 +30,23 @@
 * cathy Gemkow
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
 * Jason Vander Kooy - Harmony Dairy
-* Dan Wood - WA State Dairy Federation
+* 💵Dan Wood - WA State Dairy Federation
 * John Roozen - Washington Bulb Co Inc
-* Diana Carlen - Washington Association of Wheat Growers & Washington Potato & Onion Association
-* Mark Streuli - Washington Potato and Onion Association & Washington Cattlemen's Association
+* 💵Diana Carlen - Washington Association of Wheat Growers & Washington Potato & Onion Association
+* 💵Mark Streuli - Washington Potato and Onion Association & Washington Cattlemen's Association
 * Brandon  Roozen - Western Washington Agricultural Association
 
 ### 20 ❓ - Other
 #### Testifying
-* Tom Salzer - Washington Association of Conservation Districts
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
 * Pam Lewison - Ag Research Director, Washington Policy Center
 * Kelly McLain - Washington State Department of Agriculture
 * Christopher Pettit - WA State Conservation Commission
-* Ron Wesen - Skagit County
+* Ron Wesen - [Skagit County](/org/skagit_county/)
 * Jon DeVaney - Washington State Tree Fruit Association
-* Mike  Ennis - Association of Washington Business
+* Mike  Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * Roylene Comes At Night - USDA Natural Resource Conservation Service (NRCS)
-* Peter Dykstra
+* 💵Peter Dykstra
 * Michael Tobin - North Yakima Conservation District, Manager
 * Rosella Mosby - Washington Farm Bureau
 * David Herrera - Northwest Indian Fisheries Commission

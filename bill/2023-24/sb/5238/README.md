@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 51 👍 - Pro
+### 133 👍 - Pro
+#### Testifying
+* 💵Emily Myers - UAW 4121
+* Fern Roush
+* Karna Ringham - WAWU
+* Rae Dodson
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 0 ❓ - Other

@@ -13,5 +13,5 @@
 
 ### 3 ❓ - Other
 #### Testifying
-* Jean Leonard - WA Insurers, Nationwide Insurance, and State Farm Insurance
-* Kenton Brine - NW Insurance Council
+* 💵Jean Leonard - WA Insurers, Nationwide Insurance, and State Farm Insurance
+* 💵Kenton Brine - NW Insurance Council

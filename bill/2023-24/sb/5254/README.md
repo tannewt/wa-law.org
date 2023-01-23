@@ -7,13 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 20 👍 - Pro
+### 30 👍 - Pro
 #### Testifying
 * Heath Curtiss - Hampton Lumber
 * Thomas Lannen - County Government
+* 💵Heath Heikkila - American Forest Resource Council
+* James McEntire
+* Dave Arbaugh - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
+* Connie Beauvais - [Port of Port Angeles](/org/port_of_port_angeles/)
 
 ### 1 👎 - Con
 #### Testifying
 * Brian Considine - Washington Department of Natural Resources
 
-### 0 ❓ - Other
+### 1 ❓ - Other

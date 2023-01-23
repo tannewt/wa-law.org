@@ -11,7 +11,7 @@
 #### Testifying
 * Judy Wallace
 * Karyn Brownson
-* Jordan Waits
+* 💵Jordan Waits
 * Barbara Serrano - Office of the Governor
 * Tahana Salvadalena
 * Dr. Cassandra Crifasi - Johns Hopkins School of Public Health
@@ -22,9 +22,9 @@
 * Matt Vadnal
 * Kristen Ellingboe
 * Chelsey Wright
-* Tremayne Edwards
+* 💵Tremayne Edwards
 * Sean Kent
-* Hazel Brown
+* 💵Hazel Brown
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk
@@ -49,7 +49,7 @@
 * Benjamin Quintana
 * Norma Peters
 * Micah Zeitz-Chua
-* Aoibheann Cline - National Rifle Association
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Jane Milhans
 * Bea Christopherson
 * Danna Baxter - Safe Fire Range and Training

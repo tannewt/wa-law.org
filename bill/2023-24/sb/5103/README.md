@@ -9,14 +9,14 @@
 ## Positions
 ### 26 👍 - Pro
 #### Testifying
-* Zosia Stanley - Washington State Hospital Association
+* 💵Zosia Stanley - Washington State Hospital Association
 * Sommer Kleweno-Walley  - University of Washington Harborview Medical Center
 * June Altaras - MultiCare Health System
 * Jody Disney - LWVWA
 
 ### 3 👎 - Con
 #### Testifying
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 1 ❓ - Other
 #### Testifying

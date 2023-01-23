@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 #### Testifying
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 
 ### 0 👎 - Con
 

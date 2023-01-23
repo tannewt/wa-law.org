@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 9 👍 - Pro
+#### Testifying
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association
 
 ### 0 👎 - Con
 

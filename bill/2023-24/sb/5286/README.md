@@ -10,8 +10,8 @@
 ## Positions
 ### 68 👍 - Pro
 #### Testifying
-* Robert Battles - Association of Washington Business (AWB)
-* Joe  Kendo - Washington State Labor Council 
+* 💵Robert Battles - Association of Washington Business (AWB)
+* Joe  Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
 
 ### 1 👎 - Con
 

@@ -9,7 +9,7 @@
 ## Positions
 ### 215 👍 - Pro
 #### Testifying
-* Amy Carey - Sound Action
+* Amy Carey - [Sound Action](/org/sound_action/)
 * Tim Gates - WA Department of Ecology
 * Don Gourlie - Puget Sound Partnership
 

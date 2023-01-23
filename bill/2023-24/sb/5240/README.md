@@ -10,7 +10,7 @@
 ### 16 👍 - Pro
 #### Testifying
 * Joshua  Sundt - Office of Administrative Hearings
-* Caitlyn Jekel - Employment Security Department 
+* Caitlyn Jekel - Employment Security Department
 
 ### 0 👎 - Con
 

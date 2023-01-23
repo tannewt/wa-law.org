@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 * Carol Rikerd

@@ -9,16 +9,16 @@
 ## Positions
 ### 15 👍 - Pro
 #### Testifying
-* Brad Banks - Behavioral Health Administrative Services Organizations
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
 * Bradley  Tarr
-* Anna Nepomuceno - NAMI WA
-* Michael White - King County
+* 💵Anna Nepomuceno - NAMI WA
+* 💵Michael White - [King County](/org/king_county/)
 
 ### 5 👎 - Con
 #### Testifying
 * Kari Reardon - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Nathan Bays - King County Department of Public Defense
-* Kimberly Mosolf - Disability Rights Washington
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Steven Pearce - Citizens Commission on Human Rights
 
 ### 0 ❓ - Other

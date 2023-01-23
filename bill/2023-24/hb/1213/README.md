@@ -9,12 +9,12 @@
 ## Positions
 ### 2 👍 - Pro
 #### Testifying
-* Brent Ludeman - Household & Commercial Products Association
+* 💵Brent Ludeman - Household & Commercial Products Association
 * Kelly McLain - Washington State Department of Agriculture
 
 ### 1 👎 - Con
 #### Testifying
-* Heather Trim - Zero Waste Washington
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 ### 1 ❓ - Other
 #### Testifying

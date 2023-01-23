@@ -9,8 +9,8 @@
 ## Positions
 ### 2 👍 - Pro
 #### Testifying
-* Steve Hobbs - Office of Secretary of State
-* Steve Hobbs - Office of Secretary of State
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 ### 0 👎 - Con
 

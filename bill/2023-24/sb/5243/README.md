@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* 💵Jayme Shoun - Washington STEM
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Andy Cilley - Parents
 
 ### 0 ❓ - Other

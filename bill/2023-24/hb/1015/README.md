@@ -10,12 +10,12 @@
 ### 24 👍 - Pro
 #### Testifying
 * Jim Kowalkowski - Rural Education Center
-* Zackary Turner - PESB
+* 💵Zackary Turner - PESB
 * Lyon Terry
 * Mandy Jessee
 * Lyon Terry
 * Rick Chisa - Public School Employees of Washington (PSE)
-* Nasue Nishida - Washington Education Association
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 ### 0 👎 - Con
 

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
 * Kristiana de Leon - Association of Secular Elected Officials
 * Larry  Shannon - Washington State Association for Justice

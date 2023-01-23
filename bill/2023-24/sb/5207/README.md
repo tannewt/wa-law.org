@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 2 👍 - Pro
+#### Testifying
+* Cindy Madigan - League of Women Voters of Washington
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 
 ### 0 👎 - Con
 

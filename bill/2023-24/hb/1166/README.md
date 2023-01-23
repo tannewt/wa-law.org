@@ -9,12 +9,12 @@
 ## Positions
 ### 14 👍 - Pro
 #### Testifying
-* Isaac Kastama - Clean & Prosperous Washington
+* 💵Isaac Kastama - Clean & Prosperous Washington
 * Jay Gordon - Washington Dairy Federation
 
 ### 3 👎 - Con
 
 ### 2 ❓ - Other
 #### Testifying
-* Vincent  McGowan - Washington Department of Ecology 
+* Vincent  McGowan - Washington Department of Ecology
 * Don Gourlie - Puget Sound Partnership

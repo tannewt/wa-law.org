@@ -9,10 +9,10 @@
 ## Positions
 ### 34 👍 - Pro
 #### Testifying
-* Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * Ann Murphy - League of Women Voters of Washington
-* Heather Trim - Zero Waste Washington
-* Jeff Gombosky - Renewable Northwest
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Jeff Gombosky - [Renewable Northwest](/org/renewable_northwest/)
 * James Colombo - Interim Director, WSU Energy Program
 
 ### 0 👎 - Con

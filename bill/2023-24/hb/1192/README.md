@@ -14,18 +14,18 @@
 * Ann Rendahl - Utilities and Transportation Commission
 * Glenn Blackmon - Department of Commerce
 * Debra Smith - Seattle City Light
-* Logan Bahr - Tacoma Public Utilities
-* Justin Allegro - The Nature Conservancy
-* Cassie Bordelon
-* Amy Wheeless
+* 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Cassie Bordelon
+* 💵Amy Wheeless
 
 ### 1 👎 - Con
 
 ### 8 ❓ - Other
 #### Testifying
-* John Rothlin - Avista
-* Jay Balasbas - PacifiCorp
-* Spencer Gray - Northwest & Intermountain Power Producers Coalition
-* John Rothlin - Avista
-* Nicolas Garcia - WPUDA
-* Peter  Godlewski  - Association of Washington Business 
+* 💵John Rothlin - Avista
+* 💵Jay Balasbas - PacifiCorp
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
+* 💵John Rothlin - Avista
+* 💵Nicolas Garcia - WPUDA
+* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)

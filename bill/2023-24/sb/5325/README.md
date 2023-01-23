@@ -9,16 +9,16 @@
 ## Positions
 ### 19 👍 - Pro
 #### Testifying
-* Seth Worley - Plumbers and Steamfitters UA Local 598
-* Alexandra Mather - Pierce Transit
-* Michelle Detwiler - Renewable Hydrogen Alliance
-* Dave Warren - Twin Transit and WA Green Hydrogen Alliance
-* Hanna Jones - Pierce Transit
+* 💵Seth Worley - Plumbers and Steamfitters UA Local 598
+* Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
+* Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
+* 💵Dave Warren - Twin Transit and WA Green Hydrogen Alliance
+* 💵Hanna Jones - [Pierce Transit](/org/pierce_transit/)
 * Martin Gibbins - League of Women Voters of WA
-* John Clauson - Kitsap Transit
+* John Clauson - [Kitsap Transit](/org/kitsap_transit/)
 
 ### 1 👎 - Con
 #### Testifying
-* Mike Ennis - Association of Washington Business
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### 0 ❓ - Other

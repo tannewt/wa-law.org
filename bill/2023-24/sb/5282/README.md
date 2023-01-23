@@ -9,7 +9,7 @@
 ## Positions
 ### 2 👍 - Pro
 #### Testifying
-* Scott Hazlegrove
+* 💵Scott Hazlegrove
 
 ### 0 👎 - Con
 

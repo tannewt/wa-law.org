@@ -12,10 +12,10 @@
 * Tammie Perreault
 * Coryn Davis
 * Tom Davis - Veterans Legislative Coalition (VLC)
-* Martha Patterson - Central Kitsap Education Association/ Washington Education Association. 
+* Martha Patterson - Central Kitsap Education Association/ Washington Education Association.
 * Anna Hernandez-French - OSPI
 * Adam Diersing - The Council of State Governments
-* Shelly Helder
+* 💵Shelly Helder
 
 ### 0 👎 - Con
 
@@ -23,5 +23,5 @@
 #### Testifying
 * Dan Logsdon - The Council of State Governments
 * Jimmy Adams - National Association of State Directors of Teacher Education and Certification (NASDTEC)
-* Bob Cooper - WA Association of Colleges for Teacher Education 
-* Zackary Turner - PESB
+* 💵Bob Cooper - WA Association of Colleges for Teacher Education
+* 💵Zackary Turner - PESB

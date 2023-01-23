@@ -9,7 +9,7 @@
 ## Positions
 ### 9 👍 - Pro
 #### Testifying
-* Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 * Karl Robinson - Robinson Group, Inc.
 * Karl Robinson - Robinson Insurance Group
 * Karl Robinson - Robinson Insurance Group

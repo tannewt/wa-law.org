@@ -10,7 +10,7 @@
 ## Positions
 ### 25 👍 - Pro
 #### Testifying
-* Aaron Czyzewski - Food Lifeline
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
 ### 0 👎 - Con
 

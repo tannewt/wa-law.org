@@ -9,7 +9,7 @@
 ## Positions
 ### 25 👍 - Pro
 #### Testifying
-* Leah Missik - Climate Solutions
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
 ### 1 👎 - Con
 #### Testifying
@@ -22,13 +22,13 @@
 * Ben Wick - Mayor, Spokane Valley; Board Member, Freight Mobility Strategic Investment Board
 * Matthew Ewers  - VP IEDS Logistics; Board member, Freight Mobility Strategic Investment Boar
 * john Worthington
-* Mike  Ennis - Association of Washington Business
-* Sheri  Call - Washington Trucking Associaitons 
-* Axel Swanson - Washington State Association of County Engineers
+* Mike  Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Sheri  Call - Washington Trucking Associaitons
+* 💵Axel Swanson - Washington State Association of County Engineers
 * john worthington - AAMC
-* Anne  McEnerny-Ogle - Association of Washington Cities 
-* Herb Krohn - SMART Transp. Division/United Transportation Union
+* Anne  McEnerny-Ogle - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Herb Krohn - SMART Transp. Division/United Transportation Union
 * Licett Garbe - Greater Spokane Valley Chamber of Commerce
-* Chris Herman - Washington Public Ports Association
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * John McCarthy - Freight Mobility Strategic Investment Board
-* Gordon Baxter - International Longshore and Warehouse Union
+* 💵Gordon Baxter - International Longshore and Warehouse Union

@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 39 👍 - Pro
+#### Testifying
+* Peggy Shepard
 
-### 567 👎 - Con
+### 827 👎 - Con
 #### Testifying
 * Laurie Layne
 

@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 3 👍 - Pro
 #### Testifying
-* Scott Hazlegrove - WA State Auto Dealers Association
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Travis Graddon - Roger Jobs Automotive
 
 ### 0 👎 - Con

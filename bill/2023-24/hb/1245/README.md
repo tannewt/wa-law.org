@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 25 👍 - Pro
+### 45 👍 - Pro
+#### Testifying
+* Sol Villarreal
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 ### 1 👎 - Con
 

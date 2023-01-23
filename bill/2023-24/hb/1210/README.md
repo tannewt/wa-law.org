@@ -18,4 +18,4 @@
 
 ### 1 ❓ - Other
 #### Testifying
-* Rob Roettger - Eastern WA Quality Schools Coalition 
+* Rob Roettger - Eastern WA Quality Schools Coalition

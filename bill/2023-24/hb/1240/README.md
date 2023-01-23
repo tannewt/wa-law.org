@@ -10,7 +10,7 @@
 ### 1035 👍 - Pro
 #### Testifying
 * Kristin Beneski - WA State Attorney General's Office
-* Albert Sardinas - FMSGS / WBBA
+* 💵Albert Sardinas - FMSGS / WBBA
 * Ann-Marie Parsons
 * Robert Schentrup
 * Barbara Serrano - Office of the Governor
@@ -18,7 +18,7 @@
 * Ami Strahan
 * Dr. Mike Van Dyke
 * Emily Cantrell
-* Margy Heldring - Grandmothers Against Gun Violence
+* Margy Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
 * Erin Senge
 * Jane Weiss
 * Kim Monroe
@@ -28,9 +28,9 @@
 * BRIAN GRAD
 * Kristen Ellingboe
 * Chelsey Wright
-* Tremayne Edwards
+* 💵Tremayne Edwards
 * Sean Kent
-* Hazel Brown
+* 💵Hazel Brown
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk
@@ -56,15 +56,15 @@
 * Michael McKinley
 * Will Smoot
 * Dustin Adams
-* Chris Giles - 14015 ne 40th st. 
+* Chris Giles - 14015 ne 40th st.
 * Michael Zeller
 * Hoang Nguyen
 * Judy Laughner
 * Laurie Layne
 * Micah Zeitz-Chua
 * Ernest  Feenandez
-* Aoibheann Cline - National Rifle Association
-* Troy Nichols - National Shooting Sports Foundation
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* 💵Troy Nichols - National Shooting Sports Foundation
 * Jane Milhans
 * Dan Mitchell - WA Civil Rights Association
 * Robin Ball - Sharpshooting Indoor Range

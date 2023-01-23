@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 8 👍 - Pro
+#### Testifying
+* Angela Birney - City of Redmond Mayor
+* 💵Briahna Murray - City of Redmond Contract Lobbyist
 
 ### 1 👎 - Con
 #### Testifying
-* Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 ### 0 ❓ - Other

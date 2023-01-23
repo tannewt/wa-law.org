@@ -7,10 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 175 👍 - Pro
+### 349 👍 - Pro
 #### Testifying
 * Barbara Geiger
 
-### 2 👎 - Con
+### 6 👎 - Con
+#### Testifying
+* Michael McKinley
+* Michael McKinley
 
 ### 0 ❓ - Other

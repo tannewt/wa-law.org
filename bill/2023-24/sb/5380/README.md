@@ -7,10 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 16 👍 - Pro
+#### Testifying
+* Becky Kelley - Office of Governor Jay Inslee
+* Jasmine Vasavada - WA Department of Commerce
+* Diane Butorac - WA Department of Ecology
 
 ### 1 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying
-* Paul Jewell - Washington State Association of Counties
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

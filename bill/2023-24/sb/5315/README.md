@@ -9,8 +9,8 @@
 ## Positions
 ### 18 👍 - Pro
 #### Testifying
-* Ramona Hattendorf - The Arc of King County
-* Christopher  Willis - Orting School District 
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Christopher  Willis - Orting School District
 * Tania May - Office of Superintendent of Public Instruction
 * Preston Dwoskin
 
@@ -25,7 +25,7 @@
 * Jeffrey Woolley - Dartmoor Schools
 * Rachel Kier - Brocks Academy
 * Melodee Loshbaugh - Brocks Academy
-* Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
 * Judy Colson
 * Debbie Teter
 

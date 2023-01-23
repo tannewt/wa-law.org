@@ -7,13 +7,27 @@
 * [Original Bill](1/)
 
 ## Positions
-### 15 👍 - Pro
+### 87 👍 - Pro
 #### Testifying
 * Melody Simle - WA Criminal Sentencing Task Force
 * David Trieweiler - WACDL/WDA
+* Jamarsae Brown
+* Maria Davissi
+* Timothy  Clayton 
+* Silas Davis
+* Rita Ferguson
+* Sanders Davis
+* Silas Davis 111
+* Sharita Brown
 
-### 7 👎 - Con
+### 31 👎 - Con
 #### Testifying
 * Cory Malon - WA Civil Rights Organization
+* Sandra Munden
+* Ronald Smith
+* Amy Freedheim - Senior DPA Felony Traffic
+* Joe Kunzler - None
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* 💵Russell Brown - WA Association of Prosecuting Attorneys

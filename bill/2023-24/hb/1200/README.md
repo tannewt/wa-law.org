@@ -9,17 +9,17 @@
 ## Positions
 ### 51 👍 - Pro
 #### Testifying
-* Michael White - King County
+* 💵Michael White - [King County](/org/king_county/)
 * Jennifer Hansen
 
 ### 5 👎 - Con
 #### Testifying
 * Laquesha Turner
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Maxford Nelsen - Freedom Foundation
+* 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 
 ### 3 ❓ - Other
 #### Testifying
 * Q  Beers
-* Mike Hoover - Washington State Association of Counties
-* Candice Bock - Association of Washington Cities
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

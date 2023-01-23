@@ -11,17 +11,17 @@
 #### Testifying
 * Debra Livingston - ReEmployAbility Inc
 * Kerri Butler - Work Bridge Group
-* ROSE GUNDERSEN - Washington Retail Association
-* Sheri Call - Washington Trucking Associations
-* Emily Lovell - Washington State Dental Association 
-* Jan Himebaugh  - Building Industry Association of Washington 
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Sheri Call - Washington Trucking Associations
+* 💵Emily Lovell - Washington State Dental Association
+* Jan Himebaugh  - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 ### 11 👎 - Con
 #### Testifying
 * Jane Dale - Washington State Association for Justice
 * Kathy Comfort - Washington State Association for Justice
 * Joe Kendo - Washington State Labor Council, AFL-CIO
-* Erin Frasier - WA State Building & Construction Trades Council
+* 💵Erin Frasier - WA State Building & Construction Trades Council
 
 ### 1 ❓ - Other
 #### Testifying

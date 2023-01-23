@@ -10,8 +10,8 @@
 ### 58 👍 - Pro
 #### Testifying
 * Luis Licea - Northwest Laborers Employers Training Trust
-* Erin Frasier - Washington State Building & Construction Trades Council
-* Joe Kendo - Washington State Labor Council
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
 * Chris Ellis - Bricklayers & Allied Craftworkers L 1
 * Matt Chapman - Ironworkers L 14
 * Brian Walter - SMART L 55
@@ -21,17 +21,17 @@
 * Sheldon Bennett - Southwest Mountain States Regional Council of Carpenters,  Local Union 59
 * Michael  Wright - Opcmia local 72
 * Anthony Edwards - Southwest Mountain States Regional Council of Carpenters
-* Julian Jensen - SW Mountain States Regional Council of Carpenters 
+* Julian Jensen - SW Mountain States Regional Council of Carpenters
 
 ### 8 👎 - Con
 #### Testifying
-* Sophia Steele - Associated Builders and Contractors
+* 💵Sophia Steele - Associated Builders and Contractors
 
 ### 6 ❓ - Other
 #### Testifying
-* Jerry VanderWood - Associated General Contractors (AGC) 
-* Cheryl Stewart - Inland Northwest AGC
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Cheryl Stewart - Inland Northwest AGC
 * Tammy Fellin - Labor & Industries
-* Brandy DeLange - Association of Washington Cities
-* Chris Herman - Washington Public Ports Association
-* Michael Transue - Mechanical Contractors Ass'n of Western Washington
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Michael Transue - Mechanical Contractors Ass'n of Western Washington

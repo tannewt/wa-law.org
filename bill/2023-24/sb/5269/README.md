@@ -9,13 +9,13 @@
 ## Positions
 ### 128 👍 - Pro
 #### Testifying
-* Brenda Wiest - Teamsters 117
-* Robin Everett - Sierra Club
-* Jessica Koski - BlueGreen Alliance
+* 💵Brenda Wiest - Teamsters 117
+* Robin Everett - [Sierra Club](/org/sierra_club/)
+* 💵Jessica Koski - BlueGreen Alliance
 * Gaylan Prescott - United Steelworkers Union, District 12
 
 ### 8 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying
-* Stephanie Celt - Washington Department of Commerce
+* 💵Stephanie Celt - Washington Department of Commerce

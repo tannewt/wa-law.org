@@ -7,9 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Jill Denny - Physicians for Social Responsibility
 
-### 0 👎 - Con
+### 2 👎 - Con
+#### Testifying
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### 1 ❓ - Other
 #### Testifying

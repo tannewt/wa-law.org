@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 184 👍 - Pro
+#### Testifying
+* Robert Zindel - Retired public employees Council of the State of Washington
+* Tim Knopf - Washington State School Retirees' Assn.
 
 ### 0 👎 - Con
 

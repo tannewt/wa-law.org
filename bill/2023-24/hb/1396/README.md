@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 9 👍 - Pro
+#### Testifying
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### 3 👎 - Con
 #### Testifying
@@ -15,7 +17,9 @@
 * Anthony Powers - Seattle Clemency Project
 * Gail Brashear
 
-### 2 ❓ - Other
+### 4 ❓ - Other
 #### Testifying
 * Jeffrey  Ellis - Redemption Project WA
 * David Trieweiler - WACDL/WDA
+* Nick Straley - [Columbia Legal Services](/org/columbia_legal_services/)
+* Timothy Ford

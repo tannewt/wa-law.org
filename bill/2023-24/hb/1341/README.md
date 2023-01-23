@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 #### Testifying
-* Ezra  Eickmeyer  - Producers NW 
+* Ezra  Eickmeyer  - Producers NW
+* Lukas Hunter - Harmony Farms
 
-### 0 👎 - Con
+### 1 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

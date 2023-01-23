@@ -7,7 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 7 👍 - Pro
+#### Testifying
+* Amy Freedheim - Senior DPA Felony Traffic
+* David Jones - Cooper Jones Active Transportation Safety Council
+* Amber Weilert
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 
 ### 0 👎 - Con
 

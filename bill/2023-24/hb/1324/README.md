@@ -7,11 +7,23 @@
 * [Original Bill](1/)
 
 ## Positions
-### 44 👍 - Pro
+### 211 👍 - Pro
 #### Testifying
 * Christopher Blackwell
 * Devennice  Gaines
+* Jeffrey  Ellis - Redemption Project of WA
+* 💵Chelsea Moore - ACLU of Washington
+* George Yeannakis - Office of Public Defense
+* Katie Hurley - King County Department of Public Defense
+* Honorable Judge André  Peñalver
+* Devon Adams - Collective Justice
+* Sean Goode
 
-### 0 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Joe Kunzler - Gun Violence Survivor
 
-### 0 ❓ - Other
+### 2 ❓ - Other
+#### Testifying
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

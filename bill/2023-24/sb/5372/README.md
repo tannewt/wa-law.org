@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 61 👍 - Pro
+### 168 👍 - Pro
+#### Testifying
+* Sherri Dysart - League of Women Voters of Washington
 
 ### 1 👎 - Con
 #### Testifying

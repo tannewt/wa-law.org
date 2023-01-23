@@ -10,10 +10,10 @@
 ### 9 👍 - Pro
 #### Testifying
 * Caitlyn  Jekel - Employment Security Department
-* Sybill Hyppolite - Washington State Labor Council, AFL-CIO
-* Anne Paxton - Unemployment Law Project
-* William Westmoreland - Pacific Mountain Workforce Development Council 
-* Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
+* William Westmoreland - Pacific Mountain Workforce Development Council
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
 ### 0 👎 - Con
 

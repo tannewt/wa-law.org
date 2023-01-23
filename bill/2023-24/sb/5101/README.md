@@ -14,7 +14,7 @@
 * Sarah Leon
 * Meagan Kineman
 * Anthony Powers
-* Rachael  Seevers - Disability Rights Washington
+* Rachael  Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Jennifer  Smith - Seattle Clemency Project
 * MD, MaryAnn Curl - Department of Corrections
 * Mary  McQueen
@@ -23,6 +23,6 @@
 ### 2 👎 - Con
 #### Testifying
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### 0 ❓ - Other

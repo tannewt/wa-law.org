@@ -7,7 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 17 👍 - Pro
+### 36 👍 - Pro
+#### Testifying
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
 ### 0 👎 - Con
 

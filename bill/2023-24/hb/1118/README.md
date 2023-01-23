@@ -17,4 +17,4 @@
 #### Testifying
 * Kyle Rydell - West valley School District
 * Sara Betnel - Washington State School Directors' Association
-* Carolyn Logue - WA State Student Transportation Coalition
+* 💵Carolyn Logue - WA State Student Transportation Coalition

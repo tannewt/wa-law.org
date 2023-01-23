@@ -10,7 +10,7 @@
 ### 12 👍 - Pro
 #### Testifying
 * Sarah Albertson - OSPI
-* John Harrison - Bellevue School District
+* John Harrison - [Bellevue School District](/org/bellevue_school_district/)
 
 ### 5 👎 - Con
 

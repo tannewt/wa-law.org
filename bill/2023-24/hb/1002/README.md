@@ -38,8 +38,8 @@
 ### 4 👎 - Con
 #### Testifying
 * Paz Mercader
-* Jason Schwarz - Washington Defender Association
+* Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 
 ### 2 ❓ - Other
 #### Testifying
-* Antonio Ginatta - Columbia Legal Services
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)

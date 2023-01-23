@@ -10,7 +10,7 @@
 ### 5 👍 - Pro
 #### Testifying
 * Paul Griffin - Washington Rural Electric Cooperative Association
-* Troy Berglund - Benton Rural Electric Association
+* 💵Troy Berglund - [Benton Rural Electric Association](/org/benton_rural_electric_association/)
 
 ### 0 👎 - Con
 

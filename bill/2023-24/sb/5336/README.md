@@ -9,7 +9,7 @@
 ## Positions
 ### 4 👍 - Pro
 #### Testifying
-* brian enslow - City of Vancouver
+* brian enslow - [City of Vancouver](/org/city_of_vancouver/)
 * Michael Walker - Vancouver Downtown Association
 
 ### 0 👎 - Con

@@ -12,6 +12,6 @@
 ### 2 👎 - Con
 #### Testifying
 * Judge Samuel  Chung  - Superior Court Judges' Association
-* Rachael DelVillar  - King County Superior Court 
+* Rachael DelVillar  - King County Superior Court
 
 ### 0 ❓ - Other

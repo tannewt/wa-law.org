@@ -11,8 +11,8 @@
 #### Testifying
 * Jennifer Wray-Keene - Port of Woodland
 * Michael  Echanove - CERB - Community Economic Revitalization Board
-* Suzanne Dale Estey - Washington Economic Development Association
-* Chris Herman - Washington Public Ports Association
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 ### 0 👎 - Con
 

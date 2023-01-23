@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 77 👍 - Pro
+### 95 👍 - Pro
 
-### 5 👎 - Con
+### 8 👎 - Con
 #### Testifying
 * TAMMIE HETRICK - Washington Food Industry Association
 * JOHN MEIER - EMPLOYER RESOURCES NORTHWEST

@@ -7,9 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 35 👍 - Pro
 #### Testifying
-* Diana Stadden - The Arc of WA State
+* 💵Diana Stadden - The Arc of WA State
+* 💵Michael Moran - Music Therapy Task Force-facilitator for virtual panel
+* Megumi Azekawa - TF Co-chair, Puget Sound Music Therapy/Ted Brown Music Outreach
+* Carlene Brown - SPU Prof. of Music, Chair, Music Dept. Director of Music Therapy Program
+* Dorian Delagrange - Swedish Multiple Sclerosis Center patient
+* Eva Marczinko - Swedish Cancer Institute patient
 
 ### 0 👎 - Con
 

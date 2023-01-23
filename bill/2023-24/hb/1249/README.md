@@ -10,7 +10,7 @@
 ### 5 👍 - Pro
 #### Testifying
 * Douglas Henderson - Painted Rooster Cannabis Co.
-* Brooke Davies - Washington CannaBusiness Association
+* 💵Brooke Davies - Washington CannaBusiness Association
 
 ### 1 👎 - Con
 #### Testifying

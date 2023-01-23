@@ -9,18 +9,18 @@
 ## Positions
 ### 284 👍 - Pro
 #### Testifying
-* Alex Hur - Master Builders Association of King and Snohomish Counties
-* Josie Cummings - Building Industry Association of Washington
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Joe Kunzler - None
 * Mason Thompson - City of Bothell, Mayor
-* Bryce Yadon - Futurewise 
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Scott Bonjukian
-* Alex Hur - Master Builders Association of King and Snohomish Counties
-* Dan Bertolet - Sightline Institute
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
 ### 10 👎 - Con
 #### Testifying
-* Andy Higgins - Washington Association of Building Officials
+* Andy Higgins - [Washington Association of Building Officials](/org/washington_association_of_building_officials/)
 
 ### 5 ❓ - Other
 #### Testifying

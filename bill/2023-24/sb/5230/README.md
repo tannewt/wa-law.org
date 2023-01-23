@@ -7,14 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 9 👍 - Pro
+### 21 👍 - Pro
 #### Testifying
 * Sean Gardner - The Mockingbird Society
 * Joshua Woodwalker
-* Emily Stochel - College Success Foundation
+* Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
+* Jim Theofelis - NorthStar Advocates
+* 💵Samuel Martin - The Mockingbird Society
+* Minnie Bliesner - SDMC
 
-### 0 👎 - Con
+### 2 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying
-* Lynda Hall - Treehouse
+* Lynda Hall - [Treehouse](/org/treehouse/)

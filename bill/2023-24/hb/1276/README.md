@@ -7,12 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 17 👍 - Pro
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 
-### 2 👎 - Con
+### 12 👎 - Con
 
-### 1 ❓ - Other
+### 2 ❓ - Other
 #### Testifying
-* Dan Bertolet - Sightline Institute
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

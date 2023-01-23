@@ -9,14 +9,14 @@
 ## Positions
 ### 65 👍 - Pro
 #### Testifying
-* Kirsten Smith - Susan G. Komen
+* 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
 * Janet Campbell
 * Bobbi-Jo Thomas 
 * Kate White Tudor - Rayus Radiology
-* Dr. Peter  Eby - Washington State Radiological Society (WSRS) 
+* Dr. Peter  Eby - Washington State Radiological Society (WSRS)
 
 ### 2 👎 - Con
 #### Testifying
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 0 ❓ - Other

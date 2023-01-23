@@ -7,7 +7,14 @@
 * [Original Bill](1/)
 
 ## Positions
-### 10 👍 - Pro
+### 32 👍 - Pro
+#### Testifying
+* Michael Mirra - Admin Office of the Courts Steering Committee for Family Treatment Courts
+* Shane Silverthorn - Superior Court Commissioner
+* Terreca DeFehr - Parents for Parents Program Coordinator
+* Carol Mitchell - Institute for Black Justice
+* 💵Emily Stone - WA State Coalition Against Domestic Violence
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### 0 👎 - Con
 

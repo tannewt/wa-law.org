@@ -7,10 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 10 👍 - Pro
+### 19 👍 - Pro
 #### Testifying
 * Jenn  Hansen
+* 💵Michael White - [King County](/org/king_county/)
 
-### 0 👎 - Con
+### 2 👎 - Con
+#### Testifying
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
-### 0 ❓ - Other
+### 1 ❓ - Other
+#### Testifying
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

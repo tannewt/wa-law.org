@@ -11,8 +11,8 @@
 #### Testifying
 * Jeff DeVere - Washington Trucking Associations
 * Beau Perschbacher - WA Dept. of Licensing
-* Maya Gillett
-* Mike Ennis - Association of Washington Business
+* 💵Maya Gillett
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### 0 👎 - Con
 

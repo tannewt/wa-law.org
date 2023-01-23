@@ -12,8 +12,8 @@
 #### Testifying
 * Amy Freedheim
 * Dennis Maughan - Mothers Against Drunk Driving
-* Jane Terry - National Safety Council
-* Stephanie Shaw - Safety Advocate on behalf of the National Transportation Safety Board (NTSB) 
+* Jane Terry - [National Safety Council](/org/national_safety_council/)
+* Stephanie Shaw - Safety Advocate on behalf of the National Transportation Safety Board (NTSB)
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention
 * Mark McKechnie - Washington Traffic Safety Commission
 * Neil Weaver - Washington State Patrol
@@ -21,12 +21,12 @@
 * Shelly  Baldwin - Washington Traffic Safety Commission
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Tony  Gomez
-* Sheri Call - Washington Trucking Associations
+* 💵Sheri Call - Washington Trucking Associations
 
 ### 20 👎 - Con
 #### Testifying
-* Julia Gorton - Washington Hospitality Association 
-* Josh McDonald - Washington Wine Institute
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 ### 1 ❓ - Other
 #### Testifying

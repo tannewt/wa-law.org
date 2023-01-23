@@ -11,20 +11,20 @@
 #### Testifying
 * Stacey  Valenzuela 
 * Andrew Calkins - King County Housing Authority & AWHA
-* Ishbel Dickens - Assoc of Manufactured Home Owners
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Victoria O'Banion
 * Rachel Elfenbein - Community Council
-* Tina Mckinstry - Takesa village homeowner cooperative 
+* Tina Mckinstry - Takesa village homeowner cooperative
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
-* Michele Thomas - Washington Low Income Housing Alliance
-* Greg Cosmo - Brookhollow Mobile Home Park 
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Greg Cosmo - Brookhollow Mobile Home Park
 * Jan Leonard
 * JOANNA GRIST - AARP
 
 ### 55 👎 - Con
 #### Testifying
-* Brad Tower - Commonwealth Real Estate Services
-* Ryan Erickson - Commonwealth Real Estate Services
+* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Don Leabo
 * Terry Langan
 * Barbara Tibeau - BeauView Water

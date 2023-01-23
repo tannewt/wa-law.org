@@ -18,12 +18,12 @@
 * Lisa Winchell
 * Kelsay Irby
 * Kainui Rapaport
-* Stephanie Simpson - Bleeding Disorder Foundation of Washington
+* 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
 * Nonie Kingma - Washington State Nurses Association
 * Nich Gullickson - South King County Professional Firefighters
-* Anna Nepomuceno - NAMI Washington
+* 💵Anna Nepomuceno - NAMI Washington
 * Kelli Johnson - UFCW 3000
-* Sam Hatzenbeler  - Economic Opportunity Institute
+* Sam Hatzenbeler  - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Melissa Swetland  - 1199 NW
 * Jim Freeburg - Patient Coalition of Washington
 * Sara Gering
@@ -32,7 +32,7 @@
 
 ### 895 👎 - Con
 #### Testifying
-* Alyssa Odegaard - LeadingAge Washington 
+* 💵Alyssa Odegaard - LeadingAge Washington
 * Jessica Reik - Island Health
 * William Robertson
 * CHARLOTTE MORRIS - Trilogy
@@ -44,12 +44,12 @@
 * RN, Susan Scott - Providence Holy Family Hospital
 * RN, Mike Martinoli - Ferry County Memorial Hospital
 * RN, Beth Goetz - Direct Care Nurse
-* Lisa Thatcher - Washington State Hospital Association
+* 💵Lisa Thatcher - Washington State Hospital Association
 * Matt Cowan - Shoreline Fire Department
 * Jeff Faucett - South Kitsap Fire & Rescue
-* Laci  Johnson - Forks Comunity Hospital 
+* Laci  Johnson - Forks Comunity Hospital
 * William  Johnson
-* Mike Battis - Washington Ambulance Association
+* Mike Battis - [Washington Ambulance Association](/org/washington_ambulance_association/)
 * Heidi  Anderson - Forks Community Hospital
 * Licett Garbe - Greater Spokane Valley Chamber of Commerce
 * Carlton Heine - WA ACEP

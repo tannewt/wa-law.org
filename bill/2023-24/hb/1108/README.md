@@ -7,14 +7,19 @@
 * [Original Bill](1/)
 
 ## Positions
-### 10 👍 - Pro
+### 42 👍 - Pro
 #### Testifying
-* Jeffrey  Ellis - Redemption Project of WA 
+* Jeffrey  Ellis - Redemption Project of WA
 * Jacob  Schmitt
 * Jacob Schmitt - WA DOC
 * Larry Jefferson - Washington State Office of Public Defense
 * David Trieweiler - WACDL/WDA
+* Vidal Vincent
+* Anita  Khandelwal - King County Department of Public Defense
 
-### 0 👎 - Con
+### 2 👎 - Con
+#### Testifying
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### 0 ❓ - Other

@@ -11,7 +11,7 @@
 #### Testifying
 * Laura Heironimus - WDFW
 * Tom McBride - WDFW
-* Alexei Calambokidis - Trout Unlimited
+* 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 
 ### 2 👎 - Con
 

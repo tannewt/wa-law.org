@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 43 👍 - Pro
 
-### 0 👎 - Con
+### 136 👎 - Con
+#### Testifying
+* Shannon Carlile - Conservative Ladies of WA
 
 ### 0 ❓ - Other

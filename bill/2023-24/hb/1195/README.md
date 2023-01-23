@@ -10,10 +10,10 @@
 ### 513 👍 - Pro
 #### Testifying
 * Liz Hjelmseth
-* Stephen Paolini - ADL
+* 💵Stephen Paolini - ADL
 * Flynn Williams
 * Neal Black - Kirkland City Council
-* Michael Nelson
+* 💵Michael Nelson
 * Ashley Brooks
 * Jeannie Shu
 * Brian Duncan
@@ -23,7 +23,7 @@
 * Ronald Lorimer
 * Chris Giles
 * Julie Barrett - Conservative Ladies of Washington
-* Aoibheann Cline - National Rifle Association
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Cory Malon - WA Civil Rights Association
 * Anthony Santoyo
 

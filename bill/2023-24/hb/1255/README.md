@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 38 👍 - Pro
 #### Testifying
 * Justin Vail
 

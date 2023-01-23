@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 25 👍 - Pro
+### 66 👍 - Pro
 
-### 0 👎 - Con
+### 5 👎 - Con
+#### Testifying
+* Stuart Cooper - American Environmental Health Studies Project, Inc.
+* Gerald Steel - King County Citizens Against Fluoridation
+* Bill Osmunson DDS MPH - Washington Safe Water
 
 ### 0 ❓ - Other

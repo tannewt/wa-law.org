@@ -11,18 +11,18 @@
 #### Testifying
 * Cory Taylor - SEIU 925
 * Anthony Cantu - UFCW 3000
-* Samantha Grad - Teamsters 117
+* 💵Samantha Grad - Teamsters 117
 * Silvia Marinova - WPEA
 * Sara Gering - UFCW 3000 RN
 
 ### 7 👎 - Con
 #### Testifying
-* Seth  Berntsen - Association of Washington Cities 
-* Mike Hoover - Washington State Association of Counties
+* Seth  Berntsen - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * James  McMahan - WA Assoc Sheriffs & Police Chiefs
 * Bob Battles - Association of Washington Business (AWB)
 * Arthur West
 
 ### 3 ❓ - Other
 #### Testifying
-* Candice Bock - Association of Washington Cities
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

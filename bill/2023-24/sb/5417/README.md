@@ -7,10 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 25 👍 - Pro
+#### Testifying
+* Brett Botts - Teamsters Local 313
+* Rachel  Ybarra
+* Elizabeth Duran
+* Kian  Alden - Teamsters
+* Kiah Penfield
+* Friday Sodorff
 
-### 2 👎 - Con
+### 8 👎 - Con
 #### Testifying
 * Rebecca Faust
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
 ### 0 ❓ - Other

@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 46 👍 - Pro
+### 60 👍 - Pro
+#### Testifying
+* ROBERT E BATES - Bates Counseling Services
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Tom Davis - Veterans Legislative Coalition (VLC)
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

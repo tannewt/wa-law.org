@@ -20,7 +20,7 @@
 * Michelle Pearl
 * Emily Wicks
 * Jane Beyer - Office of the Insurance Commissioner
-* Laura Gramer - Individual/family 
+* Laura Gramer - Individual/family
 * David Dupree
 * August Kotovic
 * Rebecca Kolsky
@@ -35,6 +35,6 @@
 
 ### 2 👎 - Con
 #### Testifying
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 1 ❓ - Other

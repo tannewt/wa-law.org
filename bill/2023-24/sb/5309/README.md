@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 0 ❓ - Other

@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 27 👍 - Pro
+### 54 👍 - Pro
 #### Testifying
 * Dylan Higginbotham
+* Kenneth Tharp
 
 ### 1 👎 - Con
 #### Testifying

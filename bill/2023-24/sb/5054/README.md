@@ -10,7 +10,7 @@
 ### 6 👍 - Pro
 #### Testifying
 * Marcia  Holland
-* Nasue Nishida - Washington Education Association
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 ### 1 👎 - Con
 #### Testifying

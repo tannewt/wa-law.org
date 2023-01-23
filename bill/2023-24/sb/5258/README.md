@@ -7,12 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 11 👍 - Pro
+### 19 👍 - Pro
 #### Testifying
-* Councilwoman Betsy Wilkerson - City of Spokane
-* Alex Hur - Master Builders Association of King and Snohomish Counties
+* Councilwoman Betsy Wilkerson - [City of Spokane](/org/city_of_spokane/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Andrew Rolwes - Downtown Spokane Partnership
+* 💵Bill Clarke - WA REALTORS
+* Bill Riley - Riley Communities (Condo/Townhouse Builder)
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-### 0 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* Anthony Rafel  - Washington State Chapter of Community Association Institute
+* Anthony Rafel  - Washington State Chapter of Community Association Institute
 
 ### 0 ❓ - Other

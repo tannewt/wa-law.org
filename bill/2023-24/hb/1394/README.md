@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 8 👍 - Pro
 #### Testifying
-* Roxana Gomez - ACLU of Washington
+* 💵Roxana Gomez - ACLU of Washington
 
 ### 0 👎 - Con
 

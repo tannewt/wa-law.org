@@ -9,9 +9,10 @@
 ## Positions
 ### 1 👍 - Pro
 
-### 2 👎 - Con
+### 64 👎 - Con
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Maya Morales - WA People's Privacy
 * Cynthia Spiess
+* Jonathan Pincus

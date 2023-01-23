@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 13 👍 - Pro
 #### Testifying
 * Carol Sullivan - League of Women Voters of WA
 

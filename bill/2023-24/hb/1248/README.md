@@ -7,7 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 19 👍 - Pro
+#### Testifying
+* John Boyd - Evergreen Public Schools
+* Tim  Merlino  - ESD 112
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Clifford  Traisman  - Bellevue, Highline, Olympia, and Seattle Public School Districts
+* 💵Devin Gombosky - ESD 105 Schools Coalition
+* Cindy  McMullen  - [Central Valley School District](/org/central_valley_school_district/)
+* Nikki  Lockwood  - [Spokane Public Schools](/org/spokane_public_schools/)
+* Shaunie Wheeler - James - Teamsters
+* Charlie Brown - Pierce County Superintendents and Schools Alliance
 
 ### 0 👎 - Con
 

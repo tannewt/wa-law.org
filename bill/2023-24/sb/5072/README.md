@@ -18,8 +18,8 @@
 * Jennifer Bethman - Superintendent, Rochester School District
 * Amity Butler - Assistant Superintendent, Northshore School District
 * Austina De Bonte - WA Coalition for Gifted Education
-* Nasue Nishida - Washington Education Association 
-* Juliet Schindler - College Success Foundation
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 
 ### 15 👎 - Con
 

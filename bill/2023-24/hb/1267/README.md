@@ -7,12 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 11 👍 - Pro
 #### Testifying
-* Kate Dean - Jefferson County 
-* Mike Hoover - Washington State Association of Counties
+* Kate Dean - Jefferson County
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Jerome Delvin - Benton County
-* Lisa Janicki - Skagit County
+* Lisa Janicki - [Skagit County](/org/skagit_county/)
+* 💵Blake Baldwin - Chelan Douglas Regional Port Authority
 
 ### 0 👎 - Con
 

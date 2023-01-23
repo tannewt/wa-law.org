@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 4 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
-* Melissa Gombosky - Inland Empire Paper Company
+* 💵Melissa Gombosky - Inland Empire Paper Company
 * Doug  Krapas  - Inland Empire Paper Company
-* Heather Trim - Zero Waste Washington
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Council President Breean Beggs - [City of Spokane](/org/city_of_spokane/)
 
 ### 0 👎 - Con
 

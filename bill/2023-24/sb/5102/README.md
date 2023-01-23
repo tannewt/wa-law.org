@@ -7,13 +7,22 @@
 * [Original Bill](1/)
 
 ## Positions
-### 288 👍 - Pro
+### 576 👍 - Pro
 #### Testifying
 * Sara Holloway
 * Dan Gemeinhart
+* Hannah  Baisch  - 1914 sw 166th st
+* Rebecca  Dzamov
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Eryn Duffee - Teacher-Librarian
+* Gavin Downing - Teacher-Librarian
+* Craig Seasholes
+* Lisa Layera
 
-### 1 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* Michael Olsen - Kettle Falls School District
 
-### 2 ❓ - Other
+### 3 ❓ - Other
 #### Testifying
 * Marnie Maraldo - Washington State School Directors' Association (WSSDA)

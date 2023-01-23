@@ -11,14 +11,14 @@
 ### 29 👍 - Pro
 #### Testifying
 * John Webber - Washington State Association for Justice
-* Shaun Scott
+* 💵Shaun Scott
 * Emilie  Padiernos
-* Christina L.  Henry - Northwest Consumer Law Center, Board Member 
+* Christina L.  Henry - Northwest Consumer Law Center, Board Member
 * Mark  Fredrich - Prosperity Real Estate, LLC
 
 ### 6 👎 - Con
 #### Testifying
-* Justin Murphy - Washington Collectors Association
+* Justin Murphy - [Washington Collectors Association](/org/washington_collectors_association/)
 * Sonia Gibson - Receivables Management Association International (RMAI)
 * Mindy Chumbley - WA Collectors Assn
 * Mindy Chumbley - WA Collector's Assn

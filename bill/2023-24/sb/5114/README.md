@@ -10,9 +10,9 @@
 ### 133 👍 - Pro
 #### Testifying
 * Sam Cho - Port of Seattle, Commission President
-* Mar  Brettmann - Businesses Ending Slavery and Trafficking 
-*  Kyra Abrahamson - Washington Trafficking Prevention 
-* Marissa Perez - Yarrow Project 
+* Mar  Brettmann - Businesses Ending Slavery and Trafficking
+*  Kyra Abrahamson - Washington Trafficking Prevention
+* Marissa Perez - Yarrow Project
 * Rebekah Fonden - Organization for Prostitution Survivors
 * Mary Williams  - Real Escape from the Sex Trade
 * Robin  Miller

@@ -20,10 +20,10 @@
 #### Testifying
 * Scott Musser
 * WASIM AZZAM - WSIADA
-* BADIE DARWAZEH - SEATTLE AUTO HAUS LLC 
+* BADIE DARWAZEH - SEATTLE AUTO HAUS LLC
 * Emil Scarsella - WSIADA
 * Greg Mahugh - McConkey Auction Group / DAA Northwest / DAA Seattle
 
 ### 1 ❓ - Other
 #### Testifying
-* Mark Johnson - Washington Retail Association
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

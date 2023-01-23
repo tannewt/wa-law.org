@@ -10,11 +10,11 @@
 ### 207 👍 - Pro
 #### Testifying
 * Carol Sullivan - League of Women Voters of Wl
-* Alex Hur - OneAmerica
+* 💵Alex Hur - OneAmerica
 * Lata Nott - Campaign Legal Center
-* Denisse Guerrero - WA Community Alliance
+* 💵Denisse Guerrero - WA Community Alliance
 * Melissa Rubio - OneAmerica
-* Colin Cole - More Equitable Democracy
+* 💵Colin Cole - More Equitable Democracy
 * Arlette Lopez
 
 ### 438 👎 - Con
@@ -27,7 +27,7 @@
 * Edward Buck
 * Jennifer  Deacy
 * Maxine Herbert-Hill
-* Jessica Hargin - Conservative Ladies of Washington 
+* Jessica Hargin - Conservative Ladies of Washington
 * Linnea McCord
 * Linnea McCord
 * Richard Grunewald
@@ -35,8 +35,8 @@
 
 ### 6 ❓ - Other
 #### Testifying
-* Mike Hoover - Washington State Association of Counties
-* Candice Bock - Association of Washington Cities
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Blanche Barajas - Mayor of the City of Pasco
-* Briahna Murray - Lobbyist for City of Pasco
-* Eric  ffitch - Washington Public Ports Association
+* 💵Briahna Murray - Lobbyist for City of Pasco
+* Eric  ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)

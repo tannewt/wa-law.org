@@ -9,15 +9,15 @@
 ## Positions
 ### 37 👍 - Pro
 #### Testifying
-* Ian Goodhew - UW Medicine 
+* 💵Ian Goodhew - UW Medicine
 * Matt Helder - ACS CAN
 * Robin Sparks
-* Katie Kolan - Washington State Medical Oncology Society
+* Katie Kolan - [Washington State Medical Oncology Society](/org/washington_state_medical_oncology_society/)
 * Dr. Blair Irwin - MultiCare
-* MD, MS, Marianne  Dubard-Gault - Fred Hutchinson Cancer Center
+* MD, MS, Marianne  Dubard-Gault - [Fred Hutchinson Cancer Center](/org/fred_hutchinson_cancer_center/)
 
 ### 3 👎 - Con
 #### Testifying
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### 0 ❓ - Other

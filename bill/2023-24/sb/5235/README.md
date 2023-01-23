@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 11 👍 - Pro
+### 19 👍 - Pro
 #### Testifying
 * Alexander  Harrison - Puyallup Tribe of Indians (Member)
 

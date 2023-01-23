@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 4 👍 - Pro
 #### Testifying
-* Paul Jewell - Washington State Association of Counties
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Laura DeGooyer - Lake Washington School District
+* Travis Hanson - Deer Park School District
 
-### 0 👎 - Con
+### 3 👎 - Con
 
 ### 0 ❓ - Other

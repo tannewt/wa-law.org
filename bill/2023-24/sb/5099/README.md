@@ -9,8 +9,8 @@
 ## Positions
 ### 13 👍 - Pro
 #### Testifying
-* Ramona Hattendorf - The Arc of King County
-* Diana Stadden - The Arc of WA State
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Diana Stadden - The Arc of WA State
 
 ### 1 👎 - Con
 

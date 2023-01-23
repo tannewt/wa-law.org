@@ -9,14 +9,14 @@
 ## Positions
 ### 47 👍 - Pro
 #### Testifying
-* Guillermo Rogel - Front and Centered
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Amber Martin-Jahn - Serve Washington
 * Carrie Sessions
-* Maud Daudon - Career Connect Washington
-* Paul Williams - The Suquamish Tribe
+* 💵Maud Daudon - Career Connect Washington
+* 💵Paul Williams - The Suquamish Tribe
 * Nova Gattman - Workforce Board
-* Larry Brown - Co-Chair, Workforce Board
-* Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Larry Brown - Co-Chair, Workforce Board
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Bridget Talebi - WA State Department of Ecology
 * Brian Considine - Washington Department of Natural Resources
 

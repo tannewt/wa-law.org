@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 15 👍 - Pro
+### 20 👍 - Pro
 #### Testifying
 * Heather Hudson - Washington Student Achievement Council
 * Lorie Thompson - Capital STEM Alliance (CCW Regional Network)
@@ -15,13 +15,18 @@
 * Brian Moreno
 * Evan Woods - Executive Director - WeTrain Washington
 * Mandira Virmani - Computing For All
-* Maud Daudon - Career Connect Washington
+* 💵Maud Daudon - Career Connect Washington
 * John B. Bonner
 * Shereen J. Henry
+* Debra Bowen - Director:  Career Connect Southeast
+* 💵Jayme Shoun - Washington STEM
 
 ### 0 👎 - Con
 
-### 3 ❓ - Other
+### 6 ❓ - Other
 #### Testifying
 * John Bonner
 * Shereen Henry
+* Paul Francis - Executive Director, SBCTC
+* Dr. Amy  Morrison - President, Lake Wa Institute of Technology
+* Dr. Jean Hernandez - President, South Seattle College

@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 7 👍 - Pro
+#### Testifying
+* Kayleen Islam-Zwart - Eastern Washington University
 
 ### 0 👎 - Con
 

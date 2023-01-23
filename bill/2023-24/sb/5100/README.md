@@ -16,5 +16,5 @@
 
 ### 3 ❓ - Other
 #### Testifying
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Alex Wehinger - WA State Medical Association (WSMA)

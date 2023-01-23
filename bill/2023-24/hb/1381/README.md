@@ -7,12 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
-
-### 1 👎 - Con
+### 1 👍 - Pro
 #### Testifying
-* Paul Jewell - Washington State Association of Counties
+* Harry Branch - Olympia Urban Waters League (OUWL)
 
-### 1 ❓ - Other
+### 2 👎 - Con
+#### Testifying
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+### 2 ❓ - Other
 #### Testifying
 * john Worthington
+* Todd Myers - Washington Policy Center

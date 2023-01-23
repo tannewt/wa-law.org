@@ -32,7 +32,7 @@
 * Rachel Buck
 * Norma Peters
 * Brent DeWalt
-* Michael Findlay - National Shooting Sports Foundation
+* 💵Michael Findlay - National Shooting Sports Foundation
 * Scott Dover - Aero Precision
 * Heidi Lee - Minute Man Ammunition
 * Clint Gillespy - Beyer Barrels

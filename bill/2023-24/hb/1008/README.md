@@ -9,7 +9,7 @@
 ## Positions
 ### 19 👍 - Pro
 #### Testifying
-* Fred Yancey - Washington State School Retirees’ Assn.
+* 💵Fred Yancey - Washington State School Retirees’ Assn.
 
 ### 0 👎 - Con
 

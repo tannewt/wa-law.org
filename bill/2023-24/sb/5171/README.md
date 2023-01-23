@@ -15,16 +15,16 @@
 * Abigail Jalso - Lake Washington High School
 * Gabrielle Heuer - Lake Washington High School
 * Ana Ferreira - Lake Washington High School
-* Catherine  Im - Lake Washington High School 
+* Catherine  Im - Lake Washington High School
 * Penny Sweet - Mayor of Kirkland
 * Jessica Forsythe - City of Redmond, Council President
-* Michael Moran - Lake Washington High School/Capitol Classroom 
+* 💵Michael Moran - Lake Washington High School/Capitol Classroom
 * Tyler Nathan - Lake Washington High School
 * Pari Harkishnani - Lake Washington High School
 
 ### 13 👎 - Con
 #### Testifying
-* Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Michael McShane
 
 ### 0 ❓ - Other

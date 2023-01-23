@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 0 ❓ - Other

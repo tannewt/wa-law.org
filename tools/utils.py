@@ -41,6 +41,31 @@ def remove_section(path, section):
 
     path.write_text("\n".join(lines_before + lines_after))
 
+REPLACEMENTS = {
+    "Assn": "Association",
+    "Wa": "Washington",
+    "Natl": "National",
+    "Nw": "Northwest"
+}
+
+UNCAPITALIZE = {
+    "Of": "of",
+    "For": "for",
+    "The": "the",
+    "And": "and"
+}
+
+def canonicalize_org(org_name):
+    pieces = []
+    for i, piece in enumerate(org_name.split()):
+        piece = piece.capitalize()
+        if piece in REPLACEMENTS:
+            piece = REPLACEMENTS[piece]
+        if i > 0 and piece in UNCAPITALIZE:
+            piece = UNCAPITALIZE[piece]
+        pieces.append(piece)
+    return " ".join(pieces)
+
 def get_db(readonly=False):
     if readonly:
         return sqlite3.connect("file:wa-laws.db?mode=ro", uri=True)
@@ -61,11 +86,46 @@ def get_db(readonly=False):
                     "UNIQUE(name)"
                 ")")
 
+    # db.execute("DROP TABLE IF EXISTS people")
     db.execute("CREATE TABLE IF NOT EXISTS people("
                     "first_name text,"
-                    "last_name text"
+                    "last_name text,"
+                    "bio text,"
+                    "slug text,"
+                    "UNIQUE(slug)"
                 ")")
-    # TODO: Split bills from revisions (this is more revisions) and add source url.
+
+    # db.execute("DROP TABLE IF EXISTS lobbying_firms")
+    db.execute("CREATE TABLE IF NOT EXISTS lobbying_firms("
+                    "name text,"
+                    "pdc_url text,"
+                    "UNIQUE(name),"
+                    "UNIQUE(pdc_url)"
+                    ")")
+
+    # db.execute("DROP TABLE IF EXISTS organizations")
+    db.execute("CREATE TABLE IF NOT EXISTS organizations("
+                    "name text,"
+                    "canonical_entry integer,"
+                    "slug text,"
+                    "url text,"
+                    "UNIQUE(slug),"
+                    "UNIQUE(name),"
+                    "FOREIGN KEY(canonical_entry) REFERENCES organizations(rowid)"
+                ")")
+
+    # db.execute("DROP TABLE IF EXISTS lobbyist_employment")
+    db.execute("CREATE TABLE IF NOT EXISTS lobbyist_employment("
+                    "person_rowid integer,"
+                    "lobbying_firm_rowid integer,"
+                    "organization_rowid integer,"
+                    "year integer,"
+                    "UNIQUE(person_rowid, lobbying_firm_rowid, organization_rowid, year),"
+                    "FOREIGN KEY(person_rowid) REFERENCES people(rowid),"
+                    "FOREIGN KEY(lobbying_firm_rowid) REFERENCES lobbying_firms(rowid),"
+                    "FOREIGN KEY(organization_rowid) REFERENCES organizations(rowid)"
+                ")")
+
     # db.execute(("DROP TABLE IF EXISTS bills"))
     # Bills live for a biennium.
     db.execute(("CREATE TABLE IF NOT EXISTS bills("
@@ -127,6 +187,18 @@ def get_db(readonly=False):
                 "FOREIGN KEY(meeting_rowid) REFERENCES meetings(rowid),"
                 "UNIQUE(caId)"
                 ")"))
+    db.execute(("CREATE TABLE IF NOT EXISTS testimony_options ("
+                "option text,"
+                "UNIQUE(option)"
+                ")"))
+    db.execute(("CREATE TABLE IF NOT EXISTS testimony_links ("
+                "agenda_item_rowid integer,"
+                "option_rowid integer,"
+                "url text,"
+                "FOREIGN KEY(agenda_item_rowid) REFERENCES agenda_items(rowid),"
+                "FOREIGN KEY(option_rowid) REFERENCES testimony_options(rowid),"
+                "UNIQUE(agenda_item_rowid, option_rowid)"
+                ")"))
     # db.execute("DROP TABLE IF EXISTS testifiers")
     # db.execute("DROP TABLE IF EXISTS positions")
     db.execute("CREATE TABLE IF NOT EXISTS positions (position text, UNIQUE(position))")
@@ -134,12 +206,14 @@ def get_db(readonly=False):
                     "agenda_item_rowid integer,"
                     "first_name text,"
                     "last_name text,"
+                    "person_rowid integer,"
                     "organization text,"
                     "position_rowid integer,"
                     "testifying boolean,"
                     "sign_in_time timestamp,"
                     "FOREIGN KEY(agenda_item_rowid) REFERENCES agenda_items(rowid),"
                     "FOREIGN KEY(position_rowid) REFERENCES positions(rowid),"
+                    "FOREIGN KEY(person_rowid) REFERENCES people(rowid),"
                     "UNIQUE(agenda_item_rowid, first_name, last_name, sign_in_time)"
     ")"))
     db.execute(("CREATE TABLE IF NOT EXISTS sections ("

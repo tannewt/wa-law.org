@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 19 👍 - Pro
+### 32 👍 - Pro
 #### Testifying
 * Dan Wise - 8335 9th Ave nw
+* JUSTIN MILLER
 
 ### 0 👎 - Con
 

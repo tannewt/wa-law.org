@@ -12,7 +12,7 @@
 * Martin Gibbins - League of Women Voters of WA
 * Martin Gibbins - League of Women Voters of WA
 * Joe Crumbley - CORA
-* Melissa Spear  - Tilth Alliance 
+* Melissa Spear  - [Tilth Alliance](/org/tilth_alliance/)
 * Jennifer Hennessey - Washington State Department of Ecology
 * Rad Cunningham - Washington State Department of Health
 * Jim Baumgart
@@ -26,5 +26,5 @@
 
 ### 2 ❓ - Other
 #### Testifying
-* Peter Godlewski - Association of Washington Business
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Brian Considine - Washington Department of Natural Resources

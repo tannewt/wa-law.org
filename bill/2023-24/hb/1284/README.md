@@ -9,6 +9,9 @@
 ## Positions
 ### 0 👍 - Pro
 
-### 0 👎 - Con
+### 2 👎 - Con
+#### Testifying
+* Doug Tingvall
+* Kary Krismer
 
 ### 0 ❓ - Other

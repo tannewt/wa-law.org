@@ -9,7 +9,7 @@
 ## Positions
 ### 14 👍 - Pro
 #### Testifying
-* Allison Krutsinger - Dept of Children, Youth, and Families
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Katie  Biron - Amara
 * Nicole Mazen - Amara
 * Leroy Pascubillo - Amara

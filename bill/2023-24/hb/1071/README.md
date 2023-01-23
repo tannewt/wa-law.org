@@ -7,15 +7,20 @@
 * [Original Bill](1/)
 
 ## Positions
-### 344 👍 - Pro
+### 649 👍 - Pro
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Jason Perrins - Chewelah SD
 * Laurie Layne
 * Rachel Buck
+* 💵Kelsi Hamilton
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Russell Armstrong
 
-### 199 👎 - Con
+### 337 👎 - Con
 #### Testifying
-* Roxana Gomez - ACLU of Washington
+* 💵Roxana Gomez - ACLU of Washington
+* Roger Kluck - Projects for a Civil Society
+* Sandra Hunt - Highline Education Association
 
 ### 1 ❓ - Other

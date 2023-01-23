@@ -5,11 +5,12 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Positions
 ### 3 👍 - Pro
 #### Testifying
-* Matt Zuvich - Office of the State Treasurer
+* 💵Matt Zuvich - Office of the State Treasurer
 
 ### 0 👎 - Con
 

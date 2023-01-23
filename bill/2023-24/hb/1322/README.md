@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## Positions
-### 6 👍 - Pro
+### 10 👍 - Pro
 #### Testifying
 * James Kraft - Washington Water Trust
 * Tom Tebb - Department of Ecology - Office of Columbia River

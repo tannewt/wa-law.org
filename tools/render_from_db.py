@@ -44,6 +44,10 @@ cur.execute("SELECT rowid FROM bienniums WHERE name = ?;", ("2023-24",))
 biennium_rowid = cur.fetchone()[0]
 
 cur.execute("SELECT rowid, prefix, number FROM bills WHERE biennium_rowid = ?", (biennium_rowid,))
+
+vips = set()
+vio = set()
+
 for bill_rowid, prefix, bill_number in cur:
     breadcrumb = f"[wa-law.org](/) > [bill](/bill/) > [{biennium}](/bill/{biennium}/) > [{prefix} {bill_number}](/bill/{biennium}/{prefix.lower()}/{bill_number}/)"
     bill_readme = [
@@ -56,7 +60,6 @@ for bill_rowid, prefix, bill_number in cur:
     ]
 
     bill_path = bills_path / prefix.lower() / str(bill_number)
-
 
     revisions = db.cursor()
     revisions.execute("SELECT rowid, version, description, source_url FROM revisions WHERE bill_rowid = ? ORDER BY modified_time", (bill_rowid,))
@@ -114,11 +117,48 @@ for bill_rowid, prefix, bill_number in cur:
         if testifiers:
             bill_readme.append("#### Testifying")
             for first_name, last_name, organization in testifiers:
+                lobbyist = db.cursor()
+                lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
+                lobbyist = lobbyist.fetchone()
+                if lobbyist:
+                    vips.add(lobbyist[0])
+                    lobbyist = "💵"
+                else:
+                    lobbyist = ""
                 if organization:
+                    organization = organization.strip()
+                    org = db.cursor()
+                    org.execute("SELECT rowid, canonical_entry, slug FROM organizations WHERE name = ?", (organization,))
+                    org = org.fetchone()
+                    if org:
+                        # Check the canonical version
+                        if org[1]:
+                            canonical = db.cursor()
+                            canonical.execute("SELECT rowid, canonical_entry, slug FROM organizations WHERE rowid = ?", (org[1],))
+                            org = canonical.fetchone()
+                        vio.add(org[0])
+                        slug = org[2]
+                        organization = f"[{organization}](/org/{slug}/)"
                     organization = " - " + organization
-                bill_readme.append(f"* {first_name} {last_name}{organization}")
+                bill_readme.append(f"* {lobbyist}{first_name} {last_name}{organization}")
         bill_readme.append("")
 
 
     rm = bill_path / "README.md"
     rm.write_text("\n".join(bill_readme))
+
+
+orgs_path = pathlib.Path("org/")
+for org_rowid in vio:
+    cur = db.cursor()
+    cur.execute("SELECT name, canonical_entry, slug FROM organizations WHERE rowid = ?", (org_rowid,))
+    name, canonical, slug = cur.fetchone()
+
+    org_path = orgs_path / slug
+    org_path.mkdir(parents=True, exist_ok=True)
+    org_readme_path = org_path / "README.md"
+    org_readme = [
+        f"# {name}",
+        f"## Active bills"
+    ]
+    org_readme_path.write_text("\n".join(org_readme))

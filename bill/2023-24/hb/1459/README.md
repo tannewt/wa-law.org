@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 5 👍 - Pro
+### 178 👍 - Pro
+#### Testifying
+* Tim Knopf - Washington State School Retirees’ Assn.
 
-### 0 👎 - Con
+### 1 👎 - Con
+#### Testifying
+* Michael McKinley
 
 ### 0 ❓ - Other

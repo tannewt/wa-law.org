@@ -12,14 +12,14 @@
 * Ray Dumas - Operative Plasterers and Cement Masons - Local 528
 * Robert Bowstring - Construction Worker
 * Nikolaj Jensen - Construction Worker
-* Erin Frasier - WA State Building & Construction Trades Council
+* 💵Erin Frasier - WA State Building & Construction Trades Council
 * Joe Kendo - Washington State Labor Council, AFL-CIO
-* Seth Worley - Plumbers and Steamfitters UA Local 598
+* 💵Seth Worley - Plumbers and Steamfitters UA Local 598
 
 ### 13 👎 - Con
 #### Testifying
 * Jerry VanderWood - WCIC and Associated General Contractors
-* Carolyn Logue - Associated Builders & Contractors -- W. Washington & Inland Pacific
+* 💵Carolyn Logue - Associated Builders & Contractors -- W. Washington & Inland Pacific
 
 ### 3 ❓ - Other
 #### Testifying

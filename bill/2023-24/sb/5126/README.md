@@ -13,7 +13,7 @@
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * Viviann Kuehl - Washington State School Directors' Association (WSSDA)
-* Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 
 ### 0 👎 - Con
 

@@ -15,4 +15,4 @@
 
 ### 1 ❓ - Other
 #### Testifying
-* Sean Graham - WA State Medical Assn
+* 💵Sean Graham - WA State Medical Assn

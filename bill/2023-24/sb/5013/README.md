@@ -9,11 +9,11 @@
 ## Positions
 ### 14 👍 - Pro
 #### Testifying
-* Tom Wark - National Association of Wine Retailers
+* Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
 * Paul Beveridge - Family Wineries of Washington State
 * Sandi Moreno - Leony's Cellars
 * Perry Preston - Stina's Cellars
-* Josh McDonald - Washington Wine Institute
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 ### 2 👎 - Con
 

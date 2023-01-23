@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 2 👍 - Pro
 
-### 0 👎 - Con
+### 3 👎 - Con
+#### Testifying
+* Paula  Sardinas - FMS Global Strategies
+* 💵Paula Sardinas - Puppyland
+* Ben York - Puppyland (Legal Counsel)
 
 ### 0 ❓ - Other

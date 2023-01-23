@@ -9,11 +9,11 @@
 ## Positions
 ### 18 👍 - Pro
 #### Testifying
-* Mike Battis  - Washington Ambulance Association
+* Mike Battis  - [Washington Ambulance Association](/org/washington_ambulance_association/)
 * Rocco Roncarati - American Medical REsponse
-* Joey  Rodrigues - Olympic Ambulance
-* Joey  Rodriguez - Olympic Ambulance
-* Mark Streuli - Olympic Ambulance
+* Joey  Rodrigues - [Olympic Ambulance](/org/olympic_ambulance/)
+* Joey  Rodriguez - [Olympic Ambulance](/org/olympic_ambulance/)
+* 💵Mark Streuli - [Olympic Ambulance](/org/olympic_ambulance/)
 
 ### 0 👎 - Con
 

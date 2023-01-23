@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 169 👍 - Pro
 #### Testifying
 * Elyette Weinstein
+* Robert Zindel - Retired Public Employees Council of the State of Washington
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

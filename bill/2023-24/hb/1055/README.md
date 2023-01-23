@@ -12,7 +12,7 @@
 * Katelynn Schlining - Spokane Regional Emergency Communications
 * Erin Gauthier - Teamsters 117
 * Catherine Bayer
-* Katy Myers - WA APCO-NENA The 911 Association 
+* Katy Myers - WA APCO-NENA The 911 Association
 * Erica Brown - Teamsters 763
 * James Schrimpsher - Washington State Fraternal Order of Police
 * Nicholas Curry

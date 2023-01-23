@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Bob Le Roy - The Long-Term Care Foundation
 
 ### 0 👎 - Con
 

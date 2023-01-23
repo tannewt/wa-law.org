@@ -9,7 +9,7 @@
 ## Positions
 ### 68 👍 - Pro
 #### Testifying
-* John Ficker - Adult Family Home Council
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 * Bea Rector - Dept. of Social and Health Services
 * Cathy MacCaul
 * Robert Wheeler - jefferson County, WA Father's Group

@@ -9,11 +9,11 @@
 ## Positions
 ### 16 👍 - Pro
 #### Testifying
-* Julie Salvi - Washington Education Association
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Jillian Baer
-* Jake  Vela - League of Education Voters
+* Jake  Vela - [League of Education Voters](/org/league_of_education_voters/)
 * Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
-* Zackary Turner - PESB
+* 💵Zackary Turner - PESB
 
 ### 1227 👎 - Con
 #### Testifying
@@ -31,6 +31,6 @@
 ### 6 ❓ - Other
 #### Testifying
 * Eric Sobotta - Reardan-Edwall School District
-* Mike Hoover - Washington State School Directors’ Association
+* 💵Mike Hoover - Washington State School Directors’ Association
 * Liv Finne - Washington Policy Center
 * Jim Kowalkowski - Rural Education Center

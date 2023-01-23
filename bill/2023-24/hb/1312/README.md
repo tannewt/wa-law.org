@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 3 👍 - Pro
+#### Testifying
+* Ann Chenhall - Thurston County School Retirees Association, Interfaith Works, Unity of Olympia, Stately Speakers To
 
 ### 0 👎 - Con
 

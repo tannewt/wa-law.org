@@ -11,9 +11,9 @@
 #### Testifying
 * Cynthia Stewart - League of Women Voters of WA
 * Cynthia Stewart - League of Women Voters of WA
-* Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
-* Shaun Scott - Statewide Poverty Action Network
-* Aaron Czyzewski - Food Lifeline
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
 ### 0 👎 - Con
 

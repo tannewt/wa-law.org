@@ -9,10 +9,10 @@
 ## Positions
 ### 17 👍 - Pro
 #### Testifying
-* James King - Independent Business Association
-* Mark Riker - Executive Secretary, WA State Building and Construction Trades Council
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
+* 💵Mark Riker - Executive Secretary, WA State Building and Construction Trades Council
 * Janice Zahn - Chair, CPARB
-* Chris Herman - Washington Public Ports Association
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 ### 0 👎 - Con
 

@@ -9,7 +9,7 @@
 ## Positions
 ### 203 👍 - Pro
 #### Testifying
-* Gregg VandeKieft - Washington Academy of Family Physicians 
+* Gregg VandeKieft - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
 * M. Lorena Gonzalez - ACLU of Washington
 * Nancy  Sapiro - End of Life WA
 
@@ -19,8 +19,8 @@
 * Sherri Tibbles
 * Theresa Schrempp
 * Sharon Quick
-* Zosia Stanley - Washington State Hospital Association
-* Esther Ripplinger - Human Life of WA
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Esther Ripplinger - Human Life of WA
 * Mary Long - Conservative Ladies of Washington
 * pam bennetsen - ConservativeLadiesofWashington
 * suzanne rohner

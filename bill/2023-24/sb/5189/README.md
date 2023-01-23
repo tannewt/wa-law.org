@@ -10,16 +10,16 @@
 ### 73 👍 - Pro
 #### Testifying
 * Jane Beyer - Office of the Insurance Commissioner
-* Jennifer Ziegler - Association of Washington Health Care Plans
-* Mark Johnson - Washington Retail Association
-* Anna  Ratzliff - University of Washington
-* Bill O'Connell - University of Washington 
-* Anna  Ratzliff - University of Washington
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Anna  Ratzliff - [University of Washington](/org/university_of_washington/)
+* Bill O'Connell - [University of Washington](/org/university_of_washington/)
+* Anna  Ratzliff - [University of Washington](/org/university_of_washington/)
 * Rex Rempel - Lake Washington Institute of Technology
 * Lara Effland
 * Kayleen  Islam-Zwart - Eastern Washington University
 * PhD, Julie Rickard
-* Nancy Belcher - King County Medical Society
+* Nancy Belcher - [King County Medical Society](/org/king_county_medical_society/)
 * Mukti Khanna - The Evergreen State College
 * Kevin Criswell
 * Julie Rickard - Physician & Healthcare Consulting, LLC
@@ -31,4 +31,4 @@
 ### 4 ❓ - Other
 #### Testifying
 * Evan Klein
-* Julia O'Connor - Washington Council for Behavioral Health
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)

@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 
 ## Positions
-### 15 👍 - Pro
+### 88 👍 - Pro
+#### Testifying
+* Lisa  Keating 
+* Jody Disney - LWVWA
 
-### 56 👎 - Con
+### 211 👎 - Con
+#### Testifying
+* Diana Amirehteshami  - Conservative Ladies of WA
 
 ### 0 ❓ - Other

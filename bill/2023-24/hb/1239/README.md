@@ -7,14 +7,17 @@
 * [Original Bill](1/)
 
 ## Positions
-### 75 👍 - Pro
+### 140 👍 - Pro
 #### Testifying
 * Samantha Fogg - Seattle Council PTSA
 
-### 119 👎 - Con
+### 345 👎 - Con
 #### Testifying
 * Julie Barrett - Conservative Ladies of Washington
 * Rachel Buck
+* Laurie Layne
+* Gary Clancey
+* PAT STOWE - personal & business
 
 ### 1 ❓ - Other
 #### Testifying

@@ -12,14 +12,14 @@
 * Mindy Chumbley - WA Collectors Assn
 * Andrew Roskam - RMAI
 * Martin Lynch - Financial Counseling Assn of America
-* Antonio Ginatta - Columbia Legal Services
-* Kelsi Hamilton - Washington Collectors Association
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Kelsi Hamilton - [Washington Collectors Association](/org/washington_collectors_association/)
 
 ### 4 👎 - Con
 #### Testifying
-* Melissa  Gombosky  - Progrexion 
+* Melissa  Gombosky  - Progrexion
 * Christian  Caballero  - Lexington Law
 * Pastor Andre Chapple - African American Empowerment Coalition
-* Michael  Claunch  - American Association of Consumer Credit Professionals 
+* Michael  Claunch  - American Association of Consumer Credit Professionals
 
 ### 0 ❓ - Other

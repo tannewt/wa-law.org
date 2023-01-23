@@ -11,7 +11,7 @@
 ### 35 👍 - Pro
 #### Testifying
 * Chalia Stallings-Ala'ilima - WA State Attorney General's Office
-* Brittany Gregory - Board for Judicial Administration 
+* Brittany Gregory - Board for Judicial Administration
 
 ### 0 👎 - Con
 

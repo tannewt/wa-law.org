@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 
 ## Positions
-### 2 👍 - Pro
+### 8 👍 - Pro
 
-### 0 👎 - Con
+### 136 👎 - Con
+#### Testifying
+* Christina Callahan - Conservative Ladies of Washington
 
 ### 0 ❓ - Other

@@ -10,25 +10,25 @@
 ### 770 👍 - Pro
 #### Testifying
 * Stacey Valenzuela 
-* Ishbel Dickens - Assoc of Manufactured Home Owners
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Rachel Elfenbein - Community Council
-* Tina Mckinstry - Takesa village homeowners cooperative 
-* Michele Thomas - WA Low Income Housing Alliance
-* Michele Thomas - Washington Low Income Housing Alliance
+* Tina Mckinstry - Takesa village homeowners cooperative
+* 💵Michele Thomas - WA Low Income Housing Alliance
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 * Robyn McDonald
 * Julie Riffey - 325 n 5th spc 19
 * Jennifer Brodie
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * JOANNA GRIST - AARP
-* Andrew Calkins - King County Housing Authority & Association of Washington Housing Authorities 
+* Andrew Calkins - King County Housing Authority & Association of Washington Housing Authorities
 * Victoria OBanion
 * Jan Leonard
 * William Walden
 
 ### 132 👎 - Con
 #### Testifying
-* Brad Tower - Commonwealth Real Estate Services
-* Ryan Erickson - Commonwealth Real Estate Services
+* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Don Leabo
 * Linda Harer
 * John Steve Harer
@@ -43,8 +43,8 @@
 * Joe Dugoni - CPX
 * Christina Mays - Detente Management, Inc.
 * Mike Simonitch
-* Beau Harer - MHCW 
-* Patricia Hoendermis - Yakima Valley Landlords Association
+* Beau Harer - MHCW
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Guy Miller  - Mhcw
 * Neil Wilson
 

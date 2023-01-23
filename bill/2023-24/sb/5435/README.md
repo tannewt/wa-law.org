@@ -7,10 +7,15 @@
 * [Original Bill](1/)
 
 ## Positions
-### 38 👍 - Pro
+### 170 👍 - Pro
+#### Testifying
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Stacey  Valenzuela 
+* kraig peck - Small landlord to testify PRO
 
-### 1 👎 - Con
+### 3 👎 - Con
 #### Testifying
 * Jeff Pack - Me
+* 💵Chester Baldwin - Rental Housing Coalition
 
 ### 0 ❓ - Other

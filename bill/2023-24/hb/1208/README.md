@@ -10,7 +10,7 @@
 ### 7 👍 - Pro
 #### Testifying
 * David Forte - Office of the Insurance Commissioner
-* Gavin Friedman - Trupanion, Inc. 
+* Gavin Friedman - [Trupanion, Inc.](/org/trupanion,_inc./)
 
 ### 0 👎 - Con
 

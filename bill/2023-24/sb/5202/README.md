@@ -9,20 +9,20 @@
 ## Positions
 ### 384 👍 - Pro
 #### Testifying
-* Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * David Schumacher - Office of Financial Management
-* Michele Thomas - WA Low Income Housing Alliance
-* Michele Thomas - Washington Low Income Housing Alliance
-* Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Michele Thomas - WA Low Income Housing Alliance
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Lisa Vatske - WSHFC
-* Nick Federici - United Way of King County and United Ways of the Pacific Northwest
+* 💵Nick Federici - United Way of King County and United Ways of the Pacific Northwest
 * Jon Grant - Low Income Housing Institute
 * Andrew Calkins - King County Housing Authority & AWHA
-* Greg Dunfield - Coalition for Affordable Housing Development
-* John Traynor - Washington State Labor Council, AFL-CIO
+* Greg Dunfield - [Coalition for Affordable Housing Development](/org/coalition_for_affordable_housing_development/)
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 * Mary Hull-Drury - Washington Realtors
 * Dennis Sills - Plymouth Housing
-* Carl Schroeder - Association of Washington Cities
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 
 ### 14 👎 - Con
@@ -31,5 +31,5 @@
 
 ### 3 ❓ - Other
 #### Testifying
-* Dave Mastin - Association of Washington Business
+* 💵Dave Mastin - [Association of Washington Business](/org/association_of_washington_business/)
 * Tracy Williams - Low Income Housing Institute

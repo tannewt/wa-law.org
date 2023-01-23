@@ -11,6 +11,6 @@
 
 ### 1 👎 - Con
 #### Testifying
-* Brian Hatfield - Office of Secretary of State
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 ### 0 ❓ - Other

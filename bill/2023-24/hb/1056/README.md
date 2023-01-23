@@ -10,7 +10,7 @@
 ### 25 👍 - Pro
 #### Testifying
 * Craig Homnick
-* Fred Yancey - Washington State School Retirees’s Assn. 
+* 💵Fred Yancey - Washington State School Retirees’s Assn.
 * Shawn Merchant - Department of Retirement Systems
 
 ### 0 👎 - Con

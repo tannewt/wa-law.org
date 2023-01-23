@@ -9,8 +9,8 @@
 ## Positions
 ### 8 👍 - Pro
 #### Testifying
-* Tim  Merlino  - ESD 112 
-* Sue Ann Bube - School Alliance
+* Tim  Merlino  - ESD 112
+* Sue Ann Bube - [School Alliance](/org/school_alliance/)
 * Tania May - Office of Superintendent of Public Instruction
 
 ### 0 👎 - Con

@@ -11,7 +11,7 @@
 #### Testifying
 * Tom McBride - WDFW
 * Rachel Blomker - WDFW
-* Joren Clowers - Kalkomey Enterprises
+* 💵Joren Clowers - Kalkomey Enterprises
 
 ### 0 👎 - Con
 

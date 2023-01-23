@@ -7,7 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 4 👍 - Pro
+#### Testifying
+* 💵Conner Edwards
+* 💵Conner Edwards - Professional Campaign Treasurer
+* Jason Michaud - Campaign treasurer
 
 ### 0 👎 - Con
 

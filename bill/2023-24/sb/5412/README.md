@@ -7,7 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 3 👍 - Pro
+### 11 👍 - Pro
+#### Testifying
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 ### 0 👎 - Con
 

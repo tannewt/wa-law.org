@@ -10,8 +10,8 @@
 ### 28 👍 - Pro
 #### Testifying
 * Jennifer Wray-Keene - Port of Woodland
-* Suzanne E Dale Estey - Washington Economic Development Association
-* Randy Hayden - Port of Pasco
+* Suzanne E Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Randy Hayden - [Port of Pasco](/org/port_of_pasco/)
 
 ### 0 👎 - Con
 

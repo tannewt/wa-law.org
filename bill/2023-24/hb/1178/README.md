@@ -9,28 +9,28 @@
 ## Positions
 ### 890 👍 - Pro
 #### Testifying
-* Albert Sardinas - FMSGS / WBBA
+* 💵Albert Sardinas - FMSGS / WBBA
 * Breean Beggs - Spokane City Council
 * Ashley Brooks
 * Craig  Reynolds
-* Monisha Harrell - City of Seattle
+* Monisha Harrell - [City of Seattle](/org/city_of_seattle/)
 * Breean Beggs
 * Ashley Brooks
 * Craig Reynolds
-* Monisha Harrell - City of Seattle
+* Monisha Harrell - [City of Seattle](/org/city_of_seattle/)
 * Liz Hjelmseth
 * Karyn Brownson - King County Public Health
 * Neal Black - Kirkland City Council
-* Jennifer Dolan Waldman - Grandmothers Against Gun Violence
-* Stephen Paolini - ADL
+* Jennifer Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* 💵Stephen Paolini - ADL
 * Brad Blackburn
 * Paula Barnes
 * Ian Taylor
 * Kristen Ellingboe
 * Chelsey Wright
-* Tremayne Edwards
+* 💵Tremayne Edwards
 * Sean Kent
-* Hazel Brown
+* 💵Hazel Brown
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk
@@ -60,11 +60,11 @@
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers (WACDL)
 * Clayton Braun
 * Micah Zeitz-Chua
-* Aoibheann Cline - National Rifle Association
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Dave Workman - Citizens Committee for the RIght to Keep and Bear Arms
 * Brian Keelan - WA State Rifle and Pistol Association
 * Jennifer Belmore-Tamiez
-* John Nowels - Spokane County
+* John Nowels - [Spokane County](/org/spokane_county/)
 * Aaron Lee
 * Ben Curtain
 * Nicholas Runje

@@ -17,13 +17,13 @@
 * Alexis Oliver Turla
 * Katherine Tarlock
 * Nicole Schroeder
-* Adam Zarrin - Leukemia & Lymphoma Society
+* 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * Victor Shevlyagin
 * Betsy Campbell - RESOLVE National Infertility Association
 * Rodolfo Turla
 * Kaycee Oatman
 * Andrea Hikoe
-* Matthew Hepner - IBEW/ceww
+* 💵Matthew Hepner - IBEW/ceww
 * Robin Von Davies - Washington State University’s Elson S. Floyd College of Medicine OBGYN Interest Group
 * Brittany Horrocks
 * Kalli Burns
@@ -32,13 +32,13 @@
 * Nicole Schroeder
 * Chalia Stallings-Ala'ilima - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * Sara Cassidey
-* Alexis Oliver
-* Heather Villanueva
+* 💵Alexis Oliver
+* 💵Heather Villanueva
 
 ### 49 👎 - Con
 #### Testifying
 * Jennifer Friesen - Them Before Us
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
 * Ángel  Alvarado  - Respect Life Ministry
 

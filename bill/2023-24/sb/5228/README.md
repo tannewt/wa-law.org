@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## Positions
-### 114 👍 - Pro
+### 143 👍 - Pro
 #### Testifying
-* Abigail Cooper - Downtown Emergency Service Center
+* Abigail Cooper - [Downtown Emergency Service Center](/org/downtown_emergency_service_center/)
 
 ### 0 👎 - Con
 

@@ -9,7 +9,7 @@
 ## Positions
 ### 14 👍 - Pro
 #### Testifying
-* John Ficker - Adult Family Home Council
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
 ### 0 👎 - Con
 

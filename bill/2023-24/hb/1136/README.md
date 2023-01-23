@@ -9,8 +9,8 @@
 ## Positions
 ### 22 👍 - Pro
 #### Testifying
-* Kevin Njihia - Nobel caregivers 
-* Hardeep  S. Rekhi - Washington Employment Lawyers Association
+* Kevin Njihia - Nobel caregivers
+* Hardeep  S. Rekhi - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 * Adrian Ortix
 * Mathieu Begni
 * Toby  Marshall
@@ -18,8 +18,8 @@
 
 ### 201 👎 - Con
 #### Testifying
-* Rebekah Near - Orca Information, Inc 
-* James King - Independent Business Association
+* Rebekah Near - Orca Information, Inc
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 * Val Mullen
 * Heidi  Johnson-Sandall - Conservative Ladies of WA
 * Suzanne Rohner
@@ -27,5 +27,5 @@
 
 ### 5 ❓ - Other
 #### Testifying
-* Patrick Connor - NFIB
-* Samantha Louderback - Washington Hospitality Association
+* 💵Patrick Connor - NFIB
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)

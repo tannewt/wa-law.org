@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 7 👍 - Pro
+### 14 👍 - Pro
 #### Testifying
-* Alex Hur - OneAmerica
+* 💵Alex Hur - OneAmerica
 * Maribel  Vilchez - WEA Member and North Thurston EA Member
 * Kristin Percy Calaff  - OSPI
+* Bernard Koontz - Exec Dir, Teaching, Learning, Leadership, Highline Public Schools
 
 ### 0 👎 - Con
 

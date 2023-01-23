@@ -7,11 +7,11 @@
 * [Original Bill](1/)
 
 ## Positions
-### 1 👍 - Pro
+### 6 👍 - Pro
 #### Testifying
 * Jamie Traugott - State Board for Community and Technical Colleges
 
-### 0 👎 - Con
+### 1 👎 - Con
 
 ### 1 ❓ - Other
 #### Testifying

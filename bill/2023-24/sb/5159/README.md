@@ -10,8 +10,8 @@
 ### 18 👍 - Pro
 #### Testifying
 * Tim Gates - WA Department of Ecology
-* Josie Cummings - Building Industry Association of Washington
-* Bryce Yadon - Futurewise 
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 ### 0 👎 - Con
 

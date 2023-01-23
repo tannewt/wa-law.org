@@ -7,10 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 0 👍 - Pro
+### 6 👍 - Pro
+#### Testifying
+* 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
+* Annie Fitzsimmons - Legal Counsel - WA Realtors
+* Sabrina Jones-Schroeder - Exit Real Estate - Designated Broker; WA Real Estate Commissioner
+* Justin Haag - NW Multiple Listing Service
+* Chris Osborn - Stoel Rives LLP
+* Lars Neste - Demco Law Firm, PS
 
-### 1 👎 - Con
+### 2 👎 - Con
 #### Testifying
 * Kary Krismer
+* Doug Tingvall
 
 ### 0 ❓ - Other

@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 
 ## Positions
-### 97 👍 - Pro
+### 149 👍 - Pro
+#### Testifying
+* Jason Fritz - Skamania County Sheriff
+* Erica  Brown - Teamsters
+* Katy Myers - WA APCO-NENA
 
 ### 0 👎 - Con
 
-### 0 ❓ - Other
+### 1 ❓ - Other

@@ -11,12 +11,12 @@
 #### Testifying
 * Jennifer Hennessey - Washington State Department of Ecology
 * Rad Cunningham - Washington State Department of Health
-* justin allegro - The Nature Conservancy
+* justin allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 ### 17 👎 - Con
 
 ### 3 ❓ - Other
 #### Testifying
-* Peter Godlewski - Association of Washington Business
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * john Worthington
 * Brian Considine - Washington State Department of Natural Resources

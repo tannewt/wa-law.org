@@ -11,7 +11,7 @@
 #### Testifying
 * Judy Wallace
 * Karyn Brownson
-* Jordan Waits
+* 💵Jordan Waits
 * Barbara Serrano
 * Tahana Salvadalena
 * Dr. Cassandra Crifasi
@@ -22,9 +22,9 @@
 * Matt Vadnal
 * Kristen Ellingboe
 * Chelsey Wright
-* Tremayne Edwards
+* 💵Tremayne Edwards
 * Sean Kent
-* Hazel Brown
+* 💵Hazel Brown
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk

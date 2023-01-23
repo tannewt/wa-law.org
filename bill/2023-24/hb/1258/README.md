@@ -10,11 +10,11 @@
 ### 282 👍 - Pro
 #### Testifying
 * David Blandford - Yes. I am Exec. Director of State of Washington Tourism
-* David Blandford - Washington Tourism Alliance
+* David Blandford - [Washington Tourism Alliance](/org/washington_tourism_alliance/)
 * Josh McDonald - 375 Washington St. NE
 * Sherrye Wyatt - PO Box 365
 * Shelly  Stevens - 3376 Cottonwood Creek Road
-* Julia Gorton - Washington Hospitality Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Ron Oh - Holiday Inn Express
 
 ### 50 👎 - Con

@@ -7,16 +7,18 @@
 * [Original Bill](1/)
 
 ## Positions
-### 78 👍 - Pro
+### 590 👍 - Pro
 #### Testifying
 * Andrea  Alegrett - WA State Attorney General's Office
 * Joyce Bruce - WA State Attorney General's Office
 * Maya  Morales - WA People's Privacy
 * Cher Scarlett
 * Stanley Shikuma - Japanese American Citizens League, Seattle Chapter
+* Jonathan Pincus
 
-### 0 👎 - Con
+### 2 👎 - Con
 
-### 1 ❓ - Other
+### 6 ❓ - Other
 #### Testifying
-* Andrew Kingman - State Privacy & Security Coalition
+* 💵Andrew Kingman - [State Privacy & Security Coalition](/org/state_privacy_&_security_coalition/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

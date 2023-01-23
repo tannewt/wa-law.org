@@ -10,16 +10,16 @@
 ### 67 👍 - Pro
 #### Testifying
 * Brian Freeman - Curlew School District
-* Michelle  Price - North Central Educational Service District 
-* Charlie Brown - Skills Centers Directors 
+* Michelle  Price - North Central Educational Service District
+* Charlie Brown - Skills Centers Directors
 * Nick  Massie - Southwest WA Contractors Assoc. / Rotschy Inc.
 * Pete Rosenkranz - La Center School District
 * Preston Dwoskin
 * Pavan Venkatakrishnan - Washington State Board of Education
 * Becky Wallace - OSPI
-* Kelly Fukai - Washington Technology Industry Association 
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Stephanie  Wright - Snohomish County
-* Josh Weiss - Snohomish County
+* 💵Josh Weiss - Snohomish County
 * Ryan Beatty - Marysville School District
 
 ### 51 👎 - Con
@@ -28,6 +28,6 @@
 
 ### 7 ❓ - Other
 #### Testifying
-* Michael Transue - Mechanical Contractor Ass'n of Western WA
-* Erin Frasier - WA State Building and Construction Trades Council 
-* John Traynor - Washington State Labor Council, AFL-CIO
+* 💵Michael Transue - Mechanical Contractor Ass'n of Western WA
+* 💵Erin Frasier - WA State Building and Construction Trades Council
+* 💵John Traynor - Washington State Labor Council, AFL-CIO

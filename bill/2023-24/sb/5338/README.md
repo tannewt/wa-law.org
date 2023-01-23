@@ -13,9 +13,9 @@
 * Michelle Pearl
 * Hollie Sandlin - Hollie Sandlin MD
 * Sheri Emery
-* Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Andrea Hu
-* Stephanie Simpson - Bleeding Disorder Foundation of Washington
+* 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
 * Jill Bujnevicie 
 * Alex Wehinger - WA State Medical Association (WSMA)
 

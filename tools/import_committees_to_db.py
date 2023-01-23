@@ -103,9 +103,13 @@ for start_year in range(2023, 2025, 2):
                 url = csi_root_url + f"/{chamber}/TestimonyTypes/?chamber={chamber}&meetingFamilyId={item.mId}&agendaItemFamilyId={item.aId}&agendaItemId={item.caId}"
                 testimonyOptions = requests.get(url)
                 testimonyOptions = BeautifulSoup(testimonyOptions.decode("utf-8"), "lxml")
-                testimony_links = {}
                 for option in testimonyOptions.find_all("a"):
-                    testimony_links[option.text] = option["href"]
+
+                    cur.execute("INSERT OR IGNORE INTO testimony_options VALUES (?)", (option.text,))
+                    cur.execute("SELECT rowid FROM testimony_options WHERE option = ?", (option.text,))
+                    option_rowid = cur.fetchone()[0]
+                    
+                    cur.execute("INSERT OR IGNORE INTO testimony_links VALUES (?, ?, ?)", (item_rowid, option_rowid, option["href"]))
                 db.commit()
 
         if activity:

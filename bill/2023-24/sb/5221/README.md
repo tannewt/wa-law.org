@@ -9,7 +9,7 @@
 ## Positions
 ### 11 👍 - Pro
 #### Testifying
-* Jessica Monger - Washington State Opportunity Scholarship
+* Jessica Monger - [Washington State Opportunity Scholarship](/org/washington_state_opportunity_scholarship/)
 
 ### 6 👎 - Con
 
