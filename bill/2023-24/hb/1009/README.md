@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Wed 01/11 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1009 Military spouse employment
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

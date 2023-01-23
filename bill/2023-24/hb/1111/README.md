@@ -6,11 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 178 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Housing (HOUS): HB 1111 Housing benefit districts
+#### 178 👍 - Pro
+Testifying:
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
-* MARK SMITH - Housing Consortium of Everett & Snohomish County
 * Paul Hintz - [City of Renton](/org/city_of_renton/)
 * Jesse Simpson - Housing Development Consortium
 * 💵Briahna Murray - Lobbyist for City of Tacoma
@@ -19,9 +19,10 @@
 * Al Levine - Sound Communities
 * Clifford  Cawthon - Habitat for Humanity Seattle-King & Kittitas County
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Jeff Pack - Me
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

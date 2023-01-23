@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Wed 01/11 04:00 PM - Appropriations (APP): HB 1141 Operating budget, supp.
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

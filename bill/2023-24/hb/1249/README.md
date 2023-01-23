@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Regulated Substances & Gaming (RSG): HB 1249 Retail cannabis products
+#### 5 👍 - Pro
+Testifying:
 * Douglas Henderson - Painted Rooster Cannabis Co.
 * 💵Brooke Davies - Washington CannaBusiness Association
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Ramsey Doudar - Patients & Users for Reasonable Policy (PURP)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

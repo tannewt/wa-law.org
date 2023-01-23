@@ -6,18 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 343 👍 - Pro
-#### Testifying
-* Katelynn Schlining - Spokane Regional Emergency Communications
+## Meetings
+### Mon 01/16 04:00 PM - Appropriations (APP): HB 1055 Pub safety telecommunicators
+#### 343 👍 - Pro
+Testifying:
 * Erin Gauthier - Teamsters 117
 * Catherine Bayer
 * Katy Myers - WA APCO-NENA The 911 Association
-* Erica Brown - Teamsters 763
+* Katelynn Schlining - Spokane Regional Emergency Communications
 * James Schrimpsher - Washington State Fraternal Order of Police
 * Nicholas Curry
 * Mary  Keefe
+* Erica Brown - Teamsters 763
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 25 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 10:30 AM - Labor & Commerce (LC): SB 5156 Farm internship program
+#### 25 👍 - Pro
+Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

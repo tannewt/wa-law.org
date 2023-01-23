@@ -7,12 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 2 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - State Government & Elections (SGE): SB 5151 Secretary of state exec team
+#### 2 👍 - Pro
+Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-### 6 👎 - Con
+#### 6 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

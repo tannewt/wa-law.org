@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
+## Meetings
+### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1160 Mutilation or dismemberment
+#### 4 👍 - Pro
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

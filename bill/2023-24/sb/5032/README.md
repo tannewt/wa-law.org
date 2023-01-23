@@ -6,21 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 47 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 10:30 AM - Law & Justice (LAW): SB 5032 DUI lookback & sentencing
+#### 47 👍 - Pro
+Testifying:
+* Barbara Serrano - Office of the Governor
 * Amy Freedheim
-* Barbara Serrano - Office of the Governor
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
-* Mark McKechnie - Washington Traffic Safety Commission
-* Neil Weaver - Washington State Patrol
 * Debbie Driver - Office of the Governor
-* Shelly Baldwin - Washington Traffic Safety Commission
-* Neil Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
+* Neil Weaver - Washington State Patrol
+* Shelly Baldwin - Washington Traffic Safety Commission
 * Barbara Serrano - Office of the Governor
+* Mark McKechnie - Washington Traffic Safety Commission
+* Neil Weaver - Washington State Patrol
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

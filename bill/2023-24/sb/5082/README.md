@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5082 Advisory votes
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

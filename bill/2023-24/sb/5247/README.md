@@ -6,20 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 47 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5247 Climate-ready communities
+#### 47 👍 - Pro
+Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Larry Brown - Co-Chair, Workforce Board
+* Nova Gattman - Workforce Board
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Bridget Talebi - WA State Department of Ecology
+* Brian Considine - Washington Department of Natural Resources
 * Amber Martin-Jahn - Serve Washington
 * Carrie Sessions
 * 💵Maud Daudon - Career Connect Washington
 * 💵Paul Williams - The Suquamish Tribe
-* Nova Gattman - Workforce Board
-* 💵Larry Brown - Co-Chair, Workforce Board
-* 💵Erin Frasier - Washington State Building & Construction Trades Council
-* Bridget Talebi - WA State Department of Ecology
-* Brian Considine - Washington Department of Natural Resources
 
-### 6 👎 - Con
+#### 6 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

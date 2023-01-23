@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1087 Solitary confinement
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

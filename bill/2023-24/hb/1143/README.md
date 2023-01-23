@@ -6,19 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 908 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1143 Firearms/purchase & transfer
+#### 908 👍 - Pro
+Testifying:
+* Barbara Serrano - Office of the Governor
+* 💵Jordan Waits
 * Judy Wallace
 * Karyn Brownson
-* 💵Jordan Waits
-* Barbara Serrano - Office of the Governor
-* Tahana Salvadalena
 * Dr. Cassandra Crifasi - Johns Hopkins School of Public Health
 * Gwen Loosmore - WSPTA
+* Tahana Salvadalena
+* Barbara Culp
 * Christian Heyne - Brady United
 * Jan Weisel
-* Barbara Culp
 * Matt Vadnal
 * Kristen Ellingboe
 * Chelsey Wright
@@ -30,39 +31,39 @@
 * Victoria Muzyk
 * Liddy Ballard - Brady United
 
-### 2322 👎 - Con
-#### Testifying
+#### 2322 👎 - Con
+Testifying:
 * Julie Barrett - Conservative Ladies of Washington
-* JoAnn Tolentino
-* JENEEN  BRESHEARS - CONSERVATIVE LADIES OF WASHINGTON
 * Eric Pratt - America
 * Andrew Mesojednik - myself
+* JoAnn Tolentino
+* JENEEN  BRESHEARS - CONSERVATIVE LADIES OF WASHINGTON
+* Deborah Stelfox
+* Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association
 * Juan Rodriguez
 * Erik Hagerup
-* Deborah Stelfox
-* Ronald Lorimer
 * Aaron Lee
-* Michael McKinley
 * Laurie Layne
+* Michael McKinley
 * Shelly Quintana
 * Benjamin Quintana
-* Norma Peters
 * Micah Zeitz-Chua
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
-* Jane Milhans
 * Bea Christopherson
-* Danna Baxter - Safe Fire Range and Training
+* Jane Milhans
 * Dan Mitchell - WA Civil Rights Association
+* Danna Baxter - Safe Fire Range and Training
 * Mark Crider - Walla Walla County
 * Barbara Schultz
 * Elizabeth VanSteertegem
 * Orion Webster
+* Norma Peters
 * Travis Miller
 * Fred Baerbalck
 * Joe Kunzler
 * William Thomas
 
-### 5 ❓ - Other
-#### Testifying
+#### 5 ❓ - Other
+Testifying:
 * Jeffrey Slotnick - Setracon Incorporated

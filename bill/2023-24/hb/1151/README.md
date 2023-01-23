@@ -6,10 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 758 👍 - Pro
-#### Testifying
-* Tyler Ketterl
+## Meetings
+### Wed 01/18 01:30 PM - Health Care & Wellness (HCW): HB 1151 Fertility services coverage
+#### 758 👍 - Pro
+Testifying:
 * Allison Carney - Wollam
 * Valerie Balch
 * Dr. Chris Herndon
@@ -23,6 +23,7 @@
 * Rodolfo Turla
 * Kaycee Oatman
 * Andrea Hikoe
+* Tyler Ketterl
 * 💵Matthew Hepner - IBEW/ceww
 * Robin Von Davies - Washington State University’s Elson S. Floyd College of Medicine OBGYN Interest Group
 * Brittany Horrocks
@@ -35,13 +36,13 @@
 * 💵Alexis Oliver
 * 💵Heather Villanueva
 
-### 49 👎 - Con
-#### Testifying
+#### 49 👎 - Con
+Testifying:
 * Jennifer Friesen - Them Before Us
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
 * Ángel  Alvarado  - Respect Life Ministry
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Katie Eilers - AVAILABLE FOR QUESTIONS Washington State Department of Health

@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
-* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+## Meetings
+### Tue 01/17 04:00 PM - Education (ED): HB 1113 Prof. educator reprimands
+#### 3 👍 - Pro
+Testifying:
 * Rob Shadle
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Kristin  Murphy - Office of Superintendent of Public Instruction (OSPI)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Thu 01/12 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5106 County district boundaries
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

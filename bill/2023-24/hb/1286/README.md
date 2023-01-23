@@ -6,11 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 8 👍 - Pro
+## Meetings
+### Tue 01/24 10:30 AM - Labor & Workplace Standards (LAWS): HB 1286 Reprod. health/employers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30488&aId=149566&caId=20692&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30488&aId=149566&caId=20692&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30488&aId=149566&caId=20692&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30488&aId=149566&caId=20692&tId=4)
 
-### 136 👎 - Con
-#### Testifying
+#### 8 👍 - Pro
+
+#### 155 👎 - Con
+Testifying:
 * Christina Callahan - Conservative Ladies of Washington
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

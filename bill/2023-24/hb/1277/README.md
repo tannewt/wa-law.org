@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 12 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Education (ED): HB 1277 Paraeducator course of study
+#### 12 👍 - Pro
+Testifying:
 * 💵Zackary Turner - PESB
 * Dawna Hansen-Murray
-* Erica Hernandez-Scott - PESB
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Erica Hernandez-Scott - PESB
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Health & Long Term Care (HLTC): SB 5142 HIV medication rebate rev.
+#### 4 👍 - Pro
+Testifying:
 * Elizabeth Crutsinger-Perry - Washington State Department of Health
 * 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

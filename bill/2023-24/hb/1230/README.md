@@ -6,16 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/26 08:00 AM - Education (ED): HB 1230 School websites/drug info.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
 * Dr. Gwen Loosmore - Washington State PTA
 
-### 6 👎 - Con
+#### 6 👎 - Con
 
-### 11 ❓ - Other
-#### Testifying
+#### 11 ❓ - Other
+Testifying:
 * Cory Malon - WA Civil Rights Organization
 * Alex  Brown
-* Sandra Munden
 * Ronald Smith
+* Sandra Munden

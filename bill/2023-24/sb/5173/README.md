@@ -7,23 +7,24 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 29 👍 - Pro
-#### Testifying
-* John Webber - Washington State Association for Justice
+## Meetings
+### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5173 Property exempt from exec.
+#### 29 👍 - Pro
+Testifying:
 * 💵Shaun Scott
-* Emilie  Padiernos
 * Christina L.  Henry - Northwest Consumer Law Center, Board Member
+* Emilie  Padiernos
 * Mark  Fredrich - Prosperity Real Estate, LLC
+* John Webber - Washington State Association for Justice
 
-### 6 👎 - Con
-#### Testifying
-* Justin Murphy - [Washington Collectors Association](/org/washington_collectors_association/)
+#### 6 👎 - Con
+Testifying:
 * Sonia Gibson - Receivables Management Association International (RMAI)
 * Mindy Chumbley - WA Collectors Assn
 * Mindy Chumbley - WA Collector's Assn
+* Justin Murphy - [Washington Collectors Association](/org/washington_collectors_association/)
 * Kevin Underwood - Washington Collectors Assn
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Fadi Assaf - Northwest Justice Project

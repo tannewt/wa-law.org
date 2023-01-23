@@ -6,19 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 894 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1144 Firearms/purchase & transfer
+#### 894 👍 - Pro
+Testifying:
+* Barbara Serrano
+* 💵Jordan Waits
 * Judy Wallace
 * Karyn Brownson
-* 💵Jordan Waits
-* Barbara Serrano
-* Tahana Salvadalena
 * Dr. Cassandra Crifasi
 * Gwen Loosmore
+* Tahana Salvadalena
+* Barbara Culp
 * Christian Heyne
 * Jan Weisel
-* Barbara Culp
 * Matt Vadnal
 * Kristen Ellingboe
 * Chelsey Wright
@@ -31,19 +32,19 @@
 * Liddy Ballard - Brady United
 * Joe Kunzler
 
-### 1660 👎 - Con
-#### Testifying
+#### 1660 👎 - Con
+Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America
 * Eric Pratt - America
 * Andrew Mesojednik - myself
+* Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association
 * Juan Rodriguez
-* Ronald Lorimer
+* Laurie Layne
 * Michael McKinley
 * Michael McKinley
 * Chris Giles
-* Laurie Layne
 * Shelly Quintana
 * Benjamin  Quintana
 * Micah Zeitz-Chua
@@ -51,4 +52,4 @@
 * William Thomas
 * William Thomas
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

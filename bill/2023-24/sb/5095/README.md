@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 42 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 10:30 AM - Health & Long Term Care (HLTC): SB 5095 Parks/health & wellness
+#### 42 👍 - Pro
+Testifying:
 * Hunter George - Metro Parks Tacoma
 * Robert Stevens - Molina Health Care
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,20 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 9 👍 - Pro
-#### Testifying
-* Mindy Chumbley - WA Collectors Assn
-* Andrew Roskam - RMAI
-* Martin Lynch - Financial Counseling Assn of America
+## Meetings
+### Fri 01/20 08:00 AM - Consumer Protection & Business (CPB): HB 1311 Credit repair services
+#### 9 👍 - Pro
+Testifying:
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 * 💵Kelsi Hamilton - [Washington Collectors Association](/org/washington_collectors_association/)
+* Andrew Roskam - RMAI
+* Martin Lynch - Financial Counseling Assn of America
+* Mindy Chumbley - WA Collectors Assn
 
-### 4 👎 - Con
-#### Testifying
-* Melissa  Gombosky  - Progrexion
+#### 4 👎 - Con
+Testifying:
 * Christian  Caballero  - Lexington Law
+* Melissa  Gombosky  - Progrexion
 * Pastor Andre Chapple - African American Empowerment Coalition
 * Michael  Claunch  - American Association of Consumer Credit Professionals
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

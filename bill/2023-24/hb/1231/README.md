@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 28 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1231 Site readiness grants
+#### 28 👍 - Pro
+Testifying:
 * Jennifer Wray-Keene - Port of Woodland
 * Suzanne E Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * Randy Hayden - [Port of Pasco](/org/port_of_pasco/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * Robert Duff
 * Janea Stark - CERB - Community Economic Revitalization Board

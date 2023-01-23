@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1081 Derelict vessel appeals
+#### 5 👍 - Pro
+Testifying:
 * Dominga Soliz - Environmental & Land Use Hearings Office
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

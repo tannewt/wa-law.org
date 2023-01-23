@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 14 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1204 Family connections program
+#### 14 👍 - Pro
+Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Katie  Biron - Amara
 * Nicole Mazen - Amara
-* Leroy Pascubillo - Amara
 * Amy Jacobsen
+* Leroy Pascubillo - Amara
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,17 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Labor & Commerce (LC): SB 5424 Flexible work/peace officers
+#### 5 👍 - Pro
+Testifying:
 * Sue Rahr
 * James  Schrimpsher - Washington State Fraternal Order of Police
 * Michelle Bennett - Edmond Police Department
 * Monica Alexander - CJTC
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs

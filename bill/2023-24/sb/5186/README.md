@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 6 👍 - Pro
+## Meetings
+### Mon 01/16 10:30 AM - Labor & Commerce (LC): SB 5186 Contracting/discrimination
+#### 6 👍 - Pro
 
-### 12 👎 - Con
+#### 12 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)

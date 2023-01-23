@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Environment, Energy & Technology (ENET): SB 5166 Cooperative finance org. B&O
+#### 5 👍 - Pro
+Testifying:
 * Paul Griffin - Washington Rural Electric Cooperative Association
 * 💵Troy Berglund - [Benton Rural Electric Association](/org/benton_rural_electric_association/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

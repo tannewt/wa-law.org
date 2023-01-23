@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 467 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 04:00 PM - Ways & Means (WM): SB 5249 Working families' tax credit
+#### 467 👍 - Pro
+Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Cynthia Stewart - League of Women Voters of WA
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 * 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
-* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

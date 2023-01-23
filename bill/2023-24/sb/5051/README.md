@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5051 Dissolution/doc. language
+#### 0 👍 - Pro
 
-### 2 👎 - Con
-#### Testifying
+#### 2 👎 - Con
+Testifying:
 * Judge Samuel  Chung  - Superior Court Judges' Association
 * Rachael DelVillar  - King County Superior Court
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

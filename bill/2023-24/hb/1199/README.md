@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 49 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Housing (HOUS): HB 1199 Child care/communities
+#### 49 👍 - Pro
+Testifying:
 * Laura  Fernando - SEIU 925 child care provider
 * Laura Pavlov
 * 💵Erin Haick - SEIU 925
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * 💵Krystelle Purkey - Washington State Chapter of Community Association Institute

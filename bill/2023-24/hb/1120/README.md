@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 1120 Annuity transactions
+#### 4 👍 - Pro
+Testifying:
 * Michael Walker - Office of the Insurance Commissioner
 * John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 * Alex Collins - NAIFA - National Association of Insurance and Financial Advisors
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

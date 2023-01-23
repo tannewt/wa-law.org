@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1226 Smelt, crawfish, and carp
+#### 5 👍 - Pro
+Testifying:
 * Laura Heironimus - WDFW
 * Tom McBride - WDFW
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

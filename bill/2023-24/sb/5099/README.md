@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 13 👍 - Pro
-#### Testifying
-* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+## Meetings
+### Tue 01/17 04:00 PM - Ways & Means (WM): SB 5099 Estate tax/extraordinary rev
+#### 13 👍 - Pro
+Testifying:
 * 💵Diana Stadden - The Arc of WA State
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

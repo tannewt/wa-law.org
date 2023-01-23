@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Mon 01/09 01:30 PM - Environment & Energy (ENVI): HB 1047 Cosmetic product chemicals
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

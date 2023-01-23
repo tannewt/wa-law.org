@@ -6,35 +6,36 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 331 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Health Care & Wellness (HCW): HB 1222 Hearing instruments coverage
+#### 331 👍 - Pro
+Testifying:
 * Cynthia Stewart - Hearing Loss Association - WA
 * Jill  Bujnevicie  - Let Washington Kids Hear
 * Doug  Baker - Pacific NW AG Bell Association for the Deaf and Hard of Hearing
-* Julia Fitts
 * Douglas Sladen
 * Hollie Sandlin - Hollie Sandlin MD
 * Christine Griffin
 * Cheryl Perazzoli - Hearing loss Association of America-Washington State
 * Michelle Pearl
+* Julia Fitts
 * Emily Wicks
 * Jane Beyer - Office of the Insurance Commissioner
-* Laura Gramer - Individual/family
 * David Dupree
+* Laura Gramer - Individual/family
 * August Kotovic
 * Rebecca Kolsky
 * Ruby Kotovic
-* Shanna Porter
 * Chad Ruffin - Chad Ruffin, MD
 * Christina  Aguirre-Slater
 * Davis Bean
 * Norma Almli
 * Cassidy Bean
 * Valeri SEVIEUX
+* Shanna Porter
 
-### 2 👎 - Con
-#### Testifying
+#### 2 👎 - Con
+Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

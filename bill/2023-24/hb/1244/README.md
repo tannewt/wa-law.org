@@ -6,9 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 68 👍 - Pro
+## Meetings
+### Wed 01/25 04:00 PM - Appropriations (APP): HB 1244 Enrichment levy authority
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=4)
 
-### 0 👎 - Con
+#### 73 👍 - Pro
 
-### 0 ❓ - Other
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

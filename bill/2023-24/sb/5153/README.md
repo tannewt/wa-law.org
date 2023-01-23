@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
+## Meetings
+### Tue 01/17 01:30 PM - State Government & Elections (SGE): SB 5153 Future voters/records
+#### 4 👍 - Pro
 
-### 15 👎 - Con
+#### 15 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

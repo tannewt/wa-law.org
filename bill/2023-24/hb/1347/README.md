@@ -6,16 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1347 Comm.-based health assess.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149521&caId=20653&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149521&caId=20653&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149521&caId=20653&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149521&caId=20653&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
 * Jill Denny - Physicians for Social Responsibility
 
-### 2 👎 - Con
-#### Testifying
-* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+#### 3 👎 - Con
+Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-### 1 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * john Worthington

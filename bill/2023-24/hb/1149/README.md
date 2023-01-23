@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1149 Housing/capital expenditures
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

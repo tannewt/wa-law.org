@@ -6,40 +6,41 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 764 👍 - Pro
-#### Testifying
-* Jolayne Houtz
-* Hector Martinez
+## Meetings
+### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1002 Hazing penalty
+#### 764 👍 - Pro
+Testifying:
 * Kathleen Wiant
 * Charlie Gartenberg
 * Elmer Martinez
+* Jolayne Houtz
 * Robert Embrey
-* Yesica Velez
-* BEATRIZ EUGENIA RUIZ CASTILLO
-* Jorge Eduardo  González Ruiz 
-* ENRIQUE MARTINEZ
-* José Roberto Patlán Islas 
-* ENRIQUE MARTINEZ
-* christy bear
-* Jim Piazza
+* Hector Martinez
 * Denis Tracy - Whitman County Prosecuting Attorney
 * María  Martinez
 * Sid Thiagarajan
 * Gary Jenkins - Pullman Police Chief (Ret.)
 * Diego  Martinez 
 * Diego Moroni  Martinez Rivera 
-* Ivan Olin
-* Anusha Silla
+* Yesica Velez
+* BEATRIZ EUGENIA RUIZ CASTILLO
 * Beatriz Eugenia Ruiz Castillo
+* Jorge Eduardo  González Ruiz 
+* ENRIQUE MARTINEZ
 * Enrique Martinez
+* José Roberto Patlán Islas 
+* ENRIQUE MARTINEZ
+* christy bear
+* Jim Piazza
+* Anusha Silla
+* Ivan Olin
 * Gerardo Adrián  Martínez Loza 
 
-### 4 👎 - Con
-#### Testifying
+#### 4 👎 - Con
+Testifying:
 * Paz Mercader
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)

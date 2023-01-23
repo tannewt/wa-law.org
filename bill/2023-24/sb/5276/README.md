@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Transportation (TRAN): SB 5276 Capital vessel rep. account
+#### 4 👍 - Pro
+Testifying:
 * Jason Richter - Washington State Treasurer
 * Jason Richter - Washington State Treasurer
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

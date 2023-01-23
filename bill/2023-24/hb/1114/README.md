@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 54 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1114 Sentencing comm'n members
+#### 54 👍 - Pro
+Testifying:
 * J Wesley Saint Clair
 * Jim Chambers
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

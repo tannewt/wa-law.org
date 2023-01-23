@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 11 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5221 Opportunity scholarship
+#### 11 👍 - Pro
+Testifying:
 * Jessica Monger - [Washington State Opportunity Scholarship](/org/washington_state_opportunity_scholarship/)
 
-### 6 👎 - Con
+#### 6 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

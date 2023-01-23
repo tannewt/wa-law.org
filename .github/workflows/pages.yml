@@ -45,6 +45,7 @@ jobs:
           python tools/render.py senate
           python tools/render.py house
           python tools/render.py person
+          python tools/render.py org
           python tools/render.py README.md
 
       - name: Deploy

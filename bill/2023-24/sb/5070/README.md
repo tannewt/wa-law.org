@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 8 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Human Services (HS): SB 5070 Nonfatal strangulation
+#### 8 👍 - Pro
+Testifying:
 * Nadia Van Atter - Crystal Judson Family Justice Center
 * Coreen Schnepf - Pierce County Prosecutor's Office
 * Nadia Van Atter - Pierce County Family Justice Center
 * David Martin - KCPAO
 * Tonya Braun - KCPAO
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

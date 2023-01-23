@@ -7,13 +7,14 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5210 Annuity transactions
+#### 5 👍 - Pro
+Testifying:
 * Alex Collins - NAIFA - National Association of Insurance and Financial Advisors
 * Michael Walker - Office of the Insurance Commissioner
 * John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

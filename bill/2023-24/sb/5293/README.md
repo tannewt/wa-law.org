@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
-#### Testifying
-* K.D.  Chapman-See - Office of Financial Management
+## Meetings
+### Thu 01/19 04:00 PM - Ways & Means (WM): SB 5293 Accounts
+#### 4 👍 - Pro
+Testifying:
 * Jamie Langford - Office of Financial Management
+* K.D.  Chapman-See - Office of Financial Management
 * Jim Baumgart - Washington Military Department
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

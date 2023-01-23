@@ -6,15 +6,30 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 6 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/24 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5289 Impact fees/law enforcement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149833&caId=20536&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149833&caId=20536&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149833&caId=20536&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149833&caId=20536&tId=4)
+
+#### 3 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+
+#### 0 ❓ - Other
+
+### Thu 01/19 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5289 Impact fees/law enforcement
+#### 3 👍 - Pro
+Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kevin Turner - Ferndale Police Department
 
-### 15 👎 - Con
-#### Testifying
+#### 13 👎 - Con
+Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

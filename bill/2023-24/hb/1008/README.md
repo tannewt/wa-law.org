@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 19 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 04:00 PM - Appropriations (APP): HB 1008 Plan 2 members/insurance
+#### 19 👍 - Pro
+Testifying:
 * 💵Fred Yancey - Washington State School Retirees’ Assn.
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * David Iseminger - WA State Health Care Authority

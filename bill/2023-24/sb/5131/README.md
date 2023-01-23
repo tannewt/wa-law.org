@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 85 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Human Services (HS): SB 5131 Commissary funds
+#### 85 👍 - Pro
+Testifying:
 * Sarah Leon
 * Loren Taylor
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 2 ❓ - Other
+#### 2 ❓ - Other

@@ -6,18 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 26 👍 - Pro
-#### Testifying
-* 💵Zosia Stanley - Washington State Hospital Association
-* Sommer Kleweno-Walley  - University of Washington Harborview Medical Center
+## Meetings
+### Tue 01/17 08:00 AM - Health & Long Term Care (HLTC): SB 5103 Medicaid patients/discharge
+#### 26 👍 - Pro
+Testifying:
 * June Altaras - MultiCare Health System
+* Sommer Kleweno-Walley  - University of Washington Harborview Medical Center
+* 💵Zosia Stanley - Washington State Hospital Association
 * Jody Disney - LWVWA
 
-### 3 👎 - Con
-#### Testifying
+#### 3 👎 - Con
+Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Betty Schwieterman - Developmental Disabilities Ombuds

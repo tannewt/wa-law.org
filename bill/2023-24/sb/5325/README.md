@@ -6,19 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 19 👍 - Pro
-#### Testifying
-* 💵Seth Worley - Plumbers and Steamfitters UA Local 598
-* Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
+## Meetings
+### Wed 01/18 08:00 AM - Environment, Energy & Technology (ENET): SB 5325 Clean fuel/public transport.
+#### 19 👍 - Pro
+Testifying:
 * Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
 * 💵Dave Warren - Twin Transit and WA Green Hydrogen Alliance
 * 💵Hanna Jones - [Pierce Transit](/org/pierce_transit/)
+* 💵Seth Worley - Plumbers and Steamfitters UA Local 598
+* Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
 * Martin Gibbins - League of Women Voters of WA
 * John Clauson - [Kitsap Transit](/org/kitsap_transit/)
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

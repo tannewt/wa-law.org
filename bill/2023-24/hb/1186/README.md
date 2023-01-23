@@ -6,19 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 61 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1186 Child welfare housing
+#### 61 👍 - Pro
+Testifying:
 * Nicholas Carr - Association of Washington Housing Authorities (AWHA)
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Sarah Kendall - WA State Coalition Against Domestic Violence
 * Janet Hedgepath - League of women Voters Washington
 * Michael Mirra - Admin Office of the Courts Steering Committee for Family Treatment Courts
-* Shane Silverthorn - Yakima County Superior Court
 * Carol Mitchell - Institute for Black Justice
-* Kelly Warner-King - Manager of Family and Youth Justice Programs, Admin Office of the Courts
 * Heather Cantamessa - Director of Family Impact, Children's Home Society of WA
+* Kelly Warner-King - Manager of Family and Youth Justice Programs, Admin Office of the Courts
+* Shane Silverthorn - Yakima County Superior Court
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Tue 01/10 10:30 AM - Law & Justice (LAW): SB 5128 Jury diversity
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

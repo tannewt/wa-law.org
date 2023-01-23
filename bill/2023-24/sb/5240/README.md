@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 16 👍 - Pro
-#### Testifying
-* Joshua  Sundt - Office of Administrative Hearings
+## Meetings
+### Tue 01/17 10:30 AM - Labor & Commerce (LC): SB 5240 Unemployment ins. appeals
+#### 16 👍 - Pro
+Testifying:
 * Caitlyn Jekel - Employment Security Department
+* Joshua  Sundt - Office of Administrative Hearings
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 10 👍 - Pro
-#### Testifying
-* Pam Cool - LCFD4 Fire Commissioner 3
+## Meetings
+### Thu 01/19 01:30 PM - Capital Budget (CB): HB 1014 Fire protection projects
+#### 10 👍 - Pro
+Testifying:
 * Andrew Shaffran - WA. St. Fire Fighters' Association (volunteers)
+* Pam Cool - LCFD4 Fire Commissioner 3
 * ryan spiller - Wa fire commissioners
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

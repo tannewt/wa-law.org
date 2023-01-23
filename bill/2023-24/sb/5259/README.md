@@ -6,11 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 1 👍 - Pro
+## Meetings
+### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5259 Product theft
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=4)
 
-### 0 👎 - Con
+#### 1 👍 - Pro
 
-### 1 ❓ - Other
-#### Testifying
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
 * 💵Bruce Beckett - Wa. Retail Association

@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 16 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1165 Intimate images/civil remedy
+#### 16 👍 - Pro
+Testifying:
 * Kaitlin Wolff - Uniform Law Commission
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

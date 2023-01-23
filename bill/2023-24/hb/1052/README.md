@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 13 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Finance (FIN): HB 1052 Nonprofit housing/tax ex.
+#### 13 👍 - Pro
+Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Cindy Wolf - San Juan County Council
 * Lisa Byers - OPAL Community Land Trust
@@ -16,6 +17,6 @@
 * Carol Gellner
 * Cynthia Stewart - League of Women Voters of WA
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

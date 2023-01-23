@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 8 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Early Learning & K-12 Education (EDU): SB 5031 Special ed safety net awards
+#### 8 👍 - Pro
+Testifying:
 * Tim  Merlino  - ESD 112
 * Sue Ann Bube - [School Alliance](/org/school_alliance/)
 * Tania May - Office of Superintendent of Public Instruction
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Mark Stuart - Lake Washington School District

@@ -6,19 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 140 👍 - Pro
-#### Testifying
-* Samantha Fogg - Seattle Council PTSA
+## Meetings
+### Mon 01/23 01:30 PM - Education (ED): HB 1239 Educator ethics & complaints
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=4)
 
-### 345 👎 - Con
-#### Testifying
-* Julie Barrett - Conservative Ladies of Washington
+#### 150 👍 - Pro
+Testifying:
+* Samantha Fogg - Seattle Council PTSA
+* Jana Parker - 2500 SW Chicago Ct
+
+#### 352 👎 - Con
+Testifying:
 * Rachel Buck
+* Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne
 * Gary Clancey
 * PAT STOWE - personal & business
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Liv Finne - Washington Policy Center

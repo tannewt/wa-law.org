@@ -6,26 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 890 👍 - Pro
-#### Testifying
-* 💵Albert Sardinas - FMSGS / WBBA
-* Breean Beggs - Spokane City Council
+## Meetings
+### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1178 Firearms/local government
+#### 890 👍 - Pro
+Testifying:
 * Ashley Brooks
+* Breean Beggs - Spokane City Council
 * Craig  Reynolds
 * Monisha Harrell - [City of Seattle](/org/city_of_seattle/)
-* Breean Beggs
 * Ashley Brooks
+* Breean Beggs
 * Craig Reynolds
 * Monisha Harrell - [City of Seattle](/org/city_of_seattle/)
-* Liz Hjelmseth
 * Karyn Brownson - King County Public Health
+* Liz Hjelmseth
 * Neal Black - Kirkland City Council
+* Brad Blackburn
 * Jennifer Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
 * 💵Stephen Paolini - ADL
-* Brad Blackburn
-* Paula Barnes
 * Ian Taylor
+* Paula Barnes
 * Kristen Ellingboe
 * Chelsey Wright
 * 💵Tremayne Edwards
@@ -34,46 +34,47 @@
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk
+* 💵Albert Sardinas - FMSGS / WBBA
 * Wendy Lendrum
 
-### 2341 👎 - Con
-#### Testifying
-* Julie Barrett - Conservative Ladies of Washington
+#### 2341 👎 - Con
+Testifying:
 * Eric Pratt - America
 * Eric Pratt - America
 * Andrew Mesojednik - myself
 * Eric Pratt - America
 * Brian Kupfer - None
-* Andrew Grussling
+* Julie Barrett - Conservative Ladies of Washington
+* Laurel Khan
+* Fernando Orozco
+* Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association
 * Juan  Rodriguez 
 * Juan Rodriguez
 * Sarah Trattner
+* Andrew Grussling
 * Laurel Khan
-* Laurel Khan
-* Fernando Orozco
-* Ronald Lorimer
-* Michael McKinley
 * Laurie Layne
+* Michael McKinley
 * Al Thomas
 * Jeffrey Naranjo - I am not testifying on behalf of an organization.
-* Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers (WACDL)
-* Clayton Braun
 * Micah Zeitz-Chua
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
-* Dave Workman - Citizens Committee for the RIght to Keep and Bear Arms
 * Brian Keelan - WA State Rifle and Pistol Association
+* Dave Workman - Citizens Committee for the RIght to Keep and Bear Arms
+* Aaron Lee
 * Jennifer Belmore-Tamiez
 * John Nowels - [Spokane County](/org/spokane_county/)
-* Aaron Lee
 * Ben Curtain
 * Nicholas Runje
 * Orion Webster
+* Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers (WACDL)
+* Clayton Braun
 * Travis  Miller
 * Fred Baerbalck
 * Luis Berbesi
 * William Thomas
 
-### 5 ❓ - Other
-#### Testifying
+#### 5 ❓ - Other
+Testifying:
 * Michael Scribner

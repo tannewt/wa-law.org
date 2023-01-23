@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 18 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Health Care & Wellness (HCW): HB 1079 Whole genome sequencing
+#### 18 👍 - Pro
+Testifying:
 * Kari Cunningham-Rosvik
 * Carolina Sommer - NW Rare Disease Coalition
 * Jessie Conta - NW Rare Disease Coalition
 * Sarah Tompkins - NW Rare Disease Coalition
 
-### 4 👎 - Con
-#### Testifying
+#### 4 👎 - Con
+Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

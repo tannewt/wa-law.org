@@ -6,17 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 24 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1197 Workers' comp. providers
+#### 24 👍 - Pro
+Testifying:
 * Tammy Fellin - Labor & Industries
 * Beth Murphy
 
-### 3 👎 - Con
-#### Testifying
+#### 3 👎 - Con
+Testifying:
 * MD MPH, Breck Lebegue - Washington State Psychiatric Association (WSPA)
 
-### 5 ❓ - Other
-#### Testifying
-* 💵Patrick Connor - NFIB
+#### 5 ❓ - Other
+Testifying:
 * 💵Bob Cooper - National Association of Social Workers WA Chapter
+* 💵Patrick Connor - NFIB

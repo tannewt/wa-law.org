@@ -6,9 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
+## Meetings
+### Fri 01/27 08:00 AM - State Government & Elections (SGE): SB 5432 Lottery players/PRA
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149701&caId=20607&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149701&caId=20607&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149701&caId=20607&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149701&caId=20607&tId=4)
 
-### 0 👎 - Con
+#### 2 👍 - Pro
 
-### 0 ❓ - Other
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

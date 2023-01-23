@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 7 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Consumer Protection & Business (CPB): HB 1208 Pet insurance
+#### 7 👍 - Pro
+Testifying:
 * David Forte - Office of the Insurance Commissioner
 * Gavin Friedman - [Trupanion, Inc.](/org/trupanion,_inc./)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

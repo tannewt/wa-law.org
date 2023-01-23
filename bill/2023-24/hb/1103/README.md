@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 04:00 PM - Transportation (TR): HB 1103 Capital vessel rep. account
+#### 3 👍 - Pro
+Testifying:
 * 💵Matt Zuvich - Office of the State Treasurer
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -7,9 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5006 Waiver of firearm rights
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

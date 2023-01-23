@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5090 Torts
+#### 2 👍 - Pro
+Testifying:
 * Joel Ard
 * David DeWolf
 
-### 4 👎 - Con
-#### Testifying
+#### 4 👎 - Con
+Testifying:
 * Larry  Shannon - Washington State Association for Justice
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Chris Love - Washington State Association for Justice

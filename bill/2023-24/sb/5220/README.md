@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 8 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5220 Mutual insurer reorg.
+#### 8 👍 - Pro
+Testifying:
 * Brian Allen - Grange Insurance Assn
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

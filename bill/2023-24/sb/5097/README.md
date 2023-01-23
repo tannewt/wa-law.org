@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 32 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 10:30 AM - Health & Long Term Care (HLTC): SB 5097 Rare diseases adv. council
+#### 32 👍 - Pro
+Testifying:
 * Carolina Sommer - NW Rare Disease Coalition
 * Lindsey Topping-Scheutz - NW Rare Disease Coalition
 * Mary McDirmid - NW Rare Disease Coalition
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

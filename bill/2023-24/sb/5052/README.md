@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5052 Leasehold tax/arenas, etc.
+#### 5 👍 - Pro
+Testifying:
 * 💵Brad Boswell - Seattle Kraken/Climate Pledge Arena
 * Eric Jaeger - Climate Pledge Arena, SVP of Finance
-* Hewan Teshome
 * Eric Pettigrew - Seattle Kraken, VP of Gov Relations and Outreach
+* Hewan Teshome
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)

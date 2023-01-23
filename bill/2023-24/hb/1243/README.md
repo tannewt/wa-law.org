@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
+## Meetings
+### Tue 01/17 10:30 AM - Local Government (LG): HB 1243 Muni. airport commissions
+#### 2 👍 - Pro
 
-### 12 👎 - Con
-#### Testifying
-* Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
+#### 12 👎 - Con
+Testifying:
 * Ursula Euler
 * Bennett Butters
+* Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
 * Timothy OBrien
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

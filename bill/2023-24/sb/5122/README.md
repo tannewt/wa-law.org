@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 18 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Health & Long Term Care (HLTC): SB 5122 Ambulance transport fund
+#### 18 👍 - Pro
+Testifying:
+* Joey  Rodrigues - [Olympic Ambulance](/org/olympic_ambulance/)
 * Mike Battis  - [Washington Ambulance Association](/org/washington_ambulance_association/)
 * Rocco Roncarati - American Medical REsponse
-* Joey  Rodrigues - [Olympic Ambulance](/org/olympic_ambulance/)
 * Joey  Rodriguez - [Olympic Ambulance](/org/olympic_ambulance/)
 * 💵Mark Streuli - [Olympic Ambulance](/org/olympic_ambulance/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

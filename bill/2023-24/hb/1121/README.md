@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1121 Uniform child abduction act
+#### 2 👍 - Pro
+Testifying:
 * Libby Snyder - Uniform Law Commission
 * Daton Lynch - National Center for Missing & Exploited Children
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 253 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Local Government (LG): HB 1135 Impact fee use
+#### 253 👍 - Pro
+Testifying:
 * Cynthia Stewart - League of Women Voters of WA
-* 💵Briahna Murray - City of Redmond, Lobbyist
-* Angela Birney - Mayor of the City of Redmond
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Angela Birney - Mayor of the City of Redmond
+* 💵Briahna Murray - City of Redmond, Lobbyist
 
-### 15 👎 - Con
-#### Testifying
+#### 15 👎 - Con
+Testifying:
 * Biil Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

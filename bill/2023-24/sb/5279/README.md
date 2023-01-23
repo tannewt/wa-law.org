@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 8 👍 - Pro
+## Meetings
+### Fri 01/20 10:30 AM - Housing (HSG): SB 5279 Housing equity property
+#### 8 👍 - Pro
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

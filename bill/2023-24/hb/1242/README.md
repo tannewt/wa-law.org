@@ -6,17 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 7 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Health Care & Wellness (HCW): HB 1242 Behavioral health work group
+#### 7 👍 - Pro
+Testifying:
 * Marc Stern
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Steven Pearce - Citizens Commission on Human Rights
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * Katie Kolan - Washington State Hospital Association (WSHA)

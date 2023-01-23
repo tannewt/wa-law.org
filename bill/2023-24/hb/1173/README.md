@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 31 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Environment & Energy (ENVI): HB 1173 Light pollution
+#### 31 👍 - Pro
+Testifying:
 * Paul Krupin
 * James Conca - UFA Ventures, Inc.
 * James Conca - UFA Ventures, Inc.
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

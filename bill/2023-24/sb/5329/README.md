@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
+## Meetings
+### Wed 01/18 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5329 Higher ed. fees/campuses
+#### 3 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * Ruben Flores - Council Of Presidents
 * Arlen Harris - State Board for Community & Technical Colleges

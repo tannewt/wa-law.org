@@ -7,17 +7,18 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 1 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5205 Parenting plan limitations
+#### 1 👍 - Pro
+Testifying:
 * Judge Janet  Helson - Superior Court Judges' Association
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 6 ❓ - Other
-#### Testifying
-* Angel Cruzado - -
+#### 6 ❓ - Other
+Testifying:
 * Stephen Hicks - National Parents Organization
 * Stephen Hicks - National Parents Organization
 * Stephen Hicks - National Parents Organization
 * Predrag Tosic
+* Angel Cruzado - -

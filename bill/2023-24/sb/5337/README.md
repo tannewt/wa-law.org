@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Housing (HSG): SB 5337 Property sale and leaseback
+#### 3 👍 - Pro
+Testifying:
 * Mary Hull-Drury - Washington Realtors
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)

@@ -6,25 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 261 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Environment, Energy & Technology (ENET): SB 5093 Climate response strategy
+#### 261 👍 - Pro
+Testifying:
 * Martin Gibbins - League of Women Voters of WA
 * Martin Gibbins - League of Women Voters of WA
 * Joe Crumbley - CORA
 * Melissa Spear  - [Tilth Alliance](/org/tilth_alliance/)
 * Jennifer Hennessey - Washington State Department of Ecology
-* Rad Cunningham - Washington State Department of Health
 * Jim Baumgart
+* Rad Cunningham - Washington State Department of Health
 * Crystal Raymond - University of Washington, Climate Impacts Group
 * Jim Baumgart - Washington Military Department
 
-### 9 👎 - Con
-#### Testifying
+#### 9 👎 - Con
+Testifying:
 * john Worthington
 * john Worthington - AAMC
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Brian Considine - Washington Department of Natural Resources

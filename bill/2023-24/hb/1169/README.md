@@ -6,26 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 176 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1169 Legal financial obligations
+#### 176 👍 - Pro
+Testifying:
 * Nick Jeffreys - Urban League of Metropolitan Seattle
 * 💵Evan Walker - Washington State Budget and Policy Center
-* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Teirenney Fincher - Urban League of Metropolitan Seattle
+* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * David Keenan - Minority and Justice Commission
-* Anita Khandelwal - King County Department of Public Defense
-* Liz  Trautman - Stand for Children Washington/Debt Free Youth Justice coalition
-* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * Karen Peacey
 * 💵Brooke Davies - [Justice Action Network](/org/justice_action_network/)
 * Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
 * Antonio Wheat
+* Anita Khandelwal - King County Department of Public Defense
+* Liz  Trautman - Stand for Children Washington/Debt Free Youth Justice coalition
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * Miranda  Calmjoy - Washington State Board of Health
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

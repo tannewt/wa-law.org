@@ -7,27 +7,28 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 31 👍 - Pro
-#### Testifying
-* Amy Freedheim
+## Meetings
+### Mon 01/16 10:30 AM - Law & Justice (LAW): SB 5002 Alcohol concentration/DUI
+#### 31 👍 - Pro
+Testifying:
 * Dennis Maughan - Mothers Against Drunk Driving
-* Jane Terry - [National Safety Council](/org/national_safety_council/)
-* Stephanie Shaw - Safety Advocate on behalf of the National Transportation Safety Board (NTSB)
+* Amy Freedheim
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention
+* Debbie Driver - Office of the Governor
 * Mark McKechnie - Washington Traffic Safety Commission
 * Neil Weaver - Washington State Patrol
-* Debbie Driver - Office of the Governor
 * Shelly  Baldwin - Washington Traffic Safety Commission
+* Jane Terry - [National Safety Council](/org/national_safety_council/)
+* Stephanie Shaw - Safety Advocate on behalf of the National Transportation Safety Board (NTSB)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Tony  Gomez
 * 💵Sheri Call - Washington Trucking Associations
 
-### 20 👎 - Con
-#### Testifying
+#### 20 👎 - Con
+Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Lindsay Herendeen - State Board of Health

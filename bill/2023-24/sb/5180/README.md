@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 19 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Early Learning & K-12 Education (EDU): SB 5180 Teacher mobility compact
+#### 19 👍 - Pro
+Testifying:
 * Tammie Perreault
 * Coryn Davis
 * Tom Davis - Veterans Legislative Coalition (VLC)
@@ -17,10 +18,10 @@
 * Adam Diersing - The Council of State Governments
 * 💵Shelly Helder
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 4 ❓ - Other
-#### Testifying
+#### 4 ❓ - Other
+Testifying:
 * Dan Logsdon - The Council of State Governments
 * Jimmy Adams - National Association of State Directors of Teacher Education and Certification (NASDTEC)
 * 💵Bob Cooper - WA Association of Colleges for Teacher Education

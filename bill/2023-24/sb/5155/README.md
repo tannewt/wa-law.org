@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 1 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Law & Justice (LAW): SB 5155 Court of appeals
+#### 1 👍 - Pro
+Testifying:
 * Bill Bowman - Washington Court of Appeals, Division One
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

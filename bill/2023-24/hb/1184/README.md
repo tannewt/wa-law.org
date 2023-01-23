@@ -6,24 +6,25 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 11 👍 - Pro
-#### Testifying
-* Scott  Hazlegrove - WA State Auto Dealers Association
+## Meetings
+### Wed 01/18 01:30 PM - Consumer Protection & Business (CPB): HB 1184 Used vehicle warranties
+#### 11 👍 - Pro
+Testifying:
 * Matthew Phillips - Car Pros
+* Scott  Hazlegrove - WA State Auto Dealers Association
 * Nina  Martinez - Latino Civic Alliance
-* Joyce Bruce - WA State Attorney General's Office
 * Aaron Fickes - WA State Attorney General's Office
+* Joyce Bruce - WA State Attorney General's Office
 * Waldo Waldron-Ramsey - NAACP Alaska Oregon Washington State-Area Conference
 
-### 35 👎 - Con
-#### Testifying
+#### 35 👎 - Con
+Testifying:
 * Scott Musser
 * WASIM AZZAM - WSIADA
 * BADIE DARWAZEH - SEATTLE AUTO HAUS LLC
 * Emil Scarsella - WSIADA
 * Greg Mahugh - McConkey Auction Group / DAA Northwest / DAA Seattle
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

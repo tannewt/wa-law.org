@@ -6,11 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
+## Meetings
+### Thu 01/26 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5482 Margin tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=4)
 
-### 0 👎 - Con
+#### 5 👍 - Pro
 
-### 1 ❓ - Other
-#### Testifying
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

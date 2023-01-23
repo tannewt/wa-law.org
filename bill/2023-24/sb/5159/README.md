@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 18 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5159 Shoreline program review
+#### 18 👍 - Pro
+Testifying:
 * Tim Gates - WA Department of Ecology
-* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

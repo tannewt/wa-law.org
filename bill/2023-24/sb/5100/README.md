@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 11 👍 - Pro
-#### Testifying
-* Kimberly Bowles - Not Putting on a Shirt
+## Meetings
+### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5100 Breast & chest wall surgery
+#### 11 👍 - Pro
+Testifying:
 * Heather MacMillan
+* Kimberly Bowles - Not Putting on a Shirt
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Alex Wehinger - WA State Medical Association (WSMA)

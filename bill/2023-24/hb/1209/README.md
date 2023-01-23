@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 10 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1209 Controlled substance equip.
+#### 10 👍 - Pro
+Testifying:
 * Dave Hayes - WSNIA-Wa. St. Narcotics Investigators
-* Taylor Madison - Hope Soldiers
 * Aaron Torrance
 * Representative Griffey - Co-Sponsor
+* Taylor Madison - Hope Soldiers
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

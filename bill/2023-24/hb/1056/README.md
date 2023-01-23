@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 25 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 04:00 PM - Appropriations (APP): HB 1056 Postretirement employment
+#### 25 👍 - Pro
+Testifying:
 * Craig Homnick
 * 💵Fred Yancey - Washington State School Retirees’s Assn.
 * Shawn Merchant - Department of Retirement Systems
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

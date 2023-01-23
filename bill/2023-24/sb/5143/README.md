@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 6 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5143 Pesticide registration comm.
+#### 6 👍 - Pro
+Testifying:
 * Kelly McLain - Washington State Department of Agriculture
 
-### 10 👎 - Con
+#### 10 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Matthew Blua - Chair - Washington State Commission on Pesticide Registration

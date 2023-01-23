@@ -7,11 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 12 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - State Government & Elections (SGE): SB 5182 Candidate filing
+#### 12 👍 - Pro
+Testifying:
 * Carrie Barnes
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

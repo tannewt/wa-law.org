@@ -6,9 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
+## Meetings
+### Tue 01/24 04:00 PM - Regulated Substances & Gaming (RSG): HB 1344 Low-proof beverages/tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=4)
 
-### 26 👎 - Con
+#### 4 👍 - Pro
 
-### 0 ❓ - Other
+#### 26 👎 - Con
+
+#### 0 ❓ - Other

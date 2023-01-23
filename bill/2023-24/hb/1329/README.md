@@ -6,28 +6,35 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 86 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=4)
+
+#### 88 👍 - Pro
+Testifying:
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
 * Andrea Scott-Murray
-* Rory Paine-Donovan - Attorney General's Office
 * Lisa Gafken - Attorney General's Office
+* Rory Paine-Donovan - Attorney General's Office
 * Claire Richards - Washington Physicians for Social Responsibility
 * 💵Charlee Thompson - NW Energy Coalition
 
-### 1 👎 - Con
-#### Testifying
+#### 2 👎 - Con
+Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-### 11 ❓ - Other
-#### Testifying
+#### 11 ❓ - Other
+Testifying:
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
-* Mendy Droke - Seattle City Light
 * 💵Logan Bahr - Tacoma Power
+* Mendy Droke - Seattle City Light
 * Ryan Collins - Snohomish PUD
-* 💵Christine Brewer - The Avista Corporation
-* Matt  Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
-* 💵Jay Balasbas - PacifiCorp
 * 💵Bill Clarke - WA PUD Association
+* 💵Christine Brewer - The Avista Corporation
+* 💵Jay Balasbas - PacifiCorp
+* Matt  Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)

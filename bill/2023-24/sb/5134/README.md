@@ -6,17 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 65 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Human Services (HS): SB 5134 Reentry services & supports
+#### 65 👍 - Pro
+Testifying:
 * JD BARTON - ORION WATCH COMMUNITY OUTREACH PROGRAMS
 * Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAM
-* Durell Green - Re-entry State Council
-* Pat Seibert-Love - SBCTC
 * Hanan Al-Zubaidy - SBCTC
+* Pat Seibert-Love - SBCTC
+* Durell Green - Re-entry State Council
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Danielle Armbruster - Department of Corrections

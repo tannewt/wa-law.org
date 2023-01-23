@@ -6,16 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 35 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5214 Music therapists
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=4)
+
+#### 37 👍 - Pro
+Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Michael Moran - Music Therapy Task Force-facilitator for virtual panel
-* Megumi Azekawa - TF Co-chair, Puget Sound Music Therapy/Ted Brown Music Outreach
 * Carlene Brown - SPU Prof. of Music, Chair, Music Dept. Director of Music Therapy Program
 * Dorian Delagrange - Swedish Multiple Sclerosis Center patient
 * Eva Marczinko - Swedish Cancer Institute patient
+* Megumi Azekawa - TF Co-chair, Puget Sound Music Therapy/Ted Brown Music Outreach
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -7,12 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 68 👍 - Pro
-#### Testifying
-* 💵Robert Battles - Association of Washington Business (AWB)
+## Meetings
+### Mon 01/16 10:30 AM - Labor & Commerce (LC): SB 5286 Paid leave premiums
+#### 68 👍 - Pro
+Testifying:
 * Joe  Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
+* 💵Robert Battles - Association of Washington Business (AWB)
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

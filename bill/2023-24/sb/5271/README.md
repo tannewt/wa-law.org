@@ -6,11 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 1 👍 - Pro
+## Meetings
+### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5271 DOH facilities/enforcement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149557&caId=20588&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149557&caId=20588&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149557&caId=20588&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149557&caId=20588&tId=4)
 
-### 0 👎 - Con
+#### 1 👍 - Pro
 
-### 1 ❓ - Other
-#### Testifying
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
 * Jenny Arnold - Washington State Pharmacy Association

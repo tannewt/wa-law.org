@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1221 Lottery players/PRA
+#### 5 👍 - Pro
+Testifying:
 * Kristi Weeks - Washington's Lottery
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

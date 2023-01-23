@@ -6,9 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 213 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/25 01:30 PM - Housing (HSG): SB 5190 Middle housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=4)
+
+#### 222 👍 - Pro
+Testifying:
 * Dani Madrone - American Farmland Trust
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Jacob Vigdor - University of Washington faculty
@@ -18,6 +25,6 @@
 * HUgo Garcia - City of Burien Councilmember
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

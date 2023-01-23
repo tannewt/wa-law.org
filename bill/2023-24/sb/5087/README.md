@@ -7,12 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 35 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 10:30 AM - Law & Justice (LAW): SB 5087 Defects and omissions
+#### 35 👍 - Pro
+Testifying:
 * Chalia Stallings-Ala'ilima - WA State Attorney General's Office
 * Brittany Gregory - Board for Judicial Administration
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

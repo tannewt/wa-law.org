@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 19 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 10:30 AM - Housing (HSG): SB 5301 Commerce housing programs
+#### 19 👍 - Pro
+Testifying:
 * Carly Colgan - Habitat for Humanity of Washington State
 * Dave Pringle - Department of Commerce
 * Lisa Vatske - Washington State Housing Finance Commission
 * Marty Miller - Office of Rural & Farmworker Housing
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * MARK SMITH - Housing Consortium of Everett & Snohomish County

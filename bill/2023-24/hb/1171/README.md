@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 04:00 PM - Transportation (TR): HB 1171 Motorcycle safety board
+#### 5 👍 - Pro
+Testifying:
 * Kathy Gill - Chair, Motorcycle Safety Education Advisory Board
 * Larry Walker - ABATE of WA  (Motorcyclists)
 * DOUG BOWERS
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

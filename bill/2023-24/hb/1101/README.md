@@ -7,13 +7,14 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Housing (HOUS): HB 1101 Tenant screening/communities
+#### 3 👍 - Pro
+Testifying:
 * Krystelle  Purkey - Washington State Chapter of Community Association Institute
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Raelene Schifano - HOA Fightclub
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

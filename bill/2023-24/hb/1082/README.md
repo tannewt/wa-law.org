@@ -6,18 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 103 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Consumer Protection & Business (CPB): HB 1082 PT & OT service corporations
+#### 103 👍 - Pro
+Testifying:
 * Ben Boyle - APTA Washington
-* Rachel Herron
 * Kris Sasaki
-* Renae  Lewandowski - Therapeutic Beginnings
+* Rachel Herron
 * Christopher Heistand - Therapeutic Beginnings
 * Renae  Lewandowski - Therapeutic Beginnings
 * Christopher Heistand - Therapeutic Beginnings
 * Maile Mohsenian - Empire Therapy
+* Renae  Lewandowski - Therapeutic Beginnings
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

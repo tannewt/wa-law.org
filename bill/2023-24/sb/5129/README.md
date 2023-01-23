@@ -6,14 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/25 08:00 AM - Environment, Energy & Technology (ENET): SB 5129 Nuclear reactor technology
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
 * Josh Lozano - Energy Northwest - Richland, WA
+* Jesus Mota - Columbia Basin College
 * Josh Lozano - [Energy Northwest](/org/energy_northwest/)
 * Seth  Worley - UA Local 598
-* Jesus Mota - Columbia Basin College
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

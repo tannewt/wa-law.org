@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 337 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - State Government & Elections (SGE): SB 5140 Election security testing
+#### 337 👍 - Pro
+Testifying:
 * Laurie Cannon
 * Jacqueline Necco
 
-### 10 👎 - Con
+#### 10 👎 - Con
 
-### 2 ❓ - Other
+#### 2 ❓ - Other

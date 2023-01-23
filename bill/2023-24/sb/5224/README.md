@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 7 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Housing (HSG): SB 5224 Homelessness services/perf.
+#### 7 👍 - Pro
+Testifying:
 * Sean Swope - County Commissioner
 
-### 7 👎 - Con
+#### 7 👎 - Con
 
-### 5 ❓ - Other
-#### Testifying
-* Tedd Kelleher - Department of Commerce
+#### 5 ❓ - Other
+Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tedd Kelleher - Department of Commerce
 * Arthur West
 * 💵Michele Thomas - Washington Low Income Housing Alliance

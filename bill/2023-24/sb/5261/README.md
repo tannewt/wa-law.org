@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Labor & Commerce (LC): SB 5261 Cemetery authority deadlines
+#### 2 👍 - Pro
+Testifying:
 * John Panesko
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

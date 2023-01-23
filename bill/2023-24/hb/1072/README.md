@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 7 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 04:00 PM - Transportation (TR): HB 1072 Motor vehicle length
+#### 7 👍 - Pro
+Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Brain  Maiden - Maiden Enterprises
 
-### 8 👎 - Con
-#### Testifying
-* Mike  Responte  - Teamsters Local 174
+#### 8 👎 - Con
+Testifying:
 * Chris Porter - Teamsters 174
+* Mike  Responte  - Teamsters Local 174
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

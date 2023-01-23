@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 44 👍 - Pro
-#### Testifying
-* 💵Seth Worley - Plumbers and Steamfitters UA Local 598
+## Meetings
+### Thu 01/19 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5091 Hydrogen fuel cells
+#### 44 👍 - Pro
+Testifying:
 * Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
-* 💵Donny Donovan - IAM 751
+* 💵Seth Worley - Plumbers and Steamfitters UA Local 598
 * Aaron Feaver - WSU / JCDREAM
 * 💵Dave Warren - WA Green Hydrogen Alliance
+* 💵Donny Donovan - IAM 751
 * 💵Troy Nichols - [Phillips 66](/org/phillips_66/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

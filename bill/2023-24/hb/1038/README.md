@@ -6,18 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2398 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1038 Anesthesiologist assistants
+#### 2398 👍 - Pro
+Testifying:
 * Louis Potyondy - MD
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists and Washington State Medical Association
 * Cassie Gabriel - Washington State Society of Anesthesiologists
-* Robert  Hsiung
 * Erik Condon
+* Robert  Hsiung
 * 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
-* Sarah Brown - Certified Anesthesiologist Asst and President of WAAA
 * Grier James - Certified Anesthesiologist Assistant
 * Nicole Cabell - Certified Anesthesiologist Assistant
+* Sarah Brown - Certified Anesthesiologist Asst and President of WAAA
 * Micah Matthews - Washington Medical Commission
 * Natalie Kahn
 * Richard Evans - American Academy of Anesthesiologist Assistants
@@ -26,21 +27,21 @@
 * Erik Condon - WSSA
 * Scott Wolf - WSSA
 
-### 6105 👎 - Con
-#### Testifying
+#### 6105 👎 - Con
+Testifying:
 * Dee Bender
 * maura j frith
-* Darryl DuVall - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
-* Brad Hemingway - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Adrianna Silva - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Brad Hemingway - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Darryl DuVall - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Joe  Rodriguez - American Association of Nurse Anesthetists
-* Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Dee Bender - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Michael Fisher - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
-* Melissa  Johnson - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
-* Jennifer Tanguay - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Ashley Fedan - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Jennifer Tanguay - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Melissa  Johnson - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 
-### 38 ❓ - Other
-#### Testifying
+#### 38 ❓ - Other
+Testifying:
 * Jonathan Alvarado - Nursing Care Quality Assurance Commission

@@ -6,9 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5080 Cannabis social equity
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other
+
+### Tue 01/10 10:30 AM - Labor & Commerce (LC): SB 5080 Cannabis social equity
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

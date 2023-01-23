@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
+## Meetings
+### Tue 01/17 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5053 Insurance sublimits
+#### 2 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * 💵Jean Leonard - WA Insurers, Nationwide Insurance, and State Farm Insurance
 * 💵Kenton Brine - NW Insurance Council

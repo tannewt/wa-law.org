@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 78 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5338 Essential health benefits
+#### 78 👍 - Pro
+Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Michelle Pearl
 * Hollie Sandlin - Hollie Sandlin MD
@@ -19,8 +20,8 @@
 * Jill Bujnevicie 
 * Alex Wehinger - WA State Medical Association (WSMA)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Jennifer Luo

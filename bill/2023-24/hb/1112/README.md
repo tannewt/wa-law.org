@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1112 Negligent driving
+#### 2 👍 - Pro
+Testifying:
 * Perry Casper
 * Representative Santos - co-sponsor
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

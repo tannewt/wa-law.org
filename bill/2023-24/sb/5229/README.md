@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 28 👍 - Pro
-#### Testifying
-* Jennifer Wray-Keene - Port of Woodland
+## Meetings
+### Tue 01/17 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5229 Site readiness grants
+#### 28 👍 - Pro
+Testifying:
 * Michael  Echanove - CERB - Community Economic Revitalization Board
+* Jennifer Wray-Keene - Port of Woodland
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Robert Duff - Washington State Department of Commerce

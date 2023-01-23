@@ -6,14 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 17 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/23 01:30 PM - Housing (HOUS): HB 1276 Accessory dwelling units
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30523&aId=149739&caId=20673&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30523&aId=149739&caId=20673&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30523&aId=149739&caId=20673&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30523&aId=149739&caId=20673&tId=4)
+
+#### 20 👍 - Pro
+Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 
-### 12 👎 - Con
+#### 13 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

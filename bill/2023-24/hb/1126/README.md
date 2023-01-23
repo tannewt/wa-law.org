@@ -6,20 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
+## Meetings
+### Wed 01/18 04:00 PM - Transportation (TR): HB 1126 Transportation budget, supp.
+#### 4 👍 - Pro
 
-### 14 👎 - Con
-#### Testifying
+#### 14 👎 - Con
+Testifying:
 * Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
-* Jake  Pool - Coalition Against Graham and Eatonville-Roy Airports
 * Ursula Euler
 * Brian Jarrell
+* Jake  Pool - Coalition Against Graham and Eatonville-Roy Airports
 * Jennifer Roy
 * Cindy Schexnider
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * Dawn Sonntag - Stop the Airport
 * Dawn Sonntag
 * John Peeples
+
+### Thu 01/12 04:00 PM - Transportation (TR): HB 1126 Transportation budget, supp.
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

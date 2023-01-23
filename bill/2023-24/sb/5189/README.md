@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 73 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 10:30 AM - Health & Long Term Care (HLTC): SB 5189 Behavioral health support
+#### 73 👍 - Pro
+Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
-* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Anna  Ratzliff - [University of Washington](/org/university_of_washington/)
 * Anna  Ratzliff - [University of Washington](/org/university_of_washington/)
 * Bill O'Connell - [University of Washington](/org/university_of_washington/)
-* Anna  Ratzliff - [University of Washington](/org/university_of_washington/)
 * Rex Rempel - Lake Washington Institute of Technology
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Lara Effland
 * Kayleen  Islam-Zwart - Eastern Washington University
 * PhD, Julie Rickard
@@ -24,11 +25,11 @@
 * Kevin Criswell
 * Julie Rickard - Physician & Healthcare Consulting, LLC
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 
-### 4 ❓ - Other
-#### Testifying
+#### 4 ❓ - Other
+Testifying:
 * Evan Klein
 * Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)

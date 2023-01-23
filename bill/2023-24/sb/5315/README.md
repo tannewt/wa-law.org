@@ -6,29 +6,30 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 18 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Early Learning & K-12 Education (EDU): SB 5315 Special education/nonpublic
+#### 18 👍 - Pro
+Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Christopher  Willis - Orting School District
 * Tania May - Office of Superintendent of Public Instruction
 * Preston Dwoskin
 
-### 28 👎 - Con
-#### Testifying
+#### 28 👎 - Con
+Testifying:
 * Jeffrey Woolley - Dartmoor School
-* Julie Barrett - Conservative Ladies of Washington
 * Tracy McCammant - Eaton Arrowsmith - Center for Neuroeducation
 * Dr. Melodee Loshbaugh - Brock's Academy
 * Carrie  Fannin - Children's Institute for Learning Differences
 * Dominic Jimenez - Children's Institute for Learning Differences
 * Jeffrey Woolley - Dartmoor Schools
-* Rachel Kier - Brocks Academy
 * Melodee Loshbaugh - Brocks Academy
+* Rachel Kier - Brocks Academy
 * 💵Suzanne Hanson - Washington Federation of Independent Schools
+* Julie Barrett - Conservative Ladies of Washington
 * Judy Colson
 * Debbie Teter
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Marianne Bryan

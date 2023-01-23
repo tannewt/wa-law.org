@@ -6,26 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 55 👍 - Pro
-#### Testifying
-* 💵Michael Moran - Lake Washington High School/Capitol Classroom
-* Gabrielle Heuer - Lake Washington High School
+## Meetings
+### Tue 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 1152 Consumer products/gender
+#### 55 👍 - Pro
+Testifying:
+* Abigail Jalso - Lake Washington High School
+* Alexandra Ivanova - Lake Washington High School
 * Ana Ferreira - Lake Washington High School
 * Benjamine Howard - Lake Washington High School
+* Catherine  Im - Lake Washington High School
+* Gabrielle Heuer - Lake Washington High School
+* Mahee Nemani - Lake Washington High School
 * Pari Harkishnani - Lake Washington High School
 * Tyler Nathan - Lake Washington High School
-* Alexandra Ivanova - Lake Washington High School
-* Abigail Jalso - Lake Washington High School
-* Catherine  Im - Lake Washington High School
-* Mahee Nemani - Lake Washington High School
+* 💵Michael Moran - Lake Washington High School/Capitol Classroom
 * MICHAEL MORAN - Lake Washington High School/Capitol Classroom
 
-### 19 👎 - Con
-#### Testifying
+#### 19 👎 - Con
+Testifying:
 * Michael McShane - URM Stores
 * 💵Carolyn Logue - Washington Food Industry Association (WFIA)
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

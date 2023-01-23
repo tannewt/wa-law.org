@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 7 👍 - Pro
+## Meetings
+### Thu 01/19 04:00 PM - Ways & Means (WM): SB 5275 SEBB benefits access
+#### 7 👍 - Pro
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * David Iseminger - WA State Health Care Authority

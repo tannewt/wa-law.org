@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 57 👍 - Pro
-#### Testifying
-* Amanda Fox - Animal Rights Initiative
-* Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
+## Meetings
+### Tue 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 1097 Cosmetics tested on animals
+#### 57 👍 - Pro
+Testifying:
 * Jordie Ruggles - Individual
 * Josh Diamond - Operations Manager, Animal Rights Initiative
+* Amanda Fox - Animal Rights Initiative
+* Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
 * Dan Paul - The Humane Society of the United States
 
-### 1 👎 - Con
+#### 1 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

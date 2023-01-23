@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 116 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Health Care & Wellness (HCW): HB 1168 Prenatal substance exposure
+#### 116 👍 - Pro
+Testifying:
 * Alex Lundy - Wonderland Child and Family Services
 * Julia Bledsoe
 * Lauren Burke
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

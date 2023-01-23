@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5107 Cottage food sales cap
+#### 3 👍 - Pro
+Testifying:
 * Jackie Ferry
 * Carol Berch
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Kelly McLain

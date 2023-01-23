@@ -6,21 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 26 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Transportation (TRAN): SB 5023 Roadside safety measures
+#### 26 👍 - Pro
+Testifying:
 * Phil Waldner - Fife Towing
-* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
+* Corey Wells - TLC Towing
 * Kris Zachary  - Burns Towing
-* Corey Wells - TLC Towing
+* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 * Phil Waldner - Fife Towing
-* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
-* Kris Zachary - Burns Towing
 * Corey Wells - TLC Towing
-* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 * Kris Zachary - Burns Towing
+* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 * Cory Wells - TLC Towing
+* Kris Zachary - Burns Towing
+* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

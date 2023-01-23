@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 13 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Ways & Means (WM): SB 5158 State & local taxation
+#### 13 👍 - Pro
+Testifying:
 * Jason Mercier - Washington Policy Center
 * Aaron Lang
 * 💵Matt Zuvich - Washington State Treasurer
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Steve Ewing - Department of Revenue

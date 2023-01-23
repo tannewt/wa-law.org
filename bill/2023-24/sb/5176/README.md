@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
+## Meetings
+### Thu 01/19 08:00 AM - Labor & Commerce (LC): SB 5176 Employee-owned coop UI
+#### 2 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Caitlyn Jekel - Employment Security Department

@@ -6,9 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5212 Injured worker medical exams
+Sign up to testify:
 
-### 0 👎 - Con
+#### 0 👍 - Pro
 
-### 0 ❓ - Other
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

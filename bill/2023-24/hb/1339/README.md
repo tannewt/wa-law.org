@@ -6,9 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Tue 01/24 01:30 PM - Consumer Protection & Business (CPB): HB 1339 Insurance premium tax rate
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30491&aId=149579&caId=20636&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30491&aId=149579&caId=20636&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30491&aId=149579&caId=20636&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30491&aId=149579&caId=20636&tId=4)
 
-### 1 👎 - Con
+#### 0 👍 - Pro
 
-### 0 ❓ - Other
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

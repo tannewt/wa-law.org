@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 1 👍 - Pro
+## Meetings
+### Wed 01/18 08:00 AM - Local Government (LG): HB 1100 Dispo. of remains/indigent
+#### 1 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

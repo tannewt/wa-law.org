@@ -6,17 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 25 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5396 Concerning cost sharing for diagnostic and supplemental breast examinations. (Remote Testimony Available). (If measure is referred to committee.)
+#### 25 👍 - Pro
+Testifying:
 * 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
+* Kate White Tudor - Rayus Radiology
 * Dr. Peter  Eby - Washington State Radiological Society (WSRS)
 * Janet Campbell
 * Bobbi-Jo Thomas
-* Kate White Tudor - Rayus Radiology
 
-### 2 👎 - Con
-#### Testifying
+#### 2 👎 - Con
+Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

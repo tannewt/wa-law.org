@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 14 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Human Services (HS): SB 5147 A/C in adult family homes
+#### 14 👍 - Pro
+Testifying:
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

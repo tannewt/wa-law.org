@@ -6,20 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 51 👍 - Pro
-#### Testifying
-* 💵Michael White - [King County](/org/king_county/)
+## Meetings
+### Fri 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 1200 Employee information/unions
+#### 51 👍 - Pro
+Testifying:
 * Jennifer Hansen
+* 💵Michael White - [King County](/org/king_county/)
 
-### 5 👎 - Con
-#### Testifying
+#### 5 👎 - Con
+Testifying:
 * Laquesha Turner
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * Q  Beers
-* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

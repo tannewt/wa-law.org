@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 14 👍 - Pro
-#### Testifying
-* Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
+## Meetings
+### Thu 01/19 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5013 Wine/alcohol tax exemption
+#### 14 👍 - Pro
+Testifying:
 * Paul Beveridge - Family Wineries of Washington State
-* Sandi Moreno - Leony's Cellars
 * Perry Preston - Stina's Cellars
+* Sandi Moreno - Leony's Cellars
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

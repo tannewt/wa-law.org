@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 26 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 04:00 PM - Appropriations (APP): HB 1007 Military service credit
+#### 26 👍 - Pro
+Testifying:
 * Jacob White - LEOFF 2 Board
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

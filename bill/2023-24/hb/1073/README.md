@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 6 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1073 Medical assistants
+#### 6 👍 - Pro
+Testifying:
 * MD, Mark Zeitzer - Chief Medical Officer, ZoomCare
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * 💵Sean Graham - WA State Medical Assn

@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5330 Pesticide application
+#### 5 👍 - Pro
+Testifying:
 * Kelly McLain - Washington State Department of Agriculture
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Education (ED): HB 1118 School bus safety
+#### 5 👍 - Pro
+Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * Kyle Rydell - West valley School District
 * Sara Betnel - Washington State School Directors' Association
 * 💵Carolyn Logue - WA State Student Transportation Coalition

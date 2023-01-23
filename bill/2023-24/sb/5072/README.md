@@ -6,23 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 474 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5072 Highly capable students
+#### 474 👍 - Pro
+Testifying:
 * Jacob Vigdor - University of Washington Faculty
-* Anna Hernandez-French - OSPI
 * Randy Spaulding - Washington State Board of Education
+* Anna Hernandez-French - OSPI
 * Rene Price - Washington State PTA
-* Logan Endres - Washington State School Directors' Association (WSSDA)
 * Ryan Grant
-* Jennifer Bethman - Superintendent, Rochester School District
 * Amity Butler - Assistant Superintendent, Northshore School District
 * Austina De Bonte - WA Coalition for Gifted Education
+* Jennifer Bethman - Superintendent, Rochester School District
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* Logan Endres - Washington State School Directors' Association (WSSDA)
 
-### 15 👎 - Con
+#### 15 👎 - Con
 
-### 5 ❓ - Other
-#### Testifying
+#### 5 ❓ - Other
+Testifying:
 * Myra Arnone - Lake Washington School District

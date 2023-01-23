@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 9 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5319 Pet insurance
+#### 9 👍 - Pro
+Testifying:
 * David Forte - Office of the Insurance Commissioner
 * Gavin Friedman - Trupanion Inc
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

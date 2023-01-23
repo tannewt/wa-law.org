@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 04:00 PM - Transportation (TRAN): SB 5041 Motor carrier safety
+#### 5 👍 - Pro
+Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * yukimi fujisawa

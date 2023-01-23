@@ -6,23 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 27 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1137 Return-to-work opportunities
+#### 27 👍 - Pro
+Testifying:
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Debra Livingston - ReEmployAbility Inc
 * Kerri Butler - Work Bridge Group
-* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Sheri Call - Washington Trucking Associations
-* 💵Emily Lovell - Washington State Dental Association
 * Jan Himebaugh  - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Emily Lovell - Washington State Dental Association
 
-### 11 👎 - Con
-#### Testifying
+#### 11 👎 - Con
+Testifying:
 * Jane Dale - Washington State Association for Justice
 * Kathy Comfort - Washington State Association for Justice
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Erin Frasier - WA State Building & Construction Trades Council
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Tammy Fellin - Labor & Industries

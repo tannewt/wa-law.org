@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 1210 School board recordings
+#### 3 👍 - Pro
+Testifying:
 * Joe Kunzler - None
 * Rowland  Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
-### 7 👎 - Con
-#### Testifying
+#### 7 👎 - Con
+Testifying:
 * Jason  Perrins - Chewelah SD
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Rob Roettger - Eastern WA Quality Schools Coalition

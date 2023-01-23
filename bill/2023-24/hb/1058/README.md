@@ -6,11 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/25 04:00 PM - Transportation (TR): HB 1058 Commercial driver's licenses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
 * Jeff DeVere - Washington Trucking Associations
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other
+
+### Mon 01/23 04:00 PM - Transportation (TR): HB 1058 Commercial driver's licenses
+Sign up to testify:
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

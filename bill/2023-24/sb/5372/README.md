@@ -6,13 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 168 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5372 Trust land transfer program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=4)
+
+#### 179 👍 - Pro
+Testifying:
 * Sherri Dysart - League of Women Voters of Washington
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * Ed Bowen
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

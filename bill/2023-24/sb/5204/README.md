@@ -6,35 +6,36 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 625 👍 - Pro
-#### Testifying
-* Jamie Lee
+## Meetings
+### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5204 Fertility services coverage
+#### 625 👍 - Pro
+Testifying:
 * Valerie Balch
 * Andrea Hikoe
-* Brittany  Horrocks
+* Jamie Lee
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
-* Chalia Stallings-Ala'ilima - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
-* Katie Garcia
-* Sara Cassidey - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
-* Kristen Valore - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
-* Dr. Lori  Marshall
-* Dr. Tyler  Ketterl
-* Rose Ibarra
-* Betsy  Campbell - RESOLVE National Infertility Association
-* Kaycee Oatman
-* Heather  Villanueva
+* Brittany  Horrocks
 * Callagee O'Brien - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * 💵Alexis Oliver
 * Katherine  Tarlock
 * Amanda  Ary
+* Chalia Stallings-Ala'ilima - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
+* Katie Garcia
+* Kristen Valore - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
+* Sara Cassidey - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
+* Dr. Lori  Marshall
+* Dr. Tyler  Ketterl
+* Rose Ibarra
+* Betsy  Campbell - RESOLVE National Infertility Association
+* Heather  Villanueva
+* Kaycee Oatman
 
-### 40 👎 - Con
-#### Testifying
+#### 40 👎 - Con
+Testifying:
 * Jennifer Friesen - Them Before Us
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
 * Ángel Alvarado - Respect Life Ministry
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

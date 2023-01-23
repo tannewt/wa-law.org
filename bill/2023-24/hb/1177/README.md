@@ -6,18 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 103 👍 - Pro
-#### Testifying
-* Anna Bean - Councilmember- Puyallup Tribe of Indians
+## Meetings
+### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1177 Indigenous women
+#### 103 👍 - Pro
+Testifying:
 * Karen  Condon - Confederated Tribes of the Colville Reservation
-* Bob Ferguson - WA State Attorney General's Office
-* Annie Forsman-Adams - WA State Attorney General's Office
+* Anna Bean - Councilmember- Puyallup Tribe of Indians
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Annie Forsman-Adams - WA State Attorney General's Office
+* Bob Ferguson - WA State Attorney General's Office
 * James Schrimpsher - WA Fraternal Order of Police
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

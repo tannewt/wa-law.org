@@ -6,21 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 41 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Housing (HOUS): HB 1133 Detached ADUs
+#### 41 👍 - Pro
+Testifying:
 * Brent  Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Carol Sullivan
-* Mary Mellott
-* R Peggy Smith
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * STEVEN TRAUTWEIN
 * 💵Bill Clarke - WA Realtors + Kittitas County
+* Mary Mellott
+* R Peggy Smith
 * Ellen Skarin - None
 
-### 1 👎 - Con
-#### Testifying
+#### 1 👎 - Con
+Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

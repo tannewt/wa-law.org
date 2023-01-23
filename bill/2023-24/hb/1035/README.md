@@ -6,23 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 203 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Health Care & Wellness (HCW): HB 1035 Health care restrictions
+#### 203 👍 - Pro
+Testifying:
 * Gregg VandeKieft - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
 * M. Lorena Gonzalez - ACLU of Washington
 * Nancy  Sapiro - End of Life WA
 
-### 290 👎 - Con
-#### Testifying
-* Mark Tibbles
-* Sherri Tibbles
-* Theresa Schrempp
-* Sharon Quick
+#### 290 👎 - Con
+Testifying:
 * 💵Zosia Stanley - Washington State Hospital Association
 * 💵Esther Ripplinger - Human Life of WA
 * Mary Long - Conservative Ladies of Washington
 * pam bennetsen - ConservativeLadiesofWashington
+* Mark Tibbles
+* Sherri Tibbles
+* Theresa Schrempp
+* Sharon Quick
 * suzanne rohner
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

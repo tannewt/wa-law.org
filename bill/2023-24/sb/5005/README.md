@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 08:00 AM - Law & Justice (LAW): SB 5005 Real property
+#### 3 👍 - Pro
+Testifying:
 * Professor Thomas Mitchell - The Uniform Law Commission
-* John  Lovett - Uniform Law Commission
 * Jane Sternecky - Uniform Law Commission
+* John  Lovett - Uniform Law Commission
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

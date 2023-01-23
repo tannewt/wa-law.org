@@ -6,17 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 282 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1258 Tourism marketing
+#### 282 👍 - Pro
+Testifying:
 * David Blandford - Yes. I am Exec. Director of State of Washington Tourism
 * David Blandford - [Washington Tourism Alliance](/org/washington_tourism_alliance/)
 * Josh McDonald - 375 Washington St. NE
-* Sherrye Wyatt - PO Box 365
 * Shelly  Stevens - 3376 Cottonwood Creek Road
+* Sherrye Wyatt - PO Box 365
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Ron Oh - Holiday Inn Express
 
-### 50 👎 - Con
+#### 50 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

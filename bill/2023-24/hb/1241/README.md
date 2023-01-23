@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 16 👍 - Pro
-#### Testifying
-* Lori  Larsen - Washington Association of County Auditors
+## Meetings
+### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1241 Harassment
+#### 16 👍 - Pro
+Testifying:
 * Carolyn  Fundingsland - Washington Association of County Auditors
+* Lori  Larsen - Washington Association of County Auditors
 * Neal Kelley - Committee for Safe and Secure Elections (CSSE)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Matthew Germer - R Street Institute

@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 2 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - State Government & Tribal Relations (SGOV): HB 1259 Secretary of state exec team
+#### 2 👍 - Pro
+Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-### 8 👎 - Con
+#### 8 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

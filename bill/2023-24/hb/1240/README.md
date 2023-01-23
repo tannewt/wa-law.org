@@ -6,25 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 1035 👍 - Pro
-#### Testifying
-* Kristin Beneski - WA State Attorney General's Office
-* 💵Albert Sardinas - FMSGS / WBBA
+## Meetings
+### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
+#### 1035 👍 - Pro
+Testifying:
 * Ann-Marie Parsons
-* Robert Schentrup
 * Barbara Serrano - Office of the Governor
 * Kristin Beneski - Attorney General's Office
+* Robert Schentrup
 * Ami Strahan
 * Dr. Mike Van Dyke
 * Emily Cantrell
-* Margy Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
 * Erin Senge
 * Jane Weiss
+* Margy Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Gwen Loosmoore
+* Justine Stromberg
 * Kim Monroe
 * Niko Battle
-* Justine Stromberg
-* Gwen Loosmoore
 * BRIAN GRAD
 * Kristen Ellingboe
 * Chelsey Wright
@@ -34,12 +33,14 @@
 * Dylan O'Connor
 * Alexandra Castro
 * Victoria Muzyk
+* Kristin Beneski - WA State Attorney General's Office
+* 💵Albert Sardinas - FMSGS / WBBA
 * Joe Kunzler
 * Anita Thomson
 * Kathy Sakahara - Northwest Progressive Institute
 
-### 3439 👎 - Con
-#### Testifying
+#### 3439 👎 - Con
+Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric Pratt - America
 * Aaron Lyons
@@ -47,29 +48,28 @@
 * Andrew Mesojednik - myself
 * Chase Morgan
 * Jason bushman
+* Ronald Lorimer
+* Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association
 * Juan  Rodriguez 
-* Ian VanDooren - Puget Sound Socialist Rifle Association
-* Ronald Lorimer
-* Ronald Lorimer
 * Aaron Lee
+* Ian VanDooren - Puget Sound Socialist Rifle Association
+* Michael Zeller
+* Hoang Nguyen
 * Michael McKinley
 * Will Smoot
 * Dustin Adams
 * Chris Giles - 14015 ne 40th st.
-* Michael Zeller
-* Hoang Nguyen
 * Judy Laughner
-* Laurie Layne
 * Micah Zeitz-Chua
 * Ernest  Feenandez
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
-* 💵Troy Nichols - National Shooting Sports Foundation
 * Jane Milhans
+* 💵Troy Nichols - National Shooting Sports Foundation
 * Dan Mitchell - WA Civil Rights Association
-* Robin Ball - Sharpshooting Indoor Range
+* Dan Mitchell - WA Civil Rights Association
 * Janie Vigil - Aero Precision
-* Dan Mitchell - WA Civil Rights Association
+* Robin Ball - Sharpshooting Indoor Range
 * Vincent  Navarre
 * Craig Dwyer
 * Adrian Olivares
@@ -78,12 +78,13 @@
 * Elizabeth VanSteertegem
 * Orion Webster
 * James Laster - Individual
+* Laurie Layne
 * Travis  Miller
 * Fred Baerbalck
 * Luis Berbesi
 * William Thomas
 
-### 4 ❓ - Other
-#### Testifying
+#### 4 ❓ - Other
+Testifying:
 * Max Gatof
 * Jeffrey Slotnick - Setracon Incorporated

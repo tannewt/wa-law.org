@@ -6,40 +6,41 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 915 👍 - Pro
-#### Testifying
-* Kristin Beneski - WA State Attorney General's Office
-* Nate Roberts - Washington State Association for Justice
+## Meetings
+### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5078 Firearm industry duties
+#### 915 👍 - Pro
+Testifying:
+* Barbara Serrano - Office of the Governor
 * Donnitta Sinclair
 * Jim Parsons
-* Barbara Serrano - Office of the Governor
 * Kristin Beneski
 * David O'Connor
 * Jane Weiss
 * Robert Schentrup
-* Tanya Schardt - Brady Center to Prevent Gun Violence
-* Petra Hoy
-* Kate Stockert
 * Flynn Williams
+* Kate Stockert
+* Petra Hoy
+* Tanya Schardt - Brady Center to Prevent Gun Violence
+* Kristin Beneski - WA State Attorney General's Office
+* Nate Roberts - Washington State Association for Justice
 
-### 1894 👎 - Con
-#### Testifying
+#### 1894 👎 - Con
+Testifying:
 * Eric Pratt - America
 * Julie Barrett - Conservative Ladies of Washington
 * Deborah Stelfox
 * Jeannie Magdua - Conservative Ladies of Washington
-* Rachel Buck
-* Norma Peters
 * Brent DeWalt
+* Heidi Lee - Minute Man Ammunition
 * 💵Michael Findlay - National Shooting Sports Foundation
 * Scott Dover - Aero Precision
-* Heidi Lee - Minute Man Ammunition
 * Clint Gillespy - Beyer Barrels
-* Melissa Stack - Pistol Annies
 * Dan Mitchell - WA Civil Rights Association
+* Melissa Stack - Pistol Annies
+* Rachel Buck
 * Hiedi Lee - Minute Man Ammunition
 * Chris Aasness
+* Norma Peters
 * Mary Grode
 * Travis Miller
 * Hannah Ordos
@@ -50,4 +51,4 @@
 * JEANNE Barnum
 * William Thomas
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

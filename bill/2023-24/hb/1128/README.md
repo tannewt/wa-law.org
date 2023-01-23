@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 109 👍 - Pro
-#### Testifying
-* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+## Meetings
+### Wed 01/18 04:00 PM - Appropriations (APP): HB 1128 Personal needs allowance
+#### 109 👍 - Pro
+Testifying:
 * Bea  Rector - Dept. of Social and Health Services
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 * Cathy MacCaul - AARP Washington State
 
-### 2 👎 - Con
+#### 2 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

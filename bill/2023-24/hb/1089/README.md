@@ -6,27 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 182 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1089 Sex trafficking
+#### 182 👍 - Pro
+Testifying:
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Paula Sardinas - FMSGS / WBBA
+* Kyra Abrahamson - Washington Trafficking Prevention
+* Mar Brettmann - Businesses Ending Slavery & Trafficking
+* Marissa Perez - Yarrow Project
+* Mary  Williams - REST
+* Jeri Moomaw - Innovations HTC
+* Robin  Miller - Janus Youth
+* Tricia MacFarlan - Mirror Ministries
 * Kyle Moore - City of SeaTac
 * Leah White - Washington State Women's Commission
-* 💵Paula Sardinas - FMSGS / WBBA
-* Mar Brettmann - Businesses Ending Slavery & Trafficking
-* Kyra Abrahamson - Washington Trafficking Prevention
-* Mary  Williams - REST
-* Marissa Perez - Yarrow Project
-* Jeri Moomaw - Innovations HTC
-* Tricia MacFarlan - Mirror Ministries
-* Robin  Miller - Janus Youth
 * Leah White - Washington State Women's Commission
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
+* devyn childs
 * emi koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Rick Torrance - Department of Commerce, OCVA
-* devyn childs

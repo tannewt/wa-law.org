@@ -115,6 +115,7 @@ for start_year in range(2023, 2025, 2):
         if activity:
             active[bill_number] = activity
 
+    print("Getting testifiers")
     item_cur = db.cursor()
     item_cur.execute("SELECT rowid, caId FROM agenda_items WHERE caId IS NOT NULL")
     for agenda_item_rowid, caId in item_cur:

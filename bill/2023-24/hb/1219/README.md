@@ -6,9 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Wed 01/25 04:00 PM - Transportation (TR): HB 1219 PTBA governing bodies
+Sign up to testify:
 
-### 0 👎 - Con
+#### 0 👍 - Pro
 
-### 0 ❓ - Other
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

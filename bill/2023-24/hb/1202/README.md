@@ -6,11 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 1 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 04:00 PM - Appropriations (APP): HB 1202 Eliminating accounts
+#### 1 👍 - Pro
+Testifying:
 * K.D. Chapman-See - Office of Financial Management
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

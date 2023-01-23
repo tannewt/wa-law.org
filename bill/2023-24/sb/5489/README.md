@@ -6,14 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 88 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5489 Health care services/access
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=4)
+
+#### 89 👍 - Pro
+Testifying:
 * Lisa  Keating 
 * Jody Disney - LWVWA
 
-### 211 👎 - Con
-#### Testifying
+#### 226 👎 - Con
+Testifying:
 * Diana Amirehteshami  - Conservative Ladies of WA
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

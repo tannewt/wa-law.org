@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 34 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Environment, Energy & Technology (ENET): SB 5287 Wind turbine blade recycling
+#### 34 👍 - Pro
+Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * Ann Murphy - League of Women Voters of Washington
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Jeff Gombosky - [Renewable Northwest](/org/renewable_northwest/)
 * James Colombo - Interim Director, WSU Energy Program
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 5 👍 - Pro
-#### Testifying
-* Tom McBride - WDFW
+## Meetings
+### Fri 01/20 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1235 WDFW licensing
+#### 5 👍 - Pro
+Testifying:
 * Rachel Blomker - WDFW
+* Tom McBride - WDFW
 * 💵Joren Clowers - Kalkomey Enterprises
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

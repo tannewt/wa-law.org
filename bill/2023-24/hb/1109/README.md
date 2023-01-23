@@ -6,18 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 57 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Education (ED): HB 1109 Special education funding
+#### 57 👍 - Pro
+Testifying:
 * Shelly Burt
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Luckisha Phillips - Washington State School Directors' Association (WSSDA)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
-* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Danna Summers - ESIT DSYF Council Member Parent
 * Tanya Aggar - Washington State PTA
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Shannon Hitch - Lake Washington School District

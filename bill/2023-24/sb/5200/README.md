@@ -6,9 +6,38 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 0 👍 - Pro
+## Meetings
+### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: All other. (Remote Testimony Available).
+#### 0 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other
+
+### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: Higher education.  (Remote Testimony Available).
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: Human services. (Remote Testimony Available).
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: K-12 public schools. (Remote Testimony Available).
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: Natural resources. (Remote Testimony Available).
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

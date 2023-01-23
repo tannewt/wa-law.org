@@ -6,21 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 541 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1310 Physician assistant collab.
+#### 541 👍 - Pro
+Testifying:
 * Micah Matthews - Washington Medical Commission
 * Mordechai Sacks
-* Tate Sexton
-* Linda Dale - Self and Washington Academy of Physician Assistants (WAPA)
-* Jenna Newcomb Barkhimer
 * Anna Facio
 * MD, Mark Zeitzer - Chief Medical Officer, ZoomCare
 * Dr. Greg Blackner
+* Tate Sexton
+* Linda Dale - Self and Washington Academy of Physician Assistants (WAPA)
+* Jenna Newcomb Barkhimer
 
-### 5 👎 - Con
-#### Testifying
+#### 5 👎 - Con
+Testifying:
 * DO, Katina Rue
 * Sean  Graham - Washington State Medical Association
 
-### 4 ❓ - Other
+#### 4 ❓ - Other

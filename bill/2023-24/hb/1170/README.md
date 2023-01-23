@@ -6,17 +6,25 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 69 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 01:30 PM - Environment & Energy (ENVI): HB 1170 Climate response strategy
+#### 69 👍 - Pro
+Testifying:
 * Jennifer Hennessey - Washington State Department of Ecology
 * Rad Cunningham - Washington State Department of Health
 * justin allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-### 17 👎 - Con
+#### 17 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * john Worthington
 * Brian Considine - Washington State Department of Natural Resources
+
+### Thu 01/12 08:00 AM - Environment & Energy (ENVI): HB 1170 Climate response strategy
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -6,13 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 16 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 10:30 AM - Local Government (LG): HB 1086 Community org. contracts
+#### 16 👍 - Pro
+Testifying:
 * Jay Cochran - North Whidbey Pool, Park, & Recreation District
 * Jennifer Wills - City of Longview Recreation
 * 💵Trevor Justin - Washington Recreation & Park Association
 
-### 5 👎 - Con
+#### 5 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

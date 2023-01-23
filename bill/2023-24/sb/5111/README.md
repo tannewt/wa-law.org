@@ -6,21 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 140 👍 - Pro
-#### Testifying
+## Meetings
+### Mon 01/16 10:30 AM - Labor & Commerce (LC): SB 5111 Sick leave/construction
+#### 140 👍 - Pro
+Testifying:
+* 💵Erin Frasier - WA State Building & Construction Trades Council
+* Nikolaj Jensen - Construction Worker
 * Ray Dumas - Operative Plasterers and Cement Masons - Local 528
 * Robert Bowstring - Construction Worker
-* Nikolaj Jensen - Construction Worker
-* 💵Erin Frasier - WA State Building & Construction Trades Council
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Seth Worley - Plumbers and Steamfitters UA Local 598
 
-### 13 👎 - Con
-#### Testifying
+#### 13 👎 - Con
+Testifying:
 * Jerry VanderWood - WCIC and Associated General Contractors
 * 💵Carolyn Logue - Associated Builders & Contractors -- W. Washington & Inland Pacific
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * Tammy Fellin - Labor & Industries

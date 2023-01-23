@@ -6,9 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 7 👍 - Pro
+## Meetings
+### Tue 01/24 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1232 College bound scholarship
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30465&aId=149453&caId=20705&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30465&aId=149453&caId=20705&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30465&aId=149453&caId=20705&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30465&aId=149453&caId=20705&tId=4)
 
-### 0 👎 - Con
+#### 8 👍 - Pro
 
-### 0 ❓ - Other
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

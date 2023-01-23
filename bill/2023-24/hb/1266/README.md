@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 9 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - Consumer Protection & Business (CPB): HB 1266 Insurance comnr./email
+#### 9 👍 - Pro
+Testifying:
+* Karl Robinson - Robinson Insurance Group
 * 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 * Karl Robinson - Robinson Group, Inc.
 * Karl Robinson - Robinson Insurance Group
-* Karl Robinson - Robinson Insurance Group
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

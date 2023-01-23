@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 24 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 04:00 PM - Education (ED): HB 1015 Paraeducator requirements
+#### 24 👍 - Pro
+Testifying:
 * Jim Kowalkowski - Rural Education Center
 * 💵Zackary Turner - PESB
 * Lyon Terry
@@ -17,8 +18,8 @@
 * Rick Chisa - Public School Employees of Washington (PSE)
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
-#### Testifying
+#### 1 ❓ - Other
+Testifying:
 * Caitlin Cox - Lake Washington School District

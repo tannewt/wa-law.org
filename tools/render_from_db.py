@@ -1,3 +1,4 @@
+import datetime
 import utils
 import pathlib
 
@@ -48,6 +49,8 @@ cur.execute("SELECT rowid, prefix, number FROM bills WHERE biennium_rowid = ?", 
 vips = set()
 vio = set()
 
+now = datetime.datetime.now()
+
 for bill_rowid, prefix, bill_number in cur:
     breadcrumb = f"[wa-law.org](/) > [bill](/bill/) > [{biennium}](/bill/{biennium}/) > [{prefix} {bill_number}](/bill/{biennium}/{prefix.lower()}/{bill_number}/)"
     bill_readme = [
@@ -96,52 +99,71 @@ for bill_rowid, prefix, bill_number in cur:
         rm.write_text("\n".join(revision_readme))
     bill_readme.append("")
 
-    bill_readme.append("## Positions")
-    for position in POSITION_TO_EMOJI:
-        positions = db.cursor()
-        positions.execute("SELECT rowid FROM positions WHERE position = ?", (position,))
-        p_rowid = positions.fetchone()[0]
-        count = db.cursor()
-        count.execute("SELECT COUNT(testifiers.position_rowid) FROM testifiers, agenda_items WHERE testifiers.position_rowid = ? AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ? GROUP BY testifiers.position_rowid", (p_rowid, bill_rowid))
-        count = count.fetchone()
-        if count:
-            count = count[0]
-        else:
-            count = 0
-        emoji = POSITION_TO_EMOJI[position]
-        bill_readme.append(f"### {count} {emoji} - {position}")
+    bill_readme.append("## Meetings")
+    meetings = db.cursor()
+    meetings.execute("SELECT agenda_items.rowid, meetings.committee_rowid, start_time, meetings.notes, agenda_items.description FROM agenda_items, meetings WHERE agenda_items.meeting_rowid = meetings.rowid AND agenda_items.bill_rowid = ? ORDER BY start_time DESC, agenda_items.description", (bill_rowid,))
 
-        testifiers = db.cursor()
-        testifiers.execute("SELECT first_name, last_name, organization FROM testifiers, agenda_items WHERE testifying AND testifiers.position_rowid = ? AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ?", (p_rowid, bill_rowid))
-        testifiers = testifiers.fetchall()
-        if testifiers:
-            bill_readme.append("#### Testifying")
-            for first_name, last_name, organization in testifiers:
-                lobbyist = db.cursor()
-                lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
-                lobbyist = lobbyist.fetchone()
-                if lobbyist:
-                    vips.add(lobbyist[0])
-                    lobbyist = "💵"
-                else:
-                    lobbyist = ""
-                if organization:
-                    organization = organization.strip()
-                    org = db.cursor()
-                    org.execute("SELECT rowid, canonical_entry, slug FROM organizations WHERE name = ?", (organization,))
-                    org = org.fetchone()
-                    if org:
-                        # Check the canonical version
-                        if org[1]:
-                            canonical = db.cursor()
-                            canonical.execute("SELECT rowid, canonical_entry, slug FROM organizations WHERE rowid = ?", (org[1],))
-                            org = canonical.fetchone()
-                        vio.add(org[0])
-                        slug = org[2]
-                        organization = f"[{organization}](/org/{slug}/)"
-                    organization = " - " + organization
-                bill_readme.append(f"* {lobbyist}{first_name} {last_name}{organization}")
-        bill_readme.append("")
+    for item_rowid, committee_rowid, start_time, notes, description in meetings:
+        committee = db.cursor()
+        committee.execute("SELECT name, acronym FROM committees WHERE rowid = ?", (committee_rowid,))
+        committee = committee.fetchone()
+
+        start_time = datetime.datetime.strptime(start_time.split("+")[0], "%Y-%m-%d %H:%M:%S")
+        start_time_str = start_time.strftime("%a %m/%d %I:%M %p")
+
+        bill_readme.append(f"### {start_time_str} - {committee[0]} ({committee[1]}): {description}")
+        if start_time >= now:
+            testify_options = db.cursor()
+            testify_options.execute("SELECT option, url FROM testimony_links, testimony_options WHERE testimony_links.option_rowid = testimony_options.rowid AND agenda_item_rowid = ?", (item_rowid,))
+            bill_readme.append("Sign up to testify:")
+            for option, url in testify_options:
+                bill_readme.append(f"* [{option}](https://app.leg.wa.gov{url})")
+            bill_readme.append("")
+        for position in POSITION_TO_EMOJI:
+            positions = db.cursor()
+            positions.execute("SELECT rowid FROM positions WHERE position = ?", (position,))
+            p_rowid = positions.fetchone()[0]
+            count = db.cursor()
+            count.execute("SELECT COUNT(position_rowid) FROM testifiers WHERE position_rowid = ? AND agenda_item_rowid = ? GROUP BY position_rowid", (p_rowid, item_rowid))
+            count = count.fetchone()
+            if count:
+                count = count[0]
+            else:
+                count = 0
+            emoji = POSITION_TO_EMOJI[position]
+            bill_readme.append(f"#### {count} {emoji} - {position}")
+
+            testifiers = db.cursor()
+            testifiers.execute("SELECT first_name, last_name, organization FROM testifiers WHERE testifying AND position_rowid = ? AND agenda_item_rowid = ? ORDER BY sign_in_time", (p_rowid, item_rowid))
+            testifiers = testifiers.fetchall()
+            if testifiers:
+                bill_readme.append("Testifying:")
+                for first_name, last_name, organization in testifiers:
+                    lobbyist = db.cursor()
+                    lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
+                    lobbyist = lobbyist.fetchone()
+                    if lobbyist:
+                        vips.add(lobbyist[0])
+                        lobbyist = "💵"
+                    else:
+                        lobbyist = ""
+                    if organization:
+                        organization = organization.strip()
+                        org = db.cursor()
+                        org.execute("SELECT rowid, canonical_entry, slug FROM organizations WHERE name = ?", (organization,))
+                        org = org.fetchone()
+                        if org:
+                            # Check the canonical version
+                            if org[1]:
+                                canonical = db.cursor()
+                                canonical.execute("SELECT rowid, canonical_entry, slug FROM organizations WHERE rowid = ?", (org[1],))
+                                org = canonical.fetchone()
+                            vio.add(org[0])
+                            slug = org[2]
+                            organization = f"[{organization}](/org/{slug}/)"
+                        organization = " - " + organization
+                    bill_readme.append(f"* {lobbyist}{first_name} {last_name}{organization}")
+            bill_readme.append("")
 
 
     rm = bill_path / "README.md"

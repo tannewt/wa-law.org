@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 8 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 10:30 AM - Health & Long Term Care (HLTC): SB 5113 Dental school faculty
+#### 8 👍 - Pro
+Testifying:
 * Shawna Fox - Washington State Department of Health
 * Fotinos Panagakos - Pacific Northwest University of Health Sciences - School of Dental Medicine
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

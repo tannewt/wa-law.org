@@ -6,19 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 25 👍 - Pro
-#### Testifying
-* Brett Botts - Teamsters Local 313
-* Rachel  Ybarra
-* Elizabeth Duran
-* Kian  Alden - Teamsters
-* Kiah Penfield
-* Friday Sodorff
+## Meetings
+### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5417 Employer political speech
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149657&caId=20506&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149657&caId=20506&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149657&caId=20506&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149657&caId=20506&tId=4)
 
-### 8 👎 - Con
-#### Testifying
+#### 28 👍 - Pro
+Testifying:
+* Elizabeth Duran
+* Rachel  Ybarra
+* Kian  Alden - Teamsters
+* Friday Sodorff
+* Kiah Penfield
+* Brett Botts - Teamsters Local 313
+
+#### 8 👎 - Con
+Testifying:
 * Rebecca Faust
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

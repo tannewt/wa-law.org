@@ -6,9 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 6 👍 - Pro
+## Meetings
+### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1150 Unlawful branding of person
+#### 6 👍 - Pro
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 1 ❓ - Other
+#### 1 ❓ - Other

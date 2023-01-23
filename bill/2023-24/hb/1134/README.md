@@ -6,15 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 161 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 01:30 PM - Health Care & Wellness (HCW): HB 1134 988 system
+#### 161 👍 - Pro
+Testifying:
 * Bipasha Mukherjee
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
 * Sarah Chesemore
-* Diane Mayes - Crisis Connections
 * Joan Miller - WA Council for Behavioral Health
 * Zach Duncan - The Crisis Clinic of Thurston and Mason Counties
+* Diane Mayes - Crisis Connections
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Kristen Wells
 * Jennifer Stuber - [University of Washington](/org/university_of_washington/)
@@ -25,10 +26,10 @@
 * Kelly Rider - [King County](/org/king_county/)
 * Joelle Craft - [Washington Community Action Network](/org/washington_community_action_network/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 3 ❓ - Other
-#### Testifying
+#### 3 ❓ - Other
+Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * Keri Waterland - HCA
 * Michele Roberts - [Department of Health](/org/department_of_health/)

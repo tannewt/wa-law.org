@@ -6,20 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 133 👍 - Pro
-#### Testifying
-* Sam Cho - Port of Seattle, Commission President
-* Mar  Brettmann - Businesses Ending Slavery and Trafficking
+## Meetings
+### Tue 01/17 10:30 AM - Human Services (HS): SB 5114 Sex trafficking
+#### 133 👍 - Pro
+Testifying:
 *  Kyra Abrahamson - Washington Trafficking Prevention
+* Mar  Brettmann - Businesses Ending Slavery and Trafficking
 * Marissa Perez - Yarrow Project
-* Rebekah Fonden - Organization for Prostitution Survivors
 * Mary Williams  - Real Escape from the Sex Trade
+* Rebekah Fonden - Organization for Prostitution Survivors
 * Robin  Miller
+* Sam Cho - Port of Seattle, Commission President
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 2 ❓ - Other
-#### Testifying
+#### 2 ❓ - Other
+Testifying:
 * Rick Torrance - Department of Commerce
 * Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade

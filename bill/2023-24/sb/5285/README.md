@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 11 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 04:00 PM - Ways & Means (WM): SB 5285 Caseload forecast/tax credit
+#### 11 👍 - Pro
+Testifying:
 * Steve Ewing - Department of Revenue
 * K.D. Chapman-See - Office of Financial Management
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

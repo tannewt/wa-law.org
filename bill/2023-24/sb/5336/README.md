@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 4 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/17 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5336 Main street trust fund
+#### 4 👍 - Pro
+Testifying:
 * brian enslow - [City of Vancouver](/org/city_of_vancouver/)
 * Michael Walker - Vancouver Downtown Association
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

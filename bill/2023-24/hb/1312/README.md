@@ -6,11 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1312 Jury service
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149782&caId=20623&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149782&caId=20623&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149782&caId=20623&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149782&caId=20623&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
 * Ann Chenhall - Thurston County School Retirees Association, Interfaith Works, Unity of Olympia, Stately Speakers To
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

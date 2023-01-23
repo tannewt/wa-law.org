@@ -6,37 +6,38 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 207 👍 - Pro
-#### Testifying
+## Meetings
+### Fri 01/20 08:00 AM - State Government & Elections (SGE): SB 5047 Voting rights act
+#### 207 👍 - Pro
+Testifying:
 * Carol Sullivan - League of Women Voters of Wl
 * 💵Alex Hur - OneAmerica
-* Lata Nott - Campaign Legal Center
-* 💵Denisse Guerrero - WA Community Alliance
-* Melissa Rubio - OneAmerica
-* 💵Colin Cole - More Equitable Democracy
 * Arlette Lopez
+* 💵Colin Cole - More Equitable Democracy
+* 💵Denisse Guerrero - WA Community Alliance
+* Lata Nott - Campaign Legal Center
+* Melissa Rubio - OneAmerica
 
-### 438 👎 - Con
-#### Testifying
+#### 438 👎 - Con
+Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Julie Barrett - Conservative Ladies of Washington
 * Sherri Tibbles
 * Mark Tibbles
 * Karen McIntosh
-* Edward Buck
-* Jennifer  Deacy
 * Maxine Herbert-Hill
 * Jessica Hargin - Conservative Ladies of Washington
-* Linnea McCord
-* Linnea McCord
+* Edward Buck
+* Jennifer  Deacy
 * Richard Grunewald
+* Linnea McCord
 * suzanne rohner
+* Linnea McCord
 
-### 6 ❓ - Other
-#### Testifying
-* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+#### 6 ❓ - Other
+Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Eric  ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Blanche Barajas - Mayor of the City of Pasco
 * 💵Briahna Murray - Lobbyist for City of Pasco
-* Eric  ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)

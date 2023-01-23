@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 3 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Finance (FIN): HB 1191 Cooperative finance org. B&O
+#### 3 👍 - Pro
+Testifying:
 * Paul Griffin - Washington Rural Electric Cooperative Association
 * Steve Walter - Tanner Electric Cooperative
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

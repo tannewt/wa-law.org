@@ -6,37 +6,38 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 15 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 01:30 PM - Early Learning & K-12 Education (EDU): SB 5311 Special education funding
+#### 15 👍 - Pro
+Testifying:
 * Shelly Burt
 * Anita Waller - Ephrata School District
 * Tania May - Office of Superintendent of Public Instruction
 * Preston Dwoskin
 * Magan Cromar - [King County](/org/king_county/)
 
-### 4 👎 - Con
-#### Testifying
+#### 4 👎 - Con
+Testifying:
 * Nancy Chamberlain - Washington State PTA
 * Samantha Fogg - Seattle Council PTSA
 * Christopher  Willis - Orting School District
 
-### 20 ❓ - Other
-#### Testifying
+#### 20 ❓ - Other
+Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition and Central Valley School District
-* Nikki  Lockwood  - [Spokane Public Schools](/org/spokane_public_schools/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Marisa Peloquin - Washington State School Directors' Association (WSSDA)
+* Nikki  Lockwood  - [Spokane Public Schools](/org/spokane_public_schools/)
 * Jon Holmen - Lake Washington School District
 * Maddy Thompson - Office of the Governor
 * 💵Shea Hamilton - Office of Financial Management
 * Tracy Wilson - Pasco School District
-* Ashley Burchett
 * Clifford Traisman  - Bellevue, Highline, Olympia, Seattle Public School Districts
 * Robert Cruickshank - Washington’s Paramount Duty
+* Ashley Burchett
 * Charlie Brown - Pierce County Superintendents and Federal Way SD
 * Sue Ann Bube - [School Alliance](/org/school_alliance/)
-* Tyler Stiner - North Thurston Public Schools
 * Katie Howell - Chehalis School District
 * 💵Troy Nichols - Capital Region ESD 113
+* Tyler Stiner - North Thurston Public Schools
 * Rachel Buschelman - Federal Way Education Association

@@ -6,25 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 513 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1195 Weapons/parks & hospitals
+#### 513 👍 - Pro
+Testifying:
 * Liz Hjelmseth
 * 💵Stephen Paolini - ADL
 * Flynn Williams
-* Neal Black - Kirkland City Council
 * 💵Michael Nelson
+* Neal Black - Kirkland City Council
 * Ashley Brooks
-* Jeannie Shu
 * Brian Duncan
+* Jeannie Shu
 
-### 483 👎 - Con
-#### Testifying
+#### 483 👎 - Con
+Testifying:
 * Ronald Lorimer
 * Chris Giles
-* Julie Barrett - Conservative Ladies of Washington
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Cory Malon - WA Civil Rights Association
 * Anthony Santoyo
+* Julie Barrett - Conservative Ladies of Washington
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

@@ -6,14 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 21 👍 - Pro
-#### Testifying
+## Meetings
+### Thu 01/19 04:00 PM - Transportation (TRAN): SB 5251 Commercial driver's licenses
+#### 21 👍 - Pro
+Testifying:
 * Jeff DeVere - Washington Trucking Associations
 * Beau Perschbacher - WA Dept. of Licensing
 * 💵Maya Gillett
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

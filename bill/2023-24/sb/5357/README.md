@@ -6,13 +6,20 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 6 👍 - Pro
-#### Testifying
-* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+## Meetings
+### Thu 01/26 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5357 Detached ADUs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149839&caId=20593&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149839&caId=20593&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149839&caId=20593&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149839&caId=20593&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other

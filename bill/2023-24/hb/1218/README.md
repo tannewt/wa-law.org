@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Positions
-### 16 👍 - Pro
-#### Testifying
+## Meetings
+### Wed 01/18 04:00 PM - Appropriations (APP): HB 1218 Caseload forecast/tax credit
+#### 16 👍 - Pro
+Testifying:
 * Steve Ewing - Department of Revenue
 * K.D. Chapman-See - Office of Financial Management
 
-### 0 👎 - Con
+#### 0 👎 - Con
 
-### 0 ❓ - Other
+#### 0 ❓ - Other
