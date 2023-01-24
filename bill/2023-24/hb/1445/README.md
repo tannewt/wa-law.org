@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149800&caId=20627&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149800&caId=20627&tId=4)
 
-#### 170 👍 - Pro
+#### 453 👍 - Pro
 
-#### 3 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Ryan Lufkin - WA Council of Police & Sheriffs (WACOPS)
+* James  McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other

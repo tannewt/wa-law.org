@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149741&caId=20675&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149741&caId=20675&tId=4)
 
-#### 832 👍 - Pro
+#### 1535 👍 - Pro
 Testifying:
 * Devin Glaser - Tenant Law Center
 * Elizabeth Rogers
@@ -29,8 +29,21 @@ Testifying:
 * kraig peck - small landlord to testify PRO
 * Sharon Pevey - AMHO
 * Robert Brandenburg
+* Diane Russell
+* Amber Abrahamson - Tenants Union of Washington State
+* Aaron Johnson - BIPOC Apostrophe Foundation
+* Guillermo Rivera - Eastside for All
+* Brianna Vazquez
+* Jann Purrier
+* Me Shah
+* Jeff Campbell
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Robin  Zorich
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Joseph Smith
+* Danyelle Robinson - Tenant
 
-#### 476 👎 - Con
+#### 1242 👎 - Con
 Testifying:
 * 💵Chester Baldwin - Rental Housing Coalition
 * Zijie He - Zijie He
@@ -54,5 +67,30 @@ Testifying:
 * JACOB BOND - GSC Investments
 * Jennifer  Lekisch
 * Mackinley Robinson
+* 💵Jim Henderson - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
+* Nora  Schultz
+* Sandra Eisert
+* Rebekah Near - Orca Rentals, LLC
+* Arielle  Dorman 
+* CCIM, Donald Arsenault - Arsenault Realty Advisors LLC
+* Carol Walker
+* Nathan Roberts
+* Peggy Hoffman
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Rick Glenn - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Jeremy Millard - Park Preservations
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Deborah Crawley 
+* FRANK MCKEEHAN
+* JENNIFER WU
+* John Barrett
+* Santana Schoene - [Detente Management](/org/detente_management/)
+* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Cindy Taylor
+* Valerie Robinson - Landlord
+* Jon Pettit - citizen
+* Mary Hull-Drury - Washington Realtors
 
-#### 5 ❓ - Other
+#### 14 ❓ - Other
+Testifying:
+* Holly  Bradley

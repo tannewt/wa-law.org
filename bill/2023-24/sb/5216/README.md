@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30469&aId=149679&caId=20556&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30469&aId=149679&caId=20556&tId=4)
 
-#### 7 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * David Jones - Cooper Jones Active Transportation Safety Council
 * Amber Weilert
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * Amy Freedheim - Senior DPA Felony Traffic
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

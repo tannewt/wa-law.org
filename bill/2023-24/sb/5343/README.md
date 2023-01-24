@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Melissa McFadgen - AIA WA Council
 
 #### 0 ❓ - Other

@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149767&caId=20686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149767&caId=20686&tId=4)
 
-#### 33 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * Dan Wise - 8335 9th Ave nw
 * JUSTIN MILLER
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

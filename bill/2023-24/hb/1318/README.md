@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149778&caId=20664&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149778&caId=20664&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Jeff Gombosky - Aero-Flite Inc.
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Stephanie  Wright - Snohomish County
+* Rashma Agarwal - EASC - Economic Alliance of Snohomish County

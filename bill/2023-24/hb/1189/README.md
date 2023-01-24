@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30483&aId=149535&caId=20632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30483&aId=149535&caId=20632&tId=4)
 
-#### 121 👍 - Pro
+#### 153 👍 - Pro
+Testifying:
+* Gerald Hankerson - NAACP
+* Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tom Sahlberg
 
 #### 0 ❓ - Other

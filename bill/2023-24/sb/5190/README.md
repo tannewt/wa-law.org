@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=4)
 
-#### 222 👍 - Pro
+#### 426 👍 - Pro
 Testifying:
 * Dani Madrone - American Farmland Trust
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -24,7 +24,14 @@ Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * HUgo Garcia - City of Burien Councilmember
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Joe  Tovar - Washington Department of Commerce
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* Fred Felleman - Port of Seattle Commissioner
+* Dave Andersen - Washington Department of Commerce
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Arne Woodard - Councilmember, City of Spokane Valley

@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149412&caId=20661&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149412&caId=20661&tId=4)
 
-#### 11 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
+* Miki Gearhart - Department of Revenue
+* Steve Ewing - Department of Revenue
+* Kananu  Mason  - 130 lilac drive
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Amber Carter - Port of Vancouver USA

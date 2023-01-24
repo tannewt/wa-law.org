@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149612&caId=20534&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149612&caId=20534&tId=4)
 
-#### 2 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Noha Mahgoub - Governor's Office
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 
 #### 0 👎 - Con
 

@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149683&caId=20714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149683&caId=20714&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Conner Edwards
 * 💵Conner Edwards - Professional Campaign Treasurer
 * Jason Michaud - Campaign treasurer
+* Janet Miller
+* Deborah Pedersen
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* john Worthington
+* Sean Flynn - Public Disclosure Commission

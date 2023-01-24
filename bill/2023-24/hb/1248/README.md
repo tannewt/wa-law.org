@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 04:00 PM - Appropriations (APP): HB 1248 Pupil transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30445&aId=149505&caId=20612&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30445&aId=149505&caId=20612&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30445&aId=149505&caId=20612&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30445&aId=149505&caId=20612&tId=4)
-
-#### 21 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 * Cindy  McMullen  - [Central Valley School District](/org/central_valley_school_district/)
@@ -25,7 +19,15 @@ Testifying:
 * Nikki  Lockwood  - [Spokane Public Schools](/org/spokane_public_schools/)
 * Shaunie Wheeler - James - Teamsters
 * Charlie Brown - Pierce County Superintendents and Schools Alliance
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Jim Kowalkowski - Rural Education Center
+* Traci Mitchell - Washington State School Directors' Association / Everett SD
+* Garrett Kendall - North Thurston Public Schools
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jeff Baerwald - Nine Mile Falls School District
+* Barbara Posthumus - Lake Washington School District
+* 💵Carolyn Logue - WA State Student Transportation Coalition

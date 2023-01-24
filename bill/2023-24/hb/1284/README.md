@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30491&aId=149578&caId=20635&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30491&aId=149578&caId=20635&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Annie  Fitzsimmons - Legal Counsel - WA Realtors
+* 💵Bill Clarke - WA REALTORS
+* Shelly Schmitz - Keller Williams Real Estate; WA Real Estate Commissioner
+* Justin Haag - NW Multiple Listing Service
+* Lars Neste - Demco Law Firm, PS
+* Chris Osborn - Stoel Rives LLP
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Doug Tingvall
 * Kary Krismer
+* Doug Tingvall
 
 #### 0 ❓ - Other

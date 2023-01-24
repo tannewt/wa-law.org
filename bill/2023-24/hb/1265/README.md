@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149777&caId=20663&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149777&caId=20663&tId=4)
 
-#### 8 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * Cathy Murahashi - Community Homes
 * Mike Ernst - Life Enrichment Options (LEO) Organization
 * Leo Finnegan
+* John Smiley
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

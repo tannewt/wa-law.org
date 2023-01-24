@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149614&caId=20535&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149614&caId=20535&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Dave Andersen - Washington Department of Commerce
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* john Worthington
 
 #### 0 ❓ - Other

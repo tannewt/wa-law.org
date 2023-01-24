@@ -14,13 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=4)
 
-#### 89 👍 - Pro
+#### 364 👍 - Pro
 Testifying:
 * Lisa  Keating 
 * Jody Disney - LWVWA
+* Jill Kong
+* Dr. Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
+* Dr. Erin Berry - Planned Parenthood
+* Jaelynn Scott - Lavender Rights Project
+* Danni Askini - Gender Justice League
+* Dr. Sarah Prager - American College of Obstetricians and Gynecologists
+* Dr. Suzanne Poppema
+* Alex Wehinger - Washington State Medical Association
+* 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
+* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* Hillary Whitmore
 
-#### 226 👎 - Con
+#### 404 👎 - Con
 Testifying:
 * Diana Amirehteshami  - Conservative Ladies of WA
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

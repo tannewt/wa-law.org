@@ -1,0 +1,818 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5520](/bill/2023-24/sb/5520/) > [Original Bill](/bill/2023-24/sb/5520/1/)
+
+# SB 5520 - Fire service policy board
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5520.pdf)
+
+## Section 1
+The legislature finds that Washington state's fire service has evolved significantly over the past quarter century. Since the mid-1990's, fire departments across the state have taken on more responsibilities than ever previously envisioned. In addition to fire suppression, Washington's fire service has evolved to provide basic and advanced life support, educate the public on fire prevention, perform technical rescue, respond to hazardous materials incidents, and provide all-hazards response to wildland fires, natural disasters, and pandemics and infectious disease outbreaks. During this same time, Washington's population has grown by more than 2,000,000 residents.
+
+The legislature acknowledges the breadth and depth of the services the public expects, and that the fire service delivers, to protect life, property, and the environment. Therefore, the legislature intends to establish the fire service policy board to ensure that the state director of fire protection has the necessary authority and support to guarantee the continued provision of comprehensive fire service training, fire prevention, investigations, and all-hazards response for all of Washington state.
+
+## Section 2
+1. There is created the Washington state fire service policy board, consisting of five members to be appointed by the governor.
+
+2. The fire service policy board shall include:
+
+    a. One member representing the Washington state council of firefighters;
+
+    b. One member representing the Washington state firefighters association;
+
+    c. One member representing the Washington state fire commissioners association;
+
+    d. One member representing the Washington fire chiefs association; and
+
+    e. One member of the public with an interest in fire safety.
+
+3. Each organization to be represented on the board shall select a list of three nominees for submission to the governor no later than 90 days prior to the start of a member's term. For vacancies in unexpired terms, the governor shall make an appointment within 90 days after the vacancies occur.
+
+4. Three members of the board constitutes a quorum.
+
+5. Board members shall serve terms of four years, but no person shall be appointed to serve more than two full terms. Terms of office shall be staggered so that either two or three board member's terms expire each even-numbered year.
+
+6. Board members may be removed in accordance with RCW 43.06.070.
+
+## Section 3
+1. The board may employ one or more full-time administrative staff members to carry out the duties and responsibilities outlined in this chapter.
+
+2. The fire service policy board shall work in conjunction with the Washington state patrol to develop a plan for the transfer of personnel engaged in performing the powers, functions, and duties transferred to the jurisdiction of the fire service policy board.
+
+## Section 4
+Each member of the board shall be compensated in accordance with RCW 43.03.265. Members shall be reimbursed for travel expenses incurred in the actual performance of their duties, as provided in RCW 43.03.050 and 43.03.060. The board is designated as a class four group for purposes of chapter 43.03 RCW.
+
+## Section 5
+1. All powers, duties, and functions of the Washington state patrol pertaining to fire protection are transferred to the Washington state fire service policy board. All references to the chief of the Washington state patrol in the Revised Code of Washington shall be construed to mean the fire marshal or the Washington state fire service policy board when referring to the functions transferred in this section.
+
+2. The transfer of the powers, duties, functions, and personnel of the Washington state patrol shall not affect the validity of any act performed before the effective date of this section.
+
+3. All rules and all pending business before the Washington state patrol pertaining to the powers, functions, and duties transferred shall be continued and acted upon by the fire service policy board. All existing contracts and obligations shall remain in full effect and shall be performed by the fire service policy board.
+
+4. All reports, documents, books, records, files, papers, or written material in the possession of the Washington state patrol relating to the functions transferred in this section shall be delivered to the custody of the fire service policy board. All cabinets, furniture, office equipment, motor vehicles, and other tangible property employed by the Washington state patrol in carrying out the powers, functions, and duties transferred shall be made available to the fire service policy board. All funds, credits, or other assets held in connection with the powers, functions, and duties transferred shall be assigned to the fire service policy board.
+
+5. Any appropriations made to the Washington state patrol for carrying out the powers, functions, and duties transferred shall, on the effective date of this section, be transferred and credited to the fire service policy board and the fire marshal.
+
+6. If apportionments of budgeted funds are required because of the transfers directed by this section, the director of financial management shall certify the appropriate transfer and adjustments in funds and appropriation accounts and equipment records in accordance with this certification.
+
+7. Whenever any question arises as to the transfer of any personnel, funds, books, documents, records, papers, files, equipment, or other tangible property used or held in the exercise of the powers and the performance of the duties and functions transferred, the director of financial management shall make a determination as to the proper allocation and certify the same to the boards and agencies involved.
+
+8. Nothing contained in this section may be construed to alter any existing collective bargaining agreement until the agreement has expired or until the bargaining unit has been modified by action of the personnel board as provided by law.
+
+## Section 6
+1. Wherever the term state fire marshal appears in the Revised Code of Washington or the Washington Administrative Code it shall mean the director of fire protection.
+
+2. The governor shall appoint  the director of fire protection. The director of fire protection must have executive management experience within fire service or the equivalent.
+
+3. The director of fire protection may designate one or more deputies and may delegate to those deputies his or her duties and authorities as deemed appropriate.
+
+4. The director of fire protection shall prepare a biennial budget pertaining to fire protection services.
+
+5. The director of fire protection, shall implement and administer, within constraints established by budgeted resources, all duties of the chief of the Washington state patrol that are to be carried out through the director of fire protection, and all of the duties of the director of fire protection. Such administration shall include negotiation of agreements with the state board for community and technical colleges and the state colleges and universities as provided in RCW 43.43.934. Programs covered by such agreements shall include, but not be limited to, planning curricula, developing and delivering instructional programs and materials, and using existing instructional personnel and facilities. Where appropriate, such contracts shall also include planning and conducting instructional programs at the state fire service training center.
+
+## Section 7
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this subchapter.
+
+1. "All risk resources" means those resources regularly provided by fire departments, fire districts, and regional fire protection service authorities required to respond to natural or man-made incidents, including but not limited to:
+
+    a. Wild land fires;
+
+    b. Landslides;
+
+    c. Earthquakes;
+
+    d. Floods; and
+
+    e. Contagious diseases.
+
+2. "Chief" means the chief of the Washington state patrol.
+
+3. "Fire chief" includes the chief officer of a statutorily authorized fire agency, or the fire chief's authorized representative. Also included are the department of natural resources fire control chief, and the department of natural resources regional managers.
+
+4. "Jurisdiction" means state, county, city, fire district, regional fire protection service authority, or port district units, or other units covered by this chapter.
+
+5. "Mobilization" means that all risk resources regularly provided by fire departments, fire districts, and regional fire protection service authorities beyond those available through existing agreements will be requested and, when available, sent in preparation of, or response to, an emergency or disaster situation that has or is predicted to exceed the capabilities of available local resources. During a large scale emergency, mobilization includes the redistribution of regional or statewide risk resources to either direct emergency incident assignments or to assignment in communities where resources are needed. All risk resources may not be mobilized to assist law enforcement with police activities during a civil protest or demonstration, or other exercise by the people of their constitutionally protected First Amendment rights, or other protected concerted activity, however, fire departments, fire districts, and regional fire protection service authorities are not restricted from providing medical care or aid and firefighting when mobilized for any purpose.
+
+When mobilization is declared and authorized as provided in this chapter, all risk resources regularly provided by fire departments, fire districts, and regional fire protection service authorities including those of the host fire protection authorities, i.e. incident jurisdiction, shall be deemed as mobilized under this chapter, including those that responded earlier under existing mutual aid or other agreement. All nonhost fire protection authorities providing resources in response to a mobilization declaration shall be eligible for expense reimbursement as provided by this chapter from the time of the mobilization declaration.
+
+This chapter shall not reduce or suspend the authority or responsibility of the department of natural resources under chapter 76.04 RCW.
+
+6. "Mutual aid" means emergency interagency assistance provided without compensation under an agreement between jurisdictions under chapter 39.34 RCW.
+
+7. "State fire marshal" means the director of fire protection .
+
+## Section 8
+No building warden, who acts in good faith, with or without compensation, shall be personally liable for civil damages arising from his or her negligent acts or omissions during the course of assigned duties in assisting others to evacuate industrial, commercial, governmental or multiunit residential buildings or in attempting to control or alleviate a hazard to the building or its occupants caused by fire, earthquake or other threat to life or limb. The term "building warden" means an individual who is assigned to take charge of the occupants on a floor or in an area of a building during an emergency in accordance with a predetermined fire safety or evacuation plan; and/or an individual selected by a municipal fire chief or the fire service policy board, through the director of fire protection, after an emergency is in progress to assist in evacuating the occupants of such a building or providing for their safety. This section shall not apply to any acts or omissions constituting gross negligence or willful or wanton misconduct.
+
+## Section 9
+Any person who willfully and without cause tampers with, molests, injures or breaks any public or private fire alarm apparatus, emergency phone, radio, or other wire or signal, or any firefighting equipment, or who willfully and without having reasonable grounds for believing a fire exists, sends, gives, transmits, or sounds any false alarm of fire, by shouting in a public place or by means of any public or private fire alarm system or signal, or by telephone, is guilty of a misdemeanor. This provision shall not prohibit the testing of fire alarm systems by persons authorized to do so, by a fire department or the fire service policy board, through the director of fire protection.
+
+## Section 10
+Standards for fire protection and the enforcement thereof, with respect to all assisted living facilities to be licensed hereunder, shall be the responsibility of the fire service policy board, through the director of fire protection, who shall adopt such recognized standards as may be applicable to assisted living facilities for the protection of life against the cause and spread of fire and fire hazards. The department, upon receipt of an application for a license, shall submit to the fire service policy board, through the director of fire protection, in writing, a request for an inspection, giving the applicant's name and the location of the premises to be licensed. Upon receipt of such a request, the fire service policy board, through the director of fire protection, or his or her deputy, shall make an inspection of the assisted living facility to be licensed, and if it is found that the premises do not comply with the required safety standards and fire rules as adopted by the fire service policy board, through the director of fire protection,  shall promptly make a written report to the assisted living facility and the department as to the manner and time allowed in which the premises must qualify for a license and set forth the conditions to be remedied with respect to fire rules. The department, applicant, or licensee shall notify the fire service policy board, through the director of fire protection, upon completion of any requirements made by him or her, and the fire service policy board, through the director of fire protection, or his or her deputy, shall make a reinspection of such premises. Whenever the assisted living facility to be licensed meets with the approval of the fire service policy board, through the director of fire protection, they shall submit to the department a written report approving same with respect to fire protection before a full license can be issued. The fire service policy board, through the director of fire protection, shall make or cause to be made inspections of such facilities at least annually.
+
+In cities which have in force a comprehensive building code, the provisions of which are determined by the fire service policy board, through the director of fire protection, to be equal to the minimum standards of the code for assisted living facilities adopted by the fire service policy board, through the director of fire protection, the chief of the fire department, provided the latter is a paid chief of a paid fire department, shall make the inspection with the fire service policy board, through the director of fire protection, or his or her deputy, and they shall jointly approve the premises before a full license can be issued.
+
+## Section 11
+Fire protection with respect to all birthing centers to be licensed hereunder, shall be the responsibility of the fire service policy board, through the director of fire protection, who shall adopt by reference, such recognized standards as may be applicable to nursing homes, places of refuge, and birthing centers for the protection of life against the cause and spread of fire and fire hazards. The department upon receipt of an application for a license, shall submit to the fire service policy board, through the director of fire protection, in writing, a request for an inspection, giving the applicant's name and the location of the premises to be licensed. Upon receipt of such a request, the fire service policy board, through the director of fire protection, or his or her deputy, shall make an inspection of the birthing center to be licensed, and if it is found that the premises do not comply with the required safety standards and fire regulations as promulgated by the fire service policy board, through the director of fire protection, he or she shall promptly make a written report to the department as to the manner in which the premises may qualify for a license and set forth the conditions to be remedied with respect to fire regulations. The department, applicant or licensee shall notify the fire service policy board, through the director of fire protection, upon completion of any requirements made by him or her, and the fire service policy board, through the director of fire protection, or his or her deputy, shall make a reinspection of such premises. Whenever the birthing center to be licensed meets with the approval of the fire service policy board, through the director of fire protection, he or she shall submit to the department, a written report approving same with respect to fire protection before a license can be issued. The fire service policy board, through the director of fire protection, shall make or cause to be made such inspection of such birthing centers as deemed necessary.
+
+In cities which have in force a comprehensive building code, the regulation of which is equal to the minimum standards of the code for birthing centers adopted by the fire service policy board, through the director of fire protection, the building inspector and the chief of the fire department, provided the latter is a paid chief of a paid fire department, shall make the inspection and shall approve the premises before a license can be issued.
+
+In cities where such building codes are in force, the fire service policy board, through the director of fire protection, may, upon request by the chief fire official, or the local governing body, or of a taxpayer of such city, assist in the enforcement of any such code pertaining to birthing centers.
+
+## Section 12
+Standards for fire protection and the enforcement thereof, with respect to all nursing homes to be licensed hereunder, shall be the responsibility of the fire service policy board, through the director of fire protection, who shall adopt such recognized standards as may be applicable to nursing homes for the protection of life against the cause and spread of fire and fire hazards. The department upon receipt of an application for a license, shall submit to the fire service policy board, through the director of fire protection, in writing, a request for an inspection, giving the applicant's name and the location of the premises to be licensed. Upon receipt of such a request, the fire service policy board, through the director of fire protection, or his or her deputy, shall make an inspection of the nursing home to be licensed, and if it is found that the premises do not comply with the required safety standards and fire regulations as promulgated by the fire service policy board, through the director of fire protection, he or she shall promptly make a written report to the nursing home and the department as to the manner and time allowed in which the premises must qualify for a license and set forth the conditions to be remedied with respect to fire regulations. The department, applicant or licensee shall notify the fire service policy board, through the director of fire protection, upon completion of any requirements made by him or her, and the fire service policy board, through the director of fire protection, or his or her deputy, shall make a reinspection of such premises. Whenever the nursing home to be licensed meets with the approval of the fire service policy board, through the director of fire protection, he or she shall submit to the department, a written report approving same with respect to fire protection before a full license can be issued. The fire service policy board, through the director of fire protection, shall make or cause to be made inspections of such nursing homes at least every eighteen months.
+
+In cities which have in force a comprehensive building code, the provisions of which are determined by the fire service policy board, through the director of fire protection, to be equal to the minimum standards of the code for nursing homes adopted by the fire service policy board, through the director of fire protection, the chief of the fire department, provided the latter is a paid chief of a paid fire department, shall make the inspection with the fire service policy board, through the director of fire protection, or his or her deputy and they shall jointly approve the premises before a full license can be issued.
+
+## Section 13
+Inspections of nursing homes by local authorities shall be consistent with the requirements of chapter 19.27 RCW, the state building code. Findings of a serious nature shall be coordinated with the department and the fire service policy board, through the director of fire protection, for determination of appropriate actions to ensure a safe environment for nursing home residents. The fire service policy board, through the director of fire protection, shall have exclusive authority to determine appropriate corrective action under this section.
+
+## Section 14
+The fire service policy board, through the director of fire protection, is the only authority having jurisdiction over the approval of portable oil-fueled heaters. The sale and use of portable oil-fueled heaters is governed exclusively by RCW 19.27A.080 through 19.27A.120: PROVIDED, That cities and counties may adopt local standards as provided in RCW 19.27.040.
+
+## Section 15
+The director of fire protection shall:
+
+1. [Empty]
+
+    a. [Empty]
+
+        i. With the state board for community and technical colleges, provide academic, vocational, and field training programs for the fire service; and (ii) with the state colleges and universities, provide instructional programs requiring advanced training, especially in command and management skills;
+
+    b. Cooperate with the common schools, technical and community colleges, institutions of higher education, and any department or division of the state, or of any county or municipal corporation in establishing and maintaining instruction in fire service training and education in accordance with any act of congress and legislation enacted by the legislature in pursuance thereof and in establishing, building, and operating training and education facilities.
+
+Industrial fire departments and private fire investigators may participate in training and education programs under this chapter for a reasonable fee established by rule;
+
+    c. Develop and adopt a master plan for constructing, equipping, maintaining, and operating necessary fire service training and education facilities subject to the provisions of chapter 43.19 RCW;
+
+    d. Develop and adopt a master plan for the purchase, lease, or other acquisition of real estate necessary for fire service training and education facilities in a manner provided by law; and
+
+    e. [Empty]
+
+        i. Develop and adopt a plan for the fire service policy board fire training academy to deliver basic firefighter training and testing to all city fire departments, fire protection districts, regional fire protection service authorities, and other public fire agencies in the state. The plan required by this subsection (1)(e) must specify that the delivery of training and testing services will be provided:
+
+(A) To recipients in the following order of priority:
+
+(I) Volunteer departments;
+
+(II) Combination departments; and
+
+(III) Fire agencies that employ only career firefighters and fire officers; and
+
+(B) By personnel of the fire training academy, either at the academy's facilities in North Bend, Washington, or regionally at local fire agencies.
+
+        ii.(A) In lieu of receiving training and testing services from the fire training academy, city fire departments, fire protection districts, regional fire protection service authorities, and other public fire agencies in the state may seek reimbursement for their firefighter I training expenses. The amount of reimbursement will be calculated on a per capita basis. The per capita amount is equal to the three-year statewide firefighter per capita average for the regional direct delivery of training by the fire training academy. The three-year statewide firefighter per capita average is calculated by dividing the number of firefighters trained using the regional direct delivery program during the three-year period into the total cost of providing regional direct delivery during the same three-year period. The regional direct delivery costs used for the basis of these calculations does not include the costs of the fire training academy personnel used to coordinate the direct delivery programs, the state's indirect costs, or any other indirect costs.
+
+(B) Prior to the implementation of the reimbursement provisions in (e)(ii)(A) of this subsection, the amount of reimbursement for city fire departments, fire protection districts, regional fire protection service authorities, and other public fire agencies must be not less than three dollars for every one hour of firefighter I training, and may not exceed two hundred hours.
+
+        iii. Subject to approval by the director of fire protection, and in accordance with the plan required by this subsection (1)(e), the fire training academy facilities and programs must be made available at no cost to fire service youth programs. The goal of making these facilities and programs available is to increase enrollment of volunteer firefighters, and to improve gender, cultural, and ethnic diversity within the fire service.
+
+        iv. For purposes of this subsection (1)(e), the following definitions apply:
+
+(A) "Basic firefighter training and testing" means training and testing for firefighters that is up to and includes the requirements of firefighter I, as identified by the national fire protection association standard 1001;
+
+(B) "Combination department" means a fire department with emergency service personnel comprising less than eighty-five percent of either volunteer or career membership;
+
+(C) "Delivery of training" includes all resources, personnel, and equipment necessary to deliver training at the fire academy in North Bend, Washington, or regionally at local fire agencies; and
+
+(D) "Volunteer department" means a fire department with volunteer emergency service personnel comprising eighty-five percent or greater of its department membership.
+
+2. [Empty]
+
+    a. Promote mutual aid and disaster planning for fire services in this state;
+
+    b. Assure the dissemination of information concerning the amount of fire damage including that damage caused by arson, and its causes and prevention; and
+
+    c. Implement any legislation enacted by the legislature to meet the requirements of any acts of congress that apply to this section.
+
+3. In carrying out its statutory duties, the office of the state fire marshal shall give particular consideration to the appropriate roles to be played by the state and by local jurisdictions with fire protection responsibilities. Any determinations on the division of responsibility shall be made in consultation with local fire officials and their representatives.
+
+To the extent possible, the office of the state fire marshal shall encourage development of regional units along compatible geographic, population, economic, and fire risk dimensions. Such regional units may serve to: (a) Reinforce coordination among state and local activities in fire service training, reporting, inspections, and investigations; (b) identify areas of special need, particularly in smaller jurisdictions with inadequate resources; (c) assist the state in its oversight responsibilities; (d) identify funding needs and options at both the state and local levels; and (e) provide models for building local capacity in fire protection programs.
+
+## Section 16
+1. Wherever the term state fire marshal appears in the Revised Code of Washington or the Washington Administrative Code it shall mean the director of fire protection.
+
+2. The governor shall appoint the director of fire protection. The director of fire protection must have executive management experience within fire service or the equivalent.
+
+3. The director of fire protection may designate one or more deputies and may delegate to those deputies his or her duties and authorities as deemed appropriate.
+
+4. The director of fire protection shall prepare a biennial budget pertaining to fire protection services.
+
+5. The director of fire protection, shall implement and administer, within constraints established by budgeted resources, all duties of the fire service policy board that are to be carried out through the director of fire protection, and all of the duties of the director of fire protection. Such administration shall include negotiation of agreements with the state board for community and technical colleges and the state colleges and universities as provided in RCW 43.43.934 (as recodified by this act). Programs covered by such agreements shall include, but not be limited to, planning curricula, developing and delivering instructional programs and materials, and using existing instructional personnel and facilities. Where appropriate, such contracts shall also include planning and conducting instructional programs at the state fire service training center.
+
+## Section 17
+The fire service policy board, through the director of fire protection, shall have the power and it shall be his or her duty to adopt licensing minimum standard requirements for before‑school and after‑school programs in existing buildings approved by the state fire marshal.
+
+## Section 18
+The fire service policy board may accept any and all donations, grants, bequests, and devises, conditional or otherwise, or money, property, service, or other things of value which may be received from the United States or any agency thereof, any governmental agency, any institution, person, firm, or corporation, public and private, to be held, used, or applied for the purposes of the fire service training program established in RCW 43.43.934 (as recodified by this act).
+
+## Section 19
+The fire service policy board may: (1) Impose and collect fees for fire service training; and (2) establish and set fee schedules for fire service training.
+
+## Section 20
+1. The fire service training account is hereby established in the state treasury. The primary purpose of the account is firefighter training for both volunteer and career firefighters. The fund shall consist of:
+
+    a. All fees received by the fire service policy board for fire service training;
+
+    b. All grants and bequests accepted by the fire service policy board under RCW 43.43.940 (as recodified by this act);
+
+    c. 30 percent of all moneys received by the state on fire insurance premiums;
+
+    d. Revenue from penalties established under RCW 19.27.740; and
+
+    e. General fundstate moneys appropriated into the account by the legislature.
+
+2. Moneys in the account may be appropriated for: (a) Fire service training; (b) school fire prevention activities within the fire service policy board; and (c) the maintenance, operations, and capital projects of the state fire training academy. However, expenditures for purposes of (b) and (c) of this subsection may only be made to the extent that these expenditures do not adversely affect expenditures for the purpose of (a) of this subsection. The fire service policy board may use amounts appropriated from the fire service training account under this section to contract with the Washington state firefighters apprenticeship trust for the operation of the firefighter joint apprenticeship training program. The contract may call for payments on a monthly basis.
+
+3. Any general fundstate moneys appropriated into the account shall be allocated solely to the firefighter joint apprenticeship training program. The fire service policy board may contract with outside entities for the administration and delivery of the firefighter joint apprenticeship training program.
+
+## Section 21
+Money from the fire services trust fund may be expended for the following purposes:
+
+1. Training of fire service personnel, including both classroom and hands-on training at the state fire training center or other locations approved by the fire service policy board through the director of fire protection services;
+
+2. Maintenance and operation at the state's fire training center near North Bend. If in the future the state builds or leases other facilities as other fire training centers, a portion of these moneys may be used for the maintenance and operation at these centers;
+
+3. Lease or purchase of equipment for use in the provisions of training to fire service personnel;
+
+4. Grants or subsidies to local jurisdictions to allow them to perform their functions under this section;
+
+5. Costs of administering these programs under this section;
+
+6. Licensing and enforcement of state laws governing the sales of fireworks; and
+
+7. Development with the legal fireworks industry and funding of a statewide public education program for fireworks safety.
+
+## Section 22
+1. The legislature finds that provisions for information systems relating to statistics and reporting for fire prevention, suppression, and damage control do not adequately address the needs of ongoing investigations of fire incidents where the cause is suspected or determined to be the result of negligence or otherwise suggestive of some criminal activity, particularly that of arson. It is the intent of the legislature to establish an information and reporting system designed specifically to assist state and local officers in conducting such investigations and, where substantiated, to undertake prosecution of individuals suspected of such activities.
+
+2. [Empty]
+
+    a. In addition to the information provided by local officials about the cause, origin, and extent of loss in fires under this chapter , there is hereby created the state arson investigation information system in the fire service policy board.
+
+    b. The fire service policy board shall develop the arson investigation information system in consultation with representatives of the various state and local officials charged with investigating fires resulting from suspicious or criminal activities under this chapter  and of the insurance industry.
+
+    c. The arson investigation information system shall be designed to include at least the following attributes: (i) The information gathered and reported shall meet the diverse needs of state and local investigating agencies; (ii) the forms and reports are drafted in understandable terms of common usage; and (iii) the results shall be adaptable to the varying levels of available resources, maintained in a manner to foster data sharing and mutual aid activities, and made available to other law enforcement agencies responsible for criminal investigations.
+
+    d. All insurers required to report claim information under the provisions of chapter 48.50 RCW shall cooperate fully with any requests from the fire service policy board in developing and maintaining the arson investigation information system. The confidentiality provisions of that chapter shall be fully enforced.
+
+## Section 23
+Because of the possibility of the occurrence of disastrous fires or other disasters of unprecedented size and destructiveness, the need to insure that the state is adequately prepared to respond to such a fire or disaster, the need to establish a mechanism and a procedure to provide for reimbursement to state agencies and local agencies that respond to help others in time of need or to a host fire district that experiences expenses beyond the resources of the fire district, and generally to protect the public peace, health, safety, lives, and property of the people of Washington, it is hereby declared necessary to:
+
+1. Provide the policy and organizational structure for large scale mobilization of all risk resources in the state through creation of the Washington state fire services mobilization plan;
+
+2. Confer upon the fire service policy board the powers provided herein;
+
+3. Provide a means for reimbursement to state agencies and local fire jurisdictions that incur expenses when mobilized by the director of fire protection under the Washington state fire services mobilization plan; and
+
+4. Provide for reimbursement of the host fire department or fire protection district when it has: (a) Exhausted all of its resources; and (b) invoked its local mutual aid network and exhausted those resources. Upon implementation of state fire mobilization, the host district resources shall become state fire mobilization resources consistent with the fire mobilization plan.
+
+It is the intent of the legislature that mutual aid and other interlocal agreements providing for enhanced emergency response be encouraged as essential to the public peace, safety, health, and welfare, and for the protection of the lives and property of the people of the state of Washington. If possible, mutual aid agreements should be without stated limitations as to resources available, time, or area. Nothing in this chapter shall be construed or interpreted to limit the eligibility of any nonhost fire protection authority for reimbursement of expenses incurred in providing all risk resources for mobilization provided that the mobilization must meet the requirements identified in the Washington state fire service mobilization plan.
+
+## Section 24
+The director of fire protection shall review and make recommendations to the fire service policy board on the refinement and maintenance of the Washington state fire services mobilization plan, which shall include the procedures to be used during fire and other emergencies for coordinating local, regional, and state fire jurisdiction resources. In carrying out this duty, the director of fire protection shall consult with and solicit recommendations from representatives of state and local fire and emergency management organizations, regional fire defense boards, and the department of natural resources. The Washington state fire services mobilization plan shall be consistent with, and made part of, the Washington state comprehensive emergency management plan. The fire service policy board shall review the fire services mobilization plan as submitted by the director of fire protection, recommend changes that may be necessary, and approve the fire services mobilization plan for inclusion within the state comprehensive emergency management plan.
+
+It is the responsibility of the fire service policy board to mobilize jurisdictions under the Washington state fire services mobilization plan. The state fire marshal shall serve as the state fire resources coordinator when the Washington state fire services mobilization plan is mobilized.
+
+## Section 25
+The fire service policy board in consultation with the office of financial management and the Washington military department shall develop procedures to facilitate reimbursement to state agencies and jurisdictions from appropriate federal and state funds when state agencies and jurisdictions are mobilized by the fire service policy board under the Washington state fire services mobilization plan. The fire service policy board shall ensure that these procedures provide reimbursement to the host district in as timely a manner as possible.
+
+## Section 26
+The fire service policy board must report on an annual basis the following information for each emergency or disaster in which the Washington state fire service mobilization plan was used for purposes other than fire suppression, and reimbursement was made under RCW 43.43.961 (as recodified by this act):
+
+1. The type and nature of the disaster or emergency;
+
+2. The reasons why the host jurisdiction and mutual aid resources were exhausted;
+
+3. The additional risk resources provided under the mobilization plan;
+
+4. The cost incurred by the fire service policy board;
+
+5. The amount of reimbursement made under RCW 43.43.961 (as recodified by this act) to the host jurisdiction and to each nonhost jurisdiction providing all risk resources; and
+
+6. An assessment and any recommendations of actions that can be taken by the host jurisdiction and its mutual aid network to prevent future use of the fire mobilization plan for similar disasters or emergencies.
+
+## Section 27
+1. The fire service policy board, through the director of fire protection or his or her authorized deputy, shall have authority at all times of day and night, in the performance of duties imposed by this chapter, to enter upon and examine any building or premises where any fire has occurred and other buildings and premises adjoining or near thereto.
+
+2. The fire service policy board, through the director of fire protection or his or her authorized deputy, shall have authority at any reasonable hour to enter into any public building or premises or any building or premises used for public purposes to inspect for fire hazards.
+
+## Section 28
+1. The fire service policy board, through the director of fire protection or his or her authorized deputy, shall have authority to enter upon all premises and into all buildings except private dwellings for the purpose of inspection to ascertain if any fire hazard exists, and to require conformance with minimum standards for the prevention of fire and for the protection of life and property against fire and panic as to use of premises, and may adopt by reference nationally recognized standards applicable to local conditions.
+
+2. The fire service policy board, through the director of fire protection or his or her authorized deputy, may, upon request by the chief fire official or the local governing body or of taxpayers of such area, assist in the enforcement of any such code.
+
+## Section 29
+1. If the fire service policy board, through the director of fire protection or his or her authorized deputy, finds in any building or premises subject to their inspection under this chapter, any combustible material or flammable conditions or fire hazards dangerous to the safety of the building, premises, or to the public, he or she shall by written order require such condition to be remedied, and such order shall forthwith be complied with by the owner or occupant of the building or premises.
+
+2. An owner or occupant aggrieved by any such order made by the fire service policy board, through the director of fire protection or his or her deputy, may appeal such order pursuant to chapter 34.05 RCW. If the order is confirmed, the order shall remain in force and be complied with by the owner or occupant.
+
+3. Any owner or occupant failing to comply with any such order not appealed from or with any order so confirmed shall be punishable by a fine of not less than ten dollars nor more than fifty dollars for each day such failure exists.
+
+## Section 30
+1. The responsibility for investigating the origin, cause, circumstances, and extent of loss of all fires shall be assigned as follows:
+
+    a. Within any city or town, the chief of the fire department;
+
+    b. Within unincorporated areas of a county, the county fire marshal, or other fire official so designated by the county legislative authority.
+
+2. No fire marshal, or other person, may enter the scene of an emergency until permitted by the officer in charge of the emergency incident.
+
+3. Nothing shall prevent any city, town, county, or fire protection district, or any combination thereof, from entering into interlocal agreements to meet the responsibility required by this section.
+
+4. When any fire investigation indicates that the cause of the fire is determined to be suspicious or criminal in nature, the person responsible for the fire investigation shall immediately report the results of said investigation to the local law enforcement agency , the fire service policy board, and the state fire marshal.
+
+5. In addition to the responsibility imposed by this section, any law enforcement agency, sheriff, or chief of police may assist in the investigation of the origin, cause, circumstances, and extent of loss of all fires within his or her respective jurisdiction.
+
+6. The fire service policy board, through the director of fire protection or his or her deputy, may investigate any fire for the purpose of determining its cause, origin, and the extent of the loss. The fire service policy board, through the director of fire protection or his or her deputy, shall assist in the investigation of those fires of criminal, suspected, or undetermined cause when requested by the reporting agency. In the investigation of any fire of criminal, suspected, or undetermined cause, the fire service policy board and the director of fire protection or his or her deputy, are vested with police powers to enforce the laws of this state. To exercise these powers, authorized deputies must receive prior written authorization from the fire service policy board, through the director of fire protection, and shall have completed a course of training prescribed by the Washington state criminal justice training commission.
+
+## Section 31
+1. The chief of each organized fire department, or the sheriff or other designated county official having jurisdiction over areas not within the jurisdiction of any fire department, shall report statistical information and data to the fire service policy board, through the director of fire protection, on each fire occurring within the official's jurisdiction and, within two business days, report any death resulting from fire.
+
+2. Reports submitted pursuant to subsection (1) of this section shall be consistent with the national fire incident reporting system developed by the United States fire administration and rules established by the fire service policy board, through the director of fire protection. Rules established by the fire service policy board, through the director of fire protection, must require fire departments to report data on the age of any structure involved in a fire when that information is available through property records or other methods.
+
+3. Subject to availability of amounts appropriated for this specific purpose, the fire service policy board, through the director of fire protection, shall administer the national fire incident reporting system including, but not limited to, the following responsibilities:
+
+    a. Purchasing equipment, including software, needed for the operation of the reporting system;
+
+    b. Establishing procedures, standards, and guidelines pertaining to the statistical information and data reported by fire departments through the reporting system;
+
+    c. Providing training and education to fire departments pertaining to the reporting system; and
+
+    d. Employing staff to administer the reporting system, as needed.
+
+4. The fire service policy board, through the director of fire protection, and the department of natural resources shall jointly determine the statistical information to be reported on fires on land under the jurisdiction of the department of natural resources.
+
+5. The fire service policy board, through the director of fire protection, shall analyze the information and data reported, compile a report, and distribute a copy annually by July 1st to each chief fire official in the state. Upon request, the fire service policy board, through the director of fire protection, shall also furnish a copy of the report to any other interested person at cost.
+
+6. For purposes of this section, "national fire incident reporting system" or "reporting system" means the national fire incident reporting system or the state equivalent as selected by the fire service policy board, through the director of fire protection.
+
+## Section 32
+In the conduct of any investigation into the cause, origin, or loss resulting from any fire, the fire service policy board and the director of fire protection shall have the same power and rights relative to securing the attendance of witnesses and the taking of testimony under oath as is conferred upon the insurance commissioner under RCW 48.03.070. False swearing by any such witness shall be deemed to be perjury and shall be subject to punishment as such.
+
+## Section 33
+If as the result of any such investigation, or because of any information received, the fire service policy board, through the director of fire protection, is of the opinion that there is evidence sufficient to charge any person with any crime, he or she may cause such person to be arrested and charged with such offense, and shall furnish to the prosecuting attorney of the county in which the offense was committed, the names of witnesses and all pertinent and material evidence and testimony within his or her possession relative to the offense.
+
+## Section 34
+The fire service policy board, through the director of fire protection, shall keep on file all reports of fires made to him or her pursuant to this code. Such records shall at all times during business hours be open to public inspection; except, that any testimony taken in a fire investigation may, in the discretion of the fire service policy board, through the director of fire protection, be withheld from public scrutiny. The fire service policy board, through the director of fire protection, may destroy any such report after five years from its date.
+
+## Section 35
+1. Smoke detection devices shall be installed inside all dwelling units:
+
+    a. Occupied by persons other than the owner on and after December 31, 1981;
+
+    b. Built or manufactured in this state after December 31, 1980; or
+
+    c. Sold on or after July 1, 2019.
+
+2. The smoke detection devices shall be designed, manufactured, and installed inside dwelling units in conformance with:
+
+    a. Nationally accepted standards; and
+
+    b. As provided by the administrative procedure act, chapter 34.05 RCW, rules and regulations promulgated by the fire service policy board, through the director of fire protection.
+
+3. Installation of smoke detection devices shall be the responsibility of the owner. Maintenance of smoke detection devices, including the replacement of batteries where required for the proper operation of the smoke detection device, shall be the responsibility of the tenant, who shall maintain the device as specified by the manufacturer. At the time of a vacancy, the owner shall insure that the smoke detection device is operational prior to the reoccupancy of the dwelling unit.
+
+4. [Empty]
+
+    a. For any dwelling unit sold on or after July 1, 2019, that does not have at least one smoke detection device, the seller shall provide at least one smoke detection device in the dwelling unit before the buyer or any other person occupies the dwelling unit following such sale. A violation of this subsection does not affect the transfer of the title, ownership, or possession of the dwelling unit.
+
+    b. Real estate brokers licensed under chapter 18.85 RCW are not liable in any civil, administrative, or other proceeding for the failure of any seller or other property owner to comply with the requirements of this section.
+
+    c. Any person or entity that assists the buyer of a dwelling unit with installing a smoke detection device, whether they are voluntarily doing so or as a nonprofit, is not liable in any civil, administrative, or other proceeding relating to the installation of the smoke detection device.
+
+    d. Interconnection of smoke detection devices is not required where not already present in buildings undergoing repairs undertaken solely as a condition of sale.
+
+5. [Empty]
+
+    a. Except as provided in (b) of this subsection (5), any owner, seller, or tenant failing to comply with this section shall be punished by a fine of not more than two hundred dollars.
+
+    b. Any owner failing to comply with this section shall be punished by a fine of five thousand dollars if, after such failure, a fire causes property damage, personal injury, or death to a tenant or a member of a tenant's household. All moneys received pursuant to (a) or (b) of this subsection, except for administrative costs for enforcing the fine, shall be deposited into the smoke detection device awareness account created in RCW 43.44.115. Enforcement shall occur after a fire occurs and when it is evident that the dwelling unit sold on or after July 1, 2019, did not have at least one smoke detection device. The following may enforce this subsection:
+
+        i. The chief of the fire department if the dwelling unit is located within a city or town; or
+
+        ii. The county fire marshal or other fire official so designated by the county legislative authority if the dwelling unit is located within unincorporated areas of a county.
+
+6. For the purposes of this section:
+
+    a. "Dwelling unit" means a single unit providing complete, independent living facilities for one or more persons including permanent provisions for living, sleeping, eating, cooking, and sanitation; and
+
+    b. "Smoke detection device" means an assembly incorporating in one unit a device which detects visible or invisible particles of combustion, the control equipment, and the alarm-sounding device, operated from a power supply either in the unit or obtained at the point of installation.
+
+## Section 36
+The smoke detection device awareness account is created in the custody of the state treasurer. All receipts from fines imposed pursuant to RCW 43.44.110(5) must be deposited into the account. Expenditures from the account may be used only for the purposes of raising public awareness of owners and tenants' duties pertaining to smoke detection devices under RCW 43.44.110 and of the danger to life and property resulting from a failure to comply with those duties and for administrative costs related to enforcement of the fine created in RCW 43.44.110(5)(b). Only the fire service policy board, through the director of fire protection or the director of fire protection's authorized deputy, may authorize expenditures from the account. The account is subject to the allotment procedures under chapter 43.88 RCW, but an appropriation is not required for expenditures.
+
+## Section 37
+1. All premises guarded by guard animals, which are animals professionally trained to defend and protect premises or the occupants of the premises, shall be registered with the local fire department. Front entrances to residences and all entrances to business premises shall be posted in a visible location with signs approved by the fire service policy board, through the director of fire protection, indicating that guard animals are present.
+
+2. A firefighter, who reasonably believes that his or her safety is endangered by the presence of a guard animal, may without liability: (a) Refuse to enter the premises, or (b) take any reasonable action necessary to protect himself or herself from attack by the guard animal.
+
+3. If the person responsible for the guard animal being on the premises does not comply with subsection (1) of this section, that person may be held liable for any injury to the firefighter caused by the presence of the guard animal.
+
+## Section 38
+1. The fire service policy board, through the director of fire protection or his or her authorized deputy, shall, in consultation with the emergency management program within the state military department, the department of ecology, the utilities and transportation commission, and local emergency services organizations:
+
+    a. Evaluate the preparedness of local first responders in meeting emergency management demands under subsection (2) of this section; and
+
+    b. Conduct an assessment of the equipment and personnel needed by local first responders to meet emergency management demands related to pipelines.
+
+2. The fire service policy board, through the director of fire protection or his or her deputy, shall develop curricula for training local first responders to deal with hazardous liquid and gas pipeline accidents. The curricula shall be developed in conjunction with pipeline companies and local first responders, and shall include a timetable and costs for providing training as defined in the curricula to all communities housing pipelines. Separate curricula shall be developed for hazardous liquid and gas pipelines so that the differences between pipelines may be recognized and appropriate accident responses provided. The need for a training program for regional incident management teams shall also be evaluated.
+
+3. In consultation with other relevant agencies, the fire service policy board, through the director of fire protection or his or her deputy, shall identify the need and means for achieving consistent application of the national interagency incident management system.
+
+4. For the purposes of this section, "local first responders" means police, fire, emergency medical staff, and volunteers.
+
+## Section 39
+The fire service policy board, through the director of fire protection, shall have the power and it shall be his or her duty:
+
+1. In consultation with the secretary and with the advice and assistance of persons representative of the various type agencies to be licensed, to adopt recognized minimum standard requirements pertaining to each category of agency established pursuant to this chapter necessary to protect all persons residing therein from fire hazards;
+
+2. To adopt licensing minimum standard requirements to allow children who attend classes in a school building during school hours to remain in the same building to participate in before-school or after-school programs and to allow participation in such before-school and after-school programs by children who attend other schools and are transported to attend such before-school and after-school programs;
+
+3. To make or cause to be made such inspections and investigations of agencies as he or she deems necessary;
+
+4. To make a periodic review of requirements under RCW 43.216.250(8) and to adopt necessary changes after consultation as required in subsection (1) of this section;
+
+5. To issue to applicants for licenses under this chapter who comply with the requirements, a certificate of compliance, a copy of which shall be presented to the department before a license shall be issued, except that an initial license may be issued as provided in RCW 43.216.315.
+
+## Section 40
+All agencies subject to this chapter shall accord the department, the fire service policy board, and the director of fire protection, or their designees, the right of entrance and the privilege of access to and inspection of records for the purpose of determining whether or not there is compliance with the provisions of this chapter and the requirements adopted under it.
+
+## Section 41
+1. Every automobile, truck, motorcycle, motor home, or off-road vehicle that is fueled by an alternative fuel source must bear a reflective placard issued by the national fire protection association indicating that the vehicle is so fueled. Violation of this subsection is a traffic infraction.
+
+2. As used in this section "alternative fuel source" includes propane, compressed natural gas, liquefied natural gas, liquid petroleum gas, or any chemically similar gas but does not include gasoline or diesel fuel.
+
+3. If a placard for a specific alternative fuel source has not been issued by the national fire protection association, a placard issued by the fire service policy board, through the director of fire protection, is required. The fire service policy board, through the director of fire protection, must develop rules for the design, size, and placement of the placard which remains effective until a specific placard is issued by the national fire protection association.
+
+## Section 42
+1. Each authorized insurer shall promptly report to the fire service policy board, through the director of fire protection, upon forms as prescribed and furnished by him or her, each fire loss of property in this state reported to it and whether the loss is due to criminal activity or to undetermined causes.
+
+2. Each such insurer shall likewise report to the fire service policy board, through the director of fire protection, upon claims paid by it for loss or damage by fire in this state. Copies of all reports required by this section shall be promptly transmitted to the state insurance commissioner.
+
+## Section 43
+As used in this chapter the following terms have the meanings indicated unless the context clearly requires otherwise.
+
+1. "Authorized agency" means a public agency or its official representative having legal authority to investigate criminal activity or the cause of a fire or to initiate criminal proceedings, including the following persons and agencies:
+
+    a. The fire service policy board and the director of fire protection;
+
+    b. The prosecuting attorney of the county where the criminal activity occurred;
+
+    c. State, county, and local law enforcement agencies;
+
+    d. The state attorney general;
+
+    e. The federal bureau of investigation, or any other federal law enforcement agency;
+
+    f. The United States attorney's office; and
+
+    g. The office of the insurance commissioner.
+
+2. "Insurer" means any insurer, as defined in RCW 48.01.050 and any self-insurer.
+
+3. "Relevant information" means information having any tendency to make the existence of any fact that is of consequence to the investigation or determination of criminal activity or the cause of any fire more probable or less probable than it would be without the information.
+
+## Section 44
+1. When an insurer has reason to believe that a fire loss reported to the insurer may be of other than accidental cause, the insurer shall notify the fire service policy board, through the director of fire protection, in the manner prescribed under RCW 48.05.320 concerning the circumstances of the fire loss, including any and all relevant material developed from the insurer's inquiry into the fire loss.
+
+2. Notification of the fire service policy board, through the director of fire protection, under subsection (1) of this section does not relieve the insurer of the duty to respond to a request for information from any other authorized agency and does not bar an insurer from other reporting under RCW 48.50.030(2).
+
+## Section 45
+1. Each authorized insurer shall promptly report to the fire service policy board, through the director of fire protection, upon forms as prescribed and furnished by him or her, each fire loss of property in this state reported to it and whether the loss is due to criminal activity or to undetermined causes.
+
+2. Each such insurer shall likewise report to the fire service policy board, through the director of fire protection, upon claims paid by it for loss or damage by fire in this state. Copies of all reports required by this section shall be promptly transmitted to the state insurance commissioner.
+
+## Section 46
+1. The fire service policy board, through the director of fire protection, may designate certain classes of occupancy within a geographic area or may designate geographic areas as having an abnormally high incidence of arson. This designation shall not be a valid reason for cancellation, refusal to issue or renew, modification, or increasing the premium for any fire insurance policy.
+
+2. A fire insurance policy may not be issued to insure any property within a class of occupancy within a geographic area or within a geographic area designated by the fire service policy board, through the director of fire protection, as having an abnormally high incidence of arson until the applicant has submitted an anti-arson application and the insurer or the insurer's representative has inspected the property. The application shall be prescribed by the fire service policy board, through the director of fire protection, and shall contain but not be limited to the following:
+
+    a. The name and address of the prospective insured and any mortgagees or other parties having an ownership interest in the property to be insured;
+
+    b. The amount of insurance requested and the method of valuation used to establish the amount of insurance;
+
+    c. The dates and selling prices of the property, if any, during the previous three years;
+
+    d. Fire losses exceeding one thousand dollars during the previous five years for property in which the prospective insured held an equity interest or mortgage;
+
+    e. Current corrective orders pertaining to fire, safety, health, building, or construction codes that have not been complied with within the time period or any extension of such time period authorized by the authority issuing such corrective order applicable to the property to be insured;
+
+    f. Present or anticipated occupancy of the structure, and whether a certificate of occupancy has been issued;
+
+    g. Signature and title, if any, of the person submitting the application.
+
+3. If the facts required to be reported by subsection (2) of this section materially change, the insured shall notify the insurer of any such change within fourteen days.
+
+4. An anti-arson application is not required for: (a) Fire insurance policies covering one to four-unit owner-occupied residential dwellings; (b) policies existing as of June 10, 1982; or (c) the renewal of these policies.
+
+5. An anti-arson application shall contain a notice stating: "Designation of a class of occupancy within a geographic area or geographic areas as having an abnormally high incidence of arson shall not be a valid reason for cancellation, refusal to issue or renew, modification, or increasing the premium for any fire insurance policy."
+
+## Section 47
+Rules designating geographic areas or classes of occupancy as having an abnormally high incidence of arson, and any other rules necessary to implement this chapter shall be adopted by the fire service policy board, through the director of fire protection, under chapter 34.05 RCW.
+
+## Section 48
+1. Wherever a fire protection district has been organized which includes within its area or is adjacent to, buildings and equipment, except those leased to a nontax exempt person or organization, owned by the legislative or administrative authority of a state agency or institution or a municipal corporation, the agency or institution or municipal corporation involved shall contract with such district for fire protection services necessary for the protection and safety of personnel and property pursuant to the provisions of chapter 39.34 RCW.
+
+2. Nothing in this section  requires that any state agency, institution, or municipal corporation contract for services which are performed by the staff and equipment of such state agency, institution, or municipal corporation.
+
+3. Nothing in this section applies to state agencies or institutions or municipal corporations which are receiving fire protection services by contract from another municipality, city, town, or other entities.
+
+4. [Empty]
+
+    a. School districts shall receive fire protection services from the fire protection districts in which they are located without the necessity of executing a contract for such fire protection services.
+
+    b. The superintendent of public instruction, the fire service policy board through the director of fire protection, the director of financial management, and the executive director of the Washington fire commissioners association, or their designees, shall develop criteria to be used by the fire service policy board through the director of fire protection in establishing uniform rates governing payments to fire districts by school districts for fire protection services.
+
+    c. The fire service policy board through the director of fire protection shall establish such rates to be payable by school districts on or before January 1st of each year commencing January 1, 1975, payable July 1, 1975.
+
+    d. Beginning with the 1975-77 biennium and in each biennium thereafter the superintendent of public instruction shall present in the budget submittal to the governor an amount sufficient to reimburse affected school districts for the moneys necessary to pay the costs of the uniform rates established by the fire service policy board through the director of fire protection.
+
+## Section 49
+Standards for fire protection and the enforcement thereof, with respect to all hospitals to be licensed hereunder shall be the responsibility of the fire service policy board, through the director of fire protection, who shall adopt the recognized standards applicable to hospitals for the protection of life against the cause and spread of fire and fire hazards adopted by the federal centers for medicare and medicaid services for hospitals that care for medicare or medicaid beneficiaries. The standards used for an inspection of an existing hospital, or existing portion thereof, shall be standards for existing buildings and not standards for new construction. The department upon receipt of an application for a license, shall submit to the director of fire protection in writing, a request for an inspection, giving the applicant's name and the location of the premises to be licensed. Upon receipt of such a request, the fire service policy board, through the director of fire protection, or his or her deputy, shall make an inspection of the hospital to be licensed during the department's inspection. If it is found that the premises do not comply with the required safety standards and fire regulations as adopted pursuant to this chapter, the director of fire protection, or his or her deputy, shall promptly make a written report to the department listing the corrective actions required. The department shall incorporate the written report into the department's final inspection report. The applicant or licensee shall submit corrections to comply with the fire protection standards along with any other licensing inspection corrections to the department. The department shall submit the section of the statement of corrections from the applicant or licensee regarding fire protection standards to the director of fire protection. If extensive and serious corrections are required, the director of fire protection, or his or her deputy, may reinspect the premises. The director of fire protection, or his or her deputy, shall utilize the scope and severity matrix developed by the centers for medicare and medicaid services when determining what corrections will require a reinspection. Whenever the hospital to be licensed meets with the approval of the fire service policy board, through the director of fire protection, he or she shall submit to the department, in a timely manner so the license will not be delayed, a written report approving the hospital with respect to fire protection, and such report is required before a full license can be issued. The fire service policy board, through the director of fire protection, shall make or cause to be made inspections of such hospitals on average at least once every eighteen months. Inspections conducted by the joint commission on hospitals accredited by it shall be deemed equivalent to an inspection by the fire service policy board, through the director of fire protection, for purposes of meeting the requirements for the inspections specified in this section.
+
+The director of fire protection shall designate one lead deputy state fire marshal on a regional basis to provide consistency with each of the department's survey teams for the purpose of conducting the fire protection inspection during the department's licensing inspection. The director of fire protection shall ensure deputy state fire marshals are provided orientation with the department on the unique environment of hospitals before they conduct fire protection inspections in hospitals. The orientation shall include, but not be limited to: Clinical environment of hospitals; operating room environment; fire protection practices in hospitals; full participation in a complete licensing inspection of at least one urban hospital; and full participation in a complete licensing inspection of at least one rural hospital.
+
+In cities which have in force a comprehensive building code, the provisions of which are determined by the fire service policy board, through the director of fire protection, to be equal to the minimum standards of the code for hospitals adopted by the fire service policy board, through the director of fire protection, the chief of the fire department, provided the latter is a paid chief of a paid fire department, shall make the inspection with the fire service policy board, through the director of fire protection, or his or her deputy and they shall jointly approve the premises before a full license can be issued.
+
+## Section 50
+The laws contained in this chapter and regulations prescribed by the department of labor and industries pursuant to this chapter shall not apply to:
+
+1. Explosives or blasting agents in the course of transportation by way of railroad, water, highway, or air under the jurisdiction of, and in conformity with, regulations adopted by the federal department of transportation, the Washington state utilities and transportation commission,  the Washington state patrol, and the fire service policy board;
+
+2. The laboratories of schools, colleges, and similar institutions if confined to the purpose of instruction or research and if not exceeding the quantity of one pound;
+
+3. Explosives in the forms prescribed by the official United States Pharmacopoeia;
+
+4. The transportation, storage, and use of explosives or blasting agents in the normal and emergency operations of United States agencies and departments including the regular United States military departments on military reservations; arsenals, navy yards, depots, or other establishments owned by, operated by, or on behalf of, the United States; or the duly authorized militia of any state; or to emergency operations of any state department or agency, any police, or any municipality or county;
+
+5. A hazardous devices technician when carrying out normal and emergency operations, handling evidence, and operating and maintaining a specially designed emergency response vehicle that carries no more than ten pounds of explosive material or when conducting training and whose employer possesses the minimum safety equipment prescribed by the federal bureau of investigation for hazardous devices work. For purposes of this section, a hazardous devices technician is a person who is a graduate of the federal bureau of investigation hazardous devices school and who is employed by a state, county, or municipality;
+
+6. The importation, sale, possession, and use of fireworks as defined in chapter 70.77 RCW, signaling devices, flares, fuses, and torpedoes;
+
+7. The transportation, storage, and use of explosives or blasting agents in the normal and emergency avalanche control procedures as conducted by trained and licensed ski area operator personnel. However, the storage, transportation, and use of explosives and blasting agents for such use shall meet the requirements of regulations adopted by the director of labor and industries;
+
+8. The storage of consumer fireworks as defined in chapter 70.77 RCW pursuant to a forfeiture or seizure under chapter 70.77 RCW by the fire service policy board, through the director of fire protection, or his or her deputy, or by state agencies or local governments having general law enforcement authority;
+
+9. The transportation and storage of explosive actuated tactical devices, including noise and flash diversionary devices, by local law enforcement tactical response teams and officers in law enforcement department-issued vehicles designated for use by tactical response teams and officers, provided the explosive devices are stored and secured in compliance with regulations and rulings adopted by the federal bureau of alcohol, tobacco, firearms and explosives; and
+
+10. Any violation under this chapter if any existing ordinance of any city, municipality, or county is more stringent than this chapter.
+
+## Section 51
+The standardization of existing fire protection equipment in this state shall be arranged for and carried out by or under the direction of the fire service policy board, through the director of fire protection. He or she shall provide the appliances necessary for carrying on this work, shall proceed with such standardization as rapidly as possible, and shall require the completion of such work within a period of five years from June 8, 1967: PROVIDED, That the fire service policy board, through the director of fire protection, may exempt special purpose fire equipment and existing fire protection equipment from standardization when it is established that such equipment is not essential to the coordination of public fire protection operations.
+
+## Section 52
+The fire service policy board, through the director of fire protection, shall notify industrial establishments and property owners having equipment, which may be necessary for fire department use in protecting the property or putting out fire, of any changes necessary to bring their equipment up to the requirements of the standard established by RCW 70.75.020, and shall render such assistance as may be available for converting substandard equipment to meet standard specifications and requirements.
+
+## Section 53
+Any person who, without approval of the fire service policy board, through the director of fire protection, sells or offers for sale in Washington any fire hose, fire engine or other equipment for fire protection purposes which is fitted or equipped with other than the standard thread is guilty of a misdemeanor: PROVIDED, That fire equipment for special purposes, research, programs, forest firefighting, or special features of fire protection equipment found appropriate for uniformity within a particular protection area may be specifically exempted from this requirement by order of the fire service policy board, through the director of fire protection.
+
+## Section 54
+"License" means a nontransferable formal authorization which the fire service policy board, through the director of fire protection, is authorized to issue under this chapter to allow a person to engage in the act specifically designated therein.
+
+## Section 55
+1. "New fireworks item" means any fireworks initially classified or reclassified as articles pyrotechnic, display fireworks, or consumer fireworks by the United States department of transportation after June 13, 2002, and which comply with the construction, chemical composition, and labeling regulations of the United States consumer products safety commission, 16 C.F.R., Parts 1500 and 1507.
+
+2. The fire service policy board, through the director of fire protection, shall classify any new fireworks item in the same manner as the item is classified by the United States department of transportation and the United States consumer product safety commission. The fire service policy board, through the director of fire protection, may determine, stating reasonable grounds, that the item should not be so classified.
+
+## Section 56
+1. The fire service policy board, through the director of fire protection, shall enforce and administer this chapter.
+
+2.
+
+The fire service policy board, through the director of fire protection, shall adopt those rules relating to fireworks as are necessary for the implementation of this chapter.
+
+3. The fire service policy board, through the director of fire protection, shall adopt those rules as are necessary to ensure statewide minimum standards for the enforcement of this chapter. Counties and cities shall comply with these state rules. Any ordinances adopted by a county or city that are more restrictive than state law shall have an effective date no sooner than one year after their adoption.
+
+4. The fire service policy board, through the director of fire protection, may exercise the necessary police powers to enforce the criminal provisions of this chapter. This grant of police powers does not prevent any other state agency and city, county, or local government agency having general law enforcement powers from enforcing this chapter within the jurisdiction of the agency and city, county, or local government.
+
+5. The fire service policy board, through the director of fire protection, shall adopt rules necessary to enforce the civil penalty provisions for the violations of this chapter. A civil penalty under this subsection may not exceed one thousand dollars per day for each violation and is subject to the procedural requirements under RCW 70.77.252.
+
+6. The fire service policy board, through the director of fire protection, may investigate or cause to be investigated all fires resulting, or suspected of resulting, from the use of fireworks.
+
+## Section 57
+1. The penalty provided for in RCW 70.77.250(6) shall be imposed by a notice in writing to the person against whom the civil fine is assessed and shall describe the violation with reasonable particularity. The notice shall be personally served in the manner of service of a summons in a civil action or in a manner which shows proof of receipt. Any penalty imposed by RCW 70.77.250(6) shall become due and payable twenty-eight days after receipt of notice unless application for remission or mitigation is made as provided in subsection (2) of this section or unless application for an adjudicative proceeding is filed as provided in subsection (3) of this section.
+
+2. Within fourteen days after the notice is received, the person incurring the penalty may apply in writing to the fire service policy board, through the director of fire protection, for the remission or mitigation of the penalty. Upon receipt of the application, the fire service policy board, through the director of fire protection, may remit or mitigate the penalty upon whatever terms the fire service policy board, through the director of fire protection, deems proper, giving consideration to the degree of hazard associated with the violation. The fire service policy board, through the director of fire protection, may only grant a remission or mitigation that it deems to be in the best interests of carrying out the purposes of this chapter. The fire service policy board, through the director of fire protection, may ascertain the facts regarding all such applications in a manner it deems proper. When an application for remission or mitigation is made, any penalty incurred under RCW 70.77.250(6) becomes due and payable twenty-eight days after receipt of the notice setting forth the disposition of the application, unless an application for an adjudicative proceeding to contest the disposition is filed as provided in subsection (3) of this section.
+
+3. Within twenty-eight days after notice is received, the person incurring the penalty may file an application for an adjudicative proceeding and may pursue subsequent review as provided in chapter 34.05 RCW and applicable rules of the fire service policy board, through the director of fire protection.
+
+4. Any penalty imposed by final order following an adjudicative proceeding becomes due and payable upon service of the final order.
+
+5. The attorney general may bring an action in the name of the fire service policy board, through the director of fire protection, in the superior court of Thurston county or of any county in which the violator may do business to collect any penalty imposed under this chapter.
+
+6. All penalties imposed under this section shall be paid to the state treasury and credited to the fire services trust fund and used as follows: At least fifty percent is for a statewide public education campaign developed by the fire service policy board, through the director of fire protection, and the licensed fireworks industry emphasizing the safe and responsible use of legal fireworks; and the remainder is for statewide efforts to enforce this chapter.
+
+## Section 58
+1. The governing body of a city or county, or a designee, shall grant an application for a permit under RCW 70.77.260(1) if the application meets the standards under this chapter, and the applicable ordinances of the city or county. The permit shall be granted by June 10, or no less than thirty days after receipt of an application whichever date occurs first, for sales commencing on June 28 and on December 27; or by December 10, or no less than thirty days after receipt of an application whichever date occurs first, for sales commencing only on December 27.
+
+2. The fire service policy board, through the director of fire protection, shall prescribe uniform, statewide standards for retail fireworks stands including, but not limited to, the location of the stands, setback requirements and siting of the stands, types of buildings and construction material that may be used for the stands, use of the stands and areas around the stands, cleanup of the area around the stands, transportation of fireworks to and from the stands, and temporary storage of fireworks associated with the retail fireworks stands. All cities and counties which allow retail fireworks sales shall comply with these standards.
+
+3. No retail fireworks permit may be issued to any applicant unless the retail fireworks stand is covered by a liability insurance policy with coverage of not less than fifty thousand dollars and five hundred thousand dollars for bodily injury liability for each person and occurrence, respectively, and not less than fifty thousand dollars for property damage liability for each occurrence, unless such insurance is not readily available from at least three approved insurance companies. If insurance in this amount is not offered, each fireworks permit shall be covered by a liability insurance policy in the maximum amount offered by at least three different approved insurance companies.
+
+No wholesaler may knowingly sell or supply fireworks to any retail fireworks licensee unless the wholesaler determines that the retail fireworks licensee is covered by liability insurance in the same, or greater, amount as provided in this subsection.
+
+## Section 59
+The fire service policy board, through the director of fire protection, has the power to issue licenses for the manufacture, importation, sale, and use of all fireworks in this state, except as provided in RCW 70.77.311 and 70.77.395. A person may be licensed as a manufacturer, importer, or wholesaler under this chapter only if the person has a designated agent in this state who is registered with the fire service policy board, through the director of fire protection.
+
+## Section 60
+Any person who desires to engage in the manufacture, importation, sale, or use of fireworks, except use as provided in RCW 70.77.255(4), 70.77.311, and 70.77.395, shall make a written application to the fire service policy board, through the director of fire protection, on forms provided by him or her. Such application shall be accompanied by the annual license fee as prescribed in this chapter.
+
+## Section 61
+1. An application for a license shall be made annually by every person holding an existing license who wishes to continue the activity requiring the license during an additional year. The application shall be accompanied by the annual license fees as prescribed in RCW 70.77.343 and 70.77.340.
+
+2. A person applying for an annual license as a retailer under this chapter shall file an application no later than May 1 for annual sales commencing on June 28 and on December 27, or no later than November 1 for sales commencing only on December 27. The fire service policy board, through the director of fire protection, shall grant or deny the license within fifteen days of receipt of the application.
+
+3. A person applying for an annual license as a manufacturer, importer, or wholesaler under this chapter shall file an application by January 31 of the current year. The fire service policy board, through the director of fire protection, shall grant or deny the license within ninety days of receipt of the application.
+
+## Section 62
+If the fire service policy board, through the director of fire protection, finds that the granting of such license is not contrary to public safety or welfare, he or she shall issue a license authorizing the applicant to engage in the particular act or acts upon the payment of the license fee specified in this chapter. Licensees may transport the class of fireworks for which they hold a valid license.
+
+## Section 63
+1. License fees, in addition to the fees in RCW 70.77.340, shall be charged as follows:
+
+Manufacturer $
+
+1,500.00
+
+Importer
+
+900.00
+
+Wholesaler
+
+1,000.00
+
+Retailer (for each separate outlet)
+
+30.00
+
+Public display for display fireworks
+
+40.00
+
+Pyrotechnic operator for display
+
+fireworks
+
+5.00
+
+2. All receipts from the license fees in this section shall be placed in the fire services trust fund and at least seventy-five percent of these receipts shall be used to fund a statewide public education campaign developed by the fire service policy board and the licensed fireworks industry emphasizing the safe and responsible use of legal fireworks and the remaining receipts shall be used to fund statewide enforcement efforts against the sale and use of fireworks that are illegal under this chapter.
+
+## Section 64
+1. Any adult person may secure a general license from the fire service policy board, through the director of fire protection, for the public display of fireworks within the state of Washington. A general license is subject to the provisions of this chapter relative to the securing of local permits for the public display of fireworks in any city or county, except that in lieu of filing the bond or certificate of public liability insurance with the appropriate local official under RCW 70.77.260 as required in RCW 70.77.285, the same bond or certificate shall be filed with the fire service policy board, through the director of fire protection. The bond or certificate of insurance for a general license in addition shall provide that: (a) The insurer will not cancel the insured's coverage without fifteen days prior written notice to the fire service policy board, through the director of fire protection; (b) the duly licensed pyrotechnic operator required by law to supervise and discharge the public display, acting either as an employee of the insured or as an independent contractor and the state of Washington, its officers, agents, employees, and servants are included as additional insureds, but only insofar as any operations under contract are concerned; and (c) the state is not responsible for any premium or assessments on the policy.
+
+2. The fire service policy board, through the director of fire protection, may issue such general licenses. The holder of a general license shall file a certificate from the fire service policy board, through the director of fire protection, evidencing the license with any application for a local permit for the public display of fireworks under RCW 70.77.260.
+
+## Section 65
+If the fire service policy board, through the director of fire protection, finds that an application for any license under this chapter contains a material misrepresentation or that the granting of any license would be contrary to the public safety or welfare, the fire service policy board, through the director of fire protection, may deny the application for the license.
+
+## Section 66
+A written report by the fire service policy board, through the director of fire protection, or a local fire official, or any of their authorized representatives, disclosing that the applicant for a license, or the premises for which a license is to apply, do not meet the qualifications or conditions for a license constitutes grounds for the denial by the fire service policy board, through the director of fire protection, of any application for a license.
+
+## Section 67
+The chief of the Washington state patrol fire service policy board, through the director of fire protection, upon reasonable opportunity to be heard, may revoke any license issued pursuant to this chapter, if he or she finds that:
+
+## Section 68
+Every public display of fireworks shall be handled or supervised by a pyrotechnic operator licensed by the fire service policy board, through the director of fire protection, under RCW 70.77.255.
+
+## Section 69
+Notwithstanding RCW 70.77.255, following the revocation or expiration of a license, a licensee in lawful possession of a lawfully acquired stock of fireworks may sell such fireworks, but only under supervision of the fire service policy board, through the director of fire protection. Any sale under this section shall be solely to persons who are authorized to buy, possess, sell, or use such fireworks.
+
+## Section 70
+Any fireworks which are illegally sold, offered for sale, used, discharged, possessed, or transported in violation of the provisions of this chapter or the rules or regulations of the fire service policy board, through the director of fire protection, are subject to seizure by the fire service policy board, through the director of fire protection, or his or her deputy, or by state agencies or local governments having general law enforcement authority.
+
+## Section 71
+1. In the event of seizure under RCW 70.77.435, proceedings for forfeiture shall be deemed commenced by the seizure. The fire service policy board or a designee, through the director of fire protection or the agency conducting the seizure, under whose authority the seizure was made shall cause notice to be served within fifteen days following the seizure on the owner of the fireworks seized and the person in charge thereof and any person having any known right or interest therein, of the seizure and intended forfeiture of the seized property. The notice may be served by any method authorized by law or court rule including but not limited to service by certified mail with return receipt requested. Service by mail shall be deemed complete upon mailing within the fifteen-day period following the seizure.
+
+2. If no person notifies the fire service policy board, through the director of fire protection or the agency conducting the seizure, in writing of the person's claim of lawful ownership or right to lawful possession of seized fireworks within thirty days of the seizure, the seized fireworks shall be deemed forfeited.
+
+3. If any person notifies the fire service policy board, through the director of fire protection or the agency conducting the seizure, in writing of the person's claim of lawful ownership or possession of the fireworks within thirty days of the seizure, the person or persons shall be afforded a reasonable opportunity to be heard as to the claim or right. The hearing shall be before an administrative law judge appointed under chapter 34.12 RCW, except that any person asserting a claim or right may remove the matter to a court of competent jurisdiction if the aggregate value of the seized fireworks is more than five hundred dollars. The hearing before an administrative law judge and any appeal therefrom shall be under Title 34 RCW. In a court hearing between two or more claimants to the article or articles involved, the prevailing party shall be entitled to a judgment for costs and reasonable attorneys' fees. The burden of producing evidence shall be upon the person claiming to have the lawful right to possession of the seized fireworks. The fire service policy board, through the director of fire protection or the agency conducting the seizure, shall promptly return the fireworks to the claimant upon a determination by the administrative law judge or court that the claimant is lawfully entitled to possession of the fireworks.
+
+4. When fireworks are forfeited under this chapter the fire service policy board, through the director of fire protection or the agency conducting the seizure, may:
+
+    a. Dispose of the fireworks by summary destruction at any time subsequent to thirty days from such seizure or ten days from the final termination of proceedings under this section, whichever is later; or
+
+    b. Sell the forfeited fireworks and chemicals used to make fireworks, that are legal for use and possession under this chapter, to wholesalers or manufacturers, authorized to possess and use such fireworks or chemicals under a license issued by the fire service policy board, through the director of fire protection. Sale shall be by public auction after publishing a notice of the date, place, and time of the auction in a newspaper of general circulation in the county in which the auction is to be held, at least three days before the date of the auction. The proceeds of the sale of the seized fireworks under this section may be retained by the agency conducting the seizure and used to offset the costs of seizure and/or storage costs of the seized fireworks. The remaining proceeds, if any, shall be deposited in the fire services trust fund and shall be used as follows: At least fifty percent is for a statewide public education campaign developed by the fire service policy board, through the director of fire protection, and the licensed fireworks industry emphasizing the safe and responsible use of legal fireworks; and the remainder is for statewide efforts to enforce this chapter.
+
+## Section 72
+The fire service policy board, through the director of fire protection, may make an examination of the books and records of any licensee, or other person relative to fireworks, and may visit and inspect the premises of any licensee he or she may deem at any time necessary for the purpose of enforcing the provisions of this chapter. The licensee, owner, lessee, manager, or operator of any such building or premises shall permit the fire service policy board, through the director of fire protection, his or her deputies or salaried assistants, the local fire official, and their authorized representatives to enter and inspect the premises at the time and for the purpose stated in this section.
+
+## Section 73
+1. All licensees shall maintain and make available to the fire service policy board, through the director of fire protection, full and complete records showing all production, imports, exports, purchases, and sales of fireworks items by class.
+
+2. All records obtained and all reports produced, as required by this chapter, are not subject to disclosure through the public records act under chapter 42.56 RCW.
+
+## Section 74
+When reports on fireworks transactions or the payments of license fees or penalties are required to be made on or by specified dates, they shall be deemed to have been made at the time they are filed with or paid to the fire service policy board, through the director of fire protection, or, if sent by mail, on the date shown by the United States postmark on the envelope containing the report or payment.
+
+## Section 75
+Civil proceedings to enforce this chapter may be brought in the superior court of Thurston county or the county in which the violation occurred by the attorney general or the attorney of the city or county in which the violation occurred on his or her own motion or at the request of the fire service policy board, through the director of fire protection.
+
+## Section 76
+1. The fire service policy board, through the director of fire protection, shall adopt by rule a list of the consumer fireworks that may be sold to the public in this state pursuant to this chapter. The fire service policy board, through the director of fire protection, shall file the list by October 1st of each year with the code reviser for publication, unless the previously published list has remained current.
+
+2. The fire service policy board, through the director of fire protection, shall provide the list adopted under subsection (1) of this section by November 1st of each year to all manufacturers, wholesalers, and importers licensed under this chapter, unless the previously distributed list has remained current.
+
+## Section 77
+Retailers required to be licensed under this chapter shall post prominently at each retail location a list of the consumer fireworks that may be sold to the public in this state pursuant to this chapter. The posted list shall be in a form approved by the fire service policy board, through the director of fire protection. The fire service policy board, through the director of fire protection, shall make the list available.
+
+## Section 78
+1. Standards for fire protection and the enforcement thereof, with respect to all facilities licensed under this chapter, are the responsibility of the fire service policy board, through the director of fire protection, who must adopt recognized standards as applicable to facilities for the protection of life against the cause and spread of fire and fire hazards. If the facility to be licensed meets with the approval of the fire service policy board, through the director of fire protection, the director of fire protection must submit to the department a written report approving the facility with respect to fire protection before a full license can be issued. The fire service policy board, through the director of fire protection, shall conduct an unannounced full inspection of facilities at least once every eighteen months. The statewide average interval between full facility inspections must be fifteen months.
+
+2. Inspections of facilities by local authorities must be consistent with the requirements adopted by the fire service policy board, through the director of fire protection. Findings of a serious nature must be coordinated with the department and the fire service policy board, through the director of fire protection, for determination of appropriate actions to ensure a safe environment for residents. The fire service policy board, through the director of fire protection, has exclusive authority to determine appropriate corrective action under this section.
+
+## Section 79
+Application for an outdoor music festival permit shall be in writing and filed with the clerk of the issuing authority wherein the festival is to be held. Said application shall be filed not less than ninety days prior to the first scheduled day of the festival and shall be accompanied with a permit fee in the amount of two thousand five hundred dollars. Said application shall include:
+
+1. The name of the person or other legal entity on behalf of whom said application is made: PROVIDED, That a natural person applying for such permit shall be eighteen years of age or older;
+
+2. A financial statement of the applicant;
+
+3. The nature of the business organization of the applicant;
+
+4. Names and addresses of all individuals or other entities having a ten percent or more proprietary interest in the festival;
+
+5. The principal place of business of applicant;
+
+6. A legal description of the land to be occupied, the name and address of the owner thereof, together with a document showing the consent of said owner to the issuance of a permit, if the land be owned by a person other than the applicant;
+
+7. The scheduled performances and program;
+
+8. Written confirmation from the local health officer that he or she has reviewed and approved plans for site and development in accordance with rules, regulations and standards adopted by the state board of health. Such rules and regulations shall include criteria as to the following and such other matters as the state board of health deems necessary to protect the public's health:
+
+    a. Submission of plans
+
+    b. Site
+
+    c. Water supply
+
+    d. Sewage disposal
+
+    e. Food preparation facilities
+
+    f. Toilet facilities
+
+    g. Solid waste
+
+    h. Insect and rodent control
+
+    i. Shelter
+
+    j. Dust control
+
+    k. Lighting
+
+    l. Emergency medical facilities
+
+    m. Emergency air evacuation
+
+    n. Attendant physicians
+
+    o. Communication systems
+
+9. A written confirmation from the appropriate law enforcement agency from the area where the outdoor music festival is to take place, showing that traffic control and crowd protection policing have been contracted for or otherwise provided by the applicant meeting the following conditions:
+
+    a. One person for each two hundred persons reasonably expected to be in attendance at any time during the event for purposes of traffic and crowd control.
+
+    b. The names and addresses of all traffic and crowd control personnel shall be provided to the appropriate law enforcement authority: PROVIDED, That not less than twenty percent of the traffic and crowd control personnel shall be commissioned police officers or deputy sheriffs: PROVIDED FURTHER, That on and after February 25, 1972 any commissioned police officer or deputy sheriff who is employed and compensated by the promoter of an outdoor music festival shall not be eligible and shall not receive any benefits whatsoever from any public pension or disability plan of which he or she is a member for the time he is so employed or for any injuries received during the course of such employment.
+
+    c. During the hours that the festival site shall be open to the public there shall be at least one regularly commissioned police officer employed by the jurisdiction wherein the festival site is located for every one thousand persons in attendance and said officer shall be on duty within the confines of the actual outdoor music festival site.
+
+    d. All law enforcement personnel shall be charged with enforcing the provisions of this chapter and all existing statutes, ordinances and regulations.
+
+10. A written confirmation from the appropriate law enforcement authority that sufficient access roads are available for ingress and egress to the parking areas of the outdoor music festival site and that parking areas are available on the actual site of the festival or immediately adjacent thereto which are capable of accommodating one auto for every four persons in estimated attendance at the outdoor music festival site.
+
+11. A written confirmation from the department of natural resources, where applicable, and the fire service policy board, through the director of fire protection, that all fire prevention requirements have been complied with.
+
+12. A written statement of the applicant that all state and local law enforcement officers, fire control officers and other necessary governmental personnel shall have free access to the site of the outdoor music festival.
+
+13. A statement that the applicant will abide by the provisions of this chapter.
+
+14. The verification of the applicant warranting the truth of the matters set forth in the application to the best of the applicant's knowledge, under the penalty of perjury.
+
+## Section 80
+This chapter is not intended to regulate smoking in a private enclosed workplace, within a public place, even though such workplace may be visited by nonsmokers, excepting places in which smoking is prohibited by the fire service policy board, through the director of fire protection, or by other law, ordinance, or regulation.
+
+## Section 81
+Standards for fire protection and the enforcement thereof, with respect to all establishments to be licensed hereunder, shall be the responsibility of the fire service policy board, through the director of fire protection, who shall adopt such recognized standards as may be applicable to such establishments for the protection of life against the cause and spread of fire and fire hazards. The department of health, upon receipt of an application for a license, or renewal of a license, shall submit to the fire service policy board, through the director of fire protection, in writing, a request for an inspection, giving the applicant's name and the location of the premises to be licensed. Upon receipt of such a request, the fire service policy board, through the director of fire protection, or his or her deputy shall make an inspection of the establishment to be licensed, and if it is found that the premises do not comply with the required safety standards and fire regulations as promulgated by the fire service policy board, through the director of fire protection, he or she shall promptly make a written report to the establishment and the department of health as to the manner and time allowed in which the premises must qualify for a license and set forth the conditions to be remedied with respect to fire regulations. The department of health, applicant or licensee shall notify the fire service policy board, through the director of fire protection, upon completion of any requirements made by him or her, and the director of fire protection or his or her deputy shall make a reinspection of such premises. Whenever the establishment to be licensed meets with the approval of the fire service policy board, through the director of fire protection, he or she shall submit to the department of health a written report approving same with respect to fire protection before a full license can be issued. The fire service policy board, through the director of fire protection, shall make or cause to be made inspections of such establishments at least annually. The department of health shall not license or continue the license of any establishment unless and until it shall be approved by the fire service policy board, through the director of fire protection, as herein provided.
+
+In cities which have in force a comprehensive building code, the provisions of which are determined by the fire service policy board, through the director of fire protection, to be equal to the minimum standards of the fire service policy board, through the director of fire protection, for such establishments, the chief of the fire department, provided the latter is a paid chief of a paid fire department, shall make the inspection with the fire service policy board, through the director of fire protection, or his or her deputy, and they shall jointly approve the premises before a full license can be issued.
+
+## Section 82
+The fire service policy board, through the director of fire protection, shall have the power and it shall be his or her duty:
+
+1. In consultation with the children's services advisory committee and with the advice and assistance of persons representative of the various type agencies to be licensed, to adopt recognized minimum standard requirements pertaining to each category of agency established pursuant to chapter 74.15 RCW and RCW 74.13.031, except foster family homes and child-placing agencies, necessary to protect all persons residing therein from fire hazards;
+
+2. To make or cause to be made such inspections and investigations of agencies, other than foster family homes or child-placing agencies, as he or she deems necessary;
+
+3. To make a periodic review of requirements under RCW 74.15.030(7) and to adopt necessary changes after consultation as required in subsection (1) of this section;
+
+4. To issue to applicants for licenses hereunder, other than foster family homes or child-placing agencies, who comply with the requirements, a certificate of compliance, a copy of which shall be presented to the department before a license shall be issued, except that an initial license may be issued as provided in RCW 74.15.120.
+
+## Section 83
+All agencies subject to this chapter  and RCW 74.13.031 shall accord the department, the secretary of health, the fire service policy board, and the director of fire protection, or their designees, the right of entrance and the privilege of access to and inspection of records for the purpose of determining whether or not there is compliance with the provisions of this chapter  and RCW 74.13.031 and the requirements adopted thereunder.
+
+## Section 84
+RCW 43.43.930, 43.43.934, 43.43.938, 43.43.939, 43.43.940, 43.43.942, 43.43.944, 43.43.946, 43.43.948, 43.43.950, 43.43.952, 43.43.960, 43.43.961, 43.43.962, 43.43.963, 43.43.964, and 43.43.965 are each recodified as sections in chapter 43.44 RCW.
+
+## Section 86
+Sections 5 and 8 through 84 of this act take effect January 1, 2024.

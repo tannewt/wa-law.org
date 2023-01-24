@@ -14,11 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149718&caId=20657&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149718&caId=20657&tId=4)
 
-#### 52 👍 - Pro
+#### 283 👍 - Pro
 Testifying:
 * Markus Virta - WASEIA
 * KRISTY ROYCE - Sun Path Electric
+* Rebecca  Sayre - InfinitiRED
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Eric Blatz - Western Solar Inc
+* Jerry Chen - UW Solar
+* Owen Johnson - UW Solar
+* Radha Iyer - UW Solar
+* Gavin Tenold - Northwest Renewables
+* Ash Awad - McKinstry
+* 💵Charlee Thompson - NW Energy Coalition
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Nicolas Garcia - WPUDA
+* Anna Lising - Governor's Office
+* Nora Hawkins - Department of Commerce

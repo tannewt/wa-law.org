@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149682&caId=20713&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149682&caId=20713&tId=4)
 
-#### 10 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
+* 💵Luis Moscoso
+* Peter Lavallee - Public Disclosure Commission
+* Sean Flynn - Public Disclosure Commission
 
-#### 45 👎 - Con
+#### 187 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

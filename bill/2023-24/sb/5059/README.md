@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149798&caId=20544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149798&caId=20544&tId=4)
 
-#### 1 👍 - Pro
+#### 96 👍 - Pro
+Testifying:
+* Crystal  Rutherford - Excelsior Law PLLC
+* Colleen Durkin Peterson - Washington State Association for Justice
+* Darrell Cochran - Washington State Association for Justice
+* Nate Roberts - Washington State Association for Justice
 
-#### 27 👎 - Con
+#### 80 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * 💵Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Pool
@@ -27,5 +32,14 @@ Testifying:
 * Sandy Hayes - Washington State School Directors' Association / Northshore SD
 * Cindy McMullen - Washington State School Directors' Association / Central Valley SD
 * Kris Tefft - Washington Liability Reform Coalition
+* 💵Mark Sektnan - APCIA
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* Michael Heinisch - Non Profit Insurance Program Board of Directors
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* Sophina Nunez
+* Charlie Brown - The Schools Alliance
+* Karl JOHANSON - NPIP
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Anne Anderson - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)

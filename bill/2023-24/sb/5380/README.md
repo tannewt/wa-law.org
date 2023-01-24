@@ -14,14 +14,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149478&caId=20548&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149478&caId=20548&tId=4)
 
-#### 17 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Becky Kelley - Office of Governor Jay Inslee
 * Diane Butorac - WA Department of Ecology
 * Jasmine Vasavada - WA Department of Commerce
+* 💵Donny Donovan - IAM 751
+* Clifford  Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
+* Scott  Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Emily Wittman - Aerospace Futures Alliance
+* 💵Tom Wolf - bp America
+* Ryan Calkins - Port of Seattle Commissioner
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Kate Brouns - Renewable NW
+* 💵Mark Riker - Washington State Building & Construction Trades Council
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* Adam Maxwell - [Audubon Washington](/org/audubon_washington/)
+* 💵Nicolas Garcia - WPUDA
+* 💵Jennifer Ziegler - National Construction Alliance

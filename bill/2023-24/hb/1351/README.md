@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149598&caId=20704&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149598&caId=20704&tId=4)
 
-#### 23 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* Jennifer Gregerson  - American Planning Association, WA Chapter
+* Samantha Conley - SEIU Healthcare 1199NW
+* Dave Andersen - Washington Department of Commerce
+* Catie Gould - [Sightline Institute](/org/sightline_institute/)
 
 #### 0 👎 - Con
 

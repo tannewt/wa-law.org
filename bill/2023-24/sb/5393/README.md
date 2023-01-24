@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=4)
 
-#### 8 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

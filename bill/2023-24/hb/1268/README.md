@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1268 Sentencing enhancements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149532&caId=20629&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149532&caId=20629&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149532&caId=20629&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149532&caId=20629&tId=4)
-
-#### 92 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Melody Simle - WA Criminal Sentencing Task Force
 * David Trieweiler - WACDL/WDA
@@ -28,14 +22,16 @@ Testifying:
 * Sharita Brown
 * Kimberly  Capers
 * lisa rowden clayton
+* Kenneisha Brown
 
-#### 31 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Cory Malon - WA Civil Rights Organization
 * Ronald Smith
 * Sandra Munden
 * Joe Kunzler - None
 * Amy Freedheim - Senior DPA Felony Traffic
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 2 ❓ - Other
 Testifying:

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149388&caId=20542&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149388&caId=20542&tId=4)
 
-#### 16 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* 💵Emily Stone - WA State Coalition Against Domestic Violence
 
 #### 0 👎 - Con
 

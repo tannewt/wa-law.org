@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=4)
 
-#### 5 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Josh Lozano - Energy Northwest - Richland, WA
 * Jesus Mota - Columbia Basin College
 * Josh Lozano - [Energy Northwest](/org/energy_northwest/)
 * Seth  Worley - UA Local 598
 
-#### 0 👎 - Con
+#### 96 👎 - Con
+Testifying:
+* Arthur West
 
 #### 0 ❓ - Other

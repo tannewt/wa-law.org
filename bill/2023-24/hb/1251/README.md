@@ -14,12 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149593&caId=20699&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149593&caId=20699&tId=4)
 
-#### 70 👍 - Pro
+#### 222 👍 - Pro
+Testifying:
+* Faaluaiana Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
+* Nicole Woodruff - Board Certified Family Nurse Practitioner
+* Stephen Baker - WPTO 4, WDM 4, CCS
+* Chris Delecki - Washington State Dental Association
+* Jennifer Zbaraschuk - Washington State Dental Hygienists' Association
+* Vanetta Abdellatif - Arcora Foundation
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Stuart Cooper - American Environmental Health Studies Project, Inc.
 * Gerald Steel - King County Citizens Against Fluoridation
 * Bill Osmunson DDS MPH - Washington Safe Water
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts

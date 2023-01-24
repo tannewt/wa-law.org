@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149486&caId=20668&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149486&caId=20668&tId=4)
 
-#### 54 👍 - Pro
+#### 227 👍 - Pro
+Testifying:
+* Dr Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
+* Dr Erin Berry 
+* Dr Jennifer  Chin - American College of Obstetricians and Gynecologists WA Section
+* Dr Katina Rue - Washington State Medical Association
+* Ashley Wilson
+* Dr Erin Berry
+* Ashley Wilson
+* Hilary Whitmore
+* Micah Matthews - Washington Medical Commission
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

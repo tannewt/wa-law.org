@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149411&caId=20660&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149411&caId=20660&tId=4)
 
-#### 12 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Carol Rikerd
 * Ben Campbell - The Columbian
 * matt zuvich - Office of State Treasurer
+* Kathy Sakahara - Northwest Progressive Institute
+* Rowland Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* Bob  Ferguson - WA State Attorney General's Office
+* Rory Paine-Donovan - WA State Attorney General's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dee Anne Finken - League of Women Voters of Washington

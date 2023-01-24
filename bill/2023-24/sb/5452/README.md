@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149834&caId=20537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149834&caId=20537&tId=4)
 
-#### 9 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Angela Birney - City of Redmond Mayor
 * 💵Briahna Murray - City of Redmond Contract Lobbyist
+* Angela Birney - City of Redmond Mayor
+* 💵Briahna Murray - Redmond Contract Lobbyist
+* Tim McHarg - Redmond Principal Planner
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other

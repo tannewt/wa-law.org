@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149484&caId=20666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149484&caId=20666&tId=4)
 
-#### 41 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Justin Vail
+* Jean Sullivan
+* Jean Sullivan
+* Alicia Payne - Nursing Care Quality Assurance Commission
+* Dawn Morrell - Nursing Care Quality Assurance Commission
+* Grant  Hulteen - Nursing Care Quality Assurance Commission
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)

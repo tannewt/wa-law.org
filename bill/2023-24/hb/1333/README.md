@@ -14,14 +14,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149825&caId=20715&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149825&caId=20715&tId=4)
 
-#### 41 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Peggy Shepard
+* Miri  Cypers
+* Helene Paroff
+* Nina Martinez - Latino Civic Alliance
+* 💵Luis Moscoso - Former State Legislator
+* Jennifer Bereskin 
+* Megan Dunn - Snohomish County Council
+* Alex Aronson
+* Fredrick Echols - Cure Violence Global
+* Helene Paroff
+* Randall Blazak
+* Alicia Busch - Infoblox
 
-#### 851 👎 - Con
+#### 1724 👎 - Con
 Testifying:
 * Laurie Layne
+* Doug  Basler
+* Tamborine Borrelli
+* julie jaman - women and children
+* Vince Navarre
+* Lara Gabriel
+* Dawn Land
+* Sarah  Garriott
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Imraan Siddiqi - CAIR-WA

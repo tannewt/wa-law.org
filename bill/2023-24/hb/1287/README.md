@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30465&aId=149454&caId=20706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30465&aId=149454&caId=20706&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - Washington Dental Hygienists Association
+* 💵Emily Lovell - Washington State Dental Association
 
 #### 0 👎 - Con
 

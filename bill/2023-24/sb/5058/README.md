@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 10:30 AM - Law & Justice (LAW): SB 5058 Multiunit res. buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30448&aId=149382&caId=20497&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30448&aId=149382&caId=20497&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30448&aId=149382&caId=20497&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30448&aId=149382&caId=20497&tId=4)
-
-#### 10 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Arne Woodard - Councilmember, City of Spokane Valley

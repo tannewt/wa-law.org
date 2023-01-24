@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149595&caId=20701&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149595&caId=20701&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Michael Pate - AMAROK
+* 💵Holly Chisa - Contract Lobbyist representing AMAROK
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
 
 #### 0 ❓ - Other

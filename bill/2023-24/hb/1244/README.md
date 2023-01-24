@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=4)
 
-#### 73 👍 - Pro
+#### 269 👍 - Pro
+Testifying:
+* Cindy Wolf - Chair - San Juan County Council
+* Kirman Taylor - Lopez Island School District
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149861&caId=20726&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149861&caId=20726&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Laura DeGooyer - Lake Washington School District
 * Travis Hanson - Deer Park School District
+* Tim Carr - Meydenbauer Center/Bellevue Convention Center Authority
 
-#### 3 👎 - Con
+#### 37 👎 - Con
 
 #### 0 ❓ - Other

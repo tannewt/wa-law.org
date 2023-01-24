@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Kayleen Islam-Zwart - Eastern Washington University
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)

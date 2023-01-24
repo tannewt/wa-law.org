@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Early Learning & K-12 Education (EDU): SB 5305 Office of career connect WA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30506&aId=149623&caId=20514&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30506&aId=149623&caId=20514&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30506&aId=149623&caId=20514&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30506&aId=149623&caId=20514&tId=4)
-
-#### 20 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Heather Hudson - Washington Student Achievement Council
 * Kevin Wang - Mentors in Tech
@@ -27,10 +21,12 @@ Testifying:
 * Lorie Thompson - Capital STEM Alliance (CCW Regional Network)
 * Debra Bowen - Director:  Career Connect Southeast
 * 💵Jayme Shoun - Washington STEM
+* 💵Carolyn Busch - OEDC - Department of Commerce
+* Kathryn Kurtz - [Pacific Education Institute](/org/pacific_education_institute/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * John Bonner
 * Shereen Henry

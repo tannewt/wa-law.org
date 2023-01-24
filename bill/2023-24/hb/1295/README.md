@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30530&aId=149764&caId=20683&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30530&aId=149764&caId=20683&tId=4)
 
-#### 2 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* Brett Ballew - Washington State Office of Public Defense
+* Heather Fourstar - WASPAC
+* Gabrial Cisneros-Lassey - Washington State Parent Advocacy Committee
+* Josh Gupta Kagan - Columbia Law School
+* 💵Samuel Martin - [Mockingbird Society](/org/mockingbird_society/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

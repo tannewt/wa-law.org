@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Dr. Gwen Loosmore - Washington State PTA
 
-#### 6 👎 - Con
+#### 166 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 11 ❓ - Other
 Testifying:

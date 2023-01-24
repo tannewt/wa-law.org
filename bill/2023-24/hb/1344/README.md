@@ -14,8 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=4)
 
-#### 4 👍 - Pro
+#### 110 👍 - Pro
+Testifying:
+* Bob Turnage  - [Republic National Distributing Company](/org/republic_national_distributing_company/)
+* Justin Stiefel - Heritage Distilling Company
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Brandon High - Southern Glazers Wine and Spirits
+* John Gainza - Southern Glazers Wine and Spirits
+* Scott Stocum - Southern Glazers Wine and Spirits
+* Brandon  High - [Southern Glazer's Wine & Spirits](/org/southern_glazer's_wine_&_spirits/)
+* John Gainza - [Southern Glazer's Wine & Spirits](/org/southern_glazer's_wine_&_spirits/)
+* Scott Stocum - [Southern Glazer's Wine & Spirits](/org/southern_glazer's_wine_&_spirits/)
+* Adam Smith - Vice President State Government Relations
+* Charlie Brown - Diageo and Fred Meyer/QFC
 
-#### 26 👎 - Con
+#### 78 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Daniel  Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
 #### 0 ❓ - Other

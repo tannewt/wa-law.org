@@ -8,25 +8,24 @@
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Education (ED): HB 1239 Educator ethics & complaints
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149642&caId=20645&tId=4)
-
-#### 150 👍 - Pro
+#### 206 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Jana Parker - 2500 SW Chicago Ct
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
+* Vivian Song Maritz
+* Amy Moses-Lagos - PTA Advocate
 
-#### 352 👎 - Con
+#### 485 👎 - Con
 Testifying:
 * Rachel Buck
 * Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne
 * Gary Clancey
 * PAT STOWE - personal & business
+* Aaron Lang
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Liv Finne - Washington Policy Center
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

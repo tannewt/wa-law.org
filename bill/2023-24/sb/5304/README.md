@@ -14,8 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149429&caId=20541&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149429&caId=20541&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Helen Eby
+* Gillian Dutton
+* Yvonne Simpson - Northwest Translator and Interpreter Society
+* Emma Garkavi
+* Danna Summers
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Magda  Enriques  - On behalf of WFSE
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dr. Ruiqin Miao - DSHS Office of Equity, Diversity, Access, and Inclusion
+* Nichole Ossa - DSHS Office of Equity, Diversity, Access, and Inclusion

@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30518&aId=149942&caId=20748&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30518&aId=149942&caId=20748&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 105 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

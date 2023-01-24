@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149966&caId=20761&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149966&caId=20761&tId=4)
 
-#### 8 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* Michael Schermerhorn
+* Burl Bryson - The Cannabis Alliance
+* Matthew Friedlander - Skagit Organics
+* Steven Field - Patient (testifying remotely)
+* Steven Field - Patient
 
 #### 1 👎 - Con
 

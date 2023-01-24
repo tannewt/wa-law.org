@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 
-#### 2 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Tom Wolf - bp America
+* Cary Clemenson - Cary Clemenson
+* Bob Battles - Association of Washington Business (AWB)
+* Jerry VanderWood - WA Construction Industry Council and AGC
 
 #### 0 ❓ - Other

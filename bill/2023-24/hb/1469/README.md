@@ -14,10 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149913&caId=20745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149913&caId=20745&tId=4)
 
-#### 45 👍 - Pro
+#### 288 👍 - Pro
+Testifying:
+* David Cohen
+* Dr. Erin Berry - Planned Parenthood
+* Dr. Katina Rue - Washington State Medical Association
+* Jaelynn Scott - Lavender Rights Project
+* Danni Askini - Gender Justice League
+* Dr. Sarah  Prager - American College of Obstetricians and Gynecologists
+* Dr. Suzanne Poppema
+* ARNP, Ashley Wilson - Planned Parenthood of Greater Washington and North Idaho
+* Alizeh  Bhojani - [Legal Voice](/org/legal_voice/)
+* Carey  Morris - Washington State Coalition Against Domestic Violence
+* Hillary Whitmore
+* Mary Lynne Courtney - League of Women Voters WA
 
-#### 154 👎 - Con
+#### 319 👎 - Con
 Testifying:
 * Shannon Carlile - Conservative Ladies of WA
+* James  McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

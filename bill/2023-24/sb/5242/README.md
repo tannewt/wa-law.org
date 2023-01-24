@@ -14,14 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30485&aId=149550&caId=20532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30485&aId=149550&caId=20532&tId=4)
 
-#### 178 👍 - Pro
+#### 455 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Lee Che  Leong - Northwest Health Law Advocates (NoHLA)
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Hilary  Whitmore
+* 💵Alexa Brenner - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Stephanie Simpson - Patient Coalition of Washington
+* Kathryn Lewandowsky
 
-#### 178 👎 - Con
+#### 365 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Kathryn Amdahl - EWU Students for Life
+* Dr. Al Oliva - Alliance for Hippocratic Medicine
 
 #### 0 ❓ - Other

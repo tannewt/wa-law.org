@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 04:00 PM - Ways & Means (WM): SB 5420 Plan 2 members/insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149807&caId=20527&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149807&caId=20527&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149807&caId=20527&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149807&caId=20527&tId=4)
-
-#### 8 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Fred Yancey - Washington State School Retirees’ Assn.
 

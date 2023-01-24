@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30530&aId=149762&caId=20681&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30530&aId=149762&caId=20681&tId=4)
 
-#### 5 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* 💵Shrounda Selivanoff - Children's Home Society of WA
+* Ray Deck III - Skookum Kids
+* Marissa Ingalls - Coordinated Care
 
 #### 0 👎 - Con
 

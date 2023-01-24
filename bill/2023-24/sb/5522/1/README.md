@@ -1,0 +1,57 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5522](/bill/2023-24/sb/5522/) > [Original Bill](/bill/2023-24/sb/5522/1/)
+
+# SB 5522 - College grant prg. stipend
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5522.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Book and material stipend" means an annual stipend for the purchase of textbooks, tools, equipment, and materials required for participation in instructional programs, including apprenticeship programs.
+
+2. "Council" means the student achievement council.
+
+3. "Financial aid" means either loans, grants, or both, to students who demonstrate financial need enrolled or accepted for enrollment as a student at institutions of higher education.
+
+4. "Financial need" means a demonstrated financial inability to bear the total cost of education as directed in rule by the office.
+
+5. "Institution" or "institutions of higher education" means:
+
+    a. Any public university, college, community college, or technical college operated by the state of Washington or any political subdivision thereof; or
+
+    b. Any other university, college, school, or institute in the state of Washington offering instruction beyond the high school level that is a member institution of an accrediting association recognized by rule of the council for the purposes of this section and that agrees to and complies with program rules adopted pursuant to RCW 28B.92.150. However, any institution, branch, extension or facility operating within the state of Washington that is affiliated with an institution operating in another state must be:
+
+        i. A separately accredited member institution of any such accrediting association;
+
+        ii. A branch of a member institution of an accrediting association recognized by rule of the council for purposes of this section, that is eligible for federal student financial aid assistance and has operated as a nonprofit college or university delivering on-site classroom instruction for a minimum of 20 consecutive years within the state of Washington, and has an annual enrollment of at least 700 full-time equivalent students;
+
+        iii. A nonprofit institution recognized by the state of Washington as provided in RCW 28B.77.240; or
+
+        iv. An approved apprenticeship program under chapter 49.04 RCW.
+
+6. "Maximum Washington college grant":
+
+    a. For students attending two or four-year institutions of higher education as defined in RCW 28B.10.016, is tuition and estimated fees for 15 quarter credit hours or the equivalent, as determined by the office, including operating fees, building fees, and services and activities fees.
+
+    b. For students attending private four-year not-for-profit institutions of higher education in Washington, in the 2019-20 academic year, is $9,739 and may increase each year afterwards by no more than the tuition growth factor.
+
+    c. For students attending two-year private not-for-profit institutions of higher education in Washington, in the 2019-20 academic year, is $3,694 and may increase each year afterwards by no more than the tuition growth factor.
+
+    d. For students attending four-year private for-profit institutions of higher education in Washington, in the 2019-20 academic year, is $8,517 and may increase each year afterwards by no more than the tuition growth factor.
+
+    e. For students attending two-year private for-profit institutions of higher education in Washington, in the 2019-20 academic year, is $2,823 and may increase each year afterwards by no more than the tuition growth factor.
+
+    f. For students attending Western Governors University-Washington, as established in RCW 28B.77.240, in the 2019-20 academic year, is $5,619 and may increase each year afterwards by no more than the tuition growth factor.
+
+    g. For students attending approved apprenticeship programs, beginning in the 2022-23 academic year, is the same amount as the maximum Washington college grant for students attending two-year institutions of higher education as defined in (a) of this subsection to be used for tuition and fees, program supplies and equipment, and other costs that facilitate educational endeavors.
+
+7. "Office" means the office of student financial assistance.
+
+8. "Tuition growth factor" means an increase of no more than the average annual percentage growth rate of the median hourly wage for Washington for the previous 14 years as the wage is determined by the federal bureau of labor statistics.
+
+## Section 2
+1. As part of the Washington college grant program, all Washington college grant recipients who qualify for the maximum Washington college grant are eligible to receive a book and material stipend.
+
+2. The office shall award book and material stipends to eligible students beginning with the 2023-24 academic year.
+
+3. Beginning in the 2023-24 academic year, the book and material stipend may be up to $1,200, adjusted annually for inflation as measured by the consumer price index.

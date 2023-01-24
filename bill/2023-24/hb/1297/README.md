@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149444&caId=20609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149444&caId=20609&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Fred Dillon - Councilmember, Puyallup Tribe of Indians
+* Brian Considine - Washington Department of Natural Resources
 
 #### 0 👎 - Con
 

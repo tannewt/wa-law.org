@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149686&caId=20551&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149686&caId=20551&tId=4)
 
-#### 9 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
+* Peter Lavallee - Public Disclosure Commission
+* Sean Flynn - Public Disclosure Commission
+* Paul Queary - The Washington Observer
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Conner Edwards - Campaign Treasurer
+* Jeff Pack - Me
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tim Eyman

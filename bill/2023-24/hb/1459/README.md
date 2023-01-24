@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149841&caId=20736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149841&caId=20736&tId=4)
 
-#### 181 👍 - Pro
+#### 259 👍 - Pro
 Testifying:
 * Tim Knopf - Washington State School Retirees’ Assn.
+* Gloria Smith - Washington Education Association/Retired
+* Joanne Warner
+* Edith Ruby - Washington State School Retirees' Assn.
+* Keitha Bryson - Washington State School Retirees' Assn.
+* Tim Knopf - Washington State School Retirees' Assn.
 
 #### 1 👎 - Con
 Testifying:

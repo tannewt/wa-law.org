@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30469&aId=149680&caId=20557&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30469&aId=149680&caId=20557&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Nathaniel  Brown - Northwest Kidney Council
+* Jackie Wirz - Donate Life Northwest
 
 #### 0 👎 - Con
 

@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149813&caId=20564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149813&caId=20564&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Miki Gearhart - Department of Revenue
+* Steve Ewing - Department of Revenue
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Amber Carter - Port of Vancouver USA

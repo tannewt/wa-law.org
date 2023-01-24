@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149781&caId=20622&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149781&caId=20622&tId=4)
 
-#### 37 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Timothy Grisham - Washington Association of County Officals
 * Lisa Henderson - Washington Association of County Clerks
+* Rowland Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kelly Vomacka - Washington Defender Assn/Washington Assn of Criminal Defense Lawyers
 
 #### 0 ❓ - Other

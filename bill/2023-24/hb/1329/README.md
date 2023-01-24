@@ -7,14 +7,31 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
+### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30479&aId=149520&caId=20652&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=4)
 
-#### 88 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Ruth Sawyer - [Sierra Club](/org/sierra_club/)
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Claire Richards - Washington Physicians for Social Responsibility
+* 💵Logan Bahr - Tacoma Power
+* Mendy Droke - Seattle City Light
+* Ryan Collins - Snohomish PUD
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Joren Clowers - WA Association of Sewer & Water Districts
+* 💵Isaac Kastama - Benton PUD, Franklin PUD
+
+### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
+#### 157 👍 - Pro
 Testifying:
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
 * Andrea Scott-Murray
@@ -22,12 +39,13 @@ Testifying:
 * Rory Paine-Donovan - Attorney General's Office
 * Claire Richards - Washington Physicians for Social Responsibility
 * 💵Charlee Thompson - NW Energy Coalition
+* 💵Joanna Grist - AARP
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 11 ❓ - Other
+#### 19 ❓ - Other
 Testifying:
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
 * 💵Logan Bahr - Tacoma Power
@@ -38,3 +56,9 @@ Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * Matt  Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* 💵Isaac Kastama - Benton PUD, Franklin PUD
+* Marlene Feist - [City of Spokane](/org/city_of_spokane/)
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Paula Painter - [City of Kent](/org/city_of_kent/)
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1
+* Austin Scharff - Washington State Dept. of Commerce

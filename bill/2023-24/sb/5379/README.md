@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149750&caId=20528&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149750&caId=20528&tId=4)
 
-#### 5 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Michael Cade - Thurston Economic Development Council
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Colleen McAleer - Clallam County Economic Development Council
+* Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* Jennie Dickinson - Port of Columbia
+* Karl Dye - Tri-City Development Council
+* Roni Rholderdiefenbach@economi - Economic Alliance (Okanogan County)
 
 #### 0 👎 - Con
 

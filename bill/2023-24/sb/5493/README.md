@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Brad Tower - Community Bankers of WA
+* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Josh Deck - Olympia Federal Savings
 
 #### 0 ❓ - Other

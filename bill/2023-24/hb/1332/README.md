@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149653&caId=20647&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149653&caId=20647&tId=4)
 
-#### 6 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Anna Hernandez-French - OSPI
 * Bill Kallappa - Washington State Board of Education

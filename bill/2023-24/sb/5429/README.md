@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149658&caId=20582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149658&caId=20582&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
+* WILLIAM PUGH - Owner Operator Independent Drivers Assn. (OOIDA)
 
 #### 0 👎 - Con
 

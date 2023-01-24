@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=4)
 
-#### 60 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * ROBERT E BATES - Bates Counseling Services
 * Tom Davis - Veterans Legislative Coalition (VLC)
+* Dr. Nichole  Ayres - Cohen Veterans Network
 
 #### 0 👎 - Con
 

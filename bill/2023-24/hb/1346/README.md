@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149654&caId=20648&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149654&caId=20648&tId=4)
 
-#### 11 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Tammie Perreault - Department of Defense
 * Natalie Wimberley  - Peninsula School District
 * Brendan  Macini - Peninsula School District
 * Krestin Bahr - Peninsula School District
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Kirsten Rue - North Thurston Public Schools
+* Amy Jo  Rotante - Military Family Member
+* Tammie Perreault - Department of Defense
 
 #### 0 👎 - Con
 

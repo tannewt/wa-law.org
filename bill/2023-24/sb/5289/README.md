@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149833&caId=20536&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149833&caId=20536&tId=4)
 
-#### 3 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* James  McMahan - WA Assoc Sheriffs & Police Chiefs
+* Kevin Turner - Ferndale City - Police Department
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other
 

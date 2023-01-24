@@ -14,8 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149751&caId=20529&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149751&caId=20529&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Dwight Bickel - [Washington Land Title Association](/org/washington_land_title_association/)
+* Raven Lampkin
+* Raven Lampkin
+* Steven Bender
+* 💵Nathan Gorton - Washington REALTORS
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Andrew Mathews - HomeOptions
+* Jack Kelly - MV Realty PBC LLC
+* Allan McPherson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kevin Li - CEO of HomeOptions

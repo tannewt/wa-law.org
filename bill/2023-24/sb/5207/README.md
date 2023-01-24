@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149685&caId=20550&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149685&caId=20550&tId=4)
 
-#### 2 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sean Flynn - Public Disclosure Commission

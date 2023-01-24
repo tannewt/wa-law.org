@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5272 Speed safety cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149674&caId=20518&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149674&caId=20518&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149674&caId=20518&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149674&caId=20518&tId=4)
-
-#### 15 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Capt. Neil Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -23,7 +17,16 @@ Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * Jeff DeVere - Washington State Patrol Lieutenants and Captains Association (WSPLCA)
 * 💵Davor Gjurasic - WSP Troopers Association
+* Arti O'Brien - Advanced Government Services
+* 💵Jennifer Ziegler - National Construction Alliance
+* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* Mark Ottele - Granite Construction Inc
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Tony Leingang - WSDOT Statewide IRT Program
+* 💵Mark Riker - Washington State Building & Construction Trades Council
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)

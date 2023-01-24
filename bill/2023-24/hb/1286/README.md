@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30488&aId=149566&caId=20692&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30488&aId=149566&caId=20692&tId=4)
 
-#### 8 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* 💵Erin Haick - SEIU 925
+* 💵Elsie Elling - Planned Parenthood Allliance Advocates
 
-#### 155 👎 - Con
+#### 391 👎 - Con
 Testifying:
 * Christina Callahan - Conservative Ladies of Washington
+* John Kuder
 
 #### 0 ❓ - Other

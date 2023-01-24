@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=4)
 
-#### 188 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * Robert Zindel - Retired public employees Council of the State of Washington
+* Tim Knopf - Washington State School Retirees' Assn.
+* Gloria Smith - Washington Education Association/Retired
+* Edith Ruby - Washington State School Retirees' Assn.
+* Keitha Bryson - Washington State School Retirees' Assn.
 * Tim Knopf - Washington State School Retirees' Assn.
 
 #### 0 👎 - Con

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149483&caId=20665&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149483&caId=20665&tId=4)
 
-#### 36 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Michael Moran - Washington State Music Therapy Task Force
@@ -23,7 +23,10 @@ Testifying:
 * Christina Kressin - Parent of former Seattle Children's Hospital patient
 * Evelyn  Stagnaro - Music Therapy Task Force Co-chair, SPU Adjunct Faculty
 * Steven Field - Swedish Multiple Sclerosis Center patient
+* 💵Melissa Johnson - Washington Speech-Language-Hearing Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)

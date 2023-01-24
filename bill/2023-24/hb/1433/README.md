@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149719&caId=20658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149719&caId=20658&tId=4)
 
-#### 35 👍 - Pro
+#### 133 👍 - Pro
+Testifying:
+* Court Olson - People for Climate Action
+* David Godfrey - People for Climate Action
+* David Russell - People for Climate Action
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

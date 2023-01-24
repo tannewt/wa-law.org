@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149768&caId=20687&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149768&caId=20687&tId=4)
 
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Roxana Gomez - ACLU of Washington
+* Larry Jefferson - Washington State Office of Public Defense
+* Nicholas Oakley - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* Joanne Smieja - WA Voices
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Russell Brown - WA Assoc of Prosecuting Attorneys
+* Shawn Sant - Franklin Co Prosecutor/WA Assoc of Pros Atty

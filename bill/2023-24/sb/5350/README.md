@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 04:00 PM - Ways & Means (WM): SB 5350 PERS/TRS 1 benefit increase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149803&caId=20523&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149803&caId=20523&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149803&caId=20523&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30451&aId=149803&caId=20523&tId=4)
-
-#### 234 👍 - Pro
+#### 424 👍 - Pro
 Testifying:
 * Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 * Mary Lindsey - Washington Education Association - Retired
@@ -27,6 +21,8 @@ Testifying:
 * Edith Ruby - Washington State School Retirees' Assn.
 * FRED YANCEY - Washington State School Retirees' Assn.
 * Keitha Bryson - Washington State School Retirees' Assn.
+* Sharon White
+* Gloria Smith - Washington Education Association/Retired
 
 #### 0 👎 - Con
 

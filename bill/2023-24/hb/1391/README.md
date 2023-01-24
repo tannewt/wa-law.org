@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149524&caId=20656&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149524&caId=20656&tId=4)
 
-#### 103 👍 - Pro
+#### 311 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Jerry Vanderwood - Associated General Contractors
+* 💵Sophia Steele - Associated Builders and Contractors
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Liz Reichart - Washington Department of Commerce

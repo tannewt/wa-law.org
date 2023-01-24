@@ -14,10 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149523&caId=20655&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149523&caId=20655&tId=4)
 
-#### 0 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Clarence  Clipper - CenTrio Energy of Seattle
+* Jonathan Finch - IBEW Local 77
+* Mick  Reeves - CenTrio Energy, Seattle
+* Brandon  Houskeeper - CenTrio Energy, Seattle
+* 💵Christine Reid - IBEW LU 77
+* 💵Nora Selander - Western Washington University
+* 💵Amy Wheeless - NW Energy Coalition
+* David Woodson - [University of Washington](/org/university_of_washington/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Greg Hanon - NAIOP
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Janette Plunkett - Washington Higher Education Sustainability Coalition, Seattle Buildings committee
+* Emily Salzberg  - Washington Department of Commerce
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

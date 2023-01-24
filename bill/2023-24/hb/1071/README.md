@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Education (ED): HB 1071 School resource officers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149641&caId=20644&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149641&caId=20644&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149641&caId=20644&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30512&aId=149641&caId=20644&tId=4)
-
-#### 662 👍 - Pro
+#### 873 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Jason Perrins - Chewelah SD
@@ -24,11 +18,27 @@ Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Russell Armstrong
 * Erica Griffith
+* Sherri Tibbles
+* Mark Tibbles
+* Justin Irish - Anacortes School District
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Hannah Ordos
+* Preston Dwoskin
 
-#### 342 👎 - Con
+#### 441 👎 - Con
 Testifying:
 * 💵Roxana Gomez - ACLU of Washington
 * Sandra Hunt - Highline Education Association
 * Roger Kluck - Projects for a Civil Society
+* Natasha Hill
+* 💵Karen Pillar - TeamChild
+* Amy McColm
+* Kari Bell
+* Ingrid Delzer
+* Emmie Johnson
+* Rachel Morris
+* Deborah  Kruse 
+* Tiffany  Ribera
+* Kaley Duong - Washington NAACP Youth Council
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

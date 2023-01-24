@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5471 Electric bicycles/disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149830&caId=20521&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149830&caId=20521&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149830&caId=20521&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149830&caId=20521&tId=4)
-
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Aileen Denton
+* Mark  Smith
+* Bruce Barnes - Myself
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Joyce Willms - Backcountry Horsemen of WA
+* Vivian Eason - Backcountry Horsemen of WA
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Brian Considine - Washington Department of Natural Resources

@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149594&caId=20700&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149594&caId=20700&tId=4)
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Brandy  DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Brian  LLoyd - Beacon Development Group
+* Jesse  Simpson - Housing Development Consortium
+* Joel Ing - Edge Development
 
 #### 0 👎 - Con
 

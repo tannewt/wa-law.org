@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
+* Ashly Dale
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Ben York - Puppyland (Legal Counsel)
 * 💵Paula Sardinas - Puppyland
 * Paula  Sardinas - FMS Global Strategies
+* DEBBIE GOODRICH - Flight Club Foundation
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff Pack - Me

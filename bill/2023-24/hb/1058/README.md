@@ -14,17 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
+* 💵Maya Gillett - BlueGreen Alliance of WA
 
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Mon 01/23 04:00 PM - Transportation (TR): HB 1058 Commercial driver's licenses
-Sign up to testify:
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

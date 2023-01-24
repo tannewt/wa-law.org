@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149866&caId=20731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149866&caId=20731&tId=4)
 
-#### 146 👍 - Pro
+#### 293 👍 - Pro
 Testifying:
 * Becky Bogard - State of Washington Tourism
 * David Blandford - State of Washington Tourism
 * Megan  Ching - Seattle Center Monorail
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Jeff Koffel - Tri County Economic Development District
+* Buck Taft - [Port of Pasco](/org/port_of_pasco/)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

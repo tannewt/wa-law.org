@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149655&caId=20649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149655&caId=20649&tId=4)
 
-#### 328 👍 - Pro
+#### 657 👍 - Pro
 Testifying:
 * Aracely Calvillo  - [Save the Children Action Network](/org/save_the_children_action_network/)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
@@ -28,8 +28,11 @@ Testifying:
 * Roni Cook - [Washington Education Association](/org/washington_education_association/)
 * Ben Atkinson - Washington State Academy of Nutrition and Dietetics
 * Ben Mitchell - Foundation for Tacoma Students
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Karen Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
+* Andrea Davis - Coordinated Care
 
-#### 1 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Jason  Perrins - Chewelah SD
 

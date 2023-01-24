@@ -8,14 +8,17 @@
 
 ## Meetings
 ### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5327 Intern wages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149472&caId=20504&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149472&caId=20504&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149472&caId=20504&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149472&caId=20504&tId=4)
+#### 16 👍 - Pro
+Testifying:
+* Bernal  Baca - Executive Director
+* Deborah Schuknecht 
 
-#### 8 👍 - Pro
+#### 3 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Kathryn Kolan - Washington State Hospital Association
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
+* 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)

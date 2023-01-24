@@ -8,18 +8,23 @@
 
 ## Meetings
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5314 Electric bicycle use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149675&caId=20519&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149675&caId=20519&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149675&caId=20519&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30468&aId=149675&caId=20519&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Aileen Denton
+* Mark  Smith
+* Bruce Barnes - No
 
-#### 12 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Dixie  Havlak
+* 💵Joyce Willms - Backcountry Horsemen of WA
+* Vivian Eason - Backcountry Horsemen of WA
+* Brian Considine - Washington Department of Natural Resources
+* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* Joel Sisolak - WDFW
+* 💵Andrea Imler - [Washington Trails Association](/org/washington_trails_association/)
+* Kurt Hellmann - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Owen Rowe - Washington State Parks and Recreation Commission, Policy and Governmental Affairs Director

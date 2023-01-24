@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 10:30 AM - Human Services (HS): SB 5256 Child welfare housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30459&aId=149424&caId=20495&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30459&aId=149424&caId=20495&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30459&aId=149424&caId=20495&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30459&aId=149424&caId=20495&tId=4)
-
-#### 36 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Michael Mirra - Admin Office of the Courts Steering Committee for Family Treatment Courts

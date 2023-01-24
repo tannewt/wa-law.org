@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149742&caId=20676&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149742&caId=20676&tId=4)
 
-#### 757 👍 - Pro
+#### 1340 👍 - Pro
 Testifying:
 * Devin Glaser - Tenant Law Center
 * Elizabeth Rogers
@@ -28,8 +28,29 @@ Testifying:
 * kraig peck - Small landlord to testify PRO
 * Sharon Pevey - AMHO
 * kay wenker
+* Cynthia  Colgrove 
+* Amber Abrahamson - Tenants Union of Washington State
+* Kehaulani Walker
+* Saree  Adams
+* Shannon  Corrick
+* Robert De Gregorio - WPSR
+* Emily Noel
+* 💵Kraig Peck
+* Sol Villareal
+* Julie Crites
+* Pedro Alfaro
+* Robert De Gregorio  - WA Physicians for Social Responsibility
+* Cathy  Niva
+* Di  Gabriel
+* Patricia Walker
+* Caroline Hardy
+* Deb Wilson
+* Sharon Pevey
+* Tereasa Staley
+* Marian Lancaster
+* Joseph Smith
 
-#### 429 👎 - Con
+#### 1109 👎 - Con
 Testifying:
 * Patricia  Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * 💵Chester Baldwin - Rental Housing Coalition
@@ -58,5 +79,27 @@ Testifying:
 * Mackinley Robinson
 * Sherri Tibbles
 * Mark Tibbles
+* Mary Hull-Drury - Washington Realtors
+* JIM HENDERSON - [National Association of Residential Property Managers](/org/national_association_of_residential_property_managers/)
+* Nora Schultz
+* Arielle  Dorman 
+* mary smith
+* Judy Bardin
+* Peggy Hoffman
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* peter larsen - Paragon
+* Bryan Brittain
+* Sandra Eisert
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Deborah Crawley
+* Lawrence  Crites - Private housing provider
+* Christina Nelson - Townsend Bay Property Management
+* JENNIFER WU - JAY CURVE ENTERPRISES LLC
+* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Valerie Robinson
+* Taylor  Higgins 
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Holly  Bradley
+* Morgan Shook

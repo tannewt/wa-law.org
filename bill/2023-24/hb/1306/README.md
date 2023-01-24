@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30509&aId=149633&caId=20689&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30509&aId=149633&caId=20689&tId=4)
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* 💵Paula Sardinas - FMSGS / WBBA
+* Janice Zahn - Chair of the Capital Projects Advisory Review Board
+* 💵Mark Riker - Executive Secretary, WA State Building & Construction Trades Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

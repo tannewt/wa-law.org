@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149479&caId=20567&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149479&caId=20567&tId=4)
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Doug  Krapas  - Inland Empire Paper Company
 * 💵Melissa Gombosky - Inland Empire Paper Company
 * Council President Breean Beggs - [City of Spokane](/org/city_of_spokane/)
+* Rob Lindsay - Spokane County Environmental Services
+* Arthur West
 
 #### 0 👎 - Con
 

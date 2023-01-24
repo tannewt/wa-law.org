@@ -1,0 +1,1 @@
+# Washington Solar Energy Industries Association

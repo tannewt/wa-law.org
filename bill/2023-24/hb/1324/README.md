@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1324 Prior juvenile offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149533&caId=20630&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149533&caId=20630&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149533&caId=20630&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149533&caId=20630&tId=4)
-
-#### 222 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
 * Christopher Blackwell
 * Devennice  Gaines
@@ -25,11 +19,14 @@ Testifying:
 * Sean Goode
 * Katie Hurley - King County Department of Public Defense
 * Honorable Judge André  Peñalver
+* Mikala Grozier
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Joe Kunzler - Gun Violence Survivor
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Judge Sean O'Donnell - Superior Court Judges' Association
 
 #### 2 ❓ - Other
 Testifying:

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1108 Persistent offenders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149531&caId=20628&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149531&caId=20628&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149531&caId=20628&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30482&aId=149531&caId=20628&tId=4)
-
-#### 48 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Jacob  Schmitt
 * Jeffrey  Ellis - Redemption Project of WA
@@ -23,10 +17,15 @@ Testifying:
 * David Trieweiler - WACDL/WDA
 * Vidal Vincent
 * Anita  Khandelwal - King County Department of Public Defense
+* Vidal Vincent
+* Eugene  Youngblood 
+* Dyneeca Adams
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Judge Sean O'Donnell - Superior Court Judges' Association

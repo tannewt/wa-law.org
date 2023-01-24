@@ -14,11 +14,32 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149209&caId=20545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149209&caId=20545&tId=4)
 
-#### 95 👍 - Pro
+#### 318 👍 - Pro
+Testifying:
+* Karen Hiester - UFCW 3000
+* Joe  Ruth - IAM 751 Health & Benefits Department
+* Karen Heister - UFCW 3000
+* Michael  Lax - Medical Director of Occupational Health Clinical Center, Upstate University Hospital
+* Trudi  Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
+* Joe  Ruth - IAM 751 Health & Benefits Department
+* Karen Heister - UFCW 3000
+* Michael  Lax - Medical Director of Occupational Health Clinical Center, Upstate University Hospital
+* Trudi  Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
+* AJ Johnson - Washington State Council of Fire Fighters
+* Christina  Bayaniyan - Sheetmetal Workers Local 66
+* Carmencita Smith - EVS professional, Swedish Medical Center First Hill
+* Debby Chandler - Spokane office professional
 
-#### 8 👎 - Con
+#### 42 👎 - Con
 Testifying:
 * JOHN MEIER - EMPLOYER RESOURCES NORTHWEST
 * TAMMIE HETRICK - Washington Food Industry Association
+* Bob Battles - Association of Washington Business (AWB)
+* Tom Kwieciak - Building Industry Association of WA
+* 💵Bruce Beckett - Wa. Retail Association
+* 💵Carolyn Logue - Associated Builders & Contractors - Washington State
+* 💵Amber Carter - Identity Clark County
+* 💵Amber Carter - Identity Clark County
+* Tim O'Connell - Previously lead counsel, WE CARE
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

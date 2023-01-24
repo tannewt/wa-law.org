@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=4)
 
-#### 9 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Colleen Condon - Lilac City ELC
+* 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
 
 #### 0 👎 - Con
 

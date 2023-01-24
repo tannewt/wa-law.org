@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149487&caId=20669&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149487&caId=20669&tId=4)
 
-#### 120 👍 - Pro
+#### 502 👍 - Pro
 Testifying:
 * Nat Dean - Us for Autonomy
 
-#### 10 👎 - Con
+#### 109 👎 - Con
 Testifying:
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * Mary Long - Conservative Ladies of Washington
 * Richard Doerflinger
 * Rebecca Faust
+* Sharon Quick - President, Physicians for Compassionate Care Educational Foundation
 
 #### 0 ❓ - Other

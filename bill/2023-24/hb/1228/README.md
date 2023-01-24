@@ -14,12 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149652&caId=20646&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149652&caId=20646&tId=4)
 
-#### 17 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Maribel  Vilchez - WEA Member and North Thurston EA Member
 * Kristin Percy Calaff  - OSPI
 * Bernard Koontz - Exec Dir, Teaching, Learning, Leadership, Highline Public Schools
+* Angel  Jarquin - Latino Civic Alliance
+* Sol Salgado - Latino Civic Alliance
+* Elida Alvarez - Kennewick School District
+* Bethany Martinez - Wahluke School District
+* Angelie Duimovic - Director of Multilingual Education, Kent School District
+* Dr. Rob  Darling - Yakima School District 7 - Yakima, WA
+* Alyssa St. Hilaire - Kennewick School District
+* Hugo Zavala
+* Alfonso Lopez - Wenatchee School District
+* Telissa Wilson - Shelton School District
+* Marisol Carrasco - Student, Highland High School
+* Hannah Tsan - Student, University of Washington
+* Alyssa St. Hilaire - Kennewick School District
+* Jonathan Ruiz Velasco - Dual and World Language Teacher, Highline Public Schools
+* 💵Giovanni Severino - Progreso: Latino Progress
+* 💵Giovanni Severino - Progreso: Latino Progress
 
 #### 0 👎 - Con
 

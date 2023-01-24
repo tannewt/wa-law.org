@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149474&caId=20546&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149474&caId=20546&tId=4)
 
-#### 10 👍 - Pro
+#### 43 👍 - Pro
 
-#### 162 👎 - Con
+#### 419 👎 - Con
+Testifying:
+* Jeannie Magdua - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

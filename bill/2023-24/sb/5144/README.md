@@ -14,12 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149477&caId=20547&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149477&caId=20547&tId=4)
 
-#### 19 👍 - Pro
+#### 288 👍 - Pro
+Testifying:
+* 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* Ann Murphy - League of Women Voters of Washington
+* Chris Averyt - [City of Spokane](/org/city_of_spokane/)
+* Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
+* Rick Gilbert - Kitsap County Solid Waste Division
+* Tristen Gardner - King County Hazardous Waste Management Program
+* Andrew Lee - Seattle Public Utilities
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Logan Harvey - [Recology](/org/recology/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* George Kerchner - PRBA - The Rechargeable Battery Association
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Laurie Davies - Washington State Department of Ecology
 * Leo Raudys - Call2Recycle
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Darbi Gottlieb - AdvaMed
+* Charlie Brown - Consumer Technology Association

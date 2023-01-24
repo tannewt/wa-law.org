@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5273 Employee information/unions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149473&caId=20505&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149473&caId=20505&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149473&caId=20505&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30416&aId=149473&caId=20505&tId=4)
-
-#### 21 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Jenn  Hansen
 * 💵Michael White - [King County](/org/king_county/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Katie Kolan - Washington State Hospital Association (WSHA)
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149445&caId=20610&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149445&caId=20610&tId=4)
 
-#### 10 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * James Kraft - Washington Water Trust
 * Chris Kowitz - Oregon Water Resources Department
 * Tom Tebb - Department of Ecology - Office of Columbia River
 * Lisa Ganuelas - Board of Trustees, Confederated Tribes of the Umatilla Indian Reservation
+* Megan Kernan - WDFW
 
 #### 0 👎 - Con
 
