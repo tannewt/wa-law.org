@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=4)
 
-#### 26 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Colleen Condon - Lilac City ELC
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
+* Jessica Tollenaar Cafferty - [King County](/org/king_county/)
+* Delora Morgan Chelsea
+* Reshonna Reynolds - MomsRising
+* Jessica Smith - WSA, WSUV
+* 💵Eli Goss - OneAmerica
+* Nancy  Cruz - Community For Our College
+* xochilt lopez - Community For Our College
+* Hannahrose Bracy - communities for our college yvcc
 
 #### 0 👎 - Con
 

@@ -14,11 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=4)
 
-#### 56 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * James Feinstein - Arcadia
 * Markus Virta - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Derek Chernow - Coalition for Community Solar Access
+* Francesca Ritson
+* 💵Mason Rolph - [Olympia Community Solar](/org/olympia_community_solar/)
+* Gavin Tenold - Northwest Renewables
+* 💵John Seng - john@sparknorthwest.org
+* Jon Lange - WASEIA / Sunergy
+* Jack Newman - Solar WA / Sazan
+* Kate Browns - [Renewable Northwest](/org/renewable_northwest/)
+* Rosie Rumsey - South Sound Solar
+* James Feinstein - Arcadia
+* Kate Larkin - OneEnergy Renewables
+* Madeline Symm - Cypress Creek
+* Trudy Soucoup - Homes First
+* Colby Peone - Ellensburg Solar
+* Jeremy Smithson - Puget Sound Solar
+* Paul Comiskey - AllCities Solar
+* Bill Will - WASEIA
+* Brian Wilcock - N/A
 
 #### 0 👎 - Con
 

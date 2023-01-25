@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Local Government (LG): HB 1267 Rural public facilities/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149592&caId=20698&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149592&caId=20698&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149592&caId=20698&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149592&caId=20698&tId=4)
-
-#### 29 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Kate Dean - Jefferson County

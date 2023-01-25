@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149499&caId=20721&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149499&caId=20721&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Tom McBride - American Honda
 * Craig Orlan - American Honda
@@ -23,4 +23,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Beau Perschbacher - WA Dept. of Licensing

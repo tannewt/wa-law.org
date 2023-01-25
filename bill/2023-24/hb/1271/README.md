@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149498&caId=20720&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149498&caId=20720&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Jessica Hostetler
+* Scott Demczyszyn - Nationwide Organ Transport Alliance
+* Dominic Adorno - LifeCenter Northwest
 
 #### 0 👎 - Con
 

@@ -14,16 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30458&aId=149667&caId=20712&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30458&aId=149667&caId=20712&tId=4)
 
-#### 17 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Jessica Zander - [Washington Wine Institute](/org/washington_wine_institute/)
+* Derek Baziotis - Bene's and Inferno Wings
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Allison Ford - Uber Technologies
 * 💵Anna Powell - DoorDash
+* Michael Wolfe - [Drive Forward](/org/drive_forward/)

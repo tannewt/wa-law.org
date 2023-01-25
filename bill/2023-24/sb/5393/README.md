@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=4)
 
-#### 65 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Chris Bandoli - AHIP
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
+* Jane Beyer - Office of the Insurance Commissioner
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149626&caId=20571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149626&caId=20571&tId=4)
 
-#### 24 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Maya Gillett - BlueGreen Alliance of WA
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* Michael Swanson
+* Tara  Davis - Ironworkers Local 86
 
 #### 0 👎 - Con
 

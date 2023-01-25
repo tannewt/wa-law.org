@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5059 Prejudgment interest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149798&caId=20544&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149798&caId=20544&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149798&caId=20544&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149798&caId=20544&tId=4)
-
-#### 96 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Crystal  Rutherford - Excelsior Law PLLC
 * Colleen Durkin Peterson - Washington State Association for Justice
 * Darrell Cochran - Washington State Association for Justice
 * Nate Roberts - Washington State Association for Justice
 
-#### 80 👎 - Con
+#### 103 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * 💵Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Pool
@@ -39,6 +33,10 @@ Testifying:
 * Sophina Nunez
 * Charlie Brown - The Schools Alliance
 * Karl JOHANSON - NPIP
+* Robert Christie - no
+* Elizabeth Perez - Nonprofit Association of Washington - Equity Ambassador based in Whitman County
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Anita Waller - Ephrata School District Board of Directors
 
 #### 1 ❓ - Other
 Testifying:

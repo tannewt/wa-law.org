@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149476&caId=20581&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149476&caId=20581&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Beth Murphy
 
 #### 3 👎 - Con
 

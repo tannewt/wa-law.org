@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149597&caId=20703&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149597&caId=20703&tId=4)
 
-#### 10 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* Noha Mahgoub - Office of Financial Management
+* Cynthia Stewart - League of Women Voters of WA
 
 #### 0 👎 - Con
 

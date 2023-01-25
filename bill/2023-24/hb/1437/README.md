@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149924&caId=20754&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149924&caId=20754&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Tammie Perreault - Department of Defense
+* 💵Joren Clowers - [Associated Day Spas of Washington](/org/associated_day_spas_of_washington/)
 
 #### 0 👎 - Con
 

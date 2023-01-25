@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149749&caId=20602&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149749&caId=20602&tId=4)
 
-#### 396 👍 - Pro
+#### 435 👍 - Pro
 Testifying:
 * Elyette Weinstein
 * Robert Zindel - Retired Public Employees Council of the State of Washington
@@ -22,4 +22,4 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

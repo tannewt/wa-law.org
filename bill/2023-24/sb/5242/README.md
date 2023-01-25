@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Health & Long Term Care (HLTC): SB 5242 Abortion cost sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30485&aId=149550&caId=20532&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30485&aId=149550&caId=20532&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30485&aId=149550&caId=20532&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30485&aId=149550&caId=20532&tId=4)
-
-#### 455 👍 - Pro
+#### 504 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Lee Che  Leong - Northwest Health Law Advocates (NoHLA)
@@ -25,10 +19,11 @@ Testifying:
 * 💵Stephanie Simpson - Patient Coalition of Washington
 * Kathryn Lewandowsky
 
-#### 365 👎 - Con
+#### 384 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Kathryn Amdahl - EWU Students for Life
 * Dr. Al Oliva - Alliance for Hippocratic Medicine
+* Lauren O'Bannan
 
 #### 0 ❓ - Other

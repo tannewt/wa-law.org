@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149965&caId=20742&tId=4)
 
-#### 11 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
 * 💵Maya Gillett - BlueGreen Alliance of WA
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Beau Perschbacher - WA Dept. of Licensing
 
 #### 0 👎 - Con
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Labor & Commerce (LC): SB 5217 Musculoskeletal injuries/L&I
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149209&caId=20545&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149209&caId=20545&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149209&caId=20545&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30417&aId=149209&caId=20545&tId=4)
-
-#### 318 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Karen Hiester - UFCW 3000
 * Joe  Ruth - IAM 751 Health & Benefits Department
@@ -30,7 +24,7 @@ Testifying:
 * Carmencita Smith - EVS professional, Swedish Medical Center First Hill
 * Debby Chandler - Spokane office professional
 
-#### 42 👎 - Con
+#### 55 👎 - Con
 Testifying:
 * JOHN MEIER - EMPLOYER RESOURCES NORTHWEST
 * TAMMIE HETRICK - Washington Food Industry Association
@@ -41,5 +35,9 @@ Testifying:
 * 💵Amber Carter - Identity Clark County
 * 💵Amber Carter - Identity Clark County
 * Tim O'Connell - Previously lead counsel, WE CARE
+* 💵Amber Carter - Identity Clark County
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
+* David Bonauto - Labor & Industries

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149627&caId=20572&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149627&caId=20572&tId=4)
 
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Colleen Condon - Lilac City ELC
 * Elodia Gutierrez

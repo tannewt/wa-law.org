@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5489 Health care services/access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149874&caId=20735&tId=4)
-
-#### 364 👍 - Pro
+#### 471 👍 - Pro
 Testifying:
 * Lisa  Keating 
 * Jody Disney - LWVWA
@@ -30,7 +24,7 @@ Testifying:
 * 💵Emily Stone - Washington State Coalition Against Domestic Violence
 * Hillary Whitmore
 
-#### 404 👎 - Con
+#### 434 👎 - Con
 Testifying:
 * Diana Amirehteshami  - Conservative Ladies of WA
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149769&caId=20688&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149769&caId=20688&tId=4)
 
-#### 38 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * 💵Samuel Martin - The Mockingbird Society
+* Avianah McKenna  - Chapter member of The Mockingbird Society
+* Angela Engels - [Cocoon House](/org/cocoon_house/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jo Ann Tolentino
 
 #### 0 ❓ - Other

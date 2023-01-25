@@ -14,10 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149767&caId=20686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30531&aId=149767&caId=20686&tId=4)
 
-#### 117 👍 - Pro
+#### 181 👍 - Pro
 Testifying:
 * Dan Wise - 8335 9th Ave nw
 * JUSTIN MILLER
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
+* Babs Roberts - Department of Social and Health Services, Economic Services Administration
+* Tony Bowie - Department of Social and Health Services, Economic Services Administration
+* Gian Mitchell - Washington Low Income Housing Alliance
+* Kathleen  Knutsen - Kitsap/Thurston County HEN
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Dawnetta Sparks
+* Eric Penar
+* Sharon  Murfin
 
 #### 0 👎 - Con
 

@@ -8,14 +8,10 @@
 
 ## Meetings
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5274 Public employ. eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149687&caId=20552&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149687&caId=20552&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149687&caId=20552&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30517&aId=149687&caId=20552&tId=4)
-
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs

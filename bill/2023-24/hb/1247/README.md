@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 01:30 PM - Health Care & Wellness (HCW): HB 1247 Music therapists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149483&caId=20665&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149483&caId=20665&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149483&caId=20665&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30473&aId=149483&caId=20665&tId=4)
-
-#### 70 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Michael Moran - Washington State Music Therapy Task Force
@@ -24,6 +18,10 @@ Testifying:
 * Evelyn  Stagnaro - Music Therapy Task Force Co-chair, SPU Adjunct Faculty
 * Steven Field - Swedish Multiple Sclerosis Center patient
 * 💵Melissa Johnson - Washington Speech-Language-Hearing Association
+* Mickey Stuart
+* Jen Chong Jewell
+* 💵Diana Stadden - The Arc of WA State
+* Manuel Cawaling - Inspire Washington
 
 #### 1 👎 - Con
 

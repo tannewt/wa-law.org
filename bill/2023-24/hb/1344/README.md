@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Regulated Substances & Gaming (RSG): HB 1344 Low-proof beverages/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149666&caId=20711&tId=4)
-
-#### 110 👍 - Pro
+#### 330 👍 - Pro
 Testifying:
 * Bob Turnage  - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 * Justin Stiefel - Heritage Distilling Company
@@ -27,10 +21,13 @@ Testifying:
 * Scott Stocum - [Southern Glazer's Wine & Spirits](/org/southern_glazer's_wine_&_spirits/)
 * Adam Smith - Vice President State Government Relations
 * Charlie Brown - Diageo and Fred Meyer/QFC
+* 💵Vicki Christophersen - Assoc. of Washington Spirits and Wine Distributors
+* Shanan O'Driscoll  - NA
 
-#### 78 👎 - Con
+#### 127 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * Daniel  Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

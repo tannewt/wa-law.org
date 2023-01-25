@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Ways & Means (WM): SB 5495 Property tax rebates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149858&caId=20728&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149858&caId=20728&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149858&caId=20728&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149858&caId=20728&tId=4)
-
-#### 16 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Steven Drew - WA Association of Assessors
+* Senator  Frame - SDC
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jeff Gadman - WA State Association of County Treasurers
+* Andy Nicholas - Washington State Budget and Policy Center

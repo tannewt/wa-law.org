@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150178&caId=20771&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150178&caId=20771&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Ruben Flores - Council Of Presidents
+* Bill Lyne - United Faculty of Washington State
 
 #### 0 👎 - Con
 

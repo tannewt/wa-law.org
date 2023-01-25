@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
 #### 0 ❓ - Other

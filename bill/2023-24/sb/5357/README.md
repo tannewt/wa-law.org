@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149839&caId=20593&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149839&caId=20593&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

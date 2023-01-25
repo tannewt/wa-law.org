@@ -7,14 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5241 Health care marketplace
+### Thu 01/26 08:00 AM - Law & Justice (LAW): SB 5241 Health care marketplace
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149860&caId=20734&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149860&caId=20734&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149860&caId=20734&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30449&aId=149860&caId=20734&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=4)
 
-#### 581 👍 - Pro
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5241 Health care marketplace
+#### 666 👍 - Pro
 Testifying:
 * April Putney - [King County](/org/king_county/)
 * Jody Disney - LWVWA
@@ -36,7 +43,7 @@ Testifying:
 * Jason Makris
 * 💵Michael White - [King County](/org/king_county/)
 
-#### 13 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
 * Douglas Ross

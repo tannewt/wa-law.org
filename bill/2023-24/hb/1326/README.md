@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Local Government (LG): HB 1326 Utility connection charges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149594&caId=20700&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149594&caId=20700&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149594&caId=20700&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30494&aId=149594&caId=20700&tId=4)
-
-#### 17 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Brandy  DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Brian  LLoyd - Beacon Development Group

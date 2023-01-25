@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1333 Domestic violent extremism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149825&caId=20715&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149825&caId=20715&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149825&caId=20715&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149825&caId=20715&tId=4)
-
-#### 90 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Peggy Shepard
 * Miri  Cypers
@@ -28,8 +22,9 @@ Testifying:
 * Helene Paroff
 * Randall Blazak
 * Alicia Busch - Infoblox
+* Imraan Siddiqi - CAIR-Washington
 
-#### 1724 👎 - Con
+#### 2499 👎 - Con
 Testifying:
 * Laurie Layne
 * Doug  Basler
@@ -39,8 +34,20 @@ Testifying:
 * Lara Gabriel
 * Dawn Land
 * Sarah  Garriott
+* Janet Large
+* Aaron Lang
+* Sue Coffman
+* James Keeffe
+* Robert Runnells - Informed Choice Washington
+* Rebecca Faust
+* Laura Dentone
+* Kim Cutuli
+* Corbin Walters
+* Dan Smallwood 
+* Gary Wilson
+* Olemara Peters
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Imraan Siddiqi - CAIR-WA

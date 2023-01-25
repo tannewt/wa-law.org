@@ -14,18 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=4)
 
-#### 486 👍 - Pro
+#### 617 👍 - Pro
 Testifying:
 * Stacey  Valenzuela 
 * kraig peck - Small landlord to testify PRO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Robert De Gregorio - WPSR
 * Karen Vail
+* Julie Picard
+* Kasey Burton - Tenant Law Center
 
-#### 29 👎 - Con
+#### 90 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * 💵Chester Baldwin - Rental Housing Coalition
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Arthur Grafton
 
 #### 1 ❓ - Other

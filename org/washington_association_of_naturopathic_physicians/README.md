@@ -1,0 +1,1 @@
+# Washington Association of Naturopathic Physicians

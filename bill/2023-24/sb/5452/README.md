@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5452 Impact fee use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149834&caId=20537&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149834&caId=20537&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149834&caId=20537&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30502&aId=149834&caId=20537&tId=4)
-
-#### 114 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * Angela Birney - City of Redmond Mayor
 * 💵Briahna Murray - City of Redmond Contract Lobbyist
@@ -22,8 +16,9 @@ Testifying:
 * 💵Briahna Murray - Redmond Contract Lobbyist
 * Tim McHarg - Redmond Principal Planner
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Jason Steinberg - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

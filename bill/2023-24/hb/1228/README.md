@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Education (ED): HB 1228 Dual & tribal language edu.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149652&caId=20646&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149652&caId=20646&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149652&caId=20646&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149652&caId=20646&tId=4)
-
-#### 72 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Maribel  Vilchez - WEA Member and North Thurston EA Member
@@ -36,7 +30,11 @@ Testifying:
 * Jonathan Ruiz Velasco - Dual and World Language Teacher, Highline Public Schools
 * 💵Giovanni Severino - Progreso: Latino Progress
 * 💵Giovanni Severino - Progreso: Latino Progress
+* Lynn Palmanteer-Holder - State Board for Community and Technical Colleges
+* June Nho Ivers - june.nho.ivers@scptsa.org
+* Kate DeWein
+* Lucia Faba
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

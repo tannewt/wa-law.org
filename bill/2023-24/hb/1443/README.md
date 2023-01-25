@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149865&caId=20751&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149865&caId=20751&tId=4)
 
-#### 65 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 
 #### 0 👎 - Con
 

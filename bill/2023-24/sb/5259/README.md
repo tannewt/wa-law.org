@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=4)
 
-#### 60 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Debbie Gath - Teamsters Local 38
+* 💵Sarah Cherin - UFCW 3000
+* Anna McCallister
+* Naomi Oligario
+* Suzanne Geffre
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Bruce Beckett - Wa. Retail Association

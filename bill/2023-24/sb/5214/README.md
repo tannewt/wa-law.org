@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=4)
 
-#### 67 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Michael Moran - Music Therapy Task Force-facilitator for virtual panel
@@ -23,7 +23,8 @@ Testifying:
 * Eva Marczinko - Swedish Cancer Institute patient
 * Megumi Azekawa - TF Co-chair, Puget Sound Music Therapy/Ted Brown Music Outreach
 * 💵Melissa Johnson - Washington Speech-Language-Hearing Association
+* Jessi Wasson - Inspire Washington
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other

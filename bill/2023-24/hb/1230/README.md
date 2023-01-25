@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30514&aId=149644&caId=20650&tId=4)
 
-#### 5 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * Dr. Gwen Loosmore - Washington State PTA
+* Brad Finegood - Public Health – Seattle & King County
+* Gee  Kelly - Students Demand Action
+* Jennifer  Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Petra Hoy - Moms Demand Action
 
-#### 166 👎 - Con
+#### 210 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 

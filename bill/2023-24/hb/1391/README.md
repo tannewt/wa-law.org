@@ -8,20 +8,24 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1391 Energy in buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149524&caId=20656&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149524&caId=20656&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149524&caId=20656&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=149524&caId=20656&tId=4)
+#### 385 👍 - Pro
+Testifying:
+* Ali Lee - Health and Equity Alliance
+* 💵Amy Wheeless - NW Energy Coalition
+* Dewi Ali - Emerald Cities Collaborative
+* Tony Usibelli - Usibelli Consulting
+* MIKE O'BRIEN - [Sierra Club](/org/sierra_club/)
 
-#### 311 👍 - Pro
-
-#### 3 👎 - Con
+#### 36 👎 - Con
 Testifying:
 * 💵Jerry Vanderwood - Associated General Contractors
 * 💵Sophia Steele - Associated Builders and Contractors
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Dan Kirschner - [Northwest Gas Association](/org/northwest_gas_association/)
+* 💵Carolyn Logue - WA Air Conditioning Contractors Association  andAssoc Builders & Contractors- Inland Pacific Chapter
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Liz Reichart - Washington Department of Commerce
+* 💵Kathleen Collins - PacifiCorp
+* 💵John Rothlin - Avista

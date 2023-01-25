@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30525&aId=149744&caId=20678&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30525&aId=149744&caId=20678&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* RAELENE SCHIFANO - HOA FIGHTCLUB NONPROFIT
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Holly Chisa - [United Trustees Association](/org/united_trustees_association/)

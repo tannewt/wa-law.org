@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30525&aId=149743&caId=20677&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30525&aId=149743&caId=20677&tId=4)
 
-#### 74 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Sol Villarreal
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5280 Clergy/child abuse reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149427&caId=20539&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149427&caId=20539&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149427&caId=20539&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149427&caId=20539&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Larry  Shannon - Washington State Association for Justice
 * Sara Young
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

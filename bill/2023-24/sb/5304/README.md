@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5304 Language access/testing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149429&caId=20541&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149429&caId=20541&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149429&caId=20541&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149429&caId=20541&tId=4)
-
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Helen Eby
 * Gillian Dutton
 * Yvonne Simpson - Northwest Translator and Interpreter Society
 * Emma Garkavi
 * Danna Summers
+* Helen Eby - WFSE, Interpreters United
+* Quan Tran - Interpreters United (WFSE)
 
 #### 1 👎 - Con
 Testifying:

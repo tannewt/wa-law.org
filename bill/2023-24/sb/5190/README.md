@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=4)
 
-#### 426 👍 - Pro
+#### 823 👍 - Pro
 Testifying:
 * Dani Madrone - American Farmland Trust
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -29,9 +29,29 @@ Testifying:
 * Fred Felleman - Port of Seattle Commissioner
 * Dave Andersen - Washington Department of Commerce
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Kerri Woehler - Washington State Department of Transportation
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Wes Stewart - [Sierra Club](/org/sierra_club/)
+* Alexandra Freeman-Smith - SEIU Healthcare 1199NW
+* Paul Charbonneau
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Bill Clarke - WA REALTORS
+* Council President Breean Beggs
 
-#### 3 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Katrina Knutson - [City of Gig Harbor](/org/city_of_gig_harbor/)
+* Mayor, Rob  Putaansuu - [City of Port Orchard](/org/city_of_port_orchard/)
+* Kyle Moore - City of SeaTac
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Arne Woodard - Councilmember, City of Spokane Valley
+* Dean Martin - Washington State Chapter of Community Association Institute
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kristen Holdsworth - Kent Long Range Planning Manager
+* Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
+* Jacob Gonzalez - [City of Pasco](/org/city_of_pasco/)

@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150177&caId=20770&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150177&caId=20770&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Nora Selander - Western Washington University
+* Bill Lyne - United Faculty of Washington State
+* Bernadette Jungblut - Central Washington University Faculty
+* Jacob Vigdor - University of Washington Faculty
+* Sam Ligon - Eastern Washington University Faculty
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Sue Miller-Nightingale - Washington Education Association/Bellevue Assoc of Higher Education
 
 #### 0 👎 - Con
 

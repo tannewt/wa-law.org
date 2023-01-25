@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149785&caId=20626&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149785&caId=20626&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Alice Jacobsohn - American Payroll Association
+* Sharon Redmond - Department of Social and Health Services, Economic Services Administration
+* Tony Bowie - Department of Social and Health Services, Economic Services Administration
 
 #### 0 👎 - Con
 

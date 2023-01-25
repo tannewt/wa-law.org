@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Education (ED): HB 1238 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149655&caId=20649&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149655&caId=20649&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149655&caId=20649&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30513&aId=149655&caId=20649&tId=4)
-
-#### 657 👍 - Pro
+#### 729 👍 - Pro
 Testifying:
 * Aracely Calvillo  - [Save the Children Action Network](/org/save_the_children_action_network/)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
@@ -31,8 +25,11 @@ Testifying:
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Karen Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
 * Andrea Davis - Coordinated Care
+* June Ivers - SCPTSA
+* Alicia Busch - Feed a Tahomie Fund, a Maple Valley Food Bank Program
+* Patrick Durgan - Bellingham Public Schools
 
-#### 18 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Jason  Perrins - Chewelah SD
 

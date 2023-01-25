@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1322 Walla Walla water 2050 plan
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149445&caId=20610&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149445&caId=20610&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149445&caId=20610&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30462&aId=149445&caId=20610&tId=4)
-
-#### 18 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * James Kraft - Washington Water Trust
 * Chris Kowitz - Oregon Water Resources Department

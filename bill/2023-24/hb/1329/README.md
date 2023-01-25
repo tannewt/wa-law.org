@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=4)
 
-#### 6 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
@@ -22,13 +22,26 @@ Testifying:
 * 💵Logan Bahr - Tacoma Power
 * Mendy Droke - Seattle City Light
 * Ryan Collins - Snohomish PUD
+* 💵Annabel Drayton - NW Energy Coalition
+* Cathy MacCaul - AARP Washington State
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Joseph Carroll - Wolff, Hislop & Crockett
 
-#### 2 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * 💵Joren Clowers - WA Association of Sewer & Water Districts
 * 💵Isaac Kastama - Benton PUD, Franklin PUD
+* Andrea Scott-Murray
+* Marlene Feist - [City of Spokane](/org/city_of_spokane/)
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Paula  Painter - [City of Kent](/org/city_of_kent/)
+* Austin Scharff - Washington State Dept. of Commerce
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1
+* 💵Christine Brewer - The Avista Corporation
+* 💵Jay Balasbas - PacifiCorp
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
 ### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
 #### 157 👍 - Pro

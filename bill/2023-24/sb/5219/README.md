@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=4)
 
-#### 71 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * ROBERT E BATES - Bates Counseling Services
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Dr. Nichole  Ayres - Cohen Veterans Network
+* CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* LMHC, Jennifer S Kennett - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* LMHC, NCC, Dr. Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 
 #### 0 👎 - Con
 

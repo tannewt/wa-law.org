@@ -14,13 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=4)
 
-#### 9 👍 - Pro
+#### 50 👍 - Pro
+Testifying:
+* 💵Heather Kurtenbach - Ironworkers L 86
+* 💵Mark Riker - Washington State Building & Construction Trades Council
+* 💵Matthew Hepner - IBEW/CEWW
+* Todd Mitchell - Heat & Frost Insulators L 7
+* 💵Cory Elliott - NW Carpenters / NWNCA
+* 💵Luke Esser - Boilermakers
+* Tracey Eixenberger - Boilermakers Local 502
 
-#### 11 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * 💵Tom Wolf - bp America
 * Cary Clemenson - Cary Clemenson
 * Bob Battles - Association of Washington Business (AWB)
 * Jerry VanderWood - WA Construction Industry Council and AGC
+* Ryan Likkel - [Western Refinery Services](/org/western_refinery_services/)
+* Derek Bronson
+* Donald ludwigsen
+* 💵Greg Hanon - Western States Petroleum Assoc.
+* Peter Ashurst  - No
 
 #### 0 ❓ - Other

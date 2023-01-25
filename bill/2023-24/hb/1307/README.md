@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149569&caId=20695&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149569&caId=20695&tId=4)
 
-#### 109 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Dylan Higginbotham
 * Kenneth Tharp
 * McKenzie Momany - RFPU-NW/CIR/SEIU
+* Eve Champaloux - Resident and Fellow Physician Union
 
 #### 1 👎 - Con
 Testifying:

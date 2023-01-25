@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=4)
 
-#### 269 👍 - Pro
+#### 368 👍 - Pro
 Testifying:
 * Cindy Wolf - Chair - San Juan County Council
 * Kirman Taylor - Lopez Island School District
+* Jane Fuller - I am testifying as a county council member of San Juan County but not on behalf of the Council.
 
-#### 3 👎 - Con
+#### 48 👎 - Con
+Testifying:
+* Leslie Williams
+* Jeannie  Magdua  - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

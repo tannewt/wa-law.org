@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149784&caId=20625&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149784&caId=20625&tId=4)
 
-#### 684 👍 - Pro
+#### 820 👍 - Pro
 Testifying:
 * Barbara Geiger
 * 💵Lara Zarowsky - Washington Innocence Project
+* Lorena Gonzalez - ACLU of Washington
+* Joanna Schwartz - UCLA School of Law
+* Sonia Joseph - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Tammy Morales
+* Breean Beggs - Spokane City Council
+* Eliana Machefsky - National Police Accountability Project
+* Larry  Shannon - Washington State Association for Justice
 
-#### 11 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Michael McKinley
 * Michael McKinley
@@ -27,5 +34,9 @@ Testifying:
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Ryan  Lufkin - WA Council of Police & Sheriffs (WACOPS)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Spike Unruh - Washington State Patrol Troopers Association
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jay Schweikert - Cato Institute

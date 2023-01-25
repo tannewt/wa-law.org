@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149513&caId=20614&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149513&caId=20614&tId=4)
 
-#### 13 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Becky Seiler
+* Peter Henry
+* Jodi Boe
 
 #### 1 👎 - Con
 Testifying:
 * Claire Olson - Nine Mile Falls School District
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chris Brenengen - Lake Washington School District

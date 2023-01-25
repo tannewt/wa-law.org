@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149568&caId=20694&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149568&caId=20694&tId=4)
 
-#### 151 👍 - Pro
+#### 225 👍 - Pro
+Testifying:
+* 💵Emily Myers - UAW Local 4121
+* Karna Ringham
+* Fern Roush
+* Rae Dodson
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

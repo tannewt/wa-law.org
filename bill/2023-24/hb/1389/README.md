@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Housing (HOUS): HB 1389 Residential rent increases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149742&caId=20676&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149742&caId=20676&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149742&caId=20676&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149742&caId=20676&tId=4)
-
-#### 1340 👍 - Pro
+#### 1581 👍 - Pro
 Testifying:
 * Devin Glaser - Tenant Law Center
 * Elizabeth Rogers
@@ -42,6 +36,7 @@ Testifying:
 * Robert De Gregorio  - WA Physicians for Social Responsibility
 * Cathy  Niva
 * Di  Gabriel
+* Patricia Divine Wilder
 * Patricia Walker
 * Caroline Hardy
 * Deb Wilson
@@ -49,8 +44,14 @@ Testifying:
 * Tereasa Staley
 * Marian Lancaster
 * Joseph Smith
+* Robyn Golden
+* Ren Behl-Johnson
+* Patricia  Wilder
+* Keisha Clemons
+* 💵Paula Sardinas - FMSGS / WBBA
+* 💵Paula Sardinas - FMSGS / WBBA
 
-#### 1109 👎 - Con
+#### 1373 👎 - Con
 Testifying:
 * Patricia  Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * 💵Chester Baldwin - Rental Housing Coalition
@@ -98,8 +99,29 @@ Testifying:
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Valerie Robinson
 * Taylor  Higgins 
+* Jennifer  Lekisch 
+* Jennifer  Lekisch 
+* Patrick Bevis
+* Maria  Magouirk 
+* Maria  Magouirk 
+* Scott Price
+* David Sigmon
+* Rebecca Faust
+* Mary Wilkes - 3102 Long Lake Dr SE
+* Lyle Crews
+* Jacob Arntson
+* JANIE M WILSON
+* Fredrick Briddle Jr
+* Christina Kilbourn
+* Cole Scarbrough
+* neil wilson
+* Chris Dobler - Dobler Management Company
+* Saane Tome - Dobler Management Company
+* Jasmine Roberts - Dobler Management Company
+* THOMAS SAVIDGE - Savidge Investment Real Estate, LLC
+* Elisa Lyles
 
-#### 9 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * Holly  Bradley
 * Morgan Shook

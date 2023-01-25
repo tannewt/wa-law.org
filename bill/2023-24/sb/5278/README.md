@@ -14,13 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149556&caId=20587&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149556&caId=20587&tId=4)
 
-#### 9 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Bob Le Roy - The Long-Term Care Foundation
 * Sarah Lane - S&H Training Center, a DSHS-approved HCA training program
+* Tiruwork Balcha - *ABYSSINIA AFH LLC
+* Victoria Morar
+* Tracy Powers - Synergy HomeCare East King County
+* Monica Duma - Loving AFH
+* Pavel Duma - LovingAFH
+* Robin VanHyning - Cornerstone Healthcare Training Company
+* Winta Jackson - Abby Care AFH
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Madeleine Foutch - SEIU 775
+* Mary Mutura  - Mary’s Tender care

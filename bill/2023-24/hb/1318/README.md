@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Finance (FIN): HB 1318 Aircraft maintenance/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149778&caId=20664&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149778&caId=20664&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149778&caId=20664&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30454&aId=149778&caId=20664&tId=4)
-
 #### 9 👍 - Pro
 Testifying:
 * Jeff Gombosky - Aero-Flite Inc.

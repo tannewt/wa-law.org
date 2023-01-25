@@ -8,20 +8,20 @@
 
 ## Meetings
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1317 Grassroots lobbying
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149682&caId=20713&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149682&caId=20713&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149682&caId=20713&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149682&caId=20713&tId=4)
-
-#### 33 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * 💵Luis Moscoso
 * Peter Lavallee - Public Disclosure Commission
 * Sean Flynn - Public Disclosure Commission
+* Kim  Bradford - Public Disclosure Commission
+* Carol Sullivan - League of Women Voters of WA
 
-#### 187 👎 - Con
+#### 291 👎 - Con
+Testifying:
+* Nancy Churchill
+* Katherine Humphrey
+* Aaron Lang
 
 #### 2 ❓ - Other
 Testifying:

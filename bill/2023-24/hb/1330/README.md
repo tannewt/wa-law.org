@@ -8,23 +8,20 @@
 
 ## Meetings
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1330 Campaigns/foreign nationals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149683&caId=20714&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149683&caId=20714&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149683&caId=20714&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30516&aId=149683&caId=20714&tId=4)
-
-#### 10 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Conner Edwards
 * 💵Conner Edwards - Professional Campaign Treasurer
 * Jason Michaud - Campaign treasurer
 * Janet Miller
 * Deborah Pedersen
+* Peter Abbarno
+* Sandra Bensley - Sierra Heights Consulting NW
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * john Worthington
 * Sean Flynn - Public Disclosure Commission
+* Kim Bradford - Public Disclosure Commission

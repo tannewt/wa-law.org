@@ -14,8 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149488&caId=20670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149488&caId=20670&tId=4)
 
-#### 35 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
+* Nancy Dr. Belcher
+* Matt  Helder - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Robin Sparks
+* 💵Sean Graham - Washington State Medical Association
+* DO, Garrett  Jeffery
+* DO, Katina Rue
+* MD, Carrie Horwitch
+* Dr. Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Chris Bandoli - America’s Health Insurance Plans
+* Dr. Chris Berlin - Kaiser Permanente of Washington
+* Heidi Kriz - Regence
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Anna Taylor - MultiCare Connected Care
+* Anna Taylor - MultiCare Connected Care
+* Christopher Chen - HCA - Associate Medical Director

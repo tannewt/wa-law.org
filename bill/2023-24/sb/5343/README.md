@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Melissa McFadgen - AIA WA Council
+* Timothy Buckley - American Institute of Architects WA Council
 
 #### 0 ❓ - Other

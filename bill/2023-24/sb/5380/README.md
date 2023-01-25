@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 01:30 PM - Environment, Energy & Technology (ENET): SB 5380 Clean energy siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149478&caId=20548&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149478&caId=20548&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149478&caId=20548&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30471&aId=149478&caId=20548&tId=4)
-
-#### 42 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Becky Kelley - Office of Governor Jay Inslee
 * Diane Butorac - WA Department of Ecology
@@ -30,13 +24,21 @@ Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Kate Brouns - Renewable NW
 * 💵Mark Riker - Washington State Building & Construction Trades Council
+* 💵John Rothlin - Avista
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Jan Hasselman - [Earthjustice](/org/earthjustice/)
+* 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Dave Warren - WA Green Hydrogen Aliance
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 
-#### 5 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
 * Adam Maxwell - [Audubon Washington](/org/audubon_washington/)
 * 💵Nicolas Garcia - WPUDA
 * 💵Jennifer Ziegler - National Construction Alliance
+* Phil Rigdon - Yakama Nation
+* Jay Kehne - [Conservation Northwest](/org/conservation_northwest/)
+* Josh Lozano - [Energy Northwest](/org/energy_northwest/)

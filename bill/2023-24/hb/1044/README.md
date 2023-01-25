@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149759&caId=20619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149759&caId=20619&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con
 

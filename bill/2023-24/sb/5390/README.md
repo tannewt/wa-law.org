@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149548&caId=20596&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149548&caId=20596&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Alex Smith - Washington Department of Natural Resources
 
 #### 0 👎 - Con
 

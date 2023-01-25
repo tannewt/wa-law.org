@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149923&caId=20753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149923&caId=20753&tId=4)
 
-#### 2 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Pat Seibert-Love - SBCTC
+* Hanan  Al-Zubaidy - State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 

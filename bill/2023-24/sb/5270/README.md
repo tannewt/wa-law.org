@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30461&aId=149432&caId=20575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30461&aId=149432&caId=20575&tId=4)
 
-#### 140 👍 - Pro
+#### 266 👍 - Pro
+Testifying:
+* Elisa Cisneros - La Resistencia
+* Manuel Abrego - La Resistencia
+* Maru Mora Villalpando - La Resistencia
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30510&aId=149635&caId=20691&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30510&aId=149635&caId=20691&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Anthony Varela - Veterans Legislative Coalition
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * STETSON PALMER - Friends of Schafer and Lake Sylvia State Parks (FO
 * Trina Young - Friends of Schafer and Lake Sylvia
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Owen Rowe - Washington State Parks and Recreation Commission, Policy and Governmental Affairs Director

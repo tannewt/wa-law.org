@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1347 Comm.-based health assess.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=150180&caId=20768&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=150180&caId=20768&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=150180&caId=20768&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30480&aId=150180&caId=20768&tId=4)
+#### 2 👍 - Pro
+Testifying:
+* Jarred-Michael  Erickson - Confederated Tribes of the Colville Reservation
+* Karen  Condon - Confederated Tribes of the Colville Reservation
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
+Testifying:
+* john Worthington
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Matt Comisky - American Forest Resource Council
 

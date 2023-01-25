@@ -27,7 +27,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150183&caId=20773&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150183&caId=20773&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Brandon Anderson - WFSE, Washington Federation of State Employees
+* Dan Andreason - Washington Federation of State Employees, WFSE
+* Paula  Lukaszek - Washington Federation of State Employees, WFSE
 
 #### 0 👎 - Con
 

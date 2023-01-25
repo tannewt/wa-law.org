@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150179&caId=20772&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30500&aId=150179&caId=20772&tId=4)
 
-#### 0 👍 - Pro
+#### 56 👍 - Pro
+Testifying:
+* Jenny Mao - North Seattle College
+* Christine McMullin - SBCTC
+* 💵William Daley - Communities for Our Colleges
+* Jacob Katz - SBCTC
+* Gabby Fitz - Communities for Our Colleges
+* Tobi Rosenberg
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

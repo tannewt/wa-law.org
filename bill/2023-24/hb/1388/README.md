@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Housing (HOUS): HB 1388 Residential rent practices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149741&caId=20675&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149741&caId=20675&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149741&caId=20675&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30524&aId=149741&caId=20675&tId=4)
-
-#### 1535 👍 - Pro
+#### 1784 👍 - Pro
 Testifying:
 * Devin Glaser - Tenant Law Center
 * Elizabeth Rogers
@@ -42,8 +36,15 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Joseph Smith
 * Danyelle Robinson - Tenant
+* Robyn Golden
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Ren Behl-Johnson
+* Mercedes White Calf - NAYA-Action Fund
+* Po Leapai
+* Sharon Pevey - AMHO
+* 💵Paula Sardinas - FMSGS / WBBA
 
-#### 1242 👎 - Con
+#### 1560 👎 - Con
 Testifying:
 * 💵Chester Baldwin - Rental Housing Coalition
 * Zijie He - Zijie He
@@ -90,7 +91,44 @@ Testifying:
 * Valerie Robinson - Landlord
 * Jon Pettit - citizen
 * Mary Hull-Drury - Washington Realtors
+* c davis
+* Jennifer Lekisch 
+* Michael Kubacki - First Commercial Properties NW
+* Patrick Bevis
+* Alisa Mustafaeva - Windsor square
+* Kevieonna Pittman
+* Jasmine Roberts
+* Galina Perekopsky - Ridgedale apartments
+* Scott Price
+* David Sigmon
+* Maleha Escalanye 
+* Chris Breske
+* Rebecca Faust
+* Bob  Kim - BOSL Investment LLC
+* Mary Wilkes
+* Gregory Pense
+* Lyle Crews - LCJA Financial Center
+* Leslie Newman - RE/MAX All City Property Management
+* Dan Sanchez - NA
+* Christopher Gurdjian
+* Russ Millard
+* Jacob Arntson
+* Zach Strong
+* JANIE M WILSON
+* Jonathan Millard
+* Fredrick Briddle Jr - NO
+* Christina Kilbourn
+* Kristin Bingaman
+* Cole Scarbrough
+* neil wilson
+* Chelsy Parris - Dobler Management Company
+* Sarah Hughes - Dobler Management Company
+* Chris Dobler - Dobler Management Company
+* Ian  Randall
+* THOMAS SAVIDGE - Savidge Investment Real Estate, LLC
+* Elisa Lyles
 
-#### 14 ❓ - Other
+#### 23 ❓ - Other
 Testifying:
 * Holly  Bradley
+* Amanda Le Blanc

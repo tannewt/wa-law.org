@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=4)
 
-#### 309 👍 - Pro
+#### 362 👍 - Pro
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 2 👎 - Con
 Testifying:
 * Ed Bowen
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Heath Heikkila
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Rod Fleck - City of Forks

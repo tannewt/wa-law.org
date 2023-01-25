@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149783&caId=20624&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149783&caId=20624&tId=4)
 
-#### 14 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Kim Koon - Pasado's Safe Haven/ Director of Investigations
 * Kirsten Gregory - Pasado's Safe Haven/Animal Cruelty Response & Prevention Director
 * Jessica Garza - Newport Police Department
 * Sara Penhallegon - Center Valley Animal Rescue/ Director & Founder
+* Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
 
 #### 0 👎 - Con
 

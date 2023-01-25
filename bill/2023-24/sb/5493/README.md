@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Rachael Myers - Washington Low Income Housing Alliance
+* Kim Herman - Partners for Rural Washington
 
 #### 5 👎 - Con
 Testifying:

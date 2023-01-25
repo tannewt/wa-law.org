@@ -14,10 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30518&aId=149942&caId=20748&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30518&aId=149942&caId=20748&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Marci Carpenter - National Federation of the Blind of Washington
+* Jordan Landry
+* Judy Brown - Washington Council Of The Blind
+* Reginald George - Cross Disability Advocacy Network & Washington Council of the Blind
+* Lynne Koral - Washington Council of the Blind
+* Julie Wise - King County Director of Elections
 
-#### 105 👎 - Con
+#### 142 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Susannah Goodman - Director, Election Security Program, Common Cause
+* Tim Eyman
+* Kevin McMahan - Secretary of State
+* Stuart Holmes - Secretary of State
+* Susannah  Goodman - Common Cause
+* Tim Eyman
+* Jeff Pack - Me
+* Jonah Minkoff-Zern - Public Citizen
+* C.Jay Coles - [Verified Voting](/org/verified_voting/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Carol Sullivan - League of Women Voters of WA

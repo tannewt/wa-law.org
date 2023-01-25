@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149475&caId=20580&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149475&caId=20580&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Sheri  Call - Washington Trucking Associations
+* Debra Livingston - Reemployability
+* Kerri Butler - Work Bridge Group
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 3 👎 - Con
 

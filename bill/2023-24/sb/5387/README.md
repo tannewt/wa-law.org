@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Ways & Means (WM): SB 5387 Property tax/homestead
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149810&caId=20561&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149810&caId=20561&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149810&caId=20561&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30452&aId=149810&caId=20561&tId=4)
+#### 6 👍 - Pro
 
-#### 3 👍 - Pro
+#### 1 👎 - Con
+Testifying:
+* Steven Drew - WA Association of Assessors
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson

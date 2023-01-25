@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5465 Tourism marketing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149866&caId=20731&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149866&caId=20731&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149866&caId=20731&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30526&aId=149866&caId=20731&tId=4)
-
-#### 293 👍 - Pro
+#### 300 👍 - Pro
 Testifying:
 * Becky Bogard - State of Washington Tourism
 * David Blandford - State of Washington Tourism
@@ -23,6 +17,8 @@ Testifying:
 * Jeff Koffel - Tri County Economic Development District
 * Buck Taft - [Port of Pasco](/org/port_of_pasco/)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Megan Ching - Puget Sound Attractions Council
+* Kevin Lewis - Visit Tri-Cities
 
 #### 1 👎 - Con
 

@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5124 Nonrelative kin placement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149426&caId=20538&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149426&caId=20538&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149426&caId=20538&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30460&aId=149426&caId=20538&tId=4)
-
-#### 20 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Tara Urs - Defender Association Division
+* Ray Deck III - Skookum Kids
 
 #### 0 👎 - Con
 

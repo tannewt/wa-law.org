@@ -8,19 +8,21 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Regulated Substances & Gaming (RSG): HB 1453 Medical cannabis/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149966&caId=20761&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149966&caId=20761&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149966&caId=20761&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30457&aId=149966&caId=20761&tId=4)
-
-#### 48 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
+* Donald Guzman - The Cannabis Alliance
 * Michael Schermerhorn
 * Burl Bryson - The Cannabis Alliance
 * Matthew Friedlander - Skagit Organics
 * Steven Field - Patient (testifying remotely)
 * Steven Field - Patient
+* Jay Jones - Parent of Childhood Cancer Survivor (advocate, former patient)
+* Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
+* Lukas Hunter - Harmony Farms
+* Jim MacRae - Ex patient cardholder - testify by phone
+* Justin Nordhorn - Washington State Liquor and Cannabis Board
+* 💵Ezra Eickmeyer - Producers NW
+* Dawn Darington
 
 #### 1 👎 - Con
 

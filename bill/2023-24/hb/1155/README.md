@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1155 Consumer health data
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149780&caId=20621&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149780&caId=20621&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149780&caId=20621&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30497&aId=149780&caId=20621&tId=4)
-
-#### 940 👍 - Pro
+#### 1012 👍 - Pro
 Testifying:
 * Maya  Morales - WA People's Privacy
 * Andrea  Alegrett - WA State Attorney General's Office
@@ -36,11 +30,11 @@ Testifying:
 * Andrea Alegrett - WA State Attorney General's Office
 * Irene Knapp
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Brad  Payne - Family Policy Institute of Washington
 
-#### 15 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * 💵Andrew Kingman - [State Privacy & Security Coalition](/org/state_privacy_&_security_coalition/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
@@ -51,3 +45,5 @@ Testifying:
 * 💵Darbi Gottlieb
 * Felicity Slater - Future of Privacy Forum
 * 💵Cara Helmer - Washington State Hospital Association
+* Cyndi Hoenhous
+* Brian Warren - [Biotechnology Innovation Organization](/org/biotechnology_innovation_organization/)
