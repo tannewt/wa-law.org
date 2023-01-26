@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=4)
 
-#### 76 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Michael Moran - Music Therapy Task Force-facilitator for virtual panel

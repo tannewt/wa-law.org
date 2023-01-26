@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1445 Law enf. misconduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149800&caId=20627&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149800&caId=20627&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149800&caId=20627&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149800&caId=20627&tId=4)
-
-#### 589 👍 - Pro
+#### 606 👍 - Pro
 Testifying:
 * 💵Enoka Herat - ACLU of Washington
 * Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* 💵Michael Transue - WA Fraternal Order of Police
 
-#### 121 👎 - Con
+#### 188 👎 - Con
 Testifying:
 * Ryan Lufkin - WA Council of Police & Sheriffs (WACOPS)
 * James  McMahan - WA Assoc Sheriffs & Police Chiefs

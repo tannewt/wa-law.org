@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=4)
 
-#### 87 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Chris Bandoli - AHIP

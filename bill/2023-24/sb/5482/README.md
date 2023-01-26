@@ -16,12 +16,19 @@ Sign up to testify:
 
 #### 15 👍 - Pro
 
-#### 6 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * John Swartz - Kiddie Academy of Vancouver - Salmon Creek
 * 💵Amber Carter - Port of Vancouver & Identity Clark County
+* Misty Napeahi - Tulalip Tribes of WA
+* Andy Nicholas - Washington State Budget and Policy Center
+* 💵Sybill Hyppolite - [Washington State Labor Council](/org/washington_state_labor_council/)
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵John Ehrenreich - WA Forest Protection Association
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
+* 💵Patrick Connor - NFIB
+* Dean Carlson - Department of Revenue
+* Steve Ewing - Department of Revenue

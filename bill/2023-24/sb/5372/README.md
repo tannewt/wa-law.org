@@ -14,18 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=4)
 
-#### 362 👍 - Pro
+#### 515 👍 - Pro
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
+* Bill Dewey - Taylor Shellfish
+* Doug McClelland - Mountains to Sound Greenway
+* Heidi Eisenhour - Jefferson County
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Michael Regan
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Ed Bowen
 
-#### 4 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * 💵Heath Heikkila
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Rod Fleck - City of Forks
+* Ron Wesen - [Skagit County](/org/skagit_county/)

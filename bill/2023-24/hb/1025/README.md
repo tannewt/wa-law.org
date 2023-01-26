@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1025 Police/private actions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149784&caId=20625&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149784&caId=20625&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149784&caId=20625&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149784&caId=20625&tId=4)
-
-#### 820 👍 - Pro
+#### 836 👍 - Pro
 Testifying:
 * Barbara Geiger
 * 💵Lara Zarowsky - Washington Innocence Project
@@ -26,7 +20,7 @@ Testifying:
 * Eliana Machefsky - National Police Accountability Project
 * Larry  Shannon - Washington State Association for Justice
 
-#### 26 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Michael McKinley
 * Michael McKinley

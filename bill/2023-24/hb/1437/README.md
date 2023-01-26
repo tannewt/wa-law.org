@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1437 Interstate massage compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149924&caId=20754&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149924&caId=20754&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149924&caId=20754&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30466&aId=149924&caId=20754&tId=4)
-
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Tammie Perreault - Department of Defense
 * 💵Joren Clowers - [Associated Day Spas of Washington](/org/associated_day_spas_of_washington/)
+* Matt Shafer - The Council of State Governments
+* Ashley Hernandez - Federation of State Massage Therapy Boards
 
 #### 0 👎 - Con
 

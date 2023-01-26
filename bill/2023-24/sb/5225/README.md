@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Early Learning & K-12 Education (EDU): SB 5225 Working conn. child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30507&aId=149625&caId=20570&tId=4)
-
-#### 88 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Colleen Condon - Lilac City ELC
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
@@ -26,6 +20,8 @@ Testifying:
 * Nancy  Cruz - Community For Our College
 * xochilt lopez - Community For Our College
 * Hannahrose Bracy - communities for our college yvcc
+* Pamela Munizza - AFT Washington Clover Park Vocation Local 3913
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 #### 0 👎 - Con
 

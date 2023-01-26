@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Environment, Energy & Technology (ENET): SB 5129 Nuclear reactor technology
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149480&caId=20568&tId=4)
-
-#### 56 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Josh Lozano - Energy Northwest - Richland, WA
 * Jesus Mota - Columbia Basin College
@@ -25,11 +19,12 @@ Testifying:
 * Randall Coleman - International Brotherhood of Electrical Workers, local 77
 * Jim Schaefer - Guggenheim Partners
 
-#### 152 👎 - Con
+#### 155 👎 - Con
 Testifying:
 * Arthur West
 * Roger Lippman
 * Cathryn Chudy
+* Walter Jorgensen
 
 #### 1 ❓ - Other
 Testifying:

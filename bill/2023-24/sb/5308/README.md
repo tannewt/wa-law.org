@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149558&caId=20589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149558&caId=20589&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Ciara Ashworth  - Washington State Athletic Trainers’ Association
 
 #### 2 👎 - Con
 Testifying:
 * 💵Melissa Johnson - APTA Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Josh Cobbley - Northwest Return To Work

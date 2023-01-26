@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Labor & Workplace Standards (LAWS): HB 1067 High-hazard facility wages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149570&caId=20696&tId=4)
-
-#### 50 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵Heather Kurtenbach - Ironworkers L 86
 * 💵Mark Riker - Washington State Building & Construction Trades Council
@@ -24,7 +18,7 @@ Testifying:
 * 💵Luke Esser - Boilermakers
 * Tracey Eixenberger - Boilermakers Local 502
 
-#### 43 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * 💵Tom Wolf - bp America
 * Cary Clemenson - Cary Clemenson

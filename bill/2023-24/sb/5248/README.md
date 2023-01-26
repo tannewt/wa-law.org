@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149659&caId=20599&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149659&caId=20599&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Ben Mitchell - Foundation for Tacoma Students / High School Success Coalition
+* Gray Sterling - The Education Trust in WA / High School Success Coalition
+* Liz Trautman - Stand for Children Washington / High School Success Coalition
 
 #### 0 👎 - Con
 

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1262 Lump sum reporting system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149785&caId=20626&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149785&caId=20626&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149785&caId=20626&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149785&caId=20626&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Alice Jacobsohn - American Payroll Association

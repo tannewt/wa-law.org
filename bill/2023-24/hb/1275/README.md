@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Health Care & Wellness (HCW): HB 1275 Athletic trainers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149946&caId=20744&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149946&caId=20744&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149946&caId=20744&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149946&caId=20744&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Charlie Brown - [Washington State Athletic Trainers Association](/org/washington_state_athletic_trainers_association/)
 * Ciara Ashworth - [Washington State Athletic Trainers Association](/org/washington_state_athletic_trainers_association/)
@@ -24,9 +18,10 @@ Testifying:
 Testifying:
 * 💵Melissa Johnson - APTA Washington
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
+* Josh Cobbley - Northwest Return To Work
 
 ### Tue 01/24 01:30 PM - Health Care & Wellness (HCW): HB 1275 Athletic trainers
 #### 0 👍 - Pro

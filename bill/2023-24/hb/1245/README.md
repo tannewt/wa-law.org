@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30525&aId=149743&caId=20677&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30525&aId=149743&caId=20677&tId=4)
 
-#### 137 👍 - Pro
+#### 287 👍 - Pro
 Testifying:
 * Sol Villarreal
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Bryan Kirschner
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Salim Furth - The Mercatus Center at George Mason University
+* 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)

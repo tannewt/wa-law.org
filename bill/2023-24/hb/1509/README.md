@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=4)
 
-#### 110 👍 - Pro
+#### 241 👍 - Pro
 Testifying:
 * James Feinstein - Arcadia
 * Markus Virta - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
@@ -36,7 +36,14 @@ Testifying:
 * Paul Comiskey - AllCities Solar
 * Bill Will - WASEIA
 * Brian Wilcock - N/A
+* Kennedy O’Connell - Platt Electric Supply
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵John Rothlin - The Avista Corporation
+* 💵Kathleen Collins - PacifiCorp
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Nicolas Garcia - WPUDA

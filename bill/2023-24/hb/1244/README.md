@@ -8,21 +8,20 @@
 
 ## Meetings
 ### Wed 01/25 04:00 PM - Appropriations (APP): HB 1244 Enrichment levy authority
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30446&aId=149509&caId=20613&tId=4)
-
-#### 368 👍 - Pro
+#### 400 👍 - Pro
 Testifying:
 * Cindy Wolf - Chair - San Juan County Council
 * Kirman Taylor - Lopez Island School District
 * Jane Fuller - I am testifying as a county council member of San Juan County but not on behalf of the Council.
+* Melissa DeMaria - Orcas Education Association
+* Valentina Rendon - Lopez Island School District
 
-#### 48 👎 - Con
+#### 521 👎 - Con
 Testifying:
 * Leslie Williams
 * Jeannie  Magdua  - Conservative Ladies of Washington
+* Leslie Williams - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Liv Finne - Washington Policy Center

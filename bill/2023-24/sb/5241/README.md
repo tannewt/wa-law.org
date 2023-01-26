@@ -14,9 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* 💵Michael White - [King County](/org/king_county/)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Douglas Ross
+* David Hargreaves - Yakima Valley Memorial Hospital
+* Jon Duarte - Overlake Medical Center & Clinics
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
 
 #### 0 ❓ - Other
 

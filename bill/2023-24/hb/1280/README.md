@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/25 04:00 PM - Transportation (TR): HB 1280 Open vehicle safety recalls
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149499&caId=20721&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149499&caId=20721&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149499&caId=20721&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149499&caId=20721&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Tom McBride - American Honda
@@ -23,6 +17,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
+* Thad Duvall - Washington State Association of County Auditors

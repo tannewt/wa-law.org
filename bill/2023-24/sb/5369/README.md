@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Environment, Energy & Technology (ENET): SB 5369 Polychlorinated biphenyls
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149479&caId=20567&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149479&caId=20567&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149479&caId=20567&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30472&aId=149479&caId=20567&tId=4)
-
-#### 16 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Doug  Krapas  - Inland Empire Paper Company
@@ -28,7 +22,9 @@ Testifying:
 Testifying:
 * Zaman Riaz - [American Coatings Association](/org/american_coatings_association/)
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
 * Katrina Lassiter - Department of Ecology
+* Holly Davies - AVAILABLE FOR QUESTIONS Washington State Department of Health
+* Tim Shestek - [American Chemistry Council](/org/american_chemistry_council/)

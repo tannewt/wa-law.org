@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Labor & Workplace Standards (LAWS): HB 1291 Academic employee bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149568&caId=20694&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149568&caId=20694&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149568&caId=20694&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30489&aId=149568&caId=20694&tId=4)
-
-#### 225 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * 💵Emily Myers - UAW Local 4121
 * Karna Ringham
 * Fern Roush
 * Rae Dodson
+* Naira Gonzales - Associated Students of Western Washington University
 
-#### 8 👎 - Con
+#### 17 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=4)
 
-#### 63 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
 * Ashly Dale
@@ -22,7 +22,7 @@ Testifying:
 * Jeni Woock
 * Bonnie Helvey - Animal Rescue Friends Society of Grant County
 
-#### 7 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Ben York - Puppyland (Legal Counsel)
 * 💵Paula Sardinas - Puppyland
@@ -31,6 +31,11 @@ Testifying:
 * Justin Kerr - Puppyland
 * Kayla Kerr - Puppyland
 * Matthew Milligan - Puppyland
+* Lawrence Zimmer - Zimmer’s Alley Cat Pet Center
+* Judith Zimmer - Zimmers Alley Cat Pet Centet
+* 💵Albert Sardinas - FMSGS
+* Ben York - Martin Davis Law
+* 💵Paula Sardinas - FMSGS
 
 #### 1 ❓ - Other
 Testifying:

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149841&caId=20736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149841&caId=20736&tId=4)
 
-#### 280 👍 - Pro
+#### 897 👍 - Pro
 Testifying:
 * Tim Knopf - Washington State School Retirees’ Assn.
 * Gloria Smith - Washington Education Association/Retired
@@ -23,9 +23,15 @@ Testifying:
 * Keitha Bryson - Washington State School Retirees' Assn.
 * Tim Knopf - Washington State School Retirees' Assn.
 * Bruce Boyer - Washington State School Retirees' Assn.
+* Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Gail Spaeth - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Mary Lindsey - Washington Education Association Retired
+* George Masten - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Johanna Standish - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Kristine Kraig - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
 #### 1 👎 - Con
 Testifying:
 * Michael McKinley
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other

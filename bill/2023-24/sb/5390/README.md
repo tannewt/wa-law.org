@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149548&caId=20596&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149548&caId=20596&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Alex Smith - Washington Department of Natural Resources
+* Eric Gardner - WDFW
+* Paula  Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
 #### 0 👎 - Con
 

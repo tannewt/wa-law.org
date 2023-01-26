@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 04:00 PM - Transportation (TR): HB 1271 Organ transport vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149498&caId=20720&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149498&caId=20720&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149498&caId=20720&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30477&aId=149498&caId=20720&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Jessica Hostetler
 * Scott Demczyszyn - Nationwide Organ Transport Alliance

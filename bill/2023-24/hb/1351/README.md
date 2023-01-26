@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Local Government (LG): HB 1351 Minimum parking requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149598&caId=20704&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149598&caId=20704&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149598&caId=20704&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30495&aId=149598&caId=20704&tId=4)
-
-#### 176 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Jennifer Gregerson  - American Planning Association, WA Chapter
 * Samantha Conley - SEIU Healthcare 1199NW
@@ -27,7 +21,7 @@ Testifying:
 * Tony Jordan - Parking Reform Network
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 11 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149631&caId=20598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149631&caId=20598&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Ria  Bahadur  - Author of SB 5355
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Mike Hoover - Washington State School Directors’ Association

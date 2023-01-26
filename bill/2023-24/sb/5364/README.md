@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149615&caId=20590&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149615&caId=20590&tId=4)
 
-#### 99 👍 - Pro
+#### 225 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Bryan Kirschner
+* Josie  Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Salim Furth - The Mercatus Center at George Mason University

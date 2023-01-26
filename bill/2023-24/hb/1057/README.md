@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=4)
 
-#### 320 👍 - Pro
+#### 811 👍 - Pro
 Testifying:
 * Robert Zindel - Retired public employees Council of the State of Washington
 * Tim Knopf - Washington State School Retirees' Assn.
@@ -22,7 +22,13 @@ Testifying:
 * Edith Ruby - Washington State School Retirees' Assn.
 * Keitha Bryson - Washington State School Retirees' Assn.
 * Tim Knopf - Washington State School Retirees' Assn.
+* Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Mary Lindsey - Washington Education Association Retired
+* Neva Luke - Washington Education Association Retired
+* Lee Ann Prielipp - Washington Education Association Retired
+* Nancy Heley - Retired Public Employees Council of Washington & Washington State Senior Citizen's Lobby
+* Bruce Boyer - Washington State School Retirees' Assn.
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

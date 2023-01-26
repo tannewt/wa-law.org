@@ -8,21 +8,21 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Housing (HSG): SB 5493 Financial instit./B&O tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149909&caId=20737&tId=4)
-
-#### 8 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Rachael Myers - Washington Low Income Housing Alliance
 * Kim Herman - Partners for Rural Washington
+* Neal Black - Kirkland City Councilmember
+* Lisa Vatske - WSHFC
+* 💵Michael White - [King County](/org/king_county/)
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Brad Tower - Community Bankers of WA
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Josh Deck - Olympia Federal Savings
+* Tamra Rieger - Evergreen Home Loans, President
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* Mark Mason - HomeStreet Bank
 
 #### 0 ❓ - Other

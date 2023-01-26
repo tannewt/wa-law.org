@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1384 Parks pass/veterans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30510&aId=149635&caId=20691&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30510&aId=149635&caId=20691&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30510&aId=149635&caId=20691&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30510&aId=149635&caId=20691&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Anthony Varela - Veterans Legislative Coalition

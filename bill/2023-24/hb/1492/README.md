@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1492 State v. Blake relief
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149914&caId=20746&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149914&caId=20746&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149914&caId=20746&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149914&caId=20746&tId=4)
-
-#### 44 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Grace O'Connor - Washington State Office of Public Defense
 * Grace O'Connor - Washington State Office of Public Defense
@@ -24,7 +18,7 @@ Testifying:
 * Teresa Groves - [Civil Survival Project](/org/civil_survival_project/)
 * Ali Hohman - [Washington Defender Association](/org/washington_defender_association/)
 
-#### 11 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

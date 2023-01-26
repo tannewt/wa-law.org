@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149489&caId=20671&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149489&caId=20671&tId=4)
 
-#### 50 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * NOEL Andrews
 * Kathe Williams - OIC/SHIBA
@@ -22,4 +22,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Evan Klein - HCA - Special Assistant, Legislative and Policy Affairs

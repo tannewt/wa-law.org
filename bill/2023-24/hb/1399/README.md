@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30467&aId=149925&caId=20755&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30467&aId=149925&caId=20755&tId=4)
 
-#### 12 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Sherri Berdine - [University of Washington](/org/university_of_washington/)
 * Rebecca Purser - OSPI
+* Stephen Bollens - WSU Faculty Representative to the State Legislature and member of the state-wide Council of Faculty
 
 #### 0 👎 - Con
 

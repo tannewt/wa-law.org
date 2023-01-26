@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149560&caId=20600&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149560&caId=20600&tId=4)
 
-#### 187 👍 - Pro
+#### 244 👍 - Pro
 Testifying:
 * Abigail Cooper - [Downtown Emergency Service Center](/org/downtown_emergency_service_center/)
+* Diane Norell
 
 #### 0 👎 - Con
 

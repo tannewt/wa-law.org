@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149475&caId=20580&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149475&caId=20580&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Sheri  Call - Washington Trucking Associations
 * Debra Livingston - Reemployability
 * Kerri Butler - Work Bridge Group
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Emily Lovell - Washington State Dental Association
 
-#### 3 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* Kathy Comfort - Washington State Association for Justice
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Brian Wright
 
 #### 0 ❓ - Other

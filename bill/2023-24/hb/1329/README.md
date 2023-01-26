@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=4)
 
-#### 38 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
@@ -29,7 +29,7 @@ Testifying:
 Testifying:
 * Joseph Carroll - Wolff, Hislop & Crockett
 
-#### 11 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Joren Clowers - WA Association of Sewer & Water Districts
 * 💵Isaac Kastama - Benton PUD, Franklin PUD
@@ -42,6 +42,8 @@ Testifying:
 * 💵Christine Brewer - The Avista Corporation
 * 💵Jay Balasbas - PacifiCorp
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* BILL CLARKE - WA PUD Association
 
 ### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
 #### 157 👍 - Pro

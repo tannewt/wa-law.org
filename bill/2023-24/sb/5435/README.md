@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=4)
 
-#### 617 👍 - Pro
+#### 662 👍 - Pro
 Testifying:
 * Stacey  Valenzuela 
 * kraig peck - Small landlord to testify PRO
@@ -23,12 +23,35 @@ Testifying:
 * Karen Vail
 * Julie Picard
 * Kasey Burton - Tenant Law Center
+* Councilmember Lisa Parshley - Olympia City Council
+* Anne  Sadler - Association of Manufactured Home Owners - AMHO
+* Robert Brandenburg
 
-#### 90 👎 - Con
+#### 383 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * 💵Chester Baldwin - Rental Housing Coalition
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Arthur Grafton
+* GORDON HAGGERTY
+* Threasa  Melton
+* Jennifer Lekisch
+* Walter Jorgensen
+* Robert  Hardy
+* Ben Douglas
+* Ryan Makinster - Washington Multi-Family Housing Association
+* Aurangzeb  Albar 
+* Jennifer Lekisch
+* Fei Priddy
+* Russ Millard - MHCW
+* Bruce Becker - Bruce Becker
+* Dan Piantanida - GP Realty Finance
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Mackinley Robinson
+* Tyler Smith - Real Estate Brokerage
+* David Nagel
+* Joe Levin - myself
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* ALEXANDER ZAMORA - Institute of Real Estate Management

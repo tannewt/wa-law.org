@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149749&caId=20602&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149749&caId=20602&tId=4)
 
-#### 435 👍 - Pro
+#### 476 👍 - Pro
 Testifying:
 * Elyette Weinstein
 * Robert Zindel - Retired Public Employees Council of the State of Washington
 * Joanne Warner
+* David Loud - Healthcare Is A Human Right & PEBB Stakeholders' Medicare Coalition
+* Jim Howe - American Federation of Teachers Washington - Retired & PEBB Stakeholders' Medicare Coalition
+* Mary Lindsey - Washington Education Association Retired & PEBB Stakeholders' Medicare Coalition
+* Carol Dotlich - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* James Barrett DeLong - [Puget Sound Advocates for Retirement Action](/org/puget_sound_advocates_for_retirement_action/)
+* Matt Groshong - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Mike Ragan - Washington Education Association Retired
 
 #### 1 👎 - Con
 

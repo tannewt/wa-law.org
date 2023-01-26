@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Kayleen Islam-Zwart - Eastern Washington University
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Dr. Susanne Quistgaard - [Premera Blue Cross](/org/premera_blue_cross/)
+* Anna Ratzliff - [University of Washington](/org/university_of_washington/)
+* Bill O'Connell - University of Washington, School of Medicine
 
 #### 0 👎 - Con
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149908&caId=20740&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149908&caId=20740&tId=4)
 
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Logan Endres - Washington State School Directors' Association (WSSDA)

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1234 Civil forfeiture of animals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149783&caId=20624&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149783&caId=20624&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149783&caId=20624&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30498&aId=149783&caId=20624&tId=4)
-
-#### 18 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Kim Koon - Pasado's Safe Haven/ Director of Investigations
 * Kirsten Gregory - Pasado's Safe Haven/Animal Cruelty Response & Prevention Director
@@ -24,4 +18,4 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

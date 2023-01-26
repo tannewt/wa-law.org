@@ -16,9 +16,10 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Melissa McFadgen - AIA WA Council
 * Timothy Buckley - American Institute of Architects WA Council
+* Noah Greenberg - Association for Learning Environments (A4LE)
 
 #### 0 ❓ - Other

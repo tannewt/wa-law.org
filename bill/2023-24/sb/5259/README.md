@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149828&caId=20583&tId=4)
 
-#### 101 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 * Debbie Gath - Teamsters Local 38
@@ -22,9 +22,14 @@ Testifying:
 * Anna McCallister
 * Naomi Oligario
 * Suzanne Geffre
+* Jennifer Woods - WA State Attorney General's Office
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Bruce Beckett - Wa. Retail Association
+* Larry  Shannon - Washington State Association for Justice
+* 💵Brandon Houskeeper - [Northwest Grocery Association](/org/northwest_grocery_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)

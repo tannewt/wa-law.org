@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149953&caId=20738&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149953&caId=20738&tId=4)
 
-#### 48 👍 - Pro
+#### 55 👍 - Pro
+Testifying:
+* AJ  Johnson  - Washington State Council of Fire Fighters
+* Anna  Nepomuceno - NAMI Washington
+* RN, Jackie Wells
+* RN, Sarah Ghering
+* RN, Shawn Reed - Washington State Nurses Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * David Fernandez Antelo 
 * Elizabeth Ford
 * James Stafford
+* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

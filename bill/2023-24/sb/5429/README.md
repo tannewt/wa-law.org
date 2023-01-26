@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149658&caId=20582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149658&caId=20582&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
 * WILLIAM PUGH - Owner Operator Independent Drivers Assn. (OOIDA)
 * Ryan Johnson
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)

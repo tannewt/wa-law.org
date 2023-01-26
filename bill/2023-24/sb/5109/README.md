@@ -14,10 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149210&caId=20578&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149210&caId=20578&tId=4)
 
-#### 142 👍 - Pro
+#### 521 👍 - Pro
+Testifying:
+* Lorraine Johnson
+* Danielle Alvarado - Fairwork Center
+* Gloria Santiago - WA Immigrant Solidarity Network
+* Sybill  Hyppolite - WA State Labor Council
+* Edith Enriquez - WA Immigrant Solidarity Network
+* Gloria Medina - Fairwork Center
+* Humberto Gonzalez-Interpreter - Interpreter/OneAmerica
+* Laura Gonzalez - Fairwork Center
+* Maricela Rodriguez-Interpreter - Interpreter-OneAmerica
+* Lilian Garcia - Fairwork Center
+* 💵Giovanni Severino - Progreso: Latino Progress
+* Cristina Ortega - Progreso: Latino Progress
+* Hamdi Mohamed - [City of Seattle](/org/city_of_seattle/)
+* José Christian  Piedra
+* German  Godinez 
 
-#### 11 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Jeff Pack - Me
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

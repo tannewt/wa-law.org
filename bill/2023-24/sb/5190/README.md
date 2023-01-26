@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Housing (HSG): SB 5190 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30521&aId=149721&caId=20573&tId=4)
-
-#### 823 👍 - Pro
+#### 971 👍 - Pro
 Testifying:
 * Dani Madrone - American Farmland Trust
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
@@ -40,14 +34,18 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Bill Clarke - WA REALTORS
 * Council President Breean Beggs
+* Rachel Smith - Seattle Metro Chamber of Commerce
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
+* Cathy MacCaul - AARP Washington State
 
-#### 33 👎 - Con
+#### 53 👎 - Con
 Testifying:
 * Katrina Knutson - [City of Gig Harbor](/org/city_of_gig_harbor/)
 * Mayor, Rob  Putaansuu - [City of Port Orchard](/org/city_of_port_orchard/)
 * Kyle Moore - City of SeaTac
+* City Councilmember Jack Walsh - [City of Federal Way](/org/city_of_federal_way/)
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Arne Woodard - Councilmember, City of Spokane Valley
 * Dean Martin - Washington State Chapter of Community Association Institute
@@ -55,3 +53,5 @@ Testifying:
 * Kristen Holdsworth - Kent Long Range Planning Manager
 * Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
 * Jacob Gonzalez - [City of Pasco](/org/city_of_pasco/)
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)

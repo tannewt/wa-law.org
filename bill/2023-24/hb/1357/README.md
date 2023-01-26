@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Health Care & Wellness (HCW): HB 1357 Prior authorization/health
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149488&caId=20670&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149488&caId=20670&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149488&caId=20670&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30474&aId=149488&caId=20670&tId=4)
-
-#### 65 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Nancy Dr. Belcher
@@ -25,8 +19,9 @@ Testifying:
 * DO, Katina Rue
 * MD, Carrie Horwitch
 * Dr. Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)
+* Teresa Dr. Girolami - [King County Medical Society](/org/king_county_medical_society/)
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Chris Bandoli - America’s Health Insurance Plans
 * Dr. Chris Berlin - Kaiser Permanente of Washington
