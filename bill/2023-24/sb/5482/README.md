@@ -8,23 +8,25 @@
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5482 Margin tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30527&aId=149869&caId=20732&tId=4)
+#### 29 👍 - Pro
 
-#### 15 👍 - Pro
-
-#### 14 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * John Swartz - Kiddie Academy of Vancouver - Salmon Creek
 * 💵Amber Carter - Port of Vancouver & Identity Clark County
 * Misty Napeahi - Tulalip Tribes of WA
 * Andy Nicholas - Washington State Budget and Policy Center
 * 💵Sybill Hyppolite - [Washington State Labor Council](/org/washington_state_labor_council/)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Dave Mastin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Dan Wood - WSDF
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Jay Gordon - WA State Dairy Federation
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Michele Willms - Associated General Contractors (AGC)
+* Jay Gordon - Washington state dairy federation
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵John Ehrenreich - WA Forest Protection Association

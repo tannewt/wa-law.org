@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5372 Trust land transfer program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149547&caId=20595&tId=4)
-
-#### 515 👍 - Pro
+#### 600 👍 - Pro
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
 * Bill Dewey - Taylor Shellfish
@@ -23,15 +17,18 @@ Testifying:
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Michael Regan
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Duane Emmons - Washington Department of Natural Resources
+* Hilary  Franz - Washington Department of Natural Resources
 
-#### 6 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Ed Bowen
 
-#### 12 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * 💵Heath Heikkila
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Rod Fleck - City of Forks
 * Ron Wesen - [Skagit County](/org/skagit_county/)
+* Matthew  Comisky  - American Forest Resource Council

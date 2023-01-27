@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Eric pratt - I, America
 
 ### Tue 01/10 10:30 AM - Law & Justice (LAW): SB 5128 Jury diversity
 #### 0 👍 - Pro

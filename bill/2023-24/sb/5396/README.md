@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 01/31 04:00 PM - Ways & Means (WM): SSB 5396 Breast exam cost sharing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150493&caId=21016&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150493&caId=21016&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150493&caId=21016&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150493&caId=21016&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5396 Concerning cost sharing for diagnostic and supplemental breast examinations. (Remote Testimony Available). (If measure is referred to committee.)
 #### 25 👍 - Pro
 Testifying:

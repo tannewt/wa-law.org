@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=4)
 
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Evelyn Roehn
+* Joseph Gabriel Burke - [Washington Student Association](/org/washington_student_association/)
+* Golrokh Maleki
 
 #### 0 👎 - Con
 

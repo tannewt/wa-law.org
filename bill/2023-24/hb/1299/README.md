@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Regulated Substances & Gaming (RSG): HB 1299 Beverage alcohol/workforce

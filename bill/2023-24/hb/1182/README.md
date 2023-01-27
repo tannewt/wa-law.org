@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Regulated Substances & Gaming (RSG): HB 1182 Wine/alcohol tax exemption

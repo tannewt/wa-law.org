@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5219 Counseling compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149555&caId=20586&tId=4)
-
-#### 86 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * ROBERT E BATES - Bates Counseling Services
@@ -23,7 +17,9 @@ Testifying:
 * CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * LMHC, Jennifer S Kennett - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * LMHC, NCC, Dr. Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Sharon Watson
 * Tom Davis - Veterans Legislative Coalition (VLC)
+* Dominique Marsalek - American Counseling Association of Washington and American Counseling Association National
 
 #### 0 👎 - Con
 

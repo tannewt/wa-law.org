@@ -14,15 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=4)
 
-#### 87 👍 - Pro
+#### 634 👍 - Pro
 Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
 * Ashly Dale
 * Claire Wilkinson
 * Jeni Woock
 * Bonnie Helvey - Animal Rescue Friends Society of Grant County
+* Darci Duker
+* Shelly Melody
+* Jill Servais - 4017 williams ave n
+* 💵Brooke Davies - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
+* Mindi Callison - Bailing Out Benji
+* Isabella Kieffer
+* Kathryn Neary
 
-#### 20 👎 - Con
+#### 134 👎 - Con
 Testifying:
 * Ben York - Puppyland (Legal Counsel)
 * 💵Paula Sardinas - Puppyland
@@ -33,10 +40,16 @@ Testifying:
 * Matthew Milligan - Puppyland
 * Lawrence Zimmer - Zimmer’s Alley Cat Pet Center
 * Judith Zimmer - Zimmers Alley Cat Pet Centet
+* Josh Armour
 * 💵Albert Sardinas - FMSGS
 * Ben York - Martin Davis Law
 * 💵Paula Sardinas - FMSGS
+* Dawn Coffinberry
+* Larry Zimmer - Zimmer’s Alley Cat Pet Center
+* Julie Conlon
+* Mario A Flores
+* Robert Likins - Pet Advocacy Network
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jeff Pack - Me

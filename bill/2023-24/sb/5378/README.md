@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150317&caId=20836&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150317&caId=20836&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 0 👎 - Con
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5214 Music therapists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149554&caId=20585&tId=4)
-
-#### 77 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Michael Moran - Music Therapy Task Force-facilitator for virtual panel
@@ -27,4 +21,6 @@ Testifying:
 
 #### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)

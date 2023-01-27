@@ -14,10 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149862&caId=20727&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149862&caId=20727&tId=4)
 
-#### 12 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Matthew  Hinck - CalPortland Company
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* Alex Ianchenko - AIA Washington Council
+* Rachael Jamison - [American Wood Council](/org/american_wood_council/)
+* Tien Peng - National Ready Mixed Concrete Assoc
+* Blake Doepker - General Contractor, Licensed Structural Engineer and LEED Accredited Professional
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Ian McFarlane - Magnusson Klemencic Associates
 
-#### 5 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Max Puchtel - American Institute of Steel Construction
+* 💵Jessica Koski - BlueGreen Alliance
+* Patrick Jablonski - Nucor Steel Seattle
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Jordan Palmeri - University of Washington - Carbon Leadership Forum
+* Bill Frare - Washington State Department of Enterprise Services
+* Hanna Waterstrat - WA Department of Commerce
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)

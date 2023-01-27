@@ -1,0 +1,140 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1614](/bill/2023-24/hb/1614/) > [Original Bill](/bill/2023-24/hb/1614/1/)
+
+# HB 1614 - Home cultivation of cannabis
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1614.pdf)
+
+## Section 1
+1. It is unlawful for any person to possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of his or her professional practice, or except as otherwise authorized by this chapter.
+
+2. Except as provided in RCW 69.50.4014, any person who violates this section is guilty of a class C felony punishable under chapter 9A.20 RCW.
+
+3. [Empty]
+
+    a. The possession, by a person 21 years of age or older, of useable cannabis, cannabis concentrates, or cannabis-infused products in amounts that do not exceed those set forth in RCW 69.50.360(3) is not a violation of this section, this chapter, or any other provision of Washington state law.
+
+    b. The possession of cannabis, useable cannabis, cannabis concentrates, and cannabis-infused products being physically transported or delivered within the state, in amounts not exceeding those that may be established under RCW 69.50.385(3), by a licensed employee of a common carrier when performing the duties authorized in accordance with RCW 69.50.382 and 69.50.385, is not a violation of this section, this chapter, or any other provision of Washington state law.
+
+4. [Empty]
+
+    a. The delivery by a person 21 years of age or older to one or more persons 21 years of age or older, during a single 24 hour period, for noncommercial purposes and not conditioned upon or done in connection with the provision or receipt of financial consideration, of any of the following cannabis products, is not a violation of this section, this chapter, or any other provisions of Washington state law:
+
+        i. One-half ounce of useable cannabis;
+
+        ii. Eight ounces of cannabis-infused product in solid form;
+
+        iii. 36 ounces of cannabis-infused product in liquid form; or
+
+        iv. 3.5 grams of cannabis concentrates.
+
+    b. The act of delivering cannabis or a cannabis product as authorized under this subsection (4) must meet one of the following requirements:
+
+        i. The delivery must be done in a location outside of the view of general public and in a nonpublic place; or
+
+        ii. The cannabis or cannabis product must be in the original packaging as purchased from the cannabis retailer.
+
+5. No person under 21 years of age may possess, manufacture, sell, or distribute cannabis, cannabis-infused products, or cannabis concentrates, regardless of THC concentration. This does not include qualifying patients with a valid authorization.
+
+6. The possession by a qualifying patient or designated provider of cannabis concentrates, useable cannabis, cannabis-infused products, or plants in accordance with chapter 69.51A RCW is not a violation of this section, this chapter, or any other provision of Washington state law.
+
+7. [Empty]
+
+    a. It is not a violation of this section, this chapter, or any other provision of Washington state law for a person 21 years of age or older to produce or possess no more than six plants on the premises of the housing unit occupied by the person, if the person complies with the requirements of this subsection.
+
+    b. It is not a violation of this section, this chapter, or any other provision of Washington state law for a person 21 years of age or older to produce or possess cannabis, including all stalks and roots, produced from no more than six plants grown by the person on the premises of the housing unit occupied by the person, subject to the limitations provided in (c) of this subsection, if the person complies with the requirements of this subsection.
+
+    c. The quantity of cannabis and cannabis products a person may produce or possess under this subsection is subject to the following limits:
+
+        i. A person may not possess cannabis capable of being processed into useable cannabis, cannabis-infused products, or cannabis concentrates, unless the person possesses fewer than 16 ounces of useable cannabis, irrespective of source;
+
+        ii. A person may not produce or possess a total of more than 16 ounces of cannabis-infused products in solid form, irrespective of source;
+
+        iii. A person may not produce or possess a total of more than 72 ounces of cannabis-infused products in liquid form, irrespective of source; and
+
+        iv. A person may not produce or possess a total of more than seven grams of cannabis concentrates, irrespective of source.
+
+    d. No more than 15 plants may be grown at any one time on the premises of a single housing unit, regardless of the number of residents living on the premises of the housing unit.
+
+    e. All plants grown under this subsection must be clearly marked with the name, residential address, and date of birth of the person growing the plants, and the date on which the plants were planted.
+
+    f. All cannabis capable of being processed into useable cannabis, cannabis-infused products, or cannabis concentrates must be clearly marked with the name, date of birth, and residential address of the person who grew the plants from which the cannabis is derived, the date on which the plants were planted, and the date on which the plants were harvested.
+
+    g. All containers containing more than one ounce of useable cannabis must be clearly marked with the name, date of birth, residential address of the person who grew the plants from which the useable cannabis is derived, the date on which the plants were planted, and the date on which the plants were harvested. Any containers containing one ounce or less of useable cannabis are not required to be labeled.
+
+    h. Any extraction or separation of resin from cannabis and any production or processing of any form of cannabis concentrates or cannabis-infused products must be performed in accordance with rules adopted under RCW 69.51A.270.
+
+    i. This subsection does not apply to plants or useable cannabis possessed or delivered other than on the premises of the housing unit at which the plants were grown.
+
+    j. Nothing in this subsection prevents or restricts a property owner from prohibiting the cultivation of plants by a renter or lessee upon or within the property under the terms of a rental agreement, lease, or other contract.
+
+    k. The production, possession, delivery, and acquisition of plants or cannabis capable of being processed into useable cannabis, cannabis-infused products, or cannabis concentrates, and useable cannabis under this subsection may not form the basis of a seizure or forfeiture action pursuant to RCW 69.50.505.
+
+    l. A person 21 years of age or older who possesses cannabis in compliance with this subsection is considered an ultimate user who may not sell cannabis, useable cannabis, cannabis concentrates, or cannabis-infused products produced from the person's plants, and is not required to obtain a registration under RCW 69.50.302 or a license under RCW 69.50.325.
+
+    m. No production, processing, or possession of plants or cannabis from those plants, as authorized in this subsection, may occur in a housing unit that is used to provide early childhood education and early learning services by a family day care provider as defined in RCW 43.216.010 or a foster family home as defined in RCW 74.15.020.
+
+    n. For purposes of this subsection, "housing unit" has the meaning provided in RCW 69.51A.010.
+
+8. [Empty]
+
+    a. The production, processing, or possession of plants or cannabis from those plants, as authorized in subsection (7) of this section, may not result in cannabis being readily smelled from a public place or the private property of another housing unit.
+
+    b. It is unlawful for a person to produce or possess plants or cannabis from those plants, as otherwise authorized under subsection (7) of this section, if the plants or cannabis are visible within the ordinary public view. For purposes of this subsection, "ordinary public view" means within the sight line with normal visual range of a person, unassisted by any elevating devices, visual aids, or manned or unmanned aircraft, from a public street or sidewalk adjacent to real property, or from within an adjacent property.
+
+    c. A violation of (a) or (b) of this subsection is a class 3 civil infraction punishable as provided in chapter 7.80 RCW.
+
+9. [Empty]
+
+    a. Except as provided in (c) of this subsection, a person who stores or leaves cannabis that was produced on the premises of the person's housing unit in accordance with subsection (7) of this section in a location where the person knows, or reasonably should know, that a person under age 21 may have access to the cannabis:
+
+        i. Is guilty of community endangerment due to unsafe storage of homegrown cannabis in the first degree if a person under age 21 obtains access and possession of the cannabis and is convicted of the crime of driving or being in physical control of a motor vehicle after consuming cannabis under RCW 46.61.503 involving the consumption of the cannabis produced under subsection (7) of this section; or
+
+        ii. Is guilty of community endangerment due to unsafe storage of homegrown cannabis in the second degree if a person under age 21 obtains access and possession of the cannabis and:
+
+(A) The person under age 21 is found in possession of the cannabis off of the premises of the housing unit at which the cannabis was produced; or
+
+(B) The person under age 21 is found to have consumed the cannabis on or off the premises of the housing unit at which the cannabis was grown.
+
+    b. Community endangerment due to unsafe storage of homegrown cannabis in the first degree or second degree is a class 1 civil infraction, punishable under RCW 7.80.120.
+
+    c. Subsection (9)(a) of this section does not apply if:
+
+        i. The cannabis was in a securely stored area, or secured in a locked, secured container; or
+
+        ii. The cannabis was obtained by a person under age 21 who did not reside in the housing unit or have permission from the owner or lawful occupant to enter the housing unit.
+
+    d. A prosecuting attorney may decline to prosecute a violation of this subsection, even though technically sufficient evidence to prosecute exists, in situations where prosecution would serve no public purpose or would defeat the purpose of the law in question.
+
+    e. Nothing in this section mandates how or where home-produced cannabis must be stored.
+
+10. [Empty]
+
+    a. The board may provide mutual law enforcement assistance to a law enforcement agency with primary territorial jurisdiction investigating or enforcing subsections (7) through (9) of this section if such a law enforcement agency requests mutual law enforcement assistance in accordance with chapter 10.93 RCW and under the authority of law. For purposes of this subsection, "mutual law enforcement assistance" and "agency with primary territorial jurisdiction" have the meanings provided in RCW 10.93.020.
+
+    b. Except as provided in (a) of this subsection, the board has no authority or responsibility to investigate or enforce requirements in subsections (7) through (9) of this section. Nothing in this subsection limits the board's authority to enforce state laws related to commercial cannabis production, processing, or sales, when there is evidence of a violation of another provision of this chapter.
+
+## Section 2
+1. A person found to have committed a civil infraction shall be assessed a monetary penalty.
+
+    a. The maximum penalty and the default amount for a class 1 civil infraction shall be $250, not including statutory assessments, except for an infraction of state law involving (i) potentially dangerous litter as specified in RCW 70A.200.060(4) or violent video or computer games under RCW 9.91.180, in which case the maximum penalty and default amount is $500; or (ii) a person's refusal to submit to a test or tests pursuant to RCW 79A.60.040 and 79A.60.700, in which case the maximum penalty and default amount is $1,000; or (iii) the misrepresentation of service animals under RCW 49.60.214, in which case the maximum penalty and default amount is $500; or (iv) untraceable firearms pursuant to RCW 9.41.326 or unfinished frames or receivers pursuant to RCW 9.41.327, in which case the maximum penalty and default amount is $500; or (v) community endangerment due to unsafe storage of homegrown cannabis in the first degree under RCW 69.50.4013, in which case the maximum penalty and default amount is $750;
+
+    b. The maximum penalty and the default amount for a class 2 civil infraction shall be $125, not including statutory assessments;
+
+    c. The maximum penalty and the default amount for a class 3 civil infraction shall be $50, not including statutory assessments; and
+
+    d. The maximum penalty and the default amount for a class 4 civil infraction shall be $25, not including statutory assessments.
+
+2. The supreme court shall prescribe by rule the conditions under which local courts may exercise discretion in assessing fines for civil infractions.
+
+3. Whenever a monetary penalty is imposed by a court under this chapter it is immediately payable. If the person is unable to pay at that time the court may grant an extension of the period in which the penalty may be paid. If the penalty is not paid on or before the time established for payment, the court may proceed to collect the penalty in the same manner as other civil judgments and may notify the prosecuting authority of the failure to pay.
+
+4. The court may also order a person found to have committed a civil infraction to make restitution.
+
+## Section 3
+(1) The following are subject to seizure and forfeiture and no property right exists in them:
+
+## Section 4
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 5
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

@@ -8,22 +8,20 @@
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Early Learning & K-12 Education (EDU): SB 5248 Tutoring & extended learning
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149659&caId=20599&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149659&caId=20599&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149659&caId=20599&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149659&caId=20599&tId=4)
-
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Ben Mitchell - Foundation for Tacoma Students / High School Success Coalition
 * Gray Sterling - The Education Trust in WA / High School Success Coalition
 * Liz Trautman - Stand for Children Washington / High School Success Coalition
+* 💵Neil Strege - Washington Round Table
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Liv Finne - Washington Policy Center
 * Sirena Wu - OSPI
+* Marguerite Roza
+* Dan Steele - WA Assn of School Administrators
+* melissa spiker

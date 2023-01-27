@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149863&caId=20749&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149863&caId=20749&tId=4)
 
-#### 97 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Cindy Madigan  - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)

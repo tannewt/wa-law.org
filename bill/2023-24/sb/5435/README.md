@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=4)
 
-#### 662 👍 - Pro
+#### 1124 👍 - Pro
 Testifying:
 * Stacey  Valenzuela 
 * kraig peck - Small landlord to testify PRO
@@ -26,8 +26,11 @@ Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
 * Anne  Sadler - Association of Manufactured Home Owners - AMHO
 * Robert Brandenburg
+* Terri  Anderson - Tenants Union of Washington State - Spokane
+* Danyelle Robinson - voter
+* Daniel Hornal - Tenants Revolt
 
-#### 383 👎 - Con
+#### 811 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * 💵Chester Baldwin - Rental Housing Coalition
@@ -40,18 +43,47 @@ Testifying:
 * Robert  Hardy
 * Ben Douglas
 * Ryan Makinster - Washington Multi-Family Housing Association
+* C Davis - Voters for Responsible Government
+* Elaine  Armstrong  - Clark County Rental Association
+* Real LeBeuf
 * Aurangzeb  Albar 
+* Lora Janssen 
+* Jake Nellis
 * Jennifer Lekisch
+* Jennifer  Wagner
+* STEVE OHARA
 * Fei Priddy
 * Russ Millard - MHCW
+* Bob  Kim - BOSL Investment LLC
 * Bruce Becker - Bruce Becker
 * Dan Piantanida - GP Realty Finance
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Mary Matthews-Brownell - None
 * Mackinley Robinson
 * Tyler Smith - Real Estate Brokerage
+* Sandra Eisert
 * David Nagel
 * Joe Levin - myself
+* Jennifer Lekisch
+* Cory Brewer
+* carl  haglund
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Julie Bridges
+* Jeremy Millard
+* Jonathan  Millard
+* Chelsy Parrish
+* Jamie Turner
+* Clark Lane
+* Chris Breske
+* Albert Angelo - Al Angelo Company
+* Jennifer Lekisch
+* Saint  Newton 
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Cathy Jeney
+* Rick Glenn - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Albert Angelo - Al Angelo Company
+* Nora Schultz
 
-#### 3 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * ALEXANDER ZAMORA - Institute of Real Estate Management

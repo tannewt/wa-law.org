@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Director Liza  Rankin  - School Board Director, Seattle Public Schools
 
-#### 0 👎 - Con
+#### 69 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+* JoAnn Tolentino
+* Andy Cilley - Parent
 
 #### 0 ❓ - Other

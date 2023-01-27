@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Absa Samba
+* Muna  Osman - Behalf off WA coalition and survivor
 
 #### 0 👎 - Con
 

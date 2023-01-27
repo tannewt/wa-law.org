@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150271&caId=20922&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150271&caId=20922&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Scarlet Neath - Center for Policing Equity
 
 #### 0 👎 - Con
 

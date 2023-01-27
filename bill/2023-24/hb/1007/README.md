@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/16 04:00 PM - Appropriations (APP): HB 1007 Military service credit

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1160 Mutilation or dismemberment

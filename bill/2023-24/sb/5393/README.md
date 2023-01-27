@@ -14,13 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30487&aId=149561&caId=20601&tId=4)
 
-#### 153 👍 - Pro
+#### 236 👍 - Pro
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Chris Bandoli - AHIP
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * Jane Beyer - Office of the Insurance Commissioner
+* Bill Kramer - Purchaser Business Group on Health
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Sybill Hyppolite - WA State Labor Council
+* Jim Freeburg - Patient Coalition of Washington
+* Denise Corcoran - Regence
 
-#### 4 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Bill Robertson - MultiCare Health System
+* Dhyan Lal - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
+* Suzanne Daly - MultiCare Health System
+* Douglas Ross
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Nari Heshmati - The Everett Clinic

@@ -1,0 +1,319 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5585](/bill/2023-24/sb/5585/) > [Original Bill](/bill/2023-24/sb/5585/1/)
+
+# SB 5585 - Mental health professionals
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5585.pdf)
+
+## Section 1
+A behavioral health agency may designate a person employed by the agency as a mental health professional if the person holds a bachelor's degree in counseling or one of the social sciences and has at least five years of experience in direct treatment of persons with a mental disorder, experience that was gained under the supervision of a mental health professional recognized by the department or attested to by the behavioral health agency.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Admission" or "admit" means a decision by a physician, physician assistant, or psychiatric advanced registered nurse practitioner that a person should be examined or treated as a patient in a hospital;
+
+2. "Alcoholism" means a disease, characterized by a dependency on alcoholic beverages, loss of control over the amount and circumstances of use, symptoms of tolerance, physiological or psychological withdrawal, or both, if use is reduced or discontinued, and impairment of health or disruption of social or economic functioning;
+
+3. "Antipsychotic medications" means that class of drugs primarily used to treat serious manifestations of mental illness associated with thought disorders, which includes, but is not limited to atypical antipsychotic medications;
+
+4. "Approved substance use disorder treatment program" means a program for persons with a substance use disorder provided by a treatment program certified by the department as meeting standards adopted under chapter 71.24 RCW;
+
+5. "Attending staff" means any person on the staff of a public or private agency having responsibility for the care and treatment of a patient;
+
+6. "Authority" means the Washington state health care authority;
+
+7. "Behavioral health disorder" means either a mental disorder as defined in this section, a substance use disorder as defined in this section, or a co-occurring mental disorder and substance use disorder;
+
+8. "Behavioral health service provider" means a public or private agency that provides mental health, substance use disorder, or co-occurring disorder services to persons with behavioral health disorders as defined under this section and receives funding from public sources. This includes, but is not limited to: Hospitals licensed under chapter 70.41 RCW; evaluation and treatment facilities as defined in this section; community mental health service delivery systems or community behavioral health programs as defined in RCW 71.24.025; licensed or certified behavioral health agencies under RCW 71.24.037; facilities conducting competency evaluations and restoration under chapter 10.77 RCW; approved substance use disorder treatment programs as defined in this section; secure withdrawal management and stabilization facilities as defined in this section; and correctional facilities operated by state and local governments;
+
+9. "Co-occurring disorder specialist" means an individual possessing an enhancement granted by the department of health under chapter 18.205 RCW that certifies the individual to provide substance use disorder counseling subject to the practice limitations under RCW 18.205.105;
+
+10. "Commitment" means the determination by a court that a person should be detained for a period of either evaluation or treatment, or both, in an inpatient or a less restrictive setting;
+
+11. "Behavioral health agency" has the same meaning as "licensed or certified behavioral health agency" defined in RCW 71.24.025;
+
+12. "Conditional release" means a revocable modification of a commitment, which may be revoked upon violation of any of its terms;
+
+13. "Crisis stabilization unit" means a short-term facility or a portion of a facility licensed or certified by the department, such as an evaluation and treatment facility or a hospital, which has been designed to assess, diagnose, and treat individuals experiencing an acute crisis without the use of long-term hospitalization;
+
+14. "Custody" means involuntary detention under the provisions of this chapter or chapter 10.77 RCW, uninterrupted by any period of unconditional release from commitment from a facility providing involuntary care and treatment;
+
+15. "Department" means the department of health;
+
+16. "Designated crisis responder" means a mental health professional appointed by the county, by an entity appointed by the county, or by the authority in consultation with a federally recognized Indian tribe or after meeting and conferring with an Indian health care provider, to perform the duties specified in this chapter;
+
+17. "Detention" or "detain" means the lawful confinement of a person, under the provisions of this chapter;
+
+18. "Developmental disabilities professional" means a person who has specialized training and three years of experience in directly treating or working with persons with developmental disabilities and is a psychiatrist, physician assistant working with a supervising psychiatrist, psychologist, psychiatric advanced registered nurse practitioner, or social worker, and such other developmental disabilities professionals as may be defined by rules adopted by the secretary of the department of social and health services;
+
+19. "Developmental disability" means that condition defined in RCW 71A.10.020;
+
+20. "Director" means the director of the authority;
+
+21. "Discharge" means the termination of hospital medical authority. The commitment may remain in place, be terminated, or be amended by court order;
+
+22. "Drug addiction" means a disease, characterized by a dependency on psychoactive chemicals, loss of control over the amount and circumstances of use, symptoms of tolerance, physiological or psychological withdrawal, or both, if use is reduced or discontinued, and impairment of health or disruption of social or economic functioning;
+
+23. "Evaluation and treatment facility" means any facility which can provide directly, or by direct arrangement with other public or private agencies, emergency evaluation and treatment, outpatient care, and timely and appropriate inpatient care to persons suffering from a mental disorder, and which is licensed or certified as such by the department. The authority may certify single beds as temporary evaluation and treatment beds under RCW 71.05.745. A physically separate and separately operated portion of a state hospital may be designated as an evaluation and treatment facility. A facility which is part of, or operated by, the department of social and health services or any federal agency will not require certification. No correctional institution or facility, or jail, shall be an evaluation and treatment facility within the meaning of this chapter;
+
+24. "Gravely disabled" means a condition in which a person, as a result of a behavioral health disorder: (a) Is in danger of serious physical harm resulting from a failure to provide for his or her essential human needs of health or safety; or (b) manifests severe deterioration in routine functioning evidenced by repeated and escalating loss of cognitive or volitional control over his or her actions and is not receiving such care as is essential for his or her health or safety;
+
+25. "Habilitative services" means those services provided by program personnel to assist persons in acquiring and maintaining life skills and in raising their levels of physical, mental, social, and vocational functioning. Habilitative services include education, training for employment, and therapy. The habilitative process shall be undertaken with recognition of the risk to the public safety presented by the person being assisted as manifested by prior charged criminal conduct;
+
+26. "Hearing" means any proceeding conducted in open court that conforms to the requirements of RCW 71.05.820;
+
+27. "History of one or more violent acts" refers to the period of time ten years prior to the filing of a petition under this chapter, excluding any time spent, but not any violent acts committed, in a behavioral health facility, or in confinement as a result of a criminal conviction;
+
+28. "Imminent" means the state or condition of being likely to occur at any moment or near at hand, rather than distant or remote;
+
+29. "In need of assisted outpatient treatment" refers to a person who meets the criteria for assisted outpatient treatment established under RCW 71.05.148;
+
+30. "Individualized service plan" means a plan prepared by a developmental disabilities professional with other professionals as a team, for a person with developmental disabilities, which shall state:
+
+    a. The nature of the person's specific problems, prior charged criminal behavior, and habilitation needs;
+
+    b. The conditions and strategies necessary to achieve the purposes of habilitation;
+
+    c. The intermediate and long-range goals of the habilitation program, with a projected timetable for the attainment;
+
+    d. The rationale for using this plan of habilitation to achieve those intermediate and long-range goals;
+
+    e. The staff responsible for carrying out the plan;
+
+    f. Where relevant in light of past criminal behavior and due consideration for public safety, the criteria for proposed movement to less-restrictive settings, criteria for proposed eventual discharge or release, and a projected possible date for discharge or release; and
+
+    g. The type of residence immediately anticipated for the person and possible future types of residences;
+
+31. "Intoxicated person" means a person whose mental or physical functioning is substantially impaired as a result of the use of alcohol or other psychoactive chemicals;
+
+32. "Judicial commitment" means a commitment by a court pursuant to the provisions of this chapter;
+
+33. "Legal counsel" means attorneys and staff employed by county prosecutor offices or the state attorney general acting in their capacity as legal representatives of public behavioral health service providers under RCW 71.05.130;
+
+34. "Less restrictive alternative treatment" means a program of individualized treatment in a less restrictive setting than inpatient treatment that includes the services described in RCW 71.05.585. This term includes: Treatment pursuant to a less restrictive alternative treatment order under RCW 71.05.240 or 71.05.320; treatment pursuant to a conditional release under RCW 71.05.340; and treatment pursuant to an assisted outpatient treatment order under RCW 71.05.148;
+
+35. "Licensed physician" means a person licensed to practice medicine or osteopathic medicine and surgery in the state of Washington;
+
+36. "Likelihood of serious harm" means:
+
+    a. A substantial risk that: (i) Physical harm will be inflicted by a person upon his or her own person, as evidenced by threats or attempts to commit suicide or inflict physical harm on oneself; (ii) physical harm will be inflicted by a person upon another, as evidenced by behavior which has caused such harm or which places another person or persons in reasonable fear of sustaining such harm; or (iii) physical harm will be inflicted by a person upon the property of others, as evidenced by behavior which has caused substantial loss or damage to the property of others; or
+
+    b. The person has threatened the physical safety of another and has a history of one or more violent acts;
+
+37. "Medical clearance" means a physician or other health care provider has determined that a person is medically stable and ready for referral to the designated crisis responder;
+
+38. "Mental disorder" means any organic, mental, or emotional impairment which has substantial adverse effects on a person's cognitive or volitional functions;
+
+39. "Mental health professional" means a psychiatrist, psychologist, physician assistant working with a supervising psychiatrist, psychiatric advanced registered nurse practitioner, psychiatric nurse, or social worker, and such other mental health professionals as may be defined by rules adopted by the secretary pursuant to the provisions of this chapter;
+
+40. "Peace officer" means a law enforcement official of a public agency or governmental unit, and includes persons specifically given peace officer powers by any state law, local ordinance, or judicial order of appointment;
+
+41. "Physician assistant" means a person licensed as a physician assistant under chapter 18.71A RCW;
+
+42. "Private agency" means any person, partnership, corporation, or association that is not a public agency, whether or not financed in whole or in part by public funds, which constitutes an evaluation and treatment facility or private institution, or hospital, or approved substance use disorder treatment program, which is conducted for, or includes a department or ward conducted for, the care and treatment of persons with behavioral health disorders;
+
+43. "Professional person" means a mental health professional, substance use disorder professional, or designated crisis responder and shall also mean a physician, physician assistant, psychiatric advanced registered nurse practitioner, registered nurse, and such others as may be defined by rules adopted by the secretary pursuant to the provisions of this chapter;
+
+44. "Psychiatric advanced registered nurse practitioner" means a person who is licensed as an advanced registered nurse practitioner pursuant to chapter 18.79 RCW; and who is board certified in advanced practice psychiatric and mental health nursing;
+
+45. "Psychiatrist" means a person having a license as a physician and surgeon in this state who has in addition completed three years of graduate training in psychiatry in a program approved by the American medical association or the American osteopathic association and is certified or eligible to be certified by the American board of psychiatry and neurology;
+
+46. "Psychologist" means a person who has been licensed as a psychologist pursuant to chapter 18.83 RCW;
+
+47. "Public agency" means any evaluation and treatment facility or institution, secure withdrawal management and stabilization facility, approved substance use disorder treatment program, or hospital which is conducted for, or includes a department or ward conducted for, the care and treatment of persons with behavioral health disorders, if the agency is operated directly by federal, state, county, or municipal government, or a combination of such governments;
+
+48. "Release" means legal termination of the commitment under the provisions of this chapter;
+
+49. "Resource management services" has the meaning given in chapter 71.24 RCW;
+
+50. "Secretary" means the secretary of the department of health, or his or her designee;
+
+51. "Secure withdrawal management and stabilization facility" means a facility operated by either a public or private agency or by the program of an agency which provides care to voluntary individuals and individuals involuntarily detained and committed under this chapter for whom there is a likelihood of serious harm or who are gravely disabled due to the presence of a substance use disorder. Secure withdrawal management and stabilization facilities must:
+
+    a. Provide the following services:
+
+        i. Assessment and treatment, provided by certified substance use disorder professionals or co-occurring disorder specialists;
+
+        ii. Clinical stabilization services;
+
+        iii. Acute or subacute detoxification services for intoxicated individuals; and
+
+        iv. Discharge assistance provided by certified substance use disorder professionals or co-occurring disorder specialists, including facilitating transitions to appropriate voluntary or involuntary inpatient services or to less restrictive alternatives as appropriate for the individual;
+
+    b. Include security measures sufficient to protect the patients, staff, and community; and
+
+    c. Be licensed or certified as such by the department of health;
+
+52. "Social worker" means a person with a master's or further advanced degree from a social work educational program accredited and approved as provided in RCW 18.320.010;
+
+53. "Substance use disorder" means a cluster of cognitive, behavioral, and physiological symptoms indicating that an individual continues using the substance despite significant substance-related problems. The diagnosis of a substance use disorder is based on a pathological pattern of behaviors related to the use of the substances;
+
+54. "Substance use disorder professional" means a person certified as a substance use disorder professional by the department of health under chapter 18.205 RCW;
+
+55. "Therapeutic court personnel" means the staff of a mental health court or other therapeutic court which has jurisdiction over defendants who are dually diagnosed with mental disorders, including court personnel, probation officers, a court monitor, prosecuting attorney, or defense counsel acting within the scope of therapeutic court duties;
+
+56. "Treatment records" include registration and all other records concerning persons who are receiving or who at any time have received services for behavioral health disorders, which are maintained by the department of social and health services, the department, the authority, behavioral health administrative services organizations and their staffs, managed care organizations and their staffs, and by treatment facilities. Treatment records include mental health information contained in a medical bill including but not limited to mental health drugs, a mental health diagnosis, provider name, and dates of service stemming from a medical service. Treatment records do not include notes or records maintained for personal use by a person providing treatment services for the department of social and health services, the department, the authority, behavioral health administrative services organizations, managed care organizations, or a treatment facility if the notes or records are not available to others;
+
+57. "Triage facility" means a short-term facility or a portion of a facility licensed or certified by the department, which is designed as a facility to assess and stabilize an individual or determine the need for involuntary commitment of an individual, and must meet department residential treatment facility standards. A triage facility may be structured as a voluntary or involuntary placement facility;
+
+58. "Video," unless the context clearly indicates otherwise, means the delivery of behavioral health services through the use of interactive audio and video technology, permitting real-time communication between a person and a designated crisis responder, for the purpose of evaluation. "Video" does not include the use of audio-only telephone, facsimile, email, or store and forward technology. "Store and forward technology" means use of an asynchronous transmission of a person's medical information from a mental health service provider to the designated crisis responder which results in medical diagnosis, consultation, or treatment;
+
+59. "Violent act" means behavior that resulted in homicide, attempted suicide, injury, or substantial loss or damage to property.
+
+## Section 3
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Admission" or "admit" means a decision by a physician, physician assistant, or psychiatric advanced registered nurse practitioner that a person should be examined or treated as a patient in a hospital;
+
+2. "Alcoholism" means a disease, characterized by a dependency on alcoholic beverages, loss of control over the amount and circumstances of use, symptoms of tolerance, physiological or psychological withdrawal, or both, if use is reduced or discontinued, and impairment of health or disruption of social or economic functioning;
+
+3. "Antipsychotic medications" means that class of drugs primarily used to treat serious manifestations of mental illness associated with thought disorders, which includes, but is not limited to atypical antipsychotic medications;
+
+4. "Approved substance use disorder treatment program" means a program for persons with a substance use disorder provided by a treatment program certified by the department as meeting standards adopted under chapter 71.24 RCW;
+
+5. "Attending staff" means any person on the staff of a public or private agency having responsibility for the care and treatment of a patient;
+
+6. "Authority" means the Washington state health care authority;
+
+7. "Behavioral health disorder" means either a mental disorder as defined in this section, a substance use disorder as defined in this section, or a co-occurring mental disorder and substance use disorder;
+
+8. "Behavioral health service provider" means a public or private agency that provides mental health, substance use disorder, or co-occurring disorder services to persons with behavioral health disorders as defined under this section and receives funding from public sources. This includes, but is not limited to: Hospitals licensed under chapter 70.41 RCW; evaluation and treatment facilities as defined in this section; community mental health service delivery systems or community behavioral health programs as defined in RCW 71.24.025; licensed or certified behavioral health agencies under RCW 71.24.037; facilities conducting competency evaluations and restoration under chapter 10.77 RCW; approved substance use disorder treatment programs as defined in this section; secure withdrawal management and stabilization facilities as defined in this section; and correctional facilities operated by state and local governments;
+
+9. "Co-occurring disorder specialist" means an individual possessing an enhancement granted by the department of health under chapter 18.205 RCW that certifies the individual to provide substance use disorder counseling subject to the practice limitations under RCW 18.205.105;
+
+10. "Commitment" means the determination by a court that a person should be detained for a period of either evaluation or treatment, or both, in an inpatient or a less restrictive setting;
+
+11. "Behavioral health agency" has the same meaning as "licensed or certified behavioral health agency" defined in RCW 71.24.025;
+
+12. "Conditional release" means a revocable modification of a commitment, which may be revoked upon violation of any of its terms;
+
+13. "Crisis stabilization unit" means a short-term facility or a portion of a facility licensed or certified by the department, such as an evaluation and treatment facility or a hospital, which has been designed to assess, diagnose, and treat individuals experiencing an acute crisis without the use of long-term hospitalization;
+
+14. "Custody" means involuntary detention under the provisions of this chapter or chapter 10.77 RCW, uninterrupted by any period of unconditional release from commitment from a facility providing involuntary care and treatment;
+
+15. "Department" means the department of health;
+
+16. "Designated crisis responder" means a mental health professional appointed by the county, by an entity appointed by the county, or by the authority in consultation with a federally recognized Indian tribe or after meeting and conferring with an Indian health care provider, to perform the duties specified in this chapter;
+
+17. "Detention" or "detain" means the lawful confinement of a person, under the provisions of this chapter;
+
+18. "Developmental disabilities professional" means a person who has specialized training and three years of experience in directly treating or working with persons with developmental disabilities and is a psychiatrist, physician assistant working with a supervising psychiatrist, psychologist, psychiatric advanced registered nurse practitioner, or social worker, and such other developmental disabilities professionals as may be defined by rules adopted by the secretary of the department of social and health services;
+
+19. "Developmental disability" means that condition defined in RCW 71A.10.020;
+
+20. "Director" means the director of the authority;
+
+21. "Discharge" means the termination of hospital medical authority. The commitment may remain in place, be terminated, or be amended by court order;
+
+22. "Drug addiction" means a disease, characterized by a dependency on psychoactive chemicals, loss of control over the amount and circumstances of use, symptoms of tolerance, physiological or psychological withdrawal, or both, if use is reduced or discontinued, and impairment of health or disruption of social or economic functioning;
+
+23. "Evaluation and treatment facility" means any facility which can provide directly, or by direct arrangement with other public or private agencies, emergency evaluation and treatment, outpatient care, and timely and appropriate inpatient care to persons suffering from a mental disorder, and which is licensed or certified as such by the department. The authority may certify single beds as temporary evaluation and treatment beds under RCW 71.05.745. A physically separate and separately operated portion of a state hospital may be designated as an evaluation and treatment facility. A facility which is part of, or operated by, the department of social and health services or any federal agency will not require certification. No correctional institution or facility, or jail, shall be an evaluation and treatment facility within the meaning of this chapter;
+
+24. "Gravely disabled" means a condition in which a person, as a result of a behavioral health disorder: (a) Is in danger of serious physical harm resulting from a failure to provide for his or her essential human needs of health or safety; or (b) manifests severe deterioration from safe behavior evidenced by repeated and escalating loss of cognitive or volitional control over his or her actions and is not receiving such care as is essential for his or her health or safety;
+
+25. "Habilitative services" means those services provided by program personnel to assist persons in acquiring and maintaining life skills and in raising their levels of physical, mental, social, and vocational functioning. Habilitative services include education, training for employment, and therapy. The habilitative process shall be undertaken with recognition of the risk to the public safety presented by the person being assisted as manifested by prior charged criminal conduct;
+
+26. "Hearing" means any proceeding conducted in open court that conforms to the requirements of RCW 71.05.820;
+
+27. "History of one or more violent acts" refers to the period of time ten years prior to the filing of a petition under this chapter, excluding any time spent, but not any violent acts committed, in a behavioral health facility, or in confinement as a result of a criminal conviction;
+
+28. "Imminent" means the state or condition of being likely to occur at any moment or near at hand, rather than distant or remote;
+
+29. "In need of assisted outpatient treatment" refers to a person who meets the criteria for assisted outpatient treatment established under RCW 71.05.148;
+
+30. "Individualized service plan" means a plan prepared by a developmental disabilities professional with other professionals as a team, for a person with developmental disabilities, which shall state:
+
+    a. The nature of the person's specific problems, prior charged criminal behavior, and habilitation needs;
+
+    b. The conditions and strategies necessary to achieve the purposes of habilitation;
+
+    c. The intermediate and long-range goals of the habilitation program, with a projected timetable for the attainment;
+
+    d. The rationale for using this plan of habilitation to achieve those intermediate and long-range goals;
+
+    e. The staff responsible for carrying out the plan;
+
+    f. Where relevant in light of past criminal behavior and due consideration for public safety, the criteria for proposed movement to less-restrictive settings, criteria for proposed eventual discharge or release, and a projected possible date for discharge or release; and
+
+    g. The type of residence immediately anticipated for the person and possible future types of residences;
+
+31. "Intoxicated person" means a person whose mental or physical functioning is substantially impaired as a result of the use of alcohol or other psychoactive chemicals;
+
+32. "Judicial commitment" means a commitment by a court pursuant to the provisions of this chapter;
+
+33. "Legal counsel" means attorneys and staff employed by county prosecutor offices or the state attorney general acting in their capacity as legal representatives of public behavioral health service providers under RCW 71.05.130;
+
+34. "Less restrictive alternative treatment" means a program of individualized treatment in a less restrictive setting than inpatient treatment that includes the services described in RCW 71.05.585. This term includes: Treatment pursuant to a less restrictive alternative treatment order under RCW 71.05.240 or 71.05.320; treatment pursuant to a conditional release under RCW 71.05.340; and treatment pursuant to an assisted outpatient treatment order under RCW 71.05.148;
+
+35. "Licensed physician" means a person licensed to practice medicine or osteopathic medicine and surgery in the state of Washington;
+
+36. "Likelihood of serious harm" means:
+
+    a. A substantial risk that: (i) Physical harm will be inflicted by a person upon his or her own person, as evidenced by threats or attempts to commit suicide or inflict physical harm on oneself; (ii) physical harm will be inflicted by a person upon another, as evidenced by behavior which has caused harm, substantial pain, or which places another person or persons in reasonable fear of harm to themselves or others; or (iii) physical harm will be inflicted by a person upon the property of others, as evidenced by behavior which has caused substantial loss or damage to the property of others; or
+
+    b. The person has threatened the physical safety of another and has a history of one or more violent acts;
+
+37. "Medical clearance" means a physician or other health care provider has determined that a person is medically stable and ready for referral to the designated crisis responder;
+
+38. "Mental disorder" means any organic, mental, or emotional impairment which has substantial adverse effects on a person's cognitive or volitional functions;
+
+39. "Mental health professional" means a psychiatrist, psychologist, physician assistant working with a supervising psychiatrist, psychiatric advanced registered nurse practitioner, psychiatric nurse, or social worker, and such other mental health professionals as may be defined by rules adopted by the secretary pursuant to the provisions of this chapter;
+
+40. "Peace officer" means a law enforcement official of a public agency or governmental unit, and includes persons specifically given peace officer powers by any state law, local ordinance, or judicial order of appointment;
+
+41. "Physician assistant" means a person licensed as a physician assistant under chapter 18.71A RCW;
+
+42. "Private agency" means any person, partnership, corporation, or association that is not a public agency, whether or not financed in whole or in part by public funds, which constitutes an evaluation and treatment facility or private institution, or hospital, or approved substance use disorder treatment program, which is conducted for, or includes a department or ward conducted for, the care and treatment of persons with behavioral health disorders;
+
+43. "Professional person" means a mental health professional, substance use disorder professional, or designated crisis responder and shall also mean a physician, physician assistant, psychiatric advanced registered nurse practitioner, registered nurse, and such others as may be defined by rules adopted by the secretary pursuant to the provisions of this chapter;
+
+44. "Psychiatric advanced registered nurse practitioner" means a person who is licensed as an advanced registered nurse practitioner pursuant to chapter 18.79 RCW; and who is board certified in advanced practice psychiatric and mental health nursing;
+
+45. "Psychiatrist" means a person having a license as a physician and surgeon in this state who has in addition completed three years of graduate training in psychiatry in a program approved by the American medical association or the American osteopathic association and is certified or eligible to be certified by the American board of psychiatry and neurology;
+
+46. "Psychologist" means a person who has been licensed as a psychologist pursuant to chapter 18.83 RCW;
+
+47. "Public agency" means any evaluation and treatment facility or institution, secure withdrawal management and stabilization facility, approved substance use disorder treatment program, or hospital which is conducted for, or includes a department or ward conducted for, the care and treatment of persons with behavioral health disorders, if the agency is operated directly by federal, state, county, or municipal government, or a combination of such governments;
+
+48. "Release" means legal termination of the commitment under the provisions of this chapter;
+
+49. "Resource management services" has the meaning given in chapter 71.24 RCW;
+
+50. "Secretary" means the secretary of the department of health, or his or her designee;
+
+51. "Secure withdrawal management and stabilization facility" means a facility operated by either a public or private agency or by the program of an agency which provides care to voluntary individuals and individuals involuntarily detained and committed under this chapter for whom there is a likelihood of serious harm or who are gravely disabled due to the presence of a substance use disorder. Secure withdrawal management and stabilization facilities must:
+
+    a. Provide the following services:
+
+        i. Assessment and treatment, provided by certified substance use disorder professionals or co-occurring disorder specialists;
+
+        ii. Clinical stabilization services;
+
+        iii. Acute or subacute detoxification services for intoxicated individuals; and
+
+        iv. Discharge assistance provided by certified substance use disorder professionals or co-occurring disorder specialists, including facilitating transitions to appropriate voluntary or involuntary inpatient services or to less restrictive alternatives as appropriate for the individual;
+
+    b. Include security measures sufficient to protect the patients, staff, and community; and
+
+    c. Be licensed or certified as such by the department of health;
+
+52. "Severe deterioration from safe behavior" means that a person will, if not treated, suffer or continue to suffer severe and abnormal mental, emotional, or physical distress, and this distress is associated with significant impairment of judgment, reason, or behavior;
+
+53. "Social worker" means a person with a master's or further advanced degree from a social work educational program accredited and approved as provided in RCW 18.320.010;
+
+54. "Substance use disorder" means a cluster of cognitive, behavioral, and physiological symptoms indicating that an individual continues using the substance despite significant substance-related problems. The diagnosis of a substance use disorder is based on a pathological pattern of behaviors related to the use of the substances;
+
+55. "Substance use disorder professional" means a person certified as a substance use disorder professional by the department of health under chapter 18.205 RCW;
+
+56. "Therapeutic court personnel" means the staff of a mental health court or other therapeutic court which has jurisdiction over defendants who are dually diagnosed with mental disorders, including court personnel, probation officers, a court monitor, prosecuting attorney, or defense counsel acting within the scope of therapeutic court duties;
+
+57. "Treatment records" include registration and all other records concerning persons who are receiving or who at any time have received services for behavioral health disorders, which are maintained by the department of social and health services, the department, the authority, behavioral health administrative services organizations and their staffs, managed care organizations and their staffs, and by treatment facilities. Treatment records include mental health information contained in a medical bill including but not limited to mental health drugs, a mental health diagnosis, provider name, and dates of service stemming from a medical service. Treatment records do not include notes or records maintained for personal use by a person providing treatment services for the department of social and health services, the department, the authority, behavioral health administrative services organizations, managed care organizations, or a treatment facility if the notes or records are not available to others;
+
+58. "Triage facility" means a short-term facility or a portion of a facility licensed or certified by the department, which is designed as a facility to assess and stabilize an individual or determine the need for involuntary commitment of an individual, and must meet department residential treatment facility standards. A triage facility may be structured as a voluntary or involuntary placement facility;
+
+59. "Video," unless the context clearly indicates otherwise, means the delivery of behavioral health services through the use of interactive audio and video technology, permitting real-time communication between a person and a designated crisis responder, for the purpose of evaluation. "Video" does not include the use of audio-only telephone, facsimile, email, or store and forward technology. "Store and forward technology" means use of an asynchronous transmission of a person's medical information from a mental health service provider to the designated crisis responder which results in medical diagnosis, consultation, or treatment;
+
+60. "Violent act" means behavior that resulted in homicide, attempted suicide, injury, or substantial loss or damage to property.
+
+## Section 4
+Section 2 of this act expires when the contingency in section 3 of this act takes effect.

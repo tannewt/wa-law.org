@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Thu 01/26 04:00 PM - Transportation (TRAN): SB 5478 Bridge jumping signs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30470&aId=150086&caId=20766&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30470&aId=150086&caId=20766&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30470&aId=150086&caId=20766&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30470&aId=150086&caId=20766&tId=4)
-
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Bonnie Smilonich 
 * Kimberly Hines
 * Lee Hines
+* Curtis King - WA State Senate
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Herb Krohn - SMART Transp. Division/United Transportation Union

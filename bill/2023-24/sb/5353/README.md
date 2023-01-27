@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5353 Voluntary stewardship prog.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149546&caId=20594&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149546&caId=20594&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149546&caId=20594&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30424&aId=149546&caId=20594&tId=4)
-
-#### 8 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Mark Streuli - Washington Cattlemen's Association and Washington Potato and Onion Association

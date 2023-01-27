@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150137&caId=20907&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150137&caId=20907&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Kristina  Walker - Tacoma City Council
 
 #### 0 👎 - Con
 

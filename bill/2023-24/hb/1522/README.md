@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150095&caId=20999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150095&caId=20999&tId=4)
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Amanda Kost - University of Washington Faculty
+* Bidisha Biswas - Western Washington University Faculty
+* Jacob Vigdor - University of Washington Faculty
 
 #### 0 👎 - Con
 

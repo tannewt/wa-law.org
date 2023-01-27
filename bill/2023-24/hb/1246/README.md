@@ -8,23 +8,19 @@
 
 ## Meetings
 ### Thu 01/26 04:00 PM - Appropriations (APP): HB 1246 Health benefits/SEBB
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149513&caId=20614&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149513&caId=20614&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149513&caId=20614&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149513&caId=20614&tId=4)
-
-#### 23 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Becky Seiler
 * Peter Henry
 * Jodi Boe
+* Stephanie Church
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Claire Olson - Nine Mile Falls School District
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Chris Brenengen - Lake Washington School District
 * David Iseminger - WA State Health Care Authority
+* Marnie White - [Seattle Public Schools](/org/seattle_public_schools/)

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/09 01:30 PM - Environment & Energy (ENVI): HB 1047 Cosmetic product chemicals

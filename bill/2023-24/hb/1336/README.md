@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Thu 01/26 04:00 PM - Appropriations (APP): HB 1336 Vol. firefighter pensions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149515&caId=20616&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149515&caId=20616&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149515&caId=20616&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149515&caId=20616&tId=4)
-
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* ryan spiller - Wa fire commissioners
+* Hailey Blankenship - Board for Volunteer Firefighters and Reserve Officers
 
 #### 0 👎 - Con
 

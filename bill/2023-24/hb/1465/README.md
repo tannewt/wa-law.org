@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
 
 #### 0 ❓ - Other

@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149489&caId=20671&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149489&caId=20671&tId=4)
 
-#### 53 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * NOEL Andrews
 * Kathe Williams - OIC/SHIBA
 * Consuelo Echeverria
+* 💵Ann Vining - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Cathy Knight - WA Association of Area Agencies on Aging
+* Tiffany Huyenh-Cho - Justice in Aging
+* 💵Brad Forbes - Alzheimer's Association
+* Carina Tong - [Disability Rights Washington](/org/disability_rights_washington/)
+* Ronnie Shure - Health Care for All - Washington
 
 #### 0 👎 - Con
 

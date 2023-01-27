@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=4)
 
-#### 0 👍 - Pro
+#### 492 👍 - Pro
+Testifying:
+* Richard Evans - American Academy of Anesthesiologist Assistants
+* Mike Cioffi
 
-#### 0 👎 - Con
+#### 857 👎 - Con
 
 #### 0 ❓ - Other

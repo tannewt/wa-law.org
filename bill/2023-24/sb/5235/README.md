@@ -8,20 +8,15 @@
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5235 Accessory dwelling units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149838&caId=20592&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149838&caId=20592&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149838&caId=20592&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30503&aId=149838&caId=20592&tId=4)
+#### 34 👍 - Pro
 
-#### 32 👍 - Pro
+#### 13 👎 - Con
 
-#### 0 👎 - Con
-
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 ### Thu 01/19 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5235 Accessory dwelling units
 #### 7 👍 - Pro

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=150181&caId=20769&tId=4)
-
-#### 62 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
@@ -29,7 +23,7 @@ Testifying:
 Testifying:
 * Joseph Carroll - Wolff, Hislop & Crockett
 
-#### 13 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * 💵Joren Clowers - WA Association of Sewer & Water Districts
 * 💵Isaac Kastama - Benton PUD, Franklin PUD

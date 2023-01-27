@@ -14,8 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=4)
 
-#### 0 👍 - Pro
+#### 61 👍 - Pro
+Testifying:
+* 💵Sophia Steele - Associated Builders and Contractors
+* Brandon Perasso
+* Kody Mills
+* Robert Perasso
+* Heath Wilbur - 20/20 Electrical Enterprises LLC
+* Matthew Patching - 20/20 Electrical Enterprises LLC
+* Adam Kemly - Kemly Electric
+* America George - Haggard Electric
+* Christopher Scherer - North Wave Electric LLC
+* Michael Brunelle - First Choice Electric LLC.
+* Timothy Rockwell - Rockwell Electric, Inc.
+* Patrick  Toby  - Toby’s Electric
+* Mike Brunelle - First Choice Electric
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

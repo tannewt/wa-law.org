@@ -16,6 +16,14 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jim Kowalkowski - Rural Education Center
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Kevin Knight - Superintendent Colville School District
+* Ian McMichael
+* Jerry Pugh - Colfax School District
+* Nikolas Bergman - Quincy School District
+* Sara Hausken  - Quincy School District

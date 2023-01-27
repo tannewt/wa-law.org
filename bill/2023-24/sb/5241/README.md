@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Law & Justice (LAW): SB 5241 Health care marketplace
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30450&aId=150394&caId=20774&tId=4)
-
-#### 14 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
+* Dr. Kjersten  Gmeiner
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Sami Alloy - Pro-Choice Washington
+* Joelle  Craft - Washington CAN
+* Joselito Lopez - Washington CAN
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Douglas Ross
 * David Hargreaves - Yakima Valley Memorial Hospital

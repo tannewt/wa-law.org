@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5310 Workers' comp. providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149476&caId=20581&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149476&caId=20581&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149476&caId=20581&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149476&caId=20581&tId=4)
-
-#### 10 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Beth Murphy
+* Tammy Fellin - Labor & Industries
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Avanti Bergquist - The Washington State Psychiatric Association (WSPA)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Bob Cooper - National Association of Social Workers WA Chapter

@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5308 Athletic trainers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149558&caId=20589&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149558&caId=20589&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149558&caId=20589&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149558&caId=20589&tId=4)
-
-#### 1 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Ciara Ashworth  - Washington State Athletic Trainers’ Association
+* Charlie Brown - Wa State Athletic Trainers Association
 
 #### 2 👎 - Con
 Testifying:
 * 💵Melissa Johnson - APTA Washington
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
 * Josh Cobbley - Northwest Return To Work

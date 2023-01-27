@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Early Learning & K-12 Education (EDU): SB 5343 School construction costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149630&caId=20597&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149630&caId=20597&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149630&caId=20597&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30508&aId=149630&caId=20597&tId=4)
-
-#### 3 👍 - Pro
+#### 15 👍 - Pro
 
 #### 4 👎 - Con
 Testifying:
@@ -22,4 +16,6 @@ Testifying:
 * Timothy Buckley - American Institute of Architects WA Council
 * Noah Greenberg - Association for Learning Environments (A4LE)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials

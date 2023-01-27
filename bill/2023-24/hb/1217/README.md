@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=4)
 
-#### 9 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * David Fernandez Antelo 
 * Elizabeth Ford
 * James Stafford
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
+* Eric Nusser - Terrell Marshall Law Group PLLC
 
-#### 9 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150282&caId=20924&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150282&caId=20924&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Jill Boudreau - Mayor, City of Mount Vernon
 
-#### 0 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Camille Baldwin-Bonney - People Power WA
 
 #### 0 ❓ - Other

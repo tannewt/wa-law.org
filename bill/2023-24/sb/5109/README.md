@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5109 Wage replacement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149210&caId=20578&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149210&caId=20578&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149210&caId=20578&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30418&aId=149210&caId=20578&tId=4)
-
-#### 521 👍 - Pro
+#### 914 👍 - Pro
 Testifying:
 * Lorraine Johnson
 * Danielle Alvarado - Fairwork Center
@@ -29,11 +23,17 @@ Testifying:
 * 💵Giovanni Severino - Progreso: Latino Progress
 * Cristina Ortega - Progreso: Latino Progress
 * Hamdi Mohamed - [City of Seattle](/org/city_of_seattle/)
+* Maria Silva - One America
+* Rodolfo  Canedo-Olvera
 * José Christian  Piedra
 * German  Godinez 
 
-#### 22 👎 - Con
+#### 46 👎 - Con
 Testifying:
 * Jeff Pack - Me
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Robert Battles - Association of Washington Business (AWB)
+* Tom Kwieciak - Building Industry Association of WA
+* Albert Zepeda - Kyle Mathison Orchards/WA Farm Bureau
 
 #### 2 ❓ - Other

@@ -18,4 +18,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Michelle Feldman - Center for Policing Equity
+* Monica Alexander - Washington State Criminal Justice Training Commission

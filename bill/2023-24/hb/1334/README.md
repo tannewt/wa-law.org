@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Thu 01/26 04:00 PM - Transportation (TR): HB 1334 PTBA aquatic lands access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30478&aId=149503&caId=20724&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30478&aId=149503&caId=20724&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30478&aId=149503&caId=20724&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30478&aId=149503&caId=20724&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * John Clauson - [Kitsap Transit](/org/kitsap_transit/)
+* Brian Considine
 
 #### 0 👎 - Con
 

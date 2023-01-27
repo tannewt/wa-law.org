@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150154&caId=20984&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150154&caId=20984&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
 #### 0 👎 - Con
 

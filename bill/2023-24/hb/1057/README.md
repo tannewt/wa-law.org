@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 04:00 PM - Appropriations (APP): HB 1057 PERS/TRS 1 benefit increase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30447&aId=149779&caId=20618&tId=4)
-
-#### 811 👍 - Pro
+#### 1071 👍 - Pro
 Testifying:
 * Robert Zindel - Retired public employees Council of the State of Washington
 * Tim Knopf - Washington State School Retirees' Assn.
@@ -28,7 +22,8 @@ Testifying:
 * Lee Ann Prielipp - Washington Education Association Retired
 * Nancy Heley - Retired Public Employees Council of Washington & Washington State Senior Citizen's Lobby
 * Bruce Boyer - Washington State School Retirees' Assn.
+* Kristine Kraig - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 4 ❓ - Other

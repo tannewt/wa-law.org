@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5278 Home care aide certification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149556&caId=20587&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149556&caId=20587&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149556&caId=20587&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30486&aId=149556&caId=20587&tId=4)
-
-#### 104 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * Bob Le Roy - The Long-Term Care Foundation
 * Sarah Lane - S&H Training Center, a DSHS-approved HCA training program
@@ -25,11 +19,14 @@ Testifying:
 * Pavel Duma - LovingAFH
 * Robin VanHyning - Cornerstone Healthcare Training Company
 * Winta Jackson - Abby Care AFH
+* John Bright - Homecare Association of America, WA chapter
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Madeleine Foutch - SEIU 775
 * Mary Mutura  - Mary’s Tender care
 * 💵Brad Banks - Home Care Coalition
+* Bea Rector - Washington State Department of Social and Health Services
+* Shawna Fox - Washington State Department of Health

@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150436&caId=20941&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150436&caId=20941&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Washington Air Conditioning Association
 
 #### 0 ❓ - Other
 

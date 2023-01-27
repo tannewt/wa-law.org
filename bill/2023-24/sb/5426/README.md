@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30573&aId=150115&caId=20781&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30573&aId=150115&caId=20781&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Katie Biron - Amara
+* Leroy Pascubillo - Amara
+* Amy Jacobsen
+* Celina  Rivera - Amara
 
 #### 0 👎 - Con
 

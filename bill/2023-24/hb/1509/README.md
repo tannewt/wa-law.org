@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1509 Community solar
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30481&aId=149944&caId=20741&tId=4)
-
-#### 241 👍 - Pro
+#### 286 👍 - Pro
 Testifying:
 * James Feinstein - Arcadia
 * Markus Virta - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
@@ -38,12 +32,14 @@ Testifying:
 * Brian Wilcock - N/A
 * Kennedy O’Connell - Platt Electric Supply
 
-#### 4 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵John Rothlin - The Avista Corporation
 * 💵Kathleen Collins - PacifiCorp
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Nicolas Garcia - WPUDA
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1

@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150050&caId=20929&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150050&caId=20929&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Jana Parker - Seattle Special Education PTSA
+* Samantha Fogg - Seattle Council PTSA
+* 💵Karen Pillar - TeamChild
+* Tracy Castro-Gill - Washington Ethnic Studies Now
+* melissa spiker
 
 #### 0 👎 - Con
 

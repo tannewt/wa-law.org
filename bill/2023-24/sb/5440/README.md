@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 0 ❓ - Other

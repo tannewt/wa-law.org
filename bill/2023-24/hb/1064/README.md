@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Capital Budget (CB): HB 1064 School safety capital grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149760&caId=20620&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149760&caId=20620&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149760&caId=20620&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30529&aId=149760&caId=20620&tId=4)
-
-#### 19 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Morgan Thomas - North Mason School District Student: School Board Member
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Rebecca Baibak - AIA WA Council
 
 #### 0 ❓ - Other
