@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Environment, Energy & Technology (ENET): SB 5391 Embodied carbon reductions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149862&caId=20727&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149862&caId=20727&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149862&caId=20727&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149862&caId=20727&tId=4)
-
-#### 41 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Matthew  Hinck - CalPortland Company
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
@@ -24,12 +18,16 @@ Testifying:
 * Blake Doepker - General Contractor, Licensed Structural Engineer and LEED Accredited Professional
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * Ian McFarlane - Magnusson Klemencic Associates
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* 💵Bruce Chattin - WA Aggregates & Concrete Assn
+* Stacy Smedley
 
-#### 11 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Max Puchtel - American Institute of Steel Construction
 * 💵Jessica Koski - BlueGreen Alliance
 * Patrick Jablonski - Nucor Steel Seattle
+* Ed Chadd
 
 #### 5 ❓ - Other
 Testifying:

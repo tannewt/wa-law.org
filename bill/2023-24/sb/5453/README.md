@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=4)
 
-#### 12 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Absa Samba
 * Muna  Osman - Behalf off WA coalition and survivor
+* Dr. Maria Viola Sanchez - STOP THE CUT NOW!  Eradicating Female Genital Mutilation
+* Isatou Jallow
 
 #### 0 👎 - Con
 

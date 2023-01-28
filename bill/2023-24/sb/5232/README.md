@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149993&caId=20861&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149993&caId=20861&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
-#### 276 👎 - Con
+#### 649 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Emily Smith
+* Steve  Clunas
+* eric Pratt - America
 
 #### 0 ❓ - Other

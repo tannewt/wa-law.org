@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - State Government & Tribal Relations (SGOV): HB 1426 Controlled entities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149863&caId=20749&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149863&caId=20749&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149863&caId=20749&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149863&caId=20749&tId=4)
-
-#### 143 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Cindy Madigan  - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)

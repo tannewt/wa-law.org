@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150405&caId=20848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150405&caId=20848&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jeremiah Bourgeois - Freedom Project WA
 * Jeffrey  Ellis - Redemption Project of WA
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
 #### 0 👎 - Con
 

@@ -8,22 +8,18 @@
 
 ## Meetings
 ### Fri 01/27 10:30 AM - Labor & Workplace Standards (LAWS): HB 1217 Wage complaints
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30490&aId=149571&caId=20697&tId=4)
-
-#### 17 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * David Fernandez Antelo 
 * Elizabeth Ford
 * James Stafford
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 * Eric Nusser - Terrell Marshall Law Group PLLC
+* 💵Shaunie Wheeler - Teamsters
 
-#### 16 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
+* 💵Patrick Connor - NFIB
 
 #### 1 ❓ - Other

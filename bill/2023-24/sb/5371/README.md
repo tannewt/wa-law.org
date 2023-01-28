@@ -14,8 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=4)
 
-#### 152 👍 - Pro
+#### 323 👍 - Pro
+Testifying:
+* Joseph Gaydos - UC Davis / SeaDoc Society
+* Timothy Ragen
+* Donna Sandstrom - The Whale Trail
+* Brendan Flynn - Washington Reef Net Owners Association
+* Nora Nickum - Seattle Aquarium
+* Julie Watson - WDFW
+* Tara Galuska - Recreation and Conservation Office - Governor's Salmon Recovery Office
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Cindy Hansen - Orca Network
+* Monika Wieland Shields - Orca Behavior Institute
+* Susan Andersson - Salish Sea Ecosystem Advocates
+* Whitney  Neugebauer - Whale Scout
+* Katrina Watkins
+* Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
+* 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)

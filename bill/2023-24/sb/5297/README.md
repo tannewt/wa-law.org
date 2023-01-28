@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=4)
 
-#### 0 👍 - Pro
+#### 132 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kelly Cunningham - WDFW

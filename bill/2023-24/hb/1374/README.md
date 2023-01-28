@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30571&aId=150098&caId=21001&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30571&aId=150098&caId=21001&tId=4)
 
-#### 3 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Maud Daudon - Career Connect Washington
 * Laura  Hopkins - SEIU 1199NW Multi-Employer Training Fund
 * Kevin Wang - Mentors in Tech
+* Evan Woods - WeTrain Washington
+* 💵Carolyn Busch - OEDC - Department of Commerce
+* John Bonner - Washington Alliance for Better Schools
+* Shereen Henry - Washington Alliance for Better Schools
+* 💵Jayme Shoun - Washington STEM
+* Lorie Thompson - Capital STEM Alliance (CCW Regional Network) @ ESD113
+* Mark Cheney - South Central Washington STEM Network/Career Connect Washington Regional Network
 
 #### 0 👎 - Con
 

@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Paul Giuglianotti - I am a citizen expert on the independent prosecutor issue after careful study over the past 3 years.
 

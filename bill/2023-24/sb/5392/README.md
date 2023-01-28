@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149978&caId=20827&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149978&caId=20827&tId=4)
 
-#### 47 👍 - Pro
+#### 82 👍 - Pro
+Testifying:
+* Lisa Henderson - Washington Association of County Clerks
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

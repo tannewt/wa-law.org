@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=4)
 
-#### 21 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Jaimie Cavanaugh
+* Elizabeth Mustin - Washington State Office of Public Defense
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)

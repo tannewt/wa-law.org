@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Barbara Posthumus - Lake Washington School District
 
 ### Thu 01/12 01:30 PM - Early Learning & K-12 Education (EDU): SB 5174 Student transportation
 #### 0 👍 - Pro

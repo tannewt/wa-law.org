@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1618 Childhood sexual abuse/SOL
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150560&caId=21054&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150560&caId=21054&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150560&caId=21054&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150560&caId=21054&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Cary Silverman - American Tort Reform Association
+
+#### 0 ❓ - Other

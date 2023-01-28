@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Housing (HOUS): HB 1074 Landlord damage claims

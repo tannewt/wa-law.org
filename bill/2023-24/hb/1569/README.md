@@ -20,6 +20,8 @@ Testifying:
 * Peggy Maze Johnson
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
 
-#### 0 👎 - Con
+#### 240 👎 - Con
+Testifying:
+* Jeffery Isrel
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other

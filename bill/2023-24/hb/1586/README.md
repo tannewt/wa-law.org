@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Michelle Feldman - Center for Policing Equity
 * Monica Alexander - Washington State Criminal Justice Training Commission
+* Thomas  Reinhard - Cascade Pizza Co

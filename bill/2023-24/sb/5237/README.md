@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/16 01:30 PM - Early Learning & K-12 Education (EDU): SB 5237 Education law noncompliance

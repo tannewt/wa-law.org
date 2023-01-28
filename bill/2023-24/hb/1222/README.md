@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/18 01:30 PM - Health Care & Wellness (HCW): HB 1222 Hearing instruments coverage

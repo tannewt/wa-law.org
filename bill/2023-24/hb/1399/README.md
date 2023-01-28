@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1399 Native American scholarships
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30467&aId=149925&caId=20755&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30467&aId=149925&caId=20755&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30467&aId=149925&caId=20755&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30467&aId=149925&caId=20755&tId=4)
-
-#### 28 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Sherri Berdine - [University of Washington](/org/university_of_washington/)
 * Rebecca Purser - OSPI
@@ -22,9 +16,18 @@ Testifying:
 * Katlyn Prophet
 * Jim Wohlpart - [Central Washington University](/org/central_washington_university/)
 * Collin Bannister - ASWSU
+* Savannah Eakin - ASWSU
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Collin Bannister - ASWSU
+* Frank Miedema - Western Washington University Student
+* 💵Joel Anderson - UW Graduate and Professional Student Senate
+* Laraya Johnson - Western Washington University Student
+* Naira Gonzales - Associated Students of Western Washington University
+* Savannah Eakin - Washington State University Student
 * Kara Briggs - Vice President at The Evergreen State College
 * Zoe Higheagle Strong - Washington State University
 * Lynn Palmanteer-Holder - Tribal Government Affairs Office for WA State Board of Community and Technical Colleges
+* Mike  Iyall - Cowlitz Indian Tribe
 
 #### 1 👎 - Con
 Testifying:

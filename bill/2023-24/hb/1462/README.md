@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 8 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Adam Kemly - Kemly Electric
 * America George - Haggard Electric
@@ -24,5 +24,6 @@ Testifying:
 * Michael Brunelle - First Choice Electric LLC.
 * Winona  Furgisn
 * Mike Brunelle - First Choice Electric
+* Nicole Grant - IBEW 46
 
 #### 0 ❓ - Other

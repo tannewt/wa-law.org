@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=4)
 
-#### 61 👍 - Pro
+#### 286 👍 - Pro
 Testifying:
 * 💵Sophia Steele - Associated Builders and Contractors
 * Brandon Perasso
@@ -28,8 +28,27 @@ Testifying:
 * Michael Brunelle - First Choice Electric LLC.
 * Timothy Rockwell - Rockwell Electric, Inc.
 * Patrick  Toby  - Toby’s Electric
+* Kory Gannon
+* Cody Anderson
+* Austin Curtis
+* Weston Bennett
+* Brandon Dean
+* TJ Hickman
 * Mike Brunelle - First Choice Electric
+* Jeremy  Stephenson - Haggard Electrical Contractors
+* Bill Swartz - Haggard Electrical Contractors-01 Journeyman
+* William Pacho - Haggard Electrical Contractors- Trainee
+* Justin  Swails - Haggard Electrical Contractors- Trainee
+* Carter McManus - Haggard Electrical Contractors- Trainee
+* Emily Petry - Haggard Electrical Contractors- Trainee
+* Pete Rehrmann - Haggard Electrical Contractors- Trainee
+* Zach Leimbach - Haggard Electrical Contractors- 01 Journeyman/DO
+* Brian Kemly
+* Keely Friesen
+* Roger Chick
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Nicole Grant - IBEW 46
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

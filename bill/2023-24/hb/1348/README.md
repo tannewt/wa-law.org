@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Health Care & Wellness (HCW): HB 1348 Behavioral health support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30475&aId=149490&caId=20672&tId=4)
-
-#### 29 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Kayleen Islam-Zwart - Eastern Washington University
 * Jane Beyer - Office of the Insurance Commissioner
@@ -25,10 +19,13 @@ Testifying:
 * Anna Ratzliff - [University of Washington](/org/university_of_washington/)
 * Bill O'Connell - University of Washington, School of Medicine
 * 💵Dane Austreng - SEIU Healthcare 1199NW
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Julie Rickard - Physician & Healthcare Consulting, LLC
+* Mary Lynne Courtney - League Of Women Voters WA
 * Samantha  Paterson 
 * Hoa Appel - [University of Washington](/org/university_of_washington/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

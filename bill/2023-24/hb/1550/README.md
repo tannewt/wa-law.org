@@ -14,16 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Lisa Reaugh - Peninsula School District
+* Jayme Croff
+* Jan Westling
+* Dana Rosenbach - North Mason School District
+* Kathy  Emerick  - Dir. of PreK and Elementary Success, Highline Public Schools
+* Krestin Bahr - Peninsula
+* Ingrid Colvard - Stevenson-Carson School District
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Kevin Knight - Superintendent Colville School District
 * Ian McMichael
 * Jerry Pugh - Colfax School District
 * Nikolas Bergman - Quincy School District
 * Sara Hausken  - Quincy School District
+* Colleen Frerks - Whole Child Director, Quincy School District
+* Wade Smith - Walla Walla Public Schools

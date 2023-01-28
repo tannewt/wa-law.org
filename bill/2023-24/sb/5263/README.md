@@ -14,14 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150004&caId=20792&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150004&caId=20792&tId=4)
 
-#### 8 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Anthony Back
 * Jonathan Drew - HAVN Healing Center
+* Elliot Goit - Not sure yet
 * G Todd Williams
+* Tatiana Quintana - Psychedelic Medicine Alliance Washington
+* myleea spencer
+* Nancy Connolly - [University of Washington](/org/university_of_washington/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* David  Heldreth 
 
 #### 1 👎 - Con
 Testifying:
 * Rebecca Allen
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Suzanna Eller

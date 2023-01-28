@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - State Government & Tribal Relations (SGOV): HB 1442 Synthetic media
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149864&caId=20750&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149864&caId=20750&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149864&caId=20750&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30519&aId=149864&caId=20750&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other

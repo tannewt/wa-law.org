@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 10:30 AM - Housing (HSG): SB 5435 Residential rent increases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30522&aId=149936&caId=20739&tId=4)
-
-#### 1124 👍 - Pro
+#### 1207 👍 - Pro
 Testifying:
 * Stacey  Valenzuela 
 * kraig peck - Small landlord to testify PRO
@@ -29,8 +23,37 @@ Testifying:
 * Terri  Anderson - Tenants Union of Washington State - Spokane
 * Danyelle Robinson - voter
 * Daniel Hornal - Tenants Revolt
+* Larkspur Langston
+* Sol  Villareal
+* Tonya Hennen
+* Brianna Vazquez
+* 💵Kraig Peck
+* Pedro Alfaro
+* Dania Otto
+* Saree Adams
+* Sharon Pevey
+* Caroline  Hardy
+* Deb Wilson 
+* Tereasa Staley
+* Cathy Niva
+* Kasey Burton - Catholic Charities Western Washington
+* Patricia  Walker
+* 💵Clifford Cawthon - Habitat of Humanity Seattle, King and Kittitas County
+* Guillermo Rivera
+* Robert  De Gregorio
+* Jeff Campbell
+* Mei Shah
+* Terri Anderson 
+* Kehaulani Walker
+* Kimberly Ellefson
+* Stacey Valenzuela
+* Anne Sadler
+* 💵Ishbel Dickens
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Amber Abrahamson - Tenants Union of Washington State
+* Holly  Bradley
 
-#### 811 👎 - Con
+#### 1090 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * 💵Chester Baldwin - Rental Housing Coalition
@@ -78,12 +101,27 @@ Testifying:
 * Albert Angelo - Al Angelo Company
 * Jennifer Lekisch
 * Saint  Newton 
+* Steve Leybourne
+* Chris Dobler - N/A
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Eli Secor
 * Cathy Jeney
 * Rick Glenn - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Albert Angelo - Al Angelo Company
 * Nora Schultz
+* Michael Gustavson - Kitsap Alliance of Property Owners
+* Elisa Lyles
+* Elisa Lyles
+* Jillian Walker 
+* Jennifer Loughrey
+* Saane Tome
+* Misty Lopez Gombos
+* Sarah Chernicoff
+* Astrid Black
+* Maria  Magouirk 
+* Jennifer Wetter
+* Tobi Snider
 
-#### 10 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * ALEXANDER ZAMORA - Institute of Real Estate Management

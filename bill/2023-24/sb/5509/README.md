@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150352&caId=20810&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150352&caId=20810&tId=4)
 
-#### 1 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * eric pratt - America
 

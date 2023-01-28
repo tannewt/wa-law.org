@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - State Government & Elections (SGE): SB 5324 Defense compatibility acct.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149698&caId=20604&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149698&caId=20604&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149698&caId=20604&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30520&aId=149698&caId=20604&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Dave Andersen - Washington Department of Commerce
+* 💵Holly Cocci - [City of Airway Heights](/org/city_of_airway_heights/)
 * Bill Adamson - South Sound Military & Communities Partnership, Program Manager
 * 💵Shelly Helder - SSMCP & City of Lakewood
 

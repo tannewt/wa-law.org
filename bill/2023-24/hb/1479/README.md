@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150051&caId=20930&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150051&caId=20930&tId=4)
 
-#### 10 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Kristina De Vadder - Seattle Special Education PTSA
+* Richard Pope
+* Katie Pope
+* Director Liza  Rankin  - School Board Director, Seattle Public Schools
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)

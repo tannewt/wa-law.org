@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150244&caId=20967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150244&caId=20967&tId=4)
 
-#### 2 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Jessi Wasson - Inspire Washington
+* Putter Bert - KidsQuest Children's Museum
 
 #### 0 👎 - Con
 

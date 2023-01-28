@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Jeanette Barnes
+* Lorrin Gehring - The Rainbow Makers
 
 #### 0 ❓ - Other

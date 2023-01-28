@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=4)
 
-#### 492 👍 - Pro
+#### 817 👍 - Pro
 Testifying:
 * Richard Evans - American Academy of Anesthesiologist Assistants
 * Mike Cioffi
 
-#### 857 👎 - Con
+#### 2401 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Jonathan Alvarado - Nursing Care Quality Assurance Commission

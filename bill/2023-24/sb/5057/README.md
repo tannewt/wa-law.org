@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Environment, Energy & Technology (ENET): SB 5057 Energy standards/commercial
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149861&caId=20726&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149861&caId=20726&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149861&caId=20726&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30505&aId=149861&caId=20726&tId=4)
-
-#### 28 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Laura DeGooyer - Lake Washington School District
@@ -26,8 +20,9 @@ Testifying:
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Travis  Bown - WA Assn of Maintenance and Operation Administrators
 * 💵Greg Hanon - NAIOP
+* Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 
-#### 321 👎 - Con
+#### 327 👎 - Con
 Testifying:
 * Anna Lising - Governor's Office
 * Emily Salzberg - Department of Commerce
@@ -37,4 +32,6 @@ Testifying:
 * Kari Magill - Rowley Properties, Inc.
 * Seth McKinney - Ecotope
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

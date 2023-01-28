@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Consumer Protection & Business (CPB): HB 1424 Dogs and cats/consumers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30493&aId=149911&caId=20756&tId=4)
-
-#### 634 👍 - Pro
+#### 740 👍 - Pro
 Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
 * Ashly Dale
@@ -27,9 +21,10 @@ Testifying:
 * 💵Brooke Davies - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
 * Mindi Callison - Bailing Out Benji
 * Isabella Kieffer
+* Carollynn Zimmers DVM - NA
 * Kathryn Neary
 
-#### 134 👎 - Con
+#### 149 👎 - Con
 Testifying:
 * Ben York - Puppyland (Legal Counsel)
 * 💵Paula Sardinas - Puppyland
@@ -47,9 +42,12 @@ Testifying:
 * Dawn Coffinberry
 * Larry Zimmer - Zimmer’s Alley Cat Pet Center
 * Julie Conlon
+* Mike Asai
+* Peter Manning
+* Damian  Mims
 * Mario A Flores
 * Robert Likins - Pet Advocacy Network
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jeff Pack - Me
