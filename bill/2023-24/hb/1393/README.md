@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=4)
 
-#### 286 👍 - Pro
+#### 310 👍 - Pro
 Testifying:
 * 💵Sophia Steele - Associated Builders and Contractors
 * Brandon Perasso
@@ -47,7 +47,7 @@ Testifying:
 * Keely Friesen
 * Roger Chick
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Nicole Grant - IBEW 46
 

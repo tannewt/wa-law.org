@@ -14,15 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=4)
 
-#### 17 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Director Liza  Rankin  - School Board Director, Seattle Public Schools
+* BULLOCK Bull-luck
+* Keri  Bullock - The Root of Our  Youth / The Root of Us
+* 💵Madeline Bishop
+* Brooke Brown - Washington State Board of Education
+* Hiro Hirano-Holcomb - Legislative Youth Advisory Council
+* Micah Fitzgerald - Washington State Youth Advisory Council
+* Natasha Kalombo - Legislative Youth Advisory Council
+* Stacy Osoria - Legislative Youth Advisory Council
+* Tara Ryan - Washington Ethnic Studies Now
 
-#### 541 👎 - Con
+#### 737 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * JoAnn Tolentino
 * Andy Cilley - Parent
 * Adrienne Ross
+* Jeannie Magdua - Conservative Ladies of Washington
+* Vince Navarre
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150263&caId=21004&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150263&caId=21004&tId=4)
 
-#### 85 👍 - Pro
+#### 122 👍 - Pro
+Testifying:
+* Rahul Sharma - Washington Legislative Youth Advisory Council
+* Mike Graham-Squire - Washington Association for Substance-misuse and Violence Prevention (WASAVP)
 
 #### 0 👎 - Con
 

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150405&caId=20848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150405&caId=20848&tId=4)
 
-#### 8 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Jeremiah Bourgeois - Freedom Project WA
 * Jeffrey  Ellis - Redemption Project of WA
@@ -23,7 +23,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5046 Postconviction counsel
 #### 0 👍 - Pro

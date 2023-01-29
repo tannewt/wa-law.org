@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=4)
 
-#### 59 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 

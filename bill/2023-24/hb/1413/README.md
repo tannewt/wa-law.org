@@ -18,4 +18,7 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150434&caId=20834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150434&caId=20834&tId=4)
 
-#### 2 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 

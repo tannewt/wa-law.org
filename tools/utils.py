@@ -155,6 +155,28 @@ def get_db(readonly=False):
                     "FOREIGN KEY(next_revision) REFERENCES revisions(rowid),"
                     "UNIQUE(bill_rowid, session_law_chapter),"
                     "UNIQUE(bill_rowid, version))"))
+    # db.execute("DROP TABLE IF EXISTS bill_statuses")
+    db.execute(("CREATE TABLE IF NOT EXISTS bill_statuses("
+                    "biennium_rowid integer,"
+                    "status text,"
+                    "committee_rowid integer,"
+                    "FOREIGN KEY(committee_rowid) REFERENCES committees(rowid),"
+                    "UNIQUE(biennium_rowid, status)"
+                    ")"))
+    db.execute(("CREATE TABLE IF NOT EXISTS bill_status("
+                    "bill_rowid integer,"
+                    "action_date timestamp,"
+                    "bill_status_rowid integer,"
+                    "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
+                    "UNIQUE(bill_rowid, action_date, bill_status_rowid)"
+                    ")"))
+    db.execute(("CREATE TABLE IF NOT EXISTS bill_history("
+                    "bill_rowid integer,"
+                    "action_date timestamp,"
+                    "history_line text,"
+                    "FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),"
+                    "UNIQUE(bill_rowid, action_date, history_line)"
+                    ")"))
 
     db.execute("CREATE TABLE IF NOT EXISTS agencies (name text, UNIQUE(name))")
     db.execute(("CREATE TABLE IF NOT EXISTS committees ("

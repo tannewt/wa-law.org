@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150050&caId=20929&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150050&caId=20929&tId=4)
 
-#### 16 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Jana Parker - Seattle Special Education PTSA
@@ -22,10 +22,14 @@ Testifying:
 * 💵Karen Pillar - TeamChild
 * Tracy Castro-Gill - Washington Ethnic Studies Now
 * melissa spiker
+* Lisa BRODOFF  - Seattle University Clinical Law Program
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Anna Casey - WSASP (Washington Association of School Psychologists)
+* Sue Ann Bube - Mercer Island School District
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Darren  Spencer - Dir. Special Education, Highline Public Schools
 * Dr. Ricardo  Torres - Asst. Supt. of Student Support Services, Seattle Public Schools

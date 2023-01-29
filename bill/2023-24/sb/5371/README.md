@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=4)
 
-#### 323 👍 - Pro
+#### 1106 👍 - Pro
 Testifying:
 * Joseph Gaydos - UC Davis / SeaDoc Society
 * Timothy Ragen
@@ -24,9 +24,9 @@ Testifying:
 * Julie Watson - WDFW
 * Tara Galuska - Recreation and Conservation Office - Governor's Salmon Recovery Office
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 7 ❓ - Other
+#### 19 ❓ - Other
 Testifying:
 * Cindy Hansen - Orca Network
 * Monika Wieland Shields - Orca Behavior Institute

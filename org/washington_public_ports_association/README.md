@@ -1,1 +1,65 @@
 # Washington Public Ports Association
+
+## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
+* ❓ Chris Herman
+
+## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
+
+## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
+* ❓ Chris Herman
+
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
+
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+* 👍 Eric ffitch
+
+## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
+
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+
+## [HB 1303](/bill/2023-24/hb/1303/) - Property tax administration   ❓1
+
+## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
+
+## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
+* ❓ Eric  ffitch
+
+## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel cells 👍1  
+
+## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
+
+## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
+
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1
+
+## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
+
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
+* 👍 Chris Herman
+
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
+* 👍 Chris Herman
+
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+
+## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
+
+## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
+
+## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
+* 👍 John Stuhlmiller
+
+## [SB 5406](/bill/2023-24/sb/5406/) - Clarifying ambiguities in statutory provisions administered by the department of revenue relating to periodic adjustments. 👍1  
+* 👍 Chris Herman
+
+## [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes.   ❓1
+* ❓ Chris Herman
+
+## [SB 5429](/bill/2023-24/sb/5429/) - Concerning a motor carrier’s ability to access restroom facilities required by rules authorized under chapter 49.17 RCW. 👍1  
+
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
+
+## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
+* 👎 Chris Herman

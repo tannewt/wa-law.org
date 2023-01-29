@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150229&caId=20801&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150229&caId=20801&tId=4)
 
-#### 3 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Director Liza  Rankin  - School Board Director, Seattle Public Schools
+* Melissa Spiker
 
-#### 0 👎 - Con
+#### 40 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

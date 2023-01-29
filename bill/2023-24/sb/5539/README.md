@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Blake Baldwin - Chelan Douglas Regional Port Authority
 * matt zuvich - Office of State Treasurer
+* Mike Bomar - Port of Vancouver USA
+* 💵Briahna Murray - City of Pasco contract lobbyist
 
 #### 0 👎 - Con
 

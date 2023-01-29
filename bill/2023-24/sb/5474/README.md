@@ -14,13 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30573&aId=150114&caId=20780&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30573&aId=150114&caId=20780&tId=4)
 
-#### 39 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * Jaimie Cavanaugh - [Institute for Justice](/org/institute_for_justice/)
+* Nick Jeffreys - Urban League of Metropolitan Seattle
 * Elizabeth Mustin - Washington State Office of Public Defense
+* Arthur Longworth - Treehouse.org
+* Kia Franklin  - Stand for Children
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 3 👎 - Con
 Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 4 ❓ - Other
+Testifying:
+* Nuu Leae
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

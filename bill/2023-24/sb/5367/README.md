@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=149999&caId=20787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=149999&caId=20787&tId=4)
 
-#### 5 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Justin Nordhorn - Washington State Liquor and Cannabis Board
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Bonny Jo  Peterson  - Industrial Hemp Association of WA
+* Azmyth Kaminski - Science Under Nature
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Megan Moore - WA State Public Health Association
+* 💵Ezra Eickmeyer - Producers NW
+* 💵Vicki Christophersen - Washington CannaBusiness Association

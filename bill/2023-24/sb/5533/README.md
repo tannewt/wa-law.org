@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149975&caId=20785&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149975&caId=20785&tId=4)
 
-#### 6 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Monica Alexander - Washington State Criminal Justice Training Commission
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs

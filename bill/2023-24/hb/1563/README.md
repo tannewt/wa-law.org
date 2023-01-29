@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150340&caId=21005&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150340&caId=21005&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* John Kingsbury - cannabis patient.   Cannabis Alliance
+* Lisa Buchanan - RN, OCN, MCC
+* Mary Brown - SMJ Consulting
+* Steven Fields - MS patient
 
 #### 0 👎 - Con
 

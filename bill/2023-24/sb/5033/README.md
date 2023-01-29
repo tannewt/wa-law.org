@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149971&caId=20782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149971&caId=20782&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Dawn Reid
 * Gabe Galanda - Galanda Broadman, PLLC
 * Michele Devlin - Clallam County Prosecutor's Office
+* Larry  Shannon - Washington State Association for Justice
 
 #### 0 👎 - Con
 

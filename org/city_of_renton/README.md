@@ -1,1 +1,6 @@
 # City of Renton
+
+## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
+* 👍 Paul Hintz
+
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 

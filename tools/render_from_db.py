@@ -180,7 +180,40 @@ for org_rowid in vio:
     org_path.mkdir(parents=True, exist_ok=True)
     org_readme_path = org_path / "README.md"
     org_readme = [
-        f"# {name}",
-        f"## Active bills"
+        f"# {name}"
     ]
+
+    last_bill_number = None
+    bill_info = ()
+    testifiers = []
+    position_totals = {"Pro": 0, "Con": 0, "Other": 0}
+    cur.execute("SELECT bill_rowid, prefix, number, position, testifying, first_name, last_name FROM testifiers, agenda_items, bills, positions WHERE agenda_items.rowid = agenda_item_rowid AND bill_rowid = bills.rowid AND position_rowid = positions.rowid AND organization = ? ORDER BY number, sign_in_time", (name,))
+    for bill_rowid, prefix, number, position, testifying, first_name, last_name in cur:
+        if number != last_bill_number:
+            if last_bill_number:
+                old_bill_rowid, old_prefix, old_bill_number = bill_info
+                bill_cur = db.cursor()
+                bill_cur.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC LIMIT 1", (old_bill_rowid,))
+                description = bill_cur.fetchone()[0]
+                org_readme.append("")
+                positions = " ".join(POSITION_TO_EMOJI[p] + str(position_totals[p]) if position_totals[p] > 0 else "" for p in POSITION_TO_EMOJI)
+                org_readme.append(f"## [{old_prefix} {old_bill_number}](/bill/{biennium}/{old_prefix.lower()}/{old_bill_number}/) - {description} {positions}")
+                org_readme.extend(testifiers)
+            bill_info = (bill_rowid, prefix, number)
+            last_bill_number = number
+            position_totals = {"Pro": 0, "Con": 0, "Other": 0}
+            testifiers = []
+        position_totals[position] += 1
+        if testifying:
+            testifiers.append(f"* {POSITION_TO_EMOJI[position]} {first_name} {last_name}")
+
+    if bill_info:
+        old_bill_rowid, old_prefix, old_bill_number = bill_info
+        bill_cur = db.cursor()
+        bill_cur.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC LIMIT 1", (old_bill_rowid,))
+        description = bill_cur.fetchone()[0]
+        positions = " ".join(POSITION_TO_EMOJI[p] + str(position_totals[p])  if position_totals[p] > 0 else "" for p in POSITION_TO_EMOJI)
+        org_readme.append("")
+        org_readme.append(f"## [{old_prefix} {old_bill_number}](/bill/{biennium}/{old_prefix.lower()}/{old_bill_number}/) - {description} {positions}")
+        org_readme.extend(testifiers)
     org_readme_path.write_text("\n".join(org_readme))

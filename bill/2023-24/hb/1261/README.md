@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150482&caId=21039&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150482&caId=21039&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
+* Janet Campbell
 
 #### 0 👎 - Con
 

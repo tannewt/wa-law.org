@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30593&aId=150221&caId=20939&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30593&aId=150221&caId=20939&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Tim Gates - WA Department of Ecology
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* john Worthington
 
 #### 0 ❓ - Other

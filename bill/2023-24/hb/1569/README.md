@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Raelene Schifano
 * Peggy Maze Johnson
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
+* Sherry Stacy
 
-#### 240 👎 - Con
+#### 314 👎 - Con
 Testifying:
 * Jeffery Isrel
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150275&caId=20803&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150275&caId=20803&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Barbara Serrano - Office of the Governor
 * Neil Weaver - Washington State Patrol
 * Shelly  Baldwin - Washington Traffic Safety Commission
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 👎 - Con
 

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150269&caId=20920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150269&caId=20920&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

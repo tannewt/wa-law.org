@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150521&caId=21052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150521&caId=21052&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 * Samantha Fogg - Seattle Council PTSA
 * Ivanova  Smith - People first of Washington (as a member)
+* Kyle Matheson - self advocate
 
 #### 0 👎 - Con
 

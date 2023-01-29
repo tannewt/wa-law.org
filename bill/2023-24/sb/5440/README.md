@@ -16,8 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
+* Commissioner Rob Coffman - Washington State Association of Counties and Lincoln County
+* Council Member Ryan  Mello - Washington State Association of Counties and Pierce County
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other

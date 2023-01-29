@@ -16,8 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 193 👎 - Con
+#### 426 👎 - Con
 Testifying:
 * Constance Smith
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

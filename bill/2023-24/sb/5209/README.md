@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Mies Rapoport - As Individual, former Secretary of the state
 
-#### 1 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Andy Craig - Dir. of Election Policy, Rainey Center; Adj. Scholar, Cato Institute
 

@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150053&caId=20932&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150053&caId=20932&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
+* Jenee Myers Twitchell
 
 #### 0 👎 - Con
 

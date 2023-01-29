@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150423&caId=20855&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150423&caId=20855&tId=4)
 
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Hayley  Thompson - President of Washington Assoc. of Coroners and Medical Examiners
 

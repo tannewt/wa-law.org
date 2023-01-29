@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150282&caId=20924&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150282&caId=20924&tId=4)
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Jill Boudreau - Mayor, City of Mount Vernon
 * Samantha  Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Rafael Padilla - [City of Kent](/org/city_of_kent/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Mary Lou Pauly - Mayor, City of Issaquah
+* Jason Whalen - Mayor, City of Lakewood
 
-#### 122 👎 - Con
+#### 265 👎 - Con
 Testifying:
 * Camille Baldwin-Bonney - People Power WA
 * Michelle Feldman - Center for Policing Equity

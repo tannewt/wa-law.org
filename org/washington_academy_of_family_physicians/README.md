@@ -1,1 +1,11 @@
 # Washington Academy of Family Physicians
+
+## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
+
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+
+## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
+
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+
+## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  

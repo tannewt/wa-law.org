@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=4)
 
-#### 817 👍 - Pro
+#### 1156 👍 - Pro
 Testifying:
 * Richard Evans - American Academy of Anesthesiologist Assistants
 * Mike Cioffi
+* 💵Carolyn Logue - WA Academy of Anesthiologist Assistants
+* Grier James - Certified Anesthesiologist Assistant
+* Sarah Brown - Certified Anesthesiology Assistant/President WA Academy of Anesthesiologist Assistants
+* Shane Angus - Chair, Assn of Anesthesiologist Assistant Education Programs
 
-#### 2401 👎 - Con
+#### 3175 👎 - Con
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Jonathan Alvarado - Nursing Care Quality Assurance Commission

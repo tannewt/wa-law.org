@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149880&caId=20793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149880&caId=20793&tId=4)
 
-#### 7 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Brian Walsh
+* 💵Bruce Wishart - Center for Environmental Law and Policy / Sierra Club
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* JOHN Worthington
 
 #### 0 ❓ - Other

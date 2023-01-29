@@ -15,17 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150430&caId=20805&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150430&caId=20805&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jerrilea Crawford - City of East Wenatchee
 * JC Baldwin - Chelan Douglas Regional Port Authority
 * Paul  Simmons - City of Olympia, Washington Recreation and Parks Association
 * Jim Huffman - Chelan Douglas Regional Port Authority
 * Jeff Wilkens - Chelan-Douglas Transportation Council
+* Frank Kuntz - City of Wenatchee
+* Jerrilea Crawford - City of East Wenatchee
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Linda Parlette
 
 ### Thu 01/12 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5001 Public facility districts
 #### 0 👍 - Pro

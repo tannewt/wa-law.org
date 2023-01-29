@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150283&caId=20925&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150283&caId=20925&tId=4)
 
-#### 0 👍 - Pro
+#### 106 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Paul Giuglianotti - I am a citizen expert on the independent prosecutor issue after careful study over the past 3 years.
 

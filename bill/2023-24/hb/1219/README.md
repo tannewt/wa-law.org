@@ -18,7 +18,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* john Worthington
 
 ### Wed 01/25 04:00 PM - Transportation (TR): HB 1219 PTBA governing bodies
 #### 0 👍 - Pro

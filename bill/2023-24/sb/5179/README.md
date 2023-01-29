@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=149959&caId=20872&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=149959&caId=20872&tId=4)
 
-#### 51 👍 - Pro
+#### 81 👍 - Pro
+Testifying:
+* Jody Disney - LWVWA
 
-#### 8 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * David Lucas - Veteran
 * Dr. Sharon Quick
 * Richard Doerflinger
+* MD, Shane Macaulay - Physicians for Compassionate Care Education Foundation - Washington
 
 #### 0 ❓ - Other

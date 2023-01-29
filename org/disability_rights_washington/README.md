@@ -1,1 +1,33 @@
 # Disability Rights Washington
+
+## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
+
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍1  
+
+## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
+* 👍 Carina Tong
+
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
+
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
+
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+* 👍 Andrea Kadlec
+
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+
+## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
+* 👍 Rachael  Seevers
+
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎1 
+* 👎 Kimberly Mosolf
+
+## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
+* 👍 Rachael Seevers
+
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
+
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+* 👎 Kimberly Mosolf

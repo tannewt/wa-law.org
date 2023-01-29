@@ -16,8 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
+* Drew Davis - Mountain hi
+* John  Kingsbury - cannabis patient,  patient committee - Cannabis Alliance
+* 💵Ezra Eickmeyer - Producers NW
 
 #### 0 ❓ - Other

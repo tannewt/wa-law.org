@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150274&caId=20802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150274&caId=20802&tId=4)
 
-#### 2 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
+* Captain Neil Weaver - Washington State Patrol
+* Debbie Driver - Governor Inslee's Office
+* Shelly  Baldwin - Washington Traffic Safety Commission
 * Timothy Knopf
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Sheri  Call - Washington Trucking Associations
 
-#### 0 👎 - Con
+#### 17 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

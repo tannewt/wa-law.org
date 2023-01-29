@@ -16,8 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
+* Drew  Davis - Mountain Hi
+* 💵Ezra Eickmeyer - Producers NW
 
 #### 0 ❓ - Other

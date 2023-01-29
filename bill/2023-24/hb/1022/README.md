@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150032&caId=20950&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150032&caId=20950&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Randy Johnson - Clallam County Board of Commissioners
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

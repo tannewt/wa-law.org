@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150276&caId=20804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150276&caId=20804&tId=4)
 
-#### 78 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)

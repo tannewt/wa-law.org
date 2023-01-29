@@ -355,7 +355,32 @@ for start_year in range(2023, 2025, 2):
 
             print(bill_id, sponsor, short_description)
             # print(bill.CurrentStatus.IntroducedDate.text, bill.CurrentStatus.ActionDate.text)
-            # print(bill.CurrentStatus.Status.text)
+
+            cur = db.cursor()
+            prefix = bill_id.split()[0]
+            cur.execute("INSERT OR IGNORE INTO bills (biennium_rowid, prefix, number) VALUES (?, ?, ?)", (biennium_rowid, prefix, bill_number))
+            cur.execute("SELECT rowid FROM bills WHERE biennium_rowid = ? AND number = ?", (biennium_rowid, bill_number))
+            bill_rowid = cur.fetchone()[0]
+
+            for b in bills_by_sponsor[sponsor][bill_number]:
+                status = b.CurrentStatus.Status.text.strip()
+                history_line = b.CurrentStatus.HistoryLine
+                print("status:", status)
+                action_date = datetime.datetime.strptime(b.CurrentStatus.ActionDate.text, "%Y-%m-%dT%H:%M:%S")
+                cur.execute("INSERT OR IGNORE INTO bill_statuses (biennium_rowid, status) VALUES (?, ?)", (biennium_rowid, status))
+                cur.execute("SELECT rowid FROM bill_statuses WHERE biennium_rowid = ? AND status = ?", (biennium_rowid, status))
+                bill_status_rowid = cur.fetchone()[0]
+
+                cur.execute("INSERT OR IGNORE INTO bill_status (bill_rowid, bill_status_rowid, action_date) VALUES (?, ?, ?)", (bill_rowid, bill_status_rowid, action_date))
+                
+                if history_line:
+                    history_line = history_line.text
+                    cur.execute("INSERT OR IGNORE INTO bill_history (bill_rowid, action_date, history_line) VALUES (?, ?, ?)", (bill_rowid, action_date, history_line))
+                else:
+                    print(b.CurrentStatus)
+
+                db.commit()
+
             if bill_number in amendments_by_bill_number:
                 for amendment in amendments_by_bill_number[bill_number]:
                     # print(amendment.Name.text, amendment.SponsorName.text, amendment.Description.text, amendment.FloorAction.text)
@@ -392,12 +417,6 @@ for start_year in range(2023, 2025, 2):
                         revision = doc.Name.text.split("-")[1]
                     print(doc.Name.text, revision, commit_date, url)
                     
-                    cur = db.cursor()
-                    prefix = bill_id.split()[0]
-                    cur.execute("INSERT OR IGNORE INTO bills (biennium_rowid, prefix, number) VALUES (?, ?, ?)", (biennium_rowid, prefix, bill_number))
-                    cur.execute("SELECT rowid FROM bills WHERE biennium_rowid = ? AND number = ?", (biennium_rowid, bill_number))
-                    bill_rowid = cur.fetchone()[0]
-
                     try:
                         cur.execute("INSERT INTO revisions(bill_rowid, version, description, source_url, modified_time) VALUES (?, ?, ?, ?, ?)", (bill_rowid, revision, short_description, pdf_url, commit_date))
                     except sqlite3.IntegrityError:

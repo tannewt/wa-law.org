@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 1 ❓ - Other
 Testifying:

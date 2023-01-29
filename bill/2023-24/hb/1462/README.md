@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150152&caId=20982&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150152&caId=20982&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Nicole Grant - IBEW 46
+* Warren Shill - President IBEW Local 46 & GPSEW Educational Coordinator
 
-#### 11 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Adam Kemly - Kemly Electric
 * America George - Haggard Electric

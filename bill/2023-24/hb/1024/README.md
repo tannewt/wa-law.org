@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150138&caId=20908&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150138&caId=20908&tId=4)
 
-#### 22 👍 - Pro
+#### 110 👍 - Pro
+Testifying:
+* Micaela Romero
 
 #### 1 👎 - Con
 

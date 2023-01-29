@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149980&caId=20829&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149980&caId=20829&tId=4)
 
-#### 6 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Yessenia Manzo - King County Prosecuting Attorney's Office
+* Anna Schlecht
+* 💵Stephen Paolini - Anti-Defamation League
+* 💵Tremayne Edwards
 
 #### 1 👎 - Con
 Testifying:

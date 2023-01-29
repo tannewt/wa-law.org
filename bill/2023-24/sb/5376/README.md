@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150001&caId=20789&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150001&caId=20789&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jason Lammers - The Cannabis Alliance
+* 💵Ezra Eickmeyer - Producers NW
+* Douglas Henderson
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
 #### 0 👎 - Con
 

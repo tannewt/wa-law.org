@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150271&caId=20922&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150271&caId=20922&tId=4)
 
-#### 91 👍 - Pro
+#### 276 👍 - Pro
 Testifying:
 * Scarlet Neath - Center for Policing Equity
 
-#### 1 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff DeVere - Washington Trucking Associations
