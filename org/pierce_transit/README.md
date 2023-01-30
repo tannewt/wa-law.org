@@ -7,7 +7,7 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport. 👍2  
-* 👍 Hanna Jones
+* 👍💵 Hanna Jones
 * 👍 Alexandra Mather
 
 ## [SB 5342](/bill/2023-24/sb/5342/) - Transit interlocal agree. 👍1  

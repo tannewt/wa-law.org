@@ -4,4 +4,4 @@
 * 👍 MASON ROLPH
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
-* 👍 Mason Rolph
+* 👍💵 Mason Rolph

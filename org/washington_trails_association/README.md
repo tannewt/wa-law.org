@@ -11,7 +11,7 @@
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
 ## [SB 5314](/bill/2023-24/sb/5314/) - Electric bicycle use  👎1 
-* 👎 Andrea Imler
+* 👎💵 Andrea Imler
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program 👍1  
 

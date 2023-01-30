@@ -24,15 +24,15 @@
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓1
-* ❓ Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution   ❓1
-* ❓ Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [HB 1191](/bill/2023-24/hb/1191/) - Cooperative finance org. B&O 👍1  
 
@@ -42,7 +42,7 @@
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
 ## [HB 1254](/bill/2023-24/hb/1254/) - Periodic adjustments/DOR  👎2 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 * 👎 Emily Shay
 
 ## [HB 1280](/bill/2023-24/hb/1280/) - Open vehicle safety recalls 👍1  
@@ -58,15 +58,15 @@
 ## [HB 1318](/bill/2023-24/hb/1318/) - Aircraft maintenance/tax 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat  👎1 ❓1
-* 👎 Peter Godlewski
-* ❓ Peter Godlewski
+* 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
 ## [HB 1338](/bill/2023-24/hb/1338/) - Concerning education and vocational programs in state correctional institutions. 👍1  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 * 👍 Mike Ennis
@@ -78,36 +78,36 @@
 * 👎 Mike Ennis
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems   ❓1
-* ❓ Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen.  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial   ❓1
-* ❓ Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel cells 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy   ❓1
-* ❓ Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
-* 👎 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
 
@@ -128,7 +128,7 @@
 ## [SB 5191](/bill/2023-24/sb/5191/) - Real estate agency 👍1  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures   ❓1
-* ❓ Dave Mastin
+* ❓💵 Dave Mastin
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
@@ -177,4 +177,4 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
-* 👎 Dave Mastin
+* 👎💵 Dave Mastin

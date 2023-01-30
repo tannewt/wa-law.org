@@ -41,7 +41,7 @@
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
-* 👍 Seamus Petrie
+* 👍💵 Seamus Petrie
 
 ## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍1  
 

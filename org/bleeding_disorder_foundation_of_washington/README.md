@@ -15,14 +15,14 @@
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
-* 👍 Stephanie Simpson
+* 👍💵 Stephanie Simpson
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
-* 👍 Stephanie Simpson
+* 👍💵 Stephanie Simpson
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 

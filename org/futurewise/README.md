@@ -3,7 +3,7 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍5  
-* 👍 Bryce Yadon
+* 👍💵 Bryce Yadon
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍2  
 
@@ -15,6 +15,6 @@
 * 👍 Bryce  Yadon
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs  👎1 
-* 👎 Bryce Yadon
+* 👎💵 Bryce Yadon
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  

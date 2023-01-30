@@ -14,7 +14,7 @@
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
-* 👍 Andrea Kadlec
+* 👍💵 Andrea Kadlec
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
@@ -22,12 +22,12 @@
 * 👍 Rachael  Seevers
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎1 
-* 👎 Kimberly Mosolf
+* 👎💵 Kimberly Mosolf
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
-* 👍 Rachael Seevers
+* 👍💵 Rachael Seevers
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
-* 👎 Kimberly Mosolf
+* 👎💵 Kimberly Mosolf

@@ -7,12 +7,12 @@
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
-* 👍 Emily Murphy
+* 👍💵 Emily Murphy
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
-* 👍 Emily Murphy
+* 👍💵 Emily Murphy
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 

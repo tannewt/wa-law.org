@@ -7,15 +7,15 @@
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
-* 👍 Alex Hur
-* 👍 Alex Hur
+* 👍💵 Alex Hur
+* 👍💵 Alex Hur
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍3  
-* 👍 Lianna Kressin
+* 👍💵 Lianna Kressin
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
@@ -26,7 +26,7 @@
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
-* 👍 Alex Hur
+* 👍💵 Alex Hur
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍1  
 
@@ -45,7 +45,7 @@
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍4  
-* 👍 Shaun Scott
+* 👍💵 Shaun Scott
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍3  
 

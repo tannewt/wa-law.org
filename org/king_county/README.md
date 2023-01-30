@@ -17,7 +17,7 @@
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
-* 👍 Michael White
+* 👍💵 Michael White
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
@@ -48,7 +48,7 @@
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
 
 ## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
-* 👍 Michael White
+* 👍💵 Michael White
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
 
@@ -113,7 +113,7 @@
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍2  
-* 👍 Michael White
+* 👍💵 Michael White
 
 ## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍1  
 
@@ -129,7 +129,7 @@
 * 👍 Pat McLaughlin
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
-* 👍 Michael White
+* 👍💵 Michael White
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
 
@@ -138,7 +138,7 @@
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
-* 👍 Michael White
+* 👍💵 Michael White
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
@@ -159,9 +159,9 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍7  
 * 👍 April Putney
-* 👍 Michael White
-* 👍 Michael White
-* 👍 Michael White
+* 👍💵 Michael White
+* 👍💵 Michael White
+* 👍💵 Michael White
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
@@ -170,7 +170,7 @@
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍2  
-* 👍 Michael White
+* 👍💵 Michael White
 
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
 
@@ -203,4 +203,4 @@
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍2  
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍2  
-* 👍 Michael White
+* 👍💵 Michael White

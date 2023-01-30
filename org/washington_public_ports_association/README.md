@@ -49,7 +49,7 @@
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
-* 👍 John Stuhlmiller
+* 👍💵 John Stuhlmiller
 
 ## [SB 5406](/bill/2023-24/sb/5406/) - Clarifying ambiguities in statutory provisions administered by the department of revenue relating to periodic adjustments. 👍1  
 * 👍 Chris Herman

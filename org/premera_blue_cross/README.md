@@ -4,4 +4,4 @@
 * 👍 Dr. Susanne Quistgaard
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
-* 👍 Gary Strannigan
+* 👍💵 Gary Strannigan

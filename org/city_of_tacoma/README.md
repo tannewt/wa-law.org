@@ -15,7 +15,7 @@
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1
-* ❓ Briahna Murray
+* ❓💵 Briahna Murray
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -29,7 +29,7 @@
 * ❓ Josh Diekmann
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
-* ❓ Briahna Murray
+* ❓💵 Briahna Murray
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 

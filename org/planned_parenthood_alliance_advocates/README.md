@@ -8,5 +8,5 @@
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
-* 👍 Courtney Normand
-* 👍 Alexa Brenner
+* 👍💵 Courtney Normand
+* 👍💵 Alexa Brenner

@@ -10,12 +10,12 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
 ## [HB 1136](/bill/2023-24/hb/1136/) - Employee expenditures   ❓1
-* ❓ Samantha Louderback
+* ❓💵 Samantha Louderback
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints  👎1 
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
-* 👍 Julia Gorton
+* 👍💵 Julia Gorton
 
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
 
@@ -23,15 +23,15 @@
 * 👍 Samantha  Louderback
 
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  
-* 👍 Riley Smith
+* 👍💵 Riley Smith
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement  👎1 
-* 👎 Julia Gorton
+* 👎💵 Julia Gorton
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎1 
-* 👎 Samantha Louderback
+* 👎💵 Samantha Louderback
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
 
@@ -44,7 +44,7 @@
 ## [SB 5429](/bill/2023-24/sb/5429/) - Concerning a motor carrier’s ability to access restroom facilities required by rules authorized under chapter 49.17 RCW.  👎1 
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
-* 👍 Julia Gorton
+* 👍💵 Julia Gorton
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
-* 👎 Julia Gorton
+* 👎💵 Julia Gorton

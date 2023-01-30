@@ -1,7 +1,7 @@
 # Columbia Legal Services
 
 ## [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓1
-* ❓ Antonio Ginatta
+* ❓💵 Antonio Ginatta
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
@@ -14,7 +14,7 @@
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales 👍1  
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
-* 👍 Hannah Woerner
+* 👍💵 Hannah Woerner
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
@@ -23,7 +23,7 @@
 ## [HB 1189](/bill/2023-24/hb/1189/) - Total confinement release 👍1  
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍2  
-* 👍 Andrea Schmitt
+* 👍💵 Andrea Schmitt
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
@@ -32,7 +32,7 @@
 ## [HB 1268](/bill/2023-24/hb/1268/) - Sentencing enhancements 👍1  
 
 ## [HB 1311](/bill/2023-24/hb/1311/) - Credit repair services 👍1  
-* 👍 Antonio Ginatta
+* 👍💵 Antonio Ginatta
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
@@ -45,7 +45,7 @@
 ## [HB 1345](/bill/2023-24/hb/1345/) - Concerning the contribution to costs of privileges by incarcerated individuals. 👍1  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
-* 👍 Sarah Nagy
+* 👍💵 Sarah Nagy
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 

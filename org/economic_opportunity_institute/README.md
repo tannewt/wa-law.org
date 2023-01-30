@@ -1,7 +1,7 @@
 # Economic Opportunity Institute
 
 ## [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
-* ❓ Traci Underwood
+* ❓💵 Traci Underwood
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
@@ -40,4 +40,4 @@
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5507](/bill/2023-24/sb/5507/) - Tenure-track faculty 👍1  
-* 👍 Carolyn Brotherton
+* 👍💵 Carolyn Brotherton

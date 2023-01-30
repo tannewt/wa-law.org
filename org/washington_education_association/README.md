@@ -9,7 +9,7 @@
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍1  
-* 👍 Nasue Nishida
+* 👍💵 Nasue Nishida
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
@@ -28,12 +28,12 @@
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
-* 👍 Julie Salvi
+* 👍💵 Julie Salvi
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
-* 👍 Nasue Nishida
+* 👍💵 Nasue Nishida
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
@@ -89,7 +89,7 @@
 * 👍 Roni Cook
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓1
-* ❓ Nasue Nishida
+* ❓💵 Nasue Nishida
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
@@ -105,10 +105,10 @@
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
-* 👍 Julie Salvi
+* 👍💵 Julie Salvi
 
 ## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍1  
-* 👍 Nasue Nishida
+* 👍💵 Nasue Nishida
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities   ❓1
 * ❓ Jared Mason-Gere
@@ -120,7 +120,7 @@
 ## [HB 1338](/bill/2023-24/hb/1338/) - Concerning education and vocational programs in state correctional institutions. 👍1  
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
-* 👍 Nasue Nishida
+* 👍💵 Nasue Nishida
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
@@ -148,20 +148,20 @@
 * ❓ Jared Mason-Gere
 
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs.   ❓1
-* ❓ Simone Boe
+* ❓💵 Simone Boe
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
-* 👍 Simone Boe
+* 👍💵 Simone Boe
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
-* 👍 Simone Boe
+* 👍💵 Simone Boe
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
-* 👍 Nasue Nishida
+* 👍💵 Nasue Nishida
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍1  
 
@@ -184,7 +184,7 @@
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
-* 👍 Julie Salvi
+* 👍💵 Julie Salvi
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
 
@@ -209,7 +209,7 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
-* 👍 Julie Salvi
+* 👍💵 Julie Salvi
 
 ## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
 

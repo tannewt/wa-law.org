@@ -29,7 +29,7 @@
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
-* 👍 Juliet Schindler
+* 👍💵 Juliet Schindler
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
 

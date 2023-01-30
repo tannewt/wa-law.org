@@ -7,4 +7,4 @@
 * 👍 April Sims
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
-* 👎 Sybill Hyppolite
+* 👎💵 Sybill Hyppolite

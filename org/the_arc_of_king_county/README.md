@@ -17,7 +17,7 @@
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
-* 👍 Ramona Hattendorf
+* 👍💵 Ramona Hattendorf
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
@@ -28,7 +28,7 @@
 ## [HB 1265](/bill/2023-24/hb/1265/) - Adult family homes/prop. tax 👍1  
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍2  
-* 👍 Ramona Hattendorf
+* 👍💵 Ramona Hattendorf
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
@@ -39,7 +39,7 @@
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍2  
-* 👍 Ramona Hattendorf
+* 👍💵 Ramona Hattendorf
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
@@ -52,7 +52,7 @@
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍1  
 
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
-* 👍 Ramona Hattendorf
+* 👍💵 Ramona Hattendorf
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -75,10 +75,10 @@
 ## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓1
-* ❓ Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
-* 👍 Ramona Hattendorf
+* 👍💵 Ramona Hattendorf
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Preserving public benefit payments to people in the care of the department of children, youth, and families. 👍1  
 

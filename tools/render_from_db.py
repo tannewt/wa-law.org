@@ -205,7 +205,14 @@ for org_rowid in vio:
             testifiers = []
         position_totals[position] += 1
         if testifying:
-            testifiers.append(f"* {POSITION_TO_EMOJI[position]} {first_name} {last_name}")
+            lobbyist = db.cursor()
+            lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
+            lobbyist = lobbyist.fetchone()
+            if lobbyist:
+                lobbyist = "💵"
+            else:
+                lobbyist = ""
+            testifiers.append(f"* {POSITION_TO_EMOJI[position]}{lobbyist} {first_name} {last_name}")
 
     if bill_info:
         old_bill_rowid, old_prefix, old_bill_number = bill_info

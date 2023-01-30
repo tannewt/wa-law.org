@@ -37,14 +37,14 @@
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
 ## [HB 1426](/bill/2023-24/hb/1426/) - Controlled entities 👍2  
-* 👍 Cindy Black
+* 👍💵 Cindy Black
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍2  
-* 👍 Cindy Black
+* 👍💵 Cindy Black
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
@@ -77,11 +77,11 @@
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
 ## [SB 5207](/bill/2023-24/sb/5207/) - Controlled entities 👍1  
-* 👍 Cindy Black
+* 👍💵 Cindy Black
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
-* 👍 Cindy Black
-* 👍 Cindy Black
+* 👍💵 Cindy Black
+* 👍💵 Cindy Black
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 

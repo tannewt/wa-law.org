@@ -15,7 +15,7 @@
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 
 ## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍1  
-* 👍 Katherine Mahoney
+* 👍💵 Katherine Mahoney
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 

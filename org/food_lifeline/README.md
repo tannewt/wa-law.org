@@ -1,7 +1,7 @@
 # Food Lifeline
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
-* 👍 Aaron Czyzewski
+* 👍💵 Aaron Czyzewski
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
@@ -24,10 +24,10 @@
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
-* 👍 Aaron Czyzewski
+* 👍💵 Aaron Czyzewski
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
-* 👍 Aaron Czyzewski
+* 👍💵 Aaron Czyzewski
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
