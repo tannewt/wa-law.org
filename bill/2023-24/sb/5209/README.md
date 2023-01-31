@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=4)
 
-#### 5 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Mies Rapoport - As Individual, former Secretary of the state
+* O'Dea Jonathan - NSW Parliament
+* Mary Hall - Thurston County Auditor
 
-#### 19 👎 - Con
+#### 155 👎 - Con
 Testifying:
 * Andy Craig - Dir. of Election Policy, Rainey Center; Adj. Scholar, Cato Institute
+* Rozana Knutson
+* 💵Jude Ahmed
+* Eric prattr - I, America
 
 #### 0 ❓ - Other

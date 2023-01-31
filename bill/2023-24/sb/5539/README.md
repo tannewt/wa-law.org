@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=4)
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Blake Baldwin - Chelan Douglas Regional Port Authority
 * matt zuvich - Office of State Treasurer
 * Mike Bomar - Port of Vancouver USA
 * 💵Briahna Murray - City of Pasco contract lobbyist
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Eric Pratt - I,America

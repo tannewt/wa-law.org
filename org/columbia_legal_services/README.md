@@ -55,7 +55,13 @@
 * ❓ Nick Straley
 * ❓ Nick Straley
 
+## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
+
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
+
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
+
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍1  
 
@@ -80,5 +86,9 @@
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+
+## [SB 5434](/bill/2023-24/sb/5434/) - Juvenile court jurisdiction 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  

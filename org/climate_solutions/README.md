@@ -23,7 +23,11 @@
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+
+## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍1  
+
+## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
@@ -36,5 +40,12 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍 Leah  Missik
 
+## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍💵 Kelly Hall
+
+## [SB 5431](/bill/2023-24/sb/5431/) - Zero emission school buses 👍1  
+* 👍💵 Leah Missik
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  

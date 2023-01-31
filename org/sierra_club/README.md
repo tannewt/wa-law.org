@@ -20,4 +20,9 @@
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 * 👍 Robin Everett
 
+## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+* 👍 Jim Dennison
+
 ## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  

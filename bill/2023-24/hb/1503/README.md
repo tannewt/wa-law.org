@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150094&caId=20998&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150094&caId=20998&tId=4)
 
-#### 5 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * LoLinda Turner - [Delta Dental of Washington](/org/delta_dental_of_washington/)
+* Jenny Arnold - Washington State Pharmacy Association
+* Fatima Mirza  - Washington Medical Commission
+* Micah  Matthews  - Washington Medical Commission
 
 #### 0 👎 - Con
 

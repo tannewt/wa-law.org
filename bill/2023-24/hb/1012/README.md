@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1012 Extreme weather events
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150137&caId=20907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150137&caId=20907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150137&caId=20907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150137&caId=20907&tId=4)
-
-#### 63 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * Kristina  Walker - Tacoma City Council
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
+* Jim Baumgart - Washington Military Department
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

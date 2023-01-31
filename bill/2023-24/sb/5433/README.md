@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5433 Derelict aquatic structures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149883&caId=20796&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149883&caId=20796&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149883&caId=20796&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149883&caId=20796&tId=4)
-
-#### 10 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Alex Smith - Washington Department of Natural Resources
+* Bob Wise - President, Recreational Boating Assoc. of Washington
+* G. Chad Bowechop - Makah Tribal Council
 
 #### 1 👎 - Con
 Testifying:
 * Jeff Pack - NW REBREATHER DIVERS
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Don Gourlie - Puget Sound Partnership
+* 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)

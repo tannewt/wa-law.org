@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150435&caId=20852&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150435&caId=20852&tId=4)
 
-#### 4 👍 - Pro
+#### 155 👍 - Pro
 Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
+* Kelly Jiang
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * JOHN Worthington
+* Anna Lising - Governor's Office
+* Dave Danner - Utilities & Transportation Commission

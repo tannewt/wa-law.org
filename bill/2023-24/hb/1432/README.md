@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=4)
 
-#### 79 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Jaimie Cavanaugh
 * Elizabeth Mustin - Washington State Office of Public Defense
+* Nina Martinez - Latino Civic Alliance
+* 💵Rachel Sottile - Center for Children and Youth Justice
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Tammy Fellin - Labor & Industries
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

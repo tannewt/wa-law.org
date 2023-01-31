@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149977&caId=20826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149977&caId=20826&tId=4)
 
-#### 4 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Sheldon Beddo
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* 💵Taylor Gardner - WASPC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Transportation (TRAN): SSB 5002 Alcohol concentration/DUI
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150274&caId=20802&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150274&caId=20802&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150274&caId=20802&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150274&caId=20802&tId=4)
-
-#### 19 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Captain Neil Weaver - Washington State Patrol
 * Debbie Driver - Governor Inslee's Office
@@ -24,10 +18,18 @@ Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Sheri  Call - Washington Trucking Associations
+* Michelle Gajda - [National Safety Council](/org/national_safety_council/)
+* Stephanie Shaw - Stephanie Shaw, Safety Advocate on behalf of the National Transportation Safety Board (NTSB)
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
-#### 17 👎 - Con
+#### 46 👎 - Con
+Testifying:
+* Jerome Brady
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Daniel Olson  - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Lindsay Herendeen - State Board of Health
 

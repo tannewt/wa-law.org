@@ -4,3 +4,5 @@
 * ❓ Tom Salzer
 
 ## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities 👍1  
+
+## [HB 1552](/bill/2023-24/hb/1552/) - Urban agriculture study 👍1  

@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150340&caId=21005&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150340&caId=21005&tId=4)
 
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * John Kingsbury - cannabis patient.   Cannabis Alliance
 * Lisa Buchanan - RN, OCN, MCC
 * Mary Brown - SMJ Consulting
 * Steven Fields - MS patient
+* Arthur West
+* Burl Bryson - The Cannabis Alliance
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Taylor Gardner - WASPC
 
 #### 0 ❓ - Other

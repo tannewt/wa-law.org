@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30558&aId=150552&caId=21049&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30558&aId=150552&caId=21049&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Nina Martinez - Latino Civic Alliance
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Gabriel Hamilton - I am a certified youth peer councilor and and have become a peer specialist.
 
 #### 0 ❓ - Other

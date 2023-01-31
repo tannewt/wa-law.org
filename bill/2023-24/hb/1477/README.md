@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=4)
 
-#### 104 👍 - Pro
+#### 237 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* Casey Lantz - United Way of King County
+* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

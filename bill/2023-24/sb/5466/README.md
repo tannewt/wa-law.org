@@ -14,13 +14,32 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30504&aId=150170&caId=20818&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30504&aId=150170&caId=20818&tId=4)
 
-#### 207 👍 - Pro
+#### 674 👍 - Pro
 Testifying:
 * Jesse Simpson - Housing Development Consortium
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Joe Kunzler - None
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Angela Rozmyn - Natural and Built Environments
+* Jennifer Gregerson
+* Kelli Refer - Move Redmond
+* Noha Mahgoub - Office of Financial Management
+* 💵Nathan Gorton - Washington REALTORS
+* Dave Andersen - Washington Department of Commerce
+* BILL CLARKE - Amazon
+* 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
+* Brian Lagerberg - Director of Public Transportation, WA State Department of Transportation
+* Josh Friedmann - NAIOP
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Deputy  Mayor, Kristina  Walker - [City of Tacoma](/org/city_of_tacoma/)
+* Wes Stewart - Sierra Club Washington
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Dean Martin - Washington State Chapter of Community Association Institute

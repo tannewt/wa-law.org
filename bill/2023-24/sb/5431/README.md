@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150237&caId=20859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150237&caId=20859&tId=4)
 
-#### 7 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* Claire Richards - Washington Physicians for Social Resoonsibility
+* Jill Denny - Washington Physicians for Social Responsibility
+* Amy Cast - Northshore School District Board of Directors
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 6 👎 - Con
+#### 42 👎 - Con
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Leah Choi - Lake Washington School District
+* Siri Bliesner - Lake Washington School District
 * Barbara Posthumus - Lake Washington School District
+* 💵Carolyn Logue - WA State Student Transportation Coalition
+* Morgan Thomas - North Mason School District Student School Board Member

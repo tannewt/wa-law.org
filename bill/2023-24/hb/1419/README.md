@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150191&caId=20990&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150191&caId=20990&tId=4)
 
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Jeff Gadman - WA Association of County Officials; WA State Association of County Treasurers
+* Lisa Frazier - WA State Association of County Treasurers
 
 #### 0 👎 - Con
 

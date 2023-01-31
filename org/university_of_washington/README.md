@@ -21,6 +21,9 @@
 
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 
+## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
+* 👍 Joe Dacca
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  

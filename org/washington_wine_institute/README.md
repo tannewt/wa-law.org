@@ -12,7 +12,8 @@
 * 👍 Josh McDonald
 * 👍 Jessica Zander
 
-## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
+## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎2 
+* 👎 Josh McDonald
 * 👎 Josh McDonald
 
 ## [SB 5013](/bill/2023-24/sb/5013/) - Wine/alcohol tax exemption 👍1  

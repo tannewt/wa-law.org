@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150356&caId=20965&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150356&caId=20965&tId=4)
 
-#### 1 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* 💵Briahna Murray - Urban Housing Ventures, contract lobbyist
+* Marc Angelillo - Urban Housing Ventures
+* Tim Cavanaugh - Urban Housing Ventures
 
 #### 0 👎 - Con
 

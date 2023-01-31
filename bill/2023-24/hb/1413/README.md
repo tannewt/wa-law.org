@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1413 Flexible work/peace officers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150270&caId=20921&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150270&caId=20921&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150270&caId=20921&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150270&caId=20921&tId=4)
-
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Monica Alexander - Washington State Criminal Justice Training Commission
+* James Schrimpsher - Washington State Fraternal Order of Police
 
 #### 1 👎 - Con
 

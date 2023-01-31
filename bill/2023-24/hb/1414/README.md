@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Transportation (TR): HB 1414 RTA vehicle removal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150297&caId=21006&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150297&caId=21006&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150297&caId=21006&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150297&caId=21006&tId=4)
-
-#### 2 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Alex Soldano - Sound Transit
 

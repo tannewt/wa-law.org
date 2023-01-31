@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5371 Orca vessel protection
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30534&aId=149882&caId=20795&tId=4)
-
-#### 1106 👍 - Pro
+#### 1470 👍 - Pro
 Testifying:
 * Joseph Gaydos - UC Davis / SeaDoc Society
 * Timothy Ragen
@@ -23,10 +17,12 @@ Testifying:
 * Nora Nickum - Seattle Aquarium
 * Julie Watson - WDFW
 * Tara Galuska - Recreation and Conservation Office - Governor's Salmon Recovery Office
+* Todd Hass - Puget Sound Partnership
+* Maanit Goel
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
-#### 19 ❓ - Other
+#### 23 ❓ - Other
 Testifying:
 * Cindy Hansen - Orca Network
 * Monika Wieland Shields - Orca Behavior Institute
@@ -35,3 +31,4 @@ Testifying:
 * Katrina Watkins
 * Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
 * 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
+* Bob Wise - President, Recreational Boating Assoc. of Washington

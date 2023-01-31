@@ -26,7 +26,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
-## [HB 1340](/bill/2023-24/hb/1340/) - Concerning actions by health professions disciplining authorities against license applicants and license holders. 👍1  
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
@@ -61,6 +61,8 @@
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍1  
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
+
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 

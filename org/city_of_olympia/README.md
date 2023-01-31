@@ -25,9 +25,11 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
 
@@ -49,6 +51,12 @@
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
+
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  

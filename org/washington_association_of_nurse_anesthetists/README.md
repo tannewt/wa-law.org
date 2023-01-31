@@ -13,4 +13,10 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍1  
 
-## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎4 
+## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎8 
+* 👎 Adrianna Silva
+* 👎 Ashley Fedan
+* 👎 Kelli Camp
+* 👎 Brad Hemingway
+
+## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  

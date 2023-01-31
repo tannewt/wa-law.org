@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Environment & Energy (ENVI): HB 1236 Clean fuel/public transport.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30593&aId=150219&caId=20937&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30593&aId=150219&caId=20937&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30593&aId=150219&caId=20937&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30593&aId=150219&caId=20937&tId=4)
-
-#### 6 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
+* 💵Michael Shaw - Washington State Transit Association
+* Jospeh Clark - Twin Transit
+* Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
+* 💵Dave Warren - WA Green Hydrogen Alliance and Twin Transit
 
-#### 2 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30504&aId=150172&caId=20820&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30504&aId=150172&caId=20820&tId=4)
 
-#### 2 👍 - Pro
+#### 127 👍 - Pro
+Testifying:
+* Jeff Gadman - WA Association of County Officials / WA State Association of County Treasurers
+* Court Olson
 
-#### 0 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Erika Clough
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Joe Adamack - Washington's Credit Unions - GWCUA

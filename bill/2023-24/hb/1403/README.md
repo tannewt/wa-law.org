@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150197&caId=20996&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150197&caId=20996&tId=4)
 
-#### 10 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* James Fletcher - City of Cashmere
 
-#### 1 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Dave Andersen - Washington Department of Commerce
 
 #### 0 ❓ - Other

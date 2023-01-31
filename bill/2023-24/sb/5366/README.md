@@ -14,12 +14,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150079&caId=20833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150079&caId=20833&tId=4)
 
-#### 49 👍 - Pro
+#### 228 👍 - Pro
+Testifying:
+* Logan  Bahr - Tacoma Power
+* Mendy Droke - Seattle City Light
+* Jim Dennison - [Sierra Club](/org/sierra_club/)
+* Lisa Gafken - Attorney General's Office
+* Rory Paine-Donovan - Attorney General's Office
+* Ryan Collins - Snohomish PUD
+* 💵Charlee Thompson - NW Energy Coalition
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 
-#### 2 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Chelsea Martin - Modern Electric Water Company
+* Greg Mendonca - Okanogan County Electric Cooperative
+* Paul Griffin - Washington Rural Electric Cooperative Association
 
-#### 3 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * 💵Christine Brewer - The Avista Corporation
 * 💵Jay Balasbas - PacifiCorp
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* 💵Isaac Kastama - Benton PUD & Franklin PUD
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Paula  Painter - [City of Kent](/org/city_of_kent/)
+* Austin Scharff - Washington State Dept. of Commerce
+* Joseph Carroll - Wolff, Hislop and Crockett
+* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* Jake Murray

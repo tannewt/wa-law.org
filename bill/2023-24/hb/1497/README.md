@@ -8,17 +8,25 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Regulated Substances & Gaming (RSG): HB 1497 Vapor and tobacco/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150263&caId=21004&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150263&caId=21004&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150263&caId=21004&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150263&caId=21004&tId=4)
-
-#### 122 👍 - Pro
+#### 243 👍 - Pro
 Testifying:
 * Rahul Sharma - Washington Legislative Youth Advisory Council
 * Mike Graham-Squire - Washington Association for Substance-misuse and Violence Prevention (WASAVP)
+* Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Elaine Ishihara - Asian Pacific Islander Coalition Advocating Together for Health (APICAT)
+* Dr Crystal Shen - Physician, WA Chapter of the American Academy of Pediatrics
+* Dr Robin Evans-Agnew
+* Carol Coram
+* Carrie Nyssen - American Lung Association
+* Brittany Grant - Tobacco Free Kids
+* Dr. Phillip Gardiner - African American Tobacco Control Leadership Council
+* Tuyet-Nhi  Vo - Asian Pacific Islander Coalition Advocating Together for Health
+* Ben Yisrael - Healthy King County Coalition
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board

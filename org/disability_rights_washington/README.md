@@ -16,6 +16,8 @@
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 * 👍💵 Andrea Kadlec
 
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
@@ -29,5 +31,10 @@
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
+## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍1  
+* 👍💵 Chloe Merino
+
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 * 👎💵 Kimberly Mosolf
+
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  

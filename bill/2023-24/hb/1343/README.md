@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150355&caId=20964&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150355&caId=20964&tId=4)
 
-#### 5 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
+* Stacey  Valenzuela 
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

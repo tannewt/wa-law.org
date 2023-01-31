@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150053&caId=20932&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150053&caId=20932&tId=4)
 
-#### 8 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 * Jenee Myers Twitchell
+* Jenny (OSPI) - Office of Superintendent of Public Instruction (OSPI)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kate Atvars
+* Debbie Reeder - West Valley SD

@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150076&caId=20913&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150076&caId=20913&tId=4)
 
-#### 1 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Matthew Hinck - CalPortland Company
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 
 #### 0 ❓ - Other

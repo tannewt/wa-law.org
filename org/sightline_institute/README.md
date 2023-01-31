@@ -15,6 +15,8 @@
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 * 👍💵 Dan Bertolet
 
+## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
+
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 * ❓💵 Dan Bertolet
 
@@ -28,10 +30,14 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
+## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process 👍1  
+
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Dan Bertolet
+
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 
@@ -42,3 +48,5 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
+
+## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  

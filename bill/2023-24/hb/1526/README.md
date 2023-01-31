@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150153&caId=20983&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150153&caId=20983&tId=4)
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Nicole Grant - IBEW 46
 * Warren Shill - IBEW Local 46
+* Jack Knottingham - IBEW 76
+* Clint Bryson - IBEW 76
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

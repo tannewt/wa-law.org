@@ -14,7 +14,8 @@
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints  👎1 
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+* 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
 
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
@@ -24,6 +25,12 @@
 
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  
 * 👍💵 Riley Smith
+
+## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
+* 👎💵 Julia Gorton
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 

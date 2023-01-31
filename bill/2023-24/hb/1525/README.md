@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150248&caId=20971&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150248&caId=20971&tId=4)
 
-#### 43 👍 - Pro
+#### 108 👍 - Pro
+Testifying:
+* 💵Maya Gillett
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* Michael Swanson - Ironworkers Local 86 Apprentice
+* Tara  Davis - Ironworkers Local 86 Apprentice
 
 #### 0 👎 - Con
 

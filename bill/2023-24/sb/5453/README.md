@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Law & Justice (LAW): SB 5453 Female genital mutilation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30542&aId=149974&caId=20784&tId=4)
-
-#### 47 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Absa Samba
 * Muna  Osman - Behalf off WA coalition and survivor
@@ -23,7 +17,9 @@ Testifying:
 * Bettina Shell-Duncan - [University of Washington](/org/university_of_washington/)
 * Fatoumata  Jammeh
 * Maryum  Saifee  - I’m testifying as a survivor of FGM and co-founder of a change.org petition
+* Eric Pratt - I, America
+* Zehra Patwa - WeSpeakOut
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

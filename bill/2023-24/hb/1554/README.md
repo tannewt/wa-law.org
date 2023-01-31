@@ -27,8 +27,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150452&caId=21023&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150452&caId=21023&tId=4)
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Lisa Rivera Smith
+* Holly Krejci  - KCIACC
+* Sameth  Mell - KCIACC
+* Velma  Veloria
+* Ali  Lee
+* Christian Poulsen - Duwamish River Community Coalition, King County International Airport Community Coalition
 
-#### 0 👎 - Con
+#### 155 👎 - Con
+Testifying:
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* 💵Warren Hendrickson - Washington State Aviation Alliance
 
 #### 0 ❓ - Other

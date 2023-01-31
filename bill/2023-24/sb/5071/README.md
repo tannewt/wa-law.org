@@ -9,13 +9,10 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Ways & Means (WM): SSB 5071 Purple star designation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30551&aId=150402&caId=20809&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30551&aId=150402&caId=20809&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30551&aId=150402&caId=20809&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30551&aId=150402&caId=20809&tId=4)
-
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Natalie Wimberley  - Peninsula School District
+* Tammie Perreault
 
 #### 0 👎 - Con
 

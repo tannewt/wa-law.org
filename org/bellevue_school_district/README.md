@@ -13,6 +13,8 @@
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
+## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
+
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  

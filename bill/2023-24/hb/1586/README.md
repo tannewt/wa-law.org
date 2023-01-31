@@ -14,15 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=4)
 
-#### 76 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Heather Kelly - League of Women Voters of Washington
+* Nickeia  Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Martina Morris - Next Steps WA & WA Coalition for Police Accountability
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Michelle Feldman - Center for Policing Equity
 * Monica Alexander - Washington State Criminal Justice Training Commission
 * Thomas  Reinhard - Cascade Pizza Co
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Eric Pratt - I, America

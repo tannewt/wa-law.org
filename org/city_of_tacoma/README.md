@@ -14,6 +14,9 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+* 👍 Mayor, Victoria  Woodards
+
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1
 * ❓💵 Briahna Murray
 
@@ -38,3 +41,6 @@
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+* 👍 Deputy  Mayor, Kristina  Walker

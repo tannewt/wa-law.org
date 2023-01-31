@@ -8,6 +8,10 @@
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍1  
+
+## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  

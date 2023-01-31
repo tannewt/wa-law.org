@@ -15,13 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=4)
 
-#### 50 👍 - Pro
+#### 151 👍 - Pro
+Testifying:
+* Nina Martinez - Latino Civic Alliance
+* Micaela Romero
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* David Lovell
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1087 Solitary confinement
 #### 0 👍 - Pro

@@ -15,12 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=4)
 
-#### 19 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Steve Rosen
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Larry  Shannon - Washington State Association for Justice
+* Rebecca Glasgow - Gender and Justice Commission
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

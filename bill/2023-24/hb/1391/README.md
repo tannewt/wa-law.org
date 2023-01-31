@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150436&caId=20941&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150436&caId=20941&tId=4)
 
-#### 7 👍 - Pro
+#### 142 👍 - Pro
+Testifying:
+* Tony Usibelli - Usibelli Consulting
+* Ali Lee - Health and Equity Alliance
+* Srinidhi Sampath Kumar - RMI
+* Steve Gelb - Emerald Cities Collaborative
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Washington Air Conditioning Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Liz Reichart - Washington Department of Commerce
 
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1391 Energy in buildings
 #### 385 👍 - Pro

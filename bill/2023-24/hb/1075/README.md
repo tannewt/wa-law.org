@@ -14,10 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150028&caId=20946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150028&caId=20946&tId=4)
 
-#### 147 👍 - Pro
+#### 308 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* 💵Alex Davidson - Associated Students of the University of Washington
+* Alfredo Corvalan - Community Member
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
+* 💵Christina Wong - Northwest Harvest
+* Cynthia LaPlante - Puyallup Tribe
+* Daniel Low - Washington Physicians for Social Responsibility
+* Ariana Vargas - Nuestra Casa
+* HyeEun Park - BIPOC Executive Directors Coalition
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Shaun Scott
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

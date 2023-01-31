@@ -4,6 +4,8 @@
 
 ## [HB 1008](/bill/2023-24/hb/1008/) - Plan 2 members/insurance 👍1  
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
@@ -20,6 +22,14 @@
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
+## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials 👍1  
+
+## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
+
+## [HB 1542](/bill/2023-24/hb/1542/) - AEDs/high voltage work 👍1  
+
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
+
 ## [SB 5111](/bill/2023-24/sb/5111/) - Sick leave/construction 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
@@ -33,6 +43,8 @@
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
+
+## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers 👍1  
 
 ## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
 

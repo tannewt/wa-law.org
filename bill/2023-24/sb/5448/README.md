@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150019&caId=20867&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150019&caId=20867&tId=4)
 
-#### 6 👍 - Pro
+#### 29 👍 - Pro
 
-#### 2 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Justin Nordhorn - Liquor & Cannabis Board
+* Mark McKechnie - WA Traffic Safety Commission
+* Sheri Sawyer - Office of Governor Jay Inslee
+* Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

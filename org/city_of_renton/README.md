@@ -4,3 +4,5 @@
 * 👍 Paul Hintz
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  

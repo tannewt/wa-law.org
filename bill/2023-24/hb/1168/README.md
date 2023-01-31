@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150478&caId=21035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150478&caId=21035&tId=4)
 
-#### 3 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* 💵Melanie Smith - Wonderland Child and Family Services
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

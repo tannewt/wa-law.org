@@ -8,3 +8,6 @@
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
+
+## [SB 5439](/bill/2023-24/sb/5439/) - Livestock identification 👍1  
+* 👍💵 Mark Streuli

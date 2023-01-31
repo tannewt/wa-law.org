@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/20 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1235 WDFW licensing

@@ -15,18 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Tom Seigel - [Bethel School District](/org/bethel_school_district/)
 
 #### 1 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
+* 💵Carolyn Logue - WA State Student Transportation Coalition
 
 ### Thu 01/12 01:30 PM - Early Learning & K-12 Education (EDU): SB 5174 Student transportation
 #### 0 👍 - Pro

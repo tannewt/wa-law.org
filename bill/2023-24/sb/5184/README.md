@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=4)
 
-#### 1156 👍 - Pro
+#### 1327 👍 - Pro
 Testifying:
 * Richard Evans - American Academy of Anesthesiologist Assistants
 * Mike Cioffi
@@ -22,8 +22,22 @@ Testifying:
 * Grier James - Certified Anesthesiologist Assistant
 * Sarah Brown - Certified Anesthesiology Assistant/President WA Academy of Anesthesiologist Assistants
 * Shane Angus - Chair, Assn of Anesthesiologist Assistant Education Programs
+* Cassie Gabriel - WSSA
+* Erik Condon - WSSA
+* Scott Wolf - WSSA
+* 💵Amy Brackenbury - WSSA & WSMA
+* Shane Angus - Chair, Anesthesiologist Assistant Education Programs
+* Deborah Rusy - American Society of Anesthesilogists Rep to AAAA
+* Scott Wolf - WSSA
+* Stephanie Mason  - Washington Medical Commission
 
-#### 3175 👎 - Con
+#### 3411 👎 - Con
+Testifying:
+* Adrianna Silva - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Ashley Fedan - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Brad Hemingway - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* MD, Robert Conroy
 
 #### 8 ❓ - Other
 Testifying:

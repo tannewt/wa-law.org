@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=4)
 
-#### 310 👍 - Pro
+#### 360 👍 - Pro
 Testifying:
 * 💵Sophia Steele - Associated Builders and Contractors
 * Brandon Perasso
@@ -46,9 +46,19 @@ Testifying:
 * Brian Kemly
 * Keely Friesen
 * Roger Chick
+* Kadin Swartz - 01 trainee for Haggard Electric
+* Willy Dressler
+* Hans Frederickson - Frederickson Electric, Inc.
+* Kevin Diefenbach
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Scott Smasal - Extra Mile Tech & Electrical
+* Michael Arnes
 
-#### 9 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Nicole Grant - IBEW 46
+* Halene Sigmund - Construction Industry Training Council of WA
+* 💵Brad Boswell - Construction Industry Training Council of WA
+* 💵Matthew Hepner - IBEW
 
 #### 2 ❓ - Other

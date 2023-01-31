@@ -8,23 +8,28 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5367 Products containing THC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=149999&caId=20787&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=149999&caId=20787&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=149999&caId=20787&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=149999&caId=20787&tId=4)
-
-#### 13 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Justin Nordhorn - Washington State Liquor and Cannabis Board
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
+* Sarah Ross-Viles - [King County](/org/king_county/)
+* Lacy Fehrenbach - Washington State Department of Health
+* 💵Bob Cooper - WA Association on Substance Abuse & Violence Prevention
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
-#### 3 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Bonny Jo  Peterson  - Industrial Hemp Association of WA
 * Azmyth Kaminski - Science Under Nature
+* Joshua Schneider - Association of Western Hemp Professionals
+* Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Kristofer Plunkett - Cascadia Hemp Co.
+* Patrick Hyland
+* Mark Walker - Well Spring Farm
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Megan Moore - WA State Public Health Association
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* Nick Mosely - Confidence Analytics

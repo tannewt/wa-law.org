@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Eric Temple - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
 
 #### 0 👎 - Con
 

@@ -9,15 +9,13 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): SHB 1009 Military spouse employment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150135&caId=20905&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150135&caId=20905&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150135&caId=20905&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150135&caId=20905&tId=4)
-
-#### 5 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Renee Hanks
+* Allison Gunta
+* Tom Davis - Veterans Legislative Coalition
+* Tammie Perreault - Department of Defense
 
 #### 0 👎 - Con
 

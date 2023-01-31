@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150279&caId=20841&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150279&caId=20841&tId=4)
 
-#### 215 👍 - Pro
+#### 408 👍 - Pro
+Testifying:
+* Chris Jones
+* Judy Jones
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 3 ❓ - Other

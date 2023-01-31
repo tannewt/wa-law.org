@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1380 Law enf. officer funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150269&caId=20920&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150269&caId=20920&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150269&caId=20920&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30608&aId=150269&caId=20920&tId=4)
-
 #### 13 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

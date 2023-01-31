@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Regulated Substances & Gaming (RSG): HB 1438 Shooting sports contests
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150262&caId=21003&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150262&caId=21003&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150262&caId=21003&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30605&aId=150262&caId=21003&tId=4)
-
-#### 0 👍 - Pro
+#### 17 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Tommy Oakes - WA State Gambling Commission
+* Tina Griffin - Washington State Gambling Commission
+* Tommy Oakes - Washington State Gambling Commission

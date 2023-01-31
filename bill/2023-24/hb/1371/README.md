@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150030&caId=20948&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150030&caId=20948&tId=4)
 
-#### 5 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Cynthia Stewart - League of Women Voters of WA
+* Eric Temple - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
+* 💵Patrick Boss - Columbia Basin Railroad / Central Washington Railroad
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)

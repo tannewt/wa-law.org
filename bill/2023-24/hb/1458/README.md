@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150155&caId=20985&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150155&caId=20985&tId=4)
 
-#### 22 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* Braeden  Barnes - Ironworkers Apprentice
+* Bryan  Johnson - Ironworkers Local 86
+* Chance  Lemar - Ironworkers Apprenticeship
 
-#### 9 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other

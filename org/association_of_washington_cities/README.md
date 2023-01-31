@@ -40,9 +40,14 @@
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting   ❓1
 * ❓💵 Carl Schroeder
 
+## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
+
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations   ❓1
 * ❓💵 Carl Schroeder
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
@@ -56,22 +61,46 @@
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units  👎1 
 * 👎💵 Carl Schroeder
 
+## [HB 1350](/bill/2023-24/hb/1350/) - Expanding the multifamily tax exemption program to include converting existing multifamily units. 👍1  
+
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
+
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍2  
+* 👍 Amy Ockerlander
+* 👍💵 Candice Bock
+
+## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
+
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+* 👍💵 Carl Schroeder
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct  👎1 
 * 👎💵 Candice Bock
 
+## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
+
+## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍1  
+
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
 * 👎💵 Candice Bock
 
-## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
+
+## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
+
+## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
+* 👍💵 Candice Bock
+
+## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Candice Bock
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 * 👎💵 Candice Bock
+
+## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder
@@ -106,7 +135,12 @@
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍1  
 * 👍💵 Candice Bock
 
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+
 ## [SB 5310](/bill/2023-24/sb/5310/) - Workers' comp. providers 👍1  
+
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+* 👍💵 Carl Schroeder
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
@@ -116,6 +150,9 @@
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1
 * ❓💵 Carl Schroeder
 
+## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
+* ❓ Brandy DeLange
+
 ## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍1  
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
@@ -123,8 +160,23 @@
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
 * 👍💵 Carl Schroeder
 
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+* 👍💵 Carl Schroeder
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
+* 👍💵 Carl Schroeder
+
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 * 👍💵 Candice Bock
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+* 👍💵 Candice Bock
+
+## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍💵 Candice Bock

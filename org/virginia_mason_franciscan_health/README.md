@@ -25,5 +25,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎1 
 
+## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
+
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting  👎1 
 * 👎 Dhyan Lal

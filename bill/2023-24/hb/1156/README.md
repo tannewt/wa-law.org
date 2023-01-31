@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1156 College grant eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150139&caId=20909&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150139&caId=20909&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150139&caId=20909&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150139&caId=20909&tId=4)
-
-#### 6 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty
 * Jacob Katz - SBCTC
 * Shannon Cosgrove - SBCTC
 * Yokiko Hayashi-Saguil - SBCTC
+* Madeline Sprute - Tacoma Community College
+* Heather Hudson - Washington Student Achievement Council
 
 #### 0 👎 - Con
 

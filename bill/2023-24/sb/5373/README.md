@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149956&caId=20814&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149956&caId=20814&tId=4)
 
-#### 330 👍 - Pro
+#### 454 👍 - Pro
+Testifying:
+* ARNP, Dana Doering - Association of Advanced Practice Psychiatric Nurses (AAPPN)
+* ARNP, Linda Van Hoff - ARNPs United of Washington State (AUWS)
+* ARNP, Maddy Wiley - ARNPs United of Washington State (AUWS)
+* Jennifer Tyler - Tumwater Family Practice Clinic
+* PA, Griffith Jones
 
-#### 4 👎 - Con
+#### 68 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
 #### 0 ❓ - Other

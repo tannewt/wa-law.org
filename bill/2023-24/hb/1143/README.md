@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1143 Firearms/purchase & transfer

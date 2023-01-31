@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150042&caId=20954&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150042&caId=20954&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Madeleine Foutch - SEIU 775
 * 💵Brad Banks - Home Care Coalition
+* 💵Alexa Silver - Consumer Direct of Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Leslie Emerick - Home Care Association of Washington (HCAW) & Home Care Association of America-WA Ch
+* Bea Rector - Dept. of Social and Health Services

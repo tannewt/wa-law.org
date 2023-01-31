@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Early Learning & K-12 Education (EDU): SB 5441 School district curricula
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30599&aId=150228&caId=20800&tId=4)
-
-#### 119 👍 - Pro
+#### 280 👍 - Pro
 Testifying:
 * Director Liza  Rankin  - School Board Director, Seattle Public Schools
 * BULLOCK Bull-luck
@@ -26,16 +20,29 @@ Testifying:
 * Natasha Kalombo - Legislative Youth Advisory Council
 * Stacy Osoria - Legislative Youth Advisory Council
 * Tara Ryan - Washington Ethnic Studies Now
+* Sherri Nagamine - Justice for Girls Coalition
+* Anna Hernandez-French - OSPI
+* Janae Larsen - n/a
+* Tara Ryan - Washington Ethnic Studies Now
+* Beth Halpern
+* Vicki Skeels
+* Noah Aquino
 
-#### 737 👎 - Con
+#### 1127 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * JoAnn Tolentino
 * Andy Cilley - Parent
 * Adrienne Ross
 * Jeannie Magdua - Conservative Ladies of Washington
+* Jennifer Heine-Withee
 * Vince Navarre
+* Karen Winter
+* Sam Winter
+* katherine search
+* Dawn Land
+* Travis Hanson - Deer Park School District
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Marissa Rathbone - Washington State School Directors' Association (WSSDA)

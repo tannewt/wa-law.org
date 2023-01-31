@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150318&caId=20837&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150318&caId=20837&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Julie Wise - King County Director of Elections
 
-#### 0 👎 - Con
+#### 81 👎 - Con
+Testifying:
+* Debra  Dassler 
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* eric pratt - I, America

@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150152&caId=20982&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150152&caId=20982&tId=4)
 
-#### 3 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Nicole Grant - IBEW 46
 * Warren Shill - President IBEW Local 46 & GPSEW Educational Coordinator
+* Halene Sigmund - Construction Industry Training Council of WA
+* 💵Brad Boswell - Construction Industry Training Council of WA
+* 💵Matthew Hepner - IBEW
+* 💵Maya Gillett
+* 💵Keith Weir - IBEW 46 ( Electricians Union)
 
-#### 15 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Adam Kemly - Kemly Electric
 * America George - Haggard Electric
@@ -28,5 +33,6 @@ Testifying:
 * Winona  Furgisn
 * Mike Brunelle - First Choice Electric
 * Nicole Grant - IBEW 46
+* 💵Sophia Steele - Associated Builders and Contractors
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

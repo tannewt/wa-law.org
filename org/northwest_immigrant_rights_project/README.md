@@ -4,6 +4,8 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍2  
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  

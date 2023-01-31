@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150027&caId=20945&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150027&caId=20945&tId=4)
 
-#### 1 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Traci Underwood - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center

@@ -1,5 +1,7 @@
 # King County
 
+## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍1  
+
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
@@ -9,6 +11,8 @@
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
+
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 
@@ -74,6 +78,8 @@
 
 ## [HB 1300](/bill/2023-24/hb/1300/) - Assisted reproduction fraud 👍1  
 
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍1  
+
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍2  
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
@@ -84,11 +90,19 @@
 
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
 
-## [HB 1352](/bill/2023-24/hb/1352/) - Authorizing tribal investment in county investment pools. 👍2  
+## [HB 1352](/bill/2023-24/hb/1352/) - County invest. pools/tribes 👍2  
 
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍1  
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
+
+## [HB 1408](/bill/2023-24/hb/1408/) - HIV medication rebate rev. 👍1  
+
+## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
+
+## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
@@ -96,11 +110,33 @@
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍2  
 
+## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
+## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
+
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+
+## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍1  
+
+## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
+
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
+
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍1  
+
+## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
@@ -115,7 +151,7 @@
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍2  
 * 👍💵 Michael White
 
-## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍1  
+## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍2  
 
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm. 👍1  
 
@@ -181,11 +217,22 @@
 
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
 
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
+## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1  
+* 👍 Sarah Ross-Viles
+
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍1  
+
+## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+
+## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 
@@ -194,11 +241,24 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
-## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍1  
+## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍2  
 
 ## [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes. 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+
+## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
+
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
+
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+* 👎 April Putney
+
+## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
+
+## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
+
+## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍2  
 

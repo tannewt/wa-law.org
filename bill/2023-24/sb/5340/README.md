@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5340 Retail cannabis products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150003&caId=20791&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150003&caId=20791&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150003&caId=20791&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150003&caId=20791&tId=4)
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Douglas Henderson - Painted Rooster Cannabis Co.
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

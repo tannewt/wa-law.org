@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/13 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1069 Mental health counselor comp

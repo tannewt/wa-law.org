@@ -14,8 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30614&aId=150416&caId=20977&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30614&aId=150416&caId=20977&tId=4)
 
-#### 8 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
+* 💵Betty Buckley - [Washington Independent Telecommunications Association](/org/washington_independent_telecommunications_association/)
 * Dale Merten - Toledo Tel
 * Ken Johnson - WWest Telephone Company
 * Rick Vitzthum - Tenino Telephone

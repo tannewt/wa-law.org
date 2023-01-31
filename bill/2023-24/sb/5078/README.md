@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150494&caId=21017&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150494&caId=21017&tId=4)
 
-#### 21 👍 - Pro
+#### 133 👍 - Pro
+Testifying:
+* Barbara Serrano - Office of the Governor
+* Laura Clinton - Attorney General's Office
+* Krystal  LoPilato - Everytown for Gun Safety
 
-#### 31 👎 - Con
+#### 186 👎 - Con
 Testifying:
 * Eric pratt - I,America
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Brian Lynn - Sportsmen's Alliance
+* 💵Michael Findlay - National Shooting Sports Foundation
+* Rozana Knutson
 
 #### 0 ❓ - Other
 

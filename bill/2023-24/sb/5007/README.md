@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150018&caId=20866&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150018&caId=20866&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* David Parker
+* Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
 #### 0 ❓ - Other

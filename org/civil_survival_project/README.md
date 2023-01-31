@@ -1,5 +1,7 @@
 # Civil Survival Project
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  

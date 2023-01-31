@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150282&caId=20924&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150282&caId=20924&tId=4)
 
-#### 23 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Jill Boudreau - Mayor, City of Mount Vernon
 * Samantha  Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -23,10 +23,41 @@ Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Jason Whalen - Mayor, City of Lakewood
+* Amber Goldade
+* Amy Ockerlander - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+* Tracie Markley - [City of Gig Harbor](/org/city_of_gig_harbor/)
+* Craig Meidl - Chief of Police, City of Spokane
+* Emilie Cameron - Director, Downtown Spokane Partnership
+* Jonathan  Bingle - Councilman, City of Spokane
+* Nadine Woodward - Mayor, City of Spokane
+* Kyle Hardtke
+* Brett Gailey - Mayor, City of Lake Stevens
+* Russell Wiita - Mayor, City of Sultan
+* Rafael Padilla - Chief of Police, City of Kent
+* John  Horch - Clark County Sheriff - Clark County Sheriff's Office
+* Rod Higgins - Deputy Mayor, City of Spokane Valley
 
-#### 265 👎 - Con
+#### 501 👎 - Con
 Testifying:
 * Camille Baldwin-Bonney - People Power WA
 * Michelle Feldman - Center for Policing Equity
+* Andrea Caupain Sanderson - BIPOC ED Coalition of Washington
+* Heather Kelly - League of Women Voters of Washington
+* HyeEun Park - BIPOC ED Coalition of Washington
+* Adriana Suluai - UTOPIA Washington
+* Jordan  Landry
+* Kurtis Robertson - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Nina  Martinez - Latino Civic Alliance
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Kathryn Kravit-Smith
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Martina Morris - Next Steps Washington
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Eric Pratt - I, America
+* Bob Scales

@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5363 Cannabis advertising
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150002&caId=20790&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150002&caId=20790&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150002&caId=20790&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150002&caId=20790&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Burl Bryson - The Cannabis Alliance
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Hailey Croci

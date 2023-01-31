@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5405 LCB subpoena authority
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150000&caId=20788&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150000&caId=20788&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150000&caId=20788&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150000&caId=20788&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Marc Webster - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Peter Manning - Black Excellence In Cannabis
+* Mike Asai - Black Excellence In Cannabis
 
 #### 0 ❓ - Other

@@ -59,7 +59,13 @@
 
 ## [SB 5429](/bill/2023-24/sb/5429/) - Concerning a motor carrier’s ability to access restroom facilities required by rules authorized under chapter 49.17 RCW. 👍1  
 
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures   ❓1
+* ❓💵 John Stuhlmiller
+
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎 Chris Herman
+
+## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
+* 👍 Eric ffitch

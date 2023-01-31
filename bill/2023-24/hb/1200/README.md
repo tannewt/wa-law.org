@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/20 10:30 AM - Labor & Workplace Standards (LAWS): HB 1200 Employee information/unions

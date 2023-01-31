@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5376 Cannabis waste
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150001&caId=20789&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150001&caId=20789&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150001&caId=20789&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150001&caId=20789&tId=4)
-
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Jason Lammers - The Cannabis Alliance
 * 💵Ezra Eickmeyer - Producers NW
 * Douglas Henderson
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Lukas Hunter - Harmony Farms
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kimberly Goetz - Department of Ecology, Hazardous Waste & Toxics Reduction Program

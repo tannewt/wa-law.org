@@ -4,6 +4,8 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
+## [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍1  
+
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  

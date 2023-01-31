@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150095&caId=20999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150095&caId=20999&tId=4)
 
-#### 24 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Amanda Kost - University of Washington Faculty
 * Bidisha Biswas - Western Washington University Faculty
 * Jacob Vigdor - University of Washington Faculty
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)

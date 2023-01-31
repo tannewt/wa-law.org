@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150560&caId=21054&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150560&caId=21054&tId=4)
 
-#### 1 👍 - Pro
+#### 121 👍 - Pro
+Testifying:
+* Courtney Butler
+* Chris Love - Washington State Association for Justice
+* Darrell Cochran - Washington State Association for Justice
+* Nate Roberts - Washington State Association for Justice
+* Kathryn Robb - CHILD USAdvocacy
+* Renee Williams - National Crime Victim Bar Association
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Cary Silverman - American Tort Reform Association
 

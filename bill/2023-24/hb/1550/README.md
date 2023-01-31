@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=4)
 
-#### 2 👍 - Pro
+#### 54 👍 - Pro
+Testifying:
+* Angelia Hicks-Maxie
+* Colleen Condon - Washington Childcare Center Association
+* Susan Brown
+* Kimberly Burrows - Upriver Discovery School ( A Licensed Family Child Care)
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
 
-#### 9 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Lisa Reaugh - Peninsula School District
@@ -26,8 +32,22 @@ Testifying:
 * Kathy  Emerick  - Dir. of PreK and Elementary Success, Highline Public Schools
 * Krestin Bahr - Peninsula
 * Ingrid Colvard - Stevenson-Carson School District
+* James Everett - Meridian School District
+* Christopher Granger - [Blaine School District](/org/blaine_school_district/)
+* Tabatha Mires - Waterville School District
+* Erin Prince - Central Kitsap School District
+* David Olson - Vice President, Board member,  Peninsula School District
+* Kelly Coughlan - North Thurston Public Schools
+* Margaret Evans - Rochester School District
+* Wyeth Jessee - Shelton School District
+* Kyle Ehlis - North Mason School District
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* gerald grubbs - Starbuck School District
+* Wayne  Barrett - Concrete School District
+* Tracey Beckendorf-Edou - Cascade School District
+* Anne  Arnold - Everett Public Schools
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Kevin Knight - Superintendent Colville School District
 * Ian McMichael
@@ -36,3 +56,4 @@ Testifying:
 * Sara Hausken  - Quincy School District
 * Colleen Frerks - Whole Child Director, Quincy School District
 * Wade Smith - Walla Walla Public Schools
+* Melissa  Gombosky  - Association of Educational Service Districts

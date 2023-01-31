@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5263 Psilocybin
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150004&caId=20792&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150004&caId=20792&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150004&caId=20792&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30548&aId=150004&caId=20792&tId=4)
-
-#### 77 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Anthony Back
 * Jonathan Drew - HAVN Healing Center
@@ -33,11 +27,26 @@ Testifying:
 * Mason Marks
 * Pamela Kryskow
 * Sarah Hashkes
+* Todd Youngs
+* Brookelle O’Riley
+* Sunil Aggarwal
+* Arthur West
+* Alex Kaper
+* Corey Champagne
+* Daniel Covington
+* Jojo Teutsch
+* Lilymoon Whalen
+* Matthew Griffin - Combat Flip Flops, Forty Six & 2 Transitions
+* Pat Donahue - Terrapin Legal
+* Lauren Feringa - Hippie and a Veteran Foundation
+* 💵Chester Baldwin - Personal
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Rebecca Allen
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Suzanna Eller
+* 💵Avanti Bergquist - The Washington State Psychiatric Association (WSPA)
+* Lacy Fehrenbach - Washington State Department of Health

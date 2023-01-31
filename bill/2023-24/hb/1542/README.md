@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150154&caId=20984&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150154&caId=20984&tId=4)
 
-#### 6 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Christine Brewer - The Avista Corporation
 * Nicole Grant - IBEW 46
 * Nicole Grant - IBEW 46
+* 💵Christine Reid - IBEW LU 77
+* Mike McDougal - IBEW LU 77
+* Reese Hinkle - Member of IBEW LU 77
+* Will  Power - International Brotherhood of Electrical Workers Local Union 77
+* 💵Sean Bagsby - Business Manager / Financial Secretary IBEW Local 46
+* 💵Maya Gillett
 
 #### 0 👎 - Con
 

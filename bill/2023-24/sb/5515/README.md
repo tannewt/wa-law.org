@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150118&caId=20823&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150118&caId=20823&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Linda Drake - Washington State Board of Education
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Jeffrey Barber - Annie Wright Schools
 
 #### 0 ❓ - Other

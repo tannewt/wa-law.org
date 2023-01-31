@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150193&caId=20992&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150193&caId=20992&tId=4)
 
-#### 9 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

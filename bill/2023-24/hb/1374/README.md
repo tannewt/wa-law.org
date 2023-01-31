@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30571&aId=150098&caId=21001&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30571&aId=150098&caId=21001&tId=4)
 
-#### 16 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Maud Daudon - Career Connect Washington
 * Laura  Hopkins - SEIU 1199NW Multi-Employer Training Fund
@@ -26,7 +26,13 @@ Testifying:
 * 💵Jayme Shoun - Washington STEM
 * Lorie Thompson - Capital STEM Alliance (CCW Regional Network) @ ESD113
 * Mark Cheney - South Central Washington STEM Network/Career Connect Washington Regional Network
+* Alka Manchanda - Computing For All
+* Bryan Orihuela  - Computing For All
+* 💵Rose Gundersen - WA Retail Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Ruben Flores - Council Of Presidents
+* Arlen Harris - State Board for Community & Technical Colleges

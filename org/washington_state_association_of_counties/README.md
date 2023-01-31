@@ -61,11 +61,20 @@
 ## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities  👎1 
 * 👎💵 Paul Jewell
 
+## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process   ❓1
+* ❓💵 Paul Jewell
+
+## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
+* 👍💵 Paul Jewell
+
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice   ❓1
 * ❓💵 Juliana Roe
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct  👎1 
 * 👎💵 Juliana Roe
+
+## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
+* 👍💵 Paul Jewell
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
 * 👎💵 Juliana Roe
@@ -74,6 +83,9 @@
 * 👍💵 Juliana Roe
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
+
+## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
+* 👎💵 Paul Jewell
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel   ❓1
 * ❓💵 Juliana Roe
@@ -146,6 +158,9 @@
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 * 👎💵 Juliana Roe
+
+## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
+* 👍💵 Paul Jewell
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓💵 Juliana Roe

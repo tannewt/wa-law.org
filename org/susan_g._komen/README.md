@@ -12,6 +12,8 @@
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
+
 ## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍2  
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith

@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149993&caId=20861&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149993&caId=20861&tId=4)
 
-#### 45 👍 - Pro
+#### 282 👍 - Pro
 
-#### 954 👎 - Con
+#### 1687 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Emily Smith
 * Steve  Clunas
 * eric Pratt - America
+* Russell Swanner
+* Lee Swanner
+* Myron Michaelis
+* Jeffrey Campbell
+* Ronald Lorimer
 
 #### 0 ❓ - Other

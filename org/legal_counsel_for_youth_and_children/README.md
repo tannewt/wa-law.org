@@ -5,3 +5,6 @@
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Preserving public benefit payments to people in the care of the department of children, youth, and families. 👍1  
 * 👍 Erin Shea McCann
+
+## [SB 5434](/bill/2023-24/sb/5434/) - Juvenile court jurisdiction 👍1  
+* 👍 Alexandra Narvaez

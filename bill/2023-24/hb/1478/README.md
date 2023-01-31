@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Education (ED): HB 1478 Student rights
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150052&caId=20931&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150052&caId=20931&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150052&caId=20931&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150052&caId=20931&tId=4)
+#### 42 👍 - Pro
+Testifying:
+* Morgan Thomas - North Mason School District Student School Board Member
+* Maria Roth - Client of The Arc of King County
 
-#### 9 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Christina Callahan - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

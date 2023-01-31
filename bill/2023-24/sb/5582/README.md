@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Paula Meyer - Nursing Care Quality Assurance Commission
+* Paula Meyer - WA State Nursing Care Quality Assurance Commission
+* Sharon Fought - WA State Nursing Care Quality Assurance Commission
+* Tiffany Smith-Fromm - WA State Nursing Care Quality Assurance Commission

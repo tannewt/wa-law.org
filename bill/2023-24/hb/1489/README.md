@@ -8,14 +8,11 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Transportation (TR): HB 1489 Mt. St. Helens license plate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150298&caId=21007&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150298&caId=21007&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150298&caId=21007&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30611&aId=150298&caId=21007&tId=4)
+#### 861 👍 - Pro
+Testifying:
+* Ray Yurkewycz - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
+* Susan Saul
 
-#### 805 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

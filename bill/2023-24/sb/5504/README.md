@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150277&caId=20839&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150277&caId=20839&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* Chris Freeman - Stellantis
+* Craig Orlan - American Honda Motor Company
+* Tom McBride - American Honda Motor Company
 
 #### 0 👎 - Con
 

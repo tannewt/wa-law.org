@@ -6,7 +6,7 @@
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
-## [HB 1340](/bill/2023-24/hb/1340/) - Concerning actions by health professions disciplining authorities against license applicants and license holders. 👍1  
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
 

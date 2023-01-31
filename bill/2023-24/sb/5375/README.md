@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150016&caId=20864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150016&caId=20864&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Bob Turnage - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
 #### 0 ❓ - Other

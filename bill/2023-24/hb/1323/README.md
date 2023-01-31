@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150150&caId=20980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150150&caId=20980&tId=4)
 
-#### 31 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* AJ Johnson - WSCFF
+* Brian Sykes
+* Ray  Dumas - OPCMIA Local 528
 
-#### 9 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* 💵Carolyn Logue - NW Hearth, Patio & Barbecue Assn./WA Air Conditioning Contractors Association
+* Rob Cook
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 1 ❓ - Other

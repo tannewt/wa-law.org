@@ -1,0 +1,107 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5616](/bill/2023-24/sb/5616/) > [Original Bill](/bill/2023-24/sb/5616/1/)
+
+# SB 5616 - Lived experience
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5616.pdf)
+
+## Section 1
+1. The legislature recognizes that underrepresented populations are often left out of the policy decisions that affect them most. People with direct lived experience with a particular issue are experts in their own lives and experience and are best equipped to find solutions to those issues. The legislature finds that when underrepresented populations are included in policy decision making around issues that directly affect them, the solutions put forward make a greater positive impact on those it seeks to help. As such, the legislature finds that people with lived experience should be included in policy decision making around issues that directly impact them.
+
+2. The legislature finds that certain populations are almost entirely unrepresented in policy making yet are disproportionately impacted by government decisions. For example, self-advocates with developmental disabilities and other marginalized groups are routinely left out of decision making about policies that directly impact them and frequently have their voices substituted for others. The adverse impacts of injustices perpetrated based on race, color, gender, religion, disability, immigration status, language, culture, and other categories are not distinct and isolated, but instead overlap and accumulate and therefore have a cumulative effect on an individual. Access is an equity issue and by addressing barriers to participation for underrepresented populations the greater public will also benefit. A governing body that makes decisions about these communities cannot do so effectively and equitably without the participation and contribution of those from these underrepresented populations who have direct lived experience with the issues being addressed in the policy-making decisions.
+
+3. The legislature recognizes the importance of allies and finds that advocacy efforts should be led by people with direct lived experience. It is not the intention of the legislature to restrict the membership of statutory entities. Instead, the intent is to create space for those historically excluded from policy decision making.
+
+4. Therefore, the legislature intends to ensure meaningful participation from people with direct lived experience on each statutorily created or statutorily mandated multimember task force, work group, advisory committee, board, commission, council, or other similar entity tasked with examining policies or issues that directly and tangibly affect historically underrepresented communities. When people with direct lived experience have a seat at the table, Washington thrives.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Direct lived experience" and "lived experience" has the meaning provided in RCW 43.03.220.
+
+2. "Statutory entity" means any statutorily created or statutorily mandated multimember task force, work group, advisory committee, board, commission, council, or other similar entity, whether independent of an agency or within an agency, tasked with examining policies or issues directly and tangibly affecting a particular underrepresented population. "Statutory entity" does not include legislative select committees or other statutorily created legislative entities composed of only legislative members.
+
+3. "Underrepresented population" means a population group that is more likely to be at higher risk for disenfranchisement, due to adverse socioeconomic factors, such as unemployment, high housing and transportation costs relative to income, effects of environmental harms, limited access to nutritious food and adequate health care, linguistic isolation, and other factors that may be barriers for participating in policy decision making.
+
+## Section 3
+1. The membership of any statutory entity must:
+
+    a. Include individuals from underrepresented populations who have direct lived experience with the identified issue or issues that the statutory entity is tasked with examining as follows:
+
+        i. If two or fewer underrepresented populations are directly and tangibly affected by the specific issue or issues that the statutory entity is tasked with examining, at least two representatives from each directly impacted underrepresented population must be appointed to the statutory entity; and
+
+        ii. If there are three or more underrepresented populations directly and tangibly affected by the specific issue or issues that the statutory entity is tasked with examining, at least one person representing each directly impacted underrepresented population must be appointed to the statutory entity; and
+
+    b. Reflect, to the greatest extent possible, the diversity of people with direct lived experience with the identified issue or issues, including members who reside in urban and rural communities, and with differing cultural and economic circumstances.
+
+2. If the membership requirements under subsection (1) of this section require that additional members be appointed to statutory entities created on or after the effective date of this section, or to existing statutory entities for which new appointments are being made on or after the effective date of this section, the office of equity shall be the appointing authority for the additional members. The additional members shall be voting members of the statutory entity.
+
+3. The statute law committee must include in any published bill drafting guide reference to the requirements in subsection (1) of this section.
+
+4. To promote inclusion and education around the requirements in subsection (1) of this section, the chief clerk of the house of representatives and the secretary of the senate must include in any relevant training material or guidance provided to members of the legislature or legislative staff information that:
+
+    a. Describes the requirements of subsection (1) of this section;
+
+    b. Strongly encourages the inclusion of people with direct lived experience as participants and subject matter experts in committee work sessions;
+
+    c. Describes best practices for providing access to the legislature and the types of accommodations that are available to provide full access to public meetings and other public legislative events for people with direct lived experience; and
+
+    d. Describes any findings made by the office of equity under section 5 of this act.
+
+5. Nothing in this section restricts additional membership of statutory entities.
+
+## Section 4
+1. All statutory entities must report to the office of equity by August 30, 2024, and August 30, 2025, for state fiscal years 2024 and 2025 respectively:
+
+    a. A brief description of the statutory entity's purpose; and
+
+    b. The underrepresented population directly and tangibly impacted by its work, including:
+
+        i. The number of members who are appointed to the statutory entity who have direct lived experience with the specific policy or issue that the statutory entity is tasked with examining;
+
+        ii. Aggregate demographic information provided voluntarily and anonymously by members of the statutory entity including but not limited to disability, race, age, gender, sexual orientation, ethnicity, income, and geographic representation by county;
+
+        iii. An analysis of whether and how implementation of the requirements in section 3 of this act reduced barriers to participation in policy-making decisions by members of underrepresented populations;
+
+        iv. With full participation and leadership from members of the statutory entity who are from an underrepresented population and have direct lived experience, an analysis of how their participation affected the conduct and outcomes of the statutory entity as it accomplished its mission; and
+
+    v. The number of members from an underrepresented population who have direct lived experience who qualified for stipends under RCW 43.03.220, the number of those who requested stipends to support their participation in the statutory entity, and the number who received stipends.
+
+2. The Washington state office of equity must:
+
+    a. Compile and analyze the information received from statutory entities under this section; and
+
+    b. Prepare a report, in compliance with RCW 43.01.036, to the governor and legislature by December 1, 2025. The report must include:
+
+        i. An overall evaluation of the process authorized by section 3 of this act;
+
+        ii. Recommendations for improving the process;
+
+        iii. Recommendations to further decrease barriers to participation; and
+
+        iv. Recommendations to increase the diversity of statutory entity applicants.
+
+## Section 5
+1. By December 1, 2023, and every four years thereafter, the office must:
+
+    a. Consult with community-based organizations, and may consult with state agencies, departments, and offices that support the participation of people from underrepresented populations in policy-making processes who have direct lived experience, to identify:
+
+        i. Barriers to access and meaningful participation by people from underrepresented populations who have direct lived experience in stakeholder engagement conducted by members of the legislature, legislative standing committees, and statutory entities;
+
+        ii. Tools to support access and meaningful participation in stakeholder engagement;
+
+        iii. Modifications to stakeholder engagement processes that promote an increase in access and opportunities for participation in policy-making processes. Any modifications identified may not restrict or otherwise prevent compliance with requirements under federal statute or regulations; and
+
+        iv. Any recommended rule or law changes to promote increased access and participation to the policy-making process; and
+
+    b. Submit a report, in compliance with RCW 43.01.036, to the appropriate committees of the legislature that details its findings under this subsection.
+
+2. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Direct lived experience" and "lived experience" has the meaning provided in RCW 43.03.220.
+
+    b. "Statutory entity" has the meaning provided in section 2 of this act.
+
+    c. "Underrepresented population" has the meaning provided in section 2 of this act.
+
+## Section 6
+This act may be known and cited as the nothing about us without us act.

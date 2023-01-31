@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150194&caId=20993&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150194&caId=20993&tId=4)
 
-#### 8 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - gocougs@billstauffacher.com
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Charlie Brown - Puget Sound Schools Coalition
+* 💵Grace Yuan - Puget Sound Schools Coalition
 
 #### 0 ❓ - Other

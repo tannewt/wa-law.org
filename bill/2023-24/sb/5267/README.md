@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150006&caId=20831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150006&caId=20831&tId=4)
 
-#### 10 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Spenser Sado
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Aaron Hunt  - Union Pacific Railroad
+* Naomi Deines - Union Pacific Railroad
 
 #### 0 ❓ - Other

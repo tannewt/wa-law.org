@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/20 08:00 AM - State Government & Elections (SGE): SB 5268 Public works procurement

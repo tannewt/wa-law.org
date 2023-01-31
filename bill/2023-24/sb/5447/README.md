@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150080&caId=20851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150080&caId=20851&tId=4)
 
-#### 5 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Tom Wolf - bp America
+* 💵Donny Donovan - IAM 751
+* Fred Felleman - Port of Seattle Commissioner
 
-#### 0 👎 - Con
+#### 96 👎 - Con
 
 #### 0 ❓ - Other

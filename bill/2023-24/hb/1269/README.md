@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150044&caId=20956&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150044&caId=20956&tId=4)
 
-#### 25 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* Ronnie Shure - Health Care for All - Washington
+* Jenny Arnold - Washington State Pharmacy Association
 
 #### 0 👎 - Con
 

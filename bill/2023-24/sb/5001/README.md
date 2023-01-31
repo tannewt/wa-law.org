@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Transportation (TRAN): SSB 5001 Public facility districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150430&caId=20805&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150430&caId=20805&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150430&caId=20805&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150430&caId=20805&tId=4)
-
-#### 8 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Jerrilea Crawford - City of East Wenatchee
 * JC Baldwin - Chelan Douglas Regional Port Authority
@@ -23,7 +17,13 @@ Testifying:
 * Jim Huffman - Chelan Douglas Regional Port Authority
 * Jeff Wilkens - Chelan-Douglas Transportation Council
 * Frank Kuntz - City of Wenatchee
+* Dan Sutton 
 * Jerrilea Crawford - City of East Wenatchee
+* Jeffrey Sutton
+* Sasha Sleiman - Chelan County
+* Frank Kuntz - City of Wenatchee
+* Jerrilea Crawford - City of East Wenatchee
+* Paul  Simmons - City of Olympia, Washington Recreation and Parks Association
 
 #### 0 👎 - Con
 

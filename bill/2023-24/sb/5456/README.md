@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30582&aId=150174&caId=20875&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30582&aId=150174&caId=20875&tId=4)
 
-#### 11 👍 - Pro
+#### 40 👍 - Pro
+Testifying:
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Veronica Jarvis - Thurston Regional Planning Council

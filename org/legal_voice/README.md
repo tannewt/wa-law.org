@@ -5,6 +5,9 @@
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 * 👍💵 Yvette Maganya
 
+## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍1  
+* 👍💵 Yvette Maganya
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 * 👍 Alizeh  Bhojani
 

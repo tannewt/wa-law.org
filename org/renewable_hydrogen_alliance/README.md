@@ -8,3 +8,7 @@
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport. 👍1  
 * 👍 Michelle Detwiler
+
+## [SB 5431](/bill/2023-24/sb/5431/) - Zero emission school buses 👍1  
+
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  

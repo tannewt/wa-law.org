@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Education (ED): HB 1479 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150051&caId=20930&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150051&caId=20930&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150051&caId=20930&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30559&aId=150051&caId=20930&tId=4)
-
-#### 82 👍 - Pro
+#### 202 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Kristina De Vadder - Seattle Special Education PTSA
@@ -24,10 +18,27 @@ Testifying:
 * 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Karen Pillar - Team Child
 * Mina Barahimi Martin - ACLU of Washington
+* 💵Diana Stadden - The Arc of WA State
+* Sebrena Burr
+* Ashley Salazar - Parent of student
+* 💵Eric Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
+* Ann Moline
+* Emma Van der Klift
+* Guy Stevens - Alliance Against Seclusion & Restraint
+* Hannah Phelps - Former Paraeducator
 * Janis White - Seattle Special Education PTSA
+* Lee Collyer - Office of Superintendent of Public Instruction
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* Tracy Kahlo - PAVE
+* April Ferguson
+* Tanya Aggar - Washington State PTA
 
-#### 3 👎 - Con
+#### 24 👎 - Con
+Testifying:
+* Jeffrey Kalles - Lilac City Behavioral Services, PLLC
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Dr. John  Parker  - Central Valley School Districts

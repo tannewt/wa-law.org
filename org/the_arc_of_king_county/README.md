@@ -43,7 +43,10 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+* 👍💵 Eric Warwick
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
@@ -74,6 +77,8 @@
 
 ## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
 
+## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
+
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓1
 * ❓💵 Ramona Hattendorf
 
@@ -83,3 +88,10 @@
 ## [SB 5397](/bill/2023-24/sb/5397/) - Preserving public benefit payments to people in the care of the department of children, youth, and families. 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍2  
+
+## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
+
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+
+## [SB 5506](/bill/2023-24/sb/5506/) - Behavior support homes   ❓1
+* ❓💵 Ramona Hattendorf

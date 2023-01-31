@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149957&caId=20815&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149957&caId=20815&tId=4)
 
-#### 5 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Aliya Zafer
+* Neriza mercado - WAIMG
+* Nadeem  Mian - Puget Sound Psychiatric Center
 * Khalid Ahmed - 10634 East Riverside Drive
+* Hala Alyasiri - Washington Academy for International Medical Graduates
+* Mohamed  Khalif - Washington Academy for International Medical Graduates
+* Narayan Chaudhary 
+* Sadaf Amir
+* Fatima Mirza  - Washington Medical Commission
 
 #### 0 👎 - Con
 

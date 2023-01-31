@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30614&aId=150309&caId=20976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30614&aId=150309&caId=20976&tId=4)
 
-#### 1 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Michael Furze - Department of Commerce
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

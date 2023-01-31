@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150005&caId=20830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150005&caId=20830&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Bruce Beckett - Wa. Retail Association
 
 #### 0 ❓ - Other

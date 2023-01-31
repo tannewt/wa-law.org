@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150383&caId=20917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150383&caId=20917&tId=4)
 
-#### 15 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* Nina Martinez - Latino Civic Alliance
+* Katherine Cleland - National Coalition to End Child Marriage
+* Megan Allen - King County Sexual Assault Resource Center
+* Sara Tasneem - n/a
+* Theresa Harris
 
 #### 0 👎 - Con
 

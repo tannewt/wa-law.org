@@ -14,10 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149955&caId=20813&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149955&caId=20813&tId=4)
 
-#### 0 👍 - Pro
+#### 237 👍 - Pro
+Testifying:
+* OD, Jeffrey Mattson - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* OD, Melissa Dacumos - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* OD, Nicholas Jankowski - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* O.D., Justin Dalke - Valley Vision Clinic
+* O.D., Paul Barney - Pacific Cataract Laser Institute
+* O.D., Rachel Spillane - Everett Optometry
+* Dr. Stan Flemming - Pacific Medical Specialty Group
 
-#### 426 👎 - Con
+#### 847 👎 - Con
 Testifying:
 * Constance Smith
+* Courtney  Francis MD - Wa. Academy of Eye Physicians and Surgeons
+* 💵Lisa Thatcher - Wa. Academy of Eye Physicians and Surgeons
+* Stephanie Cramer MD - Wa. Academy of Eye Physicians and Surgeons
+* Aaron Weingeist MD - Wa. Academy of Eye Physicians and Surgeons
+* Chris Bandoli - Wa. Academy of Eye Physicians and Surgeons
+* Christopher Chambers MD - Wa. Academy of Eye Physicians and Surgeons
+* Alyssa Bonnell MD - Univ of WA Ophthalmology Resident
 
 #### 2 ❓ - Other

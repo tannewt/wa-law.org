@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=150341&caId=20873&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=150341&caId=20873&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Michele Radosevich - Uniform Law Commission
+* Mercer May - Teladoc Health
 
-#### 6 👎 - Con
+#### 19 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Micah  Matthews  - Washington Medical Commission

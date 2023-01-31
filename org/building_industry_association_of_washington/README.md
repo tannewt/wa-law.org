@@ -24,8 +24,17 @@
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 * 👍💵 Josie Cummings
 
+## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
+* 👍💵 Bill Stauffacher
+
+## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations 👍1  
+* 👍💵 Bill Stauffacher
+
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 * 👍💵 Josie Cummings
+
+## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials  👎1 
+* 👎💵 Josie Cummings
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
@@ -36,7 +45,34 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎1 
 
+## [HB 1393](/bill/2023-24/hb/1393/) - Journey level electricians 👍1  
+* 👍💵 Josie Cummings
+
+## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process 👍1  
+* 👍💵 Bill Stauffacher
+
+## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries 👍1  
+* 👍💵 Josie Cummings
+
+## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access 👍1  
+* 👍💵 Josie Cummings
+
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎1 
+
+## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
+* 👍💵 Bill Stauffacher
+
+## [HB 1476](/bill/2023-24/hb/1476/) - Impact fees/law enforcement  👎1 
+* 👎💵 Bill Stauffacher
+
+## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
+
+## [HB 1569](/bill/2023-24/hb/1569/) - Common interest communities  👎2 
+
+## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
+* 👎💵 Bill Stauffacher
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 * 👍💵 Josie Cummings
@@ -81,4 +117,20 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
 * 👎💵 Bill Stauffacher
 
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
+* 👍💵 Josie Cummings
+
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+* 👍💵 Josie Cummings
+
+## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
+* 👍💵 Josie Cummings
+
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
+
+## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
+
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
+* 👍💵 Josie Cummings

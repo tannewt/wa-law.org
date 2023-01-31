@@ -2,6 +2,8 @@
 
 ## [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
@@ -15,6 +17,8 @@
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
 ## [HB 1163](/bill/2023-24/hb/1163/) - Leasehold tax/arenas 👍1  
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=4)
 
-#### 60 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Evelyn Roehn
 * Joseph Gabriel Burke - [Washington Student Association](/org/washington_student_association/)
@@ -25,6 +25,16 @@ Testifying:
 * Madeline  Sprute - Tacoma Community College
 * Martell Naranjo - Tacoma Community College
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Michelle  Carrillo - 13th LD
+* 💵Joel Anderson - Uniersity of Washington Graduate and Professional Student Senate
+* 💵Nora Selander - Western Washington University
+* Sandy Kaiser - The Evergreen State College
+* Emily Portillo - United Way of King County
+* Candice Wheeler
+* Jackson Feaster
+* Grace Booras
+* Eden McDade - South Puget Sound Community College - Student
+* Sopeara Chay - South Puget Sound Community College
 
 #### 0 👎 - Con
 

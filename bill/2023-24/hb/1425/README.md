@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150198&caId=20997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150198&caId=20997&tId=4)
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Megan Dunn - Snohomish County
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lisa Brandl - Deputy City Manager, City of Vancouver
+* 💵Brian Enslow - [City of Lacey](/org/city_of_lacey/)
+* 💵Debora Munguia - [City of Shoreline](/org/city_of_shoreline/)
 
 #### 0 👎 - Con
 

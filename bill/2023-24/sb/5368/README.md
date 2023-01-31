@@ -16,9 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5368 Stay-at-work program
 #### 9 👍 - Pro

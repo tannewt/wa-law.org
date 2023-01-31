@@ -20,3 +20,7 @@
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 5560](/bill/2023-24/sb/5560/) - Older driver safety 👍1  
+
+## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍1  

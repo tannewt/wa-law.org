@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150043&caId=20955&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150043&caId=20955&tId=4)
 
-#### 12 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Eric Konnick
+* Katie Kolan - WSMOS
+* Matt Helder - ACS CAN
+* Robin Sparks
+* Dr. Jay Lopez - Swedish Cancer Institute
+* Kristina Stolte
+* Osta Davis
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 0 ❓ - Other

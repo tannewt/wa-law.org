@@ -2,6 +2,8 @@
 
 ## [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access 👍1  
 
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
@@ -20,6 +22,8 @@
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use  👎1 
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 
@@ -41,6 +45,8 @@
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
+## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
+
 ## [HB 1254](/bill/2023-24/hb/1254/) - Periodic adjustments/DOR  👎2 
 * 👎💵 Peter Godlewski
 * 👎 Emily Shay
@@ -50,6 +56,8 @@
 ## [HB 1284](/bill/2023-24/hb/1284/) - Real estate agency 👍1  
 
 ## [HB 1289](/bill/2023-24/hb/1289/) - Opportunity scholarship 👍1  
+
+## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations 👍1  
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 
@@ -71,6 +79,8 @@
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 * 👍 Mike Ennis
 
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎1 
 * 👎 Mike Ennis
 
@@ -83,14 +93,28 @@
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process 👍1  
+
+## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
+
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen.  👎1 
 * 👎💵 Peter Godlewski
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
+* 👍 Mike Ennis
+
+## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
+* ❓ Mike Ennis
+
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
+
+## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
+
+## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -140,6 +164,9 @@
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 * 👍 Mike Ennis
 
+## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎1 
+* 👎 Mike Ennis
+
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
@@ -176,5 +203,17 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
 
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+* 👍 Mike Ennis
+
+## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
+* 👍 Mike Ennis
+
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Dave Mastin
+
+## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  
+
+## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank  👎1 
+
+## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍1  

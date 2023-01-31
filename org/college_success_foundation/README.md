@@ -24,7 +24,11 @@
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
 
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 

@@ -11,6 +11,8 @@
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍1  
 * 👍💵 Nasue Nishida
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
@@ -21,7 +23,7 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts  👎1 
 
@@ -34,6 +36,8 @@
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 * 👍💵 Nasue Nishida
+
+## [HB 1122](/bill/2023-24/hb/1122/) - WMS bargaining 👍1  
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
@@ -107,8 +111,14 @@
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
 * 👍💵 Julie Salvi
 
+## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
+
+## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
+
 ## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍1  
 * 👍💵 Nasue Nishida
+
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities   ❓1
 * ❓ Jared Mason-Gere
@@ -116,6 +126,8 @@
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍1  
 
 ## [HB 1321](/bill/2023-24/hb/1321/) - Ambulance transport fund 👍1  
+
+## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍1  
 
 ## [HB 1338](/bill/2023-24/hb/1338/) - Concerning education and vocational programs in state correctional institutions. 👍1  
 
@@ -138,23 +150,42 @@
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍1  
 
+## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
+
+## [HB 1430](/bill/2023-24/hb/1430/) - DCYF-caregiver communication 👍1  
+
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍1  
+
+## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI 👍1  
 
 ## [HB 1459](/bill/2023-24/hb/1459/) - PERS & TRS plan 1 adjustment 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
+## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
+
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
+
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+
+## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties 👍1  
 
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs.   ❓1
 * ❓💵 Simone Boe
 
-## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍2  
 * 👍💵 Simone Boe
+
+## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers 👍1  
+
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 
+* 👎💵 Nasue Nishida
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 * 👍💵 Simone Boe
+
+## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
@@ -162,6 +193,10 @@
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 * 👍💵 Nasue Nishida
+
+## [SB 5071](/bill/2023-24/sb/5071/) - Purple star designation 👍1  
+
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍1  
 
@@ -204,7 +239,7 @@
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
@@ -239,6 +274,8 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 * 👍 Roni Cook
 
+## [SB 5344](/bill/2023-24/sb/5344/) - Public school revolving fund 👍1  
+
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
 ## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍1  
@@ -247,14 +284,23 @@
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
+## [SB 5403](/bill/2023-24/sb/5403/) - Establishing school district depreciation subfunds for the purposes of preventative maintenance.  👎1 
+
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech 👍1  
 
 ## [SB 5420](/bill/2023-24/sb/5420/) - Plan 2 members/insurance 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+
+## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
+
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+* 👍💵 Nasue Nishida
+
 ## [SB 5507](/bill/2023-24/sb/5507/) - Tenure-track faculty 👍1  
 
-## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
+## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍2  
 
 ## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍1  

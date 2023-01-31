@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150507&caId=21032&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150507&caId=21032&tId=4)
 
-#### 25 👍 - Pro
+#### 199 👍 - Pro
+Testifying:
+* Max Puchtel - American Institute of Steel Construction
+* Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 
-#### 0 👎 - Con
+#### 29 👎 - Con
+Testifying:
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* Rachael Jamison - [American Wood Council](/org/american_wood_council/)
+* 💵Bruce Chattin - WA Aggregates & Concrete Assn
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tien Peng - National Ready Mixed Concrete Association
+* Stacy Smedley - Building Transparency

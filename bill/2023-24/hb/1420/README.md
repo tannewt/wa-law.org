@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150382&caId=20916&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150382&caId=20916&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Mike Kot - WA Mortgage Bankers Association
+* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
 #### 0 👎 - Con
 

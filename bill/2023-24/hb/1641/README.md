@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150546&caId=21045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150546&caId=21045&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 8 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
 * Drew  Davis - Mountain Hi
 * 💵Ezra Eickmeyer - Producers NW
+* Ramsey Doudar - Patients & Users for Reasonable Policy
 
 #### 0 ❓ - Other

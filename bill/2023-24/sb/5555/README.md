@@ -16,9 +16,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 8 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Jeanette Barnes
 * Lorrin Gehring - The Rainbow Makers
+* Evelyn Clark
+* Gabriel Hamilton - I am a certified youth peer councilor and and have become a peer specialist.
 
 #### 0 ❓ - Other

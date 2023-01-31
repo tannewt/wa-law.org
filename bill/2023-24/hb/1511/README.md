@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150247&caId=20970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150247&caId=20970&tId=4)
 
-#### 0 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* Amanda Hammond
+* 💵April Messenger - Washington State Parent Ambassadors
+* Jessica Heavner
 
 #### 0 👎 - Con
 

@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150405&caId=20848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150405&caId=20848&tId=4)
 
-#### 23 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Jeremiah Bourgeois - Freedom Project WA
 * Jeffrey  Ellis - Redemption Project of WA
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Vidal Vincent
+* Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

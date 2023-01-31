@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150280&caId=20842&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150280&caId=20842&tId=4)
 
-#### 0 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* Case  VanderMeulen - [Darigold](/org/darigold/)
+* Kristi Kangas - [Darigold](/org/darigold/)
+* Russ Brandt - [Darigold](/org/darigold/)
+* Sheri  Call - Washington Trucking Associations
 
 #### 0 👎 - Con
 

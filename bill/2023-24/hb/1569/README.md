@@ -14,15 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Raelene Schifano
 * Peggy Maze Johnson
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
 * Sherry Stacy
+* Linda Yue
+* Candace Carteen - Surfside HOA homeowner
+* Dannetta Garcia
 
-#### 314 👎 - Con
+#### 449 👎 - Con
 Testifying:
 * Jeffery Isrel
+* MaryAnn Smith - self
+* Patrick McDonald - Washington State Chapter of Community Association Institute
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Laila Possani

@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=4)
 
-#### 3 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
+* Karen Ferguson - Our Stories Rx
 
 #### 1 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner

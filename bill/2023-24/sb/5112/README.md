@@ -9,18 +9,17 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Transportation (TRAN): SSB 5112 Voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150276&caId=20804&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150276&caId=20804&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150276&caId=20804&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30596&aId=150276&caId=20804&tId=4)
-
-#### 115 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Caron Cargill - CSME & WVJC
+* Julie Wise - King County Director of Elections
+* 💵Alex Tischenko - Center for Secure & Modern Elections
 
-#### 2 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* Erika Clough
 
 #### 0 ❓ - Other
 

@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150244&caId=20967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150244&caId=20967&tId=4)
 
-#### 54 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Jessi Wasson - Inspire Washington
 * Jocelyn  Cain
 * Putter Bert - KidsQuest Children's Museum
+* Nina Martinez - Latino Civic Alliance
+* 💵David Beard - School's Out Washington
+* Emily Sharwark-Todd - Youth with Boys & Girls Clubs of Thurston County
+* Katya  Miltimore - Boys & Girls Clubs of Washington State
+* Mady Sandoval - Foundation for Youth Resiliency and Engagement (FYRE)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149979&caId=20828&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30543&aId=149979&caId=20828&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Sonja Hardenbrook
 * Kari Reardon - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
+* Shoshana Kehoe-Ehlers - Washington State Office of Public Defense
+* Jennifer Bartlett
 
 #### 0 👎 - Con
 

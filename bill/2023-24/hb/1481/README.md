@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1481 Tribal peace officers/LEOFF
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150141&caId=20911&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150141&caId=20911&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150141&caId=20911&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30576&aId=150141&caId=20911&tId=4)
-
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Chris Sutter - Tulalip Tribes of WA
+* Misty Napeahi - Tulalip Tribes of WA
 
 #### 0 👎 - Con
 

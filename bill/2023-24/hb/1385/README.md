@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150381&caId=20915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150381&caId=20915&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Toshiko Hasegawa - Port of Seattle Commissioner
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* matt zuvich - Office of State Treasurer
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Michele  Walker - City of Kent City Attorney's Office
 * JOHN Worthington - AAMC

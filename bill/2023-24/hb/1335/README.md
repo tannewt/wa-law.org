@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150380&caId=20914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150380&caId=20914&tId=4)
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Governor Jay Inslee
+* Gavin Downing
+* Sybill Hppolite - [Washington State Labor Council](/org/washington_state_labor_council/)
+* 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
+* Brett Gailey - Mayor, City of Lake Stevens
+* Miri Cypers - Anti-Defamation League
+* Paul  Schneider - Spokane Human Rights Task Force
+* Bill  Mowat - Jewish Community Relations Council
 
 #### 0 👎 - Con
 

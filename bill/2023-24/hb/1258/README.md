@@ -14,7 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=4)
 
-#### 10 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* John Cooper - Yakima Valley Tourism
+* David Blandford - State of Washington Tourism
+* Shelly Stevens - 3376 Cottonwood Creek Road
+* John Cooper - Tourism Yakima Valley
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Fred Felleman - Port of Seattle Commissioner
 
 #### 0 👎 - Con
 

@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150545&caId=21044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150545&caId=21044&tId=4)
 
-#### 30 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Antonio McAfee
 * Leslie La Duke Banionis
+* Kevin  Oliver - NORML
+* Burl  Bryson - executive director -The Cannabis Alliance
+* John  Kingsbury
 
 #### 0 👎 - Con
 

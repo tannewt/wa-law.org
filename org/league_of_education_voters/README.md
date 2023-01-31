@@ -6,6 +6,18 @@
 
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
 
+## [HB 1386](/bill/2023-24/hb/1386/) - Youth development grants 👍1  
+
+## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
+
+## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
