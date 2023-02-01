@@ -14,14 +14,15 @@
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints  👎1 
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 * 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
 
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍2  
 * 👍 Samantha  Louderback
+* 👍💵 Samantha Louderback
 
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  
 * 👍💵 Riley Smith

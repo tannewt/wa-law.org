@@ -14,13 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=4)
 
-#### 8 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Dane Austreng - SEIU Healthcare 1199NW
+* Anna Nikolaeva Olson - State Board for Community and Technical Colleges
+* Marriya  Wright - South Puget Sound Community College
+* 💵Ashlen Strong - Washington State Hospital Association
+* 💵Katharine Weiss - Washington State Nurses Association
+* Dustin Lambro - UFCW 3000
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Paula Meyer - Nursing Care Quality Assurance Commission
 * Paula Meyer - WA State Nursing Care Quality Assurance Commission
 * Sharon Fought - WA State Nursing Care Quality Assurance Commission
 * Tiffany Smith-Fromm - WA State Nursing Care Quality Assurance Commission
+* Sharon Fought - WA State Nursing Care Quality Assurance Commission
+* Chris Mulick - Washington State University
+* Mary Koithan - Dean, WSU College of Nursing
+* Donald Smith - Workforce Board
+* Terry Westhoff - Washington State Department of Veterans Affairs

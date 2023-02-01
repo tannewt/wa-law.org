@@ -14,15 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150435&caId=20852&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150435&caId=20852&tId=4)
 
-#### 155 👍 - Pro
+#### 275 👍 - Pro
 Testifying:
 * Councilmember Lisa Parshley - Olympia City Council
 * Kelly Jiang
+* Mendy Droke - Seattle City Light
+* Ken Johnson - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 1 👎 - Con
+#### 147 👎 - Con
+Testifying:
+* 💵John Rothlin - Avista
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * JOHN Worthington
 * Anna Lising - Governor's Office
 * Dave Danner - Utilities & Transportation Commission
+* john Worthington - AAMC
+* Charlie Brown - NW Natural and Cascade Natural Gas
+* Lauren McCloy - NW Energy Coalition
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)

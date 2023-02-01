@@ -6,3 +6,5 @@
 * 👍 brian enslow
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  

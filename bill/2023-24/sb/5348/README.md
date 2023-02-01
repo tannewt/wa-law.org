@@ -8,15 +8,12 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Labor & Commerce (LC): SB 5348 Distribution centers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150005&caId=20830&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150005&caId=20830&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150005&caId=20830&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150005&caId=20830&tId=4)
+#### 9 👍 - Pro
+Testifying:
+* John Scearcy - Teamsters Local 117
+* Will Buff - Teamsters 117
 
-#### 5 👍 - Pro
-
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * 💵Bruce Beckett - Wa. Retail Association

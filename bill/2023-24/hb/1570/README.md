@@ -18,4 +18,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Daniel Zeitlin - WA State Employment Security Dept
+* Caitlyn Jekel - WA State Employment Security Dept

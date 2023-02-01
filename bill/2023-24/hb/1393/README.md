@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Labor & Workplace Standards (LAWS): HB 1393 Journey level electricians
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150151&caId=20981&tId=4)
-
-#### 360 👍 - Pro
+#### 394 👍 - Pro
 Testifying:
 * 💵Sophia Steele - Associated Builders and Contractors
 * Brandon Perasso
@@ -51,14 +45,21 @@ Testifying:
 * Hans Frederickson - Frederickson Electric, Inc.
 * Kevin Diefenbach
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Kelli Krause - Elite Electrical Contractors, Inc.
+* Bryson  Yoro
+* Justin Hauck
+* Nathan Turner - Washington State Electrical Contractors Association
+* Zach Stockwell
 * Scott Smasal - Extra Mile Tech & Electrical
 * Michael Arnes
+* Erik Gaskell - All Phase Electric
+* Christian Eaglehead - EWMC Frederick Simmons Chapter
 
-#### 34 👎 - Con
+#### 41 👎 - Con
 Testifying:
 * Nicole Grant - IBEW 46
 * Halene Sigmund - Construction Industry Training Council of WA
 * 💵Brad Boswell - Construction Industry Training Council of WA
 * 💵Matthew Hepner - IBEW
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

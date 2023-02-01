@@ -74,6 +74,8 @@
 
 ## [HB 1261](/bill/2023-24/hb/1261/) - Breast exam cost sharing 👍1  
 
+## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
+
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
 ## [HB 1300](/bill/2023-24/hb/1300/) - Assisted reproduction fraud 👍1  
@@ -94,7 +96,15 @@
 
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍1  
 
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+
+## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries  👎1 
+
+## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access  👎1 
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
 
@@ -105,6 +115,8 @@
 ## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
+
+## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
@@ -120,7 +132,11 @@
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍1  
 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
+## [HB 1531](/bill/2023-24/hb/1531/) - Aerospace industry dev. 👍1  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
@@ -264,3 +280,5 @@
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍2  
 * 👍💵 Michael White
+
+## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  

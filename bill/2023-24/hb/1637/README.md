@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150602&caId=21063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150602&caId=21063&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Chip Goss
 * DENISE Rodriguez - WA Homeownership Resource Center
+* Guy Beckett - Berry & Beckett, PLLP
+* Justin Thomas
+* Heidi Anderson - WA State Attorney General's Office
 
 #### 0 👎 - Con
 

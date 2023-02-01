@@ -21,7 +21,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 01/11 01:30 PM - Health Care & Wellness (HCW): HB 1039 Intramuscular needling
 #### 0 👍 - Pro

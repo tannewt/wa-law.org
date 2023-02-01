@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=4)
 
-#### 229 👍 - Pro
+#### 297 👍 - Pro
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
+* 💵Donny Donovan - IAM 751
+* John Cross - American Institute of Steel Construction
 
-#### 16 👎 - Con
+#### 21 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Stacy Smedley - Building Transparency

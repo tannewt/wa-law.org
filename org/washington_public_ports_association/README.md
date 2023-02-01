@@ -23,6 +23,15 @@
 
 ## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
 
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
+* 👍 Chris Herman
+
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures   ❓1
+* ❓💵 John Stuhlmiller
+
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎1 
+* 👎 Chris Herman
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric  ffitch
 
@@ -61,6 +70,9 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures   ❓1
 * ❓💵 John Stuhlmiller
+
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+* 👍 Eric ffitch
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 

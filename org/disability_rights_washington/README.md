@@ -2,6 +2,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
+
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍1  
@@ -11,12 +13,18 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
+
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 * 👍💵 Andrea Kadlec
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+
+## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 

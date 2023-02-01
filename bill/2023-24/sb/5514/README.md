@@ -8,17 +8,20 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5514 Right turns
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150279&caId=20841&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150279&caId=20841&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150279&caId=20841&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150279&caId=20841&tId=4)
-
-#### 408 👍 - Pro
+#### 485 👍 - Pro
 Testifying:
 * Chris Jones
 * Judy Jones
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* David Jones - Cooper Jones Active Transportation Safety Council
+* Sara Kiesler
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Stefanie Randolph
+* Jaime Torres
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 5 👎 - Con
+#### 25 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission

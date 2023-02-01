@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150459&caId=21025&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150459&caId=21025&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jim West
 * KAREN RIES
+* Leo Emerson
 * Leslie McQuistin
 * Stirling Smith
+* Marty Campbell - Pierce County Council District 5
 
 #### 0 👎 - Con
 

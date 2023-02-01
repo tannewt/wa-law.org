@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - State Government & Elections (SGE): SB 5459 Election info. requests
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150318&caId=20837&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150318&caId=20837&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150318&caId=20837&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150318&caId=20837&tId=4)
-
-#### 19 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
 
-#### 81 👎 - Con
+#### 231 👎 - Con
 Testifying:
 * Debra  Dassler 
+* Suzanne Rohner
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * eric pratt - I, America
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters

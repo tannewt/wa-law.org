@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1552 Urban agriculture study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30562&aId=150067&caId=20902&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30562&aId=150067&caId=20902&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30562&aId=150067&caId=20902&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30562&aId=150067&caId=20902&tId=4)
-
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Ezra Eickmeyer - Abundant Living Landscapes
 * Ron Shultz - WA State Conservation Commission

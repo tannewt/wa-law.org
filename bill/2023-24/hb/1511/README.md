@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1511 Income/child care programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150247&caId=20970&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150247&caId=20970&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150247&caId=20970&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150247&caId=20970&tId=4)
-
-#### 31 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * Amanda Hammond
 * 💵April Messenger - Washington State Parent Ambassadors
 * Jessica Heavner
+* Christina Griffin - [Child Care Resources](/org/child_care_resources/)
+* Lori Buchsbaum
 
 #### 0 👎 - Con
 

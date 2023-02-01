@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150599&caId=21060&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150599&caId=21060&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Michelle DeLappe
+* Norman Bruns
+* Heath Curtiss - Hampton Lumber
 
 #### 0 👎 - Con
 

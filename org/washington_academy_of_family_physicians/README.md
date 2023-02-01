@@ -9,3 +9,7 @@
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
+
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+
+## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement  👎1 

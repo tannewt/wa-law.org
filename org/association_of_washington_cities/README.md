@@ -92,6 +92,9 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Candice Bock
 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
+* 👎💵 Candice Bock
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1

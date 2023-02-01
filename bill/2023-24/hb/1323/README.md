@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Labor & Workplace Standards (LAWS): HB 1323 Fire-resistant materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150150&caId=20980&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150150&caId=20980&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150150&caId=20980&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30579&aId=150150&caId=20980&tId=4)
-
-#### 52 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * AJ Johnson - WSCFF
 * Brian Sykes
 * Ray  Dumas - OPCMIA Local 528
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Todd Mitchell - Heat and Frost Insulators L 7
 
-#### 17 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Assn./WA Air Conditioning Contractors Association
 * Rob Cook

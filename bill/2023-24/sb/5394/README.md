@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5394 Medical graduate supervisors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149957&caId=20815&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149957&caId=20815&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149957&caId=20815&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149957&caId=20815&tId=4)
-
-#### 18 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Aliya Zafer
 * Neriza mercado - WAIMG
@@ -22,9 +16,11 @@ Testifying:
 * Khalid Ahmed - 10634 East Riverside Drive
 * Hala Alyasiri - Washington Academy for International Medical Graduates
 * Mohamed  Khalif - Washington Academy for International Medical Graduates
+* Dr. Stan Flemming - Pacific Medical Specialty Group
 * Narayan Chaudhary 
 * Sadaf Amir
 * Fatima Mirza  - Washington Medical Commission
+* Oksana  Nesterenko 
 
 #### 0 👎 - Con
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Health Care & Wellness (HCW): HB 1435 Home care safety net assess.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150042&caId=20954&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150042&caId=20954&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150042&caId=20954&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150042&caId=20954&tId=4)
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Madeleine Foutch - SEIU 775
 * 💵Brad Banks - Home Care Coalition

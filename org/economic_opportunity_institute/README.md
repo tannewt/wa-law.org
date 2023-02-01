@@ -9,6 +9,8 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
+## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
+
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
 ## [HB 1339](/bill/2023-24/hb/1339/) - Insurance premium tax rate  👎1 
@@ -16,6 +18,9 @@
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+* 👍 Sam Hatzenbeler
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 

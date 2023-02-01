@@ -64,7 +64,14 @@
 ## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process   ❓1
 * ❓💵 Paul Jewell
 
+## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries 👍1  
+
+## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access 👍1  
+
 ## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
+* 👍💵 Paul Jewell
+
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 * 👍💵 Paul Jewell
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice   ❓1
@@ -86,6 +93,8 @@
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
 * 👎💵 Paul Jewell
+
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel   ❓1
 * ❓💵 Juliana Roe

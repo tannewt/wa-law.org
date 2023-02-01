@@ -15,6 +15,8 @@
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.   ❓1
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm.  👎1 

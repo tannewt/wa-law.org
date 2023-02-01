@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150546&caId=21045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150546&caId=21045&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Beatriz  Carlini - [University of Washington](/org/university_of_washington/)
 
-#### 12 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
 * Drew  Davis - Mountain Hi
 * 💵Ezra Eickmeyer - Producers NW
 * Ramsey Doudar - Patients & Users for Reasonable Policy
+* Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
 #### 0 ❓ - Other

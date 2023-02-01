@@ -21,13 +21,7 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Tue 01/31 04:00 PM - Environment & Energy (ENVI): HB 1554 Lead impacts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150452&caId=21023&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150452&caId=21023&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150452&caId=21023&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30594&aId=150452&caId=21023&tId=4)
-
-#### 28 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Lisa Rivera Smith
 * Holly Krejci  - KCIACC
@@ -35,10 +29,22 @@ Testifying:
 * Velma  Veloria
 * Ali  Lee
 * Christian Poulsen - Duwamish River Community Coalition, King County International Airport Community Coalition
+* Brandon Bowersox-Johnson
+* Jeffry Berner
+* Ursula Euler
+* Tim Gould
+* Shirlee Tan - Public Health - Seattle & King County
 
-#### 155 👎 - Con
+#### 616 👎 - Con
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 * 💵Warren Hendrickson - Washington State Aviation Alliance
+* John Dobson - Washington State Aviation Alliance
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Stephen Ratzlaff - Friends of Boeing Field
 
-#### 0 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* 💵Eric Johnson - Aviation Director, WSDOT
+* Adam Eitmann - Washington State Department of Ecology
+* Holly Davies - Washington State Department of Health

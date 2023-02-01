@@ -17,4 +17,6 @@
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 
+## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
+
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  

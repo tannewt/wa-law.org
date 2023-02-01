@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30571&aId=150098&caId=21001&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30571&aId=150098&caId=21001&tId=4)
 
-#### 26 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Maud Daudon - Career Connect Washington
 * Laura  Hopkins - SEIU 1199NW Multi-Employer Training Fund
@@ -29,8 +29,12 @@ Testifying:
 * Alka Manchanda - Computing For All
 * Bryan Orihuela  - Computing For All
 * 💵Rose Gundersen - WA Retail Association
+* Brittany Skobel
+* Sabrina Chmelir
+* Spencer Palaki
+* Heather Hudson - Washington Student Achievement Council
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1322 Walla Walla water 2050 plan

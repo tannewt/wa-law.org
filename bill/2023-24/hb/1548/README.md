@@ -14,9 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150158&caId=20988&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150158&caId=20988&tId=4)
 
-#### 36 👍 - Pro
+#### 60 👍 - Pro
+Testifying:
+* Luke Edington - General Chairman, SMART Transportation Division
+* Bruce Smith - P.O. BOX 304
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Aaron Hunt  - Union Pacific Railroad
+* Maqui Parkerson - Union Pacific Railroad
+* 💵Johan Hellman - BNSF Railway
+* Sam Macedonio - BNSF Railway
 
 #### 1 ❓ - Other
 Testifying:

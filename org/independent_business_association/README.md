@@ -12,6 +12,9 @@
 ## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
 * 👍💵 James King
 
+## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
+* 👎💵 James King
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 James King
 

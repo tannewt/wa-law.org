@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Housing (HOUS): HB 1350 Multifamily unit conversion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150356&caId=20965&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150356&caId=20965&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150356&caId=20965&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150356&caId=20965&tId=4)
-
-#### 22 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Briahna Murray - Urban Housing Ventures, contract lobbyist
 * Marc Angelillo - Urban Housing Ventures

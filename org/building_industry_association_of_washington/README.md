@@ -67,6 +67,9 @@
 ## [HB 1476](/bill/2023-24/hb/1476/) - Impact fees/law enforcement  👎1 
 * 👎💵 Bill Stauffacher
 
+## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary  👎1 
+* 👎💵 Jan Himebaugh
+
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
 ## [HB 1569](/bill/2023-24/hb/1569/) - Common interest communities  👎2 
@@ -132,5 +135,6 @@
 
 ## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
 
-## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍2  
 * 👍💵 Josie Cummings
+* 👍💵 Jan Himebaugh

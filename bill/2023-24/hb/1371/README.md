@@ -8,21 +8,19 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Finance (FIN): HB 1371 Freight railroad infra.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150030&caId=20948&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150030&caId=20948&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150030&caId=20948&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150030&caId=20948&tId=4)
-
-#### 32 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Cynthia Stewart - League of Women Voters of WA
 * Eric Temple - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
+* Jeff Van Schaick - Jaguar Transport Holdings
+* Ross Lane - [Puget Sound & Pacific Railroad](/org/puget_sound_&_pacific_railroad/)
+* Ryan Pidde - Mickelson & Company LLC
 * 💵Patrick Boss - Columbia Basin Railroad / Central Washington Railroad
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Adam LeMieux - [Port of Everett](/org/port_of_everett/)

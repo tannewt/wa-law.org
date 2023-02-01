@@ -14,11 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150044&caId=20956&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150044&caId=20956&tId=4)
 
-#### 104 👍 - Pro
+#### 737 👍 - Pro
 Testifying:
 * Ronnie Shure - Health Care for All - Washington
 * Jenny Arnold - Washington State Pharmacy Association
+* Jessie Polin - Washington CAN
+* Cathy McCaul - AARP
+* Claire Symons - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
+* Linda Moran - MS Patient
+* Jessica Allston - Insulin4all Washington
+* 💵Seth Greiner - National MS Society
+* Jim Freeburg - Patient Coalition of Washington
 
-#### 0 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Brian Warren - BIO
+* 💵Marc Cummings - [Life Science Washington](/org/life_science_washington/)
+* 💵Michael Transue - [Oregon Biosciences Association](/org/oregon_biosciences_association/)
+* Dharia McGrew - PhRMA
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* Drew Gattine - National Academy for State Health Policy (NASHP)

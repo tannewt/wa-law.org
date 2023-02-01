@@ -13,9 +13,13 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
+
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care   ❓1
 * ❓ Lynda Hall

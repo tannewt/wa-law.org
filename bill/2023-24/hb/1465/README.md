@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=4)
 
-#### 12 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Karen Ferguson - Our Stories Rx
+* Erin Callahan - Diabetes Patient Advocacy Coalition
+* Dharia McGrew - PhRMA
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
+* Fred Brown - President, National Labor Alliance of Healthcare Coalitions
+* Chris Bandoli - America's Health Insurance Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 1 ❓ - Other
 Testifying:

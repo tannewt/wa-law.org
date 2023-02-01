@@ -4,7 +4,8 @@
 * ❓💵 Joren Clowers
 * ❓💵 Joren Clowers
 
-## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍1  
+## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍2  
+* 👍💵 Joren Clowers
 * 👍💵 Joren Clowers
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1

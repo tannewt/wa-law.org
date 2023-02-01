@@ -14,20 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150235&caId=20857&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150235&caId=20857&tId=4)
 
-#### 705 👍 - Pro
+#### 863 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Nancy Button
 * Laurie Layne
 * Jeannie Magdua - Conservative Ladies of Washington
+* Dave  Olwell
 
-#### 312 👎 - Con
+#### 366 👎 - Con
 Testifying:
 * Samantha Field - Coalition for Responsible Home Education
 * Tracy Castro-Gill - Washington Ethnic Studies Now
 * Denise Michaels
 * Oliver Miska
 * Vicki Skeels 
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 2 ❓ - Other
 Testifying:

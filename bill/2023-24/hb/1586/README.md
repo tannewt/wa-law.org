@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1586 Vehicular pursuits work grp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150284&caId=20926&tId=4)
-
-#### 239 👍 - Pro
+#### 297 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -25,12 +19,15 @@ Testifying:
 * Martina Morris - Next Steps WA & WA Coalition for Police Accountability
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 
-#### 3 👎 - Con
+#### 28 👎 - Con
+Testifying:
+* James McMahan - Washington Association of Sheriffs and Police Chiefs
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Michelle Feldman - Center for Policing Equity
 * Monica Alexander - Washington State Criminal Justice Training Commission
 * Thomas  Reinhard - Cascade Pizza Co
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Eric Pratt - I, America
+* Lacey Ledford - Washington State Criminal Justice Training Commission

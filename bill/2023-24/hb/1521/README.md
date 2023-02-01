@@ -14,9 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150157&caId=20987&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150157&caId=20987&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Doug Palmer - Washington State Association for Justice
+* Eric Becker - WSCFF
+* Greg Weber
+* Jerry Underwood - WSCFF
+* Steve Austin
+* Jamison Smith - WSCFF
+* Steve Bradley - WSCFF
 
-#### 3 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Bernadette Pratt - Pratt, Day & Stratton/WSIA
+* Kelly Early - Educational Service District 113
+* Kris Tefft - Washington Self-Insurers Association
 
 #### 1 ❓ - Other
 Testifying:

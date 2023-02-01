@@ -21,6 +21,8 @@
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 * 👍 Donna O'Connor
 
+## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  

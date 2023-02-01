@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5583 Young driver safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150433&caId=20845&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150433&caId=20845&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150433&caId=20845&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150433&caId=20845&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Lynn Rogers - Professional Driving School Association of Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
+* Beau Perschbacher - WA Dept. of Licensing

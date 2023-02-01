@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5184 Anesthesiologist assistants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149958&caId=20816&tId=4)
-
-#### 1327 👍 - Pro
+#### 1344 👍 - Pro
 Testifying:
 * Richard Evans - American Academy of Anesthesiologist Assistants
 * Mike Cioffi
@@ -30,8 +24,9 @@ Testifying:
 * Deborah Rusy - American Society of Anesthesilogists Rep to AAAA
 * Scott Wolf - WSSA
 * Stephanie Mason  - Washington Medical Commission
+* Michael Robinson
 
-#### 3411 👎 - Con
+#### 3437 👎 - Con
 Testifying:
 * Adrianna Silva - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Ashley Fedan - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
@@ -39,6 +34,7 @@ Testifying:
 * Brad Hemingway - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * MD, Robert Conroy
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Jonathan Alvarado - Nursing Care Quality Assurance Commission
+* Sherry Thomas - AVAILABLE FOR QUESTIONS Washington State Department of Health

@@ -11,6 +11,8 @@
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
+## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
+
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  

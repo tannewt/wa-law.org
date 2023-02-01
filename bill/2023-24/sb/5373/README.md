@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5373 ARNP, PA, & MD reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149956&caId=20814&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149956&caId=20814&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149956&caId=20814&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30539&aId=149956&caId=20814&tId=4)
-
-#### 454 👍 - Pro
+#### 475 👍 - Pro
 Testifying:
 * ARNP, Dana Doering - Association of Advanced Practice Psychiatric Nurses (AAPPN)
 * ARNP, Linda Van Hoff - ARNPs United of Washington State (AUWS)
@@ -22,9 +16,10 @@ Testifying:
 * Jennifer Tyler - Tumwater Family Practice Clinic
 * PA, Griffith Jones
 
-#### 68 👎 - Con
+#### 143 👎 - Con
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* Michael Robinson
 
 #### 0 ❓ - Other

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150421&caId=20853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150421&caId=20853&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Ashlen Strong - Washington State Hospital Association
+* RN, Jacqueline Mossakowski - Tri-State Memorial Hospital
 
 #### 0 👎 - Con
 

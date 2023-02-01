@@ -8,21 +8,18 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1385 Civil forfeiture proceedings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150381&caId=20915&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150381&caId=20915&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150381&caId=20915&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30545&aId=150381&caId=20915&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Toshiko Hasegawa - Port of Seattle Commissioner
+* Representative Roger Goodman
 
-#### 6 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * matt zuvich - Office of State Treasurer
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Michele  Walker - City of Kent City Attorney's Office
 * JOHN Worthington - AAMC
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Candice  Bock - Association of WA Cities

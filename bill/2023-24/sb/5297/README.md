@@ -14,12 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=4)
 
-#### 535 👍 - Pro
+#### 1200 👍 - Pro
+Testifying:
+* Chris Hyland
+* Lyle Cabe
+* Bryan Irwin - Coastal Conservation Association
+* Nello Picinich - Coastal Conservation Association
+* Ed Wickersham - Long Time Washington Resident
+* George  Harris - Northwest Marine Trade Association (President)
 
-#### 59 👎 - Con
+#### 97 👎 - Con
 Testifying:
 * Shannon Moore - Puget Sound Gillnet Fishermen
+* Greg Johnson - Columbia River Fisherman
+* Jim Wells - President, Salmon for All
+* Lori Steele - [West Coast Seafood Processors Association](/org/west_coast_seafood_processors_association/)
+* Robert Sudar - Columbia River Fish Advisor
+* Corrine Sams - Confederated Tribes of the Umatilla
+* Gerald Chairman Lewis - Yakima Nation
+* Kadi Bizyayeva - [Stillaguamish Tribe of Indians](/org/stillaguamish_tribe_of_indians/)
+* Lisa Wilson - Lummi Nation
 
-#### 9 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Kelly Cunningham - WDFW

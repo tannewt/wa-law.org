@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Human Services (HS): SB 5434 Juvenile court jurisdiction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150116&caId=20821&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150116&caId=20821&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150116&caId=20821&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150116&caId=20821&tId=4)
-
-#### 221 👍 - Pro
+#### 253 👍 - Pro
 Testifying:
 * 💵Karen Pillar - TeamChild
 * Sarah Walker
@@ -24,6 +18,7 @@ Testifying:
 * Divya Natarajan - Washington Chapter of the American Academy of Pediatrics
 * Dominique Davis - Community Passageways
 * Julissa Sanchez - Choose 180
+* Alexandra Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
 #### 7 👎 - Con
 Testifying:
@@ -35,4 +30,4 @@ Testifying:
 * Matt Murray - Yakima Police Department
 * Judge Jennifer  Forbes - Superior Court Judges' Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

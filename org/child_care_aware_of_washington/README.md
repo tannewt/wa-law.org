@@ -4,6 +4,10 @@
 
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
 
+## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
+
+## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  

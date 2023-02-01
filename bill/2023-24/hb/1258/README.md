@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=4)
 
-#### 104 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * John Cooper - Yakima Valley Tourism
 * David Blandford - State of Washington Tourism
@@ -22,6 +22,7 @@ Testifying:
 * John Cooper - Tourism Yakima Valley
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Fred Felleman - Port of Seattle Commissioner
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 #### 0 👎 - Con
 

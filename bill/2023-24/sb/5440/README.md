@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 18 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Commissioner Rob Coffman - Washington State Association of Counties and Lincoln County
@@ -28,6 +28,8 @@ Testifying:
 * Jason Cummings - Snohomish County Prosecuting Attorney
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 * Jason Schwarz
+* Gordon Hill - King County Department of Public Defense
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 Testifying:

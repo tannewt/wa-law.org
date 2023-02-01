@@ -4,6 +4,8 @@
 
 ## [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍1  
 
+## [HB 1563](/bill/2023-24/hb/1563/) - Medical use of cannabis 👍1  
+
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
 * 👍 Adan Espino Jr
 

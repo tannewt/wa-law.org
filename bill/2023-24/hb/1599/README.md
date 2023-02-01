@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150600&caId=21061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150600&caId=21061&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Kateri Candee - Washington State Patrol
+* Neil Weaver - Washington State Patrol
 
-#### 4 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Laurie Layne
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

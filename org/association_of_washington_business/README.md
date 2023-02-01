@@ -9,6 +9,8 @@
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
 
+## [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback 👍1  
+
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
 * ❓ Mike  Ennis
 
@@ -50,6 +52,8 @@
 ## [HB 1254](/bill/2023-24/hb/1254/) - Periodic adjustments/DOR  👎2 
 * 👎💵 Peter Godlewski
 * 👎 Emily Shay
+
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
 ## [HB 1280](/bill/2023-24/hb/1280/) - Open vehicle safety recalls 👍1  
 
@@ -95,7 +99,11 @@
 
 ## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process 👍1  
 
+## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries 👍1  
+
 ## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
+
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen.  👎1 
 * 👎💵 Peter Godlewski
@@ -103,8 +111,12 @@
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1448](/bill/2023-24/hb/1448/) - Motor carrier safety 👍1  
+
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍 Mike Ennis
+
+## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
 
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
@@ -112,7 +124,16 @@
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
+
+## [HB 1547](/bill/2023-24/hb/1547/) - Out-of-state health prov. 👍1  
+
+## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers  👎1 
+* 👎 Mike Ennis
+
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
 ## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
 
@@ -200,6 +221,9 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎1 
 * 👎 Mike Ennis
+
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+* 👍 Kris Johnson
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
 

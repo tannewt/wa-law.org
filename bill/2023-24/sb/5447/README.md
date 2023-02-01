@@ -14,12 +14,32 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150080&caId=20851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30568&aId=150080&caId=20851&tId=4)
 
-#### 19 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * 💵Tom Wolf - bp America
 * 💵Donny Donovan - IAM 751
 * Fred Felleman - Port of Seattle Commissioner
+* 💵Charles Knutson - Amazon
+* Dana Debel - Delta Airlines
+* Diana Birkett Rakow - [Alaska Airlines](/org/alaska_airlines/)
+* Kris Johnson - [Association of Washington Business](/org/association_of_washington_business/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Fred  Felleman - [Port of Seattle](/org/port_of_seattle/)
+* Larry  Krauter - Spokane International Airport
+* 💵Emily Wittman - Aerospace Futures Alliance
+* Lars Erickson - Seattle Chamber
+* Darrin Morgan - SkyNRG
+* Derek Phelps - [Twelve](/org/twelve/)
+* Peter Dahling - Neste USA, Inc.
+* 💵Tom Wolf - bp America
+* Andrew Troske - Par Pacific
+* 💵Connor Haggerty - Washington State University
 
-#### 96 👎 - Con
+#### 148 👎 - Con
+Testifying:
+* Ursula Euler
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)

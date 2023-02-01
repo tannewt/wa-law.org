@@ -8,20 +8,24 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Labor & Commerce (LC): SB 5267 Railroad workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150006&caId=20831&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150006&caId=20831&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150006&caId=20831&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30549&aId=150006&caId=20831&tId=4)
-
-#### 43 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Spenser Sado
+* Kimberly  Klontz 
+* Bruce Smith - P.O. BOX 304
+* Jonathan Tisdale
+* April Sims - Washington State Labor Council, AFL-CIO
+* Luke Edington - General Chairman, SMART Transportation Division
+* Dylan  Ekins - Wash. State Legislative Board Chairperson - Brotherhood of Locomotive Engineers & Trainmen
+* 💵Herb Krohn - Wash. State Legislative Director - SMART Transp. Division/United Transportation Union
+* Mike  Elliott - Retired Railroad Workers, former State Leg. Chair - Locomotive Engineers
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * Aaron Hunt  - Union Pacific Railroad
 * Naomi Deines - Union Pacific Railroad
+* 💵Johan Hellman - BNSF Railway
+* Sam Macedonio - BNSF Railway
 
 #### 0 ❓ - Other

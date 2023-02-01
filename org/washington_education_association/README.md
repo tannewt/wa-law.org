@@ -15,6 +15,8 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
+## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
+
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
@@ -171,8 +173,9 @@
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties 👍1  
 
-## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs.   ❓1
+## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs.  👎1 ❓1
 * ❓💵 Simone Boe
+* 👎💵 Simone Boe
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍2  
 * 👍💵 Simone Boe
@@ -182,12 +185,19 @@
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 
 * 👎💵 Nasue Nishida
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍💵 Simone Boe
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
+## [HB 1615](/bill/2023-24/hb/1615/) - Education savings accounts  👎1 
+
+## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
+
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
+
+## [SB 5024](/bill/2023-24/sb/5024/) - K-12 education/parent rights  👎1 
+* 👎💵 Julie Salvi
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
@@ -241,6 +251,8 @@
 
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
 
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
@@ -254,6 +266,9 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 * 👍 Jared Mason-Gere
+
+## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
+* 👍💵 Nasue Nishida
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍1  
 
@@ -296,8 +311,13 @@
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
+
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
 * 👍💵 Nasue Nishida
+
+## [SB 5505](/bill/2023-24/sb/5505/) - School year expansion   ❓1
+* ❓💵 Julie Salvi
 
 ## [SB 5507](/bill/2023-24/sb/5507/) - Tenure-track faculty 👍1  
 

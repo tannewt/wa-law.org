@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150547&caId=21046&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150547&caId=21046&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 11 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
 * Drew Davis - Mountain hi
 * John  Kingsbury - cannabis patient,  patient committee - Cannabis Alliance
 * 💵Ezra Eickmeyer - Producers NW
 * Ramsey Doudar - Patients & Users for Reasonable Policy
+* Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

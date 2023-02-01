@@ -19,7 +19,13 @@
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 * 👎💵 Kristin Ang
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
+
+## [HB 1480](/bill/2023-24/hb/1480/) - All-hazard emergency manage. 👍1  
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍3  
 

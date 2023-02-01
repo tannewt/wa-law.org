@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5504 Open vehicle safety recalls
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150277&caId=20839&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150277&caId=20839&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150277&caId=20839&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150277&caId=20839&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
@@ -23,4 +17,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Thad Duvall - Washington State Association of County Auditors
+* Beau Perschbacher - WA Dept. of Licensing

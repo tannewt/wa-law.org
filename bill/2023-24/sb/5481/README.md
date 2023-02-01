@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=150341&caId=20873&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=150341&caId=20873&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Michele Radosevich - Uniform Law Commission
 * Mercer May - Teladoc Health
+* Kyle Zebley - ATA Action
 
-#### 19 👎 - Con
+#### 20 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

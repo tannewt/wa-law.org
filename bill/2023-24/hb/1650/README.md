@@ -8,19 +8,16 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Regulated Substances & Gaming (RSG): HB 1650 Cannabis prohibitions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150543&caId=21043&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150543&caId=21043&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150543&caId=21043&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30606&aId=150543&caId=21043&tId=4)
-
-#### 4 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
 * Lukas Hunter - Harmony Farms
 * Arthur West
 * Burl Bryson - The Cannabis Alliance
+* Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

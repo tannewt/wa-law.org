@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Environment, Energy & Technology (ENET): SB 5366 Utility shutoffs/heat
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150079&caId=20833&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150079&caId=20833&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150079&caId=20833&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150079&caId=20833&tId=4)
-
-#### 228 👍 - Pro
+#### 326 👍 - Pro
 Testifying:
 * Logan  Bahr - Tacoma Power
 * Mendy Droke - Seattle City Light
@@ -24,14 +18,15 @@ Testifying:
 * Ryan Collins - Snohomish PUD
 * 💵Charlee Thompson - NW Energy Coalition
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* Cathy MacCaul - AARP Washington State
 
-#### 12 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * Chelsea Martin - Modern Electric Water Company
 * Greg Mendonca - Okanogan County Electric Cooperative
 * Paul Griffin - Washington Rural Electric Cooperative Association
 
-#### 12 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * 💵Christine Brewer - The Avista Corporation
 * 💵Jay Balasbas - PacifiCorp
@@ -44,3 +39,6 @@ Testifying:
 * Joseph Carroll - Wolff, Hislop and Crockett
 * Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
 * Jake Murray
+* BILL CLARKE - WA PUD Association
+* Charlie  Brown - NW Natural
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1

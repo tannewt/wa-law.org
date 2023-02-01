@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1579 Independent prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150283&caId=20925&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150283&caId=20925&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150283&caId=20925&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150283&caId=20925&tId=4)
-
-#### 355 👍 - Pro
+#### 444 👍 - Pro
 Testifying:
 * Mayor, Victoria  Woodards - [City of Tacoma](/org/city_of_tacoma/)
 * Debbie  Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
@@ -24,9 +18,16 @@ Testifying:
 * Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * 💵Paul Benz - Partners for Social Change
 
-#### 79 👎 - Con
+#### 234 👎 - Con
 Testifying:
 * Paul Giuglianotti - I am a citizen expert on the independent prosecutor issue after careful study over the past 3 years.
 * David Trieweiler - WACDL/WDA
+* James McMahan - Washington Association of Sheriffs and Police Chiefs
+* 💵Russell Brown - [Washington Association of Prosecuting Attorneys](/org/washington_association_of_prosecuting_attorneys/)
+* Valerie Norman
+* Ellen Dimbat
+* 💵Michael Transue - Washington Fraternal Order of Police
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mike Webb - Office of the Attorney General

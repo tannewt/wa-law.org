@@ -40,6 +40,8 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍 Leah  Missik
 
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
@@ -48,4 +50,10 @@
 ## [SB 5431](/bill/2023-24/sb/5431/) - Zero emission school buses 👍1  
 * 👍💵 Leah Missik
 
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel   ❓1
+* ❓💵 Leah Missik
+
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
+* ❓💵 Kelly Hall

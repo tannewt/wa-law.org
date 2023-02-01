@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30583&aId=150574&caId=21057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30583&aId=150574&caId=21057&tId=4)
 
-#### 3 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 1 ❓ - Other
 Testifying:

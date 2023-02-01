@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150236&caId=20858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150236&caId=20858&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Dr. Erica  Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
+* 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 
 #### 0 👎 - Con
 

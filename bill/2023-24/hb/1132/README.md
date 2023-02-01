@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1132 Limited authority officers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150281&caId=20923&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150281&caId=20923&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150281&caId=20923&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30609&aId=150281&caId=20923&tId=4)
-
-#### 85 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * Chandra Wax - Washington State Liquor and Cannabis Board
 * Tommy Oakes - WA State Gambling Commission
+* Brian Considine - Washington Department of Natural Resources
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Brian Clark
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Eric Pratt - I, America

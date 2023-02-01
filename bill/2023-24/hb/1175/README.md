@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150479&caId=21036&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150479&caId=21036&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Greg Hanon - Western States Petroleum Assoc.
+* Russell Olsen - Executive Director, Washington State Pollution Liability Insurance Agency
 
-#### 1 👎 - Con
+#### 53 👎 - Con
 Testifying:
 * Matthew Metz - [Coltura](/org/coltura/)
+* Rashell Lisowski
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tim Hamlin - U.S. Environmental Protection Agency, Region 10
+* Mark Barolo - US EPA, Office of Underground Storage Tanks
 
 ### Mon 01/16 01:30 PM - Environment & Energy (ENVI): HB 1175 Petroleum storage tanks
 #### 21 👍 - Pro

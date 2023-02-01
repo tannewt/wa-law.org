@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Finance (FIN): HB 1477 Working families' tax credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150029&caId=20947&tId=4)
-
-#### 237 👍 - Pro
+#### 254 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Casey Lantz - United Way of King County
 * 💵Emily Stone - Washington State Coalition Against Domestic Violence
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Steve Ewing - Department of Revenue

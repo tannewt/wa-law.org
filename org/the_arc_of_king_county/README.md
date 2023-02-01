@@ -46,9 +46,12 @@
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 * 👍💵 Eric Warwick
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+* 👍 Eric  Matthes
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 

@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5430 Driver training/low-income
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150432&caId=20844&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150432&caId=20844&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150432&caId=20844&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30597&aId=150432&caId=20844&tId=4)
-
-#### 8 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Lynn Rogers - Professional Driving School Association of Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
+* Beau Perschbacher - WA Dept. of Licensing

@@ -6,10 +6,17 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
+## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
+
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 * 👍💵 Ann Vining
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
+
+## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing 👍1  
+
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+* 👍💵 Emily Brice
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 

@@ -14,13 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150424&caId=20856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150424&caId=20856&tId=4)
 
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Laura Hopkins
+* Michael Robertson - Peer WA
+* Topher Jerome - BHI
+* Josh Wallace - Peer WA
+* Mel McKee - BHI
+* Peter Durning
+* Joshua Wallace - Peer Washington
 
-#### 16 👎 - Con
+#### 157 👎 - Con
 Testifying:
 * Jeanette Barnes
 * Lorrin Gehring - The Rainbow Makers
 * Evelyn Clark
 * Gabriel Hamilton - I am a certified youth peer councilor and and have become a peer specialist.
+* Beverly Miller - Miller Consultation and Training
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kim Zacher - WA Council for Behavioral Health

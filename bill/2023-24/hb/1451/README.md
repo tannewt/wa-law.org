@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1451 Child care workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150246&caId=20969&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150246&caId=20969&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150246&caId=20969&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30602&aId=150246&caId=20969&tId=4)
-
-#### 59 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Pauli Owen
 * Anthony Varela - Veterans Legislative Coalition
+* 💵Sarah Brady - [Child Care Resources](/org/child_care_resources/)
+* Zivit Shechter Nissim - [Child Care Resources](/org/child_care_resources/)
 
-#### 4 👎 - Con
+#### 35 👎 - Con
+Testifying:
+* Al King
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

@@ -9,6 +9,15 @@
 ## [HB 1213](/bill/2023-24/hb/1213/) - Wipe labeling  👎1 
 * 👎💵 Heather Trim
 
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
+
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+* 👍💵 Heather Trim
+
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 * 👍💵 Heather Trim
 

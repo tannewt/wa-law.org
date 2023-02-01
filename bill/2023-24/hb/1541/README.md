@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150521&caId=21052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150521&caId=21052&tId=4)
 
-#### 75 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 * Samantha Fogg - Seattle Council PTSA
 * Ivanova  Smith - People first of Washington (as a member)
 * Kyle Matheson - self advocate
 * Shawn Latham - Allies in Advocacy
+* Jordan Landry
+* Amy  Roark
+* Eric  Matthes - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

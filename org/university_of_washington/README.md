@@ -24,6 +24,9 @@
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
 * 👍 Joe Dacca
 
+## [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
+* 👍 Beatriz  Carlini
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
@@ -44,3 +47,5 @@
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
 * 👍 Bettina Shell-Duncan
+
+## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  

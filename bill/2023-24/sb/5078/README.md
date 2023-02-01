@@ -8,25 +8,23 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SB 5078 Firearm industry duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150494&caId=21017&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150494&caId=21017&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150494&caId=21017&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150494&caId=21017&tId=4)
-
-#### 133 👍 - Pro
+#### 658 👍 - Pro
 Testifying:
 * Barbara Serrano - Office of the Governor
 * Laura Clinton - Attorney General's Office
 * Krystal  LoPilato - Everytown for Gun Safety
+* Larry  Shannon - Washington State Association for Justice
 
-#### 186 👎 - Con
+#### 888 👎 - Con
 Testifying:
 * Eric pratt - I,America
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Brian Lynn - Sportsmen's Alliance
 * 💵Michael Findlay - National Shooting Sports Foundation
 * Rozana Knutson
+* Teo Morca
+* Julie Barrett - Conservative Ladies of Washington
+* Kathleen Cooper
 
 #### 0 ❓ - Other
 

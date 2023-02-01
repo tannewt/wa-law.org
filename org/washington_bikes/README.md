@@ -6,6 +6,11 @@
 * 👍 Tamar Shuhendler
 * 👍 Tamar Shuhendler
 
+## [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍1  
+* 👍 Vicky Clarke
+
+## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍3  
@@ -20,6 +25,9 @@
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
+* 👍 Vicky Clarke
 
 ## [SB 5560](/bill/2023-24/sb/5560/) - Older driver safety 👍1  
 

@@ -8,7 +8,11 @@
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 * 👍 Nancy Belcher
 
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
+
+## [SB 5389](/bill/2023-24/sb/5389/) - Optometry  👎1 
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1  
 

@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Finance (FIN): HB 1000 Working families' tax credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150027&caId=20945&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150027&caId=20945&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150027&caId=20945&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30554&aId=150027&caId=20945&tId=4)
-
-#### 23 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Neil Lanning
 
 #### 3 ❓ - Other
 Testifying:

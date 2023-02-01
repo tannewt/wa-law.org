@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150601&caId=21062&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150601&caId=21062&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Kateri Candee - Washington State Patrol
+* Neil Weaver - Washington State Patrol
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* george yeannakis - Washington State Office of Public Defense
+* Kristin Mansfield - veterinarian employed by the state of WA
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Local Government (LG): HB 1468 Impact fee deferrals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150194&caId=20993&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150194&caId=20993&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150194&caId=20993&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150194&caId=20993&tId=4)
-
-#### 18 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Bill Stauffacher - gocougs@billstauffacher.com
 
@@ -23,4 +17,6 @@ Testifying:
 * Charlie Brown - Puget Sound Schools Coalition
 * 💵Grace Yuan - Puget Sound Schools Coalition
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Worthington

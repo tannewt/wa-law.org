@@ -4,6 +4,8 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
@@ -50,6 +52,8 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
+## [HB 1343](/bill/2023-24/hb/1343/) - Rent relief & housing 👍1  
+
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 👍1  
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
@@ -58,7 +62,13 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings   ❓1
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
@@ -66,7 +76,7 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30601&aId=150241&caId=20882&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30601&aId=150241&caId=20882&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 
-#### 252 👎 - Con
+#### 325 👎 - Con
 Testifying:
 * Jeannie Magdua - Conservative Ladies of Washington
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=149959&caId=20872&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=149959&caId=20872&tId=4)
 
-#### 665 👍 - Pro
+#### 901 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
+* Karen Tvedt
 
-#### 278 👎 - Con
+#### 361 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
@@ -26,5 +27,10 @@ Testifying:
 * Dr. Sharon Quick
 * Richard Doerflinger
 * MD, Shane Macaulay - Physicians for Compassionate Care Education Foundation - Washington
+* Theresa Schrempp
+* MD, Alfonso Oliva - Alliance for Hippocratic Medicine
+* Bishop Joseph Tyson - Washington State Catholic Conference
+* Dave Olwell
+* Mary Long - Conservative Ladies of Washington
 
 #### 1 ❓ - Other

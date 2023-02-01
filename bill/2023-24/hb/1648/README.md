@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Consumer Protection & Business (CPB): HB 1648 Ticket sales
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30588&aId=150483&caId=21027&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30588&aId=150483&caId=21027&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30588&aId=150483&caId=21027&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30588&aId=150483&caId=21027&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 4 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Brian Hess
 * Sean Auyash - StubHub
 * James Kimmel
 * Chris VanDeHoef - The FanFreedom Project
+* Bruce Morris
+* Jas Sajjan - Live Nation Entertainment
+* Josh LaBelle - [Seattle Theatre Group](/org/seattle_theatre_group/)
+* Ryan Fitts - Vivid Seats

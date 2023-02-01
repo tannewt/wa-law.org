@@ -20,3 +20,5 @@
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
 
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+
+## [SB 5481](/bill/2023-24/sb/5481/) - Uniform telemedicine act 👍1  

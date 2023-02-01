@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Health Care & Wellness (HCW): HB 1547 Out-of-state health prov.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150549&caId=21048&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150549&caId=21048&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150549&caId=21048&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30556&aId=150549&caId=21048&tId=4)
-
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Dr. Raul Garcia - Astria Toppenish Hospital
 
-#### 11 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Melissa Johnson - Washington State Nurses Association
 * 💵Bob Cooper - National Assocition of Social Workers WA  Chapter

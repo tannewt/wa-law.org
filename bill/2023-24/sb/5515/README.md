@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Human Services (HS): SB 5515 Child abuse and neglect
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150118&caId=20823&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150118&caId=20823&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150118&caId=20823&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30574&aId=150118&caId=20823&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Linda Drake - Washington State Board of Education
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Jeffrey Barber - Annie Wright Schools
+* Peter Fackenthall - Auburn Adventist Academy
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Julie  Watts - Dept of Children, Youth, and Families

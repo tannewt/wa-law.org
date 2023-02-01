@@ -8,21 +8,19 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Education (ED): HB 1550 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30560&aId=150243&caId=20934&tId=4)
-
-#### 54 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Angelia Hicks-Maxie
 * Colleen Condon - Washington Childcare Center Association
 * Susan Brown
 * Kimberly Burrows - Upriver Discovery School ( A Licensed Family Child Care)
 * 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* Margot Grant Gould - KinderCare
+* Representative Tana Senn
+* Karen Matson - Snohomish County Human Services Department
+* Mamie Barboza - Enterprise for Progress in the Community (EPIC)
 
-#### 33 👎 - Con
+#### 55 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Lisa Reaugh - Peninsula School District
@@ -46,8 +44,11 @@ Testifying:
 * Wayne  Barrett - Concrete School District
 * Tracey Beckendorf-Edou - Cascade School District
 * Anne  Arnold - Everett Public Schools
+* April  Shiosaki - Blossoming Hill Montessori
+* Kevin Knight
+* Melissa Spencer - [Federal Way Public Schools](/org/federal_way_public_schools/)
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Kevin Knight - Superintendent Colville School District
 * Ian McMichael
@@ -57,3 +58,6 @@ Testifying:
 * Colleen Frerks - Whole Child Director, Quincy School District
 * Wade Smith - Walla Walla Public Schools
 * Melissa  Gombosky  - Association of Educational Service Districts
+* Dr. Peter Finch - West Valley School District #208
+* Hilary Prentice - Pacific Northwest Montessori Association board member
+* Karin Thompson - Spokane Schools

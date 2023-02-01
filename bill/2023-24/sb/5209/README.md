@@ -8,23 +8,21 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30618&aId=150316&caId=20835&tId=4)
-
-#### 29 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Mies Rapoport - As Individual, former Secretary of the state
 * O'Dea Jonathan - NSW Parliament
 * Mary Hall - Thurston County Auditor
+* William Eickmeyer
 
-#### 155 👎 - Con
+#### 599 👎 - Con
 Testifying:
 * Andy Craig - Dir. of Election Policy, Rainey Center; Adj. Scholar, Cato Institute
 * Rozana Knutson
 * 💵Jude Ahmed
+* Mary Long - Conservative Ladies of Washington
 * Eric prattr - I, America
+* Lisa Olson
+* Suzanne Rohner
 
 #### 0 ❓ - Other

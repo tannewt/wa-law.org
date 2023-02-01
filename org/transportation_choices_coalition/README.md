@@ -12,3 +12,6 @@
 ## [SB 5317](/bill/2023-24/sb/5317/) - RTA vehicle removal 👍1  
 
 ## [SB 5342](/bill/2023-24/sb/5342/) - Transit interlocal agree. 👍1  
+
+## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
+* 👍💵 Bryce Yadon

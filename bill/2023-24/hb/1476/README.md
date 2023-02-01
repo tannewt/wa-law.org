@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Local Government (LG): HB 1476 Impact fees/law enforcement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150195&caId=20994&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150195&caId=20994&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150195&caId=20994&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30585&aId=150195&caId=20994&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 7 👍 - Pro
-
-#### 16 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

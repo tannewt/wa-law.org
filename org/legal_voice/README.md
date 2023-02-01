@@ -11,6 +11,8 @@
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 * 👍 Alizeh  Bhojani
 
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
+
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  

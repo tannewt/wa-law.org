@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30615&aId=150311&caId=20979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30615&aId=150311&caId=20979&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Darwin Triggs - Central Washington University Aviation
+* Bennett Butters
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Ursula Euler
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James Pierson - Summerwood HOA (45 residents)

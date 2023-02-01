@@ -14,12 +14,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150046&caId=20958&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150046&caId=20958&tId=4)
 
-#### 77 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Bob Crittenden - Individual
+* Eileen Cody
+* Ronnie Shure - Health Care for All - WA
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Jim Freeburg - Patient Coalition of Washington
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Sybill Hyppolite - WA State Labor Council
+* BIll Kramer - Purchaser Business Group on Health
+* John Godfrey - Washington CAN
+* Leah Hole-Marshall - Washington Health Benefit Exchange
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Albert  Froling  - WSHA
+* Chelene  Whiteaker - WSHA
+* 💵Ian Goodhew - UW Medicine
+* Mike  Marsh  - Overlake Medical Center & Clinics
+* 💵Jeb Shepard - WA State Medical Association (WSMA)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Mich'l Needham - Health Care Authority (HCA)
+* Maureen Hensley-Quinn - National Academy for State Health Policy

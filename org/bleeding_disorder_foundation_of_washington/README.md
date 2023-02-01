@@ -2,6 +2,9 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
+## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
+* 👍 Claire Symons
+
 ## [HB 1271](/bill/2023-24/hb/1271/) - Organ transport vehicles 👍1  
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  

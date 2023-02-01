@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1559 Postsecondary student needs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30570&aId=150261&caId=21000&tId=4)
-
-#### 129 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Evelyn Roehn
 * Joseph Gabriel Burke - [Washington Student Association](/org/washington_student_association/)
@@ -32,9 +26,17 @@ Testifying:
 * Emily Portillo - United Way of King County
 * Candice Wheeler
 * Jackson Feaster
+* Ted Topper
 * Grace Booras
 * Eden McDade - South Puget Sound Community College - Student
 * Sopeara Chay - South Puget Sound Community College
+* Jackson Feaster
+* Jacob Katz - Community and Technical Colleges
+* Jennifer  Dellinger - SBCTC
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Hannah Whobrey - University of Washington Food Pantry
+* Zachary Glenn - University of Washington Student
+* Yadira Chavez - Community for our Colleges
 
 #### 0 👎 - Con
 

@@ -14,14 +14,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30589&aId=150206&caId=20928&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30589&aId=150206&caId=20928&tId=4)
 
-#### 162 👍 - Pro
+#### 346 👍 - Pro
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * PATRICIA BOIKO - Patricia Boiko
 * Andrew Villeneuve - Northwest Progressive Institute
+* Representative Joel Kretz
+* Mitch Kramer - FixCO
+* Nathan Proctor - PIRG
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Aaron Perzanowski 
+* McKenna Morrigan - Seattle Public Utilities
+* Michael Brittain - Peninsula Computer Services
+* Noquisi Christian-Smith - Student
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* Tarah Wheeler - Red Queen Dynamics
+* Cindy McMullen
+* Kyle Wiens - iFixIt
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Melissa  Gombosky  - CTIA
+* Dustin Brighton - Repair Done Right
+* 💵Melissa Gombosky - CTIA
+* 💵Nora Burnes - TechNet
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

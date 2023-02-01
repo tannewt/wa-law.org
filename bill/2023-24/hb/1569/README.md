@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Housing (HOUS): HB 1569 Common interest communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30623&aId=150357&caId=20966&tId=4)
-
 #### 9 👍 - Pro
 Testifying:
 * Raelene Schifano
@@ -24,11 +18,13 @@ Testifying:
 * Candace Carteen - Surfside HOA homeowner
 * Dannetta Garcia
 
-#### 449 👎 - Con
+#### 711 👎 - Con
 Testifying:
 * Jeffery Isrel
+* Liz Tidyman
 * MaryAnn Smith - self
 * Patrick McDonald - Washington State Chapter of Community Association Institute
+* Krystelle  Purkey
 
 #### 5 ❓ - Other
 Testifying:

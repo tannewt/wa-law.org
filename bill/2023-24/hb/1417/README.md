@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=4)
 
-#### 10 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Tom Davis - Veterans Legislative Coalition (VLC)
 
 #### 3 👎 - Con
 

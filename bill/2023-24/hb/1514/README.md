@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150156&caId=20986&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150156&caId=20986&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Grant Nelson - RV Industry Association
+* Nicholas Rudowich - RV Industry Association
 
 #### 0 👎 - Con
 

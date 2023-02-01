@@ -14,12 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150374&caId=20975&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150374&caId=20975&tId=4)
 
-#### 82 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * Jamie Kautz - MultiCare Health System
 * Nina Martinez - Latino Civic Alliance
 * Greta Johnson
 * 💵Cara Helmer - WSHA
+* Jessica Cook
+* Kristian Stone - EvergreenHealth
+* MD, Mike Barsotti - Providence Sacred Heart Children's Hospital
+* MD, Mike Barsotti - Providence Sacred Heart Children's Hospital
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* 💵Diana Stadden - The Arc of WA State
+* Kashi Arora - Seattle Children's
+* Sina Shah - Seattle Children's
 
 #### 0 👎 - Con
 

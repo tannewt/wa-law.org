@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150460&caId=21026&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30586&aId=150460&caId=21026&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* Diane Pottinger - North City Water District
+* 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* Max Woody - North City Water District
 
 #### 0 👎 - Con
 

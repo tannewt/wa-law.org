@@ -14,14 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150545&caId=21044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150545&caId=21044&tId=4)
 
-#### 40 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Antonio McAfee
 * Leslie La Duke Banionis
 * Kevin  Oliver - NORML
 * Burl  Bryson - executive director -The Cannabis Alliance
 * John  Kingsbury
+* Micah Sherman - Raven
+* Scott MacKinnon
+* Bailey  Hirschburg
+* Kevin  Oliver - National Organization for the Reform of Marijuana Laws
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Joel Jensen
+* Eric Johnston - Patients and Users for Reasonable Policy
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Joel Jensen
 
 #### 0 ❓ - Other

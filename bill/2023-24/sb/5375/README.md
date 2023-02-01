@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150016&caId=20864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150016&caId=20864&tId=4)
 
-#### 6 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Bob Turnage - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
+* Charlie Brown - Diageo and Fred Meyer/QFC
+* Justin Stiefel - Heritage Distilling Company
 
-#### 5 👎 - Con
+#### 93 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Kevin  Quinn  - Bale Breaker Brewing Co.
+* Daniel  Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
 #### 0 ❓ - Other

@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150250&caId=20973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150250&caId=20973&tId=4)
 
-#### 67 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Donna O'Connor - [Hopelink](/org/hopelink/)
+* Senight Zahilay - Northwest Harvest
+* Kevin  Briscoeray
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 👎 - Con
 

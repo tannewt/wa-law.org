@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SSB 5128 Jury diversity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30552&aId=150404&caId=20847&tId=4)
-
-#### 54 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Steve Rosen
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Larry  Shannon - Washington State Association for Justice
 * Rebecca Glasgow - Gender and Justice Commission
 
-#### 3 👎 - Con
+#### 15 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

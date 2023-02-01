@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5539 Tax increment financing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30622&aId=150353&caId=20811&tId=4)
-
-#### 23 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Blake Baldwin - Chelan Douglas Regional Port Authority
 * matt zuvich - Office of State Treasurer

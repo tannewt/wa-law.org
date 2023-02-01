@@ -24,6 +24,8 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
+## [HB 1343](/bill/2023-24/hb/1343/) - Rent relief & housing 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍2  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
@@ -32,8 +34,9 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 

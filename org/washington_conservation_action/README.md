@@ -36,6 +36,11 @@
 
 ## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax 👍1  
 
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+* 👍💵 Darcy Nonemacher
+
+## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍3  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  

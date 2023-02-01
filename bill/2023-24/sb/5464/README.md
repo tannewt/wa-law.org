@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Environment, Energy & Technology (ENET): SB 5464 Electronics repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150434&caId=20834&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150434&caId=20834&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150434&caId=20834&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30567&aId=150434&caId=20834&tId=4)
-
-#### 185 👍 - Pro
+#### 274 👍 - Pro
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * Mitch Kramer - FiXCO
@@ -28,7 +22,12 @@ Testifying:
 * Kyle Wiens - iFixIt
 * Andrew Villeneuve - Northwest Progressive Institute
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Charlie Brown - Consumer Technology Association
+* Dustin Brighton - Repair Done Right
+* Melissa  Gombosky - Cellular Telecommunications Industry Association
+* 💵Nora Burnes - TechNet
 
 #### 1 ❓ - Other
 Testifying:

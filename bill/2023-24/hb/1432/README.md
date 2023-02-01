@@ -14,17 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=4)
 
-#### 133 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Jaimie Cavanaugh
 * Elizabeth Mustin - Washington State Office of Public Defense
 * Nina Martinez - Latino Civic Alliance
 * 💵Rachel Sottile - Center for Children and Youth Justice
+* James Cha - TeamChild
+* Isadora Eads - Choose 180
+* NUU LEAE
+* Alexis Hale - The Justice for Girls Coalition
+* Shawnee Stillwell - The Justice for Girls Coalition
+* Sunshine Timmons - The Justice for Girls Coalition
+* Alexes Harris
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Tammy Fellin - Labor & Industries
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
