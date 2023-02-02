@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150369&caId=20892&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150369&caId=20892&tId=4)
 
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Melanie Smith - NAMI Washington

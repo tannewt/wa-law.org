@@ -6,5 +6,7 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
+## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
+
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
 * 👍 Kathryn Kurtz

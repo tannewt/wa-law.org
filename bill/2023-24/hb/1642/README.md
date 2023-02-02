@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 33 👎 - Con
+#### 75 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
 * Drew Davis - Mountain hi
@@ -26,5 +26,8 @@ Testifying:
 * Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* Bethany Rondeaux
+* Matt Jones
+* Arthur West
 
 #### 1 ❓ - Other

@@ -8,14 +8,10 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1499 Food assistance funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150251&caId=20974&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150251&caId=20974&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150251&caId=20974&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150251&caId=20974&tId=4)
-
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)

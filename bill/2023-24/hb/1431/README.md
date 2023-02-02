@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150033&caId=20951&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150033&caId=20951&tId=4)
 
-#### 9 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Breanne  Grubs - Leisure Care
+* Roman Daniels-Brown - WA Health Care Association
+* Barbara Lane
+* Lee  Bravener - Resident, Moutain Glen
 
 #### 0 👎 - Con
 

@@ -70,11 +70,15 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍2  
 
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
 
-## [HB 1261](/bill/2023-24/hb/1261/) - Breast exam cost sharing 👍1  
+## [HB 1261](/bill/2023-24/hb/1261/) - Breast exam cost sharing 👍2  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
+
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
@@ -87,6 +91,8 @@
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+
+## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 👍1  
 
@@ -207,6 +213,8 @@
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
 
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍7  
@@ -269,6 +277,8 @@
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 * 👎 April Putney
+
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
 

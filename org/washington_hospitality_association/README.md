@@ -30,6 +30,9 @@
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
 * 👎💵 Julia Gorton
 
+## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍1  
+* 👍💵 Julia Gorton
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
 
@@ -49,7 +52,10 @@
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech  👎1 
 
-## [SB 5429](/bill/2023-24/sb/5429/) - Concerning a motor carrier’s ability to access restroom facilities required by rules authorized under chapter 49.17 RCW.  👎1 
+## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms  👎1 
+
+## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍1  
+* 👍💵 Riley Smith
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 * 👍💵 Julia Gorton

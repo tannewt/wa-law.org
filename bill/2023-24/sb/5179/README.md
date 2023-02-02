@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=149959&caId=20872&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30540&aId=149959&caId=20872&tId=4)
 
-#### 901 👍 - Pro
+#### 1016 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Karen Tvedt
+* Gary Norman
 
-#### 361 👎 - Con
+#### 409 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
@@ -32,5 +33,9 @@ Testifying:
 * Bishop Joseph Tyson - Washington State Catholic Conference
 * Dave Olwell
 * Mary Long - Conservative Ladies of Washington
+* Jonathan Clemens - ErgoCare Clinic
+* David K DeWolf
+* Joseph Havens
+* MD, Robin Bernhoft
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

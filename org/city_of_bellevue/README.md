@@ -7,6 +7,8 @@
 
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
 
+## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Genesee Adkins
 

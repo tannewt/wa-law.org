@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=4)
 
-#### 9 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Tom Seigel - [Bethel School District](/org/bethel_school_district/)
+* Ronda Litzenberger - Washington State School Directors' Association (WSSDA)
+* Melissa  Gombosky  - Evergreen, Vancouver, ESD 112, Spokane, Central Valley and Richland SDs.
+* Bill West - Teamsters
+* 💵Shaunie Wheeler - Teamsters
+* 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 
 #### 1 👎 - Con
 Testifying:

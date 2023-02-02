@@ -14,16 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150371&caId=20894&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150371&caId=20894&tId=4)
 
-#### 18 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Karen Ferguson - Our Stories Rx
 * Dharia McGrew - PhRMA
 * 💵Nathaniel Brown - Chronic Disease Coalition
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
+* ron adams - Cascade Construction
 
 #### 1 ❓ - Other
 Testifying:

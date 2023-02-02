@@ -14,14 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150449&caId=21015&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150449&caId=21015&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Trent House - Washington State Dental Association
 * Debra Livingston - Reemployability
 * Kerri  Butler - Work Bridge Group
 * 💵Rose Gundersen - WA Retail Association
+* 💵Trent House - Washington State Dental Association
+* Bob Battles - Association of Washington Business (AWB)
+* Sheri  Call - Washington Trucking Associations
+* Tom Kwieciak - Building Industry Association of WA
 
-#### 2 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Brian Wright - Washington State Association for Justice
+* Kathy Comfort - Washington State Association for Justice
 
 #### 1 ❓ - Other
 Testifying:

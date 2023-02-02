@@ -40,7 +40,11 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
+## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
+
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 

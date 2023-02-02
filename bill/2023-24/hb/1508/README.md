@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Health Care & Wellness (HCW): HB 1508 Health care cost board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150046&caId=20958&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150046&caId=20958&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150046&caId=20958&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150046&caId=20958&tId=4)
-
-#### 130 👍 - Pro
+#### 184 👍 - Pro
 Testifying:
 * Bob Crittenden - Individual
 * Eileen Cody
@@ -26,8 +20,9 @@ Testifying:
 * BIll Kramer - Purchaser Business Group on Health
 * John Godfrey - Washington CAN
 * Leah Hole-Marshall - Washington Health Benefit Exchange
+* 💵Sybill Hyppolite - WA State Labor Council
 
-#### 15 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Albert  Froling  - WSHA
 * Chelene  Whiteaker - WSHA
@@ -35,6 +30,7 @@ Testifying:
 * Mike  Marsh  - Overlake Medical Center & Clinics
 * 💵Jeb Shepard - WA State Medical Association (WSMA)
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Dr. Mika Sinanan - Washington State Medical Association
 
 #### 2 ❓ - Other
 Testifying:

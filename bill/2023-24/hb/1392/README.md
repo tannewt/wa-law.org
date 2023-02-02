@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Consumer Protection & Business (CPB): HB 1392 Electronics repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30589&aId=150206&caId=20928&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30589&aId=150206&caId=20928&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30589&aId=150206&caId=20928&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30589&aId=150206&caId=20928&tId=4)
-
-#### 346 👍 - Pro
+#### 383 👍 - Pro
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * PATRICIA BOIKO - Patricia Boiko
@@ -31,12 +25,17 @@ Testifying:
 * Tarah Wheeler - Red Queen Dynamics
 * Cindy McMullen
 * Kyle Wiens - iFixIt
+* Sandy Hayes - Washington State School Directors' Association
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Melissa  Gombosky  - CTIA
 * Dustin Brighton - Repair Done Right
 * 💵Melissa Gombosky - CTIA
 * 💵Nora Burnes - TechNet
+* Charlie Brown - Consumer Electronics Association
+* Ashley  Sutton - TechNet
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Devin Gombosky - Tesla Motors

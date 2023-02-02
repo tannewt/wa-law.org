@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 34 👎 - Con
+#### 52 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Morton Alexander
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts

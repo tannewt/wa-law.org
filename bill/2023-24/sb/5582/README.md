@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5582 Nurse supply
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150422&caId=20854&tId=4)
-
-#### 19 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Dane Austreng - SEIU Healthcare 1199NW

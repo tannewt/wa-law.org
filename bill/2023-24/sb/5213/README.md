@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150367&caId=20890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150367&caId=20890&tId=4)
 
-#### 31 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Laura Boudreau - AIDS Healthcare Foundation
 * Jack  Holt - Hi-School Pharmacy Services
@@ -22,11 +22,13 @@ Testifying:
 * Ryan  Oftebro - Kelley-Ross Pharmacy
 * Kaitlynn Johnson - Tick Klock Drug
 * Nathan  Johnson - Tick Klock Drug
+* Lisa Nelson - [Washington Association for Community Health](/org/washington_association_for_community_health/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
+* Angela Henderson - PCMA
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner

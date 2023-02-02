@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Labor & Workplace Standards (LAWS): HB 1458 Apprenticeship programs/UI
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150155&caId=20985&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150155&caId=20985&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150155&caId=20985&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150155&caId=20985&tId=4)
-
-#### 57 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Braeden  Barnes - Ironworkers Apprentice
 * Bryan  Johnson - Ironworkers Local 86

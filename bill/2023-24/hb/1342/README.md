@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150076&caId=20913&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150076&caId=20913&tId=4)
 
-#### 35 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Matthew Hinck - CalPortland Company
+* Rachael Jamison - [American Wood Council](/org/american_wood_council/)
+* Alex Ianchenko - AIA Washington Council, Architects and Engineers Legislative Council
 
-#### 4 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 * John Cross - American Institute of Steel Construction
+* 💵Jessica Koski - BlueGreen Alliance
+* 💵Heather Kurtenbach - Political Director, Iron Workers Local #86
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Bill Frare - Washington State Department of Enterprise Services
+* Hanna  Waterstrat - Department of Commerce

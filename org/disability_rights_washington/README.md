@@ -37,6 +37,8 @@
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 * 👍💵 Rachael Seevers
 
+## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act  👎1 
+
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
 ## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍1  

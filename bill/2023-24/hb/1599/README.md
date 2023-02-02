@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1599 Firearm background checks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150600&caId=21061&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150600&caId=21061&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150600&caId=21061&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30546&aId=150600&caId=21061&tId=4)
-
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Kateri Candee - Washington State Patrol
 * Neil Weaver - Washington State Patrol
@@ -23,4 +17,4 @@ Testifying:
 Testifying:
 * Laurie Layne
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

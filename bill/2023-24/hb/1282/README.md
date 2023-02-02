@@ -14,13 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=4)
 
-#### 297 👍 - Pro
+#### 383 👍 - Pro
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 * 💵Donny Donovan - IAM 751
 * John Cross - American Institute of Steel Construction
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Jessica Koski - BlueGreen Alliance
+* Kane Wardle - United Steelworkers District 12
+* Bill Frare - Washington State Department of Enterprise Services
+* Hanna Waterstrat - Department of Commerce
+* Alex Ianchenko - AIA Washington Council, Architects and Engineers Legislative Council
+* 💵Donny Donovan - IAM 751
+* Robin Everett - [Sierra Club](/org/sierra_club/)
+* 💵Heather Kurtenbach - Political Director, Iron Workers Local #86
 
-#### 21 👎 - Con
+#### 24 👎 - Con
+Testifying:
+* Rachael Jamison - [American Wood Council](/org/american_wood_council/)
 
 #### 2 ❓ - Other
 Testifying:

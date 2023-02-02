@@ -2,7 +2,7 @@
 
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 
-## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍3  
+## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍4  
 * 👍 Elaine Oneil
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  

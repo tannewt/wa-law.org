@@ -19,6 +19,8 @@
 * 👎 Josh McDonald
 * 👎 Josh McDonald
 
+## [SB 5007](/bill/2023-24/sb/5007/) - Wine retailer shippers   ❓1
+
 ## [SB 5013](/bill/2023-24/sb/5013/) - Wine/alcohol tax exemption 👍1  
 * 👍 Josh McDonald
 
@@ -29,6 +31,10 @@
 * 👍 Josh  McDonald
 
 ## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
+
+## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍2  
+* 👍 Jess Zander
+* 👍 Josh McDonald
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 * 👍 Josh McDonald

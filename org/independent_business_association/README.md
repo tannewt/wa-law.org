@@ -25,6 +25,8 @@
 
 ## [SB 5310](/bill/2023-24/sb/5310/) - Workers' comp. providers  👎1 
 
+## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍1  
+
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech  👎1 
 * 👎💵 James King
 

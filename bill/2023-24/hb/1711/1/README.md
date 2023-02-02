@@ -1,0 +1,36 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1711](/bill/2023-24/hb/1711/) > [Original Bill](/bill/2023-24/hb/1711/1/)
+
+# HB 1711 - Internet projects/tribes
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1711.pdf)
+
+## Section 1
+1. The tax levied by RCW 82.08.020 does not apply to sales of building materials, telecommunications equipment, or any personal property used or incorporated into a qualified infrastructure project. This exemption also applies to charges made for the labor and services related to the construction of a qualified infrastructure project or the installation of any equipment or other personal property incorporated into a qualified infrastructure project.
+
+2. [Empty]
+
+    a. In order to obtain an exemption certificate under this section, a taxpayer working on a qualified infrastructure project must submit an application to the department for an exemption certificate. The application must include the information necessary, as required by the department to determine that the taxpayer qualifies for the exemption under this section. The application must also include certification from the owner of the qualified infrastructure project that the taxpayer is associated with the qualified infrastructure project and any other information as required by the department. The department must issue an exemption certificate to qualified taxpayers.
+
+    b. A qualified taxpayer claiming the exemption under this section must present the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.
+
+    c. The exemption certificate is effective on the date the application is received by the department, which is the date of issuance. Only purchases on or after the date of issuance qualify for the exemption under this section. No tax refunds are authorized for purchases made before the effective date of the exemption.
+
+    d. An exemption certificate expires on the date the project is certified as complete by the qualified infrastructure project owner or December 31, 2028, whichever is first.
+
+3. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Qualified infrastructure project" means the construction of buildings and utilities related to the deployment of modern global internet and telecommunications infrastructure that occurs in part in a distressed county located on the coast of Washington. The infrastructure may include, but is not limited to, cable landing stations, data centers, communications hubs, buried utility connections and extension, and any related equipment and buildings that will add broadband capacity and infrastructure to the area.
+
+    b. "Qualified infrastructure project owner" means a federally recognized tribe and an indigenous-owned business entity that is deploying an internet and telecommunications infrastructure in at least one distressed county on the coast of Washington.
+
+4. This section expires December 31, 2029.
+
+## Section 2
+1. Provided an exemption certificate has been issued pursuant to section 1 of this act, the provisions of this chapter do not apply with respect to the use of building materials as well as charges made for the labor and services related to the construction of a qualified infrastructure project. This exemption also applies to charges made for the labor and services related to the construction of a qualified infrastructure project or the installation of any equipment or other personal property incorporated into a qualified infrastructure project.
+
+2. The definitions and requirements in section 1 of this act apply to this section.
+
+3. This section expires December 31, 2029.
+
+## Section 3
+RCW 82.32.808 does not apply to this act.

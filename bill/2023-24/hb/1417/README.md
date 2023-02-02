@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=4)
 
-#### 11 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Elizabeth Hovde - Washington Policy Center

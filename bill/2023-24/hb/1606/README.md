@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150488&caId=21028&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150488&caId=21028&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Larry  Shannon - Washington State Association for Justice
+* Erin Raden - The Toy Association
 
 #### 0 👎 - Con
 

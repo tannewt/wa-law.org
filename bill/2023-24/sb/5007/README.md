@@ -19,8 +19,9 @@ Testifying:
 * David Parker
 * Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Andrea McNeely - Association of Washington Spirits and Wine Distributors
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

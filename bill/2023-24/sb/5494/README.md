@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=4)
 
-#### 10 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Eric Temple - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
 * 💵Patrick Boss - Columbia Basin Railroad / Central Washington Railroad
@@ -23,4 +23,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)

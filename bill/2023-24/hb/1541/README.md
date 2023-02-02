@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150521&caId=21052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150521&caId=21052&tId=4)
 
-#### 105 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 * Samantha Fogg - Seattle Council PTSA
@@ -24,7 +24,10 @@ Testifying:
 * Jordan Landry
 * Amy  Roark
 * Eric  Matthes - [The Arc of King County](/org/the_arc_of_king_county/)
+* Carol Sullivan - League of Women Voters of WA
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lloyd Baker - Action DD

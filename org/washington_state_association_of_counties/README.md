@@ -175,3 +175,5 @@
 * ❓💵 Juliana Roe
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 

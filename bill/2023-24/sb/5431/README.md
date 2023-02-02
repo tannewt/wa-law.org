@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Early Learning & K-12 Education (EDU): SB 5431 Zero emission school buses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150237&caId=20859&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150237&caId=20859&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150237&caId=20859&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150237&caId=20859&tId=4)
-
-#### 295 👍 - Pro
+#### 403 👍 - Pro
 Testifying:
 * Claire Richards - Washington Physicians for Social Resoonsibility
 * Jill Denny - Washington Physicians for Social Responsibility
@@ -23,8 +17,9 @@ Testifying:
 * Wes Stewart - Sierra Club Washington
 * Devon Kellogg - Washington State PTA
 * Megan  Slade - Beacon Hill Council
+* christian poulsen - Drcc
 
-#### 46 👎 - Con
+#### 50 👎 - Con
 
 #### 9 ❓ - Other
 Testifying:

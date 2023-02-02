@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149994&caId=20862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149994&caId=20862&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Mike Yestramski - Washington Federation of State Employees, WFSE
+* Anne  Tarlton - WFSE, Washington Federation of State Employees
 
-#### 22 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Commissioner Rob Coffman - Washington State Association of Counties and Lincoln County
@@ -30,7 +33,10 @@ Testifying:
 * Jason Schwarz
 * Gordon Hill - King County Department of Public Defense
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Greg Banks - Island County Prosecutor
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Melanie Smith - NAMI Washington
+* David Hackett
+* Kelly Rider - King County Department of Community and Human Services

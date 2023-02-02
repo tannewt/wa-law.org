@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1432 Juvenile justice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150249&caId=20972&tId=4)
-
-#### 160 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Jaimie Cavanaugh
 * Elizabeth Mustin - Washington State Office of Public Defense
@@ -27,10 +21,15 @@ Testifying:
 * Shawnee Stillwell - The Justice for Girls Coalition
 * Sunshine Timmons - The Justice for Girls Coalition
 * Alexes Harris
+* Kelly Olson - Civil Survival
+* Nick Jeffreys - Urban League of Metropolitan Seattle
+* Arthur Longworth
+* Arthur Longworth - [Treehouse](/org/treehouse/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 5 ❓ - Other
 Testifying:

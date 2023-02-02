@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30613&aId=150526&caId=21041&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30613&aId=150526&caId=21041&tId=4)
 
-#### 114 👍 - Pro
+#### 162 👍 - Pro
+Testifying:
+* Melinda Kasraie
+* Vicky Clarke
+* Chris Jones
+* Judy Jones
+* Kelli Refer - Move Redmond
+* Jaime Torres
 
-#### 20 👎 - Con
+#### 25 👎 - Con
 
 #### 0 ❓ - Other

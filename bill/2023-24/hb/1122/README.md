@@ -9,17 +9,15 @@
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Appropriations (APP): SHB 1122 WMS bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150477&caId=21034&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150477&caId=21034&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150477&caId=21034&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150477&caId=21034&tId=4)
-
-#### 7 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Brandon Anderson - Washington Federation of State Employees, WFSE
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 
 ### Fri 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 1122 WMS bargaining
 #### 0 👍 - Pro

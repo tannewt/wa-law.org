@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1174 Jail-based voting

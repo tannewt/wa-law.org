@@ -88,7 +88,7 @@
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
 * 👍💵 Ramona Hattendorf
 
-## [SB 5397](/bill/2023-24/sb/5397/) - Preserving public benefit payments to people in the care of the department of children, youth, and families. 👍1  
+## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍2  
 

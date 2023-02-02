@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150415&caId=20885&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150415&caId=20885&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Mike Mason - CERB - Community Economic Revitalization Board
+* Michael  Echanove - CERB - Community Economic Revitalization Board
 
 #### 0 👎 - Con
 

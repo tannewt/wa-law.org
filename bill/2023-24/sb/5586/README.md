@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150417&caId=20870&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30550&aId=150417&caId=20870&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
+* Ali Schaafsma
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

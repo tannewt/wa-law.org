@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Transportation (TR): HB 1488 Working forest license plate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150303&caId=21010&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150303&caId=21010&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150303&caId=21010&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150303&caId=21010&tId=4)
-
-#### 89 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)

@@ -14,15 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30558&aId=150552&caId=21049&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30558&aId=150552&caId=21049&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
 * Joshua Wallace - Peer Washington
 
-#### 16 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Gabriel Hamilton - I am a certified youth peer councilor and and have become a peer specialist.
 * Beverly Miller - Miller Consultation and Training
 * Lorrin Gehring - The Rainbow Makers
+* Naomi Herrera
+* Carolyn Cox - SPARK Peer Learning Center
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joan Miller - WA Council for Behavioral Health

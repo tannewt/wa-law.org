@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30601&aId=150239&caId=20880&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30601&aId=150239&caId=20880&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* David Nowotny
+* Rick Chisa - Public School Employees of Washington (PSE)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Doug Vanderleest - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
 
 #### 0 ❓ - Other

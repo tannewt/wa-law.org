@@ -8,21 +8,18 @@
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Appropriations (APP): HB 1175 Petroleum storage tanks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150479&caId=21036&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150479&caId=21036&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150479&caId=21036&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150479&caId=21036&tId=4)
-
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Greg Hanon - Western States Petroleum Assoc.
 * Russell Olsen - Executive Director, Washington State Pollution Liability Insurance Agency
+* 💵Diana Carlen - Washington State Oil Marketers Association
 
-#### 53 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * Matthew Metz - [Coltura](/org/coltura/)
 * Rashell Lisowski
+* Paul Fredlund
+* Clif Swiggett - Carbon Washington
 
 #### 2 ❓ - Other
 Testifying:

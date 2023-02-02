@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1580 Children in crisis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150374&caId=20975&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150374&caId=20975&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150374&caId=20975&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150374&caId=20975&tId=4)
-
-#### 120 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
 * Jamie Kautz - MultiCare Health System
 * Nina Martinez - Latino Civic Alliance
@@ -28,7 +22,8 @@ Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * Kashi Arora - Seattle Children's
 * Sina Shah - Seattle Children's
+* Anna Morrow
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -19,15 +19,22 @@
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 * 👍 Sherri Berdine
 
+## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing   ❓1
+* ❓ Amanda Kost
+
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
 * 👍 Joe Dacca
 
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
+
 ## [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
 * 👍 Beatriz  Carlini
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
+
+## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
 * 👍 Anna  Ratzliff

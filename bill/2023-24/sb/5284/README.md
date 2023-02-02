@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5284 Campaign finance disclosure

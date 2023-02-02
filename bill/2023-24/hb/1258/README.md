@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Appropriations (APP): HB 1258 Tourism marketing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30577&aId=150480&caId=21037&tId=4)
-
-#### 214 👍 - Pro
+#### 242 👍 - Pro
 Testifying:
 * John Cooper - Yakima Valley Tourism
 * David Blandford - State of Washington Tourism
@@ -23,6 +17,7 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Fred Felleman - Port of Seattle Commissioner
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Gabriel Neuman - GSBA
 
 #### 0 👎 - Con
 

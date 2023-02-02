@@ -8,20 +8,20 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1447 Assistance programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150250&caId=20973&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150250&caId=20973&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150250&caId=20973&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30603&aId=150250&caId=20973&tId=4)
-
-#### 115 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Donna O'Connor - [Hopelink](/org/hopelink/)
 * Senight Zahilay - Northwest Harvest
 * Kevin  Briscoeray
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Alicya Pearson - [Food Lifeline](/org/food_lifeline/)
+* Alicya Pearson - [Food Lifeline](/org/food_lifeline/)
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle
+* Jose Delapena - Urban League of Metropolitan Seattle
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Melissa Kenney - Department of Social and Health Services, Economic Services Administration, Community Services

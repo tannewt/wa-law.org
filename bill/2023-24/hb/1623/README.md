@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1623 Regional economic dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30615&aId=150457&caId=21031&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30615&aId=150457&caId=21031&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30615&aId=150457&caId=21031&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30615&aId=150457&caId=21031&tId=4)
-
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 

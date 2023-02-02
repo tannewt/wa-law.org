@@ -7,7 +7,8 @@
 
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
 
-## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
+## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍2  
+* 👍 Arthur Longworth
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 

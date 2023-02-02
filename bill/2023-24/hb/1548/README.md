@@ -8,16 +8,19 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Labor & Workplace Standards (LAWS): HB 1548 Railroad workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150158&caId=20988&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150158&caId=20988&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150158&caId=20988&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150158&caId=20988&tId=4)
-
-#### 60 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Luke Edington - General Chairman, SMART Transportation Division
+* Larry  Romine - Retired RR worker 47 yrs,SMART-TD/UTU Local Chair (25 yrs) now: Railroad Employee Benefit Consultant
 * Bruce Smith - P.O. BOX 304
+* Kimberly Klontz - Brotherhood of Locomotive Engineers and Trainmen Division 238
+* 💵Dylan Ekins - Wash. State Chairperson - Brotherhood of Locomotive Engineers and Trainmen - Wash. State Leg. Board
+* 💵Herb Krohn - Wash. State Legisative Director - SMART Transp. Div./United Transportation Union-WA State Leg Board
+* 💵Mike Elliott
+* Jeremy Ferguson - International President - SMART unions Transportation Division
+* Jon  Tisdale  - BLE-T
+* Korey McDaniel - Smart TD
+* Josh Roberts - Rail worker
 
 #### 5 👎 - Con
 Testifying:

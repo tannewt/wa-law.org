@@ -119,7 +119,7 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍💵 Carl Schroeder
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units   ❓1
 * ❓💵 Carl Schroeder
@@ -156,12 +156,17 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
 * ❓ Brandy DeLange
 
-## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍1  
+## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍2  
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
 
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
 * 👍💵 Carl Schroeder
+
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
+* 👎💵 Carl Schroeder
 
 ## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
 * 👍💵 Carl Schroeder
@@ -183,3 +188,8 @@
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍💵 Candice Bock
+
+## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
+
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
+* 👎💵 Carl Schroeder

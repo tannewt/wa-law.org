@@ -8,21 +8,19 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Early Learning & K-12 Education (EDU): SB 5024 K-12 education/parent rights
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150235&caId=20857&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150235&caId=20857&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150235&caId=20857&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150235&caId=20857&tId=4)
-
-#### 863 👍 - Pro
+#### 983 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Nancy Button
 * Laurie Layne
 * Jeannie Magdua - Conservative Ladies of Washington
 * Dave  Olwell
+* Bonnie Ruiz - Moms for America
+* JoAnn  Tolentino
+* Hannah Ordos
+* Nancy Button
 
-#### 366 👎 - Con
+#### 433 👎 - Con
 Testifying:
 * Samantha Field - Coalition for Responsible Home Education
 * Tracy Castro-Gill - Washington Ethnic Studies Now
@@ -31,7 +29,7 @@ Testifying:
 * Vicki Skeels 
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Liv Finne - Washington Policy Center
 * 💵Mike Hoover - Washington State School Directors’ Association

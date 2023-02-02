@@ -5,6 +5,9 @@
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+* 👍 Robin Everett
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍3  
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer

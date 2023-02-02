@@ -9,7 +9,7 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
-## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
+## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍2  
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 * 👍 Teresa Groves

@@ -91,6 +91,9 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+* 👍 Lisa Herbold
+
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  

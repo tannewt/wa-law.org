@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150545&caId=21044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30607&aId=150545&caId=21044&tId=4)
 
-#### 66 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Antonio McAfee
 * Leslie La Duke Banionis
@@ -28,9 +28,13 @@ Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Joel Jensen
 * Eric Johnston - Patients and Users for Reasonable Policy
+* Arthur West
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Joel Jensen
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Don SKAKIE - HOMEGROW WASHINGTON

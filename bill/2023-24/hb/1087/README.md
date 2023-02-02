@@ -15,12 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=4)
 
-#### 218 👍 - Pro
+#### 278 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
 * Micaela Romero
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

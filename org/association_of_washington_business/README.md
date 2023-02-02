@@ -55,6 +55,9 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
+## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board  👎1 
+* 👎💵 Amy Anderson
+
 ## [HB 1280](/bill/2023-24/hb/1280/) - Open vehicle safety recalls 👍1  
 
 ## [HB 1284](/bill/2023-24/hb/1284/) - Real estate agency 👍1  
@@ -85,6 +88,8 @@
 
 ## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
 
+## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎1 
 * 👎 Mike Ennis
 
@@ -101,7 +106,12 @@
 
 ## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries 👍1  
 
+## [HB 1417](/bill/2023-24/hb/1417/) - Multistate nurse licensure 👍1  
+
 ## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
+
+## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
+* 👍 Emily Shay
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 
@@ -120,6 +130,8 @@
 
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
+
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
@@ -196,6 +208,8 @@
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
 
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
@@ -216,7 +230,7 @@
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
-## [SB 5429](/bill/2023-24/sb/5429/) - Concerning a motor carrier’s ability to access restroom facilities required by rules authorized under chapter 49.17 RCW.   ❓1
+## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎1 
@@ -227,6 +241,8 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
 
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 * 👍 Mike Ennis
 
@@ -236,8 +252,14 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Dave Mastin
 
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+
 ## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank  👎1 
 
 ## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍1  
+
+## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍1  
+
+## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  

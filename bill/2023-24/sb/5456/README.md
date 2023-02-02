@@ -14,16 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30582&aId=150174&caId=20875&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30582&aId=150174&caId=20875&tId=4)
 
-#### 71 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * Kevin Maas - Walter Street Cottages LLC
+* Scott Bonjukian - APA Washington
+* Mike Ennis - AWB
+* Jennifer Gregerson
+* Angela Rozmyn - Natural and Built Environments
 
-#### 6 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Kyle Moore - City of SeaTac
+* Salina Lyons - [City of Covington](/org/city_of_covington/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1 ❓ - Other
 Testifying:

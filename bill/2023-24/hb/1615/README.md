@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30561&aId=150516&caId=21050&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30561&aId=150516&caId=21050&tId=4)
 
-#### 19 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Lonny Ray Williams
 * Leslie Williams
 * Liv Finne - Washington Policy Center
+* Jeannie Magdua - Conservative Ladies of Washington
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Glenn Jenkins
 

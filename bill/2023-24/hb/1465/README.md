@@ -8,26 +8,28 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Health Care & Wellness (HCW): HB 1465 Prescription cost-sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30557&aId=150045&caId=20957&tId=4)
-
-#### 24 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Karen Ferguson - Our Stories Rx
 * Erin Callahan - Diabetes Patient Advocacy Coalition
 * Dharia McGrew - PhRMA
 
-#### 6 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
 * Fred Brown - President, National Labor Alliance of Healthcare Coalitions
 * Chris Bandoli - America's Health Insurance Plans
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Angela Henderson - PCMA
+* ron adams - Cascade Construction
+* Janine Terrano - CEO and Owner of Topia Technology
+* Jon Rossman - CEO and Owner of Chuckals Office Supply
+* Lua Pritchard - Wa State Asia Pacific Alliance Center
+* Norm Dicks - Former Congressman
+* 💵Tom Pierson - Former CEO of the Tacoma -Pierce County Chamber of Commerce
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Amanda Kost - [University of Washington](/org/university_of_washington/)

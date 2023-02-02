@@ -14,18 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30575&aId=150439&caId=21014&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30575&aId=150439&caId=21014&tId=4)
 
-#### 38 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * ARZU FOROUGH - Washington Autism Alliance and parent of adult with IDD
 * Deborah Gill
 * Alan Gill
 * Katrina  Davis
 * Beth Florea
+* Josephina García
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Anita  Hawks 
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Stacy Dym - The Arc of Washington Sate
+* 💵Diana Stadden - The Arc of WA State

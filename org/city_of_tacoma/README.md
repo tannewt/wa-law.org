@@ -1,5 +1,7 @@
 # City of Tacoma
 
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍2  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1

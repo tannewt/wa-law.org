@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Housing (HSG): SB 5609 Housing approval
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30583&aId=150574&caId=21057&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30583&aId=150574&caId=21057&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30583&aId=150574&caId=21057&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30583&aId=150574&caId=21057&tId=4)
-
-#### 14 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Nathan Gorton - Washington REALTORS
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1 ❓ - Other
 Testifying:

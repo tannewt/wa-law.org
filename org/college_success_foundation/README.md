@@ -48,7 +48,7 @@
 
 ## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍2  
 
-## [SB 5397](/bill/2023-24/sb/5397/) - Preserving public benefit payments to people in the care of the department of children, youth, and families. 👍1  
+## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 

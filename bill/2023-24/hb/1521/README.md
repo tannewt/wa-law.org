@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Labor & Workplace Standards (LAWS): HB 1521 Industrial insurance/duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150157&caId=20987&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150157&caId=20987&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150157&caId=20987&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30580&aId=150157&caId=20987&tId=4)
-
-#### 16 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Doug Palmer - Washington State Association for Justice
 * Eric Becker - WSCFF
@@ -23,6 +17,7 @@ Testifying:
 * Steve Austin
 * Jamison Smith - WSCFF
 * Steve Bradley - WSCFF
+* Jarl  Peterson
 
 #### 9 👎 - Con
 Testifying:

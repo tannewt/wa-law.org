@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149993&caId=20861&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30544&aId=149993&caId=20861&tId=4)
 
-#### 486 👍 - Pro
+#### 810 👍 - Pro
+Testifying:
+* Donnitta Sinclair
+* Lisa Herbold - [City of Seattle](/org/city_of_seattle/)
+* 💵Margaret Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Carol Mitchell
+* Gwen Loosmore - Washington State PTA
+* Karyn Brownson - King County Public Health
 
-#### 2059 👎 - Con
+#### 2260 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Emily Smith

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Transportation (TR): HB 1448 Motor carrier safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150301&caId=21009&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150301&caId=21009&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150301&caId=21009&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30612&aId=150301&caId=21009&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
 

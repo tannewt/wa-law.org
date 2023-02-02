@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Early Learning & K-12 Education (EDU): SB 5264 Paraeducator requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150236&caId=20858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150236&caId=20858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150236&caId=20858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30600&aId=150236&caId=20858&tId=4)
-
-#### 13 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Dr. Erica  Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 * 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con
 

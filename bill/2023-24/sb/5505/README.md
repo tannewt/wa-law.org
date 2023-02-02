@@ -14,12 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30601&aId=150241&caId=20882&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30601&aId=150241&caId=20882&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Dan Steele - WA Assn of School Administrators
+* Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 325 👎 - Con
+#### 345 👎 - Con
 Testifying:
 * Jeannie Magdua - Conservative Ladies of Washington
+* Luz  Herrera
+* Antonio  Godinez
+* Violeta  Orozco 
+* Violeta  Orozco 
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* 💵Mike Hoover - Washington State School Directors’ Association

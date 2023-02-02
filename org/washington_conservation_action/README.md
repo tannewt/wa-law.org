@@ -15,6 +15,9 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍💵 Clifford Traisman
 
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+* 👍💵 Darcy Nonemacher
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  

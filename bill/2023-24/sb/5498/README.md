@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5498 Nurse student loan repayment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150421&caId=20853&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150421&caId=20853&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150421&caId=20853&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30616&aId=150421&caId=20853&tId=4)
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Ashlen Strong - Washington State Hospital Association
 * RN, Jacqueline Mossakowski - Tri-State Memorial Hospital
+* Lily Wilson-Codega - UFCW 3000
 
 #### 0 👎 - Con
 

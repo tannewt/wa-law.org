@@ -154,6 +154,8 @@
 
 ## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
 
+## [HB 1417](/bill/2023-24/hb/1417/) - Multistate nurse licensure  👎1 
+
 ## [HB 1430](/bill/2023-24/hb/1430/) - DCYF-caregiver communication 👍1  
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍1  
@@ -300,6 +302,8 @@
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
 ## [SB 5403](/bill/2023-24/sb/5403/) - Establishing school district depreciation subfunds for the purposes of preventative maintenance.  👎1 
+
+## [SB 5408](/bill/2023-24/sb/5408/) - Ninth grade success grants 👍1  
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech 👍1  
 
