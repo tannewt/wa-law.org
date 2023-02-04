@@ -22,6 +22,8 @@
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 * 👍 Sam Hatzenbeler
 
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  

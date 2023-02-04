@@ -1,5 +1,8 @@
 # Office of Secretary of State
 
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+* 👍 Steve  Hobbs
+
 ## [HB 1259](/bill/2023-24/hb/1259/) - Secretary of state exec team 👍1  
 * 👍 Brian Hatfield
 
@@ -10,6 +13,9 @@
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍1  
 * 👍 Steve Hobbs
+
+## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
+* 👍 Brian Hatfield
 
 ## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  
 

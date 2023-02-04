@@ -14,7 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150607&caId=21114&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150607&caId=21114&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Shira Cole - Dancers of ERA
+* Ashe S
+* Emily Dhatt - [Working Washington](/org/working_washington/)
+* Lexy A
+* Madison Zack-Wu - Strippers Are Workers
+* Samantha Estudillo
 
 #### 0 👎 - Con
 

@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SB 5303 Public works assist. account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150414&caId=20884&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150414&caId=20884&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150414&caId=20884&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150414&caId=20884&tId=4)
-
-#### 23 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
+* 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Van  Collins - American Council of Engineering Companies
 
 #### 0 👎 - Con
 

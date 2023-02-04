@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1143 Firearms/purchase & transfer
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=4)
+
+#### 4 👍 - Pro
+
+#### 6 👎 - Con
+Testifying:
+* eric pratt - America
+* Tim Smith
+
+#### 0 ❓ - Other
+
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1143 Firearms/purchase & transfer
 #### 908 👍 - Pro
 Testifying:

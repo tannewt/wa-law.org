@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Capital Budget (CB): HB 1282 Public building materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30566&aId=150075&caId=20912&tId=4)
-
 #### 383 👍 - Pro
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)

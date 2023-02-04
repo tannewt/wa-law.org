@@ -30,11 +30,12 @@
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
 * 👍 Josh  McDonald
 
-## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
+## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍2  
 
 ## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍2  
 * 👍 Jess Zander
 * 👍 Josh McDonald
 
-## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
+* 👍 Josh McDonald
 * 👍 Josh McDonald

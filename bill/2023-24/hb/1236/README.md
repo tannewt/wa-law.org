@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Environment & Energy (ENVI): HB 1236 Clean fuel/public transport.

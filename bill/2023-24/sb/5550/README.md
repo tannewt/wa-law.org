@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150929&caId=21156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150929&caId=21156&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Eric Winge  - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 
 #### 0 👎 - Con
 

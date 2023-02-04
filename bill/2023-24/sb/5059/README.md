@@ -14,11 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=4)
 
-#### 0 👍 - Pro
+#### 79 👍 - Pro
 
-#### 1 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
+* Cindy MCMULLEN - Central Valley School Board
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
+* 💵Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Program
+* KARL JOHANSON - NPIP
+* Gregory  Narver  - General Counsel, Seattle Public Schools
+* 💵Laura Pierce - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
+* Derek Bryan - Washington Counties Risk Pool
+* 💵Mike Hoover - Washington State School Directors’ Association and Washington State Association of Counties
+* Michael Heinisch - xNon Profit Insurance Program
+* Madelyn Carlson - Non-Profit Insurance Program
 
 #### 0 ❓ - Other
 

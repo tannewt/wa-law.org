@@ -15,11 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=4)
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Superintendent Patrick  Murphy - Superintendent, Olympia School District
+* Dr. Art  Jarvis  - [Bellevue School District](/org/bellevue_school_district/)
+* Dr. Brent  Jones  - Superintendent, Seattle Public Schools
+* Dr. Ivan  Duran  - Superintendent, Highline Public Schools
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Lizzy Sebring - Washington State PTA
+* Jon Holmen - Superintendent, Lake Washington School District
 
 ### Thu 01/19 01:30 PM - Early Learning & K-12 Education (EDU): SB 5311 Special education funding
 #### 15 👍 - Pro

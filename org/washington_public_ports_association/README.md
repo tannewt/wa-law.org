@@ -48,7 +48,8 @@
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  

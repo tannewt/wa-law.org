@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Finance (FIN): HB 1318 Aircraft maintenance/tax

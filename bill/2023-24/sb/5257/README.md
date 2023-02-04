@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5257 Elementary school recess

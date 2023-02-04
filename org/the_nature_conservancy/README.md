@@ -6,14 +6,15 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 * 👍 justin allegro
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 * 👍 Joshua Rubenstein
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 * 👍 Jamie  Stroble
+* 👍 Skippy Shaw
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 * 👍💵 Justin Allegro

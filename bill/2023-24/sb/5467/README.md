@@ -14,8 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=4)
 
-#### 0 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* Rick Kuss
+* Amy Ockerlander - Mayor, City of Duvall & Association of Washington Cities
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Andrew Rolwes - Vice President, Downtown Spokane Partnership
+* Craig  Meidl - Chief of Police, Spokane
+* Nadine Woodward - Mayor, City of Spokane
+* LaDon Linde - Yakima County
+* Dana Ralph - Mayor of the City of Kent
+* Armondo Pavone - Mayor, City of Renton
+* Ron Wesen - [Skagit County](/org/skagit_county/)
 
-#### 0 👎 - Con
+#### 104 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chad Enright - Kitsap County Prosecutors

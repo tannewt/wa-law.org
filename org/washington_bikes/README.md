@@ -6,10 +6,10 @@
 * 👍 Tamar Shuhendler
 * 👍 Tamar Shuhendler
 
-## [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍1  
+## [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍2  
 * 👍 Vicky Clarke
 
-## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
+## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍2  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 

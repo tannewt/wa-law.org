@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5566 Postsecondary student needs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/08 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5566 Postsecondary student needs
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150995&caId=21103&tId=1)
@@ -14,7 +27,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150995&caId=21103&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150995&caId=21103&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Alex Hur - NW Education Access
 
 #### 0 👎 - Con
 

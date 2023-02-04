@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1431 Senior living meals/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150033&caId=20951&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150033&caId=20951&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150033&caId=20951&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150033&caId=20951&tId=4)
-
 #### 14 👍 - Pro
 Testifying:
 * Breanne  Grubs - Leisure Care

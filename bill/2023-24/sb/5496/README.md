@@ -14,9 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=4)
 
-#### 0 👍 - Pro
+#### 198 👍 - Pro
+Testifying:
+* Michael Brown - Civic Commons
+* Amanda Sandoval - United Way of King County
+* Patience Malaba - HDC
+* Autrina Martindale - BRE
+* Corinna  Obar - Washington State Housing Finance Commission
+* 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
+* Ali Sheibani
+* Donald King - Nehemiah Initiative Seattle
+* lisa Wolters - Seattle Housing Authority, Assoc of WA Housing Authorities
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* James Gregory
 
-#### 0 👎 - Con
+#### 29 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -104,3 +104,5 @@
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
+
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  

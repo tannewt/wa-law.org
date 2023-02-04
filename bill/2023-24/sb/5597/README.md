@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150509&caId=21066&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150509&caId=21066&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Kyle Thomas - American Canoe Association (ACA)
+* James Good
+* Scot Harkins - Seattle Sake Paddling Club
+* Andrew Michels - Pacific Northwest Outrigger Canoe Racing Association
+* Gerald (Skip) Denny - Hui Heihei outrigger canoe club
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rob Sendak - Washington State Parks & Recreation Commission
+* Brent Roth - American Canoe Association

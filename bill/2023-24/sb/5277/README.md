@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151050&caId=21164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151050&caId=21164&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Craig Smith - [Food Northwest](/org/food_northwest/)
+* Beau Hickman - Figgins Family Wine Estates
+* Ryan Pennington - Ste Michelle Wine Estates
 
 #### 0 👎 - Con
 

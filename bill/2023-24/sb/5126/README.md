@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SB 5126 Common school trust revenue
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150495&caId=21018&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150495&caId=21018&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150495&caId=21018&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150495&caId=21018&tId=4)
-
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con
 

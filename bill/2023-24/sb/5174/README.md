@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SSB 5174 Student transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150496&caId=21019&tId=4)
-
-#### 17 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
@@ -30,10 +24,12 @@ Testifying:
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
 * 💵Carolyn Logue - WA State Student Transportation Coalition
+* Charlie Brown - The Schools Alliance and Tacoma School District
+* FRED YANCEY - [Washington Association of School Administrators](/org/washington_association_of_school_administrators/)
 
 ### Thu 01/12 01:30 PM - Early Learning & K-12 Education (EDU): SB 5174 Student transportation
 #### 0 👍 - Pro

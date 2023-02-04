@@ -16,8 +16,14 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+* 👍 Mayor Victoria Woodards 
+
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 * 👍 Mayor, Victoria  Woodards
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+* 👍 Council Member, John Hines
 
 ## [HB 1648](/bill/2023-24/hb/1648/) - Ticket sales   ❓1
 

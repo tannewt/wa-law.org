@@ -34,7 +34,8 @@
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
+* 👍💵 Mike Hoover
 * 👍💵 Mike Hoover
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
@@ -177,3 +178,6 @@
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
+
+## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+* 👍💵 Mike Hoover

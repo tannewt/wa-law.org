@@ -82,15 +82,27 @@
 
 ## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍1  
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+* 👍💵 Carl Schroeder
+
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
 * 👎💵 Candice Bock
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
 
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 1519](/bill/2023-24/hb/1519/) - Local project review   ❓1
+* ❓💵 Carl Schroeder
+
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Candice Bock
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+* 👍💵 Carl Schroeder
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 * 👎💵 Candice Bock
@@ -174,20 +186,34 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
 * ❓💵 Carl Schroeder
 
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
+* 👍💵 Candice Bock
+
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines   ❓1
 * ❓💵 Carl Schroeder
 
 ## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
 * 👍💵 Carl Schroeder
 
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+* 👍💵 Carl Schroeder
+
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 * 👍💵 Candice Bock
+
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+* 👍💵 Carl Schroeder
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍💵 Candice Bock
 
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+* 👍💵 Candice Bock
+
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍💵 Candice Bock
+
+## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 

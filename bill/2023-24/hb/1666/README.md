@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/07 01:30 PM - Consumer Protection & Business (CPB): HB 1666 Fee and debt collection
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30675&aId=150786&caId=21215&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30675&aId=150786&caId=21215&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30675&aId=150786&caId=21215&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30675&aId=150786&caId=21215&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* David Logan - Clark Regional Wastwater District
+* 💵Kelsi Hamilton - WA Collectors Assn
+* Mindy Chumbley - WA Collectors Assn
+
+#### 0 ❓ - Other

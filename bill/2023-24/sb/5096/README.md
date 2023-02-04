@@ -15,7 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151047&caId=21161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151047&caId=21161&tId=4)
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* John McNamara - Northwest Cooperative Development Center
+* Jack Moriarty - Ownership America
+* Gellert Dornay
+* 💵Bryan Ricker - [Schweitzer Engineering Laboratories](/org/schweitzer_engineering_laboratories/)
+* Licett Garbe  - Greater Spokane Valley Chamber of Commerce
 
 #### 0 👎 - Con
 

@@ -31,6 +31,8 @@
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍2  
 * 👍 Jeff Ketchel
 
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  

@@ -2,6 +2,9 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+* 👍💵 Rachael Seevers
+
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
@@ -21,6 +24,9 @@
 * 👍💵 Andrea Kadlec
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+* 👍💵 Sunshine Cheng
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 

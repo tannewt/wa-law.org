@@ -7,3 +7,22 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/07 04:00 PM - Housing (HOUS): HB 1517 Transit-oriented development
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150945&caId=21250&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150945&caId=21250&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150945&caId=21250&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150945&caId=21250&tId=4)
+
+#### 87 👍 - Pro
+Testifying:
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+
+#### 0 👎 - Con
+
+#### 4 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
+* 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
+* Angela Birney - Mayor of the City of Redmond

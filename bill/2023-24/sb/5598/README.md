@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30681&aId=150817&caId=21072&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30681&aId=150817&caId=21072&tId=4)
 
-#### 0 👍 - Pro
+#### 74 👍 - Pro
+Testifying:
+* Rocio Reyes - Emerald Downs
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

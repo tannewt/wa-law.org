@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5297 Commercial salmon fisheries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30535&aId=149885&caId=20879&tId=4)
-
 #### 1331 👍 - Pro
 Testifying:
 * Chris Hyland

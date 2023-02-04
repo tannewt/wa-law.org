@@ -8,21 +8,25 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Transportation (TR): HB 1582 Right turns
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30613&aId=150526&caId=21041&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30613&aId=150526&caId=21041&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30613&aId=150526&caId=21041&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30613&aId=150526&caId=21041&tId=4)
-
-#### 162 👍 - Pro
+#### 229 👍 - Pro
 Testifying:
 * Melinda Kasraie
 * Vicky Clarke
 * Chris Jones
 * Judy Jones
 * Kelli Refer - Move Redmond
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Jaime Torres
+* Amber Weilert
+* Krystal Monteros - Disability Mobility Initiative
+* Matt Beaulieu
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* ANNA ZIVARTS - Disability Mobility Initiative, Disability Rights WA
 
-#### 25 👎 - Con
+#### 53 👎 - Con
+Testifying:
+* 💵Herb Krohn - SMART Transp. Division/United Transportation Union
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission

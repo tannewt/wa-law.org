@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1022 Support & services levies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150032&caId=20950&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150032&caId=20950&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150032&caId=20950&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30555&aId=150032&caId=20950&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Randy Johnson - Clallam County Board of Commissioners

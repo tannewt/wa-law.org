@@ -9,6 +9,8 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍 Jan Hasselman
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  

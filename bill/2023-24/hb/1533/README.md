@@ -8,17 +8,19 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - State Government & Tribal Relations (SGOV): HB 1533 PRA/employee information
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150520&caId=21051&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150520&caId=21051&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150520&caId=21051&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30592&aId=150520&caId=21051&tId=4)
-
-#### 13 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Juliane Williams - WPEA member
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Erin Haick
+* Kathleen Barnard
+* Shontrana Gates-Wertman - Sexual Violence Law Center
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Danielle Plesser
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Rowland  Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
 #### 0 ❓ - Other

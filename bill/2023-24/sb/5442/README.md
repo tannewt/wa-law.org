@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150909&caId=21079&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150909&caId=21079&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Leslie Williams - Conservative Ladies of Washington
 
-#### 0 👎 - Con
+#### 46 👎 - Con
 
 #### 0 ❓ - Other

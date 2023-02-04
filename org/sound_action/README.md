@@ -2,7 +2,7 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 * 👍 Amy Carey
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  

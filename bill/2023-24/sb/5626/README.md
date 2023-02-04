@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150892&caId=21077&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150892&caId=21077&tId=4)
 
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Lizzy Sebring - Washington State PTA
 
 #### 0 👎 - Con
 

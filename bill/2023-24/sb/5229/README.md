@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SB 5229 Site readiness grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150415&caId=20885&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150415&caId=20885&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150415&caId=20885&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30553&aId=150415&caId=20885&tId=4)
-
-#### 13 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Mike Mason - CERB - Community Economic Revitalization Board
 * Michael  Echanove - CERB - Community Economic Revitalization Board
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Jennifer Wray-Keene - Port of Woodland
+* Sara Young - [Port of Skagit](/org/port_of_skagit/)
 
 #### 0 👎 - Con
 

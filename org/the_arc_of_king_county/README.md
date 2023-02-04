@@ -6,7 +6,8 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
+* 👍💵 Ramona Hattendorf
 
 ## [HB 1118](/bill/2023-24/hb/1118/) - School bus safety 👍1  
 
@@ -41,6 +42,9 @@
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍2  
 * 👍💵 Ramona Hattendorf
 
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+* 👍💵 Ramona Hattendorf
+
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
@@ -52,6 +56,8 @@
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+
+## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
@@ -67,6 +73,8 @@
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 
 ## [SB 5147](/bill/2023-24/sb/5147/) - A/C in adult family homes 👍1  
+
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
@@ -98,3 +106,5 @@
 
 ## [SB 5506](/bill/2023-24/sb/5506/) - Behavior support homes   ❓1
 * ❓💵 Ramona Hattendorf
+
+## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  

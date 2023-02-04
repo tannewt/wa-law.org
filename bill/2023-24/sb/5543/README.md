@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=4)
 
-#### 0 👍 - Pro
+#### 27 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Brad  Meryhew - Sex Offender Policy Board
+* Whitney Hunt - Sex Offender Policy Board

@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - State Government & Elections (SGE): SB 5520 Fire service policy board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30619&aId=150326&caId=20901&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30619&aId=150326&caId=20901&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30619&aId=150326&caId=20901&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30619&aId=150326&caId=20901&tId=4)
-
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Bud Sizemore - WSCFF
 * Jeff Faucett - Washington Fire Chiefs
 
-#### 0 👎 - Con
+#### 25 👎 - Con
+Testifying:
+*  John Batiste - Washington State Patrol
+* Chad Cross - Washington State Patrol
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Eric pratt - I, America
+* Andrew Shaffran - WA. St Fire Fighters' Association

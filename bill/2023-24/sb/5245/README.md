@@ -8,17 +8,18 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Environment, Energy & Technology (ENET): SB 5245 Biosolids
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30569&aId=150376&caId=20888&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30569&aId=150376&caId=20888&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30569&aId=150376&caId=20888&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30569&aId=150376&caId=20888&tId=4)
+#### 8 👍 - Pro
 
-#### 2 👍 - Pro
+#### 65 👎 - Con
+Testifying:
+* MacLeod Pappidas - NorthWest Biosolids
 
-#### 52 👎 - Con
-
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Morton Alexander
+* Darlene Schanfald
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* Kyle Dorsey - Coalition for Clean Water
+* Holly Davies - Washington State Department of Health
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Laurie Davies - Washington State Department of Ecology

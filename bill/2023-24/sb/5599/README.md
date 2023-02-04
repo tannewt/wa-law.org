@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=4)
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* J. Denise Diskin - QLaw Foundation of Washington
 
-#### 1 👎 - Con
+#### 730 👎 - Con
 Testifying:
 * Eric Pratt - America
+* Julie Barrett - Conservative Ladies of Washington
+* Marjie Austen
+* Oli  London 
+* Dawn Land
+* Alexandra Chrostowski - Gays Against Groomers
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

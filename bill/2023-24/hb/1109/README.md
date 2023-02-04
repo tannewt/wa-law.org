@@ -7,6 +7,24 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/09 04:00 PM - Appropriations (APP): HB 1109 Special education funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150877&caId=21198&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150877&caId=21198&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150877&caId=21198&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150877&caId=21198&tId=4)
+
+#### 15 👍 - Pro
+Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Devony Audet - Parent Advocate
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Shannon Hitch - Lake Washington School District
+
 ### Tue 01/17 04:00 PM - Education (ED): HB 1109 Special education funding
 #### 57 👍 - Pro
 Testifying:

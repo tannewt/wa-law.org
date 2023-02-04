@@ -7,6 +7,28 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/06 01:30 PM - Environment & Energy (ENVI): HB 1589 Clean energy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Mendy Droke - Seattle City Light
+* Sam Hem - NWRC SMART Local 66
+
+#### 2 👎 - Con
+Testifying:
+* Sommer Moser - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+
+#### 3 ❓ - Other
+Testifying:
+* john Worthington
+* Anna Lising - Governor's Office
+* Dave Danner - Utilities & Transportation Commission
+
 ### Tue 01/31 04:00 PM - Environment & Energy (ENVI): HB 1589 Clean energy
 #### 0 👍 - Pro
 

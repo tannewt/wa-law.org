@@ -8,6 +8,25 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1181 Climate change/planning
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150778&caId=21191&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150778&caId=21191&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150778&caId=21191&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150778&caId=21191&tId=4)
+
+#### 232 👍 - Pro
+Testifying:
+* Bryce  Yadon - [Futurewise](/org/futurewise/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Angela Birney - Mayor of the City of Redmond
+
+#### 7 👎 - Con
+Testifying:
+* john Worthington
+
+#### 0 ❓ - Other
+
 ### Tue 01/17 10:30 AM - Local Government (LG): HB 1181 Climate change/planning
 #### 1330 👍 - Pro
 Testifying:

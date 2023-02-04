@@ -13,7 +13,8 @@ biennium = "2023-24"
 REVISION_TO_NAME = {
     "1": "Original Bill",
     "S": "Substitute Bill",
-    "S.E": "Substitute Engrossed"
+    "S.E": "Engrossed Substitute",
+    "S2": "Second Substitute"
 }
 
 POSITION_TO_EMOJI = {

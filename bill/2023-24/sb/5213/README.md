@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Health & Long Term Care (HLTC): SB 5213 Pharmacy benefit managers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150367&caId=20890&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150367&caId=20890&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150367&caId=20890&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150367&caId=20890&tId=4)
-
-#### 53 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * Laura Boudreau - AIDS Healthcare Foundation
 * Jack  Holt - Hi-School Pharmacy Services
@@ -23,11 +17,24 @@ Testifying:
 * Kaitlynn Johnson - Tick Klock Drug
 * Nathan  Johnson - Tick Klock Drug
 * Lisa Nelson - [Washington Association for Community Health](/org/washington_association_for_community_health/)
+* Rob  Geddes - Albertsons Companies, Inc.
+* Rachel Wittenauer
+* Jim Freeburg - Patient Coalition of Washington
+* Erin  Callahan - Diabetes Patient Advocacy Coalition
 
-#### 2 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
 * Angela Henderson - PCMA
+* Janine Terrano - CEO and Owner of Topia Technology
+* Lua Pritchard Pritchard - Executive Director of the Wa State Asia Pacific Alliance Center
+* LuGina Mendez Harper - Prime Therapeutics
+* Timothy O'Donnell Sr. - I.B.E.W. Local 76 Business Manager/Chairman
+* Chris Bandoli - America's Health Insurance Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Tirhas Gebru
+* Jonathan Edelheit - Global Health Resources
+* Fred Brown - National Labor Alliance of Healthcare Coalitions
 
 #### 2 ❓ - Other
 Testifying:

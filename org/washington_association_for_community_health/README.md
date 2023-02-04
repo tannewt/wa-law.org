@@ -14,6 +14,8 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+
 ## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
 * 👍 Lisa Nelson
 

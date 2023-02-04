@@ -25,6 +25,8 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  

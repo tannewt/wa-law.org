@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 0 ❓ - Other

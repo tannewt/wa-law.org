@@ -5,7 +5,7 @@
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 * 👍💵 Guillermo Rogel
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
 * 👍💵 Guillermo Rogel
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
@@ -16,6 +16,8 @@
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.   ❓1
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
@@ -30,3 +32,5 @@
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  

@@ -2,6 +2,8 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 
@@ -33,8 +35,17 @@
 ## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍1  
 * 👍💵 Julia Gorton
 
+## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
+
+## [HB 1730](/bill/2023-24/hb/1730/) - Youth employment/21+ estab. 👍1  
+* 👍💵 Riley Smith
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
+
+## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
+
+## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -59,6 +70,8 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 * 👍💵 Julia Gorton
+
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Julia Gorton

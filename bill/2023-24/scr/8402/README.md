@@ -8,3 +8,9 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 01/20 08:00 AM - State Government & Elections (SGE): SCR 8402 Jennifer Belcher Building
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

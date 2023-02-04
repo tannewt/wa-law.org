@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1013 Regional apprenticeship prgs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/16 01:30 PM - Education (ED): HB 1013 Regional apprenticeship prgs
 #### 67 👍 - Pro
 Testifying:

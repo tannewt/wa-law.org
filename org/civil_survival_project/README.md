@@ -14,6 +14,8 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 * 👍 Teresa Groves
 
+## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍1  
+
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 * 👍 Anthony Blankenship
 

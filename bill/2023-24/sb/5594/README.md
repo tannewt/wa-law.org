@@ -16,6 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Philip Koopman
+* William Widen
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jim Restucci - Washington State Transportation Commission

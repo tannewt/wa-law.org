@@ -3,6 +3,8 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort
 
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  

@@ -2,8 +2,9 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍5  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍9  
 * 👍💵 Bryce Yadon
+* 👍 Bryce  Yadon
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍2  
 

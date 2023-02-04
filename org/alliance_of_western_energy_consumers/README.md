@@ -8,6 +8,12 @@
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+* 👎 Sommer Moser
+
+## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources  👎1 
+* 👎💵 Brandon Houskeeper
+
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy  👎1 

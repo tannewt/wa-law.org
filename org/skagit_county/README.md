@@ -10,3 +10,6 @@
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program   ❓1
 * ❓ Ron Wesen
+
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
+* 👍 Ron Wesen

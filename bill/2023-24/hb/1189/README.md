@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1189 Total confinement release

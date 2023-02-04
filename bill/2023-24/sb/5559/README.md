@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=4)
 
-#### 2 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Richard Pope
+* Tracy Kahlo - PAVE
+* Director Liza Rankin  - School Board Director, Seattle Public Schools
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Kyle Rydell - West valley School District
+* Rick Chisa - Public School Employees of Washington (PSE)

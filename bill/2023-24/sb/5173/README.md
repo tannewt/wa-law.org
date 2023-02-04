@@ -6,7 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
-* [Substitute Engrossed](S.E/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5173 Property exempt from exec.

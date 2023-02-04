@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Fri 02/03 10:30 AM - Labor & Workplace Standards (LAWS): HB 1570 TNC insurance programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30581&aId=150159&caId=20989&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30581&aId=150159&caId=20989&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30581&aId=150159&caId=20989&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30581&aId=150159&caId=20989&tId=4)
-
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Allison Ford - Uber Technologies
+* Nick  Johnson  - Lyft
+* Noel Mendoza
+* Don Creery - 220 ne 65th St
+* Jennifer Heinlein
+* Peter Kuel - 25112 45th Ave
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

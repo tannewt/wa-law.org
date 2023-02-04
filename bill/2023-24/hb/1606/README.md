@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Consumer Protection & Business (CPB): HB 1606 Electronic commerce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150488&caId=21028&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150488&caId=21028&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150488&caId=21028&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150488&caId=21028&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Larry  Shannon - Washington State Association for Justice
 * Erin Raden - The Toy Association
 
-#### 0 👎 - Con
+#### 29 👎 - Con
+Testifying:
+* 💵Kelly Fukai - WTIA
+* Nora  Palattao Burnes - TechNet
 
 #### 0 ❓ - Other

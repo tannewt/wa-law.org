@@ -67,6 +67,9 @@
 ## [HB 1476](/bill/2023-24/hb/1476/) - Impact fees/law enforcement  👎1 
 * 👎💵 Bill Stauffacher
 
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
+* 👍💵 Brent Ludeman
+
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary  👎1 
 * 👎💵 Jan Himebaugh
 

@@ -1,0 +1,16 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1722](/bill/2023-24/hb/1722/) > [Original Bill](/bill/2023-24/hb/1722/1/)
+
+# HB 1722 - Tow truck operator comp.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1722.pdf)
+
+## Section 1
+1. Any person operating any vehicle or moving any object or conveyance upon any public highway in this state or upon any bridge or elevated structure that is a part of any such public highway is liable for all damages that the public highway, bridge, elevated structure, or other state property may sustain, as well as payment for all vehicle towing, recovery, impound, and storage charges to any registered tow truck operator dispatched by law enforcement or other agency to clear the roadway or impound or recover a vehicle, as a result of any illegal or negligent operation of the vehicle or the moving of any such object or conveyance or as a result of the operation or moving of any vehicle, object, or conveyance weighing in excess of the legal weight limits allowed by law.
+
+2. This section applies to any person operating any vehicle or moving any object or contrivance in any illegal or negligent manner or without a special permit as provided by law for vehicles, objects, or contrivances that are overweight, overwidth, overheight, or overlength. Any person operating any vehicle is liable for any damage to any public highway, bridge, elevated structure, or other state property sustained, as well as payment for all vehicle towing, recovery, impound, and storage charges to any registered tow truck operator dispatched by law enforcement or other agency to clear the roadway or impound or recover a vehicle, as the result of any negligent operation thereof. When the operator is not the owner of the vehicle, object, or contrivance but is operating or moving it with the express or implied permission of the owner, the owner and the operator are jointly and severally liable for any such damage.
+
+3. [Empty]
+
+    a. Such damage to any state highway, structure, or other state property may be recovered in a civil action instituted in the name of the state of Washington by the department of transportation or other affected state agency. Any measure of damage determined by the department of transportation to its highway, bridge, elevated structure, or other property under this section is prima facie the amount of damage caused thereby and is presumed to be the amount recoverable in any civil action therefor. The damages available under this section include the incident response costs, including traffic control, incurred by the department of transportation.
+
+    b. The towing, recovery, impound, and storages fees incurred by a registered tow truck operator dispatched by law enforcement or other agency to clear a roadway or impound or recover a vehicle are to be paid to the registered tow truck operator directly by the insured or as a third-party claim under the liability insurance coverage of the insured. Payment shall be made promptly and without unreasonable delay. The rates charged for towing, impound, recovery, and storage fees shall not exceed the amounts established for such services under the fee schedule adopted under RCW 46.55.118.

@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Health & Long Term Care (HLTC): SB 5300 Behavioral health continuity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150369&caId=20892&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150369&caId=20892&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150369&caId=20892&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150369&caId=20892&tId=4)
-
-#### 15 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Melanie Smith - NAMI Washington
 * Debbie Plotnick - Mental Heath America
 * Glen Chase
+* Robin Berger - Washington State Psychiatric Association (WSPA)
+* Jaime Fazzone - Washington State Pharmacy Association Behavioral Health Special Interest Group
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

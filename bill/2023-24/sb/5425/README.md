@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30639&aId=150608&caId=21118&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30639&aId=150608&caId=21118&tId=4)
 
-#### 0 👍 - Pro
+#### 127 👍 - Pro
+Testifying:
+* Iran Carmona - Apprentice, UA Local 699 Sprinkler Fitters
+* Kevin Johnston - Service Manager, Redhawk Fire protection
+* Pat Dillon - Manager, Fire Chief Equipment
+* Ricky Campbell - Field Representative, UA Local 699 Sprinkler Fitters
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

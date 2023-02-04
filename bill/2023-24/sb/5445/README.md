@@ -8,23 +8,28 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Health & Long Term Care (HLTC): SB 5445 Prescription cost-sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150371&caId=20894&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150371&caId=20894&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150371&caId=20894&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30541&aId=150371&caId=20894&tId=4)
-
-#### 21 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Karen Ferguson - Our Stories Rx
 * Dharia McGrew - PhRMA
 * 💵Nathaniel Brown - Chronic Disease Coalition
+* Rob Geddes - Albertsons Companies, Inc.
+* Dawn Bennett - NAACP and African American Leadership Forum
+* Dr. James Carter - The Breakfast Group
+* Erin Callahan - Diabetes Patient Advocacy Coalition
+* Sarah Wood - Patient Pocket Protector Coalition
 
-#### 3 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
 * ron adams - Cascade Construction
+* Jon  Rossman - CEO and Owner of Chuckals Office Supply
+* LuGina Mendez Harper - Prime Therapeutics
+* Chris Bandoli - America's Health Insurance Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Angela Henderson
+* Fred Brown - National Labor Alliance of Healthcare Coalitions
 
 #### 1 ❓ - Other
 Testifying:

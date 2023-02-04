@@ -1,0 +1,50 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1752](/bill/2023-24/hb/1752/) > [Original Bill](/bill/2023-24/hb/1752/1/)
+
+# HB 1752 - Modifying the application of the annual consumptive quantity calculation to change applications related to certain water rights held by the United States bureau of reclamation.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1752.pdf)
+
+## Section 1
+1. The right to the use of water which has been applied to a beneficial use in the state shall be and remain appurtenant to the land or place upon which the same is used: PROVIDED, HOWEVER, That the right may be transferred to another or to others and become appurtenant to any other land or place of use without loss of priority of right theretofore established if such change can be made without detriment or injury to existing rights. The point of diversion of water for beneficial use or the purpose of use may be changed, if such change can be made without detriment or injury to existing rights.
+
+    a. A change in the place of use, point of diversion, and/or purpose of use of a water right to enable irrigation of additional acreage or the addition of new uses may be permitted if such change results in no increase in the annual consumptive quantity of water used under the water right.
+
+    b. For water rights held by the United States bureau of reclamation for water use within the boundaries of the Columbia Basin project, the bureau of reclamation may apply for and obtain approval for a change in the number of acres that may be irrigated with such water rights, so long as such a change does not result in any increase in the instantaneous or annual out-of-stream authorized quantity of such rights and so long as the department determines that such a change would not result in an impairment of any other water rights. The provisions of (a) of this subsection do not apply to a change application filed pursuant to this subsection (1)(b).
+
+    c. For purposes of this section, "annual consumptive quantity" means the estimated or actual annual amount of water diverted pursuant to the water right, reduced by the estimated annual amount of return flows, averaged over the two years of greatest use within the most recent five-year period of continuous beneficial use of the water right.
+
+    d. Before any transfer of such right to use water or change of the point of diversion of water or change of purpose of use can be made, any person having an interest in the transfer or change, shall file a written application therefor with the department, and the application shall not be granted until notice of the application is published as provided in RCW 90.03.280. If it shall appear that such transfer or such change may be made without injury or detriment to existing rights, the department shall issue to the applicant a certificate in duplicate granting the right for such transfer or for such change of point of diversion or of use. The certificate so issued shall be filed and be made a record with the department and the duplicate certificate issued to the applicant may be filed with the county auditor in like manner and with the same effect as provided in the original certificate or permit to divert water.
+
+2. If an application for change proposes to transfer water rights from one irrigation district to another, the department shall, before publication of notice, receive concurrence from each of the irrigation districts that such transfer or change will not adversely affect the ability to deliver water to other landowners or impair the financial integrity of either of the districts.
+
+3. A change in place of use by an individual water user or users of water provided by an irrigation district need only receive approval for the change from the board of directors of the district if the use of water continues within the irrigation district, and when water is provided by an irrigation entity that is a member of a board of joint control created under chapter 87.80 RCW, approval need only be received from the board of joint control if the use of water continues within the area of jurisdiction of the joint board and the change can be made without detriment or injury to existing rights.
+
+4. This section shall not apply to trust water rights acquired by the state through the funding of water conservation projects under chapter 90.38 RCW or RCW 90.42.010 through 90.42.070.
+
+5. [Empty]
+
+    a. Pending applications for new water rights are not entitled to protection from impairment, injury, or detriment when an application relating to an existing surface or ground water right is considered.
+
+    b. Applications relating to existing surface or ground water rights may be processed and decisions on them rendered independently of processing and rendering decisions on pending applications for new water rights within the same source of supply without regard to the date of filing of the pending applications for new water rights.
+
+    c. Notwithstanding any other existing authority to process applications, including but not limited to the authority to process applications under WAC 173-152-050 as it existed on January 1, 2001, an application relating to an existing surface or ground water right may be processed ahead of a previously filed application relating to an existing right when sufficient information for a decision on the previously filed application is not available and the applicant for the previously filed application is sent written notice that explains what information is not available and informs the applicant that processing of the next application will begin. The previously filed application does not lose its priority date and if the information is provided by the applicant within 60 days, the previously filed application shall be processed at that time. This subsection (5)(c) does not affect any other existing authority to process applications.
+
+    d. Nothing in this subsection (5) is intended to stop the processing of applications for new water rights.
+
+6. No applicant for a change, transfer, or amendment of a water right may be required to give up any part of the applicant's valid water right or claim to a state agency, the trust water rights program, or to other persons as a condition of processing the application.
+
+7. In revising the provisions of this section and adding provisions to this section by chapter 237, Laws of 2001, the legislature does not intend to imply legislative approval or disapproval of any existing administrative policy regarding, or any existing administrative or judicial interpretation of, the provisions of this section not expressly added or revised.
+
+8. The development and use of a small irrigation impoundment, as defined in RCW 90.03.370(8), does not constitute a change or amendment for the purposes of this section. The exemption expressly provided by this subsection shall not be construed as requiring a change or transfer of any existing water right to enable the holder of the right to store water governed by the right.
+
+9. [Empty]
+
+    a. The department may only approve an application submitted after June 30, 2019, for an interbasin water rights transfer after providing notice electronically to the board of county commissioners in the county of origin upon receipt of an application.
+
+    b. For the purposes of this subsection:
+
+        i. "Interbasin water rights transfer" means a transfer of a water right for which the proposed point of diversion is in a different basin than the proposed place of beneficial use.
+
+        ii. "County of origin" means the county from which a water right is transferred or proposed to be transferred.
+
+    c. This subsection applies to counties located east of the crest of the Cascade mountains.

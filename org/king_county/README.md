@@ -142,7 +142,12 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
+* 👍 Kelly Rider
+
 ## [HB 1531](/bill/2023-24/hb/1531/) - Aerospace industry dev. 👍1  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
@@ -204,6 +209,8 @@
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍1  
 
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
+
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍2  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
@@ -235,6 +242,8 @@
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍2  
+
+## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
 * 👍 Magan Cromar

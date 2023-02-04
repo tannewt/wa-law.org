@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Rod Higgins - Deputy Mayor, City of Spokane Valley
 
-#### 0 👎 - Con
+#### 30 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chad Enright - Kitsap County Prosecutor

@@ -8,16 +8,15 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Consumer Protection & Business (CPB): HB 1632 Retirement options study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150490&caId=21030&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150490&caId=21030&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150490&caId=21030&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30590&aId=150490&caId=21030&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Kim Olson - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
+* Brian Moreno
+* Marguerite  Ro - AARP Washington State
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
+* Maeghan Gale - National Association of Insurance and Financial Advisors

@@ -19,3 +19,22 @@ Sign up to testify:
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
+
+### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5624 Substance use recovery serv.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=4)
+
+#### 203 👍 - Pro
+Testifying:
+* Heather Kelly - League of Women Voters of Washington
+* Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
+* Caleb Banta-Green - University of Washington, Addictions, Drug & Alcohol Institute
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Chad Enright - Kitsap County Prosecutor

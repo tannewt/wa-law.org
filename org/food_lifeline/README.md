@@ -35,12 +35,16 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍2  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Aaron Czyzewski
+
+## [HB 1603](/bill/2023-24/hb/1603/) - Agricultural products promo. 👍1  
 
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 
@@ -53,6 +57,8 @@
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍2  
+
+## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍4  
 

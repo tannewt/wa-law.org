@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/07 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1661 Mobile crisis intervention
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151015&caId=21259&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151015&caId=21259&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151015&caId=21259&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151015&caId=21259&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

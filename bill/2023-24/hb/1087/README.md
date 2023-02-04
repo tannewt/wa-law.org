@@ -9,23 +9,21 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Appropriations (APP): SHB 1087 Solitary confinement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30578&aId=150481&caId=21038&tId=4)
-
-#### 278 👍 - Pro
+#### 416 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
 * Micaela Romero
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 3 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Brenda Wiest - Teamsters 117
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * David Lovell
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1087 Solitary confinement
 #### 0 👍 - Pro

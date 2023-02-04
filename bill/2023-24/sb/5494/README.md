@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/02 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5494 Freight railroad infra.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30624&aId=150359&caId=20871&tId=4)
-
 #### 16 👍 - Pro
 Testifying:
 * Eric Temple - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)

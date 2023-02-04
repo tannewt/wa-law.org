@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1399 Native American scholarships

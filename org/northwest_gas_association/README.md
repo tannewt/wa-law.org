@@ -4,3 +4,6 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎2 
 * 👎💵 Dan Kirschner
+
+## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
+* 👍💵 Dan Kirschner

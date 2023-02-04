@@ -164,12 +164,17 @@
 
 ## [HB 1459](/bill/2023-24/hb/1459/) - PERS & TRS plan 1 adjustment 👍1  
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
+
+## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
+* 👍 Jared Mason-Gere
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
@@ -179,7 +184,8 @@
 * ❓💵 Simone Boe
 * 👎💵 Simone Boe
 
-## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍2  
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍3  
+* 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
 ## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers 👍1  
@@ -230,7 +236,7 @@
 
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
-## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
@@ -320,6 +326,8 @@
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
 * 👍💵 Nasue Nishida
 
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
 ## [SB 5505](/bill/2023-24/sb/5505/) - School year expansion   ❓1
 * ❓💵 Julie Salvi
 
@@ -328,3 +336,6 @@
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍2  
 
 ## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍1  
+
+## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation   ❓1
+* ❓ Jared Mason-Gere

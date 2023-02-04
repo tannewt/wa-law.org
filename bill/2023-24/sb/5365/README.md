@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=4)
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Mike Graham-Squire - Washington Association for Substance-misuse and Violence Prevention WASAVP
+* Carrie Nyssen - American Lung Association
+* Crystal Shen - WA Chapter of the American Academy of Pediatrics
+* Carol Coram - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 
 #### 0 👎 - Con
 

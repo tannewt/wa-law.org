@@ -8,18 +8,28 @@
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1417 Multistate nurse licensure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30572&aId=150100&caId=21002&tId=4)
-
-#### 17 👍 - Pro
+#### 340 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
+* Jackie Perkins - Coalition to Protect Patient Safety and Access
+* Krista  Testerman
+* Stacey Parkin
+* Tim Holmes
+* Jennifer Burkhardt - Summit Pacific Medical Center
+* 💵Lisa Thatcher - Washington State Hospital Association
+* RN, Jennifer Graham - MultiCare Health System
+* Deanna Martinez
+* Courtney Hobson
+* Rachel Doblar
+* Ramil Codina - USAF, Medical Commander Fairchild AFB
+* Tim Flemming
 
-#### 5 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* 💵Dane Austreng - SEIU Healthcare 1199NW
+* 💵Katharine Weiss - WA State Nurses Assoc
+* Lily Codega-Wilson - UFCW 3000
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Elizabeth Hovde - Washington Policy Center
