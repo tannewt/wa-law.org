@@ -16,10 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Eric pratt - America
 * Dawn Houghton - 4326 Springdale Hunters Rd
 * Michael Dolan
+* Kathleen McAuliffe
 
 #### 0 ❓ - Other

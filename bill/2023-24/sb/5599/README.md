@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * J. Denise Diskin - QLaw Foundation of Washington
 
-#### 730 👎 - Con
+#### 966 👎 - Con
 Testifying:
 * Eric Pratt - America
 * Julie Barrett - Conservative Ladies of Washington

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=151153&caId=21331&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=151153&caId=21331&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
 #### 0 👎 - Con
 

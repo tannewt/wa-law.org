@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30681&aId=150817&caId=21072&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30681&aId=150817&caId=21072&tId=4)
 
-#### 74 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Rocio Reyes - Emerald Downs
+* Boone  McCanna - Down The Stretch Ranch
 
 #### 2 👎 - Con
 

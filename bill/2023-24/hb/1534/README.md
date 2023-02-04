@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150753&caId=21264&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150753&caId=21264&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Tina Heavener
 * Bobbi Cussins
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
 #### 0 👎 - Con
 

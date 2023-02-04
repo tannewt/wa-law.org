@@ -19,6 +19,8 @@ Testifying:
 * Kate Dean - Commissioner, Kate Dean
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* john Worthington
 
 #### 0 ❓ - Other

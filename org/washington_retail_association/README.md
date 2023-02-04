@@ -5,6 +5,8 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals   ❓1
+
 ## [HB 1072](/bill/2023-24/hb/1072/) - Motor vehicle length 👍1  
 * 👍💵 Mark Johnson
 
@@ -57,6 +59,11 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
+
+## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
+* 👍💵 Mark Johnson
+
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment   ❓1
@@ -87,6 +94,9 @@
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech  👎1 
 
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
+* 👍💵 Mark Johnson
+
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax   ❓1
 * ❓💵 Mark Johnson
 
@@ -95,5 +105,7 @@
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  

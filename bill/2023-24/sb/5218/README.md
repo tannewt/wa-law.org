@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151059&caId=21173&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151059&caId=21173&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Donald Whitney - Inland Medical and Rehab
 * Bryce Schaffner - Bellevue Healthcare - Home Medical Equipment Provider

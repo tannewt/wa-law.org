@@ -27,14 +27,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=4)
 
-#### 203 👍 - Pro
+#### 305 👍 - Pro
 Testifying:
 * Heather Kelly - League of Women Voters of Washington
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * Caleb Banta-Green - University of Washington, Addictions, Drug & Alcohol Institute
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Chad Enright - Kitsap County Prosecutor

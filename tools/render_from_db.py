@@ -23,14 +23,20 @@ POSITION_TO_EMOJI = {
     "Other": "❓"
 }
 
-cur.execute("SELECT bills.rowid, prefix, number, COUNT(testifiers.sign_in_time) as ts FROM bills, testifiers, agenda_items WHERE bills.rowid = agenda_items.bill_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid GROUP BY testifiers.agenda_item_rowid ORDER BY ts DESC, number ASC")
+now = datetime.datetime.now()
+
+cur.execute("SELECT bills.rowid, prefix, number, COUNT(testifiers.sign_in_time) as ts, meetings.start_time, meetings.mId, committees.acronym FROM committees, bills, testifiers, agenda_items, meetings WHERE datetime(meetings.start_time) > datetime(?) AND committees.rowid = meetings.committee_rowid AND meetings.rowid = agenda_items.meeting_rowid AND bills.rowid = agenda_items.bill_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid GROUP BY testifiers.agenda_item_rowid ORDER BY datetime(start_time) ASC, acronym ASC, ts ASC, number ASC", (now,))
 index_lines = []
+index_lines.append("# 2023-24 Bills")
+index_lines.append("## Upcoming hearings")
 for row in cur:
     counts = db.cursor()
     counts.execute("SELECT position, COUNT(testifiers.position_rowid) FROM positions, testifiers, agenda_items WHERE positions.rowid = testifiers.position_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ? GROUP BY testifiers.position_rowid", (row[0],))
     position_counts = dict(counts)
     prefix = row[1]
     bill_number = row[2]
+    start_time = datetime.datetime.strptime(row[4].split("+")[0], "%Y-%m-%d %H:%M:%S")
+    start_time_str = start_time.strftime("%a %m/%d %I:%M %p")
     latest_revision = db.cursor()
     latest_revision.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC", (row[0],))
     description = latest_revision.fetchone()[0]
@@ -38,7 +44,29 @@ for row in cur:
     con = position_counts.get("Con", 0)
     other = position_counts.get("Other", 0)
     bill_path = pathlib.Path(prefix.lower()) / str(bill_number)
-    index_lines.append(f"* [{prefix} {bill_number}]({bill_path}) - {description} {pro}👍 {con}👎 {other}❓")
+    index_lines.append(f"* [{row[6]} {start_time_str}](https://app.leg.wa.gov/committeeschedules/Home/Agenda/{row[5]}) [{prefix} {bill_number}]({bill_path}) - {description} {pro}👍 {con}👎 {other}❓")
+index_lines.append("")
+
+index_lines.append("## Heard bills")
+cur.execute("SELECT bills.rowid, prefix, number, COUNT(testifiers.sign_in_time) as ts FROM bills, testifiers, agenda_items, meetings WHERE datetime(meetings.start_time) < datetime(?) AND meetings.rowid = agenda_items.meeting_rowid AND bills.rowid = agenda_items.bill_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid GROUP BY testifiers.agenda_item_rowid ORDER BY ts DESC, number ASC", (now,))
+for row in cur:
+    counts = db.cursor()
+    counts.execute("SELECT position, COUNT(testifiers.position_rowid) FROM positions, testifiers, agenda_items WHERE positions.rowid = testifiers.position_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ? GROUP BY testifiers.position_rowid", (row[0],))
+    position_counts = dict(counts)
+    prefix = row[1]
+    bill_number = row[2]
+    status = db.cursor()
+    status.execute("SELECT status from bill_status, bill_statuses WHERE bill_rowid = ? AND bill_status_rowid = bill_statuses.rowid ORDER BY action_date DESC LIMIT 1", (row[0],))
+    status = status.fetchone()[0]
+    latest_revision = db.cursor()
+    latest_revision.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC", (row[0],))
+    description = latest_revision.fetchone()[0]
+    pro = position_counts.get("Pro", 0)
+    con = position_counts.get("Con", 0)
+    other = position_counts.get("Other", 0)
+    bill_path = pathlib.Path(prefix.lower()) / str(bill_number)
+    index_lines.append(f"* [{prefix} {bill_number}]({bill_path}) - {description} {pro}👍 {con}👎 {other}❓ - {status}")
+
 
 bills_index = bills_path / "README.md"
 bills_index.write_text("\n".join(index_lines))

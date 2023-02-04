@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151048&caId=21162&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151048&caId=21162&tId=4)
 
-#### 149 👍 - Pro
+#### 163 👍 - Pro
 Testifying:
 * Sherrye Wyatt - Whidbey and Camano Islands Tourism
 * Kevin Lewis - Visit Tri-Cities

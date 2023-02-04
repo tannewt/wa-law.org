@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=4)
 
-#### 30 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Rick Kuss
 * Amy Ockerlander - Mayor, City of Duvall & Association of Washington Cities
@@ -25,10 +25,14 @@ Testifying:
 * LaDon Linde - Yakima County
 * Dana Ralph - Mayor of the City of Kent
 * Armondo Pavone - Mayor, City of Renton
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Ron Wesen - [Skagit County](/org/skagit_county/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Kelly Fordham
+* Jeff Baker
 
-#### 104 👎 - Con
+#### 128 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Chad Enright - Kitsap County Prosecutors

@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Lukas Hunter - Harmony Farms
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Shawn Wagenseller - Washington Bud Company
 
 #### 0 ❓ - Other

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=4)
 
-#### 67 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Randy Spaulding - Washington State Board of Education
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jen Rose - Lake Washington School District
+* Kim Reykdal - Office of Superintendent of Public Instruction (OSPI)

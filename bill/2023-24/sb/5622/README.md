@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 6 👍 - Pro
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Maggie Franquemont - [Center for Environmental Law & Policy](/org/center_for_environmental_law_&_policy/)
 

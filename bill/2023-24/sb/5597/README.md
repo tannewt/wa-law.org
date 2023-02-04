@@ -14,15 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150509&caId=21066&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150509&caId=21066&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Joren Clowers - Kalkomy
 
-#### 13 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Kyle Thomas - American Canoe Association (ACA)
 * James Good
 * Scot Harkins - Seattle Sake Paddling Club
 * Andrew Michels - Pacific Northwest Outrigger Canoe Racing Association
 * Gerald (Skip) Denny - Hui Heihei outrigger canoe club
+* Jim Virgin - Boating Program Advisory Council
+* Thomas O’Keefe - American Whitewater
 
 #### 2 ❓ - Other
 Testifying:

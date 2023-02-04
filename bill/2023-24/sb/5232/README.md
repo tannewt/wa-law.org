@@ -14,16 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=4)
 
-#### 56 👍 - Pro
+#### 76 👍 - Pro
 
-#### 198 👎 - Con
+#### 309 👎 - Con
 Testifying:
 * Eric pratt - America
 * Laurie A Layne
 * Julie Barrett - Conservative Ladies of Washington
 * Scott Freiboth
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tim Jones 
 
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5232 Firearms/purchase & transfer
 #### 810 👍 - Pro

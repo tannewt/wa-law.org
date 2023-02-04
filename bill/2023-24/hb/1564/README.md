@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=4)
 
-#### 48 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Quinn Dalan - Washington State Women’s Commission
 * Mary Robnett - Pierce County Prosecutor
 * 💵Leah Griffin - Sexual Assault Forensic Examination Working Group- Representative of Survivors
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 39 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * Debra  Carlson - Survivor
 * Kenzie Davis

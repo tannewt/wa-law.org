@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=4)
 
-#### 163 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
@@ -31,7 +31,7 @@ Testifying:
 * Scott  Livengood - Alpha Supported Living Services
 * Stacy  Dym - The Arc of Washington State
 
-#### 69 👎 - Con
+#### 180 👎 - Con
 Testifying:
 * 💵Greg Hanon - NAIOP
 * Travis Hale

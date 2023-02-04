@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Mendy Droke - Seattle City Light
 * Sam Hem - NWRC SMART Local 66
+* Ken Johnson - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
 #### 2 👎 - Con
 Testifying:

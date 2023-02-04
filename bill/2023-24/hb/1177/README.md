@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150777&caId=21190&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150777&caId=21190&tId=4)
 
-#### 45 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * John Hillman - WA State Attorney General's Office
 

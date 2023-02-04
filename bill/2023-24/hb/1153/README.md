@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150982&caId=21182&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150982&caId=21182&tId=4)
 
-#### 101 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Amanda Henson - Animal Rights Initiative
 * Josh Diamond - Animal Rights Initiative
@@ -23,7 +23,7 @@ Testifying:
 * Dylan Tchang
 * Giulia Malerbi - Aquatic Life Institute
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Swati Mewara
 * Jennifer  Jacquet - No, but I am an alumni of Western Washington University

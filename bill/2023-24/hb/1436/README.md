@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=4)
 
-#### 45 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Superintendent Patrick  Murphy  - Superintendent, Olympia School District
@@ -26,6 +26,7 @@ Testifying:
 * Suban Ali-Dahir
 * Elsa Sjunneson 
 * Devony Audet
+* Christine Ma
 
 #### 0 👎 - Con
 

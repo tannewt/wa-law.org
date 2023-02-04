@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=4)
 
-#### 198 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
 * Amanda Sandoval - United Way of King County
@@ -28,7 +28,11 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James Gregory
 
-#### 29 👎 - Con
+#### 131 👎 - Con
+Testifying:
+* Ellen Dimbat
+* Carol Paul
+* Michael Babbitt
 
 #### 0 ❓ - Other
 

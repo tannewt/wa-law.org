@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150891&caId=21076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150891&caId=21076&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jenee Myers Twitchell - Washington STEM
 * David Buri - Eastern Washington University

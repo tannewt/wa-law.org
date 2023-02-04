@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=4)
 
-#### 319 👍 - Pro
+#### 370 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * john Worthington - AAMC
+* john Worthington
 
 #### 2 ❓ - Other

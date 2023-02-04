@@ -16,9 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Ellie Mulpeter - Academy of Lactation Policy and Practice
 * Eugene Curry
+* Sharon Sullivan
 
 #### 0 ❓ - Other

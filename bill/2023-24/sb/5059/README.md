@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=4)
 
-#### 79 👍 - Pro
+#### 85 👍 - Pro
 
-#### 38 👎 - Con
+#### 42 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * Cindy MCMULLEN - Central Valley School Board

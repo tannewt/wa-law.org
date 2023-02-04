@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=4)
 
-#### 201 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * Jill Bujnevicie
 * Cynthia Stewart - Hearing Loss Association - WA
@@ -28,6 +28,7 @@ Testifying:
 * Preston Dwoskin
 * Kenny  McDougald  - Self
 * Rashid Ali
+* Anna Bires
 
 #### 0 👎 - Con
 

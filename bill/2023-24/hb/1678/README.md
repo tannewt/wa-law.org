@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=4)
 
-#### 38 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Andrew Guillen - Seattle Indian Health Board
 * Sarah Vander Beek - NeighborCare
 
-#### 133 👎 - Con
+#### 137 👎 - Con
 
 #### 0 ❓ - Other

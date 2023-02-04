@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150927&caId=21154&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150927&caId=21154&tId=4)
 
-#### 104 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Kate Van Gent - Seattle Metro Pickleball Association
 * Amy Greger - Seattle Metro Pickleball Association
@@ -22,4 +22,4 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other

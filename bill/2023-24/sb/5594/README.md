@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150931&caId=21158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150931&caId=21158&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Jamie Pascal - Chamber of Progress
+* Jeff Farrah - Autonomous Vehicle Industry Association
 
 #### 2 👎 - Con
 Testifying:
 * Philip Koopman
 * William Widen
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jim Restucci - Washington State Transportation Commission
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

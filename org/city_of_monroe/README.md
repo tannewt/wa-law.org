@@ -9,3 +9,7 @@
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns  👎1 
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  

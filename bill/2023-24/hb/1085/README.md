@@ -15,13 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150873&caId=21193&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150873&caId=21193&tId=4)
 
-#### 63 👍 - Pro
+#### 75 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:
 * john Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/10 04:00 PM - Environment & Energy (ENVI): HB 1085 Plastic pollution
 #### 0 👍 - Pro

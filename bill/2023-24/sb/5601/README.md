@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150678&caId=21108&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150678&caId=21108&tId=4)
 
-#### 27 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵David Beard - School's Out Washington
 

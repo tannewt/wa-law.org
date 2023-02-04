@@ -2,6 +2,12 @@
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
+## [HB 1524](/bill/2023-24/hb/1524/) - Prime contractor retainage 👍1  
+
+## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍1  
+
+## [HB 1558](/bill/2023-24/hb/1558/) - Self-insured pensions/fund 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  

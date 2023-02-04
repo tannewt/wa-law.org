@@ -31,3 +31,6 @@
 ## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program 👍1  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
+* 👎💵 Bruce Wishart

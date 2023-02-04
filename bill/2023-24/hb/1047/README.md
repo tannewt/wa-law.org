@@ -19,7 +19,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/09 01:30 PM - Environment & Energy (ENVI): HB 1047 Cosmetic product chemicals
 #### 0 👍 - Pro
