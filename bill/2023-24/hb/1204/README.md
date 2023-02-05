@@ -25,7 +25,7 @@ Sign up to testify:
 #### 14 👍 - Pro
 Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
-* Katie  Biron - Amara
+* Katie Biron - Amara
 * Nicole Mazen - Amara
 * Amy Jacobsen
 * Leroy Pascubillo - Amara

@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 Testifying:
-* Maddy  Symm - [Cypress Creek Renewables](/org/cypress_creek_renewables/)
+* Maddy Symm - [Cypress Creek Renewables](/org/cypress_creek_renewables/)
 
 #### 0 👎 - Con
 

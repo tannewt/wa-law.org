@@ -12,7 +12,7 @@
 Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Allison Ford - Uber Technologies
-* Nick  Johnson  - Lyft
+* Nick Johnson - Lyft
 * Noel Mendoza
 * Don Creery - 220 ne 65th St
 * Jennifer Heinlein

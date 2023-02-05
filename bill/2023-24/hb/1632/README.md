@@ -12,7 +12,7 @@
 Testifying:
 * Kim Olson - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Brian Moreno
-* Marguerite  Ro - AARP Washington State
+* Marguerite Ro - AARP Washington State
 
 #### 3 👎 - Con
 

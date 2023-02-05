@@ -17,7 +17,7 @@ Testifying:
 * Steve Austin
 * Jamison Smith - WSCFF
 * Steve Bradley - WSCFF
-* Jarl  Peterson
+* Jarl Peterson
 
 #### 9 👎 - Con
 Testifying:

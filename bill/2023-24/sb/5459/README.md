@@ -29,7 +29,7 @@ Testifying:
 
 #### 231 👎 - Con
 Testifying:
-* Debra  Dassler 
+* Debra Dassler
 * Suzanne Rohner
 
 #### 2 ❓ - Other

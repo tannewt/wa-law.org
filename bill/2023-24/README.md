@@ -267,7 +267,7 @@
 * [HB 1244](hb/1244) - Enrichment levy authority 400👍 521👎 2❓ - H Exec Action
 * [SB 5489](sb/5489) - Health care services/access 471👍 434👎 1❓ - S Rules 2
 * [SB 5198](sb/5198) - Mobile home community sales 770👍 132👎 2❓ - S Housing
-* [HB 1424](hb/1424) - Dogs and cats/consumers 740👍 149👎 6❓ - H ConsPro&Bus
+* [HB 1424](hb/1424) - Dogs and cats/consumers 740👍 148👎 6❓ - H ConsPro&Bus
 * [SB 5242](sb/5242) - Abortion cost sharing 504👍 384👎 0❓ - S Ways & Means
 * [HB 1269](hb/1269) - Rx drug affordability board 850👍 21👎 9❓ - H HC/Wellness
 * [HB 1025](hb/1025) - Police/private actions 836👍 40👎 1❓ - H Civil R & Judi

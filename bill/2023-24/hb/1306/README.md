@@ -29,7 +29,7 @@ Testifying:
 * 💵Paula Sardinas - FMSGS / WBBA
 * Janice Zahn - Chair of the Capital Projects Advisory Review Board
 * 💵Mark Riker - Executive Secretary, WA State Building & Construction Trades Council
-* Paula Sardinas  - WA Build Back Black Alliance - (WBBA)
+* 💵Paula Sardinas - WA Build Back Black Alliance - (WBBA)
 * Bill Frare - Department of Enterprise Services
 
 #### 1 👎 - Con

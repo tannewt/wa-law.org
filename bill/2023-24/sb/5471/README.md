@@ -11,7 +11,7 @@
 #### 8 👍 - Pro
 Testifying:
 * Aileen Denton
-* Mark  Smith
+* Mark Smith
 * Bruce Barnes - Myself
 
 #### 3 👎 - Con

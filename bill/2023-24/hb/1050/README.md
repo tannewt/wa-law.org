@@ -20,7 +20,7 @@ Testifying:
 * Jason Benway - IBEW L 73
 * Matt Chapman - Ironworkers L 14
 * Sheldon Bennett - Southwest Mountain States Regional Council of Carpenters,  Local Union 59
-* Michael  Wright - Opcmia local 72
+* Michael Wright - Opcmia local 72
 * Anthony Edwards - Southwest Mountain States Regional Council of Carpenters
 * Julian Jensen - SW Mountain States Regional Council of Carpenters
 

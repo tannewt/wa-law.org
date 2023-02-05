@@ -19,13 +19,13 @@
 * 👍 Tonya Isabell
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍4  
-* 👍 Debbie  Novak
+* 👍 Debbie Novak
 * 👍💵 Nickeia Hunter
 * 👍 Po Leapai
 * 👍 Leslie Cushman
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍2  
-* 👍 Nickeia  Hunter
+* 👍💵 Nickeia Hunter
 * 👍 Leslie Cushman
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 

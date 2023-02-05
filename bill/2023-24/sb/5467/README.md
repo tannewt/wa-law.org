@@ -21,7 +21,7 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jim Ferrell - Mayor, City of Federal Way
 * Andrew Rolwes - Vice President, Downtown Spokane Partnership
-* Craig  Meidl - Chief of Police, Spokane
+* Craig Meidl - Chief of Police, Spokane
 * Nadine Woodward - Mayor, City of Spokane
 * LaDon Linde - Yakima County
 * Dana Ralph - Mayor of the City of Kent

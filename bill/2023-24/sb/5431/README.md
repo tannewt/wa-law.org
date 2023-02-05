@@ -16,7 +16,7 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Wes Stewart - Sierra Club Washington
 * Devon Kellogg - Washington State PTA
-* Megan  Slade - Beacon Hill Council
+* Megan Slade - Beacon Hill Council
 * christian poulsen - Drcc
 
 #### 50 👎 - Con

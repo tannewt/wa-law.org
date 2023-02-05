@@ -26,7 +26,7 @@ Testifying:
 * Doug Baker - PNW A G Bell Association for the Deaf and Hard of Hearing
 * Haley Klinkert
 * Preston Dwoskin
-* Kenny  McDougald  - Self
+* Kenny McDougald - Self
 * Rashid Ali
 * Anna Bires
 
@@ -40,8 +40,8 @@ Testifying:
 #### 331 👍 - Pro
 Testifying:
 * Cynthia Stewart - Hearing Loss Association - WA
-* Jill  Bujnevicie  - Let Washington Kids Hear
-* Doug  Baker - Pacific NW AG Bell Association for the Deaf and Hard of Hearing
+* Jill Bujnevicie - Let Washington Kids Hear
+* Doug Baker - Pacific NW AG Bell Association for the Deaf and Hard of Hearing
 * Douglas Sladen
 * Hollie Sandlin - Hollie Sandlin MD
 * Christine Griffin
@@ -56,7 +56,7 @@ Testifying:
 * Rebecca Kolsky
 * Ruby Kotovic
 * Chad Ruffin - Chad Ruffin, MD
-* Christina  Aguirre-Slater
+* Christina Aguirre-Slater
 * Davis Bean
 * Norma Almli
 * Cassidy Bean

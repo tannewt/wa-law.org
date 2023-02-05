@@ -18,10 +18,10 @@
 #### 62 👍 - Pro
 Testifying:
 * Lisa Rivera Smith
-* Holly Krejci  - KCIACC
-* Sameth  Mell - KCIACC
-* Velma  Veloria
-* Ali  Lee
+* Holly Krejci - KCIACC
+* Sameth Mell - KCIACC
+* Velma Veloria
+* Ali Lee
 * Christian Poulsen - Duwamish River Community Coalition, King County International Airport Community Coalition
 * Brandon Bowersox-Johnson
 * Jeffry Berner

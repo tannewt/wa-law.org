@@ -11,7 +11,7 @@
 ### Thu 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5150 Beef levied assessment
 #### 157 👍 - Pro
 Testifying:
-* Jay  Theiler - Washington Beef
+* Jay Theiler - Washington Beef
 * 💵Jack Field - Executive Director, Washington Cattle Feeders Aoocaiton
 * 💵Jack Field - self
 * Kallie Harder - Washington Farm Bureau - Young Farmers and Ranchers Committee
@@ -19,7 +19,7 @@ Testifying:
 * Fred Colvin
 * Jennifer Colvin - Colvin Ranch
 * Bill Sieverkropp - Member, Grant County Cattlemen
-* Jeff  Keane - President, Washington State Cattlemen
+* Jeff Keane - President, Washington State Cattlemen
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 * Mike Hajny - Member, Kittitas County Cattlemen
 

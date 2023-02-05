@@ -10,8 +10,8 @@
 ### Thu 02/02 01:30 PM - Early Learning & K-12 Education (EDU): SB 5408 Ninth grade success grants
 #### 107 👍 - Pro
 Testifying:
-* Douglas  Judge - Center for High School Success
-* Henterson  Carlisle - Center for High School Success
+* Douglas Judge - Center for High School Success
+* Henterson Carlisle - Center for High School Success
 * Thomas Caudle - Lindbergh High School, Renton School District
 
 #### 2 👎 - Con

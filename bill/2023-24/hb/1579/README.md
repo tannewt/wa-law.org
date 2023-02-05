@@ -10,8 +10,8 @@
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1579 Independent prosecutions
 #### 444 👍 - Pro
 Testifying:
-* Mayor, Victoria  Woodards - [City of Tacoma](/org/city_of_tacoma/)
-* Debbie  Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Mayor, Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
+* Debbie Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Po Leapai - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Sonia Joseph - My Advocate

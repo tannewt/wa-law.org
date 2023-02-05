@@ -18,10 +18,10 @@ Testifying:
 
 #### 7 👎 - Con
 Testifying:
-* Seth  Berntsen - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Seth Berntsen - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Bob Battles - Association of Washington Business (AWB)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* James  McMahan - WA Assoc Sheriffs & Police Chiefs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Arthur West
 
 #### 3 ❓ - Other

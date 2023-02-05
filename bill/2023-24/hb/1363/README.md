@@ -11,7 +11,7 @@
 #### 265 👍 - Pro
 Testifying:
 * Jill Boudreau - Mayor, City of Mount Vernon
-* Samantha  Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Rafael Padilla - [City of Kent](/org/city_of_kent/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
@@ -24,20 +24,20 @@ Testifying:
 * Tracie Markley - [City of Gig Harbor](/org/city_of_gig_harbor/)
 * Craig Meidl - Chief of Police, City of Spokane
 * Emilie Cameron - Director, Downtown Spokane Partnership
-* Jonathan  Bingle - Councilman, City of Spokane
+* Jonathan Bingle - Councilman, City of Spokane
 * Nadine Woodward - Mayor, City of Spokane
 * Kyle Hardtke
 * Brett Gailey - Mayor, City of Lake Stevens
 * Russell Wiita - Mayor, City of Sultan
 * Rafael Padilla - Chief of Police, City of Kent
 * James McMahan - Washington Association of Sheriffs and Police Chiefs
-* John  Horch - Clark County Sheriff - Clark County Sheriff's Office
+* John Horch - Clark County Sheriff - Clark County Sheriff's Office
 * Rod Higgins - Deputy Mayor, City of Spokane Valley
 * Derek Sanders - Sheriff, Thurston
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Thomas Reinhard - Cascadia Pizza Co.
 * Richard Grunewald
-* Katherine  Adams
+* Katherine Adams
 * Dawn Land
 
 #### 595 👎 - Con
@@ -48,10 +48,10 @@ Testifying:
 * Heather Kelly - League of Women Voters of Washington
 * HyeEun Park - BIPOC ED Coalition of Washington
 * Adriana Suluai - UTOPIA Washington
-* Jordan  Landry
+* Jordan Landry
 * Kurtis Robertson - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
-* Nina  Martinez - Latino Civic Alliance
+* Nina Martinez - Latino Civic Alliance
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Kathryn Kravit-Smith
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)

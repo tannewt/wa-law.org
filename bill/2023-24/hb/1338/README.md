@@ -11,7 +11,7 @@
 #### 22 👍 - Pro
 Testifying:
 * Pat Seibert-Love - SBCTC
-* Hanan  Al-Zubaidy - State Board for Community and Technical Colleges
+* Hanan Al-Zubaidy - State Board for Community and Technical Colleges
 * 💵Vicki Christophersen - [Justice Action Network](/org/justice_action_network/)
 
 #### 0 👎 - Con

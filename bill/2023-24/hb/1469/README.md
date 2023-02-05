@@ -16,17 +16,17 @@ Testifying:
 * Dr. Katina Rue - Washington State Medical Association
 * Jaelynn Scott - Lavender Rights Project
 * Danni Askini - Gender Justice League
-* Dr. Sarah  Prager - American College of Obstetricians and Gynecologists
+* Dr. Sarah Prager - American College of Obstetricians and Gynecologists
 * Dr. Suzanne Poppema
 * ARNP, Ashley Wilson - Planned Parenthood of Greater Washington and North Idaho
-* Alizeh  Bhojani - [Legal Voice](/org/legal_voice/)
-* Carey  Morris - Washington State Coalition Against Domestic Violence
+* 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
+* 💵Carey Morris - Washington State Coalition Against Domestic Violence
 * Hillary Whitmore
 * Mary Lynne Courtney - League of Women Voters WA
 
 #### 342 👎 - Con
 Testifying:
 * Shannon Carlile - Conservative Ladies of WA
-* James  McMahan - WA Assoc Sheriffs & Police Chiefs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

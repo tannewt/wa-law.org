@@ -18,7 +18,7 @@ Testifying:
 * Reshonna Reynolds - MomsRising
 * Jessica Smith - WSA, WSUV
 * 💵Eli Goss - OneAmerica
-* Nancy  Cruz - Community For Our College
+* Nancy Cruz - Community For Our College
 * xochilt lopez - Community For Our College
 * Hannahrose Bracy - communities for our college yvcc
 * Pamela Munizza - AFT Washington Clover Park Vocation Local 3913

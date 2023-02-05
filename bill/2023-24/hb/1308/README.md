@@ -18,8 +18,8 @@ Sign up to testify:
 Testifying:
 * Randy Spaulding - Washington State Board of Education
 * Michelle Nims - Washington State PTA
-* John  Parker  - [Central Valley School District](/org/central_valley_school_district/)
-* Brian  Mathieson  - Vancouver School District
+* John Parker - [Central Valley School District](/org/central_valley_school_district/)
+* Brian Mathieson - Vancouver School District
 
 #### 0 👎 - Con
 

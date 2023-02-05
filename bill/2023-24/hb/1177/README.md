@@ -26,7 +26,7 @@ Testifying:
 ### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1177 Indigenous women
 #### 103 👍 - Pro
 Testifying:
-* Karen  Condon - Confederated Tribes of the Colville Reservation
+* Karen Condon - Confederated Tribes of the Colville Reservation
 * Anna Bean - Councilmember- Puyallup Tribe of Indians
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Annie Forsman-Adams - WA State Attorney General's Office

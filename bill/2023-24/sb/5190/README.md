@@ -14,11 +14,11 @@ Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Jacob Vigdor - University of Washington faculty
 * Troy Schmeil - Sapphire Homes Inc./Callidus Development, Inc.
-* Zachary  Stoneman - Lake Washington High School
+* Zachary Stoneman - Lake Washington High School
 * 💵Michael White - [King County](/org/king_county/)
 * HUgo Garcia - City of Burien Councilmember
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Joe  Tovar - Washington Department of Commerce
+* Joe Tovar - Washington Department of Commerce
 * MARK SMITH - Housing Consortium of Everett & Snohomish County
 * Fred Felleman - Port of Seattle Commissioner
 * Dave Andersen - Washington Department of Commerce
@@ -41,7 +41,7 @@ Testifying:
 #### 53 👎 - Con
 Testifying:
 * Katrina Knutson - [City of Gig Harbor](/org/city_of_gig_harbor/)
-* Mayor, Rob  Putaansuu - [City of Port Orchard](/org/city_of_port_orchard/)
+* Mayor, Rob Putaansuu - [City of Port Orchard](/org/city_of_port_orchard/)
 * Kyle Moore - City of SeaTac
 * City Councilmember Jack Walsh - [City of Federal Way](/org/city_of_federal_way/)
 

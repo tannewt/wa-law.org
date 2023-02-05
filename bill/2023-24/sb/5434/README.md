@@ -28,6 +28,6 @@ Testifying:
 * Holly Cousens - Yakima City Council Member
 * Patricia Byers - Yakima City Council Member
 * Matt Murray - Yakima Police Department
-* Judge Jennifer  Forbes - Superior Court Judges' Association
+* Judge Jennifer Forbes - Superior Court Judges' Association
 
 #### 1 ❓ - Other

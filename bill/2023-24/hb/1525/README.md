@@ -13,7 +13,7 @@ Testifying:
 * 💵Maya Gillett
 * 💵Heather Kurtenbach - Ironworkers Local 86
 * Michael Swanson - Ironworkers Local 86 Apprentice
-* Tara  Davis - Ironworkers Local 86 Apprentice
+* Tara Davis - Ironworkers Local 86 Apprentice
 * Timothy O'Donnell Sr. - I.B.E.W. Local 76
 * 💵Erin Frasier - WA State Building & Construction Trades Council
 

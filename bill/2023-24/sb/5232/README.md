@@ -27,7 +27,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Tim Jones 
+* Tim Jones
 
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5232 Firearms/purchase & transfer
 #### 810 👍 - Pro
@@ -43,7 +43,7 @@ Testifying:
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Emily Smith
-* Steve  Clunas
+* Steve Clunas
 * eric Pratt - America
 * Russell Swanner
 * Lee Swanner
@@ -51,7 +51,7 @@ Testifying:
 * Jeffrey Campbell
 * Ronald Lorimer
 * Eric Pratt - I, America
-* Matthew  Page
+* Matthew Page
 * Sean Yunt
 
 #### 0 ❓ - Other

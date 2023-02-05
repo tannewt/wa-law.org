@@ -13,7 +13,7 @@ Testifying:
 * Elisa Cisneros - La Resistencia
 * Manuel Abrego - La Resistencia
 * Maru Mora Villalpando - La Resistencia
-* Tim  Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
 #### 14 👎 - Con
 

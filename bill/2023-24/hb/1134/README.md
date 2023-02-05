@@ -20,7 +20,7 @@ Testifying:
 * Kristen Wells
 * Jennifer Stuber - [University of Washington](/org/university_of_washington/)
 * 💵Paula Sardinas - WBBA/FMSGS
-* Vicki  Lowe - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
+* 💵Vicki Lowe - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
 * Kyle Moore - City of SeaTac
 * 💵Anna Nepomuceno - NAMI WA
 * Kelly Rider - [King County](/org/king_county/)

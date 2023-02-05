@@ -14,13 +14,13 @@
 Testifying:
 * Cecilia Conley
 * Anthony Powers - Seattle Clemency Project
-* Gail  Brashear - Seattle Clemency Project
-* Jennifer  Smith - Seattle Clemency Project
+* Gail Brashear - Seattle Clemency Project
+* Jennifer Smith - Seattle Clemency Project
 * Noreen Light - Information For A Change
 
 #### 4 ❓ - Other
 Testifying:
-* Jeffrey  Ellis - Redemption Project of WA
+* Jeffrey Ellis - Redemption Project of WA
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Nick Straley - [Columbia Legal Services](/org/columbia_legal_services/)
 * Timothy Ford
@@ -34,11 +34,11 @@ Testifying:
 Testifying:
 * Anthony Powers - Seattle Clemency Project
 * Gail Brashear
-* Jennifer  Smith - Seattle Clemency Project
+* Jennifer Smith - Seattle Clemency Project
 
 #### 10 ❓ - Other
 Testifying:
-* Jeffrey  Ellis - Redemption Project WA
+* Jeffrey Ellis - Redemption Project WA
 * Nick Straley - [Columbia Legal Services](/org/columbia_legal_services/)
 * David Trieweiler - WACDL/WDA
 * Timothy Ford

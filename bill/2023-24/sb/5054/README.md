@@ -11,7 +11,7 @@
 ### Mon 01/16 01:30 PM - Early Learning & K-12 Education (EDU): SB 5054 Prof. learning communities
 #### 6 👍 - Pro
 Testifying:
-* Marcia  Holland
+* Marcia Holland
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 #### 1 👎 - Con

@@ -11,15 +11,15 @@
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1108 Persistent offenders
 #### 77 👍 - Pro
 Testifying:
-* Jacob  Schmitt
-* Jeffrey  Ellis - Redemption Project of WA
+* Jacob Schmitt
+* Jeffrey Ellis - Redemption Project of WA
 * Jacob Schmitt - WA DOC
 * Larry Jefferson - Washington State Office of Public Defense
 * David Trieweiler - WACDL/WDA
 * Vidal Vincent
-* Anita  Khandelwal - King County Department of Public Defense
+* Anita Khandelwal - King County Department of Public Defense
 * Vidal Vincent
-* Eugene  Youngblood 
+* Eugene Youngblood
 * Dyneeca Adams
 
 #### 7 👎 - Con

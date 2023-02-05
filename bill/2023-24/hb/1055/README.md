@@ -16,7 +16,7 @@ Testifying:
 * Katelynn Schlining - Spokane Regional Emergency Communications
 * James Schrimpsher - Washington State Fraternal Order of Police
 * Nicholas Curry
-* Mary  Keefe
+* Mary Keefe
 * Erica Brown - Teamsters 763
 
 #### 1 👎 - Con

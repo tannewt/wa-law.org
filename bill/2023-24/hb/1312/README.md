@@ -14,6 +14,6 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Judge Stanley  Rumbaugh  - Superior Court Judges' Association
+* Judge Stanley Rumbaugh - Superior Court Judges' Association
 
 #### 1 ❓ - Other

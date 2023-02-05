@@ -27,7 +27,7 @@ Testifying:
 * Jayme Croff
 * Jan Westling
 * Dana Rosenbach - North Mason School District
-* Kathy  Emerick  - Dir. of PreK and Elementary Success, Highline Public Schools
+* Kathy Emerick - Dir. of PreK and Elementary Success, Highline Public Schools
 * Krestin Bahr - Peninsula
 * Ingrid Colvard - Stevenson-Carson School District
 * James Everett - Meridian School District
@@ -41,10 +41,10 @@ Testifying:
 * Kyle Ehlis - North Mason School District
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * gerald grubbs - Starbuck School District
-* Wayne  Barrett - Concrete School District
+* Wayne Barrett - Concrete School District
 * Tracey Beckendorf-Edou - Cascade School District
-* Anne  Arnold - Everett Public Schools
-* April  Shiosaki - Blossoming Hill Montessori
+* Anne Arnold - Everett Public Schools
+* April Shiosaki - Blossoming Hill Montessori
 * Kevin Knight
 * Melissa Spencer - [Federal Way Public Schools](/org/federal_way_public_schools/)
 
@@ -54,10 +54,10 @@ Testifying:
 * Ian McMichael
 * Jerry Pugh - Colfax School District
 * Nikolas Bergman - Quincy School District
-* Sara Hausken  - Quincy School District
+* Sara Hausken - Quincy School District
 * Colleen Frerks - Whole Child Director, Quincy School District
 * Wade Smith - Walla Walla Public Schools
-* Melissa  Gombosky  - Association of Educational Service Districts
+* 💵Melissa Gombosky - Association of Educational Service Districts
 * Dr. Peter Finch - West Valley School District #208
 * Hilary Prentice - Pacific Northwest Montessori Association board member
 * Karin Thompson - Spokane Schools

@@ -20,4 +20,4 @@ Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Roman Daniels-Brown - [Washington Ambulatory Surgery Center Association](/org/washington_ambulatory_surgery_center_association/)
 * 💵Cara Helmer - Washington State Hospital Association
-* Tom  Russell - CEO, Daybreak Youth Services
+* Tom Russell - CEO, Daybreak Youth Services

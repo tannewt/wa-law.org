@@ -22,5 +22,5 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Brad  Meryhew - Sex Offender Policy Board
+* Brad Meryhew - Sex Offender Policy Board
 * Whitney Hunt - Sex Offender Policy Board

@@ -20,7 +20,7 @@ Testifying:
 * Roni Cook - [Washington Education Association](/org/washington_education_association/)
 * Mollie Grow - WA Chapter of the American Academy of Pediatrics
 * Jodi Jaap
-* Karen  Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
+* Karen Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
 * Rebecca Skrinde - Helping Hands Food Bank
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Andrea Davis - Coordinated Care
@@ -35,4 +35,4 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Jake  Dingman - Oakesdale School District
+* Jake Dingman - Oakesdale School District

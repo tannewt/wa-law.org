@@ -13,7 +13,7 @@
 Testifying:
 * Steve Rosen
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 * Rebecca Glasgow - Gender and Justice Commission
 
 #### 15 👎 - Con

@@ -15,19 +15,19 @@ Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * Adán Mendoza-Sandoval - Associated Students of Central Washington University
 * Dani Madrone - American Farmland Trust
-* Austin  Johnson
+* Austin Johnson
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Zachary Stoneman - Lake Washington High School
 * Troy Schmeil - Sapphire Homes Inc.
 * Dave Andersen - Washington Department of Commerce
 * Joe Tovar - Washington Department of Commerce
-* Bill  Riley - Washington Land Use Policy
+* Bill Riley - Washington Land Use Policy
 * Councilmember Lisa Parshley - Olympia City Council
 * Darian Lightfoot - [City of Olympia](/org/city_of_olympia/)
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * William Riley
 * Bill Riley - BRCF- Builder from Pierce County
-* Hugo  Garcia - Burien Councilmember
+* Hugo Garcia - Burien Councilmember
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Trevor Best - Libertarian Party of Washington State

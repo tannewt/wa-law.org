@@ -11,9 +11,9 @@
 #### 948 👍 - Pro
 Testifying:
 * Dan Gemeinhart
-* Hannah  Baisch  - 1914 sw 166th st
+* Hannah Baisch - 1914 sw 166th st
 * Sara Holloway
-* Rebecca  Dzamov
+* Rebecca Dzamov
 * Lisa Layera
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Eryn Duffee - Teacher-Librarian

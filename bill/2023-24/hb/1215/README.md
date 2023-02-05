@@ -35,7 +35,7 @@ Testifying:
 * John Roozen - Washington Bulb Co Inc
 * 💵Diana Carlen - Washington Association of Wheat Growers & Washington Potato & Onion Association
 * 💵Mark Streuli - Washington Potato and Onion Association & Washington Cattlemen's Association
-* Brandon  Roozen - Western Washington Agricultural Association
+* Brandon Roozen - Western Washington Agricultural Association
 
 #### 20 ❓ - Other
 Testifying:
@@ -52,7 +52,7 @@ Testifying:
 * Kris Peters - Chair, Squaxin Tribe
 * Willie Frank III - Chair, Nisqually Tribe
 * Kadi Bizyayeva - Council, Stillaguamish Tribe
-* Russ  Hepfer - Vice Chair, Lower Elwha Klallam Tribe
-* Kris  Peters - Chair, Squaxin Tribe
+* Russ Hepfer - Vice Chair, Lower Elwha Klallam Tribe
+* Kris Peters - Chair, Squaxin Tribe
 * Jon DeVaney - Washington State Tree Fruit Association
-* Mike  Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)

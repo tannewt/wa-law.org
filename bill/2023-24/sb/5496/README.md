@@ -20,7 +20,7 @@ Testifying:
 * Amanda Sandoval - United Way of King County
 * Patience Malaba - HDC
 * Autrina Martindale - BRE
-* Corinna  Obar - Washington State Housing Finance Commission
+* Corinna Obar - Washington State Housing Finance Commission
 * 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
 * Ali Sheibani
 * Donald King - Nehemiah Initiative Seattle

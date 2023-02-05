@@ -11,7 +11,7 @@
 #### 26 👍 - Pro
 Testifying:
 * June Altaras - MultiCare Health System
-* Sommer Kleweno-Walley  - University of Washington Harborview Medical Center
+* Sommer Kleweno-Walley - University of Washington Harborview Medical Center
 * 💵Zosia Stanley - Washington State Hospital Association
 * Jody Disney - LWVWA
 

@@ -11,11 +11,11 @@
 #### 7 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
-* Brain  Maiden - Maiden Enterprises
+* Brain Maiden - Maiden Enterprises
 
 #### 8 👎 - Con
 Testifying:
 * Chris Porter - Teamsters 174
-* Mike  Responte  - Teamsters Local 174
+* Mike Responte - Teamsters Local 174
 
 #### 0 ❓ - Other

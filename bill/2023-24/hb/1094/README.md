@@ -13,7 +13,7 @@
 Testifying:
 * Jennifer Black - President, Sumner-Bonney Lake Education Association
 * 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
-* Mike  Pellicciotti  - State treasurer
+* Mike Pellicciotti - State treasurer
 * Arlen Harris - State Board for Community & Technical Colleges
 * James Carter - The Breakfast Group
 * Ryan Davis - Washington Asset Building Coalition
@@ -22,12 +22,12 @@ Testifying:
 * Efrem Fesaha - Boon Boona Coffee
 * 💵Paula Sardinas - FMSGS / WBBA
 * 💵Tracy Yeung - Washington State Budget and Policy Center
-* Jennifer Bereskin  - Washington Future Fund Study Committee member
+* Jennifer Bereskin - Washington Future Fund Study Committee member
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
 * Shannon Cosgrove - SBCTC Student Legislative Intern
-* Sybill Hyppolite  - Washington State Labor Council, AFL-CIO
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 * Theresa Metcalf - [Samish Indian Nation](/org/samish_indian_nation/)
-* Edgar  Franks - Familias Unidas por la Justicia
+* Edgar Franks - Familias Unidas por la Justicia
 * Shira Markoff - Prosperity Now
 * 💵Kristin Ang - FAITH ACTION NETWORK (FAN)
 * Naira Gonzales Aranda - Associated Students of Western Washington University

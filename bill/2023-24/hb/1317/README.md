@@ -14,7 +14,7 @@ Testifying:
 * 💵Luis Moscoso
 * Peter Lavallee - Public Disclosure Commission
 * Sean Flynn - Public Disclosure Commission
-* Kim  Bradford - Public Disclosure Commission
+* Kim Bradford - Public Disclosure Commission
 * Carol Sullivan - League of Women Voters of WA
 
 #### 291 👎 - Con

@@ -27,8 +27,8 @@ Testifying:
 #### 67 👍 - Pro
 Testifying:
 * Brian Freeman - Curlew School District
-* Michelle  Price - North Central Educational Service District
-* Nick  Massie - Southwest WA Contractors Assoc. / Rotschy Inc.
+* Michelle Price - North Central Educational Service District
+* Nick Massie - Southwest WA Contractors Assoc. / Rotschy Inc.
 * Pete Rosenkranz - La Center School District
 * Preston Dwoskin
 * Charlie Brown - Skills Centers Directors
@@ -36,7 +36,7 @@ Testifying:
 * Becky Wallace - OSPI
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * 💵Josh Weiss - Snohomish County
-* Stephanie  Wright - Snohomish County
+* Stephanie Wright - Snohomish County
 * Ryan Beatty - Marysville School District
 
 #### 51 👎 - Con

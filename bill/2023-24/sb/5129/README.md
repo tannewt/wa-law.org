@@ -13,9 +13,9 @@ Testifying:
 * Josh Lozano - Energy Northwest - Richland, WA
 * Jesus Mota - Columbia Basin College
 * Josh Lozano - [Energy Northwest](/org/energy_northwest/)
-* Seth  Worley - UA Local 598
+* 💵Seth Worley - UA Local 598
 * 💵Bill Clarke - Grant County Public Utility District
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Randall Coleman - International Brotherhood of Electrical Workers, local 77
 * Jim Schaefer - Guggenheim Partners
 

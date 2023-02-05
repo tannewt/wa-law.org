@@ -12,7 +12,7 @@
 ## [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback 👍1  
 
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
-* ❓ Mike  Ennis
+* ❓ Mike Ennis
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍 Mike Ennis
@@ -43,7 +43,7 @@
 ## [HB 1191](/bill/2023-24/hb/1191/) - Cooperative finance org. B&O 👍1  
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
-* ❓ Mike  Ennis
+* ❓ Mike Ennis
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 

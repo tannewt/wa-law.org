@@ -17,10 +17,10 @@
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
-* 👍 Mayor Victoria Woodards 
+* 👍 Mayor Victoria Woodards
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
-* 👍 Mayor, Victoria  Woodards
+* 👍 Mayor, Victoria Woodards
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Council Member, John Hines
@@ -55,4 +55,4 @@
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
-* 👍 Deputy  Mayor, Kristina  Walker
+* 👍 Deputy  Mayor, Kristina Walker

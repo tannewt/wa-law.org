@@ -13,7 +13,7 @@ Testifying:
 * Mark Vossler - Washington Physicians for Social Responsibility
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
-* Kelly  Hall - [Climate Solutions](/org/climate_solutions/)
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
 * 💵Tom Wolf - bp America
 * Jan Hasselman - [Earthjustice](/org/earthjustice/)
 * 💵Dave Warren - WA Green Hydrogen Alliance
@@ -40,4 +40,4 @@ Testifying:
 * Josh Lozano - [Energy Northwest](/org/energy_northwest/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Nicolas Garcia - WPUDA
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

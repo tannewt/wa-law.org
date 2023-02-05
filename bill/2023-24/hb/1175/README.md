@@ -31,7 +31,7 @@ Testifying:
 Testifying:
 * Russell Olsen - Executive Director of the Washington State Pollution Liability Insurance Agency
 * 💵Greg Hanon - Western States Petroleum Association
-* Diana  Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 
 #### 0 👎 - Con
 

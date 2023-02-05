@@ -14,7 +14,7 @@ Testifying:
 * 💵Brad Boswell - CITC
 * Halene Sigmund - CITC
 * 💵Matthew Hepner - IBEW
-* Fredrick  Smith  - 45Consulting
+* Fredrick Smith - 45Consulting
 * Michael Attri
 * Brynden Cassady - Ibew 46
 * Braden Ruddock
@@ -28,7 +28,7 @@ Testifying:
 * America George - Haggard Electric
 * 💵Sophia Steele - Associated Builders and Contractors
 * Adam Kemly - Kemly Electric
-* Ryan  Haggard - Haggard Electrical Contractors
+* Ryan Haggard - Haggard Electrical Contractors
 * Justin Hauck
 * winona furgison - shocking difference llc
 * Christopher Scherer - North Wave Electric LLC
@@ -41,7 +41,7 @@ Testifying:
 * Mike Brunelle - First Choice Electric
 * Robert Perasso - Rob's Electric Inc.
 * Brandon Perasso
-* Garu Thurston 
+* Garu Thurston
 * Noel Mason - Beeline Electric Solutions LLC
 * Kevin Diefenbach - Don Kruse Electric, Inc
 * Gary Thurston

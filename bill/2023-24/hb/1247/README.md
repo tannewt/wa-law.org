@@ -15,7 +15,7 @@ Testifying:
 * Becky Snider - Peer counselor at Telecare Pierce County - acute mental health facility
 * Betsy Hartman - Swedish Swedish Cancer Institute and Multiple Sclerosis center/PNW Music Therapy
 * Christina Kressin - Parent of former Seattle Children's Hospital patient
-* Evelyn  Stagnaro - Music Therapy Task Force Co-chair, SPU Adjunct Faculty
+* Evelyn Stagnaro - Music Therapy Task Force Co-chair, SPU Adjunct Faculty
 * Steven Field - Swedish Multiple Sclerosis Center patient
 * 💵Melissa Johnson - Washington Speech-Language-Hearing Association
 * Mickey Stuart

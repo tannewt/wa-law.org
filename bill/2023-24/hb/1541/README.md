@@ -12,24 +12,24 @@
 Testifying:
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 * Samantha Fogg - Seattle Council PTSA
-* Ivanova  Smith - People first of Washington (as a member)
+* Ivanova Smith - People first of Washington (as a member)
 * Kyle Matheson - self advocate
 * Shawn Latham - Allies in Advocacy
 * Jordan Landry
-* Amy  Roark
-* Eric  Matthes - [The Arc of King County](/org/the_arc_of_king_county/)
+* Amy Roark
+* Eric Matthes - [The Arc of King County](/org/the_arc_of_king_county/)
 * Heather Wehr - WA State Coalition Against Domestic Violence
 * Carol Sullivan - League of Women Voters of WA
 * Michele Kauffman - TBI GROUPS
 * 💵Sunshine Cheng - [Disability Rights Washington](/org/disability_rights_washington/)
 * Michele Kauffman - TBI GROUPS
 * William (Bill) Kinyon
-* Duaa-Rahemaah  Willams - RAP - Resident Action Project & the Washington Low Income Housing Alliance
+* Duaa-Rahemaah Willams - RAP - Resident Action Project & the Washington Low Income Housing Alliance
 * Gabby Fitz - Communities for Our Colleges
 * Tracy Turner - Self advocate
 * Kristin DiBiase - Governor's Committee on Disability Issues and Employment
 * robert m wardell - self adovates
-* Craig  Sicilia - NorthStar Project
+* Craig Sicilia - NorthStar Project
 * Mike Raymond - NorthStar Project
 * Mike Raymond
 * Mike Raymond
@@ -42,9 +42,9 @@ Testifying:
 * Rita Hayes
 * Clayton Peterson
 * cory aeschliman
-* Katherine  Search
+* Katherine Search
 * Gail Stetson
-* Lyndell  Collins 
+* Lyndell Collins
 
 #### 3 ❓ - Other
 Testifying:

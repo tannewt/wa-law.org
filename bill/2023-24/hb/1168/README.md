@@ -12,7 +12,7 @@
 #### 168 👍 - Pro
 Testifying:
 * 💵Melanie Smith - Wonderland Child and Family Services
-* Aliison  Brooks - FASD Focus NW
+* Aliison Brooks - FASD Focus NW
 
 #### 2 👎 - Con
 

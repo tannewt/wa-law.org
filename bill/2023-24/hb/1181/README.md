@@ -17,7 +17,7 @@ Sign up to testify:
 
 #### 304 👍 - Pro
 Testifying:
-* Bryce  Yadon - [Futurewise](/org/futurewise/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Angela Birney - Mayor of the City of Redmond
 
@@ -35,7 +35,7 @@ Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Dave Andersen - Washington Department of Commerce
 * John Flanagan - Office of Governor Inslee
-* Kerri  Woehler - Washington State Department of Transportation
+* Kerri Woehler - Washington State Department of Transportation
 * Tim Gates - Washington State Department of Ecology
 * Tamar Shuhendler - [Washington Bikes](/org/washington_bikes/)
 * 💵Anna Zivarts - Disability Rights WA
@@ -43,18 +43,18 @@ Testifying:
 * Micah Lusignan
 * Tamar Shuhendler - [Washington Bikes](/org/washington_bikes/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Clifford  Traisman - Washingont Conservation Action / Environmental Priorities Coalition
-* Jamie  Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Clifford Traisman - Washingont Conservation Action / Environmental Priorities Coalition
+* Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Adam Maxwell - Audubon
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Liz Schotman - Surfrider Foundation
 * Breean Beggs - Spokane City Councilmember
-* Kaylee  Galloway - Whatcom County Councilmember
+* 💵Kaylee Galloway - Whatcom County Councilmember
 * Kristiana De Leon - Black Diamond Councilmember
-* Megan  Dunn - Snohomish County Councilmember, District 2
+* Megan Dunn - Snohomish County Councilmember, District 2
 * Mason Thompson - [City of Bothell](/org/city_of_bothell/)
 * Krystal Monteros - Disability Mobility Initiative
-* Jessica  Forsythe - City of Redmond, Council President
+* Jessica Forsythe - City of Redmond, Council President
 * Grace Doleshel - Our Climate
 * Melanie O'Cain - City of Kenmore, Deputy Mayor
 

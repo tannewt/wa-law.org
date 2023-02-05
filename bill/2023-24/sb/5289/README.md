@@ -10,7 +10,7 @@
 ### Tue 01/24 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5289 Impact fees/law enforcement
 #### 22 👍 - Pro
 Testifying:
-* James  McMahan - WA Assoc Sheriffs & Police Chiefs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kevin Turner - Ferndale City - Police Department
 
 #### 11 👎 - Con

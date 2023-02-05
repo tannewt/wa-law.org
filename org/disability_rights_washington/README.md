@@ -35,7 +35,7 @@
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
-* 👍 Rachael  Seevers
+* 👍💵 Rachael Seevers
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎1 
 * 👎💵 Kimberly Mosolf

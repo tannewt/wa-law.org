@@ -20,7 +20,7 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Magda  Enriques  - On behalf of WFSE
+* Magda Enriques - On behalf of WFSE
 
 #### 2 ❓ - Other
 Testifying:

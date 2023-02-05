@@ -22,6 +22,6 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Q  Beers
+* Q Beers
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

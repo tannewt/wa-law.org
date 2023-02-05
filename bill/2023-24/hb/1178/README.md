@@ -12,7 +12,7 @@
 Testifying:
 * Ashley Brooks
 * Breean Beggs - Spokane City Council
-* Craig  Reynolds
+* Craig Reynolds
 * Monisha Harrell - [City of Seattle](/org/city_of_seattle/)
 * Ashley Brooks
 * Breean Beggs
@@ -49,7 +49,7 @@ Testifying:
 * Fernando Orozco
 * Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association
-* Juan  Rodriguez 
+* Juan Rodriguez
 * Juan Rodriguez
 * Sarah Trattner
 * Andrew Grussling
@@ -70,7 +70,7 @@ Testifying:
 * Orion Webster
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers (WACDL)
 * Clayton Braun
-* Travis  Miller
+* Travis Miller
 * Fred Baerbalck
 * Luis Berbesi
 * William Thomas

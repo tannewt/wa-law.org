@@ -10,9 +10,9 @@
 ### Mon 01/30 01:30 PM - Early Learning & K-12 Education (EDU): SB 5441 School district curricula
 #### 280 👍 - Pro
 Testifying:
-* Director Liza  Rankin  - School Board Director, Seattle Public Schools
+* Director Liza Rankin - School Board Director, Seattle Public Schools
 * BULLOCK Bull-luck
-* Keri  Bullock - The Root of Our  Youth / The Root of Us
+* Keri Bullock - The Root of Our  Youth / The Root of Us
 * 💵Madeline Bishop
 * Brooke Brown - Washington State Board of Education
 * Hiro Hirano-Holcomb - Legislative Youth Advisory Council

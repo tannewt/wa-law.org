@@ -60,7 +60,7 @@ Testifying:
 * Eric Pratt - America
 * Andrew Mesojednik - myself
 * JoAnn Tolentino
-* JENEEN  BRESHEARS - CONSERVATIVE LADIES OF WASHINGTON
+* JENEEN BRESHEARS - CONSERVATIVE LADIES OF WASHINGTON
 * Deborah Stelfox
 * Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association

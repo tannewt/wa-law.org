@@ -12,7 +12,7 @@
 Testifying:
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
-*  Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
+* 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
 * 💵Ian Goodhew - UW Medicine
 
 #### 1 👎 - Con

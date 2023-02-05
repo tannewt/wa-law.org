@@ -25,7 +25,7 @@ Sign up to testify:
 #### 18 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
-* Christopher  Willis - Orting School District
+* Christopher Willis - Orting School District
 * Tania May - Office of Superintendent of Public Instruction
 * Preston Dwoskin
 
@@ -34,7 +34,7 @@ Testifying:
 * Jeffrey Woolley - Dartmoor School
 * Tracy McCammant - Eaton Arrowsmith - Center for Neuroeducation
 * Dr. Melodee Loshbaugh - Brock's Academy
-* Carrie  Fannin - Children's Institute for Learning Differences
+* Carrie Fannin - Children's Institute for Learning Differences
 * Dominic Jimenez - Children's Institute for Learning Differences
 * Jeffrey Woolley - Dartmoor Schools
 * Melodee Loshbaugh - Brocks Academy

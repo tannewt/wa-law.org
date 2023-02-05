@@ -11,7 +11,7 @@
 #### 36 👍 - Pro
 Testifying:
 * Angela Rozmyn - Natural and Built Environments
-* Andrew  Calkins - [King County Housing Authority](/org/king_county_housing_authority/)
+* Andrew Calkins - [King County Housing Authority](/org/king_county_housing_authority/)
 * Dan Watson - [King County Housing Authority](/org/king_county_housing_authority/)
 * Mercedes White Calf - NAYA-Native American Youth & Family Center Action Fund
 
@@ -19,7 +19,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Stacey  Valenzuela 
+* Stacey Valenzuela
 
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1046 Housing dev. income limits
 #### 0 👍 - Pro

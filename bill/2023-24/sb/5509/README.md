@@ -14,7 +14,7 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Marco Rosaire Rossi - Washingtonians for Public Banking
 * 💵Paula Sardinas - WBBA
-* Liz  Lovelett - Washington State Senate
+* Liz Lovelett - Washington State Senate
 
 #### 179 👎 - Con
 Testifying:

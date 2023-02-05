@@ -26,7 +26,7 @@ Testifying:
 #### 5 ❓ - Other
 Testifying:
 * 💵Madeleine Foutch - SEIU 775
-* Mary Mutura  - Mary’s Tender care
+* Mary Mutura - Mary’s Tender care
 * 💵Brad Banks - Home Care Coalition
 * Bea Rector - Washington State Department of Social and Health Services
 * Shawna Fox - Washington State Department of Health

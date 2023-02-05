@@ -12,13 +12,13 @@
 Testifying:
 * Devin Glaser - Tenant Law Center
 * Elizabeth Rogers
-* Stacey  Valenzuela 
+* Stacey Valenzuela
 * Kimberly Ellefson
 * 💵Jake Garcia - Northwest Harvest
-* Anne  Sadler - Association of Manufactured Home Owners - AMHO
+* Anne Sadler - Association of Manufactured Home Owners - AMHO
 * Sharon Doyle
 * 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
-* Pamela  Clark Fisher 
+* Pamela Clark Fisher
 * Terri Anderson - Tenants Union of Washington State
 * kraig peck - small landlord to testify PRO
 * Sharon Pevey - AMHO
@@ -32,7 +32,7 @@ Testifying:
 * Me Shah
 * Jeff Campbell
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
-* Robin  Zorich
+* Robin Zorich
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Joseph Smith
 * Danyelle Robinson - Tenant
@@ -56,7 +56,7 @@ Testifying:
 * Jennifer Wamboldt
 * Mike Kruse
 * Jake Nellis
-* Dan  Piantanida - GP Realty Finance
+* Dan Piantanida - GP Realty Finance
 * McKenzie Darr - NAIOP
 * Bruce Becker - Bruce Becker
 * Clyde Priddy
@@ -66,13 +66,13 @@ Testifying:
 * Paula Clancey
 * Bill Riley - Vista Property Management
 * JACOB BOND - GSC Investments
-* Jennifer  Lekisch
+* Jennifer Lekisch
 * Mackinley Robinson
 * 💵Jim Henderson - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
-* Nora  Schultz
+* Nora Schultz
 * Sandra Eisert
 * Rebekah Near - Orca Rentals, LLC
-* Arielle  Dorman 
+* Arielle Dorman
 * CCIM, Donald Arsenault - Arsenault Realty Advisors LLC
 * Carol Walker
 * Nathan Roberts
@@ -81,7 +81,7 @@ Testifying:
 * Rick Glenn - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Jeremy Millard - Park Preservations
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
-* Deborah Crawley 
+* Deborah Crawley
 * FRANK MCKEEHAN
 * JENNIFER WU
 * John Barrett
@@ -92,7 +92,7 @@ Testifying:
 * Jon Pettit - citizen
 * Mary Hull-Drury - Washington Realtors
 * c davis
-* Jennifer Lekisch 
+* Jennifer Lekisch
 * Michael Kubacki - First Commercial Properties NW
 * Patrick Bevis
 * Alisa Mustafaeva - Windsor square
@@ -101,10 +101,10 @@ Testifying:
 * Galina Perekopsky - Ridgedale apartments
 * Scott Price
 * David Sigmon
-* Maleha Escalanye 
+* Maleha Escalanye
 * Chris Breske
 * Rebecca Faust
-* Bob  Kim - BOSL Investment LLC
+* Bob Kim - BOSL Investment LLC
 * Mary Wilkes
 * Gregory Pense
 * Lyle Crews - LCJA Financial Center
@@ -124,11 +124,11 @@ Testifying:
 * Chelsy Parris - Dobler Management Company
 * Sarah Hughes - Dobler Management Company
 * Chris Dobler - Dobler Management Company
-* Ian  Randall
+* Ian Randall
 * THOMAS SAVIDGE - Savidge Investment Real Estate, LLC
 * Elisa Lyles
 
 #### 23 ❓ - Other
 Testifying:
-* Holly  Bradley
+* Holly Bradley
 * Amanda Le Blanc

@@ -17,7 +17,7 @@
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
-* 👍 Kelly  Hall
+* 👍💵 Kelly Hall
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
@@ -38,7 +38,7 @@
 * 👍💵 Leah Missik
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
-* 👍 Leah  Missik
+* 👍💵 Leah Missik
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
 

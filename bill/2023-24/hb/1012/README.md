@@ -10,7 +10,7 @@
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1012 Extreme weather events
 #### 132 👍 - Pro
 Testifying:
-* Kristina  Walker - Tacoma City Council
+* Kristina Walker - Tacoma City Council
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
 * Jim Baumgart - Washington Military Department

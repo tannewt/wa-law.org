@@ -11,13 +11,13 @@
 #### 4 👍 - Pro
 Testifying:
 * Mike Yestramski - Washington Federation of State Employees, WFSE
-* Anne  Tarlton - WFSE, Washington Federation of State Employees
+* Anne Tarlton - WFSE, Washington Federation of State Employees
 
 #### 26 👎 - Con
 Testifying:
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Commissioner Rob Coffman - Washington State Association of Counties and Lincoln County
-* Council Member Ryan  Mello - Washington State Association of Counties and Pierce County
+* Council Member Ryan Mello - Washington State Association of Counties and Pierce County
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * anita khandelwal - King County Department of Public Defense
 * April Putney - [King County](/org/king_county/)

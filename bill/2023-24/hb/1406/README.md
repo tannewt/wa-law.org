@@ -11,11 +11,11 @@
 #### 86 👍 - Pro
 Testifying:
 * 💵Samuel Martin - The Mockingbird Society
-* Avianah McKenna  - Chapter member of The Mockingbird Society
+* Avianah McKenna - Chapter member of The Mockingbird Society
 * Angela Engels - [Cocoon House](/org/cocoon_house/)
 * Avianah McKenna - The Mockingbird Society
 * Elizabeth Dawson - TeamChild
-* Jessica Friendmann  - YouthCare
+* Jessica Friendmann - YouthCare
 * 💵Karen Pillar - TeamChild
 * Rhea Yo - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * 💵Samuel Martin - Washington Coalition For Homeless Youth Advocacy

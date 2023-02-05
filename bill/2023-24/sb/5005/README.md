@@ -13,7 +13,7 @@
 Testifying:
 * Professor Thomas Mitchell - The Uniform Law Commission
 * Jane Sternecky - Uniform Law Commission
-* John  Lovett - Uniform Law Commission
+* John Lovett - Uniform Law Commission
 
 #### 0 👎 - Con
 

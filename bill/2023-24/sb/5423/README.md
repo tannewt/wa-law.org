@@ -28,7 +28,7 @@ Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Heather Kurtenbach - Ironworkers Local 86
 * Michael Swanson
-* Tara  Davis - Ironworkers Local 86
+* Tara Davis - Ironworkers Local 86
 
 #### 0 👎 - Con
 

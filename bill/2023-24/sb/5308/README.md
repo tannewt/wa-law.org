@@ -11,7 +11,7 @@
 ### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5308 Athletic trainers
 #### 12 👍 - Pro
 Testifying:
-* Ciara Ashworth  - Washington State Athletic Trainers’ Association
+* Ciara Ashworth - Washington State Athletic Trainers’ Association
 * Charlie Brown - Wa State Athletic Trainers Association
 
 #### 2 👎 - Con

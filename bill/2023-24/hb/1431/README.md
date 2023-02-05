@@ -10,10 +10,10 @@
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1431 Senior living meals/tax
 #### 14 👍 - Pro
 Testifying:
-* Breanne  Grubs - Leisure Care
+* Breanne Grubs - Leisure Care
 * Roman Daniels-Brown - WA Health Care Association
 * Barbara Lane
-* Lee  Bravener - Resident, Moutain Glen
+* Lee Bravener - Resident, Moutain Glen
 
 #### 0 👎 - Con
 

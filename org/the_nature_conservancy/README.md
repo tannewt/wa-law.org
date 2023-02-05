@@ -13,7 +13,7 @@
 * 👍 Joshua Rubenstein
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
-* 👍 Jamie  Stroble
+* 👍 Jamie Stroble
 * 👍 Skippy Shaw
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
@@ -58,7 +58,7 @@
 * 👍💵 Justin Allegro
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
-* 👍 Scott  Richards
+* 👍 Scott Richards
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 

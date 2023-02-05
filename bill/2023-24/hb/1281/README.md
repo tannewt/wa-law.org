@@ -21,7 +21,7 @@ Testifying:
 * Judy Kinney - [End of Life Washington](/org/end_of_life_washington/)
 * Dr. Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)
 * KELLY Thompson
-* Kathryn  Lewandowsky 
+* Kathryn Lewandowsky
 
 #### 457 👎 - Con
 Testifying:
@@ -32,8 +32,8 @@ Testifying:
 * Sharon Quick - President, Physicians for Compassionate Care Educational Foundation
 * Dr. Shane Macaulay - Physicians for Compassionate Care Education Foundation Washington
 * MD, Arthur Coday
-* Pastor Alec  Rowlands - Westgate Chapel
+* Pastor Alec Rowlands - Westgate Chapel
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
-* Ivanova  Smith - Self advocate
+* Ivanova Smith - Self advocate
 
 #### 1 ❓ - Other

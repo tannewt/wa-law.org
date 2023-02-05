@@ -17,5 +17,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Vincent  McGowan - Washington Department of Ecology
+* Vincent McGowan - Washington Department of Ecology
 * Don Gourlie - Puget Sound Partnership

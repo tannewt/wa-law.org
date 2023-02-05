@@ -15,7 +15,7 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Tom Seigel - [Bethel School District](/org/bethel_school_district/)
 * Ronda Litzenberger - Washington State School Directors' Association (WSSDA)
-* Melissa  Gombosky  - Evergreen, Vancouver, ESD 112, Spokane, Central Valley and Richland SDs.
+* 💵Melissa Gombosky - Evergreen, Vancouver, ESD 112, Spokane, Central Valley and Richland SDs.
 * Bill West - Teamsters
 * 💵Shaunie Wheeler - Teamsters
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators

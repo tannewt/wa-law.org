@@ -25,7 +25,7 @@ Testifying:
 * America George - Haggard Electric
 * Chris Scherer - North Wave Electric LLC
 * Michael Brunelle - First Choice Electric LLC.
-* Winona  Furgisn
+* Winona Furgisn
 * Mike Brunelle - First Choice Electric
 * Nicole Grant - IBEW 46
 * Nathan Turner - Washington State Electrical Contractors Association

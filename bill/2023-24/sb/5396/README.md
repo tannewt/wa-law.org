@@ -25,7 +25,7 @@ Testifying:
 Testifying:
 * 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
 * Kate White Tudor - Rayus Radiology
-* Dr. Peter  Eby - Washington State Radiological Society (WSRS)
+* Dr. Peter Eby - Washington State Radiological Society (WSRS)
 * Janet Campbell
 * Bobbi-Jo Thomas
 

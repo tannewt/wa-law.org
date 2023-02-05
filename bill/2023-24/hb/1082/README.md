@@ -14,10 +14,10 @@ Testifying:
 * Kris Sasaki
 * Rachel Herron
 * Christopher Heistand - Therapeutic Beginnings
-* Renae  Lewandowski - Therapeutic Beginnings
+* Renae Lewandowski - Therapeutic Beginnings
 * Christopher Heistand - Therapeutic Beginnings
 * Maile Mohsenian - Empire Therapy
-* Renae  Lewandowski - Therapeutic Beginnings
+* Renae Lewandowski - Therapeutic Beginnings
 
 #### 0 👎 - Con
 

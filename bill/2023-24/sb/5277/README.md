@@ -29,7 +29,7 @@ Testifying:
 Testifying:
 * Craig Smith - [Food Northwest](/org/food_northwest/)
 * Beau Hickman - Figgins Family Wine Estates
-* Josh  McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Ryan Pennington - Ste Michelle Wine Estates
 * Jeremy Visser - Northwest Dairymen's Association
 

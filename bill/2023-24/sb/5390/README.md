@@ -12,7 +12,7 @@
 Testifying:
 * Alex Smith - Washington Department of Natural Resources
 * Eric Gardner - WDFW
-* Paula  Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
 #### 11 👎 - Con
 

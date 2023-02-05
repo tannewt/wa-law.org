@@ -28,14 +28,14 @@ Testifying:
 * JoAnne Duncan - Ida Nason Aronica
 * Evelyn Atchison
 * Amanda Kost - University of Washington Faculty
-* Wendy Armour 
+* Wendy Armour
 * Bilan Aden - African Community Housing and Development
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Aubrey Roesch - Blaine middle school
 * Dawson Curtright - Blaine middle school
 * Danae Misquitta - Blaine middle school
 * Alex Estrada - Blaine Middle School
-* Julianne  Whaley - blaine middle school
+* Julianne Whaley - blaine middle school
 * Adrienne Moore - Center for Healing and Justice through Sport
 
 #### 1 👎 - Con

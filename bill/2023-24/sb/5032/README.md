@@ -12,7 +12,7 @@
 Testifying:
 * Barbara Serrano - Office of the Governor
 * Neil Weaver - Washington State Patrol
-* Shelly  Baldwin - Washington Traffic Safety Commission
+* Shelly Baldwin - Washington Traffic Safety Commission
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

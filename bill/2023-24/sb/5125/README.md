@@ -13,8 +13,8 @@
 Testifying:
 * Steve Segall - Thurston-Lewis-Mason Central Labor Council
 * Efrem Fesaha
-* Jennifer Bereskin 
-* Mike Pellicciotti  - State Treasurer
+* Jennifer Bereskin
+* Mike Pellicciotti - State Treasurer
 * 💵Gabriela Quintana - Economi Opportunity Institute
 * Arlen Harris - State Board for Community & Technical Colleges
 * Baydaa Alshatee - Everett Community College

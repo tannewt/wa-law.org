@@ -19,7 +19,7 @@
 Testifying:
 * 💵Brandon Anderson - WFSE, Washington Federation of State Employees
 * Dan Andreason - Washington Federation of State Employees, WFSE
-* Paula  Lukaszek - Washington Federation of State Employees, WFSE
+* Paula Lukaszek - Washington Federation of State Employees, WFSE
 
 #### 0 👎 - Con
 

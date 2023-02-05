@@ -12,8 +12,8 @@
 #### 315 👍 - Pro
 Testifying:
 * Dr Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
-* Dr Erin Berry 
-* Dr Jennifer  Chin - American College of Obstetricians and Gynecologists WA Section
+* Dr Erin Berry
+* Dr Jennifer Chin - American College of Obstetricians and Gynecologists WA Section
 * Dr Katina Rue - Washington State Medical Association
 * Ashley Wilson
 * Dr Erin Berry

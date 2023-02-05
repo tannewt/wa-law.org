@@ -17,7 +17,7 @@ Testifying:
 * 💵Christine Reid - IBEW LU 77
 * Mike McDougal - IBEW LU 77
 * Reese Hinkle - Member of IBEW LU 77
-* Will  Power - International Brotherhood of Electrical Workers Local Union 77
+* Will Power - International Brotherhood of Electrical Workers Local Union 77
 * 💵Sean Bagsby - Business Manager / Financial Secretary IBEW Local 46
 * 💵Maya Gillett
 

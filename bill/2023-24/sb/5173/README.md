@@ -13,9 +13,9 @@
 #### 29 👍 - Pro
 Testifying:
 * 💵Shaun Scott
-* Christina L.  Henry - Northwest Consumer Law Center, Board Member
-* Emilie  Padiernos
-* Mark  Fredrich - Prosperity Real Estate, LLC
+* Christina L. Henry - Northwest Consumer Law Center, Board Member
+* Emilie Padiernos
+* Mark Fredrich - Prosperity Real Estate, LLC
 * John Webber - Washington State Association for Justice
 
 #### 6 👎 - Con

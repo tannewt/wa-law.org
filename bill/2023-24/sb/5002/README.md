@@ -13,11 +13,11 @@
 Testifying:
 * Captain Neil Weaver - Washington State Patrol
 * Debbie Driver - Governor Inslee's Office
-* Shelly  Baldwin - Washington Traffic Safety Commission
+* Shelly Baldwin - Washington Traffic Safety Commission
 * Timothy Knopf
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Sheri  Call - Washington Trucking Associations
+* 💵Sheri Call - Washington Trucking Associations
 * Michelle Gajda - [National Safety Council](/org/national_safety_council/)
 * Stephanie Shaw - Stephanie Shaw, Safety Advocate on behalf of the National Transportation Safety Board (NTSB)
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
@@ -26,7 +26,7 @@ Testifying:
 Testifying:
 * Jerome Brady
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Daniel Olson  - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 #### 2 ❓ - Other
@@ -42,11 +42,11 @@ Testifying:
 * Debbie Driver - Office of the Governor
 * Mark McKechnie - Washington Traffic Safety Commission
 * Neil Weaver - Washington State Patrol
-* Shelly  Baldwin - Washington Traffic Safety Commission
+* Shelly Baldwin - Washington Traffic Safety Commission
 * Jane Terry - [National Safety Council](/org/national_safety_council/)
 * Stephanie Shaw - Safety Advocate on behalf of the National Transportation Safety Board (NTSB)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Tony  Gomez
+* Tony Gomez
 * 💵Sheri Call - Washington Trucking Associations
 
 #### 20 👎 - Con

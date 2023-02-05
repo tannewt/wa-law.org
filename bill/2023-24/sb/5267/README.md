@@ -11,19 +11,19 @@
 #### 57 👍 - Pro
 Testifying:
 * Spenser Sado
-* Kimberly  Klontz 
+* Kimberly Klontz
 * Bruce Smith - P.O. BOX 304
 * Jonathan Tisdale
 * April Sims - Washington State Labor Council, AFL-CIO
 * Luke Edington - General Chairman, SMART Transportation Division
-* Dylan  Ekins - Wash. State Legislative Board Chairperson - Brotherhood of Locomotive Engineers & Trainmen
+* 💵Dylan Ekins - Wash. State Legislative Board Chairperson - Brotherhood of Locomotive Engineers & Trainmen
 * 💵Herb Krohn - Wash. State Legislative Director - SMART Transp. Division/United Transportation Union
-* Mike  Elliott - Retired Railroad Workers, former State Leg. Chair - Locomotive Engineers
+* 💵Mike Elliott - Retired Railroad Workers, former State Leg. Chair - Locomotive Engineers
 
 #### 6 👎 - Con
 Testifying:
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
-* Aaron Hunt  - Union Pacific Railroad
+* 💵Aaron Hunt - Union Pacific Railroad
 * Naomi Deines - Union Pacific Railroad
 * 💵Johan Hellman - BNSF Railway
 * Sam Macedonio - BNSF Railway

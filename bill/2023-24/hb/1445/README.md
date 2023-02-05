@@ -18,7 +18,7 @@ Testifying:
 #### 188 👎 - Con
 Testifying:
 * Ryan Lufkin - WA Council of Police & Sheriffs (WACOPS)
-* James  McMahan - WA Assoc Sheriffs & Police Chiefs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

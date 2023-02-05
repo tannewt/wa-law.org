@@ -12,8 +12,8 @@
 Testifying:
 * Barbara Serrano - Office of the Governor
 * Laura Clinton - Attorney General's Office
-* Krystal  LoPilato - Everytown for Gun Safety
-* Larry  Shannon - Washington State Association for Justice
+* Krystal LoPilato - Everytown for Gun Safety
+* 💵Larry Shannon - Washington State Association for Justice
 
 #### 888 👎 - Con
 Testifying:

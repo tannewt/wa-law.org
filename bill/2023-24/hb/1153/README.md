@@ -26,6 +26,6 @@ Testifying:
 #### 9 👎 - Con
 Testifying:
 * Swati Mewara
-* Jennifer  Jacquet - No, but I am an alumni of Western Washington University
+* Jennifer Jacquet - No, but I am an alumni of Western Washington University
 
 #### 0 ❓ - Other

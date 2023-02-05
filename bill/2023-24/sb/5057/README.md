@@ -18,7 +18,7 @@ Testifying:
 * Remy Kerr - Washington State Hospital Association
 * Brian Buck - Lake Washington School District
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
-* Travis  Bown - WA Assn of Maintenance and Operation Administrators
+* Travis Bown - WA Assn of Maintenance and Operation Administrators
 * 💵Greg Hanon - NAIOP
 * Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 

@@ -12,7 +12,7 @@
 Testifying:
 * Phil Waldner - Fife Towing
 * Corey Wells - TLC Towing
-* Kris Zachary  - Burns Towing
+* Kris Zachary - Burns Towing
 * 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 * Phil Waldner - Fife Towing
 * Corey Wells - TLC Towing

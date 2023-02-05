@@ -11,11 +11,11 @@
 #### 3 👍 - Pro
 Testifying:
 * Joe Kunzler - None
-* Rowland  Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
 #### 7 👎 - Con
 Testifying:
-* Jason  Perrins - Chewelah SD
+* Jason Perrins - Chewelah SD
 
 #### 1 ❓ - Other
 Testifying:

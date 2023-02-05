@@ -29,7 +29,7 @@ Testifying:
 * Maxine Herbert-Hill
 * Jessica Hargin - Conservative Ladies of Washington
 * Edward Buck
-* Jennifer  Deacy
+* Jennifer Deacy
 * Richard Grunewald
 * Linnea McCord
 * suzanne rohner
@@ -39,6 +39,6 @@ Testifying:
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Eric  ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Blanche Barajas - Mayor of the City of Pasco
 * 💵Briahna Murray - Lobbyist for City of Pasco

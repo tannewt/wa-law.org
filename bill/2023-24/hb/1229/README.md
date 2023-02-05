@@ -17,7 +17,7 @@ Sign up to testify:
 #### 5 👍 - Pro
 Testifying:
 * Carol Sullivan
-* Steve  Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 3 👎 - Con
 

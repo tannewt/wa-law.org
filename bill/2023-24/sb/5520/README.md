@@ -15,8 +15,8 @@ Testifying:
 
 #### 25 👎 - Con
 Testifying:
-*  John Batiste - Washington State Patrol
 * Chad Cross - Washington State Patrol
+* John Batiste - Washington State Patrol
 
 #### 2 ❓ - Other
 Testifying:

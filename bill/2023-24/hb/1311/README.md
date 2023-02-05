@@ -18,9 +18,9 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* Christian  Caballero  - Lexington Law
-* Melissa  Gombosky  - Progrexion
+* Christian Caballero - Lexington Law
+* 💵Melissa Gombosky - Progrexion
 * Pastor Andre Chapple - African American Empowerment Coalition
-* Michael  Claunch  - American Association of Consumer Credit Professionals
+* Michael Claunch - American Association of Consumer Credit Professionals
 
 #### 0 ❓ - Other

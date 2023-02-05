@@ -13,7 +13,7 @@ Testifying:
 * Allison Carney - Wollam
 * Valerie Balch
 * Dr. Chris Herndon
-* Dr. Tyler  Ketterl
+* Dr. Tyler Ketterl
 * Alexis Oliver Turla
 * Katherine Tarlock
 * Nicole Schroeder
@@ -28,7 +28,7 @@ Testifying:
 * Robin Von Davies - Washington State University’s Elson S. Floyd College of Medicine OBGYN Interest Group
 * Brittany Horrocks
 * Kalli Burns
-* Molly  Ring 
+* Molly Ring
 * Rodolfo Turla
 * Nicole Schroeder
 * Chalia Stallings-Ala'ilima - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
@@ -41,7 +41,7 @@ Testifying:
 * Jennifer Friesen - Them Before Us
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Rev. Kyle Ratuiste - Washington State Catholic Conference
-* Ángel  Alvarado  - Respect Life Ministry
+* Ángel Alvarado - Respect Life Ministry
 
 #### 1 ❓ - Other
 Testifying:

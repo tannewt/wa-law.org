@@ -10,7 +10,7 @@
 ### Wed 01/25 08:00 AM - Local Government (LG): HB 1351 Minimum parking requirements
 #### 194 👍 - Pro
 Testifying:
-* Jennifer Gregerson  - American Planning Association, WA Chapter
+* Jennifer Gregerson - American Planning Association, WA Chapter
 * Samantha Conley - SEIU Healthcare 1199NW
 * Dave Andersen - Washington Department of Commerce
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)

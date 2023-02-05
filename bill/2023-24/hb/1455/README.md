@@ -17,8 +17,8 @@ Testifying:
 * Sara Tasneem - n/a
 * Theresa Harris
 * Finleigh Mork
-* Fraidy  Reiss - Unchained At Last
-* Skylar  Faller - Advocacy Club
+* Fraidy Reiss - Unchained At Last
+* Skylar Faller - Advocacy Club
 
 #### 0 👎 - Con
 

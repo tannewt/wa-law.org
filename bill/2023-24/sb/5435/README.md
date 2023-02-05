@@ -10,7 +10,7 @@
 ### Fri 01/27 10:30 AM - Housing (HSG): SB 5435 Residential rent increases
 #### 1207 👍 - Pro
 Testifying:
-* Stacey  Valenzuela 
+* Stacey Valenzuela
 * kraig peck - Small landlord to testify PRO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Robert De Gregorio - WPSR
@@ -18,13 +18,13 @@ Testifying:
 * Julie Picard
 * Kasey Burton - Tenant Law Center
 * Councilmember Lisa Parshley - Olympia City Council
-* Anne  Sadler - Association of Manufactured Home Owners - AMHO
+* Anne Sadler - Association of Manufactured Home Owners - AMHO
 * Robert Brandenburg
-* Terri  Anderson - Tenants Union of Washington State - Spokane
+* Terri Anderson - Tenants Union of Washington State - Spokane
 * Danyelle Robinson - voter
 * Daniel Hornal - Tenants Revolt
 * Larkspur Langston
-* Sol  Villareal
+* Sol Villareal
 * Tonya Hennen
 * Brianna Vazquez
 * 💵Kraig Peck
@@ -32,18 +32,18 @@ Testifying:
 * Dania Otto
 * Saree Adams
 * Sharon Pevey
-* Caroline  Hardy
-* Deb Wilson 
+* Caroline Hardy
+* Deb Wilson
 * Tereasa Staley
 * Cathy Niva
 * Kasey Burton - Catholic Charities Western Washington
-* Patricia  Walker
+* Patricia Walker
 * 💵Clifford Cawthon - Habitat of Humanity Seattle, King and Kittitas County
 * Guillermo Rivera
-* Robert  De Gregorio
+* Robert De Gregorio
 * Jeff Campbell
 * Mei Shah
-* Terri Anderson 
+* Terri Anderson
 * Kehaulani Walker
 * Kimberly Ellefson
 * Stacey Valenzuela
@@ -51,7 +51,7 @@ Testifying:
 * 💵Ishbel Dickens
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Amber Abrahamson - Tenants Union of Washington State
-* Holly  Bradley
+* Holly Bradley
 
 #### 1090 👎 - Con
 Testifying:
@@ -60,24 +60,24 @@ Testifying:
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Arthur Grafton
 * GORDON HAGGERTY
-* Threasa  Melton
+* Threasa Melton
 * Jennifer Lekisch
 * Walter Jorgensen
-* Robert  Hardy
+* Robert Hardy
 * Ben Douglas
 * Ryan Makinster - Washington Multi-Family Housing Association
 * C Davis - Voters for Responsible Government
-* Elaine  Armstrong  - Clark County Rental Association
+* Elaine Armstrong - Clark County Rental Association
 * Real LeBeuf
-* Aurangzeb  Albar 
-* Lora Janssen 
+* Aurangzeb Albar
+* Lora Janssen
 * Jake Nellis
 * Jennifer Lekisch
-* Jennifer  Wagner
+* Jennifer Wagner
 * STEVE OHARA
 * Fei Priddy
 * Russ Millard - MHCW
-* Bob  Kim - BOSL Investment LLC
+* Bob Kim - BOSL Investment LLC
 * Bruce Becker - Bruce Becker
 * Dan Piantanida - GP Realty Finance
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
@@ -89,18 +89,18 @@ Testifying:
 * Joe Levin - myself
 * Jennifer Lekisch
 * Cory Brewer
-* carl  haglund
+* carl haglund
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * Julie Bridges
 * Jeremy Millard
-* Jonathan  Millard
+* Jonathan Millard
 * Chelsy Parrish
 * Jamie Turner
 * Clark Lane
 * Chris Breske
 * Albert Angelo - Al Angelo Company
 * Jennifer Lekisch
-* Saint  Newton 
+* Saint Newton
 * Steve Leybourne
 * Chris Dobler - N/A
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
@@ -112,13 +112,13 @@ Testifying:
 * Michael Gustavson - Kitsap Alliance of Property Owners
 * Elisa Lyles
 * Elisa Lyles
-* Jillian Walker 
+* Jillian Walker
 * Jennifer Loughrey
 * Saane Tome
 * Misty Lopez Gombos
 * Sarah Chernicoff
 * Astrid Black
-* Maria  Magouirk 
+* Maria Magouirk
 * Jennifer Wetter
 * Tobi Snider
 

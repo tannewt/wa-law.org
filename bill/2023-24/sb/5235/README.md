@@ -21,7 +21,7 @@ Testifying:
 ### Thu 01/19 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5235 Accessory dwelling units
 #### 7 👍 - Pro
 Testifying:
-* Alexander  Harrison - Puyallup Tribe of Indians (Member)
+* Alexander Harrison - Puyallup Tribe of Indians (Member)
 
 #### 0 👎 - Con
 

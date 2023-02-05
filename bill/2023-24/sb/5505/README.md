@@ -16,10 +16,10 @@ Testifying:
 #### 345 👎 - Con
 Testifying:
 * Jeannie Magdua - Conservative Ladies of Washington
-* Luz  Herrera
-* Antonio  Godinez
-* Violeta  Orozco 
-* Violeta  Orozco 
+* Luz Herrera
+* Antonio Godinez
+* Violeta Orozco
+* Violeta Orozco
 
 #### 3 ❓ - Other
 Testifying:

@@ -14,7 +14,7 @@ Testifying:
 * Martin Gibbins - League of Women Voters of WA
 * Martin Gibbins - League of Women Voters of WA
 * Joe Crumbley - CORA
-* Melissa Spear  - [Tilth Alliance](/org/tilth_alliance/)
+* Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
 * Jennifer Hennessey - Washington State Department of Ecology
 * Jim Baumgart
 * Rad Cunningham - Washington State Department of Health

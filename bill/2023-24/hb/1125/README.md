@@ -18,7 +18,7 @@ Testifying:
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
 * 💵Axel Swanson - Washington State Association of County Engineers
-* Mayor Geoffrey  Thomas  - [City of Monroe](/org/city_of_monroe/)
+* Mayor Geoffrey Thomas - [City of Monroe](/org/city_of_monroe/)
 * Kevin Maggay - Navistar
 
 #### 5 👎 - Con
@@ -48,8 +48,8 @@ Testifying:
 * Orville Thomas - CALSTART
 * 💵Mark Riker - Washington State Building & Construction Trades Council
 * Ben Lane - Eastside Fire & Rescue, Fire Chief
-* Mark  Rigos - City of North Bend - Deputy City Administrator & Public Works Director
-* Rob Wotton  - City of Snoqualmie, Councilmember
+* Mark Rigos - City of North Bend - Deputy City Administrator & Public Works Director
+* Rob Wotton - City of Snoqualmie, Councilmember
 
 ### Thu 01/12 04:00 PM - Transportation (TR): HB 1125 Transportation budget
 #### 0 👍 - Pro

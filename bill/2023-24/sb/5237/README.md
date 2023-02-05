@@ -13,7 +13,7 @@
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Jillian Baer
-* Jake  Vela - [League of Education Voters](/org/league_of_education_voters/)
+* Jake Vela - [League of Education Voters](/org/league_of_education_voters/)
 * Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
 * 💵Zackary Turner - PESB
 
@@ -22,13 +22,13 @@ Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne
 * Shelly Burt
-* Jeannie  Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - Conservative Ladies of Washington
 * Val Mullen
 * Andy Cilley - Parent
 * Aaron Lang
 * Rachel Buck
 * Rebekah Near - No
-* Haley Sahlin 
+* Haley Sahlin
 
 #### 6 ❓ - Other
 Testifying:

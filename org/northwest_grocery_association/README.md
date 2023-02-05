@@ -6,4 +6,4 @@
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender  👎1 
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎1 
-* 👎 Brandon  Houskeeper
+* 👎💵 Brandon Houskeeper

@@ -10,7 +10,7 @@
 ### Wed 01/18 01:30 PM - Housing (HSG): SB 5198 Mobile home community sales
 #### 770 👍 - Pro
 Testifying:
-* Stacey Valenzuela 
+* Stacey Valenzuela
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Rachel Elfenbein - Community Council
 * Tina Mckinstry - Takesa village homeowners cooperative
@@ -46,7 +46,7 @@ Testifying:
 * RUSS MILLARD
 * Beau Harer - MHCW
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
-* Guy Miller  - Mhcw
+* Guy Miller - Mhcw
 * Neil Wilson
 
 #### 2 ❓ - Other

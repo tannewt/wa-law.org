@@ -16,7 +16,7 @@ Testifying:
 * 💵Brian Enslow - [City of Lacey](/org/city_of_lacey/)
 * 💵Debora Munguia - [City of Shoreline](/org/city_of_shoreline/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Karen  Meyering - [King County](/org/king_county/)
+* Karen Meyering - [King County](/org/king_county/)
 * Dave Somers - Snohomish County Executive
 
 #### 0 👎 - Con

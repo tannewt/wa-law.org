@@ -10,7 +10,7 @@
 ### Wed 01/25 01:30 PM - Consumer Protection & Business (CPB): HB 1301 License review and reporting
 #### 1 👍 - Pro
 Testifying:
-* Paul  Guppy - Washington Policy Center
+* Paul Guppy - Washington Policy Center
 
 #### 0 👎 - Con
 

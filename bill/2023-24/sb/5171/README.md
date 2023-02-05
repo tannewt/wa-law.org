@@ -15,7 +15,7 @@ Testifying:
 * Abigail Jalso - Lake Washington High School
 * Ana Ferreira - Lake Washington High School
 * Benjamine Howard - Lake Washington High School
-* Catherine  Im - Lake Washington High School
+* Catherine Im - Lake Washington High School
 * Gabrielle Heuer - Lake Washington High School
 * Mahee Nemani
 * Jessica Forsythe - City of Redmond, Council President

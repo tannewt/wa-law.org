@@ -17,14 +17,14 @@ Sign up to testify:
 #### 62 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
-* Superintendent Patrick  Murphy  - Superintendent, Olympia School District
-* Dr. Art  Jarvis 
-* Dr. Brent  Jones  - Superintendent, Seattle Public Schools
-* Dr. Ivan  Duran  - Superintendent, Highline Public Schools
-* Deiman  Abdi - Washington multicultural services link
+* Superintendent Patrick Murphy - Superintendent, Olympia School District
+* Dr. Art Jarvis
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* Dr. Ivan Duran - Superintendent, Highline Public Schools
+* Deiman Abdi - Washington multicultural services link
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Suban Ali-Dahir
-* Elsa Sjunneson 
+* Elsa Sjunneson
 * Devony Audet
 * Christine Ma
 

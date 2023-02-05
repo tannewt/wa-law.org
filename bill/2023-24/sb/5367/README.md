@@ -19,7 +19,7 @@ Testifying:
 
 #### 14 👎 - Con
 Testifying:
-* Bonny Jo  Peterson  - Industrial Hemp Association of WA
+* Bonny Jo Peterson - Industrial Hemp Association of WA
 * Azmyth Kaminski - Science Under Nature
 * Joshua Schneider - Association of Western Hemp Professionals
 * Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)

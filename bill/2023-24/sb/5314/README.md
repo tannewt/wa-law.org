@@ -11,12 +11,12 @@
 #### 4 👍 - Pro
 Testifying:
 * Aileen Denton
-* Mark  Smith
+* Mark Smith
 * Bruce Barnes - No
 
 #### 26 👎 - Con
 Testifying:
-* Dixie  Havlak
+* Dixie Havlak
 * 💵Joyce Willms - Backcountry Horsemen of WA
 * Vivian Eason - Backcountry Horsemen of WA
 * Brian Considine - Washington Department of Natural Resources

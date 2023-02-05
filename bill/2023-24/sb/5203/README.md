@@ -21,16 +21,16 @@ Testifying:
 * Micah Lusignan
 * Tanisha Sepulveda
 * Tamar Shuhendler - [Washington Bikes](/org/washington_bikes/)
-* Bryce  Yadon - [Futurewise](/org/futurewise/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Clifford Traisman - Washingont Conservation Action / Environmental Priorities Coalition
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Adam Maxwell - Audubon
-* Leah  Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Liz Schotman - Surfrider Foundation
 * Tanisha Sepulveda
 * 💵Kaylee Galloway - Whatcom County Councilmember
 * Kristiana De Leon - Black Diamond Councilmember
-* Ryan  Walters - Anacortes Councilmember
+* Ryan Walters - Anacortes Councilmember
 * Kelli Refer - Move Redmond
 * Jessica Forsythe - Redmond Council President
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)

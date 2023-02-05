@@ -30,10 +30,10 @@ Testifying:
 
 #### 8 ❓ - Other
 Testifying:
-* PhD, Caitlin  Robertson - Director - Office of the Corrections Ombuds
+* PhD, Caitlin Robertson - Director - Office of the Corrections Ombuds
 * Cheryl Strange - Washington Department of Corrections
 * Janel McFeat - Executive Director of the Washington Statewide Reentry Council
 * Melena Thompson - Department of Corrections
-* Sean Murphy  - Department of Corrections
+* Sean Murphy - Department of Corrections
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

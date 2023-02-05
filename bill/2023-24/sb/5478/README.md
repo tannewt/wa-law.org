@@ -10,7 +10,7 @@
 ### Thu 01/26 04:00 PM - Transportation (TRAN): SB 5478 Bridge jumping signs
 #### 8 👍 - Pro
 Testifying:
-* Bonnie Smilonich 
+* Bonnie Smilonich
 * Kimberly Hines
 * Lee Hines
 * Curtis King - WA State Senate

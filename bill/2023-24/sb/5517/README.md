@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 11 👍 - Pro
 Testifying:
-* Thomas  Pors - Law Office of Thomas M. Pors
+* Thomas Pors - Law Office of Thomas M. Pors
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Bill Clarke - WA PUD Association
 * Rob McFarland - Mayor, City of North Bend

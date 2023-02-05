@@ -11,7 +11,7 @@
 ### Tue 01/17 10:30 AM - Law & Justice (LAW): SB 5205 Parenting plan limitations
 #### 1 👍 - Pro
 Testifying:
-* Judge Janet  Helson - Superior Court Judges' Association
+* Judge Janet Helson - Superior Court Judges' Association
 
 #### 0 👎 - Con
 

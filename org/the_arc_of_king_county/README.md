@@ -51,7 +51,7 @@
 * 👍💵 Eric Warwick
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
-* 👍 Eric  Matthes
+* 👍 Eric Matthes
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 

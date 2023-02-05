@@ -28,7 +28,7 @@ Testifying:
 * Kara Briggs - Vice President at The Evergreen State College
 * Zoe Higheagle Strong - Washington State University
 * Lynn Palmanteer-Holder - Tribal Government Affairs Office for WA State Board of Community and Technical Colleges
-* Mike  Iyall - Cowlitz Indian Tribe
+* Mike Iyall - Cowlitz Indian Tribe
 
 #### 1 👎 - Con
 Testifying:

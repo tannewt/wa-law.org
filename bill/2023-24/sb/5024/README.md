@@ -14,9 +14,9 @@ Testifying:
 * Nancy Button
 * Laurie Layne
 * Jeannie Magdua - Conservative Ladies of Washington
-* Dave  Olwell
+* Dave Olwell
 * Bonnie Ruiz - Moms for America
-* JoAnn  Tolentino
+* JoAnn Tolentino
 * Hannah Ordos
 * Nancy Button
 
@@ -26,7 +26,7 @@ Testifying:
 * Tracy Castro-Gill - Washington Ethnic Studies Now
 * Denise Michaels
 * Oliver Miska
-* Vicki Skeels 
+* Vicki Skeels
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 3 ❓ - Other

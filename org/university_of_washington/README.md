@@ -30,15 +30,15 @@
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
 ## [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
-* 👍 Beatriz  Carlini
+* 👍 Beatriz Carlini
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
-* 👍 Anna  Ratzliff
-* 👍 Anna  Ratzliff
+* 👍 Anna Ratzliff
+* 👍 Anna Ratzliff
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 

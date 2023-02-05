@@ -25,7 +25,7 @@ Testifying:
 * Tim Eyman
 * Kevin McMahan - Secretary of State
 * Stuart Holmes - Secretary of State
-* Susannah  Goodman - Common Cause
+* Susannah Goodman - Common Cause
 * Tim Eyman
 * Jeff Pack - Me
 * Ronald Rivest - (none)

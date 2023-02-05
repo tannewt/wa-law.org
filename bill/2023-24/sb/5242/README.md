@@ -11,10 +11,10 @@
 #### 504 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
-* Lee Che  Leong - Northwest Health Law Advocates (NoHLA)
+* Lee Che Leong - Northwest Health Law Advocates (NoHLA)
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
-* Hilary  Whitmore
+* Hilary Whitmore
 * 💵Alexa Brenner - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Stephanie Simpson - Patient Coalition of Washington
 * Kathryn Lewandowsky

@@ -10,8 +10,8 @@
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1347 Comm.-based health assess.
 #### 2 👍 - Pro
 Testifying:
-* Jarred-Michael  Erickson - Confederated Tribes of the Colville Reservation
-* Karen  Condon - Confederated Tribes of the Colville Reservation
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Karen Condon - Confederated Tribes of the Colville Reservation
 
 #### 1 👎 - Con
 Testifying:

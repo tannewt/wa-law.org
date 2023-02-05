@@ -36,7 +36,7 @@
 * 👎 Chris Herman
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
-* ❓ Eric  ffitch
+* ❓ Eric ffitch
 
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel cells 👍1  
 

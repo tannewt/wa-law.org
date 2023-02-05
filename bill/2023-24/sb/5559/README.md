@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Richard Pope
 * Tracy Kahlo - PAVE
-* Director Liza Rankin  - School Board Director, Seattle Public Schools
+* Director Liza Rankin - School Board Director, Seattle Public Schools
 * Samantha Fogg - Seattle Council PTSA
 
 #### 2 👎 - Con

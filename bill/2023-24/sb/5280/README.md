@@ -11,7 +11,7 @@
 #### 14 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 * Sara Young
 
 #### 1 👎 - Con

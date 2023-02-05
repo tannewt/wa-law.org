@@ -18,8 +18,8 @@ Testifying:
 * Diana Birkett Rakow - [Alaska Airlines](/org/alaska_airlines/)
 * Kris Johnson - [Association of Washington Business](/org/association_of_washington_business/)
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
-* Fred  Felleman - [Port of Seattle](/org/port_of_seattle/)
-* Larry  Krauter - Spokane International Airport
+* Fred Felleman - [Port of Seattle](/org/port_of_seattle/)
+* Larry Krauter - Spokane International Airport
 * 💵Emily Wittman - Aerospace Futures Alliance
 * Lars Erickson - Seattle Chamber
 * Darrin Morgan - SkyNRG

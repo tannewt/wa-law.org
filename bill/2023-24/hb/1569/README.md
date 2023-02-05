@@ -24,7 +24,7 @@ Testifying:
 * Liz Tidyman
 * MaryAnn Smith - self
 * Patrick McDonald - Washington State Chapter of Community Association Institute
-* Krystelle  Purkey
+* 💵Krystelle Purkey
 
 #### 5 ❓ - Other
 Testifying:

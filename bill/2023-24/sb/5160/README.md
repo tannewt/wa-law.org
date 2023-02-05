@@ -19,4 +19,4 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice

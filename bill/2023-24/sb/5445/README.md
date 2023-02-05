@@ -24,7 +24,7 @@ Testifying:
 Testifying:
 * Tonia Sorrell-Neal - [Pharmaceutical Care Management Association](/org/pharmaceutical_care_management_association/)
 * ron adams - Cascade Construction
-* Jon  Rossman - CEO and Owner of Chuckals Office Supply
+* Jon Rossman - CEO and Owner of Chuckals Office Supply
 * LuGina Mendez Harper - Prime Therapeutics
 * Chris Bandoli - America's Health Insurance Plans
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans

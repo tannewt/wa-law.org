@@ -10,7 +10,7 @@
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SB 5015 Productivity board
 #### 10 👍 - Pro
 Testifying:
-* Dennis  Eagle  - WA Federation of State Employees
+* 💵Dennis Eagle - WA Federation of State Employees
 
 #### 0 👎 - Con
 

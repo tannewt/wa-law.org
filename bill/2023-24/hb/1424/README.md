@@ -24,11 +24,10 @@ Testifying:
 * Carollynn Zimmers DVM - NA
 * Kathryn Neary
 
-#### 149 👎 - Con
+#### 148 👎 - Con
 Testifying:
 * Ben York - Puppyland (Legal Counsel)
 * 💵Paula Sardinas - Puppyland
-* Paula  Sardinas - FMS Global Strategies
 * DEBBIE GOODRICH - Flight Club Foundation
 * Justin Kerr - Puppyland
 * Kayla Kerr - Puppyland
@@ -44,7 +43,7 @@ Testifying:
 * Julie Conlon
 * Mike Asai
 * Peter Manning
-* Damian  Mims
+* Damian Mims
 * Mario A Flores
 * Robert Likins - Pet Advocacy Network
 

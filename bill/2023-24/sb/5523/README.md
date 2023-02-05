@@ -10,10 +10,10 @@
 ### Wed 02/01 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5523 Forensic pathologists
 #### 19 👍 - Pro
 Testifying:
-* Hayley  Thompson - President of Washington Assoc. of Coroners and Medical Examiners
+* Hayley Thompson - President of Washington Assoc. of Coroners and Medical Examiners
 * MD, J. Matthew Lacy - Snohomish County Medical Examiner
 * 💵Timothy Grisham - Washington Association of County Officals
-* Warren  McLeod - WA Association of Coroners and Medical Examiners / Lewis County Coroner
+* Warren McLeod - WA Association of Coroners and Medical Examiners / Lewis County Coroner
 
 #### 0 👎 - Con
 

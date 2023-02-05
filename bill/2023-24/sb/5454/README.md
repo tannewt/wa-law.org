@@ -10,8 +10,8 @@
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5454 RN PTSD/industrial insurance
 #### 60 👍 - Pro
 Testifying:
-* AJ  Johnson  - Washington State Council of Fire Fighters
-* Anna  Nepomuceno - NAMI Washington
+* AJ Johnson - Washington State Council of Fire Fighters
+* 💵Anna Nepomuceno - NAMI Washington
 * RN, Jackie Wells
 * RN, Sarah Ghering
 * RN, Shawn Reed - Washington State Nurses Association

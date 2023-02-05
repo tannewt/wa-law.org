@@ -19,7 +19,7 @@ Testifying:
 #### 521 👎 - Con
 Testifying:
 * Leslie Williams
-* Jeannie  Magdua  - Conservative Ladies of Washington
+* Jeannie Magdua - Conservative Ladies of Washington
 * Leslie Williams - Conservative Ladies of Washington
 
 #### 2 ❓ - Other

@@ -22,6 +22,6 @@ Testifying:
 #### 5 👎 - Con
 Testifying:
 * DO, Katina Rue
-* Sean  Graham - Washington State Medical Association
+* 💵Sean Graham - Washington State Medical Association
 
 #### 4 ❓ - Other

@@ -20,7 +20,7 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* Bonny Jo  Peterson  - Industrial Hemp Association of WA
+* Bonny Jo Peterson - Industrial Hemp Association of WA
 * Kristofer Plunkett - Cascadia Hemp Co.
 
 #### 3 ❓ - Other

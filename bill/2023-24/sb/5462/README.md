@@ -10,7 +10,7 @@
 ### Mon 01/30 01:30 PM - Early Learning & K-12 Education (EDU): SB 5462 Inclusive learning standards
 #### 38 👍 - Pro
 Testifying:
-* Director Liza  Rankin  - School Board Director, Seattle Public Schools
+* Director Liza Rankin - School Board Director, Seattle Public Schools
 * Melissa Spiker
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 

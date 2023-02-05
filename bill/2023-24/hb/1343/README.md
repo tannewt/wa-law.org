@@ -12,7 +12,7 @@
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
-* Stacey  Valenzuela 
+* Stacey Valenzuela
 
 #### 1 👎 - Con
 

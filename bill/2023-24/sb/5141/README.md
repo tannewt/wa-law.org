@@ -11,7 +11,7 @@
 ### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5141 WMS bargaining
 #### 27 👍 - Pro
 Testifying:
-* John  Conaty
+* John Conaty
 * Niles McDonald
 * George Matthews
 * Mike Poston

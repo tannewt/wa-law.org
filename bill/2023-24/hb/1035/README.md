@@ -12,7 +12,7 @@
 Testifying:
 * Gregg VandeKieft - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
 * M. Lorena Gonzalez - ACLU of Washington
-* Nancy  Sapiro - End of Life WA
+* 💵Nancy Sapiro - End of Life WA
 
 #### 290 👎 - Con
 Testifying:

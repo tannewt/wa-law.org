@@ -23,7 +23,7 @@ Testifying:
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 * 💵Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Program
 * KARL JOHANSON - NPIP
-* Gregory  Narver  - General Counsel, Seattle Public Schools
+* Gregory Narver - General Counsel, Seattle Public Schools
 * 💵Laura Pierce - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
 * Derek Bryan - Washington Counties Risk Pool
 * 💵Mike Hoover - Washington State School Directors’ Association and Washington State Association of Counties
@@ -36,7 +36,7 @@ Testifying:
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5059 Prejudgment interest
 #### 133 👍 - Pro
 Testifying:
-* Crystal  Rutherford - Excelsior Law PLLC
+* Crystal Rutherford - Excelsior Law PLLC
 * Colleen Durkin Peterson - Washington State Association for Justice
 * Darrell Cochran - Washington State Association for Justice
 * Nate Roberts - Washington State Association for Justice
@@ -47,8 +47,8 @@ Testifying:
 * 💵Alex Hur - Schools Insurance Association of Washington/Non Profit Insurance Pool
 * Derek Bryan - Washington Counties Risk Pool
 * 💵Mike Hoover - Washington State Association of Counties and the Washington State School Directors’ Association
-* Gregory  Narver  - General Counsel, Seattle Public Schools
-* Ron  Mabry - Washington State School Directors' Association / Kennewick SD
+* Gregory Narver - General Counsel, Seattle Public Schools
+* Ron Mabry - Washington State School Directors' Association / Kennewick SD
 * Sandy Hayes - Washington State School Directors' Association / Northshore SD
 * Cindy McMullen - Washington State School Directors' Association / Central Valley SD
 * Kris Tefft - Washington Liability Reform Coalition

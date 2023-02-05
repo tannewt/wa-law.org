@@ -21,7 +21,7 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Nora  Palattao Burnes
+* Nora Palattao Burnes
 
 #### 1 ❓ - Other
 

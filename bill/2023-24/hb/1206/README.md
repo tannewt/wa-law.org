@@ -15,8 +15,8 @@ Testifying:
 * Ben Campbell - The Columbian
 * matt zuvich - Office of State Treasurer
 * Kathy Sakahara - Northwest Progressive Institute
-* Rowland Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
-* Bob  Ferguson - WA State Attorney General's Office
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* Bob Ferguson - WA State Attorney General's Office
 * Rory Paine-Donovan - WA State Attorney General's Office
 
 #### 1 👎 - Con

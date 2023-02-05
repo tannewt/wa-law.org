@@ -24,10 +24,10 @@ Testifying:
 
 #### 33 👎 - Con
 Testifying:
-* Albert  Froling  - WSHA
-* Chelene  Whiteaker - WSHA
+* Albert Froling - WSHA
+* 💵Chelene Whiteaker - WSHA
 * 💵Ian Goodhew - UW Medicine
-* Mike  Marsh  - Overlake Medical Center & Clinics
+* Mike Marsh - Overlake Medical Center & Clinics
 * 💵Jeb Shepard - WA State Medical Association (WSMA)
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Dr. Mika Sinanan - Washington State Medical Association

@@ -135,7 +135,9 @@ for start_year in range(2023, 2025, 2):
                 if not cols:
                     continue
                 last_name, first_name = cols[1].split(", ", maxsplit=1)
-                organization = cols[2]
+                last_name = last_name.strip()
+                first_name = first_name.strip()
+                organization = cols[2].strip()
                 position = cols[3]
                 sign_in_time = datetime.datetime.strptime(cols[4], "%m/%d/%Y %H:%M:%S %p")
                 cur.execute("INSERT OR IGNORE INTO positions VALUES (?)", (position,))

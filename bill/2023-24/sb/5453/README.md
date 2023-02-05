@@ -11,12 +11,12 @@
 #### 129 👍 - Pro
 Testifying:
 * Absa Samba
-* Muna  Osman - Behalf off WA coalition and survivor
+* Muna Osman - Behalf off WA coalition and survivor
 * Dr. Maria Viola Sanchez - STOP THE CUT NOW!  Eradicating Female Genital Mutilation
 * Isatou Jallow
 * Bettina Shell-Duncan - [University of Washington](/org/university_of_washington/)
-* Fatoumata  Jammeh
-* Maryum  Saifee  - I’m testifying as a survivor of FGM and co-founder of a change.org petition
+* Fatoumata Jammeh
+* Maryum Saifee - I’m testifying as a survivor of FGM and co-founder of a change.org petition
 * Eric Pratt - I, America
 * Zehra Patwa - WeSpeakOut
 

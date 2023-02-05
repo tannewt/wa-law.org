@@ -16,6 +16,6 @@
 * ❓ Jay Kehne
 
 ## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍1  
-* 👍 Paula  Swedeen
+* 👍💵 Paula Swedeen
 
 ## [SB 5471](/bill/2023-24/sb/5471/) - Electric bicycles/disability   ❓1

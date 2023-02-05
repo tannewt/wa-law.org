@@ -16,11 +16,11 @@ Testifying:
 * Babs Roberts - Department of Social and Health Services, Economic Services Administration
 * Tony Bowie - Department of Social and Health Services, Economic Services Administration
 * Gian Mitchell - Washington Low Income Housing Alliance
-* Kathleen  Knutsen - Kitsap/Thurston County HEN
+* Kathleen Knutsen - Kitsap/Thurston County HEN
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Dawnetta Sparks
 * Eric Penar
-* Sharon  Murfin
+* Sharon Murfin
 
 #### 0 👎 - Con
 

@@ -10,7 +10,7 @@
 ### Thu 01/26 01:30 PM - Early Learning & K-12 Education (EDU): SB 5355 Sex trafficking prev. ed.
 #### 11 👍 - Pro
 Testifying:
-* Ria  Bahadur  - Author of SB 5355
+* Ria Bahadur - Author of SB 5355
 
 #### 1 👎 - Con
 

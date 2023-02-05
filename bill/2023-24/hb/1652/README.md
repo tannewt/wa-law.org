@@ -11,8 +11,8 @@
 #### 80 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
-* Amy  Roark 
-* April  Mazur - Benefits Legal Assistance, Solid Ground
+* Amy Roark
+* April Mazur - Benefits Legal Assistance, Solid Ground
 
 #### 0 👎 - Con
 

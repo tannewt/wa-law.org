@@ -14,7 +14,7 @@ Testifying:
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists and Washington State Medical Association
 * Cassie Gabriel - Washington State Society of Anesthesiologists
 * Erik Condon
-* Robert  Hsiung
+* Robert Hsiung
 * 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
 * Grier James - Certified Anesthesiologist Assistant
 * Nicole Cabell - Certified Anesthesiologist Assistant
@@ -34,13 +34,13 @@ Testifying:
 * Adrianna Silva - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Brad Hemingway - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Darryl DuVall - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
-* Joe  Rodriguez - American Association of Nurse Anesthetists
+* Joe Rodriguez - American Association of Nurse Anesthetists
 * Dee Bender - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Michael Fisher - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Ashley Fedan - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 * Jennifer Tanguay - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
-* Melissa  Johnson - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* 💵Melissa Johnson - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 
 #### 38 ❓ - Other
 Testifying:

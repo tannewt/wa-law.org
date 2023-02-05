@@ -10,7 +10,7 @@
 ### Tue 01/24 04:00 PM - Transportation (TRAN): SB 5177 Organ transport vehicles
 #### 15 👍 - Pro
 Testifying:
-* Nathaniel  Brown - Northwest Kidney Council
+* 💵Nathaniel Brown - Northwest Kidney Council
 * Jackie Wirz - Donate Life Northwest
 * 💵Jessica Hostetler
 * Dominic Adorno

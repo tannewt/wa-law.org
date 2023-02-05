@@ -46,7 +46,7 @@ Testifying:
 * Michael McKinley
 * Chris Giles
 * Shelly Quintana
-* Benjamin  Quintana
+* Benjamin Quintana
 * Micah Zeitz-Chua
 * Travis Miller
 * William Thomas

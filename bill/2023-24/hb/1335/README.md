@@ -16,8 +16,8 @@ Testifying:
 * 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 * Brett Gailey - Mayor, City of Lake Stevens
 * Miri Cypers - Anti-Defamation League
-* Paul  Schneider - Spokane Human Rights Task Force
-* Bill  Mowat - Jewish Community Relations Council
+* Paul Schneider - Spokane Human Rights Task Force
+* Bill Mowat - Jewish Community Relations Council
 
 #### 0 👎 - Con
 

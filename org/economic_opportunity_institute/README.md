@@ -27,7 +27,7 @@
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
-* 👍 Sam Hatzenbeler 
+* 👍 Sam Hatzenbeler
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 * 👍 Sam Hatzenbeler

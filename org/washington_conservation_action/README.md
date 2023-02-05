@@ -47,7 +47,7 @@
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍3  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
-* 👍 Clifford  Traisman
+* 👍💵 Clifford Traisman
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions   ❓1
 * ❓💵 Darcy Nonemacher

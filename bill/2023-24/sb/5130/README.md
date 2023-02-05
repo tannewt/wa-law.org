@@ -11,7 +11,7 @@
 #### 15 👍 - Pro
 Testifying:
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
-* Bradley  Tarr
+* Bradley Tarr
 * 💵Anna Nepomuceno - NAMI WA
 * 💵Michael White - [King County](/org/king_county/)
 

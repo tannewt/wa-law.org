@@ -27,7 +27,7 @@ Testifying:
 #### 10 ❓ - Other
 Testifying:
 * 💵John Rothlin
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Nicolas Garcia - WPUDA
 * 💵John Rothlin - Avista
-* Jay  Balasbas - PacifiCorp
+* 💵Jay Balasbas - PacifiCorp

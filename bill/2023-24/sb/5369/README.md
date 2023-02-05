@@ -11,7 +11,7 @@
 #### 18 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Doug  Krapas  - Inland Empire Paper Company
+* Doug Krapas - Inland Empire Paper Company
 * 💵Melissa Gombosky - Inland Empire Paper Company
 * Council President Breean Beggs - [City of Spokane](/org/city_of_spokane/)
 * Rob Lindsay - Spokane County Environmental Services
@@ -24,7 +24,7 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Katrina Lassiter - Department of Ecology
 * Holly Davies - AVAILABLE FOR QUESTIONS Washington State Department of Health
 * Tim Shestek - [American Chemistry Council](/org/american_chemistry_council/)

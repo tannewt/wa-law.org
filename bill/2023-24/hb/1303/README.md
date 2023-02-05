@@ -14,7 +14,7 @@ Testifying:
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
 * Miki Gearhart - Department of Revenue
 * Steve Ewing - Department of Revenue
-* Kananu  Mason  - 130 lilac drive
+* Kananu Mason - 130 lilac drive
 
 #### 0 👎 - Con
 

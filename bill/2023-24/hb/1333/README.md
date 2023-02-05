@@ -12,11 +12,11 @@
 #### 121 👍 - Pro
 Testifying:
 * Peggy Shepard
-* Miri  Cypers
+* Miri Cypers
 * Helene Paroff
 * Nina Martinez - Latino Civic Alliance
 * 💵Luis Moscoso - Former State Legislator
-* Jennifer Bereskin 
+* Jennifer Bereskin
 * Megan Dunn - Snohomish County Council
 * Alex Aronson
 * Fredrick Echols - Cure Violence Global
@@ -28,13 +28,13 @@ Testifying:
 #### 2499 👎 - Con
 Testifying:
 * Laurie Layne
-* Doug  Basler
+* Doug Basler
 * Tamborine Borrelli
 * julie jaman - women and children
 * Vince Navarre
 * Lara Gabriel
 * Dawn Land
-* Sarah  Garriott
+* Sarah Garriott
 * Janet Large
 * Aaron Lang
 * Sue Coffman
@@ -44,7 +44,7 @@ Testifying:
 * Laura Dentone
 * Kim Cutuli
 * Corbin Walters
-* Dan Smallwood 
+* Dan Smallwood
 * Gary Wilson
 * Olemara Peters
 

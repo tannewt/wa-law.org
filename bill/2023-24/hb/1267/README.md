@@ -40,4 +40,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Scott  Nelson - Office of the Washington State Auditor
+* 💵Scott Nelson - Office of the Washington State Auditor

@@ -14,18 +14,18 @@ Testifying:
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 * Charlie Brown - Diageo and Fred Meyer/QFC
 * Justin Stiefel - Heritage Distilling Company
-* Shanan  O'Driscol
+* Shanan O'Driscol
 * Scott Jahnke
-* Brandon  High - Southern Glazer's Wine and Spirits
-* John  Gainza - Southern Glazer's Wine and Spirits
-* Scott  Stocum - Southern Glazer's Wine and Spirits
+* Brandon High - Southern Glazer's Wine and Spirits
+* John Gainza - Southern Glazer's Wine and Spirits
+* Scott Stocum - Southern Glazer's Wine and Spirits
 * 💵David Ducharme - Distilled Spirits Council of the United States
 
 #### 177 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
-* Kevin  Quinn  - Bale Breaker Brewing Co.
-* Daniel  Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Kevin Quinn - Bale Breaker Brewing Co.
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Maggie Elliot - Hop Growers of Washington
 
 #### 0 ❓ - Other

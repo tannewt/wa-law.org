@@ -28,4 +28,4 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Lisa Henderson - Washington Association of County Clerks
-* Sharon  Swanson  - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* 💵Sharon Swanson - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)

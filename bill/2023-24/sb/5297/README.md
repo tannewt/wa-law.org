@@ -15,7 +15,7 @@ Testifying:
 * Bryan Irwin - Coastal Conservation Association
 * Nello Picinich - Coastal Conservation Association
 * Ed Wickersham - Long Time Washington Resident
-* George  Harris - Northwest Marine Trade Association (President)
+* George Harris - Northwest Marine Trade Association (President)
 * Liz Hamilton - [Northwest Sportfishing Industry Association](/org/northwest_sportfishing_industry_association/)
 
 #### 140 👎 - Con

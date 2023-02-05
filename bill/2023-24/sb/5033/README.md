@@ -14,7 +14,7 @@ Testifying:
 * Gabe Galanda - Galanda Broadman, PLLC
 * Michele Devlin - Clallam County Prosecutor's Office
 * Eric Pratt - I, America
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 
 #### 0 👎 - Con
 

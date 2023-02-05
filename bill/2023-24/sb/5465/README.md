@@ -29,7 +29,7 @@ Testifying:
 Testifying:
 * Becky Bogard - State of Washington Tourism
 * David Blandford - State of Washington Tourism
-* Megan  Ching - Seattle Center Monorail
+* Megan Ching - Seattle Center Monorail
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Jeff Koffel - Tri County Economic Development District
 * Buck Taft - [Port of Pasco](/org/port_of_pasco/)

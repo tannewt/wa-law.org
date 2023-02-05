@@ -11,7 +11,7 @@
 ### Fri 01/27 08:00 AM - State Government & Tribal Relations (SGOV): HB 1426 Controlled entities
 #### 147 👍 - Pro
 Testifying:
-* Cindy Madigan  - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* Cindy Madigan - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 
 #### 0 👎 - Con

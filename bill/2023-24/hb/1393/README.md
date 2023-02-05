@@ -21,7 +21,7 @@ Testifying:
 * Christopher Scherer - North Wave Electric LLC
 * Michael Brunelle - First Choice Electric LLC.
 * Timothy Rockwell - Rockwell Electric, Inc.
-* Patrick  Toby  - Toby’s Electric
+* Patrick Toby - Toby’s Electric
 * Kory Gannon
 * Cody Anderson
 * Austin Curtis
@@ -29,10 +29,10 @@ Testifying:
 * Brandon Dean
 * TJ Hickman
 * Mike Brunelle - First Choice Electric
-* Jeremy  Stephenson - Haggard Electrical Contractors
+* Jeremy Stephenson - Haggard Electrical Contractors
 * Bill Swartz - Haggard Electrical Contractors-01 Journeyman
 * William Pacho - Haggard Electrical Contractors- Trainee
-* Justin  Swails - Haggard Electrical Contractors- Trainee
+* Justin Swails - Haggard Electrical Contractors- Trainee
 * Carter McManus - Haggard Electrical Contractors- Trainee
 * Emily Petry - Haggard Electrical Contractors- Trainee
 * Pete Rehrmann - Haggard Electrical Contractors- Trainee
@@ -46,7 +46,7 @@ Testifying:
 * Kevin Diefenbach
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Kelli Krause - Elite Electrical Contractors, Inc.
-* Bryson  Yoro
+* Bryson Yoro
 * Justin Hauck
 * Nathan Turner - Washington State Electrical Contractors Association
 * Zach Stockwell

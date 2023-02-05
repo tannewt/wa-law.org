@@ -11,7 +11,7 @@
 #### 4 👍 - Pro
 Testifying:
 * Jamie Langford - Office of Financial Management
-* K.D.  Chapman-See - Office of Financial Management
+* K.D. Chapman-See - Office of Financial Management
 * Jim Baumgart - Washington Military Department
 
 #### 0 👎 - Con

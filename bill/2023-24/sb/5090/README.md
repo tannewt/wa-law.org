@@ -15,7 +15,7 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 
 #### 1 ❓ - Other
 Testifying:

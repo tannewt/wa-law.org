@@ -17,7 +17,7 @@ Sign up to testify:
 #### 13 👍 - Pro
 Testifying:
 * David Martin - KCPAO
-* Amy  Gallardo
+* Amy Gallardo
 * Karen Sinclair
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

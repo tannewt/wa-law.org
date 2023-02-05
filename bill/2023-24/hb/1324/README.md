@@ -11,14 +11,14 @@
 #### 329 👍 - Pro
 Testifying:
 * Christopher Blackwell
-* Devennice  Gaines
+* Devennice Gaines
 * 💵Chelsea Moore - ACLU of Washington
-* Jeffrey  Ellis - Redemption Project of WA
+* Jeffrey Ellis - Redemption Project of WA
 * George Yeannakis - Office of Public Defense
 * Devon Adams - Collective Justice
 * Sean Goode
 * Katie Hurley - King County Department of Public Defense
-* Honorable Judge André  Peñalver
+* Honorable Judge André Peñalver
 * Mikala Grozier
 
 #### 7 👎 - Con

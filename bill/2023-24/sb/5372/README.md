@@ -18,7 +18,7 @@ Testifying:
 * Michael Regan
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Duane Emmons - Washington Department of Natural Resources
-* Hilary  Franz - Washington Department of Natural Resources
+* Hilary Franz - Washington Department of Natural Resources
 
 #### 11 👎 - Con
 Testifying:
@@ -31,4 +31,4 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Rod Fleck - City of Forks
 * Ron Wesen - [Skagit County](/org/skagit_county/)
-* Matthew  Comisky  - American Forest Resource Council
+* 💵Matthew Comisky - American Forest Resource Council

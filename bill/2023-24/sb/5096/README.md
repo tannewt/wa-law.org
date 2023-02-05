@@ -21,7 +21,7 @@ Testifying:
 * Jack Moriarty - Ownership America
 * Gellert Dornay
 * 💵Bryan Ricker - [Schweitzer Engineering Laboratories](/org/schweitzer_engineering_laboratories/)
-* Licett Garbe  - Greater Spokane Valley Chamber of Commerce
+* Licett Garbe - Greater Spokane Valley Chamber of Commerce
 * Brian Boland - Delta Fund
 
 #### 0 👎 - Con

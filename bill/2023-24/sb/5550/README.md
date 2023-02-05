@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 Testifying:
-* Eric Winge  - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 
 #### 0 👎 - Con
 

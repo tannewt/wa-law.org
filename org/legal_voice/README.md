@@ -9,7 +9,7 @@
 * 👍💵 Yvette Maganya
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
-* 👍 Alizeh  Bhojani
+* 👍💵 Alizeh Bhojani
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 

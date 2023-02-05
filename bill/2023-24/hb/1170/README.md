@@ -17,7 +17,7 @@ Sign up to testify:
 
 #### 99 👍 - Pro
 Testifying:
-* Crystal  Raymond - UW Climate Impacts Group
+* Crystal Raymond - UW Climate Impacts Group
 
 #### 2 👎 - Con
 Testifying:

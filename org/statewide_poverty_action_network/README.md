@@ -39,7 +39,7 @@
 * 👍💵 Lianna Kressin
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
-* 👍 Shaun  Scott
+* 👍💵 Shaun Scott
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 

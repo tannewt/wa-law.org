@@ -13,7 +13,7 @@ Testifying:
 * Lorraine Johnson
 * Danielle Alvarado - Fairwork Center
 * Gloria Santiago - WA Immigrant Solidarity Network
-* Sybill  Hyppolite - WA State Labor Council
+* 💵Sybill Hyppolite - WA State Labor Council
 * Edith Enriquez - WA Immigrant Solidarity Network
 * Gloria Medina - Fairwork Center
 * Humberto Gonzalez-Interpreter - Interpreter/OneAmerica
@@ -24,9 +24,9 @@ Testifying:
 * Cristina Ortega - Progreso: Latino Progress
 * Hamdi Mohamed - [City of Seattle](/org/city_of_seattle/)
 * Maria Silva - One America
-* Rodolfo  Canedo-Olvera
-* José Christian  Piedra
-* German  Godinez 
+* Rodolfo Canedo-Olvera
+* José Christian Piedra
+* German Godinez
 
 #### 46 👎 - Con
 Testifying:

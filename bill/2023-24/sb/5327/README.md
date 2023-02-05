@@ -10,8 +10,8 @@
 ### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5327 Intern wages
 #### 16 👍 - Pro
 Testifying:
-* Bernal  Baca - Executive Director
-* Deborah Schuknecht 
+* 💵Bernal Baca - Executive Director
+* Deborah Schuknecht
 
 #### 3 👎 - Con
 Testifying:

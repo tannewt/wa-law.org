@@ -10,7 +10,7 @@
 ### Wed 01/25 01:30 PM - Consumer Protection & Business (CPB): HB 1358 Prof. licensing review
 #### 1 👍 - Pro
 Testifying:
-* Paul  Guppy - Washington Policy Center
+* Paul Guppy - Washington Policy Center
 
 #### 9 👎 - Con
 Testifying:

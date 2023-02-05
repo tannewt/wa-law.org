@@ -10,7 +10,7 @@
 ### Mon 01/16 01:30 PM - Housing (HOUS): HB 1199 Child care/communities
 #### 49 👍 - Pro
 Testifying:
-* Laura  Fernando - SEIU 925 child care provider
+* Laura Fernando - SEIU 925 child care provider
 * Laura Pavlov
 * 💵Erin Haick - SEIU 925
 

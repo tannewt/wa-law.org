@@ -23,7 +23,7 @@ Testifying:
 * Shane Angus - Chair, Anesthesiologist Assistant Education Programs
 * Deborah Rusy - American Society of Anesthesilogists Rep to AAAA
 * Scott Wolf - WSSA
-* Stephanie Mason  - Washington Medical Commission
+* Stephanie Mason - Washington Medical Commission
 * Michael Robinson
 
 #### 3437 👎 - Con

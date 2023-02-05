@@ -18,7 +18,7 @@ Testifying:
 * Tammy Morales
 * Breean Beggs - Spokane City Council
 * Eliana Machefsky - National Police Accountability Project
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 
 #### 40 👎 - Con
 Testifying:
@@ -26,7 +26,7 @@ Testifying:
 * Michael McKinley
 * Derek Bryan - Washington Counties Risk Pool
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Ryan  Lufkin - WA Council of Police & Sheriffs (WACOPS)
+* Ryan Lufkin - WA Council of Police & Sheriffs (WACOPS)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Spike Unruh - Washington State Patrol Troopers Association
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

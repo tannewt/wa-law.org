@@ -18,18 +18,18 @@ Sign up to testify:
 Testifying:
 * Michael Brown - Civic Commons
 * Denny Heck - Lieutenant Governor
-* Mayor Victoria Woodards  - [City of Tacoma](/org/city_of_tacoma/)
-* Gordon  McHenry Jr - United Way of King County
-* Patience  Malaba - HDC
+* Mayor Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
+* Gordon McHenry Jr - United Way of King County
+* Patience Malaba - HDC
 * Corinna Obar - Washington State Housing Finance Commission
 * 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
 * QUINTARD TAYLOR - BlackPast.org
 * Ali Sheibani
 * Donald King - Nehemiah Initiative Seattle
 * Nicholas Carr - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)
-* Shaun  Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Nicole Bascomb-Green - Bascomb Real Estate Group
-* Darryl  Smith - HomeSight
+* Darryl Smith - HomeSight
 * Jasmyn Jefferson - Windermere Abode Lakewood / BHI Network
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Larry Cebula

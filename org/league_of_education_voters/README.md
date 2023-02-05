@@ -21,7 +21,7 @@
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
-* 👍 Jake  Vela
+* 👍 Jake Vela
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 

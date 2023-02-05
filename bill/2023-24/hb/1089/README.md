@@ -29,9 +29,9 @@ Testifying:
 * Kyra Abrahamson - Washington Trafficking Prevention
 * Mar Brettmann - Businesses Ending Slavery & Trafficking
 * Marissa Perez - Yarrow Project
-* Mary  Williams - REST
+* Mary Williams - REST
 * Jeri Moomaw - Innovations HTC
-* Robin  Miller - Janus Youth
+* Robin Miller - Janus Youth
 * Tricia MacFarlan - Mirror Ministries
 * Kyle Moore - City of SeaTac
 * Leah White - Washington State Women's Commission

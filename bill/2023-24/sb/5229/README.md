@@ -11,7 +11,7 @@
 #### 22 👍 - Pro
 Testifying:
 * Mike Mason - CERB - Community Economic Revitalization Board
-* Michael  Echanove - CERB - Community Economic Revitalization Board
+* Michael Echanove - CERB - Community Economic Revitalization Board
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Jennifer Wray-Keene - Port of Woodland
 * Sara Young - [Port of Skagit](/org/port_of_skagit/)
@@ -23,7 +23,7 @@ Testifying:
 ### Tue 01/17 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5229 Site readiness grants
 #### 28 👍 - Pro
 Testifying:
-* Michael  Echanove - CERB - Community Economic Revitalization Board
+* Michael Echanove - CERB - Community Economic Revitalization Board
 * Jennifer Wray-Keene - Port of Woodland
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

@@ -17,10 +17,10 @@ Sign up to testify:
 
 #### 12 👍 - Pro
 Testifying:
-* Superintendent Patrick  Murphy - Superintendent, Olympia School District
-* Dr. Art  Jarvis  - [Bellevue School District](/org/bellevue_school_district/)
-* Dr. Brent  Jones  - Superintendent, Seattle Public Schools
-* Dr. Ivan  Duran  - Superintendent, Highline Public Schools
+* Superintendent Patrick Murphy - Superintendent, Olympia School District
+* Dr. Art Jarvis - [Bellevue School District](/org/bellevue_school_district/)
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* Dr. Ivan Duran - Superintendent, Highline Public Schools
 
 #### 0 👎 - Con
 
@@ -42,19 +42,19 @@ Testifying:
 Testifying:
 * Nancy Chamberlain - Washington State PTA
 * Samantha Fogg - Seattle Council PTSA
-* Christopher  Willis - Orting School District
+* Christopher Willis - Orting School District
 
 #### 20 ❓ - Other
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition and Central Valley School District
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Marisa Peloquin - Washington State School Directors' Association (WSSDA)
-* Nikki  Lockwood  - [Spokane Public Schools](/org/spokane_public_schools/)
+* Nikki Lockwood - [Spokane Public Schools](/org/spokane_public_schools/)
 * Jon Holmen - Lake Washington School District
 * Maddy Thompson - Office of the Governor
 * 💵Shea Hamilton - Office of Financial Management
 * Tracy Wilson - Pasco School District
-* Clifford Traisman  - Bellevue, Highline, Olympia, Seattle Public School Districts
+* 💵Clifford Traisman - Bellevue, Highline, Olympia, Seattle Public School Districts
 * Robert Cruickshank - Washington’s Paramount Duty
 * Ashley Burchett
 * Charlie Brown - Pierce County Superintendents and Federal Way SD

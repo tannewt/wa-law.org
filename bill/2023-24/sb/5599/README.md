@@ -24,12 +24,12 @@ Testifying:
 * Eric Pratt - America
 * Julie Barrett - Conservative Ladies of Washington
 * Marjie Austen
-* Oli  London 
+* Oli London
 * Dawn Land
 * Alexandra Chrostowski - Gays Against Groomers
 * Justine Kreher
-* Dawn  Houghton
-* Chris  Spahn
+* Dawn Houghton
+* Chris Spahn
 * Dorothy Frenzel
 * Carrie BeSerra
 * Paige Norman - Conservative Ladies of Washington

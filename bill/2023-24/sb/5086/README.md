@@ -13,7 +13,7 @@ Testifying:
 * Monica Alexander - Washington State Criminal Justice Training Commission
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
-* Tyler  Zacherle-Boyd - Confederated Tribes of the Colville Reservation
+* Tyler Zacherle-Boyd - Confederated Tribes of the Colville Reservation
 
 #### 0 👎 - Con
 

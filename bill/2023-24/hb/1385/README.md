@@ -19,7 +19,7 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Michele  Walker - City of Kent City Attorney's Office
+* Michele Walker - City of Kent City Attorney's Office
 * JOHN Worthington - AAMC
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
-* Candice  Bock - Association of WA Cities
+* 💵Candice Bock - Association of WA Cities

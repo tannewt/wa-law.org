@@ -12,7 +12,7 @@
 Testifying:
 * Markus Virta - WASEIA
 * KRISTY ROYCE - Sun Path Electric
-* Rebecca  Sayre - InfinitiRED
+* Rebecca Sayre - InfinitiRED
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Eric Blatz - Western Solar Inc
 * Jerry Chen - UW Solar
@@ -23,7 +23,7 @@ Testifying:
 * 💵Charlee Thompson - NW Energy Coalition
 * John Kennedy - 2050 Project
 * MASON ROLPH - [Olympia Community Solar](/org/olympia_community_solar/)
-* Naghmana  Sherazi  - The Lands Council
+* Naghmana Sherazi - The Lands Council
 * Jeremy Smithson - Puget Sound Solar
 * Jr, Jerry White - Spokane Riverkeeper
 * Alana Nelson - Fire Mountain Solar

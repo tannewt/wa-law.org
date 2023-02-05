@@ -28,5 +28,5 @@ Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * 💵John Rothlin - Avista
 * 💵Nicolas Garcia - WPUDA
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition

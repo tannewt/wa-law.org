@@ -21,10 +21,10 @@ Testifying:
 * Brett Waller - HNN Communities
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Ryan Weatherstone
-* Quinn  Posner
+* Quinn Posner
 * Bruce Becker - Bruce Becker
 * Kaitlyn Jackson - Dimension Law Group PLLC
 * Steve O'Hara
-* Cole Scarbrough 
+* Cole Scarbrough
 
 #### 4 ❓ - Other

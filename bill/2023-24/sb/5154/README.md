@@ -12,7 +12,7 @@
 
 #### 7 👎 - Con
 Testifying:
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Rebecca Francik - Basin Disposal
 
 #### 1 ❓ - Other
@@ -59,20 +59,20 @@ Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Candace Joy - WA State Veterinary Medical Association
-* Rebecca  Francik - Basin Disposal
+* Rebecca Francik - Basin Disposal
 * Rodd Pemble - Sanitary Service Company
 * Steve Wulf - Sunshine Disposal
 * Ron Phillips - Animal Health Institute
 * Carol Patterson - Foodservice Packaging Institute
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * 💵Darbi Gottlieb - AdvaMed
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Erin Hall - American Forest and Paper Association
-* Brandon  Houskeeper - [Northwest Grocery Association](/org/northwest_grocery_association/)
+* 💵Brandon Houskeeper - [Northwest Grocery Association](/org/northwest_grocery_association/)
 * Mark Gingrich - Waste Connections
 * Craig Smith - [Food Northwest](/org/food_northwest/)
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
-* Rowland  Thompson  - The Wine Institute
+* 💵Rowland Thompson - The Wine Institute
 * Tim Shestek - [American Chemistry Council](/org/american_chemistry_council/)
 * Logan Harvey
 
@@ -91,7 +91,7 @@ Testifying:
 * Mike Smaha - Can Manufacturers Institute
 * Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
 * James Toner - IBWA
-* Rowland  Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * john Worthington

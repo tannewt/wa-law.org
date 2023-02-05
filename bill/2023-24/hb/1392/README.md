@@ -17,7 +17,7 @@ Testifying:
 * Mitch Kramer - FixCO
 * Nathan Proctor - PIRG
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Aaron Perzanowski 
+* Aaron Perzanowski
 * McKenna Morrigan - Seattle Public Utilities
 * Michael Brittain - Peninsula Computer Services
 * Noquisi Christian-Smith - Student
@@ -29,12 +29,12 @@ Testifying:
 
 #### 6 👎 - Con
 Testifying:
-* Melissa  Gombosky  - CTIA
+* 💵Melissa Gombosky - CTIA
 * Dustin Brighton - Repair Done Right
 * 💵Melissa Gombosky - CTIA
 * 💵Nora Burnes - TechNet
 * Charlie Brown - Consumer Electronics Association
-* Ashley  Sutton - TechNet
+* 💵Ashley Sutton - TechNet
 
 #### 2 ❓ - Other
 Testifying:

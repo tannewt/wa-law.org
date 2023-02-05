@@ -28,6 +28,6 @@ Testifying:
 * Derek Bronson
 * Donald ludwigsen
 * 💵Greg Hanon - Western States Petroleum Assoc.
-* Peter Ashurst  - No
+* Peter Ashurst - No
 
 #### 0 ❓ - Other

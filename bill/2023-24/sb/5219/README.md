@@ -13,7 +13,7 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * ROBERT E BATES - Bates Counseling Services
 * Tom Davis - Veterans Legislative Coalition (VLC)
-* Dr. Nichole  Ayres - Cohen Veterans Network
+* Dr. Nichole Ayres - Cohen Veterans Network
 * CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * LMHC, Jennifer S Kennett - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * LMHC, NCC, Dr. Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)

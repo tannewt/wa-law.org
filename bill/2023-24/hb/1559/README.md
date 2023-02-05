@@ -16,10 +16,10 @@ Testifying:
 * Jaeda Nelson - Wildcat Pantry at Central Washington University
 * Sybil Jordan
 * 💵Alex Hur - NW Education Access
-* Madeline  Sprute - Tacoma Community College
+* Madeline Sprute - Tacoma Community College
 * Martell Naranjo - Tacoma Community College
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
-* Michelle  Carrillo - 13th LD
+* Michelle Carrillo - 13th LD
 * 💵Joel Anderson - Uniersity of Washington Graduate and Professional Student Senate
 * 💵Nora Selander - Western Washington University
 * Sandy Kaiser - The Evergreen State College
@@ -32,7 +32,7 @@ Testifying:
 * Sopeara Chay - South Puget Sound Community College
 * Jackson Feaster
 * Jacob Katz - Community and Technical Colleges
-* Jennifer  Dellinger - SBCTC
+* Jennifer Dellinger - SBCTC
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * Hannah Whobrey - University of Washington Food Pantry
 * Zachary Glenn - University of Washington Student

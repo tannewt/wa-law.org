@@ -12,7 +12,7 @@
 #### 14 👍 - Pro
 Testifying:
 * Jessica Monger - WSOS
-* Diane  Cecchettini - WSOS
+* Diane Cecchettini - WSOS
 * Dante Cruz
 
 #### 0 👎 - Con

@@ -21,4 +21,4 @@ Testifying:
 Testifying:
 * 💵Suzanne Hanson - Washington Federation of Independent Schools
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
-* Julie  Watts - Dept of Children, Youth, and Families
+* 💵Julie Watts - Dept of Children, Youth, and Families

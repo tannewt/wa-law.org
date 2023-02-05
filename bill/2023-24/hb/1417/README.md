@@ -12,7 +12,7 @@
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Jackie Perkins - Coalition to Protect Patient Safety and Access
-* Krista  Testerman
+* Krista Testerman
 * Stacey Parkin
 * Tim Holmes
 * Jennifer Burkhardt - Summit Pacific Medical Center

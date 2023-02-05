@@ -10,7 +10,7 @@
 ### Thu 01/19 01:30 PM - Early Learning & K-12 Education (EDU): SB 5031 Special ed safety net awards
 #### 8 👍 - Pro
 Testifying:
-* Tim  Merlino  - ESD 112
+* Tim Merlino - ESD 112
 * Sue Ann Bube - [School Alliance](/org/school_alliance/)
 * Tania May - Office of Superintendent of Public Instruction
 

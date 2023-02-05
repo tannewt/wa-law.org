@@ -20,7 +20,7 @@ Testifying:
 
 #### 120 👎 - Con
 Testifying:
-* Marion Osborn 
+* Marion Osborn
 * Anita Stabler
 
 #### 0 ❓ - Other

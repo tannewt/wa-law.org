@@ -11,7 +11,7 @@
 #### 43 👍 - Pro
 Testifying:
 * 💵Maud Daudon - Career Connect Washington
-* Laura  Hopkins - SEIU 1199NW Multi-Employer Training Fund
+* Laura Hopkins - SEIU 1199NW Multi-Employer Training Fund
 * Kevin Wang - Mentors in Tech
 * Evan Woods - WeTrain Washington
 * 💵Carolyn Busch - OEDC - Department of Commerce
@@ -21,7 +21,7 @@ Testifying:
 * Lorie Thompson - Capital STEM Alliance (CCW Regional Network) @ ESD113
 * Mark Cheney - South Central Washington STEM Network/Career Connect Washington Regional Network
 * Alka Manchanda - Computing For All
-* Bryan Orihuela  - Computing For All
+* Bryan Orihuela - Computing For All
 * 💵Rose Gundersen - WA Retail Association
 * Brittany Skobel
 * Sabrina Chmelir

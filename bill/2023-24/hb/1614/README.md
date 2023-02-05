@@ -12,13 +12,13 @@
 Testifying:
 * Antonio McAfee
 * Leslie La Duke Banionis
-* Kevin  Oliver - NORML
-* Burl  Bryson - executive director -The Cannabis Alliance
-* John  Kingsbury
+* Kevin Oliver - NORML
+* Burl Bryson - executive director -The Cannabis Alliance
+* John Kingsbury
 * Micah Sherman - Raven
 * Scott MacKinnon
-* Bailey  Hirschburg
-* Kevin  Oliver - National Organization for the Reform of Marijuana Laws
+* Bailey Hirschburg
+* Kevin Oliver - National Organization for the Reform of Marijuana Laws
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Joel Jensen
 * Eric Johnston - Patients and Users for Reasonable Policy

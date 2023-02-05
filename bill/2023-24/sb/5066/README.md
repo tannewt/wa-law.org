@@ -11,7 +11,7 @@
 #### 31 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
-* Lori  Grassi - WA State Chiropractic Association
+* 💵Lori Grassi - WA State Chiropractic Association
 * 💵Lori Grassi - WA State Chiropractic Association
 
 #### 1 👎 - Con

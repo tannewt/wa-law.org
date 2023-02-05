@@ -18,10 +18,10 @@ Sign up to testify:
 Testifying:
 * Jennifer Dunne
 * Akshay Tandon - Student
-* Dr. Pooja  Tandon - Pediatrician, researcher
+* Dr. Pooja Tandon - Pediatrician, researcher
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Dr. William Massey - Researcher, Oregon State University, and King County Play Equity Coalition
-* JoAnne  Duncan - Elementary School Principal
+* JoAnne Duncan - Elementary School Principal
 * Mark Fadool - Mental and behavioral health specialist
 * Wendy Armour - Parent
 * Linnea Westerlind - Parent, PTA advocate

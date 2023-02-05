@@ -17,7 +17,7 @@ Testifying:
 * Peter Orser - Sound Communities
 * Uche Okezie - HomeSight
 * Al Levine - Sound Communities
-* Clifford  Cawthon - Habitat for Humanity Seattle-King & Kittitas County
+* 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * MARK SMITH - Housing Consortium of Everett & Snohomish County
 

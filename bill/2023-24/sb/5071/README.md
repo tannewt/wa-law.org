@@ -11,14 +11,14 @@
 ### Mon 01/30 04:00 PM - Ways & Means (WM): SSB 5071 Purple star designation
 #### 8 👍 - Pro
 Testifying:
-* Natalie Wimberley  - Peninsula School District
+* Natalie Wimberley - Peninsula School District
 * Tammie Perreault
 
 #### 0 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:
-* Jen Chong Jewell  - PAVE
+* Jen Chong Jewell - PAVE
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5071 Purple star award
 #### 0 👍 - Pro

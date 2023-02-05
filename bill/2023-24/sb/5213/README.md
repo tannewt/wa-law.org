@@ -11,16 +11,16 @@
 #### 153 👍 - Pro
 Testifying:
 * Laura Boudreau - AIDS Healthcare Foundation
-* Jack  Holt - Hi-School Pharmacy Services
+* Jack Holt - Hi-School Pharmacy Services
 * Jenny Arnold - Washington State Pharmacy Association
-* Ryan  Oftebro - Kelley-Ross Pharmacy
+* Ryan Oftebro - Kelley-Ross Pharmacy
 * Kaitlynn Johnson - Tick Klock Drug
-* Nathan  Johnson - Tick Klock Drug
+* Nathan Johnson - Tick Klock Drug
 * Lisa Nelson - [Washington Association for Community Health](/org/washington_association_for_community_health/)
-* Rob  Geddes - Albertsons Companies, Inc.
+* Rob Geddes - Albertsons Companies, Inc.
 * Rachel Wittenauer
 * Jim Freeburg - Patient Coalition of Washington
-* Erin  Callahan - Diabetes Patient Advocacy Coalition
+* Erin Callahan - Diabetes Patient Advocacy Coalition
 
 #### 21 👎 - Con
 Testifying:

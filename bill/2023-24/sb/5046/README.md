@@ -12,7 +12,7 @@
 #### 74 👍 - Pro
 Testifying:
 * Jeremiah Bourgeois - Freedom Project WA
-* Jeffrey  Ellis - Redemption Project of WA
+* Jeffrey Ellis - Redemption Project of WA
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Vidal Vincent
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)

@@ -14,7 +14,7 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Bryan Kirschner
-* Josie  Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Sol Villarreal - Washington Realtors
 

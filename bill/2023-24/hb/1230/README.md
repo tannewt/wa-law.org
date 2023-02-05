@@ -12,8 +12,8 @@
 Testifying:
 * Dr. Gwen Loosmore - Washington State PTA
 * Brad Finegood - Public Health – Seattle & King County
-* Gee  Kelly - Students Demand Action
-* Jennifer  Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Gee Kelly - Students Demand Action
+* Jennifer Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
 * Petra Hoy - Moms Demand Action
 
 #### 257 👎 - Con
@@ -23,6 +23,6 @@ Testifying:
 #### 11 ❓ - Other
 Testifying:
 * Cory Malon - WA Civil Rights Organization
-* Alex  Brown
+* Alex Brown
 * Ronald Smith
 * Sandra Munden

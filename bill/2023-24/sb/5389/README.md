@@ -21,7 +21,7 @@ Testifying:
 #### 936 👎 - Con
 Testifying:
 * Constance Smith
-* Courtney  Francis MD - Wa. Academy of Eye Physicians and Surgeons
+* Courtney Francis MD - Wa. Academy of Eye Physicians and Surgeons
 * 💵Lisa Thatcher - Wa. Academy of Eye Physicians and Surgeons
 * Stephanie Cramer MD - Wa. Academy of Eye Physicians and Surgeons
 * Aaron Weingeist MD - Wa. Academy of Eye Physicians and Surgeons

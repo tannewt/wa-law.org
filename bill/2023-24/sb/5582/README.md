@@ -13,7 +13,7 @@ Testifying:
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Dane Austreng - SEIU Healthcare 1199NW
 * Anna Nikolaeva Olson - State Board for Community and Technical Colleges
-* Marriya  Wright - South Puget Sound Community College
+* Marriya Wright - South Puget Sound Community College
 * 💵Ashlen Strong - Washington State Hospital Association
 * 💵Katharine Weiss - Washington State Nurses Association
 * Dustin Lambro - UFCW 3000

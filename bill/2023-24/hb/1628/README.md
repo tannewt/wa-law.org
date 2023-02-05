@@ -20,23 +20,23 @@ Testifying:
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 * Council Member, John Hines - [City of Tacoma](/org/city_of_tacoma/)
-* Patience  Malaba - HDC
+* Patience Malaba - HDC
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Nicholas Carr - Association of Washington Housing Authorities/Tacoma Housing Authority
-* Cathy  Murahashi - Community Homes
+* Cathy Murahashi - Community Homes
 * Ginger Kwan - Open Doors for Multicultural Families
-* Marc  Cote - Parkview Services
-* Scott  Livengood - Alpha Supported Living Services
-* Stacy  Dym - The Arc of Washington State
+* Marc Cote - Parkview Services
+* Scott Livengood - Alpha Supported Living Services
+* 💵Stacy Dym - The Arc of Washington State
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
 
 #### 309 👎 - Con
 Testifying:
 * 💵Greg Hanon - NAIOP
 * Travis Hale
-* Tim Eyman  - Permanent Offense
+* Tim Eyman - Permanent Offense
 * Laurie A Layne
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Marty Goodman

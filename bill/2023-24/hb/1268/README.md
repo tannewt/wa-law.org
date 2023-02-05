@@ -15,13 +15,13 @@ Testifying:
 * David Trieweiler - WACDL/WDA
 * Jamarsae Brown
 * Maria Davissi
-* Timothy  Clayton 
+* Timothy Clayton
 * Silas Davis
 * Rita Ferguson
 * Sanders Davis
 * Silas Davis 111
 * Sharita Brown
-* Kimberly  Capers
+* Kimberly Capers
 * lisa rowden clayton
 * Kenneisha Brown
 

@@ -27,7 +27,7 @@ Testifying:
 * Brian Lagerberg - Director of Public Transportation, WA State Department of Transportation
 * Josh Friedmann - NAIOP
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Deputy  Mayor, Kristina  Walker - [City of Tacoma](/org/city_of_tacoma/)
+* Deputy  Mayor, Kristina Walker - [City of Tacoma](/org/city_of_tacoma/)
 * Wes Stewart - Sierra Club Washington
 
 #### 4 👎 - Con

@@ -14,9 +14,9 @@ Testifying:
 * Diane Butorac - WA Department of Ecology
 * Jasmine Vasavada - WA Department of Commerce
 * 💵Donny Donovan - IAM 751
-* Clifford  Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
-* Scott  Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵Emily Wittman - Aerospace Futures Alliance
 * 💵Tom Wolf - bp America
 * Ryan Calkins - Port of Seattle Commissioner
@@ -35,7 +35,7 @@ Testifying:
 #### 9 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Adam Maxwell - [Audubon Washington](/org/audubon_washington/)
 * 💵Nicolas Garcia - WPUDA
 * 💵Jennifer Ziegler - National Construction Alliance

@@ -10,7 +10,7 @@
 ### Fri 01/27 08:00 AM - Environment, Energy & Technology (ENET): SB 5391 Embodied carbon reductions
 #### 61 👍 - Pro
 Testifying:
-* Matthew  Hinck - CalPortland Company
+* Matthew Hinck - CalPortland Company
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Alex Ianchenko - AIA Washington Council
 * Rachael Jamison - [American Wood Council](/org/american_wood_council/)

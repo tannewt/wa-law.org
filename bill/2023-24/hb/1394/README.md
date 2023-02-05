@@ -17,10 +17,10 @@ Testifying:
 * Timothy Kahn - Kahn and Hansen & Associates
 * Dr. Michael Caldwell
 * Sarah Rafton
-* Karen  Pillar - TeamChild
-* Katherine  Hurley - King County Department of Public Defense
-* Sonja  Hardenbrook - Hardenbrook Law
-* Timothy  Kahn - Kahn and Hansen & Associates
+* 💵Karen Pillar - TeamChild
+* Katherine Hurley - King County Department of Public Defense
+* Sonja Hardenbrook - Hardenbrook Law
+* Timothy Kahn - Kahn and Hansen & Associates
 * Randy Hall
 * Shannon Perez-Darby
 
@@ -32,5 +32,5 @@ Testifying:
 Testifying:
 * 💵Russell Brown - WA Assoc of Prosecuting Attorneys
 * Shawn Sant - Franklin Co Prosecutor/WA Assoc of Pros Atty
-* Brad  Meryhew - Sex Offender Policy Board
+* Brad Meryhew - Sex Offender Policy Board
 * Whitney Hunt - Sex Offender Policy Board

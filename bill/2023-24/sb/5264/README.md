@@ -11,7 +11,7 @@
 #### 20 👍 - Pro
 Testifying:
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
-* Dr. Erica  Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
+* Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 * 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Rick Chisa - Public School Employees of Washington (PSE)

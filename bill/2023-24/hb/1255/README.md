@@ -15,7 +15,7 @@ Testifying:
 * Jean Sullivan
 * Alicia Payne - Nursing Care Quality Assurance Commission
 * Dawn Morrell - Nursing Care Quality Assurance Commission
-* Grant  Hulteen - Nursing Care Quality Assurance Commission
+* Grant Hulteen - Nursing Care Quality Assurance Commission
 
 #### 0 👎 - Con
 

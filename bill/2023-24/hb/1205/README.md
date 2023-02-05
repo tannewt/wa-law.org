@@ -13,7 +13,7 @@
 Testifying:
 * 💵Timothy Grisham - Washington Association of County Officals
 * Lisa Henderson - Washington Association of County Clerks
-* Rowland Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
 
 #### 1 👎 - Con
 Testifying:

@@ -17,7 +17,7 @@ Testifying:
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Martina Morris - Next Steps Washington
-* James  Schrimpsher - Washington State Fraternal Order of Police
+* James Schrimpsher - Washington State Fraternal Order of Police
 
 #### 4 👎 - Con
 Testifying:
@@ -28,4 +28,4 @@ Testifying:
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Eric Pratt - I, America
-* Derek  Sanders - Thurston County Sheriff's Office
+* Derek Sanders - Thurston County Sheriff's Office

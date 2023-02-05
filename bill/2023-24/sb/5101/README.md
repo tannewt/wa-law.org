@@ -15,12 +15,12 @@ Testifying:
 * Melody Simle
 * Sarah Leon
 * MD, MaryAnn Curl - Department of Corrections
-* Mary  McQueen
+* Mary McQueen
 * Waldo Waldron-Ramsey
 * Meagan Kineman
 * Anthony Powers
-* Rachael  Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
-* Jennifer  Smith - Seattle Clemency Project
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Jennifer Smith - Seattle Clemency Project
 
 #### 2 👎 - Con
 Testifying:

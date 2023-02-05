@@ -14,20 +14,20 @@ Testifying:
 * Andrea Hikoe
 * Jamie Lee
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
-* Brittany  Horrocks
+* Brittany Horrocks
 * Callagee O'Brien - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * 💵Alexis Oliver
-* Katherine  Tarlock
-* Amanda  Ary
+* Katherine Tarlock
+* Amanda Ary
 * Chalia Stallings-Ala'ilima - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * Katie Garcia
 * Kristen Valore - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * Sara Cassidey - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
-* Dr. Lori  Marshall
-* Dr. Tyler  Ketterl
+* Dr. Lori Marshall
+* Dr. Tyler Ketterl
 * Rose Ibarra
-* Betsy  Campbell - RESOLVE National Infertility Association
-* Heather  Villanueva
+* Betsy Campbell - RESOLVE National Infertility Association
+* 💵Heather Villanueva
 * Kaycee Oatman
 
 #### 40 👎 - Con

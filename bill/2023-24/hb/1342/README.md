@@ -24,4 +24,4 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Bill Frare - Washington State Department of Enterprise Services
-* Hanna  Waterstrat - Department of Commerce
+* Hanna Waterstrat - Department of Commerce

@@ -17,24 +17,24 @@ Testifying:
 * Robert Embrey
 * Hector Martinez
 * Denis Tracy - Whitman County Prosecuting Attorney
-* María  Martinez
+* María Martinez
 * Sid Thiagarajan
 * Gary Jenkins - Pullman Police Chief (Ret.)
-* Diego  Martinez 
-* Diego Moroni  Martinez Rivera 
+* Diego Martinez
+* Diego Moroni Martinez Rivera
 * Yesica Velez
 * BEATRIZ EUGENIA RUIZ CASTILLO
 * Beatriz Eugenia Ruiz Castillo
-* Jorge Eduardo  González Ruiz 
+* Jorge Eduardo González Ruiz
 * ENRIQUE MARTINEZ
 * Enrique Martinez
-* José Roberto Patlán Islas 
+* José Roberto Patlán Islas
 * ENRIQUE MARTINEZ
 * christy bear
 * Jim Piazza
 * Anusha Silla
 * Ivan Olin
-* Gerardo Adrián  Martínez Loza 
+* Gerardo Adrián Martínez Loza
 
 #### 4 👎 - Con
 Testifying:

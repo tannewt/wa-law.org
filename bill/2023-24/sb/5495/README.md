@@ -11,7 +11,7 @@
 #### 20 👍 - Pro
 Testifying:
 * Steven Drew - WA Association of Assessors
-* Senator  Frame - SDC
+* Senator Frame - SDC
 
 #### 0 👎 - Con
 

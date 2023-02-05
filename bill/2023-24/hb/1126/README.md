@@ -15,7 +15,7 @@ Testifying:
 * Ashley Little - Coalition Against Graham and Eatonville-Roy Airport
 * Ursula Euler
 * Brian Jarrell
-* Jake  Pool - Coalition Against Graham and Eatonville-Roy Airports
+* Jake Pool - Coalition Against Graham and Eatonville-Roy Airports
 * Jennifer Roy
 * Cindy Schexnider
 

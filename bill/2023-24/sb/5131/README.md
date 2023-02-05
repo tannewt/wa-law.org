@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 7 👍 - Pro
 Testifying:
-* Loren  Taylor 
+* Loren Taylor
 
 #### 0 👎 - Con
 

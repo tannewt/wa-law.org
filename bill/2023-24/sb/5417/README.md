@@ -11,8 +11,8 @@
 #### 38 👍 - Pro
 Testifying:
 * Elizabeth Duran
-* Rachel  Ybarra
-* Kian  Alden - Teamsters
+* Rachel Ybarra
+* Kian Alden - Teamsters
 * Friday Sodorff
 * Kiah Penfield
 * April Sims - Washington State Labor Council, AFL-CIO

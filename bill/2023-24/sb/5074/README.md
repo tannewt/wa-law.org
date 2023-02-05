@@ -12,7 +12,7 @@
 Testifying:
 * 💵Ian Goodhew - UW Medicine
 * Dr. Blair Irwin - MultiCare
-* MD, MS, Marianne  Dubard-Gault - [Fred Hutchinson Cancer Center](/org/fred_hutchinson_cancer_center/)
+* MD, MS, Marianne Dubard-Gault - [Fred Hutchinson Cancer Center](/org/fred_hutchinson_cancer_center/)
 * Katie Kolan - [Washington State Medical Oncology Society](/org/washington_state_medical_oncology_society/)
 * Matt Helder - ACS CAN
 * Robin Sparks

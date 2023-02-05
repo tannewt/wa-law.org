@@ -14,7 +14,7 @@ Testifying:
 * Debra Livingston - ReEmployAbility Inc
 * Kerri Butler - Work Bridge Group
 * 💵Sheri Call - Washington Trucking Associations
-* Jan Himebaugh  - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Emily Lovell - Washington State Dental Association
 
 #### 11 👎 - Con

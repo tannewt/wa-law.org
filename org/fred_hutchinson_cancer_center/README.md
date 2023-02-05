@@ -9,6 +9,6 @@
 ## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
 
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍2  
-* 👍 MD, MS, Marianne  Dubard-Gault
+* 👍 MD, MS, Marianne Dubard-Gault
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 

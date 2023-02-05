@@ -13,7 +13,7 @@ Testifying:
 * Katie Biron - Amara
 * Leroy Pascubillo - Amara
 * Amy Jacobsen
-* Celina  Rivera - Amara
+* Celina Rivera - Amara
 
 #### 0 👎 - Con
 

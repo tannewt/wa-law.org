@@ -52,7 +52,7 @@ Testifying:
 * Ronald Lorimer
 * Ronald Lorimer
 * Michael Timmons - Puget Sound Socialist Rifle Association
-* Juan  Rodriguez 
+* Juan Rodriguez
 * Aaron Lee
 * Ian VanDooren - Puget Sound Socialist Rifle Association
 * Michael Zeller
@@ -63,7 +63,7 @@ Testifying:
 * Chris Giles - 14015 ne 40th st.
 * Judy Laughner
 * Micah Zeitz-Chua
-* Ernest  Feenandez
+* Ernest Feenandez
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Jane Milhans
 * 💵Troy Nichols - National Shooting Sports Foundation
@@ -71,7 +71,7 @@ Testifying:
 * Dan Mitchell - WA Civil Rights Association
 * Janie Vigil - Aero Precision
 * Robin Ball - Sharpshooting Indoor Range
-* Vincent  Navarre
+* Vincent Navarre
 * Craig Dwyer
 * Adrian Olivares
 * Adrian Olivares
@@ -80,7 +80,7 @@ Testifying:
 * Orion Webster
 * James Laster - Individual
 * Laurie Layne
-* Travis  Miller
+* Travis Miller
 * Fred Baerbalck
 * Luis Berbesi
 * William Thomas

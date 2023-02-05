@@ -7,7 +7,7 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 
-* 👎 Samantha  Louderback
+* 👎💵 Samantha Louderback
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
@@ -23,7 +23,7 @@
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍2  
-* 👍 Samantha  Louderback
+* 👍💵 Samantha Louderback
 * 👍💵 Samantha Louderback
 
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  

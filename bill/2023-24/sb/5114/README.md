@@ -11,12 +11,12 @@
 ### Tue 01/17 10:30 AM - Human Services (HS): SB 5114 Sex trafficking
 #### 133 👍 - Pro
 Testifying:
-*  Kyra Abrahamson - Washington Trafficking Prevention
-* Mar  Brettmann - Businesses Ending Slavery and Trafficking
+* Kyra Abrahamson - Washington Trafficking Prevention
+* Mar Brettmann - Businesses Ending Slavery and Trafficking
 * Marissa Perez - Yarrow Project
-* Mary Williams  - Real Escape from the Sex Trade
+* Mary Williams - Real Escape from the Sex Trade
 * Rebekah Fonden - Organization for Prostitution Survivors
-* Robin  Miller
+* Robin Miller
 * Sam Cho - Port of Seattle, Commission President
 
 #### 0 👎 - Con

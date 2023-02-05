@@ -18,7 +18,7 @@ Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Andrea Hu
 * 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
-* Jill Bujnevicie 
+* Jill Bujnevicie
 * Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 0 👎 - Con

@@ -12,11 +12,11 @@
 Testifying:
 * 💵Trent House - Washington State Dental Association
 * Debra Livingston - Reemployability
-* Kerri  Butler - Work Bridge Group
+* Kerri Butler - Work Bridge Group
 * 💵Rose Gundersen - WA Retail Association
 * 💵Trent House - Washington State Dental Association
 * Bob Battles - Association of Washington Business (AWB)
-* Sheri  Call - Washington Trucking Associations
+* 💵Sheri Call - Washington Trucking Associations
 * Tom Kwieciak - Building Industry Association of WA
 
 #### 9 👎 - Con
@@ -31,7 +31,7 @@ Testifying:
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5368 Stay-at-work program
 #### 9 👍 - Pro
 Testifying:
-* Sheri  Call - Washington Trucking Associations
+* 💵Sheri Call - Washington Trucking Associations
 * Debra Livingston - Reemployability
 * Kerri Butler - Work Bridge Group
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

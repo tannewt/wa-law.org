@@ -12,30 +12,30 @@
 Testifying:
 * Devin Glaser - Tenant Law Center
 * Elizabeth Rogers
-* Stacey  Valenzuela 
+* Stacey Valenzuela
 * Kimberly Ellefson
 * 💵Jake Garcia - Northwest Harvest
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
-* Clifford  Cawthon - Habitat for Humanity Seattle- King & Kittias
-* Pamela  Clark Fisher 
+* 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
+* Pamela Clark Fisher
 * Terri Anderson - Tenants Union of Washington State
 * kraig peck - Small landlord to testify PRO
 * Sharon Pevey - AMHO
 * kay wenker
-* Cynthia  Colgrove 
+* Cynthia Colgrove
 * Amber Abrahamson - Tenants Union of Washington State
 * Kehaulani Walker
-* Saree  Adams
-* Shannon  Corrick
+* Saree Adams
+* Shannon Corrick
 * Robert De Gregorio - WPSR
 * Emily Noel
 * 💵Kraig Peck
 * Sol Villareal
 * Julie Crites
 * Pedro Alfaro
-* Robert De Gregorio  - WA Physicians for Social Responsibility
-* Cathy  Niva
-* Di  Gabriel
+* Robert De Gregorio - WA Physicians for Social Responsibility
+* Cathy Niva
+* Di Gabriel
 * Patricia Divine Wilder
 * Patricia Walker
 * Caroline Hardy
@@ -46,16 +46,16 @@ Testifying:
 * Joseph Smith
 * Robyn Golden
 * Ren Behl-Johnson
-* Patricia  Wilder
+* Patricia Wilder
 * Keisha Clemons
 * 💵Paula Sardinas - FMSGS / WBBA
 * 💵Paula Sardinas - FMSGS / WBBA
 
 #### 1373 👎 - Con
 Testifying:
-* Patricia  Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * 💵Chester Baldwin - Rental Housing Coalition
-* carl  haglund - Columbia Modern Living
+* carl haglund - Columbia Modern Living
 * Linda Powell
 * GORDON HAGGERTY
 * Fei Priddy
@@ -72,10 +72,10 @@ Testifying:
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Gerald B Morris
 * David Nagel
-* Nelya  Calev
+* Nelya Calev
 * Paula Clancey
 * JACOB BOND - GSC Investments
-* Jennifer  Lekisch
+* Jennifer Lekisch
 * Sarah Hughes
 * Mackinley Robinson
 * Sherri Tibbles
@@ -83,7 +83,7 @@ Testifying:
 * Mary Hull-Drury - Washington Realtors
 * JIM HENDERSON - [National Association of Residential Property Managers](/org/national_association_of_residential_property_managers/)
 * Nora Schultz
-* Arielle  Dorman 
+* Arielle Dorman
 * mary smith
 * Judy Bardin
 * Peggy Hoffman
@@ -93,17 +93,17 @@ Testifying:
 * Sandra Eisert
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * Deborah Crawley
-* Lawrence  Crites - Private housing provider
+* Lawrence Crites - Private housing provider
 * Christina Nelson - Townsend Bay Property Management
 * JENNIFER WU - JAY CURVE ENTERPRISES LLC
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Valerie Robinson
-* Taylor  Higgins 
-* Jennifer  Lekisch 
-* Jennifer  Lekisch 
+* Taylor Higgins
+* Jennifer Lekisch
+* Jennifer Lekisch
 * Patrick Bevis
-* Maria  Magouirk 
-* Maria  Magouirk 
+* Maria Magouirk
+* Maria Magouirk
 * Scott Price
 * David Sigmon
 * Rebecca Faust
@@ -123,5 +123,5 @@ Testifying:
 
 #### 13 ❓ - Other
 Testifying:
-* Holly  Bradley
+* Holly Bradley
 * Morgan Shook

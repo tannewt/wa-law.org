@@ -14,7 +14,7 @@ Testifying:
 * Alexandra Ivanova - Lake Washington High School
 * Ana Ferreira - Lake Washington High School
 * Benjamine Howard - Lake Washington High School
-* Catherine  Im - Lake Washington High School
+* Catherine Im - Lake Washington High School
 * Gabrielle Heuer - Lake Washington High School
 * Mahee Nemani - Lake Washington High School
 * Pari Harkishnani - Lake Washington High School

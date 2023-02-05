@@ -23,7 +23,7 @@ Sign up to testify:
 ### Wed 01/25 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1288 Dept. of veterans affairs
 #### 2 👍 - Pro
 Testifying:
-* Heidi  Audette - WA State Department of Veterans Affairs
+* Heidi Audette - WA State Department of Veterans Affairs
 
 #### 0 👎 - Con
 

@@ -30,7 +30,7 @@ Testifying:
 * Andrea Scott-Murray
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Paula  Painter - [City of Kent](/org/city_of_kent/)
+* Paula Painter - [City of Kent](/org/city_of_kent/)
 * Austin Scharff - Washington State Dept. of Commerce
 * 💵Steve Taylor - Cowlitz Public Utility District No. 1
 * 💵Christine Brewer - The Avista Corporation
@@ -63,7 +63,7 @@ Testifying:
 * 💵Bill Clarke - WA PUD Association
 * 💵Christine Brewer - The Avista Corporation
 * 💵Jay Balasbas - PacifiCorp
-* Matt  Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
 * 💵Isaac Kastama - Benton PUD, Franklin PUD
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)

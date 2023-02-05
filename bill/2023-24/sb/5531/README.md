@@ -10,10 +10,10 @@
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5531 Milk product haulers
 #### 52 👍 - Pro
 Testifying:
-* Case  VanderMeulen - [Darigold](/org/darigold/)
+* Case VanderMeulen - [Darigold](/org/darigold/)
 * Kristi Kangas - [Darigold](/org/darigold/)
 * Russ Brandt - [Darigold](/org/darigold/)
-* Sheri  Call - Washington Trucking Associations
+* 💵Sheri Call - Washington Trucking Associations
 * Ben Buchholz - NW Ag Cooperative Council and Darigold
 
 #### 1 👎 - Con

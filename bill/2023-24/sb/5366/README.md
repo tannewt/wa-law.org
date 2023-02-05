@@ -10,7 +10,7 @@
 ### Tue 01/31 01:30 PM - Environment, Energy & Technology (ENET): SB 5366 Utility shutoffs/heat
 #### 326 👍 - Pro
 Testifying:
-* Logan  Bahr - Tacoma Power
+* 💵Logan Bahr - Tacoma Power
 * Mendy Droke - Seattle City Light
 * Jim Dennison - [Sierra Club](/org/sierra_club/)
 * Lisa Gafken - Attorney General's Office
@@ -34,11 +34,11 @@ Testifying:
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
 * 💵Isaac Kastama - Benton PUD & Franklin PUD
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Paula  Painter - [City of Kent](/org/city_of_kent/)
+* Paula Painter - [City of Kent](/org/city_of_kent/)
 * Austin Scharff - Washington State Dept. of Commerce
 * Joseph Carroll - Wolff, Hislop and Crockett
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Jake Murray
 * BILL CLARKE - WA PUD Association
-* Charlie  Brown - NW Natural
+* Charlie Brown - NW Natural
 * 💵Steve Taylor - Cowlitz Public Utility District No. 1

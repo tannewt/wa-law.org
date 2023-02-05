@@ -11,7 +11,7 @@
 ### Tue 01/24 01:30 PM - Consumer Protection & Business (CPB): HB 1284 Real estate agency
 #### 8 👍 - Pro
 Testifying:
-* Annie  Fitzsimmons - Legal Counsel - WA Realtors
+* Annie Fitzsimmons - Legal Counsel - WA Realtors
 * 💵Bill Clarke - WA REALTORS
 * Shelly Schmitz - Keller Williams Real Estate; WA Real Estate Commissioner
 * Justin Haag - NW Multiple Listing Service

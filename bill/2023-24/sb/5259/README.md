@@ -24,6 +24,6 @@ Testifying:
 #### 8 ❓ - Other
 Testifying:
 * 💵Bruce Beckett - Wa. Retail Association
-* Larry  Shannon - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 * 💵Brandon Houskeeper - [Northwest Grocery Association](/org/northwest_grocery_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)

@@ -20,7 +20,7 @@ Testifying:
 * Carrie Nyssen - American Lung Association
 * Brittany Grant - Tobacco Free Kids
 * Dr. Phillip Gardiner - African American Tobacco Control Leadership Council
-* Tuyet-Nhi  Vo - Asian Pacific Islander Coalition Advocating Together for Health
+* Tuyet-Nhi Vo - Asian Pacific Islander Coalition Advocating Together for Health
 * Ben Yisrael - Healthy King County Coalition
 
 #### 2 👎 - Con

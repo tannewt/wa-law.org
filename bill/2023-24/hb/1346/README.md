@@ -12,12 +12,12 @@
 #### 25 👍 - Pro
 Testifying:
 * Tammie Perreault - Department of Defense
-* Natalie Wimberley  - Peninsula School District
-* Brendan  Macini - Peninsula School District
+* Natalie Wimberley - Peninsula School District
+* Brendan Macini - Peninsula School District
 * Krestin Bahr - Peninsula School District
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Kirsten Rue - North Thurston Public Schools
-* Amy Jo  Rotante - Military Family Member
+* Amy Jo Rotante - Military Family Member
 * Tammie Perreault - Department of Defense
 
 #### 0 👎 - Con

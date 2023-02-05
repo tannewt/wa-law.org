@@ -26,7 +26,7 @@ Testifying:
 Testifying:
 * Charlie Brown - Consumer Technology Association
 * Dustin Brighton - Repair Done Right
-* Melissa  Gombosky - Cellular Telecommunications Industry Association
+* 💵Melissa Gombosky - Cellular Telecommunications Industry Association
 * 💵Nora Burnes - TechNet
 
 #### 1 ❓ - Other

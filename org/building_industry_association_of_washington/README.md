@@ -8,7 +8,7 @@
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales  👎1 
 
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
-* 👍 Brent  Ludeman
+* 👍💵 Brent Ludeman
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use  👎1 
 * 👎 Biil Stauffacher
@@ -110,7 +110,7 @@
 * 👍💵 Josie Cummings
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍2  
-* 👍 Josie  Cummings
+* 👍💵 Josie Cummings
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
 

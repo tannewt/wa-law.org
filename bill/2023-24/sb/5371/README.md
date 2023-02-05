@@ -27,7 +27,7 @@ Testifying:
 * Cindy Hansen - Orca Network
 * Monika Wieland Shields - Orca Behavior Institute
 * Susan Andersson - Salish Sea Ecosystem Advocates
-* Whitney  Neugebauer - Whale Scout
+* Whitney Neugebauer - Whale Scout
 * Katrina Watkins
 * Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
 * 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)

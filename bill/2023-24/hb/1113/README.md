@@ -16,6 +16,6 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Kristin  Murphy - Office of Superintendent of Public Instruction (OSPI)
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
 
 #### 0 ❓ - Other

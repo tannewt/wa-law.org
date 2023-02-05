@@ -11,7 +11,7 @@
 #### 2 👍 - Pro
 Testifying:
 * Jeff Gadman - WA State Association of County Treasurers
-* Brian  Sullivan - 3000 Rockafeller Ave
+* Brian Sullivan - 3000 Rockafeller Ave
 
 #### 0 👎 - Con
 

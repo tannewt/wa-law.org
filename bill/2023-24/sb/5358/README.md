@@ -14,7 +14,7 @@ Testifying:
 * Anthony Varela - Veterans Legislative Coalition
 * Erin Cooper
 * James Cook - American Legion
-* Joshua  Wheeldon
+* Joshua Wheeldon
 
 #### 0 👎 - Con
 

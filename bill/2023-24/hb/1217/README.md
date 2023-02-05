@@ -10,7 +10,7 @@
 ### Fri 01/27 10:30 AM - Labor & Workplace Standards (LAWS): HB 1217 Wage complaints
 #### 21 👍 - Pro
 Testifying:
-* David Fernandez Antelo 
+* David Fernandez Antelo
 * Elizabeth Ford
 * James Stafford
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)

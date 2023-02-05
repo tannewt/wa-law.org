@@ -11,7 +11,7 @@
 #### 178 👍 - Pro
 Testifying:
 * Bob Wise - President, Recreational Boating Assoc. of Washington
-* Hilary  Franz - Washington Department of Natural Resources
+* Hilary Franz - Washington Department of Natural Resources
 * Alex Smith - Washington Department of Natural Resources
 * Nancy Henderson - Town of Steilacoom
 * G. Chad Bowechop - Makah Tribal Council

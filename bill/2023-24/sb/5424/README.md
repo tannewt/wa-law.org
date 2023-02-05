@@ -12,7 +12,7 @@
 #### 5 👍 - Pro
 Testifying:
 * Sue Rahr
-* James  Schrimpsher - Washington State Fraternal Order of Police
+* James Schrimpsher - Washington State Fraternal Order of Police
 * Michelle Bennett - Edmond Police Department
 * Monica Alexander - CJTC
 

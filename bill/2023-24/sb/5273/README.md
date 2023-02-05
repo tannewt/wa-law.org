@@ -10,7 +10,7 @@
 ### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5273 Employee information/unions
 #### 32 👍 - Pro
 Testifying:
-* Jenn  Hansen
+* Jenn Hansen
 * 💵Michael White - [King County](/org/king_county/)
 
 #### 4 👎 - Con

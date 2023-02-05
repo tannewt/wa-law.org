@@ -10,7 +10,7 @@
 ### Thu 01/19 08:00 AM - Labor & Commerce (LC): SB 5331 Job search requirements/UI
 #### 9 👍 - Pro
 Testifying:
-* Caitlyn  Jekel - Employment Security Department
+* Caitlyn Jekel - Employment Security Department
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * William Westmoreland - Pacific Mountain Workforce Development Council
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO

@@ -33,32 +33,32 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Chris Averyt - [City of Spokane](/org/city_of_spokane/)
 * john Worthington
-* Derek  Ruckman - WasteXperts
+* Derek Ruckman - WasteXperts
 
 #### 56 👎 - Con
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management
-* Samantha  Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Sam Schlaich - Flexible Packaging Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Candace Joy - WA State Veterinary Medical Association
-* Rebecca  Francik - Basin Disposal
+* Rebecca Francik - Basin Disposal
 * Rodd Pemble - Sanitary Service Company
-* Steve  Wulf - Sunshine Disposal
+* Steve Wulf - Sunshine Disposal
 * Ron Phillips - Animal Health Institute
 * Carol Patterson - Foodservice Packaging Institute
 * Jay O'Neal - [Republic Services](/org/republic_services/)
 * 💵Darbi Gottlieb - AdvaMed
-* Peter  Godlewski  - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Erin Hall - American Forest and Paper Association
 * 💵Brandon Houskeeper - [Northwest Grocery Association](/org/northwest_grocery_association/)
 * Mark Gingrich - Waste Connections
 * Craig Smith - [Food Northwest](/org/food_northwest/)
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
-* Rowland  Thompson  - The Wine Institute
+* 💵Rowland Thompson - The Wine Institute
 * Tim Shestek - [American Chemistry Council](/org/american_chemistry_council/)
 * Logan Harvey
 
@@ -77,8 +77,8 @@ Testifying:
 * Mike Smaha - Can Manufacturers Institute
 * Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
-* Charles  Feick - NGO PIECE and NGO PEACE
+* Charles Feick - NGO PIECE and NGO PEACE
 * James Toner - IBWA
-* Rowland  Thompson  - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)

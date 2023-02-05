@@ -10,7 +10,7 @@
 ### Mon 01/23 01:30 PM - Regulated Substances & Gaming (RSG): HB 1341 Cannabis license ownership
 #### 14 👍 - Pro
 Testifying:
-* Ezra  Eickmeyer  - Producers NW
+* 💵Ezra Eickmeyer - Producers NW
 * Lukas Hunter - Harmony Farms
 * Douglas Henderson - Painted Rooster Cannabis Co.
 * Eric Gaston - Evergreen Market
@@ -31,4 +31,4 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Bethany Rondeaux
-* Burl  Bryson - The Cannabis Alliance
+* Burl Bryson - The Cannabis Alliance

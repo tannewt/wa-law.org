@@ -10,14 +10,14 @@
 ### Mon 01/23 04:00 PM - Ways & Means (WM): SB 5328 Pub safety telecommunicators
 #### 185 👍 - Pro
 Testifying:
-* Erica  Brown - Teamsters
+* Erica Brown - Teamsters
 * Katy Myers - WA APCO-NENA
 * Jason Fritz - Skamania County Sheriff
-* James  Schrimpsher  - Washington State Fraternal Order of Police
+* James Schrimpsher - Washington State Fraternal Order of Police
 * Wendy Hill - Thurston 911 Communications
 * Karl Hatton - Pencom 9-1-1 and WA APCO-NENA
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
-* Jason  Fritz - Skamania County Sheriff
+* Jason Fritz - Skamania County Sheriff
 
 #### 0 👎 - Con
 

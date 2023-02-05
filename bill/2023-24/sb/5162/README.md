@@ -30,7 +30,7 @@ Testifying:
 * 💵Debora Munguia - Mason County
 * David Garlington - [City of Sequim](/org/city_of_sequim/)
 * Marc Ozias - Clallam County Commissioner
-* Ron  Allen - Chairman Jamestown S'Klallam Tribe
+* Ron Allen - Chairman Jamestown S'Klallam Tribe
 * Josh Diekmann - [City of Tacoma](/org/city_of_tacoma/)
 * Greg Johnson - Wright Runstad & Co
 * Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
@@ -47,12 +47,12 @@ Testifying:
 * David Garlington - [City of Sequim](/org/city_of_sequim/)
 * 💵Jerry Vanderwood
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
-* Sheri  Call - Washington Trucking Associations
-* Bill  Adamson - South Sound Military & Communities Partnership
+* 💵Sheri Call - Washington Trucking Associations
+* Bill Adamson - South Sound Military & Communities Partnership
 * David Troutt - Nisqually Indian Tribe, Natural Resources Director
 * Marc Daily - Thurston Regional Planning Council, Executive Director
 * Dana Schutter - Deputy Chief, Eastside Fire & Rescue
-* Mayor Geoffrey Thomas  - [City of Monroe](/org/city_of_monroe/)
+* Mayor Geoffrey Thomas - [City of Monroe](/org/city_of_monroe/)
 * 💵Cheryl Stewart - Northwest Associated General Contractors
 * 💵Jake Mayson - Greater Spokane Incorporated
 * Nadine Woodward - Office of the Mayor of Spokane

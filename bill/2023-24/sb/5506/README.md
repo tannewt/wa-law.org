@@ -13,7 +13,7 @@ Testifying:
 * ARZU FOROUGH - Washington Autism Alliance and parent of adult with IDD
 * Deborah Gill
 * Alan Gill
-* Katrina  Davis
+* Katrina Davis
 * Beth Florea
 * Josephina García
 
@@ -21,7 +21,7 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
-* Anita  Hawks 
+* Anita Hawks
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Stacy Dym - The Arc of Washington Sate

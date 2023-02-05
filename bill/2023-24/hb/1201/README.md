@@ -11,7 +11,7 @@
 #### 5 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* K.D.  Chapman-See - Office of Financial Management
+* K.D. Chapman-See - Office of Financial Management
 * Marcus Ehrlander - Office of Financial Management
 
 #### 3 👎 - Con

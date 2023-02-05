@@ -14,7 +14,7 @@ Testifying:
 * Nick Jeffreys - Urban League of Metropolitan Seattle
 * Elizabeth Mustin - Washington State Office of Public Defense
 * Arthur Longworth - Treehouse.org
-* Kia Franklin  - Stand for Children
+* 💵Kia Franklin - Stand for Children
 * Kelly Olson - Civil Survival
 * Meghan Grace
 * Agnes Cho - UC Berkeley Law, Policy Advocacy Clinic

@@ -22,8 +22,8 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* Anthony Rafel  - Washington State Chapter of Community Association Institute
-* Anthony Rafel  - Washington State Chapter of Community Association Institute
+* Anthony Rafel - Washington State Chapter of Community Association Institute
+* Anthony Rafel - Washington State Chapter of Community Association Institute
 
 #### 1 ❓ - Other
 Testifying:

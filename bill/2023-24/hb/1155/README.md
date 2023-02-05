@@ -10,8 +10,8 @@
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1155 Consumer health data
 #### 1012 👍 - Pro
 Testifying:
-* Maya  Morales - WA People's Privacy
-* Andrea  Alegrett - WA State Attorney General's Office
+* Maya Morales - WA People's Privacy
+* Andrea Alegrett - WA State Attorney General's Office
 * Joyce Bruce - WA State Attorney General's Office
 * Cher Scarlett
 * Stanley Shikuma - Japanese American Citizens League, Seattle Chapter
@@ -32,7 +32,7 @@ Testifying:
 
 #### 6 👎 - Con
 Testifying:
-* Brad  Payne - Family Policy Institute of Washington
+* 💵Brad Payne - Family Policy Institute of Washington
 
 #### 17 ❓ - Other
 Testifying:

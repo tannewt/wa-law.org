@@ -21,6 +21,6 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Rowland  Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
 #### 0 ❓ - Other

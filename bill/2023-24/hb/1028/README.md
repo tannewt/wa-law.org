@@ -18,7 +18,7 @@ Sign up to testify:
 #### 8 👍 - Pro
 Testifying:
 * 💵Jennifer Wallace - WA State Criminal Justice Training Commission
-* Sarah  Spier 
+* Sarah Spier
 
 #### 0 👎 - Con
 

@@ -37,8 +37,8 @@ Testifying:
 * Ingrid Delzer
 * Emmie Johnson
 * Rachel Morris
-* Deborah  Kruse 
-* Tiffany  Ribera
+* Deborah Kruse
+* Tiffany Ribera
 * Kaley Duong - Washington NAACP Youth Council
 
 #### 2 ❓ - Other

@@ -12,9 +12,9 @@
 Testifying:
 * Kevin Njihia - Nobel caregivers
 * Adrian Ortix
-* Hardeep  S. Rekhi - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Hardeep S. Rekhi - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 * Mathieu Begni
-* Toby  Marshall
+* Toby Marshall
 * Daniel Johnson
 
 #### 201 👎 - Con
@@ -22,7 +22,7 @@ Testifying:
 * Rebekah Near - Orca Information, Inc
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 * Val Mullen
-* Heidi  Johnson-Sandall - Conservative Ladies of WA
+* Heidi Johnson-Sandall - Conservative Ladies of WA
 * Suzanne Rohner
 * Jeannie Magdua - Conservative Ladies of Washington
 

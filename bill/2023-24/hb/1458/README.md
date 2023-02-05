@@ -10,10 +10,10 @@
 ### Wed 02/01 08:00 AM - Labor & Workplace Standards (LAWS): HB 1458 Apprenticeship programs/UI
 #### 60 👍 - Pro
 Testifying:
-* Braeden  Barnes - Ironworkers Apprentice
-* Bryan  Johnson - Ironworkers Local 86
-* Chance  Lemar - Ironworkers Apprenticeship
-* Josh  Swanson - Operating Engineers Local 302
+* Braeden Barnes - Ironworkers Apprentice
+* Bryan Johnson - Ironworkers Local 86
+* Chance Lemar - Ironworkers Apprenticeship
+* Josh Swanson - Operating Engineers Local 302
 
 #### 20 👎 - Con
 Testifying:

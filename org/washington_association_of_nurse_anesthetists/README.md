@@ -9,7 +9,7 @@
 * 👎 Michael Fisher
 * 👎 Ashley Fedan
 * 👎 Jennifer Tanguay
-* 👎 Melissa  Johnson
+* 👎💵 Melissa Johnson
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍1  
 

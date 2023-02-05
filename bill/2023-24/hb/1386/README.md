@@ -11,12 +11,12 @@
 #### 117 👍 - Pro
 Testifying:
 * Jessi Wasson - Inspire Washington
-* Jocelyn  Cain
+* Jocelyn Cain
 * Putter Bert - KidsQuest Children's Museum
 * Nina Martinez - Latino Civic Alliance
 * 💵David Beard - School's Out Washington
 * Emily Sharwark-Todd - Youth with Boys & Girls Clubs of Thurston County
-* Katya  Miltimore - Boys & Girls Clubs of Washington State
+* Katya Miltimore - Boys & Girls Clubs of Washington State
 * Mady Sandoval - Foundation for Youth Resiliency and Engagement (FYRE)
 * Sara Welsh - The Community Boating Center
 

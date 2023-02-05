@@ -13,8 +13,8 @@
 Testifying:
 * LoLinda Turner - [Delta Dental of Washington](/org/delta_dental_of_washington/)
 * Jenny Arnold - Washington State Pharmacy Association
-* Fatima Mirza  - Washington Medical Commission
-* Micah  Matthews  - Washington Medical Commission
+* Fatima Mirza - Washington Medical Commission
+* Micah Matthews - Washington Medical Commission
 * Renee Fullerton - Workforce Board / Health Workforce Council
 
 #### 0 👎 - Con

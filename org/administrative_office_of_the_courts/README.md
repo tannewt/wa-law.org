@@ -8,7 +8,7 @@
 * ❓ Brittany Gregory
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief   ❓1
-* ❓ Sharon  Swanson 
+* ❓💵 Sharon Swanson
 
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 * 👍 Brittany Gregory

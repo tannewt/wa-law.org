@@ -10,7 +10,7 @@
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5489 Health care services/access
 #### 471 👍 - Pro
 Testifying:
-* Lisa  Keating 
+* Lisa Keating
 * Jody Disney - LWVWA
 * Jill Kong
 * Dr. Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
@@ -26,7 +26,7 @@ Testifying:
 
 #### 434 👎 - Con
 Testifying:
-* Diana Amirehteshami  - Conservative Ladies of WA
+* Diana Amirehteshami - Conservative Ladies of WA
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other

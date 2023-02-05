@@ -11,15 +11,15 @@
 #### 105 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
-* Maribel  Vilchez - WEA Member and North Thurston EA Member
-* Kristin Percy Calaff  - OSPI
+* Maribel Vilchez - WEA Member and North Thurston EA Member
+* Kristin Percy Calaff - OSPI
 * Bernard Koontz - Exec Dir, Teaching, Learning, Leadership, Highline Public Schools
-* Angel  Jarquin - Latino Civic Alliance
+* Angel Jarquin - Latino Civic Alliance
 * Sol Salgado - Latino Civic Alliance
 * Elida Alvarez - Kennewick School District
 * Bethany Martinez - Wahluke School District
 * Angelie Duimovic - Director of Multilingual Education, Kent School District
-* Dr. Rob  Darling - Yakima School District 7 - Yakima, WA
+* Dr. Rob Darling - Yakima School District 7 - Yakima, WA
 * Alyssa St. Hilaire - Kennewick School District
 * Hugo Zavala
 * Alfonso Lopez - Wenatchee School District

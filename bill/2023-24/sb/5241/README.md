@@ -11,10 +11,10 @@
 #### 37 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
-* Dr. Kjersten  Gmeiner
+* Dr. Kjersten Gmeiner
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Sami Alloy - Pro-Choice Washington
-* Joelle  Craft - Washington CAN
+* Joelle Craft - Washington CAN
 * Joselito Lopez - Washington CAN
 
 #### 7 👎 - Con
@@ -46,7 +46,7 @@ Testifying:
 * 💵Leah Rutman - ACLU of Washington
 * 💵Michael White - [King County](/org/king_county/)
 * Susan Paine
-* Morgan  Brownlee 
+* Morgan Brownlee
 * Jason Makris
 * 💵Michael White - [King County](/org/king_county/)
 

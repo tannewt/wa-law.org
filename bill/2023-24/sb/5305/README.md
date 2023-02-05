@@ -31,6 +31,6 @@ Testifying:
 Testifying:
 * John Bonner
 * Shereen Henry
-* Dr. Amy  Morrison - President, Lake Wa Institute of Technology
+* Dr. Amy Morrison - President, Lake Wa Institute of Technology
 * Dr. Jean Hernandez - President, South Seattle College
 * Paul Francis - Executive Director, SBCTC

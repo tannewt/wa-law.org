@@ -14,7 +14,7 @@ Testifying:
 * Kristina De Vadder - Seattle Special Education PTSA
 * Richard Pope
 * Katie Pope
-* Director Liza  Rankin  - School Board Director, Seattle Public Schools
+* Director Liza Rankin - School Board Director, Seattle Public Schools
 * 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Karen Pillar - Team Child
 * Mina Barahimi Martin - ACLU of Washington
@@ -41,4 +41,4 @@ Testifying:
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Rick Chisa - Public School Employees of WA/SEIU 1948
-* Dr. John  Parker  - Central Valley School Districts
+* Dr. John Parker - Central Valley School Districts

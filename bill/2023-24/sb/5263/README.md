@@ -20,7 +20,7 @@ Testifying:
 * Logan McLaughlin
 * Nancy Connolly - [University of Washington](/org/university_of_washington/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
-* David  Heldreth 
+* David Heldreth
 * Jeff Hamburg
 * Jonathan Drew
 * Lisa Price

@@ -12,15 +12,15 @@
 Testifying:
 * Aliya Zafer
 * Neriza mercado - WAIMG
-* Nadeem  Mian - Puget Sound Psychiatric Center
+* Nadeem Mian - Puget Sound Psychiatric Center
 * Khalid Ahmed - 10634 East Riverside Drive
 * Hala Alyasiri - Washington Academy for International Medical Graduates
-* Mohamed  Khalif - Washington Academy for International Medical Graduates
+* Mohamed Khalif - Washington Academy for International Medical Graduates
 * Dr. Stan Flemming - Pacific Medical Specialty Group
-* Narayan Chaudhary 
+* Narayan Chaudhary
 * Sadaf Amir
-* Fatima Mirza  - Washington Medical Commission
-* Oksana  Nesterenko 
+* Fatima Mirza - Washington Medical Commission
+* Oksana Nesterenko
 
 #### 0 👎 - Con
 

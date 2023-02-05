@@ -12,10 +12,10 @@
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Nancy Dr. Belcher
-* Matt  Helder - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Matt Helder - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Robin Sparks
 * 💵Sean Graham - Washington State Medical Association
-* DO, Garrett  Jeffery
+* DO, Garrett Jeffery
 * DO, Katina Rue
 * MD, Carrie Horwitch
 * Dr. Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)

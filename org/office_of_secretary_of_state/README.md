@@ -1,7 +1,7 @@
 # Office of Secretary of State
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
-* 👍 Steve  Hobbs
+* 👍 Steve Hobbs
 
 ## [HB 1259](/bill/2023-24/hb/1259/) - Secretary of state exec team 👍1  
 * 👍 Brian Hatfield

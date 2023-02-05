@@ -23,7 +23,7 @@ Testifying:
 
 #### 52 👎 - Con
 Testifying:
-* Debra  Carlson - Survivor
+* Debra Carlson - Survivor
 * Kenzie Davis
 
 #### 1 ❓ - Other

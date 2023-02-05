@@ -12,7 +12,7 @@
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
-* Van  Collins - American Council of Engineering Companies
+* Van Collins - American Council of Engineering Companies
 
 #### 0 👎 - Con
 

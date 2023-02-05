@@ -17,7 +17,7 @@ Sign up to testify:
 #### 147 👍 - Pro
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Ian  Morrison - NAIOP Washington State
+* Ian Morrison - NAIOP Washington State
 
 #### 0 👎 - Con
 

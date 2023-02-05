@@ -17,7 +17,7 @@ Sign up to testify:
 #### 92 👍 - Pro
 Testifying:
 * Rocio Reyes - Emerald Downs
-* Boone  McCanna - Down The Stretch Ranch
+* Boone McCanna - Down The Stretch Ranch
 
 #### 4 👎 - Con
 

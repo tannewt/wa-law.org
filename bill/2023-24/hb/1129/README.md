@@ -10,7 +10,7 @@
 ### Mon 01/16 01:30 PM - Housing (HOUS): HB 1129 Mobile home community sales
 #### 342 👍 - Pro
 Testifying:
-* Stacey  Valenzuela 
+* Stacey Valenzuela
 * Andrew Calkins - King County Housing Authority & AWHA
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Victoria O'Banion

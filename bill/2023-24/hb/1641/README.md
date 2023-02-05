@@ -10,14 +10,14 @@
 ### Thu 02/02 08:00 AM - Regulated Substances & Gaming (RSG): HB 1641 High-potency cannabis
 #### 10 👍 - Pro
 Testifying:
-* Beatriz  Carlini - [University of Washington](/org/university_of_washington/)
+* Beatriz Carlini - [University of Washington](/org/university_of_washington/)
 * Asheley Krutsinger
 * Denise Walker
 
 #### 80 👎 - Con
 Testifying:
 * Lukas Hunter - Harmony Farms
-* Drew  Davis - Mountain Hi
+* Drew Davis - Mountain Hi
 * 💵Ezra Eickmeyer - Producers NW
 * Ramsey Doudar - Patients & Users for Reasonable Policy
 * Micah Sherman - Washington Sun and Craft Growers Association (WSCA)

@@ -13,17 +13,17 @@
 Testifying:
 * Jerrilea Crawford - City of East Wenatchee
 * JC Baldwin - Chelan Douglas Regional Port Authority
-* Paul  Simmons - City of Olympia, Washington Recreation and Parks Association
+* Paul Simmons - City of Olympia, Washington Recreation and Parks Association
 * Jim Huffman - Chelan Douglas Regional Port Authority
 * Jeff Wilkens - Chelan-Douglas Transportation Council
 * Frank Kuntz - City of Wenatchee
-* Dan Sutton 
+* Dan Sutton
 * Jerrilea Crawford - City of East Wenatchee
 * Jeffrey Sutton
 * Sasha Sleiman - Chelan County
 * Frank Kuntz - City of Wenatchee
 * Jerrilea Crawford - City of East Wenatchee
-* Paul  Simmons - City of Olympia, Washington Recreation and Parks Association
+* Paul Simmons - City of Olympia, Washington Recreation and Parks Association
 
 #### 0 👎 - Con
 

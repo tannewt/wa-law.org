@@ -17,7 +17,7 @@ Testifying:
 * Chris Delecki - Washington State Dental Association
 * Jennifer Zbaraschuk - Washington State Dental Hygienists' Association
 * Vanetta Abdellatif - Arcora Foundation
-* Priyanka Bushana 
+* 💵Priyanka Bushana
 
 #### 12 👎 - Con
 Testifying:

@@ -11,7 +11,7 @@
 ### Mon 01/16 01:30 PM - Housing (HOUS): HB 1101 Tenant screening/communities
 #### 3 👍 - Pro
 Testifying:
-* Krystelle  Purkey - Washington State Chapter of Community Association Institute
+* 💵Krystelle Purkey - Washington State Chapter of Community Association Institute
 
 #### 1 👎 - Con
 Testifying:

@@ -10,10 +10,10 @@
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1390 District energy systems
 #### 35 👍 - Pro
 Testifying:
-* Clarence  Clipper - CenTrio Energy of Seattle
+* Clarence Clipper - CenTrio Energy of Seattle
 * Jonathan Finch - IBEW Local 77
-* Mick  Reeves - CenTrio Energy, Seattle
-* Brandon  Houskeeper - CenTrio Energy, Seattle
+* Mick Reeves - CenTrio Energy, Seattle
+* 💵Brandon Houskeeper - CenTrio Energy, Seattle
 * 💵Christine Reid - IBEW LU 77
 * 💵Nora Selander - Western Washington University
 * 💵Amy Wheeless - NW Energy Coalition
@@ -27,6 +27,6 @@ Testifying:
 #### 4 ❓ - Other
 Testifying:
 * Janette Plunkett - Washington Higher Education Sustainability Coalition, Seattle Buildings committee
-* Emily Salzberg  - Washington Department of Commerce
+* Emily Salzberg - Washington Department of Commerce
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Steve Abercrombie - Connected Buildings

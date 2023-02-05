@@ -11,16 +11,16 @@
 #### 335 👍 - Pro
 Testifying:
 * Karen Hiester - UFCW 3000
-* Joe  Ruth - IAM 751 Health & Benefits Department
+* Joe Ruth - IAM 751 Health & Benefits Department
 * Karen Heister - UFCW 3000
-* Michael  Lax - Medical Director of Occupational Health Clinical Center, Upstate University Hospital
-* Trudi  Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
-* Joe  Ruth - IAM 751 Health & Benefits Department
+* Michael Lax - Medical Director of Occupational Health Clinical Center, Upstate University Hospital
+* Trudi Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
+* Joe Ruth - IAM 751 Health & Benefits Department
 * Karen Heister - UFCW 3000
-* Michael  Lax - Medical Director of Occupational Health Clinical Center, Upstate University Hospital
-* Trudi  Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
+* Michael Lax - Medical Director of Occupational Health Clinical Center, Upstate University Hospital
+* Trudi Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
 * AJ Johnson - Washington State Council of Fire Fighters
-* Christina  Bayaniyan - Sheetmetal Workers Local 66
+* Christina Bayaniyan - Sheetmetal Workers Local 66
 * Carmencita Smith - EVS professional, Swedish Medical Center First Hill
 * Debby Chandler - Spokane office professional
 
