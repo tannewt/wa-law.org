@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150610&caId=21069&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150610&caId=21069&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Steve Worley - [City of Pasco](/org/city_of_pasco/)
 
-#### 12 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Maggie Franquemont - [Center for Environmental Law & Policy](/org/center_for_environmental_law_&_policy/)
+* Anne Savery - Tulalip Tribes
+* Danielle Squeochs - Yakama Nation
+* Jim Hendrick - Muckleshoot Tribe
 
 #### 0 ❓ - Other

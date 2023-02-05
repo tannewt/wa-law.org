@@ -15,12 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=4)
 
-#### 7 👍 - Pro
+#### 26 👍 - Pro
 
-#### 9 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * eric pratt - America
 * Tim Smith
+* Joshua Alessandra
+* Tom Gaines
+* Ryan Lester
+* Shawn Ellis
 * Julie Barrett - Conservative Ladies of Washington
 * Jon Conley
 

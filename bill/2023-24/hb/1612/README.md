@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Bob Cooper - Washington Association on Substance misuse and Violence Prevention.
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Bonny Jo  Peterson  - Industrial Hemp Association of WA
+* Kristofer Plunkett - Cascadia Hemp Co.
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Lukas Hunter - Harmony Farms
+* 💵Ezra Eickmeyer - Producers NW
+* Micah Sherman - Washington Sun and Craft Growers Association

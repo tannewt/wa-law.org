@@ -14,8 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=4)
 
-#### 2 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
+* Anne Sadler - Association of Manufactured Home Owners - AMHO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 
 #### 0 👎 - Con

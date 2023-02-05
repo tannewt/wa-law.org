@@ -10,3 +10,6 @@
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
+
+## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply 👍1  
+* 👍 Steve Worley

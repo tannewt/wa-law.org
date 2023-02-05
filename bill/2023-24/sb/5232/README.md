@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=4)
 
-#### 76 👍 - Pro
+#### 147 👍 - Pro
 
-#### 309 👎 - Con
+#### 421 👎 - Con
 Testifying:
 * Eric pratt - America
 * Laurie A Layne
 * Julie Barrett - Conservative Ladies of Washington
 * Scott Freiboth
+* Ronald Lorimer
+* Colleen Wise
 
 #### 1 ❓ - Other
 Testifying:

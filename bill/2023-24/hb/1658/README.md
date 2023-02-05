@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150626&caId=21218&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150626&caId=21218&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - Washington Food Industry Association
+* Natalya Yudkovsky - Washington State PTA
 
 #### 0 👎 - Con
 

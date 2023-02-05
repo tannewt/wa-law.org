@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=4)
 
-#### 24 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Mike Graham-Squire - Washington Association for Substance-misuse and Violence Prevention WASAVP
 * Carrie Nyssen - American Lung Association

@@ -9,6 +9,9 @@
 ## [HB 1420](/bill/2023-24/hb/1420/) - Lien priority/mortgages 👍1  
 * 👍 Brad Tower
 
+## [HB 1557](/bill/2023-24/hb/1557/) - Digital processing services 👍1  
+* 👍 Brad Tower
+
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎2 

@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150775&caId=21188&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150775&caId=21188&tId=4)
 
-#### 12 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* 💵Nick Federici - Toxic Free Future
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Nora  Palattao Burnes
 
 #### 1 ❓ - Other
 

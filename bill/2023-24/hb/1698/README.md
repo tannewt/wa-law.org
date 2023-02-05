@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 35 👎 - Con
+#### 83 👎 - Con
 Testifying:
 * David Linn
 * Lorna Smith

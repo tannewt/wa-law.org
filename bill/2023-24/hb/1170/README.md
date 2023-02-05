@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150874&caId=21194&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150874&caId=21194&tId=4)
 
-#### 77 👍 - Pro
+#### 99 👍 - Pro
+Testifying:
+* Crystal  Raymond - UW Climate Impacts Group
 
 #### 2 👎 - Con
 Testifying:

@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=4)
 
-#### 35 👍 - Pro
+#### 42 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Brad  Meryhew - Sex Offender Policy Board
 * Whitney Hunt - Sex Offender Policy Board

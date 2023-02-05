@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=4)
 
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * David Martin - KCPAO
 * Amy  Gallardo

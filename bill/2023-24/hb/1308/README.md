@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=4)
 
-#### 70 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Randy Spaulding - Washington State Board of Education
+* Michelle Nims - Washington State PTA
+* John  Parker  - [Central Valley School District](/org/central_valley_school_district/)
+* Brian  Mathieson  - Vancouver School District
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jen Rose - Lake Washington School District
+* Andy Cilley - Lakewood CARES
 * Kim Reykdal - Office of Superintendent of Public Instruction (OSPI)

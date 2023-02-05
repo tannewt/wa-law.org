@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=4)
 
-#### 180 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
@@ -30,8 +30,9 @@ Testifying:
 * Marc  Cote - Parkview Services
 * Scott  Livengood - Alpha Supported Living Services
 * Stacy  Dym - The Arc of Washington State
+* Regan Bolli - [City of Covington](/org/city_of_covington/)
 
-#### 180 👎 - Con
+#### 309 👎 - Con
 Testifying:
 * 💵Greg Hanon - NAIOP
 * Travis Hale

@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=4)
 
-#### 22 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Richard Pope
 * Tracy Kahlo - PAVE
 * Director Liza Rankin  - School Board Director, Seattle Public Schools
+* Samantha Fogg - Seattle Council PTSA
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

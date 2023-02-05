@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150511&caId=21068&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150511&caId=21068&tId=4)
 
-#### 19 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Jay Gordon - WA State Dairy Federation
 * Allan Warren - Bonneville Environmental Foundation
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* john Worthington
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 0 👎 - Con
 

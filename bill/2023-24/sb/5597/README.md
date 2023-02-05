@@ -18,13 +18,14 @@ Sign up to testify:
 Testifying:
 * 💵Joren Clowers - Kalkomy
 
-#### 15 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Kyle Thomas - American Canoe Association (ACA)
 * James Good
 * Scot Harkins - Seattle Sake Paddling Club
 * Andrew Michels - Pacific Northwest Outrigger Canoe Racing Association
 * Gerald (Skip) Denny - Hui Heihei outrigger canoe club
+* Lucas Batanian
 * Jim Virgin - Boating Program Advisory Council
 * Thomas O’Keefe - American Whitewater
 

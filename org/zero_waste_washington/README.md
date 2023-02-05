@@ -43,3 +43,9 @@
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 * 👍 Moji Igun
+
+## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
+* 👍💵 Heather Trim
+
+## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
+* 👍💵 Heather Trim

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30705&aId=150943&caId=21249&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30705&aId=150943&caId=21249&tId=4)
 
-#### 299 👍 - Pro
+#### 420 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
 * Denny Heck - Lieutenant Governor
@@ -36,7 +36,12 @@ Testifying:
 * Logan Camporeale
 * James Gregory
 * 💵Hyeeun Park - BIPOC ED Coalition
+* Cheryl O'Brien
+* Eddie Chang
+* Cheryl O'Brien
+* Eddie Chang
+* 💵Nathan Gorton - Washington REALTORS
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other

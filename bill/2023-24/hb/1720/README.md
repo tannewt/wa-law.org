@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30648&aId=151013&caId=21180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30648&aId=151013&caId=21180&tId=4)
 
-#### 73 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 * Pam Lewison - Ag Research Director, Washington Policy Center
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* Chairman W. Ron Allen - Jamestown S'Klallam Tribe
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

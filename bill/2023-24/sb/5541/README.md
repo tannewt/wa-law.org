@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Rani Hong
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

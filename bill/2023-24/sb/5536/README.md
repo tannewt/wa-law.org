@@ -14,22 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150558&caId=21128&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150558&caId=21128&tId=4)
 
-#### 37 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Breean Beggs - Spokane City Council President
 * Amy Ockerlander - Mayor, City of Duvall & Association of Washington Cities
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jim Ferrell - Mayor, City of Federal Way
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Dana Ralph - Mayor of the City of Kent
 * Armondo Pavone - Mayor, City of Renton
 * Dan Templeman - Police Chief, City of Everett
 * David Hayes - Washington Council of Police and Sheriffs
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Mayor Sean Kelly - [City of Maple Valley](/org/city_of_maple_valley/)
 * Barbara Tolbert - Mayor, City of Arlington
 
-#### 283 👎 - Con
+#### 666 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Lisa Daugaard - Public Defender Association
 * Chad Enright - Kitsap County Prosecutors
+* 💵Bob Cooper - WA Association of Drug Courts

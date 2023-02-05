@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150927&caId=21154&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150927&caId=21154&tId=4)
 
-#### 147 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Kate Van Gent - Seattle Metro Pickleball Association
 * Amy Greger - Seattle Metro Pickleball Association
 * John Rankin - Seattle Metro Pickleball Assocition
+* Nancy Purcell - President of MEPC
+* Nancy Purcell - President of Mukilteo Everett PB Club
+* Rose Jones - Pickleball Playground Spokane
 
 #### 0 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other

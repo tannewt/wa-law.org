@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Rod Higgins - Deputy Mayor, City of Spokane Valley
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 39 👎 - Con
+#### 59 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Chad Enright - Kitsap County Prosecutor
+* 💵Bob Cooper - WA Association of Drug Courts

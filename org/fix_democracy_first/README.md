@@ -10,6 +10,8 @@
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍1  
 
 ## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
@@ -53,6 +55,10 @@
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+
+## [HB 1677](/bill/2023-24/hb/1677/) - Campaign finance disclosure 👍1  
+
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 

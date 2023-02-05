@@ -42,7 +42,7 @@
 
 ## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 * ❓💵 Carl Schroeder
@@ -88,6 +88,8 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
 * 👎💵 Candice Bock
 
+## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
+
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development   ❓1
@@ -95,6 +97,9 @@
 
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review   ❓1
 * ❓💵 Carl Schroeder
+
+## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
+* 👍💵 Candice Bock
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
@@ -104,15 +109,20 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍💵 Carl Schroeder
 
+## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍1  
+
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 * 👎💵 Candice Bock
+
+## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
@@ -186,7 +196,8 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines   ❓1
@@ -207,7 +218,8 @@
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍💵 Candice Bock
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  

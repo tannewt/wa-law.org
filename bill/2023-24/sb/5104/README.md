@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151054&caId=21168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151054&caId=21168&tId=4)
 
-#### 168 👍 - Pro
+#### 200 👍 - Pro
+Testifying:
+* 💵Bruce Wishart - [Sound Action](/org/sound_action/)
 
 #### 0 👎 - Con
 

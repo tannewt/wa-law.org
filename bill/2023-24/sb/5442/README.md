@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Leslie Williams - Conservative Ladies of Washington
 
-#### 72 👎 - Con
+#### 92 👎 - Con
 
 #### 0 ❓ - Other

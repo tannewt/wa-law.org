@@ -23,6 +23,6 @@ Testifying:
 * Madison Zack-Wu - Strippers Are Workers
 * Samantha Estudillo
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

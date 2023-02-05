@@ -14,17 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150508&caId=21065&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150508&caId=21065&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Thomas  Pors - Law Office of Thomas M. Pors
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Bill Clarke - WA PUD Association
 * Rob McFarland - Mayor, City of North Bend
+* Randy Black - Lakewood Water District, General Manager
 
-#### 114 👎 - Con
+#### 209 👎 - Con
 Testifying:
 * Philip Palios
 * Jean Buckner - Friends of the Snoqualmie Valley Trail and River
+* Anne Savery - Tulalip Tribes
+* Danielle Squeochs - Yakama Nation
+* Jim Hedrick - Muckleshoot Tribe
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 * 💵Bruce Wishart - [Sierra Club](/org/sierra_club/)
 * Trish Rolfe - CELP

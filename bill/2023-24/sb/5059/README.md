@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=4)
 
-#### 85 👍 - Pro
+#### 89 👍 - Pro
 
-#### 42 👎 - Con
+#### 48 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * Cindy MCMULLEN - Central Valley School Board
@@ -29,6 +29,7 @@ Testifying:
 * 💵Mike Hoover - Washington State School Directors’ Association and Washington State Association of Counties
 * Michael Heinisch - xNon Profit Insurance Program
 * Madelyn Carlson - Non-Profit Insurance Program
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other
 

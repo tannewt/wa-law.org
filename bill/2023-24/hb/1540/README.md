@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30651&aId=150999&caId=21296&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30651&aId=150999&caId=21296&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Abigail Potter - Washington Trucking Associations
+* Jeff DeVere - Washington Trucking Associations
+* Melissa Pace - PACE Commercial Drivers License (CDL) Training
 
 #### 0 👎 - Con
 

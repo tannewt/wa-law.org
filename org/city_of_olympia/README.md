@@ -60,3 +60,6 @@
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
+
+## [SB 5636](/bill/2023-24/sb/5636/) - Forest practices in cities 👍1  
+* 👍 Mayor Pro Tem, Clark Gilman

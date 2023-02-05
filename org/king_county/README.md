@@ -155,6 +155,9 @@
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
 
+## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
+* ❓ Brad Finegood
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  

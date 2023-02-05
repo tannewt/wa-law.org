@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 9 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Eric pratt - America
 * Dawn Houghton - 4326 Springdale Hunters Rd

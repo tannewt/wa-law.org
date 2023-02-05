@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150624&caId=21216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150624&caId=21216&tId=4)
 
-#### 89 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * Katie Taylor - OSPI
 * Jim Kowalkowski - Rural Education Center

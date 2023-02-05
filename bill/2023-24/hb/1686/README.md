@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150983&caId=21183&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150983&caId=21183&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 
-#### 0 👎 - Con
+#### 120 👎 - Con
+Testifying:
+* Marion Osborn 
+* Anita Stabler
 
 #### 0 ❓ - Other

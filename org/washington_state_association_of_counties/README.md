@@ -16,6 +16,8 @@
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
+## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning   ❓1
@@ -84,11 +86,17 @@
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍💵 Paul Jewell
 
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+* 👍💵 Paul Jewell
+
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
 * 👎💵 Juliana Roe
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 * 👍💵 Juliana Roe
+
+## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍1  
+* 👍💵 Paul Jewell
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
@@ -96,6 +104,9 @@
 * 👎💵 Paul Jewell
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
+
+## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
+* 👍💵 Paul Jewell
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel   ❓1
 * ❓💵 Juliana Roe
@@ -181,3 +192,6 @@
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
 * 👍💵 Mike Hoover
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
+* ❓💵 Paul Jewell
