@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30683&aId=151077&caId=21142&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30683&aId=151077&caId=21142&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Mayor Pro Tem, Clark Gilman - [City of Olympia](/org/city_of_olympia/)
+* Arthur West
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

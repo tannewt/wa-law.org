@@ -1,0 +1,13 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1773](/bill/2023-24/hb/1773/) > [Original Bill](/bill/2023-24/hb/1773/1/)
+
+# HB 1773 - Apprenticeship objections
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1773.pdf)
+
+## Section 1
+The legislature finds that in 2022, Senate Bill No. 5600 was signed into law with the stated intent that apprenticeship programs seeking state registration receive prompt consideration with minimum delay for more apprenticeship opportunities to be available for workers and employers. The legislature further finds that existing approved apprenticeship programs may file objections to a new program being approved. Allowing competitors to object to a new apprenticeship program is contrary to the goal of expanding apprenticeship programs with minimum delay.
+
+It is therefore the legislature's intent to expand the availability of apprenticeship programs by eliminating the competitor objection process as part of the new apprenticeship program approval process.
+
+## Section 2
+(1) The department of labor and industries is the agency with responsibility and accountability for apprenticeship within the state for federal purposes. The director of labor and industries shall appoint a regulatory apprenticeship council, composed of three representatives each from employer and employee organizations, respectively. The terms of office of the members of the apprenticeship council first appointed by the director of labor and industries shall be as follows: One representative each of employers and employees shall be appointed for one year, two years, and three years, respectively. Thereafter, each member shall be appointed for a term of three years. The director of labor and industries shall also appoint a public member to the apprenticeship council for a three-year term. Each member shall hold office until a successor is appointed and has qualified and any vacancy shall be filled by appointment for the unexpired portion of the term. A designated representative from each of the following: The workforce training and education coordinating board, state board for community and technical colleges, employment security department, and United States department of labor, apprenticeship, training, employer, and labor services, shall be ex officio members of the apprenticeship council. Ex officio members shall have no vote. Each member of the council, not otherwise compensated by public moneys, shall be reimbursed for travel expenses in accordance with RCW 43.03.050 and 43.03.060 and shall be compensated in accordance with RCW 43.03.240.

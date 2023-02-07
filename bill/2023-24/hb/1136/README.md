@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/18 08:30 AM - Labor & Workplace Standards (LAWS): HB 1136 Employee expenditures

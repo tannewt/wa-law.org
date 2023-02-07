@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=4)
 
-#### 2 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Bryce McKibben - The Hope Center for College, Community, and Justice
 
 #### 0 👎 - Con
 

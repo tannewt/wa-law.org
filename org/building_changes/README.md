@@ -14,6 +14,11 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
+* 👍💵 Megan Veith
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
@@ -29,5 +34,8 @@
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 * 👍💵 Megan Veith
 
-## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
+## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍2  
+* 👍💵 Megan Veith
+
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 * 👍💵 Megan Veith

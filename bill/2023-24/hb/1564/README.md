@@ -14,16 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=4)
 
-#### 75 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Quinn Dalan - Washington State Women’s Commission
 * Mary Robnett - Pierce County Prosecutor
 * 💵Leah Griffin - Sexual Assault Forensic Examination Working Group- Representative of Survivors
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Heidi Anderson - WA State Attorney General's Office
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* Beth Sheeran
+* Annette Simpson - Harborview Abuse & Trauma Center
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Maddie Menser - UW Greeks Take Action
+* Reese Browers - UW Student
+* Shannon Bailie - UW LiveWell
 
-#### 52 👎 - Con
+#### 66 👎 - Con
 Testifying:
 * Debra Carlson - Survivor
 * Kenzie Davis
+* Elsa Sjunneson
+* Andrea Cruz - Sexual Assault Survivor Advocate
 
 #### 1 ❓ - Other

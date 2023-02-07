@@ -14,13 +14,62 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30635&aId=151263&caId=21338&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30635&aId=151263&caId=21338&tId=4)
 
-#### 0 👍 - Pro
+#### 390 👍 - Pro
+Testifying:
+* Dana Cuomo - Lafayette College
+* Jolaine Joseph
+* Kelly Sampson - Brady Center to Prevent Gun Violence
+* Margaret MacRae - Northwest Justice Project
+* Julia Weber - Battered Women’s Justice Project
+* Riddhi Mukhopadhyay - Sexual Violence Law Center; Washington State Women's Commission
+* 💵Stephen Paolini
+* Amy Freedheim - Chair of Felony Traffic Unit, KCPAO
+* Kim Todaro - King County Bar Association Pro Bono Programs, DV LEAD Program
 
-#### 10 👎 - Con
+#### 309 👎 - Con
 Testifying:
 * Eric pratt - America
 * Dawn Houghton - 4326 Springdale Hunters Rd
 * Michael Dolan
 * Kathleen McAuliffe
+* Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
+* Gerald Hankerson - NAACP Alaska Oregon Washington State-Area Conference
+* Catherine Best
+* Charlie Klein - Civil Survival
+* Candice Brennan
+* Heidi Whalley
+* Jewel Shepherd - Black Student Union
+* Kelly Olson - Civil Survival
+* Melody Simle - Real Justice WA
+* Joseph Jones - The kether Corporation
+* Derek Boyd
+* Sharon Brunner Rowe - Brunner Resolution Group, PLLC.
+* Schoen Parnell - Law Office of Schoen Parnell
+* Donald Adair
+* Danielle Mitchell - 10308 25th pl se
+* Patrick Spurlock - The People Of The United States
+* Vitaliy Kertchen - [Washington Association of Criminal Defense Lawyers](/org/washington_association_of_criminal_defense_lawyers/)
+* Vitaliy Kertchen - WA Defender Assn/WA Assn of Criminal Defense Lawyers
+* LISA STRIEDINGER - Friends without homes
+* Matthew Perry
+* Kristina Jorgensen
+* Derrick Martin-Armstead
+* Judy Baker
+* Emijah Smith
+* 💵Nickeia Hunter
+* Nickia Hunter
+* Nickia Hunter
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Dawn Shepard
+* Suzanne Gordon
+* Anthony Powers - American Equity & Justice Group
+* RACHAEL REESE
+* RACHAEL REESE
+* andrea doll
+* Ann Lovejoy
+* Jason Clark - Northwest Credible Messenger 501c3
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Lindsay Herendeen - State Board of Health
+* Julie Barrett - Conservative Ladies of Washington

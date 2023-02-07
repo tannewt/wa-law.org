@@ -8,21 +8,22 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5551 Methane capture
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150511&caId=21068&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150511&caId=21068&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150511&caId=21068&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150511&caId=21068&tId=4)
-
-#### 25 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Jay Gordon - WA State Dairy Federation
 * Allan Warren - Bonneville Environmental Foundation
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * john Worthington
+* Chris Sybrandy - Washington State Dairy Federation/Farmer
+* Dan Evans - Promus Energy
+* Jason Sheehan - J & K Dairy LLC
+* Doug Ray - Carbon Washington
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Austin Allred
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Alison Halpern - State Conservation Commission - Coordinated Resource Management group

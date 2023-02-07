@@ -14,8 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=150968&caId=21143&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=150968&caId=21143&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Heather Kurtenbach - Ironworkers Local 86
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Sophia Steele - Associated Builders and Contractors
+* Jerry VanderWood - WA Construction Industry Council and AGC
+* Van Collins - ACEC and AELC
+* Jesse Simpson - Housing Development Consortium
+* Andrew Calkins - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
+* Maureen Fife - Tacoma/Pierce County Habitat for Humanity
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)

@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30711&aId=151008&caId=21288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30711&aId=151008&caId=21288&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
+* Julie Wise - King County Director of Elections
+* Rosa Mendez-Perez
+* Chris Porter
+* Kirstin Haugen
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
+* Ron Shultz - WA State Conservation Commission
+* Dave Hedrick - Ferry Conservation District

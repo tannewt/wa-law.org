@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=4)
 
-#### 6 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* Michelle Price - AESD
 
 #### 0 👎 - Con
 

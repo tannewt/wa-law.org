@@ -2,6 +2,8 @@
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 
+## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
+
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1

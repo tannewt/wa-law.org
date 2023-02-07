@@ -12,7 +12,7 @@
 
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
-## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍2  
+## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍3  
 * 👍 ROSE GUNDERSEN
 * 👍 ROSE GUNDERSEN
 
@@ -54,15 +54,32 @@
 
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
 
+## [HB 1484](/bill/2023-24/hb/1484/) - Estate tax exclusion amount 👍1  
+* 👍💵 Mark Johnson
+
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓1
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Mark Johnson
 
+## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
+* 👍💵 Mark Johnson
+
+## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
+* 👍💵 Mark Johnson
+
+## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
+* 👎💵 Bruce Beckett
+
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍1  
+* 👍💵 Mark Johnson
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
@@ -94,6 +111,9 @@
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech  👎1 
 
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
+* 👍💵 Mark Johnson
+
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
 * 👍💵 Mark Johnson
 
@@ -103,9 +123,16 @@
 ## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
+
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍💵 Mark Johnson
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
+
+## [SB 5597](/bill/2023-24/sb/5597/) - Boater safety and education  👎1 
+
+## [SB 5607](/bill/2023-24/sb/5607/) - Fashion/env. policies   ❓1
+* ❓💵 Mark Johnson

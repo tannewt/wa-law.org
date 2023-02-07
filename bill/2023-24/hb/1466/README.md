@@ -14,10 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150664&caId=21241&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150664&caId=21241&tId=4)
 
-#### 163 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
 * Diane Oakes - Delta Dental of WA
+* 💵Bracken Killpack - Washington State Dental Association
+* Dr. Ashley Ulmer - Washington State Dental Association
+* Scott Henderson - Walla Walla Valley Dental Society
+* Chao Dong - Washington State Dental Association
 
-#### 494 👎 - Con
+#### 672 👎 - Con
+Testifying:
+* Karyn Williams
+* Colleen Gaylord - Washington Dental Hygienists Association
+* Jennifer Zbaraschuk - Washington Dental Hygienists Association
+* Camille Luke - Washington Dental Hygienists Association
+* Kathy Mueller - Washington Dental Hygienists Association
+* 💵Melissa Johnson - Washington Dental Hygienists Association
+* Rebekah Woods - Columbia Basin College
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other

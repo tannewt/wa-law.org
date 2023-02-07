@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Transportation (TRAN): SB 5548 Vehicle service fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150925&caId=21152&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150925&caId=21152&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150925&caId=21152&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30700&aId=150925&caId=21152&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* Joe DePinto - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
+* Kevin David - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
+* Marci Straub - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
 
-#### 6 👍 - Pro
+#### 2 👎 - Con
 
-#### 1 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Beau Perschbacher - WA Dept. of Licensing

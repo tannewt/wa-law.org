@@ -6,7 +6,9 @@
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
@@ -29,3 +31,8 @@
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting  👎1 
 * 👎 Dhyan Lal
+
+## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
+
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+* 👍💵 Katherine Mahoney

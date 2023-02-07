@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150753&caId=21264&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150753&caId=21264&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Tina Heavener
 * Bobbi Cussins
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Jimmy Matta
+* Nina Martinez - Latino Civic Alliance
+* Tom Kwieciak - Building Industry Association of WA
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries

@@ -9,7 +9,7 @@
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 * 👍💵 Leah Missik
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
@@ -21,13 +21,27 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+* 👍💵 Leah Missik
+
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍1  
 
+## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel   ❓1
+* ❓💵 Leah Missik
+
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
+
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
+
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+* ❓💵 Kelly Hall
+
+## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources   ❓1
+* ❓💵 Kelly Hall
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Labor & Workplace Standards (LAWS): HB 1067 High-hazard facility wages

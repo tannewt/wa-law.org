@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150615&caId=21123&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150615&caId=21123&tId=4)
 
-#### 4 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
 * Shawn Wagenseller - The Cannabis Alliance
+* Burl Bryson - The Cannabis Alliance
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
 #### 0 ❓ - Other
 

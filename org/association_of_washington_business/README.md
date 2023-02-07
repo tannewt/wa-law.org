@@ -6,6 +6,9 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎1 
+* 👎💵 Peter Godlewski
+
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
 
@@ -13,6 +16,9 @@
 
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
 * ❓ Mike Ennis
+
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+* 👍💵 Peter Godlewski
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍 Mike Ennis
@@ -29,7 +35,8 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓1
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution   ❓1
@@ -55,6 +62,8 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board  👎1 
 * 👎💵 Amy Anderson
 
@@ -67,6 +76,8 @@
 ## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations 👍1  
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
+
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
 
@@ -131,12 +142,24 @@
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
 
+## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
+* 👍 Mike Ennis
+
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth.  👎1 
+* 👎 Emily Shay
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
+
+## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
+
+## [HB 1540](/bill/2023-24/hb/1540/) - Driver training/large veh. 👍1  
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
@@ -147,7 +170,22 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
+## [HB 1561](/bill/2023-24/hb/1561/) - Public utility tax exemption 👍1  
+
 ## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎1 
+* 👎 Mike Ennis
+
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
+
+## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
+* 👍 Mike Ennis
+
+## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain  👎1 
+* 👎 Mike Ennis
+
+## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -160,6 +198,8 @@
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy   ❓1
 * ❓💵 Peter Godlewski
+
+## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍2  
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
@@ -202,7 +242,7 @@
 
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
-## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
+## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍2  
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement  👎1 
 
@@ -243,6 +283,8 @@
 
 ## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
 
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
+
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 * 👍 Mike Ennis
 
@@ -252,14 +294,23 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Dave Mastin
 
+## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
+
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
 ## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank  👎1 
 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+* 👍💵 Peter Godlewski
+
 ## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍1  
 
 ## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍1  
 
 ## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
+
+## [SB 5603](/bill/2023-24/sb/5603/) - Driver training/large veh. 👍1  
+
+## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  

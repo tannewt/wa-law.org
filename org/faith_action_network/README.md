@@ -12,6 +12,10 @@
 
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍3  
+
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
+
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
@@ -47,3 +51,7 @@
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
 * 👍💵 Kristin Ang
+
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍3  

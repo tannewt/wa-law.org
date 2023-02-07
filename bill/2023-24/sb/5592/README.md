@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150882&caId=21095&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150882&caId=21095&tId=4)
 
-#### 13 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Karli Reiter - Brian Reiter
 * Kim Reiter
 * Brandon Austin
+* Patrick Leonard
 
 #### 0 👎 - Con
 

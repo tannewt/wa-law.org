@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150752&caId=21263&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150752&caId=21263&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - [Northwest Wall and Ceiling Contractors Association](/org/northwest_wall_and_ceiling_contractors_association/)
+* Kurt Mehrer - Mehrer Drywall, Inc.
+* Jimmy Matta - Ahora Construction, LLC
 
 #### 0 👎 - Con
 

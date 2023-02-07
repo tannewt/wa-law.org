@@ -1,0 +1,8 @@
+# Astria Health
+
+## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
+
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
+
+## [SB 5532](/bill/2023-24/sb/5532/) - Small rural hospital payment 👍5  
+* 👍 Eric Jensen

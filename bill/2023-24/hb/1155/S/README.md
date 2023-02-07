@@ -1,0 +1,370 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1155](/bill/2023-24/hb/1155/) > [Substitute Bill](/bill/2023-24/hb/1155/S/)
+
+# HB 1155 - Consumer health data
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1155-S.pdf)
+
+## Section 1
+This act may be known and cited as the Washington my health my data act.
+
+## Section 2
+1. The legislature finds that the people of Washington regard their privacy as a fundamental right and an essential element of their individual freedom. Washington's Constitution explicitly provides the right to privacy. Fundamental privacy rights have long been and continue to be integral to protecting Washingtonians and to safeguarding our democratic republic.
+
+2. Information related to an individual's health conditions or attempts to obtain health care services is among the most personal and sensitive categories of data collected. Washingtonians expect that their health data is protected under laws like the health information portability and accountability act (HIPAA). However, HIPAA only covers health data collected by specific health care entities, including most health care providers. Health data collected by noncovered entities, including certain apps and websites, are not afforded the same protections. This act works to close the gap between consumer knowledge and industry practice by providing stronger privacy protections for all Washington consumers' health data.
+
+3. With this act, the legislature intends to provide heightened protections for Washingtonian's health data by: Requiring additional disclosures and consumer consent regarding the collection, sharing, and use of such information; empowering consumers with the right to have their health data deleted; prohibiting the selling of consumer health data without valid authorization signed by the consumer; and making it unlawful to utilize a geofence around a facility that provides health care services.
+
+## Section 3
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Abortion" means the termination of a pregnancy for purposes other than producing a live birth.
+
+2. "Affiliate" means a legal entity that shares common branding with another legal entity and controls, is controlled by, or is under common control with another legal entity. For the purposes of this definition, "control" or "controlled" means:
+
+    a. Ownership of, or the power to vote, more than 50 percent of the outstanding shares of any class of voting security of a company;
+
+    b. Control in any manner over the election of a majority of the directors or of individuals exercising similar functions; or
+
+    c. The power to exercise controlling influence over the management of a company.
+
+3. "Authenticate" means to use reasonable means to determine that a request to exercise any of the rights afforded in this chapter is being made by, or on behalf of, the consumer who is entitled to exercise such consumer rights with respect to the consumer health data at issue.
+
+4. "Biometric data" means data that is generated from the measurement or technological processing of an individual's physiological, biological, or behavioral characteristics and that identifies a consumer, whether individually or in combination with other data. Biometric data includes, but is not limited to:
+
+    a. Imagery of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which an identifier template can be extracted; or
+
+    b. Keystroke patterns or rhythms and gait patterns or rhythms that contain identifying information.
+
+5. "Collect" means to buy, rent, access, retain, receive, acquire, infer, derive, or otherwise process consumer health data in any manner.
+
+6. [Empty]
+
+    a. "Consent" means a clear affirmative act that signifies a consumer's freely given, specific, informed, opt-in, voluntary, and unambiguous agreement, which may include written consent provided by electronic means.
+
+    b. "Consent" may not be obtained by:
+
+        i. A consumer's acceptance of a general or broad terms of use agreement or a similar document that contains descriptions of personal data processing along with other unrelated information;
+
+        ii. A consumer hovering over, muting, pausing, or closing a given piece of content; or
+
+        iii. A consumer's agreement obtained through the use of deceptive designs.
+
+7. "Consumer" means (a) a natural person who is a Washington resident; or (b) a natural person whose consumer health data is collected in Washington. "Consumer" means a natural person who acts only in an individual or household context, however identified, including by any unique identifier. "Consumer" does not include an individual acting in an employment context.
+
+8. [Empty]
+
+    a. "Consumer health data" means personal information that is linked or reasonably linkable to a consumer and that identifies a consumer's past, present, or future physical or mental health including, but not limited to:
+
+        i. Individual health conditions, treatment, status, diseases, or diagnoses;
+
+        ii. Social, psychological, behavioral, and medical interventions;
+
+        iii. Health-related surgeries or procedures;
+
+        iv. Use or purchase of medication;
+
+    v. Bodily functions, vital signs, symptoms, or measurements of the information described in this subsection;
+
+    vi. Diagnoses or diagnostic testing, treatment, or medication;
+
+    vii. Gender-affirming care information;
+
+    viii. Reproductive or sexual health information;
+
+        ix. Biometric data related to information described in this subsection (8)(a);
+
+    x. Genetic data related to information described in this subsection (8)(a);
+
+    xi. Precise location information that could reasonably indicate a consumer's attempt to acquire or receive health services or supplies; or
+
+    xii. Any information described in (a)(i) through (xi) of this subsection that is derived or extrapolated from nonhealth information (such as proxy, derivative, inferred, or emergent data by any means, including algorithms or machine learning).
+
+    b. "Consumer health data" does not include personal information that is used to engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws and is approved, monitored, and governed by an institutional review board, human subjects research ethics review board, or a similar independent oversight entity that determines that the regulated entity has implemented reasonable safeguards to mitigate privacy risks associated with research, including any risks associated with reidentification.
+
+9. "Deceptive design" means a user interface designed or manipulated with the effect of subverting or impairing user autonomy, decision making, or choice.
+
+10. "Deidentified data" means data that cannot reasonably be used to infer information about, or otherwise be linked to, an identified or identifiable individual, or a device linked to such individual, if the regulated entity that possesses such data (a) takes reasonable measures to ensure that such data cannot be associated with an individual; (b) publicly commits to process such data only in a deidentified fashion and not attempt to reidentify such data; and (c) contractually obligates any recipients of such data to satisfy the criteria set forth in (a) and (b) of this subsection.
+
+11. "Gender-affirming care information" means personal information relating to seeking or obtaining past, present, or future gender-affirming care services. "Gender-affirming care information" includes, but is not limited to:
+
+    a. Precise location information that could reasonably indicate a consumer's attempt to acquire or receive gender-affirming care services;
+
+    b. Efforts to research or obtain gender-affirming care services; or
+
+    c. Any gender-affirming care information that is derived, extrapolated, or inferred, including from nonhealth information, such as proxy, derivative, inferred, emergent, or algorithmic data.
+
+12. "Gender-affirming care services" means health services or products that support and affirm an individual's gender identity including, but not limited to, social, psychological, behavioral, cosmetic, medical, or surgical interventions. "Gender-affirming care services" includes, but is not limited to, treatments for gender dysphoria, gender-affirming hormone therapy, and gender-affirming surgical procedures.
+
+13. "Genetic data" means any data, regardless of its format, that concerns a consumer's genetic characteristics. "Genetic data" includes, but is not limited to:
+
+    a. Raw sequence data that result from the sequencing of a consumer's complete extracted deoxyribonucleic acid (DNA) or a portion of the extracted DNA;
+
+    b. Genotypic and phenotypic information that results from analyzing the raw sequence data; and
+
+    c. Self-reported health data that a consumer submits to a regulated entity and that is analyzed in connection with consumer's raw sequence data.
+
+14. "Geofence" means technology that uses global positioning coordinates, cell tower connectivity, cellular data, radio frequency identification, Wifi data, and/or any other form of location detection to establish a virtual boundary around a specific physical location. For purposes of this definition, "geofence" means a virtual boundary that is 2,000 feet or less from the perimeter of the physical location.
+
+15. "Health care services" means any service provided to a person to assess, measure, improve, or learn about a person's health, including but not limited to:
+
+    a. Individual health conditions, status, diseases, or diagnoses;
+
+    b. Social, psychological, behavioral, and medical interventions;
+
+    c. Health-related surgeries or procedures;
+
+    d. Use or purchase of medication;
+
+    e. Bodily functions, vital signs, symptoms, or measurements of the information described in this subsection;
+
+    f. Diagnoses or diagnostic testing, treatment, or medication;
+
+    g. Reproductive health care services; or
+
+    h. Gender-affirming care services.
+
+16. "Homepage" means the introductory page of an internet website and any internet webpage where personal information is collected. In the case of an online service, such as a mobile application, homepage means the application's platform page or download page, and a link within the application, such as from the application configuration, "about," "information," or settings page.
+
+17. "Person" means, where applicable, natural persons, corporations, trusts, unincorporated associations, and partnerships. "Person" does not include government agencies, tribal nations, or contracted service providers when processing consumer health data on behalf of a government agency.
+
+18. [Empty]
+
+    a. "Personal information" means information that identifies or is reasonably capable of being associated or linked, directly or indirectly, with a particular consumer. "Personal information" includes, but is not limited to, data associated with a persistent unique identifier, such as a cookie ID, an IP address, a device identifier, or any other form of persistent unique identifier.
+
+    b. "Personal information" does not include publicly available information. Any biometric data collected about a consumer by a business without the consumer's knowledge is not publicly available information.
+
+    c. "Personal information" does not include deidentified data.
+
+19. "Precise location information" means information derived from technology including, but not limited to, global positioning system level latitude and longitude coordinates or other mechanisms, that directly identifies the specific location of an individual with precision and accuracy within a radius of 1,750 feet. "Precise location information" does not include the content of communications, or any data generated by or connected to advanced utility metering infrastructure systems or equipment for use by a utility.
+
+20. "Process" or "processing" means any operation or set of operations performed on consumer health data.
+
+21. "Processor" means a person that processes consumer health data on behalf of a regulated entity.
+
+22. "Publicly available information" means information that (a) is lawfully made available through federal, state, or municipal government records or widely distributed media, and (b) a regulated entity has a reasonable basis to believe a consumer has lawfully made available to the general public.
+
+23. "Regulated entity" means any legal entity that: (a) Conducts business in Washington, or produces or provides products or services that are targeted to consumers in Washington; and (b) alone or jointly with others, determines the purpose and means of collecting, processing, sharing, or selling of consumer health data. "Regulated entity" does not mean government agencies, tribal nations, or contracted service providers when processing consumer health data on behalf of the government agency.
+
+24. "Reproductive or sexual health information" means personal information relating to seeking or obtaining past, present, or future reproductive or sexual health services. "Reproductive or sexual health information" includes, but is not limited to:
+
+    a. Precise location information that could reasonably indicate a consumer's attempt to acquire or receive reproductive or sexual health services;
+
+    b. Efforts to research or obtain reproductive or sexual health services; or
+
+    c. Any reproductive or sexual health information that is derived, extrapolated, or inferred, including from nonhealth information (such as proxy, derivative, inferred, emergent, or algorithmic data).
+
+25. "Reproductive or sexual health services" means health services or products that support or relate to a consumer's reproductive system or sexual well-being, including but not limited to:
+
+    a. Individual health conditions, status, diseases, or diagnoses;
+
+    b. Social, psychological, behavioral, and medical interventions;
+
+    c. Health-related surgeries or procedures including, but not limited to, abortions;
+
+    d. Use or purchase of medication including, but not limited to, medications for the purposes of abortion;
+
+    e. Bodily functions, vital signs, symptoms, or measurements of the information described in this subsection;
+
+    f. Diagnoses or diagnostic testing, treatment, or medication; and
+
+    g. Medical or nonmedical services related to and provided in conjunction with an abortion, including but not limited to associated diagnostics, counseling, supplies, and follow-up services.
+
+26. [Empty]
+
+    a. "Sell" or "sale" means the sharing of consumer health data for monetary or other valuable consideration.
+
+    b. "Sell" or "sale" does not include the sharing of consumer health data for monetary or other valuable consideration:
+
+        i. To a third party as an asset that is part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the regulated entity's assets that complies with the requirements and obligations in this chapter; or
+
+        ii. By a regulated entity to a processor when such sharing is consistent with the purpose for which the consumer health data was collected and disclosed to the consumer.
+
+27. [Empty]
+
+    a. "Share" or "sharing" means to release, disclose, disseminate, divulge, make available, provide access to, license, or otherwise communicate orally, in writing, or by electronic or other means, consumer health data by a regulated entity to a third party or affiliate.
+
+    b. The term "share" or "sharing" does not include:
+
+        i. The disclosure of consumer health data by a regulated entity to a processor when such sharing is to provide goods or services in a manner consistent with the purpose for which the consumer health data was collected and disclosed to the consumer;
+
+        ii. The disclosure of consumer health data to a third party with whom the consumer has a direct relationship when: (A) The disclosure is for purposes of providing a product or service requested by the consumer; (B) the regulated entity maintains control and ownership of the data; and (C) the third party uses the consumer health data only at direction from the regulated entity and consistent with the purpose for which it was collected and disclosed to the consumer; or
+
+        iii. The disclosure or transfer of personal data to a third party as an asset that is part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the regulated entity's assets and complies with the requirements and obligations in this chapter.
+
+28. "Third party" means an entity other than a consumer, regulated entity, processor, or affiliate of the regulated entity.
+
+## Section 4
+1. A regulated entity shall maintain a consumer health data privacy policy that clearly and conspicuously discloses:
+
+    a. The categories of consumer health data collected and the purpose for which the data is collected, including how the data will be used;
+
+    b. The categories of sources from which the consumer health data is collected;
+
+    c. The categories of consumer health data that is shared;
+
+    d. A list of the categories of third parties and specific affiliates with whom the regulated entity shares the consumer health data; and
+
+    e. How a consumer can exercise the rights provided in section 6 of this act.
+
+2. A regulated entity shall prominently publish a link to its consumer health data privacy policy on its homepage.
+
+3. A regulated entity may not collect, use, or share additional categories of consumer health data not disclosed in the consumer health data privacy policy without first disclosing the additional categories and obtaining the consumer's affirmative consent prior to the collection, use, or sharing of such consumer health data.
+
+4. A regulated entity may not collect, use, or share consumer health data for additional purposes not disclosed in the consumer health data privacy policy without first disclosing the additional purposes and obtaining the consumer's affirmative consent prior to the collection, use, or sharing of such consumer health data.
+
+5. It is a violation of this chapter for a regulated entity to contract with a processor to process consumer health data in a manner that is inconsistent with the regulated entity's consumer health data privacy policy.
+
+## Section 5
+1. A regulated entity may not collect any consumer health data except:
+
+    a. With consent from the consumer for such collection for a specified purpose; or
+
+    b. To the extent necessary to provide a product or service that the consumer to whom such consumer health data relates has requested from such regulated entity.
+
+2. A regulated entity may not share any consumer health data except:
+
+    a. With consent from the consumer for such sharing that is separate and distinct from the consent obtained to collect consumer health data; or
+
+    b. To the extent necessary to provide a product or service that the consumer to whom such consumer health data relates has requested from such regulated entity.
+
+3. Consent required under this section must be obtained prior to the collection or sharing, as applicable, of any consumer health data, and the request for consent must clearly and conspicuously disclose: (a) The categories of consumer health data collected or shared; (b) the purpose of the collection or sharing of the consumer health data, including the specific ways in which it will be used; (c) the categories of entities with whom the consumer health data is shared; and (d) how the consumer can withdraw consent from future collection or sharing of the consumer's health data.
+
+4. A regulated entity may not unlawfully discriminate against a consumer for exercising any rights included in this chapter.
+
+## Section 6
+1. A consumer has the right to confirm whether a regulated entity is collecting, sharing, or selling consumer health data concerning the consumer and to access such data, including a list of all third parties and affiliates with whom the regulated entity has shared or sold the consumer health data and an active email address or other online mechanism that the consumer may use to contact these third parties.
+
+2. A consumer has the right to withdraw consent from the regulated entity's collection and sharing of consumer health data concerning the consumer.
+
+3. A consumer has the right to have consumer health data concerning the consumer deleted and may exercise that right by informing the regulated entity of the consumer's request for deletion.
+
+    a. A regulated entity that receives a consumer's request to delete any consumer health data concerning the consumer shall without unreasonable delay and no more than 30 calendar days from authenticating the deletion request:
+
+        i. Delete the consumer health data from its records, including from all parts of the regulated entity's network, including archived or backup systems pursuant to (c) of this subsection; and
+
+        ii. Notify all affiliates, processors, contractors, and other third parties with whom the regulated entity has shared consumer health data of the deletion request.
+
+    b. All affiliates, processors, contractors, and other third parties that receive notice of a consumer's deletion request shall honor the consumer's deletion request and delete the consumer health data from its records, subject to the same requirements of this chapter.
+
+    c. If consumer health data that a consumer requests to be deleted is stored on archived or backup systems, then the request for deletion may be delayed to enable restoration of the archived or backup systems and such delay may not exceed six months from authenticating the deletion request.
+
+4. A consumer may exercise the rights set forth in this chapter by submitting a request, at any time, to a regulated entity. Such a request may be made by a secure and reliable means established by the regulated entity and described in its consumer health data privacy policy. The method must take into account the ways in which consumers normally interact with the regulated entity, the need for secure and reliable communication of such requests, and the ability of the regulated entity to authenticate the identity of the consumer making the request. A regulated entity may not require a consumer to create a new account in order to exercise consumer rights pursuant to this chapter but may require a consumer to use an existing account.
+
+5. If a regulated entity is unable to authenticate the request using commercially reasonable efforts, the regulated entity is not required to comply with a request to initiate an action under this section and may request that the consumer provide additional information reasonably necessary to authenticate the consumer and the consumer's request.
+
+6. Information provided in response to a consumer request must be provided by a regulated entity free of charge, up to twice annually per consumer. If requests from a consumer are manifestly unfounded, excessive, or repetitive, the regulated entity may charge the consumer a reasonable fee to cover the administrative costs of complying with the request or decline to act on the request. The regulated entity bears the burden of demonstrating the manifestly unfounded, excessive, or repetitive nature of the request.
+
+7. A regulated entity shall respond to the consumer without undue delay, but in all cases within 45 days of receipt of the request submitted pursuant to the methods described in this section. The response period may be extended once by 45 additional days when reasonably necessary, taking into account the complexity and number of the consumer's requests, so long as the regulated entity informs the consumer of any such extension within the initial 45-day response period, together with the reason for the extension.
+
+8. A regulated entity shall establish a process for a consumer to appeal the regulated entity's refusal to take action on a request within a reasonable period of time after the consumer's receipt of the decision. The appeal process must be conspicuously available and similar to the process for submitting requests to initiate action pursuant to this section. Within 45 days of receipt of an appeal, a regulated entity shall inform the consumer in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, the regulated entity shall also provide the consumer with an online mechanism, if available, or other method through which the consumer may contact the attorney general to submit a complaint.
+
+## Section 7
+1. A regulated entity shall restrict access to consumer health data by the employees, processors, and contractors of such regulated entity to only those employees, processors, and contractors for which access is necessary to further the purposes for which the consumer provided consent or where necessary to provide a product or service that the consumer to whom such consumer health data relates has requested from such regulated entity.
+
+2. A regulated entity shall establish, implement, and maintain administrative, technical, and physical data security practices that, at a minimum, satisfy reasonable standard of care within the regulated entity's industry to protect the confidentiality, integrity, and accessibility of consumer health data appropriate to the volume and nature of the personal data at issue.
+
+## Section 8
+1. [Empty]
+
+    a. A processor may process consumer health data only pursuant to a binding contract between the processor and the regulated entity that sets forth the processing instructions and limit the actions the processor may take with respect to the consumer health data it processes on behalf of the regulated entity.
+
+    b. A processor may process consumer health data only in a manner that is consistent with the binding instructions set forth in the contract with the regulated entity.
+
+2. A processor shall assist the regulated entity by appropriate technical and organizational measures, insofar as this is possible, in fulfilling the regulated entity's obligations under this chapter.
+
+3. If a processor fails to adhere to the regulated entity's instructions or processes consumer health data in a manner that is outside the scope of the processor's contract with the regulated entity, the processor is considered a regulated entity and is subject to all the requirements of this chapter.
+
+## Section 9
+1. It is unlawful for any person to sell or offer to sell consumer health data concerning a consumer without first obtaining valid authorization from the consumer. The sale of consumer health data must be consistent with the valid authorization signed by the consumer.
+
+2. A valid authorization to sell consumer health data is a document consistent with this section and must be written in plain language. The valid authorization to sell consumer health data must contain the following:
+
+    a. The specific consumer health data concerning the consumer that the person intends to sell;
+
+    b. The name and contact information of the person collecting and selling the consumer health data;
+
+    c. The name and contact information of the person purchasing the consumer health data from the seller identified in (b) of this subsection;
+
+    d. A description of the purpose for the sale, including how the consumer health data will be gathered and how it will be used by the purchaser identified in (c) of this subsection when sold;
+
+    e. A statement that the provision of goods or services may not be conditioned on the consumer signing the valid authorization;
+
+    f. A statement that the consumer has a right to revoke the valid authorization at any time and a description on how to submit a revocation of the valid authorization;
+
+    g. A statement that the consumer health data sold pursuant to the valid authorization may be subject to redisclosure by the purchaser and may no longer be protected by this section;
+
+    h. An expiration date for the valid authorization that expires one year from when the consumer signs the valid authorization; and
+
+    i. The signature of the consumer and date.
+
+3. An authorization is not valid if the document has any of the following defects:
+
+    a. The expiration date has passed;
+
+    b. The authorization does not contain all the information required under this section;
+
+    c. The authorization has been revoked by the consumer;
+
+    d. The authorization has been combined with other documents to create a compound authorization; or
+
+    e. The provision of goods or services is conditioned on the consumer signing the authorization.
+
+4. A copy of the signed valid authorization must be provided to the consumer.
+
+5. The seller and purchaser of consumer health data must retain a copy of all valid authorizations for sale of consumer health data for six years from the date of its signature or the date when it was last in effect, whichever is later.
+
+## Section 10
+It is unlawful for any person to implement a geofence to identify, track, collect data from, or send notifications or messages to a consumer that enters any entity that provides in-person health care services.
+
+## Section 11
+The legislature finds that the practices covered by this chapter are matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. A violation of this chapter is not reasonable in relation to the development and preservation of business, and is an unfair or deceptive act in trade or commerce and an unfair method of competition for the purpose of applying the consumer protection act, chapter 19.86 RCW.
+
+## Section 12
+1. This chapter does not apply to:
+
+    a. Information that meets the definition of:
+
+        i. Protected health information for purposes of the federal health insurance portability and accountability act of 1996 and related regulations;
+
+        ii. Health care information collected, used, or disclosed in accordance with chapter 70.02 RCW;
+
+        iii. Patient identifying information collected, used, or disclosed in accordance with 42 C.F.R. Part 2, established pursuant to 42 U.S.C. Sec. 290dd-2;
+
+        iv. Identifiable private information for purposes of the federal policy for the protection of human subjects, 45 C.F.R. Part 46; identifiable private information that is otherwise information collected as part of human subjects research pursuant to the good clinical practice guidelines issued by the international council for harmonization; the protection of human subjects under 21 C.F.R. Parts 50 and 56; or personal data used or shared in research conducted in accordance with one or more of the requirements set forth in this subsection;
+
+    v. Information and documents created specifically for, and collected and maintained by:
+
+(A) A quality improvement committee for purposes of RCW 43.70.510, 70.230.080, or 70.41.200;
+
+(B) A peer review committee for purposes of RCW 4.24.250;
+
+(C) A quality assurance committee for purposes of RCW 74.42.640 or 18.20.390; or
+
+(D) A hospital, as defined in RCW 43.70.056, for reporting of health care-associated infections for purposes of RCW 43.70.056, a notification of an incident for purposes of RCW 70.56.040(5), or reports regarding adverse events for purposes of RCW 70.56.020(2)(b);
+
+    vi. Information and documents created for purposes of the federal health care quality improvement act of 1986, and related regulations;
+
+    vii. Patient safety work product for purposes of 42 C.F.R. Part 3, established pursuant to 42 U.S.C. Sec. 299b-21 through 299b-26;
+
+    viii. Information that is (A) deidentified in accordance with the requirements for deidentification set forth in 45 C.F.R. Part 164, and (B) derived from any of the health care-related information listed in this subsection (1)(a)(viii);
+
+    b. Information originating from, and intermingled to be indistinguishable with, information under (a) of this subsection that is maintained by:
+
+        i. A covered entity or business associate as defined by the health insurance portability and accountability act of 1996 and related regulations;
+
+        ii. A health care facility or health care provider as defined in RCW 70.02.010; or
+
+        iii. A program or a qualified service organization as defined by 42 C.F.R. Part 2, established pursuant to 42 U.S.C. Sec. 290dd-2;
+
+    c. Information used only for public health activities and purposes as described in 45 C.F.R. Sec. 164.512; or
+
+    d. Identifiable data collected, used, or disclosed in accordance with chapter 43.371 RCW.
+
+2. Personal information that is governed by and collected, used, or disclosed pursuant to the following regulations, parts, titles, or acts, is exempt from this chapter: (a) The Gramm-Leach-Bliley act (15 U.S.C. 6801 et seq.) and implementing regulations; (b) part C of Title XI of the social security act (42 U.S.C. 1320d et seq.); (c) the fair credit reporting act (15 U.S.C. 1681 et seq.); (d) the family educational rights and privacy act (20 U.S.C. 1232g; Part 99 of Title 34, C.F.R.); (e) the Washington health benefit exchange and applicable statutes and regulations, including 45 C.F.R. Sec. 155.260 and chapter 43.71 RCW; or (f) privacy rules adopted by the office of the insurance commissioner pursuant to chapter 48.02 or 48.43 RCW.
+
+3. The obligations imposed on regulated entities and processors under this chapter does not restrict a regulated entity's or processor's ability for collection, use, or disclosure of consumer health data to prevent, detect, protect against, or respond to security incidents, identity theft, fraud, harassment, malicious or deceptive activities, or any illegal activity; preserve the integrity or security of systems; or investigate, report, or prosecute those responsible for any such action.
+
+4. If a regulated entity or processor processes consumer health data pursuant to subsection (3) of this section, such entity bears the burden of demonstrating that such processing qualifies for the exemption and complies with the requirements of this section.
+
+## Section 13
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=151182&caId=21312&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=151182&caId=21312&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Maddy Symm - [Cypress Creek Renewables](/org/cypress_creek_renewables/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
+* Glenn Blackmon - Department of Commerce
+* Steve Ewing - Department of Revenue

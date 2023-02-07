@@ -14,17 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150877&caId=21198&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150877&caId=21198&tId=4)
 
-#### 20 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Devony Audet - Parent Advocate
 * Rae-Lynn Barden - Mother of a special education student
+* 💵Diana Stadden - The Arc of WA State
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Shannon Hitch - Lake Washington School District
+* Luckisha Phillips - Washington State School Directors' Association
 
 ### Tue 01/17 04:00 PM - Education (ED): HB 1109 Special education funding
 #### 57 👍 - Pro

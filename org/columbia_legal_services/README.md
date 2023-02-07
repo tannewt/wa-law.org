@@ -59,9 +59,22 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+* 👍💵 Hannah Woerner
+
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 
+## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍1  
+
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+
+## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
+
+## [HB 1727](/bill/2023-24/hb/1727/) - Transaction fees  👎1 
+
+## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession  👎1 
+
+## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders  👎1 
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍1  
 
@@ -92,3 +105,11 @@
 ## [SB 5434](/bill/2023-24/sb/5434/) - Juvenile court jurisdiction 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
+
+## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession  👎1 
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances  👎1 
+
+## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
+
+## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  

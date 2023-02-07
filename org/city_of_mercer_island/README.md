@@ -11,6 +11,12 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+
+## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1
 * ❓💵 Luke Esser
 

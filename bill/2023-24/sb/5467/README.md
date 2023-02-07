@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5467 Controlled sub. possession
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150557&caId=21127&tId=4)
-
-#### 133 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
 * Rick Kuss
 * Amy Ockerlander - Mayor, City of Duvall & Association of Washington Cities
@@ -32,10 +26,15 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Kelly Fordham
 * Jeff Baker
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 174 👎 - Con
+#### 260 👎 - Con
+Testifying:
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Chad Enright - Kitsap County Prosecutors
 * 💵Bob Cooper - WA Association of Drug Courts
+* Judge Kevin Ringus - District & Municipal Court Judges Association
+* Judge Whitney Rivera - District & Municipal Court Judges Association

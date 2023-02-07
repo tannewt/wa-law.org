@@ -15,16 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=4)
 
-#### 12 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Superintendent Patrick Murphy - Superintendent, Olympia School District
 * Dr. Art Jarvis - [Bellevue School District](/org/bellevue_school_district/)
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
 * Dr. Ivan Duran - Superintendent, Highline Public Schools
+* Sherry Rivard-Leon
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Lizzy Sebring - Washington State PTA
 * Jon Holmen - Superintendent, Lake Washington School District

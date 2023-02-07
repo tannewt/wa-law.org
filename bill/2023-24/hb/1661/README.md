@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151015&caId=21259&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151015&caId=21259&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Mark Schuller - City of Cheney Administrator
 * Stacey Roark - WACOPS - Washington Council of Police and Sheriffs
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adam Wasserman - WA State 911 Coordinator; Emergency Management Division

@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Transportation (TR): HB 1485 Roadside safety measures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30651&aId=150692&caId=21293&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30651&aId=150692&caId=21293&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30651&aId=150692&caId=21293&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30651&aId=150692&caId=21293&tId=4)
-
-#### 5 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Cory Wells - TLC Towing
 * Kris Zachary
 * 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
+* Phil Waldner - Fife Towing
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

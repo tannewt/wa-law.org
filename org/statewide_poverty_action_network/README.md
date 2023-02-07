@@ -11,7 +11,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍4  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
@@ -38,7 +38,7 @@
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 * 👍💵 Shaun Scott
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
@@ -50,6 +50,8 @@
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 * 👍💵 Alex Hur
@@ -84,3 +86,9 @@
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  
+
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  

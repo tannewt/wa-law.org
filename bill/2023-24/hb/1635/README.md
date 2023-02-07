@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1635 Police dogs/liability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150987&caId=21207&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150987&caId=21207&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150987&caId=21207&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150987&caId=21207&tId=4)
-
-#### 4 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Dave Hayes - WSNIA-Wa. St. Narcotics Investigators
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jason Nyhus - Washington State Police Canine Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

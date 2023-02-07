@@ -1,6 +1,6 @@
 # Washington Hospitality Association
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
@@ -68,10 +68,16 @@
 ## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍1  
 * 👍💵 Riley Smith
 
-## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍3  
+* 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
 
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Julia Gorton
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+* 👍💵 Samantha Louderback
+
+## [SB 5541](/bill/2023-24/sb/5541/) - Supply chain transparency   ❓1

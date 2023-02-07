@@ -10,7 +10,7 @@
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 * 👍💵 Dan Bertolet
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 * 👍💵 Dan Bertolet
@@ -34,7 +34,18 @@
 
 ## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process 👍1  
 
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
+
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
+* 👍💵 Dan Bertolet
+
+## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
+
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
+
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Dan Bertolet
@@ -56,4 +67,4 @@
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
 
-## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍2  

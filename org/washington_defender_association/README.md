@@ -20,3 +20,6 @@
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 * 👎 Jason Schwarz
+
+## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
+* 👍 Katherine Hurley

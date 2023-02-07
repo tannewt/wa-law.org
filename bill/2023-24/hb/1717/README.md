@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151074&caId=21260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151074&caId=21260&tId=4)
 
-#### 3 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* 💵Lynnette Buffington - Greater Grays Harbor, Inc
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* Gina Stark - [Port of Bellingham](/org/port_of_bellingham/)
+* Jonathan Smith - Yakima County Development Association
+* Brant Mayo - Grant County Economic Development Council
+* Jennifer Baker - Columbia River Economic Development Council
 
 #### 0 👎 - Con
 

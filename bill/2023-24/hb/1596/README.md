@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151148&caId=21314&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151148&caId=21314&tId=4)
 
-#### 0 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Neal Black - Council member, City of Kirkland
 
 #### 0 👎 - Con
 

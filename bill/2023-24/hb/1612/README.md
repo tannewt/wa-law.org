@@ -14,17 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Bob Cooper - Washington Association on Substance misuse and Violence Prevention.
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
+* MD, MPH, FAAP, Cora Breuner - Washington Chapter of the American Academy of Pediatrics
+* Justin Nordhorn - Washington State Liquor and Cannabis Board
+* Lacy Fehrenbach - Washington State Department of Health
 
-#### 4 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Bonny Jo Peterson - Industrial Hemp Association of WA
 * Kristofer Plunkett - Cascadia Hemp Co.
+* Rose Eilts
+* James MacRae - Self - Potential Consumer and ex Substance Abuse Researcher
+* Annabelle Koglin
+* Joshua Rutherford
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Lukas Hunter - Harmony Farms
 * 💵Ezra Eickmeyer - Producers NW
 * Micah Sherman - Washington Sun and Craft Growers Association
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Amber Wise

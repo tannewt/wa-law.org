@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151110&caId=21313&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151110&caId=21313&tId=4)
 
-#### 0 👍 - Pro
+#### 40 👍 - Pro
+Testifying:
+* 💵Betty Buckley - [Washington Independent Telecommunications Association](/org/washington_independent_telecommunications_association/)
+* Rick Vitzthum - Kalama Telephone Company/Tenino Telphone Company
+* Gail Long
 
 #### 0 👎 - Con
 

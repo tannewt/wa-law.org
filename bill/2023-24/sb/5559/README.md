@@ -8,22 +8,29 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Early Learning & K-12 Education (EDU): SB 5559 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150890&caId=21075&tId=4)
-
-#### 33 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * Richard Pope
 * Tracy Kahlo - PAVE
 * Director Liza Rankin - School Board Director, Seattle Public Schools
 * Samantha Fogg - Seattle Council PTSA
+* Janis White
+* 💵Eric Warwick - Former Paraeducator
+* Guy Stephens - Alliance Against Seclusion & Restraint
+* Susan Driscoll - Crisis Prevention Institute
+* Dorian Taylor - Survivor
+* Mina Barahimi Martin - ACLU of Washington
+* Kristina De Vadder - Seattle Special Education PTSA
+* Lee Collyer - Office of Superintendent of Public Instruction (OSPI)
+* 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
+* Ashley Salazar - Parent of a survivor
+* Lizzy Sebring - Washington State PTA
+* Tamika Dean - Parent of survivor
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
 
-#### 2 👎 - Con
+#### 20 👎 - Con
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Kyle Rydell - West valley School District

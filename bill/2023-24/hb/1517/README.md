@@ -14,16 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150945&caId=21250&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150945&caId=21250&tId=4)
 
-#### 147 👍 - Pro
+#### 476 👍 - Pro
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Ian Morrison - NAIOP Washington State
+* Lars Ericksen - Seattle Metropolitan Chamber of Commerce
+* Jesse Simpson - Housing Development Consortium
+* Angela Rozmyn - Natural and Built Environments
+* BILL CLARKE - Amazon
+* Cynthia Stewart - League of Women Voters of WA
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Dave Andersen - Washington Department of Commerce
+* Deputy Mayor Kristina Walker - Tacoma City Council
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
 * 💵Clifford Cawthon - Habitat for Humanity Seattle- King & Kittias
 * Angela Birney - Mayor of the City of Redmond
+* Matthew Gilbert - City of Kent, Community and Economic Development Department

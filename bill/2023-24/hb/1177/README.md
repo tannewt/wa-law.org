@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1177 Indigenous women
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150777&caId=21190&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150777&caId=21190&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150777&caId=21190&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150777&caId=21190&tId=4)
-
-#### 87 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * John Hillman - WA State Attorney General's Office
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1177 Indigenous women
 #### 103 👍 - Pro

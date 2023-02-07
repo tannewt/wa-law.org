@@ -4,6 +4,8 @@
 
 ## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
 
+## [HB 1540](/bill/2023-24/hb/1540/) - Driver training/large veh. 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
 * ❓ Sean Eagan
 * ❓ Sean Eagan

@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5035 Controlled sub. possession
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150556&caId=21126&tId=4)
-
-#### 13 👍 - Pro
+#### 533 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Rod Higgins - Deputy Mayor, City of Spokane Valley
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 59 👎 - Con
+#### 115 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Chad Enright - Kitsap County Prosecutor
 * 💵Bob Cooper - WA Association of Drug Courts
+* Larry Jefferson - Director, Washington State Office of Public Defense

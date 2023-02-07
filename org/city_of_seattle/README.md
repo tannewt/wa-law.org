@@ -58,6 +58,8 @@
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
@@ -70,7 +72,11 @@
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
+
+## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc. 👍1  
 
@@ -113,6 +119,8 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
+
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

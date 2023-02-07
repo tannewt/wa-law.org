@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Health Care & Wellness (HCW): HB 1435 Home care safety net assess.

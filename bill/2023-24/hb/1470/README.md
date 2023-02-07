@@ -14,8 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150707&caId=21208&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150707&caId=21208&tId=4)
 
-#### 18 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* SANDRA RODARTE - Latino Civic Alliance
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
+* MariaJose Cordero - NW Immigrant Rights Project
+* Dr. Bernal C. Baca
+* Molly Matter - Mi Centro and Amend Law
+* 💵Paul Benz - WA Partners for Social Change
+* Manuel Abrego - La Resistencia
+* Maria Leonides Perez - La Resistencia
+* Maru Mora Villalpando - La Resistencia
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jaime Bodden - WSALPHO

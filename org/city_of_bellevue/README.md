@@ -2,12 +2,21 @@
 
 ## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 * 👍 Lacey Jane Wolfe
 
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+* 👍 Councilmember Janice Zahn
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Genesee Adkins

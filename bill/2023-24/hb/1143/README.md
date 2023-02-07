@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=4)
 
-#### 26 👍 - Pro
+#### 506 👍 - Pro
+Testifying:
+* Rheea Delora
 
-#### 21 👎 - Con
+#### 833 👎 - Con
 Testifying:
 * eric pratt - America
 * Tim Smith
@@ -27,8 +29,21 @@ Testifying:
 * Shawn Ellis
 * Julie Barrett - Conservative Ladies of Washington
 * Jon Conley
+* Whitney Kestell
+* Bradley McClinton
+* Markay Neumann
+* Jennifer Moser
+* Lawrence "Cory" McNeal
+* Rebecca McGinnis
+* George Kelley
+* Sean Anderson
+* Cooper Mcauslan
+* Nicholas Proud
+* Mike Wingfield
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Bill Devriend
 
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1143 Firearms/purchase & transfer
 #### 908 👍 - Pro

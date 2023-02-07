@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5484 Food/environmental steward.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150510&caId=21067&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150510&caId=21067&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150510&caId=21067&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30629&aId=150510&caId=21067&tId=4)
-
-#### 7 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Jay Gordon - WA State Dairy Federation
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Alison Halpern - Washington State Conservation Commission
+* Douglas Ray - Carbon Washington
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 2 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

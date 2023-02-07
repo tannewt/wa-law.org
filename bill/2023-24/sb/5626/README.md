@@ -8,16 +8,22 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Early Learning & K-12 Education (EDU): SB 5626 K-12 media literacy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150892&caId=21077&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150892&caId=21077&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150892&caId=21077&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150892&caId=21077&tId=4)
-
-#### 63 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * Lizzy Sebring - Washington State PTA
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
+* John Caputo
+* Constance Pappas
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Gavin Downing
+* Jordan Rodell - Computer and Communications Industry Association
+* Kristi Bonds
+* Jen Ligot - Action for Media Education and Washington STate Council for the Social Studies
+* Mary Berger - Action for Media Education
+* Shawn Sheller - Action for Media Education
 
-#### 2 👎 - Con
+#### 25 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Amy Yaeger

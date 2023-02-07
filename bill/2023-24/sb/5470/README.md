@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150469&caId=21087&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150469&caId=21087&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Faisa Farole
+* Emily Ager
 
 #### 3 👎 - Con
 Testifying:
@@ -22,4 +25,11 @@ Testifying:
 * Eugene Curry
 * Sharon Sullivan
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Camie Goldhammer - Hummingbird Indigenous Family Services, Indigenous Lactation Counselor
+* Ellie Mulpeter - Academy of Lactation Policy and Practice
+* Eugene Curry
+* Whitney Boyle
+* Kate Majestic
+* Stephanie Peñalver

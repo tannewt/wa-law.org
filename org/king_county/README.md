@@ -14,6 +14,8 @@
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 
 ## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍1  
@@ -37,7 +39,7 @@
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
@@ -100,6 +102,8 @@
 
 ## [HB 1352](/bill/2023-24/hb/1352/) - County invest. pools/tribes 👍2  
 
+## [HB 1355](/bill/2023-24/hb/1355/) - Updating property tax exemptions for service-connected disabled veterans and senior citizens. 👍1  
+
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍1  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
@@ -126,15 +130,19 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
-## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍2  
+## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍3  
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+
+## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍1  
 
@@ -145,6 +153,8 @@
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 * 👍 Kelly Rider
 
+## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
+
 ## [HB 1531](/bill/2023-24/hb/1531/) - Aerospace industry dev. 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
@@ -154,6 +164,11 @@
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
+
+## [HB 1560](/bill/2023-24/hb/1560/) - Property tax exemptions 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+* 👍 Sunaree Marshall
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
@@ -174,7 +189,7 @@
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
@@ -259,6 +274,8 @@
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
+## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
+
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1  
@@ -296,6 +313,8 @@
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
+
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍2  
@@ -303,4 +322,10 @@
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍2  
 * 👍💵 Michael White
 
+## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
+
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
+
+## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
+
+## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  

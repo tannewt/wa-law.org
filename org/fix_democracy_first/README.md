@@ -56,6 +56,8 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
 
+## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍1  
+
 ## [HB 1677](/bill/2023-24/hb/1677/) - Campaign finance disclosure 👍1  
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  

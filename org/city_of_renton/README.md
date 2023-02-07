@@ -7,4 +7,6 @@
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
+
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  

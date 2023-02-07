@@ -4,7 +4,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
@@ -17,6 +17,8 @@
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 * 👍💵 Emily Brice
+
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 
@@ -32,3 +34,5 @@
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 * 👍💵 Emily Brice
+
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  

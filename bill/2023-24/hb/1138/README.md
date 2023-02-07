@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): HB 1138 Drought preparedness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150776&caId=21189&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150776&caId=21189&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150776&caId=21189&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150776&caId=21189&tId=4)
-
-#### 4 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Dave Christensen - Department of Ecology
 
 #### 0 👎 - Con
 

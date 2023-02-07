@@ -31,7 +31,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 * 👍💵 Julie Salvi
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -51,7 +51,7 @@
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
@@ -65,7 +65,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
 
@@ -87,9 +87,11 @@
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
 
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 * 👍 Roni Cook
@@ -113,6 +115,9 @@
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
 * 👍💵 Julie Salvi
 
+## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants  👎1 
+* 👎💵 Simone Boe
+
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
@@ -124,6 +129,8 @@
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities   ❓1
 * ❓ Jared Mason-Gere
+
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍1  
 
@@ -158,6 +165,9 @@
 
 ## [HB 1430](/bill/2023-24/hb/1430/) - DCYF-caregiver communication 👍1  
 
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+* 👍💵 Julie Salvi
+
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍1  
 
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI 👍1  
@@ -178,6 +188,9 @@
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
+## [HB 1516](/bill/2023-24/hb/1516/) - Lunar new year 👍1  
+* 👍💵 Julie Salvi
+
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties 👍1  
 
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs.  👎1 ❓1
@@ -196,11 +209,34 @@
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍💵 Simone Boe
 
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
+* 👍💵 Nasue Nishida
+
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
 ## [HB 1615](/bill/2023-24/hb/1615/) - Education savings accounts  👎1 
 
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+
 ## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
+
+## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
+
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
+
+## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
+
+## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
+
+## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
+* 👍💵 Julie Salvi
+
+## [HB 1744](/bill/2023-24/hb/1744/) - Clarifying the responsibilities and accountability for the effective delivery and oversight of public education services to charter school students. 👍1  
+* 👍💵 Julie Salvi
+
+## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities. 👍1  
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
@@ -259,7 +295,7 @@
 
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
 
-## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
@@ -321,10 +357,15 @@
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
+## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment  👎1 
+* 👎💵 Julie Salvi
+
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
 
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
 * 👍💵 Nasue Nishida
+
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
@@ -337,5 +378,40 @@
 
 ## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍1  
 
+## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
+
+## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
+
+## [SB 5541](/bill/2023-24/sb/5541/) - Supply chain transparency 👍1  
+
+## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
+
+## [SB 5557](/bill/2023-24/sb/5557/) - Part-time faculty pay 👍1  
+* 👍💵 Simone Boe
+
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
+
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+
+## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
+
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+
+## [SB 5631](/bill/2023-24/sb/5631/) - DACA/state agency acceptance 👍1  
+
+## [SB 5632](/bill/2023-24/sb/5632/) - Labor disputes/health care 👍1  
+
+## [SB 5655](/bill/2023-24/sb/5655/) - WA achievers grant program 👍1  
+
+## [SB 5662](/bill/2023-24/sb/5662/) - Cannabis employees 👍1  
+
+## [SB 5666](/bill/2023-24/sb/5666/) - CTC student housing pilot 👍1  
+
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  

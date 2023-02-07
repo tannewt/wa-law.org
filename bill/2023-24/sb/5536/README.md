@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5536 Controlled substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150558&caId=21128&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150558&caId=21128&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150558&caId=21128&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150558&caId=21128&tId=4)
-
-#### 58 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Breean Beggs - Spokane City Council President
 * Amy Ockerlander - Mayor, City of Duvall & Association of Washington Cities
@@ -29,11 +23,30 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mayor Sean Kelly - [City of Maple Valley](/org/city_of_maple_valley/)
 * Barbara Tolbert - Mayor, City of Arlington
+* Jeffrey Beazizo - Police Chief, City of Lake Stevens
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Jon Nehring - Mayor, City of Marysville
+* Celia Jackson - Office of King County Exec
+* Mayor Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
 
-#### 666 👎 - Con
+#### 835 👎 - Con
+Testifying:
+* Lauren Feringa
+* Don Julian
+* Malika Lamont - VOCAL-WA
+* Adam Palayew
+* Everett Maroon - Blue Mountain Heart to Heart
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle & Tacoma
 
-#### 5 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Lisa Daugaard - Public Defender Association
 * Chad Enright - Kitsap County Prosecutors
 * 💵Bob Cooper - WA Association of Drug Courts
+* Matt McCourt - Washington State Narcotics Investigators Association
+* Judge Kevin Ringus - District & Municipal Court Judges Association
+* Judge Whitney Rivera - District & Municipal Court Judges Association
+* Jason Schwarz - WA Defender Assn/WA Assn of Criminal Defense Lawyers
+* Larry Jefferson - Office of Public Defense
+* Sarah Hudson - WA Defender Assn/WA Assn of Criminal Defense Lawyers
+* David Larson - Federal Way Municipal Court

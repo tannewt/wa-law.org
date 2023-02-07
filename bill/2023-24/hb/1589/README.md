@@ -8,23 +8,22 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Environment & Energy (ENVI): HB 1589 Clean energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30685&aId=150842&caId=21227&tId=4)
-
-#### 7 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Mendy Droke - Seattle City Light
 * Sam Hem - NWRC SMART Local 66
 * Ken Johnson - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Jim Lazar - Regulatory Assistance Project
+* 💵Matthew Hepner - Certified electrical workers of Washington
+* 💵Donny Donovan - IAM 751
+* Jay Arnold - [City of Kirkland](/org/city_of_kirkland/)
 
-#### 2 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Sommer Moser - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
 
-#### 6 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * john Worthington
 * Anna Lising - Governor's Office
@@ -32,6 +31,11 @@ Testifying:
 * 💵Jennifer Ziegler - National Construction Alliance
 * 💵Zosia Stanley - Washington State Hospital Association
 * 💵Kurt Swanson - Washington State Association Plumbers and Pipefitters
+* Charlie Brown - NW Natural and Cascade Natural Gas
+* 💵Christine Reid - IBEW 77
+* Lauren McCloy - NW Energy Coalition
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
+* 💵John Rothlin - Avista
 
 ### Tue 01/31 04:00 PM - Environment & Energy (ENVI): HB 1589 Clean energy
 #### 0 👍 - Pro

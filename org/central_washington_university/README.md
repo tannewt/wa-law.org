@@ -11,4 +11,6 @@
 
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
 
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
+
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  

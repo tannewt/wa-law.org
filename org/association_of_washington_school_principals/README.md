@@ -20,6 +20,8 @@
 
 ## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍1  
 
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
+
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
@@ -28,7 +30,12 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
 
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
+* 👍💵 Roz Thompson
+
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
 * 👍💵 Roz Thompson
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  

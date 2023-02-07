@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* 💵Shaun Scott
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

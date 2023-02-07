@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=4)
 
-#### 198 👍 - Pro
+#### 529 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
@@ -31,8 +31,15 @@ Testifying:
 * Scott Livengood - Alpha Supported Living Services
 * 💵Stacy Dym - The Arc of Washington State
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
+* Kelli Curtis - Council member,  City of Kirkland
+* Corey Cabrera - Vancouver Housing Authority
+* Sunaree Marshall - [King County](/org/king_county/)
+* Councilmember Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
+* Mayor Mason Thompson
+* 💵Brian Enslow - [City of Vancouver](/org/city_of_vancouver/)
+* Deputy Mayor Melanie O'Cain - [City of Kenmore](/org/city_of_kenmore/)
 
-#### 309 👎 - Con
+#### 713 👎 - Con
 Testifying:
 * 💵Greg Hanon - NAIOP
 * Travis Hale
@@ -41,5 +48,18 @@ Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Marty Goodman
 * Kevin Wallace - Wallace Properties, Inc.
+* Patrick Foley
+* Larry Crosby
+* Tina Christiansen - Palladium Real Estate Services
+* William Shadbolt - WA Business Properties Assn
+* carl haglund - columbia modern living
+* Rod Kauffman - Building Owners and Managers Association
+* Jeremy Millard
+* McKenzie Darr - NAIOP WA
+* Kari Magill - Rowley Properties, Inc.
+* GORDON HAGGERTY
+* Candice Chevalier - WA State Commercial Association of Realtors & Washington Realtors
+* Constance Nelson
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

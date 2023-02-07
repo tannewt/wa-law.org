@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150570&caId=21133&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150570&caId=21133&tId=4)
 
-#### 8 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Marissa Perez - The Yarrow Project
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Tribal Council Esther Moses-Hyipeer - Confederated Tribes and Bands of the Yakama Nation
 
 #### 0 👎 - Con
 

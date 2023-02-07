@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SB 5104 Marine shoreline habitat
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151054&caId=21168&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151054&caId=21168&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151054&caId=21168&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151054&caId=21168&tId=4)
-
-#### 200 👍 - Pro
+#### 372 👍 - Pro
 Testifying:
 * 💵Bruce Wishart - [Sound Action](/org/sound_action/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

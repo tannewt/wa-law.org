@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/18 08:00 AM - Environment, Energy & Technology (ENET): SB 5154 Solid waste management

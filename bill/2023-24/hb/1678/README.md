@@ -14,11 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=4)
 
-#### 70 👍 - Pro
+#### 351 👍 - Pro
 Testifying:
 * Andrew Guillen - Seattle Indian Health Board
 * Sarah Vander Beek - NeighborCare
+* Sarah Chagnon - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
+* Dr. Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 
-#### 141 👎 - Con
+#### 311 👎 - Con
+Testifying:
+* 💵Trent House - Washington State Dental Association
+* Dr. Mark Koday - Washington State Dental Association
+* Dr. Aimi Mituwani - Washington State Dental Association
+* Dr. Brittany Dean - Washington State Dental Association
+* Dr. Amy Winston - Washington State Dental Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Wilbur - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)

@@ -8,19 +8,20 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Early Learning & K-12 Education (EDU): SB 5593 Student data transfer
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150891&caId=21076&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150891&caId=21076&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150891&caId=21076&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30694&aId=150891&caId=21076&tId=4)
-
-#### 10 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Jenee Myers Twitchell - Washington STEM
 * David Buri - Eastern Washington University
 * 💵Nora Selander - Western Washington University
 * Bill Lyne - United Faculty of Washington State
+* Jacob Vigdor - University of Washington Faculty
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* Jeff Charbonneau - Zillah High School / Zillah School District
+* Samuel Ligon - Eastern Washington University Faculty
+* Christine McMullin - SBCTC
+* Jenee Myers Twitchell - Washington STEM
 
-#### 2 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,19 +8,23 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Labor & Commerce (LC): SB 5365 Vapor and tobacco/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150604&caId=21112&tId=4)
-
-#### 33 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Mike Graham-Squire - Washington Association for Substance-misuse and Violence Prevention WASAVP
 * Carrie Nyssen - American Lung Association
 * Crystal Shen - WA Chapter of the American Academy of Pediatrics
 * Carol Coram - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Brittany Grant - [Campaign for Tobacco Free Kids](/org/campaign_for_tobacco_free_kids/)
+* Phillip Gardiner - African American Tobacco Control Leadership Council
+* Elaine Ishihara - Healthy King County Coalition - Tobacco Marijuana & Other Drug Workgroup (TMOD)
+* Rahul Sharma - LYAC
+* Ben Yisrael - Healthy King County Coalition
+* Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board

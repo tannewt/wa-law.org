@@ -1,5 +1,7 @@
 # Washington Conservation Action
 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
@@ -7,7 +9,9 @@
 
 ## [HB 1166](/bill/2023-24/hb/1166/) - Water quality trading prog.  👎1 
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
+
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 * 👍💵 Darcy Nonemacher
@@ -22,7 +26,10 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
+* 👍 Mindy Roberts
+
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
 

@@ -14,10 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150567&caId=21131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150567&caId=21131&tId=4)
 
-#### 2 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* Kyra Abrahamson - Washington Trafficking Prevention
+* Maria Lopez - Community Outreach Coordinator, Yakima Valley Conference of Governments
+* Nora Flemming de Sandoval - Safe Streets
+* Linda Thompson - Greater Spokane Substance Abuse Council (GSSAC) & WASAVP
+* Vicki Baker - Deputy Director, Yakima Valley Conference of Governments
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Cheifs
+* Stacey Okland - Okanogan County Community Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kate Kelly - Department of Commerce, Office of Firearm Safety and Violence Prevention

@@ -27,7 +27,7 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1
 * ❓ Josh McDonald
 
-## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
+## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍2  
 * 👍 Josh McDonald
 
 ## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍2  

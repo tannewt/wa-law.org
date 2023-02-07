@@ -14,11 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150846&caId=21229&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150846&caId=21229&tId=4)
 
-#### 4 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Bill Stauffiger - [Alaska Airlines](/org/alaska_airlines/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* darrin morgan - SkyNRG
+* eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Donny Donovan - IAM 751
 
-#### 0 👎 - Con
+#### 103 👎 - Con
+Testifying:
+* Rob Briggs
+* Brandon Bowersox-Johnson
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Laurie Layne
+* Joel Creswell - Washington Department of Ecology
+* Kevin Jones
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
 ### Thu 02/02 08:00 AM - Environment & Energy (ENVI): HB 1505 Alternative jet fuel
 #### 1 👍 - Pro

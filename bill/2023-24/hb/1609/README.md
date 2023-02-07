@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150629&caId=21221&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150629&caId=21221&tId=4)
 
-#### 67 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Sarah Logan - [Washington Library Association](/org/washington_library_association/)
 * Eryn Duffee - [Washington Library Association](/org/washington_library_association/)
+* Gavin Downing
+* Anna Hernandez-French - OSPI
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

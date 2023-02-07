@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150754&caId=21265&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150754&caId=21265&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 #### 0 👎 - Con
 

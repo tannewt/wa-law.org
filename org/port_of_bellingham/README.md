@@ -5,4 +5,7 @@
 
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+* 👍 Gina Stark
+
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  

@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SB 5277 Dairy, etc. tax preferences
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151050&caId=21164&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151050&caId=21164&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151050&caId=21164&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151050&caId=21164&tId=4)
-
-#### 5 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Craig Smith - [Food Northwest](/org/food_northwest/)
 * Beau Hickman - Figgins Family Wine Estates
 * Ryan Pennington - Ste Michelle Wine Estates
+* 💵David Ward - [Darigold](/org/darigold/)
 
 #### 0 👎 - Con
 

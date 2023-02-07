@@ -20,4 +20,8 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Janice Zahn - Capital Projects Advisory Review Board
+* William Frare - Washington State Department of Enterprise Services
+* 💵Sophia Steele - Associated Builders and Contractors

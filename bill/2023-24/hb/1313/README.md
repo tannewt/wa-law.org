@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/27 08:00 AM - Health Care & Wellness (HCW): HB 1313 Health care afford./medicare

@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30659&aId=150691&caId=21111&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30659&aId=150691&caId=21111&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Gina Finley
 * Jill McKnight
 * Robert Wilson-Hoss - Turning Pointe
 * Theresa camacho - Turning Pointe Survivor Advocacy Center
 * Shelly Willis - Family Education and Support Services Regional Resilience Center
+* SUSAN CARDONA - Turning Pointe Survivor Advocacy Center
 
 #### 0 👎 - Con
 

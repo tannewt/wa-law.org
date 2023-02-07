@@ -9,8 +9,10 @@
 ## [HB 1420](/bill/2023-24/hb/1420/) - Lien priority/mortgages 👍1  
 * 👍 Brad Tower
 
-## [HB 1557](/bill/2023-24/hb/1557/) - Digital processing services 👍1  
+## [HB 1557](/bill/2023-24/hb/1557/) - Digital processing services 👍2  
 * 👍 Brad Tower
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
 

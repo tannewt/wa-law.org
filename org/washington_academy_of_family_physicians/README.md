@@ -12,6 +12,8 @@
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 
-## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement  👎1 
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  

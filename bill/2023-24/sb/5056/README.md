@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150571&caId=21134&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150571&caId=21134&tId=4)
 
-#### 5 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Jessica Laughery - Hutton Settlement
 
-#### 0 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Brian Flaherty - King County Department of Public Defense
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other

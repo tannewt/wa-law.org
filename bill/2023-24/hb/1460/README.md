@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150870&caId=21201&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150870&caId=21201&tId=4)
 
-#### 8 👍 - Pro
+#### 257 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tom Lannen - Skamania County Commissioners
 
 #### 0 ❓ - Other

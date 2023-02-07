@@ -8,23 +8,24 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Education (ED): HB 1308 Graduation pathway options
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30643&aId=150625&caId=21217&tId=4)
-
-#### 76 👍 - Pro
+#### 394 👍 - Pro
 Testifying:
 * Randy Spaulding - Washington State Board of Education
 * Michelle Nims - Washington State PTA
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Amy Brackenbury - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Nick Massie - SW WA Contractors Assoc. / Rotschy Inc.
 * John Parker - [Central Valley School District](/org/central_valley_school_district/)
 * Brian Mathieson - Vancouver School District
+* Jim Kowalkowski - Rural Education Center
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Jen Rose - Lake Washington School District
 * Andy Cilley - Lakewood CARES
 * Kim Reykdal - Office of Superintendent of Public Instruction (OSPI)
+* Logan Endres - Washington State School Directors' Association (WSSDA)

@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=4)
 
-#### 1 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Nancy Cruz - Community For Our Colleges
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

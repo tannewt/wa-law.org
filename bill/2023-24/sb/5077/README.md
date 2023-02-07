@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Law & Justice (LAW): SB 5077 Uniform commercial code

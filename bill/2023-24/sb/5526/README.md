@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=4)
 
-#### 1 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* Joann Roderiques -lemon
+* Dora Poqui
 
 #### 0 👎 - Con
 

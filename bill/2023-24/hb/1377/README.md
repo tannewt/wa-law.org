@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150631&caId=21223&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150631&caId=21223&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Zackary Turner
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Anna Hernandez-French - OSPI
 
 ### Thu 02/02 08:00 AM - Education (ED): HB 1377 Continuing education/K-12
 #### 0 👍 - Pro

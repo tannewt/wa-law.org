@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150878&caId=21089&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150878&caId=21089&tId=4)
 
-#### 3 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * 💵Megan Veith - [Building Changes](/org/building_changes/)
+* 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dr. Charissa Fotinos - Health Care Authority (HCA)

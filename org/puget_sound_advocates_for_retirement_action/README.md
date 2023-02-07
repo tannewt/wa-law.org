@@ -6,7 +6,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
@@ -17,6 +17,8 @@
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -42,3 +44,5 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
+
+## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  

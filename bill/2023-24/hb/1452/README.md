@@ -9,13 +9,9 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1452 Medical reserve corps
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150779&caId=21192&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150779&caId=21192&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150779&caId=21192&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150779&caId=21192&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Nicole Thomsen - Snohomish County Health Department
 
 #### 0 👎 - Con
 

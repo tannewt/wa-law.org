@@ -14,11 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30681&aId=150817&caId=21072&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30681&aId=150817&caId=21072&tId=4)
 
-#### 92 👍 - Pro
+#### 200 👍 - Pro
 Testifying:
 * Rocio Reyes - Emerald Downs
 * Boone McCanna - Down The Stretch Ranch
+* 💵Dennis Eagle - WA Federation of State Employees
+* Bret Christopherson
+* McKenna Anderson
+* Marie Brady
+* Mary Lou Griffin
+* Doug Moore - Washington Horse Racing Commission
+* Mike Lydon - Dayton Days
+* MaryAnn O'Connell - WA Horsemen's Benevolent & Protective Assn
+* Pat LePley - WA Horsemen's Benevolent & Protective Assn
+* 💵Sara Stewart - Evergreen Equestrian Club
 
-#### 4 👎 - Con
+#### 28 👎 - Con
+Testifying:
+* Lauro Bernal
 
 #### 0 ❓ - Other

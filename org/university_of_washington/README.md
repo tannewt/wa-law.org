@@ -5,6 +5,8 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
 
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎1 
+
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍2  
@@ -32,6 +34,8 @@
 ## [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
 * 👍 Beatriz Carlini
 
+## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery  👎1 
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
@@ -55,4 +59,10 @@
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
 * 👍 Bettina Shell-Duncan
 
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
+
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎1 

@@ -14,10 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150930&caId=21157&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150930&caId=21157&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Jeff Pack - Me
+* Caleb Suttle - Teamsters
+* Robert Driskell - Teamsters
+* Russell Shjerven - Teamsters
+* Kenneth price - ATU 587 President
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Charles Prestrud - Washington Policy Center
+* 💵Michael Shaw - Washington State Transit Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joe Kunzler - None

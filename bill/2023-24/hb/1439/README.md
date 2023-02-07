@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=4)
 
-#### 13 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * David Martin - KCPAO
 * Amy Gallardo
 * Karen Sinclair
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Heather Risser - Northwestern University
+* Suzi Fode - Kids Hope
+* PAULA REED - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Professor Jeffrey Edleson - Only on behalf of my expertise, four decades studying domestic violence and its impact on children
+* Stephanie Trollen - King County Prosecuting Attorney
+* Elyne Vaught
 
 #### 0 👎 - Con
 

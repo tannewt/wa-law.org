@@ -8,14 +8,11 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1696 Stalking-related offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150706&caId=21206&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150706&caId=21206&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150706&caId=21206&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30660&aId=150706&caId=21206&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* Taffy Hunter - Spokane Regional Domestic Violence Coalition
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

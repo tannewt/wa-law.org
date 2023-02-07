@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=151189&caId=21342&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=151189&caId=21342&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tom McBride - WDFW
+* 💵Kaylee Galloway
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Mindy Roberts - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 1 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

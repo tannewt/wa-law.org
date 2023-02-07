@@ -9,19 +9,17 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SSB 5199 Newspaper publishers/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151051&caId=21165&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151051&caId=21165&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151051&caId=21165&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151051&caId=21165&tId=4)
-
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Attorney General's Office
+* JC Harris
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ian Doyle - Department of Revenue
 
 ### Thu 01/12 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5199 Newspaper publishers/tax
 #### 0 👍 - Pro

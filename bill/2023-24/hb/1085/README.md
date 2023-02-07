@@ -9,15 +9,13 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1085 Plastic pollution
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150873&caId=21193&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150873&caId=21193&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150873&caId=21193&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150873&caId=21193&tId=4)
+#### 275 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Ezra Eickmeyer - Terramer Inc
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 93 👍 - Pro
-
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * john Worthington
 

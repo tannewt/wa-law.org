@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150643&caId=21232&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150643&caId=21232&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* John Wilson - Office of Assessments/King County Assessor John Wilson
+* 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
+* Peter Van Nortwick - Washington Assoc of County Assessors/Clark County
 
 #### 0 👎 - Con
 

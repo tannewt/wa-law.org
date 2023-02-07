@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150861&caId=21256&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150861&caId=21256&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Shaquita Bell
+* CS Wright
+* Gregory Luce - Adoptee Rights Law Center PLLC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

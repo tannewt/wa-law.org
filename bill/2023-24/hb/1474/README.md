@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Housing (HOUS): HB 1474 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30705&aId=150943&caId=21249&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30705&aId=150943&caId=21249&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30705&aId=150943&caId=21249&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30705&aId=150943&caId=21249&tId=4)
-
-#### 420 👍 - Pro
+#### 836 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
 * Denny Heck - Lieutenant Governor
@@ -36,12 +30,29 @@ Testifying:
 * Logan Camporeale
 * James Gregory
 * 💵Hyeeun Park - BIPOC ED Coalition
+* Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Cierra Ozolin
+* LeChelle Lucas
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 * Cheryl O'Brien
 * Eddie Chang
 * Cheryl O'Brien
 * Eddie Chang
 * 💵Nathan Gorton - Washington REALTORS
+* Michone Preston - Habitat for Humanity of Washington State CEO
+* DENISE Rodriguez - Washington Homeownership Resource Center
+* 💵Anna Boone - Zillow Group
+* John Smith
+* Evelin Martinez - Washington Homeownership Resource Center
+* Tonja Wortham - Mortgage Industry
+* Norma Martinez-Olivera
+* Michael Dotson - Banner Bank
+* George Davenport - Nehemiah Initiative
+* Jesse Simpson
 
-#### 3 👎 - Con
+#### 41 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)
+* Ann Campbell - Washington State Department of Commerce

@@ -17,6 +17,10 @@
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 * 👍 MIKE O'BRIEN
 
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+
+## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
+
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
@@ -32,7 +36,7 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎2 
 * 👎💵 Bruce Wishart
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 

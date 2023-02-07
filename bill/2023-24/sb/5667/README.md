@@ -14,7 +14,64 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30537&aId=151045&caId=21071&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30537&aId=151045&caId=21071&tId=4)
 
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Gene Jones
+* Sally Bronow
+* Glenn Beach
+* Christine Mallon - Private forest owner
+* Terry Messerall
+* Steven Nelson - Private forestland owner
+* Craig Landes
+* Brian LeTourneau - Washington Fa
+* Dan Kingsbury - Five Springs Tree Farm
+* Dave O'Brien
+* Lou Jean Clark
+* Remington Becker
+* Betty Sue Morris
+* Joseph Hunt
+* Brendan VanderVelde
+* Glorya Sabin - gloryworks
+* James Murphy
+* patti gwerder
+* Debbie Levanen
+* Tevis Laspa
+* Ann Stinson
+* Ed Westergreen
+* Charles Lorenz
+* Margaret Steed
+* Barbara Videtich
+* Andrew Phillipson - WFFA
+* Russell Prior - Retired
+* Steve Eshom
+* Alan Merriam
+* David Townsend
+* Deborah Buse
+* 💵Bob Guenther - self
+* Michelle Morgan
+* Paula Hopkins
+* Richard Hopkins
+* Derrick Taylor
+* Michael Lentz
+* Michael Lentz
+* Mike Daly
+* Ken Stremler - No
+* John Gorman
+* Paul Grabski
+* Shirley Rheault
+* Jerry Rheault
+* Sandra Revesz
+* Tom Atkins
+* Wm Stewart
+* Lawson Starnes
+* Michael Jackson
+* Larry Blackledge
+* Julia Blackledge
+* Mark Biser
+* Harold Weaver
+* DAVID COX
+* Harry Bell - Bell Forestry
+* Harry Bell
 
 #### 0 👎 - Con
 

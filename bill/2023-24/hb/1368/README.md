@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150847&caId=21230&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150847&caId=21230&tId=4)
 
-#### 17 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Devon Kellogg - Washington State PTA
+* Carrie Nyssen - American Lung Association
+* Dave Arbaugh - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
+* César García - Lake City Collective
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Shivani Sama
 * Siri Bliesner
+* Amy Cast - Washington State School Directors' Association
+* Zachary Miller - Washington State School Directors' Association (WSSDA)
+* Joel Creswell - Washington Department of Ecology

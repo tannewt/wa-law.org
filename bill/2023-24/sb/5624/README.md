@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5624 Substance use recovery serv.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150942&caId=21129&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150942&caId=21129&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150942&caId=21129&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=150942&caId=21129&tId=4)
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con
@@ -21,22 +15,25 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5624 Substance use recovery serv.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30632&aId=151192&caId=21323&tId=4)
-
-#### 677 👍 - Pro
+#### 892 👍 - Pro
 Testifying:
 * Heather Kelly - League of Women Voters of Washington
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * Caleb Banta-Green - University of Washington, Addictions, Drug & Alcohol Institute
+* Don Julian
+* Malika Lamont - VOCAL-WA
+* Adam Palayew
+* Everett Maroon - Blue Mountain Heart to Heart
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle & Tacoma
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* Joshua Wallace - Peer Washington
 
-#### 4 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 6 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Chad Enright - Kitsap County Prosecutor
+* Judge Kevin Ringus - District & Municipal Court Judges Association
+* Judge Whitney Rivera - District & Municipal Court Judges Association

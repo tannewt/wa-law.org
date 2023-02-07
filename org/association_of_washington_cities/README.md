@@ -116,6 +116,9 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
+## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
+* 👍💵 Carl Schroeder
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
@@ -214,6 +217,9 @@
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 * 👍💵 Carl Schroeder
+
+## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
+* 👎💵 Candice Bock
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍💵 Candice Bock

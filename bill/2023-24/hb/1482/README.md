@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150645&caId=21234&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150645&caId=21234&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Peter Van Nortwick - WSACA/Clark
 
 #### 1 ❓ - Other
 Testifying:

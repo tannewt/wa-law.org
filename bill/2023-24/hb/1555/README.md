@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150710&caId=21211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150710&caId=21211&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Chief Mike Lasnier - The Suquamish Tribe
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Earl Cowan - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
+* Margaret Finkbonner - Swinomish Indian Tribal Communication
+* Melissa Simonsen - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 
 #### 0 👎 - Con
 

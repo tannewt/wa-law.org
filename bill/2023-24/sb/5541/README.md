@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Labor & Commerce (LC): SB 5541 Supply chain transparency
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150606&caId=21113&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150606&caId=21113&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150606&caId=21113&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30638&aId=150606&caId=21113&tId=4)
-
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Rani Hong
+* Debra Fisher
 
-#### 2 👎 - Con
+#### 20 👎 - Con
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Rose Gundersen
+* Bob Battles - Association of Washington Business (AWB)
+* Charlie Brown - Consumer Technology Association

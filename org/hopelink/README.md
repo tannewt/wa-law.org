@@ -21,13 +21,25 @@
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 * 👍 Donna O'Connor
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
+## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
+## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

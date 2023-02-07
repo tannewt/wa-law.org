@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150709&caId=21210&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150709&caId=21210&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Kam Sihota - Kam-Way Transportation & Dedicated
+* Marissa Perez - The Yarrow Project
+* Charlene Tillequots - [Confederated Tribes & Bands of the Yakama Nation](/org/confederated_tribes_&_bands_of_the_yakama_nation/)
 
 #### 0 👎 - Con
 

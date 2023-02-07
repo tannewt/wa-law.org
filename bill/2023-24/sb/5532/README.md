@@ -14,7 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150472&caId=21093&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150472&caId=21093&tId=4)
 
-#### 28 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Commissioner LaDon Linde - Yakima County Commissioner
+* Dr. Raul Garcia - Astria Toppenish Hospital
+* Dr. Rex Quaempts - Medical Director, Yakima Indian Health Services
+* Cathy Bambrick - Astria Toppenish Hospital, Administrator
+* Eric Jensen - [Astria Health](/org/astria_health/)
+* Roman Daniels-Brown - Astria Toppenish Hospital
 
 #### 0 👎 - Con
 

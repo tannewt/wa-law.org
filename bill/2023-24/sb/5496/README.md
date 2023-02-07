@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=4)
 
-#### 323 👍 - Pro
+#### 727 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
 * Amanda Sandoval - United Way of King County
@@ -28,8 +28,14 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James Gregory
 * Darryl Smith - HomeSight
+* 💵Anna Boone - Zillow Group
+* DENISE Rodriguez - Washington Homeownership Resource Center
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Kiara Daniels - Tacoma City Council
+* 💵Hyeeun Park - BIPOC ED Coalition
+* George Davenport - Nehemiah Initiative
 
-#### 209 👎 - Con
+#### 314 👎 - Con
 Testifying:
 * Kathleen Fitzpatrick
 * Ellen Dimbat

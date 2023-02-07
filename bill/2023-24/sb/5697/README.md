@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=4)
 
-#### 15 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Stacey Valenzuela
+* Kyle Lucas - Tenants United at Legacy Western Plaza MHP
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Deb Wilson
 
-#### 0 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* Christina Mays - Detente Management, Inc
+* Jeremy Millard
 
 #### 0 ❓ - Other

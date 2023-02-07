@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150984&caId=21184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150984&caId=21184&tId=4)
 
-#### 2 👍 - Pro
+#### 86 👍 - Pro
 
-#### 83 👎 - Con
+#### 725 👎 - Con
 Testifying:
 * David Linn
 * Lorna Smith
+* Ruth Musgrave - Office of the Governor
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other

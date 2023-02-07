@@ -9,21 +9,17 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1047 Cosmetic product chemicals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150775&caId=21188&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150775&caId=21188&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150775&caId=21188&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150775&caId=21188&tId=4)
-
-#### 15 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * 💵Nick Federici - Toxic Free Future
+* Ashley Evans - Hazardous Waste Management Program
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Nora Palattao Burnes
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/09 01:30 PM - Environment & Energy (ENVI): HB 1047 Cosmetic product chemicals
 #### 0 👍 - Pro

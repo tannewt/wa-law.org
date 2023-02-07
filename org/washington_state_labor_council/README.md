@@ -14,3 +14,6 @@
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Sybill Hyppolite
+
+## [SB 5632](/bill/2023-24/sb/5632/) - Labor disputes/health care 👍1  
+* 👍 april sims

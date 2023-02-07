@@ -19,6 +19,8 @@
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 * 👍 Mayor Victoria Woodards
 
+## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
+
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 * 👍 Mayor, Victoria Woodards
 
@@ -30,7 +32,7 @@
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1
 * ❓💵 Briahna Murray
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -56,3 +58,8 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 * 👍 Deputy  Mayor, Kristina Walker
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+* 👍 Mayor Victoria Woodards
+
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  

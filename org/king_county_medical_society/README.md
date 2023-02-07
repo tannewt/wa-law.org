@@ -1,5 +1,9 @@
 # King County Medical Society
 
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+
 ## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍2  
 * 👍 Teresa Dr. Girolami
 

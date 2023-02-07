@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150628&caId=21220&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150628&caId=21220&tId=4)
 
-#### 64 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Jennifer Dunne
 * Akshay Tandon - Student
@@ -26,9 +26,13 @@ Testifying:
 * Wendy Armour - Parent
 * Linnea Westerlind - Parent, PTA advocate
 * Shelly Burt
+* Courtney Stepp - Elementary School Teacher
+* BIANCA FINA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Michelle Nims - Washington State PTA
+* Anna Hernandez-French - OSPI
+* Carl Cary - Washington State School Directors' Association (WSSDA)

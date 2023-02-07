@@ -34,3 +34,5 @@
 ## [SB 5420](/bill/2023-24/sb/5420/) - Plan 2 members/insurance 👍1  
 
 ## [SB 5421](/bill/2023-24/sb/5421/) - Benefit enrollment info. 👍1  
+
+## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  

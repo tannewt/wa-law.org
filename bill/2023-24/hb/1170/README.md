@@ -9,22 +9,21 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1170 Climate response strategy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150874&caId=21194&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150874&caId=21194&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150874&caId=21194&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30672&aId=150874&caId=21194&tId=4)
-
-#### 99 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
 * Crystal Raymond - UW Climate Impacts Group
+* Jennifer Hennessey - Washington State Department of Ecology
+* James Schrimpsher - Washington State Fraternal Order of Police
+* Devon Kellogg - Washington State PTA
 
 #### 2 👎 - Con
 Testifying:
 * John Worthington
 * john Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Mon 01/16 01:30 PM - Environment & Energy (ENVI): HB 1170 Climate response strategy
 #### 69 👍 - Pro

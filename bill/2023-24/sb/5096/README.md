@@ -9,20 +9,17 @@
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SSB 5096 Employee ownership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151047&caId=21161&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151047&caId=21161&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151047&caId=21161&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30714&aId=151047&caId=21161&tId=4)
-
-#### 15 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * John McNamara - Northwest Cooperative Development Center
+* Miles Nowlin - Northwest Cooperative Development Center
 * Jack Moriarty - Ownership America
 * Gellert Dornay
 * 💵Bryan Ricker - [Schweitzer Engineering Laboratories](/org/schweitzer_engineering_laboratories/)
 * Licett Garbe - Greater Spokane Valley Chamber of Commerce
 * Brian Boland - Delta Fund
+* Mo Manklang - U.S. Federation of Worker Cooperatives
+* Mauri Ingram - Whatcom Community Foundation
 
 #### 0 👎 - Con
 

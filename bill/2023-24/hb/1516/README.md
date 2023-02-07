@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151010&caId=21290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151010&caId=21290&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 61 👎 - Con
+Testifying:
+* Hao Xu
+* Yingju Ren
 
 #### 0 ❓ - Other

@@ -14,13 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=4)
 
-#### 449 👍 - Pro
+#### 700 👍 - Pro
+Testifying:
+* Martha Lucas - Washington State Coalition of African Community Leaders
+* NiRae Petty - Urban League of Metropolitan Seattle
+* Sierra Suafoa-McClain - [Front and Centered](/org/front_and_centered/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Deric Gruen - [Front and Centered](/org/front_and_centered/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Annette Bryan - Councilmember, Puyallup Tribe of Indians
 
-#### 3 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * john Worthington - AAMC
 * john Worthington
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Dave Andersen - Washington Department of Commerce

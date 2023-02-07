@@ -1,6 +1,6 @@
 # Building Industry Association of Washington
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Brent Ludeman
@@ -18,7 +18,8 @@
 
 ## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎1 
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎2 
+* 👎💵 Josie Cummings
 * 👎💵 Josie Cummings
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
@@ -31,6 +32,9 @@
 * 👍💵 Bill Stauffacher
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
+* 👍💵 Josie Cummings
+
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 * 👍💵 Josie Cummings
 
 ## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials  👎1 
@@ -70,8 +74,13 @@
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Brent Ludeman
 
+## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍1  
+* 👍💵 Josie Cummings
+
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary  👎1 
 * 👎💵 Jan Himebaugh
+
+## [HB 1539](/bill/2023-24/hb/1539/) - Private vocational licenses 👍1  
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
@@ -79,6 +88,11 @@
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
 * 👎💵 Bill Stauffacher
+
+## [HB 1677](/bill/2023-24/hb/1677/) - Campaign finance disclosure  👎1 
+
+## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain  👎1 
+* 👎💵 Josie Cummings
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 * 👍💵 Josie Cummings
@@ -120,6 +134,9 @@
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
 * 👍💵 Josie Cummings
 
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+* 👎💵 Josie Cummings
+
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
 * 👎💵 Bill Stauffacher
 
@@ -138,6 +155,13 @@
 
 ## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍2  
 * 👍💵 Josie Cummings
 * 👍💵 Jan Himebaugh
+
+## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply 👍1  
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
+* ❓💵 Josie Cummings

@@ -14,8 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30639&aId=150609&caId=21119&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30639&aId=150609&caId=21119&tId=4)
 
-#### 1 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Doug Palmer - Washington State Association for Justice
+* Craig Patti - 1069 Adams st
+* 💵Brenda Wiest - Teamsters Local 117
+* Eric Becker
+* Greg Weber
+* Jamison Smith
+* Jerry Underwood
+* Steve Austin
+* Steve Bradley
+* Jarl Peterson
 
-#### 2 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Bernie Pratt - Pratt Day & Stratton/WSIA
+* Kris Tefft - Washington Self-Insurers Association
+* Sheri Sundstrom - Hoffman Construction Company/WSIA
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries

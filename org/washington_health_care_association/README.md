@@ -8,6 +8,9 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
 
+## [SB 5497](/bill/2023-24/sb/5497/) - Medicaid expenditures 👍1  
+* 👍 Carma Matti-Jackson
+
 ## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  
 
 ## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  

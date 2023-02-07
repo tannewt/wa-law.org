@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150848&caId=21231&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150848&caId=21231&tId=4)
 
-#### 4 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* James Conca
+* Josh Lozano - [Energy Northwest](/org/energy_northwest/)
+* 💵Bill Clarke - Grant County Public Utility District
+* Steven Heninger
 
-#### 0 👎 - Con
+#### 93 👎 - Con
+Testifying:
+* Roger Lippman - Nuclear Free Northwest
+* Cathryn Chudy
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Glenn Blackmon - Department of Commerce

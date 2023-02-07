@@ -14,13 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=4)
 
-#### 42 👍 - Pro
+#### 100 👍 - Pro
+Testifying:
+* Shannon Perez-Darby
+* Timothy Kahn - Kahn and Hansen & Associates
+* Emily Hiskes - Snohomish County Public Defender Association
+* Laura Martin - Snohomish County Public Defender Association
+* Joanne Smieja - WA Voices
+* 💵Roxana Gomez - ACLU of Washington
+* George Yeannakis - Washington State Office of Public Defense
+* 💵Karen Pillar - TeamChild
+* Katherine Hurley - [Washington Defender Association](/org/washington_defender_association/)
+* Dr. Elizabeth Letourneau - Moore Center for the Prevention of Sexual Abuse
+* Nicholas Oakley - Center for Children & Youth Justice (CCYJ)
+* Susan Marks
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Dr. Elizabeth Letourneau - Moore Center for the Prevention of Sexual Abuse
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Brad Meryhew - Sex Offender Policy Board
 * Whitney Hunt - Sex Offender Policy Board
+* Shawn Sant - Franklin County Prosecutor

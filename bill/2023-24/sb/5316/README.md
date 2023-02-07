@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151174&caId=21319&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151174&caId=21319&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Colleen Condon - Washington Childcare Center Association
 
 #### 0 👎 - Con
 

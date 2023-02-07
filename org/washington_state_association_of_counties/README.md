@@ -89,6 +89,9 @@
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
 * 👍💵 Paul Jewell
 
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities  👎1 
+* 👎💵 Juliana Roe
+
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
 * 👎💵 Juliana Roe
 
@@ -104,6 +107,8 @@
 * 👎💵 Paul Jewell
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
+
+## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍💵 Paul Jewell
@@ -186,7 +191,13 @@
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓💵 Juliana Roe
 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+* 👍💵 Paul Jewell
+
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+* 👍💵 Juliana Roe
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 

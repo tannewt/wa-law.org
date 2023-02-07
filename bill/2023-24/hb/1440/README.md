@@ -7,6 +7,23 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/10 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1440 Juvenile court jurisdiction
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30691&aId=151433&caId=21373&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30691&aId=151433&caId=21373&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30691&aId=151433&caId=21373&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30691&aId=151433&caId=21373&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+
+#### 1 👎 - Con
+Testifying:
+* Sara Watson - Kent Acting Chief Prosecuting Attorney
+
+#### 0 ❓ - Other
+
 ### Wed 02/08 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1440 Juvenile court jurisdiction
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150859&caId=21254&tId=1)

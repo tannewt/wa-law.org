@@ -8,18 +8,18 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5599 Protected health care/youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150677&caId=21107&tId=4)
-
-#### 15 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * J. Denise Diskin - QLaw Foundation of Washington
 * Philip Denby
+* Rheea Delora
+* Spencer Scott
+* Jarel Sanders - Equal rights Washington
+* 💵Megan Veith - [Building Changes](/org/building_changes/)
+* Matthew Wilson - Oasis Youth Center
+* Heather Maisen - Public Health -- Seattle and King County
 
-#### 1392 👎 - Con
+#### 4539 👎 - Con
 Testifying:
 * Eric Pratt - America
 * Julie Barrett - Conservative Ladies of Washington
@@ -33,7 +33,34 @@ Testifying:
 * Dorothy Frenzel
 * Carrie BeSerra
 * Paige Norman - Conservative Ladies of Washington
+* Angela Frye
+* Joshua Hardwick
+* Linda Ader
+* Marc Nance
+* Sarah Garriott
+* Andy Cilley - Lakewood CARES
+* Laurie Layne
+* Amy Sousa
+* Leah Anaya - Washington Moms For America
+* Theresa Schrempp
 * Mark Kostick
+* Karina Kararush
 * Jack Blotzke
+* Anthony Carey
+* Lisa Manske
+* Dawn Seaver
+* Randy Berry
+* Cathleen Nimke
+* Janell Hulst
+* Erin Brewer
+* Sharon Slater - Global Helping to Advance Women and Children
+* Lisa Olson
+* Joy Bird
+* 💵Brad Payne - Family Policy Institute of Washington
+* Keith Adams - Director of Grassroots Outreach
+* THEODORE CHAMPINE
+* Victoria Ferrer
+* Bonnie Ruiz - Moms for America
+* Trish Huddleston
 
-#### 3 ❓ - Other
+#### 10 ❓ - Other

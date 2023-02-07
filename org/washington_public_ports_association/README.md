@@ -8,6 +8,8 @@
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
 * ❓ Chris Herman
 
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
@@ -32,8 +34,13 @@
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures   ❓1
 * ❓💵 John Stuhlmiller
 
+## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
+* 👍 eric ffitch
+
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎1 
 * 👎 Chris Herman
+
+## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
@@ -78,10 +85,12 @@
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 * 👍 Eric ffitch
 
-## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
+## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎 Chris Herman
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍 Eric ffitch
+
+## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  

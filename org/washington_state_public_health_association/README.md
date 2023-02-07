@@ -2,7 +2,7 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
@@ -10,7 +10,7 @@
 
 ## [HB 1178](/bill/2023-24/hb/1178/) - Firearms/local government 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
@@ -35,10 +35,15 @@
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
-## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍3  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
+## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
+* 👍 Jeff Ketchel
+
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
+
+## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  

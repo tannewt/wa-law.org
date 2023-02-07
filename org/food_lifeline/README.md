@@ -28,6 +28,8 @@
 * 👍 Alicya Pearson
 * 👍 Alicya Pearson
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding   ❓1
@@ -61,6 +63,8 @@
 ## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍4  
+
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍💵 Aaron Czyzewski

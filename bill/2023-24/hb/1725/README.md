@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30655&aId=151260&caId=21332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30655&aId=151260&caId=21332&tId=4)
 
-#### 2 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Madison Johnson
+* 💵Carissa Kemp - [American Diabetes Association](/org/american_diabetes_association/)
 
 #### 0 👎 - Con
 

@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5601 Youth development office
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150678&caId=21108&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150678&caId=21108&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150678&caId=21108&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30657&aId=150678&caId=21108&tId=4)
-
-#### 32 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * 💵David Beard - School's Out Washington
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
+* Aissata Bangoura - Youth, Communities In Schools Federal Way-Highline
+* Idris Joyce - Krownless Kings
+* Kimberly Foster - Communities In Schools Federal Way-Highline
+* Beate Fischer - Youth, Lopez Island Family Resource Center
+* Saskia Fischer - Youth, Lopez Island Family Resource Center
+* Susannah Dunlap - Lopez Island Family Resource Center
 
-#### 2 👎 - Con
+#### 29 👎 - Con
 
 #### 0 ❓ - Other

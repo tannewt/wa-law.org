@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150649&caId=21238&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150649&caId=21238&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 

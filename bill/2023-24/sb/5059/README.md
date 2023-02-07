@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=4)
 
-#### 89 👍 - Pro
+#### 130 👍 - Pro
+Testifying:
+* Colleen Durkin Peterson - Washington State Association for Justice
+* Darrell Cochran
+* 💵Larry Shannon - Washington State Association for Justice
 
-#### 48 👎 - Con
+#### 104 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * Cindy MCMULLEN - Central Valley School Board
@@ -30,6 +34,13 @@ Testifying:
 * Michael Heinisch - xNon Profit Insurance Program
 * Madelyn Carlson - Non-Profit Insurance Program
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Cindy McMullen
+* Ron Mabry - Washington State School Directors' Association
+* Sandy Hayes - Washington State School Directors' Association
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* Bob Christie - Washington Defense Trial Lawyers Association
+* 💵Mark Sektnan - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
+* Kris Tefft - Washington Liability Reform Coalition
 
 #### 0 ❓ - Other
 

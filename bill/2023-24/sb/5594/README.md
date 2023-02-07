@@ -14,15 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150931&caId=21158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150931&caId=21158&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jamie Pascal - Chamber of Progress
 * Jeff Farrah - Autonomous Vehicle Industry Association
+* ryan spiller - Alliance for automotive innovation
+* Bruce Agnew - ACES NW Network
+* 💵Ashley Sutton - TechNet
+* Aidan Ali-Sullivan - Waymo
 
-#### 2 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Philip Koopman
 * William Widen
+* 💵Brenda Wiest - Teamsters Local 117
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
 #### 2 ❓ - Other
 Testifying:

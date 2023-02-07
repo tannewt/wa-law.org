@@ -6,6 +6,11 @@
 
 ## [HB 1563](/bill/2023-24/hb/1563/) - Medical use of cannabis 👍1  
 
+## [HB 1581](/bill/2023-24/hb/1581/) - Cannabis commission   ❓1
+
+## [HB 1595](/bill/2023-24/hb/1595/) - Cannabis excise tax   ❓1
+* ❓ Adan Espino Jr
+
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
 * 👍 Adan Espino Jr
 
@@ -16,3 +21,5 @@
 
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC  👎1 
 * 👎 Adan Espino Jr
+
+## [SB 5662](/bill/2023-24/sb/5662/) - Cannabis employees  👎1 
