@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=4)
 
-#### 90 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
@@ -23,7 +23,7 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Deb Wilson
 
-#### 27 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Christina Mays - Detente Management, Inc
 * Jeremy Millard

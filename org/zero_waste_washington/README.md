@@ -54,3 +54,6 @@
 
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
 * 👍💵 Heather Trim
+
+## [SB 5607](/bill/2023-24/sb/5607/) - Fashion/env. policies 👍1  
+* 👍💵 Heather Trim

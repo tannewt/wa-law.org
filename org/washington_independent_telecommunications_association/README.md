@@ -5,3 +5,5 @@
 
 ## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
 * 👍💵 Betty Buckley
+
+## [SB 5600](/bill/2023-24/sb/5600/) - Universal communications prg 👍1  

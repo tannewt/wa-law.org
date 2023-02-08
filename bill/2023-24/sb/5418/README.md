@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 02/07 01:30 PM - State Government & Elections (SGE): SB 5418 Definition of public work
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=150968&caId=21143&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=150968&caId=21143&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=150968&caId=21143&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30709&aId=150968&caId=21143&tId=4)
-
-#### 12 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Heather Kurtenbach - Ironworkers Local 86
+* Chris Ellis - Bricklayers and Allied Craftworkers Local 1
 
-#### 15 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Sophia Steele - Associated Builders and Contractors
@@ -27,8 +22,14 @@ Testifying:
 * Van Collins - ACEC and AELC
 * Jesse Simpson - Housing Development Consortium
 * Andrew Calkins - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Brian Lloyd - Beacon Development Group
+* 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Tammy Fellin - Labor & Industries
 * Maureen Fife - Tacoma/Pierce County Habitat for Humanity

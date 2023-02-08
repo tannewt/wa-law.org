@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151242&caId=21324&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151242&caId=21324&tId=4)
 
-#### 30 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Nick Federici - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 * Kathleen Hosfeld - Homestead Community Land Trust; Northwest Community Land Trust Coalition

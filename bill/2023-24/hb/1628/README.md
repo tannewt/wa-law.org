@@ -7,14 +7,36 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Tue 02/07 10:30 AM - Local Government (LG): HB 1628 Real estate excise tax
+### Wed 02/08 08:00 AM - Local Government (LG): HB 1628 Real estate excise tax
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150794&caId=21271&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=4)
 
-#### 529 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Cathy Murahashi - Community Homes
+* Scott Livengood - Community
+* Scott Livengood - [Community Residential Services Association](/org/community_residential_services_association/)
+* Regan Bolli - [City of Covington](/org/city_of_covington/)
+* Ginger Kwan - Open Doors for Multicultural Families
+* 💵Penny Lipsou - King County Department of Community and Human Services
+
+#### 8 👎 - Con
+Testifying:
+* McKenzie Darr - NAIOP
+* Constance Nelson
+* Laurie Layne
+* Rod Kauffman - Building Owners and Managers Association
+* john Worthington
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Carl Schroeder
+
+### Tue 02/07 10:30 AM - Local Government (LG): HB 1628 Real estate excise tax
+#### 580 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
@@ -38,8 +60,9 @@ Testifying:
 * Mayor Mason Thompson
 * 💵Brian Enslow - [City of Vancouver](/org/city_of_vancouver/)
 * Deputy Mayor Melanie O'Cain - [City of Kenmore](/org/city_of_kenmore/)
+* Mason Thompson - Mayor, City of Bothell
 
-#### 713 👎 - Con
+#### 798 👎 - Con
 Testifying:
 * 💵Greg Hanon - NAIOP
 * Travis Hale
@@ -61,5 +84,10 @@ Testifying:
 * Candice Chevalier - WA State Commercial Association of Realtors & Washington Realtors
 * Constance Nelson
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Richard Weisfield
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* John Worthington
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Nick Kolesnikov

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 01:30 PM - Health Care & Wellness (HCW): HB 1683 Dental only coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150666&caId=21243&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150666&caId=21243&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150666&caId=21243&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150666&caId=21243&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Carol Carbone - Lilly Denture Center
 * 💵Carolyn Logue - [Washington Denturist Association](/org/washington_denturist_association/)
@@ -23,4 +17,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - Willamette Dental of Washington
+* 💵Sean Pickard - Delta Dental of WA

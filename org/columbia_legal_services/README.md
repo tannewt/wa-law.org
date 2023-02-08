@@ -13,7 +13,8 @@
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales 👍1  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
@@ -113,3 +114,6 @@
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
+
+## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
+* 👍 Xaxira Velasco Ponce de León

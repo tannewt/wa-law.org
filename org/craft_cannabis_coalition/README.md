@@ -11,6 +11,9 @@
 ## [HB 1595](/bill/2023-24/hb/1595/) - Cannabis excise tax   ❓1
 * ❓ Adan Espino Jr
 
+## [HB 1612](/bill/2023-24/hb/1612/) - Products containing THC  👎1 
+* 👎 Adán Espino Jr
+
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
 * 👍 Adan Espino Jr
 

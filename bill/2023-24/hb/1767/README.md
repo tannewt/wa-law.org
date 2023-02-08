@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151281&caId=21333&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151281&caId=21333&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 0 👎 - Con
 

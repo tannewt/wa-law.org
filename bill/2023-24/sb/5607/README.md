@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150735&caId=21081&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150735&caId=21081&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Maanit Goel
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other
 Testifying:

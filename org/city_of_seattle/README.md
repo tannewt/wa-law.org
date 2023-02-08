@@ -14,7 +14,7 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
@@ -65,6 +65,8 @@
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings   ❓1
+
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
@@ -125,3 +127,7 @@
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  
+
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1

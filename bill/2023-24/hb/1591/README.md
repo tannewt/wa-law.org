@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150861&caId=21256&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150861&caId=21256&tId=4)
 
-#### 10 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Shaquita Bell
 * CS Wright
 * Gregory Luce - Adoptee Rights Law Center PLLC
+* Ashley Albert - Intuned Consulting LLC
+* Carla Arnold - Youthnet
+* Katie Biron - Amara
+* Tara Urs - King County Department of Public Defense
 
 #### 1 👎 - Con
 

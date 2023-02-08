@@ -151,6 +151,9 @@
 
 ## [HB 1360](/bill/2023-24/hb/1360/) - Alt. professional licensing  👎1 
 
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12   ❓1
+* ❓💵 Nasue Nishida
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
@@ -211,6 +214,8 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 * 👍💵 Nasue Nishida
+
+## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍1  
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
@@ -399,6 +404,8 @@
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+
+## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
 

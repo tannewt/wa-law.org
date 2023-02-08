@@ -4,6 +4,8 @@
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
+## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍1  
+
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 * 👍 Lacey Jane Wolfe
 
@@ -24,10 +26,19 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
 * ❓ Lacey Jane Wolfe
 
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
+
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 
 ## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
+
+## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
+
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
+* ❓ Chris Long

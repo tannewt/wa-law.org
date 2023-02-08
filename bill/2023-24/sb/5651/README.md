@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5651 GMA/equity and env. justice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150823&caId=21140&tId=4)
-
-#### 700 👍 - Pro
+#### 711 👍 - Pro
 Testifying:
 * Martha Lucas - Washington State Coalition of African Community Leaders
 * NiRae Petty - Urban League of Metropolitan Seattle
@@ -24,13 +18,14 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Annette Bryan - Councilmember, Puyallup Tribe of Indians
 
-#### 15 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * john Worthington - AAMC
 * john Worthington
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Dave Andersen - Washington Department of Commerce
+* Jeanette McKague - Washington REALTORS

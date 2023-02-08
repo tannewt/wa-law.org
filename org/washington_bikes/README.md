@@ -11,6 +11,8 @@
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍2  
 
+## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍3  

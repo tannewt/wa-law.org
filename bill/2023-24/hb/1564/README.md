@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1564 OTC sexual assault kits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150711&caId=21212&tId=4)
-
-#### 174 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
 * Quinn Dalan - Washington State Women’s Commission
 * Mary Robnett - Pierce County Prosecutor
@@ -28,12 +22,29 @@ Testifying:
 * Maddie Menser - UW Greeks Take Action
 * Reese Browers - UW Student
 * Shannon Bailie - UW LiveWell
+* 💵Melissa Johnson - Washington State Nurses Association
+* Representative Orwall
+* Riddhi Mukhopadhyay - Sexual Violence Law Center
 
-#### 66 👎 - Con
+#### 90 👎 - Con
 Testifying:
 * Debra Carlson - Survivor
 * Kenzie Davis
 * Elsa Sjunneson
 * Andrea Cruz - Sexual Assault Survivor Advocate
+* Alexandra Asrow - Pritzker College of Medicine
+* Kaylee Powers - WA Licensed Sexual Assault Nurse Examiner
+* Sean Dugan
+* Kristen Reijonen - University of Washington Kappa Delta
+* Reese Andrews - University of Washington Kappa Delta
+* Taytem Raynor - University of Washington Kappa Delta
+* Hannah Chamberlin - Leda Health
+* ilana turko - Leda Health
+* Abby Clawson - Leda Health
+* Krystyn Tendy - Independent Consultant, Leda Health
+* Liesel Vaidya - Leda Health
+* Madison Campbell - Leda Health
+* Hannah Chamberlin
+* Paris Crawford - Leda Health
 
 #### 1 ❓ - Other

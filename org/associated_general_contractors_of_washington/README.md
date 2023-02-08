@@ -19,4 +19,6 @@
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 * 👍💵 Christine Brewer
 
+## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
+
 ## [SB 5528](/bill/2023-24/sb/5528/) - Prime contractor retainage 👍1  

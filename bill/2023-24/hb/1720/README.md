@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1720 Riparian grant program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30648&aId=151013&caId=21180&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30648&aId=151013&caId=21180&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30648&aId=151013&caId=21180&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30648&aId=151013&caId=21180&tId=4)
-
-#### 172 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 * Pam Lewison - Ag Research Director, Washington Policy Center
@@ -28,16 +22,22 @@ Testifying:
 * Leroy Plagerman - Our family farms
 * Gary Bailey - [Washington Association of Wheat Growers](/org/washington_association_of_wheat_growers/)
 * Amanda McKinney - Yakima County
+* Fred Likkel - [Save Family Farming](/org/save_family_farming/)
 * Ron Wesen - [Skagit County](/org/skagit_county/)
 * 💵Brynn Brady - WA State Association of Counties
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Jay Gordon - Washington State Dairy Federation
+* Jeff De Jong - Farmer
+* Jim Wilcox - Wilcox Family Farm
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Ruth Musgrave - Office of the Governor
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Margen Carlson - WDFW
 * Frank III, William Chairman
 * Councilwoman, Kadi Bizyayeva - [Stillaguamish Tribe of Indians](/org/stillaguamish_tribe_of_indians/)
+* David Herrera - [Skokomish Indian Tribe](/org/skokomish_indian_tribe/)
+* Chairman Leonard Forsman - The Suquamish Tribe

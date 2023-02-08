@@ -8,21 +8,18 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Education (ED): HB 1377 Continuing education/K-12
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150631&caId=21223&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150631&caId=21223&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150631&caId=21223&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150631&caId=21223&tId=4)
-
-#### 10 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Zackary Turner
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* Justyna King - Office of Catholic Schools, Archdiocese of Seattle
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Anna Hernandez-French - OSPI
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 ### Thu 02/02 08:00 AM - Education (ED): HB 1377 Continuing education/K-12
 #### 0 👍 - Pro

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30708&aId=151299&caId=21336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30708&aId=151299&caId=21336&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Aaron Wheeler - The Suquamish Tribe
 * Tyson Johnston - [Quinault Indian Nation](/org/quinault_indian_nation/)
+* Guy Capoeman - President, Quinault Indian Nation
 
 #### 0 👎 - Con
 

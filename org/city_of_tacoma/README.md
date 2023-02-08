@@ -59,6 +59,8 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 * 👍 Deputy  Mayor, Kristina Walker
 
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 * 👍 Mayor Victoria Woodards
 

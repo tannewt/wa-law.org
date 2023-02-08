@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=4)
 
-#### 37 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Superintendent Patrick Murphy - Superintendent, Olympia School District
 * Dr. Art Jarvis - [Bellevue School District](/org/bellevue_school_district/)

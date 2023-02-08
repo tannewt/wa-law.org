@@ -2,6 +2,11 @@
 
 ## [HB 1072](/bill/2023-24/hb/1072/) - Motor vehicle length 👍1  
 
+## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management 👍1  
+* 👍 Jay Holzmiller
+
+## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍2  
+
 ## [SB 5150](/bill/2023-24/sb/5150/) - Beef levied assessment 👍1  
 * 👍💵 Mark Streuli
 

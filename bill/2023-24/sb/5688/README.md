@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=4)
 
-#### 26 👍 - Pro
+#### 60 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 119 👎 - Con
+#### 191 👎 - Con
 Testifying:
 * Rod Fleck - City of Forks
 * Tom Lannen - Skamania County Commissioners
+* Connie BEAUVAIS - [Port of Port Angeles](/org/port_of_port_angeles/)
+* Randy Johnson - Clallam Co. Board of Commissioners
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

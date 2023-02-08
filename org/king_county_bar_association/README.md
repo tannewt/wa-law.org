@@ -1,5 +1,7 @@
 # King County Bar Association
 
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  

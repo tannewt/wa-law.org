@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150757&caId=21267&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150757&caId=21267&tId=4)
 
-#### 9 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* 💵Joshua Estes - (AWPPW) Association of Western Pulp & Paper Workers
+* Justin Welte - AWPPW - Local 580
+* Russ Ipock - President AWPPW Washington Area Council
+* Bill Sauters - AWPPW WA Business Agent
 
 #### 0 👎 - Con
 

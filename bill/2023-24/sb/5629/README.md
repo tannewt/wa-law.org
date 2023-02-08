@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5629 Hepatitis B and C
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150880&caId=21091&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150880&caId=21091&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150880&caId=21091&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30626&aId=150880&caId=21091&tId=4)
-
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Marc Stern
 * Dr. Anthony Chen - Tacoma Pierce County Health Department
 * Michaela Jackson - Hepatitis B Foundation
+* Juliana Wong - King County Asian Pacific Islander Coalition
+* Nadine Shiroma
 
 #### 0 👎 - Con
 

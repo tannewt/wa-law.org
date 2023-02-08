@@ -30,6 +30,8 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
 
+## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
+
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 * 👍💵 Roz Thompson
 
@@ -38,4 +40,11 @@
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
+## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
+
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
+
+## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎1 
+* 👎💵 Roz Thompson
+
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

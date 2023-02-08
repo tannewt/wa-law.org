@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1562 Violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30635&aId=151263&caId=21338&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30635&aId=151263&caId=21338&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30635&aId=151263&caId=21338&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30635&aId=151263&caId=21338&tId=4)
-
-#### 390 👍 - Pro
+#### 513 👍 - Pro
 Testifying:
 * Dana Cuomo - Lafayette College
 * Jolaine Joseph
@@ -26,7 +20,7 @@ Testifying:
 * Amy Freedheim - Chair of Felony Traffic Unit, KCPAO
 * Kim Todaro - King County Bar Association Pro Bono Programs, DV LEAD Program
 
-#### 309 👎 - Con
+#### 419 👎 - Con
 Testifying:
 * Eric pratt - America
 * Dawn Houghton - 4326 Springdale Hunters Rd
@@ -68,8 +62,12 @@ Testifying:
 * andrea doll
 * Ann Lovejoy
 * Jason Clark - Northwest Credible Messenger 501c3
+* 💵Samuel Martin - Washington for Black Lives
+* Paula Taylor - Conservative Ladies of WA
+* Scott Taylor - Conservative Ladies of WA
+* Natasha Fecteau Minger
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Lindsay Herendeen - State Board of Health
 * Julie Barrett - Conservative Ladies of Washington

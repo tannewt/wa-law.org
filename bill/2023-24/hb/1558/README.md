@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Labor & Workplace Standards (LAWS): HB 1558 Self-insured pensions/fund
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150754&caId=21265&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150754&caId=21265&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150754&caId=21265&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150754&caId=21265&tId=4)
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Tammy Fellin - Labor & Industries
+* Kris Tefft - Washington Self-Insurers Association
 
 #### 0 👎 - Con
 

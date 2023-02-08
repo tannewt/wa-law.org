@@ -19,6 +19,8 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍💵 Clifford Traisman
 
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 * 👍💵 Darcy Nonemacher
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1717 Associate development orgs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151074&caId=21260&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151074&caId=21260&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151074&caId=21260&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30717&aId=151074&caId=21260&tId=4)
-
-#### 24 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Lynnette Buffington - Greater Grays Harbor, Inc
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)

@@ -14,12 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150984&caId=21184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150984&caId=21184&tId=4)
 
-#### 86 👍 - Pro
+#### 117 👍 - Pro
+Testifying:
+* Brad Manke - Stevens County Sheriff's Office
+* Jeff Flood - Stevens County
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Jay Holzmiller - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* Wes McCart - Stevens County - Commissioner
 
-#### 725 👎 - Con
+#### 940 👎 - Con
 Testifying:
 * David Linn
 * Lorna Smith
 * Ruth Musgrave - Office of the Governor
+* Eric Gardner - WDFW
+* Divya Rathor
 
 #### 6 ❓ - Other

@@ -17,6 +17,8 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
+## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
+
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍2  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  

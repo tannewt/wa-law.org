@@ -26,11 +26,15 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
+## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
+
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 * 👍💵 Juliet Schindler

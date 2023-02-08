@@ -52,6 +52,6 @@
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
 * 👍💵 Kristin Ang
 
-## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍3  

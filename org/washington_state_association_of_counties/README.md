@@ -98,7 +98,8 @@
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 * 👍💵 Juliana Roe
 
-## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍1  
+## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
@@ -201,8 +202,9 @@
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 
-## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍2  
 * 👍💵 Mike Hoover
+* 👍💵 Paul Jewell
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
 * ❓💵 Paul Jewell

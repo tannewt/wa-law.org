@@ -74,7 +74,8 @@
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Brent Ludeman
 
-## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍1  
+## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍2  
+* 👍💵 Josie Cummings
 * 👍💵 Josie Cummings
 
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary  👎1 

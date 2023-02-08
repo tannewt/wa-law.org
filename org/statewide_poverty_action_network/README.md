@@ -56,7 +56,12 @@
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 * 👍💵 Alex Hur
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍1  
+## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
+
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+* 👍💵 Marcy Bowers
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
@@ -87,7 +92,7 @@
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  
 
-## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍2  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 

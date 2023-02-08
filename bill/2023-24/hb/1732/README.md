@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30537&aId=151045&caId=21071&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30537&aId=151045&caId=21071&tId=4)
 
-#### 59 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Gene Jones
 * Sally Bronow
@@ -57,6 +57,8 @@ Testifying:
 * Mike Daly
 * Ken Stremler - No
 * John Gorman
+* Brian Halbert
+* Howard Wilson - Wilson Tree Farm
 * Paul Grabski
 * Shirley Rheault
 * Jerry Rheault
@@ -72,7 +74,28 @@ Testifying:
 * DAVID COX
 * Harry Bell - Bell Forestry
 * Harry Bell
+* charles Coddington
+* WAYNE OLSON
+* Valerie Messerall
+* jeanne koruga - West Tier Development Corp
+* Ann Williams
+* Joseph Muller
+* Jan Kielpinski
+* Ann Horinouchi
+* Shane Knowlton
+* Paul Kester - Spring Creek Timber
+* BRIAN SAILOR
+* Francis Hannick
+* Nancy Loiselle
+* Robert Rose
+* Frank Shirley
+* Jim Hanna
+* Terry Keene - Personal use
+* Molly Keene
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Norris Petit
+* Tom O'Brien - WDFW

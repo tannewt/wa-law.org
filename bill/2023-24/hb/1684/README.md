@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Labor & Workplace Standards (LAWS): HB 1684 Tribes/job title reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150755&caId=21266&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150755&caId=21266&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150755&caId=21266&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30669&aId=150755&caId=21266&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Caitlyn Jekel - WA State Employment Security Dept
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
+* 💵Patrick Connor - NFIB
 * Lorraine Parlange - Kalispel Tribe of Indians
+* 💵James King - [Independent Business Association](/org/independent_business_association/)

@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Local Government (LG): HB 1510 Community preservation auth.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150795&caId=21272&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150795&caId=21272&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150795&caId=21272&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150795&caId=21272&tId=4)
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Joël Tan - Wing Luke Museum
 * Kathleen Barry Johnson
 * Tuyen Than - C/ID Business Owner and Resident
 * Ellen Ta - Historic South Downtown & Baegopah Restaurant
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Amber Carter - Seattle Mariners

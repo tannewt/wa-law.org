@@ -116,8 +116,11 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
-## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
+## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍2  
 * 👍💵 Carl Schroeder
+* 👍💵 Carl Schroeder
+
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
@@ -151,7 +154,7 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions   ❓1
 * ❓💵 Candice Bock
@@ -187,6 +190,9 @@
 
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
 * 👍💵 Carl Schroeder
+
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+* 👎 Brandy DeLange
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 
@@ -232,6 +238,8 @@
 * 👍💵 Candice Bock
 
 ## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
+
+## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 

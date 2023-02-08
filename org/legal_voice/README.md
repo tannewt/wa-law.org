@@ -13,6 +13,8 @@
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
+## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
+
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  

@@ -15,12 +15,12 @@
 
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
-## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
+## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
-## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍3  
 * 👍💵 Ramona Hattendorf
 
-## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍1  
 
@@ -56,6 +56,8 @@
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 

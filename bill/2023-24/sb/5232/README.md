@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=4)
 
-#### 530 👍 - Pro
+#### 640 👍 - Pro
 
-#### 601 👎 - Con
+#### 1017 👎 - Con
 Testifying:
 * Eric pratt - America
 * Laurie A Layne
@@ -25,8 +25,15 @@ Testifying:
 * Ronald Lorimer
 * Colleen Wise
 * eric Pratt
+* Brian Colclough - Black Gun Owners of America
+* Brian Lynn - Sportsmen’s Alliance
+* Paula Hazen - Firearms Instructor
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* John Nowels - Spokane County Sheriff
+* Mathew Joy - Carson Hardware
+* Matt Page
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tim Jones
 

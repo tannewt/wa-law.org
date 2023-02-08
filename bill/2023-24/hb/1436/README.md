@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=4)
 
-#### 148 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Superintendent Patrick Murphy - Superintendent, Olympia School District
@@ -33,9 +33,15 @@ Testifying:
 * Jana Parker - Seattle Special Education PTSA/Parent
 * Melissa Spiker
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* David Berg - Washington State School Directors' Association
+* Eliza Rankin - Washington State School Directors' Association
+* Kathy Mulkerin - Washington State School Directors' Association
+* Nikki Otero-Lockwood - Washington State School Directors' Association
+* Casey White - VREPTA
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Caitlin Cox - Lake Washington School District
+* Mark Stuart - Lake Washington School District

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Housing (HOUS): HB 1633 Homes for heroes program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150946&caId=21251&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150946&caId=21251&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150946&caId=21251&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150946&caId=21251&tId=4)
-
-#### 141 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Marco Monteblanco - Washington State Fraternal Order of Police
 * 💵Nathan Gorton - Washington REALTORS

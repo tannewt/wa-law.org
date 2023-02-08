@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151175&caId=21320&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151175&caId=21320&tId=4)
 
-#### 25 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The ARC Washington State
 * Erin Shea McCann - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)

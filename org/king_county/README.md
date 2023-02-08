@@ -130,6 +130,8 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
+## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍1  
+
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍3  
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
@@ -146,9 +148,13 @@
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍1  
 
+## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
+
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
+
+## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍1  
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 * 👍 Kelly Rider
@@ -167,8 +173,21 @@
 
 ## [HB 1560](/bill/2023-24/hb/1560/) - Property tax exemptions 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍1  
+
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍2  
+
+## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍1  
+* 👍 MICHAEL MURPHY
+
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Sunaree Marshall
+
+## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
+
+## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
@@ -325,6 +344,8 @@
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
+
+## [SB 5619](/bill/2023-24/sb/5619/) - Cybersecurity governance 👍1  
 
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
 

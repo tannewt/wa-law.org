@@ -8,21 +8,22 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Education (ED): HB 1609 School library info and tech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150629&caId=21221&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150629&caId=21221&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150629&caId=21221&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30644&aId=150629&caId=21221&tId=4)
-
-#### 118 👍 - Pro
+#### 284 👍 - Pro
 Testifying:
 * Sarah Logan - [Washington Library Association](/org/washington_library_association/)
 * Eryn Duffee - [Washington Library Association](/org/washington_library_association/)
 * Gavin Downing
 * Anna Hernandez-French - OSPI
+* Elizabeth Roberts - Washington Library Association, School Library Division
+* Laurie Hoss
+* Barbara Lachman
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Kristi Bonds - Teacher-Librarian
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Michael Olsen - Kettle Falls School District
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Sandy Hayes - Washington State School Directors' Association

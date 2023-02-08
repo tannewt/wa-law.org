@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 02/07 08:00 AM - Finance (FIN): HB 1527 Tax increment financing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150648&caId=21237&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150648&caId=21237&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150648&caId=21237&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30646&aId=150648&caId=21237&tId=4)
-
-#### 21 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mike Bomar - Port of Vancouver USA
 * 💵Briahna Murray - [City of Pasco](/org/city_of_pasco/)
 * matt zuvich - Office of State Treasurer
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 

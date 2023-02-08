@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Ways & Means (WM): SB 5497 Medicaid expenditures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151058&caId=21172&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151058&caId=21172&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151058&caId=21172&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151058&caId=21172&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 

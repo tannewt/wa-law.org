@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 01:30 PM - Health Care & Wellness (HCW): HB 1466 Dental auxiliaries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150664&caId=21241&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150664&caId=21241&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150664&caId=21241&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150664&caId=21241&tId=4)
-
-#### 358 👍 - Pro
+#### 452 👍 - Pro
 Testifying:
 * Diane Oakes - Delta Dental of WA
 * 💵Bracken Killpack - Washington State Dental Association
@@ -22,7 +16,7 @@ Testifying:
 * Scott Henderson - Walla Walla Valley Dental Society
 * Chao Dong - Washington State Dental Association
 
-#### 672 👎 - Con
+#### 700 👎 - Con
 Testifying:
 * Karyn Williams
 * Colleen Gaylord - Washington Dental Hygienists Association
@@ -31,5 +25,6 @@ Testifying:
 * Kathy Mueller - Washington Dental Hygienists Association
 * 💵Melissa Johnson - Washington Dental Hygienists Association
 * Rebekah Woods - Columbia Basin College
+* Kellie Whitcomb
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other

@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Tue 02/07 01:30 PM - Health Care & Wellness (HCW): HB 1678 Dental therapists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30654&aId=150665&caId=21242&tId=4)
-
-#### 351 👍 - Pro
+#### 405 👍 - Pro
 Testifying:
 * Andrew Guillen - Seattle Indian Health Board
 * Sarah Vander Beek - NeighborCare
 * Sarah Chagnon - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 * Dr. Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* Dr. Miranda Davis - [Northwest Portland Area Indian Health Board](/org/northwest_portland_area_indian_health_board/)
+* 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Yvonne Jacobs
+* Jim Sabol
 
-#### 311 👎 - Con
+#### 382 👎 - Con
 Testifying:
 * 💵Trent House - Washington State Dental Association
 * Dr. Mark Koday - Washington State Dental Association

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=4)
 
-#### 727 👍 - Pro
+#### 872 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
 * Amanda Sandoval - United Way of King County
@@ -34,8 +34,15 @@ Testifying:
 * Kiara Daniels - Tacoma City Council
 * 💵Hyeeun Park - BIPOC ED Coalition
 * George Davenport - Nehemiah Initiative
+* Michone Preston - Habitat for Humanity of Washington State CEO
+* Bambi Chavez
+* Sol Villareal
+* 💵Shaun Scott
+* Lila Grant
+* Lechelle Lucas
+* QUINTARD TAYLOR - BlackPast.org
 
-#### 314 👎 - Con
+#### 340 👎 - Con
 Testifying:
 * Kathleen Fitzpatrick
 * Ellen Dimbat
@@ -44,7 +51,9 @@ Testifying:
 * Kathleen Robertson
 * Janet Christopherson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ann Campbell - Department of Commerce
 
 ### Wed 02/01 01:30 PM - Housing (HSG): SB 5496 Covenant homeownership prg.
 #### 0 👍 - Pro

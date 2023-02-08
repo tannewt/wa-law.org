@@ -8,15 +8,18 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Human Services (HS): SB 5644 Juvenile records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150680&caId=21110&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150680&caId=21110&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150680&caId=21110&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150680&caId=21110&tId=4)
+#### 45 👍 - Pro
+Testifying:
+* Vidal Vincent
+* george yeannakis - Office of  public Defense
+* 💵Karen Pillar - Team Child
+* Katherine Hurley - Special Counsel for Criminal Practice and Policy King County Department of Public Defense
+* Roxanna Gomez - ACLU WA
+* Danni Jo Bechtold - The Mockingbird Society
+* Xaxira Velasco Ponce de León - [Columbia Legal Services](/org/columbia_legal_services/)
+* Sabian Hart - The Mockingbird Society
 
-#### 27 👍 - Pro
-
-#### 18 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Fred Obee - Washington Newspaper Publishers Association
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
@@ -24,6 +27,7 @@ Testifying:
 * Joe Kunzler
 * Laci Miller
 * 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
+* Shawn Sant - Franklin County Prosecutor
 
 #### 1 ❓ - Other
 Testifying:

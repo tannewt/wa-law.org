@@ -14,10 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151011&caId=21291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151011&caId=21291&tId=4)
 
-#### 4 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Jennifer Hernandez - [Institute for Community Leadership](/org/institute_for_community_leadership/)
+* Kate Lewis - North Mason School District Student
+* Morgan Thomas - North Mason School District Student School Board Member
+* Fynn Manohchompoo - [Institute for Community Leadership](/org/institute_for_community_leadership/)
+* Logan Endres - Washington State School Directors' Association (WSSDA)
+* Tejasvini Vijay - Washington State School Directors' Association (WSSDA)
 
 #### 1 👎 - Con
 Testifying:
 * Kellen Hoard
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dallas Roberts - Lieutenant Governor's Office

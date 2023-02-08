@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150992&caId=21100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150992&caId=21100&tId=4)
 
-#### 43 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Keyla Zapien
 * Marlen Cortez-Sanchez
 * Jackson Feaster
+* Jacob Katz
 
 #### 0 👎 - Con
 

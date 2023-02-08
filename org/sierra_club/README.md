@@ -19,6 +19,8 @@
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
 
+## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
+
 ## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
@@ -33,6 +35,8 @@
 * 👍 Jim Dennison
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program 👍1  
+
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work 👍1  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 

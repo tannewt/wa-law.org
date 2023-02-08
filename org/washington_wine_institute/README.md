@@ -15,6 +15,8 @@
 * 👍 Josh McDonald
 * 👍 Jessica Zander
 
+## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎2 
 * 👎 Josh McDonald
 * 👎 Josh McDonald

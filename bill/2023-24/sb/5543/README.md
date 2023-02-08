@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Human Services (HS): SB 5543 Sexual offenses by youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30658&aId=150679&caId=21109&tId=4)
-
-#### 100 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Shannon Perez-Darby
 * Timothy Kahn - Kahn and Hansen & Associates
@@ -28,13 +22,14 @@ Testifying:
 * Dr. Elizabeth Letourneau - Moore Center for the Prevention of Sexual Abuse
 * Nicholas Oakley - Center for Children & Youth Justice (CCYJ)
 * Susan Marks
+* Larry Jefferson - Washington State Office of Public Defense
 
-#### 7 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Dr. Elizabeth Letourneau - Moore Center for the Prevention of Sexual Abuse
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Brad Meryhew - Sex Offender Policy Board
 * Whitney Hunt - Sex Offender Policy Board

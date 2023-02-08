@@ -29,6 +29,8 @@
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  

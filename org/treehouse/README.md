@@ -4,7 +4,8 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 
-## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
+* 👍💵 Daniel Lugo
 * 👍💵 Daniel Lugo
 
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  

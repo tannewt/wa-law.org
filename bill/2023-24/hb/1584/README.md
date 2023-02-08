@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1584 Nuclear reactor technology
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150848&caId=21231&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150848&caId=21231&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150848&caId=21231&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=150848&caId=21231&tId=4)
-
-#### 45 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * James Conca
 * Josh Lozano - [Energy Northwest](/org/energy_northwest/)
 * 💵Bill Clarke - Grant County Public Utility District
 * Steven Heninger
+* Julia Gifford
+* Jim Conca - Herbert M. Parker Foundation at WSU
+* Josh Lozano - [Energy Northwest](/org/energy_northwest/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 93 👎 - Con
+#### 128 👎 - Con
 Testifying:
 * Roger Lippman - Nuclear Free Northwest
 * Cathryn Chudy

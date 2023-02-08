@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=4)
 
-#### 155 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * Annemarie Dooley - WA Physicians for Social Responsibility
 * Axel Adams
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 

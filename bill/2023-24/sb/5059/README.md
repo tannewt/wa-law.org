@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Ways & Means (WM): SB 5059 Prejudgment interest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30715&aId=151055&caId=21169&tId=4)
-
-#### 130 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * Colleen Durkin Peterson - Washington State Association for Justice
 * Darrell Cochran
 * 💵Larry Shannon - Washington State Association for Justice
+* Marshall Casey - Washington State Association for Justice
 
-#### 104 👎 - Con
+#### 140 👎 - Con
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 * Cindy MCMULLEN - Central Valley School Board
@@ -41,8 +36,13 @@ Testifying:
 * Bob Christie - Washington Defense Trial Lawyers Association
 * 💵Mark Sektnan - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 * Kris Tefft - Washington Liability Reform Coalition
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
+* Michael Heinisch - Non Profit Insurance Program Board of Directors
+* Charlie Brown - Pierce County Superintendents, Federal Way SD, School Coalition
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Anne Anderson - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
 
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5059 Prejudgment interest
 #### 133 👍 - Pro

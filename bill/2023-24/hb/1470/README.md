@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1470 Private detention facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150707&caId=21208&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150707&caId=21208&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150707&caId=21208&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150707&caId=21208&tId=4)
-
-#### 104 👍 - Pro
+#### 216 👍 - Pro
 Testifying:
 * SANDRA RODARTE - Latino Civic Alliance
+* Sandra Rodarte - Latino Civic Alliance
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 * MariaJose Cordero - NW Immigrant Rights Project
 * Dr. Bernal C. Baca
@@ -26,10 +21,11 @@ Testifying:
 * Maria Leonides Perez - La Resistencia
 * Maru Mora Villalpando - La Resistencia
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Jaime Bodden - WSALPHO
+* Lauren Jenks - [Department of Health](/org/department_of_health/)

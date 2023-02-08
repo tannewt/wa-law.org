@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150737&caId=21083&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150737&caId=21083&tId=4)
 
-#### 114 👍 - Pro
+#### 168 👍 - Pro
+Testifying:
+* 💵Amy Wheeless - NW Energy Coalition
 
 #### 0 👎 - Con
 

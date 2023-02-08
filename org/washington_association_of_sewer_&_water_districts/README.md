@@ -11,5 +11,8 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
 * ❓💵 Joren Clowers
 
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+* 👎💵 Joren Clowers
+
 ## [SB 5437](/bill/2023-24/sb/5437/) - Special districts/vacancies   ❓1
 * ❓💵 Joren Clowers

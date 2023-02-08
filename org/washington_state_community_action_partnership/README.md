@@ -89,6 +89,9 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+* 👎 Linda Garcia
+
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  

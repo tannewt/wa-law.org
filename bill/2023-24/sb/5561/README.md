@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Law & Justice (LAW): SB 5561 Law enf. community grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150567&caId=21131&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150567&caId=21131&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150567&caId=21131&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150567&caId=21131&tId=4)
-
-#### 23 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 * Kyra Abrahamson - Washington Trafficking Prevention
@@ -25,7 +19,7 @@ Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Cheifs
 * Stacey Okland - Okanogan County Community Coalition
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

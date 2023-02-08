@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Regulated Substances & Gaming (RSG): HB 1612 Products containing THC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30698&aId=150916&caId=21284&tId=4)
-
-#### 10 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Bob Cooper - Washington Association on Substance misuse and Violence Prevention.
 * Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 * MD, MPH, FAAP, Cora Breuner - Washington Chapter of the American Academy of Pediatrics
 * Justin Nordhorn - Washington State Liquor and Cannabis Board
 * Lacy Fehrenbach - Washington State Department of Health
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
-#### 16 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Bonny Jo Peterson - Industrial Hemp Association of WA
 * Kristofer Plunkett - Cascadia Hemp Co.
@@ -30,6 +25,11 @@ Testifying:
 * James MacRae - Self - Potential Consumer and ex Substance Abuse Researcher
 * Annabelle Koglin
 * Joshua Rutherford
+* Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Joshua Schneider - Association of Western Hemp Professionals
+* Patrick Hyland - NeXtraction Inc
+* Alan Lewis - Natural Grocers
+* ADAM MCCAULEY
 
 #### 5 ❓ - Other
 Testifying:

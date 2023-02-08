@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Local Government (LG): HB 1585 Local infra. project areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150797&caId=21274&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150797&caId=21274&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150797&caId=21274&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30678&aId=150797&caId=21274&tId=4)
-
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Nicholas Carr - Tacoma Housing Authority
 * Nick Bratton - [Forterra](/org/forterra/)
 * 💵Vicki Christophersen - Forterra/Koz
 * David Ratliff - DevCo, LLC
+* MICHAEL MURPHY - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 

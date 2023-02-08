@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1439 Child exposure to violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30689&aId=150853&caId=21253&tId=4)
-
-#### 41 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * David Martin - KCPAO
 * Amy Gallardo
@@ -29,4 +23,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Carey Morris - WA State Coalition Against Domestic Violence

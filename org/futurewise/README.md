@@ -25,5 +25,7 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  
 * 👍💵 Bryce Yadon

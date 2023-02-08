@@ -6,7 +6,7 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
-## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
+## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
@@ -17,6 +17,8 @@
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
+
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 * 👍 Donna O'Connor
@@ -34,6 +36,8 @@
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+
+## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
@@ -60,3 +64,5 @@
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
+
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  

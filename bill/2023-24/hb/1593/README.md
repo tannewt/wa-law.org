@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150884&caId=21270&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150884&caId=21270&tId=4)
 
-#### 6 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* AJ Johnson - Washington State Fire Fighters Council
+* 💵Anna Nepomuceno
+* BSN, RN , Ruby Tan
+* BSN, RN, Emily D'Anna
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Bob Battles - Association of Washington Business (AWB)
+* Kris Tefft - Washington Self-Insurers Association

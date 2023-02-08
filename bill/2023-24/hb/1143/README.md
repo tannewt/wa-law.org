@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=4)
 
-#### 506 👍 - Pro
+#### 763 👍 - Pro
 Testifying:
 * Rheea Delora
+* Casey White - VREPTA
+* Barbara Serrano - Office of the Governor
+* Karyn Brownson - King County Public Health
+* Robert Schentrup - Brady United Against Gun Violence
+* Tahana Salvadalena
+* Patricia Mays
 
-#### 833 👎 - Con
+#### 1925 👎 - Con
 Testifying:
 * eric pratt - America
 * Tim Smith
@@ -40,6 +46,21 @@ Testifying:
 * Cooper Mcauslan
 * Nicholas Proud
 * Mike Wingfield
+* Sedgie Ginn
+* Michael Schwalbach
+* 💵Aoibheann Cline - NRA
+* Mark Vorce
+* Mark Vorce
+* Kathryn Moe
+* Paula Taylor - Conservative Ladies of WA
+* Scott Taylor - Conservative Ladies of WA
+* Brian Givens
+* Brian Givens
+* Karen McIntosh
+* Frank Gorecki
+* thomas young
+* Janet Wolff
+* Joseph Buchmeier - The American People
 
 #### 2 ❓ - Other
 Testifying:

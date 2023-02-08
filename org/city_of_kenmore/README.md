@@ -10,6 +10,8 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
+## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
+
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Deputy Mayor Melanie O'Cain
 
@@ -18,3 +20,5 @@
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
+## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  

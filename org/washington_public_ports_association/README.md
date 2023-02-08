@@ -22,7 +22,8 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
+* 👍 Chris Herman
 
 ## [HB 1303](/bill/2023-24/hb/1303/) - Property tax administration   ❓1
 
@@ -37,10 +38,17 @@
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 eric ffitch
 
+## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
+* 👍 Chris Herman
+
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎1 
 * 👎 Chris Herman
 
+## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
+
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
+
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
@@ -76,6 +84,9 @@
 
 ## [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes.   ❓1
 * ❓ Chris Herman
+
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+* 👎 Chris Herman
 
 ## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms 👍1  
 

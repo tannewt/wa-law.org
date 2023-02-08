@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Tue 02/07 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1539 Private vocational licenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30663&aId=150720&caId=21277&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30663&aId=150720&caId=21277&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30663&aId=150720&caId=21277&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30663&aId=150720&caId=21277&tId=4)
-
-#### 17 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* James Tumelson - Washington Assocation of Building Officials
 
 #### 0 👎 - Con
 

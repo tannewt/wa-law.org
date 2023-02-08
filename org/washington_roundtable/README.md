@@ -4,7 +4,7 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
@@ -14,5 +14,8 @@
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
+
+## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  
+* 👍💵 Neil Strege
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  

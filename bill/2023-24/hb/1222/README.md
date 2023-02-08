@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=4)
 
-#### 478 👍 - Pro
+#### 586 👍 - Pro
 Testifying:
 * Jill Bujnevicie
 * Cynthia Stewart - Hearing Loss Association - WA
@@ -32,12 +32,13 @@ Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Christina Lundberg
 * Shanti Lang
+* CHERYLYNNE CROWTHER
 
 #### 1 👎 - Con
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/18 01:30 PM - Health Care & Wellness (HCW): HB 1222 Hearing instruments coverage
 #### 331 👍 - Pro

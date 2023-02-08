@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151157&caId=21346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151157&caId=21346&tId=4)
 
-#### 7 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
+* 💵Daniel Lugo - [Treehouse](/org/treehouse/)
 
 #### 0 👎 - Con
 

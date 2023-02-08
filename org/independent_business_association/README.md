@@ -19,6 +19,9 @@
 ## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍1  
 * 👍💵 James King
 
+## [HB 1684](/bill/2023-24/hb/1684/) - Tribes/job title reporting   ❓1
+* ❓💵 James King
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 James King
 
@@ -34,6 +37,8 @@
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech  👎1 
 * 👎💵 James King
+
+## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax   ❓1
 * ❓💵 James King

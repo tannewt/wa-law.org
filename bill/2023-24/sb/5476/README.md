@@ -14,15 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150613&caId=21121&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150613&caId=21121&tId=4)
 
-#### 458 👍 - Pro
+#### 661 👍 - Pro
 Testifying:
 * Enrique Gastelum - wafla
 * Rachel McCauley
 * TRAVIS ROOSMA - FARMERS EQUIPMENT COMPANY
 * Kyle E Shinn
+* Maggie Elliot - Hop Growers of Washington
+* Joel Cervantes - Double R Farmworkers
 
-#### 214 👎 - Con
+#### 527 👎 - Con
 Testifying:
 * Ana Ramirez
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Adriana Cedano
+* Francisco Ornelas
+* Ana Navarro

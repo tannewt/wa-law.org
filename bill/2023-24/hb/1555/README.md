@@ -8,22 +8,19 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1555 Indian tribes/extradition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150710&caId=21211&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150710&caId=21211&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150710&caId=21211&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150710&caId=21211&tId=4)
-
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Chief Mike Lasnier - The Suquamish Tribe
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Earl Cowan - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 * Margaret Finkbonner - Swinomish Indian Tribal Communication
 * Melissa Simonsen - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Brian Kilgore - Tulalip Tribes of WA
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

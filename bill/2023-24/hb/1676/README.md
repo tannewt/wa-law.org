@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150863&caId=21258&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150863&caId=21258&tId=4)
 
-#### 210 👍 - Pro
+#### 567 👍 - Pro
 Testifying:
 * Jome Johnson - [Kindering](/org/kindering/)
+* Jen Chong Jewell
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

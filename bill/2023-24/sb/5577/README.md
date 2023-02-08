@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150739&caId=21085&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150739&caId=21085&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Carissa Hahn - CWA/WashTech
 * Adrian Chavarria - CWA/WashTech
+* Carissa Hahn - CWA/WashTech
+* JJ Carter - CWA/WashTech Local 7804
+* Todd Brandenburg - PocketiNet Communications, Inc.
+* Scott Richards - Washington Public Utility Districts Association
+* 💵Betty Buckley
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jasmine Vasavada - Dept of Commerce

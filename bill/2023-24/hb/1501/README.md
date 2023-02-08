@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1501 Family counseling/homicide
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150708&caId=21209&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150708&caId=21209&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150708&caId=21209&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30661&aId=150708&caId=21209&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Deana Knowlton
 

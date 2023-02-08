@@ -12,7 +12,7 @@
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍1  
 

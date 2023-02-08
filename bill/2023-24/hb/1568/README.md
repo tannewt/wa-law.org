@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30664&aId=150722&caId=21279&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30664&aId=150722&caId=21279&tId=4)
 
-#### 9 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* 💵Leslie Emerick - Home Care Association of America -WA Ch (HCAOA-WA)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Madeleine Foutch - SEIU 775

@@ -29,6 +29,9 @@
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
 * 👍 Jay Arnold
 
+## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
+* 👍💵 Brian Enslow
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  

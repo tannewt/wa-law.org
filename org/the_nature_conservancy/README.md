@@ -36,6 +36,12 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
+## [HB 1728](/bill/2023-24/hb/1728/) - Statewide resiliency program 👍1  
+* 👍 Skippy Shaw
+
+## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
+* 👍 Skippy Shaw
+
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  

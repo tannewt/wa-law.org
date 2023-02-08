@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150660&caId=21181&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150660&caId=21181&tId=4)
 
-#### 6 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Jessa Lewis - Alliance for a Healthy Washington
+* 💵Giovanni Severino - Latino Community Fund
+* Hilary Franz - Washington Department of Natural Resources
+* George Geissler - Washington State Department of Natural Resources
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
 #### 0 👎 - Con
 

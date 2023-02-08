@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30645&aId=151082&caId=21226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30645&aId=151082&caId=21226&tId=4)
 
-#### 36 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Catherine Ahl - League of Women Voters of WA
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
+* Liv Finne - Washington Policy Center
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Scott Nelson - Office of the Washington State Auditor
+* 💵Rekha Bhatt - Washington State Charter Schools Association

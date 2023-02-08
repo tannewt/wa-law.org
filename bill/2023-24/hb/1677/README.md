@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151076&caId=21292&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151076&caId=21292&tId=4)
 
-#### 49 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer
 * Jason Michaud
 * Sandra Bensley - Sierra Heights Consulting NW (Treasurer-Accounting)
 * Cindy Madigan - League of Women Voters of Washington
+* Fred Jarrett - Public Disclosure Commission
+* Sean Flynn - Public Disclosure Commission
 
 #### 1 👎 - Con
 

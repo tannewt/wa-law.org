@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150909&caId=21079&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150909&caId=21079&tId=4)
 
-#### 144 👍 - Pro
+#### 288 👍 - Pro
 Testifying:
 * Leslie Williams - Conservative Ladies of Washington
 * Liv Finne - Washington Policy Center
 
-#### 144 👎 - Con
+#### 149 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 

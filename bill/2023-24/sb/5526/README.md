@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=4)
 
-#### 38 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Joann Roderiques -lemon
 * Dora Poqui
+* 💵Madeleine Foutch - SEIU 775
+* Rhonda Pebbles - Certified Nursing Assistant
+* Radiance Johnson - Med Tech
+* Shelly Hughes
 
 #### 0 👎 - Con
 

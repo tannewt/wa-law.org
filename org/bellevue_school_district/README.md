@@ -25,6 +25,10 @@
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
+## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
+
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
@@ -38,5 +42,7 @@
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+
+## [SB 5617](/bill/2023-24/sb/5617/) - Skill centers course equiv. 👍1  
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  

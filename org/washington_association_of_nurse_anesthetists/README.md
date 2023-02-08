@@ -13,6 +13,8 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍1  
 
+## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍1  
+
 ## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎8 
 * 👎 Adrianna Silva
 * 👎 Ashley Fedan

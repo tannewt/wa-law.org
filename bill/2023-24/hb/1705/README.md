@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151149&caId=21315&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151149&caId=21315&tId=4)
 
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Mat Jackmond - Hopkins Drainage Ditch District #2 in Thurston County
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Axel Swanson - Washington State Association of County Engineers
 
 #### 1 ❓ - Other
 Testifying:

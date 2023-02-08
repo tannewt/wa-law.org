@@ -8,23 +8,21 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1735 GMA/net ecological gain
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=151189&caId=21342&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=151189&caId=21342&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=151189&caId=21342&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30687&aId=151189&caId=21342&tId=4)
-
-#### 8 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Tom McBride - WDFW
 * 💵Kaylee Galloway
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mindy Roberts - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 9 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Don Gourlie - Puget Sound Partnership
+* 💵Bill Clarke - WA PUD Association

@@ -142,6 +142,8 @@
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
 
+## [HB 1484](/bill/2023-24/hb/1484/) - Estate tax exclusion amount 👍1  
+
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 Mike Ennis
 
@@ -170,7 +172,12 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
+## [HB 1557](/bill/2023-24/hb/1557/) - Digital processing services 👍1  
+
 ## [HB 1561](/bill/2023-24/hb/1561/) - Public utility tax exemption 👍1  
+
+## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
+* 👍💵 Peter Godlewski
 
 ## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
 
@@ -179,6 +186,10 @@
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
+## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
+
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 * 👍 Mike Ennis
 
@@ -186,6 +197,9 @@
 * 👎 Mike Ennis
 
 ## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
+
+## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
+* 👍 Emily Shay
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -311,6 +325,11 @@
 
 ## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
 
+## [SB 5600](/bill/2023-24/sb/5600/) - Universal communications prg 👍1  
+
 ## [SB 5603](/bill/2023-24/sb/5603/) - Driver training/large veh. 👍1  
+
+## [SB 5607](/bill/2023-24/sb/5607/) - Fashion/env. policies  👎1 
+* 👎💵 Peter Godlewski
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  

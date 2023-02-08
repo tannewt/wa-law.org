@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Transportation (TRAN): SB 5575 PTBA governing bodies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150930&caId=21157&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150930&caId=21157&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150930&caId=21157&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30701&aId=150930&caId=21157&tId=4)
-
-#### 14 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Jeff Pack - Me
 * Caleb Suttle - Teamsters
 * Robert Driskell - Teamsters
 * Russell Shjerven - Teamsters
 * Kenneth price - ATU 587 President
+* Jeremy Une - ATULC
+* Rhonda Bowers - ATU 1015
 
 #### 4 👎 - Con
 Testifying:

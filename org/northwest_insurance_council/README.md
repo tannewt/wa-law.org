@@ -6,3 +6,6 @@
 
 ## [SB 5326](/bill/2023-24/sb/5326/) - Vehicle insurance verif. 👍1  
 * 👍 KENTON BRINE
+
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎1 
+* 👎💵 Kenton Brine

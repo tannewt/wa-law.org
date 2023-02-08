@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151319&caId=21362&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151319&caId=21362&tId=4)
 
-#### 54 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Adán Jr. Mendoza-Sandoval - VP, WA Student Association
 * Nancy Canales-Montiel - Executive Director, WA Students Association
@@ -24,6 +24,9 @@ Testifying:
 * Madeline Sprute - Associated Students of Tacoma Community College
 * Nancy Cruz - Community For Our College
 * Nancy Canales-Montiel - WA Student Association
+* Naira Gonzales Aranda - Associated Students of Western Washington University
+* Nävouny Divinne De Nile
+* Reika Sasano
 
 #### 0 👎 - Con
 

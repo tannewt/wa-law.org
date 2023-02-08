@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Steve Storkan - Employee Ownership Expansion Network
+* Jack Moriarty - Ownership America
+* John McNamara - Northwest Cooperative Development Center
 
 #### 0 👎 - Con
 

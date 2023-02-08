@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Law & Justice (LAW): SB 5056 Habitual property offenders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150571&caId=21134&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150571&caId=21134&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150571&caId=21134&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30633&aId=150571&caId=21134&tId=4)
-
-#### 44 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Jessica Laughery - Hutton Settlement
 
-#### 13 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Brian Flaherty - King County Department of Public Defense
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association

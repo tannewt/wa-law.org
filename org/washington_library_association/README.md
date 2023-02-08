@@ -1,8 +1,11 @@
 # Washington Library Association
 
-## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍4  
+## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍5  
 * 👍 Sarah Logan
 * 👍 Eryn Duffee
+* 👍💵 Carolyn Logue
+
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 

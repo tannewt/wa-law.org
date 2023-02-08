@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Housing (HOUS): HB 1636 Foreclosure/common interest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150947&caId=21252&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150947&caId=21252&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150947&caId=21252&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30706&aId=150947&caId=21252&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Raelene Schifano - HOA Fightclub nonprofit
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
 * Aaron Lang
+* Patrick McDonald - Washington State Chapter of Community Association Institute
 
 #### 0 👎 - Con
 

@@ -46,4 +46,6 @@
 ## [SB 5378](/bill/2023-24/sb/5378/) - Voter education 👍1  
 * 👍 Steve Hobbs
 
+## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
+
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  

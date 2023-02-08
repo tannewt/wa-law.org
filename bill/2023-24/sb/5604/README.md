@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/07 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5604 Mental health & housing/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150819&caId=21136&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150819&caId=21136&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150819&caId=21136&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30682&aId=150819&caId=21136&tId=4)
-
-#### 18 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Mary Jane Brell-Vujovic - Snohomish County
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
