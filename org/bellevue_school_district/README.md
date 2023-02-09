@@ -29,11 +29,17 @@
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
+## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍1  
+
+## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
+
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
 
 ## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
 
@@ -46,3 +52,5 @@
 ## [SB 5617](/bill/2023-24/sb/5617/) - Skill centers course equiv. 👍1  
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+
+## [SB 5647](/bill/2023-24/sb/5647/) - School safety/temp employees 👍1  

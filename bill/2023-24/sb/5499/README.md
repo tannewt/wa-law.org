@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=4)
 
-#### 31 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Onora Lien - Northwest Healthcare Response Network
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Elizabeth Hovde - Washington Policy Center

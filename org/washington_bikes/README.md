@@ -9,6 +9,8 @@
 ## [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍2  
 * 👍 Vicky Clarke
 
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
+
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍2  
 
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1143 Firearms/purchase & transfer
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151161&caId=21350&tId=4)
-
-#### 763 👍 - Pro
+#### 784 👍 - Pro
 Testifying:
 * Rheea Delora
 * Casey White - VREPTA
@@ -25,7 +19,7 @@ Testifying:
 * Tahana Salvadalena
 * Patricia Mays
 
-#### 1925 👎 - Con
+#### 2674 👎 - Con
 Testifying:
 * eric pratt - America
 * Tim Smith
@@ -61,8 +55,16 @@ Testifying:
 * thomas young
 * Janet Wolff
 * Joseph Buchmeier - The American People
+* Mike Allen
+* Dawn Appelberg
+* Stephen Granahan - 15848 Hi 9
+* THOMAS CHAMBERS - C&A
+* Edward Thomas
+* Richard Grunewald
+* John McLeod
+* Teo Morca
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Bill Devriend
 

@@ -14,14 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150612&caId=21120&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150612&caId=21120&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* Eric Gaston - Evergreen Market
+* April Roth - Soulshine Cannabis
+* Andy Brassington - Evergreen Herbal
 
-#### 2 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Shawn Wagenseller - Washington Bud Company
+* Julia Trusler - The Vault
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Bethany Rondeaux

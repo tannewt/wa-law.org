@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151165&caId=21353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151165&caId=21353&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Janice Zahn - Capital Projects Advisory Review Board
+* William Frare - Washington State Department of Enterprise Services
 
 #### 0 👎 - Con
 

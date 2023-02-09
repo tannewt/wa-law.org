@@ -8,19 +8,31 @@
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Transportation (TR): HB 1428 Pedestrians/roadways
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150695&caId=21297&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150695&caId=21297&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150695&caId=21297&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150695&caId=21297&tId=4)
-
-#### 275 👍 - Pro
+#### 494 👍 - Pro
 Testifying:
 * Kelli Refer - Move Redmond
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* 💵Paula Sardinas - FMS Global/Build Back Black Alliance
+* 💵Samuel Martin - WA for Black Lives
+* Jac Archer - PJALS/SCAR
+* Brian Flaherty - King County Department of Public Defense
+* Daniel Heppner
+* Ethan Campbell - Transportation Choices Research Partner
+* Aidan Carroll
+* DeAndre Anderson
+* Jaime Torres
+* Camilla Walter - Real change
+* Lorena Gonzalez - ACLU - WA
+* Magda Baker - [Washington Defender Association](/org/washington_defender_association/)
+* Laura Svancarek - Downtown On The Go
 
-#### 7 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* David-Henry Sedelmeier - Driving School owner
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)

@@ -13,5 +13,8 @@
 
 ## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  
 
+## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍1  
+* 👍 Carma Matti-Jackson
+
 ## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
 * 👍 Carma Matti-Jackson

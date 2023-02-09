@@ -15,13 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151071&caId=21176&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151071&caId=21176&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Janice Zahn - Capital Projects Advisory Review Board
+* William Frare - Washington State Department of Enterprise Services
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industry
 
 ### Fri 01/20 08:00 AM - State Government & Elections (SGE): SB 5268 Public works procurement
 #### 17 👍 - Pro

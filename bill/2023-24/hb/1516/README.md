@@ -8,19 +8,20 @@
 
 ## Meetings
 ### Wed 02/08 01:30 PM - State Government & Tribal Relations (SGOV): HB 1516 Lunar new year
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151010&caId=21290&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151010&caId=21290&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151010&caId=21290&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30712&aId=151010&caId=21290&tId=4)
-
-#### 9 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Karin Mei Butler - Multicultural Association of Edmonds
+* Rongfen Burford
+* Paul Charbonneau - [City of Newcastle](/org/city_of_newcastle/)
+* Yan Zhang
 
-#### 65 👎 - Con
+#### 94 👎 - Con
 Testifying:
 * Hao Xu
 * Yingju Ren
+* Linda Yang - WA Asians For Equality
+* Derrick Mariot
+* Vivian Dong
 
 #### 0 ❓ - Other

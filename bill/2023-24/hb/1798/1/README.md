@@ -1,0 +1,46 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1798](/bill/2023-24/hb/1798/) > [Original Bill](/bill/2023-24/hb/1798/1/)
+
+# HB 1798 - Earned release time
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1798.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. The term of the sentence of an offender committed to a correctional facility operated by the department may be reduced by earned release time in accordance with procedures that shall be developed and adopted by the correctional agency having jurisdiction in which the offender is confined. The earned release time shall be for good behavior and good performance, as determined by the correctional agency having jurisdiction.
+
+    b. Any program established pursuant to this section shall allow an offender to earn earned release time credits for presentence incarceration. If an offender is transferred from a county jail to the department, the administrator of a county jail facility shall certify to the department the amount of time spent in custody at the facility and the number of days of earned release time credits lost or not earned. The department may approve a jail certification from a correctional agency that calculates earned release time based on the actual amount of confinement time served by the offender before sentencing when an erroneous calculation of confinement time served by the offender before sentencing appears on the judgment and sentence. The department must adjust an offender's rate of earned release time listed on the jail certification to be consistent with the rate applicable to offenders in the department's facilities. However, the department is not authorized to adjust the amount of presentence earned release time that the jail has certified as lost or not earned.
+
+2.
+
+For any term of confinement set to be completed on or after July 1, 2023, an offender may accrue earned release time up to 33.33 percent of the total sentence. In the case of consecutive sentences, the phrase "any term of confinement set to be completed on or after July 1, 2023," means the sentence currently being served and any sentences yet to be served, but not any consecutive sentence previously served by the offender, whether the consecutive sentences are imposed under one judgment or multiple judgments. This includes sentence enhancements under RCW 9.94A.533, except that:
+
+    a. The following are ineligible for earned release time:
+
+        i. A federal sentence served in the department's custody;
+
+        ii. An out-of-state sentence served at the department;
+
+        iii. A juvenile sentence under Title 13 RCW;
+
+        iv. A less restrictive alternative under chapter 71.05 RCW;
+
+    v. A civil commitment under chapter 10.77 RCW;
+
+    vi. A mandatory minimum sentence under RCW 9.94A.540;
+
+    vii. A persistent offender sentence under RCW 9.94A.570;
+
+    viii. A special sex offender sentencing alternative under RCW 9.94A.670; and
+
+        ix. An aggravated first degree murder sentence imposed on an adult under RCW 10.95.030.
+
+    b. A sentence imposed on a juvenile under RCW 10.95.030 or 10.95.035 is ineligible for earned release time during the minimum term of confinement imposed by the court; for any remaining portion of the sentence, the aggregate earned release time may not exceed 33.33 percent.
+
+    c. An offender qualified to earn up to 50 percent earned release time under RCW 9.94A.729 shall not lose earned release time accrued before July 1, 2023.
+
+## Section 2
+Pursuant to RCW 9.94A.729, the department of corrections shall recalculate the earned release date for any offender currently serving a term of confinement in a facility or institution either operated by the state or utilized under contract. The earned release date shall be recalculated whether the offender is currently incarcerated or is sentenced after the effective date of this section, and regardless of the offender's date of offense. For offenders whose offense was committed prior to the effective date of this section, the recalculation shall apply to any term of confinement set to be completed on or after July 1, 2023, and shall not extend a term of incarceration beyond that to which an offender is currently subject. This act applies to any term of confinement set to be completed on or after July 1, 2023, regardless of the date of the underlying offense.
+
+## Section 3
+The department of corrections' recalculations of earned release time pursuant to this act do not create any expectations that the percentage of earned release time will be revised before July 1, 2024, and there is no reason to conclude that the maximum percentage of earned release time is an entitlement or creates any liberty interest. The department of corrections is authorized to take the time reasonably necessary to complete the recalculations of earned release time after the effective date of this section.

@@ -58,6 +58,8 @@
 
 ## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍1  
 
+## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
+
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
@@ -67,3 +69,5 @@
 * 👍💵 Juliet Schindler
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
+
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/13 04:00 PM - Ways & Means (WM): SSB 5080 Cannabis social equity
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Peter Manning - Black Excellence In Cannabis
+* Mike Asai - Black Excellence In Cannabis
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5080 Cannabis social equity
 #### 0 👍 - Pro
 

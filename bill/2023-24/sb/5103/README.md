@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/17 08:00 AM - Health & Long Term Care (HLTC): SB 5103 Medicaid patients/discharge

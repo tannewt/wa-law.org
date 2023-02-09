@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151431&caId=21369&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151431&caId=21369&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Madeline Sprute - Associated Students of Tacoma Community College
+* Becky Thompson - Washington Student Achievement Council
 
 #### 0 👎 - Con
 

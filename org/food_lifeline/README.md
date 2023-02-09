@@ -48,6 +48,8 @@
 
 ## [HB 1603](/bill/2023-24/hb/1603/) - Agricultural products promo. 👍1  
 
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
@@ -56,7 +58,7 @@
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 * 👍💵 Aaron Czyzewski
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍2  
 

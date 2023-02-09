@@ -76,6 +76,8 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
+## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
@@ -99,7 +101,8 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
-## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
+* 👍 Lisa Herbold
 * 👍 Lisa Herbold
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  

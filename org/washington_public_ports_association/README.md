@@ -50,6 +50,14 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
+* 👍 Chris Herman
+
+## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
+
+## [HB 1778](/bill/2023-24/hb/1778/) - Economic resilience planning 👍1  
+* 👍 Chris Herman
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
 
@@ -103,5 +111,7 @@
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍 Eric ffitch
+
+## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  

@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Mon 02/13 04:00 PM - Ways & Means (WM): 2SSB 5001 Public facility districts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/30 04:00 PM - Transportation (TRAN): SSB 5001 Public facility districts
 #### 16 👍 - Pro
 Testifying:

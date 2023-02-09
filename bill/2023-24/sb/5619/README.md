@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Environment, Energy & Technology (ENET): SB 5619 Cybersecurity governance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150736&caId=21082&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150736&caId=21082&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150736&caId=21082&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150736&caId=21082&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Derek Puckett - Consolidated Technology Services (WaTech)
 * Jim Baumgart - Washington Military Department
 
-#### 3 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Cindy Carter
 
 #### 0 ❓ - Other

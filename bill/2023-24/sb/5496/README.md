@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Housing (HSG): SB 5496 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=150885&caId=21104&tId=4)
-
-#### 872 👍 - Pro
+#### 916 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
 * Amanda Sandoval - United Way of King County
@@ -41,8 +35,15 @@ Testifying:
 * Lila Grant
 * Lechelle Lucas
 * QUINTARD TAYLOR - BlackPast.org
+* John Smith
+* Sophia Dowling
+* Tonja Wortham - WMBA
+* 💵Nathan Gorton - Washington REALTORS
+* Charles Kalonji - I am a loan officer with New American Funding
+* QUINTARD TAYLOR - BlackPast.org
+* Norma Martinez-Olivera
 
-#### 340 👎 - Con
+#### 364 👎 - Con
 Testifying:
 * Kathleen Fitzpatrick
 * Ellen Dimbat

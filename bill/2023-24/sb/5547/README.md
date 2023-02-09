@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150883&caId=21099&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150883&caId=21099&tId=4)
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Alyssa Odegaard - LeadingAge Washington
+* Katie Houck - Heron's Key
 
 #### 0 👎 - Con
 

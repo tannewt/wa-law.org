@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150909&caId=21079&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150909&caId=21079&tId=4)
 
-#### 288 👍 - Pro
+#### 423 👍 - Pro
 Testifying:
 * Leslie Williams - Conservative Ladies of Washington
 * Liv Finne - Washington Policy Center
+* Anessa Rodriguez - Lumen High School
+* Karen Lobos - Rainier Prep
+* Steve Smith - Black Education Strategy Roundtable
+* Anthony Clarke - Summit Olympus
+* Cameron Kolk - Whatcom Intergenerational High School
+* Papani Ellison - Summit Olympus
 
-#### 149 👎 - Con
+#### 155 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other

@@ -14,10 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30662&aId=150988&caId=21213&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30662&aId=150988&caId=21213&tId=4)
 
-#### 5 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
+* Alvin Notice - Tiana A Notice Foundation
+* Annie Murphey - Spokane Regional Domestic Violence Coalition
+* David Martin - Domestic Violence Unit - King County Prosecuting Attorney’s Office
+* Diane Rosenfeld - Harvard Law School, Gender Violence Program
+* Derek Sanders - Thurston County Sheriff
+* Taylor Knight - Clark County Prosecuting Attorney’s Office Domestic Violence Prosecution Center
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* David Martin - KCPAO
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Whitney Rivera - District & Municipal Court Judges Association
+* Lisa Henderson - Washington Association of County Clerks
+* Rick Torrance - Department of Commerce Office of Crime Victims Advocacy
+* Jamie Weimer - Washington Association of Sheriffs and Police Chiefs
+* Steve Strachan - Washington Association of Sheriffs and Police Chiefs

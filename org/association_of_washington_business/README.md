@@ -52,6 +52,8 @@
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
 * ❓ Mike Ennis
 
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
 ## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
@@ -59,6 +61,8 @@
 ## [HB 1254](/bill/2023-24/hb/1254/) - Periodic adjustments/DOR  👎2 
 * 👎💵 Peter Godlewski
 * 👎 Emily Shay
+
+## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants 👍1  
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
@@ -129,6 +133,8 @@
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen.  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways  👎1 
+
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎1 
 * 👎💵 Peter Godlewski
 
@@ -175,6 +181,14 @@
 ## [HB 1557](/bill/2023-24/hb/1557/) - Digital processing services 👍1  
 
 ## [HB 1561](/bill/2023-24/hb/1561/) - Public utility tax exemption 👍1  
+
+## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍1  
+
+## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
+* 👍 Emily Shay
+
+## [HB 1576](/bill/2023-24/hb/1576/) - Dentist compact 👍1  
+* 👍💵 Amy Anderson
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
 * 👍💵 Peter Godlewski
@@ -280,15 +294,19 @@
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 * 👍 Mike Ennis
 
+## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
+
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
 
-## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎1 
 * 👎 Mike Ennis
+
+## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 * 👍 Kris Johnson
@@ -319,7 +337,11 @@
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 * 👍💵 Peter Godlewski
 
+## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
+
 ## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍1  
+
+## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
 
 ## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍1  
 
@@ -333,3 +355,5 @@
 * 👎💵 Peter Godlewski
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

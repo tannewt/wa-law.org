@@ -29,13 +29,15 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 
-## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍2  
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
 
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
+
+## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
 

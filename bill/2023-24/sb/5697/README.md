@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=4)
 
-#### 180 👍 - Pro
+#### 322 👍 - Pro
 Testifying:
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
@@ -22,10 +22,19 @@ Testifying:
 * Kyle Lucas - Tenants United at Legacy Western Plaza MHP
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Deb Wilson
+* christine walker
+* Tereasa Staley
+* Sharon Pevey - AMHO
 
-#### 64 👎 - Con
+#### 200 👎 - Con
 Testifying:
 * Christina Mays - Detente Management, Inc
 * Jeremy Millard
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Jared Varnes
+* Beau Harer - Detente Management, Inc
+* Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Mike Simonitch - Shelter Management
 
 #### 0 ❓ - Other

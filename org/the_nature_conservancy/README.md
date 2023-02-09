@@ -32,6 +32,9 @@
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+* 👍💵 Justin Allegro
+
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
@@ -83,3 +86,6 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 * 👍 Skippy Shaw
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
+* 👍💵 Justin Allegro

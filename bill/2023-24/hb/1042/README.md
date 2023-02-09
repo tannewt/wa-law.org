@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1042 Use of existing buildings

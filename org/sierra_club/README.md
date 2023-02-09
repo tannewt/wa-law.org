@@ -17,7 +17,8 @@
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 * 👍 MIKE O'BRIEN
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
+* 👍 Mike Town
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
 

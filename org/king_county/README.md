@@ -345,6 +345,8 @@
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
 
+## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍1  
+
 ## [SB 5619](/bill/2023-24/sb/5619/) - Cybersecurity governance 👍1  
 
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  

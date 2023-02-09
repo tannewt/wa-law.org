@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1272 Voters' pamphlets
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Laurie Layne
+
+#### 0 ❓ - Other
+
 ### Fri 01/20 08:00 AM - State Government & Tribal Relations (SGOV): HB 1272 Voters' pamphlets
 #### 23 👍 - Pro
 Testifying:

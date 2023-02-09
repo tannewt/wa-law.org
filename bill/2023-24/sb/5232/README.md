@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=4)
 
-#### 640 👍 - Pro
-
-#### 1017 👎 - Con
+#### 791 👍 - Pro
 Testifying:
+* Donnitta Sinclair
+* Karyn Brownson - King County Public Health
+* 💵Margaret Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Carol Mitchell - Institute For Black Justice
+* Dr. Gwen Loosmore - WSPTA
+* Lisa Herbold - [City of Seattle](/org/city_of_seattle/)
+
+#### 1570 👎 - Con
+Testifying:
+* Eric Pratt - America
 * Eric pratt - America
 * Laurie A Layne
 * Julie Barrett - Conservative Ladies of Washington
@@ -32,6 +40,8 @@ Testifying:
 * John Nowels - Spokane County Sheriff
 * Mathew Joy - Carson Hardware
 * Matt Page
+* Max Egger
+* Paula Hazen - Firearms Instructor
 
 #### 2 ❓ - Other
 Testifying:

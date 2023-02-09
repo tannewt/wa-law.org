@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5703 College grant/bridge grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151319&caId=21362&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151319&caId=21362&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151319&caId=21362&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151319&caId=21362&tId=4)
-
-#### 131 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Adán Jr. Mendoza-Sandoval - VP, WA Student Association
 * Nancy Canales-Montiel - Executive Director, WA Students Association
@@ -27,6 +21,23 @@ Testifying:
 * Naira Gonzales Aranda - Associated Students of Western Washington University
 * Nävouny Divinne De Nile
 * Reika Sasano
+* Danya Vargas Almejo
+* Heather Hudson - Washington Student Achievement Council
+* Sopeara Chay - South Puget Sound Community College
+* Greyson Wolfe - Student from South Puget Sound Community College
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Timothy Billing - ASUW President
+* Diana Rios - ASWSU
+* Luke Deschenes - ASWSU
+* Josh Rhynes - Associated Students of Tacoma Community College
+* Martell Naranjo - Associated Students of Tacoma Community College
+* Alec Acosta-Vega - Associated Students of Central Washington University
+* Joseph Gabriel Burke - Director of Governmental Affairs, Associated Students of Central Washington University
+* Michelle Carrillo - Associated Students of Central Washington University
+* Jessica Smith
+* Naira Gonzales Aranda - Associated Students of Western Washington University
+* Collin Bannister - ASWSU
+* Haley Pistole
 
 #### 0 👎 - Con
 

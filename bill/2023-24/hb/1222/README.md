@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1222 Hearing instruments coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150876&caId=21196&tId=4)
-
-#### 586 👍 - Pro
+#### 657 👍 - Pro
 Testifying:
 * Jill Bujnevicie
 * Cynthia Stewart - Hearing Loss Association - WA
@@ -33,6 +27,7 @@ Testifying:
 * Christina Lundberg
 * Shanti Lang
 * CHERYLYNNE CROWTHER
+* Zephyr Kolsky - Zephyr is a kid testifying in support of this bill
 
 #### 1 👎 - Con
 Testifying:

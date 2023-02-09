@@ -14,17 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30645&aId=151082&caId=21226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30645&aId=151082&caId=21226&tId=4)
 
-#### 38 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Catherine Ahl - League of Women Voters of WA
 
-#### 3 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Liv Finne - Washington Policy Center
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Scott Nelson - Office of the Washington State Auditor
 * 💵Rekha Bhatt - Washington State Charter Schools Association
+* Harium Martin Morris - Charter School Commissioner
+* Jessica de Barros - Charter School Commission
+* Randy Spaulding - Washington State Board of Education

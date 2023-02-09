@@ -32,6 +32,9 @@
 ## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris   ❓1
 * ❓💵 Heather Trim
 
+## [SB 5222](/bill/2023-24/sb/5222/) - Litter control program   ❓1
+* ❓💵 Heather Trim
+
 ## [SB 5245](/bill/2023-24/sb/5245/) - Biosolids   ❓1
 * ❓💵 Heather Trim
 

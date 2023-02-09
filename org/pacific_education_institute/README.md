@@ -2,6 +2,8 @@
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
 
+## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
+
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
@@ -18,3 +20,5 @@
 * 👍 Kathryn Kurtz
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
+
+## [SB 5617](/bill/2023-24/sb/5617/) - Skill centers course equiv. 👍1  

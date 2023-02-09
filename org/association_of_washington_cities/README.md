@@ -75,6 +75,9 @@
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 * 👍💵 Carl Schroeder
 
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways   ❓1
+* ❓ Brandy DeLange
+
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct  👎1 
 * 👎💵 Candice Bock
 

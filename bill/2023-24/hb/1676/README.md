@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1676 Special ed. early support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150863&caId=21258&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150863&caId=21258&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150863&caId=21258&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30690&aId=150863&caId=21258&tId=4)
-
-#### 567 👍 - Pro
+#### 632 👍 - Pro
 Testifying:
 * Jome Johnson - [Kindering](/org/kindering/)
 * Jen Chong Jewell
+* Tracy Kahlo - PAVE
+* Magan Cromar - Division Director for King County's Developmental Disabilities and Early Childhood Supports Division
+* Julia K Anderson
+* Colleen Fuchs - Joya Child & Family Development
+* Jerome Johnson - Kindering parent
+* 💵Nick Federici - Kindering, Boyer Children's Clinic, Birth To Three Development Center
+* Rene Denman - Toddler Learning Center
 
 #### 0 👎 - Con
 

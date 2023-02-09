@@ -16,6 +16,9 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
+## [HB 1725](/bill/2023-24/hb/1725/) - Insulin/access under 21   ❓1
+* ❓ Kate White Tudor
+
 ## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
 * 👍 Lisa Nelson
 

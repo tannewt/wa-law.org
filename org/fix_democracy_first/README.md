@@ -6,9 +6,13 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
@@ -42,6 +46,8 @@
 * 👍💵 Cindy Black
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
+
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
@@ -136,3 +142,5 @@
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+
+## [SB 5697](/bill/2023-24/sb/5697/) - Authorizing the utilities and transportation commission to regulate the rates and services of all persons engaging in the business of acting as a landlord for a mobile home park, manufactured housing community, or manufactured/mobile home community. 👍1  

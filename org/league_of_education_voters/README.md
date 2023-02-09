@@ -34,3 +34,5 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+
+## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Housing (HSG): SB 5637 Graduated rental rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151243&caId=21325&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151243&caId=21325&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151243&caId=21325&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151243&caId=21325&tId=4)
-
-#### 23 👍 - Pro
+#### 25 👍 - Pro
 
 #### 0 👎 - Con
 

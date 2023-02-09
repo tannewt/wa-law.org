@@ -92,13 +92,13 @@
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓1
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓2
 * ❓💵 Ramona Hattendorf
 
-## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍3  
 * 👍💵 Ramona Hattendorf
 
-## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
+## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍2  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍2  
 

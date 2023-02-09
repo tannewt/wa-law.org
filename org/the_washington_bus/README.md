@@ -19,3 +19,6 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍4  
+
+## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍2  
+* 👍💵 Jazmine Smith

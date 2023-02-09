@@ -17,6 +17,8 @@
 ## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
 * 👍 Brian Hatfield
 
+## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
+
 ## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  

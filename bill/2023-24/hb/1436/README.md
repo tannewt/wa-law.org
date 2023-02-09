@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=4)
 
-#### 197 👍 - Pro
+#### 282 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Superintendent Patrick Murphy - Superintendent, Olympia School District
@@ -38,10 +38,21 @@ Testifying:
 * Kathy Mulkerin - Washington State School Directors' Association
 * Nikki Otero-Lockwood - Washington State School Directors' Association
 * Casey White - VREPTA
+* Kathryn Lachenmaier
+* Tracy Kahlo
+* Robert Cruickshank - Washington's Paramount Duty
+* Jane Fuller - I am testifying as a council member for San Juan County on behalf of the County Council.
+* Christina Antonakos-Wallace
+* Ian Fogg - Student, Seattle Public Schools
+* Dawn Sidell - Northwest Autism Center
+* Molly/Olivia Mitchell
+* Jen Chong Jewell - Special Education Advisory Council for OSPI
+* Jen Chong Jewell - Special Education Advisory Council for OSPI
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Caitlin Cox - Lake Washington School District
 * Mark Stuart - Lake Washington School District
+* Nancy Chamberlain - Washington State PTA

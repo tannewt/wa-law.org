@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1762 Warehouse employees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=151190&caId=21359&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=151190&caId=21359&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=151190&caId=21359&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=151190&caId=21359&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* John Scearcy - Teamsters Local 117
+* Donald Guzman
+* Will Buff - Teamsters 117
 
-#### 7 👍 - Pro
-
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Brandon Houskeeper - NW Grocery Assoc.
 
 #### 0 ❓ - Other

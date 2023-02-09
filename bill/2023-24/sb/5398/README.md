@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30659&aId=150691&caId=21111&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30659&aId=150691&caId=21111&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Gina Finley
 * Jill McKnight
@@ -25,4 +25,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Karin White - YWCA Pierce County
+* 💵Emily Stone - WA State Coalition Against Domestic Violence

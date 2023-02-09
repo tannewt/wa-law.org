@@ -4,13 +4,16 @@
 
 ## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
 
-## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
+## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  ❓1
 * 👍💵 Bryce Yadon
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
 * 👍💵 Bryce Yadon
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
+* 👍💵 Bryce Yadon
+
+## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
 * 👍💵 Bryce Yadon
 
 ## [SB 5216](/bill/2023-24/sb/5216/) - Collisions/driver reexam 👍1  

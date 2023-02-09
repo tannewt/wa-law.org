@@ -41,3 +41,5 @@
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 * 👍 Josh McDonald
 * 👍 Josh McDonald
+
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  

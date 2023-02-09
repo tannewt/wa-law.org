@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1728 Statewide resiliency program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151075&caId=21261&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151075&caId=21261&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151075&caId=21261&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151075&caId=21261&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)

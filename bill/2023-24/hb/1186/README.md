@@ -9,13 +9,12 @@
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1186 Child welfare housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151156&caId=21345&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151156&caId=21345&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151156&caId=21345&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=151156&caId=21345&tId=4)
-
-#### 34 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* Andrew Calkins - Association of Washington Housing Authorities & King County Housing Authority
+* Heather Cantamessa - Director of Family Impact, Children's Home Society of WA
+* Sharonda Amamilo - Thurston Co. Superior Ct., Position 8
+* Shane Silverthorn
 
 #### 0 👎 - Con
 

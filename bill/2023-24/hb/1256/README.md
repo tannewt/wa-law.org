@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150869&caId=21200&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150869&caId=21200&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Joseph Smith - [Gonzaga University](/org/gonzaga_university/)
+* Cher Abigail Aguilar Henriquez - Student, Saint Martin's University
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
+* Andrew Sund - Heritage University
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Arlen Harris - SBCTC
+* Ruben Flores - Council Of Presidents

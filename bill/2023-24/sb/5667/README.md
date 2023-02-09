@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30537&aId=151045&caId=21071&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30537&aId=151045&caId=21071&tId=4)
 
-#### 81 👍 - Pro
+#### 156 👍 - Pro
 Testifying:
 * Gene Jones
 * Sally Bronow
@@ -86,16 +86,30 @@ Testifying:
 * Paul Kester - Spring Creek Timber
 * BRIAN SAILOR
 * Francis Hannick
+* Todd Nylund
 * Nancy Loiselle
 * Robert Rose
 * Frank Shirley
 * Jim Hanna
 * Terry Keene - Personal use
 * Molly Keene
+* Mansel Kevwitch
+* ELMER LAULAINEN
+* Ben Paylor - Lentz Family Tree Farms
+* Lloyd Pursley - Pursley Family Tree Farm LLC
+* Ron Pursley
+* KYRIE Patino
+* John Keller
+* Kathleen Greenbaum
+* Don Lentz
+* Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Ken Miller - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Vicki Rhodes
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Norris Petit
 * Tom O'Brien - WDFW
+* Vince McGowan - Ecology

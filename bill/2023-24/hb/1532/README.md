@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Transportation (TR): HB 1532 Turn signal in roundabouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150696&caId=21298&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150696&caId=21298&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150696&caId=21298&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30652&aId=150696&caId=21298&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* Greg Sypnicki
+* Scott Jensen
+* David-Henry Sedelmeier - Driving School owner
 
-#### 1 👍 - Pro
-
-#### 2 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

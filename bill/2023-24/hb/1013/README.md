@@ -9,17 +9,12 @@
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1013 Regional apprenticeship prgs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30673&aId=150875&caId=21195&tId=4)
-
-#### 37 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Michelle Price - AESD
+* Brian Freeman - Curlew School District
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/16 01:30 PM - Finance (FIN): HB 1510 Community preservation auth.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/07 10:30 AM - Local Government (LG): HB 1510 Community preservation auth.
 #### 7 👍 - Pro
 Testifying:

@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5522 College grant prg. stipend
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150992&caId=21100&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150992&caId=21100&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150992&caId=21100&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=150992&caId=21100&tId=4)
-
-#### 58 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Keyla Zapien
 * Marlen Cortez-Sanchez
 * Jackson Feaster
 * Jacob Katz
+* Amara Schermerhorn
 
 #### 0 👎 - Con
 

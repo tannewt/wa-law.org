@@ -8,22 +8,18 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1578 Wildland fire safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150660&caId=21181&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150660&caId=21181&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150660&caId=21181&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30649&aId=150660&caId=21181&tId=4)
-
-#### 24 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Jessa Lewis - Alliance for a Healthy Washington
 * 💵Giovanni Severino - Latino Community Fund
 * Hilary Franz - Washington Department of Natural Resources
 * George Geissler - Washington State Department of Natural Resources
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* Ed Chadd
+* 💵Vicki Lowe - American Indian Health Commission for WA State
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)

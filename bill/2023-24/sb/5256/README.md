@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151172&caId=21317&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151172&caId=21317&tId=4)
 
-#### 33 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Jill Stanton - Bremerton Housing Authority & Association of Washington Housing Authorities
+* Terreca DeFehr - Parent Ally
+* Shane Silverthorn
 
 #### 0 👎 - Con
 

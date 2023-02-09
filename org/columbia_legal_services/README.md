@@ -109,6 +109,9 @@
 
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession  👎1 
 
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
+* 👎💵 Andrea Schmitt
+
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances  👎1 
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
@@ -117,3 +120,5 @@
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
 * 👍 Xaxira Velasco Ponce de León
+
+## [SB 5697](/bill/2023-24/sb/5697/) - Authorizing the utilities and transportation commission to regulate the rates and services of all persons engaging in the business of acting as a landlord for a mobile home park, manufactured housing community, or manufactured/mobile home community. 👍1  

@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30645&aId=150989&caId=21225&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30645&aId=150989&caId=21225&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)

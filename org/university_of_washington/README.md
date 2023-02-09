@@ -38,6 +38,9 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery  👎1 
 
+## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
+* 👍💵 Morgan Hickel
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
@@ -68,3 +71,5 @@
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎1 
+
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1491 Employee personal vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150757&caId=21267&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150757&caId=21267&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150757&caId=21267&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150757&caId=21267&tId=4)
-
-#### 25 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵Joshua Estes - (AWPPW) Association of Western Pulp & Paper Workers
 * Justin Welte - AWPPW - Local 580
@@ -23,4 +17,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries

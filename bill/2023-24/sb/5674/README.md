@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Housing (HSG): SB 5674 Surplus property/housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151242&caId=21324&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151242&caId=21324&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151242&caId=21324&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30692&aId=151242&caId=21324&tId=4)
-
-#### 44 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Nick Federici - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 * Kathleen Hosfeld - Homestead Community Land Trust; Northwest Community Land Trust Coalition
+* Richard May
 
 #### 0 👎 - Con
 

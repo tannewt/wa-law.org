@@ -11,7 +11,8 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
-## [HB 1519](/bill/2023-24/hb/1519/) - Local project review   ❓1
+## [HB 1519](/bill/2023-24/hb/1519/) - Local project review   ❓2
+* ❓💵 Nick Federici
 * ❓💵 Nick Federici
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  

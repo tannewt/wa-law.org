@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Local Government (LG): HB 1628 Real estate excise tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151765&caId=21377&tId=4)
-
 #### 10 👍 - Pro
 Testifying:
 * Cathy Murahashi - Community Homes
@@ -23,7 +17,7 @@ Testifying:
 * Ginger Kwan - Open Doors for Multicultural Families
 * 💵Penny Lipsou - King County Department of Community and Human Services
 
-#### 8 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * McKenzie Darr - NAIOP
 * Constance Nelson

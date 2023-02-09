@@ -16,3 +16,6 @@
 ## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program  👎1 
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
+* 👎 Bill Turner

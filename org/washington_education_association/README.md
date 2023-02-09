@@ -233,7 +233,12 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
+
+## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
+* ❓💵 Simone Boe
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 * 👍💵 Julie Salvi
@@ -391,8 +396,11 @@
 
 ## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
 
-## [SB 5557](/bill/2023-24/sb/5557/) - Part-time faculty pay 👍1  
+## [SB 5557](/bill/2023-24/sb/5557/) - Part-time faculty pay 👍4  
 * 👍💵 Simone Boe
+* 👍 Kenna Bristow Winston
+* 👍💵 Simone Boe
+* 👍 Val Torrens
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere

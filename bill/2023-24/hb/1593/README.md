@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1593 RN PTSD/industrial insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150884&caId=21270&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150884&caId=21270&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150884&caId=21270&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30670&aId=150884&caId=21270&tId=4)
-
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * AJ Johnson - Washington State Fire Fighters Council
 * 💵Anna Nepomuceno

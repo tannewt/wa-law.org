@@ -8,6 +8,26 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1333 Domestic violent extremism
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=4)
+
+#### 9 👍 - Pro
+Testifying:
+* Kristiana de Leon - Association of Secular Elected Officials
+* Everett Blindheim
+* Kristiana de Leon - Association of Secular Elected Officials
+
+#### 74 👎 - Con
+Testifying:
+* Eric Pratt
+* Laurie Layne
+
+#### 0 ❓ - Other
+
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1333 Domestic violent extremism
 #### 121 👍 - Pro
 Testifying:

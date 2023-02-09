@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150650&caId=21239&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150650&caId=21239&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Anna Cashman - Washington State Bar Association Probate & Trust Section
+* Anna Cashman - Washington State Bar Association - Real Property Probate and Trust Section
+* Jessica Carr - Washington State Bar Association - Real Property Probate and Trust Section
 
 #### 0 👎 - Con
 

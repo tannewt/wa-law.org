@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150651&caId=21240&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150651&caId=21240&tId=4)
 
-#### 31 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Craig Smith - [Food Northwest](/org/food_northwest/)
 * Beau Hickman - Figgins Family Wine Estates
 * Ryan Pennington - Ste Michelle Wine Estates
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵David Ward - [Darigold](/org/darigold/)
+* Jeremy Visser - [Darigold](/org/darigold/)
 
 #### 0 👎 - Con
 

@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Health Care & Wellness (HCW): HB 1626 Colorectal screening tests
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30655&aId=150668&caId=21245&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30655&aId=150668&caId=21245&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30655&aId=150668&caId=21245&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30655&aId=150668&caId=21245&tId=4)
-
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Blair Irwin - Washington State Medical Oncology Society (WSMOS)
+* Anita Mitchell - Colon STARS
+* Matt Helder - ACS CAN
 
 #### 0 👎 - Con
 

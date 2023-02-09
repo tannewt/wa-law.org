@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Local Government (LG): HB 1705 Stormwater facilities/county
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151149&caId=21315&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151149&caId=21315&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151149&caId=21315&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30679&aId=151149&caId=21315&tId=4)
-
 #### 15 👍 - Pro
 Testifying:
 * Mat Jackmond - Hopkins Drainage Ditch District #2 in Thurston County

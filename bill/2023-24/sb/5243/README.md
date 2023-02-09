@@ -15,15 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151072&caId=21177&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151072&caId=21177&tId=4)
 
-#### 15 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kate Atvars - Lake Washington School District
+* Margaret Rice - Washougal School District
 
 ### Mon 01/23 01:30 PM - Early Learning & K-12 Education (EDU): SB 5243 High school and beyond plans
 #### 30 👍 - Pro

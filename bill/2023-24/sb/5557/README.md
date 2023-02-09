@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/15 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5557 Part-time faculty pay
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151521&caId=21472&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151521&caId=21472&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151521&caId=21472&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151521&caId=21472&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5557 Part-time faculty pay
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=1)
@@ -14,11 +27,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=4)
 
-#### 52 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Nancy Cruz - Community For Our Colleges
+* 💵William Daley - Communities for Our Colleges
+* 💵Sunshine Cheng - Communities for Our Colleges Coalition
+* Val Torrens
+* Kenna Bristow Winston - [Washington Education Association](/org/washington_education_association/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Val Torrens - [Washington Education Association](/org/washington_education_association/)
+* Choi Halladay
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

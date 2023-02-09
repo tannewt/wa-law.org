@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150670&caId=21247&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150670&caId=21247&tId=4)
 
-#### 46 👍 - Pro
+#### 78 👍 - Pro
+Testifying:
+* Whitney Stohr
+* Deb Ritter
+* Kathryn Scheid
+* Lynn Kimball - Washington Association of Area Agencies on Aging
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
 #### 0 👎 - Con
 

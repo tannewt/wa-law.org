@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5061 Personnel records

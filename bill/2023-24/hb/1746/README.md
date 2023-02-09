@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1746 State broadband map
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151083&caId=21262&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151083&caId=21262&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151083&caId=21262&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30718&aId=151083&caId=21262&tId=4)
-
-#### 6 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Scott Richards - Washington Public Utility Districts Association
+* Kara Riebold - Port of Whitman County
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mark Vasconi - Director, WA State Broadband Office

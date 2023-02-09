@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150910&caId=21080&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30696&aId=150910&caId=21080&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Garth Reeves - Why Not You Academy
+* Travis Franklin - Spokane International Academy
 
 #### 0 👎 - Con
 

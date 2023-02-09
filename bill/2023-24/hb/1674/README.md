@@ -14,15 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=4)
 
-#### 182 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Annemarie Dooley - WA Physicians for Social Responsibility
 * Axel Adams
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
-#### 9 👎 - Con
+#### 102 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
+* ryan spiller - Alliance for automotive innovation
+* Jill Groves
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs

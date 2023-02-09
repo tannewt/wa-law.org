@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Environment, Energy & Technology (ENET): SB 5570 Energy efficiency loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150737&caId=21083&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150737&caId=21083&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150737&caId=21083&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30667&aId=150737&caId=21083&tId=4)
-
-#### 168 👍 - Pro
+#### 172 👍 - Pro
 Testifying:
 * 💵Amy Wheeless - NW Energy Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Casey Brown - NW Natural and Cascade Natural Gas
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)

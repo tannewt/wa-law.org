@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5670 Running start/10th grade
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151194&caId=21361&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151194&caId=21361&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151194&caId=21361&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30703&aId=151194&caId=21361&tId=4)
-
 #### 3 👍 - Pro
 
 #### 3 👎 - Con
 Testifying:
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)

@@ -43,6 +43,8 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
+## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
@@ -53,13 +55,13 @@
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
-## [SB 5301](/bill/2023-24/sb/5301/) - Commerce housing programs 👍1  
+## [SB 5301](/bill/2023-24/sb/5301/) - Commerce housing programs 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 

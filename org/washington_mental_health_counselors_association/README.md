@@ -1,5 +1,8 @@
 # Washington Mental Health Counselors Association
 
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce   ❓1
+* ❓ Dominique Avery
+
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍3  
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 * 👍 LMHC, Jennifer S Kennett
