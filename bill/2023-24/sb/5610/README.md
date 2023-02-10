@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 22 👎 - Con
+#### 41 👎 - Con
 Testifying:
 * Badie Darwazeh - Washington State Independent Auto Dealer Association
 * Dave Magarrell - Washington State Independent Auto Dealers Association
@@ -26,6 +26,8 @@ Testifying:
 * Rachel Frankel - Top Auto Brokers
 * Mohammed Bendjelloul
 * Jacob Tartaglia - AUTOS4LESS | Rod’s All Star Auto
+* Scott Musser - Trucks & Auto Auctions
+* Micah Raphael - Raphael Luxury Motor Cars
 
 #### 1 ❓ - Other
 Testifying:

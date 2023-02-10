@@ -1,0 +1,21 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5399](/bill/2023-24/sb/5399/) > [Substitute Bill](/bill/2023-24/sb/5399/S/)
+
+# SB 5399 - Future listing contracts
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5399-S.pdf)
+
+## Section 1
+1. No future listing right purchase contract shall exceed two years duration and may not be renewed or extended. A future listing right purchase contract:
+
+    a. Shall not run with title to real property and is not binding or enforceable at law or in equity against any subsequent owner, purchaser, or mortgagee or holder of any interest in real property as an equitable servitude;
+
+    b. May be canceled by the owner without penalty or further obligation within 10 business days after execution of the contract by owner sending notice of cancellation to the other party by mail, telegram, or other means of written communication along with the full amount of any consideration paid to the owner. Notice of cancellation is considered given when mailed, when filed for telegraphic transmission, or, if sent by other means, when delivered to the other party's designated place of business. Such cancellation right shall be set forth clearly in bold type font in the future listing right purchase contract;
+
+    c. Shall set forth clearly in bold type font that the owner may not be compelled to list the owner's property.
+
+2. The attorney general may bring actions to enforce compliance with this section. The legislature finds that the practices covered by this section are matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. A violation of this section is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for the purpose of applying the consumer protection act, chapter 19.86 RCW.
+
+3. For the purposes of this section, a "future listing right purchase contract" means a contract obligating an owner of residential real estate to enter into a real estate listing agreement in the future relating to the sale of the real estate and includes, but is not limited to, any document recorded in the county where the real estate is located relating to the contract including the contract itself, a memorandum concerning the contract, or a deed of trust to secure the terms of the contract.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

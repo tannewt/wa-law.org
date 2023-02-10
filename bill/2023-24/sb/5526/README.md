@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 10:30 AM - Health & Long Term Care (HLTC): SB 5526 Nursing facility rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150471&caId=21092&tId=4)
-
-#### 57 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Joann Roderiques -lemon
 * Dora Poqui

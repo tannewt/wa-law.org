@@ -17,6 +17,9 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+* 👍💵 Carolyn Brotherton
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  

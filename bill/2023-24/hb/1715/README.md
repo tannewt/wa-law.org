@@ -7,14 +7,23 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Thu 02/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1715 Domestic violence
+### Mon 02/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1715 Domestic violence
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30662&aId=150988&caId=21213&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30662&aId=150988&caId=21213&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30662&aId=150988&caId=21213&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30662&aId=150988&caId=21213&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=4)
 
-#### 17 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* David Martin - KCPAO
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 02/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1715 Domestic violence
+#### 22 👍 - Pro
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
 * Alvin Notice - Tiana A Notice Foundation

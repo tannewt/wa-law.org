@@ -11,6 +11,9 @@
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍3  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍6  
+* 👍💵 Jazmine Smith
+
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍8  
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
@@ -20,5 +23,5 @@
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍4  
 
-## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍2  
+## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍6  
 * 👍💵 Jazmine Smith

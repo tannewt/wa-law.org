@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1732 K-12 inflation adjustments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151169&caId=21357&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151169&caId=21357&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151169&caId=21357&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151169&caId=21357&tId=4)
-
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sara Betnel - Shoreline Public Schools, Board of Directors

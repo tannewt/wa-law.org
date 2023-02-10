@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=4)
 
-#### 33 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Bryce McKibben - The Hope Center for College, Community, and Justice
 * Sandy Kaiser - The Evergreen State College
 * Emily Portillo
 * Riham Hashi
 * Charlie Reyerson - WashPIRG Students
+* 💵Alex Hur - NW Education Access
+* Collin Bannister - ASWSU
+* Adán Mendoza-Sandoval - VP, WA Student Association
 
 #### 0 👎 - Con
 

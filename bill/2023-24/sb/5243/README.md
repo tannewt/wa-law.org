@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5243 High school and beyond plans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151072&caId=21177&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151072&caId=21177&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151072&caId=21177&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151072&caId=21177&tId=4)
-
-#### 20 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

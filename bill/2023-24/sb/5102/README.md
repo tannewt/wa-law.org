@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Eric Sobotta - Reardan-Edwall School District
 
 ### Mon 01/23 01:30 PM - Early Learning & K-12 Education (EDU): SB 5102 School library info and tech
 #### 948 👍 - Pro

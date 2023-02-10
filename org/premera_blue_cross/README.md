@@ -7,3 +7,5 @@
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 * 👍💵 Gary Strannigan
+
+## [SB 5569](/bill/2023-24/sb/5569/) - Kidney disease centers 👍1  

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5311 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151073&caId=21178&tId=4)
-
-#### 66 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Superintendent Patrick Murphy - Superintendent, Olympia School District
 * Dr. Art Jarvis - [Bellevue School District](/org/bellevue_school_district/)
@@ -23,13 +17,21 @@ Testifying:
 * Dr. Ivan Duran - Superintendent, Highline Public Schools
 * Sherry Rivard-Leon
 * Bridget Broderick - Orcas Island School District - Eastsound, WA
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Charlie Brown - Pierce County Superintendents, Federal Way and School Alliance
+* Tania May - Office of Superintendent of Public Instruction
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Tracy Kahlo - PAVE
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Lizzy Sebring - Washington State PTA
 * Jon Holmen - Superintendent, Lake Washington School District
+* June Nho Ivers - SCPTSA
+* Samantha Fogg - SEAC, Legislative Committee Member
 
 ### Thu 01/19 01:30 PM - Early Learning & K-12 Education (EDU): SB 5311 Special education funding
 #### 15 👍 - Pro

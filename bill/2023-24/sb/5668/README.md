@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151531&caId=21463&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151531&caId=21463&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Lynette Brower - Washington State Skills Centers Association
 * Paul Randall - WA State Skills Center Association
+* Frank Redmon - Quilcene School District
+* Pete Peterson - Kiona-Benton City School District
+* Wayne Barrett - Concrete School District
+* Jim Kowalkowski - Rural Education Center
+* James Everett - Meridian School District
+* Michael Green - Woodland School District
 
 #### 0 👎 - Con
 

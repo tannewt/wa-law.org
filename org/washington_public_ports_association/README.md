@@ -115,3 +115,5 @@
 ## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+
+## [SB 5726](/bill/2023-24/sb/5726/) - Construction workers   ❓1

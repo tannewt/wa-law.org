@@ -14,13 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=4)
 
-#### 164 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Onora Lien - Northwest Healthcare Response Network
+* Jennifer Burkhardt - Summit Pacific Medical Center
+* RN, Jennifer Graham - MultiCare Health System
+* RN, Jennifer Graham - MultiCare Health System
+* Courtney Hobson
+* Rachel Doblar
+* Ramil Codina - Medical Commander, Fairchild AFB
+* Deanna Martinez
 
-#### 4 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Melissa Johnson - Washington State Nurses Association
+* Anita Dalton
+* Natalie Fincher
+* Sara Gering
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Elizabeth Hovde - Washington Policy Center

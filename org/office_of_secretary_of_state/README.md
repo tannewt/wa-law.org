@@ -1,5 +1,8 @@
 # Office of Secretary of State
 
+## [HB 1031](/bill/2023-24/hb/1031/) - Medal of valor award 👍1  
+* 👍 Brian Hatfield
+
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 * 👍 Steve Hobbs
 

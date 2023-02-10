@@ -64,3 +64,5 @@
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech 👍1  
 
 ## [SB 5454](/bill/2023-24/sb/5454/) - RN PTSD/industrial insurance 👍1  
+
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 

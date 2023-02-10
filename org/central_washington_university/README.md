@@ -13,6 +13,11 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
+## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
+* 👍 Steve DuPont
+
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
+
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

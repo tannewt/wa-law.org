@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151636&caId=21484&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151636&caId=21484&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Kelly Busey - [City of Gig Harbor](/org/city_of_gig_harbor/)
 
 #### 0 👎 - Con
 

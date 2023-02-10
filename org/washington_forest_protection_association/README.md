@@ -18,7 +18,7 @@
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials  👎1 
 * 👎 Tom Davis
 
-## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍1  
+## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍2  
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 * 👍 Tom Davis
@@ -32,3 +32,5 @@
 * 👎 Tom Davis
 
 ## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍1  
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 

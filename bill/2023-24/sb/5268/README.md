@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5268 Public works procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151071&caId=21176&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151071&caId=21176&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151071&caId=21176&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151071&caId=21176&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 * Janice Zahn - Capital Projects Advisory Review Board
 * William Frare - Washington State Department of Enterprise Services
+* 💵Paula Sardinas - WBBA/Tabor 100
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,6 +5,8 @@
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
 * 👍💵 Rachael Seevers
 
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
@@ -45,7 +47,7 @@
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act  👎1 
 
-## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
 
 ## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍1  
 * 👍💵 Chloe Merino

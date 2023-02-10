@@ -34,5 +34,8 @@
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
+## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
+* 👍 RN, Dana Nelson-Peterson
+
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 * 👍💵 Katherine Mahoney

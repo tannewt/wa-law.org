@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/17 04:00 PM - Ways & Means (WM): SB 5158 State & local taxation

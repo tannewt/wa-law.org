@@ -69,5 +69,5 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍2  
 
-## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  
+## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍2  
 * 👍💵 Anna Fahey

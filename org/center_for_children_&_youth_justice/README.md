@@ -17,6 +17,9 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
+## [HB 1440](/bill/2023-24/hb/1440/) - Juvenile court jurisdiction 👍1  
+* 👍 William Hairston
+
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍2  

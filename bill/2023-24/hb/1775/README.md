@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30650&aId=151320&caId=21371&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30650&aId=151320&caId=21371&tId=4)
 
-#### 1 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Margen Carlson - WDFW
+* David Crabtree
+* James Peterson
+* 💵Brynn Brady - Regional Fisheries Coalition
+* Lance Winecka - South Puget Sound Salmon Enhancement Group (RFEG)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

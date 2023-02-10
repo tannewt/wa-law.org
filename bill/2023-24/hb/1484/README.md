@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Finance (FIN): HB 1484 Estate tax exclusion amount
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150650&caId=21239&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150650&caId=21239&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150650&caId=21239&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150650&caId=21239&tId=4)
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Anna Cashman - Washington State Bar Association Probate & Trust Section

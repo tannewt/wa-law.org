@@ -17,7 +17,7 @@
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 * 👍 MIKE O'BRIEN
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍6  
 * 👍 Mike Town
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
@@ -45,3 +45,5 @@
 * 👎💵 Bruce Wishart
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  

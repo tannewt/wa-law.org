@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=4)
 
-#### 12 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Steve Storkan - Employee Ownership Expansion Network
 * Jack Moriarty - Ownership America
 * John McNamara - Northwest Cooperative Development Center
 * Hilary Abell - Project Equity
+* Joseph Sweitzer
+* Aaliyah Nedd - National Cooperative Business Association (NCBA)
+* Patrick McGrath - Working Systems Cooperative
 
 #### 0 👎 - Con
 

@@ -4,6 +4,8 @@
 
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land  👎1 
+
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
 ## [HB 1572](/bill/2023-24/hb/1572/) - Recovery of taxes/venue 👍1  

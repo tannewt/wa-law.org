@@ -14,10 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=151107&caId=21311&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=151107&caId=21311&tId=4)
 
-#### 443 👍 - Pro
+#### 658 👍 - Pro
 Testifying:
 * Benjamin Boyle - APTA Washington
+* Dr. Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)
+* 💵Amy Brackenbury - Washington State Dental Association
+* Susan Rosen - Susan Rosen & Associates
+* Chaiya Sherman - WA East Asian Medicine Association
+* Dr. Chad Hurst - Hurst Chiropractic Clinic
+* 💵Lori Grassi - WA State Chiropractic Association
+* Teresa Fromm
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Chris Bandoli - America's Health Insurance Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 0 ❓ - Other

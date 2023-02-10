@@ -6,7 +6,7 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
 
@@ -28,6 +28,8 @@
 
 ## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
 
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
@@ -37,6 +39,8 @@
 
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
 * 👍💵 Roz Thompson
+
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

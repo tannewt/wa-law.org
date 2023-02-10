@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1306 Public works procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151165&caId=21353&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151165&caId=21353&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151165&caId=21353&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151165&caId=21353&tId=4)
-
-#### 15 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 * Janice Zahn - Capital Projects Advisory Review Board
@@ -22,7 +16,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/24 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1306 Public works procurement
 #### 23 👍 - Pro

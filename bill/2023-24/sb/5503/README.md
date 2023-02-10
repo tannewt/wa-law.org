@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150474&caId=21097&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150474&caId=21097&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Renee Rassilyer-Bomers
+* 💵Lisa Thatcher - WSHA
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
 
 #### 0 👎 - Con
 

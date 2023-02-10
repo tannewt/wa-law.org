@@ -314,7 +314,7 @@
 
 ## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
 
-## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
@@ -333,6 +333,9 @@
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
+
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+* 👍💵 Simone Boe
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
@@ -396,10 +399,11 @@
 
 ## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
 
-## [SB 5557](/bill/2023-24/sb/5557/) - Part-time faculty pay 👍4  
+## [SB 5557](/bill/2023-24/sb/5557/) - Part-time faculty pay 👍5  
 * 👍💵 Simone Boe
 * 👍 Kenna Bristow Winston
 * 👍💵 Simone Boe
+* 👍 Suzanne Southerland
 * 👍 Val Torrens
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation   ❓1

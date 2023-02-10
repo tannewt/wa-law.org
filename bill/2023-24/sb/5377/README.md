@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5377 Cannabis license ownership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150612&caId=21120&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150612&caId=21120&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150612&caId=21120&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150612&caId=21120&tId=4)
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * 💵Ezra Eickmeyer - Producers NW
@@ -22,12 +16,18 @@ Testifying:
 * Eric Gaston - Evergreen Market
 * April Roth - Soulshine Cannabis
 * Andy Brassington - Evergreen Herbal
+* George Jordan - Artizen Cannabis Co
 
-#### 13 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Shawn Wagenseller - Washington Bud Company
 * Julia Trusler - The Vault
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
+* James MacRae - Self
+* Bill Wagenseller - Washington Bud Company
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Bethany Rondeaux
+* Burl Bryson - The Cannabis Alliance

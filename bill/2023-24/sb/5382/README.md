@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5382 Fish and wildlife officers

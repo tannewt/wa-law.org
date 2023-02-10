@@ -14,14 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=4)
 
-#### 155 👍 - Pro
+#### 297 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * JJ Wilbur - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 * Sherri Dysart - League of Women Voters of Washington
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* Jon Hoekstra - Mountains to Sound Greenway Trust
+* Jill Silver - 10,000 Years Institute
+* Csenka Favorini-Csorba - Washington Department of Natural Resources
+* Hilary Franz - Washington Department of Natural Resources
+* Lauren Breynaert - Myno Carbon Corporation
+* Steve Hinton
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Alexander Harris - RE Sources
+* Peter Goldman
 
-#### 271 👎 - Con
+#### 347 👎 - Con
 Testifying:
 * Rod Fleck - City of Forks
 * Tom Lannen - Skamania County Commissioners
@@ -30,5 +40,10 @@ Testifying:
 * Bill Turner - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
 * Doug Cooper - Hampton Lumber Company
 * 💵Heath Heikkila - American Forest Resource Council
+* john Worthington
+* Russ Pfeiffer-Hoyt - Washington State School Directors' Association (WSSDA)
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Adam Eitmann - Washington State Department of Ecology
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

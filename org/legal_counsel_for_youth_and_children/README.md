@@ -3,7 +3,8 @@
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
 * 👍 Rhea Yo
 
-## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍2  
+## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍3  
+* 👍 Erin Shea McCann
 * 👍 Erin Shea McCann
 * 👍 Erin Shea McCann
 

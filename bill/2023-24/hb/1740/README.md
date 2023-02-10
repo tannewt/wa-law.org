@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30650&aId=151081&caId=21186&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30650&aId=151081&caId=21186&tId=4)
 
-#### 52 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 * Ken Miller - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 * Orville Mowry
+* Alex Smith - Washington Department of Natural Resources
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Jim Peters - NW Indian Fisheries Commission
+* Debbie Kay - The Suquamish Tribe
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 
 #### 2 ❓ - Other
 Testifying:

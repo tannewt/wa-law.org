@@ -51,6 +51,8 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 * 👍 Linda Garcia
 

@@ -14,9 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=4)
 
-#### 2 👍 - Pro
+#### 128 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Susan Baird-Joshi - Washington State PTA
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Cynthia Stewart - League of Women Voters of WA
+* 💵Hyeeun Park - BIPOC ED Coalition
+* Andy Nicholas
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* David Gamage
+* Charles Mayer - Washington Physicians for Social Responsibility
+* Ginger Kwan - Open Doors for Multicultural Families
+* Jessie Friedman - YouthCare
+* Naishin Fu - Tech4Housing
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* 💵Denisse Guerrero - WA Community Alliance
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense

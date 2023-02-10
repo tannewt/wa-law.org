@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150475&caId=21098&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150475&caId=21098&tId=4)
 
-#### 92 👍 - Pro
+#### 107 👍 - Pro
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* RN, Dana Nelson-Peterson - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
+* RN, Jennifer Graham - MultiCare Health System
+* RN, Renee Rassilyer-Bomers - Providence Swedish
+* RN, Vickie Swanson - [Olympic Medical Center](/org/olympic_medical_center/)
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
 
-#### 11 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Anita Dalton
 * Sara Gering

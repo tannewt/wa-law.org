@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151253&caId=21327&tId=4)
 
-#### 322 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
@@ -25,8 +25,11 @@ Testifying:
 * christine walker
 * Tereasa Staley
 * Sharon Pevey - AMHO
+* Caroline Hardy
+* Robin Zorich - AMHO
+* Jan Leonard
 
-#### 200 👎 - Con
+#### 294 👎 - Con
 Testifying:
 * Christina Mays - Detente Management, Inc
 * Jeremy Millard
@@ -36,5 +39,9 @@ Testifying:
 * Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Mike Simonitch - Shelter Management
+* Walter Jorgensen
+* Michael Ewing
+* Gordon Bock
+* Threasa Melton
 
 #### 0 ❓ - Other

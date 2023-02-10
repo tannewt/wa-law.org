@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1714 Financial literacy grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151168&caId=21356&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151168&caId=21356&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151168&caId=21356&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151168&caId=21356&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Tracy Godat - Financial Education Public-Private Partnership
 

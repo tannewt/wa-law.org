@@ -1,6 +1,6 @@
 # Port of Pasco
 
-## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
+## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍2  
 * 👍 Randy Hayden
 
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  

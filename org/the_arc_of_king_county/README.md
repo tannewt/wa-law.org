@@ -61,6 +61,8 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
+## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍1  

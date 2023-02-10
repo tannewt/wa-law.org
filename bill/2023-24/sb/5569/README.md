@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Thu 02/09 10:30 AM - Health & Long Term Care (HLTC): SB 5569 Kidney disease centers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150881&caId=21094&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150881&caId=21094&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150881&caId=21094&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30627&aId=150881&caId=21094&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Leslie Emerick - Fresenius Medical Care North America (FMCNA)
 * Roman Daniels-Brown - DaVita
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Ada Lin
 
 #### 0 ❓ - Other

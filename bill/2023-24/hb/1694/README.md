@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150670&caId=21247&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150670&caId=21247&tId=4)
 
-#### 78 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Whitney Stohr
 * Deb Ritter
 * Kathryn Scheid
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* 💵Madeleine Foutch - SEIU 775
+* Melissah Watts
+* 💵Jonathan Seib - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
+* 💵Brad Banks - Home Care Coalition
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Hugh Ewart - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
 
 #### 0 👎 - Con
 

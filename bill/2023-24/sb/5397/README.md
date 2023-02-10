@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5397 Public benefit payments/DCYF
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151175&caId=21320&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151175&caId=21320&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151175&caId=21320&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151175&caId=21320&tId=4)
-
-#### 39 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The ARC Washington State
 * Erin Shea McCann - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Sam Martin - SDMC Consulting
+* Erin Shea McCann - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

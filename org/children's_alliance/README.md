@@ -12,6 +12,9 @@
 
 ## [HB 1274](/bill/2023-24/hb/1274/) - Child malnutrition guide 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
+* 👍 Stephan Blanford
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
@@ -24,6 +27,8 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 * 👍 Dr. Stephan Blanford
+
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 

@@ -46,6 +46,8 @@
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
 * 👍 Emily Stochel
 
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
+
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
@@ -62,6 +64,8 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
 * 👍 Emily Stochel
 
@@ -70,4 +74,8 @@
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 
+## [SB 5666](/bill/2023-24/sb/5666/) - CTC student housing pilot 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  

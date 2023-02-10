@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5546 Cannabis commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150615&caId=21123&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150615&caId=21123&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150615&caId=21123&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150615&caId=21123&tId=4)
-
-#### 43 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
 * Shawn Wagenseller - The Cannabis Alliance
@@ -24,7 +18,7 @@ Testifying:
 * 💵Lara Kaminsky - The Cannabis Alliance
 * Julia Trusler - The Vault
 
-#### 28 👎 - Con
+#### 53 👎 - Con
 Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Bethany Rondeaux

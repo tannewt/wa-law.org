@@ -83,6 +83,8 @@
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct  👎1 
 * 👎💵 Juliana Roe
 
+## [HB 1446](/bill/2023-24/hb/1446/) - Law enf. officers/increase 👍1  
+
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍💵 Paul Jewell
 
@@ -110,6 +112,10 @@
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
+
+## [HB 1702](/bill/2023-24/hb/1702/) - Senior citizens local tax 👍1  
+
+## [HB 1709](/bill/2023-24/hb/1709/) - Commerce housing programs 👍1  
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍💵 Paul Jewell
@@ -153,6 +159,8 @@
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
 * 👍💵 Paul Jewell
 
+## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍1  
@@ -161,7 +169,7 @@
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍1  
+## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍2  
 * 👍💵 Juliana Roe
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
@@ -207,4 +215,7 @@
 * 👍💵 Paul Jewell
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
+* ❓💵 Paul Jewell
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.   ❓1
 * ❓💵 Paul Jewell

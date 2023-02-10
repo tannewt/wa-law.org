@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150613&caId=21121&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150613&caId=21121&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150613&caId=21121&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150613&caId=21121&tId=4)
-
-#### 1000 👍 - Pro
+#### 1079 👍 - Pro
 Testifying:
 * Enrique Gastelum - wafla
 * Rachel McCauley
@@ -45,8 +39,10 @@ Testifying:
 * Claudio Cruz
 * Luis Isiordia - Translator
 * Nicho Lopez
+* Ariadna Acosta - LULAC Yakima Valley
+* Maria Rodriguez - Visions Economic Development
 
-#### 867 👎 - Con
+#### 902 👎 - Con
 Testifying:
 * Ana Ramirez
 * 💵Giovanni Severino - Progreso: Latino Progress

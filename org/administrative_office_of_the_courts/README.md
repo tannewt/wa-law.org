@@ -13,6 +13,9 @@
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 * 👍 Brittany Gregory
 
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+* 👍 Kelly Warner-King
+
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras   ❓1
 * ❓ Christopher Stanley
 

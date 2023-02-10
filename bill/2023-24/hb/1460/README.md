@@ -8,22 +8,21 @@
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Capital Budget (CB): HB 1460 DNR land
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150870&caId=21201&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150870&caId=21201&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150870&caId=21201&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150870&caId=21201&tId=4)
-
-#### 611 👍 - Pro
+#### 903 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Bill Taylor - Taylor Shellfish
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Mike Town - [Sierra Club](/org/sierra_club/)
 * Doug McClelland - Mountains to Sound Greenway
+* Duane Emmons - Washington Department of Natural Resources
+* Hilary Franz - Washington Department of Natural Resources
 
-#### 8 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Tom Lannen - Skamania County Commissioners
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Heath Heikkila - American Forest Resource Council
+* Logan Endres - Washington State School Directors' Association (WSSDA)

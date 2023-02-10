@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5528 Prime contractor retainage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150614&caId=21122&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150614&caId=21122&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150614&caId=21122&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=150614&caId=21122&tId=4)
-
-#### 7 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - [Northwest Wall and Ceiling Contractors Association](/org/northwest_wall_and_ceiling_contractors_association/)
+* Jimmy Matta - Ahora Construction, LLC
+* Doug Bagnell - Olympic Interiors, Inc.
+* Curtis King - WA State Senate
 
 #### 0 👎 - Con
 

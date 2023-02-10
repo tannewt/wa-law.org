@@ -13,7 +13,8 @@
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍2  
 
-## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
+## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍2  
+* 👍 Tamar Shuhendler
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
@@ -28,7 +29,7 @@
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
 
 ## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
 * 👍 Vicky Clarke

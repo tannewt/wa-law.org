@@ -17,3 +17,5 @@
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting   ❓1
 * ❓ Adam Maxwell
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  

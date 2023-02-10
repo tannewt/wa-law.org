@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30710&aId=150971&caId=21146&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30710&aId=150971&caId=21146&tId=4)
 
-#### 5 👍 - Pro
+#### 87 👍 - Pro
+Testifying:
+* Lorilee Gates
+* Kathleen Cooper
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

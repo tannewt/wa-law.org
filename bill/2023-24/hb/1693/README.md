@@ -8,15 +8,14 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1693 Student homelessness pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151167&caId=21355&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151167&caId=21355&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151167&caId=21355&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=151167&caId=21355&tId=4)
-
-#### 15 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Joel Anderson - University of Washington Graduate and Professional Senate
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Jennifer Dellinger - SBCTC
+* Ami Magisos - Washington Student Achievement Council
+* Naira Gonzales Aranda - Associated Students of Western Washington University
+* Adán Mendoza-Sandoval - VP, WA Student Association
 
 #### 0 👎 - Con
 

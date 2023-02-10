@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5726 Construction workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=151795&caId=21379&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=151795&caId=21379&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=151795&caId=21379&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30640&aId=151795&caId=21379&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 4 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* 💵Mark Riker - Washington State Building and Construction Trades Council
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Ray Dumas - OPCMIA Local 528

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30802&aId=151727&caId=21418&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30802&aId=151727&caId=21418&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Kathleen Hosfeld - Homestead Community Land Trust
 
 #### 0 👎 - Con
 

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30710&aId=150972&caId=21147&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30710&aId=150972&caId=21147&tId=4)
 
-#### 4 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Lorilee Gates
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

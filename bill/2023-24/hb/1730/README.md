@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Regulated Substances & Gaming (RSG): HB 1730 Youth employment/21+ estab.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30699&aId=151093&caId=21286&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30699&aId=151093&caId=21286&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30699&aId=151093&caId=21286&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30699&aId=151093&caId=21286&tId=4)
-
 #### 16 👍 - Pro
 Testifying:
 * 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Nicole Andres
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

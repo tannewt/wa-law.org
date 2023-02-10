@@ -72,4 +72,6 @@
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎1 
 
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

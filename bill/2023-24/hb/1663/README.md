@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151492&caId=21432&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151492&caId=21432&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Monica Lough - Chelan Douglas Regional Port Authority
+* Richard DeRock - Chelan Douglas Regional Port Authority
+* Cynthia Weed - Chelan Douglas Regional Port Authority
 
 #### 0 👎 - Con
 

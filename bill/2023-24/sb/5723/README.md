@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30710&aId=151476&caId=21380&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30710&aId=151476&caId=21380&tId=4)
 
-#### 56 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * 💵Anna Fahey - [Sightline Institute](/org/sightline_institute/)
 * Kathy Sakahara - Northwest Progressive Institute
@@ -23,9 +23,11 @@ Testifying:
 * Kenia Peregrino - Washington for Equitable Representation
 * Lindsey Schromen-Wawrin - Councilmember, City of Port Angeles
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* 💵Denisse Guerrero - WA Community Alliance
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Tim Eyman
+* Judge Kevin Ringus - District & Municipal Court Judges Association
 
 #### 0 ❓ - Other

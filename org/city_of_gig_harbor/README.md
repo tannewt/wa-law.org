@@ -11,3 +11,6 @@
 * 👎 Katrina Knutson
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
+
+## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
+* 👍 Kelly Busey

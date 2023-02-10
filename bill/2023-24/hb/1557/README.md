@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Finance (FIN): HB 1557 Digital processing services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150649&caId=21238&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150649&caId=21238&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150649&caId=21238&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30647&aId=150649&caId=21238&tId=4)
-
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * 💵Joe Adamack - Washington's Credit Unions - GWCUA
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Kathy Oline - Department of Revenue
+* Steve Ewing - Department of Revenue
 
 #### 0 ❓ - Other

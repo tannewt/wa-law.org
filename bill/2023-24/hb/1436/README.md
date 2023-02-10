@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1436 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30674&aId=150784&caId=21197&tId=4)
-
-#### 282 👍 - Pro
+#### 319 👍 - Pro
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Superintendent Patrick Murphy - Superintendent, Olympia School District
@@ -46,13 +40,20 @@ Testifying:
 * Ian Fogg - Student, Seattle Public Schools
 * Dawn Sidell - Northwest Autism Center
 * Molly/Olivia Mitchell
+* AK Martin - Amy
 * Jen Chong Jewell - Special Education Advisory Council for OSPI
 * Jen Chong Jewell - Special Education Advisory Council for OSPI
+* Michele Campbell
+* Eowyn Grubbs
+* Sebrena Burr
+* Anneli Jefferson
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Caitlin Cox - Lake Washington School District
 * Mark Stuart - Lake Washington School District
 * Nancy Chamberlain - Washington State PTA
+* Michelle O'Dell - Thurston County Developmental Disability Coalition
+* Sue Ann Bube - Mercer Island School District

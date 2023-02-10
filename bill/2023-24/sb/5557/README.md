@@ -27,7 +27,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151202&caId=21367&tId=4)
 
-#### 88 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Nancy Cruz - Community For Our Colleges
@@ -36,8 +36,15 @@ Testifying:
 * Val Torrens
 * Kenna Bristow Winston - [Washington Education Association](/org/washington_education_association/)
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Suzanne Southerland - [Washington Education Association](/org/washington_education_association/)
 * Val Torrens - [Washington Education Association](/org/washington_education_association/)
 * Choi Halladay
+* Evans Kaame
+* Nancy Cruz - Community For Our Colleges
+* 💵Karen Strickland - AFT Washington
+* Ben Gonzalez - Clover Park Vocational Federation Local 3913
+* Jacqui Cain - Pierce College Federation of Teachers Local 4821
+* JT Menard - AFT Yakima Local 1485
 
 #### 1 👎 - Con
 

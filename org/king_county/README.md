@@ -130,6 +130,8 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+
 ## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍1  
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍3  
@@ -188,6 +190,8 @@
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
+
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
@@ -282,7 +286,7 @@
 
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 * 👍 Magan Cromar
 
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
@@ -343,9 +347,13 @@
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
+## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍1  
+
+## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
+
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
 
-## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍1  
+## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍2  
 
 ## [SB 5619](/bill/2023-24/sb/5619/) - Cybersecurity governance 👍1  
 

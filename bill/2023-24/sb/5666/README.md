@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151201&caId=21366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151201&caId=21366&tId=4)
 
-#### 15 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Madeline Sprute - Associated Students Tacoma Community College
 * Sara Goldrick-Rab
+* Sopeara Chay - South Puget Sound Community College
 
 #### 0 👎 - Con
 

@@ -22,3 +22,8 @@
 * 👍💵 Paula Swedeen
 
 ## [SB 5471](/bill/2023-24/sb/5471/) - Electric bicycles/disability   ❓1
+
+## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements  👎1 
+* 👎💵 Paula Swedeen
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  

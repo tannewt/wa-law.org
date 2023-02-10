@@ -9,19 +9,15 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5256 Child welfare housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151172&caId=21317&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151172&caId=21317&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151172&caId=21317&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30716&aId=151172&caId=21317&tId=4)
-
-#### 43 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Jill Stanton - Bremerton Housing Authority & Association of Washington Housing Authorities
 * Terreca DeFehr - Parent Ally
 * Shane Silverthorn
+* Shane Silverthorn - Yakima County Superior Court
+* Kelly Warner-King - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

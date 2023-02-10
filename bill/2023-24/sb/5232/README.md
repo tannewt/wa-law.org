@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Law & Justice (LAW): SB 5232 Firearms/purchase & transfer
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30634&aId=151151&caId=21307&tId=4)
-
-#### 791 👍 - Pro
+#### 870 👍 - Pro
 Testifying:
 * Donnitta Sinclair
 * Karyn Brownson - King County Public Health
@@ -23,7 +17,7 @@ Testifying:
 * Dr. Gwen Loosmore - WSPTA
 * Lisa Herbold - [City of Seattle](/org/city_of_seattle/)
 
-#### 1570 👎 - Con
+#### 1669 👎 - Con
 Testifying:
 * Eric Pratt - America
 * Eric pratt - America
@@ -42,6 +36,9 @@ Testifying:
 * Matt Page
 * Max Egger
 * Paula Hazen - Firearms Instructor
+* Teo Morca
+* Steve Rolland
+* Richard Grunewald
 
 #### 2 ❓ - Other
 Testifying:

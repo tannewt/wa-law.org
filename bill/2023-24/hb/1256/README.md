@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Capital Budget (CB): HB 1256 Higher ed. matching grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150869&caId=21200&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150869&caId=21200&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150869&caId=21200&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30641&aId=150869&caId=21200&tId=4)
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Joseph Smith - [Gonzaga University](/org/gonzaga_university/)
 * Cher Abigail Aguilar Henriquez - Student, Saint Martin's University
 * Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Andrew Sund - Heritage University
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 

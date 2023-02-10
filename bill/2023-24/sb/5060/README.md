@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Housing (HSG): SB 5060 Rental & vacant properties

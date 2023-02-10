@@ -38,6 +38,9 @@
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+* 👍💵 Shaun Scott
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 * 👍💵 Shaun Scott
 
@@ -60,6 +63,8 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 * 👍💵 Marcy Bowers
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 
@@ -84,7 +89,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍2  
 
-## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
@@ -93,6 +98,8 @@
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍2  
+
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 

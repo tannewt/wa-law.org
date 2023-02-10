@@ -31,6 +31,9 @@
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍 Mindy Roberts
 
+## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements  👎1 
+* 👎💵 Darcy Nonemacher
+
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
@@ -60,3 +63,9 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions   ❓1
 * ❓💵 Darcy Nonemacher
+
+## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements  👎1 
+* 👎💵 Darcy Nonemacher
+
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
+* 👍💵 Darcy Nonemacher

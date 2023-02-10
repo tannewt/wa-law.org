@@ -248,3 +248,5 @@
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 * 👎💵 Carl Schroeder
+
+## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  

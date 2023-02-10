@@ -15,6 +15,8 @@
 
 ## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍1  
 
+## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
+
 ## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎8 
 * 👎 Adrianna Silva
 * 👎 Ashley Fedan
@@ -22,3 +24,5 @@
 * 👎 Brad Hemingway
 
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
+
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure  👎1 

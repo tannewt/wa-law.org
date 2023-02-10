@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151254&caId=21328&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30693&aId=151254&caId=21328&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Brad Forbes - Alzheimer's Association
+* Gail O'Grady
+* 💵Patricia Hunter - WA State Long Term Care Ombuds
 
 #### 0 👎 - Con
 

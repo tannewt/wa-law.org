@@ -14,15 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30691&aId=151433&caId=21373&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30691&aId=151433&caId=21373&tId=4)
 
-#### 58 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Dominique Davis - Community Passageways
+* Dr. Eric Trupin - UW Department of Psychiatry & Behavioral Sciences
+* Nicole McGrath - Law Office of Nicole K McGrath
+* Dr. Alexandra Obremskey - Washington Chapter of the American Academy of Pediatrics
+* Julissa Sanchez - Choose 180
+* 💵Karen Pillar - TeamChild
+* Katie Hurley - King County Dept of Public Defense
+* Dr. Divya Natarajan - Washington Chapter of the American Academy of Pediatrics
+* 💵Roxana Gomez - ACLU of Washington
+* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Sara Watson - Kent Acting Chief Prosecuting Attorney
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Matt Murray - Yakima Police Department
+* Holly Cousens - Councilmember, City of Yakima
+* Patricia Byers - Councilmember, City of Yakima
 
 #### 0 ❓ - Other
 

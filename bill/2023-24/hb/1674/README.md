@@ -8,25 +8,26 @@
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Transportation (TR): HB 1674 Roadway users/trucks & SUVs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30653&aId=150700&caId=21301&tId=4)
-
-#### 194 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Annemarie Dooley - WA Physicians for Social Responsibility
 * Axel Adams
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Tamar Shuhendler - [Washington Bikes](/org/washington_bikes/)
+* Shelly Quintana
 
-#### 102 👎 - Con
+#### 290 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * ryan spiller - Alliance for automotive innovation
 * Jill Groves
+* Theresa Pringle
+* Karen McIntosh
+* PAT STOWE - personal & business
+* Lynette Borcherding
+* Eldon Slife
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs

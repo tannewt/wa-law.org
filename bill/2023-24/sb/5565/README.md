@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SB 5565 Tax and revenue laws
