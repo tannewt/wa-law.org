@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5236 Hospital staffing standards
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151929&caId=21558&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151929&caId=21558&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151929&caId=21558&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151929&caId=21558&tId=4)
+
+#### 329 👍 - Pro
+Testifying:
+* Jennifer Gordon
+* Lisa Winchell
+
+#### 2 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Tue 01/17 10:30 AM - Labor & Commerce (LC): SB 5236 Hospital staffing standards
 #### 2075 👍 - Pro
 Testifying:

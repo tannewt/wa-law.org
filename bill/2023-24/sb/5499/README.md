@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5499 Multistate nurse licensure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150473&caId=21096&tId=4)
-
-#### 191 👍 - Pro
+#### 195 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Onora Lien - Northwest Healthcare Response Network
@@ -25,8 +19,11 @@ Testifying:
 * Rachel Doblar
 * Ramil Codina - Medical Commander, Fairchild AFB
 * Deanna Martinez
+* Jennifer Burkhardt - Summit Pacific Medical Center
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Amy Anderson - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 11 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Melissa Johnson - Washington State Nurses Association
 * Anita Dalton

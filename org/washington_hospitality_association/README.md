@@ -40,6 +40,8 @@
 ## [HB 1730](/bill/2023-24/hb/1730/) - Youth employment/21+ estab. 👍1  
 * 👍💵 Riley Smith
 
+## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
 

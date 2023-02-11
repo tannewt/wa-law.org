@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151532&caId=21464&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151532&caId=21464&tId=4)
 
-#### 1 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Laurie Dolan
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Wade Smith - Walla Walla Public Schools

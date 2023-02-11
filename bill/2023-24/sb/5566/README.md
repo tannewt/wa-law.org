@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5566 Postsecondary student needs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30704&aId=151198&caId=21363&tId=4)
-
-#### 66 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Bryce McKibben - The Hope Center for College, Community, and Justice
 * Sandy Kaiser - The Evergreen State College
@@ -23,9 +17,17 @@ Testifying:
 * Charlie Reyerson - WashPIRG Students
 * 💵Alex Hur - NW Education Access
 * Collin Bannister - ASWSU
+* Joseph Gabriel Burke - President, Washington Student Association
 * Adán Mendoza-Sandoval - VP, WA Student Association
+* Adán Mendoza - Associated Students of Central Washington University
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Jacob Katz - State Board of Community and Technical Colleges
+* Jennifer Dellinger - State Board of Community and Technical Colleges
+* Riham Hashi - United Way of King County
+* Sopeara Chay - South Puget Sound Community College
+* Michelle Carrillo - Student, Central Washington University
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other
 

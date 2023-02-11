@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151717&caId=21509&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151717&caId=21509&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Angela Birney - City of Redmond Mayor
+* 💵Briahna Murray - City of Redmond, lobbyist
+* Vangie Garcia - Redmond Transportation Planning & Engineering Manager
 
-#### 0 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other
 

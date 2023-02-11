@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151531&caId=21463&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151531&caId=21463&tId=4)
 
-#### 13 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Lynette Brower - Washington State Skills Centers Association
 * Paul Randall - WA State Skills Center Association
@@ -24,6 +24,7 @@ Testifying:
 * Jim Kowalkowski - Rural Education Center
 * James Everett - Meridian School District
 * Michael Green - Woodland School District
+* Derek Sarley - School Director, Walla Walla Public Schools
 
 #### 0 👎 - Con
 

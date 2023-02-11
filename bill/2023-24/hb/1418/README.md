@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151474&caId=21390&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151474&caId=21390&tId=4)
 
-#### 0 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* Dr Paul A Stoot Sr. - 11229 4th Ave W.
 
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

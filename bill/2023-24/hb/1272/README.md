@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Mike Hoover - Washington State School Directors’ Association
+* Jim Stoffer - Public School Advocate
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Laurie Layne
+* Tim Eyman - Permanent Offense
 
 #### 0 ❓ - Other
 

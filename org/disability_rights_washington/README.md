@@ -55,6 +55,8 @@
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 * 👎💵 Kimberly Mosolf
 
+## [SB 5451](/bill/2023-24/sb/5451/) - Long sentences review 👍1  
+
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  

@@ -83,6 +83,8 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment   ❓1
 * ❓💵 Mark Johnson
 

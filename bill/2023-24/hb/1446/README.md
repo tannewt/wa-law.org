@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151499&caId=21437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151499&caId=21437&tId=4)
 
-#### 1 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Mark Crider - Walla Walla Sheriffs Office
+* Dana Ralph - Mayor of the City of Kent
+* Rafael Padilla - City of Kent Police Chief
 
 #### 0 👎 - Con
 

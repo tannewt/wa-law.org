@@ -7,8 +7,12 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
+
+## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍1  
+
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 
 ## [SB 5231](/bill/2023-24/sb/5231/) - Emergency DV orders 👍1  
 
-## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
+## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍2  

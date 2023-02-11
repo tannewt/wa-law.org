@@ -330,6 +330,9 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+* 👍💵 Amy Anderson
+
 ## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank  👎1 

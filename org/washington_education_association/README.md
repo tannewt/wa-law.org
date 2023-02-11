@@ -166,6 +166,9 @@
 
 ## [HB 1417](/bill/2023-24/hb/1417/) - Multistate nurse licensure  👎1 
 
+## [HB 1418](/bill/2023-24/hb/1418/) - Charter schools/enrichment  👎1 
+* 👎💵 Julie Salvi
+
 ## [HB 1430](/bill/2023-24/hb/1430/) - DCYF-caregiver communication 👍1  
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
@@ -237,6 +240,8 @@
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
+## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
+
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 * ❓💵 Simone Boe
 
@@ -247,6 +252,8 @@
 * 👍💵 Julie Salvi
 
 ## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities. 👍1  
+
+## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
@@ -425,12 +432,24 @@
 
 ## [SB 5632](/bill/2023-24/sb/5632/) - Labor disputes/health care 👍1  
 
+## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
+* 👍💵 Julie Salvi
+
 ## [SB 5655](/bill/2023-24/sb/5655/) - WA achievers grant program 👍1  
 
 ## [SB 5662](/bill/2023-24/sb/5662/) - Cannabis employees 👍1  
 
 ## [SB 5666](/bill/2023-24/sb/5666/) - CTC student housing pilot 👍1  
 
+## [SB 5668](/bill/2023-24/sb/5668/) - Small districts/skill center 👍1  
+
+## [SB 5671](/bill/2023-24/sb/5671/) - K-12 experience factors 👍1  
+* 👍💵 Julie Salvi
+
+## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
+
+## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  

@@ -116,4 +116,7 @@
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
 
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
+* 👎 Eric ffitch
+
 ## [SB 5726](/bill/2023-24/sb/5726/) - Construction workers   ❓1

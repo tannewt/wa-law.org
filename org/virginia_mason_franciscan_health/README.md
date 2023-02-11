@@ -32,10 +32,16 @@
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting  👎1 
 * 👎 Dhyan Lal
 
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
+
+## [SB 5503](/bill/2023-24/sb/5503/) - Nursing ed./clinical hours 👍1  
 
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
 * 👍 RN, Dana Nelson-Peterson
+
+## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 * 👍💵 Katherine Mahoney

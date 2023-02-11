@@ -15,13 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=4)
 
-#### 1 👍 - Pro
+#### 137 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Candace Joy - [Washington State Veterinary Medical Association](/org/washington_state_veterinary_medical_association/)
+* Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
+* Erin Hall - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Andrew Hackman - AMERIPEN
 
 ### Tue 01/17 04:00 PM - Environment & Energy (ENVI): HB 1131 Solid waste management
 #### 1527 👍 - Pro

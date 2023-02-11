@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30738&aId=151796&caId=21478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30738&aId=151796&caId=21478&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Cameron Cloar-Zavaleta - Alaska Airlines and Horizon Air
+* Megan Ouellette - Alaska Airlines & Horizon Air
 
 #### 0 👎 - Con
 

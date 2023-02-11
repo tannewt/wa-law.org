@@ -8,3 +8,6 @@
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries 👍1  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+
+## [SB 5699](/bill/2023-24/sb/5699/) - Increasing the compensation for members of the fish and wildlife commission. 👍1  
+* 👍💵 Samantha Bruegger

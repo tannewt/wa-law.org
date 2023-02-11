@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/17 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5203 Climate change/planning

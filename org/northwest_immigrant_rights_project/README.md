@@ -12,3 +12,5 @@
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 * 👍 Tim Warden-Hertz
+
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  

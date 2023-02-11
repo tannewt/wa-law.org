@@ -35,7 +35,7 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 * 👍 Jim Dennison
 
-## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program 👍1  
+## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work 👍1  
 

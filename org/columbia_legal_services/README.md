@@ -71,6 +71,9 @@
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
+## [HB 1688](/bill/2023-24/hb/1688/) - Tow truck payments/indigent  👎1 
+* 👎💵 Sarah Nagy
+
 ## [HB 1727](/bill/2023-24/hb/1727/) - Transaction fees  👎1 
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession  👎1 

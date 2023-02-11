@@ -15,7 +15,7 @@
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 
-## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program   ❓1
+## [SB 5372](/bill/2023-24/sb/5372/) - DNR land   ❓1
 * ❓ Ron Wesen
 
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  

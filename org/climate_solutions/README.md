@@ -67,7 +67,8 @@
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel   ❓1
 * ❓💵 Leah Missik
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+* 👍💵 Leah Missik
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
 * ❓💵 Kelly Hall

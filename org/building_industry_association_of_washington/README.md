@@ -138,7 +138,8 @@
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎💵 Josie Cummings
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎2 
+* 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
@@ -146,8 +147,9 @@
 
 ## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 * 👍💵 Josie Cummings
+* 👍💵 Bill Stauffacher
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
 * 👍💵 Josie Cummings

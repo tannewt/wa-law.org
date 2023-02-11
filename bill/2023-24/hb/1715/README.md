@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * David Martin - KCPAO
+* Taylot Knight - Clark County Prosecuting Attorney’s Office Domestic Violence Prosecution Center
+* Alvin Notice - Tiana A Notice Foundation
+* Jim Bamberger - Office of Civil Legal Aid
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rick Torrance - Department of Commerce (Office of Crime Victims Advocacy)
 
 ### Thu 02/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1715 Domestic violence
 #### 22 👍 - Pro

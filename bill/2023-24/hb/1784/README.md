@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151470&caId=21388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151470&caId=21388&tId=4)
 
-#### 47 👍 - Pro
+#### 147 👍 - Pro
+Testifying:
+* Elisanne McCutcheon
+* Mike Cohen - Bellingham Food Bank
+* Lynn Kimball - Washington Association of Area Agencies on Aging
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151894&caId=21543&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151894&caId=21543&tId=4)
 
-#### 0 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* McKenzie Momany - RFPU-NW/CIR/SEIU
+* Kenneth Tharp - RFPU-NW
 
 #### 0 👎 - Con
 

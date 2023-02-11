@@ -22,13 +22,13 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  
 * 👍 Alicya Pearson
 * 👍 Alicya Pearson
 
-## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
@@ -70,5 +70,7 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
-## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
 * 👍💵 Aaron Czyzewski
+
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  

@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Karina O'Malley

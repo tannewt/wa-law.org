@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30726&aId=151775&caId=21383&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30726&aId=151775&caId=21383&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Alex Wilsie - Tacoma Fire Department
+* Joe Brady - Metro Parks Tacoma
 
 #### 0 👎 - Con
 

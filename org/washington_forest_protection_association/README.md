@@ -13,6 +13,8 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
+## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍1  
+
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials  👎1 

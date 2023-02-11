@@ -36,7 +36,7 @@
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 

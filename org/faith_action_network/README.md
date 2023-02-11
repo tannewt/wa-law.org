@@ -10,6 +10,8 @@
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍4  
 * 👍💵 Kristin Ang
 
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍3  
@@ -25,7 +27,11 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
+
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
+
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 

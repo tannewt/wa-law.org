@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Health Care & Wellness (HCW): HB 1690 Kidney disease centers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150986&caId=21248&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150986&caId=21248&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150986&caId=21248&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30656&aId=150986&caId=21248&tId=4)
-
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * 💵Leslie Emerick - Fresenius Medical Care North America (FMCNA)
 * Roman Daniels-Brown - DaVita
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Ada Lin
 

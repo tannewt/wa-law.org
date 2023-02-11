@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30783&aId=151592&caId=21427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30783&aId=151592&caId=21427&tId=4)
 
-#### 21 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Patrick McGah
 * Cher Scarlett
 
-#### 0 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other

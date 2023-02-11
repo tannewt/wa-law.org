@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Environment, Energy & Technology (ENET): SB 5688 Providing carbon sequestration and ecosystem services in the management of public lands. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30668&aId=151252&caId=21340&tId=4)
-
-#### 297 👍 - Pro
+#### 311 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * JJ Wilbur - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
@@ -30,8 +24,9 @@ Testifying:
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 * Alexander Harris - RE Sources
 * Peter Goldman
+* AJ Dotzauer - Tulalip Tribes of WA
 
-#### 347 👎 - Con
+#### 370 👎 - Con
 Testifying:
 * Rod Fleck - City of Forks
 * Tom Lannen - Skamania County Commissioners
@@ -41,7 +36,9 @@ Testifying:
 * Doug Cooper - Hampton Lumber Company
 * 💵Heath Heikkila - American Forest Resource Council
 * john Worthington
+* Elaine Oneil
 * Russ Pfeiffer-Hoyt - Washington State School Directors' Association (WSSDA)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 7 ❓ - Other
 Testifying:

@@ -54,12 +54,16 @@
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
 * 👍 Hoa Appel
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 * 👍 Nancy Connolly
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
+
+## [SB 5409](/bill/2023-24/sb/5409/) - Voter identifier numbers 👍1  
+
+## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info 👍1  
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
 * 👍 Bettina Shell-Duncan

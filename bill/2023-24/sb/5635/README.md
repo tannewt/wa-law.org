@@ -20,4 +20,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rick Torrance - Department of Commerce (Office of Crime Victims Advocacy)

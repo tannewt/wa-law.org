@@ -175,7 +175,7 @@
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 * 👍💵 Juliana Roe
 
-## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program   ❓1
+## [SB 5372](/bill/2023-24/sb/5372/) - DNR land   ❓1
 * ❓💵 Paul Jewell
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  

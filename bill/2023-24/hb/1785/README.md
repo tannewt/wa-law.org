@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Doug Palmer - Washington State Association for Justice
 
-#### 0 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other

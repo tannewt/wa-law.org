@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151812&caId=21526&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151812&caId=21526&tId=4)
 
-#### 6 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Dr. Maria Viola Sanchez - Founder & CEO, STOP THE CUT NOW!  Eradicating Female Genital Mutilation
 * Maryum Saifee - Muslim Americans in Public Service (and also as an FGM survivor in my personal capacity)
@@ -23,7 +23,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/30 10:30 AM - Law & Justice (LAW): SB 5453 Female genital mutilation
 #### 129 👍 - Pro

@@ -1,0 +1,170 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1808](/bill/2023-24/hb/1808/) > [Original Bill](/bill/2023-24/hb/1808/1/)
+
+# HB 1808 - Parentage/sexual assault
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1808.pdf)
+
+## Section 1
+1. For the purposes of this section, "sexual assault" means nonconsensual sexual penetration that results in pregnancy.
+
+2. In a proceeding in which a parent alleges that a person committed a sexual assault that resulted in the parent becoming pregnant and subsequently giving birth to a child, the parent may seek to preclude the person from establishing or maintaining the person's parentage of the child. A parent who alleges that a child was born as a result of sexual assault may also seek additional relief as described in this section.
+
+3. This section does not apply if the person described in subsection (2) of this section has previously been adjudicated in a proceeding brought under RCW 26.26A.400 to be a parent of the child, except as may be specifically permitted under subsection (4) of this section.
+
+4. Unless RCW 26.26A.240 or 26.26A.430 applies, a parent must file a pleading making an allegation under subsection (2) of this section not later than 10 years after the birth of the child, except that for a period of one year after January 1, 2019, a court may waive the time bar in cases in which a presumed, acknowledged, or adjudicated parent was found in a criminal or separate civil proceeding to have committed a sexual assault against the parent alleging that the child was born as a result of the sexual assault.
+
+5. If a parent makes an allegation under subsection (2) of this section and subsection (3) of this section does not apply, the court must conduct a fact-finding hearing on the allegation within 75 days of the filing of the petition, unless exceptional circumstances require additional time.
+
+    a. The court may not enter any temporary orders providing residential time or decision making to the alleged perpetrator prior to the fact-finding hearing on the sexual assault allegation unless both of the following criteria are satisfied: (i) The alleged perpetrator has a bonded and dependent relationship with the child that is parental in nature; and (ii) the court specifically finds that it would be in the best interest of the child if such temporary orders are entered.
+
+    b. Prior to the fact-finding hearing, the court may order genetic testing to determine whether the alleged perpetrator is biologically related to the child. If genetic testing reveals that the alleged perpetrator is not biologically related to the child, the fact-finding hearing must be stricken.
+
+    c. Fourteen days prior to the fact-finding hearing, the parent alleging that the child was born as a result of a sexual assault shall submit affidavits setting forth facts supporting the allegation and shall give notice, together with a copy of the affidavit, to other parties to the proceedings, who may file opposing affidavits. Opposing affidavits must be submitted and served to other parties to the proceeding five days prior to the fact-finding hearing.
+
+    d. The court shall determine on the record whether affidavits and documents submitted for the fact-finding hearing should be sealed.
+
+6. An allegation under subsection (2) of this section may be proved by:
+
+    a. Evidence that the person was convicted of or pleaded guilty to a sexual assault under RCW 9A.44.040, 9A.44.050, or 9A.44.060, or a comparable crime of sexual assault, including child rape of any degree, in this state or any other jurisdiction, against the child's parent and the child was born within three hundred twenty days after the sexual assault; or
+
+    b. Clear, cogent, and convincing evidence that the person committed sexual assault, as defined in this section, against the child's parent and the child was born within three hundred twenty days after the sexual assault.
+
+7. Subject to subsections (1) through (5) of this section, if the court determines that an allegation has been proved under subsection (6) of this section at the fact-finding hearing or after a bench trial, the court shall:
+
+    a. Adjudicate that the person described in subsection (2) of this section is not a parent of the child, has no right to residential time or decision-making responsibilities for the child, has no right to inheritance from the child, and has no right to notification of, or standing to object to, the adoption of the child. If the parent who was the victim of the sexual assault expressly consents in writing for the court to decline to enter one or more of these restrictions or limitations, the court may do so;
+
+    b. Require the state registrar of vital statistics to amend the birth record if requested by the parent and the court determines that the amendment is in the best interest of the child; and
+
+    c. Require the person pay to child support, birth-related costs, or both, unless the parent requests otherwise and the court determines that granting the request is in the best interest of the child.
+
+8. The child's parent or guardian may decline an order for child support or birth-related costs. If the child's parent or guardian declines an order for child support, and is either currently receiving public assistance or later applies for it for the child born as a result of the sexual assault, support enforcement agencies as defined in this chapter shall not file administrative or court proceedings to establish or collect child support, including medical support, from the person described in subsection (2) of this section.
+
+9. If the court enters an order under subsection (8) of this section providing that no child support obligation may be established or collected from the person described in subsection (2) of this section, the court shall forward a copy of the order to the Washington state support registry.
+
+10. The court may order an award of attorneys' fees under this section on the same basis as attorneys' fees are awarded under RCW 26.09.140.
+
+11. Any party may move to close the fact-finding hearing and any related proceedings under this section to the public. If no party files such a motion, the court shall determine on its own initiative whether the fact-finding hearing and any related proceedings under this section should be closed to the public. Upon finding good cause for closing the proceeding, and if consistent with Article I, section 10 of the state Constitution, the court may:
+
+    a. Restrict admission to only those persons whom the court finds to have a direct interest in the case or in the work of the court, including witnesses deemed necessary to the disposition of the case; and
+
+    b. Restrict persons who are admitted from disclosing any information obtained at the hearing that would identify the parties involved or the child.
+
+12. The court must appoint an attorney for an indigent petitioner and respondent in a proceeding under this section. The office of civil legal aid is responsible for implementing this subsection, and the state shall pay the costs of legal services provided by an attorney appointed under this subsection. For the purposes of this subsection, "indigent" means any person who, at any stage of a court proceeding, is:
+
+    a. Receiving one of the following types of public assistance:
+
+        i. Temporary assistance for needy families;
+
+        ii. Aged, blind, or disabled assistance benefits;
+
+        iii. Medical care services under RCW 74.09.035;
+
+        iv. Pregnant women assistance benefits;
+
+    v. Poverty-related veterans' benefits;
+
+    vi. Food stamps or food stamp benefits transferred electronically;
+
+    vii. Refugee resettlement benefits;
+
+    viii. Medicaid; or
+
+        ix. Supplemental security income; or
+
+    b. Receiving an annual income, after taxes, of 200 percent or less of the current federally established poverty level.
+
+## Section 2
+Moneys appropriated by the legislature for legal services provided by an attorney appointed pursuant to RCW 26.26A.465 must be administered by the office of civil legal aid created under RCW 2.53.020. The office of civil legal aid must enter into contracts with attorneys and agencies for the provision of legal services under RCW 26.26A.465 to remain within appropriated amounts.
+
+## Section 3
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 4
+(1)(a) When a child is removed or when the petitioner is seeking the removal of a child from the child's parent, guardian, or legal custodian, the court shall hold a shelter care hearing within 72 hours, excluding Saturdays, Sundays, and holidays. The primary purpose of the shelter care hearing is to determine whether the child can be immediately and safely returned home while the adjudication of the dependency is pending. The court shall hold an additional shelter care hearing within 72 hours, excluding Saturdays, Sundays, and holidays if the child is removed from the care of a parent, guardian, or legal custodian at any time after an initial shelter care hearing under this section.
+
+## Section 5
+1. Whenever a child is ordered to be removed from the home, a permanency plan shall be developed no later than 60 days from the time the department assumes responsibility for providing services, including placing the child, or at the time of a hearing under RCW 13.34.130, whichever occurs first. The permanency planning process continues until a permanency planning goal is achieved or dependency is dismissed. The planning process shall include reasonable efforts to return the child to the parent's home.
+
+2. The department shall submit a written permanency plan to all parties and the court not less than 14 days prior to the scheduled hearing. Responsive reports of parties not in agreement with the department's proposed permanency plan must be provided to the department, all other parties, and the court at least seven days prior to the hearing.
+
+The permanency plan shall include:
+
+    a. A permanency plan of care that shall identify one of the following outcomes as a primary goal and may identify additional outcomes as alternative goals: Return of the child to the home of the child's parent, guardian, or legal custodian; adoption, including a tribal customary adoption as defined in RCW 13.38.040; guardianship pursuant to chapter 13.36 RCW; guardianship of a minor pursuant to RCW 11.130.215; long-term relative or foster care, if the child is between ages 16 and 18, with a written agreement between the parties and the care provider; successful completion of a responsible living skills program; or independent living, if appropriate and if the child is age 16 or older. Although a permanency plan of care may only identify long-term relative or foster care for children between ages 16 and 18, children under 16 may remain placed with relatives or in foster care. The department shall not discharge a child to an independent living situation before the child is 18 years of age unless the child becomes emancipated pursuant to chapter 13.64 RCW;
+
+    b. Unless the court has ordered, pursuant to RCW 13.34.130(8), that a termination petition be filed, a specific plan as to where the child will be placed, what steps will be taken to return the child home, what steps the department will take to promote existing appropriate sibling relationships and/or facilitate placement together or contact in accordance with the best interests of each child, and what actions the department will take to maintain parent-child ties. All aspects of the plan shall include the goal of achieving permanence for the child.
+
+        i. The department's plan shall specify what services the parents will be offered to enable them to resume custody, what requirements the parents must meet to resume custody, and a time limit for each service plan and parental requirement.
+
+(A) If the parent is incarcerated, the plan must address how the parent will participate in the case conference and permanency planning meetings and, where possible, must include treatment that reflects the resources available at the facility where the parent is confined. The plan must provide for visitation opportunities, unless visitation is not in the best interests of the child.
+
+(B) If a parent has a developmental disability according to the definition provided in RCW 71A.10.020, and that individual is eligible for services provided by the department of social and health services developmental disabilities administration, the department shall make reasonable efforts to consult with the department of social and health services developmental disabilities administration to create an appropriate plan for services. For individuals who meet the definition of developmental disability provided in RCW 71A.10.020 and who are eligible for services through the developmental disabilities administration, the plan for services must be tailored to correct the parental deficiency taking into consideration the parent's disability and the department shall also determine an appropriate method to offer those services based on the parent's disability.
+
+        ii.(A) Visitation is the right of the family, including the child and the parent, in cases in which visitation is in the best interest of the child. Early, consistent, and frequent visitation is crucial for maintaining parent-child relationships and making it possible for parents and children to safely reunify. The department shall encourage the maximum parent and child and sibling contact possible, when it is in the best interest of the child, including regular visitation and participation by the parents in the care of the child while the child is in placement.
+
+(B) Visitation shall not be limited as a sanction for a parent's failure to comply with court orders or services where the health, safety, or welfare of the child is not at risk as a result of the visitation.
+
+(C) Except as provided in (b)(ii)(G) of this subsection, visitation may be limited or denied only if the court determines that such limitation or denial is necessary to protect the child's health, safety, or welfare. Visitation must occur in the least restrictive setting and be unsupervised unless the presence of threats or danger to the child requires the constant presence of an adult to ensure the safety of the child. When a parent or sibling has been identified as a suspect in an active criminal investigation for a violent crime that, if the allegations are true, would impact the safety of the child, the department shall make a concerted effort to consult with the assigned law enforcement officer in the criminal case before recommending any changes in parent/child or child/sibling contact. In the event that the law enforcement officer has information pertaining to the criminal case that may have serious implications for child safety or well-being, the law enforcement officer shall provide this information to the department during the consultation. The department may only use the information provided by law enforcement during the consultation to inform family visitation plans and may not share or otherwise distribute the information to any person or entity. Any information provided to the department by law enforcement during the consultation is considered investigative information and is exempt from public inspection pursuant to RCW 42.56.240. The results of the consultation shall be communicated to the court.
+
+(D) The court and the department should rely upon community resources, relatives, foster parents, and other appropriate persons to provide transportation and supervision for visitation to the extent that such resources are available, and appropriate, and the child's safety would not be compromised.
+
+(E) If the court previously ordered that visitation between a parent and child be supervised or monitored, there shall be a presumption that such supervision or monitoring will no longer be necessary when the permanency plan is entered. To overcome this presumption, a party must provide a report to the court including evidence establishing that removing visit supervision or monitoring would create a risk to the child's safety, and the court shall make a determination as to whether visit supervision or monitoring must continue.
+
+(F) The court shall advise the petitioner that the failure to provide court-ordered visitation may result in a finding that the petitioner failed to make reasonable efforts to finalize the permanency plan. The lack of sufficient contracted visitation providers will not excuse the failure to provide court-ordered visitation.
+
+(G) Visitation may not be provided to an alleged perpetrator of sexual assault that resulted in the parent becoming pregnant and subsequently giving birth to a child following the filing of a petition under RCW 26.26A.465 before a fact-finding hearing has occurred on that petition or the petition has been dismissed unless both of the following criteria are satisfied: (I) The alleged perpetrator has a bonded and dependent relationship with the child that is parental in nature; and (II) the court finds that it would be in the best interest of the child for such visitation to occur.
+
+        iii.(A) The department, court, or caregiver in the out-of-home placement may not limit visitation or contact between a child and sibling as a sanction for a child's behavior or as an incentive to the child to change his or her behavior.
+
+(B) Any exceptions, limitation, or denial of contacts or visitation must be approved by the supervisor of the department caseworker and documented. The child, parent, department, guardian ad litem, or court-appointed special advocate may challenge the denial of visits in court.
+
+        iv. A child shall be placed as close to the child's home as possible, preferably in the child's own neighborhood, unless the court finds that placement at a greater distance is necessary to promote the child's or parents' well-being.
+
+    v. The plan shall state whether both in-state and, where appropriate, out-of-state placement options have been considered by the department.
+
+    vi. Unless it is not in the best interests of the child, whenever practical, the plan should ensure the child remains enrolled in the school the child was attending at the time the child entered foster care.
+
+    vii. The department shall provide all reasonable services that are available within the department, or within the community, or those services which the department has existing contracts to purchase. It shall report to the court if it is unable to provide such services; and
+
+    c. If the court has ordered, pursuant to RCW 13.34.130(9), that a termination petition be filed, a specific plan as to where the child will be placed, what steps will be taken to achieve permanency for the child, services to be offered or provided to the child, and, if visitation would be in the best interests of the child, a recommendation to the court regarding visitation between parent and child pending a fact-finding hearing on the termination petition. The department shall not be required to develop a plan of services for the parents or provide services to the parents if the court orders a termination petition be filed. However, reasonable efforts to ensure visitation and contact between siblings shall be made unless there is reasonable cause to believe the best interests of the child or siblings would be jeopardized.
+
+3. Permanency planning goals should be achieved at the earliest possible date. If the child has been in out-of-home care for 15 of the most recent 22 months, and the court has not made a good cause exception, the court shall require the department to file a petition seeking termination of parental rights in accordance with RCW 13.34.145(4)(b)(vi). In cases where parental rights have been terminated, the child is legally free for adoption, and adoption has been identified as the primary permanency planning goal, it shall be a goal to complete the adoption within six months following entry of the termination order.
+
+4. If the court determines that the continuation of reasonable efforts to prevent or eliminate the need to remove the child from his or her home or to safely return the child home should not be part of the permanency plan of care for the child, reasonable efforts shall be made to place the child in a timely manner and to complete whatever steps are necessary to finalize the permanent placement of the child.
+
+5. The identified outcomes and goals of the permanency plan may change over time based upon the circumstances of the particular case.
+
+6. The court shall consider the child's relationships with the child's siblings in accordance with RCW 13.34.130(7). Whenever the permanency plan for a child is adoption, the court shall encourage the prospective adoptive parents, birth parents, foster parents, kinship caregivers, and the department or other agency to seriously consider the long-term benefits to the child adoptee and his or her siblings of providing for and facilitating continuing postadoption contact between the siblings. To the extent that it is feasible, and when it is in the best interests of the child adoptee and his or her siblings, contact between the siblings should be frequent and of a similar nature as that which existed prior to the adoption. If the child adoptee or his or her siblings are represented by an attorney or guardian ad litem in a proceeding under this chapter or in any other child custody proceeding, the court shall inquire of each attorney and guardian ad litem regarding the potential benefits of continuing contact between the siblings and the potential detriments of severing contact. This section does not require the department or other agency to agree to any specific provisions in an open adoption agreement and does not create a new obligation for the department to provide supervision or transportation for visits between siblings separated by adoption from foster care.
+
+7. For purposes related to permanency planning, "guardianship" means a guardianship pursuant to chapter 13.36 RCW or a guardianship of a minor pursuant to RCW 11.130.215, or equivalent laws of another state or a federally recognized Indian tribe.
+
+## Section 6
+1. The court hearing the dependency petition may hear and determine issues related to a guardianship of a minor under RCW 11.130.215 in a dependency proceeding as necessary to facilitate a permanency plan for the child or children as part of the dependency disposition order or a dependency review order or as otherwise necessary to implement a permanency plan of care for a child. Any modification or establishment of a guardianship of a minor must be made in conformity with the standards in chapter 11.130 RCW. The parents, guardians, or legal custodian of the child must agree, subject to court approval, to establish or modify a guardianship of a minor, but the court may decide any contested issues implementing the guardianship. This agreed guardianship of a minor may have the concurrence of the other parties to the dependency, the guardian ad litem of the child, and the child if age twelve or older, and must also be in the best interests of the child. If the petitioner for a guardianship of a minor order under RCW 11.130.215 is not a party to the dependency proceeding, he or she must agree on the record or by the filing of a declaration to the entry of a guardianship of a minor. Once a guardianship of a minor order is entered under RCW 11.130.215, and the dependency petition dismissed, the department shall not continue to supervise the placement.
+
+2. [Empty]
+
+    a. The court hearing the dependency petition may establish or modify a parenting plan under chapter 26.09, 26.26A, or 26.26B RCW as part of a disposition order or at a review hearing when doing so will implement a permanent plan of care for the child and result in dismissal of the dependency.
+
+    b. The dependency court shall adhere to procedural requirements under chapter 26.09 RCW and must make a written finding that the parenting plan established or modified by the dependency court under this section is in the child's best interests.
+
+    c. Unless the whereabouts of one of the parents is unknown to either the department or the court, the parents must agree, subject to court approval, to establish the parenting plan or modify an existing parenting plan.
+
+    d. Whenever the court is asked to establish or modify a parenting plan, the child's residential schedule, the allocation of decision-making authority, and dispute resolution under this section, the dependency court may:
+
+        i. Appoint a guardian ad litem to represent the interests of the child when the court believes the appointment is necessary to protect the best interests of the child; and
+
+        ii. Appoint an attorney to represent the interests of the child with respect to provisions for the parenting plan.
+
+    e. The dependency court must make a written finding that the parenting plan established or modified by the dependency court under this section is in the child's best interests.
+
+    f. The dependency court may interview the child in chambers to ascertain the child's wishes as to the child's residential schedule in a proceeding for the entry or modification of a parenting plan under this section. The court may permit counsel to be present at the interview. The court shall cause a record of the interview to be made and to become part of the court record of the dependency case and the case under chapter 26.09, 26.26A, or 26.26B RCW.
+
+    g. In the absence of agreement by a parent, guardian, or legal custodian of the child to allow the juvenile court to hear and determine issues related to the establishment or modification of a parenting plan under chapter 26.09, 26.26A, or 26.26B RCW, a party may move the court to transfer such issues to the family law department of the superior court for further resolution. The court may only grant the motion upon entry of a written finding that it is in the best interests of the child.
+
+    h. In any parenting plan agreed to by the parents and entered or modified in juvenile court under this section, all issues pertaining to child support and the division of marital property shall be referred to or retained by the family law department of the superior court.
+
+3. Any order entered in the dependency court establishing or modifying a guardianship of a minor under RCW 11.130.215, parenting plan, or residential schedule under chapter 26.09, 26.26A, or 26.26B RCW shall also be filed in the chapter 11.130, 26.09, 26.26A, or 26.26B RCW action by the moving or prevailing party. If the petitioning or moving party has been found indigent and appointed counsel at public expense in the dependency proceeding, no filing fees shall be imposed by the clerk. Once filed, any guardianship of a minor order, parenting plan, or residential schedule establishing or modifying permanent legal custody of a child shall survive dismissal of the dependency proceeding.
+
+4. The court hearing the dependency petition shall grant any request for concurrent jurisdiction to allow a parent to file a petition under RCW 26.26A.465 alleging that a person committed sexual assault that resulted in the parent becoming pregnant and subsequently giving birth to a child.
+
+## Section 7
+If a parent filed a petition under RCW 26.26A.465 alleging that a person committed sexual assault that resulted in the parent becoming pregnant and subsequently giving birth to a child, the court shall require the alleged perpetrator to appear remotely in the proceedings under this chapter to minimize the trauma for the parent who filed the petition under RCW 26.26A.465 until the court holds a fact-finding hearing on the petition or the petition is dismissed.

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/10 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1743 Employee ownership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151229&caId=21337&tId=4)
-
-#### 19 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Steve Storkan - Employee Ownership Expansion Network
 * Jack Moriarty - Ownership America
@@ -23,6 +17,7 @@ Testifying:
 * Joseph Sweitzer
 * Aaliyah Nedd - National Cooperative Business Association (NCBA)
 * Patrick McGrath - Working Systems Cooperative
+* Mauri Ingram - Whatcom Community Foundation
 
 #### 0 👎 - Con
 

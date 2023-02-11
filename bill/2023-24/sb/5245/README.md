@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/03 08:00 AM - Environment, Energy & Technology (ENET): SB 5245 Biosolids

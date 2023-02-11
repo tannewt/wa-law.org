@@ -16,9 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Richard Prentke
 
 ### Wed 01/11 08:00 AM - Labor & Workplace Standards (LAWS): HB 1099 Public works wages
 #### 0 👍 - Pro

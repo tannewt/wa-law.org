@@ -19,6 +19,10 @@ Testifying:
 * Lynnette Bennett - Skagit Valley College
 * Shelley Price
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* David Buri - Eastern Washington University
+* 💵Nora Selander - Western Washington University
+* Ruben Flores - Council Of Presidents
 
 #### 0 ❓ - Other

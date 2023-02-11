@@ -9,6 +9,14 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
 
+## [HB 1771](/bill/2023-24/hb/1771/) - Relocation assistance 👍1  
+
+## [HB 1810](/bill/2023-24/hb/1810/) - Mobile home rental assist. 👍1  
+* 👍💵 Mike Hoover
+
+## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍2  
+* 👍💵 Mike Hoover
+
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎2 
 
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales  👎1 

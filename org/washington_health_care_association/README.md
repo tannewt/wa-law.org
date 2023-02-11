@@ -25,3 +25,6 @@
 
 ## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
 * 👍 Carma Matti-Jackson
+
+## [SB 5640](/bill/2023-24/sb/5640/) - Independent living residents 👍1  
+* 👍 Jeff Gombosky

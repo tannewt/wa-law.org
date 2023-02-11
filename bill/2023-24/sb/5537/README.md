@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5537 Hospital staffing collab.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150475&caId=21098&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150475&caId=21098&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150475&caId=21098&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30628&aId=150475&caId=21098&tId=4)
-
-#### 107 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 * RN, Dana Nelson-Peterson - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
@@ -22,8 +16,9 @@ Testifying:
 * RN, Renee Rassilyer-Bomers - Providence Swedish
 * RN, Vickie Swanson - [Olympic Medical Center](/org/olympic_medical_center/)
 * 💵Lindsey Grad - SEIU Healthcare 1199NW
+* 💵Ian Goodhew - UW Medicine
 
-#### 14 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Anita Dalton
 * Sara Gering

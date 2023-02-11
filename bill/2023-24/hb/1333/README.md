@@ -15,19 +15,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=4)
 
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Everett Blindheim
 * Kristiana de Leon - Association of Secular Elected Officials
 
-#### 155 👎 - Con
+#### 207 👎 - Con
 Testifying:
 * Eric Pratt
 * Laurie Layne
 * Julie Barrett - Conservative Ladies of Washington
 * Joshua Hardwick
 * Antoinette Nepper
+* Tim Eyman
+* Gary Wilson
+* Linda Ader
+* Jennifer Heine-Withee
 
 #### 0 ❓ - Other
 

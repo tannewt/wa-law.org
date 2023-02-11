@@ -123,7 +123,7 @@
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
 
-## [SB 5372](/bill/2023-24/sb/5372/) - Trust land transfer program 👍1  
+## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 

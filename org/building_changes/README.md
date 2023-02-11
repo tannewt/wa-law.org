@@ -33,6 +33,8 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 * 👍💵 Megan Veith
 

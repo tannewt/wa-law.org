@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=4)
 
-#### 128 👍 - Pro
+#### 504 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Susan Baird-Joshi - Washington State PTA
@@ -31,8 +31,9 @@ Testifying:
 * 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 * 💵Denisse Guerrero - WA Community Alliance
+* 💵Hyeeun Park - BIPOC Executive Directors Coalition
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/10 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1783 Grant writers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151475&caId=21372&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151475&caId=21372&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151475&caId=21372&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30719&aId=151475&caId=21372&tId=4)
-
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 
 #### 0 👎 - Con
 
