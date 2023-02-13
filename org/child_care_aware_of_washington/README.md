@@ -2,7 +2,7 @@
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
-## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
+## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
 

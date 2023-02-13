@@ -2,7 +2,7 @@
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
 

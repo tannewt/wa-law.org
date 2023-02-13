@@ -16,11 +16,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Richard Prentke
+* Tammy Fellin - Labor & Industries
 
 ### Wed 01/11 08:00 AM - Labor & Workplace Standards (LAWS): HB 1099 Public works wages
 #### 0 👍 - Pro

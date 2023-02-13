@@ -19,6 +19,6 @@
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  

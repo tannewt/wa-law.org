@@ -16,9 +16,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Andrew Held
+* Thomas O'Keefe - American Whitewater
+* Brian Smith
+* Kyle Thomas - ACA
 
 #### 1 ❓ - Other
 Testifying:

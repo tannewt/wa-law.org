@@ -27,6 +27,8 @@
 
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  

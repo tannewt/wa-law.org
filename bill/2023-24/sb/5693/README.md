@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151210&caId=21459&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151210&caId=21459&tId=4)
 
-#### 19 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * David Crabtree
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

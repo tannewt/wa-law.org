@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151810&caId=21524&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151810&caId=21524&tId=4)
 
-#### 1 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Shelly Willis - Exec. Director, Family Education and Support Services
+* Marissa Ingalls - Coordinated Care
+* 💵Shrounda Selivanoff - Kinship caregiver; Children's Home Society of WA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

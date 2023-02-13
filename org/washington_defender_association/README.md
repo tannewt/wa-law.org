@@ -26,3 +26,6 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 * 👍 Katherine Hurley
+
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
+* 👍 Magda Baker

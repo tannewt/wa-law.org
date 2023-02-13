@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151715&caId=21507&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151715&caId=21507&tId=4)
 
-#### 30 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * Laurence Leveen
 * 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

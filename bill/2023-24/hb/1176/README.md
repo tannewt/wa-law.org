@@ -15,11 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151466&caId=21384&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151466&caId=21384&tId=4)
 
-#### 81 👍 - Pro
+#### 164 👍 - Pro
+Testifying:
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Aaron Everett
+* 💵Hannah Jones - Firelands Workers Action/Acción de Trabajadores
 
-#### 1 👎 - Con
+#### 78 👎 - Con
+Testifying:
+* Paula Taylor - Conservative Ladies of WA
+* Scott Taylor - Conservative Ladies of WA
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* john Worthington
 
 ### Tue 01/17 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1176 Climate-ready communities
 #### 208 👍 - Pro

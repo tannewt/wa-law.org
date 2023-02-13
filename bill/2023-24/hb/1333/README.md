@@ -15,13 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=4)
 
-#### 15 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Everett Blindheim
 * Kristiana de Leon - Association of Secular Elected Officials
 
-#### 207 👎 - Con
+#### 1306 👎 - Con
 Testifying:
 * Eric Pratt
 * Laurie Layne
@@ -32,8 +32,24 @@ Testifying:
 * Gary Wilson
 * Linda Ader
 * Jennifer Heine-Withee
+* Dawn Land
+* Shawna Zlab
+* Jean Clark
+* Anastasia Osorio
+* Sue Coffman - Informed Choice WA
+* Charlton Evans
+* Sharon Aleckson
+* mike johnson
+* Paul Glumaz
+* Steven Ferrell
+* Rebecca Faust
+* Robert Runnells - Informed Choice Washington
+* Colleen Saylors
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* C Davis - Washingtonians to Recall Inslee
+* Kory Slaatthaug
 
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1333 Domestic violent extremism
 #### 121 👍 - Pro

@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151809&caId=21523&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151809&caId=21523&tId=4)
 
-#### 22 👍 - Pro
+#### 81 👍 - Pro
+Testifying:
+* Ryan Grant - [Washington Library Association](/org/washington_library_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

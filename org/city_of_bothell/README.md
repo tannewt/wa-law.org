@@ -10,3 +10,5 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  

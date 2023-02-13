@@ -25,6 +25,9 @@
 ## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
 * 👍💵 Bryce Yadon
 
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
+* 👍💵 Bryce Yadon
+
 ## [SB 5573](/bill/2023-24/sb/5573/) - Vehicle licensing options 👍1  
 * 👍💵 Bryce Yadon
 

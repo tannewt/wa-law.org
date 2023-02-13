@@ -15,9 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151295&caId=21518&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151295&caId=21518&tId=4)
 
-#### 58 👍 - Pro
+#### 117 👍 - Pro
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * john Worthington
 

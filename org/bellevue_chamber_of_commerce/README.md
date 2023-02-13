@@ -6,3 +6,6 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
 * ❓ Jodie Alberts
 * ❓ Jodie Alberts
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+* 👍 Jodie Alberts

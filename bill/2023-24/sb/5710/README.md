@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151533&caId=21465&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151533&caId=21465&tId=4)
 
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Kimberly Headrick - Medical Lake School District
 
 #### 1 👎 - Con
 

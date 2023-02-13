@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=4)
 
-#### 51 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Patrick Taggart
 * Larry Walker - ABATE of WA
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
 
 #### 0 ❓ - Other

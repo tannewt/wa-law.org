@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30726&aId=151590&caId=21381&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30726&aId=151590&caId=21381&tId=4)
 
-#### 4 👍 - Pro
+#### 142 👍 - Pro
+Testifying:
+* Sherri Dysart - League of Women Voters of Washington
+* Jeremy "JJ" Wilbur - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 
-#### 6 👎 - Con
+#### 125 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

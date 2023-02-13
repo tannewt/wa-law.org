@@ -14,6 +14,9 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program   ❓1
 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
+* 👍 Jeremy "JJ" Wilbur
+
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  

@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=4)
 
-#### 194 👍 - Pro
+#### 281 👍 - Pro
 Testifying:
 * Cecilia Conley
 * Jeffrey Ellis - Redemption Project of WA
 * Antoine Davis
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

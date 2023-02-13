@@ -15,17 +15,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=4)
 
-#### 17 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Peter Manning - Black Excellence In Cannabis
 * Mike Asai - Black Excellence In Cannabis
 * Damian Mims - Black Excellence In Cannabis
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Raft Hollingsworth
+* Rick Garza - Washington State Liquor and Cannabis Board
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * john Worthington
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5080 Cannabis social equity
 #### 0 👍 - Pro

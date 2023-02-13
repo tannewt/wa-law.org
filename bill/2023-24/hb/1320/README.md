@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30783&aId=151592&caId=21427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30783&aId=151592&caId=21427&tId=4)
 
-#### 23 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Patrick McGah
 * Cher Scarlett
 
-#### 10 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

@@ -2,7 +2,8 @@
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
+* 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
@@ -20,6 +21,9 @@
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
+## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+* 👍💵 Guillermo Rogel
 
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm.  👎1 
 

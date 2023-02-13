@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151892&caId=21541&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151892&caId=21541&tId=4)
 
-#### 2 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Jarel Sanders - Partners for Our Children
+* 💵Shrounda Selivanoff - Kinship caregiver; Children's Home Society of WA
+* Tara Urs - King Co. Dept. of Public Defense
 
 #### 0 👎 - Con
 

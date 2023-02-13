@@ -37,6 +37,8 @@
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍1  
+
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
@@ -109,6 +111,8 @@
 ## [SB 5434](/bill/2023-24/sb/5434/) - Juvenile court jurisdiction 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
+
+## [SB 5451](/bill/2023-24/sb/5451/) - Long sentences review 👍1  
 
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession  👎1 
 

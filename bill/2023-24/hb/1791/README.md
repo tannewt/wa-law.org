@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=4)
 
-#### 61 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* Bill Adamson - South Sound Military & Communities Partnership
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Melonie Rockwell
 
 #### 0 ❓ - Other

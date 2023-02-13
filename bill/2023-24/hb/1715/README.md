@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151860&caId=21532&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * David Martin - KCPAO
 * Taylot Knight - Clark County Prosecuting Attorney’s Office Domestic Violence Prosecution Center
 * Alvin Notice - Tiana A Notice Foundation
 * Jim Bamberger - Office of Civil Legal Aid
+* Annie Murphey - Spokane Regional Domestic Violence Coalition
 
 #### 0 👎 - Con
 

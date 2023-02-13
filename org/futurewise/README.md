@@ -23,7 +23,7 @@
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs  👎1 
 * 👎💵 Bryce Yadon
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

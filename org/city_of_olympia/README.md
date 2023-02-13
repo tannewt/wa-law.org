@@ -1,5 +1,7 @@
 # City of Olympia
 
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -29,6 +31,8 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
@@ -39,7 +43,13 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
+## [HB 1556](/bill/2023-24/hb/1556/) - Property tax rebates 👍1  
+
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
 
@@ -65,7 +75,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

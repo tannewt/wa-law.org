@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151481&caId=21468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151481&caId=21468&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joel Creswell - Washington Department of Ecology

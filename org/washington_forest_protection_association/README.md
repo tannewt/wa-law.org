@@ -5,6 +5,9 @@
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 * 👍 Tom Davis
 
+## [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership  👎1 
+* 👎 Tom Davis
+
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 * 👍 Tom Davis
 
@@ -14,6 +17,8 @@
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍1  
+
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
@@ -34,5 +39,8 @@
 * 👎 Tom Davis
 
 ## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍1  
+
+## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board  👎1 
+* 👎 Tom Davis
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 

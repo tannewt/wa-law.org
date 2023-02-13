@@ -41,7 +41,7 @@
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
@@ -80,6 +80,8 @@
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
+## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
+
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
@@ -108,6 +110,8 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
+## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
+
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
@@ -128,7 +132,7 @@
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
@@ -193,6 +197,10 @@
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
+## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
 
@@ -203,6 +211,8 @@
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍1  
+
+## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
@@ -271,7 +281,7 @@
 * 👍💵 Michael White
 * 👍💵 Michael White
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 

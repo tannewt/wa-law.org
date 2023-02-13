@@ -16,7 +16,7 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 * ❓💵 Carl Schroeder
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍💵 Carl Schroeder
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
@@ -55,6 +55,9 @@
 ## [HB 1304](/bill/2023-24/hb/1304/) - Electric security alarms  👎1 
 * 👎💵 Carl Schroeder
 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓1
+* ❓💵 Candice Bock
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat   ❓1
 * ❓ Brandy DeLange
 
@@ -70,6 +73,9 @@
 * 👍 Amy Ockerlander
 * 👍💵 Candice Bock
 
+## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
+* 👍💵 Candice Bock
+
 ## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
@@ -78,8 +84,12 @@
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways   ❓1
 * ❓ Brandy DeLange
 
-## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct  👎1 
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct  👎2 
 * 👎💵 Candice Bock
+* 👎💵 Candice Bock
+
+## [HB 1446](/bill/2023-24/hb/1446/) - Law enf. officers/increase 👍1  
+* 👍💵 Candice Bock
 
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 
@@ -105,6 +115,9 @@
 * 👍💵 Candice Bock
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
+
+## [HB 1577](/bill/2023-24/hb/1577/) - Municipal officers/contracts 👍1  
+* 👍💵 Candice Bock
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Candice Bock
@@ -135,6 +148,8 @@
 * 👎💵 Candice Bock
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
+
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder
@@ -205,7 +220,8 @@
 ## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
 * 👍💵 Carl Schroeder
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍2  
@@ -230,7 +246,8 @@
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
 * 👎💵 Candice Bock
 
-## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
@@ -246,7 +263,18 @@
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 
+## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
+
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 * 👎💵 Carl Schroeder
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+* 👍💵 Candice Bock
+
+## [SB 5657](/bill/2023-24/sb/5657/) - Kit home permitting 👍1  
+
+## [SB 5672](/bill/2023-24/sb/5672/) - Auto theft authority account 👍1  
+
+## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  

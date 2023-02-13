@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30741&aId=151398&caId=21415&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30741&aId=151398&caId=21415&tId=4)
 
-#### 5 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* 💵Lyset Cadena - Andy Hill CARE Fund
+* 💵Ian Goodhew - UW Medicine
+* 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 
 #### 0 👎 - Con
 

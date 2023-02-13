@@ -46,7 +46,7 @@
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍1  
 * 👍💵 Heather Trim
 
-## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍1  
+## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍2  
 * 👍💵 Heather Trim
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  

@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=4)
 
-#### 137 👍 - Pro
+#### 420 👍 - Pro
+Testifying:
+* Penny Sweet - Mayor, City of Kirkland
+* Daniel Groce - Novelis
 
 #### 3 👎 - Con
 Testifying:
@@ -23,7 +26,7 @@ Testifying:
 * Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Erin Hall - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 

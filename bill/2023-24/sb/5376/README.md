@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151293&caId=21516&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151293&caId=21516&tId=4)
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

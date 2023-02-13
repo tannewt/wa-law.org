@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151286&caId=21483&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151286&caId=21483&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Ryan Montgomery - Washington State Bar Association Real Property, Probate and Trust Section
 * Watson Blair
+* john Worthington
 
 #### 0 👎 - Con
 

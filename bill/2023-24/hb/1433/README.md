@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151469&caId=21387&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151469&caId=21387&tId=4)
 
-#### 108 👍 - Pro
+#### 236 👍 - Pro
 
-#### 13 👎 - Con
+#### 21 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1433 Energy labeling/residential
 #### 178 👍 - Pro

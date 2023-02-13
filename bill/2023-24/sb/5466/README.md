@@ -14,19 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151714&caId=21506&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151714&caId=21506&tId=4)
 
-#### 43 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
 * Jesse Simpson - Housing Development Consortium
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Cynthia Stewart - League of Women Voters of WA
+* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* 💵Greg Hanon - NAIOP
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Clifford Cawthon - Habitat for Humanity of Seattle-King & Kittitas Counties
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Tue 01/31 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5466 Transit-oriented development
 #### 732 👍 - Pro

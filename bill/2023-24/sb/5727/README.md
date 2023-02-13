@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151777&caId=21485&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151777&caId=21485&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Steve Horvath - Condo Connection
+* Raelene Schifano - HOA Fightclub, nonprofit
+* Candace Carteen - RiseUpWA
+* Patrick Johansen - RiseUpWA
 
-#### 124 👎 - Con
+#### 177 👎 - Con
+Testifying:
+* Patrick McDonald - Washington State Chapter of Community Association Institute
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

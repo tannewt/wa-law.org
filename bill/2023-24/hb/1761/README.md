@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151406&caId=21407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151406&caId=21407&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tim Eyman - Permanent Offense
 
 #### 0 ❓ - Other

@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151294&caId=21517&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151294&caId=21517&tId=4)
 
-#### 10 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 3 👎 - Con
+#### 195 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

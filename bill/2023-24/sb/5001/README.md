@@ -16,10 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Paul Simmons - City of Olympia and Washington Recreation and Parks Association
 * Jerrilea Crawford - City of East Wenatchee
+* Frank Kuntz - Mayor, City of Wenatchee
 
 #### 0 👎 - Con
 

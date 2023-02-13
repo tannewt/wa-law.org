@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151713&caId=21505&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151713&caId=21505&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 
-#### 3 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Scott Kennedy - Alaska Air Group
+* 💵Emily Wittman - Aerospace Futures Alliance
+* Dana Debel - [Delta Air Lines](/org/delta_air_lines/)
 
 #### 0 ❓ - Other

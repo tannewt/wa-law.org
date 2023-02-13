@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151491&caId=21431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151491&caId=21431&tId=4)
 
-#### 16 👍 - Pro
+#### 60 👍 - Pro
+Testifying:
+* Tina Morehead - Washington Chapter-American Planning Assoc.
+* Cynthia Stewart - League of Women Voters of WA
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * john Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

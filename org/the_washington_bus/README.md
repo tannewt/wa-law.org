@@ -23,5 +23,7 @@
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍4  
 
+## [SB 5712](/bill/2023-24/sb/5712/) - College grant/promise prg. 👍1  
+
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍6  
 * 👍💵 Jazmine Smith

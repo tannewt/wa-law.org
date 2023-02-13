@@ -2,3 +2,5 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 * 👍 Jennifer Dunne
+
+## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  

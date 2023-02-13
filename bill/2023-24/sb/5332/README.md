@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 17 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Karina O'Malley

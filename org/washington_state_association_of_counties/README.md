@@ -71,10 +71,11 @@
 
 ## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access 👍1  
 
-## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
+## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍2  
 * 👍💵 Paul Jewell
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice   ❓1
@@ -106,8 +107,12 @@
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
+
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
 * 👎💵 Paul Jewell
+
+## [HB 1645](/bill/2023-24/hb/1645/) - County legislative meetings 👍1  
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
@@ -117,8 +122,14 @@
 
 ## [HB 1709](/bill/2023-24/hb/1709/) - Commerce housing programs 👍1  
 
+## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice   ❓1
+* ❓💵 Paul Jewell
+
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍💵 Paul Jewell
+
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services   ❓1
+* ❓💵 Paul Jewell
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel   ❓1
 * ❓💵 Juliana Roe
@@ -128,6 +139,9 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial 👍1  
 * 👍💵 Paul Jewell
+
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
+* ❓💵 Paul Jewell
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
@@ -214,8 +228,13 @@
 * 👍💵 Mike Hoover
 * 👍💵 Paul Jewell
 
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+* 👍💵 Paul Jewell
+
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
 * ❓💵 Paul Jewell
+
+## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.   ❓1
 * ❓💵 Paul Jewell

@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151285&caId=21482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151285&caId=21482&tId=4)
 
-#### 1 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Ann Davison - Seattle City Attorney’s Office
+* Mary Ellen Stone - KCSARC
+* CLAYTON A. PETERSON - Retired
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 👎 - Con
 

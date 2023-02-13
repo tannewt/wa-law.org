@@ -1,5 +1,8 @@
 # Legal Counsel for Youth and Children
 
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+* 👍 Erin Shea McCann
+
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
 * 👍 Rhea Yo
 

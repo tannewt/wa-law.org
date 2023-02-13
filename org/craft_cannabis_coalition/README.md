@@ -14,6 +14,9 @@
 ## [HB 1612](/bill/2023-24/hb/1612/) - Products containing THC  👎1 
 * 👎 Adán Espino Jr
 
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
+* ❓ Adan Espino Jr
+
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
 * 👍 Adan Espino Jr
 
@@ -24,5 +27,7 @@
 
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC  👎1 
 * 👎 Adan Espino Jr
+
+## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍1  
 
 ## [SB 5662](/bill/2023-24/sb/5662/) - Cannabis employees  👎1 

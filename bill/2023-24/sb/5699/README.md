@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151211&caId=21460&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151211&caId=21460&tId=4)
 
-#### 1 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Samantha Bruegger - [Washington Wildlife First](/org/washington_wildlife_first/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

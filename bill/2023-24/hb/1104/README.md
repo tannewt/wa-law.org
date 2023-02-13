@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30729&aId=151434&caId=21447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30729&aId=151434&caId=21447&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Elizabeth Gould
 * Julie Mitchell
@@ -23,9 +23,10 @@ Testifying:
 Testifying:
 * Josie Tracy
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
+* Amy Freedheim - King County Prosecutors Office
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1104 Deferred prosecutions
 #### 0 👍 - Pro

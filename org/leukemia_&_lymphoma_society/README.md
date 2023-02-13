@@ -5,6 +5,9 @@
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
 
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
+* 👍💵 Adam Zarrin
+
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 * 👍💵 Adam Zarrin
 

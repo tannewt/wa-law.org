@@ -120,12 +120,16 @@
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
+## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
+
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
 ## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍1  
 * 👍💵 Nasue Nishida
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+
+## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities   ❓1
 * ❓ Jared Mason-Gere
@@ -158,7 +162,7 @@
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍1  
 
@@ -179,6 +183,8 @@
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI 👍1  
 
 ## [HB 1459](/bill/2023-24/hb/1459/) - PERS & TRS plan 1 adjustment 👍1  
+
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
@@ -236,6 +242,8 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
+## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
+
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
@@ -254,6 +262,8 @@
 ## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities. 👍1  
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
+
+## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
@@ -448,8 +458,12 @@
 
 ## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  
 
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 
 ## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  
+
+## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  

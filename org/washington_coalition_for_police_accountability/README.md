@@ -34,4 +34,5 @@
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 * 👍 Leslie Cushman
 
-## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍2  
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍3  
+* 👍 Tonya Isabell

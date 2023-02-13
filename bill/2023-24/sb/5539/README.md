@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151807&caId=21521&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151807&caId=21521&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Amber Carter - Port of Vancouver USA
 

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=4)
 
-#### 21 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* 💵Chester Baldwin - Rental Housing Coalition
 
-#### 12 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other

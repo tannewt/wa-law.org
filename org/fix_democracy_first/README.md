@@ -10,6 +10,8 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
+
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
@@ -28,7 +30,7 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
-## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍1  
+## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍2  
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
@@ -49,7 +51,7 @@
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍3  
 
 ## [HB 1440](/bill/2023-24/hb/1440/) - Juvenile court jurisdiction 👍1  
 
@@ -61,6 +63,8 @@
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel  👎1 
 
@@ -80,11 +84,15 @@
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
+## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
-## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍1  
+## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
+
+## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 
@@ -125,6 +133,8 @@
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
 ## [SB 5409](/bill/2023-24/sb/5409/) - Voter identifier numbers  👎1 
@@ -135,11 +145,17 @@
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
+## [SB 5451](/bill/2023-24/sb/5451/) - Long sentences review 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
+
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍2  
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
 

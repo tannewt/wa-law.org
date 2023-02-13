@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151284&caId=21481&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151284&caId=21481&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Andrew Boring - Amalgamated Transit Union
+* Grantley Martelly - [Pierce Transit](/org/pierce_transit/)
+* Jason Whalen - Pierce Transit Board of Commissioners, Mayor of Lakewood
 
-#### 7 👎 - Con
+#### 11 👎 - Con
 
 #### 0 ❓ - Other

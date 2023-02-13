@@ -45,6 +45,8 @@
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
@@ -61,10 +63,20 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
+
+## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
