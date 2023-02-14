@@ -322,7 +322,7 @@
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Reducing administrative complexity by increasing transparency of revenue flows for activities funded by document recording fees.   ❓1
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees   ❓1
 * ❓ Kelly Rider
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
@@ -365,8 +365,13 @@
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍2  
 
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+* 👍 Joe McDermott
+
 ## [SB 5619](/bill/2023-24/sb/5619/) - Cybersecurity governance 👍1  
 
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
+
+## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  

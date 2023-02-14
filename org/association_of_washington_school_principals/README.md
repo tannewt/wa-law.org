@@ -51,4 +51,8 @@
 ## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎1 
 * 👎💵 Roz Thompson
 
+## [SB 5671](/bill/2023-24/sb/5671/) - K-12 experience factors 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+
+## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  

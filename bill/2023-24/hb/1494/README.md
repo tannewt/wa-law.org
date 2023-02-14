@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151493&caId=21433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151493&caId=21433&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Bill Bailey - Moses Lake Irrigation & Rehabilitation District
+* Kaj Selmann - Moses Lake Irrigation and Rehabilitation District
 
 #### 0 👎 - Con
 

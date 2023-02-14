@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151967&caId=21570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151967&caId=21570&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Nalaina Malle
 * Kerrie Blackburn - Contracted Social Worker
+* Margaret Hobart
 
 #### 0 👎 - Con
 

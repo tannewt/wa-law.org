@@ -214,6 +214,8 @@
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
 
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
 
@@ -254,7 +256,7 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
+## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 * 👍💵 Candice Bock
 
 ## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
@@ -268,12 +270,15 @@
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 * 👎💵 Carl Schroeder
 
-## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5657](/bill/2023-24/sb/5657/) - Kit home permitting 👍1  
 
 ## [SB 5672](/bill/2023-24/sb/5672/) - Auto theft authority account 👍1  
+
+## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  
 
 ## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
 

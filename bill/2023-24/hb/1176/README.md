@@ -9,23 +9,23 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1176 Climate-ready communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151466&caId=21384&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151466&caId=21384&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151466&caId=21384&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151466&caId=21384&tId=4)
-
-#### 164 👍 - Pro
+#### 323 👍 - Pro
 Testifying:
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Aaron Everett
 * 💵Hannah Jones - Firelands Workers Action/Acción de Trabajadores
+* Arvia Morris
+* Carrie Sessions - Governor's Office
+* Amber Martin-Jahn - Serve Washington
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 
-#### 78 👎 - Con
+#### 299 👎 - Con
 Testifying:
 * Paula Taylor - Conservative Ladies of WA
 * Scott Taylor - Conservative Ladies of WA
+* Sandra Schnell
+* Laura Minkoff - Edmonds Family Chiropractic
 
 #### 2 ❓ - Other
 Testifying:

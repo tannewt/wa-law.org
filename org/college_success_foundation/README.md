@@ -36,6 +36,9 @@
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
+## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
+* 👍💵 Juliet Schindler
+
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 * 👍💵 Juliet Schindler
 

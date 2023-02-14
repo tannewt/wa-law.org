@@ -51,7 +51,7 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 * 👍 Linda Garcia
@@ -67,6 +67,8 @@
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -90,7 +92,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Reducing administrative complexity by increasing transparency of revenue flows for activities funded by document recording fees. 👍1  
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍1  
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 

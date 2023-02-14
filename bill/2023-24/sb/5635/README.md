@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Mon 02/13 10:30 AM - Law & Justice (LAW): SB 5635 Victims' rights
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151285&caId=21482&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151285&caId=21482&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151285&caId=21482&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30720&aId=151285&caId=21482&tId=4)
-
-#### 22 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Ann Davison - Seattle City Attorney’s Office
 * Mary Ellen Stone - KCSARC
 * CLAYTON A. PETERSON - Retired
+* Clayton Peterson - Retired
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Rick Torrance - Department of Commerce (Office of Crime Victims Advocacy)
+* Jonathan Nomamiukor - Columbia legal services

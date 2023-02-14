@@ -8,13 +8,14 @@
 
 ## Meetings
 ### Mon 02/13 10:30 AM - Human Services (HS): SB 5719 Student homelessness group
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151705&caId=21477&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151705&caId=21477&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151705&caId=21477&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151705&caId=21477&tId=4)
-
-#### 63 👍 - Pro
+#### 103 👍 - Pro
+Testifying:
+* 💵Annie Blackledge - Office of Superintendent of Public Instruction
+* 💵Annie Blackledge - OSPI
+* 💵Annie Blackledge - OSPI
+* 💵Dawn Rains - [Treehouse](/org/treehouse/)
+* 💵Megan Veith - [Building Changes](/org/building_changes/)
+* 💵Sarah Brady - Childcare Resources
 
 #### 1 👎 - Con
 

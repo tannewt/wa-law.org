@@ -9,18 +9,12 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SSB 5376 Cannabis waste
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151293&caId=21516&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151293&caId=21516&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151293&caId=21516&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151293&caId=21516&tId=4)
-
-#### 13 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 5 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other
 

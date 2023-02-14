@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151318&caId=21495&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151318&caId=21495&tId=4)
 
-#### 55 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Safia Abdulle - Family childcare
 * Brittany Hartikainen
@@ -25,11 +25,13 @@ Testifying:
 * Torrie Amaratunge
 * Hamdi Mohamed - Port of Seattle Commissioner
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Steve Horvath - Condo Connection
 
-#### 8 ❓ - Other
+#### 15 ❓ - Other
+Testifying:
+* vian Salih
 
 ### Mon 01/16 01:30 PM - Housing (HOUS): HB 1199 Child care/communities
 #### 49 👍 - Pro

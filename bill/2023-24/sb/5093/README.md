@@ -9,15 +9,11 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SSB 5093 Climate response strategy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151295&caId=21518&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151295&caId=21518&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151295&caId=21518&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151295&caId=21518&tId=4)
+#### 277 👍 - Pro
+Testifying:
+* Jennifer Hennessey - Washington State Department of Ecology
 
-#### 117 👍 - Pro
-
-#### 7 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * john Worthington
 

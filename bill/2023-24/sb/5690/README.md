@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 02/13 10:30 AM - Human Services (HS): SB 5690 Conditional release teams
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151382&caId=21475&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151382&caId=21475&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151382&caId=21475&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30735&aId=151382&caId=21475&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Kevin Bovenkamp - Washington State Department of Social and Health Services
 * Mac Pevey - Washington State Department of Corrections
 
-#### 16 👎 - Con
+#### 30 👎 - Con
 
 #### 0 ❓ - Other

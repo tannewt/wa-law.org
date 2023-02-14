@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Shaun Scott
+* Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 
 #### 0 👎 - Con
 

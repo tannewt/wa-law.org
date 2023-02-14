@@ -1,0 +1,171 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1570](/bill/2023-24/hb/1570/) > [Substitute Bill](/bill/2023-24/hb/1570/S/)
+
+# HB 1570 - TNC insurance programs
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1570-S.pdf)
+
+## Section 1
+1. Notwithstanding RCW 50.04.140, services performed by a driver that are facilitated through a digital network are subject to this title. Except as otherwise provided in rules adopted by the department, the laws and rules that apply under this title to a relationship meeting the requirements of RCW 50.04.100 also apply to the relationship between a driver and a transportation network company.
+
+2. This section must not be interpreted as:
+
+    a. Amending the definitions and exceptions in RCW 50.04.100 or 50.04.140; or
+
+    b. Limiting the scope of coverage under this title as to any other employment relationship.
+
+3. For purposes of this section, the definitions in this subsection apply unless the context clearly requires otherwise.
+
+    a. "Digital network" has the meaning provided in RCW 49.46.300.
+
+    b. "Driver" has the meaning provided in RCW 49.46.300.
+
+    c. "Transportation network company" has the meaning provided in RCW 49.46.300.
+
+## Section 2
+1. [Empty]
+
+    a. An experience rating account shall be established and maintained for each employer, except employers as described in RCW 50.44.010, 50.44.030, and 50.50.030 who have properly elected to make payments in lieu of contributions, taxable local government employers as described in RCW 50.44.035, and those employers who are required to make payments in lieu of contributions, based on existing records of the employment security department.
+
+    b. Benefits paid to an eligible individual shall be charged to the experience rating accounts of each of such individual's employers during the individual's base year in the same ratio that the wages paid by each employer to the individual during the base year bear to the wages paid by all employers to that individual during that base year, except as otherwise provided in this section.
+
+    c. When the eligible individual's separating employer is a covered contribution paying base year employer, benefits paid to the eligible individual shall be charged to the experience rating account of only the individual's separating employer if :
+
+        i. The individual qualifies for benefits under
+
+RCW 50.20.050 (1)(b)(i) or (2)(b)(i), as applicable, and became unemployed after having worked and earned wages in the bona fide work;
+
+        ii. The individual qualifies for benefits under RCW 50.20.050 (1)(b) (v) through (x) or (2)(b) (v) through (x); or
+
+        iii. During a public health emergency, the claimant worked at a health care facility as defined in RCW 9A.50.010, was directly involved in the delivery of health services, and was terminated from work due to entering quarantine because of exposure to or contracting the disease that is the subject of the declaration of the public health emergency.
+
+2. The legislature finds that certain benefit payments, in whole or in part, should not be charged to the experience rating accounts of employers except those employers described in RCW 50.44.010, 50.44.030, and 50.50.030 who have properly elected to make payments in lieu of contributions, taxable local government employers described in RCW 50.44.035, and those employers who are required to make payments in lieu of contributions, as follows:
+
+    a. Benefits paid to any individual later determined to be ineligible shall not be charged to the experience rating account of any contribution paying employer, except as provided in subsection (4) of this section.
+
+    b. Benefits paid to an individual filing under the provisions of chapter 50.06 RCW shall not be charged to the experience rating account of any contribution paying employer only if:
+
+        i. The individual files under RCW 50.06.020(1) after receiving crime victims' compensation for a disability resulting from a nonwork-related occurrence; or
+
+        ii. The individual files under RCW 50.06.020(2).
+
+    c. Benefits paid which represent the state's share of benefits payable as extended benefits defined under RCW 50.22.010(6) shall not be charged to the experience rating account of any contribution paying employer.
+
+    d. In the case of individuals who requalify for benefits under RCW 50.20.050 or 50.20.060, benefits based on wage credits earned prior to the disqualifying separation shall not be charged to the experience rating account of the contribution paying employer from whom that separation took place.
+
+    e. Benefits paid to an individual who qualifies for benefits under RCW 50.20.050(1)(b) (iv) or (xi), (2)(b) (iv), (xi), or (xii), or (3), as applicable, shall not be charged to the experience rating account of any contribution paying employer.
+
+    f. Benefits paid that exceed the benefits that would have been paid if the weekly benefit amount for the claim had been determined as one percent of the total wages paid in the individual's base year shall not be charged to the experience rating account of any contribution paying employer. This subsection (2)(f) does not apply to the calculation of contribution rates under RCW 50.29.025 for rate year 2010 and thereafter.
+
+    g. Upon approval of an individual's training benefits plan submitted in accordance with RCW 50.22.155(2), an individual is considered enrolled in training, and regular benefits beginning with the week of approval shall not be charged to the experience rating account of any contribution paying employer.
+
+    h. Training benefits paid to an individual under RCW 50.22.155 shall not be charged to the experience rating account of any contribution paying employer.
+
+    i. [Empty]
+
+        i. Benefits paid during the one week waiting period when the one week waiting period is fully paid or fully reimbursed by the federal government shall not be charged to the experience rating account of any contribution paying employer.
+
+        ii. In the event the one week waiting period is partially paid or partially reimbursed by the federal government, the department may, by rule, elect to not charge, in full or in part, benefits paid during the one week waiting period to the experience rating account of any contribution paying employer.
+
+    j. Benefits paid for all weeks starting with the week ending March 28, 2020, and ending with the week ending May 30, 2020, shall not be charged to the experience rating account of any contribution paying employer.
+
+3. [Empty]
+
+    a. A contribution paying base year employer, except employers as provided in subsection (5) of this section, not otherwise eligible for relief of charges for benefits under this section, may receive such relief if the benefit charges result from payment to an individual who:
+
+        i. Last left the employ of such employer voluntarily for reasons not attributable to the employer;
+
+        ii. Was discharged for misconduct or gross misconduct connected with his or her work not a result of inability to meet the minimum job requirements;
+
+        iii. Is unemployed as a result of closure or severe curtailment of operation at the employer's plant, building, worksite, or other facility. This closure must be for reasons directly attributable to a catastrophic occurrence such as fire, flood, or other natural disaster, or to the presence of any dangerous, contagious, or infectious disease that is the subject of a public health emergency at the employer's plant, building, worksite, or other facility;
+
+        iv. Continues to be employed by the employer seeking relief and: (A) The employer furnished part-time work to the individual during the base year; (B) the individual has become eligible for benefits because of loss of employment with one or more other employers; and (C) the employer has continued to furnish or make available part-time work to the individual in substantially the same amount as during the individual's base year. This subsection does not apply to shared work employers under chapter 50.60 RCW;
+
+    v.
+
+Was hired to replace an employee who is a member of the military reserves or National Guard and was called to federal active military service by the president of the United States and is subsequently laid off when that employee is reemployed by their employer upon release from active duty within the time provided for reemployment in RCW 73.16.035;
+
+    vi. Worked for an employer for 20 weeks or less, and was laid off at the end of temporary employment when that employee temporarily replaced a permanent employee receiving family or medical leave benefits under Title 50A RCW, and the layoff is due to the return of that permanent employee. This subsection (3)(a)(vi) applies to claims with an effective date on or after January 1, 2020; or
+
+    vii. Was discharged because the individual was unable to satisfy a job prerequisite required by law or administrative rule.
+
+    b. The employer requesting relief of charges under this subsection must request relief in writing within thirty days following mailing to the last known address of the notification of the valid initial determination of such claim, stating the date and reason for the separation or the circumstances of continued employment. The commissioner, upon investigation of the request, shall determine whether relief should be granted.
+
+4. When a benefit claim becomes invalid due to an amendment or adjustment of a report where the employer failed to report or inaccurately reported hours worked or remuneration paid, or both, all benefits paid will be charged to the experience rating account of the contribution paying employer or employers that originally filed the incomplete or inaccurate report or reports. An employer who reimburses the trust fund for benefits paid to workers and who fails to report or inaccurately reported hours worked or remuneration paid, or both, shall reimburse the trust fund for all benefits paid that are based on the originally filed incomplete or inaccurate report or reports.
+
+5. An employer's experience rating account may not be relieved of charges for a benefit payment and an employer who reimburses the trust fund for benefit payments may not be credited for a benefit payment if a benefit payment was made because the employer or employer's agent failed to respond timely or adequately to a written request of the department for information relating to the claim or claims without establishing good cause for the failure and the employer or employer's agent has a pattern of such failures. The commissioner has the authority to determine whether the employer has good cause under this subsection.
+
+    a. For the purposes of this subsection, "adequately" means providing accurate information of sufficient quantity and quality that would allow a reasonable person to determine eligibility for benefits.
+
+    b. [Empty]
+
+        i. For the purposes of this subsection, "pattern" means a benefit payment was made because the employer or employer's agent failed to respond timely or adequately to a written request of the department for information relating to a claim or claims without establishing good cause for the failure, if the greater of the following calculations for an employer is met:
+
+(A) At least three times in the previous two years; or
+
+(B) Twenty percent of the total current claims against the employer.
+
+        ii. If an employer's agent is utilized, a pattern is established based on each individual client employer that the employer's agent represents.
+
+## Section 3
+1. Beginning July 1, 2024, the employment security department shall develop and administer a pilot program under Title 50A RCW focusing on transportation network companies and drivers.
+
+2. The pilot program must require that:
+
+    a. Drivers may continue to have the option of electing coverage under Title 50A RCW as self-employed individuals;
+
+    b. By the 15th day of the month following the end of the calendar quarter, transportation network companies report to each driver in Washington the total amount of compensation, as defined in RCW 49.46.300, that the driver earned providing network services through the transportation network company's digital network in that quarter;
+
+    c. By the 15th day of the month following the drivers' reporting deadline for the calendar quarter, the employment security department share data with each transportation network company on the drivers who, in that calendar quarter: (i) Reported and paid assessed premiums; and (ii) withdrew or canceled paid family and medical leave coverage; and
+
+    d. By the 15th day following the receipt of information from the employment security department under (c) of this subsection, transportation network companies pay each driver who elected coverage under (a) of this subsection an amount equal to the premium rate assessed, multiplied by the amount of compensation, as defined in RCW 49.46.300, that the driver earned providing network services through the transportation network company's digital network in that quarter. For purposes of this section, compensation shall not include any amount listed in RCW 50A.05.010(22)(d). The requirement to pay premiums under the pilot program ends December 31, 2028.
+
+3. For the purposes of the pilot program, this section does not require a driver to opt into family and medical leave coverage for any other self-employment or independent contract work not associated with a transportation network company.
+
+4. Drivers in the pilot program are not subject to the requirements in RCW 50A.10.010(1).
+
+5. Drivers electing coverage must elect both family and medical leave and are responsible for 100 percent of all premiums assessed to an employee under RCW 50A.10.030.
+
+6. The driver must file a notice of election in writing with the employment security department, in a manner as required by the department in rule.
+
+7. The driver is eligible for family and medical leave after working 820 hours in the state during the qualifying period following the date of filing the notice.
+
+8. [Empty]
+
+    a. The employment security department must evaluate the pilot program for its impacts on removing barriers to accessing paid family and medical leave, as well as impacts on the paid family and medical leave insurance account.
+
+    b. By September 1, 2027, the employment security department must submit a report to the appropriate committees of the legislature summarizing the employment security department's evaluation of the pilot program and making any recommendations, if appropriate.
+
+9. The employment security department may adopt rules necessary to implement the pilot program in this section.
+
+10. This section expires December 31, 2028.
+
+## Section 4
+1. An individual shall have access to all records and information concerning that individual held by the department unless the information is exempt from disclosure under RCW 42.56.410.
+
+2. An employer shall have access to:
+
+    a. Its own records relating to any claim or determination for family or medical leave benefits by an individual;
+
+    b. Records and information relating to a decision to allow or deny benefits if the decision is based on material information provided by the employer; and
+
+    c. Records and information related to that employer's premium assessment.
+
+3. The department may disclose records and information deemed confidential under this chapter to a third party acting on behalf of an individual or employer that would otherwise be eligible to receive records under subsection (1) or (2) of this section when the department receives a signed release from the individual or employer. The release must include a statement:
+
+    a. Specifically identifying the information that is to be disclosed;
+
+    b. That state government files will be accessed to obtain that information;
+
+    c. Of the specific purpose or purposes for which the information is sought and a statement that information obtained under the release will only be used for that purpose or purposes; and
+
+    d. Indicating all the parties who may receive the information disclosed.
+
+4. Until February 15, 2029, to verify coverage and make payments to drivers for premiums paid, the department may disclose the following information to a transportation network company, as defined in RCW 49.46.300, about a driver, as defined in RCW 49.46.300:
+
+    a. When a driver has elected coverage;
+
+    b. A driver's assessed and paid premiums;
+
+    c. When a driver's elective coverage has been withdrawn or canceled; and
+
+    d. Information related to a third party acting on a driver's behalf with regard to reporting and paying of premiums.

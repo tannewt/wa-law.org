@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1333 Domestic violent extremism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151468&caId=21386&tId=4)
-
-#### 75 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Everett Blindheim
 * Kristiana de Leon - Association of Secular Elected Officials
+* Roger Kluck - Projects for a Civil Society
 
-#### 1306 👎 - Con
+#### 2951 👎 - Con
 Testifying:
 * Eric Pratt
 * Laurie Layne
@@ -45,11 +40,32 @@ Testifying:
 * Rebecca Faust
 * Robert Runnells - Informed Choice Washington
 * Colleen Saylors
+* Hollie Jennings
+* Anastasia Osorio
+* Laura Minkoff - Edmonds Family Chiropractic
+* Sherry Reisner
+* Tamborine Borrelli
+* Lloyd Bender - None
+* Richard Grunewald
+* Marc Nance
+* Lisa Olson
+* Arne Christensen
+* Liv Finne - Washington Policy Center
+* Ashley Cherney
+* George Hawes
+* 💵Brad Payne - Family Policy Institute of Washington
+* Tim Jennings
+* Delmer Eldred
+* Alicia Travis
+* Alan Artru
+* Mark Berggren
+* Leslie Williams
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * C Davis - Washingtonians to Recall Inslee
 * Kory Slaatthaug
+* robert wardell - self adovates
 
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1333 Domestic violent extremism
 #### 121 👍 - Pro

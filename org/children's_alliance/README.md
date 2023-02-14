@@ -30,7 +30,7 @@
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 
@@ -44,6 +44,6 @@
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
-## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
+## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍2  
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  

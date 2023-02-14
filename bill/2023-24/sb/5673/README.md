@@ -8,15 +8,12 @@
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5673 Forest practices board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151207&caId=21457&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151207&caId=21457&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151207&caId=21457&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30630&aId=151207&caId=21457&tId=4)
+#### 25 👍 - Pro
+Testifying:
+* Elaine Oneil - WFFA
+* Ken Miller - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 
-#### 8 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 

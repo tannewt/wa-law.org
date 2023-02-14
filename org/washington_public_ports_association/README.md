@@ -53,10 +53,15 @@
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 * 👍 Chris Herman
 
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 
 ## [HB 1778](/bill/2023-24/hb/1778/) - Economic resilience planning 👍1  
 * 👍 Chris Herman
+
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+* 👎 Eric ffitch
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
@@ -82,7 +87,7 @@
 
 ## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
 
-## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
+## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍2  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍💵 John Stuhlmiller
@@ -115,6 +120,8 @@
 ## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+
+## [SB 5659](/bill/2023-24/sb/5659/) - Gas companies/renewable res. 👍1  
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
 * 👎 Eric ffitch

@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30789&aId=151638&caId=21425&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30789&aId=151638&caId=21425&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 12 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * Andrew Held
 * Thomas O'Keefe - American Whitewater
 * Brian Smith
 * Kyle Thomas - ACA
+* Steve Greaves - Recreational Boating Assoc. of Washington
+* Jim Good
+* Brent Roth - American Canoe Association
+* Jim Virgin - WA State Boating Program Advisory Council
 
 #### 1 ❓ - Other
 Testifying:

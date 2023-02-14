@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SB 5032 DUI lookback & sentencing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151289&caId=21512&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151289&caId=21512&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151289&caId=21512&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151289&caId=21512&tId=4)
+#### 12 👍 - Pro
+Testifying:
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Steve Strachan - WA Assn of Sheriffs and Police Chiefs
+* Shelly Baldwin - Washington Traffic Safety Commission
 
-#### 5 👍 - Pro
-
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 

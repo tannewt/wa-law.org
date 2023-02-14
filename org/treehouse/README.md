@@ -25,6 +25,9 @@
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
+## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
+* 👍💵 Dawn Rains
+
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
@@ -55,3 +58,6 @@
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
+
+## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
+* 👍💵 Dawn Rains

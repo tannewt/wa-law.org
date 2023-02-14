@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1433 Energy labeling/residential
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151469&caId=21387&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151469&caId=21387&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151469&caId=21387&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151469&caId=21387&tId=4)
+#### 317 👍 - Pro
+Testifying:
+* Court Olson - Optimum Building Consultants,LLC
+* David Godfrey - People for Climate Action
 
-#### 236 👍 - Pro
-
-#### 21 👎 - Con
+#### 50 👎 - Con
 
 #### 1 ❓ - Other
 

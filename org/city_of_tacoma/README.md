@@ -4,6 +4,8 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍2  
 
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 * ❓ John Hines
 
@@ -15,6 +17,8 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
+
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓2
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 * 👍 Mayor Victoria Woodards
@@ -34,6 +38,9 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
+* 👍 Keith Blocker Tacoma City Council
+
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
@@ -50,9 +57,11 @@
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
-## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍1  
+## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍1  
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
@@ -65,3 +74,8 @@
 * 👍 Mayor Victoria Woodards
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+
+## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
+* 👍 Mayor Victoria Woodards
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍2  

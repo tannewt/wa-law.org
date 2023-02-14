@@ -14,14 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151474&caId=21390&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151474&caId=21390&tId=4)
 
-#### 51 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Dr Paul A Stoot Sr. - 11229 4th Ave W.
 * Crystal Kurashige - Impact Commencement Bay
 * Jim Woodward - Summit Olympus
 * Luna Kurashige - Impact Commencement Bay
 
-#### 32 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Catherine Ahl - League of Women Voters of WA

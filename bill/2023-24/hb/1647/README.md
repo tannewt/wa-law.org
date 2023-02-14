@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Transportation (TR): HB 1647 Evergreen license plates

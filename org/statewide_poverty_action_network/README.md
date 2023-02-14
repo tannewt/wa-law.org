@@ -19,8 +19,9 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍3  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍4  
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
@@ -38,7 +39,7 @@
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 
-## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍3  
 * 👍💵 Shaun Scott
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
@@ -64,7 +65,7 @@
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 * 👍💵 Marcy Bowers
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 

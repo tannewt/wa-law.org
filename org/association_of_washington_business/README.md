@@ -148,6 +148,9 @@
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
 * ❓ Mike Ennis
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax  👎1 
+* 👎 Emily Shay
+
 ## [HB 1484](/bill/2023-24/hb/1484/) - Estate tax exclusion amount 👍1  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
@@ -215,6 +218,9 @@
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍 Emily Shay
 
+## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax  👎1 
+* 👎 Emily Shay
+
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial   ❓1
@@ -272,6 +278,9 @@
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍2  
 
+## [SB 5281](/bill/2023-24/sb/5281/) - Aircraft fuel excise tax  👎1 
+* 👎 Mike Ennis
+
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement  👎1 
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
@@ -290,6 +299,10 @@
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍1  
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
+
+## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
+
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways  👎1 
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 * 👍 Mike Ennis
@@ -311,13 +324,14 @@
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 * 👍 Kris Johnson
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎1 
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎2 
 
 ## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+* 👍 Mike Ennis
 * 👍 Mike Ennis
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
@@ -344,6 +358,8 @@
 
 ## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍1  
 
+## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
+
 ## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
 
 ## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍1  
@@ -360,3 +376,6 @@
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+
+## [SB 5721](/bill/2023-24/sb/5721/) - Advanced aerospace training 👍1  
+* 👍 Emily Shay

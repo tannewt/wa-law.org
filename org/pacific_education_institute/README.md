@@ -22,3 +22,5 @@
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Skill centers course equiv. 👍1  
+
+## [SB 5668](/bill/2023-24/sb/5668/) - Small districts/skill center 👍1  

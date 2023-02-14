@@ -8,25 +8,21 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TR): HB 1104 Deferred prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30729&aId=151434&caId=21447&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30729&aId=151434&caId=21447&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30729&aId=151434&caId=21447&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30729&aId=151434&caId=21447&tId=4)
-
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Elizabeth Gould
 * Julie Mitchell
+* Geoffrey Burg - WACDL/WDA
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Josie Tracy
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 * Amy Freedheim - King County Prosecutors Office
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1104 Deferred prosecutions
 #### 0 👍 - Pro

@@ -15,7 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151813&caId=21527&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151813&caId=21527&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* Shoshana Kehoe-Ehlers - Washington State Office of Public Defense
+* Sonja Hardenbrook
+* Jason Schwarz - WSBA Council on Public Defense / Snohomish County Office of Public Defense
+* Jennifer Bartlett - Snohomish County Public Defender Association
 
 #### 0 👎 - Con
 

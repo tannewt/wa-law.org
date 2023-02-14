@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5281 Aircraft fuel excise tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151713&caId=21505&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151713&caId=21505&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151713&caId=21505&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151713&caId=21505&tId=4)
+#### 19 👍 - Pro
+Testifying:
+* 💵Sandra Toussaint - SEIU6
 
-#### 8 👍 - Pro
-
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Scott Kennedy - Alaska Air Group
 * 💵Emily Wittman - Aerospace Futures Alliance
 * Dana Debel - [Delta Air Lines](/org/delta_air_lines/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

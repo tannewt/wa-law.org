@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1278 Nonrelative kin placement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151892&caId=21541&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151892&caId=21541&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151892&caId=21541&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151892&caId=21541&tId=4)
-
-#### 20 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Jarel Sanders - Partners for Our Children
 * 💵Shrounda Selivanoff - Kinship caregiver; Children's Home Society of WA
 * Tara Urs - King Co. Dept. of Public Defense
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

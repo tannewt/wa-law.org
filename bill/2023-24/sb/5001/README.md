@@ -10,19 +10,15 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Ways & Means (WM): 2SSB 5001 Public facility districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151806&caId=21520&tId=4)
-
-#### 10 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Paul Simmons - City of Olympia and Washington Recreation and Parks Association
 * Jerrilea Crawford - City of East Wenatchee
 * Frank Kuntz - Mayor, City of Wenatchee
+* Kevin Overbay - Chelan County Board of Commission
+* Jim Kuntz - Chelan Douglas Regional Port Authority
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

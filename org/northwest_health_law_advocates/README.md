@@ -15,6 +15,8 @@
 
 ## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 * 👍💵 Emily Brice
 
@@ -27,6 +29,8 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 

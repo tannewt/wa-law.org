@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151877&caId=21536&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151877&caId=21536&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * 💵Chester Baldwin - Rental Housing Coalition
+* Michelle Wilson
 
-#### 81 👎 - Con
+#### 99 👎 - Con
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

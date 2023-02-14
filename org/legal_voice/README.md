@@ -11,6 +11,8 @@
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 * 👍💵 Alizeh Bhojani
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  

@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1387 Law enf. applicant pool
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151647&caId=21397&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151647&caId=21397&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151647&caId=21397&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30792&aId=151647&caId=21397&tId=4)
-
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Monica Alexander - Washington State Criminal Justice Training Commission
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* 💵Paul Benz - Washington Partners for Social Change

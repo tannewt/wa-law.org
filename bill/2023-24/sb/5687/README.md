@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151523&caId=21474&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151523&caId=21474&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Amari Brown - The Evergreen State College
+* Sandy Kaiser - The Evergreen State College
 
 #### 0 👎 - Con
 

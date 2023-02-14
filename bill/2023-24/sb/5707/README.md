@@ -14,8 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151631&caId=21491&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151631&caId=21491&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
 
-#### 1 👎 - Con
+#### 179 👎 - Con
+Testifying:
+* 💵Melissa Johnson - District & Municipal Court Judges Association
+* Russ Millard - MHCW
+* KAREN FOURNIER - Karen Fournier
+* Ray Lilienthal
+* Ray Lilienthal
+* RON GREER
+* GORDON HAGGERTY
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jason Keefe - Oak Terrace Apts

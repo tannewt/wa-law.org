@@ -8,22 +8,18 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5452 Impact fee use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151717&caId=21509&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151717&caId=21509&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151717&caId=21509&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151717&caId=21509&tId=4)
-
-#### 24 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Angela Birney - City of Redmond Mayor
 * 💵Briahna Murray - City of Redmond, lobbyist
 * Vangie Garcia - Redmond Transportation Planning & Engineering Manager
 * Cynthia Stewart - League of Women Voters of WA
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 13 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 0 ❓ - Other
 

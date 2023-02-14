@@ -21,6 +21,9 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
+## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
+* 👍💵 Megan Veith
+
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
@@ -42,4 +45,7 @@
 * 👍💵 Megan Veith
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
+* 👍💵 Megan Veith
+
+## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 * 👍💵 Megan Veith

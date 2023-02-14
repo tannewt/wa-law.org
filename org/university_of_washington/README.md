@@ -9,6 +9,9 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
+## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
+* 👍 Emily Marre
+
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍2  
 * 👍 Anna Ratzliff
 * 👍 Hoa Appel
@@ -79,3 +82,5 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  

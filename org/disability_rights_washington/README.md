@@ -49,7 +49,8 @@
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
 
-## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍1  
+## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍2  
+* 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 

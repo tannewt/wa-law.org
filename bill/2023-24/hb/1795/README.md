@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151564&caId=21410&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151564&caId=21410&tId=4)
 
-#### 15 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 8 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Tim Eyman - Permanent Offense
 * Tim Eyman
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Laurie Layne
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Bea Nahon - Washington Society of CPAs

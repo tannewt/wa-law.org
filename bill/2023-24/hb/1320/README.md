@@ -14,15 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30783&aId=151592&caId=21427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30783&aId=151592&caId=21427&tId=4)
 
-#### 26 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Patrick McGah
 * Cher Scarlett
+* 💵Andrea Schmitt - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Elizabeth Hanley - Washington State Association for Justice
+* Jane Dale - Washington State Association for Justice
 
-#### 12 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* Bob Battles - Association of Washington Business (AWB)
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tammy Fellin - Labor & Industries
+* Remy Kerr - Washington State Hospital Association
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

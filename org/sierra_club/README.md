@@ -24,6 +24,9 @@
 
 ## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
+* 👍 Mariska Kecskes
+
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  

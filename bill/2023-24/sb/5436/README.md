@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151272&caId=21486&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151272&caId=21486&tId=4)
 
-#### 3 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Joseph Govednik - Washington Museum Association.  Cowlitz County Historical Society Director.
+* Bradley Richardson
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

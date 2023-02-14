@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151275&caId=21489&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151275&caId=21489&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Matthew Phillips - Car Pros
+* Nina Martinez - Latino Civic Alliance
+* Aaron Fickes - Attorney General's Office
+* Rory Paine-Donovan - Attorney General's Office
 
-#### 43 👎 - Con
+#### 59 👎 - Con
 Testifying:
 * Badie Darwazeh - Washington State Independent Auto Dealer Association
 * Dave Magarrell - Washington State Independent Auto Dealers Association
@@ -32,6 +35,7 @@ Testifying:
 * Scott Musser - Trucks & Auto Auctions
 * Micah Raphael - Raphael Luxury Motor Cars
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Alexander Cardenas - Testifying on behalf of Alex’s auto sales
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

@@ -15,15 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151929&caId=21558&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151929&caId=21558&tId=4)
 
-#### 882 👍 - Pro
+#### 1266 👍 - Pro
 Testifying:
 * Jennifer Gordon
 * Lisa Winchell
 * Kainui Rapaport
+* Annika Hoogestraat - N/a
 
-#### 13 👎 - Con
+#### 45 👎 - Con
+Testifying:
+* MD, John Bramhall - Washington State Medical Association
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 
 ### Tue 01/17 10:30 AM - Labor & Commerce (LC): SB 5236 Hospital staffing standards
 #### 2075 👍 - Pro

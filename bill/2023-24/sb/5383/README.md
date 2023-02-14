@@ -8,17 +8,25 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5383 Pedestrians/roadways
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151715&caId=21507&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151715&caId=21507&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151715&caId=21507&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151715&caId=21507&tId=4)
-
-#### 128 👍 - Pro
+#### 398 👍 - Pro
 Testifying:
 * Laurence Leveen
 * 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
+* Magda Baker - [Washington Defender Association](/org/washington_defender_association/)
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Ethan Campbell - Transportation Choices Research Partner
+* Aidan Carroll - Stop The Sweeps
+* Anwar Peace
+* DeAndre Anderson
+* Jaime Torres
+* Michael Leach - Move Redmond
 
-#### 5 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* David-Henry Sedelmeier - Driving School owner
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Brandy DeLange - Association of Washington
+* Mark McKechnie - Washington Traffic Safety Commission

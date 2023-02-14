@@ -15,20 +15,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=4)
 
-#### 420 👍 - Pro
+#### 672 👍 - Pro
 Testifying:
 * Penny Sweet - Mayor, City of Kirkland
 * Daniel Groce - Novelis
+* Marlene Feist - [City of Spokane](/org/city_of_spokane/)
+* Kate Bailey - The Association of Plastic Recyclers
+* 💵Ezra Eickmeyer - Terramer Inc
 
-#### 3 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Candace Joy - [Washington State Veterinary Medical Association](/org/washington_state_veterinary_medical_association/)
 * Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Erin Hall - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
+* john Worthington
 
 ### Tue 01/17 04:00 PM - Environment & Energy (ENVI): HB 1131 Solid waste management
 #### 1527 👍 - Pro

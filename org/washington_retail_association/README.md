@@ -16,7 +16,7 @@
 * 👍 ROSE GUNDERSEN
 * 👍 ROSE GUNDERSEN
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓1
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓💵 Mark Johnson
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities 👍1  
@@ -38,6 +38,9 @@
 
 ## [HB 1302](/bill/2023-24/hb/1302/) - Vehicle report of sale 👍1  
 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓1
+* ❓ ROSE GUNDERSEN
+
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
 * 👍💵 Mark Johnson
 
@@ -49,10 +52,15 @@
 ## [HB 1380](/bill/2023-24/hb/1380/) - Law enf. officer funding 👍1  
 * 👍💵 Mark Johnson
 
+## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
+* 👍💵 Mark Johnson
+
 ## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
 * 👍💵 Mark Johnson
 
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
+
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax  👎1 
 
 ## [HB 1484](/bill/2023-24/hb/1484/) - Estate tax exclusion amount 👍1  
 * 👍💵 Mark Johnson
@@ -68,8 +76,13 @@
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
 * 👍💵 Mark Johnson
 
+## [HB 1761](/bill/2023-24/hb/1761/) - Property tax exemption 👍1  
+* 👍💵 Mark Johnson
+
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 * 👎💵 Bruce Beckett
+
+## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax   ❓1
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
@@ -105,6 +118,9 @@
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5360](/bill/2023-24/sb/5360/) - Vehicle combinations 👍1  
+* 👍💵 Mark Johnson
+
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 * 👍💵 Mark Johnson
 
@@ -127,14 +143,21 @@
 
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
 
-## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply 👍1  
+* 👍💵 Mark Johnson
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 
 ## [SB 5597](/bill/2023-24/sb/5597/) - Boater safety and education  👎1 
 
 ## [SB 5607](/bill/2023-24/sb/5607/) - Fashion/env. policies   ❓1
+* ❓💵 Mark Johnson
+
+## [SB 5610](/bill/2023-24/sb/5610/) - Used vehicle warranties   ❓1
 * ❓💵 Mark Johnson

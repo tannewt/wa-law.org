@@ -63,7 +63,7 @@
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎1 
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎2 
 
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍💵 Bill Stauffacher
@@ -129,7 +129,7 @@
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Reducing administrative complexity by increasing transparency of revenue flows for activities funded by document recording fees.  👎1 
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees  👎1 
 * 👎💵 Josie Cummings
 
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  

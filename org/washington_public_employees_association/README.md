@@ -24,7 +24,13 @@
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
+## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
+
+## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
+
 ## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials 👍1  
+
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
@@ -66,3 +72,5 @@
 ## [SB 5454](/bill/2023-24/sb/5454/) - RN PTSD/industrial insurance 👍1  
 
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  

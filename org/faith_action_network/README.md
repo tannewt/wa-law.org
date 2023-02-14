@@ -10,7 +10,7 @@
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍4  
 * 👍💵 Kristin Ang
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍4  
 
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
@@ -20,7 +20,7 @@
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍3  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
@@ -29,11 +29,11 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
-## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍5  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
 
-## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍5  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
@@ -46,7 +46,9 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍3  
 * 👍💵 Kristin Ang
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
+## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍3  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 * 👍💵 Kristin Ang
@@ -59,8 +61,9 @@
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍3  
 * 👍💵 Kristin Ang
 
-## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍3  
 * 👍💵 Kristin Ang
+* 👍 Krisitn Ang
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 

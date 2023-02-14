@@ -9,23 +9,19 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1272 Voters' pamphlets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151467&caId=21385&tId=4)
-
-#### 13 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Mike Hoover - Washington State School Directors’ Association
 * Jim Stoffer - Public School Advocate
+* Sara Betnel - Shoreline Public Schools, Board of Directors
+* Lori Larsen - Washington State Association of County Auditors (WSACA)
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Permanent Offense
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/20 08:00 AM - State Government & Tribal Relations (SGOV): HB 1272 Voters' pamphlets
 #### 23 👍 - Pro

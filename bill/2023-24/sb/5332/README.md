@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 20 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Karina O'Malley
+* Sara Robbins - Seattle / King County Coalition on Homelessness
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
 #### 0 ❓ - Other

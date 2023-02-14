@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151479&caId=21466&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151479&caId=21466&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Steve Taylor - Cowlitz Public Utility District No. 1
+* 💵Kathleen Collins - PacifiCorp
+* 💵John Rothlin - Avista
+* 💵Andy Barth - [Inland Power & Light](/org/inland_power_&_light/)
+* 💵Isaac Kastama - Benton PUD & Franklin PUD
 
-#### 6 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Glenn Blackmon - Department of Commerce
+* Lauren McCloy - NW Energy Coalition
 
 #### 0 ❓ - Other

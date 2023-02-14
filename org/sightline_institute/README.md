@@ -62,7 +62,8 @@
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
 * 👍 Catie Gould
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  

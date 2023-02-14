@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Environment & Energy (ENVI): HB 1779 Toxic air pollution
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30766&aId=151747&caId=21402&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30766&aId=151747&caId=21402&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30766&aId=151747&caId=21402&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30766&aId=151747&caId=21402&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Annet van Tilburg
 * Daniel Davidai

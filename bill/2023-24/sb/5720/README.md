@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30798&aId=151685&caId=21462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30798&aId=151685&caId=21462&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
+* 💵Mark Sektnan - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 #### 0 👎 - Con
 

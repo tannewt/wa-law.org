@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151921&caId=21569&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151921&caId=21569&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Chris McCarty
+* Cam Barrett
 
 #### 1 👎 - Con
 

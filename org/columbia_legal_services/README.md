@@ -73,6 +73,8 @@
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
+## [HB 1668](/bill/2023-24/hb/1668/) - Vehicular homicide/survivors  👎1 
+
 ## [HB 1688](/bill/2023-24/hb/1688/) - Tow truck payments/indigent  👎1 
 * 👎💵 Sarah Nagy
 
@@ -103,6 +105,8 @@
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
+
+## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

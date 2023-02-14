@@ -6,7 +6,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
@@ -36,6 +37,9 @@
 * 👍💵 Julia Gorton
 
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
+
+## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen  👎1 
+* 👎💵 Samantha Louderback
 
 ## [HB 1730](/bill/2023-24/hb/1730/) - Youth employment/21+ estab. 👍1  
 * 👍💵 Riley Smith
@@ -83,3 +87,6 @@
 * 👍💵 Samantha Louderback
 
 ## [SB 5541](/bill/2023-24/sb/5541/) - Supply chain transparency   ❓1
+
+## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
+* 👍💵 Julia Gorton

@@ -1,0 +1,63 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1217](/bill/2023-24/hb/1217/) > [Substitute Bill](/bill/2023-24/hb/1217/S/)
+
+# HB 1217 - Wage complaints
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1217-S.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. If an employee files a wage complaint with the department, the department shall investigate the wage complaint. For all complaints filed on or after October 1, 2024, the department may demand all amounts owed, including interest of one percent per month. The department may not waive or reduce any interest on any amounts owed unless an employee expressly requests a waiver or reduction of interest.
+
+    b. Unless otherwise resolved, the department shall issue either a citation and notice of assessment or a determination of compliance no later than 60 days after the date on which the department received the wage complaint. The department may extend the time period by providing advance written notice to the employee and the employer setting forth good cause for an extension of the time period and specifying the duration of the extension. The department may not investigate any alleged violation of a wage payment requirement that occurred more than three years before the date that the employee filed the wage complaint. The department shall send the citation and notice of assessment or the determination of compliance to both the employer and the employee by service of process or using a method by which the mailing can be tracked or the delivery can be confirmed to their last known addresses.
+
+2. If the department determines that an employer has violated a wage payment requirement and issues to the employer a citation and notice of assessment, the department may order the employer to pay employees all wages owed, including interest of one percent per month on all wages owed, to the employee. The wages and interest owed must be calculated from the first date wages were owed to the employee, except that the department may not order the employer to pay any wages and interest that were owed more than three years before the date the wage complaint was filed with the department.
+
+3. If the department determines that the violation of the wage payment requirement was a willful violation, the department also may order the employer to pay the department a civil penalty as specified in (a) of this subsection.
+
+    a. A civil penalty for a willful violation of a wage payment requirement shall be not less than one thousand dollars or an amount equal to ten percent of the total amount of unpaid wages, whichever is greater. The maximum civil penalty for a willful violation of a wage payment requirement shall be twenty thousand dollars.
+
+    b. The department may not assess a civil penalty if the employer reasonably relied on: (i) A rule related to any wage payment requirement; (ii) a written order, ruling, approval, opinion, advice, determination, or interpretation of the director; or (iii) an interpretive or administrative policy issued by the department and filed with the office of the code reviser. In accordance with the department's retention schedule obligations under chapter 40.14 RCW, the department shall maintain a complete and accurate record of all written orders, rulings, approvals, opinions, advice, determinations, and interpretations for purposes of determining whether an employer is immune from civil penalties under (b)(ii) of this subsection.
+
+    c. The department shall waive any civil penalty assessed against an employer under this section if the employer is not a repeat willful violator, and the director determines that the employer has provided payment to the employee of all wages that the department determined that the employer owed to the employee, including interest, within ten business days of the employer's receipt of the citation and notice of assessment from the department.
+
+    d. The department may waive or reduce at any time a civil penalty assessed under this section if the director determines that the employer paid all wages and interest owed to an employee.
+
+    e. The department shall deposit civil penalties paid under this section in the supplemental pension fund established under RCW 51.44.033.
+
+4. Upon payment by an employer, and acceptance by an employee, of all wages and interest assessed by the department in a citation and notice of assessment issued to the employer, the fact of such payment by the employer, and of such acceptance by the employee, shall: (a) Constitute a full and complete satisfaction by the employer of all specific wage payment requirements addressed in the citation and notice of assessment; and (b) bar the employee from initiating or pursuing any court action or other judicial or administrative proceeding based on the specific wage payment requirements addressed in the citation and notice of assessment. The citation and notice of assessment shall include a notification and summary of the specific requirements of this subsection.
+
+5. The applicable statute of limitations for civil actions is tolled during the department's investigation of an employee's wage complaint against an employer. For the purposes of this subsection, the department's investigation begins on the date the employee files the wage complaint with the department and ends when: (a) The wage complaint is finally determined through a final and binding citation and notice of assessment or determination of compliance; or (b) the department notifies the employer and the employee in writing that the wage complaint has been otherwise resolved or that the employee has elected to terminate the department's administrative action under RCW 49.48.085.
+
+## Section 2
+1. The department of labor and industries shall convene a work group to develop and recommend strategies for eliminating wage theft and for helping workers who are victims of wage theft recover and be made whole as quickly and as fully as possible.
+
+2. The work group shall identify options to enhance the department of labor and industries' ability to provide swift relief to workers. Options the work group must explore include, but are not limited to:
+
+    a. The creation of a wage recovery fund or other similar mechanism, the purpose of which is to enable the department of labor and industries to provide relief to victims of wage theft as quickly as possible, including before the employer has paid the worker or the department of labor and industries under an administrative order; and
+
+    b. Procedures and mechanisms used in other states that ensure full and timely recovery for workers and that deter future violations.
+
+3. [Empty]
+
+    a. Recommendations from the work group must be made by consensus.
+
+    b. For each recommendation, the work group must identify and address implementation issues and assess feasibility.
+
+4. The work group must include at least one representative from each of the following:
+
+    a. The department of labor and industries;
+
+    b. A worker advocacy organization;
+
+    c. A civil legal services organization;
+
+    d. A statewide business advocacy organization that represents both large and small employers;
+
+    e. A statewide small business advocacy organization; and
+
+    f. An academic institution with legal scholars who specialize in employment law.
+
+5. The work group shall submit a report with its recommendations to the appropriate committees of the legislature by September 1, 2024.
+
+6. This section expires September 1, 2025.

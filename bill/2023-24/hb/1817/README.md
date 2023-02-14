@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=4)
 
-#### 62 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * 💵Chester Baldwin - Rental Housing Coalition
+* Tara Nelson - Tara Nelson
+* Angela Rozmyn - Natural and Built Environments
+* Cory Brewer
+* Stephannie Lowrance
+* Ron Greer - Ron Greer and Company
+* GORDON HAGGERTY
 
-#### 14 👎 - Con
+#### 72 👎 - Con
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
 #### 0 ❓ - Other

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5466 Transit-oriented development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151714&caId=21506&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151714&caId=21506&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151714&caId=21506&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151714&caId=21506&tId=4)
-
-#### 247 👍 - Pro
+#### 569 👍 - Pro
 Testifying:
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
 * Jesse Simpson - Housing Development Consortium
@@ -23,10 +17,21 @@ Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * 💵Greg Hanon - NAIOP
+* April Sims - Washington State Labor Council, AFL-CIO
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Breck Lebegue
+* Noha Mahgoub - Office of Financial Management
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Wes Stewart - Sierra Club Washington
+* Dani Madrone - American Farmland Trust
+* Alice Shobe - AMAZON
+* 💵Nathan Gorton - WA REALTORS
+* 💵Bryce Yadon - Transportation Choices Coalition and Futurewise
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Clifford Cawthon - Habitat for Humanity of Seattle-King & Kittitas Counties
 * 💵Michele Thomas - Washington Low Income Housing Alliance

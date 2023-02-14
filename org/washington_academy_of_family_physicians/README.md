@@ -8,6 +8,10 @@
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
 
+## [HB 1713](/bill/2023-24/hb/1713/) - Health care/rural areas 👍1  
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
@@ -17,3 +21,5 @@
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement  👎1 
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  

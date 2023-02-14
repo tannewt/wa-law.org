@@ -14,8 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151490&caId=21430&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151490&caId=21430&tId=4)
 
-#### 1 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* Erin Williamson - [Ventures](/org/ventures/)
+* Natalie Eltahir - Popcorn Vegan
+* Shirah Clark - Dusty Apron Bakery
+* Bessy B - Business Owner
+* Griselda O - Business owner
+* Veronique Facchinelli - [Casa Latina](/org/casa_latina/)
 
-#### 1 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Christina Sherman - WSALPHO
+* 💵Jaime Bodden - WSALPHO
+* Nicole Thomsen - WSALPHO
+* Todd Phillips - Washington State Department of Health
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

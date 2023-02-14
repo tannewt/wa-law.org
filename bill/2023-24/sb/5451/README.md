@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=4)
 
-#### 281 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
 * Cecilia Conley
 * Jeffrey Ellis - Redemption Project of WA
 * Antoine Davis
+* Anthony Powers
+* Dr. Chelsea Moore - ACLU of Washington
+* Gail Brashear
+* Kristina Jorgensen - Collective Justice
+* Devon Adams - Collective Justice
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Brian Smith - Port Angeles Police Department
 
 #### 0 ❓ - Other

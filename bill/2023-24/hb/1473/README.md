@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=4)
 
-#### 938 👍 - Pro
+#### 2168 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Susan Baird-Joshi - Washington State PTA
@@ -33,11 +33,27 @@ Testifying:
 * 💵Denisse Guerrero - WA Community Alliance
 * 💵Hyeeun Park - BIPOC Executive Directors Coalition
 * Oliver Miska
+* Ananda Valenzuela - BIPOC ED Coalition of WA
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Andy Nicholas - Washington State Budget and Policy Center
+* Bailey Medilo - Senior at Renton High School
+* Carolyn Parks - DisAbility Advocate and Parent Provider
+* Julianna Dauble - Renton Education Association
+* Dawn Bennett - Multicultural Education Rights Alliance
+* Emily Carmichael - Washington’s Paramount Duty
+* Lisa Rivera Smith - Public School Mom
+* E. Tyler Crone
 
-#### 11 👎 - Con
+#### 177 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense
 * Tim Eyman
+* Rita Hayes
+* john Worthington
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Laurie Layne
 
 #### 0 ❓ - Other

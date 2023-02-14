@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/06 01:30 PM - Housing (HOUS): HB 1474 Covenant homeownership prg.

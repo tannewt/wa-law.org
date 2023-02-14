@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30795&aId=151674&caId=21420&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30795&aId=151674&caId=21420&tId=4)
 
-#### 54 👍 - Pro
+#### 103 👍 - Pro
+Testifying:
+* 💵Annie Blackledge - Office of Superintendent of Public Instruction
+* 💵Dawn Rains - [Treehouse](/org/treehouse/)
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* 💵Megan Veith - [Building Changes](/org/building_changes/)
 
 #### 0 👎 - Con
 

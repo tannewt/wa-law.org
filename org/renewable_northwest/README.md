@@ -6,6 +6,8 @@
 ## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities.   ❓1
 * ❓💵 Kate Brouns
 
+## [SB 5168](/bill/2023-24/sb/5168/) - Energy independence act  👎1 
+
 ## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
 * 👍 Jeff Gombosky
 

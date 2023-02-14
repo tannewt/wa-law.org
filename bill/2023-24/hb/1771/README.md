@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Housing (HOUS): HB 1771 Relocation assistance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30802&aId=151728&caId=21419&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30802&aId=151728&caId=21419&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30802&aId=151728&caId=21419&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30802&aId=151728&caId=21419&tId=4)
-
-#### 42 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* Margo Bryant
+* Dave Pringle - Dept. of Commerce
+* 💵Chester Baldwin - Manufactured Housing Communities of WA
 
 #### 0 👎 - Con
 

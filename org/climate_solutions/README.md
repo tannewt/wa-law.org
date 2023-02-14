@@ -9,6 +9,8 @@
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 * 👍💵 Leah Missik
 
@@ -48,6 +50,8 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
+## [SB 5168](/bill/2023-24/sb/5168/) - Energy independence act  👎1 
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Leah Missik
 
@@ -71,4 +75,7 @@
 * 👍💵 Leah Missik
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
+* ❓💵 Kelly Hall
+
+## [SB 5659](/bill/2023-24/sb/5659/) - Gas companies/renewable res.   ❓1
 * ❓💵 Kelly Hall

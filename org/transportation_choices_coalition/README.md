@@ -22,6 +22,9 @@
 
 ## [SB 5342](/bill/2023-24/sb/5342/) - Transit interlocal agree. 👍1  
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+* 👍💵 Bryce Yadon
+
 ## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
 * 👍💵 Bryce Yadon
 

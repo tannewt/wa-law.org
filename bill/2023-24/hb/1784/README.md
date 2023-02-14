@@ -8,18 +8,16 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): HB 1784 Hunger relief
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151470&caId=21388&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151470&caId=21388&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151470&caId=21388&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151470&caId=21388&tId=4)
-
-#### 301 👍 - Pro
+#### 526 👍 - Pro
 Testifying:
 * Elisanne McCutcheon
 * Mike Cohen - Bellingham Food Bank
 * Lynn Kimball - Washington Association of Area Agencies on Aging
+* Rena Shawver - Okanogan County Community Action Council
+* Elizabeth Jennings - Community Action of Skagit County
+* Trudi Inslee - Office of the Governor
+* George Wright
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other

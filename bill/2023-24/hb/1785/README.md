@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30785&aId=151617&caId=21429&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30785&aId=151617&caId=21429&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Doug Palmer - Washington State Association for Justice
 
-#### 15 👎 - Con
+#### 28 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other

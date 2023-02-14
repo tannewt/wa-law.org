@@ -13,3 +13,6 @@
 * ❓💵 Edmund Witter
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
+
+## [SB 5707](/bill/2023-24/sb/5707/) - Housing court pilot program 👍1  
+* 👍💵 Edmund Witter

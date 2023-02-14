@@ -3,6 +3,9 @@
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 
 * 👎 Craig Smith
 
+## [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership  👎1 
+* 👎💵 Diana Carlen
+
 ## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
 * 👍 Craig Smith
 

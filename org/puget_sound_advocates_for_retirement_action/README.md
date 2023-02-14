@@ -4,6 +4,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
@@ -18,6 +20,8 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
@@ -31,9 +35,11 @@
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 

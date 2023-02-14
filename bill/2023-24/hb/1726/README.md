@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151740&caId=21445&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151740&caId=21445&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Ray Lamoureux - Washington Fire Chiefs Association
+* Scott Cooper - North Mason Regional Fire Authority
 
 #### 0 👎 - Con
 

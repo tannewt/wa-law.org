@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151741&caId=21446&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151741&caId=21446&tId=4)
 
-#### 7 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Ton Joh - Washington Federation of State Employees, WFSE
+* Sarah Lorenzini - PROTEC17
+* Faith Shuler - PROTEC17
+* Mindi Mezek
 
 #### 0 👎 - Con
 

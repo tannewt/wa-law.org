@@ -31,8 +31,9 @@
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman
 
-## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
 * 👍 Leslie Cushman
+* 👍 Martina Morris
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍3  
 * 👍 Tonya Isabell

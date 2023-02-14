@@ -10,6 +10,8 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
+## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
@@ -27,6 +29,8 @@
 ## [HB 1281](/bill/2023-24/hb/1281/) - Death with dignity act 👍1  
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
+
+## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍1  
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
@@ -127,6 +131,8 @@
 
 ## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍1  
 
+## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system 👍1  
+
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
@@ -134,6 +140,8 @@
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
 
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
+## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍1  
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
@@ -153,9 +161,13 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
+## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍2  
+
+## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply  👎1 
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
 

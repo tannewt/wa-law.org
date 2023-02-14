@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5454 RN PTSD/industrial insurance

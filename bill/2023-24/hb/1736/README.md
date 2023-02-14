@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 5 👎 - Con
+#### 24 👎 - Con
+Testifying:
+* John Peeples
 
 #### 0 ❓ - Other

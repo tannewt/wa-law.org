@@ -6,6 +6,8 @@
 ## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management   ❓1
 * ❓💵 Paula Swedeen
 
+## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
+
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
@@ -18,12 +20,14 @@
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting   ❓1
 * ❓ Jay Kehne
 
-## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍1  
+## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍2  
 * 👍💵 Paula Swedeen
 
 ## [SB 5471](/bill/2023-24/sb/5471/) - Electric bicycles/disability   ❓1
 
 ## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements  👎1 
 * 👎💵 Paula Swedeen
+
+## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board  👎1 
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  

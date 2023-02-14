@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151405&caId=21406&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151405&caId=21406&tId=4)
 
-#### 20 👍 - Pro
+#### 28 👍 - Pro
 
-#### 6 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * Tim Eyman - Permanent Offense
 

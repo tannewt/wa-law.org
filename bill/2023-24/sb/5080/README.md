@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SSB 5080 Cannabis social equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151292&caId=21515&tId=4)
-
-#### 52 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Peter Manning - Black Excellence In Cannabis
 * Mike Asai - Black Excellence In Cannabis
@@ -23,10 +17,16 @@ Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Raft Hollingsworth
 * Rick Garza - Washington State Liquor and Cannabis Board
+* Ollie Garrett - Washington State Liquor and Cannabis Board
+* Ahmed King - Black Excellence in Cannabis
+* Keith Blocker Tacoma City Council - [City of Tacoma](/org/city_of_tacoma/)
+* Tyler Conway - Black Excellence in Cannabis
+* Sekayi Perkins - BPIC(Black Pioneers In Cannibis)
 
-#### 6 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * john Worthington
+* john Worthington - AAMC
 
 #### 3 ❓ - Other
 Testifying:

@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SB 5379 Associate development orgs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151296&caId=21519&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151296&caId=21519&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151296&caId=21519&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30722&aId=151296&caId=21519&tId=4)
-
-#### 23 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Joe Morrison - Kitsap Economic Development Alliance
 * Suzanne Dale Estey - Washington Economic Development Associat
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5572 Traffic safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151716&caId=21508&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151716&caId=21508&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151716&caId=21508&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30786&aId=151716&caId=21508&tId=4)
-
-#### 272 👍 - Pro
+#### 480 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
@@ -26,14 +20,18 @@ Testifying:
 * Kelly Moore - Policing Project, NYU School of Law
 * Magda Baker - [Washington Defender Association](/org/washington_defender_association/)
 * Scarlet Neath - Center for Policing Equity
+* Max Savishinsky - Washington Physicians for Social Responsibility
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Brian Smith - Chief of Police, City of Port Angeles
 * Spike Unruh - Washington State Patrol Troopers Association
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Jeff DeVere - Washington Trucking Associations
+* David-Henry Sedelmeier - Driving School owner
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
+* Neil Weaver - WA State Patrol

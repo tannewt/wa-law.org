@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Early Learning & K-12 Education (EDU): SB 5671 K-12 experience factors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151532&caId=21464&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151532&caId=21464&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151532&caId=21464&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30777&aId=151532&caId=21464&tId=4)
-
-#### 83 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Laurie Dolan
+* DARCY HUFFMAN - Olympia School Board
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Dr. Joey Castilleja - Mabton School District
 
 #### 0 👎 - Con
 

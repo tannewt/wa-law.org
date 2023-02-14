@@ -18,6 +18,9 @@
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 * 👍 Jason Schwarz
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍2  
+* 👍 Magda Baker
+
 ## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍1  
 * 👍 Jason Schwarz
 

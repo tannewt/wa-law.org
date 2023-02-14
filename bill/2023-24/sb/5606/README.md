@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151276&caId=21490&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151276&caId=21490&tId=4)
 
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Dana Ralph - City of Kent Mayor
 * Rafael Padilla - City of Kent Police Chief
 * Julie Stormes - City of Kent Prosecuting Attorney
+* Matt Mahoney - Mayor - City of Des Moines
+* Mayor Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
 
 #### 0 👎 - Con
 

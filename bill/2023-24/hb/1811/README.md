@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30771&aId=151942&caId=21571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30771&aId=151942&caId=21571&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Shaun Scott
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Bryon Welch - Office of the Insurance Commissioner
+* David Forte - Office of the Insurance Commissioner

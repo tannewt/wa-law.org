@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151481&caId=21468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151481&caId=21468&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - WA Air Conditioning Contractors Association
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 9 👎 - Con
+#### 88 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

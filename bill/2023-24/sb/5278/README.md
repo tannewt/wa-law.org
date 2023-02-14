@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/26 10:30 AM - Health & Long Term Care (HLTC): SB 5278 Home care aide certification

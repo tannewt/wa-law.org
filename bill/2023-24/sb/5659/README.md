@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151480&caId=21467&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151480&caId=21467&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Charlie Brown - Cascade Natural Gas and NW Natural
+* 💵John Rothlin - Avista
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Luke Martland - WA Dept. of Ecology
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Glenn Blackmon - Department of Commerce
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)

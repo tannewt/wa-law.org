@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1384 Parks pass/veterans

@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151751&caId=21392&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151751&caId=21392&tId=4)
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Tom Tebb - Department of Ecology - Office of Columbia River
+* Chris Kowitz - Oregon Water Resources Department
 
 #### 0 👎 - Con
 

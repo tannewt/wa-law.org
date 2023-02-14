@@ -15,6 +15,8 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
+
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  

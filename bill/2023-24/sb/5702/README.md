@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151522&caId=21473&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151522&caId=21473&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
+* 💵Charles Adkins
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
 
 #### 0 👎 - Con
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/27 10:30 AM - Labor & Workplace Standards (LAWS): HB 1217 Wage complaints

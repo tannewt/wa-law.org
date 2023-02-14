@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Environment & Energy (ENVI): HB 1391 Energy in buildings

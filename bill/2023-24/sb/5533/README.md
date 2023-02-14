@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151814&caId=21528&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151814&caId=21528&tId=4)
 
-#### 123 👍 - Pro
+#### 216 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Krisitn Ang - [Faith Action Network](/org/faith_action_network/)
+* Martina Morris - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 #### 0 ❓ - Other
 

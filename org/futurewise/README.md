@@ -15,17 +15,27 @@
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Bryce Yadon
 
+## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+* 👍💵 Bryce Yadon
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍5  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍5  
 * 👍💵 Bryce Yadon
 
+## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
+
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs  👎1 
 * 👎💵 Bryce Yadon
+
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+* 👍💵 Bryce Yadon
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  
 * 👍💵 Bryce Yadon

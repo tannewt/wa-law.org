@@ -20,6 +20,12 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Councilmember Janice Zahn
 
+## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
+
+## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1
+
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Genesee Adkins
 
@@ -42,3 +48,6 @@
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 * ❓ Chris Long
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+* 👍 Lacey Jane Wolfe

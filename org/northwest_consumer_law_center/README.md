@@ -1,5 +1,8 @@
 # Northwest Consumer Law Center
 
+## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍2  
+* 👍 Christina Henry
+
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection   ❓1
 * ❓ Christina Henry
 

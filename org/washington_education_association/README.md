@@ -138,6 +138,8 @@
 
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍1  
 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍1  
+
 ## [HB 1321](/bill/2023-24/hb/1321/) - Ambulance transport fund 👍1  
 
 ## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍1  
@@ -184,7 +186,8 @@
 
 ## [HB 1459](/bill/2023-24/hb/1459/) - PERS & TRS plan 1 adjustment 👍1  
 
-## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
+* 👍💵 Simone Boe
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
@@ -259,11 +262,17 @@
 ## [HB 1744](/bill/2023-24/hb/1744/) - Clarifying the responsibilities and accountability for the effective delivery and oversight of public education services to charter school students. 👍1  
 * 👍💵 Julie Salvi
 
+## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
+
 ## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities. 👍1  
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
+
+## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
+
+## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍1  
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
@@ -279,7 +288,7 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
-## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍1  
+## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
 
 ## [SB 5111](/bill/2023-24/sb/5111/) - Sick leave/construction 👍1  
 

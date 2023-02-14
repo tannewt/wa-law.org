@@ -26,7 +26,7 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
@@ -70,6 +70,8 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
@@ -77,6 +79,10 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
+## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
@@ -123,6 +129,8 @@
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
@@ -134,3 +142,5 @@
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  

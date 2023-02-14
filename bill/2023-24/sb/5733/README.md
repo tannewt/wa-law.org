@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30798&aId=151926&caId=21535&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30798&aId=151926&caId=21535&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Kim Ford - Fiserv
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Vicki Harris - American Express
+* Dean Carlson - Department of Revenue
+* Steve Ewing - Department of Revenue

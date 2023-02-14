@@ -6,3 +6,6 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Regan Bolli
 * 👍 Regan Bolli
+
+## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+* 👍 Regan Bolli

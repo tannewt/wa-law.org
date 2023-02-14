@@ -7,14 +7,17 @@
 * 👎 Council President Breean Beggs
 * ❓ Council President Breean Beggs
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍 Chris Averyt
+* 👍 Marlene Feist
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat   ❓2
 * ❓ Marlene Feist
 * ❓ Marlene Feist
+
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 * 👍 Chris Averyt

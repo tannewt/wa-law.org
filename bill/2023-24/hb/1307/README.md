@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): HB 1307 Physician bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151894&caId=21543&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151894&caId=21543&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151894&caId=21543&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30749&aId=151894&caId=21543&tId=4)
-
-#### 58 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * McKenzie Momany - RFPU-NW/CIR/SEIU
 * Kenneth Tharp - RFPU-NW
 * Badeea Qureshi
+* Emily Marre - [University of Washington](/org/university_of_washington/)
+* Kasra Sarhadi
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Ian Goodhew - UW Medicine
 
