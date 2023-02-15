@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5124 Nonrelative kin placement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151810&caId=21524&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151810&caId=21524&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151810&caId=21524&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151810&caId=21524&tId=4)
-
-#### 24 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Shelly Willis - Exec. Director, Family Education and Support Services
 * Marissa Ingalls - Coordinated Care
@@ -23,7 +17,9 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵David Lord - No affiliation
 
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5124 Nonrelative kin placement
 #### 29 👍 - Pro

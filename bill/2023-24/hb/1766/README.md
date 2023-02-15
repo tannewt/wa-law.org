@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1766 Protection orders/hope cards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151763&caId=21395&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151763&caId=21395&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151763&caId=21395&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30746&aId=151763&caId=21395&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jamie Sullivan
+* Derek Sanders - Sheriff, Thurston County
+* Representative Lauren Davis
 
 #### 0 👎 - Con
 

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151817&caId=21531&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151817&caId=21531&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * Dave Andersen - Washington Department of Commerce
+* Albert Tripp - [City of Airway Heights](/org/city_of_airway_heights/)
 
 #### 0 👎 - Con
 

@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=4)
 
-#### 107 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * scott lay
+* Patricia Byers - Councilmember, City of Yakima
 
-#### 11 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Melonie Rockwell
 * Dylan Orion
+* Ursula Euler
 * Bennett Butters
 
 #### 1 ❓ - Other

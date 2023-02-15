@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151498&caId=21436&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151498&caId=21436&tId=4)
 
-#### 5 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Eileen MackenzieSullivan - Lewis Mason Thurston Area Agency on Aging Advisory Council
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * Mary-Anne Grafton - Washington State Association of Senior Centers
+* 💵Josh Weiss - [Lewis County](/org/lewis_county/)
+* Sean Swope - Commissioner, Lewis County
 
 #### 0 👎 - Con
 

@@ -144,3 +144,5 @@
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  

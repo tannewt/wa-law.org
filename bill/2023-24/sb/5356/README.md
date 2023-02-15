@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151484&caId=21469&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151484&caId=21469&tId=4)
 
-#### 660 👍 - Pro
+#### 795 👍 - Pro
 Testifying:
 * Cyndi Hoenhous - Washington Patients in Intractable Pain
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * Maya Morales - WA People's Privacy
+* Anne Paxton - Unemployment Law Project (ULP)
+* Ben Winters - Electronic Privacy Information Center (EPIC)
+* María P. Angel - University of Washington School of Law
+* 💵Jennifer Lee - ACLU of Washington
 
-#### 5 👎 - Con
+#### 11 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kelly Busey - WASPC

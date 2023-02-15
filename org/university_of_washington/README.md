@@ -1,6 +1,6 @@
 # University of Washington
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
@@ -57,7 +57,7 @@
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
 * 👍 Hoa Appel
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍4  
 
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 * 👍 Nancy Connolly

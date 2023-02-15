@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151895&caId=21544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151895&caId=21544&tId=4)
 
-#### 23 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* 💵Dave Warren - Klickitat PUD, Okanogan PUD
 
 #### 0 👎 - Con
 

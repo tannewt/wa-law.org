@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5358 Veterans' services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151811&caId=21525&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151811&caId=21525&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151811&caId=21525&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151811&caId=21525&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Anthony Varela - Veteran Legislative Coalition
 * Randy Johnson - Clallam Co. Board of Commissioners

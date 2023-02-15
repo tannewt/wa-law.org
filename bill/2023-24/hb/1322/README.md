@@ -15,10 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151751&caId=21392&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151751&caId=21392&tId=4)
 
-#### 23 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Tom Tebb - Department of Ecology - Office of Columbia River
 * Chris Kowitz - Oregon Water Resources Department
+* Marissa Gantar
+* Leo Groves
+* Kathryn Brigham - Chair, Confederated Tribes of the Umatilla Indian Reservation
 
 #### 0 👎 - Con
 

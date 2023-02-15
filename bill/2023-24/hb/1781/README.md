@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1781 Boater safety and education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30789&aId=151638&caId=21425&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30789&aId=151638&caId=21425&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30789&aId=151638&caId=21425&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30789&aId=151638&caId=21425&tId=4)
+#### 3 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 43 👎 - Con
+#### 77 👎 - Con
 Testifying:
 * Andrew Held
 * Thomas O'Keefe - American Whitewater
@@ -24,8 +18,13 @@ Testifying:
 * Kyle Thomas - ACA
 * Steve Greaves - Recreational Boating Assoc. of Washington
 * Jim Good
+* David Hablewitz - North Sound Sea Kayak Association
+* Ian Lauer
+* Christopher Esteves - Choose a company...
 * Brent Roth - American Canoe Association
 * Jim Virgin - WA State Boating Program Advisory Council
+* David Gilbert
+* Suzanne Britt - WA resident/ American Canoe Association
 
 #### 1 ❓ - Other
 Testifying:

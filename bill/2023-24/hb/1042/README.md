@@ -16,7 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=152038&caId=21586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=152038&caId=21586&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Robert Pantley - Natural and Built Environments
 
 #### 0 👎 - Con
 

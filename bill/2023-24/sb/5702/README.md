@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151522&caId=21473&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151522&caId=21473&tId=4)
 
-#### 9 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
 * 💵Charles Adkins
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Naira Gonzales Aranda
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Adán Mendoza-Sandoval - VP, WA Student Association
+* Sopeara Chay - South Puget Sound Community College
+* Madeline Sprute - Associated Students of Tacoma Community College
 
 #### 0 👎 - Con
 

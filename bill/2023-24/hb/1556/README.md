@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Tue 02/14 08:00 AM - Finance (FIN): HB 1556 Property tax rebates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151405&caId=21406&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151405&caId=21406&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151405&caId=21406&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151405&caId=21406&tId=4)
+#### 29 👍 - Pro
 
-#### 28 👍 - Pro
-
-#### 28 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Tim Eyman - Permanent Offense
 

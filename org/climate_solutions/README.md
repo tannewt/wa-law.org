@@ -9,6 +9,8 @@
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
@@ -44,6 +46,8 @@
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources   ❓1
 * ❓💵 Kelly Hall
+
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 

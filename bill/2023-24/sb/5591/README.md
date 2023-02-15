@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5591 Dependent youth financial ed

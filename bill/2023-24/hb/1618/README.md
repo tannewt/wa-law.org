@@ -19,9 +19,11 @@ Sign up to testify:
 Testifying:
 * Amy Yount
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1618 Childhood sexual abuse/SOL
 #### 155 👍 - Pro

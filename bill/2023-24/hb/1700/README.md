@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1700 Eastern Washington memorial
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151451&caId=21442&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151451&caId=21442&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151451&caId=21442&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151451&caId=21442&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

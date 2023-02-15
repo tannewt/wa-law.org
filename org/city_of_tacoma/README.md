@@ -33,6 +33,9 @@
 
 ## [HB 1648](/bill/2023-24/hb/1648/) - Ticket sales   ❓1
 
+## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
+* 👍 Councilmember Keith Blocker
+
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1
 * ❓💵 Briahna Murray
 

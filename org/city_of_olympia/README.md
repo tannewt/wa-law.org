@@ -49,6 +49,8 @@
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
+## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
+
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
@@ -87,3 +89,5 @@
 
 ## [SB 5636](/bill/2023-24/sb/5636/) - Forest practices in cities 👍1  
 * 👍 Mayor Pro Tem, Clark Gilman
+
+## [SB 5741](/bill/2023-24/sb/5741/) - Housing gap voucher pilot 👍1  

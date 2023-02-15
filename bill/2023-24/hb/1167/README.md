@@ -15,11 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151897&caId=21546&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151897&caId=21546&tId=4)
 
-#### 20 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 1 👎 - Con
+#### 164 👎 - Con
 
 #### 0 ❓ - Other
 

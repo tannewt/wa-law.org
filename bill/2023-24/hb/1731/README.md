@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Regulated Substances & Gaming (RSG): HB 1731 Short-term rentals/liquor

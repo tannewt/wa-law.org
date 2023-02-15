@@ -2,6 +2,8 @@
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1343](/bill/2023-24/hb/1343/) - Rent relief & housing 👍1  

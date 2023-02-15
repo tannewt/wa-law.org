@@ -8,20 +8,19 @@
 
 ## Meetings
 ### Tue 02/14 08:00 AM - Finance (FIN): HB 1795 Estate tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151564&caId=21410&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151564&caId=21410&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151564&caId=21410&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151564&caId=21410&tId=4)
-
-#### 26 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Dane Austreng - SEIU Healthcare 1199NW
+* 💵Nick Federici - SEIU 775
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 34 👎 - Con
+#### 59 👎 - Con
 Testifying:
 * Tim Eyman - Permanent Offense
 * Tim Eyman
+* Lorilee Gates
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Laurie Layne
 

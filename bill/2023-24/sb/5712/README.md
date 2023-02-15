@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30770&aId=151884&caId=21540&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30770&aId=151884&caId=21540&tId=4)
 
-#### 7 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Dr Bernal Baca
+* Angelita Cervantes - Community for our College
+* 💵Karen Strickland - AFT Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

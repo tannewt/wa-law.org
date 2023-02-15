@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/09 10:30 AM - Health & Long Term Care (HLTC): SB 5532 Small rural hospital payment

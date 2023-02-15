@@ -9,22 +9,23 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5102 School library info and tech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151809&caId=21523&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151809&caId=21523&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151809&caId=21523&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151809&caId=21523&tId=4)
-
-#### 137 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Ryan Grant - [Washington Library Association](/org/washington_library_association/)
 * Craig Seasholes
+* 💵Carolyn Logue - WA Library Association
+* Mark Ray
+* Elizabeth Ebersole - WLA
+* Carmen Hart-Jensen
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Rick Chisa - Public School Employees of Washington (PSE)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Eric Sobotta - Reardan-Edwall School District
+* Cindy McMullen - Washington State School Directors' Association
 
 ### Mon 01/23 01:30 PM - Early Learning & K-12 Education (EDU): SB 5102 School library info and tech
 #### 948 👍 - Pro

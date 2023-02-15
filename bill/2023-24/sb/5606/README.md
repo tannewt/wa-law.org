@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Law & Justice (LAW): SB 5606 Illegal racing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151276&caId=21490&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151276&caId=21490&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151276&caId=21490&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151276&caId=21490&tId=4)
-
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Dana Ralph - City of Kent Mayor
 * Rafael Padilla - City of Kent Police Chief
@@ -22,6 +16,6 @@ Testifying:
 * Matt Mahoney - Mayor - City of Des Moines
 * Mayor Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

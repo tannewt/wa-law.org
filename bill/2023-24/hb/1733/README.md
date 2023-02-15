@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1733 Nursing degrees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30752&aId=151447&caId=21438&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30752&aId=151447&caId=21438&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30752&aId=151447&caId=21438&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30752&aId=151447&caId=21438&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Lynnette Bennett - Skagit Valley College
 * Shelley Price
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
+* Kenneth Lawson - Skagit Valley College
 
 #### 3 👎 - Con
 Testifying:

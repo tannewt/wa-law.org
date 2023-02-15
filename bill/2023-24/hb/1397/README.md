@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151683&caId=21423&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151683&caId=21423&tId=4)
 
-#### 255 👍 - Pro
+#### 306 👍 - Pro
 Testifying:
 * Laurie A Layne
 * Ashlee Barnes
+* Keith Adams
+* Cherie Roberts
 
-#### 14 👎 - Con
+#### 109 👎 - Con
+Testifying:
+* Pier Petersen
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Dowd - Washington State Office of the Family & Children's Ombuds

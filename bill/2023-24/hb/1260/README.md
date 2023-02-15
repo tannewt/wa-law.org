@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151898&caId=21547&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151898&caId=21547&tId=4)
 
-#### 144 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Anna Aylward - Department of Social and Health Services
 * Babs Roberts - Department of Social and Health Services
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 👎 - Con

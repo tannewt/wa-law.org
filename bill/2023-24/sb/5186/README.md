@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/16 10:30 AM - Labor & Commerce (LC): SB 5186 Contracting/discrimination

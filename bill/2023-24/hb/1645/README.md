@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151497&caId=21435&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151497&caId=21435&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Josh Weiss - Benton County
 
 #### 0 👎 - Con
 

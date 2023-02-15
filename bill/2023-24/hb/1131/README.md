@@ -15,26 +15,39 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=4)
 
-#### 672 👍 - Pro
+#### 919 👍 - Pro
 Testifying:
 * Penny Sweet - Mayor, City of Kirkland
 * Daniel Groce - Novelis
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Kate Bailey - The Association of Plastic Recyclers
 * 💵Ezra Eickmeyer - Terramer Inc
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Dylan de Thomas - The Recycling Partnership
+* 💵Alex Hur - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
+* Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
 
-#### 8 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Candace Joy - [Washington State Veterinary Medical Association](/org/washington_state_veterinary_medical_association/)
 * Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Erin Hall - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Christopher Reigelsperger - Waste Management
+* Mark Gingrich - Waste Connections
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Ron Phillips - Animal Health Institute
+* Wendy Weicker - [Republic Services](/org/republic_services/)
 
-#### 5 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * john Worthington
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Rowland Thompson - [Wine Institute](/org/wine_institute/)
+* 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
 
 ### Tue 01/17 04:00 PM - Environment & Energy (ENVI): HB 1131 Solid waste management
 #### 1527 👍 - Pro

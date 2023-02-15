@@ -19,3 +19,5 @@
 * 👍💵 Neil Strege
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  

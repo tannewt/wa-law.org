@@ -19,7 +19,10 @@ Testifying:
 * Kathleen Barry Johnson
 * Joël Tan - Wing Luke Museum
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Amber Carter - Seattle Mariners
+* Emily Shay - Association of Washington Buisness
 
 #### 0 ❓ - Other
 

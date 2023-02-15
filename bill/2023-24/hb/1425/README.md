@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151419&caId=21411&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151419&caId=21411&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Dave Somers - Snohomish County Executive
 * Megan Dunn - Snohomish County Council

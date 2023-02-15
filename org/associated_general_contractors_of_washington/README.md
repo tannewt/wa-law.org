@@ -21,4 +21,4 @@
 
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
 
-## [SB 5528](/bill/2023-24/sb/5528/) - Prime contractor retainage 👍1  
+## [SB 5528](/bill/2023-24/sb/5528/) - Construction retainage 👍1  

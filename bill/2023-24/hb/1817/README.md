@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Housing (HOUS): HB 1817 Housing gap voucher pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151878&caId=21537&tId=4)
-
-#### 194 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * 💵Chester Baldwin - Rental Housing Coalition
@@ -24,9 +18,12 @@ Testifying:
 * Stephannie Lowrance
 * Ron Greer - Ron Greer and Company
 * GORDON HAGGERTY
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 
-#### 72 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Andrew Calkins - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)

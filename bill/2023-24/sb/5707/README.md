@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Law & Justice (LAW): SB 5707 Housing court pilot program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151631&caId=21491&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151631&caId=21491&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151631&caId=21491&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151631&caId=21491&tId=4)
-
-#### 2 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
+* Scott Crain - Northwest Justice Project
 
-#### 179 👎 - Con
+#### 242 👎 - Con
 Testifying:
 * 💵Melissa Johnson - District & Municipal Court Judges Association
 * Russ Millard - MHCW
@@ -28,7 +23,10 @@ Testifying:
 * Ray Lilienthal
 * RON GREER
 * GORDON HAGGERTY
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jason Keefe - Oak Terrace Apts
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
+* Katherine George - WA Coalition for Open Government

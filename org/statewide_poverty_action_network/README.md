@@ -19,7 +19,7 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍4  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍5  
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
 
@@ -33,13 +33,13 @@
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 
-## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍3  
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
@@ -57,6 +57,8 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
+## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
+
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 * 👍💵 Alex Hur
 
@@ -66,6 +68,8 @@
 * 👍💵 Marcy Bowers
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
+
+## [HB 1811](/bill/2023-24/hb/1811/) - Insurance/credit exceptions  👎1 
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 
@@ -86,6 +90,8 @@
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍4  
 * 👍💵 Shaun Scott
 
+## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
+
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍3  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍2  
@@ -103,5 +109,7 @@
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+
+## [SB 5610](/bill/2023-24/sb/5610/) - Used vehicle warranties 👍1  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  

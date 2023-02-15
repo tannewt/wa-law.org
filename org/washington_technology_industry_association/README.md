@@ -10,6 +10,8 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
+## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system  👎1 
+
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
@@ -21,3 +23,5 @@
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
+
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  

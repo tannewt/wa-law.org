@@ -49,7 +49,7 @@
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
 
-## [SB 5617](/bill/2023-24/sb/5617/) - Skill centers course equiv. 👍1  
+## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
 

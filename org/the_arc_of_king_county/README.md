@@ -39,11 +39,13 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
-## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍2  
+## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍3  
 * 👍💵 Ramona Hattendorf
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 * 👍💵 Ramona Hattendorf
+
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
@@ -62,6 +64,8 @@
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍1  
+
+## [HB 1776](/bill/2023-24/hb/1776/) - Applied behavior analysis  👎1 
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 

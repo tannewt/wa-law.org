@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/19 08:00 AM - Environment & Energy (ENVI): HB 1192 Electric transm. planning

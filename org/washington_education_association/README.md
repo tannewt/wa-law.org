@@ -268,7 +268,8 @@
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 
-## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
+## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍2  
+* 👍💵 Simone Boe
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
@@ -476,3 +477,6 @@
 ## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
+
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages  👎1 
+* 👎 Sue Nightingale

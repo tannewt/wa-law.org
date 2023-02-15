@@ -28,6 +28,8 @@
 
 ## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍1  
+
 ## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials 👍1  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
@@ -35,6 +37,8 @@
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
 ## [HB 1542](/bill/2023-24/hb/1542/) - AEDs/high voltage work 👍1  
+
+## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
@@ -74,3 +78,5 @@
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
+
+## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  

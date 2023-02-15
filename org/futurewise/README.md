@@ -18,6 +18,8 @@
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 * 👍💵 Bryce Yadon
 
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍5  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍5  

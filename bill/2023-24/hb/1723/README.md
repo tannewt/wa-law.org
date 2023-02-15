@@ -8,25 +8,23 @@
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Local Government (LG): HB 1723 GMA/equity and env. justice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151491&caId=21431&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151491&caId=21431&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151491&caId=21431&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30761&aId=151491&caId=21431&tId=4)
-
-#### 110 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Tina Morehead - Washington Chapter-American Planning Assoc.
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 82 👎 - Con
+#### 346 👎 - Con
 Testifying:
 * john Worthington
 * john Worthington
+* Karen McIntosh
+* Eric pratt - I, America
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Josie Cummings - BIAW
 * Dave Andersen - Washington Department of Commerce
+* Jeanette McKague - Washington REALTORS

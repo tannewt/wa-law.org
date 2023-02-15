@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=4)
 
-#### 98 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Darren Linker - Fremont Arts Council
 * Melissa Huggins
 * Cheryl Selby - City of Olympia - Mayor
+* Brian Carter - 4Culture
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

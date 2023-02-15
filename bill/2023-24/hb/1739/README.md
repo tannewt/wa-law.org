@@ -8,15 +8,12 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1739 Child care prov. instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30795&aId=151676&caId=21422&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30795&aId=151676&caId=21422&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30795&aId=151676&caId=21422&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30795&aId=151676&caId=21422&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* Julie Schroath
+* Latoya Oneil
 
-#### 4 👍 - Pro
-
-#### 11 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 

@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151439&caId=21452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151439&caId=21452&tId=4)
 
-#### 0 👍 - Pro
-
-#### 2 👎 - Con
+#### 4 👍 - Pro
 Testifying:
+* Holly Crowley - Gene Meyer Towing
+* Kris Zachary - Burns Towing
+* 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
+* TJ Redmon - Divines Towing
+
+#### 3 👎 - Con
+Testifying:
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 
 #### 0 ❓ - Other

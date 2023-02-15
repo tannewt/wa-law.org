@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Early Learning & K-12 Education (EDU): SB 5648 Board of education waivers

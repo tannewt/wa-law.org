@@ -138,6 +138,8 @@
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
+## [HB 1792](/bill/2023-24/hb/1792/) - Water rights procedures 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
@@ -187,6 +189,8 @@
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
 
 ## [SB 5310](/bill/2023-24/sb/5310/) - Workers' comp. providers 👍1  
+
+## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 * 👍💵 Carl Schroeder

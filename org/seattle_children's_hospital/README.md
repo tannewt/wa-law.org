@@ -22,6 +22,8 @@
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
 
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  

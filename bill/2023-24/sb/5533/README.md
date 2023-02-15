@@ -9,24 +9,18 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5533 Model vehicle pursuit policy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151814&caId=21528&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151814&caId=21528&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151814&caId=21528&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30723&aId=151814&caId=21528&tId=4)
-
-#### 216 👍 - Pro
+#### 252 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Krisitn Ang - [Faith Action Network](/org/faith_action_network/)
 * Martina Morris - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
 
 ### Mon 01/30 10:30 AM - Law & Justice (LAW): SB 5533 Model vehicle pursuit policy
 #### 134 👍 - Pro

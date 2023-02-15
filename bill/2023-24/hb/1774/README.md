@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1774 Public empl. salary surveys
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151741&caId=21446&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151741&caId=21446&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151741&caId=21446&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30755&aId=151741&caId=21446&tId=4)
-
-#### 18 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Ton Joh - Washington Federation of State Employees, WFSE
 * Sarah Lorenzini - PROTEC17
 * Faith Shuler - PROTEC17
 * Mindi Mezek
+* Margaret Hodun - WPEA member
+* Brian Brannies
 
 #### 0 👎 - Con
 

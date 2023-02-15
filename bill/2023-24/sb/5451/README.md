@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Law & Justice (LAW): SB 5451 Long sentences review
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30721&aId=151273&caId=21487&tId=4)
-
-#### 358 👍 - Pro
+#### 417 👍 - Pro
 Testifying:
 * Cecilia Conley
 * Jeffrey Ellis - Redemption Project of WA
@@ -24,9 +18,11 @@ Testifying:
 * Gail Brashear
 * Kristina Jorgensen - Collective Justice
 * Devon Adams - Collective Justice
+* Percy Levy - [Washington Defender Association](/org/washington_defender_association/)
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Brian Smith - Port Angeles Police Department
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other

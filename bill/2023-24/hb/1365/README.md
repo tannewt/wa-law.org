@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Environment & Energy (ENVI): HB 1365 Puget Sound water quality
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30767&aId=151735&caId=21403&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30767&aId=151735&caId=21403&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30767&aId=151735&caId=21403&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30767&aId=151735&caId=21403&tId=4)
+#### 34 👍 - Pro
 
-#### 14 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Vince McGowan - Ecology
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* Don Gourlie - Puget Sound Partnership

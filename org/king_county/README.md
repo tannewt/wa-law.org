@@ -144,6 +144,8 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
+## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
@@ -195,11 +197,15 @@
 
 ## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
 
+## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
 ## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
+## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
@@ -375,3 +381,5 @@
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
+
+## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  

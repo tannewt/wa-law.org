@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Health Care & Wellness (HCW): HB 1745 Diversity in clinical trials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30741&aId=151398&caId=21415&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30741&aId=151398&caId=21415&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30741&aId=151398&caId=21415&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30741&aId=151398&caId=21415&tId=4)
-
-#### 34 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * 💵Lyset Cadena - Andy Hill CARE Fund
 * 💵Ian Goodhew - UW Medicine
@@ -25,6 +19,9 @@ Testifying:
 * Gordon Tupulua - Pacific Islander Health Board
 * Tamara Clough - ACS CAN
 * Lika Smith - Pacific Islander Health Board of WA
+* Dr. Andrew Cowan - [Fred Hutchinson Cancer Center](/org/fred_hutchinson_cancer_center/)
+* 💵Connor Haggerty - Washington State University
+* 💵Ian Goodhew - UW Medicine
 
 #### 0 👎 - Con
 

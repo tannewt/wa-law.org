@@ -1,5 +1,8 @@
 # Administrative Office of the Courts
 
+## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
+* 👍 Brittany Gregory
+
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
 ## [HB 1295](/bill/2023-24/hb/1295/) - DCYF placement agreements 👍1  

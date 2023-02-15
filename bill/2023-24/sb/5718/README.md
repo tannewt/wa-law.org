@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151485&caId=21470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151485&caId=21470&tId=4)
 
-#### 9 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * David Ripp - Port of Camas-Washougal
+* Scott Richards - Washington Public Utility Districts Association
+* Carissa Hahn - CWA/WashTech
+* Adrian Chavarria - CWA/WashTech
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mark Vasconi - State Broadband Office

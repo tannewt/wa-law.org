@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Shaun Scott
 * Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Julia Kellison
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Kelsi Hamilton - WA Collectors Assoc
+* Mindy Chumbley - WA Collectors Assoc.
 
 #### 0 ❓ - Other

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/14 08:00 AM - Finance (FIN): HB 1473 Wealth/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30742&aId=151404&caId=21405&tId=4)
-
-#### 2168 👍 - Pro
+#### 2279 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Susan Baird-Joshi - Washington State PTA
@@ -46,7 +40,7 @@ Testifying:
 * Lisa Rivera Smith - Public School Mom
 * E. Tyler Crone
 
-#### 177 👎 - Con
+#### 288 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense
@@ -55,5 +49,6 @@ Testifying:
 * john Worthington
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Laurie Layne
+* Karen McIntosh
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151880&caId=21539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151880&caId=21539&tId=4)
 
-#### 12 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Charles Knutson - Amazon
 * 💵Albert Sardinas - WBBA / Tabor 100
+* 💵Jayme Shoun - Washington STEM
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Sue Nightingale - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 ❓ - Other

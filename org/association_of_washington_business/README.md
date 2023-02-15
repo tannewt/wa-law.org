@@ -218,6 +218,8 @@
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍 Emily Shay
 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax  👎1 
 * 👎 Emily Shay
 

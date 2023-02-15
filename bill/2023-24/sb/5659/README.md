@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Environment, Energy & Technology (ENET): SB 5659 Gas companies/renewable res.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151480&caId=21467&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151480&caId=21467&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151480&caId=21467&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30758&aId=151480&caId=21467&tId=4)
-
-#### 5 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Charlie Brown - Cascade Natural Gas and NW Natural
 * 💵John Rothlin - Avista
+* Natasha Jackson - 1914 Willamette Falls Drive
+* Alyn Spector - [Cascade Natural Gas](/org/cascade_natural_gas/)
 
 #### 5 👎 - Con
 Testifying:

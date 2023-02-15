@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Consumer Protection & Business (CPB): HB 1811 Insurance/credit exceptions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30771&aId=151942&caId=21571&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30771&aId=151942&caId=21571&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30771&aId=151942&caId=21571&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30771&aId=151942&caId=21571&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
+* 💵Christine Brewer - APCIA
+* 💵Jean Leonard - WA Insurers, Nationwide Insurance, and State Farm Insurance
+* 💵Kenton Brine - NW Insurance Council
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Shaun Scott
 

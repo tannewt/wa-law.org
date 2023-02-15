@@ -8,3 +8,5 @@
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
+
+## [SB 5588](/bill/2023-24/sb/5588/) - Mental health sentencing alt 👍1  

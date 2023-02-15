@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Tue 02/14 01:30 PM - State Government & Elections (SGE): SB 5694 Public empl. salary surveys
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30800&aId=151694&caId=21502&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30800&aId=151694&caId=21502&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30800&aId=151694&caId=21502&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30800&aId=151694&caId=21502&tId=4)
-
-#### 14 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Chuck Pirtle - Washington Federation of State Employees, WFSE
 * Daniel Jones
 * Ruth Daniel
+* Margaret Hodun - WPEA member
 
 #### 0 👎 - Con
 

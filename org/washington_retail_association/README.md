@@ -82,6 +82,8 @@
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 * 👎💵 Bruce Beckett
 
+## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
+
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax   ❓1
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  

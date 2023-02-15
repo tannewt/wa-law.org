@@ -75,7 +75,8 @@
 
 ## [HB 1668](/bill/2023-24/hb/1668/) - Vehicular homicide/survivors  👎1 
 
-## [HB 1688](/bill/2023-24/hb/1688/) - Tow truck payments/indigent  👎1 
+## [HB 1688](/bill/2023-24/hb/1688/) - Tow truck payments/indigent  👎2 
+* 👎💵 Sarah Nagy
 * 👎💵 Sarah Nagy
 
 ## [HB 1727](/bill/2023-24/hb/1727/) - Transaction fees  👎1 
@@ -133,3 +134,9 @@
 * 👍 Xaxira Velasco Ponce de León
 
 ## [SB 5697](/bill/2023-24/sb/5697/) - Authorizing the utilities and transportation commission to regulate the rates and services of all persons engaging in the business of acting as a landlord for a mobile home park, manufactured housing community, or manufactured/mobile home community. 👍1  
+
+## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
+* ❓💵 Sarah Nagy
+
+## [SB 5737](/bill/2023-24/sb/5737/) - Vehicle residences/impound   ❓1
+* ❓💵 Sarah Nagy

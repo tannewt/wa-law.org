@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151499&caId=21437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151499&caId=21437&tId=4)
 
-#### 27 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * Mark Crider - Walla Walla Sheriffs Office
 * Dana Ralph - Mayor of the City of Kent
@@ -22,7 +22,9 @@ Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ian Huri - Snohomish County Sheriff's Office
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Tom Sahlberg - City Council Member - Liberty Lake, 26 years with Spokane P.D. - 20+ as an Academy Instructor
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

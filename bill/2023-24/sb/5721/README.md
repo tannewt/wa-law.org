@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151879&caId=21538&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151879&caId=21538&tId=4)
 
-#### 7 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Lynnette Muenzberg
 * 💵Donny Donovan - IAM 751
 * 💵Emily Wittman - Aerospace Futures Alliance
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Mike Brown - Aero-Plastics, Inc.
+* 💵Brent Ludeman - Aviation Technical Services
+* Garry Clark - Economic Alliance Snohomish County, President & CEO
+* James Henderson - Snohomish County
+* Wade Larson - Wagstaff, Inc.
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Robin Toth - Washington State Department of Commerce

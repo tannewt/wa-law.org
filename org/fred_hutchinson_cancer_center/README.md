@@ -8,9 +8,12 @@
 
 ## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
 
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍2  
+* 👍 Dr. Andrew Cowan
+
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍2  
 * 👍 MD, MS, Marianne Dubard-Gault
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎2 
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  

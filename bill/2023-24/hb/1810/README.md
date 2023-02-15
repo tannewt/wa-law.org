@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Housing (HOUS): HB 1810 Mobile home rental assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151877&caId=21536&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151877&caId=21536&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151877&caId=21536&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30803&aId=151877&caId=21536&tId=4)
-
-#### 10 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * 💵Chester Baldwin - Rental Housing Coalition
 * Michelle Wilson
+* Christa Connolly - West Prairie Village MHP
+* Mark Klicker - Representative
+* Farrah Glenn
+* Monica Grant
 
-#### 99 👎 - Con
+#### 102 👎 - Con
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 

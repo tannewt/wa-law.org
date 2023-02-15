@@ -7,6 +7,8 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+
 ## [HB 1758](/bill/2023-24/hb/1758/) - Hatchery maintenance permits 👍1  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  

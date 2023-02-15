@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Tue 02/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5332 Homeless camps/schools, etc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30684&aId=150836&caId=21496&tId=4)
-
-#### 15 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Lisa Olson
+* Linda Wo-ja-how-skiWojciechowsi
+* Gary Wilson
 
-#### 88 👎 - Con
+#### 101 👎 - Con
 Testifying:
 * Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Karina O'Malley
