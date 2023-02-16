@@ -62,6 +62,8 @@
 ## [HB 1778](/bill/2023-24/hb/1778/) - Economic resilience planning 👍1  
 * 👍 Chris Herman
 
+## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
+
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 * 👎 Eric ffitch
 

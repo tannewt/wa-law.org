@@ -16,7 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Jason Perrins - Chewelah SD
+* Brett Baum - Rosalia School District
+* Brett Baum - Great Northern School District
 
 #### 2 ❓ - Other
 Testifying:

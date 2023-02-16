@@ -10,8 +10,9 @@
 * 👎💵 Nickeia Hunter
 * 👎 Leslie Cushman
 
-## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍4  
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍5  
 * 👍 Leslie Cushman
+* 👍 Shelly Washington
 * 👍 Shelly Washington
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍3  

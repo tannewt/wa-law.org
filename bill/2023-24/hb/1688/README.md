@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Transportation (TR): HB 1688 Tow truck payments/indigent
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151439&caId=21452&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151439&caId=21452&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151439&caId=21452&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151439&caId=21452&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Holly Crowley - Gene Meyer Towing
@@ -21,9 +15,9 @@ Testifying:
 * 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
 * TJ Redmon - Divines Towing
 
-#### 3 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

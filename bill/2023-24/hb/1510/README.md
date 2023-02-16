@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson
 * Joël Tan - Wing Luke Museum
+* Kathleen Johnson - [Historic South Downtown](/org/historic_south_downtown/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Amber Carter - Seattle Mariners
 * Emily Shay - Association of Washington Buisness

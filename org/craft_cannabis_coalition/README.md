@@ -14,6 +14,10 @@
 ## [HB 1612](/bill/2023-24/hb/1612/) - Products containing THC  👎1 
 * 👎 Adán Espino Jr
 
+## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity   ❓2
+* ❓ Sheley Anderson
+* ❓ Sheley Anderson
+
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
 * ❓ Adan Espino Jr
 

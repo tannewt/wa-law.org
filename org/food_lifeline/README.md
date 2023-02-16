@@ -22,6 +22,8 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  

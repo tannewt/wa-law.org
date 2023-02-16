@@ -4,7 +4,7 @@
 
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍3  
 * 👍💵 Clifford Traisman
 
 ## [HB 1166](/bill/2023-24/hb/1166/) - Water quality trading prog.  👎1 

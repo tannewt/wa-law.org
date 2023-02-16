@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Appropriations (APP): SHB 1405 Public benefit payments/DCYF
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151899&caId=21548&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151899&caId=21548&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151899&caId=21548&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151899&caId=21548&tId=4)
-
-#### 39 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc, WA State
 * Erin Shea McCann - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)

@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Transportation (TR): HB 1736 Vehicle odometer readings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151440&caId=21453&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151440&caId=21453&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151440&caId=21453&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151440&caId=21453&tId=4)
-
 #### 1 👍 - Pro
 
-#### 62 👎 - Con
+#### 107 👎 - Con
 Testifying:
 * John Peeples
+* Eric pratt - America
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Thad Duvall - Washington State Association of County Auditors

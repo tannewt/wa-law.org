@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/07 10:30 AM - Labor & Workplace Standards (LAWS): HB 1534 Construction consumers

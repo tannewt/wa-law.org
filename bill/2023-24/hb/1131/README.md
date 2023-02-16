@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Appropriations (APP): SHB 1131 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151896&caId=21545&tId=4)
-
-#### 919 👍 - Pro
+#### 1698 👍 - Pro
 Testifying:
 * Penny Sweet - Mayor, City of Kirkland
+* 💵Brynn Brady - Novelis
 * Daniel Groce - Novelis
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Kate Bailey - The Association of Plastic Recyclers
@@ -26,8 +21,12 @@ Testifying:
 * Dylan de Thomas - The Recycling Partnership
 * 💵Alex Hur - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
+* Pat McLaughlin - [King County](/org/king_county/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Bill Clarke - [International Bottled Water Association](/org/international_bottled_water_association/)
+* Pam Stuart
 
-#### 19 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * Candace Joy - [Washington State Veterinary Medical Association](/org/washington_state_veterinary_medical_association/)
 * Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
@@ -37,17 +36,27 @@ Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Christopher Reigelsperger - Waste Management
 * Mark Gingrich - Waste Connections
+* connie peterson
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Ron Phillips - Animal Health Institute
 * Wendy Weicker - [Republic Services](/org/republic_services/)
+* Tim Shestek - [American Chemistry Council](/org/american_chemistry_council/)
+* 💵Diana Carlen - Food Northwest, Washington Potato & Onion Association
+* 💵Jay Balasbas - Sunshine Disposal and Basin Disposal
+* 💵Peter Godlewski - Association of Washington
 
-#### 9 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * john Worthington
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * 💵Rowland Thompson - [Wine Institute](/org/wine_institute/)
 * 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Marian Dacca - Glass Packaging Institute
+* 💵Christopher Finarelli - The Household & Commercial Products Association
+* 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* 💵Mike Elliott
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 
 ### Tue 01/17 04:00 PM - Environment & Energy (ENVI): HB 1131 Solid waste management
 #### 1527 👍 - Pro

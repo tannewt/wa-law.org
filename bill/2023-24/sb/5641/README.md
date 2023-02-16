@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=152196&caId=21588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=152196&caId=21588&tId=4)
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Martha Foster Lucas - Washington State Coalition of African Community Leaders
+* Francoise Milinganyo - Congolese Integration Network
+* Eunice Ngwasi kalembo
+* Awa Drammeh - PNSGA
+* Uriel Zikum
+* FLORIBERT MUBALAMA - Congolese Integration Network
+* Wahab Kromah - The Liberian Community of Washington State
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Awa Drammeh - Pacific Northwest Seattle Gambian Association

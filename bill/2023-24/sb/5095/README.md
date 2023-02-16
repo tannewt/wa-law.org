@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151932&caId=21561&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151932&caId=21561&tId=4)
 
-#### 30 👍 - Pro
+#### 40 👍 - Pro
+Testifying:
+* Hunter George - Metro Parks Tacoma and the Washington Parks Rx Task Force
 
 #### 0 👎 - Con
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5356 Procurement/automated system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151484&caId=21469&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151484&caId=21469&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151484&caId=21469&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30759&aId=151484&caId=21469&tId=4)
-
-#### 795 👍 - Pro
+#### 802 👍 - Pro
 Testifying:
 * Cyndi Hoenhous - Washington Patients in Intractable Pain
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
@@ -23,6 +17,7 @@ Testifying:
 * Ben Winters - Electronic Privacy Information Center (EPIC)
 * María P. Angel - University of Washington School of Law
 * 💵Jennifer Lee - ACLU of Washington
+* Jonathan Pincus
 
 #### 11 👎 - Con
 

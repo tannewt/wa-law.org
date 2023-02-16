@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=4)
 
-#### 73 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Patrick Taggart
 * Larry Walker - ABATE of WA
 * David Bennatts
+* David-Henry Sedelmeier - Driving School owner
 * Adalinda Lundt - ABATE of Washington
+* Alex Randall
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

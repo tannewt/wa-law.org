@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/20 08:00 AM - Finance (FIN): HB 1453 Medical cannabis/tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152086&caId=21626&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152086&caId=21626&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152086&caId=21626&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152086&caId=21626&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/24 04:00 PM - Regulated Substances & Gaming (RSG): HB 1453 Medical cannabis/tax
 #### 83 👍 - Pro
 Testifying:

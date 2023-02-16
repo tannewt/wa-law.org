@@ -11,7 +11,11 @@
 
 ## [HB 1476](/bill/2023-24/hb/1476/) - Impact fees/law enforcement 👍1  
 
+## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt  👎1 
+
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
 * ❓ Paula Painter
 
 ## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍1  
+
+## [SB 5721](/bill/2023-24/sb/5721/) - Advanced aerospace training 👍1  

@@ -14,16 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151683&caId=21423&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151683&caId=21423&tId=4)
 
-#### 306 👍 - Pro
+#### 574 👍 - Pro
 Testifying:
 * Laurie A Layne
 * Ashlee Barnes
 * Keith Adams
 * Cherie Roberts
+* Diane Henshaw
+* Shannon Cherry Anderson - On behalf of a group of foster parents
+* Joann Tolentino
+* Jamie Jo Hiles
+* Talonna Hanft
+* Shayna Richard - Light The Way Missing Persons Advocacy Project
 
-#### 109 👎 - Con
+#### 247 👎 - Con
 Testifying:
 * Pier Petersen
+* Katrina Thiessen
 
 #### 1 ❓ - Other
 Testifying:

@@ -10,6 +10,10 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+
 ## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system  👎1 
 
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  

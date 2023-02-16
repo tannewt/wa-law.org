@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Regulated Substances & Gaming (RSG): HB 1375 Delivery of alcohol

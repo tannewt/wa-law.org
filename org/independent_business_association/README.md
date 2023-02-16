@@ -24,8 +24,9 @@
 ## [HB 1684](/bill/2023-24/hb/1684/) - Tribes/job title reporting   ❓1
 * ❓💵 James King
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1 👎1 
 * 👎💵 James King
+* 👍💵 James King
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
 

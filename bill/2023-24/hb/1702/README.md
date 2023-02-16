@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/15 08:00 AM - Local Government (LG): HB 1702 Senior citizens local tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151498&caId=21436&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151498&caId=21436&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151498&caId=21436&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30762&aId=151498&caId=21436&tId=4)
-
-#### 13 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Eileen MackenzieSullivan - Lewis Mason Thurston Area Agency on Aging Advisory Council
 * Lynn Kimball - Washington Association of Area Agencies on Aging

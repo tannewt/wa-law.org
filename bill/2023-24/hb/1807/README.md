@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/20 01:30 PM - Transportation (TR): HB 1807 Speed safety cameras
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 0 ❓ - Other

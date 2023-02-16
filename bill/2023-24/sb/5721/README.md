@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/15 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5721 Advanced aerospace training
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151879&caId=21538&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151879&caId=21538&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151879&caId=21538&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30769&aId=151879&caId=21538&tId=4)
-
-#### 39 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Lynnette Muenzberg
 * 💵Donny Donovan - IAM 751

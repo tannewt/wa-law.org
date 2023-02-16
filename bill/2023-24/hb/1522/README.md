@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1522 Sexual misconduct/assocs.

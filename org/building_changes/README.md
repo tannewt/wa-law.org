@@ -4,7 +4,7 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 

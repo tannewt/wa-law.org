@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151928&caId=21557&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151928&caId=21557&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Eric Nelson - AFSCME Local 5297
+* Niles McDonald
 
 #### 0 👎 - Con
 

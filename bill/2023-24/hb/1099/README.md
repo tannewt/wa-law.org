@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151750&caId=21391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151750&caId=21391&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Mark Riker - Washington State Building and Construction Trades Council
 
-#### 7 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Sophia Steele - Associated Builders and Contractors
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Richard Prentke
 * Tammy Fellin - Labor & Industries

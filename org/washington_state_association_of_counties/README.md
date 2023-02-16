@@ -180,7 +180,7 @@
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
-## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍1  
+## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍2  
 * 👍💵 Paul Jewell
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  

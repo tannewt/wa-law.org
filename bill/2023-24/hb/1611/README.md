@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/21 08:00 AM - Finance (FIN): HB 1611 Local government permitting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152124&caId=21636&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152124&caId=21636&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152124&caId=21636&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152124&caId=21636&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/30 01:30 PM - Housing (HOUS): HB 1611 Local government permitting
 #### 68 👍 - Pro
 Testifying:

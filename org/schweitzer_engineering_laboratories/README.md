@@ -6,3 +6,5 @@
 * 👍💵 Bryan Ricker
 
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning   ❓1
+
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 

@@ -21,7 +21,9 @@ Testifying:
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1179 Nonconviction data/auditor
 #### 0 👍 - Pro

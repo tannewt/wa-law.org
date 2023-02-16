@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151318&caId=21495&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151318&caId=21495&tId=4)
 
-#### 169 👍 - Pro
+#### 419 👍 - Pro
 Testifying:
 * Safia Abdulle - Family childcare
 * Brittany Hartikainen
@@ -24,12 +24,19 @@ Testifying:
 * Safia Abdulle
 * Torrie Amaratunge
 * Hamdi Mohamed - Port of Seattle Commissioner
+* Ranjith Kumar Thumeti
+* Nikitha reddy Guduru
+* Anusha Poreddy
+* Sumeet Chandra
+* Lynn White
 
-#### 5 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Steve Horvath - Condo Connection
+* vian Salih
+* Rohan Khanduja
 
-#### 22 ❓ - Other
+#### 45 ❓ - Other
 Testifying:
 * vian Salih
 * 💵Krystelle Purkey - Washington State Chapter of Community Association Institute

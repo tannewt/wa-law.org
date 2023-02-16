@@ -1,0 +1,68 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1578](/bill/2023-24/hb/1578/) > [Substitute Bill](/bill/2023-24/hb/1578/S/)
+
+# HB 1578 - Wildland fire safety
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1578-S.pdf)
+
+## Section 1
+1. The legislature recognizes that, just as the forests on the east side of the state are being impacted by climate change, western Washington forests, too, are seeing increasing vulnerabilities to forest health and resilience. The frequency and severity of wildfires, resulting smoke incursions, and postfire flash floods and debris flow in areas of increasing population density are expected to intensify in the years to come, fueled by drought, pests, and disease, and increasing temperatures.
+
+2. The legislature recognizes that communities within the wildland urban interface and in areas of high or growing population density are increasingly experiencing more frequent and severe wildfires, resulting smoke exposure, flash floods, and debris flow, and that this intensifies health and safety hazards for residents, infrastructure, and ecosystems.
+
+3. The legislature finds that lives, health, and infrastructure are endangered by unplanned wildland fires, associated smoke exposure, and postwildfire debris flow hazards in Washington state. Wildland fires come with cascading and multihazard impacts on air quality and the health of our residents. Therefore, investing in wildland fire community preparedness, recovery, and resilience provides important cobenefits that will improve the health and safety of residents, infrastructure, and ecosystems in forested and nonforested areas and will reduce the economic burden on local governments, organizations, communities, and the state.
+
+4. The legislature acknowledges that public health and emergency management preparedness aligns with the state's environmental justice goals, where programming and interventions support vulnerable populations and those living in regions experiencing disproportionately high levels of wildfire, air pollutants, and smoke exposure.
+
+5. The legislature recognizes that there is a need for a comprehensive approach to public safety and health related to evacuation planning, emergency response and stabilization, creating resilience to wildfire smoke, and postfire landslide hazard identification and mitigation. A key priority during a wildfire response is engaging relevant evacuation and emergency response plans. A key priority in wildfire recovery is emergency stabilization to prevent increased damage to life, infrastructure, or natural resources, and longer-term stabilization and rehabilitation efforts may need to be continued for several years following a wildfire to prevent unacceptable and dangerous land and water degradation.
+
+6. The legislature recognizes that while smoke from wildland fires can affect individuals differently based on a multitude of different factors, the negative health effects of poor air quality are well established. A study led by the office of financial management and the department of ecology found that when air quality is categorized as "unhealthy," as compared to "good," due to wildfire smoke, there is a 24 percent increase in medical service claims related to asthma and a 12 percent increase in emergency department visits.
+
+7. The legislature finds that cross-agency emergency management planning and response that addresses wildland fires and related smoke is important to the health and safety of the residents of Washington. It is critical to provide timely smoke impact and forecast information and messaging to the public that is accessible and based on the best available science.
+
+8. The legislature recognizes that having clean and properly ventilated indoor air is important to protect the health of all residents. Those who experience acute or chronic health challenges are at greater risk of the effects of hazardous or polluted air. During wildfire events that lead to increased smoke in the ambient air, public health officials often recommend staying indoors and closing doors and windows. However, particularly on the western side of the state, many homes do not have air conditioning systems. Compared to nearly all other states, Washington homes have some of the fewest air conditioning systems. Accordingly, during the warmest days of summer, when wildfire events are most common, doors and windows are opened for ventilation purposes, which inadvertently allows smoke to enter the home and degrade indoor air quality.
+
+9. The legislature recognizes the work that the department of natural resources has done to implement RCW 76.04.505, and that, based on a robust prioritization process, the department of natural resources has focused a majority of its efforts to date on wildfire prevention and preparedness on the east side of the state.
+
+10. The legislature acknowledges that the department of natural resources' community resilience programming for community-level and property-level wildfire readiness has been successfully implemented in numerous counties throughout eastern Washington and that broadening the program statewide and incorporating smoke readiness programming will benefit communities, residents, and local governments facing growing wildfire-related risks.
+
+11. Therefore, the legislature finds that, given the increasing impacts on the rapidly growing wildland urban interface and in areas of increasing population density, the department of natural resources must now also accelerate efforts to address the threats facing them. This includes, but is not limited to, improving community preparedness, response, recovery, and resilience related to wildland fire, smoke, and postfire flash floods and debris flow.
+
+## Section 2
+1. The department must assess areas at significant risk for wildfire, by decade, for a period encompassing not less than 30 years. The assessment must include an analysis of the predicted climate influence on wildfire risk in the state and provide enough detail for landowners, the public, local governments, and tribal nations to develop strategies to address wildfire risk. The department must provide the first risk assessment to the appropriate committees of the legislature by July 1, 2025, covering a risk assessment period of July 1, 2025, through June 30, 2035. A subsequent decadal assessment is due to the appropriate committees of the legislature every 10 years thereafter. The department must also provide a mid-decade interim report to the appropriate committees of the legislature by July 1, 2030, and every 10 years thereafter.
+
+2. The department, in consultation with the Washington military department emergency management division and the Washington state patrol, must cooperate with law enforcement, Indian tribes, emergency managers at the city and county level, and local fire protection districts to develop public safety evacuation strategies for areas identified in the respective decadal assessments as facing significant risk of wildfire. The department must provide support to help incorporate wildfire evacuation strategies within existing regional and local emergency response plans. Implementation of evacuation strategies remains under the authority of local law enforcement.
+
+3. The department must lead a project to provide emergency disaster and evacuation plan messaging and information to the public at department-managed recreation and outdoor access sites. Information must be displayed in an accessible manner, including in signage at trailheads, and be relevant to the area's particular natural disaster risk profile. The department must place particular emphasis on ensuring accessibility and accommodation needs of public visitors are reflected in planning, design, and information dissemination.
+
+4. Further, the department shall:
+
+    a. Expand its community resilience and preparedness programming, for community-level and property-level wildfire readiness, and the associated supporting programs such as community resilience grants and service forestry, within the wildland urban interface in counties or regions of western Washington where risk of wildfires and smoke exposure exist as determined by the department;
+
+    b. Participate in cross-agency emergency management planning and response efforts related to wildfire smoke plans developed under chapter 38.52 RCW. The department shall incorporate smoke readiness into community resilience programming and coordinate with state, county, federal agencies, and Indian tribes to collaboratively share information and guidance for Washington communities affected by wildfire smoke. This includes providing updated wildfire information to air quality and health agencies and to the public through online information sources.
+
+        i. The department shall coordinate cross-agency and shall provide information to assess wildland fire smoke risks and impacts. Activities may include:
+
+(A) Coordinating with the department of ecology, local clean air agencies, and the United States forest service to deploy temporary air monitors to assess smoke conditions during prescribed fires and wildfires;
+
+(B) Providing information to the department of ecology to continue to improve smoke modeling and forecasting tools and support regulatory compliance;
+
+(C) Advancing science and conducting research on wildfire smoke event recurrence geographically, based on different forest types and incorporating this research into planning efforts; and
+
+(D) Information dissemination to the public through online information sources.
+
+        ii. The department shall work cross-agency to address smoke risk to transportation safety and firefighter exposure to smoke.
+
+        iii. The department, in collaboration with the departments of health and ecology, shall conduct community engagement and outreach related to wildfire smoke risks and impacts, particularly in regions of the state that experience disproportionately high levels of air contaminants and pollutants. Particular emphasis in outreach will be focused on overburdened populations, and vulnerable people, including outdoor workers, those older in age, those experiencing persistent health challenges, and those experiencing unstable housing arrangements;
+
+    c. Coordinate with state agencies, local fire protection districts, local governments, and Indian tribes to assist with the identification of smoke respite areas in high-risk communities where people can take refuge and to promote the additional utilization of community buildings that can serve as clean air and cooling centers for specific periods of time, with specific information dissemination strategies focused on vulnerable communities and persons who may not receive electronic communication;
+
+    d. Leverage community resilience programming to ensure residents and community organizations are provided information about services and programs to improve indoor air quality in the home. This may include connecting residents with their local contracted weatherization agency, which may provide home weatherization services to eligible applicants and residents. Weatherization upgrades may save energy, reduce utility costs, and improve indoor air quality;
+
+    e. By July 1, 2024, implement a postwildfire debris flow program. The department shall identify areas prone to hazards from postwildfire debris flows, assess burned areas to determine potential for increases in postwildfire debris flow hazards, improve modeling to determine triggers for postwildfire debris flow early warning for at-risk communities and infrastructure, and communicate to emergency managers, local governments, stakeholders, state agencies, and the public both for preparedness and response; and
+
+    f. By December 30, 2024, have established a structure for a state sponsored burned area emergency stabilization and response team and make recommendations regarding the appropriate number of teams needed, the funding necessary to support team deployments, and the implementation of hazard mitigation. The department shall provide capacity-building to local communities to establish local teams. The purpose of the burned area emergency stabilization and response team is to determine the need for emergency postfire treatments for public safety and resource protection. The department must consult with emergency managers, the military department, and the Washington conservation commission when developing the organizational structure of the teams established in this section.
+
+5. The department, when acting in good faith in its implementation of this section, is carrying out duties owed to the public in general and not to any individual person or class of persons separate and apart from the public. Nothing contained in this section may be construed to evidence a legislative intent that the work of preparing for, responding to, or recovering from wildfire, smoke incursions, or postfire landslides is owed to any individual person or class of persons separate and apart from the public in general. This section does not alter the department's duties and responsibilities as a landowner.
+
+## Section 3
+This act may be known and cited as the cascading impacts of wildfires act.

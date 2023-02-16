@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151979&caId=21566&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151979&caId=21566&tId=4)
 
-#### 56 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Tara Nelson - Long-time Section 8 Landlord
 * 💵Chester Baldwin - Rental Housing Coalition
+* Angela Rozmyn - Natural and Built Environments
 
-#### 68 👎 - Con
+#### 71 👎 - Con
 
 #### 0 ❓ - Other

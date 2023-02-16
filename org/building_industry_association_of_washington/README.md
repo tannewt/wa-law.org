@@ -13,6 +13,8 @@
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use  👎1 
 * 👎 Biil Stauffacher
 
+## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management  👎1 
+
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 * 👍💵 Josie Cummings
 
@@ -61,7 +63,7 @@
 ## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access 👍1  
 * 👍💵 Josie Cummings
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1 👎1 
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎2 
 

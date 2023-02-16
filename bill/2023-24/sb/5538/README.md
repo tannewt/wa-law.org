@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Ways & Means (WM): SB 5538 Postretirement/nursing

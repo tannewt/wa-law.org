@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151718&caId=21455&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151718&caId=21455&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
+* Ben Buchholz - [Darigold](/org/darigold/)
+* Case VanderMeulen - [Darigold](/org/darigold/)
+* Russ Brandt - [Darigold](/org/darigold/)
 
 #### 0 👎 - Con
 

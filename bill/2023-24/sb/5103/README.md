@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151930&caId=21559&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151930&caId=21559&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Ian Goodhew - UW Medicine
+* 💵Ian Goodhew - University of Washington Medicine
+* Katie Kolan - Washington State Hospital Association
 
 #### 0 👎 - Con
 

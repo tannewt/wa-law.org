@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1073 Medical assistants

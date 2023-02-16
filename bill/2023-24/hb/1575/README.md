@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=4)
 
-#### 147 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Darren Linker - Fremont Arts Council
 * Melissa Huggins
 * Cheryl Selby - City of Olympia - Mayor
 * Brian Carter - 4Culture
+* Kate Becker - [King County](/org/king_county/)
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* John Worthington
 
 #### 0 ❓ - Other
 

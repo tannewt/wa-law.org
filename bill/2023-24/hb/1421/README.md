@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Appropriations (APP): HB 1421 Voluntary stewardship prog.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151901&caId=21550&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151901&caId=21550&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151901&caId=21550&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151901&caId=21550&tId=4)
-
-#### 9 👍 - Pro
+#### 22 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -9,20 +9,19 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Appropriations (APP): SHB 1167 Residential housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151897&caId=21546&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151897&caId=21546&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151897&caId=21546&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151897&caId=21546&tId=4)
-
-#### 29 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Briahna Murray - [City of Bellevue](/org/city_of_bellevue/)
 
-#### 164 👎 - Con
+#### 256 👎 - Con
+Testifying:
+* Karen McIntosh
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Stoyan Bumbalov - State Building Code Council
 
 ### Thu 01/19 08:00 AM - Housing (HOUS): HB 1167 Residential housing
 #### 284 👍 - Pro

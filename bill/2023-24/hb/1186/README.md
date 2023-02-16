@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1186 Child welfare housing

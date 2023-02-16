@@ -13,6 +13,9 @@
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services   ❓1
+* ❓💵 Neil Strege
+
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
 ## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  

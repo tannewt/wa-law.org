@@ -53,6 +53,8 @@
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 * 👍💵 Kristin Ang
 
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍3  

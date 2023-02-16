@@ -8,20 +8,15 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Appropriations (APP): HB 1260 Work-limiting disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151898&caId=21547&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151898&caId=21547&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151898&caId=21547&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30750&aId=151898&caId=21547&tId=4)
-
-#### 170 👍 - Pro
+#### 303 👍 - Pro
 Testifying:
 * Anna Aylward - Department of Social and Health Services
 * Babs Roberts - Department of Social and Health Services
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Babs Roberts - Department of Social and Health Services
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

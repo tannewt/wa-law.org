@@ -11,7 +11,7 @@
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍 Preston Peck
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  

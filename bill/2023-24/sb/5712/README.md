@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30770&aId=151884&caId=21540&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30770&aId=151884&caId=21540&tId=4)
 
-#### 19 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Dr Bernal Baca
 * Angelita Cervantes - Community for our College
 * 💵Karen Strickland - AFT Washington
+* Jacob Vigdor - University of Washington Faculty/Council of Faculty
+* 💵Hyeeun Park - BIPOC Executive Directors Coalition
+* 💵William Daley - Communities for Our Colleges
+* Nancy Chamberlain - Washington State PTA
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

@@ -44,6 +44,9 @@
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
 * 👍💵 Morgan Hickel
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+* 👍 Joe Dacca
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
@@ -57,7 +60,7 @@
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
 * 👍 Hoa Appel
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍4  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
 
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 * 👍 Nancy Connolly

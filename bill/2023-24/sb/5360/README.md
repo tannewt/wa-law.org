@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151723&caId=21510&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151723&caId=21510&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Scott Goodrich - Old Dominion Freight Lines Inc.
@@ -22,6 +22,6 @@ Testifying:
 * Tim Vander Pol - Peninsula Truck Lines Inc.
 * Todd Walburn - United Parcel Service
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

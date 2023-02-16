@@ -8,21 +8,18 @@
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Transportation (TR): HB 1651 Infraction debt
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30730&aId=151438&caId=21451&tId=4)
-
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Shaun Scott
 * Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Julia Kellison
+* Joe DePinto - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Kelsi Hamilton - WA Collectors Assoc
 * Mindy Chumbley - WA Collectors Assoc.
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Thad Duvall - Washington State Association of County Auditors

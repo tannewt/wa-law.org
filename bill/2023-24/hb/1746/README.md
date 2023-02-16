@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1746 State broadband map

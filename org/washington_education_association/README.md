@@ -63,6 +63,8 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  
@@ -299,7 +301,7 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍1  
+## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍2  
 
 ## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍1  
 
@@ -478,5 +480,5 @@
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
-## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages  👎1 
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages  👎2 
 * 👎 Sue Nightingale

@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 2 👎 - Con
+#### 41 👎 - Con
+Testifying:
+* 💵Stacy Dym - The Arc of Washington State
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

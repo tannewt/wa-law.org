@@ -128,7 +128,7 @@
 ## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
 * 👍 Emily Shay
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen.  👎1 
 * 👎💵 Peter Godlewski
@@ -218,10 +218,14 @@
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍 Emily Shay
 
+## [HB 1786](/bill/2023-24/hb/1786/) - Milk product haulers 👍1  
+
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax  👎1 
 * 👎 Emily Shay
+
+## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 

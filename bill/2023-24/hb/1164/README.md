@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30768&aId=151738&caId=21404&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30768&aId=151738&caId=21404&tId=4)
 
-#### 166 👍 - Pro
+#### 173 👍 - Pro
+Testifying:
+* 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 
-#### 1 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Megan Warfield - WA State Department of Ecology
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)

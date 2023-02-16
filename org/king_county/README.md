@@ -20,6 +20,8 @@
 
 ## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍1  
 
+## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
+
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -27,7 +29,8 @@
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
+* 👍 Pat McLaughlin
 * 👍 Pat McLaughlin
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
@@ -36,6 +39,8 @@
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
 
@@ -183,7 +188,8 @@
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍1  
 
-## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍2  
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍3  
+* 👍 Kate Becker
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍1  
 * 👍 MICHAEL MURPHY
@@ -196,6 +202,8 @@
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
+
+## [HB 1709](/bill/2023-24/hb/1709/) - Commerce housing programs 👍1  
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 

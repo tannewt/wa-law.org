@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1447 Assistance programs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/01 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1447 Assistance programs
 #### 132 👍 - Pro
 Testifying:

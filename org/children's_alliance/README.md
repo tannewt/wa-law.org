@@ -6,6 +6,8 @@
 
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
+## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
+
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
@@ -21,7 +23,7 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 

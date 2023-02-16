@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151906&caId=21555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151906&caId=21555&tId=4)
 
-#### 2 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Amy Yount
+* Chris Love - Washington State Association for Justice
+* Courtney Butler
+* Darrell Cochran - Washington State Association for Justice
+* Kathryn Robb - CHILD USAdvocacy
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Cary Silveman - American Tort Reform Association
 
 #### 1 ❓ - Other
 Testifying:

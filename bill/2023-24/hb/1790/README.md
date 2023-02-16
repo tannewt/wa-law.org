@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30782&aId=151582&caId=21441&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30782&aId=151582&caId=21441&tId=4)
 
-#### 4 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Councilmember Keith Blocker - [City of Tacoma](/org/city_of_tacoma/)
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
+* 💵Albert Sardinas - WBBA
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Sheley Anderson - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Sheley Anderson - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)

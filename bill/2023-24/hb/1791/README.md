@@ -14,19 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=4)
 
-#### 113 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * scott lay
 * Patricia Byers - Councilmember, City of Yakima
+* 💵Davor Gjurasic - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 
-#### 15 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Melonie Rockwell
 * Dylan Orion
 * Ursula Euler
 * Bennett Butters
+* Dawn Sonntag - Stop the Airport
+* Jean Shaffer
+* jim russell - retired
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Mary Cebell
+* James Pierson
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)

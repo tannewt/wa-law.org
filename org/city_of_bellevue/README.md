@@ -9,6 +9,9 @@
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 * 👍 Lacey Jane Wolfe
 
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+* 👍💵 Briahna Murray
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
@@ -51,3 +54,5 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍 Lacey Jane Wolfe
+
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
