@@ -9,17 +9,13 @@
 
 ## Meetings
 ### Thu 02/16 01:30 PM - Finance (FIN): SHB 1425 Municipal annexations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151419&caId=21411&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151419&caId=21411&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151419&caId=21411&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151419&caId=21411&tId=4)
-
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Dave Somers - Snohomish County Executive
 * Megan Dunn - Snohomish County Council
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brian Enslow - Cities of Vancouver, Lacey, and Ferndale
+* 💵Carl Schroeder
 
 #### 1 👎 - Con
 

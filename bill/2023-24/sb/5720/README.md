@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5720 Risk mitigation

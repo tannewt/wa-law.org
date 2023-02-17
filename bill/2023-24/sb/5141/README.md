@@ -9,18 +9,13 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5141 WMS bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151928&caId=21557&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151928&caId=21557&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151928&caId=21557&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151928&caId=21557&tId=4)
-
-#### 15 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Eric Nelson - AFSCME Local 5297
 * Niles McDonald
+* 💵Brandon Anderson - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

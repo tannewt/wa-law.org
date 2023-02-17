@@ -82,6 +82,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
+
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  

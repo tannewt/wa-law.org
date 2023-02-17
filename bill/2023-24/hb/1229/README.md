@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/07 01:30 PM - State Government & Tribal Relations (SGOV): HB 1229 Voter registration

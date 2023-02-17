@@ -9,18 +9,12 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1445 Law enf. misconduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151904&caId=21553&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151904&caId=21553&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151904&caId=21553&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151904&caId=21553&tId=4)
-
-#### 406 👍 - Pro
+#### 441 👍 - Pro
 Testifying:
 * Jonathan Smith - Washington Lawyers’ Committee
 * Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

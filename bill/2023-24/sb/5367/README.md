@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152199&caId=21591&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152199&caId=21591&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * Megan Moore - WA State Public Health Association
 * 💵Ezra Eickmeyer - Producers NW
+* Justin Nordhorn - Washington State Liquor and Cannabis Board
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Bonny Jo Peterson - Industrial Hemp Association of WA
 

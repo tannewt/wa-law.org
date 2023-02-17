@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/09 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5709 Irrigation dist. elections

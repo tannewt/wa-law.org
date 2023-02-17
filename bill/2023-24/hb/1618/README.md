@@ -9,21 +9,19 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1618 Childhood sexual abuse/SOL
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151906&caId=21555&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151906&caId=21555&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151906&caId=21555&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151906&caId=21555&tId=4)
-
-#### 67 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Amy Yount
 * Chris Love - Washington State Association for Justice
 * Courtney Butler
 * Darrell Cochran - Washington State Association for Justice
 * Kathryn Robb - CHILD USAdvocacy
+* Kathryn Robb - CHILD USAdvocacy
+* Renee Williams - National Crime Victim Bar Association
+* 💵Larry Shannon - Washington State Association for Justice
+* Riddhi Mukhopadhyay - Sexual Violence Law Center
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Cary Silveman - American Tort Reform Association
 

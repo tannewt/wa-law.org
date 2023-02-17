@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
 #### 0 👎 - Con
 

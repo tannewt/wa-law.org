@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151683&caId=21423&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151683&caId=21423&tId=4)
 
-#### 574 👍 - Pro
+#### 832 👍 - Pro
 Testifying:
 * Laurie A Layne
 * Ashlee Barnes
@@ -26,12 +26,21 @@ Testifying:
 * Jamie Jo Hiles
 * Talonna Hanft
 * Shayna Richard - Light The Way Missing Persons Advocacy Project
+* Eric pratt - America
+* Gregory MacPherson
+* Christina Faucett
 
-#### 247 👎 - Con
+#### 291 👎 - Con
 Testifying:
 * Pier Petersen
 * Katrina Thiessen
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Bill Jones
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Dr. Susan Stoner - Parent Child Assistance Program
+* Rhiannon Bowen - Parent 4 Parent
+* Toni Gardner - Parent Child Assistance Program
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Patrick Dowd - Washington State Office of the Family & Children's Ombuds

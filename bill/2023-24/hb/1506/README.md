@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Thu 02/16 01:30 PM - Capital Budget (CB): HB 1506 DSHS leases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151752&caId=21393&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151752&caId=21393&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151752&caId=21393&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151752&caId=21393&tId=4)
+#### 3 👍 - Pro
 
-#### 2 👍 - Pro
-
-#### 41 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * 💵Stacy Dym - The Arc of Washington State
 

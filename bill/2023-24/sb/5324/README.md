@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SB 5324 Defense compatibility acct.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151817&caId=21531&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151817&caId=21531&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151817&caId=21531&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151817&caId=21531&tId=4)
-
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * Dave Andersen - Washington Department of Commerce
 * Albert Tripp - [City of Airway Heights](/org/city_of_airway_heights/)
+* 💵Holly Cocci - [City of Airway Heights](/org/city_of_airway_heights/)
 
 #### 0 👎 - Con
 

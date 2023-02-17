@@ -5,7 +5,7 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
 * 👍 Dr. Angela Ross
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍1  

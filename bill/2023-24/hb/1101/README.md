@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/16 08:00 AM - Law & Justice (LAW): SHB 1101 Tenant screening/communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151315&caId=21492&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151315&caId=21492&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151315&caId=21492&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151315&caId=21492&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Krystelle Purkey - Washington State Chapter of Community Association Institute
 

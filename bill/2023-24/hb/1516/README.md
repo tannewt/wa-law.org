@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/08 01:30 PM - State Government & Tribal Relations (SGOV): HB 1516 Lunar new year

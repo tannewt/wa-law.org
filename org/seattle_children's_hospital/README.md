@@ -16,6 +16,8 @@
 * 👍💵 Jonathan Seib
 * 👍💵 Hugh Ewart
 
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍1  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  

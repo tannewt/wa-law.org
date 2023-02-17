@@ -62,7 +62,7 @@
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍2  
 * 👍💵 Cindy Black
 
-## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
+## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
@@ -89,6 +89,8 @@
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 

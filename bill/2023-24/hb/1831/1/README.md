@@ -1,0 +1,49 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1831](/bill/2023-24/hb/1831/) > [Original Bill](/bill/2023-24/hb/1831/1/)
+
+# HB 1831 - Ferries/workforce shortages
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1831.pdf)
+
+## Section 1
+Washington's marine highways provide vital transportation links between communities. Citizens, businesses, and visitors depend on the state's ferry system to provide safe, dependable auto and passenger service to conduct daily life and commerce activities. The legislature finds that in October 2021, the ferry system adopted an alternative service plan to recognize the lack of availability of staff to meet the United States coast guard requirements for crewing vessels. Even with this plan, service reliability dropped below 95 percent, reflecting the continued struggle of the ferry system to meet crewing requirements. The legislature further finds that the recommendations of the joint transportation committee study on ferry workforce planning, completed in December 2022, provide a pathway for addressing workforce challenges, addressing recruitment, hiring, training, employee development, and succession planning. To be successful, this recommended pathway must integrate into every step of implementation the need for new, equitable systems to achieve a workforce that is inclusive and representative of the diversity of Washington's labor force. The legislature intends to assist the Washington state ferries to meet its workforce challenges, providing resources for implementing employee recruitment, hiring, training, and retention initiatives.
+
+## Section 2
+For the purpose of increasing the capacity of human resources functions available to the Washington state ferries as it works to address its staffing shortage:
+
+1. The department shall contract out for the administration of human resources management for the Washington state ferries. To the extent practicable, all functions of human resources management for the Washington state ferries must be performed under the contract including, but not limited to, outreach and recruitment, hiring processes, applicant assistance, workforce planning, employee engagement, and employee retention.
+
+2. The Washington state ferries shall adopt a formal strategy to implement diversity, equity, and inclusion as an essential part of its implementation of the recommendations of the 2022 joint transportation committee study on ferry workforce planning. The consultant contract for human resources management required in this section must include a specific requirement to develop this strategy.
+
+3. The competitive procurement process must select and hire an independent, expert consultant with a background in the incorporation of diversity, equity, and inclusion principals in human resources management.
+
+## Section 3
+1. The legislature finds that the maritime training academy at Seattle Central Community College is a United States coast guard approved training program that prepares the next generation of skilled mariners to fill vital roles in all sectors of the maritime industry, including Washington state ferries. Yet, despite the aging of the maritime workforce and dramatic rise in entry-level job openings in the maritime industry, enrollments remain low and the program is not achieving its full potential. The legislature also finds that the increasing diversity of community and technical college students are a valuable resource for the maritime industry, which has not historically provided career opportunities to people from nonmaritime backgrounds, women, black, indigenous, or other people of color. The legislature intends to maximize the impact of this valuable training program by focusing its efforts on meeting the training needs of the Washington state ferries.
+
+2. Management and operation of the Seattle maritime training academy is assigned to the Washington state ferries division of the Washington state department of transportation to meet the workforce needs of the ferries division as well as the maritime industry generally. The director of the Seattle maritime training academy reports to the Washington state department of transportation assistant secretary for the Washington state ferries. The director shall manage the activities and logistics of operating the center, make policy and planning recommendations to the assistant secretary for the Washington state ferries, and implement decisions of the assistant secretary.
+
+3. Seattle Central Community College shall retain responsibility for infrastructure preservation and improvement for academy facilities.
+
+4. Seattle Central Community College and the Washington state ferries division must establish regular protocols for coordinating operations and maintenance of the training programs and facilities, long-range and strategic planning for training needs, and collaboration with the community served.
+
+5. [Empty]
+
+    a. The Washington state ferries division of the Washington state department of transportation shall assume leadership of the Seattle maritime training academy upon completion and approval by the legislature of a joint plan created with Seattle Central Community College for the transfer of the management of operations of the academy that includes:
+
+        i. Details of management structure and allocation of responsibilities;
+
+        ii. A schedule of the transfer of management of the operation of the academy;
+
+        iii. Assurances of the continued accreditation of the maritime training programs;
+
+        iv. Strategies for increasing enrollments and optimizing the value of the academy's training programs for the Washington state ferries division of the Washington state department of transportation;
+
+    v. Strategies for increasing enrollments of people who have not traditionally been employed in the maritime sector;
+
+    vi. A draft interagency agreement or other memorandum of understanding needed to implement the transfer of management of the operation of the maritime training academy; and
+
+    vii. A multibiennium budget that addresses both operating expenses and distribution of tuition revenues required to effectively implement the joint plan.
+
+    b. The joint plan must be completed by December 1, 2023, and submitted to the appropriate committees of the legislature for review. The plan shall be considered approved if specific appropriations are made in the 2024 supplemental transportation appropriations act for this specific purpose. The transfer of the responsibility for the management and operation of the Seattle maritime training academy to the Washington state ferries division of the Washington state department of transportation must occur by July 1, 2024.
+
+## Section 4
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.

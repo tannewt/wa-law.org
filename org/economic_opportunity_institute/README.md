@@ -32,7 +32,8 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
@@ -53,4 +54,7 @@
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5507](/bill/2023-24/sb/5507/) - Tenure-track faculty 👍1  
+* 👍💵 Carolyn Brotherton
+
+## [SB 5712](/bill/2023-24/sb/5712/) - College grant/promise prg. 👍1  
 * 👍💵 Carolyn Brotherton

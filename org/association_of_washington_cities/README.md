@@ -13,6 +13,9 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
+* ❓ Brandy DeLange
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 * ❓💵 Carl Schroeder
 

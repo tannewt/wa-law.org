@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5729 Insulin cost-sharing cap

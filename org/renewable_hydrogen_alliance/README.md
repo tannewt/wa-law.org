@@ -6,7 +6,7 @@
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 * 👍 Dave Arbaugh
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel cells 👍1  
+## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 * 👍 Michelle Detwiler
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport. 👍1  

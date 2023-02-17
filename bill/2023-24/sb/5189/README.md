@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5189 Behavioral health support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151933&caId=21562&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151933&caId=21562&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151933&caId=21562&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151933&caId=21562&tId=4)
-
-#### 62 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

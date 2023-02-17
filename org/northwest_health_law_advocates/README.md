@@ -11,7 +11,7 @@
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 * 👍💵 Ann Vining
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
 
 ## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing 👍1  
 
@@ -26,7 +26,7 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 

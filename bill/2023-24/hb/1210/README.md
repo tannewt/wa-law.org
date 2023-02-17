@@ -16,15 +16,16 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Jason Perrins - Chewelah SD
 * Brett Baum - Rosalia School District
 * Brett Baum - Great Northern School District
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Joe Kunzler - None
+* Milinganyo Byakumbu - Congolese integration network
 
 ### Tue 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 1210 School board recordings
 #### 3 👍 - Pro

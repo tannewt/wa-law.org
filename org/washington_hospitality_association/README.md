@@ -35,6 +35,8 @@
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
 * 👎💵 Julia Gorton
 
+## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth.  👎1 
+
 ## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍1  
 * 👍💵 Julia Gorton
 

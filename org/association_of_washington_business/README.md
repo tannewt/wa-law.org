@@ -234,7 +234,7 @@
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel cells 👍1  
+## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy   ❓1
 * ❓💵 Peter Godlewski
@@ -301,6 +301,9 @@
 * 👎 Mike Ennis
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
+
+## [SB 5360](/bill/2023-24/sb/5360/) - Vehicle combinations 👍1  
+* 👍 Mike Ennis
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍1  
 

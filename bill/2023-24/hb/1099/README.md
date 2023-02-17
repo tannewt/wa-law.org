@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/16 01:30 PM - Capital Budget (CB): HB 1099 Public works wages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151750&caId=21391&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151750&caId=21391&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151750&caId=21391&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30806&aId=151750&caId=21391&tId=4)
-
-#### 11 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Mark Riker - Washington State Building and Construction Trades Council
 
@@ -22,10 +16,14 @@ Testifying:
 Testifying:
 * 💵Sophia Steele - Associated Builders and Contractors
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Richard Prentke
 * Tammy Fellin - Labor & Industries
+* 💵Axel Swanson - Washington Association of Counties
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Christine Brewer - The Associated General Contractors of Washington
 
 ### Wed 01/11 08:00 AM - Labor & Workplace Standards (LAWS): HB 1099 Public works wages
 #### 0 👍 - Pro

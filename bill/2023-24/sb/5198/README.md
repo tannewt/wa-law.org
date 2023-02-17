@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/18 01:30 PM - Housing (HSG): SB 5198 Mobile home community sales

@@ -111,7 +111,7 @@
 
 ## [HB 1355](/bill/2023-24/hb/1355/) - Updating property tax exemptions for service-connected disabled veterans and senior citizens. 👍1  
 
-## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍1  
+## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍2  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
@@ -188,11 +188,14 @@
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍1  
 
-## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍3  
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍5  
 * 👍 Kate Becker
 
-## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍1  
+## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 * 👍 MICHAEL MURPHY
+* 👍 MICHAEL MURPHY
+
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
@@ -213,6 +216,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services  👎1 
+
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
@@ -230,11 +235,11 @@
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 
 ## [SB 5100](/bill/2023-24/sb/5100/) - Breast & chest wall surgery 👍1  
 
-## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
+## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
@@ -263,7 +268,7 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
+## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍3  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Michael White
@@ -287,7 +292,7 @@
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍7  
 * 👍 April Putney

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1457 Motor carriers/restrooms
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151905&caId=21554&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151905&caId=21554&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151905&caId=21554&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151905&caId=21554&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Ryan Johnson
 * Jeff DeVere - Washington Trucking Associations

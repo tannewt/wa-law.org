@@ -10,7 +10,7 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 

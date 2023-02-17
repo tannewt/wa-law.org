@@ -16,6 +16,11 @@
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services   ❓1
 * ❓💵 Neil Strege
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+* 👍💵 Neil Strege
+
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
+
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
 ## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  

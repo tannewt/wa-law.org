@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5103 Medicaid patients/discharge
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151930&caId=21559&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151930&caId=21559&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151930&caId=21559&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30724&aId=151930&caId=21559&tId=4)
-
-#### 15 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Ian Goodhew - UW Medicine
 * 💵Ian Goodhew - University of Washington Medicine
@@ -23,9 +17,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Loren Freeman - Freeman & Associates
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Tue 01/17 08:00 AM - Health & Long Term Care (HLTC): SB 5103 Medicaid patients/discharge
 #### 26 👍 - Pro

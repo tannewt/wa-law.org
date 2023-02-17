@@ -5,6 +5,8 @@
 * 👍 Eryn Duffee
 * 👍💵 Carolyn Logue
 
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax 👍1  
+
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  

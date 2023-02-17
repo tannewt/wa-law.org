@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151684&caId=21424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30797&aId=151684&caId=21424&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Melissa Upson
 
-#### 18 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 #### 0 ❓ - Other

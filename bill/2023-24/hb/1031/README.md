@@ -20,7 +20,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bigi Ruhigita - Congolese I intégration network
 
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1031 Medal of valor award
 #### 0 👍 - Pro

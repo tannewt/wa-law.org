@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Transportation (TRAN): SB 5401 Motorcycles on laned roads
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151724&caId=21511&tId=4)
-
-#### 85 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Patrick Taggart
 * Larry Walker - ABATE of WA
@@ -23,7 +17,7 @@ Testifying:
 * Adalinda Lundt - ABATE of Washington
 * Alex Randall
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

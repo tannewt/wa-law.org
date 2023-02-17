@@ -8,6 +8,8 @@
 
 ## [HB 1386](/bill/2023-24/hb/1386/) - Youth development grants 👍1  
 
+## [HB 1418](/bill/2023-24/hb/1418/) - Charter schools/enrichment 👍2  
+
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  

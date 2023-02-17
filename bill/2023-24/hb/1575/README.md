@@ -8,23 +8,25 @@
 
 ## Meetings
 ### Thu 02/16 01:30 PM - Finance (FIN): HB 1575 Cultural access programs/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151422&caId=21414&tId=4)
-
-#### 158 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Darren Linker - Fremont Arts Council
 * Melissa Huggins
 * Cheryl Selby - City of Olympia - Mayor
 * Brian Carter - 4Culture
 * Kate Becker - [King County](/org/king_county/)
+* Shawn Roberts - Arts Corps
+* Manuel Cawaling - Inspire Washington
+* Dylan High - Greater Kent Historical Society
+* Holly Jacobson - Path with Art
+* Claudia Balducci - King County Council member
+* Bennyroyce Royon - Bennyroyce Dance
+* Tonieh Thompson
 
-#### 8 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * John Worthington
+* Eric VanderWaal
 
 #### 0 ❓ - Other
 

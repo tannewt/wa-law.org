@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/02 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5491 Residential building exits

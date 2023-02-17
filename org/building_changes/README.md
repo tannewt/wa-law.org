@@ -17,7 +17,7 @@
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 * 👍💵 Megan Veith
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
@@ -28,7 +28,7 @@
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
 
-## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
+## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍2  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

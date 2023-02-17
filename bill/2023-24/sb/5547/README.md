@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5547 Nursing pool transparency

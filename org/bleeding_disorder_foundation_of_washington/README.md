@@ -11,7 +11,7 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
@@ -23,7 +23,8 @@
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+* 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  

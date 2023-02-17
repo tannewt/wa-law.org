@@ -116,6 +116,9 @@
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
+* 👍💵 Paul Jewell
+
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [HB 1702](/bill/2023-24/hb/1702/) - Senior citizens local tax 👍1  

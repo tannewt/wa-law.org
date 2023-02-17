@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Thu 02/16 01:30 PM - Finance (FIN): HB 1510 Community preservation auth.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30744&aId=151420&caId=21412&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson
 * Joël Tan - Wing Luke Museum
 * Kathleen Johnson - [Historic South Downtown](/org/historic_south_downtown/)
 
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Amber Carter - Seattle Mariners
 * Emily Shay - Association of Washington Buisness

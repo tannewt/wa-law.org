@@ -15,13 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152216&caId=21608&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152216&caId=21608&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Rick Gilbert - Kitsap County Solid Waste Division
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Charlie Brown - Consumer Technology Association
 
 ### Tue 01/24 01:30 PM - Environment, Energy & Technology (ENET): SB 5144 Batteries/environment
 #### 337 👍 - Pro

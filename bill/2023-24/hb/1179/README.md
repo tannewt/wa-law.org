@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/16 08:00 AM - Law & Justice (LAW): HB 1179 Nonconviction data/auditor
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151317&caId=21494&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151317&caId=21494&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151317&caId=21494&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30725&aId=151317&caId=21494&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Sadie Armijo - Office of the Washington State Auditor
 * 💵Scott Nelson - Office of the Washington State Auditor

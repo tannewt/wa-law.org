@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): HB 1407 Dev. disability/eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151903&caId=21552&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151903&caId=21552&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151903&caId=21552&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30751&aId=151903&caId=21552&tId=4)
-
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Diana Stadden - The Arc of WA State

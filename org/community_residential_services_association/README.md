@@ -1,6 +1,6 @@
 # Community Residential Services Association
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 * 👍 Scott Livengood
 
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  

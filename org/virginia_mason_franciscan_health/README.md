@@ -4,7 +4,7 @@
 
 ## [HB 1271](/bill/2023-24/hb/1271/) - Organ transport vehicles 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍1  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
 
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
@@ -23,7 +23,7 @@
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎2 
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎3 
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎1 
 

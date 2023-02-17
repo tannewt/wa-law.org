@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Transportation (TR): HB 1791 Commercial aviation services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30731&aId=151719&caId=21456&tId=4)
-
-#### 123 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * scott lay
 * Patricia Byers - Councilmember, City of Yakima
+* David Ortman
 * 💵Davor Gjurasic - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
+* James Halmo
 
-#### 31 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Melonie Rockwell
 * Dylan Orion
@@ -30,9 +26,14 @@ Testifying:
 * Dawn Sonntag - Stop the Airport
 * Jean Shaffer
 * jim russell - retired
+* Kym Anton - Enumclaw Plateaul Community Association - Airpoprt Opposition - SAVE The Plateau
+* Laura Orion
+* Jason Wilson
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Mary Cebell
 * James Pierson
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Mary Kline
+* Steven Breaux - Washington State Department of Transportation

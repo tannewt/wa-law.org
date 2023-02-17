@@ -10,6 +10,9 @@
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
+* ❓ Chris Herman
+
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
@@ -34,6 +37,8 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures   ❓1
 * ❓💵 John Stuhlmiller
+
+## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍1  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 eric ffitch
@@ -67,10 +72,12 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 * 👎 Eric ffitch
 
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel cells 👍1  
+## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
 
@@ -130,4 +137,4 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
 * 👎 Eric ffitch
 
-## [SB 5726](/bill/2023-24/sb/5726/) - Construction workers   ❓1
+## [SB 5726](/bill/2023-24/sb/5726/) - Prevailing wage/public works   ❓1

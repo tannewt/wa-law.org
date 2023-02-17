@@ -37,6 +37,8 @@
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 * 👍💵 Roz Thompson
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
 * 👍💵 Roz Thompson
 

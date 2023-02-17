@@ -9,6 +9,9 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
+## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
+* 👍💵 Heather Trim
+
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 * 👍💵 Heather Trim
 
@@ -24,7 +27,8 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  

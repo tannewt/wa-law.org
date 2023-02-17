@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=4)
 
-#### 4 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * T. Scott Brandon - Olympic Peninsula Community Clinic
+* Dana Ralph - Mayor of the City of Kent
 
-#### 2 👎 - Con
+#### 444 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bob Cooper - WA Association of Drug Courts
 

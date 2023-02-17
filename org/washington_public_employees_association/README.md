@@ -46,7 +46,7 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍1  
+## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍2  
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 

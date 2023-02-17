@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/10 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1743 Employee ownership

@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Transportation (TRAN): SB 5360 Vehicle combinations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151723&caId=21510&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151723&caId=21510&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151723&caId=21510&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30788&aId=151723&caId=21510&tId=4)
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Scott Goodrich - Old Dominion Freight Lines Inc.
 * 💵Sheri Call - Washington Trucking Associations
 * Tim Vander Pol - Peninsula Truck Lines Inc.
 * Todd Walburn - United Parcel Service
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 5 👎 - Con
+#### 124 👎 - Con
+Testifying:
+* Mike Responte - Teamsters 174
+* Kris Debuck - Teamsters
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -9,4 +9,4 @@
 
 ## [HB 1634](/bill/2023-24/hb/1634/) - Residential insurance 👍1  
 
-## [SB 5598](/bill/2023-24/sb/5598/) - Horse racing/funding  👎1 
+## [SB 5598](/bill/2023-24/sb/5598/) - Horses/funding  👎1 

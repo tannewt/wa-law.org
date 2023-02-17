@@ -15,9 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=4)
 
-#### 0 👍 - Pro
+#### 156 👍 - Pro
+Testifying:
+* Sol Villarreal
 
-#### 0 👎 - Con
+#### 34 👎 - Con
+Testifying:
+* Kevin Wallace - Wallace Properties, Inc.
+* Tim Eyman - Concerned Taxpayer
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tim Eyman
 
 #### 0 ❓ - Other
 

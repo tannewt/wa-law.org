@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5448 Delivery of alcohol

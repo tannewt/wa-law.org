@@ -16,13 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=152038&caId=21586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=152038&caId=21586&tId=4)
 
-#### 12 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Robert Pantley - Natural and Built Environments
+* 💵Greg Hanon - NAIOP
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Carl Schroeder
+* Kristen Holdsworth - City of Kent, Long Range Planner
+* 💵Briahna Murray - Cities of Bellevue and Redmond
 
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1042 Use of existing buildings
 #### 0 👍 - Pro

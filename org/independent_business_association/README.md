@@ -24,6 +24,8 @@
 ## [HB 1684](/bill/2023-24/hb/1684/) - Tribes/job title reporting   ❓1
 * ❓💵 James King
 
+## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1 👎1 
 * 👎💵 James King
 * 👍💵 James King

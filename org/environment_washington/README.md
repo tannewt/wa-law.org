@@ -14,3 +14,5 @@
 * 👍 Pam Clough
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  

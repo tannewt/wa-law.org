@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151980&caId=21567&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151980&caId=21567&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Tedd Kelleher - Department of Commerce
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/26 08:00 AM - Housing (HOUS): HB 1367 Homeless funding
 #### 5 👍 - Pro

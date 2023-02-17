@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1590 Oversight board for DCYF

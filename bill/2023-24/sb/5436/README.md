@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Law & Justice (LAW): SB 5436 Firearm transfers to museums

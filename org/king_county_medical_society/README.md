@@ -4,7 +4,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Modernizing the prior authorization process. 👍2  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍2  
 * 👍 Teresa Dr. Girolami
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
@@ -20,4 +20,4 @@
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1  
 
-## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍2  

@@ -100,7 +100,7 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment   ❓1
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓1
 * ❓💵 Mark Johnson
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1
@@ -149,7 +149,7 @@
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
 
 ## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply 👍1  
 * 👍💵 Mark Johnson
