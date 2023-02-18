@@ -43,12 +43,12 @@
 ## [SB 5245](/bill/2023-24/sb/5245/) - Biosolids   ❓1
 * ❓💵 Heather Trim
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 
 ## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
 * 👍💵 Heather Trim
 
-## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍1  
+## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍2  
 * 👍💵 Heather Trim
 
 ## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍2  

@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152208&caId=21600&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152208&caId=21600&tId=4)
 
-#### 2 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Tom Davis - Veterans Legislative Coalition (VLC)
+* Adam Diersing - The Council of State Governments
+* Tammie Perreault - Department of Defense
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

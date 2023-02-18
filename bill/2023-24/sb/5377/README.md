@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152313&caId=21683&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152313&caId=21683&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Becca Burghardi - Northwest Cannabis Solutions
+* Lukas Hunter - Harmony Farms
 
 #### 0 👎 - Con
 

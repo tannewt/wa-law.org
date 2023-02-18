@@ -90,6 +90,8 @@
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc. 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 

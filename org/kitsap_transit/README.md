@@ -5,7 +5,7 @@
 ## [HB 1334](/bill/2023-24/hb/1334/) - PTBA aquatic lands access 👍2  
 * 👍 John Clauson
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 

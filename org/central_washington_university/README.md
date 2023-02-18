@@ -3,7 +3,8 @@
 ## [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
@@ -14,6 +15,9 @@
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
+* 👍 Steve DuPont
+
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 * 👍 Steve DuPont
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  

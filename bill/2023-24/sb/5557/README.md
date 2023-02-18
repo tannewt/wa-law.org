@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/15 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5557 Part-time faculty pay

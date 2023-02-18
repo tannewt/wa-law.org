@@ -28,10 +28,13 @@
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 * 👍 Mayor, Victoria Woodards
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Council Member, John Hines
+* 👍 Councilmember John Hines
 
 ## [HB 1648](/bill/2023-24/hb/1648/) - Ticket sales   ❓1
+
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍2  
 
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
 * 👍 Councilmember Keith Blocker
@@ -46,7 +49,7 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 * 👍 Preston Peck
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
@@ -73,7 +76,7 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
 * 👍 Mayor Victoria Woodards
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  

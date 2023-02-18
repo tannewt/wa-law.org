@@ -57,7 +57,7 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 

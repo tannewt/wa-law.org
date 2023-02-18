@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5389 Optometry

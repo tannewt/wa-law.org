@@ -1,6 +1,6 @@
 # Washington Association of Land Trusts
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 

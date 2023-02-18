@@ -202,6 +202,9 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Sunaree Marshall
 
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
+* 👍💵 Michael White
+
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
 ## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
@@ -264,6 +267,8 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Michael White
 
+## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
+
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
@@ -311,6 +316,8 @@
 
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
 
+## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
+
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍2  
 
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
@@ -330,7 +337,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1  
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Sarah Ross-Viles
 
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍1  
@@ -378,6 +385,8 @@
 
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍1  
 
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
@@ -392,6 +401,8 @@
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
+
+## [SB 5696](/bill/2023-24/sb/5696/) - Concerning eligibility for participation in the public employees' benefits board for retired or disabled employees of counties, municipalities, and other political subdivisions. 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 

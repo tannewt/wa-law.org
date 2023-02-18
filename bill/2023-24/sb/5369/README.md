@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152213&caId=21605&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152213&caId=21605&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - Inland Empire Paper Company
 
 #### 0 👎 - Con
 

@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152206&caId=21598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152206&caId=21598&tId=4)
 
-#### 39 👍 - Pro
+#### 69 👍 - Pro
+Testifying:
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
 #### 0 👎 - Con
 

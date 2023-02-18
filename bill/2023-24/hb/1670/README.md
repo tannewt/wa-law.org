@@ -14,10 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=4)
 
-#### 2 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Michael White - [King County](/org/king_county/)
+* Breean Beggs - Council President, City of Spokane City Council
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Councilmember Lisa Parshley - Olympia City Council
+* Gretchen Caserotti - Pierce County Library System
+* Hunter George - Metro Parks Tacoma and Washington Recreation and Park Association
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* Amy Ockerlander - Mayor, City of Duvall & Secretary, Assoc. of Washington Cities
+* David Baker - Councilmember, City of Kenmore
+* Marla Keethler - Mayor, City of White Salmon
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

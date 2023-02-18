@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/17 08:00 AM - State Government & Elections (SGE): SB 5641 African heritage week
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=152196&caId=21588&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=152196&caId=21588&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=152196&caId=21588&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=152196&caId=21588&tId=4)
-
-#### 107 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Martha Foster Lucas - Washington State Coalition of African Community Leaders
 * Francoise Milinganyo - Congolese Integration Network
@@ -28,8 +22,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Awa Drammeh - Pacific Northwest Seattle Gambian Association
 * Emijah Smith
 * Veronica Gichuki - Northwest
+* Bigi Ruhigita - Congolese I intégration network
+* Milinganyo Byakumbu - Congolese integration network

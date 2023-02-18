@@ -29,7 +29,7 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
@@ -59,7 +59,7 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
-## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
+## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍2  
 * 👍 Scott Richards
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  

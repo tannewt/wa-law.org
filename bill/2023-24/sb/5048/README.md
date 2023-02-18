@@ -15,12 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=4)
 
-#### 8 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
+* Bill Lyne - United Faculty of Washington State
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Jeff Charbonneau - Zillah High School / Zillah School District
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Arlen Harris - SBCTC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

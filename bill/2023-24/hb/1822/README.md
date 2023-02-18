@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Regulated Substances & Gaming (RSG): HB 1822 Cannabis/short-term rentals

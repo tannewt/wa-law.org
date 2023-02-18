@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=4)
 
-#### 9 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Avi Laudon - The workforce development council of Seattle-king county
+* Anecia Evans - Refugee Planning Committee
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/01 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1447 Assistance programs
 #### 132 👍 - Pro

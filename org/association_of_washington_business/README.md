@@ -93,7 +93,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
-## [HB 1338](/bill/2023-24/hb/1338/) - Concerning education and vocational programs in state correctional institutions. 👍1  
+## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍1  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.  👎1 
 * 👎💵 Peter Godlewski
@@ -201,6 +201,9 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎1 
 * 👎 Mike Ennis
 
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+* 👎 Emily Shay
+
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
@@ -291,7 +294,7 @@
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
 
-## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 

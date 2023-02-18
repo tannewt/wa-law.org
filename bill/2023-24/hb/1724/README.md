@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1724 Behavioral health workforce

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5371 Orca vessel protection

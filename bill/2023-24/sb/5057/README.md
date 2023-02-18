@@ -5,8 +5,25 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5057 Energy standards/commercial
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Anna Lising - Governor's Office
+* Emily Salzberg - Department of Commerce
+
+#### 0 ❓ - Other
+
 ### Fri 01/27 08:00 AM - Environment, Energy & Technology (ENET): SB 5057 Energy standards/commercial
 #### 36 👍 - Pro
 Testifying:

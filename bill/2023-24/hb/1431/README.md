@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1431 Senior living meals/tax

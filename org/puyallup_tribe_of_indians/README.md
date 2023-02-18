@@ -5,7 +5,7 @@
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 👍1  
 * 👍💵 Dawn Vyvyan
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 

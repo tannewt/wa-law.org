@@ -14,7 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Captain Neal Weaver - Washington State Patrol
+* Mark McKechnie - Washington Traffic Safety Commission
+* Travis Snell - Washington State Department of Transportation
+* 💵Billy Wallace - Washington & Northern Idaho District Council of Laborers
+* Brandon Dully - Guy F. Atkinson Construction
+* 💵Jennifer Ziegler - National Construction Alliance
+* Mark Ottele - Granite Construction
+* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 
 #### 1 👎 - Con
 Testifying:

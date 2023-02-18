@@ -34,7 +34,7 @@
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
 
-## [SB 5481](/bill/2023-24/sb/5481/) - Uniform telemedicine act 👍1  
+## [SB 5481](/bill/2023-24/sb/5481/) - Uniform telehealth act 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 

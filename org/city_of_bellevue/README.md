@@ -23,6 +23,9 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Councilmember Janice Zahn
 
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
+* 👍 Lacey Jane Wolfe
+
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1

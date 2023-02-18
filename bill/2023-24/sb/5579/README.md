@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Environment, Energy & Technology (ENET): SB 5579 Hydrofluorocarbons/supply

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/15 01:30 PM - Housing (HSG): SB 5730 Vehicle residences/impound

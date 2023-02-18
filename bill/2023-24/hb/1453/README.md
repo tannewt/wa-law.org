@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152086&caId=21626&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152086&caId=21626&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Hana Keefe-Guerrero - Medical Cannabis Patient
 * 💵Lara Kaminsky - The Cannabis Alliance

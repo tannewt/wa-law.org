@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Education (ED): HB 1744 Clarifying the responsibilities and accountability for the effective delivery and oversight of public education services to charter school students. (Remote Testimony Available).

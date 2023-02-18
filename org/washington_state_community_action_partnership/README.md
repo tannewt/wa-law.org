@@ -84,6 +84,8 @@
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  

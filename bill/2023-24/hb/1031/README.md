@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/17 08:00 AM - State Government & Elections (SGE): HB 1031 Medal of valor award
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=151695&caId=21503&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=151695&caId=21503&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=151695&caId=21503&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30801&aId=151695&caId=21503&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 

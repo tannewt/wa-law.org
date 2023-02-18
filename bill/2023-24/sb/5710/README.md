@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152211&caId=21603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152211&caId=21603&tId=4)
 
-#### 3 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - Association of Educational Service Districts
 
-#### 137 👎 - Con
+#### 184 👎 - Con
 Testifying:
 * Shannon Zetelski
 * Nancy Button

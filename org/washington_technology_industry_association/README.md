@@ -20,11 +20,11 @@
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
-## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  
+## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍2  
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles 👍1  
 
-## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 

@@ -146,7 +146,7 @@
 
 ## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍1  
 
-## [HB 1338](/bill/2023-24/hb/1338/) - Concerning education and vocational programs in state correctional institutions. 👍1  
+## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍1  
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
 * 👍💵 Nasue Nishida
@@ -261,8 +261,10 @@
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 * 👍💵 Julie Salvi
 
-## [HB 1744](/bill/2023-24/hb/1744/) - Clarifying the responsibilities and accountability for the effective delivery and oversight of public education services to charter school students. 👍1  
+## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 * 👍💵 Julie Salvi
+
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
 ## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
 
@@ -283,6 +285,8 @@
 * 👎💵 Julie Salvi
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
+
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 * 👍💵 Nasue Nishida
@@ -314,7 +318,7 @@
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
 
@@ -411,6 +415,8 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
+## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  
+
 ## [SB 5505](/bill/2023-24/sb/5505/) - School year expansion   ❓1
 * ❓💵 Julie Salvi
 
@@ -418,7 +424,7 @@
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍2  
 
-## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍1  
+## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍2  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
@@ -448,7 +454,7 @@
 
 ## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  
 
-## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍2  
 
 ## [SB 5631](/bill/2023-24/sb/5631/) - DACA/state agency acceptance 👍1  
 
@@ -463,7 +469,7 @@
 
 ## [SB 5666](/bill/2023-24/sb/5666/) - CTC student housing pilot 👍1  
 
-## [SB 5668](/bill/2023-24/sb/5668/) - Small districts/skill center 👍1  
+## [SB 5668](/bill/2023-24/sb/5668/) - Small districts/skill center 👍2  
 
 ## [SB 5671](/bill/2023-24/sb/5671/) - K-12 experience factors 👍1  
 * 👍💵 Julie Salvi

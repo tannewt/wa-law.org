@@ -15,16 +15,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=4)
 
-#### 156 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * Sol Villarreal
+* Angela Birney - City of Redmond Mayor
+* Councilmember John Hines - [City of Tacoma](/org/city_of_tacoma/)
+* Ginger Kwan - Open Doors for Multicultural Families
+* Marc Cote - Parkview Sesrvices
+* Scott Livengood - Alpha Supported Living Services
+* Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
+* robert m wardell - self adovates
 
-#### 34 👎 - Con
+#### 129 👎 - Con
 Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Tim Eyman - Concerned Taxpayer
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman
+* 💵Denny Eliason - Washington REALTORS Association
+* 💵Greg Hanon - NAIOP
+* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 
 #### 0 ❓ - Other
 

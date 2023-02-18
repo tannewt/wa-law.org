@@ -1,5 +1,8 @@
 # Sightline Institute
 
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
+* 👍💵 Dan Bertolet
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 * 👍💵 Dan Bertolet
 

@@ -17,4 +17,5 @@
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
 
-## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
+## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍3  
+* 👍💵 John Ficker

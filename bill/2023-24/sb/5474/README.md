@@ -15,9 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152198&caId=21590&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152198&caId=21590&tId=4)
 
-#### 35 👍 - Pro
+#### 68 👍 - Pro
+Testifying:
+* Gus Patel-Tupper - UC Berkeley School of Law
+* Jacob Carmickle
+* 💵Kia Franklin - Stand for Children Washington
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Shawn Sant - Franklin County Prosecutor/WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other
 

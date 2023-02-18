@@ -14,7 +14,7 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
 
-## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎2 
 * 👎 Brad Tower

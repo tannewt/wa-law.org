@@ -18,6 +18,11 @@ Sign up to testify:
 Testifying:
 * 💵Kelly Fukai - Commissioner, WSTC
 
-#### 1 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* John Peeples - United States of America
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Eric Pratt
+* Tim Eyman - Concerned citizen
 
 #### 0 ❓ - Other

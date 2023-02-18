@@ -15,11 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152309&caId=21679&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152309&caId=21679&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* John Worthington
+* john Worthington
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Remy Kerr - Washington State Hospital Association
 
 ### Wed 02/01 08:00 AM - Environment, Energy & Technology (ENET): SB 5562 Clean energy
 #### 287 👍 - Pro

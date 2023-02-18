@@ -15,13 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
+* Bonnie Hemphill - UMC, Inc
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition
 
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1390 District energy systems
 #### 35 👍 - Pro

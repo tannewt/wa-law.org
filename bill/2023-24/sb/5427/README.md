@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152298&caId=21668&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152298&caId=21668&tId=4)
 
-#### 0 👍 - Pro
+#### 42 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* John Coleman - Foundation for Individual Rights and Expression (FIRE)
+* eric Pratt
 
 #### 0 ❓ - Other
 

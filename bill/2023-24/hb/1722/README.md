@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152077&caId=21642&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152077&caId=21642&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kris Zachary - Burns Towing
+* Paul Bressi - Nisqually Towing
+* 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ben Buchholz - Copart Inc.

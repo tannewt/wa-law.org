@@ -46,6 +46,8 @@
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
 
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
 * 👍 Emily Stochel
 
@@ -79,6 +81,6 @@
 
 ## [SB 5666](/bill/2023-24/sb/5666/) - CTC student housing pilot 👍1  
 
-## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  

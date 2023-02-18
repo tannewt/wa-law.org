@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 10:30 AM - Local Government (LG): HB 1706 Microenterprise home kitchen

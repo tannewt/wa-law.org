@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Regulated Substances & Gaming (RSG): HB 1765 Special occasion liquor lic.

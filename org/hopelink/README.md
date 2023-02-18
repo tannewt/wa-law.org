@@ -81,4 +81,4 @@
 
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
 
-## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
+## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍2  

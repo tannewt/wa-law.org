@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152124&caId=21636&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152124&caId=21636&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Cynthia Stewart - League of Women Voters of WA
+* Angela Rozmyn - Natural and Built Environments
 
 #### 0 👎 - Con
 

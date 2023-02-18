@@ -43,7 +43,7 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
-## [HB 1338](/bill/2023-24/hb/1338/) - Concerning education and vocational programs in state correctional institutions. 👍1  
+## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍1  
 
 ## [HB 1345](/bill/2023-24/hb/1345/) - Concerning the contribution to costs of privileges by incarcerated individuals. 👍1  
 
@@ -121,6 +121,8 @@
 
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession  👎1 
 
+## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
+
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
 * 👎💵 Andrea Schmitt
 
@@ -133,7 +135,7 @@
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
 * 👍 Xaxira Velasco Ponce de León
 
-## [SB 5697](/bill/2023-24/sb/5697/) - Authorizing the utilities and transportation commission to regulate the rates and services of all persons engaging in the business of acting as a landlord for a mobile home park, manufactured housing community, or manufactured/mobile home community. 👍1  
+## [SB 5697](/bill/2023-24/sb/5697/) - Mobile home park rates 👍1  
 
 ## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
 * ❓💵 Sarah Nagy

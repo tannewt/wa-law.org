@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/10 08:00 AM - State Government & Elections (SGE): SB 5723 Even-numbered year elections

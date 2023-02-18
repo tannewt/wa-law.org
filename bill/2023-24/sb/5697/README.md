@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/10 10:30 AM - Housing (HSG): SB 5697 Authorizing the utilities and transportation commission to regulate the rates and services of all persons engaging in the business of acting as a landlord for a mobile home park, manufactured housing community, or manufactured/mobile home community. (Remote Testimony Available).

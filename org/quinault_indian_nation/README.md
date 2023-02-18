@@ -4,6 +4,9 @@
 
 ## [HB 1290](/bill/2023-24/hb/1290/) - Tribal police training 👍1  
 
+## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
+* 👍 Tyson Johnston
+
 ## [SB 5086](/bill/2023-24/sb/5086/) - Tribal police training 👍1  
 
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries  👎1 

@@ -15,7 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Derek Sarley - Walla Walla Public Schools
+* James Everett - Meridian School Disrtict
+* Lynette Brower - WA State Skills Center Association
+* Paul Randall - Tri-Tech Skill Center
 
 #### 0 👎 - Con
 

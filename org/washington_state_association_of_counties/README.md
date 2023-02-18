@@ -204,7 +204,7 @@
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting   ❓1
 * ❓💵 Paul Jewell
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍1  
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍2  
 * 👍💵 Juliana Roe
 
 ## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍1  

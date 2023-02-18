@@ -14,6 +14,8 @@
 
 ## [HB 1274](/bill/2023-24/hb/1274/) - Child malnutrition guide 👍1  
 
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
+
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 * 👍 Stephan Blanford
 

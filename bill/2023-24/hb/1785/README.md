@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Fri 02/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1785 COVID-19/occupational
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30785&aId=151617&caId=21429&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30785&aId=151617&caId=21429&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30785&aId=151617&caId=21429&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30785&aId=151617&caId=21429&tId=4)
-
-#### 30 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Doug Palmer - Washington State Association for Justice
 
-#### 567 👎 - Con
+#### 733 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * Christina Callahan - Conservative Ladies of Washington
+* Scherry Cherrick
 * Nicole Tedrow - Washington Self-Insurers Association
+* Bruce Timm
 
 #### 1 ❓ - Other

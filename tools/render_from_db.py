@@ -14,7 +14,10 @@ REVISION_TO_NAME = {
     "1": "Original Bill",
     "S": "Substitute Bill",
     "S.E": "Engrossed Substitute",
-    "S2": "Second Substitute"
+    "S2": "Second Substitute",
+    "S2.E": "Engrossed Second Substitute",
+    "S.SL": "Session Law",
+    "S.PL": "Passed Legislature"
 }
 
 POSITION_TO_EMOJI = {

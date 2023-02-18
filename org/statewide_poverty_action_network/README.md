@@ -31,11 +31,11 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
-## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍5  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 
@@ -45,7 +45,7 @@
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 * 👍💵 Shaun Scott
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
@@ -55,7 +55,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
@@ -85,7 +85,7 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍4  
 * 👍💵 Shaun Scott

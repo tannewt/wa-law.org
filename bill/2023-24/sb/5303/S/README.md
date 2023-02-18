@@ -1,0 +1,157 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5303](/bill/2023-24/sb/5303/) > [Substitute Bill](/bill/2023-24/sb/5303/S/)
+
+# SB 5303 - Public works trust account
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5303-S.pdf)
+
+## Section 1
+1. The public works revolving trust account is created in the state treasury. Moneys in the account may be spent only after appropriation.
+
+2. The public works revolving trust account is governed by the provisions in Article VIII, section . . . of the state Constitution (Senate Joint Resolution No. 8201).
+
+## Section 2
+1. All earnings of investments of surplus balances in the state treasury shall be deposited to the treasury income account, which account is hereby established in the state treasury.
+
+2. The treasury income account shall be utilized to pay or receive funds associated with federal programs as required by the federal cash management improvement act of 1990. The treasury income account is subject in all respects to chapter 43.88 RCW, but no appropriation is required for refunds or allocations of interest earnings required by the cash management improvement act. Refunds of interest to the federal treasury required under the cash management improvement act fall under RCW 43.88.180 and shall not require appropriation. The office of financial management shall determine the amounts due to or from the federal government pursuant to the cash management improvement act. The office of financial management may direct transfers of funds between accounts as deemed necessary to implement the provisions of the cash management improvement act, and this subsection. Refunds or allocations shall occur prior to the distributions of earnings set forth in subsection (4) of this section.
+
+3. Except for the provisions of RCW 43.84.160, the treasury income account may be utilized for the payment of purchased banking services on behalf of treasury funds including, but not limited to, depository, safekeeping, and disbursement functions for the state treasury and affected state agencies. The treasury income account is subject in all respects to chapter 43.88 RCW, but no appropriation is required for payments to financial institutions. Payments shall occur prior to distribution of earnings set forth in subsection (4) of this section.
+
+4. Monthly, the state treasurer shall distribute the earnings credited to the treasury income account. The state treasurer shall credit the general fund with all the earnings credited to the treasury income account except:
+
+    a. The following accounts and funds shall receive their proportionate share of earnings based upon each account's and fund's average daily balance for the period: The abandoned recreational vehicle disposal account, the aeronautics account, the Alaskan Way viaduct replacement project account, the brownfield redevelopment trust fund account, the budget stabilization account, the capital vessel replacement account, the capitol building construction account, the Central Washington University capital projects account, the charitable, educational, penal and reformatory institutions account, the Chehalis basin account, the Chehalis basin taxable account, the cleanup settlement account, the climate active transportation account, the climate transit programs account, the Columbia river basin water supply development account, the Columbia river basin taxable bond water supply development account, the Columbia river basin water supply revenue recovery account, the common school construction fund, the community forest trust account, the connecting Washington account, the county arterial preservation account, the county criminal justice assistance account, the deferred compensation administrative account, the deferred compensation principal account, the department of licensing services account, the department of retirement systems expense account, the developmental disabilities community services account, the diesel idle reduction account, the drinking water assistance account, the administrative subaccount of the drinking water assistance account, the early learning facilities development account, the early learning facilities revolving account, the Eastern Washington University capital projects account, the education construction fund, the education legacy trust account, the election account, the electric vehicle account, the energy freedom account, the energy recovery act account, the essential rail assistance account, The Evergreen State College capital projects account, the fair start for kids account, the ferry bond retirement fund, the fish, wildlife, and conservation account, the freight mobility investment account, the freight mobility multimodal account, the grade crossing protective fund, the public health services account, the state higher education construction account, the higher education construction account, the higher education retirement plan supplemental benefit fund, the highway bond retirement fund, the highway infrastructure account, the highway safety fund, the hospital safety net assessment fund, the Interstate 405 and state route number 167 express toll lanes account, the judges' retirement account, the judicial retirement administrative account, the judicial retirement principal account, the limited fish and wildlife account, the local leasehold excise tax account, the local real estate excise tax account, the local sales and use tax account, the marine resources stewardship trust account, the medical aid account, the money-purchase retirement savings administrative account, the money-purchase retirement savings principal account, the motor vehicle fund, the motorcycle safety education account, the move ahead WA account, the move ahead WA flexible account, the multimodal transportation account, the multiuse roadway safety account, the municipal criminal justice assistance account, the oyster reserve land account, the pension funding stabilization account, the perpetual surveillance and maintenance account, the pilotage account, the pollution liability insurance agency underground storage tank revolving account, the public employees' retirement system plan 1 account, the public employees' retirement system combined plan 2 and plan 3 account, the public facilities construction loan revolving account, the public health supplemental account, the public works assistance account, the public works revolving trust account, the Puget Sound capital construction account, the Puget Sound ferry operations account, the Puget Sound Gateway facility account, the Puget Sound taxpayer accountability account, the real estate appraiser commission account, the recreational vehicle account, the regional mobility grant program account, the resource management cost account, the rural arterial trust account, the rural mobility grant program account, the rural Washington loan fund, the sexual assault prevention and response account, the site closure account, the skilled nursing facility safety net trust fund, the small city pavement and sidewalk account, the special category C account, the special wildlife account, the state investment board expense account, the state investment board commingled trust fund accounts, the state patrol highway account, the state reclamation revolving account, the state route number 520 civil penalties account, the state route number 520 corridor account, the statewide broadband account, the statewide tourism marketing account, the supplemental pension account, the Tacoma Narrows toll bridge account, the teachers' retirement system plan 1 account, the teachers' retirement system combined plan 2 and plan 3 account, the tobacco prevention and control account, the tobacco settlement account, the toll facility bond retirement account, the transportation 2003 account (nickel account), the transportation equipment fund, the transportation future funding program account, the transportation improvement account, the transportation improvement board bond retirement account, the transportation infrastructure account, the transportation partnership account, the traumatic brain injury account, the University of Washington bond retirement fund, the University of Washington building account, the voluntary cleanup account, the volunteer firefighters' and reserve officers' relief and pension principal fund, the volunteer firefighters' and reserve officers' administrative fund, the vulnerable roadway user education account, the Washington judicial retirement system account, the Washington law enforcement officers' and firefighters' system plan 1 retirement account, the Washington law enforcement officers' and firefighters' system plan 2 retirement account, the Washington public safety employees' plan 2 retirement account, the Washington school employees' retirement system combined plan 2 and 3 account, the Washington state patrol retirement account, the Washington State University building account, the Washington State University bond retirement fund, the water pollution control revolving administration account, the water pollution control revolving fund, the Western Washington University capital projects account, the Yakima integrated plan implementation account, the Yakima integrated plan implementation revenue recovery account, and the Yakima integrated plan implementation taxable bond account. Earnings derived from investing balances of the agricultural permanent fund, the normal school permanent fund, the permanent common school fund, the scientific permanent fund, and the state university permanent fund shall be allocated to their respective beneficiary accounts.
+
+    b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
+
+5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 3
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Board" means the public works board created in RCW 43.155.030.
+
+2. "Capital facility plan" means a capital facility plan required by the growth management act under chapter 36.70A RCW or, for local governments not fully planning under the growth management act, a plan required by the public works board.
+
+3. "Department" means the department of commerce.
+
+4. "Financing guarantees" means the pledge of money in the public works assistance account or the public works revolving trust account, or money to be received by the public works assistance account or the public works revolving trust account, to the repayment of all or a portion of the principal of or interest on obligations issued by local governments to finance public works projects.
+
+5. "Local governments" means cities, towns, counties, special purpose districts, and any other municipal corporations or quasi-municipal corporations in the state excluding school districts and port districts.
+
+6. "Public works project" means a project of a local government for the planning, acquisition, construction, repair, reconstruction, replacement, rehabilitation, or improvement of streets and roads, bridges, water systems, or storm and sanitary sewage systems, lead remediation of drinking water systems, and solid waste facilities, including recycling facilities and composting and other organic materials management facilities. A planning project may include the compilation of biological, hydrological, or other data on a county, drainage basin, or region necessary to develop a base of information for a capital facility plan.
+
+7. "Solid waste or recycling project" means remedial actions necessary to bring abandoned or closed landfills into compliance with regulatory requirements and the repair, restoration, and replacement of existing solid waste transfer, recycling facilities, and landfill projects limited to the opening of landfill cells that are in existing and permitted landfills.
+
+8. "Technical assistance" means training and other services provided to local governments to: (a) Help such local governments plan, apply, and qualify for loans, grants, and financing guarantees from the board, and (b) help local governments improve their ability to plan for, finance, acquire, construct, repair, replace, rehabilitate, and maintain public facilities.
+
+9. "Value planning" means a uniform approach to assist in decision making through systematic evaluation of potential alternatives to solving an identified problem.
+
+## Section 4
+1. In order to aid the financing of public works projects, the board may:
+
+    a. Make loans or grants to local governments from the public works assistance account, the public works revolving trust account, or other funds and accounts for the purpose of assisting local governments in financing public works projects. Money received from local governments in repayment of loans made under this section shall be paid into the public works revolving trust account for uses consistent with this chapter.
+
+    b. Pledge money in the public works assistance account or the public works revolving trust account, or money to be received by the public works assistance account or the public works revolving trust account, to the repayment of all or a portion of the principal of or interest on obligations issued by local governments to finance public works projects. The board shall not pledge any amount greater than the sum of money in the public works assistance account or the public works revolving trust account plus money to be received from the payment of the debt service on loans made from those accounts, nor shall the board pledge the faith and credit or the taxing power of the state or any agency or subdivision thereof to the repayment of obligations issued by any local government.
+
+    c. Create such subaccounts in the public works assistance account as the board deems necessary to carry out the purposes of this chapter.
+
+    d. Provide a method for the allocation of loans, grants, and financing guarantees and the provision of technical assistance under this chapter.
+
+2. When establishing interest rates for loan programs authorized in this chapter for projects which are supported by a rate base of at least 50,000 equivalent residential units, the board must base interest rates on the average daily market interest rate for tax-exempt municipal bonds as published in the bond buyer's index for the period from 60 to 30 days before the start of the application cycle.
+
+    a. For projects with a repayment period between five and 20 years, the rate must be fifty percent of the market rate.
+
+    b. For projects with a repayment period under five years, the rate must be 25 percent of the market rate.
+
+    c. For any year in which the average daily market interest rate for tax-exempt municipal bonds for the period from 60 to 30 days before the start of an application cycle is nine percent or greater, the board may cap interest rates at four percent for projects with a repayment period between five and 20 years and at two percent for projects with a repayment period under five years.
+
+    d. The board may also provide reduced interest rates, extended repayment periods, or grants for projects that meet financial hardship criteria as measured by the affordability index or similar standard measure of financial hardship. The board may provide reduced interest rates, extended repayment periods, or grants for projects that are supported by a rate base of less than 50,000 equivalent residential units.
+
+3. All local public works projects aided in whole or in part under the provisions of this chapter shall be put out for competitive bids, except for emergency public works under RCW 43.155.065 for which the recipient jurisdiction shall comply with this requirement to the extent feasible and practicable. The competitive bids called for shall be administered in the same manner as all other public works projects put out for competitive bidding by the local governmental entity aided under this chapter.
+
+## Section 5
+1. To qualify for financial assistance under this chapter the board must determine that a local government meets all of the following conditions:
+
+    a. The city or county must be imposing a tax under chapter 82.46 RCW at a rate of at least 0.25 percent;
+
+    b. The local government must have developed a capital facility plan; and
+
+    c. The local government must be using all local revenue sources which are reasonably available for funding public works, taking into consideration local employment and economic factors.
+
+2. Except where necessary to address a public health need or substantial environmental degradation, a county, city, or town planning under RCW 36.70A.040 may not receive financial assistance under this chapter unless it has adopted a comprehensive plan, including a capital facilities plan element, and development regulations as required by RCW 36.70A.040. This subsection does not require any county, city, or town planning under RCW 36.70A.040 to adopt a comprehensive plan or development regulations before requesting or receiving financial assistance under this chapter if such request is made before the expiration of the time periods specified in RCW 36.70A.040. A county, city, or town planning under RCW 36.70A.040 that has not adopted a comprehensive plan and development regulations within the time periods specified in RCW 36.70A.040 may apply for and receive financial assistance under this chapter if the comprehensive plan and development regulations are adopted as required by RCW 36.70A.040 before executing a contractual agreement for financial assistance with the board.
+
+3. In considering awarding financial assistance for public facilities to special districts requesting funding for a proposed facility located in a county, city, or town planning under RCW 36.70A.040, the board must consider whether the county, city, or town planning under RCW 36.70A.040 in whose planning jurisdiction the proposed facility is located has adopted a comprehensive plan and development regulations as required by RCW 36.70A.040.
+
+4. [Empty]
+
+    a. The board must develop a process to prioritize applications and funding of loans and grants for public works projects submitted by local governments. The board must consider, at a minimum and in any order, the following factors in prioritizing projects:
+
+        i. Whether the project is critical in nature and would affect the health and safety of many people;
+
+        ii. The extent to which the project leverages other funds;
+
+        iii. The extent to which the project is ready to proceed to construction;
+
+        iv. Whether the project is located in an area of high unemployment, compared to the average state unemployment;
+
+    v. Whether the project promotes the sustainable use of resources and environmental quality, as applicable;
+
+    vi. Whether the project consolidates or regionalizes systems;
+
+    vii. Whether the project encourages economic development through mixed‑use and mixed income development consistent with chapter 36.70A RCW;
+
+    viii. Whether the system is being well‑managed in the present and for long‑term sustainability;
+
+        ix. Achieving equitable distribution of funds by geography and population;
+
+    x. The extent to which the project meets the following state policy objectives:
+
+(A) Efficient use of state resources;
+
+(B) Preservation and enhancement of health and safety;
+
+(C) Abatement of pollution and protection of the environment;
+
+(D) Creation of new, family-wage jobs, and avoidance of shifting existing jobs from one Washington state community to another;
+
+(E) Fostering economic development consistent with chapter 36.70A RCW;
+
+(F) Efficiency in delivery of goods and services and transportation; and
+
+(G) Reduction of the overall cost of public infrastructure;
+
+    xi. Whether the applicant sought or is seeking funding for the project from other sources; and
+
+    xii. Other criteria that the board considers necessary to achieve the purposes of this chapter.
+
+    b. Before September 1, 2018, and each year thereafter, the board must develop and submit a report regarding the construction loans and grants to the office of financial management and appropriate fiscal committees of the senate and house of representatives. The report must include:
+
+        i. The total number of applications and amount of funding requested for public works projects;
+
+        ii. A list and description of projects approved in the preceding fiscal year with project scores against the board's prioritization criteria;
+
+        iii. The total amount of loan and grants disbursements made from the public works assistance account or the public works revolving trust account in the preceding fiscal year;
+
+        iv. The total amount of loan repayments in the preceding fiscal year for outstanding loans from the public works assistance account or the public works revolving trust account;
+
+    v. The total amount of loan repayments due for outstanding loans for each fiscal year over the following 10-year period; and
+
+    vi. The total amount of funds obligated and timing of when the funds were obligated in the preceding fiscal year.
+
+    c. The maximum amount of funding that the board may provide for any jurisdiction is $10,000,000 per biennium.
+
+5. Existing debt or financial obligations of local governments may not be refinanced under this chapter. Each local government applicant must provide documentation of attempts to secure additional local or other sources of funding for each public works project for which financial assistance is sought under this chapter.
+
+6. Before September 1st of each year, the board must develop and submit to the appropriate fiscal committees of the senate and house of representatives a description of the loans and grants made under RCW 43.155.065 and 43.155.068.
+
+7. The board may not sign contracts or otherwise financially obligate funds from the public works assistance account or the public works revolving trust account before the legislature has appropriated funds to the board for the purpose of funding public works projects under this chapter.
+
+8. To qualify for loans, grants, or pledges for solid waste or recycling facilities under this chapter, a city or county must demonstrate that the solid waste or recycling facility is consistent with and necessary to implement the comprehensive solid waste management plan adopted by the city or county under chapter 70A.205 RCW.
+
+9. After January 1, 2010, any project designed to address the effects of stormwater or wastewater on Puget Sound may be funded under this section only if the project is not in conflict with the action agenda developed by the Puget Sound partnership under RCW 90.71.310.
+
+10. For projects involving repair, replacement, or improvement of a wastewater treatment plant or other public works facility for which an investment grade efficiency audit is reasonably obtainable, the public works board must require as a contract condition that the project sponsor undertake an investment grade efficiency audit. The project sponsor may finance the costs of the audit as part of its public works assistance account program or the public works revolving trust account loan or grant.
+
+11. The board must implement policies and procedures designed to maximize local government consideration of other funds to finance local infrastructure.
+
+## Section 6
+Sections 1 through 5 of this act take effect July 1, 2025, if the proposed amendment to Article VIII of the state Constitution (Senate Joint Resolution No. 8201) is validly submitted to and is approved and ratified by the voters at a general election held in November 2023. If the proposed amendment is not approved and ratified, sections 1 through 5 of this act are void in their entirety.

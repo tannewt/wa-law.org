@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152215&caId=21607&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152215&caId=21607&tId=4)
 
-#### 1 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* 💵Dan Wood - WA State Dairy Federation
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ron Shultz - WA State Conservation Commission
 
 ### Thu 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5353 Voluntary stewardship prog.
 #### 27 👍 - Pro

@@ -35,7 +35,7 @@
 ## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
 * 👍 Chris Herman
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures   ❓1
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
 
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍1  

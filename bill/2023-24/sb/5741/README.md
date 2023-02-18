@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Fri 02/17 10:30 AM - Housing (HSG): SB 5741 Housing gap voucher pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151979&caId=21566&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151979&caId=21566&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151979&caId=21566&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30765&aId=151979&caId=21566&tId=4)
-
-#### 74 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Tara Nelson - Long-time Section 8 Landlord
 * 💵Chester Baldwin - Rental Housing Coalition
 * Angela Rozmyn - Natural and Built Environments
 
-#### 117 👎 - Con
+#### 151 👎 - Con
 Testifying:
 * Sol Villarreal
 * Sol Villarreal

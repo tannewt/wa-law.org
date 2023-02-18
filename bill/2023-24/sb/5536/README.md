@@ -15,16 +15,32 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=4)
 
-#### 18 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * T. Scott Brandon - Olympic Peninsula Community Clinic
 * Dana Ralph - Mayor of the City of Kent
+* Michael Held - Snohomish County Prosecuting Attorney's Office
+* Todd Morrell - Burien Police Department
+* Dan Templeman - Police Chief, City of Everett
+* Carolina Hershey - Arrest & Jail Alternatives, Olympia
+* Armondo Pavone - Mayor, City of Renton
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Nancy Backus - City of Auburn, Mayor
 
-#### 444 👎 - Con
+#### 668 👎 - Con
+Testifying:
+* Don Julian
 
-#### 2 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * 💵Bob Cooper - WA Association of Drug Courts
+* 💵Lisa Daugaard - Public Defender Association
+* Malika Lamont
+* Chad Enright - Kitsap County Prosecutor
+* Larry Jefferson - Washington State Office of Public Defense
+* Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
+* Vanessa Martin
 
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5536 Controlled substances
 #### 75 👍 - Pro

@@ -11,10 +11,12 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
 
+## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
+
 ## [SB 5497](/bill/2023-24/sb/5497/) - Medicaid expenditures 👍1  
 * 👍 Carma Matti-Jackson
 
-## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  
+## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍2  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 
@@ -23,7 +25,7 @@
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
 
-## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
+## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍2  
 * 👍 Carma Matti-Jackson
 
 ## [SB 5640](/bill/2023-24/sb/5640/) - Independent living residents 👍1  

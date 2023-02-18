@@ -125,13 +125,16 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Candice Bock
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 * 👍💵 Carl Schroeder
 
 ## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍1  
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 * 👎💵 Candice Bock
+
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
+* 👍💵 Candice Bock
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
@@ -189,7 +192,7 @@
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍1  
 * 👍💵 Candice Bock
 
-## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
 ## [SB 5310](/bill/2023-24/sb/5310/) - Workers' comp. providers 👍1  
 
@@ -259,7 +262,8 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍3  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 

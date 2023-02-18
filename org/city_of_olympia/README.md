@@ -47,6 +47,8 @@
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
 
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
+
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
@@ -73,7 +75,7 @@
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
-## [SB 5303](/bill/2023-24/sb/5303/) - Public works assist. account 👍1  
+## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
@@ -83,7 +85,7 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
-## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍2  
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 

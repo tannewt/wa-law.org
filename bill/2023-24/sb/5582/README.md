@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152204&caId=21596&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152204&caId=21596&tId=4)
 
-#### 3 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - Washington State Nurses Association
+* Arlen Harris - SBCTC
 
 #### 0 👎 - Con
 

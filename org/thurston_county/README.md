@@ -31,7 +31,7 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  
 

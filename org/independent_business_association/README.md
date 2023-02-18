@@ -26,6 +26,8 @@
 
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
 
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1 👎1 
 * 👎💵 James King
 * 👍💵 James King
@@ -48,5 +50,5 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax   ❓1
 * ❓💵 James King
 
-## [SB 5684](/bill/2023-24/sb/5684/) - Small works rosters 👍1  
+## [SB 5684](/bill/2023-24/sb/5684/) - Small works rosters 👍2  
 * 👍💵 James King

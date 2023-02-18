@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1762 Warehouse employees

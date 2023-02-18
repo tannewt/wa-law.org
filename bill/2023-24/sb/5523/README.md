@@ -15,11 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152205&caId=21597&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152205&caId=21597&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
+* 💵Ian Goodhew - UW Medicine
 * William Leach - Benton County Coroner's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -18,7 +18,7 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍2  
 * 👍 David Woodson
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1338 DOC ed. and vocational prgs.

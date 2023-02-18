@@ -15,15 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152201&caId=21593&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152201&caId=21593&tId=4)
 
-#### 28 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * 💵Katharine Weiss - Washington State Nurses Association
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Chisula Chambers
+* Kris Tefft - Washington Self-Insurers Association
+* 💵Robert Battles - Association of Washington Business (AWB)
 
 ### Thu 01/26 08:00 AM - Labor & Commerce (LC): SB 5454 RN PTSD/industrial insurance
 #### 60 👍 - Pro

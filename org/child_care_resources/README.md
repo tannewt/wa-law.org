@@ -11,7 +11,7 @@
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 

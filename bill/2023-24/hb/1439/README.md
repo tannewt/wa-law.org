@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/07 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1439 Child exposure to violence

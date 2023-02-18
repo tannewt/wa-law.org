@@ -16,10 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Concerned Taxpayer
 * Tim Eyman
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Health Care & Wellness (HCW): HB 1776 Applied behavior analysis

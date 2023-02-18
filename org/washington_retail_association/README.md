@@ -73,6 +73,9 @@
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
 * 👍💵 Mark Johnson
 
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+* 👎💵 Mark Johnson
+
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
 * 👍💵 Mark Johnson
 
@@ -82,9 +85,16 @@
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 * 👎💵 Bruce Beckett
 
+## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
+
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
 
+## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
+* 👎💵 Mark Johnson
+
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax   ❓1
+
+## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
