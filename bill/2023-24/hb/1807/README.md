@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Captain Neal Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -24,8 +24,9 @@ Testifying:
 * 💵Jennifer Ziegler - National Construction Alliance
 * Mark Ottele - Granite Construction
 * Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* 💵Davor Gjurasic - Washington State Patrol Troopers Association
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 

@@ -4,6 +4,8 @@
 
 ## [HB 1290](/bill/2023-24/hb/1290/) - Tribal police training 👍1  
 
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+
 ## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
 * 👍 Tyson Johnston
 

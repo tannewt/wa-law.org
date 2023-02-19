@@ -15,12 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=4)
 
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * john Worthington - AAMC
 * john Worthington
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Brooke Davies - Washington CannaBusiness Association
+* 💵Ezra Eickmeyer - Producers NW
 
 #### 0 ❓ - Other
 

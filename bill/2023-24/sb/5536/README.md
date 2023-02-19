@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5536 Controlled substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152197&caId=21589&tId=4)
-
-#### 41 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * T. Scott Brandon - Olympic Peninsula Community Clinic
 * Dana Ralph - Mayor of the City of Kent
@@ -24,20 +18,25 @@ Testifying:
 * Dan Templeman - Police Chief, City of Everett
 * Carolina Hershey - Arrest & Jail Alternatives, Olympia
 * Armondo Pavone - Mayor, City of Renton
+* Mayor Sean Kelly - [City of Maple Valley](/org/city_of_maple_valley/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Nancy Backus - City of Auburn, Mayor
+* 💵Michael Transue - WA Fraternal Order of Police
 
-#### 668 👎 - Con
+#### 714 👎 - Con
 Testifying:
 * Don Julian
+* Gretchen McDevitt
 
-#### 16 ❓ - Other
+#### 20 ❓ - Other
 Testifying:
 * 💵Bob Cooper - WA Association of Drug Courts
 * 💵Lisa Daugaard - Public Defender Association
 * Malika Lamont
 * Chad Enright - Kitsap County Prosecutor
 * Larry Jefferson - Washington State Office of Public Defense
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Adán Espino - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 * Vanessa Martin

@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1110 Middle housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* Joe Kunzler - None
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/17 04:00 PM - Housing (HOUS): HB 1110 Middle housing
 #### 1832 👍 - Pro
 Testifying:

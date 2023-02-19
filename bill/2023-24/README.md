@@ -1,94 +1,127 @@
 # 2023-24 Bills
 ## Upcoming hearings
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5617](sb/5617) - Career & tech. ed. courses 21👍 0👎 0❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5696](sb/5696) - Concerning eligibility for participation in the public employees' benefits board for retired or disabled employees of counties, municipalities, and other political subdivisions. 5👍 1👎 1❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5369](sb/5369) - Polychlorinated biphenyls 26👍 1👎 4❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5523](sb/5523) - Forensic pathologists 30👍 1👎 0❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5367](sb/5367) - Products containing THC 39👍 17👎 7❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5512](sb/5512) - Higher ed. financial reports 19👍 0👎 0❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5165](sb/5165) - Electric transm. planning 175👍 3👎 10❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5626](sb/5626) - K-12 media literacy 165👍 30👎 1❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5180](sb/5180) - Teacher mobility compact 41👍 1👎 4❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5582](sb/5582) - Nurse supply 46👍 0👎 10❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5144](sb/5144) - Batteries/environment 359👍 4👎 9❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5353](sb/5353) - Voluntary stewardship prog. 53👍 1👎 2❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5048](sb/5048) - College in high school fees 32👍 1👎 0❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5278](sb/5278) - Home care aide certification 179👍 1👎 5❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5474](sb/5474) - Juvenile justice 214👍 9👎 6❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5454](sb/5454) - RN PTSD/industrial insurance 140👍 2👎 8❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5710](sb/5710) - Behavioral health/youth 44👍 361👎 0❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5498](sb/5498) - Nurse student loan repayment 28👍 243👎 0❓
-* [WM Sat 02/18 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30808) [SB 5536](sb/5536) - Controlled substances 116👍 1503👎 29❓
 * [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1746](hb/1746) - State broadband map 21👍 1👎 1❓
-* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1633](hb/1633) - Homes for heroes program 169👍 0👎 1❓
-* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1390](hb/1390) - District energy systems 40👍 1👎 5❓
-* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1378](hb/1378) - Derelict aquatic structures 188👍 1👎 3❓
-* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1777](hb/1777) - Energy contracting 18👍 0👎 0❓
-* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1757](hb/1757) - Farmers/sales tax remittance 3👍 0👎 0❓
-* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1182](hb/1182) - Wine/alcohol tax exemption 4👍 0👎 0❓
-* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1453](hb/1453) - Medical cannabis/tax 90👍 1👎 0❓
-* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1653](hb/1653) - Animal adoption fees/tax 7👍 0👎 0❓
-* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1644](hb/1644) - Margin tax 3👍 11👎 2❓
-* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1670](hb/1670) - Property tax limit factor 32👍 6👎 0❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1365](hb/1365) - Puget Sound water quality 36👍 1👎 3❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1740](hb/1740) - Forestry riparian easements 74👍 5👎 3❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1633](hb/1633) - Homes for heroes program 170👍 0👎 1❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1789](hb/1789) - Ecosystem services 377👍 465👎 3❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1378](hb/1378) - Derelict aquatic structures 189👍 1👎 3❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1777](hb/1777) - Energy contracting 26👍 0👎 0❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1720](hb/1720) - Riparian grant program 253👍 5👎 9❓
+* [CB Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30831) [HB 1390](hb/1390) - District energy systems 72👍 69👎 5❓
+* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1182](hb/1182) - Wine/alcohol tax exemption 5👍 0👎 0❓
+* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1757](hb/1757) - Farmers/sales tax remittance 5👍 0👎 0❓
+* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1453](hb/1453) - Medical cannabis/tax 106👍 1👎 0❓
+* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1653](hb/1653) - Animal adoption fees/tax 25👍 0👎 0❓
+* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1644](hb/1644) - Margin tax 4👍 66👎 2❓
+* [FIN Mon 02/20 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30828) [HB 1670](hb/1670) - Property tax limit factor 47👍 439👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5025](sb/5025) - DOC technology systems 7👍 0👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5226](sb/5226) - Active warrants priority/DOC 28👍 1👎 0❓
 * [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5291](sb/5291) - Liquor licenses 1👍 0👎 1❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5388](sb/5388) - Diversity in clinical trials 25👍 1👎 0❓
 * [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5534](sb/5534) - Workforce investment board 12👍 0👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5561](sb/5561) - Law enf. community grants 29👍 1👎 1❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5634](sb/5634) - Problem gambling 4👍 0👎 3❓
 * [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5186](sb/5186) - Contracting/discrimination 7👍 12👎 3❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5377](sb/5377) - Cannabis license ownership 13👍 25👎 4❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5386](sb/5386) - Document recording fees 12👍 13👎 2❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5388](sb/5388) - Diversity in clinical trials 26👍 1👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5561](sb/5561) - Law enf. community grants 30👍 1👎 1❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5634](sb/5634) - Problem gambling 4👍 0👎 4❓
 * [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5684](sb/5684) - Small works rosters 4👍 3👎 3❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5269](sb/5269) - Manufacturing 131👍 8👎 1❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5334](sb/5334) - Affordable housing funding 35👍 25👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5546](sb/5546) - Cannabis commission 68👍 54👎 2❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5230](sb/5230) - Extended foster care 52👍 7👎 2❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5477](sb/5477) - Murdered indigenous women 41👍 0👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5668](sb/5668) - Small districts/skill center 88👍 0👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5609](sb/5609) - Housing approval 36👍 6👎 1❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5447](sb/5447) - Alternative jet fuel 64👍 153👎 4❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5562](sb/5562) - Clean energy 293👍 192👎 11❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5703](sb/5703) - College grant/bridge grants 186👍 0👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5290](sb/5290) - Local permit review 32👍 0👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5225](sb/5225) - Working conn. child care 153👍 0👎 0❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5427](sb/5427) - Hate crimes & bias incidents 129👍 35👎 1❓
-* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5601](sb/5601) - Youth development office 99👍 30👎 0❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1239](hb/1239) - Educator ethics & complaints 207👍 485👎 2❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5386](sb/5386) - Document recording fees 13👍 13👎 2❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5269](sb/5269) - Manufacturing 135👍 8👎 1❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5334](sb/5334) - Affordable housing funding 39👍 25👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5668](sb/5668) - Small districts/skill center 89👍 0👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5230](sb/5230) - Extended foster care 56👍 7👎 2❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5609](sb/5609) - Housing approval 38👍 6👎 1❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5377](sb/5377) - Cannabis license ownership 20👍 27👎 4❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5447](sb/5447) - Alternative jet fuel 70👍 153👎 4❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5546](sb/5546) - Cannabis commission 76👍 57👎 2❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5290](sb/5290) - Local permit review 36👍 0👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5703](sb/5703) - College grant/bridge grants 197👍 0👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5477](sb/5477) - Murdered indigenous women 65👍 0👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5601](sb/5601) - Youth development office 104👍 30👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5225](sb/5225) - Working conn. child care 193👍 0👎 0❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5562](sb/5562) - Clean energy 328👍 225👎 12❓
+* [WM Mon 02/20 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30849) [SB 5427](sb/5427) - Hate crimes & bias incidents 190👍 401👎 2❓
 * [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1370](hb/1370) - Securities whistleblowers 5👍 1👎 0❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1512](hb/1512) - Missing persons 13👍 0👎 1❓
 * [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1804](hb/1804) - PEBB/subdivision retirees 1👍 0👎 0❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1300](hb/1300) - Assisted reproduction fraud 10👍 0👎 1❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1316](hb/1316) - Dual credit program access 27👍 0👎 1❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1477](hb/1477) - Working families' tax credit 259👍 2👎 7❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1332](hb/1332) - Tribes/K-12 instruction 133👍 5👎 0❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1580](hb/1580) - Children in crisis 178👍 2👎 1❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1392](hb/1392) - Electronics repair 399👍 6👎 2❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1447](hb/1447) - Assistance programs 221👍 0👎 3❓
-* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1151](hb/1151) - Fertility services coverage 983👍 65👎 1❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1239](hb/1239) - Educator ethics & complaints 210👍 485👎 2❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1300](hb/1300) - Assisted reproduction fraud 13👍 0👎 1❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1316](hb/1316) - Dual credit program access 29👍 0👎 1❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1477](hb/1477) - Working families' tax credit 262👍 2👎 7❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1580](hb/1580) - Children in crisis 180👍 2👎 1❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1332](hb/1332) - Tribes/K-12 instruction 142👍 5👎 0❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1392](hb/1392) - Electronics repair 408👍 6👎 2❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1447](hb/1447) - Assistance programs 259👍 0👎 4❓
+* [APP Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30809) [HB 1151](hb/1151) - Fertility services coverage 1072👍 73👎 2❓
 * [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1831](hb/1831) - Ferries/workforce shortages 0👍 1👎 0❓
-* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1395](hb/1395) - Aircraft fuel tax distrib. 2👍 0👎 0❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1833](hb/1833) - Ferry fuel surcharges 1👍 0👎 0❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1229](hb/1229) - Voter registration 114👍 58👎 2❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1395](hb/1395) - Aircraft fuel tax distrib. 4👍 0👎 0❓
 * [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1722](hb/1722) - Tow truck operator comp. 3👍 0👎 1❓
-* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1687](hb/1687) - Vehicle service fees 5👍 1👎 0❓
-* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1807](hb/1807) - Speed safety cameras 11👍 1👎 0❓
-* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1829](hb/1829) - LeMay special license plate 221👍 0👎 1❓
-* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5652](sb/5652) - Tow truck operator comp. 0👍 0👎 1❓
-* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5742](sb/5742) - DOT grant programs 1👍 0👎 0❓
-* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5412](sb/5412) - Land use permitting/local 59👍 0👎 1❓
-* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5738](sb/5738) - LeMay special license plate 219👍 0👎 1❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1554](hb/1554) - Lead impacts 66👍 618👎 12❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1363](hb/1363) - Vehicular pursuits 267👍 600👎 3❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1687](hb/1687) - Vehicle service fees 6👍 1👎 1❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1807](hb/1807) - Speed safety cameras 14👍 2👎 0❓
+* [TR Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30821) [HB 1829](hb/1829) - LeMay special license plate 1330👍 0👎 13❓
+* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5735](sb/5735) - Impounded vehicles/military 2👍 0👎 0❓
+* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5742](sb/5742) - DOT grant programs 2👍 0👎 0❓
+* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5652](sb/5652) - Tow truck operator comp. 3👍 0👎 1❓
+* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5412](sb/5412) - Land use permitting/local 62👍 0👎 1❓
+* [TRAN Mon 02/20 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30814) [SB 5738](sb/5738) - LeMay special license plate 1302👍 1👎 11❓
 * [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1711](hb/1711) - Internet projects/tribes 2👍 0👎 0❓
 * [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1742](hb/1742) - Nontax statutes/DOR 2👍 0👎 0❓
 * [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1815](hb/1815) - Payment card processing/tax 2👍 0👎 0❓
-* [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1611](hb/1611) - Local government permitting 73👍 14👎 0❓
-* [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1812](hb/1812) - Medicaid/B&O tax deductions 9👍 0👎 0❓
-* [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1628](hb/1628) - Real estate excise tax 894👍 954👎 3❓
-* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5241](sb/5241) - Health care marketplace 704👍 24👎 0❓
-* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5263](sb/5263) - Psilocybin 117👍 8👎 4❓
-* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5134](sb/5134) - Reentry services & supports 67👍 0👎 1❓
-* [TR Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30824) [HB 1832](hb/1832) - Vehicle per mile charge 1👍 14👎 0❓
-* [TR Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30824) [HB 1513](hb/1513) - Traffic safety 702👍 37👎 5❓
-* [FIN Wed 02/22 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30830) [HB 1729](hb/1729) - Hydrogen fuel products 1👍 0👎 0❓
-* [FIN Wed 02/22 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30830) [HB 1793](hb/1793) - Wireless devices tax 0👍 4👎 0❓
-* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5039](sb/5039) - Wildfires/electric utilities 1👍 0👎 0❓
-* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5057](sb/5057) - Energy standards/commercial 36👍 329👎 1❓
+* [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1611](hb/1611) - Local government permitting 74👍 14👎 0❓
+* [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1812](hb/1812) - Medicaid/B&O tax deductions 10👍 0👎 0❓
+* [FIN Tue 02/21 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30829) [HB 1628](hb/1628) - Real estate excise tax 968👍 991👎 3❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5248](sb/5248) - Tutoring & extended learning 24👍 0👎 5❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5393](sb/5393) - Health provider contracting 245👍 15👎 2❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5438](sb/5438) - Supportive relationships 37👍 4👎 2❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5537](sb/5537) - Hospital staffing collab. 108👍 16👎 0❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5670](sb/5670) - Running start/10th grade 3👍 4👎 3❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5702](sb/5702) - Student homelessness pilot 34👍 0👎 0❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5305](sb/5305) - Office of career connect WA 42👍 1👎 8❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5480](sb/5480) - Work-limiting disability 2👍 0👎 0❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5263](sb/5263) - Psilocybin 119👍 8👎 4❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5566](sb/5566) - Postsecondary student needs 96👍 9👎 0❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5134](sb/5134) - Reentry services & supports 85👍 0👎 1❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5120](sb/5120) - 23-hr crisis relief centers 22👍 0👎 0❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5532](sb/5532) - Small rural hospital payment 189👍 0👎 3❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5241](sb/5241) - Health care marketplace 748👍 24👎 0❓
+* [WM Tue 02/21 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30850) [SB 5373](sb/5373) - ARNP, PA, & MD reimbursement 631👍 143👎 0❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1381](hb/1381) - Salmon-safe communities 9👍 4👎 3❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1550](hb/1550) - Transition to kindergarten 152👍 55👎 11❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1593](hb/1593) - RN PTSD/industrial insurance 18👍 1👎 3❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1678](hb/1678) - Dental therapists 406👍 382👎 1❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1724](hb/1724) - Behavioral health workforce 16👍 0👎 6❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1762](hb/1762) - Warehouse employees 12👍 4👎 0❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1216](hb/1216) - Clean energy siting 66👍 11👎 7❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1391](hb/1391) - Energy in buildings 627👍 62👎 9❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1025](hb/1025) - Police/private actions 839👍 40👎 1❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1110](hb/1110) - Middle housing 1839👍 103👎 15❓
+* [APP Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30810) [HB 1479](hb/1479) - Student restraint, isolation 210👍 24👎 6❓
+* [TR Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30824) [HB 1832](hb/1832) - Vehicle per mile charge 2👍 20👎 1❓
+* [TR Tue 02/21 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30824) [HB 1513](hb/1513) - Traffic safety 1415👍 45👎 6❓
+* [FIN Wed 02/22 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30830) [HB 1729](hb/1729) - Hydrogen fuel products 3👍 1👎 0❓
+* [FIN Wed 02/22 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30830) [HB 1793](hb/1793) - Wireless devices tax 0👍 5👎 0❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1470](hb/1470) - Private detention facilities 217👍 4👎 3❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1515](hb/1515) - Behavioral health contracts 33👍 0👎 3❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1238](hb/1238) - Free school meals 731👍 27👎 0❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1474](hb/1474) - Covenant homeownership prg. 838👍 41👎 5❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1492](hb/1492) - State v. Blake relief 53👍 19👎 2❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1586](hb/1586) - Vehicular pursuits work grp. 299👍 28👎 7❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1579](hb/1579) - Independent prosecutions 447👍 234👎 2❓
+* [APP Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30811) [HB 1389](hb/1389) - Residential rent increases 1589👍 1375👎 13❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5302](sb/5302) - Adult family homes/prop. tax 29👍 0👎 0❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5433](sb/5433) - Derelict aquatic structures 27👍 1👎 3❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5094](sb/5094) - Water system plans/climate 156👍 21👎 0❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5057](sb/5057) - Energy standards/commercial 39👍 329👎 1❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5039](sb/5039) - Wildfires/electric utilities 7👍 0👎 0❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5688](sb/5688) - Providing carbon sequestration and ecosystem services in the management of public lands. 321👍 371👎 7❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5322](sb/5322) - Public building materials 310👍 65👎 4❓
+* [WM Wed 02/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30851) [SB 5651](sb/5651) - GMA/equity and env. justice 938👍 34👎 8❓
+* [APP Thu 02/23 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30812) [HB 1320](hb/1320) - Personnel records 50👍 30👎 7❓
+* [APP Thu 02/23 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30812) [HB 1491](hb/1491) - Employee personal vehicles 31👍 0👎 1❓
+* [APP Thu 02/23 09:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/30812) [HB 1508](hb/1508) - Health care cost board 185👍 33👎 2❓
 
 ## Heard bills
 * [HB 1038](hb/1038) - Anesthesiologist assistants 2398👍 6105👎 38❓ - H HC/Wellness
@@ -103,7 +136,7 @@
 * [HB 1333](hb/1333) - Domestic violent extremism 253👍 5450👎 12❓ - H Approps
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 1680👍 3929👎 2❓ - S Ways & Means
 * [SB 5236](sb/5236) - Hospital staffing standards 7812👍 1905👎 81❓ - S Ways & Means
-* [HB 1389](hb/1389) - Residential rent increases 1581👍 1373👎 13❓ - H Approps
+* [HB 1389](hb/1389) - Residential rent increases 1589👍 1375👎 13❓ - H Approps
 * [SB 5078](sb/5078) - Firearm industry duties 1573👍 2782👎 0❓ - S Ways & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 253👍 5450👎 12❓ - H Approps
 * [HB 1473](hb/1473) - Wealth/property tax 2279👍 288👎 1❓ - H Finance
@@ -111,7 +144,7 @@
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 1680👍 3929👎 2❓ - S Ways & Means
 * [SB 5435](sb/5435) - Residential rent increases 1207👍 1090👎 11❓ - S Housing
 * [SB 5476](sb/5476) - Agricultural overtime 1079👍 902👎 5❓ - S Labor & Comm
-* [HB 1110](hb/1110) - Middle housing 1832👍 103👎 15❓ - H Approps
+* [HB 1110](hb/1110) - Middle housing 1839👍 103👎 15❓ - H Approps
 * [HB 1131](hb/1131) - Solid waste management 3225👍 100👎 40❓ - H Approps
 * [HB 1131](hb/1131) - Solid waste management 3225👍 100👎 40❓ - H Approps
 * [SB 5078](sb/5078) - Firearm industry duties 1573👍 2782👎 0❓ - S Ways & Means
@@ -122,7 +155,7 @@
 * [SB 5179](sb/5179) - Death with dignity act 1016👍 409👎 2❓ - S 2nd Reading
 * [SB 5024](sb/5024) - K-12 education/parent rights 983👍 433👎 3❓ - S EL/K-12
 * [SB 5441](sb/5441) - School district curricula 280👍 1127👎 2❓ - S Ways & Means
-* [HB 1628](hb/1628) - Real estate excise tax 894👍 954👎 3❓ - H Finance
+* [HB 1628](hb/1628) - Real estate excise tax 968👍 991👎 3❓ - H Finance
 * [HB 1181](hb/1181) - Climate change/planning 2077👍 359👎 7❓ - H Rules R
 * [HB 1071](hb/1071) - School resource officers 873👍 441👎 2❓ - H Education
 * [SB 5496](sb/5496) - Covenant homeownership prg. 916👍 364👎 1❓ - S Ways & Means
@@ -145,40 +178,41 @@
 * [SB 5624](sb/5624) - Substance use recovery serv. 892👍 26👎 10❓ - S Law & Justice
 * [HB 1460](hb/1460) - DNR land 903👍 15👎 7❓ - H Rules R
 * [HB 1244](hb/1244) - Enrichment levy authority 400👍 521👎 2❓ - H Rules R
-* [SB 5536](sb/5536) - Controlled substances 116👍 1503👎 29❓ - S Ways & Means
+* [SB 5536](sb/5536) - Controlled substances 121👍 1549👎 33❓ - S Ways & Means
 * [SB 5489](sb/5489) - Health care services/access 471👍 434👎 1❓ - S Rules 2
 * [SB 5198](sb/5198) - Mobile home community sales 770👍 132👎 2❓ - S Ways & Means
 * [HB 1424](hb/1424) - Dogs and cats/consumers 740👍 148👎 6❓ - H Rules R
 * [SB 5242](sb/5242) - Abortion cost sharing 633👍 875👎 0❓ - S Ways & Means
-* [HB 1474](hb/1474) - Covenant homeownership prg. 836👍 41👎 5❓ - H Approps
+* [HB 1474](hb/1474) - Covenant homeownership prg. 838👍 41👎 5❓ - H Approps
 * [HB 1269](hb/1269) - Rx drug affordability board 850👍 21👎 9❓ - H Rules R
-* [HB 1025](hb/1025) - Police/private actions 836👍 40👎 1❓ - H Approps
-* [HB 1363](hb/1363) - Vehicular pursuits 265👍 595👎 2❓ - H Transportation
+* [HB 1025](hb/1025) - Police/private actions 839👍 40👎 1❓ - H Approps
+* [HB 1363](hb/1363) - Vehicular pursuits 267👍 600👎 3❓ - H Transportation
 * [HB 1489](hb/1489) - Mt. St. Helens license plate 861👍 1👎 0❓ - H 2nd Reading
 * [SB 5697](sb/5697) - Mobile home park rates 551👍 304👎 0❓ - S Ways & Means
-* [HB 1789](hb/1789) - Ecosystem services 377👍 458👎 3❓ - H Cap Budget
+* [HB 1789](hb/1789) - Ecosystem services 377👍 465👎 3❓ - H Cap Budget
 * [SB 5356](sb/5356) - Procurement/automated system 802👍 11👎 3❓ - S Environment, E
-* [HB 1151](hb/1151) - Fertility services coverage 983👍 65👎 1❓ - H Approps
+* [HB 1151](hb/1151) - Fertility services coverage 1072👍 73👎 2❓ - H Approps
 * [HB 1445](hb/1445) - Law enf. misconduct 1047👍 193👎 1❓ - H Approps
-* [HB 1678](hb/1678) - Dental therapists 405👍 382👎 1❓ - H Approps
+* [HB 1678](hb/1678) - Dental therapists 406👍 382👎 1❓ - H Approps
+* [SB 5536](sb/5536) - Controlled substances 121👍 1549👎 33❓ - S Ways & Means
 * [HB 1002](hb/1002) - Hazing penalty 764👍 4👎 2❓ - H Rules R
 * [HB 1785](hb/1785) - COVID-19/occupational 34👍 733👎 1❓ - H Labor & Workpl
 * [SB 5442](sb/5442) - Charter schools/enrichment 595👍 169👎 4❓ - S EL/K-12
-* [HB 1238](hb/1238) - Free school meals 729👍 27👎 0❓ - H Approps
-* [SB 5651](sb/5651) - GMA/equity and env. justice 711👍 34👎 7❓ - S Ways & Means
+* [HB 1238](hb/1238) - Free school meals 731👍 27👎 0❓ - H Approps
+* [SB 5651](sb/5651) - GMA/equity and env. justice 938👍 34👎 8❓ - S Ways & Means
 * [SB 5466](sb/5466) - Transit-oriented development 1301👍 8👎 9❓ - S Transportation
 * [SB 5197](sb/5197) - Eviction processes 33👍 703👎 4❓ - S Rules 2G
 * [HB 1153](hb/1153) - Octopus farming 678👍 58👎 1❓ - H Rules R
 * [HB 1569](hb/1569) - Common interest communities 9👍 711👎 5❓ - H Approps
 * [HB 1469](hb/1469) - Health care services/access 359👍 342👎 0❓ - H 2nd Reading
-* [HB 1239](hb/1239) - Educator ethics & complaints 207👍 485👎 2❓ - H Approps
-* [HB 1554](hb/1554) - Lead impacts 62👍 616👎 12❓ - H Transportation
-* [SB 5688](sb/5688) - Providing carbon sequestration and ecosystem services in the management of public lands. 311👍 370👎 7❓ - S Ways & Means
-* [SB 5241](sb/5241) - Health care marketplace 704👍 24👎 0❓ - S Ways & Means
+* [HB 1239](hb/1239) - Educator ethics & complaints 210👍 485👎 2❓ - H Approps
+* [HB 1554](hb/1554) - Lead impacts 66👍 618👎 12❓ - H Transportation
+* [SB 5688](sb/5688) - Providing carbon sequestration and ecosystem services in the management of public lands. 321👍 371👎 7❓ - S Ways & Means
+* [SB 5241](sb/5241) - Health care marketplace 748👍 24👎 0❓ - S Ways & Means
 * [HB 1230](hb/1230) - School websites/drug info. 414👍 257👎 11❓ - H 2nd Reading
 * [HB 1655](hb/1655) - Provider contract comp. 677👍 5👎 0❓ - H HC/Wellness
-* [HB 1579](hb/1579) - Independent prosecutions 444👍 234👎 2❓ - H Approps
-* [HB 1513](hb/1513) - Traffic safety 702👍 37👎 5❓ - H Transportation
+* [HB 1579](hb/1579) - Independent prosecutions 447👍 234👎 2❓ - H Approps
+* [HB 1513](hb/1513) - Traffic safety 1415👍 45👎 6❓ - H Transportation
 * [HB 1094](hb/1094) - Future fund program 386👍 288👎 0❓ - H Approps
 * [SB 5204](sb/5204) - Fertility services coverage 625👍 40👎 0❓ - S Health & Long
 * [HB 1222](hb/1222) - Hearing instruments coverage 988👍 3👎 3❓ - H Rules R
@@ -190,7 +224,7 @@
 * [HB 1176](hb/1176) - Climate-ready communities 531👍 309👎 2❓ - H Approps
 * [SB 5372](sb/5372) - DNR land 600👍 11👎 13❓ - S Ways & Means
 * [SB 5242](sb/5242) - Abortion cost sharing 633👍 875👎 0❓ - S Ways & Means
-* [SB 5373](sb/5373) - ARNP, PA, & MD reimbursement 475👍 143👎 0❓ - S Ways & Means
+* [SB 5373](sb/5373) - ARNP, PA, & MD reimbursement 631👍 143👎 0❓ - S Ways & Means
 * [SB 5169](sb/5169) - Medicare/health care plans 611👍 1👎 3❓ - S Ways & Means
 * [HB 1517](hb/1517) - Transit-oriented development 566👍 6👎 8❓ - H Housing
 * [SB 5466](sb/5466) - Transit-oriented development 1301👍 8👎 9❓ - S Transportation
@@ -207,7 +241,7 @@
 * [SB 5072](sb/5072) - Highly capable students 474👍 15👎 5❓ - H Education
 * [HB 1035](hb/1035) - Health care restrictions 203👍 290👎 0❓ - H HC/Wellness
 * [SB 5467](sb/5467) - Controlled sub. possession 223👍 260👎 6❓ - S Law & Justice
-* [SB 5562](sb/5562) - Clean energy 293👍 192👎 11❓ - S Ways & Means
+* [SB 5562](sb/5562) - Clean energy 328👍 225👎 12❓ - S Ways & Means
 * [HB 1723](hb/1723) - GMA/equity and env. justice 122👍 346👎 6❓ - H Local Govt
 * [HB 1286](hb/1286) - Reprod. health/employers 35👍 434👎 0❓ - H Labor & Workpl
 * [SB 5249](sb/5249) - Working families' tax credit 467👍 0👎 1❓ - S Ways & Means
@@ -217,7 +251,7 @@
 * [HB 1541](hb/1541) - Lived experience 271👍 170👎 3❓ - H Approps
 * [HB 1393](hb/1393) - Journey level electricians 394👍 41👎 3❓ - H Labor & Workpl
 * [HB 1087](hb/1087) - Solitary confinement 416👍 8👎 3❓ - H Approps
-* [HB 1391](hb/1391) - Energy in buildings 625👍 62👎 9❓ - H Approps
+* [HB 1391](hb/1391) - Energy in buildings 627👍 62👎 9❓ - H Approps
 * [SB 5350](sb/5350) - PERS/TRS 1 benefit increase 424👍 0👎 0❓ - S Ways & Means
 * [SB 5451](sb/5451) - Long sentences review 417👍 5👎 0❓ - S Law & Justice
 * [SB 5383](sb/5383) - Pedestrians/roadways 398👍 9👎 5❓ - S Transportation
@@ -229,11 +263,11 @@
 * [SB 5202](sb/5202) - Housing/capital expenditures 384👍 14👎 3❓ - S Ways & Means
 * [HB 1129](hb/1129) - Mobile home community sales 342👍 55👎 0❓ - H Rules R
 * [SB 5217](sb/5217) - Musculoskeletal injuries/L&I 335👍 55👎 4❓ - S 2nd Reading
-* [HB 1392](hb/1392) - Electronics repair 399👍 6👎 2❓ - H Approps
+* [HB 1392](hb/1392) - Electronics repair 408👍 6👎 2❓ - H Approps
 * [SB 5104](sb/5104) - Marine shoreline habitat 587👍 3👎 0❓ - S 2nd Reading
 * [SB 5366](sb/5366) - Utility shutoffs/heat 326👍 32👎 15❓ - S Rules 2
 * [HB 1433](hb/1433) - Energy labeling/residential 495👍 61👎 1❓ - H Approps
-* [SB 5057](sb/5057) - Energy standards/commercial 36👍 329👎 1❓ - S Ways & Means
+* [SB 5057](sb/5057) - Energy standards/commercial 39👍 329👎 1❓ - S Ways & Means
 * [HB 1417](hb/1417) - Multistate nurse licensure 340👍 17👎 5❓ - H Approps
 * [HB 1245](hb/1245) - Lot splitting 348👍 4👎 6❓ - H 2nd Reading
 * [SB 5505](sb/5505) - School year expansion 8👍 345👎 3❓ - S EL/K-12
@@ -242,7 +276,7 @@
 * [SB 5590](sb/5590) - Mt. St. Helens license plate 351👍 0👎 1❓ - S Transportation
 * [SB 5228](sb/5228) - Behavioral health OT 350👍 0👎 1❓ - S Ways & Means
 * [SB 5140](sb/5140) - Election security testing 337👍 10👎 2❓ - S State Govt & E
-* [SB 5144](sb/5144) - Batteries/environment 359👍 4👎 9❓ - S Ways & Means
+* [SB 5144](sb/5144) - Batteries/environment 365👍 5👎 10❓ - S Ways & Means
 * [HB 1055](hb/1055) - Pub safety telecommunicators 343👍 1👎 1❓ - H Rules R
 * [HB 1337](hb/1337) - Accessory dwelling units 327👍 10👎 4❓ - H 2nd Reading
 * [HB 1324](hb/1324) - Prior juvenile offenses 329👍 7👎 2❓ - H Rules R
@@ -251,13 +285,13 @@
 * [HB 1258](hb/1258) - Tourism marketing 524👍 50👎 1❓ - H Rules R
 * [HB 1170](hb/1170) - Climate response strategy 398👍 19👎 4❓ - H Rules R
 * [HB 1340](hb/1340) - Health professions/conduct 315👍 17👎 0❓ - H Rules R
-* [HB 1586](hb/1586) - Vehicular pursuits work grp. 297👍 28👎 7❓ - H Approps
+* [HB 1586](hb/1586) - Vehicular pursuits work grp. 299👍 28👎 7❓ - H Approps
 * [SB 5059](sb/5059) - Prejudgment interest 322👍 243👎 2❓ - S Ways & Means
 * [HB 1317](hb/1317) - Grassroots lobbying 36👍 291👎 2❓ - H Rules R
 * [HB 1418](hb/1418) - Charter schools/enrichment 253👍 69👎 6❓ - H Approps
 * [HB 1436](hb/1436) - Special education funding 319👍 1👎 7❓ - H Approps
 * [SB 5309](sb/5309) - Petroleum transportation/tax 320👍 6👎 0❓ - S Rules 2
-* [SB 5322](sb/5322) - Public building materials 257👍 65👎 4❓ - S Ways & Means
+* [SB 5322](sb/5322) - Public building materials 310👍 65👎 4❓ - S Ways & Means
 * [SB 5509](sb/5509) - Public infrastructure bank 144👍 179👎 0❓ - S Business, Fin
 * [HB 1817](hb/1817) - Housing gap voucher pilot 230👍 87👎 1❓ - H Housing
 * [HB 1564](hb/1564) - OTC sexual assault kits 223👍 90👎 1❓ - H Rules R
@@ -276,16 +310,17 @@
 * [SB 5464](sb/5464) - Electronics repair 274👍 4👎 1❓ - S Environment, E
 * [HB 1085](hb/1085) - Plastic pollution 275👍 2👎 1❓ - H Rules R
 * [HB 1272](hb/1272) - Voters' pamphlets 74👍 259👎 1❓ - H Approps
+* [SB 5498](sb/5498) - Nurse student loan repayment 34👍 252👎 0❓ - S Ways & Means
 * [SB 5093](sb/5093) - Climate response strategy 538👍 28👎 2❓ - S Ways & Means
-* [HB 1391](hb/1391) - Energy in buildings 625👍 62👎 9❓ - H Approps
+* [HB 1391](hb/1391) - Energy in buildings 627👍 62👎 9❓ - H Approps
 * [HB 1135](hb/1135) - Impact fee use 253👍 15👎 0❓ - H Rules R
 * [SB 5459](sb/5459) - Election info. requests 34👍 232👎 2❓ - S Rules 2
 * [SB 5707](sb/5707) - Housing court pilot program 21👍 242👎 4❓ - S Law & Justice
 * [SB 5125](sb/5125) - Future fund program 187👍 76👎 1❓ - S Ways & Means
 * [SB 5533](sb/5533) - Model vehicle pursuit policy 386👍 10👎 13❓ - S Ways & Means
-* [HB 1477](hb/1477) - Working families' tax credit 259👍 2👎 7❓ - H Approps
+* [HB 1477](hb/1477) - Working families' tax credit 262👍 2👎 7❓ - H Approps
 * [HB 1583](hb/1583) - Certified peer specialists 27👍 234👎 1❓ - H HC/Wellness
-* [SB 5393](sb/5393) - Health provider contracting 244👍 15👎 2❓ - S Ways & Means
+* [SB 5393](sb/5393) - Health provider contracting 245👍 15👎 2❓ - S Ways & Means
 * [SB 5434](sb/5434) - Juvenile court jurisdiction 253👍 7👎 1❓ - S Ways & Means
 * [SB 5650](sb/5650) - K-12 inflationary increases 257👍 1👎 1❓ - S Ways & Means
 * [HB 1251](hb/1251) - Water system notices 243👍 12👎 1❓ - S Health & Long T
@@ -300,8 +335,9 @@
 * [SB 5333](sb/5333) - Sport special license plate 227👍 0👎 9❓ - S Transportation
 * [SB 5425](sb/5425) - Fire sprinkler contractors 225👍 4👎 7❓ - S Ways & Means
 * [SB 5741](sb/5741) - Housing gap voucher pilot 85👍 151👎 0❓ - S Housing
-* [HB 1479](hb/1479) - Student restraint, isolation 202👍 24👎 6❓ - H Approps
-* [HB 1720](hb/1720) - Riparian grant program 218👍 4👎 9❓ - H Cap Budget
+* [HB 1479](hb/1479) - Student restraint, isolation 210👍 24👎 6❓ - H Approps
+* [SB 5710](sb/5710) - Behavioral health/youth 50👍 388👎 1❓ - S Ways & Means
+* [HB 1720](hb/1720) - Riparian grant program 253👍 5👎 9❓ - H Cap Budget
 * [HB 1260](hb/1260) - Work-limiting disability 532👍 1👎 1❓ - H Approps
 * [HB 1136](hb/1136) - Employee expenditures 22👍 201👎 5❓ - H 2nd Reading
 * [SB 5208](sb/5208) - Online voter registration 213👍 15👎 0❓ - H State Govt & Tr
@@ -309,23 +345,23 @@
 * [SB 5456](sb/5456) - Minimum parking requirements 212👍 13👎 1❓ - S Loc Gov, Land
 * [HB 1584](hb/1584) - Nuclear reactor technology 94👍 128👎 2❓ - H Rules R
 * [SB 5112](sb/5112) - Voter registration 198👍 26👎 0❓ - H State Govt & Tr
-* [HB 1470](hb/1470) - Private detention facilities 216👍 4👎 3❓ - H Approps
+* [HB 1470](hb/1470) - Private detention facilities 217👍 4👎 3❓ - H Approps
 * [SB 5555](sb/5555) - Certified peer specialists 19👍 203👎 1❓ - S Ways & Means
 * [HB 1575](hb/1575) - Cultural access programs/tax 356👍 56👎 1❓ - H Finance
-* [HB 1508](hb/1508) - Health care cost board 184👍 33👎 2❓ - H Approps
+* [HB 1508](hb/1508) - Health care cost board 185👍 33👎 2❓ - H Approps
 * [HB 1176](hb/1176) - Climate-ready communities 531👍 309👎 2❓ - H Approps
 * [SB 5465](sb/5465) - Tourism marketing 516👍 1👎 2❓ - S Ways & Means
-* [HB 1550](hb/1550) - Transition to kindergarten 151👍 55👎 11❓ - H Approps
+* [HB 1550](hb/1550) - Transition to kindergarten 152👍 55👎 11❓ - H Approps
 * [SB 5104](sb/5104) - Marine shoreline habitat 587👍 3👎 0❓ - S 2nd Reading
 * [SB 5150](sb/5150) - Beef levied assessment 157👍 60👎 0❓ - S Rules 2
 * [HB 1351](hb/1351) - Minimum parking requirements 194👍 20👎 2❓ - H Rules R
 * [SB 5129](sb/5129) - Nuclear reactor technology 59👍 155👎 1❓ - S 2nd Reading
-* [SB 5447](sb/5447) - Alternative jet fuel 64👍 153👎 4❓ - S Ways & Means
+* [SB 5447](sb/5447) - Alternative jet fuel 70👍 153👎 4❓ - S Ways & Means
 * [HB 1164](hb/1164) - Appliance management 180👍 28👎 2❓ - H Env & Energy
 * [SB 5499](sb/5499) - Multistate nurse licensure 195👍 12👎 3❓ - S Rules 2
 * [HB 1443](hb/1443) - Online voter registration 195👍 13👎 0❓ - H 2nd Reading
 * [HB 1291](hb/1291) - Academic employee bargaining 445👍 18👎 0❓ - H Approps
-* [SB 5710](sb/5710) - Behavioral health/youth 44👍 361👎 0❓ - S Ways & Means
+* [SB 5710](sb/5710) - Behavioral health/youth 50👍 388👎 1❓ - S Ways & Means
 * [HB 1505](hb/1505) - Alternative jet fuel 58👍 144👎 5❓ - H Env & Energy
 * [SB 5727](sb/5727) - Common int. comms./consumers 10👍 192👎 2❓ - S Law & Justice
 * [SB 5667](sb/5667) - Forestry riparian easements 188👍 7👎 3❓ - S Ag/Water/Natura
@@ -343,25 +379,25 @@
 * [HB 1089](hb/1089) - Sex trafficking 348👍 0👎 4❓ - H Approps
 * [HB 1329](hb/1329) - Utility shutoffs/heat 230👍 8👎 34❓ - H Rules R
 * [HB 1475](hb/1475) - Online ballot portal 18👍 164👎 1❓ - H State Govt & T
-* [HB 1378](hb/1378) - Derelict aquatic structures 188👍 1👎 3❓ - H Cap Budget
+* [HB 1378](hb/1378) - Derelict aquatic structures 189👍 1👎 3❓ - H Cap Budget
 * [HB 1169](hb/1169) - Legal financial obligations 228👍 2👎 4❓ - H Approps
 * [HB 1111](hb/1111) - Housing benefit districts 178👍 1👎 0❓ - H Cap Budget
 * [HB 1589](hb/1589) - Clean energy 137👍 25👎 16❓ - H Rules R
 * [SB 5213](sb/5213) - Pharmacy benefit managers 153👍 21👎 2❓ - S Ways & Means
 * [SB 5559](sb/5559) - Student restraint, isolation 149👍 20👎 7❓ - S EL/K-12
-* [SB 5626](sb/5626) - K-12 media literacy 165👍 30👎 1❓ - S Ways & Means
-* [SB 5094](sb/5094) - Water system plans/climate 153👍 21👎 0❓ - S Ways & Means
+* [SB 5626](sb/5626) - K-12 media literacy 182👍 47👎 1❓ - S Ways & Means
+* [SB 5094](sb/5094) - Water system plans/climate 156👍 21👎 0❓ - S Ways & Means
 * [SB 5570](sb/5570) - Energy efficiency loans 172👍 0👎 2❓ - S Environment, E
-* [SB 5703](sb/5703) - College grant/bridge grants 186👍 0👎 0❓ - S Ways & Means
+* [SB 5703](sb/5703) - College grant/bridge grants 197👍 0👎 0❓ - S Ways & Means
 * [HB 1565](hb/1565) - Prof. education workforce 153👍 20👎 0❓ - H Approps
-* [HB 1580](hb/1580) - Children in crisis 178👍 2👎 1❓ - H Approps
+* [HB 1580](hb/1580) - Children in crisis 180👍 2👎 1❓ - H Approps
 * [SB 5332](sb/5332) - Homeless camps/schools, etc. 72👍 101👎 0❓ - S Loc Gov, Land
-* [HB 1229](hb/1229) - Voter registration 113👍 58👎 1❓ - H Transportation
+* [HB 1229](hb/1229) - Voter registration 114👍 58👎 2❓ - H Transportation
 * [HB 1168](hb/1168) - Prenatal substance exposure 284👍 2👎 0❓ - H Rules R
-* [SB 5165](sb/5165) - Electric transm. planning 175👍 3👎 10❓ - S Ways & Means
-* [SB 5532](sb/5532) - Small rural hospital payment 166👍 0👎 2❓ - S Ways & Means
+* [SB 5165](sb/5165) - Electric transm. planning 180👍 18👎 10❓ - S Ways & Means
+* [SB 5532](sb/5532) - Small rural hospital payment 189👍 0👎 3❓ - S Ways & Means
 * [HB 1089](hb/1089) - Sex trafficking 348👍 0👎 4❓ - H Approps
-* [HB 1633](hb/1633) - Homes for heroes program 169👍 0👎 1❓ - H Cap Budget
+* [HB 1633](hb/1633) - Homes for heroes program 170👍 0👎 1❓ - H Cap Budget
 * [SB 5409](sb/5409) - Voter identifier numbers 162👍 5👎 0❓ - S State Govt & El
 * [SB 5102](sb/5102) - School library info and tech 1108👍 8👎 6❓ - S Ways & Means
 * [SB 5312](sb/5312) - Clean energy/residential 133👍 31👎 1❓ - S Loc Gov, Land
@@ -370,7 +406,7 @@
 * [SB 5414](sb/5414) - Elections law violation info 159👍 4👎 1❓ - S State Govt & El
 * [HB 1618](hb/1618) - Childhood sexual abuse/SOL 240👍 6👎 1❓ - H Approps
 * [SB 5111](sb/5111) - Sick leave/construction 140👍 13👎 3❓ - S Rules 2
-* [SB 5474](sb/5474) - Juvenile justice 214👍 9👎 6❓ - S Ways & Means
+* [SB 5474](sb/5474) - Juvenile justice 235👍 11👎 7❓ - S Ways & Means
 * [SB 5171](sb/5171) - Consumer products/gender 137👍 13👎 0❓ - S Ways & Means
 * [HB 1386](hb/1386) - Youth development grants 117👍 29👎 2❓ - H Approps
 * [HB 1426](hb/1426) - Controlled entities 147👍 0👎 0❓ - H Rules R
@@ -390,13 +426,13 @@
 * [SB 5579](sb/5579) - Hydrofluorocarbons/supply 6👍 128👎 1❓ - S Ways & Means
 * [HB 1012](hb/1012) - Extreme weather events 132👍 2👎 0❓ - H Rules R
 * [SB 5452](sb/5452) - Impact fee use 164👍 36👎 0❓ - S Rules 2
-* [HB 1447](hb/1447) - Assistance programs 221👍 0👎 3❓ - H Approps
-* [SB 5269](sb/5269) - Manufacturing 131👍 8👎 1❓ - S Ways & Means
+* [HB 1447](hb/1447) - Assistance programs 259👍 0👎 4❓ - H Approps
+* [SB 5269](sb/5269) - Manufacturing 135👍 8👎 1❓ - S Ways & Means
 * [SB 5189](sb/5189) - Behavioral health support 201👍 5👎 4❓ - S Ways & Means
-* [HB 1332](hb/1332) - Tribes/K-12 instruction 133👍 5👎 0❓ - H Approps
+* [HB 1332](hb/1332) - Tribes/K-12 instruction 142👍 5👎 0❓ - H Approps
 * [SB 5259](sb/5259) - Product theft 123👍 0👎 8❓ - S Ways & Means
 * [SB 5453](sb/5453) - Female genital mutilation 269👍 1👎 3❓ - S LAWDPS
-* [SB 5263](sb/5263) - Psilocybin 117👍 8👎 4❓ - S Ways & Means
+* [SB 5263](sb/5263) - Psilocybin 119👍 8👎 4❓ - S Ways & Means
 * [SB 5594](sb/5594) - Fully autonomous vehicles 26👍 96👎 6❓ - S Transportation
 * [HB 1313](hb/1313) - Health care afford./medicare 126👍 0👎 1❓ - H Approps
 * [HB 1406](hb/1406) - Youth seeking housing assist 212👍 1👎 1❓ - H Approps
@@ -407,16 +443,17 @@
 * [HB 1394](hb/1394) - Sexual offenses by youth 98👍 22👎 4❓ - H Approps
 * [SB 5641](sb/5641) - African heritage week 118👍 0👎 6❓ - S State Govt & E
 * [SB 5712](sb/5712) - College grant/promise prg. 121👍 0👎 3❓ - S Higher Ed & Wo
-* [SB 5537](sb/5537) - Hospital staffing collab. 108👍 15👎 0❓ - S Ways & Means
-* [SB 5427](sb/5427) - Hate crimes & bias incidents 129👍 35👎 1❓ - S Ways & Means
-* [SB 5546](sb/5546) - Cannabis commission 68👍 54👎 2❓ - S Ways & Means
+* [SB 5537](sb/5537) - Hospital staffing collab. 108👍 16👎 0❓ - S Ways & Means
+* [SB 5427](sb/5427) - Hate crimes & bias incidents 190👍 401👎 2❓ - S Ways & Means
+* [SB 5546](sb/5546) - Cannabis commission 76👍 57👎 2❓ - S Ways & Means
 * [HB 1047](hb/1047) - Cosmetic product chemicals 110👍 4👎 2❓ - H Rules R
 * [HB 1168](hb/1168) - Prenatal substance exposure 284👍 2👎 0❓ - H Rules R
 * [HB 1255](hb/1255) - Health care prof. SUD prg. 114👍 0👎 2❓ - H Rules C
-* [SB 5278](sb/5278) - Home care aide certification 179👍 1👎 5❓ - S Ways & Means
+* [SB 5278](sb/5278) - Home care aide certification 187👍 1👎 5❓ - S Ways & Means
 * [SB 5392](sb/5392) - Concerning overpayments for certain matters. 111👍 2👎 3❓ - S 2nd RdConsCal
+* [SB 5454](sb/5454) - RN PTSD/industrial insurance 168👍 3👎 8❓ - S Ways & Means
 * [SB 5080](sb/5080) - Cannabis social equity 96👍 16👎 3❓ - S Ways & Means
-* [SB 5225](sb/5225) - Working conn. child care 153👍 0👎 0❓ - S Ways & Means
+* [SB 5225](sb/5225) - Working conn. child care 193👍 0👎 0❓ - S Ways & Means
 * [SB 5671](sb/5671) - K-12 experience factors 113👍 0👎 1❓ - S EL/K-12
 * [SB 5699](sb/5699) - Increasing the compensation for members of the fish and wildlife commission. 110👍 4👎 0❓ - S Ag/Water/Natura
 * [HB 1132](hb/1132) - Limited authority officers 107👍 2👎 4❓ - H Approps
@@ -442,7 +479,8 @@
 * [HB 1446](hb/1446) - Law enf. officers/increase 95👍 4👎 0❓ - H Local Govt
 * [HB 1622](hb/1622) - Students/homelessness 99👍 0👎 0❓ - H Rules R
 * [HB 1522](hb/1522) - Sexual misconduct/assocs. 76👍 17👎 4❓ - H Approps
-* [SB 5566](sb/5566) - Postsecondary student needs 92👍 9👎 0❓ - S Ways & Means
+* [SB 5474](sb/5474) - Juvenile justice 235👍 11👎 7❓ - S Ways & Means
+* [SB 5566](sb/5566) - Postsecondary student needs 96👍 9👎 0❓ - S Ways & Means
 * [HB 1488](hb/1488) - Working forest license plate 96👍 0👎 0❓ - H Rules R
 * [HB 1614](hb/1614) - Home cultivation of cannabis 89👍 6👎 1❓ - H Approps
 * [HB 1462](hb/1462) - Journey level electricians 64👍 29👎 1❓ - H Labor & Workpl
@@ -463,33 +501,33 @@
 * [SB 5002](sb/5002) - Alcohol concentration/DUI 71👍 66👎 3❓ - S 2nd Reading
 * [SB 5056](sb/5056) - Habitual property offenders 69👍 18👎 0❓ - S Rules 2G
 * [SB 5131](sb/5131) - Commissary funds 120👍 0👎 2❓ - S Ways & Means
-* [HB 1320](hb/1320) - Personnel records 49👍 30👎 7❓ - H Approps
+* [HB 1320](hb/1320) - Personnel records 50👍 30👎 7❓ - H Approps
 * [HB 1108](hb/1108) - Persistent offenders 77👍 7👎 1❓ - H Rules R
 * [HB 1247](hb/1247) - Music therapists 82👍 1👎 2❓ - H Rules R
 * [SB 5214](sb/5214) - Music therapists 81👍 2👎 2❓ - S Rules 2
-* [HB 1453](hb/1453) - Medical cannabis/tax 90👍 1👎 0❓ - H Finance
+* [HB 1453](hb/1453) - Medical cannabis/tax 106👍 1👎 0❓ - H Finance
 * [HB 1548](hb/1548) - Railroad workers 78👍 5👎 1❓ - H Rules R
 * [HB 1581](hb/1581) - Cannabis commission 53👍 29👎 2❓ - H Reg Subst & Ga
 * [HB 1357](hb/1357) - Prior authorization/health 70👍 9👎 4❓ - H Approps
 * [HB 1537](hb/1537) - Child care licensing 60👍 23👎 0❓ - H Human Svc, You
-* [HB 1216](hb/1216) - Clean energy siting 64👍 11👎 7❓ - H Approps
-* [HB 1611](hb/1611) - Local government permitting 73👍 14👎 0❓ - H Finance
+* [HB 1216](hb/1216) - Clean energy siting 66👍 11👎 7❓ - H Approps
+* [HB 1611](hb/1611) - Local government permitting 74👍 14👎 0❓ - H Finance
 * [HB 1695](hb/1695) - Surplus property/housing 82👍 0👎 0❓ - H Rules R
-* [SB 5601](sb/5601) - Youth development office 99👍 30👎 0❓ - S Ways & Means
+* [SB 5601](sb/5601) - Youth development office 104👍 30👎 0❓ - S Ways & Means
 * [HB 1307](hb/1307) - Physician bargaining 202👍 4👎 0❓ - H Approps
 * [HB 1458](hb/1458) - Apprenticeship programs/UI 60👍 20👎 1❓ - H Rules R
 * [HB 1652](hb/1652) - Child support pass through 80👍 0👎 1❓ - H Approps
 * [HB 1781](hb/1781) - Boater safety and education 3👍 77👎 1❓ - H Innov, Comm &
 * [SB 5256](sb/5256) - Child welfare housing 129👍 1👎 0❓ - S Ways & Means
 * [SB 5591](sb/5591) - Dependent youth financial ed 42👍 38👎 1❓ - S Ways & Means
-* [SB 5668](sb/5668) - Small districts/skill center 88👍 0👎 0❓ - S Ways & Means
+* [SB 5668](sb/5668) - Small districts/skill center 89👍 0👎 0❓ - S Ways & Means
 * [HB 1032](hb/1032) - Wildfires/electric utilities 80👍 0👎 0❓ - H Approps
 * [HB 1175](hb/1175) - Petroleum storage tanks 31👍 68👎 2❓ - H Rules R
 * [HB 1706](hb/1706) - Microenterprise home kitchen 66👍 12👎 2❓ - H Approps
 * [SB 5245](sb/5245) - Biosolids 8👍 65👎 7❓ - S Rules 2
 * [HB 1323](hb/1323) - Fire-resistant materials 60👍 18👎 1❓ - H Rules R
 * [HB 1677](hb/1677) - Campaign finance disclosure 78👍 1👎 0❓ - H Approps
-* [HB 1740](hb/1740) - Forestry riparian easements 73👍 4👎 2❓ - H Cap Budget
+* [HB 1740](hb/1740) - Forestry riparian easements 74👍 5👎 3❓ - H Cap Budget
 * [HB 1790](hb/1790) - Cannabis social equity 51👍 24👎 4❓ - H Reg Subst & Ga
 * [SB 5338](sb/5338) - Essential health benefits 78👍 0👎 1❓ - H HC/Wellness
 * [SB 5391](sb/5391) - Embodied carbon reductions 61👍 13👎 5❓ - S Environment, En
@@ -498,6 +536,7 @@
 * [HB 1642](hb/1642) - Cannabis concentrates 1👍 75👎 1❓ - H Reg Subst & Ga
 * [HB 1797](hb/1797) - Real estate appraisers/eval. 76👍 0👎 1❓ - H Rules R
 * [SB 5046](sb/5046) - Postconviction counsel 74👍 1👎 2❓ - S Rules 2
+* [SB 5278](sb/5278) - Home care aide certification 187👍 1👎 5❓ - S Ways & Means
 * [SB 5380](sb/5380) - Clean energy siting 59👍 9👎 9❓ - S Ways & Means
 * [HB 1401](hb/1401) - Housing permit process 74👍 1👎 1❓ - H Rules R
 * [SB 5126](sb/5126) - Common school trust revenue 86👍 0👎 0❓ - S Rules 2
@@ -507,7 +546,7 @@
 * [SB 5207](sb/5207) - Controlled entities 72👍 0👎 1❓ - H State Govt & Tr
 * [HB 1050](hb/1050) - Apprenticeship utilization 58👍 8👎 6❓ - H Cap Budget
 * [HB 1440](hb/1440) - Juvenile court jurisdiction 170👍 10👎 0❓ - H Human Svc, You
-* [HB 1492](hb/1492) - State v. Blake relief 51👍 19👎 2❓ - H Approps
+* [HB 1492](hb/1492) - State v. Blake relief 53👍 19👎 2❓ - H Approps
 * [HB 1506](hb/1506) - DSHS leases 3👍 68👎 1❓ - H Cap Budget
 * [SB 5644](sb/5644) - Juvenile records 45👍 25👎 1❓ - S Human Services
 * [HB 1013](hb/1013) - Regional apprenticeship prgs 134👍 53👎 8❓ - H Approps
@@ -520,7 +559,7 @@
 * [HB 1568](hb/1568) - Long-term care professionals 60👍 5👎 2❓ - H Rules R
 * [HB 1374](hb/1374) - Office of career connect WA 43👍 21👎 2❓ - H Postsec Ed & W
 * [HB 1619](hb/1619) - Renewable energy resources 26👍 38👎 2❓ - H Env & Energy
-* [SB 5134](sb/5134) - Reentry services & supports 67👍 0👎 1❓ - S Ways & Means
+* [SB 5134](sb/5134) - Reentry services & supports 85👍 0👎 1❓ - S Ways & Means
 * [SB 5452](sb/5452) - Impact fee use 164👍 36👎 0❓ - S Rules 2
 * [SB 5506](sb/5506) - Behavior support homes 60👍 0👎 6❓ - S Ways & Means
 * [HB 1187](hb/1187) - Employee-union privilege 55👍 7👎 3❓ - H Rules R
@@ -530,7 +569,7 @@
 * [SB 5448](sb/5448) - Delivery of alcohol 41👍 13👎 10❓ - S Ways & Means
 * [HB 1640](hb/1640) - Pardons and commutations 36👍 27👎 0❓ - H Rules R
 * [SB 5267](sb/5267) - Railroad workers 57👍 6👎 0❓ - S Rules 2
-* [SB 5454](sb/5454) - RN PTSD/industrial insurance 140👍 2👎 8❓ - S Ways & Means
+* [SB 5454](sb/5454) - RN PTSD/industrial insurance 168👍 3👎 8❓ - S Ways & Means
 * [SB 5513](sb/5513) - CTC mental health counseling 61👍 0👎 1❓ - S Ways & Means
 * [SB 5522](sb/5522) - College grant prg. stipend 62👍 0👎 0❓ - S Higher Ed & Wo
 * [HB 1186](hb/1186) - Child welfare housing 103👍 0👎 0❓ - H Rules R
@@ -548,14 +587,15 @@
 * [HB 1487](hb/1487) - Right shoulder/motorcycles 56👍 2👎 0❓ - H Transportation
 * [HB 1612](hb/1612) - Products containing THC 29👍 24👎 5❓ - H Reg Subst & Ga
 * [HB 1272](hb/1272) - Voters' pamphlets 74👍 259👎 1❓ - H Approps
-* [SB 5334](sb/5334) - Affordable housing funding 35👍 25👎 0❓ - S Ways & Means
+* [SB 5334](sb/5334) - Affordable housing funding 39👍 25👎 0❓ - S Ways & Means
 * [HB 1542](hb/1542) - AEDs/high voltage work 56👍 0👎 0❓ - H Rules R
 * [HB 1248](hb/1248) - Pupil transportation 52👍 0👎 3❓ - H Rules R
 * [HB 1293](hb/1293) - Development regulations 54👍 0👎 1❓ - H 2nd Reading
 * [HB 1342](hb/1342) - Embodied carbon reductions 40👍 12👎 3❓ - H Cap Budget
 * [HB 1371](hb/1371) - Freight railroad infra. 53👍 0👎 2❓ - H Finance
 * [HB 1480](hb/1480) - All-hazard emergency manage. 30👍 25👎 0❓ - H Approps
-* [SB 5230](sb/5230) - Extended foster care 52👍 7👎 2❓ - S Ways & Means
+* [SB 5230](sb/5230) - Extended foster care 56👍 7👎 2❓ - S Ways & Means
+* [SB 5626](sb/5626) - K-12 media literacy 182👍 47👎 1❓ - S Ways & Means
 * [HB 1114](hb/1114) - Sentencing comm'n members 54👍 0👎 0❓ - S Law & Justice
 * [HB 1169](hb/1169) - Legal financial obligations 228👍 2👎 4❓ - H Approps
 * [HB 1519](hb/1519) - Local project review 71👍 1👎 4❓ - H Rules R
@@ -575,7 +615,7 @@
 * [SB 5002](sb/5002) - Alcohol concentration/DUI 71👍 66👎 3❓ - S 2nd Reading
 * [SB 5417](sb/5417) - Employer political speech 38👍 13👎 1❓ - S 2nd Reading
 * [SB 5316](sb/5316) - DCYF background check fees 77👍 0👎 0❓ - S Ways & Means
-* [SB 5412](sb/5412) - Land use permitting/local 59👍 0👎 1❓ - S Transportation
+* [SB 5412](sb/5412) - Land use permitting/local 62👍 0👎 1❓ - S Transportation
 * [SB 5674](sb/5674) - Surplus property/housing 51👍 0👎 0❓ - S Rules 2
 * [HB 1199](hb/1199) - Child care/communities 524👍 25👎 48❓ - S Law & Justice
 * [SB 5095](sb/5095) - Parks/health & wellness 92👍 0👎 0❓ - S Ways & Means
@@ -585,8 +625,9 @@
 * [HB 1735](hb/1735) - GMA/net ecological gain 14👍 31👎 4❓ - H Approps
 * [SB 5256](sb/5256) - Child welfare housing 129👍 1👎 0❓ - S Ways & Means
 * [SB 5272](sb/5272) - Speed safety cameras 43👍 4👎 2❓ - S 2nd Reading
-* [SB 5305](sb/5305) - Office of career connect WA 40👍 1👎 8❓ - S Ways & Means
-* [SB 5367](sb/5367) - Products containing THC 39👍 17👎 7❓ - S Ways & Means
+* [SB 5305](sb/5305) - Office of career connect WA 42👍 1👎 8❓ - S Ways & Means
+* [SB 5353](sb/5353) - Voluntary stewardship prog. 74👍 1👎 2❓ - S Ways & Means
+* [SB 5367](sb/5367) - Products containing THC 42👍 20👎 7❓ - S Ways & Means
 * [SB 5539](sb/5539) - Tax increment financing 73👍 1👎 1❓ - S Ways & Means
 * [HB 1236](hb/1236) - Clean fuel/public transport. 21👍 27👎 0❓ - S Environment, En
 * [HB 1576](hb/1576) - Dentist compact 48👍 0👎 0❓ - H Rules R
@@ -607,7 +648,7 @@
 * [HB 1450](hb/1450) - Biomarker testing coverage 41👍 3👎 0❓ - H Approps
 * [HB 1578](hb/1578) - Wildland fire safety 42👍 0👎 2❓ - H Approps
 * [SB 5091](sb/5091) - Hydrogen fuel products 44👍 0👎 0❓ - S Ways & Means
-* [SB 5241](sb/5241) - Health care marketplace 704👍 24👎 0❓ - S Ways & Means
+* [SB 5241](sb/5241) - Health care marketplace 748👍 24👎 0❓ - S Ways & Means
 * [SB 5560](sb/5560) - Older driver safety 9👍 32👎 3❓ - S Transportation
 * [SB 5693](sb/5693) - Limiting liability for salmon recovery projects performed by regional fisheries enhancement groups. 35👍 4👎 5❓ - S Ag/Water/Natura
 * [HB 1000](hb/1000) - Working families' tax credit 37👍 3👎 3❓ - H Finance
@@ -621,16 +662,16 @@
 * [HB 1341](hb/1341) - Cannabis license ownership 14👍 25👎 3❓ - H Reg Subst & Ga
 * [SB 5095](sb/5095) - Parks/health & wellness 92👍 0👎 0❓ - S Ways & Means
 * [SB 5299](sb/5299) - Law enf. officer protection 38👍 4👎 0❓ - S Rules 2
-* [SB 5438](sb/5438) - Supportive relationships 37👍 4👎 1❓ - S Ways & Means
+* [SB 5438](sb/5438) - Supportive relationships 37👍 4👎 2❓ - S Ways & Means
 * [SB 5635](sb/5635) - Victims' rights 40👍 0👎 2❓ - S Ways & Means
 * [HB 1402](hb/1402) - Urban growth boundaries 33👍 7👎 1❓ - H Local Govt
 * [SB 5277](sb/5277) - Dairy, etc. tax preferences 62👍 0👎 0❓ - S Ways & Means
 * [SB 5436](sb/5436) - Firearm transfers to museums 40👍 0👎 1❓ - S Rules 2
 * [HB 1099](hb/1099) - Public works wages 23👍 9👎 8❓ - H Cap Budget
 * [HB 1194](hb/1194) - Renewable energy workforce 25👍 14👎 1❓ - H Postsec Ed & W
-* [HB 1390](hb/1390) - District energy systems 40👍 1👎 5❓ - H Cap Budget
+* [HB 1390](hb/1390) - District energy systems 72👍 69👎 5❓ - H Cap Budget
 * [SB 5074](sb/5074) - Biomarker testing coverage 37👍 3👎 0❓ - S Health & Long
-* [SB 5377](sb/5377) - Cannabis license ownership 13👍 25👎 4❓ - S Ways & Means
+* [SB 5377](sb/5377) - Cannabis license ownership 20👍 27👎 4❓ - S Ways & Means
 * [SB 5423](sb/5423) - Working conn. child care 99👍 0👎 0❓ - S Ways & Means
 * [SB 5580](sb/5580) - Maternal health outcomes 37👍 2👎 1❓ - S Ways & Means
 * [HB 1137](hb/1137) - Return-to-work opportunities 27👍 11👎 1❓ - H Labor & Workpl
@@ -638,16 +679,19 @@
 * [HB 1295](hb/1295) - DCYF placement agreements 37👍 1👎 1❓ - H Approps
 * [HB 1375](hb/1375) - Delivery of alcohol 26👍 3👎 10❓ - H Approps
 * [HB 1573](hb/1573) - Dairy, etc. tax preferences 39👍 0👎 0❓ - H Finance
+* [SB 5048](sb/5048) - College in high school fees 38👍 1👎 0❓ - S Ways & Means
 * [SB 5311](sb/5311) - Special education funding 99👍 6👎 28❓ - S Ways & Means
+* [SB 5582](sb/5582) - Nurse supply 61👍 0👎 10❓ - S Ways & Means
 * [SB 5666](sb/5666) - CTC student housing pilot 31👍 8👎 0❓ - S Ways & Means
 * [HB 1246](hb/1246) - Health benefits/SEBB 31👍 4👎 3❓ - H Approps
 * [HB 1348](hb/1348) - Behavioral health support 34👍 2👎 2❓ - H Exec Action
-* [HB 1365](hb/1365) - Puget Sound water quality 34👍 1👎 3❓ - H Cap Budget
+* [HB 1365](hb/1365) - Puget Sound water quality 36👍 1👎 3❓ - H Cap Budget
 * [HB 1405](hb/1405) - Public benefit payments/DCYF 84👍 0👎 0❓ - H Approps
 * [HB 1485](hb/1485) - Roadside safety measures 35👍 2👎 1❓ - H Rules R
-* [HB 1628](hb/1628) - Real estate excise tax 894👍 954👎 3❓ - H Finance
+* [HB 1628](hb/1628) - Real estate excise tax 968👍 991👎 3❓ - H Finance
 * [SB 5045](sb/5045) - ADU rental/property tax 38👍 0👎 0❓ - S Rules 2
 * [SB 5145](sb/5145) - Liability/hydro. projects 37👍 1👎 0❓ - S Rules 2
+* [SB 5165](sb/5165) - Electric transm. planning 180👍 18👎 10❓ - S Ways & Means
 * [SB 5273](sb/5273) - Employee information/unions 32👍 4👎 2❓ - S Labor & Comm
 * [SB 5484](sb/5484) - Food/environmental steward. 18👍 20👎 0❓ - S Ag/Water/Natur
 * [SB 5524](sb/5524) - Industrial insurance/duties 18👍 19👎 1❓ - S Rules 2
@@ -669,16 +713,16 @@
 * [SB 5690](sb/5690) - Conditional release teams 6👍 30👎 0❓ - S Ways & Means
 * [SB 5718](sb/5718) - State broadband map 35👍 0👎 1❓ - S Environment, E
 * [HB 1173](hb/1173) - Light pollution 31👍 2👎 2❓ - H 2nd Reading
-* [HB 1515](hb/1515) - Behavioral health contracts 32👍 0👎 3❓ - H Approps
+* [HB 1515](hb/1515) - Behavioral health contracts 33👍 0👎 3❓ - H Approps
 * [SB 5022](sb/5022) - Fentanyl testing equipment 33👍 1👎 1❓ - S 2nd Reading
 * [SB 5087](sb/5087) - Defects and omissions 35👍 0👎 0❓ - H Civil R & Judi
 * [SB 5131](sb/5131) - Commissary funds 120👍 0👎 2❓ - S Ways & Means
 * [SB 5141](sb/5141) - WMS bargaining 69👍 9👎 0❓ - S Ways & Means
 * [SB 5357](sb/5357) - Detached ADUs 33👍 1👎 1❓ - S Loc Gov, Land
 * [SB 5378](sb/5378) - Voter education 25👍 7👎 3❓ - S Rules 2
-* [SB 5477](sb/5477) - Murdered indigenous women 41👍 0👎 0❓ - S Ways & Means
+* [SB 5477](sb/5477) - Murdered indigenous women 65👍 0👎 0❓ - S Ways & Means
 * [SB 5520](sb/5520) - Fire service policy board 8👍 25👎 2❓ - S Ways & Means
-* [SB 5609](sb/5609) - Housing approval 36👍 6👎 1❓ - S Ways & Means
+* [SB 5609](sb/5609) - Housing approval 38👍 6👎 1❓ - S Ways & Means
 * [HB 1206](hb/1206) - Newspaper publishers/tax 32👍 1👎 1❓ - H Finance
 * [HB 1533](hb/1533) - PRA/employee information 33👍 1👎 0❓ - H Rules R
 * [HB 1596](hb/1596) - Affordable housing incentive 33👍 1👎 0❓ - H Finance
@@ -688,11 +732,13 @@
 * [HB 1350](hb/1350) - Expanding the multifamily tax exemption program to include converting existing multifamily units. 33👍 0👎 0❓ - H Housing
 * [HB 1606](hb/1606) - Electronic commerce 4👍 29👎 0❓ - H ConsPro&Bus
 * [SB 5066](sb/5066) - Health care benefit managers 31👍 1👎 1❓ - S Rules 2G
+* [SB 5144](sb/5144) - Batteries/environment 365👍 5👎 10❓ - S Ways & Means
 * [SB 5289](sb/5289) - Impact fees/law enforcement 25👍 24👎 0❓ - S Loc Gov, Land
 * [SB 5397](sb/5397) - Public benefit payments/DCYF 77👍 2👎 0❓ - S Ways & Means
 * [SB 5440](sb/5440) - Competency evaluations 4👍 26👎 3❓ - S Ways & Means
+* [SB 5512](sb/5512) - Higher ed. financial reports 38👍 0👎 0❓ - S Ways & Means
 * [SB 5627](sb/5627) - County commissioner salary 4👍 29👎 0❓ - S Rules 2
-* [SB 5702](sb/5702) - Student homelessness pilot 33👍 0👎 0❓ - S Ways & Means
+* [SB 5702](sb/5702) - Student homelessness pilot 34👍 0👎 0❓ - S Ways & Means
 * [HB 1197](hb/1197) - Workers' comp. providers 42👍 6👎 5❓ - H Approps
 * [HB 1267](hb/1267) - Rural public facilities/tax 64👍 0👎 1❓ - H Rules R
 * [HB 1278](hb/1278) - Nonrelative kin placement 54👍 2👎 0❓ - H Approps
@@ -702,8 +748,8 @@
 * [SB 5243](sb/5243) - High school and beyond plans 56👍 2👎 3❓ - S Ways & Means
 * [SB 5314](sb/5314) - Electric bicycle use 4👍 26👎 2❓ - S Transportation
 * [SB 5508](sb/5508) - Greenhouses 32👍 0👎 0❓ - S Ag/Water/Natura
-* [SB 5582](sb/5582) - Nurse supply 46👍 0👎 10❓ - S Ways & Means
-* [HB 1491](hb/1491) - Employee personal vehicles 30👍 0👎 1❓ - H Approps
+* [SB 5582](sb/5582) - Nurse supply 61👍 0👎 10❓ - S Ways & Means
+* [HB 1491](hb/1491) - Employee personal vehicles 31👍 0👎 1❓ - H Approps
 * [HB 1551](hb/1551) - Lead in cookware 27👍 0👎 4❓ - H Approps
 * [SB 5258](sb/5258) - Condos and townhouses 26👍 4👎 1❓ - S Ways & Means
 * [SB 5481](sb/5481) - Uniform telehealth act 9👍 20👎 2❓ - S Rules 2
@@ -716,8 +762,8 @@
 * [SB 5174](sb/5174) - Student transportation 25👍 1👎 4❓ - S Ways & Means
 * [SB 5303](sb/5303) - Public works trust account 30👍 0👎 0❓ - S Rules 2
 * [SB 5402](sb/5402) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 14👍 15👎 1❓ - S Law & Justice
-* [SB 5433](sb/5433) - Derelict aquatic structures 26👍 1👎 3❓ - S Ways & Means
-* [SB 5561](sb/5561) - Law enf. community grants 29👍 1👎 1❓ - S Ways & Means
+* [SB 5433](sb/5433) - Derelict aquatic structures 27👍 1👎 3❓ - S Ways & Means
+* [SB 5561](sb/5561) - Law enf. community grants 30👍 1👎 1❓ - S Ways & Means
 * [SB 5600](sb/5600) - Universal communications prg 30👍 0👎 0❓ - S Ways & Means
 * [HB 1042](hb/1042) - Use of existing buildings 23👍 1👎 5❓ - S Housing
 * [HB 1416](hb/1416) - Consumer-owned utilities 8👍 21👎 0❓ - S Environment, En
@@ -738,11 +784,12 @@
 * [HB 1296](hb/1296) - Local permit review 28👍 0👎 0❓ - H Approps
 * [HB 1449](hb/1449) - Project permits/reports 23👍 5👎 0❓ - H Rules R
 * [HB 1787](hb/1787) - Transport and delivery 25👍 2👎 1❓ - H Local Govt
-* [SB 5226](sb/5226) - Active warrants priority/DOC 28👍 0👎 0❓ - S Ways & Means
-* [SB 5248](sb/5248) - Tutoring & extended learning 23👍 0👎 5❓ - S Ways & Means
-* [SB 5302](sb/5302) - Adult family homes/prop. tax 28👍 0👎 0❓ - S Ways & Means
+* [SB 5180](sb/5180) - Teacher mobility compact 46👍 1👎 4❓ - S Ways & Means
+* [SB 5226](sb/5226) - Active warrants priority/DOC 28👍 1👎 0❓ - S Ways & Means
+* [SB 5248](sb/5248) - Tutoring & extended learning 24👍 0👎 5❓ - S Ways & Means
+* [SB 5302](sb/5302) - Adult family homes/prop. tax 29👍 0👎 0❓ - S Ways & Means
 * [SB 5315](sb/5315) - Special education/nonpublic 45👍 29👎 1❓ - S Ways & Means
-* [SB 5353](sb/5353) - Voluntary stewardship prog. 53👍 1👎 2❓ - S Ways & Means
+* [SB 5353](sb/5353) - Voluntary stewardship prog. 74👍 1👎 2❓ - S Ways & Means
 * [SB 5379](sb/5379) - Associate development orgs. 86👍 1👎 0❓ - S Ways & Means
 * [SB 5420](sb/5420) - Plan 2 members/insurance 27👍 0👎 1❓ - S Ways & Means
 * [SB 5493](sb/5493) - Financial instit./B&O tax 19👍 9👎 0❓ - S Ways & Means
@@ -782,8 +829,8 @@
 * [HB 1532](hb/1532) - Turn signal in roundabouts 5👍 20👎 0❓ - H Transportation
 * [HB 1658](hb/1658) - Work experience/H.S. credit 22👍 0👎 3❓ - H Rules R
 * [SB 5156](sb/5156) - Farm internship program 25👍 0👎 0❓ - H Labor & Workpla
-* [SB 5386](sb/5386) - Document recording fees 12👍 13👎 2❓ - S Ways & Means
-* [SB 5388](sb/5388) - Diversity in clinical trials 25👍 1👎 0❓ - S Ways & Means
+* [SB 5386](sb/5386) - Document recording fees 13👍 13👎 2❓ - S Ways & Means
+* [SB 5388](sb/5388) - Diversity in clinical trials 26👍 1👎 0❓ - S Ways & Means
 * [SB 5547](sb/5547) - Nursing pool transparency 25👍 0👎 0❓ - S Rules 2
 * [SB 5619](sb/5619) - Cybersecurity governance 5👍 20👎 0❓ - S Environment, E
 * [SB 5637](sb/5637) - Graduated rental rates 25👍 0👎 0❓ - S Housing
@@ -801,13 +848,13 @@
 * [HB 1009](hb/1009) - Military spouse employment 23👍 0👎 0❓ - S Labor & Comm
 * [HB 1188](hb/1188) - Child welfare services/DD 42👍 0👎 1❓ - H Rules R
 * [HB 1232](hb/1232) - College bound scholarship 58👍 1👎 0❓ - H Rules R
-* [HB 1316](hb/1316) - Dual credit program access 27👍 0👎 1❓ - H Approps
+* [HB 1316](hb/1316) - Dual credit program access 29👍 0👎 1❓ - H Approps
 * [HB 1322](hb/1322) - Walla Walla water 2050 plan 72👍 0👎 0❓ - H Cap Budget
 * [HB 1421](hb/1421) - Voluntary stewardship prog. 50👍 0👎 2❓ - H Approps
 * [HB 1702](hb/1702) - Senior citizens local tax 23👍 0👎 0❓ - H Local Govt
 * [HB 1743](hb/1743) - Employee ownership 23👍 0👎 0❓ - H Approps
-* [SB 5180](sb/5180) - Teacher mobility compact 41👍 1👎 4❓ - S Ways & Means
-* [SB 5369](sb/5369) - Polychlorinated biphenyls 26👍 1👎 4❓ - S Ways & Means
+* [SB 5180](sb/5180) - Teacher mobility compact 46👍 1👎 4❓ - S Ways & Means
+* [SB 5369](sb/5369) - Polychlorinated biphenyls 39👍 1👎 4❓ - S Ways & Means
 * [SB 5602](sb/5602) - Hearing examiners/counties 0👍 23👎 0❓ - S Rules 2
 * [HB 1079](hb/1079) - Whole genome sequencing 18👍 4👎 0❓ - H 2nd Reading
 * [HB 1234](hb/1234) - Civil forfeiture of animals 21👍 0👎 1❓ - S Law & Justice
@@ -831,8 +878,8 @@
 * [HB 1175](hb/1175) - Petroleum storage tanks 31👍 68👎 2❓ - H Rules R
 * [HB 1197](hb/1197) - Workers' comp. providers 42👍 6👎 5❓ - H Approps
 * [HB 1330](hb/1330) - Campaigns/foreign nationals 18👍 0👎 3❓ - H 2nd Reading
-* [HB 1593](hb/1593) - RN PTSD/industrial insurance 17👍 1👎 3❓ - H Approps
-* [HB 1724](hb/1724) - Behavioral health workforce 15👍 0👎 6❓ - H Approps
+* [HB 1593](hb/1593) - RN PTSD/industrial insurance 18👍 1👎 3❓ - H Approps
+* [HB 1724](hb/1724) - Behavioral health workforce 16👍 0👎 6❓ - H Approps
 * [HB 1739](hb/1739) - Child care prov. instruction 8👍 13👎 0❓ - H Human Svc, You
 * [HB 1792](hb/1792) - Water rights procedures 19👍 0👎 2❓ - H Rules R
 * [SB 5001](sb/5001) - Public facility districts 36👍 1👎 1❓ - S Ways & Means
@@ -840,6 +887,7 @@
 * [SB 5277](sb/5277) - Dairy, etc. tax preferences 62👍 0👎 0❓ - S Ways & Means
 * [SB 5327](sb/5327) - Intern wages 16👍 3👎 2❓ - S Labor & Comm
 * [SB 5368](sb/5368) - Stay-at-work program 20👍 21👎 2❓ - S Rules 2
+* [SB 5369](sb/5369) - Polychlorinated biphenyls 39👍 1👎 4❓ - S Ways & Means
 * [SB 5394](sb/5394) - Concerning malpractice insurance for international medical graduate supervisors. 21👍 0👎 0❓ - S Rules 2
 * [SB 5396](sb/5396) - Breast exam cost sharing 45👍 3👎 0❓ - S Rules 2
 * [SB 5577](sb/5577) - Capital broadband program 20👍 0👎 1❓ - S Environment, E
@@ -860,6 +908,7 @@
 * [SB 5301](sb/5301) - Commerce housing programs 71👍 1👎 1❓ - S Ways & Means
 * [SB 5325](sb/5325) - Clean fuel/public transport. 19👍 1👎 0❓ - S Environment, E
 * [SB 5343](sb/5343) - School construction costs 15👍 4👎 1❓ - S EL/K-12
+* [SB 5367](sb/5367) - Products containing THC 42👍 20👎 7❓ - S Ways & Means
 * [SB 5483](sb/5483) - Digital processing services 19👍 1👎 0❓ - S Ways & Means
 * [SB 5530](sb/5530) - Digital experience 16👍 3👎 1❓ - S Environment, E
 * [SB 5576](sb/5576) - Sexual assault procedures 5👍 13👎 2❓ - S Rules 2
@@ -874,10 +923,10 @@
 * [SB 5058](sb/5058) - Multiunit res. buildings 18👍 1👎 0❓ - H Housing
 * [SB 5153](sb/5153) - Future voters/records 4👍 15👎 0❓ - S Rules 2
 * [SB 5224](sb/5224) - Homelessness services/perf. 7👍 7👎 5❓ - S Housing
-* [SB 5290](sb/5290) - Local permit review 32👍 0👎 0❓ - S Ways & Means
+* [SB 5290](sb/5290) - Local permit review 36👍 0👎 0❓ - S Ways & Means
 * [SB 5341](sb/5341) - WA food & ag. products 34👍 1👎 0❓ - S Rules 2G
 * [SB 5488](sb/5488) - Food fish excise tax revenue 19👍 0👎 0❓ - S Ag/Water/Natur
-* [SB 5523](sb/5523) - Forensic pathologists 30👍 1👎 0❓ - S Ways & Means
+* [SB 5523](sb/5523) - Forensic pathologists 33👍 1👎 0❓ - S Ways & Means
 * [HB 1261](hb/1261) - Breast exam cost sharing 82👍 3👎 0❓ - H Rules R
 * [HB 1303](hb/1303) - Property tax administration 16👍 0👎 2❓ - H Rules R
 * [HB 1547](hb/1547) - Out-of-state health prov. 5👍 13👎 0❓ - H Rules R
@@ -934,7 +983,7 @@
 * [HB 1010](hb/1010) - Shellfish sanitary control 14👍 1👎 0❓ - H Rules R
 * [HB 1072](hb/1072) - Motor vehicle length 7👍 8👎 0❓ - H Transportation
 * [HB 1104](hb/1104) - Deferred prosecutions 7👍 2👎 6❓ - H Transportation
-* [HB 1381](hb/1381) - Salmon-safe communities 8👍 4👎 3❓ - H Approps
+* [HB 1381](hb/1381) - Salmon-safe communities 9👍 4👎 3❓ - H Approps
 * [HB 1413](hb/1413) - Flexible work/peace officers 12👍 1👎 2❓ - H Approps
 * [HB 1414](hb/1414) - RTA vehicle removal 15👍 0👎 0❓ - H Rules R
 * [HB 1500](hb/1500) - Cottage food sales cap 15👍 0👎 0❓ - S Ag/Water/Natura
@@ -942,10 +991,11 @@
 * [HB 1570](hb/1570) - TNC insurance programs 12👍 1👎 2❓ - H Approps
 * [HB 1600](hb/1600) - Firearms/juvenile records 6👍 6👎 3❓ - H Rules R
 * [HB 1666](hb/1666) - Fee and debt collection 7👍 6👎 2❓ - H ConsPro&Bus
-* [HB 1762](hb/1762) - Warehouse employees 11👍 4👎 0❓ - H Approps
+* [HB 1762](hb/1762) - Warehouse employees 12👍 4👎 0❓ - H Approps
 * [SB 5032](sb/5032) - DUI lookback & sentencing 67👍 2👎 2❓ - S Ways & Means
 * [SB 5177](sb/5177) - Organ transport vehicles 15👍 0👎 0❓ - S Ways & Means
 * [SB 5515](sb/5515) - Child abuse and neglect 5👍 7👎 3❓ - S Ways & Means
+* [SB 5523](sb/5523) - Forensic pathologists 33👍 1👎 0❓ - S Ways & Means
 * [SB 5548](sb/5548) - Vehicle service fees 11👍 2👎 2❓ - S Transportation
 * [SB 5726](sb/5726) - Prevailing wage/public works 1👍 7👎 7❓ - S Rules 2
 * [HB 1004](hb/1004) - Bridge jumping signs 13👍 0👎 1❓ - H Rules R
@@ -983,7 +1033,7 @@
 * [HB 1367](hb/1367) - Homeless funding 15👍 17👎 1❓ - S Housing
 * [HB 1387](hb/1387) - Law enf. applicant pool 11👍 0👎 2❓ - H Rules R
 * [HB 1457](hb/1457) - Motor carriers/restrooms 26👍 0👎 1❓ - H Approps
-* [HB 1512](hb/1512) - Missing persons 12👍 0👎 1❓ - H Approps
+* [HB 1512](hb/1512) - Missing persons 13👍 0👎 1❓ - H Approps
 * [HB 1683](hb/1683) - Dental only coverage 11👍 0👎 2❓ - H Rules R
 * [HB 1688](hb/1688) - Tow truck payments/indigent 4👍 8👎 1❓ - H Transportation
 * [HB 1690](hb/1690) - Kidney disease centers 8👍 5👎 0❓ - H HC/Wellness
@@ -1008,7 +1058,7 @@
 * [SB 5163](sb/5163) - Medicaid fraud false claims 12👍 0👎 0❓ - S 2nd Reading
 * [SB 5195](sb/5195) - Fuel price transparency 2👍 9👎 1❓ - S Transportation
 * [SB 5317](sb/5317) - RTA vehicle removal 11👍 1👎 0❓ - H Transportation
-* [SB 5498](sb/5498) - Nurse student loan repayment 28👍 243👎 0❓ - S Ways & Means
+* [SB 5498](sb/5498) - Nurse student loan repayment 34👍 252👎 0❓ - S Ways & Means
 * [SB 5516](sb/5516) - Clay targets/sales tax 9👍 3👎 0❓ - S Rules 2
 * [SB 5528](sb/5528) - Construction retainage 12👍 0👎 0❓ - S Rules 2
 * [SB 5660](sb/5660) - Mental health adv directives 11👍 0👎 1❓ - S Ways & Means
@@ -1068,7 +1118,7 @@
 * [SB 5640](sb/5640) - Independent living residents 10👍 0👎 0❓ - S Rules 2
 * [SB 5716](sb/5716) - DOH validation surveys 9👍 0👎 1❓ - S Rules 2
 * [HB 1266](hb/1266) - Insurance comnr./email 9👍 0👎 0❓ - H 2nd ReadSCal
-* [HB 1300](hb/1300) - Assisted reproduction fraud 10👍 0👎 1❓ - H Approps
+* [HB 1300](hb/1300) - Assisted reproduction fraud 13👍 0👎 1❓ - H Approps
 * [HB 1304](hb/1304) - Electric security alarms 6👍 2👎 1❓ - H Rules R
 * [HB 1359](hb/1359) - Prof. licenses/new residents 1👍 8👎 0❓ - H ConsPro&Bus
 * [HB 1360](hb/1360) - Alt. professional licensing 1👍 8👎 0❓ - H Approps
@@ -1096,7 +1146,7 @@
 * [SB 5421](sb/5421) - Benefit enrollment info. 9👍 0👎 0❓ - H State Govt & Tr
 * [SB 5581](sb/5581) - Maternal support services 9👍 0👎 0❓ - S 2nd Reading
 * [SB 5648](sb/5648) - Board of education waivers 9👍 0👎 0❓ - S Rules 2
-* [SB 5670](sb/5670) - Running start/10th grade 3👍 3👎 3❓ - S Ways & Means
+* [SB 5670](sb/5670) - Running start/10th grade 3👍 4👎 3❓ - S Ways & Means
 * [SB 5722](sb/5722) - Traffic cameras, photo tolls 8👍 1👎 0❓ - S Rules 2
 * [SB 5725](sb/5725) - Airline cabin crews 8👍 1👎 0❓ - S Rules 2
 * [HB 1118](hb/1118) - School bus safety 5👍 0👎 3❓ - H Approps
@@ -1124,6 +1174,7 @@
 * [SB 5683](sb/5683) - Foster care/Indian children 8👍 0👎 0❓ - S Ways & Means
 * [SB 5684](sb/5684) - Small works rosters 4👍 3👎 3❓ - S Ways & Means
 * [SB 5691](sb/5691) - Resource & assess. centers 7👍 1👎 0❓ - S Rules 2
+* [SB 5696](sb/5696) - Concerning eligibility for participation in the public employees' benefits board for retired or disabled employees of counties, municipalities, and other political subdivisions. 6👍 1👎 1❓ - S Ways & Means
 * [HB 1039](hb/1039) - Intramuscular needling 3👍 0👎 4❓ - H Rules R
 * [HB 1073](hb/1073) - Medical assistants 6👍 0👎 1❓ - S Health & Long T
 * [HB 1150](hb/1150) - Unlawful branding of person 6👍 0👎 1❓ - H Rules R
@@ -1165,14 +1216,14 @@
 * [HB 1696](hb/1696) - Stalking-related offenses 5👍 1👎 0❓ - H Rules R
 * [HB 1728](hb/1728) - Statewide resiliency program 4👍 0👎 2❓ - H Approps
 * [HB 1763](hb/1763) - Conditional scholarships 6👍 0👎 0❓ - H Rules R
-* [SB 5025](sb/5025) - DOC technology systems 6👍 0👎 0❓ - S Ways & Means
+* [SB 5025](sb/5025) - DOC technology systems 7👍 0👎 0❓ - S Ways & Means
 * [SB 5041](sb/5041) - Motor carrier safety 5👍 0👎 1❓ - H Transportation
 * [SB 5358](sb/5358) - Veterans' services 17👍 0👎 0❓ - S Ways & Means
 * [SB 5370](sb/5370) - Adult protective services 6👍 0👎 0❓ - S Rules 2
 * [SB 5497](sb/5497) - Medicaid expenditures 6👍 0👎 0❓ - S 2nd Reading
 * [SB 5502](sb/5502) - Sub. use disorder treatment 7👍 2👎 2❓ - S Ways & Means
 * [SB 5623](sb/5623) - Hate crimes 4👍 2👎 0❓ - S 2nd Reading
-* [SB 5634](sb/5634) - Problem gambling 4👍 0👎 3❓ - S Ways & Means
+* [SB 5634](sb/5634) - Problem gambling 4👍 0👎 4❓ - S Ways & Means
 * [SB 5732](sb/5732) - Property tax exemptions 6👍 0👎 0❓ - S Ways & Means
 * [HB 1070](hb/1070) - Property sale and leaseback 5👍 0👎 0❓ - S Rules 2
 * [HB 1081](hb/1081) - Derelict vessel appeals 5👍 0👎 0❓ - H Ag&Nr
@@ -1212,12 +1263,13 @@
 * [SB 5347](sb/5347) - Abstract driving records 5👍 0👎 0❓ - S 2nd RdConsCal
 * [SB 5432](sb/5432) - Lottery players/PRA 5👍 0👎 0❓ - S Rules 2
 * [SB 5502](sb/5502) - Sub. use disorder treatment 7👍 2👎 2❓ - S Ways & Means
-* [SB 5512](sb/5512) - Higher ed. financial reports 19👍 0👎 0❓ - S Ways & Means
+* [SB 5512](sb/5512) - Higher ed. financial reports 38👍 0👎 0❓ - S Ways & Means
 * [SB 5518](sb/5518) - Cybersecurity 4👍 0👎 1❓ - S Ways & Means
 * [SB 5538](sb/5538) - Postretirement/nursing 5👍 0👎 0❓ - S Rules 2
 * [SB 5563](sb/5563) - Prevailing wage 5👍 0👎 0❓ - S Labor & Comm
 * [SB 5573](sb/5573) - Vehicle licensing options 2👍 1👎 2❓ - S Transportation
 * [SB 5589](sb/5589) - Probate 5👍 0👎 0❓ - S Rules 2
+* [SB 5617](sb/5617) - Career & tech. ed. courses 21👍 0👎 0❓ - S Ways & Means
 * [SB 5636](sb/5636) - Forest practices in cities 2👍 2👎 1❓ - S Loc Gov, Land U
 * [SB 5687](sb/5687) - Creating postsecondary wrestling grant programs. 4👍 0👎 1❓ - S Ways & Means
 * [SB 5720](sb/5720) - Risk mitigation 5👍 0👎 0❓ - S Rules 2
@@ -1243,7 +1295,7 @@
 * [SB 5107](sb/5107) - Cottage food sales cap 20👍 0👎 1❓ - S Ag/Water/Natur
 * [SB 5142](sb/5142) - HIV medication rebate rev. 11👍 0👎 0❓ - S 2nd RdConsCal
 * [SB 5166](sb/5166) - Cooperative finance org. B&O 9👍 0👎 0❓ - S Rules 2
-* [SB 5269](sb/5269) - Manufacturing 131👍 8👎 1❓ - S Ways & Means
+* [SB 5269](sb/5269) - Manufacturing 135👍 8👎 1❓ - S Ways & Means
 * [SB 5274](sb/5274) - Public employ. eligibility 3👍 0👎 1❓ - S Rules 2
 * [SB 5293](sb/5293) - Accounts 4👍 0👎 0❓ - S Ways & Means
 * [SB 5336](sb/5336) - Main street trust fund 4👍 0👎 0❓ - H Local Govt
@@ -1253,7 +1305,7 @@
 * [SB 5460](sb/5460) - Irrigation & rehab districts 4👍 0👎 0❓ - S Rules 2
 * [SB 5490](sb/5490) - PEBB/deferred coverage 3👍 0👎 1❓ - S Ways & Means
 * [SB 5553](sb/5553) - Temporary emergency shelters 4👍 0👎 0❓ - S Rules 2
-* [SB 5566](sb/5566) - Postsecondary student needs 92👍 9👎 0❓ - S Ways & Means
+* [SB 5566](sb/5566) - Postsecondary student needs 96👍 9👎 0❓ - S Ways & Means
 * [SB 5616](sb/5616) - Lived experience 3👍 0👎 1❓ - S State Govt & E
 * [SB 5649](sb/5649) - Floodproofing improvements 3👍 0👎 1❓ - S Rules 2
 * [SB 5655](sb/5655) - WA achievers grant program 4👍 0👎 0❓ - S Ways & Means

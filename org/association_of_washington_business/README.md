@@ -198,7 +198,8 @@
 
 ## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎1 
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
+* 👎 Mike Ennis
 * 👎 Mike Ennis
 
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
@@ -302,6 +303,8 @@
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport.  👎1 
 * 👎 Mike Ennis
+
+## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍1  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 

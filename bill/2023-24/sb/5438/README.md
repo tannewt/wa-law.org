@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5438 Supportive relationships
 #### 37 👍 - Pro

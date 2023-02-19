@@ -23,7 +23,7 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍💵 Justin Allegro
 
-## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
@@ -49,7 +49,7 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
 
-## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
+## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍2  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
@@ -79,7 +79,7 @@
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
 ## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
 * 👍 Skippy Shaw

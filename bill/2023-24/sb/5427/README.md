@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152298&caId=21668&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152298&caId=21668&tId=4)
 
-#### 42 👍 - Pro
+#### 103 👍 - Pro
 
-#### 2 👎 - Con
+#### 368 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression (FIRE)
 * eric Pratt
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Tue 01/31 10:30 AM - Law & Justice (LAW): SB 5427 Hate crimes & bias incidents
 #### 87 👍 - Pro

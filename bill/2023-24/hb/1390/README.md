@@ -15,12 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=4)
 
-#### 5 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Bonnie Hemphill - UMC, Inc
 
-#### 0 👎 - Con
+#### 68 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -8,6 +8,24 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/20 01:30 PM - Transportation (TR): SHB 1363 Vehicular pursuits
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* C Davis
+* Dana Ralph - Mayor of the City of Kent
+
+#### 5 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1363 Vehicular pursuits
 #### 265 👍 - Pro
 Testifying:

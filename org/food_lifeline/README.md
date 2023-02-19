@@ -26,7 +26,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
 * 👍 Alicya Pearson
 * 👍 Alicya Pearson
 
@@ -39,7 +39,7 @@
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding   ❓1
 * ❓💵 Aaron Czyzewski
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍2  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍3  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 

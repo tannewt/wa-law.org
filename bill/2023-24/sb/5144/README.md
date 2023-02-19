@@ -9,21 +9,17 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5144 Batteries/environment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152216&caId=21608&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152216&caId=21608&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152216&caId=21608&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152216&caId=21608&tId=4)
-
-#### 22 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Rick Gilbert - Kitsap County Solid Waste Division
+* Anthony Mixer
+* Harold Scoggins - Seattle Fire
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Charlie Brown - Consumer Technology Association
 * Erin Raden - The Toy Association

@@ -25,6 +25,6 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
-## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
+## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍2  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure  👎1 

@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/20 01:30 PM - Transportation (TR): SHB 1554 Lead impacts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Breck Lebegue - WA Physicians for Social Responsibility
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/02 08:00 AM - Environment & Energy (ENVI): HB 1554 Lead impacts
 #### 0 👍 - Pro
 

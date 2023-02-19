@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152257&caId=21656&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152257&caId=21656&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Kelly Fukai - Commissioner, WSTC
 
-#### 14 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * John Peeples - United States of America
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Eric Pratt
 * Tim Eyman - Concerned citizen
+* john Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

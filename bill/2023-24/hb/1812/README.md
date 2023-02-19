@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152094&caId=21634&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152094&caId=21634&tId=4)
 
-#### 9 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Melanie Smith - [Washington's Accountable Communities of Health](/org/washington's_accountable_communities_of_health/)
 
 #### 0 👎 - Con
 

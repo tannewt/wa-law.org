@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5048 College in high school fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152202&caId=21594&tId=4)
-
-#### 32 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Bill Lyne - United Faculty of Washington State

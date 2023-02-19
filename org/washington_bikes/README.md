@@ -39,3 +39,6 @@
 ## [SB 5560](/bill/2023-24/sb/5560/) - Older driver safety 👍1  
 
 ## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍1  
+
+## [SB 5742](/bill/2023-24/sb/5742/) - DOT grant programs 👍1  
+* 👍 Vicky Clarke

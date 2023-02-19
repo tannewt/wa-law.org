@@ -8,23 +8,18 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SB 5710 Behavioral health/youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152211&caId=21603&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152211&caId=21603&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152211&caId=21603&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152211&caId=21603&tId=4)
-
-#### 14 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Association of Educational Service Districts
+* Anthony Mixer
 
-#### 184 👎 - Con
+#### 211 👎 - Con
 Testifying:
 * Shannon Zetelski
 * Nancy Button
 * Eric pratt - I, America
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/13 01:30 PM - Early Learning & K-12 Education (EDU): SB 5710 Behavioral health/youth
 #### 30 👍 - Pro

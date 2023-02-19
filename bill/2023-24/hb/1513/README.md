@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=4)
 
-#### 65 👍 - Pro
+#### 778 👍 - Pro
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jeff DeVere - Washington Trucking Associations
 
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1513 Traffic safety
 #### 637 👍 - Pro

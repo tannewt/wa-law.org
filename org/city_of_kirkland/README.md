@@ -36,15 +36,20 @@
 ## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
 * 👍💵 Brian Enslow
 
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+* 👍 Councilmember Kelli Curtis
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
+
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 
@@ -57,3 +62,5 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
 ## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
+
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  

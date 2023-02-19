@@ -15,16 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152309&caId=21679&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152309&caId=21679&tId=4)
 
-#### 6 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 2 👎 - Con
+#### 35 👎 - Con
 Testifying:
 * John Worthington
 * john Worthington
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Remy Kerr - Washington State Hospital Association
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=4)
 
-#### 18 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Brian Solan - Ameresco, Inc.

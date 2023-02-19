@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5367 Products containing THC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152199&caId=21591&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152199&caId=21591&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152199&caId=21591&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152199&caId=21591&tId=4)
-
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * Megan Moore - WA State Public Health Association
@@ -23,9 +17,12 @@ Testifying:
 * Justin Nordhorn - Washington State Liquor and Cannabis Board
 * Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Bonny Jo Peterson - Industrial Hemp Association of WA
+* Adan Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* James MacRae - Self
+* Jared Stanley - Charlottes Web
 
 #### 1 ❓ - Other
 Testifying:

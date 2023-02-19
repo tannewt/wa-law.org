@@ -19,5 +19,7 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍2  
 
-## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍3  
+* 👍💵 Carolyn Logue
+* 👍 Ryan Grant
 * 👍💵 Carolyn Logue

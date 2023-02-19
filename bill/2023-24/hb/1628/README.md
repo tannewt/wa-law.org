@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=4)
 
-#### 304 👍 - Pro
+#### 378 👍 - Pro
 Testifying:
 * Sol Villarreal
 * Angela Birney - City of Redmond Mayor
@@ -25,8 +25,12 @@ Testifying:
 * Scott Livengood - Alpha Supported Living Services
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
 * robert m wardell - self adovates
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Councilmember Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
+* Councilmember Kelli Curtis - [City of Kirkland](/org/city_of_kirkland/)
+* Mayor Mary Lou Pauly - [City of Issaquah](/org/city_of_issaquah/)
 
-#### 129 👎 - Con
+#### 166 👎 - Con
 Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Tim Eyman - Concerned Taxpayer
@@ -35,6 +39,9 @@ Testifying:
 * 💵Denny Eliason - Washington REALTORS Association
 * 💵Greg Hanon - NAIOP
 * Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* Lawrence Crites - Small housing provider
+* Elsie Baker
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

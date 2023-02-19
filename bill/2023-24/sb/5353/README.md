@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5353 Voluntary stewardship prog.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152215&caId=21607&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152215&caId=21607&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152215&caId=21607&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152215&caId=21607&tId=4)
-
-#### 26 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 

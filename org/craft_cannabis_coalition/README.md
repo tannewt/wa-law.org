@@ -29,9 +29,12 @@
 ## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍1  
 * 👍 Adan Espino Jr
 
-## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC  👎1 
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC  👎2 
+* 👎 Adan Espino Jr
 * 👎 Adan Espino Jr
 
 ## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍1  
+
+## [SB 5377](/bill/2023-24/sb/5377/) - Cannabis license ownership 👍1  
 
 ## [SB 5662](/bill/2023-24/sb/5662/) - Cannabis employees  👎1 

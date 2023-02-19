@@ -35,9 +35,10 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍5  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott

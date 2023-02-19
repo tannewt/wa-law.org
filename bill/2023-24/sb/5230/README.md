@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152302&caId=21672&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152302&caId=21672&tId=4)
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Curtis Anderson
+* Jim Theofelis - NorthStar Advocates
 
 #### 0 👎 - Con
 

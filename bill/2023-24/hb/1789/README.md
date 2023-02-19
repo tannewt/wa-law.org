@@ -17,7 +17,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Lawrence Marshall - Murphy Company
+* Connie Beauvais - [Port of Port Angeles](/org/port_of_port_angeles/)
 
 #### 0 ❓ - Other
 

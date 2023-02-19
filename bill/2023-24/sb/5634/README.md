@@ -19,9 +19,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tina Griffin - Washington State Gambling Commission
+* Nanci Watson
 
 ### Tue 02/07 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5634 Problem gambling
 #### 4 👍 - Pro

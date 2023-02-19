@@ -31,7 +31,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍5  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍5  
 
@@ -39,7 +39,7 @@
 
 ## [HB 1480](/bill/2023-24/hb/1480/) - All-hazard emergency manage. 👍1  
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍3  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍4  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
@@ -60,7 +60,7 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍3  
 * 👍💵 Kristin Ang
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍3  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍4  
 * 👍💵 Kristin Ang
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍3  

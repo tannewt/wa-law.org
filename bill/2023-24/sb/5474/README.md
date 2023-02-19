@@ -9,23 +9,17 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5474 Juvenile justice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152198&caId=21590&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152198&caId=21590&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152198&caId=21590&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152198&caId=21590&tId=4)
-
-#### 68 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Gus Patel-Tupper - UC Berkeley School of Law
 * Jacob Carmickle
 * 💵Kia Franklin - Stand for Children Washington
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Shawn Sant - Franklin County Prosecutor/WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/30 10:30 AM - Human Services (HS): SB 5474 Juvenile justice
 #### 146 👍 - Pro

@@ -20,7 +20,8 @@
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+* 👍 Councilmember Janice Zahn
 * 👍 Councilmember Janice Zahn
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  

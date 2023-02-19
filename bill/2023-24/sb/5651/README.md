@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152381&caId=21738&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152381&caId=21738&tId=4)
 
-#### 0 👍 - Pro
+#### 227 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/07 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5651 GMA/equity and env. justice
 #### 711 👍 - Pro

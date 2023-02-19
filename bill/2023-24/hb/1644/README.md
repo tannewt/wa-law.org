@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
-#### 11 👎 - Con
+#### 66 👎 - Con
 Testifying:
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

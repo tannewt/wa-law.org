@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=4)
 
-#### 32 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michael White - [King County](/org/king_county/)
@@ -27,7 +27,15 @@ Testifying:
 * Amy Ockerlander - Mayor, City of Duvall & Secretary, Assoc. of Washington Cities
 * David Baker - Councilmember, City of Kenmore
 * Marla Keethler - Mayor, City of White Salmon
+* Mark Ozias - Clallam County
+* Megan Dunn - Snohomish County
+* Wes McCart - Stevens County
+* Jerome Delvin - Benton County
+* Kate Dean - Jefferson County
+* Lisa Janicki - [Skagit County](/org/skagit_county/)
 
-#### 6 👎 - Con
+#### 439 👎 - Con
+Testifying:
+* Pam Doddridge
 
 #### 0 ❓ - Other

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5278 Home care aide certification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152206&caId=21598&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152206&caId=21598&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152206&caId=21598&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152206&caId=21598&tId=4)
-
-#### 69 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 

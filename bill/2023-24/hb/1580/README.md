@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152045&caId=21615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152045&caId=21615&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kashi Arora - Seattle Children's
 * Jamie Kautz - MultiCare Health System
+* 💵Cara Helmer - Washington State Hospital Association
 
 #### 1 👎 - Con
 Testifying:

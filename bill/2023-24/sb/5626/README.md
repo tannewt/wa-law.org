@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5626 K-12 media literacy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152210&caId=21602&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152210&caId=21602&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152210&caId=21602&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30808&aId=152210&caId=21602&tId=4)
+#### 33 👍 - Pro
+Testifying:
+* Ryan Grant - [Washington Library Association](/org/washington_library_association/)
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 
-#### 16 👍 - Pro
-
-#### 5 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other
 

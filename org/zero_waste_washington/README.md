@@ -22,7 +22,7 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
-## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 * 👍💵 Heather Trim
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
