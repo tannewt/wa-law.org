@@ -18,4 +18,6 @@
 
 ## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍1  
 
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
+
 ## [SB 5721](/bill/2023-24/sb/5721/) - Advanced aerospace training 👍1  

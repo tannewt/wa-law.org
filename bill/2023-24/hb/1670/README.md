@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=4)
 
-#### 47 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michael White - [King County](/org/king_county/)
@@ -33,9 +33,24 @@ Testifying:
 * Jerome Delvin - Benton County
 * Kate Dean - Jefferson County
 * Lisa Janicki - [Skagit County](/org/skagit_county/)
+* Mary Lou Steward - [City of Blaine](/org/city_of_blaine/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Nick Federici - Cities of Sammamish, Spokane, and Yakima
+* 💵Bud Sizemore - WSCFF
+* Kevin O'Brien - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
+* Michael McConnell - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
+* Roy Waugh - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
+* Troy Elmore - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
 
-#### 439 👎 - Con
+#### 983 👎 - Con
 Testifying:
 * Pam Doddridge
+* Kim Butler
+* Karen McIntosh
+* Mary Long - Conservative Ladies of Washington
+* John Roskelley
+* Donald Ladely
+* Debra Helvey
+* Mary Mason
 
 #### 0 ❓ - Other

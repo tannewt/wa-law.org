@@ -16,5 +16,6 @@
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
-## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy  👎1 
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy  👎2 
 * 👎 Sommer Moser
+* 👎💵 Brandon Houskeeper

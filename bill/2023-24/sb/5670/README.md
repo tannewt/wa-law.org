@@ -17,9 +17,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jamie Traugott - State Board for Community and Technical Colleges
 
 ### Wed 02/08 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5670 Running start/10th grade
 #### 3 👍 - Pro

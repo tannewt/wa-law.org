@@ -117,6 +117,8 @@
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 1395](/bill/2023-24/hb/1395/) - Aircraft fuel tax distrib. 👍1  
+
 ## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process 👍1  
 
 ## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries 👍1  
@@ -218,6 +220,8 @@
 * 👎 Mike Ennis
 
 ## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
+
+## [HB 1757](/bill/2023-24/hb/1757/) - Farmers/sales tax remittance 👍1  
 
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍 Emily Shay
@@ -336,7 +340,7 @@
 
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
 * 👍 Kris Johnson
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎2 
@@ -387,6 +391,8 @@
 
 ## [SB 5607](/bill/2023-24/sb/5607/) - Fashion/env. policies  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
 

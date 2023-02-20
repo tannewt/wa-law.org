@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=4)
 
-#### 3 👍 - Pro
+#### 78 👍 - Pro
+Testifying:
+* Katherine Martinez - The Ending Qualified Immunity Project
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Laurie A Layne
 
 #### 0 ❓ - Other
 

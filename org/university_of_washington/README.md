@@ -1,5 +1,7 @@
 # University of Washington
 
+## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
@@ -15,6 +17,8 @@
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍2  
 * 👍 Anna Ratzliff
 * 👍 Hoa Appel
+
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -36,8 +40,16 @@
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+
+## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
+
 ## [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
 * 👍 Beatriz Carlini
+
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor  👎1 
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery  👎1 
 

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152222&caId=21653&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152222&caId=21653&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 
 #### 0 👎 - Con
 

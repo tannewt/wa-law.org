@@ -8,6 +8,8 @@
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
@@ -34,6 +36,8 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
+
 ## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍2  
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
@@ -47,6 +51,8 @@
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
 
 ## [HB 1426](/bill/2023-24/hb/1426/) - Controlled entities 👍2  
 * 👍💵 Cindy Black
@@ -89,6 +95,8 @@
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
+
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
@@ -151,6 +159,8 @@
 
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
 
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
@@ -159,11 +169,15 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
+
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
+
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍2  
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 

@@ -34,7 +34,7 @@
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 * 👍💵 Julie Salvi
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 * 👍💵 Nasue Nishida
@@ -193,7 +193,7 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 

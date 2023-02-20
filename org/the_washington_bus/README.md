@@ -19,7 +19,11 @@
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
 * 👍💵 Jazmine Smith
 
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍4  
 

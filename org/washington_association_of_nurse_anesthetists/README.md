@@ -13,7 +13,7 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍1  
 
-## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍1  
+## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍2  
 
 ## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
 

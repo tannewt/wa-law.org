@@ -36,6 +36,8 @@
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
 * 👍💵 Stephanie Simpson
 
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
+
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
 ## [SB 5421](/bill/2023-24/sb/5421/) - Benefit enrollment info. 👍1  

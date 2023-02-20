@@ -15,18 +15,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152332&caId=21692&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152332&caId=21692&tId=4)
 
-#### 35 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Rosella Mosby - Washington Farm Bureau
 * Chairman W. Ron Allen - Jamestown S'Klallam Tribe
+* Jay Gordon - WA State Dairy Federation
+* Jay Gordon - WA State Dairy Federation
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Ruth Musgrave - Office of the Governor
+* Jennifer Hennessey - Department of Ecology
+* Laura Blackmore - Puget Sound Partnership
+* David Herrera - [Skokomish Indian Tribe](/org/skokomish_indian_tribe/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/07 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1720 Riparian grant program
 #### 218 👍 - Pro

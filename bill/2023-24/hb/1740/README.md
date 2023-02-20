@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152333&caId=21693&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152333&caId=21693&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Brian Considine - Dept. of Natural Resources
+* Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Ken Miller - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Vincent McGowan - Department of Ecology
 
 ### Fri 02/10 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1740 Forestry riparian easements
 #### 73 👍 - Pro

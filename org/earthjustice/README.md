@@ -30,4 +30,6 @@
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍 Jan Hasselman
 
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
+
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  

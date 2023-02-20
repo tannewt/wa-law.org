@@ -15,14 +15,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152334&caId=21694&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152334&caId=21694&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Csenka Favorini-Csorba - DNR
+* Duane Emmons - DNR
+* Hilary Franz - Commissioner of Public Lands, DNR
+* Jill Silver - 10,000 Years Institute
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Lauren Breynaert - Myno Carbon
 
-#### 7 👎 - Con
+#### 62 👎 - Con
 Testifying:
 * Lawrence Marshall - Murphy Company
 * Connie Beauvais - [Port of Port Angeles](/org/port_of_port_angeles/)
+* Tom Lannen - County Government
+* john Worthington
+* Bill Turner - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
+* Doug Cooper - Hampton Lumber Company
+* Matt Comisky - American Forest Resource Council
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 02/14 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1789 Ecosystem services
 #### 377 👍 - Pro

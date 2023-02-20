@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152459&caId=21783&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152459&caId=21783&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* John Kingsbury - the Cannabis Alliance
+* John Kingsbury - the Cannabis Alliance
+* 💵Lara Kaminsky - the Cannabis Alliance
 
 #### 0 👎 - Con
 

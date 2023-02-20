@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152290&caId=21661&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152290&caId=21661&tId=4)
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Carissa Hahn - CWA/WashTech
+* Fernando Roman - Communications Workers of America
+* Scott Richards - Washington Public Utility Districts Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* MARK Vasconi - Washington State Broadband Office
 
 ### Wed 02/08 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1746 State broadband map
 #### 20 👍 - Pro

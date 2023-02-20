@@ -23,7 +23,7 @@
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
-## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  
+## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍2  
 * 👍💵 Neil Strege
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  

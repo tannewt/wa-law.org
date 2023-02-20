@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=4)
 
-#### 7 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Joe Kunzler - None
+* Joe Kunzler - None
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Shaun Scott
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

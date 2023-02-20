@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=4)
 
-#### 26 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Brian Solan - Ameresco, Inc.
 * Lincoln Ferris - Seattle Central College
 * Bonnie Hemphill - UMC, Inc
 * Councilmember Lisa Parshley - Olympia City Council
+* Christopher Nesmith - Elma School District
+* Katie Collette
+* Tony Usibelli - Usibelli Consulting
 
 #### 0 👎 - Con
 

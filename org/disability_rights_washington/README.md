@@ -11,7 +11,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍1  
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍2  
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 * 👍 Carina Tong

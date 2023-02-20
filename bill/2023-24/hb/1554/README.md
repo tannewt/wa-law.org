@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* John Dobson - Washington State Aviation Alliance
 
 #### 0 ❓ - Other
 

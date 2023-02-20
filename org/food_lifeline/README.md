@@ -13,9 +13,9 @@
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 * 👎💵 Aaron Czyzewski
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
@@ -34,12 +34,12 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding   ❓1
 * ❓💵 Aaron Czyzewski
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍3  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍4  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
@@ -74,5 +74,7 @@
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
 * 👍💵 Aaron Czyzewski
+
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  

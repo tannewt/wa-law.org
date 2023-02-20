@@ -61,7 +61,7 @@
 
 ## [HB 1380](/bill/2023-24/hb/1380/) - Law enf. officer funding 👍1  
 
-## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities  👎1 
+## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities 👍1 👎1 
 * 👎💵 Paul Jewell
 
 ## [HB 1401](/bill/2023-24/hb/1401/) - Housing permit process   ❓1
@@ -109,7 +109,8 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
-## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
+## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎2 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
 ## [HB 1645](/bill/2023-24/hb/1645/) - County legislative meetings 👍1  
@@ -134,7 +135,8 @@
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services   ❓1
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel   ❓1
@@ -176,7 +178,8 @@
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions   ❓1
 * ❓💵 Mike Hoover
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 

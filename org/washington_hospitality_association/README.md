@@ -42,6 +42,9 @@
 
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
 
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+* 👎💵 Julia Gorton
+
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen  👎1 
 * 👎💵 Samantha Louderback
 

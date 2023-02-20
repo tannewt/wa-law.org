@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152257&caId=21656&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152257&caId=21656&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Kelly Fukai - Commissioner, WSTC
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 20 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * John Peeples - United States of America
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -26,4 +27,8 @@ Testifying:
 * Tim Eyman - Concerned citizen
 * john Worthington
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Jim Lazar
+* Kelly Wright - no

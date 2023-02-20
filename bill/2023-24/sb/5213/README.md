@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Heather Chapman - Ardon Health Specialty Pharmacy
 
 ### Fri 02/03 08:00 AM - Health & Long Term Care (HLTC): SB 5213 Pharmacy benefit managers
 #### 153 👍 - Pro

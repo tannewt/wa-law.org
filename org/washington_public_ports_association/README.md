@@ -69,7 +69,7 @@
 
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎2 
 * 👎 Eric ffitch
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
@@ -117,7 +117,7 @@
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures   ❓1
 * ❓💵 John Stuhlmiller
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
 * 👍 Eric ffitch
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  

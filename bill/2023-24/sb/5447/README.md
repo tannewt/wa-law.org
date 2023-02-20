@@ -15,14 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152308&caId=21678&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152308&caId=21678&tId=4)
 
-#### 15 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Joel Creswell - Washington Department of Ecology
 * 💵Donny Donovan - IAM 751
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
 * 💵Tom Wolf - bp America
+* 💵Donny Donovan - IAM 751
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Anne Kroeker - No Group
 
 #### 0 ❓ - Other
 

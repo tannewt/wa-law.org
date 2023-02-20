@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Travis Bown - Washington Association Of Maintenance & Operations Administrators
 * 💵Greg Hanon - NAIOP
+* Travis Hanson - Deer Park School District
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Anna Lising - Governor's Office
 * Emily Salzberg - Department of Commerce

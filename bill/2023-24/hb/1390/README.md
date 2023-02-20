@@ -15,12 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=4)
 
-#### 37 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Bonnie Hemphill - UMC, Inc
+* 💵Brandon Houskeeper - CenTrio Energy, Seattle
 
-#### 68 👎 - Con
+#### 295 👎 - Con
+Testifying:
+* Lori Olson
+* Karen McIntosh
 
 #### 1 ❓ - Other
 Testifying:

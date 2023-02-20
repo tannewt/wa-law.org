@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152085&caId=21625&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152085&caId=21625&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Paul Beveridge - Family Wineries of Washington State
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 #### 0 👎 - Con
 

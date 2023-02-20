@@ -42,3 +42,5 @@
 
 ## [SB 5742](/bill/2023-24/sb/5742/) - DOT grant programs 👍1  
 * 👍 Vicky Clarke
+
+## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍1  

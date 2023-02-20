@@ -24,3 +24,5 @@
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍1  
+
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

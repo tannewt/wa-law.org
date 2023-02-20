@@ -4,6 +4,9 @@
 * ❓ Josh McDonald
 * ❓ Josh McDonald
 
+## [HB 1182](/bill/2023-24/hb/1182/) - Wine/alcohol tax exemption 👍1  
+* 👍 Josh McDonald
+
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 * 👍 Josh McDonald
 

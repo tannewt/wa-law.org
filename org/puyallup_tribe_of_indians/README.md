@@ -7,6 +7,10 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
+## [HB 1681](/bill/2023-24/hb/1681/) - Problem gambling 👍1  
+
+## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
+
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
 ## [HB 1758](/bill/2023-24/hb/1758/) - Hatchery maintenance permits 👍1  
@@ -15,6 +19,10 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
+
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 
+
+## [SB 5634](/bill/2023-24/sb/5634/) - Problem gambling 👍1  

@@ -20,6 +20,8 @@ Testifying:
 * Charles Whitfield
 * Marci Straub - WAVS- board member
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Donald Ladely
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

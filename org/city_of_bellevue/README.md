@@ -16,9 +16,11 @@
 
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
+
+## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting   ❓1
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Councilmember Janice Zahn

@@ -8,7 +8,7 @@
 
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
@@ -19,20 +19,24 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 * 👍 Stephan Blanford
 
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
 * 👍 Dr. Stephan Blanford
 
-## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
@@ -44,7 +48,7 @@
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
 
-## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
+## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍2  
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 

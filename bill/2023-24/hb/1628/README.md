@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=4)
 
-#### 378 👍 - Pro
+#### 430 👍 - Pro
 Testifying:
 * Sol Villarreal
 * Angela Birney - City of Redmond Mayor
@@ -30,7 +30,7 @@ Testifying:
 * Councilmember Kelli Curtis - [City of Kirkland](/org/city_of_kirkland/)
 * Mayor Mary Lou Pauly - [City of Issaquah](/org/city_of_issaquah/)
 
-#### 166 👎 - Con
+#### 239 👎 - Con
 Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Tim Eyman - Concerned Taxpayer
@@ -42,6 +42,8 @@ Testifying:
 * Lawrence Crites - Small housing provider
 * Elsie Baker
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Blane Brinkley - BHI
+* Clark Lane
 
 #### 0 ❓ - Other
 

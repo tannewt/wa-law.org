@@ -36,7 +36,7 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Kelly Rider
 
-## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
@@ -91,7 +91,7 @@
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
-## [HB 1300](/bill/2023-24/hb/1300/) - Assisted reproduction fraud 👍1  
+## [HB 1300](/bill/2023-24/hb/1300/) - Assisted reproduction fraud 👍2  
 
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍1  
 
@@ -119,7 +119,7 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
-## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
 ## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries  👎1 
 
@@ -142,6 +142,8 @@
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
 ## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍1  
+
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍3  
 
@@ -167,7 +169,7 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
-## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍1  
+## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍2  
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 * 👍 Kelly Rider
@@ -190,6 +192,8 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍5  
 * 👍 Kate Becker
+
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 * 👍 MICHAEL MURPHY
@@ -273,6 +277,8 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
+## [SB 5186](/bill/2023-24/sb/5186/) - Contracting/discrimination 👍1  
+
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍3  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
@@ -288,12 +294,12 @@
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍2  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 * 👍 Jessica Tollenaar Cafferty
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
 
-## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
+## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍2  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
 
@@ -320,6 +326,8 @@
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍2  
 
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
@@ -327,7 +335,7 @@
 
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
@@ -348,7 +356,7 @@
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees   ❓1
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍1  ❓1
 * ❓ Kelly Rider
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
@@ -360,6 +368,8 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
+
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
 
@@ -391,7 +401,11 @@
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
 
+## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
+
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍2  
+
+## [SB 5601](/bill/2023-24/sb/5601/) - Youth development office 👍1  
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍 Joe McDermott

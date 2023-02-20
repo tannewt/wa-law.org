@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Joe Kunzler
 
 #### 0 ❓ - Other

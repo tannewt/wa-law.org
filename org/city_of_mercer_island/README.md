@@ -15,7 +15,7 @@
 * ❓💵 Nick Federici
 * ❓💵 Nick Federici
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
 

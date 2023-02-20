@@ -13,6 +13,8 @@
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
@@ -22,13 +24,13 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍1  
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍2  
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
 ## [HB 1265](/bill/2023-24/hb/1265/) - Adult family homes/prop. tax 👍1  
 
-## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍2  
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍3  
 * 👍💵 Ramona Hattendorf
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
@@ -49,13 +51,15 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
 * 👍💵 Eric Warwick
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 * 👍 Eric Matthes
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
+
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
@@ -63,13 +67,13 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
-## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍1  
+## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍2  
 
 ## [HB 1776](/bill/2023-24/hb/1776/) - Applied behavior analysis  👎1 
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
-## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍1  
+## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  
 
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
 * 👍💵 Ramona Hattendorf
@@ -88,6 +92,8 @@
 
 ## [SB 5214](/bill/2023-24/sb/5214/) - Music therapists 👍1  
 
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
@@ -96,7 +102,7 @@
 
 ## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
 
-## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
+## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍2  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓2
 * ❓💵 Ramona Hattendorf
@@ -112,7 +118,11 @@
 
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
 
+## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍1  
+
 ## [SB 5506](/bill/2023-24/sb/5506/) - Behavior support homes   ❓1
 * ❓💵 Ramona Hattendorf
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
+
+## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  

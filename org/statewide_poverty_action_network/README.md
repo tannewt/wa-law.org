@@ -60,7 +60,8 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
+* 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  

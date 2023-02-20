@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152136&caId=21650&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152136&caId=21650&tId=4)
 
-#### 12 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 

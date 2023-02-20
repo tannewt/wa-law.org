@@ -5,7 +5,8 @@
 
 ## [HB 1014](/bill/2023-24/hb/1014/) - Fire protection projects 👍1  
 
-## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎1 
+## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
@@ -72,8 +73,9 @@
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍2  
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍3  
 * 👍 Amy Ockerlander
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
@@ -125,7 +127,7 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Candice Bock
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍4  
 * 👍💵 Carl Schroeder
 
 ## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍1  
@@ -142,7 +144,7 @@
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
 
 ## [HB 1792](/bill/2023-24/hb/1792/) - Water rights procedures 👍1  
 
@@ -187,7 +189,7 @@
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍1  
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍1  
 * 👍💵 Candice Bock
@@ -198,7 +200,7 @@
 
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
 * 👍💵 Carl Schroeder
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
@@ -216,7 +218,8 @@
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
 
-## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
+## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
@@ -278,7 +281,8 @@
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
 
-## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍2  

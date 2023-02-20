@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 
-#### 66 👎 - Con
+#### 289 👎 - Con
 Testifying:
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association
+* Karen McIntosh
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵John Ehrenreich - WA Forest Protection Association
 * 💵Patrick Connor - NFIB
+* Dean Carlson - Department of Revenue
+* Ian Doyle - Department of Revenue

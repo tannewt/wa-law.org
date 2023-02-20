@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152322&caId=21698&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152322&caId=21698&tId=4)
 
-#### 23 👍 - Pro
+#### 35 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 02/09 10:30 AM - Health & Long Term Care (HLTC): SB 5532 Small rural hospital payment
 #### 166 👍 - Pro

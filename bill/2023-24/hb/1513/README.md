@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=4)
 
-#### 778 👍 - Pro
+#### 989 👍 - Pro
 
-#### 9 👎 - Con
+#### 19 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
 

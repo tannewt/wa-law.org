@@ -26,7 +26,7 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
-## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality   ❓1
+## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality 👍1  ❓1
 * ❓💵 Darcy Nonemacher
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  

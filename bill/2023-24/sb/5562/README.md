@@ -15,16 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152309&caId=21679&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152309&caId=21679&tId=4)
 
-#### 41 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 35 👎 - Con
+#### 132 👎 - Con
 Testifying:
 * John Worthington
 * john Worthington
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Remy Kerr - Washington State Hospital Association
 

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=4)
 
-#### 8 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Derek Sarley - Walla Walla Public Schools
 * Jim Kowalkowski - Rural Education Center

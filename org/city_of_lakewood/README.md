@@ -1,5 +1,7 @@
 # City of Lakewood
 
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
+
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  

@@ -2,7 +2,7 @@
 
 ## [HB 1297](/bill/2023-24/hb/1297/) - Geoduck task force 👍1  
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1555](/bill/2023-24/hb/1555/) - Indian tribes/extradition 👍2  
 * 👍 Earl Cowan
@@ -14,7 +14,7 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program   ❓1
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
 * 👍 Jeremy "JJ" Wilbur
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152379&caId=21736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152379&caId=21736&tId=4)
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 
-#### 1 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Rod Fleck
+* Tom Lannen - County Government
 
 #### 0 ❓ - Other
 

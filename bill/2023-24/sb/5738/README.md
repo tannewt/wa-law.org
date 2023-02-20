@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152135&caId=21649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152135&caId=21649&tId=4)
 
-#### 1302 👍 - Pro
+#### 1493 👍 - Pro
+Testifying:
+* Alan Granberg
+* 💵Michael Transue - LeMay - America's Car Museum
 
 #### 1 👎 - Con
 

@@ -2,6 +2,8 @@
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
+## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
+
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 * 👍💵 Davor Gjurasic
 

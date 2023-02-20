@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Karen Strickland - American Federation of Teachers (AFT)
 
 ### Wed 01/25 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5513 CTC mental health counseling
 #### 61 👍 - Pro

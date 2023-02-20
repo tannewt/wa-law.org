@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jim Kowalkowski - Rural Education Center
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Wade Smith - Walla Walla Public Schools
 
 ### Tue 01/31 04:00 PM - Education (ED): HB 1550 Transition to kindergarten
 #### 151 👍 - Pro

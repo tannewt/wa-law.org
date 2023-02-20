@@ -10,7 +10,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 * 👍💵 Emily Murphy

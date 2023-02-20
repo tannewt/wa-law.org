@@ -5,7 +5,9 @@
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍4  
 * 👍 Elaine Oneil
 
-## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍2  
+## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍4  
+* 👍 Elaine Oneil
+* 👍 Ken Miller
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 

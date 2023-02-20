@@ -89,8 +89,13 @@
 
 ## [HB 1569](/bill/2023-24/hb/1569/) - Common interest communities  👎2 
 
-## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎1 
+## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎2 
 * 👎💵 Bill Stauffacher
+* 👎💵 Josie Cummings
+
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+
+## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor  👎1 
 
 ## [HB 1677](/bill/2023-24/hb/1677/) - Campaign finance disclosure  👎1 
 
@@ -120,8 +125,9 @@
 * 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 * 👍💵 Bill Stauffacher
+* 👍💵 Josie Cummings
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 * 👍💵 Josie Cummings
@@ -134,7 +140,8 @@
 ## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees  👎1 
 * 👎💵 Josie Cummings
 
-## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
+## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍2  
+* 👍💵 Josie Cummings
 * 👍💵 Josie Cummings
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
@@ -162,9 +169,10 @@
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 
-## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍2  
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍3  
 * 👍💵 Josie Cummings
 * 👍💵 Jan Himebaugh
+* 👍💵 Josie Cummings
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply 👍1  
 

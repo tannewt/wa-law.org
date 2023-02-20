@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152088&caId=21628&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152088&caId=21628&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Travis Lorton - BM Administrative Services, Inc.
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Ian Doyle - Department of Revenue
 
 #### 0 ❓ - Other

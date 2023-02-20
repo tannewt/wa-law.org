@@ -15,16 +15,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=4)
 
-#### 2 👍 - Pro
+#### 209 👍 - Pro
 Testifying:
 * C Davis
 * Dana Ralph - Mayor of the City of Kent
+* Brett Gailey - Mayor, City of Lake Stevens
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Amber Goldade
+* Joe Kunzler
+* Rachel Olson
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Kyle Hardtke
 
-#### 5 👎 - Con
+#### 59 👎 - Con
+Testifying:
+* 💵Shaun Scott
+* M. Lorena Gonzalez - ACLU of Washington
+* 💵Paul Benz - WA Coalition for Police Accountability
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+* Nancy Backus - City of Auburn, Mayor
 
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1363 Vehicular pursuits
 #### 265 👍 - Pro

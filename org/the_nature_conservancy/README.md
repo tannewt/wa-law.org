@@ -67,6 +67,8 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
@@ -88,7 +90,7 @@
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 
-## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  
 * 👍 Skippy Shaw
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  

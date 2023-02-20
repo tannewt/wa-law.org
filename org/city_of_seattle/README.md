@@ -72,7 +72,7 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
@@ -109,7 +109,7 @@
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 * 👍 Lisa Herbold
@@ -135,9 +135,11 @@
 
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
 
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍2  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

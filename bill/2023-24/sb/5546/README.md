@@ -15,17 +15,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=4)
 
-#### 12 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * john Worthington - AAMC
 * john Worthington
+* Peter Manning - Black Excellence In Cannabis
+* john Worthington - AAMC
+* Shawn DeNae-Wagenseller - WA Bud Co.
+* 💵Lara Kaminsky - The Cannabis Alliance
 
-#### 4 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
+* Andy Brassington - Evergreen Herbal
+* Brandon Park - Hygge Farms Tier 1 Producer/Processor
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* David Gang - Washington State University
 
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5546 Cannabis commission
 #### 64 👍 - Pro

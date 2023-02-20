@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Mason Marks
+* Kody Zalewski
 
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5263 Psilocybin
 #### 116 👍 - Pro

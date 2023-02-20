@@ -15,13 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152043&caId=21613&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152043&caId=21613&tId=4)
 
-#### 25 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
+* Mitch Kramer - FixCO
+* Nathan Proctor - PIRG
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Ashley Sutton - TechNet
+* 💵Melissa Gombosky - CTIA
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Devin Gombosky - Tesla Motors
 
 ### Wed 02/01 01:30 PM - Consumer Protection & Business (CPB): HB 1392 Electronics repair
 #### 383 👍 - Pro

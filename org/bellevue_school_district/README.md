@@ -11,7 +11,7 @@
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
-## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 

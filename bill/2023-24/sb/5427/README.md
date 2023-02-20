@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152298&caId=21668&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152298&caId=21668&tId=4)
 
-#### 103 👍 - Pro
+#### 272 👍 - Pro
+Testifying:
+* Sargun Handa - ASWWU President
+* Jenna Sims
+* Kendall Kosai - OCA
+* 💵Stephen Paolini - Anti-Defamation League
 
-#### 368 👎 - Con
+#### 709 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression (FIRE)
 * eric Pratt
 * Julie Barrett - Conservative Ladies of Washington
+* Rebecca Faust
+* C Davis - Washingtonians to Recall Inslee
 
 #### 1 ❓ - Other
 Testifying:

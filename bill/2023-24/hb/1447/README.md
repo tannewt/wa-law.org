@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152044&caId=21614&tId=4)
 
-#### 127 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * Avi Laudon - The workforce development council of Seattle-king county
 * Anecia Evans - Refugee Planning Committee

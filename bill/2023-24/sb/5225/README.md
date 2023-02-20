@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152301&caId=21671&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152301&caId=21671&tId=4)
 
-#### 78 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Colleen Condon - Washington Childcare Center Association
 * Susan Brown - Washington Childcare Center Association
@@ -23,10 +23,12 @@ Testifying:
 * Xochilt lopez - communities for our college
 * 💵Ryan Pricco - Child Care Aware of WA
 * 💵Kristin Wiggins - OneAmerica
+* Sargun Handa - ASWWU President
+* 💵Maggie Humphreys - MomsRising & MamásConPoder
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/25 01:30 PM - Early Learning & K-12 Education (EDU): SB 5225 Working conn. child care
 #### 115 👍 - Pro

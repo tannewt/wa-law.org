@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152040&caId=21610&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152040&caId=21610&tId=4)
 
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Sopeara Chay - South Puget Sound Community College
+* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* Arlen Harris - SBCTC
+* Jacob Vigdor - University of Washington Faculty/Council of Faculty
 
 #### 0 👎 - Con
 

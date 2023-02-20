@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152336&caId=21690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152336&caId=21690&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1512 Missing persons
 #### 12 👍 - Pro

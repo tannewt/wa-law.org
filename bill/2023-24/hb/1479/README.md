@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=4)
 
-#### 8 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Room Survivor
 * Jana Parker - Seattle Special Education PTSA
+* Ashley Salazar - Parent of a Restraint Survivor
 
 #### 0 👎 - Con
 

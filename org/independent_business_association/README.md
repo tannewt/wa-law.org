@@ -13,12 +13,13 @@
 * 👍💵 James King
 * 👍💵 James King
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 
 
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
 * 👎💵 James King
 
-## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍1  
+## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍2  
+* 👍💵 James King
 * 👍💵 James King
 
 ## [HB 1684](/bill/2023-24/hb/1684/) - Tribes/job title reporting   ❓1

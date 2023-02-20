@@ -15,4 +15,4 @@
 ## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 
-## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
